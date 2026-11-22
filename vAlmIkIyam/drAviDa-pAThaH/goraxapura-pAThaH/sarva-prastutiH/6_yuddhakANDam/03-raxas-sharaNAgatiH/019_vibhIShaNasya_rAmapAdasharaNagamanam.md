@@ -82,7 +82,7 @@ Vibhishana the brother of Ravana bent down and glanced towards the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When safety (abhaye) was granted by Rāghava, Rāvaṇa's younger brother Vibhīṣaṇa, of great wisdom (mahāprājñaḥ), bowed low (saṃnataḥ) and gazed down upon the earth.
+When safety (_abhaye_) was granted by Rāghava, Rāvaṇa&#x27;s younger brother Vibhīṣaṇa, of great wisdom (_mahāprājñaḥ_), bowed low (_saṃnataḥ_) and gazed down upon the earth.
 </details>
 </details>
 
@@ -125,7 +125,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighted, he descended from the sky (khāt) to the earth along with his devoted attendants; and that righteous-souled (dharmātmā) Vibhīṣaṇa fell down before Rāma.
+Delighted, he descended from the sky (_khāt_) to the earth along with his devoted attendants; and that righteous-souled (_dharmātmā_) Vibhīṣaṇa fell down before Rāma.
 </details>
 </details>
 
@@ -179,7 +179,7 @@ the following words which were equitable suitable and delightful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he fell at [Rāma's] two feet together with his four rākṣasas, and Vibhīṣaṇa spoke these words to Rāma—
+Then he fell at [Rāma&#x27;s] two feet together with his four _rākṣasas_, and Vibhīṣaṇa spoke these words to Rāma—
 </details>
 </details>
 
@@ -231,7 +231,7 @@ you, who are the refuge for all the beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Words] endowed with dharma (dharmayuktam), fitting, and bringing immediate joy (sampraharṣaṇam): “I am the younger brother of Rāvaṇa, and I have been dishonored (avamānitaḥ) by him.
+[Words] endowed with _dharma_ (_dharmayuktam_), fitting, and bringing immediate joy (_sampraharṣaṇam_): “I am the younger brother of Rāvaṇa, and I have been dishonored (_avamānitaḥ_) by him.
 </details>
 </details>
 
@@ -283,7 +283,7 @@ at your disposal."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have come for refuge to you, the refuge of all beings (sarvabhūtānāṃ śaraṇyam); Laṅkā has been abandoned by me, along with my friends and riches.
+“I have come for refuge to you, the refuge of all beings (_sarvabhūtānāṃ śaraṇyam_); Laṅkā has been abandoned by me, along with my friends and riches.
 </details>
 </details>
 
@@ -314,7 +314,7 @@ at your disposal."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For my kingdom (rājyam), my life, and my joys rest in you (bhavadgatam).” Hearing those words of his, Rāma spoke [in reply]:
+“For my kingdom (_rājyam_), my life, and my joys rest in you (_bhavadgatam_).” Hearing those words of his, Rāma spoke [in reply]:
 </details>
 </details>
 
@@ -393,9 +393,9 @@ about the detailed strength of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Consoling (sāntvayitvā) him with words and drinking him in, as it were, with his eyes (locanābhyāṃ pibann iva): “Declare to me truly (tattvena) the strength and weakness of the rākṣasas.”
+**7:** Consoling (_sāntvayitvā_) him with words and drinking him in, as it were, with his eyes (_locanābhyāṃ pibann iva_): “Declare to me truly (_tattvena_) the strength and weakness of the _rākṣasas_.”
 
-**8:** Thus addressed then by Rāma of unwearying deeds (akliṣṭakarmaṇā), the rākṣasa began to recount in full the military might (balam) of Rāvaṇa:
+**8:** Thus addressed then by Rāma of unwearying deeds (_akliṣṭakarmaṇā_), the _rākṣasa_ began to recount in full the military might (_balam_) of Rāvaṇa:
 </details>
 </details>
 
@@ -441,7 +441,7 @@ not be killed by all beings, Gandharvas (celestial musicians), serpents, and bir
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O prince (rājaputra), through the boon granted by the Self-existent Brahmā (svayambhuvaḥ), Ten-necked Rāvaṇa is invulnerable (avadhyaḥ) to all beings—gandharvas, serpents, and birds.
+“O prince (_rājaputra_), through the boon granted by the Self-existent Brahmā (_svayambhuvaḥ_), Ten-necked Rāvaṇa is invulnerable (_avadhyaḥ_) to all beings—_gandharvas_, serpents, and birds.
 </details>
 </details>
 
@@ -488,7 +488,7 @@ has enough strength to fight against Indra (Lord of celestials) in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Next after Rāvaṇa is my elder brother, heroic Kumbhakarṇa of great splendor (mahātejāḥ), who matches Śakra [Indra] in strength (śakrapratibalaḥ) in battle.
+“Next after Rāvaṇa is my elder brother, heroic Kumbhakarṇa of great splendor (_mahātejāḥ_), who matches Śakra [Indra] in strength (_śakrapratibalaḥ_) in battle.
 </details>
 </details>
 
@@ -540,7 +540,7 @@ Manibhadra in a battle on the mountain of Kailasa."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāma, his army commander (senāpatiḥ) is Prahasta—if he has been heard of by you—by whom Maṇibhadra was defeated in battle on Mount Kailāsa.
+“O Rāma, his army commander (_senāpatiḥ_) is Prahasta—if he has been heard of by you—by whom Maṇibhadra was defeated in battle on Mount Kailāsa.
 </details>
 </details>
 
@@ -598,7 +598,7 @@ in battle wielding a bow, becomes invisible."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And there is Indrajit, wearing a lizard-skin finger-guard (baddhagodhāṅgulitrāṇaḥ) and impenetrable armor in battle, who, taking up his bow, becomes invisible (adṛśyaḥ) as he stands [fighting].
+“And there is Indrajit, wearing a lizard-skin finger-guard (_baddhagodhāṅgulitrāṇaḥ_) and impenetrable armor in battle, who, taking up his bow, becomes invisible (_adṛśyaḥ_) as he stands [fighting].
 </details>
 </details>
 
@@ -656,7 +656,7 @@ enemy while remaining invisible in the battle field with a huge battle array (on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In battle of vast array (sumahadvyūhe), having propitiated the sacrificial fire (hutāśanam), the glorious Indrajit, gone into invisibility (antardhānagataḥ), slays [his foes], O Rāghava.
+“In battle of vast array (_sumahadvyūhe_), having propitiated the sacrificial fire (_hutāśanam_), the glorious Indrajit, gone into invisibility (_antardhānagataḥ_), slays [his foes], O Rāghava.
 </details>
 </details>
 
@@ -708,7 +708,7 @@ guardians of the world in battle - they are the commanders of his army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mahodara and Mahāpārśva, and the rākṣasa Akampana—these are his army commanders (anīkapāḥ), equal to the world-guardians (lokapālasamāḥ) in battle.
+“Mahodara and Mahāpārśva, and the _rākṣasa_ Akampana—these are his army commanders (_anīkapāḥ_), equal to the world-guardians (_lokapālasamāḥ_) in battle.
 </details>
 </details>
 
@@ -778,9 +778,9 @@ Those guardians of the earth along with the celestials were defeated by the wick
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “There are ten thousand crores (daśakoṭisahasrāṇi) of shape-shifting (kāmarūpiṇām) rākṣasas, subsisting on flesh and blood, who dwell in the city of Laṅkā.
+**15:** “There are ten thousand crores (_daśakoṭisahasrāṇi_) of shape-shifting (_kāmarūpiṇām_) _rākṣasas_, subsisting on flesh and blood, who dwell in the city of Laṅkā.
 
-**16:** “Accompanied by them, that king fought against the world-guardians (lokapālān); and together with the gods, they were routed (bhagnāḥ) by the evil-souled Rāvaṇa.”
+**16:** “Accompanied by them, that king fought against the world-guardians (_lokapālān_); and together with the gods, they were routed (_bhagnāḥ_) by the evil-souled Rāvaṇa.”
 </details>
 </details>
 
@@ -832,7 +832,7 @@ spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Vibhīṣaṇa, the best of the Raghus (raghusattamaḥ) pondered everything with his mind (anvīkṣya manasā) and spoke these words:
+Hearing those words of Vibhīṣaṇa, the best of the Raghus (_raghusattamaḥ_) pondered everything with his mind (_anvīkṣya manasā_) and spoke these words:
 </details>
 </details>
 
@@ -884,7 +884,7 @@ were told by you, as true."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever martial exploits (karmāpadānāni) of Rāvaṇa have been truly recounted [by you], O Vibhīṣaṇa, I understand (avagacchāmi) them all.
+“Whatever martial exploits (_karmāpadānāni_) of Rāvaṇa have been truly recounted [by you], O Vibhīṣaṇa, I understand (_avagacchāmi_) them all.
 </details>
 </details>
 
@@ -941,7 +941,7 @@ the king. Hear this truth from me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain Ten-necked Rāvaṇa along with Prahasta and his sons (sahātmajam), I shall make you king (rājānam); hear this truth of mine!
+“Having slain Ten-necked Rāvaṇa along with Prahasta and his sons (_sahātmajam_), I shall make you king (_rājānam_); hear this truth of mine!
 </details>
 </details>
 
@@ -988,7 +988,7 @@ left alive by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether Rāvaṇa should enter Rasātala, or even Pātāla, or the presence of the Grandsire Brahmā (pitāmahasakāśam), he shall not escape from me (me) alive.
+“Whether Rāvaṇa should enter Rasātala, or even Pātāla, or the presence of the Grandsire Brahmā (_pitāmahasakāśam_), he shall not escape from me (_me_) alive.
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ and relatives in battle. I take oath on my three brothers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without slaying (ahatvā) Rāvaṇa in battle along with his sons, kinsmen, and allies, I shall not enter Ayodhyā; I swear (śape) by those three brothers of mine!”
+“Without slaying (_ahatvā_) Rāvaṇa in battle along with his sons, kinsmen, and allies, I shall not enter Ayodhyā; I swear (_śape_) by those three brothers of mine!”
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ Vibhishana saluted him by bowing his head and started telling as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāma of unwearying deeds, the righteous-souled [Vibhīṣaṇa] bowed his head in salutation (śirasābhivandya) and began to speak thus:
+Hearing those words of Rāma of unwearying deeds, the righteous-souled [Vibhīṣaṇa] bowed his head in salutation (_śirasābhivandya_) and began to speak thus:
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ According to my strength, I will also penetrate into the army of the adversary t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the slaying of the rākṣasas and the storming (pradharṣaṇe) of Laṅkā, I shall render aid (sāhyam) to the utmost of my strength (yathāprāṇam), and I shall enter [their] army.”
+“In the slaying of the _rākṣasas_ and the storming (_pradharṣaṇe_) of Laṅkā, I shall render aid (_sāhyam_) to the utmost of my strength (_yathāprāṇam_), and I shall enter [their] army.”
 </details>
 </details>
 
@@ -1239,9 +1239,9 @@ this greatly intelligent Vibhishana with that water, so that I am pleased."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Embracing (pariṣvajya) Vibhīṣaṇa as he spoke thus, Rāma, pleased, said to Lakṣmaṇa: “Bring water from the ocean (samudrāt)!
+**24:** Embracing (_pariṣvajya_) Vibhīṣaṇa as he spoke thus, Rāma, pleased, said to Lakṣmaṇa: “Bring water from the ocean (_samudrāt_)!
 
-**25:** “And with that [water], O bestower of honor (mānada), quickly consecrate (abhiṣiñca) this wise Vibhīṣaṇa as king of the rākṣasas, since I am graciously pleased (prasanne mayi)!”
+**25:** “And with that [water], O bestower of honor (_mānada_), quickly consecrate (_abhiṣiñca_) this wise Vibhīṣaṇa as king of the _rākṣasas_, since I am graciously pleased (_prasanne mayi_)!”
 </details>
 </details>
 
@@ -1311,7 +1311,7 @@ faithful companions and alighted in the vicinity of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Saumitri [Lakṣmaṇa] consecrated Vibhīṣaṇa as king in the midst of the monkey chiefs (vānaramukhyānām) at the royal command (rājaśāsanāt).
+Thus addressed, Saumitri [Lakṣmaṇa] consecrated Vibhīṣaṇa as king in the midst of the monkey chiefs (_vānaramukhyānām_) at the royal command (_rājaśāsanāt_).
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ Perceiving that instant graciousness in Rama, the monkeys cried, proclaiming
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that gracious favor (prasādam) of Rāma, the monkeys immediately cried out aloud (pracukruśuḥ) and acclaimed that great-souled one, saying, “Bravo! Bravo!” (sādhu sādhv iti).
+Beholding that gracious favor (_prasādam_) of Rāma, the monkeys immediately cried out aloud (_pracukruśuḥ_) and acclaimed that great-souled one, saying, “Bravo! Bravo!” (_sādhu sādhv iti_).
 </details>
 </details>
 
@@ -1425,7 +1425,7 @@ monkeys possessing a great splendor?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Hanūmān and Sugrīva spoke to Vibhīṣaṇa: “How shall we cross the imperturbable (akṣobhyam) ocean, the abode of Varuṇa (varuṇālayam), surrounded as we all are by the armies of mighty monkeys?
+And Hanūmān and Sugrīva spoke to Vibhīṣaṇa: “How shall we cross the imperturbable (_akṣobhyam_) ocean, the abode of Varuṇa (_varuṇālayam_), surrounded as we all are by the armies of mighty monkeys?
 </details>
 </details>
 
@@ -1477,7 +1477,7 @@ streams and rivers, and arrive at that strategy?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By what expedients (upāyaiḥ) may we approach the lord of rivers and streams (nadanadīpatim), so that we all with our armies may swiftly cross the abode of Varuṇa?”
+“By what expedients (_upāyaiḥ_) may we approach the lord of rivers and streams (_nadanadīpatim_), so that we all with our armies may swiftly cross the abode of Varuṇa?”
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ prince Rama seeks ocean as his refuge"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, the righteous-souled (dharmātmā) Vibhīṣaṇa replied: “King Rāghava ought to go for refuge (śaraṇaṃ gantum arhati) to the Ocean.
+Thus addressed, the righteous-souled (_dharmātmā_) Vibhīṣaṇa replied: “King Rāghava ought to go for refuge (_śaraṇaṃ gantum arhati_) to the Ocean.
 </details>
 </details>
 
@@ -1594,7 +1594,7 @@ will be inclined to do the act for Rama, his kinsman".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This immeasurable (aprameyaḥ) great ocean was excavated by Sagara (khānitaḥ sagareṇāyam); the great ocean ought therefore to accomplish the work of Rāma, its kinsman (jñāteḥ).”
+“This immeasurable (_aprameyaḥ_) great ocean was excavated by Sagara (_khānitaḥ sagareṇāyam_); the great ocean ought therefore to accomplish the work of Rāma, its kinsman (_jñāteḥ_).”
 </details>
 </details>
 
@@ -1649,7 +1649,7 @@ place where Rama and Lakshmana were there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus advised by the wise (vipaścitā) rākṣasa Vibhīṣaṇa, Sugrīva then came to where Rāma was with Lakṣmaṇa (salakṣmaṇaḥ).
+Thus advised by the wise (_vipaścitā_) _rākṣasa_ Vibhīṣaṇa, Sugrīva then came to where Rāma was with Lakṣmaṇa (_salakṣmaṇaḥ_).
 </details>
 </details>
 
@@ -1696,7 +1696,7 @@ advising Rama to approach the ocean (to allow him a passage).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then broad-necked (vipulagrīvaḥ) Sugrīva began to report the auspicious words of Vibhīṣaṇa regarding sitting in supplication before the Ocean (sāgarasyopaveśanam).
+And then broad-necked (_vipulagrīvaḥ_) Sugrīva began to report the auspicious words of Vibhīṣaṇa regarding sitting in supplication before the Ocean (_sāgarasyopaveśanam_).
 </details>
 </details>
 
@@ -1733,7 +1733,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even to this Rāma, righteous by nature (prakṛtyā dharmaśīlasya), it was pleasing (arocata); and he of great splendor, [addressing] Sugrīva, lord of monkeys, along with Lakṣmaṇa—
+Even to this Rāma, righteous by nature (_prakṛtyā dharmaśīlasya_), it was pleasing (_arocata_); and he of great splendor, [addressing] Sugrīva, lord of monkeys, along with Lakṣmaṇa—
 </details>
 </details>
 
@@ -1805,9 +1805,9 @@ is agreeable to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** In order to honor (satkriyārtham) [Vibhīṣaṇa's counsel], spoke with a smile to [Lakṣmaṇa], skilled in action (kriyādakṣam): “This counsel of Vibhīṣaṇa pleases me, O Lakṣmaṇa.
+**35:** In order to honor (_satkriyārtham_) [Vibhīṣaṇa&#x27;s counsel], spoke with a smile to [Lakṣmaṇa], skilled in action (_kriyādakṣam_): “This counsel of Vibhīṣaṇa pleases me, O Lakṣmaṇa.
 
-**36:** “Sugrīva is ever wise (paṇḍitaḥ), and you are discerning in counsel (mantravicakṣaṇaḥ); having deliberated together on the matter (ubhābhyāṃ sampradhāryārtham), declare whatever pleases you both.”
+**36:** “Sugrīva is ever wise (_paṇḍitaḥ_), and you are discerning in counsel (_mantravicakṣaṇaḥ_); having deliberated together on the matter (_ubhābhyāṃ sampradhāryārtham_), declare whatever pleases you both.”
 </details>
 </details>
 
@@ -1870,7 +1870,7 @@ proper courtesy, the following words: .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, those two heroes, Sugrīva and Lakṣmaṇa, spoke these words endowed with respectful courtesy (samudācārasaṃyuktam):
+Thus addressed, those two heroes, Sugrīva and Lakṣmaṇa, spoke these words endowed with respectful courtesy (_samudācārasaṃyuktam_):
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ time of crisis be agreeable also to us?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why, O tiger among men (naravyāghra), O Rāghava, should that which has been spoken by Vibhīṣaṇa—so salutary (sukhāvaham) at this juncture—not please the two of us (nau)?
+“Why, O tiger among men (_naravyāghra_), O Rāghava, should that which has been spoken by Vibhīṣaṇa—so salutary (_sukhāvaham_) at this juncture—not please the two of us (_nau_)?
 </details>
 </details>
 
@@ -1974,7 +1974,7 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without binding a bridge (abaddhvā sāgare setum) across this dreadful ocean, the abode of Varuṇa, Laṅkā cannot be reached (nāsādituṃ śakyā) even by the gods and asuras together with Indra.
+“Without binding a bridge (_abaddhvā sāgare setum_) across this dreadful ocean, the abode of Varuṇa, Laṅkā cannot be reached (_nāsādituṃ śakyā_) even by the gods and _asuras_ together with Indra.
 </details>
 </details>
 
@@ -2007,7 +2007,7 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the words of the heroic Vibhīṣaṇa be carried out according to their purpose (yathārtham); enough of losing time (alaṃ kālātyayaṃ kṛtvā)! Let this Ocean be enjoined (niyujyatām), so that with our army we may march to the city ruled by Rāvaṇa.”
+“Let the words of the heroic Vibhīṣaṇa be carried out according to their purpose (_yathārtham_); enough of losing time (_alaṃ kālātyayaṃ kṛtvā_)! Let this Ocean be enjoined (_niyujyatām_), so that with our army we may march to the city ruled by Rāvaṇa.”
 </details>
 </details>
 
@@ -2067,7 +2067,7 @@ city being ruled by Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Rāma then seated himself (saṃviveśa) upon the shore of the lord of rivers and streams strewn with kuśa grass (kuśāstīrṇe), like the sacrificial fire (hutāśanaḥ) upon an altar (vedyām iva).
+Thus addressed, Rāma then seated himself (_saṃviveśa_) upon the shore of the lord of rivers and streams strewn with _kuśa_ grass (_kuśāstīrṇe_), like the sacrificial fire (_hutāśanaḥ_) upon an altar (_vedyām iva_).
 </details>
 </details>
 

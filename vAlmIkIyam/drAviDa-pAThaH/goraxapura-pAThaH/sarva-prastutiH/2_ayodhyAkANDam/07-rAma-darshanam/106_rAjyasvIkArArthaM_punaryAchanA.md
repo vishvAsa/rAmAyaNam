@@ -90,9 +90,9 @@ at the banks of that River Mandakini.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** When Rāma had spoken thus and ceased from his speech fraught with deep meaning (vacanam arthavat), then on the bank of the Mandākinī, unto Rāma who was ever tenderly affectionate toward his subjects (prakṛti-vatsalam)—
+**1:** When Rāma had spoken thus and ceased from his speech fraught with deep meaning (_vacanam arthavat_), then on the bank of the Mandākinī, unto Rāma who was ever tenderly affectionate toward his subjects (_prakṛti-vatsalam_)—
 
-**2:** Righteous Bharata spoke these wondrous words (citraṃ vacaḥ) conformable to dharma: “Who indeed in this world could be such as you are, O subduer of foes?
+**2:** Righteous Bharata spoke these wondrous words (_citraṃ vacaḥ_) conformable to dharma: “Who indeed in this world could be such as you are, O subduer of foes?
 </details>
 </details>
 
@@ -145,7 +145,7 @@ elders and you clarify your doubts from them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither can sorrow shake you with anguish (na tvāṃ pravyathayed duḥkham), nor can joy elate you (prītir vā na praharṣayet); you are honoured by the aged elders (sammataś cāsi vṛddhānām), and yet you consult them on matters of doubt (saṃśayān).
+Neither can sorrow shake you with anguish (_na tvāṃ pravyathayed duḥkham_), nor can joy elate you (_prītir vā na praharṣayet_); you are honoured by the aged elders (_sammataś cāsi vṛddhānām_), and yet you consult them on matters of doubt (_saṃśayān_).
 </details>
 </details>
 
@@ -198,7 +198,7 @@ with an equal eye?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking upon the living even as upon the dead (yathā mṛtas tathā jīvan), and upon what exists even as upon what does not exist (yathāsati tathā sati)—by what cause could that man be tormented in whom such attainment of wisdom (buddhi-lābhaḥ) abides?
+Looking upon the living even as upon the dead (_yathā mṛtas tathā jīvan_), and upon what exists even as upon what does not exist (_yathāsati tathā sati_)—by what cause could that man be tormented in whom such attainment of wisdom (_buddhi-lābhaḥ_) abides?
 </details>
 </details>
 
@@ -250,7 +250,7 @@ even on meeting with adversity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he who knows both the higher and the lower truths (parāvara-jñaḥ) even as you do, O lord of men—such a man, even on meeting with calamity (vyasanaṃ prāpya), ought never to sink into despondency (na viṣīditum arhati).
+And he who knows both the higher and the lower truths (_parāvara-jñaḥ_) even as you do, O lord of men—such a man, even on meeting with calamity (_vyasanaṃ prāpya_), ought never to sink into despondency (_na viṣīditum arhati_).
 </details>
 </details>
 
@@ -303,7 +303,7 @@ promise, all-knowing, all-viewing and endowed with understanding."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of strength and pure goodness equal to the immortals (amaropama-sattvaḥ), you are great-souled and true to your word (satya-saṅgaraḥ); you are omniscient (sarvajñaḥ), all-seeing (sarva-darśī), and endowed with supreme wisdom, O Rāghava!
+Possessed of strength and pure goodness equal to the immortals (_amaropama-sattvaḥ_), you are great-souled and true to your word (_satya-saṅgaraḥ_); you are omniscient (_sarvajñaḥ_), all-seeing (_sarva-darśī_), and endowed with supreme wisdom, O Rāghava!
 </details>
 </details>
 
@@ -363,7 +363,7 @@ such attributes; and recognising the birth and end of all beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even the most unbearable sorrow (aviṣahyatamaṃ duḥkham) cannot overpower you, endowed as you are with such noble virtues and conversant with the origin and dissolution of all beings (prabhavābhava-kovidam).
+Even the most unbearable sorrow (_aviṣahyatamaṃ duḥkham_) cannot overpower you, endowed as you are with such noble virtues and conversant with the origin and dissolution of all beings (_prabhavābhava-kovidam_).
 </details>
 </details>
 
@@ -415,7 +415,7 @@ to my liking. (Hence) be gracious to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That sinful deed which was committed for my sake by my mean-spirited mother (mātrā kṣudrayā) while I was away from home (proṣite mayi)—that deed is utterly hateful to me (tad aniṣṭaṃ me); may Your Highness be gracious unto me!
+That sinful deed which was committed for my sake by my mean-spirited mother (_mātrā kṣudrayā_) while I was away from home (_proṣite mayi_)—that deed is utterly hateful to me (_tad aniṣṭaṃ me_); may Your Highness be gracious unto me!
 </details>
 </details>
 
@@ -468,7 +468,7 @@ punishment, my mother who was of perverse conduct and worthy of retribution."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am bound by the fetter of dharma (dharma-bandhena baddho ’smi); therefore I do not slay this mother of mine here with severe punishment (tīvreṇa daṇḍena), even though she is an evil-doer deserving of punishment (daṇḍārhāṃ pāpa-kāriṇīm).
+I am bound by the fetter of dharma (_dharma-bandhena baddho ’smi_); therefore I do not slay this mother of mine here with severe punishment (_tīvreṇa daṇḍena_), even though she is an evil-doer deserving of punishment (_daṇḍārhāṃ pāpa-kāriṇīm_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ wrong, do the most wicked and horrible act?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Born from Daśaratha of pure lineage and righteous deeds (śuddhābhijana-karmaṇaḥ), and knowing what is dharma, how could I commit an abominable deed (karma jugupsitam) utterly contrary to dharma (adharmiṣṭham)?
+Born from Daśaratha of pure lineage and righteous deeds (_śuddhābhijana-karmaṇaḥ_), and knowing what is dharma, how could I commit an abominable deed (_karma jugupsitam_) utterly contrary to dharma (_adharmiṣṭham_)?
 </details>
 </details>
 
@@ -578,7 +578,7 @@ an open assembly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Because our father the king was our venerable preceptor (guruḥ), a performer of Vedic sacrifices (kriyāvān), aged (vṛddhaḥ), now departed (pretaḥ), our father, and our visible deity (daivataṃ ceti), I would not revile him in the open assembly (saṃsadi).
+Because our father the king was our venerable preceptor (_guruḥ_), a performer of Vedic sacrifices (_kriyāvān_), aged (_vṛddhaḥ_), now departed (_pretaḥ_), our father, and our visible deity (_daivataṃ ceti_), I would not revile him in the open assembly (_saṃsadi_).
 </details>
 </details>
 
@@ -632,7 +632,7 @@ woman?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet what man conversant with dharma (dharmavit), O knower of dharma, would commit such a sinful act (karma kilbiṣam) bereft of both dharma and worldly welfare (dharmārthayor hīnam), merely out of a desire to please a woman (striyāḥ priyaṃ cikīrṣuḥ san)?
+Yet what man conversant with dharma (_dharmavit_), O knower of dharma, would commit such a sinful act (_karma kilbiṣam_) bereft of both dharma and worldly welfare (_dharmārthayor hīnam_), merely out of a desire to please a woman (_striyāḥ priyaṃ cikīrṣuḥ san_)?
 </details>
 </details>
 
@@ -693,7 +693,7 @@ The king, acting as he did, has made this saying indeed true in the eyes of the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There is an ancient saying (purā-śrutiḥ): “At the hour of death, living beings fall into delusion (antakāle hi bhūtāni muhyanti).” By acting thus, the king has made that proverb visibly true (pratyakṣam) in the world!
+There is an ancient saying (_purā-śrutiḥ_): “At the hour of death, living beings fall into delusion (_antakāle hi bhūtāni muhyanti_).” By acting thus, the king has made that proverb visibly true (_pratyakṣam_) in the world!
 </details>
 </details>
 
@@ -750,7 +750,7 @@ that transgression."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fixing your mind upon the righteous purpose (sādhv artham abhisandhāya), do you reverse and redress (pratyāharatu tad bhavān) whatever transgression our father committed through wrath, infatuation, and rashness (krodhān mohāc ca sāhasāt)!
+Fixing your mind upon the righteous purpose (_sādhv artham abhisandhāya_), do you reverse and redress (_pratyāharatu tad bhavān_) whatever transgression our father committed through wrath, infatuation, and rashness (_krodhān mohāc ca sāhasāt_)!
 </details>
 </details>
 
@@ -804,7 +804,7 @@ reverse situation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For that son who sets right a transgression committed by his father (pitur hi samatikrāntaṃ yaḥ sādhu manyate) is esteemed as a true offspring (tad apatyaṃ matam) in the world; he who acts otherwise is the very reverse (viparītam).
+For that son who sets right a transgression committed by his father (_pitur hi samatikrāntaṃ yaḥ sādhu manyate_) is esteemed as a true offspring (_tad apatyaṃ matam_) in the world; he who acts otherwise is the very reverse (_viparītam_).
 </details>
 </details>
 
@@ -857,7 +857,7 @@ father, which in this world, confident men freely condemn."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you therefore prove yourself that true offspring (tad apatyaṃ bhavān astu)! Do not become one who acquiesces (mā bhavān abhipattā) in our father’s misdeed (duṣkṛtaṃ pituḥ)—an act reviled by the wise in the world (dhīra-vigarhitam)!
+Do you therefore prove yourself that true offspring (_tad apatyaṃ bhavān astu_)! Do not become one who acquiesces (_mā bhavān abhipattā_) in our father’s misdeed (_duṣkṛtaṃ pituḥ_)—an act reviled by the wise in the world (_dhīra-vigarhitam_)!
 </details>
 </details>
 
@@ -913,7 +913,7 @@ the villagers as well as the entire kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Save Kaikeyī, myself, our departed father, our friends and kinsmen, and all the citizens of town and country (paura-jānapadān sarvān)—may Your Highness rescue this entire realm!
+Save Kaikeyī, myself, our departed father, our friends and kinsmen, and all the citizens of town and country (_paura-jānapadān sarvān_)—may Your Highness rescue this entire realm!
 </details>
 </details>
 
@@ -966,7 +966,7 @@ where is the protection of a kingdom? You ought not to do such a contradictory a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Where is the forest wilderness, and where is Kṣatriya sovereignty (kva cāraṇyaṃ kva ca kṣātram)? Where are ascetic matted locks, and where is the protection of subjects (kva jaṭāḥ kva ca pālanam)? You ought not to perform such a self-contradictory deed (vyāhataṃ karma)!
+Where is the forest wilderness, and where is Kṣatriya sovereignty (_kva cāraṇyaṃ kva ca kṣātram_)? Where are ascetic matted locks, and where is the protection of subjects (_kva jaṭāḥ kva ca pālanam_)? You ought not to perform such a self-contradictory deed (_vyāhataṃ karma_)!
 </details>
 </details>
 
@@ -1030,7 +1030,7 @@ crowned, so that he may then protect his subjects."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this indeed is the foremost duty of a Kṣatriya—royal consecration (kṣatriyasyābhiṣecanam)—whereby, O man of supreme wisdom, the protection of the subjects (prajānāṃ paripālanam) becomes possible!
+For this indeed is the foremost duty of a Kṣatriya—royal consecration (_kṣatriyasyābhiṣecanam_)—whereby, O man of supreme wisdom, the protection of the subjects (_prajānāṃ paripālanam_) becomes possible!
 </details>
 </details>
 
@@ -1083,7 +1083,7 @@ which is uncertain?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And what man of Kṣatriya lineage (kṣatra-bandhuḥ), casting aside a visible and immediate duty (pratyakṣam utsṛjya), would practice an uncertain duty resting in the distant future (āyatisthaṃ dharmam), doubtful in its outcome (saṃśayastham) and devoid of manifest fruit (alakṣaṇam)?
+And what man of Kṣatriya lineage (_kṣatra-bandhuḥ_), casting aside a visible and immediate duty (_pratyakṣam utsṛjya_), would practice an uncertain duty resting in the distant future (_āyatisthaṃ dharmam_), doubtful in its outcome (_saṃśayastham_) and devoid of manifest fruit (_alakṣaṇam_)?
 </details>
 </details>
 
@@ -1136,7 +1136,7 @@ while protecting the four castes as per tradition, by recourse to righteousness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If, however, you wish to practice only a dharma born of bodily toil and hardship (kleśajam eva dharmam), then incur that toil by righteously protecting the four social orders (dharmeṇa caturo varṇān pālayan)!
+If, however, you wish to practice only a dharma born of bodily toil and hardship (_kleśajam eva dharmam_), then incur that toil by righteously protecting the four social orders (_dharmeṇa caturo varṇān pālayan_)!
 </details>
 </details>
 
@@ -1195,7 +1195,7 @@ house-holder); Vanaprastha (life of a hermit); Sannyaasa (Life of an ascetic).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For among the four stages of life (caturṇām āśramāṇām), knowers of dharma declare the householder’s stage (gārhasthyam) to be the foremost stage of life, O knower of dharma—how then can you bear to abandon it?
+For among the four stages of life (_caturṇām āśramāṇām_), knowers of dharma declare the householder’s stage (_gārhasthyam_) to be the foremost stage of life, O knower of dharma—how then can you bear to abandon it?
 </details>
 </details>
 
@@ -1248,7 +1248,7 @@ should I rule the earth, while still you are living?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In scriptural learning (śrutena), in rank of succession (sthānena), and in birth (janmanā), I am verily a mere child compared to Your Highness (bhavato bālaḥ); how then shall I rule the earth while Your Highness is present and living (bhavati tiṣṭhati)?
+In scriptural learning (_śrutena_), in rank of succession (_sthānena_), and in birth (_janmanā_), I am verily a mere child compared to Your Highness (_bhavato bālaḥ_); how then shall I rule the earth while Your Highness is present and living (_bhavati tiṣṭhati_)?
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ inferior position, cannot even live without you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Inferior in intellect and virtues (hīna-buddhi-guṇaḥ), a mere youth, and inferior in rank as well, I cannot bear even to remain alive (na vartayitum utsahe) when bereft of Your Highness (bhavatā ca vinābhūtaḥ)!
+Inferior in intellect and virtues (_hīna-buddhi-guṇaḥ_), a mere youth, and inferior in rank as well, I cannot bear even to remain alive (_na vartayitum utsahe_) when bereft of Your Highness (_bhavatā ca vinābhūtaḥ_)!
 </details>
 </details>
 
@@ -1368,7 +1368,7 @@ your relatives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rule over this entire ancestral kingdom (nikhilaṃ rājyaṃ pitryam), undisturbed and free from every thorn (avyagram akaṇṭakam), in accordance with your own Kṣatriya dharma (svadharmeṇa), O knower of dharma, together with your kinsmen!
+Rule over this entire ancestral kingdom (_nikhilaṃ rājyaṃ pitryam_), undisturbed and free from every thorn (_avyagram akaṇṭakam_), in accordance with your own Kṣatriya dharma (_svadharmeṇa_), O knower of dharma, together with your kinsmen!
 </details>
 </details>
 
@@ -1421,7 +1421,7 @@ sacred formulas, crown you, the knower of sacred texts, here itself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Right here in the forest (ihaiva), let all the ministers and subjects together (sarvāḥ prakṛtayaḥ saha), and the officiating priests accompanied by Vasiṣṭha (ṛtvijaḥ savasiṣṭhāḥ) who are skilled in sacred formulas, consecrate you according to Vedic rite (mantravat)!
+Right here in the forest (_ihaiva_), let all the ministers and subjects together (_sarvāḥ prakṛtayaḥ saha_), and the officiating priests accompanied by Vasiṣṭha (_ṛtvijaḥ savasiṣṭhāḥ_) who are skilled in sacred formulas, consecrate you according to Vedic rite (_mantravat_)!
 </details>
 </details>
 
@@ -1475,7 +1475,7 @@ kingdom along with celestials."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consecrated by us (abhiṣiktas tvam asmābhiḥ), march back to Ayodhyā for its protection (pālane vraja), having conquered the worlds by your impetuous might (vijitya tarasā lokān), even like Indra (vāsavaḥ) accompanied by the Maruts!
+Consecrated by us (_abhiṣiktas tvam asmābhiḥ_), march back to Ayodhyā for its protection (_pālane vraja_), having conquered the worlds by your impetuous might (_vijitya tarasā lokān_), even like Indra (_vāsavaḥ_) accompanied by the Maruts!
 </details>
 </details>
 
@@ -1532,7 +1532,7 @@ Three obligations to the Gods, the Ancestors and Brahmins.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Discharging the three congenital debts (ṛṇāni trīṇy apākurvan), thoroughly scorching your ill-wishers (durhṛdaḥ sādhu nirdahan), and gratifying your friends with all desired objects (suhṛdas tarpayan kāmaiḥ), do you yourself rule over me there in Ayodhyā!
+Discharging the three congenital debts (_ṛṇāni trīṇy apākurvan_), thoroughly scorching your ill-wishers (_durhṛdaḥ sādhu nirdahan_), and gratifying your friends with all desired objects (_suhṛdas tarpayan kāmaiḥ_), do you yourself rule over me there in Ayodhyā!
 </details>
 </details>
 
@@ -1585,7 +1585,7 @@ enemies, full of terror, flee today to the ten quarters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, O noble one, let your friends rejoice at your royal consecration (muditāḥ santu suhṛdas te ’bhiṣecane), and today let your terrified ill-wishers flee toward the ten directions (palāyantāṃ durhṛdas te diśo daśa)!
+Today, O noble one, let your friends rejoice at your royal consecration (_muditāḥ santu suhṛdas te ’bhiṣecane_), and today let your terrified ill-wishers flee toward the ten directions (_palāyantāṃ durhṛdas te diśo daśa_)!
 </details>
 </details>
 
@@ -1637,7 +1637,7 @@ father from his sin."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wiping away the public reproach clinging to me and to my mother (ākrośaṃ mama mātuś ca pramṛjya), O bull among men, rescue today our revered father (tatrabhavantaṃ ca pitaram) from sin (kilbiṣāt)!
+Wiping away the public reproach clinging to me and to my mother (_ākrośaṃ mama mātuś ca pramṛjya_), O bull among men, rescue today our revered father (_tatrabhavantaṃ ca pitaram_) from sin (_kilbiṣāt_)!
 </details>
 </details>
 
@@ -1697,7 +1697,7 @@ relatives as Lord Shiva ( the Supreme Deity) on all beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With bowed head I entreat you (śirasā tvābhiyāce ’ham): show compassion toward me and toward all our kinsmen, even as the Supreme Lord (maheśvaraḥ) shows compassion toward all living beings!
+With bowed head I entreat you (_śirasā tvābhiyāce ’ham_): show compassion toward me and toward all our kinsmen, even as the Supreme Lord (_maheśvaraḥ_) shows compassion toward all living beings!
 </details>
 </details>
 
@@ -1752,7 +1752,7 @@ too will go along with you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If, however, casting this entreaty behind your back (etat pṛṣṭhataḥ kṛtvā), Your Highness shall go from here into the deep forest alone (vanam eva bhavān itaḥ gamiṣyati), then I too shall go along together with Your Highness (bhavatā sārdham apy aham)!”
+If, however, casting this entreaty behind your back (_etat pṛṣṭhataḥ kṛtvā_), Your Highness shall go from here into the deep forest alone (_vanam eva bhavān itaḥ gamiṣyati_), then I too shall go along together with Your Highness (_bhavatā sārdham apy aham_)!”
 </details>
 </details>
 
@@ -1813,7 +1813,7 @@ father and did not feel inclined to return to Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even though thus entreated with bowed head by the anguished Bharata (bharatena tāmyatā), that lord of the earth, Rāma, rich in inner strength (sattvavān) and firmly established in that word of his father (pitus tad-vacane vyavasthitaḥ), did not set his mind upon returning to Ayodhyā.
+Even though thus entreated with bowed head by the anguished Bharata (_bharatena tāmyatā_), that lord of the earth, Rāma, rich in inner strength (_sattvavān_) and firmly established in that word of his father (_pitus tad-vacane vyavasthitaḥ_), did not set his mind upon returning to Ayodhyā.
 </details>
 </details>
 
@@ -1875,7 +1875,7 @@ rejoiced to see his firmness of resolve.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that wondrous steadfastness (tad adbhutaṃ sthairyam) in Rāghava, the grieving assembly of people experienced joy and sorrow at the very same moment (samaṃ harṣam avāpa duḥkhitaḥ): they were grieved thinking, “He will not go to Ayodhyā!” and overjoyed upon beholding his unswerving fidelity to his vow (sthira-pratijñatvam).
+Beholding that wondrous steadfastness (_tad adbhutaṃ sthairyam_) in Rāghava, the grieving assembly of people experienced joy and sorrow at the very same moment (_samaṃ harṣam avāpa duḥkhitaḥ_): they were grieved thinking, “He will not go to Ayodhyā!” and overjoyed upon beholding his unswerving fidelity to his vow (_sthira-pratijñatvam_).
 </details>
 </details>
 
@@ -1946,7 +1946,7 @@ and added theri supplications to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the officiating priests (ṛtvijaḥ), the leaders of the guilds of townsfolk and merchants (naigama-yūtha-vallabhāḥ), and the queen-mothers—bereft of their senses and choked with tears (visaṃjñāśru-kalāś ca mātaraḥ)—loudly praised Bharata as he spoke thus, and bowing down to Rāma, entreated him together in unison (yayācire saha).
+Then the officiating priests (_ṛtvijaḥ_), the leaders of the guilds of townsfolk and merchants (_naigama-yūtha-vallabhāḥ_), and the queen-mothers—bereft of their senses and choked with tears (_visaṃjñāśru-kalāś ca mātaraḥ_)—loudly praised Bharata as he spoke thus, and bowing down to Rāma, entreated him together in unison (_yayācire saha_).
 </details>
 </details>
 

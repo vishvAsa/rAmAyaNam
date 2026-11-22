@@ -64,7 +64,7 @@ just said about his lineage. [1-72-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that heroic King Vaideha (Janaka) who had spoken thus, the great sage Viśvāmitra, accompanied by Vasiṣṭha (vasiṣṭhasahito), spoke these words:
+To that heroic King Vaideha (Janaka) who had spoken thus, the great sage Viśvāmitra, accompanied by Vasiṣṭha (_vasiṣṭhasahito_), spoke these words:
 </details>
 </details>
 
@@ -110,7 +110,7 @@ among all men, there is no single king comparable to one from these dynasties...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inconceivable in purity and immeasurable in glory (acintyāny aprameyāṇi), O bull among men, are the royal houses of the Ikṣvākus and the Videhas; there is no one anywhere who is their equal (naiṣāṃ tulyo 'sti kaścana)!
+“Inconceivable in purity and immeasurable in glory (_acintyāny aprameyāṇi_), O bull among men, are the royal houses of the Ikṣvākus and the Videhas; there is no one anywhere who is their equal (_naiṣāṃ tulyo &#x27;sti kaścana_)!
 </details>
 </details>
 
@@ -156,7 +156,7 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Worthy and well-matched is this righteous marital alliance (sadṛśo dharmasambandhaḥ), and equally matched in beauty and perfection (sadṛśo rūpasampadā) are Sītā and Ūrmilā with Rāma and Lakṣmaṇa, O King!
+“Worthy and well-matched is this righteous marital alliance (_sadṛśo dharmasambandhaḥ_), and equally matched in beauty and perfection (_sadṛśo rūpasampadā_) are Sītā and Ūrmilā with Rāma and Lakṣmaṇa, O King!
 </details>
 </details>
 
@@ -246,11 +246,11 @@ your brother's daughters... [1-72-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Yet there is something further to be spoken, O best of men—pray hear my words (śrūyatāṃ vacanaṃ mama): this King Kuśadhvaja, knower of dharma, is your younger brother (bhrātā yavīyān dharmajñaḥ).
+**4:** “Yet there is something further to be spoken, O best of men—pray hear my words (_śrūyatāṃ vacanaṃ mama_): this King Kuśadhvaja, knower of _dharma_, is your younger brother (_bhrātā yavīyān dharmajñaḥ_).
 
-**5:** “We both formally request in marriage (patnyarthaṃ varayāmahe), O best of men, the two daughters of this righteous-souled monarch, who are peerless in beauty upon the earth (asya dharmātmano rājan rūpeṇāpratimaṃ bhuvi sutādvayaṃ)—
+**5:** “We both formally request in marriage (_patnyarthaṃ varayāmahe_), O best of men, the two daughters of this righteous-souled monarch, who are peerless in beauty upon the earth (_asya dharmātmano rājan rūpeṇāpratimaṃ bhuvi sutādvayaṃ_)—
 
-**6:** “—on behalf of those two great-souled princes, the royal youth Bharata and the wise Śatrughna, O King, I request those two daughters (varaye te sute rājaṃs tayor arthe mahātmanoḥ)!
+**6:** “—on behalf of those two great-souled princes, the royal youth Bharata and the wise Śatrughna, O King, I request those two daughters (_varaye te sute rājaṃs tayor arthe mahātmanoḥ_)!
 </details>
 </details>
 
@@ -298,7 +298,7 @@ from four quarters, and their valour vies with the valour of God Vishnu... [1-72
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These four sons of Daśaratha are all endowed with beauty and youth (rūpayauvanaśālinaḥ), all equal to the world-guardians (lokapālasamāḥ sarve), and equal to the gods in valor (devatulyaparākramāḥ).
+“These four sons of Daśaratha are all endowed with beauty and youth (_rūpayauvanaśālinaḥ_), all equal to the world-guardians (_lokapālasamāḥ sarve_), and equal to the gods in valor (_devatulyaparākramāḥ_).
 </details>
 </details>
 
@@ -349,7 +349,7 @@ as well, be interlocked by these wedlock-s..." Thus Vishvamitra advised Janaka. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With unhesitating mind, O Lord of Kings, let the house of Ikṣvāku be bound in marital alliance with both of you brothers of meritorious deeds (ubhayor api rājendra sambandhenānubadhyatām ikṣvākukulam avyagram)!”
+“With unhesitating mind, O Lord of Kings, let the house of Ikṣvāku be bound in marital alliance with both of you brothers of meritorious deeds (_ubhayor api rājendra sambandhenānubadhyatām ikṣvākukulam avyagram_)!”
 </details>
 </details>
 
@@ -394,7 +394,7 @@ eminent-saints. [1-72-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Viśvāmitra, spoken in full accord with Vasiṣṭha’s counsel (vasiṣṭhasya mate tadā), King Janaka, with folded hands, addressed those two bulls among sages:
+Hearing the words of Viśvāmitra, spoken in full accord with Vasiṣṭha’s counsel (_vasiṣṭhasya mate tadā_), King Janaka, with folded hands, addressed those two bulls among sages:
 </details>
 </details>
 
@@ -446,7 +446,7 @@ is highly honoured... [1-72-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I deem this royal house of ours supremely blessed (kulaṃ dhanyam idaṃ manye), in that you two bulls among sages yourselves command such a worthy marital alliance for us (sadṛśaṃ kulasambandhaṃ yad ājñāpayataḥ svayam)!
+“I deem this royal house of ours supremely blessed (_kulaṃ dhanyam idaṃ manye_), in that you two bulls among sages yourselves command such a worthy marital alliance for us (_sadṛśaṃ kulasambandhaṃ yad ājñāpayataḥ svayam_)!
 </details>
 </details>
 
@@ -499,7 +499,7 @@ as a pair of wives to the paired brothers, namely Bharata and Shatrughna, respec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So let it be! May prosperity attend you all (evaṃ bhavatu bhadraṃ vaḥ)! Let the ever-inseparable Bharata and Śatrughna both wed these two daughters of Kuśadhvaja as their wives (kuśadhvajasute ime patnyau bhajetāṃ sahitau śatrughnabharatāv ubhau)!
+“So let it be! May prosperity attend you all (_evaṃ bhavatu bhadraṃ vaḥ_)! Let the ever-inseparable Bharata and Śatrughna both wed these two daughters of Kuśadhvaja as their wives (_kuśadhvajasute ime patnyau bhajetāṃ sahitau śatrughnabharatāv ubhau_)!
 </details>
 </details>
 
@@ -544,7 +544,7 @@ in marriage, in the light of one day... [1-72-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On a single day, O great sage (ekāhnā mahāmune), let the four mighty princes clasp the hands in marriage of all four princesses (rājaputrīṇāṃ catasṝṇāṃ pāṇīn gṛhṇantu catvāro rājaputrāḥ)!
+“On a single day, O great sage (_ekāhnā mahāmune_), let the four mighty princes clasp the hands in marriage of all four princesses (_rājaputrīṇāṃ catasṝṇāṃ pāṇīn gṛhṇantu catvāro rājaputrāḥ_)!
 </details>
 </details>
 
@@ -603,7 +603,7 @@ uttaraphalgunii-svaati iti vivaahasya nakShatraaNi | bodhaayana suutraaNi*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the latter day of the two Phalgunī constellations, O brahman—namely Uttara-Phalgunī, wherein Bhaga Prajāpati is the presiding deity (bhago yatra prajāpatiḥ)—wise astrologers commend the celebration of marriage (vaivāhikaṃ praśaṃsanti).”
+“On the latter day of the two _Phalgunī_ constellations, O _brahman_—namely _Uttara-Phalgunī_, wherein Bhaga Prajāpati is the presiding deity (_bhago yatra prajāpatiḥ_)—wise astrologers commend the celebration of marriage (_vaivāhikaṃ praśaṃsanti_).”
 </details>
 </details>
 
@@ -648,7 +648,7 @@ and Vashishta, reverently said this sentence. [1-72-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken these gracious words, King Janaka rose from his seat with folded hands (pratyutthāya kṛtāñjaliḥ) and addressed both foremost sages:
+Having spoken these gracious words, King Janaka rose from his seat with folded hands (_pratyutthāya kṛtāñjaliḥ_) and addressed both foremost sages:
 </details>
 </details>
 
@@ -705,7 +705,7 @@ rulership on the three kingdoms, Ayodhya, Mithila, and Saamkaasya, in getting th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The highest dharma has been bestowed upon me by you (paro dharmaḥ kṛto mahyam), and I am ever the disciple of you both (śiṣyo 'smi bhavatos tathā). Here are the foremost royal thrones—pray be seated upon them, O bulls among sages (imāny āsanamukhyāni āsyatāṃ munipuṃgavau)!
+“The highest _dharma_ has been bestowed upon me by you (_paro dharmaḥ kṛto mahyam_), and I am ever the disciple of you both (_śiṣyo &#x27;smi bhavatos tathā_). Here are the foremost royal thrones—pray be seated upon them, O bulls among sages (_imāny āsanamukhyāni āsyatāṃ munipuṃgavau_)!
 </details>
 </details>
 
@@ -760,7 +760,7 @@ as aptly as you can..." So said Janaka to the sages. [1-72-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as this city of Mithilā belongs to Daśaratha, even so does the city of Ayodhyā belong to me (yathā daśarathasyeyaṃ tathāyodhyā purī mama); there is no doubt as to your sovereign authority over both—pray act as you deem fitting (yathārhaṃ kartum arhatha)!”
+“Just as this city of Mithilā belongs to Daśaratha, even so does the city of Ayodhyā belong to me (_yathā daśarathasyeyaṃ tathāyodhyā purī mama_); there is no doubt as to your sovereign authority over both—pray act as you deem fitting (_yathārhaṃ kartum arhatha_)!”
 </details>
 </details>
 
@@ -805,7 +805,7 @@ he replied king Janaka in this way. [1-72-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Vaideha Janaka was speaking thus, the delighted King Daśaratha, scion of Raghu (raghunandanaḥ), spoke in reply to the lord of the earth:
+As Vaideha Janaka was speaking thus, the delighted King Daśaratha, scion of Raghu (_raghunandanaḥ_), spoke in reply to the lord of the earth:
 </details>
 </details>
 
@@ -863,7 +863,7 @@ comfortably seeing the celebrations...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You two brothers, lords of Mithilā, are endowed with countless virtues (yuvām asaṃkhyeyaguṇau bhrātarau mithileśvarau); the sages and the hosts of kings have been supremely honored by you both (bhavadbhyām abhipūjitāḥ)!
+“You two brothers, lords of Mithilā, are endowed with countless virtues (_yuvām asaṃkhyeyaguṇau bhrātarau mithileśvarau_); the sages and the hosts of kings have been supremely honored by you both (_bhavadbhyām abhipūjitāḥ_)!
 </details>
 </details>
 
@@ -917,7 +917,7 @@ the tributary rituals..." Dasharatha said thus. [1-72-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May auspiciousness and prosperity attend you (svasti prāpnuhi bhadraṃ te)! We shall now depart to our own residence; I shall duly perform the ancestral śrāddha rites according to precept (śrāddhakarmāṇi vidhivad vidhāsye),” so he spoke.
+“May auspiciousness and prosperity attend you (_svasti prāpnuhi bhadraṃ te_)! We shall now depart to our own residence; I shall duly perform the ancestral _śrāddha_ rites according to precept (_śrāddhakarmāṇi vidhivad vidhāsye_),” so he spoke.
 </details>
 </details>
 
@@ -965,7 +965,7 @@ from there, keeping both of the eminent-saints afore, namely Vishvamitra and Vas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having taken formal leave of that ruler of men (tam āpṛṣṭvā narapatim), the illustrious King Daśaratha promptly departed, placing those two lords of sages at his head (munīndrau tau puraskṛtya jagāmāśu mahāyaśāḥ).
+Having taken formal leave of that ruler of men (_tam āpṛṣṭvā narapatim_), the illustrious King Daśaratha promptly departed, placing those two lords of sages at his head (_munīndrau tau puraskṛtya jagāmāśu mahāyaśāḥ_).
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ part. [1-72-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Returning to his royal residence and performing the ancestral śrāddha rite in accordance with sacred ordinance (śrāddhaṃ kṛtvā vidhānataḥ), the king rose early at daybreak and celebrated the supreme godāna sacrament (prabhāte kālyam utthāya cakre godānam uttamam).
+Returning to his royal residence and performing the ancestral _śrāddha_ rite in accordance with sacred ordinance (_śrāddhaṃ kṛtvā vidhānataḥ_), the king rose early at daybreak and celebrated the supreme _godāna_ sacrament (_prabhāte kālyam utthāya cakre godānam uttamam_).
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ four sons. [1-72-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On behalf of each of his sons individually (ekaikaśo ... putrān uddiśya), the righteous ruler of men bestowed upon the brahmins a hundred thousand cows in accordance with dharma (gavāṃ śatasahasraṃ ca brāhmaṇebhyo narādhipaḥ dadau).
+On behalf of each of his sons individually (_ekaikaśo ... putrān uddiśya_), the righteous ruler of men bestowed upon the brahmins a hundred thousand cows in accordance with _dharma_ (_gavāṃ śatasahasraṃ ca brāhmaṇebhyo narādhipaḥ dadau_).
 </details>
 </details>
 
@@ -1127,9 +1127,9 @@ jugs made with bell metal, and he even donated very many other kinds of assets t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** In all, that bull among men gifted four hundred thousand cows (gavāṃ śatasahasrāṇi catvāri), their horns sheathed in gold (suvarṇaśṛṅgyaḥ), abounding in milk (sampannāḥ), accompanied by their calves (savatsāḥ), and furnished with bronze milking vessels (kāṃsyadohanāḥ)—
+**23:** In all, that bull among men gifted four hundred thousand cows (_gavāṃ śatasahasrāṇi catvāri_), their horns sheathed in gold (_suvarṇaśṛṅgyaḥ_), abounding in milk (_sampannāḥ_), accompanied by their calves (_savatsāḥ_), and furnished with bronze milking vessels (_kāṃsyadohanāḥ_)—
 
-**24:** —as well as abundant other wealth of every kind (vittam anyac ca subahu) to the twice-born brahmins, did the scion of Raghu, tender in affection toward his sons (putravatsalaḥ), bestow on the occasion of his sons’ godāna rite.
+**24:** —as well as abundant other wealth of every kind (_vittam anyac ca subahu_) to the twice-born brahmins, did the scion of Raghu, tender in affection toward his sons (_putravatsalaḥ_), bestow on the occasion of his sons’ _godāna_ rite.
 </details>
 </details>
 
@@ -1201,7 +1201,7 @@ who are being readied to administer *dharma* in the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by his four sons who had completed their godāna sacrament (sa sutaiḥ kṛtagodānair vṛtaḥ san), that serene monarch shone forth like the benign Prajāpati Brahmā surrounded by the four world-guardians (lokapālair ivābhāti vṛtaḥ saumyaḥ prajāpatiḥ).
+Surrounded by his four sons who had completed their _godāna_ sacrament (_sa sutaiḥ kṛtagodānair vṛtaḥ san_), that serene monarch shone forth like the benign Prajāpati Brahmā surrounded by the four world-guardians (_lokapālair ivābhāti vṛtaḥ saumyaḥ prajāpatiḥ_).
 </details>
 </details>
 

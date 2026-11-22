@@ -81,7 +81,7 @@ moon night in autumn presided over by the moon and illuminated by bright stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arrayed in order by the king, that assembly of heroes (vīrasamitiḥ) shone brightly, like an autumnal night of the full moon (paurṇamāsīva śāradī) graced with auspicious constellations and the moon.
+Arrayed in order by the king, that assembly of heroes (_vīrasamitiḥ_) shone brightly, like an autumnal night of the full moon (_paurṇamāsīva śāradī_) graced with auspicious constellations and the moon.
 </details>
 </details>
 
@@ -127,7 +127,7 @@ sea, was trembled with fear by the rapid movement of that army.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed down by that mighty flood of forces (balaughena) possessing the splendor of the ocean (sāgaravarcasā), the terrified earth (vasuṃdharā) trembled violently under their impetus.
+Pressed down by that mighty flood of forces (_balaughena_) possessing the splendor of the ocean (_sāgaravarcasā_), the terrified earth (_vasuṃdharā_) trembled violently under their impetus.
 </details>
 </details>
 
@@ -182,7 +182,7 @@ kettledrums and tabours, which caused their hair to stand on end.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the forest-dwellers (kānanaukasaḥ) heard an uproar (ākruṣṭam) inside Laṅkā—a tumultuous, hair-raising (lomaharṣaṇam) clamor echoing with kettledrums and tabors (bherīmṛdaṅgasaṃghuṣṭam).
+Then the forest-dwellers (_kānanaukasaḥ_) heard an uproar (_ākruṣṭam_) inside Laṅkā—a tumultuous, hair-raising (_lomaharṣaṇam_) clamor echoing with kettledrums and tabors (_bherīmṛdaṅgasaṃghuṣṭam_).
 </details>
 </details>
 
@@ -234,7 +234,7 @@ sound, they emitted shouts, which surpassed that uproar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thrilled by that din, the monkey troop-commanders (hariyūthapāḥ), unable to brook (amṛṣyamāṇāḥ) that clamor, roared out even more thunderously (ghoṣavattaram).
+Thrilled by that din, the monkey troop-commanders (_hariyūthapāḥ_), unable to brook (_amṛṣyamāṇāḥ_) that clamor, roared out even more thunderously (_ghoṣavattaram_).
 </details>
 </details>
 
@@ -286,7 +286,7 @@ sounded like thundering of clouds in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those rākṣasas too heard that roaring (garjitam) of the monkeys, sounding like the rumble of proud, thundering rain-clouds (dṛptānāṃ meghānām) in the sky.
+Those rākṣasas too heard that roaring (_garjitam_) of the monkeys, sounding like the rumble of proud, thundering rain-clouds (_dṛptānāṃ meghānām_) in the sky.
 </details>
 </details>
 
@@ -341,7 +341,7 @@ of Sita and his heart was filled with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Laṅkā adorned with variegated banners and pennants (citradhvajapatākinīm), the son of Daśaratha went in thought (jagāma manasā) to Sītā with an anguished heart (dūyamānena cetasā).
+Beholding Laṅkā adorned with variegated banners and pennants (_citradhvajapatākinīm_), the son of Daśaratha went in thought (_jagāma manasā_) to Sītā with an anguished heart (_dūyamānena cetasā_).
 </details>
 </details>
 
@@ -401,7 +401,7 @@ Rohini star is overshadowed by the red bodied planet (mars)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here that fawn-eyed lady (mṛgaśāvākṣī) is held captive (oparudhyate) by Rāvaṇa, like the constellation Rohiṇī (rohiṇī) overpowered by the red-bodied planet Mars (graheṇa lohitāṅgena).”
+“Here that fawn-eyed lady (_mṛgaśāvākṣī_) is held captive (_oparudhyate_) by Rāvaṇa, like the constellation Rohiṇī (_rohiṇī_) overpowered by the red-bodied planet Mars (_graheṇa lohitāṅgena_).”
 </details>
 </details>
 
@@ -448,7 +448,7 @@ words, which were beneficial for him at that time :-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heaving a long and burning sigh (dīrgham uṣṇaṃ ca niḥśvasya) and looking toward Lakṣmaṇa, the hero spoke words suited to his own welfare at that moment (tatkālahitam ātmanaḥ):
+Heaving a long and burning sigh (_dīrgham uṣṇaṃ ca niḥśvasya_) and looking toward Lakṣmaṇa, the hero spoke words suited to his own welfare at that moment (_tatkālahitam ātmanaḥ_):
 </details>
 </details>
 
@@ -501,7 +501,7 @@ by Visvakarma with his imagination and so elevated scraping the sky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Lakṣmaṇa, Laṅkā rising aloft (utthitām) on the mountain peak (nagāgre), as though scraping the sky (ālikhantīm ivākāśam), fashioned as if by mind alone (manaseva kṛtām) by Viśvakarman.
+“Behold, O Lakṣmaṇa, Laṅkā rising aloft (_utthitām_) on the mountain peak (_nagāgre_), as though scraping the sky (_ālikhantīm ivākāśam_), fashioned as if by mind alone (_manaseva kṛtām_) by Viśvakarman.
 </details>
 </details>
 
@@ -554,7 +554,7 @@ appears like a sky the abode of Vishnu (the all pervaded), covered with white cl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crowded with manifold seven-storied palaces (vimānair bahubhiḥ saṃkīrṇā), Laṅkā was built of old, resembling the sky—the stride of Viṣṇu (viṣṇoḥ padam)—overspread with pale white clouds (pāṇḍubhir ghanaiḥ).
+Crowded with manifold seven-storied palaces (_vimānair bahubhiḥ saṃkīrṇā_), Laṅkā was built of old, resembling the sky—the stride of Viṣṇu (_viṣṇoḥ padam_)—overspread with pale white clouds (_pāṇḍubhir ghanaiḥ_).
 </details>
 </details>
 
@@ -610,7 +610,7 @@ bloom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laṅkā is graced with blossoming groves resembling Kubera's Citraratha garden (vanaiś citrarathopamaiḥ), auspicious, echoing with diverse birds, and abounding in fruits and flowers (nānāpatagasaṃghuṣṭaphalapuṣpopagaiḥ).
+Laṅkā is graced with blossoming groves resembling Kubera&#x27;s Citraratha garden (_vanaiś citrarathopamaiḥ_), auspicious, echoing with diverse birds, and abounding in fruits and flowers (_nānāpatagasaṃghuṣṭaphalapuṣpopagaiḥ_).
 </details>
 </details>
 
@@ -665,7 +665,7 @@ swarm and where the birds are excited with joy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold how the auspicious breeze (śivo 'nilaḥ) sways to and fro (dodhavīti) the thickets thronged with cuckoos (kokilākulakhaṇḍāni), where birds are intoxicated (mattavihaṃgāni) and bees cling motionless (pralīnabhramarāṇi).”
+Behold how the auspicious breeze (_śivo &#x27;nilaḥ_) sways to and fro (_dodhavīti_) the thickets thronged with cuckoos (_kokilākulakhaṇḍāni_), where birds are intoxicated (_mattavihaṃgāni_) and bees cling motionless (_pralīnabhramarāṇi_).”
 </details>
 </details>
 
@@ -729,7 +729,7 @@ divided into battalions according to the procedure found in scriptures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus spoke Rāma, the son of Daśaratha, to Lakṣmaṇa; and there he divided (vibhajat) the army by the procedure prescribed in the treatises on statecraft (śāstradṛṣṭena karmaṇā).
+Thus spoke Rāma, the son of Daśaratha, to Lakṣmaṇa; and there he divided (_vibhajat_) the army by the procedure prescribed in the treatises on statecraft (_śāstradṛṣṭena karmaṇā_).
 </details>
 </details>
 
@@ -783,7 +783,7 @@ formation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The mighty hero commanded that monkey army: “Taking a contingent from the main force (balād ādāya), let invincible Aṅgada along with Nīla stand at the chest (tiṣṭhed urasi).
+The mighty hero commanded that monkey army: “Taking a contingent from the main force (_balād ādāya_), let invincible Aṅgada along with Nīla stand at the chest (_tiṣṭhed urasi_).
 </details>
 </details>
 
@@ -836,7 +836,7 @@ recourse to the right side of the army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let the monkey named Ṛṣabha, surrounded by a multitude of monkeys (vānaraughasamāvṛtaḥ), stand occupying the right flank (dakṣiṇaṃ pārśvam) of the monkey host.
+Let the monkey named Ṛṣabha, surrounded by a multitude of monkeys (_vānaraughasamāvṛtaḥ_), stand occupying the right flank (_dakṣiṇaṃ pārśvam_) of the monkey host.
 </details>
 </details>
 
@@ -888,7 +888,7 @@ his position superintending the left side of the monkey troops."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let swift Gandhamādana, unassailable like a scent-elephant in rut (gandhahastīva durdharṣaḥ), stand posted upon the left flank (savyaṃ pārśvam adhiṣṭhitaḥ) of the monkey host.
+Let swift Gandhamādana, unassailable like a scent-elephant in rut (_gandhahastīva durdharṣaḥ_), stand posted upon the left flank (_savyaṃ pārśvam adhiṣṭhitaḥ_) of the monkey host.
 </details>
 </details>
 
@@ -944,7 +944,7 @@ monkeys- protest the belly portion of the army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I myself, vigilant (yattaḥ) and accompanied by Lakṣmaṇa, shall stand at the head (mūrdhni sthāsyāmy aham); and Jāmbavān, Suṣeṇa, and the monkey Vegadarśī—
+I myself, vigilant (_yattaḥ_) and accompanied by Lakṣmaṇa, shall stand at the head (_mūrdhni sthāsyāmy aham_); and Jāmbavān, Suṣeṇa, and the monkey Vegadarśī—
 </details>
 </details>
 
@@ -998,7 +998,7 @@ earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-let those three great-souled bear-chiefs (ṛkṣamukhyāḥ) guard the belly (kukṣiṃ rakṣantu); and let the king of monkeys [Sugrīva], girt with splendor, guard the rear (jaghanam) of the monkey army, as Pracetas [Varuṇa] guards the western half of the world (paścārdham iva lokasya).”
+let those three great-souled bear-chiefs (_ṛkṣamukhyāḥ_) guard the belly (_kukṣiṃ rakṣantu_); and let the king of monkeys [Sugrīva], girt with splendor, guard the rear (_jaghanam_) of the monkey army, as Pracetas [Varuṇa] guards the western half of the world (_paścārdham iva lokasya_).”
 </details>
 </details>
 
@@ -1052,7 +1052,7 @@ foremost of monkeys, resembled heavens with their mass of clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its great battle-array well-divided (suvibhaktamahāvyūhā) and guarded by mighty monkeys, that army (anīkinī) shone forth like the sky overspread with drifting clouds (dyauḥ sābhrasamplavā).
+With its great battle-array well-divided (_suvibhaktamahāvyūhā_) and guarded by mighty monkeys, that army (_anīkinī_) shone forth like the sky overspread with drifting clouds (_dyauḥ sābhrasamplavā_).
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ and gigantic trees, reached Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing mountain peaks (giriśṛṅgāṇi) and huge trees (mahīruhān), the monkeys advanced upon Laṅkā, eager to crush it (mimardayiṣavaḥ) in battle.
+Seizing mountain peaks (_giriśṛṅgāṇi_) and huge trees (_mahīruhān_), the monkeys advanced upon Laṅkā, eager to crush it (_mimardayiṣavaḥ_) in battle.
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ of mountains or with our bare fists even, we shall shatter this Lanka into piece
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With mountain peaks, or with our very fists (muṣṭibhir eva vā), let us scatter (vikirāma) this Laṅkā to pieces!”—so did all the bull-like monkeys resolve in their minds (dadhire sarve manāṃsi).
+“With mountain peaks, or with our very fists (_muṣṭibhir eva vā_), let us scatter (_vikirāma_) this Laṅkā to pieces!”—so did all the bull-like monkeys resolve in their minds (_dadhire sarve manāṃsi_).
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ properly marshaled. Let this Shuka be released."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma of great splendor spoke thus to Sugrīva: “The troops are well arrayed (suvibhaktāni sainyāni); let this Śuka now be released (śuka eṣa vimucyatām).”
+Then Rāma of great splendor spoke thus to Sugrīva: “The troops are well arrayed (_suvibhaktāni sainyāni_); let this Śuka now be released (_śuka eṣa vimucyatām_).”
 </details>
 </details>
 
@@ -1249,7 +1249,7 @@ as per the order of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma's words, the mighty lord of monkeys (vānarendraḥ) had that envoy Śuka set free (mocayāmāsa) at Rāma's command.
+Hearing Rāma&#x27;s words, the mighty lord of monkeys (_vānarendraḥ_) had that envoy Śuka set free (_mocayāmāsa_) at Rāma&#x27;s command.
 </details>
 </details>
 
@@ -1295,7 +1295,7 @@ was trembling with great fear and reached Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released by Rāma's word after having been sorely tormented by the monkeys (vānaraiś ca nipīḍitaḥ), Śuka, utterly terrified (paramasaṃtrastaḥ), approached the lord of rākṣasas.
+Released by Rāma&#x27;s word after having been sorely tormented by the monkeys (_vānaraiś ca nipīḍitaḥ_), Śuka, utterly terrified (_paramasaṃtrastaḥ_), approached the lord of rākṣasas.
 </details>
 </details>
 
@@ -1336,7 +1336,7 @@ Mocked by Rāvaṇa over his bound and clipped wings, the trembling Śuka explai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laughing outright (prahasann eva), Rāvaṇa spoke these words to Śuka: “Why are these two wings of yours bound (sitau pakṣau), and why do you appear with clipped wings (lūnapakṣaḥ)?
+Laughing outright (_prahasann eva_), Rāvaṇa spoke these words to Śuka: “Why are these two wings of yours bound (_sitau pakṣau_), and why do you appear with clipped wings (_lūnapakṣaḥ_)?
 </details>
 </details>
 
@@ -1385,7 +1385,7 @@ various fickle minds?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I hope you did not fall into the power (vaśam āgataḥ) of those fickle-minded creatures (anekacittānām)?” Then, trembling with fear (bhayasaṃvignaḥ) and urged by that king, he replied to the lord of rākṣasas with this excellent speech:
+I hope you did not fall into the power (_vaśam āgataḥ_) of those fickle-minded creatures (_anekacittānām_)?” Then, trembling with fear (_bhayasaṃvignaḥ_) and urged by that king, he replied to the lord of rākṣasas with this excellent speech:
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ I hope you did not fall into the power (vaśam āgataḥ) of those fickle-minded
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the northern shore of the ocean (sāgarasyottare tīre), conciliating them with gentle speech (sāntvayan ślakṣṇayā girā), I delivered your message (yathā saṃdeśam) unimpaired (akliṣṭam).
+“On the northern shore of the ocean (_sāgarasyottare tīre_), conciliating them with gentle speech (_sāntvayan ślakṣṇayā girā_), I delivered your message (_yathā saṃdeśam_) unimpaired (_akliṣṭam_).
 </details>
 </details>
 
@@ -1470,7 +1470,7 @@ smooth tone, conciliating and without any ambiguity exactly as per your instruct
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No sooner was I seen (dṛṣṭamātraḥ) than those enraged monkeys (kruddhais taiḥ plavaṃgamaiḥ) leaped up, seized me, and began to beat me with their fists and pluck me (hantuṃ loptuṃ ca muṣṭibhiḥ).
+No sooner was I seen (_dṛṣṭamātraḥ_) than those enraged monkeys (_kruddhais taiḥ plavaṃgamaiḥ_) leaped up, seized me, and began to beat me with their fists and pluck me (_hantuṃ loptuṃ ca muṣṭibhiḥ_).
 </details>
 </details>
 
@@ -1522,7 +1522,7 @@ started beating and plucking me with their fists."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They cannot even be spoken to (na te saṃbhāṣituṃ śakyāḥ), nor is any questioning (sampraśnaḥ) possible among them; by nature (prakṛtyā), O lord of rākṣasas, monkeys are wrathful and fierce (kopanās tīkṣṇāḥ).
+They cannot even be spoken to (_na te saṃbhāṣituṃ śakyāḥ_), nor is any questioning (_sampraśnaḥ_) possible among them; by nature (_prakṛtyā_), O lord of rākṣasas, monkeys are wrathful and fierce (_kopanās tīkṣṇāḥ_).
 </details>
 </details>
 
@@ -1575,7 +1575,7 @@ being questioned in this matter. Monkeys, by their very nature, are angry and fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that slayer of Virādha, Kabandha, and Khara—Rāma, accompanied by Sugrīva—has arrived at the very place (padam āgataḥ) where Sītā is held.
+And that slayer of Virādha, Kabandha, and Khara—Rāma, accompanied by Sugrīva—has arrived at the very place (_padam āgataḥ_) where Sītā is held.
 </details>
 </details>
 
@@ -1629,7 +1629,7 @@ place of Sita."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having built a causeway (setum) across the ocean and crossed the briny sea (lavaṇodadhim), here stands Rāghava, bow in hand (dhanvī), treating the rākṣasas like blades of grass (rakṣāṃsi nirdhūya).
+Having built a causeway (_setum_) across the ocean and crossed the briny sea (_lavaṇodadhim_), here stands Rāghava, bow in hand (_dhanvī_), treating the rākṣasas like blades of grass (_rakṣāṃsi nirdhūya_).
 </details>
 </details>
 
@@ -1682,7 +1682,7 @@ expelling the demons, here stands Rama wielding a bow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the thousands (sahasraśaḥ), the armies of bear and monkey hosts (ṛkṣavānarasaṅghānām), resembling mountains and storm-clouds (girimeghanikāśānām), cover the earth.
+By the thousands (_sahasraśaḥ_), the armies of bear and monkey hosts (_ṛkṣavānarasaṅghānām_), resembling mountains and storm-clouds (_girimeghanikāśānām_), cover the earth.
 </details>
 </details>
 
@@ -1734,7 +1734,7 @@ clouds, cover the earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Between the flood of rākṣasa forces and the army of the monkey king, there can be no alliance (na saṃdhiḥ), any more than between the gods and the Dānavas (devadānavayor iva).
+Between the flood of rākṣasa forces and the army of the monkey king, there can be no alliance (_na saṃdhiḥ_), any more than between the gods and the Dānavas (_devadānavayor iva_).
 </details>
 </details>
 
@@ -1783,7 +1783,7 @@ demons and the army of monkeys- than between a God and a demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before they reach the city ramparts (purā prākāram āyānti), quickly do one of the two (kṣipram ekataraṃ kuru): either swiftly restore Sītā to him (sītāṃ cāsmai prayacchāśu), or else give him battle (yuddhaṃ vāpi pradīyatām)!”
+Before they reach the city ramparts (_purā prākāram āyānti_), quickly do one of the two (_kṣipram ekataraṃ kuru_): either swiftly restore Sītā to him (_sītāṃ cāsmai prayacchāśu_), or else give him battle (_yuddhaṃ vāpi pradīyatām_)!”
 </details>
 </details>
 
@@ -1836,7 +1836,7 @@ either to restore Sita or to offer a combat to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Śuka's words, Rāvaṇa spoke this reply, his eyes bloodshot with rage (roṣasaṃraktanayanaḥ), as though burning him up with his gaze (nirdahann iva cakṣuṣā):
+Hearing Śuka&#x27;s words, Rāvaṇa spoke this reply, his eyes bloodshot with rage (_roṣasaṃraktanayanaḥ_), as though burning him up with his gaze (_nirdahann iva cakṣuṣā_):
 </details>
 </details>
 
@@ -1890,7 +1890,7 @@ he would consume him with his glance, said as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if the gods, Gandharvas, and Dānavas should fight against me (māṃ prati yuddheran), I shall never surrender Sītā (naiva sītāṃ pradāsyāmi), even out of fear of all the worlds (sarvalokabhayād api)!
+“Even if the gods, Gandharvas, and Dānavas should fight against me (_māṃ prati yuddheran_), I shall never surrender Sītā (_naiva sītāṃ pradāsyāmi_), even out of fear of all the worlds (_sarvalokabhayād api_)!
 </details>
 </details>
 
@@ -1945,7 +1945,7 @@ celestials or Gandharvas (celestial singers) or demons, I would not give back Si
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When will my arrows (māmakāḥ śarāḥ) rush upon Rāghava, like intoxicated bees (mattā bhramarā iva) swarming a blossoming tree in spring (vasante puṣpitam pādapam)?
+When will my arrows (_māmakāḥ śarāḥ_) rush upon Rāghava, like intoxicated bees (_mattā bhramarā iva_) swarming a blossoming tree in spring (_vasante puṣpitam pādapam_)?
 </details>
 </details>
 
@@ -1997,7 +1997,7 @@ upon a tree in bloom at spring time?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When, with blazing arrows loosed from my bow (dīptaiḥ kārmukavicyutaiḥ śaraiḥ), shall I set him ablaze (ādīpayiṣyāmi), his limbs smeared with blood (śoṇitadigdhāṅgam), like an elephant torched with firebrands (ulkābhir iva kuñjaram)?
+When, with blazing arrows loosed from my bow (_dīptaiḥ kārmukavicyutaiḥ śaraiḥ_), shall I set him ablaze (_ādīpayiṣyāmi_), his limbs smeared with blood (_śoṇitadigdhāṅgam_), like an elephant torched with firebrands (_ulkābhir iva kuñjaram_)?
 </details>
 </details>
 
@@ -2049,7 +2049,7 @@ from my bow, as flaming torches destroy an elephant?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by a mighty army, I shall eclipse (ādāsye) that force of his, just as the rising sun (udyan divākaraḥ) eclipses the radiance of all the stars (jyotiṣām iva sarveṣām).
+Surrounded by a mighty army, I shall eclipse (_ādāsye_) that force of his, just as the rising sun (_udyan divākaraḥ_) eclipses the radiance of all the stars (_jyotiṣām iva sarveṣām_).
 </details>
 </details>
 
@@ -2096,7 +2096,7 @@ brilliance of all stars is obscured at the rising of the sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My impetus is like the ocean's (sāgarasyeva me vegaḥ), and my might is like the wind's (mārutasyeva me balam); the son of Daśaratha knows this not (na ca dāśarathir veda), and therefore desires to fight me.
+My impetus is like the ocean&#x27;s (_sāgarasyeva me vegaḥ_), and my might is like the wind&#x27;s (_mārutasyeva me balam_); the son of Daśaratha knows this not (_na ca dāśarathir veda_), and therefore desires to fight me.
 </details>
 </details>
 
@@ -2156,7 +2156,7 @@ is not aware of it. That is why, he is desirous of meeting me in a combat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma has never beheld in battle my quiver-couched arrows (tūṇīśayān bāṇān), which are like venomous serpents (saviṣān iva pannagān); therefore he desires to fight me.
+Rāma has never beheld in battle my quiver-couched arrows (_tūṇīśayān bāṇān_), which are like venomous serpents (_saviṣān iva pannagān_); therefore he desires to fight me.
 </details>
 </details>
 
@@ -2208,9 +2208,9 @@ is why, he desires to fight with me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** That Rāghava has not previously known (na jānāti purā) my valor in battle, nor my bow-formed lute (mama cāpamayīṃ vīṇām) sounded with arrow-plectrums (śarakoṇaiḥ pravāditām)—
+**42:** That Rāghava has not previously known (_na jānāti purā_) my valor in battle, nor my bow-formed lute (_mama cāpamayīṃ vīṇām_) sounded with arrow-plectrums (_śarakoṇaiḥ pravāditām_)—
 
-**43:** tumultuous with the twang of the bowstring (jyāśabdatumulām), dreadful, having the wails of the afflicted for its loud melody (ārtagītamahāsvanām) and the clash of iron shafts and gauntlets for its accompaniment (nārācatalasaṃnādām); plunging into the river of the enemy host (nadīm ahitavāhinīm) as my grand concert-hall (mahāraṅgam), I shall play it in battle!
+**43:** tumultuous with the twang of the bowstring (_jyāśabdatumulām_), dreadful, having the wails of the afflicted for its loud melody (_ārtagītamahāsvanām_) and the clash of iron shafts and gauntlets for its accompaniment (_nārācatalasaṃnādām_); plunging into the river of the enemy host (_nadīm ahitavāhinīm_) as my grand concert-hall (_mahāraṅgam_), I shall play it in battle!
 </details>
 </details>
 
@@ -2275,7 +2275,7 @@ in that battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not even by thousand-eyed Vāsava [Indra] can I be overpowered (na śakyo dharṣayitum) in battle, nor by Varuṇa himself (varuṇena vā svayam), nor by Yama with the fire of arrows in great combat, nor again by Vaiśravaṇa [Kubera]!”
+Not even by thousand-eyed Vāsava [Indra] can I be overpowered (_na śakyo dharṣayitum_) in battle, nor by Varuṇa himself (_varuṇena vā svayam_), nor by Yama with the fire of arrows in great combat, nor again by Vaiśravaṇa [Kubera]!”
 </details>
 </details>
 

@@ -89,7 +89,7 @@ and gaining indications as to which ritual is to be performed, then said the kin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having meditated for a brief moment (tato dhyātvā kiṃcit), that wise sage who knew the Vedas (medhāvī sa vedajñaḥ), regaining outward awareness (labdhasaṃjñaḥ), spoke this reply to the king (idam uttaraṃ taṃ tu nṛpam abravīt):
+Having meditated for a brief moment (_tato dhyātvā kiṃcit_), that wise sage who knew the Vedas (_medhāvī sa vedajñaḥ_), regaining outward awareness (_labdhasaṃjñaḥ_), spoke this reply to the king (_idam uttaraṃ taṃ tu nṛpam abravīt_):
 </details>
 </details>
 
@@ -137,7 +137,7 @@ your benefit." [1-15-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the sake of sons (putrakāraṇāt), I shall perform for you the Putrīyā sacrifice (iṣṭiṃ te ’haṃ kariṣyāmi putrīyām), efficacious and accomplished according to precept (siddhāṃ vidhānataḥ) through the mantras declared in the Atharvaśiras (atharvaśirasi proktair mantraiḥ).”
+“For the sake of sons (_putrakāraṇāt_), I shall perform for you the _Putrīyā_ sacrifice (_iṣṭiṃ te ’haṃ kariṣyāmi putrīyām_), efficacious and accomplished according to precept (_siddhāṃ vidhānataḥ_) through the mantras declared in the _Atharvaśiras_ (_atharvaśirasi proktair mantraiḥ_).”
 </details>
 </details>
 
@@ -189,7 +189,7 @@ oblations into sacred fire with ritual acts meticulously contained in hymns. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that radiant sage commenced that Putrīyā sacrifice for the sake of sons (tataḥ prākramad iṣṭiṃ tāṃ putrīyāṃ putrakāraṇāt), and offered oblations into the sacred fire by the ritual procedure revealed in the Vedic mantras (juhāvāgnau ca tejasvī mantradṛṣṭena karmaṇā).
+Then that radiant sage commenced that _Putrīyā_ sacrifice for the sake of sons (_tataḥ prākramad iṣṭiṃ tāṃ putrīyāṃ putrakāraṇāt_), and offered oblations into the sacred fire by the ritual procedure revealed in the Vedic mantras (_juhāvāgnau ca tejasvī mantradṛṣṭena karmaṇā_).
 </details>
 </details>
 
@@ -241,7 +241,7 @@ of the Vedic ritual whenever a yajna is conducted on earth, to receive oblations
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages (tato devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ) assembled according to ritual rule in order to receive their respective shares of the oblation (bhāgapratigrahārthaṃ vai samavetā yathāvidhi).
+Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages (_tato devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ_) assembled according to ritual rule in order to receive their respective shares of the oblation (_bhāgapratigrahārthaṃ vai samavetā yathāvidhi_).
 </details>
 </details>
 
@@ -302,7 +302,7 @@ the creator of worlds. [1-15-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly assembled in that sacrificial hall (tāḥ sametya yathānyāyaṃ tasmin sadasi devatāḥ), those deities then spoke these words to Brahmā, the creator of the worlds (abruvaṃl lokakartāraṃ brahmāṇaṃ vacanaṃ tataḥ):
+Having duly assembled in that sacrificial hall (_tāḥ sametya yathānyāyaṃ tasmin sadasi devatāḥ_), those deities then spoke these words to Brahmā, the creator of the worlds (_abruvaṃl lokakartāraṃ brahmāṇaṃ vacanaṃ tataḥ_):
 </details>
 </details>
 
@@ -348,7 +348,7 @@ blessed him, and we are unable to control him. [1-15-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Revered Lord, through the power born of your gracious boon (bhagavaṃs tvatprasādena), a rākṣasa named Rāvaṇa torments us all by his might (rāvaṇo nāma rākṣasaḥ sarvān no bādhate vīryāt), and we are unable to restrain him (śāsituṃ taṃ na śaknumaḥ).
+“O Revered Lord, through the power born of your gracious boon (_bhagavaṃs tvatprasādena_), a rākṣasa named Rāvaṇa torments us all by his might (_rāvaṇo nāma rākṣasaḥ sarvān no bādhate vīryāt_), and we are unable to restrain him (_śāsituṃ taṃ na śaknumaḥ_).
 </details>
 </details>
 
@@ -451,7 +451,7 @@ themselves as demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pleased with him at that time, O Revered Lord, you granted him a boon (tvayā tasmai varo dattaḥ prītena bhagavaṃs tadā); and ever honouring that boon (mānayantaś ca taṃ nityam), we patiently endure all that he does (sarvaṃ tasya kṣamāmahe).
+“Pleased with him at that time, O Revered Lord, you granted him a boon (_tvayā tasmai varo dattaḥ prītena bhagavaṃs tadā_); and ever honouring that boon (_mānayantaś ca taṃ nityam_), we patiently endure all that he does (_sarvaṃ tasya kṣamāmahe_).
 </details>
 </details>
 
@@ -507,7 +507,7 @@ of all these deities is Indra's function, since he is the presiding deity of Hea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That evil-minded one terrifies the three worlds and hates all who are exalted (udvejayati lokāṃs trīn ucchritān dveṣṭi durmatiḥ); he even seeks to overthrow Śakra (Indra), king of the thirty-three gods (śakraṃ tridaśarājānaṃ pradharṣayitum icchati).
+“That evil-minded one terrifies the three worlds and hates all who are exalted (_udvejayati lokāṃs trīn ucchritān dveṣṭi durmatiḥ_); he even seeks to overthrow Śakra (Indra), king of the thirty-three gods (_śakraṃ tridaśarājānaṃ pradharṣayitum icchati_).
 </details>
 </details>
 
@@ -576,7 +576,7 @@ namely *yaksha, gandharva, kinnara, kimpurusha* etc.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blinded with arrogance by the granting of your boon (varadānena mohitaḥ), that unassailable monster roughshodly oppresses (atikrāmati durdharṣaḥ) the Ṛṣis, the Yakṣas together with the Gandharvas, the Brāhmaṇas, and the Asuras (ṛṣīn yakṣān sagandharvān brāhmaṇān asurāṃs tadā).
+“Blinded with arrogance by the granting of your boon (_varadānena mohitaḥ_), that unassailable monster roughshodly oppresses (_atikrāmati durdharṣaḥ_) the Ṛṣis, the Yakṣas together with the Gandharvas, the Brāhmaṇas, and the Asuras (_ṛṣīn yakṣān sagandharvān brāhmaṇān asurāṃs tadā_).
 </details>
 </details>
 
@@ -628,7 +628,7 @@ may abduct as in the case of Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The Sun does not scorch him (nainaṃ sūryaḥ pratapati), the Wind does not blow fiercely beside him (pārśve vāti na mārutaḥ), and upon beholding him, even the Ocean garlanded with restless billows does not stir (calormimālī taṃ dṛṣṭvā samudro ’pi na kampate).
+“The Sun does not scorch him (_nainaṃ sūryaḥ pratapati_), the Wind does not blow fiercely beside him (_pārśve vāti na mārutaḥ_), and upon beholding him, even the Ocean garlanded with restless billows does not stir (_calormimālī taṃ dṛṣṭvā samudro ’pi na kampate_).
 </details>
 </details>
 
@@ -674,7 +674,7 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, great is our dread from that rākṣasa of horrific aspect (tan mahan no bhayaṃ tasmād rākṣasād ghoradarśanāt); O Revered Lord, you ought to devise a means for his destruction (vadhārthaṃ tasya bhagavann upāyaṃ kartum arhasi).”
+“Therefore, great is our dread from that rākṣasa of horrific aspect (_tan mahan no bhayaṃ tasmād rākṣasād ghoradarśanāt_); O Revered Lord, you ought to devise a means for his destruction (_vadhārthaṃ tasya bhagavann upāyaṃ kartum arhasi_).”
 </details>
 </details>
 
@@ -755,9 +755,9 @@ by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Thus addressed by all the gods, Lord Brahmā reflected and then spoke (evam uktaḥ suraiḥ sarvaiś cintayitvā tato ’bravīt): “Aha! Here is the means of slaying that wicked-souled one, now known (hantāyaṃ viditas tasya vadhopāyo durātmanaḥ)!
+**12:** Thus addressed by all the gods, Lord Brahmā reflected and then spoke (_evam uktaḥ suraiḥ sarvaiś cintayitvā tato ’bravīt_): “Aha! Here is the means of slaying that wicked-souled one, now known (_hantāyaṃ viditas tasya vadhopāyo durātmanaḥ_)!
 
-**13:** “By him this plea was uttered: ‘May I be invulnerable to Gandharvas, Yakṣas, Gods, Dānavas, and Rākṣasas!’ (tena gandharvayakṣāṇāṃ devadānavarakṣasām avadhyo ’smīti vāg uktā), and to that I replied, ‘So be it!’ (tathety uktaṃ ca tan mayā).
+**13:** “By him this plea was uttered: ‘May I be invulnerable to Gandharvas, Yakṣas, Gods, Dānavas, and Rākṣasas!’ (_tena gandharvayakṣāṇāṃ devadānavarakṣasām avadhyo ’smīti vāg uktā_), and to that I replied, ‘So be it!’ (_tathety uktaṃ ca tan mayā_).
 </details>
 </details>
 
@@ -809,7 +809,7 @@ death does not occur otherwise." So said Brahma to gods. [1-15-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of sheer disdain and contempt, that rākṣasa did not mention human beings at that time (nākīrtayad avajñānāt tad rakṣo mānuṣāṃs tadā); therefore he must be slain by a human being (tasmāt sa mānuṣād vadhyaḥ), and no other death exists for him (mṛtyur nānyo ’sya vidyate).”
+“Out of sheer disdain and contempt, that rākṣasa did not mention human beings at that time (_nākīrtayad avajñānāt tad rakṣo mānuṣāṃs tadā_); therefore he must be slain by a human being (_tasmāt sa mānuṣād vadhyaḥ_), and no other death exists for him (_mṛtyur nānyo ’sya vidyate_).”
 </details>
 </details>
 
@@ -854,7 +854,7 @@ happy. [1-15-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this welcome speech uttered by Brahmā (etac chrutvā priyaṃ vākyaṃ brahmaṇā samudāhṛtam), all the gods and great sages were filled with joy at that time (devā maharṣayaḥ sarve prahṛṣṭās te ’bhavaṃs tadā).
+Hearing this welcome speech uttered by Brahmā (_etac chrutvā priyaṃ vākyaṃ brahmaṇā samudāhṛtam_), all the gods and great sages were filled with joy at that time (_devā maharṣayaḥ sarve prahṛṣṭās te ’bhavaṃs tadā_).
 </details>
 </details>
 
@@ -960,9 +960,9 @@ Ravana, and the sun by showering the gratuitous and cooling rains.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** At this very juncture, the supremely effulgent Lord Viṣṇu arrived (etasminn antare viṣṇur upayāto mahādyutiḥ), bearing the conch, discus, and mace in His hands (śaṅkhacakragadāpāṇiḥ), clad in yellow silk (pītavāsāḥ), the Lord of the universe (jagatpatiḥ)—
+**16:** At this very juncture, the supremely effulgent Lord Viṣṇu arrived (_etasminn antare viṣṇur upayāto mahādyutiḥ_), bearing the conch, discus, and mace in His hands (_śaṅkhacakragadāpāṇiḥ_), clad in yellow silk (_pītavāsāḥ_), the Lord of the universe (_jagatpatiḥ_)—
 
-**17:** Mounted upon Vinatā’s son Garuḍa, like the radiant Sun riding upon a rain-cloud (vainateyaṃ samāruhya bhāskaras toyadam yathā), wearing armlets of burnished gold and adored by the foremost of the gods (taptahāṭakakeyūro vandyamānaḥ surottamaiḥ).
+**17:** Mounted upon Vinatā’s son Garuḍa, like the radiant Sun riding upon a rain-cloud (_vainateyaṃ samāruhya bhāskaras toyadam yathā_), wearing armlets of burnished gold and adored by the foremost of the gods (_taptahāṭakakeyūro vandyamānaḥ surottamaiḥ_).
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ and offering prayers addressed Vishnu. [1-15-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining Brahmā, He stood there in the assembly with focused intent (brahmaṇā ca samāgatya tatra tasthau samāhitaḥ); bowing low in reverence and praising Him with hymns, all the gods spoke to Him (tam abruvan surāḥ sarve samabhiṣṭūya saṃnatāḥ):
+Joining Brahmā, He stood there in the assembly with focused intent (_brahmaṇā ca samāgatya tatra tasthau samāhitaḥ_); bowing low in reverence and praising Him with hymns, all the gods spoke to Him (_tam abruvan surāḥ sarve samabhiṣṭūya saṃnatāḥ_):
 </details>
 </details>
 
@@ -1110,11 +1110,11 @@ for gods. [1-15-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “O all-pervading Viṣṇu, out of desire for the welfare of the worlds, we entreat You (tvāṃ niyokṣyāmahe viṣṇo lokānāṃ hitakāmyayā): of King Daśaratha, the lord of Ayodhyā, O all-powerful Lord (rājño daśarathasya tvam ayodhyādhipater vibho),
+**19:** “O all-pervading Viṣṇu, out of desire for the welfare of the worlds, we entreat You (_tvāṃ niyokṣyāmahe viṣṇo lokānāṃ hitakāmyayā_): of King Daśaratha, the lord of Ayodhyā, O all-powerful Lord (_rājño daśarathasya tvam ayodhyādhipater vibho_),
 
-**20:** “Who knows dharma, is munificent, and equals the great sages in spiritual splendour (dharmajñasya vadānyasya maharṣisamatejasaḥ)—in his three queens, who resemble Modesty (Hrī), Prosperity (Śrī), and Fame (Kīrti) (tasya bhāryāsu tisṛṣu hrīśrīkīrtyupamāsu ca),
+**20:** “Who knows _dharma_, is munificent, and equals the great sages in spiritual splendour (_dharmajñasya vadānyasya maharṣisamatejasaḥ_)—in his three queens, who resemble Modesty (_Hrī_), Prosperity (_Śrī_), and Fame (_Kīrti_) (_tasya bhāryāsu tisṛṣu hrīśrīkīrtyupamāsu ca_),
 
-**21:** “O Viṣṇu, do You enter into sonship, dividing Yourself into four forms (viṣṇo putratvam āgaccha kṛtvātmānaṃ caturvidham)! Becoming a human being there, slay that full-grown thorn of the worlds (tatra tvaṃ mānuṣo bhūtvā pravṛddhaṃ lokakaṇṭakam),
+**21:** “O Viṣṇu, do You enter into sonship, dividing Yourself into four forms (_viṣṇo putratvam āgaccha kṛtvātmānaṃ caturvidham_)! Becoming a human being there, slay that full-grown thorn of the worlds (_tatra tvaṃ mānuṣo bhūtvā pravṛddhaṃ lokakaṇṭakam_),
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ with eminent saints, gandharva-s, and siddha-s. [1-15-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāvaṇa, who is invulnerable to the gods, in battle, O Viṣṇu (avadhyaṃ daivatair viṣṇo samare jahi rāvaṇam)! For that rākṣasa Rāvaṇa torments the gods together with the Gandharvas, the Siddhas, and the foremost of sages (sa hi devān sagandharvān siddhāṃś ca ṛṣisattamān),
+“Rāvaṇa, who is invulnerable to the gods, in battle, O Viṣṇu (_avadhyaṃ daivatair viṣṇo samare jahi rāvaṇam_)! For that rākṣasa Rāvaṇa torments the gods together with the Gandharvas, the Siddhas, and the foremost of sages (_sa hi devān sagandharvān siddhāṃś ca ṛṣisattamān_),
 </details>
 </details>
 
@@ -1220,7 +1220,7 @@ gardens Nandana, where they will be taking delight. [1-15-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Foolish as he is, through the insolent arrogance of his might (rākṣaso rāvaṇo mūrkho vīryodrekeṇa bādhate); and by him the sages, as well as the Gandharvas and Apsarases (ṛṣayaś ca tatas tena gandharvāpsarasas tathā),
+“Foolish as he is, through the insolent arrogance of his might (_rākṣaso rāvaṇo mūrkho vīryodrekeṇa bādhate_); and by him the sages, as well as the Gandharvas and Apsarases (_ṛṣayaś ca tatas tena gandharvāpsarasas tathā_),
 </details>
 </details>
 
@@ -1266,7 +1266,7 @@ come for his elimination, and thereby we seek shelter in you. [1-15-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While sporting in the celestial Nandana grove, have been violently struck down by that ferocious monster (krīḍanto nandanavane raudreṇa vinipātitāḥ); therefore we have come together with the sages to implore his destruction (vadhārthaṃ vayam āyātās tasya vai munibhiḥ saha).
+“While sporting in the celestial Nandana grove, have been violently struck down by that ferocious monster (_krīḍanto nandanavane raudreṇa vinipātitāḥ_); therefore we have come together with the sages to implore his destruction (_vadhārthaṃ vayam āyātās tasya vai munibhiḥ saha_).
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ to Vishnu that way. [1-15-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The Siddhas, Gandharvas, and Yakṣas have therefore sought refuge in You (siddhagandharvayakṣāś ca tatas tvāṃ śaraṇaṃ gatāḥ); O Lord, You are the supreme refuge of us all, the scorcher of foes (tvaṃ gatiḥ paramā deva sarveṣāṃ naḥ paraṃtapaḥ).
+“The Siddhas, Gandharvas, and Yakṣas have therefore sought refuge in You (_siddhagandharvayakṣāś ca tatas tvāṃ śaraṇaṃ gatāḥ_); O Lord, You are the supreme refuge of us all, the scorcher of foes (_tvaṃ gatiḥ paramā deva sarveṣāṃ naḥ paraṃtapaḥ_).
 </details>
 </details>
 
@@ -1378,9 +1378,9 @@ and that are in the assemblage, keeping the Forefather Brahma at their helm. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** “Set Your mind upon descending to the world of men for the destruction of the enemies of the gods (vadhāya devaśatṝṇāṃ nṛṇāṃ loke manaḥ kuru)!” Thus praised, the Lord of the gods, Viṣṇu, the foremost of the celestials (evaṃ stutas tu deveśo viṣṇus tridaśapuṅgavaḥ),
+**26:** “Set Your mind upon descending to the world of men for the destruction of the enemies of the gods (_vadhāya devaśatṝṇāṃ nṛṇāṃ loke manaḥ kuru_)!” Thus praised, the Lord of the gods, Viṣṇu, the foremost of the celestials (_evaṃ stutas tu deveśo viṣṇus tridaśapuṅgavaḥ_),
 
-**27:** Revered by all the worlds (sarvalokanamaskṛtaḥ), spoke to all those righteous gods who had assembled there with Pitāmaha (Brahmā) at their head (pitāmahapurogāṃs tān abravīt tridaśān sarvān sametān dharmasaṃhitān):
+**27:** Revered by all the worlds (_sarvalokanamaskṛtaḥ_), spoke to all those righteous gods who had assembled there with Pitāmaha (Brahmā) at their head (_pitāmahapurogāṃs tān abravīt tridaśān sarvān sametān dharmasaṃhitān_):
 </details>
 </details>
 
@@ -1461,9 +1461,9 @@ world ruling this earth for eleven thousand years." Thus Vishnu assured the gods
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “Cast off your fear! May auspiciousness attend you (bhayaṃ tyajata bhadraṃ vaḥ)! For your welfare, having slain Rāvaṇa in battle (hitārthaṃ yudhi rāvaṇam), together with his sons and grandsons, his ministers, his counsellors, his kinsmen, and his allies (saputrapautraṃ sāmātyaṃ samantrijñātibāndhavam)—
+**28:** “Cast off your fear! May auspiciousness attend you (_bhayaṃ tyajata bhadraṃ vaḥ_)! For your welfare, having slain Rāvaṇa in battle (_hitārthaṃ yudhi rāvaṇam_), together with his sons and grandsons, his ministers, his counsellors, his kinsmen, and his allies (_saputrapautraṃ sāmātyaṃ samantrijñātibāndhavam_)—
 
-**29:** “Having slain that cruel, unassailable monster who strikes terror into the gods and sages (hatvā krūraṃ durādharṣaṃ devarṣīṇāṃ bhayāvaham), for ten thousand years and ten hundred years (daśavarṣasahasrāṇi daśavarṣaśatāni ca),
+**29:** “Having slain that cruel, unassailable monster who strikes terror into the gods and sages (_hatvā krūraṃ durādharṣaṃ devarṣīṇāṃ bhayāvaham_), for ten thousand years and ten hundred years (_daśavarṣasahasrāṇi daśavarṣaśatāni ca_),
 </details>
 </details>
 
@@ -1518,7 +1518,7 @@ the instituting base for his birth in human world. [1-15-30b, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall dwell in the world of men, protecting this earth (vatsyāmi mānuṣe loke pālayan pṛthivīm imām)!” Having thus granted this boon to the gods, the self-possessed Lord Viṣṇu (evaṃ dattvā varaṃ devo devānāṃ viṣṇur ātmavān)—
+“I shall dwell in the world of men, protecting this earth (_vatsyāmi mānuṣe loke pālayan pṛthivīm imām_)!” Having thus granted this boon to the gods, the self-possessed Lord Viṣṇu (_evaṃ dattvā varaṃ devo devānāṃ viṣṇur ātmavān_)—
 </details>
 </details>
 
@@ -1584,7 +1584,7 @@ paraphernalia. There is no unanimity on this, as yet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflected upon a birthplace for Himself in the human world (mānuṣye cintayāmāsa janmabhūmim athātmanaḥ); then the lotus-petal-eyed Lord, dividing Himself into four forms (tataḥ padmapalāśākṣaḥ kṛtvātmānaṃ caturvidham),
+Reflected upon a birthplace for Himself in the human world (_mānuṣye cintayāmāsa janmabhūmim athātmanaḥ_); then the lotus-petal-eyed Lord, dividing Himself into four forms (_tataḥ padmapalāśākṣaḥ kṛtvātmānaṃ caturvidham_),
 </details>
 </details>
 
@@ -1641,7 +1641,7 @@ He is also called Madhusuudana. This is one the thousand names of Vishnu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Chose King Daśaratha at that time as His father (pitaraṃ rocayāmāsa tadā daśarathaṃ nṛpam). Thereupon the divine sages and Gandharvas, together with the Rudras and hosts of Apsarases (tato devarṣigandharvāḥ sarudrāḥ sāpsarogaṇāḥ), praised the slayer of Madhu with hymns of celestial beauty (stutibhir divyarūpābhis tuṣṭuvur madhusūdanam):
+Chose King Daśaratha at that time as His father (_pitaraṃ rocayāmāsa tadā daśarathaṃ nṛpam_). Thereupon the divine sages and Gandharvas, together with the Rudras and hosts of Apsarases (_tato devarṣigandharvāḥ sarudrāḥ sāpsarogaṇāḥ_), praised the slayer of Madhu with hymns of celestial beauty (_stutibhir divyarūpābhis tuṣṭuvur madhusūdanam_):
 </details>
 </details>
 
@@ -1704,7 +1704,7 @@ loud wailing; hence we pray you to eliminate that Ravana." [1-15-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do You thoroughly uproot that arrogant Rāvaṇa of fierce energy (tam uddhataṃ rāvaṇam ugratejasam), swollen with pride and hostile to the Lord of the thirty-three gods (pravṛddhadarpaṃ tridaśeśvaradviṣam), who makes the worlds wail, the thorn of ascetics who brings terror to the devout (virāvaṇaṃ sādhu tapasvikaṇṭakaṃ tapasvinām uddhara taṃ bhayāvaham)!
+“Do You thoroughly uproot that arrogant Rāvaṇa of fierce energy (_tam uddhataṃ rāvaṇam ugratejasam_), swollen with pride and hostile to the Lord of the thirty-three gods (_pravṛddhadarpaṃ tridaśeśvaradviṣam_), who makes the worlds wail, the thorn of ascetics who brings terror to the devout (_virāvaṇaṃ sādhu tapasvikaṇṭakaṃ tapasvinām uddhara taṃ bhayāvaham_)!
 </details>
 </details>
 
@@ -1782,7 +1782,7 @@ and faultless Vaikuntha. [1-15-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain that very Rāvaṇa of fierce prowess who makes the worlds wail, together with his armies and his kinsmen (tam eva hatvā sabalaṃ sabāndhavam virāvaṇaṃ rāvaṇam ugrapauruṣam), return free of all care for a long time to Your transcendental heaven (svarlokam āgaccha gatajvaraś ciram), guarded by the chief of the immortals and free from every taint and stain (surendraguptaṃ gatadoṣakalmaṣam)!”
+“Having slain that very Rāvaṇa of fierce prowess who makes the worlds wail, together with his armies and his kinsmen (_tam eva hatvā sabalaṃ sabāndhavam virāvaṇaṃ rāvaṇam ugrapauruṣam_), return free of all care for a long time to Your transcendental heaven (_svarlokam āgaccha gatajvaraś ciram_), guarded by the chief of the immortals and free from every taint and stain (_surendraguptaṃ gatadoṣakalmaṣam_)!”
 </details>
 </details>
 

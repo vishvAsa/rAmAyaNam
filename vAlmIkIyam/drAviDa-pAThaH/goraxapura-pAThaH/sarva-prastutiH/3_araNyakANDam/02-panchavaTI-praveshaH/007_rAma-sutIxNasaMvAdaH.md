@@ -86,7 +86,7 @@ the way. [4-7-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, the scorcher of foes (paraṃtapaḥ), accompanied by his brother and by Sītā, went together with those twice-born sages to the hermitage site (āśrama-padam) of Sutīkṣṇa.
+Then Rāma, the scorcher of foes (_paraṃtapaḥ_), accompanied by his brother and by Sītā, went together with those twice-born sages to the hermitage site (_āśrama-padam_) of Sutīkṣṇa.
 </details>
 </details>
 
@@ -139,7 +139,7 @@ tranquil mountain towering like great Mt. Meru. [3-7-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having traveled a long way (dūram adhvānam) and crossed rivers abounding in water (bahūdakāḥ), he beheld a spotless mountain towering like great Meru.
+Having traveled a long way (_dūram adhvānam_) and crossed rivers abounding in water (_bahūdakāḥ_), he beheld a spotless mountain towering like great Meru.
 </details>
 </details>
 
@@ -191,7 +191,7 @@ entered the forest which will always be full with diverse trees. [3-7-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those two foremost of the Ikṣvākus, the two Rāghavas together with Sītā, entered that forest densely overspread (satatam) with diverse trees.
+Then those two foremost of the Ikṣvākus, the two Rāghavas together with Sītā, entered that forest densely overspread (_satatam_) with diverse trees.
 </details>
 </details>
 
@@ -244,7 +244,7 @@ seen the hermitage in a reclusive place adorned with rows of jute cloths as thou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered that formidable forest abounding in trees laden with blossoms and fruits, he beheld in a secluded spot (ekānte) a hermitage adorned with rows of bark-garments (cīra-mālā-pariṣkṛtam).
+Having entered that formidable forest abounding in trees laden with blossoms and fruits, he beheld in a secluded spot (_ekānte_) a hermitage adorned with rows of bark-garments (_cīra-mālā-pariṣkṛtam_).
 </details>
 </details>
 
@@ -308,7 +308,7 @@ inner space.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There Rāma, according to rule (vidhivat), addressed the ascetic Sutīkṣṇa, rich in penance, who was seated bearing matted locks caked with bodily mire (mala-paṅkaja-dhāriṇam):
+There Rāma, according to rule (_vidhivat_), addressed the ascetic Sutīkṣṇa, rich in penance, who was seated bearing matted locks caked with bodily mire (_mala-paṅkaja-dhāriṇam_):
 </details>
 </details>
 
@@ -361,7 +361,7 @@ sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am Rāma, O venerable one (bhagavan), come to behold you; therefore greet me (mābhivada), O knower of dharma, O great sage of true valour (satya-vikrama)!”
+“I am Rāma, O venerable one (_bhagavan_), come to behold you; therefore greet me (_mābhivada_), O knower of dharma, O great sage of true valour (_satya-vikrama_)!”
 </details>
 </details>
 
@@ -422,7 +422,7 @@ with both of his hands, and spoke this sentence. [3-7-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that steadfast sage (dhīraḥ), beholding Rāma, the foremost of upholders of dharma, embraced him with both arms (samāśliṣya ca bāhubhyām) and spoke these words:
+Then that steadfast sage (_dhīraḥ_), beholding Rāma, the foremost of upholders of dharma, embraced him with both arms (_samāśliṣya ca bāhubhyām_) and spoke these words:
 </details>
 </details>
 
@@ -475,7 +475,7 @@ presently caught this hermitage unprepared this has become a well-lorded one... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Welcome to you (svāgataṃ te), O best of the Raghus, O Rāma, foremost of upholders of truth! Trodden by you (tvayākrāntaḥ), this hermitage now truly has a lord (sanātha iva sāmpratam).
+“Welcome to you (_svāgataṃ te_), O best of the Raghus, O Rāma, foremost of upholders of truth! Trodden by you (_tvayākrāntaḥ_), this hermitage now truly has a lord (_sanātha iva sāmpratam_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Awaiting you alone (pratīkṣamāṇas tvām eva), O hero of great renown, I have not ascended to the realm of the gods from this place, casting off my body upon the earth.
+“Awaiting you alone (_pratīkṣamāṇas tvām eva_), O hero of great renown, I have not ascended to the realm of the gods from this place, casting off my body upon the earth.
 </details>
 </details>
 
@@ -572,7 +572,7 @@ Absolute, in you... so I did not cast off this body...' Thus said the sage to Ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I had heard that, having lost the kingdom (rājya-bhraṣṭaḥ), you had betaken yourself to Citrakūṭa; for Śatakratu, king of the gods (deva-rājaḥ), came hither, O Kākutstha.
+“I had heard that, having lost the kingdom (_rājya-bhraṣṭaḥ_), you had betaken yourself to Citrakūṭa; for Śatakratu, king of the gods (_deva-rājaḥ_), came hither, O Kākutstha.
 </details>
 </details>
 
@@ -619,7 +619,7 @@ that great deity said me that I have conquered all the worlds by my meritorious 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having approached me, the great god, lord of the celestials (sureśvaraḥ), declared that all the worlds had been won by my meritorious deeds (puṇyena karmaṇā).
+“Having approached me, the great god, lord of the celestials (_sureśvaraḥ_), declared that all the worlds had been won by my meritorious deeds (_puṇyena karmaṇā_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ worship it is dedicated in the Supreme...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In those worlds frequented by divine sages (devarṣi-juṣṭeṣu) and won by me through penance, do you sport (viharasva) through my grace together with your wife and with Lakṣmaṇa!”
+“In those worlds frequented by divine sages (_devarṣi-juṣṭeṣu_) and won by me through penance, do you sport (_viharasva_) through my grace together with your wife and with Lakṣmaṇa!”
 </details>
 </details>
 
@@ -743,7 +743,7 @@ and an advocate of truth by himself, as Indra would reply to Brahma. [3-7-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that blazing great sage of fierce austerity (ugra-tapasam) and truthful speech, self-possessed (ātmavān) Rāma replied, like Vāsava unto Brahmā:
+To that blazing great sage of fierce austerity (_ugra-tapasam_) and truthful speech, self-possessed (_ātmavān_) Rāma replied, like Vāsava unto Brahmā:
 </details>
 </details>
 
@@ -801,7 +801,7 @@ This is an allusive saying by Rama. cf. 3-5-33.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I myself shall win (aham evāhariṣyāmi) those worlds on my own, O great sage; I desire only a dwelling place prescribed (āvāsaṃ pradiṣṭam) here in the forest.
+“I myself shall win (_aham evāhariṣyāmi_) those worlds on my own, O great sage; I desire only a dwelling place prescribed (_āvāsaṃ pradiṣṭam_) here in the forest.
 </details>
 </details>
 
@@ -853,7 +853,7 @@ so said the great souled Sage Sharabhanga of Sage Gautama's dynasty..." [So said
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That you are skilled in every matter (sarvatra kuśalaḥ) and devoted to the welfare of all beings (sarva-bhūta-hite rataḥ) was told to me by the great-souled Gautama Śarabhaṅga.”
+“That you are skilled in every matter (_sarvatra kuśalaḥ_) and devoted to the welfare of all beings (_sarva-bhūta-hite rataḥ_) was told to me by the great-souled Gautama Śarabhaṅga.”
 </details>
 </details>
 
@@ -905,7 +905,7 @@ with great pleasure. [3-7-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāma, the world-renowned great sage, filled with great joy (harṣeṇa mahatā yutaḥ), spoke these sweet words:
+Addressed thus by Rāma, the world-renowned great sage, filled with great joy (_harṣeṇa mahatā yutaḥ_), spoke these sweet words:
 </details>
 </details>
 
@@ -961,7 +961,7 @@ always be moving here, and this always contains tubers and fruits..." Thus said 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very hermitage (ayam evāśramaḥ), O Rāma, is endowed with every excellence; let delight be taken here (ramyatām)! It is frequented by hosts of sages and ever abounds in roots and fruits.
+“This very hermitage (_ayam evāśramaḥ_), O Rāma, is endowed with every excellence; let delight be taken here (_ramyatām_)! It is frequented by hosts of sages and ever abounds in roots and fruits.
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Coming to this hermitage of the great-souled one, herds of deer (mṛga-saṃghāḥ), free from all fear (akutobhayāḥ), depart unharmed (ahatvā) after alluring the mind (lobhayitvā).
+“Coming to this hermitage of the great-souled one, herds of deer (_mṛga-saṃghāḥ_), free from all fear (_akutobhayāḥ_), depart unharmed (_ahatvā_) after alluring the mind (_lobhayitvā_).
 </details>
 </details>
 
@@ -1094,7 +1094,7 @@ this sentence. [3-7-19, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Know indeed that there is no other blemish (doṣaḥ) here apart from the deer (mṛgebhyo’nyatra).” Hearing that speech of the great sage, Lakṣmaṇa’s elder brother—
+“Know indeed that there is no other blemish (_doṣaḥ_) here apart from the deer (_mṛgebhyo’nyatra_).” Hearing that speech of the great sage, Lakṣmaṇa’s elder brother—
 </details>
 </details>
 
@@ -1167,9 +1167,9 @@ said Rama. [3-7-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —steadfast (dhīraḥ), grasping his bow with arrow (vigṛhya saśaraṃ dhanuḥ), spoke these words: “O most illustrious sage, those herds of deer that come hither—
+**20:** —steadfast (_dhīraḥ_), grasping his bow with arrow (_vigṛhya saśaraṃ dhanuḥ_), spoke these words: “O most illustrious sage, those herds of deer that come hither—
 
-**21:** “—I could slay with a sharp-edged arrow of smooth nodes (ānata-parvaṇā); yet you would be pained thereby (tatrābhiṣajyeta), and what could be more distressing than that (kṛcchrataraṃ tataḥ)?
+**21:** “—I could slay with a sharp-edged arrow of smooth nodes (_ānata-parvaṇā_); yet you would be pained thereby (_tatrābhiṣajyeta_), and what could be more distressing than that (_kṛcchrataraṃ tataḥ_)?
 </details>
 </details>
 
@@ -1200,7 +1200,7 @@ said Rama. [3-7-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I do not approve of a prolonged residence (vāsaṃ ciram) in this hermitage.” Having spoken thus to the sage who had ceased speaking (uparamam), Rāma approached the evening twilight (saṃdhyām upāgamat).
+“Therefore I do not approve of a prolonged residence (_vāsaṃ ciram_) in this hermitage.” Having spoken thus to the sage who had ceased speaking (_uparamam_), Rāma approached the evening twilight (_saṃdhyām upāgamat_).
 </details>
 </details>
 
@@ -1248,7 +1248,7 @@ in that delightful hermitage of Sage Suteekshna. [3-7-22b, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having worshipped the western twilight (anvāsya paścimāṃ saṃdhyām), he made his abode there for the night in Sutīkṣṇa’s delightful hermitage together with Sītā and Lakṣmaṇa.
+Having worshipped the western twilight (_anvāsya paścimāṃ saṃdhyām_), he made his abode there for the night in Sutīkṣṇa’s delightful hermitage together with Sītā and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ their meal, [for a long time...of course, with their unending chit-chatting...]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at the conclusion of the twilight rites (saṃdhyā-nivṛttau), perceiving that night had fallen, the great-souled Sutīkṣṇa himself, having honored those two bulls among men, bestowed upon them pure food suitable for ascetics (tāpasa-yogyam annam).
+Then, at the conclusion of the twilight rites (_saṃdhyā-nivṛttau_), perceiving that night had fallen, the great-souled Sutīkṣṇa himself, having honored those two bulls among men, bestowed upon them pure food suitable for ascetics (_tāpasa-yogyam annam_).
 </details>
 </details>
 

@@ -46,7 +46,7 @@ Beholding Brahmā arrive with the gods, the grief-stricken Wind-god prostrates t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding the Grandsire (pitāmahaṃ dṛṣṭvā), Vāyu, tormented by the slaying of his son (putra-vadhārditaḥ), took up that little child (śiśukaṃ taṃ samādāya) and stood up before the Creator (uttasthau dhātur agrataḥ).
+Then, beholding the Grandsire (_pitāmahaṃ dṛṣṭvā_), Vāyu, tormented by the slaying of his son (_putra-vadhārditaḥ_), took up that little child (_śiśukaṃ taṃ samādāya_) and stood up before the Creator (_uttasthau dhātur agrataḥ_).
 </details>
 </details>
 
@@ -77,7 +77,7 @@ Then, beholding the Grandsire (pitāmahaṃ dṛṣṭvā), Vāyu, tormented by 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With swaying earrings, diadem, and garland, adorned with ornaments of gold (cala-kuṇḍala-mauli-srak-tapanīya-vibhūṣaṇaḥ), Vāyu worshipped the Creator thrice (tisropasthāya vedhase) and fell at his feet (pādayor nyapatat).
+With swaying earrings, diadem, and garland, adorned with ornaments of gold (_cala-kuṇḍala-mauli-srak-tapanīya-vibhūṣaṇaḥ_), Vāyu worshipped the Creator thrice (_tisropasthāya vedhase_) and fell at his feet (_pādayor nyapatat_).
 </details>
 </details>
 
@@ -108,7 +108,7 @@ With swaying earrings, diadem, and garland, adorned with ornaments of gold (cala
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting up Vāyu with that hand adorned with hanging ornaments (lambābharaṇa-śobhinā ... hastena), that knower of the Vedas (vedavidā tena) gently stroked the child (śiśuṃ taṃ parimṛṣṭavān).
+Lifting up Vāyu with that hand adorned with hanging ornaments (_lambābharaṇa-śobhinā ... hastena_), that knower of the Vedas (_vedavidā tena_) gently stroked the child (_śiśuṃ taṃ parimṛṣṭavān_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ Lifting up Vāyu with that hand adorned with hanging ornaments (lambābharaṇa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No sooner was he lightly touched (spṛṣṭa-mātraḥ) in playful ease (salīlam) by the Lotus-born (padmayoninā) than he regained life (punar jīvitam āptavān), just like a crop sprinkled with water (jala-siktaṃ yathā sasyam).
+No sooner was he lightly touched (_spṛṣṭa-mātraḥ_) in playful ease (_salīlam_) by the Lotus-born (_padmayoninā_) than he regained life (_punar jīvitam āptavān_), just like a crop sprinkled with water (_jala-siktaṃ yathā sasyam_).
 </details>
 </details>
 
@@ -170,7 +170,7 @@ No sooner was he lightly touched (spṛṣṭa-mātraḥ) in playful ease (salī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him alive and breathing (prāṇavantam imaṃ dṛṣṭvā), the fragrance-bearing Wind, very life-breath of the world (prāṇo gandhavahaḥ), joyfully moved once more through all beings (cacāra sarva-bhūteṣu) where breath had been arrested (sanniruddham), just as before.
+Beholding him alive and breathing (_prāṇavantam imaṃ dṛṣṭvā_), the fragrance-bearing Wind, very life-breath of the world (_prāṇo gandhavahaḥ_), joyfully moved once more through all beings (_cacāra sarva-bhūteṣu_) where breath had been arrested (_sanniruddham_), just as before.
 </details>
 </details>
 
@@ -201,7 +201,7 @@ Beholding him alive and breathing (prāṇavantam imaṃ dṛṣṭvā), the fra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delivered from the stoppage of the wind (marud-rodhād vinirmuktāḥ), all those creatures became glad (tāḥ prajā muditā ’bhavan), like lotus-ponds full of lotuses (padminya iva sāmbujāḥ) freed from frost-blight (śīta-dāha-vinirmuktāḥ).
+Delivered from the stoppage of the wind (_marud-rodhād vinirmuktāḥ_), all those creatures became glad (_tāḥ prajā muditā ’bhavan_), like lotus-ponds full of lotuses (_padminya iva sāmbujāḥ_) freed from frost-blight (_śīta-dāha-vinirmuktāḥ_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Brahmā—possessor of the three pairs (triyugmaḥ), chief of the triad (trikakut), abiding in the three realms (tridhāmā), and worshipped by the gods (tridaśārcitaḥ)—addressed the deities out of desire to please Māruta (māruta-priya-kāmyayā):
+Then Brahmā—possessor of the three pairs (_triyugmaḥ_), chief of the triad (_trikakut_), abiding in the three realms (_tridhāmā_), and worshipped by the gods (_tridaśārcitaḥ_)—addressed the deities out of desire to please Māruta (_māruta-priya-kāmyayā_):
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Then Brahmā—possessor of the three pairs (triyugmaḥ), chief of the triad (t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Mahendra, Īśa, Varuṇa, Prajeśvara, and Dhaneśvara (bho mahendreśa-varuṇa-prajeśvara-dhaneśvarāḥ)! Even though you know it all (jānatām api vaḥ sarvam), I shall speak what is for your good—listen (vakṣyāmi śrūyatāṃ hitam)!
+“O Mahendra, Īśa, Varuṇa, Prajeśvara, and Dhaneśvara (_bho mahendreśa-varuṇa-prajeśvara-dhaneśvarāḥ_)! Even though you know it all (_jānatām api vaḥ sarvam_), I shall speak what is for your good—listen (_vakṣyāmi śrūyatāṃ hitam_)!
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Then Brahmā—possessor of the three pairs (triyugmaḥ), chief of the triad (t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By this child a great deed that must be accomplished for your sake shall come to pass (anena śiśunā kāryaṃ kartavyaṃ vo bhaviṣyati); therefore, all of you, declare boons (tad vadadhvaṃ varān sarve) for the gratification of this Māruta (mārutasyāsya tuṣṭaye)!”
+“By this child a great deed that must be accomplished for your sake shall come to pass (_anena śiśunā kāryaṃ kartavyaṃ vo bhaviṣyati_); therefore, all of you, declare boons (_tad vadadhvaṃ varān sarve_) for the gratification of this Māruta (_mārutasyāsya tuṣṭaye_)!”
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Then Brahmā—possessor of the three pairs (triyugmaḥ), chief of the triad (t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the thousand-eyed Indra (sahasra-nayanaḥ), filled with delight (prīti-yuktaḥ) and fair of countenance (śubhānanaḥ), lifted off a garland made of golden lotuses (kuśeśayamayīṃ mālām utkṣipya) and spoke these words:
+Thereupon the thousand-eyed Indra (_sahasra-nayanaḥ_), filled with delight (_prīti-yuktaḥ_) and fair of countenance (_śubhānanaḥ_), lifted off a garland made of golden lotuses (_kuśeśayamayīṃ mālām utkṣipya_) and spoke these words:
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Thereupon the thousand-eyed Indra (sahasra-nayanaḥ), filled with delight (prī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since his jaw was struck by the thunderbolt hurled from my hand (mat-karotsṛṣṭa-vajreṇa hanur asya yathā hataḥ), this tiger among monkeys shall by name be called ‘Hanūmān’ (nāmnā vai kapi-śārdūlo bhavitā hanumān iti)!
+“Since his jaw was struck by the thunderbolt hurled from my hand (_mat-karotsṛṣṭa-vajreṇa hanur asya yathā hataḥ_), this tiger among monkeys shall by name be called ‘Hanūmān’ (_nāmnā vai kapi-śārdūlo bhavitā hanumān iti_)!
 </details>
 </details>
 
@@ -403,7 +403,7 @@ Thereupon the thousand-eyed Indra (sahasra-nayanaḥ), filled with delight (prī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall bestow upon him a supreme, wondrous boon (paramaṃ varam adbhutam): from this day forth (itaḥ prabhṛti), he shall be invulnerable to my thunderbolt (vajrasya mamāvadhyo bhaviṣyati)!”
+“I shall bestow upon him a supreme, wondrous boon (_paramaṃ varam adbhutam_): from this day forth (_itaḥ prabhṛti_), he shall be invulnerable to my thunderbolt (_vajrasya mamāvadhyo bhaviṣyati_)!”
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Sūrya bestows a hundredth share of his radiance and future mastery of scripture
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the venerable Mārtaṇḍa [Sūrya], dispeller of darkness (bhagavāṃs timirāpahaḥ), spoke there: “I bestow upon him a hundredth portion (śatikāṃ kalām) of my own fiery brilliance (tejaso ’sya madīyasya).
+Then the venerable Mārtaṇḍa [Sūrya], dispeller of darkness (_bhagavāṃs timirāpahaḥ_), spoke there: “I bestow upon him a hundredth portion (_śatikāṃ kalām_) of my own fiery brilliance (_tejaso ’sya madīyasya_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And when he shall have the capacity to study the scriptures (śāstrāṇy adhyetuṃ śaktir asya bhaviṣyati), then I shall impart scripture to him (tadāsya śāstraṃ dāsyāmi), whereby he shall become truly eloquent (yena vāggmī bhaviṣyati).
+“And when he shall have the capacity to study the scriptures (_śāstrāṇy adhyetuṃ śaktir asya bhaviṣyati_), then I shall impart scripture to him (_tadāsya śāstraṃ dāsyāmi_), whereby he shall become truly eloquent (_yena vāggmī bhaviṣyati_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor shall anyone ever be his equal in mastery of the scriptures (na cāsya bhavitā kaścit sadṛśaḥ śāstra-darśane)!” And Varuṇa bestowed a boon (varuṇaś ca varaṃ prādāt): “Not even after a million years (varṣāyuta-śatenāpi) shall his death come from my noose or from water (mat-pāśād udakād api)!”
+“Nor shall anyone ever be his equal in mastery of the scriptures (_na cāsya bhavitā kaścit sadṛśaḥ śāstra-darśane_)!” And Varuṇa bestowed a boon (_varuṇaś ca varaṃ prādāt_): “Not even after a million years (_varṣāyuta-śatenāpi_) shall his death come from my noose or from water (_mat-pāśād udakād api_)!”
 </details>
 </details>
 
@@ -545,9 +545,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Yama [granted] invulnerability to his staff (daṇḍād avadhyatvam) and perpetual freedom from disease (arogatvaṃ ca nityaśaḥ). “Pleased, I bestow a boon—freedom from dejection in battle (aviṣādaṃ ca saṃyuge),
+**16:** Yama [granted] invulnerability to his staff (_daṇḍād avadhyatvam_) and perpetual freedom from disease (_arogatvaṃ ca nityaśaḥ_). “Pleased, I bestow a boon—freedom from dejection in battle (_aviṣādaṃ ca saṃyuge_),
 
-**17:** “and this mace of mine shall never slay him in combats (gadeyaṃ māmikā nainaṃ saṃyugeṣu vadhiṣyati)!” Thus spoke the boon-giver Ekākṣipiṅgala [Kubera] at that time (varadaḥ prāha tadā hy ekākṣipiṅgalaḥ).
+**17:** “and this mace of mine shall never slay him in combats (_gadeyaṃ māmikā nainaṃ saṃyugeṣu vadhiṣyati_)!” Thus spoke the boon-giver Ekākṣipiṅgala [Kubera] at that time (_varadaḥ prāha tadā hy ekākṣipiṅgalaḥ_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither by me nor by my weapons (matto mad-āyudhānāṃ ca) shall this child ever be slain (na vadhyo ’yaṃ bhaviṣyati)!”—thus by Śaṅkara too was a supreme boon granted unto him (śaṅkareṇāpi datto ’sya paramo varaḥ).
+“Neither by me nor by my weapons (_matto mad-āyudhānāṃ ca_) shall this child ever be slain (_na vadhyo ’yaṃ bhaviṣyati_)!”—thus by Śaṅkara too was a supreme boon granted unto him (_śaṅkareṇāpi datto ’sya paramo varaḥ_).
 </details>
 </details>
 
@@ -617,7 +617,7 @@ Brahmā grants longevity and immunity to every Brahmā-weapon, and Viśvakarmā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He shall be invulnerable to all Brahmā-staffs (sarveṣāṃ brahma-daṇḍānām avadhyo ’yaṃ bhaviṣyati), long-lived (dīrghāyuḥ), and great-souled (mahātmā)!”—thus spoke Brahmā (iti brahmābravīd vacaḥ).
+“He shall be invulnerable to all Brahmā-staffs (_sarveṣāṃ brahma-daṇḍānām avadhyo ’yaṃ bhaviṣyati_), long-lived (_dīrghāyuḥ_), and great-souled (_mahātmā_)!”—thus spoke Brahmā (_iti brahmābravīd vacaḥ_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ Brahmā grants longevity and immunity to every Brahmā-weapon, and Viśvakarmā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Viśvakarmā, foremost of artisans (śilpināṃ pravaraḥ), high-minded (mahāmatiḥ), beholding that child resembling the rising sun (bāla-sūryopamaṃ śiśum), bestowed a boon upon him:
+And Viśvakarmā, foremost of artisans (_śilpināṃ pravaraḥ_), high-minded (_mahāmatiḥ_), beholding that child resembling the rising sun (_bāla-sūryopamaṃ śiśum_), bestowed a boon upon him:
 </details>
 </details>
 
@@ -679,7 +679,7 @@ And Viśvakarmā, foremost of artisans (śilpināṃ pravaraḥ), high-minded (m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Attaining invulnerability to all those celestial weapons fashioned by me for battle (mat-kṛtāni ca śastrāṇi yāni divyāni saṃyuge), he shall be long-lived (cirajīvī bhaviṣyati)!”
+“Attaining invulnerability to all those celestial weapons fashioned by me for battle (_mat-kṛtāni ca śastrāṇi yāni divyāni saṃyuge_), he shall be long-lived (_cirajīvī bhaviṣyati_)!”
 </details>
 </details>
 
@@ -710,7 +710,7 @@ And Viśvakarmā, foremost of artisans (śilpināṃ pravaraḥ), high-minded (m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding him adorned with the boons of the gods (surāṇāṃ tu varair dṛṣṭvā hy enam alaṅkṛtam), the four-faced Teacher of the World (caturmukhaḥ ... jagadguruḥ), pleased at heart (tuṣṭamanāḥ), addressed Vāyu:
+Then, beholding him adorned with the boons of the gods (_surāṇāṃ tu varair dṛṣṭvā hy enam alaṅkṛtam_), the four-faced Teacher of the World (_caturmukhaḥ ... jagadguruḥ_), pleased at heart (_tuṣṭamanāḥ_), addressed Vāyu:
 </details>
 </details>
 
@@ -741,7 +741,7 @@ Then, beholding him adorned with the boons of the gods (surāṇāṃ tu varair 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A maker of fear to foes (amitrāṇāṃ bhayakaraḥ) and a bestower of fearlessness to friends (mitrāṇām abhayaṅkaraḥ), invincible shall your son Māruti be, O Māruta (ajeyo bhavitā putras tava māruta mārutiḥ)!
+“A maker of fear to foes (_amitrāṇāṃ bhayakaraḥ_) and a bestower of fearlessness to friends (_mitrāṇām abhayaṅkaraḥ_), invincible shall your son Māruti be, O Māruta (_ajeyo bhavitā putras tava māruta mārutiḥ_)!
 </details>
 </details>
 
@@ -772,7 +772,7 @@ Then, beholding him adorned with the boons of the gods (surāṇāṃ tu varair 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuming forms at will (kāma-rūpaḥ), wandering at will (kāma-cārī), going wherever he wills (kāmagaḥ), foremost of leapers (plavatāṃ varaḥ), he is of unobstructed course (bhavaty avyāhata-gatiḥ) and shall be renowned (kīrtimāṃś ca bhaviṣyati)!
+“Assuming forms at will (_kāma-rūpaḥ_), wandering at will (_kāma-cārī_), going wherever he wills (_kāmagaḥ_), foremost of leapers (_plavatāṃ varaḥ_), he is of unobstructed course (_bhavaty avyāhata-gatiḥ_) and shall be renowned (_kīrtimāṃś ca bhaviṣyati_)!
 </details>
 </details>
 
@@ -811,7 +811,7 @@ After Brahmā foretells Hanūmān’s hair-raising feats to destroy Rāvaṇa an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deeds aimed at the destruction of Rāvaṇa (rāvaṇotsādanārthāni), bringing joy to Rāma (rāma-priya-karaṇi ca), and making the hair stand on end (roma-harṣa-karāṇi), shall he accomplish in battle (kartā karmāṇi saṃyuge)!”
+“Deeds aimed at the destruction of Rāvaṇa (_rāvaṇotsādanārthāni_), bringing joy to Rāma (_rāma-priya-karaṇi ca_), and making the hair stand on end (_roma-harṣa-karāṇi_), shall he accomplish in battle (_kartā karmāṇi saṃyuge_)!”
 </details>
 </details>
 
@@ -842,7 +842,7 @@ After Brahmā foretells Hanūmān’s hair-raising feats to destroy Rāvaṇa an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and taken leave of Māruta (tam āmantrya mārutam), all of them together with the immortals (amaraiḥ saha), headed by the Grandsire (pitāmaha-purogamāḥ), returned whence they had come (yathāgatam).
+Having spoken thus and taken leave of Māruta (_tam āmantrya mārutam_), all of them together with the immortals (_amaraiḥ saha_), headed by the Grandsire (_pitāmaha-purogamāḥ_), returned whence they had come (_yathāgatam_).
 </details>
 </details>
 
@@ -873,7 +873,7 @@ Having spoken thus and taken leave of Māruta (tam āmantrya mārutam), all of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That fragrance-bearing Wind-god too took his son and brought him home (putraṃ pragṛhya gṛham ānayat); having told Añjanā of the boy endowed with boons (añjanāyās tam ācakhyau varadattam), he departed (vinirgataḥ).
+That fragrance-bearing Wind-god too took his son and brought him home (_putraṃ pragṛhya gṛham ānayat_); having told Añjanā of the boy endowed with boons (_añjanāyās tam ācakhyau varadattam_), he departed (_vinirgataḥ_).
 </details>
 </details>
 
@@ -904,7 +904,7 @@ That fragrance-bearing Wind-god too took his son and brought him home (putraṃ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having obtained those boons, O Rāma, and endowed with the gift of boons (vara-dāna-samanvitaḥ), he swelled with the strength abiding within himself (balenātmani saṃsthena), just like the ocean (so ’pūryata yathārṇavaḥ).
+Having obtained those boons, O Rāma, and endowed with the gift of boons (_vara-dāna-samanvitaḥ_), he swelled with the strength abiding within himself (_balenātmani saṃsthena_), just like the ocean (_so ’pūryata yathārṇavaḥ_).
 </details>
 </details>
 
@@ -935,7 +935,7 @@ Having obtained those boons, O Rāma, and endowed with the gift of boons (vara-d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overflowing with impetuous might (tarasā pūryamāṇo ’pi), that bull among monkeys (vānara-puṅgavaḥ) then fearlessly committed offenses (aparādhyati nirbhayaḥ) within the hermitages of the great sages (āśrameṣu maharṣīṇām).
+Overflowing with impetuous might (_tarasā pūryamāṇo ’pi_), that bull among monkeys (_vānara-puṅgavaḥ_) then fearlessly committed offenses (_aparādhyati nirbhayaḥ_) within the hermitages of the great sages (_āśrameṣu maharṣīṇām_).
 </details>
 </details>
 
@@ -966,7 +966,7 @@ Overflowing with impetuous might (tarasā pūryamāṇo ’pi), that bull among 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The sacrificial ladles and vessels (srug-bhāṇḍāni), the fire-oblations (agnihotram), and the stores of bark-garments and deerskins (valkalājina-sañcayān) of those utterly tranquil sages (saṃśāntānām) he would break, tear to pieces, and scatter in ruin (bhagna-vicchinna-vidhvastān)!
+The sacrificial ladles and vessels (_srug-bhāṇḍāni_), the fire-oblations (_agnihotram_), and the stores of bark-garments and deerskins (_valkalājina-sañcayān_) of those utterly tranquil sages (_saṃśāntānām_) he would break, tear to pieces, and scatter in ruin (_bhagna-vicchinna-vidhvastān_)!
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ Though the sages long tolerate the irrepressible boy out of deference to Brahmā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such pranks did that mighty one carry on (evaṃvidhāni karmāṇi prāvartata mahābalaḥ); knowing that he had been made invulnerable to all Brahmā-staffs by Śambhu [Brahmā] (brahma-daṇḍānām avadhyaḥ śambhunā kṛtaḥ), the sages endured him out of regard for his potency (sahante tasya śaktitaḥ).
+Such pranks did that mighty one carry on (_evaṃvidhāni karmāṇi prāvartata mahābalaḥ_); knowing that he had been made invulnerable to all Brahmā-staffs by Śambhu [Brahmā] (_brahma-daṇḍānām avadhyaḥ śambhunā kṛtaḥ_), the sages endured him out of regard for his potency (_sahante tasya śaktitaḥ_).
 </details>
 </details>
 
@@ -1041,7 +1041,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even when restrained by Kesarin and by Vāyu (kesariṇā tv eṣa vāyunā ... pratiṣiddho ’pi), that son of Añjanā—that monkey—still transgressed every bound of decorum (maryādāṃ laṅghayaty eva vānaraḥ).
+Even when restrained by Kesarin and by Vāyu (_kesariṇā tv eṣa vāyunā ... pratiṣiddho ’pi_), that son of Añjanā—that monkey—still transgressed every bound of decorum (_maryādāṃ laṅghayaty eva vānaraḥ_).
 </details>
 </details>
 
@@ -1072,7 +1072,7 @@ Even when restrained by Kesarin and by Vāyu (kesariṇā tv eṣa vāyunā ... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (bhṛgv-aṅgirasa-vaṃśajāḥ), grew angry—yet neither excessively enraged nor overly wrathful (nātikruddhātimanyavaḥ)—and cursed him, O best of Raghus:
+Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (_bhṛgv-aṅgirasa-vaṃśajāḥ_), grew angry—yet neither excessively enraged nor overly wrathful (_nātikruddhātimanyavaḥ_)—and cursed him, O best of Raghus:
 </details>
 </details>
 
@@ -1105,9 +1105,9 @@ Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (bhṛgv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** “That strength relying upon which you torment us, O leaper (bādhase yat samāśritya balam asmān plavaṅgama)—bewildered by our curse (asmākaṃ śāpa-mohitaḥ), you shall not know it for a long time (tad dīrgha-kālaṃ vettāsi na)! Only when your renown is recalled to you (yadā te smāryate kīrtiḥ) shall your strength wax anew (tadā te vardhate balam)!”
+**34:** “That strength relying upon which you torment us, O leaper (_bādhase yat samāśritya balam asmān plavaṅgama_)—bewildered by our curse (_asmākaṃ śāpa-mohitaḥ_), you shall not know it for a long time (_tad dīrgha-kālaṃ vettāsi na_)! Only when your renown is recalled to you (_yadā te smāryate kīrtiḥ_) shall your strength wax anew (_tadā te vardhate balam_)!”
 
-**35:** Thereupon, robbed of [awareness of] his fiery splendor and vigor (hṛta-tejaujāḥ) by the potency of the great sages’ words (maharṣi-vacanaujasā), he attained a gentle disposition (mṛdu-bhāvaṃ gataḥ) and roamed those very hermitages (eṣośramāṇi tāny eva ... ’carat).
+**35:** Thereupon, robbed of [awareness of] his fiery splendor and vigor (_hṛta-tejaujāḥ_) by the potency of the great sages’ words (_maharṣi-vacanaujasā_), he attained a gentle disposition (_mṛdu-bhāvaṃ gataḥ_) and roamed those very hermitages (_eṣośramāṇi tāny eva ... ’carat_).
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (bhṛgv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now there was a king named Ṛkṣarajas (atharkṣarajaso nāma), father of Vālin and Sugrīva (vāli-sugrīvayoḥ pitā), sovereign of all the monkeys (sarva-vānara-rājā), radiant as the sun in splendor (tejasā bhāskara-prabhaḥ).
+Now there was a king named Ṛkṣarajas (_atharkṣarajaso nāma_), father of Vālin and Sugrīva (_vāli-sugrīvayoḥ pitā_), sovereign of all the monkeys (_sarva-vānara-rājā_), radiant as the sun in splendor (_tejasā bhāskara-prabhaḥ_).
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ After Ṛkṣarajas’s passing, Vālin becomes king and Sugrīva crown prince; 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having ruled the kingdom of the monkeys for a long time (rājyaṃ ciraṃ kṛtvā), that lord of monkeys (vānarāṇāṃ harīśvaraḥ), named Ṛkṣarajas, became united with the law of Time (kāla-dharmeṇa saṅgataḥ).
+Having ruled the kingdom of the monkeys for a long time (_rājyaṃ ciraṃ kṛtvā_), that lord of monkeys (_vānarāṇāṃ harīśvaraḥ_), named Ṛkṣarajas, became united with the law of Time (_kāla-dharmeṇa saṅgataḥ_).
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ Having ruled the kingdom of the monkeys for a long time (rājyaṃ ciraṃ kṛt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When he had passed away (tasminn astamite cātha), the ministers skilled in statecraft (mantribhir mantra-kovidaiḥ) installed Vālin in his father’s station (pitrye pade kṛto vālī) and Sugrīva in Vālin’s former station (sugrīvo vālinaḥ pade).
+When he had passed away (_tasminn astamite cātha_), the ministers skilled in statecraft (_mantribhir mantra-kovidaiḥ_) installed Vālin in his father’s station (_pitrye pade kṛto vālī_) and Sugrīva in Vālin’s former station (_sugrīvo vālinaḥ pade_).
 </details>
 </details>
 
@@ -1239,7 +1239,7 @@ When he had passed away (tasminn astamite cātha), the ministers skilled in stat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With Sugrīva, however, he [Hanūmān] formed from childhood (ābālyaṃ sakhyam abhavat) an undivided (advaidham) and flawless friendship (chidra-varjitam), just like that of the Wind with Fire (anilasyāgninā yathā).
+With Sugrīva, however, he [Hanūmān] formed from childhood (_ābālyaṃ sakhyam abhavat_) an undivided (_advaidham_) and flawless friendship (_chidra-varjitam_), just like that of the Wind with Fire (_anilasyāgninā yathā_).
 </details>
 </details>
 
@@ -1270,7 +1270,7 @@ With Sugrīva, however, he [Hanūmān] formed from childhood (ābālyaṃ sakhya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Solely by force of the curse (śāpa-vaśād eva), he knew not his own strength (na veda balam ātmanaḥ) when the enmity between Vālin and Sugrīva arose, O Rāma (vāli-sugrīvayor vairaṃ yadā rāma samutthitam); nor indeed did this Sugrīva, O Rāma, even while driven about by Vālin (bhrāmyamāṇo ’pi vālinā),
+Solely by force of the curse (_śāpa-vaśād eva_), he knew not his own strength (_na veda balam ātmanaḥ_) when the enmity between Vālin and Sugrīva arose, O Rāma (_vāli-sugrīvayor vairaṃ yadā rāma samutthitam_); nor indeed did this Sugrīva, O Rāma, even while driven about by Vālin (_bhrāmyamāṇo ’pi vālinā_),
 </details>
 </details>
 
@@ -1305,9 +1305,9 @@ Solely by force of the curse (śāpa-vaśād eva), he knew not his own strength 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** know it, O lord (deva jānāti na), nor did this Māruti know the strength within himself (balam ātmani mārutiḥ); his might carried off by the sages’ curse (ṛṣi-śāpāhṛta-balaḥ), this foremost of monkeys then stood beside him in conflict (āsthitaḥ sahito raṇe) like a lion hemmed in by an elephant (siṃhaḥ kuñjara-ruddho vā).
+**41:** know it, O lord (_deva jānāti na_), nor did this Māruti know the strength within himself (_balam ātmani mārutiḥ_); his might carried off by the sages’ curse (_ṛṣi-śāpāhṛta-balaḥ_), this foremost of monkeys then stood beside him in conflict (_āsthitaḥ sahito raṇe_) like a lion hemmed in by an elephant (_siṃhaḥ kuñjara-ruddho vā_).
 
-**42:** In valor, energy, intellect, and majesty (parākramotsāha-mati-pratāpa-), in nobility of character, sweetness, and mastery of policy and counter-policy (sauśīlya-mādhurya-nayānayaiś ca), in profundity, skillfulness, high heroism, and fortitude (gāmbhīrya-cāturya-suvīrya-dhairyaiḥ)—who in the world is superior to Hanūmān (hanūmataḥ ko ’bhyadhiko ’sti loke)?
+**42:** In valor, energy, intellect, and majesty (_parākramotsāha-mati-pratāpa-_), in nobility of character, sweetness, and mastery of policy and counter-policy (_sauśīlya-mādhurya-nayānayaiś ca_), in profundity, skillfulness, high heroism, and fortitude (_gāmbhīrya-cāturya-suvīrya-dhairyaiḥ_)—who in the world is superior to Hanūmān (_hanūmataḥ ko ’bhyadhiko ’sti loke_)?
 </details>
 </details>
 
@@ -1349,7 +1349,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Moreover, wishing to master grammar (vyākaraṇaṃ grahīṣyan), facing the Sun (sūryonmukhaḥ) and eager to question him (praṣṭu-manāḥ), this immeasurable lord of monkeys (aprameyaḥ ... kapīndraḥ) journeyed from the Mountain of Sunrise to the Mountain of Sunset (udyad-girer asta-giriṃ jagāma), holding fast the great treatise (granthaṃ mahad dhārayan).
+Moreover, wishing to master grammar (_vyākaraṇaṃ grahīṣyan_), facing the Sun (_sūryonmukhaḥ_) and eager to question him (_praṣṭu-manāḥ_), this immeasurable lord of monkeys (_aprameyaḥ ... kapīndraḥ_) journeyed from the Mountain of Sunrise to the Mountain of Sunset (_udyad-girer asta-giriṃ jagāma_), holding fast the great treatise (_granthaṃ mahad dhārayan_).
 </details>
 </details>
 
@@ -1384,7 +1384,7 @@ Moreover, wishing to master grammar (vyākaraṇaṃ grahīṣyan), facing the S
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Complete with aphorisms, gloss, explanatory words, and compendium (sa-sūtra-vṛtty-artha-padaṃ ... sa-saṅgraham), that lord of monkeys masters the great-meaning treatise (mahārthaṃ ... sāddhyati vai kapīndraḥ); indeed no one is his equal in scripture (śāstre), in erudition (vaiśārade), or likewise in the science of Vedic meter (cchandagatau tathaiva).
+Complete with aphorisms, gloss, explanatory words, and compendium (_sa-sūtra-vṛtty-artha-padaṃ ... sa-saṅgraham_), that lord of monkeys masters the great-meaning treatise (_mahārthaṃ ... sāddhyati vai kapīndraḥ_); indeed no one is his equal in scripture (_śāstre_), in erudition (_vaiśārade_), or likewise in the science of Vedic meter (_cchandagatau tathaiva_).
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In all branches of learning (sarvāsu vidyāsu) and in the performance of austerity (tapo-vidhāne), he truly rivals the preceptor of the gods (praspardhate ’yo hi guruṃ surāṇām); this very knower of the meaning of the nine grammars (nava-vyākaraṇārtha-vettā) shall even become Brahmā by your grace (brahmā bhaviṣyaty api te prasādāt)!
+In all branches of learning (_sarvāsu vidyāsu_) and in the performance of austerity (_tapo-vidhāne_), he truly rivals the preceptor of the gods (_praspardhate ’yo hi guruṃ surāṇām_); this very knower of the meaning of the nine grammars (_nava-vyākaraṇārtha-vettā_) shall even become Brahmā by your grace (_brahmā bhaviṣyaty api te prasādāt_)!
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ In all branches of learning (sarvāsu vidyāsu) and in the performance of auster
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before Hanūmān—who is like the ocean eager to engulf [the earth] (pravīvivakṣor iva sāgarasya), like fire eager to consume the worlds (lokān didhakṣor iva pāvakasya), and like Death himself at the dissolution of an eon (yuga-kṣaye ... yathāntakasya)—who shall stand (hanūmataḥ sthāsyati kaḥ purastāt)?
+Before Hanūmān—who is like the ocean eager to engulf [the earth] (_pravīvivakṣor iva sāgarasya_), like fire eager to consume the worlds (_lokān didhakṣor iva pāvakasya_), and like Death himself at the dissolution of an eon (_yuga-kṣaye ... yathāntakasya_)—who shall stand (_hanūmataḥ sthāsyati kaḥ purastāt_)?
 </details>
 </details>
 
@@ -1494,7 +1494,7 @@ Before Hanūmān—who is like the ocean eager to engulf [the earth] (pravīviva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both this one (eṣeva) and the other great monkey-lords—Sugrīva, Mainda, and Dvivida with Nīla, together with Tāra, Tāreya [Aṅgada], Nala, and Rambha—were indeed created by the gods for your sake, O Rāma (tvat-kāraṇād rāma surair hi sṛṣṭāḥ).
+Both this one (_eṣeva_) and the other great monkey-lords—Sugrīva, Mainda, and Dvivida with Nīla, together with Tāra, Tāreya [Aṅgada], Nala, and Rambha—were indeed created by the gods for your sake, O Rāma (_tvat-kāraṇād rāma surair hi sṛṣṭāḥ_).
 </details>
 </details>
 
@@ -1534,7 +1534,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus has all that you ask of me been recounted (tad etat kathitaṃ sarvaṃ yan māṃ tvaṃ paripṛcchasi): this deed of Hanūmān in his childhood (hanūmato bāla-bhāve) has been related by me.
+Thus has all that you ask of me been recounted (_tad etat kathitaṃ sarvaṃ yan māṃ tvaṃ paripṛcchasi_): this deed of Hanūmān in his childhood (_hanūmato bāla-bhāve_) has been related by me.
 </details>
 </details>
 
@@ -1577,7 +1577,7 @@ Leaving Rāma, Lakṣmaṇa, and the allies filled with wonder, Agastya announce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing what Agastya had related (śrutvā ’gastyasya kathitam), Rāma and Saumitri (rāmaḥ saumitrir eva ca), together with the monkeys and the rākṣasas (vānarā rākṣasaiḥ saha), attained supreme astonishment (vismayaṃ paramaṃ jagmuḥ).
+Hearing what Agastya had related (_śrutvā ’gastyasya kathitam_), Rāma and Saumitri (_rāmaḥ saumitrir eva ca_), together with the monkeys and the rākṣasas (_vānarā rākṣasaiḥ saha_), attained supreme astonishment (_vismayaṃ paramaṃ jagmuḥ_).
 </details>
 </details>
 
@@ -1612,7 +1612,7 @@ Hearing what Agastya had related (śrutvā ’gastyasya kathitam), Rāma and Sau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Agastya addressed Rāma (agastyas tv abravīd rāmam): “All this has been heard by you (sarvam etac chrutaṃ tvayā); you have been beheld and conversed with (dṛṣṭaḥ sambhāṣitaś cāsi). Now, O Rāma, we take our leave (rāma gacchāmahe vayam)!”
+Then Agastya addressed Rāma (_agastyas tv abravīd rāmam_): “All this has been heard by you (_sarvam etac chrutaṃ tvayā_); you have been beheld and conversed with (_dṛṣṭaḥ sambhāṣitaś cāsi_). Now, O Rāma, we take our leave (_rāma gacchāmahe vayam_)!”
 </details>
 </details>
 
@@ -1643,7 +1643,7 @@ Then Agastya addressed Rāma (agastyas tv abravīd rāmam): “All this has been
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of Agastya of fierce splendor (agastyasyogra-tejasaḥ), Rāghava, with palms joined in reverence (prāñjaliḥ) and bowed low (praṇataś cāpi), spoke thus to the great sage:
+Hearing these words of Agastya of fierce splendor (_agastyasyogra-tejasaḥ_), Rāghava, with palms joined in reverence (_prāñjaliḥ_) and bowed low (_praṇataś cāpi_), spoke thus to the great sage:
 </details>
 </details>
 
@@ -1674,7 +1674,7 @@ Hearing these words of Agastya of fierce splendor (agastyasyogra-tejasaḥ), Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today my deities, ancestors, and great-ancestors (devatā hṛṣṭāḥ pitaraḥ prapitāmahāḥ), together with my kinsmen (sabāndhavāḥ), are ever gladdened and gratified solely by the sight of you (yuṣmākaṃ darśanād eva)!
+“Today my deities, ancestors, and great-ancestors (_devatā hṛṣṭāḥ pitaraḥ prapitāmahāḥ_), together with my kinsmen (_sabāndhavāḥ_), are ever gladdened and gratified solely by the sight of you (_yuṣmākaṃ darśanād eva_)!
 </details>
 </details>
 
@@ -1705,7 +1705,7 @@ Hearing these words of Agastya of fierce splendor (agastyasyogra-tejasaḥ), Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet I have this humble petition (vijñāpyaṃ tu mamaitad dhi) which I now speak, filled with eager longing (yad vadāmy āgata-spṛhaḥ): pray fulfill it out of compassion for my sake (tad bhavadbhir mama kṛte kartavyam anukampayā)!
+“Yet I have this humble petition (_vijñāpyaṃ tu mamaitad dhi_) which I now speak, filled with eager longing (_yad vadāmy āgata-spṛhaḥ_): pray fulfill it out of compassion for my sake (_tad bhavadbhir mama kṛte kartavyam anukampayā_)!
 </details>
 </details>
 
@@ -1739,7 +1739,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having returned [from exile] (āgataḥ) and having established the citizens and countryfolk in their proper duties (paura-jānapadān sthāpya sva-kāryeṣu), I shall perform sacrifices (kratūn eva kariṣyāmi) through the spiritual potency of you righteous ones (prabhāvād bhavatāṃ satām).
+“Having returned [from exile] (_āgataḥ_) and having established the citizens and countryfolk in their proper duties (_paura-jānapadān sthāpya sva-kāryeṣu_), I shall perform sacrifices (_kratūn eva kariṣyāmi_) through the spiritual potency of you righteous ones (_prabhāvād bhavatāṃ satām_).
 </details>
 </details>
 
@@ -1778,7 +1778,7 @@ Inviting the sages to serve as supervising priests at his future sacrifices, Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O ones of great ascetic vigor (mahāvīryāḥ), ever desiring to show me favor (mamānugraha-kāṅkṣiṇaḥ), you shall always serve as supervising priests (sadasyāḥ ... nityam eva) at my sacrifices (mama yajñeṣu)!
+“Therefore, O ones of great ascetic vigor (_mahāvīryāḥ_), ever desiring to show me favor (_mamānugraha-kāṅkṣiṇaḥ_), you shall always serve as supervising priests (_sadasyāḥ ... nityam eva_) at my sacrifices (_mama yajñeṣu_)!
 </details>
 </details>
 
@@ -1809,7 +1809,7 @@ Inviting the sages to serve as supervising priests at his future sacrifices, Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Taking refuge in you whose stains have been cleansed away by austerity (yuṣmān samāśritya tapo-nirdhūta-kalmaṣān), favored by my ancestors (anugrahītaḥ pitṛbhiḥ), I shall become utterly serene and fulfilled (bhaviṣyāmi sunirvṛtaḥ).
+“Taking refuge in you whose stains have been cleansed away by austerity (_yuṣmān samāśritya tapo-nirdhūta-kalmaṣān_), favored by my ancestors (_anugrahītaḥ pitṛbhiḥ_), I shall become utterly serene and fulfilled (_bhaviṣyāmi sunirvṛtaḥ_).
 </details>
 </details>
 
@@ -1843,7 +1843,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore you must come here continually, assembled together (tad āgantavyam aniśaṃ bhavadbhir iha saṅgataiḥ)!” Hearing this, Agastya and the other sages of sharpened vows (ṛṣayaḥ saṃśita-vratāḥ) replied to him, “So be it (evam astu)!” and prepared to depart (prayātum upacakramuḥ).
+“Therefore you must come here continually, assembled together (_tad āgantavyam aniśaṃ bhavadbhir iha saṅgataiḥ_)!” Hearing this, Agastya and the other sages of sharpened vows (_ṛṣayaḥ saṃśita-vratāḥ_) replied to him, “So be it (_evam astu_)!” and prepared to depart (_prayātum upacakramuḥ_).
 </details>
 </details>
 
@@ -1874,7 +1874,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, all those sages departed by the way they had come (gatāḥ sarve ṛṣayas te yathāgatam); and Rāghava, filled with wonder (vismitaḥ), pondered that very purpose (tam evārthaṃ cintayām āsa).
+Having spoken thus, all those sages departed by the way they had come (_gatāḥ sarve ṛṣayas te yathāgatam_); and Rāghava, filled with wonder (_vismitaḥ_), pondered that very purpose (_tam evārthaṃ cintayām āsa_).
 </details>
 </details>
 
@@ -1905,7 +1905,7 @@ Having spoken thus, all those sages departed by the way they had come (gatāḥ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the sun had gone to its setting (astaṃ bhāskare yāte), having dismissed the kings and monkeys (visṛjya nṛpa-vānarān) and duly worshipped the evening twilight (sandhyām upāsya vidhivat), that best of men, when night had set in (pravṛttāyāṃ rajanyām), entered the inner apartments (so ’ntaḥpuracaro ’bhavat).
+Then, when the sun had gone to its setting (_astaṃ bhāskare yāte_), having dismissed the kings and monkeys (_visṛjya nṛpa-vānarān_) and duly worshipped the evening twilight (_sandhyām upāsya vidhivat_), that best of men, when night had set in (_pravṛttāyāṃ rajanyām_), entered the inner apartments (_so ’ntaḥpuracaro ’bhavat_).
 </details>
 </details>
 

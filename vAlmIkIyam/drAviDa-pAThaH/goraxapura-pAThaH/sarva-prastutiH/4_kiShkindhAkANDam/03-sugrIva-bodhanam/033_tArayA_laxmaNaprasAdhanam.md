@@ -102,7 +102,7 @@ Kishkindha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having been invited back in reply (pratisamādiṣṭaḥ), Lakṣmaṇa, the slayer of hostile warriors (paravīrahā), entered the lovely cavern Kiṣkindhā (guhām ramyām kiṣkindhām) at Rāma's command.
+Then, having been invited back in reply (_pratisamādiṣṭaḥ_), Lakṣmaṇa, the slayer of hostile warriors (_paravīrahā_), entered the lovely cavern Kiṣkindhā (_guhām ramyām kiṣkindhām_) at Rāma&#x27;s command.
 </details>
 </details>
 
@@ -153,7 +153,7 @@ adjoined in supplication. [4-33-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Lakṣmaṇa, all the huge-bodied, mighty monkeys stationed at the gateway (dvārasthā harayaḥ) stood there with folded hands (prāñjalayaḥ sthitāḥ).
+Beholding Lakṣmaṇa, all the huge-bodied, mighty monkeys stationed at the gateway (_dvārasthā harayaḥ_) stood there with folded hands (_prāñjalayaḥ sthitāḥ_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ even gather around him. [4-33-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that enraged son of Daśaratha breathing heavily (niḥśvasantam), the monkeys were terrified (trastāḥ) and did not surround or obstruct him (na cainam paryavārayan).
+Seeing that enraged son of Daśaratha breathing heavily (_niḥśvasantam_), the monkeys were terrified (_trastāḥ_) and did not surround or obstruct him (_na cainam paryavārayan_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ flowered orchards and richly rife with gemlike-objects d'art. [4-33-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Illustrious (śrīmān), he beheld that vast, celestial, charming cavern wrought of gems (ratnamayīm), having blossoming groves (puṣpitakānanām) and strewn with jewels (ratnasamākīrṇām);
+Illustrious (_śrīmān_), he beheld that vast, celestial, charming cavern wrought of gems (_ratnamayīm_), having blossoming groves (_puṣpitakānanām_) and strewn with jewels (_ratnasamākīrṇām_);
 </details>
 </details>
 
@@ -315,7 +315,7 @@ seen such a Kishkindha. [4-33-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crowded with mansions and lofty palaces (harmyaprāsādasambādhām), adorned with manifold gems (nānāratnopaśobhitām), and graced with blossoming trees bearing fruits of every desire (sarvakāmaphalair vṛkṣaiḥ);
+Crowded with mansions and lofty palaces (_harmyaprāsādasambādhām_), adorned with manifold gems (_nānāratnopaśobhitām_), and graced with blossoming trees bearing fruits of every desire (_sarvakāmaphalair vṛkṣaiḥ_);
 </details>
 </details>
 
@@ -368,7 +368,7 @@ and Lakshmana has seen such a city. [4-33-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And embellished with handsome monkeys who were the sons of gods and gandharvas (devagandharvaputraiś ca), capable of assuming any form at will (kāmarūpibhiḥ), and wearing celestial garlands and raiments (divyamālyāmbaradharaiḥ).
+And embellished with handsome monkeys who were the sons of gods and _gandharvas_ (_devagandharvaputraiś ca_), capable of assuming any form at will (_kāmarūpibhiḥ_), and wearing celestial garlands and raiments (_divyamālyāmbaradharaiḥ_).
 </details>
 </details>
 
@@ -439,7 +439,7 @@ is odorous and the streets are boozy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld that cavern] perfumed with the fragrances of sandalwood, aloe, and lotus-wood (candanāgurupadmānām gandhaiḥ), its great highways redolent (sammoditamahāpathām) with maireya liquors and honey-wines (madhūnām);
+[He beheld that cavern] perfumed with the fragrances of sandalwood, aloe, and lotus-wood (_candanāgurupadmānām gandhaiḥ_), its great highways redolent (_sammoditamahāpathām_) with _maireya_ liquors and honey-wines (_madhūnām_);
 </details>
 </details>
 
@@ -494,7 +494,7 @@ with Mt. Vindhya and Mt. Meru, and he even saw mountain-rapids with pure water. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wait upon by multi-storied palaces (prāsādair naikabhūmibhiḥ) resembling the Vindhya and Meru mountains; and there Rāghava [Lakṣmaṇa] beheld pellucid mountain streams (girinadyaś ca vimalāḥ).
+Wait upon by multi-storied palaces (_prāsādair naikabhūmibhiḥ_) resembling the Vindhya and Meru mountains; and there Rāghava [Lakṣmaṇa] beheld pellucid mountain streams (_girinadyaś ca vimalāḥ_).
 </details>
 </details>
 
@@ -580,7 +580,7 @@ Lt. Taara, Jambavanta, Dadhivaktra, Niila, Supaatala, and that of Sunetra. [4-33
 
 **11:** Of Kumuda and Suṣeṇa, and likewise of Tāra and Jāmbavān, of Dadhivaktra and Nīla, and of Supāṭala and Sunetra —
 
-**12:** Along the royal highway (rājamārge), Lakṣmaṇa beheld the principal mansions (gṛhamukhyāni), of immense strength and substance (mahāsārāṇi), belonging to these high-souled monkey chiefs (kapimukhyānām).
+**12:** Along the royal highway (_rājamārge_), Lakṣmaṇa beheld the principal mansions (_gṛhamukhyāni_), of immense strength and substance (_mahāsārāṇi_), belonging to these high-souled monkey chiefs (_kapimukhyānām_).
 </details>
 </details>
 
@@ -643,7 +643,7 @@ with wealth and food grains, are beaming with gemlike female-vanara-s, and Laksh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Mansions] gleaming like white clouds (pāṇḍurābhraprakāśāni), provided with fragrant unguents and garlands (gandhamālyayutāni), abounding in wealth and grain (prabhūtadhanadhānyāni), and graced with jewel-like women (strīratnaiḥ śobhitāni);
+[Mansions] gleaming like white clouds (_pāṇḍurābhraprakāśāni_), provided with fragrant unguents and garlands (_gandhamālyayutāni_), abounding in wealth and grain (_prabhūtadhanadhānyāni_), and graced with jewel-like women (_strīratnaiḥ śobhitāni_);
 </details>
 </details>
 
@@ -677,7 +677,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[And he beheld] the lovely palace of the lord of monkeys (vānarendragṛham ramyam), resembling the abode of Mahendra, hard to approach (durāsadam) and encircled by a white mountain-rampart (pāṇḍureṇa tu śailena parikṣiptam);
+[And he beheld] the lovely palace of the lord of monkeys (_vānarendragṛham ramyam_), resembling the abode of Mahendra, hard to approach (_durāsadam_) and encircled by a white mountain-rampart (_pāṇḍureṇa tu śailena parikṣiptam_);
 </details>
 </details>
 
@@ -711,7 +711,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with white palace towers (śuklaiḥ prāsādaśikharaiḥ) resembling the peaks of Kailāsa (kailāsaśikharopamaiḥ), and with blossoming trees bearing fruits of every desire (sarvakāmaphalair vṛkṣaiḥ);
+Adorned with white palace towers (_śuklaiḥ prāsādaśikharaiḥ_) resembling the peaks of Kailāsa (_kailāsaśikharopamaiḥ_), and with blossoming trees bearing fruits of every desire (_sarvakāmaphalair vṛkṣaiḥ_);
 </details>
 </details>
 
@@ -745,7 +745,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[And graced] with glorious trees gifted by Mahendra (mahendradattaiḥ śrīmadbhiḥ), resembling dark rainclouds (nīlajīmūtasaṃnibhaiḥ), bearing celestial flowers and fruits (divyapuṣpaphalaiḥ), and charming with their cool shade (śītacchāyair manoramaiḥ);
+[And graced] with glorious trees gifted by Mahendra (_mahendradattaiḥ śrīmadbhiḥ_), resembling dark rainclouds (_nīlajīmūtasaṃnibhaiḥ_), bearing celestial flowers and fruits (_divyapuṣpaphalaiḥ_), and charming with their cool shade (_śītacchāyair manoramaiḥ_);
 </details>
 </details>
 
@@ -776,7 +776,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having its gates guarded (saṃvṛtadvāram) by mighty monkeys bearing weapons in their hands (śastrapāṇibhiḥ), hung with celestial garlands, radiant (śubhram), and possessing an arched gateway of refined gold (taptakāñcanatoraṇam) —
+Having its gates guarded (_saṃvṛtadvāram_) by mighty monkeys bearing weapons in their hands (_śastrapāṇibhiḥ_), hung with celestial garlands, radiant (_śubhram_), and possessing an arched gateway of refined gold (_taptakāñcanatoraṇam_) —
 </details>
 </details>
 
@@ -841,7 +841,7 @@ a colossal cloud. [4-33-14, 15, 16, 17, 18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Into that lovely palace of Sugrīva (sugrīvasya gṛham ramyam) the mighty son of Sumitrā entered unopposed (avāryamāṇaḥ), like the sun entering a great cloud (mahābhram iva bhāskaraḥ).
+Into that lovely palace of Sugrīva (_sugrīvasya gṛham ramyam_) the mighty son of Sumitrā entered unopposed (_avāryamāṇaḥ_), like the sun entering a great cloud (_mahābhram iva bhāskaraḥ_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ Passing through seven courtyards into Sugrīva's guarded inner apartments, Lak�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The righteous-souled one (dharmātmā) beheld seven courtyards (sapta kakṣyāḥ) filled with vehicles and seats (yānāsanasamāvṛtāḥ), and beheld the vast, strictly guarded inner apartments (antaḥpuram mahat);
+The righteous-souled one (_dharmātmā_) beheld seven courtyards (_sapta kakṣyāḥ_) filled with vehicles and seats (_yānāsanasamāvṛtāḥ_), and beheld the vast, strictly guarded inner apartments (_antaḥpuram mahat_);
 </details>
 </details>
 
@@ -931,7 +931,7 @@ is provided. [4-33-19, 20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Furnished here and there (tatra tatra samāvṛtam) with couches of gold and silver (haimarājataparyaṅkaiḥ) and many choice seats (varāsanaiḥ) provided with costly coverlets (mahārhāstaraṇopetaiḥ).
+Furnished here and there (_tatra tatra samāvṛtam_) with couches of gold and silver (_haimarājataparyaṅkaiḥ_) and many choice seats (_varāsanaiḥ_) provided with costly coverlets (_mahārhāstaraṇopetaiḥ_).
 </details>
 </details>
 
@@ -988,7 +988,7 @@ with strains from string-instruments, like Veena etc., and all have a pulsating 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as he entered (praviśann eva), he continually heard a sweet sound (madhurasvanam) blended with lute-strings and song (tantrīgītasamākīrṇam), with even musical measure, words, and syllables (samatālapadākṣaram).
+Even as he entered (_praviśann eva_), he continually heard a sweet sound (_madhurasvanam_) blended with lute-strings and song (_tantrīgītasamākīrṇam_), with even musical measure, words, and syllables (_samatālapadākṣaram_).
 </details>
 </details>
 
@@ -1039,7 +1039,7 @@ their beauty and youth. [4-33-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that mighty one beheld in Sugrīva's palace many women (bahvīś ca striyaḥ) of diverse forms, proud of their beauty and youth (rūpayauvanagarvitāḥ).
+And that mighty one beheld in Sugrīva&#x27;s palace many women (_bahvīś ca striyaḥ_) of diverse forms, proud of their beauty and youth (_rūpayauvanagarvitāḥ_).
 </details>
 </details>
 
@@ -1109,9 +1109,9 @@ a mark of the chambermaids. None of them is overawed, overstrained, and everyone
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Seeing there [women] endowed with noble lineage (abhijanasampannāḥ) who had fashioned chaplets of flowers (mālyakṛtasrajaḥ), busily engaged in weaving choice garlands (varamālyakṛtavyagrāḥ), and decked with the finest ornaments (bhūṣaṇottamabhūṣitāḥ),
+**23:** Seeing there [women] endowed with noble lineage (_abhijanasampannāḥ_) who had fashioned chaplets of flowers (_mālyakṛtasrajaḥ_), busily engaged in weaving choice garlands (_varamālyakṛtavyagrāḥ_), and decked with the finest ornaments (_bhūṣaṇottamabhūṣitāḥ_),
 
-**24:** Lakṣmaṇa also noticed Sugrīva's attendants (sugrīvānucarāṃś cāpi), who were neither dissatisfied (nātṛptān), nor overly hurried (nāti cāvyagrān), nor meanly attired (nānudāttaparicchadān).
+**24:** Lakṣmaṇa also noticed Sugrīva&#x27;s attendants (_sugrīvānucarāṃś cāpi_), who were neither dissatisfied (_nātṛptān_), nor overly hurried (_nāti cāvyagrān_), nor meanly attired (_nānudāttaparicchadān_).
 </details>
 </details>
 
@@ -1174,7 +1174,7 @@ that refulgent Saumitri is embarrassed to proceed further. [4-33-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the tinkling of anklets (kūjitam nūpurāṇām) and likewise the jingling of girdles (kāñcīnām niḥsvanam), the illustrious son of Sumitrā became abashed (lajjito'bhavat).
+Hearing the tinkling of anklets (_kūjitam nūpurāṇām_) and likewise the jingling of girdles (_kāñcīnām niḥsvanam_), the illustrious son of Sumitrā became abashed (_lajjito&#x27;bhavat_).
 </details>
 </details>
 
@@ -1229,7 +1229,7 @@ bitterness, and he twitched bowstring as though to fill all the points of compas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed with a surge of wrath (roṣavegaprakupitaḥ) on hearing the sound of ornaments (ābharaṇasvanam), the hero twanged his bowstring (cakāra jyāsvanam), filling the quarters with the sound.
+Incensed with a surge of wrath (_roṣavegaprakupitaḥ_) on hearing the sound of ornaments (_ābharaṇasvanam_), the hero twanged his bowstring (_cakāra jyāsvanam_), filling the quarters with the sound.
 </details>
 </details>
 
@@ -1291,7 +1291,7 @@ surfaced from the depths of his palace-chambers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawn back by his own noble conduct (cāritreṇa apakṛṣṭaḥ), that mighty-armed Lakṣmaṇa stood resorting to a secluded corner (ekāntam āśritya), filled with Rāma's wrath (rāmakopasamanvitaḥ).
+Drawn back by his own noble conduct (_cāritreṇa apakṛṣṭaḥ_), that mighty-armed Lakṣmaṇa stood resorting to a secluded corner (_ekāntam āśritya_), filled with Rāma&#x27;s wrath (_rāmakopasamanvitaḥ_).
 </details>
 </details>
 
@@ -1343,7 +1343,7 @@ seat as he ensured that Lakshmana has arrived. [4-33-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing his arrival by that sound of the bow (tena cāpasvanena), Sugrīva, the lord of leapers, was terrified (trastaḥ) and trembled upon his choice seat (cacāla varāsanāt).
+Recognizing his arrival by that sound of the bow (_tena cāpasvanena_), Sugrīva, the lord of leapers, was terrified (_trastaḥ_) and trembled upon his choice seat (_cacāla varāsanāt_).
 </details>
 </details>
 
@@ -1394,7 +1394,7 @@ Thus Sugreeva exclaimed. [4-33-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He thought:] “Just as was reported to me beforehand (purastāt prativeditam) by Aṅgada, quite clearly (suvyaktam) this son of Sumitrā, devoted to his brother (bhrātṛvatsalaḥ), has arrived.”
+[He thought:] “Just as was reported to me beforehand (_purastāt prativeditam_) by Aṅgada, quite clearly (_suvyaktam_) this son of Sumitrā, devoted to his brother (_bhrātṛvatsalaḥ_), has arrived.”
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ mind about Lakshmana's arrival, and he has become whey-faced. [4-33-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Apprised both by Aṅgada and by the twang of the bowstring (jyāsvanena ca), the monkey perceived that Lakṣmaṇa had arrived, and his face dried up (mukham cāsya vyaśuṣyata).
+Apprised both by Aṅgada and by the twang of the bowstring (_jyāsvanena ca_), the monkey perceived that Lakṣmaṇa had arrived, and his face dried up (_mukham cāsya vyaśuṣyata_).
 </details>
 </details>
 
@@ -1509,7 +1509,7 @@ is bewildered with dismay. [4-33-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva, the best of monkeys, though his mind was agitated with fear (trāsasambhrāntamānasaḥ), composed himself (avyagraḥ) and spoke what was salutary (hitam) to the lovely-featured Tārā:
+Then Sugrīva, the best of monkeys, though his mind was agitated with fear (_trāsasambhrāntamānasaḥ_), composed himself (_avyagraḥ_) and spoke what was salutary (_hitam_) to the lovely-featured Tārā:
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ rationality and her eyebrows do not belie what she states.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed is the cause of wrath (ruṭkāraṇam), O fair-browed one (subhru), whereby this younger brother of Rāghava, who is by nature gentle-minded (prakṛtyā mṛdumānasaḥ), has arrived as though enraged (saroṣa iva)?
+“What indeed is the cause of wrath (_ruṭkāraṇam_), O fair-browed one (_subhru_), whereby this younger brother of Rāghava, who is by nature gentle-minded (_prakṛtyā mṛdumānasaḥ_), has arrived as though enraged (_saroṣa iva_)?
 </details>
 </details>
 
@@ -1619,7 +1619,7 @@ invoke despite, indeed, to a fault. [4-33-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What ground for anger (roṣasthānam) on the prince's part do you see, O blameless lady (anindite)? Surely that bull among men (narapuṅgavaḥ) would not conceive anger without cause (akāraṇe).
+“What ground for anger (_roṣasthānam_) on the prince&#x27;s part do you see, O blameless lady (_anindite_)? Surely that bull among men (_narapuṅgavaḥ_) would not conceive anger without cause (_akāraṇe_).
 </details>
 </details>
 
@@ -1674,7 +1674,7 @@ by your nimble-wittedness and let that be made known immediately. [4-33-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you are aware of anything displeasing (kiṃcid apriyam) done by us toward him, pondering that quickly with your intellect (buddhyā sampradhāryāśu), let it be declared at once (kṣipram evābhidhīyatām).
+“If you are aware of anything displeasing (_kiṃcid apriyam_) done by us toward him, pondering that quickly with your intellect (_buddhyā sampradhāryāśu_), let it be declared at once (_kṣipram evābhidhīyatām_).
 </details>
 </details>
 
@@ -1725,7 +1725,7 @@ blent with mitigation. [4-33-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or rather (athavā), you yourself ought to see him in person (svayam evainam draṣṭum arhasi), O spirited lady (bhāmini), and ought to appease him with words joined with conciliation (vacanaiḥ sāntvayuktaiś ca).
+“Or rather (_athavā_), you yourself ought to see him in person (_svayam evainam draṣṭum arhasi_), O spirited lady (_bhāmini_), and ought to appease him with words joined with conciliation (_vacanaiḥ sāntvayuktaiś ca_).
 </details>
 </details>
 
@@ -1788,7 +1788,7 @@ be evident soon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the sight of you (tvaddarśane), that pure-souled one (viśuddhātmā) will not maintain his anger; for high-souled men (mahātmānaḥ) never under any circumstance commit anything harsh (dāruṇam) toward women.”
+“At the sight of you (_tvaddarśane_), that pure-souled one (_viśuddhātmā_) will not maintain his anger; for high-souled men (_mahātmānaḥ_) never under any circumstance commit anything harsh (_dāruṇam_) toward women.”
 </details>
 </details>
 
@@ -1848,7 +1848,7 @@ to see that lotus-petal-eyed Lakshmana, the destroyer of his enemies." Sugreeva 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once he has been approached and conciliated by you with soothing words (tvayā sāntvair upakrāntam), and his senses and mind are appeased (prasannendriyamānasam), then I shall behold that lotus-petal-eyed tamer of foes (kamalapatrākṣam ariṃdamam).”
+“Once he has been approached and conciliated by you with soothing words (_tvayā sāntvair upakrāntam_), and his senses and mind are appeased (_prasannendriyamānasam_), then I shall behold that lotus-petal-eyed tamer of foes (_kamalapatrākṣam ariṃdamam_).”
 </details>
 </details>
 
@@ -1923,7 +1923,7 @@ of Sugreeva and that of Kishkindha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Faltering in her gait (praskhalantī), her eyes rolling with intoxication (madavihvalākṣī), the golden cord of her girdle hanging low (pralambakāñcīguṇahemasūtrā), and her slender frame bent (namitāṅgayaṣṭiḥ), Tārā, endowed with auspicious marks (salakṣaṇā), went into the presence of Lakṣmaṇa.
+Faltering in her gait (_praskhalantī_), her eyes rolling with intoxication (_madavihvalākṣī_), the golden cord of her girdle hanging low (_pralambakāñcīguṇahemasūtrā_), and her slender frame bent (_namitāṅgayaṣṭiḥ_), Tārā, endowed with auspicious marks (_salakṣaṇā_), went into the presence of Lakṣmaṇa.
 </details>
 </details>
 
@@ -1983,7 +1983,7 @@ and because of the presence of females he backed down on his anger with his face
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Merely upon beholding that queen of the lord of monkeys (harīśapatnīm), the high-souled prince (manujendraputraḥ) stood with indifference (udāsīnatayā) and became downcast of face (avāṅmukho'bhūt), his anger subsiding from the proximity of a woman (strīsaṃnikarṣād vinivṛttakopaḥ).
+Merely upon beholding that queen of the lord of monkeys (_harīśapatnīm_), the high-souled prince (_manujendraputraḥ_) stood with indifference (_udāsīnatayā_) and became downcast of face (_avāṅmukho&#x27;bhūt_), his anger subsiding from the proximity of a woman (_strīsaṃnikarṣād vinivṛttakopaḥ_).
 </details>
 </details>
 
@@ -2044,7 +2044,7 @@ Tara spoke a highly noteworthy sentence that is dauntless in friendliness and en
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With her shyness dispelled both by the effect of drink (pānayogāc ca nivṛttalajjā) and by the graciousness of the prince's glance (dṛṣṭiprasādāc ca narendrasūnoḥ), Tārā spoke words bold with affection (praṇayapragalbham), weighty in meaning (mahārtham), and thoroughly conciliatory in form (parisāntvarūpam):
+With her shyness dispelled both by the effect of drink (_pānayogāc ca nivṛttalajjā_) and by the graciousness of the prince&#x27;s glance (_dṛṣṭiprasādāc ca narendrasūnoḥ_), Tārā spoke words bold with affection (_praṇayapragalbham_), weighty in meaning (_mahārtham_), and thoroughly conciliatory in form (_parisāntvarūpam_):
 </details>
 </details>
 
@@ -2110,7 +2110,7 @@ thus with Lakshmana. [4-33-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is the root of your anger (kim kopamūlam), O son of a king of men? Who does not abide by the command of your word (kas te na saṃtiṣṭhati vāṅnideśe)? Who would fearlessly (nirviśaṅkaḥ) approach a forest fire (dāvāgnim āsīdati) rushing upon a forest of dry trees (śuṣkavṛkṣam vanam)?”
+“What is the root of your anger (_kim kopamūlam_), O son of a king of men? Who does not abide by the command of your word (_kas te na saṃtiṣṭhati vāṅnideśe_)? Who would fearlessly (_nirviśaṅkaḥ_) approach a forest fire (_dāvāgnim āsīdati_) rushing upon a forest of dry trees (_śuṣkavṛkṣam vanam_)?”
 </details>
 </details>
 
@@ -2162,7 +2162,7 @@ purposes, Lakshmana trustfully spoke these words. [4-33-42]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing her speech, which was prefaced with conciliation (sāntvapūrvam), Lakṣmaṇa, free from suspicion (aśaṅkitaḥ), spoke again words whose purpose was made clear through affection (praṇayadṛṣṭārtham):
+Hearing her speech, which was prefaced with conciliation (_sāntvapūrvam_), Lakṣmaṇa, free from suspicion (_aśaṅkitaḥ_), spoke again words whose purpose was made clear through affection (_praṇayadṛṣṭārtham_):
 </details>
 </details>
 
@@ -2223,7 +2223,7 @@ garnering rectitude and riches, and his dereliction is unbeknownst to you, is it
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why is this husband of yours (ayam bhartā te) given over to sensual pleasure (kāmavṛttaḥ), having lost his grasp on righteousness and interest (luptadharmārthasaṃgrahaḥ), O you who are devoted to your husband's welfare (bhartṛhite yukte) — and why do you not perceive him [to be so]?”
+“Why is this husband of yours (_ayam bhartā te_) given over to sensual pleasure (_kāmavṛttaḥ_), having lost his grasp on righteousness and interest (_luptadharmārthasaṃgrahaḥ_), O you who are devoted to your husband&#x27;s welfare (_bhartṛhite yukte_) — and why do you not perceive him [to be so]?”
 </details>
 </details>
 
@@ -2278,7 +2278,7 @@ your husband along with his council of ministers is indulged in lechery. [4-33-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He does not think of the affairs of the kingdom (na cintayati rājyārtham), nor of us who are wholly plunged in grief (asmān śokaparāyaṇān); with his council of ministers (sāmātyapariṣat), O Tārā, he indulges solely in sensual pleasure (kāmam evopasevate).
+“He does not think of the affairs of the kingdom (_na cintayati rājyārtham_), nor of us who are wholly plunged in grief (_asmān śokaparāyaṇān_); with his council of ministers (_sāmātyapariṣat_), O Tārā, he indulges solely in sensual pleasure (_kāmam evopasevate_).
 </details>
 </details>
 
@@ -2329,7 +2329,7 @@ of that period as he is frantically insensible. [4-33-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having fixed four months as the limit (māsāṃś caturaḥ kṛtvā pramāṇam), that lord of leapers, puffed up with intoxication (madodagraḥ) and sporting in pleasure (viharan), does not realize that those [months] have passed away (vyatītāṃs tān).
+“Having fixed four months as the limit (_māsāṃś caturaḥ kṛtvā pramāṇam_), that lord of leapers, puffed up with intoxication (_madodagraḥ_) and sporting in pleasure (_viharan_), does not realize that those [months] have passed away (_vyatītāṃs tān_).
 </details>
 </details>
 
@@ -2381,7 +2381,7 @@ isn't it! Just going on drinking will bring prosperity, aspirations and even pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, for the accomplishment of righteousness and interest (dharmārthasiddhyartham), drinking in this manner is not praised (pānam evam na praśasyate); from drinking, interest, pleasure, and righteousness alike are ruined (parihīyate).
+“Indeed, for the accomplishment of righteousness and interest (_dharmārthasiddhyartham_), drinking in this manner is not praised (_pānam evam na praśasyate_); from drinking, interest, pleasure, and righteousness alike are ruined (_parihīyate_).
 </details>
 </details>
 
@@ -2435,7 +2435,7 @@ in achieving his purposes. Thus a threefold ill befalls on that reneger. [4-33-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“First of all, there is a great loss of righteousness (dharmalopo mahān) for one who fails to repay a favor when it has been done (kṛte hy apratikurvataḥ); and in the ruin of a virtuous friend (mitrasya nāśe guṇavato), there is a great loss of interest (arthalopaś ca mahān).
+“First of all, there is a great loss of righteousness (_dharmalopo mahān_) for one who fails to repay a favor when it has been done (_kṛte hy apratikurvataḥ_); and in the ruin of a virtuous friend (_mitrasya nāśe guṇavato_), there is a great loss of interest (_arthalopaś ca mahān_).
 </details>
 </details>
 
@@ -2488,7 +2488,7 @@ he is not even standing by the probity. [4-33-48]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a friend is preeminent in the virtues of practical advantage (arthaguṇaśreṣṭham) and wholly devoted to truth and righteousness (satyadharmaparāyaṇam); yet that twofold virtue (tad dvayam tu) has been abandoned [by him], and he does not stand firm in righteousness (na tu dharme vyavasthitam).
+“For a friend is preeminent in the virtues of practical advantage (_arthaguṇaśreṣṭham_) and wholly devoted to truth and righteousness (_satyadharmaparāyaṇam_); yet that twofold virtue (_tad dvayam tu_) has been abandoned [by him], and he does not stand firm in righteousness (_na tu dharme vyavasthitam_).
 </details>
 </details>
 
@@ -2553,7 +2553,7 @@ spoke curtly to Tara. [4-33-49]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, when the matter at hand stands thus (evam prastute kārye), what further action (kāryam uttaram) must be taken by us — that course of action, O you who know the essence of statecraft (kāryatattvajñe), you ought to declare.”
+“Therefore, when the matter at hand stands thus (_evam prastute kārye_), what further action (_kāryam uttaram_) must be taken by us — that course of action, O you who know the essence of statecraft (_kāryatattvajñe_), you ought to declare.”
 </details>
 </details>
 
@@ -2617,7 +2617,7 @@ capability to achieve results, she again said to Lakshmana. [4-33-50]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing his gentle-natured speech (vākyam madhurasvabhāvam), which was joined with a firm grasp of righteousness and interest (dharmārthasamādhiyuktam), Tārā spoke again to him words full of confidence (viśvāsayuktam) regarding the king's business, whose purpose was assured (gatārthe manujendrakārye):
+Hearing his gentle-natured speech (_vākyam madhurasvabhāvam_), which was joined with a firm grasp of righteousness and interest (_dharmārthasamādhiyuktam_), Tārā spoke again to him words full of confidence (_viśvāsayuktam_) regarding the king&#x27;s business, whose purpose was assured (_gatārthe manujendrakārye_):
 </details>
 </details>
 
@@ -2682,7 +2682,7 @@ be apt of you to tolerate Sugreeva's fault because he is desirous of achieving r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is not a time for anger (na kopakālaḥ), O son of a protector of the earth, nor should anger be directed at one's own kinsman (svajane); you ought, O hero, to pardon even the heedlessness (pramādam api soḍhum) of that person who desires your welfare (tvadarthakāmasya).
+“This is not a time for anger (_na kopakālaḥ_), O son of a protector of the earth, nor should anger be directed at one&#x27;s own kinsman (_svajane_); you ought, O hero, to pardon even the heedlessness (_pramādam api soḍhum_) of that person who desires your welfare (_tvadarthakāmasya_).
 </details>
 </details>
 
@@ -2745,7 +2745,7 @@ is restrained by his perfection, and a source of abstemiousness. [4-33-52]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed, O prince, could one preeminent in virtues (guṇaprakṛṣṭaḥ) direct anger toward one of inferior nature (apakṛṣṭasattve)? What man like you, governed by pure sattva (sattvāvaruddhaḥ) and the very wellspring of self-command (tapasaḥ prasūtiḥ), would fall under the sway of wrath?
+“How indeed, O prince, could one preeminent in virtues (_guṇaprakṛṣṭaḥ_) direct anger toward one of inferior nature (_apakṛṣṭasattve_)? What man like you, governed by pure _sattva_ (_sattvāvaruddhaḥ_) and the very wellspring of self-command (_tapasaḥ prasūtiḥ_), would fall under the sway of wrath?
 </details>
 </details>
 
@@ -2807,7 +2807,7 @@ I am well aware. [4-33-53]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know the wrath of the friend of the monkey hero (harivīrabandhoḥ); I know too the lapse of time in the undertaking (kāryasya ca kālasaṅgam); I know the service that was done for us in your person (kāryam tvayi yat kṛtam naḥ); and I also know what must be done here (yad atra kāryam).
+“I know the wrath of the friend of the monkey hero (_harivīrabandhoḥ_); I know too the lapse of time in the undertaking (_kāryasya ca kālasaṅgam_); I know the service that was done for us in your person (_kāryam tvayi yat kṛtam naḥ_); and I also know what must be done here (_yad atra kāryam_).
 </details>
 </details>
 
@@ -2872,7 +2872,7 @@ is no illegitimacy in it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I also know, O best of men, the irresistible might of bodily-born Love (tathāviṣahyam balam śarīrajasya); and I know toward what person Sugrīva is today bound by desire (kāmena avabaddham) and detached [from other tasks] (asaktam adya).
+“And I also know, O best of men, the irresistible might of bodily-born Love (_tathāviṣahyam balam śarīrajasya_); and I know toward what person Sugrīva is today bound by desire (_kāmena avabaddham_) and detached [from other tasks] (_asaktam adya_).
 </details>
 </details>
 
@@ -2946,7 +2946,7 @@ of place and time, isn't it! Then, how about ethicalities, or rights and wrongs?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your mind has no acquaintance with the ways of love (na kāmatantre tava buddhir asti), inasmuch as (yathā) you have fallen under the sway of wrath (manyuvaśam prapannaḥ); for a man delighting in passion (kāmaratir manuṣyaḥ) regards neither place and time (na deśakālau) nor interest and righteousness (yathārthadharmau).
+“Your mind has no acquaintance with the ways of love (_na kāmatantre tava buddhir asti_), inasmuch as (_yathā_) you have fallen under the sway of wrath (_manyuvaśam prapannaḥ_); for a man delighting in passion (_kāmaratir manuṣyaḥ_) regards neither place and time (_na deśakālau_) nor interest and righteousness (_yathārthadharmau_).
 </details>
 </details>
 
@@ -3007,7 +3007,7 @@ dynasty. [4-33-56]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pardon for now (kṣamasva tāvat), O slayer of hostile warriors, that brother of yours (tvadbhrātaram), the lord of the monkey race (vānaravaṃśanātham), who is given over to pleasure (kāmavṛttam), seated close beside me (mama saṃnikṛṣṭam), and bereft of shame through the onset of passion (kāmābhiyogāc ca vimuktalajjam).
+“Pardon for now (_kṣamasva tāvat_), O slayer of hostile warriors, that brother of yours (_tvadbhrātaram_), the lord of the monkey race (_vānaravaṃśanātham_), who is given over to pleasure (_kāmavṛttam_), seated close beside me (_mama saṃnikṛṣṭam_), and bereft of shame through the onset of passion (_kāmābhiyogāc ca vimuktalajjam_).
 </details>
 </details>
 
@@ -3078,7 +3078,7 @@ a female, they are lured by those females...' an ancient saying.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even great sages (maharṣayaḥ) who delight in righteousness and austerity (dharmatapo'bhirāmāḥ) become desirous of sensual pleasures (kāmānukāmāḥ) and bound by infatuation (pratibaddhamohāḥ); how then should this king, who is a monkey and fickle by nature (prakṛtyā capalaḥ kapis tu), not cling to pleasures (katham na sajjeta sukheṣu)?”
+“Even great sages (_maharṣayaḥ_) who delight in righteousness and austerity (_dharmatapo&#x27;bhirāmāḥ_) become desirous of sensual pleasures (_kāmānukāmāḥ_) and bound by infatuation (_pratibaddhamohāḥ_); how then should this king, who is a monkey and fickle by nature (_prakṛtyā capalaḥ kapis tu_), not cling to pleasures (_katham na sajjeta sukheṣu_)?”
 </details>
 </details>
 
@@ -3139,7 +3139,7 @@ of her husband's wellbeing. [4-33-58]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken these words of weighty import (vacanam mahārtham) to the immeasurable Lakṣmaṇa, that monkey queen (sā vānarī), her eyes rolling with intoxication (madavihvalākṣī), again spoke with earnest solicitude (sakhedam) this speech salutary to her husband (bhartur hitam):
+Having spoken these words of weighty import (_vacanam mahārtham_) to the immeasurable Lakṣmaṇa, that monkey queen (_sā vānarī_), her eyes rolling with intoxication (_madavihvalākṣī_), again spoke with earnest solicitude (_sakhedam_) this speech salutary to her husband (_bhartur hitam_):
 </details>
 </details>
 
@@ -3190,7 +3190,7 @@ aiming to achieve your objective, despite of the fact that he is servile to over
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet the mobilization (udyogas tu) for accomplishing your purpose (tavārthapratisādhane) was commanded long ago (cirājñaptaḥ) by Sugrīva, O best of men, even while he was subject to passion (kāmasyāpi vidheyena).
+“Yet the mobilization (_udyogas tu_) for accomplishing your purpose (_tavārthapratisādhane_) was commanded long ago (_cirājñaptaḥ_) by Sugrīva, O best of men, even while he was subject to passion (_kāmasyāpi vidheyena_).
 </details>
 </details>
 
@@ -3241,7 +3241,7 @@ gusie just by their wish have come in hundreds, in thousands, in millions. [4-33
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For monkeys of great valor (mahāvīryā harayaḥ), capable of assuming any form at will (kāmarūpiṇaḥ) and dwelling on manifold mountains (nānānaganivāsinaḥ), have arrived in crores and hundreds of thousands (koṭīḥ śatasahasrāṇi).
+“For monkeys of great valor (_mahāvīryā harayaḥ_), capable of assuming any form at will (_kāmarūpiṇaḥ_) and dwelling on manifold mountains (_nānānaganivāsinaḥ_), have arrived in crores and hundreds of thousands (_koṭīḥ śatasahasrāṇi_).
 </details>
 </details>
 
@@ -3303,7 +3303,7 @@ inside the palace-chambers. [4-33-61]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore come, O mighty-armed one (tad āgaccha mahābāho); pure conduct (cāritram) has been preserved by you. Looking upon the wives [of a friend] (dārāvalokanam) with the disposition of a friend (mitrabhāvena) is free from guile (acchalam) for the virtuous (satām).”
+“Therefore come, O mighty-armed one (_tad āgaccha mahābāho_); pure conduct (_cāritram_) has been preserved by you. Looking upon the wives [of a friend] (_dārāvalokanam_) with the disposition of a friend (_mitrabhāvena_) is free from guile (_acchalam_) for the virtuous (_satām_).”
 </details>
 </details>
 
@@ -3357,7 +3357,7 @@ Welcomed by Tara and hastened by haste of his duty, that dextrous enemy-destroye
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Permitted by Tārā (tārayā cābhyanujñātaḥ) and impelled by urgency (tvarayā vāpi coditaḥ), the mighty-armed tamer of foes entered the inner chamber (praviveśa abhyantaram).
+Permitted by Tārā (_tārayā cābhyanujñātaḥ_) and impelled by urgency (_tvarayā vāpi coditaḥ_), the mighty-armed tamer of foes entered the inner chamber (_praviveśa abhyantaram_).
 </details>
 </details>
 
@@ -3388,7 +3388,7 @@ Permitted by Tārā (tārayā cābhyanujñātaḥ) and impelled by urgency (tvar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he beheld Sugrīva seated upon a supreme golden seat (kāñcane paramāsane) furnished with costly coverlets (mahārhāstaraṇopete), gleaming like the sun (ādityasaṃnibham),
+Then he beheld Sugrīva seated upon a supreme golden seat (_kāñcane paramāsane_) furnished with costly coverlets (_mahārhāstaraṇopete_), gleaming like the sun (_ādityasaṃnibham_),
 </details>
 </details>
 
@@ -3419,7 +3419,7 @@ Then he beheld Sugrīva seated upon a supreme golden seat (kāñcane paramāsane
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His limbs variegated with celestial ornaments (divyābharaṇacitrāṅgam), of celestial form, glorious (yaśasvinam), wearing celestial garlands and raiments (divyamālyāmbaradharam), and unconquerable like Mahendra (mahendram iva durjayam).
+His limbs variegated with celestial ornaments (_divyābharaṇacitrāṅgam_), of celestial form, glorious (_yaśasvinam_), wearing celestial garlands and raiments (_divyamālyāmbaradharam_), and unconquerable like Mahendra (_mahendram iva durjayam_).
 </details>
 </details>
 
@@ -3474,7 +3474,7 @@ and garlands, and on seeing him Lakshmana with franticly bloodshot eyes appeared
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Beholding him] surrounded by young women decked with celestial ornaments and garlands (divyābharaṇamālyābhiḥ pramadābhiḥ samāvṛtam), [Lakṣmaṇa] became even more incensed and red-eyed (saṃrabdhatararaktākṣaḥ), resembling the Ender himself (babhūvāntakasaṃnibhaḥ).
+[Beholding him] surrounded by young women decked with celestial ornaments and garlands (_divyābharaṇamālyābhiḥ pramadābhiḥ samāvṛtam_), [Lakṣmaṇa] became even more incensed and red-eyed (_saṃrabdhatararaktākṣaḥ_), resembling the Ender himself (_babhūvāntakasaṃnibhaḥ_).
 </details>
 </details>
 
@@ -3551,6 +3551,6 @@ Sugreeva made sheep eyes at the furiously broad-eyed Lakshmana. [4-33-66]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tightly embracing Rumā (rumām tu parirabhya gāḍham), that hero of choice golden complexion (varahemavarṇaḥ), seated upon his choice throne (varāsanasthaḥ), wide-eyed (viśālanetraḥ), beheld the wide-eyed son of Sumitrā of undaunted spirit (saumitrim adīnasattvam).
+Tightly embracing Rumā (_rumām tu parirabhya gāḍham_), that hero of choice golden complexion (_varahemavarṇaḥ_), seated upon his choice throne (_varāsanasthaḥ_), wide-eyed (_viśālanetraḥ_), beheld the wide-eyed son of Sumitrā of undaunted spirit (_saumitrim adīnasattvam_).
 </details>
 </details>

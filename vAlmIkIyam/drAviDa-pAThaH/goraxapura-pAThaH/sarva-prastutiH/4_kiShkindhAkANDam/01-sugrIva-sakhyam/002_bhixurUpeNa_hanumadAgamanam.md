@@ -79,7 +79,7 @@ Rama and Lakshmana, Sugreeva became ambiguous. [4-2-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those two great-souled (mahātmānau) brothers, Rāma and Lakṣmaṇa—two heroes bearing excellent weapons (varāyudhadharau)—Sugrīva became filled with apprehension.
+Beholding those two great-souled (_mahātmānau_) brothers, Rāma and Lakṣmaṇa—two heroes bearing excellent weapons (_varāyudhadharau_)—Sugrīva became filled with apprehension.
 </details>
 </details>
 
@@ -133,7 +133,7 @@ one place. [4-2-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With an agitated heart (udvignahṛdayaḥ), scanning all directions on every side, that bull among Vānaras could not remain still in any single spot.
+With an agitated heart (_udvignahṛdayaḥ_), scanning all directions on every side, that bull among Vānaras could not remain still in any single spot.
 </details>
 </details>
 
@@ -187,7 +187,7 @@ much frightened, and his heart is really sunken. [4- 2- 3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he gazed upon those two of mighty strength, his mind could not resolve to stand firm (sthātum); indeed, the heart of that terrified ape sank in despair (vyavasasāda).
+As he gazed upon those two of mighty strength, his mind could not resolve to stand firm (_sthātum_); indeed, the heart of that terrified ape sank in despair (_vyavasasāda_).
 </details>
 </details>
 
@@ -238,7 +238,7 @@ all the other monkeys too are frightened. [4-2-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting deeply and weighing the gravity and lightness (gurulāghavam) [of remaining or fleeing], righteous-souled Sugrīva became supremely agitated along with all those Vānaras.
+Reflecting deeply and weighing the gravity and lightness (_gurulāghavam_) [of remaining or fleeing], righteous-souled Sugrīva became supremely agitated along with all those Vānaras.
 </details>
 </details>
 
@@ -289,7 +289,7 @@ his ministers. [4- 2- 5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that lord of leapers (plavagādhipaḥ), Sugrīva, exceedingly distressed as he watched Rāma and Lakṣmaṇa, spoke unto his counselors (sacivebhyaḥ):
+Then that lord of leapers (_plavagādhipaḥ_), Sugrīva, exceedingly distressed as he watched Rāma and Lakṣmaṇa, spoke unto his counselors (_sacivebhyaḥ_):
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Vali must have dispatched them... [4-2-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely these two have been dispatched by Vālin (vālipraṇihitau) into this impassable forest; clad in bark-garments (cīravasanau) by way of disguise (chadmanā), they have come here prowling about.”
+“Surely these two have been dispatched by Vālin (_vālipraṇihitau_) into this impassable forest; clad in bark-garments (_cīravasanau_) by way of disguise (_chadmanā_), they have come here prowling about.”
 </details>
 </details>
 
@@ -399,7 +399,7 @@ terrace to another high-peaked mountain. [4- 2- 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva's counselors (sugrīvasacivāḥ), beholding those two supreme bowmen (paramadhanvinau), moved from that mountain slope to another lofty peak.
+Then Sugrīva&#x27;s counselors (_sugrīvasacivāḥ_), beholding those two supreme bowmen (_paramadhanvinau_), moved from that mountain slope to another lofty peak.
 </details>
 </details>
 
@@ -451,7 +451,7 @@ the chieftain of monkeys, gathering around him there they stood at his nearby. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Quickly approaching that bull among troop-leaders (yūthaparṣabham), those Vānara troop-leaders surrounded that foremost of apes and stood in attendance (upatasthire).
+Quickly approaching that bull among troop-leaders (_yūthaparṣabham_), those Vānara troop-leaders surrounded that foremost of apes and stood in attendance (_upatasthire_).
 </details>
 </details>
 
@@ -528,9 +528,9 @@ trees that are clumped in that forest on that mountain by their swinging. [4- 2-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Thus proceeding along a single path (ekāyanagatāḥ), leaping from mountain to mountain, they made the mountain peaks tremble with their impetus (vegena).
+**9:** Thus proceeding along a single path (_ekāyanagatāḥ_), leaping from mountain to mountain, they made the mountain peaks tremble with their impetus (_vegena_).
 
-**10:** Then all those mighty tree-leapers (śākhāmṛgāḥ), bounding along, shattered the blossoming trees (nagān) that stood upon that rugged fastness (durgam).
+**10:** Then all those mighty tree-leapers (_śākhāmṛgāḥ_), bounding along, shattered the blossoming trees (_nagān_) that stood upon that rugged fastness (_durgam_).
 </details>
 </details>
 
@@ -585,7 +585,7 @@ mountain. [4-2-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Springing all across that great mountain (mahāgirim), those foremost of monkeys went along terrifying the deer, wildcats, and tigers (mṛgamārjāraśārdūlān).
+Springing all across that great mountain (_mahāgirim_), those foremost of monkeys went along terrifying the deer, wildcats, and tigers (_mṛgamārjāraśārdūlān_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ Sugreeva, and all stood with their adjoined palms. [4-2-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Sugrīva's counselors, composed upon the lord of mountains (parvatendre), joined their monkey chief and stood all together with folded hands (prāñjalayaḥ).
+Thereupon Sugrīva&#x27;s counselors, composed upon the lord of mountains (_parvatendre_), joined their monkey chief and stood all together with folded hands (_prāñjalayaḥ_).
 </details>
 </details>
 
@@ -695,7 +695,7 @@ Vali's mischief. [4-2-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, skilled in speech (vākyakovidaḥ), spoke these words to Sugrīva, who was terrified with fear and apprehensive of Vālin's hostility (vālikilbiṣaśaṅkitam):
+Then Hanūmān, skilled in speech (_vākyakovidaḥ_), spoke these words to Sugrīva, who was terrified with fear and apprehensive of Vālin&#x27;s hostility (_vālikilbiṣaśaṅkitam_):
 </details>
 </details>
 
@@ -756,7 +756,7 @@ Mt. Rishyamuka or also called Mt. Malaya, because Vali cannot step on this mount
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let this great agitation (sambhramaḥ) on account of Vālin be cast aside by all; this is the foremost mountain Malaya (malayaḥ)—there is no fear of Vālin here.
+“Let this great agitation (_sambhramaḥ_) on account of Vālin be cast aside by all; this is the foremost mountain Malaya (_malayaḥ_)—there is no fear of Vālin here.
 </details>
 </details>
 
@@ -809,7 +809,7 @@ cruel-looking, cruel Vali here... [4- 2-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That cruel Vālin of cruel aspect (krūradarśanam), fleeing from whom with an agitated mind you have run away (vidrutaḥ), O bull among monkeys—I do not see him here.
+“That cruel Vālin of cruel aspect (_krūradarśanam_), fleeing from whom with an agitated mind you have run away (_vidrutaḥ_), O bull among monkeys—I do not see him here.
 </details>
 </details>
 
@@ -861,7 +861,7 @@ and the one with harmful intent... that Vali is not here. Therefore I perceive n
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That wicked-souled elder brother (pūrvajāt) of sinful deeds, from whom your fear arises, O gentle one—that Vālin is not here; I behold no cause of fear for you.
+“That wicked-souled elder brother (_pūrvajāt_) of sinful deeds, from whom your fear arises, O gentle one—that Vālin is not here; I behold no cause of fear for you.
 </details>
 </details>
 
@@ -915,7 +915,7 @@ in your mind by that fickleness, and your monkeyshines is clear by it... [4-2-17
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas! Your monkey-nature (śākhāmṛgatvam) is all too manifest, O leaper (plavaṅgama), in that through lightness of mind (laghucittatayā) you do not steady yourself in wise reflection (matau)!
+“Alas! Your monkey-nature (_śākhāmṛgatvam_) is all too manifest, O leaper (_plavaṅgama_), in that through lightness of mind (_laghucittatayā_) you do not steady yourself in wise reflection (_matau_)!
 </details>
 </details>
 
@@ -968,7 +968,7 @@ So said Hanuma to Sugreeva. [4-2-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with intellect and discernment (buddhivijñānasampannaḥ), conduct everything through [observing] gestures (iṅgitaiḥ); for a king who falls into lack of judgment (abuddhim) cannot rule over all beings.”
+“Endowed with intellect and discernment (_buddhivijñānasampannaḥ_), conduct everything through [observing] gestures (_iṅgitaiḥ_); for a king who falls into lack of judgment (_abuddhim_) cannot rule over all beings.”
 </details>
 </details>
 
@@ -1027,7 +1027,7 @@ sentence, positively. [4-2-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard all those auspicious words of Hanūmān, Sugrīva then spoke unto Hanūmān words even more auspicious (śubhataram):
+Having heard all those auspicious words of Hanūmān, Sugrīva then spoke unto Hanūmān words even more auspicious (_śubhataram_):
 </details>
 </details>
 
@@ -1079,7 +1079,7 @@ Sugreeva thus spoke to Hanuma. [4-2-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding these two long-armed (dīrghabāhū), large-eyed heroes bearing arrows, bows, and swords, resembling the sons of gods (surasutopamau), whose fear would not arise?
+“Beholding these two long-armed (_dīrghabāhū_), large-eyed heroes bearing arrows, bows, and swords, resembling the sons of gods (_surasutopamau_), whose fear would not arise?
 </details>
 </details>
 
@@ -1131,7 +1131,7 @@ do have many friends and trusting them absolutely is an unpardonable mistake... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I suspect these two foremost of men to be dispatched by Vālin (vālipraṇihitau); for kings possess many allies (bahumitrāḥ), and trust here is not fitting.
+“I suspect these two foremost of men to be dispatched by Vālin (_vālipraṇihitau_); for kings possess many allies (_bahumitrāḥ_), and trust here is not fitting.
 </details>
 </details>
 
@@ -1183,7 +1183,7 @@ the complacently self-assured ones that relax in their own self-confidence on an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, enemies who move in disguise (chadmacāriṇaḥ) must be recognized by a man; remaining distrustful themselves, they strike at the vulnerable points (chidreṣu) of those who trust.
+“Moreover, enemies who move in disguise (_chadmacāriṇaḥ_) must be recognized by a man; remaining distrustful themselves, they strike at the vulnerable points (_chidreṣu_) of those who trust.
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ to eliminate them... and they the kings are to be known even by ordinary people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In affairs of state (kṛtyeṣu) Vālin is astute (medhāvī), and kings are far-seeing (bahudarśinaḥ); they become destroyers of foes, and must be fathomed through ordinary men (prākṛtair naraiḥ).
+“In affairs of state (_kṛtyeṣu_) Vālin is astute (_medhāvī_), and kings are far-seeing (_bahudarśinaḥ_); they become destroyers of foes, and must be fathomed through ordinary men (_prākṛtair naraiḥ_).
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ conversation, as well...[4-2-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Going there yourself as an ordinary person (prākṛtenaiva), O leaper, you must ascertain those two through the modes of their gestures (iṅgitānāṃ prakāraiḥ) and through their aspect and conversation (rūpavyābhāṣaṇena).”
+“Going there yourself as an ordinary person (_prākṛtenaiva_), O leaper, you must ascertain those two through the modes of their gestures (_iṅgitānāṃ prakāraiḥ_) and through their aspect and conversation (_rūpavyābhāṣaṇena_).”
 </details>
 </details>
 
@@ -1329,7 +1329,7 @@ Sugrīva instructs Hanūmān to win the archers' confidence with praise, questio
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Observe the disposition (bhāvam) of those two: if they are of cheerful mind (prahṛṣṭamanasau), inspire confidence in them again and again through praises (praśaṃsābhiḥ) and friendly gestures (iṅgitaiḥ).
+“Observe the disposition (_bhāvam_) of those two: if they are of cheerful mind (_prahṛṣṭamanasau_), inspire confidence in them again and again through praises (_praśaṃsābhiḥ_) and friendly gestures (_iṅgitaiḥ_).
 </details>
 </details>
 
@@ -1391,7 +1391,7 @@ position them towards my friendship and me.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Standing facing right toward me (mamaivābhimukham), O bull among monkeys, ask those two bowmen the purpose (prayojanam) of their entering this forest.
+“Standing facing right toward me (_mamaivābhimukham_), O bull among monkeys, ask those two bowmen the purpose (_prayojanam_) of their entering this forest.
 </details>
 </details>
 
@@ -1445,7 +1445,7 @@ otherwise by conversation..." Thus Sugreeva said to Hanuma. [4-2-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Recognize whether these two are pure in heart (śuddhātmānau), O leaper; by their speeches (vyābhāṣitaiḥ) or by their outward expressions (rūpaiḥ), the corruptness or non-corruptness of these two is to be known.”
+“Recognize whether these two are pure in heart (_śuddhātmānau_), O leaper; by their speeches (_vyābhāṣitaiḥ_) or by their outward expressions (_rūpaiḥ_), the corruptness or non-corruptness of these two is to be known.”
 </details>
 </details>
 
@@ -1496,7 +1496,7 @@ to go there, where Rama and Lakshmana are. [4-2-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus instructed (saṃdiṣṭaḥ) by the king of apes, the son of the Wind-god (mārutātmajaḥ) resolved in his mind upon going to where Rāma and Lakṣmaṇa were.
+Thus instructed (_saṃdiṣṭaḥ_) by the king of apes, the son of the Wind-god (_mārutātmajaḥ_) resolved in his mind upon going to where Rāma and Lakṣmaṇa were.
 </details>
 </details>
 
@@ -1568,7 +1568,7 @@ highly mighty Rama is there along with Lakshmana. [4-2-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honoring the words of that terrified and unassailable ape with “So be it!” (tatheti), high-souled Hanūmān then went forth to where Rāma of exceeding might stood with Lakṣmaṇa.
+Honoring the words of that terrified and unassailable ape with “So be it!” (_tatheti_), high-souled Hanūmān then went forth to where Rāma of exceeding might stood with Lakṣmaṇa.
 </details>
 </details>
 

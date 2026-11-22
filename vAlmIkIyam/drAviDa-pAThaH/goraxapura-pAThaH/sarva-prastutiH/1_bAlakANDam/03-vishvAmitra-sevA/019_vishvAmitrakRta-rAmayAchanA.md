@@ -85,7 +85,7 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of the lion among kings, so wondrous in its expansive generosity (vākyam adbhutavistaram), the resplendent Viśvāmitra, his body-hairs thrilling with joy (hṛṣṭaromā), spoke thus in reply:
+Hearing that speech of the lion among kings, so wondrous in its expansive generosity (_vākyam adbhutavistaram_), the resplendent Viśvāmitra, his body-hairs thrilling with joy (_hṛṣṭaromā_), spoke thus in reply:
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Hearing that speech of the lion among kings, so wondrous in its expansive genero
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Worthy indeed of you alone upon earth, and of none other (tavaivaṃ bhuvi nānyataḥ), O tiger among kings, is such a speech—born as you are in an illustrious royal lineage (mahāvaṃśaprasūtasya) and guided by the instruction of Vasiṣṭha (vasiṣṭhavyapadeśinaḥ)!
+“Worthy indeed of you alone upon earth, and of none other (_tavaivaṃ bhuvi nānyataḥ_), O tiger among kings, is such a speech—born as you are in an illustrious royal lineage (_mahāvaṃśaprasūtasya_) and guided by the instruction of Vasiṣṭha (_vasiṣṭhavyapadeśinaḥ_)!
 </details>
 </details>
 
@@ -207,7 +207,7 @@ Hearing that speech of the lion among kings, so wondrous in its expansive genero
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now therefore, O tiger among kings, form a firm resolve to accomplish that matter which is in my heart to speak (yat tu me hṛdgataṃ vākyam), and prove true to your promise (bhava satyapratiśravaḥ).
+Now therefore, O tiger among kings, form a firm resolve to accomplish that matter which is in my heart to speak (_yat tu me hṛdgataṃ vākyam_), and prove true to your promise (_bhava satyapratiśravaḥ_).
 </details>
 </details>
 
@@ -255,7 +255,7 @@ Now therefore, O tiger among kings, form a firm resolve to accomplish that matte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O bull among men, I am observing a sacred sacrificial vow (ahaṃ niyamam ātiṣṭhe) for the attainment of spiritual perfection (siddhyartham); but two shape-shifting rākṣasas (dvau tu rākṣasau kāmarūpiṇau) have become the obstructors of that rite.
+O bull among men, I am observing a sacred sacrificial vow (_ahaṃ niyamam ātiṣṭhe_) for the attainment of spiritual perfection (_siddhyartham_); but two shape-shifting _rākṣasas_ (_dvau tu rākṣasau kāmarūpiṇau_) have become the obstructors of that rite.
 </details>
 </details>
 
@@ -312,7 +312,7 @@ O bull among men, I am observing a sacred sacrificial vow (ahaṃ niyamam āti�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When my sacrificial vow has been repeatedly observed almost to completion, at the very moment of its conclusion (samāptyām), these two rākṣasas—Mārīca and Subāhu, both mighty in valor and well-trained in deceitful warfare (vīryavantau suśikṣitau)—
+When my sacrificial vow has been repeatedly observed almost to completion, at the very moment of its conclusion (_samāptyām_), these two _rākṣasas_—Mārīca and Subāhu, both mighty in valor and well-trained in deceitful warfare (_vīryavantau suśikṣitau_)—
 </details>
 </details>
 
@@ -372,7 +372,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—those two deluged that sacrificial altar with a torrent of flesh and blood (māṃsarudhiraugheṇa vediṃ tām abhyavarṣatām). When that sacrificial vow and resolve had been thus desecrated and ruined (avadhūte tathābhūte)—
+—those two deluged that sacrificial altar with a torrent of flesh and blood (_māṃsarudhiraugheṇa vediṃ tām abhyavarṣatām_). When that sacrificial vow and resolve had been thus desecrated and ruined (_avadhūte tathābhūte_)—
 </details>
 </details>
 
@@ -424,7 +424,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My ritual toil rendered fruitless (kṛtaśramaḥ) and my spirit dejected (nirutsāhaḥ), I departed from that place. Nor, O lord of earth, does my mind incline to unleash my wrath in a curse (krodham utsraṣṭum)—
+My ritual toil rendered fruitless (_kṛtaśramaḥ_) and my spirit dejected (_nirutsāhaḥ_), I departed from that place. Nor, O lord of earth, does my mind incline to unleash my wrath in a curse (_krodham utsraṣṭum_)—
 </details>
 </details>
 
@@ -488,7 +488,7 @@ My ritual toil rendered fruitless (kṛtaśramaḥ) and my spirit dejected (niru
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For such is the nature of that sacrificial observance (tathābhūtā hi sā caryā) that no curse may be uttered therein (na śāpas tatra mucyate). Therefore, O tiger among kings, your own son Rāma of unfailing valor (rāmaṃ satyaparākramam)—
+For such is the nature of that sacrificial observance (_tathābhūtā hi sā caryā_) that no curse may be uttered therein (_na śāpas tatra mucyate_). Therefore, O tiger among kings, your own son Rāma of unfailing valor (_rāmaṃ satyaparākramam_)—
 </details>
 </details>
 
@@ -558,9 +558,9 @@ For such is the nature of that sacrificial observance (tathābhūtā hi sā cary
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** That heroic eldest prince wearing juvenile side-locks (kākapakṣadharaṃ śūraṃ jyeṣṭham)—you ought to give unto me (me dātum arhasi)! For protected by me, he is fully capable by his own divine energy (divyena svena tejasā)—
+**9:** That heroic eldest prince wearing juvenile side-locks (_kākapakṣadharaṃ śūraṃ jyeṣṭham_)—you ought to give unto me (_me dātum arhasi_)! For protected by me, he is fully capable by his own divine energy (_divyena svena tejasā_)—
 
-**10:** Even of destroying those rākṣasas who obstruct the rite (ye vikartāras teṣām api vināśane). And I shall assuredly bestow upon him manifold blessings (śreyaś cāsmai pradāsyāmi bahurūpam), of this there is no doubt—
+**10:** Even of destroying those _rākṣasas_ who obstruct the rite (_ye vikartāras teṣām api vināśane_). And I shall assuredly bestow upon him manifold blessings (_śreyaś cāsmai pradāsyāmi bahurūpam_), of this there is no doubt—
 </details>
 </details>
 
@@ -622,7 +622,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whereby he shall attain renown throughout all the three worlds (trayāṇām api lokānāṃ yena khyātiṃ gamiṣyati)! Encountering Rāma, those two demons cannot possibly stand their ground in any way—
+Whereby he shall attain renown throughout all the three worlds (_trayāṇām api lokānāṃ yena khyātiṃ gamiṣyati_)! Encountering Rāma, those two demons cannot possibly stand their ground in any way—
 </details>
 </details>
 
@@ -679,7 +679,7 @@ Proclaiming ‘I know the great-souled Rāma of unfailing valor, and so too does
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor is any man other than Rāghava capable of slaying those two (na ca tau rāghavād anyo hantum utsahate pumān). For those two wicked demons, puffed up with their own might, have already fallen into the noose of Death (kālapāśavaśaṃ gatau)—
+Nor is any man other than Rāghava capable of slaying those two (_na ca tau rāghavād anyo hantum utsahate pumān_). For those two wicked demons, puffed up with their own might, have already fallen into the noose of Death (_kālapāśavaśaṃ gatau_)—
 </details>
 </details>
 
@@ -725,7 +725,7 @@ Nor is any man other than Rāghava capable of slaying those two (na ca tau rāgh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They are no match at all for the great-souled Rāma (rāmasya na paryāptau mahātmanaḥ), O tiger among kings! Nor ought you to indulge in mere paternal fondness toward your son (na ca putragataṃ snehaṃ kartum arhasi), O lord of earth.
+They are no match at all for the great-souled Rāma (_rāmasya na paryāptau mahātmanaḥ_), O tiger among kings! Nor ought you to indulge in mere paternal fondness toward your son (_na ca putragataṃ snehaṃ kartum arhasi_), O lord of earth.
 </details>
 </details>
 
@@ -837,7 +837,7 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I solemnly pledge to you (ahaṃ te pratijānāmi): know those two rākṣasas to be already slain (hatau tau viddhi)! I know the great-souled Rāma of unfailing valor (ahaṃ vedmi mahātmānaṃ rāmaṃ satyaparākramam)—
+I solemnly pledge to you (_ahaṃ te pratijānāmi_): know those two _rākṣasas_ to be already slain (_hatau tau viddhi_)! I know the great-souled Rāma of unfailing valor (_ahaṃ vedmi mahātmānaṃ rāmaṃ satyaparākramam_)—
 </details>
 </details>
 
@@ -888,7 +888,7 @@ I solemnly pledge to you (ahaṃ te pratijānāmi): know those two rākṣasas t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And so too does the resplendent Vasiṣṭha know him (vasiṣṭho ’pi mahātejāḥ), as well as these other sages here established in austerity (ye ceme tapasi sthitāḥ). If you desire enduring religious merit and supreme renown upon earth—
+And so too does the resplendent Vasiṣṭha know him (_vasiṣṭho ’pi mahātejāḥ_), as well as these other sages here established in austerity (_ye ceme tapasi sthitāḥ_). If you desire enduring religious merit and supreme renown upon earth—
 </details>
 </details>
 
@@ -940,7 +940,7 @@ And so too does the resplendent Vasiṣṭha know him (vasiṣṭho ’pi mahāt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kākutstha, grant their consent (yady abhyanujñāṃ dadate tava mantriṇaḥ)—
+Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kākutstha, grant their consent (_yady abhyanujñāṃ dadate tava mantriṇaḥ_)—
 </details>
 </details>
 
@@ -987,7 +987,7 @@ Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kāku
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them headed by Vasiṣṭha (vasiṣṭhapramukhāḥ sarve)—then dispatch Rāma! You ought to give me your cherished, unattached son (abhipretam asaṃsaktam ātmajam)—
+All of them headed by Vasiṣṭha (_vasiṣṭhapramukhāḥ sarve_)—then dispatch Rāma! You ought to give me your cherished, unattached son (_abhipretam asaṃsaktam ātmajam_)—
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ Reassuring the king that the sacrifice requires Rāma for only ten nights, Viśv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—even the lotus-eyed Rāma, for the ten nights of the sacrifice (daśarātraṃ hi yajñasya). Act in such a way, O Rāghava, that this appointed time of my sacrifice does not pass by (nātyeti kālo yajñasya yathāyaṃ mama)!
+—even the lotus-eyed Rāma, for the ten nights of the sacrifice (_daśarātraṃ hi yajñasya_). Act in such a way, O Rāghava, that this appointed time of my sacrifice does not pass by (_nātyeti kālo yajñasya yathāyaṃ mama_)!
 </details>
 </details>
 
@@ -1090,7 +1090,7 @@ On saying those words that comprise fairness and meaningfulness that virtue-soul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do thus—may all good betide you (bhadraṃ te)—and do not set your mind upon grief (mā ca śoke manaḥ kṛthāḥ)!” Having thus spoken these words fraught with dharma and purpose (dharmārthasahitaṃ vacaḥ), the righteous-souled—
+Do thus—may all good betide you (_bhadraṃ te_)—and do not set your mind upon grief (_mā ca śoke manaḥ kṛthāḥ_)!” Having thus spoken these words fraught with _dharma_ and purpose (_dharmārthasahitaṃ vacaḥ_), the righteous-souled—
 </details>
 </details>
 
@@ -1121,7 +1121,7 @@ Do thus—may all good betide you (bhadraṃ te)—and do not set your mind upon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Viśvāmitra of mighty splendor and vast wisdom ceased speaking (virarāma). Hearing that auspicious speech of Viśvāmitra, that lord of kings—
+Viśvāmitra of mighty splendor and vast wisdom ceased speaking (_virarāma_). Hearing that auspicious speech of Viśvāmitra, that lord of kings—
 </details>
 </details>
 
@@ -1211,9 +1211,9 @@ This way on hearing that word of the saint Vishvamitra which is explicitly slitt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Overwhelmed by immense grief (śokena mahatāviṣṭaḥ), trembled and swooned away (cacāla ca mumoha ca); and upon regaining consciousness, he rose and sank into deep despondency, filled with dread (vyaṣīdata bhayānvitaḥ).
+**21:** Overwhelmed by immense grief (_śokena mahatāviṣṭaḥ_), trembled and swooned away (_cacāla ca mumoha ca_); and upon regaining consciousness, he rose and sank into deep despondency, filled with dread (_vyaṣīdata bhayānvitaḥ_).
 
-**22:** Having heard that speech of the sage, which rent his very heart and mind (hṛdayamanovidāraṇam), that great and noble-souled monarch became deeply anguished in spirit and tottered from his throne (pracacāla cāsanāt).
+**22:** Having heard that speech of the sage, which rent his very heart and mind (_hṛdayamanovidāraṇam_), that great and noble-souled monarch became deeply anguished in spirit and tottered from his throne (_pracacāla cāsanāt_).
 </details>
 </details>
 

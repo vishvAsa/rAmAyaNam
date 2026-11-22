@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that utterance of Rāma of effortless deeds (rāmasyākliṣṭa-karmaṇaḥ), the doorkeeper summoned the two princes and announced them to Rāghava (dvāssthaḥ kumārāv āhūya rāghavāya nyavedayat).
+Hearing that utterance of Rāma of effortless deeds (_rāmasyākliṣṭa-karmaṇaḥ_), the doorkeeper summoned the two princes and announced them to Rāghava (_dvāssthaḥ kumārāv āhūya rāghavāya nyavedayat_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his beloved Bharata and Lakṣmaṇa arrived (prāptau priyau bharata-lakṣmaṇau), Rāghava embraced them (pariṣvajya) and then spoke these words:
+Beholding his beloved Bharata and Lakṣmaṇa arrived (_prāptau priyau bharata-lakṣmaṇau_), Rāghava embraced them (_pariṣvajya_) and then spoke these words:
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The supreme duty for the twice-born has been faithfully accomplished by me (kṛtaṃ mayā yathā tathyaṃ dvija-kāryam anuttamam); now furthermore I desire to build a bridge of dharma, O Rāghavas (dharma-setum atho bhūyaḥ kartum icchāmi rāghavau).
+“The supreme duty for the twice-born has been faithfully accomplished by me (_kṛtaṃ mayā yathā tathyaṃ dvija-kāryam anuttamam_); now furthermore I desire to build a bridge of dharma, O Rāghavas (_dharma-setum atho bhūyaḥ kartum icchāmi rāghavau_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Imperishable and undiminishing is this bridge of dharma in my judgment (akṣayyaś cāvyayaś caiva dharma-setur mato mama); for this fosters righteousness (dharma-prasādhakaṃ hy etat) and destroys all sin (sarva-pāpa-praṇāśanam).
+“Imperishable and undiminishing is this bridge of dharma in my judgment (_akṣayyaś cāvyayaś caiva dharma-setur mato mama_); for this fosters righteousness (_dharma-prasādhakaṃ hy etat_) and destroys all sin (_sarva-pāpa-praṇāśanam_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with you two who are my very self (yuvābhyām ātma-bhūtābhyāṃ ... sahitaḥ), I desire to perform the unsurpassed Rājasūya sacrifice (rājasūyam anuttamaṃ ... yaṣṭum icchāmi), for eternal dharma abides therein (tatra dharmo hi śāśvataḥ).
+“Together with you two who are my very self (_yuvābhyām ātma-bhūtābhyāṃ ... sahitaḥ_), I desire to perform the unsurpassed Rājasūya sacrifice (_rājasūyam anuttamaṃ ... yaṣṭum icchāmi_), for eternal dharma abides therein (_tatra dharmo hi śāśvataḥ_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having sacrificed with the Rājasūya (iṣṭvā tu rājasūyena), well-offered and well-performed (suhutena suyajñena), Mitra, slayer of foes (mitraḥ śatru-nibarhaṇaḥ), attained the rank of Varuṇa (varuṇatvam upāgamat).
+“Having sacrificed with the Rājasūya (_iṣṭvā tu rājasūyena_), well-offered and well-performed (_suhutena suyajñena_), Mitra, slayer of foes (_mitraḥ śatru-nibarhaṇaḥ_), attained the rank of Varuṇa (_varuṇatvam upāgamat_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Soma, knower of dharma, having sacrificed in righteousness with the Rājasūya (rājasūyena iṣṭvā dharmeṇa dharmavit), attained an eternal seat of fame in all the worlds (sarva-lokeṣu kīrti-sthānaṃ ca śāśvatam).
+“And Soma, knower of dharma, having sacrificed in righteousness with the Rājasūya (_rājasūyena iṣṭvā dharmeṇa dharmavit_), attained an eternal seat of fame in all the worlds (_sarva-lokeṣu kīrti-sthānaṃ ca śāśvatam_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let us deliberate together this very day upon what is best (asminn ahani yac chreyaś cintyatāṃ tan mayā saha); steadfast in mind, you two ought to enact what is beneficial both now and for the future (hitaṃ cāyati-yuktaṃ ca prayatau kartum arhathaḥ).”
+“Let us deliberate together this very day upon what is best (_asminn ahani yac chreyaś cintyatāṃ tan mayā saha_); steadfast in mind, you two ought to enact what is beneficial both now and for the future (_hitaṃ cāyati-yuktaṃ ca prayatau kartum arhathaḥ_).”
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this speech of Rāghava (śrutvā tu rāghavasyaitad vākyam), Bharata, skilled in eloquence (vākya-viśāradaḥ), joining his palms in reverence (prāñjalir bhūtvā), spoke these words:
+Hearing this speech of Rāghava (_śrutvā tu rāghavasyaitad vākyam_), Bharata, skilled in eloquence (_vākya-viśāradaḥ_), joining his palms in reverence (_prāñjalir bhūtvā_), spoke these words:
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In you abides supreme dharma, O noble one (tvayi dharmaḥ paraḥ sādho); in you is established the entire earth, O mighty-armed one (tvayi sarvā vasundharā pratiṣṭhitā), and fame as well, O lord of boundless prowess (yaśaś cāmita-vikrama)!
+“In you abides supreme dharma, O noble one (_tvayi dharmaḥ paraḥ sādho_); in you is established the entire earth, O mighty-armed one (_tvayi sarvā vasundharā pratiṣṭhitā_), and fame as well, O lord of boundless prowess (_yaśaś cāmita-vikrama_)!
 </details>
 </details>
 
@@ -399,7 +399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And all the kings of the earth (mahīpālāś ca sarve) look up to you, the great-souled lord of the worlds (nirīkṣante mahātmānaṃ lokānātham), just as the immortals look upon Prajāpati (prajāpatim ivāmarāḥ), and just as we ourselves do (yathā vayam).
+“And all the kings of the earth (_mahīpālāś ca sarve_) look up to you, the great-souled lord of the worlds (_nirīkṣante mahātmānaṃ lokānātham_), just as the immortals look upon Prajāpati (_prajāpatim ivāmarāḥ_), and just as we ourselves do (_yathā vayam_).
 </details>
 </details>
 
@@ -441,7 +441,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And like sons toward a father, O mighty king, they look upon you (putrāś ca pitṛvad rājan paśyanti tvāṃ mahābala); you have become the very refuge of the earth and of all living creatures as well, O Rāghava (pṛthivyā gati-bhūto ’si prāṇinām api rāghava).
+“And like sons toward a father, O mighty king, they look upon you (_putrāś ca pitṛvad rājan paśyanti tvāṃ mahābala_); you have become the very refuge of the earth and of all living creatures as well, O Rāghava (_pṛthivyā gati-bhūto ’si prāṇinām api rāghava_).
 </details>
 </details>
 
@@ -475,7 +475,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Being such, how can you perform a sacrifice of this sort, O king (sa tvam evaṃvidhaṃ yajñam āhartāsi kathaṃ nṛpa), wherein the destruction of royal dynasties upon the earth is witnessed (pṛthivyāṃ rāja-vaṃśānāṃ vināśo yatra dṛśyate)?
+“Being such, how can you perform a sacrifice of this sort, O king (_sa tvam evaṃvidhaṃ yajñam āhartāsi kathaṃ nṛpa_), wherein the destruction of royal dynasties upon the earth is witnessed (_pṛthivyāṃ rāja-vaṃśānāṃ vināśo yatra dṛśyate_)?
 </details>
 </details>
 
@@ -509,7 +509,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever men upon earth have attained heroic prowess, O king (pṛthivyāṃ ye ca puruṣā rājan pauruṣam āgatāḥ), there shall come about the utter annihilation of them all, born of universal wrath (sarveṣāṃ bhavitā tatra saṅkṣayaḥ sarva-kopajaḥ).
+“And whatever men upon earth have attained heroic prowess, O king (_pṛthivyāṃ ye ca puruṣā rājan pauruṣam āgatāḥ_), there shall come about the utter annihilation of them all, born of universal wrath (_sarveṣāṃ bhavitā tatra saṅkṣayaḥ sarva-kopajaḥ_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You, O tiger among men, matchless in prowess through your virtues (guṇair atula-vikrama), ought not to smite the earth (pṛthivīṃ nārhase hantum), for it already abides under your sway (vaśe hi tava vartate)!”
+“You, O tiger among men, matchless in prowess through your virtues (_guṇair atula-vikrama_), ought not to smite the earth (_pṛthivīṃ nārhase hantum_), for it already abides under your sway (_vaśe hi tava vartate_)!”
 </details>
 </details>
 
@@ -577,7 +577,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those nectar-filled words of Bharata (bharatasya tu tad vākyaṃ śrutvā ’mṛtamayaṃ tadā), Rāma of unfailing valor attained an incomparable joy (praharṣam atulaṃ lebhe rāmaḥ satya-parākramaḥ).
+Hearing those nectar-filled words of Bharata (_bharatasya tu tad vākyaṃ śrutvā ’mṛtamayaṃ tadā_), Rāma of unfailing valor attained an incomparable joy (_praharṣam atulaṃ lebhe rāmaḥ satya-parākramaḥ_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he spoke auspicious words to him who increased Kaikeyī’s delight (kaikeyyānanda-vardhanam): “Pleased am I and thoroughly satisfied am I today (prīto ’smi parituṣṭo ’smi) with your speech, O sinless one (tavādya vacane ’nagha)!
+And he spoke auspicious words to him who increased Kaikeyī’s delight (_kaikeyyānanda-vardhanam_): “Pleased am I and thoroughly satisfied am I today (_prīto ’smi parituṣṭo ’smi_) with your speech, O sinless one (_tavādya vacane ’nagha_)!
 </details>
 </details>
 
@@ -653,7 +653,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These unyielding, manly words (idaṃ vacanam aklībam), steeped in dharma (dharma-samāhitam) and safeguarding the earth (pṛthivyāḥ paripālanam), have been spoken by you, O tiger among men (vyāhṛtaṃ puruṣa-vyāghra).
+“These unyielding, manly words (_idaṃ vacanam aklībam_), steeped in dharma (_dharma-samāhitam_) and safeguarding the earth (_pṛthivyāḥ paripālanam_), have been spoken by you, O tiger among men (_vyāhṛtaṃ puruṣa-vyāghra_).
 </details>
 </details>
 
@@ -687,7 +687,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From that foremost of sacrifices, the Rājasūya, which was about to enter into my resolve (eṣyad-asmad-abhiprāyād rājasūyāt kratūttamāt), I now turn back [my intent], O knower of dharma (nivartayāmi dharmajña), on account of your well-spoken words (tava suvyāhṛtena ca).
+“From that foremost of sacrifices, the Rājasūya, which was about to enter into my resolve (_eṣyad-asmad-abhiprāyād rājasūyāt kratūttamāt_), I now turn back [my intent], O knower of dharma (_nivartayāmi dharmajña_), on account of your well-spoken words (_tava suvyāhṛtena ca_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A deed that brings affliction to the world must never be done by the wise (loka-pīḍākaraṃ karma na kartavyaṃ vicakṣaṇaiḥ); auspicious counsel even from the young is to be accepted, O elder brother of Lakṣmaṇa (bālānāṃ tu śubhaṃ vākyaṃ grāhya lakṣmaṇa-pūrvaja); therefore I heed your well-reasoned, worthy words, O great-minded one (tasmāc chṛṇomi te vākyaṃ sādhu yuktaṃ mahāmate).”
+“A deed that brings affliction to the world must never be done by the wise (_loka-pīḍākaraṃ karma na kartavyaṃ vicakṣaṇaiḥ_); auspicious counsel even from the young is to be accepted, O elder brother of Lakṣmaṇa (_bālānāṃ tu śubhaṃ vākyaṃ grāhya lakṣmaṇa-pūrvaja_); therefore I heed your well-reasoned, worthy words, O great-minded one (_tasmāc chṛṇomi te vākyaṃ sādhu yuktaṃ mahāmate_).”
 </details>
 </details>
 

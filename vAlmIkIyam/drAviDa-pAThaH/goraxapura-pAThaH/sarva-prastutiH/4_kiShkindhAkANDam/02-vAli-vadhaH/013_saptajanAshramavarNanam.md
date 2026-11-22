@@ -60,7 +60,7 @@ Raising his gold-decked bow and sun-bright arrows, Rāma marches from Ṛṣyam�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From Ṛṣyamūka, that righteous-souled (dharmātmā) elder brother of Lakṣmaṇa (lakṣmaṇāgrajaḥ), accompanied by Sugrīva (sahasugrīvaḥ), set out for Kiṣkindhā, which was guarded by Vālī's valor (vālivikramapālitām)—
+From Ṛṣyamūka, that righteous-souled (_dharmātmā_) elder brother of Lakṣmaṇa (_lakṣmaṇāgrajaḥ_), accompanied by Sugrīva (_sahasugrīvaḥ_), set out for Kiṣkindhā, which was guarded by Vālī&#x27;s valor (_vālivikramapālitām_)—
 </details>
 </details>
 
@@ -109,7 +109,7 @@ the valour of Vali, namely Kishkindha. [4-13-1, 2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāma having raised aloft his great bow adorned with gold (mahac cāpam kāñcanabhūṣitam) and having taken up his battle-winning arrows (śarān raṇasādhakān) bright as the sun (ādityasaṃkāśān).
+—Rāma having raised aloft his great bow adorned with gold (_mahac cāpam kāñcanabhūṣitam_) and having taken up his battle-winning arrows (_śarān raṇasādhakān_) bright as the sun (_ādityasaṃkāśān_).
 </details>
 </details>
 
@@ -159,7 +159,7 @@ Stern-necked Sugreeva and the great mighty Lakshmana strode ahead of that great 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ahead (agrataḥ) of that great-souled Rāghava marched compact-necked (saṃhatagrīvaḥ) Sugrīva and Lakṣmaṇa of mighty strength (mahābalaḥ).
+Ahead (_agrataḥ_) of that great-souled Rāghava marched compact-necked (_saṃhatagrīvaḥ_) Sugrīva and Lakṣmaṇa of mighty strength (_mahābalaḥ_).
 </details>
 </details>
 
@@ -210,7 +210,7 @@ followed them rearward. [4-13-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behind (pṛṣṭhataḥ) came the hero Hanumān, Nala, valiant Nīla (nīlaś ca vīryavān), and Tāra of mighty splendor (mahātejāḥ), the commander of monkey troop-commanders (hariyūthapayūthapaḥ).
+Behind (_pṛṣṭhataḥ_) came the hero Hanumān, Nala, valiant Nīla (_nīlaś ca vīryavān_), and Tāra of mighty splendor (_mahātejāḥ_), the commander of monkey troop-commanders (_hariyūthapayūthapaḥ_).
 </details>
 </details>
 
@@ -288,9 +288,9 @@ divinities - Rama Tilaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Gazing upon (vīkṣamāṇāḥ) trees weighed down with loads of blossoms (puṣpabhārāvalambinaḥ), and ocean-bound rivers (saritaḥ sāgaraṃgamāḥ) bearing pellucid waters (prasannāmbuvahāś caiva)—
+**5:** Gazing upon (_vīkṣamāṇāḥ_) trees weighed down with loads of blossoms (_puṣpabhārāvalambinaḥ_), and ocean-bound rivers (_saritaḥ sāgaraṃgamāḥ_) bearing pellucid waters (_prasannāmbuvahāś caiva_)—
 
-**6:** —and house-like mountain caverns (kandarāṇi ca), crags (śailāṃś ca), rock-fissures (nirdarāṇi), natural caves (guhās tathā), prominent peaks (śikharāṇi ca mukhyāni), and pleasing ravines (darīś ca priyadarśanāḥ)—
+**6:** —and house-like mountain caverns (_kandarāṇi ca_), crags (_śailāṃś ca_), rock-fissures (_nirdarāṇi_), natural caves (_guhās tathā_), prominent peaks (_śikharāṇi ca mukhyāni_), and pleasing ravines (_darīś ca priyadarśanāḥ_)—
 </details>
 </details>
 
@@ -373,7 +373,7 @@ the unbroken compound and segregated word order are given below for reading plea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and beholding along the way (mārge) water-filled lakes (sajalān taṭākāṃś ca) resplendent with waters pure as beryl (vaidūryavimalais toyaiḥ) and with lotuses bearing buds opening to the tip of their sheaths (padmaiś cākośakuḍmalaiḥ)—
+—and beholding along the way (_mārge_) water-filled lakes (_sajalān taṭākāṃś ca_) resplendent with waters pure as beryl (_vaidūryavimalais toyaiḥ_) and with lotuses bearing buds opening to the tip of their sheaths (_padmaiś cākośakuḍmalaiḥ_)—
 </details>
 </details>
 
@@ -431,7 +431,7 @@ like that with Chakravaaka-s and other birds. [4-13-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—[lakes] echoing (pratināditān) with kāraṇḍava ducks (kāraṇḍaiḥ), sārasa cranes (sārasaiḥ), swans (haṃsaiḥ), vañjula birds (vañjulaiḥ), water-hens (jalakukkuṭaiḥ), cakravāka sheldrakes (cakravākaiḥ), and other birds as well—
+—[lakes] echoing (_pratināditān_) with _kāraṇḍava_ ducks (_kāraṇḍaiḥ_), _sārasa_ cranes (_sārasaiḥ_), swans (_haṃsaiḥ_), _vañjula_ birds (_vañjulaiḥ_), water-hens (_jalakukkuṭaiḥ_), _cakravāka_ sheldrakes (_cakravākaiḥ_), and other birds as well—
 </details>
 </details>
 
@@ -488,7 +488,7 @@ in the forest, and else where standing. [4-13-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and seeing on every side (sarvataḥ paśyan) fearless deer (nirbhayān hariṇān) roaming in the woods (vanagocarān), feeding on tender shoots of young grass (mṛduśaṣpāṅkurāhārān), and standing on open glades (sthalīṣu sthitān)—
+—and seeing on every side (_sarvataḥ paśyan_) fearless deer (_nirbhayān hariṇān_) roaming in the woods (_vanagocarān_), feeding on tender shoots of young grass (_mṛduśaṣpāṅkurāhārān_), and standing on open glades (_sthalīṣu sthitān_)—
 </details>
 </details>
 
@@ -599,11 +599,11 @@ cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** —and also dreadful, solitary wild tuskers (ghorān ekacarān vanyān dviradān), adorned with gleaming white tusks (śukladantavibhūṣitān), battering down embankments (kūlaghātinaḥ) and acting as enemies of lakes (taṭākavairiṇaś cāpi)—
+**10:** —and also dreadful, solitary wild tuskers (_ghorān ekacarān vanyān dviradān_), adorned with gleaming white tusks (_śukladantavibhūṣitān_), battering down embankments (_kūlaghātinaḥ_) and acting as enemies of lakes (_taṭākavairiṇaś cāpi_)—
 
-**11:** —and rutting (mattān) Vānaras resembling elephants (dviradaprakhyān), tearing up mountain slopes (giritaṭotkṛṣṭān) like moving mountains (parvatān iva jaṅgamān) and powdered with earth-dust (mahīreṇusamukṣitān)—
+**11:** —and rutting (_mattān_) Vānaras resembling elephants (_dviradaprakhyān_), tearing up mountain slopes (_giritaṭotkṛṣṭān_) like moving mountains (_parvatān iva jaṅgamān_) and powdered with earth-dust (_mahīreṇusamukṣitān_)—
 
-**12:** —beholding other forest-roaming creatures in the woods (vane vanacarāṃś cānyān) and sky-faring birds (khecarāṃś ca vihaṃgamān), those followers of Sugrīva (sugrīvavaśavartinaḥ) marched swiftly on (tvaritā jagmuḥ).
+**12:** —beholding other forest-roaming creatures in the woods (_vane vanacarāṃś cānyān_) and sky-faring birds (_khecarāṃś ca vihaṃgamān_), those followers of Sugrīva (_sugrīvavaśavartinaḥ_) marched swiftly on (_tvaritā jagmuḥ_).
 </details>
 </details>
 
@@ -662,7 +662,7 @@ and he asked Sugreeva like this. [4-13-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they were advancing swiftly there (teṣām tu gacchatām tatra tvaritam), Rāma, the delight of the Raghus (raghunandanaḥ), beheld a wooded grove of clustered trees (drumaṣaṇḍavanam dṛṣṭvā) and spoke to Sugrīva:
+As they were advancing swiftly there (_teṣām tu gacchatām tatra tvaritam_), Rāma, the delight of the Raghus (_raghunandanaḥ_), beheld a wooded grove of clustered trees (_drumaṣaṇḍavanam dṛṣṭvā_) and spoke to Sugrīva:
 </details>
 </details>
 
@@ -714,7 +714,7 @@ is shining forth like a cloudscape in sky. [4-13-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here shines a dense cluster of trees (vṛkṣaṣaṇḍaḥ prakāśate) like a cloud in the sky (megha ivākāśe), vast as a massed bank of clouds (meghasaṃghātavipulaḥ) and ringed on its borders by plantain trees (paryantakadalīvṛtaḥ).
+“Here shines a dense cluster of trees (_vṛkṣaṣaṇḍaḥ prakāśate_) like a cloud in the sky (_megha ivākāśe_), vast as a massed bank of clouds (_meghasaṃghātavipulaḥ_) and ringed on its borders by plantain trees (_paryantakadalīvṛtaḥ_).
 </details>
 </details>
 
@@ -764,7 +764,7 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is this (kim etat)? I wish to know (jñātum icchāmi), O friend, for curiosity (kautūhalam) has arisen in me; I wish to have my curiosity dispelled (kautūhalāpanayanam kartum) by you!”
+“What is this (_kim etat_)? I wish to know (_jñātum icchāmi_), O friend, for curiosity (_kautūhalam_) has arisen in me; I wish to have my curiosity dispelled (_kautūhalāpanayanam kartum_) by you!”
 </details>
 </details>
 
@@ -815,7 +815,7 @@ of that forest while proceeding on the way. [4-13-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of great-souled Rāghava, Sugrīva, even as he walked along (gacchann eva), recounted the story of that great forest (ācacakṣe 'tha tan mahad vanam):
+Hearing that speech of great-souled Rāghava, Sugrīva, even as he walked along (_gacchann eva_), recounted the story of that great forest (_ācacakṣe &#x27;tha tan mahad vanam_):
 </details>
 </details>
 
@@ -866,7 +866,7 @@ remover." Thus Sugreeva started telling Rama. [4-13-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāghava, this is a vast hermitage (vistīrṇam āśramam) that dispels all fatigue (śramanāśanam), richly endowed with pleasure-gardens and woods (udyānavanasampannam) and blessed with sweet roots, fruits, and water (svādumūlaphalodakam).
+“O Rāghava, this is a vast hermitage (_vistīrṇam āśramam_) that dispels all fatigue (_śramanāśanam_), richly endowed with pleasure-gardens and woods (_udyānavanasampannam_) and blessed with sweet roots, fruits, and water (_svādumūlaphalodakam_).
 </details>
 </details>
 
@@ -922,7 +922,7 @@ the upside-down yogic body posture, and who always reclined in water. [4-13-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here dwelt seven sages of rigid vows (munayaḥ saṃśitavratāḥ) known by the name of Saptajanas (saptajanā nāma), who constantly slept in water (niyatam jalaśāyinaḥ) with their heads pointed downward (adhaḥśīrṣāḥ).
+“Here dwelt seven sages of rigid vows (_munayaḥ saṃśitavratāḥ_) known by the name of Saptajanas (_saptajanā nāma_), who constantly slept in water (_niyatam jalaśāyinaḥ_) with their heads pointed downward (_adhaḥśīrṣāḥ_).
 </details>
 </details>
 
@@ -985,7 +985,7 @@ they practised their asceticism for seven hundred years and went to heavens with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Subsisting on air (kṛtāhārā vāyunā) once every seven nights (saptarātre), those mountain-dwellers (acalavāsinaḥ) ascended to heaven (divam yātāḥ) after seven hundred years (varṣaśataiḥ saptabhiḥ) together with their physical bodies (sakalevarāḥ).
+“Subsisting on air (_kṛtāhārā vāyunā_) once every seven nights (_saptarātre_), those mountain-dwellers (_acalavāsinaḥ_) ascended to heaven (_divam yātāḥ_) after seven hundred years (_varṣaśataiḥ saptabhiḥ_) together with their physical bodies (_sakalevarāḥ_).
 </details>
 </details>
 
@@ -1039,7 +1039,7 @@ for Indra together with all gods and demons. [4-13-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through their ascetic power (teṣām etat prabhāveṇa), this hermitage, enclosed by a rampart of trees (drumaprākārasaṃvṛtam), is utterly unassailable (sudurādharṣam) even by the gods and demons together with Indra (sendraiḥ surāsuraiḥ).
+“Through their ascetic power (_teṣām etat prabhāveṇa_), this hermitage, enclosed by a rampart of trees (_drumaprākārasaṃvṛtam_), is utterly unassailable (_sudurādharṣam_) even by the gods and demons together with Indra (_sendraiḥ surāsuraiḥ_).
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ they do not return. [4-13-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Birds shun this [grove] (pakṣiṇo varjayanty etat), and so do other forest-roaming creatures (tathānye vanacāriṇaḥ); and those who enter here out of folly (viśanti mohād ye 'py atra) never return again (na nivartanti te punaḥ).
+“Birds shun this [grove] (_pakṣiṇo varjayanty etat_), and so do other forest-roaming creatures (_tathānye vanacāriṇaḥ_); and those who enter here out of folly (_viśanti mohād ye &#x27;py atra_) never return again (_na nivartanti te punaḥ_).
 </details>
 </details>
 
@@ -1145,7 +1145,7 @@ audible, and oh, Raghava, one can sense a divine fragrance too. [4-13-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And here are heard the tinklings of ornaments (vibhūṣaṇaravāś cātra śrūyante) accompanied by melodious syllables (sakalākṣarāḥ), the sound of musical instruments and song (tūryagītasvanaś cāpi), and a celestial fragrance (gandho divyaś ca), O Rāghava!
+“And here are heard the tinklings of ornaments (_vibhūṣaṇaravāś cātra śrūyante_) accompanied by melodious syllables (_sakalākṣarāḥ_), the sound of musical instruments and song (_tūryagītasvanaś cāpi_), and a celestial fragrance (_gandho divyaś ca_), O Rāghava!
 </details>
 </details>
 
@@ -1198,7 +1198,7 @@ pigeon is apparent muffling the treetops. [4-13-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The three sacred fires (tretāgnayo 'pi) blaze here, and yonder dense smoke is seen (dhūmo hy eṣa pradṛśyate), tawny-gray like a dove's limb (kapotāṅgāruṇo ghanaḥ), enveloping the treetops (veṣṭayann iva vṛkṣāgrān).
+“The three sacred fires (_tretāgnayo &#x27;pi_) blaze here, and yonder dense smoke is seen (_dhūmo hy eṣa pradṛśyate_), tawny-gray like a dove&#x27;s limb (_kapotāṅgāruṇo ghanaḥ_), enveloping the treetops (_veṣṭayann iva vṛkṣāgrān_).
 </details>
 </details>
 
@@ -1246,7 +1246,7 @@ with clusters of clouds. [4-13-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With their crowns wreathed in smoke (dhūmasaṃsaktamastakāḥ), these trees shine forth (ete vṛkṣāḥ prakāśante) like mountains of emerald-beryl (vaiḍūryagirayo yathā) veiled by banks of clouds (meghajālapraticchannāḥ).
+“With their crowns wreathed in smoke (_dhūmasaṃsaktamastakāḥ_), these trees shine forth (_ete vṛkṣāḥ prakāśante_) like mountains of emerald-beryl (_vaiḍūryagirayo yathā_) veiled by banks of clouds (_meghajālapraticchannāḥ_).
 </details>
 </details>
 
@@ -1306,7 +1306,7 @@ along with brother Lakshmana [4-13-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Perform obeisance (kuru praṇāmam) toward them (teṣām uddiśya), O righteous-souled Rāghava (dharmātman rāghava), together with your brother Lakṣmaṇa, devoutly (prayataḥ) and with folded hands (saṃhatāñjaliḥ)!
+“Perform obeisance (_kuru praṇāmam_) toward them (_teṣām uddiśya_), O righteous-souled Rāghava (_dharmātman rāghava_), together with your brother Lakṣmaṇa, devoutly (_prayataḥ_) and with folded hands (_saṃhatāñjaliḥ_)!
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ the least." Thus said Sugreeva to Rama. [4-13-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For those who bow (praṇamanti hi ye) to those sages of purified souls (teṣām ṛṣīṇām bhāvitātmanām), O Rāma, no inauspicious harm whatsoever (na teṣām aśubham kiṃcit) is found in their bodies (śarīre vidyate).”
+“For those who bow (_praṇamanti hi ye_) to those sages of purified souls (_teṣām ṛṣīṇām bhāvitātmanām_), O Rāma, no inauspicious harm whatsoever (_na teṣām aśubham kiṃcit_) is found in their bodies (_śarīre vidyate_).”
 </details>
 </details>
 
@@ -1412,7 +1412,7 @@ as Seven Persons, and offered salutations to them. [4-13-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma, together with his brother Lakṣmaṇa, folded his hands in reverence (kṛtāñjaliḥ) and, facing toward them (samuddiśya), saluted those great-souled sages (mahātmānas tān ṛṣīn abhyavādayat).
+Thereupon Rāma, together with his brother Lakṣmaṇa, folded his hands in reverence (_kṛtāñjaliḥ_) and, facing toward them (_samuddiśya_), saluted those great-souled sages (_mahātmānas tān ṛṣīn abhyavādayat_).
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ sages proceeded to Kishkindha well-pleased at heart. [4-13-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered salutation (abhivādya ca), righteous-souled Rāma, his brother Lakṣmaṇa, Sugrīva, and the Vānaras marched onward (jagmuḥ) with joyful hearts (saṃhṛṣṭamānasāḥ).
+Having offered salutation (_abhivādya ca_), righteous-souled Rāma, his brother Lakṣmaṇa, Sugrīva, and the Vānaras marched onward (_jagmuḥ_) with joyful hearts (_saṃhṛṣṭamānasāḥ_).
 </details>
 </details>
 
@@ -1518,7 +1518,7 @@ ruled city namely Kishkindha. [4-13-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone a long distance (dūram adhvānam) from that hermitage of the Saptajanas (tasmāt saptajanāśramāt), they beheld that unassailable Kiṣkindhā (dṛdṛśus tām durādharṣām kiṣkindhām) guarded by Vālī (vālipālitām).
+Having gone a long distance (_dūram adhvānam_) from that hermitage of the Saptajanas (_tasmāt saptajanāśramāt_), they beheld that unassailable Kiṣkindhā (_dṛdṛśus tām durādharṣām kiṣkindhām_) guarded by Vālī (_vālipālitām_).
 </details>
 </details>
 
@@ -1589,7 +1589,7 @@ same Vali, the son of Indra. [4-13-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma's younger brother [Lakṣmaṇa], Rāma, and the Vānaras (rāmānujarāmavānarāḥ), blazing with fierce energy (uditogratejasaḥ), grasped their weapons (pragṛhya śastrāṇi) and arrived here once more (punar āgatās tv iha) at the city guarded by the valor of Indra's son (sureśātmajavīryapālitām) for the slaying of their foe (vadhāya śatroḥ).
+Then Rāma&#x27;s younger brother [Lakṣmaṇa], Rāma, and the Vānaras (_rāmānujarāmavānarāḥ_), blazing with fierce energy (_uditogratejasaḥ_), grasped their weapons (_pragṛhya śastrāṇi_) and arrived here once more (_punar āgatās tv iha_) at the city guarded by the valor of Indra&#x27;s son (_sureśātmajavīryapālitām_) for the slaying of their foe (_vadhāya śatroḥ_).
 </details>
 </details>
 

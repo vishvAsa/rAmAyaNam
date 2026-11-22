@@ -62,7 +62,7 @@ Prompted by Aṅgada's inquiry, the foremost monkey chieftains—from Gaja and G
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having heard the speech of Aṅgada (aṅgadavacaḥ), all those bulls among monkeys (vānararṣabhāḥ) spoke forth there in due order (yathākramam) their respective vigour in leaping (gatau samutsāham).
+Then, having heard the speech of Aṅgada (_aṅgadavacaḥ_), all those bulls among monkeys (_vānararṣabhāḥ_) spoke forth there in due order (_yathākramam_) their respective vigour in leaping (_gatau samutsāham_).
 </details>
 </details>
 
@@ -168,7 +168,7 @@ over twenty yojana-s..." [4-65-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gaja spoke forth (ābabhāṣe) there: “I could leap (plaveyam) ten yojanas (daśayojanam).” Gavākṣa said: “I shall go (gamiṣyāmi) twenty yojanas (yojanāni viṃśatim).”
+Gaja spoke forth (_ābabhāṣe_) there: “I could leap (_plaveyam_) ten _yojanas_ (_daśayojanam_).” Gavākṣa said: “I shall go (_gamiṣyāmi_) twenty _yojanas_ (_yojanāni viṃśatim_).”
 </details>
 </details>
 
@@ -199,7 +199,7 @@ Gaja spoke forth (ābabhāṣe) there: “I could leap (plaveyam) ten yojanas (d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkey Śarabha spoke to those monkeys there: “O leapers (plavaṅgamāḥ), I shall go thirty yojanas (triṃśataṃ yojanānām)!”
+The monkey Śarabha spoke to those monkeys there: “O leapers (_plavaṅgamāḥ_), I shall go thirty _yojanas_ (_triṃśataṃ yojanānām_)!”
 </details>
 </details>
 
@@ -233,7 +233,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkey Ṛṣabha spoke to those monkeys there: “I shall go forty yojanas (catvāriṃśad yojanānām); of this there is no doubt (na saṃśayaḥ).”
+The monkey Ṛṣabha spoke to those monkeys there: “I shall go forty _yojanas_ (_catvāriṃśad yojanānām_); of this there is no doubt (_na saṃśayaḥ_).”
 </details>
 </details>
 
@@ -264,7 +264,7 @@ The monkey Ṛṣabha spoke to those monkeys there: “I shall go forty yojanas 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Gandhamādana of great splendour (mahātejāḥ) said to the monkeys: “I shall go fifty yojanas (yojanānāṃ pañcāśat); of this there is no doubt.”
+Then Gandhamādana of great splendour (_mahātejāḥ_) said to the monkeys: “I shall go fifty _yojanas_ (_yojanānāṃ pañcāśat_); of this there is no doubt.”
 </details>
 </details>
 
@@ -303,7 +303,7 @@ Mainda, Dvivida, and Suṣeṇa pledge sixty, seventy, and eighty yojanas respec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the monkey Mainda spoke to those monkeys there: “I am able to leap (plavitum utsahe) up to sixty yojanas (yojanānāṃ paraṃ ṣaṣṭim).”
+Then the monkey Mainda spoke to those monkeys there: “I am able to leap (_plavitum utsahe_) up to sixty _yojanas_ (_yojanānāṃ paraṃ ṣaṣṭim_).”
 </details>
 </details>
 
@@ -334,7 +334,7 @@ Then the monkey Mainda spoke to those monkeys there: “I am able to leap (plavi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Dvivida of great splendour (mahātejāḥ) replied (pratyabhāṣata) there: “I shall go seventy yojanas (saptatiṃ yojanāni); there is no doubt (na saṃdehaḥ).”
+Thereupon Dvivida of great splendour (_mahātejāḥ_) replied (_pratyabhāṣata_) there: “I shall go seventy _yojanas_ (_saptatiṃ yojanāni_); there is no doubt (_na saṃdehaḥ_).”
 </details>
 </details>
 
@@ -399,7 +399,7 @@ eighty yojana-s..." [4-65-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Suṣeṇa of great splendour, possessed of strength (sattvavān) and best of monkeys (kapisattamaḥ), [said]: “I pledge (pratijāne 'ham) eighty yojanas in my stride (parākrame).”
+And Suṣeṇa of great splendour, possessed of strength (_sattvavān_) and best of monkeys (_kapisattamaḥ_), [said]: “I pledge (_pratijāne &#x27;ham_) eighty _yojanas_ in my stride (_parākrame_).”
 </details>
 </details>
 
@@ -454,7 +454,7 @@ about their jumping capacities, has informed them in this way. [4-65-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While they were speaking (teṣāṃ kathayatām) there, the oldest among them (vṛddhatamas teṣām), Jāmbavān, having shown due respect (anumānya) to them all, replied.
+While they were speaking (_teṣāṃ kathayatām_) there, the oldest among them (_vṛddhatamas teṣām_), Jāmbavān, having shown due respect (_anumānya_) to them all, replied.
 </details>
 </details>
 
@@ -571,11 +571,11 @@ yojana-s, undoubtedly... [4-65-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Formerly (pūrvam) we too possessed some prowess of speed (kaścid gatiparākramaḥ); [yet] we now have reached the farthest shore of age (vayasaḥ pāram anuprāptāḥ sma).
+**11:** “Formerly (_pūrvam_) we too possessed some prowess of speed (_kaścid gatiparākramaḥ_); [yet] we now have reached the farthest shore of age (_vayasaḥ pāram anuprāptāḥ sma_).
 
-**12:** “Nevertheless, even when matters stand thus (evaṃ gate), this task—for which both the monkey-king and Rāma have formed a firm resolve (kṛtaniścayau)—cannot be neglected (na śakyam upekṣitum).
+**12:** “Nevertheless, even when matters stand thus (_evaṃ gate_), this task—for which both the monkey-king and Rāma have formed a firm resolve (_kṛtaniścayau_)—cannot be neglected (_na śakyam upekṣitum_).
 
-**13:** “Learn (nibodhata) what speed is ours at the present time (sāmprataṃ kālam): I shall go ninety yojanas (navatiṃ yojanānām), of this there is no doubt.
+**13:** “Learn (_nibodhata_) what speed is ours at the present time (_sāmprataṃ kālam_): I shall go ninety _yojanas_ (_navatiṃ yojanānām_), of this there is no doubt.
 </details>
 </details>
 
@@ -652,9 +652,9 @@ Vairocana... [4-65-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** And to all those foremost of monkeys Jāmbavān spoke this word: “Indeed, my prowess in leaping (gamane me parākramaḥ) was not merely this much (na khalv etāvad evāsīt) [in former days]!
+**14:** And to all those foremost of monkeys Jāmbavān spoke this word: “Indeed, my prowess in leaping (_gamane me parākramaḥ_) was not merely this much (_na khalv etāvad evāsīt_) [in former days]!
 
-**15:** “In former times (pūrvam), at the sacrifice of Virocana's son [Bali] (vairocane yajñe), the all-powerful, eternal Lord [Viṣṇu] (prabhaviṣṇuḥ sanātanaḥ) was circumambulated by me (mayā pradakṣiṇīkṛtaḥ) as He strode the three strides (kramamāṇas trivikramam).
+**15:** “In former times (_pūrvam_), at the sacrifice of Virocana&#x27;s son [Bali] (_vairocane yajñe_), the all-powerful, eternal Lord [_Viṣṇu_] (_prabhaviṣṇuḥ sanātanaḥ_) was circumambulated by me (_mayā pradakṣiṇīkṛtaḥ_) as He strode the three strides (_kramamāṇas trivikramam_).
 </details>
 </details>
 
@@ -706,7 +706,7 @@ soldier of misfortune, though my energy in youth was unmatchable and unsurpassab
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That same I am now old (idānīm ahaṃ vṛddhaḥ) and slow of stride in leaping (plavane mandavikramaḥ); whereas in youth (yauvane), my strength at that time was peerless and supreme (apratimaṃ param).
+“That same I am now old (_idānīm ahaṃ vṛddhaḥ_) and slow of stride in leaping (_plavane mandavikramaḥ_); whereas in youth (_yauvane_), my strength at that time was peerless and supreme (_apratimaṃ param_).
 </details>
 </details>
 
@@ -759,7 +759,7 @@ that much endeavour that task will be unaccomplished..." So said Jambavanta to m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now, today, only so much (etāvad eva) is possible for me in going of my own accord (gamane svataḥ); and by merely this much, the accomplishment of this task (kāryasyāsya saṃsiddhiḥ) will not come to pass.”
+“Now, today, only so much (_etāvad eva_) is possible for me in going of my own accord (_gamane svataḥ_); and by merely this much, the accomplishment of this task (_kāryasyāsya saṃsiddhiḥ_) will not come to pass.”
 </details>
 </details>
 
@@ -816,7 +816,7 @@ nature and behaviour 'nearly' equals that of gorillas, chimps, or even monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the wise great monkey Aṅgada (prājño mahākapiḥ), having shown due honour (anumānya) to Jāmbavān, spoke a reply of noble import (uttaram udārārtham).
+Then the wise great monkey Aṅgada (_prājño mahākapiḥ_), having shown due honour (_anumānya_) to Jāmbavān, spoke a reply of noble import (_uttaram udārārtham_).
 </details>
 </details>
 
@@ -876,7 +876,7 @@ whether I am capable of coming back or not, it is indefinite... [4-65-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I myself shall go this great hundred of yojanas (yojanānāṃ śataṃ mahat); yet whether I shall have the strength to return or not (nivartane tu me śaktiḥ syān na vā) is not certain (na niścitam).”
+“I myself shall go this great hundred of _yojanas_ (_yojanānāṃ śataṃ mahat_); yet whether I shall have the strength to return or not (_nivartane tu me śaktiḥ syān na vā_) is not certain (_na niścitam_).”
 </details>
 </details>
 
@@ -929,7 +929,7 @@ traversal... [4-65-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that foremost of monkeys Jāmbavān, skilled in speech (vākyakovidaḥ), spoke: “Your power in going (gamane śaktis tava) is well known, O best of monkeys and bears (haryṛkṣasattama)!
+To that foremost of monkeys Jāmbavān, skilled in speech (_vākyakovidaḥ_), spoke: “Your power in going (_gamane śaktis tava_) is well known, O best of monkeys and bears (_haryṛkṣasattama_)!
 </details>
 </details>
 
@@ -984,7 +984,7 @@ and come back... but this method of our sending you is uncanonical... [4-65-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Granted (kāmam), you are able to go and return even a hundred thousand yojanas (śatasahasraṃ vā yojanānām); yet this course of action is not prescribed (nahy eṣa vidhir ucyate).
+“Granted (_kāmam_), you are able to go and return even a hundred thousand _yojanas_ (_śatasahasraṃ vā yojanānām_); yet this course of action is not prescribed (_nahy eṣa vidhir ucyate_).
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ fly-jumper, all of these people are assignable by you... [4-65-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the master (svāmī), who is the sender forth (preṣayitā), must never on any account be sent forth (na preṣyaḥ kathaṃcana), O dear one (tāta); all this host here is to be commanded by you (bhavatāyaṃ janaḥ sarvaḥ preṣyaḥ), O best of leapers!
+“For the master (_svāmī_), who is the sender forth (_preṣayitā_), must never on any account be sent forth (_na preṣyaḥ kathaṃcana_), O dear one (_tāta_); all this host here is to be commanded by you (_bhavatāyaṃ janaḥ sarvaḥ preṣyaḥ_), O best of leapers!
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ The word kalatra meaning 'that which need be protected,' has other meanings like
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You, established in the station of lord (svāmibhāve vyavasthitaḥ), are our sheltered consort (kalatram asmākam); the commander is the sheltered treasure (kalatram) of an army—such is the way of the world (gatir eṣā), O scorcher of foes!
+“You, established in the station of lord (_svāmibhāve vyavasthitaḥ_), are our sheltered consort (_kalatram asmākam_); the commander is the sheltered treasure (_kalatram_) of an army—such is the way of the world (_gatir eṣā_), O scorcher of foes!
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ Angada, you are always to be protected like anything that needs safeguarding... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, of this undertaking you are the very root (bhavān mūlam), O tamer of enemies; therefore, O dear one, like a wife (kalatravat), you must always be protected (pratipālyaḥ sadā bhavān).
+“Moreover, of this undertaking you are the very root (_bhavān mūlam_), O tamer of enemies; therefore, O dear one, like a wife (_kalatravat_), you must always be protected (_pratipālyaḥ sadā bhavān_).
 </details>
 </details>
 
@@ -1211,7 +1211,7 @@ yield fruits... [4-65-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The root of an enterprise must be guarded (mūlam arthasya saṃrakṣyam)—this is the policy of those who know affairs (kāryavidāṃ nayaḥ); for when the root exists (mūle hi sati), all virtues yielding fruit (guṇāḥ sarve phalodayāḥ) are accomplished.
+“The root of an enterprise must be guarded (_mūlam arthasya saṃrakṣyam_)—this is the policy of those who know affairs (_kāryavidāṃ nayaḥ_); for when the root exists (_mūle hi sati_), all virtues yielding fruit (_guṇāḥ sarve phalodayāḥ_) are accomplished.
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ searching Seetha... [4-65-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore you are the instrument of this task (asya kāryasya sādhanam), O one of true valour (satyavikrama); endowed with wisdom and prowess (buddhivikramasampannaḥ), you are the cause [of success] here (hetur atra), O scorcher of foes!
+“Therefore you are the instrument of this task (_asya kāryasya sādhanam_), O one of true valour (_satyavikrama_); endowed with wisdom and prowess (_buddhivikramasampannaḥ_), you are the cause [of success] here (_hetur atra_), O scorcher of foes!
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ our task..." So said Jambavanta to Angada. [4-65-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For you are both our elder and the son of our elder (guruś ca guruputraś ca), O best of monkeys; relying upon you (bhavantam āśritya), we are capable of accomplishing the purpose (arthasādhane).”
+“For you are both our elder and the son of our elder (_guruś ca guruputraś ca_), O best of monkeys; relying upon you (_bhavantam āśritya_), we are capable of accomplishing the purpose (_arthasādhane_).”
 </details>
 </details>
 
@@ -1372,7 +1372,7 @@ Vali Angada said this sentence in reply as an answer. [4-65-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vāli's son Aṅgada, the great monkey, spoke an answering word (pratyuvācottaraṃ vākyam) to the deeply wise Jāmbavān who had thus spoken (uktavākyam).
+Then Vāli&#x27;s son Aṅgada, the great monkey, spoke an answering word (_pratyuvācottaraṃ vākyam_) to the deeply wise Jāmbavān who had thus spoken (_uktavākyam_).
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ to undertake self-immolation once again, isn't it! [4-65-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If I myself do not go (yadi nāhaṃ gamiṣyāmi), nor any other bull among monkeys (nānyo vānarapuṅgavaḥ), then surely we must once again undertake this fast unto death (prāyopaveśanam)!
+“If I myself do not go (_yadi nāhaṃ gamiṣyāmi_), nor any other bull among monkeys (_nānyo vānarapuṅgavaḥ_), then surely we must once again undertake this fast unto death (_prāyopaveśanam_)!
 </details>
 </details>
 
@@ -1477,7 +1477,7 @@ without fulfilling the bidding of that resolute king of monkeys Sugreeva... [4-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For without having fulfilled the command (akṛtvā saṃdeśam) of that wise lord of monkeys [Sugrīva], on going back there too (tatrāpi gatvā) I do not see the preservation of our lives (prāṇānāṃ na paśye parirakṣaṇam).
+“For without having fulfilled the command (_akṛtvā saṃdeśam_) of that wise lord of monkeys [Sugrīva], on going back there too (_tatrāpi gatvā_) I do not see the preservation of our lives (_prāṇānāṃ na paśye parirakṣaṇam_).
 </details>
 </details>
 
@@ -1540,7 +1540,7 @@ our going to Kishkindha trespassing his bidding is as good as our entering into 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that monkey [Sugrīva] is the supreme lord (harir īśvaraḥ), both in grace and in extreme wrath (prasāde cātyarthakope ca); having transgressed his command (atītya tasya saṃdeśam), destruction would befall us upon returning (vināśo gamane bhavet).
+“For that monkey [Sugrīva] is the supreme lord (_harir īśvaraḥ_), both in grace and in extreme wrath (_prasāde cātyarthakope ca_); having transgressed his command (_atītya tasya saṃdeśam_), destruction would befall us upon returning (_vināśo gamane bhavet_).
 </details>
 </details>
 
@@ -1594,7 +1594,7 @@ Angada said to Jambavanta. [4-65-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since this matter stands thus (tat tathā), there is no other course (na bhavaty anyathā gatiḥ) for this task; therefore you yourself, who perceive the true meaning of things (dṛṣṭārthaḥ), ought to reflect deeply (saṃcintayitum arhati).”
+“Since this matter stands thus (_tat tathā_), there is no other course (_na bhavaty anyathā gatiḥ_) for this task; therefore you yourself, who perceive the true meaning of things (_dṛṣṭārthaḥ_), ought to reflect deeply (_saṃcintayitum arhati_).”
 </details>
 </details>
 
@@ -1646,7 +1646,7 @@ Jambavanta advised him in this best sentence to Angada. [4-65-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus answered then by Aṅgada, that heroic bull among leapers (plavagarṣabhaḥ), Jāmbavān, thereupon spoke this supreme word (uttamaṃ vākyam) to Aṅgada:
+Thus answered then by Aṅgada, that heroic bull among leapers (_plavagarṣabhaḥ_), Jāmbavān, thereupon spoke this supreme word (_uttamaṃ vākyam_) to Aṅgada:
 </details>
 </details>
 
@@ -1698,7 +1698,7 @@ motivate him who achieves success of this mission of searching Seetha... [4-65-3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O hero, not the least part of this task of yours shall suffer loss (na kiṃcit parihāsyate); behold, I am rousing (saṃcodayāmi) this one here who shall accomplish the task (yaḥ kāryaṃ sādhayiṣyati)!”
+“O hero, not the least part of this task of yours shall suffer loss (_na kiṃcit parihāsyate_); behold, I am rousing (_saṃcodayāmi_) this one here who shall accomplish the task (_yaḥ kāryaṃ sādhayiṣyati_)!”
 </details>
 </details>
 
@@ -1790,7 +1790,7 @@ raavaNasya balam j~naatvaa tiire nada nadii pateH | skaanda puraaNa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that foremost hero among monkeys [Jāmbavān] roused (saṃcodayāmāsa) none other than Hanumān (hanumantam eva), the foremost hero among monkeys (haripravīram), famous (pratītam) and best of leapers (plavatāṃ variṣṭham), who was seated comfortably apart (ekāntam āśritya sukhopaviṣṭam).
+Then that foremost hero among monkeys [Jāmbavān] roused (_saṃcodayāmāsa_) none other than Hanumān (_hanumantam eva_), the foremost hero among monkeys (_haripravīram_), famous (_pratītam_) and best of leapers (_plavatāṃ variṣṭham_), who was seated comfortably apart (_ekāntam āśritya sukhopaviṣṭam_).
 </details>
 </details>
 

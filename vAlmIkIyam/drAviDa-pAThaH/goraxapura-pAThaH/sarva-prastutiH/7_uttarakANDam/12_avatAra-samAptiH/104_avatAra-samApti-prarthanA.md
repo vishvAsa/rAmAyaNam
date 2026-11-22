@@ -48,7 +48,7 @@ Revealing himself as Time, Rāma’s own son born of māyā in his primordial st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear, O king of mighty spirit (rājan mahāsattva), the purpose for which I have come (yad-artham aham āgataḥ): I have been dispatched by the divine Grandfather [Brahmā] (pitāmahena devena preṣito ’smi), O mighty-strong one (mahābala)!
+“Hear, O king of mighty spirit (_rājan mahāsattva_), the purpose for which I have come (_yad-artham aham āgataḥ_): I have been dispatched by the divine Grandfather [Brahmā] (_pitāmahena devena preṣito ’smi_), O mighty-strong one (_mahābala_)!
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Revealing himself as Time, Rāma’s own son born of māyā in his primordial st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In your primordial state of being (pūrva-sadbhāve), I am your son, O conqueror of enemy cities (parapurañjaya), brought into existence through your māyā (māyā-sambhāvitaḥ), O hero—I am Time, the all-destroyer (kālaḥ sarva-samāharaḥ).
+“In your primordial state of being (_pūrva-sadbhāve_), I am your son, O conqueror of enemy cities (_parapurañjaya_), brought into existence through your _māyā_ (_māyā-sambhāvitaḥ_), O hero—I am Time, the all-destroyer (_kālaḥ sarva-samāharaḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Revealing himself as Time, Rāma’s own son born of māyā in his primordial st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The blessed Grandfather, Lord and Sovereign of the worlds (pitāmahaś ca bhagavān ... lokapatiḥ prabhuḥ), has spoken thus: ‘A pact was made by you, O gentle one (samayas te kṛtaḥ saumya), to protect the worlds completely (lokān samparirakṣitum).
+“The blessed Grandfather, Lord and Sovereign of the worlds (_pitāmahaś ca bhagavān ... lokapatiḥ prabhuḥ_), has spoken thus: ‘A pact was made by you, O gentle one (_samayas te kṛtaḥ saumya_), to protect the worlds completely (_lokān samparirakṣitum_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Revealing himself as Time, Rāma’s own son born of māyā in his primordial st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having withdrawn the worlds of old (saṅkṣipya hi purā lokān) by your māyā, by your own self alone (svayam eva hi), reclining upon the waters of the great ocean (mahārṇave śayāno ’psu), you first begot me (māṃ tvaṃ pūrvam ajījanaḥ).
+“‘Having withdrawn the worlds of old (_saṅkṣipya hi purā lokān_) by your _māyā_, by your own self alone (_svayam eva hi_), reclining upon the waters of the great ocean (_mahārṇave śayāno ’psu_), you first begot me (_māṃ tvaṃ pūrvam ajījanaḥ_).
 </details>
 </details>
 
@@ -181,9 +181,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “‘Then, having generated through your māyā the hooded serpent Ananta reclining upon the waters (bhogavantaṃ ... nāgam anantam udakeśayam), and also two beings of great might (dvau ca sattvau mahābalau)—
+**5:** “‘Then, having generated through your _māyā_ the hooded serpent Ananta reclining upon the waters (_bhogavantaṃ ... nāgam anantam udakeśayam_), and also two beings of great might (_dvau ca sattvau mahābalau_)—
 
-**6:** “‘—both Madhu and Kaiṭabha (madhuṃ ca kaiṭabhaṃ caiva), with whose heaps of bones covered over (yayor asthi-cayair vṛtā), this earth crowded with mountains became Medinī (iyaṃ parvata-sambādhā medinī cābhavan mahī)—
+**6:** “‘—both Madhu and Kaiṭabha (_madhuṃ ca kaiṭabhaṃ caiva_), with whose heaps of bones covered over (_yayor asthi-cayair vṛtā_), this earth crowded with mountains became _Medinī_ (_iyaṃ parvata-sambādhā medinī cābhavan mahī_)—
 </details>
 </details>
 
@@ -225,7 +225,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—having produced me as well (utpādya mām api) in a divine sun-radiant lotus upon your navel (padme divye ’rka-saṅkāśe nābhyām), all the work of creation (prājāpatyaṃ ... karma sarvam) was entrusted to me by you (mayi ... niveśitam).
+“‘—having produced me as well (_utpādya mām api_) in a divine sun-radiant lotus upon your navel (_padme divye ’rka-saṅkāśe nābhyām_), all the work of creation (_prājāpatyaṃ ... karma sarvam_) was entrusted to me by you (_mayi ... niveśitam_).
 </details>
 </details>
 
@@ -256,7 +256,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘With that burden deposited upon me (sannyasta-bhāraḥ), I wait upon you, the Lord of the world (tvām upāse jagat-patim): maintain protection among living beings (rakṣāṃ vidhatsva bhūteṣu), for you are the bestower of my power (mama tejaskaro bhavān)!’
+“‘With that burden deposited upon me (_sannyasta-bhāraḥ_), I wait upon you, the Lord of the world (_tvām upāse jagat-patim_): maintain protection among living beings (_rakṣāṃ vidhatsva bhūteṣu_), for you are the bestower of my power (_mama tejaskaro bhavān_)!’
 </details>
 </details>
 
@@ -290,7 +290,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Thereupon you too, from that unassailable eternal state (durdharṣāt tasmād bhāvāt sanātanāt), for the protection of all beings (rakṣārthaṃ sarva-bhūtānām), entered into the state of Viṣṇu (viṣṇutvam upajagmivān).
+“‘Thereupon you too, from that unassailable eternal state (_durdharṣāt tasmād bhāvāt sanātanāt_), for the protection of all beings (_rakṣārthaṃ sarva-bhūtānām_), entered into the state of Viṣṇu (_viṣṇutvam upajagmivān_).
 </details>
 </details>
 
@@ -324,7 +324,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Born in Aditi as a valiant son (adityāṃ vīryavān putraḥ), enhancer of the prowess of your brothers (bhrātṝṇāṃ vīrya-vardhanaḥ), whenever crises arise (samutpanneṣu kṛtyeṣu), you stand ready for their aid (teṣāṃ sāhyāya kalpase).
+“‘Born in Aditi as a valiant son (_adityāṃ vīryavān putraḥ_), enhancer of the prowess of your brothers (_bhrātṝṇāṃ vīrya-vardhanaḥ_), whenever crises arise (_samutpanneṣu kṛtyeṣu_), you stand ready for their aid (_teṣāṃ sāhyāya kalpase_).
 </details>
 </details>
 
@@ -358,7 +358,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘That very you, when creatures were being terrorized (vitrāsyamānāsu prajāsu), O foremost of the worlds (jagatāṃ vara), desiring the slaughter of Rāvaṇa (rāvaṇasya vadhākāṅkṣī), set your mind upon mortals (mānuṣeṣu mano ’dadhāḥ)—
+“‘That very you, when creatures were being terrorized (_vitrāsyamānāsu prajāsu_), O foremost of the worlds (_jagatāṃ vara_), desiring the slaughter of Rāvaṇa (_rāvaṇasya vadhākāṅkṣī_), set your mind upon mortals (_mānuṣeṣu mano ’dadhāḥ_)—
 </details>
 </details>
 
@@ -397,7 +397,7 @@ Declaring that Rāma’s self-appointed term of eleven thousand years among mort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—having fixed of old, by your very own self (svayam evātmanā purā), the appointed measure of your dwelling (vāsasya niyatim) at ten thousand years and ten hundred years besides (daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca).
+“‘—having fixed of old, by your very own self (_svayam evātmanā purā_), the appointed measure of your dwelling (_vāsasya niyatim_) at ten thousand years and ten hundred years besides (_daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca_).
 </details>
 </details>
 
@@ -428,7 +428,7 @@ Declaring that Rāma’s self-appointed term of eleven thousand years among mort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You, that mind-born son (manomayaḥ putraḥ), have now fulfilled your lifespan here among mortals (pūrṇāyur mānuṣeṣv iha); this is the time for you, O best of men (kālo ’yaṃ te naraśreṣṭha), to draw near [to us] (samīpam upavartitum).
+“‘You, that mind-born son (_manomayaḥ putraḥ_), have now fulfilled your lifespan here among mortals (_pūrṇāyur mānuṣeṣv iha_); this is the time for you, O best of men (_kālo ’yaṃ te naraśreṣṭha_), to draw near [to us] (_samīpam upavartitum_).
 </details>
 </details>
 
@@ -468,9 +468,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “‘If you desire, O great king, to attend upon your subjects still longer (bhūyo ... prajā icchasy upāsitum), then dwell on, O hero—blessings be upon you (vasa vā vīra bhadraṃ te)! Thus has the Grandfather spoken (evam āha pitāmahaḥ).
+**14:** “‘If you desire, O great king, to attend upon your subjects still longer (_bhūyo ... prajā icchasy upāsitum_), then dwell on, O hero—blessings be upon you (_vasa vā vīra bhadraṃ te_)! Thus has the Grandfather spoken (_evam āha pitāmahaḥ_).
 
-**15:** “‘Or if your desire is to attain the world of the gods (atha vā vijigīṣā te suralokāya), O Rāghava, let the deities, having Viṣṇu as their protector (sanāthā viṣṇunā devāḥ), become freed from all feverish care (bhavantu vigata-jvarāḥ)!’”
+**15:** “‘Or if your desire is to attain the world of the gods (_atha vā vijigīṣā te suralokāya_), O Rāghava, let the deities, having Viṣṇu as their protector (_sanāthā viṣṇunā devāḥ_), become freed from all feverish care (_bhavantu vigata-jvarāḥ_)!’”
 </details>
 </details>
 
@@ -509,7 +509,7 @@ Smiling with joy at Brahmā’s wondrous message, Rāma affirms that his incarna
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the words spoken by the Grandfather (pitāmahenoktaṃ vākyam) and delivered by Time (kāla-samīritam), Rāghava smiled (prahasan) and spoke these words to the All-Destroyer (sarva-saṃhāram abravīt):
+Having heard the words spoken by the Grandfather (_pitāmahenoktaṃ vākyam_) and delivered by Time (_kāla-samīritam_), Rāghava smiled (_prahasan_) and spoke these words to the All-Destroyer (_sarva-saṃhāram abravīt_):
 </details>
 </details>
 
@@ -540,7 +540,7 @@ Having heard the words spoken by the Grandfather (pitāmahenoktaṃ vākyam) and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon hearing the exceedingly wondrous words of the God of gods (devadevasya vākyaṃ paramam adbhutam), great joy has indeed arisen in me (prītir hi mahatī jātā), born of your arrival (tavāgamana-sambhavā).
+“Upon hearing the exceedingly wondrous words of the God of gods (_devadevasya vākyaṃ paramam adbhutam_), great joy has indeed arisen in me (_prītir hi mahatī jātā_), born of your arrival (_tavāgamana-sambhavā_).
 </details>
 </details>
 
@@ -571,7 +571,7 @@ Having heard the words spoken by the Grandfather (pitāmahenoktaṃ vākyam) and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the sake of the purpose of all three worlds (trayāṇām api lokānāṃ kāryārtham) is my manifestation (mama sambhavaḥ); blessings be upon you (bhadraṃ te ’stu)—I shall go to the very place whence I came (gamiṣyāmi yata evāham āgataḥ).
+“For the sake of the purpose of all three worlds (_trayāṇām api lokānāṃ kāryārtham_) is my manifestation (_mama sambhavaḥ_); blessings be upon you (_bhadraṃ te ’stu_)—I shall go to the very place whence I came (_gamiṣyāmi yata evāham āgataḥ_).
 </details>
 </details>
 
@@ -615,7 +615,7 @@ Having heard the words spoken by the Grandfather (pitāmahenoktaṃ vākyam) and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have indeed arrived in exact accord with what was in my heart (hṛdgato hy asi samprāptaḥ), nor have I any hesitation therein (na me tatra vicāraṇā); for by me, in all undertakings of the gods who abide in my sway (sarva-kṛtyeṣu devānāṃ vaśavartinām), a firm stand must be taken (sthātavyam), O All-Destroyer, just as the Grandfather has spoken (yathā hy āha pitāmahaḥ).”
+“You have indeed arrived in exact accord with what was in my heart (_hṛdgato hy asi samprāptaḥ_), nor have I any hesitation therein (_na me tatra vicāraṇā_); for by me, in all undertakings of the gods who abide in my sway (_sarva-kṛtyeṣu devānāṃ vaśavartinām_), a firm stand must be taken (_sthātavyam_), O All-Destroyer, just as the Grandfather has spoken (_yathā hy āha pitāmahaḥ_).”
 </details>
 </details>
 

@@ -90,7 +90,7 @@ presence of his ministers. [3-33-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the wretched (dīnā) Śūrpaṇakhā, enraged (saṃkruddhā), spoke harsh words (paruṣaṃ vākyam) in the midst of the ministers (amātya-madhye) to Rāvaṇa, who makes the worlds cry out (loka-rāvaṇam):
+Then the wretched (_dīnā_) Śūrpaṇakhā, enraged (_saṃkruddhā_), spoke harsh words (_paruṣaṃ vākyam_) in the midst of the ministers (_amātya-madhye_) to Rāvaṇa, who makes the worlds cry out (_loka-rāvaṇam_):
 </details>
 </details>
 
@@ -142,7 +142,7 @@ of a calamitous jeopardy that has surfaced, though you ought to be observant of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Intoxicated with sensual pleasures (pramattaḥ kāma-bhogeṣu), self-willed (svaira-vṛttaḥ), and unrestrained (niraṅkuśaḥ), you do not perceive (nāvabudhyase) the dreadful danger that has arisen (samutpannaṃ bhayaṃ ghoram), which ought to be known (boddhavyam)!
+“Intoxicated with sensual pleasures (_pramattaḥ kāma-bhogeṣu_), self-willed (_svaira-vṛttaḥ_), and unrestrained (_niraṅkuśaḥ_), you do not perceive (_nāvabudhyase_) the dreadful danger that has arisen (_samutpannaṃ bhayaṃ ghoram_), which ought to be known (_boddhavyam_)!
 </details>
 </details>
 
@@ -204,7 +204,7 @@ for education-mongers, no comfort, no sleep...' morals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Subjects (prajāḥ) do not hold in high esteem (na bahu manyante) a greedy king (mahī-patim lubdham) who is addicted to vulgar pleasures (saktaṃ grāmyeṣu bhogeṣu) and acts at the whim of lust (kāma-vṛttam), any more than a cremation-ground fire (śmaśānāgnim iva).
+“Subjects (_prajāḥ_) do not hold in high esteem (_na bahu manyante_) a greedy king (_mahī-patim lubdham_) who is addicted to vulgar pleasures (_saktaṃ grāmyeṣu bhogeṣu_) and acts at the whim of lust (_kāma-vṛttam_), any more than a cremation-ground fire (_śmaśānāgnim iva_).
 </details>
 </details>
 
@@ -266,7 +266,7 @@ firm by his body and mind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That monarch who does not personally attend to affairs of state at the proper time (svayaṃ kāryāṇi yaḥ kāle nānutiṣṭhati) perishes indeed (vinaśyati) together with his kingdom and those very undertakings (saha rājyena taiś ca kāryaiḥ)!
+“That monarch who does not personally attend to affairs of state at the proper time (_svayaṃ kāryāṇi yaḥ kāle nānutiṣṭhati_) perishes indeed (_vinaśyati_) together with his kingdom and those very undertakings (_saha rājyena taiś ca kāryaiḥ_)!
 </details>
 </details>
 
@@ -329,7 +329,7 @@ in his kingdom, and his subjects may desert him during wartime, like Vibheeshana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Men shun from afar (varjayanti narā dūrāt) a ruler who fails to employ spies (ayukta-cāram), who is inaccessible to his people (durdarśam), and who is not master of himself (asvādhīnam), just as elephants shun the mire of a river (nadī-paṅkam iva dvipāḥ).
+“Men shun from afar (_varjayanti narā dūrāt_) a ruler who fails to employ spies (_ayukta-cāram_), who is inaccessible to his people (_durdarśam_), and who is not master of himself (_asvādhīnam_), just as elephants shun the mire of a river (_nadī-paṅkam iva dvipāḥ_).
 </details>
 </details>
 
@@ -395,7 +395,7 @@ and as long as those waters of lust tiderip over his head he cannot surface hims
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those rulers who do not guard their realm when it has slipped from their control (ye na rakṣanti viṣayam asvādhīnam) do not shine with prosperity (na vṛddhyā prakāśante), like mountains [submerged] in the ocean (girayaḥ sāgare yathā).
+“Those rulers who do not guard their realm when it has slipped from their control (_ye na rakṣanti viṣayam asvādhīnam_) do not shine with prosperity (_na vṛddhyā prakāśante_), like mountains [submerged] in the ocean (_girayaḥ sāgare yathā_).
 </details>
 </details>
 
@@ -464,7 +464,7 @@ not those gods take opportunity to hit you back, for everything is lacking in yo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having provoked hostilities (vigṛhya) with self-possessed gods, gandharvas, and dānavas (ātmavadbhir deva-gandharva-dānavaiḥ), how shall you remain a king (kathaṃ rājā bhaviṣyasi) when you employ no spies and are so fickle (ayukta-cāraś capalaḥ)?
+“Having provoked hostilities (_vigṛhya_) with self-possessed gods, _gandharvas_, and _dānavas_ (_ātmavadbhir deva-gandharva-dānavaiḥ_), how shall you remain a king (_kathaṃ rājā bhaviṣyasi_) when you employ no spies and are so fickle (_ayukta-cāraś capalaḥ_)?
 </details>
 </details>
 
@@ -516,7 +516,7 @@ you are carefree, and how do you thrive as a king! [3-33-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Childish in nature (bāla-svabhāvaś ca) and devoid of intelligence (buddhi-hīnaś ca) as you are, O rākṣasa, you do not know what ought to be known (jñātavyaṃ tan na jānīṣe)—how then shall you remain a king?
+“Childish in nature (_bāla-svabhāvaś ca_) and devoid of intelligence (_buddhi-hīnaś ca_) as you are, O _rākṣasa_, you do not know what ought to be known (_jñātavyaṃ tan na jānīṣe_)—how then shall you remain a king?
 </details>
 </details>
 
@@ -570,7 +570,7 @@ strategies under their control, but vouchsafe them to others, they are of a piec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those kings, O best of conquerors (jayatāṃ vara), whose spies, treasury, and state policy (cārāś ca kośaś ca nayaś ca) are not under their own control (asvādhīnāḥ), are no different from common folk (prākṛtais te janaiḥ samāḥ)!
+“Those kings, O best of conquerors (_jayatāṃ vara_), whose spies, treasury, and state policy (_cārāś ca kośaś ca nayaś ca_) are not under their own control (_asvādhīnāḥ_), are no different from common folk (_prākṛtais te janaiḥ samāḥ_)!
 </details>
 </details>
 
@@ -633,7 +633,7 @@ king' thus your doom is certain.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because rulers behold all distant affairs (paśyanti dūra-sthān sarvān arthān) by means of their intelligence network (cāreṇa), therefore kings are called ‘far-sighted’ (dīrgha-cakṣuṣaḥ).
+“Because rulers behold all distant affairs (_paśyanti dūra-sthān sarvān arthān_) by means of their intelligence network (_cāreṇa_), therefore kings are called ‘far-sighted’ (_dīrgha-cakṣuṣaḥ_).
 </details>
 </details>
 
@@ -690,7 +690,7 @@ including Janasthaana. [3-33-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I deem you devoid of spies (ayukta-cāraṃ manye tvām), attended as you are by vulgar ministers (prākṛtaiḥ sacivair yutaḥ); for you do not even realize that your own kinsfolk and Janasthāna have been slaughtered (sva-janaṃ ca janasthānaṃ nihataṃ nāvabudhyase)!
+“I deem you devoid of spies (_ayukta-cāraṃ manye tvām_), attended as you are by vulgar ministers (_prākṛtaiḥ sacivair yutaḥ_); for you do not even realize that your own kinsfolk and Janasthāna have been slaughtered (_sva-janaṃ ca janasthānaṃ nihataṃ nāvabudhyase_)!
 </details>
 </details>
 
@@ -771,9 +771,9 @@ he put Janasthaana to rout. [3-33-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Fourteen thousand (caturdaśa sahasrāṇi) rākṣasas of dreadful deeds have been slain by Rāma single-handedly (hatāny ekena rāmeṇa), and Khara too together with Dūṣaṇa (kharaś ca saha-dūṣaṇaḥ)!
+**12:** “Fourteen thousand (_caturdaśa sahasrāṇi_) _rākṣasas_ of dreadful deeds have been slain by Rāma single-handedly (_hatāny ekena rāmeṇa_), and Khara too together with Dūṣaṇa (_kharaś ca saha-dūṣaṇaḥ_)!
 
-**13:** “Immunity from fear (abhayam) has been granted to the sages (ṛṣīṇām), the Daṇḍaka forests have been rendered secure (kṛta-kṣemāś ca daṇḍakāḥ), and Janasthāna has been ravaged (dharṣitam) by Rāma of unwearied deeds (akliṣṭa-kāriṇā)!
+**13:** “Immunity from fear (_abhayam_) has been granted to the sages (_ṛṣīṇām_), the Daṇḍaka forests have been rendered secure (_kṛta-kṣemāś ca daṇḍakāḥ_), and Janasthāna has been ravaged (_dharṣitam_) by Rāma of unwearied deeds (_akliṣṭa-kāriṇā_)!
 </details>
 </details>
 
@@ -826,7 +826,7 @@ of the calamity rising up against you in your own kingdom. [3-33-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Greedy (lubdhaḥ), heedless (pramattaś ca), and dependent on others (parādhīnaś ca) as you are, O rākṣasa, you do not perceive the danger that has arisen in your own realm (viṣaye sve samutpannaṃ bhayam).
+“Greedy (_lubdhaḥ_), heedless (_pramattaś ca_), and dependent on others (_parādhīnaś ca_) as you are, O _rākṣasa_, you do not perceive the danger that has arisen in your own realm (_viṣaye sve samutpannaṃ bhayam_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ subjects bid goodbye to such a king when he is in strife. [3-33-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In an hour of calamity (vyasane), no creatures rush to the aid (sarva-bhūtāni nābhidhāvanti) of a monarch who is harsh (tīkṣṇam), stingy in giving (alpa-pradātāram), heedless (pramattam), arrogant (garvitam), and deceitful (śaṭham).
+“In an hour of calamity (_vyasane_), no creatures rush to the aid (_sarva-bhūtāni nābhidhāvanti_) of a monarch who is harsh (_tīkṣṇam_), stingy in giving (_alpa-pradātāram_), heedless (_pramattam_), arrogant (_garvitam_), and deceitful (_śaṭham_).
 </details>
 </details>
 
@@ -933,7 +933,7 @@ and kin will ruin him when he is in distress. [3-33-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even his own kinsfolk and retainers (sva-jano 'pi) slay in his hour of distress (vyasane hanti) a ruler who is excessively proud (atimāninam), unapproachable (agrāhyam), self-conceited (ātma-sambhāvitam), and wrathful (krodhanam)!
+“Even his own kinsfolk and retainers (_sva-jano &#x27;pi_) slay in his hour of distress (_vyasane hanti_) a ruler who is excessively proud (_atimāninam_), unapproachable (_agrāhyam_), self-conceited (_ātma-sambhāvitam_), and wrathful (_krodhanam_)!
 </details>
 </details>
 
@@ -990,7 +990,7 @@ a piece of straw in this world. [3-33-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[A king] who does not attend to his duties (nānutiṣṭhati kāryāṇi) and takes no alarm when dangers arise (bhayeṣu na bibheti ca) is swiftly toppled from his kingdom (kṣipraṃ rājyāc cyutaḥ) and, wretched, becomes worth no more than straws (tṛṇais tulyo bhaved iha) in this world.
+“[A king] who does not attend to his duties (_nānutiṣṭhati kāryāṇi_) and takes no alarm when dangers arise (_bhayeṣu na bibheti ca_) is swiftly toppled from his kingdom (_kṣipraṃ rājyāc cyutaḥ_) and, wretched, becomes worth no more than straws (_tṛṇais tulyo bhaved iha_) in this world.
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ are of no avail. [3-33-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Some use may be found (bhavet kāryam) for dry sticks (śuṣka-kāṣṭhaiḥ), or even for clods of earth and dust (loṣṭhair api ca pāṃsubhiḥ); but no use whatever can be had from rulers fallen from their station (sthānāt paribhraṣṭaiḥ vasudhādhipaiḥ)!
+“Some use may be found (_bhavet kāryam_) for dry sticks (_śuṣka-kāṣṭhaiḥ_), or even for clods of earth and dust (_loṣṭhair api ca pāṃsubhiḥ_); but no use whatever can be had from rulers fallen from their station (_sthānāt paribhraṣṭaiḥ vasudhādhipaiḥ_)!
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ his kingdom, though functional, is meaningless. [3-33-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just like a garment that has already been worn (upabhuktaṃ yathā vāsaḥ) or garlands that have been crushed (srajo vā mṛditā yathā), so too a king fallen from his kingdom (rājyāt paribhraṣṭaḥ), even if capable (samartho 'pi), becomes useless (nirarthakaḥ)!
+“Just like a garment that has already been worn (_upabhuktaṃ yathā vāsaḥ_) or garlands that have been crushed (_srajo vā mṛditā yathā_), so too a king fallen from his kingdom (_rājyāt paribhraṣṭaḥ_), even if capable (_samartho &#x27;pi_), becomes useless (_nirarthakaḥ_)!
 </details>
 </details>
 
@@ -1159,7 +1159,7 @@ king survives for a long time. [3-33-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That king who is vigilant (apramattaś ca), all-knowing (sarva-jñaḥ), master of his senses (vijitendriyaḥ), grateful (kṛta-jñaḥ), and devoted to righteousness (dharma-śīlaś ca)—that king endures for a long time (tiṣṭhate ciram).
+“That king who is vigilant (_apramattaś ca_), all-knowing (_sarva-jñaḥ_), master of his senses (_vijitendriyaḥ_), grateful (_kṛta-jñaḥ_), and devoted to righteousness (_dharma-śīlaś ca_)—that king endures for a long time (_tiṣṭhate ciram_).
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ and who is to be favoured, and thus people will revere him as a judicious king. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when asleep with his two physical eyes (nayanābhyāṃ prasupto vā), he remains awake through the eye of statecraft (jāgarti naya-cakṣuṣā); and he whose wrath and favor are clearly manifested (vyakta-krodha-prasādaś ca)—that king is honored by the people.
+“Even when asleep with his two physical eyes (_nayanābhyāṃ prasupto vā_), he remains awake through the eye of statecraft (_jāgarti naya-cakṣuṣā_); and he whose wrath and favor are clearly manifested (_vyakta-krodha-prasādaś ca_)—that king is honored by the people.
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ is the very great massacre of demons to you, though not personally, but at least
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But you, O Rāvaṇa, of perverted intellect (durbuddhiḥ), are bereft of these virtues (guṇair etair vivarjitaḥ)—you by whom the vast slaughter of the rākṣasas (rakṣasāṃ sumahān vadhaḥ) remained unknown through spies (aviditaś cāraiḥ)!
+“But you, O Rāvaṇa, of perverted intellect (_durbuddhiḥ_), are bereft of these virtues (_guṇair etair vivarjitaḥ_)—you by whom the vast slaughter of the _rākṣasas_ (_rakṣasāṃ sumahān vadhaḥ_) remained unknown through spies (_aviditaś cāraiḥ_)!
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ attitudes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A despiser of others (parāvamantā), attached to sensual objects (viṣayeṣu saṅgavān), ignorant of the true division of place and time (na deśa-kāla-pravibhāga-tattva-vit), and failing to apply your mind to determining merits and defects (ayukta-buddhir guṇa-doṣa-niścaye), you shall before long lose your kingdom and perish (vipanna-rājyo na cirād vipatsyase)!”
+“A despiser of others (_parāvamantā_), attached to sensual objects (_viṣayeṣu saṅgavān_), ignorant of the true division of place and time (_na deśa-kāla-pravibhāga-tattva-vit_), and failing to apply your mind to determining merits and defects (_ayukta-buddhir guṇa-doṣa-niścaye_), you shall before long lose your kingdom and perish (_vipanna-rājyo na cirād vipatsyase_)!”
 </details>
 </details>
 
@@ -1423,7 +1423,7 @@ over a time. [3-33-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weighing with his intellect (samīkṣya buddhyā) his own faults thus proclaimed (sva-doṣān parikīrtitāṃs tathā), that lord of night-roamers (kṣaṇadā-careśvaraḥ), Rāvaṇa, endowed with wealth, pride, and strength (dhanena darpeṇa balena cānvitaḥ), reflected for a long time (vicintayām āsa ciram).
+Weighing with his intellect (_samīkṣya buddhyā_) his own faults thus proclaimed (_sva-doṣān parikīrtitāṃs tathā_), that lord of night-roamers (_kṣaṇadā-careśvaraḥ_), Rāvaṇa, endowed with wealth, pride, and strength (_dhanena darpeṇa balena cānvitaḥ_), reflected for a long time (_vicintayām āsa ciram_).
 </details>
 </details>
 

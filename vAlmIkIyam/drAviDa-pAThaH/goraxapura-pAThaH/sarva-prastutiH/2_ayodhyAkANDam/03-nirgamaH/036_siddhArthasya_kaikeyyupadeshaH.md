@@ -78,7 +78,7 @@ agian to Sumantra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the descendant of Ikṣvāku, tormented in this matter by his pledge (pīḍito ’tra pratijñayā), sighing heavily with tears (sabāṣpam atiniḥśvasya), spoke these words once more to Sumantra:
+Then the descendant of Ikṣvāku, tormented in this matter by his pledge (_pīḍito ’tra pratijñayā_), sighing heavily with tears (_sabāṣpam atiniḥśvasya_), spoke these words once more to Sumantra:
 </details>
 </details>
 
@@ -132,7 +132,7 @@ filled with the best of its kind, be arranged immediately"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O charioteer, let an army of fourfold forces (caturvidha-balā camūḥ), richly filled with gems (ratna-susampūrṇā), be swiftly arranged as a retinue to accompany Rāghava (rāghavasyānuyātrārthaṃ kṣipraṃ pratividhīyatām)!
+“O charioteer, let an army of fourfold forces (_caturvidha-balā camūḥ_), richly filled with gems (_ratna-susampūrṇā_), be swiftly arranged as a retinue to accompany Rāghava (_rāghavasyānuyātrārthaṃ kṣipraṃ pratividhīyatām_)!
 </details>
 </details>
 
@@ -186,7 +186,7 @@ exposure for extension of sales bestow elegance to the forces of the Prince"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let eloquent courtesans (rūpājīvāś ca vādinyaḥ) and wealthy merchants with well-displayed wares (vaṇijaś ca mahā-dhanāḥ suprasāritāḥ) adorn the troops of the prince (śobhayantu kumārasya vāhinīḥ)!
+“Let eloquent courtesans (_rūpājīvāś ca vādinyaḥ_) and wealthy merchants with well-displayed wares (_vaṇijaś ca mahā-dhanāḥ suprasāritāḥ_) adorn the troops of the prince (_śobhayantu kumārasya vāhinīḥ_)!
 </details>
 </details>
 
@@ -241,7 +241,7 @@ dependent on Rama and on whom he took delight in gallantry"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And those who depend upon him for their livelihood (ye cainam upajīvanti), as well as those with whom he delights in trials of valour (ramate yaiś ca vīryataḥ)—bestow abundant gifts of many kinds upon them and appoint them also to this retinue (teṣāṃ bahuvidhaṃ dattvā tān apy atra niyojaya)!
+“And those who depend upon him for their livelihood (_ye cainam upajīvanti_), as well as those with whom he delights in trials of valour (_ramate yaiś ca vīryataḥ_)—bestow abundant gifts of many kinds upon them and appoint them also to this retinue (_teṣāṃ bahuvidhaṃ dattvā tān apy atra niyojaya_)!
 </details>
 </details>
 
@@ -295,7 +295,7 @@ of forest accompany Rama(scion of Kakutsa)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the foremost weapons, the citizens, and wagons (āyudhāni ca mukhyāni nāgarāḥ śakaṭāni ca), together with hunters well-versed in the forest tracks (vyādhāś cāraṇya-kovidāḥ), follow Kākutstha!
+“Let the foremost weapons, the citizens, and wagons (_āyudhāni ca mukhyāni nāgarāḥ śakaṭāni ca_), together with hunters well-versed in the forest tracks (_vyādhāś cāraṇya-kovidāḥ_), follow Kākutstha!
 </details>
 </details>
 
@@ -350,7 +350,7 @@ not remember of sovereignty"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hunting deer and elephants (nighnan mṛgān kuñjarāṃś ca), drinking wild honey (pibaṃś cāraṇyakaṃ madhu), and gazing upon diverse rivers (nadīś ca vividhāḥ paśyan), he will not wistfully remember the kingdom (na rājyaṃ saṃsmariṣyati)!
+“Hunting deer and elephants (_nighnan mṛgān kuñjarāṃś ca_), drinking wild honey (_pibaṃś cāraṇyakaṃ madhu_), and gazing upon diverse rivers (_nadīś ca vividhāḥ paśyan_), he will not wistfully remember the kingdom (_na rājyaṃ saṃsmariṣyati_)!
 </details>
 </details>
 
@@ -413,7 +413,7 @@ uninhabited forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever grain-store and treasure-vault of mine there be (dhānya-kośaś ca yaḥ kaścid dhana-kośaś ca māmakaḥ), let both follow Rāma as he dwells in the solitary forest (tau rāmam anugacchetāṃ vasantaṃ nirjane vane)!
+“And whatever grain-store and treasure-vault of mine there be (_dhānya-kośaś ca yaḥ kaścid dhana-kośaś ca māmakaḥ_), let both follow Rāma as he dwells in the solitary forest (_tau rāmam anugacchetāṃ vasantaṃ nirjane vane_)!
 </details>
 </details>
 
@@ -468,7 +468,7 @@ disbursing appropriate gifts, along with sages living in the forest "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Performing sacrifices in sacred places and distributing ample sacrificial fees (yajan puṇyeṣu deśeṣu visṛjaṃś cāpta-dakṣiṇāḥ), and consorting with the sages (ṛṣibhiś cāpi saṃgamya), he shall dwell happily in the forest (pravatsyati sukhaṃ vane).
+“Performing sacrifices in sacred places and distributing ample sacrificial fees (_yajan puṇyeṣu deśeṣu visṛjaṃś cāpta-dakṣiṇāḥ_), and consorting with the sages (_ṛṣibhiś cāpi saṃgamya_), he shall dwell happily in the forest (_pravatsyati sukhaṃ vane_).
 </details>
 </details>
 
@@ -522,7 +522,7 @@ all objects of enjoyment"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And mighty-armed Bharata shall rule Ayodhyā (bharataś ca mahā-bāhur ayodhyāṃ pālayiṣyati); let glorious Rāma, however, be sent forth provided with every object of desire (sarva-kāmaiḥ punaḥ śrīmān rāmaḥ saṃsādhyatām iti)!”
+“And mighty-armed Bharata shall rule Ayodhyā (_bharataś ca mahā-bāhur ayodhyāṃ pālayiṣyati_); let glorious Rāma, however, be sent forth provided with every object of desire (_sarva-kāmaiḥ punaḥ śrīmān rāmaḥ saṃsādhyatām iti_)!”
 </details>
 </details>
 
@@ -579,7 +579,7 @@ parched. her voice also got choked.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Kākutstha spoke thus, fear came upon Kaikeyī (evaṃ bruvati kākutsthe kaikeyyā bhayam āgatam); her mouth grew parched, and her voice too was choked (mukhaṃ cāpy agamac choṣaṃ svaraś cāpi vyarudhyata).
+As Kākutstha spoke thus, fear came upon Kaikeyī (_evaṃ bruvati kākutsthe kaikeyyā bhayam āgatam_); her mouth grew parched, and her voice too was choked (_mukhaṃ cāpy agamac choṣaṃ svaraś cāpi vyarudhyata_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ turned towards the king, Kaikeyi spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dejected and terrified, with her mouth drying up (sā viṣaṇṇā ca santrastā mukhena pariśuṣyatā), Kaikeyī turned directly toward the king and spoke these words (rājānam evābhimukhī kaikeyī vākyam abravīt):
+Dejected and terrified, with her mouth drying up (_sā viṣaṇṇā ca santrastā mukhena pariśuṣyatā_), Kaikeyī turned directly toward the king and spoke these words (_rājānam evābhimukhī kaikeyī vākyam abravīt_):
 </details>
 </details>
 
@@ -699,7 +699,7 @@ which will be absolutely unenjoyable like wine, quaffed of its spiriteous part, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O righteous sire, Bharata will never accept an empty and utterly savourless kingdom stripped of its wealth (rājyaṃ gata-dhanaṃ sādho... nirāsvādyatamaṃ śūnyaṃ bharato nābhipatsyate), like liquor from which the potent cream has been drunk off (pīta-maṇḍāṃ surām iva)!”
+“O righteous sire, Bharata will never accept an empty and utterly savourless kingdom stripped of its wealth (_rājyaṃ gata-dhanaṃ sādho... nirāsvādyatamaṃ śūnyaṃ bharato nābhipatsyate_), like liquor from which the potent cream has been drunk off (_pīta-maṇḍāṃ surām iva_)!”
 </details>
 </details>
 
@@ -761,7 +761,7 @@ King Dasaratha spoke these words to that lady with large eyes:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Kaikeyī, casting off all shame, spoke these exceedingly cruel words (kaikeyyāṃ mukta-lajjāyāṃ vadantyām atidāruṇam), King Daśaratha spoke these words to that large-eyed queen (rājā daśaratho vākyam uvācāyata-locanām):
+When Kaikeyī, casting off all shame, spoke these exceedingly cruel words (_kaikeyyāṃ mukta-lajjāyāṃ vadantyām atidāruṇam_), King Daśaratha spoke these words to that large-eyed queen (_rājā daśaratho vākyam uvācāyata-locanām_):
 </details>
 </details>
 
@@ -818,7 +818,7 @@ begining itself, Oh the vulgar woman!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having yoked me to the burden, why do you goad me as I bear it, O inimical woman (vahantaṃ kiṃ tudasi māṃ niyujya dhuri māhite)? O ignoble one, why did you not forbid beforehand this measure that has now been begun (anārye kṛtyam ārabdhaṃ kiṃ na pūrvam upārudhaḥ)?”
+“Having yoked me to the burden, why do you goad me as I bear it, O inimical woman (_vahantaṃ kiṃ tudasi māṃ niyujya dhuri māhite_)? O ignoble one, why did you not forbid beforehand this measure that has now been begun (_anārye kṛtyam ārabdhaṃ kiṃ na pūrvam upārudhaḥ_)?”
 </details>
 </details>
 
@@ -873,7 +873,7 @@ woman replied to the king as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those wrathful words of his (tasyaitat krodha-saṃyuktam uktaṃ śrutvā varāṅganā), the fair-limbed Kaikeyī, twice as enraged (dviguṇaṃ kruddhā), spoke thus to the king:
+Hearing those wrathful words of his (_tasyaitat krodha-saṃyuktam uktaṃ śrutvā varāṅganā_), the fair-limbed Kaikeyī, twice as enraged (_dviguṇaṃ kruddhā_), spoke thus to the king:
 </details>
 </details>
 
@@ -922,7 +922,7 @@ Sagara; *upaarudhat* = cast away; *jyeshhTa putram* = his eldest son;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In your very own lineage, Sagara banished his eldest son known as Asamañja (tavaiva vaṃśe sagaro jyeṣṭha-putram upārudhat asamañja iti khyātam); even so ought this one to depart (tathāyaṃ gantum arhati)!”
+“In your very own lineage, Sagara banished his eldest son known as Asamañja (_tavaiva vaṃśe sagaro jyeṣṭha-putram upārudhat asamañja iti khyātam_); even so ought this one to depart (_tathāyaṃ gantum arhati_)!”
 </details>
 </details>
 
@@ -977,7 +977,7 @@ there were ashamed. But Kaikeyi did not perceive it"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, King Daśaratha exclaimed simply, “Fie!” (evam ukto dhig ity eva rājā daśaratho ’bravīt); and all the people were filled with shame, yet she paid no heed to it (vrīḍitaś ca janaḥ sarvaḥ sā ca tan nāvabudhyata).
+Thus addressed, King Daśaratha exclaimed simply, “Fie!” (_evam ukto dhig ity eva rājā daśaratho ’bravīt_); and all the people were filled with shame, yet she paid no heed to it (_vrīḍitaś ca janaḥ sarvaḥ sā ca tan nāvabudhyata_).
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ esteemed by the king, spoke to Kaikeyi these words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon an aged chief minister named Siddhārtha (tatra vṛddho mahāmātraḥ siddhārtho nāma nāmataḥ), pure of conduct and held in high esteem by the king (śucir bahumato rājñaḥ), spoke thus to Kaikeyī:
+Thereupon an aged chief minister named Siddhārtha (_tatra vṛddho mahāmātraḥ siddhārtho nāma nāmataḥ_), pure of conduct and held in high esteem by the king (_śucir bahumato rājñaḥ_), spoke thus to Kaikeyī:
 </details>
 </details>
 
@@ -1098,7 +1098,7 @@ throwing them in the waters of saryu river, took delight in it"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Asamañja, seizing young boys playing on the road (gṛhītvā tu krīḍataḥ pathi dārakān), used to hurl them into the waters of the Sarayū, and that evil-minded one took delight therein (sarayvāṃ prakṣipann apsu ramate tena durmatiḥ).
+“Asamañja, seizing young boys playing on the road (_gṛhītvā tu krīḍataḥ pathi dārakān_), used to hurl them into the waters of the Sarayū, and that evil-minded one took delight therein (_sarayvāṃ prakṣipann apsu ramate tena durmatiḥ_).
 </details>
 </details>
 
@@ -1153,7 +1153,7 @@ to keep yourself Asamanja alone or to preserve us, Oh the promoter of the state!
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seeing him do thus, all the citizens, filled with wrath, spoke to the king (taṃ dṛṣṭvā nāgarāḥ sarve kruddhā rājānam abruvan): ‘Choose either Asamañja alone or us, O enhancer of the realm (asamañjaṃ vṛṇīṣvaikam asmān vā rāṣṭra-vardhana)!’
+“Seeing him do thus, all the citizens, filled with wrath, spoke to the king (_taṃ dṛṣṭvā nāgarāḥ sarve kruddhā rājānam abruvan_): ‘Choose either Asamañja alone or us, O enhancer of the realm (_asamañjaṃ vṛṇīṣvaikam asmān vā rāṣṭra-vardhana_)!’
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ king, those people also replied these words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the king said to them: ‘From what cause has this fear arisen (kiṃ-nimittam idaṃ bhayam)?’ And when thus questioned by the king, those subjects spoke these words (tāś cāpi rājñā sampṛṣṭā vākyaṃ prakṛtayo ’bruvan):
+“Then the king said to them: ‘From what cause has this fear arisen (_kiṃ-nimittam idaṃ bhayam_)?’ And when thus questioned by the king, those subjects spoke these words (_tāś cāpi rājñā sampṛṣṭā vākyaṃ prakṛtayo ’bruvan_):
 </details>
 </details>
 
@@ -1263,7 +1263,7 @@ children in sarayu river in a whirled state of mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Out of perverse folly, this deranged prince hurls our young playing children of bewildered minds into the Sarayū, and derives matchless pleasure therefrom (krīḍatas tv eṣa naḥ putrān bālān udbhrānta-cetasaḥ sarayvāṃ prakṣipan maurkhyād atulāṃ prītim aśnute)!’
+“‘Out of perverse folly, this deranged prince hurls our young playing children of bewildered minds into the Sarayū, and derives matchless pleasure therefrom (_krīḍatas tv eṣa naḥ putrān bālān udbhrānta-cetasaḥ sarayvāṃ prakṣipan maurkhyād atulāṃ prītim aśnute_)!’
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ subjects, in a bid to do good to them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of his subjects, that lord of men abandoned that son who had become an enemy of the people, out of a desire to do what was pleasing to them (taṃ tatyājāhitaṃ putraṃ tāsāṃ priya-cikīrṣayā).
+“Hearing those words of his subjects, that lord of men abandoned that son who had become an enemy of the people, out of a desire to do what was pleasing to them (_taṃ tatyājāhitaṃ putraṃ tāsāṃ priya-cikīrṣayā_).
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having caused him to mount a carriage swiftly together with his wife and gear (taṃ yānaṃ śīghram āropya sabhāryaṃ saparicchadam), his father commanded those officers: ‘This one is to be banished for life!’ (yāvaj-jīvaṃ vivāsyo ’yam iti tān anvaśāt pitā).
+“Having caused him to mount a carriage swiftly together with his wife and gear (_taṃ yānaṃ śīghram āropya sabhāryaṃ saparicchadam_), his father commanded those officers: ‘This one is to be banished for life!’ (_yāvaj-jīvaṃ vivāsyo ’yam iti tān anvaśāt pitā_).
 </details>
 </details>
 
@@ -1459,9 +1459,9 @@ as above. But, what sin Rama has done, for which he was debarred in this way?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “Taking a digging-spade and a basket, he explored the mountain fastnesses (sa phāla-piṭakaṃ gṛhya giri-durgāṇy alokayat), roaming through all the quarters like the evildoer he was (diśaḥ sarvās tv anucaran sa yathā pāpa-karmakṛt).
+**25:** “Taking a digging-spade and a basket, he explored the mountain fastnesses (_sa phāla-piṭakaṃ gṛhya giri-durgāṇy alokayat_), roaming through all the quarters like the evildoer he was (_diśaḥ sarvās tv anucaran sa yathā pāpa-karmakṛt_).
 
-**26:** “Thus did the exceedingly righteous King Sagara cast him off (ity enam atyajad rājā sagaro vai sudhārmikaḥ); what sin has Rāma committed, whereby he is thus excluded and banished (rāmaḥ kim akarot pāpaṃ yenaivam uparudhyate)?
+**26:** “Thus did the exceedingly righteous King Sagara cast him off (_ity enam atyajad rājā sagaro vai sudhārmikaḥ_); what sin has Rāma committed, whereby he is thus excluded and banished (_rāmaḥ kim akarot pāpaṃ yenaivam uparudhyate_)?
 </details>
 </details>
 
@@ -1515,7 +1515,7 @@ him as in a new moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For we behold not a single fault in Rāghava (na hi kaṃcana paśyāmo rāghavasyāguṇaṃ vayam); any sin in him is as impossible to find as a dark stain on the crescent moon (durlabho hy asya nirayaḥ śaśāṅkasyeva kalmaṣam)!
+“For we behold not a single fault in Rāghava (_na hi kaṃcana paśyāmo rāghavasyāguṇaṃ vayam_); any sin in him is as impossible to find as a dark stain on the crescent moon (_durlabho hy asya nirayaḥ śaśāṅkasyeva kalmaṣam_)!
 </details>
 </details>
 
@@ -1573,7 +1573,7 @@ Rama will be exiled."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if, O queen, you perceive any fault in Rāghava (athavā devi tvaṃ kaṃcid doṣaṃ paśyasi rāghave), declare it truly today—then let Rāma be banished (tam adya brūhi tattvena tadā rāmo vivāsyate)!
+“Or if, O queen, you perceive any fault in Rāghava (_athavā devi tvaṃ kaṃcid doṣaṃ paśyasi rāghave_), declare it truly today—then let Rāma be banished (_tam adya brūhi tattvena tadā rāmo vivāsyate_)!
 </details>
 </details>
 
@@ -1639,7 +1639,7 @@ devoted to a good path, it would consume the splendour of even Indra (the ruler 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the abandonment of one who is blameless and ever devoted to the path of the good (aduṣṭasya hi santyāgaḥ sat-pathe niratasya ca), being opposed to dharma, would burn up the splendour even of Śakra (nirdahed api śakrasya dyutiṃ dharma-virodhavān)!
+“For the abandonment of one who is blameless and ever devoted to the path of the good (_aduṣṭasya hi santyāgaḥ sat-pathe niratasya ca_), being opposed to _dharma_, would burn up the splendour even of Śakra (_nirdahed api śakrasya dyutiṃ dharma-virodhavān_)!
 </details>
 </details>
 
@@ -1696,7 +1696,7 @@ lady with a charming face! Even blame from the public should be taken care of by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore enough, O queen, of your obstructing Rāma’s royal fortune (tad alaṃ devi rāmasya śriyā vihatayā tvayā)! For you ought also to guard against reproach from the world, O fair-faced one (lokato ’pi hi te rakṣyaḥ parivādaḥ śubhānane)!”
+“Therefore enough, O queen, of your obstructing Rāma’s royal fortune (_tad alaṃ devi rāmasya śriyā vihatayā tvayā_)! For you ought also to guard against reproach from the world, O fair-faced one (_lokato ’pi hi te rakṣyaḥ parivādaḥ śubhānane_)!”
 </details>
 </details>
 
@@ -1753,7 +1753,7 @@ tiresome tone, with a voice choked with deep anguish, as follows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Siddhārtha, the king, his voice grown still fainter (śrutvā tu siddhārtha-vaco rājā śrāntatara-svaraḥ), spoke thus to Kaikeyī in words choked with grief (śokopahatayā vācā kaikeyīm idam abravīt):
+Hearing the words of Siddhārtha, the king, his voice grown still fainter (_śrutvā tu siddhārtha-vaco rājā śrāntatara-svaraḥ_), spoke thus to Kaikeyī in words choked with grief (_śokopahatayā vācā kaikeyīm idam abravīt_):
 </details>
 </details>
 
@@ -1815,7 +1815,7 @@ own. Your action is deprived of a righteous path."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O woman of sinful form, you do not accept this counsel, nor do you know what is salutary for me or for yourself (etad vaco necchasi pāpa-rūpe hitaṃ na jānāsi mamātmano ’thavā)! Having betaken yourself to a base and wretched path, your vile conduct has departed from the way of the righteous (āsthāya mārgaṃ kṛpaṇaṃ kuceṣṭā ceṣṭā hi te sādhu-pathād apetā)!
+“O woman of sinful form, you do not accept this counsel, nor do you know what is salutary for me or for yourself (_etad vaco necchasi pāpa-rūpe hitaṃ na jānāsi mamātmano ’thavā_)! Having betaken yourself to a base and wretched path, your vile conduct has departed from the way of the righteous (_āsthāya mārgaṃ kṛpaṇaṃ kuceṣṭā ceṣṭā hi te sādhu-pathād apetā_)!
 </details>
 </details>
 
@@ -1891,7 +1891,7 @@ enjoy the kingdom for a long time, happily together with Bharata the King."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today I myself shall follow Rāma, forsaking the kingdom, happiness, and wealth (anuvrajiṣyāmy aham adya rāmaṃ rājyaṃ parityajya sukhaṃ dhanaṃ ca); while all others depart, do you, together with King Bharata, enjoy the kingdom at your pleasure for a long time (sarve ca rājñā bharatena ca tvaṃ yathā-sukhaṃ bhuṅkṣva cirāya rājyam)!”
+“Today I myself shall follow Rāma, forsaking the kingdom, happiness, and wealth (_anuvrajiṣyāmy aham adya rāmaṃ rājyaṃ parityajya sukhaṃ dhanaṃ ca_); while all others depart, do you, together with King Bharata, enjoy the kingdom at your pleasure for a long time (_sarve ca rājñā bharatena ca tvaṃ yathā-sukhaṃ bhuṅkṣva cirāya rājyam_)!”
 </details>
 </details>
 

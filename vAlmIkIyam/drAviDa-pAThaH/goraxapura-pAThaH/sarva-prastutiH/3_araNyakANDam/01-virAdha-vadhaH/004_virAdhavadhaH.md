@@ -79,7 +79,7 @@ grabbed and being carried off, Seetha screamed in a high-pitched voice.[3-4-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the two Kākutsthas, foremost of the Raghus (raghūttamau), being carried off (hriyamāṇau), Sītā threw up her two shapely arms (pragṛhya sumahā-bhujau) and cried out in a loud voice (uccaiḥ svareṇa cukrośa):
+Seeing the two Kākutsthas, foremost of the Raghus (_raghūttamau_), being carried off (_hriyamāṇau_), Sītā threw up her two shapely arms (_pragṛhya sumahā-bhujau_) and cried out in a loud voice (_uccaiḥ svareṇa cukrośa_):
 </details>
 </details>
 
@@ -127,7 +127,7 @@ a ferocious look... [3-4-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Rāma, son of Daśaratha (dāśarathī rāmaḥ), truthful (satyavān), of noble character (śīlavān), and pure (śuciḥ), is being carried off together with Lakṣmaṇa by a rākṣasa of dreadful form (raudra-rūpeṇa)!”
+“This Rāma, son of Daśaratha (_dāśarathī rāmaḥ_), truthful (_satyavān_), of noble character (_śīlavān_), and pure (_śuciḥ_), is being carried off together with Lakṣmaṇa by a _rākṣasa_ of dreadful form (_raudra-rūpeṇa_)!”
 </details>
 </details>
 
@@ -181,7 +181,7 @@ to thee..." [Said Seetha.] [3-4-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bears (ṛkṣāḥ), tigers, and leopards (śārdūla-dvīpinaḥ) will devour me! Carry me off (māṃ hara) and release the two Kākutsthas (utsṛja kākutsthau); obeisance to you, O best of rākṣasas (namas te rākṣasottama)!”
+“Bears (_ṛkṣāḥ_), tigers, and leopards (_śārdūla-dvīpinaḥ_) will devour me! Carry me off (_māṃ hara_) and release the two Kākutsthas (_utsṛja kākutsthau_); obeisance to you, O best of _rākṣasas_ (_namas te rākṣasottama_)!”
 </details>
 </details>
 
@@ -232,7 +232,7 @@ evil-minded demon Viradha. [3-4-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Vaidehī, the two heroic brothers Rāma and Lakṣmaṇa hastened with all speed (vegaṃ pracakratuḥ) to slay that evil-minded demon (vadhe tasya durātmanaḥ).
+Hearing those words of Vaidehī, the two heroic brothers Rāma and Lakṣmaṇa hastened with all speed (_vegaṃ pracakratuḥ_) to slay that evil-minded demon (_vadhe tasya durātmanaḥ_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ Soumitri indeed severed the left arm of that ferocious one, while Rama rent the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saumitri broke the left arm (savyaṃ bāhuṃ babhañja ha) of that dreadful demon, while Rāma by his might (tarasā) broke the right arm (dakṣiṇaṃ bāhum) of that rākṣasa.
+Saumitri broke the left arm (_savyaṃ bāhuṃ babhañja ha_) of that dreadful demon, while Rāma by his might (_tarasā_) broke the right arm (_dakṣiṇaṃ bāhum_) of that _rākṣasa_.
 </details>
 </details>
 
@@ -336,7 +336,7 @@ demolished by the Thunderbolt of Indra. [3-4-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His arms broken (bhagna-bāhuḥ) and his mind reeling with terror (saṃvignaḥ), that cloud-like demon swiftly fell senseless (vimūrcchitaḥ) upon the earth, like a mountain cleft by a thunderbolt (vajra-bhinna ivācalaḥ).
+His arms broken (_bhagna-bāhuḥ_) and his mind reeling with terror (_saṃvignaḥ_), that cloud-like demon swiftly fell senseless (_vimūrcchitaḥ_) upon the earth, like a mountain cleft by a thunderbolt (_vajra-bhinna ivācalaḥ_).
 </details>
 </details>
 
@@ -395,7 +395,7 @@ pounded on him on the ground. [3-4-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Battering (sūdayantau) the rākṣasa with their fists, arms, and feet (muṣṭibhir bāhubhiḥ padbhiḥ), and lifting him up again and again (udyamodyamya), they pounded him upon the bare ground (sthaṇḍile niṣpipeṣatuḥ).
+Battering (_sūdayantau_) the _rākṣasa_ with their fists, arms, and feet (_muṣṭibhir bāhubhiḥ padbhiḥ_), and lifting him up again and again (_udyamodyamya_), they pounded him upon the bare ground (_sthaṇḍile niṣpipeṣatuḥ_).
 </details>
 </details>
 
@@ -446,7 +446,7 @@ on the ground he is not killed. [3-4-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though pierced by many arrows (viddho bahubhir bāṇaiḥ), gashed by the two swords (khaḍgābhyāṃ ca parikṣataḥ), and pounded repeatedly upon the ground (niṣpiṣṭo bahudhā bhūmau), that rākṣasa did not die (na mamāra).
+Though pierced by many arrows (_viddho bahubhir bāṇaiḥ_), gashed by the two swords (_khaḍgābhyāṃ ca parikṣataḥ_), and pounded repeatedly upon the ground (_niṣpiṣṭo bahudhā bhūmau_), that _rākṣasa_ did not die (_na mamāra_).
 </details>
 </details>
 
@@ -497,7 +497,7 @@ shelter in fear, spoke this sentence to Lakshmana. [3-4-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him utterly unslayable (subhṛśam avadhyam) and resembling a mountain (acalopamam), the glorious Rāma, bestower of fearlessness in every peril (bhayeṣv abhayadaḥ), spoke these words:
+Seeing him utterly unslayable (_subhṛśam avadhyam_) and resembling a mountain (_acalopamam_), the glorious Rāma, bestower of fearlessness in every peril (_bhayeṣv abhayadaḥ_), spoke these words:
 </details>
 </details>
 
@@ -542,7 +542,7 @@ this demon... [3-4-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By reason of his penance (tapasā), O tiger among men, this rākṣasa cannot be vanquished in battle with weapons (śastreṇa yudhi nirjetum); therefore let us bury the rākṣasa in a pit (rākṣasaṃ nikhanāvahe)!”
+“By reason of his penance (_tapasā_), O tiger among men, this _rākṣasa_ cannot be vanquished in battle with weapons (_śastreṇa yudhi nirjetum_); therefore let us bury the _rākṣasa_ in a pit (_rākṣasaṃ nikhanāvahe_)!”
 </details>
 </details>
 
@@ -596,7 +596,7 @@ demon; *kunjarasya iva* = for an elephant, as though; *asmin* = in forest; *su m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this dreadful rākṣasa of fierce lustre (raudra-varcasaḥ), O Lakṣmaṇa, let a vast pit be dug in this forest (vane 'smin sumahac chvabhraṃ khanyatām), as if for a raging elephant (kuñjarasyeva)!”
+“For this dreadful _rākṣasa_ of fierce lustre (_raudra-varcasaḥ_), O Lakṣmaṇa, let a vast pit be dug in this forest (_vane &#x27;smin sumahac chvabhraṃ khanyatām_), as if for a raging elephant (_kuñjarasyeva_)!”
 </details>
 </details>
 
@@ -647,7 +647,7 @@ stood by. [3-4-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus to Lakṣmaṇa—“Let a chasm be dug (pradaraḥ khanyatām iti)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (virādham ākramya kaṇṭhe pādena).
+Speaking thus to Lakṣmaṇa—“Let a chasm be dug (_pradaraḥ khanyatām iti_)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (_virādham ākramya kaṇṭhe pādena_).
 </details>
 </details>
 
@@ -706,7 +706,7 @@ dynasty. [3-4-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Rāghava, the rākṣasa Virādha addressed these humble words (praśritaṃ vacaḥ) to Kākutstha, that bull among men (puruṣarṣabham):
+Hearing those words spoken by Rāghava, the _rākṣasa_ Virādha addressed these humble words (_praśritaṃ vacaḥ_) to Kākutstha, that bull among men (_puruṣarṣabham_):
 </details>
 </details>
 
@@ -757,7 +757,7 @@ oh, best one among men... [3-4-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have been slain (hato 'ham), O tiger among men, by one equal to Śakra in might (śakra-tulya-balena vai); previously, out of delusion (mohāt), you were not recognized by me, O bull among men!”
+“I have been slain (_hato &#x27;ham_), O tiger among men, by one equal to Śakra in might (_śakra-tulya-balena vai_); previously, out of delusion (_mohāt_), you were not recognized by me, O bull among men!”
 </details>
 </details>
 
@@ -808,7 +808,7 @@ are now known to me... [3-4-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now it is known to me (vidito mayā), O dear lord (tāta), that you are Rāma, of whom Kausalyā is the blessed mother (kausalyā suprajāḥ), and that this is the illustrious Vaidehī and Lakṣmaṇa of great renown.”
+“Now it is known to me (_vidito mayā_), O dear lord (_tāta_), that you are Rāma, of whom Kausalyā is the blessed mother (_kausalyā suprajāḥ_), and that this is the illustrious Vaidehī and Lakṣmaṇa of great renown.”
 </details>
 </details>
 
@@ -862,7 +862,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through a curse (abhiśāpāt) I entered this dreadful rākṣasa body (ghorāṃ rākṣasīṃ tanum); for I am the gandharva named Tumburu, cursed by Vaiśravaṇa [Kubera] (śapto vaiśravaṇena hi).”
+“Through a curse (_abhiśāpāt_) I entered this dreadful _rākṣasa_ body (_ghorāṃ rākṣasīṃ tanum_); for I am the _gandharva_ named Tumburu, cursed by Vaiśravaṇa [Kubera] (_śapto vaiśravaṇena hi_).”
 </details>
 </details>
 
@@ -917,7 +917,7 @@ you will attain your nature of celestial body and you will go to heavens...' [3-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When propitiated by me (prasādyamānaś ca mayā), that lord of great renown said to me: ‘When Rāma, son of Daśaratha, shall slay you in battle (tvāṃ vadhiṣyati saṃyuge),—’”
+“When propitiated by me (_prasādyamānaś ca mayā_), that lord of great renown said to me: ‘When Rāma, son of Daśaratha, shall slay you in battle (_tvāṃ vadhiṣyati saṃyuge_),—’”
 </details>
 </details>
 
@@ -968,7 +968,7 @@ Rambha, and indeed he alone said this curse-clearance to me... [3-4-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Then, restored to your original nature (prakṛtim āpannaḥ), you shall go to heaven (svargaṃ gamiṣyati).’ Not being attended upon by me at the appointed hour (anupasthīyamānaḥ), he spoke thus to me in wrath (sa kruddho vyājahāra ha).”
+“‘Then, restored to your original nature (_prakṛtim āpannaḥ_), you shall go to heaven (_svargaṃ gamiṣyati_).’ Not being attended upon by me at the appointed hour (_anupasthīyamānaḥ_), he spoke thus to me in wrath (_sa kruddho vyājahāra ha_).”
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ the 'y' and the 'u' being interchangeable as in Greek..."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus spoke King Vaiśravaṇa to me when I was attached to Rambhā (rambhāsaktam uvāca ha). By your grace I am now freed (tava prasādān mukto 'ham) from that most dreadful curse (abhiśāpāt sudāruṇāt)!”
+“Thus spoke King Vaiśravaṇa to me when I was attached to Rambhā (_rambhāsaktam uvāca ha_). By your grace I am now freed (_tava prasādān mukto &#x27;ham_) from that most dreadful curse (_abhiśāpāt sudāruṇāt_)!”
 </details>
 </details>
 
@@ -1102,9 +1102,9 @@ sage with sun-like resplendence dwells, you shall quickly approach him for he ad
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “I shall depart to my own celestial abode (bhuvanaṃ svaṃ gamiṣyāmi); may auspiciousness attend you (svasti vo 'stu), O scorcher of foes! Not far from here dwells the righteous-souled, mighty Śarabhaṅga (śarabhaṅgaḥ pratāpavān)—”
+**20:** “I shall depart to my own celestial abode (_bhuvanaṃ svaṃ gamiṣyāmi_); may auspiciousness attend you (_svasti vo &#x27;stu_), O scorcher of foes! Not far from here dwells the righteous-souled, mighty Śarabhaṅga (_śarabhaṅgaḥ pratāpavān_)—”
 
-**21:** “At a distance of one and a half yojanas (adhyardha-yojane), O dear lord, shines that great sage like the sun (maharṣiḥ sūrya-saṃnibhaḥ); go to him quickly (taṃ kṣipram abhigaccha tvam), and he shall declare what is for your welfare (sa te śreyo 'bhidhāsyati).”
+**21:** “At a distance of one and a half _yojanas_ (_adhyardha-yojane_), O dear lord, shines that great sage like the sun (_maharṣiḥ sūrya-saṃnibhaḥ_); go to him quickly (_taṃ kṣipram abhigaccha tvam_), and he shall declare what is for your welfare (_sa te śreyo &#x27;bhidhāsyati_).”
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ are inhumed in pit, to them there will be the worlds of manes..." [3-4-22, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And having cast me into a pit (avaṭe cāpi māṃ rāma nikṣipya), O Rāma, proceed safely in welfare (kuśalī vraja); for such is the eternal law for rākṣasas whose life-breath has departed (rakṣasāṃ gata-sattvānām eṣa dharmaḥ sanātanaḥ).”
+“And having cast me into a pit (_avaṭe cāpi māṃ rāma nikṣipya_), O Rāma, proceed safely in welfare (_kuśalī vraja_); for such is the eternal law for _rākṣasas_ whose life-breath has departed (_rakṣasāṃ gata-sattvānām eṣa dharmaḥ sanātanaḥ_).”
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those who are laid to rest in a pit (avaṭe ye nidhīyante), theirs are the eternal worlds (teṣāṃ lokāḥ sanātanāḥ)!” Having spoken thus to Kākutstha, Virādha, tormented by the shafts (śara-pīḍitaḥ),
+“Those who are laid to rest in a pit (_avaṭe ye nidhīyante_), theirs are the eternal worlds (_teṣāṃ lokāḥ sanātanāḥ_)!” Having spoken thus to Kākutstha, Virādha, tormented by the shafts (_śara-pīḍitaḥ_),
 </details>
 </details>
 
@@ -1250,9 +1250,9 @@ At Rāma's command, Lakṣmaṇa takes a spade and digs a vast pit beside Virād
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Cast off his body (nyasta-dehaḥ) and attained heaven (babhūva svarga-samprāptaḥ), possessed of great might. Hearing that speech, Rāghava commanded Lakṣmaṇa (lakṣmaṇaṃ vyādideśa ha):
+**24:** Cast off his body (_nyasta-dehaḥ_) and attained heaven (_babhūva svarga-samprāptaḥ_), possessed of great might. Hearing that speech, Rāghava commanded Lakṣmaṇa (_lakṣmaṇaṃ vyādideśa ha_):
 
-**25:** “For this dreadful rākṣasa of fierce deeds (raudra-karmaṇaḥ), O Lakṣmaṇa, let a vast pit be dug in this forest (vane 'smin sumahān śvabhraḥ khanyatām), as if for a raging elephant (kuñjarasyeva raudrasya)!”
+**25:** “For this dreadful _rākṣasa_ of fierce deeds (_raudra-karmaṇaḥ_), O Lakṣmaṇa, let a vast pit be dug in this forest (_vane &#x27;smin sumahān śvabhraḥ khanyatām_), as if for a raging elephant (_kuñjarasyeva raudrasya_)!”
 </details>
 </details>
 
@@ -1302,7 +1302,7 @@ then Rama repressively placed his foot on the throat of Viradha, and stood by. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus to Lakṣmaṇa—“Let a chasm be dug (pradaraḥ khanyatām iti)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (virādham ākramya kaṇṭhe pādena).
+Speaking thus to Lakṣmaṇa—“Let a chasm be dug (_pradaraḥ khanyatām iti_)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (_virādham ākramya kaṇṭhe pādena_).
 </details>
 </details>
 
@@ -1354,7 +1354,7 @@ Then, on taking a digging tool Lakshmana dug a deep pit beside the great soul Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, taking a spade (khanitram ādāya), Lakṣmaṇa dug an excellent pit (śvabhram uttamam) beside that huge-bodied Virādha (pārśvatas tasya virādhasya mahātmanaḥ).
+Then, taking a spade (_khanitram ādāya_), Lakṣmaṇa dug an excellent pit (_śvabhram uttamam_) beside that huge-bodied Virādha (_pārśvatas tasya virādhasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -1409,7 +1409,7 @@ he is still blaring with his horrific voice. [3-4-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting up (utkṣipya) that spike-eared (śaṅku-karṇam), loud-voiced Virādha after releasing his throat (mukta-kaṇṭham), he cast him into the pit (prākṣipac chvabhre) as he uttered a terrific roar (nadantaṃ bhairava-svanam).
+Lifting up (_utkṣipya_) that spike-eared (_śaṅku-karṇam_), loud-voiced Virādha after releasing his throat (_mukta-kaṇṭham_), he cast him into the pit (_prākṣipac chvabhre_) as he uttered a terrific roar (_nadantaṃ bhairava-svanam_).
 </details>
 </details>
 
@@ -1468,7 +1468,7 @@ a ghoulish one in fight, a terrifying demon who is still blaring, with all their
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swift in valour (āśu-vikramau) and steadfast in battle (sthirāv ubhau saṃyati), both Rāma and Lakṣmaṇa, filled with joy (mudānvitau), lifted up by their might that terrifying rākṣasa who was dreadful in combat and roaring, and cast him down [into the pit] (cikṣipatur bhayāvaham).
+Swift in valour (_āśu-vikramau_) and steadfast in battle (_sthirāv ubhau saṃyati_), both Rāma and Lakṣmaṇa, filled with joy (_mudānvitau_), lifted up by their might that terrifying _rākṣasa_ who was dreadful in combat and roaring, and cast him down [into the pit] (_cikṣipatur bhayāvaham_).
 </details>
 </details>
 
@@ -1535,7 +1535,7 @@ that are very expertly skilled have thought over well and undertook the eliminat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that the great demon could not be slain by sharp weapons (avadhyatāṃ prekṣya mahāsurasya tau śitena śastreṇa), those two bulls among men, supremely skilled (atyartha-viśāradāv ubhau), deliberated together (samarthya) and accomplished Virādha’s slaying inside the pit (bile virādhasya vadhaṃ pracakratuḥ).
+Perceiving that the great demon could not be slain by sharp weapons (_avadhyatāṃ prekṣya mahāsurasya tau śitena śastreṇa_), those two bulls among men, supremely skilled (_atyartha-viśāradāv ubhau_), deliberated together (_samarthya_) and accomplished Virādha’s slaying inside the pit (_bile virādhasya vadhaṃ pracakratuḥ_).
 </details>
 </details>
 
@@ -1598,7 +1598,7 @@ himself appraised that, "Killing me with any weapon is impossible..." [3-4-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For by the forest-ranging Virādha himself (svayaṃ virādhena hi kānana-cāriṇā), his own death—eagerly desired from Rāma in truth (prasahya rāmeṇa yathārtham īpsitaḥ)—had been declared by himself (niveditaḥ svayam): “My slaying cannot be wrought by weapons (na me vadhaḥ śastra-kṛto bhaved iti).”
+For by the forest-ranging Virādha himself (_svayaṃ virādhena hi kānana-cāriṇā_), his own death—eagerly desired from Rāma in truth (_prasahya rāmeṇa yathārtham īpsitaḥ_)—had been declared by himself (_niveditaḥ svayam_): “My slaying cannot be wrought by weapons (_na me vadhaḥ śastra-kṛto bhaved iti_).”
 </details>
 </details>
 
@@ -1656,7 +1656,7 @@ being flung into the pit the whole forest blared with that demon's cries. [3-4-3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that very declaration (tad eva bhāṣitaṃ niśamya), Rāma resolved upon casting him into a pit (kṛtā matis tasya bila-praveśane); and as that rākṣasa of mighty strength was being thrust into the pit, the forest was made to resound [with his cries] (vanaṃ vināditam).
+Hearing that very declaration (_tad eva bhāṣitaṃ niśamya_), Rāma resolved upon casting him into a pit (_kṛtā matis tasya bila-praveśane_); and as that _rākṣasa_ of mighty strength was being thrust into the pit, the forest was made to resound [with his cries] (_vanaṃ vināditam_).
 </details>
 </details>
 
@@ -1720,7 +1720,7 @@ Here also, Viradha's grave is covered with stones and boulders, as a kind of Sto
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having cast Virādha down into the chasm in the earth (virādham urvyāṃ pradare nipātya tam), Rāma and Lakṣmaṇa, wearing joyful countenances (prahṛṣṭa-rūpāv iva) and freed from fear in the great forest (vīta-bhayau mahā-vane), rejoiced and covered the rākṣasa over with boulders (śilābhir antardadhatuś ca rākṣasam).
+Having cast Virādha down into the chasm in the earth (_virādham urvyāṃ pradare nipātya tam_), Rāma and Lakṣmaṇa, wearing joyful countenances (_prahṛṣṭa-rūpāv iva_) and freed from fear in the great forest (_vīta-bhayau mahā-vane_), rejoiced and covered the _rākṣasa_ over with boulders (_śilābhir antardadhatuś ca rākṣasam_).
 </details>
 </details>
 
@@ -1804,7 +1804,7 @@ in their appeasing personalities and sun-like in their radiant valour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having slain the rākṣasa and reclaimed Maithilī (nihatya rakṣaḥ parigṛhya maithilīm), those two wielders of gold-decked bows (kāñcana-citra-kārmukau) roamed joyfully through the great forest (vijahratuḥ tau muditau mahā-vane), like the moon and the sun stationed in the sky (divi sthitau candra-divākarāv iva).
+Then, having slain the _rākṣasa_ and reclaimed Maithilī (_nihatya rakṣaḥ parigṛhya maithilīm_), those two wielders of gold-decked bows (_kāñcana-citra-kārmukau_) roamed joyfully through the great forest (_vijahratuḥ tau muditau mahā-vane_), like the moon and the sun stationed in the sky (_divi sthitau candra-divākarāv iva_).
 </details>
 </details>
 

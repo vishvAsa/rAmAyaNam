@@ -48,7 +48,7 @@ Departing Ayodhyā with vast armies of elephants and steeds, the allied monarchs
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those high-souled kings set forth exceedingly joyful (te prayātā mahātmānaḥ pārthivās te prahṛṣṭavat), making the earth tremble (kampayanto vasundharām) with floods of thousands of elephants and horses (gaja-vāji-sahasraughaiḥ).
+Those high-souled kings set forth exceedingly joyful (_te prayātā mahātmānaḥ pārthivās te prahṛṣṭavat_), making the earth tremble (_kampayanto vasundharām_) with floods of thousands of elephants and horses (_gaja-vāji-sahasraughaiḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Those high-souled kings set forth exceedingly joyful (te prayātā mahātmāna�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For many akṣauhiṇī armies (akṣauhiṇyo ... anekāḥ) with jubilant troops and mounts (prahṛṣṭā bala-vāhanāḥ) had stood ready there for Rāghava’s cause (rāghavārthe samudyatāḥ) at Bharata’s command (bharatasyājñayā).
+For many _akṣauhiṇī_ armies (_akṣauhiṇyo ... anekāḥ_) with jubilant troops and mounts (_prahṛṣṭā bala-vāhanāḥ_) had stood ready there for Rāghava’s cause (_rāghavārthe samudyatāḥ_) at Bharata’s command (_bharatasyājñayā_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ For many akṣauhiṇī armies (akṣauhiṇyo ... anekāḥ) with jubilant troo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those protectors of the earth, filled with pride in their might (bala-darpa-samanvitāḥ), exclaimed: “We did not get to see Rāma’s foe Rāvaṇa (na rāma-rāvaṇam) standing before us in battle (yuddhe ... purataḥ sthitam)!
+And those protectors of the earth, filled with pride in their might (_bala-darpa-samanvitāḥ_), exclaimed: “We did not get to see Rāma’s foe Rāvaṇa (_na rāma-rāvaṇam_) standing before us in battle (_yuddhe ... purataḥ sthitam_)!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ And those protectors of the earth, filled with pride in their might (bala-darpa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Too late were we assembled by Bharata to no avail (bharatena vayaṃ paścāt samānītā nirarthakam); otherwise, without doubt, the rākṣasas would have been swiftly slain by us kings (hatā hi rākṣasāḥ kṣipraṃ pārthivaiḥ syur na saṃśayaḥ)!
+“Too late were we assembled by Bharata to no avail (_bharatena vayaṃ paścāt samānītā nirarthakam_); otherwise, without doubt, the rākṣasas would have been swiftly slain by us kings (_hatā hi rākṣasāḥ kṣipraṃ pārthivaiḥ syur na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ And those protectors of the earth, filled with pride in their might (bala-darpa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Protected by the arm-might of Rāma and of Lakṣmaṇa (rāmasya bāhu-vīryeṇa rakṣitā lakṣmaṇasya ca), we would have fought happily, free from all fever of anxiety (sukhaṃ ... yudhyema vigata-jvarāḥ), across the ocean (pāre-samudrasya)!”
+“Protected by the arm-might of Rāma and of Lakṣmaṇa (_rāmasya bāhu-vīryeṇa rakṣitā lakṣmaṇasya ca_), we would have fought happily, free from all fever of anxiety (_sukhaṃ ... yudhyema vigata-jvarāḥ_), across the ocean (_pāre-samudrasya_)!”
 </details>
 </details>
 
@@ -203,7 +203,7 @@ And those protectors of the earth, filled with pride in their might (bala-darpa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recounting these and thousands of other tales along the way (etāś cānyāś ca ... kathās tatra sahasraśaḥ), those monarchs departed to their own kingdoms (sva-rājyāni jagmuḥ), filled with delight (harṣa-samanvitāḥ).
+Recounting these and thousands of other tales along the way (_etāś cānyāś ca ... kathās tatra sahasraśaḥ_), those monarchs departed to their own kingdoms (_sva-rājyāni jagmuḥ_), filled with delight (_harṣa-samanvitāḥ_).
 </details>
 </details>
 
@@ -254,13 +254,13 @@ Reaching their prosperous capitals, the monarchs send vast tributes of steeds, r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** [Returning to] their own foremost kingdoms (svāni rājyāni mukhyāni), thriving and joyful (ṛddhāni muditāni ca), overflowing with wealth and grain (samṛddha-dhana-dhānyāni), full, and rich in treasures (pūrṇāni vasumanti ca),
+**7:** [Returning to] their own foremost kingdoms (_svāni rājyāni mukhyāni_), thriving and joyful (_ṛddhāni muditāni ca_), overflowing with wealth and grain (_samṛddha-dhana-dhānyāni_), full, and rich in treasures (_pūrṇāni vasumanti ca_),
 
-**8:** having reached their respective cities (yathā-purāṇi te gatvā), those kings then presented manifold jewels as tribute-gifts (ratnāni vividhāny atha ... upahārān nṛpā daduḥ) to gratify Rāma (rāmasya priya-kāmārtham):
+**8:** having reached their respective cities (_yathā-purāṇi te gatvā_), those kings then presented manifold jewels as tribute-gifts (_ratnāni vividhāny atha ... upahārān nṛpā daduḥ_) to gratify Rāma (_rāmasya priya-kāmārtham_):
 
-**9:** steeds, vehicles, gems, and elephants fierce with rut (aśvān yānāni ratnāni hastinaś ca madotkaṭān), choice sandalwood (candanāni ca mukhyāni), and celestial ornaments (divyāny ābharaṇāni ca).
+**9:** steeds, vehicles, gems, and elephants fierce with rut (_aśvān yānāni ratnāni hastinaś ca madotkaṭān_), choice sandalwood (_candanāni ca mukhyāni_), and celestial ornaments (_divyāny ābharaṇāni ca_).
 
-**10:** Jewels, pearls, and corals (maṇi-muktā-pravālān), maidservants endowed with beauty (dāsyo rūpa-samanvitāḥ), diverse goats and sheep (ajāvikāṃś ca vividhān), and varied chariots (rathāṃs tu vividhān) they gave.
+**10:** Jewels, pearls, and corals (_maṇi-muktā-pravālān_), maidservants endowed with beauty (_dāsyo rūpa-samanvitāḥ_), diverse goats and sheep (_ajāvikāṃś ca vividhān_), and varied chariots (_rathāṃs tu vividhān_) they gave.
 </details>
 </details>
 
@@ -295,9 +295,9 @@ Reaching their prosperous capitals, the monarchs send vast tributes of steeds, r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Bharata, Lakṣmaṇa, and the mighty Śatrughna (bharato lakṣmaṇaś caiva śatrughnaś ca mahābalāḥ), taking those treasures (ādāya tāni ratnāni), returned once more to their own city (svāṃ purīṃ punar āgatāḥ).
+**11:** Bharata, Lakṣmaṇa, and the mighty Śatrughna (_bharato lakṣmaṇaś caiva śatrughnaś ca mahābalāḥ_), taking those treasures (_ādāya tāni ratnāni_), returned once more to their own city (_svāṃ purīṃ punar āgatāḥ_).
 
-**12:** And having arrived at the lovely city of Ayodhyā (āgamya ca purīṃ ramyām ayodhyām), those bulls among men (puruṣarṣabhāḥ) presented those wondrous treasures unto Rāma (tāni ratnāni citrāṇi rāmāya samupāharan).
+**12:** And having arrived at the lovely city of Ayodhyā (_āgamya ca purīṃ ramyām ayodhyām_), those bulls among men (_puruṣarṣabhāḥ_) presented those wondrous treasures unto Rāma (_tāni ratnāni citrāṇi rāmāya samupāharan_).
 </details>
 </details>
 
@@ -340,9 +340,9 @@ Receiving the kings’ tributes with delight, Rāma immediately bestows them upo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Accepting all of that with glad affection (pratigṛhya ca tat sarvaṃ rāmaḥ prīti-samanvitaḥ), the high-souled Rāma bestowed it upon King Sugrīva, who had fulfilled his duty (sugrīvāya dadau rājñe mahātmā kṛta-karmaṇe).
+**13:** Accepting all of that with glad affection (_pratigṛhya ca tat sarvaṃ rāmaḥ prīti-samanvitaḥ_), the high-souled Rāma bestowed it upon King Sugrīva, who had fulfilled his duty (_sugrīvāya dadau rājñe mahātmā kṛta-karmaṇe_).
 
-**14:** And Rāghava bestowed gifts upon Bibhīṣaṇa (bibhīṣaṇāya ca dadau) and likewise upon the others as well (tathānyebhyo ’pi)—the rākṣasas and monkeys surrounded by whom he had won victory (rākṣasebhyaḥ kapibhyaś ca yair vṛto jayam āptavān).
+**14:** And Rāghava bestowed gifts upon Bibhīṣaṇa (_bibhīṣaṇāya ca dadau_) and likewise upon the others as well (_tathānyebhyo ’pi_)—the rākṣasas and monkeys surrounded by whom he had won victory (_rākṣasebhyaḥ kapibhyaś ca yair vṛto jayam āptavān_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ Receiving the kings’ tributes with delight, Rāma immediately bestows them upo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those mighty monkeys and rākṣasas (te sarve ... kapi-rākṣasāḥ ... mahābalāḥ) wore the jewels given by Rāma upon their heads and upon their arms (śirobhir dhārayām āsur bāhubhiś ca).
+All those mighty monkeys and rākṣasas (_te sarve ... kapi-rākṣasāḥ ... mahābalāḥ_) wore the jewels given by Rāma upon their heads and upon their arms (_śirobhir dhārayām āsur bāhubhiś ca_).
 </details>
 </details>
 
@@ -412,11 +412,11 @@ All those mighty monkeys and rākṣasas (te sarve ... kapi-rākṣasāḥ ... m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** And that great chariot-warrior, sovereign of the Ikṣvākus, the valiant one (nṛpatir ikṣvākūṇāṃ mahārathaḥ ... vīryavān), lifting both Hanūmān and the mighty-armed Aṅgada onto his lap (hanūmantaṃ ... aṅgadaṃ ca ... aṅkam āropya),
+**16:** And that great chariot-warrior, sovereign of the Ikṣvākus, the valiant one (_nṛpatir ikṣvākūṇāṃ mahārathaḥ ... vīryavān_), lifting both Hanūmān and the mighty-armed Aṅgada onto his lap (_hanūmantaṃ ... aṅgadaṃ ca ... aṅkam āropya_),
 
-**17:** lotus-eyed Rāma (rāmaḥ kamala-patrākṣaḥ) spoke these words to Sugrīva: “This noble son of yours, Aṅgada (aṅgadas te suputro ’yam), and your counselor, the son of the Wind (mantrī cāpy anilātmajaḥ),
+**17:** lotus-eyed Rāma (_rāmaḥ kamala-patrākṣaḥ_) spoke these words to Sugrīva: “This noble son of yours, Aṅgada (_aṅgadas te suputro ’yam_), and your counselor, the son of the Wind (_mantrī cāpy anilātmajaḥ_),
 
-**18:** “both devoted to your royal counsel, O Sugrīva (sugrīva mantrite yuktau), and intent upon my welfare as well (mama cāpi hite ratau), truly deserve manifold honor (arhato vividhāṃ pūjām) on your account, O lord of monkeys (tvat-kṛte vai harīśvara)!”
+**18:** “both devoted to your royal counsel, O Sugrīva (_sugrīva mantrite yuktau_), and intent upon my welfare as well (_mama cāpi hite ratau_), truly deserve manifold honor (_arhato vividhāṃ pūjām_) on your account, O lord of monkeys (_tvat-kṛte vai harīśvara_)!”
 </details>
 </details>
 
@@ -458,7 +458,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the greatly renowned one (mahāyaśāḥ) unfastened priceless ornaments from his own limbs (vyavamucyāṅgād bhūṣaṇāni ... mahārhāṇi) and personally bound them then upon Aṅgada and Hanūmān (babandha ... tadāṅgada-hanūmatoḥ).
+Having spoken thus, the greatly renowned one (_mahāyaśāḥ_) unfastened priceless ornaments from his own limbs (_vyavamucyāṅgād bhūṣaṇāni ... mahārhāṇi_) and personally bound them then upon Aṅgada and Hanūmān (_babandha ... tadāṅgada-hanūmatoḥ_).
 </details>
 </details>
 
@@ -516,15 +516,15 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** And addressing those bulls among troop-leaders of mighty valor (ābhāṣya ca mahāvīryān ... yūthaparṣabhān)—Nīla, Nala, Kesarin, Kumuda, and Gandhamādana,
+**20:** And addressing those bulls among troop-leaders of mighty valor (_ābhāṣya ca mahāvīryān ... yūthaparṣabhān_)—Nīla, Nala, Kesarin, Kumuda, and Gandhamādana,
 
 **21:** Suṣeṇa, the heroic Panasa, Mainda and Dvivida as well, Jāmbavān, Gavākṣa, Vinata, and Dhūmra too,
 
 **22:** Valīmukha, Prajaṅgha, the mighty Sannāda, Darīmukha, Dadhimukha, and the troop-leader Indrajānu—
 
-**23:** sweetly with gentle speech (madhuraṃ ślakṣṇayā vācā), as though drinking them in with his eyes (netrābhyām āpibann iva), [he said]: “You are my friends (suhṛdo me bhavantaś ca), my very body (śarīram), and likewise my brothers (bhrātaras tathā)!
+**23:** sweetly with gentle speech (_madhuraṃ ślakṣṇayā vācā_), as though drinking them in with his eyes (_netrābhyām āpibann iva_), [he said]: “You are my friends (_suhṛdo me bhavantaś ca_), my very body (_śarīram_), and likewise my brothers (_bhrātaras tathā_)!
 
-**24:** “By you was I lifted out of calamity (yuṣmābhir uddhṛtaś cāhaṃ vyasanāt), O forest-dwellers (kānanaukasaḥ); blessed indeed is King Sugrīva (dhanyo rājā ca sugrīvaḥ) with you, the foremost of friends (bhavadbhiḥ suhṛdāṃ varaiḥ)!”
+**24:** “By you was I lifted out of calamity (_yuṣmābhir uddhṛtaś cāhaṃ vyasanāt_), O forest-dwellers (_kānanaukasaḥ_); blessed indeed is King Sugrīva (_dhanyo rājā ca sugrīvaḥ_) with you, the foremost of friends (_bhavadbhiḥ suhṛdāṃ varaiḥ_)!”
 </details>
 </details>
 
@@ -563,7 +563,7 @@ Bestowing ornaments and priceless diamonds upon the chiefs and embracing them, R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that bull among men (nararṣabhaḥ) bestowed upon them ornaments according to rank (bhūṣaṇāni yathārhataḥ) as well as priceless diamonds (vajrāṇi ca mahārhāṇi), and embraced them (sasvaje).
+Having spoken thus, that bull among men (_nararṣabhaḥ_) bestowed upon them ornaments according to rank (_bhūṣaṇāni yathārhataḥ_) as well as priceless diamonds (_vajrāṇi ca mahārhāṇi_), and embraced them (_sasvaje_).
 </details>
 </details>
 
@@ -597,7 +597,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drinking fragrant honey-wines (pibantaḥ sugandhīni madhūni), those honey-tawny heroes (madhu-piṅgalāḥ) [partook of] delicious meats (māṃsāni ca sumṛṣṭāni), roots, and fruits (mūlāni ca phalāni ca).
+Drinking fragrant honey-wines (_pibantaḥ sugandhīni madhūni_), those honey-tawny heroes (_madhu-piṅgalāḥ_) [partook of] delicious meats (_māṃsāni ca sumṛṣṭāni_), roots, and fruits (_mūlāni ca phalāni ca_).
 </details>
 </details>
 
@@ -628,7 +628,7 @@ Drinking fragrant honey-wines (pibantaḥ sugandhīni madhūni), those honey-taw
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they dwelt thus, a full month and more passed by (evaṃ teṣāṃ nivasatāṃ māsaḥ sāgro yayau tadā); yet out of devotion to Rāma (rāma-bhaktyā), they all deemed it like a single moment (muhūrtam iva te sarve ... menire).
+As they dwelt thus, a full month and more passed by (_evaṃ teṣāṃ nivasatāṃ māsaḥ sāgro yayau tadā_); yet out of devotion to Rāma (_rāma-bhaktyā_), they all deemed it like a single moment (_muhūrtam iva te sarve ... menire_).
 </details>
 </details>
 
@@ -659,7 +659,7 @@ As they dwelt thus, a full month and more passed by (evaṃ teṣāṃ nivasatā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma too delighted in their company (rāmo ’pi reme taiḥ sārdham)—with the shape-shifting monkeys (vānaraiḥ kāma-rūpibhiḥ), the rākṣasas of mighty valor (rākṣasaiś ca mahāvīryaiḥ), and the mighty bears (ṛkṣaiś caiva mahābalaiḥ).
+Rāma too delighted in their company (_rāmo ’pi reme taiḥ sārdham_)—with the shape-shifting monkeys (_vānaraiḥ kāma-rūpibhiḥ_), the rākṣasas of mighty valor (_rākṣasaiś ca mahāvīryaiḥ_), and the mighty bears (_ṛkṣaiś caiva mahābalaiḥ_).
 </details>
 </details>
 
@@ -705,9 +705,9 @@ Rāma too delighted in their company (rāmo ’pi reme taiḥ sārdham)—with t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** Thus for those joyful monkeys and rākṣasas everywhere (vānarāṇāṃ prahṛṣṭānāṃ rākṣasānāṃ ca sarvaśaḥ), the second month of the cool season passed happily away (yayau māso dvitīyaḥ śiśiraḥ sukham).
+**29:** Thus for those joyful monkeys and rākṣasas everywhere (_vānarāṇāṃ prahṛṣṭānāṃ rākṣasānāṃ ca sarvaśaḥ_), the second month of the cool season passed happily away (_yayau māso dvitīyaḥ śiśiraḥ sukham_).
 
-**30:** For them, enjoying supreme delight in the lovely city of the Ikṣvākus (ikṣvāku-nagare ramye parāṃ prītim upāsatām), time glided blissfully by amid Rāma’s tokens of affection (rāmasya prīti-karaṇaiḥ kālas teṣāṃ sukhaṃ yayau).
+**30:** For them, enjoying supreme delight in the lovely city of the Ikṣvākus (_ikṣvāku-nagare ramye parāṃ prītim upāsatām_), time glided blissfully by amid Rāma’s tokens of affection (_rāmasya prīti-karaṇaiḥ kālas teṣāṃ sukhaṃ yayau_).
 </details>
 </details>
 

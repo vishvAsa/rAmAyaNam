@@ -48,7 +48,7 @@ Learning that Rāvaṇa and his brothers have obtained boons from Brahmā, Sumā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning that those night-roamers had obtained their boons (varalabdhāṃs tu jñātvā), Sumālī cast aside all fear (bhayaṃ tyaktvā) and rose up from Rasātala together with his retinue (sānugaḥ sa rasātalāt).
+Learning that those night-roamers had obtained their boons (_varalabdhāṃs tu jñātvā_), Sumālī cast aside all fear (_bhayaṃ tyaktvā_) and rose up from Rasātala together with his retinue (_sānugaḥ sa rasātalāt_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Learning that those night-roamers had obtained their boons (varalabdhāṃs tu j
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mārīca, Prahasta, Virūpākṣa, and Mahodara—the ministers of that rākṣasa (sacivās tasya rakṣasaḥ)—also rose up in eager excitement (udatiṣṭhan susaṃrabdhāḥ).
+Mārīca, Prahasta, Virūpākṣa, and Mahodara—the ministers of that rākṣasa (_sacivās tasya rakṣasaḥ_)—also rose up in eager excitement (_udatiṣṭhan susaṃrabdhāḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Mārīca, Prahasta, Virūpākṣa, and Mahodara—the ministers of that rākṣa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by his ministers and foremost rākṣasa champions (vṛto rākṣasa-puṅgavaiḥ), Sumālī approached Daśagrīva (abhigamya daśagrīvam), embraced him (pariṣvajya), and spoke these words:
+Surrounded by his ministers and foremost rākṣasa champions (_vṛto rākṣasa-puṅgavaiḥ_), Sumālī approached Daśagrīva (_abhigamya daśagrīvam_), embraced him (_pariṣvajya_), and spoke these words:
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Surrounded by his ministers and foremost rākṣasa champions (vṛto rākṣasa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune, my child (diṣṭyā te vatsa), this cherished desire has been fulfilled (samprāptaś cintito ’yaṃ manorathaḥ), since you have obtained a supreme boon (labdhavān varam uttamam) from the foremost of the three worlds (tribhuvana-śreṣṭhāt)!
+“By good fortune, my child (_diṣṭyā te vatsa_), this cherished desire has been fulfilled (_samprāptaś cintito ’yaṃ manorathaḥ_), since you have obtained a supreme boon (_labdhavān varam uttamam_) from the foremost of the three worlds (_tribhuvana-śreṣṭhāt_)!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Surrounded by his ministers and foremost rākṣasa champions (vṛto rākṣasa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That great terror wrought by Viṣṇu (mahad viṣṇu-kṛtaṃ bhayam), on account of which we abandoned Laṅkā and departed to Rasātala (laṅkāṃ tyaktvā yātā rasātalam), has now vanished from us, O mighty-armed one (tad gataṃ no mahābāho)!
+“That great terror wrought by Viṣṇu (_mahad viṣṇu-kṛtaṃ bhayam_), on account of which we abandoned Laṅkā and departed to Rasātala (_laṅkāṃ tyaktvā yātā rasātalam_), has now vanished from us, O mighty-armed one (_tad gataṃ no mahābāho_)!
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“More than once, terrified by dread of him (asakṛt tad-bhayād bhītāḥ), we abandoned our own abode (parityajya svam ālayam), fled in rout (vidrutāḥ), and all together entered Rasātala (praviṣṭāḥ sma rasātalam).
+“More than once, terrified by dread of him (_asakṛt tad-bhayād bhītāḥ_), we abandoned our own abode (_parityajya svam ālayam_), fled in rout (_vidrutāḥ_), and all together entered Rasātala (_praviṣṭāḥ sma rasātalam_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Sumālī urges Rāvaṇa to reclaim Laṅkā from Kubera by diplomacy, gifts, or
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This city of Laṅkā, which is ours and befitting the rākṣasas (asmadīyā ... nagarī rākṣasocitā), has been occupied (niveśitā) by your wise brother, the Lord of Wealth (dhanādhyakṣeṇa dhīmatā).
+“This city of Laṅkā, which is ours and befitting the rākṣasas (_asmadīyā ... nagarī rākṣasocitā_), has been occupied (_niveśitā_) by your wise brother, the Lord of Wealth (_dhanādhyakṣeṇa dhīmatā_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ Sumālī urges Rāvaṇa to reclaim Laṅkā from Kubera by diplomacy, gifts, or
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O sinless, mighty-armed one (anagha ... mahābāho), if indeed it were possible to bring it back (śakyaṃ syāt ... pratyānetum) by conciliation, by gifts, or by sheer force (sāmnā dānena vā ... tarasā vā), our purpose would be achieved (kṛtaṃ bhavet).
+“O sinless, mighty-armed one (_anagha ... mahābāho_), if indeed it were possible to bring it back (_śakyaṃ syāt ... pratyānetum_) by conciliation, by gifts, or by sheer force (_sāmnā dānena vā ... tarasā vā_), our purpose would be achieved (_kṛtaṃ bhavet_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ Sumālī urges Rāvaṇa to reclaim Laṅkā from Kubera by diplomacy, gifts, or
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without a doubt, my son (tāta ... na saṃśayaḥ), you shall become the Lord of Laṅkā (laṅkeśvaraḥ); by you this rākṣasa lineage, though sunk in ruin, has been uplifted (nimagno ’pi samuddhṛtaḥ), and you shall become sovereign over us all (sarveṣāṃ naḥ prabhuś caiva), O mighty one!”
+“Without a doubt, my son (_tāta ... na saṃśayaḥ_), you shall become the Lord of Laṅkā (_laṅkeśvaraḥ_); by you this rākṣasa lineage, though sunk in ruin, has been uplifted (_nimagno ’pi samuddhṛtaḥ_), and you shall become sovereign over us all (_sarveṣāṃ naḥ prabhuś caiva_), O mighty one!”
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Sumālī urges Rāvaṇa to reclaim Laṅkā from Kubera by diplomacy, gifts, or
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Daśagrīva spoke to his maternal grandfather standing before him (mātāmaham upasthitam): “The Lord of Wealth is our elder (vitteśo gurur asmākam); you ought not to speak in such a manner (nārhase vaktum īdṛśam).”
+Thereupon Daśagrīva spoke to his maternal grandfather standing before him (_mātāmaham upasthitam_): “The Lord of Wealth is our elder (_vitteśo gurur asmākam_); you ought not to speak in such a manner (_nārhase vaktum īdṛśam_).”
 </details>
 </details>
 
@@ -374,7 +374,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus gently rebuffed by that preeminent lord of rākṣasas (sāmnāpi rākṣasendreṇa pratyākhyāto garīyasā), the rākṣasa [Sumālī], discerning his inner inclination (jñātvā tasya cakīrṣitam), said nothing further at that moment (kiñcin nāha tadā).
+Thus gently rebuffed by that preeminent lord of rākṣasas (_sāmnāpi rākṣasendreṇa pratyākhyāto garīyasā_), the rākṣasa [Sumālī], discerning his inner inclination (_jñātvā tasya cakīrṣitam_), said nothing further at that moment (_kiñcin nāha tadā_).
 </details>
 </details>
 
@@ -415,9 +415,9 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Then, after some time had passed (kasyacit tv atha kālasya), the night-roamer Prahasta approached the dwelling Rāvaṇa—who had spoken those words (uktavantaṃ tathā vākyam)—and addressed to Daśagrīva this respectful and reasoned speech (praśritaṃ vākyam ... sa-kāraṇam):
+**12:** Then, after some time had passed (_kasyacit tv atha kālasya_), the night-roamer Prahasta approached the dwelling Rāvaṇa—who had spoken those words (_uktavantaṃ tathā vākyam_)—and addressed to Daśagrīva this respectful and reasoned speech (_praśritaṃ vākyam ... sa-kāraṇam_):
 
-**13:** “O mighty-armed Daśagrīva (daśagrīva mahābāho), you ought not to speak in such a fashion (nārhas tvaṃ vaktum īdṛśam): among heroes there is no brotherly sentiment (saubhrātraṃ nāsti śūrāṇām)—hear these words of mine!
+**13:** “O mighty-armed Daśagrīva (_daśagrīva mahābāho_), you ought not to speak in such a fashion (_nārhas tvaṃ vaktum īdṛśam_): among heroes there is no brotherly sentiment (_saubhrātraṃ nāsti śūrāṇām_)—hear these words of mine!
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Aditi and Diti were indeed two united sisters (bhaginyau sahite hi te), wives of supreme beauty (bhārye parama-rūpiṇyau) unto the patriarch Kaśyapa (kaśyapasya prajāpateḥ).
+“Aditi and Diti were indeed two united sisters (_bhaginyau sahite hi te_), wives of supreme beauty (_bhārye parama-rūpiṇyau_) unto the patriarch Kaśyapa (_kaśyapasya prajāpateḥ_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Aditi gave birth to the gods, the lords of the three worlds (devāṃs tribhuvaneśvarān), whereas Diti brought forth sons (ajanayat putrān) who were likewise the self-begotten offspring of Kaśyapa (kaśyapasyātma-sambhavān).
+“Aditi gave birth to the gods, the lords of the three worlds (_devāṃs tribhuvaneśvarān_), whereas Diti brought forth sons (_ajanayat putrān_) who were likewise the self-begotten offspring of Kaśyapa (_kaśyapasyātma-sambhavān_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O knower of dharma, O hero (dharmajña ... vīra), this city and this entire earth with its forests, oceans, and mountains (purīyaṃ savanārṇavā saparvatā mahī) belonged, it is told, to those Daityas, and they were mighty sovereigns (te ’bhavan prabhaviṣṇavaḥ).
+“O knower of dharma, O hero (_dharmajña ... vīra_), this city and this entire earth with its forests, oceans, and mountains (_purīyaṃ savanārṇavā saparvatā mahī_) belonged, it is told, to those Daityas, and they were mighty sovereigns (_te ’bhavan prabhaviṣṇavaḥ_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet slaying them in battle (nihatya tāṃs tu samare), the all-powerful Viṣṇu (viṣṇunā prabhaviṣṇunā) brought these imperishable three worlds under the sway of the gods (devānāṃ vaśam ānītaṃ trailokyam idam avyayam).
+“Yet slaying them in battle (_nihatya tāṃs tu samare_), the all-powerful Viṣṇu (_viṣṇunā prabhaviṣṇunā_) brought these imperishable three worlds under the sway of the gods (_devānāṃ vaśam ānītaṃ trailokyam idam avyayam_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You alone will not be enacting this reversal of brotherly ties (naitad eko bhavān eva kariṣyati viparyayam); it has been practiced by both gods and asuras (surāsurair ācaritam)—therefore carry out my counsel (tat kuruṣva vaco mama)!”
+“You alone will not be enacting this reversal of brotherly ties (_naitad eko bhavān eva kariṣyati viparyayam_); it has been practiced by both gods and asuras (_surāsurair ācaritam_)—therefore carry out my counsel (_tat kuruṣva vaco mama_)!”
 </details>
 </details>
 
@@ -611,7 +611,7 @@ Delighted by Prahasta’s argument, Rāvaṇa consents, marches that very day wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spoken to thus, Daśagrīva reflected for a moment (cintayitvā muhūrtaṃ vai) with a deeply delighted inner heart (prahṛṣṭenāntarātmanā) and replied, “So be it!” (bāḍham ity eva so ’bravīt).
+Spoken to thus, Daśagrīva reflected for a moment (_cintayitvā muhūrtaṃ vai_) with a deeply delighted inner heart (_prahṛṣṭenāntarātmanā_) and replied, “So be it!” (_bāḍham ity eva so ’bravīt_).
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Spoken to thus, Daśagrīva reflected for a moment (cintayitvā muhūrtaṃ vai)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Animated by that very joy (tenaiva harṣeṇa), the valorous Daśagrīva set forth on that very day (tasminn ahani vīryavān) to the forest (vanaṃ gataḥ) together with those night-roamers (saha taiḥ kṣaṇadācaraiḥ).
+Animated by that very joy (_tenaiva harṣeṇa_), the valorous Daśagrīva set forth on that very day (_tasminn ahani vīryavān_) to the forest (_vanaṃ gataḥ_) together with those night-roamers (_saha taiḥ kṣaṇadācaraiḥ_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ Animated by that very joy (tenaiva harṣeṇa), the valorous Daśagrīva set fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night-roamer Daśagrīva dispatched Prahasta, skilled in speech (prahastaṃ vākya-kovidam), on an embassy (preṣayāmāsa dautyena):
+Stationed then upon Mount Trikūṭa (_trikūṭasthaḥ sa tu tadā_), that night-roamer Daśagrīva dispatched Prahasta, skilled in speech (_prahastaṃ vākya-kovidam_), on an embassy (_preṣayāmāsa dautyena_):
 </details>
 </details>
 
@@ -704,7 +704,7 @@ Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Prahasta, go swiftly (śīghraṃ gaccha) and speak in my name (vacasā mama) these conciliatory words (sāma-pūrvam idaṃ vacaḥ) to the Lord of Wealth, bull among the Nairṛtas (nairṛta-puṅgavam):
+“Prahasta, go swiftly (_śīghraṃ gaccha_) and speak in my name (_vacasā mama_) these conciliatory words (_sāma-pūrvam idaṃ vacaḥ_) to the Lord of Wealth, bull among the Nairṛtas (_nairṛta-puṅgavam_):
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O King, this city of Laṅkā belongs to the high-souled rākṣasas (rākṣasānāṃ mahātmanām); it has been occupied by you (tvayā niveśitā), O gentle one—this is not fitting for you, O sinless lord (naitad yuktaṃ tavānagha).
+“‘O King, this city of Laṅkā belongs to the high-souled rākṣasas (_rākṣasānāṃ mahātmanām_); it has been occupied by you (_tvayā niveśitā_), O gentle one—this is not fitting for you, O sinless lord (_naitad yuktaṃ tavānagha_).
 </details>
 </details>
 
@@ -766,7 +766,7 @@ Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, O hero of unequaled prowess (atula-vikrama), if you would grant it to us today (yadi no hy adya dadyāt), my pleasure would be accomplished (kṛtā bhaven mama prītiḥ) and dharma as well would be upheld (dharmaś caivānupālitaḥ)!’”
+“‘Therefore, O hero of unequaled prowess (_atula-vikrama_), if you would grant it to us today (_yadi no hy adya dadyāt_), my pleasure would be accomplished (_kṛtā bhaven mama prītiḥ_) and dharma as well would be upheld (_dharmaś caivānupālitaḥ_)!’”
 </details>
 </details>
 
@@ -805,7 +805,7 @@ Entering Laṅkā, Prahasta respectfully delivers Daśānana’s plea to Kubera,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the city of Laṅkā, securely guarded by Dhanada (dhanadena surakṣitām), he spoke these words to the supremely magnanimous Lord of Wealth (paramodāraṃ vittapālam):
+Entering the city of Laṅkā, securely guarded by Dhanada (_dhanadena surakṣitām_), he spoke these words to the supremely magnanimous Lord of Wealth (_paramodāraṃ vittapālam_):
 </details>
 </details>
 
@@ -836,7 +836,7 @@ Entering the city of Laṅkā, securely guarded by Dhanada (dhanadena surakṣit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O observer of noble vows (suvrata), O mighty-armed foremost among all wielders of weapons (sarva-śastrabhṛtāṃ vara), I have been dispatched to your presence (preṣito ’haṃ ... tvat-samīpam) by your brother Daśagrīva.
+“O observer of noble vows (_suvrata_), O mighty-armed foremost among all wielders of weapons (_sarva-śastrabhṛtāṃ vara_), I have been dispatched to your presence (_preṣito ’haṃ ... tvat-samīpam_) by your brother Daśagrīva.
 </details>
 </details>
 
@@ -876,9 +876,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “O deeply wise one, versed in all scriptures (mahāprājña sarva-śāstra-viśārada), O Lord of Wealth (vitteśa), pray hear from me the message (vacanaṃ mama) that Daśānana speaks (yad bravīti daśānanaḥ):
+**27:** “O deeply wise one, versed in all scriptures (_mahāprājña sarva-śāstra-viśārada_), O Lord of Wealth (_vitteśa_), pray hear from me the message (_vacanaṃ mama_) that Daśānana speaks (_yad bravīti daśānanaḥ_):
 
-**28:** “‘This delightful city (iyaṃ kila purī ramyā), O broad-eyed lord (viśālākṣa), was formerly enjoyed (bhukta-pūrvā ... purā) by rākṣasas of dreadful prowess headed by Sumālī (sumāli-pramukhaiḥ ... rākṣasair bhīma-vikramaiḥ).’
+**28:** “‘This delightful city (_iyaṃ kila purī ramyā_), O broad-eyed lord (_viśālākṣa_), was formerly enjoyed (_bhukta-pūrvā ... purā_) by rākṣasas of dreadful prowess headed by Sumālī (_sumāli-pramukhaiḥ ... rākṣasair bhīma-vikramaiḥ_).’
 </details>
 </details>
 
@@ -913,9 +913,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** “Therefore this plea is now respectfully submitted by him (tena vijñāpyate so ’yaṃ sāmpratam), O son of Viśravas (viśravātmaja): pray give up this city peacefully, dear lord (tad eṣā dīyatāṃ tāta ... sāmataḥ), unto him who asks for it (yācatas tasya)!”
+**29:** “Therefore this plea is now respectfully submitted by him (_tena vijñāpyate so ’yaṃ sāmpratam_), O son of Viśravas (_viśravātmaja_): pray give up this city peacefully, dear lord (_tad eṣā dīyatāṃ tāta ... sāmataḥ_), unto him who asks for it (_yācatas tasya_)!”
 
-**30:** Having thoroughly heard those words from Prahasta (prahastād abhisaṃśrutya), the divine Vaiśravaṇa, skilled in speech (vākya-viśāradaḥ), spoke these words in reply to Prahasta:
+**30:** Having thoroughly heard those words from Prahasta (_prahastād abhisaṃśrutya_), the divine Vaiśravaṇa, skilled in speech (_vākya-viśāradaḥ_), spoke these words in reply to Prahasta:
 </details>
 </details>
 
@@ -957,7 +957,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Laṅkā, then empty of night-roamers (śūnyā niśācaraiḥ), was bestowed upon me by my father (dattā mameyaṃ pitrā tu), and it was settled by me with Yakṣas (nivāsite ca me yakṣaiḥ) through gifts, honors, and like virtues (dāna-mānādibhir guṇaiḥ).
+“This Laṅkā, then empty of night-roamers (_śūnyā niśācaraiḥ_), was bestowed upon me by my father (_dattā mameyaṃ pitrā tu_), and it was settled by me with Yakṣas (_nivāsite ca me yakṣaiḥ_) through gifts, honors, and like virtues (_dāna-mānādibhir guṇaiḥ_).
 </details>
 </details>
 
@@ -988,7 +988,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go, tell Daśagrīva (brūhi gaccha daśagrīvam): ‘Whatever city and kingdom is mine (puraṃ rājyaṃ ca yan mama), O mighty-armed one, is yours as well (tavāpy etan mahābāho)—enjoy this kingdom free from foes (bhuṅkṣva rājyam akaṇṭakam)!’”
+“Go, tell Daśagrīva (_brūhi gaccha daśagrīvam_): ‘Whatever city and kingdom is mine (_puraṃ rājyaṃ ca yan mama_), O mighty-armed one, is yours as well (_tavāpy etan mahābāho_)—enjoy this kingdom free from foes (_bhuṅkṣva rājyam akaṇṭakam_)!’”
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the Lord of Wealth went into his father’s presence (jagāma pitur antikam); bowing before his revered parent (abhivādya gurum), he reported what Rāvaṇa desired (rāvaṇasya yad īpsitam): “Father, this Daśagrīva has dispatched an envoy to me (dūtaṃ preṣitavān mama)—
+Having spoken thus, the Lord of Wealth went into his father’s presence (_jagāma pitur antikam_); bowing before his revered parent (_abhivādya gurum_), he reported what Rāvaṇa desired (_rāvaṇasya yad īpsitam_): “Father, this Daśagrīva has dispatched an envoy to me (_dūtaṃ preṣitavān mama_)—
 </details>
 </details>
 
@@ -1053,7 +1053,7 @@ Having spoken thus, the Lord of Wealth went into his father’s presence (jagām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Let the city of Laṅkā, formerly inhabited by rākṣasa hosts (pūrvaṃ rakṣo-gaṇoṣitā), be given up!’ Pray instruct me, O observer of noble vows (tan mamācakṣva suvrata), as to what ought to be done by me in this matter (mayātra yad anuṣṭheyam).”
+“‘Let the city of Laṅkā, formerly inhabited by rākṣasa hosts (_pūrvaṃ rakṣo-gaṇoṣitā_), be given up!’ Pray instruct me, O observer of noble vows (_tan mamācakṣva suvrata_), as to what ought to be done by me in this matter (_mayātra yad anuṣṭheyam_).”
 </details>
 </details>
 
@@ -1093,9 +1093,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** Addressed thus, that brahmarṣi Viśravas, foremost among sages (viśravā muni-puṅgavaḥ), spoke to Dhanada, who stood with joined palms (prāñjaliṃ dhanadaṃ prāha): “Listen, my son, to my words (śṛṇu putra vaco mama)!
+**35:** Addressed thus, that brahmarṣi Viśravas, foremost among sages (_viśravā muni-puṅgavaḥ_), spoke to Dhanada, who stood with joined palms (_prāñjaliṃ dhanadaṃ prāha_): “Listen, my son, to my words (_śṛṇu putra vaco mama_)!
 
-**36:** “The mighty-armed Daśagrīva spoke of this in my presence (uktavān mama sannidhau), and that deeply wicked-minded one (sudurmatiḥ) was severely rebuked and repeatedly admonished by me (mayā nirbhartsitaś cāsīd bahuśoktaḥ).
+**36:** “The mighty-armed Daśagrīva spoke of this in my presence (_uktavān mama sannidhau_), and that deeply wicked-minded one (_sudurmatiḥ_) was severely rebuked and repeatedly admonished by me (_mayā nirbhartsitaś cāsīd bahuśoktaḥ_).
 </details>
 </details>
 
@@ -1134,7 +1134,7 @@ Explaining that Rāvaṇa—deluded by boons and hardened by his father’s nata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In anger he was told by me, and yet again and again he falls away from dharma (dhvaṃsate ca punaḥ punaḥ)! Hear now, my son, these words of mine that are conducive to your welfare and aligned with dharma (śreyo-’bhiyuktaṃ dharmyaṃ ca):
+“In anger he was told by me, and yet again and again he falls away from dharma (_dhvaṃsate ca punaḥ punaḥ_)! Hear now, my son, these words of mine that are conducive to your welfare and aligned with dharma (_śreyo-’bhiyuktaṃ dharmyaṃ ca_):
 </details>
 </details>
 
@@ -1167,7 +1167,7 @@ Explaining that Rāvaṇa—deluded by boons and hardened by his father’s nata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deluded by the granting of boons (vara-pradāna-sammūḍhaḥ), that wicked-minded one (sa durmatiḥ) does not discern who is worthy of reverence and who is not (mānyā-’mānyān ... na vetti), and through my curse (mama śāpāc ca) he has taken on a fierce nature (prakṛtiṃ dāruṇāṃ gataḥ).
+“Deluded by the granting of boons (_vara-pradāna-sammūḍhaḥ_), that wicked-minded one (_sa durmatiḥ_) does not discern who is worthy of reverence and who is not (_mānyā-’mānyān ... na vetti_), and through my curse (_mama śāpāc ca_) he has taken on a fierce nature (_prakṛtiṃ dāruṇāṃ gataḥ_).
 </details>
 </details>
 
@@ -1200,9 +1200,9 @@ Explaining that Rāvaṇa—deluded by boons and hardened by his father’s nata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** “Therefore, O mighty-armed one, abandon Laṅkā (tyaktvā laṅkām), repair with your followers (sahānugaḥ) to Mount Kailāsa, supporter of the earth (kailāsaṃ dharaṇīdharam), and establish there a city for your dwelling (niveśaya nivāsārtham).
+**39:** “Therefore, O mighty-armed one, abandon Laṅkā (_tyaktvā laṅkām_), repair with your followers (_sahānugaḥ_) to Mount Kailāsa, supporter of the earth (_kailāsaṃ dharaṇīdharam_), and establish there a city for your dwelling (_niveśaya nivāsārtham_).
 
-**40:** “There flows the enchanting Mandākinī, foremost among rivers (nadīnām uttamā nadī), its waters overspread with golden lotuses radiant as the sun (kāñcanaiḥ sūrya-saṅkāśaiḥ paṅkajaiḥ saṃvṛtodakā), as well as white night-lotuses, blue water-lilies, and other fragrant blossoms (kumudair utpalaiś caiva tathānyaiś ca sugandhibhiḥ).
+**40:** “There flows the enchanting Mandākinī, foremost among rivers (_nadīnām uttamā nadī_), its waters overspread with golden lotuses radiant as the sun (_kāñcanaiḥ sūrya-saṅkāśaiḥ paṅkajaiḥ saṃvṛtodakā_), as well as white night-lotuses, blue water-lilies, and other fragrant blossoms (_kumudair utpalaiś caiva tathānyaiś ca sugandhibhiḥ_).
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ Explaining that Rāvaṇa—deluded by boons and hardened by his father’s nata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There the gods, together with Gandharvas, Apsarasas, Uragas, and Kiṃnaras (sa-gandharvāḥ sāpsaroraga-kiṃnarāḥ), ever given to delight (vihāra-śīlāḥ), continually take refuge and sport in joy (satataṃ ramante sarvadāśritāḥ).
+“There the gods, together with Gandharvas, Apsarasas, Uragas, and Kiṃnaras (_sa-gandharvāḥ sāpsaroraga-kiṃnarāḥ_), ever given to delight (_vihāra-śīlāḥ_), continually take refuge and sport in joy (_satataṃ ramante sarvadāśritāḥ_).
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ Warned by Viśravas that enmity with boon-armored Rāvaṇa is unwise, Kubera du
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For enmity with this rākṣasa is by no means advisable for you, O Dhanada (na hi kṣamaṃ tavānena vairaṃ dhanada rakṣasā), since you well know how a supreme boon has been obtained by him (jānīṣe hi yathānena labdhaḥ paramako varaḥ).”
+“For enmity with this rākṣasa is by no means advisable for you, O Dhanada (_na hi kṣamaṃ tavānena vairaṃ dhanada rakṣasā_), since you well know how a supreme boon has been obtained by him (_jānīṣe hi yathānena labdhaḥ paramako varaḥ_).”
 </details>
 </details>
 
@@ -1309,11 +1309,11 @@ Warned by Viśravas that enmity with boon-armored Rāvaṇa is unwise, Kubera du
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** Addressed thus, out of reverence for his father (pitṛ-gauravāt), he swiftly accepted those words (gṛhītvāśu tad vacaḥ) and departed together with his wives, sons, ministers, conveyances, and treasure (sa-dāra-putraḥ sāmātyaḥ sa-vāhana-dhano gataḥ).
+**43:** Addressed thus, out of reverence for his father (_pitṛ-gauravāt_), he swiftly accepted those words (_gṛhītvāśu tad vacaḥ_) and departed together with his wives, sons, ministers, conveyances, and treasure (_sa-dāra-putraḥ sāmātyaḥ sa-vāhana-dhano gataḥ_).
 
-**44:** Thereupon Prahasta, delighted at heart (prahṛṣṭātmā), went to the mighty Daśagrīva, who stood surrounded by his ministers and younger brothers (sahāmātyaṃ sahānujam), and spoke these words:
+**44:** Thereupon Prahasta, delighted at heart (_prahṛṣṭātmā_), went to the mighty Daśagrīva, who stood surrounded by his ministers and younger brothers (_sahāmātyaṃ sahānujam_), and spoke these words:
 
-**45:** “That city of Laṅkā stands empty (śūnyā sā nagarī laṅkā); Dhanada has abandoned it and departed (tyaktvaināṃ dhanado gataḥ)! Enter it now together with us (praviśya tāṃ sahāsmābhiḥ) and uphold your rightful duty (svadharmaṃ pratipālaya)!”
+**45:** “That city of Laṅkā stands empty (_śūnyā sā nagarī laṅkā_); Dhanada has abandoned it and departed (_tyaktvaināṃ dhanado gataḥ_)! Enter it now together with us (_praviśya tāṃ sahāsmābhiḥ_) and uphold your rightful duty (_svadharmaṃ pratipālaya_)!”
 </details>
 </details>
 
@@ -1352,7 +1352,7 @@ Entering deserted Laṅkā like Indra ascending heaven, Rāvaṇa is consecrated
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Prahasta, the mighty Daśagrīva (daśagrīvaḥ ... mahābalaḥ) entered the city of Laṅkā (viveśa nagarīṃ laṅkām) together with his brothers, his armies, and his followers (bhrātṛbhiḥ sa-balānugaiḥ).
+Addressed thus by Prahasta, the mighty Daśagrīva (_daśagrīvaḥ ... mahābalaḥ_) entered the city of Laṅkā (_viveśa nagarīṃ laṅkām_) together with his brothers, his armies, and his followers (_bhrātṛbhiḥ sa-balānugaiḥ_).
 </details>
 </details>
 
@@ -1386,7 +1386,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as the lord of the gods ascends heaven (svargaṃ devādhipo yathā), that foe of the gods (sa devāriḥ) ascended Laṅkā—vacated by Dhanada (dhanadena parityaktām) and graced with well-divided boulevards (suvibhakta-mahāpathām).
+Just as the lord of the gods ascends heaven (_svargaṃ devādhipo yathā_), that foe of the gods (_sa devāriḥ_) ascended Laṅkā—vacated by Dhanada (_dhanadena parityaktām_) and graced with well-divided boulevards (_suvibhakta-mahāpathām_).
 </details>
 </details>
 
@@ -1420,7 +1420,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consecrated king then by the night-roamers (abhiṣiktaḥ kṣaṇadācarais tadā), Daśānana populated the city (niveśayāmāsa purīm); and that citadel became filled to the brim (nikāma-pūrṇā ca babhūva) with night-roamers dark as blue rain-clouds (niśācarair nīla-balāhakopamaiḥ).
+Consecrated king then by the night-roamers (_abhiṣiktaḥ kṣaṇadācarais tadā_), Daśānana populated the city (_niveśayāmāsa purīm_); and that citadel became filled to the brim (_nikāma-pūrṇā ca babhūva_) with night-roamers dark as blue rain-clouds (_niśācarair nīla-balāhakopamaiḥ_).
 </details>
 </details>
 
@@ -1455,7 +1455,7 @@ Consecrated king then by the night-roamers (abhiṣiktaḥ kṣaṇadācarais ta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, out of reverence for his father’s word (pitṛ-vākya-gauravāt), the Lord of Wealth founded upon the moon-bright mountain (nyaveśayac chaśi-vimale girau) a city adorned with richly embellished palaces (svalaṅkṛtair bhavana-varair vibhūṣitām), like Amarāvatī of Purandara in that hour (purandarasyevāmarāvatīm).
+Meanwhile, out of reverence for his father’s word (_pitṛ-vākya-gauravāt_), the Lord of Wealth founded upon the moon-bright mountain (_nyaveśayac chaśi-vimale girau_) a city adorned with richly embellished palaces (_svalaṅkṛtair bhavana-varair vibhūṣitām_), like Amarāvatī of Purandara in that hour (_purandarasyevāmarāvatīm_).
 </details>
 </details>
 

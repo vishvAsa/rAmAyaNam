@@ -48,7 +48,7 @@ After listening for many days and discovering through the poem itself that Kuśa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus for many days Rāma listened to that supremely auspicious song (rāmo bahūny ahāny evaṃ tad gītaṃ paramaṃ śubham) together with the sages, the monarchs, and the vānaras (śuśrāva munibhiḥ sārdhaṃ pārthivaiḥ saha vānaraiḥ).
+Thus for many days Rāma listened to that supremely auspicious song (_rāmo bahūny ahāny evaṃ tad gītaṃ paramaṃ śubham_) together with the sages, the monarchs, and the vānaras (_śuśrāva munibhiḥ sārdhaṃ pārthivaiḥ saha vānaraiḥ_).
 </details>
 </details>
 
@@ -83,9 +83,9 @@ Thus for many days Rāma listened to that supremely auspicious song (rāmo bahū
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** When, through that very song, he came to know Kuśa and Lava to be Sītā’s sons (tasmin gīte tu vijñāya sītā-putrau kuśīlavau), Rāma spoke these words in the midst of that assembly (tasyāḥ pariṣado madhye rāmo vacanam abravīt);
+**2:** When, through that very song, he came to know Kuśa and Lava to be Sītā’s sons (_tasmin gīte tu vijñāya sītā-putrau kuśīlavau_), Rāma spoke these words in the midst of that assembly (_tasyāḥ pariṣado madhye rāmo vacanam abravīt_);
 
-**3:** summoning messengers of spotless conduct by his own discernment (dūtāñ chuddha-samācārān āhūyātma-manīṣayā), he said: “Go forth from here into the presence of the blessed sage (gacchadhvam ito bhagavato ’ntikam) and deliver my words (mad-vaco brūta):
+**3:** summoning messengers of spotless conduct by his own discernment (_dūtāñ chuddha-samācārān āhūyātma-manīṣayā_), he said: “Go forth from here into the presence of the blessed sage (_gacchadhvam ito bhagavato ’ntikam_) and deliver my words (_mad-vaco brūta_):
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Thus for many days Rāma listened to that supremely auspicious song (rāmo bahū
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘If she is pure in conduct or if she is free from all blemish (yadi śuddha-samācārā yadi vā vīta-kalmaṣā), let her perform her own vindication here (karotv ihātmanaḥ śuddhim), having obtained the great sage’s consent (anumānya mahāmunim).’
+“‘If she is pure in conduct or if she is free from all blemish (_yadi śuddha-samācārā yadi vā vīta-kalmaṣā_), let her perform her own vindication here (_karotv ihātmanaḥ śuddhim_), having obtained the great sage’s consent (_anumānya mahāmunim_).’
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Thus for many days Rāma listened to that supremely auspicious song (rāmo bahū
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascertained the sage’s wish (chandaṃ muneś ca vijñāya) and the inward intention of Sītā (sītāyāś ca manogatam), should she desire to offer proof (pratyayaṃ dātukāmāyāḥ), report swiftly back to me (tataḥ śaṃsata me laghu).
+“Having ascertained the sage’s wish (_chandaṃ muneś ca vijñāya_) and the inward intention of Sītā (_sītāyāś ca manogatam_), should she desire to offer proof (_pratyayaṃ dātukāmāyāḥ_), report swiftly back to me (_tataḥ śaṃsata me laghu_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Thus for many days Rāma listened to that supremely auspicious song (rāmo bahū
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tomorrow at dawn let Maithilī, daughter of Janaka (śvaḥ prabhāte tu ... maithilī janakātmajā), perform an oath in the midst of the assembly (śapathaṃ ... karotu pariṣan-madhye) for my own exoneration as well (śodhanārthaṃ mamaiva ca).”
+“Tomorrow at dawn let Maithilī, daughter of Janaka (_śvaḥ prabhāte tu ... maithilī janakātmajā_), perform an oath in the midst of the assembly (_śapathaṃ ... karotu pariṣan-madhye_) for my own exoneration as well (_śodhanārthaṃ mamaiva ca_).”
 </details>
 </details>
 
@@ -217,7 +217,7 @@ Rāma’s messengers bow before the radiant Vālmīki and deliver his gentle wor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these supremely wondrous words of Rāghava (śrutvā tu rāghavasyaitad vacaḥ paramam adbhutam), the messengers swiftly went to the enclosure where that foremost of sages dwelt (dūtāḥ samprayayur vāṭaṃ yatrāste munipuṅgavaḥ).
+Hearing these supremely wondrous words of Rāghava (_śrutvā tu rāghavasyaitad vacaḥ paramam adbhutam_), the messengers swiftly went to the enclosure where that foremost of sages dwelt (_dūtāḥ samprayayur vāṭaṃ yatrāste munipuṅgavaḥ_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Hearing these supremely wondrous words of Rāghava (śrutvā tu rāghavasyaitad 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing down before that great-souled sage blazing with measureless radiance (te praṇamya mahātmānaṃ jvalantam amita-prabham), they spoke Rāma’s gentle and sweet words (ūcus te rāma-vākyāni mṛdūni madhurāṇi ca).
+Bowing down before that great-souled sage blazing with measureless radiance (_te praṇamya mahātmānaṃ jvalantam amita-prabham_), they spoke Rāma’s gentle and sweet words (_ūcus te rāma-vākyāni mṛdūni madhurāṇi ca_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Bowing down before that great-souled sage blazing with measureless radiance (te 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing what they had spoken (teṣāṃ tad vyāhṛtaṃ śrutvā) and discerning Rāma’s inward intent (rāmasya ca manogatam vijñāya), the greatly resplendent sage then spoke this reply (sumahātejā munir vākyam athābravīt):
+Hearing what they had spoken (_teṣāṃ tad vyāhṛtaṃ śrutvā_) and discerning Rāma’s inward intent (_rāmasya ca manogatam vijñāya_), the greatly resplendent sage then spoke this reply (_sumahātejā munir vākyam athābravīt_):
 </details>
 </details>
 
@@ -313,7 +313,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So let it be, good fortune to you (evaṃ bhavatu bhadraṃ vaḥ)! Just as Rāghava says (yathā vadati rāghavaḥ), so shall Sītā do (tathā kariṣyate sītā)—for a husband is indeed a woman’s deity (daivataṃ hi patiḥ striyāḥ).”
+“So let it be, good fortune to you (_evaṃ bhavatu bhadraṃ vaḥ_)! Just as Rāghava says (_yathā vadati rāghavaḥ_), so shall Sītā do (_tathā kariṣyate sītā_)—for a husband is indeed a woman’s deity (_daivataṃ hi patiḥ striyāḥ_).”
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the sage (tathoktā muninā sarve), all the royal messengers swiftly returned to the mighty-splendored Rāghava (rājadūtā mahaujasam pratyetya rāghavaṃ kṣipram) and reported the sage’s words (muni-vākyaṃ babhāṣire).
+Thus addressed by the sage (_tathoktā muninā sarve_), all the royal messengers swiftly returned to the mighty-splendored Rāghava (_rājadūtā mahaujasam pratyetya rāghavaṃ kṣipram_) and reported the sage’s words (_muni-vākyaṃ babhāṣire_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ Thus addressed by the sage (tathoktā muninā sarve), all the royal messengers s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kākutstha, greatly gladdened upon hearing the words of that great-souled one (tataḥ prahṛṣṭaḥ kākutsthaḥ śrutvā vākyaṃ mahātmanaḥ), addressed the sages and kings gathered there (ṛṣīṃs tatra sametāṃś ca rājñaś caivābhyabhāṣata):
+Then Kākutstha, greatly gladdened upon hearing the words of that great-souled one (_tataḥ prahṛṣṭaḥ kākutsthaḥ śrutvā vākyaṃ mahātmanaḥ_), addressed the sages and kings gathered there (_ṛṣīṃs tatra sametāṃś ca rājñaś caivābhyabhāṣata_):
 </details>
 </details>
 
@@ -414,7 +414,7 @@ Inviting all sages, kings, and anyone else who desires or doubts to witness Sīt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the blessed sages with their disciples (bhagavantaḥ saśiṣyā vai), and the lords of men with their retinues (sānugāś ca narādhipāḥ), behold Sītā’s oath (paśyantu sītā-śapatham), along with whoever else besides desires to witness it (yaś caivānyo ’pi kāṅkṣate)!”
+“Let the blessed sages with their disciples (_bhagavantaḥ saśiṣyā vai_), and the lords of men with their retinues (_sānugāś ca narādhipāḥ_), behold Sītā’s oath (_paśyantu sītā-śapatham_), along with whoever else besides desires to witness it (_yaś caivānyo ’pi kāṅkṣate_)!”
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Inviting all sages, kings, and anyone else who desires or doubts to witness Sīt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the great-souled Rāghava (tasya tad vacanaṃ śrutvā rāghavasya mahātmanaḥ), a mighty cry of applause arose from all the foremost sages (sarveṣām ṛṣi-mukhyānāṃ sādhuvādo mahān abhūt).
+Hearing those words of the great-souled Rāghava (_tasya tad vacanaṃ śrutvā rāghavasya mahātmanaḥ_), a mighty cry of applause arose from all the foremost sages (_sarveṣām ṛṣi-mukhyānāṃ sādhuvādo mahān abhūt_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Hearing those words of the great-souled Rāghava (tasya tad vacanaṃ śrutvā r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great-souled monarchs praised Rāghava (rājānaś ca mahātmānaḥ praśaṃsanti sma rāghavam): “O best of men, this is fitting in you alone upon earth, and in none other (upapannaṃ nara-śreṣṭha tvayy eva bhuvi nānyataḥ)!”
+And the great-souled monarchs praised Rāghava (_rājānaś ca mahātmānaḥ praśaṃsanti sma rāghavam_): “O best of men, this is fitting in you alone upon earth, and in none other (_upapannaṃ nara-śreṣṭha tvayy eva bhuvi nānyataḥ_)!”
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus made the firm decision, “Tomorrow at dawn” (evaṃ viniścayaṃ kṛtvā śvobhūta iti rāghavaḥ), Rāghava, slayer of foes, then dismissed all of them (visarjayām āsa tadā sarvāṃs tāñ chatrusūdanaḥ).
+Having thus made the firm decision, “Tomorrow at dawn” (_evaṃ viniścayaṃ kṛtvā śvobhūta iti rāghavaḥ_), Rāghava, slayer of foes, then dismissed all of them (_visarjayām āsa tadā sarvāṃs tāñ chatrusūdanaḥ_).
 </details>
 </details>
 
@@ -561,7 +561,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus having thoroughly deliberated the firm resolve for the oath on the morrow (iti sampravicārya rājasiṃhaḥ śvobhūte śapathasya niścayaṃ vai), that lion among kings, great-souled and high-minded, dismissed all the great sages and kings (visasarja munīn nṛpāṃś ca sarvān sa mahātmā mahato mahānubhāvaḥ).
+Thus having thoroughly deliberated the firm resolve for the oath on the morrow (_iti sampravicārya rājasiṃhaḥ śvobhūte śapathasya niścayaṃ vai_), that lion among kings, great-souled and high-minded, dismissed all the great sages and kings (_visasarja munīn nṛpāṃś ca sarvān sa mahātmā mahato mahānubhāvaḥ_).
 </details>
 </details>
 

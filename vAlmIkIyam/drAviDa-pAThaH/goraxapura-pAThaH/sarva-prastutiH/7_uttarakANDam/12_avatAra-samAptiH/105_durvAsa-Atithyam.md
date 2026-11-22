@@ -48,7 +48,7 @@ While Rāma and Kāla converse in strict secrecy, the irascible sage Durvāsas a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those two were thus conversing together (tathā tayoḥ saṃvadatoḥ), the blessed seer Durvāsas (durvāsā bhagavān ṛṣiḥ), desiring a sight of Rāma (rāmasya darśanākāṅkṣī), arrived at the royal gate (rāja-dvāram upāgamat).
+While those two were thus conversing together (_tathā tayoḥ saṃvadatoḥ_), the blessed seer Durvāsas (_durvāsā bhagavān ṛṣiḥ_), desiring a sight of Rāma (_rāmasya darśanākāṅkṣī_), arrived at the royal gate (_rāja-dvāram upāgamat_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ While those two were thus conversing together (tathā tayoḥ saṃvadatoḥ), t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching Saumitri (so ’bhigamya tu saumitrim), that foremost of seers spoke (uvāca ṛṣi-sattamaḥ): “Show me Rāma at once (rāmaṃ darśaya me śīghram), before my errand slips past (purā me ’rtho ’tivartate)!”
+Approaching Saumitri (_so ’bhigamya tu saumitrim_), that foremost of seers spoke (_uvāca ṛṣi-sattamaḥ_): “Show me Rāma at once (_rāmaṃ darśaya me śīghram_), before my errand slips past (_purā me ’rtho ’tivartate_)!”
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Approaching Saumitri (so ’bhigamya tu saumitrim), that foremost of seers spoke
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of the sage (munes tu bhāṣitaṃ śrutvā), Lakṣmaṇa, slayer of rival heroes (paravīrahā), bowed in salutation to the great-souled one (abhivādya mahātmānam) and spoke these words:
+Hearing the speech of the sage (_munes tu bhāṣitaṃ śrutvā_), Lakṣmaṇa, slayer of rival heroes (_paravīrahā_), bowed in salutation to the great-souled one (_abhivādya mahātmānam_) and spoke these words:
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Hearing the speech of the sage (munes tu bhāṣitaṃ śrutvā), Lakṣmaṇa, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Say what is to be done, O blessed one (kiṃ kāryaṃ brūhi bhagavan), or what is your errand (ko vā ’rthaḥ), what may I do (kiṃ karomy aham)? For Rāghava is engaged right now, O brahmin (vyagro hi rāghavo brahman)—let a brief moment be awaited (muhūrtaṃ pratipālyatām)!”
+“Say what is to be done, O blessed one (_kiṃ kāryaṃ brūhi bhagavan_), or what is your errand (_ko vā ’rthaḥ_), what may I do (_kiṃ karomy aham_)? For Rāghava is engaged right now, O brahmin (_vyagro hi rāghavo brahman_)—let a brief moment be awaited (_muhūrtaṃ pratipālyatām_)!”
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Hearing the speech of the sage (munes tu bhāṣitaṃ śrutvā), Lakṣmaṇa, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that, the tiger among seers (ṛṣi-śārdūlaḥ), darkened by wrath (krodhena kaluṣīkṛtaḥ), spoke these words to Lakṣmaṇa, scorching him as it were with his gaze (nirdahann iva cakṣuṣā):
+Hearing that, the tiger among seers (_ṛṣi-śārdūlaḥ_), darkened by wrath (_krodhena kaluṣīkṛtaḥ_), spoke these words to Lakṣmaṇa, scorching him as it were with his gaze (_nirdahann iva cakṣuṣā_):
 </details>
 </details>
 
@@ -223,9 +223,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “At this very instant, O Saumitri, announce me to Rāma (asmin kṣaṇe māṃ saumitre rāmāya prativedaya)! If at this very instant, O Saumitri, you do not announce me (na nivedayase yadi)—
+**6:** “At this very instant, O Saumitri, announce me to Rāma (_asmin kṣaṇe māṃ saumitre rāmāya prativedaya_)! If at this very instant, O Saumitri, you do not announce me (_na nivedayase yadi_)—
 
-**7:** “—I shall curse your realm, you, and the city too (viṣayaṃ tvāṃ puraṃ caiva śapiṣye), and Rāghava as well, and Bharata too, O Saumitri (bharataṃ caiva saumitre), and whatever progeny is yours (yuṣmākaṃ yā ca santatiḥ)!
+**7:** “—I shall curse your realm, you, and the city too (_viṣayaṃ tvāṃ puraṃ caiva śapiṣye_), and Rāghava as well, and Bharata too, O Saumitri (_bharataṃ caiva saumitre_), and whatever progeny is yours (_yuṣmākaṃ yā ca santatiḥ_)!
 </details>
 </details>
 
@@ -256,7 +256,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For I shall no longer be able to restrain my fury within my heart (na hi śakṣyāmy ahaṃ bhūyo manyuṃ dhārayituṃ hṛdi)!” Hearing that dread-seeming speech of the great-souled one (ghora-saṅkāśaṃ vākyam), he pondered in his mind the certainty of those words (tasya vākyasya niścayam).
+“For I shall no longer be able to restrain my fury within my heart (_na hi śakṣyāmy ahaṃ bhūyo manyuṃ dhārayituṃ hṛdi_)!” Hearing that dread-seeming speech of the great-souled one (_ghora-saṅkāśaṃ vākyam_), he pondered in his mind the certainty of those words (_tasya vākyasya niścayam_).
 </details>
 </details>
 
@@ -287,7 +287,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let death be mine alone (ekasya maraṇaṃ me ’stu); let there not be universal destruction (mā bhūt sarva-vināśanam)!” Having thus determined with his intellect (buddhyā viniścitya), he announced him to Rāghava (rāghavāya nyavedayat).
+“Let death be mine alone (_ekasya maraṇaṃ me ’stu_); let there not be universal destruction (_mā bhūt sarva-vināśanam_)!” Having thus determined with his intellect (_buddhyā viniścitya_), he announced him to Rāghava (_rāghavāya nyavedayat_).
 </details>
 </details>
 
@@ -318,7 +318,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Lakṣmaṇa’s words (lakṣmaṇasya vacaḥ śrutvā), Rāma dismissed Time (kālaṃ visṛjya ca), and stepping forth hastily (nissṛtya tvaritam), the king beheld the son of Atri (atreḥ putraṃ dadarśa ha).
+Hearing Lakṣmaṇa’s words (_lakṣmaṇasya vacaḥ śrutvā_), Rāma dismissed Time (_kālaṃ visṛjya ca_), and stepping forth hastily (_nissṛtya tvaritam_), the king beheld the son of Atri (_atreḥ putraṃ dadarśa ha_).
 </details>
 </details>
 
@@ -349,7 +349,7 @@ Hearing Lakṣmaṇa’s words (lakṣmaṇasya vacaḥ śrutvā), Rāma dismiss
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having saluted that great-souled one blazing as it were with splendor (jvalantam iva tejasā), Kākutstha, joining his palms in reverence (kṛtāñjaliḥ), spoke: “What is to be done (kiṃ kāryam)?”
+Having saluted that great-souled one blazing as it were with splendor (_jvalantam iva tejasā_), Kākutstha, joining his palms in reverence (_kṛtāñjaliḥ_), spoke: “What is to be done (_kiṃ kāryam_)?”
 </details>
 </details>
 
@@ -380,7 +380,7 @@ Having saluted that great-souled one blazing as it were with splendor (jvalantam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktam), the best of sages, Durvāsas (munivaraḥ ... durvāsāḥ), replied to the lord Rāma (pratyāha ... prabhum): “Listen, O lover of dharma (śrūyatāṃ dharmavatsala)!”
+Hearing those words spoken by Rāghava (_tad vākyaṃ rāghaveṇoktam_), the best of sages, Durvāsas (_munivaraḥ ... durvāsāḥ_), replied to the lord Rāma (_pratyāha ... prabhum_): “Listen, O lover of dharma (_śrūyatāṃ dharmavatsala_)!”
 </details>
 </details>
 
@@ -419,7 +419,7 @@ Gladly feeding Durvāsas to break his thousand-year fast, Rāma sees the pleased
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today is the completion of my thousand-year austerity (adya varṣa-sahasrasya samāptis tapaso mama); therefore I desire a meal (so ’haṃ bhojanam icchāmi), whatever is ready at hand from you, O sinless one (yathāsiddhaṃ tavānagha)!”
+“Today is the completion of my thousand-year austerity (_adya varṣa-sahasrasya samāptis tapaso mama_); therefore I desire a meal (_so ’haṃ bhojanam icchāmi_), whatever is ready at hand from you, O sinless one (_yathāsiddhaṃ tavānagha_)!”
 </details>
 </details>
 
@@ -453,7 +453,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words, King Rāghava, pleased in mind (rājā rāghavaḥ prīta-mānasaḥ), offered to that foremost of sages (muni-mukhyāya) a meal just as it was prepared (yathāsiddham upāharat).
+Hearing those words, King Rāghava, pleased in mind (_rājā rāghavaḥ prīta-mānasaḥ_), offered to that foremost of sages (_muni-mukhyāya_) a meal just as it was prepared (_yathāsiddham upāharat_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ Hearing those words, King Rāghava, pleased in mind (rājā rāghavaḥ prīta-m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having eaten that nectar-like food (bhuktvā ... tad annam amṛtopamam), the best of sages addressed him with “Well done, Rāma!” (sādhu rāmeti sambhāṣya) and departed to his own hermitage (svam āśramam upāgamat).
+Having eaten that nectar-like food (_bhuktvā ... tad annam amṛtopamam_), the best of sages addressed him with “Well done, Rāma!” (_sādhu rāmeti sambhāṣya_) and departed to his own hermitage (_svam āśramam upāgamat_).
 </details>
 </details>
 
@@ -515,7 +515,7 @@ Having eaten that nectar-like food (bhuktvā ... tad annam amṛtopamam), the be
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that foremost of sages had gone to his own hermitage (tasmin gate munivare svāśramam), Lakṣmaṇa’s elder brother recalled the words of Time (saṃsmṛtya kāla-vākyāni) and thereupon fell into grief (tato duḥkham upāgamat).
+When that foremost of sages had gone to his own hermitage (_tasmin gate munivare svāśramam_), Lakṣmaṇa’s elder brother recalled the words of Time (_saṃsmṛtya kāla-vākyāni_) and thereupon fell into grief (_tato duḥkham upāgamat_).
 </details>
 </details>
 
@@ -546,7 +546,7 @@ When that foremost of sages had gone to his own hermitage (tasmin gate munivare 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeply scorched by sorrow (duḥkhena ca susantaptaḥ) as he remembered that dread decree (smṛtvā tad ghora-darśanam), downcast in face and dejected in mind (avāṅmukho dīna-manāḥ), he could not utter a word (vyāhartuṃ na śaśāka ha).
+Deeply scorched by sorrow (_duḥkhena ca susantaptaḥ_) as he remembered that dread decree (_smṛtvā tad ghora-darśanam_), downcast in face and dejected in mind (_avāṅmukho dīna-manāḥ_), he could not utter a word (_vyāhartuṃ na śaśāka ha_).
 </details>
 </details>
 
@@ -591,7 +591,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having thoroughly weighed the words of Time with his intellect (buddhyā viniścitya kāla-vākyāni), and concluding “This is no more” (naitad astīti niścitya), the greatly renowned Rāghava sat in silence (tūṣṇīm āsīn mahāyaśāḥ).
+Then, having thoroughly weighed the words of Time with his intellect (_buddhyā viniścitya kāla-vākyāni_), and concluding “This is no more” (_naitad astīti niścitya_), the greatly renowned Rāghava sat in silence (_tūṣṇīm āsīn mahāyaśāḥ_).
 </details>
 </details>
 

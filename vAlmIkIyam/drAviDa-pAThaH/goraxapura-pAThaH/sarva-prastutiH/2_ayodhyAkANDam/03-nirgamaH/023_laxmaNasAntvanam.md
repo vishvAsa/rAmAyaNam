@@ -85,7 +85,7 @@ midst of pain and pleasure effecting his mind again and again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāma spoke thus, Lakṣmaṇa, as if bowing his head (avākśirā iva) and reflecting, passed swiftly and suddenly into a state midway between dejection and joy (madhyaṃ ... dainyaharṣayoḥ).
+As Rāma spoke thus, Lakṣmaṇa, as if bowing his head (_avākśirā iva_) and reflecting, passed swiftly and suddenly into a state midway between dejection and joy (_madhyaṃ ... dainyaharṣayoḥ_).
 </details>
 </details>
 
@@ -140,7 +140,7 @@ from its hole.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then knitting a deep frown between his eyebrows, that bull among men hissed like an enraged great serpent in its hole (mahāsarpo bilastha iva roṣitaḥ).
+Then knitting a deep frown between his eyebrows, that bull among men hissed like an enraged great serpent in its hole (_mahāsarpo bilastha iva roṣitaḥ_).
 </details>
 </details>
 
@@ -194,7 +194,7 @@ an angry lion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its knitted brow, his face—hard then to gaze upon (duṣprativīkṣyam)—shone like the face of an infuriated lion.
+With its knitted brow, his face—hard then to gaze upon (_duṣprativīkṣyam_)—shone like the face of an infuriated lion.
 </details>
 </details>
 
@@ -255,7 +255,7 @@ direction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shaking his forearm (agrahastaṃ vidhunvan) as an elephant shakes its trunk, and tossing his neck (śirodharām) sideways and upwards upon his body,
+Shaking his forearm (_agrahastaṃ vidhunvan_) as an elephant shakes its trunk, and tossing his neck (_śirodharām_) sideways and upwards upon his body,
 </details>
 </details>
 
@@ -351,11 +351,11 @@ the sinful Kaikeyi and Dasaratha?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** glancing askance with the corner of his eye (agrākṣṇā vīkṣamāṇas tu tiryak), he spoke to his brother: “In you has arisen this vast agitation wholly out of place (asthāne sambhramo yasya jāto vai sumahān ayam)!”
+**5:** glancing askance with the corner of his eye (_agrākṣṇā vīkṣamāṇas tu tiryak_), he spoke to his brother: “In you has arisen this vast agitation wholly out of place (_asthāne sambhramo yasya jāto vai sumahān ayam_)!”
 
-**6:** “Out of fear of incurring a transgression of dharma (dharmadoṣaprasaṅgena) and to ward off the world's extreme suspicion (lokasyānatiśaṅkayā), how indeed can one like you—if unbewildered (asambhrāntaḥ)—utter such words?”
+**6:** “Out of fear of incurring a transgression of _dharma_ (_dharmadoṣaprasaṅgena_) and to ward off the world&#x27;s extreme suspicion (_lokasyānatiśaṅkayā_), how indeed can one like you—if unbewildered (_asambhrāntaḥ_)—utter such words?”
 
-**7:** “How is it that you, a proud and heroic bull among Kṣatriyas (śauṇḍīraḥ kṣatriyarṣabhaḥ), thus extol powerless and wretched Destiny (kṛpaṇaṃ daivam aśaktam) as though it were unassailable?”
+**7:** “How is it that you, a proud and heroic bull among Kṣatriyas (_śauṇḍīraḥ kṣatriyarṣabhaḥ_), thus extol powerless and wretched Destiny (_kṛpaṇaṃ daivam aśaktam_) as though it were unassailable?”
 </details>
 </details>
 
@@ -412,7 +412,7 @@ with selfish motive and by dishonest means. You are not knowing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How is it, O righteous-souled one, that you harbor no suspicion toward those two wicked ones (pāpayos te ... tayoḥ)? Why do you not perceive that there are persons devoted to deceit under the cloak of dharma (dharmopadhāsaktāḥ)?”
+“How is it, O righteous-souled one, that you harbor no suspicion toward those two wicked ones (_pāpayos te ... tayoḥ_)? Why do you not perceive that there are persons devoted to deceit under the cloak of _dharma_ (_dharmopadhāsaktāḥ_)?”
 </details>
 </details>
 
@@ -469,7 +469,7 @@ the boon must have been given naturally even long ago."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you not see the smooth-tongued plot of those two who seek by treachery (śāṭhyāt) to rob us of our rightful fortune? Had they not resolved upon this beforehand, O Rāghava, that boon would have been granted and mentioned long before your consecration was begun!”
+“Do you not see the smooth-tongued plot of those two who seek by treachery (_śāṭhyāt_) to rob us of our rightful fortune? Had they not resolved upon this beforehand, O Rāghava, that boon would have been granted and mentioned long before your consecration was begun!”
 </details>
 </details>
 
@@ -523,7 +523,7 @@ tolerate this act that is started. Excuse me in this matter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O hero, I cannot bear to endure the consecration of anyone other than you—an act begun in defiance of the whole world (lokavidviṣṭam ārabdham); pray forgive me for this!”
+“O hero, I cannot bear to endure the consecration of anyone other than you—an act begun in defiance of the whole world (_lokavidviṣṭam ārabdham_); pray forgive me for this!”
 </details>
 </details>
 
@@ -581,7 +581,7 @@ and by which indulgence, you are stupefied, is disliked by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even that dharma is hateful to me (so 'pi dharmo mama dveṣyaḥ), O great-minded one, through attachment to which you are deluded and your judgment has fallen into such division (āgatā dvaidham)!”
+“Even that _dharma_ is hateful to me (_so &#x27;pi dharmo mama dveṣyaḥ_), O great-minded one, through attachment to which you are deluded and your judgment has fallen into such division (_āgatā dvaidham_)!”
 </details>
 </details>
 
@@ -631,7 +631,7 @@ Kaikeyi?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When you are capable of counteracting it by heroic action (karmaṇā śaktaḥ), how will you carry out the most unrighteous and censured word of a father who is under Kaikeyī's sway?”
+“When you are capable of counteracting it by heroic action (_karmaṇā śaktaḥ_), how will you carry out the most unrighteous and censured word of a father who is under Kaikeyī&#x27;s sway?”
 </details>
 </details>
 
@@ -694,7 +694,7 @@ not grasping it. Such a conduct is to be censured."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That this rift (bhedaḥ), though wrought through deceitful sin (kilbiṣāt), is not perceived by you as such—therein lies my grief, and your attachment to such dharma is censured (dharmasaṅgaś ca garhitaḥ)!”
+“That this rift (_bhedaḥ_), though wrought through deceitful sin (_kilbiṣāt_), is not perceived by you as such—therein lies my grief, and your attachment to such _dharma_ is censured (_dharmasaṅgaś ca garhitaḥ_)!”
 </details>
 </details>
 
@@ -757,7 +757,7 @@ desire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This adherence of yours to dharma is condemned by all the people of this world; how could anyone other than you even think in his mind of fulfilling the desire of those two wanton, ever-hostile enemies who merely bear the name of parents (śatrvoḥ pitrabhidhānayoḥ)?”
+“This adherence of yours to _dharma_ is condemned by all the people of this world; how could anyone other than you even think in his mind of fulfilling the desire of those two wanton, ever-hostile enemies who merely bear the name of parents (_śatrvoḥ pitrabhidhānayoḥ_)?”
 </details>
 </details>
 
@@ -805,7 +805,7 @@ I do not like you to be indifferent to this also."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if it is your conviction (pratipattis te) that the resolve of those two is the work of Destiny (daivī), even so you ought to disregard it—for that does not please me either!”
+“Even if it is your conviction (_pratipattis te_) that the resolve of those two is the work of Destiny (_daivī_), even so you ought to disregard it—for that does not please me either!”
 </details>
 </details>
 
@@ -862,7 +862,7 @@ self-respect do not honour the destiny."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who is fainthearted and devoid of valor (viklavo vīryahīno yaḥ) follows Destiny; heroes of high self-regard (vīrāḥ sambhāvitātmānaḥ) do not bow down to Destiny (na daivaṃ paryupāsate)!”
+“He who is fainthearted and devoid of valor (_viklavo vīryahīno yaḥ_) follows Destiny; heroes of high self-regard (_vīrāḥ sambhāvitātmānaḥ_) do not bow down to Destiny (_na daivaṃ paryupāsate_)!”
 </details>
 </details>
 
@@ -916,7 +916,7 @@ regret in the sense of not being failed by destiny."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The man who is able to overwhelm Destiny by heroic human effort (daivaṃ puruṣakāreṇa yaḥ samarthaḥ prabādhitum) never sinks into despair even when his purpose is thwarted by Destiny!”
+“The man who is able to overwhelm Destiny by heroic human effort (_daivaṃ puruṣakāreṇa yaḥ samarthaḥ prabādhitum_) never sinks into despair even when his purpose is thwarted by Destiny!”
 </details>
 </details>
 
@@ -970,7 +970,7 @@ distinction between man and the destiny will be clearly perceived."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today people shall behold the power of Destiny and the manly might of a true man (pauruṣaṃ puruṣasya ca); today the true measure (vyaktiḥ) of both Destiny and human effort shall become manifest!”
+“Today people shall behold the power of Destiny and the manly might of a true man (_pauruṣaṃ puruṣasya ca_); today the true measure (_vyaktiḥ_) of both Destiny and human effort shall become manifest!”
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ prowess. Let all people see it!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today those very people who saw your royal consecration struck down by Destiny shall behold Destiny itself struck down by my manly valor (me pauruṣahataṃ daivam)!”
+“Today those very people who saw your royal consecration struck down by Destiny shall behold Destiny itself struck down by my manly valor (_me pauruṣahataṃ daivam_)!”
 </details>
 </details>
 
@@ -1090,7 +1090,7 @@ not caring a hook and which is fiercely running with violent force."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By my valor I shall turn back headlong Destiny, as one turns back an unbridled elephant furious with rut-fluid that has defied the goad (atyaṅkuśam ivoddāmaṃ gajam)!”
+“By my valor I shall turn back headlong Destiny, as one turns back an unbridled elephant furious with rut-fluid that has defied the goad (_atyaṅkuśam ivoddāmaṃ gajam_)!”
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ withhold Rama's coronation today. Why to talk about father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not all the guardians of the world (lokapālāḥ samastāḥ) combined, nor all the three worlds in their entirety, could thwart Rāma's consecration today—how much less our father!”
+“Not all the guardians of the world (_lokapālāḥ samastāḥ_) combined, nor all the three worlds in their entirety, could thwart Rāma&#x27;s consecration today—how much less our father!”
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ years, will have to reside in forest for fourteen years in that manner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those by whom your banishment to the forest was secretly plotted (mitho rājan samarthitaḥ), O king—they themselves shall dwell thus in the forest for fourteen years!”
+“Those by whom your banishment to the forest was secretly plotted (_mitho rājan samarthitaḥ_), O king—they themselves shall dwell thus in the forest for fourteen years!”
 </details>
 </details>
 
@@ -1257,7 +1257,7 @@ for kingdom to her son by creating obstacle to your coronation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall burn to ashes that hope (ahaṃ tadāśāṃ dhakṣyāmi) of your father and of her, which seeks the kingship for her son through the destruction of your consecration!”
+“I shall burn to ashes that hope (_ahaṃ tadāśāṃ dhakṣyāmi_) of your father and of her, which seeks the kingship for her son through the destruction of your consecration!”
 </details>
 </details>
 
@@ -1315,7 +1315,7 @@ prowess will create to those who are opposed to my strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Against anyone who opposes my might, the power of Destiny shall not avail to bring relief so much as my fierce valor shall prevail to inflict misery (prabhaviṣyati duḥkhāya)!”
+“Against anyone who opposes my might, the power of Destiny shall not avail to bring relief so much as my fierce valor shall prevail to inflict misery (_prabhaviṣyati duḥkhāya_)!”
 </details>
 </details>
 
@@ -1377,7 +1377,7 @@ forest, your sons will govern the kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only hereafter, at the end of a thousand years (varṣasahasrānte), when you retire to dwell in the forest, shall your noble sons (āryaputrāḥ) assume the protection of the subjects immediately after you!”
+“Only hereafter, at the end of a thousand years (_varṣasahasrānte_), when you retire to dwell in the forest, shall your noble sons (_āryaputrāḥ_) assume the protection of the subjects immediately after you!”
 </details>
 </details>
 
@@ -1431,7 +1431,7 @@ people, to be nourished as children, into the hands of their sons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For according to the custom of ancient royal sages (pūrvarājarṣivṛttyā), dwelling in the forest is enjoined only after entrusting the subjects to one's sons to be cherished like their own children!”
+“For according to the custom of ancient royal sages (_pūrvarājarṣivṛttyā_), dwelling in the forest is enjoined only after entrusting the subjects to one&#x27;s sons to be cherished like their own children!”
 </details>
 </details>
 
@@ -1464,7 +1464,7 @@ people, to be nourished as children, into the hands of their sons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And if, O righteous-souled Rāma, out of fear of disorder in the realm (rājyavibhramaśaṅkayā) because the king is of unsteady mind (rājany anekāgre), you do not wish the sovereignty for yourself in this manner—”
+“And if, O righteous-souled Rāma, out of fear of disorder in the realm (_rājyavibhramaśaṅkayā_) because the king is of unsteady mind (_rājany anekāgre_), you do not wish the sovereignty for yourself in this manner—”
 </details>
 </details>
 
@@ -1518,7 +1518,7 @@ world of heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I pledge to you, O hero—may I never attain the worlds of heroes (mā bhūvaṃ vīralokabhāk) if I fail!—that I myself shall guard your kingdom as the shoreline guards the ocean (veleva sāgaram)!”
+“I pledge to you, O hero—may I never attain the worlds of heroes (_mā bhūvaṃ vīralokabhāk_) if I fail!—that I myself shall guard your kingdom as the shoreline guards the ocean (_veleva sāgaram_)!”
 </details>
 </details>
 
@@ -1573,7 +1573,7 @@ competent to ward off the kings by force."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Have yourself consecrated with auspicious rites—be you busied with that alone (tatra tvaṃ vyāpṛto bhava)! I alone am able to ward off all the rulers of the earth by force!”
+“Have yourself consecrated with auspicious rites—be you busied with that alone (_tatra tvaṃ vyāpṛto bhava_)! I alone am able to ward off all the rulers of the earth by force!”
 </details>
 </details>
 
@@ -1632,7 +1632,7 @@ subduing enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These two arms of mine are not meant for mere beauty (na śobhārthāv imau bāhū), nor is my bow for ornament; my sword is not for merely tying at the waist (nāsir ābandhanārthāya), nor are my arrows meant as props (na śarāḥ stambhahetavaḥ)!”
+“These two arms of mine are not meant for mere beauty (_na śobhārthāv imau bāhū_), nor is my bow for ornament; my sword is not for merely tying at the waist (_nāsir ābandhanārthāya_), nor are my arrows meant as props (_na śarāḥ stambhahetavaḥ_)!”
 </details>
 </details>
 
@@ -1673,7 +1673,7 @@ Exalting his fourfold panoply of arms, bow, sword, and arrows, Lakṣmaṇa vows
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this fourfold panoply of mine (sarvam etac catuṣṭayam) exists for the crushing of enemies (amitramathanārthāya)! And I do not wish that anyone whom I account an enemy should long endure—”
+“All this fourfold panoply of mine (_sarvam etac catuṣṭayam_) exists for the crushing of enemies (_amitramathanārthāya_)! And I do not wish that anyone whom I account an enemy should long endure—”
 </details>
 </details>
 
@@ -1729,7 +1729,7 @@ elephants horses and men crushed, having been hit by my sword."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“with my sharp-edged sword flashing like lightning (vidyuccalitavarcasā) grasped in my hand, I reckon no one a match for me as a foe, not even Thunderbolt-wielding Indra himself (vajriṇaṃ vā na kalpaye)!”
+“with my sharp-edged sword flashing like lightning (_vidyuccalitavarcasā_) grasped in my hand, I reckon no one a match for me as a foe, not even Thunderbolt-wielding Indra himself (_vajriṇaṃ vā na kalpaye_)!”
 </details>
 </details>
 
@@ -1786,7 +1786,7 @@ mountains in blaze, like clouds, savidyutaH = with flashes of lightening.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thickly strewn and impassable (gahanā duścarā ca) shall the earth become with the trunks, thighs, and heads of elephants, horses, and charioteers crushed by the hacking blows of my sword (khaḍganiṣpeṣaniṣpiṣṭaiḥ)!”
+“Thickly strewn and impassable (_gahanā duścarā ca_) shall the earth become with the trunks, thighs, and heads of elephants, horses, and charioteers crushed by the hacking blows of my sword (_khaḍganiṣpeṣaniṣpiṣṭaiḥ_)!”
 </details>
 </details>
 
@@ -1840,7 +1840,7 @@ how any man will fancy himself a hero among men?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Struck down today by the edge of my sword, my enemies (dviṣaḥ) shall fall to the ground blazing like fires with streaming blood, or like thunderclouds flashing with lightning!”
+“Struck down today by the edge of my sword, my enemies (_dviṣaḥ_) shall fall to the ground blazing like fires with streaming blood, or like thunderclouds flashing with lightning!”
 </details>
 </details>
 
@@ -1894,7 +1894,7 @@ arrows at vitals of men, horses and elephants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While I stand here with my iguana-skin finger-guards bound fast (baddhagodhāṅgulitrāṇe) and my bow grasped in hand, how could any man among men boast of his manhood (kathaṃ puruṣamānī syāt)?”
+“While I stand here with my iguana-skin finger-guards bound fast (_baddhagodhāṅgulitrāṇe_) and my bow grasped in hand, how could any man among men boast of his manhood (_kathaṃ puruṣamānī syāt_)?”
 </details>
 </details>
 
@@ -1949,7 +1949,7 @@ sovereign and making Dasaratha devoid of power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Overwhelming one man with many arrows, and many men with a single arrow (bahubhiś caikam atyasyann ekena ca bahūñ janān), I shall drive my shafts deep into the vital organs of men, steeds, and elephants!”
+“Overwhelming one man with many arrows, and many men with a single arrow (_bahubhiś caikam atyasyann ekena ca bahūñ janān_), I shall drive my shafts deep into the vital organs of men, steeds, and elephants!”
 </details>
 </details>
 
@@ -2011,7 +2011,7 @@ Dasaratha and give the lordship to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today the fiery might of my mastery of missiles (me 'straprabhāvasya prabhāvaḥ) shall prevail to strip the king of his authority (rājñaś cāprabhutāṃ kartum) and establish your sovereignty, O lord!”
+“Today the fiery might of my mastery of missiles (_me &#x27;straprabhāvasya prabhāvaḥ_) shall prevail to strip the king of his authority (_rājñaś cāprabhutāṃ kartum_) and establish your sovereignty, O lord!”
 </details>
 </details>
 
@@ -2082,9 +2082,9 @@ want to obstruct your coronation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** “Today these two arms of mine—worthy of the finest sandal-paste (candanasārasya), of wearing royal armlets (keyūrāmokṣaṇasya), of lavishing wealth, and of protecting friends—”
+**38:** “Today these two arms of mine—worthy of the finest sandal-paste (_candanasārasya_), of wearing royal armlets (_keyūrāmokṣaṇasya_), of lavishing wealth, and of protecting friends—”
 
-**39:** “shall perform a deed befitting themselves (anurūpāv imau bāhū ... karma kariṣyataḥ), O Rāma, in beating back those who have wrought this obstruction to your consecration!”
+**39:** “shall perform a deed befitting themselves (_anurūpāv imau bāhū ... karma kariṣyataḥ_), O Rāma, in beating back those who have wrought this obstruction to your consecration!”
 </details>
 </details>
 
@@ -2145,7 +2145,7 @@ by me. Command me so that how this earth will become your dominion. I am your se
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Say the word! Which enemy of yours shall today be separated by me from his life, renown, and kinsmen? Command me so that this whole earth may be placed under your sway—I am your servant (tavāsmi kiṃkaraḥ)!”
+“Say the word! Which enemy of yours shall today be separated by me from his life, renown, and kinsmen? Command me so that this whole earth may be placed under your sway—I am your servant (_tavāsmi kiṃkaraḥ_)!”
 </details>
 </details>
 
@@ -2222,7 +2222,7 @@ his tears; "Oh, Lakshmana! I stand by the words of our father. This indeed is a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wiping away his tears (vimṛjya bāṣpam) and soothing Lakṣmaṇa again and again, that increaser of the race of Raghu spoke: “Know me to be firmly established in the word of our parents (pitror vacane vyavasthitam); for this, O gentle brother, is the path of the righteous (satpathaḥ)!”
+Wiping away his tears (_vimṛjya bāṣpam_) and soothing Lakṣmaṇa again and again, that increaser of the race of Raghu spoke: “Know me to be firmly established in the word of our parents (_pitror vacane vyavasthitam_); for this, O gentle brother, is the path of the righteous (_satpathaḥ_)!”
 </details>
 </details>
 

@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night had broken into dawn (tasyāṃ rajanyāṃ vyuṣṭāyām), the king, greatly resplendent Rāghava (mahātejāḥ ... rāghavaḥ), having gone to the sacrificial enclosure (yajñavāṭa-gataḥ), summoned all the sages (ṛṣīn sarvān ... śabdāpayati).
+When that night had broken into dawn (_tasyāṃ rajanyāṃ vyuṣṭāyām_), the king, greatly resplendent Rāghava (_mahātejāḥ ... rāghavaḥ_), having gone to the sacrificial enclosure (_yajñavāṭa-gataḥ_), summoned all the sages (_ṛṣīn sarvān ... śabdāpayati_).
 </details>
 </details>
 
@@ -109,15 +109,15 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Vasiṣṭha and Vāmadeva, Jābāli and Kāśyapa, Viśvāmitra of long austerity (dīrghatapāḥ), and Durvāsas of mighty austerity (mahātapāḥ),
+**2:** Vasiṣṭha and Vāmadeva, Jābāli and Kāśyapa, Viśvāmitra of long austerity (_dīrghatapāḥ_), and Durvāsas of mighty austerity (_mahātapāḥ_),
 
-**3:** Pulastya too, and likewise Śakti, Bhārgava, and Vāmana, long-lived Mārkaṇḍeya (mārkaṇḍeyaś ca dīrghāyuḥ), and Maudgalya of great renown (mahāyaśāḥ),
+**3:** Pulastya too, and likewise Śakti, Bhārgava, and Vāmana, long-lived Mārkaṇḍeya (_mārkaṇḍeyaś ca dīrghāyuḥ_), and Maudgalya of great renown (_mahāyaśāḥ_),
 
-**4:** Garga and Cyavana, Śatānanda, knower of dharma (dharmavit), the radiant Bharadvāja (bharadvājaś ca tejasvī), and Suprabha, son of Agni (agniputraś ca suprabhaḥ),
+**4:** Garga and Cyavana, Śatānanda, knower of dharma (_dharmavit_), the radiant Bharadvāja (_bharadvājaś ca tejasvī_), and Suprabha, son of Agni (_agniputraś ca suprabhaḥ_),
 
-**5:** Nārada and Parvata, Gautama of great renown, Kātyāyana and Suyajña, and Agastya, treasure-house of austerities (agastyas tapasāṃ nidhiḥ)—
+**5:** Nārada and Parvata, Gautama of great renown, Kātyāyana and Suyajña, and Agastya, treasure-house of austerities (_agastyas tapasāṃ nidhiḥ_)—
 
-**6:** these and many other sages of sharpened vows (munayaḥ saṃśitavratāḥ), filled with eager wonder (kautūhala-samāviṣṭāḥ), assembled there, every one of them (sarva eva samāgatāḥ).
+**6:** these and many other sages of sharpened vows (_munayaḥ saṃśitavratāḥ_), filled with eager wonder (_kautūhala-samāviṣṭāḥ_), assembled there, every one of them (_sarva eva samāgatāḥ_).
 </details>
 </details>
 
@@ -156,7 +156,7 @@ Rākṣasas, vānaras, and thousands from every social order and spiritual path 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rākṣasas of mighty prowess (mahāvīryāḥ) and vānaras of great strength (mahābalāḥ)—all those great-souled ones (mahātmānaḥ) likewise came together out of wonder (kutūhalāt).
+Rākṣasas of mighty prowess (_mahāvīryāḥ_) and vānaras of great strength (_mahābalāḥ_)—all those great-souled ones (_mahātmānaḥ_) likewise came together out of wonder (_kutūhalāt_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ Rākṣasas of mighty prowess (mahāvīryāḥ) and vānaras of great strength (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kṣatriyas, śūdras, and vaiśyas by the thousands (sahasraśaḥ), together with brahmins of sharpened vows (brāhmaṇāḥ saṃśitavratāḥ) arrived from diverse lands (nānādeśa-gatāḥ),
+Kṣatriyas, śūdras, and vaiśyas by the thousands (_sahasraśaḥ_), together with brahmins of sharpened vows (_brāhmaṇāḥ saṃśitavratāḥ_) arrived from diverse lands (_nānādeśa-gatāḥ_),
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and others steadfast in knowledge, steadfast in ritual action, and steadfast in yoga (jñānaniṣṭhāḥ karmaniṣṭhāḥ yoganiṣṭhās tathāpare)—all of them assembled to behold Sītā’s oath (sītā-śapatha-vīkṣārtham).
+and others steadfast in knowledge, steadfast in ritual action, and steadfast in yoga (_jñānaniṣṭhāḥ karmaniṣṭhāḥ yoganiṣṭhās tathāpare_)—all of them assembled to behold Sītā’s oath (_sītā-śapatha-vīkṣārtham_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ and others steadfast in knowledge, steadfast in ritual action, and steadfast in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that the entire gathering stood as motionless as stone (aśmabhūtam ivācalam), the foremost of sages [Vālmīki] swiftly approached (tūrṇaṃ ... samupāgamat), accompanied by Sītā (sasītaḥ).
+Hearing that the entire gathering stood as motionless as stone (_aśmabhūtam ivācalam_), the foremost of sages [Vālmīki] swiftly approached (_tūrṇaṃ ... samupāgamat_), accompanied by Sītā (_sasītaḥ_).
 </details>
 </details>
 
@@ -283,7 +283,7 @@ Hearing that the entire gathering stood as motionless as stone (aśmabhūtam iv�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behind that sage (tam ṛṣiṃ pṛṣṭhataḥ) walked Sītā with downcast face (avāṅmukhī), palms joined (kṛtāñjaliḥ), her throat choked with tears (bāṣpagalā), holding Rāma fixed in her heart (kṛtvā rāmaṃ manogatam).
+Behind that sage (_tam ṛṣiṃ pṛṣṭhataḥ_) walked Sītā with downcast face (_avāṅmukhī_), palms joined (_kṛtāñjaliḥ_), her throat choked with tears (_bāṣpagalā_), holding Rāma fixed in her heart (_kṛtvā rāmaṃ manogatam_).
 </details>
 </details>
 
@@ -314,7 +314,7 @@ Behind that sage (tam ṛṣiṃ pṛṣṭhataḥ) walked Sītā with downcast 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sītā approaching behind Vālmīki like Śruti following Brahmā (śrutim ivāyāntīṃ brahmāṇam anugāminīm), a mighty cry of praise arose (sādhuvādo mahān abhūt).
+Beholding Sītā approaching behind Vālmīki like Śruti following Brahmā (_śrutim ivāyāntīṃ brahmāṇam anugāminīm_), a mighty cry of praise arose (_sādhuvādo mahān abhūt_).
 </details>
 </details>
 
@@ -353,7 +353,7 @@ Amid a vast wave of sorrowful commotion and cries acclaiming Rāma, Sītā, or b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a murmur of commotion (halahalā-śabdaḥ) broke forth in this manner from all of them, their hearts agitated by a vast sorrow born of grief (duḥkha-janma-viśālena śokenākulitātmanām).
+Then a murmur of commotion (_halahalā-śabdaḥ_) broke forth in this manner from all of them, their hearts agitated by a vast sorrow born of grief (_duḥkha-janma-viśālena śokenākulitātmanām_).
 </details>
 </details>
 
@@ -384,7 +384,7 @@ Then a murmur of commotion (halahalā-śabdaḥ) broke forth in this manner from
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Well done, Rāma!” cried some; “Well done, Sītā!” cried others; and still other onlookers acclaimed both of them alike (ubhāv eva ca tatrānye prekṣakāḥ sampracukruśuḥ).
+“Well done, Rāma!” cried some; “Well done, Sītā!” cried others; and still other onlookers acclaimed both of them alike (_ubhāv eva ca tatrānye prekṣakāḥ sampracukruśuḥ_).
 </details>
 </details>
 
@@ -415,7 +415,7 @@ Then a murmur of commotion (halahalā-śabdaḥ) broke forth in this manner from
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, entering the midst of the multitude (madhye janaughasya praviśya), that bull among sages, Vālmīki, with Sītā at his side (sītā-sahāyaḥ), spoke thus to Rāghava:
+Then, entering the midst of the multitude (_madhye janaughasya praviśya_), that bull among sages, Vālmīki, with Sītā at his side (_sītā-sahāyaḥ_), spoke thus to Rāghava:
 </details>
 </details>
 
@@ -446,7 +446,7 @@ Then, entering the midst of the multitude (madhye janaughasya praviśya), that b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O son of Daśaratha, this Sītā of noble vows, walker in dharma (suvratā dharmacāriṇī), was abandoned near my hermitage (mamāśrama-samīpataḥ) on account of slanders (apavādaiḥ).
+“O son of Daśaratha, this Sītā of noble vows, walker in dharma (_suvratā dharmacāriṇī_), was abandoned near my hermitage (_mamāśrama-samīpataḥ_) on account of slanders (_apavādaiḥ_).
 </details>
 </details>
 
@@ -477,7 +477,7 @@ Then, entering the midst of the multitude (madhye janaughasya praviśya), that b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To you, O Rāma of great vows, who dread public calumny (lokāpavāda-bhītasya), Sītā will now give proof (pratyayaṃ dāsyate); you ought to grant leave for this (tad anujñātum arhasi).
+“To you, O Rāma of great vows, who dread public calumny (_lokāpavāda-bhītasya_), Sītā will now give proof (_pratyayaṃ dāsyate_); you ought to grant leave for this (_tad anujñātum arhasi_).
 </details>
 </details>
 
@@ -508,7 +508,7 @@ Then, entering the midst of the multitude (madhye janaughasya praviśya), that b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And these two sons of Jānakī, both twin-born (ubhau ca yamajātakau), are indeed your own invincible sons (sutau tavaiva durdharṣau)—this truth I declare to you (satyam etad bravīmi te).”
+“And these two sons of Jānakī, both twin-born (_ubhau ca yamajātakau_), are indeed your own invincible sons (_sutau tavaiva durdharṣau_)—this truth I declare to you (_satyam etad bravīmi te_).”
 </details>
 </details>
 
@@ -550,7 +550,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the tenth son of Pracetas (pracetaso ’haṃ daśamaḥ putraḥ), O delight of the Raghus; I do not recall ever speaking a false word (na smarāmy anṛtaṃ vākyam)—these two are indeed your sons (imau tu tava putrakau).
+“I am the tenth son of Pracetas (_pracetaso ’haṃ daśamaḥ putraḥ_), O delight of the Raghus; I do not recall ever speaking a false word (_na smarāmy anṛtaṃ vākyam_)—these two are indeed your sons (_imau tu tava putrakau_).
 </details>
 </details>
 
@@ -584,7 +584,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For many thousands of years I have practiced austerity (bahu-varṣa-sahasrāṇi tapaścaryā mayā kṛtā); may I never enjoy the fruit thereof (nopāśnīyāṃ phalaṃ tasyāḥ) if this Maithilī be tainted (duṣṭeyaṃ yadi maithilī).
+“For many thousands of years I have practiced austerity (_bahu-varṣa-sahasrāṇi tapaścaryā mayā kṛtā_); may I never enjoy the fruit thereof (_nopāśnīyāṃ phalaṃ tasyāḥ_) if this Maithilī be tainted (_duṣṭeyaṃ yadi maithilī_).
 </details>
 </details>
 
@@ -618,7 +618,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never before has any transgression occurred in my thought, deed, or word (manasā karmaṇā vācā bhūtapūrvaṃ na kilbiṣam); may I enjoy the fruit of that [sinlessness] if Maithilī is guiltless (apāpā maithilī yadi).
+“Never before has any transgression occurred in my thought, deed, or word (_manasā karmaṇā vācā bhūtapūrvaṃ na kilbiṣam_); may I enjoy the fruit of that [sinlessness] if Maithilī is guiltless (_apāpā maithilī yadi_).
 </details>
 </details>
 
@@ -649,7 +649,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having pondered through the five senses with the mind as the sixth (pañcasu bhūteṣu manaṣṣaṣṭheṣu), O Rāghava, that Sītā is pure, I took her in beside the forest stream (jagrāha vananirjhare).
+“Having pondered through the five senses with the mind as the sixth (_pañcasu bhūteṣu manaṣṣaṣṭheṣu_), O Rāghava, that Sītā is pure, I took her in beside the forest stream (_jagrāha vananirjhare_).
 </details>
 </details>
 
@@ -680,7 +680,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She, of spotless conduct, sinless, devoted to her husband as her deity (śuddha-samācārā apāpā patidevatā), will now give proof to you who dread public calumny (pratyayaṃ tava dāsyati).
+“She, of spotless conduct, sinless, devoted to her husband as her deity (_śuddha-samācārā apāpā patidevatā_), will now give proof to you who dread public calumny (_pratyayaṃ tava dāsyati_).
 </details>
 </details>
 
@@ -726,6 +726,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O son of the foremost of men, this pure-hearted one (śuddhabhāvā) was then taken in by me through the sphere of divine vision (divyena dṛṣṭiviṣayeṇa tadā praviṣṭā)—your dearest one, whom you abandoned with a mind troubled by public censure (lokāpavāda-kaluṣīkṛta-cetasā), even though you knew her to be pure (viditā ’pi śuddhā).”
+“Therefore, O son of the foremost of men, this pure-hearted one (_śuddhabhāvā_) was then taken in by me through the sphere of divine vision (_divyena dṛṣṭiviṣayeṇa tadā praviṣṭā_)—your dearest one, whom you abandoned with a mind troubled by public censure (_lokāpavāda-kaluṣīkṛta-cetasā_), even though you knew her to be pure (_viditā ’pi śuddhā_).”
 </details>
 </details>

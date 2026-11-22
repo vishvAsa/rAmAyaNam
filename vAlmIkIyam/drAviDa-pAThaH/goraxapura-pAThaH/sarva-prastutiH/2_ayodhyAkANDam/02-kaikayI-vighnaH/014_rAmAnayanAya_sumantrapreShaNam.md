@@ -81,7 +81,7 @@ for his son and who was unconscious, tossing about on the floor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Ikṣvāku’s descendant (aikṣvākam) afflicted with grief for his son (putraśokārditam), unconscious, fallen upon the ground, and writhing convulsively (viceṣṭamānam), that sinful woman (pāpā) spoke this word:
+Seeing Ikṣvāku’s descendant (_aikṣvākam_) afflicted with grief for his son (_putraśokārditam_), unconscious, fallen upon the ground, and writhing convulsively (_viceṣṭamānam_), that sinful woman (_pāpā_) spoke this word:
 </details>
 </details>
 
@@ -135,7 +135,7 @@ ethics".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having solemnly promised my boon (mama saṃśrutya saṃśravam), why do you lie prostrate upon the floor (śeṣe kṣititale sannaḥ) as though you had committed a sin (pāpaṃ kṛtveva)? It behooves you to stand firm in the moral bound of truth (sthityāṃ sthātum).
+“Having solemnly promised my boon (_mama saṃśrutya saṃśravam_), why do you lie prostrate upon the floor (_śeṣe kṣititale sannaḥ_) as though you had committed a sin (_pāpaṃ kṛtveva_)? It behooves you to stand firm in the moral bound of truth (_sthityāṃ sthātum_).
 </details>
 </details>
 
@@ -188,7 +188,7 @@ too have taken refuge in truth and made you aware of your duty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowers of righteousness declare truth to be the supreme dharma (satyaṃ hi paramaṃ dharmam), and taking my stand upon truth (satyam āśritya), I have urged you toward righteousness (dharmaṃ praticoditaḥ).
+Knowers of righteousness declare truth to be the supreme _dharma_ (_satyaṃ hi paramaṃ dharmam_), and taking my stand upon truth (_satyam āśritya_), I have urged you toward righteousness (_dharmaṃ praticoditaḥ_).
 </details>
 </details>
 
@@ -240,7 +240,7 @@ Saibya, the ruler of world obtained the greatest destiny".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having promised his own body to the hawk (śyenāya svāṃ tanum), King Śaibya, lord of the earth, gave his flesh to the bird (pradāya pakṣiṇe) and attained the supreme state (jagāma gatim uttamām).
+Having promised his own body to the hawk (_śyenāya svāṃ tanum_), King Śaibya, lord of the earth, gave his flesh to the bird (_pradāya pakṣiṇe_) and attained the supreme state (_jagāma gatim uttamām_).
 </details>
 </details>
 
@@ -296,7 +296,7 @@ remorselessly, to a brahmana skilled in the Veda, When asked for them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So too the radiant Alarka (alarkas tejasvī), when a Brāhmaṇa learned in the Vedas begged of him (yācamāne), plucked out his own two eyes (svake netre uddhṛtya) with an untroubled mind (avimanā) and gave them away.
+So too the radiant Alarka (_alarkas tejasvī_), when a Brāhmaṇa learned in the Vedas begged of him (_yācamāne_), plucked out his own two eyes (_svake netre uddhṛtya_) with an untroubled mind (_avimanā_) and gave them away.
 </details>
 </details>
 
@@ -349,7 +349,7 @@ not transgress even to a small extent its boundary because of its compliance to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound by truth (satyam anvitaḥ), the lord of rivers (saritāṃ tu patiḥ), out of regard for his pledge (satyānurodhāt), never oversteps his own shore (velāṃ svāṃ nātivartate) even at the appointed tide (samaye), though that boundary is slight (svalpāṃ maryādām).
+Bound by truth (_satyam anvitaḥ_), the lord of rivers (_saritāṃ tu patiḥ_), out of regard for his pledge (_satyānurodhāt_), never oversteps his own shore (_velāṃ svāṃ nātivartate_) even at the appointed tide (_samaye_), though that boundary is slight (_svalpāṃ maryādām_).
 </details>
 </details>
 
@@ -413,7 +413,7 @@ indeed is the knowledge imperishable. By truth alone, the supreme being is obtai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truth is the one-word Brahman (satyam ekapadaṃ brahma); in truth is righteousness established (satye dharmaḥ pratiṣṭhitaḥ); truth alone is the imperishable Vedas (akṣayā vedāḥ); through truth the Supreme is attained (satyenāvāpyate param).
+Truth is the one-word Brahman (_satyam ekapadaṃ brahma_); in truth is righteousness established (_satye dharmaḥ pratiṣṭhitaḥ_); truth alone is the imperishable Vedas (_akṣayā vedāḥ_); through truth the Supreme is attained (_satyenāvāpyate param_).
 </details>
 </details>
 
@@ -468,7 +468,7 @@ you are a bestower of boons, let my aforesaid prayer be granted.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cleave unto truth (satyaṃ samanuvartasva), if your mind is fixed on dharma! Let that boon of mine bear fruit (sa varaḥ saphalo me 'stu), O best of men, for you are a giver of boons (varado hy asi).
+Cleave unto truth (_satyaṃ samanuvartasva_), if your mind is fixed on _dharma_! Let that boon of mine bear fruit (_sa varaḥ saphalo me &#x27;stu_), O best of men, for you are a giver of boons (_varado hy asi_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ son to exile. I am telling to you three times".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of desire for dharma alone (dharmasyaivābhikāmārtham) and at my insistent urging (mama caivābhicodanāt), banish your son Rāma (pravrājaya sutaṃ rāmam)—thrice indeed do I declare this unto you (triḥ khalu tvāṃ bravīmy aham)!
+Out of desire for _dharma_ alone (_dharmasyaivābhikāmārtham_) and at my insistent urging (_mama caivābhicodanāt_), banish your son Rāma (_pravrājaya sutaṃ rāmam_)—thrice indeed do I declare this unto you (_triḥ khalu tvāṃ bravīmy aham_)!
 </details>
 </details>
 
@@ -573,7 +573,7 @@ abandoned me. Hence I will give up my life here in front of you".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And if, O noble lord (ārya), you do not fulfill this compact of mine (samayaṃ ca mamemaṃ), then, spurned by you (parityaktā), I shall abandon my life right before your eyes (agratas te parityakṣyāmi jīvitam)!”
+And if, O noble lord (_ārya_), you do not fulfill this compact of mine (_samayaṃ ca mamemaṃ_), then, spurned by you (_parityaktā_), I shall abandon my life right before your eyes (_agratas te parityakṣyāmi jīvitam_)!”
 </details>
 </details>
 
@@ -627,7 +627,7 @@ sovereignty of the three worlds).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus goaded by relentless Kaikeyī (kaikeyyā nirviśaṅkayā), the king could no more cast off the noose of his pledge (nāśakat pāśam unmoktum) than Bali could the fetter forged by Indra (balir indrakṛtaṃ yathā).
+Thus goaded by relentless Kaikeyī (_kaikeyyā nirviśaṅkayā_), the king could no more cast off the noose of his pledge (_nāśakat pāśam unmoktum_) than Bali could the fetter forged by Indra (_balir indrakṛtaṃ yathā_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ heart and became pale in his face.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his heart bewildered (udbhrāntahṛdayaś cāpi), he grew pale of face (vivarṇavadano 'bhavat), trembling like a draught-ox (sa dhuryo vai parispandan) caught between the yoke and the wheel (yugacakrāntaraṃ yathā).
+With his heart bewildered (_udbhrāntahṛdayaś cāpi_), he grew pale of face (_vivarṇavadano &#x27;bhavat_), trembling like a draught-ox (_sa dhuryo vai parispandan_) caught between the yoke and the wheel (_yugacakrāntaraṃ yathā_).
 </details>
 </details>
 
@@ -745,7 +745,7 @@ difficulty, he controlled himself by recourse to firmness and spoke to Kaikeyi a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking out as though sightless with his distraught eyes (vikalābhyāṃ ca netrābhyām), the lord of the earth steadied himself with fortitude by a great effort (kṛcchrād dhairyeṇa saṃstabhya) and spoke this to Kaikeyī:
+Looking out as though sightless with his distraught eyes (_vikalābhyāṃ ca netrābhyām_), the lord of the earth steadied himself with fortitude by a great effort (_kṛcchrād dhairyeṇa saṃstabhya_) and spoke this to Kaikeyī:
 </details>
 </details>
 
@@ -799,7 +799,7 @@ with yourself".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That hand of yours consecrated with Vedic mantras (mantrakṛtaḥ pāṇiḥ) which I clasped before the sacred fire, O sinful woman (pāpe)—I renounce it, together with you yourself and your son (tava putraṃ saha tvayā) begotten by me (svajam)!
+“That hand of yours consecrated with Vedic mantras (_mantrakṛtaḥ pāṇiḥ_) which I clasped before the sacred fire, O sinful woman (_pāpe_)—I renounce it, together with you yourself and your son (_tava putraṃ saha tvayā_) begotten by me (_svajam_)!
 </details>
 </details>
 
@@ -855,7 +855,7 @@ purpose".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The night has passed away, O queen (prayātā rajanī devi), toward the rising of the sun (sūryasyodayanaṃ prati); surely the elders and people will press me now for the consecration (abhiṣekāya hi janas tvarayiṣyati māṃ dhruvam).
+The night has passed away, O queen (_prayātā rajanī devi_), toward the rising of the sun (_sūryasyodayanaṃ prati_); surely the elders and people will press me now for the consecration (_abhiṣekāya hi janas tvarayiṣyati māṃ dhruvam_).
 </details>
 </details>
 
@@ -888,7 +888,7 @@ The night has passed away, O queen (prayātā rajanī devi), toward the rising o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the very articles prepared for Rāma’s consecration (rāmābhiṣekasambhāraiḥ), Rāma shall be made to perform the funerary water-rites for me when I am dead (mṛtasya salilakriyām)!
+With the very articles prepared for Rāma’s consecration (_rāmābhiṣekasambhāraiḥ_), Rāma shall be made to perform the funerary water-rites for me when I am dead (_mṛtasya salilakriyām_)!
 </details>
 </details>
 
@@ -959,9 +959,9 @@ ended, without any merriment and having their faces turned downward in grief".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** If, O woman of evil conduct (aśubhācāre), you obstruct Rāma’s consecration (vyāhantāsi yadi rāmābhiṣecanam), never shall the funerary water-offering (salilakriyā) be performed for me by you together with your son (saputrayā tvayā)!
+**17:** If, O woman of evil conduct (_aśubhācāre_), you obstruct Rāma’s consecration (_vyāhantāsi yadi rāmābhiṣecanam_), never shall the funerary water-offering (_salilakriyā_) be performed for me by you together with your son (_saputrayā tvayā_)!
 
-**18:** Having earlier beheld the populace with faces so radiant (pūrvaṃ tathāmukham), I am unable today (na śakto 'dyāsmy ahaṃ draṣṭum) to look upon the people again with their joy shattered (hataharṣam), stripped of bliss, and their faces cast down (avāṅmukham)!”
+**18:** Having earlier beheld the populace with faces so radiant (_pūrvaṃ tathāmukham_), I am unable today (_na śakto &#x27;dyāsmy ahaṃ draṣṭum_) to look upon the people again with their joy shattered (_hataharṣam_), stripped of bliss, and their faces cast down (_avāṅmukham_)!”
 </details>
 </details>
 
@@ -1021,7 +1021,7 @@ endowed with, moon and stars began to become clear into a dawn.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as that high-souled lord of the earth was speaking thus unto her (tāṃ tathā bruvatas tasya), the holy night (śarvarī puṇyā), garlanded with moon and stars (candranakṣatramālinī), brightened into dawn (prabhātā).
+Even as that high-souled lord of the earth was speaking thus unto her (_tāṃ tathā bruvatas tasya_), the holy night (_śarvarī puṇyā_), garlanded with moon and stars (_candranakṣatramālinī_), brightened into dawn (_prabhātā_).
 </details>
 </details>
 
@@ -1076,7 +1076,7 @@ harsh words to the king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kaikeyī of sinful conduct (pāpasamācārā), skilled in speech (vākyajñā) yet convulsed with wrath (roṣamūrcchitā), once more spoke a harsh word (paruṣaṃ vākyam) to the monarch:
+Then Kaikeyī of sinful conduct (_pāpasamācārā_), skilled in speech (_vākyajñā_) yet convulsed with wrath (_roṣamūrcchitā_), once more spoke a harsh word (_paruṣaṃ vākyam_) to the monarch:
 </details>
 </details>
 
@@ -1155,9 +1155,9 @@ making Rama to wander in woods and rid me of enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “Why do you utter such speech, O king, resembling the torment of poison (gararujopamam)? It behooves you to summon hither without delay your unblemished son Rāma (akliṣṭaṃ putraṃ rāmam).
+**21:** “Why do you utter such speech, O king, resembling the torment of poison (_gararujopamam_)? It behooves you to summon hither without delay your unblemished son Rāma (_akliṣṭaṃ putraṃ rāmam_).
 
-**22:** Having established my son in the sovereignty (sthāpya rājye mama sutam), made Rāma a forest-dweller (vanecaram), and rendered me free of a rival’s threat (niḥsapatnāṃ ca māṃ kṛtvā), you shall have fulfilled your duty (kṛtakṛtyo bhaviṣyasi)!”
+**22:** Having established my son in the sovereignty (_sthāpya rājye mama sutam_), made Rāma a forest-dweller (_vanecaram_), and rendered me free of a rival’s threat (_niḥsapatnāṃ ca māṃ kṛtvā_), you shall have fulfilled your duty (_kṛtakṛtyo bhaviṣyasi_)!”
 </details>
 </details>
 
@@ -1212,7 +1212,7 @@ with a whip, that king spoke these words to Kaikeyi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a noble steed (hayottamaḥ) pierced by a sharp goad (tunna iva tīkṣṇena pratodena), the king, repeatedly urged on by Kaikeyī (pracodito 'bhīkṣṇam), spoke this word:
+Like a noble steed (_hayottamaḥ_) pierced by a sharp goad (_tunna iva tīkṣṇena pratodena_), the king, repeatedly urged on by Kaikeyī (_pracodito &#x27;bhīkṣṇam_), spoke this word:
 </details>
 </details>
 
@@ -1265,7 +1265,7 @@ Rama, my beloved elder son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am bound fast by the bond of dharma (dharmabandhena baddho 'smi), and my judgment has perished (naṣṭā ca mama cetanā). I wish only to behold my beloved, righteous eldest son Rāma (jyeṣṭhaṃ putraṃ priyaṃ rāmam).”
+“I am bound fast by the bond of _dharma_ (_dharmabandhena baddho &#x27;smi_), and my judgment has perished (_naṣṭā ca mama cetanā_). I wish only to behold my beloved, righteous eldest son Rāma (_jyeṣṭhaṃ putraṃ priyaṃ rāmam_).”
 </details>
 </details>
 
@@ -1342,9 +1342,9 @@ requisite materials for Rama's coronation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Then, when night had dawned (prabhātāṃ rajanīm), the sun had risen (udite ca divākare), and the auspicious lunar conjunction and appointed hour had arrived (puṇye nakṣatrayoge ca muhūrte ca samāgate)—
+**25:** Then, when night had dawned (_prabhātāṃ rajanīm_), the sun had risen (_udite ca divākare_), and the auspicious lunar conjunction and appointed hour had arrived (_puṇye nakṣatrayoge ca muhūrte ca samāgate_)—
 
-**26:** Vasiṣṭha, endowed with every virtue (guṇasampannaḥ) and surrounded by his disciples (śiṣyaiḥ parivṛtaḥ), swiftly took up the consecration articles (upagṛhyāśu sambhārān) and entered the supreme city (praviveśa purottamam)—
+**26:** Vasiṣṭha, endowed with every virtue (_guṇasampannaḥ_) and surrounded by his disciples (_śiṣyaiḥ parivṛtaḥ_), swiftly took up the consecration articles (_upagṛhyāśu sambhārān_) and entered the supreme city (_praviveśa purottamam_)—
 </details>
 </details>
 
@@ -1375,7 +1375,7 @@ requisite materials for Rama's coronation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-whose avenues were sprinkled and swept clean (siktasammārjitapathām), adorned with the finest banners (patākottamabhūṣitām), filled with joyous citizens (saṃhṛṣṭamanujopetām), and thronging with prosperous stalls and marketplaces (samṛddhavipaṇāpaṇām);
+whose avenues were sprinkled and swept clean (_siktasammārjitapathām_), adorned with the finest banners (_patākottamabhūṣitām_), filled with joyous citizens (_saṃhṛṣṭamanujopetām_), and thronging with prosperous stalls and marketplaces (_samṛddhavipaṇāpaṇām_);
 </details>
 </details>
 
@@ -1409,7 +1409,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-alive with a grand festival (mahotsavasamāyuktām), eagerly expectant on Rāghava’s account (rāghavārthe samutsukām), and fragrant on every side with the incense of sandalwood and aguru (candanāgurudhūpaiś ca sarvataḥ paridhūmitām).
+alive with a grand festival (_mahotsavasamāyuktām_), eagerly expectant on Rāghava’s account (_rāghavārthe samutsukām_), and fragrant on every side with the incense of sandalwood and _aguru_ (_candanāgurudhūpaiś ca sarvataḥ paridhūmitām_).
 </details>
 </details>
 
@@ -1440,7 +1440,7 @@ alive with a grand festival (mahotsavasamāyuktām), eagerly expectant on Rāgha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing through that city which rivaled the capital of Purandara (puraṃdarapuropamām), the glorious sage beheld the inner palace precinct (antaḥpuram), decked with multitudes of varied standards (nānādhvajagaṇāyutam)—
+Passing through that city which rivaled the capital of Purandara (_puraṃdarapuropamām_), the glorious sage beheld the inner palace precinct (_antaḥpuram_), decked with multitudes of varied standards (_nānādhvajagaṇāyutam_)—
 </details>
 </details>
 
@@ -1502,7 +1502,7 @@ brahmanas, knowers of sacrificial assembly filled with excellent brahmanas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-thronged with townsmen and country-folk (paurajānapadākīrṇam), graced by Brāhmaṇas bearing bamboo staffs (yaṣṭimadbhiḥ), and filled with sacrificial assessors—or noble steeds (sadaśvaiḥ)—supremely honored (paramārcitaiḥ).
+thronged with townsmen and country-folk (_paurajānapadākīrṇam_), graced by Brāhmaṇas bearing bamboo staffs (_yaṣṭimadbhiḥ_), and filled with sacrificial assessors—or noble steeds (_sadaśvaiḥ_)—supremely honored (_paramārcitaiḥ_).
 </details>
 </details>
 
@@ -1562,7 +1562,7 @@ there and , entered it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching that inner palace precinct (tad antaḥpuram āsādya), Vasiṣṭha, supremely pleased (paramaprītaḥ) and surrounded by great sages (paramarṣibhir āvṛtaḥ), passed through that crowd of people (vyaticakrāma taṃ janam).
+Reaching that inner palace precinct (_tad antaḥpuram āsādya_), Vasiṣṭha, supremely pleased (_paramaprītaḥ_) and surrounded by great sages (_paramarṣibhir āvṛtaḥ_), passed through that crowd of people (_vyaticakrāma taṃ janam_).
 </details>
 </details>
 
@@ -1615,7 +1615,7 @@ Dasaratha and who had a pleasing appearance coming out of the royal gate.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the portal of that lion among men (dvāre manujasiṃhasya), he beheld the charioteer named Sumantra (sumantraṃ nāma sārathim), the king’s counselor of pleasing aspect (sacivaṃ priyadarśanam), emerging from within (viniṣkrāntam).
+At the portal of that lion among men (_dvāre manujasiṃhasya_), he beheld the charioteer named Sumantra (_sumantraṃ nāma sārathim_), the king’s counselor of pleasing aspect (_sacivaṃ priyadarśanam_), emerging from within (_viniṣkrāntam_).
 </details>
 </details>
 
@@ -1667,7 +1667,7 @@ wife (his business being that of a bard or a charioteer)-Amarakosa.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto that skilled son of a sūta (sūtaputraṃ viśāradam), Vasiṣṭha of mighty splendor spoke: “Announce swiftly to the king that I have arrived here (kṣipram ācakṣva nṛpater mām ihāgatam)!
+Unto that skilled son of a _sūta_ (_sūtaputraṃ viśāradam_), Vasiṣṭha of mighty splendor spoke: “Announce swiftly to the king that I have arrived here (_kṣipram ācakṣva nṛpater mām ihāgatam_)!
 </details>
 </details>
 
@@ -1698,7 +1698,7 @@ Unto that skilled son of a sūta (sūtaputraṃ viśāradam), Vasiṣṭha of mi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here are the golden pitchers filled with the waters of the Gaṅgā and from the oceans (ime gaṅgodakaghaṭāḥ sāgarebhyaś ca kāñcanāḥ), and the auspicious throne of udumbara wood (audumbaraṃ bhadrapīṭham) has been brought for the consecration (abhiṣekārtham āhṛtam)—
+Here are the golden pitchers filled with the waters of the Gaṅgā and from the oceans (_ime gaṅgodakaghaṭāḥ sāgarebhyaś ca kāñcanāḥ_), and the auspicious throne of _udumbara_ wood (_audumbaraṃ bhadrapīṭham_) has been brought for the consecration (_abhiṣekārtham āhṛtam_)—
 </details>
 </details>
 
@@ -1827,19 +1827,19 @@ waiting for Rama's coronation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** all kinds of seeds, fragrant pastes, and manifold gems (sarvabījāni gandhāś ca ratnāni vividhāni ca), honey, curds, clarified butter, parched grain, sacred darbha grass, flowers, and milk (kṣaudraṃ dadhi ghṛtaṃ lājā darbhāḥ sumanasaḥ payaḥ);
+**35:** all kinds of seeds, fragrant pastes, and manifold gems (_sarvabījāni gandhāś ca ratnāni vividhāni ca_), honey, curds, clarified butter, parched grain, sacred _darbha_ grass, flowers, and milk (_kṣaudraṃ dadhi ghṛtaṃ lājā darbhāḥ sumanasaḥ payaḥ_);
 
-**36:** eight comely maidens (aṣṭau ca kanyā rucirā), a rutting lordly elephant (mattaś ca varavāraṇaḥ), a splendid four-horse chariot (caturaśvo rathaḥ śrīmān), a sword (nistriṃśo), and a peerless bow (dhanur uttamam);
+**36:** eight comely maidens (_aṣṭau ca kanyā rucirā_), a rutting lordly elephant (_mattaś ca varavāraṇaḥ_), a splendid four-horse chariot (_caturaśvo rathaḥ śrīmān_), a sword (_nistriṃśo_), and a peerless bow (_dhanur uttamam_);
 
-**37:** a palanquin borne by men (vāhanaṃ narasaṃyuktam), a parasol gleaming like the moon (chatraṃ ca śaśisaṃnibham), a pair of white yak-tail chowries (śvete ca vālavyajane), and a golden pitcher (bhṛṅgāraṃ ca hiraṇmayam);
+**37:** a palanquin borne by men (_vāhanaṃ narasaṃyuktam_), a parasol gleaming like the moon (_chatraṃ ca śaśisaṃnibham_), a pair of white yak-tail chowries (_śvete ca vālavyajane_), and a golden pitcher (_bhṛṅgāraṃ ca hiraṇmayam_);
 
-**38:** a white bull with a prominent hump (kakudmān pāṇḍuro vṛṣaḥ) bound with golden garlands (hemadāmapinaddhaś ca), and a mighty, four-fanged maned lion (kesarī ca caturdaṃṣṭro hariśreṣṭho mahābalaḥ);
+**38:** a white bull with a prominent hump (_kakudmān pāṇḍuro vṛṣaḥ_) bound with golden garlands (_hemadāmapinaddhaś ca_), and a mighty, four-fanged maned lion (_kesarī ca caturdaṃṣṭro hariśreṣṭho mahābalaḥ_);
 
-**39:** a lion-throne (siṃhāsanam), a tiger-skin (vyāghratanuḥ), sacrificial kindling sticks and the sacred fire (samidhaś ca hutāśanaḥ), all companies of musical instruments (sarve vāditrasaṅghāś ca), and courtesans and adorned women (veśyāś cālaṃkṛtāḥ striyaḥ);
+**39:** a lion-throne (_siṃhāsanam_), a tiger-skin (_vyāghratanuḥ_), sacrificial kindling sticks and the sacred fire (_samidhaś ca hutāśanaḥ_), all companies of musical instruments (_sarve vāditrasaṅghāś ca_), and courtesans and adorned women (_veśyāś cālaṃkṛtāḥ striyaḥ_);
 
-**40:** preceptors, Brāhmaṇas, kine, and auspicious beasts and birds (puṇyāś ca mṛgapakṣiṇaḥ), the foremost of townsmen and country-folk (paurajānapadaśreṣṭhā), and merchants together with their guilds (naigamāś ca gaṇaiḥ saha)—
+**40:** preceptors, Brāhmaṇas, kine, and auspicious beasts and birds (_puṇyāś ca mṛgapakṣiṇaḥ_), the foremost of townsmen and country-folk (_paurajānapadaśreṣṭhā_), and merchants together with their guilds (_naigamāś ca gaṇaiḥ saha_)—
 
-**41:** all these and many others, rejoicing and speaking auspicious words (prīyamāṇāḥ priyaṃvadāḥ), stand waiting together with the tributary kings (saha tiṣṭhanti pārthivaiḥ) for Rāma’s consecration (abhiṣekāya rāmasya).
+**41:** all these and many others, rejoicing and speaking auspicious words (_prīyamāṇāḥ priyaṃvadāḥ_), stand waiting together with the tributary kings (_saha tiṣṭhanti pārthivaiḥ_) for Rāma’s consecration (_abhiṣekāya rāmasya_).
 </details>
 </details>
 
@@ -1891,7 +1891,7 @@ the auspicious moment of pushya constellation uniting with the moon"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hasten the great monarch (tvarayasva mahārājam), so that now that the day has broken (samudite 'hani) and the lunar mansion Puṣya is in conjunction (puṣye nakṣatrayoge ca), Rāma may receive the sovereignty (rāmo rājyam avāpnuyāt)!”
+Hasten the great monarch (_tvarayasva mahārājam_), so that now that the day has broken (_samudite &#x27;hani_) and the lunar mansion _Puṣya_ is in conjunction (_puṣye nakṣatrayoge ca_), Rāma may receive the sovereignty (_rāmo rājyam avāpnuyāt_)!”
 </details>
 </details>
 
@@ -1951,7 +1951,7 @@ with Dasaratha, the tiger among kings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of that great sage, the mighty son of the sūta (sūtaputro mahābalaḥ) entered the royal apartment (praviveśa niveśanam), chanting praises of that tiger among kings (stuvan nṛpatiśārdūlam).
+Hearing those words of that great sage, the mighty son of the _sūta_ (_sūtaputro mahābalaḥ_) entered the royal apartment (_praviveśa niveśanam_), chanting praises of that tiger among kings (_stuvan nṛpatiśārdūlam_).
 </details>
 </details>
 
@@ -2007,7 +2007,7 @@ who came before hand who was senior and who was highly esteemed by the king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to do what was pleasing to the monarch (rājñaḥ priyacikīrṣavaḥ), the doorkeepers honored by the king (dvārasthā rājasammatāḥ) could not bar (na śekur abhisaṃroddhum) that aged counselor who had been granted prior permission (pūrvoditaṃ vṛddham).
+Desiring to do what was pleasing to the monarch (_rājñaḥ priyacikīrṣavaḥ_), the doorkeepers honored by the king (_dvārasthā rājasammatāḥ_) could not bar (_na śekur abhisaṃroddhum_) that aged counselor who had been granted prior permission (_pūrvoditaṃ vṛddham_).
 </details>
 </details>
 
@@ -2059,7 +2059,7 @@ the king with very pleasing words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing near the king (sa samīpasthito rājñaḥ), unaware of the calamity that had befallen him (tām avasthām ajajñivān), Sumantra began to extol him with supremely gladdening words (vāgbhiḥ paramatuṣṭābhiḥ):
+Standing near the king (_sa samīpasthito rājñaḥ_), unaware of the calamity that had befallen him (_tām avasthām ajajñivān_), Sumantra began to extol him with supremely gladdening words (_vāgbhiḥ paramatuṣṭābhiḥ_):
 </details>
 </details>
 
@@ -2111,7 +2111,7 @@ king according to the appropriate moment as follows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in the monarch’s bedchamber (pārthivasya niveśane), the sūta Sumantra joined his palms as of old (yathāpūrvaṃ prāñjalir bhūtvā) and praised the lord of the earth (tuṣṭāva jagatīpatim):
+Then, in the monarch’s bedchamber (_pārthivasya niveśane_), the _sūta_ Sumantra joined his palms as of old (_yathāpūrvaṃ prāñjalir bhūtvā_) and praised the lord of the earth (_tuṣṭāva jagatīpatim_):
 </details>
 </details>
 
@@ -2164,7 +2164,7 @@ with delight, gladden us with your delighted mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as the radiant ocean (tejasvī sāgaro) gladdens men at the rising of the sun (bhāskarodaye), so too, pleased with a joyful heart (prītaḥ prītena manasā), gladden us at this hour (tathā nandaya nas tataḥ)!
+“Just as the radiant ocean (_tejasvī sāgaro_) gladdens men at the rising of the sun (_bhāskarodaye_), so too, pleased with a joyful heart (_prītaḥ prītena manasā_), gladden us at this hour (_tathā nandaya nas tataḥ_)!
 </details>
 </details>
 
@@ -2217,7 +2217,7 @@ latter conquered all the demons. In the same manner, I am awakening you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At this very hour of dawn (asyāṃ tu velāyām), Mātali praised Indra (indram abhituṣṭāva mātaliḥ) when he conquered all the Dānavas (so 'jayad dānavān sarvān); even so do I awaken you with praise today (tathā tvāṃ bodhayāmy aham)!
+At this very hour of dawn (_asyāṃ tu velāyām_), Mātali praised Indra (_indram abhituṣṭāva mātaliḥ_) when he conquered all the Dānavas (_so &#x27;jayad dānavān sarvān_); even so do I awaken you with praise today (_tathā tvāṃ bodhayāmy aham_)!
 </details>
 </details>
 
@@ -2283,7 +2283,7 @@ creation from the Vedas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as the Vedas together with their auxiliary limbs and sciences (vedāḥ sahāṅgā vidyāś ca) awaken the self-existent Lord Brahmā (ātmabhuvaṃ prabhum brahmāṇam), even so do I awaken you today (tathā tvāṃ bodhayāmy aham)!
+Just as the Vedas together with their auxiliary limbs and sciences (_vedāḥ sahāṅgā vidyāś ca_) awaken the self-existent Lord Brahmā (_ātmabhuvaṃ prabhum brahmāṇam_), even so do I awaken you today (_tathā tvāṃ bodhayāmy aham_)!
 </details>
 </details>
 
@@ -2332,7 +2332,7 @@ beings so, am I awakening you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as the sun together with the moon (ādityaḥ saha candreṇa) awakens the auspicious, creature-sustaining earth (bhūtadharāṃ śubhāṃ pṛthivīm), even so do I awaken you today!
+Just as the sun together with the moon (_ādityaḥ saha candreṇa_) awakens the auspicious, creature-sustaining earth (_bhūtadharāṃ śubhāṃ pṛthivīm_), even so do I awaken you today!
 </details>
 </details>
 
@@ -2384,7 +2384,7 @@ personality, raise up. Oh, Majesty, like the sun from mount Meru."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arise, O most exalted monarch (uttiṣṭha sumahārāja), having performed the auspicious festive rites (kṛtakautukamaṅgalaḥ), blazing in bodily splendor like the sun rising over Mount Meru (meror iva divākaraḥ)!
+Arise, O most exalted monarch (_uttiṣṭha sumahārāja_), having performed the auspicious festive rites (_kṛtakautukamaṅgalaḥ_), blazing in bodily splendor like the sun rising over Mount Meru (_meror iva divākaraḥ_)!
 </details>
 </details>
 
@@ -2436,7 +2436,7 @@ Kubera, Varuna, Agni and Indra bestow you victory!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-May the Moon and the Sun (somasūryau ca), O Kākutstha, and Śiva and Vaiśravaṇa as well (śivavaiśravaṇāv api), and Varuṇa, Agni, and Indra bestow victory upon you (vijayaṃ pradiśantu te)!
+May the Moon and the Sun (_somasūryau ca_), O Kākutstha, and Śiva and Vaiśravaṇa as well (_śivavaiśravaṇāv api_), and Varuṇa, Agni, and Indra bestow victory upon you (_vijayaṃ pradiśantu te_)!
 </details>
 </details>
 
@@ -2467,7 +2467,7 @@ May the Moon and the Sun (somasūryau ca), O Kākutstha, and Śiva and Vaiśrava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The blessed night has departed (gatā bhagavatī rātriḥ), and all that was to be prepared for you is complete (kṛtaṃ kṛtyam idaṃ tava); awake, O tiger among kings (budhyasva nṛpaśārdūla), and perform the duty that follows next (kuru kāryam anantaram)!
+The blessed night has departed (_gatā bhagavatī rātriḥ_), and all that was to be prepared for you is complete (_kṛtaṃ kṛtyam idaṃ tava_); awake, O tiger among kings (_budhyasva nṛpaśārdūla_), and perform the duty that follows next (_kuru kāryam anantaram_)!
 </details>
 </details>
 
@@ -2518,7 +2518,7 @@ do what has to be done. All the requirements for Rama's coronation is kept ready
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The entire array for Rāma’s consecration stands ready (udatiṣṭhata rāmasya samagram abhiṣecanam), along with the townsmen, country-folk, and the merchant-guilds with folded hands (naigamaś ca kṛtāñjaliḥ).
+The entire array for Rāma’s consecration stands ready (_udatiṣṭhata rāmasya samagram abhiṣecanam_), along with the townsmen, country-folk, and the merchant-guilds with folded hands (_naigamaś ca kṛtāñjaliḥ_).
 </details>
 </details>
 
@@ -2572,7 +2572,7 @@ being saluted saluted with joined palms by citizens, village folk and merchants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Revered Vasiṣṭha himself stands waiting together with the Brāhmaṇas (svayaṃ vasiṣṭho bhagavān brāhmaṇaiḥ saha tiṣṭhati); command swiftly, O king, the consecration of Rāghava (kṣipram ājñāpyatāṃ rājan rāghavasyābhiṣecanam)!
+Revered Vasiṣṭha himself stands waiting together with the Brāhmaṇas (_svayaṃ vasiṣṭho bhagavān brāhmaṇaiḥ saha tiṣṭhati_); command swiftly, O king, the consecration of Rāghava (_kṣipram ājñāpyatāṃ rājan rāghavasyābhiṣecanam_)!
 </details>
 </details>
 
@@ -2605,7 +2605,7 @@ Revered Vasiṣṭha himself stands waiting together with the Brāhmaṇas (svay
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For just as herds of cattle are without a herdsman (yathā hy apālāḥ paśavo), as an army is without a commander (senā hy anāyakā), as the night is without the moon (candraṃ vinā rātriḥ), and as kine are without a bull (gāvo vinā vṛṣam)—
+For just as herds of cattle are without a herdsman (_yathā hy apālāḥ paśavo_), as an army is without a commander (_senā hy anāyakā_), as the night is without the moon (_candraṃ vinā rātriḥ_), and as kine are without a bull (_gāvo vinā vṛṣam_)—
 </details>
 </details>
 
@@ -2659,7 +2659,7 @@ without a bull."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-even such shall a kingdom be (evaṃ hi bhavitā rāṣṭram) wherein the monarch is not seen (yatra rājā na dṛśyate)!” Hearing those words of his, spoken with gentle conciliation and pregnant with meaning (sāntvapūrvam ivārthavat)—
+even such shall a kingdom be (_evaṃ hi bhavitā rāṣṭram_) wherein the monarch is not seen (_yatra rājā na dṛśyate_)!” Hearing those words of his, spoken with gentle conciliation and pregnant with meaning (_sāntvapūrvam ivārthavat_)—
 </details>
 </details>
 
@@ -2734,9 +2734,9 @@ your words!."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**58:** the lord of the earth was overwhelmed once more with grief (abhyakīryata śokena bhūya eva). Then the king, his joy crushed concerning his son (sannaharṣaḥ sutaṃ prati), unto that sūta—
+**58:** the lord of the earth was overwhelmed once more with grief (_abhyakīryata śokena bhūya eva_). Then the king, his joy crushed concerning his son (_sannaharṣaḥ sutaṃ prati_), unto that _sūta_—
 
-**59:** the glorious and righteous monarch, his eyes reddened with weeping (śokaraktekṣaṇaḥ), looked up and spoke: “With these words of yours you rend my vital organs yet further (vākyais tu khalu marmāṇi mama bhūyo nikṛntasi)!”
+**59:** the glorious and righteous monarch, his eyes reddened with weeping (_śokaraktekṣaṇaḥ_), looked up and spoke: “With these words of yours you rend my vital organs yet further (_vākyais tu khalu marmāṇi mama bhūyo nikṛntasi_)!”
 </details>
 </details>
 
@@ -2797,7 +2797,7 @@ with salutation and slipped away to a distance from that place.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that piteous speech (karuṇaṃ śrutvā) and beholding the wretched monarch (dṛṣṭvā dīnaṃ ca pārthivam), Sumantra, with his palms joined in reverence (pragṛhītāñjaliḥ), stepped back a little from that spot (kiṃcit tasmād deśād apākramat).
+Hearing that piteous speech (_karuṇaṃ śrutvā_) and beholding the wretched monarch (_dṛṣṭvā dīnaṃ ca pārthivam_), Sumantra, with his palms joined in reverence (_pragṛhītāñjaliḥ_), stepped back a little from that spot (_kiṃcit tasmād deśād apākramat_).
 </details>
 </details>
 
@@ -2844,7 +2844,7 @@ is experienced in fore-thoughts, spoke thus to Sumantra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When through wretchedness (dainyāt) the lord of the earth could not speak for himself (yadā vaktuṃ svayaṃ na śaśāka), then Kaikeyī, skilled in counsel (mantrajñā), replied to Sumantra:
+When through wretchedness (_dainyāt_) the lord of the earth could not speak for himself (_yadā vaktuṃ svayaṃ na śaśāka_), then Kaikeyī, skilled in counsel (_mantrajñā_), replied to Sumantra:
 </details>
 </details>
 
@@ -2896,7 +2896,7 @@ tired of awakening the whole night and got subjected to sleep"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sumantra, filled with eager joy over Rāma (rāmaharṣasamutsukaḥ), the king kept vigil all through the night (rajanīṃ prajāgarapariśrānto) and, exhausted, has succumbed to the power of sleep (nidrāvaśam upāgataḥ).
+“O Sumantra, filled with eager joy over Rāma (_rāmaharṣasamutsukaḥ_), the king kept vigil all through the night (_rajanīṃ prajāgarapariśrānto_) and, exhausted, has succumbed to the power of sleep (_nidrāvaśam upāgataḥ_).
 </details>
 </details>
 
@@ -2943,7 +2943,7 @@ you! Do not have any hesitation in this matter. "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore go swiftly, O sūta (tad gaccha tvaritaṃ sūta), and bring the illustrious prince Rāma (rājaputraṃ yaśasvinam rāmam ānaya); bless you, let no hesitation be made in this matter (nātra kāryā vicāraṇā)!”
+Therefore go swiftly, O _sūta_ (_tad gaccha tvaritaṃ sūta_), and bring the illustrious prince Rāma (_rājaputraṃ yaśasvinam rāmam ānaya_); bless you, let no hesitation be made in this matter (_nātra kāryā vicāraṇā_)!”
 </details>
 </details>
 
@@ -2995,7 +2995,7 @@ he set out, by the orders of the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without hearing the king’s own command (aśrutvā rājavacanam), how can I go, O noble lady (kathaṃ gacchāmi bhāmini)?” Hearing that speech of the counselor (tac chrutvā mantriṇo vākyam), the king spoke to his minister:
+“Without hearing the king’s own command (_aśrutvā rājavacanam_), how can I go, O noble lady (_kathaṃ gacchāmi bhāmini_)?” Hearing that speech of the counselor (_tac chrutvā mantriṇo vākyam_), the king spoke to his minister:
 </details>
 </details>
 
@@ -3058,7 +3058,7 @@ certainly for coronation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sumantra, I wish to behold Rāma (rāmaṃ drakṣyāmi); bring the handsome prince swiftly (śīghram ānaya sundaram)!” Deeming that command auspicious (sa manyamānaḥ kalyāṇam), Sumantra rejoiced in his heart (hṛdayena nananda ca).
+“O Sumantra, I wish to behold Rāma (_rāmaṃ drakṣyāmi_); bring the handsome prince swiftly (_śīghram ānaya sundaram_)!” Deeming that command auspicious (_sa manyamānaḥ kalyāṇam_), Sumantra rejoiced in his heart (_hṛdayena nananda ca_).
 </details>
 </details>
 
@@ -3110,7 +3110,7 @@ long armed Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And departing joyfully in haste at the royal command (nirjagāma ca sa prītyā tvarito rājaśāsanāt), Sumantra reflected as he was urgently dispatched by her (tvaritaṃ coditas tayā):
+And departing joyfully in haste at the royal command (_nirjagāma ca sa prītyā tvarito rājaśāsanāt_), Sumantra reflected as he was urgently dispatched by her (_tvaritaṃ coditas tayā_):
 </details>
 </details>
 
@@ -3184,9 +3184,9 @@ and very rich citizens having arrived there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**67:** “Clearly the king, sovereign of dharma (dharmarāṭ), will come out hither for the sake of Rāma’s consecration (vyaktaṃ rāmābhiṣekārthe ihāyāsyati)!” Forming this thought, the sūta, once more filled with great joy (harṣeṇa mahatā punaḥ)—
+**67:** “Clearly the king, sovereign of _dharma_ (_dharmarāṭ_), will come out hither for the sake of Rāma’s consecration (_vyaktaṃ rāmābhiṣekārthe ihāyāsyati_)!” Forming this thought, the _sūta_, once more filled with great joy (_harṣeṇa mahatā punaḥ_)—
 
-**68:** went forth in his mighty splendor (nirjagāma mahātejā), eager to behold Rāghava (rāghavasya didṛkṣayā). Emerging from that auspicious inner palace, which resembled a deep pool of the ocean (sāgarahradasaṃkāśāt), Sumantra saw before him the gateway thronged with people (janasambādhaṃ dvāram).
+**68:** went forth in his mighty splendor (_nirjagāma mahātejā_), eager to behold Rāghava (_rāghavasya didṛkṣayā_). Emerging from that auspicious inner palace, which resembled a deep pool of the ocean (_sāgarahradasaṃkāśāt_), Sumantra saw before him the gateway thronged with people (_janasambādhaṃ dvāram_).
 </details>
 </details>
 
@@ -3232,7 +3232,7 @@ and very rich citizens having arrived there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, coming swiftly out in front (purastāt sahasā viniḥsṛto) and looking upon those stationed at the monarch’s gate (mahīpater dvāragatān vilokayan), he beheld manifold townsmen of great wealth (paurān vividhān mahādhanān) who had approached the portal and stood waiting in attendance (dvāram upetya viṣṭhitān).
+Then, coming swiftly out in front (_purastāt sahasā viniḥsṛto_) and looking upon those stationed at the monarch’s gate (_mahīpater dvāragatān vilokayan_), he beheld manifold townsmen of great wealth (_paurān vividhān mahādhanān_) who had approached the portal and stood waiting in attendance (_dvāram upetya viṣṭhitān_).
 </details>
 </details>
 

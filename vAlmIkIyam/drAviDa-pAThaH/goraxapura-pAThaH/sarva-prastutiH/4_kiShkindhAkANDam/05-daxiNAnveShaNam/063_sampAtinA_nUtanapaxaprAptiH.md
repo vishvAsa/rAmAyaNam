@@ -85,7 +85,7 @@ saying these and many other words of encouragement and after permitting me to ta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having praised (praśasya) me and granted me leave (abhyanujñāpya) with these and many other words, he, skilled in speech (vākyaviśāradaḥ), entered his own abode (svam ālayam).
+“Having praised (_praśasya_) me and granted me leave (_abhyanujñāpya_) with these and many other words, he, skilled in speech (_vākyaviśāradaḥ_), entered his own abode (_svam ālayam_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ Mt. Vindhya and I am looking forward for your arrival... [4-63-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having crept out (visarpitvā) slowly, slowly from the cavern of the mountain (kandarāt parvatasya), I, having climbed up Vindhya, have been awaiting you (bhavataḥ pratipālaye).
+“Having crept out (_visarpitvā_) slowly, slowly from the cavern of the mountain (_kandarāt parvatasya_), I, having climbed up Vindhya, have been awaiting you (_bhavataḥ pratipālaye_).
 </details>
 </details>
 
@@ -203,7 +203,7 @@ after his demise...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, over a hundred [thousand] years (varṣaṃ sāgraśatam) of this time have passed; holding the sage's word in my heart (hṛdi kṛtvā muner vacaḥ), I have been awaiting the place and time (deśakālapratīkṣo 'smi).
+“Today, over a hundred [thousand] years (_varṣaṃ sāgraśatam_) of this time have passed; holding the sage&#x27;s word in my heart (_hṛdi kṛtvā muner vacaḥ_), I have been awaiting the place and time (_deśakālapratīkṣo &#x27;smi_).
 </details>
 </details>
 
@@ -255,7 +255,7 @@ voyage to heaven, thus my anguish burned me down... [4-63-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When Niśākara had gone to heaven (svargate tu niśākare) after undertaking the Great Departure (mahāprasthānam āsādya), anguish burnt me up (māṃ nirdahati saṃtāpaḥ), encompassed by many anxious thoughts (vitarkair bahubhir vṛtam).
+“When Niśākara had gone to heaven (_svargate tu niśākare_) after undertaking the Great Departure (_mahāprasthānam āsādya_), anguish burnt me up (_māṃ nirdahati saṃtāpaḥ_), encompassed by many anxious thoughts (_vitarkair bahubhir vṛtam_).
 </details>
 </details>
 
@@ -314,7 +314,7 @@ taking away my anguish, as a tongue of flaring fire takes away darkness... [4-63
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the sage's words (munivākyaiḥ) I turned back (nivartaye) the resolve toward death (maraṇe buddhim) that had arisen—the counsel that was given to me by him for the preservation of my vital breaths (prāṇānāṃ rakṣaṇe mama).
+“By the sage&#x27;s words (_munivākyaiḥ_) I turned back (_nivartaye_) the resolve toward death (_maraṇe buddhim_) that had arisen—the counsel that was given to me by him for the preservation of my vital breaths (_prāṇānāṃ rakṣaṇe mama_).
 </details>
 </details>
 
@@ -377,7 +377,7 @@ saying, 'how you have not saved Maithili?' [4-63-6b, 7a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That [counsel] removes my grief (sā me 'panayate duḥkham) as a blazing flame of fire [dispels] darkness (dīptevāgniśikhā tamaḥ). And knowing (budhyatā) the valor of the wicked-souled Rāvaṇa,
+“That [counsel] removes my grief (_sā me &#x27;panayate duḥkham_) as a blazing flame of fire [dispels] darkness (_dīptevāgniśikhā tamaḥ_). And knowing (_budhyatā_) the valor of the wicked-souled Rāvaṇa,
 </details>
 </details>
 
@@ -430,7 +430,7 @@ friendship with Dasharatha..." Thus Sampaati spoke to monkeys. [4-63-7b, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“my son was sharply rebuked (saṃtarjitaḥ) by me with words—`How was Maithilī not rescued (na trātā maithilī katham)?'—having heard her lamentation (tasyā vilapitaṃ śrutvā) and that those two were separated from Sītā (sītāviyojitau):
+“my son was sharply rebuked (_saṃtarjitaḥ_) by me with words—`How was Maithilī not rescued (_na trātā maithilī katham_)?&#x27;—having heard her lamentation (_tasyā vilapitaṃ śrutvā_) and that those two were separated from Sītā (_sītāviyojitau_):
 </details>
 </details>
 
@@ -483,7 +483,7 @@ monkeys who are clustering around him, while Sampaati is speaking in this way to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ `Out of affection for Daśaratha (daśarathasnehāt), what is dear to me (me priyam) was not brought about by my son!' While he was speaking thus (tasya tv evaṃ bruvāṇasya) with the assembled monkeys (saṃhatair vānaraiḥ saha),
+“ `Out of affection for Daśaratha (_daśarathasnehāt_), what is dear to me (_me priyam_) was not brought about by my son!&#x27; While he was speaking thus (_tasya tv evaṃ bruvāṇasya_) with the assembled monkeys (_saṃhatair vānaraiḥ saha_),
 </details>
 </details>
 
@@ -536,7 +536,7 @@ Sampaati obtained an incomparable rejoice, and he also said this to vanara-s. [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“then his two wings sprang forth (utpetatus tadā pakṣau) before the eyes of the forest-roamers (samakṣaṃ vanacāriṇām); seeing his own body with risen wings covered in ruddy feathers (aruṇacchadaiḥ),
+“then his two wings sprang forth (_utpetatus tadā pakṣau_) before the eyes of the forest-roamers (_samakṣaṃ vanacāriṇām_); seeing his own body with risen wings covered in ruddy feathers (_aruṇacchadaiḥ_),
 </details>
 </details>
 
@@ -591,7 +591,7 @@ Sampaati that were burnt down by sunrays have resurfaced again. [4-63-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“he obtained peerless joy (praharṣam atulaṃ lebhe) and spoke this to the monkeys: “By the grace (prasādāt) of the royal sage Niśākara of boundless splendor (amitojasaḥ),
+“he obtained peerless joy (_praharṣam atulaṃ lebhe_) and spoke this to the monkeys: “By the grace (_prasādāt_) of the royal sage Niśākara of boundless splendor (_amitojasaḥ_),
 </details>
 </details>
 
@@ -654,7 +654,7 @@ experiencing them alone... [4-63-11b, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The two wings scorched by the sun's rays (ādityaraśminirdagdhau pakṣau) have appeared again (punar upasthitau); whatever valor was mine when abiding in youth (yauvane vartamānasya),
+“The two wings scorched by the sun&#x27;s rays (_ādityaraśminirdagdhau pakṣau_) have appeared again (_punar upasthitau_); whatever valor was mine when abiding in youth (_yauvane vartamānasya_),
 </details>
 </details>
 
@@ -709,7 +709,7 @@ event of my regaining wings shall be the causer of credibility in you all... [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“that very [valor] I experience today (tam evādyāvagacchāmi), and strength and manly vigor (balaṃ pauruṣam eva ca)! By every means let effort be made (sarvathā kriyatāṃ yatnaḥ)—you shall find Sītā (sītām adhigamiṣyatha)!
+“that very [valor] I experience today (_tam evādyāvagacchāmi_), and strength and manly vigor (_balaṃ pauruṣam eva ca_)! By every means let effort be made (_sarvathā kriyatāṃ yatnaḥ_)—you shall find Sītā (_sītām adhigamiṣyatha_)!
 </details>
 </details>
 
@@ -762,7 +762,7 @@ mountaintop to ascertain the plight of a sky-going bird when anew on the wing. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This gaining of wings of mine (pakṣalābho mamāyam) is for you a producer of confidence in success (siddhipratyayakārakaḥ)!” Having spoken thus to all those monkeys, Sampāti, the best of birds (patagottamaḥ),
+“This gaining of wings of mine (_pakṣalābho mamāyam_) is for you a producer of confidence in success (_siddhipratyayakārakaḥ_)!” Having spoken thus to all those monkeys, Sampāti, the best of birds (_patagottamaḥ_),
 </details>
 </details>
 
@@ -817,7 +817,7 @@ while their valour inspiriting them they have became proactive towards their tas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-flew up from the peak of the mountain (utpapāta gireḥ śṛṅgāt), the sky-goer desirous of testing his flight (jijñāsuḥ khagamo gatim). Having heard that speech of his, with minds gladdened in return (pratisaṃhṛṣṭamānasāḥ), the tigers among monkeys (hariśārdūlāḥ) became intent upon the rise of valorous success (vikramābhyudayonmukhāḥ).
+flew up from the peak of the mountain (_utpapāta gireḥ śṛṅgāt_), the sky-goer desirous of testing his flight (_jijñāsuḥ khagamo gatim_). Having heard that speech of his, with minds gladdened in return (_pratisaṃhṛṣṭamānasāḥ_), the tigers among monkeys (_hariśārdūlāḥ_) became intent upon the rise of valorous success (_vikramābhyudayonmukhāḥ_).
 </details>
 </details>
 
@@ -890,6 +890,6 @@ on to the southern direction, as they are the pioneers in searching Seetha, the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the foremost of leapers (plavagavarāḥ), equal to the wind in valor (pavanasamānavikramāḥ), having recovered their manly vigor (pratilabdhapauruṣāḥ), proceeded toward the direction facing Abhijit (abhijidabhimukhāṃ diśam), intent upon searching thoroughly for the daughter of Janaka (janakasutāparimārgaṇonmukhāḥ).
+Then the foremost of leapers (_plavagavarāḥ_), equal to the wind in valor (_pavanasamānavikramāḥ_), having recovered their manly vigor (_pratilabdhapauruṣāḥ_), proceeded toward the direction facing Abhijit (_abhijidabhimukhāṃ diśam_), intent upon searching thoroughly for the daughter of Janaka (_janakasutāparimārgaṇonmukhāḥ_).
 </details>
 </details>

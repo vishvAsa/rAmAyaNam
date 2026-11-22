@@ -83,7 +83,7 @@ that way securely fastened his sword with golden handle to his waist. [3-44-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus instructed (tathā tu samādiśya) his brother, Rāma, the delight of the Raghus (raghunandanaḥ), of mighty splendour (mahā-tejāḥ), girded on his sword (babandhāsim) with its hilt of burnished gold (jāmbūnadamaya-tsarum).
+Having thus instructed (_tathā tu samādiśya_) his brother, Rāma, the delight of the Raghus (_raghunandanaḥ_), of mighty splendour (_mahā-tejāḥ_), girded on his sword (_babandhāsim_) with its hilt of burnished gold (_jāmbūnadamaya-tsarum_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ called kodanDa, and fastened two quivers and proceeded. [3-44-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, taking up his triple-curved bow (trivinataṃ cāpam)—his own warrior's ornament (ātma-vibhūṣaṇam)—and binding on his two quivers (ābadhya ca kapālau dvau), he of exalted valour (udagra-vikramaḥ) set forth.
+Then, taking up his triple-curved bow (_trivinataṃ cāpam_)—his own warrior&#x27;s ornament (_ātma-vibhūṣaṇam_)—and binding on his two quivers (_ābadhya ca kapālau dvau_), he of exalted valour (_udagra-vikramaḥ_) set forth.
 </details>
 </details>
 
@@ -198,7 +198,7 @@ firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that chief of kings (rājendram) rushing toward him (āpatantam), that king of forest beasts (vanya-rājaḥ) vanished out of fear (babhūvāntarhitas trāsāt), and then came back into view again (punaḥ saṃdarśane 'bhavat).
+Beholding that chief of kings (_rājendram_) rushing toward him (_āpatantam_), that king of forest beasts (_vanya-rājaḥ_) vanished out of fear (_babhūvāntarhitas trāsāt_), and then came back into view again (_punaḥ saṃdarśane &#x27;bhavat_).
 </details>
 </details>
 
@@ -279,13 +279,13 @@ those thickets, like the autumnal orb of the moon under the fly front of splinte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** With sword girt on and bow in hand (baddhāsir dhanur ādāya), [Rāma] ran toward where the deer was (pradudrāva yato mṛgaḥ), and beheld it ahead, illuminating [the forest], as it were, with its beauty (rūpeṇa dyotayantam ivāgrataḥ)—
+**4:** With sword girt on and bow in hand (_baddhāsir dhanur ādāya_), [Rāma] ran toward where the deer was (_pradudrāva yato mṛgaḥ_), and beheld it ahead, illuminating [the forest], as it were, with its beauty (_rūpeṇa dyotayantam ivāgrataḥ_)—
 
-**5:** [And with] bow in hand (dhanuṣ-pāṇiḥ) in the great forest, [he beheld it] running while looking back again and again (avekṣyāvekṣya dhāvantam), having bounded beyond reach (ativṛttam ivotpātāt), yet at times luring him on (lobhayānaṃ kadācana)—
+**5:** [And with] bow in hand (_dhanuṣ-pāṇiḥ_) in the great forest, [he beheld it] running while looking back again and again (_avekṣyāvekṣya dhāvantam_), having bounded beyond reach (_ativṛttam ivotpātāt_), yet at times luring him on (_lobhayānaṃ kadācana_)—
 
-**6:** Wary (śaṅkitam) and bewildered (samudbhrāntam), bounding up as if into the sky (utpatantam ivāmbaram), appearing in some tracts of the forest and vanishing in others (dṛśyamānam adṛśyaṃ ca vanoddeśeṣu keṣucit)—
+**6:** Wary (_śaṅkitam_) and bewildered (_samudbhrāntam_), bounding up as if into the sky (_utpatantam ivāmbaram_), appearing in some tracts of the forest and vanishing in others (_dṛśyamānam adṛśyaṃ ca vanoddeśeṣu keṣucit_)—
 
-**7:** Like the autumnal orb of the moon (śāradaṃ candra-maṇḍalam) veiled by broken clouds (chinnābhrair iva saṃvītam), in a moment it was seen close by (muhūrtād eva dadṛśe), and in the next it gleamed from afar (muhur dūrāt prakāśate).
+**7:** Like the autumnal orb of the moon (_śāradaṃ candra-maṇḍalam_) veiled by broken clouds (_chinnābhrair iva saṃvītam_), in a moment it was seen close by (_muhūrtād eva dadṛśe_), and in the next it gleamed from afar (_muhur dūrāt prakāśate_).
 </details>
 </details>
 
@@ -336,7 +336,7 @@ very far from his hermitage in this hide and seek game. [3-44-7b, 8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Simply by appearing and disappearing (darśanādarśanenaiva), that Mārīca, who had assumed the form of a deer (mārīco mṛgatāṃ gataḥ), drew Rāghava far away (apākarṣata dūram) from his hermitage.
+Simply by appearing and disappearing (_darśanādarśanenaiva_), that Mārīca, who had assumed the form of a deer (_mārīco mṛgatāṃ gataḥ_), drew Rāghava far away (_apākarṣata dūram_) from his hermitage.
 </details>
 </details>
 
@@ -392,7 +392,7 @@ and then verily tired as he is he stayed on a pasture taking shelter of a tree s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beguiled by it (tena mohitaḥ) and rendered helpless (vivaśaḥ), Kākutstha grew incensed (āsīt kruddhaḥ); then, thoroughly exhausted (suśrāntaḥ), he halted, seeking the shade upon a grassy meadow (chāyām āśritya śādvale).
+Beguiled by it (_tena mohitaḥ_) and rendered helpless (_vivaśaḥ_), Kākutstha grew incensed (_āsīt kruddhaḥ_); then, thoroughly exhausted (_suśrāntaḥ_), he halted, seeking the shade upon a grassy meadow (_chāyām āśritya śādvale_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ reappearing in his close-by, surrounded with other animals of the forest. [3-44-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That night-stalker in the guise of a deer (mṛga-rūpo niśācaraḥ) drove him to distraction (tam unmādayāmāsa), and then reappeared not far off (adūrāt pratyadṛśyata), surrounded by other deer (mṛgaiḥ parivṛto 'nyaiḥ).
+That night-stalker in the guise of a deer (_mṛga-rūpo niśācaraḥ_) drove him to distraction (_tam unmādayāmāsa_), and then reappeared not far off (_adūrāt pratyadṛśyata_), surrounded by other deer (_mṛgaiḥ parivṛto &#x27;nyaiḥ_).
 </details>
 </details>
 
@@ -498,7 +498,7 @@ fear. [3-44-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him desirous of capturing it (grahītu-kāmaṃ dṛṣṭvā tam), it bounded off once again (punar evābhyadhāvata), and in that very instant, out of terror (saṃtrāsāt), vanished once more (punar antarhito 'bhavat).
+Seeing him desirous of capturing it (_grahītu-kāmaṃ dṛṣṭvā tam_), it bounded off once again (_punar evābhyadhāvata_), and in that very instant, out of terror (_saṃtrāsāt_), vanished once more (_punar antarhito &#x27;bhavat_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ great-resplendent Rama has firmed up his decision to fell it. [3-44-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as it emerged once more from a distant clump of trees (dūrād vṛkṣa-khaṇḍād viniḥsṛtaḥ), Rāma of mighty splendour, beholding it, resolved to slay it (taṃ hantuṃ kṛta-niścayaḥ).
+Then, as it emerged once more from a distant clump of trees (_dūrād vṛkṣa-khaṇḍād viniḥsṛtaḥ_), Rāma of mighty splendour, beholding it, resolved to slay it (_taṃ hantuṃ kṛta-niścayaḥ_).
 </details>
 </details>
 
@@ -637,9 +637,9 @@ which is hissing like a snake. [3-44-13, 14, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Then, filled with wrath (bhūyas tu kupitaḥ), Rāghava drew forth an arrow (śaram uddhṛtya) there, gleaming like a sunbeam (sūrya-raśmi-pratīkāśam), blazing (jvalantam), and crushing to foes (ari-mardanam)—
+**13:** Then, filled with wrath (_bhūyas tu kupitaḥ_), Rāghava drew forth an arrow (_śaram uddhṛtya_) there, gleaming like a sunbeam (_sūrya-raśmi-pratīkāśam_), blazing (_jvalantam_), and crushing to foes (_ari-mardanam_)—
 
-**14:** Fitting it to his mighty bow (saṃdhāya sudṛḍhe cāpe) and drawing it back with all his strength (vikṛṣya balavat), the mighty one (balī), aiming at that very deer (tam eva mṛgam uddiśya), [loosed that shaft] like a hissing serpent (śvasantam iva pannagam)—
+**14:** Fitting it to his mighty bow (_saṃdhāya sudṛḍhe cāpe_) and drawing it back with all his strength (_vikṛṣya balavat_), the mighty one (_balī_), aiming at that very deer (_tam eva mṛgam uddiśya_), [loosed that shaft] like a hissing serpent (_śvasantam iva pannagam_)—
 </details>
 </details>
 
@@ -692,7 +692,7 @@ similar to a thunderbolt has severed the heart of Maareecha in the core of deer'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He] loosed (mumoca) that blazing, radiant missile (jvalitaṃ dīptam astram) fashioned by Brahmā (brahma-vinirmitam); and cleaving right through the body of the deer-shaped one (śarīraṃ mṛga-rūpasya vinirbhidya), that foremost of arrows (śarottamaḥ)—
+[He] loosed (_mumoca_) that blazing, radiant missile (_jvalitaṃ dīptam astram_) fashioned by Brahmā (_brahma-vinirmitam_); and cleaving right through the body of the deer-shaped one (_śarīraṃ mṛga-rūpasya vinirbhidya_), that foremost of arrows (_śarottamaḥ_)—
 </details>
 </details>
 
@@ -748,7 +748,7 @@ shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a thunderbolt (aśani-saṃnibhaḥ), split open the very heart of Mārīca (mārīcasyaiva hṛdayaṃ bibheda)! Leaping up the height of a palmyra tree (tāla-mātram athotplutya), he fell down sorely stricken (nyapatat sa bhṛśāturaḥ).
+Like a thunderbolt (_aśani-saṃnibhaḥ_), split open the very heart of Mārīca (_mārīcasyaiva hṛdayaṃ bibheda_)! Leaping up the height of a palmyra tree (_tāla-mātram athotplutya_), he fell down sorely stricken (_nyapatat sa bhṛśāturaḥ_).
 </details>
 </details>
 
@@ -828,9 +828,9 @@ it is better to do as said by Ravana for the elimination of Ravana. So thought M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** With little life left in him (alpa-jīvitaḥ), he uttered a dreadful roar (vyanadad bhairavaṃ nādam) upon the earth; and as he lay dying (mriyamāṇas tu), Mārīca cast off that artificial body (jahau tāṃ kṛtrimāṃ tanum).
+**17:** With little life left in him (_alpa-jīvitaḥ_), he uttered a dreadful roar (_vyanadad bhairavaṃ nādam_) upon the earth; and as he lay dying (_mriyamāṇas tu_), Mārīca cast off that artificial body (_jahau tāṃ kṛtrimāṃ tanum_).
 
-**18:** Remembering those words [of Rāvaṇa] (smṛtvā tad-vacanam), the Rākṣasa pondered (dadhyau): “By what means might Sītā dispatch Lakṣmaṇa hither (kena tu lakṣmaṇam iha prasthāpayet sītā), so that Rāvaṇa may abduct her in the empty hermitage (tāṃ śūnye rāvaṇo haret)?”
+**18:** Remembering those words [of Rāvaṇa] (_smṛtvā tad-vacanam_), the Rākṣasa pondered (_dadhyau_): “By what means might Sītā dispatch Lakṣmaṇa hither (_kena tu lakṣmaṇam iha prasthāpayet sītā_), so that Rāvaṇa may abduct her in the empty hermitage (_tāṃ śūnye rāvaṇo haret_)?”
 </details>
 </details>
 
@@ -886,7 +886,7 @@ also thus 'ha Lakshmana...' [3-44-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing that the opportune moment had arrived (prāpta-kālam ājñāya), he then uttered a cry (cakāra ca tataḥ svanam) mimicking the very voice of Rāghava (sadṛśaṃ rāghavasyaiva): “Ah, Sītā! Ah, Lakṣmaṇa!”
+Recognizing that the opportune moment had arrived (_prāpta-kālam ājñāya_), he then uttered a cry (_cakāra ca tataḥ svanam_) mimicking the very voice of Rāghava (_sadṛśaṃ rāghavasyaiva_): “Ah, Sītā! Ah, Lakṣmaṇa!”
 </details>
 </details>
 
@@ -957,7 +957,7 @@ or form. This is how he abducts Seetha changing his semblances instantaneously.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced to the vitals (marmaṇi nirviddham) by that peerless arrow (tena śareṇānupamena), having abandoned that deer-form (mṛga-rūpaṃ tu tat tyaktvā), he resumed his Rākṣasa form (rākṣasaṃ rūpam āsthitaḥ)—
+Pierced to the vitals (_marmaṇi nirviddham_) by that peerless arrow (_tena śareṇānupamena_), having abandoned that deer-form (_mṛga-rūpaṃ tu tat tyaktvā_), he resumed his Rākṣasa form (_rākṣasaṃ rūpam āsthitaḥ_)—
 </details>
 </details>
 
@@ -1022,9 +1022,9 @@ Seetha reminiscing Lakshmana's words. [3-44-21b, 22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Yielding up his life (jīvitaṃ tyajan), Mārīca assumed his gigantic body (cakre sa sumahā-kāyam); and beholding that Rākṣasa of terrible aspect (rākṣasaṃ bhīma-darśanam) fallen upon the ground—
+**21:** Yielding up his life (_jīvitaṃ tyajan_), Mārīca assumed his gigantic body (_cakre sa sumahā-kāyam_); and beholding that Rākṣasa of terrible aspect (_rākṣasaṃ bhīma-darśanam_) fallen upon the ground—
 
-**22:** His limbs drenched in blood (rudhira-siktāṅgam) and writhing upon the surface of the earth (ceṣṭamānaṃ mahī-tale), Rāma turned in thought to Sītā (jagāma manasā sītām), recalling the words of Lakṣmaṇa (lakṣmaṇasya vacaḥ smaran).
+**22:** His limbs drenched in blood (_rudhira-siktāṅgam_) and writhing upon the surface of the earth (_ceṣṭamānaṃ mahī-tale_), Rāma turned in thought to Sītā (_jagāma manasā sītām_), recalling the words of Lakṣmaṇa (_lakṣmaṇasya vacaḥ smaran_).
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[That] ‘this is an illusion of Mārīca (mārīcasya tu māyaiṣā)’ was foretold by Lakṣmaṇa (pūrvoktaṃ lakṣmaṇena tu), and so indeed has it come to pass today (tat tathā hy abhavac cādya): this Mārīca has been slain by me!”
+“[That] ‘this is an illusion of Mārīca (_mārīcasya tu māyaiṣā_)’ was foretold by Lakṣmaṇa (_pūrvoktaṃ lakṣmaṇena tu_), and so indeed has it come to pass today (_tat tathā hy abhavac cādya_): this Mārīca has been slain by me!”
 </details>
 </details>
 
@@ -1118,7 +1118,7 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having cried out in a loud voice (ākruśya tu mahā-svanam), ‘Ah, Sītā! Ah, Lakṣmaṇa!’, this Rākṣasa has died (mamāra rākṣasaḥ so 'yam); having heard it, how will Sītā fare (śrutvā sītā kathaṃ bhavet)?”
+“Having cried out in a loud voice (_ākruśya tu mahā-svanam_), ‘Ah, Sītā! Ah, Lakṣmaṇa!’, this Rākṣasa has died (_mamāra rākṣasaḥ so &#x27;yam_); having heard it, how will Sītā fare (_śrutvā sītā kathaṃ bhavet_)?”
 </details>
 </details>
 
@@ -1187,9 +1187,9 @@ Rama is ensorcelled with a frantic fear caused by his own gloom. [3-44-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “And to what state (kām avasthām) will the mighty-armed Lakṣmaṇa come?” Reflecting thus (iti saṃcintya), the righteous-souled Rāma had the hairs of his body bristling (hṛṣṭa-tanūruhaḥ).
+**25:** “And to what state (_kām avasthām_) will the mighty-armed Lakṣmaṇa come?” Reflecting thus (_iti saṃcintya_), the righteous-souled Rāma had the hairs of his body bristling (_hṛṣṭa-tanūruhaḥ_).
 
-**26:** There, having slain that Rākṣasa in the guise of a deer (rākṣasaṃ mṛga-rūpaṃ taṃ hatvā) and having heard his cry (śrutvā ca tat-svanam), a sharp fear born of dejection (bhayaṃ tīvram viṣādajam) entered into Rāma.
+**26:** There, having slain that Rākṣasa in the guise of a deer (_rākṣasaṃ mṛga-rūpaṃ taṃ hatvā_) and having heard his cry (_śrutvā ca tat-svanam_), a sharp fear born of dejection (_bhayaṃ tīvram viṣādajam_) entered into Rāma.
 </details>
 </details>
 
@@ -1252,7 +1252,7 @@ himself towards Janasthaana. [3-44-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain another spotted antelope (nihatya pṛṣataṃ cānyam) and taken its flesh (māṃsam ādāya), Rāghava then hastened back (tvaramāṇaḥ sasāra) toward Janasthāna (janasthānam abhimukham).
+Having slain another spotted antelope (_nihatya pṛṣataṃ cānyam_) and taken its flesh (_māṃsam ādāya_), Rāghava then hastened back (_tvaramāṇaḥ sasāra_) toward Janasthāna (_janasthānam abhimukham_).
 </details>
 </details>
 

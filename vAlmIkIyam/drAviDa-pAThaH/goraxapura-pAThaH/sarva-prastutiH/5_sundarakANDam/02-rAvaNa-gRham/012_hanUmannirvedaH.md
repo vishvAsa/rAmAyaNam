@@ -92,7 +92,7 @@ made of plant creepers, art houses, and nocturnal houses but did not see Her wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing in the midst of that palace (tasya madhye bhavanasya saṃsthitaḥ), eager for the sight of Sītā (sītāṃ prati darśanotsukaḥ), he visited the creeper-bowers (latāgṛhān), painted galleries (citragṛhān), and night-chambers (niśāgṛhān), yet he did not behold that lady of lovely aspect (cārudarśanām).
+Standing in the midst of that palace (_tasya madhye bhavanasya saṃsthitaḥ_), eager for the sight of Sītā (_sītāṃ prati darśanotsukaḥ_), he visited the creeper-bowers (_latāgṛhān_), painted galleries (_citragṛhān_), and night-chambers (_niśāgṛhān_), yet he did not behold that lady of lovely aspect (_cārudarśanām_).
 </details>
 </details>
 
@@ -152,7 +152,7 @@ Seetha in whatever way appearance not being obtained, from that Seetha definitel
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not seeing that beloved of Raghu’s scion (priyām apaśyan raghunandanasya tām), the great monkey then reflected (sa cintayāmāsa): “Surely Sītā lives no more (dhruvaṃ na sītā dhriyate), inasmuch as Maithilī does not come within my view (na me darśanam eti) even as I search everywhere (vicinvataḥ).
+Not seeing that beloved of Raghu’s scion (_priyām apaśyan raghunandanasya tām_), the great monkey then reflected (_sa cintayāmāsa_): “Surely Sītā lives no more (_dhruvaṃ na sītā dhriyate_), inasmuch as Maithilī does not come within my view (_na me darśanam eti_) even as I search everywhere (_vicinvataḥ_).
 </details>
 </details>
 
@@ -217,7 +217,7 @@ must have been killed by the king of these Rakshasas who performed evil deeds - 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Devoted to guarding her own chaste conduct (svaśīlasaṃrakṣaṇatatparā) and abiding upon the supreme path of the noble (āryapathe pare sthitā), that chaste Jānakī (sā satī jānakī) must surely have been slain (nūnaṃ hatā bhavet) by this chief of rākṣasas of thoroughly wicked deeds (prati duṣṭakarmaṇā).
+“Devoted to guarding her own chaste conduct (_svaśīlasaṃrakṣaṇatatparā_) and abiding upon the supreme path of the noble (_āryapathe pare sthitā_), that chaste Jānakī (_sā satī jānakī_) must surely have been slain (_nūnaṃ hatā bhavet_) by this chief of _rākṣasas_ of thoroughly wicked deeds (_prati duṣṭakarmaṇā_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ long and crooked eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else, beholding those female attendants of the rākṣasa king (tā rākṣasarājayoṣitaḥ)—misshapen of form (virūparūpāḥ), deformed (vikṛtāḥ), lustreless (vivarcasaḥ), huge-mawed (mahānanāḥ), and of long, hideous eyes (dīrghavirūpadarśanāḥ)—the daughter of King Janaka has perished from terror (bhayād vinaṣṭā).
+“Or else, beholding those female attendants of the _rākṣasa_ king (_tā rākṣasarājayoṣitaḥ_)—misshapen of form (_virūparūpāḥ_), deformed (_vikṛtāḥ_), lustreless (_vivarcasaḥ_), huge-mawed (_mahānanāḥ_), and of long, hideous eyes (_dīrghavirūpadarśanāḥ_)—the daughter of King Janaka has perished from terror (_bhayād vinaṣṭā_).
 </details>
 </details>
 
@@ -342,7 +342,7 @@ to me there is not a path to go near Sugreeva. Sugreeva has a sharp punishment a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without having seen Sītā (sītām adṛṣṭvā) and without having achieved heroic success (anavāpya pauruṣaṃ), after tarrying a long time with the monkeys (vihṛtya kālaṃ saha vānaraiś ciram), there is no way for me to return to Sugrīva’s presence (na me 'sti sugrīvasamīpagā gatiḥ); for that monkey king is mighty and most severe in punishment (sutīkṣṇadaṇḍaḥ).
+“Without having seen Sītā (_sītām adṛṣṭvā_) and without having achieved heroic success (_anavāpya pauruṣaṃ_), after tarrying a long time with the monkeys (_vihṛtya kālaṃ saha vānaraiś ciram_), there is no way for me to return to Sugrīva’s presence (_na me &#x27;sti sugrīvasamīpagā gatiḥ_); for that monkey king is mighty and most severe in punishment (_sutīkṣṇadaṇḍaḥ_).
 </details>
 </details>
 
@@ -395,7 +395,7 @@ My effort became wastefull."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All the inner apartments have been searched (dṛṣṭam antaḥpuraṃ sarvaṃ), and the consorts of Rāvaṇa have been seen (dṛṣṭā rāvaṇayoṣitaḥ); yet the virtuous Sītā is not seen (na sītā dṛśyate sādhvī), and my toil has proved in vain (vṛthā jāto mama śramaḥ).”
+“All the inner apartments have been searched (_dṛṣṭam antaḥpuraṃ sarvaṃ_), and the consorts of Rāvaṇa have been seen (_dṛṣṭā rāvaṇayoṣitaḥ_); yet the virtuous Sītā is not seen (_na sītā dṛśyate sādhvī_), and my toil has proved in vain (_vṛthā jāto mama śramaḥ_).”
 </details>
 </details>
 
@@ -449,7 +449,7 @@ what has been done by you? Tell that to us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed will all the assembled monkeys (vānarāḥ sarve saṃgatāḥ) say to me when I return (māṃ gataṃ vakṣyanti), [asking]: ‘Having gone there, O hero, what did you accomplish? Tell us that (tad vadasva naḥ)!’
+“What indeed will all the assembled monkeys (_vānarāḥ sarve saṃgatāḥ_) say to me when I return (_māṃ gataṃ vakṣyanti_), [asking]: ‘Having gone there, O hero, what did you accomplish? Tell us that (_tad vadasva naḥ_)!’
 </details>
 </details>
 
@@ -504,7 +504,7 @@ fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without having seen that daughter of Janaka (adṛṣṭvā tāṃ janakātmajām), what answer shall I give (kiṃ pravakṣyāmi)? Now that the appointed time has elapsed (kālasya vyativartane), I shall surely sit in fasting unto death (dhruvaṃ prāyam upāsiṣye).
+“Without having seen that daughter of Janaka (_adṛṣṭvā tāṃ janakātmajām_), what answer shall I give (_kiṃ pravakṣyāmi_)? Now that the appointed time has elapsed (_kālasya vyativartane_), I shall surely sit in fasting unto death (_dhruvaṃ prāyam upāsiṣye_).
 </details>
 </details>
 
@@ -557,7 +557,7 @@ that Angada and vanaras who meet say?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or what will aged Jāmbavān (vṛddhaś ca jāmbavān) and that Aṅgada say to me when I have recrossed to the farther shore of the ocean (gataṃ pāraṃ samudrasya), and what will the assembled monkeys say (vānarāś ca samāgatāḥ)?
+“Or what will aged Jāmbavān (_vṛddhaś ca jāmbavān_) and that Aṅgada say to me when I have recrossed to the farther shore of the ocean (_gataṃ pāraṃ samudrasya_), and what will the assembled monkeys say (_vānarāś ca samāgatāḥ_)?
 </details>
 </details>
 
@@ -608,7 +608,7 @@ always is indeed the promoter in all matters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet freedom from despondency is the root of prosperity (anirvedaḥ śriyo mūlam), and freedom from despondency is the supreme happiness (paraṃ sukham); I shall search once more (bhūyas tatra viceṣyāmi) wherever no search has yet been made (na yatra vicayaḥ kṛtaḥ).
+“Yet freedom from despondency is the root of prosperity (_anirvedaḥ śriyo mūlam_), and freedom from despondency is the supreme happiness (_paraṃ sukham_); I shall search once more (_bhūyas tatra viceṣyāmi_) wherever no search has yet been made (_na yatra vicayaḥ kṛtaḥ_).
 </details>
 </details>
 
@@ -669,7 +669,7 @@ Ravana not yet seen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For undaunted perseverance (anirvedaḥ) ever impels a man in all undertakings (satataṃ sarvārtheṣu pravartakaḥ), and renders fruitful (karoti saphalaṃ) whatever deed a creature performs (jantoḥ karma yac ca karoti saḥ).
+“For undaunted perseverance (_anirvedaḥ_) ever impels a man in all undertakings (_satataṃ sarvārtheṣu pravartakaḥ_), and renders fruitful (_karoti saphalaṃ_) whatever deed a creature performs (_jantoḥ karma yac ca karoti saḥ_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ Ravana not yet seen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I shall put forth supreme effort (yatnaṃ ceṣṭe 'ham uttamam) born of undaunted resolve (anirvedakaraṃ), and I shall search the places guarded by Rāvaṇa (deśān rāvaṇapālitān) that I have not yet seen (adṛṣṭān).”
+“Therefore I shall put forth supreme effort (_yatnaṃ ceṣṭe &#x27;ham uttamam_) born of undaunted resolve (_anirvedakaraṃ_), and I shall search the places guarded by Rāvaṇa (_deśān rāvaṇapālitān_) that I have not yet seen (_adṛṣṭān_).”
 </details>
 </details>
 
@@ -774,9 +774,9 @@ and also small houses faraway from the main houses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “The drinking halls have been searched (āpānaśālā vicitāḥ), and so too the flower-pavilions (puṣpagṛhāṇi ca); the painted galleries (citraśālāś ca) have been searched, and likewise the sporting-chambers (krīḍāgṛhāṇi ca),
+**13:** “The drinking halls have been searched (_āpānaśālā vicitāḥ_), and so too the flower-pavilions (_puṣpagṛhāṇi ca_); the painted galleries (_citraśālāś ca_) have been searched, and likewise the sporting-chambers (_krīḍāgṛhāṇi ca_),
 
-**14:** “as well as the lanes within the pleasure-groves (niṣkuṭāntararathyāś ca) and the palace-towers (vimānāni ca) on every side.” Reflecting thus (iti saṃcintya), he began once more to search (bhūyo 'pi vicetum upacakrame),
+**14:** “as well as the lanes within the pleasure-groves (_niṣkuṭāntararathyāś ca_) and the palace-towers (_vimānāni ca_) on every side.” Reflecting thus (_iti saṃcintya_), he began once more to search (_bhūyo &#x27;pi vicetum upacakrame_),
 </details>
 </details>
 
@@ -805,7 +805,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[exploring] underground chambers (bhūmīgṛhān), crossroads pavilions (caityagṛhān), and secluded turret-retreats (gṛhātigṛhakān api)—leaping up (utpatan), dropping down (nipataṃś cāpi), pausing (tiṣṭhan), and moving on again (gacchan punaḥ kvacit),
+[exploring] underground chambers (_bhūmīgṛhān_), crossroads pavilions (_caityagṛhān_), and secluded turret-retreats (_gṛhātigṛhakān api_)—leaping up (_utpatan_), dropping down (_nipataṃś cāpi_), pausing (_tiṣṭhan_), and moving on again (_gacchan punaḥ kvacit_),
 </details>
 </details>
 
@@ -834,7 +834,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-unbarring doorways (apavṛṇvaṃś ca dvārāṇi), pushing against folding panels (kapāṭāny avaghaṭṭayan), entering (praviśan), darting out (niṣpataṃś cāpi), plunging down, and springing aloft (prapatann utpatann iva).
+unbarring doorways (_apavṛṇvaṃś ca dvārāṇi_), pushing against folding panels (_kapāṭāny avaghaṭṭayan_), entering (_praviśan_), darting out (_niṣpataṃś cāpi_), plunging down, and springing aloft (_prapatann utpatann iva_).
 </details>
 </details>
 
@@ -886,7 +886,7 @@ for four angulas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great monkey traversed every single space (sarvam apy avakāśaṃ vicacāra); within that inner palace of Rāvaṇa (rāvaṇāntaḥpure tasmin), there was not a space even four finger-breadths wide (caturaṅgulamātro 'pi nāvakāśaḥ sa vidyate) where that monkey did not go (yaṃ kapir na jagāma saḥ).
+That great monkey traversed every single space (_sarvam apy avakāśaṃ vicacāra_); within that inner palace of Rāvaṇa (_rāvaṇāntaḥpure tasmin_), there was not a space even four finger-breadths wide (_caturaṅgulamātro &#x27;pi nāvakāśaḥ sa vidyate_) where that monkey did not go (_yaṃ kapir na jagāma saḥ_).
 </details>
 </details>
 
@@ -965,7 +965,7 @@ all these had been seen by him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The avenues within the rampart walls (prākārāntaravīthyaś ca), the raised platforms around the sacred caitya trees (vedikāś caityasaṃśrayāḥ), the subterranean pits (śvabhrāś ca), and the lotus-ponds (puṣkariṇyaś ca)—all were inspected by him (sarvaṃ tenāvalokitam).
+The avenues within the rampart walls (_prākārāntaravīthyaś ca_), the raised platforms around the sacred _caitya_ trees (_vedikāś caityasaṃśrayāḥ_), the subterranean pits (_śvabhrāś ca_), and the lotus-ponds (_puṣkariṇyaś ca_)—all were inspected by him (_sarvaṃ tenāvalokitam_).
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ but not that Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rākṣasa women of diverse shapes (rākṣasyo vividhākārāḥ), misshapen (virūpāḥ) and hideous (vikṛtās tathā), were seen there by Hanumān (dṛṣṭā hanumatā tatra), but not that daughter of Janaka (na tu sā janakātmajā).
+_Rākṣasa_ women of diverse shapes (_rākṣasyo vividhākārāḥ_), misshapen (_virūpāḥ_) and hideous (_vikṛtās tathā_), were seen there by Hanumān (_dṛṣṭā hanumatā tatra_), but not that daughter of Janaka (_na tu sā janakātmajā_).
 </details>
 </details>
 
@@ -1074,7 +1074,7 @@ not Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Supreme women of the vidyādharas (parā vidyādharastriyaḥ), peerless in beauty across the world (rūpeṇāpratimā loke), were seen there by Hanumān, but not the delight of Rāghava (na tu rāghavanandinī).
+Supreme women of the _vidyādharas_ (_parā vidyādharastriyaḥ_), peerless in beauty across the world (_rūpeṇāpratimā loke_), were seen there by Hanumān, but not the delight of Rāghava (_na tu rāghavanandinī_).
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ but not Seetha with a beautiful waist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exquisitely hipped nāga maidens (nāgakanyā varārohāḥ) with faces resembling the full moon (pūrṇacandranibhānanāḥ) were seen there by Hanumān, but not that daughter of Janaka (na tu sā janakātmajā).
+Exquisitely hipped _nāga_ maidens (_nāgakanyā varārohāḥ_) with faces resembling the full moon (_pūrṇacandranibhānanāḥ_) were seen there by Hanumān, but not that daughter of Janaka (_na tu sā janakātmajā_).
 </details>
 </details>
 
@@ -1189,7 +1189,7 @@ not that Seetha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nāga maidens carried off by force (nāgakanyā balād dhṛtāḥ) by the lord of rākṣasas after crushing [their protectors] (pramathya rākṣasendreṇa) were seen there by Hanumān, but not that delight of Janaka (na sā janakanandinī).
+_Nāga_ maidens carried off by force (_nāgakanyā balād dhṛtāḥ_) by the lord of _rākṣasas_ after crushing [their protectors] (_pramathya rākṣasendreṇa_) were seen there by Hanumān, but not that delight of Janaka (_na sā janakanandinī_).
 </details>
 </details>
 
@@ -1242,7 +1242,7 @@ women became depressed again and again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not seeing her (so 'paśyaṃs tāṃ), though beholding other noble women (paśyaṃś cānyā varastriyaḥ), that mighty-armed Hanumān, the mighty-armed son of Marut (mahābāhur hanūmān mārutātmajaḥ), sank into dejection (viṣasāda).
+Not seeing her (_so &#x27;paśyaṃs tāṃ_), though beholding other noble women (_paśyaṃś cānyā varastriyaḥ_), that mighty-armed Hanumān, the mighty-armed son of Marut (_mahābāhur hanūmān mārutātmajaḥ_), sank into dejection (_viṣasāda_).
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that the exertion of the monkey chiefs (udyogaṃ vānarendrāṇāṃ) and his own leaping across the ocean (plavanaṃ sāgarasya ca) had proved fruitless (vyarthaṃ vīkṣya), the son of the Wind-god fell once more into anxious thought (cintāṃ punar upāgataḥ).
+Seeing that the exertion of the monkey chiefs (_udyogaṃ vānarendrāṇāṃ_) and his own leaping across the ocean (_plavanaṃ sāgarasya ca_) had proved fruitless (_vyarthaṃ vīkṣya_), the son of the Wind-god fell once more into anxious thought (_cintāṃ punar upāgataḥ_).
 </details>
 </details>
 
@@ -1358,7 +1358,7 @@ with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Descending from the Puṣpaka aerial palace (avatīrya vimānāc ca), Hanumān, the son of Marut, his mind overwhelmed by grief (śokopahatacetanaḥ), then sank into deep reflection (cintām upajagāmātha).
+Descending from the Puṣpaka aerial palace (_avatīrya vimānāc ca_), Hanumān, the son of Marut, his mind overwhelmed by grief (_śokopahatacetanaḥ_), then sank into deep reflection (_cintām upajagāmātha_).
 </details>
 </details>
 

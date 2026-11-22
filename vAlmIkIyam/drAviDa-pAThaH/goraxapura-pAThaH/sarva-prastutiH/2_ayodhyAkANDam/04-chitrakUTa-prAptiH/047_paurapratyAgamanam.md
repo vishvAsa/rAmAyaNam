@@ -85,7 +85,7 @@ were perplexed with grief and became motionless.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night had dawned (prabhātāyāṃ tu śarvaryām), those citizens without Rāghava became motionless, smitten by grief (śokopahata-niśceṣṭāḥ), and bereft of their senses (hata-cetasaḥ).
+When the night had dawned (_prabhātāyāṃ tu śarvaryām_), those citizens without Rāghava became motionless, smitten by grief (_śokopahata-niśceṣṭāḥ_), and bereft of their senses (_hata-cetasaḥ_).
 </details>
 </details>
 
@@ -137,7 +137,7 @@ glimmer of Rama, though casting their eyes everywhere.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Worn out with tears born of sorrow (śoka-jāśru-paridyūnāḥ) and gazing this way and that (vīkṣamāṇās tatas tataḥ), in their anguish they could not behold even a trace of Rāma (ālokam api rāmasya).
+Worn out with tears born of sorrow (_śoka-jāśru-paridyūnāḥ_) and gazing this way and that (_vīkṣamāṇās tatas tataḥ_), in their anguish they could not behold even a trace of Rāma (_ālokam api rāmasya_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ therefore non-plused, the citizens broke into piteous exclamations, saying:-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their faces afflicted with despair (viṣādārta-vadanāḥ), bereft of that wise prince (rahitās tena dhīmatā), those discerning men (manīṣiṇaḥ), wretched in plight (kṛpaṇāḥ), uttered piteous words (karuṇā vācaḥ).
+Their faces afflicted with despair (_viṣādārta-vadanāḥ_), bereft of that wise prince (_rahitās tena dhīmatā_), those discerning men (_manīṣiṇaḥ_), wretched in plight (_kṛpaṇāḥ_), uttered piteous words (_karuṇā vācaḥ_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ that mighty armed Rama with a broad chest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie indeed upon that sleep (dhig astu khalu nidrāṃ tām), robbed of our senses by which (yayāpahata-cetasaḥ) we do not behold today the broad-chested, mighty-armed Rāma (pṛthūraskaṃ mahā-bhujam)!
+“Fie indeed upon that sleep (_dhig astu khalu nidrāṃ tām_), robbed of our senses by which (_yayāpahata-cetasaḥ_) we do not behold today the broad-chested, mighty-armed Rāma (_pṛthūraskaṃ mahā-bhujam_)!
 </details>
 </details>
 
@@ -294,7 +294,7 @@ exile, abandoning his devoted citizens?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How could the mighty-armed Rāma, whose deeds are ever unfailing (avitatha-kriyaḥ), abandon his devoted folk (bhaktaṃ janam abhityajya) and depart into exile as an ascetic (tāpasaḥ)?
+How could the mighty-armed Rāma, whose deeds are ever unfailing (_avitatha-kriyaḥ_), abandon his devoted folk (_bhaktaṃ janam abhityajya_) and depart into exile as an ascetic (_tāpasaḥ_)?
 </details>
 </details>
 
@@ -341,7 +341,7 @@ of his loins, could proceed to the forest, leaving us?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How could that best of the Raghus (raghūṇāṃ sa śreṣṭhaḥ), who ever protects us even as a father protects his own true-born sons (aurasān), forsake us and go to the forest (vipinam)?
+How could that best of the Raghus (_raghūṇāṃ sa śreṣṭhaḥ_), who ever protects us even as a father protects his own true-born sons (_aurasān_), forsake us and go to the forest (_vipinam_)?
 </details>
 </details>
 
@@ -403,7 +403,7 @@ as we are from Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let us meet death right here (ihaiva nidhanaṃ yāma), or else set forth upon the Great Journey (mahā-prasthānam eva vā); for what purpose is life salutary (kim-arthaṃ jīvitaṃ hitam) unto us when bereft of Rāma?
+Let us meet death right here (_ihaiva nidhanaṃ yāma_), or else set forth upon the Great Journey (_mahā-prasthānam eva vā_); for what purpose is life salutary (_kim-arthaṃ jīvitaṃ hitam_) unto us when bereft of Rāma?
 </details>
 </details>
 
@@ -455,7 +455,7 @@ them, let us all enter the fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here there are dry logs of timber (śuṣkāṇi kāṣṭhāni), abundant and huge; kindling a funeral pyre with them (taiḥ prajvālya citām), let us all rather enter into it (praviśāmo 'thavā vayam)!
+Here there are dry logs of timber (_śuṣkāṇi kāṣṭhāni_), abundant and huge; kindling a funeral pyre with them (_taiḥ prajvālya citām_), let us all rather enter into it (_praviśāmo &#x27;thavā vayam_)!
 </details>
 </details>
 
@@ -509,7 +509,7 @@ so?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What shall we say (kiṃ vakṣyāmaḥ)? How is it possible or fitting to declare (vaktuṃ kathaṃ kṣamam): ‘That mighty-armed, ungrudging (anasūyaḥ), sweet-spoken Rāghava has been led away by us (nītaḥ sa rāghavo 'smābhiḥ)’?
+What shall we say (_kiṃ vakṣyāmaḥ_)? How is it possible or fitting to declare (_vaktuṃ kathaṃ kṣamam_): ‘That mighty-armed, ungrudging (_anasūyaḥ_), sweet-spoken Rāghava has been led away by us (_nītaḥ sa rāghavo &#x27;smābhiḥ_)’?
 </details>
 </details>
 
@@ -555,7 +555,7 @@ its women, children and the aged, become even deeply cheerless."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing us without Rāghava, that wretched city (sā nūnaṃ nagarī dīnā), together with its women, children, and aged folk (sa-strī-bāla-vayo-'dhikā), will surely become utterly joyless (nirānandā).
+Seeing us without Rāghava, that wretched city (_sā nūnaṃ nagarī dīnā_), together with its women, children, and aged folk (_sa-strī-bāla-vayo-&#x27;dhikā_), will surely become utterly joyless (_nirānandā_).
 </details>
 </details>
 
@@ -607,7 +607,7 @@ we look on that city again without him?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone forth in company with that great-souled hero (niryātās tena vīreṇa saha), how shall we look upon that city again when bereft of him (vihīnās tena ca punaḥ)?”
+Having gone forth in company with that great-souled hero (_niryātās tena vīreṇa saha_), how shall we look upon that city again when bereft of him (_vihīnās tena ca punaḥ_)?”
 </details>
 </details>
 
@@ -667,7 +667,7 @@ calves, lamented in various ways as above.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising up their arms (bāhum udyamya), those men, afflicted with sorrow, lamented manifold such words (itīva bahudhā vācaḥ), like foremost kine robbed of their calves (hṛta-vatsā ivāgrya-gāḥ).
+Raising up their arms (_bāhum udyamya_), those men, afflicted with sorrow, lamented manifold such words (_itīva bahudhā vācaḥ_), like foremost kine robbed of their calves (_hṛta-vatsā ivāgrya-gāḥ_).
 </details>
 </details>
 
@@ -720,7 +720,7 @@ overwhelmed with great despair again due to sudden disappearance of tracks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having gone for a brief while following the chariot-track (mārgānusāreṇa), when the track vanished (mārga-nāśāt) they were overwhelmed with mighty despair (viṣādena mahatā samabhiplutāḥ).
+Then, having gone for a brief while following the chariot-track (_mārgānusāreṇa_), when the track vanished (_mārga-nāśāt_) they were overwhelmed with mighty despair (_viṣādena mahatā samabhiplutāḥ_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ providence"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Following the course of the chariot-track (ratha-mārgānusāreṇa), those high-minded men turned back (nyavartanta manasvinaḥ), saying: “What is this? What shall we do? We are smitten down by fate (daivenopahatā iti)!”
+Following the course of the chariot-track (_ratha-mārgānusāreṇa_), those high-minded men turned back (_nyavartanta manasvinaḥ_), saying: “What is this? What shall we do? We are smitten down by fate (_daivenopahatā iti_)!”
 </details>
 </details>
 
@@ -828,7 +828,7 @@ comprising of virtuous people with distress, by the same path on which they had 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, weary in heart (klānta-cetasaḥ), by the very road by which they had come (yathā-gatenaiva mārgeṇa), they all went back to the city of Ayodhyā, whose righteous folk were sorely distressed (vyathita-saj-janām).
+Then, weary in heart (_klānta-cetasaḥ_), by the very road by which they had come (_yathā-gatenaiva mārgeṇa_), they all went back to the city of Ayodhyā, whose righteous folk were sorely distressed (_vyathita-saj-janām_).
 </details>
 </details>
 
@@ -888,7 +888,7 @@ grief , their minds distressed through cheerlessness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And beholding that city (ālokya nagarīṃ tāṃ ca), their minds distraught by ruin and loss (kṣaya-vyākula-mānasāḥ), they let fall tears (āvartayanta te 'śrūṇi) from their grief-tormented eyes (nayanaiḥ śoka-pīḍitaiḥ).
+And beholding that city (_ālokya nagarīṃ tāṃ ca_), their minds distraught by ruin and loss (_kṣaya-vyākula-mānasāḥ_), they let fall tears (_āvartayanta te &#x27;śrūṇi_) from their grief-tormented eyes (_nayanaiḥ śoka-pīḍitaiḥ_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ river whose snakes were uplifted from its pool by Garuda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of Rāma, this city shines no more (nātiśobhate), like a river whose serpents have been snatched up from its deep pool by Garuḍa (hrādāddhṛta-pannagā)!”
+“Bereft of Rāma, this city shines no more (_nātiśobhate_), like a river whose serpents have been snatched up from its deep pool by Garuḍa (_hrādāddhṛta-pannagā_)!”
 </details>
 </details>
 
@@ -983,7 +983,7 @@ beheld the city from which all joy had fled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beside themselves in mind (vicetasaḥ), they looked upon the city whose joy had been slain (nihatānandam), like the sky bereft of the moon (candra-hīnam ivākāśam) or the ocean bereft of water (toya-hīnam ivārṇavam).
+Beside themselves in mind (_vicetasaḥ_), they looked upon the city whose joy had been slain (_nihatānandam_), like the sky bereft of the moon (_candra-hīnam ivākāśam_) or the ocean bereft of water (_toya-hīnam ivārṇavam_).
 </details>
 </details>
 
@@ -1060,7 +1060,7 @@ were with grief, their joy having altogether extinguished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Afflicted with sorrow (duḥkhopahatāḥ) and entering those richly endowed mansions (veśmāni mahā-dhanāni) in anguish, with all their joy destroyed (pravinaṣṭa-harṣāḥ), even while gazing at them (nirīkṣyamāṇāḥ) they could not recognize their own kinsfolk or another (naiva prajagmuḥ sva-janaṃ paraṃ vā).
+Afflicted with sorrow (_duḥkhopahatāḥ_) and entering those richly endowed mansions (_veśmāni mahā-dhanāni_) in anguish, with all their joy destroyed (_pravinaṣṭa-harṣāḥ_), even while gazing at them (_nirīkṣyamāṇāḥ_) they could not recognize their own kinsfolk or another (_naiva prajagmuḥ sva-janaṃ paraṃ vā_).
 </details>
 </details>
 

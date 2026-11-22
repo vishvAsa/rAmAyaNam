@@ -80,7 +80,7 @@ fond of righteousness did not form the idea of taking Sita who was speaking as a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting upon the hardships of the forest (vane duḥkhāni cintayan), he who was so tender-hearted toward dharma (dharma-vatsalaḥ) did not form the resolve to lead Sītā (na netuṃ kurute buddhim), knower of dharma (dharmajñām), even though she spoke thus.
+Reflecting upon the hardships of the forest (_vane duḥkhāni cintayan_), he who was so tender-hearted toward _dharma_ (_dharma-vatsalaḥ_) did not form the resolve to lead Sītā (_na netuṃ kurute buddhim_), knower of _dharma_ (_dharmajñām_), even though she spoke thus.
 </details>
 </details>
 
@@ -133,7 +133,7 @@ virtuous Rama spoke again as follows, for the purpose of waking her turn back.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consoling her then, whose eyes were dimmed with tears (bāṣpa-dūṣita-locanām), the righteous-souled prince spoke this word for the purpose of turning her back (nivartanārthe):
+Consoling her then, whose eyes were dimmed with tears (_bāṣpa-dūṣita-locanām_), the righteous-souled prince spoke this word for the purpose of turning her back (_nivartanārthe_):
 </details>
 </details>
 
@@ -186,7 +186,7 @@ own virtue here, which is agreable to my mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sītā, you are born of a noble lineage (mahā-kulīnāsi) and are ever steadfastly devoted to dharma (dharme ca niratā sadā); practice dharma right here in Ayodhyā (ihācarasva dharmaṃ tvam), in such a way as will bring peace to my mind (yathā me manasaḥ sukham)!
+“O Sītā, you are born of a noble lineage (_mahā-kulīnāsi_) and are ever steadfastly devoted to _dharma_ (_dharme ca niratā sadā_); practice _dharma_ right here in Ayodhyā (_ihācarasva dharmaṃ tvam_), in such a way as will bring peace to my mind (_yathā me manasaḥ sukham_)!
 </details>
 </details>
 
@@ -239,7 +239,7 @@ forest. Know them from me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sītā, O delicate lady (abale), you must act just as I shall tell you (yathā tvāṃ vakṣyāmi tathā kāryaṃ tvayā); for there are many hardships for one dwelling in the forest (vane doṣā hi bahavo vasataḥ)—hear them from me (tān nibodha me)!
+“O Sītā, O delicate lady (_abale_), you must act just as I shall tell you (_yathā tvāṃ vakṣyāmi tathā kāryaṃ tvayā_); for there are many hardships for one dwelling in the forest (_vane doṣā hi bahavo vasataḥ_)—hear them from me (_tān nibodha me_)!
 </details>
 </details>
 
@@ -291,7 +291,7 @@ forest with its wilderness is fraught with many dangers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sītā, let this resolve of yours fixed upon dwelling in the forest be given up (vimucyatām eṣā vanavāsa-kṛtā matiḥ); for an impassable wilderness (kāntāram) is declared to be a place of manifold perils and hardships (bahu-doṣaṃ hi vanam ity abhidhīyate)!
+“O Sītā, let this resolve of yours fixed upon dwelling in the forest be given up (_vimucyatām eṣā vanavāsa-kṛtā matiḥ_); for an impassable wilderness (_kāntāram_) is declared to be a place of manifold perils and hardships (_bahu-doṣaṃ hi vanam ity abhidhīyate_)!
 </details>
 </details>
 
@@ -343,7 +343,7 @@ forest as comfortable. It is always uncomfortable."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is truly out of a desire for your welfare that this word is spoken by me (hita-buddhyā khalu vaco mayaitad abhidhīyate); I do not know the forest to be ever a place of happiness—on the contrary, the forest is ever sheer suffering (duḥkham eva sadā vanam)!
+“It is truly out of a desire for your welfare that this word is spoken by me (_hita-buddhyā khalu vaco mayaitad abhidhīyate_); I do not know the forest to be ever a place of happiness—on the contrary, the forest is ever sheer suffering (_duḥkham eva sadā vanam_)!
 </details>
 </details>
 
@@ -403,7 +403,7 @@ caves are unpleasant to hear. That is why living in a forest in uncomfortable."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Echoing with the roar of mountain torrents (giri-nirjhara-sambhūtāḥ), the roars of lions dwelling in mountain caverns (giri-nirdari-vāsināṃ siṃhānāṃ ninadāḥ) are painful even to hear (duḥkhāḥ śrotum); therefore the forest is full of suffering (duḥkham ato vanam)!
+“Echoing with the roar of mountain torrents (_giri-nirjhara-sambhūtāḥ_), the roars of lions dwelling in mountain caverns (_giri-nirdari-vāsināṃ siṃhānāṃ ninadāḥ_) are painful even to hear (_duḥkhāḥ śrotum_); therefore the forest is full of suffering (_duḥkham ato vanam_)!
 </details>
 </details>
 
@@ -456,7 +456,7 @@ forest; come forward, after seeing. Oh, Sita! That is why living in forest is un
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And sporting fearlessly in the solitary wilderness (krīḍamānāś ca visrabdhāḥ śūnye), rutting wild beasts (mattāḥ mṛgāḥ), upon catching sight of a traveller, charge straight at him (dṛṣṭvā samabhivartante); therefore, O Sītā, the forest is full of suffering!
+“And sporting fearlessly in the solitary wilderness (_krīḍamānāś ca visrabdhāḥ śūnye_), rutting wild beasts (_mattāḥ mṛgāḥ_), upon catching sight of a traveller, charge straight at him (_dṛṣṭvā samabhivartante_); therefore, O Sītā, the forest is full of suffering!
 </details>
 </details>
 
@@ -508,7 +508,7 @@ elephants also. Hence dwelling in a forest is always very much uncomfortable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the rivers, teeming with crocodiles and alligators (sa-grāhāḥ saritaś caiva) and deep with mire (paṅkavatyaḥ), are hard to cross even for rutting elephants (dustarāḥ mattair api gajair nityam); therefore the forest is aún more full of suffering (duḥkhataraṃ vanam)!
+“And the rivers, teeming with crocodiles and alligators (_sa-grāhāḥ saritaś caiva_) and deep with mire (_paṅkavatyaḥ_), are hard to cross even for rutting elephants (_dustarāḥ mattair api gajair nityam_); therefore the forest is aún more full of suffering (_duḥkhataraṃ vanam_)!
 </details>
 </details>
 
@@ -560,7 +560,7 @@ water-less and very difficult to enter. Hence dwelling in a forest is hardship."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Choked with creepers and thorns (latā-kaṇṭaka-saṅkīrṇāḥ) and echoing with the cries of wild cocks (kṛkavākūpanāditāḥ), the pathways are waterless and most grievous to tread (nirapāś ca su-duḥkhāś ca mārgāḥ); therefore the forest is full of suffering!
+“Choked with creepers and thorns (_latā-kaṇṭaka-saṅkīrṇāḥ_) and echoing with the cries of wild cocks (_kṛkavākūpanāditāḥ_), the pathways are waterless and most grievous to tread (_nirapāś ca su-duḥkhāś ca mārgāḥ_); therefore the forest is full of suffering!
 </details>
 </details>
 
@@ -612,7 +612,7 @@ living in a forest is very much a misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At night, exhausted by the day’s toil (rātriṣu śrama-khinnena), one must sleep upon the bare ground on beds of leaves that have fallen of themselves (supyate parṇa-śayyāsu svayaṃ-bhagnāsu bhū-tale); therefore the forest is full of suffering!
+“At night, exhausted by the day’s toil (_rātriṣu śrama-khinnena_), one must sleep upon the bare ground on beds of leaves that have fallen of themselves (_supyate parṇa-śayyāsu svayaṃ-bhagnāsu bhū-tale_); therefore the forest is full of suffering!
 </details>
 </details>
 
@@ -658,7 +658,7 @@ ourself with fruits fallen from trees. Hence, living in a forest is a suffering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And both by day and by night (ahorātraṃ ca), with a self-controlled mind (niyatātmanā), one must content oneself with fruits that have fallen from the trees (santoṣaḥ kartavyo phalair vṛkṣāvapatitaiḥ); therefore, O Sītā, the forest is full of suffering!
+“And both by day and by night (_ahorātraṃ ca_), with a self-controlled mind (_niyatātmanā_), one must content oneself with fruits that have fallen from the trees (_santoṣaḥ kartavyo phalair vṛkṣāvapatitaiḥ_); therefore, O Sītā, the forest is full of suffering!
 </details>
 </details>
 
@@ -718,7 +718,7 @@ Clothes of bark are to be worn and mass of matted hair has to be worn on the hea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And one must observe fasts according to one’s physical strength (upavāsaś ca kartavyo yathā-prāṇena), O Maithilī; and one must bear a mass of matted locks (jaṭā-bhāraś ca kartavyaḥ) and wear garments of tree-bark (valkalāmbara-dhāraṇam)!
+“And one must observe fasts according to one’s physical strength (_upavāsaś ca kartavyo yathā-prāṇena_), O Maithilī; and one must bear a mass of matted locks (_jaṭā-bhāraś ca kartavyaḥ_) and wear garments of tree-bark (_valkalāmbara-dhāraṇam_)!
 </details>
 </details>
 
@@ -770,7 +770,7 @@ according to the preseribed rites."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And day after day (nityaśaḥ), according to ritual precept (vidhi-pūrvakam), one must perform the worship of the gods and the ancestral Manes (devatānāṃ pitṝṇāṃ ca), as well as the hospitable reception of guests who arrive (prāptānām atithīnāṃ ca pratipūjanam)!
+“And day after day (_nityaśaḥ_), according to ritual precept (_vidhi-pūrvakam_), one must perform the worship of the gods and the ancestral Manes (_devatānāṃ pitṝṇāṃ ca_), as well as the hospitable reception of guests who arrive (_prāptānām atithīnāṃ ca pratipūjanam_)!
 </details>
 </details>
 
@@ -824,7 +824,7 @@ misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And for those who live strictly by ascetic rule (caratāṃ niyamenaiva), ritual bathing must be performed thrice daily at each appointed hour without fail (kāryas trir abhiṣekaś ca kāle kāle ca nityaśaḥ); therefore the forest is aún more full of suffering (tasmād duḥkhataraṃ vanam)!
+“And for those who live strictly by ascetic rule (_caratāṃ niyamenaiva_), ritual bathing must be performed thrice daily at each appointed hour without fail (_kāryas trir abhiṣekaś ca kāle kāle ca nityaśaḥ_); therefore the forest is aún more full of suffering (_tasmād duḥkhataraṃ vanam_)!
 </details>
 </details>
 
@@ -878,7 +878,7 @@ hardship."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And an offering of worship (upahāraś ca) must be made upon the altar with flowers gathered by one’s own hands (kusumaiḥ svayam āhṛtaiḥ), according to the ritual ordinance of the sages (ārṣeṇa vidhinā vedyām); therefore, O Sītā, the forest is full of suffering!
+“And an offering of worship (_upahāraś ca_) must be made upon the altar with flowers gathered by one’s own hands (_kusumaiḥ svayam āhṛtaiḥ_), according to the ritual ordinance of the sages (_ārṣeṇa vidhinā vedyām_); therefore, O Sītā, the forest is full of suffering!
 </details>
 </details>
 
@@ -931,7 +931,7 @@ whatever is obtained there, the restricted food. Hence, living in forest is a mi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And forest-dwellers of regulated diet (yatāhārair vanacaraiḥ) must content themselves with whatever fare happens to be obtained (yathā-labdhena kartavyaḥ santoṣas tena), O Maithilī; therefore, O Sītā, the forest is full of suffering!
+“And forest-dwellers of regulated diet (_yatāhārair vanacaraiḥ_) must content themselves with whatever fare happens to be obtained (_yathā-labdhena kartavyaḥ santoṣas tena_), O Maithilī; therefore, O Sītā, the forest is full of suffering!
 </details>
 </details>
 
@@ -994,7 +994,7 @@ fears too. Hence, dwelling in a forest is very much a misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is excessive wind and darkness (atīva vātas timiram), and fierce hunger continually (bubhukṣā cāti nityaśaḥ), and great terrors lurk there (bhayāni ca mahānty atra); therefore the forest is aún more full of suffering (tato duḥkhataraṃ vanam)!
+“There is excessive wind and darkness (_atīva vātas timiram_), and fierce hunger continually (_bubhukṣā cāti nityaśaḥ_), and great terrors lurk there (_bhayāni ca mahānty atra_); therefore the forest is aún more full of suffering (_tato duḥkhataraṃ vanam_)!
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ pride. Hence dwelling in a forst is a great misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And many creeping reptiles of diverse shapes (sarīsṛpāś ca bahavo bahu-rūpāś ca), O noble lady, roam proudly across the pathway (caranti pathi te darpāt); therefore the forest is aún more full of suffering!
+“And many creeping reptiles of diverse shapes (_sarīsṛpāś ca bahavo bahu-rūpāś ca_), O noble lady, roam proudly across the pathway (_caranti pathi te darpāt_); therefore the forest is aún more full of suffering!
 </details>
 </details>
 
@@ -1098,7 +1098,7 @@ pathways. Hence, living in forest is a great misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And river-dwelling serpents (nadī-nilayanāḥ sarpāḥ), moving in crooked meanders like rivers (nadī-kuṭila-gāminaḥ), lie blocking the pathway (tiṣṭhanty āvṛtya panthānam); therefore the forest is aún more full of suffering!
+“And river-dwelling serpents (_nadī-nilayanāḥ sarpāḥ_), moving in crooked meanders like rivers (_nadī-kuṭila-gāminaḥ_), lie blocking the pathway (_tiṣṭhanty āvṛtya panthānam_); therefore the forest is aún more full of suffering!
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ files always annoy every one. Hence, forest is full of hardship."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Flying locusts (pataṅgāḥ), scorpions (vṛścikāḥ), worms (kīṭāḥ), and gadflies together with mosquitoes (daṃśāś ca maśakaiḥ saha) continually torment one, O delicate lady (bādhante nityam abale); therefore the forest is altogether full of suffering (sarvaṃ duḥkham ato vanam)!
+“Flying locusts (_pataṅgāḥ_), scorpions (_vṛścikāḥ_), worms (_kīṭāḥ_), and gadflies together with mosquitoes (_daṃśāś ca maśakaiḥ saha_) continually torment one, O delicate lady (_bādhante nityam abale_); therefore the forest is altogether full of suffering (_sarvaṃ duḥkham ato vanam_)!
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ branches spread on all sides. Hence, living in a forest is a great misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And in the forest, O noble lady, the thorny trees (drumāḥ kaṇṭakinaś caiva) as well as the kuśa and kāśa grasses have their branch-tips tangled on every side (vyākula-śākhāgrāḥ); therefore on that account the forest is full of suffering!
+“And in the forest, O noble lady, the thorny trees (_drumāḥ kaṇṭakinaś caiva_) as well as the _kuśa_ and _kāśa_ grasses have their branch-tips tangled on every side (_vyākula-śākhāgrāḥ_); therefore on that account the forest is full of suffering!
 </details>
 </details>
 
@@ -1268,7 +1268,7 @@ Hence, forest- life is readly a misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many are the bodily afflictions (kāya-kleśāś ca bahavaḥ) and manifold the terrors (bhayāni vividhāni ca) for one who dwells in a forest abode (araṇya-vāse vasataḥ); the forest is ever sheer suffering (duḥkham eva sadā vanam)!
+“Many are the bodily afflictions (_kāya-kleśāś ca bahavaḥ_) and manifold the terrors (_bhayāni vividhāni ca_) for one who dwells in a forest abode (_araṇya-vāse vasataḥ_); the forest is ever sheer suffering (_duḥkham eva sadā vanam_)!
 </details>
 </details>
 
@@ -1322,7 +1322,7 @@ a suffereing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Anger and greed must be utterly cast aside (krodha-lobhau vimoktavyau), one’s mind must be set upon ascetic austerity (kartavyā tapase matiḥ), and one must not fear even before what is fearful (na bhetavyaṃ ca bhetavye); therefore the forest is perpetually full of suffering!
+“Anger and greed must be utterly cast aside (_krodha-lobhau vimoktavyau_), one’s mind must be set upon ascetic austerity (_kartavyā tapase matiḥ_), and one must not fear even before what is fearful (_na bhetavyaṃ ca bhetavye_); therefore the forest is perpetually full of suffering!
 </details>
 </details>
 
@@ -1378,7 +1378,7 @@ bearable for you. Reflecting now, I perceive forest as having too many disadvant
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore enough of your going to the forest (tad alaṃ te vanaṃ gatvā)! The forest is truly not safe or suitable for you (kṣemaṃ na hi vanaṃ tava); reflecting upon it closely (vimṛśann iva), I behold the forest to be fraught with manifold evils (paśyāmi bahu-doṣakaraṃ vanam)!”
+“Therefore enough of your going to the forest (_tad alaṃ te vanaṃ gatvā_)! The forest is truly not safe or suitable for you (_kṣemaṃ na hi vanaṃ tava_); reflecting upon it closely (_vimṛśann iva_), I behold the forest to be fraught with manifold evils (_paśyāmi bahu-doṣakaraṃ vanam_)!”
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ Sita spoke to Rama as follows:-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the high-souled Rāma thus formed no resolve to lead her to the forest (vanaṃ tu netuṃ na kṛtā matir yadā babhūva rāmeṇa), Sītā did not accept that word of his (na tasya sītā vacanaṃ cakāra); and deeply distressed (su-duḥkhitā), she then spoke this word to Rāma.
+When the high-souled Rāma thus formed no resolve to lead her to the forest (_vanaṃ tu netuṃ na kṛtā matir yadā babhūva rāmeṇa_), Sītā did not accept that word of his (_na tasya sītā vacanaṃ cakāra_); and deeply distressed (_su-duḥkhitā_), she then spoke this word to Rāma.
 </details>
 </details>
 

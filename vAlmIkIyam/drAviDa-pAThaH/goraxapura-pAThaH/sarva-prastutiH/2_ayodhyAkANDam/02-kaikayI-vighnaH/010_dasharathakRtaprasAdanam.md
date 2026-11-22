@@ -76,7 +76,7 @@ floor as a Kinnara woman beaten by a poisoned arrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the queen had been thoroughly misguided (vidarśitā bhṛśam) by the wicked hunchback, she lay upon the ground like a Kinnarī pierced by a poisoned shaft (digdhaviddheva kiṃnarī).
+When the queen had been thoroughly misguided (_vidarśitā bhṛśam_) by the wicked hunchback, she lay upon the ground like a Kinnarī pierced by a poisoned shaft (_digdhaviddheva kiṃnarī_).
 </details>
 </details>
 
@@ -128,7 +128,7 @@ to Manthara.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having resolved in her mind that her course of action was right (niścitya manasā kṛtyaṃ sā samyag iti), the shrewd and passionate woman (bhāminī vicakṣaṇā) softly declared everything to Mantharā.
+Having resolved in her mind that her course of action was right (_niścitya manasā kṛtyaṃ sā samyag iti_), the shrewd and passionate woman (_bhāminī vicakṣaṇā_) softly declared everything to Mantharā.
 </details>
 </details>
 
@@ -186,7 +186,7 @@ which can lead to her happiness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dejected (dīnā) and deluded by Mantharā's words, that passionate queen made up her mind; and sighing a long, hot breath like a Nāga maiden (nāgakanyeva niḥśvasya)—
+Dejected (_dīnā_) and deluded by Mantharā&#x27;s words, that passionate queen made up her mind; and sighing a long, hot breath like a Nāga maiden (_nāgakanyeva niḥśvasya_)—
 </details>
 </details>
 
@@ -241,7 +241,7 @@ of Kaikeyi's firm resolve and became very much pleased as if she achieved succes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-she pondered for a moment the path that would bring happiness to herself (mārgam ātmasukhāvaham). Hearing that firm resolve, Mantharā—her friend and well-wisher (suhṛc cārthakāmā ca)—
+she pondered for a moment the path that would bring happiness to herself (_mārgam ātmasukhāvaham_). Hearing that firm resolve, Mantharā—her friend and well-wisher (_suhṛc cārthakāmā ca_)—
 </details>
 </details>
 
@@ -294,7 +294,7 @@ knitted in her face.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-became supremely delighted (babhūva paramaprītā), as though she had already attained success (siddhiṃ prāpyeva). Then that enraged queen, having firmly fixed her resolve,
+became supremely delighted (_babhūva paramaprītā_), as though she had already attained success (_siddhiṃ prāpyeva_). Then that enraged queen, having firmly fixed her resolve,
 </details>
 </details>
 
@@ -340,7 +340,7 @@ floor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-lay down helplessly (abalā) upon the ground, knitting a frown upon her brow (niveśya bhrukuṭiṃ mukhe); and then her bright garlands and divine ornaments—
+lay down helplessly (_abalā_) upon the ground, knitting a frown upon her brow (_niveśya bhrukuṭiṃ mukhe_); and then her bright garlands and divine ornaments—
 </details>
 </details>
 
@@ -396,7 +396,7 @@ shine, as stars to the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—flung aside (apaviddhāni) by Kaikeyī, fell upon the ground; those garlands and ornaments cast off by her
+—flung aside (_apaviddhāni_) by Kaikeyī, fell upon the ground; those garlands and ornaments cast off by her
 </details>
 </details>
 
@@ -452,7 +452,7 @@ dead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-adorned the earth even as stars adorn the firmament (nakṣatrāṇi yathā nabhaḥ). Fallen in the chamber of wrath and clad in soiled garments (malināmbarā), she shone—
+adorned the earth even as stars adorn the firmament (_nakṣatrāṇi yathā nabhaḥ_). Fallen in the chamber of wrath and clad in soiled garments (_malināmbarā_), she shone—
 </details>
 </details>
 
@@ -504,7 +504,7 @@ took permission to leave from the elders who were present there and entered his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having bound her hair into a tight single braid (ekaveṇīṃ dṛḍhāṃ baddhvā), like a Kinnarī bereft of strength (gatasattveva kiṃnarī). Meanwhile, the great king, having commanded Rāghava's consecration,
+having bound her hair into a tight single braid (_ekaveṇīṃ dṛḍhāṃ baddhvā_), like a Kinnarī bereft of strength (_gatasattveva kiṃnarī_). Meanwhile, the great king, having commanded Rāghava&#x27;s consecration,
 </details>
 </details>
 
@@ -560,7 +560,7 @@ the good news first (thinking that she has not yet heard the news).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-dismissed the royal assembly (upasthānam anujñāpya) and entered his inner apartments, knowing that Rāma's consecration was now publicized (adya rāmābhiṣeko vai prasiddha iti jajñivān).
+dismissed the royal assembly (_upasthānam anujñāpya_) and entered his inner apartments, knowing that Rāma&#x27;s consecration was now publicized (_adya rāmābhiṣeko vai prasiddha iti jajñivān_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ with white clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To impart the gladsome tidings to her who was worthy of pleasant news (priyārhāṃ priyam ākhyātum), the self-controlled monarch entered the women's quarters; that illustrious king entered Kaikeyī's splendid palace—
+To impart the gladsome tidings to her who was worthy of pleasant news (_priyārhāṃ priyam ākhyātum_), the self-controlled monarch entered the women&#x27;s quarters; that illustrious king entered Kaikeyī&#x27;s splendid palace—
 </details>
 </details>
 
@@ -651,9 +651,9 @@ Entering Kaikeyī's heaven-like apartments filled with music, bowers, and jewele
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** even as the moon enters a sky pale with white clouds yet beset by Rāhu (pāṇḍurābhram ivākāśaṃ rāhuyuktaṃ niśākaraḥ)—a palace Thronged with parrots and peacocks, and resounding with the cries of krauñcas and swans,
+**12:** even as the moon enters a sky pale with white clouds yet beset by Rāhu (_pāṇḍurābhram ivākāśaṃ rāhuyuktaṃ niśākaraḥ_)—a palace Thronged with parrots and peacocks, and resounding with the cries of krauñcas and swans,
 
-**13:** —resounding with the strains of musical instruments (vāditraravasaṅghuṣṭam), attended by hunchbacked and dwarf maids (kubjāvāmanikāyutam), and graced with vine-bowers and picture-galleries (latāgṛhaiś citragṛhaiḥ) bright with campaka and aśoka trees;
+**13:** —resounding with the strains of musical instruments (_vāditraravasaṅghuṣṭam_), attended by hunchbacked and dwarf maids (_kubjāvāmanikāyutam_), and graced with vine-bowers and picture-galleries (_latāgṛhaiś citragṛhaiḥ_) bright with campaka and aśoka trees;
 </details>
 </details>
 
@@ -687,7 +687,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-furnished with pavilions of ivory, silver, and gold (dāntarājatasauvarṇavedikābhiḥ), and adorned with pleasure-tanks and trees bearing perpetual blossoms and fruit (nityapuṣpaphalair vṛkṣaiḥ);
+furnished with pavilions of ivory, silver, and gold (_dāntarājatasauvarṇavedikābhiḥ_), and adorned with pleasure-tanks and trees bearing perpetual blossoms and fruit (_nityapuṣpaphalair vṛkṣaiḥ_);
 </details>
 </details>
 
@@ -786,7 +786,7 @@ heaven with beautifully adorned women.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and endowed with costly ornaments, so that it resembled heaven (tridivopamam). Entering his own opulent inner apartment (svam antaḥpuram ṛddhimat), the great king
+and endowed with costly ornaments, so that it resembled heaven (_tridivopamam_). Entering his own opulent inner apartment (_svam antaḥpuram ṛddhimat_), the great king
 </details>
 </details>
 
@@ -838,7 +838,7 @@ was distressed in not finding his beloved wife and enquired the people there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-did not behold his wife Kaikeyī upon her supreme couch (śayanottame). Filled with the force of love (kāmabalasaṃyuktaḥ) and seeking amorous delight (ratyarthī), the lord of men,
+did not behold his wife Kaikeyī upon her supreme couch (_śayanottame_). Filled with the force of love (_kāmabalasaṃyuktaḥ_) and seeking amorous delight (_ratyarthī_), the lord of men,
 </details>
 </details>
 
@@ -912,9 +912,9 @@ before, without knowing about foolish Kaikeyi who desired to get her selfish end
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** not seeing his beloved consort, inquired after her and sank into dejection (viṣasāda ca); for never before had the queen transgressed that hour of his coming (tāṃ velām atyavartata)—
+**18:** not seeing his beloved consort, inquired after her and sank into dejection (_viṣasāda ca_); for never before had the queen transgressed that hour of his coming (_tāṃ velām atyavartata_)—
 
-**19:** —nor had the king ever entered her palace to find it empty (gṛhaṃ śūnyam). Then, having entered the apartment, the king inquired after Kaikeyī
+**19:** —nor had the king ever entered her palace to find it empty (_gṛhaṃ śūnyam_). Then, having entered the apartment, the king inquired after Kaikeyī
 </details>
 </details>
 
@@ -967,7 +967,7 @@ king! The queen ran to her chamber of wrath with much anger".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as was his wont before (yathāpuram), not knowing that the foolish woman was greedy for her own selfish end (svārthalipsum apaṇḍitām). Then the female doorkeeper (pratihārī), terrified and with joined palms, spoke:
+as was his wont before (_yathāpuram_), not knowing that the foolish woman was greedy for her own selfish end (_svārthalipsum apaṇḍitām_). Then the female doorkeeper (_pratihārī_), terrified and with joined palms, spoke:
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ became more dejected after hearing the words of door-keeper.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O my lord, the queen, exceedingly enraged, has rushed into the chamber of wrath (krodhāgāram abhidrutā)!” Hearing the doorkeeper's words, the king, his mind sorely distressed (paramadurmanāḥ),
+“O my lord, the queen, exceedingly enraged, has rushed into the chamber of wrath (_krodhāgāram abhidrutā_)!” Hearing the doorkeeper&#x27;s words, the king, his mind sorely distressed (_paramadurmanāḥ_),
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ became tormented with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-sank into even deeper dejection (viṣasāda punar bhūyaḥ), his senses agitated and bewildered (lulitavyākulendriyaḥ). There the lord of the earth, as though scorched by grief (pratapta iva duḥkhena),
+sank into even deeper dejection (_viṣasāda punar bhūyaḥ_), his senses agitated and bewildered (_lulitavyākulendriyaḥ_). There the lord of the earth, as though scorched by grief (_pratapta iva duḥkhena_),
 </details>
 </details>
 
@@ -1101,9 +1101,9 @@ sank into even deeper dejection (viṣasāda punar bhūyaḥ), his senses agitat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** beheld her lying fallen upon the ground in a manner unworthy of her (atathocitām); the aged monarch (sa vṛddhaḥ) beheld his youthful wife (taruṇīṃ bhāryām), dearer to him than his own life-breaths (prāṇebhyo 'pi garīyasīm)—
+**23:** beheld her lying fallen upon the ground in a manner unworthy of her (_atathocitām_); the aged monarch (_sa vṛddhaḥ_) beheld his youthful wife (_taruṇīṃ bhāryām_), dearer to him than his own life-breaths (_prāṇebhyo &#x27;pi garīyasīm_)—
 
-**24:** he, sinless himself (apāpaḥ), beheld her of sinful resolve (pāpasaṃkalpām) upon the surface of the earth, like a creeper hacked down (latām iva viniṣkṛttām), or like a goddess fallen from heaven,
+**24:** he, sinless himself (_apāpaḥ_), beheld her of sinful resolve (_pāpasaṃkalpām_) upon the surface of the earth, like a creeper hacked down (_latām iva viniṣkṛttām_), or like a goddess fallen from heaven,
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ Apsarasa, like a dropped off illusionism and like a female deer tied up in a net
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—like a Kinnarī cast down (kinnarīm iva nirdhūtām), like an Apsaras fallen from the sky, like an illusion dispelled (māyām iva paribhraṣṭām), like a doe ensnared in a net (hariṇīm iva saṃyatām),
+—like a Kinnarī cast down (_kinnarīm iva nirdhūtām_), like an Apsaras fallen from the sky, like an illusion dispelled (_māyām iva paribhraṣṭām_), like a doe ensnared in a net (_hariṇīm iva saṃyatām_),
 </details>
 </details>
 
@@ -1241,9 +1241,9 @@ lotus-eyed woman with his hands and spoke the following words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** and like a cow-elephant pierced in the forest by a hunter with a poisoned arrow (kareṇum iva digdhena viddhāṃ mṛgayuṇā vane). Out of affection, like a great elephant in the forest,
+**26:** and like a cow-elephant pierced in the forest by a hunter with a poisoned arrow (_kareṇum iva digdhena viddhāṃ mṛgayuṇā vane_). Out of affection, like a great elephant in the forest,
 
-**27:** stroking her who was sorely distressed with both hands (parimṛjya ca pāṇibhyām), his mind terrified (abhisaṃtrastacetanaḥ), the love-smitten king (kāmī) spoke these words to his lotus-petal-eyed wife:
+**27:** stroking her who was sorely distressed with both hands (_parimṛjya ca pāṇibhyām_), his mind terrified (_abhisaṃtrastacetanaḥ_), the love-smitten king (_kāmī_) spoke these words to his lotus-petal-eyed wife:
 </details>
 </details>
 
@@ -1301,7 +1301,7 @@ has cursed or disrespected you? I am pained to see you resting in this way on a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not know the cause of the wrath lodged within your heart (krodham ātmani saṃśritam); O queen, by whom have you been wronged (abhiyuktāsi), or by whom have you been slighted (vimānitā)?
+“I do not know the cause of the wrath lodged within your heart (_krodham ātmani saṃśritam_); O queen, by whom have you been wronged (_abhiyuktāsi_), or by whom have you been slighted (_vimānitā_)?
 </details>
 </details>
 
@@ -1355,7 +1355,7 @@ on the floor like the one who is possessed of a devil."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why is it that, to my sorrow, you lie here in the dust (pāṃsuṣu), O auspicious lady? Why do you lie upon the bare ground when my heart is ever devoted to your welfare (mayi kalyāṇacetasi),
+Why is it that, to my sorrow, you lie here in the dust (_pāṃsuṣu_), O auspicious lady? Why do you lie upon the bare ground when my heart is ever devoted to your welfare (_mayi kalyāṇacetasi_),
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ can make you healthy. Tell me your sickness".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as though your mind were possessed by a spirit (bhūtopahatacitteva), O tormentor of my heart (mama cittapramāthini)? I have skilled physicians (kuśalā vaidyāḥ), thoroughly contented in every way—
+as though your mind were possessed by a spirit (_bhūtopahatacitteva_), O tormentor of my heart (_mama cittapramāthini_)? I have skilled physicians (_kuśalā vaidyāḥ_), thoroughly contented in every way—
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ have to extend a favour now and to whom I have to do a great offensive act."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—they will restore you to health; declare your malady (vyādhim ācakṣva), O passionate lady! Or upon whom is a favour to be conferred, or by whom has an offence (vipriyam) been committed?
+“—they will restore you to health; declare your malady (_vyādhim ācakṣva_), O passionate lady! Or upon whom is a favour to be conferred, or by whom has an offence (_vipriyam_) been committed?
 </details>
 </details>
 
@@ -1527,9 +1527,9 @@ a poor man prosperous or a rich man, destitute".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** Who shall obtain a favour today, or who shall meet with a grievous displeasure (sumahad apriyam)? Do not weep (mā rautsīḥ), O queen, and do not waste away your frame (mā ca kārṣīs tvaṃ devi sampariśoṣaṇam)!
+**32:** Who shall obtain a favour today, or who shall meet with a grievous displeasure (_sumahad apriyam_)? Do not weep (_mā rautsīḥ_), O queen, and do not waste away your frame (_mā ca kārṣīs tvaṃ devi sampariśoṣaṇam_)!
 
-**33:** What man exempt from death shall be slain (avadhyo vadhyatāṃ ko vā), or what man condemned to death shall be set free? What pauper shall become wealthy (āḍhyaḥ), or what man of wealth be made penniless (akiṃcanaḥ)?
+**33:** What man exempt from death shall be slain (_avadhyo vadhyatāṃ ko vā_), or what man condemned to death shall be set free? What pauper shall become wealthy (_āḍhyaḥ_), or what man of wealth be made penniless (_akiṃcanaḥ_)?
 </details>
 </details>
 
@@ -1583,7 +1583,7 @@ your intention".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For both I myself and all who are mine follow your will (sarve tava vaśānugāḥ); I cannot bear to thwart (vyāhantum) any wish of yours!
+For both I myself and all who are mine follow your will (_sarve tava vaśānugāḥ_); I cannot bear to thwart (_vyāhantum_) any wish of yours!
 </details>
 </details>
 
@@ -1639,7 +1639,7 @@ righteousness that I shall certainly do whatever is liked by you".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even at the cost of my own life (ātmano jīvitenāpi), speak what is lodged in your heart; knowing the power you hold over me (balam ātmani jānantī), you ought not to doubt me!”
+Even at the cost of my own life (_ātmano jīvitenāpi_), speak what is lodged in your heart; knowing the power you hold over me (_balam ātmani jānantī_), you ought not to doubt me!”
 </details>
 </details>
 
@@ -1706,9 +1706,9 @@ all full of riches.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “I shall fulfill your pleasure—I swear to you by my own good deeds (sukṛtenāpi te śape)! As far as the wheel of sovereignty revolves (yāvad āvartate cakram), so far extends this earth that is mine:
+**36:** “I shall fulfill your pleasure—I swear to you by my own good deeds (_sukṛtenāpi te śape_)! As far as the wheel of sovereignty revolves (_yāvad āvartate cakram_), so far extends this earth that is mine:
 
-**37:** the Drāviḍas, the Sindhu-Sauvīras, the Saurāṣṭras, the realms of the Southern Path (dakṣiṇāpathāḥ), the Vaṅgas, Aṅgas, Magadhas, Matsyas, and the prosperous Kāśis and Kosalas—
+**37:** the Drāviḍas, the Sindhu-Sauvīras, the Saurāṣṭras, the realms of the Southern Path (_dakṣiṇāpathāḥ_), the Vaṅgas, Aṅgas, Magadhas, Matsyas, and the prosperous Kāśis and Kosalas—
 </details>
 </details>
 
@@ -1755,7 +1755,7 @@ produced. Oh, Kaikeyi! which of the goods do you want to acquire?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-manifold products arise there, wealth, grain, goats, and sheep (dhanadhānyam ajāvikam); from all that, choose, O Kaikeyī, whatever you desire in your heart!
+manifold products arise there, wealth, grain, goats, and sheep (_dhanadhānyam ajāvikam_); from all that, choose, O Kaikeyī, whatever you desire in your heart!
 </details>
 </details>
 
@@ -1814,7 +1814,7 @@ mist."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What need is there of this weary toil (kim āyāsena te), O timid one? Arise, arise, O lovely lady! Speak the truth to me, O Kaikeyī, whence this fear has come upon you; I shall dispel it for you, even as the radiant sun dispels the mist (nīhāram iva raśmivān)!”
+What need is there of this weary toil (_kim āyāsena te_), O timid one? Arise, arise, O lovely lady! Speak the truth to me, O Kaikeyī, whence this fear has come upon you; I shall dispel it for you, even as the radiant sun dispels the mist (_nīhāram iva raśmivān_)!”
 </details>
 </details>
 
@@ -1877,7 +1877,7 @@ like Rama's exile was beginning to harass her husband further, by her words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, she was reassured (samāśvastā); and eager to utter that cruel demand (vaktukāmā tad apriyam), she began to torment her husband still further (paripīḍayituṃ bhūyo bhartāram upacakrame).
+Addressed thus, she was reassured (_samāśvastā_); and eager to utter that cruel demand (_vaktukāmā tad apriyam_), she began to torment her husband still further (_paripīḍayituṃ bhūyo bhartāram upacakrame_).
 </details>
 </details>
 

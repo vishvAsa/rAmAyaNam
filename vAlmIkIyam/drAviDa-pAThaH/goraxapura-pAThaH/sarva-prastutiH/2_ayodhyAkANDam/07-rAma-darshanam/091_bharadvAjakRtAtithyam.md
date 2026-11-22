@@ -81,7 +81,7 @@ prepared to offer Bharata the son of Kaikeyi the full honours due to a guest
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Bharata, the son of Kaikeyī, had made up his mind to stay right there for the night (kṛta-buddhiṃ nivāsāya tatraiva), the sage then invited him to accept his hospitality (sa munis tadā bharataṃ kaikayī-putram ātithyena nyamantrayat).
+When Bharata, the son of Kaikeyī, had made up his mind to stay right there for the night (_kṛta-buddhiṃ nivāsāya tatraiva_), the sage then invited him to accept his hospitality (_sa munis tadā bharataṃ kaikayī-putram ātithyena nyamantrayat_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ to wash my hands and feet and offered me this hospitality fitting for a guest in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata, however, said to him: “Surely all this has already been done by your reverence (abravīd bharatas tv enaṃ nanv idaṃ bhavatā kṛtam)—water for the feet, the arghya offering, and such hospitality as is fitting in the forest (pādyam arghyaṃ tathātithyaṃ vane yad upapadyate).”
+Bharata, however, said to him: “Surely all this has already been done by your reverence (_abravīd bharatas tv enaṃ nanv idaṃ bhavatā kṛtam_)—water for the feet, the _arghya_ offering, and such hospitality as is fitting in the forest (_pādyam arghyaṃ tathātithyaṃ vane yad upapadyate_).”
 </details>
 </details>
 
@@ -188,7 +188,7 @@ friendly disposition and you are pleased with whatever is offered to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Bharadvāja said to Bharata as though smiling gently (athovāca bharadvājo bharataṃ prahasann iva): “I know that you are filled with affectionate devotion and would be content with whatever little is offered (jāne tvāṃ prīti-saṃyuktaṃ tuṣyes tvaṃ yena kenacit).
+Then Bharadvāja said to Bharata as though smiling gently (_athovāca bharadvājo bharataṃ prahasann iva_): “I know that you are filled with affectionate devotion and would be content with whatever little is offered (_jāne tvāṃ prīti-saṃyuktaṃ tuṣyes tvaṃ yena kenacit_).
 </details>
 </details>
 
@@ -240,7 +240,7 @@ fulfil my satisfaction in every suitable way."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet I desire to provide a feast for this army of yours (senāyās tu tavaitasyāḥ kartum icchāmi bhojanam); and you, O lord of men, are worthy of a hospitality that matches my affection (mama prītir yathā-rūpā tvam arho manujādhipa).
+“Yet I desire to provide a feast for this army of yours (_senāyās tu tavaitasyāḥ kartum icchāmi bhojanam_); and you, O lord of men, are worthy of a hospitality that matches my affection (_mama prītir yathā-rūpā tvam arho manujādhipa_).
 </details>
 </details>
 
@@ -292,7 +292,7 @@ come to my place with your army?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And wherefore have you come here after leaving your forces at a distance (kim-arthaṃ cāpi nikṣipya dūre balam ihāgataḥ)? Why did you not approach this place together with your army, O bull among men (kasmān nehopayāto 'si sa-balaḥ puruṣarṣabha)?”
+“And wherefore have you come here after leaving your forces at a distance (_kim-arthaṃ cāpi nikṣipya dūre balam ihāgataḥ_)? Why did you not approach this place together with your army, O bull among men (_kasmān nehopayāto &#x27;si sa-balaḥ puruṣarṣabha_)?”
 </details>
 </details>
 
@@ -346,7 +346,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing with joined palms, Bharata replied with these words to that sage whose wealth was asceticism (bharataḥ pratyuvācedaṃ prāñjalis taṃ tapo-dhanam): “I did not approach with my army, O venerable Lord, out of fear of offending your reverence (sa-sainyo nopayāto 'smi bhagavan bhagavad-bhayāt).
+Standing with joined palms, Bharata replied with these words to that sage whose wealth was asceticism (_bharataḥ pratyuvācedaṃ prāñjalis taṃ tapo-dhanam_): “I did not approach with my army, O venerable Lord, out of fear of offending your reverence (_sa-sainyo nopayāto &#x27;smi bhagavan bhagavad-bhayāt_).
 </details>
 </details>
 
@@ -406,7 +406,7 @@ places occupied by ascetics"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By a king or a prince, O venerable one, ascetics dwelling in his domains must always be sedulously spared from disturbance (rājñā ca bhagavan nityaṃ rāja-putreṇa vā sadā yatnataḥ parihartavyā viṣayeṣu tapasvinaḥ).
+“By a king or a prince, O venerable one, ascetics dwelling in his domains must always be sedulously spared from disturbance (_rājñā ca bhagavan nityaṃ rāja-putreṇa vā sadā yatnataḥ parihartavyā viṣayeṣu tapasvinaḥ_).
 </details>
 </details>
 
@@ -458,7 +458,7 @@ area are accompanying me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Choice steeds, men, and rutting lordly elephants follow in my train, O venerable Lord, covering a vast expanse of earth (vāji-mukhyā manuṣyāś ca mattāś ca vara-vāraṇāḥ pracchādya bhagavan bhūmiṃ mahatīm anuyānti mām).
+“Choice steeds, men, and rutting lordly elephants follow in my train, O venerable Lord, covering a vast expanse of earth (_vāji-mukhyā manuṣyāś ca mattāś ca vara-vāraṇāḥ pracchādya bhagavan bhūmiṃ mahatīm anuyānti mām_).
 </details>
 </details>
 
@@ -513,7 +513,7 @@ thought; *aham* = I; *samaagataH* = came; *eka eva* = alone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fearing lest they injure the trees, water, grounds, and leaf-huts in the hermitage precincts, I came here all alone (te vṛkṣān udakaṃ bhūmim āśrameṣūṭajāṃs tathā na hiṃsyur iti tenāham eka eva samāgataḥ).”
+“Fearing lest they injure the trees, water, grounds, and leaf-huts in the hermitage precincts, I came here all alone (_te vṛkṣān udakaṃ bhūmim āśrameṣūṭajāṃs tathā na hiṃsyur iti tenāham eka eva samāgataḥ_).”
 </details>
 </details>
 
@@ -565,7 +565,7 @@ there, allowed the army's arrival to the hermitage.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by the supreme sage with the words, “Let the army be brought hither!” (ānīyatām itaḥ senety ājñaptaḥ paramarṣiṇā), Bharata thereupon caused the army to advance to that spot (tatas tu cakre bharataḥ senāyāḥ samupāgamam).
+Commanded by the supreme sage with the words, “Let the army be brought hither!” (_ānīyatām itaḥ senety ājñaptaḥ paramarṣiṇā_), Bharata thereupon caused the army to advance to that spot (_tatas tu cakre bharataḥ senāyāḥ samupāgamam_).
 </details>
 </details>
 
@@ -620,7 +620,7 @@ order to fulfil his duties towards the guests (as follows)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the sacred fire-chamber, sipping water, and wiping his lips (agni-śālāṃ praviśyātha pītvāpaḥ parimṛjya ca), the sage invoked Viśvakarman in order to accomplish the hospitality (ātithyasya kriyā-hetor viśvakarmāṇam āhvayat).
+Entering the sacred fire-chamber, sipping water, and wiping his lips (_agni-śālāṃ praviśyātha pītvāpaḥ parimṛjya ca_), the sage invoked Viśvakarman in order to accomplish the hospitality (_ātithyasya kriyā-hetor viśvakarmāṇam āhvayat_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ divine carpenter. Let arrangements be made in that connection for me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I invoke Viśvakarman, who is himself Tvaṣṭṛ (āhvaye viśvakarmāṇam ahaṃ tvaṣṭāram eva ca); I desire to offer hospitality—let the requisite arrangements be provided for me here (ātithyaṃ kartum icchāmi tatra me saṃvidhīyatām)!
+“I invoke Viśvakarman, who is himself Tvaṣṭṛ (_āhvaye viśvakarmāṇam ahaṃ tvaṣṭāram eva ca_); I desire to offer hospitality—let the requisite arrangements be provided for me here (_ātithyaṃ kartum icchāmi tatra me saṃvidhīyatām_)!
 </details>
 </details>
 
@@ -735,7 +735,7 @@ made in this connection for me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I invoke the three world-guardians and the gods headed by Śakra (āhvaye loka-pālāṃs trīn devān śakra-mukhāṃs tathā); I desire to offer hospitality—let the requisite arrangements be provided for me here (ātithyaṃ kartum icchāmi tatra me saṃvidhīyatām)!
+“I invoke the three world-guardians and the gods headed by Śakra (_āhvaye loka-pālāṃs trīn devān śakra-mukhāṃs tathā_); I desire to offer hospitality—let the requisite arrangements be provided for me here (_ātithyaṃ kartum icchāmi tatra me saṃvidhīyatām_)!
 </details>
 </details>
 
@@ -788,7 +788,7 @@ across the earth and in the aerial region now come together here from all quarte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let all the rivers that flow eastward and those that flow westward (prāk-srotasaś ca yā nadyaḥ pratyak-srotasa eva ca), both on the earth and in the mid-space, come together here today from every quarter (pṛthivyām antarikṣe ca samāyāntv adya sarvaśaḥ)!
+“Let all the rivers that flow eastward and those that flow westward (_prāk-srotasaś ca yā nadyaḥ pratyak-srotasa eva ca_), both on the earth and in the mid-space, come together here today from every quarter (_pṛthivyām antarikṣe ca samāyāntv adya sarvaśaḥ_)!
 </details>
 </details>
 
@@ -842,7 +842,7 @@ of sugarcane."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let some of them stream with maireya liquor and others with well-distilled surā wine (anyāḥ sravantu maireyaṃ surām anyāḥ suniṣṭhitām), and let still others flow with cool water resembling the juice of sugarcane stalks (aparāś codakaṃ śītam ikṣu-kāṇḍa-rasopamam)!
+“Let some of them stream with _maireya_ liquor and others with well-distilled _surā_ wine (_anyāḥ sravantu maireyaṃ surām anyāḥ suniṣṭhitām_), and let still others flow with cool water resembling the juice of sugarcane stalks (_aparāś codakaṃ śītam ikṣu-kāṇḍa-rasopamam_)!
 </details>
 </details>
 
@@ -895,7 +895,7 @@ Apsaras (nymphs) belonging to the celestial and celestial musicians' race from a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I invoke the celestial Gandharvas—Viśvāvasu, Hahā, and Huhū (āhvaye deva-gandharvān viśvāvasu-hahā-huhūn)—and likewise all the divine Apsarases and Gandharva maidens in their entirety (tathaivāpsaraso devīr gandharvīś cāpi sarvaśaḥ)!
+“I invoke the celestial Gandharvas—Viśvāvasu, Hahā, and Huhū (_āhvaye deva-gandharvān viśvāvasu-hahā-huhūn_)—and likewise all the divine Apsarases and Gandharva maidens in their entirety (_tathaivāpsaraso devīr gandharvīś cāpi sarvaśaḥ_)!
 </details>
 </details>
 
@@ -948,7 +948,7 @@ Nagadanta and Hema as also Hima who has an abode made in mountains."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ghṛtācī, Viśvācī, Miśrakeśī, Alambusā (ghṛtācīm atha viśvācīṃ miśrakeśīm alambusām), Nāgadantā, Hemā, and Himā who has made her abode upon the mountain (nāgadantāṃ ca hemāṃ ca himām adri-kṛta-sthalām)—
+“Ghṛtācī, Viśvācī, Miśrakeśī, Alambusā (_ghṛtācīm atha viśvācīṃ miśrakeśīm alambusām_), Nāgadantā, Hemā, and Himā who has made her abode upon the mountain (_nāgadantāṃ ca hemāṃ ca himām adri-kṛta-sthalām_)—
 </details>
 </details>
 
@@ -1006,7 +1006,7 @@ Tumburu."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and all the damsels who attend upon Śakra and those who attend upon Brahmā (śakraṃ yāś copatiṣṭhanti brahmāṇaṃ yāś ca yoṣitaḥ), all of them I invoke together with Tumburu, along with their musical retinues and ornaments (sarvās tumburuṇā sārdham āhvaye sa-paricchadāḥ)!
+“and all the damsels who attend upon Śakra and those who attend upon Brahmā (_śakraṃ yāś copatiṣṭhanti brahmāṇaṃ yāś ca yoṣitaḥ_), all of them I invoke together with Tumburu, along with their musical retinues and ornaments (_sarvās tumburuṇā sārdham āhvaye sa-paricchadāḥ_)!
 </details>
 </details>
 
@@ -1071,7 +1071,7 @@ the form of heavenly damsels appear in this place."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That celestial grove of Kubera among the Kurus whose leaves are garments and ornaments (vanaṃ kuruṣu yad divyaṃ vāso-bhūṣaṇa-patravat), and whose perpetual fruits are celestial damsels—let it come right here (divya-nārī-phalaṃ śaśvat tat kauberam ihaitu ca)!
+“That celestial grove of Kubera among the Kurus whose leaves are garments and ornaments (_vanaṃ kuruṣu yad divyaṃ vāso-bhūṣaṇa-patravat_), and whose perpetual fruits are celestial damsels—let it come right here (_divya-nārī-phalaṃ śaśvat tat kauberam ihaitu ca_)!
 </details>
 </details>
 
@@ -1124,7 +1124,7 @@ this place, excellent food of every variety, confections, sweets, sauces and syr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let the glorious Lord Soma provide for me here supreme food in abundance (iha me bhagavān somo vidhattām annam uttamam)—things to be chewed, swallowed, sucked, and licked, of manifold kinds (bhakṣyaṃ bhojyaṃ ca coṣyaṃ ca lehyaṃ ca vividhaṃ bahu)—
+“And let the glorious Lord Soma provide for me here supreme food in abundance (_iha me bhagavān somo vidhattām annam uttamam_)—things to be chewed, swallowed, sucked, and licked, of manifold kinds (_bhakṣyaṃ bhojyaṃ ca coṣyaṃ ca lehyaṃ ca vividhaṃ bahu_)—
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ meat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“variegated garlands freshly dropped from the trees (vicitrāṇi ca mālyāni pādapa-pracyutāni ca), beverages headed by surā wine, and meats of diverse kinds (surādīni ca peyāni māṃsāni vividhāni ca)!”
+“variegated garlands freshly dropped from the trees (_vicitrāṇi ca mālyāni pādapa-pracyutāni ca_), beverages headed by _surā_ wine, and meats of diverse kinds (_surādīni ca peyāni māṃsāni vividhāni ca_)!”
 </details>
 </details>
 
@@ -1231,7 +1231,7 @@ scriptural texts:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus endowed with yogic concentration and matchless spiritual radiance (evaṃ samādhinā yuktas tejasā 'pratimena ca), the sage uttered his invocation through his ascetic power in accordance with the phonetic rules and Vedic accents (śīkṣā-svara-samāyuktaṃ tapasā cābravīn muniḥ).
+Thus endowed with yogic concentration and matchless spiritual radiance (_evaṃ samādhinā yuktas tejasā &#x27;pratimena ca_), the sage uttered his invocation through his ascetic power in accordance with the phonetic rules and Vedic accents (_śīkṣā-svara-samāyuktaṃ tapasā cābravīn muniḥ_).
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ east, all those celestials came one by one.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he meditated in his mind with joined palms, facing the east (manasā dhyāyatas tasya prāṅ-mukhasya kṛtāñjaleḥ), all those deities arrived one by one (ājagmus tāni sarvāṇi daivatāni pṛthak-pṛthak).
+As he meditated in his mind with joined palms, facing the east (_manasā dhyāyatas tasya prāṅ-mukhasya kṛtāñjaleḥ_), all those deities arrived one by one (_ājagmus tāni sarvāṇi daivatāni pṛthak-pṛthak_).
 </details>
 </details>
 
@@ -1343,7 +1343,7 @@ Malaya and Dardura, began to blw, removing sweat by its influence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a sweet-natured, pleasant, and auspicious breeze that dispelled all sweat (tataḥ sveda-nudo 'nilaḥ supriyātmā sukhaḥ śivaḥ), having gently brushed Mount Malaya and Mount Dardura, blew softly in due measure (malayaṃ darduraṃ caiva upaspṛśya vavau yuktyā).
+Then a sweet-natured, pleasant, and auspicious breeze that dispelled all sweat (_tataḥ sveda-nudo &#x27;nilaḥ supriyātmā sukhaḥ śivaḥ_), having gently brushed Mount Malaya and Mount Dardura, blew softly in due measure (_malayaṃ darduraṃ caiva upaspṛśya vavau yuktyā_).
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ gongs could be heard on every side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then thick showers of celestial blossoms came pouring down (tato 'bhyavartanta ghanā divyāḥ kusuma-vṛṣṭayaḥ), and the resonance of heavenly kettle-drums was heard in all directions (divya-dundubhi-ghoṣaś ca dikṣu sarvāsu śuśruve).
+Then thick showers of celestial blossoms came pouring down (_tato &#x27;bhyavartanta ghanā divyāḥ kusuma-vṛṣṭayaḥ_), and the resonance of heavenly kettle-drums was heard in all directions (_divya-dundubhi-ghoṣaś ca dikṣu sarvāsu śuśruve_).
 </details>
 </details>
 
@@ -1457,7 +1457,7 @@ tunes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exquisite breezes blew forth and troops of Apsarases danced (pravavuś cottamā vātā nanṛtuś cāpsaro-gaṇāḥ); celestial Gandharvas sang, and the lutes gave forth their musical notes (prajagur deva-gandharvā vīṇāḥ pramumucuḥ svarān).
+Exquisite breezes blew forth and troops of Apsarases danced (_pravavuś cottamā vātā nanṛtuś cāpsaro-gaṇāḥ_); celestial Gandharvas sang, and the lutes gave forth their musical notes (_prajagur deva-gandharvā vīṇāḥ pramumucuḥ svarān_).
 </details>
 </details>
 
@@ -1509,7 +1509,7 @@ beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That sound—uttered with smooth articulation, even in pitch, and endowed with the perfection of rhythmic tempo (sa śabdo 'ccāritaḥ ślakṣṇaḥ samo laya-guṇānvitaḥ)—entered heaven, earth, and the ears of all living beings (dyāṃ ca bhūmiṃ ca prāṇināṃ śravaṇāni ca viveśa).
+That sound—uttered with smooth articulation, even in pitch, and endowed with the perfection of rhythmic tempo (_sa śabdo &#x27;ccāritaḥ ślakṣṇaḥ samo laya-guṇānvitaḥ_)—entered heaven, earth, and the ears of all living beings (_dyāṃ ca bhūmiṃ ca prāṇināṃ śravaṇāni ca viveśa_).
 </details>
 </details>
 
@@ -1564,7 +1564,7 @@ Bharata's army saw the wonderful creations of Visvakarma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that celestial sound, so delightful to the ears of men, had subsided (tasminn uparate śabde divye śrotra-sukhe nṛṇām), Bharata’s army beheld the wondrous handiwork of Viśvakarman (dadarśa bhārataṃ sainyaṃ vidhānaṃ viśvakarmaṇaḥ).
+When that celestial sound, so delightful to the ears of men, had subsided (_tasminn uparate śabde divye śrotra-sukhe nṛṇām_), Bharata’s army beheld the wondrous handiwork of Viśvakarman (_dadarśa bhārataṃ sainyaṃ vidhānaṃ viśvakarmaṇaḥ_).
 </details>
 </details>
 
@@ -1619,7 +1619,7 @@ carpets of grass, dark as emerald.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the earth had become level for five yojanas on every side (babhūva hi samā bhūmiḥ samantāt pañca-yojanā), carpeted with abundant expanses of young grass gleaming like dark cat’s-eye gems (śādvalair bahubhiś channā nīla-vaiḍūrya-sannibhaiḥ).
+For the earth had become level for five _yojanas_ on every side (_babhūva hi samā bhūmiḥ samantāt pañca-yojanā_), carpeted with abundant expanses of young grass gleaming like dark cat’s-eye gems (_śādvalair bahubhiś channā nīla-vaiḍūrya-sannibhaiḥ_).
 </details>
 </details>
 
@@ -1671,7 +1671,7 @@ fruit appeared.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon that ground there sprang up bilva and wood-apple trees, jackfruit and citron trees (tasmin bilvāḥ kapitthāś ca panasā bīja-pūrakāḥ), āmalakī myrobalans, and mango trees adorned with fruit (āmalakyo babhūvuś ca cūtāś ca phala-bhūṣaṇāḥ).
+Upon that ground there sprang up _bilva_ and wood-apple trees, jackfruit and citron trees (_tasmin bilvāḥ kapitthāś ca panasā bīja-pūrakāḥ_), _āmalakī_ myrobalans, and mango trees adorned with fruit (_āmalakyo babhūvuś ca cūtāś ca phala-bhūṣaṇāḥ_).
 </details>
 </details>
 
@@ -1734,7 +1734,7 @@ river shaped with various trees on its bank appeared there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the Northern Kurus there arrived a grove endowed with celestial delights (uttarebhyaḥ kurubhyaś ca vanaṃ divyopabhogavat), together with a heavenly river bordered by abundant trees along its banks (ājagāma nadī divyā tīra-jair bahubhir vṛtā).
+From the Northern Kurus there arrived a grove endowed with celestial delights (_uttarebhyaḥ kurubhyaś ca vanaṃ divyopabhogavat_), together with a heavenly river bordered by abundant trees along its banks (_ājagāma nadī divyā tīra-jair bahubhir vṛtā_).
 </details>
 </details>
 
@@ -1786,7 +1786,7 @@ resplendent gates with watch-towers flanked by turrets were seen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There arose gleaming quadrangular mansions, stables for elephants and horses (catuḥ-śālāni śubhrāṇi śālāś ca gaja-vājinām), clusters of terraced palaces and mansions, and handsome gateway arches (harmya-prāsāda-sambādhās toraṇāni śubhāni ca).
+There arose gleaming quadrangular mansions, stables for elephants and horses (_catuḥ-śālāni śubhrāṇi śālāś ca gaja-vājinām_), clusters of terraced palaces and mansions, and handsome gateway arches (_harmya-prāsāda-sambādhās toraṇāni śubhāni ca_).
 </details>
 </details>
 
@@ -1817,7 +1817,7 @@ There arose gleaming quadrangular mansions, stables for elephants and horses (ca
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And among the royal dwellings there stood a palace with a splendid archway, gleaming like a white cloud (sita-megha-nibhaṃ cāpi rāja-veśmasu toraṇam), fashioned in form with celestial garlands and sprinkled with heavenly perfumes (divya-mālya-kṛtākāraṃ divya-gandha-samukṣitam)—
+And among the royal dwellings there stood a palace with a splendid archway, gleaming like a white cloud (_sita-megha-nibhaṃ cāpi rāja-veśmasu toraṇam_), fashioned in form with celestial garlands and sprinkled with heavenly perfumes (_divya-mālya-kṛtākāraṃ divya-gandha-samukṣitam_)—
 </details>
 </details>
 
@@ -1848,7 +1848,7 @@ And among the royal dwellings there stood a palace with a splendid archway, glea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-four-cornered, spacious and uncrowded, furnished with couches, seats, and palanquins (caturaśram asambādhaṃ śayanāsana-yānavat), endowed with every celestial flavor and provided with heavenly viands and raiments (divyaiḥ sarva-rasair yuktaṃ divya-bhojana-vastravat), having every kind of food prepared and its vessels washed and spotless (upakalpita-sarvānnaṃ dhauta-nirmala-bhājanam).
+four-cornered, spacious and uncrowded, furnished with couches, seats, and palanquins (_caturaśram asambādhaṃ śayanāsana-yānavat_), endowed with every celestial flavor and provided with heavenly viands and raiments (_divyaiḥ sarva-rasair yuktaṃ divya-bhojana-vastravat_), having every kind of food prepared and its vessels washed and spotless (_upakalpita-sarvānnaṃ dhauta-nirmala-bhājanam_).
 </details>
 </details>
 
@@ -1905,7 +1905,7 @@ charming with superb couches duly covered with rich carpets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Permitted by the great sage, mighty-armed Bharata, the son of Kaikeyī, entered that resplendent, jewel-filled palace (praviveśa mahā-bāhur anujñāto maharṣiṇā veśma tad ratna-sampūrṇaṃ bharataḥ kekayī-sutaḥ), where seats of every kind were arrayed and supreme couches were fairly spread (kḷpta-sarvāsanaṃ śrīmat svāstīrṇa-śayanottamam).
+Permitted by the great sage, mighty-armed Bharata, the son of Kaikeyī, entered that resplendent, jewel-filled palace (_praviveśa mahā-bāhur anujñāto maharṣiṇā veśma tad ratna-sampūrṇaṃ bharataḥ kekayī-sutaḥ_), where seats of every kind were arrayed and supreme couches were fairly spread (_kḷpta-sarvāsanaṃ śrīmat svāstīrṇa-śayanottamam_).
 </details>
 </details>
 
@@ -1992,9 +1992,9 @@ excellent get-up of the house, were filled with delight
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** All his ministers together with the family priests followed after him (anujagmuś ca taṃ sarve mantriṇaḥ sa-purohitāḥ), and they were filled with joy upon beholding that architectural arrangement of the palace (babhūvuś ca mudā yuktā dṛṣṭvā taṃ veśma-saṃvidhim).
+**36:** All his ministers together with the family priests followed after him (_anujagmuś ca taṃ sarve mantriṇaḥ sa-purohitāḥ_), and they were filled with joy upon beholding that architectural arrangement of the palace (_babhūvuś ca mudā yuktā dṛṣṭvā taṃ veśma-saṃvidhim_).
 
-**37:** There stood a celestial royal throne, a fan, and a white parasol (tatra rājāsanaṃ divyaṃ vyajanaṃ chatram eva ca); accompanied by his ministers, Bharata circumambulated it as though honoring the king himself (bharato mantribhiḥ sārdham abhyavartata rājavat).
+**37:** There stood a celestial royal throne, a fan, and a white parasol (_tatra rājāsanaṃ divyaṃ vyajanaṃ chatram eva ca_); accompanied by his ministers, Bharata circumambulated it as though honoring the king himself (_bharato mantribhiḥ sārdham abhyavartata rājavat_).
 </details>
 </details>
 
@@ -2046,7 +2046,7 @@ whisk and the royal umbrella kept there, as if they were utilized by a king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He worshiped the throne and bowed down before it in Rāma’s name (āsanaṃ pūjayām āsa rāmāyābhipraṇamya ca); then, taking up the yak-tail fan, he sat down upon the seat of a minister (vāla-vyajanam ādāya nyaṣīdat sacivāsane).
+He worshiped the throne and bowed down before it in Rāma’s name (_āsanaṃ pūjayām āsa rāmāyābhipraṇamya ca_); then, taking up the yak-tail fan, he sat down upon the seat of a minister (_vāla-vyajanam ādāya nyaṣīdat sacivāsane_).
 </details>
 </details>
 
@@ -2100,7 +2100,7 @@ minister.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the ministers and family priests sat down in due order of rank (ānupūrvyān niṣeduś ca sarve mantri-purohitāḥ); thereafter the commander-in-chief of the army and the camp-marshal took their seats behind them (tataḥ senā-patiḥ paścāt praśāstā ca niṣedatuḥ).
+All the ministers and family priests sat down in due order of rank (_ānupūrvyān niṣeduś ca sarve mantri-purohitāḥ_); thereafter the commander-in-chief of the army and the camp-marshal took their seats behind them (_tataḥ senā-patiḥ paścāt praśāstā ca niṣedatuḥ_).
 </details>
 </details>
 
@@ -2152,7 +2152,7 @@ of the army and at last the officer-in-charge of the encampment occupied their s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, within an instant, at the command of Bharadvāja, rivers having rich milk-porridge for their mud-banks waited upon Bharata there (tatas tatra muhūrtena nadyaḥ pāyasa-kardamāḥ upātiṣṭhanta bharataṃ bharadvājasya śāsanāt).
+Then, within an instant, at the command of Bharadvāja, rivers having rich milk-porridge for their mud-banks waited upon Bharata there (_tatas tatra muhūrtena nadyaḥ pāyasa-kardamāḥ upātiṣṭhanta bharataṃ bharadvājasya śāsanāt_).
 </details>
 </details>
 
@@ -2204,7 +2204,7 @@ rice in the place of mud, flowed towards Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And along both banks of those rivers there sprang up charming, celestial dwellings plastered with white clay, born of the grace of that Brāhmaṇa sage (tāsām ubhayataḥ-kūlaṃ pāṇḍu-mṛttika-lepanāḥ ramyāś cāvasathā divyā brahmaṇas tu prasāda-jāḥ).
+And along both banks of those rivers there sprang up charming, celestial dwellings plastered with white clay, born of the grace of that Brāhmaṇa sage (_tāsām ubhayataḥ-kūlaṃ pāṇḍu-mṛttika-lepanāḥ ramyāś cāvasathā divyā brahmaṇas tu prasāda-jāḥ_).
 </details>
 </details>
 
@@ -2256,7 +2256,7 @@ white clay born out of the grace of Brahma the Lord of creation, appeared.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that very same instant, twenty thousand damsels adorned with celestial ornaments, dispatched by Brahmā, arrived there (tenaiva ca muhūrtena divyābharaṇa-bhūṣitāḥ āgur viṃśati-sāhasrā brahmaṇā prahitāḥ striyaḥ).
+In that very same instant, twenty thousand damsels adorned with celestial ornaments, dispatched by Brahmā, arrived there (_tenaiva ca muhūrtena divyābharaṇa-bhūṣitāḥ āgur viṃśati-sāhasrā brahmaṇā prahitāḥ striyaḥ_).
 </details>
 </details>
 
@@ -2319,7 +2319,7 @@ by Brahma, arrived.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resplendent with gold, gems, pearls, and coral (suvarṇa-maṇi-muktena pravālena ca śobhitāḥ), twenty thousand damsels dispatched by Kubera arrived there (āgur viṃśati-sāhasrāḥ kubera-prahitāḥ striyaḥ).
+Resplendent with gold, gems, pearls, and coral (_suvarṇa-maṇi-muktena pravālena ca śobhitāḥ_), twenty thousand damsels dispatched by Kubera arrived there (_āgur viṃśati-sāhasrāḥ kubera-prahitāḥ striyaḥ_).
 </details>
 </details>
 
@@ -2372,7 +2372,7 @@ corals came from the region of Kubera.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And from the Nandana grove there came twenty thousand troops of Apsarases (āgur viṃśati-sāhasrā nandanād apsaro-gaṇāḥ), captivated by whom a man appears as though beside himself with ecstasy (yābhir gṛhīta-puruṣaḥ sonmāda iva lakṣyate).
+And from the Nandana grove there came twenty thousand troops of Apsarases (_āgur viṃśati-sāhasrā nandanād apsaro-gaṇāḥ_), captivated by whom a man appears as though beside himself with ecstasy (_yābhir gṛhīta-puruṣaḥ sonmāda iva lakṣyate_).
 </details>
 </details>
 
@@ -2444,9 +2444,9 @@ whose radiance is like that of the sun, began to sing in front of Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**45:** Nārada, Tumburu, and Gopa, preeminent Gandharva kings radiant as the sun (nāradas tumburur gopaḥ pravarāḥ sūrya-varcasaḥ), sang in the presence of Bharata (ete gandharva-rājāno bharatasyāgrato jaguḥ).
+**45:** Nārada, Tumburu, and Gopa, preeminent Gandharva kings radiant as the sun (_nāradas tumburur gopaḥ pravarāḥ sūrya-varcasaḥ_), sang in the presence of Bharata (_ete gandharva-rājāno bharatasyāgrato jaguḥ_).
 
-**46:** And Alambusā, Miśrakeśī, Puṇḍarīkā, and Vāmanā danced before Bharata at the command of Bharadvāja (alambusā miśrakeśī puṇḍarīkātha vāmanā upānṛtyaṃs tu bharataṃ bharadvājasya śāsanāt).
+**46:** And Alambusā, Miśrakeśī, Puṇḍarīkā, and Vāmanā danced before Bharata at the command of Bharadvāja (_alambusā miśrakeśī puṇḍarīkātha vāmanā upānṛtyaṃs tu bharataṃ bharadvājasya śāsanāt_).
 </details>
 </details>
 
@@ -2498,7 +2498,7 @@ in the presence of Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever garlands exist among the gods and whatever garlands bloom in the Caitraratha grove (yāni mālyāni deveṣu yāni caitrarathe vane), all those became visible at Prayāga through the spiritual power of Bharadvāja (prayāge tāny adṛśyanta bharadvājasya tejasā).
+Whatever garlands exist among the gods and whatever garlands bloom in the Caitraratha grove (_yāni mālyāni deveṣu yāni caitrarathe vane_), all those became visible at Prayāga through the spiritual power of Bharadvāja (_prayāge tāny adṛśyanta bharadvājasya tejasā_).
 </details>
 </details>
 
@@ -2551,7 +2551,7 @@ those which grow in the woods of chaitra ratha were seen at Prayaga.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the command of Bharadvāja, the bilva trees became players on the mṛdaṅga drum, the vibhītaka trees became keepers of the cymbal-beat (bilvā mārdaṅgikā āsan śamyā-grāhā vibhītakāḥ), and the aśvattha fig trees became dancers (aśvatthā nartakāś cāsan bharadvājasya śāsanāt).
+By the command of Bharadvāja, the _bilva_ trees became players on the _mṛdaṅga_ drum, the _vibhītaka_ trees became keepers of the cymbal-beat (_bilvā mārdaṅgikā āsan śamyā-grāhā vibhītakāḥ_), and the _aśvattha_ fig trees became dancers (_aśvatthā nartakāś cāsan bharadvājasya śāsanāt_).
 </details>
 </details>
 
@@ -2612,7 +2612,7 @@ trees assumed the form of cymbalists and Peepul trees assumed the form of dancer
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then sarala pines, palmyras, tilakas, and naktamālaka trees (tataḥ sarala-tālāś ca tilakā nakta-mālakāḥ), becoming hunchbacks and dwarfs, flocked there in high glee (prahṛṣṭās tatra sampetuḥ kubjā bhūtvātha vāmanāḥ).
+Then _sarala_ pines, palmyras, _tilakas_, and _naktamālaka_ trees (_tataḥ sarala-tālāś ca tilakā nakta-mālakāḥ_), becoming hunchbacks and dwarfs, flocked there in high glee (_prahṛṣṭās tatra sampetuḥ kubjā bhūtvātha vāmanāḥ_).
 </details>
 </details>
 
@@ -2664,7 +2664,7 @@ hunch backs and dwarfs and joyfully arrived there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The śiṃśapā, āmalakī, and rose-apple trees, and whatever other trees stood in the woods (śiṃśapāmalakī-jambvo yāś cānyāḥ kānaneṣu tāḥ), along with mālatī, mallikā, and jātī jasmines and whatever other creepers grew in the forest (mālatī mallikā jātir yāś cānyāḥ kānane latāḥ)—
+The _śiṃśapā_, _āmalakī_, and rose-apple trees, and whatever other trees stood in the woods (_śiṃśapāmalakī-jambvo yāś cānyāḥ kānaneṣu tāḥ_), along with _mālatī_, _mallikā_, and _jātī_ jasmines and whatever other creepers grew in the forest (_mālatī mallikā jātir yāś cānyāḥ kānane latāḥ_)—
 </details>
 </details>
 
@@ -2722,7 +2722,7 @@ hermitage of Bharadwaja and they spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-assuming the forms of lovely young women, cried out in the hermitage of Bharadvāja (pramadā-vigrahaṃ kṛtvā bharadvājāśrame 'vadan): “O drinkers of surā, drink these wines! O you who are hungry, eat this milk-porridge (surāḥ surā-pāḥ pibata pāyasaṃ ca bubhukṣitāḥ)! And let pure, savory meats be eaten to your heart’s content (māṃsāni ca sumedhyāni bhakṣyantāṃ yāvad icchatha)!”
+assuming the forms of lovely young women, cried out in the hermitage of Bharadvāja (_pramadā-vigrahaṃ kṛtvā bharadvājāśrame &#x27;vadan_): “O drinkers of _surā_, drink these wines! O you who are hungry, eat this milk-porridge (_surāḥ surā-pāḥ pibata pāyasaṃ ca bubhukṣitāḥ_)! And let pure, savory meats be eaten to your heart’s content (_māṃsāni ca sumedhyāni bhakṣyantāṃ yāvad icchatha_)!”
 </details>
 </details>
 
@@ -2753,7 +2753,7 @@ assuming the forms of lovely young women, cried out in the hermitage of Bharadv�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along the charming river-banks, seven or eight damsels to every single man (apy ekam ekaṃ puruṣaṃ pramadāḥ sapta cāṣṭa ca) rubbed them with fragrant unguents and bathed them (ucchādya snāpayanti sma nadī-tīreṣu valguṣu).
+Along the charming river-banks, seven or eight damsels to every single man (_apy ekam ekaṃ puruṣaṃ pramadāḥ sapta cāṣṭa ca_) rubbed them with fragrant unguents and bathed them (_ucchādya snāpayanti sma nadī-tīreṣu valguṣu_).
 </details>
 </details>
 
@@ -2801,7 +2801,7 @@ will)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bright-eyed women came up massaging their feet (saṃvāhantyaḥ samāpetur nāryo rucira-locanāḥ), and wiping their limbs dry, those exquisite damsels gave them drink in turn (parimṛjya tathānyonyaṃ pāyayanti varāṅganāḥ).
+Bright-eyed women came up massaging their feet (_saṃvāhantyaḥ samāpetur nāryo rucira-locanāḥ_), and wiping their limbs dry, those exquisite damsels gave them drink in turn (_parimṛjya tathānyonyaṃ pāyayanti varāṅganāḥ_).
 </details>
 </details>
 
@@ -2857,7 +2857,7 @@ after massaging their body with oil.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As for the horses, elephants, mules, camels, and the bullocks born of Surabhi (hayān gajān kharān uṣṭrāṃs tathaiva surabheḥ sutān), their keepers fed them their proper provender according to rule (abhojayan vāhana-pās teṣāṃ bhojyaṃ yathā-vidhi).
+As for the horses, elephants, mules, camels, and the bullocks born of Surabhi (_hayān gajān kharān uṣṭrāṃs tathaiva surabheḥ sutān_), their keepers fed them their proper provender according to rule (_abhojayan vāhana-pās teṣāṃ bhojyaṃ yathā-vidhi_).
 </details>
 </details>
 
@@ -2919,7 +2919,7 @@ mutually sharing them among each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Urging on the mounts of the choicest warriors of the Ikṣvākus, men of mighty strength fed them sugarcane stalks and honeyed parched grain (ikṣūṃś ca madhu-lājāṃś ca bhojayanti sma vāhanān ikṣvāku-vara-yodhānāṃ codayanto mahā-balāḥ).
+Urging on the mounts of the choicest warriors of the Ikṣvākus, men of mighty strength fed them sugarcane stalks and honeyed parched grain (_ikṣūṃś ca madhu-lājāṃś ca bhojayanti sma vāhanān ikṣvāku-vara-yodhānāṃ codayanto mahā-balāḥ_).
 </details>
 </details>
 
@@ -2972,7 +2972,7 @@ offspring of Surabhi the divine cow) with their suitable feed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The horse-groom no longer recognized his horse, nor the elephant-driver his elephant (nāśva-bandho 'śvam ājānān na gajaṃ kuñjara-grahaḥ); intoxicated, transported with rapture, and filled with joy, that army shone resplendent there (matta-pramatta-muditā camūḥ sā tatra sambabhau).
+The horse-groom no longer recognized his horse, nor the elephant-driver his elephant (_nāśva-bandho &#x27;śvam ājānān na gajaṃ kuñjara-grahaḥ_); intoxicated, transported with rapture, and filled with joy, that army shone resplendent there (_matta-pramatta-muditā camūḥ sā tatra sambabhau_).
 </details>
 </details>
 
@@ -3026,7 +3026,7 @@ cajoling them to eat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sated with every object of desire, smeared with red sandal-paste, and united with troops of Apsarases, the soldiers raised their voices aloud (tarpitāḥ sarva-kāmais te rakta-candana-rūṣitāḥ apsaro-gaṇa-saṃyuktāḥ sainyā vācam udairayan):
+Sated with every object of desire, smeared with red sandal-paste, and united with troops of Apsarases, the soldiers raised their voices aloud (_tarpitāḥ sarva-kāmais te rakta-candana-rūṣitāḥ apsaro-gaṇa-saṃyuktāḥ sainyā vācam udairayan_):
 </details>
 </details>
 
@@ -3079,7 +3079,7 @@ elephant. That army there appeared intoxicated, maddened and enraptured on that 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither to Ayodhyā shall we go, nor shall we go to the Daṇḍaka forest (naivāyodhyāṃ gamiṣyāmo na gamiṣyāma daṇḍakān)! May all be well with Bharata, and may Rāma too abide in happiness (kuśalaṃ bharatasyāstu rāmasyāstu tathā sukham)!”
+“Neither to Ayodhyā shall we go, nor shall we go to the Daṇḍaka forest (_naivāyodhyāṃ gamiṣyāmo na gamiṣyāma daṇḍakān_)! May all be well with Bharata, and may Rāma too abide in happiness (_kuśalaṃ bharatasyāstu rāmasyāstu tathā sukham_)!”
 </details>
 </details>
 
@@ -3131,7 +3131,7 @@ surrounded by a company of Apsaras, those soldiers uttered the following words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having obtained such royal hospitality, foot-soldiers as well as the riders and grooms of elephants and horses, feeling themselves masterless and free, uttered this speech (iti pādāta-yodhāś ca hasty-aśvāroha-bandhakāḥ anāthās taṃ vidhiṃ labdhvā vācam etām udairayan).
+Having obtained such royal hospitality, foot-soldiers as well as the riders and grooms of elephants and horses, feeling themselves masterless and free, uttered this speech (_iti pādāta-yodhāś ca hasty-aśvāroha-bandhakāḥ anāthās taṃ vidhiṃ labdhvā vācam etām udairayan_).
 </details>
 </details>
 
@@ -3183,7 +3183,7 @@ Likewise, let Rama too be at east!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Transported with joy, those men who followed in Bharata’s train shouted aloud by the thousands there (samprahṛṣṭā vinedus te narās tatra sahasraśaḥ) and exclaimed: “This is heaven itself (bharatasyānuyātāraḥ svargo 'yam iti cābruvan)!”
+Transported with joy, those men who followed in Bharata’s train shouted aloud by the thousands there (_samprahṛṣṭā vinedus te narās tatra sahasraśaḥ_) and exclaimed: “This is heaven itself (_bharatasyānuyātāraḥ svargo &#x27;yam iti cābruvan_)!”
 </details>
 </details>
 
@@ -3245,7 +3245,7 @@ words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wearing garlands, the soldiers danced, laughed, sang, and ran about on every side by the thousands (nṛtyanti sma hasanti sma gāyanti sma ca sainikāḥ samantāt paridhāvanti mālyopetāḥ sahasraśaḥ).
+Wearing garlands, the soldiers danced, laughed, sang, and ran about on every side by the thousands (_nṛtyanti sma hasanti sma gāyanti sma ca sainikāḥ samantāt paridhāvanti mālyopetāḥ sahasraśaḥ_).
 </details>
 </details>
 
@@ -3300,7 +3300,7 @@ out, "This is verily of heaven!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, even after they had partaken of that ambrosia-like food (tato bhuktavatāṃ teṣāṃ tad annam amṛtopamam), upon beholding those celestial delicacies, the desire to eat arose in them all over again (divyān udvīkṣya bhakṣyāṃs tān abhavad bhakṣaṇe matiḥ).
+Then, even after they had partaken of that ambrosia-like food (_tato bhuktavatāṃ teṣāṃ tad annam amṛtopamam_), upon beholding those celestial delicacies, the desire to eat arose in them all over again (_divyān udvīkṣya bhakṣyāṃs tān abhavad bhakṣaṇe matiḥ_).
 </details>
 </details>
 
@@ -3352,7 +3352,7 @@ and thither.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Servants, slave-girls, womenfolk, and soldiers of the army by the thousands (preṣyāś ceṭyaś ca vadhvaś ca bala-sthāś ca sahasraśaḥ) became exceedingly elated, and all of them were clad in brand-new, unbleached garments (babhūvus te bhṛśaṃ dṛptāḥ sarve cāhata-vāsasaḥ).
+Servants, slave-girls, womenfolk, and soldiers of the army by the thousands (_preṣyāś ceṭyaś ca vadhvaś ca bala-sthāś ca sahasraśaḥ_) became exceedingly elated, and all of them were clad in brand-new, unbleached garments (_babhūvus te bhṛśaṃ dṛptāḥ sarve cāhata-vāsasaḥ_).
 </details>
 </details>
 
@@ -3408,7 +3408,7 @@ they saw again those fresh dishes, there arose in them a desire to eat them agai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Elephants, mules, camels, cattle, horses, deer, and birds were all amply fed there (kuñjarāś ca kharoṣṭrāś ca go-'śvāś ca mṛga-pakṣiṇaḥ babhūvuḥ subhṛtās tatra), so that no one had to provide anything for anyone else (nānyo hy anyam akalpayat).
+Elephants, mules, camels, cattle, horses, deer, and birds were all amply fed there (_kuñjarāś ca kharoṣṭrāś ca go-&#x27;śvāś ca mṛga-pakṣiṇaḥ babhūvuḥ subhṛtās tatra_), so that no one had to provide anything for anyone else (_nānyo hy anyam akalpayat_).
 </details>
 </details>
 
@@ -3461,7 +3461,7 @@ clad in new raiment, became very much contented.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No man was to be seen there who did not wear spotlessly white garments, or who was hungry, or soiled, or whose hair was disheveled with dust (nāśukla-vāsās tatrāsīt kṣudhito malino 'pi vā rajasā dhvasta-keśo vā naraḥ kaścid adṛśyata).
+No man was to be seen there who did not wear spotlessly white garments, or who was hungry, or soiled, or whose hair was disheveled with dust (_nāśukla-vāsās tatrāsīt kṣudhito malino &#x27;pi vā rajasā dhvasta-keśo vā naraḥ kaścid adṛśyata_).
 </details>
 </details>
 
@@ -3513,7 +3513,7 @@ well-fed. Hence, one did not afflict the other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along with heaps of choice curries of goat-meat and boar-flesh (ājaiś cāpi ca vārāhair niṣṭhāna-vara-sañcayaiḥ), and with fragrant, flavorful broths prepared from the decoctions of fruits (phala-niryūha-saṃsiddhaiḥ sūpair gandha-rasānvitaiḥ)—
+Along with heaps of choice curries of goat-meat and boar-flesh (_ājaiś cāpi ca vārāhair niṣṭhāna-vara-sañcayaiḥ_), and with fragrant, flavorful broths prepared from the decoctions of fruits (_phala-niryūha-saṃsiddhaiḥ sūpair gandha-rasānvitaiḥ_)—
 </details>
 </details>
 
@@ -3571,9 +3571,9 @@ with dust.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**67:** —the men there beheld in amazement thousands of golden cauldrons adorned with floral pennants and filled to the brim on every side with gleaming white boiled rice (puṣpa-dhvajavatīḥ pūrṇāḥ śuklasyānnasya cābhitaḥ dadṛśur vismitās tatra narā lauhīḥ sahasraśaḥ).
+**67:** —the men there beheld in amazement thousands of golden cauldrons adorned with floral pennants and filled to the brim on every side with gleaming white boiled rice (_puṣpa-dhvajavatīḥ pūrṇāḥ śuklasyānnasya cābhitaḥ dadṛśur vismitās tatra narā lauhīḥ sahasraśaḥ_).
 
-**68:** Along the borders of the grove there were wells having milk-porridge for their mud (babhūvur vana-pārśveṣu kūpāḥ pāyasa-kardamāḥ), the cows there were wish-yielding kāmadughās, and the trees dripped with honey (tāś ca kāma-dughā gāvo drumāś cāsan madhu-srutaḥ).
+**68:** Along the borders of the grove there were wells having milk-porridge for their mud (_babhūvur vana-pārśveṣu kūpāḥ pāyasa-kardamāḥ_), the cows there were wish-yielding _kāmadughās_, and the trees dripped with honey (_tāś ca kāma-dughā gāvo drumāś cāsan madhu-srutaḥ_).
 </details>
 </details>
 
@@ -3628,7 +3628,7 @@ with wonder on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there were stepped tanks filled with maireya liquor, surrounded by heaps of savory meats (vāpyo maireya-pūrṇāś ca mṛṣṭa-māṃsa-cayair vṛtāḥ)—venison, peacock, and wild fowl roasted in heated cauldrons (pratapta-piṭharaiś cāpi mārga-māyūra-kaukkuṭaiḥ)—
+And there were stepped tanks filled with _maireya_ liquor, surrounded by heaps of savory meats (_vāpyo maireya-pūrṇāś ca mṛṣṭa-māṃsa-cayair vṛtāḥ_)—venison, peacock, and wild fowl roasted in heated cauldrons (_pratapta-piṭharaiś cāpi mārga-māyūra-kaukkuṭaiḥ_)—
 </details>
 </details>
 
@@ -3685,7 +3685,7 @@ into cows of plenty and the trees dripped honey.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and thousands of serving-dishes, hundreds of thousands of cooking-pots (pātrīṇāṃ ca sahasrāṇi sthālīnāṃ niyutāni ca), and hundreds of millions of dining-vessels fashioned of burnished gold (nyarbudāni ca pātrāṇi śātakumbha-mayāni ca)—
+and thousands of serving-dishes, hundreds of thousands of cooking-pots (_pātrīṇāṃ ca sahasrāṇi sthālīnāṃ niyutāni ca_), and hundreds of millions of dining-vessels fashioned of burnished gold (_nyarbudāni ca pātrāṇi śātakumbha-mayāni ca_)—
 </details>
 </details>
 
@@ -3736,7 +3736,7 @@ of various dressed meats pertaining to deer, peacocks and wild cocks; cooked in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-pots, pitchers, and wide-mouthed churning-jars filled with curds and finely seasoned (sthālyaḥ kumbhyaḥ karambhyaś ca dadhi-pūrṇāḥ susaṃskṛtāḥ)—along with pools of fragrant, golden-hued, freshly churned kapittha buttermilk (yauvana-sthasya gaurasya kapitthasya sugandhinaḥ)—
+pots, pitchers, and wide-mouthed churning-jars filled with curds and finely seasoned (_sthālyaḥ kumbhyaḥ karambhyaś ca dadhi-pūrṇāḥ susaṃskṛtāḥ_)—along with pools of fragrant, golden-hued, freshly churned _kapittha_ buttermilk (_yauvana-sthasya gaurasya kapitthasya sugandhinaḥ_)—
 </details>
 </details>
 
@@ -3796,9 +3796,9 @@ golden vessels, well-cleaned bowls filled with curds, small water-jars and wide-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**72:** and other deep pools filled with spiced rasāla curds, and still others of white curds (hradāḥ pūrṇā rasālasya dadhnaḥ śvetasya cāpare), while yet others were of sweet milk-porridge, along with heaps of white sugar (babhūvuḥ pāyasasyānye śarkarāyāś ca sañcayāḥ).
+**72:** and other deep pools filled with spiced _rasāla_ curds, and still others of white curds (_hradāḥ pūrṇā rasālasya dadhnaḥ śvetasya cāpare_), while yet others were of sweet milk-porridge, along with heaps of white sugar (_babhūvuḥ pāyasasyānye śarkarāyāś ca sañcayāḥ_).
 
-**73:** At the bathing-ghats of the rivers, the men beheld herbal pastes, fragrant powders, and astringent decoctions, as well as bathing requisites of diverse kinds set out in vessels (kalkāṃś cūrṇa-kaṣāyāṃś ca snānāni vividhāni ca dadṛśur bhājana-sthāni tīrtheṣu saritāṃ narāḥ);
+**73:** At the bathing-ghats of the rivers, the men beheld herbal pastes, fragrant powders, and astringent decoctions, as well as bathing requisites of diverse kinds set out in vessels (_kalkāṃś cūrṇa-kaṣāyāṃś ca snānāni vividhāni ca dadṛśur bhājana-sthāni tīrtheṣu saritāṃ narāḥ_);
 </details>
 </details>
 
@@ -3849,7 +3849,7 @@ formed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and heaps of white, fibrous tooth-cleaning twigs (śuklān aṃśumataś cāpi danta-dhāvana-sañcayān), together with white sandalwood pastes resting in covered caskets (śuklāṃś candana-kalkāṃś ca samudgeṣv avatiṣṭhataḥ);
+and heaps of white, fibrous tooth-cleaning twigs (_śuklān aṃśumataś cāpi danta-dhāvana-sañcayān_), together with white sandalwood pastes resting in covered caskets (_śuklāṃś candana-kalkāṃś ca samudgeṣv avatiṣṭhataḥ_);
 </details>
 </details>
 
@@ -3902,7 +3902,7 @@ accessories used in bathing, kept stored in vessels, on the banks of rivers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-brightly polished mirrors and heaps of garments (darpaṇān parimṛṣṭāṃś ca vāsasāṃ cāpi sañcayān), and pairs of wooden sandals and leather shoes by the thousands (pādukopānahaś caiva yugmāni ca sahasraśaḥ);
+brightly polished mirrors and heaps of garments (_darpaṇān parimṛṣṭāṃś ca vāsasāṃ cāpi sañcayān_), and pairs of wooden sandals and leather shoes by the thousands (_pādukopānahaś caiva yugmāni ca sahasraśaḥ_);
 </details>
 </details>
 
@@ -3936,7 +3936,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-collyrium-caskets, hair-combs, brushes, weapons, and bows (āñjanīḥ kaṅkatān kūrcān śastrāṇi ca dhanūṃṣi ca), variegated armor for the vital parts, and couches and seats (marma-trāṇāni citrāṇi śayanāny āsanāni ca);
+collyrium-caskets, hair-combs, brushes, weapons, and bows (_āñjanīḥ kaṅkatān kūrcān śastrāṇi ca dhanūṃṣi ca_), variegated armor for the vital parts, and couches and seats (_marma-trāṇāni citrāṇi śayanāny āsanāni ca_);
 </details>
 </details>
 
@@ -3970,7 +3970,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and deep pools of digestive drinking-water filled to the brim for the mules, camels, elephants, and horses (pratipāna-hradān pūrṇān kharoṣṭra-gaja-vājinām), as well as lakes with easy bathing-ghats, abounding in blue water-lilies and lotuses, fit for plunging into (avagāhya su-tīrthāṃś ca hradān sotpala-puṣkarān)—
+and deep pools of digestive drinking-water filled to the brim for the mules, camels, elephants, and horses (_pratipāna-hradān pūrṇān kharoṣṭra-gaja-vājinām_), as well as lakes with easy bathing-ghats, abounding in blue water-lilies and lotuses, fit for plunging into (_avagāhya su-tīrthāṃś ca hradān sotpala-puṣkarān_)—
 </details>
 </details>
 
@@ -4015,7 +4015,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—resembling the hue of the sky, with crystal-clear water and pleasant to swim in (ākāśa-varṇa-pratimān svaccha-toyān sukha-plavān)—and soft heaps of meadow-grass gleaming like dark cat’s-eye gems (nīla-vaiḍūrya-varṇāṃś ca mṛdūn yavasa-sañcayān)—
+—resembling the hue of the sky, with crystal-clear water and pleasant to swim in (_ākāśa-varṇa-pratimān svaccha-toyān sukha-plavān_)—and soft heaps of meadow-grass gleaming like dark cat’s-eye gems (_nīla-vaiḍūrya-varṇāṃś ca mṛdūn yavasa-sañcayān_)—
 </details>
 </details>
 
@@ -4049,7 +4049,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-for the feeding of the beasts, they beheld there on every side (nirvāpārthān paśūnāṃ te dadṛśus tatra sarvaśaḥ). Beholding that wondrous hospitality, like unto a dream, which the great sage had prepared for Bharata, those men were struck with amazement (vyasmayanta manuṣyās te svapna-kalpaṃ tad adbhutam dṛṣṭvātithyaṃ kṛtaṃ tādṛg bharatasya maharṣiṇā).
+for the feeding of the beasts, they beheld there on every side (_nirvāpārthān paśūnāṃ te dadṛśus tatra sarvaśaḥ_). Beholding that wondrous hospitality, like unto a dream, which the great sage had prepared for Bharata, those men were struck with amazement (_vyasmayanta manuṣyās te svapna-kalpaṃ tad adbhutam dṛṣṭvātithyaṃ kṛtaṃ tādṛg bharatasya maharṣiṇā_).
 </details>
 </details>
 
@@ -4119,7 +4119,7 @@ Nipa tree: Nanclea cadamba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they sported thus like the gods in the Nandana garden (ity evaṃ ramamāṇānāṃ devānām iva nandane), that night passed away in the charming hermitage of Bharadvāja (bharadvājāśrame ramye sā rātrir vyatyavartata).
+As they sported thus like the gods in the Nandana garden (_ity evaṃ ramamāṇānāṃ devānām iva nandane_), that night passed away in the charming hermitage of Bharadvāja (_bharadvājāśrame ramye sā rātrir vyatyavartata_).
 </details>
 </details>
 
@@ -4171,7 +4171,7 @@ Bharadwaja, all those men were surprised.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking leave of Bharadvāja, those rivers, the Gandharvas, and all those exquisite damsels returned just as they had come (pratijagmuś ca tā nadyo gandharvāś ca yathā-gatam bharadvājam anujñāpya tāś ca sarvā varāṅganāḥ).
+Taking leave of Bharadvāja, those rivers, the Gandharvas, and all those exquisite damsels returned just as they had come (_pratijagmuś ca tā nadyo gandharvāś ca yathā-gatam bharadvājam anujñāpya tāś ca sarvā varāṅganāḥ_).
 </details>
 </details>
 
@@ -4223,7 +4223,7 @@ manner as celestials enjoy the garden of Nandna, that night had elapsed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And even so the men remained exhilarated and heady with wine, and even so besprinkled with celestial aloe and sandalwood (tathaiva mattā madirotkaṭā narās tathaiva divyāguru-candanokṣitāḥ); and even so the diverse, supreme celestial garlands lay scattered apart, crushed by the men (tathaiva divyā vividhāḥ srag-uttamāḥ pṛthak prakīrṇā manujaiḥ pramarditāḥ).
+And even so the men remained exhilarated and heady with wine, and even so besprinkled with celestial aloe and sandalwood (_tathaiva mattā madirotkaṭā narās tathaiva divyāguru-candanokṣitāḥ_); and even so the diverse, supreme celestial garlands lay scattered apart, crushed by the men (_tathaiva divyā vividhāḥ srag-uttamāḥ pṛthak prakīrṇā manujaiḥ pramarditāḥ_).
 </details>
 </details>
 

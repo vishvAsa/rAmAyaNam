@@ -83,7 +83,7 @@ as he was in great anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus reviled his mother then (tāṃ tathā garhayitvā tu mātaraṃ tadā), Bharata, filled with mighty wrath (roṣeṇa mahatāviṣṭaḥ), spoke this word once again (punar evābravīd vacaḥ):
+Having thus reviled his mother then (_tāṃ tathā garhayitvā tu mātaraṃ tadā_), Bharata, filled with mighty wrath (_roṣeṇa mahatāviṣṭaḥ_), spoke this word once again (_punar evābravīd vacaḥ_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ having abandoned righteousness, remain lamenting about me, who will be dead soon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fall from the sovereignty, O Kaikeyī, you ruthless woman of wicked conduct (rājyād bhraṃśasva kaikeyi nṛśaṃse duṣṭa-cāriṇi)! Forsaken by righteousness (parityaktā ca dharmeṇa), do not weep over the dead (mā mṛtaṃ rudatī bhava)!
+“Fall from the sovereignty, O Kaikeyī, you ruthless woman of wicked conduct (_rājyād bhraṃśasva kaikeyi nṛśaṃse duṣṭa-cāriṇi_)! Forsaken by righteousness (_parityaktā ca dharmeṇa_), do not weep over the dead (_mā mṛtaṃ rudatī bhava_)!
 </details>
 </details>
 
@@ -189,7 +189,7 @@ that Dasaratha's death and Rama's exile have occurred at one and the same time b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What wrong indeed did the king or the exceedingly righteous Rāma ever do unto you (kin nu te 'dūṣayad rājā rāmo vā bhṛśa-dhārmikaḥ), that both death and exile have simultaneously befallen them on your account (yayor mṛtyur vivāsaś ca tvat-kṛte tulyam āgatau)?
+“What wrong indeed did the king or the exceedingly righteous Rāma ever do unto you (_kin nu te &#x27;dūṣayad rājā rāmo vā bhṛśa-dhārmikaḥ_), that both death and exile have simultaneously befallen them on your account (_yayor mṛtyur vivāsaś ca tvat-kṛte tulyam āgatau_)?
 </details>
 </details>
 
@@ -242,7 +242,7 @@ race. O, Kaikeyi! Go to hell .Do not get the residence in the same heaven as you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the destruction of this race (kulasyāsya vināśanāt), you have incurred the sin of slaying an embryo (bhrūṇa-hatyām asi prāptā); go to hell, O Kaikeyī (kaikeyi narakaṃ gaccha), and never attain the same world as your lord (mā ca bhartuḥ salokatām)!
+“Through the destruction of this race (_kulasyāsya vināśanāt_), you have incurred the sin of slaying an embryo (_bhrūṇa-hatyām asi prāptā_); go to hell, O Kaikeyī (_kaikeyi narakaṃ gaccha_), and never attain the same world as your lord (_mā ca bhartuḥ salokatām_)!
 </details>
 </details>
 
@@ -289,7 +289,7 @@ persons beloved by all, an alarm has been created in me also."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since by a dreadful deed you have committed such a sin (yat tvayā hīdṛśaṃ pāpaṃ kṛtaṃ ghoreṇa karmaṇā), casting away him who is dear to all the world (sarva-loka-priyaṃ hitvā), fear has been brought even upon me (mamāpy āpāditaṃ bhayam)!
+“Since by a dreadful deed you have committed such a sin (_yat tvayā hīdṛśaṃ pāpaṃ kṛtaṃ ghoreṇa karmaṇā_), casting away him who is dear to all the world (_sarva-loka-priyaṃ hitvā_), fear has been brought even upon me (_mamāpy āpāditaṃ bhayam_)!
 </details>
 </details>
 
@@ -342,7 +342,7 @@ fame in this world of beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On your account my father has passed away (tvat-kṛte me pitā vṛttaḥ) and Rāma has resorted to the forest (rāmaś cāraṇyam āśritaḥ); and by you have I been brought to infamy in the world of the living (ayaśo jīva-loke ca tvayāhaṃ pratipāditaḥ)!
+“On your account my father has passed away (_tvat-kṛte me pitā vṛttaḥ_) and Rāma has resorted to the forest (_rāmaś cāraṇyam āśritaḥ_); and by you have I been brought to infamy in the world of the living (_ayaśo jīva-loke ca tvayāhaṃ pratipāditaḥ_)!
 </details>
 </details>
 
@@ -406,7 +406,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O my enemy in the guise of a mother (mātṛ-rūpe mamāmitre), ruthless and greedy for sovereignty (nṛśaṃse rājya-kāmuke)! O woman of evil conduct and slayer of your husband, I am not to be spoken to by you (na te 'ham abhibhāṣyo 'smi durvṛtte pati-ghātini)!
+“O my enemy in the guise of a mother (_mātṛ-rūpe mamāmitre_), ruthless and greedy for sovereignty (_nṛśaṃse rājya-kāmuke_)! O woman of evil conduct and slayer of your husband, I am not to be spoken to by you (_na te &#x27;ham abhibhāṣyo &#x27;smi durvṛtte pati-ghātini_)!
 </details>
 </details>
 
@@ -462,7 +462,7 @@ falling victim to you, who brought disgrace to our family."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kausalyā and Sumitrā, and whatever other mothers of mine there are (kausalyā ca sumitrā ca yāś cānyā mama mātaraḥ), have been overwhelmed by mighty grief upon having you, the defiler of our race (duḥkhena mahatāviṣṭās tvāṃ prāpya kula-dūṣiṇīm)!
+“Kausalyā and Sumitrā, and whatever other mothers of mine there are (_kausalyā ca sumitrā ca yāś cānyā mama mātaraḥ_), have been overwhelmed by mighty grief upon having you, the defiler of our race (_duḥkhena mahatāviṣṭās tvāṃ prāpya kula-dūṣiṇīm_)!
 </details>
 </details>
 
@@ -493,7 +493,7 @@ falling victim to you, who brought disgrace to our family."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are not the daughter of the wise and righteous king Aśvapati (na tvam aśvapateḥ kanyā dharma-rājasya dhīmataḥ); you were born there as a demoness, the destroyer of your father's race (rākṣasī tatra jātāsi kula-pradhvaṃsinī pituḥ)!
+“You are not the daughter of the wise and righteous king Aśvapati (_na tvam aśvapateḥ kanyā dharma-rājasya dhīmataḥ_); you were born there as a demoness, the destroyer of your father&#x27;s race (_rākṣasī tatra jātāsi kula-pradhvaṃsinī pituḥ_)!
 </details>
 </details>
 
@@ -565,9 +565,9 @@ abandoned by my brothers and all the people dislike me now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “Since by you the righteous Rāma, ever devoted to truth (yat tvayā dhārmiko rāmo nityaṃ satya-parāyaṇaḥ), has been sent forth to the forest, and out of grief my father has departed to heaven (vanaṃ prasthāpito duḥkhāt pitā ca tridivaṃ gataḥ)—
+**10:** “Since by you the righteous Rāma, ever devoted to truth (_yat tvayā dhārmiko rāmo nityaṃ satya-parāyaṇaḥ_), has been sent forth to the forest, and out of grief my father has departed to heaven (_vanaṃ prasthāpito duḥkhāt pitā ca tridivaṃ gataḥ_)—
 
-**11:** “that sin of which you are the chief author (yat-pradhānāsi tat pāpam) has fallen upon me, bereft of my father (mayi pitrā vinākṛte), forsaken by my two brothers (bhrātṛbhyāṃ ca parityakte), and rendered odious to all the world (sarva-lokasya cāpriye)!
+**11:** “that sin of which you are the chief author (_yat-pradhānāsi tat pāpam_) has fallen upon me, bereft of my father (_mayi pitrā vinākṛte_), forsaken by my two brothers (_bhrātṛbhyāṃ ca parityakte_), and rendered odious to all the world (_sarva-lokasya cāpriye_)!
 </details>
 </details>
 
@@ -623,7 +623,7 @@ after making Kausalya endowed with righteousness, deprived of her son?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bereft Kausalyā, who is wedded to righteousness, O woman of sinful resolve (kausalyāṃ dharma-saṃyuktāṃ viyuktāṃ pāpa-niścaye kṛtvā), what world indeed will you attain today, O traveler to hell (kaṃ prāpsyase tv adya lokaṃ niraya-gāmini)?
+“Having bereft Kausalyā, who is wedded to righteousness, O woman of sinful resolve (_kausalyāṃ dharma-saṃyuktāṃ viyuktāṃ pāpa-niścaye kṛtvā_), what world indeed will you attain today, O traveler to hell (_kaṃ prāpsyase tv adya lokaṃ niraya-gāmini_)?
 </details>
 </details>
 
@@ -684,7 +684,7 @@ is devoted to his relatives and as an eldest brother, equal to a father?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you not understand, O cruel woman (kiṃ nāvabudhyase krūre), that eldest Rāma who is the constant refuge of his kinsmen (niyataṃ bandhu-saṃśrayam), equal to a father (jyeṣṭhaṃ pitṛ-samaṃ rāmam), and born of Kausalyā herself (kausalyāyātma-sambhavam)?
+“Why do you not understand, O cruel woman (_kiṃ nāvabudhyase krūre_), that eldest Rāma who is the constant refuge of his kinsmen (_niyataṃ bandhu-saṃśrayam_), equal to a father (_jyeṣṭhaṃ pitṛ-samaṃ rāmam_), and born of Kausalyā herself (_kausalyāyātma-sambhavam_)?
 </details>
 </details>
 
@@ -741,7 +741,7 @@ friends."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A son is born from limb after limb, and is also born from the heart (aṅga-pratyaṅgajaḥ putro hṛdayāc cāpi jāyate); therefore he is dearest of all to a mother, whereas other kinsmen are merely dear (tasmāt priyatamo mātuḥ priyā eva tu bāndhavāḥ).
+“A son is born from limb after limb, and is also born from the heart (_aṅga-pratyaṅgajaḥ putro hṛdayāc cāpi jāyate_); therefore he is dearest of all to a mother, whereas other kinsmen are merely dear (_tasmāt priyatamo mātuḥ priyā eva tu bāndhavāḥ_).
 </details>
 </details>
 
@@ -795,7 +795,7 @@ became unconscious."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once upon a time, they say, Surabhi, knower of righteousness and honored by the gods (anyadā kila dharmajñā surabhiḥ sura-sammatā), beheld upon the earth two of her sons drawing the plough, bereft of consciousness (vahamānau dadarśorvyāṃ putrau vigata-cetasau).
+“Once upon a time, they say, Surabhi, knower of righteousness and honored by the gods (_anyadā kila dharmajñā surabhiḥ sura-sammatā_), beheld upon the earth two of her sons drawing the plough, bereft of consciousness (_vahamānau dadarśorvyāṃ putrau vigata-cetasau_).
 </details>
 </details>
 
@@ -848,7 +848,7 @@ fate of her sons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding those two sons exhausted upon the surface of the earth at midday (tāv ardha-divase śrāntau dṛṣṭvā putrau mahī-tale), she wept out of grief for her sons, her eyes brimming with tears (ruroda putra-śokena bāṣpa-paryākulekṣaṇā).
+“Beholding those two sons exhausted upon the surface of the earth at midday (_tāv ardha-divase śrāntau dṛṣṭvā putrau mahī-tale_), she wept out of grief for her sons, her eyes brimming with tears (_ruroda putra-śokena bāṣpa-paryākulekṣaṇā_).
 </details>
 </details>
 
@@ -904,7 +904,7 @@ high soled Indra the lord of celestials, who was traveling below in a lower regi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As the great-souled king of the gods was passing beneath her (adhastād vrajatas tasyāḥ sura-rājño mahātmanaḥ), fine drops fragrant with heavenly perfume fell upon his limbs (bindavaḥ patitā gātre sūkṣmāḥ surabhi-gandhinaḥ).
+“As the great-souled king of the gods was passing beneath her (_adhastād vrajatas tasyāḥ sura-rājño mahātmanaḥ_), fine drops fragrant with heavenly perfume fell upon his limbs (_bindavaḥ patitā gātre sūkṣmāḥ surabhi-gandhinaḥ_).
 </details>
 </details>
 
@@ -957,7 +957,7 @@ celestials identified the tears to be those of the great Kamadhenu the mythical 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Indra, lord of the gods, beholding that sweet-scented shower of tears upon his own body (indro 'py aśru-nipātaṃ taṃ sva-gātre puṇya-gandhinam), looked up and recognized the exalted Surabhi (surabhiṃ manyate dṛṣṭvā bhūyasīṃ tāṃ sureśvaraḥ).
+“And Indra, lord of the gods, beholding that sweet-scented shower of tears upon his own body (_indro &#x27;py aśru-nipātaṃ taṃ sva-gātre puṇya-gandhinam_), looked up and recognized the exalted Surabhi (_surabhiṃ manyate dṛṣṭvā bhūyasīṃ tāṃ sureśvaraḥ_).
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ pitiably weeping with great grief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upward, Śakra beheld that Surabhi standing there (nirīkṣamāṇaḥ śakras tāṃ dadarśa surabhiṃ sthitām), stationed in the sky, wretched, weeping, and sorely afflicted with grief (ākāśe viṣṭhitāṃ dīnāṃ rudantīṃ bhṛśa-duḥkhitām).
+Gazing upward, Śakra beheld that Surabhi standing there (_nirīkṣamāṇaḥ śakras tāṃ dadarśa surabhiṃ sthitām_), stationed in the sky, wretched, weeping, and sorely afflicted with grief (_ākāśe viṣṭhitāṃ dīnāṃ rudantīṃ bhṛśa-duḥkhitām_).
 </details>
 </details>
 
@@ -1071,7 +1071,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that illustrious lady tormented by sorrow (tāṃ dṛṣṭvā śoka-santaptāṃ yaśasvinīm), Indra, wielder of the thunderbolt and king of the gods, agitated and with joined palms, spoke this word (vajra-pāṇir indraḥ prāñjalir udvignaḥ sura-rājo 'bravīd vacaḥ):
+Beholding that illustrious lady tormented by sorrow (_tāṃ dṛṣṭvā śoka-santaptāṃ yaśasvinīm_), Indra, wielder of the thunderbolt and king of the gods, agitated and with joined palms, spoke this word (_vajra-pāṇir indraḥ prāñjalir udvignaḥ sura-rājo &#x27;bravīd vacaḥ_):
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ us. For what occasion is your sorrow?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope no great danger from any quarter exists among us (bhayaṃ kaccin na cāsmāsu kutaścid vidyate mahat)? From what cause arises your grief (kuto-nimittaḥ śokas te)? Tell me, O well-wisher of all (brūhi sarva-hitaiṣiṇi)!”
+“I hope no great danger from any quarter exists among us (_bhayaṃ kaccin na cāsmāsu kutaścid vidyate mahat_)? From what cause arises your grief (_kuto-nimittaḥ śokas te_)? Tell me, O well-wisher of all (_brūhi sarva-hitaiṣiṇi_)!”
 </details>
 </details>
 
@@ -1175,7 +1175,7 @@ Kamadhenu who was skilled in expressing words, replied as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the wise king of the gods (evam uktā tu surabhiḥ sura-rājena dhīmatā), steadfast Surabhi, skilled in speech, then replied with this word (pratyuvāca tato dhīrā vākyaṃ vākya-viśāradā):
+Thus addressed by the wise king of the gods (_evam uktā tu surabhiḥ sura-rājena dhīmatā_), steadfast Surabhi, skilled in speech, then replied with this word (_pratyuvāca tato dhīrā vākyaṃ vākya-viśāradā_):
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May evil be averted! No danger of any kind threatens you from anywhere, O lord of the immortals (śāntaṃ pāpaṃ na vaḥ kiñcit kutaścid amarādhipa); I grieve rather for my own two sons, sunk in misery and placed in a cruel plight (ahaṃ magnau tu śocāmi sva-putrau viṣame sthitau)—
+“May evil be averted! No danger of any kind threatens you from anywhere, O lord of the immortals (_śāntaṃ pāpaṃ na vaḥ kiñcit kutaścid amarādhipa_); I grieve rather for my own two sons, sunk in misery and placed in a cruel plight (_ahaṃ magnau tu śocāmi sva-putrau viṣame sthitau_)—
 </details>
 </details>
 
@@ -1262,7 +1262,7 @@ being immersed in grief, I am pitiably weeping O, Indra!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“beholding these two bulls emaciated and wretched, scorched by the rays of the sun (etau dṛṣṭvā kṛśau dīnau sūrya-raśmi-pratāpitau), and harassed by the ploughman, O lord of the gods (bādhyamānau balīvardhau karṣakeṇa surādhipa)!
+“beholding these two bulls emaciated and wretched, scorched by the rays of the sun (_etau dṛṣṭvā kṛśau dīnau sūrya-raśmi-pratāpitau_), and harassed by the ploughman, O lord of the gods (_bādhyamānau balīvardhau karṣakeṇa surādhipa_)!
 </details>
 </details>
 
@@ -1323,7 +1323,7 @@ anguished. They are indeed born of my body. There is no dearest one equal to a s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For these two, born from my own body, are afflicted and oppressed by their burden (mama kāyāt prasūtau hi duḥkhitau bhāra-pīḍitau); beholding them, I am tormented with anguish, for nothing is dearer than a son (yau dṛṣṭvā paritapye 'haṃ nāsti putra-samaḥ priyaḥ)!’
+“‘For these two, born from my own body, are afflicted and oppressed by their burden (_mama kāyāt prasūtau hi duḥkhitau bhāra-pīḍitau_); beholding them, I am tormented with anguish, for nothing is dearer than a son (_yau dṛṣṭvā paritapye &#x27;haṃ nāsti putra-samaḥ priyaḥ_)!’
 </details>
 </details>
 
@@ -1379,7 +1379,7 @@ Indra reckoned none whosoever as more than a son (to a mother) .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding her weeping, by whose thousands of sons this whole world is pervaded (yasyāḥ putra-sahasrais tu kṛtsnaṃ vyāptam idaṃ jagat), Śakra deemed nothing higher than a son (tāṃ dṛṣṭvā rudatīṃ śakro na sutān manyate param)—
+“Beholding her weeping, by whose thousands of sons this whole world is pervaded (_yasyāḥ putra-sahasrais tu kṛtsnaṃ vyāptam idaṃ jagat_), Śakra deemed nothing higher than a son (_tāṃ dṛṣṭvā rudatīṃ śakro na sutān manyate param_)—
 </details>
 </details>
 
@@ -1443,9 +1443,9 @@ drag her existence, without Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “she of ever matchless conduct, moved by the desire to sustain the world (sadāpratima-vṛttāyā loka-dhāraṇa-kāmyayā), glorious and constant in virtue through her natural disposition (śrīmatyā guṇa-nityāyāḥ svabhāva-pariceṣṭayā).
+**27:** “she of ever matchless conduct, moved by the desire to sustain the world (_sadāpratima-vṛttāyā loka-dhāraṇa-kāmyayā_), glorious and constant in virtue through her natural disposition (_śrīmatyā guṇa-nityāyāḥ svabhāva-pariceṣṭayā_).
 
-**28:** “If even that wish-yielding cow who has thousands of sons thus grieves (yasyāḥ putra-sahasrāṇi sāpi śocati kāmadhuk), how much more then will Kausalyā, bereft of Rāma, scarcely endure to live (kiṃ punar yā vinā rāmaṃ kausalyā vartayiṣyati)?
+**28:** “If even that wish-yielding cow who has thousands of sons thus grieves (_yasyāḥ putra-sahasrāṇi sāpi śocati kāmadhuk_), how much more then will Kausalyā, bereft of Rāma, scarcely endure to live (_kiṃ punar yā vinā rāmaṃ kausalyā vartayiṣyati_)?
 </details>
 </details>
 
@@ -1498,7 +1498,7 @@ you. Thereafter, you will obtain grief forever after your death or even here whi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having an only son and devoted to virtue, she has been rendered childless by you (eka-putrā ca sādhvī ca vivatseyaṃ tvayā kṛtā); therefore you shall reap perpetual misery both hereafter and in this world (tasmāt tvaṃ satataṃ duḥkhaṃ pretya ceha ca lapsyase)!
+“Having an only son and devoted to virtue, she has been rendered childless by you (_eka-putrā ca sādhvī ca vivatseyaṃ tvayā kṛtā_); therefore you shall reap perpetual misery both hereafter and in this world (_tasmāt tvaṃ satataṃ duḥkhaṃ pretya ceha ca lapsyase_)!
 </details>
 </details>
 
@@ -1551,7 +1551,7 @@ doubt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuredly I shall perform this complete homage due to my brother and to my father (ahaṃ hy apacitiṃ bhrātuḥ pituś ca sakalām imām), as well as the enhancement of my renown—of this there is no doubt (vardhanaṃ yaśasaś cāpi kariṣyāmi na saṃśayaḥ)!
+“Assuredly I shall perform this complete homage due to my brother and to my father (_ahaṃ hy apacitiṃ bhrātuḥ pituś ca sakalām imām_), as well as the enhancement of my renown—of this there is no doubt (_vardhanaṃ yaśasaś cāpi kariṣyāmi na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -1611,7 +1611,7 @@ myself will go to the forest inhabited by the sages."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having caused the mighty son of Kausalyā to be brought back (ānāyayitvā tanayaṃ kausalyāyā mahā-balam), I myself shall enter the forest frequented by sages (svayam eva pravekṣyāmi vanaṃ muni-niṣevitam)!
+“Having caused the mighty son of Kausalyā to be brought back (_ānāyayitvā tanayaṃ kausalyāyā mahā-balam_), I myself shall enter the forest frequented by sages (_svayam eva pravekṣyāmi vanaṃ muni-niṣevitam_)!
 </details>
 </details>
 
@@ -1658,7 +1658,7 @@ indeed not able to bear the inequity done by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For I, O sinful woman of sinful resolve, am unable to bear the sin committed by you (na hy ahaṃ pāpa-saṅkalpe pāpe pāpaṃ tvayā kṛtaṃ śakto dhārayitum), while gazed upon by the citizens with tear-choked throats (paurair aśru-kaṇṭhair nirīkṣitaḥ)!
+“For I, O sinful woman of sinful resolve, am unable to bear the sin committed by you (_na hy ahaṃ pāpa-saṅkalpe pāpe pāpaṃ tvayā kṛtaṃ śakto dhārayitum_), while gazed upon by the citizens with tear-choked throats (_paurair aśru-kaṇṭhair nirīkṣitaḥ_)!
 </details>
 </details>
 
@@ -1711,7 +1711,7 @@ around your neck. There is no other recourse for you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore enter the fire yourself, or go yourself into the Daṇḍaka woods (sā tvam agniṃ praviśa vā svayaṃ vā daṇḍakān viśa), or bind a rope around your neck—for there is no other refuge for you (rajjuṃ badhāna vā kaṇṭhe na hi te 'nyat parāyaṇam)!
+“Therefore enter the fire yourself, or go yourself into the Daṇḍaka woods (_sā tvam agniṃ praviśa vā svayaṃ vā daṇḍakān viśa_), or bind a rope around your neck—for there is no other refuge for you (_rajjuṃ badhāna vā kaṇṭhe na hi te &#x27;nyat parāyaṇam_)!
 </details>
 </details>
 
@@ -1760,7 +1760,7 @@ accomplished man, with my sins duly washed away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And when Rāma of true valor has regained the earth (aham apy avanīṃ prāpte rāme satya-parākrame), I too shall have fulfilled my duty, with my stain banished afar (kṛta-kṛtyo bhaviṣyāmi vipravāsita-kalmaṣaḥ)!”
+“And when Rāma of true valor has regained the earth (_aham apy avanīṃ prāpte rāme satya-parākrame_), I too shall have fulfilled my duty, with my stain banished afar (_kṛta-kṛtyo bhaviṣyāmi vipravāsita-kalmaṣaḥ_)!”
 </details>
 </details>
 
@@ -1812,7 +1812,7 @@ serpent, Bharata was enraged and fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, like an elephant in the forest goaded by lances and hooks (iti nāga ivāraṇye tomarāṅkuśa-coditaḥ), he fell upon the ground in fierce wrath, hissing like a serpent (papāta bhuvi saṅkruddho niḥśvasann iva pannagaḥ).
+Speaking thus, like an elephant in the forest goaded by lances and hooks (_iti nāga ivāraṇye tomarāṅkuśa-coditaḥ_), he fell upon the ground in fierce wrath, hissing like a serpent (_papāta bhuvi saṅkruddho niḥśvasann iva pannagaḥ_).
 </details>
 </details>
 
@@ -1889,7 +1889,7 @@ a ceremony**
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With bloodshot eyes and loosened garments then, having cast off all his ornaments, that tormentor of foes, the king's son (saṃrakta-netraḥ śithilāmbaras tadā vidhūta-sarvābharaṇaḥ parantapaḥ nṛpātmajaḥ), lay fallen upon the earth like the banner of Śacī's lord at the close of a festival (babhūva bhūmau patitaḥ śacī-pateḥ ketur ivotsava-kṣaye).
+With bloodshot eyes and loosened garments then, having cast off all his ornaments, that tormentor of foes, the king&#x27;s son (_saṃrakta-netraḥ śithilāmbaras tadā vidhūta-sarvābharaṇaḥ parantapaḥ nṛpātmajaḥ_), lay fallen upon the earth like the banner of Śacī&#x27;s lord at the close of a festival (_babhūva bhūmau patitaḥ śacī-pateḥ ketur ivotsava-kṣaye_).
 </details>
 </details>
 

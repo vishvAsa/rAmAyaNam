@@ -85,7 +85,7 @@ brother who was devoted to elders (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma’s words, Bharata replied (rāmasya vacanaṃ śrutvā bharataḥ pratyuvāca ha): “What will the law of kingship avail me, who am bereft of righteousness (kiṃ me dharmād vihīnasya rāja-dharmaḥ kariṣyati)?
+Hearing Rāma’s words, Bharata replied (_rāmasya vacanaṃ śrutvā bharataḥ pratyuvāca ha_): “What will the law of kingship avail me, who am bereft of righteousness (_kiṃ me dharmād vihīnasya rāja-dharmaḥ kariṣyati_)?
 </details>
 </details>
 
@@ -159,9 +159,9 @@ in deer-skin and matted hair, relinquishing the kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “O bull among men, this eternal law has ever stood firm among us (śāśvato ’yaṃ sadā dharmaḥ sthito ’smāsu nararṣabha): while the eldest son lives, O king, a younger son may never become monarch (jyeṣṭha-putre sthite rājan na kanīyān nṛpo bhavet).
+**2:** “O bull among men, this eternal law has ever stood firm among us (_śāśvato ’yaṃ sadā dharmaḥ sthito ’smāsu nararṣabha_): while the eldest son lives, O king, a younger son may never become monarch (_jyeṣṭha-putre sthite rājan na kanīyān nṛpo bhavet_).
 
-**3:** “Therefore, O Rāghava, go with me to prosperous Ayodhyā (sa samṛddhāṃ mayā sārdham ayodhyāṃ gaccha rāghava), and have yourself consecrated for the welfare of this race of ours (abhiṣecaya cātmānaṃ kulasyāsya bhavāya naḥ)!
+**3:** “Therefore, O Rāghava, go with me to prosperous Ayodhyā (_sa samṛddhāṃ mayā sārdham ayodhyāṃ gaccha rāghava_), and have yourself consecrated for the welfare of this race of ours (_abhiṣecaya cātmānaṃ kulasyāsya bhavāya naḥ_)!
 </details>
 </details>
 
@@ -213,7 +213,7 @@ with joined palms answered as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Men call a king human, yet I deem him a deity (rājānaṃ mānuṣaṃ prāhur devatve sa mato mama)—he whose conduct, united with righteousness and polity, they declare to be superhuman (yasya dharmārtha-sahitaṃ vṛttam āhur amānuṣam).
+“Men call a king human, yet I deem him a deity (_rājānaṃ mānuṣaṃ prāhur devatve sa mato mama_)—he whose conduct, united with righteousness and polity, they declare to be superhuman (_yasya dharmārtha-sahitaṃ vṛttam āhur amānuṣam_).
 </details>
 </details>
 
@@ -267,7 +267,7 @@ account of separation from his son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While I was dwelling among the Kekayas and you had repaired to the forest (kekayasthe ca mayi tu tvayi cāraṇyam āśrite), the noble king, a constant performer of sacrifices esteemed by the good, went to heaven (divam āryo gato rājā yāyajūkaḥ satāṃ mataḥ).
+“While I was dwelling among the Kekayas and you had repaired to the forest (_kekayasthe ca mayi tu tvayi cāraṇyam āśrite_), the noble king, a constant performer of sacrifices esteemed by the good, went to heaven (_divam āryo gato rājā yāyajūkaḥ satāṃ mataḥ_).
 </details>
 </details>
 
@@ -328,7 +328,7 @@ committed this great sin that has taken away his own reputation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No sooner had you departed accompanied by Sītā and Lakṣmaṇa (niṣkrānta-mātre bhavati saha-sīte sa-lakṣmaṇe) than the king, overwhelmed by sorrow and grief, departed to the third heaven (duḥkha-śokābhibhūtas tu rājā tridivam abhyagāt).
+“No sooner had you departed accompanied by Sītā and Lakṣmaṇa (_niṣkrānta-mātre bhavati saha-sīte sa-lakṣmaṇe_) than the king, overwhelmed by sorrow and grief, departed to the third heaven (_duḥkha-śokābhibhūtas tu rājā tridivam abhyagāt_).
 </details>
 </details>
 
@@ -384,7 +384,7 @@ mother will fall into the most terrific hell."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Arise, O tiger among men, and let the funerary water-libation be offered to our father (uttiṣṭha puruṣa-vyāghra kriyatām udakaṃ pituḥ); both I and this Śatrughna have already offered the water-rite beforehand (ahaṃ cāyaṃ ca śatrughnaḥ pūrvam eva kṛtodakau).
+“Arise, O tiger among men, and let the funerary water-libation be offered to our father (_uttiṣṭha puruṣa-vyāghra kriyatām udakaṃ pituḥ_); both I and this Śatrughna have already offered the water-rite beforehand (_ahaṃ cāyaṃ ca śatrughnaḥ pūrvam eva kṛtodakau_).
 </details>
 </details>
 
@@ -436,7 +436,7 @@ celestials himself, receive the royal anointing!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For they say that what is given by one who is beloved becomes inexhaustible in the worlds of the Ancestors, O Rāghava (priyeṇa khalu dattaṃ hi pitṛ-lokeṣu rāghava akṣayyaṃ bhavatīty āhuḥ); and you above all were dear to our father (bhavāṃś caiva pituḥ priyaḥ).
+“For they say that what is given by one who is beloved becomes inexhaustible in the worlds of the Ancestors, O Rāghava (_priyeṇa khalu dattaṃ hi pitṛ-lokeṣu rāghava akṣayyaṃ bhavatīty āhuḥ_); and you above all were dear to our father (_bhavāṃś caiva pituḥ priyaḥ_).
 </details>
 </details>
 
@@ -488,7 +488,7 @@ this felicity!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Grieving for you alone, longing to behold you, and unable to turn back his mind that was fixed solely upon you (tvām eva śocaṃs tava darśanepsus tvayy eva saktām anivartya buddhim), your father, bereft of you and wasted by grief for you, sank to his rest remembering you (tvayā vihīnas tava śoka-rugṇas tvāṃ saṃsmarann astamitaḥ pitā te)!”
+“Grieving for you alone, longing to behold you, and unable to turn back his mind that was fixed solely upon you (_tvām eva śocaṃs tava darśanepsus tvayy eva saktām anivartya buddhim_), your father, bereft of you and wasted by grief for you, sank to his rest remembering you (_tvayā vihīnas tava śoka-rugṇas tvāṃ saṃsmarann astamitaḥ pitā te_)!”
 </details>
 </details>
 

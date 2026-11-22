@@ -78,7 +78,7 @@ City Vishala. [1-47-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When her embryo had been cleft into seven parts (saptadhā tu kṛte garbhe), Diti, overwhelmed with supreme sorrow (paramaduḥkhitā), spoke conciliatory words (vākyaṃ sānunayābravīt) to the unassailable thousand-eyed Indra (sahasrākṣaṃ durādharṣam):
+When her embryo had been cleft into seven parts (_saptadhā tu kṛte garbhe_), Diti, overwhelmed with supreme sorrow (_paramaduḥkhitā_), spoke conciliatory words (_vākyaṃ sānunayābravīt_) to the unassailable thousand-eyed Indra (_sahasrākṣaṃ durādharṣam_):
 </details>
 </details>
 
@@ -126,7 +126,7 @@ this matter.' Thus Diti started speaking to Indra. [1-47-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through my own fault and lapse in purity (mamāparādhāt) has this embryo been cleft into seven fragments (garbho ’yaṃ saptadhā śakalīkṛtaḥ); there is no transgression on your part in this matter (nāparādho hi tavātra), O Lord of the Gods, O slayer of Bala (balasūdana)!
+“Through my own fault and lapse in purity (_mamāparādhāt_) has this embryo been cleft into seven fragments (_garbho ’yaṃ saptadhā śakalīkṛtaḥ_); there is no transgression on your part in this matter (_nāparādho hi tavātra_), O Lord of the Gods, O slayer of Bala (_balasūdana_)!
 </details>
 </details>
 
@@ -189,7 +189,7 @@ of seven Marut-s, thus they are forty-nine entities, in total.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet in this calamity of my womb (mama garbhaviparyaye), I desire a gracious favor wrought by you (priyaṃ tvatkṛtam icchāmi): let those sons of mine become the guardian lords of the seven stations of the seven Maruts (marutāṃ sapta saptānāṃ sthānapālā bhavantu te).
+“Yet in this calamity of my womb (_mama garbhaviparyaye_), I desire a gracious favor wrought by you (_priyaṃ tvatkṛtam icchāmi_): let those sons of mine become the guardian lords of the seven stations of the seven Maruts (_marutāṃ sapta saptānāṃ sthānapālā bhavantu te_).
 </details>
 </details>
 
@@ -238,7 +238,7 @@ Cosmic Air Divisions and let them move in heaven with heavenly forms. [1-47-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let these seven wind-hosts (vātaskandhā ime sapta) roam through the heavens, O dear son (carantu divi putraka), my offspring of celestial form (divyarūpā mamātmajāḥ), renowned by the name of ‘Mārutas’ (mārutā iti vikhyātāḥ).
+“Let these seven wind-hosts (_vātaskandhā ime sapta_) roam through the heavens, O dear son (_carantu divi putraka_), my offspring of celestial form (_divyarūpā mamātmajāḥ_), renowned by the name of ‘Mārutas’ (_mārutā iti vikhyātāḥ_).
 </details>
 </details>
 
@@ -293,7 +293,7 @@ and he may circulate in entire universe. [1-47-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let one host roam through the world of Brahmā (brahmalokaṃ caratv ekaḥ), and another likewise through the world of Indra (indralokaṃ tathāparaḥ); and let the third also, of great renown, be celebrated as the celestial wind in the firmament (divyavāyur iti khyātas tṛtīyo ’pi mahāyaśāḥ).
+“Let one host roam through the world of Brahmā (_brahmalokaṃ caratv ekaḥ_), and another likewise through the world of Indra (_indralokaṃ tathāparaḥ_); and let the third also, of great renown, be celebrated as the celestial wind in the firmament (_divyavāyur iti khyātas tṛtīyo ’pi mahāyaśāḥ_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ you as 'Marut,' because you have coaxed the crying fragments of foetus saying, '
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let the other four hosts, O best of the gods (catvāras tu suraśreṣṭha), roam in due order through the four cardinal directions at your command (diśo vai tava śāsanāt saṃcariṣyanti)—may auspiciousness attend you (bhadraṃ te)—as my sons in the course of time (kālena hi mamātmajāḥ),
+“And let the other four hosts, O best of the gods (_catvāras tu suraśreṣṭha_), roam in due order through the four cardinal directions at your command (_diśo vai tava śāsanāt saṃcariṣyanti_)—may auspiciousness attend you (_bhadraṃ te_)—as my sons in the course of time (_kālena hi mamātmajāḥ_),
 </details>
 </details>
 
@@ -415,7 +415,7 @@ Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“renowned as ‘Mārutas’ by the very name bestowed by you (tvatkṛtenaiva nāmnā vai mārutā iti viśrutāḥ)!” Hearing that speech of hers, the thousand-eyed Purandara (sahasrākṣaḥ purandaraḥ),
+“renowned as ‘Mārutas’ by the very name bestowed by you (_tvatkṛtenaiva nāmnā vai mārutā iti viśrutāḥ_)!” Hearing that speech of hers, the thousand-eyed Purandara (_sahasrākṣaḥ purandaraḥ_),
 </details>
 </details>
 
@@ -446,7 +446,7 @@ Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the slayer of Bala (balasūdanaḥ), joined his palms in reverence and spoke these words (uvāca prāñjalir vākyam itīdam): “All this shall come to pass just as you have spoken; of this there is no doubt (sarvam etad yathoktaṃ te bhaviṣyati na saṃśayaḥ).
+the slayer of Bala (_balasūdanaḥ_), joined his palms in reverence and spoke these words (_uvāca prāñjalir vākyam itīdam_): “All this shall come to pass just as you have spoken; of this there is no doubt (_sarvam etad yathoktaṃ te bhaviṣyati na saṃśayaḥ_).
 </details>
 </details>
 
@@ -498,7 +498,7 @@ their purposes. Thus we heard the legend." Thus Vishvamitra continued his narrat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May auspiciousness attend you (bhadraṃ te)—your sons, endowed with celestial forms, shall roam through the worlds (vicariṣyanti devarūpās tavātmajāḥ)!” Having thus reached this resolve in the ascetic grove, mother and son (evaṃ tau niścayaṃ kṛtvā mātāputrau tapovane)
+“May auspiciousness attend you (_bhadraṃ te_)—your sons, endowed with celestial forms, shall roam through the worlds (_vicariṣyanti devarūpās tavātmajāḥ_)!” Having thus reached this resolve in the ascetic grove, mother and son (_evaṃ tau niścayaṃ kṛtvā mātāputrau tapovane_)
 </details>
 </details>
 
@@ -546,7 +546,7 @@ and where he rendered services to that accomplished one in her asceticism, namel
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-ascended to the third heaven, O Rāma, their purposes fulfilled—so have we heard (jagmatus tridivaṃ rāma kṛtārthāv iti naḥ śrutam). This, O Kākutstha, is that very region where Mahendra dwelt of old (eṣa deśaḥ sa kākutstha mahendrādhyuṣitaḥ purā),
+ascended to the third heaven, O Rāma, their purposes fulfilled—so have we heard (_jagmatus tridivaṃ rāma kṛtārthāv iti naḥ śrutam_). This, O Kākutstha, is that very region where Mahendra dwelt of old (_eṣa deśaḥ sa kākutstha mahendrādhyuṣitaḥ purā_),
 </details>
 </details>
 
@@ -602,9 +602,9 @@ The Bhaagavata Puraana says separately in its seventh canto about this dynasty o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** and where he thus waited upon Diti when she was Accomplished in austerity (ditiṃ yatra tapaḥsiddhām evaṃ paricacāra saḥ). Now, O tiger among men, King Ikṣvāku had a supremely righteous son (ikṣvākos tu naravyāghra putraḥ paramadhārmikaḥ),
+**11:** and where he thus waited upon Diti when she was Accomplished in austerity (_ditiṃ yatra tapaḥsiddhām evaṃ paricacāra saḥ_). Now, O tiger among men, King Ikṣvāku had a supremely righteous son (_ikṣvākos tu naravyāghra putraḥ paramadhārmikaḥ_),
 
-**12:** born of the celestial nymph Alambuṣā and renowned by the name of Viśāla (alambuṣāyām utpanno viśāla iti viśrutaḥ); and by him was founded upon this spot the city named Viśālā (tena cāsīd iha sthāne viśāleti purī kṛtā).
+**12:** born of the celestial nymph Alambuṣā and renowned by the name of Viśāla (_alambuṣāyām utpanno viśāla iti viśrutaḥ_); and by him was founded upon this spot the city named Viśālā (_tena cāsīd iha sthāne viśāleti purī kṛtā_).
 </details>
 </details>
 
@@ -657,7 +657,7 @@ renowned as Suchandra.. [1-47-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The son of Viśāla, O Rāma, was the mighty Hemacandra (viśālasya suto rāma hemacandro mahābalaḥ); and immediately after Hemacandra came the ruler renowned as Sucandra (sucandra iti vikhyāto hemacandrād anantaraḥ).
+“The son of Viśāla, O Rāma, was the mighty Hemacandra (_viśālasya suto rāma hemacandro mahābalaḥ_); and immediately after Hemacandra came the ruler renowned as Sucandra (_sucandra iti vikhyāto hemacandrād anantaraḥ_).
 </details>
 </details>
 
@@ -702,7 +702,7 @@ his son named Srinjaya. [1-47-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The son of Sucandra, O Rāma, was renowned as Dhūmrāśva (sucandratanayo rāma dhūmrāśva iti viśrutaḥ); and as the son of Dhūmrāśva arose Sṛñjaya (dhūmrāśvatanayaś cāpi sṛñjayaḥ samapadyata).
+“The son of Sucandra, O Rāma, was renowned as Dhūmrāśva (_sucandratanayo rāma dhūmrāśva iti viśrutaḥ_); and as the son of Dhūmrāśva arose Sṛñjaya (_dhūmrāśvatanayaś cāpi sṛñjayaḥ samapadyata_).
 </details>
 </details>
 
@@ -747,7 +747,7 @@ most righteous Kushaashva. [1-47-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The son of Sṛñjaya was the glorious and valorous Sahadeva (sṛñjayasya sutaḥ śrīmān sahadevaḥ pratāpavān); and the son of Sahadeva was the supremely righteous Kuśāśva (kuśāśvaḥ sahadevasya putraḥ paramadhārmikaḥ).
+“The son of Sṛñjaya was the glorious and valorous Sahadeva (_sṛñjayasya sutaḥ śrīmān sahadevaḥ pratāpavān_); and the son of Sahadeva was the supremely righteous Kuśāśva (_kuśāśvaḥ sahadevasya putraḥ paramadhārmikaḥ_).
 </details>
 </details>
 
@@ -793,7 +793,7 @@ son is highly reputed as Kakutstha. [1-47-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The son of Kuśāśva was the resplendent and valorous Somadatta (kuśāśvasya mahātejāḥ somadattaḥ pratāpavān); and the son of Somadatta was renowned by the name of Kākutstha (somadattasya putras tu kākutstha iti viśrutaḥ).
+“The son of Kuśāśva was the resplendent and valorous Somadatta (_kuśāśvasya mahātejāḥ somadattaḥ pratāpavān_); and the son of Somadatta was renowned by the name of Kākutstha (_somadattasya putras tu kākutstha iti viśrutaḥ_).
 </details>
 </details>
 
@@ -847,7 +847,7 @@ with the grandparents of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His son of great splendor—invincible, of supreme renown, named Sumati (tasya putro mahātejāḥ paramaprakhyaḥ sumatir nāma durjayaḥ)—presently inhabits and rules this city (sampraty eṣa purīm imām āvasat).
+“His son of great splendor—invincible, of supreme renown, named Sumati (_tasya putro mahātejāḥ paramaprakhyaḥ sumatir nāma durjayaḥ_)—presently inhabits and rules this city (_sampraty eṣa purīm imām āvasat_).
 </details>
 </details>
 
@@ -893,7 +893,7 @@ well-off in generosity, and they were great-souled ones. [1-47-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the grace of Ikṣvāku, all the monarchs of Viśālā (ikṣvākos tu prasādena sarve vaiśālikā nṛpāḥ) have been blessed with long life, great souls, heroic valor, and firm devotion to dharma (dīrghāyuṣo mahātmāno vīryavantaḥ sudhārmikāḥ).
+“By the grace of Ikṣvāku, all the monarchs of Viśālā (_ikṣvākos tu prasādena sarve vaiśālikā nṛpāḥ_) have been blessed with long life, great souls, heroic valor, and firm devotion to _dharma_ (_dīrghāyuṣo mahātmāno vīryavantaḥ sudhārmikāḥ_).
 </details>
 </details>
 
@@ -951,7 +951,7 @@ to Rama and Lakshmana. [1-47-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here today for a single night let us sleep in comfort (ihādya rajanīm ekāṃ sukhaṃ svapsyāmahe vayam); tomorrow at dawn, O best of men, you shall behold King Janaka (śvaḥ prabhāte naraśreṣṭha janakaṃ draṣṭum arhasi).”
+“Here today for a single night let us sleep in comfort (_ihādya rajanīm ekāṃ sukhaṃ svapsyāmahe vayam_); tomorrow at dawn, O best of men, you shall behold King Janaka (_śvaḥ prabhāte naraśreṣṭha janakaṃ draṣṭum arhasi_).”
 </details>
 </details>
 
@@ -999,7 +999,7 @@ a warm welcome. [1-47-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Viśvāmitra had arrived (viśvāmitram upāgataṃ śrutvā), the resplendent and illustrious King Sumati, foremost of royal heroes (sumatis tu mahātejā naravaraśreṣṭhaḥ mahāyaśāḥ), came forth in person to welcome him (pratyāgacchat).
+Hearing that Viśvāmitra had arrived (_viśvāmitram upāgataṃ śrutvā_), the resplendent and illustrious King Sumati, foremost of royal heroes (_sumatis tu mahātejā naravaraśreṣṭhaḥ mahāyaśāḥ_), came forth in person to welcome him (_pratyāgacchat_).
 </details>
 </details>
 
@@ -1048,7 +1048,7 @@ to Vishvamitra, and then spoke to the sage with adjoined palms enquiring about h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered supreme worship along with his preceptors and kinsmen (pūjāṃ ca paramāṃ kṛtvā sopādhyāyaḥ sabāndhavaḥ), Sumati joined his palms, inquired after his welfare, and spoke thus to Viśvāmitra (prāñjaliḥ kuśalaṃ pṛṣṭvā viśvāmitram athābravīt):
+Having offered supreme worship along with his preceptors and kinsmen (_pūjāṃ ca paramāṃ kṛtvā sopādhyāyaḥ sabāndhavaḥ_), Sumati joined his palms, inquired after his welfare, and spoke thus to Viśvāmitra (_prāñjaliḥ kuśalaṃ pṛṣṭvā viśvāmitram athābravīt_):
 </details>
 </details>
 
@@ -1107,6 +1107,6 @@ king Sumati to Vishvamitra. [1-47-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessed am I and favored by grace, O Sage, in that you have entered my realm and granted me your sight (dhanyo ’smy anugṛhīto ’smi yasya me viṣayaṃ mune samprāpto darśanaṃ caiva); there is none more fortunate than I (nāsti dhanyataro mama)!”
+“Blessed am I and favored by grace, O Sage, in that you have entered my realm and granted me your sight (_dhanyo ’smy anugṛhīto ’smi yasya me viṣayaṃ mune samprāpto darśanaṃ caiva_); there is none more fortunate than I (_nāsti dhanyataro mama_)!”
 </details>
 </details>

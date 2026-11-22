@@ -48,7 +48,7 @@ Having walked a yojana and a half to the westward-flowing Sarayū, Rāma arrives
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having proceeded a yojana and a half (adhyardha-yojanaṃ gatvā), the delight of the Raghus beheld the sacred-watered river Sarayū (sarayūṃ puṇya-salilām), which turned its course westward (nadīṃ paścān-mukhāśritām).
+Having proceeded a yojana and a half (_adhyardha-yojanaṃ gatvā_), the delight of the Raghus beheld the sacred-watered river Sarayū (_sarayūṃ puṇya-salilām_), which turned its course westward (_nadīṃ paścān-mukhāśritām_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having proceeded a yojana and a half (adhyardha-yojanaṃ gatvā), the delight o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Following along every bend of that river teeming with swirling eddies (tāṃ nadīm ākulāvartāṃ sarvatrānusaran), King Rāma, the delight of the Raghus, arrived together with his subjects at that sacred spot (āgataḥ saprajo rāmas taṃ deśam).
+Following along every bend of that river teeming with swirling eddies (_tāṃ nadīm ākulāvartāṃ sarvatrānusaran_), King Rāma, the delight of the Raghus, arrived together with his subjects at that sacred spot (_āgataḥ saprajo rāmas taṃ deśam_).
 </details>
 </details>
 
@@ -114,9 +114,9 @@ Following along every bend of that river teeming with swirling eddies (tāṃ na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Then in that very hour (atha tasmin muhūrte tu), Brahmā, the Grandfather of the worlds (brahmā loka-pitāmahaḥ), surrounded by all the gods and the great-souled sages (sarvaiḥ parivṛto devair ṛṣibhiś ca mahātmabhiḥ),
+**3:** Then in that very hour (_atha tasmin muhūrte tu_), Brahmā, the Grandfather of the worlds (_brahmā loka-pitāmahaḥ_), surrounded by all the gods and the great-souled sages (_sarvaiḥ parivṛto devair ṛṣibhiś ca mahātmabhiḥ_),
 
-**4:** descended to the place where Kākutstha stood ready for heaven (āyayau yatra kākutsthaḥ svargāya samupasthitaḥ), encircled by a hundred crores of divine aerial cars (vimāna-śata-koṭībhir divyābhir abhisaṃvṛtaḥ).
+**4:** descended to the place where Kākutstha stood ready for heaven (_āyayau yatra kākutsthaḥ svargāya samupasthitaḥ_), encircled by a hundred crores of divine aerial cars (_vimāna-śata-koṭībhir divyābhir abhisaṃvṛtaḥ_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Following along every bend of that river teeming with swirling eddies (tāṃ na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overspread with divine effulgence (divya-tejovṛtam), the firmament became a peerless mass of pure radiance (vyoma jyotir-bhūtam anuttamam) through the self-luminous splendors of the righteous heaven-dwellers (svayamprabhaiḥ svatejobhiḥ svargibhiḥ puṇya-karmabhiḥ).
+Overspread with divine effulgence (_divya-tejovṛtam_), the firmament became a peerless mass of pure radiance (_vyoma jyotir-bhūtam anuttamam_) through the self-luminous splendors of the righteous heaven-dwellers (_svayamprabhaiḥ svatejobhiḥ svargibhiḥ puṇya-karmabhiḥ_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Overspread with divine effulgence (divya-tejovṛtam), the firmament became a pe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pure, fragrant, and soothing breezes blew (puṇyā vātā vavuś caiva gandhavantaḥ sukhapradāḥ), and a shower of flowers released by the gods rained down like a mighty flood (papāta puṣpa-vṛṣṭiś ca devair muktā mahaughavat).
+Pure, fragrant, and soothing breezes blew (_puṇyā vātā vavuś caiva gandhavantaḥ sukhapradāḥ_), and a shower of flowers released by the gods rained down like a mighty flood (_papāta puṣpa-vṛṣṭiś ca devair muktā mahaughavat_).
 </details>
 </details>
 
@@ -217,7 +217,7 @@ Amid hundreds of heavenly instruments and throngs of gandharvas and apsarases, R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that hour filled with hundreds of celestial instruments (tasmiṃs tūrya-śataiḥ kīrṇe) and thronged with gandharvas and apsarases (gandharvāpsara-saṅkule), Rāma stepped on foot into the waters of the Sarayū (sarayū-salilaṃ rāmaḥ padbhyāṃ samupacakrame).
+In that hour filled with hundreds of celestial instruments (_tasmiṃs tūrya-śataiḥ kīrṇe_) and thronged with gandharvas and apsarases (_gandharvāpsara-saṅkule_), Rāma stepped on foot into the waters of the Sarayū (_sarayū-salilaṃ rāmaḥ padbhyāṃ samupacakrame_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ In that hour filled with hundreds of celestial instruments (tasmiṃs tūrya-śa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the Grandfather spoke a voice from the sky (pitāmaho vāṇīm antarikṣād abhāṣata): “Come, O Viṣṇu—auspiciousness be yours! By good fortune have you arrived, O Rāghava (āgaccha viṣṇo bhadraṃ te diṣṭyā prāpto ’si rāghava)!
+Thereupon the Grandfather spoke a voice from the sky (_pitāmaho vāṇīm antarikṣād abhāṣata_): “Come, O Viṣṇu—auspiciousness be yours! By good fortune have you arrived, O Rāghava (_āgaccha viṣṇo bhadraṃ te diṣṭyā prāpto ’si rāghava_)!
 </details>
 </details>
 
@@ -282,7 +282,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with your god-like brothers, enter your own body (bhrātṛbhiḥ saha devābhaiḥ praviśasva svikāṃ tanum); whichever body of yours you desire, O mighty-armed one, enter that body of your own (yām icchasi mahābāho tāṃ tanuṃ praviśa svikām)—that Vaiṣṇava form, O greatly resplendent one, or that eternal supreme Ether (vaiṣṇavīṃ tāṃ mahātejas tadvākāśaṃ sanātanam)!
+“Together with your god-like brothers, enter your own body (_bhrātṛbhiḥ saha devābhaiḥ praviśasva svikāṃ tanum_); whichever body of yours you desire, O mighty-armed one, enter that body of your own (_yām icchasi mahābāho tāṃ tanuṃ praviśa svikām_)—that Vaiṣṇava form, O greatly resplendent one, or that eternal supreme Ether (_vaiṣṇavīṃ tāṃ mahātejas tadvākāśaṃ sanātanam_)!
 </details>
 </details>
 
@@ -319,9 +319,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “For you are the supreme refuge of the worlds, O Lord (tvaṃ hi loka-gatir deva); none truly comprehend you (na tvāṃ kecit prajānate), save only wide-eyed Māyā, your primeval consort (ṛte māyāṃ viśālākṣīṃ tava pūrva-parigrahām).
+**10:** “For you are the supreme refuge of the worlds, O Lord (_tvaṃ hi loka-gatir deva_); none truly comprehend you (_na tvāṃ kecit prajānate_), save only wide-eyed Māyā, your primeval consort (_ṛte māyāṃ viśālākṣīṃ tava pūrva-parigrahām_).
 
-**11:** “You are the inconceivable, the vast Being, the imperishable, the all-encompassing (tvām acintyaṃ mahad bhūtam akṣayaṃ sarva-saṅgraham); whichever form you desire, O greatly resplendent one, enter that body of yourself (yām icchasi mahātejas tāṃ tanuṃ praviśa svayam).”
+**11:** “You are the inconceivable, the vast Being, the imperishable, the all-encompassing (_tvām acintyaṃ mahad bhūtam akṣayaṃ sarva-saṅgraham_); whichever form you desire, O greatly resplendent one, enter that body of yourself (_yām icchasi mahātejas tāṃ tanuṃ praviśa svayam_).”
 </details>
 </details>
 
@@ -352,7 +352,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of the Grandfather and resolving firmly in mind (pitāmaha-vacaḥ śrutvā viniścitya mahāmatiḥ), he entered the Vaiṣṇava effulgence in his very body together with his younger brothers (viveśa vaiṣṇavaṃ tejaḥ saśarīraḥ sahānujaḥ).
+Hearing the words of the Grandfather and resolving firmly in mind (_pitāmaha-vacaḥ śrutvā viniścitya mahāmatiḥ_), he entered the Vaiṣṇava effulgence in his very body together with his younger brothers (_viveśa vaiṣṇavaṃ tejaḥ saśarīraḥ sahānujaḥ_).
 </details>
 </details>
 
@@ -391,7 +391,7 @@ Gods headed by Indra and Agni, Sādhyas, Maruts, divine sages, gandharvas, apsar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the deities worshipped the Lord now united with Viṣṇu (viṣṇu-mayaṃ devaṃ pūjayanti sma devatāḥ)—the Sādhyas and the hosts of Maruts, together with Indra and headed by Agni (sādhyā marud-gaṇāś caiva sendrāḥ sāgni-purogamāḥ),
+Thereupon the deities worshipped the Lord now united with Viṣṇu (_viṣṇu-mayaṃ devaṃ pūjayanti sma devatāḥ_)—the Sādhyas and the hosts of Maruts, together with Indra and headed by Agni (_sādhyā marud-gaṇāś caiva sendrāḥ sāgni-purogamāḥ_),
 </details>
 </details>
 
@@ -422,7 +422,7 @@ Thereupon the deities worshipped the Lord now united with Viṣṇu (viṣṇu-m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as well as the divine companies of sages, the gandharvas and apsarases (ye ca divyā ṛṣi-gaṇā gandharvāpsarasaś ca yāḥ), the suparṇas, nāgas, and yakṣas, and the daityas, dānavas, and rākṣasas (daitya-dānava-rākṣasāḥ).
+as well as the divine companies of sages, the gandharvas and apsarases (_ye ca divyā ṛṣi-gaṇā gandharvāpsarasaś ca yāḥ_), the suparṇas, nāgas, and yakṣas, and the daityas, dānavas, and rākṣasas (_daitya-dānava-rākṣasāḥ_).
 </details>
 </details>
 
@@ -456,7 +456,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The entire threefold heaven became fulfilled, overjoyed, with every desire completely satisfied (sarvaṃ puṣṭaṃ pramuditaṃ susampūrṇa-manoratham), and cleansed of all taint as those gods cried out, “Well done, well done!” (sādhu sādhv iti tair devais tridivaṃ gata-kalmaṣam).
+The entire threefold heaven became fulfilled, overjoyed, with every desire completely satisfied (_sarvaṃ puṣṭaṃ pramuditaṃ susampūrṇa-manoratham_), and cleansed of all taint as those gods cried out, “Well done, well done!” (_sādhu sādhv iti tair devais tridivaṃ gata-kalmaṣam_).
 </details>
 </details>
 
@@ -487,7 +487,7 @@ The entire threefold heaven became fulfilled, overjoyed, with every desire compl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the greatly resplendent Viṣṇu spoke to the Grandfather (atha viṣṇur mahātejāḥ pitāmaham uvāca ha): “O you of noble vows, you ought to grant a fitting realm to these vast multitudes of people (eṣāṃ lokaṃ janaughānāṃ dātum arhasi suvrata).
+Then the greatly resplendent Viṣṇu spoke to the Grandfather (_atha viṣṇur mahātejāḥ pitāmaham uvāca ha_): “O you of noble vows, you ought to grant a fitting realm to these vast multitudes of people (_eṣāṃ lokaṃ janaughānāṃ dātum arhasi suvrata_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For all these illustrious ones have followed me out of sheer love (ime hi sarve snehān mām anuyātā yaśasvinaḥ); devotees indeed deserve to be cherished (bhaktā hi bhajitavyāś ca), and they have given up their very lives for my sake (tyaktātmānaś ca matkṛte)!”
+“For all these illustrious ones have followed me out of sheer love (_ime hi sarve snehān mām anuyātā yaśasvinaḥ_); devotees indeed deserve to be cherished (_bhaktā hi bhajitavyāś ca_), and they have given up their very lives for my sake (_tyaktātmānaś ca matkṛte_)!”
 </details>
 </details>
 
@@ -563,7 +563,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Viṣṇu, Brahmā, the sovereign preceptor of the worlds, [replied] (tac chrutvā viṣṇu-vacanaṃ brahmā loka-guruḥ prabhuḥ): “These who have come with you shall attain the realms named Sāntānika (lokān sāntānikān nāma yāsyantīme samāgatāḥ).
+Hearing those words of Viṣṇu, Brahmā, the sovereign preceptor of the worlds, [replied] (_tac chrutvā viṣṇu-vacanaṃ brahmā loka-guruḥ prabhuḥ_): “These who have come with you shall attain the realms named Sāntānika (_lokān sāntānikān nāma yāsyantīme samāgatāḥ_).
 </details>
 </details>
 
@@ -600,7 +600,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And even any creature born in an animal womb (yac ca tiryag-gataṃ kiñcit) that relinquishes its vital breaths in devotion meditating thus on you (tvām evam anucintayat prāṇāṃs tyakṣyati bhaktyā vai) shall dwell in that realm of Santāna (tat santāne nivatsyati), endowed with all the qualities of Brahman and immediately adjoining Brahmaloka (sarvair brahma-guṇair yukte brahma-lokād anantare).”
+“And even any creature born in an animal womb (_yac ca tiryag-gataṃ kiñcit_) that relinquishes its vital breaths in devotion meditating thus on you (_tvām evam anucintayat prāṇāṃs tyakṣyati bhaktyā vai_) shall dwell in that realm of Santāna (_tat santāne nivatsyati_), endowed with all the qualities of Brahman and immediately adjoining Brahmaloka (_sarvair brahma-guṇair yukte brahma-lokād anantare_).”
 </details>
 </details>
 
@@ -640,9 +640,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** And the monkeys and bears likewise returned to their own source (vānarāś ca svikāṃ yonim ṛkṣāś caiva tathā yayuḥ)—to the very gods from whom all those divinely born beings had sprung forth (yebhyo vinissṛtāḥ sarve surebhyaḥ sura-sambhavāḥ).
+**20:** And the monkeys and bears likewise returned to their own source (_vānarāś ca svikāṃ yonim ṛkṣāś caiva tathā yayuḥ_)—to the very gods from whom all those divinely born beings had sprung forth (_yebhyo vinissṛtāḥ sarve surebhyaḥ sura-sambhavāḥ_).
 
-**21:** Among them, Sugrīva entered the solar orb (teṣu praviviśe caiva sugrīvaḥ sūrya-maṇḍalam); and as all the gods looked on (paśyatāṃ sarva-devānām), they rejoined their own celestial sires (svān pitṝn pratipedire).
+**21:** Among them, Sugrīva entered the solar orb (_teṣu praviviśe caiva sugrīvaḥ sūrya-maṇḍalam_); and as all the gods looked on (_paśyatāṃ sarva-devānām_), they rejoined their own celestial sires (_svān pitṝn pratipedire_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the Lord of the Gods had spoken thus (tathoktavati deveśe), all those who had arrived at Gopratāra (gopratāram upāgatāḥ) entered the waters of the Sarayū, overcome with tears born of overflowing joy (bhejire sarayūṃ sarve harṣa-pūrṇāśru-viklavāḥ).
+When the Lord of the Gods had spoken thus (_tathoktavati deveśe_), all those who had arrived at Gopratāra (_gopratāram upāgatāḥ_) entered the waters of the Sarayū, overcome with tears born of overflowing joy (_bhejire sarayūṃ sarve harṣa-pūrṇāśru-viklavāḥ_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ Every mortal who plunges joyfully into the Sarayū casts off the human frame and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whichever living creature plunged joyfully into the water (avagāhya jalaṃ yo yaḥ prāṇī hy āsīt prahṛṣṭavat), casting off its human body (mānuṣaṃ deham utsṛjya), mounted a celestial aerial car (vimānaṃ so ’dhyarohata).
+Whichever living creature plunged joyfully into the water (_avagāhya jalaṃ yo yaḥ prāṇī hy āsīt prahṛṣṭavat_), casting off its human body (_mānuṣaṃ deham utsṛjya_), mounted a celestial aerial car (_vimānaṃ so ’dhyarohata_).
 </details>
 </details>
 
@@ -745,9 +745,9 @@ Whichever living creature plunged joyfully into the water (avagāhya jalaṃ yo 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** And hundreds of beings born in animal wombs (tiryagyoni-gatānāṃ ca śatāni), reaching the waters of the Sarayū (sarayū-jalaṃ samprāpya), ascended to heaven with radiant, luminous forms (tridivaṃ jagmuḥ prabhāsura-vapūṃṣi ca); transfigured in celestial bodies, they shone like blazing gods (divyā divyena vapuṣā devā dīptā ivābhavan).
+**24:** And hundreds of beings born in animal wombs (_tiryagyoni-gatānāṃ ca śatāni_), reaching the waters of the Sarayū (_sarayū-jalaṃ samprāpya_), ascended to heaven with radiant, luminous forms (_tridivaṃ jagmuḥ prabhāsura-vapūṃṣi ca_); transfigured in celestial bodies, they shone like blazing gods (_divyā divyena vapuṣā devā dīptā ivābhavan_).
 
-**25:** And beings both immobile and mobile (sthāvarāṇi carāṇi ca), reaching the Sarayū’s waters and receiving even the touch of its moisture (prāpya tat-toya-vikledam), attained the realm of the gods (devalokam upāgaman).
+**25:** And beings both immobile and mobile (_sthāvarāṇi carāṇi ca_), reaching the Sarayū’s waters and receiving even the touch of its moisture (_prāpya tat-toya-vikledam_), attained the realm of the gods (_devalokam upāgaman_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ Whichever living creature plunged joyfully into the water (avagāhya jalaṃ yo 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the bears, monkeys, and rākṣasas who had entered that very river (tasminn api samāpannā ṛkṣa-vānara-rākṣasāḥ)—they too, laying down their bodies in the waters (dehān nikṣipya cāmbhasi), entered heaven (te ’pi svargaṃ praviviśuḥ).
+And the bears, monkeys, and rākṣasas who had entered that very river (_tasminn api samāpannā ṛkṣa-vānara-rākṣasāḥ_)—they too, laying down their bodies in the waters (_dehān nikṣipya cāmbhasi_), entered heaven (_te ’pi svargaṃ praviviśuḥ_).
 </details>
 </details>
 
@@ -809,7 +809,7 @@ And the bears, monkeys, and rākṣasas who had entered that very river (tasminn
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, having established all those who had assembled in heaven (samāgatān sarvān sthāpya loka-gurur divi), the Preceptor of the Worlds ascended with the ever-joyful immortals to the great supreme Heaven (jagāma tridaśaiḥ sārdhaṃ sadā hṛṣṭair divaṃ mahat).
+Thereupon, having established all those who had assembled in heaven (_samāgatān sarvān sthāpya loka-gurur divi_), the Preceptor of the Worlds ascended with the ever-joyful immortals to the great supreme Heaven (_jagāma tridaśaiḥ sārdhaṃ sadā hṛṣṭair divaṃ mahat_).
 </details>
 </details>
 

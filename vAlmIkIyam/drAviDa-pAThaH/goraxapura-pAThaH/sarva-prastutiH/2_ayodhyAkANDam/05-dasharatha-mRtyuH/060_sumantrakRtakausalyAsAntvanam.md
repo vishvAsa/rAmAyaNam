@@ -81,7 +81,7 @@ lying on the floor without proper disposition of mind, spoke to Sumantra as foll
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kausalyā, trembling again and again (vepamānā punaḥ punaḥ) like one possessed by a spirit (bhūtopasṛṣṭeva) and lying upon the earth as though bereft of life (dharaṇyāṃ gata-sattveva), spoke unto the charioteer:
+Then Kausalyā, trembling again and again (_vepamānā punaḥ punaḥ_) like one possessed by a spirit (_bhūtopasṛṣṭeva_) and lying upon the earth as though bereft of life (_dharaṇyāṃ gata-sattveva_), spoke unto the charioteer:
 </details>
 </details>
 
@@ -134,7 +134,7 @@ not cherish to live here even for a moment."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Lead me to where Kākutstha is, and where Sītā and Lakṣmaṇa are (naya māṃ yatra kākutsthaḥ sītā yatra ca lakṣmaṇaḥ); for without them I cannot bear to live here even for a moment (tān vinā kṣaṇam apy atra jīvituṃ notsahe hy aham)!
+“Lead me to where Kākutstha is, and where Sītā and Lakṣmaṇa are (_naya māṃ yatra kākutsthaḥ sītā yatra ca lakṣmaṇaḥ_); for without them I cannot bear to live here even for a moment (_tān vinā kṣaṇam apy atra jīvituṃ notsahe hy aham_)!
 </details>
 </details>
 
@@ -187,7 +187,7 @@ do not go after them, I shall enter the Death's abode."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Turn back the chariot swiftly (nivartaya rathaṃ śīghram) and take me also to the Daṇḍaka woods (daṇḍakān naya mām api); if I do not follow after them (atha tān nānugacchāmi), I shall depart to the abode of Yama (gamiṣyāmi yama-kṣayam)!”
+“Turn back the chariot swiftly (_nivartaya rathaṃ śīghram_) and take me also to the Daṇḍaka woods (_daṇḍakān naya mām api_); if I do not follow after them (_atha tān nānugacchāmi_), I shall depart to the abode of Yama (_gamiṣyāmi yama-kṣayam_)!”
 </details>
 </details>
 
@@ -239,7 +239,7 @@ consoling Kausalya, spoke these words to her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With joined palms (prāñjaliḥ) and in a faltering voice choked by the rush of tears (bāṣpa-vegopahatayā vācā sajjamānayā), that charioteer spoke this word, consoling the queen (idam āśvāsayan devīm):
+With joined palms (_prāñjaliḥ_) and in a faltering voice choked by the rush of tears (_bāṣpa-vegopahatayā vācā sajjamānayā_), that charioteer spoke this word, consoling the queen (_idam āśvāsayan devīm_):
 </details>
 </details>
 
@@ -291,7 +291,7 @@ forest, warding off anguish."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Cast aside grief, delusion, and the agitation born of sorrow (tyaja śokaṃ ca mohaṃ ca sambhramaṃ duḥkhajaṃ tathā); shaking off all anguish (vyavadhūya ca santāpam), Rāghava will dwell happily in the forest (vane vatsyati rāghavaḥ).
+“Cast aside grief, delusion, and the agitation born of sorrow (_tyaja śokaṃ ca mohaṃ ca sambhramaṃ duḥkhajaṃ tathā_); shaking off all anguish (_vyavadhūya ca santāpam_), Rāghava will dwell happily in the forest (_vane vatsyati rāghavaḥ_).
 </details>
 </details>
 
@@ -343,7 +343,7 @@ serving the feet of Rama in the forest, is propitiating the other world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Lakṣmaṇa too, knower of righteousness and master of his senses (dharmajñaḥ jitendriyaḥ), serving the two feet of Rāma in the forest (rāmasya pādau paricaran vane), is winning the supreme hereafter (ārādhayati para-lokam).
+“And Lakṣmaṇa too, knower of righteousness and master of his senses (_dharmajñaḥ jitendriyaḥ_), serving the two feet of Rāma in the forest (_rāmasya pādau paricaran vane_), is winning the supreme hereafter (_ārādhayati para-lokam_).
 </details>
 </details>
 
@@ -404,7 +404,7 @@ mind encamped in Rama and being fearless, is acquiring confidence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even in the lonely forest (vijane 'pi vane), Sītā, having found a dwelling as though in her own palace-chambers (vāsaṃ prāpya gṛheṣv iva), enjoys confident ease without fear (visrambhaṃ labhate 'bhītā), her mind wholly reposed in Rāma (rāme sannyasta-mānasā).
+“Even in the lonely forest (_vijane &#x27;pi vane_), Sītā, having found a dwelling as though in her own palace-chambers (_vāsaṃ prāpya gṛheṣv iva_), enjoys confident ease without fear (_visrambhaṃ labhate &#x27;bhītā_), her mind wholly reposed in Rāma (_rāme sannyasta-mānasā_).
 </details>
 </details>
 
@@ -460,7 +460,7 @@ appears to me as though Seetha is accustomed to so many exiles."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not the slightest trace of dejection brought on by exile is seen in her (nāsyā dainyaṃ kṛtaṃ kiñcit su-sūkṣmam api lakṣyate); Vaidehī appears to me as though long accustomed to journeys abroad (uciteva pravāsānāṃ vaidehī pratibhāti mā).
+“Not the slightest trace of dejection brought on by exile is seen in her (_nāsyā dainyaṃ kṛtaṃ kiñcit su-sūkṣmam api lakṣyate_); Vaidehī appears to me as though long accustomed to journeys abroad (_uciteva pravāsānāṃ vaidehī pratibhāti mā_).
 </details>
 </details>
 
@@ -512,7 +512,7 @@ earlier enjoying in visiting gardens in the city."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as formerly she used to delight upon going to the pleasure-groves of the city (nagaropavanaṃ gatvā yathā sma ramate purā), even so does Sītā delight in the uninhabited woods as well (tathaiva ramate sītā nirjaneṣu vaneṣv api).
+“Just as formerly she used to delight upon going to the pleasure-groves of the city (_nagaropavanaṃ gatvā yathā sma ramate purā_), even so does Sītā delight in the uninhabited woods as well (_tathaiva ramate sītā nirjaneṣu vaneṣv api_).
 </details>
 </details>
 
@@ -565,7 +565,7 @@ absorbed in Rama, even though staying in a lonely forest, is enjoying it like a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Like a young girl at play (bāleva ramate sītā), Sītā, whose face shines like the full moon (abāla-candra-nibhānanā), delights even in the desolate forest, that lovely lady whose soul rests undismayed in Rāma (rāmā rāme hy adhīnātmā).
+“Like a young girl at play (_bāleva ramate sītā_), Sītā, whose face shines like the full moon (_abāla-candra-nibhānanā_), delights even in the desolate forest, that lovely lady whose soul rests undismayed in Rāma (_rāmā rāme hy adhīnātmā_).
 </details>
 </details>
 
@@ -618,7 +618,7 @@ Ayodhya is without Rama, then it becomes a forest to her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For her heart is wholly fixed upon him (tad-gataṃ hṛdayaṃ hy asyāḥ), and her very life depends upon him (tad-adhīnaṃ ca jīvitam); without Rāma even Ayodhyā would be a wilderness for her (ayodhyāpi bhavet tasyā rāma-hīnā tathā vanam).
+“For her heart is wholly fixed upon him (_tad-gataṃ hṛdayaṃ hy asyāḥ_), and her very life depends upon him (_tad-adhīnaṃ ca jīvitam_); without Rāma even Ayodhyā would be a wilderness for her (_ayodhyāpi bhavet tasyā rāma-hīnā tathā vanam_).
 </details>
 </details>
 
@@ -649,7 +649,7 @@ Ayodhya is without Rama, then it becomes a forest to her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding along the way the course of rivers and manifold trees (gatiṃ dṛṣṭvā nadīnāṃ ca pādapān vividhān api), Vaidehī asks eagerly about the villages and towns (paripṛcchati vaidehī grāmāṃś ca nagarāṇi ca).
+“Beholding along the way the course of rivers and manifold trees (_gatiṃ dṛṣṭvā nadīnāṃ ca pādapān vividhān api_), Vaidehī asks eagerly about the villages and towns (_paripṛcchati vaidehī grāmāṃś ca nagarāṇi ca_).
 </details>
 </details>
 
@@ -707,7 +707,7 @@ Rama or Lakshmana and Knows well about them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inquiring of Rāma or of Lakṣmaṇa (rāmaṃ hi lakṣmaṇaṃ vāpi pṛṣṭvā), Jānakī learns of each thing along the way (jānāti jānakī), as though she had merely gone out for a pleasure-stroll a single krośa from Ayodhyā (ayodhyā-krośa-mātre tu vihāram iva saṃśritā).
+“Inquiring of Rāma or of Lakṣmaṇa (_rāmaṃ hi lakṣmaṇaṃ vāpi pṛṣṭvā_), Jānakī learns of each thing along the way (_jānāti jānakī_), as though she had merely gone out for a pleasure-stroll a single _krośa_ from Ayodhyā (_ayodhyā-krośa-mātre tu vihāram iva saṃśritā_).
 </details>
 </details>
 
@@ -759,7 +759,7 @@ now of the words hurriedly spoken of by Seetha about Kaikeyi."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This alone do I remember of her words—Wait, a hasty utterance spoken regarding Kaikeyī (sahasaivopajalpitaṃ kaikeyī-saṃśritaṃ vākyam) does not come back to my mind just now (nedānīṃ pratibhāti mā)!”
+“This alone do I remember of her words—Wait, a hasty utterance spoken regarding Kaikeyī (_sahasaivopajalpitaṃ kaikeyī-saṃśritaṃ vākyam_) does not come back to my mind just now (_nedānīṃ pratibhāti mā_)!”
 </details>
 </details>
 
@@ -812,7 +812,7 @@ lips by inadvertence, Sumantra spoke only delightful and sweet words to Kausalya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus suppressed that speech which had risen to his lips through inadvertence (dhvaṃsayitvā tu tad vākyaṃ pramādāt paryupasthitam), the charioteer spoke sweet and gladdening words to the queen (hlādanaṃ vacanaṃ sūto devyā madhuram abravīt):
+Having thus suppressed that speech which had risen to his lips through inadvertence (_dhvaṃsayitvā tu tad vākyaṃ pramādāt paryupasthitam_), the charioteer spoke sweet and gladdening words to the queen (_hlādanaṃ vacanaṃ sūto devyā madhuram abravīt_):
 </details>
 </details>
 
@@ -868,7 +868,7 @@ sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither through the toil of the road, nor the force of the wind, nor agitation, nor the sun’s heat (adhvanā vāta-vegena sambhrameṇātapena ca) does Vaidehī’s radiance, which resembles the beams of the moon (candrāṃśu-sadṛśī prabhā), fade away (na vigacchati).
+“Neither through the toil of the road, nor the force of the wind, nor agitation, nor the sun’s heat (_adhvanā vāta-vegena sambhrameṇātapena ca_) does Vaidehī’s radiance, which resembles the beams of the moon (_candrāṃśu-sadṛśī prabhā_), fade away (_na vigacchati_).
 </details>
 </details>
 
@@ -920,7 +920,7 @@ to that of a full moon, did not become changed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Resembling a hundred-petalled lotus (sadṛśaṃ śata-patrasya) and shining with the lustre of the full moon (pūrṇa-candropama-prabham), the face of gracious-spoken Vaidehī (vadanaṃ tad vadānyāyā vaidehyāḥ) does not droop or falter (na vikampate).
+“Resembling a hundred-petalled lotus (_sadṛśaṃ śata-patrasya_) and shining with the lustre of the full moon (_pūrṇa-candropama-prabham_), the face of gracious-spoken Vaidehī (_vadanaṃ tad vadānyāyā vaidehyāḥ_) does not droop or falter (_na vikampate_).
 </details>
 </details>
 
@@ -973,7 +973,7 @@ buds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though now devoid of the red dye of lac (alakta-rasa-varjitau), her two feet even today glow crimson as though tinted with lac-juice (alakta-rasa-raktābhau) and shine like opening red lotus-buds (padma-kośa-sama-prabhau).
+“Though now devoid of the red dye of lac (_alakta-rasa-varjitau_), her two feet even today glow crimson as though tinted with lac-juice (_alakta-rasa-raktābhau_) and shine like opening red lotus-buds (_padma-kośa-sama-prabhau_).
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ ornaments, as a mark of Her passion towards Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even now that noble lady Vaidehī, having laid aside her ornaments out of devotion to him (tad-rāgān nyasta-bhūṣaṇā), walks with a graceful, sporting gait (khelaṃ gacchati bhāminī), as though still displaying the playful charm of sounding anklets (nūpurodghuṣṭa-heleva).
+“Even now that noble lady Vaidehī, having laid aside her ornaments out of devotion to him (_tad-rāgān nyasta-bhūṣaṇā_), walks with a graceful, sporting gait (_khelaṃ gacchati bhāminī_), as though still displaying the playful charm of sounding anklets (_nūpurodghuṣṭa-heleva_).
 </details>
 </details>
 
@@ -1086,7 +1086,7 @@ give Herself to fear, even by seeing an elephant or a lion or a tiger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having entered the forest (vanam āśritā), even upon beholding an elephant, a lion, or a tiger (gajaṃ vā vīkṣya siṃhaṃ vā vyāghraṃ vā), she conceives no terror whatever (nāhārayati santrāsam), sheltered as she is by the two arms of Rāma (bāhū rāmasya saṃśritā).
+“Having entered the forest (_vanam āśritā_), even upon beholding an elephant, a lion, or a tiger (_gajaṃ vā vīkṣya siṃhaṃ vā vyāghraṃ vā_), she conceives no terror whatever (_nāhārayati santrāsam_), sheltered as she is by the two arms of Rāma (_bāhū rāmasya saṃśritā_).
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ the world forever."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore neither are they to be mourned for, nor should we ourselves be mourned for, nor is the lord of men to be pitied (na śocyās te na cātmanaḥ śocyo nāpi janādhipaḥ); for this noble deed of theirs shall endure forever in the world (idaṃ hi caritaṃ loke pratiṣṭhāsyati śāśvatam)!
+“Therefore neither are they to be mourned for, nor should we ourselves be mourned for, nor is the lord of men to be pitied (_na śocyās te na cātmanaḥ śocyo nāpi janādhipaḥ_); for this noble deed of theirs shall endure forever in the world (_idaṃ hi caritaṃ loke pratiṣṭhāsyati śāśvatam_)!
 </details>
 </details>
 
@@ -1204,7 +1204,7 @@ promise given to their father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having shaken off grief and filled their minds with joy (vidhūya śokaṃ parihṛṣṭa-mānasāḥ), steadfastly established on the path trodden by the great sages (maharṣi-yāte pathi su-vyavasthitāḥ), delighting in the woods and subsisting on wild forest fruits (vane ratā vanya-phalāśanāḥ), they faithfully uphold their father’s auspicious vow (pituḥ śubhāṃ pratijñāṃ paripālayanti te).”
+“Having shaken off grief and filled their minds with joy (_vidhūya śokaṃ parihṛṣṭa-mānasāḥ_), steadfastly established on the path trodden by the great sages (_maharṣi-yāte pathi su-vyavasthitāḥ_), delighting in the woods and subsisting on wild forest fruits (_vane ratā vanya-phalāśanāḥ_), they faithfully uphold their father’s auspicious vow (_pituḥ śubhāṃ pratijñāṃ paripālayanti te_).”
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ emaciated by sorrow for her son, could not stop crying, "O, my dear son Rama!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even though thus dissuaded by the charioteer who spoke such well-reasoned words (tathāpi sūtena su-yukta-vādinā nivāryamāṇā), the queen, wasted with grief for her son (suta-śoka-karśitā), ceased not from her plaintive moaning (na caiva devī virarāma kūjitāt), crying, “O my beloved! O my son! O Rāghava (priyeti putreti ca rāghaveti ca)!”
+Even though thus dissuaded by the charioteer who spoke such well-reasoned words (_tathāpi sūtena su-yukta-vādinā nivāryamāṇā_), the queen, wasted with grief for her son (_suta-śoka-karśitā_), ceased not from her plaintive moaning (_na caiva devī virarāma kūjitāt_), crying, “O my beloved! O my son! O Rāghava (_priyeti putreti ca rāghaveti ca_)!”
 </details>
 </details>
 

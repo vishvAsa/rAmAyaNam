@@ -76,7 +76,7 @@ pitifully and slowly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of that ferocious rākṣasa (raudrasya rakṣasaḥ), the afflicted Sītā, in a faint voice (dīnasvarā), then slowly replied in a piteous manner:
+Hearing that speech of that ferocious rākṣasa (_raudrasya rakṣasaḥ_), the afflicted Sītā, in a faint voice (_dīnasvarā_), then slowly replied in a piteous manner:
 </details>
 </details>
 
@@ -109,7 +109,7 @@ Hearing that speech of that ferocious rākṣasa (raudrasya rakṣasaḥ), the a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stricken with grief, weeping and trembling, the ascetic lady Sītā of shapely hips (varārohā), devoted to her husband (pativratā), meditated upon her husband alone.
+Stricken with grief, weeping and trembling, the ascetic lady Sītā of shapely hips (_varārohā_), devoted to her husband (_pativratā_), meditated upon her husband alone.
 </details>
 </details>
 
@@ -182,7 +182,7 @@ a sinner, it is not appropriate to pray me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Placing a blade of grass (tṛṇam) between them, the lady of pure smile (śucismitā) replied: “Turn your mind away from me; let your heart delight in your own wives (svajane)!
+Placing a blade of grass (_tṛṇam_) between them, the lady of pure smile (_śucismitā_) replied: “Turn your mind away from me; let your heart delight in your own wives (_svajane_)!
 </details>
 </details>
 
@@ -218,7 +218,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a sinner (pāpakṛt) [seeking] spiritual perfection (siddhim), you are not fit to sue for me; a reprehensible deed that ought not to be done (akāryam) must never be done by me, a wife devoted to a single husband (ekapatnyā),
+Like a sinner (_pāpakṛt_) [seeking] spiritual perfection (_siddhim_), you are not fit to sue for me; a reprehensible deed that ought not to be done (_akāryam_) must never be done by me, a wife devoted to a single husband (_ekapatnyā_),
 </details>
 </details>
 
@@ -293,9 +293,9 @@ Seetha with renown thus speaking to that Ravana, turned back and spoke words aga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** who was born in a great house and have entered a righteous lineage (puṇyaṃ kulam)!” Having spoken thus to that Rāvaṇa, the illustrious Vaidehī,
+**5:** who was born in a great house and have entered a righteous lineage (_puṇyaṃ kulam_)!” Having spoken thus to that Rāvaṇa, the illustrious Vaidehī,
 
-**6:** turning her back (pṛṣṭhataḥ kṛtvā) upon Rāvaṇa, spoke a further word: “Being the chaste wife of another (parabhāryā satī), I am not a fitting wife (aupayikī bhāryā) for you!”
+**6:** turning her back (_pṛṣṭhataḥ kṛtvā_) upon Rāvaṇa, spoke a further word: “Being the chaste wife of another (_parabhāryā satī_), I am not a fitting wife (_aupayikī bhāryā_) for you!”
 </details>
 </details>
 
@@ -374,7 +374,7 @@ Making yourself as an example enjoy your own wives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rightly observe righteousness (dharmam); rightly practise the vow of the virtuous (sādhuvratam)! Just as your own wives [must be protected], so too must the wives of others be protected (rakṣyā dārāḥ), O night-stalker!
+Rightly observe righteousness (_dharmam_); rightly practise the vow of the virtuous (_sādhuvratam_)! Just as your own wives [must be protected], so too must the wives of others be protected (_rakṣyā dārāḥ_), O night-stalker!
 </details>
 </details>
 
@@ -412,7 +412,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Making yourself the standard of comparison (upamām), take delight in your own wives! Another’s wives lead to ruin (parābhavam) a fickle man of deceitful intellect (nikṛtiprajñam) who is discontented with his own wives and whose senses are restless (capalendriyam).
+Making yourself the standard of comparison (_upamām_), take delight in your own wives! Another’s wives lead to ruin (_parābhavam_) a fickle man of deceitful intellect (_nikṛtiprajñam_) who is discontented with his own wives and whose senses are restless (_capalendriyam_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ because your mind, devoid of traditions is perverse."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Either there are no virtuous men (santaḥ) here, or else you do not follow the virtuous; for your intellect is perverse (viparītā) and devoid of righteous conduct (ācāravarjitā).
+Either there are no virtuous men (_santaḥ_) here, or else you do not follow the virtuous; for your intellect is perverse (_viparītā_) and devoid of righteous conduct (_ācāravarjitā_).
 </details>
 </details>
 
@@ -509,7 +509,7 @@ onesfor the destruction of ogres."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else, with your mind led astray by falsehood (mithyāpraṇītātmā), you do not accept for the destruction of the rākṣasas (rākṣasānām abhāvāya) the wholesome counsel (pathyam vacaḥ) spoken by the wise (vicakṣaṇaiḥ).
+Or else, with your mind led astray by falsehood (_mithyāpraṇītātmā_), you do not accept for the destruction of the rākṣasas (_rākṣasānām abhāvāya_) the wholesome counsel (_pathyam vacaḥ_) spoken by the wise (_vicakṣaṇaiḥ_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ Or else, with your mind led astray by falsehood (mithyāpraṇītātmā), you do
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When they fall into the hands of an undisciplined king (akṛtātmānaṃ rājānam) who delights in unrighteousness (anaye ratam), prosperous kingdoms and cities perish.
+When they fall into the hands of an undisciplined king (_akṛtātmānaṃ rājānam_) who delights in unrighteousness (_anaye ratam_), prosperous kingdoms and cities perish.
 </details>
 </details>
 
@@ -602,7 +602,7 @@ destroyed due to your one sin."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even so, having fallen into your hands, Laṅkā, teeming with multitudes of jewels (ratnaughasaṃkulā), will perish before long (nacirāt) through the transgression of you alone!
+Even so, having fallen into your hands, Laṅkā, teeming with multitudes of jewels (_ratnaughasaṃkulā_), will perish before long (_nacirāt_) through the transgression of you alone!
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Declaring herself inseparable from Rāma as sunlight from the sun, Sītā urges 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When you, a short-sighted (adīrghadarśinaḥ) perpetrator of evil (pāpakarmaṇaḥ), are being struck down by your own deeds (svakṛtaiḥ), all beings will rejoice at your destruction!
+When you, a short-sighted (_adīrghadarśinaḥ_) perpetrator of evil (_pāpakarmaṇaḥ_), are being struck down by your own deeds (_svakṛtaiḥ_), all beings will rejoice at your destruction!
 </details>
 </details>
 
@@ -702,7 +702,7 @@ will speak thus: 'The cruel Ravana by God's grace has got this danger' ".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rejoicing, the people whom you have wronged (nikṛtā janāḥ) will speak thus of you, an evil-doer: ‘Thankfully (diṣṭyā) this ferocious monster has met with this calamity (vyasanam)!’
+Rejoicing, the people whom you have wronged (_nikṛtā janāḥ_) will speak thus of you, an evil-doer: ‘Thankfully (_diṣṭyā_) this ferocious monster has met with this calamity (_vyasanam_)!’
 </details>
 </details>
 
@@ -758,7 +758,7 @@ sun-shine with the sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I cannot be enticed (śakyā lobhayitum) by sovereignty or by wealth; I am inseparable (ananyā) from Rāghava, just as radiance (prabhā) is from the sun (bhāskareṇa).
+I cannot be enticed (_śakyā lobhayitum_) by sovereignty or by wealth; I am inseparable (_ananyā_) from Rāghava, just as radiance (_prabhā_) is from the sun (_bhāskareṇa_).
 </details>
 </details>
 
@@ -804,7 +804,7 @@ can I make as pillow some other one's shoulder?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having pillowed my head (upadhāya) upon the honoured arm of that Lord of the world (lokanāthasya), how indeed could I pillow my head upon the arm of anyone else?
+Having pillowed my head (_upadhāya_) upon the honoured arm of that Lord of the world (_lokanāthasya_), how indeed could I pillow my head upon the arm of anyone else?
 </details>
 </details>
 
@@ -859,7 +859,7 @@ wife to that Rama alone the lord of earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am the fitting wife (aupayikī bhāryā) of that Lord of the earth alone, just as sacred knowledge (vidyā) belongs to a self-realized brāhmaṇa (viprasya viditātmanaḥ) who has completed his Vedic vows (vratasnātasya).
+I am the fitting wife (_aupayikī bhāryā_) of that Lord of the earth alone, just as sacred knowledge (_vidyā_) belongs to a self-realized brāhmaṇa (_viprasya viditātmanaḥ_) who has completed his Vedic vows (_vratasnātasya_).
 </details>
 </details>
 
@@ -891,7 +891,7 @@ I am the fitting wife (aupayikī bhāryā) of that Lord of the earth alone, just
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rightly reunite (samānaya) me, afflicted as I am, with Rāma, O Rāvaṇa, just as [one unites] the lord of elephants (gajādhipam) in the forest with a passionately trumpeting cow-elephant (vāsitayā kareṇvā)!
+Rightly reunite (_samānaya_) me, afflicted as I am, with Rāma, O Rāvaṇa, just as [one unites] the lord of elephants (_gajādhipam_) in the forest with a passionately trumpeting cow-elephant (_vāsitayā kareṇvā_)!
 </details>
 </details>
 
@@ -962,7 +962,7 @@ existence and not desiring a horrible slaying."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you wish to preserve your realm (sthānaṃ parīpsatā) and do not wish for dreadful bondage (bandham), it is fitting for you to make that bull among men (puruṣarṣabhaḥ), Rāma, your friend (mitram).
+If you wish to preserve your realm (_sthānaṃ parīpsatā_) and do not wish for dreadful bondage (_bandham_), it is fitting for you to make that bull among men (_puruṣarṣabhaḥ_), Rāma, your friend (_mitram_).
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ to live. let there be friendship between you and Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is renowned as the knower of all dharma (sarvadharmajñaḥ) and tender toward those who seek refuge (śaraṇāgatavatsalaḥ); let there be friendship between you and him, if you wish to live!
+He is renowned as the knower of all dharma (_sarvadharmajñaḥ_) and tender toward those who seek refuge (_śaraṇāgatavatsalaḥ_); let there be friendship between you and him, if you wish to live!
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ you are suited to return me to this Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Propitiate (prasādayasva) him, who is tender to suppliants; and becoming humble (prayato bhūtvā), you ought to restore (niryātayitum) me to him.
+Propitiate (_prasādayasva_) him, who is tender to suppliants; and becoming humble (_prayato bhūtvā_), you ought to restore (_niryātayitum_) me to him.
 </details>
 </details>
 
@@ -1137,7 +1137,7 @@ way, you will get slayed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For thus, after restoring [me] to the best of the Raghus (raghūttame), it will be well (svasti) with you; acting otherwise, you will surely meet with supreme calamity (parām āpadam)!
+For thus, after restoring [me] to the best of the Raghus (_raghūttame_), it will be well (_svasti_) with you; acting otherwise, you will surely meet with supreme calamity (_parām āpadam_)!
 </details>
 </details>
 
@@ -1192,7 +1192,7 @@ you for a long time. That Rama the lord of worlds greatly enraged will not spare
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hurled thunderbolt (vajram utsṛṣṭam) might spare [you], and Death (antakaḥ) might spare [you] for a long time; but that Lord of the world, Rāghava, when enraged (saṃkruddhaḥ), will never spare one like you (tvadvidham)!
+A hurled thunderbolt (_vajram utsṛṣṭam_) might spare [you], and Death (_antakaḥ_) might spare [you] for a long time; but that Lord of the world, Rāghava, when enraged (_saṃkruddhaḥ_), will never spare one like you (_tvadvidham_)!
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ of Rama's bow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You shall hear the mighty roar (mahāsvanam) of Rāma’s bowstring, like the crash of the thunderbolt (aśaneḥ) hurled by Śatakratu [Indra]!
+You shall hear the mighty roar (_mahāsvanam_) of Rāma’s bowstring, like the crash of the thunderbolt (_aśaneḥ_) hurled by Śatakratu [Indra]!
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Soon there shall fall here well-jointed arrows (suparvāṇaḥ iṣavaḥ) stamped with the marks of Rāma and Lakṣmaṇa (rāmalakṣmaṇalakṣitāḥ), like serpents with blazing mouths (jvalitāsyā ivoragāḥ)!
+Soon there shall fall here well-jointed arrows (_suparvāṇaḥ iṣavaḥ_) stamped with the marks of Rāma and Lakṣmaṇa (_rāmalakṣmaṇalakṣitāḥ_), like serpents with blazing mouths (_jvalitāsyā ivoragāḥ_)!
 </details>
 </details>
 
@@ -1348,7 +1348,7 @@ the city without space."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Falling and slaughtering the rākṣasas in this city—there is no doubt—those heron-feathered shafts (kaṅkavāsasaḥ) will leave no space unpierced (asampātam kariṣyanti)!
+Falling and slaughtering the rākṣasas in this city—there is no doubt—those heron-feathered shafts (_kaṅkavāsasaḥ_) will leave no space unpierced (_asampātam kariṣyanti_)!
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ the serpants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like Vainateya [Garuḍa] tearing up serpents, that mighty Rāma-Garuḍa (rāmagaruḍaḥ) will swiftly uproot (uddhariṣyati) the great serpents that are the rākṣasa chiefs (rākṣasendramahāsarpān)!
+Like Vainateya [Garuḍa] tearing up serpents, that mighty Rāma-Garuḍa (_rāmagaruḍaḥ_) will swiftly uproot (_uddhariṣyati_) the great serpents that are the rākṣasa chiefs (_rākṣasendramahāsarpān_)!
 </details>
 </details>
 
@@ -1441,7 +1441,7 @@ taking away the brilliant prosperity from Asuras."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My husband, the tamer of foes (ariṃdamaḥ), will swiftly bear me away (apaneṣyati) from you, just as Viṣṇu by His three strides (tribhir iva kramaiḥ) [recovered] radiant Śrī from the asuras!
+My husband, the tamer of foes (_ariṃdamaḥ_), will swiftly bear me away (_apaneṣyati_) from you, just as Viṣṇu by His three strides (_tribhir iva kramaiḥ_) [recovered] radiant Śrī from the asuras!
 </details>
 </details>
 
@@ -1487,7 +1487,7 @@ this bad deed has been done by you being powerless."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the strength of the rākṣasas had been slain in Janasthāna and its abode destroyed (hatasthāne), you, O rākṣasa, being powerless (aśaktena), committed this ignoble deed (asādhu)!
+When the strength of the rākṣasas had been slain in Janasthāna and its abode destroyed (_hatasthāne_), you, O rākṣasa, being powerless (_aśaktena_), committed this ignoble deed (_asādhu_)!
 </details>
 </details>
 
@@ -1549,7 +1549,7 @@ abducted by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering that empty hermitage (śūnyam āśramam) of those two lion-like men (narasiṃhayoḥ) when the two brothers had gone into the forest range (gocaraṃ gatayoḥ), you carried me off, O vile wretch (adhama)!
+Entering that empty hermitage (_śūnyam āśramam_) of those two lion-like men (_narasiṃhayoḥ_) when the two brothers had gone into the forest range (_gocaraṃ gatayoḥ_), you carried me off, O vile wretch (_adhama_)!
 </details>
 </details>
 
@@ -1595,7 +1595,7 @@ stand in their view."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For having smelt the scent (gandham upāghrāya) of Rāma and Lakṣmaṇa, you cannot stand in their presence (saṃdarśane), any more than a dog (śunā) [can stand before] two tigers (śārdūlayor iva)!
+For having smelt the scent (_gandham upāghrāya_) of Rāma and Lakṣmaṇa, you cannot stand in their presence (_saṃdarśane_), any more than a dog (_śunā_) [can stand before] two tigers (_śārdūlayor iva_)!
 </details>
 </details>
 
@@ -1643,7 +1643,7 @@ hands of Indra and it is not persevering for you to be an opponent with them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In combat (vigrahe) with those two, your taking up the yoke of battle (yugagrahaṇam) will not endure (asthiram)—just like the restraint of Vṛtra’s single arm by Indra’s two arms in combat!
+In combat (_vigrahe_) with those two, your taking up the yoke of battle (_yugagrahaṇam_) will not endure (_asthiram_)—just like the restraint of Vṛtra’s single arm by Indra’s two arms in combat!
 </details>
 </details>
 
@@ -1676,7 +1676,7 @@ In combat (vigrahe) with those two, your taking up the yoke of battle (yugagraha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speedily will that lord of mine, Rāma, together with Saumitri, dry up your vital breaths (prāṇān ādāsyate) with his arrows, just as the sun (ādityaḥ) [drinks up] a scanty pool of water (toyam alpam)!
+Speedily will that lord of mine, Rāma, together with Saumitri, dry up your vital breaths (_prāṇān ādāsyate_) with his arrows, just as the sun (_ādityaḥ_) [drinks up] a scanty pool of water (_toyam alpam_)!
 </details>
 </details>
 
@@ -1757,7 +1757,7 @@ of King Varuna, without doubt you will not be relased from Rama like a great tre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether you flee to Kubera’s mountain abode [Kailāsa] or enter the assembly hall of King Varuṇa, you shall without doubt be bereft of life (vimokṣyase) by Daśaratha’s son, like a great tree struck down by Destiny (kālahataḥ) before a thunderbolt!
+Whether you flee to Kubera’s mountain abode [Kailāsa] or enter the assembly hall of King Varuṇa, you shall without doubt be bereft of life (_vimokṣyase_) by Daśaratha’s son, like a great tree struck down by Destiny (_kālahataḥ_) before a thunderbolt!
 </details>
 </details>
 

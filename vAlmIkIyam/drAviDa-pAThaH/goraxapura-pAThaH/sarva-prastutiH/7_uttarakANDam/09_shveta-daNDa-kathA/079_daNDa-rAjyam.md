@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that most wondrous account of Agastya (tad adbhutatamaṃ vākyaṃ śrutvāgastyasya), Rāghava, moved by deep reverence and astonishment (gauravād vismayāc caiva), proceeded to question him again (punaḥ praṣṭuṃ pracakrame):
+Hearing that most wondrous account of Agastya (_tad adbhutatamaṃ vākyaṃ śrutvāgastyasya_), Rāghava, moved by deep reverence and astonishment (_gauravād vismayāc caiva_), proceeded to question him again (_punaḥ praṣṭuṃ pracakrame_):
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Blessed Lord, that awesome forest where King Śveta of Vidarbha practiced austerity (tad vanaṃ ghoraṃ tapas tapyati yatra saḥ śveto vaidarbhako rājā)—how could it be devoid of beasts and birds (kathaṃ syād amṛga-dvijam)?
+“O Blessed Lord, that awesome forest where King Śveta of Vidarbha practiced austerity (_tad vanaṃ ghoraṃ tapas tapyati yatra saḥ śveto vaidarbhako rājā_)—how could it be devoid of beasts and birds (_kathaṃ syād amṛga-dvijam_)?
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And how did that king enter such a desolate forest, forsaken by men (tad vanaṃ sa kathaṃ rājā śūnyaṃ manuja-varjitam), in order to perform austerity (tapaś cartuṃ praviṣṭaḥ)? I wish to hear this in truth (śrotum icchāmi tattvataḥ).”
+“And how did that king enter such a desolate forest, forsaken by men (_tad vanaṃ sa kathaṃ rājā śūnyaṃ manuja-varjitam_), in order to perform austerity (_tapaś cartuṃ praviṣṭaḥ_)? I wish to hear this in truth (_śrotum icchāmi tattvataḥ_).”
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma’s words filled with eager curiosity (rāmasya vacanaṃ śrutvā kautūhala-samanvitam), the supremely resplendent sage straightway began to speak this discourse (vākyaṃ paramatejasvī vaktum evopacakrame):
+Hearing Rāma’s words filled with eager curiosity (_rāmasya vacanaṃ śrutvā kautūhala-samanvitam_), the supremely resplendent sage straightway began to speak this discourse (_vākyaṃ paramatejasvī vaktum evopacakrame_):
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old in the Kṛta age, O Rāma, lived the sovereign Manu, wielder of the rod of justice (purā kṛtayuge rāma manur daṇḍadharaḥ prabhuḥ); his great son was Ikṣvāku, delight of his lineage (tasya putro mahān āsīd ikṣvākuḥ kula-nandanaḥ).
+“Of old in the Kṛta age, O Rāma, lived the sovereign Manu, wielder of the rod of justice (_purā kṛtayuge rāma manur daṇḍadharaḥ prabhuḥ_); his great son was Ikṣvāku, delight of his lineage (_tasya putro mahān āsīd ikṣvākuḥ kula-nandanaḥ_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Installing that eldest son, unconquerable upon earth, in the kingdom (taṃ putraṃ pūrvakaṃ rājye nikṣipya bhuvi durjayam), he said to him: ‘Become the founder of the royal lineages upon earth!’ (pṛthivyāṃ rāja-vaṃśānāṃ bhava kartety uvāca ha).
+“Installing that eldest son, unconquerable upon earth, in the kingdom (_taṃ putraṃ pūrvakaṃ rājye nikṣipya bhuvi durjayam_), he said to him: ‘Become the founder of the royal lineages upon earth!’ (_pṛthivyāṃ rāja-vaṃśānāṃ bhava kartety uvāca ha_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘So shall it be,’ the son pledged to his father, O Rāghava (tathaiveti pratijñātaṃ pituḥ putreṇa rāghava); thereupon Manu, supremely pleased, addressed his son again (tataḥ paramasantuṣṭo manuḥ putram uvāca ha):
+“‘So shall it be,’ the son pledged to his father, O Rāghava (_tathaiveti pratijñātaṃ pituḥ putreṇa rāghava_); thereupon Manu, supremely pleased, addressed his son again (_tataḥ paramasantuṣṭo manuḥ putram uvāca ha_):
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I am pleased with you, O supremely noble one; without doubt you shall be the founder (prīto ’smi paramodāra tvaṃ kartā ’si na saṃśayaḥ). Protect your subjects with the rod of justice (daṇḍena ca prajā rakṣa), and never inflict punishment without cause (mā ca daṇḍam akāraṇe)!
+“‘I am pleased with you, O supremely noble one; without doubt you shall be the founder (_prīto ’smi paramodāra tvaṃ kartā ’si na saṃśayaḥ_). Protect your subjects with the rod of justice (_daṇḍena ca prajā rakṣa_), and never inflict punishment without cause (_mā ca daṇḍam akāraṇe_)!
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whatever punishment is brought down upon human offenders (aparādhiṣu yo daṇḍaḥ pātyate mānaveṣu vai), that punishment, when discharged according to sacred ordinance (sa daṇḍo vidhivan muktaḥ), conducts a king to heaven (svargaṃ nayati pārthivam).
+“‘Whatever punishment is brought down upon human offenders (_aparādhiṣu yo daṇḍaḥ pātyate mānaveṣu vai_), that punishment, when discharged according to sacred ordinance (_sa daṇḍo vidhivan muktaḥ_), conducts a king to heaven (_svargaṃ nayati pārthivam_).
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, O mighty-armed dear son, be ever vigilant in administering justice (tasmād daṇḍe mahābāho yatnavān bhava putraka); for as you carry it out, supreme dharma in the world shall be yours (dharmo hi paramo loke kurvatas te bhaviṣyati).’
+“‘Therefore, O mighty-armed dear son, be ever vigilant in administering justice (_tasmād daṇḍe mahābāho yatnavān bhava putraka_); for as you carry it out, supreme dharma in the world shall be yours (_dharmo hi paramo loke kurvatas te bhaviṣyati_).’
 </details>
 </details>
 
@@ -399,7 +399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus instructed his son at length (iti taṃ bahu sandiśya), Manu, joyfully composed in yogic absorption (samādhinā ... hṛṣṭaḥ), departed to heaven, the eternal world of Brahmā (jagāma tridivaṃ ... brahmalokaṃ sanātanam).”
+“Having thus instructed his son at length (_iti taṃ bahu sandiśya_), Manu, joyfully composed in yogic absorption (_samādhinā ... hṛṣṭaḥ_), departed to heaven, the eternal world of Brahmā (_jagāma tridivaṃ ... brahmalokaṃ sanātanam_).”
 </details>
 </details>
 
@@ -436,7 +436,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When he had departed to heaven (prayāte tridivaṃ tasmin), Ikṣvāku of boundless splendor grew absorbed in thought (ikṣvākur amitaprabhaḥ ... cintāparo ’bhavat), reflecting, ‘How shall I beget sons?’ (janayiṣye kathaṃ putrān).
+“When he had departed to heaven (_prayāte tridivaṃ tasmin_), Ikṣvāku of boundless splendor grew absorbed in thought (_ikṣvākur amitaprabhaḥ ... cintāparo ’bhavat_), reflecting, ‘How shall I beget sons?’ (_janayiṣye kathaṃ putrān_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through various multiform pious rites (karmabhir bahurūpaiś ca tais taiḥ), that righteous son of Manu begot a hundred sons resembling the sons of the gods (manusutaḥ sutān janayāmāsa dharmātmā śataṃ devasutopamān).
+“Through various multiform pious rites (_karmabhir bahurūpaiś ca tais taiḥ_), that righteous son of Manu begot a hundred sons resembling the sons of the gods (_manusutaḥ sutān janayāmāsa dharmātmā śataṃ devasutopamān_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The youngest of them all, O dear Rāghava (teṣām avarajas tāta sarveṣāṃ raghunandana), was foolish and devoid of learning (mūḍhaś cākṛta-vidyaś ca) and would not wait upon his elder brothers (na śuśrūṣati pūrvajān).
+“The youngest of them all, O dear Rāghava (_teṣām avarajas tāta sarveṣāṃ raghunandana_), was foolish and devoid of learning (_mūḍhaś cākṛta-vidyaś ca_) and would not wait upon his elder brothers (_na śuśrūṣati pūrvajān_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His father bestowed upon that dim-witted son the name ‘Daṇḍa’ (nāma tasya ca daṇḍeti pitā cakre ’lpamedhasaḥ), knowing that the fall of punishment would surely come upon his body (avaśyaṃ daṇḍa-patanaṃ śarīre ’sya bhaviṣyati).
+“His father bestowed upon that dim-witted son the name ‘Daṇḍa’ (_nāma tasya ca daṇḍeti pitā cakre ’lpamedhasaḥ_), knowing that the fall of punishment would surely come upon his body (_avaśyaṃ daṇḍa-patanaṃ śarīre ’sya bhaviṣyati_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not beholding another harsh land suited for that son, O Rāghava (apaśyamānas taṃ deśaṃ ghoraṃ putrasya rāghava), the subduer of foes granted him a kingdom between the Vindhya and Śaivala mountains (vindhya-śaivalayor madhye rājyaṃ prādād arindama).”
+“Not beholding another harsh land suited for that son, O Rāghava (_apaśyamānas taṃ deśaṃ ghoraṃ putrasya rāghava_), the subduer of foes granted him a kingdom between the Vindhya and Śaivala mountains (_vindhya-śaivalayor madhye rājyaṃ prādād arindama_).”
 </details>
 </details>
 
@@ -614,7 +614,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That Daṇḍa became king there upon the lovely mountain slopes (sa daṇḍas tatra rājābhūd ramye parvata-rodhasi), and he founded a peerless, supreme city (puraṃ cāpratimaṃ rāma nyaveśayad anuttamam).
+“That Daṇḍa became king there upon the lovely mountain slopes (_sa daṇḍas tatra rājābhūd ramye parvata-rodhasi_), and he founded a peerless, supreme city (_puraṃ cāpratimaṃ rāma nyaveśayad anuttamam_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He gave the city the name Madhumanta, O lord (purasya cākaron nāma madhumantam iti prabho), and he chose Uśanas, firm in his vows, as his royal priest (purohitaṃ tūśanasaṃ varayāmāsa suvratam).
+“He gave the city the name Madhumanta, O lord (_purasya cākaron nāma madhumantam iti prabho_), and he chose Uśanas, firm in his vows, as his royal priest (_purohitaṃ tūśanasaṃ varayāmāsa suvratam_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus that king, accompanied by his priest (evaṃ sa rājā ... sa-purohitaḥ), governed that realm thronged with joyous people (tad rājyam akarot ... prahṛṣṭa-manujākīrṇam), even as the mighty Indra rules the kingdom of the gods (devarājaṃ yathā vṛṣā).
+“Thus that king, accompanied by his priest (_evaṃ sa rājā ... sa-purohitaḥ_), governed that realm thronged with joyous people (_tad rājyam akarot ... prahṛṣṭa-manujākīrṇam_), even as the mighty Indra rules the kingdom of the gods (_devarājaṃ yathā vṛṣā_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon that royal son of the lord of men, mighty and great-souled (manujendra-putraḥ ... sumahān mahātmā), reigned at that time together with that sage Uśanas (sārdhaṃ ca tenośanasā tadānīm cakāra rājyam), like Śakra in heaven united with Uśanas (śakro divīvośanasā sametaḥ).”
+“Thereupon that royal son of the lord of men, mighty and great-souled (_manujendra-putraḥ ... sumahān mahātmā_), reigned at that time together with that sage Uśanas (_sārdhaṃ ca tenośanasā tadānīm cakāra rājyam_), like Śakra in heaven united with Uśanas (_śakro divīvośanasā sametaḥ_).”
 </details>
 </details>
 

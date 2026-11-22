@@ -103,11 +103,11 @@ sallied forth in advance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then men who knew the nature of the terrain and were skilled in surveying with the measuring-cord (atha bhūmi-pradeśa-jñāḥ sūtra-karma-viśāradāḥ), bold and devoted to their respective tasks, along with diggers and operators of mechanical contrivances (sva-karmābhiratāḥ śūrāḥ khanakā yantrakās tathā);
+**1:** Then men who knew the nature of the terrain and were skilled in surveying with the measuring-cord (_atha bhūmi-pradeśa-jñāḥ sūtra-karma-viśāradāḥ_), bold and devoted to their respective tasks, along with diggers and operators of mechanical contrivances (_sva-karmābhiratāḥ śūrāḥ khanakā yantrakās tathā_);
 
-**2:** hired laborers, master-architects, and men skilled in engines (karmāntikāḥ sthapatayaḥ puruṣā yantra-kovidāḥ), as well as carpenters, road-levelers, and tree-hewers (tathā vārdhakayaś caiva mārgiṇo vṛkṣa-takṣakāḥ);
+**2:** hired laborers, master-architects, and men skilled in engines (_karmāntikāḥ sthapatayaḥ puruṣā yantra-kovidāḥ_), as well as carpenters, road-levelers, and tree-hewers (_tathā vārdhakayaś caiva mārgiṇo vṛkṣa-takṣakāḥ_);
 
-**3:** well-makers, lime-plasterers, and workers in bamboo-craft (kūpa-kārāḥ sudhā-kārā vaṃśa-karma-kṛtas tathā), together with capable overseers and route-inspectors, set forth in advance (samarthā ye ca draṣṭāraḥ puratas te pratasthire).
+**3:** well-makers, lime-plasterers, and workers in bamboo-craft (_kūpa-kārāḥ sudhā-kārā vaṃśa-karma-kṛtas tathā_), together with capable overseers and route-inspectors, set forth in advance (_samarthā ye ca draṣṭāraḥ puratas te pratasthire_).
 </details>
 </details>
 
@@ -160,7 +160,7 @@ ocean on the day of the full moon having a gigantic commotion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding with joy toward that region (sa tu harṣāt tam uddeśaṃ prayān), that vast multitude of people of mighty impetus shone like the ocean at the full-moon tide (janaugho vipulaḥ aśobhata mahā-vegaḥ samudra iva parvaṇi).
+Proceeding with joy toward that region (_sa tu harṣāt tam uddeśaṃ prayān_), that vast multitude of people of mighty impetus shone like the ocean at the full-moon tide (_janaugho vipulaḥ aśobhata mahā-vegaḥ samudra iva parvaṇi_).
 </details>
 </details>
 
@@ -215,7 +215,7 @@ of men of their own proper place, marched ahead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationing themselves in their respective companies, those men skilled in road-making (te sva-vāraṃ samāsthāya vartma-karmaṇi kovidāḥ) marched ahead equipped with implements of every kind (karaṇair vividhopetaiḥ purastāt sampratasthire).
+Stationing themselves in their respective companies, those men skilled in road-making (_te sva-vāraṃ samāsthāya vartma-karmaṇi kovidāḥ_) marched ahead equipped with implements of every kind (_karaṇair vividhopetaiḥ purastāt sampratasthire_).
 </details>
 </details>
 
@@ -269,7 +269,7 @@ kinds of trees (which obstructed the way), they carved out a path.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clearing away creepers, trailing vines, thickets, tree-stumps, and boulders (latā-vallīś ca gulmāṃś ca sthāṇūn aśmana eva ca), and felling diverse trees, they constructed the highway (janāyāṃcakrire mārgaṃ chindanto vividhān drumān).
+Clearing away creepers, trailing vines, thickets, tree-stumps, and boulders (_latā-vallīś ca gulmāṃś ca sthāṇūn aśmana eva ca_), and felling diverse trees, they constructed the highway (_janāyāṃcakrire mārgaṃ chindanto vividhān drumān_).
 </details>
 </details>
 
@@ -330,7 +330,7 @@ here and there by means of axes, hatchets and sickles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In treeless tracts some planted trees (avṛkṣeṣu ca deśeṣu kecid vṛkṣān aropayan), while elsewhere others hewed away with axes, stone-chisels, and sickles (kecit kuṭhāraiṣ ṭaṅkaiś ca dātraiś chindan kvacit kvacit).
+In treeless tracts some planted trees (_avṛkṣeṣu ca deśeṣu kecid vṛkṣān aropayan_), while elsewhere others hewed away with axes, stone-chisels, and sickles (_kecit kuṭhāraiṣ ṭaṅkaiś ca dātraiś chindan kvacit kvacit_).
 </details>
 </details>
 
@@ -404,9 +404,9 @@ low-lying places all around.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Other strong and still mightier men (apare balino balavattarāḥ) uprooted clumps of vīraṇa grass and leveled rugged and uneven mounds here and there (vīraṇa-stambhān vidhamanti sma durgāṇi sthalāni ca tatas tataḥ).
+**8:** Other strong and still mightier men (_apare balino balavattarāḥ_) uprooted clumps of _vīraṇa_ grass and leveled rugged and uneven mounds here and there (_vīraṇa-stambhān vidhamanti sma durgāṇi sthalāni ca tatas tataḥ_).
 
-**9:** Others filled up dry pits and wide chasms with earth (apare 'pūrayan kūpān pāṃsubhiḥ śvabhram āyatam), and some made the low-lying depressions level on every side (nimna-bhāgāṃs tataḥ kecit samāṃś cakruḥ samantataḥ).
+**9:** Others filled up dry pits and wide chasms with earth (_apare &#x27;pūrayan kūpān pāṃsubhiḥ śvabhram āyatam_), and some made the low-lying depressions level on every side (_nimna-bhāgāṃs tataḥ kecit samāṃś cakruḥ samantataḥ_).
 </details>
 </details>
 
@@ -462,7 +462,7 @@ be smashed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those men bridged the streams that required bridging (babandhur bandhanīyāṃś ca), pulverized the rocky ground that needed crushing (kṣodyān saṃcukṣudus tadā), and breached the obstructed tracts that needed draining (bibhidur bhedanīyāṃś ca tāṃs tān deśān narās tadā).
+Those men bridged the streams that required bridging (_babandhur bandhanīyāṃś ca_), pulverized the rocky ground that needed crushing (_kṣodyān saṃcukṣudus tadā_), and breached the obstructed tracts that needed draining (_bibhidur bhedanīyāṃś ca tāṃs tān deśān narās tadā_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ were built (by constructing dams on rivulets).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a very short time they formed many deep-watered reservoirs of diverse shapes, resembling the ocean (acireṇaiva kālena parivāhān bahūdakān cakrur bahu-vidhākārān sāgara-pratimān bahūn).
+In a very short time they formed many deep-watered reservoirs of diverse shapes, resembling the ocean (_acireṇaiva kālena parivāhān bahūdakān cakrur bahu-vidhākārān sāgara-pratimān bahūn_).
 </details>
 </details>
 
@@ -560,7 +560,7 @@ around with platforms (to rest).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in waterless tracts they caused excellent wells of manifold designs to be excavated, encircled with raised platforms (nirjaleṣu ca deśeṣu khānayām āsur uttamān udapānān bahu-vidhān vedikā-parimaṇḍitān).
+And in waterless tracts they caused excellent wells of manifold designs to be excavated, encircled with raised platforms (_nirjaleṣu ca deśeṣu khānayām āsur uttamān udapānān bahu-vidhān vedikā-parimaṇḍitān_).
 </details>
 </details>
 
@@ -633,9 +633,9 @@ the path of celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** With its surface paved with white stucco and lined with blossoming trees (sasudhā-kuṭṭima-talaḥ prapuṣpita-mahī-ruhaḥ), resounding with flocks of intoxicated birds and decked with banners (mattodghuṣṭa-dvija-gaṇaḥ patākābhir alaṅkṛtaḥ),
+**13:** With its surface paved with white stucco and lined with blossoming trees (_sasudhā-kuṭṭima-talaḥ prapuṣpita-mahī-ruhaḥ_), resounding with flocks of intoxicated birds and decked with banners (_mattodghuṣṭa-dvija-gaṇaḥ patākābhir alaṅkṛtaḥ_),
 
-**14:** sprinkled with sandal-water and adorned with manifold flowers (candanodaka-saṃsikto nānā-kusuma-bhūṣitaḥ), the highway of the army shone wondrously, resembling the path of the gods (bahv aśobhata senāyāḥ panthāḥ sura-pathopamaḥ).
+**14:** sprinkled with sandal-water and adorned with manifold flowers (_candanodaka-saṃsikto nānā-kusuma-bhūṣitaḥ_), the highway of the army shone wondrously, resembling the path of the gods (_bahv aśobhata senāyāḥ panthāḥ sura-pathopamaḥ_).
 </details>
 </details>
 
@@ -705,9 +705,9 @@ decorations, the tent which itself resembled on ornament.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Then, having issued orders in accordance with the prince’s command, those appointed officers, intent upon their duty (ājñāpyātha yathā-jñapti yuktās te 'dhikṛtā narāḥ), in delightful regions abounding in sweet fruits (ramaṇīyeṣu deśeṣu bahu-svādu-phaleṣu ca),
+**15:** Then, having issued orders in accordance with the prince’s command, those appointed officers, intent upon their duty (_ājñāpyātha yathā-jñapti yuktās te &#x27;dhikṛtā narāḥ_), in delightful regions abounding in sweet fruits (_ramaṇīyeṣu deśeṣu bahu-svādu-phaleṣu ca_),
 
-**16:** adorned still further with rich decorations that encampment which had been approved for magnanimous Bharata, itself resembling an ornament upon the earth (yo niveśas tv abhipreto bharatasya mahātmanaḥ bhūyas taṃ śobhayām āsur bhūṣābhir bhūṣaṇopamam).
+**16:** adorned still further with rich decorations that encampment which had been approved for magnanimous Bharata, itself resembling an ornament upon the earth (_yo niveśas tv abhipreto bharatasya mahātmanaḥ bhūyas taṃ śobhayām āsur bhūṣābhir bhūṣaṇopamam_).
 </details>
 </details>
 
@@ -759,7 +759,7 @@ days when the stars were propitious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Under auspicious lunar mansions and at favorable hours (nakṣatreṣu praśasteṣu muhūrteṣu ca), men versed in architectural science established the halting-camps of magnanimous Bharata (tad-vidaḥ niveśān sthāpayām āsur bharatasya mahātmanaḥ).
+Under auspicious lunar mansions and at favorable hours (_nakṣatreṣu praśasteṣu muhūrteṣu ca_), men versed in architectural science established the halting-camps of magnanimous Bharata (_tad-vidaḥ niveśān sthāpayām āsur bharatasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -840,11 +840,11 @@ capitals of Indra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Furnished with high mounds of fine sand and encircled by moats (bahu-pāṃsu-cayāś cāpi parikhā-parivāritāḥ), resembling Mount Indrakīla there and graced with splendid avenues (tatrendrakīla-pratimāḥ pratolī-vara-śobhitāḥ),
+**18:** Furnished with high mounds of fine sand and encircled by moats (_bahu-pāṃsu-cayāś cāpi parikhā-parivāritāḥ_), resembling Mount Indrakīla there and graced with splendid avenues (_tatrendrakīla-pratimāḥ pratolī-vara-śobhitāḥ_),
 
-**19:** overspread with rows of palaces and enclosed by whitewashed ramparts (prāsāda-mālā-vitatāḥ saudha-prākāra-saṃvṛtāḥ), all of them bright with banners and provided with well-laid highways (patākā-śobhitāḥ sarve sunirmita-mahā-pathāḥ),
+**19:** overspread with rows of palaces and enclosed by whitewashed ramparts (_prāsāda-mālā-vitatāḥ saudha-prākāra-saṃvṛtāḥ_), all of them bright with banners and provided with well-laid highways (_patākā-śobhitāḥ sarve sunirmita-mahā-pathāḥ_),
 
-**20:** with lofty seven-storied pavilions crowned with dovecotes that seemed to glide through the sky (visarpadbhir ivākāśe viṭaṅkāgra-vimānakaiḥ samucchritaiḥ), those encampments shone like the city of Śakra (niveśās te babhuḥ śakra-puropamāḥ).
+**20:** with lofty seven-storied pavilions crowned with dovecotes that seemed to glide through the sky (_visarpadbhir ivākāśe viṭaṅkāgra-vimānakaiḥ samucchritaiḥ_), those encampments shone like the city of Śakra (_niveśās te babhuḥ śakra-puropamāḥ_).
 </details>
 </details>
 
@@ -937,9 +937,9 @@ stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Reaching all the way to the sacred Jāhnavī (Gaṅgā), bordered by forests of diverse trees (jāhnavīṃ tu samāsādya vividha-druma-kānanām), with cool and crystal-clear waters teeming with great fish (śītalāmala-pānīyāṃ mahā-mīna-samākulām),
+**21:** Reaching all the way to the sacred Jāhnavī (Gaṅgā), bordered by forests of diverse trees (_jāhnavīṃ tu samāsādya vividha-druma-kānanām_), with cool and crystal-clear waters teeming with great fish (_śītalāmala-pānīyāṃ mahā-mīna-samākulām_),
 
-**22:** just as the cloudless sky at night shines adorned with the moon and clusters of stars (sacandra-tārā-gaṇa-maṇḍitaṃ yathā nabhaḥ kṣapāyām amalaṃ virājate), even so shone that lovely royal highway, fashioned stage by stage by skilled artisans (narendra-mārgaḥ sa tathā vyarājata krameṇa ramyaḥ śubha-śilpi-nirmitaḥ).
+**22:** just as the cloudless sky at night shines adorned with the moon and clusters of stars (_sacandra-tārā-gaṇa-maṇḍitaṃ yathā nabhaḥ kṣapāyām amalaṃ virājate_), even so shone that lovely royal highway, fashioned stage by stage by skilled artisans (_narendra-mārgaḥ sa tathā vyarājata krameṇa ramyaḥ śubha-śilpi-nirmitaḥ_).
 </details>
 </details>
 

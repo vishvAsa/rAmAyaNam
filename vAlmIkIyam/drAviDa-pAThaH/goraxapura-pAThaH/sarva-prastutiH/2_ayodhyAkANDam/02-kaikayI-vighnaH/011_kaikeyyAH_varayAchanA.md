@@ -73,7 +73,7 @@ to hasty lust.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that protector of the earth, who was pierced by the shafts of Manmatha (manmathaśarair viddham) and swept along by the surge of passion (kāmavegavaśānugam), Kaikeyī spoke these cruel words (dāruṇaṃ vacaḥ):
+To that protector of the earth, who was pierced by the shafts of Manmatha (_manmathaśarair viddham_) and swept along by the surge of passion (_kāmavegavaśānugam_), Kaikeyī spoke these cruel words (_dāruṇaṃ vacaḥ_):
 </details>
 </details>
 
@@ -120,7 +120,7 @@ that needs to be fulfilled by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have neither been wronged (nāsmi viprakṛtā), O my lord, nor slighted (nāvamānitā) by anyone; yet I have a certain wish (abhiprāyas tu me kaścit) which I desire to have accomplished by you.
+“I have neither been wronged (_nāsmi viprakṛtā_), O my lord, nor slighted (_nāvamānitā_) by anyone; yet I have a certain wish (_abhiprāyas tu me kaścit_) which I desire to have accomplished by you.
 </details>
 </details>
 
@@ -172,7 +172,7 @@ shall inform you that which is desired by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you wish to accomplish it, pledge a solemn vow (pratijñāṃ pratijānīṣva); thereafter I shall declare to you what is desired by me (yathābhiprārthitaṃ mayā)!”
+If you wish to accomplish it, pledge a solemn vow (_pratijñāṃ pratijānīṣva_); thereafter I shall declare to you what is desired by me (_yathābhiprārthitaṃ mayā_)!”
 </details>
 </details>
 
@@ -224,7 +224,7 @@ hand into her hair and spoke these words to Kaikeyi who was having white smile i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Smiling faintly (īṣadutsmayaḥ), the love-smitten great king took hold of Kaikeyī's tresses (mūrdhajeṣu) with his hand as she lay upon the ground and spoke to her:
+Smiling faintly (_īṣadutsmayaḥ_), the love-smitten great king took hold of Kaikeyī&#x27;s tresses (_mūrdhajeṣu_) with his hand as she lay upon the ground and spoke to her:
 </details>
 </details>
 
@@ -270,7 +270,7 @@ me than you except Rama, the best among men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O proud lady (avalipte), do you not know that there is no man upon earth dearer to me than you, save Rāma, that tiger among men (manujavyāghrād rāmād anyaḥ)?
+“O proud lady (_avalipte_), do you not know that there is no man upon earth dearer to me than you, save Rāma, that tiger among men (_manujavyāghrād rāmād anyaḥ_)?
 </details>
 </details>
 
@@ -323,7 +323,7 @@ you".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that unconquerable (ajayyena), foremost, magnanimous Rāghava, who is worthy of my very life (jīvanārheṇa), I swear to you (śape te)—speak what is desired in your heart!
+By that unconquerable (_ajayyena_), foremost, magnanimous Rāghava, who is worthy of my very life (_jīvanārheṇa_), I swear to you (_śape te_)—speak what is desired in your heart!
 </details>
 </details>
 
@@ -383,7 +383,7 @@ By that Rama, I am taking my oath and promising to fulfill your word".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By that Rāma without beholding whom even for an hour (yaṃ muhūrtam apaśyaṃs tu) I could certainly not live (na jīve tam ahaṃ dhruvam), O Kaikeyī, I swear to you that I shall fulfill your word (śape te vacanakriyām)!
+“By that Rāma without beholding whom even for an hour (_yaṃ muhūrtam apaśyaṃs tu_) I could certainly not live (_na jīve tam ahaṃ dhruvam_), O Kaikeyī, I swear to you that I shall fulfill your word (_śape te vacanakriyām_)!
 </details>
 </details>
 
@@ -435,7 +435,7 @@ word."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that bull among men, Rāma, whom I cherish above myself and above my other sons (ātmanā cātmajaiś cānyair vṛṇe yam), O Kaikeyī, I swear to you that I shall fulfill your word!
+By that bull among men, Rāma, whom I cherish above myself and above my other sons (_ātmanā cātmajaiś cānyair vṛṇe yam_), O Kaikeyī, I swear to you that I shall fulfill your word!
 </details>
 </details>
 
@@ -491,7 +491,7 @@ you observe all this and tell me that which you think as good."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O gentle lady (bhadre), examine even this heart of mine and draw it out (hṛdayam apy etad anumṛśyoddharasva me); considering this well, O Kaikeyī, speak what you deem right (brūhi yat sādhu manyase)!
+O gentle lady (_bhadre_), examine even this heart of mine and draw it out (_hṛdayam apy etad anumṛśyoddharasva me_); considering this well, O Kaikeyī, speak what you deem right (_brūhi yat sādhu manyase_)!
 </details>
 </details>
 
@@ -546,7 +546,7 @@ auspiciousness. I shall do whatever is desired by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the power you hold over me (balam ātmani paśyantī), you ought not to harbor doubt; I shall fulfill your pleasure—I swear to you even by my own good deeds (sukṛtenāpi te śape)!”
+Beholding the power you hold over me (_balam ātmani paśyantī_), you ought not to harbor doubt; I shall fulfill your pleasure—I swear to you even by my own good deeds (_sukṛtenāpi te śape_)!”
 </details>
 </details>
 
@@ -593,7 +593,7 @@ to exile, revealing that wish from her mind, uttered unspeakable wordswith bias 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With her mind set solely upon that purpose (tad-arthamanāḥ), the queen, seeing that his intention had fallen into her grasp, spoke out of partiality (nirmādhyasthyāc ca) and glee a speech most cruel to utter (durvacaṃ vacaḥ);
+With her mind set solely upon that purpose (_tad-arthamanāḥ_), the queen, seeing that his intention had fallen into her grasp, spoke out of partiality (_nirmādhyasthyāc ca_) and glee a speech most cruel to utter (_durvacaṃ vacaḥ_);
 </details>
 </details>
 
@@ -645,7 +645,7 @@ horrible wish in her mind as conveying the news of a suddenly befallen death.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-thrilled by those words (tena vākyena saṃhṛṣṭā), she uttered her own design, which was exceedingly dreadful, like Death himself come nigh (mahāghoram abhyāgatam ivāntakam):
+thrilled by those words (_tena vākyena saṃhṛṣṭā_), she uttered her own design, which was exceedingly dreadful, like Death himself come nigh (_mahāghoram abhyāgatam ivāntakam_):
 </details>
 </details>
 
@@ -708,7 +708,7 @@ giving boons to me, preceded by series of your oaths"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As you swear step by step (yathā krameṇa śapase) and grant me the boon, so let the thirty-three gods headed by Indra (trayastriṃśad devāḥ sendrapurogamāḥ) hear it!
+“As you swear step by step (_yathā krameṇa śapase_) and grant me the boon, so let the thirty-three gods headed by Indra (_trayastriṃśad devāḥ sendrapurogamāḥ_) hear it!
 </details>
 </details>
 
@@ -771,9 +771,9 @@ spirits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Let the Moon and the Sun, the firmament, the planets (grahāḥ), Night and Day, the quarters of space, this moving world and the Earth (jagac ca pṛthivī ceyam), together with the Gandharvas and Rākṣasas,
+**14:** Let the Moon and the Sun, the firmament, the planets (_grahāḥ_), Night and Day, the quarters of space, this moving world and the Earth (_jagac ca pṛthivī ceyam_), together with the Gandharvas and Rākṣasas,
 
-**15:** the beings that roam by night (niśācarāṇi bhūtāni), the household deities dwelling in the palaces (gṛheṣu gṛhadevatāḥ), and whatever other beings exist—let them all witness your speech (jānīyur bhāṣitaṃ tava)!
+**15:** the beings that roam by night (_niśācarāṇi bhūtāni_), the household deities dwelling in the palaces (_gṛheṣu gṛhadevatāḥ_), and whatever other beings exist—let them all witness your speech (_jānīyur bhāṣitaṃ tava_)!
 </details>
 </details>
 
@@ -830,7 +830,7 @@ sake."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This monarch, true to his promise (satyasaṃdhaḥ), of mighty splendor, knower of righteousness (dharmajñaḥ), truthful in speech, and pure, grants me a boon’—let all the deities (sarve daivatāḥ) hear this!”
+‘This monarch, true to his promise (_satyasaṃdhaḥ_), of mighty splendor, knower of righteousness (_dharmajñaḥ_), truthful in speech, and pure, grants me a boon’—let all the deities (_sarve daivatāḥ_) hear this!”
 </details>
 </details>
 
@@ -883,7 +883,7 @@ spoke these words to him who was ready to give boons as he was infatuated by lus
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus bound fast (parigṛhya) the great bowman and extolled him (abhiśasya ca), the queen then spoke these further words to the boon-bestowing king, who was deluded by love (kāmamohitam):
+Having thus bound fast (_parigṛhya_) the great bowman and extolled him (_abhiśasya ca_), the queen then spoke these further words to the boon-bestowing king, who was deluded by love (_kāmamohitam_):
 </details>
 </details>
 
@@ -935,7 +935,7 @@ olden times. There the enemy destroyed almost every thing except your life".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Remember, O king, what befell of old in that war between the gods and the demons (tasmin devāsure raṇe), where your foe stripped you of strength, leaving you barely your life (tava jīvitam antarā)!
+“Remember, O king, what befell of old in that war between the gods and the demons (_tasmin devāsure raṇe_), where your foe stripped you of strength, leaving you barely your life (_tava jīvitam antarā_)!
 </details>
 </details>
 
@@ -995,7 +995,7 @@ trying to save you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And because you were rescued there by me, O my lord, as I kept watch and strove with all my might (jāgratyā yatamānāyāḥ), you granted me two boons at that time.
+“And because you were rescued there by me, O my lord, as I kept watch and strove with all my might (_jāgratyā yatamānāyāḥ_), you granted me two boons at that time.
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ for those boons, which were given by you and kept with you for safe custody."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those two boons that were granted, O my lord, I now claim as two sacred deposits (nikṣepau mṛgayāmy aham) held in your own keeping (tavaiva sakāśe), O protector of the earth, scion of Raghu!
+Those two boons that were granted, O my lord, I now claim as two sacred deposits (_nikṣepau mṛgayāmy aham_) held in your own keeping (_tavaiva sakāśe_), O protector of the earth, scion of Raghu!
 </details>
 </details>
 
@@ -1094,7 +1094,7 @@ me by not giving it, I should abandon my life now itself".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having solemnly promised this in accordance with righteousness (tat pratiśrutya dharmeṇa), if you will not grant me the boon, then this very day, slighted by you (tvadvimānitā), I shall abandon my life!”
+Having solemnly promised this in accordance with righteousness (_tat pratiśrutya dharmeṇa_), if you will not grant me the boon, then this very day, slighted by you (_tvadvimānitā_), I shall abandon my life!”
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ her trap as a deer, for his self destruction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brought under her sway at that time by mere words (vāṅmātreṇa), the king leaped into the snare for his own destruction like a deer (pracaskanda vināśāya pāśaṃ mṛga ivātmanaḥ).
+Brought under her sway at that time by mere words (_vāṅmātreṇa_), the king leaped into the snare for his own destruction like a deer (_pracaskanda vināśāya pāśaṃ mṛga ivātmanaḥ_).
 </details>
 </details>
 
@@ -1229,7 +1229,7 @@ instead be coronated on this occasion itself".
 
 **23:** Then she spoke these further words to the boon-bestowing monarch who was deluded by love: “Those two boons granted to me then, O my lord, must be rendered by you today, O lord of the earth!
 
-**24:** Those two I shall now declare this very day—hear my words! The preparations for the consecration (abhiṣekasamārambhaḥ) have been got ready for Rāghava—
+**24:** Those two I shall now declare this very day—hear my words! The preparations for the consecration (_abhiṣekasamārambhaḥ_) have been got ready for Rāghava—
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ the battle between celestials and demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—with this very consecration (anenaivābhiṣekeṇa), let my Bharata be consecrated! And as for that second boon (yo dvitīyo varaḥ), O my lord, which was granted to me by you when pleased
+“—with this very consecration (_anenaivābhiṣekeṇa_), let my Bharata be consecrated! And as for that second boon (_yo dvitīyo varaḥ_), O my lord, which was granted to me by you when pleased
 </details>
 </details>
 
@@ -1338,9 +1338,9 @@ become an ascetic wearing rags, deer skin and matted hair".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** at that time in the war between the gods and the demons—its hour has now arrived (tasya kālo 'yam āgataḥ): betaking himself to the Daṇḍaka forest (daṇḍakāraṇyam āśritaḥ) for nine years and five,
+**26:** at that time in the war between the gods and the demons—its hour has now arrived (_tasya kālo &#x27;yam āgataḥ_): betaking himself to the Daṇḍaka forest (_daṇḍakāraṇyam āśritaḥ_) for nine years and five,
 
-**27:** let steadfast Rāma become an ascetic wearing bark-garments and deerskin (cīrājinadharo dhīro rāmo bhavatu tāpasaḥ), and let Bharata enjoy today the office of Prince Regent free of all thorns (yauvarājyam akaṇṭakam)!
+**27:** let steadfast Rāma become an ascetic wearing bark-garments and deerskin (_cīrājinadharo dhīro rāmo bhavatu tāpasaḥ_), and let Bharata enjoy today the office of Prince Regent free of all thorns (_yauvarājyam akaṇṭakam_)!
 </details>
 </details>
 
@@ -1388,7 +1388,7 @@ enemies. This is my greatest desire. Now I am asking for the boon given by you i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This is my supreme desire—I claim the very boon already granted by you (dattam eva varaṃ vṛṇe); this very day let me behold Rāghava departing into the forest (adya caiva hi paśyeyaṃ prayāntaṃ rāghavaṃ vane)!
+This is my supreme desire—I claim the very boon already granted by you (_dattam eva varaṃ vṛṇe_); this very day let me behold Rāghava departing into the forest (_adya caiva hi paśyeyaṃ prayāntaṃ rāghavaṃ vane_)!
 </details>
 </details>
 
@@ -1460,7 +1460,7 @@ world, they have to speak only the truth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O king of kings (rājarājaḥ), prove true to your promise (bhava satyasaṃgaraḥ), and preserve your lineage, your moral conduct, and your noble birth (kulaṃ ca śīlaṃ ca hi janma rakṣa ca); for the ascetics declare that truthful speech is the supreme good of men in the world beyond (paratra vāse)!”
+Therefore, O king of kings (_rājarājaḥ_), prove true to your promise (_bhava satyasaṃgaraḥ_), and preserve your lineage, your moral conduct, and your noble birth (_kulaṃ ca śīlaṃ ca hi janma rakṣa ca_); for the ascetics declare that truthful speech is the supreme good of men in the world beyond (_paratra vāse_)!”
 </details>
 </details>
 

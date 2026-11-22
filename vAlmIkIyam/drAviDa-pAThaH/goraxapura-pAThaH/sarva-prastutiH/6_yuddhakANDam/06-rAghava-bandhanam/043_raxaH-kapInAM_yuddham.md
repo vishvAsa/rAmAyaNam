@@ -76,7 +76,7 @@ ferocity arose in them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as those high-souled Vānaras and rākṣasas were fighting (yudhyatāṃ tu tatas teṣām), there arose a most terrible martial fury (balaroṣaḥ sudāruṇaḥ) between the hosts.
+Then, as those high-souled Vānaras and _rākṣasas_ were fighting (_yudhyatāṃ tu tatas teṣām_), there arose a most terrible martial fury (_balaroṣaḥ sudāruṇaḥ_) between the hosts.
 </details>
 </details>
 
@@ -140,9 +140,9 @@ reverberant sounds in the ten regions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** With steeds adorned with golden crest-ornaments (hayaiḥ kāñcanāpīḍaiḥ), elephants resembling tongues of flame (gajaiś cāgniśikhopamaiḥ), chariots bright as the sun (rathaiś cādityasaṃkāśaiḥ), and splendid coats of mail (kavacaiś ca manoramaiḥ)—
+**2:** With steeds adorned with golden crest-ornaments (_hayaiḥ kāñcanāpīḍaiḥ_), elephants resembling tongues of flame (_gajaiś cāgniśikhopamaiḥ_), chariots bright as the sun (_rathaiś cādityasaṃkāśaiḥ_), and splendid coats of mail (_kavacaiś ca manoramaiḥ_)—
 
-**3:** —the heroic rākṣasas of dreadful deeds (bhīmakarmāṇaḥ), desiring victory for Rāvaṇa (rāvaṇasya jayaiṣiṇaḥ), sallied forth (niryayuḥ), making the ten directions reverberate (nādayanto diśo daśa).
+**3:** —the heroic _rākṣasas_ of dreadful deeds (_bhīmakarmāṇaḥ_), desiring victory for Rāvaṇa (_rāvaṇasya jayaiṣiṇaḥ_), sallied forth (_niryayuḥ_), making the ten directions reverberate (_nādayanto diśo daśa_).
 </details>
 </details>
 
@@ -194,7 +194,7 @@ of demons of terrible acts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the vast army of the Vānaras (vānarāṇām api camūr bṛhatī), eager for victory (jayam icchatām), charged against that host of rākṣasas of terrible deeds (rakṣasāṃ ghorakarmaṇām).
+And the vast army of the Vānaras (_vānarāṇām api camūr bṛhatī_), eager for victory (_jayam icchatām_), charged against that host of _rākṣasas_ of terrible deeds (_rakṣasāṃ ghorakarmaṇām_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that interval, as those rākṣasas and Vānaras rushed at one another (anyonyam abhidhāvatām), single combat (dvandvayuddham) commenced between them.
+In that interval, as those _rākṣasas_ and Vānaras rushed at one another (_anyonyam abhidhāvatām_), single combat (_dvandvayuddham_) commenced between them.
 </details>
 </details>
 
@@ -301,7 +301,7 @@ demon Andhaka fought with Shiva the Lord of destruction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The rākṣasa Indrajit of mighty splendor (mahātejāḥ) fought together with Vāli's son Aṅgada (aṅgadenendrajit sārdhaṃ vāliputreṇa), just as Andhaka fought with the three-eyed Śiva (tryambakeṇa yathāndhakaḥ).
+The _rākṣasa_ Indrajit of mighty splendor (_mahātejāḥ_) fought together with Vāli&#x27;s son Aṅgada (_aṅgadenendrajit sārdhaṃ vāliputreṇa_), just as Andhaka fought with the three-eyed Śiva (_tryambakeṇa yathāndhakaḥ_).
 </details>
 </details>
 
@@ -361,7 +361,7 @@ his strength with Jambumali.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Sampāti, ever irresistible in battle (nityaṃ durdharṣaṇo raṇe), [fought] with Prajaṅgha; and the Vānara Hanumān engaged (ārabdhaḥ) Jambumālin.
+And Sampāti, ever irresistible in battle (_nityaṃ durdharṣaṇo raṇe_), [fought] with Prajaṅgha; and the Vānara Hanumān engaged (_ārabdhaḥ_) Jambumālin.
 </details>
 </details>
 
@@ -416,7 +416,7 @@ Shatrughna possessing fiery velocity in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vibhīṣaṇa, the younger brother of Rāvaṇa (rāvaṇānujaḥ), filled with great wrath (mahākrodhaḥ), closed in battle with the fiercely impetuous rākṣasa Śatrughna (tīkṣṇavegena śatrughnena).
+Vibhīṣaṇa, the younger brother of Rāvaṇa (_rāvaṇānujaḥ_), filled with great wrath (_mahākrodhaḥ_), closed in battle with the fiercely impetuous _rākṣasa_ Śatrughna (_tīkṣṇavegena śatrughnena_).
 </details>
 </details>
 
@@ -471,7 +471,7 @@ energy fought with Nikumbha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The mighty Gaja fought together with the rākṣasa Tapana, and Nīla of great splendor (mahātejāḥ) battled with Nikumbha (nikumbhena samayudhyata).
+The mighty Gaja fought together with the _rākṣasa_ Tapana, and Nīla of great splendor (_mahātejāḥ_) battled with Nikumbha (_nikumbhena samayudhyata_).
 </details>
 </details>
 
@@ -523,7 +523,7 @@ Lakshmana confronted with Virupaksha in the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sugrīva, lord of the Vānaras (vānarendraḥ), locked in combat with Praghasa (praghasena susaṃgataḥ), and glorious Lakṣmaṇa engaged Virūpākṣa in battle (virūpākṣeṇa lakṣmaṇaḥ).
+Sugrīva, lord of the Vānaras (_vānarendraḥ_), locked in combat with Praghasa (_praghasena susaṃgataḥ_), and glorious Lakṣmaṇa engaged Virūpākṣa in battle (_virūpākṣeṇa lakṣmaṇaḥ_).
 </details>
 </details>
 
@@ -575,7 +575,7 @@ Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The rākṣasas Agniketu, hard to overpower (sudurdharṣaḥ), Raśmiketu, Suptaghna, and Yajñakopa jointly engaged Rāma (rāmeṇa saha saṃgatāḥ).
+The _rākṣasas_ Agniketu, hard to overpower (_sudurdharṣaḥ_), Raśmiketu, Suptaghna, and Yajñakopa jointly engaged Rāma (_rāmeṇa saha saṃgatāḥ_).
 </details>
 </details>
 
@@ -627,7 +627,7 @@ monkeys Mainda and Dvivida confronted with those highly terrific demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Vajramuṣṭi with Mainda, and Aśaniprabha with Dvivida—thus the two Vānara chiefs (kapimukhyau) met in combat with those two dread rākṣasas (rākṣasābhyāṃ sughorābhyām).
+And Vajramuṣṭi with Mainda, and Aśaniprabha with Dvivida—thus the two Vānara chiefs (_kapimukhyau_) met in combat with those two dread _rākṣasas_ (_rākṣasābhyāṃ sughorābhyām_).
 </details>
 </details>
 
@@ -687,7 +687,7 @@ intense speed in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The heroic and terrible rākṣasa Pratana, irresistible in battle (raṇadurdharaḥ), fought in the fray with the fiercely swift Nala (tīkṣṇavegena nalena).
+The heroic and terrible _rākṣasa_ Pratana, irresistible in battle (_raṇadurdharaḥ_), fought in the fray with the fiercely swift Nala (_tīkṣṇavegena nalena_).
 </details>
 </details>
 
@@ -738,7 +738,7 @@ That great monkey called Sushena, the strong son of Yama fought with Vidyunmali.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That mighty and renowned son of Dharma known as Suṣeṇa (dharmasya putro balavān suṣeṇa iti viśrutaḥ)—that great monkey battled together with Vidyunmālin (vidyunmālinā sārdham).
+That mighty and renowned son of Dharma known as Suṣeṇa (_dharmasya putro balavān suṣeṇa iti viśrutaḥ_)—that great monkey battled together with Vidyunmālin (_vidyunmālinā sārdham_).
 </details>
 </details>
 
@@ -793,7 +793,7 @@ got a duel with some other demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And other fierce Vānaras, after fighting with many other rākṣasas (yuddhvā ca bahubhiḥ saha), suddenly entered into single combat (dvandvaṃ samīyuḥ sahasā) with them.
+And other fierce Vānaras, after fighting with many other _rākṣasas_ (_yuddhvā ca bahubhiḥ saha_), suddenly entered into single combat (_dvandvaṃ samīyuḥ sahasā_) with them.
 </details>
 </details>
 
@@ -846,7 +846,7 @@ between heroic demons and monkeys, who were eager to triumph.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There ensued a tremendous, tumultuous, and hair-raising battle (yuddhaṃ tumulaṃ romaharṣaṇam) between the heroic rākṣasas and Vānaras eager for victory (vīrāṇāṃ jayam icchatām).
+There ensued a tremendous, tumultuous, and hair-raising battle (_yuddhaṃ tumulaṃ romaharṣaṇam_) between the heroic _rākṣasas_ and Vānaras eager for victory (_vīrāṇāṃ jayam icchatām_).
 </details>
 </details>
 
@@ -901,7 +901,7 @@ and carrying bodies in the stream, like timber.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the bodies of monkeys and rākṣasas (harirākṣasadehebhyaḥ) streamed forth mighty rivers of blood (prasusruḥ śoṇitāpagāḥ), having hair for their grassy water-moss (keśaśādvalāḥ) and bearing rafts of heaped-up corpses (śarīrasaṃghāṭavahāḥ).
+From the bodies of monkeys and _rākṣasas_ (_harirākṣasadehebhyaḥ_) streamed forth mighty rivers of blood (_prasusruḥ śoṇitāpagāḥ_), having hair for their grassy water-moss (_keśaśādvalāḥ_) and bearing rafts of heaped-up corpses (_śarīrasaṃghāṭavahāḥ_).
 </details>
 </details>
 
@@ -957,7 +957,7 @@ forces) with a mace, like Indra the Lord of celestials with his thunder-bolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged Indrajit, like Śatakratu with his thunderbolt (vajreṇeva śatakratuḥ), struck the heroic Aṅgada, destroyer of enemy hosts (śatrusainyavidāraṇam), with his mace (gadayā).
+Enraged Indrajit, like Śatakratu with his thunderbolt (_vajreṇeva śatakratuḥ_), struck the heroic Aṅgada, destroyer of enemy hosts (_śatrusainyavidāraṇam_), with his mace (_gadayā_).
 </details>
 </details>
 
@@ -1018,7 +1018,7 @@ with horses and the charioteer in the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Glorious and impetuous Aṅgada (śrīmān aṅgado vegavān hariḥ) smashed his chariot decked with variegated gold (kāñcanacitrāṅgaṃ ratham), together with its steeds and charioteer (sāśvaṃ sasārathim), with his mace (gadayā).
+Glorious and impetuous Aṅgada (_śrīmān aṅgado vegavān hariḥ_) smashed his chariot decked with variegated gold (_kāñcanacitrāṅgaṃ ratham_), together with its steeds and charioteer (_sāśvaṃ sasārathim_), with his mace (_gadayā_).
 </details>
 </details>
 
@@ -1070,7 +1070,7 @@ Ashvakarna tree, at the zenith of the combat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by Prajaṅgha with three arrows (tribhir bāṇaiḥ samāhataḥ), Sampāti slew Prajaṅgha in the forefront of battle (raṇamūrdhani) with an aśvakarṇa tree (aśvakarṇena).
+Struck by Prajaṅgha with three arrows (_tribhir bāṇaiḥ samāhataḥ_), Sampāti slew Prajaṅgha in the forefront of battle (_raṇamūrdhani_) with an _aśvakarṇa_ tree (_aśvakarṇena_).
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ breast, with a javelin kept in his chariot, on the field of battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the mighty Jambumālin, standing on his chariot (rathasthaḥ), enraged in battle, pierced Hanumān in the chest (stanāntare) with his chariot-javelin (rathaśaktyā).
+And the mighty Jambumālin, standing on his chariot (_rathasthaḥ_), enraged in battle, pierced Hanumān in the chest (_stanāntare_) with his chariot-javelin (_rathaśaktyā_).
 </details>
 </details>
 
@@ -1175,7 +1175,7 @@ together with the demon, with the palm of his hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting that chariot of his (tasya taṃ ratham āsthāya), Hanumān, son of the Wind-god (mārutātmajaḥ), swiftly crushed it with the palm of his hand (pramamātha talenāśu) along with that very rākṣasa (saha tenaiva rakṣasā).
+Mounting that chariot of his (_tasya taṃ ratham āsthāya_), Hanumān, son of the Wind-god (_mārutātmajaḥ_), swiftly crushed it with the palm of his hand (_pramamātha talenāśu_) along with that very _rākṣasa_ (_saha tenaiva rakṣasā_).
 </details>
 </details>
 
@@ -1229,7 +1229,7 @@ out Pratapana's eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring, that terrible Pratana rushed after Nala (nalaṃ so 'bhyanudhāvata); and Nala, his limbs pierced with sharp arrows by the swift-handed rākṣasa (kṣiprahastena rakṣasā), swiftly tore out Pratana's eyes (pratapanasyāśu pātayām āsa cakṣuṣī).
+Roaring, that terrible Pratana rushed after Nala (_nalaṃ so &#x27;bhyanudhāvata_); and Nala, his limbs pierced with sharp arrows by the swift-handed _rākṣasa_ (_kṣiprahastena rakṣasā_), swiftly tore out Pratana&#x27;s eyes (_pratapanasyāśu pātayām āsa cakṣuṣī_).
 </details>
 </details>
 
@@ -1284,7 +1284,7 @@ with a Saptaparna tree.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Meanwhile,] the lord of the Vānaras [Sugrīva] [attacked] Praghasa, who seemed to be devouring the armies (grasantam iva sainyāni).
+[Meanwhile,] the lord of the Vānaras [Sugrīva] [attacked] Praghasa, who seemed to be devouring the armies (_grasantam iva sainyāni_).
 </details>
 </details>
 
@@ -1344,7 +1344,7 @@ of arrows, finally killed him with an arrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sugrīva swiftly struck down [Praghasa] with a saptaparṇa tree (saptaparṇena nijaghāna javena ca). And having overwhelmed the terrible-looking rākṣasa [Virūpākṣa] with a shower of arrows (prapīḍya śaravarṣeṇa)—
+Sugrīva swiftly struck down [Praghasa] with a _saptaparṇa_ tree (_saptaparṇena nijaghāna javena ca_). And having overwhelmed the terrible-looking _rākṣasa_ [Virūpākṣa] with a shower of arrows (_prapīḍya śaravarṣeṇa_)—
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Lakṣmaṇa slew Virūpākṣa with a single arrow (śareṇaikena). Meanwhile, the irresistible Agniketu, the rākṣasa Raśmiketu, Suptaghna, and Yajñakopa pierced Rāma with arrows (rāmaṃ nirbibhiduḥ śaraiḥ).
+—Lakṣmaṇa slew Virūpākṣa with a single arrow (_śareṇaikena_). Meanwhile, the irresistible Agniketu, the _rākṣasa_ Raśmiketu, Suptaghna, and Yajñakopa pierced Rāma with arrows (_rāmaṃ nirbibhiduḥ śaraiḥ_).
 </details>
 </details>
 
@@ -1452,7 +1452,7 @@ his four terrific arrows having fire-like points.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged in battle, Rāma severed the heads of those four (teṣāṃ caturṇāṃ śirāṃsi) with four terrible arrows resembling tongues of flame (śaraiḥ caturbhiś ciccheda ghorair agniśikhopamaiḥ).
+Enraged in battle, Rāma severed the heads of those four (_teṣāṃ caturṇāṃ śirāṃsi_) with four terrible arrows resembling tongues of flame (_śaraiḥ caturbhiś ciccheda ghorair agniśikhopamaiḥ_).
 </details>
 </details>
 
@@ -1508,7 +1508,7 @@ to the ground like a watch-tower on a city-wall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck down in battle by Mainda with his fist (maindena muṣṭinā nihataḥ), Vajramuṣṭi fell to the earth with his chariot and steeds like a city watchtower (purāṭṭa iva bhūtale).
+Struck down in battle by Mainda with his fist (_maindena muṣṭinā nihataḥ_), Vajramuṣṭi fell to the earth with his chariot and steeds like a city watchtower (_purāṭṭa iva bhūtale_).
 </details>
 </details>
 
@@ -1561,7 +1561,7 @@ sharp arrows, like a cloud by the rays of the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In battle, Nikumbha pierced Nīla—who gleamed like a mass of dark collyrium (nīlāñjanacayaprabham)—with sharp arrows, just as the sun pierces a dark cloud with its rays (karair megham ivāṃśumān).
+In battle, Nikumbha pierced Nīla—who gleamed like a mass of dark collyrium (_nīlāñjanacayaprabham_)—with sharp arrows, just as the sun pierces a dark cloud with its rays (_karair megham ivāṃśumān_).
 </details>
 </details>
 
@@ -1613,7 +1613,7 @@ battle and laughed continuously.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then once again with a hundred arrows (punaḥ śaraśatenātha), the swift-handed night-stalker Nikumbha (kṣiprahasto niśācaraḥ) pierced Nīla in battle and laughed aloud (prajahāsa ca).
+Then once again with a hundred arrows (_punaḥ śaraśatenātha_), the swift-handed night-stalker Nikumbha (_kṣiprahasto niśācaraḥ_) pierced Nīla in battle and laughed aloud (_prajahāsa ca_).
 </details>
 </details>
 
@@ -1675,7 +1675,7 @@ battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a wheel of his very own chariot (tasyaiva rathacakreṇa), Nīla—like Viṣṇu in battle (viṣṇur ivāhave)—severed the head of Nikumbha and of his charioteer (nikumbhasya ca sāratheḥ) in the fray.
+With a wheel of his very own chariot (_tasyaiva rathacakreṇa_), Nīla—like Viṣṇu in battle (_viṣṇur ivāhave_)—severed the head of Nikumbha and of his charioteer (_nikumbhasya ca sāratheḥ_) in the fray.
 </details>
 </details>
 
@@ -1727,7 +1727,7 @@ Ashaniprabha with a rock before the eyes of all the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Dvivida, whose touch equaled Indra's thunderbolt (vajrāśanisamasparśaḥ), struck Aśaniprabha with a mountain peak (jaghāna giriśṛṅgeṇa) while all the rākṣasas looked on (miṣatāṃ sarvarakṣasām).
+And Dvivida, whose touch equaled Indra&#x27;s thunderbolt (_vajrāśanisamasparśaḥ_), struck Aśaniprabha with a mountain peak (_jaghāna giriśṛṅgeṇa_) while all the _rākṣasas_ looked on (_miṣatāṃ sarvarakṣasām_).
 </details>
 </details>
 
@@ -1779,7 +1779,7 @@ while Dvivida was fighting with trees in the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Aśaniprabha pierced Dvivida, the lordly Vānara who fought with trees in battle (drumayodhinam āhave), with arrows resembling thunderbolts (śarair aśanisaṃkāśaiḥ).
+Then that Aśaniprabha pierced Dvivida, the lordly Vānara who fought with trees in battle (_drumayodhinam āhave_), with arrows resembling thunderbolts (_śarair aśanisaṃkāśaiḥ_).
 </details>
 </details>
 
@@ -1834,7 +1834,7 @@ with a Sala tree, Ashaniprabha, his chariot and the horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His limbs deeply pierced by those arrows (śarair abhividdhāṅgaḥ) and fainting with wrath (krodhamūrcchitaḥ), Dvivida slew Aśaniprabha along with his chariot and horses (sarathaṃ sāśvam) with a sāla tree (sālena).
+His limbs deeply pierced by those arrows (_śarair abhividdhāṅgaḥ_) and fainting with wrath (_krodhamūrcchitaḥ_), Dvivida slew Aśaniprabha along with his chariot and horses (_sarathaṃ sāśvam_) with a _sāla_ tree (_sālena_).
 </details>
 </details>
 
@@ -1886,7 +1886,7 @@ gold and made a roaring sound.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, standing on his chariot, Vidyunmālin struck Suṣeṇa with gold-ornamented arrows (śaraiḥ kāñcanabhūṣaṇaiḥ) and roared again and again (nanāda ca muhur muhuḥ).
+Meanwhile, standing on his chariot, Vidyunmālin struck Suṣeṇa with gold-ornamented arrows (_śaraiḥ kāñcanabhūṣaṇaiḥ_) and roared again and again (_nanāda ca muhur muhuḥ_).
 </details>
 </details>
 
@@ -1938,7 +1938,7 @@ chariot to fall down, by a huge rock.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him standing on his chariot, Suṣeṇa, foremost of Vānaras (vānarottamaḥ), swiftly smashed down his chariot with a huge mountain peak (giriśṛṅgeṇa mahatā ratham āśu nyapātayat).
+Beholding him standing on his chariot, Suṣeṇa, foremost of Vānaras (_vānarottamaḥ_), swiftly smashed down his chariot with a huge mountain peak (_giriśṛṅgeṇa mahatā ratham āśu nyapātayat_).
 </details>
 </details>
 
@@ -1998,7 +1998,7 @@ on the ground with a mace in his hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with agility (lāghavena tu saṃyuktaḥ), the night-stalker Vidyunmālin swiftly leaped clear of his chariot (apakramya rathāt tūrṇam) and stood on the ground, mace in hand (gadāpāṇiḥ kṣitau sthitaḥ).
+Endowed with agility (_lāghavena tu saṃyuktaḥ_), the night-stalker Vidyunmālin swiftly leaped clear of his chariot (_apakramya rathāt tūrṇam_) and stood on the ground, mace in hand (_gadāpāṇiḥ kṣitau sthitaḥ_).
 </details>
 </details>
 
@@ -2050,7 +2050,7 @@ huge rock in his hands, chased that demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, filled with wrath (krodhasamāviṣṭaḥ), Suṣeṇa, bull among monkeys (haripuṅgavaḥ), seized a colossal boulder (śilāṃ sumahatīṃ gṛhya) and rushed toward the night-stalker (niśācaram abhidravat).
+Then, filled with wrath (_krodhasamāviṣṭaḥ_), Suṣeṇa, bull among monkeys (_haripuṅgavaḥ_), seized a colossal boulder (_śilāṃ sumahatīṃ gṛhya_) and rushed toward the night-stalker (_niśācaram abhidravat_).
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ monkey, quickly with a mace on his chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Suṣeṇa, bull among monkeys, rushed at him (tam āpatantam), the night-stalker Vidyunmālin swiftly struck him on the chest with his mace (gadayā vakṣasy abhijaghānāśu).
+As Suṣeṇa, bull among monkeys, rushed at him (_tam āpatantam_), the night-stalker Vidyunmālin swiftly struck him on the chest with his mace (_gadayā vakṣasy abhijaghānāśu_).
 </details>
 </details>
 
@@ -2157,7 +2157,7 @@ excellent monkey silently threw that huge rock on his chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Disregarding that terrible blow of the mace (gadāprahāraṃ taṃ ghoram acintya), the foremost of monkeys silently hurled that [boulder] (tāṃ tūṣṇīṃ pātayām āsa) upon his chest in the great battle (tasyorasi mahāmṛdhe).
+Disregarding that terrible blow of the mace (_gadāprahāraṃ taṃ ghoram acintya_), the foremost of monkeys silently hurled that [boulder] (_tāṃ tūṣṇīṃ pātayām āsa_) upon his chest in the great battle (_tasyorasi mahāmṛdhe_).
 </details>
 </details>
 
@@ -2209,7 +2209,7 @@ lifeless on the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by the impact of the boulder (śilāprahārābhihataḥ), the night-stalker Vidyunmālin fell lifeless to the earth (bhūmau gatāsur nipapāta ha), his heart crushed (niṣpiṣṭahṛdayaḥ).
+Struck by the impact of the boulder (_śilāprahārābhihataḥ_), the night-stalker Vidyunmālin fell lifeless to the earth (_bhūmau gatāsur nipapāta ha_), his heart crushed (_niṣpiṣṭahṛdayaḥ_).
 </details>
 </details>
 
@@ -2273,7 +2273,7 @@ of hand to hand encounters, as the demons were destroyed by the blows of the cel
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus those heroic night-stalkers (śūrās te rajanīcarāḥ) were crushed in single combat (dvandve vimathitās tatra) by those heroic Vānaras, just like Daityas by the gods (daityā iva divaukasaiḥ).
+Thus those heroic night-stalkers (_śūrās te rajanīcarāḥ_) were crushed in single combat (_dvandve vimathitās tatra_) by those heroic Vānaras, just like Daityas by the gods (_daityā iva divaukasaiḥ_).
 </details>
 </details>
 
@@ -2370,11 +2370,11 @@ that tumultuous conflict, which resembled the war between celestials and demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** With bhalla spears and other weapons, with maces, javelins, lances, and arrows (śaktitomarasāyakaiḥ), as well as with overturned chariots (apaviddhaiś cāpi rathaiḥ) and war-steeds (sāṃgrāmikair hayaiḥ)—
+**43:** With _bhalla_ spears and other weapons, with maces, javelins, lances, and arrows (_śaktitomarasāyakaiḥ_), as well as with overturned chariots (_apaviddhaiś cāpi rathaiḥ_) and war-steeds (_sāṃgrāmikair hayaiḥ_)—
 
-**44:** —with slain rutting elephants (nihataiḥ kuñjarair mattaiḥ), Vānaras, and rākṣasas, and with shattered wheels, axles, and yoke-poles strewn over the earth (cakrākṣayugadaṇḍaiś ca bhagnair dharaṇisaṃśritaiḥ)—
+**44:** —with slain rutting elephants (_nihataiḥ kuñjarair mattaiḥ_), Vānaras, and _rākṣasas_, and with shattered wheels, axles, and yoke-poles strewn over the earth (_cakrākṣayugadaṇḍaiś ca bhagnair dharaṇisaṃśritaiḥ_)—
 
-**45:** —the dreadful battlefield became haunted by packs of jackals (babhūvāyodhanaṃ ghoraṃ gomāyugaṇasevitam). Headless trunks of Vānaras and rākṣasas sprang up in all directions (kabandhāni samutpetur dikṣu) in that tumultuous clash resembling the war of gods and asuras.
+**45:** —the dreadful battlefield became haunted by packs of jackals (_babhūvāyodhanaṃ ghoraṃ gomāyugaṇasevitam_). Headless trunks of Vānaras and _rākṣasas_ sprang up in all directions (_kabandhāni samutpetur dikṣu_) in that tumultuous clash resembling the war of gods and _asuras_.
 </details>
 </details>
 
@@ -2447,6 +2447,6 @@ combat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being struck down by the bulls among monkeys (nihanyamānā haripuṅgavais tadā) and maddened by the smell of blood (śoṇitagandhamūrcchitāḥ), the night-stalkers, eagerly longing for the setting of the sun (divākarasyāstamayābhikāṅkṣiṇaḥ), once again resorted impetuously to fierce battle (punaḥ suyuddhaṃ tarasā samāśritāḥ).
+Being struck down by the bulls among monkeys (_nihanyamānā haripuṅgavais tadā_) and maddened by the smell of blood (_śoṇitagandhamūrcchitāḥ_), the night-stalkers, eagerly longing for the setting of the sun (_divākarasyāstamayābhikāṅkṣiṇaḥ_), once again resorted impetuously to fierce battle (_punaḥ suyuddhaṃ tarasā samāśritāḥ_).
 </details>
 </details>

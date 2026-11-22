@@ -86,7 +86,7 @@ namely Lakshmana, who while he is speaking is as though blazing with his own res
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To the son of Sumitrā, Lakṣmaṇa, who was speaking thus and blazing as it were with fiery splendor (pradīptam iva tejasā), Tārā of moon-like countenance (tārādhipanibhānanā) spoke:
+To the son of Sumitrā, Lakṣmaṇa, who was speaking thus and blazing as it were with fiery splendor (_pradīptam iva tejasā_), Tārā of moon-like countenance (_tārādhipanibhānanā_) spoke:
 </details>
 </details>
 
@@ -138,7 +138,7 @@ tongue-lashing, especially from your tongue. [4-35-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not thus, O Lakṣmaṇa, ought this lord of monkeys (harīṇām īśvaraḥ) to be addressed (naivam vaktavyaḥ), nor does he deserve to hear harsh speech (paruṣam śrotum) — especially from your mouth (tava vaktrād viśeṣataḥ).
+“Not thus, O Lakṣmaṇa, ought this lord of monkeys (_harīṇām īśvaraḥ_) to be addressed (_naivam vaktavyaḥ_), nor does he deserve to hear harsh speech (_paruṣam śrotum_) — especially from your mouth (_tava vaktrād viśeṣataḥ_).
 </details>
 </details>
 
@@ -193,7 +193,7 @@ of untruth - no; a duplicitous one, no, this king of monkeys is not even that. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sugrīva is neither ungrateful (naivākṛtajñaḥ), nor deceitful (na śaṭhaḥ), nor ruthless (nāpi dāruṇaḥ); nor is the lord of monkeys a speaker of untruth (anṛtakathaḥ), O hero, nor crooked (na jihmaś ca).
+“Sugrīva is neither ungrateful (_naivākṛtajñaḥ_), nor deceitful (_na śaṭhaḥ_), nor ruthless (_nāpi dāruṇaḥ_); nor is the lord of monkeys a speaker of untruth (_anṛtakathaḥ_), O hero, nor crooked (_na jihmaś ca_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ oh, valiant Lakshmana, which in combat is impractical for others. [4-35-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor has this heroic monkey Sugrīva forgotten (nāpy ayam vismṛtaḥ) the service done in battle by Rāma (upakāram kṛtam rāmeṇa), O hero, which could scarcely be accomplished by others (yad anyair duṣkaram raṇe).
+“Nor has this heroic monkey Sugrīva forgotten (_nāpy ayam vismṛtaḥ_) the service done in battle by Rāma (_upakāram kṛtam rāmeṇa_), O hero, which could scarcely be accomplished by others (_yad anyair duṣkaram raṇe_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ kingship of monkeys, more so with Ruma and me as well. [4-35-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through Rāma's grace (rāmaprasādāt), Sugrīva has gained here renown (kīrtim), and the eternal kingdom of the monkeys (kapirājyam ca śāśvatam), and Rumā, and me as well (rumām mām ca), O scorcher of foes.
+“Through Rāma&#x27;s grace (_rāmaprasādāt_), Sugrīva has gained here renown (_kīrtim_), and the eternal kingdom of the monkeys (_kapirājyam ca śāśvatam_), and Rumā, and me as well (_rumām mām ca_), O scorcher of foes.
 </details>
 </details>
 
@@ -352,7 +352,7 @@ himself to the time-oriented actions as with saint Vishvamitra. [4-35-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having formerly lain in deep misery (suduḥkhaśayitaḥ pūrvam), upon attaining this supreme happiness (prāpyedam sukham uttamam) he does not perceive that the appointed season has arrived (prāptakālam na jānīte), just like the sage Viśvāmitra (viśvāmitro yathā muniḥ).
+“Having formerly lain in deep misery (_suduḥkhaśayitaḥ pūrvam_), upon attaining this supreme happiness (_prāpyedam sukham uttamam_) he does not perceive that the appointed season has arrived (_prāptakālam na jānīte_), just like the sage Viśvāmitra (_viśvāmitro yathā muniḥ_).
 </details>
 </details>
 
@@ -418,7 +418,7 @@ ten years of his association with Ghritaachi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When attached to [the nymph] Ghṛtācī (ghṛtācyām kila saṃsaktaḥ), O Lakṣmaṇa, the righteous-souled great sage Viśvāmitra, they say, deemed ten years to be a single day (daśa varṣāṇi aho'manyata).
+“When attached to [the nymph] Ghṛtācī (_ghṛtācyām kila saṃsaktaḥ_), O Lakṣmaṇa, the righteous-souled great sage Viśvāmitra, they say, deemed ten years to be a single day (_daśa varṣāṇi aho&#x27;manyata_).
 </details>
 </details>
 
@@ -464,7 +464,7 @@ to the occasioned time for a good many years, why talking about a commoner again
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When even that Viśvāmitra of great splendor, the foremost of those who know the times (kālavidām varaḥ), did not recognize that the time had arrived (prāptam na jānīte kālam), how much less one who is an ordinary creature (kim punar yaḥ pṛthagjanaḥ)!
+“When even that Viśvāmitra of great splendor, the foremost of those who know the times (_kālavidām varaḥ_), did not recognize that the time had arrived (_prāptam na jānīte kālam_), how much less one who is an ordinary creature (_kim punar yaḥ pṛthagjanaḥ_)!
 </details>
 </details>
 
@@ -525,7 +525,7 @@ bhaya 'food, sleep, sex, and fear.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Toward this [Sugrīva], who is subject to the laws of the body (dehadharmagatasya), who was exhausted [by prior sorrow] (pariśrāntasya), O Lakṣmaṇa, and who is not yet sated in pleasures (avitṛptasya kāmeṣu), Rāma ought here to show forgiveness (rāmaḥ kṣantum ihārhati).
+“Toward this [Sugrīva], who is subject to the laws of the body (_dehadharmagatasya_), who was exhausted [by prior sorrow] (_pariśrāntasya_), O Lakṣmaṇa, and who is not yet sated in pleasures (_avitṛptasya kāmeṣu_), Rāma ought here to show forgiveness (_rāmaḥ kṣantum ihārhati_).
 </details>
 </details>
 
@@ -576,7 +576,7 @@ of your rancour like a commoner. [4-35-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor ought you, dear Lakṣmaṇa (tāta lakṣmaṇa), to fall rashly (sahasā) under the sway of wrath like an ordinary man (prākṛto yathā) without ascertaining the true state of the matter (niścayārtham avijñāya).
+“Nor ought you, dear Lakṣmaṇa (_tāta lakṣmaṇa_), to fall rashly (_sahasā_) under the sway of wrath like an ordinary man (_prākṛto yathā_) without ascertaining the true state of the matter (_niścayārtham avijñāya_).
 </details>
 </details>
 
@@ -631,7 +631,7 @@ by their own rancour, unconscionably. [4-35-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For men endowed with noble sattva (sattvayuktā hi puruṣāḥ) who are like you, O bull among men, do not rashly come under the sway of anger (na roṣasya sahasā yānti vaśyatām) without deliberation (avimṛśya).
+“For men endowed with noble _sattva_ (_sattvayuktā hi puruṣāḥ_) who are like you, O bull among men, do not rashly come under the sway of anger (_na roṣasya sahasā yānti vaśyatām_) without deliberation (_avimṛśya_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ this clangour upshot in high dudgeon of yours. [4-35-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With composed mind (samāhitā), O knower of righteousness, I propitiate you (prasādaye tvām) on Sugrīva's behalf (sugrīvārtham); let this great agitation (mahān saṃrambhaḥ) born of wrath be cast aside (tyajyatām ayam).
+“With composed mind (_samāhitā_), O knower of righteousness, I propitiate you (_prasādaye tvām_) on Sugrīva&#x27;s behalf (_sugrīvārtham_); let this great agitation (_mahān saṃrambhaḥ_) born of wrath be cast aside (_tyajyatām ayam_).
 </details>
 </details>
 
@@ -742,7 +742,7 @@ kingdom with its riches, food grains, livestock and whatnot, as I can infer. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rumā, and me, and Aṅgada, the kingdom, and wealth, grain, and cattle (dhanadhānyapaśūni ca) — [all these] Sugrīva would abandon for the sake of what is dear to Rāma (rāmapriyārtham sugrīvas tyajed); such is my conviction (iti matir mama).
+“Rumā, and me, and Aṅgada, the kingdom, and wealth, grain, and cattle (_dhanadhānyapaśūni ca_) — [all these] Sugrīva would abandon for the sake of what is dear to Rāma (_rāmapriyārtham sugrīvas tyajed_); such is my conviction (_iti matir mama_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ Rohini.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain that vilest of rākṣasas (hatvā tam rākṣasādhamam), Sugrīva will reunite Rāghava with Sītā (samāneṣyati sītayā saha rāghavam), like the moon with Rohiṇī (śaśāṅkam iva rohiṇyā).
+“Having slain that vilest of _rākṣasas_ (_hatvā tam rākṣasādhamam_), Sugrīva will reunite Rāghava with Sītā (_samāneṣyati sītayā saha rāghavam_), like the moon with Rohiṇī (_śaśāṅkam iva rohiṇyā_).
 </details>
 </details>
 
@@ -866,7 +866,7 @@ women that are held captive in that island.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There are, they say (kila), in Laṅkā a hundred thousand crores of rākṣasas (śatakoṭisahasrāṇi rākṣasām), and thirty-six ayutas [three hundred sixty thousand], and [thirty-six] thousands, and [thirty-six] hundreds (ayutāni ca ṣaṭtriṃśat sahasrāṇi śatāni ca).
+“There are, they say (_kila_), in Laṅkā a hundred thousand crores of _rākṣasas_ (_śatakoṭisahasrāṇi rākṣasām_), and thirty-six _ayutas_ [three hundred sixty thousand], and [thirty-six] thousands, and [thirty-six] hundreds (_ayutāni ca ṣaṭtriṃśat sahasrāṇi śatāni ca_).
 </details>
 </details>
 
@@ -917,7 +917,7 @@ abducted Maithili, namely Ravana. [4-35-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And without slaying those unassailable rākṣasas (ahatvā tāṃś ca durdharṣān rākṣasān), who can assume any form at will (kāmarūpiṇaḥ), Rāvaṇa — by whom that Maithilī was carried off — cannot be slain (na śakyo rāvaṇo hantum).
+“And without slaying those unassailable _rākṣasas_ (_ahatvā tāṃś ca durdharṣān rākṣasān_), who can assume any form at will (_kāmarūpiṇaḥ_), Rāvaṇa — by whom that Maithilī was carried off — cannot be slain (_na śakyo rāvaṇo hantum_).
 </details>
 </details>
 
@@ -983,7 +983,7 @@ the import of the verse 19 also in view.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“They cannot be slain in battle, O Lakṣmaṇa, by one who is without an ally (asahāyena) — nor can Rāvaṇa of cruel deeds (rāvaṇaḥ krūrakarmā ca), especially by Sugrīva [unaided] (sugrīveṇa viśeṣataḥ).
+“They cannot be slain in battle, O Lakṣmaṇa, by one who is without an ally (_asahāyena_) — nor can Rāvaṇa of cruel deeds (_rāvaṇaḥ krūrakarmā ca_), especially by Sugrīva [unaided] (_sugrīveṇa viśeṣataḥ_).
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ of Ravana's capabilities to Tara.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus did Vālī declare (evam ākhyātavān vālī), for that lord of monkeys was well-informed (sa hy abhijño harīśvaraḥ); how [Rāvaṇa] acquired [that host] is not known to me (āgamas tu na me vyaktaḥ) — I speak from having heard his words (śravāt tasya bravīmy aham).
+“Thus did Vālī declare (_evam ākhyātavān vālī_), for that lord of monkeys was well-informed (_sa hy abhijño harīśvaraḥ_); how [Rāvaṇa] acquired [that host] is not known to me (_āgamas tu na me vyaktaḥ_) — I speak from having heard his words (_śravāt tasya bravīmy aham_).
 </details>
 </details>
 
@@ -1110,7 +1110,7 @@ kiirtan-s *'musical exalts and extols.' Thereby Sugreeva has done the need of th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the sake of providing you with allies (tvatsahāyanimittam hi), bulls among monkeys (haripuṅgavāḥ) have been dispatched [by Sugrīva] to bring very many monkey chiefs (vānarān subahūn haripuṅgavān) valiant in battle.
+“For the sake of providing you with allies (_tvatsahāyanimittam hi_), bulls among monkeys (_haripuṅgavāḥ_) have been dispatched [by Sugrīva] to bring very many monkey chiefs (_vānarān subahūn haripuṅgavān_) valiant in battle.
 </details>
 </details>
 
@@ -1162,7 +1162,7 @@ awaiting the return of those venturesome and very great mighty monkey-warriors w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And awaiting those valiant, exceedingly mighty ones (tāṃś ca pratīkṣamāṇo'yam vikrāntān sumahābalān) for the accomplishment of Rāghava's purpose (rāghavasyārthasiddhyartham), the lord of monkeys has not yet marched forth (na niryāti harīśvaraḥ).
+“And awaiting those valiant, exceedingly mighty ones (_tāṃś ca pratīkṣamāṇo&#x27;yam vikrāntān sumahābalān_) for the accomplishment of Rāghava&#x27;s purpose (_rāghavasyārthasiddhyartham_), the lord of monkeys has not yet marched forth (_na niryāti harīśvaraḥ_).
 </details>
 </details>
 
@@ -1214,7 +1214,7 @@ monkeys have to arrive here today itself. [4-35-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“According to the strict limit (susaṃsthā) fixed beforehand by Sugrīva (kṛtā sugrīveṇa purā yathā), O son of Sumitrā, today (adya) all those mighty monkeys must arrive (tair vānaraiḥ sarvair āgantavyam).
+“According to the strict limit (_susaṃsthā_) fixed beforehand by Sugrīva (_kṛtā sugrīveṇa purā yathā_), O son of Sumitrā, today (_adya_) all those mighty monkeys must arrive (_tair vānaraiḥ sarvair āgantavyam_).
 </details>
 </details>
 
@@ -1276,7 +1276,7 @@ therefore rebut your rage. [4-35-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A thousand crores of bears (ṛkṣakoṭisahasrāṇi), and hundreds [of crores] of golāṅgūla monkeys (golāṅgūlaśatāni ca), and many crores of monkeys of blazing splendor (koṭyo'nekās tu kapīnām dīptatejasām) will approach you today (adya tvām upayāsyanti), O Kākutstha; cast aside your anger (jahi kopam), O tamer of foes!
+“A thousand crores of bears (_ṛkṣakoṭisahasrāṇi_), and hundreds [of crores] of _golāṅgūla_ monkeys (_golāṅgūlaśatāni ca_), and many crores of monkeys of blazing splendor (_koṭyo&#x27;nekās tu kapīnām dīptatejasām_) will approach you today (_adya tvām upayāsyanti_), O Kākutstha; cast aside your anger (_jahi kopam_), O tamer of foes!
 </details>
 </details>
 
@@ -1353,6 +1353,6 @@ premonished about such a happening in respect of Sugreeva too. [4-35-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For beholding this face of yours (tava hi mukham idam nirīkṣya) and gazing upon your eyes red like blood from wrath (kopāt kṣatajasame nayane nirīkṣamāṇāḥ), the wives of the monkey chiefs find no peace (harivaravanitā na yānti śāntim); for we are all terrified (śaṅkitāḥ sma sarvāḥ) of [a repetition of] our former fear (prathamabhayasya)!”
+“For beholding this face of yours (_tava hi mukham idam nirīkṣya_) and gazing upon your eyes red like blood from wrath (_kopāt kṣatajasame nayane nirīkṣamāṇāḥ_), the wives of the monkey chiefs find no peace (_harivaravanitā na yānti śāntim_); for we are all terrified (_śaṅkitāḥ sma sarvāḥ_) of [a repetition of] our former fear (_prathamabhayasya_)!”
 </details>
 </details>

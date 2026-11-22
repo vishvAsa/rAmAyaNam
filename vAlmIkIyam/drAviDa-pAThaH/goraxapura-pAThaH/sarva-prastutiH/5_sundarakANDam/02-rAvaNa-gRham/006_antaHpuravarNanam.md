@@ -78,7 +78,7 @@ grief. Endowed with great speed, He roamed again the city of Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaming at his pleasure (nikāmam) among the seven-storied palaces (vimāneṣu), that monkey who could assume any form at will (kāmarūpadhṛk), endowed with swift agility (lāghavena samanvitaḥ), traversed Laṅkā.
+Roaming at his pleasure (_nikāmam_) among the seven-storied palaces (_vimāneṣu_), that monkey who could assume any form at will (_kāmarūpadhṛk_), endowed with swift agility (_lāghavena samanvitaḥ_), traversed Laṅkā.
 </details>
 </details>
 
@@ -133,7 +133,7 @@ hue of Sun, surrounded by a compound wall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that glorious one (lakṣmīvān) reached the residence of the lord of rākṣasas (rākṣasendraniveśanam), which was encircled by a blazing rampart of the hue of the sun (prākāreṇārkavarṇena bhāsvareṇābhisaṃvṛtam).
+And that glorious one (_lakṣmīvān_) reached the residence of the lord of _rākṣasas_ (_rākṣasendraniveśanam_), which was encircled by a blazing rampart of the hue of the sun (_prākāreṇārkavarṇena bhāsvareṇābhisaṃvṛtam_).
 </details>
 </details>
 
@@ -185,7 +185,7 @@ by lions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surveying that mansion guarded by terrible rākṣasas (rakṣitaṃ rākṣasair bhīmaiḥ) as a great forest is guarded by lions (siṃhair iva mahad vanam), that elephant among monkeys shone brightly (cakāśe kapikuñjaraḥ).
+Surveying that mansion guarded by terrible _rākṣasas_ (_rakṣitaṃ rākṣasair bhīmaiḥ_) as a great forest is guarded by lions (_siṃhair iva mahad vanam_), that elephant among monkeys shone brightly (_cakāśe kapikuñjaraḥ_).
 </details>
 </details>
 
@@ -240,7 +240,7 @@ strange entrances and beautiful doors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was enclosed by variegated archways inlaid with silver and adorned with gold (rūpyakopahitaiś citrais toraṇair hemabhūṣaṇaiḥ), and by wondrous courtyards and charming gateways (vicitrābhiś ca kakṣyābhir dvāraiś ca rucirair vṛtam);
+It was enclosed by variegated archways inlaid with silver and adorned with gold (_rūpyakopahitaiś citrais toraṇair hemabhūṣaṇaiḥ_), and by wondrous courtyards and charming gateways (_vicitrābhiś ca kakṣyābhir dvāraiś ca rucirair vṛtam_);
 </details>
 </details>
 
@@ -295,7 +295,7 @@ tiredness, drivers of elephants, by undefeatable horses, and by charioteers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was attended by tireless heroes and elephant-drivers mounted upon elephants (gajāsthitair mahāmātraiḥ śūraiś ca vigataśramaiḥ), and by irresistible chariot-drawing steeds (asahāryair hayaiḥ syandanayāyibhiḥ);
+It was attended by tireless heroes and elephant-drivers mounted upon elephants (_gajāsthitair mahāmātraiḥ śūraiś ca vigataśramaiḥ_), and by irresistible chariot-drawing steeds (_asahāryair hayaiḥ syandanayāyibhiḥ_);
 </details>
 </details>
 
@@ -351,7 +351,7 @@ sound.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And it was ever traversed by wondrous, rattling chariots (ghoṣavadbhir vicitraiś ca रथैः) armored in lion and tiger skins (siṃhavyāghratanutrāṇaiḥ) and bearing figures of ivory, gold, and silver (dāntakāñcanarājatīḥ).
+And it was ever traversed by wondrous, rattling chariots (_ghoṣavadbhir vicitraiś ca रथैः_) armored in lion and tiger skins (_siṃhavyāghratanutrāṇaiḥ_) and bearing figures of ivory, gold, and silver (_dāntakāñcanarājatīḥ_).
 </details>
 </details>
 
@@ -414,7 +414,7 @@ utensils, abode of great warriors, with great chariots and great utensils.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strewn with manifold gems (bahuratnasamākīrṇam) and adorned with priceless seats (parārghyāsanabhūṣitam), it was the gathering place of great chariots (mahārathasamāvāpam) and contained great seats for great chariot-warriors (mahārathamahāsanam).
+Strewn with manifold gems (_bahuratnasamākīrṇam_) and adorned with priceless seats (_parārghyāsanabhūṣitam_), it was the gathering place of great chariots (_mahārathasamāvāpam_) and contained great seats for great chariot-warriors (_mahārathamahāsanam_).
 </details>
 </details>
 
@@ -466,7 +466,7 @@ thousands, lovely to watch - very beautiful ones.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On every side it was filled with many thousands of diverse, comely, and supremely noble beasts and birds (dṛśyaiś ca paramodārais tais taiś ca mṛgapakṣibhiḥ);
+On every side it was filled with many thousands of diverse, comely, and supremely noble beasts and birds (_dṛśyaiś ca paramodārais tais taiś ca mṛgapakṣibhiḥ_);
 </details>
 </details>
 
@@ -518,7 +518,7 @@ by best women who were important.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was well guarded by disciplined frontier-wardens and rākṣasas (vinītair antapālaiś ca rakṣobhiś ca surakṣitam), and filled on all sides with foremost and exquisite women (mukhyābhiś ca varastrībhiḥ);
+It was well guarded by disciplined frontier-wardens and _rākṣasas_ (_vinītair antapālaiś ca rakṣobhiś ca surakṣitam_), and filled on all sides with foremost and exquisite women (_mukhyābhiś ca varastrībhiḥ_);
 </details>
 </details>
 
@@ -569,7 +569,7 @@ sound like that of an ocean.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That residence of the lord of rākṣasas (rākṣasendraniveśanam), wherein jewel-like women rejoiced (muditapramadāratnam), echoed like the roar of the ocean (samudrasvananiḥsvanam) with the tinkling of choice ornaments (varābharaṇasaṃhrādaiḥ).
+That residence of the lord of _rākṣasas_ (_rākṣasendraniveśanam_), wherein jewel-like women rejoiced (_muditapramadāratnam_), echoed like the roar of the ocean (_samudrasvananiḥsvanam_) with the tinkling of choice ornaments (_varābharaṇasaṃhrādaiḥ_).
 </details>
 </details>
 
@@ -623,7 +623,7 @@ number of people like a great forest with lions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with all royal excellences (tad rājaguṇasampannam) and the finest sandalwood (mukhyaiś ca varacandanaiḥ), it was thronged with great personages (mahājanasamākīrṇam) as a great forest is thronged with lions (siṃhair iva mahad vanam);
+Endowed with all royal excellences (_tad rājaguṇasampannam_) and the finest sandalwood (_mukhyaiś ca varacandanaiḥ_), it was thronged with great personages (_mahājanasamākīrṇam_) as a great forest is thronged with lions (_siṃhair iva mahad vanam_);
 </details>
 </details>
 
@@ -679,7 +679,7 @@ upon daily by Rakshsas, with rituals on festivals, always worshipped by rakshasa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resounding with kettledrums and mṛdaṅgas (bherīmṛdaṅgābhirutam), echoing with the blasts of conchs (śaṅkhaghoṣavināditam), it was worshiped daily (nityārcitam), offered sacrificial oblations on the parvan days (parvasutam), and ever revered by the rākṣasas (pūjitaṃ rākṣasaiḥ sadā).
+Resounding with kettledrums and _mṛdaṅgas_ (_bherīmṛdaṅgābhirutam_), echoing with the blasts of conchs (_śaṅkhaghoṣavināditam_), it was worshiped daily (_nityārcitam_), offered sacrificial oblations on the _parvan_ days (_parvasutam_), and ever revered by the _rākṣasas_ (_pūjitaṃ rākṣasaiḥ sadā_).
 </details>
 </details>
 
@@ -723,7 +723,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Profound as the ocean (samudram iva gambhīram) and resounding like the ocean (samudrasamaniḥsvanam), that great mansion of the high-souled one (mahātmano mahad veśma) was furnished with great jewels (mahāratnaparicchadam).
+Profound as the ocean (_samudram iva gambhīram_) and resounding like the ocean (_samudrasamaniḥsvanam_), that great mansion of the high-souled one (_mahātmano mahad veśma_) was furnished with great jewels (_mahāratnaparicchadam_).
 </details>
 </details>
 
@@ -749,7 +749,7 @@ Profound as the ocean (samudram iva gambhīram) and resounding like the ocean (s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great monkey beheld it strewn with great gems (mahāratnasamākīrṇam), shining in its architectural form (virājamānaṃ vapuṣā), and crowded with elephants, horses, and chariots (gajāśvarathasaṃkulam).
+That great monkey beheld it strewn with great gems (_mahāratnasamākīrṇam_), shining in its architectural form (_virājamānaṃ vapuṣā_), and crowded with elephants, horses, and chariots (_gajāśvarathasaṃkulam_).
 </details>
 </details>
 
@@ -814,7 +814,7 @@ of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is truly the ornament of Laṅkā (laṅkābharaṇam ityeva)!”—so thought that great monkey; and Hanūmān moved about there in the vicinity of Rāvaṇa's palace (rāvaṇasya samīpataḥ).
+“This is truly the ornament of Laṅkā (_laṅkābharaṇam ityeva_)!”—so thought that great monkey; and Hanūmān moved about there in the vicinity of Rāvaṇa&#x27;s palace (_rāvaṇasya samīpataḥ_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ observing in all directions without fear and also courtyards.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fearlessly surveying (vīkṣamāṇo'py asaṃtrastaḥ) from house to house of the rākṣasas (gṛhād gṛhaṃ rākṣasānām), and all the pleasure-gardens (udyānāni ca sarvaśaḥ) and palaces (prāsādāṃś ca), he moved about.
+Fearlessly surveying (_vīkṣamāṇo&#x27;py asaṃtrastaḥ_) from house to house of the _rākṣasas_ (_gṛhād gṛhaṃ rākṣasānām_), and all the pleasure-gardens (_udyānāni ca sarvaśaḥ_) and palaces (_prāsādāṃś ca_), he moved about.
 </details>
 </details>
 
@@ -902,7 +902,7 @@ Fearlessly surveying (vīkṣamāṇo'py asaṃtrastaḥ) from house to house of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having leaped down into the residence of Prahasta (avaplutya prahastasya niveśanam), that valiant monkey of great speed then leaped to another mansion, that of Mahāpārśva (mahāpārśvasya veśma).
+Having leaped down into the residence of Prahasta (_avaplutya prahastasya niveśanam_), that valiant monkey of great speed then leaped to another mansion, that of Mahāpārśva (_mahāpārśvasya veśma_).
 </details>
 </details>
 
@@ -943,7 +943,7 @@ cloud and in the same way for the house of Vibhishana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Next, that great monkey leaped to the cloud-like residence of Kumbhakarṇa (meghapratīkāśaṃ kumbhakarṇaniveśanam), and likewise to that of Vibhīṣaṇa (vibhīṣaṇasya ca tathā).
+Next, that great monkey leaped to the cloud-like residence of Kumbhakarṇa (_meghapratīkāśaṃ kumbhakarṇaniveśanam_), and likewise to that of Vibhīṣaṇa (_vibhīṣaṇasya ca tathā_).
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ Virupaaksha, that of Viddutjihva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And likewise that great monkey leaped to the mansion of Mahodara (mahodarasya), and of Virūpākṣa (virūpākṣasya), of Vidyujjihva (vidyujjihvasya bhavanam), and so too of Vidyunmāli (vidyunmāles tathaiva ca),
+And likewise that great monkey leaped to the mansion of Mahodara (_mahodarasya_), and of Virūpākṣa (_virūpākṣasya_), of Vidyujjihva (_vidyujjihvasya bhavanam_), and so too of Vidyunmāli (_vidyunmāles tathaiva ca_),
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ Suka's house, for Sarana's house, and in the same way for the house of Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And likewise to that of Vajradaṃṣṭra (vajradaṃṣṭrasya ca tathā); and with great speed (mahāvegaḥ) to that of Śuka (śukasya ca) and of the wise Sāraṇa (sāraṇasya ca dhīmataḥ).
+And likewise to that of Vajradaṃṣṭra (_vajradaṃṣṭrasya ca tathā_); and with great speed (_mahāvegaḥ_) to that of Śuka (_śukasya ca_) and of the wise Sāraṇa (_sāraṇasya ca dhīmataḥ_).
 </details>
 </details>
 
@@ -1100,7 +1100,7 @@ Prahasta and from there leapt for another house that of Mahaparshva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And so too the monkey troop-leader went to the mansion of Indrajit (indrajito veśma), and that foremost of monkeys went to the mansions of Jambumāli and Sumāli (jambumāleḥ sumāleś ca).
+And so too the monkey troop-leader went to the mansion of Indrajit (_indrajito veśma_), and that foremost of monkeys went to the mansions of Jambumāli and Sumāli (_jambumāleḥ sumāleś ca_).
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ And so too the monkey troop-leader went to the mansion of Indrajit (indrajito ve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that great monkey leaped to the mansion of Raśmiketu (raśmiketoś ca bhavanam), and of Sūryaśatru (sūryaśatros tathaiva ca), and likewise of Vajrakāya (vajrakāyasya ca tathā);
+And that great monkey leaped to the mansion of Raśmiketu (_raśmiketoś ca bhavanam_), and of Sūryaśatru (_sūryaśatros tathaiva ca_), and likewise of Vajrakāya (_vajrakāyasya ca tathā_);
 </details>
 </details>
 
@@ -1273,15 +1273,15 @@ sequence in those and those best buildings, saw the wealth of those rakshasas, w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** And next the son of the Wind-god leaped to the mansion of Dhūmrākṣa and of Sampāti (dhūmrākṣasyātha sampāter bhavanam), and of the terrible Vidyudrūpa, of Ghana, and of Vighana (vidyudrūpasya bhīmasya ghanasya vighanasya ca);
+**23:** And next the son of the Wind-god leaped to the mansion of Dhūmrākṣa and of Sampāti (_dhūmrākṣasyātha sampāter bhavanam_), and of the terrible Vidyudrūpa, of Ghana, and of Vighana (_vidyudrūpasya bhīmasya ghanasya vighanasya ca_);
 
-**24:** And of the rākṣasas Śukanābha, Cakra, Śaṭha, and Kapaṭa (śukanābhasya cakrasya śaṭhasya kapaṭasya ca), and of Hrasvakarṇa, Daṃṣṭra, and Lomaśa (hrasvakarṇasya daṃṣṭrasya lomaśasya ca rakṣasaḥ).
+**24:** And of the _rākṣasas_ Śukanābha, Cakra, Śaṭha, and Kapaṭa (_śukanābhasya cakrasya śaṭhasya kapaṭasya ca_), and of Hrasvakarṇa, Daṃṣṭra, and Lomaśa (_hrasvakarṇasya daṃṣṭrasya lomaśasya ca rakṣasaḥ_).
 
-**25:** And of Yuddhonmatta, Matta, the horseman Dhvajagrīva (dhvajagrīvasya sādinaḥ), Vidyujjihva and Dvijihva (vidyujjihvadvijihvānām), and likewise of Hastimukha (tathā hastimukhasya ca),
+**25:** And of Yuddhonmatta, Matta, the horseman Dhvajagrīva (_dhvajagrīvasya sādinaḥ_), Vidyujjihva and Dvijihva (_vidyujjihvadvijihvānām_), and likewise of Hastimukha (_tathā hastimukhasya ca_),
 
-**26:** And of Karāla, Piśāca, and Śoṇitākṣa (karālasya piśācasya śoṇitākṣasya caiva hi)—leaping in due order (plavamānaḥ krameṇaiva), Hanūmān, the son of the Wind-god,
+**26:** And of Karāla, Piśāca, and Śoṇitākṣa (_karālasya piśācasya śoṇitākṣasya caiva hi_)—leaping in due order (_plavamānaḥ krameṇaiva_), Hanūmān, the son of the Wind-god,
 
-**27:** Possessed of great renown, beheld in those respective costly mansions (teṣu teṣu mahārheṣu bhavaneṣu) the affluence of those opulent lords (teṣām ṛddhimatām ṛddhiṃ dadarśa sa mahākapiḥ).
+**27:** Possessed of great renown, beheld in those respective costly mansions (_teṣu teṣu mahārheṣu bhavaneṣu_) the affluence of those opulent lords (_teṣām ṛddhimatām ṛddhiṃ dadarśa sa mahākapiḥ_).
 </details>
 </details>
 
@@ -1333,7 +1333,7 @@ house of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed beyond the mansions of all of them on every side (sarveṣāṃ samatikramya bhavanāni samantataḥ), that glorious one then approached the residence of the lord of rākṣasas (rākṣasendraniveśanam).
+Having passed beyond the mansions of all of them on every side (_sarveṣāṃ samatikramya bhavanāni samantataḥ_), that glorious one then approached the residence of the lord of _rākṣasas_ (_rākṣasendraniveśanam_).
 </details>
 </details>
 
@@ -1389,7 +1389,7 @@ in their hands, those who had Shaktis and Tomaras.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaming about, that tiger among monkeys, the foremost of monkeys (harisattamaḥ), beheld deformed-eyed rākṣasī women (rākṣasīr vikṛtekṣaṇāḥ) who kept watch in relays beside Rāvaṇa's couch (rāvaṇasyopaśāyinyaḥ);
+Roaming about, that tiger among monkeys, the foremost of monkeys (_harisattamaḥ_), beheld deformed-eyed _rākṣasī_ women (_rākṣasīr vikṛtekṣaṇāḥ_) who kept watch in relays beside Rāvaṇa&#x27;s couch (_rāvaṇasyopaśāyinyaḥ_);
 </details>
 </details>
 
@@ -1443,7 +1443,7 @@ those who had huge bodies having different weapons raise up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in the palace of that lord of rākṣasas (tasya rakṣaḥpater gṛhe) he beheld diverse troops (vividhān gulmān) holding pikes and mallets in their hands (śūlamudgarahastān) and bearing javelins and lances (śaktitomaradhāriṇaḥ).
+And in the palace of that lord of _rākṣasas_ (_tasya rakṣaḥpater gṛhe_) he beheld diverse troops (_vividhān gulmān_) holding pikes and mallets in their hands (_śūlamudgarahastān_) and bearing javelins and lances (_śaktitomaradhāriṇaḥ_).
 </details>
 </details>
 
@@ -1482,7 +1482,7 @@ Inside Rāvaṇa's residence, Hanūmān beholds gigantic rākṣasas, tethered s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in that mansion he beheld gigantic rākṣasas (rākṣasāṃś ca mahākāyān) with diverse weapons upraised (nānāpraharaṇodyatān), as well as bay, white, and tethered steeds of great swiftness (raktān śvetān sitāṃś cāpi harīṃś cāpi mahājavān);
+And in that mansion he beheld gigantic _rākṣasas_ (_rākṣasāṃś ca mahākāyān_) with diverse weapons upraised (_nānāpraharaṇodyatān_), as well as bay, white, and tethered steeds of great swiftness (_raktān śvetān sitāṃś cāpi harīṃś cāpi mahājavān_);
 </details>
 </details>
 
@@ -1519,9 +1519,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** And thoroughbred elephants of noble form (kulīnān rūpasampannān gajān), crushers of enemy elephants (paragajārujān), trained in elephant-lore (śikṣitān gajaśikṣāyām), equal to Airāvata in battle (airāvatasamān yudhi),
+**32:** And thoroughbred elephants of noble form (_kulīnān rūpasampannān gajān_), crushers of enemy elephants (_paragajārujān_), trained in elephant-lore (_śikṣitān gajaśikṣāyām_), equal to Airāvata in battle (_airāvatasamān yudhi_),
 
-**33:** And destroyers of enemy armies (nihantṝn parasainyānām), trickling ichor like clouds (kṣarataś ca yathā meghān) and streaming like mountains (sravataś ca yathā girīn);
+**33:** And destroyers of enemy armies (_nihantṝn parasainyānām_), trickling ichor like clouds (_kṣarataś ca yathā meghān_) and streaming like mountains (_sravataś ca yathā girīn_);
 </details>
 </details>
 
@@ -1609,9 +1609,9 @@ up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** Thundering like the rumble of clouds (meghastanitanirghoṣān) and unassailable by foes in battle (durdharṣān samare paraiḥ); and he beheld there a thousand battalions decked in jāmbūnada gold (sahasraṃ vāhinīs tatra jāmbūnadapariṣkṛtāḥ),
+**34:** Thundering like the rumble of clouds (_meghastanitanirghoṣān_) and unassailable by foes in battle (_durdharṣān samare paraiḥ_); and he beheld there a thousand battalions decked in _jāmbūnada_ gold (_sahasraṃ vāhinīs tatra jāmbūnadapariṣkṛtāḥ_),
 
-**35:** And palanquins continuously covered with golden networks (hemajālair avicchinnāḥ) and shining like the newly risen sun (taruṇādityasaṃnibhāḥ)—all these he beheld in the residence of Rāvaṇa, the lord of rākṣasas (rāvaṇasya niveśane).
+**35:** And palanquins continuously covered with golden networks (_hemajālair avicchinnāḥ_) and shining like the newly risen sun (_taruṇādityasaṃnibhāḥ_)—all these he beheld in the residence of Rāvaṇa, the lord of _rākṣasas_ (_rāvaṇasya niveśane_).
 </details>
 </details>
 
@@ -1690,9 +1690,9 @@ constructed with wooden mountains, house for sexual delight and a beautiful diur
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** In the residence of Rāvaṇa, the lord of rākṣasas, that monkey, the son of the Wind-god, beheld palanquins of manifold shapes (śibikā vividhākārāḥ), variegated creeper-pavilions (latāgṛhāṇi citrāṇi), and picture-gallery halls (citraśālāgṛhāṇi ca),
+**36:** In the residence of Rāvaṇa, the lord of _rākṣasas_, that monkey, the son of the Wind-god, beheld palanquins of manifold shapes (_śibikā vividhākārāḥ_), variegated creeper-pavilions (_latāgṛhāṇi citrāṇi_), and picture-gallery halls (_citraśālāgṛhāṇi ca_),
 
-**37:** As well as other sporting-pavilions (krīḍāgṛhāṇi cānyāni), artificial pleasure-hills of wood (dāruparvatakāni ca), a charming house of Love (kāmasya gṛhakaṃ ramyam), and a daytime pavilion (divāgṛhakam eva ca).
+**37:** As well as other sporting-pavilions (_krīḍāgṛhāṇi cānyāni_), artificial pleasure-hills of wood (_dāruparvatakāni ca_), a charming house of Love (_kāmasya gṛhakaṃ ramyam_), and a daytime pavilion (_divāgṛhakam eva ca_).
 </details>
 </details>
 
@@ -1734,9 +1734,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** He beheld that supreme palace (dadarśa bhavanottamam), which resembled Mount Mandara (mandarasamaprakhyam), was crowded with peacock-perches (mayūrasthānasaṃkulam),
+**38:** He beheld that supreme palace (_dadarśa bhavanottamam_), which resembled Mount Mandara (_mandarasamaprakhyam_), was crowded with peacock-perches (_mayūrasthānasaṃkulam_),
 
-**39:** And was thronged with flagstaffs (dhvajayaṣṭibhir ākīrṇam), holding boundless heaps of gems (anantaratnanicayam) and a network of treasures on all sides (nidhijālaṃ samantataḥ), with its architectural works and defenses executed by wise masters (dhīraniṣṭhitakarmāṅgam), like the mansion of the Lord of Beings (gṛhaṃ bhūtapater iva).
+**39:** And was thronged with flagstaffs (_dhvajayaṣṭibhir ākīrṇam_), holding boundless heaps of gems (_anantaratnanicayam_) and a network of treasures on all sides (_nidhijālaṃ samantataḥ_), with its architectural works and defenses executed by wise masters (_dhīraniṣṭhitakarmāṅgam_), like the mansion of the Lord of Beings (_gṛhaṃ bhūtapater iva_).
 </details>
 </details>
 
@@ -1785,7 +1785,7 @@ by rays.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both through the rays of its gems (arcirbhiś cāpi ratnānām) and through the fiery splendor of Rāvaṇa himself (tejasā rāvaṇasya ca), that mansion shone forth like the sun with its beams (virarāja ca tad veśma raśmivān iva raśmibhiḥ).
+Both through the rays of its gems (_arcirbhiś cāpi ratnānām_) and through the fiery splendor of Rāvaṇa himself (_tejasā rāvaṇasya ca_), that mansion shone forth like the sun with its beams (_virarāja ca tad veśma raśmivān iva raśmibhiḥ_).
 </details>
 </details>
 
@@ -1865,7 +1865,7 @@ gold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That leader of the monkey troop beheld couches and seats (śayanāny āsanāni ca) made entirely of jāmbūnada gold (jāmbūnadamayāny eva), as well as bright vessels (bhājanāni ca śubhrāṇi).
+That leader of the monkey troop beheld couches and seats (_śayanāny āsanāni ca_) made entirely of _jāmbūnada_ gold (_jāmbūnadamayāny eva_), as well as bright vessels (_bhājanāni ca śubhrāṇi_).
 </details>
 </details>
 
@@ -1908,9 +1908,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** Moistened with honey-wine and fermented liquor (madhvāsavakṛtakledam), crowded with gem-encrusted goblets (maṇibhājanasaṃkulam), delightful to the heart and uncrowded (manoramam asambādham), it was like the mansion of Kubera (kuberabhavanaṃ yathā);
+**42:** Moistened with honey-wine and fermented liquor (_madhvāsavakṛtakledam_), crowded with gem-encrusted goblets (_maṇibhājanasaṃkulam_), delightful to the heart and uncrowded (_manoramam asambādham_), it was like the mansion of Kubera (_kuberabhavanaṃ yathā_);
 
-**43:** And it resounded with the ringing of anklets (nūpurāṇāṃ ca ghoṣeṇa), with the tinkling of girdles (kāñcīnāṃ niḥsvanena ca), and with the resonant beats of mṛdaṅga drum-heads (mṛdaṅgatalanirghoṣair ghoṣavadbhir vināditam).
+**43:** And it resounded with the ringing of anklets (_nūpurāṇāṃ ca ghoṣeṇa_), with the tinkling of girdles (_kāñcīnāṃ niḥsvanena ca_), and with the resonant beats of _mṛdaṅga_ drum-heads (_mṛdaṅgatalanirghoṣair ghoṣavadbhir vināditam_).
 </details>
 </details>
 
@@ -1978,7 +1978,7 @@ enclosures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hanūmān entered that great palace (praviveśa mahāgṛham), which was joined with clusters of lofty pavilions (prāsādasaṃghātayutam), thronged with hundreds of jewel-like women (strīratnaśatasaṃkulam), and laid out with spacious courtyards (suvyūḍhakakṣyam).
+Hanūmān entered that great palace (_praviveśa mahāgṛham_), which was joined with clusters of lofty pavilions (_prāsādasaṃghātayutam_), thronged with hundreds of jewel-like women (_strīratnaśatasaṃkulam_), and laid out with spacious courtyards (_suvyūḍhakakṣyam_).
 </details>
 </details>
 

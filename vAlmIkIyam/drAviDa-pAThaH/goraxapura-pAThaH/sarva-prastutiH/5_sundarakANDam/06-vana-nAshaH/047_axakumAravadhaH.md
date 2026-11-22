@@ -95,7 +95,7 @@ to fighting as well as sitting in front of him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that the five army commanders (senāpatīn pañca) had been slain (pramāpitān) by Hanūmān along with their followers and mounts, the king looked intently (prasamaikṣata) at Prince Akṣa, who sat before him (akṣam) eager and proud for battle (samaroddhatonmukham).
+Hearing that the five army commanders (_senāpatīn pañca_) had been slain (_pramāpitān_) by Hanūmān along with their followers and mounts, the king looked intently (_prasamaikṣata_) at Prince Akṣa, who sat before him (_akṣam_) eager and proud for battle (_samaroddhatonmukham_).
 </details>
 </details>
 
@@ -155,7 +155,7 @@ to it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by the casting of his [father's] glance (dṛṣṭyarpaṇasampracoditaḥ), that valorous prince with his wondrous golden bow sprang up (samutpapāta) at once, like the sacrificial fire (pāvakaḥ) kindled with oblations by chief twice-born priests in the assembly (sadasi).
+Impelled by the casting of his [father&#x27;s] glance (_dṛṣṭyarpaṇasampracoditaḥ_), that valorous prince with his wondrous golden bow sprang up (_samutpapāta_) at once, like the sacrificial fire (_pāvakaḥ_) kindled with oblations by chief twice-born priests in the assembly (_sadasi_).
 </details>
 </details>
 
@@ -215,7 +215,7 @@ monkey.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that great and valiant bull among Rākṣasas (nairṛtarṣabhaḥ), mounting a chariot that shone like the newly risen sun (bāladivākaraprabham) and was overlaid with lattices ofrefined gold (prataptajāmbūnadajālasaṃtatam), set forth toward that great monkey.
+Then that great and valiant bull among Rākṣasas (_nairṛtarṣabhaḥ_), mounting a chariot that shone like the newly risen sun (_bāladivākaraprabham_) and was overlaid with lattices ofrefined gold (_prataptajāmbūnadajālasaṃtatam_), set forth toward that great monkey.
 </details>
 </details>
 
@@ -357,11 +357,11 @@ shining like rays of sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Then [mounting that chariot] won through an accumulated store of asceticism (tapaḥsaṃgrahasaṃcayārjitam), ornamented with lattices of refined gold, bearing pennants (patākinam) and a jewel-decked banner, and well-yoked with eight peerless steeds swift as thought (manojavāṣṭāśvavaraiḥ)—
+**4:** Then [mounting that chariot] won through an accumulated store of asceticism (_tapaḥsaṃgrahasaṃcayārjitam_), ornamented with lattices of refined gold, bearing pennants (_patākinam_) and a jewel-decked banner, and well-yoked with eight peerless steeds swift as thought (_manojavāṣṭāśvavaraiḥ_)—
 
-**5:** Unassailable by gods or Asuras (surāsurādhṛṣyam), moving unimpeded (asaṅgacāriṇam), flashing like lightning, coursing through the sky (vyomacaram), well-equipped, furnished with quivers (satūṇam), its frame bound with eight swords (aṣṭāsinibaddhabandhuram), and stocked in due order with javelins and lances (yathākramāveśitaśaktitomaram)—
+**5:** Unassailable by gods or Asuras (_surāsurādhṛṣyam_), moving unimpeded (_asaṅgacāriṇam_), flashing like lightning, coursing through the sky (_vyomacaram_), well-equipped, furnished with quivers (_satūṇam_), its frame bound with eight swords (_aṣṭāsinibaddhabandhuram_), and stocked in due order with javelins and lances (_yathākramāveśitaśaktitomaram_)—
 
-**6:** Resplendent with complete martial gear (pratipūrṇavastunā) together with golden cords (sahemadāmnā) and gleaming like the moon and the sun (śaśisūryavarcasā)—having mounted that sun-bright chariot, he of valor equal to the immortals went forth.
+**6:** Resplendent with complete martial gear (_pratipūrṇavastunā_) together with golden cords (_sahemadāmnā_) and gleaming like the moon and the sun (_śaśisūryavarcasā_)—having mounted that sun-bright chariot, he of valor equal to the immortals went forth.
 </details>
 </details>
 
@@ -434,7 +434,7 @@ together with his army, approached the efficient Hanuma the great monkey, standi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filling the sky and the mountain-girt earth (mahīṃ ca sācalām) with the din of steeds, elephants, and great chariots, he approached with his assembled forces that capable (samartham) monkey seated upon the archway (sahatoraṇasthitam).
+Filling the sky and the mountain-girt earth (_mahīṃ ca sācalām_) with the din of steeds, elephants, and great chariots, he approached with his assembled forces that capable (_samartham_) monkey seated upon the archway (_sahatoraṇasthitam_).
 </details>
 </details>
 
@@ -499,7 +499,7 @@ him with a great esteem.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching that monkey who stood like the doomsday fire (yugāntakālāgnim iva) at the destruction of creatures, lion-eyed (harīkṣaṇaḥ) Akṣa, astonished and stirred with excitement (vismitajātasaṃbhramam), regarded him with an eye of high esteem (bahumānacakṣuṣā).
+Approaching that monkey who stood like the doomsday fire (_yugāntakālāgnim iva_) at the destruction of creatures, lion-eyed (_harīkṣaṇaḥ_) Akṣa, astonished and stirred with excitement (_vismitajātasaṃbhramam_), regarded him with an eye of high esteem (_bahumānacakṣuṣā_).
 </details>
 </details>
 
@@ -565,7 +565,7 @@ like the sun when the frost is faded away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pondering (vicārayan) the speed of that great-souled monkey and his valor among foes, as well as his own strength, that mighty son of Rāvaṇa grew in radiance (abhivardhata) like the sun at the end of a world-age (yugakṣaye).
+Pondering (_vicārayan_) the speed of that great-souled monkey and his valor among foes, as well as his own strength, that mighty son of Rāvaṇa grew in radiance (_abhivardhata_) like the sun at the end of a world-age (_yugakṣaye_).
 </details>
 </details>
 
@@ -630,7 +630,7 @@ three sharp arrows towards him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with wrath (jātamanyuḥ) upon beholding his valor, standing firm and resolute (sthitaḥ sthiraḥ) and concentrative of mind (samāhitātmā), he challenged (pracodayāmāsa) Hanūmān, who was hard to check in battle (saṃyati durnivāraṇam), with three sharp arrows.
+Filled with wrath (_jātamanyuḥ_) upon beholding his valor, standing firm and resolute (_sthitaḥ sthiraḥ_) and concentrative of mind (_samāhitātmā_), he challenged (_pracodayāmāsa_) Hanūmān, who was hard to check in battle (_saṃyati durnivāraṇam_), with three sharp arrows.
 </details>
 </details>
 
@@ -695,7 +695,7 @@ mind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding that monkey proud (garvitam), unwearied (jitaśramam), worthy of vanquishing foes (śatruparājayocitam), and elated in mind (samudīrṇamānasam), Akṣa looked upon him, holding arrows in hand and grasping his bow (pragṛhītakārmukaḥ).
+Then, beholding that monkey proud (_garvitam_), unwearied (_jitaśramam_), worthy of vanquishing foes (_śatruparājayocitam_), and elated in mind (_samudīrṇamānasam_), Akṣa looked upon him, holding arrows in hand and grasping his bow (_pragṛhītakārmukaḥ_).
 </details>
 </details>
 
@@ -755,7 +755,7 @@ demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with a golden chest-medallion, armlets, and lovely earrings (hemaniṣkāṅgadacārukuṇḍalaḥ), he of swift valor closed with the monkey; between those two arose a peerless encounter (apratimaḥ samāgamaḥ) that inspired awe even in the gods and Asuras (surāsurāṇām api saṃbhramapradaḥ).
+Adorned with a golden chest-medallion, armlets, and lovely earrings (_hemaniṣkāṅgadacārukuṇḍalaḥ_), he of swift valor closed with the monkey; between those two arose a peerless encounter (_apratimaḥ samāgamaḥ_) that inspired awe even in the gods and Asuras (_surāsurāṇām api saṃbhramapradaḥ_).
 </details>
 </details>
 
@@ -829,7 +829,7 @@ was agitated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The earth cried out (rarāsa bhūmiḥ), the sun did not blaze, the wind did not blow, and the mountain trembled; [beholding] the valorous combat (vīryasaṃyugam) of the monkey and the prince, the sky resounded and the ocean surged (udadhiś ca cukṣubhe).
+The earth cried out (_rarāsa bhūmiḥ_), the sun did not blaze, the wind did not blow, and the mountain trembled; [beholding] the valorous combat (_vīryasaṃyugam_) of the monkey and the prince, the sky resounded and the ocean surged (_udadhiś ca cukṣubhe_).
 </details>
 </details>
 
@@ -895,7 +895,7 @@ having golden shafts and feathers and which resembled venomous serpants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that hero, conversant with the true principles of aiming, nocking, and releasing (samādhisaṃyogavimokṣatattvavit), struck (atāḍayat) three gold-feathered (suvarṇapuṅkhān), fine-tipped winged arrows—like venomous serpents—upon the monkey's head.
+Then that hero, conversant with the true principles of aiming, nocking, and releasing (_samādhisaṃyogavimokṣatattvavit_), struck (_atāḍayat_) three gold-feathered (_suvarṇapuṅkhān_), fine-tipped winged arrows—like venomous serpents—upon the monkey&#x27;s head.
 </details>
 </details>
 
@@ -961,7 +961,7 @@ the sun surrounded by a circle of rays, having the arrows as its rays.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Streaming blood (kṣaran) from those arrows planted simultaneously upon his head, with his rolling eyes smeared with blood (asṛgdigdhavivṛttanetraḥ), he shone like the newly risen sun (navoditādityanibhaḥ), having arrows for rays (śarāṃśumān) like the ray-garlanded sun (āditya ivāṃśumālikaḥ).
+Streaming blood (_kṣaran_) from those arrows planted simultaneously upon his head, with his rolling eyes smeared with blood (_asṛgdigdhavivṛttanetraḥ_), he shone like the newly risen sun (_navoditādityanibhaḥ_), having arrows for rays (_śarāṃśumān_) like the ray-garlanded sun (_āditya ivāṃśumālikaḥ_).
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ to fight, grew in size.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that foremost counselor of the lord of monkeys (plavaṅgādhipamantrisattamaḥ), beholding that son of the best of kings in battle with his uplifted wondrous weapons and wondrous bow, rejoiced and expanded in bulk (āpūryata), eager for combat (āhavonmukhaḥ).
+Then that foremost counselor of the lord of monkeys (_plavaṅgādhipamantrisattamaḥ_), beholding that son of the best of kings in battle with his uplifted wondrous weapons and wondrous bow, rejoiced and expanded in bulk (_āpūryata_), eager for combat (_āhavonmukhaḥ_).
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ vehicles, by the rays of fire emnating from his eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with strength and valor and with his wrath heightened (vivṛddhakopaḥ), he, like the ray-garlanded sun standing on the crest of Mount Mandara (mandarāgrastha ivāṃśumālī), scorched (dadāha) Prince Akṣa along with his troops and mounts with the fire-rays of his eyes (netrāgnimarīcibhiḥ).
+Endowed with strength and valor and with his wrath heightened (_vivṛddhakopaḥ_), he, like the ray-garlanded sun standing on the crest of Mount Mandara (_mandarāgrastha ivāṃśumālī_), scorched (_dadāha_) Prince Akṣa along with his troops and mounts with the fire-rays of his eyes (_netrāgnimarīcibhiḥ_).
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ rain on a high mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in battle that Rākṣasa-cloud (rākṣasāmbudaḥ), having his bow for Indra's rainbow (bāṇāsanaśakrakārmukaḥ) and arrows for his torrential rain (śarapravarṣaḥ), swiftly loosed arrows upon the mountain that was the lord of monkeys (harīśvarācale), as a storm-cloud pours rain upon the foremost of mountains.
+Then in battle that Rākṣasa-cloud (_rākṣasāmbudaḥ_), having his bow for Indra&#x27;s rainbow (_bāṇāsanaśakrakārmukaḥ_) and arrows for his torrential rain (_śarapravarṣaḥ_), swiftly loosed arrows upon the mountain that was the lord of monkeys (_harīśvarācale_), as a storm-cloud pours rain upon the foremost of mountains.
 </details>
 </details>
 
@@ -1230,7 +1230,7 @@ roared with joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding in battle that Prince Akṣa of fierce valor in war (raṇacaṇḍavikramam), whose fiery energy, strength, valor, and arrows had surged (pravṛddhatejobalavīryasāyakam), the monkey roared with joy (nanāda harṣāt), his voice matching the thundercloud (ghanatulyaniḥsvanaḥ).
+Beholding in battle that Prince Akṣa of fierce valor in war (_raṇacaṇḍavikramam_), whose fiery energy, strength, valor, and arrows had surged (_pravṛddhatejobalavīryasāyakam_), the monkey roared with joy (_nanāda harṣāt_), his voice matching the thundercloud (_ghanatulyaniḥsvanaḥ_).
 </details>
 </details>
 
@@ -1296,7 +1296,7 @@ a well covered with heaps of straw.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proud of his valor in battle out of youthful rashness (bālabhāvāt), his wrath heightened and his eyes resembling blood (kṣatajopamekṣaṇaḥ), he approached the peerless monkey in battle just as an elephant [approaches] a great pit covered over with grass (mahākūpam ivāvṛtaṃ tṛṇaiḥ).
+Proud of his valor in battle out of youthful rashness (_bālabhāvāt_), his wrath heightened and his eyes resembling blood (_kṣatajopamekṣaṇaḥ_), he approached the peerless monkey in battle just as an elephant [approaches] a great pit covered over with grass (_mahākūpam ivāvṛtaṃ tṛṇaiḥ_).
 </details>
 </details>
 
@@ -1360,7 +1360,7 @@ quickly to the sky assuming a terrible sight, stretching out his arms and thighs
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck forcibly by the arrows loosed by that [prince], he uttered a roar sounding like thunder (ghananādaniḥsvanaḥ), swiftly shattering the sky (nabhaḥ samārujan) with great ardor (samutsahena) and looking dreadful from the flinging about of his arms and thighs (bhujoruvikṣepaṇaghoradarśanaḥ).
+Struck forcibly by the arrows loosed by that [prince], he uttered a roar sounding like thunder (_ghananādaniḥsvanaḥ_), swiftly shattering the sky (_nabhaḥ samārujan_) with great ardor (_samutsahena_) and looking dreadful from the flinging about of his arms and thighs (_bhujoruvikṣepaṇaghoradarśanaḥ_).
 </details>
 </details>
 
@@ -1426,7 +1426,7 @@ on a mountian.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he leaped up, that mighty and valorous foremost of Rākṣasas, a chariot-warrior supreme among chariot-fighters (rathī rathaśreṣṭhataraḥ), pursued (samabhidravat) him, showering him with arrows just as a cloud [pelts] a mountain with showers of hailstones (aśmavṛṣṭibhiḥ).
+As he leaped up, that mighty and valorous foremost of Rākṣasas, a chariot-warrior supreme among chariot-fighters (_rathī rathaśreṣṭhataraḥ_), pursued (_samabhidravat_) him, showering him with arrows just as a cloud [pelts] a mountain with showers of hailstones (_aśmavṛṣṭibhiḥ_).
 </details>
 </details>
 
@@ -1492,7 +1492,7 @@ arrows, moved in the path visited by wind (the sky).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rendering those arrows of his futile (vimokṣayan), that heroic monkey coursed along the wind-trodden path (pathi vāyusevite), darting forth like the wind through the spaces between the arrows (śarāntare), swift as thought and of terrible valor in battle.
+Rendering those arrows of his futile (_vimokṣayan_), that heroic monkey coursed along the wind-trodden path (_pathi vāyusevite_), darting forth like the wind through the spaces between the arrows (_śarāntare_), swift as thought and of terrible valor in battle.
 </details>
 </details>
 
@@ -1558,7 +1558,7 @@ and became thoughful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The son of the Wind looked with an eye of high esteem (bahumānacakṣuṣā) upon Akṣa, who held his bow drawn, eager for battle, and was covering the sky (kham āstṛṇantam) with diverse excellent arrows; and he fell into thought (jagāma cintām).
+The son of the Wind looked with an eye of high esteem (_bahumānacakṣuṣā_) upon Akṣa, who held his bow drawn, eager for battle, and was covering the sky (_kham āstṛṇantam_) with diverse excellent arrows; and he fell into thought (_jagāma cintām_).
 </details>
 </details>
 
@@ -1631,7 +1631,7 @@ his adversary in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with his chest between the arms pierced (bhinnabhujāntaraḥ) by arrows by that foremost and great-souled prince, the mighty-armed monkey, roaring and conversant with the true nature of special martial deeds (karmaviśeṣatattvavit), pondered his valor in battle:
+Then, with his chest between the arms pierced (_bhinnabhujāntaraḥ_) by arrows by that foremost and great-souled prince, the mighty-armed monkey, roaring and conversant with the true nature of special martial deeds (_karmaviśeṣatattvavit_), pondered his valor in battle:
 </details>
 </details>
 
@@ -1695,7 +1695,7 @@ as a mature youth. My mind is not conceding here to kill him, who is distinguish
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Shining like the newly risen sun (bāladivākaraprabhaḥ), this mighty one performs a great feat unlike a boy (abālavat); and my mind does not incline here right now toward slaying (pramāpaṇe) this one who excels in all deeds of war (sarvāhavakarmaśālinaḥ).
+“Shining like the newly risen sun (_bāladivākaraprabhaḥ_), this mighty one performs a great feat unlike a boy (_abālavat_); and my mind does not incline here right now toward slaying (_pramāpaṇe_) this one who excels in all deeds of war (_sarvāhavakarmaśālinaḥ_).
 </details>
 </details>
 
@@ -1756,7 +1756,7 @@ Nagas the serpent-demons and Yakshas the semi-dviine being."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This one is great-souled, great in valor (mahāṃś ca vīryataḥ), composed (samāhitaḥ), and most enduring (atisahaḥ) in battle; undoubtedly, from the rising excellence of his martial deeds (karmaguṇodayāt), this one is honored by sages along with Nāgas and Yakṣas.
+This one is great-souled, great in valor (_mahāṃś ca vīryataḥ_), composed (_samāhitaḥ_), and most enduring (_atisahaḥ_) in battle; undoubtedly, from the rising excellence of his martial deeds (_karmaguṇodayāt_), this one is honored by sages along with Nāgas and Yakṣas.
 </details>
 </details>
 
@@ -1821,7 +1821,7 @@ demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his mind swelled by valor and martial ardor (parākramotsāhavivṛddhamānasaḥ), he looks upon me, standing foremost (pramukhaḥ) in front; for the valor of this swift-acting warrior (śīghrakāriṇaḥ) would shake the minds even of gods and Asuras!
+With his mind swelled by valor and martial ardor (_parākramotsāhavivṛddhamānasaḥ_), he looks upon me, standing foremost (_pramukhaḥ_) in front; for the valor of this swift-acting warrior (_śīghrakāriṇaḥ_) would shake the minds even of gods and Asuras!
 </details>
 </details>
 
@@ -1886,7 +1886,7 @@ battle. The only option left out for me is to kill him now. It is not proper to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If ignored (upekṣitaḥ), this one will surely not fail to overpower (na khalv ayaṃ nābhibhavet) [me], for his valor increases in battle; therefore slaying him (pramāpaṇaṃ hy asya) pleases me today—a growing fire cannot safely be ignored (na vardhamāno 'gnir upekṣituṃ kṣamaḥ)!”
+If ignored (_upekṣitaḥ_), this one will surely not fail to overpower (_na khalv ayaṃ nābhibhavet_) [me], for his valor increases in battle; therefore slaying him (_pramāpaṇaṃ hy asya_) pleases me today—a growing fire cannot safely be ignored (_na vardhamāno &#x27;gnir upekṣituṃ kṣamaḥ_)!”
 </details>
 </details>
 
@@ -1960,7 +1960,7 @@ and also made up his mind to kill him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus reckoning (tarkayan) the impetuous might (pravegam) of his foe and contriving his own tactical course of action (svakarmayogaṃ ca vidhāya), that valiant and mighty one then put forth his speed (cakāra vegam) and resolved upon his slaying at that moment.
+Thus reckoning (_tarkayan_) the impetuous might (_pravegam_) of his foe and contriving his own tactical course of action (_svakarmayogaṃ ca vidhāya_), that valiant and mighty one then put forth his speed (_cakāra vegam_) and resolved upon his slaying at that moment.
 </details>
 </details>
 
@@ -2026,7 +2026,7 @@ while turning to different directions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With blows of his open palm (talaprahāraiḥ) along the wind-trodden sky, that heroic monkey, the son of the Wind, slew (jaghāna) those eight peerless, great steeds of his, well-trained (samāhitān) and able to bear the load in wheeling maneuvers (vivartane).
+With blows of his open palm (_talaprahāraiḥ_) along the wind-trodden sky, that heroic monkey, the son of the Wind, slew (_jaghāna_) those eight peerless, great steeds of his, well-trained (_samāhitān_) and able to bear the load in wheeling maneuvers (_vivartane_).
 </details>
 </details>
 
@@ -2091,7 +2091,7 @@ the sky to the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, struck by his palm and vanquished by the counselor of the lord of tawny monkeys (piṅgādhipamantrinirjitaḥ), that great chariot of his, with its interior shattered (bhagnanīḍaḥ), its pole wrenched awry (parivṛttakūbaraḥ), and its horses slain, fell from the sky to the earth.
+Then, struck by his palm and vanquished by the counselor of the lord of tawny monkeys (_piṅgādhipamantrinirjitaḥ_), that great chariot of his, with its interior shattered (_bhagnanīḍaḥ_), its pole wrenched awry (_parivṛttakūbaraḥ_), and its horses slain, fell from the sky to the earth.
 </details>
 </details>
 
@@ -2157,7 +2157,7 @@ to heaven because of his Yogic penance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abandoning that chariot, that great chariot-warrior, holding bow and sword (sakārmukaḥ khaḍgadharaḥ), sprang up into the sky (kham utpatan), like a sage of fierce ascetic energy (ṛṣir ugravīryavān) rising to the abode of the gods (marutām ivālayam) after casting off his body through the power of austerity (tapo'bhiyogāt).
+Abandoning that chariot, that great chariot-warrior, holding bow and sword (_sakārmukaḥ khaḍgadharaḥ_), sprang up into the sky (_kham utpatan_), like a sage of fierce ascetic energy (_ṛṣir ugravīryavān_) rising to the abode of the gods (_marutām ivālayam_) after casting off his body through the power of austerity (_tapo&#x27;bhiyogāt_).
 </details>
 </details>
 
@@ -2223,7 +2223,7 @@ supernatural powers, slowly grasped his feet firmly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, overtaking (sametya) him as he coursed through the sky frequented by Garuḍa, the Wind, and Siddhas (patatrirājānilasiddhasevite), the monkey of wind-swift valor (mārutavegavikramaḥ) in due course seized him firmly by the feet (jagrāha ca pādayor dṛḍham).
+Then, overtaking (_sametya_) him as he coursed through the sky frequented by Garuḍa, the Wind, and Siddhas (_patatrirājānilasiddhasevite_), the monkey of wind-swift valor (_mārutavegavikramaḥ_) in due course seized him firmly by the feet (_jagrāha ca pādayor dṛḍham_).
 </details>
 </details>
 
@@ -2292,7 +2292,7 @@ in the battle, hurled him down to the floor rapidly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whirling him around (samāvidhya) a thousand times, like the lord of birds (aṇḍajeśvaraḥ) seizing (gṛhya) a great serpent (mahoragam), that foremost of monkeys, matching his father in valor (pitṛtulyavikramaḥ), hurled (mumoca) him with force onto the surface of the earth in battle.
+Whirling him around (_samāvidhya_) a thousand times, like the lord of birds (_aṇḍajeśvaraḥ_) seizing (_gṛhya_) a great serpent (_mahoragam_), that foremost of monkeys, matching his father in valor (_pitṛtulyavikramaḥ_), hurled (_mumoca_) him with force onto the surface of the earth in battle.
 </details>
 </details>
 
@@ -2356,7 +2356,7 @@ his joints displaced and his sinews shattered, that demon was killed by Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his arms, thighs, hips, and chest shattered (bhagnabāhūrukaṭīpayodharaḥ), streaming blood (kṣarann asṛk), his bones and eyes crushed (nirmathitāsthilocanaḥ), his joints riven (saṃbhinnasaṃdhiḥ), and his fastenings scattered (pravikīrṇabandhanaḥ), the Rākṣasa lay slain upon the earth by the son of the Wind.
+With his arms, thighs, hips, and chest shattered (_bhagnabāhūrukaṭīpayodharaḥ_), streaming blood (_kṣarann asṛk_), his bones and eyes crushed (_nirmathitāsthilocanaḥ_), his joints riven (_saṃbhinnasaṃdhiḥ_), and his fastenings scattered (_pravikīrṇabandhanaḥ_), the Rākṣasa lay slain upon the earth by the son of the Wind.
 </details>
 </details>
 
@@ -2434,7 +2434,7 @@ the serpent-demons and by celestials with Indra the lord of celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushing him down (nipīḍya) upon the surface of the earth, the great monkey caused great fear to the lord of Rākṣasas (rakṣo'dhipater mahad bhayam). When the prince was slain, that monkey was gazed upon (nirīkṣitaḥ) by assembled great sages coursing with the wheel of the stars (cakracaraiḥ), by beings gathered with Yakṣas and serpents, and by the gods with Indra, filled with deep amazement (bhṛśajātavismayaiḥ).
+Crushing him down (_nipīḍya_) upon the surface of the earth, the great monkey caused great fear to the lord of Rākṣasas (_rakṣo&#x27;dhipater mahad bhayam_). When the prince was slain, that monkey was gazed upon (_nirīkṣitaḥ_) by assembled great sages coursing with the wheel of the stars (_cakracaraiḥ_), by beings gathered with Yakṣas and serpents, and by the gods with Indra, filled with deep amazement (_bhṛśajātavismayaiḥ_).
 </details>
 </details>
 
@@ -2506,7 +2506,7 @@ way again, like Yama the lord of death expecting in a moment any mortal getting 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain in battle that blood-eyed Prince Akṣa, who resembled the son of the thunderbolt-wielder Indra (vajrisutopamam), the hero betook himself to that very archway (tad eva toraṇam), awaiting the moment (kṛtakṣaṇaḥ) like Time at the destruction of creatures.
+Having slain in battle that blood-eyed Prince Akṣa, who resembled the son of the thunderbolt-wielder Indra (_vajrisutopamam_), the hero betook himself to that very archway (_tad eva toraṇam_), awaiting the moment (_kṛtakṣaṇaḥ_) like Time at the destruction of creatures.
 </details>
 </details>
 

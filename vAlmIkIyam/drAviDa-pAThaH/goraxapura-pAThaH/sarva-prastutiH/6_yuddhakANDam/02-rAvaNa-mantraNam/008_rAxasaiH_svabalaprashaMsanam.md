@@ -68,7 +68,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the heroic rākṣasa commander-in-chief (senāpatiḥ) named Prahasta, dark as a blue storm-cloud (nīlāmbudaprakhyaḥ), joined his palms in reverence and spoke these words:
+Then the heroic rākṣasa commander-in-chief (_senāpatiḥ_) named Prahasta, dark as a blue storm-cloud (_nīlāmbudaprakhyaḥ_), joined his palms in reverence and spoke these words:
 </details>
 </details>
 
@@ -123,7 +123,7 @@ battle. Why to talk about two human beings?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gods, dānavas, and gandharvas, piśācas, birds, and serpents—all of them can be overpowered [by us] in battle; how much more two mere mortals (kiṃ punar mānavau raṇe)!
+“Gods, dānavas, and gandharvas, piśācas, birds, and serpents—all of them can be overpowered [by us] in battle; how much more two mere mortals (_kiṃ punar mānavau raṇe_)!
 </details>
 </details>
 
@@ -175,7 +175,7 @@ cannot go alive, while I am alive."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because we were all heedless (pramattāḥ) and unsuspecting (viśvastāḥ), we were hoodwinked by Hanūmān; while I live, that forest-roamer (vanagocaraḥ) shall never depart alive!
+“Because we were all heedless (_pramattāḥ_) and unsuspecting (_viśvastāḥ_), we were hoodwinked by Hanūmān; while I live, that forest-roamer (_vanagocaraḥ_) shall never depart alive!
 </details>
 </details>
 
@@ -227,7 +227,7 @@ forests and woods, bereft of monkeys. You command me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All the earth bounded by the ocean (sāgaraparyantām), with its mountains, forests, and groves, I shall render devoid of vānaras (avānarām); let Your Majesty command me!
+“All the earth bounded by the ocean (_sāgaraparyantām_), with its mountains, forests, and groves, I shall render devoid of vānaras (_avānarām_); let Your Majesty command me!
 </details>
 </details>
 
@@ -280,7 +280,7 @@ will come to you on account of your guilt (abduction of Seetha)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I shall establish a defense (rakṣāṃ vidhāsyāmi) against the vānara, O night-stalker; not the slightest sorrow born of your own transgression (ātmāparādhajam) shall befall you.”
+“And I shall establish a defense (_rakṣāṃ vidhāsyāmi_) against the vānara, O night-stalker; not the slightest sorrow born of your own transgression (_ātmāparādhajam_) shall befall you.”
 </details>
 </details>
 
@@ -332,7 +332,7 @@ humiliation meted out to us by that monkey is indeed not to be tolerated."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the rākṣasa named Durmukha, filled with fierce wrath (susaṃkruddhaḥ), spoke: “This outrage (pradharṣaṇam) against us all is truly not to be endured (na kṣamaṇīyam)!
+Then the rākṣasa named Durmukha, filled with fierce wrath (_susaṃkruddhaḥ_), spoke: “This outrage (_pradharṣaṇam_) against us all is truly not to be endured (_na kṣamaṇīyam_)!
 </details>
 </details>
 
@@ -392,7 +392,7 @@ on the glorious Ravana are still outrageous."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, this humiliation (paribhavaḥ) of our city and of the inner apartments (antaḥpurasya ca), and the outraging of the glorious lord of rākṣasas by a vānara—[cannot be brooked]!
+“Moreover, this humiliation (_paribhavaḥ_) of our city and of the inner apartments (_antaḥpurasya ca_), and the outraging of the glorious lord of rākṣasas by a vānara—[cannot be brooked]!
 </details>
 </details>
 
@@ -445,7 +445,7 @@ entered the ocean or the subterranean region or the sky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Going forth alone this very instant (asmin muhūrte), I shall drive back the vānaras (nivartiṣyāmi vānarān), even if they have entered the dreadful ocean, the sky, or Rasātala!”
+“Going forth alone this very instant (_asmin muhūrte_), I shall drive back the vānaras (_nivartiṣyāmi vānarān_), even if they have entered the dreadful ocean, the sky, or Rasātala!”
 </details>
 </details>
 
@@ -501,7 +501,7 @@ terrific iron club smeared with flesh and blood and spoke (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty Vajradaṃṣṭra, filled with fierce wrath, grasped his dreadful iron-bound club (parighaṃ ghoram) smeared with flesh and blood (māṃsaśoṇita-rūṣitam) and spoke:
+Then the mighty Vajradaṃṣṭra, filled with fierce wrath, grasped his dreadful iron-bound club (_parighaṃ ghoram_) smeared with flesh and blood (_māṃsaśoṇita-rūṣitam_) and spoke:
 </details>
 </details>
 
@@ -554,7 +554,7 @@ Lakshmana and Sugreeva who are difficult to be conquered exist?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What business have we with that wretched, pitiable Hanūmān (kṛpaṇena tapasvinā), while the unassailable Rāma remains alive along with Sugrīva and Lakṣmaṇa?
+“What business have we with that wretched, pitiable Hanūmān (_kṛpaṇena tapasvinā_), while the unassailable Rāma remains alive along with Sugrīva and Lakṣmaṇa?
 </details>
 </details>
 
@@ -610,7 +610,7 @@ perturbing the army of monkeys, I shall come back."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, single-handed, I shall slay Rāma along with Sugrīva and Lakṣmaṇa with this club, rout the monkey host (vikṣobhya harivāhinīm), and return!
+“Today, single-handed, I shall slay Rāma along with Sugrīva and Lakṣmaṇa with this club, rout the monkey host (_vikṣobhya harivāhinīm_), and return!
 </details>
 </details>
 
@@ -663,7 +663,7 @@ stratagem alone will be without lassitude and can indeed defeat the enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or listen to this other proposal of mine (idam mamāparaṃ vākyam), O King, if it pleases you; for one skilled in stratagems (upāyakuśalaḥ) and free from sloth surely conquers his foes.
+“Or listen to this other proposal of mine (_idam mamāparaṃ vākyam_), O King, if it pleases you; for one skilled in stratagems (_upāyakuśalaḥ_) and free from sloth surely conquers his foes.
 </details>
 </details>
 
@@ -744,11 +744,11 @@ forces and will surely come here soon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “Let thousands of resolute rākṣasas (rākṣasā vā sahasrāṇi niścitāḥ), capable of assuming any form at will (kāmarūpadharāḥ), heroic, most dreadful, and of terrifying aspect, O lord of rākṣasas,
+**13:** “Let thousands of resolute rākṣasas (_rākṣasā vā sahasrāṇi niścitāḥ_), capable of assuming any form at will (_kāmarūpadharāḥ_), heroic, most dreadful, and of terrifying aspect, O lord of rākṣasas,
 
-**14:** “approach Kākutstha wearing human form (bibhrato mānuṣaṃ vapuḥ), and, altogether free of agitation (asambhramā bhūtvā), let them all say to the noblest of the Raghus:
+**14:** “approach Kākutstha wearing human form (_bibhrato mānuṣaṃ vapuḥ_), and, altogether free of agitation (_asambhramā bhūtvā_), let them all say to the noblest of the Raghus:
 
-**15:** “‘We have been sent by Bharata himself, your younger brother (bhrātrā tava yavīyasā); for having mobilized an army (senāṃ samutthāpya), he is swiftly marching hither!’
+**15:** “‘We have been sent by Bharata himself, your younger brother (_bhrātrā tava yavīyasā_); for having mobilized an army (_senāṃ samutthāpya_), he is swiftly marching hither!’
 </details>
 </details>
 
@@ -800,7 +800,7 @@ will quickly go there from here soon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then let us speed hence from here (ito vayam tūrṇaṃ tvaritās tatra yāmahe), bearing pikes, lances, and maces, with bows, arrows, and swords in hand;
+“Then let us speed hence from here (_ito vayam tūrṇaṃ tvaritās tatra yāmahe_), bearing pikes, lances, and maces, with bows, arrows, and swords in hand;
 </details>
 </details>
 
@@ -853,7 +853,7 @@ of stones and missiles, we should send them to the world of Death."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“stationing ourselves in troops in the sky (ākāśe gaṇaśaḥ sthitvā) and striking down that monkey host, let us dispatch them to the abode of Yama with a mighty rain of stones and weapons (aśmaśastra-mahāvṛṣṭyā)!
+“stationing ourselves in troops in the sky (_ākāśe gaṇaśaḥ sthitvā_) and striking down that monkey host, let us dispatch them to the abode of Yama with a mighty rain of stones and weapons (_aśmaśastra-mahāvṛṣṭyā_)!
 </details>
 </details>
 
@@ -915,7 +915,7 @@ cloud, joined his palms in salutation and spoke these words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If Rāma and Lakṣmaṇa thus walk into this trap of ill-policy (upasarpetām anayam), through that misstep (apanītena) they will surely forfeit their lives (jahatām eva jīvitam)!”
+“If Rāma and Lakṣmaṇa thus walk into this trap of ill-policy (_upasarpetām anayam_), through that misstep (_apanītena_) they will surely forfeit their lives (_jahatām eva jīvitam_)!”
 </details>
 </details>
 
@@ -975,7 +975,7 @@ angry and spoke (as follows) to Ravana, who made people cry.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kumbhakarṇa's heroic and valiant son (kaumbhakarṇiḥ) named Nikumbha, filled with supreme wrath, spoke to Rāvaṇa, the terror of the worlds (lokarāvaṇam):
+Then Kumbhakarṇa&#x27;s heroic and valiant son (_kaumbhakarṇiḥ_) named Nikumbha, filled with supreme wrath, spoke to Rāvaṇa, the terror of the worlds (_lokarāvaṇam_):
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ Lakshman, Sugreeva along with Hanuma and all the monkeys also.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let all of you remain here in the company of the great King (mahārājena saṃgatāḥ); I alone shall slay Rāghava together with Lakṣmaṇa,
+“Let all of you remain here in the company of the great King (_mahārājena saṃgatāḥ_); I alone shall slay Rāghava together with Lakṣmaṇa,
 </details>
 </details>
 
@@ -1088,7 +1088,7 @@ licking the corners of his mouth with his tongue, spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“as well as Sugrīva along with Hanūmān, and all the vānaras here!” Then the mountain-like rākṣasa (rākṣasaḥ parvatopamaḥ) named Vajrahanu,
+“as well as Sugrīva along with Hanūmān, and all the vānaras here!” Then the mountain-like rākṣasa (_rākṣasaḥ parvatopamaḥ_) named Vajrahanu,
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ licking the corners of his mouth with his tongue, spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-enraged and licking the corners of his mouth with his tongue (parilihan sṛkkāṃ jihvayā), spoke these words: “Let Your Honors perform your duties at will, free from feverish anxiety (vigatajvarāḥ)!
+enraged and licking the corners of his mouth with his tongue (_parilihan sṛkkāṃ jihvayā_), spoke these words: “Let Your Honors perform your duties at will, free from feverish anxiety (_vigatajvarāḥ_)!
 </details>
 </details>
 
@@ -1195,7 +1195,7 @@ Angada and all monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “Single-handed, I shall devour that entire monkey host (bhakṣayiṣyāmi tāṃ sarvāṃ harivāhinīm)! Let everyone sport at ease free of care and drink honeyed Vāruṇī wine (pibantu madhu vāruṇīm)!
+**23:** “Single-handed, I shall devour that entire monkey host (_bhakṣayiṣyāmi tāṃ sarvāṃ harivāhinīm_)! Let everyone sport at ease free of care and drink honeyed Vāruṇī wine (_pibantu madhu vāruṇīm_)!
 
 **24:** “I alone shall slay Sugrīva together with Lakṣmaṇa, and Hanūmān along with Aṅgada, and all the vānaras here!”
 </details>

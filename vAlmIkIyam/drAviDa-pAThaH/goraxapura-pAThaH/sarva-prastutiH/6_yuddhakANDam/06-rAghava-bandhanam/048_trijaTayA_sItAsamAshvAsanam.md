@@ -60,7 +60,7 @@ Beholding Rāma and mighty Lakṣmaṇa lying felled upon the battlefield, grief
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing her husband (bhartāram) and Lakṣmaṇa of mighty strength (mahābalam) struck down (nihatam), Sītā, wasted by grief (śokakarśitā), lamented (vilalāpa) bitterly and piteously (karuṇam).
+Seeing her husband (_bhartāram_) and Lakṣmaṇa of mighty strength (_mahābalam_) struck down (_nihatam_), Sītā, wasted by grief (_śokakarśitā_), lamented (_vilalāpa_) bitterly and piteously (_karuṇam_).
 </details>
 </details>
 
@@ -114,7 +114,7 @@ untrue."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those interpreters of bodily marks (lākṣaṇikāḥ) who declared of me, ‘She shall bear sons (putriṇī) and never become a widow (avidhavā),’—now that Rāma is slain, all those wise men (jñāninaḥ) are speakers of falsehood (anṛtavādinaḥ).
+“Those interpreters of bodily marks (_lākṣaṇikāḥ_) who declared of me, ‘She shall bear sons (_putriṇī_) and never become a widow (_avidhavā_),’—now that Rāma is slain, all those wise men (_jñāninaḥ_) are speakers of falsehood (_anṛtavādinaḥ_).
 </details>
 </details>
 
@@ -168,7 +168,7 @@ proved to be utteres of falsehood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those who called me the consecrated queen (mahiṣīm) of a performer of sacrifices (yajvanaḥ) and the ritual consort (patnīm) of a celebrant of great Soma sessions (satriṇaḥ)—now that Rāma is slain, all those wise men are speakers of falsehood.
+Those who called me the consecrated queen (_mahiṣīm_) of a performer of sacrifices (_yajvanaḥ_) and the ritual consort (_patnīm_) of a celebrant of great Soma sessions (_satriṇaḥ_)—now that Rāma is slain, all those wise men are speakers of falsehood.
 </details>
 </details>
 
@@ -224,7 +224,7 @@ honoured by my husband as well as the wives of warriors and kings, are proved to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those who knew me as one honored by her husband (bhartṛpūjitām) [foremost] among the wives of heroic kings (vīrapārthivapatnīnām)—now that Rāma is slain, all those wise men are speakers of falsehood.
+Those who knew me as one honored by her husband (_bhartṛpūjitām_) [foremost] among the wives of heroic kings (_vīrapārthivapatnīnām_)—now that Rāma is slain, all those wise men are speakers of falsehood.
 </details>
 </details>
 
@@ -277,7 +277,7 @@ openly foretold that I should remain happy with my husband are proved to have sp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those twice-born astrologers (dvijāḥ kārtāntikāḥ) who within my hearing (saṃśravaṇe) pronounced me auspiciously blessed (śubhām)—now that Rāma is slain, all those wise men are speakers of falsehood.
+Those twice-born astrologers (_dvijāḥ kārtāntikāḥ_) who within my hearing (_saṃśravaṇe_) pronounced me auspiciously blessed (_śubhām_)—now that Rāma is slain, all those wise men are speakers of falsehood.
 </details>
 </details>
 
@@ -332,7 +332,7 @@ consecrated on an imperial throne with their husbands and lords."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon [my] two feet (pādayoḥ) are indeed these lotus-marks (padmāni), [by which] noblewomen (kulastriyaḥ) are consecrated in supreme sovereignty (ādhirājye) alongside their royal husbands (narendraiḥ patibhiḥ saha).
+Upon [my] two feet (_pādayoḥ_) are indeed these lotus-marks (_padmāni_), [by which] noblewomen (_kulastriyaḥ_) are consecrated in supreme sovereignty (_ādhirājye_) alongside their royal husbands (_narendraiḥ patibhiḥ saha_).
 </details>
 </details>
 
@@ -393,7 +393,7 @@ ill-starred and as I examine, all the auspicious signs appear to be rendered voi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as I examine myself (paśyantī), I do not behold upon my own body (ātmanaḥ) those inauspicious marks (alakṣaṇaiḥ) by which women bereft of good fortune (bhāgyadurlabhāḥ) fall into widowhood (vaidhavyam); [yet] my auspicious marks are ruined (hatalakṣaṇā).
+Even as I examine myself (_paśyantī_), I do not behold upon my own body (_ātmanaḥ_) those inauspicious marks (_alakṣaṇaiḥ_) by which women bereft of good fortune (_bhāgyadurlabhāḥ_) fall into widowhood (_vaidhavyam_); [yet] my auspicious marks are ruined (_hatalakṣaṇā_).
 </details>
 </details>
 
@@ -446,7 +446,7 @@ meaningless, now that Rama is slain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those lotus-marks (padmāni) of women, declared by the science of signs (lakṣaṇaiḥ) to be true to their name (satyanāmāni), have today become fruitless (vitathāni) for me, now that Rāma is slain.
+Those lotus-marks (_padmāni_) of women, declared by the science of signs (_lakṣaṇaiḥ_) to be true to their name (_satyanāmāni_), have today become fruitless (_vitathāni_) for me, now that Rāma is slain.
 </details>
 </details>
 
@@ -502,7 +502,7 @@ are hair-less and well rounded. My teeth are contiguous, without any gaps betwee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My hair (keśāḥ) is fine, even, and dark-blue; my eyebrows (bhruvau) do not meet (asaṃhate); my shanks (jaṅghe) are rounded and hairless (aromake); and my teeth (dantāḥ) are closely set without gaps (aviralāḥ).
+My hair (_keśāḥ_) is fine, even, and dark-blue; my eyebrows (_bhruvau_) do not meet (_asaṃhate_); my shanks (_jaṅghe_) are rounded and hairless (_aromake_); and my teeth (_dantāḥ_) are closely set without gaps (_aviralāḥ_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ well-proportioned. My fingers have well-rounded and glossy nails, having a right
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My temples (śaṅkhe), eyes (netre), hands, feet, ankles (gulphau), and thighs (ūrū) are symmetrical (samau) and well-fleshed (citau); and my fingers and toes (aṅgulayaḥ) are glossy, well-proportioned, and set with rounded nails (anuvṛttanakhāḥ).
+My temples (_śaṅkhe_), eyes (_netre_), hands, feet, ankles (_gulphau_), and thighs (_ūrū_) are symmetrical (_samau_) and well-fleshed (_citau_); and my fingers and toes (_aṅgulayaḥ_) are glossy, well-proportioned, and set with rounded nails (_anuvṛttanakhāḥ_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ navel is deeply idented. My flanks and bossom are well-formed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My breasts (stanau) are close-set (aviralau), full (pīnau), and have sunken nipples (magnacūcukau); my navel (nābhiḥ) is deep (magnā) with a raised surrounding rim (utsedhanī); and my flanks and bosom (pārśvoraskam) are well-developed (citam).
+My breasts (_stanau_) are close-set (_aviralau_), full (_pīnau_), and have sunken nipples (_magnacūcukau_); my navel (_nābhiḥ_) is deep (_magnā_) with a raised surrounding rim (_utsedhanī_); and my flanks and bosom (_pārśvoraskam_) are well-developed (_citam_).
 </details>
 </details>
 
@@ -662,7 +662,7 @@ ten toes and two soles).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My complexion (varṇaḥ) gleams like a gem (maṇinibhaḥ), and the hairs of my body (aṅgaruhāṇi) are soft; [because I stand] firmly planted upon twelve points (dvādaśabhiḥ pratiṣṭhitām), they pronounced me endowed with auspicious marks (śubhalakṣaṇām).
+My complexion (_varṇaḥ_) gleams like a gem (_maṇinibhaḥ_), and the hairs of my body (_aṅgaruhāṇi_) are soft; [because I stand] firmly planted upon twelve points (_dvādaśabhiḥ pratiṣṭhitām_), they pronounced me endowed with auspicious marks (_śubhalakṣaṇām_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ fingers and toes and that my smile is gentle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Because my hands and feet (pāṇipādam) bear complete barley-grain lines (samagrayavam), have no gaps between the digits (acchidram), and possess a lustrous hue (varṇavat), the examiners of maidens’ signs (kanyālākṣaṇikāḥ) knew me as one ever endowed with a gentle smile (mandasmitā).
+Because my hands and feet (_pāṇipādam_) bear complete barley-grain lines (_samagrayavam_), have no gaps between the digits (_acchidram_), and possess a lustrous hue (_varṇavat_), the examiners of maidens’ signs (_kanyālākṣaṇikāḥ_) knew me as one ever endowed with a gentle smile (_mandasmitā_).
 </details>
 </details>
 
@@ -777,7 +777,7 @@ consecrated on the imperial throne along with my husband -proved to be in vain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My consecration (abhiṣekaḥ) in supreme sovereignty (ādhirājye) alongside my husband was foretold by Brāhmaṇas skilled in astrological science (kṛtāntakuśalaiḥ); all that has now been rendered false (vitathīkṛtam).
+My consecration (_abhiṣekaḥ_) in supreme sovereignty (_ādhirājye_) alongside my husband was foretold by Brāhmaṇas skilled in astrological science (_kṛtāntakuśalaiḥ_); all that has now been rendered false (_vitathīkṛtam_).
 </details>
 </details>
 
@@ -831,7 +831,7 @@ small puddle)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having cleared Janasthāna [of Rākṣasas], having obtained news (pravṛttim) [of me], and having crossed the imperturbable ocean (sāgaram akṣobhyam), the two brothers have been slain in a mere cow’s-hoof puddle (goṣpade)!
+Having cleared Janasthāna [of Rākṣasas], having obtained news (_pravṛttim_) [of me], and having crossed the imperturbable ocean (_sāgaram akṣobhyam_), the two brothers have been slain in a mere cow’s-hoof puddle (_goṣpade_)!
 </details>
 </details>
 
@@ -902,7 +902,7 @@ emaiated through grief and lamented pitiably (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Did not the two Rāghavas (rāghavau) master (pratyapadyata) the missiles (astram) of Varuṇa, Agni, Indra, and Vāyu, as well as the Brahmaśiras (brahmaśiraḥ)?
+Did not the two Rāghavas (_rāghavau_) master (_pratyapadyata_) the missiles (_astram_) of Varuṇa, Agni, Indra, and Vāyu, as well as the _Brahmaśiras_ (_brahmaśiraḥ_)?
 </details>
 </details>
 
@@ -955,7 +955,7 @@ protectors, who are equal to Indra in battle and I am now bereft of any support.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By an unseen foe (adṛśyamānena) in battle through illusion (māyayā), Rāma and Lakṣmaṇa, equal to Indra (vāsavopamau) and the protectors of me who am now protectorless (anāthāyāḥ), have been struck down!
+By an unseen foe (_adṛśyamānena_) in battle through illusion (_māyayā_), Rāma and Lakṣmaṇa, equal to Indra (_vāsavopamau_) and the protectors of me who am now protectorless (_anāthāyāḥ_), have been struck down!
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ eventhough he were endowed with the swiftness of thought."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For no enemy (ripuḥ), having come within range of Rāghava’s sight (dṛṣṭipatham) in battle, could ever return alive (jīvan pratinivarteta), even if he were swift as thought (manojavaḥ).
+For no enemy (_ripuḥ_), having come within range of Rāghava’s sight (_dṛṣṭipatham_) in battle, could ever return alive (_jīvan pratinivarteta_), even if he were swift as thought (_manojavaḥ_).
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ are lying struck down on the battle-field. Fate is inexorable."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nothing is too heavy a burden (atibhāraḥ) for Time (kālasya), and Destiny (kṛtāntaḥ) is utterly invincible (sudurjayaḥ), inasmuch as (yatra) Rāma lies felled (śete nipātitaḥ) in battle alongside his brother!
+Nothing is too heavy a burden (_atibhāraḥ_) for Time (_kālasya_), and Destiny (_kṛtāntaḥ_) is utterly invincible (_sudurjayaḥ_), inasmuch as (_yatra_) Rāma lies felled (_śete nipātitaḥ_) in battle alongside his brother!
 </details>
 </details>
 
@@ -1149,9 +1149,9 @@ exile in the forest for fourteen years)?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** I do not grieve so much for Rāma, nor for the great chariot-warrior Lakṣmaṇa, nor for myself, nor even for my own mother (jananīm), as I do for my poor mother-in-law (śvaśrūm tapasvinīm) [Kausalyā]!
+**20:** I do not grieve so much for Rāma, nor for the great chariot-warrior Lakṣmaṇa, nor for myself, nor even for my own mother (_jananīm_), as I do for my poor mother-in-law (_śvaśrūm tapasvinīm_) [Kausalyā]!
 
-**21:** For she continually ponders (cintayate nityam) over him whose vow of exile is nearing completion (samāptavratam): ‘When shall I behold Sītā, Lakṣmaṇa, and Rāghava returned (āgatam)?’”
+**21:** For she continually ponders (_cintayate nityam_) over him whose vow of exile is nearing completion (_samāptavratam_): ‘When shall I behold Sītā, Lakṣmaṇa, and Rāghava returned (_āgatam_)?’”
 </details>
 </details>
 
@@ -1204,7 +1204,7 @@ lady! Do not despair. Your husband, Rama is still living."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To her who was lamenting thus (paridevayamānām), the Rākṣasa woman Trijaṭā spoke: “Do not give way to despair (mā viṣādaṃ kṛthāḥ), O queen! This husband of yours lives (jīvati)!
+To her who was lamenting thus (_paridevayamānām_), the Rākṣasa woman Trijaṭā spoke: “Do not give way to despair (_mā viṣādaṃ kṛthāḥ_), O queen! This husband of yours lives (_jīvati_)!
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ Rama and Lakshmana are living."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall declare to you weighty (mahānti) and fitting (sadṛśāni) reasons (kāraṇāni), O queen, whereby these two brothers, Rāma and Lakṣmaṇa, are both alive (jīvataḥ).
+I shall declare to you weighty (_mahānti_) and fitting (_sadṛśāni_) reasons (_kāraṇāni_), O queen, whereby these two brothers, Rāma and Lakṣmaṇa, are both alive (_jīvataḥ_).
 </details>
 </details>
 
@@ -1305,7 +1305,7 @@ never seized by anger nor are they animated with joy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For when their leader is slain (nihate patau) in battle, the faces of warriors (yodhānām mukhāni) do not become filled with wrathful resolve (kopaparītāni) and eager with martial ardor (harṣaparyutsukāni).
+For when their leader is slain (_nihate patau_) in battle, the faces of warriors (_yodhānām mukhāni_) do not become filled with wrathful resolve (_kopaparītāni_) and eager with martial ardor (_harṣaparyutsukāni_).
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ have brought you here, if those two heroes have lost their lives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This celestial aerial chariot (divyam vimānam), O Vaidehī, is known by the name Puṣpaka (puṣpakaṃ nāma nāmataḥ); it would not bear you aloft (tvāṃ dhārayen nedam) if these two were bereft of life (gatajīvitau).
+This celestial aerial chariot (_divyam vimānam_), O Vaidehī, is known by the name _Puṣpaka_ (_puṣpakaṃ nāma nāmataḥ_); it would not bear you aloft (_tvāṃ dhārayen nedam_) if these two were bereft of life (_gatajīvitau_).
 </details>
 </details>
 
@@ -1446,9 +1446,9 @@ austerities!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** For an army (senā) whose foremost hero is slain (hatavīrapradhānā), losing all spirit (gatotsāhā) and bereft of exertion (nirudyamā), wanders aimlessly upon the battlefields (saṃkhyeṣu) like a ship upon the water with its rudder broken (hatakarṇeva naur jale).
+**26:** For an army (_senā_) whose foremost hero is slain (_hatavīrapradhānā_), losing all spirit (_gatotsāhā_) and bereft of exertion (_nirudyamā_), wanders aimlessly upon the battlefields (_saṃkhyeṣu_) like a ship upon the water with its rudder broken (_hatakarṇeva naur jale_).
 
-**27:** This army, however, unbewildered (asaṃbhrāntā) and free from panic (nirudvignā), O suffering lady (tapasvini), guards the two Kākutsthas (kākutsthau), who have been pointed out to you by me out of affection (prītyā).
+**27:** This army, however, unbewildered (_asaṃbhrāntā_) and free from panic (_nirudvignā_), O suffering lady (_tapasvini_), guards the two Kākutsthas (_kākutsthau_), who have been pointed out to you by me out of affection (_prītyā_).
 </details>
 </details>
 
@@ -1504,7 +1504,7 @@ are not dead. I am telling you this, on account of my affection for you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, take full heart (bhava suvisrabdhā) through these inferential signs (anumānaiḥ) that herald happiness (sukhodaiḥ): behold the two Kākutsthas unslain (ahatau)! Out of affection I tell you this.
+Therefore, take full heart (_bhava suvisrabdhā_) through these inferential signs (_anumānaiḥ_) that herald happiness (_sukhodaiḥ_): behold the two Kākutsthas unslain (_ahatau_)! Out of affection I tell you this.
 </details>
 </details>
 
@@ -1556,7 +1556,7 @@ conduct and natural gaiety, you have found a place in my heart!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-An untruth (anṛtam) has never before been spoken by me (noktapūrvaṃ me), nor shall I ever speak one, O Maithilī; because of your noble conduct and gentle disposition (cāritrasukhaśīlatvāt), you have entered into my heart (mano mama).
+An untruth (_anṛtam_) has never before been spoken by me (_noktapūrvaṃ me_), nor shall I ever speak one, O Maithilī; because of your noble conduct and gentle disposition (_cāritrasukhaśīlatvāt_), you have entered into my heart (_mano mama_).
 </details>
 </details>
 
@@ -1620,7 +1620,7 @@ battle. This is what I have observed and communicated to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-These two cannot be vanquished (na śakyau jetum) in battle even by the gods and Asuras together with Indra (sendrair api surāsuraiḥ); having beheld such a visible token (tādṛśaṃ darśanam), I have declared this to you (mayā codīritaṃ tava).
+These two cannot be vanquished (_na śakyau jetum_) in battle even by the gods and Asuras together with Indra (_sendrair api surāsuraiḥ_); having beheld such a visible token (_tādṛśaṃ darśanam_), I have declared this to you (_mayā codīritaṃ tava_).
 </details>
 </details>
 
@@ -1673,7 +1673,7 @@ deprived of their senses, thier beauty has not deserted them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold clearly (paśyasva), O Maithilī, this most wondrous sign (sumahac citram): though these two have fallen unconscious (visaṃjñau patitau) through the arrows (śaraiḥ), royal splendor (lakṣmīḥ) has not forsaken them (naiva vimuñcati)!
+Behold clearly (_paśyasva_), O Maithilī, this most wondrous sign (_sumahac citram_): though these two have fallen unconscious (_visaṃjñau patitau_) through the arrows (_śaraiḥ_), royal splendor (_lakṣmīḥ_) has not forsaken them (_naiva vimuñcati_)!
 </details>
 </details>
 
@@ -1726,7 +1726,7 @@ vanished, will be appearing with an appalling alteration".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commonly (prāyeṇa), upon the visible countenances (dṛśyamāneṣu vaktreṣu) of men whose life-span is spent (gatāyuṣām) and whose vital breath has departed (gatasattvānām), an extreme distortion (paraṃ vaikṛtam) appears.
+Commonly (_prāyeṇa_), upon the visible countenances (_dṛśyamāneṣu vaktreṣu_) of men whose life-span is spent (_gatāyuṣām_) and whose vital breath has departed (_gatasattvānām_), an extreme distortion (_paraṃ vaikṛtam_) appears.
 </details>
 </details>
 
@@ -1779,7 +1779,7 @@ It is impossible, now with the splendour seen in their faces, for Rama and Laksh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cast aside grief (śokam), sorrow (duḥkham), and delusion (moham), O daughter of Janaka (janakātmaje)! For the sake of Rāma and Lakṣmaṇa, it is impossible [for them] today to be lifeless (nādya śakyam ajīvitum).”
+Cast aside grief (_śokam_), sorrow (_duḥkham_), and delusion (_moham_), O daughter of Janaka (_janakātmaje_)! For the sake of Rāma and Lakṣmaṇa, it is impossible [for them] today to be lifeless (_nādya śakyam ajīvitum_).”
 </details>
 </details>
 
@@ -1840,7 +1840,7 @@ gods, with joined palms exclaimed, "May it be so."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing her words, Maithilī Sītā, resembling a daughter of the gods (surasutopamā), joined her palms in reverence (kṛtāñjaliḥ) and said to her, “So be it (evam astv iti)!”
+Hearing her words, Maithilī Sītā, resembling a daughter of the gods (_surasutopamā_), joined her palms in reverence (_kṛtāñjaliḥ_) and said to her, “So be it (_evam astv iti_)!”
 </details>
 </details>
 
@@ -1895,7 +1895,7 @@ sorrowful Seetha was caused by Trijata to enter Lanka once more.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, turning back (saṃnivartya) that aerial chariot Puṣpaka, swift as thought (manojavam), Trijaṭā brought the sorrowing (dīnā) Sītā back into Laṅkā itself (laṅkām eva praveśitā).
+Then, turning back (_saṃnivartya_) that aerial chariot _Puṣpaka_, swift as thought (_manojavam_), Trijaṭā brought the sorrowing (_dīnā_) Sītā back into Laṅkā itself (_laṅkām eva praveśitā_).
 </details>
 </details>
 
@@ -1947,7 +1947,7 @@ were caused by the female demons, to enter the Ashoka grove again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having alighted (avaruhya) from Puṣpaka together with Trijaṭā (trijaṭayā sārdham), she was escorted by the Rākṣasa women right back into the Aśoka grove (aśokavanikām eva).
+Then, having alighted (_avaruhya_) from _Puṣpaka_ together with Trijaṭā (_trijaṭayā sārdham_), she was escorted by the Rākṣasa women right back into the Aśoka grove (_aśokavanikām eva_).
 </details>
 </details>
 
@@ -2022,7 +2022,7 @@ Ravana and recalling the two princes who she had just seen, Seetha gave way to e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered that pleasure-ground (vihārabhūmim) of the lord of Rākṣasas, thick with groves of many trees (bahuvṛkṣakhaṇḍām), Sītā, recalling what she had seen (samprekṣya) and brooding upon (saṃcintya) the two royal princes (rājaputrau), fell again into supreme despondency (paraṃ viṣādam).
+Having entered that pleasure-ground (_vihārabhūmim_) of the lord of Rākṣasas, thick with groves of many trees (_bahuvṛkṣakhaṇḍām_), Sītā, recalling what she had seen (_samprekṣya_) and brooding upon (_saṃcintya_) the two royal princes (_rājaputrau_), fell again into supreme despondency (_paraṃ viṣādam_).
 </details>
 </details>
 

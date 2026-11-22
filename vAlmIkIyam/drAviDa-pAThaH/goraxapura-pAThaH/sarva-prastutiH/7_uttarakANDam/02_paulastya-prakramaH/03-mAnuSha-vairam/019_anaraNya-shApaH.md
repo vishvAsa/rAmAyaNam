@@ -48,7 +48,7 @@ After vanquishing Marutta, the battle-hungry Rāvaṇa demands combat or submiss
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having vanquished Marutta (jitvā maruttam), that sovereign of the rākṣasas (rākṣasādhipaḥ), Ten-Headed Rāvaṇa, eager for combat (yuddhakāṅkṣī daśānanaḥ), proceeded to the cities of the kings of men (nagarāṇi narendrāṇām).
+Then, having vanquished Marutta (_jitvā maruttam_), that sovereign of the rākṣasas (_rākṣasādhipaḥ_), Ten-Headed Rāvaṇa, eager for combat (_yuddhakāṅkṣī daśānanaḥ_), proceeded to the cities of the kings of men (_nagarāṇi narendrāṇām_).
 </details>
 </details>
 
@@ -88,9 +88,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Approaching great kings who rivaled Mahendra and Varuṇa (mahendra-varuṇopamān), that lord of rākṣasas spoke these words: “Let battle be granted to me (yuddhaṃ me dīyatām),
+**2:** Approaching great kings who rivaled Mahendra and Varuṇa (_mahendra-varuṇopamān_), that lord of rākṣasas spoke these words: “Let battle be granted to me (_yuddhaṃ me dīyatām_),
 
-**3:** “Or else declare, ‘We are vanquished’ (nirjitāḥ smeti vā brūta)—for this is my firm resolve (eṣa me hi suniścayaḥ)! For those who act otherwise (anyathā kurvatām), no release whatsoever is possible (mokṣo naivopapadyate).”
+**3:** “Or else declare, ‘We are vanquished’ (_nirjitāḥ smeti vā brūta_)—for this is my firm resolve (_eṣa me hi suniścayaḥ_)! For those who act otherwise (_anyathā kurvatām_), no release whatsoever is possible (_mokṣo naivopapadyate_).”
 </details>
 </details>
 
@@ -127,7 +127,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon those fearless, wise monarchs (abhīravaḥ prājñāḥ pārthivāḥ), steadfast in dharma (dharmaniścayāḥ) and endowed with exceeding might, having taken counsel with one another (mantrayitvā tato ’nyonyam), declared, “We are vanquished,” knowing the power of their adversary’s boon (jñātvā varabalaṃ ripoḥ).
+Thereupon those fearless, wise monarchs (_abhīravaḥ prājñāḥ pārthivāḥ_), steadfast in dharma (_dharmaniścayāḥ_) and endowed with exceeding might, having taken counsel with one another (_mantrayitvā tato ’nyonyam_), declared, “We are vanquished,” knowing the power of their adversary’s boon (_jñātvā varabalaṃ ripoḥ_).
 </details>
 </details>
 
@@ -158,7 +158,7 @@ Thereupon those fearless, wise monarchs (abhīravaḥ prājñāḥ pārthivāḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duṣyanta, Suratha, Gādhi, Gaya, and King Purūravas—all these kings declared, O dear one (tāta), “We are vanquished” (nirjitāḥ smeti). Then Rāvaṇa, lord of the rākṣasas, reached Ayodhyā (ayodhyāṃ samāsādya),
+Duṣyanta, Suratha, Gādhi, Gaya, and King Purūravas—all these kings declared, O dear one (_tāta_), “We are vanquished” (_nirjitāḥ smeti_). Then Rāvaṇa, lord of the rākṣasas, reached Ayodhyā (_ayodhyāṃ samāsādya_),
 </details>
 </details>
 
@@ -203,11 +203,11 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** —which was well guarded by Anaraṇya (suguptām anaraṇyena) as Amarāvatī is by Śakra (śakreṇevāmarāvatīm); and approaching that tiger among men (puruṣaśārdūlam), equal to Purandara in strength (purandara-samaṃ bale)—
+**6:** —which was well guarded by Anaraṇya (_suguptām anaraṇyena_) as Amarāvatī is by Śakra (_śakreṇevāmarāvatīm_); and approaching that tiger among men (_puruṣaśārdūlam_), equal to Purandara in strength (_purandara-samaṃ bale_)—
 
-**7:** —Rāvaṇa approached the king and spoke (prāha rājānam āsādya): “Grant me battle (yuddhaṃ dehi), or else say, ‘I am vanquished’ (nirjito ’smīti vā brūhi)—such is my decree to you (mama śāsanam)!”
+**7:** —Rāvaṇa approached the king and spoke (_prāha rājānam āsādya_): “Grant me battle (_yuddhaṃ dehi_), or else say, ‘I am vanquished’ (_nirjito ’smīti vā brūhi_)—such is my decree to you (_mama śāsanam_)!”
 
-**8:** Hearing those words of that wicked-souled one (pāpātmano vacaḥ), Ayodhyā’s sovereign Anaraṇya (ayodhyādhipatiḥ ... anaraṇyaḥ), filled with fierce wrath (saṅkruddhaḥ), thereupon addressed the lord of the rākṣasas:
+**8:** Hearing those words of that wicked-souled one (_pāpātmano vacaḥ_), Ayodhyā’s sovereign Anaraṇya (_ayodhyādhipatiḥ ... anaraṇyaḥ_), filled with fierce wrath (_saṅkruddhaḥ_), thereupon addressed the lord of the rākṣasas:
 </details>
 </details>
 
@@ -238,7 +238,7 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Single combat is granted to you by me (dīyate dvandva-yuddhaṃ te ... mayā), O sovereign of the rākṣasas! Stand fast at once and make yourself ready (santiṣṭha kṣipram āyatto bhava), and so too shall I be (caivaṃ bhavāmy aham)!”
+“Single combat is granted to you by me (_dīyate dvandva-yuddhaṃ te ... mayā_), O sovereign of the rākṣasas! Stand fast at once and make yourself ready (_santiṣṭha kṣipram āyatto bhava_), and so too shall I be (_caivaṃ bhavāmy aham_)!”
 </details>
 </details>
 
@@ -269,7 +269,7 @@ Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that vast army (sumahad balam) which had already been appointed for victory (pūrvaṃ śrutārthena nirjitam) by the king—who had previously heard news of Rāvaṇa—marched forth (niṣkrāmat), intent upon slaying the rākṣasa (rakṣo-vadhodyatam).
+Then that vast army (_sumahad balam_) which had already been appointed for victory (_pūrvaṃ śrutārthena nirjitam_) by the king—who had previously heard news of Rāvaṇa—marched forth (_niṣkrāmat_), intent upon slaying the rākṣasa (_rakṣo-vadhodyatam_).
 </details>
 </details>
 
@@ -300,7 +300,7 @@ Then that vast army (sumahad balam) which had already been appointed for victory
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ten thousand elephants (nāgānāṃ daśa-sāhasram), a hundred thousand steeds (vājināṃ niyutam), and many thousands of chariots and foot-soldiers (rathānāṃ bahu-sāhasraṃ pattīnāṃ ca), O foremost of men,
+Ten thousand elephants (_nāgānāṃ daśa-sāhasram_), a hundred thousand steeds (_vājināṃ niyutam_), and many thousands of chariots and foot-soldiers (_rathānāṃ bahu-sāhasraṃ pattīnāṃ ca_), O foremost of men,
 </details>
 </details>
 
@@ -333,7 +333,7 @@ Ten thousand elephants (nāgānāṃ daśa-sāhasram), a hundred thousand steeds
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—overspreading the earth (mahīṃ sañchādya), that force marched out with infantry and chariots into the fray (niṣkrāntaṃ sa-padāti-rathaṃ raṇe); and thereupon a stupendous battle began (pravṛttaṃ sumahad yuddham), O warrior skilled in war!
+—overspreading the earth (_mahīṃ sañchādya_), that force marched out with infantry and chariots into the fray (_niṣkrāntaṃ sa-padāti-rathaṃ raṇe_); and thereupon a stupendous battle began (_pravṛttaṃ sumahad yuddham_), O warrior skilled in war!
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Anaraṇya’s vast host perishes against Rāvaṇa’s force like oblations in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—a wondrous encounter between King Anaraṇya and the lord of rākṣasas (anaraṇyasya nṛpate rākṣasendrasya cādbhutam). Yet upon encountering Rāvaṇa’s host (tad rāvaṇa-balaṃ prāpya), the army of that lord of the earth
+—a wondrous encounter between King Anaraṇya and the lord of rākṣasas (_anaraṇyasya nṛpate rākṣasendrasya cādbhutam_). Yet upon encountering Rāvaṇa’s host (_tad rāvaṇa-balaṃ prāpya_), the army of that lord of the earth
 </details>
 </details>
 
@@ -403,7 +403,7 @@ Anaraṇya’s vast host perishes against Rāvaṇa’s force like oblations in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—all of it perished then (prāṇaśyata tadā sarvam), like an oblation poured into fire (havyaṃ hutam ivānale), though it had fought for a very long time (yuddhvā ca suciraṃ kālam) and displayed supreme valor (kṛtvā vikramam uttamam).
+—all of it perished then (_prāṇaśyata tadā sarvam_), like an oblation poured into fire (_havyaṃ hutam ivānale_), though it had fought for a very long time (_yuddhvā ca suciraṃ kālam_) and displayed supreme valor (_kṛtvā vikramam uttamam_).
 </details>
 </details>
 
@@ -440,9 +440,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Reaching that blazing foe (prajvalantaṃ tam āsādya), the swiftly diminished remnant (kṣipram evāvaśeṣitam) plunged into the tumult there (prāviśat saṅkulaṃ tatra) like moths into a fire (śalabhā iva pāvakam); and there the army perished like an oblation poured into flame.
+**15:** Reaching that blazing foe (_prajvalantaṃ tam āsādya_), the swiftly diminished remnant (_kṣipram evāvaśeṣitam_) plunged into the tumult there (_prāviśat saṅkulaṃ tatra_) like moths into a fire (_śalabhā iva pāvakam_); and there the army perished like an oblation poured into flame.
 
-**16:** Then that lord of men beheld his mighty host perishing (naśyamānaṃ mahābalam), like a hundred water-filled rivers (vanāpaga-śataṃ yathā) upon reaching the great ocean (mahārṇavaṃ samāsādya).
+**16:** Then that lord of men beheld his mighty host perishing (_naśyamānaṃ mahābalam_), like a hundred water-filled rivers (_vanāpaga-śataṃ yathā_) upon reaching the great ocean (_mahārṇavaṃ samāsādya_).
 </details>
 </details>
 
@@ -473,7 +473,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, twanging his own bow that resembled the bow of Śakra (śakra-dhanuḥ-prakhyam dhanur visphārayan svayam), the sovereign, overwhelmed with wrath (krodha-mūrcchitaḥ), advanced directly upon Rāvaṇa (āsasāda ... taṃ rāvaṇam).
+Thereupon, twanging his own bow that resembled the bow of Śakra (_śakra-dhanuḥ-prakhyam dhanur visphārayan svayam_), the sovereign, overwhelmed with wrath (_krodha-mūrcchitaḥ_), advanced directly upon Rāvaṇa (_āsasāda ... taṃ rāvaṇam_).
 </details>
 </details>
 
@@ -507,7 +507,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Broken by Anaraṇya (anaraṇyena ... bhagnāḥ), those ministers—Mārīca, Śuka, and Sāraṇa, together with Prahasta (prahasta-sahitāḥ)—fled in every direction like deer (vyadravanta mṛgā iva).
+Broken by Anaraṇya (_anaraṇyena ... bhagnāḥ_), those ministers—Mārīca, Śuka, and Sāraṇa, together with Prahasta (_prahasta-sahitāḥ_)—fled in every direction like deer (_vyadravanta mṛgā iva_).
 </details>
 </details>
 
@@ -546,7 +546,7 @@ Anaraṇya showers eight hundred shafts upon Rāvaṇa’s head, which strike ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that delight of the Ikṣvāku lineage (ikṣvāku-kula-nandanaḥ) let fall eight hundred arrows (bāṇa-śatāny aṣṭau pātayāmāsa) upon the head (mūrdhani) of that king of the rākṣasas.
+Thereupon that delight of the Ikṣvāku lineage (_ikṣvāku-kula-nandanaḥ_) let fall eight hundred arrows (_bāṇa-śatāny aṣṭau pātayāmāsa_) upon the head (_mūrdhani_) of that king of the rākṣasas.
 </details>
 </details>
 
@@ -577,7 +577,7 @@ Thereupon that delight of the Ikṣvāku lineage (ikṣvāku-kula-nandanaḥ) le
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet those falling shafts of his caused not a single wound anywhere (cakrire na kṣataṃ kvacit), like streams of rain falling from the clouds (vāridhārā ivābhrebhyaḥ) upon a mountain summit (giri-mūrdhani).
+Yet those falling shafts of his caused not a single wound anywhere (_cakrire na kṣataṃ kvacit_), like streams of rain falling from the clouds (_vāridhārā ivābhrebhyaḥ_) upon a mountain summit (_giri-mūrdhani_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ Yet those falling shafts of his caused not a single wound anywhere (cakrire na k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, struck upon the head with his open palm (talenābhihato mūrdhni) by the enraged king of the rākṣasas (rākṣasa-rājena kruddhena), that sovereign fell straightway from his chariot (sa rathān nipapāta ha).
+Then, struck upon the head with his open palm (_talenābhihato mūrdhni_) by the enraged king of the rākṣasas (_rākṣasa-rājena kruddhena_), that sovereign fell straightway from his chariot (_sa rathān nipapāta ha_).
 </details>
 </details>
 
@@ -639,7 +639,7 @@ Then, struck upon the head with his open palm (talenābhihato mūrdhni) by the e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fallen upon the earth (patito bhūmau), with limbs shattered and trembling (vihvalāṅgaḥ pravepitaḥ), that king lay like a sāla tree in the forest blasted by a thunderbolt (vajra-dagdha ivāraṇye sālo nipatito yathā).
+Fallen upon the earth (_patito bhūmau_), with limbs shattered and trembling (_vihvalāṅgaḥ pravepitaḥ_), that king lay like a _sāla_ tree in the forest blasted by a thunderbolt (_vajra-dagdha ivāraṇye sālo nipatito yathā_).
 </details>
 </details>
 
@@ -670,7 +670,7 @@ Fallen upon the earth (patito bhūmau), with limbs shattered and trembling (vihv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laughing aloud (prahasya), the rākṣasa spoke to that Ikṣvāku lord of the earth (ikṣvākuṃ pṛthivī-patim): “What fruit have you gained now (kim idānīṃ phalaṃ prāptam) by fighting against me (tvayā māṃ prati yudhyatā)?
+Laughing aloud (_prahasya_), the rākṣasa spoke to that Ikṣvāku lord of the earth (_ikṣvākuṃ pṛthivī-patim_): “What fruit have you gained now (_kim idānīṃ phalaṃ prāptam_) by fighting against me (_tvayā māṃ prati yudhyatā_)?
 </details>
 </details>
 
@@ -709,7 +709,7 @@ When Rāvaṇa boasts that none in the three worlds can match him and accuses An
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In all the three worlds there is none (trailokye nāsti) who could grant me single combat (yo dvandvaṃ mama dadyāt), O lord of men; engrossed in pleasures, I suppose (śaṅke prasakto bhogeṣu), you have not heard of my might (na śṛṇoṣi balaṃ mama).”
+“In all the three worlds there is none (_trailokye nāsti_) who could grant me single combat (_yo dvandvaṃ mama dadyāt_), O lord of men; engrossed in pleasures, I suppose (_śaṅke prasakto bhogeṣu_), you have not heard of my might (_na śṛṇoṣi balaṃ mama_).”
 </details>
 </details>
 
@@ -743,7 +743,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he spoke thus (tasyaivaṃ bruvataḥ), the king, with failing breath (mandāsuḥ), uttered these words: “What indeed can be done here (kiṃ śakyam iha kartuṃ vai), for Time is insurmountable (kālo hi duratikramaḥ)!
+As he spoke thus (_tasyaivaṃ bruvataḥ_), the king, with failing breath (_mandāsuḥ_), uttered these words: “What indeed can be done here (_kiṃ śakyam iha kartuṃ vai_), for Time is insurmountable (_kālo hi duratikramaḥ_)!
 </details>
 </details>
 
@@ -774,7 +774,7 @@ As he spoke thus (tasyaivaṃ bruvataḥ), the king, with failing breath (mandā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly, O rākṣasa, I have not been vanquished by you (na hy ahaṃ nirjito rakṣas tvayā), who boast of yourself (ātma-praśaṃsinā); by Time alone have I been struck down (kālenaiva vipanno ’ham), while you are merely the instrument for me (hetu-bhūtas tu me bhavān).
+“Truly, O rākṣasa, I have not been vanquished by you (_na hy ahaṃ nirjito rakṣas tvayā_), who boast of yourself (_ātma-praśaṃsinā_); by Time alone have I been struck down (_kālenaiva vipanno ’ham_), while you are merely the instrument for me (_hetu-bhūtas tu me bhavān_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ As he spoke thus (tasyaivaṃ bruvataḥ), the king, with failing breath (mandā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet what can I do now at the ebbing of my vital breaths (prāṇa-parikṣaye)? Assuredly, O rākṣasa, I did not turn my back in flight (na hy ahaṃ vimukhī), but was slain by you while fighting (yudhyamānas tvayā hataḥ).
+“Yet what can I do now at the ebbing of my vital breaths (_prāṇa-parikṣaye_)? Assuredly, O rākṣasa, I did not turn my back in flight (_na hy ahaṃ vimukhī_), but was slain by you while fighting (_yudhyamānas tvayā hataḥ_).
 </details>
 </details>
 
@@ -847,7 +847,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because you have insulted the line of Ikṣvāku (ikṣvāku-paribhāvitvāt), I shall utter a word, O rākṣasa (vaco vakṣyāmi rākṣasa): if I have given charity (yadi dattam), if I have offered oblations (yadi hutam), if my austerity has been well performed (yadi me sukṛtaṃ tapaḥ), and if my subjects have been rightly protected (yadi guptāḥ prajāḥ samyak), then let my word come true (tadā satyaṃ vaco ’stu me)!
+“Because you have insulted the line of Ikṣvāku (_ikṣvāku-paribhāvitvāt_), I shall utter a word, O rākṣasa (_vaco vakṣyāmi rākṣasa_): if I have given charity (_yadi dattam_), if I have offered oblations (_yadi hutam_), if my austerity has been well performed (_yadi me sukṛtaṃ tapaḥ_), and if my subjects have been rightly protected (_yadi guptāḥ prajāḥ samyak_), then let my word come true (_tadā satyaṃ vaco ’stu me_)!
 </details>
 </details>
 
@@ -880,7 +880,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this very lineage of the high-souled Ikṣvākus (kule hy asminn ikṣvākūṇāṃ mahātmanām) there shall be born (utpatsyate) one named Rāma, son of Daśaratha (rāmo dāśarathir nāma), who will take away your life-breaths (yas te prāṇān hariṣyati)!”
+“In this very lineage of the high-souled Ikṣvākus (_kule hy asminn ikṣvākūṇāṃ mahātmanām_) there shall be born (_utpatsyate_) one named Rāma, son of Daśaratha (_rāmo dāśarathir nāma_), who will take away your life-breaths (_yas te prāṇān hariṣyati_)!”
 </details>
 </details>
 
@@ -911,7 +911,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, as that curse was pronounced (tasminn udāhṛte śāpe), the celestial kettledrum was beaten, booming loud as a raincloud (jaladharodagras tāḍito deva-dundubhiḥ), and a shower of blossoms fell from the sky (puṣpa-vṛṣṭiś ca khāc cyutā).
+Thereupon, as that curse was pronounced (_tasminn udāhṛte śāpe_), the celestial kettledrum was beaten, booming loud as a raincloud (_jaladharodagras tāḍito deva-dundubhiḥ_), and a shower of blossoms fell from the sky (_puṣpa-vṛṣṭiś ca khāc cyutā_).
 </details>
 </details>
 
@@ -942,7 +942,7 @@ Thereupon, as that curse was pronounced (tasminn udāhṛte śāpe), the celesti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that king, O lord of kings (rājendra), departed to the abode of heaven (gataḥ sthānaṃ triviṣṭapam); and when that monarch had ascended to heaven (svargate ca nṛpe tasmin), that rākṣasa withdrew (rākṣasaḥ so ’pasarpata).
+Then that king, O lord of kings (_rājendra_), departed to the abode of heaven (_gataḥ sthānaṃ triviṣṭapam_); and when that monarch had ascended to heaven (_svargate ca nṛpe tasmin_), that rākṣasa withdrew (_rākṣasaḥ so ’pasarpata_).
 </details>
 </details>
 

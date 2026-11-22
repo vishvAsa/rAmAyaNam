@@ -48,7 +48,7 @@ Rising at dawn by the Keśinī, Lakṣmaṇa reaches prosperous Ayodhyā at midd
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed that night there by the Keśinī (tatra tāṃ rajanīm uṣya keśinyām), Lakṣmaṇa, delight of the Raghus (raghunandanaḥ), rose again at dawn (prabhāte punar utthāya) and then set forth (prayayau tadā).
+Having passed that night there by the Keśinī (_tatra tāṃ rajanīm uṣya keśinyām_), Lakṣmaṇa, delight of the Raghus (_raghunandanaḥ_), rose again at dawn (_prabhāte punar utthāya_) and then set forth (_prayayau tadā_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having passed that night there by the Keśinī (tatra tāṃ rajanīm uṣya ke�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when midday arrived (ardha-divase prāpte), that mighty chariot-warrior (mahārathaḥ) entered Ayodhyā, abounding in gems (ratna-sampūrṇām) and thronged with joyful, thriving citizens (hṛṣṭa-puṣṭa-janāvṛtām).
+Then, when midday arrived (_ardha-divase prāpte_), that mighty chariot-warrior (_mahārathaḥ_) entered Ayodhyā, abounding in gems (_ratna-sampūrṇām_) and thronged with joyful, thriving citizens (_hṛṣṭa-puṣṭa-janāvṛtām_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then, when midday arrived (ardha-divase prāpte), that mighty chariot-warrior (m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet the exceedingly wise Saumitri fell into utter dejection (paraṃ dainyaṃ jagāma sumahāmatiḥ), thinking: “Having arrived and approached Rāma’s feet (rāma-pādau samāsādya), what shall I say (vakṣyāmi kim ahaṃ gataḥ)?”
+Yet the exceedingly wise Saumitri fell into utter dejection (_paraṃ dainyaṃ jagāma sumahāmatiḥ_), thinking: “Having arrived and approached Rāma’s feet (_rāma-pādau samāsādya_), what shall I say (_vakṣyāmi kim ahaṃ gataḥ_)?”
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Yet the exceedingly wise Saumitri fell into utter dejection (paraṃ dainyaṃ j
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as he pondered thus (tasyaivaṃ cintayānasya), the supremely stately palace of Rāma (bhavanaṃ ... rāmasya paramodāram), radiant as the moon (śaśi-sannibham), came into view before him (purastāt samadṛśyata).
+Even as he pondered thus (_tasyaivaṃ cintayānasya_), the supremely stately palace of Rāma (_bhavanaṃ ... rāmasya paramodāram_), radiant as the moon (_śaśi-sannibham_), came into view before him (_purastāt samadṛśyata_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Even as he pondered thus (tasyaivaṃ cintayānasya), the supremely stately pala
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Descending from his excellent chariot (avatīrya rathottamāt) at the gateway of the king’s palace (rājñas tu bhavana-dvāri), with downcast face and heavy heart (avāṅmukho dīna-manāḥ), he entered unchecked (praviveśānivāritaḥ).
+Descending from his excellent chariot (_avatīrya rathottamāt_) at the gateway of the king’s palace (_rājñas tu bhavana-dvāri_), with downcast face and heavy heart (_avāṅmukho dīna-manāḥ_), he entered unchecked (_praviveśānivāritaḥ_).
 </details>
 </details>
 
@@ -215,9 +215,9 @@ Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** Looking upon Rāghava seated dejectedly upon his noble throne (dīnam āsīnaṃ paramāsane), he beheld his elder brother directly before him (dadarśāgrajam agrataḥ) with eyes brimming with tears (netrābhyām aśru-pūrṇābhyām).
+**6:** Looking upon Rāghava seated dejectedly upon his noble throne (_dīnam āsīnaṃ paramāsane_), he beheld his elder brother directly before him (_dadarśāgrajam agrataḥ_) with eyes brimming with tears (_netrābhyām aśru-pūrṇābhyām_).
 
-**7:** Lakṣmaṇa, downcast in spirit (dīna-cetanaḥ), clasped his feet (jagrāha caraṇau tasya), and with palms joined and mind composed (prāñjaliḥ susamāhitaḥ), spoke in a sorrowful voice (uvāca dīnayā vācā):
+**7:** Lakṣmaṇa, downcast in spirit (_dīna-cetanaḥ_), clasped his feet (_jagrāha caraṇau tasya_), and with palms joined and mind composed (_prāñjaliḥ susamāhitaḥ_), spoke in a sorrowful voice (_uvāca dīnayā vācā_):
 </details>
 </details>
 
@@ -252,9 +252,9 @@ Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “Having placed my elder brother’s command foremost (āryasyājñāṃ puraskṛtya), and having left the daughter of Janaka (visṛjya janakātmajām) on the bank of the Gaṅgā as directed (gaṅgā-tīre yathoddiṣṭe), at the pure hermitage of Vālmīki (vālmīker āśrame śucau)—
+**8:** “Having placed my elder brother’s command foremost (_āryasyājñāṃ puraskṛtya_), and having left the daughter of Janaka (_visṛjya janakātmajām_) on the bank of the Gaṅgā as directed (_gaṅgā-tīre yathoddiṣṭe_), at the pure hermitage of Vālmīki (_vālmīker āśrame śucau_)—
 
-**9:** “—having left that illustrious lady of auspicious conduct (śubhācārām ... yaśasvinīm) within the precincts of that hermitage (āśramānte), I have come back again, O hero (punar apy āgato vīra), to attend upon your feet (pāda-mūlam upāsitum).
+**9:** “—having left that illustrious lady of auspicious conduct (_śubhācārām ... yaśasvinīm_) within the precincts of that hermitage (_āśramānte_), I have come back again, O hero (_punar apy āgato vīra_), to attend upon your feet (_pāda-mūlam upāsitum_).
 </details>
 </details>
 
@@ -285,7 +285,7 @@ Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not grieve, O tiger among men (mā śucaḥ puruṣa-vyāghra), for such is the course of Time (kālasya gatir īdṛśī); wise and noble-minded men like yourself (tvadvidhā ... buddhimanto manasvinaḥ) do not indeed yield to sorrow (na hi śocanti).
+“Do not grieve, O tiger among men (_mā śucaḥ puruṣa-vyāghra_), for such is the course of Time (_kālasya gatir īdṛśī_); wise and noble-minded men like yourself (_tvadvidhā ... buddhimanto manasvinaḥ_) do not indeed yield to sorrow (_na hi śocanti_).
 </details>
 </details>
 
@@ -316,7 +316,7 @@ Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All accumulations end in exhaustion (sarve kṣayāntā nicayāḥ); all lofty elevations end in downfall (patanāntāḥ samucchrayāḥ); all unions end in separation (saṃyogā viprayogāntāḥ); and life itself ends in death (maraṇāntaṃ ca jīvitam).
+“All accumulations end in exhaustion (_sarve kṣayāntā nicayāḥ_); all lofty elevations end in downfall (_patanāntāḥ samucchrayāḥ_); all unions end in separation (_saṃyogā viprayogāntāḥ_); and life itself ends in death (_maraṇāntaṃ ca jīvitam_).
 </details>
 </details>
 
@@ -355,7 +355,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore excessive attachment should not be placed (nātiprasaṅgaḥ kartavyaḥ) in sons, wives, friends, or wealth (putreṣu dāreṣu mitreṣu ca dhaneṣu ca), for separation from them is assuredly certain (viprayogo hi tair dhruvam).
+“Therefore excessive attachment should not be placed (_nātiprasaṅgaḥ kartavyaḥ_) in sons, wives, friends, or wealth (_putreṣu dāreṣu mitreṣu ca dhaneṣu ca_), for separation from them is assuredly certain (_viprayogo hi tair dhruvam_).
 </details>
 </details>
 
@@ -386,7 +386,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are able by yourself to discipline yourself (śaktas tvam ātmanātmānaṃ vinetum) through your mind alone (manasaiva hi), and to guide all the worlds besides, O Kākutstha (lokān sarvāṃś ca kākutstha)—how much more your own sorrow (kiṃ punaḥ śokam ātmanaḥ)!
+“You are able by yourself to discipline yourself (_śaktas tvam ātmanātmānaṃ vinetum_) through your mind alone (_manasaiva hi_), and to guide all the worlds besides, O Kākutstha (_lokān sarvāṃś ca kākutstha_)—how much more your own sorrow (_kiṃ punaḥ śokam ātmanaḥ_)!
 </details>
 </details>
 
@@ -417,7 +417,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bulls among men like yourself (tvadvidhāḥ puruṣarṣabhāḥ) do not lose self-command in such trials (nedṛśeṣu vimuhyanti); indeed, that very reproach will come upon you once again, O Rāghava (apavādaḥ sa kila te punar eṣyati rāghava)!
+“Bulls among men like yourself (_tvadvidhāḥ puruṣarṣabhāḥ_) do not lose self-command in such trials (_nedṛśeṣu vimuhyanti_); indeed, that very reproach will come upon you once again, O Rāghava (_apavādaḥ sa kila te punar eṣyati rāghava_)!
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa rem
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very reproach out of fear of which Maithilī was abandoned, O monarch (yadarthaṃ maithilī tyaktā apavāda-bhayān nṛpa)—that reproach shall surely arise again in the city, O King, beyond all doubt (so ’pavādaḥ pure rājan bhaviṣyati na saṃśayaḥ)!
+“That very reproach out of fear of which Maithilī was abandoned, O monarch (_yadarthaṃ maithilī tyaktā apavāda-bhayān nṛpa_)—that reproach shall surely arise again in the city, O King, beyond all doubt (_so ’pavādaḥ pure rājan bhaviṣyati na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -487,7 +487,7 @@ Exhorted by Lakṣmaṇa to compose himself with fortitude and renounce weak-min
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O tiger among men (puruṣa-śārdūla), composed with steadfast fortitude (dhairyeṇa susamāhitaḥ), cast off this enfeebling frame of mind (tyajaināṃ durbalāṃ buddhim) and do not indulge in anguish (santāpaṃ mā kuruṣva ha)!”
+“Therefore, O tiger among men (_puruṣa-śārdūla_), composed with steadfast fortitude (_dhairyeṇa susamāhitaḥ_), cast off this enfeebling frame of mind (_tyajaināṃ durbalāṃ buddhim_) and do not indulge in anguish (_santāpaṃ mā kuruṣva ha_)!”
 </details>
 </details>
 
@@ -518,7 +518,7 @@ Exhorted by Lakṣmaṇa to compose himself with fortitude and renounce weak-min
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the high-souled Lakṣmaṇa (evam uktaḥ sa kākutstho lakṣmaṇena), Kākutstha, ever affectionate toward his friends (mitra-vatsalaḥ), replied to Saumitri with supreme delight (uvāca parayā prītyā):
+Thus addressed by the high-souled Lakṣmaṇa (_evam uktaḥ sa kākutstho lakṣmaṇena_), Kākutstha, ever affectionate toward his friends (_mitra-vatsalaḥ_), replied to Saumitri with supreme delight (_uvāca parayā prītyā_):
 </details>
 </details>
 
@@ -549,7 +549,7 @@ Thus addressed by the high-souled Lakṣmaṇa (evam uktaḥ sa kākutstho lak�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is just so, O foremost of men (evam etan nara-śreṣṭha), even as you say, O Lakṣmaṇa (yathā vadasi lakṣmaṇa)! Great is my satisfaction, O hero (paritoṣaś ca me vīra), in the execution of my appointed duty (mama kāryānuśāsane).
+“It is just so, O foremost of men (_evam etan nara-śreṣṭha_), even as you say, O Lakṣmaṇa (_yathā vadasi lakṣmaṇa_)! Great is my satisfaction, O hero (_paritoṣaś ca me vīra_), in the execution of my appointed duty (_mama kāryānuśāsane_).
 </details>
 </details>
 
@@ -591,7 +591,7 @@ Thus addressed by the high-souled Lakṣmaṇa (evam uktaḥ sa kākutstho lak�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Peaceful relief has come, O gentle one (nivṛttiś cāgatā saumya), and my anguish has been dispelled (santāpaś ca nirākṛtaḥ); by your exceedingly splendid words (bhavad-vākyaiḥ suruciraiḥ) I have been won over and consoled, O Lakṣmaṇa (anunīto ’smi lakṣmaṇa)!”
+“Peaceful relief has come, O gentle one (_nivṛttiś cāgatā saumya_), and my anguish has been dispelled (_santāpaś ca nirākṛtaḥ_); by your exceedingly splendid words (_bhavad-vākyaiḥ suruciraiḥ_) I have been won over and consoled, O Lakṣmaṇa (_anunīto ’smi lakṣmaṇa_)!”
 </details>
 </details>
 

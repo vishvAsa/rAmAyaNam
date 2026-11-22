@@ -471,7 +471,7 @@ how the purification from sin will be... [1-9-10b, 11a]
 
 **9:** `—and terrifying drought, striking fear into all living beings. When that drought has set in, the King, overwhelmed with grief—
 
-**10:** `—shall summon Brāhmaṇas grown old in sacred learning and say to them: "You are deeply versed in sacred rites and Dharma, and knowers of the ways and usages of the world—
+**10:** `—shall summon Brāhmaṇas grown old in sacred learning and say to them: &quot;You are deeply versed in sacred rites and Dharma, and knowers of the ways and usages of the world—
 </details>
 </details>
 
@@ -510,7 +510,7 @@ The Brāhmaṇas advise King Romapāda to bring Vibhāṇḍaka’s Veda-masteri
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Pray enjoin a sacred observance whereby expiation (Prāyaścitta) of my sin may be accomplished." Thus addressed by the King, all those foremost of Brāhmaṇas—
+`&quot;Pray enjoin a sacred observance whereby expiation (Prāyaścitta) of my sin may be accomplished.&quot; Thus addressed by the King, all those foremost of Brāhmaṇas—
 </details>
 </details>
 
@@ -585,9 +585,9 @@ give him your daughter Shanta in marriage to that Vedic Brahman and the son of S
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** `—those Brāhmaṇas who have crossed to the farthest shore of the Vedas shall say to the Lord of the Earth: "O King, by every possible means bring hither the son of Vibhāṇḍaka!
+**12:** `—those Brāhmaṇas who have crossed to the farthest shore of the Vedas shall say to the Lord of the Earth: &quot;O King, by every possible means bring hither the son of Vibhāṇḍaka!
 
-**13:** `"And having caused Ṛśyaśṛṅga—the son of Vibhāṇḍaka, a Brāhmaṇa who has mastered the Vedas—to be brought hither and reverently honored, O Protector of the Earth, bestow upon him in marriage your daughter Śāntā according to sacred rule, with a devoted and focused mind."
+**13:** `&quot;And having caused Ṛśyaśṛṅga—the son of Vibhāṇḍaka, a Brāhmaṇa who has mastered the Vedas—to be brought hither and reverently honored, O Protector of the Earth, bestow upon him in marriage your daughter Śāntā according to sacred rule, with a devoted and focused mind.&quot;
 </details>
 </details>
 
@@ -637,7 +637,7 @@ that self-controlled sage to his place... [1-9-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Hearing their words, the King shall fall into deep reflection: "By what stratagem can that ascetic of mighty spiritual energy be brought hither?"
+`Hearing their words, the King shall fall into deep reflection: &quot;By what stratagem can that ascetic of mighty spiritual energy be brought hither?&quot;
 </details>
 </details>
 
@@ -737,7 +737,7 @@ not go there as we are afraid of sage Vibhandaka, father of Rishyasringa...' [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Hearing the King's command, however, they shall be distressed and hang their heads in shame and fear; saying "Terrified of the sage Vibhāṇḍaka, we dare not go!" they shall conciliate that monarch—
+`Hearing the King&#x27;s command, however, they shall be distressed and hang their heads in shame and fear; saying &quot;Terrified of the sage Vibhāṇḍaka, we dare not go!&quot; they shall conciliate that monarch—
 </details>
 </details>
 
@@ -790,7 +790,7 @@ plan to bring that sage, 'we will fetch that Brahman and also by that no stigma 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`—and having reflected, they shall propose to him fitting stratagems capable of bringing him: "By these means we shall bring the Brāhmaṇa youth hither, and no fault or curse shall ensue!"
+`—and having reflected, they shall propose to him fitting stratagems capable of bringing him: &quot;By these means we shall bring the Brāhmaṇa youth hither, and no fault or curse shall ensue!&quot;
 </details>
 </details>
 
@@ -895,7 +895,7 @@ of Anga. Thus Sumantra's saying son-in-law also means Dasharatha's son-in-law, b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Ṛśyaśṛṅga, your son-in-law, shall procure sons for you! Thus much, as declared by Sanatkumāra, has been related by me.'
+`Ṛśyaśṛṅga, your son-in-law, shall procure sons for you! Thus much, as declared by Sanatkumāra, has been related by me.&#x27;
 </details>
 </details>
 
@@ -960,7 +960,7 @@ is brought to Anga kingdom, that shall be said elaborately..." [1-9-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Daśaratha, filled with joy, replied to Sumantra: `Tell me in full by what stratagem and in what manner Ṛśyaśṛṅga was brought!'
+Thereupon Daśaratha, filled with joy, replied to Sumantra: `Tell me in full by what stratagem and in what manner Ṛśyaśṛṅga was brought!&#x27;
 </details>
 </details>
 

@@ -83,7 +83,7 @@ tormented with grief and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that his father had passed away and that his two brothers had been banished (śrutvā tu pitaraṃ vṛttaṃ bhrātarau ca vivāsitau), Bharata, scorched with sorrow, spoke this word (bharato duḥkha-santapta idaṃ vacanam abravīt):
+Hearing that his father had passed away and that his two brothers had been banished (_śrutvā tu pitaraṃ vṛttaṃ bhrātarau ca vivāsitau_), Bharata, scorched with sorrow, spoke this word (_bharato duḥkha-santapta idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ is the use of a kingdom now to me, lamenting as I am with despair?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What use indeed is there with kingship for me, undone and grieving here (kiṃ nu kāryaṃ hatasyeha mama rājyena śocataḥ), bereft both of my father and of a brother equal to my father (vihīnasyātha pitrā ca bhrātrā pitṛ-samena ca)?
+“What use indeed is there with kingship for me, undone and grieving here (_kiṃ nu kāryaṃ hatasyeha mama rājyena śocataḥ_), bereft both of my father and of a brother equal to my father (_vihīnasyātha pitrā ca bhrātrā pitṛ-samena ca_)?
 </details>
 </details>
 
@@ -188,7 +188,7 @@ after another like sprinkling salt on a wound."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have heaped sorrow upon my sorrow and applied caustic salt, as it were, to a raw wound (duḥkhe me duḥkham akaror vraṇe kṣāram ivādadhāḥ), by reducing the king to the state of the departed and making Rāma an ascetic (rājānaṃ preta-bhāva-sthaṃ kṛtvā rāmaṃ ca tāpasam)!
+“You have heaped sorrow upon my sorrow and applied caustic salt, as it were, to a raw wound (_duḥkhe me duḥkham akaror vraṇe kṣāram ivādadhāḥ_), by reducing the king to the state of the departed and making Rāma an ascetic (_rājānaṃ preta-bhāva-sthaṃ kṛtvā rāmaṃ ca tāpasam_)!
 </details>
 </details>
 
@@ -240,7 +240,7 @@ end of the world. My father could not be aware of his embracing a live char-coal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have come for the destruction of this dynasty like the Night of Doomsday (kulasya tvam abhāvāya kāla-rātrir ivāgatā); my father did not realize that he had clasped a live coal to his bosom (aṅgāram upagūhya sma pitā me nāvabuddhavān)!
+“You have come for the destruction of this dynasty like the Night of Doomsday (_kulasya tvam abhāvāya kāla-rātrir ivāgatā_); my father did not realize that he had clasped a live coal to his bosom (_aṅgāram upagūhya sma pitā me nāvabuddhavān_)!
 </details>
 </details>
 
@@ -287,7 +287,7 @@ race unchaste! In this race, happiness is deserted through your ignorance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My father has been brought to his death by you, O woman of evil vision (mṛtyum āpādito pitā tvayā me pāpa-darśini), and through your delusion happiness has been banished from this house, O disgracer of your family (sukhaṃ parihṛtaṃ mohāt kule 'smin kula-pāṃsani)!
+“My father has been brought to his death by you, O woman of evil vision (_mṛtyum āpādito pitā tvayā me pāpa-darśini_), and through your delusion happiness has been banished from this house, O disgracer of your family (_sukhaṃ parihṛtaṃ mohāt kule &#x27;smin kula-pāṃsani_)!
 </details>
 </details>
 
@@ -340,7 +340,7 @@ died, tormented as he was with bitter grief, because of you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For having taken you to wife, my father King Daśaratha, true to his pledge and of great renown, has today passed away, scorched by fierce sorrow (tvāṃ prāpya hi pitā me 'dya satya-sandho mahā-yaśāḥ tīvra-duḥkhābhisantapto vṛtto daśaratho nṛpaḥ).
+“For having taken you to wife, my father King Daśaratha, true to his pledge and of great renown, has today passed away, scorched by fierce sorrow (_tvāṃ prāpya hi pitā me &#x27;dya satya-sandho mahā-yaśāḥ tīvra-duḥkhābhisantapto vṛtto daśaratho nṛpaḥ_).
 </details>
 </details>
 
@@ -394,7 +394,7 @@ you send Rama on exile to the forest?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why has the great king, my dharma-loving father, been destroyed (vināśito mahā-rājaḥ pitā me dharma-vatsalaḥ)? Why has Rāma been banished, and why indeed has he gone to the forest (kasmāt pravrājito rāmaḥ kasmād eva vanaṃ gataḥ)?
+“Why has the great king, my dharma-loving father, been destroyed (_vināśito mahā-rājaḥ pitā me dharma-vatsalaḥ_)? Why has Rāma been banished, and why indeed has he gone to the forest (_kasmāt pravrājito rāmaḥ kasmād eva vanaṃ gataḥ_)?
 </details>
 </details>
 
@@ -446,7 +446,7 @@ sons, will live in fellowship with you, my mother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Afflicted by grief for their sons, Kausalyā and Sumitrā (kausalyā ca sumitrā ca putra-śokābhipīḍite) will do what is hard indeed if they survive after having got you—my mother—as their co-wife (duṣkaraṃ yadi jīvetāṃ prāpya tvāṃ jananīṃ mama)!
+“Afflicted by grief for their sons, Kausalyā and Sumitrā (_kausalyā ca sumitrā ca putra-śokābhipīḍite_) will do what is hard indeed if they survive after having got you—my mother—as their co-wife (_duṣkaraṃ yadi jīvetāṃ prāpya tvāṃ jananīṃ mama_)!
 </details>
 </details>
 
@@ -500,7 +500,7 @@ mother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely my noble and righteous-souled elder brother, who knows the conduct due to elders (nanu tv āryo 'pi dharmātmā... guru-vṛtti-jñaḥ), observes toward you the highest filial conduct, just as he behaves toward his own mother (tvayi vṛttim anuttamāṃ vartate yathā mātari vartate)!
+“Surely my noble and righteous-souled elder brother, who knows the conduct due to elders (_nanu tv āryo &#x27;pi dharmātmā... guru-vṛtti-jñaḥ_), observes toward you the highest filial conduct, just as he behaves toward his own mother (_tvayi vṛttim anuttamāṃ vartate yathā mātari vartate_)!
 </details>
 </details>
 
@@ -553,7 +553,7 @@ established in piety, indeed used to behave with you as your sister."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So too my eldest mother, far-sighted Kausalyā (tathā jyeṣṭhā hi me mātā kausalyā dīrgha-darśinī), abiding by dharma, behaves toward you as toward a sister (tvayi dharmaṃ samāsthāya bhaginyām iva vartate).
+“So too my eldest mother, far-sighted Kausalyā (_tathā jyeṣṭhā hi me mātā kausalyā dīrgha-darśinī_), abiding by dharma, behaves toward you as toward a sister (_tvayi dharmaṃ samāsthāya bhaginyām iva vartate_).
 </details>
 </details>
 
@@ -605,7 +605,7 @@ clothed in a bark dress, to live in a forest? O, sinful one!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having sent forth her self-controlled son clad in strips of bark to dwell in the forest (tasyāḥ putraṃ kṛtātmānaṃ cīra-valkala-vāsasaṃ prasthāpya vana-vāsāya), how do you not grieve, O sinful woman (kathaṃ pāpe na śocasi)?
+“Having sent forth her self-controlled son clad in strips of bark to dwell in the forest (_tasyāḥ putraṃ kṛtātmānaṃ cīra-valkala-vāsasaṃ prasthāpya vana-vāsāya_), how do you not grieve, O sinful woman (_kathaṃ pāpe na śocasi_)?
 </details>
 </details>
 
@@ -659,7 +659,7 @@ gather for it?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having banished that heroic, self-controlled, and illustrious prince of sinless vision in garments of bark (apāpa-darśanaṃ śūraṃ kṛtātmānaṃ yaśasvinam pravrājya cīra-vasanam), what purpose or fruit do you see (kin nu paśyasi kāraṇam)?
+“Having banished that heroic, self-controlled, and illustrious prince of sinless vision in garments of bark (_apāpa-darśanaṃ śūraṃ kṛtātmānaṃ yaśasvinam pravrājya cīra-vasanam_), what purpose or fruit do you see (_kin nu paśyasi kāraṇam_)?
 </details>
 </details>
 
@@ -720,7 +720,7 @@ is exactly so. You have brought in this great calamity for the sake of a kingdom
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blinded by greed, I think you did not know how devoted I am toward Rāghava (lubdhāyā vidito manye na te 'haṃ rāghavaṃ prati); for that is why this great calamity has been brought about by you for the sake of the kingdom (tathā hy anartho rājyārthaṃ tvayānīto mahān ayam).
+“Blinded by greed, I think you did not know how devoted I am toward Rāghava (_lubdhāyā vidito manye na te &#x27;haṃ rāghavaṃ prati_); for that is why this great calamity has been brought about by you for the sake of the kingdom (_tathā hy anartho rājyārthaṃ tvayānīto mahān ayam_).
 </details>
 </details>
 
@@ -775,7 +775,7 @@ lions among men, Rama and Lakshmana in proximity to me?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For not beholding those two tigers among men, Rāma and Lakṣmaṇa (ahaṃ hi puruṣa-vyāghrāv apaśyan rāma-lakṣmaṇau), by what power of strength could I venture to protect the kingdom (kena śakti-prabhāvena rājyaṃ rakṣitum utsahe)?
+“For not beholding those two tigers among men, Rāma and Lakṣmaṇa (_ahaṃ hi puruṣa-vyāghrāv apaśyan rāma-lakṣmaṇau_), by what power of strength could I venture to protect the kingdom (_kena śakti-prabhāvena rājyaṃ rakṣitum utsahe_)?
 </details>
 </details>
 
@@ -829,7 +829,7 @@ mountain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the righteous-souled great king, though of mighty strength himself, ever relied upon that mighty prince (taṃ hi nityaṃ mahā-rājo balavantaṃ mahā-balaḥ upāśrito 'bhūd dharmātmā), just as Mount Meru relies upon the forest of Meru (merur meru-vanaṃ yathā).
+“For the righteous-souled great king, though of mighty strength himself, ever relied upon that mighty prince (_taṃ hi nityaṃ mahā-rājo balavantaṃ mahā-balaḥ upāśrito &#x27;bhūd dharmātmā_), just as Mount Meru relies upon the forest of Meru (_merur meru-vanaṃ yathā_).
 </details>
 </details>
 
@@ -883,7 +883,7 @@ giant bullock."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How then could I—like a young bullock still being tamed coming under the yoke—bear this burden upheld by a mighty draught-bull, and by what strength (so 'haṃ katham imaṃ bhāraṃ mahā-dhurya-samuddhṛtam damyo dhuram ivāsādya vaheyaṃ kena caujasā)?
+“How then could I—like a young bullock still being tamed coming under the yoke—bear this burden upheld by a mighty draught-bull, and by what strength (_so &#x27;haṃ katham imaṃ bhāraṃ mahā-dhurya-samuddhṛtam damyo dhuram ivāsādya vaheyaṃ kena caujasā_)?
 </details>
 </details>
 
@@ -937,7 +937,7 @@ of kingdom for your son, to fulfill your desire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or even if I should possess the power through expedients of statecraft or strength of intellect (atha vā me bhavec chaktir yogair buddhi-balena vā), I shall never fulfill the desire of you who are so greedy on behalf of your son (sakāmāṃ na kariṣyāmi tvām ahaṃ putra-gardhinīm)!
+“Or even if I should possess the power through expedients of statecraft or strength of intellect (_atha vā me bhavec chaktir yogair buddhi-balena vā_), I shall never fulfill the desire of you who are so greedy on behalf of your son (_sakāmāṃ na kariṣyāmi tvām ahaṃ putra-gardhinīm_)!
 </details>
 </details>
 
@@ -990,7 +990,7 @@ Rama did not treat you like a mother at all times."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No hesitation would arise in me to cast you off, bent on sin as you are (na me vikāṅkṣā jāyeta tyaktuṃ tvāṃ pāpa-niścayām), if Rāma did not always cherish regard for you as for his own mother (yadi rāmasya nāvekṣā tvayi syān mātṛvat sadā)!
+“No hesitation would arise in me to cast you off, bent on sin as you are (_na me vikāṅkṣā jāyeta tyaktuṃ tvāṃ pāpa-niścayām_), if Rāma did not always cherish regard for you as for his own mother (_yadi rāmasya nāvekṣā tvayi syān mātṛvat sadā_)!
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ our ancestors, has arisen in your mind at all?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed did this thought arise in you, O woman of evil vision, fallen away from the conduct of the virtuous (utpannā tu kathaṃ buddhis taveyaṃ pāpa-darśini sādhu-cāritra-vibhraṣṭe)—a thought reviled by our forefathers (pūrveṣāṃ no vigarhitā)?
+“How indeed did this thought arise in you, O woman of evil vision, fallen away from the conduct of the virtuous (_utpannā tu kathaṃ buddhis taveyaṃ pāpa-darśini sādhu-cāritra-vibhraṣṭe_)—a thought reviled by our forefathers (_pūrveṣāṃ no vigarhitā_)?
 </details>
 </details>
 
@@ -1100,7 +1100,7 @@ brothers are to behave reverently towards their elder brother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For in this dynasty, among our forefathers, the eldest alone is consecrated in the kingship (asmin kule hi pūrveṣāṃ jyeṣṭho rājye 'bhiṣicyate), while his other brothers conduct themselves in devoted obedience toward him (apare bhrātaras tasmin pravartante samāhitāḥ).
+“For in this dynasty, among our forefathers, the eldest alone is consecrated in the kingship (_asmin kule hi pūrveṣāṃ jyeṣṭho rājye &#x27;bhiṣicyate_), while his other brothers conduct themselves in devoted obedience toward him (_apare bhrātaras tasmin pravartante samāhitāḥ_).
 </details>
 </details>
 
@@ -1154,7 +1154,7 @@ kings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I think, O cruel woman, that you neither have regard for the law of kings (na hi manye nṛśaṃse tvaṃ rāja-dharmam avekṣase), nor do you know the eternal course of royal conduct (gatiṃ vā na vijānāsi rāja-vṛttasya śāśvatīm)!
+“I think, O cruel woman, that you neither have regard for the law of kings (_na hi manye nṛśaṃse tvaṃ rāja-dharmam avekṣase_), nor do you know the eternal course of royal conduct (_gatiṃ vā na vijānāsi rāja-vṛttasya śāśvatīm_)!
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ Ikshvaku kings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For in royal conduct the eldest is ever consecrated in the kingship (satataṃ rāja-vṛtte hi jyeṣṭho rājye 'bhiṣicyate); while this rule is common to all kings, it holds especially true for the Ikṣvākus (rājñām etat samaṃ tat syād ikṣvākūṇāṃ viśeṣataḥ).
+“For in royal conduct the eldest is ever consecrated in the kingship (_satataṃ rāja-vṛtte hi jyeṣṭho rājye &#x27;bhiṣicyate_); while this rule is common to all kings, it holds especially true for the Ikṣvākus (_rājñām etat samaṃ tat syād ikṣvākūṇāṃ viśeṣataḥ_).
 </details>
 </details>
 
@@ -1265,7 +1265,7 @@ righteousness alone and who possessed good family conduct, is turned away by you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of those monarchs whose sole protection was dharma and who shone by their ancestral conduct (teṣāṃ dharmaika-rakṣāṇāṃ kula-cāritra-śobhinām), the lofty pride of moral rectitude has today been overturned after encountering you (adya cāritra-śauṇḍīryaṃ tvāṃ prāpya vinivartitam)!
+“Of those monarchs whose sole protection was dharma and who shone by their ancestral conduct (_teṣāṃ dharmaika-rakṣāṇāṃ kula-cāritra-śobhinām_), the lofty pride of moral rectitude has today been overturned after encountering you (_adya cāritra-śauṇḍīryaṃ tvāṃ prāpya vinivartitam_)!
 </details>
 </details>
 
@@ -1328,7 +1328,7 @@ contemptible stupidity of mind born in you?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In your maternal line too, the supremely noble kings ever followed the elders of the family (tavāpi sumahā-bhāgā janendrāḥ kula-pūrva-gāḥ); how then did this reprehensible delusion of mind arise in you (buddher mohaḥ katham ayaṃ sambhūtas tvayi garhitaḥ)?
+“In your maternal line too, the supremely noble kings ever followed the elders of the family (_tavāpi sumahā-bhāgā janendrāḥ kula-pūrva-gāḥ_); how then did this reprehensible delusion of mind arise in you (_buddher mohaḥ katham ayaṃ sambhūtas tvayi garhitaḥ_)?
 </details>
 </details>
 
@@ -1380,7 +1380,7 @@ which will cause even an end to my life, has been undertaken by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never shall I accomplish your desire, O woman of sinful resolve (na tu kāmaṃ kariṣyāmi tavāhaṃ pāpa-niścaye); by you has been set in motion a calamity that brings an end to my very life (tvayā vyasanam ārabdhaṃ jīvitānta-karaṃ mama)!
+“Never shall I accomplish your desire, O woman of sinful resolve (_na tu kāmaṃ kariṣyāmi tavāhaṃ pāpa-niścaye_); by you has been set in motion a calamity that brings an end to my very life (_tvayā vyasanam ārabdhaṃ jīvitānta-karaṃ mama_)!
 </details>
 </details>
 
@@ -1432,7 +1432,7 @@ my brother, who is a faultless man and a beloved man of his people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here and now, in order to do what is displeasing to you, I shall bring back from the forest my sinless brother, beloved of his kinsmen (eṣa tv idānīm evāham apriyārthaṃ tavānagham nivartayiṣyāmi vanād bhrātaraṃ sva-jana-priyam)!
+“Here and now, in order to do what is displeasing to you, I shall bring back from the forest my sinless brother, beloved of his kinsmen (_eṣa tv idānīm evāham apriyārthaṃ tavānagham nivartayiṣyāmi vanād bhrātaraṃ sva-jana-priyam_)!
 </details>
 </details>
 
@@ -1484,7 +1484,7 @@ radiant with glory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And having brought Rāma back, with a firmly settled inner mind I shall become the servant of that prince of blazing splendour (nivartayitvā rāmaṃ ca tasyāhaṃ dīpta-tejasaḥ dāsa-bhūto bhaviṣyāmi susthireṇāntar-ātmanā)!”
+“And having brought Rāma back, with a firmly settled inner mind I shall become the servant of that prince of blazing splendour (_nivartayitvā rāmaṃ ca tasyāhaṃ dīpta-tejasaḥ dāsa-bhūto bhaviṣyāmi susthireṇāntar-ātmanā_)!”
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ unpleasant words, roared again like a lion stationed in a mountain cave.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, high-souled Bharata, piercing her with volleys of harsh words (ity evam uktvā bharato mahātmā priyetarair vākya-gaṇais tudaṃs tām), afflicted with grief, roared aloud once more like a lion dwelling in a mountain cavern (śokāturaś cāpi nanāda bhūyaḥ siṃho yathā parvata-gahvara-sthaḥ).
+Having spoken thus, high-souled Bharata, piercing her with volleys of harsh words (_ity evam uktvā bharato mahātmā priyetarair vākya-gaṇais tudaṃs tām_), afflicted with grief, roared aloud once more like a lion dwelling in a mountain cavern (_śokāturaś cāpi nanāda bhūyaḥ siṃho yathā parvata-gahvara-sthaḥ_).
 </details>
 </details>
 

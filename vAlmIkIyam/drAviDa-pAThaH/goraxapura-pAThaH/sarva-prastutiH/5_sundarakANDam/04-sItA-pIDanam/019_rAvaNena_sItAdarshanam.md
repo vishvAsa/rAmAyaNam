@@ -78,9 +78,9 @@ tree in wind on seeing Ravana the king of rakshasas endowed with beauty and yout
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** At that very moment (tasminn eva tataḥ kāle), the blameless royal princess [beheld him] endowed with beauty and youth (rūpayauvanasampannam) and decked in the finest ornaments (bhūṣaṇottamabhūṣitam);
+**1:** At that very moment (_tasminn eva tataḥ kāle_), the blameless royal princess [beheld him] endowed with beauty and youth (_rūpayauvanasampannam_) and decked in the finest ornaments (_bhūṣaṇottamabhūṣitam_);
 
-**2:** Merely upon beholding (dṛṣṭvaiva) Rāvaṇa, lord of rākṣasas, Vaidehī of fair hips (varārohā) trembled violently (prāvepata) like a plantain tree in a high wind (pravāte kadalī yathā).
+**2:** Merely upon beholding (_dṛṣṭvaiva_) Rāvaṇa, lord of _rākṣasas_, Vaidehī of fair hips (_varārohā_) trembled violently (_prāvepata_) like a plantain tree in a high wind (_pravāte kadalī yathā_).
 </details>
 </details>
 
@@ -128,7 +128,7 @@ down crying.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covering her belly with her thighs (ūrubhyām udaraṃ chādya) and her breasts with her arms (bāhubhyāṃ ca payodharau), the wide-eyed lady of fair complexion (varavarṇinī) sat weeping (upaviṣṭā rudatī).
+Covering her belly with her thighs (_ūrubhyām udaraṃ chādya_) and her breasts with her arms (_bāhubhyāṃ ca payodharau_), the wide-eyed lady of fair complexion (_varavarṇinī_) sat weeping (_upaviṣṭā rudatī_).
 </details>
 </details>
 
@@ -203,9 +203,9 @@ fallen down on earth being torn from the tree.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Daśagrīva, for his part, beheld Vaidehī guarded by troops of rākṣasīs (rakṣitāṃ rākṣasīgaṇaiḥ), wretched and afflicted with sorrow, like a boat foundering in the ocean (nāvaṃ sannām ivārṇave);
+**4:** Daśagrīva, for his part, beheld Vaidehī guarded by troops of _rākṣasīs_ (_rakṣitāṃ rākṣasīgaṇaiḥ_), wretched and afflicted with sorrow, like a boat foundering in the ocean (_nāvaṃ sannām ivārṇave_);
 
-**5:** Seated upon the bare, uncovered ground (asaṃvṛtāyām āsīnāṃ dharaṇyām), strict in her ascetic vows (saṃśitavratām), like a bough severed from a great tree and fallen to the earth (chinnāṃ prapatitāṃ bhūmau śākhām iva vanaspateḥ);
+**5:** Seated upon the bare, uncovered ground (_asaṃvṛtāyām āsīnāṃ dharaṇyām_), strict in her ascetic vows (_saṃśitavratām_), like a bough severed from a great tree and fallen to the earth (_chinnāṃ prapatitāṃ bhūmau śākhām iva vanaspateḥ_);
 </details>
 </details>
 
@@ -261,7 +261,7 @@ also.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Her limbs smeared with grime as her only adornment (malamaṇḍanadigdhāṅgīm), worthy of ornaments yet unornamented (maṇḍanārhām amaṇḍanām)—like a lotus-stalk smeared with mud (mṛṇālī paṅkadigdheva), she both shines and shines not.
+Her limbs smeared with grime as her only adornment (_malamaṇḍanadigdhāṅgīm_), worthy of ornaments yet unornamented (_maṇḍanārhām amaṇḍanām_)—like a lotus-stalk smeared with mud (_mṛṇālī paṅkadigdheva_), she both shines and shines not.
 </details>
 </details>
 
@@ -314,7 +314,7 @@ as chariot tied with thoughts as horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Journeying, as it were (yāntīm iva), to the side (samīpam) of Rāma, lion among kings and knower of the Self (viditātmanaḥ), by the chariots of her longing (manorathaiḥ) yoked with the steeds of her imagination (saṃkalpahayasaṃyuktaiḥ);
+Journeying, as it were (_yāntīm iva_), to the side (_samīpam_) of Rāma, lion among kings and knower of the Self (_viditātmanaḥ_), by the chariots of her longing (_manorathaiḥ_) yoked with the steeds of her imagination (_saṃkalpahayasaṃyuktaiḥ_);
 </details>
 </details>
 
@@ -360,7 +360,7 @@ and sorrow not seeing the end of grief, following the will of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wasting away (śuṣyantīm), weeping alone (rudatīm ekām), wholly absorbed in meditation and grief (dhyānaśokaparāyaṇām), beholding no end to her sorrow (duḥkhasyāntam apaśyantīm)—a lovely lady devoted to Rāma (rāmāṃ rāmam anuvratām);
+Wasting away (_śuṣyantīm_), weeping alone (_rudatīm ekām_), wholly absorbed in meditation and grief (_dhyānaśokaparāyaṇām_), beholding no end to her sorrow (_duḥkhasyāntam apaśyantīm_)—a lovely lady devoted to Rāma (_rāmāṃ rāmam anuvratām_);
 </details>
 </details>
 
@@ -414,7 +414,7 @@ like Rohini being fumigated by a smoke colored planet called Ketu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Writhing (ceṣṭamānām) like the bride of a serpent-lord subdued by a spell (āviṣṭāṃ pannagendravadhūm iva), and scorched with smoke like the constellation Rohiṇī afflicted by the comet-planet Dhūmaketu (dhūpyamānāṃ graheṇeva rohiṇīṃ dhūmaketunā);
+Writhing (_ceṣṭamānām_) like the bride of a serpent-lord subdued by a spell (_āviṣṭāṃ pannagendravadhūm iva_), and scorched with smoke like the constellation Rohiṇī afflicted by the comet-planet Dhūmaketu (_dhūpyamānāṃ graheṇeva rohiṇīṃ dhūmaketunā_);
 </details>
 </details>
 
@@ -463,7 +463,7 @@ Seetha appeared as if She was born in a bad family.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Born in a pious family of noble conduct, character, and custom (vṛttaśīle kule jātām ācāravati dhārmike), yet having undergone a new initiation (punaḥ saṃskāram āpannām) as though born in a base family (jātām iva ca duṣkule);
+Born in a pious family of noble conduct, character, and custom (_vṛttaśīle kule jātām ācāravati dhārmike_), yet having undergone a new initiation (_punaḥ saṃskāram āpannām_) as though born in a base family (_jātām iva ca duṣkule_);
 </details>
 </details>
 
@@ -596,13 +596,13 @@ like vanished river.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Like great fame sunk low (sannām iva mahākīrtim), like faith treated with disrespect (śraddhām iva vimānitām), like wisdom wasted away (prajñām iva parikṣīṇām), like hope frustrated (āśāṃ pratihatām iva);
+**11:** Like great fame sunk low (_sannām iva mahākīrtim_), like faith treated with disrespect (_śraddhām iva vimānitām_), like wisdom wasted away (_prajñām iva parikṣīṇām_), like hope frustrated (_āśāṃ pratihatām iva_);
 
-**12:** Like future prosperity ruined (āyatīm iva vidhvastām), like a royal command disobeyed (ājñāṃ pratihatām iva), like a quarter of the sky ablaze at a time of portent (dīptām iva diśaṃ kāle), like worship desecrated (pūjām apahatām iva);
+**12:** Like future prosperity ruined (_āyatīm iva vidhvastām_), like a royal command disobeyed (_ājñāṃ pratihatām iva_), like a quarter of the sky ablaze at a time of portent (_dīptām iva diśaṃ kāle_), like worship desecrated (_pūjām apahatām iva_);
 
-**13:** Like a full-moon night (paurṇamāsīm iva niśām) with its lunar orb swallowed by darkness [Rāhu] (tamograstendumaṇḍalām), like a blighted lotus pond (padminīm iva vidhvastām), like an army with its heroes slain (hataśūrāṃ camūm iva);
+**13:** Like a full-moon night (_paurṇamāsīm iva niśām_) with its lunar orb swallowed by darkness [Rāhu] (_tamograstendumaṇḍalām_), like a blighted lotus pond (_padminīm iva vidhvastām_), like an army with its heroes slain (_hataśūrāṃ camūm iva_);
 
-**14:** Like radiance obscured by darkness (prabhām iva tamodhvastām), like a river with its waters dwindled away (upakṣīṇām ivāpagām), like a sacrificial altar desecrated (vedīm iva parāmṛṣṭām), like an extinguished tongue of flame (śāntām agniśikhām iva);
+**14:** Like radiance obscured by darkness (_prabhām iva tamodhvastām_), like a river with its waters dwindled away (_upakṣīṇām ivāpagām_), like a sacrificial altar desecrated (_vedīm iva parāmṛṣṭām_), like an extinguished tongue of flame (_śāntām agniśikhām iva_);
 </details>
 </details>
 
@@ -649,7 +649,7 @@ moon devoured by Rahu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a lotus pond (padminīm) thrown into turmoil (ākulām iva), with its leaves and lotuses torn up (utkṛṣṭaparṇakamalām) and its birds frightened away (vitrāsitavihaṃgamām), mauled by an elephant's trunk (hastihastaparāmṛṣṭām);
+Like a lotus pond (_padminīm_) thrown into turmoil (_ākulām iva_), with its leaves and lotuses torn up (_utkṛṣṭaparṇakamalām_) and its birds frightened away (_vitrāsitavihaṃgamām_), mauled by an elephant&#x27;s trunk (_hastihastaparāmṛṣṭām_);
 </details>
 </details>
 
@@ -703,7 +703,7 @@ by the trunk of an elephant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Afflicted with grief for her husband (patiśokāturām), like a dried-up river whose waters have been diverted (śuṣkāṃ nadīṃ visrāvitām iva), bereft of supreme bodily lustre (parayā mṛjayā hīnām) like a night in the dark fortnight (kṛṣṇapakṣe niśām iva);
+Afflicted with grief for her husband (_patiśokāturām_), like a dried-up river whose waters have been diverted (_śuṣkāṃ nadīṃ visrāvitām iva_), bereft of supreme bodily lustre (_parayā mṛjayā hīnām_) like a night in the dark fortnight (_kṛṣṇapakṣe niśām iva_);
 </details>
 </details>
 
@@ -751,7 +751,7 @@ best washing, was like a new moon night.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delicate (sukumārīm), of finely formed limbs (sujātāṅgīm), worthy of a jewel-chambered palace (ratnagarbhagṛhocitām), yet scorched as though by heat like a newly uprooted lotus-stalk (tapyamānām ivoṣṇena mṛṇālīm aciroddhṛtām);
+Delicate (_sukumārīm_), of finely formed limbs (_sujātāṅgīm_), worthy of a jewel-chambered palace (_ratnagarbhagṛhocitām_), yet scorched as though by heat like a newly uprooted lotus-stalk (_tapyamānām ivoṣṇena mṛṇālīm aciroddhṛtām_);
 </details>
 </details>
 
@@ -808,7 +808,7 @@ by heat, like a lotus fibre uprooted short time back.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the consort of a lordly elephant (gajarājavadhūm iva) captured (gṛhītām), bound to a post (ālitāṃ stambhe), parted from the leader of her herd (yūthapena vinākṛtām), sighing heavily (niḥśvasantīm), and sorely afflicted with grief (suduḥkhārtām);
+Like the consort of a lordly elephant (_gajarājavadhūm iva_) captured (_gṛhītām_), bound to a post (_ālitāṃ stambhe_), parted from the leader of her herd (_yūthapena vinākṛtām_), sighing heavily (_niḥśvasantīm_), and sorely afflicted with grief (_suduḥkhārtām_);
 </details>
 </details>
 
@@ -863,7 +863,7 @@ herd, sighing, very much tormented by grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shining effortlessly (śobhamānām ayatnataḥ) with a single long braid (ekayā dīrghayā veṇyā), like the earth (mahīm iva) graced with a dark-blue line of forest trees (nīlayā vanarājyā) at the departure of the rain-clouds (nīradāpāye);
+Shining effortlessly (_śobhamānām ayatnataḥ_) with a single long braid (_ekayā dīrghayā veṇyā_), like the earth (_mahīm iva_) graced with a dark-blue line of forest trees (_nīlayā vanarājyā_) at the departure of the rain-clouds (_nīradāpāye_);
 </details>
 </details>
 
@@ -911,7 +911,7 @@ trees at the end of rainy season.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wasted away (parikṣīṇām), emaciated (kṛśām), wretched, subsisting on scant nourishment (alpāhārām), and rich in asceticism (tapodhanām) through fasting, grief, anxious meditation, and fear (upavāsena śokena dhyānena ca bhayena ca);
+Wasted away (_parikṣīṇām_), emaciated (_kṛśām_), wretched, subsisting on scant nourishment (_alpāhārām_), and rich in asceticism (_tapodhanām_) through fasting, grief, anxious meditation, and fear (_upavāsena śokena dhyānena ca bhayena ca_);
 </details>
 </details>
 
@@ -940,7 +940,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Afflicted with sorrow and praying with joined palms (āyācamānāṃ prāñjalim) like a deity (devatām iva), through her inner devotion to the chief of the Raghus (bhāvena raghumukhyasya), for the defeat of Daśagrīva (daśagrīvaparābhavam)—
+Afflicted with sorrow and praying with joined palms (_āyācamānāṃ prāñjalim_) like a deity (_devatām iva_), through her inner devotion to the chief of the Raghus (_bhāvena raghumukhyasya_), for the defeat of Daśagrīva (_daśagrīvaparābhavam_)—
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ the defeat of Ravana at the hands of Sri Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa sought to entice (pralobhayāmāsa) unto his own destruction (vadhāya) that blameless Maithilī, who was looking all around (samīkṣamāṇām) and weeping (rudatīm), with fair eyelashes and coppery, wide, white-gleaming eyes (supakṣmatāmrāyataśuklalocanām), supremely devoted to Rāma (anuvratāṃ rāmam atīva).
+Rāvaṇa sought to entice (_pralobhayāmāsa_) unto his own destruction (_vadhāya_) that blameless Maithilī, who was looking all around (_samīkṣamāṇām_) and weeping (_rudatīm_), with fair eyelashes and coppery, wide, white-gleaming eyes (_supakṣmatāmrāyataśuklalocanām_), supremely devoted to Rāma (_anuvratāṃ rāmam atīva_).
 </details>
 </details>
 

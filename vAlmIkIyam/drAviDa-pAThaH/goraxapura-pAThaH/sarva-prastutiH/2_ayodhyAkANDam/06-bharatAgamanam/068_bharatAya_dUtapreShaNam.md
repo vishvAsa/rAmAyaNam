@@ -83,7 +83,7 @@ ministers and to all the Brahmans (assembled there):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing their words, Vasiṣṭha spoke in reply this speech to all the hosts of friends and ministers (mitrāmātya-gaṇān sarvān) and to those Brahmins:
+Hearing their words, Vasiṣṭha spoke in reply this speech to all the hosts of friends and ministers (_mitrāmātya-gaṇān sarvān_) and to those Brahmins:
 </details>
 </details>
 
@@ -117,7 +117,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since that Bharata dwells happily in the house of his maternal uncle (mātula-kule) in the city of Rājagṛha, accompanied by his brother Śatrughna—
+“Since that Bharata dwells happily in the house of his maternal uncle (_mātula-kule_) in the city of Rājagṛha, accompanied by his brother Śatrughna—
 </details>
 </details>
 
@@ -171,7 +171,7 @@ quickly to bring back those heroic brothers. What are we to think of further in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—therefore let swift envoys go forth quickly on fleet steeds (javanā dūtā gacchantu tvaritair hayaiḥ) to bring back the two heroic brothers; why do we deliberate further (kiṃ samīkṣāmahe vayam)?”
+—therefore let swift envoys go forth quickly on fleet steeds (_javanā dūtā gacchantu tvaritair hayaiḥ_) to bring back the two heroic brothers; why do we deliberate further (_kiṃ samīkṣāmahe vayam_)?”
 </details>
 </details>
 
@@ -224,7 +224,7 @@ their words, Vasistha spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all of them spoke to Vasiṣṭha the word, “Let them go!” (gacchantv iti); hearing that speech of theirs, Vasiṣṭha spoke these words:
+Then all of them spoke to Vasiṣṭha the word, “Let them go!” (_gacchantv iti_); hearing that speech of theirs, Vasiṣṭha spoke these words:
 </details>
 </details>
 
@@ -276,7 +276,7 @@ telling you all. Hear that which is to be done"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come hither, O Siddhārtha, Vijaya, Jayanta, Aśoka, and Nandana! Hear what is to be done (śrūyatām itikartavyam); I address all of you without exception.
+“Come hither, O Siddhārtha, Vijaya, Jayanta, Aśoka, and Nandana! Hear what is to be done (_śrūyatām itikartavyam_); I address all of you without exception.
 </details>
 </details>
 
@@ -333,7 +333,7 @@ as my orders:"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going quickly on steeds of swift speed (śīghraṃ śīghra-javair hayaiḥ) to the city of Rājagṛha, you must cast aside all signs of grief (tyakta-śokaiḥ) and speak thus to Bharata by my command (śāsanān mama):
+Going quickly on steeds of swift speed (_śīghraṃ śīghra-javair hayaiḥ_) to the city of Rājagṛha, you must cast aside all signs of grief (_tyakta-śokaiḥ_) and speak thus to Bharata by my command (_śāsanān mama_):
 </details>
 </details>
 
@@ -394,7 +394,7 @@ starting quickly. There is a very urgent work with you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘The family priest and all the ministers inquire after your welfare (tvāṃ kuśalaṃ prāha); come forth in haste (tvaramāṇaś ca niryāhi), for there is an urgent matter to be accomplished by you (kṛtyam ātyayikaṃ tvayā).’
+‘The family priest and all the ministers inquire after your welfare (_tvāṃ kuśalaṃ prāha_); come forth in haste (_tvaramāṇaś ca niryāhi_), for there is an urgent matter to be accomplished by you (_kṛtyam ātyayikaṃ tvayā_).’
 </details>
 </details>
 
@@ -447,7 +447,7 @@ is dead or about this calamity occurred to the descendents of Raghu dynasty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On going there, you must by no means tell him that Rāma has gone into exile (mā cāsmai proṣitaṃ rāmam), nor that his father is dead (mā cāsmai pitaraṃ mṛtam), nor of this ruin of the Rāghavas (rāghavāṇām imaṃ kṣayam).
+On going there, you must by no means tell him that Rāma has gone into exile (_mā cāsmai proṣitaṃ rāmam_), nor that his father is dead (_mā cāsmai pitaraṃ mṛtam_), nor of this ruin of the Rāghavas (_rāghavāṇām imaṃ kṣayam_).
 </details>
 </details>
 
@@ -499,7 +499,7 @@ to Bharata."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Quickly taking silken garments and choice ornaments (kauśeyāni ca vastrāṇi bhūṣaṇāni varāṇi ca) for the king (of Kekaya) and for Bharata, depart at once!”
+Quickly taking silken garments and choice ornaments (_kauśeyāni ca vastrāṇi bhūṣaṇāni varāṇi ca_) for the king (of Kekaya) and for Bharata, depart at once!”
 </details>
 </details>
 
@@ -550,7 +550,7 @@ horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Provided with provisions for the journey (datta-pathy-aśanāḥ), the envoys went to their respective homes; about to set forth for the Kekayas, they mounted steeds of proven excellence (hayān āruhya sammatān).
+Provided with provisions for the journey (_datta-pathy-aśanāḥ_), the envoys went to their respective homes; about to set forth for the Kekayas, they mounted steeds of proven excellence (_hayān āruhya sammatān_).
 </details>
 </details>
 
@@ -603,7 +603,7 @@ permitted by Vasistha, the messengers quickly proceeded (to the destination).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having performed the remaining preparations for departure immediately thereafter (prāsthānikaṃ kṛtvā kārya-śeṣam anantaram) and been granted leave by Vasiṣṭha (vasiṣṭhenābhyanujñātāḥ), the envoys set forth in great haste (saṃtvaritā yayuḥ).
+Then, having performed the remaining preparations for departure immediately thereafter (_prāsthānikaṃ kṛtvā kārya-śeṣam anantaram_) and been granted leave by Vasiṣṭha (_vasiṣṭhenābhyanujñātāḥ_), the envoys set forth in great haste (_saṃtvaritā yayuḥ_).
 </details>
 </details>
 
@@ -649,7 +649,7 @@ Aparatala Mountain and the northern end of Pralamba Mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Skirting the end of Mount Aparatāla (nyantenāparatālasya) toward the north of Pralamba (pralambasyottaraṃ prati), they traveled through the middle country, following the course of the river Mālinī (niṣevamāṇās te jagmur nadīṃ madhyena mālinīm).
+Skirting the end of Mount Aparatāla (_nyantenāparatālasya_) toward the north of Pralamba (_pralambasyottaraṃ prati_), they traveled through the middle country, following the course of the river Mālinī (_niṣevamāṇās te jagmur nadīṃ madhyena mālinīm_).
 </details>
 </details>
 
@@ -691,7 +691,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crossing the Gaṅgā at Hastināpura (te hastināpure gaṅgāṃ tīrtvā), they traveled westward (pratyaṅ-mukhā yayuḥ), reaching the Pañcāla country through the middle of Kurujāṅgala (madhyena kurujāṅgalam).
+Crossing the Gaṅgā at Hastināpura (_te hastināpure gaṅgāṃ tīrtvā_), they traveled westward (_pratyaṅ-mukhā yayuḥ_), reaching the Pañcāla country through the middle of Kurujāṅgala (_madhyena kurujāṅgalam_).
 </details>
 </details>
 
@@ -742,7 +742,7 @@ the aforesaid messengers went briskly, due to the pressing nature of their missi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding brimming lakes (sarāṃsi ca supūrṇāni) and rivers of crystal-clear water (nadīś ca vimalodakāḥ), those envoys sped along swiftly under the urgency of their mission (jagmur dūtāḥ kārya-vaśād drutam).
+Beholding brimming lakes (_sarāṃsi ca supūrṇāni_) and rivers of crystal-clear water (_nadīś ca vimalodakāḥ_), those envoys sped along swiftly under the urgency of their mission (_jagmur dūtāḥ kārya-vaśād drutam_).
 </details>
 </details>
 
@@ -794,7 +794,7 @@ water frequented by various kinds of birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With great speed they crossed beyond the celestial river Śaradaṇḍā (upātijagmur vegena śaradaṇḍām), whose waters were pellucid (prasannodakām), frequented by manifold birds (nānā-vihaga-sevitām), and thronged with people upon its banks (janākulām).
+With great speed they crossed beyond the celestial river Śaradaṇḍā (_upātijagmur vegena śaradaṇḍām_), whose waters were pellucid (_prasannodakām_), frequented by manifold birds (_nānā-vihaga-sevitām_), and thronged with people upon its banks (_janākulām_).
 </details>
 </details>
 
@@ -842,7 +842,7 @@ respect) the messengers entered the city of Kulinga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching the celestial coastal tree that grants prayers for truth (nikūla-vṛkṣam āsādya divyaṃ satyopayācanam), and approaching and reverencing that venerable tree (abhigamyābhivādyaṃ tam), they entered the city of Kuliṅgā (kuliṅgāṃ prāviśan purīm).
+Reaching the celestial coastal tree that grants prayers for truth (_nikūla-vṛkṣam āsādya divyaṃ satyopayācanam_), and approaching and reverencing that venerable tree (_abhigamyābhivādyaṃ tam_), they entered the city of Kuliṅgā (_kuliṅgāṃ prāviśan purīm_).
 </details>
 </details>
 
@@ -896,7 +896,7 @@ father and grandfather of Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, reaching the town of Ābhikāla (ābhikālaṃ tataḥ prāpya), they crossed the sacred ancestral river Ikṣumatī (pitṛ-paitāmahīṃ puṇyāṃ terur ikṣumatīṃ nadīm), which flows down from the abode of Bodhi (bodhi-bhavanāc cyutām).
+Then, reaching the town of Ābhikāla (_ābhikālaṃ tataḥ prāpya_), they crossed the sacred ancestral river Ikṣumatī (_pitṛ-paitāmahīṃ puṇyāṃ terur ikṣumatīṃ nadīm_), which flows down from the abode of Bodhi (_bodhi-bhavanāc cyutām_).
 </details>
 </details>
 
@@ -957,7 +957,7 @@ of their palms, they proceeded through Bahlika kingdom towards a mountain called
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Brahmins who had mastered the Vedas (brāhmaṇān veda-pāragān) and who drank water only with their cupped hands (añjali-pānāṃś ca), they passed through the midst of the Bāhlīkas (yayur madhyena bāhlīkān) and past Mount Sudāmā (sudāmānaṃ ca parvatam).
+Beholding Brahmins who had mastered the Vedas (_brāhmaṇān veda-pāragān_) and who drank water only with their cupped hands (_añjali-pānāṃś ca_), they passed through the midst of the Bāhlīkas (_yayur madhyena bāhlīkān_) and past Mount Sudāmā (_sudāmānaṃ ca parvatam_).
 </details>
 </details>
 
@@ -1025,9 +1025,9 @@ of their master.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Gazing upon Viṣṇu’s Footprint (viṣṇoḥ padaṃ prekṣamāṇāḥ), and upon the Vipāśā and the Śālmalī, as well as rivers, step-wells, tanks, pools, and lakes (nadīr vāpīs taṭākāni palvalāni sarāṃsi ca)—
+**19:** Gazing upon Viṣṇu’s Footprint (_viṣṇoḥ padaṃ prekṣamāṇāḥ_), and upon the Vipāśā and the Śālmalī, as well as rivers, step-wells, tanks, pools, and lakes (_nadīr vāpīs taṭākāni palvalāni sarāṃsi ca_)—
 
-**20:** —and beholding manifold lions, tigers, deer, and elephants (siṃha-vyāghra-mṛga-dvipān), they traveled along the great highway (yayuḥ pathātimahatā), eager to fulfill their lord’s command (śāsanaṃ bhartur īpsavaḥ).
+**20:** —and beholding manifold lions, tigers, deer, and elephants (_siṃha-vyāghra-mṛga-dvipān_), they traveled along the great highway (_yayuḥ pathātimahatā_), eager to fulfill their lord’s command (_śāsanaṃ bhartur īpsavaḥ_).
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ safely to the excellent city of Girivraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their mounts exhausted (śrānta-vāhanāḥ), those envoys, traveling by that far-stretching road (vikṛṣṭena pathā), quickly and directly reached (śīghram āsedur añjasā) the best of cities, Girivraja (girivrajaṃ pura-varam).
+With their mounts exhausted (_śrānta-vāhanāḥ_), those envoys, traveling by that far-stretching road (_vikṛṣṭena pathā_), quickly and directly reached (_śīghram āsedur añjasā_) the best of cities, Girivraja (_girivrajaṃ pura-varam_).
 </details>
 </details>
 
@@ -1154,7 +1154,7 @@ messengers quickly and respectfully reached that city in the night.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the sake of what was dear to their master (bhartuḥ priyārtham), for the protection of the royal race (kula-rakṣaṇārtham), and for the preservation of their sovereign’s lineage (bhartuś ca vaṃśasya parigrahārtham), those envoys, showing no negligence (aheḍamānāḥ), entered that very city with haste during the night (rātryāṃ tu te tat puram eva yātāḥ).
+For the sake of what was dear to their master (_bhartuḥ priyārtham_), for the protection of the royal race (_kula-rakṣaṇārtham_), and for the preservation of their sovereign’s lineage (_bhartuś ca vaṃśasya parigrahārtham_), those envoys, showing no negligence (_aheḍamānāḥ_), entered that very city with haste during the night (_rātryāṃ tu te tat puram eva yātāḥ_).
 </details>
 </details>
 

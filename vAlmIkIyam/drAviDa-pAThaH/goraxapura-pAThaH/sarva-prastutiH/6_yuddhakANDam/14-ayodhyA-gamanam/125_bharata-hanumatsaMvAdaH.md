@@ -88,7 +88,7 @@ kindly act and who was quick in exhibiting prowess, contemplated thereupon to do
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having caused that flower-decked Puṣpaka (puṣpakaṃ puṣpabhūṣitam) to stand ready (upasthitaṃ kṛtvā), Vibhīṣaṇa, standing not far off (avidūre sthitaḥ), spoke thus to Rāma:
+Having caused that flower-decked Puṣpaka (_puṣpakaṃ puṣpabhūṣitam_) to stand ready (_upasthitaṃ kṛtvā_), Vibhīṣaṇa, standing not far off (_avidūre sthitaḥ_), spoke thus to Rāma:
 </details>
 </details>
 
@@ -134,7 +134,7 @@ on the monkeys and spoke to Hanuma, the monkey (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With joined palms (baddhāñjalipuṭaḥ) and humble bearing, that lord of the Rākṣasas, filled with eager solicitude (tvarayopetaḥ), said to Rāghava: “What shall I do (kiṃ karomīti)?”
+With joined palms (_baddhāñjalipuṭaḥ_) and humble bearing, that lord of the Rākṣasas, filled with eager solicitude (_tvarayopetaḥ_), said to Rāghava: “What shall I do (_kiṃ karomīti_)?”
 </details>
 </details>
 
@@ -186,7 +186,7 @@ the people there, are safe in the royal palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-After reflecting (vimṛśya), Rāghava of mighty splendour spoke to him this speech prompted by affection (snehapuraskṛtam), while Lakṣmaṇa was listening closely (lakṣmaṇasyopaśṛṇvataḥ):
+After reflecting (_vimṛśya_), Rāghava of mighty splendour spoke to him this speech prompted by affection (_snehapuraskṛtam_), while Lakṣmaṇa was listening closely (_lakṣmaṇasyopaśṛṇvataḥ_):
 </details>
 </details>
 
@@ -235,7 +235,7 @@ the king of Nishadas, a wild tribe living in the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All these forest-dwellers (vanaukasaḥ) have accomplished deeds of strenuous effort (kṛtaprayatnakarmāṇaḥ); let them be richly honoured (sampūjyantām), O Vibhīṣaṇa, with gems and diverse treasures (ratnair arthaiś ca vividhaiḥ)!
+“All these forest-dwellers (_vanaukasaḥ_) have accomplished deeds of strenuous effort (_kṛtaprayatnakarmāṇaḥ_); let them be richly honoured (_sampūjyantām_), O Vibhīṣaṇa, with gems and diverse treasures (_ratnair arthaiś ca vividhaiḥ_)!
 </details>
 </details>
 
@@ -289,7 +289,7 @@ trouble. He is my friend, as well as my own self."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with these [Vānaras]—who, rejoicing and casting aside the fear of death (prāṇabhayaṃ tyaktvā), never turned back in battle (saṃgrāmeṣv anivartibhiḥ)—has Laṅkā been conquered by you, O lord of the Rākṣasas!
+Together with these [Vānaras]—who, rejoicing and casting aside the fear of death (_prāṇabhayaṃ tyaktvā_), never turned back in battle (_saṃgrāmeṣv anivartibhiḥ_)—has Laṅkā been conquered by you, O lord of the Rākṣasas!
 </details>
 </details>
 
@@ -335,7 +335,7 @@ Ayodhya and the news about Bharata."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All these forest-dwellers have accomplished their task (kṛtakarmāṇaḥ); therefore, through gifts of wealth and jewels (dhanaratnapradānaiś ca), do you render their labour fruitful (karmaiṣāṃ saphalaṃ kuru)!
+All these forest-dwellers have accomplished their task (_kṛtakarmāṇaḥ_); therefore, through gifts of wealth and jewels (_dhanaratnapradānaiś ca_), do you render their labour fruitful (_karmaiṣāṃ saphalaṃ kuru_)!
 </details>
 </details>
 
@@ -390,7 +390,7 @@ of me as having returned, accomplished of our object, with my consort and Lakshm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Honoured thus and gladdened (nandyamānāḥ) in due measure by you who are grateful (kṛtajñena), these leaders of the monkey troops shall depart content (nirvṛtāḥ)!
+“Honoured thus and gladdened (_nandyamānāḥ_) in due measure by you who are grateful (_kṛtajñena_), these leaders of the monkey troops shall depart content (_nirvṛtāḥ_)!
 </details>
 </details>
 
@@ -504,13 +504,13 @@ the grace of Shiva the Supreme Deity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** All recognize you (tvām abhigacchanti) to be munificent (tyāginam), a gatherer of allies (saṃgrahītāram), compassionate (sānukrośam), and master of your senses (jitendriyam); therefore do I remind you (tataḥ sambodhayāmi te)!
+**8:** All recognize you (_tvām abhigacchanti_) to be munificent (_tyāginam_), a gatherer of allies (_saṃgrahītāram_), compassionate (_sānukrośam_), and master of your senses (_jitendriyam_); therefore do I remind you (_tataḥ sambodhayāmi te_)!
 
-**9:** A king who is devoid of all endearing virtues (hīnaṃ ratiguṇaiḥ sarvaiḥ) and who recklessly gets his men slain in battle (abhihantāram āhave)—him the army abandons in dismay (senā tyajati saṃvignā), O lord of men!”
+**9:** A king who is devoid of all endearing virtues (_hīnaṃ ratiguṇaiḥ sarvaiḥ_) and who recklessly gets his men slain in battle (_abhihantāram āhave_)—him the army abandons in dismay (_senā tyajati saṃvignā_), O lord of men!”
 
-**10:** Addressed thus by Rāma, Vibhīṣaṇa honoured all those Vānaras without exception with a fitting distribution of gems and wealth (ratnārthasaṃvibhāgena).
+**10:** Addressed thus by Rāma, Vibhīṣaṇa honoured all those Vānaras without exception with a fitting distribution of gems and wealth (_ratnārthasaṃvibhāgena_).
 
-**11:** Then, beholding those leaders of the monkey troops duly honoured with gems and wealth, Rāma thereupon ascended (āruroha) that peerless celestial chariot,
+**11:** Then, beholding those leaders of the monkey troops duly honoured with gems and wealth, Rāma thereupon ascended (_āruroha_) that peerless celestial chariot,
 </details>
 </details>
 
@@ -583,9 +583,9 @@ purpose having been accomplished, Rama is coming near, with is mighty friends."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** taking upon his lap (aṅkenādāya) the high-minded and bashful (lajjamānām) Vaidehī, together with his valiant, bow-wielding brother Lakṣmaṇa.
+**12:** taking upon his lap (_aṅkenādāya_) the high-minded and bashful (_lajjamānām_) Vaidehī, together with his valiant, bow-wielding brother Lakṣmaṇa.
 
-**13:** Seated in the celestial chariot (vimānasthaḥ), Kākutstha, honouring all the Vānaras, spoke to the mighty Sugrīva together with Vibhīṣaṇa (savibhīṣaṇam):
+**13:** Seated in the celestial chariot (_vimānasthaḥ_), Kākutstha, honouring all the Vānaras, spoke to the mighty Sugrīva together with Vibhīṣaṇa (_savibhīṣaṇam_):
 </details>
 </details>
 
@@ -632,7 +632,7 @@ after hearing all this and also all that he intends to do in relation to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This task of a friend (mitrakāryam) has been accomplished by you, O bulls among the Vānaras! Permitted by me (anujñātā mayā), do you all return whithersoever you wish (yatheṣṭaṃ pratigacchata)!
+“This task of a friend (_mitrakāryam_) has been accomplished by you, O bulls among the Vānaras! Permitted by me (_anujñātā mayā_), do you all return whithersoever you wish (_yatheṣṭaṃ pratigacchata_)!
 </details>
 </details>
 
@@ -685,7 +685,7 @@ ascertained through the colour of his face, glances and the speech."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever ought to be done by an affectionate, benevolent, and dharma-fearing comrade (vayasyena snigdhena ca hitena ca)—all that, O Sugrīva, has been performed by you who shrink from unrighteousness (adharmabhīruṇā)!
+And whatever ought to be done by an affectionate, benevolent, and dharma-fearing comrade (_vayasyena snigdhena ca hitena ca_)—all that, O Sugrīva, has been performed by you who shrink from unrighteousness (_adharmabhīruṇā_)!
 </details>
 </details>
 
@@ -736,7 +736,7 @@ father?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceed swiftly to Kiṣkindhā (kiṣkindhāṃ prati yāhy āśu), surrounded by your own army! And do you, O Vibhīṣaṇa, dwell in your own kingdom in Laṅkā bestowed upon you by me; not even the celestials together with Indra (sendrā api divaukasaḥ) are able to assail you!
+Proceed swiftly to Kiṣkindhā (_kiṣkindhāṃ prati yāhy āśu_), surrounded by your own army! And do you, O Vibhīṣaṇa, dwell in your own kingdom in Laṅkā bestowed upon you by me; not even the celestials together with Indra (_sendrā api divaukasaḥ_) are able to assail you!
 </details>
 </details>
 
@@ -786,7 +786,7 @@ longing for it himself, let Bharata rule the entire kingdom in one piece."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall now depart for Ayodhyā, the royal capital of my father (rājadhānīṃ pitur mama); I wish to receive your leave (abhyanujñātum icchāmi), and I bid farewell to you all (sarvān āmantrayāmi vaḥ)!”
+I shall now depart for Ayodhyā, the royal capital of my father (_rājadhānīṃ pitur mama_); I wish to receive your leave (_abhyanujñātum icchāmi_), and I bid farewell to you all (_sarvān āmantrayāmi vaḥ_)!”
 </details>
 </details>
 
@@ -843,7 +843,7 @@ before we are not gone for a long distance towards Ayodhya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāma, all the monkey chiefs and the monkeys, as well as the Rākṣasa Vibhīṣaṇa, spoke with joined palms (ūcuḥ prāñjalayaḥ sarve):
+Addressed thus by Rāma, all the monkey chiefs and the monkeys, as well as the Rākṣasa Vibhīṣaṇa, spoke with joined palms (_ūcuḥ prāñjalayaḥ sarve_):
 </details>
 </details>
 
@@ -889,7 +889,7 @@ swiftly left for Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We wish to go to Ayodhyā—may Your Majesty take us all (sarvān nayatu no bhavān)! Filled with joy (mudyuktāḥ), we shall roam through its forests and pleasure-groves (vanāny upavanāni ca)!
+“We wish to go to Ayodhyā—may Your Majesty take us all (_sarvān nayatu no bhavān_)! Filled with joy (_mudyuktāḥ_), we shall roam through its forests and pleasure-groves (_vanāny upavanāni ca_)!
 </details>
 </details>
 
@@ -941,7 +941,7 @@ eagle would fly with speed, while seeking to catch a large snake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having beheld you wet with the waters of consecration (tvām abhiṣekārdram) and having saluted Kausalyā (kausalyām abhivādya ca), we shall before long (acirāt) return to our own homes, O best of kings!”
+Having beheld you wet with the waters of consecration (_tvām abhiṣekārdram_) and having saluted Kausalyā (_kausalyām abhivādya ca_), we shall before long (_acirāt_) return to our own homes, O best of kings!”
 </details>
 </details>
 
@@ -1008,9 +1008,9 @@ chief of Nishadas), that valiant Hanuma spoke the following words in a charming 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Addressed thus by the Vānaras together with Vibhīṣaṇa, the righteous-souled Rāma spoke to the Vānaras accompanied by Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇān):
+**21:** Addressed thus by the Vānaras together with Vibhīṣaṇa, the righteous-souled Rāma spoke to the Vānaras accompanied by Sugrīva and Vibhīṣaṇa (_sasugrīvavibhīṣaṇān_):
 
-**22:** “Something dearer even than what is dear (priyāt priyataraṃ labdham) has been gained by me, in that I, surrounded by my circle of friends (sasuhṛjjanaḥ), shall attain the joy of entering the city accompanied by all of you (sarvair bhavadbhiḥ sahitaḥ)!
+**22:** “Something dearer even than what is dear (_priyāt priyataraṃ labdham_) has been gained by me, in that I, surrounded by my circle of friends (_sasuhṛjjanaḥ_), shall attain the joy of entering the city accompanied by all of you (_sarvair bhavadbhiḥ sahitaḥ_)!
 </details>
 </details>
 
@@ -1090,9 +1090,9 @@ bright half of the month of Ashvayuja)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “Ascend the celestial chariot swiftly, O Sugrīva, together with the Vānaras (vimānaṃ saha vānaraiḥ)! And do you also ascend accompanied by your ministers (sāmātyaḥ), O Vibhīṣaṇa, lord of the Rākṣasas!”
+**23:** “Ascend the celestial chariot swiftly, O Sugrīva, together with the Vānaras (_vimānaṃ saha vānaraiḥ_)! And do you also ascend accompanied by your ministers (_sāmātyaḥ_), O Vibhīṣaṇa, lord of the Rākṣasas!”
 
-**24:** Thereupon, filled with joy (mudā yuktaḥ), Sugrīva together with the Vānaras ascended that divine Puṣpaka, as did Vibhīṣaṇa accompanied by his ministers (sāmātyaś ca vibhīṣaṇaḥ).
+**24:** Thereupon, filled with joy (_mudā yuktaḥ_), Sugrīva together with the Vānaras ascended that divine Puṣpaka, as did Vibhīṣaṇa accompanied by his ministers (_sāmātyaś ca vibhīṣaṇaḥ_).
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ splendor, not thinking of his fatigue, sprang up with a great speed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When all of them had ascended (teṣv ārūḍheṣu sarveṣu), that supreme seat of Kubera (kauberaṃ paramāsanam), granted leave by Rāghava (rāghaveṇābhyanujñātam), sprang up into the firmament (utpapāta vihāyasam)!
+When all of them had ascended (_teṣv ārūḍheṣu sarveṣu_), that supreme seat of Kubera (_kauberaṃ paramāsanam_), granted leave by Rāghava (_rāghaveṇābhyanujñātam_), sprang up into the firmament (_utpapāta vihāyasam_)!
 </details>
 </details>
 
@@ -1201,7 +1201,7 @@ the formidable forest of Sala trees, many thousands of people and numerous commu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Borne by that effulgent celestial chariot coursing through the sky (khagatena vimānena) and yoked with swans (haṃsayuktena), Rāma, thrilled and delighted at heart (prahṛṣṭaś ca pratītaś ca), shone like Kubera himself (babhau rāmaḥ kuberavat).
+Borne by that effulgent celestial chariot coursing through the sky (_khagatena vimānena_) and yoked with swans (_haṃsayuktena_), Rāma, thrilled and delighted at heart (_prahṛṣṭaś ca pratītaś ca_), shone like Kubera himself (_babhau rāmaḥ kuberavat_).
 </details>
 </details>
 
@@ -1271,7 +1271,7 @@ they were.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all those mighty Vānaras, bears, and Rākṣasas sat down at their ease (yathāsukham) and without crowding (asambādham) inside that divine chariot (divye tasminn upāviśan).
+And all those mighty Vānaras, bears, and Rākṣasas sat down at their ease (_yathāsukham_) and without crowding (_asambādham_) inside that divine chariot (_divye tasminn upāviśan_).
 </details>
 </details>
 

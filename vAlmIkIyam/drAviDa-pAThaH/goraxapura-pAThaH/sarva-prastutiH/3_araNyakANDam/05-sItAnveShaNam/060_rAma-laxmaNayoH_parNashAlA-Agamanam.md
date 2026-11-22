@@ -83,7 +83,7 @@ he missed his footing. [3-60-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he hurried back (bhṛśam āvrajamānasya), the lower lid of his left eye (adho vāma-locanam) throbbed (prāsphurat), Rāma stumbled (askhalat), and a tremor came upon him (vepathuś cāsya jāyate).
+As he hurried back (_bhṛśam āvrajamānasya_), the lower lid of his left eye (_adho vāma-locanam_) throbbed (_prāsphurat_), Rāma stumbled (_askhalat_), and a tremor came upon him (_vepathuś cāsya jāyate_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ On closely watching those inauspicious forebodings Rama indeed uttered oftentime
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Observing those inauspicious omens (nimittāni aśubhāni) again and again (muhur muhuḥ), he exclaimed, “May all be well with Sītā (api kṣemaṃ tu sītāyāḥ)!”
+Observing those inauspicious omens (_nimittāni aśubhāni_) again and again (_muhur muhuḥ_), he exclaimed, “May all be well with Sītā (_api kṣemaṃ tu sītāyāḥ_)!”
 </details>
 </details>
 
@@ -186,7 +186,7 @@ is distraught. [3-60-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Eagerly longing for the sight of Sītā (sītā-darśana-lālasaḥ), he then went in haste (tvaramāṇaḥ); beholding the dwelling empty (śūnyam āvasathaṃ dṛṣṭvā), he became distressed in mind (udvigna-mānasaḥ).
+Eagerly longing for the sight of Sītā (_sītā-darśana-lālasaḥ_), he then went in haste (_tvaramāṇaḥ_); beholding the dwelling empty (_śūnyam āvasathaṃ dṛṣṭvā_), he became distressed in mind (_udvigna-mānasaḥ_).
 </details>
 </details>
 
@@ -250,9 +250,9 @@ straw devoid of Seetha, alike a befogged wintry lotus-lake without lustre. [3-60
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Darting about (udbhramann iva) with speed and flinging out [his arms] (vikṣipan), the delight of the Raghus searched every corner of the hermitage compound (tatra tatroṭaja-sthānam) on all sides (samantataḥ)—
+**4:** Darting about (_udbhramann iva_) with speed and flinging out [his arms] (_vikṣipan_), the delight of the Raghus searched every corner of the hermitage compound (_tatra tatroṭaja-sthānam_) on all sides (_samantataḥ_)—
 
-**5:** And beheld the leaf-thatched cottage (parṇa-śālām) bereft of Sītā (sītayā rahitām), like a lotus-pond in winter (hemante padminīm iva) blighted (dhvastām) and stripped of its beauty (śriyā virahitām)—
+**5:** And beheld the leaf-thatched cottage (_parṇa-śālām_) bereft of Sītā (_sītayā rahitām_), like a lotus-pond in winter (_hemante padminīm iva_) blighted (_dhvastām_) and stripped of its beauty (_śriyā virahitām_)—
 </details>
 </details>
 
@@ -286,7 +286,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[And beheld the hermitage] as though weeping through its trees (rudantam iva vṛkṣaiś ca), its flowers, deer, and birds drooped and faded (glāna-puṣpa-mṛga-dvijam), stripped of splendour (śriyā vihīnam), ravaged (vidhvastam), and forsaken by the forest deities (saṃtyaktaṃ vana-daivataiḥ)—
+[And beheld the hermitage] as though weeping through its trees (_rudantam iva vṛkṣaiś ca_), its flowers, deer, and birds drooped and faded (_glāna-puṣpa-mṛga-dvijam_), stripped of splendour (_śriyā vihīnam_), ravaged (_vidhvastam_), and forsaken by the forest deities (_saṃtyaktaṃ vana-daivataiḥ_)—
 </details>
 </details>
 
@@ -356,7 +356,7 @@ is an out and out human, as of now.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Beholding that empty hermitage compound (śūnyoṭaja-sthānam) with its deerskins and kuśa grass scattered about (viprakīrṇājina-kuśam) and its ascetic cushions and straw mats tossed in disorder (vipraviddha-bṛsī-kaṭam), he lamented again and again (vilalāpa punaḥ punaḥ):
+—Beholding that empty hermitage compound (_śūnyoṭaja-sthānam_) with its deerskins and _kuśa_ grass scattered about (_viprakīrṇājina-kuśam_) and its ascetic cushions and straw mats tossed in disorder (_vipraviddha-bṛsī-kaṭam_), he lamented again and again (_vilalāpa punaḥ punaḥ_):
 </details>
 </details>
 
@@ -411,7 +411,7 @@ forest which will be gruelling to locate. [3-60-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Has she been abducted (hṛtā), or has she died (mṛtā vā), or lost her way (naṣṭā vā), or been devoured (bhakṣitā vā)? Or has the timid one (bhīruḥ) hidden herself (nilīnāpi), or else gone into the forest (vanam āśritā)—
+“Has she been abducted (_hṛtā_), or has she died (_mṛtā vā_), or lost her way (_naṣṭā vā_), or been devoured (_bhakṣitā vā_)? Or has the timid one (_bhīruḥ_) hidden herself (_nilīnāpi_), or else gone into the forest (_vanam āśritā_)—
 </details>
 </details>
 
@@ -463,7 +463,7 @@ to the river for water." Thinking thus, Rama started his search for Seetha. [3-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—gone to gather flowers (vicetuṃ puṣpāṇi) or fruits once again, or gone to the lotus-pond (padminīṃ yātā), or gone to the river for water (jalārthaṃ vā nadīṃ gatā)?”
+“—gone to gather flowers (_vicetuṃ puṣpāṇi_) or fruits once again, or gone to the lotus-pond (_padminīṃ yātā_), or gone to the river for water (_jalārthaṃ vā nadīṃ gatā_)?”
 </details>
 </details>
 
@@ -522,7 +522,7 @@ shall also be 'like' a mad-translation, as long as he talks 'like' a madman.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though searching with all his effort (yatnān mṛgayamāṇas tu), he did not find his beloved in the forest (nāsasāda vane priyām); his eyes reddened with grief (śoka-raktekṣaṇaḥ), the glorious prince appeared like one distraught (unmatta iva lakṣyate).
+Though searching with all his effort (_yatnān mṛgayamāṇas tu_), he did not find his beloved in the forest (_nāsasāda vane priyām_); his eyes reddened with grief (_śoka-raktekṣaṇaḥ_), the glorious prince appeared like one distraught (_unmatta iva lakṣyate_).
 </details>
 </details>
 
@@ -585,7 +585,7 @@ are presented in the endnote.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Running from tree to tree (vṛkṣād vṛkṣaṃ pradhāvan), and across hills, rivers, and torrents (girīṃś cāpi nadī-nadam), Rāma wandered lamenting (babhrāma vilapan), plunged in an ocean of the mire of grief (śoka-paṅkārṇava-plutaḥ):
+Running from tree to tree (_vṛkṣād vṛkṣaṃ pradhāvan_), and across hills, rivers, and torrents (_girīṃś cāpi nadī-nadam_), Rāma wandered lamenting (_babhrāma vilapan_), plunged in an ocean of the mire of grief (_śoka-paṅkārṇava-plutaḥ_):
 </details>
 </details>
 
@@ -672,9 +672,9 @@ silkiness of thine leaflets, breasts to thine rotund and silky Bilva fruits, tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Has that beloved of mine, who is fond of kadamba blossoms (kadamba-priyā priyā), perchance been seen by you? O Kadamba tree, if you know (yadi jānīṣe), tell me of fair-faced Sītā (śaṃsa sītāṃ śubhānanām)!
+**12:** “Has that beloved of mine, who is fond of _kadamba_ blossoms (_kadamba-priyā priyā_), perchance been seen by you? O Kadamba tree, if you know (_yadi jānīṣe_), tell me of fair-faced Sītā (_śaṃsa sītāṃ śubhānanām_)!
 
-**13:** “O Bilva tree! If she whose breasts resemble bilva fruits (bilvopama-stanī)—radiant like your glossy young shoots (snigdha-pallava-saṃkāśām) and clad in yellow silk (pīta-kauśeya-vāsinīm)—has been seen by you, tell me (śaṃsasva)!
+**13:** “O Bilva tree! If she whose breasts resemble _bilva_ fruits (_bilvopama-stanī_)—radiant like your glossy young shoots (_snigdha-pallava-saṃkāśām_) and clad in yellow silk (_pīta-kauśeya-vāsinīm_)—has been seen by you, tell me (_śaṃsasva_)!
 </details>
 </details>
 
@@ -727,7 +727,7 @@ of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else, O Arjuna tree, do you tell me of that beloved who is fond of arjuna blossoms (arjuna-priyām), whether the slender daughter of Janaka (janakasya sutā tanvī) is alive or not (jīvati vā na vā)!
+“Or else, O Arjuna tree, do you tell me of that beloved who is fond of _arjuna_ blossoms (_arjuna-priyām_), whether the slender daughter of Janaka (_janakasya sutā tanvī_) is alive or not (_jīvati vā na vā_)!
 </details>
 </details>
 
@@ -808,9 +808,9 @@ this Tilaka tree clearly knowest Maithili, a lover of Tilaka trees, as this shou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “The Kakubha tree clearly knows (vyaktaṃ jānāti) that Maithilī whose thighs are smooth like kakubha bark (kakubhoruṃ tām), for this lordly tree shines richly endowed with creepers, young shoots, and blossoms (latā-pallava-puṣpāḍhyaḥ)!
+**15:** “The Kakubha tree clearly knows (_vyaktaṃ jānāti_) that Maithilī whose thighs are smooth like _kakubha_ bark (_kakubhoruṃ tām_), for this lordly tree shines richly endowed with creepers, young shoots, and blossoms (_latā-pallava-puṣpāḍhyaḥ_)!
 
-**16:** “Since you are the foremost of trees (druma-varo hy asi), sung near by humming bees (bhramarair upagītaś ca), this Tilaka tree clearly knows (vyaktaṃ vijānāti) her who is fond of tilaka blossoms (tilaka-priyām)!
+**16:** “Since you are the foremost of trees (_druma-varo hy asi_), sung near by humming bees (_bhramarair upagītaś ca_), this Tilaka tree clearly knows (_vyaktaṃ vijānāti_) her who is fond of _tilaka_ blossoms (_tilaka-priyām_)!
 </details>
 </details>
 
@@ -864,7 +864,7 @@ name me after thine, by showing my ladylove, as my agony has marred my empathy..
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Aśoka tree, dispeller of sorrow (śokāpanuda), swiftly make me—whose mind is stricken by grief (śokopahata-cetanam)—true to your own name [‘free from sorrow’] (tvan-nāmānaṃ kuru) by revealing my beloved (priyā-saṃdarśanena)!
+“O Aśoka tree, dispeller of sorrow (_śokāpanuda_), swiftly make me—whose mind is stricken by grief (_śokopahata-cetanam_)—true to your own name [‘free from sorrow’] (_tvan-nāmānaṃ kuru_) by revealing my beloved (_priyā-saṃdarśanena_)!
 </details>
 </details>
 
@@ -915,7 +915,7 @@ is mine, thou telleth of that shapely lady Seetha... [3-60-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Tāla palm, if she whose breasts resemble ripe palmyra fruits (pakva-tālopama-stanī) has been seen by you, tell me of that fair-hipped lady (kathayasva varārohām), if you have compassion for me (kāruṇyaṃ yadi te mayi)!
+“O Tāla palm, if she whose breasts resemble ripe palmyra fruits (_pakva-tālopama-stanī_) has been seen by you, tell me of that fair-hipped lady (_kathayasva varārohām_), if you have compassion for me (_kāruṇyaṃ yadi te mayi_)!
 </details>
 </details>
 
@@ -984,7 +984,7 @@ like thine Rose-apples, thou telleth me unhesitatingly... [3-60-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Jambū tree, if she whose lustre equals Jambūnada gold (jāmbūnada-sama-prabhā) has been seen by you—if you know my beloved (priyāṃ yadi vijānāsi)—tell me without hesitation (niḥśaṅka kathayasva me)!
+“O Jambū tree, if she whose lustre equals Jambūnada gold (_jāmbūnada-sama-prabhā_) has been seen by you—if you know my beloved (_priyāṃ yadi vijānāsi_)—tell me without hesitation (_niḥśaṅka kathayasva me_)!
 </details>
 </details>
 
@@ -1049,7 +1049,7 @@ gestures, what exactly has happened...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ah, O Karṇikāra tree, in full bloom today (adya puṣpitaḥ), you shine exceedingly (śobhase bhṛśam)! If my beloved has been seen, tell me of that virtuous lady who is fond of karṇikāra blossoms (karṇikāra-priyāṃ sādhvīm)!”
+“Ah, O Karṇikāra tree, in full bloom today (_adya puṣpitaḥ_), you shine exceedingly (_śobhase bhṛśam_)! If my beloved has been seen, tell me of that virtuous lady who is fond of _karṇikāra_ blossoms (_karṇikāra-priyāṃ sādhvīm_)!”
 </details>
 </details>
 
@@ -1118,9 +1118,9 @@ highly glorious Rama appeared like a madman. [3-60-21, 22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Going up to and beholding the mango, nīpa, and great sāla trees (cūta-nīpa-mahā-sālān), the jackfruit (panasān), kurava, dhava, and pomegranate trees (dāḍimān api)—Rāma of great renown (mahā-yaśāḥ)—
+**21:** Going up to and beholding the mango, _nīpa_, and great _sāla_ trees (_cūta-nīpa-mahā-sālān_), the jackfruit (_panasān_), _kurava_, _dhava_, and pomegranate trees (_dāḍimān api_)—Rāma of great renown (_mahā-yaśāḥ_)—
 
-**22:** —and questioning the bakula, punnāga, sandalwood (candanān), and ketaka trees as well, Rāma, wandering bewildered in the forest (vane bhrāntaḥ), appeared like one distraught (unmatta iva lakṣyate):
+**22:** —and questioning the _bakula_, _punnāga_, sandalwood (_candanān_), and _ketaka_ trees as well, Rāma, wandering bewildered in the forest (_vane bhrāntaḥ_), appeared like one distraught (_unmatta iva lakṣyate_):
 </details>
 </details>
 
@@ -1185,7 +1185,7 @@ you are escaping expertly... leave it at that...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else, O deer (mṛga), do you know Maithilī whose eyes are like a fawn's (mṛga-śāvākṣīm)? My beloved with the glancing eyes of a doe (mṛga-viprekṣaṇī kāntā) must surely be in the company of the does (mṛgībhiḥ sahitā bhavet)!
+“Or else, O deer (_mṛga_), do you know Maithilī whose eyes are like a fawn&#x27;s (_mṛga-śāvākṣīm_)? My beloved with the glancing eyes of a doe (_mṛga-viprekṣaṇī kāntā_) must surely be in the company of the does (_mṛgībhiḥ sahitā bhavet_)!
 </details>
 </details>
 
@@ -1246,7 +1246,7 @@ with your massive head, trunk or legs, but tell me what exactly has happened...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O elephant (gaja), if she whose thighs resemble an elephant's trunk (gaja-nāsoruḥ) has been seen by you, I think she is known to you (viditāṃ tubhyam); tell me, O lordly elephant (vara-vāraṇa)!
+“O elephant (_gaja_), if she whose thighs resemble an elephant&#x27;s trunk (_gaja-nāsoruḥ_) has been seen by you, I think she is known to you (_viditāṃ tubhyam_); tell me, O lordly elephant (_vara-vāraṇa_)!
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ to rescue Seetha. Such as he is, an uninformed one, he starts a delirious solilo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O tiger (śārdūla), if that beloved Maithilī of mine whose face resembles the moon (candra-nibhānanā) has been seen by you, tell me confidently (visrabdhaḥ kathayasva); there is no fear for you (na te bhayam)!
+“O tiger (_śārdūla_), if that beloved Maithilī of mine whose face resembles the moon (_candra-nibhānanā_) has been seen by you, tell me confidently (_visrabdhaḥ kathayasva_); there is no fear for you (_na te bhayam_)!
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ under trees, why do not you reply me... [3-60-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you run away, O beloved (kiṃ dhāvasi priye)? Surely you have been seen, O lotus-eyed one (dṛṣṭāsi kamalekṣaṇe)! Concealing yourself behind the trees (vṛkṣair ācchādya cātmānam), why do you not answer me (kiṃ māṃ na pratibhāṣase)?
+“Why do you run away, O beloved (_kiṃ dhāvasi priye_)? Surely you have been seen, O lotus-eyed one (_dṛṣṭāsi kamalekṣaṇe_)! Concealing yourself behind the trees (_vṛkṣair ācchādya cātmānam_), why do you not answer me (_kiṃ māṃ na pratibhāṣase_)?
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ What for you ignore me? [3-60-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stay, stay, O fair-hipped lady (tiṣṭha tiṣṭha varārohe)! Have you no compassion for me (na te 'sti karuṇā mayi)? You are not given to excessive jesting (nātyarthaṃ hāsya-śīlāsi); why do you disregard me (kimarthaṃ mām upekṣase)?
+“Stay, stay, O fair-hipped lady (_tiṣṭha tiṣṭha varārohe_)! Have you no compassion for me (_na te &#x27;sti karuṇā mayi_)? You are not given to excessive jesting (_nātyarthaṃ hāsya-śīlāsi_); why do you disregard me (_kimarthaṃ mām upekṣase_)?
 </details>
 </details>
 
@@ -1476,7 +1476,7 @@ stay, if you have goodwill for me... [3-60-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are betrayed by your yellow silk garment (pīta-kauśeyakenāsi sūcitā), O lady of fair complexion (vara-varṇini)! Even as you run, you have been seen by me (dhāvanty api mayā dṛṣṭā); stay, if you bear me affection (tiṣṭha yady asti sauhṛdam)!
+“You are betrayed by your yellow silk garment (_pīta-kauśeyakenāsi sūcitā_), O lady of fair complexion (_vara-varṇini_)! Even as you run, you have been seen by me (_dhāvanty api mayā dṛṣṭā_); stay, if you bear me affection (_tiṣṭha yady asti sauhṛdam_)!
 </details>
 </details>
 
@@ -1530,7 +1530,7 @@ me who attained this wretched state, hence Seetha with cheery smiles is certainl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or rather, that is surely not she (naiva sā nūnam)! She of the sweet smile (cāru-hāsinī) must have been slain (hiṃsitā), since she could never bear to disregard me (nūnaṃ yathopekṣitum arhati) when I am plunged into such distress (kṛcchraṃ prāptam)!
+“Or rather, that is surely not she (_naiva sā nūnam_)! She of the sweet smile (_cāru-hāsinī_) must have been slain (_hiṃsitā_), since she could never bear to disregard me (_nūnaṃ yathopekṣitum arhati_) when I am plunged into such distress (_kṛcchraṃ prāptam_)!
 </details>
 </details>
 
@@ -1590,7 +1590,7 @@ from my dear one... [3-60-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly that young girl (sā bālā), my beloved bereft of me (mayā virahitā priyā), has been devoured by flesh-eating demons (bhakṣitā... rākṣasaiḥ piśitāśanaiḥ) after they divided all her limbs (vibhajyāṅgāni sarvāṇi)!
+“Clearly that young girl (_sā bālā_), my beloved bereft of me (_mayā virahitā priyā_), has been devoured by flesh-eating demons (_bhakṣitā... rākṣasaiḥ piśitāśanaiḥ_) after they divided all her limbs (_vibhajyāṅgāni sarvāṇi_)!
 </details>
 </details>
 
@@ -1647,7 +1647,7 @@ earrings, might have obtained a blanched look when being devoured... [3-60-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely that face of hers—with its lovely teeth and lips (śubha-dantoṣṭham), shapely nose (sunāsam), and bright earrings (śubha-kuṇḍalam), resembling the full moon (pūrṇa-candra-nibham)—once swallowed (grastam), has lost all its lustre (niṣprabhatāṃ gatam)!
+“Surely that face of hers—with its lovely teeth and lips (_śubha-dantoṣṭham_), shapely nose (_sunāsam_), and bright earrings (_śubha-kuṇḍalam_), resembling the full moon (_pūrṇa-candra-nibham_)—once swallowed (_grastam_), has lost all its lustre (_niṣprabhatāṃ gatam_)!
 </details>
 </details>
 
@@ -1699,7 +1699,7 @@ befitting for any neck ornament, indeed it might be glutted down while she is be
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that tender, auspicious neck (grīvā... komalā śubhā) of my lamenting beloved (vilapantyās tu kāntāyāḥ), shining with the hue of campaka blossoms (campaka-varṇābhā) and worthy of a neck-ornament (graiveyakocitā), has been devoured!
+“For that tender, auspicious neck (_grīvā... komalā śubhā_) of my lamenting beloved (_vilapantyās tu kāntāyāḥ_), shining with the hue of _campaka_ blossoms (_campaka-varṇābhā_) and worthy of a neck-ornament (_graiveyakocitā_), has been devoured!
 </details>
 </details>
 
@@ -1751,7 +1751,7 @@ been definitely nibbled while they are wriggling with quivering fingers... [3-60
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely those two arms of hers, tender as young shoots (bāhū pallava-komalau), flinging about (vikṣipyamāṇau) with trembling hands (vepamānāgrau), have been devoured together with their bracelets and armlets (sahastābharaṇāṅgadau)!
+“Surely those two arms of hers, tender as young shoots (_bāhū pallava-komalau_), flinging about (_vikṣipyamāṇau_) with trembling hands (_vepamānāgrau_), have been devoured together with their bracelets and armlets (_sahastābharaṇāṅgadau_)!
 </details>
 </details>
 
@@ -1806,7 +1806,7 @@ by her caravan who is lonesomely ready for the feast of highwaymen, and demons h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of me, that young girl was left as prey for the demons to devour (rakṣasāṃ bhakṣaṇāya vai); though possessing many kinsmen (bahu-bāndhavā), she has been devoured like a woman forsaken by her caravan (sārtheneva parityaktā)!
+“Bereft of me, that young girl was left as prey for the demons to devour (_rakṣasāṃ bhakṣaṇāya vai_); though possessing many kinsmen (_bahu-bāndhavā_), she has been devoured like a woman forsaken by her caravan (_sārtheneva parityaktā_)!
 </details>
 </details>
 
@@ -1902,9 +1902,9 @@ he is nitid like a madman. [3-60-36, 37a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** “O mighty-armed Lakṣmaṇa (mahā-bāho), do you see my beloved anywhere (paśyase tvaṃ priyāṃ kvacit)? O beloved, O auspicious lady (bhadre), where have you gone? O Sītā!”—[so he cried] again and again (punaḥ punaḥ).
+**35:** “O mighty-armed Lakṣmaṇa (_mahā-bāho_), do you see my beloved anywhere (_paśyase tvaṃ priyāṃ kvacit_)? O beloved, O auspicious lady (_bhadre_), where have you gone? O Sītā!”—[so he cried] again and again (_punaḥ punaḥ_).
 
-**36:** Lamenting thus (ity evaṃ vilapan) and running from forest to forest (paridhāvan vanād vanam), Rāma in some places leaps up from impetuous grief (kvacid udbhramate vegāt), and in some places reels about violently (kvacid vibhramate balāt);
+**36:** Lamenting thus (_ity evaṃ vilapan_) and running from forest to forest (_paridhāvan vanād vanam_), Rāma in some places leaps up from impetuous grief (_kvacid udbhramate vegāt_), and in some places reels about violently (_kvacid vibhramate balāt_);
 </details>
 </details>
 
@@ -1962,7 +1962,7 @@ restlessly. [3-60-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In some places he appears like one intoxicated (kvacin matta ivābhāti), wholly intent on searching for his beloved (kāntānveṣaṇa-tatparaḥ); never pausing to rest (aparisaṃsthitaḥ), he roams swiftly through forests, rivers, mountains, mountain cascades (giri-prasravaṇāni ca), and dense woods (kānanāni ca).
+In some places he appears like one intoxicated (_kvacin matta ivābhāti_), wholly intent on searching for his beloved (_kāntānveṣaṇa-tatparaḥ_); never pausing to rest (_aparisaṃsthitaḥ_), he roams swiftly through forests, rivers, mountains, mountain cascades (_giri-prasravaṇāni ca_), and dense woods (_kānanāni ca_).
 </details>
 </details>
 
@@ -2038,6 +2038,6 @@ but again he undertook the search for his ladylove, over-strenuously. [3-60-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having entered that vast, great forest (vipulaṃ mahad vanam) and traversed it all around (parītya sarvam) in quest of Maithilī (maithilīṃ prati), he, his hope still unextinguished (aniṣṭhitāśaḥ), once again made the utmost effort (paramaṃ pariśramam) in searching for his beloved (mārgaṇe... priyāyāḥ).
+Then, having entered that vast, great forest (_vipulaṃ mahad vanam_) and traversed it all around (_parītya sarvam_) in quest of Maithilī (_maithilīṃ prati_), he, his hope still unextinguished (_aniṣṭhitāśaḥ_), once again made the utmost effort (_paramaṃ pariśramam_) in searching for his beloved (_mārgaṇe... priyāyāḥ_).
 </details>
 </details>

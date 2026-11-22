@@ -78,7 +78,7 @@ fear of Rama's arrows, his pride was humbled and his senses troubled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered the city of Laṅkā tormented by the fear of Rāma's arrows (rāma-bāṇa-bhayārditaḥ), the king, his pride shattered (bhagna-darpaḥ), then became deeply distressed in all his senses.
+Having entered the city of Laṅkā tormented by the fear of Rāma&#x27;s arrows (_rāma-bāṇa-bhayārditaḥ_), the king, his pride shattered (_bhagna-darpaḥ_), then became deeply distressed in all his senses.
 </details>
 </details>
 
@@ -124,7 +124,7 @@ serpent by an eagle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like an elephant (mātaṅgaḥ) overpowered by a lion, or a serpent (pannagaḥ) by Garuḍa, the king had been overwhelmed by the high-souled Rāghava.
+Like an elephant (_mātaṅgaḥ_) overpowered by a lion, or a serpent (_pannagaḥ_) by Garuḍa, the king had been overwhelmed by the high-souled Rāghava.
 </details>
 </details>
 
@@ -176,7 +176,7 @@ Brahma the Lord of creation and possessed of the splendour of lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Remembering Rāghava's arrows—which resembled the staff of Brahmā (brahma-daṇḍa-pratīkānām) and flashed with the tremulous brilliance of lightning—the lord of the rākṣasas trembled in anguish.
+Remembering Rāghava&#x27;s arrows—which resembled the staff of Brahmā (_brahma-daṇḍa-pratīkānām_) and flashed with the tremulous brilliance of lightning—the lord of the rākṣasas trembled in anguish.
 </details>
 </details>
 
@@ -222,7 +222,7 @@ demons and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking his seat upon a celestial, golden throne of supreme splendor (paramāsanam) and gazing around at the rākṣasas, Rāvaṇa spoke these words:
+Taking his seat upon a celestial, golden throne of supreme splendor (_paramāsanam_) and gazing around at the rākṣasas, Rāvaṇa spoke these words:
 </details>
 </details>
 
@@ -269,7 +269,7 @@ to Mahendra the Lord of Celestials have been defeated by a mere man!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All that supreme austerity (paramaṃ tapaḥ) which I practiced has truly proved in vain (mogham), since I, though equal to Mahendra, have been utterly vanquished by a mere mortal!
+“All that supreme austerity (_paramaṃ tapaḥ_) which I practiced has truly proved in vain (_mogham_), since I, though equal to Mahendra, have been utterly vanquished by a mere mortal!
 </details>
 </details>
 
@@ -316,7 +316,7 @@ from men' appear true. That is so."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is that terrible declaration of Brahmā (brahmaṇo ghoraṃ vākyam) which has now overtaken me: 'Know that peril awaits you from human beings'—and so indeed has it come to pass.
+“This is that terrible declaration of Brahmā (_brahmaṇo ghoraṃ vākyam_) which has now overtaken me: &#x27;Know that peril awaits you from human beings&#x27;—and so indeed has it come to pass.
 </details>
 </details>
 
@@ -376,7 +376,7 @@ musicians, or semi divine beings or demons or serpent-demons, but f man I made n
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Invulnerability (avadhyatvam) to gods, dānavas, gandharvas, yakṣas, rākṣasas, and serpents was requested by me, yet protection from human beings (mānuṣebhyaḥ) was never asked.
+“Invulnerability (_avadhyatvam_) to gods, dānavas, gandharvas, yakṣas, rākṣasas, and serpents was requested by me, yet protection from human beings (_mānuṣebhyaḥ_) was never asked.
 </details>
 </details>
 
@@ -444,9 +444,9 @@ horses and charioteer."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “I deem this very mortal—Rāma, the son of Daśaratha—to be the one foretold of old by Anaraṇya, born in the house of Ikṣvāku (ikṣvāku-kula-jātena), when he declared:
+**8:** “I deem this very mortal—Rāma, the son of Daśaratha—to be the one foretold of old by Anaraṇya, born in the house of Ikṣvāku (_ikṣvāku-kula-jātena_), when he declared:
 
-**9:** “'Verily, O vilest of rākṣasas (rākṣasādhama), a man shall arise in my lineage (mad-vaṃśa-puruṣaḥ) who, along with your sons, ministers, army, horses, and charioteer—
+**9:** “&#x27;Verily, O vilest of rākṣasas (_rākṣasādhama_), a man shall arise in my lineage (_mad-vaṃśa-puruṣaḥ_) who, along with your sons, ministers, army, horses, and charioteer—
 </details>
 </details>
 
@@ -499,7 +499,7 @@ Vedavati is born as the highly fortunate Seetha the daughter of Janaka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“'—shall slay you in battle, O wicked-minded wretch of your race (kulādhama durmate)!' I was likewise cursed by Vedavatī when she was violated (dharṣitā) by me in former times.
+“&#x27;—shall slay you in battle, O wicked-minded wretch of your race (_kulādhama durmate_)!&#x27; I was likewise cursed by Vedavatī when she was violated (_dharṣitā_) by me in former times.
 </details>
 </details>
 
@@ -556,7 +556,7 @@ The words of the sages never prove false."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very Vedavatī has been born as this illustrious Sītā, the delight of Janaka (janaka-nandinī). Moreover, Umā, Nandīśvara, Rambhā, and the daughter of Varuṇa (varuṇa-kanyakā)—
+“That very Vedavatī has been born as this illustrious Sītā, the delight of Janaka (_janaka-nandinī_). Moreover, Umā, Nandīśvara, Rambhā, and the daughter of Varuṇa (_varuṇa-kanyakā_)—
 </details>
 </details>
 
@@ -608,7 +608,7 @@ uttermost. Let the demons go to the summit of Charya Mountain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—whatsoever they pronounced has now befallen me; the utterance of sages (ṛṣi-bhāṣitam) is never false! Taking full account of all this, you must make every effort here.
+“—whatsoever they pronounced has now befallen me; the utterance of sages (_ṛṣi-bhāṣitam_) is never false! Taking full account of all this, you must make every effort here.
 </details>
 </details>
 
@@ -662,7 +662,7 @@ the celestials and demons, and on whom the curse of Brahma the Lord of creation 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the rākṣasas take their posts upon the rampart walkways and gateway towers (caryā-gopura-mūrdhasu); and let that warrior of peerless profundity (apratima-gāmbhīryaḥ), the crusher of the pride of gods and dānavas—
+“Let the rākṣasas take their posts upon the rampart walkways and gateway towers (_caryā-gopura-mūrdhasu_); and let that warrior of peerless profundity (_apratima-gāmbhīryaḥ_), the crusher of the pride of gods and dānavas—
 </details>
 </details>
 
@@ -728,9 +728,9 @@ slumbering soundly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “—Kumbhakarṇa, who lies overpowered by Brahmā's curse (brahma-śāpābhibhūtaḥ), be awakened!” Knowing himself to have been vanquished in battle and Prahasta to have been slain (niṣūditam)—
+**14:** “—Kumbhakarṇa, who lies overpowered by Brahmā&#x27;s curse (_brahma-śāpābhibhūtaḥ_), be awakened!” Knowing himself to have been vanquished in battle and Prahasta to have been slain (_niṣūditam_)—
 
-**15:** —that mighty king commanded his formidable host of rākṣasas (rakṣo-balaṃ bhīmam): “Let a vigilant defense be mounted at the gates, and let the rampart walls (prākāraḥ) be manned!
+**15:** —that mighty king commanded his formidable host of rākṣasas (_rakṣo-balaṃ bhīmam_): “Let a vigilant defense be mounted at the gates, and let the rampart walls (_prākāraḥ_) be manned!
 </details>
 </details>
 
@@ -803,9 +803,9 @@ quickly that mighty Kumbhakarna."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “Let Kumbhakarṇa, who is sunk under the sway of slumber (nidrā-vaśa-samāviṣṭaḥ), be awakened! Free from care, he sleeps happily, his consciousness dulled by sensual indulgence (kāmopahata-cetanaḥ).
+**16:** “Let Kumbhakarṇa, who is sunk under the sway of slumber (_nidrā-vaśa-samāviṣṭaḥ_), be awakened! Free from care, he sleeps happily, his consciousness dulled by sensual indulgence (_kāmopahata-cetanaḥ_).
 
-**17:** “For nine, seven, ten, or eight months at a stretch that rākṣasa sleeps; having held council (mantraṃ kṛtvā) with us, he fell fast asleep nine days ago from today (navame 'hani).
+**17:** “For nine, seven, ten, or eight months at a stretch that rākṣasa sleeps; having held council (_mantraṃ kṛtvā_) with us, he fell fast asleep nine days ago from today (_navame &#x27;hani_).
 </details>
 </details>
 
@@ -853,7 +853,7 @@ the two princes at once in the battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Awaken that mighty Kumbhakarṇa at once! For in battle that great-armed warrior, the foremost crest (kakudam) of all rākṣasas, will swiftly slay the monkeys and the two princes.”
+“Awaken that mighty Kumbhakarṇa at once! For in battle that great-armed warrior, the foremost crest (_kakudam_) of all rākṣasas, will swiftly slay the monkeys and the two princes.”
 </details>
 </details>
 
@@ -914,7 +914,7 @@ being fond of a rustic comfort, is always sleeping stupidly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Kumbhakarṇa, the supreme banner (ketuḥ param) in battle and the very foremost of all rākṣasas, sleeps perpetually, stupefied (mūḍhaḥ) and addicted to vulgar pleasures (grāmya-sukhe rataḥ).
+“This Kumbhakarṇa, the supreme banner (_ketuḥ param_) in battle and the very foremost of all rākṣasas, sleeps perpetually, stupefied (_mūḍhaḥ_) and addicted to vulgar pleasures (_grāmya-sukhe rataḥ_).
 </details>
 </details>
 
@@ -960,7 +960,7 @@ in this highly terrific battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once Kumbhakarṇa is awakened (kumbhakarṇe vibodhite), no grief will remain for me, even though I have been repulsed by Rāma (rāmeṇābhinirastasya) in this most dreadful battle.
+“Once Kumbhakarṇa is awakened (_kumbhakarṇe vibodhite_), no grief will remain for me, even though I have been repulsed by Rāma (_rāmeṇābhinirastasya_) in this most dreadful battle.
 </details>
 </details>
 
@@ -1006,7 +1006,7 @@ of celestials, cannot help me in such a dreadful catastrophe?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, what use have I for one whose strength equals Śakra's (śakra-tulya-balena), if in such a terrible calamity (vyasane ghore) he does not avail to render aid (sāhyāya)?”
+“Indeed, what use have I for one whose strength equals Śakra&#x27;s (_śakra-tulya-balena_), if in such a terrible calamity (_vyasane ghore_) he does not avail to render aid (_sāhyāya_)?”
 </details>
 </details>
 
@@ -1052,7 +1052,7 @@ Kumbhakarna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that command of the lord of rākṣasas, those rākṣasas, seized with utmost flurry (parama-sambhrāntāḥ), hastened to the abode of Kumbhakarṇa (kumbhakarṇa-niveśanam).
+Hearing that command of the lord of rākṣasas, those rākṣasas, seized with utmost flurry (_parama-sambhrāntāḥ_), hastened to the abode of Kumbhakarṇa (_kumbhakarṇa-niveśanam_).
 </details>
 </details>
 
@@ -1086,7 +1086,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by Rāvaṇa, those eaters of flesh and blood (māṃsa-śoṇita-bhojanāḥ) took up fragrant unguents, garlands, and a vast store of viands (mahad bhakṣyam), and swiftly set forth.
+Commanded by Rāvaṇa, those eaters of flesh and blood (_māṃsa-śoṇita-bhojanāḥ_) took up fragrant unguents, garlands, and a vast store of viands (_mahad bhakṣyam_), and swiftly set forth.
 </details>
 </details>
 
@@ -1170,9 +1170,9 @@ demons beheld Kumbhakarna, of terrific prowess, who was sleeping.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Entering that lovely cavern of Kumbhakarṇa (kumbhakarṇa-guhāṃ ramyām), which possessed a colossal portal, stretched a full yojana on every side (sarvato yojanāyatām), and wafted the fragrance of blossoms—
+**24:** Entering that lovely cavern of Kumbhakarṇa (_kumbhakarṇa-guhāṃ ramyām_), which possessed a colossal portal, stretched a full yojana on every side (_sarvato yojanāyatām_), and wafted the fragrance of blossoms—
 
-**25:** —those rākṣasas of mighty strength, blown back (avadhūtāḥ) by the blast of Kumbhakarṇa's breath, braced themselves with difficulty (pratiṣṭhamānāḥ kṛcchreṇa) and entered the cavern by strenuous effort.
+**25:** —those rākṣasas of mighty strength, blown back (_avadhūtāḥ_) by the blast of Kumbhakarṇa&#x27;s breath, braced themselves with difficulty (_pratiṣṭhamānāḥ kṛcchreṇa_) and entered the cavern by strenuous effort.
 </details>
 </details>
 
@@ -1227,7 +1227,7 @@ mountain in a great slumber.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered that lovely cavern with its pavement of gems and gold (ratna-kāñcana-kuṭṭimām), those tigers among nairṛtas beheld him of terrible valor (bhīma-vikramam) lying asleep.
+Having entered that lovely cavern with its pavement of gems and gold (_ratna-kāñcana-kuṭṭimām_), those tigers among nairṛtas beheld him of terrible valor (_bhīma-vikramam_) lying asleep.
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ Having entered that lovely cavern with its pavement of gems and gold (ratna-kā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gathering together (sametāḥ), they sought to awaken that Kumbhakarṇa, who was sunk in stupendous slumber (mahā-nidram) and lay sprawled in distorted form like a shattered mountain (vikīrṇam iva parvatam).
+Gathering together (_sametāḥ_), they sought to awaken that Kumbhakarṇa, who was sunk in stupendous slumber (_mahā-nidram_) and lay sprawled in distorted form like a shattered mountain (_vikīrṇam iva parvatam_).
 </details>
 </details>
 
@@ -1289,7 +1289,7 @@ Gathering together (sametāḥ), they sought to awaken that Kumbhakarṇa, who w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His body bristled with erect hair (ūrdhva-lomāñcita-tanum); he hissed like a breathing serpent and sent them whirling (bhrāmayantam) with his fiery exhalations as he lay there in his terrible might.
+His body bristled with erect hair (_ūrdhva-lomāñcita-tanum_); he hissed like a breathing serpent and sent them whirling (_bhrāmayantam_) with his fiery exhalations as he lay there in his terrible might.
 </details>
 </details>
 
@@ -1346,7 +1346,7 @@ sun, thus did that lion among demons, Kumbhakarna, the slayer of his foes, appea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his dreadful nostrils (bhīma-nāsā-puṭam) and a mouth as cavernous as the netherworld (pātāla-vipulānanam), he lay with all his limbs flung across the couch, reeking of fat and blood (medo-rudhira-gandhinam).
+With his dreadful nostrils (_bhīma-nāsā-puṭam_) and a mouth as cavernous as the netherworld (_pātāla-vipulānanam_), he lay with all his limbs flung across the couch, reeking of fat and blood (_medo-rudhira-gandhinam_).
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ high as Mount Meru, in front of Kumbhakarna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They beheld that tiger among nairṛtas, the foe-taming Kumbhakarṇa (kumbhakarṇam ariṃdamam), his limbs bound with golden armlets (kāñcanāṅgada-naddhāṅgam) and gleaming like the sun with his diadem.
+They beheld that tiger among nairṛtas, the foe-taming Kumbhakarṇa (_kumbhakarṇam ariṃdamam_), his limbs bound with golden armlets (_kāñcanāṅgada-naddhāṅgam_) and gleaming like the sun with his diadem.
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ deers, buffaloes and pigs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those mighty-bodied rākṣasas piled up in front of Kumbhakarṇa a heap of slaughtered creatures (bhūtānāṃ rāśim) resembling Mount Meru (meru-saṃkāśam) and supremely gratifying.
+Then those mighty-bodied rākṣasas piled up in front of Kumbhakarṇa a heap of slaughtered creatures (_bhūtānāṃ rāśim_) resembling Mount Meru (_meru-saṃkāśam_) and supremely gratifying.
 </details>
 </details>
 
@@ -1504,7 +1504,7 @@ Kumbhakarna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those tigers among nairṛtas heaped up mounds of deer, buffaloes, and boars (varāhāṇāṃ ca saṃcayān), along with a wondrous mountain of cooked food (rāśim annasya cādbhutam).
+Those tigers among nairṛtas heaped up mounds of deer, buffaloes, and boars (_varāhāṇāṃ ca saṃcayān_), along with a wondrous mountain of cooked food (_rāśim annasya cādbhutam_).
 </details>
 </details>
 
@@ -1557,7 +1557,7 @@ refreshed him with celestial and fragrant garlands as well as sweet-smelling per
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Next, those enemies of the thirty gods (tridaśa-śatravaḥ) set jars of blood (śoṇita-kumbhān) and meats of manifold kinds before Kumbhakarṇa.
+Next, those enemies of the thirty gods (_tridaśa-śatravaḥ_) set jars of blood (_śoṇita-kumbhān_) and meats of manifold kinds before Kumbhakarṇa.
 </details>
 </details>
 
@@ -1628,9 +1628,9 @@ impatience, made sounds tumultuously all at once.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** They smeared that scorcher of foes with priceless sandal-paste (parārghyena candanena) and refreshed him (āśvāsayām āsuḥ) with celestial garlands and fragrant perfumes.
+**34:** They smeared that scorcher of foes with priceless sandal-paste (_parārghyena candanena_) and refreshed him (_āśvāsayām āsuḥ_) with celestial garlands and fragrant perfumes.
 
-**35:** They wafted clouds of fragrant incense (dhūpa-gandhān), chanted praises of that scorcher of foes, and on every side the yātudhānas thundered like rain-clouds (jaladā iva).
+**35:** They wafted clouds of fragrant incense (_dhūpa-gandhān_), chanted praises of that scorcher of foes, and on every side the yātudhānas thundered like rain-clouds (_jaladā iva_).
 </details>
 </details>
 
@@ -1685,7 +1685,7 @@ shook him too, creating a great clamour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They blew conches gleaming like the moon (śaśāṅka-sadṛśa-prabhān) and, chafing with impatience (amarṣitāḥ), raised a tumultuous roar all at once (yugapat).
+They blew conches gleaming like the moon (_śaśāṅka-sadṛśa-prabhān_) and, chafing with impatience (_amarṣitāḥ_), raised a tumultuous roar all at once (_yugapat_).
 </details>
 </details>
 
@@ -1748,7 +1748,7 @@ the sounds of the couches, drums, gongs, clapping of hands and leonine roars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those night-roamers roared, slapped their arms (āsphoṭayām āsuḥ), and shook his limbs (cikṣipuḥ); to awaken Kumbhakarṇa, they raised a tremendous din (vipulaṃ svaram).
+Those night-roamers roared, slapped their arms (_āsphoṭayām āsuḥ_), and shook his limbs (_cikṣipuḥ_); to awaken Kumbhakarṇa, they raised a tremendous din (_vipulaṃ svaram_).
 </details>
 </details>
 
@@ -1808,7 +1808,7 @@ sounds, all troops of demons seized hold of bars, pestles and maces towards him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that uproar of conches, kettledrums, and tabors (sa-śaṅkha-bherī-paṇava-praṇādam), mingled with arm-slaps, battle-whoops, and lion-roars, birds darting through the quarters and thronging the sky (tridivaṃ kirantaḥ) suddenly fell to the ground.
+Hearing that uproar of conches, kettledrums, and tabors (_sa-śaṅkha-bherī-paṇava-praṇādam_), mingled with arm-slaps, battle-whoops, and lion-roars, birds darting through the quarters and thronging the sky (_tridivaṃ kirantaḥ_) suddenly fell to the ground.
 </details>
 </details>
 
@@ -1868,7 +1868,7 @@ mountain-tops, pestles, maces, hammers and their fists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the colossal Kumbhakarṇa, fast asleep (prasuptaḥ), did not wake at all despite those ear-splitting roars, all those hosts of rākṣasas seized bhuśuṇḍī weapons, pestles (musalāni), and maces (gadāḥ).
+When the colossal Kumbhakarṇa, fast asleep (_prasuptaḥ_), did not wake at all despite those ear-splitting roars, all those hosts of rākṣasas seized _bhuśuṇḍī_ weapons, pestles (_musalāni_), and maces (_gadāḥ_).
 </details>
 </details>
 
@@ -1929,7 +1929,7 @@ breathing winds of Kumbhakarna, the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those fierce rākṣasas struck Kumbhakarṇa—who lay blissfully asleep upon the ground (sukha-prasuptaṃ bhuvi)—across his chest with mountain crags (śaila-śṛṅgaiḥ), pestles, maces, mallets, and fists.
+Then those fierce rākṣasas struck Kumbhakarṇa—who lay blissfully asleep upon the ground (_sukha-prasuptaṃ bhuvi_)—across his chest with mountain crags (_śaila-śṛṅgaiḥ_), pestles, maces, mallets, and fists.
 </details>
 </details>
 
@@ -1978,7 +1978,7 @@ beat drums, cymbals, kettle-drums and myriads of couches and trumpets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet owing to the hurricane of breath (niḥśvāsa-vātena) exhaled by that rākṣasa Kumbhakarṇa, the rākṣasas could not even manage to stand before Kumbhakarṇa.
+Yet owing to the hurricane of breath (_niḥśvāsa-vātena_) exhaled by that rākṣasa Kumbhakarṇa, the rākṣasas could not even manage to stand before Kumbhakarṇa.
 </details>
 </details>
 
@@ -2059,9 +2059,9 @@ ruthless methods.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** Then, girding their garments tightly (parihitā gāḍham), those rākṣasas of terrible valor took up mṛdaṅga drums, tabors, kettledrums, and rows of conches and pot-drums (śaṅkha-kumbha-gaṇān)—
+**42:** Then, girding their garments tightly (_parihitā gāḍham_), those rākṣasas of terrible valor took up _mṛdaṅga_ drums, tabors, kettledrums, and rows of conches and pot-drums (_śaṅkha-kumbha-gaṇān_)—
 
-**43:** Ten thousand rākṣasas (daśa rākṣasa-sāhasram) surrounded him all at once, and they sought to awaken him who resembled a mass of dark collyrium (nīlāñjana-cayākāram)—
+**43:** Ten thousand rākṣasas (_daśa rākṣasa-sāhasram_) surrounded him all at once, and they sought to awaken him who resembled a mass of dark collyrium (_nīlāñjana-cayākāram_)—
 </details>
 </details>
 
@@ -2116,7 +2116,7 @@ that they trample upon him and blasted kettle-drums, couches and drums.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—striking him (abhighnantaḥ) and roaring; yet even then he did not wake at all. And when they were still unable to rouse him (pratibodhayitum)—
+—striking him (_abhighnantaḥ_) and roaring; yet even then he did not wake at all. And when they were still unable to rouse him (_pratibodhayitum_)—
 </details>
 </details>
 
@@ -2215,11 +2215,11 @@ Then, they beat a thousand drums all around with sticks of refined gold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**45:** —they then undertook a still heavier and more ruthless effort (gurutaraṃ yatnaṃ dāruṇam): they beat horses, camels, asses, and elephants with staves, whips, and goads (daṇḍa-kaśāṅkuśaiḥ).
+**45:** —they then undertook a still heavier and more ruthless effort (_gurutaraṃ yatnaṃ dāruṇam_): they beat horses, camels, asses, and elephants with staves, whips, and goads (_daṇḍa-kaśāṅkuśaiḥ_).
 
-**46:** With all their strength (sarva-prāṇaiḥ) they sounded kettledrums, conches, and mṛdaṅga drums, and battered his limbs with massive timber beams and posts (mahā-kāṣṭha-kaṭaṃkaraiḥ)—
+**46:** With all their strength (_sarva-prāṇaiḥ_) they sounded kettledrums, conches, and _mṛdaṅga_ drums, and battered his limbs with massive timber beams and posts (_mahā-kāṣṭha-kaṭaṃkaraiḥ_)—
 
-**47:** —and with mallets and pestles wielded with all their might (sarva-prāṇa-samudyataiḥ). By that mighty din the whole of Laṅkā, with all its mountains and woods, was completely filled; yet even so, he did not wake at all!
+**47:** —and with mallets and pestles wielded with all their might (_sarva-prāṇa-samudyataiḥ_). By that mighty din the whole of Laṅkā, with all its mountains and woods, was completely filled; yet even so, he did not wake at all!
 </details>
 </details>
 
@@ -2271,7 +2271,7 @@ the demons were enraged.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a thousand kettledrums (bherī-sahasram), ranged unimpeded on every side and beaten with drumsticks of burnished gold (mṛṣṭa-kāñcana-koṇānām), were struck all at once.
+Then a thousand kettledrums (_bherī-sahasram_), ranged unimpeded on every side and beaten with drumsticks of burnished gold (_mṛṣṭa-kāñcana-koṇānām_), were struck all at once.
 </details>
 </details>
 
@@ -2334,7 +2334,7 @@ assembled their strength to awaken that demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When even thus that deep-slumbering giant (atinidraḥ), fallen under the sway of the curse (śāpasya vaśam āpannaḥ), did not wake at all, the night-roamers grew enraged.
+When even thus that deep-slumbering giant (_atinidraḥ_), fallen under the sway of the curse (_śāpasya vaśam āpannaḥ_), did not wake at all, the night-roamers grew enraged.
 </details>
 </details>
 
@@ -2386,7 +2386,7 @@ ears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seized with fury (kopa-samāviṣṭāḥ), all those warriors of terrible prowess exerted their utmost might (cakrur anye parākramam), determined to awaken that rākṣasa.
+Then, seized with fury (_kopa-samāviṣṭāḥ_), all those warriors of terrible prowess exerted their utmost might (_cakrur anye parākramam_), determined to awaken that rākṣasa.
 </details>
 </details>
 
@@ -2435,7 +2435,7 @@ deep sleep, did not stir.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some beat the kettledrums (bherīḥ samājaghnuḥ), others raised a mighty uproar, others tore at his hair (keśān anye pralulupuḥ), and still others bit his ears (karṇān anye daśanti ca).
+Some beat the kettledrums (_bherīḥ samājaghnuḥ_), others raised a mighty uproar, others tore at his hair (_keśān anye pralulupuḥ_), and still others bit his ears (_karṇān anye daśanti ca_).
 </details>
 </details>
 
@@ -2490,7 +2490,7 @@ head, chest and other limbs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Others poured hundreds of water-jars (uda-kumbha-śatān) into both his ears; yet Kumbhakarṇa, sunk under the sway of stupendous sleep (mahā-nidrā-vaśaṃ gataḥ), did not so much as quiver (na paspande).
+Others poured hundreds of water-jars (_uda-kumbha-śatān_) into both his ears; yet Kumbhakarṇa, sunk under the sway of stupendous sleep (_mahā-nidrā-vaśaṃ gataḥ_), did not so much as quiver (_na paspande_).
 </details>
 </details>
 
@@ -2542,7 +2542,7 @@ did not wake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And other mighty rākṣasas, wielding iron-spiked mallets in their hands (kūṭa-mudgara-pāṇayaḥ), brought those spiked mallets crashing down upon his head, chest, and limbs (mūrdhni vakṣasi gātreṣu).
+And other mighty rākṣasas, wielding iron-spiked mallets in their hands (_kūṭa-mudgara-pāṇayaḥ_), brought those spiked mallets crashing down upon his head, chest, and limbs (_mūrdhni vakṣasi gātreṣu_).
 </details>
 </details>
 
@@ -2588,7 +2588,7 @@ and became aware of the pressure.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though battered on every side with śataghnī engines bound with ropes (rajju-bandhana-baddhābhiḥ śataghnībhiḥ), that colossal-bodied rākṣasa did not wake.
+Though battered on every side with _śataghnī_ engines bound with ropes (_rajju-bandhana-baddhābhiḥ śataghnībhiḥ_), that colossal-bodied rākṣasa did not wake.
 </details>
 </details>
 
@@ -2652,7 +2652,7 @@ loss of sleep.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when a thousand elephants (vāraṇānāṃ sahasram) were driven at a gallop across his body, Kumbhakarṇa, feeling that sensation (buddhvā sparśam), at last awoke (param abudhyata).
+And when a thousand elephants (_vāraṇānāṃ sahasram_) were driven at a gallop across his body, Kumbhakarṇa, feeling that sensation (_buddhvā sparśam_), at last awoke (_param abudhyata_).
 </details>
 </details>
 
@@ -2710,7 +2710,7 @@ yawned.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Paying no heed (acintayan) to those mighty blows from the mountain crags and trees being hurled upon him, he sprang up suddenly, yawning wide (vijṛmbhamāṇaḥ) and tormented by hunger as his sleep wore off (nidrā-kṣayāt).
+Paying no heed (_acintayan_) to those mighty blows from the mountain crags and trees being hurled upon him, he sprang up suddenly, yawning wide (_vijṛmbhamāṇaḥ_) and tormented by hunger as his sleep wore off (_nidrā-kṣayāt_).
 </details>
 </details>
 
@@ -2766,7 +2766,7 @@ high peak of Meru Mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Flinging out his two arms—which resembled serpent-coils or mountain peaks (nāga-bhogācala-śṛṅga-kalpau) and surpassed the thunderbolt in hardness—and opening wide his mouth that looked like the submarine mare-fire (vaḍavā-mukhābham), that night-roamer yawned hideously.
+Flinging out his two arms—which resembled serpent-coils or mountain peaks (_nāga-bhogācala-śṛṅga-kalpau_) and surpassed the thunderbolt in hardness—and opening wide his mouth that looked like the submarine mare-fire (_vaḍavā-mukhābham_), that night-roamer yawned hideously.
 </details>
 </details>
 
@@ -2818,7 +2818,7 @@ from a mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he yawned again and again (jājṛmbhamāṇasya), his mouth, cavernous as the netherworld (pātāla-saṃnibham), appeared like the sun risen upon the summit of Mount Meru (meru-śṛṅgāgre).
+As he yawned again and again (_jājṛmbhamāṇasya_), his mouth, cavernous as the netherworld (_pātāla-saṃnibham_), appeared like the sun risen upon the summit of Mount Meru (_meru-śṛṅgāgre_).
 </details>
 </details>
 
@@ -2873,7 +2873,7 @@ of the world, prepared to devour all beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that night-roamer of surpassing strength yawned, now fully awake (prabuddhaḥ), his breath (niḥśvāsaḥ) surged forth like a gale blowing from a mountain (parvatād iva mārutaḥ).
+As that night-roamer of surpassing strength yawned, now fully awake (_prabuddhaḥ_), his breath (_niḥśvāsaḥ_) surged forth like a gale blowing from a mountain (_parvatād iva mārutaḥ_).
 </details>
 </details>
 
@@ -2925,7 +2925,7 @@ appeared like great blazing planets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The form of that Kumbhakarṇa as he rose up (uttiṣṭhataḥ) shone like that of Time (kālasyeva) at the dissolution of the world when it desires to consume all creatures in fire (didhakṣataḥ).
+The form of that Kumbhakarṇa as he rose up (_uttiṣṭhataḥ_) shone like that of Time (_kālasyeva_) at the dissolution of the world when it desires to consume all creatures in fire (_didhakṣataḥ_).
 </details>
 </details>
 
@@ -2964,7 +2964,7 @@ His eyes blazing like twin planets, the famished Kumbhakarṇa devours the heaps
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His two huge eyes (mahā-netre), resembling blazing fires and flashing with the brilliance of lightning (vidyut-sadṛśa-varcasī), appeared like two fiery great planets (mahā-grahau).
+His two huge eyes (_mahā-netre_), resembling blazing fires and flashing with the brilliance of lightning (_vidyut-sadṛśa-varcasī_), appeared like two fiery great planets (_mahā-grahau_).
 </details>
 </details>
 
@@ -3011,7 +3011,7 @@ Kumbhakarna devoured them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the rākṣasas showed him all the abundant viands of manifold kinds (bhakṣyāṃś ca vividhān bahūn), and that warrior of mighty strength devoured the boars and buffaloes (varāhān mahiṣāṃś caiva).
+Then the rākṣasas showed him all the abundant viands of manifold kinds (_bhakṣyāṃś ca vividhān bahūn_), and that warrior of mighty strength devoured the boars and buffaloes (_varāhān mahiṣāṃś caiva_).
 </details>
 </details>
 
@@ -3061,7 +3061,7 @@ drank the blood and gulped pitchers full of fat and wine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Famished (bubhukṣitaḥ), he ate the flesh; parched with thirst (tṛṣitaḥ), he drank the blood; and that foe of Śakra (śakra-ripuḥ) then gulped down jars of fat and draughts of wine (madyān).
+Famished (_bubhukṣitaḥ_), he ate the flesh; parched with thirst (_tṛṣitaḥ_), he drank the blood; and that foe of Śakra (_śakra-ripuḥ_) then gulped down jars of fat and draughts of wine (_madyān_).
 </details>
 </details>
 
@@ -3107,7 +3107,7 @@ approached him, saluting him with their heads bent and surrounded him on all sid
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that he was now sated (tṛpta iti jñātvā), the night-roamers sprang forward, bowed to him with their heads (śirobhiś ca praṇamya), and surrounded him on every side.
+Seeing that he was now sated (_tṛpta iti jñātvā_), the night-roamers sprang forward, bowed to him with their heads (_śirobhiś ca praṇamya_), and surrounded him on every side.
 </details>
 </details>
 
@@ -3153,7 +3153,7 @@ his glance towards those demons and spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his eyes still bleary from sleep (nidrā-viśada-netraḥ) and bloodshot (kaluṣīkṛta-locanaḥ), he cast his gaze all around and beheld those night-roamers.
+With his eyes still bleary from sleep (_nidrā-viśada-netraḥ_) and bloodshot (_kaluṣīkṛta-locanaḥ_), he cast his gaze all around and beheld those night-roamers.
 </details>
 </details>
 
@@ -3221,7 +3221,7 @@ roused, spoke the following words to the demons:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That bull among nairṛtas (nairṛtarṣabhaḥ) spoke soothingly to all the nairṛtas, and, astonished at having been awakened (bodhanād vismitaḥ), addressed the rākṣasas thus:
+That bull among nairṛtas (_nairṛtarṣabhaḥ_) spoke soothingly to all the nairṛtas, and, astonished at having been awakened (_bodhanād vismitaḥ_), addressed the rākṣasas thus:
 </details>
 </details>
 
@@ -3281,7 +3281,7 @@ wakened me in haste."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For what purpose have I been awakened by you with such urgent care (ādṛtya)? Is all well (sukuśalam) with the king, or is there some peril here?
+“For what purpose have I been awakened by you with such urgent care (_ādṛtya_)? Is all well (_sukuśalam_) with the king, or is there some peril here?
 </details>
 </details>
 
@@ -3327,7 +3327,7 @@ have to cut Mahendra himself to pieces or to freeze the Fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or rather, some supreme peril (bhayaṃ param) from alien foes has surely arisen, on account of which I have been awakened by you in such haste (tvaritaiḥ)!
+“Or rather, some supreme peril (_bhayaṃ param_) from alien foes has surely arisen, on account of which I have been awakened by you in such haste (_tvaritaiḥ_)!
 </details>
 </details>
 
@@ -3379,7 +3379,7 @@ Hence, tell me frankly, for what reason you have roused me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today I shall uproot (utpāṭayāmi) the fear of the king of rākṣasas! I shall rend Mahendra asunder (dārayiṣye mahendram) or chill Fire himself (śītayiṣye tathānalam)!
+“Today I shall uproot (_utpāṭayāmi_) the fear of the king of rākṣasas! I shall rend Mahendra asunder (_dārayiṣye mahendram_) or chill Fire himself (_śītayiṣye tathānalam_)!
 </details>
 </details>
 
@@ -3426,7 +3426,7 @@ follows) to Kumbhakarna, the annihilator of his enemies, thus talking excitedly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the king would never awaken one like me from sleep for any trifling cause (alpa-kāraṇe); therefore declare to me in true detail (artha-tattvena) the reason for waking me.”
+“For the king would never awaken one like me from sleep for any trifling cause (_alpa-kāraṇe_); therefore declare to me in true detail (_artha-tattvena_) the reason for waking me.”
 </details>
 </details>
 
@@ -3473,7 +3473,7 @@ mere man is driving us back by a tumultuous tremor."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that foe-taming Kumbhakarṇa, who was speaking thus in wrathful excitement (saṃrabdham), Yūpākṣa, the king's minister (sacivo rājñaḥ), spoke with joined palms:
+To that foe-taming Kumbhakarṇa, who was speaking thus in wrathful excitement (_saṃrabdham_), Yūpākṣa, the king&#x27;s minister (_sacivo rājñaḥ_), spoke with joined palms:
 </details>
 </details>
 
@@ -3525,7 +3525,7 @@ peril as it comes to us from a man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No peril wrought by the gods (deva-kṛtaṃ bhayam) ever afflicts us at all; rather, O prince, a tumultuous peril arising from a mortal (mānuṣāt) now sorely besets us!
+“No peril wrought by the gods (_deva-kṛtaṃ bhayam_) ever afflicts us at all; rather, O prince, a tumultuous peril arising from a mortal (_mānuṣāt_) now sorely besets us!
 </details>
 </details>
 
@@ -3580,7 +3580,7 @@ tumultuous peril for us from Rama, who is furious on account of Seetha's abducti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never from daityas or dānavas has any fear come upon us anywhere, O prince, such as this human peril (mānuṣaṃ bhayam) that now confronts us!
+“Never from daityas or dānavas has any fear come upon us anywhere, O prince, such as this human peril (_mānuṣaṃ bhayam_) that now confronts us!
 </details>
 </details>
 
@@ -3626,7 +3626,7 @@ Aksha with his escort of elephants and retinue."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This city of Laṅkā is surrounded by mountain-sized monkeys (vānaraiḥ parvatākāraiḥ), and a tumultuous terror besets us from Rāma, who burns with anguish over the abduction of Sītā (sītā-haraṇa-saṃtaptāt).
+“This city of Laṅkā is surrounded by mountain-sized monkeys (_vānaraiḥ parvatākāraiḥ_), and a tumultuous terror besets us from Rāma, who burns with anguish over the abduction of Sītā (_sītā-haraṇa-saṃtaptāt_).
 </details>
 </details>
 
@@ -3673,7 +3673,7 @@ splendour, to Ravana in person the Lord of Demons and the trouble-some person to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Previously this great city was burned down by a single monkey (ekena vānareṇa), and Prince Akṣa was slain along with his retinue and elephants (sānuyātraḥ sa-kuñjaraḥ).
+“Previously this great city was burned down by a single monkey (_ekena vānareṇa_), and Prince Akṣa was slain along with his retinue and elephants (_sānuyātraḥ sa-kuñjaraḥ_).
 </details>
 </details>
 
@@ -3721,7 +3721,7 @@ has had to endure here from Rama, who released him from the danger to his life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the lord of rākṣasas himself—Paulastya, the thorn in the side of the gods (deva-kaṇṭakaḥ)—was let go in battle by Rāma of sun-like splendor (āditya-varcasā) with the words, 'Depart!' (vrajeti).
+“And the lord of rākṣasas himself—Paulastya, the thorn in the side of the gods (_deva-kaṇṭakaḥ_)—was let go in battle by Rāma of sun-like splendor (_āditya-varcasā_) with the words, &#x27;Depart!&#x27; (_vrajeti_).
 </details>
 </details>
 
@@ -3773,7 +3773,7 @@ Yupaksha, Kumbhakarna rolling his great eyes, spoke to Yupaksha (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What our king was never subjected to by the gods, nor by daityas or dānavas—to that humiliation has he been reduced here by Rāma, escaping only after imperiling his very life (vimuktaḥ prāṇa-saṃśayāt)!”
+“What our king was never subjected to by the gods, nor by daityas or dānavas—to that humiliation has he been reduced here by Rāma, escaping only after imperiling his very life (_vimuktaḥ prāṇa-saṃśayāt_)!”
 </details>
 </details>
 
@@ -3820,7 +3820,7 @@ and Rama on the battle-field, then only I shall see Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Yūpākṣa recounting his brother's humiliation in battle (bhrātur yudhi parābhavam), Kumbhakarṇa rolled his eyes in fury (vivṛttākṣaḥ) and spoke thus to Yūpākṣa:
+Hearing those words of Yūpākṣa recounting his brother&#x27;s humiliation in battle (_bhrātur yudhi parābhavam_), Kumbhakarṇa rolled his eyes in fury (_vivṛttākṣaḥ_) and spoke thus to Yūpākṣa:
 </details>
 </details>
 
@@ -3874,7 +3874,7 @@ Lakshmana, I shall drink their blood myself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very day, O Yūpākṣa, having vanquished in battle the entire monkey host (hari-sainyam) along with Lakṣmaṇa and Rāghava, I shall then behold Rāvaṇa!
+“This very day, O Yūpākṣa, having vanquished in battle the entire monkey host (_hari-sainyam_) along with Lakṣmaṇa and Rāghava, I shall then behold Rāvaṇa!
 </details>
 </details>
 
@@ -3931,7 +3931,7 @@ words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall satiate (tarpayiṣyāmi) the rākṣasas with the flesh and blood of the monkeys, and I myself shall drink the blood of Rāma and Lakṣmaṇa!”
+“I shall satiate (_tarpayiṣyāmi_) the rākṣasas with the flesh and blood of the monkeys, and I myself shall drink the blood of Rāma and Lakṣmaṇa!”
 </details>
 </details>
 
@@ -3983,7 +3983,7 @@ battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those boastful (sagarvitam) words of his as he spoke—words whose rashness was swollen by wrath (roṣa-vivṛddha-doṣam)—Mahodara, the foremost of nairṛta warriors, spoke these words with joined palms:
+Hearing those boastful (_sagarvitam_) words of his as he spoke—words whose rashness was swollen by wrath (_roṣa-vivṛddha-doṣam_)—Mahodara, the foremost of nairṛta warriors, spoke these words with joined palms:
 </details>
 </details>
 
@@ -4029,7 +4029,7 @@ depart, surrounded by demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having first heard Rāvaṇa's words and weighed the merits and defects (guṇa-doṣau vimṛśya) of the course of action, O mighty-armed one, you can vanquish the foes in battle afterward (paścād api).”
+“Having first heard Rāvaṇa&#x27;s words and weighed the merits and defects (_guṇa-doṣau vimṛśya_) of the course of action, O mighty-armed one, you can vanquish the foes in battle afterward (_paścād api_).”
 </details>
 </details>
 
@@ -4075,7 +4075,7 @@ valour, went to the King's palace in haste.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the counsel of Mahodara, Kumbhakarṇa of mighty splendor and immense strength, surrounded by rākṣasas, prepared to set forth (sampratasthe).
+Hearing the counsel of Mahodara, Kumbhakarṇa of mighty splendor and immense strength, surrounded by rākṣasas, prepared to set forth (_sampratasthe_).
 </details>
 </details>
 
@@ -4121,7 +4121,7 @@ joined palms, as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having roused from sleep that terrible-eyed warrior of dreadful form and prowess (bhīma-rūpa-parākramam), the rākṣasas hastened swiftly to the palace of Daśagrīva.
+Having roused from sleep that terrible-eyed warrior of dreadful form and prowess (_bhīma-rūpa-parākramam_), the rākṣasas hastened swiftly to the palace of Daśagrīva.
 </details>
 </details>
 
@@ -4176,7 +4176,7 @@ should enter the battle field from there itself or do you desire him to come her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching Daśagrīva as he sat upon his supreme throne (āsīnaṃ paramāsane), all those night-roamers cupped their palms in reverence (baddhāñjali-puṭāḥ) and spoke:
+Approaching Daśagrīva as he sat upon his supreme throne (_āsīnaṃ paramāsane_), all those night-roamers cupped their palms in reverence (_baddhāñjali-puṭāḥ_) and spoke:
 </details>
 </details>
 
@@ -4226,7 +4226,7 @@ want to see him here. Bring him after extending the honours due to him in a befi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your brother Kumbhakarṇa is now awake (prabuddho 'sau), O lord of rākṣasas! How do you command: shall he march straight out to battle from there (tatraiva niryātu), or will you behold him once he has come here?”
+“Your brother Kumbhakarṇa is now awake (_prabuddho &#x27;sau_), O lord of rākṣasas! How do you command: shall he march straight out to battle from there (_tatraiva niryātu_), or will you behold him once he has come here?”
 </details>
 </details>
 
@@ -4275,7 +4275,7 @@ Kumbhakarna and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rejoiced (hṛṣṭaḥ), Rāvaṇa replied to those rākṣasas who stood in attendance: “I wish to behold him here (draṣṭum enam ihecchāmi), and let him be honored in due form (yathā-nyāyaṃ ca pūjyatām)!”
+Rejoiced (_hṛṣṭaḥ_), Rāvaṇa replied to those rākṣasas who stood in attendance: “I wish to behold him here (_draṣṭum enam ihecchāmi_), and let him be honored in due form (_yathā-nyāyaṃ ca pūjyatām_)!”
 </details>
 </details>
 
@@ -4321,7 +4321,7 @@ brother!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying, “So be it!” and returning once more (punar āgamya), all those rākṣasas, impelled by Rāvaṇa (rāvaṇa-coditāḥ), spoke these words to Kumbhakarṇa:
+Saying, “So be it!” and returning once more (_punar āgamya_), all those rākṣasas, impelled by Rāvaṇa (_rāvaṇa-coditāḥ_), spoke these words to Kumbhakarṇa:
 </details>
 </details>
 
@@ -4367,7 +4367,7 @@ uttering "so be it", leapt up from his couch.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The king, the bull among all rākṣasas (sarva-rākṣasa-puṅgavaḥ), longs to see you; set your mind upon going (gamane kriyatāṃ buddhiḥ) and gladden your brother!”
+“The king, the bull among all rākṣasas (_sarva-rākṣasa-puṅgavaḥ_), longs to see you; set your mind upon going (_gamane kriyatāṃ buddhiḥ_) and gladden your brother!”
 </details>
 </details>
 
@@ -4431,7 +4431,7 @@ feeling thirsty, he hastened them to bring him a drink which can boost up his st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning his brother's command (bhrātur ājñāya śāsanam), the unassailable Kumbhakarṇa of mighty valor said, “So be it!” and sprang up from his couch (śayanād utpapāta ha).
+Learning his brother&#x27;s command (_bhrātur ājñāya śāsanam_), the unassailable Kumbhakarṇa of mighty valor said, “So be it!” and sprang up from his couch (_śayanād utpapāta ha_).
 </details>
 </details>
 
@@ -4478,7 +4478,7 @@ there, in their hurry to take Kumbhakarna with them as per Ravana's commands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having washed his face, bathed (snātaḥ), and become supremely elated (parama-harṣitaḥ), he, eager to drink (pipāsuḥ), called urgently for an invigorating draught (pānaṃ bala-samīraṇam).
+Having washed his face, bathed (_snātaḥ_), and become supremely elated (_parama-harṣitaḥ_), he, eager to drink (_pipāsuḥ_), called urgently for an invigorating draught (_pānaṃ bala-samīraṇam_).
 </details>
 </details>
 
@@ -4524,7 +4524,7 @@ inebriated and flushed, he was exhilarated and filled with energy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, by Rāvaṇa's command, those rākṣasas in haste swiftly had wine and viands of manifold kinds (madyaṃ bhakṣyāṃś ca vividhān) brought before him (upahārayan).
+Then, by Rāvaṇa&#x27;s command, those rākṣasas in haste swiftly had wine and viands of manifold kinds (_madyaṃ bhakṣyāṃś ca vividhān_) brought before him (_upahārayan_).
 </details>
 </details>
 
@@ -4580,7 +4580,7 @@ tremble with his foot-steps, while marching.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having drunk two thousand jars (ghaṭa-sahasre dve), he prepared to set forth, slightly flushed with intoxication (īṣat-samutkaṭo mattaḥ) and endowed with fiery splendor and strength.
+Having drunk two thousand jars (_ghaṭa-sahasre dve_), he prepared to set forth, slightly flushed with intoxication (_īṣat-samutkaṭo mattaḥ_) and endowed with fiery splendor and strength.
 </details>
 </details>
 
@@ -4641,7 +4641,7 @@ of Creation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with wrath (ruṣṭaḥ), Kumbhakarṇa shone like Yama the destroyer at the end of Time (kālāntaka-yamopamaḥ). As he strode toward his brother's palace accompanied by the rākṣasa host, Kumbhakarṇa made the earth tremble (akampayata medinīm) with his footsteps.
+Filled with wrath (_ruṣṭaḥ_), Kumbhakarṇa shone like Yama the destroyer at the end of Time (_kālāntaka-yamopamaḥ_). As he strode toward his brother&#x27;s palace accompanied by the rākṣasa host, Kumbhakarṇa made the earth tremble (_akampayata medinīm_) with his footsteps.
 </details>
 </details>
 
@@ -4701,7 +4701,7 @@ frightened suddenly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Illuminating the royal highway (rāja-mārgam) with his bodily luster as the thousand-rayed sun illumines the earth with its beams, he strode there encircled by a garland of joined palms (añjali-mālayā vṛtaḥ), like Śatakratu proceeding to the abode of the Self-Existent Brahmā (svayaṃbhuvaḥ).
+Illuminating the royal highway (_rāja-mārgam_) with his bodily luster as the thousand-rayed sun illumines the earth with its beams, he strode there encircled by a garland of joined palms (_añjali-mālayā vṛtaḥ_), like Śatakratu proceeding to the abode of the Self-Existent Brahmā (_svayaṃbhuvaḥ_).
 </details>
 </details>
 
@@ -4761,7 +4761,7 @@ fled away perturbed in all directions and some others lay on the ground, confoun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that immeasurable (aprameyam), mountain-peak-like slayer of foes standing upon the royal highway, those forest-dwelling monkeys stationed outside (bahiḥ-sthitāḥ) were suddenly struck with terror along with their troop-leaders (saha yūtha-pālaiḥ).
+Beholding that immeasurable (_aprameyam_), mountain-peak-like slayer of foes standing upon the royal highway, those forest-dwelling monkeys stationed outside (_bahiḥ-sthitāḥ_) were suddenly struck with terror along with their troop-leaders (_saha yūtha-pālaiḥ_).
 </details>
 </details>
 
@@ -4819,7 +4819,7 @@ size, fled hither and thither.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some fled for refuge to Rāma, the protector of the helpless (śaraṇyaṃ śaraṇaṃ sma rāmam); some fell down in distress; some, anguished, scattered toward the ten quarters (diśaḥ); and others, stricken with terror (bhayārtāḥ), lay prostrate upon the ground.
+Some fled for refuge to Rāma, the protector of the helpless (_śaraṇyaṃ śaraṇaṃ sma rāmam_); some fell down in distress; some, anguished, scattered toward the ten quarters (_diśaḥ_); and others, stricken with terror (_bhayārtāḥ_), lay prostrate upon the ground.
 </details>
 </details>
 
@@ -4870,6 +4870,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that diadem-crowned giant (kirīṭinam) who resembled a mountain peak, seemed to touch the sun with his own radiance (spṛśantam ādityam ivātma-tejasā), and had swollen to wondrous proportions, the forest-dwellers, tormented by fear, fled helter-skelter in every direction (dudruvire yatas tataḥ).
+Beholding that diadem-crowned giant (_kirīṭinam_) who resembled a mountain peak, seemed to touch the sun with his own radiance (_spṛśantam ādityam ivātma-tejasā_), and had swollen to wondrous proportions, the forest-dwellers, tormented by fear, fled helter-skelter in every direction (_dudruvire yatas tataḥ_).
 </details>
 </details>

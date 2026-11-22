@@ -86,7 +86,7 @@ legend. [1-62-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having taken Śunaḥśepa, O best of men (śunaḥśepaṃ naraśreṣṭha gṛhītvā tu), the illustrious king rested at Puṣkara at midday, O delight of the Raghus (vyaśramat puṣkare rājā madhyāhne raghunandana).
+Having taken Śunaḥśepa, O best of men (_śunaḥśepaṃ naraśreṣṭha gṛhītvā tu_), the illustrious king rested at Puṣkara at midday, O delight of the Raghus (_vyaśramat puṣkare rājā madhyāhne raghunandana_).
 </details>
 </details>
 
@@ -165,9 +165,9 @@ he immediately fell in the lap of saint Vishvamitra saying this sentence. [1-62-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** While the king was resting (tasya viśramamāṇasya), the illustrious Śunaḥśepa came to the pre-eminent sacred lake of Puṣkara and beheld Viśvāmitra (puṣkaraṃ jyeṣṭham āgamya viśvāmitraṃ dadarśa ha)—
+**2:** While the king was resting (_tasya viśramamāṇasya_), the illustrious Śunaḥśepa came to the pre-eminent sacred lake of Puṣkara and beheld Viśvāmitra (_puṣkaraṃ jyeṣṭham āgamya viśvāmitraṃ dadarśa ha_)—
 
-**3:** Practicing austerity together with the sages, his own maternal uncle (tapyantam ṛṣibhiḥ sārdhaṃ mātulam); deeply distressed, with a dejected countenance, wretched with thirst and exhaustion (viṣaṇṇavadano dīnas tṛṣṇayā ca śrameṇa ca),
+**3:** Practicing austerity together with the sages, his own maternal uncle (_tapyantam ṛṣibhiḥ sārdhaṃ mātulam_); deeply distressed, with a dejected countenance, wretched with thirst and exhaustion (_viṣaṇṇavadano dīnas tṛṣṇayā ca śrameṇa ca_),
 </details>
 </details>
 
@@ -214,7 +214,7 @@ you to protect me according to saintliness. [1-62-4b, 5a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He fell into the sage’s lap, O Rāma, and spoke these words (papātāṅke mune rāma vākyaṃ cedam uvāca ha): “I have no mother and no father; whence could I have kinsmen or friends (na me ’sti mātā na pitā jñātayo bāndhavāḥ kutaḥ)?
+He fell into the sage’s lap, O Rāma, and spoke these words (_papātāṅke mune rāma vākyaṃ cedam uvāca ha_): “I have no mother and no father; whence could I have kinsmen or friends (_na me ’sti mātā na pitā jñātayo bāndhavāḥ kutaḥ_)?
 </details>
 </details>
 
@@ -269,9 +269,9 @@ and indeed on performing an unexcelled ascesis, I wish to enjoy in heavenly worl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “You ought to save me in accordance with dharma, O gentle bull among sages (trātum arhasi māṃ saumya dharmeṇa munipuṃgava)! For you, O best of men, are the protector of all, and you are the shelter and benefactor of all (sarveṣāṃ tvaṃ hi bhāvanaḥ).
+**5:** “You ought to save me in accordance with _dharma_, O gentle bull among sages (_trātum arhasi māṃ saumya dharmeṇa munipuṃgava_)! For you, O best of men, are the protector of all, and you are the shelter and benefactor of all (_sarveṣāṃ tvaṃ hi bhāvanaḥ_).
 
-**6:** “Act so that the king may accomplish his ritual purpose (rājā ca kṛtakāryaḥ syāt), while I, remaining unharmed and endowed with long life (ahaṃ dīrghāyur avyayaḥ), may attain the heavenly realm after practicing supreme austerity (svargalokam upāśnīyāṃ tapas taptvā hy anuttamam)!
+**6:** “Act so that the king may accomplish his ritual purpose (_rājā ca kṛtakāryaḥ syāt_), while I, remaining unharmed and endowed with long life (_ahaṃ dīrghāyur avyayaḥ_), may attain the heavenly realm after practicing supreme austerity (_svargalokam upāśnīyāṃ tapas taptvā hy anuttamam_)!
 </details>
 </details>
 
@@ -331,7 +331,7 @@ like a father protecting his own son.' Thus Shunashepa appealed to Vishvamitra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With a gracious heart, therefore, become the protector of me who am protectorless (sa me nātho hy anāthasya bhava bhavyena cetasā)! Like a father saving his son, O righteous-souled one, you ought to rescue me from this peril (trātum arhasi kilbiṣāt).”
+“With a gracious heart, therefore, become the protector of me who am protectorless (_sa me nātho hy anāthasya bhava bhavyena cetasā_)! Like a father saving his son, O righteous-souled one, you ought to rescue me from this peril (_trātum arhasi kilbiṣāt_).”
 </details>
 </details>
 
@@ -377,7 +377,7 @@ of higher ascesis, indeed said this to his sons. [1-62-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Viśvāmitra of mighty austerity (viśvāmitro mahātapāḥ) consoled him in many ways and spoke these words to his own sons (sāntvayitvā bahuvidhaṃ putrān idam uvāca ha):
+Hearing those words of his, Viśvāmitra of mighty austerity (_viśvāmitro mahātapāḥ_) consoled him in many ways and spoke these words to his own sons (_sāntvayitvā bahuvidhaṃ putrān idam uvāca ha_):
 </details>
 </details>
 
@@ -433,7 +433,7 @@ me in heavens...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very purpose for the sake of which fathers, desiring auspicious merit, beget sons for their welfare in the other world (yatkṛte pitaraḥ putrāñ janayanti śubhārthinaḥ paralokahitārthāya)—the time for that has now arrived (tasya kālo ’yam āgataḥ)!
+“That very purpose for the sake of which fathers, desiring auspicious merit, beget sons for their welfare in the other world (_yatkṛte pitaraḥ putrāñ janayanti śubhārthinaḥ paralokahitārthāya_)—the time for that has now arrived (_tasya kālo ’yam āgataḥ_)!
 </details>
 </details>
 
@@ -479,7 +479,7 @@ sons, give him satisfaction just by giving life to him. [1-62-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This young son of a sage seeks refuge from me (ayaṃ munisuto bālo mattaḥ śaraṇam icchati). O dear sons, do me this service by bestowing life upon him at the cost of your own (asya jīvitamātreṇa priyaṃ kuruta putrakāḥ)!
+“This young son of a sage seeks refuge from me (_ayaṃ munisuto bālo mattaḥ śaraṇam icchati_). O dear sons, do me this service by bestowing life upon him at the cost of your own (_asya jīvitamātreṇa priyaṃ kuruta putrakāḥ_)!
 </details>
 </details>
 
@@ -526,7 +526,7 @@ in lieu of this boy Shunashepa. [1-62-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All of you are doers of virtuous deeds, all of you are devoted to dharma (sarve sukṛtakarmāṇaḥ sarve dharmaparāyaṇāḥ); becoming the sacrificial victim for the lord of men, grant satisfaction to the sacrificial fire (paśubhūtā narendrasya tṛptim agneḥ prayacchata)!
+“All of you are doers of virtuous deeds, all of you are devoted to _dharma_ (_sarve sukṛtakarmāṇaḥ sarve dharmaparāyaṇāḥ_); becoming the sacrificial victim for the lord of men, grant satisfaction to the sacrificial fire (_paśubhūtā narendrasya tṛptim agneḥ prayacchata_)!
 </details>
 </details>
 
@@ -579,7 +579,7 @@ to his sons. [1-62-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus Śunaḥśepa will have a protector, the sacrifice will proceed without impediment (nāthavāṃś ca śunaḥśepo yajñaś cāvighnato bhavet), the deities will be gratified, and my word too will be fulfilled (mama cāpi kṛtaṃ vacaḥ).”
+“Thus Śunaḥśepa will have a protector, the sacrifice will proceed without impediment (_nāthavāṃś ca śunaḥśepo yajñaś cāvighnato bhavet_), the deities will be gratified, and my word too will be fulfilled (_mama cāpi kṛtaṃ vacaḥ_).”
 </details>
 </details>
 
@@ -639,7 +639,7 @@ and the other sons of Vishvamitra said this, haughtily and disparagingly. [1-62-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the sage, his sons headed by Madhucchandas (madhucchandādayaḥ sutāḥ), O best of men, spoke these words with arrogance and mocking derision (sābhimānaṃ naraśreṣṭha salīlam idam abruvan):
+Hearing those words of the sage, his sons headed by Madhucchandas (_madhucchandādayaḥ sutāḥ_), O best of men, spoke these words with arrogance and mocking derision (_sābhimānaṃ naraśreṣṭha salīlam idam abruvan_):
 </details>
 </details>
 
@@ -694,7 +694,7 @@ also he curses his own sons with the same theme.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How is it, O lord, that abandoning your own sons, you seek to rescue the son of another (katham ātmasutān hitvā trāyase ’nyasutaṃ vibho)? We regard this as an abominable act, like eating dog-flesh in a meal (akāryam iva paśyāmaḥ śvamāṃsam iva bhojane)!”
+“How is it, O lord, that abandoning your own sons, you seek to rescue the son of another (_katham ātmasutān hitvā trāyase ’nyasutaṃ vibho_)? We regard this as an abominable act, like eating dog-flesh in a meal (_akāryam iva paśyāmaḥ śvamāṃsam iva bhojane_)!”
 </details>
 </details>
 
@@ -739,7 +739,7 @@ them while fury reddened his eyes. [1-62-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his sons, that bull among sages (munipuṃgavaḥ), his eyes bloodshot with wrath (krodhasaṃraktanayanaḥ), began to speak (vyāhartum upacakrame):
+Hearing those words of his sons, that bull among sages (_munipuṃgavaḥ_), his eyes bloodshot with wrath (_krodhasaṃraktanayanaḥ_), began to speak (_vyāhartum upacakrame_):
 </details>
 </details>
 
@@ -807,9 +807,9 @@ Vishvamitra cursed his sons. [1-62-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “Audaciously has this speech been uttered, transgressing my command and condemned even by dharma (niḥsādhvasam idaṃ proktaṃ dharmād api vigarhitam atikramya tu madvākyam)—cruel and making one’s hair stand on end (dāruṇaṃ romaharṣaṇam)!
+**16:** “Audaciously has this speech been uttered, transgressing my command and condemned even by _dharma_ (_niḥsādhvasam idaṃ proktaṃ dharmād api vigarhitam atikramya tu madvākyam_)—cruel and making one’s hair stand on end (_dāruṇaṃ romaharṣaṇam_)!
 
-**17:** “Feeding on dog-flesh, all of you, like the cursed sons of Vasiṣṭha among low-born castes (śvamāṃsabhojinaḥ sarve vāsiṣṭhā iva jātiṣu), shall dwell upon the earth for a full thousand years (pūrṇaṃ varṣasahasraṃ tu pṛthivyām anuvatsyatha)!”
+**17:** “Feeding on dog-flesh, all of you, like the cursed sons of Vasiṣṭha among low-born castes (_śvamāṃsabhojinaḥ sarve vāsiṣṭhā iva jātiṣu_), shall dwell upon the earth for a full thousand years (_pūrṇaṃ varṣasahasraṃ tu pṛthivyām anuvatsyatha_)!”
 </details>
 </details>
 
@@ -861,7 +861,7 @@ Shunashepa, on making unharmed invulnerability to him with sanctifying hymns. [1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus laid his sons under that curse, the foremost of sages (kṛtvā śāpasamāyuktān putrān munivaras tadā) placed an unfailing protective charm upon the distressed Śunaḥśepa and spoke to him (śunaḥśepam uvācārtaṃ kṛtvā rakṣāṃ nirāmayām):
+Having thus laid his sons under that curse, the foremost of sages (_kṛtvā śāpasamāyuktān putrān munivaras tadā_) placed an unfailing protective charm upon the distressed Śunaḥśepa and spoke to him (_śunaḥśepam uvācārtaṃ kṛtvā rakṣāṃ nirāmayām_):
 </details>
 </details>
 
@@ -943,9 +943,9 @@ Vedic hymns to the boy. [1-62-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Bound with consecrated cords of darbha grass (pavitrapāśair ābaddhaḥ) and adorned with red garlands and red unguents (raktamālyānulepanaḥ), when you reach the sacrificial post sacred to Viṣṇu, praise Agni with sacred hymns (vaiṣṇavaṃ yūpam āsādya vāgbhir agnim udāhara).
+**19:** “Bound with consecrated cords of _darbha_ grass (_pavitrapāśair ābaddhaḥ_) and adorned with red garlands and red unguents (_raktamālyānulepanaḥ_), when you reach the sacrificial post sacred to Viṣṇu, praise Agni with sacred hymns (_vaiṣṇavaṃ yūpam āsādya vāgbhir agnim udāhara_).
 
-**20:** “And sing these two celestial gāthās, O young son of a sage (ime ca gāthe dve divye gāyethā muniputraka), in this sacrifice of Ambarīṣa; thereby you shall attain deliverance and fulfillment (tataḥ siddhim avāpsyasi)!”
+**20:** “And sing these two celestial _gāthās_, O young son of a sage (_ime ca gāthe dve divye gāyethā muniputraka_), in this sacrifice of Ambarīṣa; thereby you shall attain deliverance and fulfillment (_tataḥ siddhim avāpsyasi_)!”
 </details>
 </details>
 
@@ -995,7 +995,7 @@ gone to that lion-king Ambariisha and indeed spoke to him. [1-62-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having received those two gāthās with a concentrated mind (śunaḥśepo gṛhītvā te dve gāthe susamāhitaḥ), Śunaḥśepa hastily spoke to that lion among kings, Ambarīṣa (tvarayā rājasiṃhaṃ tam ambarīṣam uvāca ha):
+Having received those two _gāthās_ with a concentrated mind (_śunaḥśepo gṛhītvā te dve gāthe susamāhitaḥ_), Śunaḥśepa hastily spoke to that lion among kings, Ambarīṣa (_tvarayā rājasiṃhaṃ tam ambarīṣam uvāca ha_):
 </details>
 </details>
 
@@ -1045,7 +1045,7 @@ animal,' thus the boy said. [1-62-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lion among kings, of mighty intellect, let us depart quickly (śīghraṃ gacchāvahe vayam)! Bring your journey homeward to completion, O chief of kings, and enter upon your sacrificial consecration (nivartayasva rājendra dīkṣāṃ ca samudāhara)!”
+“O lion among kings, of mighty intellect, let us depart quickly (_śīghraṃ gacchāvahe vayam_)! Bring your journey homeward to completion, O chief of kings, and enter upon your sacrificial consecration (_nivartayasva rājendra dīkṣāṃ ca samudāhara_)!”
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ and proceeded to the ritual hall immediately and spiritedly. [1-62-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the sage’s son, the monarch, filled with joy (harṣasamanvitaḥ), went swiftly and unweariedly to the sacrificial enclosure (jagāma nṛpatiḥ śīghraṃ yajñavāṭam atandritaḥ).
+Hearing those words of the sage’s son, the monarch, filled with joy (_harṣasamanvitaḥ_), went swiftly and unweariedly to the sacrificial enclosure (_jagāma nṛpatiḥ śīghraṃ yajñavāṭam atandritaḥ_).
 </details>
 </details>
 
@@ -1141,7 +1141,7 @@ him securely fastened to the sacrificial post. [1-62-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the consent of the ritual assembly (sadasyānumate), the king marked him with purifying sacred grass, clad him as the sacrificial victim in red garments, and had him bound to the sacrificial post (paśuṃ raktāmbaraṃ kṛtvā yūpe taṃ samabandhayat).
+With the consent of the ritual assembly (_sadasyānumate_), the king marked him with purifying sacred grass, clad him as the sacrificial victim in red garments, and had him bound to the sacrificial post (_paśuṃ raktāmbaraṃ kṛtvā yūpe taṃ samabandhayat_).
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ and Upendra as well, with those two hymns he got from Vishvamitra. [1-62-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus bound, that young son of a sage duly praised with those sublime hymns the two deities (sa baddho vāgbhir agryābhir abhituṣṭāva vai surau)—Indra and Indra’s younger brother Upendra (Viṣṇu) (indram indrānujaṃ caiva yathāvan muniputrakaḥ).
+Thus bound, that young son of a sage duly praised with those sublime hymns the two deities (_sa baddho vāgbhir agryābhir abhituṣṭāva vai surau_)—Indra and Indra’s younger brother Upendra (Viṣṇu) (_indram indrānujaṃ caiva yathāvan muniputrakaḥ_).
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ and oh, Raghava, then he bestowed longevity to Shunashepa. [1-62-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the thousand-eyed Vāsava (Indra), pleased and gratified by that secret hymn of praise (prītaḥ sahasrākṣo rahasyastutitoṣitaḥ), bestowed long life upon Śunaḥśepa (dīrgham āyus tadā prādāc chunaḥśepāya vāsavaḥ).
+Then the thousand-eyed Vāsava (Indra), pleased and gratified by that secret hymn of praise (_prītaḥ sahasrākṣo rahasyastutitoṣitaḥ_), bestowed long life upon Śunaḥśepa (_dīrgham āyus tadā prādāc chunaḥśepāya vāsavaḥ_).
 </details>
 </details>
 
@@ -1298,7 +1298,7 @@ of that Vedic-ritual in manyfold, resulted from the grace of Thousand-eyed Indra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that king, O best of men, obtained the manifold fruit of his sacrifice, O Rāma, born of the grace of the thousand-eyed Indra (yajñasya ca samāptavān phalaṃ bahuguṇaṃ rāma sahasrākṣaprasādajam).
+And that king, O best of men, obtained the manifold fruit of his sacrifice, O Rāma, born of the grace of the thousand-eyed Indra (_yajñasya ca samāptavān phalaṃ bahuguṇaṃ rāma sahasrākṣaprasādajam_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ Sage Shataananda continued the narration of Vishvamitra's legend. [1-62-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteous-souled Viśvāmitra too, of mighty austerity, practiced penance once again at Puṣkara, O best of men, for ten hundred years (bhūyas tepe mahātapāḥ puṣkareṣu naraśreṣṭha daśavarṣaśatāni ca).
+Righteous-souled Viśvāmitra too, of mighty austerity, practiced penance once again at Puṣkara, O best of men, for ten hundred years (_bhūyas tepe mahātapāḥ puṣkareṣu naraśreṣṭha daśavarṣaśatāni ca_).
 </details>
 </details>
 

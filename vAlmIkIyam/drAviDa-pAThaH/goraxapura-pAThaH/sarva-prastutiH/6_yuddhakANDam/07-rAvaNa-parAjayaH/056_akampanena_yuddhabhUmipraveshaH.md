@@ -84,7 +84,7 @@ Akampana was seized with a fierce anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that mighty feat wrought by the foremost of the Vānaras (kṛtaṃ vānarasattamaiḥ), Akampana summoned up fierce wrath in battle (krodham āhārayāmāsa yudhi tīvram).
+Beholding that mighty feat wrought by the foremost of the Vānaras (_kṛtaṃ vānarasattamaiḥ_), Akampana summoned up fierce wrath in battle (_krodham āhārayāmāsa yudhi tīvram_).
 </details>
 </details>
 
@@ -124,7 +124,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His form convulsed with wrath (krodhamūrcchitarūpas tu), shaking his supreme bow (dhunvan paramakārmukam) as he beheld the deeds of his foes, he spoke these words to his charioteer (sārathiṃ vākyam abravīt):
+His form convulsed with wrath (_krodhamūrcchitarūpas tu_), shaking his supreme bow (_dhunvan paramakārmukam_) as he beheld the deeds of his foes, he spoke these words to his charioteer (_sārathiṃ vākyam abravīt_):
 </details>
 </details>
 
@@ -176,7 +176,7 @@ demons on the battle field."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Drive the chariot swiftly right over there, O charioteer (tatraiva tāvat tvarito rathaṃ prāpaya sārathe), where these mighty ones are slaying very many Rākṣasas in battle (ghnanti subahūn rākṣasān raṇe)!
+“Drive the chariot swiftly right over there, O charioteer (_tatraiva tāvat tvarito rathaṃ prāpaya sārathe_), where these mighty ones are slaying very many Rākṣasas in battle (_ghnanti subahūn rākṣasān raṇe_)!
 </details>
 </details>
 
@@ -228,7 +228,7 @@ affront me here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And here stand these powerful Vānaras of dreadful wrath (bhīmakopāś ca vānarāḥ) right before me (tiṣṭhanti pramukhe mama), wielding trees and crags as their weapons (drumaśailapraharaṇāḥ).
+And here stand these powerful Vānaras of dreadful wrath (_bhīmakopāś ca vānarāḥ_) right before me (_tiṣṭhanti pramukhe mama_), wielding trees and crags as their weapons (_drumaśailapraharaṇāḥ_).
 </details>
 </details>
 
@@ -284,7 +284,7 @@ demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I wish to slay these warriors who boast in battle (nihantum icchāmi samaraślāghino hy aham); for by them the entire host of the Rākṣasas is seen to be crushed (pramathitaṃ sarvaṃ rakṣasāṃ dṛśyate balam)!”
+I wish to slay these warriors who boast in battle (_nihantum icchāmi samaraślāghino hy aham_); for by them the entire host of the Rākṣasas is seen to be crushed (_pramathitaṃ sarvaṃ rakṣasāṃ dṛśyate balam_)!”
 </details>
 </details>
 
@@ -337,7 +337,7 @@ of chariot-warriors, with a hail of darts, assailed the monkeys from a distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, in his chariot drawn by bounding steeds (pracalitāśvena rathena), Akampana, the foremost of chariot-warriors (rathināṃ varaḥ), rushed upon the Vānaras from afar with networks of arrows (śarajālair akampanaḥ).
+Thereupon, in his chariot drawn by bounding steeds (_pracalitāśvena rathena_), Akampana, the foremost of chariot-warriors (_rathināṃ varaḥ_), rushed upon the Vānaras from afar with networks of arrows (_śarajālair akampanaḥ_).
 </details>
 </details>
 
@@ -398,7 +398,7 @@ battle. all of them were crushed under the shifts of Akampana and took to their 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Vānaras were unable even to stand firm—how much less to fight in battle (kiṃ punar yoddhum āhave)! Broken by Akampana's arrows (akampanaśarair bhagnāḥ), they all fled in rout (sarva evābhidudruvuḥ).
+The Vānaras were unable even to stand firm—how much less to fight in battle (_kiṃ punar yoddhum āhave_)! Broken by Akampana&#x27;s arrows (_akampanaśarair bhagnāḥ_), they all fled in rout (_sarva evābhidudruvuḥ_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ darts, the mighty Hanuman went to their rescue.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his kinsmen (jñātīn) fallen under the sway of death (mṛtyuvaśam āpannān) and pursued by Akampana's shafts (akampanaśarānugān), the mighty Hanumān stood forth beside them (upatasthe mahābalaḥ).
+Beholding his kinsmen (_jñātīn_) fallen under the sway of death (_mṛtyuvaśam āpannān_) and pursued by Akampana&#x27;s shafts (_akampanaśarānugān_), the mighty Hanumān stood forth beside them (_upatasthe mahābalaḥ_).
 </details>
 </details>
 
@@ -502,7 +502,7 @@ together rallied and grouped themselves boldly round him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that great Vānara (taṃ mahāplavagaṃ dṛṣṭvā), all those heroic bulls among the Vānaras (plavagarṣabhāḥ), assembling in battle, surrounded him filled with joy (saṃhṛṣṭāḥ paryavārayan).
+Beholding that great Vānara (_taṃ mahāplavagaṃ dṛṣṭvā_), all those heroic bulls among the Vānaras (_plavagarṣabhāḥ_), assembling in battle, surrounded him filled with joy (_saṃhṛṣṭāḥ paryavārayan_).
 </details>
 </details>
 
@@ -557,7 +557,7 @@ powerfulness and became powerfulness and became powerful indeed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Hanumān standing firm (vyavasthitaṃ hanūmantam), those bulls among the Vānaras became mighty indeed (babhūvur balavanto hi), having taken refuge in a mighty protector (balavantam upāśritāḥ).
+Seeing Hanumān standing firm (_vyavasthitaṃ hanūmantam_), those bulls among the Vānaras became mighty indeed (_babhūvur balavanto hi_), having taken refuge in a mighty protector (_balavantam upāśritāḥ_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ Hanuman, who remained as firm as a rock.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Akampana showered down arrows (śarair abhivavarṣa ha) upon Hanumān, who stood there resembling a mountain (śailābhaṃ hanūmantam avasthitam), just as Mahendra [showers a mountain] with torrents of rain (dhārābhiḥ).
+Then Akampana showered down arrows (_śarair abhivavarṣa ha_) upon Hanumān, who stood there resembling a mountain (_śailābhaṃ hanūmantam avasthitam_), just as Mahendra [showers a mountain] with torrents of rain (_dhārābhiḥ_).
 </details>
 </details>
 
@@ -661,7 +661,7 @@ resolved in his mind to slay Akampana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Disregarding the floods of arrows (acintayitvā bāṇaughān) cast upon his body, the mighty Vānara set his mind upon the slaying of Akampana (akampanavadhārthāya mano dadhre mahābalaḥ).
+Disregarding the floods of arrows (_acintayitvā bāṇaughān_) cast upon his body, the mighty Vānara set his mind upon the slaying of Akampana (_akampanavadhārthāya mano dadhre mahābalaḥ_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ great splendour, leapt on the demon, causing the earth to shake as it were.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laughing aloud (sa prahasya), that Hanumān of mighty splendor (mahātejāḥ), the son of the Wind-god (mārutātmajaḥ), rushed upon that Rākṣasa, as though causing the earth to tremble (kampayann iva medinīm).
+Laughing aloud (_sa prahasya_), that Hanumān of mighty splendor (_mahātejāḥ_), the son of the Wind-god (_mārutātmajaḥ_), rushed upon that Rākṣasa, as though causing the earth to tremble (_kampayann iva medinīm_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ like a blazing fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the form of that roaring warrior, blazing with splendor (dīpyamānasya tejasā), became unendurable to assail (babhūva rūpaṃ durdharṣam), like that of blazing fire (dīptasyeva vibhāvasoḥ).
+Then the form of that roaring warrior, blazing with splendor (_dīpyamānasya tejasā_), became unendurable to assail (_babhūva rūpaṃ durdharṣam_), like that of blazing fire (_dīptasyeva vibhāvasoḥ_).
 </details>
 </details>
 
@@ -828,7 +828,7 @@ rage, uplifted a mountain quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Realizing that he himself was without a weapon (ātmānaṃ tv apraharaṇaṃ jñātvā), that bull among the Vānaras (haripuṅgavaḥ), filled with wrath, tore up a mountain peak with speed (śailam utpāṭayāmāsa vegena).
+Realizing that he himself was without a weapon (_ātmānaṃ tv apraharaṇaṃ jñātvā_), that bull among the Vānaras (_haripuṅgavaḥ_), filled with wrath, tore up a mountain peak with speed (_śailam utpāṭayāmāsa vegena_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ roar, began to spin it rapidly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing that huge mountain crag with a single hand (gṛhītvā sumahāśailaṃ pāṇinaikena), the valiant son of the Wind-god uttered a mighty roar and whirled it around (bhrāmayāmāsa vīryavān).
+Seizing that huge mountain crag with a single hand (_gṛhītvā sumahāśailaṃ pāṇinaikena_), the valiant son of the Wind-god uttered a mighty roar and whirled it around (_bhrāmayāmāsa vīryavān_).
 </details>
 </details>
 
@@ -932,7 +932,7 @@ thunderbolt at Namuchi, Hanuman rushed towards Akampana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon he rushed at that lord of the Rākṣasas, Akampana (rākṣasendram akampanam), just as of old Purandara [rushed] with his thunderbolt at Namuci in battle (purā hi namuciṃ saṃkhye vajreṇeva puraṃdaraḥ).
+Thereupon he rushed at that lord of the Rākṣasas, Akampana (_rākṣasendram akampanam_), just as of old Purandara [rushed] with his thunderbolt at Namuci in battle (_purā hi namuciṃ saṃkhye vajreṇeva puraṃdaraḥ_).
 </details>
 </details>
 
@@ -984,7 +984,7 @@ by means of his great crescent-shaped arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that upraised mountain peak (tad dṛṣṭvā giriśṛṅgaṃ samudyatam), however, Akampana cleft it from afar (dūrād eva vyadārayat) with mighty crescent-headed arrows (mahābāṇair ardhacandraiḥ).
+Beholding that upraised mountain peak (_tad dṛṣṭvā giriśṛṅgaṃ samudyatam_), however, Akampana cleft it from afar (_dūrād eva vyadārayat_) with mighty crescent-headed arrows (_mahābāṇair ardhacandraiḥ_).
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ pieces, Hanuman became mad with anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that mountain peak cleft by the Rākṣasa's arrows (rakṣobāṇavidāritam) and falling scattered through the sky (ākāśe vikīrṇaṃ patitam), Hanumān was convulsed with wrath (krodhamūrcchitaḥ).
+Beholding that mountain peak cleft by the Rākṣasa&#x27;s arrows (_rakṣobāṇavidāritam_) and falling scattered through the sky (_ākāśe vikīrṇaṃ patitam_), Hanumān was convulsed with wrath (_krodhamūrcchitaḥ_).
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ possessed him, that Hanuman uprooted it speedily.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching an aśvakarṇa tree (aśvakarṇaṃ samāsādya) that rose aloft like a great mountain (mahāgirim ivocchritam), that Vānara, filled with fury and pride (roṣadarpānvito hariḥ), swiftly uprooted it.
+Approaching an _aśvakarṇa_ tree (_aśvakarṇaṃ samāsādya_) that rose aloft like a great mountain (_mahāgirim ivocchritam_), that Vānara, filled with fury and pride (_roṣadarpānvito hariḥ_), swiftly uprooted it.
 </details>
 </details>
 
@@ -1155,7 +1155,7 @@ Hanuman with immense delight spinned it, while standing on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing that mighty-trunked aśvakarṇa tree (taṃ gṛhītvā mahāskandhaṃ so 'śvakarṇam), he of great splendor grasped it and whirled it around in battle with supreme delight (parayā prītyā bhrāmayāmāsa saṃyuge).
+Seizing that mighty-trunked _aśvakarṇa_ tree (_taṃ gṛhītvā mahāskandhaṃ so &#x27;śvakarṇam_), he of great splendor grasped it and whirled it around in battle with supreme delight (_parayā prītyā bhrāmayāmāsa saṃyuge_).
 </details>
 </details>
 
@@ -1211,7 +1211,7 @@ trees by his strength and tearing up the earth with his feet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Charging forward with tremendous speed (pradhāvann uruvegena), Hanumān, exceedingly enraged, shattered the trees with his might (babhañja tarasā drumān), cleaving the earth with his feet (caraṇair dārayan mahīm).
+Charging forward with tremendous speed (_pradhāvann uruvegena_), Hanumān, exceedingly enraged, shattered the trees with his might (_babhañja tarasā drumān_), cleaving the earth with his feet (_caraṇair dārayan mahīm_).
 </details>
 </details>
 
@@ -1263,7 +1263,7 @@ chariots and the terrific infantry of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wise Hanumān (hanumān dhīmān) slew elephants together with their riders (gajāṃś ca sagajārohān), chariot-warriors together with their chariots (sarathān rathinas tathā), and Rākṣasas fighting on foot (padātigān).
+Wise Hanumān (_hanumān dhīmān_) slew elephants together with their riders (_gajāṃś ca sagajārohān_), chariot-warriors together with their chariots (_sarathān rathinas tathā_), and Rākṣasas fighting on foot (_padātigān_).
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ armed with a tree and taking off lives, the demons took of flight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Hanumān, tree in hand (sadrumam), robbing warriors of their lives like the wrathful Destroyer himself (antakam iva kruddhaṃ prāṇahāriṇam), the Rākṣasas fled in panic (vipradudruvuḥ).
+Beholding Hanumān, tree in hand (_sadrumam_), robbing warriors of their lives like the wrathful Destroyer himself (_antakam iva kruddhaṃ prāṇahāriṇam_), the Rākṣasas fled in panic (_vipradudruvuḥ_).
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ terror among his soldiers, was greatly perturbed and set up a mighty shout.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him rushing forward in fury, striking terror into the Rākṣasas (rākṣasānāṃ bhayāvaham), the heroic Akampana was shaken with agitation and roared aloud (cukṣobha ca nanāda ca).
+Beholding him rushing forward in fury, striking terror into the Rākṣasas (_rākṣasānāṃ bhayāvaham_), the heroic Akampana was shaken with agitation and roared aloud (_cukṣobha ca nanāda ca_).
 </details>
 </details>
 
@@ -1437,7 +1437,7 @@ valiant Hanuman.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With fourteen whetted, body-rending arrows (caturdaśabhir bāṇair niśitair dehadāraṇaiḥ), that Akampana pierced Hanumān of mighty valor (nirbibheda mahāvīryaṃ hanūmantam).
+With fourteen whetted, body-rending arrows (_caturdaśabhir bāṇair niśitair dehadāraṇaiḥ_), that Akampana pierced Hanumān of mighty valor (_nirbibheda mahāvīryaṃ hanūmantam_).
 </details>
 </details>
 
@@ -1492,7 +1492,7 @@ which a number of plants shooted up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bristling all over with iron shafts and sharp javelins (viprakīrṇas tu nārācaiḥ śitaśaktibhiḥ), the heroic Hanumān appeared like a mountain overgrown [with trees] (prarūḍha iva sānumān).
+Bristling all over with iron shafts and sharp javelins (_viprakīrṇas tu nārācaiḥ śitaśaktibhiḥ_), the heroic Hanumān appeared like a mountain overgrown [with trees] (_prarūḍha iva sānumān_).
 </details>
 </details>
 
@@ -1538,7 +1538,7 @@ smoke and resembled a blooming Ashoka tree.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of mighty valor, a huge frame, and great strength (mahāvīryo mahākāyo mahābalaḥ), he shone forth (virarāja) resembling a flowering aśoka tree (puṣpitāśokasaṃkāśaḥ) or a smokeless fire (vidhūma iva pāvakaḥ).
+Possessed of mighty valor, a huge frame, and great strength (_mahāvīryo mahākāyo mahābalaḥ_), he shone forth (_virarāja_) resembling a flowering _aśoka_ tree (_puṣpitāśokasaṃkāśaḥ_) or a smokeless fire (_vidhūma iva pāvakaḥ_).
 </details>
 </details>
 
@@ -1606,7 +1606,7 @@ brandishing his powerful bow, Akampana addressed his charioteer in these words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, uprooting another tree (tato 'nyaṃ vṛkṣam utpāṭya) and putting forth unsurpassed speed (kṛtvā vegam anuttamam), he swiftly struck Akampana, the lord of the Rākṣasas, upon the head (śirasy abhijaghānāśu).
+Thereupon, uprooting another tree (_tato &#x27;nyaṃ vṛkṣam utpāṭya_) and putting forth unsurpassed speed (_kṛtvā vegam anuttamam_), he swiftly struck Akampana, the lord of the Rākṣasas, upon the head (_śirasy abhijaghānāśu_).
 </details>
 </details>
 
@@ -1666,7 +1666,7 @@ died.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck with that tree by that wrathful and high-souled lord of the Vānaras (sakrodhena mahātmanā vānarendreṇa), the Rākṣasa fell and died on the spot (papāta ca mamāra ca).
+Struck with that tree by that wrathful and high-souled lord of the Vānaras (_sakrodhena mahātmanā vānarendreṇa_), the Rākṣasa fell and died on the spot (_papāta ca mamāra ca_).
 </details>
 </details>
 
@@ -1718,7 +1718,7 @@ trees do during an earthquake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that lord of the Rākṣasas, Akampana, struck down upon the earth (nihataṃ bhūmau), all the Rākṣasas trembled (vyathitā rākṣasāḥ sarve) like trees in an earthquake (kṣitikampa iva drumāḥ).
+Beholding that lord of the Rākṣasas, Akampana, struck down upon the earth (_nihataṃ bhūmau_), all the Rākṣasas trembled (_vyathitā rākṣasāḥ sarve_) like trees in an earthquake (_kṣitikampa iva drumāḥ_).
 </details>
 </details>
 
@@ -1771,7 +1771,7 @@ terrified, pursued by those monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vanquished and pursued by those Vānaras (vānarais tair abhidrutāḥ), all those Rākṣasas cast away their weapons (tyaktapraharaṇāḥ sarve) and fled toward Laṅkā in terror (laṅkām abhiyayus trāsāt).
+Vanquished and pursued by those Vānaras (_vānarais tair abhidrutāḥ_), all those Rākṣasas cast away their weapons (_tyaktapraharaṇāḥ sarve_) and fled toward Laṅkā in terror (_laṅkām abhiyayus trāsāt_).
 </details>
 </details>
 
@@ -1826,7 +1826,7 @@ with sweat, those demons fled, blowing out their breaths.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With hair disheveled (muktakeśāḥ), bewildered, their pride shattered in defeat (bhagnamānāḥ parājitāḥ), they fled in fear (bhayād vidudruvuḥ), their limbs streaming with sweat (śramajalair aṅgaiḥ prasravadbhiḥ).
+With hair disheveled (_muktakeśāḥ_), bewildered, their pride shattered in defeat (_bhagnamānāḥ parājitāḥ_), they fled in fear (_bhayād vidudruvuḥ_), their limbs streaming with sweat (_śramajalair aṅgaiḥ prasravadbhiḥ_).
 </details>
 </details>
 
@@ -1878,7 +1878,7 @@ entered the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Trampling upon one another (anyonyaṃ ye pramathnantaḥ), they entered the city in terror (viviśur nagaraṃ bhayāt), while in their utter confusion they kept looking back again and again (pṛṣṭhatas te tu sammūḍhāḥ prekṣamāṇā muhur muhuḥ).
+Trampling upon one another (_anyonyaṃ ye pramathnantaḥ_), they entered the city in terror (_viviśur nagaraṃ bhayāt_), while in their utter confusion they kept looking back again and again (_pṛṣṭhatas te tu sammūḍhāḥ prekṣamāṇā muhur muhuḥ_).
 </details>
 </details>
 
@@ -1938,7 +1938,7 @@ paid homage to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When those Rākṣasas had entered Laṅkā (teṣu laṅkāṃ praviṣṭeṣu rākṣaseṣu), all the mighty Vānaras assembled and honored Hanumān (sametya harayaḥ sarve hanūmantam apūjayan).
+When those Rākṣasas had entered Laṅkā (_teṣu laṅkāṃ praviṣṭeṣu rākṣaseṣu_), all the mighty Vānaras assembled and honored Hanumān (_sametya harayaḥ sarve hanūmantam apūjayan_).
 </details>
 </details>
 
@@ -1990,7 +1990,7 @@ their rank and the occasion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Hanumān too, endowed with noble strength (sattvasampannaḥ) and exalted in joy (pravṛddhaḥ), honored all those Vānaras in return (tān sarvān harīn sampratyapūjayat), affectionately and according to their rank (yathārham anukūlataḥ).
+And Hanumān too, endowed with noble strength (_sattvasampannaḥ_) and exalted in joy (_pravṛddhaḥ_), honored all those Vānaras in return (_tān sarvān harīn sampratyapūjayat_), affectionately and according to their rank (_yathārham anukūlataḥ_).
 </details>
 </details>
 
@@ -2042,7 +2042,7 @@ the demons who were still alive there on the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The triumphant Vānaras (harayo jitakāśinaḥ) roared with all their might (vineduś ca yathāprāṇam), and once more they dragged about even those Rākṣasas who still had breath in them (cakṛṣuś ca punas tatra saprāṇān eva rākṣasān).
+The triumphant Vānaras (_harayo jitakāśinaḥ_) roared with all their might (_vineduś ca yathāprāṇam_), and once more they dragged about even those Rākṣasas who still had breath in them (_cakṛṣuś ca punas tatra saprāṇān eva rākṣasān_).
 </details>
 </details>
 
@@ -2103,7 +2103,7 @@ destroying his enemies in the forefront of the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having confronted and slain the Rākṣasas (sametya rakṣāṃsi nihatya), that great Vānara, the son of the Wind-god, attained heroic splendor (sa vīraśobhām abhajan mahākapiḥ), just as Viṣṇu at the forefront of the army [attained splendor after slaying] the dreadful, foe-destroying great Asura of mighty strength (mahāsuraṃ bhīmam amitranāśanaṃ viṣṇur yathaivorubalaṃ camūmukhe).
+Having confronted and slain the Rākṣasas (_sametya rakṣāṃsi nihatya_), that great Vānara, the son of the Wind-god, attained heroic splendor (_sa vīraśobhām abhajan mahākapiḥ_), just as Viṣṇu at the forefront of the army [attained splendor after slaying] the dreadful, foe-destroying great Asura of mighty strength (_mahāsuraṃ bhīmam amitranāśanaṃ viṣṇur yathaivorubalaṃ camūmukhe_).
 </details>
 </details>
 
@@ -2174,7 +2174,7 @@ Lakshmana, Sugreeva and other monkeys and the mighty Vibhishana paid homage to H
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the hosts of the gods honored the Vānara (apūjayan devagaṇās tadā kapim), and so did Rāma himself and Lakṣmaṇa of surpassing might, as well as the Vānaras headed by Sugrīva (sugrīvamukhāḥ plavaṃgamāḥ) and the mighty Vibhīṣaṇa.
+Then the hosts of the gods honored the Vānara (_apūjayan devagaṇās tadā kapim_), and so did Rāma himself and Lakṣmaṇa of surpassing might, as well as the Vānaras headed by Sugrīva (_sugrīvamukhāḥ plavaṃgamāḥ_) and the mighty Vibhīṣaṇa.
 </details>
 </details>
 

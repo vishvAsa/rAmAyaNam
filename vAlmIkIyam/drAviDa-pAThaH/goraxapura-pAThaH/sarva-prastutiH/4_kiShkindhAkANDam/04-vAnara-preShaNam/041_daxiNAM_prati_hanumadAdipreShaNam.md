@@ -85,7 +85,7 @@ vanara-s to south. [4-41-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having sent forth that mighty monkey host [to the east], Sugrīva dispatched to the southern quarter [picked] monkeys of proven mettle (abhilakṣitān):
+Then, having sent forth that mighty monkey host [to the east], Sugrīva dispatched to the southern quarter [picked] monkeys of proven mettle (_abhilakṣitān_):
 </details>
 </details>
 
@@ -189,9 +189,9 @@ later when sending another direction.
 
 **3:** Suhotra, Śarāri, and likewise Śaragulma, Gaja, Gavākṣa, Gavaya, Suṣeṇa, and Vṛṣabha,
 
-**4:** Mainda and Dvivida, Suṣeṇa and Gandhamādana, and both Ulkāmukha and Anaṅga, the two sons of the oblation-consumer [Agni] (hutāśanasutau)—
+**4:** Mainda and Dvivida, Suṣeṇa and Gandhamādana, and both Ulkāmukha and Anaṅga, the two sons of the oblation-consumer [Agni] (_hutāśanasutau_)—
 
-**5:** The heroic lord of monkey troops, knowing the particular regions (viśeṣavit), commissioned those heroes headed by Aṅgada, who were endowed with speed and valor.
+**5:** The heroic lord of monkey troops, knowing the particular regions (_viśeṣavit_), commissioned those heroes headed by Aṅgada, who were endowed with speed and valor.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ forming search party and ordered southern direction for them. [4-41-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having appointed Aṅgada of mighty strength (bṛhadbalam) as the chief leader (agresaram) of those monkey heroes, he assigned to them the southern quarter.
+Having appointed Aṅgada of mighty strength (_bṛhadbalam_) as the chief leader (_agresaram_) of those monkey heroes, he assigned to them the southern quarter.
 </details>
 </details>
 
@@ -309,7 +309,7 @@ south. [4-41-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever regions (samuddeśāḥ) in that quarter were exceedingly difficult of access (sudurgamāḥ), the lord of monkeys recounted (samudāharat) to those chiefs of monkeys:
+Whatever regions (_samuddeśāḥ_) in that quarter were exceedingly difficult of access (_sudurgamāḥ_), the lord of monkeys recounted (_samudāharat_) to those chiefs of monkeys:
 </details>
 </details>
 
@@ -355,7 +355,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “[Behold] the thousand-peaked Vindhya endowed with manifold trees and creepers, and the lovely River Narmadā frequented by great serpents (mahoraganiṣevitām),
+**8:** “[Behold] the thousand-peaked Vindhya endowed with manifold trees and creepers, and the lovely River Narmadā frequented by great serpents (_mahoraganiṣevitām_),
 
 **9:** “Then the lovely Godāvarī, the great river Kṛṣṇaveṇī, and the auspicious Varadā frequented by great serpents, the Mekhalas, the Utkalas, and also the cities of Daśārṇa;
 </details>
@@ -484,7 +484,7 @@ Ashoka's time, it was called *kerala putra.*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “Survey (anupaśyata) Ābravantī and Avantī in their entirety, and the Vidarbhas, the Ṛṣṭikas, and also the lovely Māhiṣakas,
+**10:** “Survey (_anupaśyata_) Ābravantī and Avantī in their entirety, and the Vidarbhas, the Ṛṣṭikas, and also the lovely Māhiṣakas,
 
 **11:** “And likewise the Vaṅgas, the Kaliṅgas, and the Kauśikas on all sides; having searched the Daṇḍaka forest with its mountains, rivers, and caves,
 
@@ -568,7 +568,7 @@ River Tamraparni emerges.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Mount Ayomukha, decked with mineral ores (dhātumaṇḍitaḥ), glorious with varied peaks and blossoming forests of manifold hues, must be visited.
+“And Mount Ayomukha, decked with mineral ores (_dhātumaṇḍitaḥ_), glorious with varied peaks and blossoming forests of manifold hues, must be visited.
 </details>
 </details>
 
@@ -632,7 +632,7 @@ Kaaveri only *pulavoy vazhi kaaveri... nadanthai vazhi kaaveri...*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That great mountain with its expanses of fine sandalwood forests (sucandanavanoddeśaḥ) must be searched; then [you will behold] that celestial river of pellucid waters (prasannasalilāśayām):
+“That great mountain with its expanses of fine sandalwood forests (_sucandanavanoddeśaḥ_) must be searched; then [you will behold] that celestial river of pellucid waters (_prasannasalilāśayām_):
 </details>
 </details>
 
@@ -687,7 +687,7 @@ Sun, and who will be sitting on the top of that highly resplendent Mt. Malaya. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There you will behold the Kāverī, where troops of Apsarases sport (vihṛtām), and seated upon the summit of that Malaya mountain, the mighty-energied
+“There you will behold the Kāverī, where troops of Apsarases sport (_vihṛtām_), and seated upon the summit of that Malaya mountain, the mighty-energied
 </details>
 </details>
 
@@ -741,7 +741,7 @@ that mountain and cross over the great River Taamraparni, a highly cherished riv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Best of sages, Agastya, shining like the sun, you will behold; then, granted leave (abhyanujñātāḥ) by that gracious high-souled sage,
+“Best of sages, Agastya, shining like the sun, you will behold; then, granted leave (_abhyanujñātāḥ_) by that gracious high-souled sage,
 </details>
 </details>
 
@@ -828,7 +828,7 @@ they have renamed it as per the nomenclature given in Ramayana as *Lanka,* but a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You will cross the great river Tāmraparṇī frequented by crocodiles (grāhajuṣṭām); with her islands and waters veiled (pracchannadvīpavāriṇī) by lovely sandalwood forests,
+“You will cross the great river Tāmraparṇī frequented by crocodiles (_grāhajuṣṭām_); with her islands and waters veiled (_pracchannadvīpavāriṇī_) by lovely sandalwood forests,
 </details>
 </details>
 
@@ -879,7 +879,7 @@ and conduct your search even in that kingdom. [4-41-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Like a young maiden entering her beloved (kānteva yuvatī kāntam), she plunges into the ocean; then the divine golden [gate], adorned with pearls and gems—
+“Like a young maiden entering her beloved (_kānteva yuvatī kāntam_), she plunges into the ocean; then the divine golden [gate], adorned with pearls and gems—
 </details>
 </details>
 
@@ -969,9 +969,9 @@ Rhumassala Kanda, in Singhalese.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Having gone [there], O monkeys, you will behold the fitting city-gate (kavāṭam) of the Pāṇḍyas; then, having reached the ocean and deliberated upon the determination of your purpose (sampradhāryārthaniścayam),
+**19:** “Having gone [there], O monkeys, you will behold the fitting city-gate (_kavāṭam_) of the Pāṇḍyas; then, having reached the ocean and deliberated upon the determination of your purpose (_sampradhāryārthaniścayam_),
 
-**20:** “[You will see] the supreme mountain Mahendra, glorious with varied tablelands and trees (citrasānunagaḥ), which was placed there in the midst of the sea by Agastya;
+**20:** “[You will see] the supreme mountain Mahendra, glorious with varied tablelands and trees (_citrasānunagaḥ_), which was placed there in the midst of the sea by Agastya;
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ to this mountain on every no-moon-day in the Indian month.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “Fashioned of gold and glorious, it plunges into the great ocean (avagāḍho mahārṇavam), adorned with manifold blossoming trees and creepers,
+**21:** “Fashioned of gold and glorious, it plunges into the great ocean (_avagāḍho mahārṇavam_), adorned with manifold blossoming trees and creepers,
 
 **22:** “Graced by eminent Devarṣis, Yakṣas, and Apsarases, and thronged with multitudes of Siddhas and Cāraṇas, exceedingly delightful.
 </details>
@@ -1101,9 +1101,9 @@ noted above.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “The thousand-eyed [Indra] visits that [mountain] constantly on every festival day (parvasu parvasu); on its farther shore across [the sea] lies an island a hundred yojanas wide,
+**23:** “The thousand-eyed [Indra] visits that [mountain] constantly on every festival day (_parvasu parvasu_); on its farther shore across [the sea] lies an island a hundred _yojanas_ wide,
 
-**24:** “Inaccessible to mortal men (agamyo mānuṣaiḥ) and radiant; search that [island] on all sides—there especially (viśeṣataḥ), with all your soul, Sītā must be sought.
+**24:** “Inaccessible to mortal men (_agamyo mānuṣaiḥ_) and radiant; search that [island] on all sides—there especially (_viśeṣataḥ_), with all your soul, Sītā must be sought.
 </details>
 </details>
 
@@ -1204,7 +1204,7 @@ Seetha is for his requital.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that land is the dwelling (vāsaḥ) of the wicked Rāvaṇa, overlord of the Rākṣasas, who is fit to be slain (vadhyasya) and equals the thousand-eyed [Indra] in splendor.
+“For that land is the dwelling (_vāsaḥ_) of the wicked Rāvaṇa, overlord of the Rākṣasas, who is fit to be slain (_vadhyasya_) and equals the thousand-eyed [Indra] in splendor.
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ Kanda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the midst of that southern ocean dwells a Rākṣasī renowned as Aṅgārakā, who devours [creatures] after seizing their shadow (chāyām ākṣipya bhojinī).
+“In the midst of that southern ocean dwells a Rākṣasī renowned as Aṅgārakā, who devours [creatures] after seizing their shadow (_chāyām ākṣipya bhojinī_).
 </details>
 </details>
 
@@ -1322,7 +1322,7 @@ doubts about her possible presence at any given place. [4-41-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus rendered doubtful places free from doubt (niḥsaṃśayān kṛtvā saṃśayān) and being yourselves free from doubt, seek the wife of the lord of men of boundless splendor.
+“Having thus rendered doubtful places free from doubt (_niḥsaṃśayān kṛtvā saṃśayān_) and being yourselves free from doubt, seek the wife of the lord of men of boundless splendor.
 </details>
 </details>
 
@@ -1376,7 +1376,7 @@ is there in that august ocean, which is adored by the celestials like siddha-s, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beyond that [island], a hundred yojanas in the ocean, rises the glorious mountain named Puṣpitaka, frequented by Siddhas and Cāraṇas.
+“Beyond that [island], a hundred _yojanas_ in the ocean, rises the glorious mountain named Puṣpitaka, frequented by Siddhas and Cāraṇas.
 </details>
 </details>
 
@@ -1432,7 +1432,7 @@ crests will look as if they are scribbling on the sky. [4-41-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Shining like the rays of the moon and the sun and resting in the waters of the sea (sāgarāmbusamāśrayaḥ), it gleams with its broad peaks as though scraping the sky (ambaraṃ vilikhann iva).
+“Shining like the rays of the moon and the sun and resting in the waters of the sea (_sāgarāmbusamāśrayaḥ_), it gleams with its broad peaks as though scraping the sky (_ambaraṃ vilikhann iva_).
 </details>
 </details>
 
@@ -1491,7 +1491,7 @@ or to the unkindly ones or to unbelievers. [4-41-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One golden peak of that [mountain] the sun-god attends, and one white silver peak the moon-god (niśākaraḥ) attends; the ungrateful (kṛtaghnāḥ) do not behold it, nor the cruel, nor non-believers (nāstikāḥ).
+“One golden peak of that [mountain] the sun-god attends, and one white silver peak the moon-god (_niśākaraḥ_) attends; the ungrateful (_kṛtaghnāḥ_) do not behold it, nor the cruel, nor non-believers (_nāstikāḥ_).
 </details>
 </details>
 
@@ -1559,7 +1559,7 @@ there is a mountain named Suuryavaan after fourteen yojana-s from Mt. Pushpitaka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bowed to that mountain with your heads, search it through (vimārgatha), O monkeys; beyond that unassailable [mountain] rises a mountain named Sūryavān,
+“Having bowed to that mountain with your heads, search it through (_vimārgatha_), O monkeys; beyond that unassailable [mountain] rises a mountain named Sūryavān,
 </details>
 </details>
 
@@ -1612,7 +1612,7 @@ taste. [4-41-32b, 33a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fourteen yojanas along a track difficult to traverse (adhvanā durvigāhena); then, passing beyond that also, rises a mountain named Vaidyuta,
+“Fourteen _yojanas_ along a track difficult to traverse (_adhvanā durvigāhena_); then, passing beyond that also, rises a mountain named Vaidyuta,
 </details>
 </details>
 
@@ -1671,7 +1671,7 @@ growing on Mt. Vaidyuta, and even on consuming precious honey at that place. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With trees bearing all desired fruits (sarvakāmaphalaiḥ) and delightful in every season; having eaten there roots and fruits worthy of the best (varārhāṇi),
+“With trees bearing all desired fruits (_sarvakāmaphalaiḥ_) and delightful in every season; having eaten there roots and fruits worthy of the best (_varārhāṇi_),
 </details>
 </details>
 
@@ -1720,7 +1720,7 @@ and heart, on which Vishvakarma built the mansion of Agastya. [4-41-34b, 35a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And having drunk choice (juṣṭāni) wild honeys, proceed onward (paraṃ gacchata), O monkeys; there stands a mountain named Kuñjara, pleasing to eye and mind (netramanaḥkāntaḥ),
+“And having drunk choice (_juṣṭāni_) wild honeys, proceed onward (_paraṃ gacchata_), O monkeys; there stands a mountain named Kuñjara, pleasing to eye and mind (_netramanaḥkāntaḥ_),
 </details>
 </details>
 
@@ -1772,7 +1772,7 @@ gemstones, and it measures a yojana breadthwise and ten yojana-s in height. [4-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where the abode of Agastya (agastyabhavanam) was fashioned by Viśvakarman; there, one yojana in breadth and ten yojanas in height,
+“Where the abode of Agastya (_agastyabhavanam_) was fashioned by Viśvakarman; there, one _yojana_ in breadth and ten _yojanas_ in height,
 </details>
 </details>
 
@@ -1842,9 +1842,9 @@ serpents, namely Vasuki, will be dwelling. [4-41-36b, 37. 38a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Stands his divine golden mansion (śaraṇam) adorned with manifold jewels; there too lies the city named Bhogavatī, the abode of serpents (sarpāṇām ālayaḥ).
+**36:** “Stands his divine golden mansion (_śaraṇam_) adorned with manifold jewels; there too lies the city named Bhogavatī, the abode of serpents (_sarpāṇām ālayaḥ_).
 
-**37:** “With broad avenues (viśālarathyā), unassailable, guarded on all sides, and protected by dreadful, sharp-fanged serpents of deadly venom (mahāviṣaiḥ),
+**37:** “With broad avenues (_viśālarathyā_), unassailable, guarded on all sides, and protected by dreadful, sharp-fanged serpents of deadly venom (_mahāviṣaiḥ_),
 </details>
 </details>
 
@@ -1901,7 +1901,7 @@ city to its fringes. [4-41-38b, 39a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wherein dwells the supremely dreadful king of serpents, Vāsuki—going forth (niryāya), that city Bhogavatī must be searched,
+“Wherein dwells the supremely dreadful king of serpents, Vāsuki—going forth (_niryāya_), that city Bhogavatī must be searched,
 </details>
 </details>
 
@@ -1954,7 +1954,7 @@ that great mountain looks like a Holy Bull, and it is replete with every kind of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever concealed (samāvṛtāḥ) adjacent districts (anantaroddeśāḥ) lie there; and passing beyond that region stands a great bull-shaped [mountain] (mahān ṛṣabhasaṃsthitiḥ),
+“And whatever concealed (_samāvṛtāḥ_) adjacent districts (_anantaroddeśāḥ_) lie there; and passing beyond that region stands a great bull-shaped [mountain] (_mahān ṛṣabhasaṃsthitiḥ_),
 </details>
 </details>
 
@@ -2043,9 +2043,9 @@ called Rohita will be protecting that dangerous woodland of sandalwood trees. [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** “The glorious mountain named Ṛṣabha, formed of all jewels; gośīrṣaka, padmaka, and dark-green (hariśyāmam) sandalwood,
+**40:** “The glorious mountain named Ṛṣabha, formed of all jewels; _gośīrṣaka_, _padmaka_, and dark-green (_hariśyāmam_) sandalwood,
 
-**41:** “Divine and shining like fire (agnisamaprabham), spring forth there; yet even upon beholding that sandalwood, it must never at any time be touched (na... spraṣṭavyam).
+**41:** “Divine and shining like fire (_agnisamaprabham_), spring forth there; yet even upon beholding that sandalwood, it must never at any time be touched (_na... spraṣṭavyam_).
 </details>
 </details>
 
@@ -2084,7 +2084,7 @@ Fierce Rohita Gandharvas under five sun-bright chiefs guard that sandalwood fore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gandharvas named Rohitas fiercely guard that forest; there dwell five lords of Gandharvas (gandharvapatayaḥ) shining like the sun:
+“Gandharvas named Rohitas fiercely guard that forest; there dwell five lords of Gandharvas (_gandharvapatayaḥ_) shining like the sun:
 </details>
 </details>
 
@@ -2145,7 +2145,7 @@ and some Fire by their physique. [4-41-42b, 43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Śailūṣa, Grāmaṇī, Śikṣa, Śuka, and likewise Babhru. [Beyond that lies] the abode of righteous doers (puṇyakarmaṇām) whose bodies shine like the sun, moon, and fire;
+“Śailūṣa, Grāmaṇī, Śikṣa, Śuka, and likewise Babhru. [Beyond that lies] the abode of righteous doers (_puṇyakarmaṇām_) whose bodies shine like the sun, moon, and fire;
 </details>
 </details>
 
@@ -2199,7 +2199,7 @@ namely the abode of Yama, the Terminator, and you need not consider going there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the edge of the earth (ante pṛthivyāḥ), unassailable conquerors of heaven (svargajitaḥ) abide there; beyond that lies the exceedingly dreadful world of the Fathers (pitṛlokaḥ), which must not be approached by you.
+“At the edge of the earth (_ante pṛthivyāḥ_), unassailable conquerors of heaven (_svargajitaḥ_) abide there; beyond that lies the exceedingly dreadful world of the Fathers (_pitṛlokaḥ_), which must not be approached by you.
 </details>
 </details>
 
@@ -2259,7 +2259,7 @@ sections in this hell for various sins committed while alive or on rebirth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the capital (rājadhānī) of Yama, shrouded in painful darkness (kaṣṭena tamasāvṛtā); thus far alone, O heroic bulls among monkeys, is it possible for you to search or to go—beyond this there is no passage for beings endowed with motion (gatimatām).
+“This is the capital (_rājadhānī_) of Yama, shrouded in painful darkness (_kaṣṭena tamasāvṛtā_); thus far alone, O heroic bulls among monkeys, is it possible for you to search or to go—beyond this there is no passage for beings endowed with motion (_gatimatām_).
 </details>
 </details>
 
@@ -2321,7 +2321,7 @@ to see, whether I have mentioned them or not. [4-41-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having surveyed all this and whatever else is seen, and having ascertained the course (gatim) of Vaidehī, you ought to return together.
+“Having surveyed all this and whatever else is seen, and having ascertained the course (_gatim_) of Vaidehī, you ought to return together.
 </details>
 </details>
 
@@ -2379,7 +2379,7 @@ Seetha, for which commentators have given a very great value.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whoever, having returned before [the end of] the month (māsān nivṛtto 'gre), shall declare, `Sītā has been seen (dṛṣṭā sītā)!' shall sport happily in pleasures with royal wealth equal to mine (mattulyavibhavaḥ).
+“And whoever, having returned before [the end of] the month (_māsān nivṛtto &#x27;gre_), shall declare, `Sītā has been seen (_dṛṣṭā sītā_)!&#x27; shall sport happily in pleasures with royal wealth equal to mine (_mattulyavibhavaḥ_).
 </details>
 </details>
 
@@ -2431,7 +2431,7 @@ particular, and even if he has committed many misdeeds he becomes my confidant. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Than him there is no one dearer to me, even more than my own life-breath (mama prāṇād viśeṣataḥ); even if he has committed offenses many times (kṛtāparādho bahuśaḥ), he shall become my cherished kinsman (bandhuḥ).
+“Than him there is no one dearer to me, even more than my own life-breath (_mama prāṇād viśeṣataḥ_); even if he has committed offenses many times (_kṛtāparādho bahuśaḥ_), he shall become my cherished kinsman (_bandhuḥ_).
 </details>
 </details>
 
@@ -2513,6 +2513,6 @@ eradicating evil on earth...' you start on your mission.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are of boundless strength and valor, and born in lineages of vast virtues; therefore undertake a manly exertion of surpassing excellence (tadadhiguṇaṃ puruṣārtham), whereby you may recover the daughter of the lord of men.”
+“You are of boundless strength and valor, and born in lineages of vast virtues; therefore undertake a manly exertion of surpassing excellence (_tadadhiguṇaṃ puruṣārtham_), whereby you may recover the daughter of the lord of men.”
 </details>
 </details>

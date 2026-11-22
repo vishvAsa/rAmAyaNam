@@ -48,7 +48,7 @@ Delighted by Lakṣmaṇa’s wise counsel, Rāma confesses that neglecting his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those exceedingly wondrous words of Lakṣmaṇa (tad vākyaṃ ... paramādbhutam), Rāma became deeply pleased (suprītaś cābhavad rāmaḥ) and spoke this speech in reply:
+Hearing those exceedingly wondrous words of Lakṣmaṇa (_tad vākyaṃ ... paramādbhutam_), Rāma became deeply pleased (_suprītaś cābhavad rāmaḥ_) and spoke this speech in reply:
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing those exceedingly wondrous words of Lakṣmaṇa (tad vākyaṃ ... para
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rare indeed is such a kinsman (durlabhas tv īdṛśo bandhuḥ), especially at a time such as this (asmin kāle viśeṣataḥ), as you are, O gentle one, following the very mind of me of great discernment (mahābuddher mama ... mano-’nugaḥ).
+“Rare indeed is such a kinsman (_durlabhas tv īdṛśo bandhuḥ_), especially at a time such as this (_asmin kāle viśeṣataḥ_), as you are, O gentle one, following the very mind of me of great discernment (_mahābuddher mama ... mano-’nugaḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Hearing those exceedingly wondrous words of Lakṣmaṇa (tad vākyaṃ ... para
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever now abides within my heart (yac ca me hṛdaye kiñcid vartate), O you of auspicious marks (śubha-lakṣaṇa), hear it attentively, and having heard it (tan niśāmaya ca śrutvā), carry out my word.
+“And whatever now abides within my heart (_yac ca me hṛdaye kiñcid vartate_), O you of auspicious marks (_śubha-lakṣaṇa_), hear it attentively, and having heard it (_tan niśāmaya ca śrutvā_), carry out my word.
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Four days have passed, O gentle Saumitri, without my attending to the business of the citizens (kāryaṃ paura-janasya ... akurvāṇasya)—and that pierces my very vitals (tan me marmāṇi kṛntati).
+“Four days have passed, O gentle Saumitri, without my attending to the business of the citizens (_kāryaṃ paura-janasya ... akurvāṇasya_)—and that pierces my very vitals (_tan me marmāṇi kṛntati_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the subjects, the royal priest, and the ministers be summoned (āhūyantāṃ prakṛtayaḥ purodhā mantriṇas tathā), together with men and women who have suits to plead (kāryārthinaś ca puruṣāḥ striyaś ca), O bull among men!
+“Let the subjects, the royal priest, and the ministers be summoned (_āhūyantāṃ prakṛtayaḥ purodhā mantriṇas tathā_), together with men and women who have suits to plead (_kāryārthinaś ca puruṣāḥ striyaś ca_), O bull among men!
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever king does not attend day by day to the affairs of his citizens (paura-kāryāṇi ... na karoti dine dine) falls into a dreadful, tightly enclosed hell (saṃvṛte narake ghore patitaḥ)—of this there is no doubt.”
+“Whatever king does not attend day by day to the affairs of his citizens (_paura-kāryāṇi ... na karoti dine dine_) falls into a dreadful, tightly enclosed hell (_saṃvṛte narake ghore patitaḥ_)—of this there is no doubt.”
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is heard that of old there was a king named Nṛga of great renown (rājā nṛgo nāma mahāyaśāḥ), a protector of the earth, devoted to brahmins (brahmaṇyaḥ), truthful in speech, and pure (satyavāk śuciḥ).
+“It is heard that of old there was a king named Nṛga of great renown (_rājā nṛgo nāma mahāyaśāḥ_), a protector of the earth, devoted to brahmins (_brahmaṇyaḥ_), truthful in speech, and pure (_satyavāk śuciḥ_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once, that god among men, the king (nṛdevo ... nṛpaḥ), bestowed crores of cows with their calves, adorned with gold (gavāṃ koṭīḥ savatsāḥ svarṇa-bhūṣitāḥ), upon brahmins, the gods on earth (bhūmidevebhyaḥ), at the sacred waters of Puṣkara (puṣkareṣu).
+“Once, that god among men, the king (_nṛdevo ... nṛpaḥ_), bestowed crores of cows with their calves, adorned with gold (_gavāṃ koṭīḥ savatsāḥ svarṇa-bhūṣitāḥ_), upon brahmins, the gods on earth (_bhūmidevebhyaḥ_), at the sacred waters of Puṣkara (_puṣkareṣu_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, O sinless one, by mingling with that herd (saṅgād gatā), the cow with calf belonging to a poor, gleaning brahmin who maintained the sacred fires (brāhmaṇasyāhitāgneś ca daridrasyoñcha-vartinaḥ) was ritually touched and gifted away (sparśitā).
+“Then, O sinless one, by mingling with that herd (_saṅgād gatā_), the cow with calf belonging to a poor, gleaning brahmin who maintained the sacred fires (_brāhmaṇasyāhitāgneś ca daridrasyoñcha-vartinaḥ_) was ritually touched and gifted away (_sparśitā_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tormented by hunger (kṣudhārto vai), that brahmin wandered searching here and there for his lost cow (naṣṭāṃ gām ... anviṣaṃs tatra tatra ca), yet found her not across all the kingdoms for many cycles of years (saṃvatsara-gaṇān bahūn).
+“Tormented by hunger (_kṣudhārto vai_), that brahmin wandered searching here and there for his lost cow (_naṣṭāṃ gām ... anviṣaṃs tatra tatra ca_), yet found her not across all the kingdoms for many cycles of years (_saṃvatsara-gaṇān bahūn_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At length, going to Kanakhala (kanakhalaṃ gatvā), he beheld his own cow, now with an aged calf yet free from disease (jīrṇa-vatsāṃ nirāmayām), in the dwelling of another brahmin (brāhmaṇasya niveśane).
+“At length, going to Kanakhala (_kanakhalaṃ gatvā_), he beheld his own cow, now with an aged calf yet free from disease (_jīrṇa-vatsāṃ nirāmayām_), in the dwelling of another brahmin (_brāhmaṇasya niveśane_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon that twice-born called to her by the name he himself had given (nāmadheyena svakenovāca): ‘Come, Śabalā!’ (āgaccha śabalety evam)—and that cow heard his voice (sā tu śuśrāva gauḥ svaram).”
+“Thereupon that twice-born called to her by the name he himself had given (_nāmadheyena svakenovāca_): ‘Come, Śabalā!’ (_āgaccha śabalety evam_)—and that cow heard his voice (_sā tu śuśrāva gauḥ svaram_).”
 </details>
 </details>
 
@@ -442,7 +442,7 @@ As Śabalā follows her original master, the custodian brahmin hurries after the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Recognizing that voice of the hunger-stricken twice-born (tasya taṃ svaram ājñāya kṣudhārtasya dvijasya), that cow followed close behind him (anvagāt pṛṣṭhataḥ sā gauḥ) as he walked away radiant as fire (gacchantaṃ pāvakopamam).
+“Recognizing that voice of the hunger-stricken twice-born (_tasya taṃ svaram ājñāya kṣudhārtasya dvijasya_), that cow followed close behind him (_anvagāt pṛṣṭhataḥ sā gauḥ_) as he walked away radiant as fire (_gacchantaṃ pāvakopamam_).
 </details>
 </details>
 
@@ -475,7 +475,7 @@ As Śabalā follows her original master, the custodian brahmin hurries after the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the brahmin who had been tending her (yo ’pi pālayate vipraḥ) likewise ran swiftly after the cow (so ’pi gām anvagād drutam); overtaking that sage, he declared hastily (gatvā tam ṛṣim ācaṣṭa ... satvaram): ‘This cow is mine!’ (mama gaur iti).
+“And the brahmin who had been tending her (_yo ’pi pālayate vipraḥ_) likewise ran swiftly after the cow (_so ’pi gām anvagād drutam_); overtaking that sage, he declared hastily (_gatvā tam ṛṣim ācaṣṭa ... satvaram_): ‘This cow is mine!’ (_mama gaur iti_).
 </details>
 </details>
 
@@ -509,7 +509,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Ritually touched by that lion among kings, Nṛga, she was bestowed upon me!’ (sparśitā rāja-siṃhena mama dattā nṛgeṇa ha)—thereupon a great dispute arose between those two learned brahmins (tayor brāhmaṇayor vādo mahān āsīd vipaścitoḥ).
+“‘Ritually touched by that lion among kings, Nṛga, she was bestowed upon me!’ (_sparśitā rāja-siṃhena mama dattā nṛgeṇa ha_)—thereupon a great dispute arose between those two learned brahmins (_tayor brāhmaṇayor vādo mahān āsīd vipaścitoḥ_).
 </details>
 </details>
 
@@ -540,7 +540,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Disputing with one another (vivadantau ... anyonyam), they then repaired to the donor (dātāram abhijagmatuḥ); yet standing at the gate of the royal palace (rāja-bhavana-dvāri), those two obtained no summons from Nṛga (na prāptau nṛga-śāsanam).
+“Disputing with one another (_vivadantau ... anyonyam_), they then repaired to the donor (_dātāram abhijagmatuḥ_); yet standing at the gate of the royal palace (_rāja-bhavana-dvāri_), those two obtained no summons from Nṛga (_na prāptau nṛga-śāsanam_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Dwelling there for many days and nights (ahorātrāṇy anekāni vasantau), they fell into wrath (krodham īyatuḥ); and those two great-souled foremost brahmins, enraged and brought to the utmost pitch of fury (kruddhau parama-samprāptau), uttered a speech charged with dread (vākyaṃ ghorābhisaṃhitam).”
+“Dwelling there for many days and nights (_ahorātrāṇy anekāni vasantau_), they fell into wrath (_krodham īyatuḥ_); and those two great-souled foremost brahmins, enraged and brought to the utmost pitch of fury (_kruddhau parama-samprāptau_), uttered a speech charged with dread (_vākyaṃ ghorābhisaṃhitam_).”
 </details>
 </details>
 
@@ -617,9 +617,9 @@ Because Nṛga refused to grant sight to petitioners, the enraged brahmins curse
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “‘Because you do not grant audience to petitioners for the fulfillment of their affairs (arthināṃ kārya-siddhyarthaṃ yasmāt tvaṃ naiṣi darśanam), you shall become a chameleon, invisible to all creatures (adṛśyaḥ sarva-bhūtānāṃ kṛkalāso bhaviṣyasi)!
+**18:** “‘Because you do not grant audience to petitioners for the fulfillment of their affairs (_arthināṃ kārya-siddhyarthaṃ yasmāt tvaṃ naiṣi darśanam_), you shall become a chameleon, invisible to all creatures (_adṛśyaḥ sarva-bhūtānāṃ kṛkalāso bhaviṣyasi_)!
 
-**19:** “‘For many thousands of years and many hundreds of years (bahu-varṣa-sahasrāṇi bahu-varṣa-śatāni ca), you shall abide for a long time in this pit as a chameleon (śvabhre ’smin kṛkalāso vai dīrgha-kālaṃ vasiṣyasi).
+**19:** “‘For many thousands of years and many hundreds of years (_bahu-varṣa-sahasrāṇi bahu-varṣa-śatāni ca_), you shall abide for a long time in this pit as a chameleon (_śvabhre ’smin kṛkalāso vai dīrgha-kālaṃ vasiṣyasi_).
 </details>
 </details>
 
@@ -673,11 +673,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “‘For there shall be born in this world the enhancer of the Yadus’ renown (utpatsyate hi loke ’smin yadūnāṃ kīrti-vardhanaḥ), Viṣṇu in human form, famed as Vāsudeva (vāsudeva iti khyāto viṣṇuḥ puruṣa-vigrahaḥ).
+**20:** “‘For there shall be born in this world the enhancer of the Yadus’ renown (_utpatsyate hi loke ’smin yadūnāṃ kīrti-vardhanaḥ_), Viṣṇu in human form, famed as Vāsudeva (_vāsudeva iti khyāto viṣṇuḥ puruṣa-vigrahaḥ_).
 
-**21:** “‘He shall become your liberator from that curse, O king (sa te mokṣayitā rājaṃs tasmāc chāpād bhaviṣyasi); and through that long lapse of time, your expiation shall be accomplished (kṛtā ca tena kālena niṣkṛtis te bhaviṣyati).’”
+**21:** “‘He shall become your liberator from that curse, O king (_sa te mokṣayitā rājaṃs tasmāc chāpād bhaviṣyasi_); and through that long lapse of time, your expiation shall be accomplished (_kṛtā ca tena kālena niṣkṛtis te bhaviṣyati_).’”
 
-**22:** “‘For to lighten the earth’s burden (bhārāvataraṇārthaṃ hi), both Nara and Nārāyaṇa of mighty prowess (nara-nārāyaṇāv ubhau ... mahāvīryau) shall take birth when the Kali age draws nigh (kalau yuga upasthite).’
+**22:** “‘For to lighten the earth’s burden (_bhārāvataraṇārthaṃ hi_), both Nara and Nārāyaṇa of mighty prowess (_nara-nārāyaṇāv ubhau ... mahāvīryau_) shall take birth when the Kali age draws nigh (_kalau yuga upasthite_).’
 </details>
 </details>
 
@@ -708,7 +708,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus discharged their curse, those two brahmins, freed from the fever of wrath (vigata-jvarau), bestowed that feeble, aged cow upon another brahmin (tāṃ gāṃ hi durbalāṃ vṛddhāṃ dadatur brāhmaṇāya vai); and thus that king undergoes that exceedingly dreadful curse (taṃ śāpam upabhuṅkte sudāruṇam).
+“Having thus discharged their curse, those two brahmins, freed from the fever of wrath (_vigata-jvarau_), bestowed that feeble, aged cow upon another brahmin (_tāṃ gāṃ hi durbalāṃ vṛddhāṃ dadatur brāhmaṇāya vai_); and thus that king undergoes that exceedingly dreadful curse (_taṃ śāpam upabhuṅkte sudāruṇam_).
 </details>
 </details>
 
@@ -742,7 +742,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, the contention of petitioners (kāryārthināṃ vimardo hi) turns to the transgression of kings (rājñāṃ doṣāya kalpate); therefore let those who have business swiftly approach my presence (tac chīghraṃ darśanaṃ mahyam abhivartantu kāryiṇaḥ)!
+“Indeed, the contention of petitioners (_kāryārthināṃ vimardo hi_) turns to the transgression of kings (_rājñāṃ doṣāya kalpate_); therefore let those who have business swiftly approach my presence (_tac chīghraṃ darśanaṃ mahyam abhivartantu kāryiṇaḥ_)!
 </details>
 </details>
 
@@ -785,7 +785,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For does a king ever lose the fruit of a duty well-performed? (sukṛtasya hi kāryasya phalaṃ nāpaiti pārthivaḥ); therefore go, O Saumitri, and look out for any petitioner who awaits (gaccha pratīkṣasva saumitre kāryavāñ janaḥ).”
+“For does a king ever lose the fruit of a duty well-performed? (_sukṛtasya hi kāryasya phalaṃ nāpaiti pārthivaḥ_); therefore go, O Saumitri, and look out for any petitioner who awaits (_gaccha pratīkṣasva saumitre kāryavāñ janaḥ_).”
 </details>
 </details>
 

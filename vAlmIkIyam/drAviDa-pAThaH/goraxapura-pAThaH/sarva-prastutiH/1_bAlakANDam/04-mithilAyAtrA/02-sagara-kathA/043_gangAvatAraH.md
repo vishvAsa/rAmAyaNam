@@ -89,7 +89,7 @@ Bhageeratha stood on one big-toe with an unwavering intent and bodily
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that God of gods (Brahmā) had departed (devadeve gate tasmin), O Rāma, Bhagīratha pressed the earth with the tip of his big toe (so ’ṅguṣṭhāgranipīḍitāṃ kṛtvā vasumatīm) and worshipped Lord Śiva for a full year (vatsaraṃ samupāsata).
+“When that God of gods (Brahmā) had departed (_devadeve gate tasmin_), O Rāma, Bhagīratha pressed the earth with the tip of his big toe (_so ’ṅguṣṭhāgranipīḍitāṃ kṛtvā vasumatīm_) and worshipped Lord Śiva for a full year (_vatsaraṃ samupāsata_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ On completion of one year, he who is venerated by all worlds, the consort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when a full year had been completed (atha saṃvatsare pūrṇe), the Lord of Umā, the Lord of all beings, who is bowed to by all the worlds (sarvalokanamaskṛtaḥ umāpatiḥ paśupatī), spoke thus to the king (rājānam idam abravīt):
+“Then, when a full year had been completed (_atha saṃvatsare pūrṇe_), the Lord of Umā, the Lord of all beings, who is bowed to by all the worlds (_sarvalokanamaskṛtaḥ umāpatiḥ paśupatī_), spoke thus to the king (_rājānam idam abravīt_):
 </details>
 </details>
 
@@ -187,7 +187,7 @@ Oh, best one among humans, I am delighted with your unwavering effort,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I am pleased with you, O best of men, and I shall accomplish what is dear to you (prītas te ’haṃ naraśreṣṭha kariṣyāmi tava priyam): upon my head I shall sustain the daughter of the king of mountains (śirasā dhārayiṣyāmi śailarājasutām aham)!’
+“‘I am pleased with you, O best of men, and I shall accomplish what is dear to you (_prītas te ’haṃ naraśreṣṭha kariṣyāmi tava priyam_): upon my head I shall sustain the daughter of the king of mountains (_śirasā dhārayiṣyāmi śailarājasutām aham_)!’
 </details>
 </details>
 
@@ -241,7 +241,7 @@ Afterwards, she who is reverenced by all the worlds and who is the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Haimavatī, the eldest daughter of Himavān, who is revered by all the worlds (tato haimavatī jyeṣṭhā sarvalokanamaskṛtā), assumed an exceedingly vast form and an irresistible velocity (tadā sātimahad rūpaṃ kṛtvā vegaṃ ca duḥsaham)—
+“Thereupon Haimavatī, the eldest daughter of Himavān, who is revered by all the worlds (_tato haimavatī jyeṣṭhā sarvalokanamaskṛtā_), assumed an exceedingly vast form and an irresistible velocity (_tadā sātimahad rūpaṃ kṛtvā vegaṃ ca duḥsaham_)—
 </details>
 </details>
 
@@ -295,7 +295,7 @@ She who is an extremely unendurable river that goddess Ganga even speculated
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and plunged from the sky, O Rāma, upon the auspicious head of Śiva (ākāśād apatad rāma śive śivaśirasy uta). For that goddess Gaṅgā, supremely difficult to sustain, thought to herself (acintayac ca sā devī gaṅgā paramadurdharā):
+“—and plunged from the sky, O Rāma, upon the auspicious head of Śiva (_ākāśād apatad rāma śive śivaśirasy uta_). For that goddess Gaṅgā, supremely difficult to sustain, thought to herself (_acintayac ca sā devī gaṅgā paramadurdharā_):
 </details>
 </details>
 
@@ -346,7 +346,7 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Sweeping Śaṅkara himself away with my torrent, I shall enter Pātāla (viśāmy ahaṃ hi pātālaṃ srotasā gṛhya śaṅkaram)!’ Perceiving her arrogant pride, however, the Blessed Lord Hara grew wrathful (tasyāvalepanaṃ jñātvā kruddhas tu bhagavān haraḥ).
+“‘Sweeping Śaṅkara himself away with my torrent, I shall enter Pātāla (_viśāmy ahaṃ hi pātālaṃ srotasā gṛhya śaṅkaram_)!’ Perceiving her arrogant pride, however, the Blessed Lord Hara grew wrathful (_tasyāvalepanaṃ jñātvā kruddhas tu bhagavān haraḥ_).
 </details>
 </details>
 
@@ -425,9 +425,9 @@ Though she strove hard in one way or another to reach the earth that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “Then the three-eyed Lord resolved in his mind to make her vanish from sight (tirobhāvayituṃ buddhiṃ cakre trinayanas tadā). When that sacred goddess fell upon the sacred head of Rudra (sā tasmin patitā puṇyā puṇye rudrasya mūrdhani)—
+**7:** “Then the three-eyed Lord resolved in his mind to make her vanish from sight (_tirobhāvayituṃ buddhiṃ cakre trinayanas tadā_). When that sacred goddess fell upon the sacred head of Rudra (_sā tasmin patitā puṇyā puṇye rudrasya mūrdhani_)—
 
-**8:** “—within the cavern of his circle of matted locks, which resembled Mount Himavān, O Rāma (himavatpratime rāma jaṭāmaṇḍalagahvare), despite exerting every effort, she could by no means reach the earth (sā kathaṃcin mahīṃ gantuṃ nāśaknod yatnam āsthitā).
+**8:** “—within the cavern of his circle of matted locks, which resembled Mount Himavān, O Rāma (_himavatpratime rāma jaṭāmaṇḍalagahvare_), despite exerting every effort, she could by no means reach the earth (_sā kathaṃcin mahīṃ gantuṃ nāśaknod yatnam āsthitā_).
 </details>
 </details>
 
@@ -483,7 +483,7 @@ Goddess Ganga whirled round and round in the coils of tufts alone for
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unable to find any outlet even from the outer edge of that circle of matted locks (naiva sā nirgamaṃ lebhe jaṭāmaṇḍalam antataḥ), the goddess wandered round and round right there for many cycles of years (tatraivābabhramad devī saṃvatsaragaṇān bahūn).
+“Unable to find any outlet even from the outer edge of that circle of matted locks (_naiva sā nirgamaṃ lebhe jaṭāmaṇḍalam antataḥ_), the goddess wandered round and round right there for many cycles of years (_tatraivābabhramad devī saṃvatsaragaṇān bahūn_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding her trapped there, Bhagīratha again entered upon supreme austerity (tām apaśyat punas tatra tapaḥ paramam āsthitaḥ); and by that penance, O delight of the Raghus, Lord Hara was supremely pleased (sa tena toṣitaś cāsīd atyantaṃ raghunandana).
+“Beholding her trapped there, Bhagīratha again entered upon supreme austerity (_tām apaśyat punas tatra tapaḥ paramam āsthitaḥ_); and by that penance, O delight of the Raghus, Lord Hara was supremely pleased (_sa tena toṣitaś cāsīd atyantaṃ raghunandana_).
 </details>
 </details>
 
@@ -568,7 +568,7 @@ Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Hara released Gaṅgā toward the lake Bindusaras (visasarja tato gaṅgāṃ haro bindusaraḥ prati); and as she was being released, seven streams sprang forth (tasyāṃ visṛjyamānāyāṃ sapta srotāṃsi jajñire).
+“Thereupon Hara released Gaṅgā toward the lake Bindusaras (_visasarja tato gaṅgāṃ haro bindusaraḥ prati_); and as she was being released, seven streams sprang forth (_tasyāṃ visṛjyamānāyāṃ sapta srotāṃsi jajñire_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hlādinī, Pāvanī, and Nalinī as well (hlādinī pāvanī caiva nalinī ca tathaiva ca)—these three auspicious Gaṅgās of pure, salutary waters flowed toward the eastern quarter (tisraḥ prācīṃ diśaṃ jagmur gaṅgāḥ śivajalāḥ śubhāḥ).
+“Hlādinī, Pāvanī, and Nalinī as well (_hlādinī pāvanī caiva nalinī ca tathaiva ca_)—these three auspicious Gaṅgās of pure, salutary waters flowed toward the eastern quarter (_tisraḥ prācīṃ diśaṃ jagmur gaṅgāḥ śivajalāḥ śubhāḥ_).
 </details>
 </details>
 
@@ -681,7 +681,7 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sucakṣuḥ, Sītā, and the great river Sindhu (sucakṣuś caiva sītā ca sindhuś caiva mahānadī)—these three auspicious rivers flowed toward the western quarter (tisraś caitā diśaṃ jagmuḥ pratīcīṃ tu diśaṃ śubhāḥ).
+“Sucakṣuḥ, Sītā, and the great river Sindhu (_sucakṣuś caiva sītā ca sindhuś caiva mahānadī_)—these three auspicious rivers flowed toward the western quarter (_tisraś caitā diśaṃ jagmuḥ pratīcīṃ tu diśaṃ śubhāḥ_).
 </details>
 </details>
 
@@ -772,9 +772,9 @@ The River Ganga is also called as *tripathagaa* 'she courses
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “And the seventh among them followed the chariot of Bhagīratha then (saptamī cānvagāt tāsāṃ bhagīratharathaṃ tadā); and the royal sage Bhagīratha too, mounted upon a celestial chariot (bhagīratho ’pi rājarṣir divyaṃ syandanam āsthitaḥ)—
+**14:** “And the seventh among them followed the chariot of Bhagīratha then (_saptamī cānvagāt tāsāṃ bhagīratharathaṃ tadā_); and the royal sage Bhagīratha too, mounted upon a celestial chariot (_bhagīratho ’pi rājarṣir divyaṃ syandanam āsthitaḥ_)—
 
-**15:** “—drove ahead, resplendent with great energy, while Gaṅgā followed after him (prāyād agre mahātejā gaṅgā taṃ cāpy anuvrajat). Having descended from the sky onto Śaṅkara’s head, and from there onto the earth (gaganāc chaṅkaraśiras tato dharaṇim āgatā)—
+**15:** “—drove ahead, resplendent with great energy, while Gaṅgā followed after him (_prāyād agre mahātejā gaṅgā taṃ cāpy anuvrajat_). Having descended from the sky onto Śaṅkara’s head, and from there onto the earth (_gaganāc chaṅkaraśiras tato dharaṇim āgatā_)—
 </details>
 </details>
 
@@ -826,7 +826,7 @@ The earth then verily shone forth with the shoals of fish, schools
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—her water surged forward there preceded by a thunderous roar (asarpata jalaṃ tatra tīvraśabdapuraskṛtam); and with shoals of fish and tortoises and hosts of gangetic dolphins as well (matsyakacchapasaṅghaiś ca śiṃśumāragaṇais tathā)—
+“—her water surged forward there preceded by a thunderous roar (_asarpata jalaṃ tatra tīvraśabdapuraskṛtam_); and with shoals of fish and tortoises and hosts of gangetic dolphins as well (_matsyakacchapasaṅghaiś ca śiṃśumāragaṇais tathā_)—
 </details>
 </details>
 
@@ -905,9 +905,9 @@ Some of the gods with aircrafts that are like cities in their shape
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “—both falling and already fallen, the earth shone resplendently (patadbhiḥ patitaiś caiva vyarocata vasuṃdharā). Then gods, sages, and Gandharvas, as well as hosts of Yakṣas and Siddhas (tato devarṣigandharvā yakṣasiddhagaṇās tathā)—
+**17:** “—both falling and already fallen, the earth shone resplendently (_patadbhiḥ patitaiś caiva vyarocata vasuṃdharā_). Then gods, sages, and Gandharvas, as well as hosts of Yakṣas and Siddhas (_tato devarṣigandharvā yakṣasiddhagaṇās tathā_)—
 
-**18:** “—beheld her there as she descended then from the sky onto the earth (vyalokayanta te tatra gaganād gāṃ gatāṃ tadā), mounted upon aerial cars shaped like cities and upon horses and lordly elephants (vimānair nagarākārair hayair gajavarais tadā).
+**18:** “—beheld her there as she descended then from the sky onto the earth (_vyalokayanta te tatra gaganād gāṃ gatāṃ tadā_), mounted upon aerial cars shaped like cities and upon horses and lordly elephants (_vimānair nagarākārair hayair gajavarais tadā_).
 </details>
 </details>
 
@@ -976,7 +976,7 @@ The gods whose animation is unlimited, and who are anxious to see the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And deities riding in swaying palanquins or seized with eager wonder stood stationed there (pāriplavagatāś cāpi devatās tatra viṣṭhitāḥ); to behold that supreme descent of Gaṅgā, most wondrous in the world (tad adbhutam imaṃ loke gaṅgāvataram uttamam)—
+“And deities riding in swaying palanquins or seized with eager wonder stood stationed there (_pāriplavagatāś cāpi devatās tatra viṣṭhitāḥ_); to behold that supreme descent of Gaṅgā, most wondrous in the world (_tad adbhutam imaṃ loke gaṅgāvataram uttamam_)—
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ The gods whose animation is unlimited, and who are anxious to see the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the hosts of gods of immeasurable splendor assembled together, eager to watch (didṛkṣavo devagaṇāḥ samīyur amitaujasaḥ). With the thronging hosts of gods and the blazing radiance of their ornaments (sampatadbhiḥ suragaṇais teṣāṃ cābharaṇaujasā)—
+“—the hosts of gods of immeasurable splendor assembled together, eager to watch (_didṛkṣavo devagaṇāḥ samīyur amitaujasaḥ_). With the thronging hosts of gods and the blazing radiance of their ornaments (_sampatadbhiḥ suragaṇais teṣāṃ cābharaṇaujasā_)—
 </details>
 </details>
 
@@ -1074,7 +1074,7 @@ At that time, with the falling and rising of scores of porpoises and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the cloudless firmament shone as though lit by a hundred suns (śatādityam ivābhāti gaganaṃ gatatoyadam); and with hosts of gangetic dolphins and serpents and darting fishes flung aloft (śiṃśumāroragagaṇair mīnair api ca cañcalaiḥ)—
+“—the cloudless firmament shone as though lit by a hundred suns (_śatādityam ivābhāti gaganaṃ gatatoyadam_); and with hosts of gangetic dolphins and serpents and darting fishes flung aloft (_śiṃśumāroragagaṇair mīnair api ca cañcalaiḥ_)—
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ Spattered innumerably with the whitish froth from the splashes of Ganga,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the sky then appeared as though strewn with flashes of lightning (vidyudbhir iva vikṣiptair ākāśam abhavat tadā). And with white crests of foaming water scattered a thousandfold (pāṇḍuraiḥ salilotpīḍaiḥ kīryamāṇaiḥ sahasradhā)—
+“—the sky then appeared as though strewn with flashes of lightning (_vidyudbhir iva vikṣiptair ākāśam abhavat tadā_). And with white crests of foaming water scattered a thousandfold (_pāṇḍuraiḥ salilotpīḍaiḥ kīryamāṇaiḥ sahasradhā_)—
 </details>
 </details>
 
@@ -1212,9 +1212,9 @@ Somewhere her water repeatedly knocking against her own water is recurrently
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “—the sky looked as though overspread with autumn clouds and flights of swans (śāradābhrair ivākīrṇaṃ gaganaṃ haṃsasamplavaiḥ). In some places the water rushed swiftly, in some it wound crookedly, and in some it spread wide (kvacid drutataraṃ yāti kuṭilaṃ kvacid āyatam);
+**23:** “—the sky looked as though overspread with autumn clouds and flights of swans (_śāradābhrair ivākīrṇaṃ gaganaṃ haṃsasamplavaiḥ_). In some places the water rushed swiftly, in some it wound crookedly, and in some it spread wide (_kvacid drutataraṃ yāti kuṭilaṃ kvacid āyatam_);
 
-**24:** “—in some places it dipped into deep chasms, in some it leaped upward, and in some it glided gently, ever so gently (vinataṃ kvacid uddhūtaṃ kvacid yāti śanaiḥ śanaiḥ); and in some places water was dashed against water once more (salilenaiva salilaṃ kvacid abhyāhataṃ punaḥ).
+**24:** “—in some places it dipped into deep chasms, in some it leaped upward, and in some it glided gently, ever so gently (_vinataṃ kvacid uddhūtaṃ kvacid yāti śanaiḥ śanaiḥ_); and in some places water was dashed against water once more (_salilenaiva salilaṃ kvacid abhyāhataṃ punaḥ_).
 </details>
 </details>
 
@@ -1277,7 +1277,7 @@ That impeccable and immaculate water of Ganga then became outstanding
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rising repeatedly into the upper sky, it fell once more upon the earth (muhur ūrdhvapathaṃ gatvā papāta vasudhāṃ punaḥ); having first fallen upon Śaṅkara’s head and then fallen upon the surface of the earth (tac chaṅkaraśirobhraṣṭaṃ bhraṣṭaṃ bhūmitale punaḥ)—
+“Rising repeatedly into the upper sky, it fell once more upon the earth (_muhur ūrdhvapathaṃ gatvā papāta vasudhāṃ punaḥ_); having first fallen upon Śaṅkara’s head and then fallen upon the surface of the earth (_tac chaṅkaraśirobhraṣṭaṃ bhraṣṭaṃ bhūmitale punaḥ_)—
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ And asserting that the water as holy, because it descended touching
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—that water shone forth then, crystal-clear and free from all stain of sin (vyarocata tadā toyaṃ nirmalaṃ gatakalmaṣam). Thereupon hosts of sages, Gandharvas, and dwellers upon the surface of the earth (tatrarṣigaṇagandharvā vasudhātalavāsinaḥ)—
+“—that water shone forth then, crystal-clear and free from all stain of sin (_vyarocata tadā toyaṃ nirmalaṃ gatakalmaṣam_). Thereupon hosts of sages, Gandharvas, and dwellers upon the surface of the earth (_tatrarṣigaṇagandharvā vasudhātalavāsinaḥ_)—
 </details>
 </details>
 
@@ -1402,9 +1402,9 @@ When sins are washed away with the hallowing water of Ganga, they again
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “—reverently touched that water which had fallen from the body of Bhava (Śiva), thinking: ‘It is supremely sanctifying!’ (bhavāṅgapatitaṃ toyaṃ pavitram iti paspṛśuḥ). And those who had fallen from the sky to the surface of the earth on account of a curse (śāpāt prapatitā ye ca gaganād vasudhātalam)—
+**27:** “—reverently touched that water which had fallen from the body of Bhava (Śiva), thinking: ‘It is supremely sanctifying!’ (_bhavāṅgapatitaṃ toyaṃ pavitram iti paspṛśuḥ_). And those who had fallen from the sky to the surface of the earth on account of a curse (_śāpāt prapatitā ye ca gaganād vasudhātalam_)—
 
-**28:** “—having performed their ablution there, became freed from all taint of sin (kṛtvā tatrābhiṣekaṃ te babhūvur gatakalmaṣāḥ); with their sins shaken off by that water and endowed with auspiciousness (dhūtapāpāḥ punas tena toyenātha śubhānvitāḥ)—
+**28:** “—having performed their ablution there, became freed from all taint of sin (_kṛtvā tatrābhiṣekaṃ te babhūvur gatakalmaṣāḥ_); with their sins shaken off by that water and endowed with auspiciousness (_dhūtapāpāḥ punas tena toyenātha śubhānvitāḥ_)—
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ With her splendorous water people are blissful, and on taking dip-baths
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—they re-entered the sky and regained their own heavenly worlds (punar ākāśam āviśya svāṃl lokān pratipedire). The joyful world rejoiced exceedingly in that radiant water (mumude mudito lokas tena toyena bhāsvatā)—
+“—they re-entered the sky and regained their own heavenly worlds (_punar ākāśam āviśya svāṃl lokān pratipedire_). The joyful world rejoiced exceedingly in that radiant water (_mumude mudito lokas tena toyena bhāsvatā_)—
 </details>
 </details>
 
@@ -1520,7 +1520,7 @@ This verse is almost similar to the verse No. 14 above. But here, the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and having bathed in Gaṅgā, became free from all stain of sin (kṛtābhiṣeko gaṅgāyāṃ babhūva gatakalmaṣaḥ). And the royal sage Bhagīratha, mounted upon his celestial chariot (bhagīratho hi rājarṣir divyaṃ syandanam āsthitaḥ)—
+“—and having bathed in Gaṅgā, became free from all stain of sin (_kṛtābhiṣeko gaṅgāyāṃ babhūva gatakalmaṣaḥ_). And the royal sage Bhagīratha, mounted upon his celestial chariot (_bhagīratho hi rājarṣir divyaṃ syandanam āsthitaḥ_)—
 </details>
 </details>
 
@@ -1594,9 +1594,9 @@ Oh, Rama, all of the gods along with the assemblages of sages, ogres,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “—drove ahead, the great king, while Gaṅgā followed behind him (prāyād agre mahārājas taṃ gaṅgā pṛṣṭhato ’nvagāt). All the gods together with the hosts of sages, and the Daityas, Dānavas, and Rākṣasas (devāḥ sarṣigaṇāḥ sarve daityadānavarākṣasāḥ)—
+**31:** “—drove ahead, the great king, while Gaṅgā followed behind him (_prāyād agre mahārājas taṃ gaṅgā pṛṣṭhato ’nvagāt_). All the gods together with the hosts of sages, and the Daityas, Dānavas, and Rākṣasas (_devāḥ sarṣigaṇāḥ sarve daityadānavarākṣasāḥ_)—
 
-**32:** “—the foremost of Gandharvas and Yakṣas together with Kinnaras and great serpents (gandharvayakṣapravarāḥ sakinnaramahoragāḥ), and all the Apsarases, O Rāma, following behind the chariot of Bhagīratha (sarvāś cāpsaraso rāma bhagīratharathānugāḥ)—
+**32:** “—the foremost of Gandharvas and Yakṣas together with Kinnaras and great serpents (_gandharvayakṣapravarāḥ sakinnaramahoragāḥ_), and all the Apsarases, O Rāma, following behind the chariot of Bhagīratha (_sarvāś cāpsaraso rāma bhagīratharathānugāḥ_)—
 </details>
 </details>
 
@@ -1646,7 +1646,7 @@ In whichever direction king Bhageeratha has advanced, that glorious
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—joyfully followed after Gaṅgā, along with all aquatic creatures (gaṅgām anvagaman prītāḥ sarve jalacarāś ca ye). Whithersoever King Bhagīratha went, thither went the glorious Gaṅgā (yato bhagīratho rājā tato gaṅgā yaśasvinī)—
+“—joyfully followed after Gaṅgā, along with all aquatic creatures (_gaṅgām anvagaman prītāḥ sarve jalacarāś ca ye_). Whithersoever King Bhagīratha went, thither went the glorious Gaṅgā (_yato bhagīratho rājā tato gaṅgā yaśasvinī_)—
 </details>
 </details>
 
@@ -1701,7 +1701,7 @@ While in flow she started to completely inundate the field of Vedic-ritual
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the foremost of rivers, the destroyer of all sins (jagāma saritāṃ śreṣṭhā sarvapāpapraṇāśinī). Then, as the high-souled Jahnu of wondrous deeds was performing a sacrifice (tato hi yajamānasya jahnor adbhutakarmaṇaḥ)—
+“—the foremost of rivers, the destroyer of all sins (_jagāma saritāṃ śreṣṭhā sarvapāpapraṇāśinī_). Then, as the high-souled Jahnu of wondrous deeds was performing a sacrifice (_tato hi yajamānasya jahnor adbhutakarmaṇaḥ_)—
 </details>
 </details>
 
@@ -1749,7 +1749,7 @@ But on knowing her hubris, oh, Raghava, that sage Jahnu has become
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—Gaṅgā flooded the sacrificial enclosure of that high-souled sage (gaṅgā samplāvayām āsa yajñavāṭaṃ mahātmanaḥ). Perceiving her arrogant pride, O Rāghava, Jahnu grew wrathful (tasyāvalepanaṃ jñātvā kruddho jahnuś ca rāghava)—
+“—Gaṅgā flooded the sacrificial enclosure of that high-souled sage (_gaṅgā samplāvayām āsa yajñavāṭaṃ mahātmanaḥ_). Perceiving her arrogant pride, O Rāghava, Jahnu grew wrathful (_tasyāvalepanaṃ jñātvā kruddho jahnuś ca rāghava_)—
 </details>
 </details>
 
@@ -1783,7 +1783,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and drank up all the water of Gaṅgā—a most wondrous feat (apibat tu jalaṃ sarvaṃ gaṅgāyāḥ paramādbhutam)! Thereupon the gods together with the Gandharvas, and the sages as well, were struck with utter astonishment (tato devāḥ sagandharvā ṛṣayaś ca suvismitāḥ).
+“—and drank up all the water of Gaṅgā—a most wondrous feat (_apibat tu jalaṃ sarvaṃ gaṅgāyāḥ paramādbhutam_)! Thereupon the gods together with the Gandharvas, and the sages as well, were struck with utter astonishment (_tato devāḥ sagandharvā ṛṣayaś ca suvismitāḥ_).
 </details>
 </details>
 
@@ -1864,9 +1864,9 @@ That greatly radiant and godly sage Jahnu is then delighted and released
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**37:** “They worshipped the high-souled Jahnu, that best of men (pūjayanti mahātmānaṃ jahnuṃ puruṣasattamam), and led Gaṅgā into the state of being the daughter of that high-souled sage (gaṅgāṃ cāpi nayanti sma duhitṛtve mahātmanaḥ).
+**37:** “They worshipped the high-souled Jahnu, that best of men (_pūjayanti mahātmānaṃ jahnuṃ puruṣasattamam_), and led Gaṅgā into the state of being the daughter of that high-souled sage (_gaṅgāṃ cāpi nayanti sma duhitṛtve mahātmanaḥ_).
 
-**38:** “Pleased thereby, the mighty lord of great splendor released her through his two ears (tatas tuṣṭo mahātejāḥ śrotrābhyām asṛjat prabhuḥ); therefore Gaṅgā, as the daughter of Jahnu, is celebrated by the name of Jāhnavī (tasmāj jahnusutā gaṅgā procyate jāhnavīti ca).
+**38:** “Pleased thereby, the mighty lord of great splendor released her through his two ears (_tatas tuṣṭo mahātejāḥ śrotrābhyām asṛjat prabhuḥ_); therefore Gaṅgā, as the daughter of Jahnu, is celebrated by the name of Jāhnavī (_tasmāj jahnusutā gaṅgā procyate jāhnavīti ca_).
 </details>
 </details>
 
@@ -1926,7 +1926,7 @@ Some take the word *saagaram* as the netherworld dug by the sons
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Gaṅgā flowed onward once more, following behind the chariot of Bhagīratha (jagāma ca punar gaṅgā bhagīratharathānugā); and having reached the ocean as well, that foremost of rivers then (sāgaraṃ cāpi samprāptā sā saritpravarā tadā)—
+“Then Gaṅgā flowed onward once more, following behind the chariot of Bhagīratha (_jagāma ca punar gaṅgā bhagīratharathānugā_); and having reached the ocean as well, that foremost of rivers then (_sāgaraṃ cāpi samprāptā sā saritpravarā tadā_)—
 </details>
 </details>
 
@@ -1980,7 +1980,7 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—entered the subterranean realm of Rasātala for the accomplishment of that sacred task of his (rasātalam upāgacchat siddhyarthaṃ tasya karmaṇaḥ). And the royal sage Bhagīratha, having conducted Gaṅgā there with strenuous effort (bhagīratho ’pi rājarṣir gaṅgām ādāya yatnataḥ)—
+“—entered the subterranean realm of Rasātala for the accomplishment of that sacred task of his (_rasātalam upāgacchat siddhyarthaṃ tasya karmaṇaḥ_). And the royal sage Bhagīratha, having conducted Gaṅgā there with strenuous effort (_bhagīratho ’pi rājarṣir gaṅgām ādāya yatnataḥ_)—
 </details>
 </details>
 
@@ -2046,7 +2046,7 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—beheld his grand-uncles reduced to ashes, his mind overcome with sorrow (pitāmahān bhasmakṛtān apaśyad gatacetanaḥ). Then the supreme water of Gaṅgā drenched that heap of ashes (atha tadbhasmanāṃ rāśiṃ gaṅgāsalilam uttamam plāvayat); and cleansed of all sin, O best of the Raghus, the sixty thousand sons of Sagara attained heaven (pūtapāpmānaḥ svargaṃ prāptā raghūttama)!”
+“—beheld his grand-uncles reduced to ashes, his mind overcome with sorrow (_pitāmahān bhasmakṛtān apaśyad gatacetanaḥ_). Then the supreme water of Gaṅgā drenched that heap of ashes (_atha tadbhasmanāṃ rāśiṃ gaṅgāsalilam uttamam plāvayat_); and cleansed of all sin, O best of the Raghus, the sixty thousand sons of Sagara attained heaven (_pūtapāpmānaḥ svargaṃ prāptā raghūttama_)!”
 </details>
 </details>
 

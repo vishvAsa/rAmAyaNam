@@ -79,7 +79,7 @@ and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night had dawned (prabhātāyāṃ tu śarvaryām), the great sage Viśvāmitra addressed Kākutstha, who was reposing upon a couch of leaves (śayānaṃ parṇasaṃstare):
+When the night had dawned (_prabhātāyāṃ tu śarvaryām_), the great sage Viśvāmitra addressed Kākutstha, who was reposing upon a couch of leaves (_śayānaṃ parṇasaṃstare_):
 </details>
 </details>
 
@@ -157,7 +157,7 @@ son [in you.]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessed with a noble son is Kausalyā (kausalyā suprajā), O Rāma! The eastern morning twilight is breaking (pūrvā saṃdhyā pravartate); arise, O tiger among men (uttiṣṭha naraśārdūla)! The sacred morning rites pertaining to the gods must now be performed (kartavyaṃ daivam āhnikam).”
+“Blessed with a noble son is Kausalyā (_kausalyā suprajā_), O Rāma! The eastern morning twilight is breaking (_pūrvā saṃdhyā pravartate_); arise, O tiger among men (_uttiṣṭha naraśārdūla_)! The sacred morning rites pertaining to the gods must now be performed (_kartavyaṃ daivam āhnikam_).”
 </details>
 </details>
 
@@ -213,7 +213,7 @@ to be meditated placing her in ones own heart or amid the solar system.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those supremely noble and resonant words of the sage (tasyarṣeḥ paramodāraṃ vacaḥ śrutvā), those two heroic best of men (narottamau), having bathed and offered water libations (snātvā kṛtodakau), silently recited the supreme Gāyatrī prayer (jepatuḥ paramaṃ japam).
+Hearing those supremely noble and resonant words of the sage (_tasyarṣeḥ paramodāraṃ vacaḥ śrutvā_), those two heroic best of men (_narottamau_), having bathed and offered water libations (_snātvā kṛtodakau_), silently recited the supreme _Gāyatrī_ prayer (_jepatuḥ paramaṃ japam_).
 </details>
 </details>
 
@@ -281,7 +281,7 @@ venerating him. [1-23-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having completed their morning devotions (kṛtāhnikau), those two princes of mighty valor, filled with exceeding joy (atisaṃhṛṣṭau), reverently saluted Viśvāmitra rich in asceticism (viśvāmitraṃ tapodhanam abhivādya) and stood ready before him for the onward journey (gamanāyābhitasthatuḥ).
+Having completed their morning devotions (_kṛtāhnikau_), those two princes of mighty valor, filled with exceeding joy (_atisaṃhṛṣṭau_), reverently saluted Viśvāmitra rich in asceticism (_viśvāmitraṃ tapodhanam abhivādya_) and stood ready before him for the onward journey (_gamanāyābhitasthatuḥ_).
 </details>
 </details>
 
@@ -335,7 +335,7 @@ this book, Bala Kanda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Setting forth from that spot (tau prayāntau), those two heroes of great valor then beheld there the divine river flowing through the three worlds—the Gaṅgā (divyāṃ tripathagāṃ nadīm)—at her auspicious confluence with the Sarayū (sarayvāḥ saṃgame śubhe).
+Setting forth from that spot (_tau prayāntau_), those two heroes of great valor then beheld there the divine river flowing through the three worlds—the Gaṅgā (_divyāṃ tripathagāṃ nadīm_)—at her auspicious confluence with the Sarayū (_sarayvāḥ saṃgame śubhe_).
 </details>
 </details>
 
@@ -387,7 +387,7 @@ practising supreme ascesis for many thousand years. [1-23-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There they also beheld a sacred hermitage (tatrāśramapadaṃ puṇyam) belonging to sages of purified souls (ṛṣīṇāṃ bhāvitātmanām), who had been practicing supreme austerity for many thousands of years (bahuvarṣasahasrāṇi tapyatāṃ paramaṃ tapaḥ).
+There they also beheld a sacred hermitage (_tatrāśramapadaṃ puṇyam_) belonging to sages of purified souls (_ṛṣīṇāṃ bhāvitātmanām_), who had been practicing supreme austerity for many thousands of years (_bahuvarṣasahasrāṇi tapyatāṃ paramaṃ tapaḥ_).
 </details>
 </details>
 
@@ -441,7 +441,7 @@ to that great-soul Sage Vishvamitra. [1-23-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that sacred hermitage (taṃ dṛṣṭvā puṇyam āśramam), the two Rāghavas were filled with supreme delight (paramaprītau) and spoke these words to the high-souled Viśvāmitra:
+Beholding that sacred hermitage (_taṃ dṛṣṭvā puṇyam āśramam_), the two Rāghavas were filled with supreme delight (_paramaprītau_) and spoke these words to the high-souled Viśvāmitra:
 </details>
 </details>
 
@@ -496,7 +496,7 @@ asked. [1-23-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whose is this sacred hermitage (kasyāyam āśramaḥ puṇyaḥ), and what personage dwells herein (ko nv asmin vasate pumān)? O venerable Lord, we two wish to hear (bhagavañ śrotum icchāvaḥ), for great indeed is our curiosity (paraṃ kautūhalaṃ hi nau).”
+“Whose is this sacred hermitage (_kasyāyam āśramaḥ puṇyaḥ_), and what personage dwells herein (_ko nv asmin vasate pumān_)? O venerable Lord, we two wish to hear (_bhagavañ śrotum icchāvaḥ_), for great indeed is our curiosity (_paraṃ kautūhalaṃ hi nau_).”
 </details>
 </details>
 
@@ -548,7 +548,7 @@ in earlier times that may be listened." Thus Vishvamitra started to narrate. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the two brothers (tayos tad vacanaṃ śrutvā), that bull among sages smiled (prahasya) and said: “Listen, O Rāma, to whose hermitage this formerly was (śrūyatāṃ rāma yasyāyaṃ pūrva āśramaḥ)!
+Hearing those words of the two brothers (_tayos tad vacanaṃ śrutvā_), that bull among sages smiled (_prahasya_) and said: “Listen, O Rāma, to whose hermitage this formerly was (_śrūyatāṃ rāma yasyāyaṃ pūrva āśramaḥ_)!
 </details>
 </details>
 
@@ -579,7 +579,7 @@ Hearing those words of the two brothers (tayos tad vacanaṃ śrutvā), that bul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kandarpa, who is called Kāma by the wise (kāma ity ucyate budhaiḥ), formerly possessed a corporeal form (mūrtimān āsīt). While Lord Sthāṇu (Śiva) was practicing austerity right here (tapasyantam iha sthāṇum), absorbed in meditation under a strict vow (niyamena samāhitam),
+“Kandarpa, who is called Kāma by the wise (_kāma ity ucyate budhaiḥ_), formerly possessed a corporeal form (_mūrtimān āsīt_). While Lord Sthāṇu (Śiva) was practicing austerity right here (_tapasyantam iha sthāṇum_), absorbed in meditation under a strict vow (_niyamena samāhitam_),
 </details>
 </details>
 
@@ -650,7 +650,7 @@ performed, assailed Shiva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as that Lord of the gods, having celebrated his marriage (kṛtodvāhaṃ tu deveśam), was proceeding surrounded by the troop of Maruts (gacchantaṃ samarudgaṇam), the foolish Kāma dared to assail him with passion (dharṣayām āsa durmedhāḥ), and was met with a fiery roar of hum by that high-souled deity (huṃkṛtaś ca mahātmanā).
+“And as that Lord of the gods, having celebrated his marriage (_kṛtodvāhaṃ tu deveśam_), was proceeding surrounded by the troop of Maruts (_gacchantaṃ samarudgaṇam_), the foolish Kāma dared to assail him with passion (_dharṣayām āsa durmedhāḥ_), and was met with a fiery roar of _hum_ by that high-souled deity (_huṃkṛtaś ca mahātmanā_).
 </details>
 </details>
 
@@ -718,7 +718,7 @@ editions have this as *dagdhasya tasya raudreNa chakShuShA*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as he was glared upon by Rudra with his fiery third eye (avadhyātaś ca rudreṇa cakṣuṣā), O delight of the Raghus, all the limbs of that foolish god (sarvagātrāṇi durmateḥ) withered and fell away from his own body (vyaśīryanta śarīrāt svāt).
+“And as he was glared upon by Rudra with his fiery third eye (_avadhyātaś ca rudreṇa cakṣuṣā_), O delight of the Raghus, all the limbs of that foolish god (_sarvagātrāṇi durmateḥ_) withered and fell away from his own body (_vyaśīryanta śarīrāt svāt_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ physical form of love, whereby only kaama, the mental desire, is remaining.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There the body of Kāma, utterly consumed by that high-souled deity (tasya gātraṃ hataṃ tatra nirdagdhasya mahātmanā), was destroyed; and through the wrath of the Lord of the gods (krodhād deveśvareṇa ha), Kāma was rendered bodiless (aśarīraḥ kṛtaḥ kāmaḥ).
+“There the body of Kāma, utterly consumed by that high-souled deity (_tasya gātraṃ hataṃ tatra nirdagdhasya mahātmanā_), was destroyed; and through the wrath of the Lord of the gods (_krodhād deveśvareṇa ha_), Kāma was rendered bodiless (_aśarīraḥ kṛtaḥ kāmaḥ_).
 </details>
 </details>
 
@@ -824,7 +824,7 @@ given up that is renowned as Anga province. [1-23-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From that day forth, O Rāghava, he became renowned as Anaṅga (‘the Bodiless One’, anaṅga iti vikhyātas tadā prabhṛti); and that prosperous country where he cast off his body (yatrāṅgaṃ sa mumoca ha) became renowned as the realm of Aṅga (sa cāṅgaviṣayaḥ śrīmān).
+“From that day forth, O Rāghava, he became renowned as _Anaṅga_ (‘the Bodiless One’, _anaṅga iti vikhyātas tadā prabhṛti_); and that prosperous country where he cast off his body (_yatrāṅgaṃ sa mumoca ha_) became renowned as the realm of _Aṅga_ (_sa cāṅgaviṣayaḥ śrīmān_).
 </details>
 </details>
 
@@ -887,7 +887,7 @@ na vidyate ityarthaH||* Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His is this sacred hermitage (tasyāyam āśramaḥ puṇyaḥ), and these sages dwelling here were from of old his disciples devoted to dharma (tasya ime munayaḥ purā śiṣyā dharmaparāḥ); in them no sin whatsoever is found (teṣāṃ pāpaṃ na vidyate), O hero!
+“His is this sacred hermitage (_tasyāyam āśramaḥ puṇyaḥ_), and these sages dwelling here were from of old his disciples devoted to _dharma_ (_tasya ime munayaḥ purā śiṣyā dharmaparāḥ_); in them no sin whatsoever is found (_teṣāṃ pāpaṃ na vidyate_), O hero!
 </details>
 </details>
 
@@ -933,7 +933,7 @@ and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let us pass the night here today (ihādya rajanīṃ rāma vasema), O Rāma of auspicious aspect (śubhadarśana), between the two sacred rivers (puṇyayoḥ saritor madhye); tomorrow we shall cross over (śvas tariṣyāmahe vayam).
+“Let us pass the night here today (_ihādya rajanīṃ rāma vasema_), O Rāma of auspicious aspect (_śubhadarśana_), between the two sacred rivers (_puṇyayoḥ saritor madhye_); tomorrow we shall cross over (_śvas tariṣyāmahe vayam_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Purified by bathing (śucayaḥ), let us all approach this sacred hermitage (abhigacchāmahe sarve puṇyam āśramam); dwelling here is most fitting for us (iha vāsaḥ paro ’smākam), and we shall spend the night in comfort (sukhaṃ vastyāmahe niśām)—
+“Purified by bathing (_śucayaḥ_), let us all approach this sacred hermitage (_abhigacchāmahe sarve puṇyam āśramam_); dwelling here is most fitting for us (_iha vāsaḥ paro ’smākam_), and we shall spend the night in comfort (_sukhaṃ vastyāmahe niśām_)—
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bathed, completed our silent prayers, and offered oblations into the sacred fire (snātāś ca kṛtajapyāś ca hutahavyā narottama).” Even as they were conversing thus there (teṣāṃ saṃvadatāṃ tatra), with their far-seeing eye of asceticism (tapodīrgheṇa cakṣuṣā)—
+“Having bathed, completed our silent prayers, and offered oblations into the sacred fire (_snātāś ca kṛtajapyāś ca hutahavyā narottama_).” Even as they were conversing thus there (_teṣāṃ saṃvadatāṃ tatra_), with their far-seeing eye of asceticism (_tapodīrgheṇa cakṣuṣā_)—
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving their arrival (vijñāya), the sages were supremely pleased (paramaprītā munayaḥ) and experienced great joy (harṣam āgaman). Having first offered water for honoring the hands (arghyam), water for washing the feet (pādyam), and hospitable refreshments (tathātithyam) unto the son of Kuśika (nivedya kuśikātmaje),
+Perceiving their arrival (_vijñāya_), the sages were supremely pleased (_paramaprītā munayaḥ_) and experienced great joy (_harṣam āgaman_). Having first offered water for honoring the hands (_arghyam_), water for washing the feet (_pādyam_), and hospitable refreshments (_tathātithyam_) unto the son of Kuśika (_nivedya kuśikātmaje_),
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ guests with myths and legends. [1-23-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They next performed the rites of hospitality for Rāma and Lakṣmaṇa (rāmalakṣmaṇayoḥ paścād akurvann atithikriyām). Having received that gracious hospitality (satkāraṃ samanuprāpya), they delighted one another with sacred discourses (kathābhir abhirañjayan).
+They next performed the rites of hospitality for Rāma and Lakṣmaṇa (_rāmalakṣmaṇayoḥ paścād akurvann atithikriyām_). Having received that gracious hospitality (_satkāraṃ samanuprāpya_), they delighted one another with sacred discourses (_kathābhir abhirañjayan_).
 </details>
 </details>
 
@@ -1191,7 +1191,7 @@ have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With collected minds (samāhitāḥ), those sages duly recited the evening sandhyā prayers (yathārham ajapan saṃdhyām ṛṣayas te); and escorted by the resident ascetics of noble vows (tatra vāsibhir ānītā munibhiḥ suvrataiḥ saha),
+With collected minds (_samāhitāḥ_), those sages duly recited the evening _sandhyā_ prayers (_yathārham ajapan saṃdhyām ṛṣayas te_); and escorted by the resident ascetics of noble vows (_tatra vāsibhir ānītā munibhiḥ suvrataiḥ saha_),
 </details>
 </details>
 
@@ -1254,7 +1254,7 @@ then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They dwelt together most happily there in the precinct of Kāmāśrama (nyavasan susukhaṃ tatra kāmāśramapade tathā); and with delightful narratives (kathābhir abhirāmābhiḥ), the righteous-souled Kauśika, that bull among sages (dharmātmā kauśiko munipuṅgavaḥ), regaled the two delightful princes (abhirāmau nṛpātmajau ramayām āsa).
+They dwelt together most happily there in the precinct of Kāmāśrama (_nyavasan susukhaṃ tatra kāmāśramapade tathā_); and with delightful narratives (_kathābhir abhirāmābhiḥ_), the righteous-souled Kauśika, that bull among sages (_dharmātmā kauśiko munipuṅgavaḥ_), regaled the two delightful princes (_abhirāmau nṛpātmajau ramayām āsa_).
 </details>
 </details>
 

@@ -102,13 +102,13 @@ _________________
 
 **1:** Then the impetuous Nikumbha, the mighty Sūryaśatru, Suptaghna, Yajñakopa, and both Mahāpārśva and Mahodara;
 
-**2:** the unassailable Agniketu and the rākṣasa Raśmiketu, as well as Rāvaṇa's mighty and resplendent son Indrajit;
+**2:** the unassailable Agniketu and the rākṣasa Raśmiketu, as well as Rāvaṇa&#x27;s mighty and resplendent son Indrajit;
 
 **3:** and Prahasta, Virūpākṣa, the mighty Vajradaṃṣṭra, Dhūmrākṣa, Atikāya, and the rākṣasa Durmukha—
 
-**4:** grasping iron-bound clubs, two-edged spears, pikes, darts, lances, and battle-axes (śakti-paraśvadhān), as well as bows fitted with fine shafts (subāṇāni) and broad swords gleaming like clear water (vipulāmbubhān),
+**4:** grasping iron-bound clubs, two-edged spears, pikes, darts, lances, and battle-axes (_śakti-paraśvadhān_), as well as bows fitted with fine shafts (_subāṇāni_) and broad swords gleaming like clear water (_vipulāmbubhān_),
 
-**5:** all those rākṣasas, filled with supreme wrath and blazing as it were with fiery energy (pradīptā iva tejasā), sprang up (samutpatya) and spoke to Rāvaṇa:
+**5:** all those rākṣasas, filled with supreme wrath and blazing as it were with fiery energy (_pradīptā iva tejasā_), sprang up (_samutpatya_) and spoke to Rāvaṇa:
 </details>
 </details>
 
@@ -154,7 +154,7 @@ pitiable Hanuma by whom Lanka was attacked."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today we shall slay Rāma, and Sugrīva together with Lakṣmaṇa, and that wretched Hanūmān by whom Laṅkā was ravaged (laṅkā yena pradharṣitā)!”
+“Today we shall slay Rāma, and Sugrīva together with Lakṣmaṇa, and that wretched Hanūmān by whom Laṅkā was ravaged (_laṅkā yena pradharṣitā_)!”
 </details>
 </details>
 
@@ -217,7 +217,7 @@ seize weapons, were made to sit again by saluting them with joined palms and spo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Restraining (vārayitvā) all those warriors who had seized their weapons, and making them sit down once more (punaḥ pratyupaveśya), Vibhīṣaṇa joined his palms and spoke these words:
+Restraining (_vārayitvā_) all those warriors who had seized their weapons, and making them sit down once more (_punaḥ pratyupaveśya_), Vibhīṣaṇa joined his palms and spoke these words:
 </details>
 </details>
 
@@ -271,7 +271,7 @@ prowess, as stated by wise men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even regarding an objective (yo 'rthaḥ) that cannot be achieved through the three peaceful expedients [conciliation, gifts, and dissension] (upāyais tribhiḥ), O dear sire (tāta), wise statesmen declare that the occasions for using force (vikramakālān) are appropriate only at specific junctures (tān yuktān).
+“Even regarding an objective (_yo &#x27;rthaḥ_) that cannot be achieved through the three peaceful expedients [conciliation, gifts, and dissension] (_upāyais tribhiḥ_), O dear sire (_tāta_), wise statesmen declare that the occasions for using force (_vikramakālān_) are appropriate only at specific junctures (_tān yuktān_).
 </details>
 </details>
 
@@ -325,7 +325,7 @@ an enemy or who stand struck down by fate."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Acts of martial force (vikramāḥ), O sire, succeed only when undertaken according to rule after careful examination (parīkṣya vidhinā kṛtāḥ) against foes who are heedless (pramatteṣu), assailed by others (abhiyukteṣu), or stricken by adverse fate (daivena prahateṣu ca).
+“Acts of martial force (_vikramāḥ_), O sire, succeed only when undertaken according to rule after careful examination (_parīkṣya vidhinā kṛtāḥ_) against foes who are heedless (_pramatteṣu_), assailed by others (_abhiyukteṣu_), or stricken by adverse fate (_daivena prahateṣu ca_).
 </details>
 </details>
 
@@ -381,7 +381,7 @@ conquered."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How then do you wish to overpower (dharṣayitum icchatha) that Rāma, who is ever vigilant (apramattam), bent on victory (vijigīṣum), established in strength, master of his wrath (jitaroṣam), and impossible to assail?
+“How then do you wish to overpower (_dharṣayitum icchatha_) that Rāma, who is ever vigilant (_apramattam_), bent on victory (_vijigīṣum_), established in strength, master of his wrath (_jitaroṣam_), and impossible to assail?
 </details>
 </details>
 
@@ -455,9 +455,9 @@ measured. They cannot be treated with contempt hastily by any means."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Moreover, who in the world could fathom or even conjecture (ko vidyāt tarkayeta vā) the coursing of Hanūmān (gatiṃ hanūmato loke) when he leaped across the dreadful ocean, lord of rivers and streams?
+**11:** “Moreover, who in the world could fathom or even conjecture (_ko vidyāt tarkayeta vā_) the coursing of Hanūmān (_gatiṃ hanūmato loke_) when he leaped across the dreadful ocean, lord of rivers and streams?
 
-**12:** “Immeasurable are the forces and valorous deeds (balāny aparimeyāni vīryāṇi ca) of our foes, O night-stalkers; rash contempt for one's enemies (pareṣāṃ sahasāvajñā) must never be entertained on any account!
+**12:** “Immeasurable are the forces and valorous deeds (_balāny aparimeyāni vīryāṇi ca_) of our foes, O night-stalkers; rash contempt for one&#x27;s enemies (_pareṣāṃ sahasāvajñā_) must never be entertained on any account!
 </details>
 </details>
 
@@ -517,7 +517,7 @@ wife that he bore away from Janasthana?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And what wrong was ever done of old by Rāma to the king of the rākṣasas (kiṃ ca rākṣasarājasya rāmeṇāpakṛtaṃ purā), from Janasthāna whose illustrious consort he carried off?
+“And what wrong was ever done of old by Rāma to the king of the rākṣasas (_kiṃ ca rākṣasarājasya rāmeṇāpakṛtaṃ purā_), from Janasthāna whose illustrious consort he carried off?
 </details>
 </details>
 
@@ -573,7 +573,7 @@ Lives are certainly to be protected, according to one's own strength, by living 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If Khara, having transgressed all bounds (ativṛttas tu), was slain by Rāma in battle, living beings must surely protect their own lives (prāṇināṃ prāṇā rakṣitavyāḥ) according to their strength (yathābalam)!
+“If Khara, having transgressed all bounds (_ativṛttas tu_), was slain by Rāma in battle, living beings must surely protect their own lives (_prāṇināṃ prāṇā rakṣitavyāḥ_) according to their strength (_yathābalam_)!
 </details>
 </details>
 
@@ -630,7 +630,7 @@ end?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because of this [abduction], Vaidehī will become a source of immense peril to us (bhayaṃ naḥ sumahad bhavet); she who was carried off must be relinquished (parityājyā)! What is gained by acting for the sake of strife (kalahārthe kṛte nu kim)?
+“Because of this [abduction], Vaidehī will become a source of immense peril to us (_bhayaṃ naḥ sumahad bhavet_); she who was carried off must be relinquished (_parityājyā_)! What is gained by acting for the sake of strife (_kalahārthe kṛte nu kim_)?
 </details>
 </details>
 
@@ -683,7 +683,7 @@ follows righteousness. Let Seetha be given away to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is not fitting for us to wage a fruitless feud (vairaṃ nirarthakaṃ kartum) with that valiant follower of dharma (dharmānuvartinā); let Maithilī be given back to him!
+“It is not fitting for us to wage a fruitless feud (_vairaṃ nirarthakaṃ kartum_) with that valiant follower of dharma (_dharmānuvartinā_); let Maithilī be given back to him!
 </details>
 </details>
 
@@ -738,7 +738,7 @@ arrows, let Seetha be given away to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before he cleaves asunder with his arrows (yāvan na dārayate bāṇaiḥ) this city teeming with elephants, horses, and abundant jewels, let Maithilī be given back to him!
+“Before he cleaves asunder with his arrows (_yāvan na dārayate bāṇaiḥ_) this city teeming with elephants, horses, and abundant jewels, let Maithilī be given back to him!
 </details>
 </details>
 
@@ -791,7 +791,7 @@ attacks our Lanka, let Seetha be given away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before that most dreadful, vast, and unassailable monkey host (sudhorā mahatī durdharṣā harivāhinī) storms our Laṅkā (nāvaskandati no laṅkām), let Sītā be restored!
+“Before that most dreadful, vast, and unassailable monkey host (_sudhorā mahatī durdharṣā harivāhinī_) storms our Laṅkā (_nāvaskandati no laṅkām_), let Sītā be restored!
 </details>
 </details>
 
@@ -852,7 +852,7 @@ will indeed perish. All our valiant demons too will Perish."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the city of Laṅkā will surely perish, along with all our heroic rākṣasas (vinaśyed dhi purī laṅkā śūrāḥ sarve ca rākṣasāḥ), if Rāma's beloved consort is not voluntarily restored (na svayaṃ yadi dīyate)!
+“For the city of Laṅkā will surely perish, along with all our heroic rākṣasas (_vinaśyed dhi purī laṅkā śūrāḥ sarve ca rākṣasāḥ_), if Rāma&#x27;s beloved consort is not voluntarily restored (_na svayaṃ yadi dīyate_)!
 </details>
 </details>
 
@@ -905,7 +905,7 @@ beneficial as well as truthful word. Let Seetha be given away to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of fraternal kinship (bandhutvāt) I implore your grace (prasādaye tvām): act upon my words! What I speak is salutary and true (hitaṃ tathyaṃ tv ahaṃ brūmi)—let Maithilī be given back to him!
+“Out of fraternal kinship (_bandhutvāt_) I implore your grace (_prasādaye tvām_): act upon my words! What I speak is salutary and true (_hitaṃ tathyaṃ tv ahaṃ brūmi_)—let Maithilī be given back to him!
 </details>
 </details>
 
@@ -971,7 +971,7 @@ given away to Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before the prince lets fly (purā sṛjati) for your destruction his unerring shafts (amoghān viśikhān), blazing like the rays of the autumn sun (śaratsūrya-marīci-saṃnibhān), with brand-new tips and feathered shafts (navāgrapuṅkhān) and exceeding firm, let Maithilī be restored to the son of Daśaratha!
+“Before the prince lets fly (_purā sṛjati_) for your destruction his unerring shafts (_amoghān viśikhān_), blazing like the rays of the autumn sun (_śaratsūrya-marīci-saṃnibhān_), with brand-new tips and feathered shafts (_navāgrapuṅkhān_) and exceeding firm, let Maithilī be restored to the son of Daśaratha!
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ relatives. Let Seetha be given away to Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Cast off swiftly this wrath that destroys happiness and dharma (kopaṃ sukhadharmanāśanam); cleave unto dharma, which enhances joy and renown (ratikīrtivardhanam)! Be gracious, so that we may live with our sons and kinsmen (jīvema saputrabāndhavāḥ)—let Maithilī be restored to the son of Daśaratha!”
+“Cast off swiftly this wrath that destroys happiness and dharma (_kopaṃ sukhadharmanāśanam_); cleave unto dharma, which enhances joy and renown (_ratikīrtivardhanam_)! Be gracious, so that we may live with our sons and kinsmen (_jīvema saputrabāndhavāḥ_)—let Maithilī be restored to the son of Daśaratha!”
 </details>
 </details>
 
@@ -1132,7 +1132,7 @@ glory, those demons rose up and spoke to Ravana (as follows).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Vibhīṣaṇa, Rāvaṇa, lord of the rākṣasas, dismissed all those counselors (visarjayitvā tān sarvān) and entered his own palace (praviveśa svakaṃ gṛham).
+Hearing the words of Vibhīṣaṇa, Rāvaṇa, lord of the rākṣasas, dismissed all those counselors (_visarjayitvā tān sarvān_) and entered his own palace (_praviveśa svakaṃ gṛham_).
 </details>
 </details>
 

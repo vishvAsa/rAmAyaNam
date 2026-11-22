@@ -48,7 +48,7 @@ Dispatching all ritual provisions ahead, Rāma releases the auspicious dark stal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swiftly dispatching all that equipment in its entirety (tat sarvam akhilenāśu prasthāpya), the elder brother of Bharata (bharatāgrajaḥ) released the black-dappled stallion (hayaṃ ... kṛṣṇasāram) endowed with auspicious marks (lakṣaṇa-sampannam).
+Swiftly dispatching all that equipment in its entirety (_tat sarvam akhilenāśu prasthāpya_), the elder brother of Bharata (_bharatāgrajaḥ_) released the black-dappled stallion (_hayaṃ ... kṛṣṇasāram_) endowed with auspicious marks (_lakṣaṇa-sampannam_).
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Appointing Lakṣmaṇa together with the officiating priests (ṛtvigbhir lakṣmaṇaṃ sārdham) to the charge of the horse-ritual (aśva-tantre niyojya ca), Kākutstha then proceeded with his army (saha sainyena) to Naimiṣa.
+Appointing Lakṣmaṇa together with the officiating priests (_ṛtvigbhir lakṣmaṇaṃ sārdham_) to the charge of the horse-ritual (_aśva-tantre niyojya ca_), Kākutstha then proceeded with his army (_saha sainyena_) to Naimiṣa.
 </details>
 </details>
 
@@ -113,7 +113,7 @@ Appointing Lakṣmaṇa together with the officiating priests (ṛtvigbhir lak�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the supremely wondrous sacrificial enclosure (yajña-vāṭaṃ ... paramam adbhutam), the mighty-armed, illustrious prince attained matchless joy (praharṣam atulaṃ lebhe) and uttered words of praise (iti vaco ’bravīt).
+Beholding the supremely wondrous sacrificial enclosure (_yajña-vāṭaṃ ... paramam adbhutam_), the mighty-armed, illustrious prince attained matchless joy (_praharṣam atulaṃ lebhe_) and uttered words of praise (_iti vaco ’bravīt_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Beholding the supremely wondrous sacrificial enclosure (yajña-vāṭaṃ ... pa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he dwelt in Naimiṣa (naimiṣe vasatas tasya), all the lords of men (sarva eva narādhipāḥ) brought forth royal tributes (āninyur upahārāṃś ca), and Rāma honored them in return (tān rāmaḥ pratyapūjayat).
+As he dwelt in Naimiṣa (_naimiṣe vasatas tasya_), all the lords of men (_sarva eva narādhipāḥ_) brought forth royal tributes (_āninyur upahārāṃś ca_), and Rāma honored them in return (_tān rāmaḥ pratyapūjayat_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ As he dwelt in Naimiṣa (naimiṣe vasatas tasya), all the lords of men (sarva 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For those great-souled monarchs together with their retinues (pārthivānāṃ mahātmanāṃ sānugānām), the wise foremost of men assigned opulent pavilions (upakāryā mahārhāś ca ... vyādideśa).
+For those great-souled monarchs together with their retinues (_pārthivānāṃ mahātmanāṃ sānugānām_), the wise foremost of men assigned opulent pavilions (_upakāryā mahārhāś ca ... vyādideśa_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And food, drink, and garments (annapānāni vastrāṇi) for those great-souled guests with their attendants, Bharata swiftly distributed (bharataḥ sandadāv āśu), accompanied by Śatrughna (śatrughna-sahitas tadā).
+And food, drink, and garments (_annapānāni vastrāṇi_) for those great-souled guests with their attendants, Bharata swiftly distributed (_bharataḥ sandadāv āśu_), accompanied by Śatrughna (_śatrughna-sahitas tadā_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ While Sugrīva’s vānaras serve the brahmins and Bibhīṣaṇa’s rākṣasa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great-souled vānaras together with Sugrīva (vānarāś ca mahātmānaḥ sugrīva-sahitās tadā), bowing humbly (praṇatāḥ), all performed the serving of food to the brahmins (viprāṇāṃ ... cakrire pariveṣaṇam).
+And the great-souled vānaras together with Sugrīva (_vānarāś ca mahātmānaḥ sugrīva-sahitās tadā_), bowing humbly (_praṇatāḥ_), all performed the serving of food to the brahmins (_viprāṇāṃ ... cakrire pariveṣaṇam_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ And the great-souled vānaras together with Sugrīva (vānarāś ca mahātmāna�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Bibhīṣaṇa, surrounded by many garlanded rākṣasas (rakṣobhir bahubhiḥ sragvibhir vṛtaḥ), rendered worshipful service to the great-souled sages of fierce austerity (ṛṣīṇām ugra-tapasāṃ pūjāṃ cakre).
+And Bibhīṣaṇa, surrounded by many garlanded rākṣasas (_rakṣobhir bahubhiḥ sragvibhir vṛtaḥ_), rendered worshipful service to the great-souled sages of fierce austerity (_ṛṣīṇām ugra-tapasāṃ pūjāṃ cakre_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus the well-ordered horse sacrifice went forward (evaṃ suvihito yajño hayamedho ’bhyavartata), and the horse-observance protected by Lakṣmaṇa proceeded (lakṣmaṇenābhiguptā ca hayacaryā pravartata); such was the supreme, foremost sacrifice of the lion among kings (īdṛśaṃ rājasiṃhasya yajña-pravaram uttamam)—
+Thus the well-ordered horse sacrifice went forward (_evaṃ suvihito yajño hayamedho ’bhyavartata_), and the horse-observance protected by Lakṣmaṇa proceeded (_lakṣmaṇenābhiguptā ca hayacaryā pravartata_); such was the supreme, foremost sacrifice of the lion among kings (_īdṛśaṃ rājasiṃhasya yajña-pravaram uttamam_)—
 </details>
 </details>
 
@@ -345,9 +345,9 @@ Thus the well-ordered horse sacrifice went forward (evaṃ suvihito yajño hayam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** —no other cry was heard there at the horse sacrifice of the great-souled one (nānyaḥ śabdo ’bhavat tatra hayamedhe mahātmanaḥ) save: “Give freely at will, without hesitation (chandato dehi visrabdhaḥ), until the petitioners are satisfied (yāvat tuṣyanti yācakāḥ)!”
+**10:** —no other cry was heard there at the horse sacrifice of the great-souled one (_nānyaḥ śabdo ’bhavat tatra hayamedhe mahātmanaḥ_) save: “Give freely at will, without hesitation (_chandato dehi visrabdhaḥ_), until the petitioners are satisfied (_yāvat tuṣyanti yācakāḥ_)!”
 
-**11:** All things were given in full measure in the midst of the great-souled one’s sacrifice (tāvat sarvāṇi dattāni kratu-madhye mahātmanaḥ), together with varied jaggery delicacies (vividhāni ca gauḍāni) and candied confections as well (khāṇḍavāni tathaiva ca).
+**11:** All things were given in full measure in the midst of the great-souled one’s sacrifice (_tāvat sarvāṇi dattāni kratu-madhye mahātmanaḥ_), together with varied jaggery delicacies (_vividhāni ca gauḍāni_) and candied confections as well (_khāṇḍavāni tathaiva ca_).
 </details>
 </details>
 
@@ -386,7 +386,7 @@ Supplicants receive their wishes before a request can leave their lips, leaving 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hardly had a word of request issued from the lips of the supplicants (na niḥsṛtaṃ bhavaty oṣṭhād vacanaṃ yāvad arthinām), than it was already seen bestowed by the vānaras and rākṣasas (tāvad vānara-rakṣobhir dattam evābhyadṛśyata).
+Hardly had a word of request issued from the lips of the supplicants (_na niḥsṛtaṃ bhavaty oṣṭhād vacanaṃ yāvad arthinām_), than it was already seen bestowed by the vānaras and rākṣasas (_tāvad vānara-rakṣobhir dattam evābhyadṛśyata_).
 </details>
 </details>
 
@@ -417,7 +417,7 @@ Hardly had a word of request issued from the lips of the supplicants (na niḥs�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No one there was soiled (na kaścin malinas tatra), downcast, or emaciated (dīno vāpy atha karśitaḥ) at that foremost sacrifice of the king, thronged with delighted, well-nourished folk (hṛṣṭa-puṣṭa-janāvṛte).
+No one there was soiled (_na kaścin malinas tatra_), downcast, or emaciated (_dīno vāpy atha karśitaḥ_) at that foremost sacrifice of the king, thronged with delighted, well-nourished folk (_hṛṣṭa-puṣṭa-janāvṛte_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ No one there was soiled (na kaścin malinas tatra), downcast, or emaciated (dīn
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even the great-souled, long-lived sages present there (ye ca tatra mahātmāno munayaś cirajīvinaḥ) recalled no such sacrifice (nāsmaraṃs tādṛśaṃ yajñam), nor had there ever been one like it at any time (nāpy āsīt sa kadācana).
+Even the great-souled, long-lived sages present there (_ye ca tatra mahātmāno munayaś cirajīvinaḥ_) recalled no such sacrifice (_nāsmaraṃs tādṛśaṃ yajñam_), nor had there ever been one like it at any time (_nāpy āsīt sa kadācana_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Even the great-souled, long-lived sages present there (ye ca tatra mahātmāno m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever had need of gold (yaḥ kṛtyavān suvarṇena) obtained gold (suvarṇaṃ labhate sma saḥ); the seeker of wealth obtained wealth (vittārthī labhate vittam), and the seeker of gems obtained gems indeed (ratnārthī ratnam eva ca).
+Whoever had need of gold (_yaḥ kṛtyavān suvarṇena_) obtained gold (_suvarṇaṃ labhate sma saḥ_); the seeker of wealth obtained wealth (_vittārthī labhate vittam_), and the seeker of gems obtained gems indeed (_ratnārthī ratnam eva ca_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of silver, of gold, of precious stones, and of garments (rajatānāṃ suvarṇānām aśmanām atha vāsasām) given away without ceasing (aniśaṃ dīyamānānām), a mountain-heap was visibly beheld (rāśiḥ samupadṛśyate).
+Of silver, of gold, of precious stones, and of garments (_rajatānāṃ suvarṇānām aśmanām atha vāsasām_) given away without ceasing (_aniśaṃ dīyamānānām_), a mountain-heap was visibly beheld (_rāśiḥ samupadṛśyate_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither of Śakra, nor of the Lord of Wealth, nor of Yama or Varuṇa (na śakrasya dhaneśasya yamasya varuṇasya vā) has such a sacrifice ever been seen before (īdṛśo dṛṣṭa-pūrvo na)!”—thus spoke those rich in austerity (evam ūcus tapodhanāḥ).
+“Neither of Śakra, nor of the Lord of Wealth, nor of Yama or Varuṇa (_na śakrasya dhaneśasya yamasya varuṇasya vā_) has such a sacrifice ever been seen before (_īdṛśo dṛṣṭa-pūrvo na_)!”—thus spoke those rich in austerity (_evam ūcus tapodhanāḥ_).
 </details>
 </details>
 
@@ -586,7 +586,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Everywhere stood vānaras and everywhere indeed rākṣasas (sarvatra vānarās tasthuḥ sarvatraiva ca rākṣasāḥ); with brimming hands (pūrṇa-hastāḥ) they lavishly gave garments, wealth, and food to supplicants (vāso-dhanānnam arthibhyaḥ ... dadur bhṛśam).
+Everywhere stood vānaras and everywhere indeed rākṣasas (_sarvatra vānarās tasthuḥ sarvatraiva ca rākṣasāḥ_); with brimming hands (_pūrṇa-hastāḥ_) they lavishly gave garments, wealth, and food to supplicants (_vāso-dhanānnam arthibhyaḥ ... dadur bhṛśam_).
 </details>
 </details>
 
@@ -623,7 +623,7 @@ Everywhere stood vānaras and everywhere indeed rākṣasas (sarvatra vānarās 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus this sacrifice of the lion among kings, endowed with every excellence (īdṛśo rājasiṃhasya yajñaḥ sarva-guṇānvitaḥ), continued for a full year and more (saṃvatsaram atho sāgraṃ vartate) and did not diminish (na ca hīyate).
+Thus this sacrifice of the lion among kings, endowed with every excellence (_īdṛśo rājasiṃhasya yajñaḥ sarva-guṇānvitaḥ_), continued for a full year and more (_saṃvatsaram atho sāgraṃ vartate_) and did not diminish (_na ca hīyate_).
 </details>
 </details>
 

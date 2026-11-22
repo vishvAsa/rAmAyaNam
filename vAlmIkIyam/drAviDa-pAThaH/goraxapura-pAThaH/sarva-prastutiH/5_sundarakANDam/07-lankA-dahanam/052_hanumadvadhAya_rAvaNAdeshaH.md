@@ -83,7 +83,7 @@ for the killing of Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of the high-souled monkey (tasya vacanaṃ śrutvā vānarasya mahātmanaḥ), that Rāvaṇa, convulsed with wrath (krodhamūrcchitaḥ), commanded his execution (ājñāpayad vadhaṃ tasya).
+Hearing that speech of the high-souled monkey (_tasya vacanaṃ śrutvā vānarasya mahātmanaḥ_), that Rāvaṇa, convulsed with wrath (_krodhamūrcchitaḥ_), commanded his execution (_ājñāpayad vadhaṃ tasya_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ did not agree to the killing of Hanuma, who was entrusted with the functions of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the execution of him who had announced his office as an envoy (niveditavato dautyam) was commanded by the evil-minded Rāvaṇa (vadhe tasya samājñapte rāvaṇena durātmanā), Vibhīṣaṇa did not approve (nānumene vibhīṣaṇaḥ).
+When the execution of him who had announced his office as an envoy (_niveditavato dautyam_) was commanded by the evil-minded Rāvaṇa (_vadhe tasya samājñapte rāvaṇena durātmanā_), Vibhīṣaṇa did not approve (_nānumene vibhīṣaṇaḥ_).
 </details>
 </details>
 
@@ -189,7 +189,7 @@ to be done.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the overlord of the rākṣasas to be enraged (taṃ rakṣo'dhipatiṃ kruddham) and that affair to be imminent (tac ca kāryam upasthitam), he who stood firm in the right mode of action (kāryavidhau sthitaḥ) reflected upon what ought to be done (cintayāmāsa kāryam).
+Knowing the overlord of the _rākṣasas_ to be enraged (_taṃ rakṣo&#x27;dhipatiṃ kruddham_) and that affair to be imminent (_tac ca kāryam upasthitam_), he who stood firm in the right mode of action (_kāryavidhau sthitaḥ_) reflected upon what ought to be done (_cintayāmāsa kāryam_).
 </details>
 </details>
 
@@ -243,7 +243,7 @@ borther.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having resolved upon his course (niścitārthaḥ), that conqueror of foes (śatrujit), skilled in speech (vākyaviśāradaḥ), then spoke with conciliatory gentleness (sāmnā) to his venerable elder brother (pūjyam agrajam) a speech supremely salutary (hitam atyarthaṃ vākyam):
+Having resolved upon his course (_niścitārthaḥ_), that conqueror of foes (_śatrujit_), skilled in speech (_vākyaviśāradaḥ_), then spoke with conciliatory gentleness (_sāmnā_) to his venerable elder brother (_pūjyam agrajam_) a speech supremely salutary (_hitam atyarthaṃ vākyam_):
 </details>
 </details>
 
@@ -308,7 +308,7 @@ kings of excellence, knowing the distant and the near, do not cause killing of a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Forbear, cast aside your wrath, O lord of the rākṣasas (kṣamasva roṣaṃ tyaja rākṣasendra); be gracious and hear this speech of mine (prasīda me vākyam idaṃ śṛṇuṣva)! Good lords of the earth who discern high and low (parāvarajñāḥ santo vasudhādhipendrāḥ) do not put an envoy to death (vadhaṃ na kurvanti dūtasya).
+“Forbear, cast aside your wrath, O lord of the _rākṣasas_ (_kṣamasva roṣaṃ tyaja rākṣasendra_); be gracious and hear this speech of mine (_prasīda me vākyam idaṃ śṛṇuṣva_)! Good lords of the earth who discern high and low (_parāvarajñāḥ santo vasudhādhipendrāḥ_) do not put an envoy to death (_vadhaṃ na kurvanti dūtasya_).
 </details>
 </details>
 
@@ -363,7 +363,7 @@ it. Hence, it is improper for you also to do it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king, the slaying of this monkey (kaper asya pramāpaṇam) is contrary to dharma (dharmaviruddhaṃ ca), reviled by the usage of the world (lokavṛtteś ca garhitam), and unworthy of you, O hero (tava cāsadṛśaṃ vīra)!
+“O king, the slaying of this monkey (_kaper asya pramāpaṇam_) is contrary to _dharma_ (_dharmaviruddhaṃ ca_), reviled by the usage of the world (_lokavṛtteś ca garhitam_), and unworthy of you, O hero (_tava cāsadṛśaṃ vīra_)!
 </details>
 </details>
 
@@ -446,9 +446,9 @@ is indeed just a labour in vain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “You yourself are knower of dharma and grateful (dharmajñaś ca kṛtajñaś ca), skilled in royal polity (rājadharmaviśāradaḥ), discerner of the high and low among beings (parāvarajño bhūtānām), and knower of the highest truth (tvam eva paramārthavit).
+**7:** “You yourself are knower of _dharma_ and grateful (_dharmajñaś ca kṛtajñaś ca_), skilled in royal polity (_rājadharmaviśāradaḥ_), discerner of the high and low among beings (_parāvarajño bhūtānām_), and knower of the highest truth (_tvam eva paramārthavit_).
 
-**8:** “If even discerning men such as you (tvādṛśo'pi vicakṣaṇāḥ) are seized by wrath (gṛhyante yadi roṣeṇa), then erudition in the śāstras (tataḥ śāstravipaścittvam) is verily nothing more than mere toil (śrama eva hi kevalam)!
+**8:** “If even discerning men such as you (_tvādṛśo&#x27;pi vicakṣaṇāḥ_) are seized by wrath (_gṛhyante yadi roṣeṇa_), then erudition in the _śāstras_ (_tataḥ śāstravipaścittvam_) is verily nothing more than mere toil (_śrama eva hi kevalam_)!
 </details>
 </details>
 
@@ -504,7 +504,7 @@ graceful. After ascertaining about right and wrong, let appropriate punishment b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore be gracious, O slayer of foes (tasmāt prasīda śatrughna), O lord of the rākṣasas hard to assail (rākṣasendra durāsada); having ascertained what is proper and improper (yuktāyuktaṃ viniścitya), let the punishment prescribed for an envoy be inflicted (dūtadaṇḍo vidhīyatām)!”
+“Therefore be gracious, O slayer of foes (_tasmāt prasīda śatrughna_), O lord of the _rākṣasas_ hard to assail (_rākṣasendra durāsada_); having ascertained what is proper and improper (_yuktāyuktaṃ viniścitya_), let the punishment prescribed for an envoy be inflicted (_dūtadaṇḍo vidhīyatām_)!”
 </details>
 </details>
 
@@ -533,7 +533,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Vibhīṣaṇa's speech (vibhīṣaṇavacaḥ śrutvā), Rāvaṇa, the lord of the rākṣasas, seized by great fury (kopena mahatā”viṣṭaḥ), spoke this speech in reply (vākyam uttaram abravīt):
+Hearing Vibhīṣaṇa&#x27;s speech (_vibhīṣaṇavacaḥ śrutvā_), Rāvaṇa, the lord of the _rākṣasas_, seized by great fury (_kopena mahatā”viṣṭaḥ_), spoke this speech in reply (_vākyam uttaram abravīt_):
 </details>
 </details>
 
@@ -603,7 +603,7 @@ So, I shall kill this monkey, who performed sins."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is no sin in the slaying of sinners, O destroyer of foes (na pāpānāṃ vadhe pāpaṃ vidyate śatrusūdana); therefore I shall slay this evil-doing monkey (tasmād imaṃ vadhiṣyāmi vānaraṃ pāpakāriṇam)!”
+“There is no sin in the slaying of sinners, O destroyer of foes (_na pāpānāṃ vadhe pāpaṃ vidyate śatrusūdana_); therefore I shall slay this evil-doing monkey (_tasmād imaṃ vadhiṣyāmi vānaraṃ pāpakāriṇam_)!”
 </details>
 </details>
 
@@ -660,7 +660,7 @@ following words, comprising of the highest truth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech rooted in unrighteousness (adharmamūlam), fraught with many faults (bahudoṣayuktam), and frequented by the ignoble (anāryajuṣṭaṃ vacanaṃ niśamya), Vibhīṣaṇa, the foremost of the wise (buddhimatāṃ variṣṭhaḥ), spoke a speech embodying the supreme truth (uvāca vākyaṃ paramārthatattvam):
+Hearing that speech rooted in unrighteousness (_adharmamūlam_), fraught with many faults (_bahudoṣayuktam_), and frequented by the ignoble (_anāryajuṣṭaṃ vacanaṃ niśamya_), Vibhīṣaṇa, the foremost of the wise (_buddhimatāṃ variṣṭhaḥ_), spoke a speech embodying the supreme truth (_uvāca vākyaṃ paramārthatattvam_):
 </details>
 </details>
 
@@ -732,7 +732,7 @@ and significance. O king! Sages say that messengers should not be killed at all 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be gracious, O lord of Laṅkā, chief of the rākṣasas (prasīda laṅkeśvara rākṣasendra); hear a speech embodying the truth of dharma and artha (dharmārthatattvaṃ vacanaṃ śṛṇuṣva)! The good declare that envoys are never to be slain (dūtā na vadhyāḥ vadanti santaḥ) in any circumstances or in any place, O king (samayeṣu rājan sarveṣu sarvatra).
+“Be gracious, O lord of Laṅkā, chief of the _rākṣasas_ (_prasīda laṅkeśvara rākṣasendra_); hear a speech embodying the truth of _dharma_ and _artha_ (_dharmārthatattvaṃ vacanaṃ śṛṇuṣva_)! The good declare that envoys are never to be slain (_dūtā na vadhyāḥ vadanti santaḥ_) in any circumstances or in any place, O king (_samayeṣu rājan sarveṣu sarvatra_).
 </details>
 </details>
 
@@ -793,7 +793,7 @@ for an envoy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Undoubtedly this enemy is grown overweening (asaṃśayaṃ śatrur ayaṃ pravṛddhaḥ), for an immeasurable offense has been committed by him (kṛtaṃ hy anenāpriyam aprameyam); yet the good do not sanction the execution of an envoy (na dūtavadhyāṃ pravadanti santaḥ), for many [other] punishments are prescribed for an envoy (dūtasya dṛṣṭā bahavo hi daṇḍāḥ):
+“Undoubtedly this enemy is grown overweening (_asaṃśayaṃ śatrur ayaṃ pravṛddhaḥ_), for an immeasurable offense has been committed by him (_kṛtaṃ hy anenāpriyam aprameyam_); yet the good do not sanction the execution of an envoy (_na dūtavadhyāṃ pravadanti santaḥ_), for many [other] punishments are prescribed for an envoy (_dūtasya dṛṣṭā bahavo hi daṇḍāḥ_):
 </details>
 </details>
 
@@ -857,7 +857,7 @@ the head and impressing marks on the body. Indeed, we have not heard at any time
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Disfigurement of the limbs (vairūpyam aṅgeṣu), flogging with whips (kaśābhighātaḥ), shaving of the head (mauṇḍyam), and the stamping of a brand (lakṣaṇasaṃnipātaḥ)—these indeed they declare to be the punishments for an envoy (etān hi dūte pravadanti daṇḍān), whereas the execution of an envoy has never been heard of by us (vadhas tu dūtasya na naḥ śruto'sti).
+“Disfigurement of the limbs (_vairūpyam aṅgeṣu_), flogging with whips (_kaśābhighātaḥ_), shaving of the head (_mauṇḍyam_), and the stamping of a brand (_lakṣaṇasaṃnipātaḥ_)—these indeed they declare to be the punishments for an envoy (_etān hi dūte pravadanti daṇḍān_), whereas the execution of an envoy has never been heard of by us (_vadhas tu dūtasya na naḥ śruto&#x27;sti_).
 </details>
 </details>
 
@@ -921,7 +921,7 @@ and a right judgement on cause and effect, subject to anger? Wise people indeed 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And how indeed could one such as your honor (bhavadvidhaḥ), whose intellect is disciplined in dharma and artha (dharmārthavinītabuddhiḥ) and who has ascertained his purpose through knowledge of high and low (parāvarapratyayaniścitārthaḥ), stand under the sway of wrath (kopavaśe hi tiṣṭhet)? For men of noble mettle do not give way to wrath (kopaṃ na gacchanti hi sattvavantaḥ)!
+“And how indeed could one such as your honor (_bhavadvidhaḥ_), whose intellect is disciplined in _dharma_ and _artha_ (_dharmārthavinītabuddhiḥ_) and who has ascertained his purpose through knowledge of high and low (_parāvarapratyayaniścitārthaḥ_), stand under the sway of wrath (_kopavaśe hi tiṣṭhet_)? For men of noble mettle do not give way to wrath (_kopaṃ na gacchanti hi sattvavantaḥ_)!
 </details>
 </details>
 
@@ -987,7 +987,7 @@ the celestials and demons in these matter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither in disputation on dharma (na dharmavāde), nor in worldly conduct (na ca lokavṛtte), nor in grasping the purport of the śāstras through intellect (na śāstrabuddhigrahaṇeṣu vāpi), could anyone be found equal to you, O hero (vidyeta kaścit tava vīra tulyaḥ); for you are the foremost of all gods and asuras (tvaṃ hy uttamaḥ sarvasurāsurāṇām)!
+“Neither in disputation on _dharma_ (_na dharmavāde_), nor in worldly conduct (_na ca lokavṛtte_), nor in grasping the purport of the _śāstras_ through intellect (_na śāstrabuddhigrahaṇeṣu vāpi_), could anyone be found equal to you, O hero (_vidyeta kaścit tava vīra tulyaḥ_); for you are the foremost of all gods and _asuras_ (_tvaṃ hy uttamaḥ sarvasurāsurāṇām_)!
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ several times"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And by you, immeasurable (tvayāprameyeṇa) and invincible even to gods and asuras endowed with valor, energy, and high spirit (parākramotsāhamanasvināṃ ca surāsurāṇām api durjayena), hosts of divine chiefs and lords of men have been conquered time and again in battles (surendrasaṅghā jitāś ca yuddheṣv asakṛn narendrāḥ).
+“And by you, immeasurable (_tvayāprameyeṇa_) and invincible even to gods and _asuras_ endowed with valor, energy, and high spirit (_parākramotsāhamanasvināṃ ca surāsurāṇām api durjayena_), hosts of divine chiefs and lords of men have been conquered time and again in battles (_surendrasaṅghā jitāś ca yuddheṣv asakṛn narendrāḥ_).
 </details>
 </details>
 
@@ -1113,7 +1113,7 @@ on those by whom this monkey was sent."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wait, O sire (bhoḥ)! Even in thought, heroes do not commit an offense (na kurvanti vīrā manasāpy alīkam) against you who are such an unconquered hero and foe of gods and daityas (itthaṃvidhasyāmaradaityaśatroḥ śūrasya vīrasya tavājitasya), unless they have already parted with their lives (prāṇair vimuktāḥ purā te)!
+“Wait, O sire (_bhoḥ_)! Even in thought, heroes do not commit an offense (_na kurvanti vīrā manasāpy alīkam_) against you who are such an unconquered hero and foe of gods and _daityas_ (_itthaṃvidhasyāmaradaityaśatroḥ śūrasya vīrasya tavājitasya_), unless they have already parted with their lives (_prāṇair vimuktāḥ purā te_)!
 </details>
 </details>
 
@@ -1165,7 +1165,7 @@ killing him, who is an envoy, who is dependent on others and who talks for the c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, I see no merit whatever in the slaying of this monkey (na cāpy asya kaper ghāte kaṃcit paśyāmy ahaṃ guṇam); let this punishment be brought down upon those by whom this monkey was dispatched (teṣv ayaṃ pātyatāṃ daṇḍo yair ayaṃ preṣitaḥ kapiḥ)!
+“Moreover, I see no merit whatever in the slaying of this monkey (_na cāpy asya kaper ghāte kaṃcit paśyāmy ahaṃ guṇam_); let this punishment be brought down upon those by whom this monkey was dispatched (_teṣv ayaṃ pātyatāṃ daṇḍo yair ayaṃ preṣitaḥ kapiḥ_)!
 </details>
 </details>
 
@@ -1218,7 +1218,7 @@ the sky and come here again to this shore of the great ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether he be good or whether he be evil (sādhur vā yadi vāsādhuḥ), this one has been dispatched by others (parair eṣa samarpitaḥ); speaking on another's behalf and dependent on another's will (bruvan parārthaṃ paravān), an envoy does not deserve death (na dūto vadham arhati).
+“Whether he be good or whether he be evil (_sādhur vā yadi vāsādhuḥ_), this one has been dispatched by others (_parair eṣa samarpitaḥ_); speaking on another&#x27;s behalf and dependent on another&#x27;s will (_bruvan parārthaṃ paravān_), an envoy does not deserve death (_na dūto vadham arhati_).
 </details>
 </details>
 
@@ -1273,7 +1273,7 @@ you ought to strengthen such effort on celestials including indra."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Furthermore, if this one is slain, O king (api cāsmin hate rājan), I see no other sky-coursing being (nānyaṃ paśyāmi khecaram) who could come here again across to the farther shore of the great ocean (iha yaḥ punar āgacchet paraṃ pāraṃ mahodadheḥ).
+“Furthermore, if this one is slain, O king (_api cāsmin hate rājan_), I see no other sky-coursing being (_nānyaṃ paśyāmi khecaram_) who could come here again across to the farther shore of the great ocean (_iha yaḥ punar āgacchet paraṃ pāraṃ mahodadheḥ_).
 </details>
 </details>
 
@@ -1328,7 +1328,7 @@ those two arrogant princes, who are hindered by a long distance, for war."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore no effort should be made for his execution, O conqueror of enemy citadels (tasmān nāsya vadhe yatnaḥ kāryaḥ parapuraṃjaya); your honor ought rather to direct your effort against the gods together with Indra (bhavān sendreṣu deveṣu yatnam āsthātum arhati)!
+“Therefore no effort should be made for his execution, O conqueror of enemy citadels (_tasmān nāsya vadhe yatnaḥ kāryaḥ parapuraṃjaya_); your honor ought rather to direct your effort against the gods together with Indra (_bhavān sendreṣu deveṣu yatnam āsthātum arhati_)!
 </details>
 </details>
 
@@ -1401,7 +1401,7 @@ the arrival of a war."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this one perishes, O lover of battle (asmin vinaṣṭe yuddhapriya), I see no other being (na hi bhūtam anyaṃ paśyāmi) who could incite to war (yo yuddhāya udyojayet) those two ill-disciplined princes of men (tau nararājaputrau durvinītau) who are at enmity with your honor (bhavatā viruddhau)!
+“If this one perishes, O lover of battle (_asmin vinaṣṭe yuddhapriya_), I see no other being (_na hi bhūtam anyaṃ paśyāmi_) who could incite to war (_yo yuddhāya udyojayet_) those two ill-disciplined princes of men (_tau nararājaputrau durvinītau_) who are at enmity with your honor (_bhavatā viruddhau_)!
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ and excellent wielders of weapons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O delighter of the hearts of the nairṛtas (manonandana nairṛtānām), by you who are invincible even to gods and asuras endowed with valor, energy, and high spirit (surāsurāṇām api durjayena tvayā), it is not fitting to frustrate [their eagerness] for battle (yuddhāya nirnāśayituṃ na yuktam)!
+“O delighter of the hearts of the _nairṛtas_ (_manonandana nairṛtānām_), by you who are invincible even to gods and _asuras_ endowed with valor, energy, and high spirit (_surāsurāṇām api durjayena tvayā_), it is not fitting to frustrate [their eagerness] for battle (_yuddhāya nirnāśayituṃ na yuktam_)!
 </details>
 </details>
 
@@ -1556,9 +1556,9 @@ with his due presence of mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** “Devoted to your welfare, heroic, steadfast (hitāś ca śūrāś ca samāhitāś ca), born in families of great excellence (kuleṣu jātāś ca mahāguṇeṣu), high-spirited, foremost among wielders of weapons (manasvinaḥ śastrabhṛtāṃ variṣṭhāḥ), renowned for their wrath, and well-maintained are your warriors (kopapraśastāḥ subhṛtāś ca yodhāḥ).
+**26:** “Devoted to your welfare, heroic, steadfast (_hitāś ca śūrāś ca samāhitāś ca_), born in families of great excellence (_kuleṣu jātāś ca mahāguṇeṣu_), high-spirited, foremost among wielders of weapons (_manasvinaḥ śastrabhṛtāṃ variṣṭhāḥ_), renowned for their wrath, and well-maintained are your warriors (_kopapraśastāḥ subhṛtāś ca yodhāḥ_).
 
-**27:** “Therefore let some who execute your commands go forth today with a fraction of your army (tad ekadeśena balasya tāvat kecit tavādeśakṛto'dya yāntu), having seized those two foolish princes (tau rājaputrāv upagṛhya mūḍhau), to make your majesty felt among your enemies (pareṣu te bhāvayituṃ prabhāvam)!”
+**27:** “Therefore let some who execute your commands go forth today with a fraction of your army (_tad ekadeśena balasya tāvat kecit tavādeśakṛto&#x27;dya yāntu_), having seized those two foolish princes (_tau rājaputrāv upagṛhya mūḍhau_), to make your majesty felt among your enemies (_pareṣu te bhāvayituṃ prabhāvam_)!”
 </details>
 </details>
 
@@ -1609,7 +1609,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The overlord of the night-roamers (niśācarāṇām adhipaḥ), the foe of the world of the gods and mighty chief of rākṣasa kings (suralokaśatrur mahābalo rākṣasarājamukhyaḥ), accepted with his intellect (jagrāha buddhyā) that excellent and welcome speech of his younger brother Vibhīṣaṇa (anujasya vibhīṣaṇasyottamavākyam iṣṭam).
+The overlord of the night-roamers (_niśācarāṇām adhipaḥ_), the foe of the world of the gods and mighty chief of _rākṣasa_ kings (_suralokaśatrur mahābalo rākṣasarājamukhyaḥ_), accepted with his intellect (_jagrāha buddhyā_) that excellent and welcome speech of his younger brother Vibhīṣaṇa (_anujasya vibhīṣaṇasyottamavākyam iṣṭam_).
 </details>
 </details>
 

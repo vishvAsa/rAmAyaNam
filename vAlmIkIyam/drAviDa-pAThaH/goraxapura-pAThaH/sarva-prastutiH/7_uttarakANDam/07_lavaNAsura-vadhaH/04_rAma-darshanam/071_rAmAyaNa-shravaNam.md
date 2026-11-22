@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in the twelfth year (tato dvādaśame varṣe), Śatrughna, attended by only a small retinue of servants and troops (alpa-bhṛtya-balānugaḥ), longed to go (cakame gantum) to Ayodhyā, protected by Rāma (rāma-pālitām).
+Then, in the twelfth year (_tato dvādaśame varṣe_), Śatrughna, attended by only a small retinue of servants and troops (_alpa-bhṛtya-balānugaḥ_), longed to go (_cakame gantum_) to Ayodhyā, protected by Rāma (_rāma-pālitām_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Turning back his chief ministers and foremost army commanders (mantri-purogāṃś ca bala-mukhyān nivartya ca), he set forth with choice steeds and a hundred chariots (haya-mukhyaiś ca rathānāṃ ca śatena).
+Turning back his chief ministers and foremost army commanders (_mantri-purogāṃś ca bala-mukhyān nivartya ca_), he set forth with choice steeds and a hundred chariots (_haya-mukhyaiś ca rathānāṃ ca śatena_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having traveled seven or eight reckoned night-halts (gaṇitān vāsān saptāṣṭau), that greatly illustrious delight of the Raghus arrived at Vālmīki’s hermitage (vālmīky-āśramam āgatya) and took up lodging there (vāsaṃ cakre).
+Having traveled seven or eight reckoned night-halts (_gaṇitān vāsān saptāṣṭau_), that greatly illustrious delight of the Raghus arrived at Vālmīki’s hermitage (_vālmīky-āśramam āgatya_) and took up lodging there (_vāsaṃ cakre_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saluting the feet of Vālmīki (abhivādya ... pādau vālmīkeḥ), that bull among men then accepted foot-water, guest-offering, and hospitality (pādyam ardhyaṃ tathātithyam) from the sage’s own hand (muni-hastataḥ).
+Saluting the feet of Vālmīki (_abhivādya ... pādau vālmīkeḥ_), that bull among men then accepted foot-water, guest-offering, and hospitality (_pādyam ardhyaṃ tathātithyam_) from the sage’s own hand (_muni-hastataḥ_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There that sage recounted thousands of varied, most honeyed tales (bahurūpāḥ sumadhurāḥ kathās tatra sahasraśaḥ) to the great-souled Śatrughna.
+There that sage recounted thousands of varied, most honeyed tales (_bahurūpāḥ sumadhurāḥ kathās tatra sahasraśaḥ_) to the great-souled Śatrughna.
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the sage spoke words turning upon the slaying of Lavaṇa (lavaṇasya vadhāśritam): “A most difficult feat was accomplished by you (su-duṣkaraṃ kṛtaṃ karma) in slaying Lavaṇa (lavaṇaṃ nighnatā tvayā)!
+And the sage spoke words turning upon the slaying of Lavaṇa (_lavaṇasya vadhāśritam_): “A most difficult feat was accomplished by you (_su-duṣkaraṃ kṛtaṃ karma_) in slaying Lavaṇa (_lavaṇaṃ nighnatā tvayā_)!
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many mighty kings, O gentle one (bahavaḥ pārthivāḥ saumya), together with their armies and mounts (sa-bala-vāhanāḥ), were slain by Lavaṇa while fighting him, O mighty-armed prince.
+“Many mighty kings, O gentle one (_bahavaḥ pārthivāḥ saumya_), together with their armies and mounts (_sa-bala-vāhanāḥ_), were slain by Lavaṇa while fighting him, O mighty-armed prince.
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That wicked demon was slain by you as if in sport (nihataḥ pāpo līlayā), O bull among men, and thereby the terror of the world (jagataś ca bhayam) was stilled through your radiance (praśāntaṃ tava tejasā).
+“That wicked demon was slain by you as if in sport (_nihataḥ pāpo līlayā_), O bull among men, and thereby the terror of the world (_jagataś ca bhayam_) was stilled through your radiance (_praśāntaṃ tava tejasā_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The dreadful slaying of Rāvaṇa (rāvaṇasya vadho ghoraḥ) was accomplished with mighty exertion (yatnena mahatā kṛtaḥ), whereas this exceedingly great deed (idaṃ tu su-mahat karma) was performed by you effortlessly (kṛtam ayatnataḥ)!
+“The dreadful slaying of Rāvaṇa (_rāvaṇasya vadho ghoraḥ_) was accomplished with mighty exertion (_yatnena mahatā kṛtaḥ_), whereas this exceedingly great deed (_idaṃ tu su-mahat karma_) was performed by you effortlessly (_kṛtam ayatnataḥ_)!
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Supreme joy arose among the gods (prītiś cāsmin parā jātā devānām) when this Lavaṇa was slain, and a boon dear to all creatures and to the whole world (bhūtānāṃ caiva sarveṣāṃ jagataś ca priyam) was wrought.
+“Supreme joy arose among the gods (_prītiś cāsmin parā jātā devānām_) when this Lavaṇa was slain, and a boon dear to all creatures and to the whole world (_bhūtānāṃ caiva sarveṣāṃ jagataś ca priyam_) was wrought.
 </details>
 </details>
 
@@ -400,7 +400,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that battle was witnessed by me exactly as it befell (tac ca yuddhaṃ mayā dṛṣṭaṃ yathāvat), O bull among men, as I sat in the assembly of Indra (sabhāyāṃ vāsavasyātha upaviṣṭena), O Rāghava!
+“And that battle was witnessed by me exactly as it befell (_tac ca yuddhaṃ mayā dṛṣṭaṃ yathāvat_), O bull among men, as I sat in the assembly of Indra (_sabhāyāṃ vāsavasyātha upaviṣṭena_), O Rāghava!
 </details>
 </details>
 
@@ -434,7 +434,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In my heart too, O Śatrughna, abides supreme delight (mamāpi paramā prītir hṛdi ... vartate); I shall kiss you upon the crown of your head (upāghrāsyāmi te mūrdhni), for this is the highest expression of affection (snehasyaiṣā parā gatiḥ)!”
+“In my heart too, O Śatrughna, abides supreme delight (_mamāpi paramā prītir hṛdi ... vartate_); I shall kiss you upon the crown of your head (_upāghrāsyāmi te mūrdhni_), for this is the highest expression of affection (_snehasyaiṣā parā gatiḥ_)!”
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and kissed Śatrughna upon the head (mūrdhni śatrughnam upāghrāya), the great sage extended hospitality (ātithyam akarot) to him and to those who followed in his train (ye ca tasya padānugāḥ).
+Having spoken thus and kissed Śatrughna upon the head (_mūrdhni śatrughnam upāghrāya_), the great sage extended hospitality (_ātithyam akarot_) to him and to those who followed in his train (_ye ca tasya padānugāḥ_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dined (sa bhuktavān), that best of men heard at that hour (śuśrāva ... tasmin kāle) the deeds of Rāma (rāma-caritam), rendered in order (yathākṛmam) with exquisite sweetness of song (gīta-mādhuryam uttamam)—
+Having dined (_sa bhuktavān_), that best of men heard at that hour (_śuśrāva ... tasmin kāle_) the deeds of Rāma (_rāma-caritam_), rendered in order (_yathākṛmam_) with exquisite sweetness of song (_gīta-mādhuryam uttamam_)—
 </details>
 </details>
 
@@ -546,7 +546,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Harmonized with lute-strings and tempo (tantrī-laya-samāyuktam), endowed with the three registers of voice-production (tri-sthāna-karaṇānvitam), refined in Sanskrit (saṃskṛtam), graced with every canonical mark (lakṣaṇopetam), and accompanied by even rhythmic measure (sama-tāla-samanvitam)—he heard the life of Rāma, composed of old (purā kṛtam), performed at that hour.
+Harmonized with lute-strings and tempo (_tantrī-laya-samāyuktam_), endowed with the three registers of voice-production (_tri-sthāna-karaṇānvitam_), refined in Sanskrit (_saṃskṛtam_), graced with every canonical mark (_lakṣaṇopetam_), and accompanied by even rhythmic measure (_sama-tāla-samanvitam_)—he heard the life of Rāma, composed of old (_purā kṛtam_), performed at that hour.
 </details>
 </details>
 
@@ -580,7 +580,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those truthful syllables (tāny akṣarāṇi satyāni), narrating events just as they had befallen in former times (yathāvṛttāni pūrvaśaḥ), that tiger among men grew dazed (visañjñaḥ), his eyes brimming with tears (bāṣpa-locanaḥ).
+Hearing those truthful syllables (_tāny akṣarāṇi satyāni_), narrating events just as they had befallen in former times (_yathāvṛttāni pūrvaśaḥ_), that tiger among men grew dazed (_visañjñaḥ_), his eyes brimming with tears (_bāṣpa-locanaḥ_).
 </details>
 </details>
 
@@ -616,7 +616,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As if bereft of consciousness for a moment (muhūrtam ivāsañjñaḥ), sighing again and again (viniḥśvasya muhur muhuḥ), he listened to the past events in that song (tasmin gīte yathāvṛttam) as though they were unfolding in the present (vartamānam ivāśṛṇot).
+As if bereft of consciousness for a moment (_muhūrtam ivāsañjñaḥ_), sighing again and again (_viniḥśvasya muhur muhuḥ_), he listened to the past events in that song (_tasmin gīte yathāvṛttam_) as though they were unfolding in the present (_vartamānam ivāśṛṇot_).
 </details>
 </details>
 
@@ -642,7 +642,7 @@ As if bereft of consciousness for a moment (muhūrtam ivāsañjñaḥ), sighing 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the king’s attendants (padānugāś ca ye rājñaḥ), hearing that richness of song (tāṃ śrutvā gīti-sampadam), stood with downcast faces and humbled hearts (avāṅmukhāś ca dīnāś ca), exclaiming, “What a marvel (āścaryam iti cābruvan)!”
+And the king’s attendants (_padānugāś ca ye rājñaḥ_), hearing that richness of song (_tāṃ śrutvā gīti-sampadam_), stood with downcast faces and humbled hearts (_avāṅmukhāś ca dīnāś ca_), exclaiming, “What a marvel (_āścaryam iti cābruvan_)!”
 </details>
 </details>
 
@@ -678,9 +678,9 @@ Bewildered to hear events they themselves witnessed sung inside a remote hermita
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** And the soldiers who were there (ye tatra sainikāḥ) spoke among themselves (parasparaṃ ... sambabhāṣire): “What is this (kim idam)? Where are we (kva ca vartāmaḥ)? Is this the vision of a dream (kim etat svapna-darśanam)?
+**19:** And the soldiers who were there (_ye tatra sainikāḥ_) spoke among themselves (_parasparaṃ ... sambabhāṣire_): “What is this (_kim idam_)? Where are we (_kva ca vartāmaḥ_)? Is this the vision of a dream (_kim etat svapna-darśanam_)?
 
-**20:** “The very history we witnessed of old (artho yo naḥ purā dṛṣṭaḥ), we hear again in a hermitage precinct (tam āśrama-pade punaḥ śṛṇumaḥ)! What is this? Could this be a dream—a song-composition of splendor (svapno gīta-bandhaṃ śriyo bhavet)?”
+**20:** “The very history we witnessed of old (_artho yo naḥ purā dṛṣṭaḥ_), we hear again in a hermitage precinct (_tam āśrama-pade punaḥ śṛṇumaḥ_)! What is this? Could this be a dream—a song-composition of splendor (_svapno gīta-bandhaṃ śriyo bhavet_)?”
 </details>
 </details>
 
@@ -706,7 +706,7 @@ Bewildered to hear events they themselves witnessed sung inside a remote hermita
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck with utmost amazement (vismayaṃ te paraṃ gatvā), they said to Śatrughna: “Pray ask Vālmīki, foremost of sages (sādhu pṛccha ... vālmīkiṃ muni-puṅgavam), O best of men!”
+Struck with utmost amazement (_vismayaṃ te paraṃ gatvā_), they said to Śatrughna: “Pray ask Vālmīki, foremost of sages (_sādhu pṛccha ... vālmīkiṃ muni-puṅgavam_), O best of men!”
 </details>
 </details>
 
@@ -736,9 +736,9 @@ Struck with utmost amazement (vismayaṃ te paraṃ gatvā), they said to Śatru
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** But Śatrughna spoke to all of them, filled as they were with curiosity (sarvān kautūhala-samanvitān): “Soldiers, it is not fitting for us to interrogate a matter such as this here (na kṣamo ’smākaṃ paripraṣṭum ihedṛśaḥ)!
+**22:** But Śatrughna spoke to all of them, filled as they were with curiosity (_sarvān kautūhala-samanvitān_): “Soldiers, it is not fitting for us to interrogate a matter such as this here (_na kṣamo ’smākaṃ paripraṣṭum ihedṛśaḥ_)!
 
-**23:** “Many marvels occur here in this sage’s hermitage (āścaryāṇi bahūnīha bhavanty asyāśrame muneḥ); it is not proper to probe that great sage out of curiosity (na tu kautūhalād yuktam anveṣṭuṃ taṃ mahāmunim).”
+**23:** “Many marvels occur here in this sage’s hermitage (_āścaryāṇi bahūnīha bhavanty asyāśrame muneḥ_); it is not proper to probe that great sage out of curiosity (_na tu kautūhalād yuktam anveṣṭuṃ taṃ mahāmunim_).”
 </details>
 </details>
 
@@ -777,7 +777,7 @@ Struck with utmost amazement (vismayaṃ te paraṃ gatvā), they said to Śatru
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken these words to the soldiers (evaṃ tad vākyam uktvā ca sainikān), the delight of the Raghus bowed to that great seer (abhivādya maharṣiṃ tam) and went then to his own quarters (svaṃ niveśaṃ yayau tadā).
+Having spoken these words to the soldiers (_evaṃ tad vākyam uktvā ca sainikān_), the delight of the Raghus bowed to that great seer (_abhivādya maharṣiṃ tam_) and went then to his own quarters (_svaṃ niveśaṃ yayau tadā_).
 </details>
 </details>
 

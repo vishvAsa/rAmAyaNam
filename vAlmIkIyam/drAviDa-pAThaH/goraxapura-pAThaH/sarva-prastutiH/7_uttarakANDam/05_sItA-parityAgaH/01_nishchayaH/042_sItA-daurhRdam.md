@@ -48,7 +48,7 @@ Having dismissed the gold-decked Puṣpaka chariot, Rāma enters Ayodhyā’s ro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus dismissed the gold-adorned Puṣpaka (puṣpakaṃ hemabhūṣitam), the mighty-armed Rāma then entered the royal Aśoka pleasure-grove (praviveśa ... aśokavanikām)—
+Having thus dismissed the gold-adorned Puṣpaka (_puṣpakaṃ hemabhūṣitam_), the mighty-armed Rāma then entered the royal Aśoka pleasure-grove (_praviveśa ... aśokavanikām_)—
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having thus dismissed the gold-adorned Puṣpaka (puṣpakaṃ hemabhūṣitam),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beautified on every side (samantād upaśobhitām) by sandalwood, aloe-wood, and mango trees (candanāguru-cūtaiḥ), by tuṅga and red-sandalwood kāleyaka trees, and by groves of deodar cedars (devadāru-vanaiḥ);
+Beautified on every side (_samantād upaśobhitām_) by sandalwood, aloe-wood, and mango trees (_candanāguru-cūtaiḥ_), by _tuṅga_ and red-sandalwood _kāleyaka_ trees, and by groves of deodar cedars (_devadāru-vanaiḥ_);
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Beautified on every side (samantād upaśobhitām) by sandalwood, aloe-wood, and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with campaka, aśoka, punnāga, madhūka, jackfruit (panasa), and asana trees, and with pārijāta coral-trees radiant as smokeless fire (vidhūma-jvalana-prabhaiḥ);
+Adorned with _campaka_, _aśoka_, _punnāga_, _madhūka_, jackfruit (_panasa_), and _asana_ trees, and with _pārijāta_ coral-trees radiant as smokeless fire (_vidhūma-jvalana-prabhaiḥ_);
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Adorned with campaka, aśoka, punnāga, madhūka, jackfruit (panasa), and asana 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covered over with lodhra, nīpa, arjuna, nāgakeśara, saptaparṇa, and atimuktaka jasmine, and thickets of mandāra, plantain groves, and tangles of creepers (kadalī-gulma-latājāla-samāvṛtām);
+Covered over with _lodhra_, _nīpa_, _arjuna_, _nāgakeśara_, _saptaparṇa_, and _atimuktaka_ jasmine, and thickets of _mandāra_, plantain groves, and tangles of creepers (_kadalī-gulma-latājāla-samāvṛtām_);
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Graced with priyaṅgu, kadamba, and vakula trees as well, and beautified with rose-apple (jambū), pomegranate (dāḍima), and kovidāra orchid-trees;
+Graced with _priyaṅgu_, _kadamba_, and _vakula_ trees as well, and beautified with rose-apple (_jambū_), pomegranate (_dāḍima_), and _kovidāra_ orchid-trees;
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—All perpetually lovely with blossoms (sarvadā kusumai ramyaiḥ), charming and laden with fruit (phalavadbhir manoramaiḥ), endowed with celestial fragrance and savor (divya-gandha-rasopetaiḥ), and crowned with tender sprouts and young leaves (taruṇāṅkura-pallavaiḥ)—
+—All perpetually lovely with blossoms (_sarvadā kusumai ramyaiḥ_), charming and laden with fruit (_phalavadbhir manoramaiḥ_), endowed with celestial fragrance and savor (_divya-gandha-rasopetaiḥ_), and crowned with tender sprouts and young leaves (_taruṇāṅkura-pallavaiḥ_)—
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Tended by divine artisans and alive with koels, drongos, and jewel-bright trees 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—And likewise with celestial trees arranged by divine artisans (tarubhir divyaiḥ śilpibhiḥ parikalpitaiḥ), rich in lovely foliage and blossoms (cāru-pallava-puṣpāḍhyaiḥ) and thronging with intoxicated bees (matta-bhramara-saṅkulaiḥ);
+—And likewise with celestial trees arranged by divine artisans (_tarubhir divyaiḥ śilpibhiḥ parikalpitaiḥ_), rich in lovely foliage and blossoms (_cāru-pallava-puṣpāḍhyaiḥ_) and thronging with intoxicated bees (_matta-bhramara-saṅkulaiḥ_);
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Tended by divine artisans and alive with koels, drongos, and jewel-bright trees 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned by hundreds (śobhitāṃ śataśaḥ) with koels, bhṛṅgarāja drongos, and birds of varied plumage (nānāvarṇaiś ca pakṣibhiḥ), and made picturesque with mango-tree ornaments (citrāṃ cūtavṛkṣāvataṃsakaiḥ).
+Adorned by hundreds (_śobhitāṃ śataśaḥ_) with koels, _bhṛṅgarāja_ drongos, and birds of varied plumage (_nānāvarṇaiś ca pakṣibhiḥ_), and made picturesque with mango-tree ornaments (_citrāṃ cūtavṛkṣāvataṃsakaiḥ_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Adorned by hundreds (śobhitāṃ śataśaḥ) with koels, bhṛṅgarāja drong
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some trees there shone like burnished gold (śātakumbha-nibhāḥ), some resembled tongues of fire (agniśikhopamāḥ), while other trees native to that grove gleamed like dark blue collyrium (nīlāñjana-nibhāḥ ... tatratya-pādapāḥ).
+Some trees there shone like burnished gold (_śātakumbha-nibhāḥ_), some resembled tongues of fire (_agniśikhopamāḥ_), while other trees native to that grove gleamed like dark blue collyrium (_nīlāñjana-nibhāḥ ... tatratya-pādapāḥ_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Some trees there shone like burnished gold (śātakumbha-nibhāḥ), some resemb
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There were fragrant blossoms and flower-clusters of every sort (surabhīṇi ca puṣpāṇi mālyāni vividhāni ca), and pleasure-ponds of varied shapes (dīrghikā vividhākārāḥ) filled with the purest water (pūrṇāḥ paramavāriṇā),
+There were fragrant blossoms and flower-clusters of every sort (_surabhīṇi ca puṣpāṇi mālyāni vividhāni ca_), and pleasure-ponds of varied shapes (_dīrghikā vividhākārāḥ_) filled with the purest water (_pūrṇāḥ paramavāriṇā_),
 </details>
 </details>
 
@@ -372,7 +372,7 @@ There were fragrant blossoms and flower-clusters of every sort (surabhīṇi ca 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With stairways wrought of rubies (māṇikya-kṛta-sopānāḥ) and interior paved floors of crystal (sphāṭikāntara-kuṭṭimāḥ), filled with groves of full-blown lotuses and blue water-lilies (phulla-padmotpala-vanāḥ) and graced by cakravāka pairs;
+With stairways wrought of rubies (_māṇikya-kṛta-sopānāḥ_) and interior paved floors of crystal (_sphāṭikāntara-kuṭṭimāḥ_), filled with groves of full-blown lotuses and blue water-lilies (_phulla-padmotpala-vanāḥ_) and graced by _cakravāka_ pairs;
 </details>
 </details>
 
@@ -403,7 +403,7 @@ With stairways wrought of rubies (māṇikya-kṛta-sopānāḥ) and interior pa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resounding with gallinules and parrots (dātyūha-śuka-saṅghuṣṭāḥ), echoing with the calls of swans and cranes (haṃsa-sārasa-nāditāḥ), and bordered by flowering trees growing along their banks (tarubhiḥ puṣpavadbhiś ca tīrajair upaśobhitāḥ).
+Resounding with gallinules and parrots (_dātyūha-śuka-saṅghuṣṭāḥ_), echoing with the calls of swans and cranes (_haṃsa-sārasa-nāditāḥ_), and bordered by flowering trees growing along their banks (_tarubhiḥ puṣpavadbhiś ca tīrajair upaśobhitāḥ_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—And adorned with boundary walls of varied designs (prākārair vividhākāraiḥ) and smooth stone slabs (śilātalaiḥ). And in that very woodland tract (tatraiva ca vanoddeśe),
+—And adorned with boundary walls of varied designs (_prākārair vividhākāraiḥ_) and smooth stone slabs (_śilātalaiḥ_). And in that very woodland tract (_tatraiva ca vanoddeśe_),
 </details>
 </details>
 
@@ -479,7 +479,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld the grove richly carpeted with lawns resembling cat’s-eye gems (vaiḍūryamaṇi-sannibhaiḥ śādvalaiḥ paramopetām), with thickets of blossoming trees (puṣpita-druma-kānanām); and there, beneath flowering trees that grew in dense, rivalrous profusion (saṅgharṣa-jātānāṃ vṛkṣāṇām),
+He beheld the grove richly carpeted with lawns resembling cat’s-eye gems (_vaiḍūryamaṇi-sannibhaiḥ śādvalaiḥ paramopetām_), with thickets of blossoming trees (_puṣpita-druma-kānanām_); and there, beneath flowering trees that grew in dense, rivalrous profusion (_saṅgharṣa-jātānāṃ vṛkṣāṇām_),
 </details>
 </details>
 
@@ -510,7 +510,7 @@ He beheld the grove richly carpeted with lawns resembling cat’s-eye gems (vai�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The stone slabs dappled with fallen petals (prastarāḥ puṣpa-śabalāḥ) gleamed like the sky studded with hosts of stars (nabhas tārāgaṇair iva); even as Indra’s Nandana grove (nandanaṃ hi yathendrasya) and Brahmā-fashioned Caitraratha (brāhmaṃ caitrarathaṃ yathā), just such was Rāma’s well-ordered pleasure-wood (kānanaṃ sanniveśanam)!
+The stone slabs dappled with fallen petals (_prastarāḥ puṣpa-śabalāḥ_) gleamed like the sky studded with hosts of stars (_nabhas tārāgaṇair iva_); even as Indra’s Nandana grove (_nandanaṃ hi yathendrasya_) and Brahmā-fashioned Caitraratha (_brāhmaṃ caitrarathaṃ yathā_), just such was Rāma’s well-ordered pleasure-wood (_kānanaṃ sanniveśanam_)!
 </details>
 </details>
 
@@ -545,9 +545,9 @@ The stone slabs dappled with fallen petals (prastarāḥ puṣpa-śabalāḥ) gl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Entering that flourishing Aśoka grove (aśokavanikāṃ sphītām), furnished with many sitting pavilions (bahvāsana-gṛhopetām) and encircled by vine-bowers (latāgṛha-samāvṛtām), the delight of the Raghus
+**16:** Entering that flourishing Aśoka grove (_aśokavanikāṃ sphītām_), furnished with many sitting pavilions (_bahvāsana-gṛhopetām_) and encircled by vine-bowers (_latāgṛha-samāvṛtām_), the delight of the Raghus
 
-**17:** Seated himself (sanniṣasāda ha) upon a handsome couch (āsane ca śubhākāre) adorned with heaps of blossoms (puṣpa-prakara-bhūṣite) and spread over with a mat of kuśa grass (kuśāstaraṇa-saṃstīrṇe).
+**17:** Seated himself (_sanniṣasāda ha_) upon a handsome couch (_āsane ca śubhākāre_) adorned with heaps of blossoms (_puṣpa-prakara-bhūṣite_) and spread over with a mat of _kuśa_ grass (_kuśāstaraṇa-saṃstīrṇe_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ The stone slabs dappled with fallen petals (prastarāḥ puṣpa-śabalāḥ) gl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking Sītā by the hand—and holding pure sweet maireya cordial (madhumaireyakaṃ śuci)—Kākutstha caused her to drink (pāyayām āsa), even as Purandara [Indra] gives ambrosia to Śacī (śacīm iva purandaraḥ).
+Taking Sītā by the hand—and holding pure sweet _maireya_ cordial (_madhumaireyakaṃ śuci_)—Kākutstha caused her to drink (_pāyayām āsa_), even as Purandara [Indra] gives ambrosia to Śacī (_śacīm iva purandaraḥ_).
 </details>
 </details>
 
@@ -617,7 +617,7 @@ Attendants serve fine viands and fruits while youthful maidens skilled in song a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attendants swiftly brought (kiṅkarās tūrṇam āharan) well-dressed meats and delicacies (māṃsāni ca samṛṣṭāni) and fruits of varied kinds (phalāni vividhāni ca) for Rāma’s repast (rāmasyābhyavahārārtham).
+Attendants swiftly brought (_kiṅkarās tūrṇam āharan_) well-dressed meats and delicacies (_māṃsāni ca samṛṣṭāni_) and fruits of varied kinds (_phalāni vividhāni ca_) for Rāma’s repast (_rāmasyābhyavahārārtham_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ Attendants swiftly brought (kiṅkarās tūrṇam āharan) well-dressed meats an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And lovely young women (bālāś ca rūpavatyaś ca striyaḥ), skilled in dance and song (nṛtyagīta-viśāradāḥ) and exhilarated under the sway of drink (pānavaśānugāḥ), danced before the king (upānṛtyaṃś ca rājānam).
+And lovely young women (_bālāś ca rūpavatyaś ca striyaḥ_), skilled in dance and song (_nṛtyagīta-viśāradāḥ_) and exhilarated under the sway of drink (_pānavaśānugāḥ_), danced before the king (_upānṛtyaṃś ca rājānam_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those heart-enchanting maidens (manobhirāmā rāmās tāḥ) the righteous-souled Rāma, foremost of those who bring delight (rāmo ramayatāṃ varaḥ), ever splendidly adorned (parama-bhūṣitaḥ), delighted continually (ramayām āsa nityam).
+Those heart-enchanting maidens (_manobhirāmā rāmās tāḥ_) the righteous-souled Rāma, foremost of those who bring delight (_rāmo ramayatāṃ varaḥ_), ever splendidly adorned (_parama-bhūṣitaḥ_), delighted continually (_ramayām āsa nityam_).
 </details>
 </details>
 
@@ -713,7 +713,7 @@ Those heart-enchanting maidens (manobhirāmā rāmās tāḥ) the righteous-soul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seated together with that Sītā (sa tayā sītayā sārdham āsīnaḥ), he shone resplendent (virarāja ha), like Vasiṣṭha glowing in spiritual radiance seated beside Arundhatī (arundhatyā sahāsīno vasiṣṭha iva tejasā).
+Seated together with that Sītā (_sa tayā sītayā sārdham āsīnaḥ_), he shone resplendent (_virarāja ha_), like Vasiṣṭha glowing in spiritual radiance seated beside Arundhatī (_arundhatyā sahāsīno vasiṣṭha iva tejasā_).
 </details>
 </details>
 
@@ -744,7 +744,7 @@ Seated together with that Sītā (sa tayā sītayā sārdham āsīnaḥ), he sho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus Rāma, filled with gladness (mudā yuktaḥ), delighted Vaidehī Sītā—lovely as a daughter of the gods (surasutopamām)—day after day, like an immortal deity (ahany ahani devavat).
+Thus Rāma, filled with gladness (_mudā yuktaḥ_), delighted Vaidehī Sītā—lovely as a daughter of the gods (_surasutopamām_)—day after day, like an immortal deity (_ahany ahani devavat_).
 </details>
 </details>
 
@@ -775,7 +775,7 @@ Thus Rāma, filled with gladness (mudā yuktaḥ), delighted Vaidehī Sītā—l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those two, Sītā and Rāghava, sported thus for a long while (tathā tayor viharatoḥ ... ciram), the auspicious winter season, ever rich in enjoyments (śubhaḥ kālaḥ śaiśiro bhogadaḥ sadā), glided past.
+While those two, Sītā and Rāghava, sported thus for a long while (_tathā tayor viharatoḥ ... ciram_), the auspicious winter season, ever rich in enjoyments (_śubhaḥ kālaḥ śaiśiro bhogadaḥ sadā_), glided past.
 </details>
 </details>
 
@@ -816,9 +816,9 @@ Fulfilling royal duties every forenoon and joining the inner palace each afterno
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Ten thousand years passed thus for those two exceedingly high-souled ones (daśa-varṣa-sahasrāṇi gatāni sumahātmanoḥ) as they enjoyed manifold delights (prāptayor vividhān bhogān), and the winter’s course came to an end (atītaḥ śiśirāgamaḥ).
+**25:** Ten thousand years passed thus for those two exceedingly high-souled ones (_daśa-varṣa-sahasrāṇi gatāni sumahātmanoḥ_) as they enjoyed manifold delights (_prāptayor vividhān bhogān_), and the winter’s course came to an end (_atītaḥ śiśirāgamaḥ_).
 
-**26:** Having discharged his righteous duties in the forenoon in accordance with dharma (pūrvāhṇe dharmakāryāṇi kṛtvā dharmeṇa), that knower of dharma spent the remaining half of the day (śeṣaṃ divasa-bhāgārdham) in the inner apartments (antaḥpuragato ’bhavat).
+**26:** Having discharged his righteous duties in the forenoon in accordance with dharma (_pūrvāhṇe dharmakāryāṇi kṛtvā dharmeṇa_), that knower of dharma spent the remaining half of the day (_śeṣaṃ divasa-bhāgārdham_) in the inner apartments (_antaḥpuragato ’bhavat_).
 </details>
 </details>
 
@@ -849,7 +849,7 @@ Fulfilling royal duties every forenoon and joining the inner palace each afterno
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Sītā too, having performed the morning rites to the gods (devakāryāṇi kṛtvā paurvāhṇikāni), paid reverent homage to all her mothers-in-law without distinction (śvaśrūṇām akarot pūjāṃ sarvāsām aviśeṣataḥ),
+And Sītā too, having performed the morning rites to the gods (_devakāryāṇi kṛtvā paurvāhṇikāni_), paid reverent homage to all her mothers-in-law without distinction (_śvaśrūṇām akarot pūjāṃ sarvāsām aviśeṣataḥ_),
 </details>
 </details>
 
@@ -880,7 +880,7 @@ And Sītā too, having performed the morning rites to the gods (devakāryāṇi 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then approached Rāma (abhyagacchat tato rāmam), arrayed in varied ornaments and fine robes (vicitrābharaṇāmbarā), even as Śacī approaches thousand-eyed Indra seated in heaven (triviṣṭape sahasrākṣam upaviṣṭaṃ yathā śacī).
+And then approached Rāma (_abhyagacchat tato rāmam_), arrayed in varied ornaments and fine robes (_vicitrābharaṇāmbarā_), even as Śacī approaches thousand-eyed Indra seated in heaven (_triviṣṭape sahasrākṣam upaviṣṭaṃ yathā śacī_).
 </details>
 </details>
 
@@ -911,7 +911,7 @@ And then approached Rāma (abhyagacchat tato rāmam), arrayed in varied ornament
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his wife endowed with the auspicious signs of motherhood (patnīṃ kalyāṇena samanvitām), Rāghava felt incomparable joy (praharṣam atulaṃ lebhe) and exclaimed, “Well done! Well done!” (sādhu sādhv iti cābravīt).
+Beholding his wife endowed with the auspicious signs of motherhood (_patnīṃ kalyāṇena samanvitām_), Rāghava felt incomparable joy (_praharṣam atulaṃ lebhe_) and exclaimed, “Well done! Well done!” (_sādhu sādhv iti cābravīt_).
 </details>
 </details>
 
@@ -942,7 +942,7 @@ Beholding his wife endowed with the auspicious signs of motherhood (patnīṃ ka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he addressed the fair-hipped Sītā, lovely as a daughter of the gods (varārohāṃ sītāṃ surasutopamām): “The blessing of offspring (apatyalābhaḥ), O Vaidehī, has drawn nigh for me in you (tvayi me samupasthitaḥ)! What do you desire, O lovely one—what wish of yours may be fulfilled (kim icchasi varārohe kāmaḥ kiṃ kriyatāṃ tava)?”
+And he addressed the fair-hipped Sītā, lovely as a daughter of the gods (_varārohāṃ sītāṃ surasutopamām_): “The blessing of offspring (_apatyalābhaḥ_), O Vaidehī, has drawn nigh for me in you (_tvayi me samupasthitaḥ_)! What do you desire, O lovely one—what wish of yours may be fulfilled (_kim icchasi varārohe kāmaḥ kiṃ kriyatāṃ tava_)?”
 </details>
 </details>
 
@@ -983,7 +983,7 @@ With a gentle smile, Sītā asks to visit the sacred hermitages along the Gaṅg
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Smiling gently (smitaṃ kṛtvā), Vaidehī then spoke these words to Rāma: “I long to behold the sacred penance-groves (tapovanāni puṇyāni draṣṭum icchāmi), O Rāghava,
+Smiling gently (_smitaṃ kṛtvā_), Vaidehī then spoke these words to Rāma: “I long to behold the sacred penance-groves (_tapovanāni puṇyāni draṣṭum icchāmi_), O Rāghava,
 </details>
 </details>
 
@@ -1029,11 +1029,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** “And to wait at the feet (pādamūleṣu vartitum) of the fiercely radiant sages dwelling along the banks of the Gaṅgā (gaṅgātīropaviṣṭānām ṛṣīṇām ugratejasām), who subsist upon fruits and roots (phalamūlāśinām), O Lord!
+**32:** “And to wait at the feet (_pādamūleṣu vartitum_) of the fiercely radiant sages dwelling along the banks of the Gaṅgā (_gaṅgātīropaviṣṭānām ṛṣīṇām ugratejasām_), who subsist upon fruits and roots (_phalamūlāśinām_), O Lord!
 
-**33:** “This is my dearest wish (eṣa me paramaḥ kāmaḥ), O Kākutstha—that I might dwell even for a single night (apy ekarātraṃ ... nivaseyam) in the hermitage (tapovane) of those who live on roots and fruits (mūlaphala-bhojinām)!”
+**33:** “This is my dearest wish (_eṣa me paramaḥ kāmaḥ_), O Kākutstha—that I might dwell even for a single night (_apy ekarātraṃ ... nivaseyam_) in the hermitage (_tapovane_) of those who live on roots and fruits (_mūlaphala-bhojinām_)!”
 
-**34:** “So be it!” (tatheti) was the solemn promise given by Rāma of unwearied deeds (pratijñātaṃ rāmeṇākliṣṭakarmaṇā): “Be wholly assured, O Vaidehī (visrabdhā bhava vaidehi); tomorrow you shall go without a doubt (śvo gamiṣyasy asaṃśayam)!”
+**34:** “So be it!” (_tatheti_) was the solemn promise given by Rāma of unwearied deeds (_pratijñātaṃ rāmeṇākliṣṭakarmaṇā_): “Be wholly assured, O Vaidehī (_visrabdhā bhava vaidehi_); tomorrow you shall go without a doubt (_śvo gamiṣyasy asaṃśayam_)!”
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Maithilī, daughter of Janaka (maithilīṃ janakātmajām), Kākutstha Rāma went forth into the middle courtyard (madhya-kakṣāntaraṃ ... nirjagāma), surrounded by his close companions (suhṛdvṛtaḥ).
+Having spoken thus to Maithilī, daughter of Janaka (_maithilīṃ janakātmajām_), Kākutstha Rāma went forth into the middle courtyard (_madhya-kakṣāntaraṃ ... nirjagāma_), surrounded by his close companions (_suhṛdvṛtaḥ_).
 </details>
 </details>
 

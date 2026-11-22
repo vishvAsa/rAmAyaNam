@@ -48,7 +48,7 @@ Roaring like storm-clouds, the rākṣasa hosts surround Lord Viṣṇu on every
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring aloud, those rākṣasa-clouds (rākṣasāmbudāḥ) showered upon the mountain that was Nārāyaṇa (nārāyaṇa-girim) a downpour of arrows (śara-varṣeṇa), even as rain-clouds deluge a mountain peak with rain.
+Roaring aloud, those rākṣasa-clouds (_rākṣasāmbudāḥ_) showered upon the mountain that was Nārāyaṇa (_nārāyaṇa-girim_) a downpour of arrows (_śara-varṣeṇa_), even as rain-clouds deluge a mountain peak with rain.
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Roaring aloud, those rākṣasa-clouds (rākṣasāmbudāḥ) showered upon the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark-hued yet stainlessly radiant (śyāmāvadātaḥ), Viṣṇu—hemmed in by those blue-black foremost night-rovers (nīlair naktañcarottamaiḥ)—shone like a peak of collyrium (añjana-girīva) ringed by rain-pouring clouds (varṣamāṇaiḥ payodharaiḥ).
+Dark-hued yet stainlessly radiant (_śyāmāvadātaḥ_), Viṣṇu—hemmed in by those blue-black foremost night-rovers (_nīlair naktañcarottamaiḥ_)—shone like a peak of collyrium (_añjana-girīva_) ringed by rain-pouring clouds (_varṣamāṇaiḥ payodharaiḥ_).
 </details>
 </details>
 
@@ -119,9 +119,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** As locusts swarm upon a grain-field (śalabhā iva kedāram), as gnats gather about a mountain (maśakā iva parvatam), as gadflies flock to a jar of nectar (amṛta-ghaṭaṃ daṃśāḥ), and as sea-monsters plunge into the ocean—
+**3:** As locusts swarm upon a grain-field (_śalabhā iva kedāram_), as gnats gather about a mountain (_maśakā iva parvatam_), as gadflies flock to a jar of nectar (_amṛta-ghaṭaṃ daṃśāḥ_), and as sea-monsters plunge into the ocean—
 
-**4:** —even so did the arrows loosed from rākṣasa bows (rakṣo-dhanur-muktāḥ), swift as thunderbolts, wind, and thought (vajrānila-manojavāḥ), enter into Hari, just as all the worlds merge into him at cosmic dissolution (lokā iva viparyaye).
+**4:** —even so did the arrows loosed from rākṣasa bows (_rakṣo-dhanur-muktāḥ_), swift as thunderbolts, wind, and thought (_vajrānila-manojavāḥ_), enter into Hari, just as all the worlds merge into him at cosmic dissolution (_lokā iva viparyaye_).
 </details>
 </details>
 
@@ -152,7 +152,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Charioteers mounted in their chariots (syandanaiḥ syandana-gatāḥ), elephant-warriors riding upon elephants' backs (gaja-pṛṣṭha-gāḥ), horsemen upon their steeds, and foot-soldiers as well stood arrayed across the sky (ambare sthitāḥ).
+Charioteers mounted in their chariots (_syandanaiḥ syandana-gatāḥ_), elephant-warriors riding upon elephants&#x27; backs (_gaja-pṛṣṭha-gāḥ_), horsemen upon their steeds, and foot-soldiers as well stood arrayed across the sky (_ambare sthitāḥ_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ Charioteers mounted in their chariots (syandanaiḥ syandana-gatāḥ), elephant
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those mountain-like chiefs of the rākṣasas (rākṣasendrā giri-nibhāḥ), assailing him with arrows, spears, swords, and javelins (śakty-ṛṣṭi-tomaraiḥ), left Hari without room to breathe (nirucchvāsaṃ hariṃ cakruḥ), even as breath-restraints (prāṇāyāmāḥ) check a twice-born sage.
+Those mountain-like chiefs of the rākṣasas (_rākṣasendrā giri-nibhāḥ_), assailing him with arrows, spears, swords, and javelins (_śakty-ṛṣṭi-tomaraiḥ_), left Hari without room to breathe (_nirucchvāsaṃ hariṃ cakruḥ_), even as breath-restraints (_prāṇāyāmāḥ_) check a twice-born sage.
 </details>
 </details>
 
@@ -222,7 +222,7 @@ Unmoved by the rākṣasa barrage, Viṣṇu draws his Śārṅga bow to mow dow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assailed by the night-rovers like the mighty ocean by fish (mīnair iva mahodadhiḥ), the invincible Lord (durdharṣaḥ) drew his Śārṅga bow (śārṅgam āyamya) and unleashed shafts upon the rākṣasas.
+Assailed by the night-rovers like the mighty ocean by fish (_mīnair iva mahodadhiḥ_), the invincible Lord (_durdharṣaḥ_) drew his Śārṅga bow (_śārṅgam āyamya_) and unleashed shafts upon the rākṣasas.
 </details>
 </details>
 
@@ -253,7 +253,7 @@ Assailed by the night-rovers like the mighty ocean by fish (mīnair iva mahodadh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With whetted arrows (niśitaiḥ śaraiḥ) drawn to the full stretch of the bow (pūrṇāyatotsṛṣṭaiḥ), thunderbolt-tipped and swift as thought (vajra-vaktrair manojavaiḥ), Viṣṇu cut them down by hundreds and by thousands.
+With whetted arrows (_niśitaiḥ śaraiḥ_) drawn to the full stretch of the bow (_pūrṇāyatotsṛṣṭaiḥ_), thunderbolt-tipped and swift as thought (_vajra-vaktrair manojavaiḥ_), Viṣṇu cut them down by hundreds and by thousands.
 </details>
 </details>
 
@@ -284,7 +284,7 @@ With whetted arrows (niśitaiḥ śaraiḥ) drawn to the full stretch of the bow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having scattered that shower of arrows (śara-varṣeṇa) as the wind disperses a rising storm-cloud (varṣā vāyur ivotthitam), the Supreme Person (puruṣottamaḥ) blew his great conch Pāñcajanya (pāñcajanyaṃ mahā-śaṅkham).
+Having scattered that shower of arrows (_śara-varṣeṇa_) as the wind disperses a rising storm-cloud (_varṣā vāyur ivotthitam_), the Supreme Person (_puruṣottamaḥ_) blew his great conch Pāñcajanya (_pāñcajanyaṃ mahā-śaṅkham_).
 </details>
 </details>
 
@@ -318,7 +318,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blown by Hari with all the force of his breath (sarva-prāṇena), that water-born king of conches (ambujaḥ śaṅkha-rāṭ) roared with a dreadful reverberation (bhīma-nirhādaḥ), as though making the three worlds tremble (trailokyaṃ vyathayann iva).
+Blown by Hari with all the force of his breath (_sarva-prāṇena_), that water-born king of conches (_ambujaḥ śaṅkha-rāṭ_) roared with a dreadful reverberation (_bhīma-nirhādaḥ_), as though making the three worlds tremble (_trailokyaṃ vyathayann iva_).
 </details>
 </details>
 
@@ -349,7 +349,7 @@ Blown by Hari with all the force of his breath (sarva-prāṇena), that water-bo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That roar of the king of conches (śaṅkha-rāja-ravaḥ) then struck terror into the rākṣasas, even as the lion, king of beasts (mṛga-rājaḥ), terrifies rutting elephants (samadān kuñjarān) in the forest.
+That roar of the king of conches (_śaṅkha-rāja-ravaḥ_) then struck terror into the rākṣasas, even as the lion, king of beasts (_mṛga-rājaḥ_), terrifies rutting elephants (_samadān kuñjarān_) in the forest.
 </details>
 </details>
 
@@ -380,7 +380,7 @@ That roar of the king of conches (śaṅkha-rāja-ravaḥ) then struck terror in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Horses could no longer keep their footing (na śekur aśvāḥ saṃsthātum); elephants lost their rutting fury (vimadāḥ); and heroes toppled from their chariots (syandanebhyaś cyutāḥ), sapped of strength by the conch's blast (śaṅkha-rāvita-durbalāḥ).
+Horses could no longer keep their footing (_na śekur aśvāḥ saṃsthātum_); elephants lost their rutting fury (_vimadāḥ_); and heroes toppled from their chariots (_syandanebhyaś cyutāḥ_), sapped of strength by the conch&#x27;s blast (_śaṅkha-rāvita-durbalāḥ_).
 </details>
 </details>
 
@@ -422,7 +422,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Loosed from the Śārṅga bow (śārṅga-cāpa-vinirmuktāḥ), those finely feathered arrows (supuṅkhāḥ) with thunderbolt-like points (vajra-tulyānanāḥ) tore straight through those rākṣasas and plunged into the earth (viviśuḥ kṣitim).
+Loosed from the Śārṅga bow (_śārṅga-cāpa-vinirmuktāḥ_), those finely feathered arrows (_supuṅkhāḥ_) with thunderbolt-like points (_vajra-tulyānanāḥ_) tore straight through those rākṣasas and plunged into the earth (_viviśuḥ kṣitim_).
 </details>
 </details>
 
@@ -453,7 +453,7 @@ Loosed from the Śārṅga bow (śārṅga-cāpa-vinirmuktāḥ), those finely f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced in battle (bhidyamānāḥ saṅkhye) by arrows flying from Nārāyaṇa's hand (nārāyaṇa-kara-cyutaiḥ), the rākṣasas crashed to the ground (nipetū bhūmau) like mountains struck by the thunderbolt (śailā vajra-hatā iva).
+Pierced in battle (_bhidyamānāḥ saṅkhye_) by arrows flying from Nārāyaṇa&#x27;s hand (_nārāyaṇa-kara-cyutaiḥ_), the rākṣasas crashed to the ground (_nipetū bhūmau_) like mountains struck by the thunderbolt (_śailā vajra-hatā iva_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ Pierced in battle (bhidyamānāḥ saṅkhye) by arrows flying from Nārāyaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wounds carved by Viṣṇu's discus (viṣṇu-cakra-kṛtāni vraṇāni) streamed blood in torrents (asṛk kṣaranti dhārābhiḥ) from the foes' limbs (para-gātrebhyaḥ), like mountains pouring forth red-ochre streams (svarṇa-dhārā ivācalāḥ).
+Wounds carved by Viṣṇu&#x27;s discus (_viṣṇu-cakra-kṛtāni vraṇāni_) streamed blood in torrents (_asṛk kṣaranti dhārābhiḥ_) from the foes&#x27; limbs (_para-gātrebhyaḥ_), like mountains pouring forth red-ochre streams (_svarṇa-dhārā ivācalāḥ_).
 </details>
 </details>
 
@@ -518,7 +518,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The roar of the king of conches (śaṅkha-rāja-ravaḥ), the twang of the Śārṅga bow (śārṅga-cāpa-ravaḥ), and Viṣṇu's own battle-cry (vaiṣṇavo ravaḥ) swallowed up the roars of the rākṣasas (rākṣasānāṃ ravān grasate).
+The roar of the king of conches (_śaṅkha-rāja-ravaḥ_), the twang of the Śārṅga bow (_śārṅga-cāpa-ravaḥ_), and Viṣṇu&#x27;s own battle-cry (_vaiṣṇavo ravaḥ_) swallowed up the roars of the rākṣasas (_rākṣasānāṃ ravān grasate_).
 </details>
 </details>
 
@@ -552,7 +552,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his shafts, Hari sheared away their trembling necks (śirodharān dhūtān), their arrows, banners, and bows (śara-dhvaja-dhanūṃṣi), along with their chariots, pennants, and quivers (rathān patākās tūṇīrān).
+With his shafts, Hari sheared away their trembling necks (_śirodharān dhūtān_), their arrows, banners, and bows (_śara-dhvaja-dhanūṃṣi_), along with their chariots, pennants, and quivers (_rathān patākās tūṇīrān_).
 </details>
 </details>
 
@@ -600,9 +600,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Like scorching rays from the sun (sūryād iva karā ghorāḥ), like waves surging from the ocean (ūrmayaḥ sāgarād iva), like great serpents issuing from a mountain (parvatād iva nāgendrāḥ), and like torrents of rain from a cloud (dhāraughā iva cāmbudāt)—
+**18:** Like scorching rays from the sun (_sūryād iva karā ghorāḥ_), like waves surging from the ocean (_ūrmayaḥ sāgarād iva_), like great serpents issuing from a mountain (_parvatād iva nāgendrāḥ_), and like torrents of rain from a cloud (_dhāraughā iva cāmbudāt_)—
 
-**19:** —even so did shafts (śarāḥ), loosed from the Śārṅga bow and sped by Nārāyaṇa (nārāyaṇeritāḥ), rush swiftly forth as arrows (nirdhāvantīṣavas tūrṇam) by the hundreds and the thousands.
+**19:** —even so did shafts (_śarāḥ_), loosed from the Śārṅga bow and sped by Nārāyaṇa (_nārāyaṇeritāḥ_), rush swiftly forth as arrows (_nirdhāvantīṣavas tūrṇam_) by the hundreds and the thousands.
 </details>
 </details>
 
@@ -641,11 +641,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Just as lions flee before the eight-legged śarabha (śarabheṇa yathā siṃhāḥ), as elephants flee before a lion (siṃhena dviradā yathā), as tigers flee before an elephant, and as panthers flee before a tiger (vyāghreṇa dvīpino yathā)—
+**20:** Just as lions flee before the eight-legged śarabha (_śarabheṇa yathā siṃhāḥ_), as elephants flee before a lion (_siṃhena dviradā yathā_), as tigers flee before an elephant, and as panthers flee before a tiger (_vyāghreṇa dvīpino yathā_)—
 
-**21:** —as hounds flee before a panther (dvīpineva yathā śvānaḥ), as cats flee before a hound (śunā mārjārakā yathā), as serpents flee before a cat, and as mice flee before a serpent (sarpeṇa ca yathākhavaḥ)—
+**21:** —as hounds flee before a panther (_dvīpineva yathā śvānaḥ_), as cats flee before a hound (_śunā mārjārakā yathā_), as serpents flee before a cat, and as mice flee before a serpent (_sarpeṇa ca yathākhavaḥ_)—
 
-**22:** —even so did all those rākṣasas (te rākṣasāḥ sarve), put to flight by the almighty Viṣṇu (viṣṇunā prabhaviṣṇunā), scatter in rout (dravanti drāvitāḥ), while others lay stretched out lifeless upon the earth (śāyitāś ca mahītale).
+**22:** —even so did all those rākṣasas (_te rākṣasāḥ sarve_), put to flight by the almighty Viṣṇu (_viṣṇunā prabhaviṣṇunā_), scatter in rout (_dravanti drāvitāḥ_), while others lay stretched out lifeless upon the earth (_śāyitāś ca mahītale_).
 </details>
 </details>
 
@@ -676,7 +676,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain thousands of rākṣasas (rākṣasānāṃ sahasrāṇi nihatya), Madhusūdana filled his water-born conch with breath (vārijaṃ pūrayām āsa), even as Indra, king of the gods, fills a rain-cloud (toyadaṃ surarāḍ iva).
+Having slain thousands of rākṣasas (_rākṣasānāṃ sahasrāṇi nihatya_), Madhusūdana filled his water-born conch with breath (_vārijaṃ pūrayām āsa_), even as Indra, king of the gods, fills a rain-cloud (_toyadaṃ surarāḍ iva_).
 </details>
 </details>
 
@@ -707,7 +707,7 @@ Having slain thousands of rākṣasas (rākṣasānāṃ sahasrāṇi nihatya), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrified by Nārāyaṇa's arrows (nārāyaṇa-śara-trastam) and utterly dazed by the conch's roar (śaṅkha-nāda-suvihvalam), the shattered rākṣasa army (prabhagnaṃ rākṣasaṃ balam) fled headlong toward Laṅkā (laṅkām abhimukham).
+Terrified by Nārāyaṇa&#x27;s arrows (_nārāyaṇa-śara-trastam_) and utterly dazed by the conch&#x27;s roar (_śaṅkha-nāda-suvihvalam_), the shattered rākṣasa army (_prabhagnaṃ rākṣasaṃ balam_) fled headlong toward Laṅkā (_laṅkām abhimukham_).
 </details>
 </details>
 
@@ -746,7 +746,7 @@ Rallying the broken rākṣasas, Sumālī screens Viṣṇu under a storm of arr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the rākṣasa host was shattered (prabhagne rākṣasa-bale) and battered by Nārāyaṇa's shafts, Sumālī checked Hari in battle (nivavāra raṇe harim) with a pouring shower of arrows (śara-varṣeṇa).
+When the rākṣasa host was shattered (_prabhagne rākṣasa-bale_) and battered by Nārāyaṇa&#x27;s shafts, Sumālī checked Hari in battle (_nivavāra raṇe harim_) with a pouring shower of arrows (_śara-varṣeṇa_).
 </details>
 </details>
 
@@ -777,7 +777,7 @@ When the rākṣasa host was shattered (prabhagne rākṣasa-bale) and battered 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He shrouded him from view (chādayām āsa) as mist shrouds the blazing sun (nīhāra iva bhāskaram); whereupon the stalwart rākṣasas (sattva-sampannāḥ) once again gathered courage (punar dhairyaṃ samādadhuḥ).
+He shrouded him from view (_chādayām āsa_) as mist shrouds the blazing sun (_nīhāra iva bhāskaram_); whereupon the stalwart rākṣasas (_sattva-sampannāḥ_) once again gathered courage (_punar dhairyaṃ samādadhuḥ_).
 </details>
 </details>
 
@@ -808,7 +808,7 @@ He shrouded him from view (chādayām āsa) as mist shrouds the blazing sun (nī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that rākṣasa, intoxicated with pride in his might (bala-darpitaḥ), charged forward in wrath (abhyapatad roṣāt), letting loose a mighty roar (mahā-nādam) as though breathing fresh life into the rākṣasas (rākṣasāñ jīvayann iva).
+Then that rākṣasa, intoxicated with pride in his might (_bala-darpitaḥ_), charged forward in wrath (_abhyapatad roṣāt_), letting loose a mighty roar (_mahā-nādam_) as though breathing fresh life into the rākṣasas (_rākṣasāñ jīvayann iva_).
 </details>
 </details>
 
@@ -839,7 +839,7 @@ Then that rākṣasa, intoxicated with pride in his might (bala-darpitaḥ), cha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Flung aloft his arm with its dangling ornaments (utkṣipya lambābharaṇam), brandishing it as an elephant swings its trunk (dhunvan karam iva dvipaḥ), the rākṣasa roared in exultation (rarāsa harṣāt) like a lightning-wreathed rain-cloud (sa-taḍit-toyado yathā).
+Flung aloft his arm with its dangling ornaments (_utkṣipya lambābharaṇam_), brandishing it as an elephant swings its trunk (_dhunvan karam iva dvipaḥ_), the rākṣasa roared in exultation (_rarāsa harṣāt_) like a lightning-wreathed rain-cloud (_sa-taḍit-toyado yathā_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ Flung aloft his arm with its dangling ornaments (utkṣipya lambābharaṇam), b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Sumālī roared (sumāler nardataḥ), Viṣṇu severed the head of his charioteer (śiro yantuḥ) with its gleaming earrings (jvalita-kuṇḍalam); and the horses of that rākṣasa bolted wildly astray (bhrāntāḥ).
+Even as Sumālī roared (_sumāler nardataḥ_), Viṣṇu severed the head of his charioteer (_śiro yantuḥ_) with its gleaming earrings (_jvalita-kuṇḍalam_); and the horses of that rākṣasa bolted wildly astray (_bhrāntāḥ_).
 </details>
 </details>
 
@@ -901,7 +901,7 @@ Even as Sumālī roared (sumāler nardataḥ), Viṣṇu severed the head of his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By those panicked, stampeding steeds (tair aśvair bhrāntaiḥ) was Sumālī, lord of the rākṣasas, whirled helplessly about (bhrāmyate), even as a man devoid of steadfastness (dhṛti-hīnaḥ) is swept astray by runaway sense-steeds (indriyāśvaiḥ paribhrāntaiḥ).
+By those panicked, stampeding steeds (_tair aśvair bhrāntaiḥ_) was Sumālī, lord of the rākṣasas, whirled helplessly about (_bhrāmyate_), even as a man devoid of steadfastness (_dhṛti-hīnaḥ_) is swept astray by runaway sense-steeds (_indriyāśvaiḥ paribhrāntaiḥ_).
 </details>
 </details>
 
@@ -942,7 +942,7 @@ As Sumālī's chariot bolts away, Mālī charges Viṣṇu with gold-decked arro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when Sumālī's chariot had been carried away by its horses (hṛte sumāler aśvaiś ca rathe), toward Viṣṇu's mount (viṣṇu-rathaṃ prati) and against mighty-armed Viṣṇu sweeping across the battlefield (prapatantaṃ raṇājire)—
+Then, when Sumālī&#x27;s chariot had been carried away by its horses (_hṛte sumāler aśvaiś ca rathe_), toward Viṣṇu&#x27;s mount (_viṣṇu-rathaṃ prati_) and against mighty-armed Viṣṇu sweeping across the battlefield (_prapatantaṃ raṇājire_)—
 </details>
 </details>
 
@@ -973,7 +973,7 @@ Then, when Sumālī's chariot had been carried away by its horses (hṛte sumāl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Mālī charged forth fully arrayed (abhyadravad yuktaḥ), seizing his bow fitted with arrows (sa-śaraṃ dhanuḥ). The arrows loosed from Mālī's bow, decked with gold (kārtasvara-vibhūṣitāḥ), reached Hari and entered into him like birds flocking into Mount Krauñca (krauñcaṃ patra-rathā iva).
+—Mālī charged forth fully arrayed (_abhyadravad yuktaḥ_), seizing his bow fitted with arrows (_sa-śaraṃ dhanuḥ_). The arrows loosed from Mālī&#x27;s bow, decked with gold (_kārtasvara-vibhūṣitāḥ_), reached Hari and entered into him like birds flocking into Mount Krauñca (_krauñcaṃ patra-rathā iva_).
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ Then, when Sumālī's chariot had been carried away by its horses (hṛte sumāl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though pelted by thousands of arrows (ardyamānaḥ śaraiḥ sahasraśaḥ) unleashed by Mālī, Viṣṇu was not in the least perturbed in battle (cukṣubhe na raṇe), even as a self-mastered sage remains unshaken by mental afflictions (jitendriya ivādhibhiḥ).
+Though pelted by thousands of arrows (_ardyamānaḥ śaraiḥ sahasraśaḥ_) unleashed by Mālī, Viṣṇu was not in the least perturbed in battle (_cukṣubhe na raṇe_), even as a self-mastered sage remains unshaken by mental afflictions (_jitendriya ivādhibhiḥ_).
 </details>
 </details>
 
@@ -1038,7 +1038,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, sounding the twang of his bowstring (maurvī-svanaṃ kṛtvā), the Blessed Lord, creator of all beings (bhagavān bhūta-bhāvanaḥ), the slayer of foes (ari-niṣūdanaḥ), unleashed floods of arrows (bāṇaughān) against Mālī.
+Then, sounding the twang of his bowstring (_maurvī-svanaṃ kṛtvā_), the Blessed Lord, creator of all beings (_bhagavān bhūta-bhāvanaḥ_), the slayer of foes (_ari-niṣūdanaḥ_), unleashed floods of arrows (_bāṇaughān_) against Mālī.
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ Then, sounding the twang of his bowstring (maurvī-svanaṃ kṛtvā), the Bless
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching Mālī's body (māli-deham āsādya), those arrows—gleaming like thunderbolts and lightning (vajra-vidyut-prabhāḥ)—drank deep of his blood (pibanti rudhiraṃ tasya), even as serpents drink the essence of nectar (nāgā iva sudhā-rasam).
+Reaching Mālī&#x27;s body (_māli-deham āsādya_), those arrows—gleaming like thunderbolts and lightning (_vajra-vidyut-prabhāḥ_)—drank deep of his blood (_pibanti rudhiraṃ tasya_), even as serpents drink the essence of nectar (_nāgā iva sudhā-rasam_).
 </details>
 </details>
 
@@ -1103,7 +1103,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having forced Mālī to turn his face away (mālinaṃ vimukhaṃ kṛtvā), the Bearer of Conch, Discus, and Mace (śaṅkha-cakra-gadādharaḥ) struck down Mālī's diadem (māli-maulim), his banner, his bow, and his steeds (vājinaś ca).
+Having forced Mālī to turn his face away (_mālinaṃ vimukhaṃ kṛtvā_), the Bearer of Conch, Discus, and Mace (_śaṅkha-cakra-gadādharaḥ_) struck down Mālī&#x27;s diadem (_māli-maulim_), his banner, his bow, and his steeds (_vājinaś ca_).
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ Leaping from his ruined chariot with a mace, Mālī strikes Garuḍa across the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deprived of his chariot (virathaḥ), that foremost of night-rovers, Mālī, snatched up a mace (gadāṃ gṛhya) and sprang forward, mace in hand (gadā-pāṇiḥ), like a lion bounding from a mountain peak (giry-agrād iva kesarī).
+Deprived of his chariot (_virathaḥ_), that foremost of night-rovers, Mālī, snatched up a mace (_gadāṃ gṛhya_) and sprang forward, mace in hand (_gadā-pāṇiḥ_), like a lion bounding from a mountain peak (_giry-agrād iva kesarī_).
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ Deprived of his chariot (virathaḥ), that foremost of night-rovers, Mālī, sna
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that mace he struck Garuḍa, lord of winged birds (garuḍeśānam), squarely upon the forehead (lalāṭa-deśe), even as Yama, the Ender, struck Lord Śiva (īśānam iva cāntakaḥ), or Indra struck a mountain with his thunderbolt (vajreṇendro yathācalam).
+With that mace he struck Garuḍa, lord of winged birds (_garuḍeśānam_), squarely upon the forehead (_lalāṭa-deśe_), even as Yama, the Ender, struck Lord Śiva (_īśānam iva cāntakaḥ_), or Indra struck a mountain with his thunderbolt (_vajreṇendro yathācalam_).
 </details>
 </details>
 
@@ -1204,7 +1204,7 @@ With that mace he struck Garuḍa, lord of winged birds (garuḍeśānam), squar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grievously battered by Mālī's mace (gadayābhihataḥ bhṛśam), Garuḍa, racked with pain (vedanāturaḥ), wheeled away and caused the Lord to face backward from the fray (raṇāt parāṅmukhaṃ devam).
+Grievously battered by Mālī&#x27;s mace (_gadayābhihataḥ bhṛśam_), Garuḍa, racked with pain (_vedanāturaḥ_), wheeled away and caused the Lord to face backward from the fray (_raṇāt parāṅmukhaṃ devam_).
 </details>
 </details>
 
@@ -1235,7 +1235,7 @@ Grievously battered by Mālī's mace (gadayābhihataḥ bhṛśam), Garuḍa, ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Lord Viṣṇu was thus turned away by Garuḍa on account of Mālī (parāṅmukhe kṛte deve mālinā garuḍena vai), a tremendous uproar (mahāñ chabdaḥ) rose from the exulting rākṣasas (rakṣasām abhinardatām). Hearing the din of the shouting demons (rakṣasāṃ ravatāṃ rāvam), the younger brother of Indra (hari-hayānujaḥ)—
+When Lord Viṣṇu was thus turned away by Garuḍa on account of Mālī (_parāṅmukhe kṛte deve mālinā garuḍena vai_), a tremendous uproar (_mahāñ chabdaḥ_) rose from the exulting rākṣasas (_rakṣasām abhinardatām_). Hearing the din of the shouting demons (_rakṣasāṃ ravatāṃ rāvam_), the younger brother of Indra (_hari-hayānujaḥ_)—
 </details>
 </details>
 
@@ -1268,9 +1268,9 @@ When Lord Viṣṇu was thus turned away by Garuḍa on account of Mālī (parā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** —the Blessed Lord Hari, blazing with wrath (saṅkruddhaḥ), twisted sideways upon the king of birds (tiryag āsthāya pakṣīśe) and, though turned away (parāṅmukho 'pi), hurled his discus (utsasarja cakram) with intent to slay Mālī (māler jighāṃsayā).
+**41:** —the Blessed Lord Hari, blazing with wrath (_saṅkruddhaḥ_), twisted sideways upon the king of birds (_tiryag āsthāya pakṣīśe_) and, though turned away (_parāṅmukho &#x27;pi_), hurled his discus (_utsasarja cakram_) with intent to slay Mālī (_māler jighāṃsayā_).
 
-**42:** Gleaming like the orb of the sun (sūrya-maṇḍalābhāsam) and illuminating the whole sky with its own radiance (sva-bhāsā bhāsayan nabhaḥ), that discus, resembling the wheel of Time (kāla-cakra-nibham), sheared off the head of Mālī (māleḥ śīrṣam apātayat).
+**42:** Gleaming like the orb of the sun (_sūrya-maṇḍalābhāsam_) and illuminating the whole sky with its own radiance (_sva-bhāsā bhāsayan nabhaḥ_), that discus, resembling the wheel of Time (_kāla-cakra-nibham_), sheared off the head of Mālī (_māleḥ śīrṣam apātayat_).
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ Mālī's severed head plunges bleeding like Rāhu's of old as the gods roar appl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Severed by the discus (cakrotkṛttam) and dreadful to behold (bibhīṣaṇam), that head of the rākṣasa chief fell down gushing blood (rudhirodgāri), even as the head of Rāhu fell in ages past (purā rāhu-śiro yathā).
+Severed by the discus (_cakrotkṛttam_) and dreadful to behold (_bibhīṣaṇam_), that head of the rākṣasa chief fell down gushing blood (_rudhirodgāri_), even as the head of Rāhu fell in ages past (_purā rāhu-śiro yathā_).
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ Severed by the discus (cakrotkṛttam) and dreadful to behold (bibhīṣaṇam),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the overjoyed gods (suraiḥ saṃsahṛṣṭaiḥ), crying ‘Well done, O Lord!’ (sādhu deveti vādibhiḥ), sent up a lion-roar of triumph (siṃha-nāda-ravonmuktaḥ), poured forth with all their breath (sarva-prāṇa-samīritaḥ).
+Thereupon the overjoyed gods (_suraiḥ saṃsahṛṣṭaiḥ_), crying ‘Well done, O Lord!’ (_sādhu deveti vādibhiḥ_), sent up a lion-roar of triumph (_siṃha-nāda-ravonmuktaḥ_), poured forth with all their breath (_sarva-prāṇa-samīritaḥ_).
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ Thereupon the overjoyed gods (suraiḥ saṃsahṛṣṭaiḥ), crying ‘Well d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Mālī slain (mālinaṃ nihataṃ dṛṣṭvā), both Sumālī and Mālyavān, scorched by grief (śoka-santaptau), fled with their armies straight back toward Laṅkā (laṅkām eva pradhāvitau).
+Beholding Mālī slain (_mālinaṃ nihataṃ dṛṣṭvā_), both Sumālī and Mālyavān, scorched by grief (_śoka-santaptau_), fled with their armies straight back toward Laṅkā (_laṅkām eva pradhāvitau_).
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ Beholding Mālī slain (mālinaṃ nihataṃ dṛṣṭvā), both Sumālī and M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile Garuḍa, regaining his composure (samāśvastaḥ) and wheeling back as before (sannivṛtya yathā purā), grew wrathful (kopitaḥ) and scattered the rākṣasas with the gale of his wings (pakṣa-vātena).
+Meanwhile Garuḍa, regaining his composure (_samāśvastaḥ_) and wheeling back as before (_sannivṛtya yathā purā_), grew wrathful (_kopitaḥ_) and scattered the rākṣasas with the gale of his wings (_pakṣa-vātena_).
 </details>
 </details>
 
@@ -1433,7 +1433,7 @@ Meanwhile Garuḍa, regaining his composure (samāśvastaḥ) and wheeling back 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their lotus-faces sheared off by the discus (cakra-kṛttāsya-kamalāḥ), their chests pulverized by the mace (gadā-sañcūrṇitorasaḥ), their necks crushed by the ploughshare (lāṅgala-glapita-grīvāḥ), and their skulls shattered by pestles (musalair bhinna-mastakāḥ)—
+Their lotus-faces sheared off by the discus (_cakra-kṛttāsya-kamalāḥ_), their chests pulverized by the mace (_gadā-sañcūrṇitorasaḥ_), their necks crushed by the ploughshare (_lāṅgala-glapita-grīvāḥ_), and their skulls shattered by pestles (_musalair bhinna-mastakāḥ_)—
 </details>
 </details>
 
@@ -1464,7 +1464,7 @@ Their lotus-faces sheared off by the discus (cakra-kṛttāsya-kamalāḥ), thei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—some hewn apart by the sword (asinā chinnāḥ) and others riddled by arrows (śara-pīḍitāḥ), those rākṣasas plunged swiftly from the sky into the waters of the ocean (nipetur ambarāt tūrṇaṃ sāgarāmbhasi).
+—some hewn apart by the sword (_asinā chinnāḥ_) and others riddled by arrows (_śara-pīḍitāḥ_), those rākṣasas plunged swiftly from the sky into the waters of the ocean (_nipetur ambarāt tūrṇaṃ sāgarāmbhasi_).
 </details>
 </details>
 
@@ -1506,7 +1506,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With bow-loosed thunderbolts of choicest arrows (bāṇa-varāśanībhiḥ), Nārāyaṇa tore apart the night-rovers with their loosened, disheveled hair (mukta-vidhūta-keśān), even as lightning-wreathed storm-clouds (sa-taḍin-mahābhrāḥ) rend with thunderbolts.
+With bow-loosed thunderbolts of choicest arrows (_bāṇa-varāśanībhiḥ_), Nārāyaṇa tore apart the night-rovers with their loosened, disheveled hair (_mukta-vidhūta-keśān_), even as lightning-wreathed storm-clouds (_sa-taḍin-mahābhrāḥ_) rend with thunderbolts.
 </details>
 </details>
 
@@ -1541,7 +1541,7 @@ With bow-loosed thunderbolts of choicest arrows (bāṇa-varāśanībhiḥ), Nā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Its parasols shattered (bhinnātapatram), its missiles tumbling down (patamānam astram), its orderly attire stripped away by arrows (apadhvasta-vinīta-veṣam), with entrails spilling out (vinissṛtāntram) and eyes rolling in terror (bhaya-lola-netram), that army grew utterly frenzied (unmattataram).
+Its parasols shattered (_bhinnātapatram_), its missiles tumbling down (_patamānam astram_), its orderly attire stripped away by arrows (_apadhvasta-vinīta-veṣam_), with entrails spilling out (_vinissṛtāntram_) and eyes rolling in terror (_bhaya-lola-netram_), that army grew utterly frenzied (_unmattataram_).
 </details>
 </details>
 
@@ -1576,7 +1576,7 @@ Its parasols shattered (bhinnātapatram), its missiles tumbling down (patamānam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alike in pitch and panic (samaṃ babhūvuḥ) were the cries and stampedes (ravāś ca vegāś ca) of the night-rovers and their elephants—crushed by the Primeval Lion (purāṇa-siṃhena vimarditānām)—and those of elephants mauled by a lion (siṃhārditānām).
+Alike in pitch and panic (_samaṃ babhūvuḥ_) were the cries and stampedes (_ravāś ca vegāś ca_) of the night-rovers and their elephants—crushed by the Primeval Lion (_purāṇa-siṃhena vimarditānām_)—and those of elephants mauled by a lion (_siṃhārditānām_).
 </details>
 </details>
 
@@ -1611,7 +1611,7 @@ Alike in pitch and panic (samaṃ babhūvuḥ) were the cries and stampedes (rav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hemmed in by dense nets of Hari's arrows (hari-bāṇa-jālaiḥ) and flinging aside their own bundles of shafts (sa-bāṇa-jālāni samutsṛjantaḥ), those night-rover storm-clouds (naktañcara-kāla-meghāḥ) fled like dark rain-clouds rent apart by the wind (vāyu-prabhinnāḥ).
+Hemmed in by dense nets of Hari&#x27;s arrows (_hari-bāṇa-jālaiḥ_) and flinging aside their own bundles of shafts (_sa-bāṇa-jālāni samutsṛjantaḥ_), those night-rover storm-clouds (_naktañcara-kāla-meghāḥ_) fled like dark rain-clouds rent apart by the wind (_vāyu-prabhinnāḥ_).
 </details>
 </details>
 
@@ -1646,7 +1646,7 @@ Hemmed in by dense nets of Hari's arrows (hari-bāṇa-jālaiḥ) and flinging a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their heads lopped off by discus-blows (cakra-prahārair vinikṛtta-śīrṣāḥ), their limbs pulverized by mace-strokes (gadā-prahāraiḥ), and cloven in twain by fierce onslaughts (abhiprahārair dvividhā vibhinnāḥ), the rākṣasa chiefs crashed down like mountains (patanti śailā iva).
+Their heads lopped off by discus-blows (_cakra-prahārair vinikṛtta-śīrṣāḥ_), their limbs pulverized by mace-strokes (_gadā-prahāraiḥ_), and cloven in twain by fierce onslaughts (_abhiprahārair dvividhā vibhinnāḥ_), the rākṣasa chiefs crashed down like mountains (_patanti śailā iva_).
 </details>
 </details>
 
@@ -1681,7 +1681,7 @@ Their heads lopped off by discus-blows (cakra-prahārair vinikṛtta-śīrṣā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With those night-rovers resembling dark blue clouds (nīla-balāhakopamaiḥ), their jeweled necklaces and earrings dangling loose (vilambamānair maṇi-hāra-kuṇḍalaiḥ), falling ceaselessly like felled blue mountains (nipātyamānair iva nīla-parvataiḥ), the expanse appeared seamlessly strewn (dadṛśe nirantaram).
+With those night-rovers resembling dark blue clouds (_nīla-balāhakopamaiḥ_), their jeweled necklaces and earrings dangling loose (_vilambamānair maṇi-hāra-kuṇḍalaiḥ_), falling ceaselessly like felled blue mountains (_nipātyamānair iva nīla-parvataiḥ_), the expanse appeared seamlessly strewn (_dadṛśe nirantaram_).
 </details>
 </details>
 

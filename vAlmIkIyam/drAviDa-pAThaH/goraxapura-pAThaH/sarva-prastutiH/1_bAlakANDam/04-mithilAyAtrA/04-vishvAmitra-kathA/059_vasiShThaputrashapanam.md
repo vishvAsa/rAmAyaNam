@@ -75,7 +75,7 @@ and who in reality attained a state of profaner." Thus Sage Shataananda continue
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the king, who had visibly passed into the state of a Caṇḍāla (sākṣāc caṇḍālatāṃ gatam), had spoken thus (uktavākyam), the son of Kuśika (kuśikātmajaḥ), moved by compassion (kṛpayā), spoke these sweet words:
+When the king, who had visibly passed into the state of a Caṇḍāla (_sākṣāc caṇḍālatāṃ gatam_), had spoken thus (_uktavākyam_), the son of Kuśika (_kuśikātmajaḥ_), moved by compassion (_kṛpayā_), spoke these sweet words:
 </details>
 </details>
 
@@ -130,7 +130,7 @@ king. Oh, the best king, you need not be dismayed, for I accord you haven. [1-59
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Welcome, my child, O scion of Ikṣvāku (ikṣvāko svāgataṃ vatsa)! I know you to be supremely righteous (jānāmi tvāṃ sudhārmikam). I shall grant you refuge (śaraṇaṃ te pradāsyāmi); do not fear, O bull among kings (mā bhaiṣīr nṛpapuṃgava)!
+“Welcome, my child, O scion of Ikṣvāku (_ikṣvāko svāgataṃ vatsa_)! I know you to be supremely righteous (_jānāmi tvāṃ sudhārmikam_). I shall grant you refuge (_śaraṇaṃ te pradāsyāmi_); do not fear, O bull among kings (_mā bhaiṣīr nṛpapuṃgava_)!
 </details>
 </details>
 
@@ -175,7 +175,7 @@ then you can perform the ritual self-composedly. [1-59-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall invite all the great sages of meritorious deeds (sarvān maharṣīn puṇyakarmaṇaḥ) who will assist in the sacrifice (yajñasāhyakarān), O King; then you shall perform your sacrifice in peace and joy (tato yakṣyasi nirvṛtaḥ).
+“I shall invite all the great sages of meritorious deeds (_sarvān maharṣīn puṇyakarmaṇaḥ_) who will assist in the sacrifice (_yajñasāhyakarān_), O King; then you shall perform your sacrifice in peace and joy (_tato yakṣyasi nirvṛtaḥ_).
 </details>
 </details>
 
@@ -239,9 +239,9 @@ Vishvamitra and sought shelter.' Thus Vishvamitra solaced Trishanku. [1-59-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “This form wrought by your preceptors’ curse which now abides in you (guruśāpakṛtaṃ rūpaṃ yad idaṃ tvayi vartate)—together with this very form (anena saha rūpeṇa), you shall ascend to heaven in your body (saśarīro gamiṣyasi)!
+**4:** “This form wrought by your preceptors’ curse which now abides in you (_guruśāpakṛtaṃ rūpaṃ yad idaṃ tvayi vartate_)—together with this very form (_anena saha rūpeṇa_), you shall ascend to heaven in your body (_saśarīro gamiṣyasi_)!
 
-**5:** “I deem heaven to be already within the grasp of your hand (hastaprāptam ahaṃ manye svargaṃ tava), O lord of men, since you have come unto Kauśika, the true giver of shelter, seeking refuge (śaraṇyaṃ śaraṇāgataḥ).”
+**5:** “I deem heaven to be already within the grasp of your hand (_hastaprāptam ahaṃ manye svargaṃ tava_), O lord of men, since you have come unto Kauśika, the true giver of shelter, seeking refuge (_śaraṇyaṃ śaraṇāgataḥ_).”
 </details>
 </details>
 
@@ -287,7 +287,7 @@ brilliant sons to organise the arrangements for the ritual. [1-59-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that sage of great splendour (mahātejāḥ) commanded his supremely righteous and deeply wise sons (putrān paramadhārmikān mahāprājñān) to assemble the requisites for the sacrifice (yajñasambhārakāraṇāt).
+Having spoken thus, that sage of great splendour (_mahātejāḥ_) commanded his supremely righteous and deeply wise sons (_putrān paramadhārmikān mahāprājñān_) to assemble the requisites for the sacrifice (_yajñasambhārakāraṇāt_).
 </details>
 </details>
 
@@ -353,7 +353,7 @@ of rituals at my order.' [1-59-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Summoning all his disciples (sarvān śiṣyān samāhūya), he spoke these words: “By my command, bring hither all the sages together with the descendants of Vasiṣṭha (sarvān ṛṣīn savāsiṣṭhān ānayadhvaṃ mamājñayā),
+Summoning all his disciples (_sarvān śiṣyān samāhūya_), he spoke these words: “By my command, bring hither all the sages together with the descendants of Vasiṣṭha (_sarvān ṛṣīn savāsiṣṭhān ānayadhvaṃ mamājñayā_),
 </details>
 </details>
 
@@ -400,7 +400,7 @@ word it may be, all that is to be reported to me, whatever it is.' Thus Vishvami
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“along with their disciples, their friends, and their deeply learned officiating priests (saśiṣyān suhṛdaś caiva sartvijaḥ subahuśrutān). And whatever word anyone may utter when impelled by the authority of my message (madvākyabalacoditaḥ),
+“along with their disciples, their friends, and their deeply learned officiating priests (_saśiṣyān suhṛdaś caiva sartvijaḥ subahuśrutān_). And whatever word anyone may utter when impelled by the authority of my message (_madvākyabalacoditaḥ_),
 </details>
 </details>
 
@@ -469,9 +469,9 @@ words spoken by all the Vedic scholars. [1-59-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “all that is spoken, even if disrespectful or dismissive (anādṛtam), must be reported to me in its entirety (tat sarvam akhilenoktaṃ mamākhyeyam).” Hearing those words of his, they departed in all directions at his command.
+**9:** “all that is spoken, even if disrespectful or dismissive (_anādṛtam_), must be reported to me in its entirety (_tat sarvam akhilenoktaṃ mamākhyeyam_).” Hearing those words of his, they departed in all directions at his command.
 
-**10:** Then expounders of the Veda arrived from all lands (ājagmur atha deśebhyaḥ sarvebhyo brahmavādinaḥ); and those disciples, returning unto the sage of blazing splendour (muniṃ jvalitatejasam),
+**10:** Then expounders of the Veda arrived from all lands (_ājagmur atha deśebhyaḥ sarvebhyo brahmavādinaḥ_); and those disciples, returning unto the sage of blazing splendour (_muniṃ jvalitatejasam_),
 </details>
 </details>
 
@@ -517,7 +517,7 @@ come, leaving alone Mahodaya, the son of Vashishta.' Thus, the disciples have st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-reported the entire response of all the Vedic sages (ūcuś ca vacanaṃ sarvaṃ sarveṣāṃ brahmavādinām): “Hearing your message, all the twice-born sages are coming hither (śrutvā te vacanaṃ sarve samāyānti dvijātayaḥ);
+reported the entire response of all the Vedic sages (_ūcuś ca vacanaṃ sarvaṃ sarveṣāṃ brahmavādinām_): “Hearing your message, all the twice-born sages are coming hither (_śrutvā te vacanaṃ sarve samāyānti dvijātayaḥ_);
 </details>
 </details>
 
@@ -570,7 +570,7 @@ sage, and what all they have said that you may please listen. [1-59-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and from all regions they have come, excepting Mahodaya (varjayitvā mahodayam) and the entire hundred sons of Vasiṣṭha (vāsiṣṭhaṃ yac chataṃ sarvam), whose syllables were choked with wrath (krodhaparyākulākṣaram)—
+“and from all regions they have come, excepting Mahodaya (_varjayitvā mahodayam_) and the entire hundred sons of Vasiṣṭha (_vāsiṣṭhaṃ yac chataṃ sarvam_), whose syllables were choked with wrath (_krodhaparyākulākṣaram_)—
 </details>
 </details>
 
@@ -649,9 +649,9 @@ to heaven even after their demise, partaking of the food of a profaner? [1-59-14
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “hear in full, O bull among sages, how they spoke: ‘Where a Kṣatriya is the officiating priest (kṣatriyo yājako yasya), and that too specifically for a Caṇḍāla (caṇḍālasya viśeṣataḥ),
+**13:** “hear in full, O bull among sages, how they spoke: ‘Where a Kṣatriya is the officiating priest (_kṣatriyo yājako yasya_), and that too specifically for a Caṇḍāla (_caṇḍālasya viśeṣataḥ_),
 
-**14:** “‘how in that sacrificial assembly shall the gods and sages partake of his oblation (kathaṃ sadasi bhoktāro havis tasya surarṣayaḥ)? Or how shall high-souled Brahmins, having eaten the food of a Caṇḍāla (bhuktvā cāṇḍālabhojanam),
+**14:** “‘how in that sacrificial assembly shall the gods and sages partake of his oblation (_kathaṃ sadasi bhoktāro havis tasya surarṣayaḥ_)? Or how shall high-souled Brahmins, having eaten the food of a Caṇḍāla (_bhuktvā cāṇḍālabhojanam_),
 </details>
 </details>
 
@@ -706,7 +706,7 @@ with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘ascend to heaven, protected by Viśvāmitra (kathaṃ svargaṃ gamiṣyanti viśvāmitreṇa pālitāḥ)?’ Such were the harsh words (etad vacananaiṣṭhuryam) that they spoke with bloodshot eyes (saṃraktalocanāḥ),
+“‘ascend to heaven, protected by Viśvāmitra (_kathaṃ svargaṃ gamiṣyanti viśvāmitreṇa pālitāḥ_)?’ Such were the harsh words (_etad vacananaiṣṭhuryam_) that they spoke with bloodshot eyes (_saṃraktalocanāḥ_),
 </details>
 </details>
 
@@ -751,7 +751,7 @@ said this rancorously with bloodshot eyes. [1-59-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“all the sons of Vasiṣṭha together with Mahodaya (vāsiṣṭhāḥ sarve sahamahodayāḥ), O tiger among sages!” Hearing those words of them all, the bull among sages (Viśvāmitra),
+“all the sons of Vasiṣṭha together with Mahodaya (_vāsiṣṭhāḥ sarve sahamahodayāḥ_), O tiger among sages!” Hearing those words of them all, the bull among sages (Viśvāmitra),
 </details>
 </details>
 
@@ -807,7 +807,7 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-his eyes reddened with wrath (krodhasaṃraktanayanaḥ), angrily spoke thus: “Since they revile me who am blameless and steadfast in fierce asceticism (yad dūṣayanty aduṣṭaṃ māṃ tapa ugraṃ samāsthitam),
+his eyes reddened with wrath (_krodhasaṃraktanayanaḥ_), angrily spoke thus: “Since they revile me who am blameless and steadfast in fierce asceticism (_yad dūṣayanty aduṣṭaṃ māṃ tapa ugraṃ samāsthitam_),
 </details>
 </details>
 
@@ -887,9 +887,9 @@ deformed beings in the ruthless sect of Mustika-s that always feed on dog's fles
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “those evil-souled ones shall without doubt be reduced to ashes (bhasmībhūtā durātmāno bhaviṣyanti na saṃśayaḥ)! Led away today by the noose of Death to the abode of Vaivasvata Yama (adya te kālapāśena nītā vaivasvatakṣayam),
+**18:** “those evil-souled ones shall without doubt be reduced to ashes (_bhasmībhūtā durātmāno bhaviṣyanti na saṃśayaḥ_)! Led away today by the noose of Death to the abode of Vaivasvata Yama (_adya te kālapāśena nītā vaivasvatakṣayam_),
 
-**19:** “for seven hundred births (saptajātiśatāny eva) let them be born as gatherers of corpse-shrouds (mṛtapāḥ sambhavantu te)—pitiless outcastes named Muṣṭikas (muṣṭikā nāma nirghṛṇāḥ), whose constant diet is dog’s flesh (śvamāṃsaniyatāhārāḥ)!
+**19:** “for seven hundred births (_saptajātiśatāny eva_) let them be born as gatherers of corpse-shrouds (_mṛtapāḥ sambhavantu te_)—pitiless outcastes named Muṣṭikas (_muṣṭikā nāma nirghṛṇāḥ_), whose constant diet is dog’s flesh (_śvamāṃsaniyatāhārāḥ_)!
 </details>
 </details>
 
@@ -955,9 +955,9 @@ through a worst possible living for a long time. [1-59-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Deformed in conduct and hideous in form (vikṛtāś ca virūpāś ca), let them wander through these worlds (lokān anucarantv imān)! And since the evil-minded Mahodaya reviled me who am beyond reproach (mahodayaś ca durbuddhir mām adūṣyaṃ hy adūṣayat),
+**20:** “Deformed in conduct and hideous in form (_vikṛtāś ca virūpāś ca_), let them wander through these worlds (_lokān anucarantv imān_)! And since the evil-minded Mahodaya reviled me who am beyond reproach (_mahodayaś ca durbuddhir mām adūṣyaṃ hy adūṣayat_),
 
-**21:** “condemned across all the worlds (dūṣitaḥ sarvalokeṣu), he shall pass into the state of a Niṣāda hunter (niṣādatvaṃ gamiṣyati)! Addicted to the slaughter of living beings (prāṇātipātanirataḥ) and sunk into utter pitilessness (niranukrośatāṃ gataḥ),
+**21:** “condemned across all the worlds (_dūṣitaḥ sarvalokeṣu_), he shall pass into the state of a Niṣāda hunter (_niṣādatvaṃ gamiṣyati_)! Addicted to the slaughter of living beings (_prāṇātipātanirataḥ_) and sunk into utter pitilessness (_niranukrośatāṃ gataḥ_),
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ come at the cost of their Brahman-hood.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“for a long time through my wrath he shall endure a wretched existence (dīrghakālaṃ mama krodhād durgatiṃ vartayiṣyati)!” Having spoken thus much (etāvad uktvā vacanam), the great ascetic Viśvāmitra of mighty splendour ceased speaking in the midst of the sages (virarāma mahātejā ṛṣimadhye mahāmuniḥ).
+“for a long time through my wrath he shall endure a wretched existence (_dīrghakālaṃ mama krodhād durgatiṃ vartayiṣyati_)!” Having spoken thus much (_etāvad uktvā vacanam_), the great ascetic Viśvāmitra of mighty splendour ceased speaking in the midst of the sages (_virarāma mahātejā ṛṣimadhye mahāmuniḥ_).
 </details>
 </details>
 

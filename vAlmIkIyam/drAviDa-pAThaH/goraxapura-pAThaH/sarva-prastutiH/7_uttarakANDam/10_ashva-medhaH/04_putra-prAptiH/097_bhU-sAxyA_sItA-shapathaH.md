@@ -48,7 +48,7 @@ With joined palms, Rāma affirms Vālmīki’s words, asks pardon for having ban
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Vālmīki (vālmīkinaivam uktaḥ), Rāghava looked upon that fair-complexioned lady (dṛṣṭvā tāṃ varavarṇinīm) and replied with joined palms (prāñjaliḥ) in the midst of the world (jagato madhye):
+Addressed thus by Vālmīki (_vālmīkinaivam uktaḥ_), Rāghava looked upon that fair-complexioned lady (_dṛṣṭvā tāṃ varavarṇinīm_) and replied with joined palms (_prāñjaliḥ_) in the midst of the world (_jagato madhye_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Addressed thus by Vālmīki (vālmīkinaivam uktaḥ), Rāghava looked upon that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even so is it, O greatly blessed knower of dharma (evam etan mahābhāga yathā vadasi dharmavit); indeed, conviction has arisen in me, O brahmin, through your stainless words (pratyayas tu mama brahmaṃs tava vākyair akalmaṣaiḥ).
+“Even so is it, O greatly blessed knower of dharma (_evam etan mahābhāga yathā vadasi dharmavit_); indeed, conviction has arisen in me, O brahmin, through your stainless words (_pratyayas tu mama brahmaṃs tava vākyair akalmaṣaiḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Addressed thus by Vālmīki (vālmīkinaivam uktaḥ), Rāghava looked upon that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Proof was indeed given of old by Vaidehī in the presence of the gods (pratyayas tu purā vṛtto vaidehyāḥ surasannidhau); an oath was sworn there, and thereby she was brought into my palace (tena veśma praveśitā). Yet public calumny is mighty (lokāpavādo balavān), by which Maithilī was cast away.
+“Proof was indeed given of old by Vaidehī in the presence of the gods (_pratyayas tu purā vṛtto vaidehyāḥ surasannidhau_); an oath was sworn there, and thereby she was brought into my palace (_tena veśma praveśitā_). Yet public calumny is mighty (_lokāpavādo balavān_), by which Maithilī was cast away.
 </details>
 </details>
 
@@ -143,7 +143,7 @@ Addressed thus by Vālmīki (vālmīkinaivam uktaḥ), Rāghava looked upon that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of fear of the world (lokabhayāt), O brahmin, this Sītā was abandoned by me even while knowing her to be guiltless (apāpety abhijānatā); therefore you ought to forgive me (tad bhavān kṣantum arhati).
+“Out of fear of the world (_lokabhayāt_), O brahmin, this Sītā was abandoned by me even while knowing her to be guiltless (_apāpety abhijānatā_); therefore you ought to forgive me (_tad bhavān kṣantum arhati_).
 </details>
 </details>
 
@@ -177,7 +177,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know too that these twin-born Kuśīlavas are my sons (jānāmi cemau putrau me yamajātau kuśīlavau); once Maithilī is proven pure in the midst of the world (śuddhāyāṃ jagato madhye maithilyām), let my love abide in her (prītir astu me).”
+“I know too that these twin-born Kuśīlavas are my sons (_jānāmi cemau putrau me yamajātau kuśīlavau_); once Maithilī is proven pure in the midst of the world (_śuddhāyāṃ jagato madhye maithilyām_), let my love abide in her (_prītir astu me_).”
 </details>
 </details>
 
@@ -210,7 +210,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Understanding that intent of Rāma (abhiprāyaṃ tu vijñāya rāmasya), the foremost of gods—mighty-splendored Indra and the rest (mahendrādyā mahaujasaḥ)—all assembled at that oath of Sītā, placing Grandfather Brahmā at their head (pitāmahaṃ puraskṛtya).
+Understanding that intent of Rāma (_abhiprāyaṃ tu vijñāya rāmasya_), the foremost of gods—mighty-splendored Indra and the rest (_mahendrādyā mahaujasaḥ_)—all assembled at that oath of Sītā, placing Grandfather Brahmā at their head (_pitāmahaṃ puraskṛtya_).
 </details>
 </details>
 
@@ -258,9 +258,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** The Ādityas, Vasus, Rudras, the twin Aśvins together with the Marut hosts (hyaśvinau sa-marudgaṇāḥ), and Gandharvas and Apsarases too—all of them assembled there.
+**7:** The Ādityas, Vasus, Rudras, the twin Aśvins together with the Marut hosts (_hyaśvinau sa-marudgaṇāḥ_), and Gandharvas and Apsarases too—all of them assembled there.
 
-**8:** The Sādhyas, the Viśvedevas, and all the supreme sages (paramarṣayaḥ), Nāgas, Suparṇas, and Siddhas—all with gladdened hearts (hṛṣṭamānasāḥ), stirred with eager haste at Sītā’s oath (sītā-śapatha-sambhrāntāḥ), assembled there.
+**8:** The Sādhyas, the Viśvedevas, and all the supreme sages (_paramarṣayaḥ_), Nāgas, Suparṇas, and Siddhas—all with gladdened hearts (_hṛṣṭamānasāḥ_), stirred with eager haste at Sītā’s oath (_sītā-śapatha-sambhrāntāḥ_), assembled there.
 </details>
 </details>
 
@@ -293,9 +293,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Beholding the gods and sages, Rāghava spoke once more: “O foremost of men (naraśreṣṭhāḥ), conviction is mine through the stainless words of the sage; let my love abide in Vaidehī once she is proven pure in the midst of the world.”
+**9:** Beholding the gods and sages, Rāghava spoke once more: “O foremost of men (_naraśreṣṭhāḥ_), conviction is mine through the stainless words of the sage; let my love abide in Vaidehī once she is proven pure in the midst of the world.”
 
-**10:** Then a blessed, sacred, divinely fragrant, enchanting breeze (vāyuḥ śubhaḥ puṇyo divyagandho manoramaḥ), foremost among gods (suraśreṣṭhaḥ), gladdened that whole throng on every side (hlādayāmāsa sarvataḥ).
+**10:** Then a blessed, sacred, divinely fragrant, enchanting breeze (_vāyuḥ śubhaḥ puṇyo divyagandho manoramaḥ_), foremost among gods (_suraśreṣṭhaḥ_), gladdened that whole throng on every side (_hlādayāmāsa sarvataḥ_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The human beings gathered from all realms (mānavāḥ sarvarāṣṭrebhyaḥ) gazed upon that unthinkable marvel (tad adbhutam ivācintyam), as in the Kṛta Yuga of old (pūrvaṃ kṛtayuge yathā).
+The human beings gathered from all realms (_mānavāḥ sarvarāṣṭrebhyaḥ_) gazed upon that unthinkable marvel (_tad adbhutam ivācintyam_), as in the Kṛta Yuga of old (_pūrvaṃ kṛtayuge yathā_).
 </details>
 </details>
 
@@ -357,7 +357,7 @@ The human beings gathered from all realms (mānavāḥ sarvarāṣṭrebhyaḥ) 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding all those assembled, Sītā, clad in ochre garments (kāṣāya-vāsinī), spoke these words with joined palms, eyes cast down and face lowered (adhodṛṣṭir avāṅmukhī):
+Beholding all those assembled, Sītā, clad in ochre garments (_kāṣāya-vāsinī_), spoke these words with joined palms, eyes cast down and face lowered (_adhodṛṣṭir avāṅmukhī_):
 </details>
 </details>
 
@@ -396,7 +396,7 @@ Three times Sītā invokes Goddess Earth by her single-minded devotion to Rāma 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inasmuch as I do not think even in my mind of anyone other than Rāghava (yathā ’haṃ rāghavād anyaṃ manasāpi na cintaye), by that truth let Goddess Mādhavī [Earth] grant me an opening (tathā me mādhavī devī vivaraṃ dātum arhati).
+“Inasmuch as I do not think even in my mind of anyone other than Rāghava (_yathā ’haṃ rāghavād anyaṃ manasāpi na cintaye_), by that truth let Goddess Mādhavī [Earth] grant me an opening (_tathā me mādhavī devī vivaraṃ dātum arhati_).
 </details>
 </details>
 
@@ -427,7 +427,7 @@ Three times Sītā invokes Goddess Earth by her single-minded devotion to Rāma 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inasmuch as in mind, deed, and speech I worship Rāma alone (manasā karmaṇā vācā yathā rāmaṃ samarcaye), by that truth let Goddess Mādhavī grant me an opening.
+“Inasmuch as in mind, deed, and speech I worship Rāma alone (_manasā karmaṇā vācā yathā rāmaṃ samarcaye_), by that truth let Goddess Mādhavī grant me an opening.
 </details>
 </details>
 
@@ -461,7 +461,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inasmuch as this truth has been spoken by me—that I know none higher than Rāma (vedmi rāmāt paraṃ na ca)—by that truth let Goddess Mādhavī grant me an opening.”
+“Inasmuch as this truth has been spoken by me—that I know none higher than Rāma (_vedmi rāmāt paraṃ na ca_)—by that truth let Goddess Mādhavī grant me an opening.”
 </details>
 </details>
 
@@ -492,7 +492,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Vaidehī was swearing thus (tathā śapantyāṃ vaidehyām), that marvel manifested (prādurāsīt tad adbhutam): rising from the surface of the earth (bhūtalād utthitam), a peerless divine throne (divyaṃ siṃhāsanam anuttamam),
+Even as Vaidehī was swearing thus (_tathā śapantyāṃ vaidehyām_), that marvel manifested (_prādurāsīt tad adbhutam_): rising from the surface of the earth (_bhūtalād utthitam_), a peerless divine throne (_divyaṃ siṃhāsanam anuttamam_),
 </details>
 </details>
 
@@ -523,7 +523,7 @@ Even as Vaidehī was swearing thus (tathā śapantyāṃ vaidehyām), that marve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-borne aloft upon the heads of nāgas of boundless prowess (dhriyamāṇaṃ śirobhis tu nāgair amitavikramaiḥ), resplendent with a celestial form (divyaṃ divyena vapuṣā), [the nāgas] adorned with heavenly gems (divyaratna-vibhūṣitaiḥ).
+borne aloft upon the heads of nāgas of boundless prowess (_dhriyamāṇaṃ śirobhis tu nāgair amitavikramaiḥ_), resplendent with a celestial form (_divyaṃ divyena vapuṣā_), [the nāgas] adorned with heavenly gems (_divyaratna-vibhūṣitaiḥ_).
 </details>
 </details>
 
@@ -565,7 +565,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Goddess Dharaṇī [Earth], taking Maithilī in both her arms (bāhubhyāṃ gṛhya maithilīm) and greeting her with a loving welcome (svāgatenābhinandyainām), seated her upon that throne (tasmiṃs tu ... āsane copaveśayat).
+Then Goddess Dharaṇī [Earth], taking Maithilī in both her arms (_bāhubhyāṃ gṛhya maithilīm_) and greeting her with a loving welcome (_svāgatenābhinandyainām_), seated her upon that throne (_tasmiṃs tu ... āsane copaveśayat_).
 </details>
 </details>
 
@@ -596,7 +596,7 @@ Then Goddess Dharaṇī [Earth], taking Maithilī in both her arms (bāhubhyā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her seated upon the throne and descending into Rasātala (tām āsanagatāṃ dṛṣṭvā praviśantīṃ rasātalam), an unbroken celestial shower of flowers (puṣpavṛṣṭir avicchinnā divyā) rained down upon Sītā (sītām avākirat).
+Beholding her seated upon the throne and descending into Rasātala (_tām āsanagatāṃ dṛṣṭvā praviśantīṃ rasātalam_), an unbroken celestial shower of flowers (_puṣpavṛṣṭir avicchinnā divyā_) rained down upon Sītā (_sītām avākirat_).
 </details>
 </details>
 
@@ -627,7 +627,7 @@ Beholding her seated upon the throne and descending into Rasātala (tām āsanag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And a mighty acclaim of “Well done!” burst forth suddenly from the gods (sādhukāraś ca sumahān devānāṃ sahasotthitaḥ): “Bravo, bravo, O Sītā, whose purity of conduct is such as this (yasyās te śīlam īdṛśam)!”
+And a mighty acclaim of “Well done!” burst forth suddenly from the gods (_sādhukāraś ca sumahān devānāṃ sahasotthitaḥ_): “Bravo, bravo, O Sītā, whose purity of conduct is such as this (_yasyās te śīlam īdṛśam_)!”
 </details>
 </details>
 
@@ -658,7 +658,7 @@ And a mighty acclaim of “Well done!” burst forth suddenly from the gods (sā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uttering manifold words such as these (evaṃ bahuvidhā vāco ... vyājahruḥ), the gods stationed in the firmament (antarikṣa-gatāḥ surāḥ) spoke with gladdened hearts (hṛṣṭamanasaḥ), beholding Sītā’s entry (dṛṣṭvā sītā-praveśanam).
+Uttering manifold words such as these (_evaṃ bahuvidhā vāco ... vyājahruḥ_), the gods stationed in the firmament (_antarikṣa-gatāḥ surāḥ_) spoke with gladdened hearts (_hṛṣṭamanasaḥ_), beholding Sītā’s entry (_dṛṣṭvā sītā-praveśanam_).
 </details>
 </details>
 
@@ -697,7 +697,7 @@ Sages and kings cannot cease from marveling, while all beings across sky, earth,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all those sages abiding in the sacrificial enclosure (yajñavāṭa-gatāś cāpi munayaḥ), as well as the kings, tigers among men (rājānaś ca naravyāghrāḥ), could not cease from wonder (vismayān noparemire).
+And all those sages abiding in the sacrificial enclosure (_yajñavāṭa-gatāś cāpi munayaḥ_), as well as the kings, tigers among men (_rājānaś ca naravyāghrāḥ_), could not cease from wonder (_vismayān noparemire_).
 </details>
 </details>
 
@@ -728,7 +728,7 @@ And all those sages abiding in the sacrificial enclosure (yajñavāṭa-gatāś 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the firmament and upon the earth, all beings stationary and moving (sarve sthāvara-jaṅgamāḥ), the huge-bodied Dānavas (dānavāś ca mahākāyāḥ), and the serpent-lords in Pātāla (pātāle pannagādhipāḥ)—
+In the firmament and upon the earth, all beings stationary and moving (_sarve sthāvara-jaṅgamāḥ_), the huge-bodied Dānavas (_dānavāś ca mahākāyāḥ_), and the serpent-lords in Pātāla (_pātāle pannagādhipāḥ_)—
 </details>
 </details>
 
@@ -762,7 +762,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-some shouted aloud in delight (kecid vineduḥ saṃhṛṣṭāḥ), some became absorbed in meditation (kecid dhyāna-parāyaṇāḥ), some gazed steadily upon Rāma (kecid rāmaṃ nirīkṣante), and some stared senseless at Sītā (kecit sītām acetanāḥ).
+some shouted aloud in delight (_kecid vineduḥ saṃhṛṣṭāḥ_), some became absorbed in meditation (_kecid dhyāna-parāyaṇāḥ_), some gazed steadily upon Rāma (_kecid rāmaṃ nirīkṣante_), and some stared senseless at Sītā (_kecit sītām acetanāḥ_).
 </details>
 </details>
 
@@ -796,7 +796,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sītā’s entry (sītā-praveśanaṃ dṛṣṭvā), such was the convergence of their feelings (teṣām āsīt samāgamaḥ); for a moment, as it were, the entire world stood utterly entranced (tan muhūrtam ivātyarthaṃ samaṃ sammohitaṃ jagat).
+Beholding Sītā’s entry (_sītā-praveśanaṃ dṛṣṭvā_), such was the convergence of their feelings (_teṣām āsīt samāgamaḥ_); for a moment, as it were, the entire world stood utterly entranced (_tan muhūrtam ivātyarthaṃ samaṃ sammohitaṃ jagat_).
 </details>
 </details>
 

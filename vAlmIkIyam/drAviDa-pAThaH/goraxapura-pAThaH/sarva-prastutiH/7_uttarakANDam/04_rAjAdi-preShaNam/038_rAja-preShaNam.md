@@ -48,7 +48,7 @@ Administering all affairs of city and countryside day by day, Rāma approaches K
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus dwelt the mighty-armed Rāghava day after day (evam āste mahābāhur ahany ahani rāghavaḥ), administering all affairs among the citizens of the capital and the people of the countryside (praśāsat sarvakāryāṇi paurajānapadeṣu ca).
+Thus dwelt the mighty-armed Rāghava day after day (_evam āste mahābāhur ahany ahani rāghavaḥ_), administering all affairs among the citizens of the capital and the people of the countryside (_praśāsat sarvakāryāṇi paurajānapadeṣu ca_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Thus dwelt the mighty-armed Rāghava day after day (evam āste mahābāhur ahany
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when a few days had elapsed (tataḥ katipayāhaḥsu), Rāghava stood with joined palms (rāghavaḥ prāñjalir bhūtvā) and spoke these words to Vaideha, the sovereign of Mithilā (vaidehaṃ mithilādhipam ... vākyam etad uvāca ha):
+Then, when a few days had elapsed (_tataḥ katipayāhaḥsu_), Rāghava stood with joined palms (_rāghavaḥ prāñjalir bhūtvā_) and spoke these words to Vaideha, the sovereign of Mithilā (_vaidehaṃ mithilādhipam ... vākyam etad uvāca ha_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then, when a few days had elapsed (tataḥ katipayāhaḥsu), Rāghava stood wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You indeed are our unwavering refuge (bhavān hi gatir avyagrā); by you have we ever been sustained and protected (bhavatā pālitā vayam), and through your fiery spiritual power alone (bhavatas tejasogreṇa) was Rāvaṇa slain by me (rāvaṇo nihato mayā).
+“You indeed are our unwavering refuge (_bhavān hi gatir avyagrā_); by you have we ever been sustained and protected (_bhavatā pālitā vayam_), and through your fiery spiritual power alone (_bhavatas tejasogreṇa_) was Rāvaṇa slain by me (_rāvaṇo nihato mayā_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Then, when a few days had elapsed (tataḥ katipayāhaḥsu), Rāghava stood wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Between all the Ikṣvākus and all the people of Mithilā (ikṣvākūṇāṃ ca sarveṣāṃ maithilānāṃ ca sarvaśaḥ) abide peerless bonds of affection, O King (atulāḥ prītayo rājan), led ever by our sacred tie of kinship (sambandhaka-purogamāḥ).
+“Between all the Ikṣvākus and all the people of Mithilā (_ikṣvākūṇāṃ ca sarveṣāṃ maithilānāṃ ca sarvaśaḥ_) abide peerless bonds of affection, O King (_atulāḥ prītayo rājan_), led ever by our sacred tie of kinship (_sambandhaka-purogamāḥ_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O ruler of the earth (pārthiva), deign to return to your own city taking these royal treasures (tad bhavān svapuraṃ yātu ratnāny ādāya), and Bharata shall follow behind you as your companion and escort (bharataś ca sahāyārthaṃ pṛṣṭhatas te ’nuyāsyati).”
+“Therefore, O ruler of the earth (_pārthiva_), deign to return to your own city taking these royal treasures (_tad bhavān svapuraṃ yātu ratnāny ādāya_), and Bharata shall follow behind you as your companion and escort (_bharataś ca sahāyārthaṃ pṛṣṭhatas te ’nuyāsyati_).”
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assenting with the words “So be it” (sa tatheti nṛpaḥ kṛtvā), that monarch addressed Rāghava (rāghavaṃ vākyam abravīt): “Delighted am I, O King (prīto ’smi bhavato rājan), both by the sight of you and by your righteous statesmanship (darśanena nayena ca).
+Assenting with the words “So be it” (_sa tatheti nṛpaḥ kṛtvā_), that monarch addressed Rāghava (_rāghavaṃ vākyam abravīt_): “Delighted am I, O King (_prīto ’smi bhavato rājan_), both by the sight of you and by your righteous statesmanship (_darśanena nayena ca_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Bestowing all the treasures gathered for him upon his daughter Sītā, King Jana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever treasures have been gathered here on my account (yāny etāni tu ratnāni madarthaṃ sañcitāni vai), all of them without exception I bestow upon my daughter, O King (duhitre tāni vai rājan sarvāṇy eva dadāmi ca)!”
+“Whatever treasures have been gathered here on my account (_yāny etāni tu ratnāni madarthaṃ sañcitāni vai_), all of them without exception I bestow upon my daughter, O King (_duhitre tāni vai rājan sarvāṇy eva dadāmi ca_)!”
 </details>
 </details>
 
@@ -276,7 +276,7 @@ Bestowing all the treasures gathered for him upon his daughter Sītā, King Jana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus unto the scion of Kakutstha (evam uktvā tu kākutstham), the illustrious Janaka, gladdened at heart (janako hṛṣṭamānasaḥ ... śrīmān), took leave of Rāghava (tam anujñāya rāghavam) and departed for Mithilā (prayayau mithilām).
+Having spoken thus unto the scion of Kakutstha (_evam uktvā tu kākutstham_), the illustrious Janaka, gladdened at heart (_janako hṛṣṭamānasaḥ ... śrīmān_), took leave of Rāghava (_tam anujñāya rāghavam_) and departed for Mithilā (_prayayau mithilām_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ Having spoken thus unto the scion of Kakutstha (evam uktvā tu kākutstham), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when Janaka had set forth (tataḥ prayāte janake), the sovereign Rāghava stood with joined palms (prabhuḥ rāghavaḥ prāñjalir bhūtvā) and spoke these words to his maternal uncle of Kekaya (kekayaṃ mātulam ... vākyam etad uvāca ha):
+Then, when Janaka had set forth (_tataḥ prayāte janake_), the sovereign Rāghava stood with joined palms (_prabhuḥ rāghavaḥ prāñjalir bhūtvā_) and spoke these words to his maternal uncle of Kekaya (_kekayaṃ mātulam ... vākyam etad uvāca ha_):
 </details>
 </details>
 
@@ -341,7 +341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This kingdom, myself as well, and Bharata together with Lakṣmaṇa (idaṃ rājyam ahaṃ caiva bharataś ca salakṣmaṇaḥ)—all of us depend upon you (āyattāḥ), for you indeed are our refuge, O King, O bull among men (tvaṃ hi no rājan gatiś ca puruṣarṣabha).
+“This kingdom, myself as well, and Bharata together with Lakṣmaṇa (_idaṃ rājyam ahaṃ caiva bharataś ca salakṣmaṇaḥ_)—all of us depend upon you (_āyattāḥ_), for you indeed are our refuge, O King, O bull among men (_tvaṃ hi no rājan gatiś ca puruṣarṣabha_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely the aged king will suffer anguish on your account (rājā hi vṛddhaḥ santāpaṃ tvadartham upayāsyati); therefore your departure this very day seems fitting to me, O lord of the earth (tasmād gamanam adyaiva rocate tava pārthiva).
+“Surely the aged king will suffer anguish on your account (_rājā hi vṛddhaḥ santāpaṃ tvadartham upayāsyati_); therefore your departure this very day seems fitting to me, O lord of the earth (_tasmād gamanam adyaiva rocate tava pārthiva_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You shall be escorted from behind by Lakṣmaṇa as your attendant (lakṣmaṇenānuyātreṇa pṛṣṭhato ’nugamiṣyate), taking with you abundant wealth and manifold precious gems (dhanam ādāya vipulaṃ ratnāni vividhāni ca).”
+“You shall be escorted from behind by Lakṣmaṇa as your attendant (_lakṣmaṇenānuyātreṇa pṛṣṭhato ’nugamiṣyate_), taking with you abundant wealth and manifold precious gems (_dhanam ādāya vipulaṃ ratnāni vividhāni ca_).”
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Declining the gifts so they may remain inexhaustible with Rāma, Yudhājit excha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yudhājit replied to Rāghava “So be it” with regard to his departure (yudhājit tu tathety āha gamanaṃ prati rāghavam), adding: “May these gems and wealth alike remain inexhaustible with you alone (ratnāni ca dhanaṃ caiva tvayy evākṣayyam astv iti)!”
+Yudhājit replied to Rāghava “So be it” with regard to his departure (_yudhājit tu tathety āha gamanaṃ prati rāghavam_), adding: “May these gems and wealth alike remain inexhaustible with you alone (_ratnāni ca dhanaṃ caiva tvayy evākṣayyam astv iti_)!”
 </details>
 </details>
 
@@ -473,7 +473,7 @@ Yudhājit replied to Rāghava “So be it” with regard to his departure (yudh�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That enhancer of Kekaya’s glory circumambulated the king (pradakṣiṇaṃ sa rājānaṃ kṛtvā kekayavardhanaḥ), having first been bowed to and circumambulated by Rāma himself (rāmeṇa hi kṛtaḥ pūrvam abhivādya pradakṣiṇam).
+That enhancer of Kekaya’s glory circumambulated the king (_pradakṣiṇaṃ sa rājānaṃ kṛtvā kekayavardhanaḥ_), having first been bowed to and circumambulated by Rāma himself (_rāmeṇa hi kṛtaḥ pūrvam abhivādya pradakṣiṇam_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ That enhancer of Kekaya’s glory circumambulated the king (pradakṣiṇaṃ sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With Lakṣmaṇa as his companion (lakṣmaṇena sahāyena), the lord of Kekaya set forth (prayātaḥ kekayeśvaraḥ), even as Vāsava [Indra] went forth together with Viṣṇu (viṣṇunā saha vāsavaḥ) after the demon Vṛtra had been slain (hate ’sure yathā vṛtre).
+With Lakṣmaṇa as his companion (_lakṣmaṇena sahāyena_), the lord of Kekaya set forth (_prayātaḥ kekayeśvaraḥ_), even as Vāsava [Indra] went forth together with Viṣṇu (_viṣṇunā saha vāsavaḥ_) after the demon Vṛtra had been slain (_hate ’sure yathā vṛtre_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ With Lakṣmaṇa as his companion (lakṣmaṇena sahāyena), the lord of Kekay
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sent him off (taṃ visṛjya), Rāma then embraced his fearless friend (tato rāmo vayasyam akutobhayam ... pariṣvajya), Pratardana, the king of Kāśī (pratardanaṃ kāśipatim), and spoke these words (idam abravīt):
+Having sent him off (_taṃ visṛjya_), Rāma then embraced his fearless friend (_tato rāmo vayasyam akutobhayam ... pariṣvajya_), Pratardana, the king of Kāśī (_pratardanaṃ kāśipatim_), and spoke these words (_idam abravīt_):
 </details>
 </details>
 
@@ -566,7 +566,7 @@ Having sent him off (taṃ visṛjya), Rāma then embraced his fearless friend (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Supreme affection has been shown by you (darśitā bhavatā prītiḥ), and supreme friendship displayed (darśitaṃ sauhṛdaṃ param), and martial effort was undertaken by you, O King, alongside Bharata (udyogaś ca kṛto rājan bharatena tvayā saha).
+“Supreme affection has been shown by you (_darśitā bhavatā prītiḥ_), and supreme friendship displayed (_darśitaṃ sauhṛdaṃ param_), and martial effort was undertaken by you, O King, alongside Bharata (_udyogaś ca kṛto rājan bharatena tvayā saha_).
 </details>
 </details>
 
@@ -597,7 +597,7 @@ Having sent him off (taṃ visṛjya), Rāma then embraced his fearless friend (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O lord of Kāśī (kāśeya), repair today to your city of Vārāṇasī (tad bhavān adya ... purīṃ vārāṇasīṃ vraja), delightful, well-guarded by you (ramaṇīyāṃ tvayā guptām), brightly resplendent, and graced with fair arched gateways (suprakāśāṃ sutoraṇām).”
+“Therefore, O lord of Kāśī (_kāśeya_), repair today to your city of Vārāṇasī (_tad bhavān adya ... purīṃ vārāṇasīṃ vraja_), delightful, well-guarded by you (_ramaṇīyāṃ tvayā guptām_), brightly resplendent, and graced with fair arched gateways (_suprakāśāṃ sutoraṇām_).”
 </details>
 </details>
 
@@ -636,7 +636,7 @@ Rising from his royal seat to clasp Pratardana tightly to his chest, Rāma grant
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus much (etāvad uktvā), the righteous-souled scion of Kakutstha rose from his exalted seat (utthāya kākutsthaḥ paramāsanāt ... dharmātmā) and clasped him closely against his breast (paryaṣvajata ... nirantaram urogatam).
+Having spoken thus much (_etāvad uktvā_), the righteous-souled scion of Kakutstha rose from his exalted seat (_utthāya kākutsthaḥ paramāsanāt ... dharmātmā_) and clasped him closely against his breast (_paryaṣvajata ... nirantaram urogatam_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that increaser of Kausalyā’s joy ceremonially bade him farewell (visarjayāmāsa tadā kausalyānandavardhanaḥ); granted leave by Rāghava (rāghaveṇābhyanujñātaḥ), the fearless lord of Kāśī as well (kāśīśo ’py akutobhayaḥ), duly dismissed by Rāghava, departed swiftly for Vārāṇasī (vārāṇasīṃ yayau tūrṇaṃ rāghaveṇa visarjitaḥ).
+Then that increaser of Kausalyā’s joy ceremonially bade him farewell (_visarjayāmāsa tadā kausalyānandavardhanaḥ_); granted leave by Rāghava (_rāghaveṇābhyanujñātaḥ_), the fearless lord of Kāśī as well (_kāśīśo ’py akutobhayaḥ_), duly dismissed by Rāghava, departed swiftly for Vārāṇasī (_vārāṇasīṃ yayau tūrṇaṃ rāghaveṇa visarjitaḥ_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ Then that increaser of Kausalyā’s joy ceremonially bade him farewell (visarja
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smiled gladly (prahasan rāghavaḥ) and spoke words of sweet syllables (vākyam uvāca madhurākṣaram) to the three hundred rulers of the earth (triśataṃ pṛthivīpatīn):
+Having sent off that king of Kāśī (_visṛjya taṃ kāśipatim_), Rāghava smiled gladly (_prahasan rāghavaḥ_) and spoke words of sweet syllables (_vākyam uvāca madhurākṣaram_) to the three hundred rulers of the earth (_triśataṃ pṛthivīpatīn_):
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your unwavering affection has been safeguarded by your own fiery nobility (bhavatāṃ prītir avyagrā tejasā parirakṣitā); dharma abides unbroken in you always (dharmaś ca niyato nityam), and truth ever dwells with you (satyaṃ ca bhavatāṃ sadā).
+“Your unwavering affection has been safeguarded by your own fiery nobility (_bhavatāṃ prītir avyagrā tejasā parirakṣitā_); dharma abides unbroken in you always (_dharmaś ca niyato nityam_), and truth ever dwells with you (_satyaṃ ca bhavatāṃ sadā_).
 </details>
 </details>
 
@@ -766,7 +766,7 @@ Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the spiritual majesty and prowess of you high-souled ones (yuṣmākaṃ cānubhāvena tejasā ca mahātmanām) has that wicked-souled, evil-minded Rāvaṇa, vilest of rākṣasas, been slain (hato durātmā durbuddhī rāvaṇo rākṣasādhamaḥ).
+“By the spiritual majesty and prowess of you high-souled ones (_yuṣmākaṃ cānubhāvena tejasā ca mahātmanām_) has that wicked-souled, evil-minded Rāvaṇa, vilest of rākṣasas, been slain (_hato durātmā durbuddhī rāvaṇo rākṣasādhamaḥ_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ Humbly styling himself a mere instrument while crediting the kings’ prowess fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I was merely the occasion in that deed (hetumātram ahaṃ tatra)—by your fiery power was Rāvaṇa slain in battle (bhavatāṃ tejasā hataḥ rāvaṇaḥ ... yuddhe), together with his hosts, sons, ministers, and kinsmen (sagaṇaḥ ... saputrāmātyabāndhavaḥ).
+“I was merely the occasion in that deed (_hetumātram ahaṃ tatra_)—by your fiery power was Rāvaṇa slain in battle (_bhavatāṃ tejasā hataḥ rāvaṇaḥ ... yuddhe_), together with his hosts, sons, ministers, and kinsmen (_sagaṇaḥ ... saputrāmātyabāndhavaḥ_).
 </details>
 </details>
 
@@ -836,7 +836,7 @@ Humbly styling himself a mere instrument while crediting the kings’ prowess fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You were assembled together by the high-souled Bharata (bhavantaś ca samānītā bharatena mahātmanā), when he heard that King Janaka’s daughter had been abducted from the forest (śrutvā janakarājasya kānanāt tanayāṃ hṛtām).
+“You were assembled together by the high-souled Bharata (_bhavantaś ca samānītā bharatena mahātmanā_), when he heard that King Janaka’s daughter had been abducted from the forest (_śrutvā janakarājasya kānanāt tanayāṃ hṛtām_).
 </details>
 </details>
 
@@ -867,7 +867,7 @@ Humbly styling himself a mere instrument while crediting the kings’ prowess fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A very great stretch of time has elapsed (kālo vyatītaḥ sumahān) for all of you high-souled monarchs standing mobilized in readiness (udyuktānāṃ ca sarveṣāṃ pārthivānāṃ mahātmanām); therefore I now approve your departure (gamanaṃ rocayāmy ataḥ).”
+“A very great stretch of time has elapsed (_kālo vyatītaḥ sumahān_) for all of you high-souled monarchs standing mobilized in readiness (_udyuktānāṃ ca sarveṣāṃ pārthivānāṃ mahātmanām_); therefore I now approve your departure (_gamanaṃ rocayāmy ataḥ_).”
 </details>
 </details>
 
@@ -898,7 +898,7 @@ Humbly styling himself a mere instrument while crediting the kings’ prowess fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overwhelmed with immense delight (harṣeṇa mahatā vṛtāḥ), those kings replied unto him (pratyūcus taṃ ca rājānaḥ): “By good fortune are you victorious, O Rāma (diṣṭyāṃ tvaṃ vijayī rāma), and firmly established in your own kingdom as well (svarājye ’pi pratiṣṭhitaḥ)!
+Overwhelmed with immense delight (_harṣeṇa mahatā vṛtāḥ_), those kings replied unto him (_pratyūcus taṃ ca rājānaḥ_): “By good fortune are you victorious, O Rāma (_diṣṭyāṃ tvaṃ vijayī rāma_), and firmly established in your own kingdom as well (_svarājye ’pi pratiṣṭhitaḥ_)!
 </details>
 </details>
 
@@ -939,9 +939,9 @@ Rejoicing at Sītā’s recovery and Rāma’s triumph, the kings declare that p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “By good fortune has Sītā been brought back (diṣṭyā pratyāhṛtā sītā), by good fortune has the foe been vanquished (diṣṭyā śatruḥ parājitaḥ)! This is our highest desire (eṣa naḥ paramaḥ kāmaḥ), this our supreme joy (eṣā naḥ prītir uttamā), that we behold you victorious, O Rāma, with all your enemies slain (yat tvāṃ vijayinaṃ rāma paśyāmo hataśātravam).
+**28:** “By good fortune has Sītā been brought back (_diṣṭyā pratyāhṛtā sītā_), by good fortune has the foe been vanquished (_diṣṭyā śatruḥ parājitaḥ_)! This is our highest desire (_eṣa naḥ paramaḥ kāmaḥ_), this our supreme joy (_eṣā naḥ prītir uttamā_), that we behold you victorious, O Rāma, with all your enemies slain (_yat tvāṃ vijayinaṃ rāma paśyāmo hataśātravam_).
 
-**29:** “And this too is wholly befitting in you, that you thus praise us (etat tvayy upapannaṃ ca yad asmāṃs tvaṃ praśaṃsase); yet, O you who are worthy of praise (praśaṃsārha), we know not how to utter praise equal to this (na jānīmaḥ praśaṃsāṃ vaktum īdṛśīm).
+**29:** “And this too is wholly befitting in you, that you thus praise us (_etat tvayy upapannaṃ ca yad asmāṃs tvaṃ praśaṃsase_); yet, O you who are worthy of praise (_praśaṃsārha_), we know not how to utter praise equal to this (_na jānīmaḥ praśaṃsāṃ vaktum īdṛśīm_).
 </details>
 </details>
 
@@ -975,7 +975,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We ask your leave and shall now depart (āpṛcchāmo gamiṣyāmaḥ)—ever shall you abide within our hearts (hṛdistho naḥ sadā bhavān); here have we dwelt, O mighty-armed one, encompassed by immense affection (vartāmahe mahābāho prītyātra mahatā vṛtāḥ), and may your love toward us, O great King, endure forevermore (bhavec ca te mahārāja prītir asmāsu nityadā)!”
+“We ask your leave and shall now depart (_āpṛcchāmo gamiṣyāmaḥ_)—ever shall you abide within our hearts (_hṛdistho naḥ sadā bhavān_); here have we dwelt, O mighty-armed one, encompassed by immense affection (_vartāmahe mahābāho prītyātra mahatā vṛtāḥ_), and may your love toward us, O great King, endure forevermore (_bhavec ca te mahārāja prītir asmāsu nityadā_)!”
 </details>
 </details>
 
@@ -1010,7 +1010,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuredly!”—with these very words (bāḍham ity eva), all those monarchs, filled with supreme gladness (rājāno harṣeṇa paramānvitāḥ), eager to set forth (gamanotsukāḥ), spoke to Rāghava with joined palms (ucuḥ prāñjalayaḥ sarve rāghavam); and duly honored by Rāma, they departed each to their own realms (pūjitāś caiva rāmeṇa jagmur deśān svakān svakān).
+“Assuredly!”—with these very words (_bāḍham ity eva_), all those monarchs, filled with supreme gladness (_rājāno harṣeṇa paramānvitāḥ_), eager to set forth (_gamanotsukāḥ_), spoke to Rāghava with joined palms (_ucuḥ prāñjalayaḥ sarve rāghavam_); and duly honored by Rāma, they departed each to their own realms (_pūjitāś caiva rāmeṇa jagmur deśān svakān svakān_).
 </details>
 </details>
 

@@ -92,7 +92,7 @@ Then, on receiving the hospitality in that hermitage for that day, and on the ne
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having received hospitality (kṛtātithyaḥ), Rāma then, toward the rising of the sun (sūryasyodayanaṃ prati), took leave of (āmantrya) all the sages and plunged deeper into that very forest (vanam evānvagāhata).
+Having received hospitality (_kṛtātithyaḥ_), Rāma then, toward the rising of the sun (_sūryasyodayanaṃ prati_), took leave of (_āmantrya_) all the sages and plunged deeper into that very forest (_vanam evānvagāhata_).
 </details>
 </details>
 
@@ -164,9 +164,9 @@ Rama followed by Lakshmana has indeed seen that midst of the forest which is
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** [That forest] was thronged with herds of diverse beasts (nānā-mṛga-gaṇākīrṇam), frequented by bears and tigers (ṛkṣa-śārdūla-sevitam), with its trees, creepers, and thickets trampled down (dhvasta-vṛkṣa-latā-gulmam), and its water-pools hard to discern (durdarśa-salilāśayam)—
+**2:** [That forest] was thronged with herds of diverse beasts (_nānā-mṛga-gaṇākīrṇam_), frequented by bears and tigers (_ṛkṣa-śārdūla-sevitam_), with its trees, creepers, and thickets trampled down (_dhvasta-vṛkṣa-latā-gulmam_), and its water-pools hard to discern (_durdarśa-salilāśayam_)—
 
-**3:** Its birds silent and ceased from warbling (niṣkūjamāna-śakunim), and echoing with swarms of crickets (jhillikā-gaṇa-nāditam)—accompanied by Lakṣmaṇa (lakṣmaṇānucaraḥ), Rāma beheld the heart of the forest (vana-madhyam).
+**3:** Its birds silent and ceased from warbling (_niṣkūjamāna-śakunim_), and echoing with swarms of crickets (_jhillikā-gaṇa-nāditam_)—accompanied by Lakṣmaṇa (_lakṣmaṇānucaraḥ_), Rāma beheld the heart of the forest (_vana-madhyam_).
 </details>
 </details>
 
@@ -225,7 +225,7 @@ Therein Rama has seen along with Seetha, a lurid voiced man-eater who is akin to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with Sītā in that [forest] teeming with fierce beasts (ghora-mṛgāyute), Kākutstha beheld a man-eating demon (puruṣādam) towering like a mountain peak (giri-śṛṅgābham) and of mighty roar (mahā-svanam)—
+Together with Sītā in that [forest] teeming with fierce beasts (_ghora-mṛgāyute_), Kākutstha beheld a man-eating demon (_puruṣādam_) towering like a mountain peak (_giri-śṛṅgābham_) and of mighty roar (_mahā-svanam_)—
 </details>
 </details>
 
@@ -281,7 +281,7 @@ Deep eyed, huge mouthed, horrible with a monstrous belly, hideously misshapen, a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deep-sunken of eye (gabhīrākṣam), huge-mouthed (mahā-vaktram), monstrous (vikaṭam), monstrous-bellied (vikaṭodaram), loathsome (bībhatsam), misshapen (viṣamam), tall, deformed (vikṛtam), and dreadful to behold (ghora-darśanam)—
+Deep-sunken of eye (_gabhīrākṣam_), huge-mouthed (_mahā-vaktram_), monstrous (_vikaṭam_), monstrous-bellied (_vikaṭodaram_), loathsome (_bībhatsam_), misshapen (_viṣamam_), tall, deformed (_vikṛtam_), and dreadful to behold (_ghora-darśanam_)—
 </details>
 </details>
 
@@ -336,7 +336,7 @@ Wearing tiger's skin that is wetted with fat and dampened with blood, he is
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clad in a tiger-skin (carma vaiyāghram) wet with fat (vasārdram) and spattered with blood (rudhirokṣitam), terrifying to all creatures (trāsanaṃ sarva-bhūtānām) like Death himself with gaping maw (vyāditāsyam ivāntakam)—
+Clad in a tiger-skin (_carma vaiyāghram_) wet with fat (_vasārdram_) and spattered with blood (_rudhirokṣitam_), terrifying to all creatures (_trāsanaṃ sarva-bhūtānām_) like Death himself with gaping maw (_vyāditāsyam ivāntakam_)—
 </details>
 </details>
 
@@ -410,7 +410,7 @@ He skewered three lions, four tigers, two wolves, ten spotted deer, and a big he
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Having impaled] three lions, four tigers, two wolves, ten spotted deer (pṛṣatān daśa), and the huge tusked head of an elephant (saviṣāṇaṃ gajasya śiro mahat) smeared with fat (vasā-digdham)—
+[Having impaled] three lions, four tigers, two wolves, ten spotted deer (_pṛṣatān daśa_), and the huge tusked head of an elephant (_saviṣāṇaṃ gajasya śiro mahat_) smeared with fat (_vasā-digdham_)—
 </details>
 </details>
 
@@ -487,9 +487,9 @@ He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Upon an iron pike (āyase śūle), roaring with a mighty clamour (vinadantaṃ mahā-svanam)—seeing Rāma, Lakṣmaṇa, and Sītā of Mithilā,
+**8:** Upon an iron pike (_āyase śūle_), roaring with a mighty clamour (_vinadantaṃ mahā-svanam_)—seeing Rāma, Lakṣmaṇa, and Sītā of Mithilā,
 
-**9:** He rushed at them in great fury (susaṃkruddhaḥ), like Death the Destroyer (antakaḥ) rushing at creatures at the end of time (kāle). Uttering a terrific roar (bhairavaṃ nādam) as though shaking the earth (cālayann iva medinīm),
+**9:** He rushed at them in great fury (_susaṃkruddhaḥ_), like Death the Destroyer (_antakaḥ_) rushing at creatures at the end of time (_kāle_). Uttering a terrific roar (_bhairavaṃ nādam_) as though shaking the earth (_cālayann iva medinīm_),
 </details>
 </details>
 
@@ -548,7 +548,7 @@ He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Snatching Vaidehī onto his hip (aṅkenādāya) and stepping back (apakramya), he then spoke: “Wearing matted locks and bark-garments (jaṭā-cīra-dharau), accompanied by a wife (sabhāryau), and your lives nearly spent (kṣīṇa-jīvitau), you two”
+Snatching Vaidehī onto his hip (_aṅkenādāya_) and stepping back (_apakramya_), he then spoke: “Wearing matted locks and bark-garments (_jaṭā-cīra-dharau_), accompanied by a wife (_sabhāryau_), and your lives nearly spent (_kṣīṇa-jīvitau_), you two”
 </details>
 </details>
 
@@ -615,7 +615,7 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Have entered the Daṇḍaka forest holding arrows, bows, and swords in your hands (śara-cāpāsi-pāṇinau)! How is it that you two ascetics (tāpasayoḥ) dwell together with a young woman (pramadayā saha)?”
+“Have entered the Daṇḍaka forest holding arrows, bows, and swords in your hands (_śara-cāpāsi-pāṇinau_)! How is it that you two ascetics (_tāpasayoḥ_) dwell together with a young woman (_pramadayā saha_)?”
 </details>
 </details>
 
@@ -671,7 +671,7 @@ This demon Viradha could not comprehend their identity prima facie. By their
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who are you two wicked practitioners of unrighteousness (adharma-cāriṇau pāpau), defilers of ascetics (muni-dūṣakau)? I am the rākṣasa named Virādha; [ranging] this impassable forest (vanam idaṃ durgam),”
+“Who are you two wicked practitioners of unrighteousness (_adharma-cāriṇau pāpau_), defilers of ascetics (_muni-dūṣakau_)? I am the _rākṣasa_ named Virādha; [ranging] this impassable forest (_vanam idaṃ durgam_),”
 </details>
 </details>
 
@@ -735,7 +735,7 @@ As Virādha threatens to make Sītā his wife and drink the brothers' blood, Sī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Armed with weapons (sāyudhaḥ), I ever roam devouring the flesh of sages (ṛṣi-māṃsāni bhakṣayan). This fair-hipped woman (nārī varārohā) shall become my wife (mama bhāryā bhaviṣyati),”
+“Armed with weapons (_sāyudhaḥ_), I ever roam devouring the flesh of sages (_ṛṣi-māṃsāni bhakṣayan_). This fair-hipped woman (_nārī varārohā_) shall become my wife (_mama bhāryā bhaviṣyati_),”
 </details>
 </details>
 
@@ -801,9 +801,9 @@ Here Viradha said that Seetha would become his *
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “And in battle (mṛdhe) I shall drink the blood (pāsyāmi rudhiram) of you two wretches!” As the evil-minded Virādha was speaking such wicked words (bruvato duṣṭam),
+**14:** “And in battle (_mṛdhe_) I shall drink the blood (_pāsyāmi rudhiram_) of you two wretches!” As the evil-minded Virādha was speaking such wicked words (_bruvato duṣṭam_),
 
-**15:** Hearing his arrogant speech (sagarvitaṃ vākyam), Janaka’s daughter Sītā was bewildered (sambhrāntā) and trembled from terror (pravepitodvegāt) like a plantain tree in a high wind (pravāte kadalī yathā).
+**15:** Hearing his arrogant speech (_sagarvitaṃ vākyam_), Janaka’s daughter Sītā was bewildered (_sambhrāntā_) and trembled from terror (_pravepitodvegāt_) like a plantain tree in a high wind (_pravāte kadalī yathā_).
 </details>
 </details>
 
@@ -854,7 +854,7 @@ Seetha in fear wiggled like a plantain tree in a whirlwind, and on seeing at the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the auspicious Sītā held upon Virādha’s hip (virādhāṅka-gatām), Rāghava spoke these words to Lakṣmaṇa with a parched face (mukhena pariśuṣyatā):
+Beholding the auspicious Sītā held upon Virādha’s hip (_virādhāṅka-gatām_), Rāghava spoke these words to Lakṣmaṇa with a parched face (_mukhena pariśuṣyatā_):
 </details>
 </details>
 
@@ -915,7 +915,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O gentle one (saumya), the daughter born of King Janaka himself (janakasyātma-sambhavām), my wife of pure conduct (śubhācārām), placed upon Virādha’s hip (virādhāṅke praveśitām)—”
+“Behold, O gentle one (_saumya_), the daughter born of King Janaka himself (_janakasyātma-sambhavām_), my wife of pure conduct (_śubhācārām_), placed upon Virādha’s hip (_virādhāṅke praveśitām_)—”
 </details>
 </details>
 
@@ -982,9 +982,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “That illustrious princess (rāja-putrīm) reared in supreme comfort (atyanta-sukha-saṃvṛddhām)! That cherished wish (priyam) which was intended regarding us (yad abhipretam asmāsu) and chosen as a boon (vara-vṛtaṃ ca yat)—”
+**18:** “That illustrious princess (_rāja-putrīm_) reared in supreme comfort (_atyanta-sukha-saṃvṛddhām_)! That cherished wish (_priyam_) which was intended regarding us (_yad abhipretam asmāsu_) and chosen as a boon (_vara-vṛtaṃ ca yat_)—”
 
-**19:** “Has today been swiftly and fully accomplished (susaṃvṛttam) for Kaikeyī, O Lakṣmaṇa—she who, far-seeing (dīrgha-darśinī) on her son’s behalf (putrārthe), was not satisfied with the kingdom alone (yā na tuṣyati rājyena),”
+**19:** “Has today been swiftly and fully accomplished (_susaṃvṛttam_) for Kaikeyī, O Lakṣmaṇa—she who, far-seeing (_dīrgha-darśinī_) on her son’s behalf (_putrārthe_), was not satisfied with the kingdom alone (_yā na tuṣyati rājyena_),”
 </details>
 </details>
 
@@ -1038,7 +1038,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By whom I, dear to all beings (sarva-bhūtānāṃ priyaḥ), was sent forth into the forest! Today, at this very moment (adyedānīm), that middle mother of mine (mātā madhyamā mama) has her desire fulfilled (sakāmā).”
+“By whom I, dear to all beings (_sarva-bhūtānāṃ priyaḥ_), was sent forth into the forest! Today, at this very moment (_adyedānīm_), that middle mother of mine (_mātā madhyamā mama_) has her desire fulfilled (_sakāmā_).”
 </details>
 </details>
 
@@ -1108,7 +1108,7 @@ Here Rama says that 'my' kingdom is grabbed away, and now the grabbing away of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nothing causes me greater sorrow (na duḥkhataram asti me), O Saumitri, than Vaidehī being touched by another (para-sparśāt tu vaidehyāḥ)—not even the loss of my father (pitur vināśāt) or the seizure of my own kingdom (svarājya-haraṇāt).”
+“Nothing causes me greater sorrow (_na duḥkhataram asti me_), O Saumitri, than Vaidehī being touched by another (_para-sparśāt tu vaidehyāḥ_)—not even the loss of my father (_pitur vināśāt_) or the seizure of my own kingdom (_svarājya-haraṇāt_).”
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Kākutstha was speaking thus, Lakṣmaṇa, overwhelmed by tears and grief (bāṣpa-śoka-pariplutaḥ), spoke in wrath, hissing like a pent-up serpent (ruddho nāga iva śvasan):
+While Kākutstha was speaking thus, Lakṣmaṇa, overwhelmed by tears and grief (_bāṣpa-śoka-pariplutaḥ_), spoke in wrath, hissing like a pent-up serpent (_ruddho nāga iva śvasan_):
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ Reminding Rāma that he is the lord of all creatures, Lakṣmaṇa vows to unlea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though you are the protector of all beings (bhūtānāṃ nāthaḥ) and equal to Vāsava (vāsavopamaḥ), why do you grieve like one unprotected (anātha iva), O Kākutstha, when you have me as your servant (mayā preṣyeṇa)?”
+“Though you are the protector of all beings (_bhūtānāṃ nāthaḥ_) and equal to Vāsava (_vāsavopamaḥ_), why do you grieve like one unprotected (_anātha iva_), O Kākutstha, when you have me as your servant (_mayā preṣyeṇa_)?”
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ Reminding Rāma that he is the lord of all creatures, Lakṣmaṇa vows to unlea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today the earth shall drink the blood (mahī pāsyati śoṇitam) of the rākṣasa Virādha, bereft of life (gatāsoḥ) when struck down by me in wrath with an arrow (śareṇa nihatasya)!”
+“Today the earth shall drink the blood (_mahī pāsyati śoṇitam_) of the _rākṣasa_ Virādha, bereft of life (_gatāsoḥ_) when struck down by me in wrath with an arrow (_śareṇa nihatasya_)!”
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ Reminding Rāma that he is the lord of all creatures, Lakṣmaṇa vows to unlea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That wrath which arose in me toward Bharata when I thought him desirous of the kingdom (rājya-kāme bharate), I shall unleash upon Virādha (taṃ virādhe vimokṣyāmi), as the Thunderbolt-wielder [Indra] hurls his thunderbolt upon a mountain (vajrī vajram ivācale)!”
+“That wrath which arose in me toward Bharata when I thought him desirous of the kingdom (_rājya-kāme bharate_), I shall unleash upon Virādha (_taṃ virādhe vimokṣyāmi_), as the Thunderbolt-wielder [Indra] hurls his thunderbolt upon a mountain (_vajrī vajram ivācale_)!”
 </details>
 </details>
 
@@ -1421,7 +1421,7 @@ Reminding Rāma that he is the lord of all creatures, Lakṣmaṇa vows to unlea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Impelled by the speed of my arm’s strength (bhuja-bala-vega-vegitaḥ), let my mighty shaft fall upon his huge chest (mahān mahorasi), drive the life from his body (vyapanayatu tanoś ca jīvitam), and let him then fall reeling to the earth (mahīṃ vighūrṇitaḥ)!”
+“Impelled by the speed of my arm’s strength (_bhuja-bala-vega-vegitaḥ_), let my mighty shaft fall upon his huge chest (_mahān mahorasi_), drive the life from his body (_vyapanayatu tanoś ca jīvitam_), and let him then fall reeling to the earth (_mahīṃ vighūrṇitaḥ_)!”
 </details>
 </details>
 

@@ -99,9 +99,9 @@ loudly, and then on clasping the winning shoulders of Lakshmana he said this to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding the hermitage site empty (āśrama-padaṃ śūnyam), the leaf-thatched cottage bereft [of Sītā] (rahitāṃ parṇa-śālām), and the seats flung about (praviddhāny āsanāni ca), Rāma, the son of Daśaratha—
+**1:** Beholding the hermitage site empty (_āśrama-padaṃ śūnyam_), the leaf-thatched cottage bereft [of Sītā] (_rahitāṃ parṇa-śālām_), and the seats flung about (_praviddhāny āsanāni ca_), Rāma, the son of Daśaratha—
 
-**2:** —searching on all sides (saṃnirīkṣya ca sarvaśaḥ) and not seeing Vaidehī there (adṛṣṭvā tatra vaidehīm), Rāma cried out aloud (prākruśya), raising his shapely arms (pragṛhya rucirau bhujau), and spoke:
+**2:** —searching on all sides (_saṃnirīkṣya ca sarvaśaḥ_) and not seeing Vaidehī there (_adṛṣṭvā tatra vaidehīm_), Rāma cried out aloud (_prākruśya_), raising his shapely arms (_pragṛhya rucirau bhujau_), and spoke:
 </details>
 </details>
 
@@ -153,7 +153,7 @@ who stole her away? Or, who has gorged up my ladylove? [3-61-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where indeed is Vaidehī, O Lakṣmaṇa (kva nu lakṣmaṇa vaidehī), or to what region has she gone from here (kaṃ vā deśam ito gatā)? By whom has my beloved been carried off (kenāhṛtā vā), O Saumitri, or by whom devoured (bhakṣitā kena vā priyā)?
+“Where indeed is Vaidehī, O Lakṣmaṇa (_kva nu lakṣmaṇa vaidehī_), or to what region has she gone from here (_kaṃ vā deśam ito gatā_)? By whom has my beloved been carried off (_kenāhṛtā vā_), O Saumitri, or by whom devoured (_bhakṣitā kena vā priyā_)?
 </details>
 </details>
 
@@ -205,7 +205,7 @@ and games, get in touch with me now, as I am highly anguished... [3-61-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sītā, if by screening yourself behind a tree (vṛkṣeṇāvārya) you wish to laugh at me (māṃ hasitum icchasi), enough of your jesting today (alaṃ te hasitenādya)! Come to me who am sorely anguished (māṃ bhajasva suduḥkhitam)!
+“O Sītā, if by screening yourself behind a tree (_vṛkṣeṇāvārya_) you wish to laugh at me (_māṃ hasitum icchasi_), enough of your jesting today (_alaṃ te hasitenādya_)! Come to me who am sorely anguished (_māṃ bhajasva suduḥkhitam_)!
 </details>
 </details>
 
@@ -259,7 +259,7 @@ fluttery looks, without you... [3-61-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those trusting fawns (viśvastair mṛga-potakaiḥ) with whom you used to play (yaiḥ parikrīḍase), O gentle Sītā (saumye), now bereft of you (hīnās tvayā), brood with eyes dimmed by tears (dhyāyanty asrāvilekṣaṇāḥ)!
+“Those trusting fawns (_viśvastair mṛga-potakaiḥ_) with whom you used to play (_yaiḥ parikrīḍase_), O gentle Sītā (_saumye_), now bereft of you (_hīnās tvayā_), brood with eyes dimmed by tears (_dhyāyanty asrāvilekṣaṇāḥ_)!
 </details>
 </details>
 
@@ -324,7 +324,7 @@ I am dead and gone to other world, there my father will ask me...' would then be
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of Sītā, I truly cannot live (nahi jīvāmi), O Lakṣmaṇa! Enveloped in great grief (vṛtaṃ śokena mahatā) born of Sītā's abduction (sītā-haraṇa-jena)—
+“Bereft of Sītā, I truly cannot live (_nahi jīvāmi_), O Lakṣmaṇa! Enveloped in great grief (_vṛtaṃ śokena mahatā_) born of Sītā&#x27;s abduction (_sītā-haraṇa-jena_)—
 </details>
 </details>
 
@@ -363,7 +363,7 @@ Fearing that King Daśaratha in the other world will reproach him for dying befo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the great king, my father, will surely behold me in the other world (paraloke mahā-rājo nūnaṃ drakṣyati me pitā)! [And he will say:] ‘How is it that, after solemnly promising your vow (pratijñāṃ saṃśrutya) when enjoined by me (mayā tvam abhiyojitaḥ)—
+“—the great king, my father, will surely behold me in the other world (_paraloke mahā-rājo nūnaṃ drakṣyati me pitā_)! [And he will say:] ‘How is it that, after solemnly promising your vow (_pratijñāṃ saṃśrutya_) when enjoined by me (_mayā tvam abhiyojitaḥ_)—
 </details>
 </details>
 
@@ -418,7 +418,7 @@ wilful disobedient, despicable and dishonest person, such as you are, fie on you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—you have come here to my presence (mat-sakāśam ihāgataḥ) without fulfilling that appointed term (apūrayitvā taṃ kālam)? Acting at whim (kāma-vṛttam), ignoble (anāryam), and a speaker of falsehood (mṛṣā-vādinam eva ca)—
+“‘—you have come here to my presence (_mat-sakāśam ihāgataḥ_) without fulfilling that appointed term (_apūrayitvā taṃ kālam_)? Acting at whim (_kāma-vṛttam_), ignoble (_anāryam_), and a speaker of falsehood (_mṛṣā-vādinam eva ca_)—
 </details>
 </details>
 
@@ -483,9 +483,9 @@ and running away. [3-61-9b, 10, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “‘—Fie upon you (dhik tvām)!’—so will my father clearly say to me in the other world (pare loke vyaktaṃ vakṣyati me pitā)! Helpless (vivaśam), tormented by grief (śoka-saṃtaptam), wretched, my hopes shattered (bhagna-manoratham)—
+**9:** “‘—Fie upon you (_dhik tvām_)!’—so will my father clearly say to me in the other world (_pare loke vyaktaṃ vakṣyati me pitā_)! Helpless (_vivaśam_), tormented by grief (_śoka-saṃtaptam_), wretched, my hopes shattered (_bhagna-manoratham_)—
 
-**10:** “—abandoning piteous me here (mām ihotsṛjya karuṇam) just as fame forsakes a crooked man (kīrtir naram ivānṛjum), where are you going, O fair-hipped lady (varārohe)? Do not forsake me, O slender-waisted one (mā motsṛja sumadhyame)!
+**10:** “—abandoning piteous me here (_mām ihotsṛjya karuṇam_) just as fame forsakes a crooked man (_kīrtir naram ivānṛjum_), where are you going, O fair-hipped lady (_varārohe_)? Do not forsake me, O slender-waisted one (_mā motsṛja sumadhyame_)!
 </details>
 </details>
 
@@ -539,7 +539,7 @@ though he bewailed this way, that Rama has not found Janaka's daughter, Seetha. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And bereft of you (tvayā virahitaś cāham), I shall abandon my own life (tyakṣye jīvitam ātmanaḥ)!’ Lamenting thus (itīva vilapan), Rāma, intensely longing for the sight of Sītā (sītā-darśana-lālasaḥ)—
+“‘And bereft of you (_tvayā virahitaś cāham_), I shall abandon my own life (_tyakṣye jīvitam ātmanaḥ_)!’ Lamenting thus (_itīva vilapan_), Rāma, intensely longing for the sight of Sītā (_sītā-darśana-lālasaḥ_)—
 </details>
 </details>
 
@@ -605,9 +605,9 @@ chasmal mud, Lakshmana spoke to such a Rama in a positive manner desiring his we
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** —sorely afflicted with sorrow (suduḥkhārtaḥ), Rāghava did not behold the daughter of Janaka (na dadarśa... janakātmajām). To him who could not find Sītā (anāsādayamānaṃ taṃ sītām) and was wholly given over to grief (śoka-parāyaṇam)—
+**12:** —sorely afflicted with sorrow (_suduḥkhārtaḥ_), Rāghava did not behold the daughter of Janaka (_na dadarśa... janakātmajām_). To him who could not find Sītā (_anāsādayamānaṃ taṃ sītām_) and was wholly given over to grief (_śoka-parāyaṇam_)—
 
-**13:** —sinking down like an elephant that has plunged into deep mire (paṅkam āsādya vipulaṃ sīdantam iva kuñjaram), Lakṣmaṇa spoke to Rāma with an earnest desire for his welfare (atyartham uvāca hita-kāmyayā):
+**13:** —sinking down like an elephant that has plunged into deep mire (_paṅkam āsādya vipulaṃ sīdantam iva kuñjaram_), Lakṣmaṇa spoke to Rāma with an earnest desire for his welfare (_atyartham uvāca hita-kāmyayā_):
 </details>
 </details>
 
@@ -689,11 +689,11 @@ by fishes and cane-breaks. [3-61-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “Do not give way to despair (mā viṣādam), O great-minded one (mahā-buddhe); make an effort together with me (kuru yatnaṃ mayā saha)! Here, O hero, is this best of mountains (idaṃ giri-varam), graced with many caves (bahu-kandara-śobhitam).
+**14:** “Do not give way to despair (_mā viṣādam_), O great-minded one (_mahā-buddhe_); make an effort together with me (_kuru yatnaṃ mayā saha_)! Here, O hero, is this best of mountains (_idaṃ giri-varam_), graced with many caves (_bahu-kandara-śobhitam_).
 
-**15:** “Maithilī is fond of roaming in the woods (priya-kānana-saṃcārā) and is rapturously enamoured of the forest [and its waters] (vanonmattā ca); she may have entered the grove (vanaṃ vā praviṣṭā syāt) or a lotus-pond in full bloom (nalinīṃ vā supuṣpitām)—
+**15:** “Maithilī is fond of roaming in the woods (_priya-kānana-saṃcārā_) and is rapturously enamoured of the forest [and its waters] (_vanonmattā ca_); she may have entered the grove (_vanaṃ vā praviṣṭā syāt_) or a lotus-pond in full bloom (_nalinīṃ vā supuṣpitām_)—
 
-**16:** “—or she may have gone to the river frequented by fish and bordered by vañjula reeds (mīna-vañjula-sevitām); or, wishing to frighten us (vitrāsayitu-kāmā vā), she may be hiding somewhere in the woods (līnā syāt kānane kvacit)—
+**16:** “—or she may have gone to the river frequented by fish and bordered by _vañjula_ reeds (_mīna-vañjula-sevitām_); or, wishing to frighten us (_vitrāsayitu-kāmā vā_), she may be hiding somewhere in the woods (_līnā syāt kānane kvacit_)—
 </details>
 </details>
 
@@ -746,7 +746,7 @@ away into forest. Oh, honourable brother, let us endeavour quickly to search her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—as Vaidehī tests (jijñāsamānā) you and me, O bull among men (puruṣarṣabha)! Therefore, O glorious one, let us both strive at once (kṣipram eva yatāvahe) in searching for her (tasyā hy anveṣaṇe)!
+“—as Vaidehī tests (_jijñāsamānā_) you and me, O bull among men (_puruṣarṣabha_)! Therefore, O glorious one, let us both strive at once (_kṣipram eva yatāvahe_) in searching for her (_tasyā hy anveṣaṇe_)!
 </details>
 </details>
 
@@ -828,9 +828,9 @@ Seetha along with Soumitri. [3-61-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Let us search the entire forest (vanaṃ sarvaṃ vicinuvaḥ) where that daughter of Janaka may be; if you approve (manyase yadi), O Kākutstha, do not set your mind upon grief (mā sma śoke manaḥ kṛthāḥ)!”
+**18:** “Let us search the entire forest (_vanaṃ sarvaṃ vicinuvaḥ_) where that daughter of Janaka may be; if you approve (_manyase yadi_), O Kākutstha, do not set your mind upon grief (_mā sma śoke manaḥ kṛthāḥ_)!”
 
-**19:** Thus addressed out of affection (sauhārdāt) by Lakṣmaṇa, Rāma, his mind steadied (samāhitaḥ), began to search (vicetum upacakrame) together with Saumitri (saha saumitriṇā).
+**19:** Thus addressed out of affection (_sauhārdāt_) by Lakṣmaṇa, Rāma, his mind steadied (_samāhitaḥ_), began to search (_vicetum upacakrame_) together with Saumitri (_saha saumitriṇā_).
 </details>
 </details>
 
@@ -902,9 +902,9 @@ its caves, crags, and mountain peaks they have not found Seetha. [3-61-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Searching thoroughly (nikhilena vicinvantau) through the woods, mountains, rivers, and lakes for Sītā, those two sons of Daśaratha (tau... daśarathātmajau)—
+**20:** Searching thoroughly (_nikhilena vicinvantau_) through the woods, mountains, rivers, and lakes for Sītā, those two sons of Daśaratha (_tau... daśarathātmajau_)—
 
-**21:** —searching thoroughly over the tablelands (sānūni), crags (śilāś ca), and peaks (śikharāṇi ca) of that mountain, did not find her at all (naiva tām abhijagmatuḥ).
+**21:** —searching thoroughly over the tablelands (_sānūni_), crags (_śilāś ca_), and peaks (_śikharāṇi ca_) of that mountain, did not find her at all (_naiva tām abhijagmatuḥ_).
 </details>
 </details>
 
@@ -956,7 +956,7 @@ I do not descry auspicious Vaidehi." [3-61-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having searched the mountain on all sides (vicitya sarvataḥ śailam), Rāma said to Lakṣmaṇa: “I do not see the auspicious Vaidehī here on the mountain (neha paśyāmi... parvate), O Saumitri!”
+Having searched the mountain on all sides (_vicitya sarvataḥ śailam_), Rāma said to Lakṣmaṇa: “I do not see the auspicious Vaidehī here on the mountain (_neha paśyāmi... parvate_), O Saumitri!”
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ his greatly resplendent brother Rama. [3-61-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, tormented by grief (duḥkhābhisaṃtaptaḥ) as he roamed through the Daṇḍaka forest (vicaran daṇḍakāraṇyam), Lakṣmaṇa spoke these words to his brother of blazing splendour (bhrātaraṃ dīpta-tejasam):
+Then, tormented by grief (_duḥkhābhisaṃtaptaḥ_) as he roamed through the Daṇḍaka forest (_vicaran daṇḍakāraṇyam_), Lakṣmaṇa spoke these words to his brother of blazing splendour (_bhrātaraṃ dīpta-tejasam_):
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ Bali and reacquired this earth." [3-61-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you of great wisdom (mahā-prājña), you shall recover Maithilī, the daughter of Janaka (prāpsyase tvaṃ... maithilīṃ janakātmajām), just as mighty-armed Viṣṇu (viṣṇur mahā-bāhuḥ), having bound Bali (baliṃ baddhvā), [recovered] this earth (mahīm imām)!”
+“O you of great wisdom (_mahā-prājña_), you shall recover Maithilī, the daughter of Janaka (_prāpsyase tvaṃ... maithilīṃ janakātmajām_), just as mighty-armed Viṣṇu (_viṣṇur mahā-bāhuḥ_), having bound Bali (_baliṃ baddhvā_), [recovered] this earth (_mahīm imām_)!”
 </details>
 </details>
 
@@ -1122,7 +1122,7 @@ spoke these pathetic words. [3-61-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the heroic Lakṣmaṇa (vīreṇa lakṣmaṇena), that Rāghava, his mind stricken by sorrow (duḥkhābhihata-cetanaḥ), spoke in a piteous voice (dīnayā vācā):
+Thus addressed by the heroic Lakṣmaṇa (_vīreṇa lakṣmaṇena_), that Rāghava, his mind stricken by sorrow (_duḥkhābhihata-cetanaḥ_), spoke in a piteous voice (_dīnayā vācā_):
 </details>
 </details>
 
@@ -1180,7 +1180,7 @@ descry Vaidehi who is loftier than my lives." [3-61-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The entire forest has been thoroughly searched (vanaṃ suvicitaṃ sarvam), as have the lotus-ponds with their blooming lotuses (padminyaḥ phulla-paṅkajāḥ) and this mountain with its many caves and cascades (bahu-kandara-nirjharaḥ), O wise one; yet I do not see Vaidehī, who is dearer to me even than my life-breaths (prāṇebhyo 'pi garīyasīm)!”
+“The entire forest has been thoroughly searched (_vanaṃ suvicitaṃ sarvam_), as have the lotus-ponds with their blooming lotuses (_padminyaḥ phulla-paṅkajāḥ_) and this mountain with its many caves and cascades (_bahu-kandara-nirjharaḥ_), O wise one; yet I do not see Vaidehī, who is dearer to me even than my life-breaths (_prāṇebhyo &#x27;pi garīyasīm_)!”
 </details>
 </details>
 
@@ -1235,7 +1235,7 @@ while sadness besieging him he is perturbed for a moment. [3-61-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lamenting thus (evaṃ sa vilapan), Rāma, wasted by the abduction of Sītā (sītā-haraṇa-karṣitaḥ), wretched and overwhelmed by grief (śoka-samāviṣṭaḥ), became beside himself for a time (muhūrtaṃ vihvalo 'bhavat).
+Lamenting thus (_evaṃ sa vilapan_), Rāma, wasted by the abduction of Sītā (_sītā-haraṇa-karṣitaḥ_), wretched and overwhelmed by grief (_śoka-samāviṣṭaḥ_), became beside himself for a time (_muhūrtaṃ vihvalo &#x27;bhavat_).
 </details>
 </details>
 
@@ -1299,7 +1299,7 @@ is forlorn and flustered, and such as he is he sank down suspiring swelteringly 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All his limbs trembling (vihvalita-sarvāṅgaḥ), his judgment gone (gata-buddhiḥ) and his senses benumbed (vicetanaḥ), afflicted and wretched, he sank down (niṣasāda), breathing out a hot and long-drawn sigh (niḥśvasyāśītam āyatam).
+All his limbs trembling (_vihvalita-sarvāṅgaḥ_), his judgment gone (_gata-buddhiḥ_) and his senses benumbed (_vicetanaḥ_), afflicted and wretched, he sank down (_niṣasāda_), breathing out a hot and long-drawn sigh (_niḥśvasyāśītam āyatam_).
 </details>
 </details>
 
@@ -1348,7 +1348,7 @@ with tears stifling his throat. [3-61-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sighing again and again (bahuśaḥ sa tu niḥśvasya), lotus-eyed Rāma (rājīva-locanaḥ), his voice choked with tears (bāṣpa-gadgadaḥ), cried out repeatedly (vicukrośa bahuśaḥ), “O my beloved (hā priyeti)!”
+Sighing again and again (_bahuśaḥ sa tu niḥśvasya_), lotus-eyed Rāma (_rājīva-locanaḥ_), his voice choked with tears (_bāṣpa-gadgadaḥ_), cried out repeatedly (_vicukrośa bahuśaḥ_), “O my beloved (_hā priyeti_)!”
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ palms obediently started to pacify Rama with divers methods. [3-61-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lakṣmaṇa, himself stricken with grief (śokārtaḥ), humble (praśritaḥ) and folding his hands in reverence (praśritāñjaliḥ), consoled (sāntvayām āsa) that dear kinsman of his (taṃ priya-bāndhavam) in many ways (bahu-prakāram).
+Then Lakṣmaṇa, himself stricken with grief (_śokārtaḥ_), humble (_praśritaḥ_) and folding his hands in reverence (_praśritāñjaliḥ_), consoled (_sāntvayām āsa_) that dear kinsman of his (_taṃ priya-bāndhavam_) in many ways (_bahu-prakāram_).
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ again and again when his dear Seetha has become unseeable. [3-61-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet paying no heed (anādṛtya tu) to those words that fell from Lakṣmaṇa's lips (tad vākyaṃ lakṣmaṇoṣṭha-puṭa-cyutam), and not beholding that beloved Sītā (apaśyaṃs tāṃ priyāṃ sītām), he cried out aloud again and again (prākrośat sa punaḥ punaḥ).
+Yet paying no heed (_anādṛtya tu_) to those words that fell from Lakṣmaṇa&#x27;s lips (_tad vākyaṃ lakṣmaṇoṣṭha-puṭa-cyutam_), and not beholding that beloved Sītā (_apaśyaṃs tāṃ priyāṃ sītām_), he cried out aloud again and again (_prākrośat sa punaḥ punaḥ_).
 </details>
 </details>
 

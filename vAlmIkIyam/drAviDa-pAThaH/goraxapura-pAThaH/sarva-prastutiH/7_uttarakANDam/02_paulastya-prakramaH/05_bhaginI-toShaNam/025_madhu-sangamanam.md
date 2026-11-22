@@ -48,7 +48,7 @@ Having granted the dreadful Daṇḍaka forest to Khara and consoled his sister,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bestowed that dreadful forest upon Khara (vanaṃ ghoraṃ kharasya) and consoled his sister (bhaginīṃ ca samāśvāsya), the ten-necked lord grew delighted and far more at ease (hṛṣṭaḥ svasthataro ’bhavat).
+Having bestowed that dreadful forest upon Khara (_vanaṃ ghoraṃ kharasya_) and consoled his sister (_bhaginīṃ ca samāśvāsya_), the ten-necked lord grew delighted and far more at ease (_hṛṣṭaḥ svasthataro ’bhavat_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having bestowed that dreadful forest upon Khara (vanaṃ ghoraṃ kharasya) and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that mighty lord of the rākṣasas (rākṣasendro balavān), attended by his followers (sahānugaḥ), entered the peerless pleasure-grove of Laṅkā known as Nikumbhilā (nikumbhilā nāma laṅkopavanam uttamam).
+Then that mighty lord of the rākṣasas (_rākṣasendro balavān_), attended by his followers (_sahānugaḥ_), entered the peerless pleasure-grove of Laṅkā known as Nikumbhilā (_nikumbhilā nāma laṅkopavanam uttamam_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then that mighty lord of the rākṣasas (rākṣasendro balavān), attended by 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld a sacrifice already in progress (dadarśa viṣṭhitaṃ yajñam), bristling with a hundred sacrificial posts (yūpa-śatākīrṇam), graced with a serene shrine (saumya-caityopaśobhitam), and blazing as it were with splendor (śriyā samprajvalann iva).
+There he beheld a sacrifice already in progress (_dadarśa viṣṭhitaṃ yajñam_), bristling with a hundred sacrificial posts (_yūpa-śatākīrṇam_), graced with a serene shrine (_saumya-caityopaśobhitam_), and blazing as it were with splendor (_śriyā samprajvalann iva_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ There he beheld a sacrifice already in progress (dadarśa viṣṭhitaṃ yajña
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there he saw his own fearsome son Meghanāda (svasutaṃ ... meghanādaṃ bhayāvaham), clad in the hide of a black antelope (kṛṣṇājina-dharam) and bearing water-pot, topknot, staff, and emblem (kamaṇḍalu-śikhā-dhvajam).
+And there he saw his own fearsome son Meghanāda (_svasutaṃ ... meghanādaṃ bhayāvaham_), clad in the hide of a black antelope (_kṛṣṇājina-dharam_) and bearing water-pot, topknot, staff, and emblem (_kamaṇḍalu-śikhā-dhvajam_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ And there he saw his own fearsome son Meghanāda (svasutaṃ ... meghanādaṃ b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching him, the lord of Laṅkā embraced him with his arms (pariṣvajyātha bāhubhiḥ) and spoke: “What is this observance you are performing, my child (kim idaṃ vatsa vartase)? Tell me truly (brūhi tattvataḥ)!”
+Approaching him, the lord of Laṅkā embraced him with his arms (_pariṣvajyātha bāhubhiḥ_) and spoke: “What is this observance you are performing, my child (_kim idaṃ vatsa vartase_)? Tell me truly (_brūhi tattvataḥ_)!”
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Approaching him, the lord of Laṅkā embraced him with his arms (pariṣvajyāt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Uśanas, foremost of the twice-born and mighty in austerity (dvija-śreṣṭho mahātapāḥ), spoke to Rāvaṇa, foremost of rākṣasas, for the full perfection of the sacrifice (yajña-sampat-samṛddhaye):
+Thereupon Uśanas, foremost of the twice-born and mighty in austerity (_dvija-śreṣṭho mahātapāḥ_), spoke to Rāvaṇa, foremost of rākṣasas, for the full perfection of the sacrifice (_yajña-sampat-samṛddhaye_):
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall recount it to you, O King—hear all of it (aham ākhyāmi te rājañ chrūyatāṃ sarvam eva tat)! Seven far-reaching sacrifices have been accomplished by your son (yajñās te sapta putreṇa prāptāḥ subahuvistarāḥ):
+“I shall recount it to you, O King—hear all of it (_aham ākhyāmi te rājañ chrūyatāṃ sarvam eva tat_)! Seven far-reaching sacrifices have been accomplished by your son (_yajñās te sapta putreṇa prāptāḥ subahuvistarāḥ_):
 </details>
 </details>
 
@@ -277,9 +277,9 @@ Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “The Agniṣṭoma and the Aśvamedha, the Bahusuvarṇaka sacrifice (yajño bahusuvarṇakaḥ), likewise the Rājasūya sacrifice, the Gomedha, and the Vaiṣṇava—
+**8:** “The Agniṣṭoma and the Aśvamedha, the Bahusuvarṇaka sacrifice (_yajño bahusuvarṇakaḥ_), likewise the Rājasūya sacrifice, the Gomedha, and the Vaiṣṇava—
 
-**9:** “And when the Māheśvara sacrifice—most difficult for mortals to attain (pumbhiḥ sudurlabhe)—was set in motion, your son obtained boons directly here from Paśupati himself (sākṣāt paśupater iha):
+**9:** “And when the Māheśvara sacrifice—most difficult for mortals to attain (_pumbhiḥ sudurlabhe_)—was set in motion, your son obtained boons directly here from Paśupati himself (_sākṣāt paśupater iha_):
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A wish-driven celestial chariot moving through the firmament, indestructible (kāmagaṃ syandanaṃ divyam antarikṣacaraṃ dhruvam), and the illusion named Tāmasī, by which utter darkness is produced (māyāṃ ca tāmasīṃ nāma yayā sampadyate tamaḥ).
+“A wish-driven celestial chariot moving through the firmament, indestructible (_kāmagaṃ syandanaṃ divyam antarikṣacaraṃ dhruvam_), and the illusion named Tāmasī, by which utter darkness is produced (_māyāṃ ca tāmasīṃ nāma yayā sampadyate tamaḥ_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, O lord of rākṣasas, when that illusion is deployed in battle (etayā ... māyayā ... prayuktayā), neither gods nor asuras can discern one’s movements (gatiḥ śakyā na hi jñātuṃ surāsuraiḥ).
+“Indeed, O lord of rākṣasas, when that illusion is deployed in battle (_etayā ... māyayā ... prayuktayā_), neither gods nor asuras can discern one’s movements (_gatiḥ śakyā na hi jñātuṃ surāsuraiḥ_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Two quivers inexhaustible in arrows (akṣayāv iṣudhī bāṇaiḥ), a bow most hard to overcome (cāpaṃ cāpi sudurjayam), and a mighty missile, O King, that destroys foes in battle (astraṃ ca balavad ... śatru-vidhvaṃsanaṃ raṇe).
+“Two quivers inexhaustible in arrows (_akṣayāv iṣudhī bāṇaiḥ_), a bow most hard to overcome (_cāpaṃ cāpi sudurjayam_), and a mighty missile, O King, that destroys foes in battle (_astraṃ ca balavad ... śatru-vidhvaṃsanaṃ raṇe_).
 </details>
 </details>
 
@@ -414,7 +414,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained all these boons, O ten-faced lord, this son of yours—and I too—have waited here today at the sacrifice’s close, eager to behold you (tvāṃ didṛkṣuḥ sthito hy aham).”
+“Having obtained all these boons, O ten-faced lord, this son of yours—and I too—have waited here today at the sacrifice’s close, eager to behold you (_tvāṃ didṛkṣuḥ sthito hy aham_).”
 </details>
 </details>
 
@@ -445,7 +445,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the ten-necked one spoke: “This was not well done (na śobhanam idaṃ kṛtam), inasmuch as our enemies headed by Indra have been worshipped with sacrificial offerings (pūjitāḥ śatravo yasmād dravyair indra-purogamāḥ)!
+Then the ten-necked one spoke: “This was not well done (_na śobhanam idaṃ kṛtam_), inasmuch as our enemies headed by Indra have been worshipped with sacrificial offerings (_pūjitāḥ śatravo yasmād dravyair indra-purogamāḥ_)!
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Then the ten-necked one spoke: “This was not well done (na śobhanam idaṃ k�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come now—know that what is done is well done, no doubt (kṛtaṃ viddhi sukṛtaṃ tan na saṃśayaḥ). Come, gentle son, let us return to our own palace (gacchāmaḥ svam eva bhavanaṃ prati)!”
+“Come now—know that what is done is well done, no doubt (_kṛtaṃ viddhi sukṛtaṃ tan na saṃśayaḥ_). Come, gentle son, let us return to our own palace (_gacchāmaḥ svam eva bhavanaṃ prati_)!”
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the ten-necked king returned home with his son and Vibhīṣaṇa (saputraḥ savibhīṣaṇaḥ), and brought down from his car all those captive women, their voices choked with tears (sarvās tā bāṣpa-gadgadāḥ)—
+Then the ten-necked king returned home with his son and Vibhīṣaṇa (_saputraḥ savibhīṣaṇaḥ_), and brought down from his car all those captive women, their voices choked with tears (_sarvās tā bāṣpa-gadgadāḥ_)—
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—women graced with auspicious marks and prized as jewels among gods, dānavas, and rākṣasas (lakṣiṇyo ratna-bhūtāś ca deva-dānava-rakṣasām). Perceiving his brother’s wicked intent toward them (tasya tāsu matiṃ jñātvā), the righteous-souled one spoke these words:
+—women graced with auspicious marks and prized as jewels among gods, dānavas, and rākṣasas (_lakṣiṇyo ratna-bhūtāś ca deva-dānava-rakṣasām_). Perceiving his brother’s wicked intent toward them (_tasya tāsu matiṃ jñātvā_), the righteous-souled one spoke these words:
 </details>
 </details>
 
@@ -578,7 +578,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With such deeds as destroy fame, fortune, and lineage (yaśo-’rtha-kula-nāśanaiḥ), even knowing the outrage inflicted upon kinsmen (dharṣaṇaṃ jñātīnāṃ jñātvā), you act solely by your own willful whim (svamatena viceṣṭase)!
+“With such deeds as destroy fame, fortune, and lineage (_yaśo-’rtha-kula-nāśanaiḥ_), even knowing the outrage inflicted upon kinsmen (_dharṣaṇaṃ jñātīnāṃ jñātvā_), you act solely by your own willful whim (_svamatena viceṣṭase_)!
 </details>
 </details>
 
@@ -617,7 +617,7 @@ Vibhīṣaṇa confronts Rāvaṇa with karmic retribution: just as he abducted 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Overpowering those kinsmen, you brought these fair women here (jñātīṃs tān dharṣayitvemās tvayānītā varāṅganāḥ); now, disregarding you, O King, Madhu has carried off Kumbhīnasī (tvām atikramya madhunā ... kumbhīnasī hṛtā)!”
+“Overpowering those kinsmen, you brought these fair women here (_jñātīṃs tān dharṣayitvemās tvayānītā varāṅganāḥ_); now, disregarding you, O King, Madhu has carried off Kumbhīnasī (_tvām atikramya madhunā ... kumbhīnasī hṛtā_)!”
 </details>
 </details>
 
@@ -648,7 +648,7 @@ Vibhīṣaṇa confronts Rāvaṇa with karmic retribution: just as he abducted 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa spoke these words: “I do not understand what this affair is (nāvagacchāmi kiṃ tv idam)! Who is this one whom you have just named as Madhu (ko ’yaṃ yas tu tvayākhyāto madhur ity eva nāmataḥ)?”
+Then Rāvaṇa spoke these words: “I do not understand what this affair is (_nāvagacchāmi kiṃ tv idam_)! Who is this one whom you have just named as Madhu (_ko ’yaṃ yas tu tvayākhyāto madhur ity eva nāmataḥ_)?”
 </details>
 </details>
 
@@ -679,7 +679,7 @@ Then Rāvaṇa spoke these words: “I do not understand what this affair is (n�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vibhīṣaṇa, filled with indignation (saṅkruddhaḥ), spoke to his brother: “Hear how the fruit of this sinful deed has come home (śrūyatām asya pāpasya karmaṇaḥ phalam āgatam)!
+Then Vibhīṣaṇa, filled with indignation (_saṅkruddhaḥ_), spoke to his brother: “Hear how the fruit of this sinful deed has come home (_śrūyatām asya pāpasya karmaṇaḥ phalam āgatam_)!
 </details>
 </details>
 
@@ -725,11 +725,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “He who is the elder brother of our maternal grandfather Sumālin (mātāmahasya yo bhrātā jyeṣṭho bhrātā sumālinaḥ), the aged and wise night-roamer renowned as Mālyavān (mālyavān iti vikhyāto vṛddhaḥ prājño niśācaraḥ)—
+**22:** “He who is the elder brother of our maternal grandfather Sumālin (_mātāmahasya yo bhrātā jyeṣṭho bhrātā sumālinaḥ_), the aged and wise night-roamer renowned as Mālyavān (_mālyavān iti vikhyāto vṛddhaḥ prājño niśācaraḥ_)—
 
-**23:** “He was our mother’s senior father and our own elder maternal grandfather (pitā jyeṣṭho jananyā no hy asmākaṃ cāryako ’bhavat); his daughter’s daughter was she named Kumbhīnasī (tasya kumbhīnasī nāma duhitur duhitā ’bhavat).
+**23:** “He was our mother’s senior father and our own elder maternal grandfather (_pitā jyeṣṭho jananyā no hy asmākaṃ cāryako ’bhavat_); his daughter’s daughter was she named Kumbhīnasī (_tasya kumbhīnasī nāma duhitur duhitā ’bhavat_).
 
-**24:** “Born of Analā, our mother’s cousin-sister (mātṛṣvasur athāsmākaṃ sā ca kanyā ’nalodbhavā), she stands by dharma as sister to us brothers (bhavaty asmākam evaiṣā bhrātṛṇāṃ dharmataḥ svasā)!
+**24:** “Born of Analā, our mother’s cousin-sister (_mātṛṣvasur athāsmākaṃ sā ca kanyā ’nalodbhavā_), she stands by dharma as sister to us brothers (_bhavaty asmākam evaiṣā bhrātṛṇāṃ dharmataḥ svasā_)!
 </details>
 </details>
 
@@ -772,9 +772,9 @@ Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “She was carried off, O King, by the mighty rākṣasa Madhu (madhunā ... rākṣasena balīyasā), while your son was engaged in his sacrifice (yajña-pravṛtte putre tu) and I was dwelling beneath the waters (mayi cāntarjaloṣite),
+**25:** “She was carried off, O King, by the mighty rākṣasa Madhu (_madhunā ... rākṣasena balīyasā_), while your son was engaged in his sacrifice (_yajña-pravṛtte putre tu_) and I was dwelling beneath the waters (_mayi cāntarjaloṣite_),
 
-**26:** “And while Kumbhakarṇa, O great King, was immersed in sleep (nidrām anubhavaty atha); slaying your foremost rākṣasa ministers honored here (nihatya rākṣasa-śreṣṭhān amātyān iha sammatān),
+**26:** “And while Kumbhakarṇa, O great King, was immersed in sleep (_nidrām anubhavaty atha_); slaying your foremost rākṣasa ministers honored here (_nihatya rākṣasa-śreṣṭhān amātyān iha sammatān_),
 </details>
 </details>
 
@@ -807,7 +807,7 @@ Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He overpowered and abducted her even as she slept within your inner palace (dharṣayitvā hṛtā sā tu suptāpy antaḥpure tava). Though hearing of it, O great King, we bore it in patience and did not slay him (kṣāntam eva hato na saḥ),
+“He overpowered and abducted her even as she slept within your inner palace (_dharṣayitvā hṛtā sā tu suptāpy antaḥpure tava_). Though hearing of it, O great King, we bore it in patience and did not slay him (_kṣāntam eva hato na saḥ_),
 </details>
 </details>
 
@@ -838,7 +838,7 @@ Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since a maiden must inevitably be given by her brothers to a husband (yasmād avaśyaṃ dātavyā kanyā bhartre hi bhrātṛbhiḥ). This then, O foolish-minded one, is the fruit of that sinful deed of yours (phalaṃ pāpasya durmate),
+“Since a maiden must inevitably be given by her brothers to a husband (_yasmād avaśyaṃ dātavyā kanyā bhartre hi bhrātṛbhiḥ_). This then, O foolish-minded one, is the fruit of that sinful deed of yours (_phalaṃ pāpasya durmate_),
 </details>
 </details>
 
@@ -871,9 +871,9 @@ Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** “Come to pass in this very world—let it be known to you (asminn evābhisamprāptaṃ loke viditam astu te)!” Hearing Vibhīṣaṇa’s words, that lord of rākṣasas, Rāvaṇa, convulsed by his own wickedness (daurātmyenātmanoddhūtaḥ), churned like an ocean of scalding waters (taptāmbha iva sāgaraḥ).
+**29:** “Come to pass in this very world—let it be known to you (_asminn evābhisamprāptaṃ loke viditam astu te_)!” Hearing Vibhīṣaṇa’s words, that lord of rākṣasas, Rāvaṇa, convulsed by his own wickedness (_daurātmyenātmanoddhūtaḥ_), churned like an ocean of scalding waters (_taptāmbha iva sāgaraḥ_).
 
-**30:** Then the ten-necked king spoke, enraged and with blood-red eyes (kruddhaḥ saṃraktalocanaḥ): “Let my chariot be made ready at once (kalpyatāṃ me rathaḥ śīghram)! Let our heroes arm themselves (śūrāḥ sajjībhavantu naḥ)!
+**30:** Then the ten-necked king spoke, enraged and with blood-red eyes (_kruddhaḥ saṃraktalocanaḥ_): “Let my chariot be made ready at once (_kalpyatāṃ me rathaḥ śīghram_)! Let our heroes arm themselves (_śūrāḥ sajjībhavantu naḥ_)!
 </details>
 </details>
 
@@ -924,9 +924,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “Let my brother Kumbhakarṇa and all the foremost night-roamers (ye ca mukhyā niśācarāḥ) mount their vehicles (vāhanāny adhirohantu), bearing manifold weapons and missiles (nānā-praharaṇāyudhāḥ)!
+**31:** “Let my brother Kumbhakarṇa and all the foremost night-roamers (_ye ca mukhyā niśācarāḥ_) mount their vehicles (_vāhanāny adhirohantu_), bearing manifold weapons and missiles (_nānā-praharaṇāyudhāḥ_)!
 
-**32:** “Having slain today in battle that Madhu who has no fear of Rāvaṇa (madhuṃ rāvaṇa-nirbhayam), I shall march to the world of the gods (suralokaṃ gamiṣyāmi), eager for war and surrounded by my allies (yuddha-kāṅkṣī suhṛd-vṛtaḥ)!”
+**32:** “Having slain today in battle that Madhu who has no fear of Rāvaṇa (_madhuṃ rāvaṇa-nirbhayam_), I shall march to the world of the gods (_suralokaṃ gamiṣyāmi_), eager for war and surrounded by my allies (_yuddha-kāṅkṣī suhṛd-vṛtaḥ_)!”
 </details>
 </details>
 
@@ -957,7 +957,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Four thousand foremost akṣauhiṇī divisions of rākṣasas (akṣauhiṇī-sahasrāṇi catvāry agryāṇi rakṣasām), armed with diverse weapons and eager for combat (yuddha-kāṅkṣiṇām), swiftly sallied forth (āśu niryayuḥ).
+Four thousand foremost _akṣauhiṇī_ divisions of rākṣasas (_akṣauhiṇī-sahasrāṇi catvāry agryāṇi rakṣasām_), armed with diverse weapons and eager for combat (_yuddha-kāṅkṣiṇām_), swiftly sallied forth (_āśu niryayuḥ_).
 </details>
 </details>
 
@@ -988,7 +988,7 @@ Four thousand foremost akṣauhiṇī divisions of rākṣasas (akṣauhiṇī-s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indrajit marched ahead of the army, rallying the soldiers (indrajit tv agrataḥ sainyāt sainikān parigṛhya ca); Rāvaṇa went in the center (jagāma rāvaṇo madhye), and Kumbhakarṇa in the rear (kumbhakarṇaś ca pṛṣṭhataḥ).
+Indrajit marched ahead of the army, rallying the soldiers (_indrajit tv agrataḥ sainyāt sainikān parigṛhya ca_); Rāvaṇa went in the center (_jagāma rāvaṇo madhye_), and Kumbhakarṇa in the rear (_kumbhakarṇaś ca pṛṣṭhataḥ_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ Indrajit marched ahead of the army, rallying the soldiers (indrajit tv agrataḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The righteous-souled Vibhīṣaṇa remained in Laṅkā practicing dharma (laṅkāyāṃ dharmam ācarat), while all the remaining mighty warriors marched toward Madhupura (śeṣāḥ sarve mahābhāgā yayur madhupuraṃ prati).
+The righteous-souled Vibhīṣaṇa remained in Laṅkā practicing dharma (_laṅkāyāṃ dharmam ācarat_), while all the remaining mighty warriors marched toward Madhupura (_śeṣāḥ sarve mahābhāgā yayur madhupuraṃ prati_).
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ The righteous-souled Vibhīṣaṇa remained in Laṅkā practicing dharma (la�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounted on asses, camels, blazing steeds, crocodiles, and great serpents (kharair uṣṭrair hayair dīptaiḥ śiṃśumāraiḥ mahoragaiḥ), all the rākṣasas marched onward, packing the sky without a gap (kṛtvā ’’kāśaṃ nirantaram).
+Mounted on asses, camels, blazing steeds, crocodiles, and great serpents (_kharair uṣṭrair hayair dīptaiḥ śiṃśumāraiḥ mahoragaiḥ_), all the rākṣasas marched onward, packing the sky without a gap (_kṛtvā ’’kāśaṃ nirantaram_).
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ Followed by hundreds of anti-god Daityas, Rāvaṇa enters Madhupura and finds h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hundreds of Daityas there who harbored ancient enmity with the gods (daityāś ca śataśas tatra kṛta-vairāś ca daivataiḥ), beholding Rāvaṇa on the march, followed closely behind him (anvagacchan hi pṛṣṭhataḥ).
+Hundreds of Daityas there who harbored ancient enmity with the gods (_daityāś ca śataśas tatra kṛta-vairāś ca daivataiḥ_), beholding Rāvaṇa on the march, followed closely behind him (_anvagacchan hi pṛṣṭhataḥ_).
 </details>
 </details>
 
@@ -1115,7 +1115,7 @@ Hundreds of Daityas there who harbored ancient enmity with the gods (daityāś c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached and entered Madhupura (gatvā madhupuraṃ praviśya ca), the ten-faced king did not find Madhu there, but beheld his sister (bhaginīṃ tatra dṛṣṭavān); and bowing low with joined palms (prahvāñjalir bhūtvā), she fell with her head to his feet (śirasā caraṇau gatā)—
+Having reached and entered Madhupura (_gatvā madhupuraṃ praviśya ca_), the ten-faced king did not find Madhu there, but beheld his sister (_bhaginīṃ tatra dṛṣṭavān_); and bowing low with joined palms (_prahvāñjalir bhūtvā_), she fell with her head to his feet (_śirasā caraṇau gatā_)—
 </details>
 </details>
 
@@ -1146,7 +1146,7 @@ Having reached and entered Madhupura (gatvā madhupuraṃ praviśya ca), the ten
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—she, the frightened Kumbhīnasī (trastā kumbhīnasī tadā), at the feet of that rākṣasa king. Lifting her up (tāṃ samutthāpayām āsa), he spoke, saying, “Do not be afraid (na bhetavyam iti bruvan)!”
+—she, the frightened Kumbhīnasī (_trastā kumbhīnasī tadā_), at the feet of that rākṣasa king. Lifting her up (_tāṃ samutthāpayām āsa_), he spoke, saying, “Do not be afraid (_na bhetavyam iti bruvan_)!”
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ Having reached and entered Madhupura (gatvā madhupuraṃ praviśya ca), the ten
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Rāvaṇa, foremost of rākṣasas, asked: “What else may I do for you (kiṃ cāpi karavāṇi te)?” She replied: “If you are pleased with me, O mighty-armed King (yadi me rājan prasannas tvaṃ mahābhuja), you ought not to slay my husband here today, O bestower of honor (bhartāraṃ na mamehādya hantum arhasi mānada)!
+And Rāvaṇa, foremost of rākṣasas, asked: “What else may I do for you (_kiṃ cāpi karavāṇi te_)?” She replied: “If you are pleased with me, O mighty-armed King (_yadi me rājan prasannas tvaṃ mahābhuja_), you ought not to slay my husband here today, O bestower of honor (_bhartāraṃ na mamehādya hantum arhasi mānada_)!
 </details>
 </details>
 
@@ -1220,9 +1220,9 @@ Holding Rāvaṇa to his own word ‘Fear not,’ Kumbhīnasī wins Madhu’s pa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** “For no terror like this is spoken of here for noble women (na hīdṛśaṃ bhayaṃ kiñcit kulastrīṇām ihocyate); even among all terrors, widowhood is the greatest calamity (bhayānām api sarveṣāṃ vaidhavyaṃ vyasanaṃ mahat)!
+**41:** “For no terror like this is spoken of here for noble women (_na hīdṛśaṃ bhayaṃ kiñcit kulastrīṇām ihocyate_); even among all terrors, widowhood is the greatest calamity (_bhayānām api sarveṣāṃ vaidhavyaṃ vyasanaṃ mahat_)!
 
-**42:** “Be true to your word, O King of kings, and look kindly upon me as I entreat you (satyavāg bhava rājendra mām avekṣasva yācatīm)! You yourself declared, O great King, ‘Do not be afraid (na bhetavyam iti svayam)!’”
+**42:** “Be true to your word, O King of kings, and look kindly upon me as I entreat you (_satyavāg bhava rājendra mām avekṣasva yācatīm_)! You yourself declared, O great King, ‘Do not be afraid (_na bhetavyam iti svayam_)!’”
 </details>
 </details>
 
@@ -1256,7 +1256,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa spoke, delighted, to his sister standing there (rāvaṇas tv abravīd dhṛṣṭaḥ svasāraṃ tatra saṃsthitām): “Tell me swiftly where that husband of yours is (kva cāsau tava bhartā vai mama śīghraṃ nivedyatām)!
+Then Rāvaṇa spoke, delighted, to his sister standing there (_rāvaṇas tv abravīd dhṛṣṭaḥ svasāraṃ tatra saṃsthitām_): “Tell me swiftly where that husband of yours is (_kva cāsau tava bhartā vai mama śīghraṃ nivedyatām_)!
 </details>
 </details>
 
@@ -1289,9 +1289,9 @@ Then Rāvaṇa spoke, delighted, to his sister standing there (rāvaṇas tv abr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “Together with him I shall march to the world of the gods that brings victory (saha tena gamiṣyāmi suralokaṃ jayāvahe); out of compassion and affection for you, I have desisted from slaying Madhu (tava kāruṇya-sauhārdān nivṛtto ’smi madhor vadhāt)!”
+**44:** “Together with him I shall march to the world of the gods that brings victory (_saha tena gamiṣyāmi suralokaṃ jayāvahe_); out of compassion and affection for you, I have desisted from slaying Madhu (_tava kāruṇya-sauhārdān nivṛtto ’smi madhor vadhāt_)!”
 
-**45:** Thus addressed, that rākṣasa woman roused her sleeping husband (samutthāpya prasuptaṃ taṃ niśācaram), and as if overjoyed (samprahṛṣṭeva), spoke these words to her lord:
+**45:** Thus addressed, that rākṣasa woman roused her sleeping husband (_samutthāpya prasuptaṃ taṃ niśācaram_), and as if overjoyed (_samprahṛṣṭeva_), spoke these words to her lord:
 </details>
 </details>
 
@@ -1324,7 +1324,7 @@ Then Rāvaṇa spoke, delighted, to his sister standing there (rāvaṇas tv abr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here has arrived my mighty brother Daśagrīva (eṣa prāpto daśagrīvo mama bhrātā mahābalaḥ); eager for the conquest of the world of the gods, he chooses you for his alliance (suraloka-jayākāṅkṣī sāhāyye tvāṃ vṛṇoti ca)!
+“Here has arrived my mighty brother Daśagrīva (_eṣa prāpto daśagrīvo mama bhrātā mahābalaḥ_); eager for the conquest of the world of the gods, he chooses you for his alliance (_suraloka-jayākāṅkṣī sāhāyye tvāṃ vṛṇoti ca_)!
 </details>
 </details>
 
@@ -1365,9 +1365,9 @@ Urged by Kumbhīnasī to aid his affectionate kinsman, Madhu consents and honors
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**47:** “Therefore, O rākṣasa, go with your kinsmen to lend him aid (tad asya tvaṃ sahāyārthaṃ sabandhur gaccha rākṣasa); it is fitting to serve the purpose of one who is affectionate and honors his kin (snigdhasya bhajamānasya yuktam arthāya kalpitum).” Hearing those words of hers, Madhu replied, “So be it (tathety āha madhur vacaḥ)!”
+**47:** “Therefore, O rākṣasa, go with your kinsmen to lend him aid (_tad asya tvaṃ sahāyārthaṃ sabandhur gaccha rākṣasa_); it is fitting to serve the purpose of one who is affectionate and honors his kin (_snigdhasya bhajamānasya yuktam arthāya kalpitum_).” Hearing those words of hers, Madhu replied, “So be it (_tathety āha madhur vacaḥ_)!”
 
-**48:** Approaching with due propriety, he waited upon that foremost of rākṣasas (dadarśa rākṣasa-śreṣṭhaṃ yathānyāyam upetya saḥ) and worshipped Rāvaṇa, sovereign of the rākṣasas, in accordance with dharma (pūjayām āsa dharmeṇa).
+**48:** Approaching with due propriety, he waited upon that foremost of rākṣasas (_dadarśa rākṣasa-śreṣṭhaṃ yathānyāyam upetya saḥ_) and worshipped Rāvaṇa, sovereign of the rākṣasas, in accordance with dharma (_pūjayām āsa dharmeṇa_).
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ Urged by Kumbhīnasī to aid his affectionate kinsman, Madhu consents and honors
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having received hospitality in Madhu’s palace (prāpya pūjāṃ ... madhu-veśmani), the valiant ten-necked king passed a single night there (tatra caikāṃ niśām uṣya) and then set forth upon his march (gamanāyopacakrame).
+Having received hospitality in Madhu’s palace (_prāpya pūjāṃ ... madhu-veśmani_), the valiant ten-necked king passed a single night there (_tatra caikāṃ niśām uṣya_) and then set forth upon his march (_gamanāyopacakrame_).
 </details>
 </details>
 
@@ -1429,7 +1429,7 @@ Having received hospitality in Madhu’s palace (prāpya pūjāṃ ... madhu-ve�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, reaching Mount Kailāsa, the abode of Vaiśravaṇa (kailāsam āsādya śailaṃ vaiśravaṇālayam), that lord of rākṣasas, resplendent as Mahendra (mahendrābhaḥ), encamped his army there (senām upaniveśayat).
+Thereupon, reaching Mount Kailāsa, the abode of Vaiśravaṇa (_kailāsam āsādya śailaṃ vaiśravaṇālayam_), that lord of rākṣasas, resplendent as Mahendra (_mahendrābhaḥ_), encamped his army there (_senām upaniveśayat_).
 </details>
 </details>
 

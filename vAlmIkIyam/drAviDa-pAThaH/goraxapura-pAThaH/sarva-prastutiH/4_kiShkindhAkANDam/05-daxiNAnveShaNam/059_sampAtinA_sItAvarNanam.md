@@ -88,7 +88,7 @@ ambrosia, then those best fly-jumpers are gladdened and rejoiced. [4-59-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having heard (niśamya) that speech tasting like nectar (amṛtāsvādam) spoken by the speaking king of vultures (gṛdhrarājena), those bulls among leapers (plavagarṣabhāḥ) [became] delighted.
+Then, having heard (_niśamya_) that speech tasting like nectar (_amṛtāsvādam_) spoken by the speaking king of vultures (_gṛdhrarājena_), those bulls among leapers (_plavagarṣabhāḥ_) [became] delighted.
 </details>
 </details>
 
@@ -144,7 +144,7 @@ the surface of earth on which they sat for self-immolation, and spoke to kingly 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Jāmbavān, the foremost of monkeys (vānaraśreṣṭhaḥ), springing up suddenly from the surface of the earth (bhūtalāt) together with all the leapers, spoke to the king of vultures:
+Jāmbavān, the foremost of monkeys (_vānaraśreṣṭhaḥ_), springing up suddenly from the surface of the earth (_bhūtalāt_) together with all the leapers, spoke to the king of vultures:
 </details>
 </details>
 
@@ -197,7 +197,7 @@ abducted Maithili, and thus you help all these forest-dwellers. [4-59-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where is Sītā? Or by whom was she seen (dṛṣṭā), or who carries off Maithilī? Let Your Honor (bhavān) recount all that; become the refuge (gatiḥ) of the forest-dwellers!
+“Where is Sītā? Or by whom was she seen (_dṛṣṭā_), or who carries off Maithilī? Let Your Honor (_bhavān_) recount all that; become the refuge (_gatiḥ_) of the forest-dwellers!
 </details>
 </details>
 
@@ -250,7 +250,7 @@ Jambavanta and others asked Sampaati. [4-59-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who does not reckon (na cintayati) the valor (vikramam) of the arrows of Dāśarathi—falling with the speed of a thunderbolt (vajraveganipātinām)—discharged by Lakṣmaṇa himself?”
+“Who does not reckon (_na cintayati_) the valor (_vikramam_) of the arrows of Dāśarathi—falling with the speed of a thunderbolt (_vajraveganipātinām_)—discharged by Lakṣmaṇa himself?”
 </details>
 </details>
 
@@ -303,7 +303,7 @@ Seetha. [4-59-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reassuring (āśvāsayan) again those monkeys who had abandoned [their fast unto death] (pratisamuktān) and were intent upon hearing of Sītā (sītāśrutisamāhitān), he, pleased, spoke this word:
+Reassuring (_āśvāsayan_) again those monkeys who had abandoned [their fast unto death] (_pratisamuktān_) and were intent upon hearing of Sītā (_sītāśrutisamāhitān_), he, pleased, spoke this word:
 </details>
 </details>
 
@@ -355,7 +355,7 @@ whom it is said to me, and where that wide-eyed Seetha is... [4-59-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let it be heard (śrūyatām) here how the abduction of Vaidehī (vaidehyāḥ haraṇam) was heard by me, and by whom it was reported to me, and where the large-eyed lady (āyatalocanā) [now abides].
+“Let it be heard (_śrūyatām_) here how the abduction of Vaidehī (_vaidehyāḥ haraṇam_) was heard by me, and by whom it was reported to me, and where the large-eyed lady (_āyatalocanā_) [now abides].
 </details>
 </details>
 
@@ -416,7 +416,7 @@ yojana-s, whereupon my age has advanced and my liveliness and forcefulness have 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fallen long ago (cirāt nipatitaḥ) upon this inaccessible mountain (girau durge) extending for many yojanas, I am old, with my life-breath and vigor wasted (kṣīṇaprāṇaparākramaḥ).
+“Fallen long ago (_cirāt nipatitaḥ_) upon this inaccessible mountain (_girau durge_) extending for many _yojanas_, I am old, with my life-breath and vigor wasted (_kṣīṇaprāṇaparākramaḥ_).
 </details>
 </details>
 
@@ -468,7 +468,7 @@ name is sustaining me who am deteriorated to dire straits, with timely sustenanc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Me, reduced to such a condition (evaṃgatam), my son named Supārśva by name, the best of flyers (patatāṃ varaḥ), sustains with food in due season (yathākālam).
+“Me, reduced to such a condition (_evaṃgatam_), my son named Supārśva by name, the best of flyers (_patatāṃ varaḥ_), sustains with food in due season (_yathākālam_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ snakes, fear is exigent to deer, like that hunger is exigent to us, the eagles..
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fierce in desire (tīkṣṇakāmāḥ) are the Gandharvas, fierce in wrath (tīkṣṇakopāḥ) are the serpents; fierce is the fear of deer, and hence fierce in hunger (tīkṣṇakṣudhāḥ) are we [birds].
+“Fierce in desire (_tīkṣṇakāmāḥ_) are the Gandharvas, fierce in wrath (_tīkṣṇakopāḥ_) are the serpents; fierce is the fear of deer, and hence fierce in hunger (_tīkṣṇakṣudhāḥ_) are we [birds].
 </details>
 </details>
 
@@ -574,7 +574,7 @@ turned up without flesh when the sun of the day went down... [4-59-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once, when I was afflicted by hunger (kṣudhārtasya) and craving food (āhārābhikāṅkṣiṇaḥ), that son of mine arrived when the sun had set in the day (gatasūrye 'hani), without meat (anāmiṣaḥ).
+“Once, when I was afflicted by hunger (_kṣudhārtasya_) and craving food (_āhārābhikāṅkṣiṇaḥ_), that son of mine arrived when the sun had set in the day (_gatasūrye &#x27;hani_), without meat (_anāmiṣaḥ_).
 </details>
 </details>
 
@@ -626,7 +626,7 @@ gladness pacified me and said this sentence about what has actually happened ...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Harassed (pīḍitaḥ) by me on account of the withholding of food (āhārasaṃrodhāt), that increaser of affection (prītivardhanaḥ), having conciliated [me] (anumānya), spoke this word according to the truth:
+“Harassed (_pīḍitaḥ_) by me on account of the withholding of food (_āhārasaṃrodhāt_), that increaser of affection (_prītivardhanaḥ_), having conciliated [me] (_anumānya_), spoke this word according to the truth:
 </details>
 </details>
 
@@ -678,7 +678,7 @@ the Mt. Mahendra, I very well hovered on it... [4-59-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`I, O father (tāta), having soared into the sky (kham āplutaḥ) in due time seeking flesh (āmiṣārthī), stood firm blocking the gateway of Mount Mahendra (mahendrasya girer dvāram).
+`I, O father (_tāta_), having soared into the sky (_kham āplutaḥ_) in due time seeking flesh (_āmiṣārthī_), stood firm blocking the gateway of Mount Mahendra (_mahendrasya girer dvāram_).
 </details>
 </details>
 
@@ -739,7 +739,7 @@ thousands of underwater beings of the ocean on my own... [4-59-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`There, facing downward (avāṅmukhaḥ), I alone resolved (adhyavasam) to block the path of thousands of creatures (sattvasahasrāṇām) moving within the ocean (sāgarāntaracāriṇām).
+`There, facing downward (_avāṅmukhaḥ_), I alone resolved (_adhyavasam_) to block the path of thousands of creatures (_sattvasahasrāṇām_) moving within the ocean (_sāgarāntaracāriṇām_).
 </details>
 </details>
 
@@ -791,7 +791,7 @@ is going away captivating a lady who equals the aurora in her shine. [4-59-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`There someone resembling a mass of crushed collyrium (bhinnāñjanacayopamaḥ) was seen by me going along, having seized a woman possessing the radiance of the rising sun (sūryodayasamaprabhām).
+`There someone resembling a mass of crushed collyrium (_bhinnāñjanacayopamaḥ_) was seen by me going along, having seized a woman possessing the radiance of the rising sun (_sūryodayasamaprabhām_).
 </details>
 </details>
 
@@ -845,7 +845,7 @@ benignly, basely and beggarly besought way-leave for their traversal... [4-59-15
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Having seen those two, I made up my mind (kṛtaniścayaḥ) for the sake of food (abhyavahārārtham); [yet] I was entreated for passage (panthānam anuyācitaḥ) by him, polite, with conciliatory speech (sāmnā).
+`Having seen those two, I made up my mind (_kṛtaniścayaḥ_) for the sake of food (_abhyavahārārtham_); [yet] I was entreated for passage (_panthānam anuyācitaḥ_) by him, polite, with conciliatory speech (_sāmnā_).
 </details>
 </details>
 
@@ -898,7 +898,7 @@ someone among basely people, isn't it! Then what else is to be said of my kind, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Indeed, on earth there is found no striker (prahartā) of those who approach with conciliation (sāmopapannānām), even among base men (nīceṣv api)—how much less (kim aṅga bata) one like me!
+`Indeed, on earth there is found no striker (_prahartā_) of those who approach with conciliation (_sāmopapannānām_), even among base men (_nīceṣv api_)—how much less (_kim aṅga bata_) one like me!
 </details>
 </details>
 
@@ -953,7 +953,7 @@ the beings that move in the firmament have approached and applauded me... [4-59-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`He went off swiftly (vegitaḥ), as if contracting the sky (vyoma saṃkṣipann iva) with his energy; then I, having been approached by sky-faring beings (khecarair bhūtaiḥ), was honored (sabhājitaḥ).
+`He went off swiftly (_vegitaḥ_), as if contracting the sky (_vyoma saṃkṣipann iva_) with his energy; then I, having been approached by sky-faring beings (_khecarair bhūtaiḥ_), was honored (_sabhājitaḥ_).
 </details>
 </details>
 
@@ -1016,7 +1016,7 @@ living, fortunately...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`’By good fortune (diṣṭyā) Sītā lives!’—so indeed the great sages (maharṣayaḥ) spoke to me; ’Somehow (kathaṃcit) that one has gone with his wife (sakalatraḥ); [it is] well for you without doubt (asaṃśayam).’
+`’By good fortune (_diṣṭyā_) Sītā lives!’—so indeed the great sages (_maharṣayaḥ_) spoke to me; ’Somehow (_kathaṃcit_) that one has gone with his wife (_sakalatraḥ_); [it is] well for you without doubt (_asaṃśayam_).’
 </details>
 </details>
 
@@ -1058,7 +1058,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Thus addressed (evam uktaḥ) then by those supremely splendid Siddhas (siddhaiḥ paramaśobhanaiḥ), I [stood]; and he was made known (prativeditaḥ) to me as Rāvaṇa, king of the Rākṣasas—
+`Thus addressed (_evam uktaḥ_) then by those supremely splendid Siddhas (_siddhaiḥ paramaśobhanaiḥ_), I [stood]; and he was made known (_prativeditaḥ_) to me as Rāvaṇa, king of the Rākṣasas—
 </details>
 </details>
 
@@ -1161,11 +1161,11 @@ bird can initiate any action, indeed! [4-59-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** `[while I had stood] beholding (paśyan) the wife of Rāma Dāśarathi, the daughter of Janaka (janakātmajām), from whom ornaments and silk garments had fallen (bhraṣṭābharaṇakauśeyām), overcome by the surge of grief (śokavegaparājitām),
+**20:** `[while I had stood] beholding (_paśyan_) the wife of Rāma Dāśarathi, the daughter of Janaka (_janakātmajām_), from whom ornaments and silk garments had fallen (_bhraṣṭābharaṇakauśeyām_), overcome by the surge of grief (_śokavegaparājitām_),
 
-**21:** `crying out (krośantīm) the names of Rāma and Lakṣmaṇa, with her hair disheveled (muktamūrdhajām). This, O father, was the passing of time (kālātyayaḥ).'—Thus the best of eloquent speakers (vākyavidāṃ varaḥ)—
+**21:** `crying out (_krośantīm_) the names of Rāma and Lakṣmaṇa, with her hair disheveled (_muktamūrdhajām_). This, O father, was the passing of time (_kālātyayaḥ_).&#x27;—Thus the best of eloquent speakers (_vākyavidāṃ varaḥ_)—
 
-**22:** “Supārśva reported (pratyavedayat) this entire matter (etad arthaṃ samagram) to me. Even having heard that, no resolve of mine (me buddhiḥ) arose toward valorous action (parākrame).
+**22:** “Supārśva reported (_pratyavedayat_) this entire matter (_etad arthaṃ samagram_) to me. Even having heard that, no resolve of mine (_me buddhiḥ_) arose toward valorous action (_parākrame_).
 </details>
 </details>
 
@@ -1221,7 +1221,7 @@ information into action it certainly depends on your bravery. [4-59-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For how could a wingless bird (apakṣaḥ pakṣī) undertake any deed (karma kiṃcit)? Yet whatever is possible to be done by me, abiding in the virtues of speech and intellect (vāgbuddhiguṇavartinā)—
+“For how could a wingless bird (_apakṣaḥ pakṣī_) undertake any deed (_karma kiṃcit_)? Yet whatever is possible to be done by me, abiding in the virtues of speech and intellect (_vāgbuddhiguṇavartinā_)—
 </details>
 </details>
 
@@ -1285,7 +1285,7 @@ that task is mine too. There is no doubt bout it. [4-59-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let it be heard (śrūyatām); in that matter I shall declare what rests upon your manly valor (bhavatāṃ pauruṣāśrayam). By both speech and counsel (vāṅmatibhyām) I shall surely do what is dear (priyam) to you all!
+“Let it be heard (_śrūyatām_); in that matter I shall declare what rests upon your manly valor (_bhavatāṃ pauruṣāśrayam_). By both speech and counsel (_vāṅmatibhyām_) I shall surely do what is dear (_priyam_) to you all!
 </details>
 </details>
 
@@ -1341,7 +1341,7 @@ and as invincible ones even for gods, hence Sugreeva, the king of monkeys, sheph
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For whatever is the task of Dāśarathi (dāśaratheḥ kāryam), that is mine—here there is no doubt (nātra saṃśayaḥ). Therefore you—preeminent in intelligence (matiśreṣṭhāḥ), mighty, and high-minded (manasvinaḥ)—
+“For whatever is the task of Dāśarathi (_dāśaratheḥ kāryam_), that is mine—here there is no doubt (_nātra saṃśayaḥ_). Therefore you—preeminent in intelligence (_matiśreṣṭhāḥ_), mighty, and high-minded (_manasvinaḥ_)—
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ enough to give defence or offence to all the three worlds. [4-59-26b, 27a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“dispatched by the king of monkeys (kapirājena), are unassailable even by the gods (devair api durāsadāḥ); and the heron-feathered arrows (kaṅkapatriṇaḥ) of Rāma and Lakṣmaṇa, fashioned [by the Creator] (vihitāḥ),
+“dispatched by the king of monkeys (_kapirājena_), are unassailable even by the gods (_devair api durāsadāḥ_); and the heron-feathered arrows (_kaṅkapatriṇaḥ_) of Rāma and Lakṣmaṇa, fashioned [by the Creator] (_vihitāḥ_),
 </details>
 </details>
 
@@ -1445,7 +1445,7 @@ as capable vanara-s there is nothing impossible to you, even in the least. [4-59
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“are sufficient (paryāptāḥ) for the protection and subjugation of even the three worlds (trayāṇām api lokānām). Granted indeed (kāmaṃ khalu) that Daśagrīva is endowed with energy and strength; yet for you who are capable (samarthānām), nothing at all is hard to accomplish (duṣkaram).
+“are sufficient (_paryāptāḥ_) for the protection and subjugation of even the three worlds (_trayāṇām api lokānām_). Granted indeed (_kāmaṃ khalu_) that Daśagrīva is endowed with energy and strength; yet for you who are capable (_samarthānām_), nothing at all is hard to accomplish (_duṣkaram_).
 </details>
 </details>
 
@@ -1508,7 +1508,7 @@ prudent souls of your kind with not backslide in tasks, isn't it! [4-59-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore enough of delay (alaṃ kālasaṅgena)! Let a firm resolve of intellect (buddhiniścayaḥ) be made; for wise ones like you (buddhimanto bhavadvidhāḥ) do not lag behind (na sajjante) in deeds.”
+“Therefore enough of delay (_alaṃ kālasaṅgena_)! Let a firm resolve of intellect (_buddhiniścayaḥ_) be made; for wise ones like you (_buddhimanto bhavadvidhāḥ_) do not lag behind (_na sajjante_) in deeds.”
 </details>
 </details>
 

@@ -66,7 +66,7 @@ Hearing Sāraṇa's account, Śuka points out the remaining Kiṣkindhā monkey 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard Sāraṇa's speech, Śuka then pointed out (ādiśya) all the rest of that army (balaṃ tat sarvam) and spoke these words to Rāvaṇa, overlord of the Rākṣasas:
+Having heard Sāraṇa&#x27;s speech, Śuka then pointed out (_ādiśya_) all the rest of that army (_balaṃ tat sarvam_) and spoke these words to Rāvaṇa, overlord of the Rākṣasas:
 </details>
 </details>
 
@@ -136,9 +136,9 @@ with the valour of the gods."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Those whom you see standing here like rutting great elephants (mattān iva mahādvipān), like banyan trees along the Gaṅgā (nyagrodhān iva gāṅgeyān), and like śāla trees of the Himālaya (sālān haimavatān iva)—
+**2:** “Those whom you see standing here like rutting great elephants (_mattān iva mahādvipān_), like banyan trees along the Gaṅgā (_nyagrodhān iva gāṅgeyān_), and like _śāla_ trees of the Himālaya (_sālān haimavatān iva_)—
 
-**3:** —these, O king, are irresistible (duṣprasahāḥ), mighty, and capable of assuming any form at will (kāmarūpiṇaḥ); resembling Daityas and Dānavas, they possess the valor of the gods in battle (yuddhe devaparākramāḥ).
+**3:** —these, O king, are irresistible (_duṣprasahāḥ_), mighty, and capable of assuming any form at will (_kāmarūpiṇaḥ_); resembling Daityas and Dānavas, they possess the valor of the gods in battle (_yuddhe devaparākramāḥ_).
 </details>
 </details>
 
@@ -219,9 +219,9 @@ musicians, are able to change their form at will and always stay in Kishkindha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Of these there are nine, five, and seven thousand crores (koṭisahasrāṇi), as well as thousands of śaṅkus (śaṅkusahasrāṇi) and hundreds of vṛndas (vṛndaśatāni).
+**4:** Of these there are nine, five, and seven thousand crores (_koṭisahasrāṇi_), as well as thousands of _śaṅkus_ (_śaṅkusahasrāṇi_) and hundreds of _vṛndas_ (_vṛndaśatāni_).
 
-**5:** These are Sugrīva's companions (sugrīvasacivāḥ), ever dwelling in Kiṣkindhā (kiṣkindhānilayāḥ)—monkeys begotten by gods and Gandharvas (devagandharvair utpannāḥ) and able to change their form at will (kāmarūpiṇaḥ).
+**5:** These are Sugrīva&#x27;s companions (_sugrīvasacivāḥ_), ever dwelling in Kiṣkindhā (_kiṣkindhānilayāḥ_)—monkeys begotten by gods and Gandharvas (_devagandharvair utpannāḥ_) and able to change their form at will (_kāmarūpiṇaḥ_).
 </details>
 </details>
 
@@ -303,9 +303,9 @@ destroying Lanka by their power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** And those two youths of godlike form (kumārau devarūpiṇau) whom you see standing there are Mainda and Dvivida; there is none equal to those two in battle (tābhyāṃ nāsti samo yudhi).
+**6:** And those two youths of godlike form (_kumārau devarūpiṇau_) whom you see standing there are Mainda and Dvivida; there is none equal to those two in battle (_tābhyāṃ nāsti samo yudhi_).
 
-**7:** Both have partaken of ambrosia (amṛtaprāśinau) with the sanction of Brahmā (brahmaṇā samanujñātau), and these two aspire to crush Laṅkā as she stands (yathā) by their own might (ojasā).
+**7:** Both have partaken of ambrosia (_amṛtaprāśinau_) with the sanction of Brahmā (_brahmaṇā samanujñātau_), and these two aspire to crush Laṅkā as she stands (_yathā_) by their own might (_ojasā_).
 </details>
 </details>
 
@@ -390,11 +390,11 @@ known as the son of wind-god and famously called as Hanuman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** And that Vānara whom you see standing like a rutting elephant (prabhinnam iva kuñjaram), who when enraged (kruddhaḥ) could by his strength (balāt) agitate even the ocean (samudram api kṣobhayet)—
+**8:** And that Vānara whom you see standing like a rutting elephant (_prabhinnam iva kuñjaram_), who when enraged (_kruddhaḥ_) could by his strength (_balāt_) agitate even the ocean (_samudram api kṣobhayet_)—
 
-**9:** —he is the one who came into Laṅkā to find Vaidehī and to spy out you (vaidehyās tava cābhigantā), O lord! Behold this Vānara, whom you saw before (purā dṛṣṭam), now returned (punar āgatam).
+**9:** —he is the one who came into Laṅkā to find Vaidehī and to spy out you (_vaidehyās tava cābhigantā_), O lord! Behold this Vānara, whom you saw before (_purā dṛṣṭam_), now returned (_punar āgatam_).
 
-**10:** Eldest son of Kesarī (jyeṣṭhaḥ kesariṇaḥ putraḥ), renowned as the son of the Wind-god (vātātmaja iti śrutaḥ), he is famed as Hanūmān, by whom the ocean was leaped across (laṅghito yena sāgaraḥ).
+**10:** Eldest son of Kesarī (_jyeṣṭhaḥ kesariṇaḥ putraḥ_), renowned as the son of the Wind-god (_vātātmaja iti śrutaḥ_), he is famed as Hanūmān, by whom the ocean was leaped across (_laṅghito yena sāgaraḥ_).
 </details>
 </details>
 
@@ -446,7 +446,7 @@ strength and form always moving like the wind-god, having an uninterrupted mobil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Able to assume any form at will (kāmarūpaḥ), this best of monkeys is endowed with strength and comeliness (balarūpasamanvitaḥ), and is of irresistible course (anivāryagatiḥ) like the ever-moving lord, the Wind (satatagaḥ prabhuḥ).
+Able to assume any form at will (_kāmarūpaḥ_), this best of monkeys is endowed with strength and comeliness (_balarūpasamanvitaḥ_), and is of irresistible course (_anivāryagatiḥ_) like the ever-moving lord, the Wind (_satatagaḥ prabhuḥ_).
 </details>
 </details>
 
@@ -519,9 +519,9 @@ intoxicated as he was with his own strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** When a mere child (bālaḥ), it is told (kila), being hungry (bubhukṣitaḥ) and beholding the rising sun (udyantaṃ bhāskaram), he traversed a course of three thousand yojanas (triyojanasahasram adhvānam),—
+**12:** When a mere child (_bālaḥ_), it is told (_kila_), being hungry (_bubhukṣitaḥ_) and beholding the rising sun (_udyantaṃ bhāskaram_), he traversed a course of three thousand _yojanas_ (_triyojanasahasram adhvānam_),—
 
-**13:** —resolving in his mind (iti niścitya manasā), ‘I shall seize the sun (ādityam āhariṣyāmi), and my hunger will not remain (na me kṣut pratiyāsyati),’ he leaped up, proud of his strength (baladarpitaḥ).
+**13:** —resolving in his mind (_iti niścitya manasā_), ‘I shall seize the sun (_ādityam āhariṣyāmi_), and my hunger will not remain (_na me kṣut pratiyāsyati_),’ he leaped up, proud of his strength (_baladarpitaḥ_).
 </details>
 </details>
 
@@ -592,7 +592,7 @@ spoke the following words to Ravana the Lord of Demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Without even reaching that god (anāsādyaiva devam), who is most unassailable (anādhṛṣyatamam) even by gods, sages, and Rākṣasas, he fell upon the mountain where the sun rises (bhāskarodayane girau).
+Without even reaching that god (_anāsādyaiva devam_), who is most unassailable (_anādhṛṣyatamam_) even by gods, sages, and Rākṣasas, he fell upon the mountain where the sun rises (_bhāskarodayane girau_).
 </details>
 </details>
 
@@ -645,7 +645,7 @@ fractured. For this reason, because of his strong jaw, he is called Hanuma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As this monkey fell upon a rocky slab (śilātale), one jaw of his (hanur ekā) was slightly fractured (kiṃcid bhinnā); having a firm jaw (dṛḍhahanuḥ), he is therefore [called] Hanūmān (hanūmān eṣa tena vai).
+As this monkey fell upon a rocky slab (_śilātale_), one jaw of his (_hanur ekā_) was slightly fractured (_kiṃcid bhinnā_); having a firm jaw (_dṛḍhahanuḥ_), he is therefore [called] Hanūmān (_hanūmān eṣa tena vai_).
 </details>
 </details>
 
@@ -724,9 +724,9 @@ whom this fire was lighted and is still blazing up Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Truly (satyam), through traditional lore (āgamayogena) this monkey is known to me; neither his strength, nor his form, nor his majesty (prabhāvaḥ) can be fully described (anubhāṣitum).
+**16:** Truly (_satyam_), through traditional lore (_āgamayogena_) this monkey is known to me; neither his strength, nor his form, nor his majesty (_prabhāvaḥ_) can be fully described (_anubhāṣitum_).
 
-**17:** He aspires to churn up Laṅkā all alone (ekaḥ) by his might (ojasā). Indeed, how do you forget that monkey (kathaṃ vismarase kapim), by whom that fire (dhūmaketuḥ) set in Laṅkā blazes fiercely for you even today (jājvalyate 'sau vai tavādya vai)?
+**17:** He aspires to churn up Laṅkā all alone (_ekaḥ_) by his might (_ojasā_). Indeed, how do you forget that monkey (_kathaṃ vismarase kapim_), by whom that fire (_dhūmaketuḥ_) set in Laṅkā blazes fiercely for you even today (_jājvalyate &#x27;sau vai tavādya vai_)?
 </details>
 </details>
 
@@ -757,7 +757,7 @@ whom this fire was lighted and is still blazing up Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he who stands next to him (yaś caiṣo 'nantaraḥ), a dark-complexioned hero (śūraḥ śyāmaḥ) with lotus-like eyes (padmanibhekṣaṇaḥ), the supreme warrior of the Ikṣvākus (ikṣvākūṇām atirathaḥ) whose manly valor is renowned throughout the world (loke viśrutapauruṣaḥ)—
+And he who stands next to him (_yaś caiṣo &#x27;nantaraḥ_), a dark-complexioned hero (_śūraḥ śyāmaḥ_) with lotus-like eyes (_padmanibhekṣaṇaḥ_), the supreme warrior of the Ikṣvākus (_ikṣvākūṇām atirathaḥ_) whose manly valor is renowned throughout the world (_loke viśrutapauruṣaḥ_)—
 </details>
 </details>
 
@@ -799,7 +799,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—in whom righteousness never wavers (yasmin na calate dharmaḥ) and who never transgresses righteousness (yo dharmaṃ nātivartate), who knows Brahmā's missile and the Vedas (brāhmam astraṃ vedāṃś ca veda), the foremost of knowers of the Veda (vedavidāṃ varaḥ),—
+—in whom righteousness never wavers (_yasmin na calate dharmaḥ_) and who never transgresses righteousness (_yo dharmaṃ nātivartate_), who knows Brahmā&#x27;s missile and the Vedas (_brāhmam astraṃ vedāṃś ca veda_), the foremost of knowers of the Veda (_vedavidāṃ varaḥ_),—
 </details>
 </details>
 
@@ -830,7 +830,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—who could cleave the sky with his arrows (bhindyād gaganaṃ bāṇaiḥ) or rend the earth asunder (medinīṃ vāpi dārayet), whose wrath is like Death's (mṛtyor iva krodhaḥ) and whose valor is like Śakra's (śakrasyeva parākramaḥ),—
+—who could cleave the sky with his arrows (_bhindyād gaganaṃ bāṇaiḥ_) or rend the earth asunder (_medinīṃ vāpi dārayet_), whose wrath is like Death&#x27;s (_mṛtyor iva krodhaḥ_) and whose valor is like Śakra&#x27;s (_śakrasyeva parākramaḥ_),—
 </details>
 </details>
 
@@ -900,7 +900,7 @@ Rama who has come to wage war on you, O king!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and whose wife Sītā was abducted by you from Janasthāna (janasthānāt sītā hṛtā tvayā)—he is this Rāma, O king, advancing to fight against you (tvāṃ yoddhuṃ samabhivartate).
+—and whose wife Sītā was abducted by you from Janasthāna (_janasthānāt sītā hṛtā tvayā_)—he is this Rāma, O king, advancing to fight against you (_tvāṃ yoddhuṃ samabhivartate_).
 </details>
 </details>
 
@@ -964,9 +964,9 @@ among the wielders of all weapons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** And he who stands at his right side (yasya dakṣiṇe pārśve), radiant as pure Jāmbūnada gold (śuddhajāmbūnadaprabhaḥ), broad-chested (viśālavakṣāḥ), copper-eyed (tāmrākṣaḥ), with dark, curling locks (nīlakuñcitamūrdhajaḥ)—
+**22:** And he who stands at his right side (_yasya dakṣiṇe pārśve_), radiant as pure Jāmbūnada gold (_śuddhajāmbūnadaprabhaḥ_), broad-chested (_viśālavakṣāḥ_), copper-eyed (_tāmrākṣaḥ_), with dark, curling locks (_nīlakuñcitamūrdhajaḥ_)—
 
-**23:** —he is Lakṣmaṇa by name, devoted to what is dear and beneficial to his brother (bhrātuḥ priyahite rataḥ), skilled in policy and in warfare (naye yuddhe ca kuśalaḥ), the foremost of all wielders of weapons (sarvaśastrabhṛtāṃ varaḥ).
+**23:** —he is Lakṣmaṇa by name, devoted to what is dear and beneficial to his brother (_bhrātuḥ priyahite rataḥ_), skilled in policy and in warfare (_naye yuddhe ca kuśalaḥ_), the foremost of all wielders of weapons (_sarvaśastrabhṛtāṃ varaḥ_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ mighty. He has always been the right arm of Rama and in outward moving life (of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unforgiving (amarṣī), invincible (durjayaḥ), a conqueror (jetā), valorous, victorious, and mighty, he is Rāma's right arm (rāmasya dakṣiṇo bāhuḥ) and his external life-breath ever moving abroad (nityaṃ prāṇo bahiścaraḥ).
+Unforgiving (_amarṣī_), invincible (_durjayaḥ_), a conqueror (_jetā_), valorous, victorious, and mighty, he is Rāma&#x27;s right arm (_rāmasya dakṣiṇo bāhuḥ_) and his external life-breath ever moving abroad (_nityaṃ prāṇo bahiścaraḥ_).
 </details>
 </details>
 
@@ -1079,7 +1079,7 @@ all the demons in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the sake of Rāghava (rāghavasyārthe), this one does not spare his own life (na jīvitaṃ parirakṣati); he alone aspires (eṣaivāśaṃsate) to slay all the Rākṣasas in battle (yuddhe).
+For the sake of Rāghava (_rāghavasyārthe_), this one does not spare his own life (_na jīvitaṃ parirakṣati_); he alone aspires (_eṣaivāśaṃsate_) to slay all the Rākṣasas in battle (_yuddhe_).
 </details>
 </details>
 
@@ -1153,9 +1153,9 @@ kings, is enraged really with you and is to attack us in the battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** And he yonder who stands taking his station at Rāma's left flank (savyaṃ pakṣaṃ rāmasyāśritya), surrounded by a troop of Rākṣasas (rakṣogaṇaparikṣiptaḥ)—this is King Vibhīṣaṇa.
+**26:** And he yonder who stands taking his station at Rāma&#x27;s left flank (_savyaṃ pakṣaṃ rāmasyāśritya_), surrounded by a troop of Rākṣasas (_rakṣogaṇaparikṣiptaḥ_)—this is King Vibhīṣaṇa.
 
-**27:** Consecrated to the sovereignty of Laṅkā (laṅkāyām abhiṣecitaḥ) by the glorious King of kings [Rāma] (śrīmatā rājarājena), he now advances against you for battle (tvām asau yuddhāyābhivartate), filled with counter-rage (pratisaṃrabdhaḥ).
+**27:** Consecrated to the sovereignty of Laṅkā (_laṅkāyām abhiṣecitaḥ_) by the glorious King of kings [Rāma] (_śrīmatā rājarājena_), he now advances against you for battle (_tvām asau yuddhāyābhivartate_), filled with counter-rage (_pratisaṃrabdhaḥ_).
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ kings, is enraged really with you and is to attack us in the battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he whom you see standing in the center like an immovable mountain (madhye girim ivācalam), the lord of all the chiefs of branch-roaming monkeys (sarvaśākhāmṛgendrāṇāṃ bhartāram), of boundless energy (amitaujasam),—
+And he whom you see standing in the center like an immovable mountain (_madhye girim ivācalam_), the lord of all the chiefs of branch-roaming monkeys (_sarvaśākhāmṛgendrāṇāṃ bhartāram_), of boundless energy (_amitaujasam_),—
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ And he whom you see standing in the center like an immovable mountain (madhye gi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—who by his splendor, renown, intelligence, strength, and noble lineage (abhijanena ca) outshines all monkeys (kapīn atibabhrāja) as Mount Himavān outshines all mountains,—
+—who by his splendor, renown, intelligence, strength, and noble lineage (_abhijanena ca_) outshines all monkeys (_kapīn atibabhrāja_) as Mount Himavān outshines all mountains,—
 </details>
 </details>
 
@@ -1248,7 +1248,7 @@ And he whom you see standing in the center like an immovable mountain (madhye gi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and who, together with his principal troop-commanders (pradhānaiḥ saha yūthapaiḥ), inhabits the cavern-citadel of Kiṣkindhā (kiṣkindhāṃ guhāṃ samadhyāste), thick with impenetrable trees (sagahanadrumām), impregnable (durgām), and situated in a mountain fastness (parvatadurgamyām),—
+—and who, together with his principal troop-commanders (_pradhānaiḥ saha yūthapaiḥ_), inhabits the cavern-citadel of Kiṣkindhā (_kiṣkindhāṃ guhāṃ samadhyāste_), thick with impenetrable trees (_sagahanadrumām_), impregnable (_durgām_), and situated in a mountain fastness (_parvatadurgamyām_),—
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ And he whom you see standing in the center like an immovable mountain (madhye gi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—whose golden garland of a hundred lotuses (kāñcanī mālā śatapuṣkarā) shines here, coveted by gods and mortals (kāntā devamanuṣyāṇām), wherein Fortune herself abides (yasyāṃ lakṣmīḥ pratiṣṭhitā),—
+—whose golden garland of a hundred lotuses (_kāñcanī mālā śatapuṣkarā_) shines here, coveted by gods and mortals (_kāntā devamanuṣyāṇām_), wherein Fortune herself abides (_yasyāṃ lakṣmīḥ pratiṣṭhitā_),—
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ having killed Vali (Sugreeva's brother)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—having slain Vālin, Rāma bestowed upon this Sugrīva (sugrīvo rāmeṇa pratipāditaḥ) this garland, Tārā, and the everlasting sovereignty of the monkeys (kapirājyaṃ ca śāśvatam).
+—having slain Vālin, Rāma bestowed upon this Sugrīva (_sugrīvo rāmeṇa pratipāditaḥ_) this garland, Tārā, and the everlasting sovereignty of the monkeys (_kapirājyaṃ ca śāśvatam_).
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ having killed Vali (Sugreeva's brother)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred hundred-thousands (śataṃ śatasahasrāṇām) the wise declare to be a koṭi; a hundred thousand koṭis (śataṃ koṭisahasrāṇām) is called a śaṅku.
+A hundred hundred-thousands (_śataṃ śatasahasrāṇām_) the wise declare to be a _koṭi_; a hundred thousand _koṭis_ (_śataṃ koṭisahasrāṇām_) is called a _śaṅku_.
 </details>
 </details>
 
@@ -1431,7 +1431,7 @@ a Shanku."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred thousand śaṅkus (śataṃ śaṅkusahasrāṇām) is remembered as a mahāśaṅku; a hundred thousand mahāśaṅkus is here called a vṛnda.
+A hundred thousand _śaṅkus_ (_śataṃ śaṅkusahasrāṇām_) is remembered as a _mahāśaṅku_; a hundred thousand _mahāśaṅkus_ is here called a _vṛnda_.
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred thousand vṛndas (śataṃ vṛndasahasrāṇām) is remembered as a mahāvṛnda; a hundred thousand mahāvṛndas is here called a padma.
+A hundred thousand _vṛndas_ (_śataṃ vṛndasahasrāṇām_) is remembered as a _mahāvṛnda_; a hundred thousand _mahāvṛndas_ is here called a _padma_.
 </details>
 </details>
 
@@ -1499,7 +1499,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred thousand padmas (śataṃ padmasahasrāṇām) is remembered as a mahāpadma; a hundred thousand mahāpadmas is here called a kharva.
+A hundred thousand _padmas_ (_śataṃ padmasahasrāṇām_) is remembered as a _mahāpadma_; a hundred thousand _mahāpadmas_ is here called a _kharva_.
 </details>
 </details>
 
@@ -1547,7 +1547,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred thousand kharvas (śataṃ kharvasahasrāṇām) is remembered as a mahākharva; [a hundred] thousand mahākharvas is called a samudra; and a hundred thousand samudras (śataṃ samudrasāhasram) is called an ogha.
+A hundred thousand _kharvas_ (_śataṃ kharvasahasrāṇām_) is remembered as a _mahākharva_; [a hundred] thousand _mahākharvas_ is called a _samudra_; and a hundred thousand _samudras_ (_śataṃ samudrasāhasram_) is called an _ogha_.
 </details>
 </details>
 
@@ -1636,13 +1636,13 @@ one Mahaugha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** A hundred thousand oghas (śatam oghasahasrāṇām) is famed as a mahaugha. Thus, accompanied by a thousand koṭis, a hundred śaṅkus, a thousand mahāśaṅkus, and a hundred vṛndas,—
+**38:** A hundred thousand _oghas_ (_śatam oghasahasrāṇām_) is famed as a _mahaugha_. Thus, accompanied by a thousand _koṭis_, a hundred _śaṅkus_, a thousand _mahāśaṅkus_, and a hundred _vṛndas_,—
 
-**39:** —by a thousand mahāvṛndas and a hundred padmas, by a thousand mahāpadmas and a hundred kharvas,—
+**39:** —by a thousand _mahāvṛndas_ and a hundred _padmas_, by a thousand _mahāpadmas_ and a hundred _kharvas_,—
 
-**40:** —and by that same [measure of a] samudra, and likewise by a mahaugha, and by a koṭi of mahaughas resembling the ocean (samudrasadṛśena ca),—
+**40:** —and by that same [measure of a] _samudra_, and likewise by a _mahaugha_, and by a _koṭi_ of _mahaughas_ resembling the ocean (_samudrasadṛśena ca_),—
 
-**41:** —and surrounded by the heroic Vibhīṣaṇa together with his ministers (vibhīṣaṇena vīreṇa sacivaiḥ parivāritaḥ), this Sugrīva, lord of the Vānaras, ever encompassed by a mighty host (mahābalavṛtaḥ) and of mighty strength and valor (mahābalaparākramaḥ), advances upon you for battle (tvāṃ yuddhārtham anuvartate).
+**41:** —and surrounded by the heroic Vibhīṣaṇa together with his ministers (_vibhīṣaṇena vīreṇa sacivaiḥ parivāritaḥ_), this Sugrīva, lord of the Vānaras, ever encompassed by a mighty host (_mahābalavṛtaḥ_) and of mighty strength and valor (_mahābalaparākramaḥ_), advances upon you for battle (_tvāṃ yuddhārtham anuvartate_).
 </details>
 </details>
 
@@ -1722,6 +1722,6 @@ identical of an ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having surveyed this army (imāṃ vāhinīṃ samīkṣya) that has drawn near, O great king, resembling a blazing planet (prajvalitagrahopamām), let the supreme effort now be made (prayatnaḥ paramo vidhīyatām) so that victory may be yours, and not defeat at the hands of your foes (na paraiḥ parābhavaḥ).”
+Having surveyed this army (_imāṃ vāhinīṃ samīkṣya_) that has drawn near, O great king, resembling a blazing planet (_prajvalitagrahopamām_), let the supreme effort now be made (_prayatnaḥ paramo vidhīyatām_) so that victory may be yours, and not defeat at the hands of your foes (_na paraiḥ parābhavaḥ_).”
 </details>
 </details>

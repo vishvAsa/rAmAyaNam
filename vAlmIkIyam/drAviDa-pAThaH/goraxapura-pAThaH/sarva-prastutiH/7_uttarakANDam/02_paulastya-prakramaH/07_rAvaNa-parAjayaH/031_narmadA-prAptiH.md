@@ -44,7 +44,7 @@ Astonished that no mortal king checked Rāvaṇa’s rampage across the earth, R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with wonder (vismayāt punar eva hi), bowed low (praṇataḥ) and addressed these words to Agastya, foremost of sages (agastyam ṛṣisattamam):
+Then Rāma of mighty radiance (_tato rāmo mahātejāḥ_), filled once more with wonder (_vismayāt punar eva hi_), bowed low (_praṇataḥ_) and addressed these words to Agastya, foremost of sages (_agastyam ṛṣisattamam_):
 </details>
 </details>
 
@@ -70,7 +70,7 @@ Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O revered one (bhagavan), O foremost of the twice-born (dvijottama), from the time that cruel rākṣasa roamed the earth (rākṣasaḥ krūro yadāprabhṛti medinīm paryaṭat), were the worlds then altogether empty (kiṃ tadā lokāḥ śūnyā āsan)?
+“O revered one (_bhagavan_), O foremost of the twice-born (_dvijottama_), from the time that cruel rākṣasa roamed the earth (_rākṣasaḥ krūro yadāprabhṛti medinīm paryaṭat_), were the worlds then altogether empty (_kiṃ tadā lokāḥ śūnyā āsan_)?
 </details>
 </details>
 
@@ -96,7 +96,7 @@ Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Was there neither consecrated king nor even a mere chieftain here (rājā vā rājamātro vā kiṃ tadā nātra kaścana), such that Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣaseśvaraḥ), met with no humiliation (dharṣaṇaṃ yatra na prāptaḥ)?
+“Was there neither consecrated king nor even a mere chieftain here (_rājā vā rājamātro vā kiṃ tadā nātra kaścana_), such that Rāvaṇa, lord of the rākṣasas (_rāvaṇo rākṣaseśvaraḥ_), met with no humiliation (_dharṣaṇaṃ yatra na prāptaḥ_)?
 </details>
 </details>
 
@@ -122,7 +122,7 @@ Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else were those guardians of the earth stripped of valor (utāho hatavīryās te babhūvuḥ pṛthivīkṣitaḥ), and, bereft of supreme celestial missiles (bahiṣkṛtā varāstraiś ca), were many kings thus vanquished (bahavo nirjitā nṛpāḥ)?”
+“Or else were those guardians of the earth stripped of valor (_utāho hatavīryās te babhūvuḥ pṛthivīkṣitaḥ_), and, bereft of supreme celestial missiles (_bahiṣkṛtā varāstraiś ca_), were many kings thus vanquished (_bahavo nirjitā nṛpāḥ_)?”
 </details>
 </details>
 
@@ -148,7 +148,7 @@ Then Rāma of mighty radiance (tato rāmo mahātejāḥ), filled once more with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agastya (agastyo bhagavān ṛṣiḥ) laughed aloud (prahasan) and addressed Rāma (uvāca rāmam), even as the Grandfather Brahmā addresses Īśvara [Śiva] (pitāmaha iveśvaram):
+Hearing Rāghava’s words (_rāghavasya vacaḥ śrutvā_), the revered sage Agastya (_agastyo bhagavān ṛṣiḥ_) laughed aloud (_prahasan_) and addressed Rāma (_uvāca rāmam_), even as the Grandfather Brahmā addresses Īśvara [Śiva] (_pitāmaha iveśvaram_):
 </details>
 </details>
 
@@ -174,7 +174,7 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Harassing earthly sovereigns in this very manner (ity evaṃ bādhamānas tu pārthivān), O bull among princes (pārthivarṣabha), Rāvaṇa roamed the earth (cacāra rāvaṇo ... pṛthivīm), O Rāma, O lord of the earth (pṛthivīpate)!
+“Harassing earthly sovereigns in this very manner (_ity evaṃ bādhamānas tu pārthivān_), O bull among princes (_pārthivarṣabha_), Rāvaṇa roamed the earth (_cacāra rāvaṇo ... pṛthivīm_), O Rāma, O lord of the earth (_pṛthivīpate_)!
 </details>
 </details>
 
@@ -208,7 +208,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon he arrived at the city named Māhiṣmatī (tato māhiṣmatīṃ nāma purīm), resplendent as the city of heaven (svargapurī-prabhām), where the presence of the Fire-god ever abode (yatra sānnidhyaṃ sadāsīd vasuretasaḥ).
+“Thereupon he arrived at the city named Māhiṣmatī (_tato māhiṣmatīṃ nāma purīm_), resplendent as the city of heaven (_svargapurī-prabhām_), where the presence of the Fire-god ever abode (_yatra sānnidhyaṃ sadāsīd vasuretasaḥ_).
 </details>
 </details>
 
@@ -234,7 +234,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There dwelt a king named Arjuna (arjuno nāma ... nṛpaḥ), equal to that Fire-god in majesty (tulya āsīt ... prabhāvād vasuretasaḥ), in whose realm Agni forever reclined within a pit strewn with śara reeds (yatrāgniḥ śarakuṇḍeśayaḥ sadā).
+“There dwelt a king named Arjuna (_arjuno nāma ... nṛpaḥ_), equal to that Fire-god in majesty (_tulya āsīt ... prabhāvād vasuretasaḥ_), in whose realm Agni forever reclined within a pit strewn with _śara_ reeds (_yatrāgniḥ śarakuṇḍeśayaḥ sadā_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On that very day (tam eva divasam), that mighty sovereign of the Haihayas (haihayādhipatir balī), Lord Arjuna (arjuno ... īśvaraḥ), had gone to the Narmadā to sport there with his womenfolk (narmadāṃ rantuṃ gataḥ strībhiḥ saha).
+“On that very day (_tam eva divasam_), that mighty sovereign of the Haihayas (_haihayādhipatir balī_), Lord Arjuna (_arjuno ... īśvaraḥ_), had gone to the Narmadā to sport there with his womenfolk (_narmadāṃ rantuṃ gataḥ strībhiḥ saha_).
 </details>
 </details>
 
@@ -286,7 +286,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On that very day (tam eva divasam) Rāvaṇa arrived there (rāvaṇas tatra āgataḥ); and Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣasendras tu), questioned his ministers (tasyāmātyān apṛcchata):
+“On that very day (_tam eva divasam_) Rāvaṇa arrived there (_rāvaṇas tatra āgataḥ_); and Rāvaṇa, lord of the rākṣasas (_rāvaṇo rākṣasendras tu_), questioned his ministers (_tasyāmātyān apṛcchata_):
 </details>
 </details>
 
@@ -312,7 +312,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Where is King Arjuna (kvārjuno nṛpatiḥ)? Deign to tell me truly and at once (śīghraṃ samyag ākhyātum arhatha)! I, Rāvaṇa, have arrived desiring battle with that foremost of men (rāvaṇo ’ham anuprāpto yuddhepsur nṛvareṇa ha); let my arrival too be promptly announced before him by you (mamāgamanam apy agre yuṣmābhiḥ sannivedyatām)!’
+“‘Where is King Arjuna (_kvārjuno nṛpatiḥ_)? Deign to tell me truly and at once (_śīghraṃ samyag ākhyātum arhatha_)! I, Rāvaṇa, have arrived desiring battle with that foremost of men (_rāvaṇo ’ham anuprāpto yuddhepsur nṛvareṇa ha_); let my arrival too be promptly announced before him by you (_mamāgamanam apy agre yuṣmābhiḥ sannivedyatām_)!’
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Addressed thus by Rāvaṇa (ity evaṃ rāvaṇenoktāḥ), those deeply learned ministers (te ’mātyāḥ suvipaścitaḥ) informed the lord of the rākṣasas of the king’s absence (abruvan rākṣasapatim asānnidhyaṃ mahīpateḥ).
+“Addressed thus by Rāvaṇa (_ity evaṃ rāvaṇenoktāḥ_), those deeply learned ministers (_te ’mātyāḥ suvipaścitaḥ_) informed the lord of the rākṣasas of the king’s absence (_abruvan rākṣasapatim asānnidhyaṃ mahīpateḥ_).
 </details>
 </details>
 
@@ -374,7 +374,7 @@ Learning from the citizens that Arjuna has gone, Rāvaṇa turns from Māhiṣma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing from the citizens that Arjuna had departed (śrutvā ... paurāṇām arjunaṃ gatam), the son of Viśravas turned back (apasṛtya) and came unto the Vindhya mountain (āgato vindhyam), resembling Himavat (himavat-sannibhaṃ girim).
+“Hearing from the citizens that Arjuna had departed (_śrutvā ... paurāṇām arjunaṃ gatam_), the son of Viśravas turned back (_apasṛtya_) and came unto the Vindhya mountain (_āgato vindhyam_), resembling Himavat (_himavat-sannibhaṃ girim_).
 </details>
 </details>
 
@@ -402,9 +402,9 @@ Learning from the citizens that Arjuna has gone, Rāvaṇa turns from Māhiṣma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “That Rāvaṇa beheld the Vindhya (apaśyad rāvaṇo vindhyam), seemingly entered into a great cloud (abhram ivāviṣṭam), as though bursting upward out of the earth (udbhrantam iva medinīm), and as though grazing the sky (ālikhantam ivāmbaram)—
+**14:** “That Rāvaṇa beheld the Vindhya (_apaśyad rāvaṇo vindhyam_), seemingly entered into a great cloud (_abhram ivāviṣṭam_), as though bursting upward out of the earth (_udbhrantam iva medinīm_), and as though grazing the sky (_ālikhantam ivāmbaram_)—
 
-**15:** “Endowed with a thousand peaks (sahasra-śikharopetam), its caverns haunted by lions (siṃhādhyuṣita-kandaram), and resembling a boisterously laughing ocean (sāṭṭahāsam ivāmbudhim) with its waters tumbling down from steep cliffs (prapāta-patitais toyaiḥ);
+**15:** “Endowed with a thousand peaks (_sahasra-śikharopetam_), its caverns haunted by lions (_siṃhādhyuṣita-kandaram_), and resembling a boisterously laughing ocean (_sāṭṭahāsam ivāmbudhim_) with its waters tumbling down from steep cliffs (_prapāta-patitais toyaiḥ_);
 </details>
 </details>
 
@@ -432,7 +432,7 @@ Learning from the citizens that Arjuna has gone, Rāvaṇa turns from Māhiṣma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Transformed into a very heaven (svargabhūtam) of towering loftiness (mahocchrayam) by gods, Dānavas, and Gandharvas, together with troops of Apsarases and Kinnaras (sāpsarogaṇa-kinnaraiḥ), sporting with their own womenfolk (svastrībhiḥ krīḍamānaiś ca);
+“Transformed into a very heaven (_svargabhūtam_) of towering loftiness (_mahocchrayam_) by gods, Dānavas, and Gandharvas, together with troops of Apsarases and Kinnaras (_sāpsarogaṇa-kinnaraiḥ_), sporting with their own womenfolk (_svastrībhiḥ krīḍamānaiś ca_);
 </details>
 </details>
 
@@ -460,9 +460,9 @@ Learning from the citizens that Arjuna has gone, Rāvaṇa turns from Māhiṣma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “Standing like the cosmic serpent Ananta (anantam iva viṣṭhitam), with rivers pouring forth crystal-clear water (nadībhiḥ syandamānābhiḥ sphaṭika-pratimaṃ jalam) like flickering-tongued serpent hoods (phaṇābhiś cala-jihvābhiḥ).
+**17:** “Standing like the cosmic serpent Ananta (_anantam iva viṣṭhitam_), with rivers pouring forth crystal-clear water (_nadībhiḥ syandamānābhiḥ sphaṭika-pratimaṃ jalam_) like flickering-tongued serpent hoods (_phaṇābhiś cala-jihvābhiḥ_).
 
-**18:** “Gazing upon that soaring, cavern-filled Vindhya mountain resembling Himavat (utkrāmantaṃ darīvantaṃ himavat-sannibhaṃ girim paśyamānaḥ), Rāvaṇa then went unto the sacred Narmadā (narmadāṃ yayau ... puṇyām), whose waters dance over pebbles (calopala-jalām) as she flows toward the western ocean (paścimodadhi-gāminīm).
+**18:** “Gazing upon that soaring, cavern-filled Vindhya mountain resembling Himavat (_utkrāmantaṃ darīvantaṃ himavat-sannibhaṃ girim paśyamānaḥ_), Rāvaṇa then went unto the sacred Narmadā (_narmadāṃ yayau ... puṇyām_), whose waters dance over pebbles (_calopala-jalām_) as she flows toward the western ocean (_paścimodadhi-gāminīm_).
 </details>
 </details>
 
@@ -500,9 +500,9 @@ Vālmīki paints the Narmadā in an extended metaphor as a lovely woman—with f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “—whose waters were churned (saṅkṣobhita-jalāśayām) by buffaloes, sṛmara deer, lions, tigers, bears, and lordly elephants (mahiṣaiḥ sṛmaraiḥ siṃhaiḥ śārdūlarkṣa-gajottamaiḥ), scorched by heat and tormented by thirst (uṣṇābhitaptais tṛṣitaiḥ);
+**19:** “—whose waters were churned (_saṅkṣobhita-jalāśayām_) by buffaloes, _sṛmara_ deer, lions, tigers, bears, and lordly elephants (_mahiṣaiḥ sṛmaraiḥ siṃhaiḥ śārdūlarkṣa-gajottamaiḥ_), scorched by heat and tormented by thirst (_uṣṇābhitaptais tṛṣitaiḥ_);
 
-**20:** “Thronged all around (samāvṛtām) by cakravāka ducks together with kāraṇḍava birds, geese, and water-fowl (sakāraṇḍaiḥ sahaṃsa-jalakukkuṭaiḥ), and by ever-intoxicated sārasa cranes sweetly calling (sārasaiś ca sadā mattaiḥ sukūjadbhiḥ);
+**20:** “Thronged all around (_samāvṛtām_) by _cakravāka_ ducks together with _kāraṇḍava_ birds, geese, and water-fowl (_sakāraṇḍaiḥ sahaṃsa-jalakukkuṭaiḥ_), and by ever-intoxicated _sārasa_ cranes sweetly calling (_sārasaiś ca sadā mattaiḥ sukūjadbhiḥ_);
 </details>
 </details>
 
@@ -528,7 +528,7 @@ Vālmīki paints the Narmadā in an extended metaphor as a lovely woman—with f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wearing blossoming trees as her ear-chaplets (phulla-druma-kṛtottaṃsām), having pairs of cakravākas for her twin breasts (cakravāka-yugastanīm), broad sandbanks for her hips (vistīrṇa-pulina-śroṇīm), and rows of geese for her lovely girdle (haṃsāvali-sumekhalām);
+“Wearing blossoming trees as her ear-chaplets (_phulla-druma-kṛtottaṃsām_), having pairs of _cakravākas_ for her twin breasts (_cakravāka-yugastanīm_), broad sandbanks for her hips (_vistīrṇa-pulina-śroṇīm_), and rows of geese for her lovely girdle (_haṃsāvali-sumekhalām_);
 </details>
 </details>
 
@@ -574,13 +574,13 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “Her limbs anointed with flower-pollen (puṣpa-reṇv-anuliptāṅgīm), clad in spotless white raiment of river-foam (jala-phenāmalāṃśukām), yielding a blissful touch when plunged into (jalāvagāha-saṃsparśām), with lovely eyes of open lotuses (phullotpala-śubhekṣaṇām)—descending swiftly from Puṣpaka (puṣpakād avaruhyāśu) unto that Narmadā, foremost of rivers (narmadāṃ saritāṃ varām)—
+**22:** “Her limbs anointed with flower-pollen (_puṣpa-reṇv-anuliptāṅgīm_), clad in spotless white raiment of river-foam (_jala-phenāmalāṃśukām_), yielding a blissful touch when plunged into (_jalāvagāha-saṃsparśām_), with lovely eyes of open lotuses (_phullotpala-śubhekṣaṇām_)—descending swiftly from Puṣpaka (_puṣpakād avaruhyāśu_) unto that Narmadā, foremost of rivers (_narmadāṃ saritāṃ varām_)—
 
-**23:** “Having plunged into her as into a cherished, lovely woman (iṣṭām iva varāṃ nārīm avagāhya), the Ten-Headed One (daśānanaḥ) sat upon her enchanting sandbank (tasyāḥ puline ramye), frequented by manifold sages (nānā-muni-niṣevite),
+**23:** “Having plunged into her as into a cherished, lovely woman (_iṣṭām iva varāṃ nārīm avagāhya_), the Ten-Headed One (_daśānanaḥ_) sat upon her enchanting sandbank (_tasyāḥ puline ramye_), frequented by manifold sages (_nānā-muni-niṣevite_),
 
-**24:** “Together with his ministers seated close around him (upopaviṣṭaiḥ sacivaiḥ sārdham), that bull among rākṣasas (rākṣasapuṅgavaḥ); then Rāvaṇa praised the Narmadā, declaring, ‘This is the very Gaṅgā!’ (prakhyāya narmadāṃ so ’tha gaṅgeyam iti rāvaṇaḥ).
+**24:** “Together with his ministers seated close around him (_upopaviṣṭaiḥ sacivaiḥ sārdham_), that bull among rākṣasas (_rākṣasapuṅgavaḥ_); then Rāvaṇa praised the Narmadā, declaring, ‘This is the very Gaṅgā!’ (_prakhyāya narmadāṃ so ’tha gaṅgeyam iti rāvaṇaḥ_).
 
-**25:** “Having obtained delight born of beholding the Narmadā (narmadā-darśajaṃ harṣam āptavān), the lord of the rākṣasas (rākṣasādhipaḥ) playfully addressed his ministers there, Śuka and Sāraṇa (uvāca sacivāṃs tatra salīlaṃ śuka-sāraṇau):
+**25:** “Having obtained delight born of beholding the Narmadā (_narmadā-darśajaṃ harṣam āptavān_), the lord of the rākṣasas (_rākṣasādhipaḥ_) playfully addressed his ministers there, Śuka and Sāraṇa (_uvāca sacivāṃs tatra salīlaṃ śuka-sāraṇau_):
 </details>
 </details>
 
@@ -606,7 +606,7 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Behold! Having turned the world as though to gold with his thousand rays (raśmi-sahasreṇa jagat kṛtvaiva kāñcanam), this fiercely scorching sun (tīkṣṇa-tāpakaraḥ sūryaḥ), stationed at mid-heaven (nabhaso ’rdhaṃ samāśritaḥ), knowing that I am seated here (mām āsīnaṃ viditvaiva), acts as cool as the moon (candrāyati divākaraḥ)!
+“‘Behold! Having turned the world as though to gold with his thousand rays (_raśmi-sahasreṇa jagat kṛtvaiva kāñcanam_), this fiercely scorching sun (_tīkṣṇa-tāpakaraḥ sūryaḥ_), stationed at mid-heaven (_nabhaso ’rdhaṃ samāśritaḥ_), knowing that I am seated here (_mām āsīnaṃ viditvaiva_), acts as cool as the moon (_candrāyati divākaraḥ_)!
 </details>
 </details>
 
@@ -634,7 +634,7 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This breeze too, cooled by Narmadā’s waters (narmadā-jala-śītaś ca), fragrant, and banishing fatigue (sugandhiḥ śrama-nāśanaḥ), blows here gently and attentively (vāty eṣa susamāhitaḥ) out of fear of me (mad-bhayāt)!
+“‘This breeze too, cooled by Narmadā’s waters (_narmadā-jala-śītaś ca_), fragrant, and banishing fatigue (_sugandhiḥ śrama-nāśanaḥ_), blows here gently and attentively (_vāty eṣa susamāhitaḥ_) out of fear of me (_mad-bhayāt_)!
 </details>
 </details>
 
@@ -662,9 +662,9 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “‘And even this foremost of rivers, the joy-increasing Narmadā (saric-chreṣṭhā narmadā narma-vardhinī), whose waves teem with crocodiles, fish, and birds (nakra-mīna-vihaṅgormiḥ), stands still like a frightened woman (sabhayevāṅganā sthitā)!
+**28:** “‘And even this foremost of rivers, the joy-increasing Narmadā (_saric-chreṣṭhā narmadā narma-vardhinī_), whose waves teem with crocodiles, fish, and birds (_nakra-mīna-vihaṅgormiḥ_), stands still like a frightened woman (_sabhayevāṅganā sthitā_)!
 
-**29:** “‘Therefore you, wounded by weapons in battle (kṣatāḥ śastraiḥ ... yudhi) by kings equal to Indra (nṛpair indra-samaiḥ) and besprinkled with blood as with sandal-paste (candanasya raseneva rudhireṇa samukṣitāḥ)—
+**29:** “‘Therefore you, wounded by weapons in battle (_kṣatāḥ śastraiḥ ... yudhi_) by kings equal to Indra (_nṛpair indra-samaiḥ_) and besprinkled with blood as with sandal-paste (_candanasya raseneva rudhireṇa samukṣitāḥ_)—
 </details>
 </details>
 
@@ -690,7 +690,7 @@ Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Do you plunge into this auspicious, bliss-giving Narmadā (te yūyam avagāhadhvaṃ narmadāṃ śarmadāṃ śubhām), like rutting mighty elephants led by Mahāpadma entering the Gaṅgā (mahāpadma-mukhā mattā gaṅgām iva gahāgajāḥ)! Having bathed in this great river, you shall cast off all sin (asyāṃ snātvā mahānadyāṃ pāpmānaṃ vipramokṣyatha)!
+“‘Do you plunge into this auspicious, bliss-giving Narmadā (_te yūyam avagāhadhvaṃ narmadāṃ śarmadāṃ śubhām_), like rutting mighty elephants led by Mahāpadma entering the Gaṅgā (_mahāpadma-mukhā mattā gaṅgām iva gahāgajāḥ_)! Having bathed in this great river, you shall cast off all sin (_asyāṃ snātvā mahānadyāṃ pāpmānaṃ vipramokṣyatha_)!
 </details>
 </details>
 
@@ -724,7 +724,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I too shall leisurely perform today (aham apy adya ... śanakaiḥ kariṣyāmi) a floral offering unto Kapardin [Śiva] (puṣpopahāraṃ ... kapardinaḥ) upon this sandbank radiant as the autumn moon (puline śaradindu-samaprabhe)!’
+“‘I too shall leisurely perform today (_aham apy adya ... śanakaiḥ kariṣyāmi_) a floral offering unto Kapardin [Śiva] (_puṣpopahāraṃ ... kapardinaḥ_) upon this sandbank radiant as the autumn moon (_puline śaradindu-samaprabhe_)!’
 </details>
 </details>
 
@@ -750,7 +750,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Addressed thus by Rāvaṇa (rāvaṇenaivam uktās tu), Prahasta, Śuka, and Sāraṇa, together with Mahodara and Dhūmrākṣa (prahasta-śuka-sāraṇāḥ samahodara-dhūmrākṣāḥ), plunged into the Narmadā (narmadāṃ vijagāhire).
+“Addressed thus by Rāvaṇa (_rāvaṇenaivam uktās tu_), Prahasta, Śuka, and Sāraṇa, together with Mahodara and Dhūmrākṣa (_prahasta-śuka-sāraṇāḥ samahodara-dhūmrākṣāḥ_), plunged into the Narmadā (_narmadāṃ vijagāhire_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By those elephant-like rākṣasa chieftains (rākṣasendra-gajais tais tu) was the river Narmadā churned (kṣobhitā narmadā nadī), even as the Gaṅgā is churned by the great directional elephants led by Vāmana, Añjana, and Padma (vāmanāñjana-padmādyair gaṅgā iva mahāgajaiḥ).
+“By those elephant-like rākṣasa chieftains (_rākṣasendra-gajais tais tu_) was the river Narmadā churned (_kṣobhitā narmadā nadī_), even as the Gaṅgā is churned by the great directional elephants led by Vāmana, Añjana, and Padma (_vāmanāñjana-padmādyair gaṅgā iva mahāgajaiḥ_).
 </details>
 </details>
 
@@ -804,7 +804,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, having bathed in the Narmadā (snātvā narmadāyām) and come back ashore (uttīrya), those mighty rākṣasas (rākṣasāḥ ... mahābalāḥ) gathered blossoms for Rāvaṇa’s worship-offering (puṣpāṇy ājahrur balyarthaṃ rāvaṇasya tu).
+“Thereupon, having bathed in the Narmadā (_snātvā narmadāyām_) and come back ashore (_uttīrya_), those mighty rākṣasas (_rākṣasāḥ ... mahābalāḥ_) gathered blossoms for Rāvaṇa’s worship-offering (_puṣpāṇy ājahrur balyarthaṃ rāvaṇasya tu_).
 </details>
 </details>
 
@@ -830,7 +830,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon that charming sandbank of the Narmadā (narmadā-puline hṛdye), gleaming like white autumn clouds (śubhrābhra-sadṛśa-prabhe), a veritable mountain of flowers was raised by the rākṣasas in a single moment (rākṣasais tu muhūrtena kṛtaḥ puṣpamayo giriḥ).
+“Upon that charming sandbank of the Narmadā (_narmadā-puline hṛdye_), gleaming like white autumn clouds (_śubhrābhra-sadṛśa-prabhe_), a veritable mountain of flowers was raised by the rākṣasas in a single moment (_rākṣasais tu muhūrtena kṛtaḥ puṣpamayo giriḥ_).
 </details>
 </details>
 
@@ -856,7 +856,7 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the flowers had thus been gathered and brought (puṣpeṣūpahṛteṣv evam), Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣaseśvaraḥ), descended into the river to bathe (avatīrṇo nadīṃ snātum), like a lordly elephant entering the Gaṅgā (gaṅgām iva mahāgajaḥ).
+“When the flowers had thus been gathered and brought (_puṣpeṣūpahṛteṣv evam_), Rāvaṇa, lord of the rākṣasas (_rāvaṇo rākṣaseśvaraḥ_), descended into the river to bathe (_avatīrṇo nadīṃ snātum_), like a lordly elephant entering the Gaṅgā (_gaṅgām iva mahāgajaḥ_).
 </details>
 </details>
 
@@ -890,7 +890,7 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bathed there according to rite (tatra snātvā ca vidhivat) and murmured his unsurpassed prayers (japtvā japyam anuttamam), that Rāvaṇa stepped up out of the waters of the Narmadā (narmadā-salilāt tasmād uttatāra sa rāvaṇaḥ).
+“Having bathed there according to rite (_tatra snātvā ca vidhivat_) and murmured his unsurpassed prayers (_japtvā japyam anuttamam_), that Rāvaṇa stepped up out of the waters of the Narmadā (_narmadā-salilāt tasmād uttatāra sa rāvaṇaḥ_).
 </details>
 </details>
 
@@ -916,7 +916,7 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all the rākṣasas followed after Rāvaṇa (anvayuḥ sarva-rākṣasāḥ) as he walked with joined palms (rāvaṇaṃ prāñjaliṃ yāntam), having cast off his wet garment (klinnāmbaraṃ tyaktvā) and arrayed himself in spotless white robes (śukla-vastra-samāvṛtam),
+“Then all the rākṣasas followed after Rāvaṇa (_anvayuḥ sarva-rākṣasāḥ_) as he walked with joined palms (_rāvaṇaṃ prāñjaliṃ yāntam_), having cast off his wet garment (_klinnāmbaraṃ tyaktvā_) and arrayed himself in spotless white robes (_śukla-vastra-samāvṛtam_),
 </details>
 </details>
 
@@ -942,7 +942,7 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Subject to his every stride (tad-gatī-vaśam āpannāḥ) like mountains endowed with living bodies (mūrtimanta ivācalāḥ). And wheresoever Rāvaṇa, lord of the rākṣasas, went (yatra yatra ca yāti sma rāvaṇo rākṣaseśvaraḥ), thither was his golden liṅga ever borne along (jāmbūnadamayaṃ liṅgaṃ tatra tatra sma nīyate).
+“Subject to his every stride (_tad-gatī-vaśam āpannāḥ_) like mountains endowed with living bodies (_mūrtimanta ivācalāḥ_). And wheresoever Rāvaṇa, lord of the rākṣasas, went (_yatra yatra ca yāti sma rāvaṇo rākṣaseśvaraḥ_), thither was his golden _liṅga_ ever borne along (_jāmbūnadamayaṃ liṅgaṃ tatra tatra sma nīyate_).
 </details>
 </details>
 
@@ -970,9 +970,9 @@ Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** “Setting up that liṅga in the center of a sand altar (vālukā-vedi-madhye tu tal liṅgaṃ sthāpya), Rāvaṇa worshipped it (arcayāmāsa) with fragrant unguents and blossoms redolent of ambrosia (gandhaiś ca puṣpaiś cāmṛta-gandhibhiḥ).
+**40:** “Setting up that _liṅga_ in the center of a sand altar (_vālukā-vedi-madhye tu tal liṅgaṃ sthāpya_), Rāvaṇa worshipped it (_arcayāmāsa_) with fragrant unguents and blossoms redolent of ambrosia (_gandhaiś ca puṣpaiś cāmṛta-gandhibhiḥ_).
 
-**41:** “Then, having duly worshipped that supreme, boon-bestowing Lord (samarcayitvā ... paraṃ varaṃ varapradam), dispeller of the afflictions of the righteous (satām ārtiharam) and adorned with the moon’s rays (candramayūkha-bhūṣaṇam), that night-roamer sang aloud (sa niśācaro jagau), and stretching forth his hands, danced before him (prasārya hastān praṇanarta cāgrataḥ).
+**41:** “Then, having duly worshipped that supreme, boon-bestowing Lord (_samarcayitvā ... paraṃ varaṃ varapradam_), dispeller of the afflictions of the righteous (_satām ārtiharam_) and adorned with the moon’s rays (_candramayūkha-bhūṣaṇam_), that night-roamer sang aloud (_sa niśācaro jagau_), and stretching forth his hands, danced before him (_prasārya hastān praṇanarta cāgrataḥ_).
 </details>
 </details>
 

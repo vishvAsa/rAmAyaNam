@@ -76,7 +76,7 @@ Shataananda continued the legend of Vishvamitra. [1-65-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, abandoning the northern quarter of the Himālaya (haimavatīṃ diśaṃ tyaktvā), O Rāma, the great sage repaired to the eastern quarter (pūrvāṃ diśam anuprāpya) and practised the most dreadful austerity (tapas tepe sudāruṇam).
+Then, abandoning the northern quarter of the Himālaya (_haimavatīṃ diśaṃ tyaktvā_), O Rāma, the great sage repaired to the eastern quarter (_pūrvāṃ diśam anuprāpya_) and practised the most dreadful austerity (_tapas tepe sudāruṇam_).
 </details>
 </details>
 
@@ -125,7 +125,7 @@ unmatched ascesis which is highly impracticable for others to perform. [1-65-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Undertaking an unsurpassed vow of silence for a thousand years (maunaṃ varṣasahasrasya kṛtvā vratam anuttamam), O Rāma, he performed a peerless and supremely arduous penance (cakārāpratimaṃ tapaḥ paramaduṣkaram).
+Undertaking an unsurpassed vow of silence for a thousand years (_maunaṃ varṣasahasrasya kṛtvā vratam anuttamam_), O Rāma, he performed a peerless and supremely arduous penance (_cakārāpratimaṃ tapaḥ paramaduṣkaram_).
 </details>
 </details>
 
@@ -182,7 +182,7 @@ hearts, for he stood fast in an unmitigated ascesis on making a firm determinati
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the thousand years were fulfilled, though that great sage—who stood motionless as a block of wood (kāṣṭhabhūtam)—was assailed by manifold obstacles (vighnair bahubhir ādhūtam), wrath found no entry into his heart (krodho nāntaram āviśat).
+When the thousand years were fulfilled, though that great sage—who stood motionless as a block of wood (_kāṣṭhabhūtam_)—was assailed by manifold obstacles (_vighnair bahubhir ādhūtam_), wrath found no entry into his heart (_krodho nāntaram āviśat_).
 </details>
 </details>
 
@@ -243,9 +243,9 @@ sambhojya iti suucitam - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Having formed that firm resolve (sa kṛtvā niścayam), O Rāma, he practised imperishable austerity; and when the vow of that thousand years was completed, that sage of mighty vows (mahāvrataḥ)—
+**4:** Having formed that firm resolve (_sa kṛtvā niścayam_), O Rāma, he practised imperishable austerity; and when the vow of that thousand years was completed, that sage of mighty vows (_mahāvrataḥ_)—
 
-**5:** —prepared to partake of food at that hour of breaking his fast (bhoktum ārabdhavān annaṃ tasmin kāle), O best of the Raghus; whereupon Indra, assuming the form of a twice-born Brahmin (indro dvijātir bhūtvā), begged from him that cooked food (taṃ siddham annam ayācata).
+**5:** —prepared to partake of food at that hour of breaking his fast (_bhoktum ārabdhavān annaṃ tasmin kāle_), O best of the Raghus; whereupon Indra, assuming the form of a twice-born Brahmin (_indro dvijātir bhūtvā_), begged from him that cooked food (_taṃ siddham annam ayācata_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Firm in his resolve (niścitaḥ), the venerable sage of great austerity gave all that prepared food to that Brahmin (tasmai dattvā tadā siddhaṃ sarvaṃ viprāya); and when the food was wholly exhausted (niḥśeṣite ’nne), he remained without having eaten at all (abhuktvaiva).
+Firm in his resolve (_niścitaḥ_), the venerable sage of great austerity gave all that prepared food to that Brahmin (_tasmai dattvā tadā siddhaṃ sarvaṃ viprāya_); and when the food was wholly exhausted (_niḥśeṣite ’nne_), he remained without having eaten at all (_abhuktvaiva_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ Like that, he indeed carried on his ascesis. [1-65-6, 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abiding in his vow of silence (maunavratam upāsthitaḥ), he spoke not a single word to the Brahmin (na kiṃcid avadad vipram); remaining just as before, he once again practised silence and suspension of breath (punar maunam anucchvāsaṃ cakāra ha).
+Abiding in his vow of silence (_maunavratam upāsthitaḥ_), he spoke not a single word to the Brahmin (_na kiṃcid avadad vipram_); remaining just as before, he once again practised silence and suspension of breath (_punar maunam anucchvāsaṃ cakāra ha_).
 </details>
 </details>
 
@@ -402,7 +402,7 @@ all the worlds. [1-65-8, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then for another thousand years that foremost of sages did not draw a single breath (varṣasahasraṃ ca nocchvasan munipuṃgavaḥ); and as he thus refrained from breathing, smoke issued forth from the crown of his head (tasyānucchvasamānasya mūrdhni dhūmo vyajāyata)—
+Then for another thousand years that foremost of sages did not draw a single breath (_varṣasahasraṃ ca nocchvasan munipuṃgavaḥ_); and as he thus refrained from breathing, smoke issued forth from the crown of his head (_tasyānucchvasamānasya mūrdhni dhūmo vyajāyata_)—
 </details>
 </details>
 
@@ -463,9 +463,9 @@ all of them addressed the Grandparent, Brahma. [1-65-9b, 10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** —whereby the three worlds were thrown into turmoil and seemed scorched with heat (trailokyaṃ yena sambhrāntam ātāpitam ivābhavat). Thereupon the gods, sages, and Gandharvas, together with the Pannagas, Uragas, and Rākṣasas—
+**9:** —whereby the three worlds were thrown into turmoil and seemed scorched with heat (_trailokyaṃ yena sambhrāntam ātāpitam ivābhavat_). Thereupon the gods, sages, and Gandharvas, together with the Pannagas, Uragas, and Rākṣasas—
 
-**10:** —bewildered by his austerity (mohitās tapasā tasya), their own lustre dimmed by his fiery splendour (tejasā mandaraśmayaḥ), and stricken with dejection (kaśmalopahatāḥ sarve), spoke thus to the Grandfather Brahmā:
+**10:** —bewildered by his austerity (_mohitās tapasā tasya_), their own lustre dimmed by his fiery splendour (_tejasā mandaraśmayaḥ_), and stricken with dejection (_kaśmalopahatāḥ sarve_), spoke thus to the Grandfather Brahmā:
 </details>
 </details>
 
@@ -512,7 +512,7 @@ these lures, angers, and passions by his ascesis. [1-65-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By manifold provocations, O Lord, the great sage Viśvāmitra has been enticed and provoked to wrath (bahubhiḥ kāraṇair lobhitaḥ krodhitaś caiva), yet he only grows mightier through his austerity (tapasā cābhivardhate)!
+“By manifold provocations, O Lord, the great sage Viśvāmitra has been enticed and provoked to wrath (_bahubhiḥ kāraṇair lobhitaḥ krodhitaś caiva_), yet he only grows mightier through his austerity (_tapasā cābhivardhate_)!
 </details>
 </details>
 
@@ -602,9 +602,9 @@ the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Not even the slightest flaw or sin is seen in him (nahy asya vṛjinaṃ kiṃcid dṛśyate sūkṣmam apy uta). If that which is desired by his heart is not granted to him (na dīyate yadi tv asya manasā yad abhīpsitam)—
+**12:** “Not even the slightest flaw or sin is seen in him (_nahy asya vṛjinaṃ kiṃcid dṛśyate sūkṣmam apy uta_). If that which is desired by his heart is not granted to him (_na dīyate yadi tv asya manasā yad abhīpsitam_)—
 
-**13:** “—he will destroy the three worlds together with all their moving and unmoving beings by his austerity (vināśayati trailokyaṃ tapasā sacarācaram)! All the quarters are confounded in darkness (vyākulāś ca diśaḥ sarvāḥ), and nothing whatever shines forth (na ca kiṃcit prakāśate).
+**13:** “—he will destroy the three worlds together with all their moving and unmoving beings by his austerity (_vināśayati trailokyaṃ tapasā sacarācaram_)! All the quarters are confounded in darkness (_vyākulāś ca diśaḥ sarvāḥ_), and nothing whatever shines forth (_na ca kiṃcit prakāśate_).
 </details>
 </details>
 
@@ -657,7 +657,7 @@ tend to become non-theistic and we do not know what to do. [1-65-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All the oceans are convulsed (sāgarāḥ kṣubhitāḥ sarve), the mountains are crumbling to pieces (viśīryante ca parvatāḥ), the earth trembles (prakampate ca vasudhā), and the wind blows here in violent confusion (vāyur vātīha saṃkulaḥ).
+“All the oceans are convulsed (_sāgarāḥ kṣubhitāḥ sarve_), the mountains are crumbling to pieces (_viśīryante ca parvatāḥ_), the earth trembles (_prakampate ca vasudhā_), and the wind blows here in violent confusion (_vāyur vātīha saṃkulaḥ_).
 </details>
 </details>
 
@@ -710,7 +710,7 @@ before the resplendence of that great sage. [1-65-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Brahmā, we know of no remedy (brahman na pratijānīmaḥ), and mankind is becoming negligent of Vedic rites as though unbelieving (nāstiko jāyate janaḥ); the three worlds seem bewildered, their minds utterly agitated (samprakṣubhitamānasam).
+“O Brahmā, we know of no remedy (_brahman na pratijānīmaḥ_), and mankind is becoming negligent of Vedic rites as though unbelieving (_nāstiko jāyate janaḥ_); the three worlds seem bewildered, their minds utterly agitated (_samprakṣubhitamānasam_).
 </details>
 </details>
 
@@ -765,7 +765,7 @@ total destruction of all worlds he is to be placated. [1-65-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even the sun has been rendered lustreless by the splendour of that great sage (bhāskaro niṣprabhaś caiva maharṣes tasya tejasā)! Before that great sage sets his mind upon universal destruction (buddhiṃ na kurute yāvan nāśe), O God—
+“Even the sun has been rendered lustreless by the splendour of that great sage (_bhāskaro niṣprabhaś caiva maharṣes tasya tejasā_)! Before that great sage sets his mind upon universal destruction (_buddhiṃ na kurute yāvan nāśe_), O God—
 </details>
 </details>
 
@@ -821,7 +821,7 @@ gods appealed to Brahma [1-65-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—let the illustrious one of fiery form and mighty radiance be propitiated (tāvat prasādyo bhagavann agnirūpo mahādyutiḥ)! Even as the entire three worlds were formerly consumed by the fire of universal dissolution (kālāgninā yathā pūrvaṃ trailokyaṃ dahyate ’khilam), so are they burning now.
+“—let the illustrious one of fiery form and mighty radiance be propitiated (_tāvat prasādyo bhagavann agnirūpo mahādyutiḥ_)! Even as the entire three worlds were formerly consumed by the fire of universal dissolution (_kālāgninā yathā pūrvaṃ trailokyaṃ dahyate ’khilam_), so are they burning now.
 </details>
 </details>
 
@@ -868,7 +868,7 @@ appeared before that great souled Vishvamitra and said this harmonious word. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if he should desire the sovereignty of the gods (devarājyaṃ cikīrṣeta), let whatever his heart desires be granted to him (dīyatām asya yan manaḥ)!” Then all the hosts of the gods, headed by the Grandfather Brahmā (pitāmahapurogamāḥ)—
+“Even if he should desire the sovereignty of the gods (_devarājyaṃ cikīrṣeta_), let whatever his heart desires be granted to him (_dīyatām asya yan manaḥ_)!” Then all the hosts of the gods, headed by the Grandfather Brahmā (_pitāmahapurogamāḥ_)—
 </details>
 </details>
 
@@ -922,7 +922,7 @@ Kaushika, you have achieved Bahaman-hood by your rigorous ascesis. [1-65-19b, 20
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—spoke these sweet words to the high-souled Viśvāmitra: “Welcome to you, O Brahmarṣi (brahmarṣe svāgataṃ te ’stu)! We have been thoroughly pleased by your austerity (tapasā sma sutoṣitāḥ).
+—spoke these sweet words to the high-souled Viśvāmitra: “Welcome to you, O Brahmarṣi (_brahmarṣe svāgataṃ te ’stu_)! We have been thoroughly pleased by your austerity (_tapasā sma sutoṣitāḥ_).
 </details>
 </details>
 
@@ -970,7 +970,7 @@ you please.' Thus, Brahma said to Vishvamitra. [1-65-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through fierce austerity you have attained the state of a brāhmaṇa (brāhmaṇyaṃ tapasogreṇa prāptavān asi), O Kauśika! Accompanied by the hosts of the Maruts, O Brahmin, I bestow upon you long life as well (dīrgham āyuś ca te brahman dadāmi samarudgaṇaḥ).
+“Through fierce austerity you have attained the state of a _brāhmaṇa_ (_brāhmaṇyaṃ tapasogreṇa prāptavān asi_), O Kauśika! Accompanied by the hosts of the Maruts, O Brahmin, I bestow upon you long life as well (_dīrgham āyuś ca te brahman dadāmi samarudgaṇaḥ_).
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ on paying good devoirs to all of them that great saint cheerfully said. [1-65-21
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Attain welfare (svasti prāpnuhi); may good betide you; depart at your ease, O gentle one (gaccha saumya yathāsukham)!” Hearing the speech of the Grandfather Brahmā, and bowing in salutation to all the denizens of heaven—
+“Attain welfare (_svasti prāpnuhi_); may good betide you; depart at your ease, O gentle one (_gaccha saumya yathāsukham_)!” Hearing the speech of the Grandfather Brahmā, and bowing in salutation to all the denizens of heaven—
 </details>
 </details>
 
@@ -1101,11 +1101,11 @@ the gods. [1-65-23b, 24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** —the great sage, filled with joy (muditaḥ), spoke forth: “If Brahminhood has indeed been attained by me (brāhmaṇyaṃ yadi me prāptam), and long life as well (dīrgham āyus tathaiva ca)—
+**22:** —the great sage, filled with joy (_muditaḥ_), spoke forth: “If Brahminhood has indeed been attained by me (_brāhmaṇyaṃ yadi me prāptam_), and long life as well (_dīrgham āyus tathaiva ca_)—
 
-**23:** “—then let the sacred syllable Oṃ, the ritual call Vaṣaṭ, and the Vedas themselves embrace me (oṃkāro ’tha vaṣaṭkāro vedāś ca varayantu mām)! And let him who is foremost among the knowers of the Kṣatraveda and of the Brahmaveda as well (kṣatravedavidāṃ śreṣṭho brahmavedavidām api)—
+**23:** “—then let the sacred syllable _Oṃ_, the ritual call _Vaṣaṭ_, and the Vedas themselves embrace me (_oṃkāro ’tha vaṣaṭkāro vedāś ca varayantu mām_)! And let him who is foremost among the knowers of the _Kṣatraveda_ and of the _Brahmaveda_ as well (_kṣatravedavidāṃ śreṣṭho brahmavedavidām api_)—
 
-**24:** “—Vasiṣṭha, the son of Brahmā, himself declare me thus (brahmaputro vasiṣṭho mām evaṃ vadatu), O gods! If this supreme desire of mine is fulfilled (yady evaṃ paramaḥ kāmaḥ kṛtaḥ), then let the foremost of the gods depart.”
+**24:** “—Vasiṣṭha, the son of Brahmā, himself declare me thus (_brahmaputro vasiṣṭho mām evaṃ vadatu_), O gods! If this supreme desire of mine is fulfilled (_yady evaṃ paramaḥ kāmaḥ kṛtaḥ_), then let the foremost of the gods depart.”
 </details>
 </details>
 
@@ -1161,7 +1161,7 @@ way to Vishvamitra, 'you are a Brahma-sage.' [1-65-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, propitiated by the gods, the Brahmarṣi Vasiṣṭha, foremost of mutterers of sacred prayers (japatāṃ varaḥ), entered into friendship with him (sakhyaṃ cakāra) and said: “So be it (evam astu)!
+Then, propitiated by the gods, the Brahmarṣi Vasiṣṭha, foremost of mutterers of sacred prayers (_japatāṃ varaḥ_), entered into friendship with him (_sakhyaṃ cakāra_) and said: “So be it (_evam astu_)!
 </details>
 </details>
 
@@ -1212,7 +1212,7 @@ all the gods have gone away as they have come. [1-65-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are a Brahmarṣi, of this there is no doubt (brahmarṣis tvaṃ na saṃdehaḥ); everything that pertains to Brahminhood is fulfilled for you (sarvaṃ sampadyate tava)!” Having spoken thus, Vasiṣṭha and all the deities departed just as they had come (sarvā jagmur yathāgatam).
+“You are a Brahmarṣi, of this there is no doubt (_brahmarṣis tvaṃ na saṃdehaḥ_); everything that pertains to Brahminhood is fulfilled for you (_sarvaṃ sampadyate tava_)!” Having spoken thus, Vasiṣṭha and all the deities departed just as they had come (_sarvā jagmur yathāgatam_).
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ the supreme among meditators and his counterpart Brahma-sage, namely Vashishta.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having attained supreme Brahminhood (labdhvā brāhmaṇyam uttamam), the righteous-souled Viśvāmitra, too, worshipped the Brahmarṣi Vasiṣṭha, foremost of mutterers of prayers (pūjayām āsa brahmarṣiṃ vasiṣṭhaṃ japatāṃ varam).
+Having attained supreme Brahminhood (_labdhvā brāhmaṇyam uttamam_), the righteous-souled Viśvāmitra, too, worshipped the Brahmarṣi Vasiṣṭha, foremost of mutterers of prayers (_pūjayām āsa brahmarṣiṃ vasiṣṭhaṃ japatāṃ varam_).
 </details>
 </details>
 
@@ -1307,7 +1307,7 @@ and oh, Rama, this great souled sage Vishvamitra achieved Brahman-hood in this w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his desire fulfilled (kṛtakāmaḥ), he roamed over the entire earth, steadfast in austerity (mahīṃ sarvāṃ cacāra tapasi sthitaḥ). Thus, O Rāma, was Brahminhood attained by this great-souled sage (evaṃ tv anena brāhmaṇyaṃ prāptaṃ rāma mahātmanā)!
+With his desire fulfilled (_kṛtakāmaḥ_), he roamed over the entire earth, steadfast in austerity (_mahīṃ sarvāṃ cacāra tapasi sthitaḥ_). Thus, O Rāma, was Brahminhood attained by this great-souled sage (_evaṃ tv anena brāhmaṇyaṃ prāptaṃ rāma mahātmanā_)!
 </details>
 </details>
 
@@ -1359,7 +1359,7 @@ with righteousness, and he is the stronghold for fortitude." [1-65-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This, O Rāma, is the foremost of sages (eṣa rāma muniśreṣṭhaḥ); this is austerity incarnate in bodily form (eṣa vigrahavāṃs tapaḥ)! He is ever supreme dharma (eṣa dharmaḥ paro nityam), and he is the ultimate abode of spiritual might (vīryasyaiṣa parāyaṇam)!”
+“This, O Rāma, is the foremost of sages (_eṣa rāma muniśreṣṭhaḥ_); this is austerity incarnate in bodily form (_eṣa vigrahavāṃs tapaḥ_)! He is ever supreme _dharma_ (_eṣa dharmaḥ paro nityam_), and he is the ultimate abode of spiritual might (_vīryasyaiṣa parāyaṇam_)!”
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ son, Vishvamitra, with suppliantly adjoined palms. [1-65-30b, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that foremost of the twice-born (Śatānanda) of great splendour fell silent (virarāma dvijottamaḥ). Hearing the speech of Śatānanda in the presence of Rāma and Lakṣmaṇa (rāmalakṣmaṇasaṃnidhau)—
+Having spoken thus, that foremost of the twice-born (Śatānanda) of great splendour fell silent (_virarāma dvijottamaḥ_). Hearing the speech of Śatānanda in the presence of Rāma and Lakṣmaṇa (_rāmalakṣmaṇasaṃnidhau_)—
 </details>
 </details>
 
@@ -1489,9 +1489,9 @@ I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** —Janaka, with folded hands (prāñjaliḥ), spoke these words to the son of Kuśika: “Blessed am I, favoured by grace am I (dhanyo ’smy anugṛhīto ’smi), O foremost of sages, unto whose—
+**31:** —Janaka, with folded hands (_prāñjaliḥ_), spoke these words to the son of Kuśika: “Blessed am I, favoured by grace am I (_dhanyo ’smy anugṛhīto ’smi_), O foremost of sages, unto whose—
 
-**32:** “—sacrifice you have come accompanied by the two scions of Kakutstha (yajñaṃ kākutsthasahitaḥ prāptavān asi), O Kauśika! I have been sanctified by you through your very sight (pāvito ’haṃ tvayā brahman darśanena), O great sage.
+**32:** “—sacrifice you have come accompanied by the two scions of Kakutstha (_yajñaṃ kākutsthasahitaḥ prāptavān asi_), O Kauśika! I have been sanctified by you through your very sight (_pāvito ’haṃ tvayā brahman darśanena_), O great sage.
 </details>
 </details>
 
@@ -1547,9 +1547,9 @@ your great ascesis when Sage Shataananda extolled it comprehensively. [1-65-33b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** “Manifold spiritual merits and blessings have been gained by me through beholding you (guṇā bahuvidhāḥ prāptās tava saṃdarśanān mayā); and as your mighty austerity was being recounted at length, O Brahmin (vistareṇa ca vai brahman kīrtyamānaṃ mahat tapaḥ)—
+**33:** “Manifold spiritual merits and blessings have been gained by me through beholding you (_guṇā bahuvidhāḥ prāptās tava saṃdarśanān mayā_); and as your mighty austerity was being recounted at length, O Brahmin (_vistareṇa ca vai brahman kīrtyamānaṃ mahat tapaḥ_)—
 
-**34:** “—it has been heard by me and by the high-souled Rāma (śrutaṃ mayā mahātejo rāmeṇa ca mahātmanā), O sage of great splendour; and the priests and assessors, having assembled in the sacrificial hall, have likewise heard your manifold virtues (sadasyaiḥ prāpya ca sadaḥ śrutās te bahavo guṇāḥ).
+**34:** “—it has been heard by me and by the high-souled Rāma (_śrutaṃ mayā mahātejo rāmeṇa ca mahātmanā_), O sage of great splendour; and the priests and assessors, having assembled in the sacrificial hall, have likewise heard your manifold virtues (_sadasyaiḥ prāpya ca sadaḥ śrutās te bahavo guṇāḥ_).
 </details>
 </details>
 
@@ -1598,7 +1598,7 @@ and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Immeasurable is your austerity (aprameyaṃ tapas tubhyam), immeasurable too is your power (aprameyaṃ ca te balam), and immeasurable ever are your virtues, O son of Kuśika (aprameyā guṇāś caiva nityaṃ te kuśikātmaja)!
+“Immeasurable is your austerity (_aprameyaṃ tapas tubhyam_), immeasurable too is your power (_aprameyaṃ ca te balam_), and immeasurable ever are your virtues, O son of Kuśika (_aprameyā guṇāś caiva nityaṃ te kuśikātmaja_)!
 </details>
 </details>
 
@@ -1654,7 +1654,7 @@ is dangling westward. [1-65-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is no satiety for me in listening to your wondrous narratives (tṛptir āścaryabhūtānāṃ kathānāṃ nāsti me), O mighty lord! Yet the hour for ritual duties has arrived, O foremost of sages, and the orb of the sun is declining toward the west (karmakālo muniśreṣṭha lambate ravimaṇḍalam).
+“There is no satiety for me in listening to your wondrous narratives (_tṛptir āścaryabhūtānāṃ kathānāṃ nāsti me_), O mighty lord! Yet the hour for ritual duties has arrived, O foremost of sages, and the orb of the sun is declining toward the west (_karmakālo muniśreṣṭha lambate ravimaṇḍalam_).
 </details>
 </details>
 
@@ -1701,7 +1701,7 @@ leave from Vishvamitra. [1-65-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tomorrow at dawn, O sage of mighty splendour, deign to grant me your sight again (śvaḥ prabhāte mahātejo draṣṭum arhasi māṃ punaḥ)! Hail to your auspicious arrival, O foremost of mutterers of prayers; deign to grant me leave to depart (mām anujñātum arhasi).”
+“Tomorrow at dawn, O sage of mighty splendour, deign to grant me your sight again (_śvaḥ prabhāte mahātejo draṣṭum arhasi māṃ punaḥ_)! Hail to your auspicious arrival, O foremost of mutterers of prayers; deign to grant me leave to depart (_mām anujñātum arhasi_).”
 </details>
 </details>
 
@@ -1755,7 +1755,7 @@ the best one among men, namely Janaka. [1-65-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, that best of sages, well pleased in heart (prītamanāḥ), praised that bull among men and swiftly gave leave to the delighted Janaka (visasarjāśu janakaṃ prītam).
+Thus addressed, that best of sages, well pleased in heart (_prītamanāḥ_), praised that bull among men and swiftly gave leave to the delighted Janaka (_visasarjāśu janakaṃ prītam_).
 </details>
 </details>
 
@@ -1802,7 +1802,7 @@ to Vishvamitra in veneration. [1-65-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to the foremost of sages, Vaideha, the lord of Mithilā, swiftly circumambulated him in reverence (pradakṣiṇaṃ cakārāśu), accompanied by his preceptor and his kinsmen (sopādhyāyaḥ sabāndhavaḥ).
+Having spoken thus to the foremost of sages, Vaideha, the lord of Mithilā, swiftly circumambulated him in reverence (_pradakṣiṇaṃ cakārāśu_), accompanied by his preceptor and his kinsmen (_sopādhyāyaḥ sabāndhavaḥ_).
 </details>
 </details>
 
@@ -1869,7 +1869,7 @@ and Lakshmana, while being venerated by great sages who are available in the rit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The righteous-souled Viśvāmitra, too, accompanied by Rāma and Lakṣmaṇa (saharāmaḥ salakṣmaṇaḥ), repaired to his own quarters (svavāsam abhicakrāma), honoured by the high-souled sages (pūjyamāno mahātmabhiḥ).
+The righteous-souled Viśvāmitra, too, accompanied by Rāma and Lakṣmaṇa (_saharāmaḥ salakṣmaṇaḥ_), repaired to his own quarters (_svavāsam abhicakrāma_), honoured by the high-souled sages (_pūjyamāno mahātmabhiḥ_).
 </details>
 </details>
 

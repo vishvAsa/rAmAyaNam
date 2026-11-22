@@ -49,7 +49,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma and the great-souled Bharata had spoken thus (tathoktavati rāme tu bharate ca mahātmani), Lakṣmaṇa then addressed auspicious words to the delight of the Raghus (śubhaṃ vākyam uvāca raghunandanam):
+When Rāma and the great-souled Bharata had spoken thus (_tathoktavati rāme tu bharate ca mahātmani_), Lakṣmaṇa then addressed auspicious words to the delight of the Raghus (_śubhaṃ vākyam uvāca raghunandanam_):
 </details>
 </details>
 
@@ -83,7 +83,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The horse sacrifice is a great rite, the purifier of all sins (aśvamedho mahāyajñaḥ pāvanaḥ sarva-pāpmanām); let this purifying, unassailable sacrifice find favor with you, O delight of the Raghus (pāvanas tava durdharṣo rocatāṃ raghunandana).
+“The horse sacrifice is a great rite, the purifier of all sins (_aśvamedho mahāyajñaḥ pāvanaḥ sarva-pāpmanām_); let this purifying, unassailable sacrifice find favor with you, O delight of the Raghus (_pāvanas tava durdharṣo rocatāṃ raghunandana_).
 </details>
 </details>
 
@@ -117,7 +117,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, an ancient history is heard concerning the exceedingly great-souled Vāsava (śrūyate hi purāvṛttaṃ vāsave sumahātmani): beset by the sin of brahmin-slaughter, Śakra was purified through the horse sacrifice (brahmahatyāvṛtaḥ śakro hayamedhena pāvitaḥ).
+“Indeed, an ancient history is heard concerning the exceedingly great-souled Vāsava (_śrūyate hi purāvṛttaṃ vāsave sumahātmani_): beset by the sin of brahmin-slaughter, Śakra was purified through the horse sacrifice (_brahmahatyāvṛtaḥ śakro hayamedhena pāvitaḥ_).
 </details>
 </details>
 
@@ -151,7 +151,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, O mighty-armed one, during a time of amity between gods and asuras (devāsura-samāgame), there lived a mighty daitya named Vṛtra, esteemed by all the worlds (vṛtro nāma mahān āsīd daiteyo loka-sammataḥ).
+“Of old, O mighty-armed one, during a time of amity between gods and asuras (_devāsura-samāgame_), there lived a mighty daitya named Vṛtra, esteemed by all the worlds (_vṛtro nāma mahān āsīd daiteyo loka-sammataḥ_).
 </details>
 </details>
 
@@ -185,7 +185,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A hundred yojanas broad and three times as tall as that (vistīrṇo yojana-śatam ucchritas triguṇaṃ tataḥ), he looked upon the three worlds everywhere with affection and tender love (anurāgeṇa lokāṃs trīn snehāt paśyati sarvataḥ).
+“A hundred yojanas broad and three times as tall as that (_vistīrṇo yojana-śatam ucchritas triguṇaṃ tataḥ_), he looked upon the three worlds everywhere with affection and tender love (_anurāgeṇa lokāṃs trīn snehāt paśyati sarvataḥ_).
 </details>
 </details>
 
@@ -219,7 +219,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Knowing dharma and grateful, firmly established in wisdom (dharmajñaś ca kṛtajñaś ca buddhyā ca pariniṣṭhitaḥ), he ruled the flourishing earth righteously, ever self-possessed (śaśāsa pṛthivīṃ sphītāṃ dharmeṇa susamāhitaḥ).
+“Knowing dharma and grateful, firmly established in wisdom (_dharmajñaś ca kṛtajñaś ca buddhyā ca pariniṣṭhitaḥ_), he ruled the flourishing earth righteously, ever self-possessed (_śaśāsa pṛthivīṃ sphītāṃ dharmeṇa susamāhitaḥ_).
 </details>
 </details>
 
@@ -261,7 +261,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While he governed then (tasmin praśāsati tadā), the earth yielded every desire (sarva-kāmadughā mahī), and abundant, savory roots and fruits came forth (rasavanti prabhūnāni mūlāni ca phalāni ca).
+While he governed then (_tasmin praśāsati tadā_), the earth yielded every desire (_sarva-kāmadughā mahī_), and abundant, savory roots and fruits came forth (_rasavanti prabhūnāni mūlāni ca phalāni ca_).
 </details>
 </details>
 
@@ -295,7 +295,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ripening without plowing (akṛṣṭa-pacyā pṛthivī), the earth was richly endowed for that great-souled one (susampannā mahātmanaḥ); thus he enjoyed such a flourishing kingdom, wondrous to behold (rājyaṃ tādṛśaṃ bhuṅkte sphītam adbhuta-darśanam).
+Ripening without plowing (_akṛṣṭa-pacyā pṛthivī_), the earth was richly endowed for that great-souled one (_susampannā mahātmanaḥ_); thus he enjoyed such a flourishing kingdom, wondrous to behold (_rājyaṃ tādṛśaṃ bhuṅkte sphītam adbhuta-darśanam_).
 </details>
 </details>
 
@@ -329,7 +329,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the thought arose in him (tasya buddhiḥ samuptannā): “Let me practice unsurpassed austerity (tapaḥ kuryām anuttamam), for austerity is the supreme good (tapo hi paramaṃ śreyaḥ), while all other pleasure is mere delusion (sammoham itarat sukham).”
+Then the thought arose in him (_tasya buddhiḥ samuptannā_): “Let me practice unsurpassed austerity (_tapaḥ kuryām anuttamam_), for austerity is the supreme good (_tapo hi paramaṃ śreyaḥ_), while all other pleasure is mere delusion (_sammoham itarat sukham_).”
 </details>
 </details>
 
@@ -366,7 +366,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entrusting his eldest son Madhureśvara to the citizens (nikṣipya sutaṃ jyeṣṭhaṃ paureṣu madhureśvaram), he entered upon fierce austerity, scorching all the deities (tapa ugraṃ samātiṣṭhat tāpayan sarva-devatāḥ).
+Entrusting his eldest son Madhureśvara to the citizens (_nikṣipya sutaṃ jyeṣṭhaṃ paureṣu madhureśvaram_), he entered upon fierce austerity, scorching all the deities (_tapa ugraṃ samātiṣṭhat tāpayan sarva-devatāḥ_).
 </details>
 </details>
 
@@ -400,7 +400,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Vṛtra was practicing austerity (tapas tapyati vṛtre tu), Vāsava, like one grievously afflicted (paramārtavat), approached Viṣṇu and spoke these words (viṣṇuṃ samupasaṅkramya vākyam etad uvāca ha):
+While Vṛtra was practicing austerity (_tapas tapyati vṛtre tu_), Vāsava, like one grievously afflicted (_paramārtavat_), approached Viṣṇu and spoke these words (_viṣṇuṃ samupasaṅkramya vākyam etad uvāca ha_):
 </details>
 </details>
 
@@ -434,7 +434,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the austere Vṛtra, O mighty-armed one, the worlds have been utterly conquered (tapasyatā mahābāho lokāḥ vṛtreṇa nirjitāḥ); mighty and righteous-souled is he, and I shall never be able to subdue him (balavān sa hi dharmātmā nainaṃ śakṣyāmi śāsitum).
+“By the austere Vṛtra, O mighty-armed one, the worlds have been utterly conquered (_tapasyatā mahābāho lokāḥ vṛtreṇa nirjitāḥ_); mighty and righteous-souled is he, and I shall never be able to subdue him (_balavān sa hi dharmātmā nainaṃ śakṣyāmi śāsitum_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If he should continue to practice austerity still further, O lord over the asuras (yady asau tapa ātiṣṭhed bhūya evāsureśvara), for as long as the worlds endure, so long will they remain obedient to his will (yāval lokā dhariṣyanti tāvad asya vaśānugāḥ).
+“If he should continue to practice austerity still further, O lord over the asuras (_yady asau tapa ātiṣṭhed bhūya evāsureśvara_), for as long as the worlds endure, so long will they remain obedient to his will (_yāval lokā dhariṣyanti tāvad asya vaśānugāḥ_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet you overlook this exceedingly lofty and mighty being (taṃ cainaṃ paramodāram upekṣasi mahābalam)—though Vṛtra would not survive a single instant were you enraged, O lord of the gods (kṣaṇaṃ hi na bhaved vṛtraḥ kruddhe tvayi sureśvara)!
+“Yet you overlook this exceedingly lofty and mighty being (_taṃ cainaṃ paramodāram upekṣasi mahābalam_)—though Vṛtra would not survive a single instant were you enraged, O lord of the gods (_kṣaṇaṃ hi na bhaved vṛtraḥ kruddhe tvayi sureśvara_)!
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For ever since he entered into a bond of friendship with you, O Viṣṇu (yadā hi prīti-saṃyogaṃ tvayā viṣṇo samāgataḥ), from that very time onward he attained lordship over the worlds (tadāprabhṛti lokānāṃ nāthatvam upalabdhavān).
+“For ever since he entered into a bond of friendship with you, O Viṣṇu (_yadā hi prīti-saṃyogaṃ tvayā viṣṇo samāgataḥ_), from that very time onward he attained lordship over the worlds (_tadāprabhṛti lokānāṃ nāthatvam upalabdhavān_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, ever attentive, bestow your grace upon the worlds (sa tvaṃ prasādaṃ lokānāṃ kuruṣva susamāhitaḥ), for through what you do the entire universe will become tranquil and free from affliction (tvatkṛtena hi sarvaṃ syāpraśāntam arujaṃ jagat).
+“Therefore, ever attentive, bestow your grace upon the worlds (_sa tvaṃ prasādaṃ lokānāṃ kuruṣva susamāhitaḥ_), for through what you do the entire universe will become tranquil and free from affliction (_tvatkṛtena hi sarvaṃ syāpraśāntam arujaṃ jagat_).
 </details>
 </details>
 
@@ -612,7 +612,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Viṣṇu, all these dwellers in heaven look eagerly to you (ime hi sarve viṣṇo tvāṃ nirīkṣante divaukasaḥ); come to their aid through the mighty slaying of Vṛtra (vṛtra-ghātena mahatā teṣāṃ sāhyaṃ kuruṣva ha)!
+“Behold, O Viṣṇu, all these dwellers in heaven look eagerly to you (_ime hi sarve viṣṇo tvāṃ nirīkṣante divaukasaḥ_); come to their aid through the mighty slaying of Vṛtra (_vṛtra-ghātena mahatā teṣāṃ sāhyaṃ kuruṣva ha_)!
 </details>
 </details>
 
@@ -657,6 +657,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For continually have you rendered aid to these great-souled gods (tvayā hi nityaśaḥ sāhyaṃ kṛtam eṣāṃ mahātmanām); this task is unbearable for any others, and you are the refuge of the refugeless (asahyam idam anyeṣām agatīnāṃ gatir bhavān).”
+“For continually have you rendered aid to these great-souled gods (_tvayā hi nityaśaḥ sāhyaṃ kṛtam eṣāṃ mahātmanām_); this task is unbearable for any others, and you are the refuge of the refugeless (_asahyam idam anyeṣām agatīnāṃ gatir bhavān_).”
 </details>
 </details>

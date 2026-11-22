@@ -82,7 +82,7 @@ That Hanuma being there, seeing and searching for Seetha, observing all that lan
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed there [in the śiṃśapā tree] and looking all around (vīkṣamāṇas tatrasthaḥ), searching for Maithilī (mārgamāṇaś ca maithilīm) and scanning the ground (avekṣamāṇaś ca mahīm), he surveyed that entire [Aśoka grove] (sarvāṃ tām anvavaikṣata),—
+Stationed there [in the _śiṃśapā_ tree] and looking all around (_vīkṣamāṇas tatrasthaḥ_), searching for Maithilī (_mārgamāṇaś ca maithilīm_) and scanning the ground (_avekṣamāṇaś ca mahīm_), he surveyed that entire [Aśoka grove] (_sarvāṃ tām anvavaikṣata_),—
 </details>
 </details>
 
@@ -117,7 +117,7 @@ Stationed there [in the śiṃśapā tree] and looking all around (vīkṣamā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—which was graced with trees and saṃtānaka creepers (saṃtānakalatābhiś ca pādapair upaśobhitām), endowed with celestial fragrances and savors (divyagandharasopetām), and thoroughly adorned on all sides (sarvataḥ samalaṃkṛtām).
+—which was graced with trees and _saṃtānaka_ creepers (_saṃtānakalatābhiś ca pādapair upaśobhitām_), endowed with celestial fragrances and savors (_divyagandharasopetām_), and thoroughly adorned on all sides (_sarvataḥ samalaṃkṛtām_).
 </details>
 </details>
 
@@ -150,7 +150,7 @@ Stationed there [in the śiṃśapā tree] and looking all around (vīkṣamā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He surveyed] that [grove], which resembled [Indra's] Nandana garden (nandanasaṃkāśām), teemed with deer and birds (mṛgapakṣibhir āvṛtām), was crowded with mansions and palaces (harmyaprāsādasambādhām), and echoed with the excited cries of cuckoos (kokilākulaniḥsvanām),—
+[He surveyed] that [grove], which resembled [Indra&#x27;s] Nandana garden (_nandanasaṃkāśām_), teemed with deer and birds (_mṛgapakṣibhir āvṛtām_), was crowded with mansions and palaces (_harmyaprāsādasambādhām_), and echoed with the excited cries of cuckoos (_kokilākulaniḥsvanām_),—
 </details>
 </details>
 
@@ -183,7 +183,7 @@ Stationed there [in the śiṃśapā tree] and looking all around (vīkṣamā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—graced with pleasure-tanks bearing golden water-lilies and lotuses (kāñcanotpalapadmābhir vāpībhir upaśobhitām), furnished with many seats and carpets (bahvāsanakuthopetām), and provided with many multi-storied pavilions (bahubhūmigṛhāyutām).
+—graced with pleasure-tanks bearing golden water-lilies and lotuses (_kāñcanotpalapadmābhir vāpībhir upaśobhitām_), furnished with many seats and carpets (_bahvāsanakuthopetām_), and provided with many multi-storied pavilions (_bahubhūmigṛhāyutām_).
 </details>
 </details>
 
@@ -219,7 +219,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its lovely fruit-bearing trees blossoming in all seasons (sarvartukusumai ramyaiḥ phalavadbhiś ca pādapaiḥ), and with the splendor of its flowering aśoka trees (puṣpitānām aśokānāṃ śriyā), [he beheld that grove] shining like the sunrise (sūryodayaprabhām),—
+With its lovely fruit-bearing trees blossoming in all seasons (_sarvartukusumai ramyaiḥ phalavadbhiś ca pādapaiḥ_), and with the splendor of its flowering _aśoka_ trees (_puṣpitānām aśokānāṃ śriyā_), [he beheld that grove] shining like the sunrise (_sūryodayaprabhām_),—
 </details>
 </details>
 
@@ -247,7 +247,7 @@ With its lovely fruit-bearing trees blossoming in all seasons (sarvartukusumai r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—stationed there, Māruti gazed upon it (tatrastho mārutiḥ samudaikṣata) as though it were ablaze (pradīptām iva), and as though its branches were repeatedly stripped of leaves by the birds [taking flight] (niṣpatraśākhāṃ vihagaiḥ kriyamāṇām ivāsakṛt),—
+—stationed there, Māruti gazed upon it (_tatrastho mārutiḥ samudaikṣata_) as though it were ablaze (_pradīptām iva_), and as though its branches were repeatedly stripped of leaves by the birds [taking flight] (_niṣpatraśākhāṃ vihagaiḥ kriyamāṇām ivāsakṛt_),—
 </details>
 </details>
 
@@ -345,9 +345,9 @@ That Hanuma being there observed closely that Ashoka garden shone by Santanaka c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** —[a grove graced] with hundreds of darting [birds] adorned with wondrous flower-crests (citraiḥ puṣpāvataṃsakaiḥ), and with sorrow-dispelling aśoka trees (aśokaiḥ śokanāśanaiḥ) arrayed with blossoms from their very roots (samūlapuṣparacitaiḥ),—
+**7:** —[a grove graced] with hundreds of darting [birds] adorned with wondrous flower-crests (_citraiḥ puṣpāvataṃsakaiḥ_), and with sorrow-dispelling _aśoka_ trees (_aśokaiḥ śokanāśanaiḥ_) arrayed with blossoms from their very roots (_samūlapuṣparacitaiḥ_),—
 
-**8:** —and with blossoming karṇikāras and richly flowering kiṃśukas (karṇikāraiḥ kusumitaiḥ kiṃśukaiś ca supuṣpitaiḥ) that seemed to touch the earth (spṛśadbhir iva medinīm) under the exceeding weight of their flower-loads (puṣpabhārātibhāraiś ca).
+**8:** —and with blossoming _karṇikāra_s and richly flowering _kiṃśuka_s (_karṇikāraiḥ kusumitaiḥ kiṃśukaiś ca supuṣpitaiḥ_) that seemed to touch the earth (_spṛśadbhir iva medinīm_) under the exceeding weight of their flower-loads (_puṣpabhārātibhāraiś ca_).
 </details>
 </details>
 
@@ -384,7 +384,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By their radiance (prabhayā teṣām), that region seemed ablaze on all sides (sa deśaḥ pradīpta iva sarvataḥ). Many puṃnāgas, saptaparṇas, campakas, and uddālakas (campakoddālakās tathā),—
+By their radiance (_prabhayā teṣām_), that region seemed ablaze on all sides (_sa deśaḥ pradīpta iva sarvataḥ_). Many _puṃnāga_s, _saptaparṇa_s, _campaka_s, and _uddālaka_s (_campakoddālakās tathā_),—
 </details>
 </details>
 
@@ -436,7 +436,7 @@ There in that garden of Ashoka there were thousands of Ashoka trees some equalli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—with mighty, deep-grown roots and rich blossoms, shone forth (vivṛddhamūlā bahavaḥ śobhante sma supuṣpitāḥ). Some gleamed like burnished gold (śātakumbhanibhāḥ kecit), some had the radiance of flames of fire (kecid agniśikhaprabhāḥ),—
+—with mighty, deep-grown roots and rich blossoms, shone forth (_vivṛddhamūlā bahavaḥ śobhante sma supuṣpitāḥ_). Some gleamed like burnished gold (_śātakumbhanibhāḥ kecit_), some had the radiance of flames of fire (_kecid agniśikhaprabhāḥ_),—
 </details>
 </details>
 
@@ -487,7 +487,7 @@ By the radiance of those trees that region was as though lit in all directions. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and some shone like dark collyrium (nīlāñjananibhāḥ kecit): such were the aśokas there by the thousands (tatrāśokāḥ sahasraśaḥ). Like Nandana, the pleasure-park of the gods (nandanaṃ vibudhodyānam), and like wondrous Caitraratha [the garden of Kubera] (citraṃ caitrarathaṃ yathā),—
+—and some shone like dark collyrium (_nīlāñjananibhāḥ kecit_): such were the _aśoka_s there by the thousands (_tatrāśokāḥ sahasraśaḥ_). Like Nandana, the pleasure-park of the gods (_nandanaṃ vibudhodyānam_), and like wondrous Caitraratha [the garden of Kubera] (_citraṃ caitrarathaṃ yathā_),—
 </details>
 </details>
 
@@ -522,7 +522,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—[that grove] was surpassingly transcendent, inconceivable, celestial, and endowed with lovely splendor (ativṛttam ivācintyaṃ divyaṃ ramyaśriyāyutam), and resembled a second sky (dvitīyam iva cākāśam) studded with constellations of blossom-stars (puṣpajyotirgaṇāyutam),—
+—[that grove] was surpassingly transcendent, inconceivable, celestial, and endowed with lovely splendor (_ativṛttam ivācintyaṃ divyaṃ ramyaśriyāyutam_), and resembled a second sky (_dvitīyam iva cākāśam_) studded with constellations of blossom-stars (_puṣpajyotirgaṇāyutam_),—
 </details>
 </details>
 
@@ -608,9 +608,9 @@ Like the garden of Nandana, a celestial garden, wonderful like Caitraratham, a g
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** —and like a fifth ocean (pañcamaṃ sāgaraṃ yathā) wondrous with hundreds of blossom-jewels (puṣparatnaśataiś citram), crowded with honey-scented trees blooming in all seasons (sarvartupuṣpair nicitaṃ pādapair madhugandhibhiḥ),—
+**13:** —and like a fifth ocean (_pañcamaṃ sāgaraṃ yathā_) wondrous with hundreds of blossom-jewels (_puṣparatnaśataiś citram_), crowded with honey-scented trees blooming in all seasons (_sarvartupuṣpair nicitaṃ pādapair madhugandhibhiḥ_),—
 
-**14:** —[he beheld] that pleasure-park (udyānam), lovely with herds of deer and birds uttering diverse cries (nānāninādaiḥ... mṛgagaṇadvijaiḥ), wafting manifold fragrances, purely scented, and ravishing to the mind (anekagandhapravahaṃ puṇyagandhaṃ manoharam),—
+**14:** —[he beheld] that pleasure-park (_udyānam_), lovely with herds of deer and birds uttering diverse cries (_nānāninādaiḥ... mṛgagaṇadvijaiḥ_), wafting manifold fragrances, purely scented, and ravishing to the mind (_anekagandhapravahaṃ puṇyagandhaṃ manoharam_),—
 </details>
 </details>
 
@@ -703,11 +703,11 @@ That monkey warrior Hanuma saw not far away in that Ashoka garden, in the middle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** —like a second fragrance-rich Gandhamādana, lord of mountains (śailendram iva gandhāḍhyaṃ dvitīyaṃ gandhamādanam). Then, in that Aśoka grove, the bull among monkeys (vānarapuṃgavaḥ)—
+**15:** —like a second fragrance-rich Gandhamādana, lord of mountains (_śailendram iva gandhāḍhyaṃ dvitīyaṃ gandhamādanam_). Then, in that Aśoka grove, the bull among monkeys (_vānarapuṃgavaḥ_)—
 
-**16:** —beheld nearby a lofty sanctuary-palace (dadarśāvidūrasthaṃ caityaprāsādam ūrjitam), standing in the center upon a thousand pillars and white as Mount Kailāsa (madhye stambhasahasreṇa sthitaṃ kailāsapāṇḍuram),—
+**16:** —beheld nearby a lofty sanctuary-palace (_dadarśāvidūrasthaṃ caityaprāsādam ūrjitam_), standing in the center upon a thousand pillars and white as Mount Kailāsa (_madhye stambhasahasreṇa sthitaṃ kailāsapāṇḍuram_),—
 
-**17:** —having steps fashioned of coral (pravālakṛtasopānam) and platforms of refined gold (taptakāñcanavedikam), dazzling the eyes as it were (muṣṇantam iva cakṣūṃṣi) and blazing with splendor (dyotamānam iva śriyā),—
+**17:** —having steps fashioned of coral (_pravālakṛtasopānam_) and platforms of refined gold (_taptakāñcanavedikam_), dazzling the eyes as it were (_muṣṇantam iva cakṣūṃṣi_) and blazing with splendor (_dyotamānam iva śriyā_),—
 </details>
 </details>
 
@@ -778,9 +778,9 @@ Thereafter Hanuma saw Seetha wearing a soiled garment, surrounded by rakshasa wo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** —spotless (nirmalam), and by reason of its towering height seeming to scrape the sky (prāṃśubhāvatvād ullikhantam ivāmbaram). Thereafter, [he beheld a lady] clad in a soiled garment and surrounded by rākṣasīs (malinasaṃvītāṃ rākṣasībhiḥ samāvṛtām),—
+**18:** —spotless (_nirmalam_), and by reason of its towering height seeming to scrape the sky (_prāṃśubhāvatvād ullikhantam ivāmbaram_). Thereafter, [he beheld a lady] clad in a soiled garment and surrounded by _rākṣasī_s (_malinasaṃvītāṃ rākṣasībhiḥ samāvṛtām_),—
 
-**19:** —emaciated by fasting, wretched, and sighing again and again (upavāsakṛśāṃ dīnāṃ niḥśvasantīṃ punaḥ punaḥ): he beheld her, spotless like the slender crescent of the moon at the beginning of the bright fortnight (śuklapakṣādau candrarekhām ivāmalām),—
+**19:** —emaciated by fasting, wretched, and sighing again and again (_upavāsakṛśāṃ dīnāṃ niḥśvasantīṃ punaḥ punaḥ_): he beheld her, spotless like the slender crescent of the moon at the beginning of the bright fortnight (_śuklapakṣādau candrarekhām ivāmalām_),—
 </details>
 </details>
 
@@ -829,7 +829,7 @@ With a form that slowly came out like a tongue of fire, of beautiful radiance co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—possessing a lovely radiance through a beauty that was only dimly discernible (mandaprakhyāyamānena rūpeṇa ruciraprabhām), like a flame of fire shrouded in a web of smoke (pinaddhāṃ dhūmajālena śikhām iva vibhāvasoḥ),—
+—possessing a lovely radiance through a beauty that was only dimly discernible (_mandaprakhyāyamānena rūpeṇa ruciraprabhām_), like a flame of fire shrouded in a web of smoke (_pinaddhāṃ dhūmajālena śikhām iva vibhāvasoḥ_),—
 </details>
 </details>
 
@@ -884,7 +884,7 @@ Covered by a single best cloth of yellow colour, which was wrinkled, without any
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—clad in a single, worn-out, yellow garment of the finest weave (pītenaikena saṃvītāṃ kliṣṭenottamavāsasā), begrimed with dust and devoid of ornaments (sapaṅkām analaṃkārām), like a lotus-pond bereft of its lotuses (vipadmām iva padminīm),—
+—clad in a single, worn-out, yellow garment of the finest weave (_pītenaikena saṃvītāṃ kliṣṭenottamavāsasā_), begrimed with dust and devoid of ornaments (_sapaṅkām analaṃkārām_), like a lotus-pond bereft of its lotuses (_vipadmām iva padminīm_),—
 </details>
 </details>
 
@@ -942,7 +942,7 @@ Bashful, tortured by sorrow worn out in a pitiable condition like the constellat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—oppressed, scorched by grief, wasted away, and pitiable (pīḍitāṃ duḥkhasaṃtaptāṃ parikṣīṇāṃ tapasvinīm), like [the constellation] Rohiṇī afflicted by the planet Mars (graheṇāṅgārakeṇeva pīḍitām iva rohiṇīm),—
+—oppressed, scorched by grief, wasted away, and pitiable (_pīḍitāṃ duḥkhasaṃtaptāṃ parikṣīṇāṃ tapasvinīm_), like [the constellation] Rohiṇī afflicted by the planet Mars (_graheṇāṅgārakeṇeva pīḍitām iva rohiṇīm_),—
 </details>
 </details>
 
@@ -997,7 +997,7 @@ With a face full of tears in a pitiable condition, emaciated due to not taking f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—her face brimming with tears, wretched, and emaciated by abstaining from food (aśrupūrṇamukhīṃ dīnāṃ kṛśām anaśanena ca), absorbed in sorrowful brooding, afflicted, and ever given over to grief (śokadhyānaparāṃ dīnāṃ nityaṃ duḥkhaparāyaṇām),—
+—her face brimming with tears, wretched, and emaciated by abstaining from food (_aśrupūrṇamukhīṃ dīnāṃ kṛśām anaśanena ca_), absorbed in sorrowful brooding, afflicted, and ever given over to grief (_śokadhyānaparāṃ dīnāṃ nityaṃ duḥkhaparāyaṇām_),—
 </details>
 </details>
 
@@ -1055,7 +1055,7 @@ Not seeing dear people, seeing groups of demonesses, like a female deer loosing 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—not seeing her dear kinsfolk (priyaṃ janam apaśyantīm) and seeing only the troop of rākṣasīs (paśyantīṃ rākṣasīgaṇam), like a doe parted from her own herd and surrounded by a pack of hounds (svagaṇena mṛgīṃ hīnāṃ śvagaṇenāvṛtām iva),—
+—not seeing her dear kinsfolk (_priyaṃ janam apaśyantīm_) and seeing only the troop of _rākṣasī_s (_paśyantīṃ rākṣasīgaṇam_), like a doe parted from her own herd and surrounded by a pack of hounds (_svagaṇena mṛgīṃ hīnāṃ śvagaṇenāvṛtām iva_),—
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ With a braid with the radiance of a single black serpent reaching hinder part, l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and with her single braid reaching down to her hips and gleaming like a dark serpent (nīlanāgābhayā veṇyā jaghanaṃ gatayaikayā), resembling the earth marked with a dark line of forest at the passing of the rain-clouds [in autumn] (nīlayā nīradāpāye vanarājyā mahīm iva).
+—and with her single braid reaching down to her hips and gleaming like a dark serpent (_nīlanāgābhayā veṇyā jaghanaṃ gatayaikayā_), resembling the earth marked with a dark line of forest at the passing of the rain-clouds [in autumn] (_nīlayā nīradāpāye vanarājyā mahīm iva_).
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that large-eyed lady (tāṃ vilokya viśālākṣīm), who deserved every happiness yet was scorched by sorrow (sukhārhāṃ duḥkhasaṃtaptām), unacquainted with calamities (vyasanānām akovidām), and exceedingly soiled and emaciated (adhikaṃ malināṃ kṛśām),—
+Beholding that large-eyed lady (_tāṃ vilokya viśālākṣīm_), who deserved every happiness yet was scorched by sorrow (_sukhārhāṃ duḥkhasaṃtaptām_), unacquainted with calamities (_vyasanānām akovidām_), and exceedingly soiled and emaciated (_adhikaṃ malināṃ kṛśām_),—
 </details>
 </details>
 
@@ -1240,7 +1240,7 @@ Then, while being abducted by that rakshasa with the ability to assume desired f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—he reasoned through convincing grounds, ‘This is Sītā!’ (tarkayām āsa sīteti kāraṇair upapādibhiḥ): ‘For just such in form as she was seen then (yathārūpā hi dṛṣṭā sā), when being carried off by that shape-shifting rākṣasa (hriyamāṇā tadā tena rakṣasā kāmarūpiṇā),—
+—he reasoned through convincing grounds, ‘This is Sītā!’ (_tarkayām āsa sīteti kāraṇair upapādibhiḥ_): ‘For just such in form as she was seen then (_yathārūpā hi dṛṣṭā sā_), when being carried off by that shape-shifting _rākṣasa_ (_hriyamāṇā tadā tena rakṣasā kāmarūpiṇā_),—
 </details>
 </details>
 
@@ -1270,7 +1270,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—even such in form is this lady (tathārūpeyam aṅganā)!’ [Beholding] her whose face resembled the full moon (pūrṇacandrānanām), fair-browed and possessing lovely, rounded breasts (subhrūṃ cāruvṛttapayodharām),—
+—even such in form is this lady (_tathārūpeyam aṅganā_)!’ [Beholding] her whose face resembled the full moon (_pūrṇacandrānanām_), fair-browed and possessing lovely, rounded breasts (_subhrūṃ cāruvṛttapayodharām_),—
 </details>
 </details>
 
@@ -1297,7 +1297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—that queen who by her radiance rendered all the quarters free of darkness (kurvatīṃ prabhayā devīṃ sarvā vitimirā diśaḥ), dark-throated [from her sapphire necklace], with bimba-red lips, slender-waisted, and well-proportioned (tāṃ nīlakaṇṭhīṃ bimboṣṭhīṃ sumadhyāṃ supratiṣṭhitām),—
+—that queen who by her radiance rendered all the quarters free of darkness (_kurvatīṃ prabhayā devīṃ sarvā vitimirā diśaḥ_), dark-throated [from her sapphire necklace], with _bimba_-red lips, slender-waisted, and well-proportioned (_tāṃ nīlakaṇṭhīṃ bimboṣṭhīṃ sumadhyāṃ supratiṣṭhitām_),—
 </details>
 </details>
 
@@ -1388,9 +1388,9 @@ As the light of full moon, dear to all world, like an ascetic woman leading aust
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** —Sītā, lotus-petal-eyed (padmapalāśākṣīm), like Rati, consort of Manmatha (manmathasya ratiṃ yathā), beloved of the entire world like the radiance of the full moon (iṣṭāṃ sarvasya jagataḥ pūrṇacandraprabhām iva),—
+**30:** —Sītā, lotus-petal-eyed (_padmapalāśākṣīm_), like Rati, consort of Manmatha (_manmathasya ratiṃ yathā_), beloved of the entire world like the radiance of the full moon (_iṣṭāṃ sarvasya jagataḥ pūrṇacandraprabhām iva_),—
 
-**31:** —seated upon the bare ground, slender-limbed, like a self-restrained female ascetic (bhūmau sutanum āsīnāṃ niyatām iva tāpasīm), sighing heavily again and again, timid, like the mate of a lordly serpent (niḥśvāsabahulāṃ bhīruṃ bhujagendravadhūm iva),—
+**31:** —seated upon the bare ground, slender-limbed, like a self-restrained female ascetic (_bhūmau sutanum āsīnāṃ niyatām iva tāpasīm_), sighing heavily again and again, timid, like the mate of a lordly serpent (_niḥśvāsabahulāṃ bhīruṃ bhujagendravadhūm iva_),—
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ Hanuma saw Her like a tongue of fire mixed with column of smoke, like an intelle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—not shining forth on account of a vast, outspread web of sorrow (śokajālena mahatā vitatena na rājatīm), like a flame of fire enveloped by a web of smoke (saṃsaktāṃ dhūmajālena śikhām iva vibhāvasoḥ),—
+—not shining forth on account of a vast, outspread web of sorrow (_śokajālena mahatā vitatena na rājatīm_), like a flame of fire enveloped by a web of smoke (_saṃsaktāṃ dhūmajālena śikhām iva vibhāvasoḥ_),—
 </details>
 </details>
 
@@ -1522,9 +1522,9 @@ Like fame that has fallen down by a false scandal, tortured by the obstruction c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** —like memory grown doubtful (tāṃ smṛtīm iva saṃdigdhām), like prosperity fallen into ruin (ṛddhiṃ nipatitām iva), like faith shattered (vihatām iva ca śraddhām), and like hope frustrated (āśāṃ pratihatām iva),—
+**33:** —like memory grown doubtful (_tāṃ smṛtīm iva saṃdigdhām_), like prosperity fallen into ruin (_ṛddhiṃ nipatitām iva_), like faith shattered (_vihatām iva ca śraddhām_), and like hope frustrated (_āśāṃ pratihatām iva_),—
 
-**34:** —like success beset by obstacles (sopasargāṃ yathā siddhim), like understanding clouded by impurity (buddhiṃ sakaluṣām iva), and like fame cast down by a false calumny (abhūtenāpavādena kīrtiṃ nipatitām iva),—
+**34:** —like success beset by obstacles (_sopasargāṃ yathā siddhim_), like understanding clouded by impurity (_buddhiṃ sakaluṣām iva_), and like fame cast down by a false calumny (_abhūtenāpavādena kīrtiṃ nipatitām iva_),—
 </details>
 </details>
 
@@ -1574,7 +1574,7 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—tormented by the obstruction of her union with Rāma (rāmoparodhavyathitām) and oppressed by the troop of rākṣasīs (rakṣogaṇanipīḍitām), a helpless, fawn-eyed lady glancing timidly this way and that (abalāṃ mṛgaśāvākṣīṃ vīkṣamāṇāṃ tatas tataḥ),—
+—tormented by the obstruction of her union with Rāma (_rāmoparodhavyathitām_) and oppressed by the troop of _rākṣasī_s (_rakṣogaṇanipīḍitām_), a helpless, fawn-eyed lady glancing timidly this way and that (_abalāṃ mṛgaśāvākṣīṃ vīkṣamāṇāṃ tatas tataḥ_),—
 </details>
 </details>
 
@@ -1604,7 +1604,7 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—sighing again and again with a joyless countenance (vadanenāprasannena niḥśvasantīṃ punaḥ punaḥ) whose dark, curving eyelashes were brimming with tears (bāṣpāmbuparipūrṇena kṛṣṇavakrākṣipakṣmaṇā),—
+—sighing again and again with a joyless countenance (_vadanenāprasannena niḥśvasantīṃ punaḥ punaḥ_) whose dark, curving eyelashes were brimming with tears (_bāṣpāmbuparipūrṇena kṛṣṇavakrākṣipakṣmaṇā_),—
 </details>
 </details>
 
@@ -1683,7 +1683,7 @@ Wearing a coat of dust, pitiable one, although suited for decorations undecorate
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—coated with a mire of dirt, wretched, deserving of ornaments yet unornamented (malapaṅkadharāṃ dīnāṃ maṇḍanārhām amaṇḍitām), like the radiance of the lord of stars [the moon] veiled by dark storm-clouds (prabhāṃ nakṣatrarājasya kālameghair ivāvṛtām):
+—coated with a mire of dirt, wretched, deserving of ornaments yet unornamented (_malapaṅkadharāṃ dīnāṃ maṇḍanārhām amaṇḍitām_), like the radiance of the lord of stars [the moon] veiled by dark storm-clouds (_prabhāṃ nakṣatrarājasya kālameghair ivāvṛtām_):
 </details>
 </details>
 
@@ -1740,7 +1740,7 @@ Seeing Seetha like knowledge in ruin for want of repeated study, that Hanuma's m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sītā in such a state—like sacred lore grown lax through lack of repeated recitation (āmnāyānām ayogena vidyāṃ praśithilām iva)—his mind was at first touched by doubt (tasya saṃdidihe buddhiḥ).
+Beholding Sītā in such a state—like sacred lore grown lax through lack of repeated recitation (_āmnāyānām ayogena vidyāṃ praśithilām iva_)—his mind was at first touched by doubt (_tasya saṃdidihe buddhiḥ_).
 </details>
 </details>
 
@@ -1798,7 +1798,7 @@ Hanuma recognized with great sorrow Seetha not decorated, like a sentence which 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Only with difficulty did Hanumān recognize unornamented Sītā (duḥkena bubudhe sītāṃ hanumān analaṃkṛtām), just as one recognizes speech that has taken on an altered meaning when deprived of grammatical refinement (saṃskāreṇa yathā hīnāṃ vācam arthāntaraṃ gatām).
+Only with difficulty did Hanumān recognize unornamented Sītā (_duḥkena bubudhe sītāṃ hanumān analaṃkṛtām_), just as one recognizes speech that has taken on an altered meaning when deprived of grammatical refinement (_saṃskāreṇa yathā hīnāṃ vācam arthāntaraṃ gatām_).
 </details>
 </details>
 
@@ -1855,7 +1855,7 @@ Seeing that princess, the wide eyed one, blameless one, Hanuma reasoned her to b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing closely upon that large-eyed, irreproachable princess (tāṃ samīkṣya viśālākṣīṃ rājaputrīm aninditām), he reasoned, ‘This is Sītā!’ establishing it through convincing proofs (tarkayām āsa sīteti kāraṇair upapādayan).
+Gazing closely upon that large-eyed, irreproachable princess (_tāṃ samīkṣya viśālākṣīṃ rājaputrīm aninditām_), he reasoned, ‘This is Sītā!’ establishing it through convincing proofs (_tarkayām āsa sīteti kāraṇair upapādayan_).
 </details>
 </details>
 
@@ -1891,7 +1891,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever sets of ornaments upon Vaidehī's limbs Rāma had described at that time (vaidehyā yāni cāṅgeṣu tadā rāmo 'nvakīrtayat), those limb-gracing ornaments he now observed (tāny ābharaṇajālāni gātraśobhīny alakṣayat):
+And whatever sets of ornaments upon Vaidehī&#x27;s limbs Rāma had described at that time (_vaidehyā yāni cāṅgeṣu tadā rāmo &#x27;nvakīrtayat_), those limb-gracing ornaments he now observed (_tāny ābharaṇajālāni gātraśobhīny alakṣayat_):
 </details>
 </details>
 
@@ -1919,7 +1919,7 @@ And whatever sets of ornaments upon Vaidehī's limbs Rāma had described at that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—both finely wrought earrings (sukṛtau karṇaveṣṭau ca), well-set śvadaṃṣṭra ear-ornaments (śvadaṃṣṭrau ca susaṃsthitau), and ornaments upon her hands variegated with gems and coral (maṇividrumacitrāṇi hasteṣv ābharaṇāni ca).
+—both finely wrought earrings (_sukṛtau karṇaveṣṭau ca_), well-set _śvadaṃṣṭra_ ear-ornaments (_śvadaṃṣṭrau ca susaṃsthitau_), and ornaments upon her hands variegated with gems and coral (_maṇividrumacitrāṇi hasteṣv ābharaṇāni ca_).
 </details>
 </details>
 
@@ -2016,9 +2016,9 @@ Then Hanuma saw whatever groups of jewellery of Seetha on various parts Rama spo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** ‘Darkened from being worn for a long time (śyāmāni cirayuktatvāt), yet retaining their proper shape and arrangement (tathā saṃsthānavanti ca)—I deem these to be the very same [ornaments] that Rāma described (tāny evaitāni manye 'haṃ yāni rāmo 'nvakīrtayat)!
+**43:** ‘Darkened from being worn for a long time (_śyāmāni cirayuktatvāt_), yet retaining their proper shape and arrangement (_tathā saṃsthānavanti ca_)—I deem these to be the very same [ornaments] that Rāma described (_tāny evaitāni manye &#x27;haṃ yāni rāmo &#x27;nvakīrtayat_)!
 
-**44:** ‘Whichever [ornaments] were cast down there [upon Mount Ṛṣyamūka] (tatra yāny avahīnāni), those I do not see here (tāny ahaṃ nopalakṣaye); and whichever were not cast off by her, those are these very ones—there is no doubt (tānīmāni na saṃśayaḥ)!
+**44:** ‘Whichever [ornaments] were cast down there [upon Mount Ṛṣyamūka] (_tatra yāny avahīnāni_), those I do not see here (_tāny ahaṃ nopalakṣaye_); and whichever were not cast off by her, those are these very ones—there is no doubt (_tānīmāni na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -2105,9 +2105,9 @@ That upper garment yellow with a shine like a golden plate, auspicious one, bein
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**45:** ‘That auspicious yellow upper garment (pītaṃ... tad vasanaṃ śubham uttarīyam), gleaming like a plate of gold (kanakapaṭṭābham), which had slipped down and caught upon a tree (srastaṃ nagāsaktam), was seen at that time by the monkeys (tadā dṛṣṭaṃ plavaṃgamaiḥ).
+**45:** ‘That auspicious yellow upper garment (_pītaṃ... tad vasanaṃ śubham uttarīyam_), gleaming like a plate of gold (_kanakapaṭṭābham_), which had slipped down and caught upon a tree (_srastaṃ nagāsaktam_), was seen at that time by the monkeys (_tadā dṛṣṭaṃ plavaṃgamaiḥ_).
 
-**46:** ‘And the chief ornaments (bhūṣaṇāni ca mukhyāni), resonant and large (svanavanti mahānti ca), which were seen upon the surface of the earth, had been cast down by her alone (anayaivāpaviddhāni).
+**46:** ‘And the chief ornaments (_bhūṣaṇāni ca mukhyāni_), resonant and large (_svanavanti mahānti ca_), which were seen upon the surface of the earth, had been cast down by her alone (_anayaivāpaviddhāni_).
 </details>
 </details>
 
@@ -2160,7 +2160,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Because it has been worn for a long time, this [lower] garment is exceedingly frayed (idaṃ ciragṛhītatvād vasanaṃ kliṣṭavattaram); even so, its hue is undiminished, and it is just as radiant as that other [upper garment] (tathāpy anūnaṃ tadvarṇaṃ tathā śrīmad yathetarat).
+‘Because it has been worn for a long time, this [lower] garment is exceedingly frayed (_idaṃ ciragṛhītatvād vasanaṃ kliṣṭavattaram_); even so, its hue is undiminished, and it is just as radiant as that other [upper garment] (_tathāpy anūnaṃ tadvarṇaṃ tathā śrīmad yathetarat_).
 </details>
 </details>
 
@@ -2218,7 +2218,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This golden-limbed lady (iyaṃ kanakavarṇāṅgī) is the beloved queen of Rāma (rāmasya mahiṣī priyā)—that chaste lady who, though lost to sight, never vanishes from his mind (praṇaṣṭāpi satī yasya manaso na praṇaśyati)!
+‘This golden-limbed lady (_iyaṃ kanakavarṇāṅgī_) is the beloved queen of Rāma (_rāmasya mahiṣī priyā_)—that chaste lady who, though lost to sight, never vanishes from his mind (_praṇaṣṭāpi satī yasya manaso na praṇaśyati_)!
 </details>
 </details>
 
@@ -2262,7 +2262,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This is she on whose account Rāma is tormented here by four [impulses] (iyaṃ sā yatkṛte rāmaś caturbhir iha tapyate): by compassion, by tender loyalty to a dependent, by grief, and by love (kāruṇyenānṛśaṃsyena śokena madanena ca)—
+‘This is she on whose account Rāma is tormented here by four [impulses] (_iyaṃ sā yatkṛte rāmaś caturbhir iha tapyate_): by compassion, by tender loyalty to a dependent, by grief, and by love (_kāruṇyenānṛśaṃsyena śokena madanena ca_)—
 </details>
 </details>
 
@@ -2317,7 +2317,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘—out of compassion because a woman has been lost (strī praṇaṣṭeti kāruṇyāt), out of loyalty because she depended upon him (āśritety ānṛśaṃsyataḥ), with grief because his lawful wife is lost (patnī naṣṭeti śokena), and with love because she is his beloved (priyeti madanena ca).
+‘—out of compassion because a woman has been lost (_strī praṇaṣṭeti kāruṇyāt_), out of loyalty because she depended upon him (_āśritety ānṛśaṃsyataḥ_), with grief because his lawful wife is lost (_patnī naṣṭeti śokena_), and with love because she is his beloved (_priyeti madanena ca_).
 </details>
 </details>
 
@@ -2375,7 +2375,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Just as the beauty of limb and minor limb of this queen is (asyā devyā yathārūpam aṅgapratyaṅgasauṣṭhavam), and just as the form of Rāma is, so does this dark-eyed lady belong to him alone (tasyeyam asitekṣaṇā).
+‘Just as the beauty of limb and minor limb of this queen is (_asyā devyā yathārūpam aṅgapratyaṅgasauṣṭhavam_), and just as the form of Rāma is, so does this dark-eyed lady belong to him alone (_tasyeyam asitekṣaṇā_).
 </details>
 </details>
 
@@ -2430,7 +2430,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘The heart of this queen is fixed in him, and his [heart] is fixed in her (asyā devyā manas tasmiṃs tasya cāsyāṃ pratiṣṭhitam); therefore it is that she and that righteous-souled one live even for a moment (teneyaṃ sa ca dharmātmā muhūrtam api jīvati)!
+‘The heart of this queen is fixed in him, and his [heart] is fixed in her (_asyā devyā manas tasmiṃs tasya cāsyāṃ pratiṣṭhitam_); therefore it is that she and that righteous-souled one live even for a moment (_teneyaṃ sa ca dharmātmā muhūrtam api jīvati_)!
 </details>
 </details>
 
@@ -2485,7 +2485,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Lord Rāma has accomplished something most difficult to do (duṣkaraṃ kṛtavān rāmo... prabhuḥ), in that, bereft of her, he sustains his own body and does not sink down in grief (dhārayaty ātmano dehaṃ na śokenāvasīdati)!’
+‘Lord Rāma has accomplished something most difficult to do (_duṣkaraṃ kṛtavān rāmo... prabhuḥ_), in that, bereft of her, he sustains his own body and does not sink down in grief (_dhārayaty ātmano dehaṃ na śokenāvasīdati_)!’
 </details>
 </details>
 
@@ -2549,7 +2549,7 @@ Hanuma, then seeing Seetha became happy thus and went by mind to Rama and also p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus beheld Sītā in that state (evaṃ sītāṃ tathā dṛṣṭvā), the son of the Wind-god rejoiced (hṛṣṭaḥ pavanasambhavaḥ), went in mind to Rāma, and praised that lord (jagāma manasā rāmaṃ praśaśaṃsa ca taṃ prabhum).
+Having thus beheld Sītā in that state (_evaṃ sītāṃ tathā dṛṣṭvā_), the son of the Wind-god rejoiced (_hṛṣṭaḥ pavanasambhavaḥ_), went in mind to Rāma, and praised that lord (_jagāma manasā rāmaṃ praśaśaṃsa ca taṃ prabhum_).
 </details>
 </details>
 

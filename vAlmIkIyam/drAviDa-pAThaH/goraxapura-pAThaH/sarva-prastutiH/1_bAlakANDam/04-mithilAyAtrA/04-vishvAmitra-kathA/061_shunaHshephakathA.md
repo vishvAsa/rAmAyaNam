@@ -81,7 +81,7 @@ that remained with him." Thus Shatananda continued to narrate the legend of Vish
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those sages preparing to depart (prasthitān vīkṣya tān ṛṣīn), the resplendent Viśvāmitra (viśvāmitro mahātejāḥ), O tiger among men (naraśārdūla), spoke to all those forest-dwellers (sarvāṃs tān vanavāsinaḥ):
+Seeing those sages preparing to depart (_prasthitān vīkṣya tān ṛṣīn_), the resplendent Viśvāmitra (_viśvāmitro mahātejāḥ_), O tiger among men (_naraśārdūla_), spoke to all those forest-dwellers (_sarvāṃs tān vanavāsinaḥ_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ another direction, and there we continue ascesis. [1-61-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A great impediment to austerity has arisen here (mahāvighnaḥ pravṛtto ’yam) and abides in the southern quarter (dakṣiṇām āsthito diśam). Let us repair to another direction (diśam anyāṃ prapatsyāmaḥ); there we shall practice penance (tatra tapsyāmahe tapaḥ).
+“A great impediment to austerity has arisen here (_mahāvighnaḥ pravṛtto ’yam_) and abides in the southern quarter (_dakṣiṇām āsthito diśam_). Let us repair to another direction (_diśam anyāṃ prapatsyāmaḥ_); there we shall practice penance (_tatra tapsyāmahe tapaḥ_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ forest, isn't it.' Thus Vishvamitra said to fellow sages in his camp. [1-61-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the spacious western quarter (paścimāyāṃ viśālāyām), at the sacred lakes of Puṣkara (puṣkareṣu), O high-souled ones (mahātmanaḥ), we shall happily practice austerity (sukhaṃ tapaś cariṣyāmaḥ); for that penance-grove is truly blissful (sukhaṃ tad dhi tapovanam).”
+“In the spacious western quarter (_paścimāyāṃ viśālāyām_), at the sacred lakes of Puṣkara (_puṣkareṣu_), O high-souled ones (_mahātmanaḥ_), we shall happily practice austerity (_sukhaṃ tapaś cariṣyāmaḥ_); for that penance-grove is truly blissful (_sukhaṃ tad dhi tapovanam_).”
 </details>
 </details>
 
@@ -237,7 +237,7 @@ of holy lakes. [1-61-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the great sage of mighty splendour (mahātejāḥ mahāmuniḥ) performed fierce and unassailable austerity at Puṣkara (puṣkareṣu tapa ugraṃ durādharṣaṃ tepe), subsisting on roots and fruits (mūlaphalāśanaḥ).
+Having spoken thus, the great sage of mighty splendour (_mahātejāḥ mahāmuniḥ_) performed fierce and unassailable austerity at Puṣkara (_puṣkareṣu tapa ugraṃ durādharṣaṃ tepe_), subsisting on roots and fruits (_mūlaphalāśanaḥ_).
 </details>
 </details>
 
@@ -283,7 +283,7 @@ to perform a Vedic-ritual. [1-61-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very time (etasminn eva kāle tu), the great lord of Ayodhyā (ayodhyādhipatir mahān), renowned by the name of Ambarīṣa (ambarīṣa iti khyātaḥ), commenced to perform a sacrifice (yaṣṭuṃ samupacakrame).
+At that very time (_etasminn eva kāle tu_), the great lord of Ayodhyā (_ayodhyādhipatir mahān_), renowned by the name of Ambarīṣa (_ambarīṣa iti khyātaḥ_), commenced to perform a sacrifice (_yaṣṭuṃ samupacakrame_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ this to that king. [1-61-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that king was performing the sacrifice (tasya vai yajamānasya), Indra carried off the sacrificial beast (paśum indro jahāra ha). When the victim was lost (praṇaṣṭe tu paśau), the priest (vipro) spoke these words to the king:
+As that king was performing the sacrifice (_tasya vai yajamānasya_), Indra carried off the sacrificial beast (_paśum indro jahāra ha_). When the victim was lost (_praṇaṣṭe tu paśau_), the priest (_vipro_) spoke these words to the king:
 </details>
 </details>
 
@@ -386,7 +386,7 @@ destructive blemishes for that king who is performing the ritual. [1-61-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The sacrificial beast brought here, O King (paśur abhyāhṛto rājan), has been lost through your poor governance (praṇaṣṭas tava durnayāt). Grave faults destroy a king who fails to protect (arakṣitāraṃ rājānaṃ ghnanti doṣā nareśvara)!
+“The sacrificial beast brought here, O King (_paśur abhyāhṛto rājan_), has been lost through your poor governance (_praṇaṣṭas tava durnayāt_). Grave faults destroy a king who fails to protect (_arakṣitāraṃ rājānaṃ ghnanti doṣā nareśvara_)!
 </details>
 </details>
 
@@ -436,7 +436,7 @@ ritual can be continued.' Thus, the priests of the ritual said to king Ambariish
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This requires a great expiation (prāyaścittaṃ mahad dhy etat): O bull among men (puruṣarṣabha), bring quickly either that sacrificial beast or a human victim in its stead (naraṃ vā ānayasva paśuṃ śīghram), before the ritual action proceeds (yāvat karma pravartate)!”
+“This requires a great expiation (_prāyaścittaṃ mahad dhy etat_): O bull among men (_puruṣarṣabha_), bring quickly either that sacrificial beast or a human victim in its stead (_naraṃ vā ānayasva paśuṃ śīghram_), before the ritual action proceeds (_yāvat karma pravartate_)!”
 </details>
 </details>
 
@@ -490,7 +490,7 @@ of cows. [1-61-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of his preceptor (upādhyāyavacaḥ śrutvā), that wise king, a bull among men (sa rājā puruṣarṣabhaḥ mahābuddhiḥ), searched for a sacrificial victim, offering cattle by the thousands (anviyeṣa paśuṃ gobhiḥ sahasraśaḥ).
+Hearing the words of his preceptor (_upādhyāyavacaḥ śrutvā_), that wise king, a bull among men (_sa rājā puruṣarṣabhaḥ mahābuddhiḥ_), searched for a sacrificial victim, offering cattle by the thousands (_anviyeṣa paśuṃ gobhiḥ sahasraśaḥ_).
 </details>
 </details>
 
@@ -554,9 +554,9 @@ with his sons and wife. [1-61-10, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Searching through those various countries and inhabited realms (deśāñ janapadāṃs tāṃs tān), cities, forests, and sacred hermitages (āśramāṇi ca puṇyāni mārgamāṇaḥ), the lord of the earth journeyed on.
+**10:** Searching through those various countries and inhabited realms (_deśāñ janapadāṃs tāṃs tān_), cities, forests, and sacred hermitages (_āśramāṇi ca puṇyāni mārgamāṇaḥ_), the lord of the earth journeyed on.
 
-**11:** There upon Mount Bhṛgutuṅga (bhṛgutuṅge), O dear Rāma, delight of the Raghus (tāta raghunandana), that king beheld the sage Ṛcīka seated together with his sons and his wife (sa putrasahitaṃ sabhāryaṃ samāsīnam ṛcīkaṃ saṃdadarśa ha).
+**11:** There upon Mount Bhṛgutuṅga (_bhṛgutuṅge_), O dear Rāma, delight of the Raghus (_tāta raghunandana_), that king beheld the sage Ṛcīka seated together with his sons and his wife (_sa putrasahitaṃ sabhāryaṃ samāsīnam ṛcīkaṃ saṃdadarśa ha_).
 </details>
 </details>
 
@@ -617,7 +617,7 @@ to that sage. [1-61-12, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing low and propitiating that great sage blazing with austerity (praṇamyābhiprasādya ca maharṣiṃ tapasā dīptam), the royal sage of boundless lustre, endowed with mighty splendour (mahātejāḥ rājarṣir amitaprabhaḥ), spoke to him;
+Bowing low and propitiating that great sage blazing with austerity (_praṇamyābhiprasādya ca maharṣiṃ tapasā dīptam_), the royal sage of boundless lustre, endowed with mighty splendour (_mahātejāḥ rājarṣir amitaprabhaḥ_), spoke to him;
 </details>
 </details>
 
@@ -667,7 +667,7 @@ purpose of a ritual-animal, oh, the successor Sage Bhrigu, I deem my ends are ac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Inquiring after his welfare in every respect (pṛṣṭvā sarvatra kuśalam), he addressed these words to Ṛcīka (ṛcīkaṃ tam idaṃ vacaḥ): “If you will sell a son for a hundred thousand cows (gavāṃ śatasahasreṇa vikrīṇīṣe sutaṃ yadi),
+Inquiring after his welfare in every respect (_pṛṣṭvā sarvatra kuśalam_), he addressed these words to Ṛcīka (_ṛcīkaṃ tam idaṃ vacaḥ_): “If you will sell a son for a hundred thousand cows (_gavāṃ śatasahasreṇa vikrīṇīṣe sutaṃ yadi_),
 </details>
 </details>
 
@@ -714,7 +714,7 @@ Thus, king Ambariisha bargained with the sage. [1-61-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the purpose of a sacrificial victim (paśor arthe), O illustrious descendant of Bhṛgu (mahābhāga bhārgava), I shall have fulfilled my sacred obligation (kṛtakṛtyo ’smi)! I have traversed all lands, yet I cannot find that sacrificial beast (sarve parigatā deśā yajñiyaṃ na labhe paśum).
+“For the purpose of a sacrificial victim (_paśor arthe_), O illustrious descendant of Bhṛgu (_mahābhāga bhārgava_), I shall have fulfilled my sacred obligation (_kṛtakṛtyo ’smi_)! I have traversed all lands, yet I cannot find that sacrificial beast (_sarve parigatā deśā yajñiyaṃ na labhe paśum_).
 </details>
 </details>
 
@@ -760,7 +760,7 @@ When that great-resplendent Sage Riciika is addressed thus, he said this word,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, you ought to grant me one son from among these for a price (dātum arhasi mūlyena sutam ekam ito mama).” Thus addressed, the resplendent Ṛcīka spoke these words in reply (evam ukto mahātejā ṛcīkas tv abravīd vacaḥ):
+“Therefore, you ought to grant me one son from among these for a price (_dātum arhasi mūlyena sutam ekam ito mama_).” Thus addressed, the resplendent Ṛcīka spoke these words in reply (_evam ukto mahātejā ṛcīkas tv abravīd vacaḥ_):
 </details>
 </details>
 
@@ -814,7 +814,7 @@ this word to the tigerly-man Ambariisha. [1-61-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never under any circumstance, O best of men, would I sell my eldest son (nāhaṃ jyeṣṭhaṃ naraśreṣṭha vikrīṇīyāṃ kathaṃcana)!” Hearing those words of Ṛcīka, the mother of those high-souled youths (teṣāṃ mātā mahātmanām)
+“Never under any circumstance, O best of men, would I sell my eldest son (_nāhaṃ jyeṣṭhaṃ naraśreṣṭha vikrīṇīyāṃ kathaṃcana_)!” Hearing those words of Ṛcīka, the mother of those high-souled youths (_teṣāṃ mātā mahātmanām_)
 </details>
 </details>
 
@@ -867,9 +867,9 @@ my youngest son to you, either. [1-61-17b, 18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Spoke these words to Ambarīṣa, that tiger among men (uvāca naraśārdūlam ambarīṣam idaṃ vacaḥ): “The venerable descendant of Bhṛgu has declared that the eldest son is not to be sold (avikreyaṃ sutaṃ jyeṣṭhaṃ bhagavān āha bhārgavaḥ).
+**17:** Spoke these words to Ambarīṣa, that tiger among men (_uvāca naraśārdūlam ambarīṣam idaṃ vacaḥ_): “The venerable descendant of Bhṛgu has declared that the eldest son is not to be sold (_avikreyaṃ sutaṃ jyeṣṭhaṃ bhagavān āha bhārgavaḥ_).
 
-**18:** “Know that the youngest, Śunaka, is likewise dearest to me, O lord (mamāpi dayitaṃ viddhi kaniṣṭhaṃ śunakaṃ prabho); therefore, O monarch, I shall not give my youngest son to you (tasmāt kanīyasaṃ putraṃ na dāsye tava pārthiva).
+**18:** “Know that the youngest, Śunaka, is likewise dearest to me, O lord (_mamāpi dayitaṃ viddhi kaniṣṭhaṃ śunakaṃ prabho_); therefore, O monarch, I shall not give my youngest son to you (_tasmāt kanīyasaṃ putraṃ na dāsye tava pārthiva_).
 </details>
 </details>
 
@@ -935,7 +935,7 @@ son...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For as a rule, O best of men, eldest sons are dearest to fathers (prāyeṇa hi naraśreṣṭha jyeṣṭhāḥ pitṛṣu vallabhāḥ), and youngest sons to mothers (mātṝṇāṃ ca kanīyāṃsaḥ); therefore I shall protect the youngest (tasmād rakṣye kanīyasam)!”
+“For as a rule, O best of men, eldest sons are dearest to fathers (_prāyeṇa hi naraśreṣṭha jyeṣṭhāḥ pitṛṣu vallabhāḥ_), and youngest sons to mothers (_mātṝṇāṃ ca kanīyāṃsaḥ_); therefore I shall protect the youngest (_tasmād rakṣye kanīyasam_)!”
 </details>
 </details>
 
@@ -982,7 +982,7 @@ way only, their intermediate son, namely Shunashepa, personally spoke this sente
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that sage had spoken his word, and the sage’s wife likewise (uktavākye munau tasmin munipatnyāṃ tathaiva ca), the middle son, Śunaḥśepa, O Rāma, spoke a word of his own accord (śunaḥśepaḥ svayaṃ rāma madhyamo vākyam abravīt):
+When that sage had spoken his word, and the sage’s wife likewise (_uktavākye munau tasmin munipatnyāṃ tathaiva ca_), the middle son, Śunaḥśepa, O Rāma, spoke a word of his own accord (_śunaḥśepaḥ svayaṃ rāma madhyamo vākyam abravīt_):
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ you may lead me forth. [1-61-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My father has declared the eldest not to be sold, and my mother the youngest (pitā jyeṣṭham avikreyaṃ mātā cāha kanīyasam); I therefore deem the middle son to be intended for sale (vikreyaṃ madhyamaṃ manye)—O prince, lead me away (rājaputra nayasva mām)!”
+“My father has declared the eldest not to be sold, and my mother the youngest (_pitā jyeṣṭham avikreyaṃ mātā cāha kanīyasam_); I therefore deem the middle son to be intended for sale (_vikreyaṃ madhyamaṃ manye_)—O prince, lead me away (_rājaputra nayasva mām_)!”
 </details>
 </details>
 
@@ -1101,9 +1101,9 @@ went away highly gladdened to take Shunashepa with him. [1-61-22, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Then, O mighty-armed Rāma, at the conclusion of the speech of that expounder of Brahman (vākyānte brahmavādinaḥ), the king, with crores of silver and gold and heaps of gems (hiraṇyasya suvarṇasya koṭibhī ratnarāśibhiḥ),
+**22:** Then, O mighty-armed Rāma, at the conclusion of the speech of that expounder of Brahman (_vākyānte brahmavādinaḥ_), the king, with crores of silver and gold and heaps of gems (_hiraṇyasya suvarṇasya koṭibhī ratnarāśibhiḥ_),
 
-**23:** And with a hundred thousand cows, purchased Śunaḥśepa (gavāṃ śatasahasreṇa śunaḥśepaṃ gṛhītvā); filled with supreme joy (paramaprītaḥ), the lord of men departed, O delight of the Raghus (jagāma raghunandana).
+**23:** And with a hundred thousand cows, purchased Śunaḥśepa (_gavāṃ śatasahasreṇa śunaḥśepaṃ gṛhītvā_); filled with supreme joy (_paramaprītaḥ_), the lord of men departed, O delight of the Raghus (_jagāma raghunandana_).
 </details>
 </details>
 
@@ -1161,7 +1161,7 @@ continued his narration. [1-61-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting Śunaḥśepa upon his chariot in haste (ratham āropya satvaraḥ śunaḥśepam), the royal sage Ambarīṣa, of mighty splendour and great renown, swiftly departed (jagāmāśu mahāyaśāḥ).
+Mounting Śunaḥśepa upon his chariot in haste (_ratham āropya satvaraḥ śunaḥśepam_), the royal sage Ambarīṣa, of mighty splendour and great renown, swiftly departed (_jagāmāśu mahāyaśāḥ_).
 </details>
 </details>
 

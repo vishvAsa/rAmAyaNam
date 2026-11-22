@@ -83,7 +83,7 @@ reports to Angada and others what that is said by Sage Nishaakara to him. [4-62-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus to the foremost of sages (muniśreṣṭham), I wept (arudam), sorely afflicted with grief (bhṛśaduḥkhitaḥ); then, having meditated for a moment (dhyātvā muhūrtam), the reverend one spoke this:
+“Having spoken thus to the foremost of sages (_muniśreṣṭham_), I wept (_arudam_), sorely afflicted with grief (_bhṛśaduḥkhitaḥ_); then, having meditated for a moment (_dhyātvā muhūrtam_), the reverend one spoke this:
 </details>
 </details>
 
@@ -137,7 +137,7 @@ power, and life-force will comeback...' Thus Sage Nishaakara started to console 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Both your two wings (pakṣau) and your two wing-tips (prapakṣau) shall arise again anew (punar anyau bhaviṣyataḥ), and so too your two eyes (cakṣuṣī), vital breaths (prāṇāḥ), valor (vikramaḥ), and strength!
+`Both your two wings (_pakṣau_) and your two wing-tips (_prapakṣau_) shall arise again anew (_punar anyau bhaviṣyataḥ_), and so too your two eyes (_cakṣuṣī_), vital breaths (_prāṇāḥ_), valor (_vikramaḥ_), and strength!
 </details>
 </details>
 
@@ -183,7 +183,7 @@ and it is known to me as I perceived it ascetically... [4-62-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`For in the ancient lore (purāṇe) a very great future deed (sumahat kāryaṃ bhaviṣyam) has been heard by me; and it has been seen by me through austerity (dṛṣṭaṃ me tapasā), and having heard it, it is known to me.
+`For in the ancient lore (_purāṇe_) a very great future deed (_sumahat kāryaṃ bhaviṣyam_) has been heard by me; and it has been seen by me through austerity (_dṛṣṭaṃ me tapasā_), and having heard it, it is known to me.
 </details>
 </details>
 
@@ -235,7 +235,7 @@ there will be a great-resplendent a son who will be known as Rama... [4-62-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`There shall be a certain king named Daśaratha, an increaser of the Ikṣvākus (ikṣvākuvardhanaḥ); to him shall be born a son of great splendor (mahātejāḥ) named Rāma.
+`There shall be a certain king named Daśaratha, an increaser of the Ikṣvākus (_ikṣvākuvardhanaḥ_); to him shall be born a son of great splendor (_mahātejāḥ_) named Rāma.
 </details>
 </details>
 
@@ -290,7 +290,7 @@ truth-valiant Rama goes to forests along with his brother Lakshmana... [4-62-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`And he of true valor (satyaparākramaḥ), being enjoined (niyuktaḥ san) in that matter by his father, shall go to the forest (araṇyam) together with his brother Lakṣmaṇa.
+`And he of true valor (_satyaparākramaḥ_), being enjoined (_niyuktaḥ san_) in that matter by his father, shall go to the forest (_araṇyam_) together with his brother Lakṣmaṇa.
 </details>
 </details>
 
@@ -350,7 +350,7 @@ demons abducts Rama's wife from Janasthaana... [4-62-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`A Nairṛta named Rāvaṇa, lord of the Rākṣasas (rākṣasendraḥ), invulnerable to gods and Dānavas (avadhyaḥ suradānavaiḥ), shall carry off his wife in Janasthāna.
+`A Nairṛta named Rāvaṇa, lord of the Rākṣasas (_rākṣasendraḥ_), invulnerable to gods and Dānavas (_avadhyaḥ suradānavaiḥ_), shall carry off his wife in Janasthāna.
 </details>
 </details>
 
@@ -404,7 +404,7 @@ sorrow... [4-62-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`And she, Maithilī, of great fortune (mahābhāgā) and illustrious (yaśasvinī), though being enticed (pralobhyantī) with objects of desire (kāmaiḥ) and with foods to be chewed and savored (bhakṣyair bhojyaiś ca), immersed in grief (duḥkhamagnā), shall not eat (na bhokṣyati).
+`And she, Maithilī, of great fortune (_mahābhāgā_) and illustrious (_yaśasvinī_), though being enticed (_pralobhyantī_) with objects of desire (_kāmaiḥ_) and with foods to be chewed and savored (_bhakṣyair bhojyaiś ca_), immersed in grief (_duḥkhamagnā_), shall not eat (_na bhokṣyati_).
 </details>
 </details>
 
@@ -457,7 +457,7 @@ is renowned to be Nectarous and unattainable even by gods... [4-62-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`And knowing [her fast], Vāsava [Indra] shall give supreme food (paramānnam) for Vaidehī—food resembling nectar (amṛtaprakhyam), hard to obtain even for the gods (surāṇām api durlabham).
+`And knowing [her fast], Vāsava [Indra] shall give supreme food (_paramānnam_) for Vaidehī—food resembling nectar (_amṛtaprakhyam_), hard to obtain even for the gods (_surāṇām api durlabham_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ the first morsel and dispenses it on the surface of earth for Rama, saying... [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Having received that food and recognized (vijñāya), ’This is from Indra (indrād idam),’ Maithilī, lifting up the first portion (agram uddhṛtya) for Rāma, shall offer it upon the surface of the earth (bhūtale nirvapiṣyati):
+`Having received that food and recognized (_vijñāya_), ’This is from Indra (_indrād idam_),’ Maithilī, lifting up the first portion (_agram uddhṛtya_) for Rāma, shall offer it upon the surface of the earth (_bhūtale nirvapiṣyati_):
 </details>
 </details>
 
@@ -564,7 +564,7 @@ offers oblation to them... [4-62-10
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`’If my husband lives (yadi jīvati me bhartā), or my brother-in-law Lakṣmaṇa (lakṣmaṇo vāpi devaraḥ), or even if they two have gone to godhood (devatvaṃ gacchator vāpi), let this food be theirs (tayor annam idam)!’
+`’If my husband lives (_yadi jīvati me bhartā_), or my brother-in-law Lakṣmaṇa (_lakṣmaṇo vāpi devaraḥ_), or even if they two have gone to godhood (_devatvaṃ gacchator vāpi_), let this food be theirs (_tayor annam idam_)!’
 </details>
 </details>
 
@@ -626,7 +626,7 @@ the queen of Rama... [4-62-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Dispatched [by Sugrīva], monkeys, the envoys of Rāma (rāmadūtāḥ plavaṃgamāḥ), shall come there; Rāma's queen (rāmamahiṣī) must be declared (ākhyeyā) by you to them, O bird (vihaṅgama)!
+`Dispatched [by Sugrīva], monkeys, the envoys of Rāma (_rāmadūtāḥ plavaṃgamāḥ_), shall come there; Rāma&#x27;s queen (_rāmamahiṣī_) must be declared (_ākhyeyā_) by you to them, O bird (_vihaṅgama_)!
 </details>
 </details>
 
@@ -679,7 +679,7 @@ where you wish to go... await the times and scenes, you will regain both of your
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`By no means must you go (sarvathā tu na gantavyam); being such (īdṛśaḥ), where will you go? Await the place and time (deśakālau pratīkṣasva); you shall regain your two wings (pakṣau tvaṃ pratipatsyase).
+`By no means must you go (_sarvathā tu na gantavyam_); being such (_īdṛśaḥ_), where will you go? Await the place and time (_deśakālau pratīkṣasva_); you shall regain your two wings (_pakṣau tvaṃ pratipatsyase_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ and do an agreeable deed to the worlds! So you have to wait. [4-62-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`I would be able (utsaheyam aham) to make you winged (sapakṣakam) this very day (adyaiva); [yet I do not,] for abiding right here (ihasthas tvam), you shall accomplish a deed beneficial to the worlds (lokānāṃ hitaṃ kāryam).
+`I would be able (_utsaheyam aham_) to make you winged (_sapakṣakam_) this very day (_adyaiva_); [yet I do not,] for abiding right here (_ihasthas tvam_), you shall accomplish a deed beneficial to the worlds (_lokānāṃ hitaṃ kāryam_).
 </details>
 </details>
 
@@ -783,7 +783,7 @@ of Brahmans, teaches, sages and also of Indra is to be done by you alone, isn't 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Indeed, that task must be done by you as well (tvayāpi khalu tat kāryam), and it is [the task] of those two king's sons (tayor nṛpaputrayoḥ), of the Brāhmaṇas, of the elders (gurūṇām), of the sages, and of Vāsava.
+`Indeed, that task must be done by you as well (_tvayāpi khalu tat kāryam_), and it is [the task] of those two king&#x27;s sons (_tayor nṛpaputrayoḥ_), of the Brāhmaṇas, of the elders (_gurūṇām_), of the sages, and of Vāsava.
 </details>
 </details>
 
@@ -858,7 +858,7 @@ narration in this way. [4-62-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`I too desire to behold (icchāmy aham api draṣṭum) the two brothers Rāma and Lakṣmaṇa; [yet] I do not wish to bear my vital breaths for long (necche ciraṃ dhārayituṃ prāṇān)—I shall cast off my body (tyakṣye kalevaram).' Thus spoke the great sage who had beheld the vision of ultimate truth (dṛṣṭatattvārthadarśanaḥ).
+`I too desire to behold (_icchāmy aham api draṣṭum_) the two brothers Rāma and Lakṣmaṇa; [yet] I do not wish to bear my vital breaths for long (_necche ciraṃ dhārayituṃ prāṇān_)—I shall cast off my body (_tyakṣye kalevaram_).&#x27; Thus spoke the great sage who had beheld the vision of ultimate truth (_dṛṣṭatattvārthadarśanaḥ_).
 </details>
 </details>
 

@@ -86,7 +86,7 @@ When that matchlessly illustrious Rama has asked for details, that highly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, upon hearing the words of that immeasurable prince who was thus inquiring (tasyāprameyasya vacanaṃ paripṛcchataḥ), Viśvāmitra of mighty splendor began to expound the history of that grove (vyākhyātum upacakrame):
+Then, upon hearing the words of that immeasurable prince who was thus inquiring (_tasyāprameyasya vacanaṃ paripṛcchataḥ_), Viśvāmitra of mighty splendor began to expound the history of that grove (_vyākhyātum upacakrame_):
 </details>
 </details>
 
@@ -167,9 +167,9 @@ This is firstly the hermitage of Vishnu before taking up Vaamna incarnation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Here in this forest, O mighty-armed Rāma, Lord Viṣṇu, adored by all the gods (viṣṇur devanamaskṛtaḥ), dwelt on this very spot for many hundreds of years and through hundreds of yugas (yugaśatāni ca)—
+**2:** “Here in this forest, O mighty-armed Rāma, Lord Viṣṇu, adored by all the gods (_viṣṇur devanamaskṛtaḥ_), dwelt on this very spot for many hundreds of years and through hundreds of _yugas_ (_yugaśatāni ca_)—
 
-**3:** “For the purpose of practicing asceticism and contemplative yoga (tapaścaraṇayogārtham), he of supreme austerity abode here. This, O Rāma, is the ancient hermitage of the high-souled Vāmana (pūrvāśramo vāmanasya mahātmanaḥ);
+**3:** “For the purpose of practicing asceticism and contemplative yoga (_tapaścaraṇayogārtham_), he of supreme austerity abode here. This, O Rāma, is the ancient hermitage of the high-souled Vāmana (_pūrvāśramo vāmanasya mahātmanaḥ_);
 </details>
 </details>
 
@@ -244,9 +244,9 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “It is celebrated by the name Siddhāśrama (‘the Hermitage of Fulfillment’), for here that Lord of mighty austerity attained fulfillment (siddho hy atra mahātapāḥ). Now at that very time, King Bali, son of Virocana (rājā vairocanir baliḥ),
+**4:** “It is celebrated by the name _Siddhāśrama_ (‘the Hermitage of Fulfillment’), for here that Lord of mighty austerity attained fulfillment (_siddho hy atra mahātapāḥ_). Now at that very time, King Bali, son of Virocana (_rājā vairocanir baliḥ_),
 
-**5:** “Having vanquished the hosts of the gods together with Indra and the troops of the Maruts (daivatagaṇān sendrān sahamarudgaṇān), ruled over their sovereignty, renowned throughout the three worlds (triṣu lokeṣu viśrutaḥ).
+**5:** “Having vanquished the hosts of the gods together with Indra and the troops of the Maruts (_daivatagaṇān sendrān sahamarudgaṇān_), ruled over their sovereignty, renowned throughout the three worlds (_triṣu lokeṣu viśrutaḥ_).
 </details>
 </details>
 
@@ -308,7 +308,7 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That mighty lord of the Asuras then commenced a great sacrifice (yajñaṃ cakāra sumahān asurendro mahābalaḥ). While Bali was thus performing the sacrifice (bales tu yajamānasya), the gods with Agni at their head (devāḥ sāgnipurogamāḥ) came in person and spoke to Viṣṇu here in this hermitage:
+“That mighty lord of the Asuras then commenced a great sacrifice (_yajñaṃ cakāra sumahān asurendro mahābalaḥ_). While Bali was thus performing the sacrifice (_bales tu yajamānasya_), the gods with Agni at their head (_devāḥ sāgnipurogamāḥ_) came in person and spoke to Viṣṇu here in this hermitage:
 </details>
 </details>
 
@@ -356,7 +356,7 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Bali, son of Virocana, O Viṣṇu, is performing a supreme sacrifice (yajate yajñam uttamam); while his sacrificial vow is yet uncompleted (asamāptavrate tasmin), let your own mission on our behalf be accomplished (svakāryam abhipadyatām)!
+“‘Bali, son of Virocana, O Viṣṇu, is performing a supreme sacrifice (_yajate yajñam uttamam_); while his sacrificial vow is yet uncompleted (_asamāptavrate tasmin_), let your own mission on our behalf be accomplished (_svakāryam abhipadyatām_)!
 </details>
 </details>
 
@@ -406,7 +406,7 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whoever approaches him as a suppliant from this quarter or that (ye cainam abhivartante yācitāra itas tataḥ), he bestows upon them everything they ask—whatever it be, wherever it be, and with due honor (yac ca yatra yathāvac ca sarvaṃ tebhyaḥ prayacchati).
+“‘Whoever approaches him as a suppliant from this quarter or that (_ye cainam abhivartante yācitāra itas tataḥ_), he bestows upon them everything they ask—whatever it be, wherever it be, and with due honor (_yac ca yatra yathāvac ca sarvaṃ tebhyaḥ prayacchati_).
 </details>
 </details>
 
@@ -456,7 +456,7 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, for the welfare of the gods (surahitārthāya), do you resort to your mystic power of māyā (māyāyogam upāśritaḥ), assume the stature of a dwarf (vāmanatvaṃ gato viṣṇo), and accomplish our supreme good!’
+“‘Therefore, for the welfare of the gods (_surahitārthāya_), do you resort to your mystic power of _māyā_ (_māyāyogam upāśritaḥ_), assume the stature of a dwarf (_vāmanatvaṃ gato viṣṇo_), and accomplish our supreme good!’
 </details>
 </details>
 
@@ -536,9 +536,9 @@ The ascetic practises conducted along with wife are said to yield best
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “At this very juncture, O Rāma, Maharṣi Kaśyapa, effulgent as fire (kaśyapo ’gnisamaprabhaḥ), accompanied by Aditi, O Rāma, and blazing as it were with spiritual energy (dīpyamāna ivaujasā)—
+**10:** “At this very juncture, O Rāma, Maharṣi Kaśyapa, effulgent as fire (_kaśyapo ’gnisamaprabhaḥ_), accompanied by Aditi, O Rāma, and blazing as it were with spiritual energy (_dīpyamāna ivaujasā_)—
 
-**11:** “That venerable sage, aided by his consort the goddess (devīsahāyo bhagavān), having completed an ascetic vow lasting a thousand divine years (divyaṃ varṣasahasrakam), praised Madhusūdana, the bestower of boons (tuṣṭāva madhusūdanam):
+**11:** “That venerable sage, aided by his consort the goddess (_devīsahāyo bhagavān_), having completed an ascetic vow lasting a thousand divine years (_divyaṃ varṣasahasrakam_), praised Madhusūdana, the bestower of boons (_tuṣṭāva madhusūdanam_):
 </details>
 </details>
 
@@ -608,7 +608,7 @@ The word 'tapaH' also means j~naana, gnosis, knowledge, intellect, spirit,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Abounding in asceticism (tapomayam), the treasury of all asceticism (taporāśim), the embodiment of asceticism (tapomūrtim), whose very essence is spiritual knowledge (tapātmakam)—through my well-performed penance (tapasā sutaptena), I behold You, the Supreme Person (paśyāmi puruṣottamam)!
+“‘Abounding in asceticism (_tapomayam_), the treasury of all asceticism (_taporāśim_), the embodiment of asceticism (_tapomūrtim_), whose very essence is spiritual knowledge (_tapātmakam_)—through my well-performed penance (_tapasā sutaptena_), I behold You, the Supreme Person (_paśyāmi puruṣottamam_)!
 </details>
 </details>
 
@@ -661,7 +661,7 @@ This is the concept of *vishvaruupa*, Physique of the Universes,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Within Your body I behold this entire universe, O Lord (śarīre tava paśyāmi jagat sarvam idaṃ prabho)! You are beginningless and beyond all definition (tvam anādir anirdeśyaḥ); unto You have I come for refuge (tvām ahaṃ śaraṇaṃ gataḥ).’
+“‘Within Your body I behold this entire universe, O Lord (_śarīre tava paśyāmi jagat sarvam idaṃ prabho_)! You are beginningless and beyond all definition (_tvam anādir anirdeśyaḥ_); unto You have I come for refuge (_tvām ahaṃ śaraṇaṃ gataḥ_).’
 </details>
 </details>
 
@@ -717,7 +717,7 @@ Vishnu is gladdened for the devotion of sage Kaashyapa who is absolved
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Well-pleased, Lord Hari spoke to Kaśyapa, who was cleansed of all stain (gatakalmaṣam): ‘Choose a boon (varaṃ varaya), may auspiciousness attend you! You are deemed by Me worthy of a boon (varārho ’si mato mama).’
+“Well-pleased, Lord Hari spoke to Kaśyapa, who was cleansed of all stain (_gatakalmaṣam_): ‘Choose a boon (_varaṃ varaya_), may auspiciousness attend you! You are deemed by Me worthy of a boon (_varārho ’si mato mama_).’
 </details>
 </details>
 
@@ -774,9 +774,9 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “Hearing those words of His, Kaśyapa, son of Marīci (mārīcaḥ kaśyapaḥ), spoke: ‘That boon which has been jointly implored by Aditi, by the gods, and by myself (adityā devatānāṃ ca mama caivānuyācitam)—
+**15:** “Hearing those words of His, Kaśyapa, son of Marīci (_mārīcaḥ kaśyapaḥ_), spoke: ‘That boon which has been jointly implored by Aditi, by the gods, and by myself (_adityā devatānāṃ ca mama caivānuyācitam_)—
 
-**16:** “‘That boon, O giver of boons, well-pleased, deign to grant, O Lord of unfailing vow! Enter into sonship to Aditi and to me, O sinless Bhagavān (putratvaṃ gaccha bhagavann adityā mama cānagha)!
+**16:** “‘That boon, O giver of boons, well-pleased, deign to grant, O Lord of unfailing vow! Enter into sonship to Aditi and to me, O sinless Bhagavān (_putratvaṃ gaccha bhagavann adityā mama cānagha_)!
 </details>
 </details>
 
@@ -828,7 +828,7 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Become the younger brother of Śakra (bhrātā bhava yavīyāṃs tvaṃ śakrasya), O slayer of Asuras! Deign to render aid to the grief-stricken gods (śokārtānāṃ tu devānāṃ sāhāyyaṃ kartum arhasi)!
+“‘Become the younger brother of Śakra (_bhrātā bhava yavīyāṃs tvaṃ śakrasya_), O slayer of Asuras! Deign to render aid to the grief-stricken gods (_śokārtānāṃ tu devānāṃ sāhāyyaṃ kartum arhasi_)!
 </details>
 </details>
 
@@ -899,7 +899,7 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘By Your grace this precinct shall henceforth be renowned as Siddhāśrama (ayaṃ siddhāśramo nāma prasādāt te bhaviṣyati); now that our ascetic rite has reached fulfillment, O Lord of the gods, arise from this place, O Bhagavān (siddhe karmaṇi deveśa uttiṣṭha bhagavann itaḥ)!’
+“‘By Your grace this precinct shall henceforth be renowned as _Siddhāśrama_ (_ayaṃ siddhāśramo nāma prasādāt te bhaviṣyati_); now that our ascetic rite has reached fulfillment, O Lord of the gods, arise from this place, O Bhagavān (_siddhe karmaṇi deveśa uttiṣṭha bhagavann itaḥ_)!’
 </details>
 </details>
 
@@ -947,7 +947,7 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Viṣṇu of mighty splendor was born of Aditi (adityāṃ samajāyata); assuming the form of the dwarf Vāmana (vāmanaṃ rūpam āsthāya), He approached Bali, son of Virocana.
+“Thereupon Viṣṇu of mighty splendor was born of Aditi (_adityāṃ samajāyata_); assuming the form of the dwarf Vāmana (_vāmanaṃ rūpam āsthāya_), He approached Bali, son of Virocana.
 </details>
 </details>
 
@@ -1055,9 +1055,9 @@ The myth is that Vaamna, the dwarfish ascetic boy, approaches Emperor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Having begged three paces of ground (trīn padān atha bhikṣitvā) and accepted the earth in gift, He who sought the welfare of the worlds and delighted in the good of all beings strode across the three worlds (ākramya lokāṃl lokārthī sarvalokahite rataḥ);
+**20:** “Having begged three paces of ground (_trīn padān atha bhikṣitvā_) and accepted the earth in gift, He who sought the welfare of the worlds and delighted in the good of all beings strode across the three worlds (_ākramya lokāṃl lokārthī sarvalokahite rataḥ_);
 
-**21:** “Having bound Bali by His might (niyamya balim ojasā), that Lord of mighty splendor bestowed the sovereignty once more upon Mahendra and placed the triple world back under Śakra’s rule (trailokyaṃ cakre śakravaśaṃ punaḥ).
+**21:** “Having bound Bali by His might (_niyamya balim ojasā_), that Lord of mighty splendor bestowed the sovereignty once more upon Mahendra and placed the triple world back under Śakra’s rule (_trailokyaṃ cakre śakravaśaṃ punaḥ_).
 </details>
 </details>
 
@@ -1118,7 +1118,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This hermitage that banishes all weariness was thus first occupied by Him alone (tenaiva pūrvam ākrānta āśramaḥ śramanāśanaḥ); and out of devotion to that very Vāmana, it is now inhabited and enjoyed by me as well (mayāpi bhaktyā tasyaiva vāmanasyopabhujyate).
+“This hermitage that banishes all weariness was thus first occupied by Him alone (_tenaiva pūrvam ākrānta āśramaḥ śramanāśanaḥ_); and out of devotion to that very Vāmana, it is now inhabited and enjoyed by me as well (_mayāpi bhaktyā tasyaiva vāmanasyopabhujyate_).
 </details>
 </details>
 
@@ -1165,7 +1165,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unto this hermitage come the Rākṣasas who obstruct the sacrifice (enam āśramam āyānti rākṣasā vighnakāriṇaḥ); right here, O tiger among men, those evil-doers must be slain by you (atra te puruṣavyāghra hantavyā duṣṭacāriṇaḥ)!
+“Unto this hermitage come the Rākṣasas who obstruct the sacrifice (_enam āśramam āyānti rākṣasā vighnakāriṇaḥ_); right here, O tiger among men, those evil-doers must be slain by you (_atra te puruṣavyāghra hantavyā duṣṭacāriṇaḥ_)!
 </details>
 </details>
 
@@ -1228,7 +1228,7 @@ This hermitage is my benefice now for I am practising my asceticism
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, O Rāma, we enter the peerless Siddhāśrama (adya gacchāmahe rāma siddhāśramam anuttamam); that hermitage precinct, my dear child, is just as much yours as it is mine (tad āśramapadaṃ tāta tavāpy etad yathā mama)!”
+“Today, O Rāma, we enter the peerless _Siddhāśrama_ (_adya gacchāmahe rāma siddhāśramam anuttamam_); that hermitage precinct, my dear child, is just as much yours as it is mine (_tad āśramapadaṃ tāta tavāpy etad yathā mama_)!”
 </details>
 </details>
 
@@ -1286,7 +1286,7 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the great sage, supremely delighted, took Rāma along with Lakṣmaṇa and, as he entered the hermitage precinct, shone forth like the Moon freed from mist when conjoined with the twin stars of Punarvasu (śaśīva gatanīhāraḥ punarvasusamanvitaḥ).
+Having spoken thus, the great sage, supremely delighted, took Rāma along with Lakṣmaṇa and, as he entered the hermitage precinct, shone forth like the Moon freed from mist when conjoined with the twin stars of _Punarvasu_ (_śaśīva gatanīhāraḥ punarvasusamanvitaḥ_).
 </details>
 </details>
 
@@ -1353,9 +1353,9 @@ Those sages reverenced Vishvamitra according to their deservedness,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** Beholding him, all the sages dwelling in Siddhāśrama (munayaḥ sarve siddhāśramanivāsinaḥ) sprang up at once one after another and paid homage to Viśvāmitra (utpatyotpatya sahasā viśvāmitram apūjayan).
+**26:** Beholding him, all the sages dwelling in Siddhāśrama (_munayaḥ sarve siddhāśramanivāsinaḥ_) sprang up at once one after another and paid homage to Viśvāmitra (_utpatyotpatya sahasā viśvāmitram apūjayan_).
 
-**27:** In accordance with due ordinance they offered worship to the wise Viśvāmitra (yathārhaṃ cakrire pūjāṃ viśvāmitrāya dhīmate), and in like manner they performed the rites of hospitality for the two royal princes (rājaputrābhyām akurvann atithikriyām).
+**27:** In accordance with due ordinance they offered worship to the wise Viśvāmitra (_yathārhaṃ cakrire pūjāṃ viśvāmitrāya dhīmate_), and in like manner they performed the rites of hospitality for the two royal princes (_rājaputrābhyām akurvann atithikriyām_).
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ Those two princes from Raghu's dynasty and the enemy-subjugators, namely
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having rested for a brief muhūrta (muhūrtam atha viśrāntau), the two royal princes, quellers of their foes and delights of Raghu’s line, joined their palms in reverence and spoke to that tiger among sages (prāñjalī muniśārdūlam ūcatū raghunandanau):
+Then, having rested for a brief _muhūrta_ (_muhūrtam atha viśrāntau_), the two royal princes, quellers of their foes and delights of Raghu’s line, joined their palms in reverence and spoke to that tiger among sages (_prāñjalī muniśārdūlam ūcatū raghunandanau_):
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enter upon your sacrificial consecration this very day (adyaiva dīkṣāṃ praviśa), may auspiciousness attend you, O bull among sages! Let this Siddhāśrama become truly fulfilled (siddhāśramo ’yaṃ siddhaḥ syāt), and let your word come true (satyam astu vacas tava)!”
+“Enter upon your sacrificial consecration this very day (_adyaiva dīkṣāṃ praviśa_), may auspiciousness attend you, O bull among sages! Let this _Siddhāśrama_ become truly fulfilled (_siddhāśramo ’yaṃ siddhaḥ syāt_), and let your word come true (_satyam astu vacas tava_)!”
 </details>
 </details>
 
@@ -1578,11 +1578,11 @@ jaagaruukatayaa yaj~naadi dharmaanuShTaatR^isamrakShNam kartavyam iti suucitam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** Thus addressed, the great sage Viśvāmitra of mighty splendor, self-controlled and with his senses subdued (niyato niyatendriyaḥ), entered upon the sacrificial consecration at that time (praviveśa tadā dīkṣām).
+**30:** Thus addressed, the great sage Viśvāmitra of mighty splendor, self-controlled and with his senses subdued (_niyato niyatendriyaḥ_), entered upon the sacrificial consecration at that time (_praviveśa tadā dīkṣām_).
 
-**31:** The two young princes also, having passed that night in deep composure (tāṃ rātrim uṣitvā susamāhitau), rose at the hour of dawn and worshiped the morning sandhyā twilight (prabhātakāle cotthāya pūrvāṃ saṃdhyām upāsya ca);
+**31:** The two young princes also, having passed that night in deep composure (_tāṃ rātrim uṣitvā susamāhitau_), rose at the hour of dawn and worshiped the morning _sandhyā_ twilight (_prabhātakāle cotthāya pūrvāṃ saṃdhyām upāsya ca_);
 
-**32:** Supremely pure (praśucī), having completed the supreme mystic recitation in accordance with sacred rule (paramaṃ jāpyaṃ samāpya niyamena ca), they saluted Viśvāmitra as he sat after offering the agnihotra oblation (hutāgnihotram āsīnaṃ viśvāmitram avandatām).
+**32:** Supremely pure (_praśucī_), having completed the supreme mystic recitation in accordance with sacred rule (_paramaṃ jāpyaṃ samāpya niyamena ca_), they saluted Viśvāmitra as he sat after offering the _agnihotra_ oblation (_hutāgnihotram āsīnaṃ viśvāmitram avandatām_).
 </details>
 </details>
 

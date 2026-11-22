@@ -87,7 +87,7 @@ brother Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that scion of Raghu, Lakṣmaṇa, who was keeping vigil with unfeigned devotion (adambhena) for the sake of his brother’s protection (bhrātur arthāya), Guha, consumed by inner anguish (santāpa-santaptaḥ), spoke these words:
+To that scion of Raghu, Lakṣmaṇa, who was keeping vigil with unfeigned devotion (_adambhena_) for the sake of his brother’s protection (_bhrātur arthāya_), Guha, consumed by inner anguish (_santāpa-santaptaḥ_), spoke these words:
 </details>
 </details>
 
@@ -139,7 +139,7 @@ Oh, prince!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here, dear friend (tāta), is a comfortable couch prepared expressly for you (tvad-artham upakalpitā); take your rest peacefully upon it at your ease (yathā-sukham), O prince!
+“Here, dear friend (_tāta_), is a comfortable couch prepared expressly for you (_tvad-artham upakalpitā_); take your rest peacefully upon it at your ease (_yathā-sukham_), O prince!
 </details>
 </details>
 
@@ -192,7 +192,7 @@ keep awake this night, for the protection of Rama"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of these folk of ours are inured to hardships (ucito ’yaṃ janaḥ sarvaḥ kleśānām), whereas you are accustomed to comfort (sukhocitaḥ). For the protection of Kākutstha (gupty-artham), we ourselves shall stay awake throughout the night.
+All of these folk of ours are inured to hardships (_ucito ’yaṃ janaḥ sarvaḥ kleśānām_), whereas you are accustomed to comfort (_sukhocitaḥ_). For the protection of Kākutstha (_gupty-artham_), we ourselves shall stay awake throughout the night.
 </details>
 </details>
 
@@ -244,7 +244,7 @@ you by truth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly, there is no one on earth dearer to me than Rāma (na hi rāmāt priyatamo mamāsti bhuvi kaścana); I speak this truth to you, and by truth itself I swear to you (satyenaiva ca te śape)!
+Truly, there is no one on earth dearer to me than Rāma (_na hi rāmāt priyatamo mamāsti bhuvi kaścana_); I speak this truth to you, and by truth itself I swear to you (_satyenaiva ca te śape_)!
 </details>
 </details>
 
@@ -299,7 +299,7 @@ reward of wealth, by the sole grace of Rama"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through his grace alone (asya prasādāt) do I hope to attain supreme renown in this world, abundant merit (dharmāvāptiṃ ca vipulām), and the unalloyed fulfilment of wealth and desire.
+Through his grace alone (_asya prasādāt_) do I hope to attain supreme renown in this world, abundant merit (_dharmāvāptiṃ ca vipulām_), and the unalloyed fulfilment of wealth and desire.
 </details>
 </details>
 
@@ -351,7 +351,7 @@ with Sita in every way, with bow in hand."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore I myself, bow in hand (dhanuṣpāṇiḥ) along with my kinsmen, shall guard on every side my dear friend Rāma as he sleeps beside Sītā.
+Therefore I myself, bow in hand (_dhanuṣpāṇiḥ_) along with my kinsmen, shall guard on every side my dear friend Rāma as he sleeps beside Sītā.
 </details>
 </details>
 
@@ -416,7 +416,7 @@ infantry)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nothing at all in this forest is unknown to me as I roam through it constantly (carataḥ sadā); why, we could withstand even a vast fourfold army (caturaṅgaṃ hy api balaṃ sumahat)!”
+Nothing at all in this forest is unknown to me as I roam through it constantly (_carataḥ sadā_); why, we could withstand even a vast fourfold army (_caturaṅgaṃ hy api balaṃ sumahat_)!”
 </details>
 </details>
 
@@ -483,9 +483,9 @@ possible for me to sleep or to enjoy the pleasures of life?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Lakṣmaṇa then replied to him: “Protected by you, O sinless one, who have your eye fixed upon righteousness alone (dharmam evānupaśyatā), none of us is afraid here.
+**8:** Lakṣmaṇa then replied to him: “Protected by you, O sinless one, who have your eye fixed upon righteousness alone (_dharmam evānupaśyatā_), none of us is afraid here.
 
-**9:** Yet while the son of Daśaratha lies upon the bare ground (dāśarathau bhūmau śayāne) beside Sītā, how could sleep possibly be obtained by me—or life itself, or any pleasures (jīvitaṃ vā sukhāni vā)?
+**9:** Yet while the son of Daśaratha lies upon the bare ground (_dāśarathau bhūmau śayāne_) beside Sītā, how could sleep possibly be obtained by me—or life itself, or any pleasures (_jīvitaṃ vā sukhāni vā_)?
 </details>
 </details>
 
@@ -538,7 +538,7 @@ combined, now sleeping profoundly on the grass along with Sita."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold him who cannot be overpowered in battle by all the gods and demons combined (devāsuraiḥ sarvaiḥ), now sleeping peacefully upon blades of grass (tṛṇeṣu) beside Sītā!
+Behold him who cannot be overpowered in battle by all the gods and demons combined (_devāsuraiḥ sarvaiḥ_), now sleeping peacefully upon blades of grass (_tṛṇeṣu_) beside Sītā!
 </details>
 </details>
 
@@ -608,9 +608,9 @@ exile, the king will not live long and the earth will become surely widowed fort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** He who was obtained through sacred mantras and austerities (mantra-tapasā labdhaḥ) and through diverse ritual endeavours (vividhaiś ca pariśramaiḥ)—he is the sole, cherished son of Daśaratha, endowed with every noble mark matching his sire (sadṛśa-lakṣaṇaḥ).
+**11:** He who was obtained through sacred mantras and austerities (_mantra-tapasā labdhaḥ_) and through diverse ritual endeavours (_vividhaiś ca pariśramaiḥ_)—he is the sole, cherished son of Daśaratha, endowed with every noble mark matching his sire (_sadṛśa-lakṣaṇaḥ_).
 
-**12:** Now that he has been banished into exile (asmin pravrājite), the king will not live long (na ciraṃ vartayiṣyati); this earth will surely become widowed (vidhavā medinī) very soon!
+**12:** Now that he has been banished into exile (_asmin pravrājite_), the king will not live long (_na ciraṃ vartayiṣyati_); this earth will surely become widowed (_vidhavā medinī_) very soon!
 </details>
 </details>
 
@@ -671,7 +671,7 @@ fallen silent and I am sure that a profound stillness reigns in the palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having cried out with a mighty wail (vinadya sumahā-nādam), the women must have ceased through sheer exhaustion (śrameṇoparatāḥ); therefore I deem the royal palace to have fallen utterly silent (nirghoṣoparatam).
+Having cried out with a mighty wail (_vinadya sumahā-nādam_), the women must have ceased through sheer exhaustion (_śrameṇoparatāḥ_); therefore I deem the royal palace to have fallen utterly silent (_nirghoṣoparatam_).
 </details>
 </details>
 
@@ -723,7 +723,7 @@ this night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As for Kausalyā and the king, and likewise my own mother (jananī mama), I do not expect that all of them will survive even through this single night (nāśaṃse yadi jīvanti sarve te śarvarīm imām).
+As for Kausalyā and the king, and likewise my own mother (_jananī mama_), I do not expect that all of them will survive even through this single night (_nāśaṃse yadi jīvanti sarve te śarvarīm imām_).
 </details>
 </details>
 
@@ -775,7 +775,7 @@ be painful if Kausalya who has given birth to a heroic son, dies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My mother might perhaps live on through looking after Śatrughna (śatrughnasyānvavekṣayā); but this is my sharpest grief, that Kausalyā, the mother of a heroic son (vīra-sūḥ), will surely perish!
+My mother might perhaps live on through looking after Śatrughna (_śatrughnasyānvavekṣayā_); but this is my sharpest grief, that Kausalyā, the mother of a heroic son (_vīra-sūḥ_), will surely perish!
 </details>
 </details>
 
@@ -827,7 +827,7 @@ brought pleasure to the world, when seized with agony over the king's death, wil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thronged with devoted citizens (anurakta-janākīrṇā) and ever bringing delight through its joyful sights (sukhāloka-priyāvahā), that city, now stricken by the calamity of the king (rāja-vyasana-saṃsṛṣṭā), will perish!
+Thronged with devoted citizens (_anurakta-janākīrṇā_) and ever bringing delight through its joyful sights (_sukhāloka-priyāvahā_), that city, now stricken by the calamity of the king (_rāja-vyasana-saṃsṛṣṭā_), will perish!
 </details>
 </details>
 
@@ -880,7 +880,7 @@ in the body of the generous king be maintained?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How indeed shall the vital breaths of the high-souled king continue to sustain his body (śarīraṃ dhārayiṣyanti prāṇā rājño mahātmanaḥ) when he no longer beholds his noble-souled, dearly beloved eldest son (jyeṣṭhaṃ priyam apaśyataḥ)?
+How indeed shall the vital breaths of the high-souled king continue to sustain his body (_śarīraṃ dhārayiṣyanti prāṇā rājño mahātmanaḥ_) when he no longer beholds his noble-souled, dearly beloved eldest son (_jyeṣṭhaṃ priyam apaśyataḥ_)?
 </details>
 </details>
 
@@ -933,7 +933,7 @@ behind. anantaramcha = Afterwards; *mama maataa.api* = my mother also; *upaishhy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the king has perished, Kausalyā will perish afterward (paścāt kausalyā vinaśiṣyati); and immediately thereafter, my own mother too will meet her end (nāśam upaiṣyati)!
+When the king has perished, Kausalyā will perish afterward (_paścāt kausalyā vinaśiṣyati_); and immediately thereafter, my own mother too will meet her end (_nāśam upaiṣyati_)!
 </details>
 </details>
 
@@ -988,7 +988,7 @@ cherished wish of his heart, my father will leave this world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Without having attained his cherished desire (anavāpya manoratham)—now slipped away, forever slipped away (atikrāntam atikrāntam)—and without having placed Rāma upon the throne (rājye rāmam anikṣipya), my father will pass away!
+Without having attained his cherished desire (_anavāpya manoratham_)—now slipped away, forever slipped away (_atikrāntam atikrāntam_)—and without having placed Rāma upon the throne (_rājye rāmam anikṣipya_), my father will pass away!
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ course of all funeral rites, when the hour has struck.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fortunate indeed (siddhārthāḥ) are those who, when that fateful hour arrives (tasmin kāle ’py upasthite), will perform all the funeral rites for the departed monarch, our father (pitaraṃ vṛttam)!
+Fortunate indeed (_siddhārthāḥ_) are those who, when that fateful hour arrives (_tasmin kāle ’py upasthite_), will perform all the funeral rites for the departed monarch, our father (_pitaraṃ vṛttam_)!
 </details>
 </details>
 
@@ -1130,11 +1130,11 @@ and bright with festivities carried on under the patronage of associations.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Adorned with lovely quadrangles and courts (ramya-catvara-saṃsthānām), laid out with well-divided royal highways (suvibhakta-mahāpathām), rich in palaces and mansions (harmya-prāsāda-sampannām), and graced by the finest courtesans;
+**21:** Adorned with lovely quadrangles and courts (_ramya-catvara-saṃsthānām_), laid out with well-divided royal highways (_suvibhakta-mahāpathām_), rich in palaces and mansions (_harmya-prāsāda-sampannām_), and graced by the finest courtesans;
 
-**22:** thronged with chariots, horses, and elephants (rathāśva-gaja-sambādhām), resounding with the music of instruments (tūrya-nāda-vināditām), filled with every auspicious festivity, and teeming with joyous, thriving citizens—
+**22:** thronged with chariots, horses, and elephants (_rathāśva-gaja-sambādhām_), resounding with the music of instruments (_tūrya-nāda-vināditām_), filled with every auspicious festivity, and teeming with joyous, thriving citizens—
 
-**23:** through that royal capital of my father (rājadhānīṃ pitur mama), rich in pleasure-gardens and groves (ārāmodyāna-sampannām) and resplendent with festive assemblies (samājotsava-śālinīm), happy men will roam at ease (sukhitā vicariṣyanti)!
+**23:** through that royal capital of my father (_rājadhānīṃ pitur mama_), rich in pleasure-gardens and groves (_ārāmodyāna-sampannām_) and resplendent with festive assemblies (_samājotsava-śālinīm_), happy men will roam at ease (_sukhitā vicariṣyanti_)!
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ king Dasaratha of noble vows again?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Oh, might Daśaratha still live (api jīved daśarathaḥ)! Returning again from our forest exile, might we yet behold that high-souled monarch faithful to his noble vows (suvratam)!
+Oh, might Daśaratha still live (_api jīved daśarathaḥ_)! Returning again from our forest exile, might we yet behold that high-souled monarch faithful to his noble vows (_suvratam_)!
 </details>
 </details>
 
@@ -1238,7 +1238,7 @@ with Rama who is faithful to his promises?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when this forest residence is concluded (nivṛtte vanavāse ’smin), might we re-enter Ayodhyā safely alongside him who is true to his promise (satya-pratijñena sārdhaṃ kuśalinā)!”
+And when this forest residence is concluded (_nivṛtte vanavāse ’smin_), might we re-enter Ayodhyā safely alongside him who is true to his promise (_satya-pratijñena sārdhaṃ kuśalinā_)!”
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ anguish as he was, that night rolled away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that high-souled prince stood thus lamenting (paridevayamānasya) and stricken with grief (duḥkhārtasya), that night passed away (śarvarī sātyavartata).
+As that high-souled prince stood thus lamenting (_paridevayamānasya_) and stricken with grief (_duḥkhārtasya_), that night passed away (_śarvarī sātyavartata_).
 </details>
 </details>
 
@@ -1364,7 +1364,7 @@ fever.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While the king’s son, ever devoted to the welfare of the people (prajā-hite), was speaking the truth in this manner, Guha, afflicted by sorrow out of deep affection (guru-sauhṛdāt), shed tears like a tormented elephant stricken with fever (jvarāturo nāga iva vyathāturaḥ).
+While the king’s son, ever devoted to the welfare of the people (_prajā-hite_), was speaking the truth in this manner, Guha, afflicted by sorrow out of deep affection (_guru-sauhṛdāt_), shed tears like a tormented elephant stricken with fever (_jvarāturo nāga iva vyathāturaḥ_).
 </details>
 </details>
 

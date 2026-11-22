@@ -66,7 +66,7 @@ Upon the completion of a full year and the safe return of the sacrificial steed,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when a full year had elapsed (saṃvatsare pūrṇe) and that sacrificial steed had returned (tasmin prāpte turaṅgame), the sacrifice of the king commenced (rājño yajño ’bhyavartata) upon the northern bank of the Sarayū (sarayvāś cottare tīre).
+Then, when a full year had elapsed (_saṃvatsare pūrṇe_) and that sacrificial steed had returned (_tasmin prāpte turaṅgame_), the sacrifice of the king commenced (_rājño yajño ’bhyavartata_) upon the northern bank of the Sarayū (_sarayvāś cottare tīre_).
 </details>
 </details>
 
@@ -111,7 +111,7 @@ Keeping Rishyasringa at the helm of affairs those eminent Brahmans commenced, *a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Placing Ṛṣyaśṛṅga at the fore (ṛṣyaśṛṅgaṃ puraskṛtya), the foremost of the twice-born priests (dvijarṣabhāḥ) performed the ritual acts in the great Aśvamedha sacrifice of this great-souled monarch.
+Placing Ṛṣyaśṛṅga at the fore (_ṛṣyaśṛṅgaṃ puraskṛtya_), the foremost of the twice-born priests (_dvijarṣabhāḥ_) performed the ritual acts in the great _Aśvamedha_ sacrifice of this great-souled monarch.
 </details>
 </details>
 
@@ -157,7 +157,7 @@ works relating to ritual as per canon and rules, and conducted them scripturally
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The officiating priests who had crossed to the farthest shore of the Vedas (yājakā vedapāragāḥ) perform the rites according to sacred precept (vidhivat), moving through each ritual station (parikrāmanti) according to Śāstra, ritual injunction (yathāvidhi), and Mīmāṃsā principle (yathānyāyam).
+The officiating priests who had crossed to the farthest shore of the Vedas (_yājakā vedapāragāḥ_) perform the rites according to sacred precept (_vidhivat_), moving through each ritual station (_parikrāmanti_) according to Śāstra, ritual injunction (_yathāvidhi_), and Mīmāṃsā principle (_yathānyāyam_).
 </details>
 </details>
 
@@ -204,7 +204,7 @@ main one scripturally. [1-14-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed the Pravargya rite according to Śāstra and likewise the Upasad oblation (tathaivopasadam), the twice-born priests duly executed all the supplementary rites transferred by ritual extension (adhikaṃ karma) in accordance with Śāstric ordinance.
+Having performed the _Pravargya_ rite according to Śāstra and likewise the _Upasad_ oblation (_tathaivopasadam_), the twice-born priests duly executed all the supplementary rites transferred by ritual extension (_adhikaṃ karma_) in accordance with Śāstric ordinance.
 </details>
 </details>
 
@@ -251,7 +251,7 @@ as enjoined. [1-14-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having worshipped the presiding deities of the ritual limbs (abhipūjya), all those joyful pre-eminent sages (munipuṅgavāḥ) duly performed the sacrificial rites beginning with the morning Soma-pressing (prātaḥsavanapūrvāṇi karmāṇi).
+Having worshipped the presiding deities of the ritual limbs (_abhipūjya_), all those joyful pre-eminent sages (_munipuṅgavāḥ_) duly performed the sacrificial rites beginning with the morning Soma-pressing (_prātaḥsavanapūrvāṇi karmāṇi_).
 </details>
 </details>
 
@@ -317,7 +317,7 @@ hold the view that it is from Sarcostema Viminalis family.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The oblation sacred to Indra (aindraś ca) was duly offered, and the sinless King Soma was pressed (rājā cābhiṣuto ’naghaḥ); and the midday Soma-pressing (madhyandinaṃ ca savanam) proceeded in due sequence.
+The oblation sacred to Indra (_aindraś ca_) was duly offered, and the sinless King Soma was pressed (_rājā cābhiṣuto ’naghaḥ_); and the midday Soma-pressing (_madhyandinaṃ ca savanam_) proceeded in due sequence.
 </details>
 </details>
 
@@ -369,7 +369,7 @@ of that great-exalted soul Dasharatha according to the viewpoint of scriptures. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those foremost of Brāhmaṇas likewise performed the third (evening) Soma-pressing (tṛtīyasavanaṃ caiva) of this great-souled monarch after consulting the Śāstras (śāstrato dṛṣṭvā).
+And those foremost of Brāhmaṇas likewise performed the third (evening) Soma-pressing (_tṛtīyasavanaṃ caiva_) of this great-souled monarch after consulting the Śāstras (_śāstrato dṛṣṭvā_).
 </details>
 </details>
 
@@ -418,7 +418,7 @@ invoked Indra and other gods to that place. [1-14-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There Ṛṣyaśṛṅga and the other priests invoked (āhvayāñcakrire) Śakra (Indra) and the foremost celestials with Vedic mantras endowed with faultless phonetic articulation and accentuation taught in Śikṣā (śikṣākṣarasamanvitaiḥ).
+There Ṛṣyaśṛṅga and the other priests invoked (_āhvayāñcakrire_) Śakra (Indra) and the foremost celestials with Vedic mantras endowed with faultless phonetic articulation and accentuation taught in _Śikṣā_ (_śikṣākṣarasamanvitaiḥ_).
 </details>
 </details>
 
@@ -468,7 +468,7 @@ hymns they have offered oblations to them. [1-14-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With sweet Sāman chants (gītibhir madhuraiḥ) and tender mantra-invocations (snigdhair mantrāhvānaiḥ), the Hotṛ priests invoked the dwellers of heaven and offered them their shares of the oblation according to their worth (yathārhataḥ).
+With sweet _Sāman_ chants (_gītibhir madhuraiḥ_) and tender mantra-invocations (_snigdhair mantrāhvānaiḥ_), the _Hotṛ_ priests invoked the dwellers of heaven and offered them their shares of the oblation according to their worth (_yathārhataḥ_).
 </details>
 </details>
 
@@ -526,7 +526,7 @@ the ritual is performed in a secure way. [1-14-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nothing there was improperly offered (na cāhutam abhūt tatra), nor was there any ritual slip or omission whatsoever (skhalitaṃ vā na kiṃcana); everything was seen to be accompanied by exact Vedic mantras (brahmavat) and executed with complete ritual security (kṣemayuktam).
+Nothing there was improperly offered (_na cāhutam abhūt tatra_), nor was there any ritual slip or omission whatsoever (_skhalitaṃ vā na kiṃcana_); everything was seen to be accompanied by exact Vedic mantras (_brahmavat_) and executed with complete ritual security (_kṣemayuktam_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ person, nor any Brahman without at least a hundred apprentices. [1-14-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Throughout those sacrificial days (teṣv ahaḥsu), no one was seen weary or athirst (śrānto vā) or hungry (kṣudhito vā); nor was there any unlearned Brāhmaṇa (nāvidvān brāhmaṇaḥ), nor anyone unattended by a hundred followers (nāśatānucaras tathā).
+Throughout those sacrificial days (_teṣv ahaḥsu_), no one was seen weary or athirst (_śrānto vā_) or hungry (_kṣudhito vā_); nor was there any unlearned Brāhmaṇa (_nāvidvān brāhmaṇaḥ_), nor anyone unattended by a hundred followers (_nāśatānucaras tathā_).
 </details>
 </details>
 
@@ -653,7 +653,7 @@ own salvation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brāhmaṇas continually dine (brāhmaṇā bhuñjate nityam), those who have masters or protectors dine (nāthavantaś ca bhuñjate), ascetics dine (tāpasā bhuñjate cāpi), and wandering mendicants likewise dine (śramaṇāś caiva bhuñjate).
+Brāhmaṇas continually dine (_brāhmaṇā bhuñjate nityam_), those who have masters or protectors dine (_nāthavantaś ca bhuñjate_), ascetics dine (_tāpasā bhuñjate cāpi_), and wandering mendicants likewise dine (_śramaṇāś caiva bhuñjate_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ served. [1-14-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The aged, the infirm, women, and children likewise dine (vṛddhāś ca vyādhitāś caiva strībālaś ca tathaiva ca); even as they dine unceasingly day and night (aniśaṃ bhuñjamānānām), no satiation is ever reached (na tṛptir upalabhyate).
+The aged, the infirm, women, and children likewise dine (_vṛddhāś ca vyādhitāś caiva strībālaś ca tathaiva ca_); even as they dine unceasingly day and night (_aniśaṃ bhuñjamānānām_), no satiation is ever reached (_na tṛptir upalabhyate_).
 </details>
 </details>
 
@@ -757,7 +757,7 @@ king's men have distributed numerously there at the ritual place. [1-14-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let food be given! Let food and manifold garments be given!” (dīyatāṃ dīyatām annaṃ vāsāṃsi vividhāni ca)—thus urged on there by the overseers (iti saṃcoditās tatra), the servers distributed them thousands of times (tathā cakrur anekaśaḥ).
+“Let food be given! Let food and manifold garments be given!” (_dīyatāṃ dīyatām annaṃ vāsāṃsi vividhāni ca_)—thus urged on there by the overseers (_iti saṃcoditās tatra_), the servers distributed them thousands of times (_tathā cakrur anekaśaḥ_).
 </details>
 </details>
 
@@ -808,7 +808,7 @@ made available customarily, day after day. [1-14-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And vast heaps of food resembling mountains (annakūṭāś ca bahavaḥ parvatopamāḥ), cooked according to culinary precept (siddhasya vidhivat), were seen there day after day (divase divase tatra).
+And vast heaps of food resembling mountains (_annakūṭāś ca bahavaḥ parvatopamāḥ_), cooked according to culinary precept (_siddhasya vidhivat_), were seen there day after day (_divase divase tatra_).
 </details>
 </details>
 
@@ -854,7 +854,7 @@ countries, and they are all well-pleased with the sumptuous food and drink suppl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Men and multitudes of women who had arrived from diverse lands (nānādeśād anuprāptāḥ puruṣāḥ strīgaṇās tathā) were sumptuously regaled with food and drink (annapānaiḥ suvihitāḥ) in that sacrifice of the great-souled king.
+Men and multitudes of women who had arrived from diverse lands (_nānādeśād anuprāptāḥ puruṣāḥ strīgaṇās tathā_) were sumptuously regaled with food and drink (_annapānaiḥ suvihitāḥ_) in that sacrifice of the great-souled king.
 </details>
 </details>
 
@@ -934,7 +934,7 @@ commence the ritual proper.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Foremost twice-born sages praised the food, prepared according to rule and delicious (annaṃ hi vidhivat svādu praśaṃsanti dvijarṣabhāḥ); “Ah, we are thoroughly satisfied! May auspiciousness attend you (aho tṛptāḥ sma bhadraṃ te)!”—so Rāghava (Daśaratha) heard.
+Foremost twice-born sages praised the food, prepared according to rule and delicious (_annaṃ hi vidhivat svādu praśaṃsanti dvijarṣabhāḥ_); “Ah, we are thoroughly satisfied! May auspiciousness attend you (_aho tṛptāḥ sma bhadraṃ te_)!”—so Rāghava (Daśaratha) heard.
 </details>
 </details>
 
@@ -993,7 +993,7 @@ earrings have helped them. [1-14-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Well-adorned men served food to the Brāhmaṇas (svalaṃkṛtāś ca puruṣā brāhmaṇān paryaveṣayan), while others wearing brightly polished gem-set earrings (sumṛṣṭamaṇikuṇḍalāḥ) attended upon those servers (upāsante ca tān anye).
+Well-adorned men served food to the Brāhmaṇas (_svalaṃkṛtāś ca puruṣā brāhmaṇān paryaveṣayan_), while others wearing brightly polished gem-set earrings (_sumṛṣṭamaṇikuṇḍalāḥ_) attended upon those servers (_upāsante ca tān anye_).
 </details>
 </details>
 
@@ -1066,7 +1066,7 @@ each other, during the gap-periods of ritual works. [1-14-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the intervals between the ritual pressings (karmāntare), eloquent and resolute Brāhmaṇas (viprāḥ suvāgmino dhīrāḥ), eager to vanquish one another in debate (parasparajigīṣayā), propounded numerous logical disputations (hetuvādān bahūn api).
+In the intervals between the ritual pressings (_karmāntare_), eloquent and resolute Brāhmaṇas (_viprāḥ suvāgmino dhīrāḥ_), eager to vanquish one another in debate (_parasparajigīṣayā_), propounded numerous logical disputations (_hetuvādān bahūn api_).
 </details>
 </details>
 
@@ -1112,7 +1112,7 @@ and others and as contained in scriptures. [1-14-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Day after day in that sacrifice (divase divase tatra saṃstare), skilful twice-born priests (kuśalā dvijāḥ), prompted by the liturgical calls (pracoditāḥ), performed all the sacrificial rites according to Śāstra (yathāśāstram).
+Day after day in that sacrifice (_divase divase tatra saṃstare_), skilful twice-born priests (_kuśalā dvijāḥ_), prompted by the liturgical calls (_pracoditāḥ_), performed all the sacrificial rites according to Śāstra (_yathāśāstram_).
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ The six branches of Veda-s are: 1] *shikSaa* - phonetics, 2] *vyaakaraNa* - gram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-None there was unversed in the six Vedāṅgas (nāṣaḍaṅgavid atrāsīt), none unobservant of vows (nāvrataḥ), none not deeply learned (nābahuśrutaḥ); and among the ritual assessors of that king (sadasyās tasya vai rājñaḥ), no twice-born scholar was unskilful in debate (nāvādakuśalo dvijaḥ).
+None there was unversed in the six Vedāṅgas (_nāṣaḍaṅgavid atrāsīt_), none unobservant of vows (_nāvrataḥ_), none not deeply learned (_nābahuśrutaḥ_); and among the ritual assessors of that king (_sadasyās tasya vai rājñaḥ_), no twice-born scholar was unskilful in debate (_nāvādakuśalo dvijaḥ_).
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ None there was unversed in the six Vedāṅgas (nāṣaḍaṅgavid atrāsīt), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the time arrived for the erection of the sacrificial posts (prāpte yūpocchraye tasmin), six posts of bilva wood (ṣaḍ bailvāḥ), as many (six) of khadira wood stationed alongside the bilva posts (khādirās tathā tāvanto bilvasahitāḥ), and six others of palāśa wood (parṇinaś ca tathā pare) were erected.
+When the time arrived for the erection of the sacrificial posts (_prāpte yūpocchraye tasmin_), six posts of _bilva_ wood (_ṣaḍ bailvāḥ_), as many (six) of _khadira_ wood stationed alongside the _bilva_ posts (_khādirās tathā tāvanto bilvasahitāḥ_), and six others of _palāśa_ wood (_parṇinaś ca tathā pare_) were erected.
 </details>
 </details>
 
@@ -1262,7 +1262,7 @@ is maintained at the length of extended arms. [1-14-22,23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One post of śleṣmātaka (rajjudāla) wood was ordained (śleṣmātakamayo diṣṭaḥ), and likewise two posts of devadāru wood were prescribed there (devadārumayas tathā dvāv eva tatra vihitau), spaced apart by the span of two outstretched arms (bāhuvyastaparigrahau).
+One post of _śleṣmātaka_ (_rajjudāla_) wood was ordained (_śleṣmātakamayo diṣṭaḥ_), and likewise two posts of _devadāru_ wood were prescribed there (_devadārumayas tathā dvāv eva tatra vihitau_), spaced apart by the span of two outstretched arms (_bāhuvyastaparigrahau_).
 </details>
 </details>
 
@@ -1316,7 +1316,7 @@ they are gold-pleated and decorated for the purpose of elegance to that ritual. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of these posts were fashioned by masters of the Śāstras and experts in the sacrifice (śāstrajñair yajñakovidaiḥ); and to adorn that sacrifice (śobhārthaṃ tasya yajñasya), they were embellished with gold (kāñcanālaṃkṛtā bhavan).
+All of these posts were fashioned by masters of the Śāstras and experts in the sacrifice (_śāstrajñair yajñakovidaiḥ_); and to adorn that sacrifice (_śobhārthaṃ tasya yajñasya_), they were embellished with gold (_kāñcanālaṃkṛtā bhavan_).
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ decoratively clothed with each cloth. [1-14-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those twenty-one sacrificial posts (ekaviṃśatiyūpās te), each measuring twenty-one cubits in height (ekaviṃśatyaratnayaḥ), were each individually adorned (ekaikaṃ samalaṃkṛtāḥ) with twenty-one garments (vāsobhir ekaviṃśadbhiḥ).
+Those twenty-one sacrificial posts (_ekaviṃśatiyūpās te_), each measuring twenty-one cubits in height (_ekaviṃśatyaratnayaḥ_), were each individually adorned (_ekaikaṃ samalaṃkṛtāḥ_) with twenty-one garments (_vāsobhir ekaviṃśadbhiḥ_).
 </details>
 </details>
 
@@ -1417,7 +1417,7 @@ that are smoothened, and thereby they are implanted procedurally. [1-14-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them, skilfully crafted by artisans and sturdy (śilpibhiḥ sukṛtā dṛḍhāḥ), octagonal in shape (aṣṭāśrayaḥ) and endowed with smooth surfaces (ślakṣṇarūpasamanvitāḥ), were duly implanted according to rule (vinyastā vidhivat sarve).
+All of them, skilfully crafted by artisans and sturdy (_śilpibhiḥ sukṛtā dṛḍhāḥ_), octagonal in shape (_aṣṭāśrayaḥ_) and endowed with smooth surfaces (_ślakṣṇarūpasamanvitāḥ_), were duly implanted according to rule (_vinyastā vidhivat sarve_).
 </details>
 </details>
 
@@ -1470,7 +1470,7 @@ The Seven Sages is the constellation of stars in the Ursa Major - The Great Bear
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Draped in raiments and worshipped with flowers and fragrant pastes (ācchāditās te vāsobhiḥ puṣpair gandhaiś ca pūjitāḥ), they shone with splendour like the Seven Ṛṣis in the heavens (saptarṣayo dīptimanto virājante yathā divi).
+Draped in raiments and worshipped with flowers and fragrant pastes (_ācchāditās te vāsobhiḥ puṣpair gandhaiś ca pūjitāḥ_), they shone with splendour like the Seven Ṛṣis in the heavens (_saptarṣayo dīptimanto virājante yathā divi_).
 </details>
 </details>
 
@@ -1527,7 +1527,7 @@ milk and other sacred liquids to the chanting of Vedic hymns.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The sacrificial bricks were fashioned in due measure according to rule (iṣṭakāś ca yathānyāyaṃ kāritāś ca pramāṇataḥ), and the fire-altar was piled there by Brāhmaṇas skilled in the geometry of the Śulbasūtras (cito ’gnir brāhmaṇais tatra kuśalaiḥ śulbakarmaṇi).
+The sacrificial bricks were fashioned in due measure according to rule (_iṣṭakāś ca yathānyāyaṃ kāritāś ca pramāṇataḥ_), and the fire-altar was piled there by Brāhmaṇas skilled in the geometry of the _Śulbasūtras_ (_cito ’gnir brāhmaṇais tatra kuśalaiḥ śulbakarmaṇi_).
 </details>
 </details>
 
@@ -1588,7 +1588,7 @@ altar is laid threefold bigger than the usual one.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That citya fire-altar of the lion among kings (sa cityo rājasiṃhasya), piled by expert twice-born priests (saṃcitaḥ kuśalair dvijaiḥ), had the form of Garuḍa with wings of gold (garuḍo rukmapakṣo vai), triple in scale and consisting of eighteen layers (triguṇo ’ṣṭādaśātmakaḥ).
+That _citya_ fire-altar of the lion among kings (_sa cityo rājasiṃhasya_), piled by expert twice-born priests (_saṃcitaḥ kuśalair dvijaiḥ_), had the form of Garuḍa with wings of gold (_garuḍo rukmapakṣo vai_), triple in scale and consisting of eighteen layers (_triguṇo ’ṣṭādaśātmakaḥ_).
 </details>
 </details>
 
@@ -1642,7 +1642,7 @@ according to the scriptural directives. [1-14-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sacrificial animals (paśavaḥ), as well as serpents and birds enjoined by Śāstra (uragāḥ pakṣiṇaś caiva yathāśāstraṃ pracoditāḥ), were tethered there (niyuktās tatra), each dedicated to its respective deity (tat tad uddiśya daivatam).
+Sacrificial animals (_paśavaḥ_), as well as serpents and birds enjoined by Śāstra (_uragāḥ pakṣiṇaś caiva yathāśāstraṃ pracoditāḥ_), were tethered there (_niyuktās tatra_), each dedicated to its respective deity (_tat tad uddiśya daivatam_).
 </details>
 </details>
 
@@ -1696,7 +1696,7 @@ to decide which is to be retained or let off.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the Śāmitra immolation rite, however, the sacrificial horse and the aquatic creatures (śāmitre tu hayas tatra tathā jalacarāś ca ye)—all of this was duly assigned by the sages according to Śāstra at that time (ṛṣibhiḥ sarvam evaitan niyuktaṃ śāstratas tadā).
+In the _Śāmitra_ immolation rite, however, the sacrificial horse and the aquatic creatures (_śāmitre tu hayas tatra tathā jalacarāś ca ye_)—all of this was duly assigned by the sages according to Śāstra at that time (_ṛṣibhiḥ sarvam evaitan niyuktaṃ śāstratas tadā_).
 </details>
 </details>
 
@@ -1747,7 +1747,7 @@ of that King Dasharatha. [1-14-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Three hundred principal sacrificial animals were bound to the posts there at that time (paśūnāṃ triśatam tatra yūpeṣu niyataṃ tadā), along with that peerless jewel of a horse belonging to King Daśaratha (aśvaratnottamaṃ tatra rājño daśarathasya ha).
+Three hundred principal sacrificial animals were bound to the posts there at that time (_paśūnāṃ triśatam tatra yūpeṣu niyataṃ tadā_), along with that peerless jewel of a horse belonging to King Daśaratha (_aśvaratnottamaṃ tatra rājño daśarathasya ha_).
 </details>
 </details>
 
@@ -1811,7 +1811,7 @@ act by piercing that horse, which is already dead, with golden needle-like knive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reverently tended and circumambulated that horse on all sides (kausalyā taṃ hayaṃ tatra paricarya samantataḥ), Queen Kausalyā with supreme joy traced the knife-paths upon it with three blades (kṛpāṇair visasārainaṃ tribhiḥ paramayā mudā).
+Having reverently tended and circumambulated that horse on all sides (_kausalyā taṃ hayaṃ tatra paricarya samantataḥ_), Queen Kausalyā with supreme joy traced the knife-paths upon it with three blades (_kṛpāṇair visasārainaṃ tribhiḥ paramayā mudā_).
 </details>
 </details>
 
@@ -1862,7 +1862,7 @@ that flew away like a bird. [1-14-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with a steadfast and composed mind (susthitena ca cetasā), Kausalyā abode for a single night beside that bird-swift steed (patatriṇā tadā sārdham avasad rajanīm ekām) out of desire for dharma (dharmakāmyayā).
+Then, with a steadfast and composed mind (_susthitena ca cetasā_), Kausalyā abode for a single night beside that bird-swift steed (_patatriṇā tadā sārdham avasad rajanīm ekām_) out of desire for _dharma_ (_dharmakāmyayā_).
 </details>
 </details>
 
@@ -1935,7 +1935,7 @@ priests took these wives by hand to bring them in contact with the dead horse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the Hotṛ, Adhvaryu, and Udgātṛ (together with the Brahmā) joined the Vāvātā (favourite queen) and the fourth queen (Pālākalī), along with the consecrated chief queen (Mahiṣī) and the neglected queen (Parivṛttī), with the horse’s foreleg (hastena samayojayan).
+Then the _Hotṛ_, _Adhvaryu_, and _Udgātṛ_ (together with the _Brahmā_) joined the _Vāvātā_ (favourite queen) and the fourth queen (_Pālākalī_), along with the consecrated chief queen (_Mahiṣī_) and the neglected queen (_Parivṛttī_), with the horse’s foreleg (_hastena samayojayan_).
 </details>
 </details>
 
@@ -2006,7 +2006,7 @@ have omentum according to Vedic texts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having extracted the omentum-fat of that swift steed (patatriṇas tasya vapām uddhṛtya), the self-controlled officiating priest of supreme ritual mastery (ṛtvik paramasaṃpannaḥ) cooked it according to Śāstra (śrapayāmāsa śāstrataḥ).
+Having extracted the omentum-fat of that swift steed (_patatriṇas tasya vapām uddhṛtya_), the self-controlled officiating priest of supreme ritual mastery (_ṛtvik paramasaṃpannaḥ_) cooked it according to Śāstra (_śrapayāmāsa śāstrataḥ_).
 </details>
 </details>
 
@@ -2061,7 +2061,7 @@ sin. [1-14-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the prescribed time and in due manner (yathākālaṃ yathānyāyam), the lord of men inhaled the fragrant smoke of that vapā oblation (dhūmagandhaṃ vapāyās tu jighrati sma narādhipaḥ), thereby driving away his own sin (nirṇudan pāpam ātmanaḥ).
+At the prescribed time and in due manner (_yathākālaṃ yathānyāyam_), the lord of men inhaled the fragrant smoke of that _vapā_ oblation (_dhūmagandhaṃ vapāyās tu jighrati sma narādhipaḥ_), thereby driving away his own sin (_nirṇudan pāpam ātmanaḥ_).
 </details>
 </details>
 
@@ -2106,7 +2106,7 @@ oblated all of them into fire. [1-14-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever limbs belonged to that horse (hayasya yāni cāṅgāni), all sixteen officiating Brāhmaṇa priests together (samastāḥ ṣoḍaśartvijaḥ) duly cast the entirety of them as oblations into the fire (tāni sarvāṇi brāhmaṇāḥ agnau prāsyanti vidhivat).
+And whatever limbs belonged to that horse (_hayasya yāni cāṅgāni_), all sixteen officiating Brāhmaṇa priests together (_samastāḥ ṣoḍaśartvijaḥ_) duly cast the entirety of them as oblations into the fire (_tāni sarvāṇi brāhmaṇāḥ agnau prāsyanti vidhivat_).
 </details>
 </details>
 
@@ -2152,7 +2152,7 @@ a rattan plant, cane. [1-14-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whereas in other sacrifices the meat-oblation is portioned out upon branches of the plakṣa fig tree (plakṣaśākhāsu yajñānām anyeṣāṃ kriyate haviḥ), for the Aśvamedha alone a portion prepared upon vetasa reed is prescribed (aśvamedhasya caikasya vaitaso bhāga iṣyate).
+Whereas in other sacrifices the meat-oblation is portioned out upon branches of the _plakṣa_ fig tree (_plakṣaśākhāsu yajñānām anyeṣāṃ kriyate haviḥ_), for the _Aśvamedha_ alone a portion prepared upon _vetasa_ reed is prescribed (_aśvamedhasya caikasya vaitaso bhāga iṣyate_).
 </details>
 </details>
 
@@ -2224,9 +2224,9 @@ variously connected rituals, in all his eagerness to appease gods for progeny.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** The Aśvamedha is reckoned by the Brāhmaṇas according to the Kalpasūtra as a three-day Soma sacrifice (tryaho ’śvamedhaḥ saṃkhyātaḥ kalpasūtreṇa brāhmaṇaiḥ); its first pressing day is ordained as a Catuṣṭoma (catuṣṭomam ahas tasya prathamaṃ parikalpitam).
+**40:** The _Aśvamedha_ is reckoned by the Brāhmaṇas according to the _Kalpasūtra_ as a three-day Soma sacrifice (_tryaho ’śvamedhaḥ saṃkhyātaḥ kalpasūtreṇa brāhmaṇaiḥ_); its first pressing day is ordained as a _Catuṣṭoma_ (_catuṣṭomam ahas tasya prathamaṃ parikalpitam_).
 
-**41:** Its second pressing day is reckoned as an Ukthya (ukthyaṃ dvitīyaṃ saṃkhyātam), and the following (third) day as an Atirātra (atirātraṃ tathottaram); furthermore, many other sacrifices ordained from consulting the Śāstras (vihitāḥ śāstradarśanāt) were also performed there (kāritās tatra bahavaḥ).
+**41:** Its second pressing day is reckoned as an _Ukthya_ (_ukthyaṃ dvitīyaṃ saṃkhyātam_), and the following (third) day as an _Atirātra_ (_atirātraṃ tathottaram_); furthermore, many other sacrifices ordained from consulting the Śāstras (_vihitāḥ śāstradarśanāt_) were also performed there (_kāritās tatra bahavaḥ_).
 </details>
 </details>
 
@@ -2290,7 +2290,7 @@ And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are perform
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Jyotiṣṭoma and Āyuṣṭoma, as well as two Atirātras, were performed (jyotiṣṭomāyuṣī caivam atirātrau ca nirmitau); and likewise the Abhijit, the Viśvajit, and two Āptoryāma great sacrifices (abhijid viśvajic caivam āptoryāmau mahākratuḥ).
+The _Jyotiṣṭoma_ and _Āyuṣṭoma_, as well as two _Atirātras_, were performed (_jyotiṣṭomāyuṣī caivam atirātrau ca nirmitau_); and likewise the _Abhijit_, the _Viśvajit_, and two _Āptoryāma_ great sacrifices (_abhijid viśvajic caivam āptoryāmau mahākratuḥ_).
 </details>
 </details>
 
@@ -2321,7 +2321,7 @@ The Jyotiṣṭoma and Āyuṣṭoma, as well as two Atirātras, were performed 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king, increaser of his own dynasty (svakulavardhanaḥ), bestowed the eastern quarter upon the Hotṛ (prācīṃ hotre dadau rājā diśam), the western quarter upon the Adhvaryu (adhvaryave pratīcīṃ tu), and the southern quarter upon the Brahmā (brahmaṇe dakṣiṇāṃ diśam).
+The king, increaser of his own dynasty (_svakulavardhanaḥ_), bestowed the eastern quarter upon the _Hotṛ_ (_prācīṃ hotre dadau rājā diśam_), the western quarter upon the _Adhvaryu_ (_adhvaryave pratīcīṃ tu_), and the southern quarter upon the _Brahmā_ (_brahmaṇe dakṣiṇāṃ diśam_).
 </details>
 </details>
 
@@ -2375,7 +2375,7 @@ by the Self-Created Brahma from earlier times. [1-14-44,43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And upon the Udgātṛ he bestowed the northern quarter (udgātre tu tathodīcīm)—for such was the sacrificial fee ordained of old (dakṣiṇaiṣā vinirmitā purā) in the great Aśvamedha sacrifice instituted by Svayambhū (svayambhūvihite).
+And upon the _Udgātṛ_ he bestowed the northern quarter (_udgātre tu tathodīcīm_)—for such was the sacrificial fee ordained of old (_dakṣiṇaiṣā vinirmitā purā_) in the great _Aśvamedha_ sacrifice instituted by Svayambhū (_svayambhūvihite_).
 </details>
 </details>
 
@@ -2426,7 +2426,7 @@ the officiating priests, called ritwiks, to promote his dynasty. [1-14-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus completed the sacrifice in accordance with ritual law (kratuṃ samāpya tu tadā nyāyataḥ), that bull among men, the king who exalted his lineage (kulavardhanaḥ), bestowed that entire earth upon the officiating priests (ṛtvigbhyo hi dadau rājā dharāṃ tām).
+Having thus completed the sacrifice in accordance with ritual law (_kratuṃ samāpya tu tadā nyāyataḥ_), that bull among men, the king who exalted his lineage (_kulavardhanaḥ_), bestowed that entire earth upon the officiating priests (_ṛtvigbhyo hi dadau rājā dharāṃ tām_).
 </details>
 </details>
 
@@ -2476,7 +2476,7 @@ his sins. [1-14-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having given the earth thus, the glorious scion of Ikṣvāku was filled with joy (evaṃ dattvā prahṛṣṭo ’bhūc chrīmān ikṣvākunandanaḥ); then all the officiating priests addressed the king who had been cleansed of all sin (ṛtvijas tv abruvan sarve rājānaṃ gatakilbiṣam):
+Having given the earth thus, the glorious scion of Ikṣvāku was filled with joy (_evaṃ dattvā prahṛṣṭo ’bhūc chrīmān ikṣvākunandanaḥ_); then all the officiating priests addressed the king who had been cleansed of all sin (_ṛtvijas tv abruvan sarve rājānaṃ gatakilbiṣam_):
 </details>
 </details>
 
@@ -2522,7 +2522,7 @@ king. [1-14-47]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You alone are worthy to protect the entire earth single-handedly (bhavān eva mahīṃ kṛtsnām eko rakṣitum arhati); we have no use for land (na bhūmyā kāryam asmākam), nor are we capable of governing it (na hi śaktāḥ sma pālane).”
+“You alone are worthy to protect the entire earth single-handedly (_bhavān eva mahīṃ kṛtsnām eko rakṣitum arhati_); we have no use for land (_na bhūmyā kāryam asmākam_), nor are we capable of governing it (_na hi śaktāḥ sma pālane_).”
 </details>
 </details>
 
@@ -2576,7 +2576,7 @@ may give us something else in barter, any modest thing. " [1-14-48]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For we are ever devoted to the recitation and study of our own Vedas (ratāḥ svādhyāyakaraṇe vayaṃ nityaṃ hi bhūmipa), O lord of the earth; therefore, pray grant us here some modest redemption-price (niṣkrayaṃ kiṃcid eveha prayacchatu bhavān iti).
+“For we are ever devoted to the recitation and study of our own Vedas (_ratāḥ svādhyāyakaraṇe vayaṃ nityaṃ hi bhūmipa_), O lord of the earth; therefore, pray grant us here some modest redemption-price (_niṣkrayaṃ kiṃcid eveha prayacchatu bhavān iti_).
 </details>
 </details>
 
@@ -2628,7 +2628,7 @@ the use of these vast expanses to us." So said the scholars. [1-14-49]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether precious gems, or gold, or cows, or whatever else lies ready at hand (maṇiratnaṃ suvarṇaṃ vā gāvo yad vā samudyatam)—bestow that upon us, O best of men (tat prayaccha naraśreṣṭha); we have no need of the earth (dharaṇyā na prayojanam).”
+“Whether precious gems, or gold, or cows, or whatever else lies ready at hand (_maṇiratnaṃ suvarṇaṃ vā gāvo yad vā samudyatam_)—bestow that upon us, O best of men (_tat prayaccha naraśreṣṭha_); we have no need of the earth (_dharaṇyā na prayojanam_).”
 </details>
 </details>
 
@@ -2701,7 +2701,7 @@ the lands earlier donated, hence it is an acceptable item.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the Brāhmaṇas who had crossed to the farthest shore of the Vedas (evam ukto narapatir brāhmaṇair vedapāragaiḥ), the king bestowed upon them one million cows (gavāṃ śatasahasrāṇi daśa tebhyo dadau nṛpaḥ),
+Thus addressed by the Brāhmaṇas who had crossed to the farthest shore of the Vedas (_evam ukto narapatir brāhmaṇair vedapāragaiḥ_), the king bestowed upon them one million cows (_gavāṃ śatasahasrāṇi daśa tebhyo dadau nṛpaḥ_),
 </details>
 </details>
 
@@ -2752,7 +2752,7 @@ to the enlightened sage Vashishta. [1-14-51b, 52a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And ten crores of gold coins and four times that amount (forty crores) of silver (daśakoṭiṃ suvarṇasya rajatasya caturguṇam). Then all the officiating priests together handed over that entire wealth (ṛtvijas tu tataḥ sarve pradaduḥ sahitā vasu)—
+And ten crores of gold coins and four times that amount (forty crores) of silver (_daśakoṭiṃ suvarṇasya rajatasya caturguṇam_). Then all the officiating priests together handed over that entire wealth (_ṛtvijas tu tataḥ sarve pradaduḥ sahitā vasu_)—
 </details>
 </details>
 
@@ -2800,7 +2800,7 @@ wealth passed on by Rishyasringa and Vashishta, and then they said, "We are high
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To the sage Ṛṣyaśṛṅga and the wise Vasiṣṭha (ṛṣyaśṛṅgāya munaye vasiṣṭhāya ca dhīmate); then, having had them equitably apportion the shares according to Śāstric rule (tatas te nyāyataḥ kṛtvā pravibhāgam), those foremost of the twice-born—
+To the sage Ṛṣyaśṛṅga and the wise Vasiṣṭha (_ṛṣyaśṛṅgāya munaye vasiṣṭhāya ca dhīmate_); then, having had them equitably apportion the shares according to Śāstric rule (_tatas te nyāyataḥ kṛtvā pravibhāgam_), those foremost of the twice-born—
 </details>
 </details>
 
@@ -2866,7 +2866,7 @@ ten million gold coins. [1-14-53b, 54a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them, with deeply contented minds and exceeding joy, replied to the king (suprītamanasaḥ sarve pratyūcur muditā bhṛśam); thereafter, with a composed mind (susamāhitaḥ), the king bestowed gold upon the visiting Brāhmaṇa spectators (tataḥ prasarpakebhyas tu)—
+All of them, with deeply contented minds and exceeding joy, replied to the king (_suprītamanasaḥ sarve pratyūcur muditā bhṛśam_); thereafter, with a composed mind (_susamāhitaḥ_), the king bestowed gold upon the visiting Brāhmaṇa spectators (_tataḥ prasarpakebhyas tu_)—
 </details>
 </details>
 
@@ -2916,7 +2916,7 @@ Brahman and who is beseeching. [1-14-54a, 55a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Namely, he then gave ten million pieces of pure Jāmbūnada gold to the Brāhmaṇas (jāmbūnadaṃ koṭisaṃkhyaṃ brāhmaṇebhyo dadau tadā); and next, to a certain indigent Brāhmaṇa (daridrāya dvijāyātha), he gave the superb ornament from his own arm (hastābharaṇam uttamam)—
+Namely, he then gave ten million pieces of pure _Jāmbūnada_ gold to the Brāhmaṇas (_jāmbūnadaṃ koṭisaṃkhyaṃ brāhmaṇebhyo dadau tadā_); and next, to a certain indigent Brāhmaṇa (_daridrāya dvijāyātha_), he gave the superb ornament from his own arm (_hastābharaṇam uttamam_)—
 </details>
 </details>
 
@@ -2968,7 +2968,7 @@ them dutifully with his senses fluttering with happiness. [1-14-55b, 56a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bestowing it upon that supplicant who begged of him (kasmaicid yācamānāya), the delighter of the Rāghavas (dadau rāghavanandanaḥ); then, when the twice-born were duly gratified (tataḥ prīteṣu vidhivad dvijeṣu), the king who dearly loved the Brāhmaṇas (dvijavatsalaḥ)—
+Bestowing it upon that supplicant who begged of him (_kasmaicid yācamānāya_), the delighter of the Rāghavas (_dadau rāghavanandanaḥ_); then, when the twice-born were duly gratified (_tataḥ prīteṣu vidhivad dvijeṣu_), the king who dearly loved the Brāhmaṇas (_dvijavatsalaḥ_)—
 </details>
 </details>
 
@@ -3039,7 +3039,7 @@ of Veda itself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his senses overwhelmed with joy (harṣavyākulitendriyaḥ), bowed down in salutation before them (praṇāmam akarot teṣām); thereupon manifold auspicious benedictions were pronounced over him by the Brāhmaṇas (tasyāśiṣo ’tha vividhā brāhmaṇaiḥ samudāhṛtāḥ)—
+With his senses overwhelmed with joy (_harṣavyākulitendriyaḥ_), bowed down in salutation before them (_praṇāmam akarot teṣām_); thereupon manifold auspicious benedictions were pronounced over him by the Brāhmaṇas (_tasyāśiṣo ’tha vividhā brāhmaṇaiḥ samudāhṛtāḥ_)—
 </details>
 </details>
 
@@ -3100,7 +3100,7 @@ be undertaken by many of the best kings. [1-14-57b, 58a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Over that munificent hero among men as he lay prostrate in homage upon the ground (udārasya nṛvīrasya dharaṇyāṃ patitasya ca); then, with a joyful heart, the king—having accomplished that peerless sacrifice (tataḥ prītamanā rājā prāpya yajñam anuttamam),
+Over that munificent hero among men as he lay prostrate in homage upon the ground (_udārasya nṛvīrasya dharaṇyāṃ patitasya ca_); then, with a joyful heart, the king—having accomplished that peerless sacrifice (_tataḥ prītamanā rājā prāpya yajñam anuttamam_),
 </details>
 </details>
 
@@ -3155,7 +3155,7 @@ are eligible to perform the ritual for the expansion of my dynasty." [1-14-58b, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Which destroys all sin, leads to heaven, and is hard to accomplish even for foremost kings (pāpāpahaṃ svarnayanaṃ dustaraṃ pārthivarṣabhaiḥ)—King Daśaratha then spoke to Ṛṣyaśṛṅga (tato ’bravīd ṛṣyaśṛṅgaṃ rājā daśarathas tadā):
+Which destroys all sin, leads to heaven, and is hard to accomplish even for foremost kings (_pāpāpahaṃ svarnayanaṃ dustaraṃ pārthivarṣabhaiḥ_)—King Daśaratha then spoke to Ṛṣyaśṛṅga (_tato ’bravīd ṛṣyaśṛṅgaṃ rājā daśarathas tadā_):
 </details>
 </details>
 
@@ -3200,7 +3200,7 @@ king, there will be four sons to you that ennoble your dynasty. [1-14-59b, c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O sage of noble vows (suvrata), you ought now to perform that rite which will increase and perpetuate my lineage (kulasya vardhanaṃ tat tu kartum arhasi)!” And that best of the twice-born replied to the king, “So be it!” (tatheti ca sa rājānam uvāca dvijasattamaḥ), adding: “O King, four sons shall be born to you who will uphold your dynasty (bhaviṣyanti sutā rājaṃś catvāras te kulodvahāḥ)!”
+“O sage of noble vows (_suvrata_), you ought now to perform that rite which will increase and perpetuate my lineage (_kulasya vardhanaṃ tat tu kartum arhasi_)!” And that best of the twice-born replied to the king, “So be it!” (_tatheti ca sa rājānam uvāca dvijasattamaḥ_), adding: “O King, four sons shall be born to you who will uphold your dynasty (_bhaviṣyanti sutā rājaṃś catvāras te kulodvahāḥ_)!”
 </details>
 </details>
 
@@ -3270,6 +3270,6 @@ a state of ecstasy and venerating that great soul, Rishyasringa, again said this
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those sweet words of the sage (sa tasya vākyaṃ madhuraṃ niśamya) and bowing to him with a devout mind (praṇamya tasmai prayato nṛpendraḥ), the great-souled lord of kings attained supreme joy (jagāma harṣaṃ paramaṃ mahātmā) and spoke once again to Ṛṣyaśṛṅga (tam ṛṣyaśṛṅgaṃ punar apy uvāca).
+Hearing those sweet words of the sage (_sa tasya vākyaṃ madhuraṃ niśamya_) and bowing to him with a devout mind (_praṇamya tasmai prayato nṛpendraḥ_), the great-souled lord of kings attained supreme joy (_jagāma harṣaṃ paramaṃ mahātmā_) and spoke once again to Ṛṣyaśṛṅga (_tam ṛṣyaśṛṅgaṃ punar apy uvāca_).
 </details>
 </details>

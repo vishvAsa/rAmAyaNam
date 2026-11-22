@@ -53,7 +53,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāma of unwearied deeds (rāmasyākliṣṭa-karmaṇaḥ), remaining suspended head-downward just as he was (avāk-śirās tathā bhūtvā), he spoke this reply:
+Hearing those words of Rāma of unwearied deeds (_rāmasyākliṣṭa-karmaṇaḥ_), remaining suspended head-downward just as he was (_avāk-śirās tathā bhūtvā_), he spoke this reply:
 </details>
 </details>
 
@@ -84,7 +84,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am born of a śūdra womb (śūdra-yonyāṃ prasūto ’smi), Śambūka by name (śambūko nāma nāmataḥ); I seek godhood in this very body (devatvaṃ prārthaye ... sa-śarīraḥ), O Rāma of great renown.
+“I am born of a śūdra womb (_śūdra-yonyāṃ prasūto ’smi_), Śambūka by name (_śambūko nāma nāmataḥ_); I seek godhood in this very body (_devatvaṃ prārthaye ... sa-śarīraḥ_), O Rāma of great renown.
 </details>
 </details>
 
@@ -120,7 +120,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not utter falsehood, O Rāma (na mithyā ’haṃ vade rāma), out of my desire to win the world of the gods (deva-loka-jigīṣayā); know me, O Kākutstha, to be a śūdra engaged in fierce austerity (tapa ugraṃ samāsthitam).”
+“I do not utter falsehood, O Rāma (_na mithyā ’haṃ vade rāma_), out of my desire to win the world of the gods (_deva-loka-jigīṣayā_); know me, O Kākutstha, to be a śūdra engaged in fierce austerity (_tapa ugraṃ samāsthitam_).”
 </details>
 </details>
 
@@ -156,7 +156,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as that śūdra spoke (bhāṣatas tasya śūdrasya), Rāghava drew from its sheath his spotless sword of dazzling sheen (khaḍgaṃ surucira-prabham niṣkṛṣya kośād vimalam) and severed his head (śiraś ciccheda rāghavaḥ).
+Even as that śūdra spoke (_bhāṣatas tasya śūdrasya_), Rāghava drew from its sheath his spotless sword of dazzling sheen (_khaḍgaṃ surucira-prabham niṣkṛṣya kośād vimalam_) and severed his head (_śiraś ciccheda rāghavaḥ_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that śūdra was slain (tasmiñ chūdre hate), the gods with Indra and those led by Agni (devāḥ sendrāḥ sāgni-purogamāḥ) praised Kākutstha again and again (praśaśaṃsur muhur muhuḥ), crying, “Well done! Well done (sādhu sādhu)!”
+When that śūdra was slain (_tasmiñ chūdre hate_), the gods with Indra and those led by Agni (_devāḥ sendrāḥ sāgni-purogamāḥ_) praised Kākutstha again and again (_praśaśaṃsur muhur muhuḥ_), crying, “Well done! Well done (_sādhu sādhu_)!”
 </details>
 </details>
 
@@ -224,7 +224,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A mighty shower of celestial, deeply fragrant blossoms (puṣpa-vṛṣṭir mahaty āsīd divyānāṃ su-sugandhinām), loosed by the wind (vāyu-muktānām), fell down on every side (sarvataḥ prapapāta ha).
+A mighty shower of celestial, deeply fragrant blossoms (_puṣpa-vṛṣṭir mahaty āsīd divyānāṃ su-sugandhinām_), loosed by the wind (_vāyu-muktānām_), fell down on every side (_sarvataḥ prapapāta ha_).
 </details>
 </details>
 
@@ -266,7 +266,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exceedingly pleased, the gods spoke to Rāma of unfailing valor (suprītāś cābruvan rāmaṃ devāḥ satya-parākramam): “Well done by you is this task of the gods, O gentle one (sura-kāryam idaṃ saumya sukṛtaṃ te), O great-minded hero!
+Exceedingly pleased, the gods spoke to Rāma of unfailing valor (_suprītāś cābruvan rāmaṃ devāḥ satya-parākramam_): “Well done by you is this task of the gods, O gentle one (_sura-kāryam idaṃ saumya sukṛtaṃ te_), O great-minded hero!
 </details>
 </details>
 
@@ -300,7 +300,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ask now a boon, O gentle one, whatever you desire, O subduer of foes (gṛhāṇa ca varaṃ saumya yat tvam icchasy arindama); for through your deed, O delight of the Raghus, this śūdra has not become a sharer in heaven (svarga-bhāṅ na hi śūdro ’yaṃ tvat-kṛte).”
+“Ask now a boon, O gentle one, whatever you desire, O subduer of foes (_gṛhāṇa ca varaṃ saumya yat tvam icchasy arindama_); for through your deed, O delight of the Raghus, this śūdra has not become a sharer in heaven (_svarga-bhāṅ na hi śūdro ’yaṃ tvat-kṛte_).”
 </details>
 </details>
 
@@ -334,7 +334,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of the gods (devānāṃ bhāṣitaṃ śrutvā), Rāghava, utterly composed (rāghavaḥ su-samāhitaḥ), spoke with joined palms (uvāca prāñjalir vākyam) to thousand-eyed Purandara [Indra]:
+Hearing the speech of the gods (_devānāṃ bhāṣitaṃ śrutvā_), Rāghava, utterly composed (_rāghavaḥ su-samāhitaḥ_), spoke with joined palms (_uvāca prāñjalir vākyam_) to thousand-eyed Purandara [Indra]:
 </details>
 </details>
 
@@ -368,7 +368,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If the gods are pleased with me (yadi devāḥ prasannā me), let that son of the brahmin live (dvija-putraḥ sa jīvatu)! Grant me this boon (diśantu varam etaṃ me)—it is my supreme desire (īpsitaṃ paramaṃ mama).
+“If the gods are pleased with me (_yadi devāḥ prasannā me_), let that son of the brahmin live (_dvija-putraḥ sa jīvatu_)! Grant me this boon (_diśantu varam etaṃ me_)—it is my supreme desire (_īpsitaṃ paramaṃ mama_).
 </details>
 </details>
 
@@ -402,7 +402,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through my fault (mamāpacārāt), that sole little son of the brahmin (brāhmaṇasyaika-putrakaḥ), though his allotted time had not come (aprāpta-kālaḥ), was carried off by Time to the abode of Vaivasvata [Yama] (kālena nīto vaivasvata-kṣayam).
+“Through my fault (_mamāpacārāt_), that sole little son of the brahmin (_brāhmaṇasyaika-putrakaḥ_), though his allotted time had not come (_aprāpta-kālaḥ_), was carried off by Time to the abode of Vaivasvata [Yama] (_kālena nīto vaivasvata-kṣayam_).
 </details>
 </details>
 
@@ -436,7 +436,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Restore him to life—may good attend you (taṃ jīvayatha bhadraṃ vo)—you ought not to render me untruthful (nānṛtaṃ kartum arhatha); for I have pledged this word to the brahmin (dvijasya saṃśruto ’rtho me): ‘I shall bring your son back to life (jīvayiṣyāmi te sutam).’”
+“Restore him to life—may good attend you (_taṃ jīvayatha bhadraṃ vo_)—you ought not to render me untruthful (_nānṛtaṃ kartum arhatha_); for I have pledged this word to the brahmin (_dvijasya saṃśruto ’rtho me_): ‘I shall bring your son back to life (_jīvayiṣyāmi te sutam_).’”
 </details>
 </details>
 
@@ -478,7 +478,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāghava (rāghavasya tu tad vākyaṃ śrutvā), those foremost of the celestials (vibudha-sattamāḥ), delighted, answered Rāghava with words full of affection (pratyucū rāghavaṃ prītā devāḥ prīti-samanvitam):
+Hearing those words of Rāghava (_rāghavasya tu tad vākyaṃ śrutvā_), those foremost of the celestials (_vibudha-sattamāḥ_), delighted, answered Rāghava with words full of affection (_pratyucū rāghavaṃ prītā devāḥ prīti-samanvitam_):
 </details>
 </details>
 
@@ -512,7 +512,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be completely at ease, O Kākutstha (nirvṛto bhava kākutstha)! This very day that boy has regained life (so ’sminn ahani bālakaḥ jīvitaṃ prāptavān bhūyaḥ) and has been reunited with his kinsmen (sametaś cāpi bandhubhiḥ).
+“Be completely at ease, O Kākutstha (_nirvṛto bhava kākutstha_)! This very day that boy has regained life (_so ’sminn ahani bālakaḥ jīvitaṃ prāptavān bhūyaḥ_) and has been reunited with his kinsmen (_sametaś cāpi bandhubhiḥ_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the very moment, O Kākutstha, that this śūdra was struck down (yasmin muhūrte ... śūdro ’yaṃ vinipātitaḥ), in that very moment that boy was reunited with life (tasmin muhūrte bālo ’sau jīvena samayujyata).
+“In the very moment, O Kākutstha, that this śūdra was struck down (_yasmin muhūrte ... śūdro ’yaṃ vinipātitaḥ_), in that very moment that boy was reunited with life (_tasmin muhūrte bālo ’sau jīvena samayujyata_).
 </details>
 </details>
 
@@ -586,9 +586,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “May welfare attend you, may good fortune be yours (svasti prāpnuhi bhadraṃ te)—let us now depart, O bull among men (sādhu yāma nararṣabha)! We wish to behold the hermitage of Agastya, O Rāghava (agastyasyāśrama-padaṃ draṣṭum icchāma rāghava).
+**16:** “May welfare attend you, may good fortune be yours (_svasti prāpnuhi bhadraṃ te_)—let us now depart, O bull among men (_sādhu yāma nararṣabha_)! We wish to behold the hermitage of Agastya, O Rāghava (_agastyasyāśrama-padaṃ draṣṭum icchāma rāghava_).
 
-**17:** “For the consecration of that brahmarṣi of exceeding radiance has reached its close (tasya dīkṣā samāptā hi brahmarṣeḥ su-mahā-dyuteḥ); his twelfth year has passed while abiding in his water-bed penance (dvādaśaṃ hi gataṃ varṣaṃ jala-śayyāṃ samāsataḥ).
+**17:** “For the consecration of that brahmarṣi of exceeding radiance has reached its close (_tasya dīkṣā samāptā hi brahmarṣeḥ su-mahā-dyuteḥ_); his twelfth year has passed while abiding in his water-bed penance (_dvādaśaṃ hi gataṃ varṣaṃ jala-śayyāṃ samāsataḥ_).
 </details>
 </details>
 
@@ -623,7 +623,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Kākutstha, we shall go to congratulate that sage (tad gamiṣyāmo muniṃ samabhinanditum); do you also come—may good fortune be yours (tvaṃ cāpy āgaccha bhadraṃ te)—to behold that foremost of seers (draṣṭuṃ tam ṛṣi-sattamam)!”
+“Therefore, O Kākutstha, we shall go to congratulate that sage (_tad gamiṣyāmo muniṃ samabhinanditum_); do you also come—may good fortune be yours (_tvaṃ cāpy āgaccha bhadraṃ te_)—to behold that foremost of seers (_draṣṭuṃ tam ṛṣi-sattamam_)!”
 </details>
 </details>
 
@@ -667,7 +667,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Promising “So be it!” to the gods (sa tatheti pratijñāya devānām), that delight of the Raghus ascended that gold-adorned aerial car Puṣpaka (āruroha vimānaṃ taṃ puṣpakaṃ hema-bhūṣitam).
+Promising “So be it!” to the gods (_sa tatheti pratijñāya devānām_), that delight of the Raghus ascended that gold-adorned aerial car Puṣpaka (_āruroha vimānaṃ taṃ puṣpakaṃ hema-bhūṣitam_).
 </details>
 </details>
 
@@ -693,7 +693,7 @@ Promising “So be it!” to the gods (sa tatheti pratijñāya devānām), that 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those gods set out in their vast, spacious aerial cars (vimānair bahu-vistaraiḥ), and Rāma too swiftly followed them to the penance-grove of the pitcher-born sage (kumbha-yoner tapo-vanam).
+Then those gods set out in their vast, spacious aerial cars (_vimānair bahu-vistaraiḥ_), and Rāma too swiftly followed them to the penance-grove of the pitcher-born sage (_kumbha-yoner tapo-vanam_).
 </details>
 </details>
 
@@ -719,7 +719,7 @@ Then those gods set out in their vast, spacious aerial cars (vimānair bahu-vist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the gods arrived (dṛṣṭvā tu devān samprāptān), the righteous Agastya, treasury of austerities (agastyas tapasāṃ nidhiḥ), honored them all without distinction (arcayāmāsa ... sarvāṃs tān aviśeṣataḥ).
+Beholding the gods arrived (_dṛṣṭvā tu devān samprāptān_), the righteous Agastya, treasury of austerities (_agastyas tapasāṃ nidhiḥ_), honored them all without distinction (_arcayāmāsa ... sarvāṃs tān aviśeṣataḥ_).
 </details>
 </details>
 
@@ -745,7 +745,7 @@ Beholding the gods arrived (dṛṣṭvā tu devān samprāptān), the righteous
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having accepted his hospitality and honored the great sage in return (pratigṛhya tataḥ pūjāṃ sampūjya ca mahā-munim), those thrilled immortals departed for the vault of heaven together with their attendants (jagmus te tridaśā hṛṣṭā nāka-pṛṣṭhaṃ sahānugaiḥ).
+Having accepted his hospitality and honored the great sage in return (_pratigṛhya tataḥ pūjāṃ sampūjya ca mahā-munim_), those thrilled immortals departed for the vault of heaven together with their attendants (_jagmus te tridaśā hṛṣṭā nāka-pṛṣṭhaṃ sahānugaiḥ_).
 </details>
 </details>
 
@@ -771,7 +771,7 @@ Having accepted his hospitality and honored the great sage in return (pratigṛh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When they had departed (gateṣu teṣu), Kākutstha descended from Puṣpaka (puṣpakād avaruhya ca) and bowed in reverence to Agastya, foremost of seers (tato ’bhivādayāmāsa hy agastyam ṛṣi-sattamam).
+When they had departed (_gateṣu teṣu_), Kākutstha descended from Puṣpaka (_puṣpakād avaruhya ca_) and bowed in reverence to Agastya, foremost of seers (_tato ’bhivādayāmāsa hy agastyam ṛṣi-sattamam_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ When they had departed (gateṣu teṣu), Kākutstha descended from Puṣpaka (p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed to that great-souled sage, who blazed as though with fire (jvalantam iva tejasā), and having received supreme hospitality (ātithyaṃ paramaṃ prāpya), that lord of men took his seat (niṣasāda narādhipaḥ).
+Having bowed to that great-souled sage, who blazed as though with fire (_jvalantam iva tejasā_), and having received supreme hospitality (_ātithyaṃ paramaṃ prāpya_), that lord of men took his seat (_niṣasāda narādhipaḥ_).
 </details>
 </details>
 
@@ -831,7 +831,7 @@ Welcoming Rāma as his ever-honored guest abiding perpetually in his heart, Agas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mahā-tejāḥ kumbha-yonir mahā-tapāḥ): “Welcome to you, O foremost of men (svāgataṃ te nara-śreṣṭha)! By good fortune have you arrived, O Rāghava (diṣṭyā prāpto ’si rāghava)!
+To him spoke the greatly resplendent pitcher-born sage of mighty austerity (_mahā-tejāḥ kumbha-yonir mahā-tapāḥ_): “Welcome to you, O foremost of men (_svāgataṃ te nara-śreṣṭha_)! By good fortune have you arrived, O Rāghava (_diṣṭyā prāpto ’si rāghava_)!
 </details>
 </details>
 
@@ -857,7 +857,7 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are deeply esteemed by me, O Rāma (tvaṃ me bahu-mato rāma), for your many supreme virtues (guṇair bahubhir uttamaiḥ); you are an honored guest (atithiḥ pūjanīyaś ca) and ever abide within my heart (mama nityaṃ hṛdi sthitaḥ).
+“You are deeply esteemed by me, O Rāma (_tvaṃ me bahu-mato rāma_), for your many supreme virtues (_guṇair bahubhir uttamaiḥ_); you are an honored guest (_atithiḥ pūjanīyaś ca_) and ever abide within my heart (_mama nityaṃ hṛdi sthitaḥ_).
 </details>
 </details>
 
@@ -883,7 +883,7 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the gods tell how you have come here as the slayer of the śūdra (surā hi kathayanti tvām āgataṃ śūdra-ghātinam), and how through dharma you have restored the brahmin’s son to life (brāhmaṇasya tu dharmeṇa tvayā jīvāpitaḥ sutaḥ).
+“For the gods tell how you have come here as the slayer of the śūdra (_surā hi kathayanti tvām āgataṃ śūdra-ghātinam_), and how through dharma you have restored the brahmin’s son to life (_brāhmaṇasya tu dharmeṇa tvayā jīvāpitaḥ sutaḥ_).
 </details>
 </details>
 
@@ -913,9 +913,9 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “Let the night be spent here in my presence, O Rāghava (uṣyatāṃ ceha rajanī sakāśe mama rāghava); at dawn you shall indeed return to your city in Puṣpaka (prabhāte puṣpakeṇa tvaṃ gantā ’si puram eva hi).
+**28:** “Let the night be spent here in my presence, O Rāghava (_uṣyatāṃ ceha rajanī sakāśe mama rāghava_); at dawn you shall indeed return to your city in Puṣpaka (_prabhāte puṣpakeṇa tvaṃ gantā ’si puram eva hi_).
 
-**29:** “For you are the glorious Nārāyaṇa (tvaṃ hi nārāyaṇaḥ śrīmān), and in you all things stand established (tvayi sarvaṃ pratiṣṭhitam); you are the Lord of all the gods (tvaṃ prabhuḥ sarva-devānām), you are the eternal Puruṣa (puruṣas tvaṃ sanātanaḥ)!
+**29:** “For you are the glorious Nārāyaṇa (_tvaṃ hi nārāyaṇaḥ śrīmān_), and in you all things stand established (_tvayi sarvaṃ pratiṣṭhitam_); you are the Lord of all the gods (_tvaṃ prabhuḥ sarva-devānām_), you are the eternal Puruṣa (_puruṣas tvaṃ sanātanaḥ_)!
 </details>
 </details>
 
@@ -941,7 +941,7 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this celestial ornament, O gentle one, fashioned by Viśvakarman (idaṃ cābharaṇaṃ saumya nirmitaṃ viśva-karmaṇā), divine in its heavenly form and blazing with its own splendor (divyaṃ divyena vapuṣā dīpyamānaṃ sva-tejasā)—accept it, O Kākutstha, and do what pleases me, O Rāghava (pratigṛhṇīṣva kākutstha mat-priyaṃ kuru rāghava)!”
+“And this celestial ornament, O gentle one, fashioned by Viśvakarman (_idaṃ cābharaṇaṃ saumya nirmitaṃ viśva-karmaṇā_), divine in its heavenly form and blazing with its own splendor (_divyaṃ divyena vapuṣā dīpyamānaṃ sva-tejasā_)—accept it, O Kākutstha, and do what pleases me, O Rāghava (_pratigṛhṇīṣva kākutstha mat-priyaṃ kuru rāghava_)!”
 </details>
 </details>
 
@@ -975,7 +975,7 @@ Declaring that re-gifting a received treasure to one capable of sustaining and d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For in giving away once more what has been received as a gift (dattasya hi punar-dāne), exceedingly great merit is declared (su-mahat phalam ucyate); and you are indeed capable of sustaining even the Maruts together with Indra (bharaṇe hi bhavān śaktaḥ sendrāṇāṃ marutām api).
+“For in giving away once more what has been received as a gift (_dattasya hi punar-dāne_), exceedingly great merit is declared (_su-mahat phalam ucyate_); and you are indeed capable of sustaining even the Maruts together with Indra (_bharaṇe hi bhavān śaktaḥ sendrāṇāṃ marutām api_).
 </details>
 </details>
 
@@ -1003,7 +1003,7 @@ Declaring that re-gifting a received treasure to one capable of sustaining and d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For you are able to ferry across even the celestials with Indra (tvaṃ hi śaktas tārayituṃ sendrān api divaukasaḥ); therefore I shall present it to you in due form—accept it, O lord of men (tasmāt pradāsye vidhivat tat pratīccha narādhipa)—this wondrous celestial ornament, blazing like the sun (divyam ābharaṇaṃ citraṃ pradīptam iva bhāskaram).”
+“For you are able to ferry across even the celestials with Indra (_tvaṃ hi śaktas tārayituṃ sendrān api divaukasaḥ_); therefore I shall present it to you in due form—accept it, O lord of men (_tasmāt pradāsye vidhivat tat pratīccha narādhipa_)—this wondrous celestial ornament, blazing like the sun (_divyam ābharaṇaṃ citraṃ pradīptam iva bhāskaram_).”
 </details>
 </details>
 
@@ -1031,9 +1031,9 @@ Declaring that re-gifting a received treasure to one capable of sustaining and d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** Then that great chariot-warrior of the Ikṣvākus (ikṣvākūṇāṃ mahā-rathaḥ), Rāma, foremost among the wise (rāmo matimatāṃ śreṣṭhaḥ), spoke to that great-souled sage, mindful of kṣatriya dharma (kṣatra-dharmam anusmaran):
+**33:** Then that great chariot-warrior of the Ikṣvākus (_ikṣvākūṇāṃ mahā-rathaḥ_), Rāma, foremost among the wise (_rāmo matimatāṃ śreṣṭhaḥ_), spoke to that great-souled sage, mindful of kṣatriya dharma (_kṣatra-dharmam anusmaran_):
 
-**34:** “This acceptance of gifts, O blessed one, is blameless for a brāhmaṇa (pratigraho ’yaṃ bhagavan brāhmaṇasyāvigarhitaḥ); how indeed may I, a kṣatriya, accept it (gṛhṇīyāṃ kṣatriyo ’haṃ vai katham), O bull among brāhmaṇas—
+**34:** “This acceptance of gifts, O blessed one, is blameless for a brāhmaṇa (_pratigraho ’yaṃ bhagavan brāhmaṇasyāvigarhitaḥ_); how indeed may I, a kṣatriya, accept it (_gṛhṇīyāṃ kṣatriyo ’haṃ vai katham_), O bull among brāhmaṇas—
 </details>
 </details>
 
@@ -1061,7 +1061,7 @@ Declaring that re-gifting a received treasure to one capable of sustaining and d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“especially when given by a brāhmaṇa (brāhmaṇena viśeṣeṇa dattam)? You ought to explain that (tad vaktum arhasi)!” Thus addressed by Rāma (evam uktas tu rāmeṇa), the great seer replied:
+“especially when given by a brāhmaṇa (_brāhmaṇena viśeṣeṇa dattam_)? You ought to explain that (_tad vaktum arhasi_)!” Thus addressed by Rāma (_evam uktas tu rāmeṇa_), the great seer replied:
 </details>
 </details>
 
@@ -1097,9 +1097,9 @@ Agastya relates how the kingless creatures of the Kṛta age appealed to Brahmā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Of old, O Rāma, in the Kṛta age, that ancient age permeated by Brahman (āsan kṛta-yuge rāma brahma-bhūte purā-yuge), all earthly subjects were without a king (apārthivāḥ prajāḥ sarvāḥ), whereas the gods had Śatakratu [Indra] (surāṇāṃ tu śatakratuḥ).
+**36:** “Of old, O Rāma, in the Kṛta age, that ancient age permeated by Brahman (_āsan kṛta-yuge rāma brahma-bhūte purā-yuge_), all earthly subjects were without a king (_apārthivāḥ prajāḥ sarvāḥ_), whereas the gods had Śatakratu [Indra] (_surāṇāṃ tu śatakratuḥ_).
 
-**37:** “Those creatures hastened to the Lord of the lords of gods [Brahmā] seeking a king (tāḥ prajā deva-deveśaṃ rājārthaṃ samupādravan): ‘By you, O God, Śatakratu has been established as king of the celestials (surāṇāṃ sthāpito rājā tvayā deva śatakratuḥ);
+**37:** “Those creatures hastened to the Lord of the lords of gods [Brahmā] seeking a king (_tāḥ prajā deva-deveśaṃ rājārthaṃ samupādravan_): ‘By you, O God, Śatakratu has been established as king of the celestials (_surāṇāṃ sthāpito rājā tvayā deva śatakratuḥ_);
 </details>
 </details>
 
@@ -1129,9 +1129,9 @@ Agastya relates how the kingless creatures of the Kṛta age appealed to Brahmā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** “‘bestow upon us too, O Lord of the worlds, a terrestrial monarch, a bull among men (prayaccha no hi lokeśa pārthivaṃ nara-puṅgavam), offering reverence to whom we may walk free of all sin (yasmai pūjāṃ prayuñjānā dhūta-pāpāś caremahi).
+**38:** “‘bestow upon us too, O Lord of the worlds, a terrestrial monarch, a bull among men (_prayaccha no hi lokeśa pārthivaṃ nara-puṅgavam_), offering reverence to whom we may walk free of all sin (_yasmai pūjāṃ prayuñjānā dhūta-pāpāś caremahi_).
 
-**39:** “‘We will not dwell without a king—this is our firmest resolve (na vasāmo vinā rājñā eṣa no niścayaḥ paraḥ)!’ Hearing the words of the creatures and determining that supreme purpose (prajānāṃ vacanaṃ śrutvā niścayitvā ’rtham uttamam),
+**39:** “‘We will not dwell without a king—this is our firmest resolve (_na vasāmo vinā rājñā eṣa no niścayaḥ paraḥ_)!’ Hearing the words of the creatures and determining that supreme purpose (_prajānāṃ vacanaṃ śrutvā niścayitvā ’rtham uttamam_),
 </details>
 </details>
 
@@ -1161,9 +1161,9 @@ Agastya relates how the kingless creatures of the Kṛta age appealed to Brahmā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** “Brahmā, foremost of the gods, then summoned all the World-Guardians together with Vāsava [Indra] (lokapālān sa-vāsavān samāhūya) and declared: ‘Give forth portions of your own splendor (tejo-bhāgān prayacchata)!’
+**40:** “Brahmā, foremost of the gods, then summoned all the World-Guardians together with Vāsava [Indra] (_lokapālān sa-vāsavān samāhūya_) and declared: ‘Give forth portions of your own splendor (_tejo-bhāgān prayacchata_)!’
 
-**41:** “Thereupon all the World-Guardians bestowed portions of their own radiance (dadur lokapālāḥ sarve bhāgān sva-tejasaḥ); and then Brahmā sneezed (akṣupac ca tato brahmā), from which King Kṣupa was born (yato jātaḥ kṣupo nṛpaḥ).
+**41:** “Thereupon all the World-Guardians bestowed portions of their own radiance (_dadur lokapālāḥ sarve bhāgān sva-tejasaḥ_); and then Brahmā sneezed (_akṣupac ca tato brahmā_), from which King Kṣupa was born (_yato jātaḥ kṣupo nṛpaḥ_).
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ Agastya explains how Brahmā infused King Kṣupa with the portions of Indra, Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Brahmā then united him with those portions of the World-Guardians (taṃ brahmā lokapālānāṃ sahāṃśaiḥ samayojayat) and bestowed Kṣupa upon those subjects as their king and sovereign lord (dadau nṛpaṃ tāsāṃ prajānām īśvaraṃ kṣupam).
+“Brahmā then united him with those portions of the World-Guardians (_taṃ brahmā lokapālānāṃ sahāṃśaiḥ samayojayat_) and bestowed Kṣupa upon those subjects as their king and sovereign lord (_dadau nṛpaṃ tāsāṃ prajānām īśvaraṃ kṣupam_).
 </details>
 </details>
 
@@ -1223,7 +1223,7 @@ Agastya explains how Brahmā infused King Kṣupa with the portions of Indra, Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therein, by Indra’s portion the king commanded the earth (tatraindreṇa ca bhāgena mahīm ājñāpayan nṛpaḥ); by Varuṇa’s portion the monarch nourishes the physical frame (vāruṇena tu bhāgena vapuḥ puṣyati pārthivaḥ);
+“Therein, by Indra’s portion the king commanded the earth (_tatraindreṇa ca bhāgena mahīm ājñāpayan nṛpaḥ_); by Varuṇa’s portion the monarch nourishes the physical frame (_vāruṇena tu bhāgena vapuḥ puṣyati pārthivaḥ_);
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ Agastya explains how Brahmā infused King Kṣupa with the portions of Indra, Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“by Kubera’s portion he then bestowed wealth upon them (kaubereṇa tu bhāgena vittam āsāṃ dadau tadā); and with the portion that was Yama’s, he governed and restrained his subjects (yas tu yāmyo ’bhavad bhāgas tena śāsti sma sa prajāḥ).
+“by Kubera’s portion he then bestowed wealth upon them (_kaubereṇa tu bhāgena vittam āsāṃ dadau tadā_); and with the portion that was Yama’s, he governed and restrained his subjects (_yas tu yāmyo ’bhavad bhāgas tena śāsti sma sa prajāḥ_).
 </details>
 </details>
 
@@ -1277,7 +1277,7 @@ Agastya explains how Brahmā infused King Kṣupa with the portions of Indra, Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O foremost of men, O delight of the Raghus, accept this ornament by virtue of that Indric portion (tatraindreṇa ... bhāgena ... pratigṛhṇīṣva)—may good fortune attend you—for the sake of ferrying me across, O Lord (tāraṇārthaṃ mama prabho)!”
+“Therefore, O foremost of men, O delight of the Raghus, accept this ornament by virtue of that Indric portion (_tatraindreṇa ... bhāgena ... pratigṛhṇīṣva_)—may good fortune attend you—for the sake of ferrying me across, O Lord (_tāraṇārthaṃ mama prabho_)!”
 </details>
 </details>
 
@@ -1315,9 +1315,9 @@ Having accepted the blazing celestial ornament, Rāma asks Agastya out of eager 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**46:** Hearing those supremely righteous words of the seer (tasya tad vacanaṃ śrutvā ṛṣeḥ parama-dhārmikam), Rāma accepted that excellent ornament of the sage (tad rāmaḥ pratijagrāha muner ābharaṇaṃ varam).
+**46:** Hearing those supremely righteous words of the seer (_tasya tad vacanaṃ śrutvā ṛṣeḥ parama-dhārmikam_), Rāma accepted that excellent ornament of the sage (_tad rāmaḥ pratijagrāha muner ābharaṇaṃ varam_).
 
-**47:** Having then accepted that supreme ornament (pratigṛhya tato rāmas tad ābharaṇam uttamam), Rāma immediately proceeded to inquire into the provenance of that radiant jewel (āgamaṃ tasya dīptasya praṣṭum evopacakrame):
+**47:** Having then accepted that supreme ornament (_pratigṛhya tato rāmas tad ābharaṇam uttamam_), Rāma immediately proceeded to inquire into the provenance of that radiant jewel (_āgamaṃ tasya dīptasya praṣṭum evopacakrame_):
 </details>
 </details>
 
@@ -1347,9 +1347,9 @@ Having accepted the blazing celestial ornament, Rāma asks Agastya out of eager 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**48:** “Exceedingly wondrous is this celestial ornament (aty-adbhutam idaṃ divyam), supreme and endowed with marvelous form (vapuṣā yuktam uttamam); how was it obtained by your Reverence (kathaṃ bhagavatā prāptam), from what cause, or by whom was it brought (kuto vā kena vā hṛtam)?
+**48:** “Exceedingly wondrous is this celestial ornament (_aty-adbhutam idaṃ divyam_), supreme and endowed with marvelous form (_vapuṣā yuktam uttamam_); how was it obtained by your Reverence (_kathaṃ bhagavatā prāptam_), from what cause, or by whom was it brought (_kuto vā kena vā hṛtam_)?
 
-**49:** “Out of curiosity, O brahmin of great renown, I ask you (kutūhalitayā brahman pṛcchāmi tvāṃ mahā-yaśaḥ); for you are indeed the supreme treasury of many marvels (āścaryāṇāṃ bahūnāṃ hi nidhiḥ paramako bhavān)!”
+**49:** “Out of curiosity, O brahmin of great renown, I ask you (_kutūhalitayā brahman pṛcchāmi tvāṃ mahā-yaśaḥ_); for you are indeed the supreme treasury of many marvels (_āścaryāṇāṃ bahūnāṃ hi nidhiḥ paramako bhavān_)!”
 </details>
 </details>
 
@@ -1386,9 +1386,9 @@ Having accepted the blazing celestial ornament, Rāma asks Agastya out of eager 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**50:** As Kākutstha spoke thus (evaṃ bruvati kākutsthe), the sage then spoke these words (munir vākyam athābravīt): “Listen, O Rāma, to what happened of old in a bygone Tretā age (śṛṇu rāma yathā-vṛttaṃ purā tretā-yuge yuge),
+**50:** As Kākutstha spoke thus (_evaṃ bruvati kākutsthe_), the sage then spoke these words (_munir vākyam athābravīt_): “Listen, O Rāma, to what happened of old in a bygone Tretā age (_śṛṇu rāma yathā-vṛttaṃ purā tretā-yuge yuge_),
 
-**51:** “the wonder that I beheld in this delightful forest region (ramaṇīya-pradeśe ’smin vane yad dṛṣṭavān aham), O mighty-armed one—a marvel resting upon charity alone (āścaryaṃ me mahā-bāho dānam āśritya kevalam)!”
+**51:** “the wonder that I beheld in this delightful forest region (_ramaṇīya-pradeśe ’smin vane yad dṛṣṭavān aham_), O mighty-armed one—a marvel resting upon charity alone (_āścaryaṃ me mahā-bāho dānam āśritya kevalam_)!”
 </details>
 </details>
 

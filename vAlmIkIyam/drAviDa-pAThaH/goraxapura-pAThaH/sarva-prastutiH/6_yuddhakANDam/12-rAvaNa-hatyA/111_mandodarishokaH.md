@@ -101,9 +101,9 @@ Mandodari there, miserably lamented (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then Mātali reminded Rāghava at that time: `Why, O hero, do you deal with this one by merely matching his strokes (enam anuvartase), as though you did not know [the means of slaying him]?'
+**1:** Then Mātali reminded Rāghava at that time: `Why, O hero, do you deal with this one by merely matching his strokes (_enam anuvartase_), as though you did not know [the means of slaying him]?&#x27;
 
-**2:** `Cast against him for his slaying the missile of the Grandsire (astraṃ paitāmaham), O Lord! The hour of destruction (vināśakālaḥ) that was foretold by the gods is present today.'
+**2:** `Cast against him for his slaying the missile of the Grandsire (_astraṃ paitāmaham_), O Lord! The hour of destruction (_vināśakālaḥ_) that was foretold by the gods is present today.&#x27;
 </details>
 </details>
 
@@ -149,7 +149,7 @@ indeed dares not to stand before you, when you were enraged."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, reminded by that word of Mātali, Rāma took up a blazing arrow (śaraṃ dīptam) that hissed like a serpent (niḥśvasantam ivoragam)—
+Thereupon, reminded by that word of Mātali, Rāma took up a blazing arrow (_śaraṃ dīptam_) that hissed like a serpent (_niḥśvasantam ivoragam_)—
 </details>
 </details>
 
@@ -201,7 +201,7 @@ musicians and the wandering bards indeed fled in all directions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—which the revered sage Agastya had formerly bestowed upon him (prathamaṃ prādād agastyo bhagavān ṛṣiḥ)—a mighty, unfailing shaft given by Brahmā (brahmadattam), potent in battle—
+—which the revered sage Agastya had formerly bestowed upon him (_prathamaṃ prādād agastyo bhagavān ṛṣiḥ_)—a mighty, unfailing shaft given by Brahmā (_brahmadattam_), potent in battle—
 </details>
 </details>
 
@@ -253,7 +253,7 @@ conquered in battle, by Rama, a mere mortal?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—fashioned of old by Brahmā of boundless energy for the sake of Indra (indrārtham), and given of old to the lord of the gods when he desired the conquest of the three worlds (trilokajayakāṅkṣiṇaḥ)—
+—fashioned of old by Brahmā of boundless energy for the sake of Indra (_indrārtham_), and given of old to the lord of the gods when he desired the conquest of the three worlds (_trilokajayakāṅkṣiṇaḥ_)—
 </details>
 </details>
 
@@ -306,7 +306,7 @@ worlds by dint of your prowess, had grown irresistible and were endowed with glo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—in whose feathers dwelt the wind-god (yasya vājeṣu pavanaḥ), in whose arrowhead dwelt fire and the sun (phale pāvakabhāskarau), whose shaft was formed of ether (śarīram ākāśamayam), and in whose weight were Meru and Mandara (gaurave merumandarau)—
+—in whose feathers dwelt the wind-god (_yasya vājeṣu pavanaḥ_), in whose arrowhead dwelt fire and the sun (_phale pāvakabhāskarau_), whose shaft was formed of ether (_śarīram ākāśamayam_), and in whose weight were Meru and Mandara (_gaurave merumandarau_)—
 </details>
 </details>
 
@@ -360,7 +360,7 @@ to men and was able to assume any form at your will, by Rama in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—blazing intensely in its form (jājvalyamānaṃ vapuṣā), finely feathered and adorned with gold (supuṅkhaṃ hemabhūṣitam), fashioned from the fiery essence of all beings (tejasā sarvabhūtānām), and possessing the splendor of the sun—
+—blazing intensely in its form (_jājvalyamānaṃ vapuṣā_), finely feathered and adorned with gold (_supuṅkhaṃ hemabhūṣitam_), fashioned from the fiery essence of all beings (_tejasā sarvabhūtānām_), and possessing the splendor of the sun—
 </details>
 </details>
 
@@ -415,7 +415,7 @@ attack by him, on your army, fully equipped with all the implements of war."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—flaming like the smoke-wreathed fire of universal dissolution (sadhūmam iva kālāgnim) and resembling a venomous serpent; a swift-acting (kṣiprakāriṇam) cleaver of multitudes of men, elephants, and steeds—
+—flaming like the smoke-wreathed fire of universal dissolution (_sadhūmam iva kālāgnim_) and resembling a venomous serpent; a swift-acting (_kṣiprakāriṇam_) cleaver of multitudes of men, elephants, and steeds—
 </details>
 </details>
 
@@ -467,7 +467,7 @@ by a multitude of demons, it became evident that Rama was really no mortal."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—a cleaver too of city-gates, iron bars, and mountains (dvārāṇāṃ parighāṇāṃ ca girīṇāṃ cāpi bhedanam), having its frame smeared with diverse blood (nānārudhiradigdhāṅgam), coated with fat, and exceedingly dreadful—
+—a cleaver too of city-gates, iron bars, and mountains (_dvārāṇāṃ parighāṇāṃ ca girīṇāṃ cāpi bhedanam_), having its frame smeared with diverse blood (_nānārudhiradigdhāṅgam_), coated with fat, and exceedingly dreadful—
 </details>
 </details>
 
@@ -522,7 +522,7 @@ the City of Lanka, which was difficult to be entered even for gods."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—hard as the thunderbolt in substance (vajrasāram), mighty in roar, terrible to manifold battle-hosts (nānāsamitidāruṇam), striking terror into all, fearful, and hissing like a serpent—
+—hard as the thunderbolt in substance (_vajrasāram_), mighty in roar, terrible to manifold battle-hosts (_nānāsamitidāruṇam_), striking terror into all, fearful, and hissing like a serpent—
 </details>
 </details>
 
@@ -614,13 +614,13 @@ celestials. But for Indra, where is the capacity even to behold you in battle?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** —bestowing unfailing food in battle (nityabhakṣapradaṃ yuddhe) upon herons, vultures, and cranes, and upon packs of jackals and rākṣasas; wearing the form of Yama and inspiring terror—
+**11:** —bestowing unfailing food in battle (_nityabhakṣapradaṃ yuddhe_) upon herons, vultures, and cranes, and upon packs of jackals and rākṣasas; wearing the form of Yama and inspiring terror—
 
-**12:** —bringing delight to the chiefs of the monkeys and destruction to the rākṣasas (rakṣasām avasādanam), and feathered with the manifold, lovely, variegated plumes of Garuḍa (vājaiś cārucitrair garutmataḥ)—
+**12:** —bringing delight to the chiefs of the monkeys and destruction to the rākṣasas (_rakṣasām avasādanam_), and feathered with the manifold, lovely, variegated plumes of Garuḍa (_vājaiś cārucitrair garutmataḥ_)—
 
-**13:** —that supreme arrow among the worlds (tam uttameṣuṃ lokānām), the dispeller of the fear of the Ikṣvākus (ikṣvākubhayanāśanam), the remover of the glory of enemies, and the bringer of joy to himself—
+**13:** —that supreme arrow among the worlds (_tam uttameṣuṃ lokānām_), the dispeller of the fear of the Ikṣvākus (_ikṣvākubhayanāśanam_), the remover of the glory of enemies, and the bringer of joy to himself—
 
-**14:** —having consecrated that mighty arrow with mantras (abhimantrya) according to the rite declared in the Vedas (vedaproktena vidhinā), the mighty and powerful Rāma fitted it to his bow.
+**14:** —having consecrated that mighty arrow with mantras (_abhimantrya_) according to the rite declared in the Vedas (_vedaproktena vidhinā_), the mighty and powerful Rāma fitted it to his bow.
 </details>
 </details>
 
@@ -651,7 +651,7 @@ celestials. But for Indra, where is the capacity even to behold you in battle?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that supreme arrow was being fitted to the bow by Rāghava, all beings trembled in terror (sarvabhūtāni saṃtresuḥ) and the earth shook (cacāla ca vasuṃdharā).
+As that supreme arrow was being fitted to the bow by Rāghava, all beings trembled in terror (_sarvabhūtāni saṃtresuḥ_) and the earth shook (_cacāla ca vasuṃdharā_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ As that supreme arrow was being fitted to the bow by Rāghava, all beings trembl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fiercely enraged, drawing his bow with great force (bhṛśam āyamya kārmukam), he cast against Rāvaṇa with supreme concentration (paramāyattaḥ) that arrow which cleaves the vital organs (marmavidāraṇam).
+Fiercely enraged, drawing his bow with great force (_bhṛśam āyamya kārmukam_), he cast against Rāvaṇa with supreme concentration (_paramāyattaḥ_) that arrow which cleaves the vital organs (_marmavidāraṇam_).
 </details>
 </details>
 
@@ -745,7 +745,7 @@ form surrounded by all the gods in the form of monkeys, Rama killed you, surroun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Irresistible as the thunderbolt hurled by the arm of the thunderbolt-wielder (vajribāhuvisarjitaḥ), and inescapable as Death (kṛtānta iva cāvāryaḥ), it fell upon Rāvaṇa's chest.
+Irresistible as the thunderbolt hurled by the arm of the thunderbolt-wielder (_vajribāhuvisarjitaḥ_), and inescapable as Death (_kṛtānta iva cāvāryaḥ_), it fell upon Rāvaṇa&#x27;s chest.
 </details>
 </details>
 
@@ -800,7 +800,7 @@ the three worlds. Now, as if revenging that enmity, those very senses conquered 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Loosed with mighty speed, that supreme ender of the body (śarīrāntakaraḥ paraḥ) clave the heart (bibheda hṛdayam) of that evil-souled Rāvaṇa.
+Loosed with mighty speed, that supreme ender of the body (_śarīrāntakaraḥ paraḥ_) clave the heart (_bibheda hṛdayam_) of that evil-souled Rāvaṇa.
 </details>
 </details>
 
@@ -839,7 +839,7 @@ Having robbed Rāvaṇa of life and entered the earth, the blood-stained shaft h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bathed in blood (rudhirāktaḥ), that arrow which puts an end to the body, snatching away Rāvaṇa's vital breaths (rāvaṇasya haran prāṇān), entered the surface of the earth with speed.
+Bathed in blood (_rudhirāktaḥ_), that arrow which puts an end to the body, snatching away Rāvaṇa&#x27;s vital breaths (_rāvaṇasya haran prāṇān_), entered the surface of the earth with speed.
 </details>
 </details>
 
@@ -909,9 +909,9 @@ that no hostility should be entered into with Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Having slain Rāvaṇa, its luster wet with gore (rudhirārdrakṛtacchaviḥ), that arrow, its task accomplished (kṛtakarmā), humbly (nibhṛtavat) re-entered the quiver.
+**20:** Having slain Rāvaṇa, its luster wet with gore (_rudhirārdrakṛtacchaviḥ_), that arrow, its task accomplished (_kṛtakarmā_), humbly (_nibhṛtavat_) re-entered the quiver.
 
-**21:** From the hand of that slain one, as he slipped away from life (bhraśyamānasya jīvitāt), his bow together with its arrow swiftly fell down along with his vital breaths (nipapāta saha prāṇaiḥ).
+**21:** From the hand of that slain one, as he slipped away from life (_bhraśyamānasya jīvitāt_), his bow together with its arrow swiftly fell down along with his vital breaths (_nipapāta saha prāṇaiḥ_).
 </details>
 </details>
 
@@ -984,9 +984,9 @@ principal spouse of moon-god)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Devoid of vital breath (gatāsuḥ), that lord of the Nairṛtas of dreadful impetus and mighty splendor fell from his chariot to the earth, like Vṛtra struck down by the thunderbolt (vṛtro vajrahato yathā).
+**22:** Devoid of vital breath (_gatāsuḥ_), that lord of the Nairṛtas of dreadful impetus and mighty splendor fell from his chariot to the earth, like Vṛtra struck down by the thunderbolt (_vṛtro vajrahato yathā_).
 
-**23:** Beholding him fallen upon the earth, the surviving night-roamers (hataśeṣā niśācarāḥ), their lord slain (hatanāthāḥ) and stricken with terror, fled away in all directions.
+**23:** Beholding him fallen upon the earth, the surviving night-roamers (_hataśeṣā niśācarāḥ_), their lord slain (_hatanāthāḥ_) and stricken with terror, fled away in all directions.
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ principal spouse of moon-god)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring, the tree-fighting monkeys (vānarā drumayodhinaḥ) fell upon them; beholding the slaying of Daśagrīva, the monkeys shone with triumphant bearing (jitakāśinaḥ).
+Roaring, the tree-fighting monkeys (_vānarā drumayodhinaḥ_) fell upon them; beholding the slaying of Daśagrīva, the monkeys shone with triumphant bearing (_jitakāśinaḥ_).
 </details>
 </details>
 
@@ -1086,7 +1086,7 @@ consumed by the asceticism of that woman, devoted as she was to her husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Harassed by the exultant monkeys, they rushed into Laṅkā out of fear, with their faces piteous and streaming with tears (karuṇair bāṣpaprasravaṇair mukhaiḥ) because their refuge had been slain (hatāśrayatvāt).
+Harassed by the exultant monkeys, they rushed into Laṅkā out of fear, with their faces piteous and streaming with tears (_karuṇair bāṣpaprasravaṇair mukhaiḥ_) because their refuge had been slain (_hatāśrayatvāt_).
 </details>
 </details>
 
@@ -1140,7 +1140,7 @@ Seetha, the slender-waisted woman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the delighted monkeys, shining in triumph (jitakāśinaḥ), roared aloud, proclaiming the victory of Rāghava and that slaying of Rāvaṇa (rāvaṇasya ca tadvadham).
+Thereupon the delighted monkeys, shining in triumph (_jitakāśinaḥ_), roared aloud, proclaiming the victory of Rāghava and that slaying of Rāvaṇa (_rāvaṇasya ca tadvadham_).
 </details>
 </details>
 
@@ -1195,7 +1195,7 @@ his sinful deed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in the mid-space there resounded the auspicious kettledrum of the thirty gods (saumyas tridaśadundubhiḥ); and there blew a most pleasant breeze bearing celestial fragrances (divyagandhavahaḥ).
+Then in the mid-space there resounded the auspicious kettledrum of the thirty gods (_saumyas tridaśadundubhiḥ_); and there blew a most pleasant breeze bearing celestial fragrances (_divyagandhavahaḥ_).
 </details>
 </details>
 
@@ -1245,7 +1245,7 @@ reaps misery. While Vibhishana has obtained happiness, you met with such an evil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And from the mid-space there fell upon the earth at that time a shower of flowers (puṣpavṛṣṭiḥ), hard to obtain (durāvāpā) and ravishing to the heart, blanketing Rāghava's chariot (kirantī rāghavaratham).
+And from the mid-space there fell upon the earth at that time a shower of flowers (_puṣpavṛṣṭiḥ_), hard to obtain (_durāvāpā_) and ravishing to the heart, blanketing Rāghava&#x27;s chariot (_kirantī rāghavaratham_).
 </details>
 </details>
 
@@ -1293,7 +1293,7 @@ ignorance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in the sky there was clearly heard (viśuśruve) the supreme voice of the high-souled deities, joined with praise of Rāghava (rāghavastavasaṃyuktā), crying, `Well done! Well done!' (sādhu sādhv iti).
+And in the sky there was clearly heard (_viśuśruve_) the supreme voice of the high-souled deities, joined with praise of Rāghava (_rāghavastavasaṃyuktā_), crying, `Well done! Well done!&#x27; (_sādhu sādhv iti_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ not perceive this through infatuation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Great joy entered into the gods together with the Cāraṇas (devānāṃ cāraṇaiḥ saha), when the fierce Rāvaṇa, the terror of all the worlds (sarvalokabhayaṃkare), was slain.
+Great joy entered into the gods together with the Cāraṇas (_devānāṃ cāraṇaiḥ saha_), when the fierce Rāvaṇa, the terror of all the worlds (_sarvalokabhayaṃkare_), was slain.
 </details>
 </details>
 
@@ -1424,11 +1424,11 @@ far-off distance. Free from sorrow, Seetha will now be enjoying herself with Ram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** Thereupon, having slain that bull among rākṣasas, the pleased Rāghava fulfilled the cherished desires (sakāmaṃ cakāra) of Sugrīva, Aṅgada, and Vibhīṣaṇa.
+**31:** Thereupon, having slain that bull among rākṣasas, the pleased Rāghava fulfilled the cherished desires (_sakāmaṃ cakāra_) of Sugrīva, Aṅgada, and Vibhīṣaṇa.
 
-**32:** Then the hosts of the Maruts attained serene peace (prajagmuḥ praśamam), the quarters grew bright and clear (diśaḥ praseduḥ), the sky became spotless, the earth did not tremble, the wind blew gently, and the sun shone with steady radiance (sthiraprabhaś cāpy abhavad divākaraḥ).
+**32:** Then the hosts of the Maruts attained serene peace (_prajagmuḥ praśamam_), the quarters grew bright and clear (_diśaḥ praseduḥ_), the sky became spotless, the earth did not tremble, the wind blew gently, and the sun shone with steady radiance (_sthiraprabhaś cāpy abhavad divākaraḥ_).
 
-**33:** Then Sugrīva, Vibhīṣaṇa, and Aṅgada, distinguished among friends (suhṛdviśiṣṭāḥ), together with Lakṣmaṇa at that time, approaching in joy over the victory, duly worshipped (vidhinābhyapūjayan) Rāghava, who was resplendent in battle.
+**33:** Then Sugrīva, Vibhīṣaṇa, and Aṅgada, distinguished among friends (_suhṛdviśiṣṭāḥ_), together with Lakṣmaṇa at that time, approaching in joy over the victory, duly worshipped (_vidhinābhyapūjayan_) Rāghava, who was resplendent in battle.
 </details>
 </details>
 
@@ -1513,7 +1513,7 @@ flickering fortunes of kings!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having slain his enemy, his vow fulfilled (sthirapratijñaḥ), that joy of the kings of Raghu's race, of mighty energy, surrounded in battle by the host of his own kinsmen and allies (svajanabalābhivṛtaḥ), shone like Mahendra encompassed by the troops of the thirty gods (tridaśagaṇair abhisaṃvṛto mahendraḥ).
+And having slain his enemy, his vow fulfilled (_sthirapratijñaḥ_), that joy of the kings of Raghu&#x27;s race, of mighty energy, surrounded in battle by the host of his own kinsmen and allies (_svajanabalābhivṛtaḥ_), shone like Mahendra encompassed by the troops of the thirty gods (_tridaśagaṇair abhisaṃvṛto mahendraḥ_).
 </details>
 </details>
 

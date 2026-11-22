@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sleep did not come then (nidrā nābhyāgamat tadā) to that tiger among men as he lay thinking (taṃ śayānaṃ ... cintayantam) upon that peerless song of Rāma, rich with manifold meanings (anekārthaṃ rāma-gītam anuttamam).
+Sleep did not come then (_nidrā nābhyāgamat tadā_) to that tiger among men as he lay thinking (_taṃ śayānaṃ ... cintayantam_) upon that peerless song of Rāma, rich with manifold meanings (_anekārthaṃ rāma-gītam anuttamam_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Listening to its most honeyed sound (tasya śabdaṃ su-madhuram), harmonized with lute-strings and rhythmic tempo (tantrī-laya-samanvitam), the night passed swiftly (rātrir jagāmāśu) for the great-souled Śatrughna.
+Listening to its most honeyed sound (_tasya śabdaṃ su-madhuram_), harmonized with lute-strings and rhythmic tempo (_tantrī-laya-samanvitam_), the night passed swiftly (_rātrir jagāmāśu_) for the great-souled Śatrughna.
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night had dawned into day (tasyāṃ niśāyāṃ vyuṣṭāyām), having performed the sequence of morning rites (kṛtvā paurvāhṇikaṃ kramam), Śatrughna with joined palms spoke these words to the foremost of sages:
+When that night had dawned into day (_tasyāṃ niśāyāṃ vyuṣṭāyām_), having performed the sequence of morning rites (_kṛtvā paurvāhṇikaṃ kramam_), Śatrughna with joined palms spoke these words to the foremost of sages:
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Venerable sir, I long to behold Rāghava, the delight of the Raghus (bhagavan draṣṭum icchāmi rāghavaṃ raghu-nandanam); I wish to be granted leave by you (tvayā ’nujñātum icchāmi), together with these ascetics of strict vows (sahaibhiḥ saṃśita-vrataiḥ).”
+“Venerable sir, I long to behold Rāghava, the delight of the Raghus (_bhagavan draṣṭum icchāmi rāghavaṃ raghu-nandanam_); I wish to be granted leave by you (_tvayā ’nujñātum icchāmi_), together with these ascetics of strict vows (_sahaibhiḥ saṃśita-vrataiḥ_).”
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing that Śatrughna, scorcher of foes (śatru-tāpanam), who spoke thus, Vālmīki gave the Rāghava leave to depart (sampariṣvajya visasarja ca rāghavam).
+Embracing that Śatrughna, scorcher of foes (_śatru-tāpanam_), who spoke thus, Vālmīki gave the Rāghava leave to depart (_sampariṣvajya visasarja ca rāghavam_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saluting that best of sages (so ’bhivādya muni-śreṣṭham) and mounting his resplendent chariot (ratham āruhya su-prabham), he sped swiftly toward Ayodhyā (ayodhyām agamat tūrṇam), eager for the sight of Rāghava (rāghavotsuka-darśanaḥ).
+Saluting that best of sages (_so ’bhivādya muni-śreṣṭham_) and mounting his resplendent chariot (_ratham āruhya su-prabham_), he sped swiftly toward Ayodhyā (_ayodhyām agamat tūrṇam_), eager for the sight of Rāghava (_rāghavotsuka-darśanaḥ_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered the lovely city [of Ayodhyā] (sa praviṣṭaḥ purīṃ ramyām), that illustrious, mighty-armed delight of the Ikṣvākus entered where the greatly radiant Rāma was (praviveśa ... yatra rāmo mahādyutiḥ).
+Having entered the lovely city [of Ayodhyā] (_sa praviṣṭaḥ purīṃ ramyām_), that illustrious, mighty-armed delight of the Ikṣvākus entered where the greatly radiant Rāma was (_praviveśa ... yatra rāmo mahādyutiḥ_).
 </details>
 </details>
 
@@ -308,9 +308,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Beholding Rāma seated amidst his counselors (mantri-madhyastham), his face resembling the full moon (pūrṇacandra-nibhānanam), like thousand-eyed Indra in the midst of the immortals (amara-madhyasthaṃ sahasra-nayanaṃ yathā)—
+**8:** Beholding Rāma seated amidst his counselors (_mantri-madhyastham_), his face resembling the full moon (_pūrṇacandra-nibhānanam_), like thousand-eyed Indra in the midst of the immortals (_amara-madhyasthaṃ sahasra-nayanaṃ yathā_)—
 
-**9:** Bowing before that great-souled one who blazed as it were with splendor (jvalantam iva tejasā), he spoke with joined palms (uvāca prāñjalir vākyam) to Rāma of unfailing valor (satya-parākramam):
+**9:** Bowing before that great-souled one who blazed as it were with splendor (_jvalantam iva tejasā_), he spoke with joined palms (_uvāca prāñjalir vākyam_) to Rāma of unfailing valor (_satya-parākramam_):
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever was commanded by you, O great king (yad ājñaptaṃ mahārāja), all of that I have accomplished (sarvaṃ tat kṛtavān aham): that wicked Lavaṇa is slain (hataḥ sa lavaṇaḥ pāpaḥ), and his city has been settled (purī cāsya niveśitā).
+“Whatever was commanded by you, O great king (_yad ājñaptaṃ mahārāja_), all of that I have accomplished (_sarvaṃ tat kṛtavān aham_): that wicked Lavaṇa is slain (_hataḥ sa lavaṇaḥ pāpaḥ_), and his city has been settled (_purī cāsya niveśitā_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These twelve years have passed without you (dvādaśaite gatā varṣās tvāṃ vinā), O delight of the Raghus; I cannot bear to dwell parted from you (notsaheyam ahaṃ vastuṃ tvayā virahitaḥ), O king!”
+“These twelve years have passed without you (_dvādaśaite gatā varṣās tvāṃ vinā_), O delight of the Raghus; I cannot bear to dwell parted from you (_notsaheyam ahaṃ vastuṃ tvayā virahitaḥ_), O king!”
 </details>
 </details>
 
@@ -420,7 +420,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore show me favor (sa me prasādaṃ ... kuruṣva), O Kākutstha of measureless prowess (amita-vikrama)! Like a calf bereft of its mother (mātṛ-hīno yathā vatsaḥ), I cannot dwell abroad any longer (na ciraṃ pravasāmy aham).”
+“Therefore show me favor (_sa me prasādaṃ ... kuruṣva_), O Kākutstha of measureless prowess (_amita-vikrama_)! Like a calf bereft of its mother (_mātṛ-hīno yathā vatsaḥ_), I cannot dwell abroad any longer (_na ciraṃ pravasāmy aham_).”
 </details>
 </details>
 
@@ -454,7 +454,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing Śatrughna as he spoke thus (evaṃ bruvāṇaṃ śatrughnaṃ pariṣvajya), [Rāma] said to him: “Do not give way to despondency, O hero (mā viṣādaṃ kṛthāḥ śūra)—this is not the conduct of a kṣatriya (naitat kṣatriya-ceṣṭitam)!
+Embracing Śatrughna as he spoke thus (_evaṃ bruvāṇaṃ śatrughnaṃ pariṣvajya_), [Rāma] said to him: “Do not give way to despondency, O hero (_mā viṣādaṃ kṛthāḥ śūra_)—this is not the conduct of a kṣatriya (_naitat kṣatriya-ceṣṭitam_)!
 </details>
 </details>
 
@@ -488,7 +488,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kings do not lose heart in dwelling afar (nāvasīdanti rājāno vipravāseṣu), O Rāghava; for subjects must surely be protected by us (prajā naḥ paripālyā hi) through kṣatriya dharma (kṣatra-dharmeṇa), O Rāghava!
+“Kings do not lose heart in dwelling afar (_nāvasīdanti rājāno vipravāseṣu_), O Rāghava; for subjects must surely be protected by us (_prajā naḥ paripālyā hi_) through kṣatriya dharma (_kṣatra-dharmeṇa_), O Rāghava!
 </details>
 </details>
 
@@ -523,7 +523,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come from time to time, O hero (kāle kāle tu ... āgaccha), to behold me and Ayodhyā (māṃ ... ayodhyām avalokitum), O best of men—and return again to your own city (gantāsi ca puraṃ tava).
+“Come from time to time, O hero (_kāle kāle tu ... āgaccha_), to behold me and Ayodhyā (_māṃ ... ayodhyām avalokitum_), O best of men—and return again to your own city (_gantāsi ca puraṃ tava_).
 </details>
 </details>
 
@@ -557,7 +557,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To me too you are exceedingly dear (mamāpi tvaṃ su-dayitaḥ), dearer even than life itself (prāṇair api), without doubt; yet the protection of the kingdom must necessarily be carried out (avaśyaṃ karaṇīyaṃ ca rājyasya paripālanam).”
+“To me too you are exceedingly dear (_mamāpi tvaṃ su-dayitaḥ_), dearer even than life itself (_prāṇair api_), without doubt; yet the protection of the kingdom must necessarily be carried out (_avaśyaṃ karaṇīyaṃ ca rājyasya paripālanam_).”
 </details>
 </details>
 
@@ -599,7 +599,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore stay here, O Kākutstha—dwell seven nights here (saptarātram ihāvasa); thereafter (ūrdhvam) you shall go back to Mathurā (gantāsi madhurām) with your servants, troops, and mounts (sa-bhṛtya-bala-vāhanaḥ).”
+“Therefore stay here, O Kākutstha—dwell seven nights here (_saptarātram ihāvasa_); thereafter (_ūrdhvam_) you shall go back to Mathurā (_gantāsi madhurām_) with your servants, troops, and mounts (_sa-bhṛtya-bala-vāhanaḥ_).”
 </details>
 </details>
 
@@ -633,7 +633,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these righteous, heartfelt words of Rāma (dharmayuktaṃ manogatam), Śatrughna replied with a subdued voice (dīnayā vācā), “So be it (bāḍham ity eva cābravīt)!”
+Hearing these righteous, heartfelt words of Rāma (_dharmayuktaṃ manogatam_), Śatrughna replied with a subdued voice (_dīnayā vācā_), “So be it (_bāḍham ity eva cābravīt_)!”
 </details>
 </details>
 
@@ -661,7 +661,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having dwelt there seven nights (saptarātraṃ ... uṣya tatra) in accordance with Rāghava’s command (rāghavasya yathājñayā), that great bowman Kākutstha prepared for departure (gamanāyopacakrame).
+And having dwelt there seven nights (_saptarātraṃ ... uṣya tatra_) in accordance with Rāghava’s command (_rāghavasya yathājñayā_), that great bowman Kākutstha prepared for departure (_gamanāyopacakrame_).
 </details>
 </details>
 
@@ -695,7 +695,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bidding farewell (āmantrya) to great-souled Rāma of unfailing valor, as well as to Bharata and Lakṣmaṇa (bharataṃ lakṣmaṇaṃ caiva), he ascended his great chariot (mahā-ratham upāruhat).
+Bidding farewell (_āmantrya_) to great-souled Rāma of unfailing valor, as well as to Bharata and Lakṣmaṇa (_bharataṃ lakṣmaṇaṃ caiva_), he ascended his great chariot (_mahā-ratham upāruhat_).
 </details>
 </details>
 
@@ -740,6 +740,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Escorted far along the way by those two (dūram ābhyām anugataḥ), great-souled Lakṣmaṇa and Bharata, Śatrughna then went swiftly back to his city (jagāmāśu puraṃ tataḥ).
+Escorted far along the way by those two (_dūram ābhyām anugataḥ_), great-souled Lakṣmaṇa and Bharata, Śatrughna then went swiftly back to his city (_jagāmāśu puraṃ tataḥ_).
 </details>
 </details>

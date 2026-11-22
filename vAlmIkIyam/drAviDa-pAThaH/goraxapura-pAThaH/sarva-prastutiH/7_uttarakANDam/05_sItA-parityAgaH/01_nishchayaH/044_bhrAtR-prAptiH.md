@@ -48,7 +48,7 @@ Having dismissed his companions and resolved upon his course, Rāma dispatches t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dismissed the company of his friends (visṛjya tu suhṛd-vargam) and resolved in his mind (buddhyā niścitya), Rāghava spoke these words to the doorkeeper seated nearby (samīpe dvāḥstham āsīnam):
+Having dismissed the company of his friends (_visṛjya tu suhṛd-vargam_) and resolved in his mind (_buddhyā niścitya_), Rāghava spoke these words to the doorkeeper seated nearby (_samīpe dvāḥstham āsīnam_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bring swiftly (śīghram ānaya) Saumitri, Lakṣmaṇa of auspicious marks (śubha-lakṣaṇam), and the illustrious Bharata (bharataṃ ca mahābhāgam), and the unconquered Śatrughna (śatrughnam aparājitam)!”
+“Bring swiftly (_śīghram ānaya_) Saumitri, Lakṣmaṇa of auspicious marks (_śubha-lakṣaṇam_), and the illustrious Bharata (_bharataṃ ca mahābhāgam_), and the unconquered Śatrughna (_śatrughnam aparājitam_)!”
 </details>
 </details>
 
@@ -113,7 +113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma’s command (rāmasya vacanaṃ śrutvā), the doorkeeper—his joined palms raised to his head (mūrdhni kṛtāñjaliḥ)—went to Lakṣmaṇa’s palace and entered unhindered (praviveśānivāritaḥ).
+Hearing Rāma’s command (_rāmasya vacanaṃ śrutvā_), the doorkeeper—his joined palms raised to his head (_mūrdhni kṛtāñjaliḥ_)—went to Lakṣmaṇa’s palace and entered unhindered (_praviveśānivāritaḥ_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Hearing Rāma’s command (rāmasya vacanaṃ śrutvā), the doorkeeper—his jo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having greeted the high-souled prince with blessings of victory (vardhayitvā), he spoke with joined palms (kṛtāñjaliḥ): “The king desires to see you (draṣṭum icchati rājā tvām); pray go thither without delay (gamyatāṃ tatra mā ciram)!”
+Having greeted the high-souled prince with blessings of victory (_vardhayitvā_), he spoke with joined palms (_kṛtāñjaliḥ_): “The king desires to see you (_draṣṭum icchati rājā tvām_); pray go thither without delay (_gamyatāṃ tatra mā ciram_)!”
 </details>
 </details>
 
@@ -175,7 +175,7 @@ Having greeted the high-souled prince with blessings of victory (vardhayitvā), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it!” (bāḍham ity eva) said Saumitri upon hearing Rāghava’s command (rāghava-śāsanam); mounting his chariot (ratham āruhya), he sped swiftly to Rāghava’s palace (prādravad ... rāghavasya niveśanam).
+“So be it!” (_bāḍham ity eva_) said Saumitri upon hearing Rāghava’s command (_rāghava-śāsanam_); mounting his chariot (_ratham āruhya_), he sped swiftly to Rāghava’s palace (_prādravad ... rāghavasya niveśanam_).
 </details>
 </details>
 
@@ -208,7 +208,7 @@ Having greeted the high-souled prince with blessings of victory (vardhayitvā), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Lakṣmaṇa setting out (prayāntaṃ lakṣmaṇaṃ dṛṣṭvā), the doorkeeper approached Bharata’s presence (bharatam antikāt) and, greeting Bharata there with blessings and joined palms (vardhayitvā kṛtāñjaliḥ), spoke:
+Seeing Lakṣmaṇa setting out (_prayāntaṃ lakṣmaṇaṃ dṛṣṭvā_), the doorkeeper approached Bharata’s presence (_bharatam antikāt_) and, greeting Bharata there with blessings and joined palms (_vardhayitvā kṛtāñjaliḥ_), spoke:
 </details>
 </details>
 
@@ -247,7 +247,7 @@ Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—bowing low in humility (vinayāvanato bhūtvā)—“The king desires to see you (rājā tvāṃ draṣṭum icchati)!” Hearing from the doorkeeper those words sent by Rāma (vacaḥ śrutvā dvāḥsthād rāma-samīritam), Bharata—
+—bowing low in humility (_vinayāvanato bhūtvā_)—“The king desires to see you (_rājā tvāṃ draṣṭum icchati_)!” Hearing from the doorkeeper those words sent by Rāma (_vacaḥ śrutvā dvāḥsthād rāma-samīritam_), Bharata—
 </details>
 </details>
 
@@ -278,7 +278,7 @@ Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—leapt swiftly from his seat (utpapātāsanāt tūrṇam) and went straight on foot, mighty as he was (padbhyām eva yayau balī). Seeing Bharata setting forth (dṛṣṭvā prayāntaṃ bharatam), the doorkeeper, hastening with joined palms (tvaramāṇaḥ kṛtāñjaliḥ)—
+—leapt swiftly from his seat (_utpapātāsanāt tūrṇam_) and went straight on foot, mighty as he was (_padbhyām eva yayau balī_). Seeing Bharata setting forth (_dṛṣṭvā prayāntaṃ bharatam_), the doorkeeper, hastening with joined palms (_tvaramāṇaḥ kṛtāñjaliḥ_)—
 </details>
 </details>
 
@@ -309,7 +309,7 @@ Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—went to Śatrughna’s mansion (śatrughna-bhavanaṃ gatvā) and thereupon spoke these words: “Come, hasten forth, O foremost of the Raghus (ehy āgaccha raghu-śreṣṭha)! The king desires to see you.
+—went to Śatrughna’s mansion (_śatrughna-bhavanaṃ gatvā_) and thereupon spoke these words: “Come, hasten forth, O foremost of the Raghus (_ehy āgaccha raghu-śreṣṭha_)! The king desires to see you.
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For Lakṣmaṇa has already gone (gato hi lakṣmaṇaḥ pūrvam), and the greatly renowned Bharata too (bharataś ca mahāyaśāḥ)!” Hearing his words (śrutvā tu vacanaṃ tasya), Śatrughna, rising from his splendid seat (paramāsanāt)—
+“For Lakṣmaṇa has already gone (_gato hi lakṣmaṇaḥ pūrvam_), and the greatly renowned Bharata too (_bharataś ca mahāyaśāḥ_)!” Hearing his words (_śrutvā tu vacanaṃ tasya_), Śatrughna, rising from his splendid seat (_paramāsanāt_)—
 </details>
 </details>
 
@@ -374,7 +374,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—touching the earth with his head (śirasā dharaṇīṃ prāpya), hurried to where Rāghava was (prayayau yatra rāghavaḥ). Returning then to Rāma (dvāḥsthas tv āgamya rāmāya) with joined palms (kṛtāñjaliḥ), the doorkeeper announced to him (nivedayām āsa) that all his brothers had arrived and were standing in attendance (sarvān eva ... bhrātṝn svān samupasthitān).
+—touching the earth with his head (_śirasā dharaṇīṃ prāpya_), hurried to where Rāghava was (_prayayau yatra rāghavaḥ_). Returning then to Rāma (_dvāḥsthas tv āgamya rāmāya_) with joined palms (_kṛtāñjaliḥ_), the doorkeeper announced to him (_nivedayām āsa_) that all his brothers had arrived and were standing in attendance (_sarvān eva ... bhrātṝn svān samupasthitān_).
 </details>
 </details>
 
@@ -422,9 +422,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Hearing that the princes had arrived (kumārān āgatāñ chrutvā), Rāma—his senses agitated by anxiety (cintā-vyākulitendriyaḥ), his face downcast (avāṅmukhaḥ), and his mind dejected (dīnamanāḥ)—spoke these words to the doorkeeper:
+**12:** Hearing that the princes had arrived (_kumārān āgatāñ chrutvā_), Rāma—his senses agitated by anxiety (_cintā-vyākulitendriyaḥ_), his face downcast (_avāṅmukhaḥ_), and his mind dejected (_dīnamanāḥ_)—spoke these words to the doorkeeper:
 
-**13:** “Usher the princes into my presence in haste (praveśaya kumārāṃs tvaṃ mat-samīpaṃ tvarānvitaḥ); in them abides my life (eteṣu jīvitaṃ mahyam), for they are my dear vital breaths (ete prāṇāḥ priyā mama)!”
+**13:** “Usher the princes into my presence in haste (_praveśaya kumārāṃs tvaṃ mat-samīpaṃ tvarānvitaḥ_); in them abides my life (_eteṣu jīvitaṃ mahyam_), for they are my dear vital breaths (_ete prāṇāḥ priyā mama_)!”
 </details>
 </details>
 
@@ -455,7 +455,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Summoned by the lord of men (ājñaptās tu narendreṇa), those princes of Indra-like splendor (kumārāḥ śakra-tejasaḥ) bowed low (prahvāḥ) and, with joined palms and composed minds (prāñjalayo bhūtvā ... samāhitāḥ), entered.
+Summoned by the lord of men (_ājñaptās tu narendreṇa_), those princes of Indra-like splendor (_kumārāḥ śakra-tejasaḥ_) bowed low (_prahvāḥ_) and, with joined palms and composed minds (_prāñjalayo bhūtvā ... samāhitāḥ_), entered.
 </details>
 </details>
 
@@ -486,7 +486,7 @@ Summoned by the lord of men (ājñaptās tu narendreṇa), those princes of Indr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his face (dṛṣṭvā mukhaṃ tasya), like the moon seized by an eclipse (sa-grahaṃ śaśinaṃ yathā) or like the sun sunk into twilight, bereft of radiance (sandhyāgatam ivādityaṃ prabhayā parivarjitam)—
+Beholding his face (_dṛṣṭvā mukhaṃ tasya_), like the moon seized by an eclipse (_sa-grahaṃ śaśinaṃ yathā_) or like the sun sunk into twilight, bereft of radiance (_sandhyāgatam ivādityaṃ prabhayā parivarjitam_)—
 </details>
 </details>
 
@@ -517,7 +517,7 @@ Beholding his face (dṛṣṭvā mukhaṃ tasya), like the moon seized by an ec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and seeing both eyes of the wise Rāma brimming with tears (bāṣpa-pūrṇe ca nayane ... rāmasya dhīmataḥ), and looking upon his face like a lotus robbed of its splendor (hata-śobhaṃ yathā padmaṃ mukham)—
+—and seeing both eyes of the wise Rāma brimming with tears (_bāṣpa-pūrṇe ca nayane ... rāmasya dhīmataḥ_), and looking upon his face like a lotus robbed of its splendor (_hata-śobhaṃ yathā padmaṃ mukham_)—
 </details>
 </details>
 
@@ -556,7 +556,7 @@ Weeping as his brothers touch his feet, Rāma embraces, raises, and seats them, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—they thereupon swiftly saluted Rāma’s feet with their heads (abhivādya tvaritāḥ pādau rāmasya mūrdhabhiḥ) and stood all composed in attention (tasthuḥ samāhitāḥ sarve), while Rāma let fall tears (rāmas tv aśrūṇy avartayat).
+—they thereupon swiftly saluted Rāma’s feet with their heads (_abhivādya tvaritāḥ pādau rāmasya mūrdhabhiḥ_) and stood all composed in attention (_tasthuḥ samāhitāḥ sarve_), while Rāma let fall tears (_rāmas tv aśrūṇy avartayat_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ Weeping as his brothers touch his feet, Rāma embraces, raises, and seats them, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing them with both arms (tān pariṣvajya bāhubhyām) and raising them up (utthāpya ca), the mighty prince bade them, “Be seated upon the seats!” (āsaneṣv āsata ity uktvā), and thereupon spoke these words:
+Embracing them with both arms (_tān pariṣvajya bāhubhyām_) and raising them up (_utthāpya ca_), the mighty prince bade them, “Be seated upon the seats!” (_āsaneṣv āsata ity uktvā_), and thereupon spoke these words:
 </details>
 </details>
 
@@ -618,7 +618,7 @@ Embracing them with both arms (tān pariṣvajya bāhubhyām) and raising them u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are my all in all (bhavanto mama sarvasvam); you are my very life (bhavanto jīvitaṃ mama); and it is the kingdom achieved by you (bhavadbhiś ca kṛtaṃ rājyam) that I govern, O lords of men (pālayāmi nareśvarāḥ)!
+“You are my all in all (_bhavanto mama sarvasvam_); you are my very life (_bhavanto jīvitaṃ mama_); and it is the kingdom achieved by you (_bhavadbhiś ca kṛtaṃ rājyam_) that I govern, O lords of men (_pālayāmi nareśvarāḥ_)!
 </details>
 </details>
 
@@ -649,7 +649,7 @@ Embracing them with both arms (tān pariṣvajya bāhubhyām) and raising them u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have mastered the meaning of the scriptures (kṛta-śāstrārthāḥ) and are thoroughly grounded in wisdom (buddhyā ca pariniṣṭhitāḥ); united together (sambhūya), O lords of men, you must weigh and pursue this affair of mine (mad-artho ’yam anveṣṭavyaḥ)!”
+“You have mastered the meaning of the scriptures (_kṛta-śāstrārthāḥ_) and are thoroughly grounded in wisdom (_buddhyā ca pariniṣṭhitāḥ_); united together (_sambhūya_), O lords of men, you must weigh and pursue this affair of mine (_mad-artho ’yam anveṣṭavyaḥ_)!”
 </details>
 </details>
 
@@ -691,7 +691,7 @@ Embracing them with both arms (tān pariṣvajya bāhubhyām) and raising them u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Kākutstha spoke thus (tathā vadati kākutsthe), all of them, intent in utmost attention (avadhāna-parāyaṇāḥ), grew troubled in mind (udvigna-manasaḥ sarve), wondering: “What indeed is the king about to utter (kiṃ nu rājābhidhāsyati)?”
+While Kākutstha spoke thus (_tathā vadati kākutsthe_), all of them, intent in utmost attention (_avadhāna-parāyaṇāḥ_), grew troubled in mind (_udvigna-manasaḥ sarve_), wondering: “What indeed is the king about to utter (_kiṃ nu rājābhidhāsyati_)?”
 </details>
 </details>
 

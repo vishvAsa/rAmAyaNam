@@ -87,7 +87,7 @@ brilliant Lakshmana. [3-15-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having gone to Pañcavaṭī (tataḥ pañcavaṭīṃ gatvā), which teemed with various beasts of prey and deer (nānā-vyāla-mṛgāyutām), Rāma spoke to his brother Saumitri of blazing splendour (saumitriṃ dīpta-tejasam):
+Then, having gone to Pañcavaṭī (_tataḥ pañcavaṭīṃ gatvā_), which teemed with various beasts of prey and deer (_nānā-vyāla-mṛgāyutām_), Rāma spoke to his brother Saumitri of blazing splendour (_saumitriṃ dīpta-tejasam_):
 </details>
 </details>
 
@@ -140,7 +140,7 @@ forests is Panchavati." [3-15-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We have arrived at this region (āgatāḥ sma amuṃ deśam) just as pointed out (yathoddiṣṭam) by the great seer; this, O gentle one, is the region of Pañcavaṭī (ayaṃ pañcavaṭī-deśaḥ), with its trees in blossom (puṣpita-pādapaḥ).
+“We have arrived at this region (_āgatāḥ sma amuṃ deśam_) just as pointed out (_yathoddiṣṭam_) by the great seer; this, O gentle one, is the region of Pañcavaṭī (_ayaṃ pañcavaṭī-deśaḥ_), with its trees in blossom (_puṣpita-pādapaḥ_).
 </details>
 </details>
 
@@ -193,7 +193,7 @@ forest, and indeed you are an expert in such matters. [3-15-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Cast your gaze on every side (sarvataś cāryatāṃ dṛṣṭiḥ), for you are skilled in woodland lore (kānane nipuṇo hy asi); in which spot (katarasmin deśe) will a hermitage be pleasing (āśramaḥ bhavati sammataḥ) to us?
+“Cast your gaze on every side (_sarvataś cāryatāṃ dṛṣṭiḥ_), for you are skilled in woodland lore (_kānane nipuṇo hy asi_); in which spot (_katarasmin deśe_) will a hermitage be pleasing (_āśramaḥ bhavati sammataḥ_) to us?
 </details>
 </details>
 
@@ -274,9 +274,9 @@ time, with his obedient service.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Let such a spot be sought out (tādṛśo dṛśyatāṃ deśaḥ), O Lakṣmaṇa, where Vaidehī may delight (ramate yatra vaidehī), as well as you and I (tvam ahaṃ caiva), and which has a body of water close at hand (sannikṛṣṭa-jalāśayaḥ)—
+**4:** “Let such a spot be sought out (_tādṛśo dṛśyatāṃ deśaḥ_), O Lakṣmaṇa, where Vaidehī may delight (_ramate yatra vaidehī_), as well as you and I (_tvam ahaṃ caiva_), and which has a body of water close at hand (_sannikṛṣṭa-jalāśayaḥ_)—
 
-**5:** “—where there is beauty of groves (vana-rāmaṇyakam) and beauty of level ground (sthala-rāmaṇyakaṃ tathā), and where sacrificial fuel, flowers, kuśa grass, and water (samit-puṣpa-kuśodakam) may be close at hand.”
+**5:** “—where there is beauty of groves (_vana-rāmaṇyakam_) and beauty of level ground (_sthala-rāmaṇyakaṃ tathā_), and where sacrificial fuel, flowers, _kuśa_ grass, and water (_samit-puṣpa-kuśodakam_) may be close at hand.”
 </details>
 </details>
 
@@ -333,7 +333,7 @@ of Seetha. [3-15-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa, with joined palms (saṃyatāñjaliḥ), spoke these words to Kākutstha in the presence of Sītā (sītā-samakṣam):
+Thus addressed by Rāma (_evam uktas tu rāmeṇa_), Lakṣmaṇa, with joined palms (_saṃyatāñjaliḥ_), spoke these words to Kākutstha in the presence of Sītā (_sītā-samakṣam_):
 </details>
 </details>
 
@@ -417,7 +417,7 @@ bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am wholly dependent on you (paravān asmi), O Kākutstha, even should you abide for a hundred years (tvayi varṣa-śataṃ sthite); do you yourself tell me (svayaṃ tu māṃ vada), ‘Let it be built in this pleasing spot (rucire deśe kriyatām iti)!’”
+“I am wholly dependent on you (_paravān asmi_), O Kākutstha, even should you abide for a hundred years (_tvayi varṣa-śataṃ sthite_); do you yourself tell me (_svayaṃ tu māṃ vada_), ‘Let it be built in this pleasing spot (_rucire deśe kriyatām iti_)!’”
 </details>
 </details>
 
@@ -488,9 +488,9 @@ of hermitage up and down and spoke to Soumitri this way. [3-15-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Greatly pleased (suprītaḥ) with those words of the high-souled Lakṣmaṇa (lakṣmaṇasya mahātmanaḥ), Rāma surveyed the surroundings (vimṛśan) and selected a spot endowed with every excellence (rocayām āsa deśaṃ sarva-guṇānvitam).
+**8:** Greatly pleased (_suprītaḥ_) with those words of the high-souled Lakṣmaṇa (_lakṣmaṇasya mahātmanaḥ_), Rāma surveyed the surroundings (_vimṛśan_) and selected a spot endowed with every excellence (_rocayām āsa deśaṃ sarva-guṇānvitam_).
 
-**9:** Stepping onto that pleasing spot (sa taṃ ruciram ākramya deśam) for the construction of the hermitage (āśrama-karmaṇi), Rāma took Lakṣmaṇa’s two hands in his own hand (hastau gṛhītvā hastena) and spoke to Saumitri:
+**9:** Stepping onto that pleasing spot (_sa taṃ ruciram ākramya deśam_) for the construction of the hermitage (_āśrama-karmaṇi_), Rāma took Lakṣmaṇa’s two hands in his own hand (_hastau gṛhītvā hastena_) and spoke to Saumitri:
 </details>
 </details>
 
@@ -542,7 +542,7 @@ hermitage here, traditionally. [3-15-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This spot is level and auspicious (ayaṃ deśaḥ samaḥ śrīmān), and surrounded by flowering trees (puṣpitais tarubhir vṛtaḥ); here, O gentle one, you ought to build the hermitage (ihāśrama-padaṃ kartum arhasi) in due manner (yathāvat).
+“This spot is level and auspicious (_ayaṃ deśaḥ samaḥ śrīmān_), and surrounded by flowering trees (_puṣpitais tarubhir vṛtaḥ_); here, O gentle one, you ought to build the hermitage (_ihāśrama-padaṃ kartum arhasi_) in due manner (_yathāvat_).
 </details>
 </details>
 
@@ -601,7 +601,7 @@ a propitious lake to have Vishnu and Lakshmi together.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not far off (adūre) is seen this lovely lotus-pond (dṛśyate ramyā padminī), resplendent with lotuses (padma-śobhitā)—with lotuses bright as the sun (āditya-saṃkāśaiḥ) and fragrant of scent (surabhi-gandhibhiḥ).
+“Not far off (_adūre_) is seen this lovely lotus-pond (_dṛśyate ramyā padminī_), resplendent with lotuses (_padma-śobhitā_)—with lotuses bright as the sun (_āditya-saṃkāśaiḥ_) and fragrant of scent (_surabhi-gandhibhiḥ_).
 </details>
 </details>
 
@@ -659,7 +659,7 @@ beautified with kaarandava, and chakravaaka birds, as that contemplated soul sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as described by the sage Agastya of purified soul (yathākhyātam agastyena muninā bhāvitātmanā), here is the lovely Godāvarī (iyaṃ godāvarī ramyā), bordered by flowering trees (puṣpitais tarubhir vṛtā),
+“Just as described by the sage Agastya of purified soul (_yathākhyātam agastyena muninā bhāvitātmanā_), here is the lovely Godāvarī (_iyaṃ godāvarī ramyā_), bordered by flowering trees (_puṣpitais tarubhir vṛtā_),
 </details>
 </details>
 
@@ -698,7 +698,7 @@ Rāma admires the bird-thronged Godāvarī and the surrounding mountains, whose 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—thronged with swans and kāraṇḍava ducks (haṃsa-kāraṇḍavākīrṇā), graced by cakravāka birds (cakravākopaśobhitā), neither too far nor too close (nātidūre na cāsanne), and crowded with herds of deer (mṛga-yūtha-nipīḍitā).
+“—thronged with swans and _kāraṇḍava_ ducks (_haṃsa-kāraṇḍavākīrṇā_), graced by _cakravāka_ birds (_cakravākopaśobhitā_), neither too far nor too close (_nātidūre na cāsanne_), and crowded with herds of deer (_mṛga-yūtha-nipīḍitā_).
 </details>
 </details>
 
@@ -748,7 +748,7 @@ by animal herds, sounded by peacocks, and they are neither far-off nor very near
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here, O gentle one, are seen lovely, lofty mountains (dṛśyante ramyāḥ prāṃśavo girayaḥ) resounding with peacocks (mayūra-nāditāḥ), abounding in caves (bahu-kandarāḥ), and covered with blossoming trees (phullais tarubhir āvṛtāḥ).
+“Here, O gentle one, are seen lovely, lofty mountains (_dṛśyante ramyāḥ prāṃśavo girayaḥ_) resounding with peacocks (_mayūra-nāditāḥ_), abounding in caves (_bahu-kandarāḥ_), and covered with blossoming trees (_phullais tarubhir āvṛtāḥ_).
 </details>
 </details>
 
@@ -808,7 +808,7 @@ and as superb streaks of paintings on the bodies of elephants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With golden, silver, and copper mineral veins (sauvarṇai rājatais tāmrair dhātubhiḥ) in place after place (deśe deśe ca), they shine like elephants (ivābhānti gajāḥ) checkered with lattice-like ornamental paintings (gavākṣitāḥ parama-bhaktibhiḥ)!
+“With golden, silver, and copper mineral veins (_sauvarṇai rājatais tāmrair dhātubhiḥ_) in place after place (_deśe deśe ca_), they shine like elephants (_ivābhānti gajāḥ_) checkered with lattice-like ornamental paintings (_gavākṣitāḥ parama-bhaktibhiḥ_)!
 </details>
 </details>
 
@@ -887,11 +887,11 @@ and thus they brighten the mountains. [3-15-16, 17, 18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “[Those mountains] are adorned (upaśobhitāḥ) with sāla, palmyra, and tamāla trees (sālais tālais tamālaiś ca), date-palms, jackfruit, and mangoes (kharjūraiḥ panasāmrakaiḥ), as well as nīvāra, tiniśa, and punnāga trees,
+**16:** “[Those mountains] are adorned (_upaśobhitāḥ_) with _sāla_, palmyra, and _tamāla_ trees (_sālais tālais tamālaiś ca_), date-palms, jackfruit, and mangoes (_kharjūraiḥ panasāmrakaiḥ_), as well as _nīvāra_, _tiniśa_, and _punnāga_ trees,
 
-**17:** “—and covered with those various trees (tais tais tarubhir āvṛtāḥ) accompanied by flowering shrubs and creepers (puṣpa-gulma-latopetaiḥ)—with mangoes, aśokas, tilakas, campakas, and ketakas (campakaiḥ ketakair api),
+**17:** “—and covered with those various trees (_tais tais tarubhir āvṛtāḥ_) accompanied by flowering shrubs and creepers (_puṣpa-gulma-latopetaiḥ_)—with mangoes, _aśokas_, _tilakas_, _campakas_, and _ketakas_ (_campakaiḥ ketakair api_),
 
-**18:** “—and with syandanas, sandalwood, nīpas, parṇāsas, and lakucas (parṇāsair lakucair api), as well as dhavas, aśvakarṇas, khadiras, śamīs, kiṃśukas, and trumpet-flower trees (śamī-kiṃśuka-pāṭalaiḥ).
+**18:** “—and with _syandanas_, sandalwood, _nīpas_, _parṇāsas_, and _lakucas_ (_parṇāsair lakucair api_), as well as _dhavas_, _aśvakarṇas_, _khadiras_, _śamīs_, _kiṃśukas_, and trumpet-flower trees (_śamī-kiṃśuka-pāṭalaiḥ_).
 </details>
 </details>
 
@@ -950,7 +950,7 @@ us reside here along with this bird Jatayu." Thus said Rama to Lakshmana. [3-15-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This spot is sacred (idaṃ puṇyam), this is pure (idaṃ medhyam), this abounds in deer and birds (idaṃ bahu-mṛga-dvijam); here let us dwell (iha vatsyāma), O Saumitri, together with this bird (sārdham etena pakṣiṇā)!’
+“‘This spot is sacred (_idaṃ puṇyam_), this is pure (_idaṃ medhyam_), this abounds in deer and birds (_idaṃ bahu-mṛga-dvijam_); here let us dwell (_iha vatsyāma_), O Saumitri, together with this bird (_sārdham etena pakṣiṇā_)!’
 </details>
 </details>
 
@@ -1002,7 +1002,7 @@ briskly erected a hermitage for his brother. [3-15-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa, slayer of hostile heroes (para-vīra-hā) and of exceeding might (sumahā-balaḥ), swiftly built (acireṇa cakāra) a hermitage for his brother (āśramaṃ bhrātuḥ).
+Thus addressed by Rāma (_evam uktas tu rāmeṇa_), Lakṣmaṇa, slayer of hostile heroes (_para-vīra-hā_) and of exceeding might (_sumahā-balaḥ_), swiftly built (_acireṇa cakāra_) a hermitage for his brother (_āśramaṃ bhrātuḥ_).
 </details>
 </details>
 
@@ -1085,11 +1085,11 @@ Raghava alone, and it resulted as a feast to the eye. [3-15-21, 22, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** There [he built] a spacious leaf-cottage (parṇa-śālāṃ suvipulām) with walls of compacted earth (saṅkhāta-mṛttikām), supported by firm pillars (sustambhām), fitted with roof-beams of long bamboos (maskarair dīrghaiḥ kṛta-vaṃśām), and very handsome;
+**21:** There [he built] a spacious leaf-cottage (_parṇa-śālāṃ suvipulām_) with walls of compacted earth (_saṅkhāta-mṛttikām_), supported by firm pillars (_sustambhām_), fitted with roof-beams of long bamboos (_maskarair dīrghaiḥ kṛta-vaṃśām_), and very handsome;
 
-**22:** —spreading it over with branches of śamī trees (śamī-śākhābhir āstīrya), lashed fast with strong cords (dṛḍha-pāśāvapāśitām), and well-thatched (suparicchāditāṃ tathā) with kuśa, kāśa, and śara reeds and leaves;
+**22:** —spreading it over with branches of _śamī_ trees (_śamī-śākhābhir āstīrya_), lashed fast with strong cords (_dṛḍha-pāśāvapāśitām_), and well-thatched (_suparicchāditāṃ tathā_) with _kuśa_, _kāśa_, and _śara_ reeds and leaves;
 
-**23:** —and having leveled its floor (samīkṛta-talām), he of swift valor (laghu-vikramaḥ) fashioned that lovely, peerless, and sightly dwelling (nivāsaṃ prekṣaṇīyam anuttamam) for the sake of Rāghava (rāghavasyārthe).
+**23:** —and having leveled its floor (_samīkṛta-talām_), he of swift valor (_laghu-vikramaḥ_) fashioned that lovely, peerless, and sightly dwelling (_nivāsaṃ prekṣaṇīyam anuttamam_) for the sake of Rāghava (_rāghavasyārthe_).
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ to the cottage. [3-15-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the illustrious Lakṣmaṇa swiftly [went] to the river Godāvarī (sahasā lakṣmaṇaḥ śrīmān nadīṃ godāvarīṃ tadā), bathed (snātvā), gathered lotuses (padmāni cādāya), and returned with fruits (saphalaḥ punar āgataḥ).
+Then the illustrious Lakṣmaṇa swiftly [went] to the river Godāvarī (_sahasā lakṣmaṇaḥ śrīmān nadīṃ godāvarīṃ tadā_), bathed (_snātvā_), gathered lotuses (_padmāni cādāya_), and returned with fruits (_saphalaḥ punar āgataḥ_).
 </details>
 </details>
 
@@ -1200,7 +1200,7 @@ pravesha , entering a new house,] started to show the constructed hermitage to R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having offered a floral oblation (puṣpa-baliṃ kṛtvā) and performed the propitiatory rite of peace (śāntiṃ ca) according to rule (yathā-vidhi), he showed to Rāma (darśayām āsa rāmāya) that completed hermitage.
+Then, having offered a floral oblation (_puṣpa-baliṃ kṛtvā_) and performed the propitiatory rite of peace (_śāntiṃ ca_) according to rule (_yathā-vidhi_), he showed to Rāma (_darśayām āsa rāmāya_) that completed hermitage.
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ that straw-cottage. [3-15-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding together with Sītā (dṛṣṭvā sītayā saha) that lovely hermitage which had been built (kṛtaṃ saumyam āśramam), Rāghava conceived supreme joy (harṣam āhārayat param) in that leaf-cottage (parṇa-śālāyām).
+Beholding together with Sītā (_dṛṣṭvā sītayā saha_) that lovely hermitage which had been built (_kṛtaṃ saumyam āśramam_), Rāghava conceived supreme joy (_harṣam āhārayat param_) in that leaf-cottage (_parṇa-śālāyām_).
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ friendly words to him. [3-15-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Greatly delighted (susaṃhṛṣṭaḥ), embracing Lakṣmaṇa with both arms (pariṣvajya bāhubhyāṃ lakṣmaṇam) at that time, he spoke these deeply affectionate (atisnigdhaṃ ca) and earnest words (gāḍhaṃ ca vacanam):
+Greatly delighted (_susaṃhṛṣṭaḥ_), embracing Lakṣmaṇa with both arms (_pariṣvajya bāhubhyāṃ lakṣmaṇam_) at that time, he spoke these deeply affectionate (_atisnigdhaṃ ca_) and earnest words (_gāḍhaṃ ca vacanam_):
 </details>
 </details>
 
@@ -1364,7 +1364,7 @@ what I have to give to you a hugging. [3-5-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am well-pleased with you (prīto ’smi te)! Great is this work that you have accomplished (mahat karma tvayā kṛtam idam), O capable one (prabho); therefore I have bestowed upon you the embrace that is due to you as a reward (pradeyo yan-nimittaṃ te pariṣvaṅgo mayā kṛtaḥ).
+“I am well-pleased with you (_prīto ’smi te_)! Great is this work that you have accomplished (_mahat karma tvayā kṛtam idam_), O capable one (_prabho_); therefore I have bestowed upon you the embrace that is due to you as a reward (_pradeyo yan-nimittaṃ te pariṣvaṅgo mayā kṛtaḥ_).
 </details>
 </details>
 
@@ -1437,7 +1437,7 @@ Rama said in this concept also that - 'my father is though 'dead', but 'born' ag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through a son such as you (tvayā putreṇa), O Lakṣmaṇa—who discern my inner thoughts (bhāvajñena), are grateful (kṛtajñena), and know dharma (dharmajñena ca)—my righteous-souled father is not dead (na saṃvṛttaḥ pitā mama)!”
+“Through a son such as you (_tvayā putreṇa_), O Lakṣmaṇa—who discern my inner thoughts (_bhāvajñena_), are grateful (_kṛtajñena_), and know _dharma_ (_dharmajñena ca_)—my righteous-souled father is not dead (_na saṃvṛttaḥ pitā mama_)!”
 </details>
 </details>
 
@@ -1497,7 +1497,7 @@ controlled' lived there. That is to suggest the overcoming of the enchantment of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Lakṣmaṇa (evaṃ lakṣmaṇam uktvā tu), Rāghava, the enhancer of auspicious fortune (lakṣmi-vardhanaḥ), dwelt happily and full of joy (nyavasat sa sukhaṃ sukhī) in that region abounding in fruits (tasmin deśe bahu-phale).
+Having spoken thus to Lakṣmaṇa (_evaṃ lakṣmaṇam uktvā tu_), Rāghava, the enhancer of auspicious fortune (_lakṣmi-vardhanaḥ_), dwelt happily and full of joy (_nyavasat sa sukhaṃ sukhī_) in that region abounding in fruits (_tasmin deśe bahu-phale_).
 </details>
 </details>
 
@@ -1560,7 +1560,7 @@ a Divinity in heavenly world for sometime to come. [3-15-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Waited upon (anvāsyamānaḥ) by Sītā and Lakṣmaṇa (sītayā lakṣmaṇena ca), that righteous-souled prince dwelt there for some time (kañcit kālaṃ nyavasat), like an immortal in the world of heaven (svarga-loke yathāmaraḥ).
+Waited upon (_anvāsyamānaḥ_) by Sītā and Lakṣmaṇa (_sītayā lakṣmaṇena ca_), that righteous-souled prince dwelt there for some time (_kañcit kālaṃ nyavasat_), like an immortal in the world of heaven (_svarga-loke yathāmaraḥ_).
 </details>
 </details>
 

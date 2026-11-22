@@ -66,7 +66,7 @@ Informed that Rāma and the Vānara hosts have besieged Laṅkā, an enraged Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those rākṣasas, having gone there to the palace of Rāvaṇa (rāvaṇamandiram), reported that the city was besieged (purīṃ ruddhām) by Rāma together with the Vānaras.
+Then those _rākṣasas_, having gone there to the palace of Rāvaṇa (_rāvaṇamandiram_), reported that the city was besieged (_purīṃ ruddhām_) by Rāma together with the Vānaras.
 </details>
 </details>
 
@@ -118,7 +118,7 @@ the necessary arrangements for the war and ascended his mansion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that the city was besieged, the night-stalker (niśācaraḥ), his wrath aroused (jātakrodhaḥ), doubled the defensive arrangements (vidhānaṃ dviguṇaṃ kṛtvā) and ascended his lofty palace (prāsādam).
+Hearing that the city was besieged, the night-stalker (_niśācaraḥ_), his wrath aroused (_jātakrodhaḥ_), doubled the defensive arrangements (_vidhānaṃ dviguṇaṃ kṛtvā_) and ascended his lofty palace (_prāsādam_).
 </details>
 </details>
 
@@ -171,7 +171,7 @@ forests all being covered by innumerable troops of monkeys, waiting for war.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld Laṅkā—along with its mountains, woods, and groves (saśailavanakānanām)—hemmed in on all sides by innumerable troops of monkeys (asaṃkhyeyair harigaṇaiḥ) eager for battle.
+He beheld Laṅkā—along with its mountains, woods, and groves (_saśailavanakānanām_)—hemmed in on all sides by innumerable troops of monkeys (_asaṃkhyeyair harigaṇaiḥ_) eager for battle.
 </details>
 </details>
 
@@ -224,7 +224,7 @@ reflected: "How can they be exterminated?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the entire earth turned tawny (vasudhāṃ kapilīkṛtām) by all the Vānaras, he fell into deep anxiety (cintāparo 'bhavat), pondering, “How can they be destroyed (kathaṃ kṣapayitavyāḥ syuḥ)?”
+Seeing the entire earth turned tawny (_vasudhāṃ kapilīkṛtām_) by all the Vānaras, he fell into deep anxiety (_cintāparo &#x27;bhavat_), pondering, “How can they be destroyed (_kathaṃ kṣapayitavyāḥ syuḥ_)?”
 </details>
 </details>
 
@@ -276,7 +276,7 @@ surprise, Ravana gazed on Rama and his troops of monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-After reflecting for a very long time (cintayitvā suciram) and summoning his fortitude (dhairyam ālambya), the wide-eyed Rāvaṇa (āyatalocanaḥ) gazed upon Rāghava and the Vānara battalions.
+After reflecting for a very long time (_cintayitvā suciram_) and summoning his fortitude (_dhairyam ālambya_), the wide-eyed Rāvaṇa (_āyatalocanaḥ_) gazed upon Rāghava and the Vānara battalions.
 </details>
 </details>
 
@@ -323,7 +323,7 @@ and saw Lanka being guarded on all sides and thronged with demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava, joyful along with his army, advanced toward [the ramparts] (pupluve), and beheld Laṅkā well-guarded (guptām) and encompassed on all sides by rākṣasas.
+Rāghava, joyful along with his army, advanced toward [the ramparts] (_pupluve_), and beheld Laṅkā well-guarded (_guptām_) and encompassed on all sides by _rākṣasas_.
 </details>
 </details>
 
@@ -383,7 +383,7 @@ Seetha with a distressed heart.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Laṅkā gay with variegated banners and pennants (citradhvajapatākinīm), Dāśarathi went at once [in thought] to Sītā with an afflicted heart (dūyamānena cetasā).
+Beholding Laṅkā gay with variegated banners and pennants (_citradhvajapatākinīm_), Dāśarathi went at once [in thought] to Sītā with an afflicted heart (_dūyamānena cetasā_).
 </details>
 </details>
 
@@ -437,7 +437,7 @@ account."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here that fawn-eyed daughter of Janaka (mṛgaśāvākṣī janakātmajā), tormented by grief (śokasaṃtaptā), emaciated, and sleeping on the bare ground (sthaṇḍilaśāyinī), suffers torment on my account (matkṛte)!”
+“Here that fawn-eyed daughter of Janaka (_mṛgaśāvākṣī janakātmajā_), tormented by grief (_śokasaṃtaptā_), emaciated, and sleeping on the bare ground (_sthaṇḍilaśāyinī_), suffers torment on my account (_matkṛte_)!”
 </details>
 </details>
 
@@ -483,7 +483,7 @@ the monkeys to destroy the enemies forthwith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting upon Vaidehī being thus tormented (nipīḍyamānām), the righteous-souled Rāma (dharmātmā rāmaḥ) swiftly commanded the Vānaras to slay the enemies (dviṣatāṃ vadhe).
+Reflecting upon Vaidehī being thus tormented (_nipīḍyamānām_), the righteous-souled Rāma (_dharmātmā rāmaḥ_) swiftly commanded the Vānaras to slay the enemies (_dviṣatāṃ vadhe_).
 </details>
 </details>
 
@@ -539,7 +539,7 @@ another filled the air with their roaring resembling those of lion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that speech was uttered by Rāma of unwearied deeds (akliṣṭakarmaṇā), the vying monkeys (saṃgharṣamāṇāḥ plavagāḥ) made [the sky] resound with lion-roars (siṃhanādair anādayan).
+When that speech was uttered by Rāma of unwearied deeds (_akliṣṭakarmaṇā_), the vying monkeys (_saṃgharṣamāṇāḥ plavagāḥ_) made [the sky] resound with lion-roars (_siṃhanādair anādayan_).
 </details>
 </details>
 
@@ -600,7 +600,7 @@ besieged by Rama along with his monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let us shatter (vikirāma) this Laṅkā with mountain crags (śikharaiḥ) or with our very fists (muṣṭibhir eva vā)!”—thus did all the Vānara troop-commanders resolve in their minds (dadhire sarve manāṃsi).
+“Let us shatter (_vikirāma_) this Laṅkā with mountain crags (_śikharaiḥ_) or with our very fists (_muṣṭibhir eva vā_)!”—thus did all the Vānara troop-commanders resolve in their minds (_dadhire sarve manāṃsi_).
 </details>
 </details>
 
@@ -647,7 +647,7 @@ monkey-generals stood prepared (for the attack).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting up huge mountain peaks and crags (giriśṛṅgāṇi mahānti śikharāṇi ca), and uprooting diverse trees (tarūṃś cotpāṭya vividhān), the Vānara troop-commanders stood ready.
+Lifting up huge mountain peaks and crags (_giriśṛṅgāṇi mahānti śikharāṇi ca_), and uprooting diverse trees (_tarūṃś cotpāṭya vividhān_), the Vānara troop-commanders stood ready.
 </details>
 </details>
 
@@ -707,7 +707,7 @@ columns, began to scale the heights of Lanka, while Ravana stood gazing.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as the lord of rākṣasas looked on (prekṣato rākṣasendrasya), those armies in their respective divisions (bhāgaśaḥ) scaled Laṅkā at that time to fulfill the cherished desire of Rāghava (rāghavapriyakāmārtham).
+Even as the lord of _rākṣasas_ looked on (_prekṣato rākṣasendrasya_), those armies in their respective divisions (_bhāgaśaḥ_) scaled Laṅkā at that time to fulfill the cherished desire of Rāghava (_rāghavapriyakāmārtham_).
 </details>
 </details>
 
@@ -761,7 +761,7 @@ in Rama's service.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those copper-faced, golden-hued [monkeys] (tāmravaktrā hemābhāḥ), having staked their lives for Rāma's sake (rāmārthe tyaktajīvitāḥ) and fighting with sāla trees and mountains (sālabhūdharayodhinaḥ), charged straight toward Laṅkā.
+Those copper-faced, golden-hued [monkeys] (_tāmravaktrā hemābhāḥ_), having staked their lives for Rāma&#x27;s sake (_rāmārthe tyaktajīvitāḥ_) and fighting with _sāla_ trees and mountains (_sālabhūdharayodhinaḥ_), charged straight toward Laṅkā.
 </details>
 </details>
 
@@ -813,7 +813,7 @@ trees, mountain-tops and fists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With trees, mountain peaks, and their fists (drumaiḥ parvatāgraiś ca muṣṭibhiś ca), those leaping monkeys shattered (mamanthuḥ) the countless rampart-crests (prākārāgrāṇy asaṃkhyāni) and arched gateways (toraṇāni).
+With trees, mountain peaks, and their fists (_drumaiḥ parvatāgraiś ca muṣṭibhiś ca_), those leaping monkeys shattered (_mamanthuḥ_) the countless rampart-crests (_prākārāgrāṇy asaṃkhyāni_) and arched gateways (_toraṇāni_).
 </details>
 </details>
 
@@ -865,7 +865,7 @@ grasses and logs of wood.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the Vānaras filled up the moats (parikhān pūrayantaś ca)—reservoirs of pellucid water (prasannasalilāśayān)—with dust, mountain crags, grass, and timber (pāṃsubhiḥ parvatāgraiś ca tṛṇaiḥ kāṣṭhaiś ca).
+And the Vānaras filled up the moats (_parikhān pūrayantaś ca_)—reservoirs of pellucid water (_prasannasalilāśayān_)—with dust, mountain crags, grass, and timber (_pāṃsubhiḥ parvatāgraiś ca tṛṇaiḥ kāṣṭhaiś ca_).
 </details>
 </details>
 
@@ -918,7 +918,7 @@ thousands, in crores and even hundreds of crores.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then troop-commanders leading thousands of troops (sahasrayūthāś ca), and others leading tens of millions of troops (koṭiyūthāś ca) or ratusan-crores of troops (koṭiyūthaśatāś cānye), scaled Laṅkā at that moment.
+Then troop-commanders leading thousands of troops (_sahasrayūthāś ca_), and others leading tens of millions of troops (_koṭiyūthāś ca_) or ratusan-crores of troops (_koṭiyūthaśatāś cānye_), scaled Laṅkā at that moment.
 </details>
 </details>
 
@@ -999,9 +999,9 @@ springing, leaping and roaring.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Crushing the golden gateways (kāñcanāni pramardantas toraṇāni) and battering down the gate-towers (gopurāṇi pramathya ca) as lofty as the peaks of Kailāsa (kailāsaśikharāgrāṇi), the monkeys [pressed forward].
+**18:** Crushing the golden gateways (_kāñcanāni pramardantas toraṇāni_) and battering down the gate-towers (_gopurāṇi pramathya ca_) as lofty as the peaks of Kailāsa (_kailāsaśikharāgrāṇi_), the monkeys [pressed forward].
 
-**19:** Bounding around (āplavantaḥ), leaping forward (plavantaś ca), and roaring (garjantaś ca), the monkeys resembling great elephants (mahāvāraṇasaṃnibhāḥ) rushed against that Laṅkā.
+**19:** Bounding around (_āplavantaḥ_), leaping forward (_plavantaś ca_), and roaring (_garjantaś ca_), the monkeys resembling great elephants (_mahāvāraṇasaṃnibhāḥ_) rushed against that Laṅkā.
 </details>
 </details>
 
@@ -1063,9 +1063,9 @@ rushed towards the defensive walls of Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Victorious is Rāma of mighty strength (jayaty urubalo rāmaḥ), and Lakṣmaṇa of great valor (mahābalaḥ)! Victorious is King Sugrīva, protected by Rāghava (rāghaveṇābhipālitaḥ)!”
+**20:** “Victorious is Rāma of mighty strength (_jayaty urubalo rāmaḥ_), and Lakṣmaṇa of great valor (_mahābalaḥ_)! Victorious is King Sugrīva, protected by Rāghava (_rāghaveṇābhipālitaḥ_)!”
 
-**21:** Proclaiming thus (ity evaṃ ghoṣayantaś ca) and roaring, the shape-shifting monkeys (kāmarūpiṇaḥ) charged against the rampart of Laṅkā (laṅkāyāḥ prākāram).
+**21:** Proclaiming thus (_ity evaṃ ghoṣayantaś ca_) and roaring, the shape-shifting monkeys (_kāmarūpiṇaḥ_) charged against the rampart of Laṅkā (_laṅkāyāḥ prākāram_).
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ Meanwhile, they formed an encampment of a multitude of military divisions there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vīrabāhu, Subāhu, Nala, and Panasa as well—those Vānara troop-commanders, having battered and occupied the rampart (nipīḍyopaniviṣṭās te prākāram), established their military encampment (skandhāvāraniveśanam) in that interval.
+Vīrabāhu, Subāhu, Nala, and Panasa as well—those Vānara troop-commanders, having battered and occupied the rampart (_nipīḍyopaniviṣṭās te prākāram_), established their military encampment (_skandhāvāraniveśanam_) in that interval.
 </details>
 </details>
 
@@ -1179,7 +1179,7 @@ stood besieging the eastern gate (while remaining stationed in north-east).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, the mighty Kumuda, surrounded by ten crores (koṭibhir daśabhir vṛtaḥ) of triumphant monkeys (haribhir jitakāśibhiḥ), blockaded the eastern gate (pūrvadvāram) and stood firm.
+Meanwhile, the mighty Kumuda, surrounded by ten crores (_koṭibhir daśabhir vṛtaḥ_) of triumphant monkeys (_haribhir jitakāśibhiḥ_), blockaded the eastern gate (_pūrvadvāram_) and stood firm.
 </details>
 </details>
 
@@ -1234,7 +1234,7 @@ too up their position, in order to assist Kumuda himself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To support him (sahāyārthe tu tasyaiva), the monkey Praghasa took up his post (niviṣṭaḥ), as did the mighty-armed Panasa surrounded by Vānaras.
+To support him (_sahāyārthe tu tasyaiva_), the monkey Praghasa took up his post (_niviṣṭaḥ_), as did the mighty-armed Panasa surrounded by Vānaras.
 </details>
 </details>
 
@@ -1296,7 +1296,7 @@ the exit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching the southern gate (dakṣiṇadvāram āsādya), the heroic and mighty monkey Śatabali blockaded it and stood firm (āvṛtya balavāṃs tasthau), surrounded by twenty crores (viṃśatyā koṭibhir vṛtaḥ).
+Reaching the southern gate (_dakṣiṇadvāram āsādya_), the heroic and mighty monkey Śatabali blockaded it and stood firm (_āvṛtya balavāṃs tasthau_), surrounded by twenty crores (_viṃśatyā koṭibhir vṛtaḥ_).
 </details>
 </details>
 
@@ -1350,7 +1350,7 @@ monkeys, stood besieging that gate.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding to the western gate (paścimadvāraṃ gatvā), the mighty Suṣeṇa, father of Tārā (tārāpitā), blockaded it and stood firm, encompassed by crores upon crores (koṭikoṭibhir āvṛtaḥ).
+Proceeding to the western gate (_paścimadvāraṃ gatvā_), the mighty Suṣeṇa, father of Tārā (_tārāpitā_), blockaded it and stood firm, encompassed by crores upon crores (_koṭikoṭibhir āvṛtaḥ_).
 </details>
 </details>
 
@@ -1406,7 +1406,7 @@ northern gate (while remaining stationed in the north west) stood besieging that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arriving at the northern gate (uttaradvāram āgamya), mighty Rāma together with Saumitri, and Sugrīva the lord of monkeys (sugrīvaś ca harīśvaraḥ), blockaded it and took their stand.
+Arriving at the northern gate (_uttaradvāram āgamya_), mighty Rāma together with Saumitri, and Sugrīva the lord of monkeys (_sugrīvaś ca harīśvaraḥ_), blockaded it and took their stand.
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ side of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The huge-bodied, terrible-looking golāṅgūla Gavākṣa (golāṅgūlo mahākāyo gavākṣo bhīmadarśanā) of great valor stood beside Rāma (tasthau rāmasya pārśvataḥ), surrounded by a crore.
+The huge-bodied, terrible-looking _golāṅgūla_ Gavākṣa (_golāṅgūlo mahākāyo gavākṣo bhīmadarśanā_) of great valor stood beside Rāma (_tasthau rāmasya pārśvataḥ_), surrounded by a crore.
 </details>
 </details>
 
@@ -1512,7 +1512,7 @@ accompanied by his watchful ministers, took his position where the mighty Rama i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Dhūmra of great valor, destroyer of foes (śatrunibarhaṇaḥ), surrounded by a crore of bears of terrifying wrath (ṛkṣāṇāṃ bhīmakopānām), stood beside Rāma.
+And Dhūmra of great valor, destroyer of foes (_śatrunibarhaṇaḥ_), surrounded by a crore of bears of terrifying wrath (_ṛkṣāṇāṃ bhīmakopānām_), stood beside Rāma.
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ army of monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clad in armor (saṃnaddhas tu) and mace in hand (gadāpāṇiḥ), the mighty Vibhīṣaṇa of great valor, surrounded by his vigilant ministers (vṛto yattais tu sacivaiḥ), stood wherever the mighty [Rāma] was.
+Clad in armor (_saṃnaddhas tu_) and mace in hand (_gadāpāṇiḥ_), the mighty Vibhīṣaṇa of great valor, surrounded by his vigilant ministers (_vṛto yattais tu sacivaiḥ_), stood wherever the mighty [Rāma] was.
 </details>
 </details>
 
@@ -1627,7 +1627,7 @@ decamping of the entire army immediately.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana, coursing all around (samantāt paridhāvantaḥ), guarded the Vānara host (rarakṣur harivāhinīm).
+Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana, coursing all around (_samantāt paridhāvantaḥ_), guarded the Vānara host (_rarakṣur harivāhinīm_).
 </details>
 </details>
 
@@ -1679,7 +1679,7 @@ demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa, lord of rākṣasas, his soul consumed by wrath (kopaparītātmā), swiftly commanded the sortie of all his armies (niryāṇaṃ sarvasainyānām) at that time.
+Then Rāvaṇa, lord of _rākṣasas_, his soul consumed by wrath (_kopaparītātmā_), swiftly commanded the sortie of all his armies (_niryāṇaṃ sarvasainyānām_) at that time.
 </details>
 </details>
 
@@ -1725,7 +1725,7 @@ whose discs were white as the moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon hearing that command uttered from Rāvaṇa's mouth (rāvaṇasya mukheritam), a terrifying roar (bhīmanirghoṣam) was suddenly sent up by the night-stalkers (udghuṣṭaṃ rajanīcaraiḥ).
+Upon hearing that command uttered from Rāvaṇa&#x27;s mouth (_rāvaṇasya mukheritam_), a terrifying roar (_bhīmanirghoṣam_) was suddenly sent up by the night-stalkers (_udghuṣṭaṃ rajanīcaraiḥ_).
 </details>
 </details>
 
@@ -1780,7 +1780,7 @@ extended to the full, by the most ghastly demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the kettledrums of the rākṣasas, with drumheads pale white as the moon (candrapāṇḍurapuṣkarāḥ), were sounded on all sides, struck with golden drumsticks (hemakoṇair abhihatāḥ).
+Then the kettledrums of the _rākṣasas_, with drumheads pale white as the moon (_candrapāṇḍurapuṣkarāḥ_), were sounded on all sides, struck with golden drumsticks (_hemakoṇair abhihatāḥ_).
 </details>
 </details>
 
@@ -1832,7 +1832,7 @@ clouds bordered with lightning accompanied by rows of cranes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And hundreds of thousands (śatasahasraśaḥ) of loudly resounding conches (mahāghoṣāḥ śaṅkhāḥ), filled with the breath of the mouths (mukhamārutapūritāḥ) of the fierce rākṣasas, blared forth (vineduś ca).
+And hundreds of thousands (_śatasahasraśaḥ_) of loudly resounding conches (_mahāghoṣāḥ śaṅkhāḥ_), filled with the breath of the mouths (_mukhamārutapūritāḥ_) of the fierce _rākṣasas_, blared forth (_vineduś ca_).
 </details>
 </details>
 
@@ -1885,7 +1885,7 @@ the ocean, which is swollen by the clouds, at the time of universal dissolution.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those night-stalkers of lustrous dark limbs (śubhanīlāṅgāḥ), holding white conches (saśaṅkhāḥ), shone like storm-clouds girt with rings of lightning and accompanied by white cranes (vidyunmaṇḍalasaṃnaddhāḥ sabalākā ivāmbudāḥ).
+Those night-stalkers of lustrous dark limbs (_śubhanīlāṅgāḥ_), holding white conches (_saśaṅkhāḥ_), shone like storm-clouds girt with rings of lightning and accompanied by white cranes (_vidyunmaṇḍalasaṃnaddhāḥ sabalākā ivāmbudāḥ_).
 </details>
 </details>
 
@@ -1939,7 +1939,7 @@ mountain with its ridges, plains and caves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the soldiers (sainyāḥ), gladdened and urged on by Rāvaṇa (rāvaṇacoditāḥ), rushed forth like the surging billows of the great ocean (vegā iva mahodadheḥ) swelling at the time of cosmic dissolution (samaye pūryamāṇasya).
+Then the soldiers (_sainyāḥ_), gladdened and urged on by Rāvaṇa (_rāvaṇacoditāḥ_), rushed forth like the surging billows of the great ocean (_vegā iva mahodadheḥ_) swelling at the time of cosmic dissolution (_samaye pūryamāṇasya_).
 </details>
 </details>
 
@@ -1985,7 +1985,7 @@ monkey- warriors re-echoed over the earth, sky and sea.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a roar was sent up on all sides by the Vānara army (vānarasainyena mukto nādaḥ), by which Mount Malaya—together with its plateaus, slopes, and caverns (sasānuprasthakandaraḥ)—was filled.
+Then a roar was sent up on all sides by the Vānara army (_vānarasainyena mukto nādaḥ_), by which Mount Malaya—together with its plateaus, slopes, and caverns (_sasānuprasthakandaraḥ_)—was filled.
 </details>
 </details>
 
@@ -2059,9 +2059,9 @@ in the former times between celestials and demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** The blare of conches and war-drums (śaṅkhadundubhinirghoṣaḥ) and the lion-roar of the mighty warriors (siṃhanādas tarasvinām) caused the earth, the firmament, and the ocean to reverberate (abhyanādayat)—
+**39:** The blare of conches and war-drums (_śaṅkhadundubhinirghoṣaḥ_) and the lion-roar of the mighty warriors (_siṃhanādas tarasvinām_) caused the earth, the firmament, and the ocean to reverberate (_abhyanādayat_)—
 
-**40:** —together with the trumpeting of elephants (gajānāṃ bṛṃhitaiḥ sārdham), the neighing of horses (hayānāṃ hreṣitair api), the rumbling of chariot-rims (rathānāṃ neminirghoṣaiḥ), and the battle-cries of the rākṣasas' mouths (rakṣasāṃ vadanasvanaiḥ).
+**40:** —together with the trumpeting of elephants (_gajānāṃ bṛṃhitaiḥ sārdham_), the neighing of horses (_hayānāṃ hreṣitair api_), the rumbling of chariot-rims (_rathānāṃ neminirghoṣaiḥ_), and the battle-cries of the _rākṣasas_&#x27; mouths (_rakṣasāṃ vadanasvanaiḥ_).
 </details>
 </details>
 
@@ -2113,7 +2113,7 @@ their flaming maces, spears, harpoons and axes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that interval, a terrible battle (ghoraḥ saṃgrāmaḥ) ensued between the rākṣasas and the Vānaras, just as in the war of the gods and asuras of old (yathā devāsure purā).
+In that interval, a terrible battle (_ghoraḥ saṃgrāmaḥ_) ensued between the _rākṣasas_ and the Vānaras, just as in the war of the gods and _asuras_ of old (_yathā devāsure purā_).
 </details>
 </details>
 
@@ -2144,7 +2144,7 @@ In that interval, a terrible battle (ghoraḥ saṃgrāmaḥ) ensued between the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proclaiming their own feats of valor (kathayantaḥ svavikramān), those [rākṣasas] struck down all the Vānaras with blazing maces (gadābhiḥ pradīptābhiḥ) and with javelins, pikes, and battle-axes (śaktiśūlaparaśvadhaiḥ).
+Proclaiming their own feats of valor (_kathayantaḥ svavikramān_), those [_rākṣasas_] struck down all the Vānaras with blazing maces (_gadābhiḥ pradīptābhiḥ_) and with javelins, pikes, and battle-axes (_śaktiśūlaparaśvadhaiḥ_).
 </details>
 </details>
 
@@ -2201,7 +2201,7 @@ nails and teeth "Victorious is king Sugreeva" - thus arose a loud war-cry.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Likewise, the huge-bodied, impetuous Vānaras (mahākāyāḥ vānarāḥ veginaḥ) struck down those rākṣasas with trees, mountain crags (vṛkṣaiḥ parvatāgraiś ca), and their claws and teeth (nakhair dantaiś ca).
+Likewise, the huge-bodied, impetuous Vānaras (_mahākāyāḥ vānarāḥ veginaḥ_) struck down those _rākṣasas_ with trees, mountain crags (_vṛkṣaiḥ parvatāgraiś ca_), and their claws and teeth (_nakhair dantaiś ca_).
 </details>
 </details>
 
@@ -2257,7 +2257,7 @@ the monkeys standing on the ground (below) with hooks and harpoons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A mighty cry arose, “Victorious is King Sugrīva (rājā jayati sugrīva iti)!” And [the rākṣasas], shouting, “O King, be victorious, be victorious (rājan jaya jayety uktvā)!” proclaimed their own respective names (svasvanāmakathām).
+A mighty cry arose, “Victorious is King Sugrīva (_rājā jayati sugrīva iti_)!” And [the _rākṣasas_], shouting, “O King, be victorious, be victorious (_rājan jaya jayety uktvā_)!” proclaimed their own respective names (_svasvanāmakathām_).
 </details>
 </details>
 
@@ -2313,7 +2313,7 @@ down the demons stationed on the walls by seizing them with their arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Other terrible rākṣasas standing on the ramparts (prākārasthāḥ) tore apart (vyadārayan) the Vānaras standing on the ground below (mahīṃ gatān) with bhindipāla clubs and pikes (bhindipālaiś ca śūlaiś caiva).
+Other terrible _rākṣasas_ standing on the ramparts (_prākārasthāḥ_) tore apart (_vyadārayan_) the Vānaras standing on the ground below (_mahīṃ gatān_) with _bhindipāla_ clubs and pikes (_bhindipālaiś ca śūlaiś caiva_).
 </details>
 </details>
 
@@ -2365,7 +2365,7 @@ a mire of flesh and blood.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the enraged Vānaras standing on the ground (mahīṃ gatāḥ), leaping up into the sky (kham āplutya), hurled down with their own arms (pātayām āsuḥ svabāhubhiḥ) the rākṣasas stationed on the ramparts (prākārasthān).
+And the enraged Vānaras standing on the ground (_mahīṃ gatāḥ_), leaping up into the sky (_kham āplutya_), hurled down with their own arms (_pātayām āsuḥ svabāhubhiḥ_) the _rākṣasas_ stationed on the ramparts (_prākārasthān_).
 </details>
 </details>
 
@@ -2407,6 +2407,6 @@ And the enraged Vānaras standing on the ground (mahīṃ gatāḥ), leaping up 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That tumultuous clash (sa samprahāras tumulaḥ) of the rākṣasas and the Vānaras, turning flesh and blood into mire (māṃsaśoṇitakardamaḥ), became wondrously incomparable (sambabhūvādbhutopamaḥ).
+That tumultuous clash (_sa samprahāras tumulaḥ_) of the _rākṣasas_ and the Vānaras, turning flesh and blood into mire (_māṃsaśoṇitakardamaḥ_), became wondrously incomparable (_sambabhūvādbhutopamaḥ_).
 </details>
 </details>

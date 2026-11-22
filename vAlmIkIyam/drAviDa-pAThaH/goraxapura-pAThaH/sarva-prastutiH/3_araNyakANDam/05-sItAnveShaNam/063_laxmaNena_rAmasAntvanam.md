@@ -89,7 +89,7 @@ drifted into a dire desperation while despairing his brother Lakshmana. [3-63-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of his beloved (priyayā vihīnaḥ) and tormented by grief and delusion (śokena mohena ca pīḍyamānaḥ), that prince (sa rāja-putraḥ), wearing an afflicted aspect (ārta-rūpaḥ) and filling his brother with despair (viṣādayan bhrātaram), entered into still fiercer despondency (bhūyo viṣādaṃ praviveśa tīvram).
+Bereft of his beloved (_priyayā vihīnaḥ_) and tormented by grief and delusion (_śokena mohena ca pīḍyamānaḥ_), that prince (_sa rāja-putraḥ_), wearing an afflicted aspect (_ārta-rūpaḥ_) and filling his brother with despair (_viṣādayan bhrātaram_), entered into still fiercer despondency (_bhūyo viṣādaṃ praviveśa tīvram_).
 </details>
 </details>
 
@@ -150,7 +150,7 @@ the sway of sorrow. [3-63-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Plunged in vast sorrow (śoke nimagno vipule), Rāma sighed hotly (uṣṇaṃ viniḥśvasya) and, weeping sorrowfully (rudan saśokam), spoke words suited to his calamity (vyasanānurūpam) unto Lakṣmaṇa, who was himself overcome by the sway of grief (śoka-vaśābhipannam):
+Plunged in vast sorrow (_śoke nimagno vipule_), Rāma sighed hotly (_uṣṇaṃ viniḥśvasya_) and, weeping sorrowfully (_rudan saśokam_), spoke words suited to his calamity (_vyasanānurūpam_) unto Lakṣmaṇa, who was himself overcome by the sway of grief (_śoka-vaśābhipannam_):
 </details>
 </details>
 
@@ -210,7 +210,7 @@ by woe are getting at me in seriation to burst my heart and mind... [3-63-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I think there is no second person like me upon the earth (na mad-vidho... dvitīyo 'sti vasuṃdharāyām) who has wrought such evil deeds (duṣkṛta-karmakārī); for sorrow upon sorrow (śokānuśoko hi) comes upon me in unbroken succession (paramparāyāḥ), rending my heart and mind (bhindan hṛdayaṃ manaś ca)!
+“I think there is no second person like me upon the earth (_na mad-vidho... dvitīyo &#x27;sti vasuṃdharāyām_) who has wrought such evil deeds (_duṣkṛta-karmakārī_); for sorrow upon sorrow (_śokānuśoko hi_) comes upon me in unbroken succession (_paramparāyāḥ_), rending my heart and mind (_bhindan hṛdayaṃ manaś ca_)!
 </details>
 </details>
 
@@ -278,7 +278,7 @@ bechances at a later time in the shape of misfortune.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely in former times (pūrvam) sinful deeds were deliberately and repeatedly committed by me (mayā... abhīpsitāni pāpāni karmāṇy asakṛt kṛtāni); in that regard, this ripening of fruits has befallen me today (ayam adyāpatito vipākaḥ), whereby I enter from sorrow into sorrow (duḥkhena duḥkhaṃ yad ahaṃ viśāmi).
+“Surely in former times (_pūrvam_) sinful deeds were deliberately and repeatedly committed by me (_mayā... abhīpsitāni pāpāni karmāṇy asakṛt kṛtāni_); in that regard, this ripening of fruits has befallen me today (_ayam adyāpatito vipākaḥ_), whereby I enter from sorrow into sorrow (_duḥkhena duḥkhaṃ yad ahaṃ viśāmi_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ are replenishing the haste of my agony... [3-63-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The loss of the kingdom (rājya-praṇāśaḥ), separation from kinsfolk (svajanair viyogaḥ), my father's death (pitur vināśaḥ), and separation from my mother (jananī-viyogaḥ)—all these, when reflected upon (pravicintitāni), O Lakṣmaṇa, swell the surge of my grief (me... śoka-vegam āpūrayanti).
+“The loss of the kingdom (_rājya-praṇāśaḥ_), separation from kinsfolk (_svajanair viyogaḥ_), my father&#x27;s death (_pitur vināśaḥ_), and separation from my mother (_jananī-viyogaḥ_)—all these, when reflected upon (_pravicintitāni_), O Lakṣmaṇa, swell the surge of my grief (_me... śoka-vegam āpūrayanti_).
 </details>
 </details>
 
@@ -398,7 +398,7 @@ fire which flares up in a flash when fuel is added... [3-63-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet all this sorrow of mine, O Lakṣmaṇa, had subsided in my body (śāntaṃ śarīre) after coming to the hardship of the forest (vanam etya kleśam); now, through separation from Sītā (sītā-viyogāt), it has flared up once more (punar apy udīrṇam), like a fire suddenly kindled with faggots (kāṣṭhair ivāgniḥ sahasopadīptaḥ).
+“Yet all this sorrow of mine, O Lakṣmaṇa, had subsided in my body (_śāntaṃ śarīre_) after coming to the hardship of the forest (_vanam etya kleśam_); now, through separation from Sītā (_sītā-viyogāt_), it has flared up once more (_punar apy udīrṇam_), like a fire suddenly kindled with faggots (_kāṣṭhair ivāgniḥ sahasopadīptaḥ_).
 </details>
 </details>
 
@@ -467,7 +467,7 @@ sweet voice might have wept a lot fearfully, and it is definite that she must ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely that noble lady of mine (sā nūnam āryā mama), timid as she is (bhīruḥ), when seized by a rākṣasa (rākṣasena hy abhyāhṛtā) and borne up into the sky (khaṃ samupetya), cried out repeatedly in terror (bhayena vikranditavaty abhīkṣṇam) in a broken voice (apasvaram), though wont to speak in sweet tones (susvara-vipralāpā)!
+“Surely that noble lady of mine (_sā nūnam āryā mama_), timid as she is (_bhīruḥ_), when seized by a _rākṣasa_ (_rākṣasena hy abhyāhṛtā_) and borne up into the sky (_khaṃ samupetya_), cried out repeatedly in terror (_bhayena vikranditavaty abhīkṣṇam_) in a broken voice (_apasvaram_), though wont to speak in sweet tones (_susvara-vipralāpā_)!
 </details>
 </details>
 
@@ -528,7 +528,7 @@ they are extricated from her body for devouring. [3-63-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those two rounded breasts of my beloved (vṛttau stanau... priyāyā mama), ever worthy of red sandal-paste (sadocitāv uttama-candanasya) of lovely aspect (priya-darśanasya), are surely besmeared with bloody mire (śoṇita-paṅka-digdhau)—and yet no death befalls me (mama nābhipātaḥ)!
+“Those two rounded breasts of my beloved (_vṛttau stanau... priyāyā mama_), ever worthy of red sandal-paste (_sadocitāv uttama-candanasya_) of lovely aspect (_priya-darśanasya_), are surely besmeared with bloody mire (_śoṇita-paṅka-digdhau_)—and yet no death befalls me (_mama nābhipātaḥ_)!
 </details>
 </details>
 
@@ -594,7 +594,7 @@ planet Raahu, it is definite... [3-63-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That face of hers (tasyā mukham), with its gentle, distinct, and soft speech (ślakṣṇa-suvyakta-mṛdu-pralāpam) and its mass of curling locks (kuñcita-keśa-bhāram), now that she has surely fallen under a demon's power (rakṣo-vaśaṃ nūnam upāgatāyāḥ), shines no more, like the moon in Rāhu's jaws (rāhu-mukhe yathenduḥ)!
+“That face of hers (_tasyā mukham_), with its gentle, distinct, and soft speech (_ślakṣṇa-suvyakta-mṛdu-pralāpam_) and its mass of curling locks (_kuñcita-keśa-bhāram_), now that she has surely fallen under a demon&#x27;s power (_rakṣo-vaśaṃ nūnam upāgatāyāḥ_), shines no more, like the moon in Rāhu&#x27;s jaws (_rāhu-mukhe yathenduḥ_)!
 </details>
 </details>
 
@@ -659,7 +659,7 @@ might have drunk her blood, it is definite... [3-63-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slit in a lonely spot (śūnye hi bhittvā) that throat of my beloved of noble vows (grīvāṃ priyāyā mama suvratāyāḥ), whose border was ever graced by a pearl-necklace (hāra-pāśasya sadocitāntām), blood-drinking demons have surely drunk their fill (rakṣāṃsi nūnaṃ paripītavanti... rudhirāśanāni)!
+“Having slit in a lonely spot (_śūnye hi bhittvā_) that throat of my beloved of noble vows (_grīvāṃ priyāyā mama suvratāyāḥ_), whose border was ever graced by a pearl-necklace (_hāra-pāśasya sadocitāntām_), blood-drinking demons have surely drunk their fill (_rakṣāṃsi nūnaṃ paripītavanti... rudhirāśanāni_)!
 </details>
 </details>
 
@@ -721,7 +721,7 @@ a piteous she-dove, it is definite... [3-63-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of me in the desolate forest (mayā vihīnā vijane vane) and dragged away after being seized by demons (rakṣobhir āhṛtya vikṛṣyamāṇā), she of long, lovely eyes (āyata-kānta-netrā), wretched like a female osprey (kurarīva dīnā), surely uttered a piteous cry (nūnaṃ vinādaṃ... muktavatī)!
+“Bereft of me in the desolate forest (_mayā vihīnā vijane vane_) and dragged away after being seized by demons (_rakṣobhir āhṛtya vikṛṣyamāṇā_), she of long, lovely eyes (_āyata-kānta-netrā_), wretched like a female osprey (_kurarīva dīnā_), surely uttered a piteous cry (_nūnaṃ vinādaṃ... muktavatī_)!
 </details>
 </details>
 
@@ -825,7 +825,7 @@ same everywhere.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seated close beside me (mayā sārdham... upopaviṣṭā) on this rock slab in former days (asmin... śilā-tale pūrvam), O Lakṣmaṇa, Sītā of noble disposition (udāra-śīlā), with a lovely smile (kānta-smitā) and breaking into laughter (jāta-hāsā), spoke many words unto thee (tvām āha sītā bahu-vākya-jātam).
+“Seated close beside me (_mayā sārdham... upopaviṣṭā_) on this rock slab in former days (_asmin... śilā-tale pūrvam_), O Lakṣmaṇa, Sītā of noble disposition (_udāra-śīlā_), with a lovely smile (_kānta-smitā_) and breaking into laughter (_jāta-hāsā_), spoke many words unto thee (_tvām āha sītā bahu-vākya-jātam_).
 </details>
 </details>
 
@@ -883,7 +883,7 @@ I think she would have gone thereunto. But, at anytime she did not go there, sin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Godāvarī, best of rivers (saritāṃ variṣṭhā), is ever dear to my beloved (priyā priyāyā mama nitya-kālam); ‘Could she have gone hither?’—so I ponder (apy atra gacched iti cintayāmi), yet she never goes anywhere alone (naikākinī yāti hi sā kadācit).
+“This Godāvarī, best of rivers (_saritāṃ variṣṭhā_), is ever dear to my beloved (_priyā priyāyā mama nitya-kālam_); ‘Could she have gone hither?’—so I ponder (_apy atra gacched iti cintayāmi_), yet she never goes anywhere alone (_naikākinī yāti hi sā kadācit_).
 </details>
 </details>
 
@@ -942,7 +942,7 @@ is incongruous, for she never goes to get lotuses, indeed without me... [3-63-14
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or has she of lotus-like face (padmānanā) and lotus-petal eyes (padma-palāśa-netrā) gone forth to fetch lotuses (padmāni vānetum abhiprayātā)? That too is impossible (tad apy ayuktam), for she never goes for lotuses without me (nahi sā kadācin mayā vinā gacchati paṅkajāni).
+“Or has she of lotus-like face (_padmānanā_) and lotus-petal eyes (_padma-palāśa-netrā_) gone forth to fetch lotuses (_padmāni vānetum abhiprayātā_)? That too is impossible (_tad apy ayuktam_), for she never goes for lotuses without me (_nahi sā kadācin mayā vinā gacchati paṅkajāni_).
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ kind! Nay, that thought also is incongruent, because she as a timid one is much 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or could she indeed have gone to this forest (kāmaṃ tv idaṃ... vanaṃ prayātā nu) with its clusters of blossoming trees (puṣpita-vṛkṣa-ṣaṇḍam) and flocks of diverse birds (nānā-vidhaiḥ pakṣi-gaṇair upetam)? That too is impossible, for being timid, she is exceedingly afraid when alone (ekākinī sātibibheti bhīruḥ).
+“Or could she indeed have gone to this forest (_kāmaṃ tv idaṃ... vanaṃ prayātā nu_) with its clusters of blossoming trees (_puṣpita-vṛkṣa-ṣaṇḍam_) and flocks of diverse birds (_nānā-vidhaiḥ pakṣi-gaṇair upetam_)? That too is impossible, for being timid, she is exceedingly afraid when alone (_ekākinī sātibibheti bhīruḥ_).
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ stolen... [3-63-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sun (āditya bho), knower of what is done and undone in the world (loka-kṛtākṛta-jña), O witness of the true and false deeds of the world (lokasya satyānṛta-karma-sākṣin), whither has my beloved gone, or by whom was she carried off (kva gatā hṛtā vā)? Declare all to me, who am stricken with grief (śaṃsasva me śoka-hatasya sarvam)!
+“O Sun (_āditya bho_), knower of what is done and undone in the world (_loka-kṛtākṛta-jña_), O witness of the true and false deeds of the world (_lokasya satyānṛta-karma-sākṣin_), whither has my beloved gone, or by whom was she carried off (_kva gatā hṛtā vā_)? Declare all to me, who am stricken with grief (_śaṃsasva me śoka-hatasya sarvam_)!
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ Thus Rama begged of the Eternals for locating Seetha. [3-63-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In all the worlds there is naught whatever (lokeṣu sarveṣu na nāsti kiṃcid) that is not ever known to thee (yat te na nityaṃ viditaṃ bhavet tat); declare, O Wind (śaṃsasva vāyo), concerning that lady who upholds the honour of her house (kula-pālinīṃ tām), whether she is dead, carried off, or tarrying on the way (mṛtā hṛtā vā pathi vartate vā)!”
+“In all the worlds there is naught whatever (_lokeṣu sarveṣu na nāsti kiṃcid_) that is not ever known to thee (_yat te na nityaṃ viditaṃ bhavet tat_); declare, O Wind (_śaṃsasva vāyo_), concerning that lady who upholds the honour of her house (_kula-pālinīṃ tām_), whether she is dead, carried off, or tarrying on the way (_mṛtā hṛtā vā pathi vartate vā_)!”
 </details>
 </details>
 
@@ -1204,7 +1204,7 @@ in that way, Soumitri whose courage is un-dispirited gave a justifiable and time
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto that Rāma, whose body was thus utterly subject to grief (śoka-vidheya-deham), bereft of sense (visaṃjñam), and lamenting (vilapantam eva), Sumitrā's son of undaunted spirit (adīna-sattvaḥ), abiding in what was right (nyāyye sthitaḥ), spoke a timely word (kāla-yutaṃ ca vākyam):
+Unto that Rāma, whose body was thus utterly subject to grief (_śoka-vidheya-deham_), bereft of sense (_visaṃjñam_), and lamenting (_vilapantam eva_), Sumitrā&#x27;s son of undaunted spirit (_adīna-sattvaḥ_), abiding in what was right (_nyāyye sthitaḥ_), spoke a timely word (_kāla-yutaṃ ca vākyam_):
 </details>
 </details>
 
@@ -1280,7 +1280,7 @@ killing of lonesome Abhimanyu, the son of Arjuna, in Maha Bharata war.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Casting off grief today, betake thyself to fortitude (śokaṃ visṛjyādya dhṛtiṃ bhajasva), and let there be energetic resolve in searching for her (sotsāhatā cāstu vimārgaṇe 'syāḥ); for men of energy never sink down in the world (utsāhavanto hi narā na loke sīdanti) even in deeds most difficult to accomplish (karmasv atiduṣkareṣu).”
+“Casting off grief today, betake thyself to fortitude (_śokaṃ visṛjyādya dhṛtiṃ bhajasva_), and let there be energetic resolve in searching for her (_sotsāhatā cāstu vimārgaṇe &#x27;syāḥ_); for men of energy never sink down in the world (_utsāhavanto hi narā na loke sīdanti_) even in deeds most difficult to accomplish (_karmasv atiduṣkareṣu_).”
 </details>
 </details>
 
@@ -1350,7 +1350,7 @@ no heed to it, and since he castaway his fortitude he again encountered an inexp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though Sumitrā's son of lofty valor spoke thus (itīva saumitrim udagra-pauruṣaṃ bruvantam), the afflicted increaser of Raghu's line (ārto raghu-vaṃśa-vardhanaḥ) paid no heed (na cintayāmāsa); abandoning fortitude (dhṛtiṃ vimuktavān), he once again fell into mighty sorrow (punaś ca duḥkhaṃ mahad abhyupāgamat).
+Though Sumitrā&#x27;s son of lofty valor spoke thus (_itīva saumitrim udagra-pauruṣaṃ bruvantam_), the afflicted increaser of Raghu&#x27;s line (_ārto raghu-vaṃśa-vardhanaḥ_) paid no heed (_na cintayāmāsa_); abandoning fortitude (_dhṛtiṃ vimuktavān_), he once again fell into mighty sorrow (_punaś ca duḥkhaṃ mahad abhyupāgamat_).
 </details>
 </details>
 

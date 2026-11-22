@@ -84,7 +84,7 @@ words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Rāma, the royal chaplain Vasiṣṭha then spoke once again another word fraught with dharma (vasiṣṭhas tu tadā rāmam uktvā rāja-purohitaḥ abravīd dharma-saṃyuktaṃ punar evāparaṃ vacaḥ):
+Having spoken thus to Rāma, the royal chaplain Vasiṣṭha then spoke once again another word fraught with dharma (_vasiṣṭhas tu tadā rāmam uktvā rāja-purohitaḥ abravīd dharma-saṃyuktaṃ punar evāparaṃ vacaḥ_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ instructors of a man are his teacher, his father and his mother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A man born in this world has three venerable gurus, O Kākutstha (puruṣasyeha jātasya bhavanti guravas trayaḥ): the preceptor, the father, and the mother, O Rāghava (ācāryaś caiva kākutstha pitā mātā ca rāghava).
+“A man born in this world has three venerable gurus, O Kākutstha (_puruṣasyeha jātasya bhavanti guravas trayaḥ_): the preceptor, the father, and the mother, O Rāghava (_ācāryaś caiva kākutstha pitā mātā ca rāghava_).
 </details>
 </details>
 
@@ -189,7 +189,7 @@ wisdom and therefore instructs the teacher is said to be the superior!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the father begets this man’s physical frame, O bull among men (pitā hy enaṃ janayati puruṣaṃ puruṣarṣabha), whereas the preceptor imparts wisdom; therefore he is called the chief guru (prajñāṃ dadāti cācāryas tasmāt sa gurur ucyate).
+For the father begets this man’s physical frame, O bull among men (_pitā hy enaṃ janayati puruṣaṃ puruṣarṣabha_), whereas the preceptor imparts wisdom; therefore he is called the chief guru (_prajñāṃ dadāti cācāryas tasmāt sa gurur ucyate_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ and to you too. In obeying my words, you will not transgress the path of the vir
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I here am the preceptor of your father and of yourself as well, O scorcher of foes (so ’haṃ te pitur ācāryas tava caiva parantapa); by fulfilling my word, you will not transgress the path of the virtuous (mama tvaṃ vacanaṃ kurvan nātivarteḥ satāṅ gatim).
+I here am the preceptor of your father and of yourself as well, O scorcher of foes (_so ’haṃ te pitur ācāryas tava caiva parantapa_); by fulfilling my word, you will not transgress the path of the virtuous (_mama tvaṃ vacanaṃ kurvan nātivarteḥ satāṅ gatim_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ righteous path."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For here are your assemblies of Brāhmaṇas, the guilds of citizens, and the twice-born classes as well (imā hi te pariṣadaḥ śreṇayaś ca dvijās tathā); by practicing your duty of protection toward them, dear son, you will not transgress the path of the virtuous (eṣu tāta caran dharmaṃ nātivarteḥ satāṅ gatim).
+For here are your assemblies of Brāhmaṇas, the guilds of citizens, and the twice-born classes as well (_imā hi te pariṣadaḥ śreṇayaś ca dvijās tathā_); by practicing your duty of protection toward them, dear son, you will not transgress the path of the virtuous (_eṣu tāta caran dharmaṃ nātivarteḥ satāṅ gatim_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ virtuous."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You ought not to fail in obedience toward your aged and righteous mother (vṛddhāyā dharma-śīlāyā mātur nārhasy avartitum); by fulfilling her word, you will not transgress the path of the virtuous (asyās tu vacanaṃ kurvan nātivarteḥ satāṅ gatim).
+You ought not to fail in obedience toward your aged and righteous mother (_vṛddhāyā dharma-śīlāyā mātur nārhasy avartitum_); by fulfilling her word, you will not transgress the path of the virtuous (_asyās tu vacanaṃ kurvan nātivarteḥ satāṅ gatim_).
 </details>
 </details>
 
@@ -411,7 +411,7 @@ Bharata, you will not be false to yourself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By fulfilling the word of Bharata who is entreating you, O Rāghava (bharatasya vacaḥ kurvan yācamānasya rāghava), you will not belie your own true nature, O you whose valor lies in truth and dharma (ātmānaṃ nātivartes tvaṃ satya-dharma-parākrama).”
+By fulfilling the word of Bharata who is entreating you, O Rāghava (_bharatasya vacaḥ kurvan yācamānasya rāghava_), you will not belie your own true nature, O you whose valor lies in truth and dharma (_ātmānaṃ nātivartes tvaṃ satya-dharma-parākrama_).”
 </details>
 </details>
 
@@ -463,7 +463,7 @@ excellent among men replied (as follows) to Vasishta who was seated there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus gently addressed by his preceptor, Rāma, that bull among men, himself replied to Vasiṣṭha who was seated near (evaṃ madhuram uktas tu guruṇā rāghavaḥ svayam pratyuvāca samāsīnaṃ vasiṣṭhaṃ puruṣarṣabhaḥ):
+Thus gently addressed by his preceptor, Rāma, that bull among men, himself replied to Vasiṣṭha who was seated near (_evaṃ madhuram uktas tu guruṇā rāghavaḥ svayam pratyuvāca samāsīnaṃ vasiṣṭhaṃ puruṣarṣabhaḥ_):
 </details>
 </details>
 
@@ -526,9 +526,9 @@ every moment, and even by nourishing him, can never be wholly requited."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “That care which mother and father ever bestow upon a son (yan mātā-pitarau vṛttaṃ tanaye kurutaḥ sadā)—what is done by mother and father cannot easily be repaid (na supratikaraṃ tat tu mātrā pitrā ca yat kṛtam),
+**9:** “That care which mother and father ever bestow upon a son (_yan mātā-pitarau vṛttaṃ tanaye kurutaḥ sadā_)—what is done by mother and father cannot easily be repaid (_na supratikaraṃ tat tu mātrā pitrā ca yat kṛtam_),
 
-**10:** through giving according to their power, through bathing and anointing him (yathā-śakti pradānena snāpanocchādanena ca), and through constant kindly speech and nourishing him (nityaṃ ca priya-vādena tathā saṃvardhanena ca).
+**10:** through giving according to their power, through bathing and anointing him (_yathā-śakti pradānena snāpanocchādanena ca_), and through constant kindly speech and nourishing him (_nityaṃ ca priya-vādena tathā saṃvardhanena ca_).
 </details>
 </details>
 
@@ -580,7 +580,7 @@ therefore be disregarded."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For King Daśaratha, my father, is my true progenitor (sa hi rājā janayitā pitā daśaratho mama); that command of his which was promised by me shall never prove false (ājñātaṃ yan mayā tasya na tan mithyā bhaviṣyati).”
+For King Daśaratha, my father, is my true progenitor (_sa hi rājā janayitā pitā daśaratho mama_); that command of his which was promised by me shall never prove false (_ājñātaṃ yan mayā tasya na tan mithyā bhaviṣyati_).”
 </details>
 </details>
 
@@ -632,7 +632,7 @@ addressed the following words to Sumantra the charioteer who was standing nearby
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma had spoken thus, the supremely magnanimous Bharata, deeply distressed at heart, immediately spoke to the charioteer standing beside him (evam uktas tu rāmeṇa bharataḥ pratyanantaram uvāca paramodāraḥ sūtaṃ parama-durmanāḥ):
+When Rāma had spoken thus, the supremely magnanimous Bharata, deeply distressed at heart, immediately spoke to the charioteer standing beside him (_evam uktas tu rāmeṇa bharataḥ pratyanantaram uvāca paramodāraḥ sūtaṃ parama-durmanāḥ_):
 </details>
 </details>
 
@@ -716,9 +716,9 @@ at the door of his crditor)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “Spread kuśa grass quickly for me here upon the bare ground, O charioteer (iha me sthaṇḍile śīghraṃ kuśān āstara sārathe); I shall sit in a fast of entreaty before my noble brother until he shows grace to me (āryaṃ pratyupavekṣyāmi yāvan me na prasīdati).
+**13:** “Spread kuśa grass quickly for me here upon the bare ground, O charioteer (_iha me sthaṇḍile śīghraṃ kuśān āstara sārathe_); I shall sit in a fast of entreaty before my noble brother until he shows grace to me (_āryaṃ pratyupavekṣyāmi yāvan me na prasīdati_).
 
-**14:** Without food and with veiled face, like a Brāhmaṇa creditor stripped of his wealth (anāhāro nirāloko dhana-hīno yathā dvijaḥ), I shall lie in front of his hut until he returns to Ayodhyā (śeṣye purastāt śālāyā yāvan na pratiyāsyati).”
+**14:** Without food and with veiled face, like a Brāhmaṇa creditor stripped of his wealth (_anāhāro nirāloko dhana-hīno yathā dvijaḥ_), I shall lie in front of his hut until he returns to Ayodhyā (_śeṣye purastāt śālāyā yāvan na pratiyāsyati_).”
 </details>
 </details>
 
@@ -774,7 +774,7 @@ Bharata, on his own, brought a heap of Kusha grass and spread it on the floor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Sumantra looking toward Rāma for permission, Bharata, distressed at heart (sa tu rāmam avekṣantaṃ sumantraṃ prekṣya durmanāḥ), fetched a layer of kuśa grass and spread it upon the ground himself (kuśottaram upasthāpya bhūmāv evāstarat svayam).
+Seeing Sumantra looking toward Rāma for permission, Bharata, distressed at heart (_sa tu rāmam avekṣantaṃ sumantraṃ prekṣya durmanāḥ_), fetched a layer of kuśa grass and spread it upon the ground himself (_kuśottaram upasthāpya bhūmāv evāstarat svayam_).
 </details>
 </details>
 
@@ -830,7 +830,7 @@ Rama of great splendour and the best among royal sages spoke to Bharata as follo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto him spoke Rāma of great splendor, the foremost of royal sages (tam uvāca mahā-tejā rāmo rājarṣi-sattamaḥ): “What wrong have I done, dear Bharata, that you sit down to besiege me by fasting (kiṃ māṃ bharata kurvāṇaṃ tāta pratyupavekṣyasi)?
+Unto him spoke Rāma of great splendor, the foremost of royal sages (_tam uvāca mahā-tejā rāmo rājarṣi-sattamaḥ_): “What wrong have I done, dear Bharata, that you sit down to besiege me by fasting (_kiṃ māṃ bharata kurvāṇaṃ tāta pratyupavekṣyasi_)?
 </details>
 </details>
 
@@ -883,7 +883,7 @@ world. But, it is not befitting for a warrior-class.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A Brāhmaṇa alone is entitled in this world to restrain men by lying on one side (brāhmaṇo hy eka-pārśvena narān roddhum ihārhati); there is no scriptural injunction for head-anointed Kṣatriyas to sit in a fast of dunning (na tu mūrdhābhiṣiktānāṃ vidhiḥ pratyupaveśane).
+A Brāhmaṇa alone is entitled in this world to restrain men by lying on one side (_brāhmaṇo hy eka-pārśvena narān roddhum ihārhati_); there is no scriptural injunction for head-anointed Kṣatriyas to sit in a fast of dunning (_na tu mūrdhābhiṣiktānāṃ vidhiḥ pratyupaveśane_).
 </details>
 </details>
 
@@ -939,7 +939,7 @@ speedily to Ayodhya the best of cities, from here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arise, O tiger among men, abandoning this terrible vow (uttiṣṭha nara-śārdūla hitvaitad dāruṇaṃ vratam); go swiftly from this place to Ayodhyā, the foremost of cities, O Rāghava (pura-varyām itaḥ kṣipram ayodhyāṃ yāhi rāghava).”
+Arise, O tiger among men, abandoning this terrible vow (_uttiṣṭha nara-śārdūla hitvaitad dāruṇaṃ vratam_); go swiftly from this place to Ayodhyā, the foremost of cities, O Rāghava (_pura-varyām itaḥ kṣipram ayodhyāṃ yāhi rāghava_).”
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ return.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Remaining seated even so upon the ground, Bharata looked all around and spoke to the people of the city and the countryside (āsīnas tv eva bharataḥ paura-jānapadaṃ janam uvāca sarvataḥ prekṣya): “Why do you not enjoin my noble brother to return (kim āryaṃ nānuśāsatha)?”
+Remaining seated even so upon the ground, Bharata looked all around and spoke to the people of the city and the countryside (_āsīnas tv eva bharataḥ paura-jānapadaṃ janam uvāca sarvataḥ prekṣya_): “Why do you not enjoin my noble brother to return (_kim āryaṃ nānuśāsatha_)?”
 </details>
 </details>
 
@@ -1053,7 +1053,7 @@ as follows: "We know Rama very well. He is speaking rightly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those people of the city and the countryside said to that high-souled prince (te tam ūcur mahātmānaṃ paura-jānapadā janāḥ): “We know Kākutstha well; Rāghava speaks rightly (kākutstham abhijānīmaḥ samyag vadati rāghavaḥ).
+Those people of the city and the countryside said to that high-souled prince (_te tam ūcur mahātmānaṃ paura-jānapadā janāḥ_): “We know Kākutstha well; Rāghava speaks rightly (_kākutstham abhijānīmaḥ samyag vadati rāghavaḥ_).
 </details>
 </details>
 
@@ -1105,7 +1105,7 @@ not able to convince him to return to Ayodhya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this illustrious prince too abides steadfastly by the word of his father (eṣo ’pi hi mahā-bhāgaḥ pitur vacasi tiṣṭhati); for that very reason we are unable to turn him back straightway (ata eva na śaktāḥ smo vyāvartayitum añjasā).”
+For this illustrious prince too abides steadfastly by the word of his father (_eṣo ’pi hi mahā-bhāgaḥ pitur vacasi tiṣṭhati_); for that very reason we are unable to turn him back straightway (_ata eva na śaktāḥ smo vyāvartayitum añjasā_).”
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ who see rightly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving their words, Rāma spoke this word to Bharata (teṣām ājñāya vacanaṃ rāmo vacanam abravīt): “Heed thus the word of our friends whose eyes are fixed on dharma (evaṃ nibodha vacanaṃ suhṛdāṃ dharma-cakṣuṣām).
+Perceiving their words, Rāma spoke this word to Bharata (_teṣām ājñāya vacanaṃ rāmo vacanam abravīt_): “Heed thus the word of our friends whose eyes are fixed on dharma (_evaṃ nibodha vacanaṃ suhṛdāṃ dharma-cakṣuṣām_).
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ the matter carefull. Rise and touch me and drink water."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard both these statements, weigh them well, O Rāghava (etac caivobhayaṃ śrutvā samyak sampaśya rāghava); arise, O great-armed prince, and touch both me and water (uttiṣṭha tvaṃ mahā-bāho māṃ ca spṛśa tathodakam).”
+Having heard both these statements, weigh them well, O Rāghava (_etac caivobhayaṃ śrutvā samyak sampaśya rāghava_); arise, O great-armed prince, and touch both me and water (_uttiṣṭha tvaṃ mahā-bāho māṃ ca spṛśa tathodakam_).”
 </details>
 </details>
 
@@ -1299,9 +1299,9 @@ well."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Rising then and touching water, Bharata spoke this word (athotthāya jalaṃ spṛṣṭvā bharato vākyam abravīt): “Let the assemblies, the ministers, and the guilds as well hear me (śṛṇvantu me pariṣado mantriṇaḥ śreṇayas tathā)!
+**24:** Rising then and touching water, Bharata spoke this word (_athotthāya jalaṃ spṛṣṭvā bharato vākyam abravīt_): “Let the assemblies, the ministers, and the guilds as well hear me (_śṛṇvantu me pariṣado mantriṇaḥ śreṇayas tathā_)!
 
-**25:** I never begged my father for the kingdom, nor did I counsel my mother to demand it (na yāce pitaraṃ rājyaṃ nānuśāsāmi mātaram), nor did I give my consent for my noble brother Rāghava, who knows supreme dharma, to go to the forest (āryaṃ parama-dharmajñaṃ nānujānāmi rāghavam).
+**25:** I never begged my father for the kingdom, nor did I counsel my mother to demand it (_na yāce pitaraṃ rājyaṃ nānuśāsāmi mātaram_), nor did I give my consent for my noble brother Rāghava, who knows supreme dharma, to go to the forest (_āryaṃ parama-dharmajñaṃ nānujānāmi rāghavam_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ our father be executed, then it is I who will reside in the forest for fourteen 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If, however, the word of our father must needs be fulfilled by someone dwelling in the forest (yadi tv avaśyaṃ vastavyaṃ kartavyaṃ ca pitur vacaḥ), then I myself shall dwell in the forest for fourteen years (aham eva nivatsyāmi caturdaśa samā vane).”
+If, however, the word of our father must needs be fulfilled by someone dwelling in the forest (_yadi tv avaśyaṃ vastavyaṃ kartavyaṃ ca pitur vacaḥ_), then I myself shall dwell in the forest for fourteen years (_aham eva nivatsyāmi caturdaśa samā vane_).”
 </details>
 </details>
 
@@ -1409,7 +1409,7 @@ looking at the inhabitants of town and country, spoke (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Astonished at that sincere speech of his brother, the righteous-souled Rāma looked toward the people of the city and the countryside and spoke (dharmātmā tasya tathyena bhrātur vākyena vismitaḥ uvāca rāmaḥ samprekṣya paura-jānapadaṃ janam):
+Astonished at that sincere speech of his brother, the righteous-souled Rāma looked toward the people of the city and the countryside and spoke (_dharmātmā tasya tathyena bhrātur vākyena vismitaḥ uvāca rāmaḥ samprekṣya paura-jānapadaṃ janam_):
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ either by me or by Bharata."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever was sold, pledged as security, or bought by my father while he was alive (vikrītam āhitaṃ krītaṃ yat pitrā jīvatā mama)—that cannot be annulled either by me or by Bharata (na tal lopayituṃ śakyaṃ mayā vā bharatena vā).
+“Whatever was sold, pledged as security, or bought by my father while he was alive (_vikrītam āhitaṃ krītaṃ yat pitrā jīvatā mama_)—that cannot be annulled either by me or by Bharata (_na tal lopayituṃ śakyaṃ mayā vā bharatena vā_).
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ righteous deed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No reprehensible substitute may be employed by me in the matter of dwelling in the forest (apadhir na mayā kāryo vana-vāse jugupsitaḥ); what was spoken by Kaikeyī was rightful, and what was done by my father was nobly done (yuktam uktaṃ ca kaikeyyā pitrā me sukṛtaṃ kṛtam).
+No reprehensible substitute may be employed by me in the matter of dwelling in the forest (_apadhir na mayā kāryo vana-vāse jugupsitaḥ_); what was spoken by Kaikeyī was rightful, and what was done by my father was nobly done (_yuktam uktaṃ ca kaikeyyā pitrā me sukṛtaṃ kṛtam_).
 </details>
 </details>
 
@@ -1584,7 +1584,7 @@ will be propitious in the case of this magnanimous Bharata, who is true to his p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I know Bharata to be forbearing and devoted to honoring his elders (jānāmi bharataṃ kṣāntaṃ guru-satkāra-kāriṇam); in this high-souled prince who is true to his promise, all is auspiciousness itself (sarvam evātra kalyāṇaṃ satya-sandhe mahātmani).
+I know Bharata to be forbearing and devoted to honoring his elders (_jānāmi bharataṃ kṣāntaṃ guru-satkāra-kāriṇam_); in this high-souled prince who is true to his promise, all is auspiciousness itself (_sarvam evātra kalyāṇaṃ satya-sandhe mahātmani_).
 </details>
 </details>
 
@@ -1636,7 +1636,7 @@ brother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When I have returned again from the forest, together with this brother of righteous character (anena dharma-śīlena vanāt pratyāgataḥ punaḥ bhrātrā saha) I shall become the supreme lord of the earth (bhaviṣyāmi pṛthivyāḥ patir uttamaḥ).
+When I have returned again from the forest, together with this brother of righteous character (_anena dharma-śīlena vanāt pratyāgataḥ punaḥ bhrātrā saha_) I shall become the supreme lord of the earth (_bhaviṣyāmi pṛthivyāḥ patir uttamaḥ_).
 </details>
 </details>
 
@@ -1702,7 +1702,7 @@ king has been fulfilled by me. Hence, relieve our father, the emperor from the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the king was solicited for a boon by Kaikeyī, and that word has been fulfilled by me (vṛto rājā hi kaikeyyā mayā tad-vacanaṃ kṛtam); by ruling the kingdom, deliver that lord of the earth, our father, from falsehood (anṛtan mocayānena pitaraṃ taṃ mahī-patim).”
+For the king was solicited for a boon by Kaikeyī, and that word has been fulfilled by me (_vṛto rājā hi kaikeyyā mayā tad-vacanaṃ kṛtam_); by ruling the kingdom, deliver that lord of the earth, our father, from falsehood (_anṛtan mocayānena pitaraṃ taṃ mahī-patim_).”
 </details>
 </details>
 

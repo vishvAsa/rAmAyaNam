@@ -49,7 +49,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma had thus recounted that wondrous birth of his (tathoktavati rāme tu tasya janma tad adbhutam), Lakṣmaṇa and the greatly renowned Bharata spoke once again (uvāca lakṣmaṇo bhūyo bharataś ca mahāyaśāḥ):
+When Rāma had thus recounted that wondrous birth of his (_tathoktavati rāme tu tasya janma tad adbhutam_), Lakṣmaṇa and the greatly renowned Bharata spoke once again (_uvāca lakṣmaṇo bhūyo bharataś ca mahāyaśāḥ_):
 </details>
 </details>
 
@@ -80,7 +80,7 @@ When Rāma had thus recounted that wondrous birth of his (tathoktavati rāme tu 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having dwelt a full year with the son of Soma (ilā sā somaputrasya saṃvatsaram athoṣitā), what did Ilā then do, O foremost of men (akarot kiṃ nara-śreṣṭha)? Be pleased to tell us the truth (tattvaṃ śaṃsitum arhasi)!”
+“Having dwelt a full year with the son of Soma (_ilā sā somaputrasya saṃvatsaram athoṣitā_), what did Ilā then do, O foremost of men (_akarot kiṃ nara-śreṣṭha_)? Be pleased to tell us the truth (_tattvaṃ śaṃsitum arhasi_)!”
 </details>
 </details>
 
@@ -111,7 +111,7 @@ When Rāma had thus recounted that wondrous birth of his (tathoktavati rāme tu 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the sweet words of those two questioning brothers (tayos tad vākya-mādhuryaṃ niśamya paripṛcchatoḥ), Rāma resumed this narrative (rāmaḥ punar uvācemām ... kathām) concerning the son of the Prajāpati (prajāpati-sute):
+Hearing the sweet words of those two questioning brothers (_tayos tad vākya-mādhuryaṃ niśamya paripṛcchatoḥ_), Rāma resumed this narrative (_rāmaḥ punar uvācemām ... kathām_) concerning the son of the Prajāpati (_prajāpati-sute_):
 </details>
 </details>
 
@@ -142,7 +142,7 @@ Hearing the sweet words of those two questioning brothers (tayos tad vākya-mād
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that hero had returned to manhood (puruṣatvaṃ gate śūre), the supremely wise and renowned Budha (budhaḥ parama-buddhimān ... mahāyaśāḥ) summoned the supremely noble sage Saṃvarta (saṃvartaṃ paramodāram ājuhāva),
+“When that hero had returned to manhood (_puruṣatvaṃ gate śūre_), the supremely wise and renowned Budha (_budhaḥ parama-buddhimān ... mahāyaśāḥ_) summoned the supremely noble sage Saṃvarta (_saṃvartaṃ paramodāram ājuhāva_),
 </details>
 </details>
 
@@ -173,7 +173,7 @@ Hearing the sweet words of those two questioning brothers (tayos tad vākya-mād
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and Cyavana, son of Bhṛgu (cyavanaṃ bhṛgu-putraṃ ca), and the sage Ariṣṭanemi (muniṃ cāriṣṭaneminam), Pramodana, Modakara (pramodanaṃ modakaram), and then the sage Durvāsas (tato durvāsasaṃ munim).
+“and Cyavana, son of Bhṛgu (_cyavanaṃ bhṛgu-putraṃ ca_), and the sage Ariṣṭanemi (_muniṃ cāriṣṭaneminam_), Pramodana, Modakara (_pramodanaṃ modakaram_), and then the sage Durvāsas (_tato durvāsasaṃ munim_).
 </details>
 </details>
 
@@ -204,7 +204,7 @@ Hearing the sweet words of those two questioning brothers (tayos tad vākya-mād
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having brought all these together (etān sarvān samānīya), that master of speech and seer of truth (vākyajñas tattva-darśanaḥ) addressed all those dear friends, steadfast in composure (sarvān suhṛdo dhairyeṇa susamāhitān):
+“Having brought all these together (_etān sarvān samānīya_), that master of speech and seer of truth (_vākyajñas tattva-darśanaḥ_) addressed all those dear friends, steadfast in composure (_sarvān suhṛdo dhairyeṇa susamāhitān_):
 </details>
 </details>
 
@@ -243,7 +243,7 @@ Budha introduces Kardama’s son Ila and asks the sages to devise his deliveranc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This mighty-armed king is Ila, the son of Kardama (ayaṃ rājā mahābāhuḥ kardamasya ilaḥ sutaḥ); know him as he truly is (jānītainaṃ yathā-bhūtam), and let what is best be ordained for him here (śreyo hy atra vidhīyatām)!’
+“‘This mighty-armed king is Ila, the son of Kardama (_ayaṃ rājā mahābāhuḥ kardamasya ilaḥ sutaḥ_); know him as he truly is (_jānītainaṃ yathā-bhūtam_), and let what is best be ordained for him here (_śreyo hy atra vidhīyatām_)!’
 </details>
 </details>
 
@@ -272,7 +272,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While they were still conversing together (teṣāṃ saṃvadatām eva), the greatly resplendent Kardama himself arrived at that hermitage (tam āśramam upāgamat kardamas tu mahātejāḥ) accompanied by great-souled brahmins (dvijaiḥ saha mahātmabhiḥ):
+“While they were still conversing together (_teṣāṃ saṃvadatām eva_), the greatly resplendent Kardama himself arrived at that hermitage (_tam āśramam upāgamat kardamas tu mahātejāḥ_) accompanied by great-souled brahmins (_dvijaiḥ saha mahātmabhiḥ_):
 </details>
 </details>
 
@@ -311,7 +311,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pulastya and Kratu, and Vaṣaṭkāra as well (pulastyaś ca kratuś caiva vaṣaṭkāras tathaiva ca), together with the greatly resplendent Oṅkāra (oṅkāraś ca mahātejāḥ), arrived at that hermitage (tam āśramam upāgamat).
+“Pulastya and Kratu, and Vaṣaṭkāra as well (_pulastyaś ca kratuś caiva vaṣaṭkāras tathaiva ca_), together with the greatly resplendent Oṅkāra (_oṅkāraś ca mahātejāḥ_), arrived at that hermitage (_tam āśramam upāgamat_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All of them, rejoicing in heart at meeting one another (hṛṣṭa-manasaḥ paraspara-samāgame), and desiring the welfare of the lord of Bāhli (hitaiṣiṇo bālhi-pateḥ), then uttered diverse counsels (pṛthag vākyāny athābruvan).
+“All of them, rejoicing in heart at meeting one another (_hṛṣṭa-manasaḥ paraspara-samāgame_), and desiring the welfare of the lord of Bāhli (_hitaiṣiṇo bālhi-pateḥ_), then uttered diverse counsels (_pṛthag vākyāny athābruvan_).
 </details>
 </details>
 
@@ -376,7 +376,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Kardama spoke words of supreme benefit for his son’s sake (sutārthaṃ paramaṃ hitam): ‘Listen, O twice-born ones, to my word (dvijāḥ śṛṇuta mad-vākyam) regarding what is truly auspicious for this king (yac chreyaḥ pārthivasya hi)!
+“Then Kardama spoke words of supreme benefit for his son’s sake (_sutārthaṃ paramaṃ hitam_): ‘Listen, O twice-born ones, to my word (_dvijāḥ śṛṇuta mad-vākyam_) regarding what is truly auspicious for this king (_yac chreyaḥ pārthivasya hi_)!
 </details>
 </details>
 
@@ -407,7 +407,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I see no other remedy save the Bull-Bannered Lord (nānyaṃ paśyāmi bhaiṣajyam antarā vṛṣabha-dhvajam); no sacrifice is higher than the Aśvamedha (nāśvamedhāt paro yajñaḥ), and it is most dear to that Great-Souled One (priyaś caiva mahātmanaḥ); therefore let us all perform that hard-to-attain rite for the king’s sake (tasmād yajāmahe sarve pārthivārthe durāsadam)!’
+“‘I see no other remedy save the Bull-Bannered Lord (_nānyaṃ paśyāmi bhaiṣajyam antarā vṛṣabha-dhvajam_); no sacrifice is higher than the Aśvamedha (_nāśvamedhāt paro yajñaḥ_), and it is most dear to that Great-Souled One (_priyaś caiva mahātmanaḥ_); therefore let us all perform that hard-to-attain rite for the king’s sake (_tasmād yajāmahe sarve pārthivārthe durāsadam_)!’
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Approving Kardama’s proposal, the sages enlist Saṃvarta’s royal disciple M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed by Kardama (kardamenaivam uktās tu), all those bulls among the twice-born (sarva eva dvijarṣabhāḥ) heartily approved that sacrifice (rocayanti sma taṃ yajñam) for the propitiation of Rudra (rudrasyārādhanaṃ prati).
+“Thus addressed by Kardama (_kardamenaivam uktās tu_), all those bulls among the twice-born (_sarva eva dvijarṣabhāḥ_) heartily approved that sacrifice (_rocayanti sma taṃ yajñam_) for the propitiation of Rudra (_rudrasyārādhanaṃ prati_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Approving Kardama’s proposal, the sages enlist Saṃvarta’s royal disciple M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the royal disciple of Saṃvarta, conqueror of hostile cities (saṃvartasya tu rājarṣeḥ śiṣyaḥ pura-purañjayaḥ), famed by the name of Marutta (marutta iti vikhyātaḥ), furnished all requisites for that sacrifice (taṃ yajñaṃ samupāharat).
+“And the royal disciple of Saṃvarta, conqueror of hostile cities (_saṃvartasya tu rājarṣeḥ śiṣyaḥ pura-purañjayaḥ_), famed by the name of Marutta (_marutta iti vikhyātaḥ_), furnished all requisites for that sacrifice (_taṃ yajñaṃ samupāharat_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Approving Kardama’s proposal, the sages enlist Saṃvarta’s royal disciple M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon a mighty sacrifice took place (tato yajño mahān āsīt) near the hermitage of Budha (budhāśrama-samīpataḥ), and the greatly renowned Rudra attained supreme gratification (rudraś ca paramaṃ toṣam ājagāma mahāyaśāḥ).
+“Thereupon a mighty sacrifice took place (_tato yajño mahān āsīt_) near the hermitage of Budha (_budhāśrama-samīpataḥ_), and the greatly renowned Rudra attained supreme gratification (_rudraś ca paramaṃ toṣam ājagāma mahāyaśāḥ_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ Approving Kardama’s proposal, the sages enlist Saṃvarta’s royal disciple M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when the sacrifice was concluded (atha yajñe samāpte tu), the lord of Umā, delighted with transcendent joy (prītaḥ paramayā mudā umāpatiḥ), addressed all the twice-born sages in the presence of Ila (dvijān sarvān uvāca ila-sannidhau):
+“Then, when the sacrifice was concluded (_atha yajñe samāpte tu_), the lord of Umā, delighted with transcendent joy (_prītaḥ paramayā mudā umāpatiḥ_), addressed all the twice-born sages in the presence of Ila (_dvijān sarvān uvāca ila-sannidhau_):
 </details>
 </details>
 
@@ -575,7 +575,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I am well pleased by this horse sacrifice and by your devotion (prīto ’smi hayamedhena bhaktyā ca), O foremost of brahmins (dvija-sattamāḥ); what dear and auspicious favor shall I do for this lord of Bāhli (asya bāhli-pateś caiva kiṃ karomi priyaṃ śubham)?’
+“‘I am well pleased by this horse sacrifice and by your devotion (_prīto ’smi hayamedhena bhaktyā ca_), O foremost of brahmins (_dvija-sattamāḥ_); what dear and auspicious favor shall I do for this lord of Bāhli (_asya bāhli-pateś caiva kiṃ karomi priyaṃ śubham_)?’
 </details>
 </details>
 
@@ -606,7 +606,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While the lord of the gods was speaking thus (tathā vadati deveśe), those deeply composed twice-born sages (dvijās te susamāhitāḥ) propitiated the lord of the gods (prasādayanti deveśam) so that Ilā might become a man (yathā syāt puruṣas tv ilā).
+“While the lord of the gods was speaking thus (_tathā vadati deveśe_), those deeply composed twice-born sages (_dvijās te susamāhitāḥ_) propitiated the lord of the gods (_prasādayanti deveśam_) so that Ilā might become a man (_yathā syāt puruṣas tv ilā_).
 </details>
 </details>
 
@@ -645,7 +645,7 @@ Pleased, Mahādeva restores manhood permanently to Ilā and vanishes; departing 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon the delighted Mahādeva of surpassing splendor (tataḥ prīto mahādevaḥ ... sumahātejāḥ) bestowed manhood once more upon Ilā (puruṣatvaṃ dadau punaḥ ilāyai), and having granted it, vanished from sight (dattvā cāntaradhīyata).
+“Thereupon the delighted Mahādeva of surpassing splendor (_tataḥ prīto mahādevaḥ ... sumahātejāḥ_) bestowed manhood once more upon Ilā (_puruṣatvaṃ dadau punaḥ ilāyai_), and having granted it, vanished from sight (_dattvā cāntaradhīyata_).
 </details>
 </details>
 
@@ -679,7 +679,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the horse sacrifice was completed (nivṛtte hayamedhe ca) and Hara had passed out of sight (gataś cādarśanaṃ haraḥ), all those far-seeing brahmins departed the way they had come (yathāgataṃ dvijāḥ sarve hy agacchan dīrgha-darśinaḥ).
+“When the horse sacrifice was completed (_nivṛtte hayamedhe ca_) and Hara had passed out of sight (_gataś cādarśanaṃ haraḥ_), all those far-seeing brahmins departed the way they had come (_yathāgataṃ dvijāḥ sarve hy agacchan dīrgha-darśinaḥ_).
 </details>
 </details>
 
@@ -713,7 +713,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the king, relinquishing Bāhli (rājā tu bāhlim utsṛjya), founded in the Middle Country (madhyadeśe ... niveśayām āsa) the peerless, fame-bringing city of Pratiṣṭhāna (puraṃ pratiṣṭhānaṃ yaśaskaram).
+“Then the king, relinquishing Bāhli (_rājā tu bāhlim utsṛjya_), founded in the Middle Country (_madhyadeśe ... niveśayām āsa_) the peerless, fame-bringing city of Pratiṣṭhāna (_puraṃ pratiṣṭhānaṃ yaśaskaram_).
 </details>
 </details>
 
@@ -744,7 +744,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The royal sage Śaśabindu, conqueror of cities, ruled Bāhli (śaśabinduś ca rājarṣir bāhliṃ pura-purañjayaḥ), while the mighty King Ila, son of the Prajāpati, ruled in Pratiṣṭhāna (pratiṣṭhāne ilo rājā prajāpati-suto balī).
+“The royal sage Śaśabindu, conqueror of cities, ruled Bāhli (_śaśabinduś ca rājarṣir bāhliṃ pura-purañjayaḥ_), while the mighty King Ila, son of the Prajāpati, ruled in Pratiṣṭhāna (_pratiṣṭhāne ilo rājā prajāpati-suto balī_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In due time that King Ila attained the unsurpassed world of Brahmā (sa kāle prāptavāṃl lokam ilo brāhmam anuttamam), and King Purūravas, son of Ilā (ailaḥ purūravā rājā), inherited Pratiṣṭhāna (pratiṣṭhānam avāptavān).
+“In due time that King Ila attained the unsurpassed world of Brahmā (_sa kāle prāptavāṃl lokam ilo brāhmam anuttamam_), and King Purūravas, son of Ilā (_ailaḥ purūravā rājā_), inherited Pratiṣṭhāna (_pratiṣṭhānam avāptavān_).
 </details>
 </details>
 
@@ -815,6 +815,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such indeed is the potency of the Aśvamedha, O bulls among men (īdṛśo hy aśvamedhasya prabhāvaḥ puruṣarṣabhau)! Though turned into a woman, he regained manhood (strī-bhūtaḥ pauruṣaṃ lebhe), as well as whatever else is hard to attain (yac cānyad api durlabham).”
+“Such indeed is the potency of the Aśvamedha, O bulls among men (_īdṛśo hy aśvamedhasya prabhāvaḥ puruṣarṣabhau_)! Though turned into a woman, he regained manhood (_strī-bhūtaḥ pauruṣaṃ lebhe_), as well as whatever else is hard to attain (_yac cānyad api durlabham_).”
 </details>
 </details>

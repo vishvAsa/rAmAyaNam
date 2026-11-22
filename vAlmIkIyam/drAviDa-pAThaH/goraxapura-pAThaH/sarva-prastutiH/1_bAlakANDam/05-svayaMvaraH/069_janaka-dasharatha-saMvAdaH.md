@@ -74,7 +74,7 @@ relatives then said this to his minister Sumantra. [1-69-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the night had passed (tato rātryāṃ vyatītāyām), King Daśaratha, filled with joy (rājā daśaratho hṛṣṭaḥ), accompanied by his preceptors and kinsmen (sopādhyāyaḥ sabāndhavaḥ), spoke these words to Sumantra (sumantram idam abravīt):
+Then, when the night had passed (_tato rātryāṃ vyatītāyām_), King Daśaratha, filled with joy (_rājā daśaratho hṛṣṭaḥ_), accompanied by his preceptors and kinsmen (_sopādhyāyaḥ sabāndhavaḥ_), spoke these words to Sumantra (_sumantram idam abravīt_):
 </details>
 </details>
 
@@ -123,7 +123,7 @@ let them travel in advance and let them be well-prepared for any exigency... [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today let all the superintendents of the treasury (adya sarve dhanādhyakṣāḥ), taking abundant wealth (dhanam ādāya puṣkalam) and furnished with manifold jewels (nānāratnasamanvitāḥ), march in the vanguard, well-arrayed (vrajantv agre suvihitāḥ).
+“Today let all the superintendents of the treasury (_adya sarve dhanādhyakṣāḥ_), taking abundant wealth (_dhanam ādāya puṣkalam_) and furnished with manifold jewels (_nānāratnasamanvitāḥ_), march in the vanguard, well-arrayed (_vrajantv agre suvihitāḥ_).
 </details>
 </details>
 
@@ -191,7 +191,7 @@ gold and gems in bright array
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the fourfold army also sally forth swiftly in full force (caturaṅgabalaṃ cāpi śīghraṃ niryātu sarvaśaḥ), and simultaneously with my command (mamājñāsamakālaṃ ca), let the finest palanquins, chariots, and mounts go forth (yānaṃ yugyam anuttamam).
+“Let the fourfold army also sally forth swiftly in full force (_caturaṅgabalaṃ cāpi śīghraṃ niryātu sarvaśaḥ_), and simultaneously with my command (_mamājñāsamakālaṃ ca_), let the finest palanquins, chariots, and mounts go forth (_yānaṃ yugyam anuttamam_).
 </details>
 </details>
 
@@ -261,9 +261,9 @@ for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Vasiṣṭha and Vāmadeva (vasiṣṭho vāmadevaś ca), Jābāli and Kaśyapa (jābālir atha kaśyapaḥ), the long-lived Mārkaṇḍeya (mārkaṇḍeyas tu dīrghāyuḥ), and the sage Kātyāyana (ṛṣiḥ kātyāyanas tathā)—
+**4:** “Vasiṣṭha and Vāmadeva (_vasiṣṭho vāmadevaś ca_), Jābāli and Kaśyapa (_jābālir atha kaśyapaḥ_), the long-lived Mārkaṇḍeya (_mārkaṇḍeyas tu dīrghāyuḥ_), and the sage Kātyāyana (_ṛṣiḥ kātyāyanas tathā_)—
 
-**5:** “let these twice-born sages proceed in front (ete dvijāḥ prayāntv agre). Yoke my chariot (syandanaṃ yojayasva me) so that there may be no delay of the appointed hour (yathā kālātyayo na syāt), for the envoys urge me to hasten (dūtā hi tvarayanti mām)!”
+**5:** “let these twice-born sages proceed in front (_ete dvijāḥ prayāntv agre_). Yoke my chariot (_syandanaṃ yojayasva me_) so that there may be no delay of the appointed hour (_yathā kālātyayo na syāt_), for the envoys urge me to hasten (_dūtā hi tvarayanti mām_)!”
 </details>
 </details>
 
@@ -324,7 +324,7 @@ are going afore of him. [1-69-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the command of the lord of men (vacanāc ca narendrasya), the fourfold army (senā ca caturaṅgiṇī) followed behind (pṛṣṭhato ’nvayāt) the king as he journeyed together with the sages (rājānam ṛṣibhiḥ sārdhaṃ vrajantam).
+At the command of the lord of men (_vacanāc ca narendrasya_), the fourfold army (_senā ca caturaṅgiṇī_) followed behind (_pṛṣṭhato ’nvayāt_) the king as he journeyed together with the sages (_rājānam ṛṣibhiḥ sārdhaṃ vrajantam_).
 </details>
 </details>
 
@@ -386,7 +386,7 @@ of bride like, 'meet a party halfway...' type protocol. This is other than *bara
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having traveled along the road for four days (gatvā caturahaṃ mārgam), he reached the realm of the Videhas (videhān abhyupeyivān); and hearing of his arrival, the illustrious King Janaka prepared a royal reception of honor (rājā ca janakaḥ śrīmāñ śrutvā pūjām akalpayat).
+Having traveled along the road for four days (_gatvā caturahaṃ mārgam_), he reached the realm of the Videhas (_videhān abhyupeyivān_); and hearing of his arrival, the illustrious King Janaka prepared a royal reception of honor (_rājā ca janakaḥ śrīmāñ śrutvā pūjām akalpayat_).
 </details>
 </details>
 
@@ -443,7 +443,7 @@ of Dasharatha. [1-69-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, approaching the aged King Daśaratha (tato rājānam āsādya vṛddhaṃ daśarathaṃ nṛpam), the delighted King Janaka experienced supreme rapture (mudito janako rājā praharṣaṃ paramaṃ yayau),
+Then, approaching the aged King Daśaratha (_tato rājānam āsādya vṛddhaṃ daśarathaṃ nṛpam_), the delighted King Janaka experienced supreme rapture (_mudito janako rājā praharṣaṃ paramaṃ yayau_),
 </details>
 </details>
 
@@ -511,7 +511,7 @@ to have done, and even both are said to have done that act.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and that best of monarchs spoke these words to that best of men who was filled with gladness (uvāca vacanaṃ śreṣṭho naraśreṣṭhaṃ mudānvitam): “Welcome to you, O best of men (svāgataṃ te naraśreṣṭha)! By good fortune have you arrived, O Rāghava (diṣṭyā prāpto ’si rāghava)!
+and that best of monarchs spoke these words to that best of men who was filled with gladness (_uvāca vacanaṃ śreṣṭho naraśreṣṭhaṃ mudānvitam_): “Welcome to you, O best of men (_svāgataṃ te naraśreṣṭha_)! By good fortune have you arrived, O Rāghava (_diṣṭyā prāpto ’si rāghava_)!
 </details>
 </details>
 
@@ -561,7 +561,7 @@ with all gods... [1-69-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You shall now experience the joy of both your sons, won by their valor (putrayor ubhayoḥ prītiṃ lapsyase vīryanirjitām)! By good fortune has the venerable sage Vasiṣṭha of mighty splendor arrived (diṣṭyā prāpto mahātejā vasiṣṭho bhagavān ṛṣiḥ),
+“You shall now experience the joy of both your sons, won by their valor (_putrayor ubhayoḥ prītiṃ lapsyase vīryanirjitām_)! By good fortune has the venerable sage Vasiṣṭha of mighty splendor arrived (_diṣṭyā prāpto mahātejā vasiṣṭho bhagavān ṛṣiḥ_),
 </details>
 </details>
 
@@ -624,7 +624,7 @@ noble-souled Raghava-s, who are the most valorous among all the valorous people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“together with all the foremost of the twice-born, like Śatakratu (Indra) accompanied by the gods (saha sarvair dvijaśreṣṭhair devair iva śatakratuḥ)! By good fortune have my obstacles been vanquished (diṣṭyā me nirjitā vighnāḥ); by good fortune has my lineage been honored (diṣṭyā me pūjitaṃ kulam),
+“together with all the foremost of the twice-born, like Śatakratu (Indra) accompanied by the gods (_saha sarvair dvijaśreṣṭhair devair iva śatakratuḥ_)! By good fortune have my obstacles been vanquished (_diṣṭyā me nirjitā vighnāḥ_); by good fortune has my lineage been honored (_diṣṭyā me pūjitaṃ kulam_),
 </details>
 </details>
 
@@ -685,7 +685,7 @@ paishaaca* and this topic can be discussed at a later time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“through this alliance with the Rāghavas, who are preeminent in valor and of mighty strength (rāghavaiḥ saha saṃbandhād vīryaśreṣṭhair mahābalaiḥ)! Tomorrow at dawn, O lord of men, you ought to celebrate (śvaḥ prabhāte narendra tvaṃ saṃvartayitum arhasi),
+“through this alliance with the Rāghavas, who are preeminent in valor and of mighty strength (_rāghavaiḥ saha saṃbandhād vīryaśreṣṭhair mahābalaiḥ_)! Tomorrow at dawn, O lord of men, you ought to celebrate (_śvaḥ prabhāte narendra tvaṃ saṃvartayitum arhasi_),
 </details>
 </details>
 
@@ -732,7 +732,7 @@ the king Janaka from amongst the sages. [1-69-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“at the conclusion of the sacrifice, O best of men, the marriage rite with the foremost of sages (yajñasyānte naraśreṣṭha vivāham ṛṣisattamaiḥ)!” Hearing those words of his in the midst of the sages, the lord of men (tasya tad vacanaṃ śrutvā ṛṣimadhye narādhipaḥ),
+“at the conclusion of the sacrifice, O best of men, the marriage rite with the foremost of sages (_yajñasyānte naraśreṣṭha vivāham ṛṣisattamaiḥ_)!” Hearing those words of his in the midst of the sages, the lord of men (_tasya tad vacanaṃ śrutvā ṛṣimadhye narādhipaḥ_),
 </details>
 </details>
 
@@ -786,7 +786,7 @@ giver's bounty...' for this expression.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-foremost of those skilled in speech, spoke in reply to the lord of the earth (vākyaṃ vākyavidāṃ śreṣṭhaḥ pratyuvāca mahīpatim): “‘The acceptance of a gift is subject to the giver’s will (pratigraho dātṛvaśaḥ)’—this maxim I have heard of old (śrutam etan mayā purā).
+foremost of those skilled in speech, spoke in reply to the lord of the earth (_vākyaṃ vākyavidāṃ śreṣṭhaḥ pratyuvāca mahīpatim_): “‘The acceptance of a gift is subject to the giver’s will (_pratigraho dātṛvaśaḥ_)’—this maxim I have heard of old (_śrutam etan mayā purā_).
 </details>
 </details>
 
@@ -841,7 +841,7 @@ of marriages etc., and for which Janaka is surprised.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As you shall direct, O knower of dharma, so shall we perform (yathā vakṣyasi dharmajña tat kariṣyāmahe vayam)!” Hearing that speech of the speaker of truth, most righteous and conducive to renown (tad dharmiṣṭhaṃ yaśasyaṃ ca vacanaṃ satyavādinaḥ),
+“As you shall direct, O knower of _dharma_, so shall we perform (_yathā vakṣyasi dharmajña tat kariṣyāmahe vayam_)!” Hearing that speech of the speaker of truth, most righteous and conducive to renown (_tad dharmiṣṭhaṃ yaśasyaṃ ca vacanaṃ satyavādinaḥ_),
 </details>
 </details>
 
@@ -907,7 +907,7 @@ all the sages have attained extreme joy and they spent that night happily. [1-69
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the lord of the Videhas was filled with supreme wonder (śrutvā videhādhipatiḥ paraṃ vismayam āgataḥ). Thereafter, all the hosts of sages, rejoicing in their mutual reunion (tataḥ sarve munigaṇāḥ parasparasamāgame),
+the lord of the Videhas was filled with supreme wonder (_śrutvā videhādhipatiḥ paraṃ vismayam āgataḥ_). Thereafter, all the hosts of sages, rejoicing in their mutual reunion (_tataḥ sarve munigaṇāḥ parasparasamāgame_),
 </details>
 </details>
 
@@ -956,7 +956,7 @@ with Lakshmana, strutted to touch the feet of his father Dasharatha. [1-69-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-passed that night happily, filled with great joy (harṣeṇa mahatā yuktās tāṃ rātrim avasan sukham). Then Rāma of mighty splendor came together with Lakṣmaṇa (atha rāmo mahātejā lakṣmaṇena samaṃ yayau),
+passed that night happily, filled with great joy (_harṣeṇa mahatā yuktās tāṃ rātrim avasan sukham_). Then Rāma of mighty splendor came together with Lakṣmaṇa (_atha rāmo mahātejā lakṣmaṇena samaṃ yayau_),
 </details>
 </details>
 
@@ -1015,7 +1015,7 @@ odd. So an explanation to this is furnished in the endnote.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-placing Viśvāmitra at their head, and reverently touched his father’s feet (viśvāmitraṃ puraskṛtya pituḥ pādāv upaspṛśan). And the king, beholding his two Rāghava sons, was filled with rapture (rājā ca rāghavau putrau niśāmya pariharṣitaḥ),
+placing Viśvāmitra at their head, and reverently touched his father’s feet (_viśvāmitraṃ puraskṛtya pituḥ pādāv upaspṛśan_). And the king, beholding his two Rāghava sons, was filled with rapture (_rājā ca rāghavau putrau niśāmya pariharṣitaḥ_),
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ life of the newly wed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and dwelt there supremely pleased, honored by Janaka (uvāsa paramaprīto janakenābhipūjitaḥ). Janaka too, of mighty splendor, knower of truth, having duly performed according to dharma the rites of the sacrifice and the preliminary nuptial ceremonies for his two daughters, passed the night (janako ’pi mahātejāḥ kriyā dharmeṇa tattvavit / yajñasya ca sutābhyāṃ ca kṛtvā rātrim uvāsa ha).
+and dwelt there supremely pleased, honored by Janaka (_uvāsa paramaprīto janakenābhipūjitaḥ_). Janaka too, of mighty splendor, knower of truth, having duly performed according to _dharma_ the rites of the sacrifice and the preliminary nuptial ceremonies for his two daughters, passed the night (_janako ’pi mahātejāḥ kriyā dharmeṇa tattvavit / yajñasya ca sutābhyāṃ ca kṛtvā rātrim uvāsa ha_).
 </details>
 </details>
 

@@ -81,7 +81,7 @@ has indeed seen the very same auguries which have earlier appeared to Khara. [3-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Khara of fierce prowess (khara-parākrame) had marched toward the hermitage (āśramam), Rāma, together with his brother, beheld those very portentous omens (autpātikān).
+When Khara of fierce prowess (_khara-parākrame_) had marched toward the hermitage (_āśramam_), Rāma, together with his brother, beheld those very portentous omens (_autpātikān_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ spoke this sentence to Lakshmana. [3-24-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those dreadfully terrible portents (utpātān mahā-ghorān)—and recognizing them to be baneful to living beings (prajānām ahitān)—the deeply indignant (atyamarṣaṇaḥ) Rāma spoke these words to Lakṣmaṇa:
+Seeing those dreadfully terrible portents (_utpātān mahā-ghorān_)—and recognizing them to be baneful to living beings (_prajānām ahitān_)—the deeply indignant (_atyamarṣaṇaḥ_) Rāma spoke these words to Lakṣmaṇa:
 </details>
 </details>
 
@@ -186,7 +186,7 @@ arisen, as though betokening the annihilation of all beings. See them. [3-24-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O mighty-armed one (mahā-bāho), these great portents (mahotpātān)—capable of sweeping away all creatures (sarva-bhūtāpahāriṇaḥ)—that have arisen to annihilate all the rākṣasas!
+“Behold, O mighty-armed one (_mahā-bāho_), these great portents (_mahotpātān_)—capable of sweeping away all creatures (_sarva-bhūtāpahāriṇaḥ_)—that have arisen to annihilate all the _rākṣasas_!
 </details>
 </details>
 
@@ -241,7 +241,7 @@ and copiously showering streams of blood. [3-24-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yonder harsh clouds (meghāḥ paruṣāḥ), tawny-red like asses (gardabhāruṇāḥ) and rumbling with harsh thunders (khara-svanāḥ), wheel across the sky (vyomni), pouring down streams of blood (rudhira-dhārāḥ).
+Yonder harsh clouds (_meghāḥ paruṣāḥ_), tawny-red like asses (_gardabhāruṇāḥ_) and rumbling with harsh thunders (_khara-svanāḥ_), wheel across the sky (_vyomni_), pouring down streams of blood (_rudhira-dhārāḥ_).
 </details>
 </details>
 
@@ -293,7 +293,7 @@ of mine are incessantly spurring to hook up those arrows, telling apart the impe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All my arrows (śarāḥ), wreathed in smoke (sadhūmāḥ), rejoice at the prospect of battle (yuddhābhinanditāḥ), and the gold-backed bows (rukma-pṛṣṭhāni cāpāni) stir of their own accord (viceṣṭante), O discerning one (vicakṣaṇa)!
+All my arrows (_śarāḥ_), wreathed in smoke (_sadhūmāḥ_), rejoice at the prospect of battle (_yuddhābhinanditāḥ_), and the gold-backed bows (_rukma-pṛṣṭhāni cāpāni_) stir of their own accord (_viceṣṭante_), O discerning one (_vicakṣaṇa_)!
 </details>
 </details>
 
@@ -345,7 +345,7 @@ with uncertainty of our lives. [3-24-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Judging by the manner in which the forest-roaming birds (pakṣiṇo vana-cāriṇaḥ) are crying out here, safety (abhayam)—or else danger—lies immediately ahead for us (agrato naḥ), along with grave peril to life (saṃśayo jīvitasya ca).
+Judging by the manner in which the forest-roaming birds (_pakṣiṇo vana-cāriṇaḥ_) are crying out here, safety (_abhayam_)—or else danger—lies immediately ahead for us (_agrato naḥ_), along with grave peril to life (_saṃśayo jīvitasya ca_).
 </details>
 </details>
 
@@ -384,7 +384,7 @@ Reading victory in his throbbing right arm and Lakṣmaṇa's radiant face, Rām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without doubt (na saṃśayaḥ), a mighty battle (samprahāraḥ sumahān) is about to take place; this [right] arm of mine (me bāhuḥ), throbbing again and again (sphuramāṇo muhur muhuḥ), proclaims it—
+“Without doubt (_na saṃśayaḥ_), a mighty battle (_samprahāraḥ sumahān_) is about to take place; this [right] arm of mine (_me bāhuḥ_), throbbing again and again (_sphuramāṇo muhur muhuḥ_), proclaims it—
 </details>
 </details>
 
@@ -438,7 +438,7 @@ and for sure, your face is also appearing brightish and aglow, which itself is a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Foretelling,] O heroic one (śūra), victory for us (naḥ jayam) and defeat for the foe (śatroḥ parājayam) close at hand (saṃnikarṣe); for your countenance (tava vaktram) appears radiant (suprabham) and serene (prasannam).
+[Foretelling,] O heroic one (_śūra_), victory for us (_naḥ jayam_) and defeat for the foe (_śatroḥ parājayam_) close at hand (_saṃnikarṣe_); for your countenance (_tava vaktram_) appears radiant (_suprabham_) and serene (_prasannam_).
 </details>
 </details>
 
@@ -490,7 +490,7 @@ on their longevity too. [3-24-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For when men who have marched forth for battle (udyatānāṃ yuddhārtham), O Lakṣmaṇa, have a lustreless countenance (niṣprabhaṃ vadanam), the exhaustion of their life-span (āyuḥ-parikṣayaḥ) is at hand.
+For when men who have marched forth for battle (_udyatānāṃ yuddhārtham_), O Lakṣmaṇa, have a lustreless countenance (_niṣprabhaṃ vadanam_), the exhaustion of their life-span (_āyuḥ-parikṣayaḥ_) is at hand.
 </details>
 </details>
 
@@ -542,7 +542,7 @@ by the demons of fiendish activities, and this is ear-splitting. [3-24-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This dreadful, mighty roar (ghoro mahā-dhvaniḥ) of bellowing rākṣasas (rakṣasāṃ nardatām) is heard, along with that of war-drums (bherīṇām) beaten by the cruel-deeded demons (rākṣasaiḥ krūra-karmabhiḥ).
+This dreadful, mighty roar (_ghoro mahā-dhvaniḥ_) of bellowing _rākṣasas_ (_rakṣasāṃ nardatām_) is heard, along with that of war-drums (_bherīṇām_) beaten by the cruel-deeded demons (_rākṣasaiḥ krūra-karmabhiḥ_).
 </details>
 </details>
 
@@ -600,7 +600,7 @@ and cannot become a maxim or axiom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Precautionary provision for the future (anāgata-vidhānam) must be made by a wise man (puruṣeṇa vipaścitā) who desires welfare (śubham icchatā) when he anticipates a calamity (āpadaṃ śaṅkamānena).
+Precautionary provision for the future (_anāgata-vidhānam_) must be made by a wise man (_puruṣeṇa vipaścitā_) who desires welfare (_śubham icchatā_) when he anticipates a calamity (_āpadaṃ śaṅkamānena_).
 </details>
 </details>
 
@@ -651,7 +651,7 @@ cave of a mountain overgrown with trees. [3-24-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, taking Vaidehī (vaidehīṃ gṛhītvā), arrow in hand (śara-pāṇiḥ) and bearing your bow (dhanur-dharaḥ), repair to a mountain cavern (guhāṃ śailasya) that is hard of access (durgām) and densely crowded with trees (pādapa-saṃkulām).
+Therefore, taking Vaidehī (_vaidehīṃ gṛhītvā_), arrow in hand (_śara-pāṇiḥ_) and bearing your bow (_dhanur-dharaḥ_), repair to a mountain cavern (_guhāṃ śailasya_) that is hard of access (_durgām_) and densely crowded with trees (_pādapa-saṃkulām_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ long. [3-24-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not wish this command of mine (vākyam idam) to be opposed (pratikūlitum) by you; you are conjured by my feet (śāpito mama pādābhyām)—go, my dear brother (vatsa), do not delay (mā ciram)!
+“I do not wish this command of mine (_vākyam idam_) to be opposed (_pratikūlitum_) by you; you are conjured by my feet (_śāpito mama pādābhyām_)—go, my dear brother (_vatsa_), do not delay (_mā ciram_)!
 </details>
 </details>
 
@@ -764,7 +764,7 @@ long to eliminate all of the nightwalkers, personally" Rama said thus to Lakshma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For you are both heroic and mighty (śūraś ca balavān) and could slay these [demons] without doubt (hanyā etān na saṃśayaḥ); yet I wish to slay all these night-stalkers (niśācarān) by myself (svayam).”
+For you are both heroic and mighty (_śūraś ca balavān_) and could slay these [demons] without doubt (_hanyā etān na saṃśayaḥ_); yet I wish to slay all these night-stalkers (_niśācarān_) by myself (_svayam_).”
 </details>
 </details>
 
@@ -833,7 +833,7 @@ verse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Lakṣmaṇa took up his arrows and bow (śarān ādāya cāpaṃ ca) and, together with Sītā (saha sītayā), betook himself to the inaccessible cavern (guhāṃ durgām).
+Thus addressed by Rāma, Lakṣmaṇa took up his arrows and bow (_śarān ādāya cāpaṃ ca_) and, together with Sītā (_saha sītayā_), betook himself to the inaccessible cavern (_guhāṃ durgām_).
 </details>
 </details>
 
@@ -886,7 +886,7 @@ good-idea!" and thus saying he donned his shield. [3-24-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Lakṣmaṇa had entered the cavern along with Sītā (tasmin praviṣṭe guhām), Rāma exclaimed, “Aha! It is accomplished (hanta niryuktam)!” and donned his coat of mail (kavacam āviśat).
+When Lakṣmaṇa had entered the cavern along with Sītā (_tasmin praviṣṭe guhām_), Rāma exclaimed, “Aha! It is accomplished (_hanta niryuktam_)!” and donned his coat of mail (_kavacam āviśat_).
 </details>
 </details>
 
@@ -938,7 +938,7 @@ up-shot in utter darkness. [3-24-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with that fire-bright armour (tenāgni-nikāśena kavacena), Rāma shone like a great fire (mahān agnir iva) blazing up in the darkness (timire utthitaḥ).
+Adorned with that fire-bright armour (_tenāgni-nikāśena kavacena_), Rāma shone like a great fire (_mahān agnir iva_) blazing up in the darkness (_timire utthitaḥ_).
 </details>
 </details>
 
@@ -990,7 +990,7 @@ all the directions with the tinny sounds of bowstring. [3-24-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting up his mighty bow (cāpam udyamya mahat) and taking his arrows, that valorous hero (vīryavān) stood firm there (sambabhūvāsthitas tatra), filling the quarters with the twanging of his bowstring (jyā-svanaiḥ pūrayan diśaḥ).
+Lifting up his mighty bow (_cāpam udyamya mahat_) and taking his arrows, that valorous hero (_vīryavān_) stood firm there (_sambabhūvāsthitas tatra_), filling the quarters with the twanging of his bowstring (_jyā-svanaiḥ pūrayan diśaḥ_).
 </details>
 </details>
 
@@ -1049,7 +1049,7 @@ there aspiring to see the war. [3-24-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the gods along with the gandharvas (devāḥ sagandharvāḥ), and the high-souled siddhas together with the cāraṇas (siddhāś ca saha cāraṇaiḥ), assembled out of a desire to witness the battle (yuddha-darśana-kāṅkṣayā).
+Then the gods along with the _gandharvas_ (_devāḥ sagandharvāḥ_), and the high-souled _siddhas_ together with the _cāraṇas_ (_siddhāś ca saha cāraṇaiḥ_), assembled out of a desire to witness the battle (_yuddha-darśana-kāṅkṣayā_).
 </details>
 </details>
 
@@ -1128,9 +1128,9 @@ themselves. [3-24-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** And the high-souled sages (ṛṣayaś ca mahātmānaḥ)—foremost of brahmarṣis in the world (loke brahmarṣi-sattamāḥ) and men of meritorious deeds (puṇya-karmaṇaḥ)—having gathered together (sametya sahitāḥ), spoke to one another (ūcus te 'nyonyam):
+**20:** And the high-souled sages (_ṛṣayaś ca mahātmānaḥ_)—foremost of _brahmarṣis_ in the world (_loke brahmarṣi-sattamāḥ_) and men of meritorious deeds (_puṇya-karmaṇaḥ_)—having gathered together (_sametya sahitāḥ_), spoke to one another (_ūcus te &#x27;nyonyam_):
 
-**21:** “May welfare attend cows and Brāhmaṇas (svasti go-brāhmaṇānām), and all the worlds (lokānāṃ ca)!”—standing thus, [they prayed:] “May Rāghava conquer (jayatām) in battle the night-stalkers descended from Pulastya (paulastyān rajanīcarān),
+**21:** “May welfare attend cows and Brāhmaṇas (_svasti go-brāhmaṇānām_), and all the worlds (_lokānāṃ ca_)!”—standing thus, [they prayed:] “May Rāghava conquer (_jayatām_) in battle the night-stalkers descended from Pulastya (_paulastyān rajanīcarān_),
 </details>
 </details>
 
@@ -1187,9 +1187,9 @@ Thus the sages discussed among themselves. [3-24-22b, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Even as the discus-wielding [Viṣṇu] (cakra-hastaḥ) [conquered] in battle all the foremost of the asuras (sarvān asura-puṅgavān)!” Having spoken thus, they looked at one another (ālokya parasparam) and spoke again:
+**22:** Even as the discus-wielding [Viṣṇu] (_cakra-hastaḥ_) [conquered] in battle all the foremost of the _asuras_ (_sarvān asura-puṅgavān_)!” Having spoken thus, they looked at one another (_ālokya parasparam_) and spoke again:
 
-**23:** “Fourteen thousand (caturdaśa sahasrāṇi) are the rākṣasas of dreadful deeds (bhīma-karmaṇām), and righteous-souled Rāma is all alone (ekaś ca rāmo dharmātmā)—how shall the battle unfold (kathaṃ yuddhaṃ bhaviṣyati)?”
+**23:** “Fourteen thousand (_caturdaśa sahasrāṇi_) are the _rākṣasas_ of dreadful deeds (_bhīma-karmaṇām_), and righteous-souled Rāma is all alone (_ekaś ca rāmo dharmātmā_)—how shall the battle unfold (_kathaṃ yuddhaṃ bhaviṣyati_)?”
 </details>
 </details>
 
@@ -1240,7 +1240,7 @@ in their aircrafts, tarried there in the firmament peering inquisitively at Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, the royal sages (rājarṣayaḥ), siddhas, foremost of twice-born sages with their attendants (sagaṇāś ca dvijarṣabhāḥ), and the gods stationed in their aerial cars (vimāna-sthāś ca devatāḥ) stood filled with eager curiosity (jāta-kautūhalās tasthuḥ).
+Speaking thus, the royal sages (_rājarṣayaḥ_), _siddhas_, foremost of twice-born sages with their attendants (_sagaṇāś ca dvijarṣabhāḥ_), and the gods stationed in their aerial cars (_vimāna-sthāś ca devatāḥ_) stood filled with eager curiosity (_jāta-kautūhalās tasthuḥ_).
 </details>
 </details>
 
@@ -1300,7 +1300,7 @@ at him all beings went into the throes of dread. [3-24-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma filled with fiery splendour (āviṣṭaṃ tejasā) and standing at the forefront of battle (saṃgrāma-śirasi sthitam), all beings (sarvāṇi bhūtāni) trembled with fear (bhayād vivyathire) at that moment.
+Beholding Rāma filled with fiery splendour (_āviṣṭaṃ tejasā_) and standing at the forefront of battle (_saṃgrāma-śirasi sthitam_), all beings (_sarvāṇi bhūtāni_) trembled with fear (_bhayād vivyathire_) at that moment.
 </details>
 </details>
 
@@ -1364,7 +1364,7 @@ Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The peerless form (rūpam apratimam) of that Rāma of unwearying deeds (akliṣṭa-karmaṇaḥ) became like the form of the wrathful, high-souled Rudra (kruddhasya rudrasyeva mahātmanaḥ).
+The peerless form (_rūpam apratimam_) of that Rāma of unwearying deeds (_akliṣṭa-karmaṇaḥ_) became like the form of the wrathful, high-souled Rudra (_kruddhasya rudrasyeva mahātmanaḥ_).
 </details>
 </details>
 
@@ -1397,7 +1397,7 @@ The peerless form (rūpam apratimam) of that Rāma of unwearying deeds (akliṣ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While this was being spoken by the gods, gandharvas, and cāraṇas (deva-gandharva-cāraṇaiḥ), then, with a deep rumbling roar (gambhīra-nirhrādam) and dreadful shields, weapons, and banners (ghora-carmāyudha-dhvajam)—
+While this was being spoken by the gods, _gandharvas_, and _cāraṇas_ (_deva-gandharva-cāraṇaiḥ_), then, with a deep rumbling roar (_gambhīra-nirhrādam_) and dreadful shields, weapons, and banners (_ghora-carmāyudha-dhvajam_)—
 </details>
 </details>
 
@@ -1456,9 +1456,9 @@ filled with very loud and clamorous noise. [3-24-27, 28, 29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** The army of the yātudhānas (anīkaṃ yātudhānānām) closed in from every side (samantāt pratyapadyata)—[warriors] uttering heroic boasts (vīrālāpān visṛjatām) and rushing toward one another (anyonyam abhigacchatām),
+**28:** The army of the _yātudhānas_ (_anīkaṃ yātudhānānām_) closed in from every side (_samantāt pratyapadyata_)—[warriors] uttering heroic boasts (_vīrālāpān visṛjatām_) and rushing toward one another (_anyonyam abhigacchatām_),
 
-**29:** Twanging their bows (cāpāni visphārayatām), yawning and stretching repeatedly (jṛmbhatāṃ cāpy abhīkṣṇaśaḥ), raising loud clamour (vipraghuṣṭa-svanānām), and beating their war-drums (dundubhīṃś cāpi nighnatām).
+**29:** Twanging their bows (_cāpāni visphārayatām_), yawning and stretching repeatedly (_jṛmbhatāṃ cāpy abhīkṣṇaśaḥ_), raising loud clamour (_vipraghuṣṭa-svanānām_), and beating their war-drums (_dundubhīṃś cāpi nighnatām_).
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ without looking back. [3-24-30, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their tumultuous uproar (sutumulaḥ śabdaḥ) filled that forest (pūrayām āsa tad vanam); terrified by that din (tena śabdena vitrastāḥ), the forest-roaming beasts of prey (śvāpadā vana-cāriṇaḥ)—
+Their tumultuous uproar (_sutumulaḥ śabdaḥ_) filled that forest (_pūrayām āsa tad vanam_); terrified by that din (_tena śabdena vitrastāḥ_), the forest-roaming beasts of prey (_śvāpadā vana-cāriṇaḥ_)—
 </details>
 </details>
 
@@ -1579,7 +1579,7 @@ handling many assault weapons. [3-24-31b, 32a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Fled to wherever there was silence (yatra niḥśabdam), without looking back (pṛṣṭhato nāvalokayan). And that swiftly surging army (tac cānīkaṃ mahā-vegam) closed in upon Rāma (rāmaṃ samanuvartata),
+—Fled to wherever there was silence (_yatra niḥśabdam_), without looking back (_pṛṣṭhato nāvalokayan_). And that swiftly surging army (_tac cānīkaṃ mahā-vegam_) closed in upon Rāma (_rāmaṃ samanuvartata_),
 </details>
 </details>
 
@@ -1631,7 +1631,7 @@ Casting his sight all-over even that war-expert Rama has seen that army of Khara
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wielding diverse weapons (dhṛta-nānā-praharaṇam), deep and fathomless like the ocean (gambhīraṃ sāgaropamam). Rāma too, skilled in warfare (raṇa-paṇḍitaḥ), casting his gaze on every side (cārayaṃś cakṣuḥ sarvataḥ)—
+Wielding diverse weapons (_dhṛta-nānā-praharaṇam_), deep and fathomless like the ocean (_gambhīraṃ sāgaropamam_). Rāma too, skilled in warfare (_raṇa-paṇḍitaḥ_), casting his gaze on every side (_cārayaṃś cakṣuḥ sarvataḥ_)—
 </details>
 </details>
 
@@ -1719,9 +1719,9 @@ very much annoyed. [3-24-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** Beheld that army of Khara (khara-sainyaṃ tat) as he stood facing the battle (yuddhāyābhimukho gataḥ). Drawing his dread bow (vitatya ca dhanur bhīmam) and plucking arrows from his quivers (tūṇyāś coddhṛtya sāyakān)—
+**33:** Beheld that army of Khara (_khara-sainyaṃ tat_) as he stood facing the battle (_yuddhāyābhimukho gataḥ_). Drawing his dread bow (_vitatya ca dhanur bhīmam_) and plucking arrows from his quivers (_tūṇyāś coddhṛtya sāyakān_)—
 
-**34:** He summoned up fierce wrath (krodham āhārayat tīvram) for the slaying of all the rākṣasas (vadhārthaṃ sarva-rakṣasām); and in his wrath he became hard to gaze upon (duṣprekṣyaś cābhavat), blazing like the fire at the end of a world-age (yugāntāgnir iva jvalan).
+**34:** He summoned up fierce wrath (_krodham āhārayat tīvram_) for the slaying of all the _rākṣasas_ (_vadhārthaṃ sarva-rakṣasām_); and in his wrath he became hard to gaze upon (_duṣprekṣyaś cābhavat_), blazing like the fire at the end of a world-age (_yugāntāgnir iva jvalan_).
 </details>
 </details>
 
@@ -1775,7 +1775,7 @@ embarking on to ruin the Vedic ritual of Daksha Prajaapati. [3-24-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him filled with fiery energy (tejasāviṣṭam), the forest-deities trembled (prāvyathan vana-devatāḥ); and the form of that enraged Rāma (tasya ruṣṭasya rāmasya rūpam) then appeared like that of Pināka-wielding [Śiva] (pinākinaḥ) upraised to destroy the sacrifice of Dakṣa (dakṣasyeva kratuṃ hantum udyatasya).
+Seeing him filled with fiery energy (_tejasāviṣṭam_), the forest-deities trembled (_prāvyathan vana-devatāḥ_); and the form of that enraged Rāma (_tasya ruṣṭasya rāmasya rūpam_) then appeared like that of Pināka-wielding [Śiva] (_pinākinaḥ_) upraised to destroy the sacrifice of Dakṣa (_dakṣasyeva kratuṃ hantum udyatasya_).
 </details>
 </details>
 
@@ -1855,7 +1855,7 @@ of them, the evil-doers, after a short while.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its bows, ornaments, and chariots (tat-kārmukair ābharaṇai rathaiś ca), and its coats of mail gleaming like fire (tad-varmabhiś cāgni-samāna-varṇaiḥ), that host of flesh-eaters (sainyaṃ piśitāśanānām) looked like a mass of dark-blue clouds at sunrise (sūryodaye nīlam ivābhra-jālam).
+With its bows, ornaments, and chariots (_tat-kārmukair ābharaṇai rathaiś ca_), and its coats of mail gleaming like fire (_tad-varmabhiś cāgni-samāna-varṇaiḥ_), that host of flesh-eaters (_sainyaṃ piśitāśanānām_) looked like a mass of dark-blue clouds at sunrise (_sūryodaye nīlam ivābhra-jālam_).
 </details>
 </details>
 

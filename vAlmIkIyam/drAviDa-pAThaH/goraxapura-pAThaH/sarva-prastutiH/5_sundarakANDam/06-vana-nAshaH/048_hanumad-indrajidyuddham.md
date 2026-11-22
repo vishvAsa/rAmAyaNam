@@ -97,7 +97,7 @@ possessing the qualities of god (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when Prince Akṣa had been slain by Hanūmān, that great-souled lord of Rākṣasas, steadying his mind (manaḥ samādhāya), in wrath commanded Indrajit, who equaled the gods (devakalpam):
+Then, when Prince Akṣa had been slain by Hanūmān, that great-souled lord of Rākṣasas, steadying his mind (_manaḥ samādhāya_), in wrath commanded Indrajit, who equaled the gods (_devakalpam_):
 </details>
 </details>
 
@@ -155,7 +155,7 @@ perceived your performance with your missiles acquired by propitiating Brahma th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are a knower of mystic missiles (astravit), the foremost of weapon-wielders (śastrabhṛtāṃ variṣṭhaḥ), a giver of grief even to gods and Asuras, one whose deeds have been witnessed among the gods together with Indra (sureṣu sendreṣu ca dṛṣṭakarmā), and one who has accumulated missiles by propitiating the Grandsire Brahmā (pitāmahārādhanasaṃcitāstraḥ).
+“You are a knower of mystic missiles (_astravit_), the foremost of weapon-wielders (_śastrabhṛtāṃ variṣṭhaḥ_), a giver of grief even to gods and Asuras, one whose deeds have been witnessed among the gods together with Indra (_sureṣu sendreṣu ca dṛṣṭakarmā_), and one who has accumulated missiles by propitiating the Grandsire Brahmā (_pitāmahārādhanasaṃcitāstraḥ_).
 </details>
 </details>
 
@@ -210,7 +210,7 @@ not able to endure the strength of your missiles in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encountering the might of your missiles (tvadastrabalam āsādya), the gods together with the hosts of Maruts, even when sheltered by Indra the lord of gods (sureśvarasamāśritāḥ), were unable to stand in battle.
+Encountering the might of your missiles (_tvadastrabalam āsādya_), the gods together with the hosts of Maruts, even when sheltered by Indra the lord of gods (_sureśvarasamāśritāḥ_), were unable to stand in battle.
 </details>
 </details>
 
@@ -272,7 +272,7 @@ apportioning place and time properly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There is no one in the three worlds who does not become exhausted (na gataśramaḥ) in combat [with you]; guarded by the valor of your arms (bhujavīryābhiguptaḥ) and protected by asceticism, conversant with place and time (deśakālapradhānaḥ), you alone are the foremost in counsel (matisattamaḥ).
+There is no one in the three worlds who does not become exhausted (_na gataśramaḥ_) in combat [with you]; guarded by the valor of your arms (_bhujavīryābhiguptaḥ_) and protected by asceticism, conversant with place and time (_deśakālapradhānaḥ_), you alone are the foremost in counsel (_matisattamaḥ_).
 </details>
 </details>
 
@@ -330,7 +330,7 @@ as also your (physical) strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Among deeds in battles there is nothing impossible for you (na te 'sty aśakyam), nor in deliberation guided by wisdom (matipūrvamantraṇe) is there anything impracticable for you; there is no one in the three worlds (triṣu saṃgraheṣu) who does not know your missile-might and your strength.
+Among deeds in battles there is nothing impossible for you (_na te &#x27;sty aśakyam_), nor in deliberation guided by wisdom (_matipūrvamantraṇe_) is there anything impracticable for you; there is no one in the three worlds (_triṣu saṃgraheṣu_) who does not know your missile-might and your strength.
 </details>
 </details>
 
@@ -381,7 +381,7 @@ Admitting you in the squeeze of battle, my mind does not get fatigues because of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Worthy of me (mamānurūpam) is the power of your asceticism, your valor, and your missile-might in battle; having resorted to you in the crush of war (raṇāvamarde), my mind, assured of its object (niścitārtham), does not sink into dejection (na śramaṃ gacchati).
+Worthy of me (_mamānurūpam_) is the power of your asceticism, your valor, and your missile-might in battle; having resorted to you in the crush of war (_raṇāvamarde_), my mind, assured of its object (_niścitārtham_), does not sink into dejection (_na śramaṃ gacchati_).
 </details>
 </details>
 
@@ -425,7 +425,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slain are all the Kiṅkaras and the Rākṣasa Jambumālin, the heroic sons of the ministers (amātyaputrā vīrāś ca), and the five vanguard commanders (pañca senāgragāminaḥ),
+Slain are all the Kiṅkaras and the Rākṣasa Jambumālin, the heroic sons of the ministers (_amātyaputrā vīrāś ca_), and the five vanguard commanders (_pañca senāgragāminaḥ_),
 </details>
 </details>
 
@@ -495,7 +495,7 @@ The strength which is in me or in you, is indeed not there in them at all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along with richly equipped armies (balāni susamṛddhāni) with their steeds, elephants, and chariots, and your beloved uterine brother (sahodaras te dayitaḥ) Prince Akṣa has been slain (sūditaḥ); yet not in them rested my reliance (sāraḥ) that rests in you, O slayer of foes!
+Along with richly equipped armies (_balāni susamṛddhāni_) with their steeds, elephants, and chariots, and your beloved uterine brother (_sahodaras te dayitaḥ_) Prince Akṣa has been slain (_sūditaḥ_); yet not in them rested my reliance (_sāraḥ_) that rests in you, O slayer of foes!
 </details>
 </details>
 
@@ -559,7 +559,7 @@ in view your own strength, exhibit your valour accordingly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing this mighty host slain and the monkey's superhuman potency (prabhāvam) and valor, and surveying your own strength (ātmanaś cāpi sāraṃ) as well, put forth an impetus (kuruṣva vegam) worthy of your power.
+Seeing this mighty host slain and the monkey&#x27;s superhuman potency (_prabhāvam_) and valor, and surveying your own strength (_ātmanaś cāpi sāraṃ_) as well, put forth an impetus (_kuruṣva vegam_) worthy of your power.
 </details>
 </details>
 
@@ -625,7 +625,7 @@ whose enemies have died, have arrived near Hanuma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as the crushing of our army (balāvamardaḥ) ceases when you, by whom foes are quelled (śāntaśatrau), draw near (tvayi saṃnikṛṣṭe gate), so surveying your own strength and the foe's, begin [the combat], O foremost of missile-wielders!
+Just as the crushing of our army (_balāvamardaḥ_) ceases when you, by whom foes are quelled (_śāntaśatrau_), draw near (_tvayi saṃnikṛṣṭe gate_), so surveying your own strength and the foe&#x27;s, begin [the combat], O foremost of missile-wielders!
 </details>
 </details>
 
@@ -692,7 +692,7 @@ Hanuma the son of wind-god. It is not possible to kill him, who resembles fire, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O hero, armies perish in droves (senā gaṇaśo cyavanti), nor [does it avail] taking up a thunderbolt of vast hardness (vajram ādāya viśālasāram); there is no measure to the speed of the Wind-god's son (mārutasya gatipramāṇam), nor can one who resembles fire (agnikalpaḥ) be slain with an ordinary weapon (karaṇena).
+O hero, armies perish in droves (_senā gaṇaśo cyavanti_), nor [does it avail] taking up a thunderbolt of vast hardness (_vajram ādāya viśālasāram_); there is no measure to the speed of the Wind-god&#x27;s son (_mārutasya gatipramāṇam_), nor can one who resembles fire (_agnikalpaḥ_) be slain with an ordinary weapon (_karaṇena_).
 </details>
 </details>
 
@@ -758,7 +758,7 @@ bow, go and duly proceed with your work, without any hindrance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having rightly weighed that matter thus, with a concentrated mind (samāhitātmā) for the accomplishment of your task (svakarmasāmyāt), and recalling the divine missile-power of this bow (divyaṃ dhanuṣo 'sya vīryam), go forth and undertake an unblemished feat (akṣataṃ karma)!
+Having rightly weighed that matter thus, with a concentrated mind (_samāhitātmā_) for the accomplishment of your task (_svakarmasāmyāt_), and recalling the divine missile-power of this bow (_divyaṃ dhanuṣo &#x27;sya vīryam_), go forth and undertake an unblemished feat (_akṣataṃ karma_)!
 </details>
 </details>
 
@@ -821,7 +821,7 @@ said to be according to the duties of a king and is the commendation of a warrio
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not indeed is this resolve the best, O foremost in counsel (matiśreṣṭha), that I dispatch you; yet this resolve is approved (matir matā) by royal duties (rājadharmāṇām) and by the Kṣatriya code (kṣatrasya ca).
+Not indeed is this resolve the best, O foremost in counsel (_matiśreṣṭha_), that I dispatch you; yet this resolve is approved (_matir matā_) by royal duties (_rājadharmāṇām_) and by the Kṣatriya code (_kṣatrasya ca_).
 </details>
 </details>
 
@@ -876,7 +876,7 @@ in battle. You have to aspire for a victory too in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In battle, skill (vaiśāradyam) in diverse weapons must surely be called to mind (avaśyam eva boddhavyam), O tamer of foes, and victory in war must be desired (kāmyaś ca vijayo raṇe).”
+In battle, skill (_vaiśāradyam_) in diverse weapons must surely be called to mind (_avaśyam eva boddhavyam_), O tamer of foes, and victory in war must be desired (_kāmyaś ca vijayo raṇe_).”
 </details>
 </details>
 
@@ -942,7 +942,7 @@ in honour of Ravana the lord.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, hearing that speech of his father, that hero possessing the might of Dakṣa's divine sons (dakṣasutaprabhāvaḥ), his mind resolved upon battle (raṇāya pratipannabuddhiḥ), in great haste circumambulated (pradakṣiṇaṃ cakāra) his lord.
+Then, hearing that speech of his father, that hero possessing the might of Dakṣa&#x27;s divine sons (_dakṣasutaprabhāvaḥ_), his mind resolved upon battle (_raṇāya pratipannabuddhiḥ_), in great haste circumambulated (_pradakṣiṇaṃ cakāra_) his lord.
 </details>
 </details>
 
@@ -997,7 +997,7 @@ then entered the battle-field with an accomplished enthusiasm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, honored in turn by those beloved companions of his (svagaṇair iṣṭaiḥ), Indrajit, elated for war and filled with martial ardor (yuddhoddhatakṛtotsāhaḥ), set forth into battle (saṃgrāmaṃ samprapadyata).
+Then, honored in turn by those beloved companions of his (_svagaṇair iṣṭaiḥ_), Indrajit, elated for war and filled with martial ardor (_yuddhoddhatakṛtotsāhaḥ_), set forth into battle (_saṃgrāmaṃ samprapadyata_).
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ extra ordinary energy, rushed forth like an ocean on full-moon days.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Glorious, with eyes wide as lotuses (padmaviśālākṣaḥ), the son of the lord of Rākṣasas, of mighty splendor, went forth like the ocean at the full moon (samudra iva parvaṇi).
+Glorious, with eyes wide as lotuses (_padmaviśālākṣaḥ_), the son of the lord of Rākṣasas, of mighty splendor, went forth like the ocean at the full moon (_samudra iva parvaṇi_).
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ eagles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of irresistible speed (asahyavegaḥ) and resembling Indra, Indrajit mounted (samāruroha) a chariot yoked with four sharp-fanged tigers (vyāghraiś caturbhiḥ) matching Garuḍa the king of birds in speed (pakṣirājopamatulyavegaiḥ).
+Possessed of irresistible speed (_asahyavegaḥ_) and resembling Indra, Indrajit mounted (_samāruroha_) a chariot yoked with four sharp-fanged tigers (_vyāghraiś caturbhiḥ_) matching Garuḍa the king of birds in speed (_pakṣirājopamatulyavegaiḥ_).
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ to where Hanuma was.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That chariot-warrior (sa rathī), foremost of archers (dhanvināṃ śreṣṭhaḥ), knower of weapons and best of those conversant with mystic missiles (astravidāṃ varaḥ), drove swiftly in his chariot to where Hanūmān was.
+That chariot-warrior (_sa rathī_), foremost of archers (_dhanvināṃ śreṣṭhaḥ_), knower of weapons and best of those conversant with mystic missiles (_astravidāṃ varaḥ_), drove swiftly in his chariot to where Hanūmān was.
 </details>
 </details>
 
@@ -1225,7 +1225,7 @@ became more thrilled with delight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the rumble of his chariot (rathanirghoṣam) and the twang of his bowstring (jyāsvanaṃ kārmukasya ca), that monkey-hero became all the more delighted (samprahṛṣṭataro 'bhavat).
+Hearing the rumble of his chariot (_rathanirghoṣam_) and the twang of his bowstring (_jyāsvanaṃ kārmukasya ca_), that monkey-hero became all the more delighted (_samprahṛṣṭataro &#x27;bhavat_).
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ towards Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing his bow and sharp-barbed arrows (śitaśalyāṃś ca sāyakān), Indrajit, learned in war (raṇapaṇḍitaḥ), advanced aiming straight at Hanūmān (hanūmantam abhipretya).
+Seizing his bow and sharp-barbed arrows (_śitaśalyāṃś ca sāyakān_), Indrajit, learned in war (_raṇapaṇḍitaḥ_), advanced aiming straight at Hanūmān (_hanūmantam abhipretya_).
 </details>
 </details>
 
@@ -1343,7 +1343,7 @@ a bow in his hand, all the quarters became gloomy and ferocious animals howled i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as he went forth to battle arrow in hand (bāṇapāṇau), rejoicing in the fray (saṃyati jātaharṣe), all the quarters grew murky (diśaś ca sarvāḥ kaluṣā babhūvuḥ) and fierce beasts howled manifoldly (mṛgāś ca raudrā bahudhā vineduḥ).
+Then, as he went forth to battle arrow in hand (_bāṇapāṇau_), rejoicing in the fray (_saṃyati jātaharṣe_), all the quarters grew murky (_diśaś ca sarvāḥ kaluṣā babhūvuḥ_) and fierce beasts howled manifoldly (_mṛgāś ca raudrā bahudhā vineduḥ_).
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ of birds going around the sky, gathered there and clamoured loudly with a great 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nāgas and Yakṣas gathered there, along with great sages and Siddhas coursing through the wheel of the sky (cakracarāś ca siddhāḥ); and flocks of birds, covering the firmament (nabhaḥ samāvṛtya), cried out aloud, supremely delighted.
+Nāgas and Yakṣas gathered there, along with great sages and Siddhas coursing through the wheel of the sky (_cakracarāś ca siddhāḥ_); and flocks of birds, covering the firmament (_nabhaḥ samāvṛtya_), cried out aloud, supremely delighted.
 </details>
 </details>
 
@@ -1454,7 +1454,7 @@ and grew up his body speedily.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the chariot bearing Indra's banner (indradhvajam) approaching swiftly, the swift monkey uttered a mighty roar (nanāda ca mahānādam) and expanded in bulk (vyavardhata ca).
+Seeing the chariot bearing Indra&#x27;s banner (_indradhvajam_) approaching swiftly, the swift monkey uttered a mighty roar (_nanāda ca mahānādam_) and expanded in bulk (_vyavardhata ca_).
 </details>
 </details>
 
@@ -1517,7 +1517,7 @@ stretched his bow, which made a glaring sound like that accompanying a stroke li
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounted upon his celestial chariot, that Indrajit of wondrous bow twanged his bow (dhanur visphārayāmāsa) with a crash mighty as lightning and thunder (taḍidūrjitaniḥsvanam).
+Mounted upon his celestial chariot, that Indrajit of wondrous bow twanged his bow (_dhanur visphārayāmāsa_) with a crash mighty as lightning and thunder (_taḍidūrjitaniḥsvanam_).
 </details>
 </details>
 
@@ -1583,7 +1583,7 @@ Lord of demons who tightened hostility with each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those two of exceedingly fierce speed and mighty strength, fearless in battle (raṇanirviśaṅkau)—the monkey and the son of the lord of Rākṣasas—met in combat, locked in enmity like the lords of the gods and the Asuras (surāsurendrāv iva baddhavairau).
+Then those two of exceedingly fierce speed and mighty strength, fearless in battle (_raṇanirviśaṅkau_)—the monkey and the son of the lord of Rākṣasas—met in combat, locked in enmity like the lords of the gods and the Asuras (_surāsurendrāv iva baddhavairau_).
 </details>
 </details>
 
@@ -1640,7 +1640,7 @@ Hanuma wheeled about in the path of wind-god, his father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Expanding in bulk (pravṛddhaḥ), that immeasurable one shattered (vyahanat) the impetuous shower of arrows of that heroic great chariot-warrior, the archer honored in battle, and coursed along the path of his father the Wind (cacāra mārge pituḥ).
+Expanding in bulk (_pravṛddhaḥ_), that immeasurable one shattered (_vyahanat_) the impetuous shower of arrows of that heroic great chariot-warrior, the archer honored in battle, and coursed along the path of his father the Wind (_cacāra mārge pituḥ_).
 </details>
 </details>
 
@@ -1705,7 +1705,7 @@ as swift as lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that hero, the slayer of hostile heroes (paravīrahantā), loosed continuous (susaṃtatān) arrows with long, sharp barbs (āyatatīkṣṇaśalyān), well-feathered and adorned with wondrous golden shafts (kāñcanacitrapuṅkhān), matching the thunderbolt in speed.
+Then that hero, the slayer of hostile heroes (_paravīrahantā_), loosed continuous (_susaṃtatān_) arrows with long, sharp barbs (_āyatatīkṣṇaśalyān_), well-feathered and adorned with wondrous golden shafts (_kāñcanacitrapuṅkhān_), matching the thunderbolt in speed.
 </details>
 </details>
 
@@ -1761,7 +1761,7 @@ and war-drums as also the sound of the bow-string being plucked, Hanuma sprang u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, hearing the rumble of that chariot of his (tatsyandananiḥsvanaṃ ca), the din of mṛdaṅga, bherī, and paṭaha drums, and the twang of the bow being drawn (vikṛṣyamāṇasya ca kārmukasya), he leaped up again (punar utpapāta).
+Then, hearing the rumble of that chariot of his (_tatsyandananiḥsvanaṃ ca_), the din of _mṛdaṅga_, _bherī_, and _paṭaha_ drums, and the twang of the bow being drawn (_vikṛṣyamāṇasya ca kārmukasya_), he leaped up again (_punar utpapāta_).
 </details>
 </details>
 
@@ -1816,7 +1816,7 @@ the great monkey swiftly wheeled about between the arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The great monkey wheeled swiftly (āśu vyāvartata) within the spaces between the arrows (śarāṇām antareṣu); the monkey frustrated (mokṣayan) the target-seizing aim (lakṣyasaṃgraham) of that unerring marksman (tasyābhilakṣyasya).
+The great monkey wheeled swiftly (_āśu vyāvartata_) within the spaces between the arrows (_śarāṇām antareṣu_); the monkey frustrated (_mokṣayan_) the target-seizing aim (_lakṣyasaṃgraham_) of that unerring marksman (_tasyābhilakṣyasya_).
 </details>
 </details>
 
@@ -1870,7 +1870,7 @@ hands, sprang up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Darting again in front of his arrows (śarāṇām agratas tasya), Hanūmān, the son of the Wind, spread out his hands (prasārya hastau) and leaped aloft (utpapāta).
+Darting again in front of his arrows (_śarāṇām agratas tasya_), Hanūmān, the son of the Wind, spread out his hands (_prasārya hastau_) and leaped aloft (_utpapāta_).
 </details>
 </details>
 
@@ -1916,7 +1916,7 @@ battle, which captivated the minds of all beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both of them, endowed with speed and skilled in the deeds of war (raṇakarmaviśāradau), waged a supreme battle that captivated the minds of all beings (sarvabhūtamanogrāhi).
+Both of them, endowed with speed and skilled in the deeds of war (_raṇakarmaviśāradau_), waged a supreme battle that captivated the minds of all beings (_sarvabhūtamanogrāhi_).
 </details>
 </details>
 
@@ -1981,7 +1981,7 @@ became unbearable to each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Rākṣasa knew no weak point (antaram) of Hanūmān, nor did the son of the Wind [know] any weak point of that great-souled one; coming together, those two of godlike valor proved mutually irresistible (parasparaṃ nirviṣahau babhūvatuḥ).
+The Rākṣasa knew no weak point (_antaram_) of Hanūmān, nor did the son of the Wind [know] any weak point of that great-souled one; coming together, those two of godlike valor proved mutually irresistible (_parasparaṃ nirviṣahau babhūvatuḥ_).
 </details>
 </details>
 
@@ -2032,7 +2032,7 @@ high-minded Indrajit, who was well-known for hitting his target, got hold of a g
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as his target slipped away (lakṣye vihanyamāne) even while his unerring arrows fell thick and fast (śareṣv amogheṣu ca sampatatsu), that great-souled one, his mind concentrated in meditation and aiming (samādhisaṃyogasamāhitātmā), fell into deep thought (jagāma cintāṃ mahatīm).
+Then, as his target slipped away (_lakṣye vihanyamāne_) even while his unerring arrows fell thick and fast (_śareṣv amogheṣu ca sampatatsu_), that great-souled one, his mind concentrated in meditation and aiming (_samādhisaṃyogasamāhitātmā_), fell into deep thought (_jagāma cintāṃ mahatīm_).
 </details>
 </details>
 
@@ -2088,7 +2088,7 @@ then formed an idea as to how to resort to capture of that Hanuma the chief of m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, perceiving that monkey's invulnerability to death (avadhyatāṃ tasya kapeḥ samīkṣya), the son of the king of Rākṣasas formed a resolve regarding that foremost of monkey-heroes—pondering how he might be brought to submission (kathaṃ nigacched iti nigrahārtham).
+Then, perceiving that monkey&#x27;s invulnerability to death (_avadhyatāṃ tasya kapeḥ samīkṣya_), the son of the king of Rākṣasas formed a resolve regarding that foremost of monkey-heroes—pondering how he might be brought to submission (_kathaṃ nigacched iti nigrahārtham_).
 </details>
 </details>
 
@@ -2140,7 +2140,7 @@ splendor, then fitted to his bow, a missile presided over by Brahma the creator.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that hero of immense fiery energy, the foremost of those conversant with mystic missiles (astravidāṃ varaḥ), aimed (saṃdadhe) the missile of the Grandsire Brahmā (paitāmaham astram) against that chief of monkeys.
+Then that hero of immense fiery energy, the foremost of those conversant with mystic missiles (_astravidāṃ varaḥ_), aimed (_saṃdadhe_) the missile of the Grandsire Brahmā (_paitāmaham astram_) against that chief of monkeys.
 </details>
 </details>
 
@@ -2204,7 +2204,7 @@ of being killed, bound that Hanuma, the son of wind-god, by that presided over b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing “This one cannot be slain (avadhyo 'yam),” Indrajit, conversant with the true essence of mystic missiles (astratattvavit), bound (nijagrāha) the mighty-armed son of the Wind with that missile.
+Knowing “This one cannot be slain (_avadhyo &#x27;yam_),” Indrajit, conversant with the true essence of mystic missiles (_astratattvavit_), bound (_nijagrāha_) the mighty-armed son of the Wind with that missile.
 </details>
 </details>
 
@@ -2256,7 +2256,7 @@ on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound with that missile by the Rākṣasa, that monkey became motionless (abhavan nirviceṣṭaḥ) and fell upon the surface of the earth (papāta ca mahītale).
+Bound with that missile by the Rākṣasa, that monkey became motionless (_abhavan nirviceṣṭaḥ_) and fell upon the surface of the earth (_papāta ca mahītale_).
 </details>
 </details>
 
@@ -2321,7 +2321,7 @@ him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, recognizing that missile-bond (tadastrabandham), that foremost of monkey-heroes, free from the slightest distress through the Lord's grace (prabhoḥ prabhāvād vigatālpavegaḥ), called to mind the favor of the Grandsire (pitāmahānugraham) toward himself.
+Then, recognizing that missile-bond (_tadastrabandham_), that foremost of monkey-heroes, free from the slightest distress through the Lord&#x27;s grace (_prabhoḥ prabhāvād vigatālpavegaḥ_), called to mind the favor of the Grandsire (_pitāmahānugraham_) toward himself.
 </details>
 </details>
 
@@ -2378,7 +2378,7 @@ the entire creation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān reflected upon the Brahmā-missile consecrated with mantras sacred to Svayambhū (svāyambhuvair mantrair abhimantritam), and upon the boon granted by the Grandsire (varadānaṃ pitāmahāt):
+Then Hanūmān reflected upon the Brahmā-missile consecrated with mantras sacred to Svayambhū (_svāyambhuvair mantrair abhimantritam_), and upon the boon granted by the Grandsire (_varadānaṃ pitāmahāt_):
 </details>
 </details>
 
@@ -2444,7 +2444,7 @@ creator imposed by the enemy, it must be obeyed by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the potency of the Preceptor of the World (lokaguroḥ prabhāvāt), I have no power to cast off this bond; therefore this missile-bond of the Self-born (ātmayoner astrabandhaḥ), thus ordained, must be complied with by me (mayānuvartitavyaḥ).”
+“Through the potency of the Preceptor of the World (_lokaguroḥ prabhāvāt_), I have no power to cast off this bond; therefore this missile-bond of the Self-born (_ātmayoner astrabandhaḥ_), thus ordained, must be complied with by me (_mayānuvartitavyaḥ_).”
 </details>
 </details>
 
@@ -2506,7 +2506,7 @@ creation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having weighed the potency of the missile and the Grandsire's favor toward himself, and having reflected upon his power of release (vimokṣaśaktiṃ paricintayitvā), that monkey obeyed the ordinance of the Grandsire (pitāmahājñām anuvartate sma).
+Having weighed the potency of the missile and the Grandsire&#x27;s favor toward himself, and having reflected upon his power of release (_vimokṣaśaktiṃ paricintayitvā_), that monkey obeyed the ordinance of the Grandsire (_pitāmahājñām anuvartate sma_).
 </details>
 </details>
 
@@ -2565,7 +2565,7 @@ I am fastened by the missile."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For even though bound by the missile, no fear arises in me (bhayaṃ mama na jāyate), who am protected by the Grandsire and Mahendra, and by the Wind (anilena ca).
+“For even though bound by the missile, no fear arises in me (_bhayaṃ mama na jāyate_), who am protected by the Grandsire and Mahendra, and by the Wind (_anilena ca_).
 </details>
 </details>
 
@@ -2614,7 +2614,7 @@ a dialogue with Ravana. Therefore, let the enemies capture me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in my being seized by the Rākṣasas, I perceive a great advantage (mahan me guṇadarśanam): a conversation with the lord of Rākṣasas (rākṣasendreṇa saṃvādaḥ); therefore let the foes seize me!”
+And in my being seized by the Rākṣasas, I perceive a great advantage (_mahan me guṇadarśanam_): a conversation with the lord of Rākṣasas (_rākṣasendreṇa saṃvādaḥ_); therefore let the foes seize me!”
 </details>
 </details>
 
@@ -2667,7 +2667,7 @@ as also frightened by them, he made a loud scream.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assured of his purpose (niścitārthaḥ), that slayer of hostile heroes, acting with deliberation (samīkṣyakārī) and having ceased all movement (vinivṛttaceṣṭaḥ), cried out (nanāda) on being seized and reviled on all sides (paribhartsyamānaḥ) by the foes who rushed upon him by force.
+Assured of his purpose (_niścitārthaḥ_), that slayer of hostile heroes, acting with deliberation (_samīkṣyakārī_) and having ceased all movement (_vinivṛttaceṣṭaḥ_), cried out (_nanāda_) on being seized and reviled on all sides (_paribhartsyamānaḥ_) by the foes who rushed upon him by force.
 </details>
 </details>
 
@@ -2716,7 +2716,7 @@ him with plaited chords of hemp and bark of trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seeing that tamer of foes motionless (viniśceṣṭam), those Rākṣasas bound him (babandhuḥ) with twisted hemp-bark cords and strips of tree-bast (śaṇavalkaiś ca drumacīraiś ca saṃhataiḥ).
+Then, seeing that tamer of foes motionless (_viniśceṣṭam_), those Rākṣasas bound him (_babandhuḥ_) with twisted hemp-bark cords and strips of tree-bast (_śaṇavalkaiś ca drumacīraiś ca saṃhataiḥ_).
 </details>
 </details>
 
@@ -2780,7 +2780,7 @@ that Ravana was curious as he was, to see him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assured of his purpose—thinking “What if out of curiosity the lord of Rākṣasas should resolve to see me (kautūhalān māṃ yadi rākṣasendro draṣṭuṃ vyavasyet)?”—he welcomed (rocayāmāsa) both the binding by the heroic foes and their forcible abuse (abhigarhaṇaṃ ca).
+Assured of his purpose—thinking “What if out of curiosity the lord of Rākṣasas should resolve to see me (_kautūhalān māṃ yadi rākṣasendro draṣṭuṃ vyavasyet_)?”—he welcomed (_rocayāmāsa_) both the binding by the heroic foes and their forcible abuse (_abhigarhaṇaṃ ca_).
 </details>
 </details>
 
@@ -2826,7 +2826,7 @@ since the bondage of that missile does not indeed coexist with another bondage.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound with that bark-rope (baddhas tena valkena), that valiant one was released by the mystic missile (vimukto 'streṇa); for that missile-bond does not coexist with another bond (astrabandhaḥ sa cānyaṃ hi na bandham anuvartate).
+Bound with that bark-rope (_baddhas tena valkena_), that valiant one was released by the mystic missile (_vimukto &#x27;streṇa_); for that missile-bond does not coexist with another bond (_astrabandhaḥ sa cānyaṃ hi na bandham anuvartate_).
 </details>
 </details>
 
@@ -2922,9 +2922,9 @@ be operative. All of us became jeopardized."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**49:** Then, perceiving that foremost of monkeys bound with strips of tree-bast (drumacīrabaddham) and [thus] released by the mystic missile (vimuktam astreṇa), the heroic Indrajit fell into anxious thought (jagāma cintām): “Though bound by another [cord], he still complies with the missile (anyena baddho 'py anuvartate 'stram)!
+**49:** Then, perceiving that foremost of monkeys bound with strips of tree-bast (_drumacīrabaddham_) and [thus] released by the mystic missile (_vimuktam astreṇa_), the heroic Indrajit fell into anxious thought (_jagāma cintām_): “Though bound by another [cord], he still complies with the missile (_anyena baddho &#x27;py anuvartate &#x27;stram_)!
 
-**50:** Alas! A great feat has been rendered fruitless (aho mahat karma kṛtaṃ nirartham); the course of mystic mantras (mantragatiḥ) was not considered (na vimṛṣṭā) by the Rākṣasas! And once the [Brahmā-]missile is frustrated (astre vihate), no other missile can operate (nāstram anyat pravartate); we are all thrown into peril (saṃśayitāḥ sma sarve)!”
+**50:** Alas! A great feat has been rendered fruitless (_aho mahat karma kṛtaṃ nirartham_); the course of mystic mantras (_mantragatiḥ_) was not considered (_na vimṛṣṭā_) by the Rākṣasas! And once the [Brahmā-]missile is frustrated (_astre vihate_), no other missile can operate (_nāstram anyat pravartate_); we are all thrown into peril (_saṃśayitāḥ sma sarve_)!”
 </details>
 </details>
 
@@ -2994,9 +2994,9 @@ to the vicinity of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**51:** Though freed from the missile (astreṇa muktaḥ), Hanūmān did not betray his own state (nātmānam avabudhyate) as he was being dragged by the Rākṣasas and tormented by those bonds (taiś ca bandhair nipīḍitaḥ).
+**51:** Though freed from the missile (_astreṇa muktaḥ_), Hanūmān did not betray his own state (_nātmānam avabudhyate_) as he was being dragged by the Rākṣasas and tormented by those bonds (_taiś ca bandhair nipīḍitaḥ_).
 
-**52:** Then, being struck by the cruel Rākṣasas with deadly fists and clubs (kālamuṣṭibhiḥ), that monkey was dragged (prākṛṣyata) into the presence of the lord of Rākṣasas.
+**52:** Then, being struck by the cruel Rākṣasas with deadly fists and clubs (_kālamuṣṭibhiḥ_), that monkey was dragged (_prākṛṣyata_) into the presence of the lord of Rākṣasas.
 </details>
 </details>
 
@@ -3054,7 +3054,7 @@ with a body of his attendants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Indrajit, perceiving him freed from the missile and bound with cords of tree-bast (baddhaṃ drumacīrasūtraiḥ), presented (vyadarśayat) that mighty foremost of monkey-heroes there to the king surrounded by his court (sagaṇāya rājñe).
+Then Indrajit, perceiving him freed from the missile and bound with cords of tree-bast (_baddhaṃ drumacīrasūtraiḥ_), presented (_vyadarśayat_) that mighty foremost of monkey-heroes there to the king surrounded by his court (_sagaṇāya rājñe_).
 </details>
 </details>
 
@@ -3108,7 +3108,7 @@ the foremost of monkeys who looked like an elephant in rut.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Rākṣasas announced (nyavedayan) to Rāvaṇa, the lord of Rākṣasas, that foremost of chief monkeys, bound like a rutting elephant (mattam iva mātaṅgam).
+The Rākṣasas announced (_nyavedayan_) to Rāvaṇa, the lord of Rākṣasas, that foremost of chief monkeys, bound like a rutting elephant (_mattam iva mātaṅgam_).
 </details>
 </details>
 
@@ -3163,7 +3163,7 @@ being? Whose savant is he? Where has he come from? What is his pursuit? Who is h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is this? Whose [is he], and whence [has he come]? What is his business, and who is his patron (ko 'bhyupāśrayaḥ)?”—thus, upon beholding him, discussions arose (saṃjajñire kathāḥ) among the Rākṣasa heroes.
+“Who is this? Whose [is he], and whence [has he come]? What is his business, and who is his patron (_ko &#x27;bhyupāśrayaḥ_)?”—thus, upon beholding him, discussions arose (_saṃjajñire kathāḥ_) among the Rākṣasa heroes.
 </details>
 </details>
 
@@ -3209,7 +3209,7 @@ be killed, even roasted alive and devoured."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let him be slain! Or let him be burned! Or let him be devoured (hanyatāṃ dahyatāṃ vāpi bhakṣyatām)!”—so other enraged Rākṣasas there spoke to one another (parasparam athābruvan).
+“Let him be slain! Or let him be burned! Or let him be devoured (_hanyatāṃ dahyatāṃ vāpi bhakṣyatām_)!”—so other enraged Rākṣasas there spoke to one another (_parasparam athābruvan_).
 </details>
 </details>
 
@@ -3268,7 +3268,7 @@ Ravana, decorated with highly precious stones and his elderly attendants sitting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having swiftly traversed the palace avenue (atītya mārgaṃ sahasā), that great-souled one beheld there at the foot of the lord of Rākṣasas (rakṣo'dhipapādamūle) the king's senior attendants (paricāravṛddhān) and his palace adorned with great jewels (gṛhaṃ mahāratnavibhūṣitaṃ ca).
+Having swiftly traversed the palace avenue (_atītya mārgaṃ sahasā_), that great-souled one beheld there at the foot of the lord of Rākṣasas (_rakṣo&#x27;dhipapādamūle_) the king&#x27;s senior attendants (_paricāravṛddhān_) and his palace adorned with great jewels (_gṛhaṃ mahāratnavibhūṣitaṃ ca_).
 </details>
 </details>
 
@@ -3322,7 +3322,7 @@ monkeys, being dragged hither and thither by demons of ugly countenance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That Rāvaṇa of mighty splendor beheld the foremost of monkeys being dragged to and fro (kṛṣyamāṇam itas tataḥ) by Rākṣasas of deformed visage (vikṛtākāraiḥ).
+That Rāvaṇa of mighty splendor beheld the foremost of monkeys being dragged to and fro (_kṛṣyamāṇam itas tataḥ_) by Rākṣasas of deformed visage (_vikṛtākāraiḥ_).
 </details>
 </details>
 
@@ -3367,7 +3367,7 @@ and strength and blazing like the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the foremost of monkeys in turn beheld the lord of Rākṣasas, endowed with fiery energy and strength (tejobalasamāyuktam), like the blazing sun (tapantam iva bhāskaram).
+And the foremost of monkeys in turn beheld the lord of Rākṣasas, endowed with fiery energy and strength (_tejobalasamāyuktam_), like the blazing sun (_tapantam iva bhāskaram_).
 </details>
 </details>
 
@@ -3432,7 +3432,7 @@ to interrogate Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scrutinizing (anvavekṣya) that monkey with his coppery eyes rolling in wrath (roṣasaṃvartitatāmradṛṣṭiḥ), Ten-faced Rāvaṇa (daśānanaḥ) then commanded regarding him his chief ministers (mukhyamantrīn), who were seated there and senior in lineage and character (kulaśīlavṛddhān).
+Scrutinizing (_anvavekṣya_) that monkey with his coppery eyes rolling in wrath (_roṣasaṃvartitatāmradṛṣṭiḥ_), Ten-faced Rāvaṇa (_daśānanaḥ_) then commanded regarding him his chief ministers (_mukhyamantrīn_), who were seated there and senior in lineage and character (_kulaśīlavṛddhān_).
 </details>
 </details>
 
@@ -3499,7 +3499,7 @@ motive of his act, that Hanuma at the outset informed, "I came from Sugreeva as 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And questioned in due order (yathākramaṃ taiḥ pṛṣṭaḥ) by them at the outset regarding his business and purpose (kāryārtham) and the root cause of that mission (arthasya ca mūlam), that monkey declared: “I have come as an envoy (dūtaḥ) from the presence of the lord of monkeys (harīśvarasya sakāśāt).”
+And questioned in due order (_yathākramaṃ taiḥ pṛṣṭaḥ_) by them at the outset regarding his business and purpose (_kāryārtham_) and the root cause of that mission (_arthasya ca mūlam_), that monkey declared: “I have come as an envoy (_dūtaḥ_) from the presence of the lord of monkeys (_harīśvarasya sakāśāt_).”
 </details>
 </details>
 

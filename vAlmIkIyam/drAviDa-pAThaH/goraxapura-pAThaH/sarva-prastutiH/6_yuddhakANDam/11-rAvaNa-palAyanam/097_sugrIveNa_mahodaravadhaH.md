@@ -77,7 +77,7 @@ diminished soon, like two lakes in a severe summer.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the earth there became strewn (prakīrṇā) with those monkeys whose limbs were mangled (kṛtta-gātraiḥ) in that manner by Daśagrīva with his shafts (mārgaṇaiḥ).
+Then the earth there became strewn (_prakīrṇā_) with those monkeys whose limbs were mangled (_kṛtta-gātraiḥ_) in that manner by Daśagrīva with his shafts (_mārgaṇaiḥ_).
 </details>
 </details>
 
@@ -129,7 +129,7 @@ army and the fall of Virupaksha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They could not endure (na śekuḥ sahitum) that irresistible (aprasahyam), blazing downpour of Rāvaṇa's arrows (śara-sampātam) from one side (ekataḥ), any more than moths can endure a blazing fire (pataṅgā jvalanaṃ yathā).
+They could not endure (_na śekuḥ sahitum_) that irresistible (_aprasahyam_), blazing downpour of Rāvaṇa&#x27;s arrows (_śara-sampātam_) from one side (_ekataḥ_), any more than moths can endure a blazing fire (_pataṅgā jvalanaṃ yathā_).
 </details>
 </details>
 
@@ -182,7 +182,7 @@ and to see the reversal of his fate.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tormented by sharpened shafts (arditā niśitair bāṇaiḥ), they fled in all directions crying aloud (krośanto vipradudruvuḥ), like elephants being scorched (dahyamānā yathā gajāḥ) when enveloped by tongues of flame (pāvakārciḥ-samāviṣṭāḥ).
+Tormented by sharpened shafts (_arditā niśitair bāṇaiḥ_), they fled in all directions crying aloud (_krośanto vipradudruvuḥ_), like elephants being scorched (_dahyamānā yathā gajāḥ_) when enveloped by tongues of flame (_pāvakārciḥ-samāviṣṭāḥ_).
 </details>
 </details>
 
@@ -234,7 +234,7 @@ He spoke to Mahodara, the annihilator of enemies, standing beside him (as follow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dispersing (vidhaman) the ranks of the monkeys with his arrows as the wind scatters great clouds (mahābhrāṇīva mārutaḥ), Rāvaṇa advanced (saṃyayau) in that battle.
+Dispersing (_vidhaman_) the ranks of the monkeys with his arrows as the wind scatters great clouds (_mahābhrāṇīva mārutaḥ_), Rāvaṇa advanced (_saṃyayau_) in that battle.
 </details>
 </details>
 
@@ -291,7 +291,7 @@ well."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having swiftly wrought a slaughter (kadanaṃ tarasā kṛtvā) of the forest-dwellers, the lord of rākṣasas then quickly approached Rāghava in battle (āsasāda tato yuddhe tvaritaṃ rāghavam).
+Having swiftly wrought a slaughter (_kadanaṃ tarasā kṛtvā_) of the forest-dwellers, the lord of rākṣasas then quickly approached Rāghava in battle (_āsasāda tato yuddhe tvaritaṃ rāghavam_).
 </details>
 </details>
 
@@ -343,7 +343,7 @@ penetrated into the army of enemies, as a moth rushed into a flame.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those monkeys routed and put to flight in battle (bhagnān vidrāvitān raṇe), Sugrīva stationed Suṣeṇa in the division (gulme suṣeṇaṃ nikṣipya) and swiftly set his mind on combat (cakre yuddhe drutaṃ manaḥ).
+Beholding those monkeys routed and put to flight in battle (_bhagnān vidrāvitān raṇe_), Sugrīva stationed Suṣeṇa in the division (_gulme suṣeṇaṃ nikṣipya_) and swiftly set his mind on combat (_cakre yuddhe drutaṃ manaḥ_).
 </details>
 </details>
 
@@ -397,7 +397,7 @@ destroyed the monkeys by dint of his own valour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having stationed that heroic monkey who was equal to himself (ātmanaḥ sadṛśaṃ vīram), Sugrīva, armed with a tree as his weapon (pādapāyudhaḥ), set forth facing the foe (abhimukhaṃ śatruṃ pratasthe).
+Having stationed that heroic monkey who was equal to himself (_ātmanaḥ sadṛśaṃ vīram_), Sugrīva, armed with a tree as his weapon (_pādapāyudhaḥ_), set forth facing the foe (_abhimukhaṃ śatruṃ pratasthe_).
 </details>
 </details>
 
@@ -449,7 +449,7 @@ strong monkeys too started killing all the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At his flanks and at his rear (pārśvataḥ pṛṣṭhataś cāsya), all the monkey troop-leaders (vānara-yūthapāḥ) followed after him (anujagmuḥ), [bearing] huge crags and manifold forest trees (mahā-śailān vividhāṃś ca vanaspatīn).
+At his flanks and at his rear (_pārśvataḥ pṛṣṭhataś cāsya_), all the monkey troop-leaders (_vānara-yūthapāḥ_) followed after him (_anujagmuḥ_), [bearing] huge crags and manifold forest trees (_mahā-śailān vividhāṃś ca vanaspatīn_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ chopped off the hands, feet and thighs of monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mighty Sugrīva roared in battle with a mighty voice (nanarda yudhi sugrīvaḥ svareṇa mahatā), and crushing (pothayan) manifold other [warriors], he churned the foremost rākṣasas (mamanthottama-rākṣasān).
+Mighty Sugrīva roared in battle with a mighty voice (_nanarda yudhi sugrīvaḥ svareṇa mahatā_), and crushing (_pothayan_) manifold other [warriors], he churned the foremost rākṣasas (_mamanthottama-rākṣasān_).
 </details>
 </details>
 
@@ -551,7 +551,7 @@ ten directions. Some others sought refuge with Sugreeva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the huge-bodied lord of monkeys (mahā-kāyo vānareśvaraḥ) crushed the rākṣasas, as the wind at the time of cosmic dissolution (yugānta-samaye vāyuḥ) [uproots] full-grown trees (pravṛddhān agamān iva).
+And the huge-bodied lord of monkeys (_mahā-kāyo vānareśvaraḥ_) crushed the rākṣasas, as the wind at the time of cosmic dissolution (_yugānta-samaye vāyuḥ_) [uproots] full-grown trees (_pravṛddhān agamān iva_).
 </details>
 </details>
 
@@ -604,7 +604,7 @@ Mahodara who was immediately close to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon the ranks of the rākṣasas he rained a shower of crags (śaila-varṣaṃ vavarṣa ha), just as a cloud rains a shower of hailstones (aśma-varṣaṃ yathā meghaḥ) upon flocks of birds in a forest (pakṣi-saṅgheṣu kānane).
+Upon the ranks of the rākṣasas he rained a shower of crags (_śaila-varṣaṃ vavarṣa ha_), just as a cloud rains a shower of hailstones (_aśma-varṣaṃ yathā meghaḥ_) upon flocks of birds in a forest (_pakṣi-saṅgheṣu kānane_).
 </details>
 </details>
 
@@ -651,7 +651,7 @@ who was endowed with a great energy, hurled it with an aim to kill the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by those showers of crags loosed by the monkey king (kapirāja-vimuktais taiḥ śaila-varṣaiḥ), the rākṣasas fell with their heads shattered (vikīrṇa-śirasaḥ petuḥ), like cloven mountains (vikīrṇā iva parvatāḥ).
+Struck by those showers of crags loosed by the monkey king (_kapirāja-vimuktais taiḥ śaila-varṣaiḥ_), the rākṣasas fell with their heads shattered (_vikīrṇa-śirasaḥ petuḥ_), like cloven mountains (_vikīrṇā iva parvatāḥ_).
 </details>
 </details>
 
@@ -705,7 +705,7 @@ arrows, though it was difficult to approach.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, while the rākṣasas were being destroyed on every side (saṃkṣīyamāṇeṣu rākṣaseṣu samantataḥ), routed by Sugrīva (sugrīveṇa prabhagneṣu), roaring and falling (nadatsu ca patatsu ca)—
+Then, while the rākṣasas were being destroyed on every side (_saṃkṣīyamāṇeṣu rākṣaseṣu samantataḥ_), routed by Sugrīva (_sugrīveṇa prabhagneṣu_), roaring and falling (_nadatsu ca patatsu ca_)—
 </details>
 </details>
 
@@ -758,7 +758,7 @@ forthwith fell down on earth, like a flock of frightened vultures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the unassailable rākṣasa Virūpākṣa, bow in hand (dhanvī), proclaiming his own name (svakaṃ nāma viśrāvya), leaped from his chariot (rathād āplutya) and mounted the shoulder of an elephant (gaja-skandham upāruhat).
+the unassailable rākṣasa Virūpākṣa, bow in hand (_dhanvī_), proclaiming his own name (_svakaṃ nāma viśrāvya_), leaped from his chariot (_rathād āplutya_) and mounted the shoulder of an elephant (_gaja-skandham upāruhat_).
 </details>
 </details>
 
@@ -814,7 +814,7 @@ hurled it at his enemy and Mahodara chopped it off into many pieces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having mounted that elephant (taṃ dvipam athāruhya), Virūpākṣa of mighty strength roared a dreadful roar (nanarda bhīma-nirhrādam) and rushed against the monkeys (vānarān abhyadhāvata).
+Having mounted that elephant (_taṃ dvipam athāruhya_), Virūpākṣa of mighty strength roared a dreadful roar (_nanarda bhīma-nirhrādam_) and rushed against the monkeys (_vānarān abhyadhāvata_).
 </details>
 </details>
 
@@ -867,7 +867,7 @@ with his arrows. That enraged Sugreeva then saw an iron rod on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the van of the army (camū-mukhe), he loosed dreadful arrows upon Sugrīva (sugrīve sa śarān ghorān visasarja), and rallied the terrified rākṣasas (sthāpayāmāsa codvignān rākṣasān), gladdening them (sampraharṣayan).
+At the van of the army (_camū-mukhe_), he loosed dreadful arrows upon Sugrīva (_sugrīve sa śarān ghorān visasarja_), and rallied the terrified rākṣasas (_sthāpayāmāsa codvignān rākṣasān_), gladdening them (_sampraharṣayan_).
 </details>
 </details>
 
@@ -919,7 +919,7 @@ horses of Mahodara with that iron rod of terrible speed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeply pierced with sharp arrows (atividdhaḥ śitair bāṇaiḥ) by that rākṣasa, that lord of monkeys cried aloud in mighty wrath (cukrośa ca mahā-krodhaḥ) and set his mind upon his slaying (vadhe cāsya mano dadhe).
+Deeply pierced with sharp arrows (_atividdhaḥ śitair bāṇaiḥ_) by that rākṣasa, that lord of monkeys cried aloud in mighty wrath (_cukrośa ca mahā-krodhaḥ_) and set his mind upon his slaying (_vadhe cāsya mano dadhe_).
 </details>
 </details>
 
@@ -971,7 +971,7 @@ Mahodara the demon, thereupon seized hold of a mace with anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, uprooting a tree (pādapam uddhṛtya), the heroic monkey, intent on battle (sampradhanaḥ), rushed forward and struck down that great elephant of his in the forefront (jaghānāsya pramukhe taṃ mahā-gajam).
+Then, uprooting a tree (_pādapam uddhṛtya_), the heroic monkey, intent on battle (_sampradhanaḥ_), rushed forward and struck down that great elephant of his in the forefront (_jaghānāsya pramukhe taṃ mahā-gajam_).
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ and resembling like two clouds charged with lightning, those two heroes closed i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by that blow (prahārābhihataḥ) from Sugrīva, that great elephant recoiled the length of a bow (apāsarpad dhanur-mātram), sank down, and trumpeted aloud (niṣasāda nanāda ca).
+Struck by that blow (_prahārābhihataḥ_) from Sugrīva, that great elephant recoiled the length of a bow (_apāsarpad dhanur-mātram_), sank down, and trumpeted aloud (_niṣasāda nanāda ca_).
 </details>
 </details>
 
@@ -1078,7 +1078,7 @@ which shone like the sun, on Sugreeva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stepping clear swiftly (tūrṇam apakramya) from the crushed elephant (gajāt tu mathitāt), that valiant rākṣasa, facing the foe, advanced against the monkey (pratyudgamya tataḥ kapim)—
+Stepping clear swiftly (_tūrṇam apakramya_) from the crushed elephant (_gajāt tu mathitāt_), that valiant rākṣasa, facing the foe, advanced against the monkey (_pratyudgamya tataḥ kapim_)—
 </details>
 </details>
 
@@ -1140,9 +1140,9 @@ iron rod. That iron rod broke off and fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** and seizing a bull-hide shield and a sword (ārṣabhaṃ carma khaḍgaṃ ca pragṛhya), swift in valor (laghu-vikramaḥ), he approached the steadfast (vyavasthitam) Sugrīva, taunting him as it were (bhartsayann iva).
+**21:** and seizing a bull-hide shield and a sword (_ārṣabhaṃ carma khaḍgaṃ ca pragṛhya_), swift in valor (_laghu-vikramaḥ_), he approached the steadfast (_vyavasthitam_) Sugrīva, taunting him as it were (_bhartsayann iva_).
 
-**22:** Incensed at him (tasyābhisaṃkruddhaḥ), Sugrīva seized a huge boulder resembling a cloud (vipulāṃ śilāṃ jaladopamām) and hurled it at Virūpākṣa (virūpākṣasya cikṣepa).
+**22:** Incensed at him (_tasyābhisaṃkruddhaḥ_), Sugrīva seized a huge boulder resembling a cloud (_vipulāṃ śilāṃ jaladopamām_) and hurled it at Virūpākṣa (_virūpākṣasya cikṣepa_).
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ decked with gold, from the earth-surface.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that boulder hurtling toward him (tāṃ śilām āpatantīṃ dṛṣṭvā), that bull among rākṣasas (rākṣasa-puṃgavaḥ), of mighty valor, stepped aside (apakramya) and struck him then with his sword (khaḍgena prāharat tadā).
+Beholding that boulder hurtling toward him (_tāṃ śilām āpatantīṃ dṛṣṭvā_), that bull among rākṣasas (_rākṣasa-puṃgavaḥ_), of mighty valor, stepped aside (_apakramya_) and struck him then with his sword (_khaḍgena prāharat tadā_).
 </details>
 </details>
 
@@ -1238,7 +1238,7 @@ him. Those two weapons, clashing each other, broke and fell on the floor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by the mighty rākṣasa with that blow of the sword (tena khaḍga-prahāreṇa), the monkey fell upon the ground for a moment as if unconscious (muhūrtam abhavad bhūmau visaṃjña iva vānaraḥ).
+Struck by the mighty rākṣasa with that blow of the sword (_tena khaḍga-prahāreṇa_), the monkey fell upon the ground for a moment as if unconscious (_muhūrtam abhavad bhūmau visaṃjña iva vānaraḥ_).
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ and strength, resembling two blazing fires, started contending with fists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping up suddenly (sahasā sa tadotpatya) in that great battle, he clenched his fist (muṣṭiṃ saṃvartya) and brought it down with speed upon the rākṣasa's chest (pātayāmāsa vakṣasi).
+Leaping up suddenly (_sahasā sa tadotpatya_) in that great battle, he clenched his fist (_muṣṭiṃ saṃvartya_) and brought it down with speed upon the rākṣasa&#x27;s chest (_pātayāmāsa vakṣasi_).
 </details>
 </details>
 
@@ -1348,7 +1348,7 @@ other with their palms, they rolled on the earth's surface.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by that blow of the fist (muṣṭi-prahārābhihataḥ), the night-roamer Virūpākṣa, enraged, with that sword at the van of the army (tena khaḍgena saṃkruddhaḥ camū-mukhe)—
+Struck by that blow of the fist (_muṣṭi-prahārābhihataḥ_), the night-roamer Virūpākṣa, enraged, with that sword at the van of the army (_tena khaḍgena saṃkruddhaḥ camū-mukhe_)—
 </details>
 </details>
 
@@ -1400,7 +1400,7 @@ unyielded, the two heroes pushed each other on their shoulders.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-struck off Sugrīva's armour (sugrīvasya kavacaṃ pātayāmāsa); struck, he fell upon his feet (padbhyām abhihato 'patat). Having fallen, that monkey sprang up (sa samutthāya patitaḥ kapiḥ) and loosed upon him (tasya vyasarjayat)—
+struck off Sugrīva&#x27;s armour (_sugrīvasya kavacaṃ pātayāmāsa_); struck, he fell upon his feet (_padbhyām abhihato &#x27;patat_). Having fallen, that monkey sprang up (_sa samutthāya patitaḥ kapiḥ_) and loosed upon him (_tasya vyasarjayat_)—
 </details>
 </details>
 
@@ -1470,9 +1470,9 @@ large sword together with a shield, lying there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** a blow of his palm equal to a thunderbolt (tala-prahāram aśaneḥ samānam), dreadful in its crash (bhīma-niḥsvanam). Evading (mocayitvā) through his skill (naipuṇyāt) that palm-blow raised by Sugrīva, that rākṣasa—
+**28:** a blow of his palm equal to a thunderbolt (_tala-prahāram aśaneḥ samānam_), dreadful in its crash (_bhīma-niḥsvanam_). Evading (_mocayitvā_) through his skill (_naipuṇyāt_) that palm-blow raised by Sugrīva, that rākṣasa—
 
-**29:** struck him on the chest with his fist (muṣṭinorasi tāḍayat). Then Sugrīva, the lord of monkeys, grew still more enraged (tataḥ saṃkruddhataraḥ)—
+**29:** struck him on the chest with his fist (_muṣṭinorasi tāḍayat_). Then Sugrīva, the lord of monkeys, grew still more enraged (_tataḥ saṃkruddhataraḥ_)—
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ swords upraised.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and seeing his own blow evaded (mokṣitaṃ cātmano dṛṣṭvā prahāram) by that rākṣasa, that monkey watched for an opening (dadarśāntaram) in that Virūpākṣa.
+and seeing his own blow evaded (_mokṣitaṃ cātmano dṛṣṭvā prahāram_) by that rākṣasa, that monkey watched for an opening (_dadarśāntaram_) in that Virūpākṣa.
 </details>
 </details>
 
@@ -1589,7 +1589,7 @@ enraged with each other and performed circumambulations form left to right, very
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in wrath he brought down another mighty palm-blow (anyam pātayat krodhān mahā-talam) upon his temple (śaṅkha-deśe). Struck by that palm-blow resembling Mahendra's thunderbolt (mahendrāśani-kalpena talenābhihataḥ)—
+Then in wrath he brought down another mighty palm-blow (_anyam pātayat krodhān mahā-talam_) upon his temple (_śaṅkha-deśe_). Struck by that palm-blow resembling Mahendra&#x27;s thunderbolt (_mahendrāśani-kalpena talenābhihataḥ_)—
 </details>
 </details>
 
@@ -1641,7 +1641,7 @@ with very high speed, that sword on the heavy shield of Sugreeva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Virūpākṣa fell to the earth (क्षितौ पपात) drenched in blood (rudhira-klinnaḥ), spewing forth blood (śoṇitaṃ hi samudgiran) from his orifices (srotobhyaḥ) like water from a mountain spring (jalaṃ prasravaṇād iva).
+Virūpākṣa fell to the earth (_क्षितौ पपात_) drenched in blood (_rudhira-klinnaḥ_), spewing forth blood (_śoṇitaṃ hi samudgiran_) from his orifices (_srotobhyaḥ_) like water from a mountain spring (_jalaṃ prasravaṇād iva_).
 </details>
 </details>
 
@@ -1695,7 +1695,7 @@ helmet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They beheld Virūpākṣa, his eyes rolling in wrath (vivṛtta-nayanaṃ krodhāt), bathed in foamy blood (saphenaṃ rudhirāplutam), rendered still more ‘deformed-eyed’ (virūpākṣataraṃ kṛtam)!
+They beheld Virūpākṣa, his eyes rolling in wrath (_vivṛtta-nayanaṃ krodhāt_), bathed in foamy blood (_saphenaṃ rudhirāplutam_), rendered still more ‘deformed-eyed’ (_virūpākṣataraṃ kṛtam_)!
 </details>
 </details>
 
@@ -1747,7 +1747,7 @@ on seeing it, could no longer be seen on the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkeys beheld the foe convulsing (sphurantam), rolling on his side (parivartantaṃ pārśvena), drenched in blood (rudhirokṣitam), and groaning piteously (karuṇaṃ ca vinardantam).
+The monkeys beheld the foe convulsing (_sphurantam_), rolling on his side (_parivartantaṃ pārśvena_), drenched in blood (_rudhirokṣitam_), and groaning piteously (_karuṇaṃ ca vinardantam_).
 </details>
 </details>
 
@@ -1793,7 +1793,7 @@ enraged. Rama looked rejoicing.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus those two impetuous (tarasvinau) ocean-armies (balārṇavau) of monkeys and rākṣasas, locked together in battle (saṃyati samprayuktau), roared dreadfully (sasvanatuś ca bhīmau) like two great oceans that have burst their dykes (mahārṇavau dvāv iva bhinna-setū).
+Thus those two impetuous (_tarasvinau_) ocean-armies (_balārṇavau_) of monkeys and rākṣasas, locked together in battle (_saṃyati samprayuktau_), roared dreadfully (_sasvanatuś ca bhīmau_) like two great oceans that have burst their dykes (_mahārṇavau dvāv iva bhinna-setū_).
 </details>
 </details>
 
@@ -1839,7 +1839,7 @@ stricken with fear, all of them ran away from the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that Virūpākṣa (virūpa-netram) of mighty strength destroyed by the king of monkeys (vināśitaṃ prekṣya hari-pārthivena), the assembled host (balaṃ sametam) of monkeys and rākṣasas became like the swollen Gaṅgā (udvṛtta-gaṅgā-pratimaṃ babhūva).
+Beholding that Virūpākṣa (_virūpa-netram_) of mighty strength destroyed by the king of monkeys (_vināśitaṃ prekṣya hari-pārthivena_), the assembled host (_balaṃ sametam_) of monkeys and rākṣasas became like the swollen Gaṅgā (_udvṛtta-gaṅgā-pratimaṃ babhūva_).
 </details>
 </details>
 

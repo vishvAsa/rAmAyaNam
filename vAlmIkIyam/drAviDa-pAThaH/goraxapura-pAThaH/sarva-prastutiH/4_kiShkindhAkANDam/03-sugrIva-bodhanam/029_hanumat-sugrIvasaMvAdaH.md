@@ -202,21 +202,21 @@ will pay heed to his words. [4-29-1, 2, 3, 4, 5, 6, 7, 8, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding the cloudless sky free of lightning and rain-clouds (vimalaṃ vyoma gatavidyudbalāhakam), resounding with throngs of sārasa cranes (sārasākulasaṃghuṣṭam), and anointed with lovely moonlight (ramyajyotsnānulepanam)—
+**1:** Beholding the cloudless sky free of lightning and rain-clouds (_vimalaṃ vyoma gatavidyudbalāhakam_), resounding with throngs of _sārasa_ cranes (_sārasākulasaṃghuṣṭam_), and anointed with lovely moonlight (_ramyajyotsnānulepanam_)—
 
-**2:** —and [beholding] Sugrīva with his wealth and aims fulfilled (samṛddhārtham), slack in the pursuit of righteousness and profit (mandadharmārthasaṃgraham), excessively following the path of the dissolute (atyarthaṃ cāsatāṃ mārgam), with his mind wholly given over to secluded pleasures (ekāntagatamānasam)—
+**2:** —and [beholding] Sugrīva with his wealth and aims fulfilled (_samṛddhārtham_), slack in the pursuit of righteousness and profit (_mandadharmārthasaṃgraham_), excessively following the path of the dissolute (_atyarthaṃ cāsatāṃ mārgam_), with his mind wholly given over to secluded pleasures (_ekāntagatamānasam_)—
 
-**3:** —his own business accomplished (nivṛttakāryam), his object won (siddhārtham), ever delighting in women (pramadābhirataṃ sadā), and having attained all his cherished desires (prāptavantam abhipretān sarvān eva manorathān)—
+**3:** —his own business accomplished (_nivṛttakāryam_), his object won (_siddhārtham_), ever delighting in women (_pramadābhirataṃ sadā_), and having attained all his cherished desires (_prāptavantam abhipretān sarvān eva manorathān_)—
 
-**4:** —sporting day and night (viharantam ahorātram) with his own beloved wife [Rumā] (svāṃ ca patnīm abhipretām) and with Tārā whom he had ardently desired (tārāṃ cāpi samīpsitām), his purpose fulfilled (kṛtārtham) and his fever of grief dispelled (vigatajvaram)—
+**4:** —sporting day and night (_viharantam ahorātram_) with his own beloved wife [Rumā] (_svāṃ ca patnīm abhipretām_) and with Tārā whom he had ardently desired (_tārāṃ cāpi samīpsitām_), his purpose fulfilled (_kṛtārtham_) and his fever of grief dispelled (_vigatajvaram_)—
 
-**5:** —disporting himself like the lord of the gods [Indra] (krīḍantam iva deveśam) amidst hosts of gandharvas and celestial nymphs (gandharvāpsarasāṃ gaṇaiḥ), having consigned state affairs to his ministers (mantriṣu nyastakāryam) and paying no heed to his ministers' actions (mantriṇām anavekṣakam)—
+**5:** —disporting himself like the lord of the gods [Indra] (_krīḍantam iva deveśam_) amidst hosts of _gandharvas_ and celestial nymphs (_gandharvāpsarasāṃ gaṇaiḥ_), having consigned state affairs to his ministers (_mantriṣu nyastakāryam_) and paying no heed to his ministers&#x27; actions (_mantriṇām anavekṣakam_)—
 
-**6:** —with all doubt over his kingdom eradicated (ucchinnarājyasaṃdeham) and abiding as though governed by passion alone (kāmavṛttam iva sthitam)—[Hanūmān], of resolute purpose (niścitārthaḥ), knower of the true essence of affairs (arthatattvajñaḥ), and conversant with the special duties of time and season (kāladharmaviśeṣavit)—
+**6:** —with all doubt over his kingdom eradicated (_ucchinnarājyasaṃdeham_) and abiding as though governed by passion alone (_kāmavṛttam iva sthitam_)—[Hanūmān], of resolute purpose (_niścitārthaḥ_), knower of the true essence of affairs (_arthatattvajñaḥ_), and conversant with the special duties of time and season (_kāladharmaviśeṣavit_)—
 
-**7:** —that son of the Wind-god (mārutātmajaḥ), skilled in speech (vākyavit), having conciliated the lord of monkeys who knew the essence of speech (vākyatattvajñaṃ harīśam) with manifold, reasoned, and pleasing words (vākyair vividhair hetumadbhir manoramaiḥ)—
+**7:** —that son of the Wind-god (_mārutātmajaḥ_), skilled in speech (_vākyavit_), having conciliated the lord of monkeys who knew the essence of speech (_vākyatattvajñaṃ harīśam_) with manifold, reasoned, and pleasing words (_vākyair vividhair hetumadbhir manoramaiḥ_)—
 
-**8:** —[words that were] beneficial, true, and salutary (hitaṃ tathyaṃ ca pathyaṃ ca), endowed with conciliation, righteousness, profit, and policy (sāmadharmārthanītimat), joined with affectionate regard (praṇayaprītisaṃyuktam), and inspiring firm conviction through trust (viśvāsakṛtaniścayam)—
+**8:** —[words that were] beneficial, true, and salutary (_hitaṃ tathyaṃ ca pathyaṃ ca_), endowed with conciliation, righteousness, profit, and policy (_sāmadharmārthanītimat_), joined with affectionate regard (_praṇayaprītisaṃyuktam_), and inspiring firm conviction through trust (_viśvāsakṛtaniścayam_)—
 </details>
 </details>
 
@@ -269,7 +269,7 @@ is still remaining, and it will be apt of you to negotiate it. [4-29-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—approaching the lord of monkeys (harīśvaram upāgamya), Hanūmān spoke this speech: “The kingdom has been won, renown as well (rājyaṃ prāptaṃ yaśaś caiva), and the ancestral royal fortune of your lineage (kaulī śrīḥ) has been exalted!
+—approaching the lord of monkeys (_harīśvaram upāgamya_), Hanūmān spoke this speech: “The kingdom has been won, renown as well (_rājyaṃ prāptaṃ yaśaś caiva_), and the ancestral royal fortune of your lineage (_kaulī śrīḥ_) has been exalted!
 </details>
 </details>
 
@@ -320,7 +320,7 @@ flourish. [4-29-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The cherishing of your allies alone remains (mitrāṇāṃ saṃgrahaḥ śeṣaḥ); that Your Majesty ought to accomplish (tad bhavān kartum arhati). For he who, knowing the proper season, ever acts nobly toward his friends (yo hi mitreṣu kālajñaḥ satataṃ sādhu vartate)—
+The cherishing of your allies alone remains (_mitrāṇāṃ saṃgrahaḥ śeṣaḥ_); that Your Majesty ought to accomplish (_tad bhavān kartum arhati_). For he who, knowing the proper season, ever acts nobly toward his friends (_yo hi mitreṣu kālajñaḥ satataṃ sādhu vartate_)—
 </details>
 </details>
 
@@ -375,7 +375,7 @@ equiponderance. [4-29-11b, c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—his kingdom, fame, and martial splendor increase (tasya rājyaṃ ca kīrtiś ca pratāpaś cāpi vardhate). He for whom treasury, army, allies, and his own self (kośaś ca daṇḍaś ca mitrāṇy ātmā ca), O king, are all held in equal regard (samāny etāni sarvāṇi), enjoys a mighty sovereignty (sa rājyaṃ mahad aśnute).
+—his kingdom, fame, and martial splendor increase (_tasya rājyaṃ ca kīrtiś ca pratāpaś cāpi vardhate_). He for whom treasury, army, allies, and his own self (_kośaś ca daṇḍaś ca mitrāṇy ātmā ca_), O king, are all held in equal regard (_samāny etāni sarvāṇi_), enjoys a mighty sovereignty (_sa rājyaṃ mahad aśnute_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ alone Rama along with Lakshmana came to you, thus let your power preponderate. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore Your Majesty, endowed with noble conduct (vṛttasampannaḥ) and abiding upon an unfailing path (sthitaḥ pathi niratyaye), ought to accomplish in due manner the business of your friend that you have promised to undertake (mitrārtham abhinītārthaṃ yathāvat kartum arhati).
+Therefore Your Majesty, endowed with noble conduct (_vṛttasampannaḥ_) and abiding upon an unfailing path (_sthitaḥ pathi niratyaye_), ought to accomplish in due manner the business of your friend that you have promised to undertake (_mitrārtham abhinītārthaṃ yathāvat kartum arhati_).
 </details>
 </details>
 
@@ -499,7 +499,7 @@ expeditiously for his friend's mission." But Hanuma's dutifulness is to be kept 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, casting aside all other works (saṃtyajya sarvakarmāṇi), does not act in the cause of a friend (mitrārthe yo na vartate), his zeal marred by agitation (sambhramād vikṛtotsāhaḥ), is not spared from calamities [or reading yo'nuvartate ... hi kṛtotsāhaḥ: he who zealously acts for a friend is never beset by calamities (so'narthair nāvarudhyate)].
+“He who, casting aside all other works (_saṃtyajya sarvakarmāṇi_), does not act in the cause of a friend (_mitrārthe yo na vartate_), his zeal marred by agitation (_sambhramād vikṛtotsāhaḥ_), is not spared from calamities [or reading _yo&#x27;nuvartate ... hi kṛtotsāhaḥ_: he who zealously acts for a friend is never beset by calamities (_so&#x27;narthair nāvarudhyate_)].
 </details>
 </details>
 
@@ -550,7 +550,7 @@ despite of the fact that he has once performed great deeds in respect of the sam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For he who engages in the tasks of his friends only after the appointed season has passed (kālavyatīteṣu mitrakāryeṣu), even though he accomplishes mighty objects (sa kṛtvā mahato'py arthān), does not fulfill the true purpose of a friend (na mitrārthena yujyate).
+For he who engages in the tasks of his friends only after the appointed season has passed (_kālavyatīteṣu mitrakāryeṣu_), even though he accomplishes mighty objects (_sa kṛtvā mahato&#x27;py arthān_), does not fulfill the true purpose of a friend (_na mitrārthena yujyate_).
 </details>
 </details>
 
@@ -602,7 +602,7 @@ let it be done. [4-29-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let this task of our ally (tad idaṃ mitrakāryaṃ naḥ), which has already passed its appointed time (kālātītam), O tamer of foes (ariṃdama), be undertaken—namely, this search for Vaidehī on Rāghava's behalf (rāghavasyaitad vaidehyāḥ parimārgaṇam)!
+Let this task of our ally (_tad idaṃ mitrakāryaṃ naḥ_), which has already passed its appointed time (_kālātītam_), O tamer of foes (_ariṃdama_), be undertaken—namely, this search for Vaidehī on Rāghava&#x27;s behalf (_rāghavasyaitad vaidehyāḥ parimārgaṇam_)!
 </details>
 </details>
 
@@ -655,7 +655,7 @@ control abiding by your promise. [4-29-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even though he is in haste (tvaramāṇo'pi), that wise knower of the season (kālavit sa prājñaḥ), compliant with your will, O king (tava rājan vaśānugaḥ), does not point out to you that the appointed time has passed (na ca kālam atītaṃ te nivedayati).
+Even though he is in haste (_tvaramāṇo&#x27;pi_), that wise knower of the season (_kālavit sa prājñaḥ_), compliant with your will, O king (_tava rājan vaśānugaḥ_), does not point out to you that the appointed time has passed (_na ca kālam atītaṃ te nivedayati_).
 </details>
 </details>
 
@@ -735,9 +735,9 @@ monkeys, it will be apt of you to summon worthy monkeys for searching Seetha. [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Rāghava is the cause of the prosperity of your flourishing lineage (kulasya hetuḥ sphītasya), a steadfast, long-enduring kinsman (dīrghabandhuś ca), of immeasurable might (aprameyaprabhāvaś ca), and himself matchless in virtues (svayaṃ cāpratimo guṇaiḥ).
+**17:** Rāghava is the cause of the prosperity of your flourishing lineage (_kulasya hetuḥ sphītasya_), a steadfast, long-enduring kinsman (_dīrghabandhuś ca_), of immeasurable might (_aprameyaprabhāvaś ca_), and himself matchless in virtues (_svayaṃ cāpratimo guṇaiḥ_).
 
-**18:** Do you therefore accomplish his task (tasya tvaṃ kuru vai kāryam), for your own task was previously accomplished by him (pūrvaṃ tena kṛtaṃ tava); O lord of monkeys (harīśvara), you ought to command the foremost of the monkeys (kapiśreṣṭhān ājñāpayitum arhasi)!
+**18:** Do you therefore accomplish his task (_tasya tvaṃ kuru vai kāryam_), for your own task was previously accomplished by him (_pūrvaṃ tena kṛtaṃ tava_); O lord of monkeys (_harīśvara_), you ought to command the foremost of the monkeys (_kapiśreṣṭhān ājñāpayitum arhasi_)!
 </details>
 </details>
 
@@ -797,7 +797,7 @@ it as lapsed. [4-29-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the appointed time does not count as transgressed so long as there has been no prompting (nahi tāvad bhavet kālo vyatītaś codanād ṛte); only when a task has been prompted (coditasya hi kāryasya) does a transgression of time occur (bhavet kālavyatikramaḥ).
+“For the appointed time does not count as transgressed so long as there has been no prompting (_nahi tāvad bhavet kālo vyatītaś codanād ṛte_); only when a task has been prompted (_coditasya hi kāryasya_) does a transgression of time occur (_bhavet kālavyatikramaḥ_).
 </details>
 </details>
 
@@ -863,7 +863,7 @@ api saadhaniiyam | adharmiShTsya tu mitra kaaryam upekShaNiiyam iti suucitam | d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even for one who has rendered you no service (akartur api), O lord of monkeys (harīśvara), Your Majesty is a doer of his work (kāryasya bhavān kartā); how much more, then, for one who has requited you in advance (kiṃ punaḥ pratikartus te) by bestowing the kingdom and slaying your foe (rājyena ca vadhena ca)!
+Even for one who has rendered you no service (_akartur api_), O lord of monkeys (_harīśvara_), Your Majesty is a doer of his work (_kāryasya bhavān kartā_); how much more, then, for one who has requited you in advance (_kiṃ punaḥ pratikartus te_) by bestowing the kingdom and slaying your foe (_rājyena ca vadhena ca_)!
 </details>
 </details>
 
@@ -917,7 +917,7 @@ temporise in issuing orders to fulfil the cherish of Rama. [4-29-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of might and surpassing valor (śaktimān ativikrāntaḥ), O lord of the hosts of monkeys and bears (vānararkṣagaṇeśvara), why do you hesitate to issue the command (ājñāyāṃ kiṃ nu sajjase) to accomplish what pleases Dāśarathi (kartuṃ dāśaratheḥ prītim)?
+Possessed of might and surpassing valor (_śaktimān ativikrāntaḥ_), O lord of the hosts of monkeys and bears (_vānararkṣagaṇeśvara_), why do you hesitate to issue the command (_ājñāyāṃ kiṃ nu sajjase_) to accomplish what pleases Dāśarathi (_kartuṃ dāśaratheḥ prītim_)?
 </details>
 </details>
 
@@ -968,7 +968,7 @@ his arrows, but he is anticipating fulfilment of your promise. [4-29-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly, Dāśarathi is able with his arrows (kāmaṃ khalu śaraiḥ śaktaḥ) to bring under his sway the gods, asuras, and great serpents (surāsuramahoragān vaśe kartum); yet he awaits the fulfillment of your pledge (tvatpratijñām avekṣate).
+Truly, Dāśarathi is able with his arrows (_kāmaṃ khalu śaraiḥ śaktaḥ_) to bring under his sway the gods, _asuras_, and great serpents (_surāsuramahoragān vaśe kartum_); yet he awaits the fulfillment of your pledge (_tvatpratijñām avekṣate_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ we search for his wife Vaidehi anywhere on earth or even on skies. [4-29-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By him who shrank not even from risking his life (prāṇatyāgāviśaṅkena), a great service was done for you (kṛtaṃ tena mahat priyam); let us therefore search for his Vaidehī (tasya mārgāma vaidehīm) upon the earth and in the sky (pṛthivyām api cāmbare)!
+By him who shrank not even from risking his life (_prāṇatyāgāviśaṅkena_), a great service was done for you (_kṛtaṃ tena mahat priyam_); let us therefore search for his Vaidehī (_tasya mārgāma vaidehīm_) upon the earth and in the sky (_pṛthivyām api cāmbare_)!
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ thus.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gods, dānavas, gandharvas, and asuras together with the hosts of Maruts (samarudgaṇāḥ), and yakṣas as well, could not strike fear into him (na ca yakṣā bhayaṃ tasya kuryuḥ); how then could mere rākṣasas (kim iva rākṣasāḥ)?
+“Gods, _dānavas_, _gandharvas_, and _asuras_ together with the hosts of Maruts (_samarudgaṇāḥ_), and _yakṣas_ as well, could not strike fear into him (_na ca yakṣā bhayaṃ tasya kuryuḥ_); how then could mere _rākṣasas_ (_kim iva rākṣasāḥ_)?
 </details>
 </details>
 
@@ -1134,7 +1134,7 @@ and it will be apt of you requite him with his aspiration at all events. [4-29-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O lord of tawny monkeys (piṅgeśa), toward Rāma who is thus endowed with might (evaṃ śaktiyuktasya) and who has previously rendered you a service (pūrvaṃ pratikṛtas tathā), you ought with all your soul to do what is pleasing (arhasi kartuṃ sarvātmanā priyam)!
+Therefore, O lord of tawny monkeys (_piṅgeśa_), toward Rāma who is thus endowed with might (_evaṃ śaktiyuktasya_) and who has previously rendered you a service (_pūrvaṃ pratikṛtas tathā_), you ought with all your soul to do what is pleasing (_arhasi kartuṃ sarvātmanā priyam_)!
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ either in netherworlds, or in water, or up above on the sky. [4-29-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither beneath the earth, nor upon the land, nor in the waters, nor high in the sky (nādhastād avanau nāpsu gatir nopari cāmbare) does the course of any one of us falter (kasyacit sajjate'smākam), O lord of monkeys, at your command (kapīśvara tavājñayā).
+Neither beneath the earth, nor upon the land, nor in the waters, nor high in the sky (_nādhastād avanau nāpsu gatir nopari cāmbare_) does the course of any one of us falter (_kasyacit sajjate&#x27;smākam_), O lord of monkeys, at your command (_kapīśvara tavājñayā_).
 </details>
 </details>
 
@@ -1242,7 +1242,7 @@ appealed to Sugreeva. [4-29-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Command, therefore, who is to undertake what task for you, and from what quarter (tad ājñāpaya kaḥ kiṃ te kuto vāpi vyavasyatu); for you have over a ten-million host of unassailable monkeys (harayo hy apradhṛṣyās te santi koṭyagrato'nagha), O sinless one!”
+Command, therefore, who is to undertake what task for you, and from what quarter (_tad ājñāpaya kaḥ kiṃ te kuto vāpi vyavasyatu_); for you have over a ten-million host of unassailable monkeys (_harayo hy apradhṛṣyās te santi koṭyagrato&#x27;nagha_), O sinless one!”
 </details>
 </details>
 
@@ -1294,7 +1294,7 @@ took a noble decision. [4-29-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, nobly set forth at the proper season (kāle sādhu nirūpitam), Sugrīva, endowed with noble courage (sattvasampannaḥ), formed the supreme resolve (cakāra matim uttamām).
+Hearing that speech of his, nobly set forth at the proper season (_kāle sādhu nirūpitam_), Sugrīva, endowed with noble courage (_sattvasampannaḥ_), formed the supreme resolve (_cakāra matim uttamām_).
 </details>
 </details>
 
@@ -1380,9 +1380,9 @@ is to be marshalled to stay in the cutting edge of army. [4-29-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** Possessed of surpassing wisdom (atimatimān), he [Sugrīva] commissioned Nīla, who was ever energetic in exertion (nīlaṃ nityakṛtodyamam), for the mustering of all the armies in every quarter (dikṣu sarvāsu sarveṣāṃ sainyānām upasaṃgrahe):
+**29:** Possessed of surpassing wisdom (_atimatimān_), he [Sugrīva] commissioned Nīla, who was ever energetic in exertion (_nīlaṃ nityakṛtodyamam_), for the mustering of all the armies in every quarter (_dikṣu sarvāsu sarveṣāṃ sainyānām upasaṃgrahe_):
 
-**30:** “Take such measures (tathā kuru) that my entire army and the troop-commanders on every side (yathā senā samagrā me yūthapālāś ca sarvaśaḥ), together with the chief of the host (senāgryeṇa), assemble without delay (samāgacchanty asaṅgena)!
+**30:** “Take such measures (_tathā kuru_) that my entire army and the troop-commanders on every side (_yathā senā samagrā me yūthapālāś ca sarvaśaḥ_), together with the chief of the host (_senāgryeṇa_), assemble without delay (_samāgacchanty asaṅgena_)!
 </details>
 </details>
 
@@ -1441,7 +1441,7 @@ monitor the military establishment without any heterogeneity. [4-29-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And let those swift-going, resolute monkeys who guard the frontiers (ye tv antapālāḥ plavagāḥ śīghragā vyavasāyinaḥ) hasten at my command (tvaritāḥ śāsanān mama) to bring [their forces] swiftly (samānayantu te śīghram); and thereafter let Your Excellency yourself oversee the work [of reviewing the host] (svayaṃ cānantaraṃ kāryaṃ bhavān evānupaśyatu).
+And let those swift-going, resolute monkeys who guard the frontiers (_ye tv antapālāḥ plavagāḥ śīghragā vyavasāyinaḥ_) hasten at my command (_tvaritāḥ śāsanān mama_) to bring [their forces] swiftly (_samānayantu te śīghram_); and thereafter let Your Excellency yourself oversee the work [of reviewing the host] (_svayaṃ cānantaraṃ kāryaṃ bhavān evānupaśyatu_).
 </details>
 </details>
 
@@ -1493,7 +1493,7 @@ no business for further adjudication. [4-29-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever monkey arrives here after thrice five nights [fifteen days] (tripañcarātrād ūrdhvaṃ yaḥ prāpnuyād iha vānaraḥ), for him the punishment shall be death (tasya prāṇāntiko daṇḍaḥ); in this matter no hesitation is to be entertained (nātra kāryā vicāraṇā).
+Whatever monkey arrives here after thrice five nights [fifteen days] (_tripañcarātrād ūrdhvaṃ yaḥ prāpnuyād iha vānaraḥ_), for him the punishment shall be death (_tasya prāṇāntiko daṇḍaḥ_); in this matter no hesitation is to be entertained (_nātra kāryā vicāraṇā_).
 </details>
 </details>
 
@@ -1576,7 +1576,7 @@ and take Sugreeva to task, and even Lakshmana jumps on Sugreeva like a firebrand
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And accompanied by Aṅgada (sāṅgado bhavān), let Your Excellency approach the elder monkeys (harīṃś ca vṛddhān upayātu), acting upon my firm command (mamājñām adhikṛtya niścitam).” Having established this decree (iti vyavasthāṃ vidhāya), the valiant lord of the foremost of monkeys entered his palace (veśma praviveśa vīryavān).
+And accompanied by Aṅgada (_sāṅgado bhavān_), let Your Excellency approach the elder monkeys (_harīṃś ca vṛddhān upayātu_), acting upon my firm command (_mamājñām adhikṛtya niścitam_).” Having established this decree (_iti vyavasthāṃ vidhāya_), the valiant lord of the foremost of monkeys entered his palace (_veśma praviveśa vīryavān_).
 </details>
 </details>
 

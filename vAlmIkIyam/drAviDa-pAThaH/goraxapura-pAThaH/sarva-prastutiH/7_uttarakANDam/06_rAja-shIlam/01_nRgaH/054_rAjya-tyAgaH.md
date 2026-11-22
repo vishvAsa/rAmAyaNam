@@ -48,7 +48,7 @@ Astonished that so small a fault drew a curse like Yama’s rod upon King Nṛga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (paramārthavit), with palms joined in reverence (prāñjaliḥ), spoke these words to Rāghava of blazing splendor (dīpta-tejasam):
+Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (_paramārthavit_), with palms joined in reverence (_prāñjaliḥ_), spoke these words to Rāghava of blazing splendor (_dīpta-tejasam_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (paramārtha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For so slight an offense, O Kākutstha (alpāparādhe kākutstha), such a mighty curse was laid by those two brahmins upon the royal sage Nṛga (śāpa īdṛśaḥ mahān nṛgasya rājarṣeḥ), like a second rod of Yama (yama-daṇḍa ivāparaḥ)!
+“For so slight an offense, O Kākutstha (_alpāparādhe kākutstha_), such a mighty curse was laid by those two brahmins upon the royal sage Nṛga (_śāpa īdṛśaḥ mahān nṛgasya rājarṣeḥ_), like a second rod of Yama (_yama-daṇḍa ivāparaḥ_)!
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (paramārtha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing himself burdened with that sin (pāpa-saṃyuktam ātmānam), O bull among men, what did King Nṛga say to those two brahmins filled with wrath (dvijau krodha-samanvitau)?”
+“Hearing himself burdened with that sin (_pāpa-saṃyuktam ātmānam_), O bull among men, what did King Nṛga say to those two brahmins filled with wrath (_dvijau krodha-samanvitau_)?”
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Hearing that speech of Rāma, Lakṣmaṇa, knower of supreme truth (paramārtha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Lakṣmaṇa, Rāghava spoke again: “Listen, O gentle one, to what that curse-stricken king did and spoke of old (yathā pūrvaṃ sa rājā śāpa-vikṣataḥ).
+Thus addressed by Lakṣmaṇa, Rāghava spoke again: “Listen, O gentle one, to what that curse-stricken king did and spoke of old (_yathā pūrvaṃ sa rājā śāpa-vikṣataḥ_).
 </details>
 </details>
 
@@ -181,9 +181,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “Perceiving then that the two brahmins had departed upon their path (adhvani gatau viprau vijñāya), that King Nṛga summoned all his ministers, the townsmen, and the royal priests (mantriṇaḥ sarvān naigamān sa-purodhasaḥ).
+**5:** “Perceiving then that the two brahmins had departed upon their path (_adhvani gatau viprau vijñāya_), that King Nṛga summoned all his ministers, the townsmen, and the royal priests (_mantriṇaḥ sarvān naigamān sa-purodhasaḥ_).
 
-**6:** “Overwhelmed with grief (duḥkhena susamāviṣṭaḥ), King Nṛga addressed them and all the subjects as well (sarvāś ca prakṛtīs tathā): ‘Let my word be heard by you with attentive minds (śrūyatāṃ me samāhitaiḥ)!’”
+**6:** “Overwhelmed with grief (_duḥkhena susamāviṣṭaḥ_), King Nṛga addressed them and all the subjects as well (_sarvāś ca prakṛtīs tathā_): ‘Let my word be heard by you with attentive minds (_śrūyatāṃ me samāhitaiḥ_)!’”
 </details>
 </details>
 
@@ -222,7 +222,7 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Nārada and Parvata, those auspicious and blameless sages (bhadrau ... aninditau), having delivered great dread to me (mama dattvā mahad bhayam), have departed to the triple heaven swift as the wind (gatau tribhuvanaṃ ... vāyu-bhūtau).
+“‘Nārada and Parvata, those auspicious and blameless sages (_bhadrau ... aninditau_), having delivered great dread to me (_mama dattvā mahad bhayam_), have departed to the triple heaven swift as the wind (_gatau tribhuvanaṃ ... vāyu-bhūtau_).
 </details>
 </details>
 
@@ -253,7 +253,7 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Let this prince named Vasu, that royal lord, be consecrated today (kumāro ’yaṃ vasur nāma sa devo ’dyābhiṣicyatām); and let a pit pleasant to the touch be fashioned for me by artisans (śvabhraṃ ca yat sukha-sparśaṃ kriyatāṃ śilpibhir mama), wherein I shall exhaust this curse issued from brahmins (yatrāhaṃ saṅkṣayiṣyāmi śāpaṃ brāhmaṇa-niḥsṛtam).
+“‘Let this prince named Vasu, that royal lord, be consecrated today (_kumāro ’yaṃ vasur nāma sa devo ’dyābhiṣicyatām_); and let a pit pleasant to the touch be fashioned for me by artisans (_śvabhraṃ ca yat sukha-sparśaṃ kriyatāṃ śilpibhir mama_), wherein I shall exhaust this curse issued from brahmins (_yatrāhaṃ saṅkṣayiṣyāmi śāpaṃ brāhmaṇa-niḥsṛtam_).
 </details>
 </details>
 
@@ -286,7 +286,7 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Let the artisans fashion one chamber warding off rain (varṣaghnam ekaṃ śvabhram), another warding off winter cold (himaghnam aparam), and one pleasant to the touch warding off summer heat (grīṣmaghnaṃ tu sukha-sparśam ekam).
+“‘Let the artisans fashion one chamber warding off rain (_varṣaghnam ekaṃ śvabhram_), another warding off winter cold (_himaghnam aparam_), and one pleasant to the touch warding off summer heat (_grīṣmaghnaṃ tu sukha-sparśam ekam_).
 </details>
 </details>
 
@@ -325,11 +325,11 @@ Announcing that Nārada and Parvata have departed after bearing him great dread,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “‘Let fruit-bearing trees, flowering creepers (phalavantaś ca ye vṛkṣāḥ puṣpavatyaś ca yā latāḥ), and manifold shade-giving shrubs (bahuvidhāś chāyāvantaś ca gulminaḥ) be planted all around.
+**10:** “‘Let fruit-bearing trees, flowering creepers (_phalavantaś ca ye vṛkṣāḥ puṣpavatyaś ca yā latāḥ_), and manifold shade-giving shrubs (_bahuvidhāś chāyāvantaś ca gulminaḥ_) be planted all around.
 
-**11:** “‘Let every side around the chambers be made delightful (kriyatāṃ ramaṇīyaṃ ca śvabhrāṇāṃ sarvato-diśam); here I shall dwell in comfort until the revolution of the appointed time (sukham atra vasiṣyāmi yāvat kālasya paryayaḥ).
+**11:** “‘Let every side around the chambers be made delightful (_kriyatāṃ ramaṇīyaṃ ca śvabhrāṇāṃ sarvato-diśam_); here I shall dwell in comfort until the revolution of the appointed time (_sukham atra vasiṣyāmi yāvat kālasya paryayaḥ_).
 
-**12:** “‘And let fragrant flowers ever be arranged in them (puṣpāṇi ca sugandhīni kriyatāṃ teṣu nityaśaḥ), so that they surround me to a distance of one and a half yojanas (parivārya yathā me syur adhyardhaṃ yojanaṃ tathā).’”
+**12:** “‘And let fragrant flowers ever be arranged in them (_puṣpāṇi ca sugandhīni kriyatāṃ teṣu nityaśaḥ_), so that they surround me to a distance of one and a half yojanas (_parivārya yathā me syur adhyardhaṃ yojanaṃ tathā_).’”
 </details>
 </details>
 
@@ -368,7 +368,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having made these arrangements (evaṃ kṛtvā vidhānam), he then instructed Vasu (sandideśa vasaṃ tadā): ‘Ever devoted to dharma, O son, protect the subjects according to kṣatriya-dharma (dharma-nityaḥ prajāḥ putra kṣatra-dharmeṇa pālaya)!
+“Having made these arrangements (_evaṃ kṛtvā vidhānam_), he then instructed Vasu (_sandideśa vasaṃ tadā_): ‘Ever devoted to dharma, O son, protect the subjects according to kṣatriya-dharma (_dharma-nityaḥ prajāḥ putra kṣatra-dharmeṇa pālaya_)!
 </details>
 </details>
 
@@ -399,7 +399,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Before your very eyes (pratyakṣaṃ te), O best of men, you saw how a curse was cast upon me by those two wrathful brahmins (dvijābhyāṃ mayi pātitaḥ ... saroṣābhyām), even for so slight a fault (aparādhe ’pi tādṛśe).
+“‘Before your very eyes (_pratyakṣaṃ te_), O best of men, you saw how a curse was cast upon me by those two wrathful brahmins (_dvijābhyāṃ mayi pātitaḥ ... saroṣābhyām_), even for so slight a fault (_aparādhe ’pi tādṛśe_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Do not give way to bodily anguish even on my account (mā kṛthās tanu-santāpaṃ matkṛte ’pi), O bull among men; destiny is skilled in its craft, O son, by which I have been brought to misfortune (kṛtāntaḥ kuśalaḥ putra yenāsmi vyasanī-kṛtaḥ).
+“‘Do not give way to bodily anguish even on my account (_mā kṛthās tanu-santāpaṃ matkṛte ’pi_), O bull among men; destiny is skilled in its craft, O son, by which I have been brought to misfortune (_kṛtāntaḥ kuśalaḥ putra yenāsmi vyasanī-kṛtaḥ_).
 </details>
 </details>
 
@@ -463,9 +463,9 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “‘One attains only what is destined to be attained (prāptavyāny eva prāpnoti), goes only where one is destined to go (gantavyāny eva gacchati), and gains only the sorrows and joys destined to be gained (labdhavyāny eva labhate duḥkhāni ca sukhāni ca) from deeds in a former birth (pūrve jātyantare); therefore, my child, give not way to despair (vatsa mā viṣādaṃ kuruṣva ha)!’
+**16:** “‘One attains only what is destined to be attained (_prāptavyāny eva prāpnoti_), goes only where one is destined to go (_gantavyāny eva gacchati_), and gains only the sorrows and joys destined to be gained (_labdhavyāny eva labhate duḥkhāni ca sukhāni ca_) from deeds in a former birth (_pūrve jātyantare_); therefore, my child, give not way to despair (_vatsa mā viṣādaṃ kuruṣva ha_)!’
 
-**17:** “Having thus spoken to his son there, that renowned king, O bull among men, departed to dwell in that well-built chamber (śvabhraṃ jagāma sukṛtaṃ vāsāya).
+**17:** “Having thus spoken to his son there, that renowned king, O bull among men, departed to dwell in that well-built chamber (_śvabhraṃ jagāma sukṛtaṃ vāsāya_).
 </details>
 </details>
 
@@ -496,7 +496,7 @@ Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus entering right then that subterranean chamber adorned with great jewels (śvabhraṃ mahāratna-vibhūṣitaṃ tat), that great-souled monarch (mahātmā) thereupon fulfilled the curse loosed in wrath by those two brahmins (sampādayāmāsa ... śāpaṃ dvijābhyāṃ hi ruṣā vimuktam).”
+“Thus entering right then that subterranean chamber adorned with great jewels (_śvabhraṃ mahāratna-vibhūṣitaṃ tat_), that great-souled monarch (_mahātmā_) thereupon fulfilled the curse loosed in wrath by those two brahmins (_sampādayāmāsa ... śāpaṃ dvijābhyāṃ hi ruṣā vimuktam_).”
 </details>
 </details>
 

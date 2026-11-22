@@ -94,9 +94,9 @@ of Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then, having gone to Mount Prasravaṇa (prasravaṇaṃ śailam) with its variegated woods (citrakānanam), and having bowed with their heads to Rāma and Lakṣmaṇa of mighty strength—
+**1:** Then, having gone to Mount Prasravaṇa (_prasravaṇaṃ śailam_) with its variegated woods (_citrakānanam_), and having bowed with their heads to Rāma and Lakṣmaṇa of mighty strength—
 
-**2:** —placing the crown prince [Aṅgada] at their head (yuvarājaṃ puraskṛtya) and saluting Sugrīva as well, they began to relate (pravaktum upacakramuḥ) the tidings of Sītā (pravṛttim atha sītāyāḥ):
+**2:** —placing the crown prince [Aṅgada] at their head (_yuvarājaṃ puraskṛtya_) and saluting Sugrīva as well, they began to relate (_pravaktum upacakramuḥ_) the tidings of Sītā (_pravṛttim atha sītāyāḥ_):
 </details>
 </details>
 
@@ -154,9 +154,9 @@ of two months given by Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** —her confinement (rodham) in Rāvaṇa's inner apartments, her menacing (tarjanam) by the Rākṣasa women, her deep devotion (samanurāgam) to Rāma, and how the time-limit (niyamaḥ) had been fixed.
+**3:** —her confinement (_rodham_) in Rāvaṇa&#x27;s inner apartments, her menacing (_tarjanam_) by the Rākṣasa women, her deep devotion (_samanurāgam_) to Rāma, and how the time-limit (_niyamaḥ_) had been fixed.
 
-**4:** When all those monkeys had reported this in Rāma's presence (rāmasaṃnidhau), Rāma, hearing that Vaidehī was unharmed (akṣatām), spoke in reply (uttaram abravīt):
+**4:** When all those monkeys had reported this in Rāma&#x27;s presence (_rāmasaṃnidhau_), Rāma, hearing that Vaidehī was unharmed (_akṣatām_), spoke in reply (_uttaram abravīt_):
 </details>
 </details>
 
@@ -203,7 +203,7 @@ How is she disposed towards me? O monkeys! Tell me all that about Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where does Queen Sītā abide (kva sītā vartate devī), and how is she disposed toward me (kathaṃ ca mayi vartate)? Tell me all this (etan me sarvam ākhyāta) concerning Vaidehī, O Vānaras!”
+“Where does Queen Sītā abide (_kva sītā vartate devī_), and how is she disposed toward me (_kathaṃ ca mayi vartate_)? Tell me all this (_etan me sarvam ākhyāta_) concerning Vaidehī, O Vānaras!”
 </details>
 </details>
 
@@ -255,7 +255,7 @@ all the incidents because he knew them better, about Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma's words in Rāma's presence, the monkeys urged on (codayanti) Hanūmān, who was thoroughly conversant with the tidings of Sītā (sītāvṛttāntakovidam).
+Hearing Rāma&#x27;s words in Rāma&#x27;s presence, the monkeys urged on (_codayanti_) Hanūmān, who was thoroughly conversant with the tidings of Sītā (_sītāvṛttāntakovidam_).
 </details>
 </details>
 
@@ -320,7 +320,7 @@ how he saw Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing their words, Hanūmān, son of the Wind-god (mārutātmajaḥ), bowed with his head toward that [southern] quarter (tāṃ diśaṃ prati) in reverence to Queen Sītā (devyai sītāyai),—
+Hearing their words, Hanūmān, son of the Wind-god (_mārutātmajaḥ_), bowed with his head toward that [southern] quarter (_tāṃ diśaṃ prati_) in reverence to Queen Sītā (_devyai sītāyai_),—
 </details>
 </details>
 
@@ -377,7 +377,7 @@ in search of Seetha, Janaka's daughter, with a wish to see her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and, skilled in speech (vākyajñaḥ), spoke words recounting how the sight of Sītā had taken place (sītāyā darśanaṃ yathā). Presenting that celestial golden jewel (maṇiṃ kāñcanaṃ divyam), blazing with its own lustre (svatejasā),—
+—and, skilled in speech (_vākyajñaḥ_), spoke words recounting how the sight of Sītā had taken place (_sītāyā darśanaṃ yathā_). Presenting that celestial golden jewel (_maṇiṃ kāñcanaṃ divyam_), blazing with its own lustre (_svatejasā_),—
 </details>
 </details>
 
@@ -412,7 +412,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—unto Rāma, Hanūmān then spoke with folded hands (prāñjalir abravīt): “Having leaped across the ocean (samudraṃ laṅghayitvā) stretching a hundred yojanas (śatayojanam āyatam),—”
+—unto Rāma, Hanūmān then spoke with folded hands (_prāñjalir abravīt_): “Having leaped across the ocean (_samudraṃ laṅghayitvā_) stretching a hundred _yojanas_ (_śatayojanam āyatam_),—”
 </details>
 </details>
 
@@ -481,7 +481,7 @@ virtuous wife, centering her heart's desire in you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—I went searching for Sītā, daughter of Janaka (jānakīṃ sītāṃ mārgamāṇaḥ), with the desire of beholding her (didṛkṣayā). There lies the city named Laṅkā (laṅketi nagarī) of the evil-minded Rāvaṇa—”
+“—I went searching for Sītā, daughter of Janaka (_jānakīṃ sītāṃ mārgamāṇaḥ_), with the desire of beholding her (_didṛkṣayā_). There lies the city named Laṅkā (_laṅketi nagarī_) of the evil-minded Rāvaṇa—”
 </details>
 </details>
 
@@ -536,9 +536,9 @@ by those ugly-faced female-demons as also time and again being threatened by the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “—situated on the southern shore of the southern ocean (dakṣiṇasya samudrasya tīre... dakṣiṇe). There I beheld the chaste (satī) Sītā in Rāvaṇa's inner apartments (rāvaṇāntaḥpure).”
+**11:** “—situated on the southern shore of the southern ocean (_dakṣiṇasya samudrasya tīre... dakṣiṇe_). There I beheld the chaste (_satī_) Sītā in Rāvaṇa&#x27;s inner apartments (_rāvaṇāntaḥpure_).”
 
-**12:** “Having reposed her heart's desire in you (tvayi saṃnyasya... manoratham), O Rāma, that lovely lady (rāmā) continues to live (jīvantī); she was seen by me in the midst of Rākṣasa women, being menaced (tarjyamānā) again and again.”
+**12:** “Having reposed her heart&#x27;s desire in you (_tvayi saṃnyasya... manoratham_), O Rāma, that lovely lady (_rāmā_) continues to live (_jīvantī_); she was seen by me in the midst of Rākṣasa women, being menaced (_tarjyamānā_) again and again.”
 </details>
 </details>
 
@@ -612,9 +612,9 @@ alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “Guarded in the pleasure-grove (pramadāvane) by hideous Rākṣasa women (rākṣasībhir virūpābhiḥ), the queen, who was accustomed to happiness with you (tvayā... sukhocitā), O hero, suffers misery (duḥkham āpadyate).”
+**13:** “Guarded in the pleasure-grove (_pramadāvane_) by hideous Rākṣasa women (_rākṣasībhir virūpābhiḥ_), the queen, who was accustomed to happiness with you (_tvayā... sukhocitā_), O hero, suffers misery (_duḥkham āpadyate_).”
 
-**14:** “Confined (ruddhā) in Rāvaṇa's inner precincts and closely guarded by Rākṣasa women, wearing a single braid (ekaveṇīdharā), wretched (dīnā), and wholly absorbed in thoughts of you (tvayi cintāparāyaṇā)—”
+**14:** “Confined (_ruddhā_) in Rāvaṇa&#x27;s inner precincts and closely guarded by Rākṣasa women, wearing a single braid (_ekaveṇīdharā_), wretched (_dīnā_), and wholly absorbed in thoughts of you (_tvayi cintāparāyaṇā_)—”
 </details>
 </details>
 
@@ -669,7 +669,7 @@ to her the fame of Ikshvaku dynasty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—making the bare ground her bed (adhaḥśayyā), her limbs pale (vivarṇāṅgī) like a lotus-plant at the onset of winter (padminīva himāgame), turning away from every purpose connected with Rāvaṇa (rāvaṇād vinivṛttārthā), and resolved upon dying (martavyakṛtaniścayā)—”
+“—making the bare ground her bed (_adhaḥśayyā_), her limbs pale (_vivarṇāṅgī_) like a lotus-plant at the onset of winter (_padminīva himāgame_), turning away from every purpose connected with Rāvaṇa (_rāvaṇād vinivṛttārthā_), and resolved upon dying (_martavyakṛtaniścayā_)—”
 </details>
 </details>
 
@@ -715,9 +715,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “—the queen, whose heart is fixed on you (tvanmanāḥ), O Kākutstha, was somehow sought out by me (kathaṃcit... mārgitā mayā) as I softly recited (śanaiḥ kīrtayatā) the renown of the Ikṣvāku lineage, O sinless one!”
+**16:** “—the queen, whose heart is fixed on you (_tvanmanāḥ_), O Kākutstha, was somehow sought out by me (_kathaṃcit... mārgitā mayā_) as I softly recited (_śanaiḥ kīrtayatā_) the renown of the Ikṣvāku lineage, O sinless one!”
 
-**17:** “Then, O tiger among men, she was gently inspired with confidence (śanair viśvāsitā) by me; thereafter the queen was conversed with (sambhāṣitā) and apprised of the entire matter (sarvam arthaṃ ca darśitā).”
+**17:** “Then, O tiger among men, she was gently inspired with confidence (_śanair viśvāsitā_) by me; thereafter the queen was conversed with (_sambhāṣitā_) and apprised of the entire matter (_sarvam arthaṃ ca darśitā_).”
 </details>
 </details>
 
@@ -790,7 +790,7 @@ and devotion towards you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And upon hearing of the alliance between Rāma and Sugrīva (rāmasugrīvasakhyam), she attained joy (harṣam upāgatā). Her righteous conduct (samudācāraḥ) is steadfast, and her devotion (bhaktiḥ) is ever fixed on you.”
+“And upon hearing of the alliance between Rāma and Sugrīva (_rāmasugrīvasakhyam_), she attained joy (_harṣam upāgatā_). Her righteous conduct (_samudācāraḥ_) is steadfast, and her devotion (_bhaktiḥ_) is ever fixed on you.”
 </details>
 </details>
 
@@ -853,7 +853,7 @@ event of a crow occurred at your vicinity in Mount Chitrakuta."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O highly fortunate one (mahābhāga), was Janaka's daughter beheld by me—engaged in severe austerity (ugreṇa tapasā yuktā) and in devotion to you (tvadbhaktyā), O bull among men!”
+“Thus, O highly fortunate one (_mahābhāga_), was Janaka&#x27;s daughter beheld by me—engaged in severe austerity (_ugreṇa tapasā yuktā_) and in devotion to you (_tvadbhaktyā_), O bull among men!”
 </details>
 </details>
 
@@ -908,7 +908,7 @@ you have seen here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as a token of recognition (abhijñānam), she recounted to me what transpired in your presence (yathāvṛttaṃ tavāntike) on Citrakūṭa concerning the crow (vāyasaṃ prati), O Rāghava of great wisdom!”
+“And as a token of recognition (_abhijñānam_), she recounted to me what transpired in your presence (_yathāvṛttaṃ tavāntike_) on Citrakūṭa concerning the crow (_vāyasaṃ prati_), O Rāghava of great wisdom!”
 </details>
 </details>
 
@@ -941,7 +941,7 @@ you have seen here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Moreover, O son of the Wind-god, this Rāma must be informed by you in full (akhilena) of everything just as you have seen it (yathā dṛṣṭam),’—so Jānakī spoke to me.”
+“‘Moreover, O son of the Wind-god, this Rāma must be informed by you in full (_akhilena_) of everything just as you have seen it (_yathā dṛṣṭam_),’—so Jānakī spoke to me.”
 </details>
 </details>
 
@@ -1053,11 +1053,11 @@ I cannot survive beyond one month."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “‘And this [jewel], carefully preserved (yatnāt suparirakṣitaḥ), must be presented to him by you while speaking these words in the hearing of Sugrīva (sugrīvasyopaśṛṇvataḥ):’”
+**22:** “‘And this [jewel], carefully preserved (_yatnāt suparirakṣitaḥ_), must be presented to him by you while speaking these words in the hearing of Sugrīva (_sugrīvasyopaśṛṇvataḥ_):’”
 
-**23:** “‘This auspicious crest-jewel (cūḍāmaṇiḥ śrīmān) has been preserved with care by me for you; and remember (smarasva) that tilaka mark of red arsenic (manaḥśilāyās tilakam)!’—so too she spoke.”
+**23:** “‘This auspicious crest-jewel (_cūḍāmaṇiḥ śrīmān_) has been preserved with care by me for you; and remember (_smarasva_) that _tilaka_ mark of red arsenic (_manaḥśilāyās tilakam_)!’—so too she spoke.”
 
-**24:** “‘This auspicious, sea-born [jewel] (śrīmān... vārisambhavaḥ) has been sent back (niryātitaḥ) by me to you; gazing upon this [signet-ring] (enaṃ dṛṣṭvā), I shall rejoice in my calamity as though beholding you (tvām iva), O sinless one!’”
+**24:** “‘This auspicious, sea-born [jewel] (_śrīmān... vārisambhavaḥ_) has been sent back (_niryātitaḥ_) by me to you; gazing upon this [signet-ring] (_enaṃ dṛṣṭvā_), I shall rejoice in my calamity as though beholding you (_tvām iva_), O sinless one!’”
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ with her wide-open eyes like that of a doe, spoke to me the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I shall sustain my life (jīvitaṃ dhārayiṣyāmi) for a month (māsam), O son of Daśaratha; beyond a month (ūrdhvaṃ māsāt) I shall not live, having fallen into the power of the Rākṣasas (rakṣasāṃ vaśam āgatā).’”
+“‘I shall sustain my life (_jīvitaṃ dhārayiṣyāmi_) for a month (_māsam_), O son of Daśaratha; beyond a month (_ūrdhvaṃ māsāt_) I shall not live, having fallen into the power of the Rākṣasas (_rakṣasāṃ vaśam āgatā_).’”
 </details>
 </details>
 
@@ -1182,7 +1182,7 @@ be constructed, by all means, across the waters of the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus spoke Sītā unto me—frail of limb (kṛśāṅgī), steadfast in righteousness (dharmacāriṇī), confined in Rāvaṇa's inner apartments, with wide-open eyes like a doe (mṛgīvotphullalocanā).”
+“Thus spoke Sītā unto me—frail of limb (_kṛśāṅgī_), steadfast in righteousness (_dharmacāriṇī_), confined in Rāvaṇa&#x27;s inner apartments, with wide-open eyes like a doe (_mṛgīvotphullalocanā_).”
 </details>
 </details>
 
@@ -1244,7 +1244,7 @@ all that was conveyed by Seetha, the princess.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this has been reported by me just as it occurred (yad yathā), O Rāghava; by every means (sarvathā), let the crossing over the ocean waters (sāgarajale saṃtāraḥ) be arranged (pravidhīyatām)!”
+“All this has been reported by me just as it occurred (_yad yathā_), O Rāghava; by every means (_sarvathā_), let the crossing over the ocean waters (_sāgarajale saṃtāraḥ_) be arranged (_pravidhīyatām_)!”
 </details>
 </details>
 
@@ -1285,7 +1285,7 @@ all that was conveyed by Seetha, the princess.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that those two royal princes had found consolation (jātāśvāsau) and having presented that token of recognition (tad... abhijñānam) to Rāghava, the son of the Wind-god related in full with his voice (vācā sampūrṇaṃ... śaśaṃsa) everything told by the queen in due order (ānupūrvyāt).
+Perceiving that those two royal princes had found consolation (_jātāśvāsau_) and having presented that token of recognition (_tad... abhijñānam_) to Rāghava, the son of the Wind-god related in full with his voice (_vācā sampūrṇaṃ... śaśaṃsa_) everything told by the queen in due order (_ānupūrvyāt_).
 </details>
 </details>
 

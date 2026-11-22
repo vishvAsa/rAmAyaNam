@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having recounted this to Rāma (etad ākhyāya rāmāya), the great sage born of the pitcher (maharṣiḥ kumbha-sambhavaḥ) began a further narration within this very tale (asyām evāparaṃ vākyaṃ kathāyām upacakrame).
+Having recounted this to Rāma (_etad ākhyāya rāmāya_), the great sage born of the pitcher (_maharṣiḥ kumbha-sambhavaḥ_) began a further narration within this very tale (_asyām evāparaṃ vākyaṃ kathāyām upacakrame_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon that Daṇḍa, O Kākutstha, with self subdued (dāntātmā), ruled there for a myriad of many years (bahu-varṣa-gaṇāyutam) a kingdom cleared of all thorns (rājyaṃ nihata-kaṇṭakam).
+“Thereupon that Daṇḍa, O Kākutstha, with self subdued (_dāntātmā_), ruled there for a myriad of many years (_bahu-varṣa-gaṇāyutam_) a kingdom cleared of all thorns (_rājyaṃ nihata-kaṇṭakam_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then at a certain time (atha kāle tu kasmiṃścit), in the enchanting month of Caitra (caitre māsi manorame), the king approached the delightful hermitage of Bhārgava (bhārgavam āśramaṃ ramaṇīyam upākrāmat).
+“Then at a certain time (_atha kāle tu kasmiṃścit_), in the enchanting month of Caitra (_caitre māsi manorame_), the king approached the delightful hermitage of Bhārgava (_bhārgavam āśramaṃ ramaṇīyam upākrāmat_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There, roaming in a woodland tract (vicarantīṃ vanoddeśe), Daṇḍa beheld Bhārgava’s maiden daughter (bhārgava-kanyām), peerless on earth in beauty (rūpeṇāpratimāṃ bhuvi), unsurpassed (anuttamām).
+“There, roaming in a woodland tract (_vicarantīṃ vanoddeśe_), Daṇḍa beheld Bhārgava’s maiden daughter (_bhārgava-kanyām_), peerless on earth in beauty (_rūpeṇāpratimāṃ bhuvi_), unsurpassed (_anuttamām_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding her, that deeply foolish king (sudurmedhāḥ), pierced by the arrows of the Bodiless One (anaṅga-śara-pīḍitaḥ), drew near to the greatly alarmed maiden (abhigamya susaṃvignāṃ kanyām) and spoke these words:
+“Beholding her, that deeply foolish king (_sudurmedhāḥ_), pierced by the arrows of the Bodiless One (_anaṅga-śara-pīḍitaḥ_), drew near to the greatly alarmed maiden (_abhigamya susaṃvignāṃ kanyām_) and spoke these words:
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whence have you come, O fair-hipped one (kutas tvam asi suśroṇi), and whose daughter are you, O auspicious one (kasya vā ’si sutā śubhe)? Tormented by Love (pīḍito ’ham anaṅgena), I approach you, O fair-faced maiden (gacchāmi tvāṃ śubhānane)!’”
+“‘Whence have you come, O fair-hipped one (_kutas tvam asi suśroṇi_), and whose daughter are you, O auspicious one (_kasya vā ’si sutā śubhe_)? Tormented by Love (_pīḍito ’ham anaṅgena_), I approach you, O fair-faced maiden (_gacchāmi tvāṃ śubhānane_)!’”
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To him, speaking thus, maddened by delusion and lust (mohonmattasya kāminaḥ), the daughter of Bhārgava gently spoke these conciliatory words to the king (vacaḥ sānunayaṃ nṛpam):
+“To him, speaking thus, maddened by delusion and lust (_mohonmattasya kāminaḥ_), the daughter of Bhārgava gently spoke these conciliatory words to the king (_vacaḥ sānunayaṃ nṛpam_):
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Know me to be the daughter of Bhārgava (bhārgavasya sutāṃ viddhi), the godlike sage of effortless deeds (devasyākliṣṭa-karmaṇaḥ), Arajā by name, O lord of kings (arajāṃ nāma rājendra), his eldest, dwelling in the hermitage (jyeṣṭhām āśrama-vāsinīm).
+“‘Know me to be the daughter of Bhārgava (_bhārgavasya sutāṃ viddhi_), the godlike sage of effortless deeds (_devasyākliṣṭa-karmaṇaḥ_), Arajā by name, O lord of kings (_arajāṃ nāma rājendra_), his eldest, dwelling in the hermitage (_jyeṣṭhām āśrama-vāsinīm_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Do not touch me by force, O king (mā māṃ spṛśa balād rājan), for I am a maiden under my father’s authority (kanyā pitṛ-vaśā hy aham); my father is your preceptor, O lord of kings (guruḥ pitā me rājendra), and you are the disciple of that great-souled one (tvaṃ ca śiṣyo mahātmanaḥ); enraged, that mighty ascetic would inflict upon you a terrible calamity (vyasanaṃ sumahat ... dadyān mahātapāḥ).
+“‘Do not touch me by force, O king (_mā māṃ spṛśa balād rājan_), for I am a maiden under my father’s authority (_kanyā pitṛ-vaśā hy aham_); my father is your preceptor, O lord of kings (_guruḥ pitā me rājendra_), and you are the disciple of that great-souled one (_tvaṃ ca śiṣyo mahātmanaḥ_); enraged, that mighty ascetic would inflict upon you a terrible calamity (_vyasanaṃ sumahat ... dadyān mahātapāḥ_).
 </details>
 </details>
 
@@ -376,9 +376,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “‘Or if you desire aught else with me (yadi vānyan mayā kāryam) by the righteous path approved by dharma (dharma-dṛṣṭena satpathā), then solicit my father of great splendor, O foremost of men (varayasva ... pitaraṃ me mahādyutim).
+**10:** “‘Or if you desire aught else with me (_yadi vānyan mayā kāryam_) by the righteous path approved by dharma (_dharma-dṛṣṭena satpathā_), then solicit my father of great splendor, O foremost of men (_varayasva ... pitaraṃ me mahādyutim_).
 
-**11:** “‘Otherwise the fruit for you shall be fraught with dread (bhaved ghorābhisaṃhitam), for in wrath this father of mine could burn up even the three worlds (trailokyam api nirdahet); yet if solicited, O faultless-limbed one, my father will bestow me upon you (dāsyate ... tava mā yācitaḥ pitā).’
+**11:** “‘Otherwise the fruit for you shall be fraught with dread (_bhaved ghorābhisaṃhitam_), for in wrath this father of mine could burn up even the three worlds (_trailokyam api nirdahet_); yet if solicited, O faultless-limbed one, my father will bestow me upon you (_dāsyate ... tava mā yācitaḥ pitā_).’
 </details>
 </details>
 
@@ -412,7 +412,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To Arajā speaking thus (evaṃ bruvāṇām arajām), Daṇḍa, fallen under the sway of lust (kāma-vaśaṃ gataḥ) and crazed with passion (madonmattaḥ), placed his joined palms upon his head (śirasy ādhāya cāñjalim) and replied:
+“To Arajā speaking thus (_evaṃ bruvāṇām arajām_), Daṇḍa, fallen under the sway of lust (_kāma-vaśaṃ gataḥ_) and crazed with passion (_madonmattaḥ_), placed his joined palms upon his head (_śirasy ādhāya cāñjalim_) and replied:
 </details>
 </details>
 
@@ -454,7 +454,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Show me favor, O fair-hipped one (prasādaṃ kuru suśroṇi); you ought not to waste time (na kālaṃ kṣeptum arhasi), for on your account my very life-breaths are bursting asunder, O lovely-faced one (tvatkṛte hi mama prāṇā vidīryante varānane)!
+“‘Show me favor, O fair-hipped one (_prasādaṃ kuru suśroṇi_); you ought not to waste time (_na kālaṃ kṣeptum arhasi_), for on your account my very life-breaths are bursting asunder, O lovely-faced one (_tvatkṛte hi mama prāṇā vidīryante varānane_)!
 </details>
 </details>
 
@@ -488,7 +488,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Should death befall me upon winning you, or a terrible curse (tvāṃ prāpya me vadho vā syāc chāpo vā yadi dāruṇaḥ), [so be it]! Embrace me who am devoted to you, O timid one, clinging to you in utter distress (bhaktaṃ bhajasva māṃ bhīru bhajamānaṃ suvihvalam)!’
+“‘Should death befall me upon winning you, or a terrible curse (_tvāṃ prāpya me vadho vā syāc chāpo vā yadi dāruṇaḥ_), [so be it]! Embrace me who am devoted to you, O timid one, clinging to you in utter distress (_bhaktaṃ bhajasva māṃ bhīru bhajamānaṃ suvihvalam_)!’
 </details>
 </details>
 
@@ -522,7 +522,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus, that mighty one seized the maiden by force with his two arms (dorbhyāṃ gṛhya balād balī) and, though she struggled (visphurantīm), proceeded to violate her according to his lust (yathākāmaṃ maithunāyopacakrame).
+“Having spoken thus, that mighty one seized the maiden by force with his two arms (_dorbhyāṃ gṛhya balād balī_) and, though she struggled (_visphurantīm_), proceeded to violate her according to his lust (_yathākāmaṃ maithunāyopacakrame_).
 </details>
 </details>
 
@@ -556,7 +556,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having committed this most dreadful, atrocious deed (etam arthaṃ mahāghoraṃ ... kṛtvā sudāruṇam), Daṇḍa swiftly departed for his peerless city of Madhumanta (nagaraṃ prayayāv āśu madhumantam anuttamam).
+“Having committed this most dreadful, atrocious deed (_etam arthaṃ mahāghoraṃ ... kṛtvā sudāruṇam_), Daṇḍa swiftly departed for his peerless city of Madhumanta (_nagaraṃ prayayāv āśu madhumantam anuttamam_).
 </details>
 </details>
 
@@ -590,7 +590,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Arajā, weeping (arajā ’pi rudantī sā), remained not far from the hermitage (āśramasyāvidūrataḥ), deeply terrified, awaiting her godlike father (pratīkṣanti susaṃtrastā pitaraṃ deva-sannibham).”
+“And Arajā, weeping (_arajā ’pi rudantī sā_), remained not far from the hermitage (_āśramasyāvidūrataḥ_), deeply terrified, awaiting her godlike father (_pratīkṣanti susaṃtrastā pitaraṃ deva-sannibham_).”
 </details>
 </details>
 

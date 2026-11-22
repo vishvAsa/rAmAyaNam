@@ -84,7 +84,7 @@ search for the whereabouts of Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeking to trace the course (gatim anvicchan) of that [concealed Rākṣasa], the mighty and valorous prince Rāma (rājaputraḥ pratāpavān) commanded ten commanders of the Vānara troops (daśa vānarayūthapān):
+Seeking to trace the course (_gatim anvicchan_) of that [concealed Rākṣasa], the mighty and valorous prince Rāma (_rājaputraḥ pratāpavān_) commanded ten commanders of the Vānara troops (_daśa vānarayūthapān_):
 </details>
 </details>
 
@@ -146,9 +146,9 @@ Rishabha and Rishabha skandha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** The two sons of Suṣeṇa (dvau suṣeṇasya dāyādau), Nīla the lord of leaping monkeys (plavagādhipam), Aṅgada the son of Vālin, and the impetuous Śarabha (śarabhaṃ ca tarasvinam);
+**2:** The two sons of Suṣeṇa (_dvau suṣeṇasya dāyādau_), Nīla the lord of leaping monkeys (_plavagādhipam_), Aṅgada the son of Vālin, and the impetuous Śarabha (_śarabhaṃ ca tarasvinam_);
 
-**3:** That scorcher of foes (paraṃtapaḥ) also directed Dvivida, Hanūmān, the mighty Sānuprastha, and Ṛṣabha of bull-like shoulders (ṛṣabhaskandham).
+**3:** That scorcher of foes (_paraṃtapaḥ_) also directed Dvivida, Hanūmān, the mighty Sānuprastha, and Ṛṣabha of bull-like shoulders (_ṛṣabhaskandham_).
 </details>
 </details>
 
@@ -200,7 +200,7 @@ of trees in order to explore the ten regions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with ardent joy (samprahṛṣṭāḥ), all those Vānaras brandished terrifying trees (bhīmān udyamya pādapān) and bounded into the sky (ākāśaṃ viviśuḥ), scouring all ten directions (mārgamāṇā diśo daśa).
+Filled with ardent joy (_samprahṛṣṭāḥ_), all those Vānaras brandished terrifying trees (_bhīmān udyamya pādapān_) and bounded into the sky (_ākāśaṃ viviśuḥ_), scouring all ten directions (_mārgamāṇā diśo daśa_).
 </details>
 </details>
 
@@ -253,7 +253,7 @@ of the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet Rāvaṇa's son (rāvaṇiḥ), skilled in mystic missiles (astravit), checked the momentum of those swift warriors (vegavatāṃ vegam) with supreme missile-charged shafts of even greater velocity (iṣubhir vegavattaraiḥ).
+Yet Rāvaṇa&#x27;s son (_rāvaṇiḥ_), skilled in mystic missiles (_astravit_), checked the momentum of those swift warriors (_vegavatāṃ vegam_) with supreme missile-charged shafts of even greater velocity (_iṣubhir vegavattaraiḥ_).
 </details>
 </details>
 
@@ -305,7 +305,7 @@ unable to see Indrajit in the darkness, as the sun is obscured when veiled in cl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mangled and lacerated by iron shafts (nārācaiḥ kṣatavikṣatāḥ), those Vānaras of dreadful speed could not behold him in the darkness (andhakāre na dadṛśuḥ), like the sun shrouded by clouds (meghaiḥ sūryam ivāvṛtam).
+Mangled and lacerated by iron shafts (_nārācaiḥ kṣatavikṣatāḥ_), those Vānaras of dreadful speed could not behold him in the darkness (_andhakāre na dadṛśuḥ_), like the sun shrouded by clouds (_meghaiḥ sūryam ivāvṛtam_).
 </details>
 </details>
 
@@ -365,7 +365,7 @@ lacerated their flesh in great measure.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Triumphant in battle (samitiṃjayaḥ), Rāvaṇa's son violently drove into Rāma and Lakṣmaṇa alone (rāmalakṣmaṇayor eva) shafts that rend every limb (sarvadehabhidaḥ śarān).
+Triumphant in battle (_samitiṃjayaḥ_), Rāvaṇa&#x27;s son violently drove into Rāma and Lakṣmaṇa alone (_rāmalakṣmaṇayor eva_) shafts that rend every limb (_sarvadehabhidaḥ śarān_).
 </details>
 </details>
 
@@ -418,7 +418,7 @@ arrows by the enraged Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the enraged Indrajit (kruddhenendrajitā), those two heroic brothers, Rāma and Lakṣmaṇa, [were rendered] without an unpierced space upon their bodies (nirantaraśarīrau) through serpents transformed into arrows (pannagaiḥ śaratāṃ gataiḥ).
+By the enraged Indrajit (_kruddhenendrajitā_), those two heroic brothers, Rāma and Lakṣmaṇa, [were rendered] without an unpierced space upon their bodies (_nirantaraśarīrau_) through serpents transformed into arrows (_pannagaiḥ śaratāṃ gataiḥ_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ Kimshuka trees in flowring.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through the pathways of their wounds (kṣatajamārgeṇa), abundant blood streamed forth from them both (susrāva rudhiraṃ bahu), and the two shone like two blossoming kiṃśuka trees (puṣpitāv iva kiṃśukau).
+Through the pathways of their wounds (_kṣatajamārgeṇa_), abundant blood streamed forth from them both (_susrāva rudhiraṃ bahu_), and the two shone like two blossoming _kiṃśuka_ trees (_puṣpitāv iva kiṃśukau_).
 </details>
 </details>
 
@@ -522,7 +522,7 @@ which resembled a mass of collyrium mixed with oil, spoke the following words to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa's son, the corners of whose eyes were blood-red (paryantaraktākṣaḥ) and who resembled a heap of crushed collyrium (bhinnāñjanacayopamaḥ), spoke these words to the two brothers while remaining in invisibility (antardhānagataḥ):
+Then Rāvaṇa&#x27;s son, the corners of whose eyes were blood-red (_paryantaraktākṣaḥ_) and who resembled a heap of crushed collyrium (_bhinnāñjanacayopamaḥ_), spoke these words to the two brothers while remaining in invisibility (_antardhānagataḥ_):
 </details>
 </details>
 
@@ -577,7 +577,7 @@ is not able to see or approach me. How much less, you two!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even Śakra, the lord of the thirty gods (tridaśeśvaraḥ), is unable to behold or approach me when I fight unseen (yudhyamānam anālakṣyam)—how much less the two of you (kiṃ punar yuvām)!
+“Even Śakra, the lord of the thirty gods (_tridaśeśvaraḥ_), is unable to behold or approach me when I fight unseen (_yudhyamānam anālakṣyam_)—how much less the two of you (_kiṃ punar yuvām_)!
 </details>
 </details>
 
@@ -631,7 +631,7 @@ the region of Yama the Lord of Death."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Filled with wrath (roṣaparītātmā), here do I lead you two Rāghavas—ensnared in a net of heron-feathered shafts (iṣujālena kaṅkapatriṇā)—to the abode of Yama (yamasādanam)!”
+“Filled with wrath (_roṣaparītātmā_), here do I lead you two Rāghavas—ensnared in a net of heron-feathered shafts (_iṣujālena kaṅkapatriṇā_)—to the abode of Yama (_yamasādanam_)!”
 </details>
 </details>
 
@@ -691,7 +691,7 @@ pierced them with pointed arrows and shouted too exultantly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to the two righteous brothers Rāma and Lakṣmaṇa (dharmajñau bhrātarau rāmalakṣmaṇau), he pierced them thoroughly with sharp arrows (nirbibheda śitair bāṇaiḥ), rejoiced exceedingly, and roared aloud (prajaharṣa nanāda ca).
+Having spoken thus to the two righteous brothers Rāma and Lakṣmaṇa (_dharmajñau bhrātarau rāmalakṣmaṇau_), he pierced them thoroughly with sharp arrows (_nirbibheda śitair bāṇaiḥ_), rejoiced exceedingly, and roared aloud (_prajaharṣa nanāda ca_).
 </details>
 </details>
 
@@ -743,7 +743,7 @@ discharged formidable arrows even once more, in that great fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark as a mass of crushed collyrium (bhinnāñjanacayaśyāmaḥ), he drew his vast bow to a full circle (visphārya vipulaṃ dhanuḥ) and once again loosed dreadful shafts in that great battle (mahāmṛdhe).
+Dark as a mass of crushed collyrium (_bhinnāñjanacayaśyāmaḥ_), he drew his vast bow to a full circle (_visphārya vipulaṃ dhanuḥ_) and once again loosed dreadful shafts in that great battle (_mahāmṛdhe_).
 </details>
 </details>
 
@@ -795,7 +795,7 @@ digging sharp arrows into the vital parts of Rama and Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that warrior, who knew every vital spot (marmajñaḥ), plunged whetted arrows deep into the vitals (marmasu majjayan niśitān śarān) of Rāma and Lakṣmaṇa, roaring again and again (nanāda ca muhur muhuḥ).
+Then that warrior, who knew every vital spot (_marmajñaḥ_), plunged whetted arrows deep into the vitals (_marmasu majjayan niśitān śarān_) of Rāma and Lakṣmaṇa, roaring again and again (_nanāda ca muhur muhuḥ_).
 </details>
 </details>
 
@@ -847,7 +847,7 @@ the twinkling of an eye, became incapable of even looking up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound fast by that snare of arrows (baddhau tu śarabandhena) at the forefront of the battle (raṇamūrdhani), the two of them could not so much as blink or look up (na śekatur avekṣitum) even for the space of an eye-twinkling (nimeṣāntaramātreṇa).
+Bound fast by that snare of arrows (_baddhau tu śarabandhena_) at the forefront of the battle (_raṇamūrdhani_), the two of them could not so much as blink or look up (_na śekatur avekṣitum_) even for the space of an eye-twinkling (_nimeṣāntaramātreṇa_).
 </details>
 </details>
 
@@ -878,7 +878,7 @@ Bound fast by that snare of arrows (baddhau tu śarabandhena) at the forefront o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, pierced in every limb and heaped over with arrows and lance-heads (śaraśalyācitau kṛtau), they trembled like two loosened banners of Mahendra (dhvajāv iva mahendrasya rajjumuktau prakampitau).
+Then, pierced in every limb and heaped over with arrows and lance-heads (_śaraśalyācitau kṛtau_), they trembled like two loosened banners of Mahendra (_dhvajāv iva mahendrasya rajjumuktau prakampitau_).
 </details>
 </details>
 
@@ -928,7 +928,7 @@ like a pair of flag-staffs in honour of Indra the Lord celestials and freed from
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tottering and racked by the piercing of their vital organs (marmabhedena karśitau), those two heroic wielders of mighty bows, the lords of the earth (jagatīpatī), fell upon the earth (nipetatur jagatyām).
+Tottering and racked by the piercing of their vital organs (_marmabhedena karśitau_), those two heroic wielders of mighty bows, the lords of the earth (_jagatīpatī_), fell upon the earth (_nipetatur jagatyām_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ bathed in blood, all their limbs bristling with arrows and extremely injured, fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lying upon a hero's bed (vīraśayane śayānau) drenched in blood (rudhirokṣitau), those two heroes had every limb enwrapped in arrows (śaraveṣṭitasarvāṅgau), afflicted and sorely tormented (ārtau paramapīḍitau).
+Lying upon a hero&#x27;s bed (_vīraśayane śayānau_) drenched in blood (_rudhirokṣitau_), those two heroes had every limb enwrapped in arrows (_śaraveṣṭitasarvāṅgau_), afflicted and sorely tormented (_ārtau paramapīḍitau_).
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ end of their feet that was not lacerated, implanted and pierced by those arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Down to the very tips of their fingers (ā karāgrāt), there was not a finger's breadth of space (nāṅgulam antaram) upon their bodies left unpierced (aviddham), unlacerated (anirviṇṇam), or unbruised (adhvastam) by those straight-flying shafts (ajihmagaiḥ).
+Down to the very tips of their fingers (_ā karāgrāt_), there was not a finger&#x27;s breadth of space (_nāṅgulam antaram_) upon their bodies left unpierced (_aviddham_), unlacerated (_anirviṇṇam_), or unbruised (_adhvastam_) by those straight-flying shafts (_ajihmagaiḥ_).
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ blood gushed forth from both Rama and Lashmana, as water from a spring.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck down by that cruel Rākṣasa who could assume any form at will (rakṣasā kāmarūpiṇā), the two poured forth fierce streams of blood (asṛk susruvatustīvram) like two mountain cascades pouring forth water (jalaṃ prasravaṇāv iva).
+Struck down by that cruel Rākṣasa who could assume any form at will (_rakṣasā kāmarūpiṇā_), the two poured forth fierce streams of blood (_asṛk susruvatustīvram_) like two mountain cascades pouring forth water (_jalaṃ prasravaṇāv iva_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ formerly vanquished Indra the Lord of celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced in his vital organs by arrows (viddho marmasu mārgaṇaiḥ), Rāma fell first (papāta prathamaṃ rāmaḥ)—struck in wrath by that Indrajit by whom Śakra himself had formerly been vanquished (yena purā śakro vinirjitaḥ).
+Pierced in his vital organs by arrows (_viddho marmasu mārgaṇaiḥ_), Rāma fell first (_papāta prathamaṃ rāmaḥ_)—struck in wrath by that Indrajit by whom Śakra himself had formerly been vanquished (_yena purā śakro vinirjitaḥ_).
 </details>
 </details>
 
@@ -1212,7 +1212,7 @@ dantas and those shafts like unto razors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With swift-flying, golden-shafted arrows (rukmapuṅkhaiḥ āśugaiḥ) of burnished tips that coursed like motes of dust (rajogatibhiḥ)—with iron nārācas, ardhanārācas, broad-headed bhallas, añjalikas, calf-toothed vatsadantas, lion-fanged siṃhadaṃṣṭras, and razor-edged kṣuras—he pierced them.
+With swift-flying, golden-shafted arrows (_rukmapuṅkhaiḥ āśugaiḥ_) of burnished tips that coursed like motes of dust (_rajogatibhiḥ_)—with iron _nārācas_, _ardhanārācas_, broad-headed _bhallas_, _añjalikas_, calf-toothed _vatsadantas_, lion-fanged _siṃhadaṃṣṭras_, and razor-edged _kṣuras_—he pierced them.
 </details>
 </details>
 
@@ -1272,7 +1272,7 @@ away and detached from the hold of his fist, Rama lied down on the battle-ground
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having cast aside his unstrung bow (avijyam āvidhya kārmukam)—whose grip-girth was shattered (bhinnamuṣṭiparīṇāham), which was curved in three places (trinatam) and adorned with gold (rukmabhūṣitam)—he lay upon that hero's couch (sa vīraśayane śiśye).
+Having cast aside his unstrung bow (_avijyam āvidhya kārmukam_)—whose grip-girth was shattered (_bhinnamuṣṭiparīṇāham_), which was curved in three places (_trinatam_) and adorned with gold (_rukmabhūṣitam_)—he lay upon that hero&#x27;s couch (_sa vīraśayane śiśye_).
 </details>
 </details>
 
@@ -1324,7 +1324,7 @@ hopeless about his own life.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Rāma, that bull among men (puruṣarṣabham), fallen within the range of a bowshot (bāṇapātāntare), Lakṣmaṇa despaired of life right there (nirāśo jīvite 'bhavat).
+Seeing Rāma, that bull among men (_puruṣarṣabham_), fallen within the range of a bowshot (_bāṇapātāntare_), Lakṣmaṇa despaired of life right there (_nirāśo jīvite &#x27;bhavat_).
 </details>
 </details>
 
@@ -1376,7 +1376,7 @@ the ground, wounded as he was by a net work of arrows, Lakshmana felt sad.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his brother Rāma—lotus-petal-eyed (kamalapatrākṣam), the refuge of all (śaraṇyam), who delighted in battle (raṇatoṣiṇam)—fallen upon the surface of the earth (patitaṃ dharaṇītale), he grieved bitterly (śuśoca).
+Beholding his brother Rāma—lotus-petal-eyed (_kamalapatrākṣam_), the refuge of all (_śaraṇyam_), who delighted in battle (_raṇatoṣiṇam_)—fallen upon the surface of the earth (_patitaṃ dharaṇītale_), he grieved bitterly (_śuśoca_).
 </details>
 </details>
 
@@ -1422,7 +1422,7 @@ eyes filled in tears, being afflicted as they were by sorrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And seeing him, the Vānaras too were plunged into supreme anguish (saṃtāpaṃ paramaṃ gatāḥ); stricken with grief, they wailed dreadfully (cukruśur ghoram), their eyes brimming with tears (aśrupūritalocanāḥ).
+And seeing him, the Vānaras too were plunged into supreme anguish (_saṃtāpaṃ paramaṃ gatāḥ_); stricken with grief, they wailed dreadfully (_cukruśur ghoram_), their eyes brimming with tears (_aśrupūritalocanāḥ_).
 </details>
 </details>
 
@@ -1494,6 +1494,6 @@ disturbed and afflicted sorrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounding those two bound heroes as they lay upon their hero's bed (baddhau tu tau vīraśaye śayānau), the assembled Vānaras headed by the son of Vāyu (vāyusutapramukhyāḥ) stood around them and sank into the deepest despair (viṣādam ārtāḥ paramaṃ ca jagmuḥ).
+Surrounding those two bound heroes as they lay upon their hero&#x27;s bed (_baddhau tu tau vīraśaye śayānau_), the assembled Vānaras headed by the son of Vāyu (_vāyusutapramukhyāḥ_) stood around them and sank into the deepest despair (_viṣādam ārtāḥ paramaṃ ca jagmuḥ_).
 </details>
 </details>

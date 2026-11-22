@@ -87,7 +87,7 @@ started from that place when the immaculate sun had risen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed that auspicious night (rajanīṃ śivām) beneath that great banyan tree, they set forth from that region when the bright sun had risen (vimale ’bhyudite sūrye).
+Having passed that auspicious night (_rajanīṃ śivām_) beneath that great banyan tree, they set forth from that region when the bright sun had risen (_vimale ’bhyudite sūrye_).
 </details>
 </details>
 
@@ -118,7 +118,7 @@ Having passed that auspicious night (rajanīṃ śivām) beneath that great bany
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Plunging into the vast forest (vigāhya sumahad vanam), they journeyed toward that region where the Yamunā flows forth to meet the Bhāgīrathī Gaṅgā (bhāgīrathīṃ gaṅgāṃ yamunābhipravartate).
+Plunging into the vast forest (_vigāhya sumahad vanam_), they journeyed toward that region where the Yamunā flows forth to meet the Bhāgīrathī Gaṅgā (_bhāgīrathīṃ gaṅgāṃ yamunābhipravartate_).
 </details>
 </details>
 
@@ -177,7 +177,7 @@ departed grand uncles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those illustrious ones (yaśasvinaḥ) went along beholding here and there varied tracts of land (bhūmi-bhāgān vividhān) and delightful regions never seen before (adṛṣṭa-pūrvān).
+Those illustrious ones (_yaśasvinaḥ_) went along beholding here and there varied tracts of land (_bhūmi-bhāgān vividhān_) and delightful regions never seen before (_adṛṣṭa-pūrvān_).
 </details>
 </details>
 
@@ -232,7 +232,7 @@ when the day had just receded.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Walking along at ease in safety (yathā-kṣemeṇa gacchan) and beholding varied trees, Rāma spoke to Saumitri when the day had just begun to decline (nivṛtta-mātre divase):
+Walking along at ease in safety (_yathā-kṣemeṇa gacchan_) and beholding varied trees, Rāma spoke to Saumitri when the day had just begun to decline (_nivṛtta-mātre divase_):
 </details>
 </details>
 
@@ -286,7 +286,7 @@ Bharadwaja is staying nearby."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold near Prayāga (prayāgam abhitaḥ), O Saumitri, the lofty column of smoke (dhūmam unnatam)—the banner of the blessed Fire-god (agner bhagavataḥ ketum); I think the sage is near at hand (sannihito muniḥ).
+“Behold near Prayāga (_prayāgam abhitaḥ_), O Saumitri, the lofty column of smoke (_dhūmam unnatam_)—the banner of the blessed Fire-god (_agner bhagavataḥ ketum_); I think the sage is near at hand (_sannihito muniḥ_).
 </details>
 </details>
 
@@ -339,7 +339,7 @@ produced by clashing of waters is heard."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely we have reached the confluence of the Gaṅgā and the Yamunā (saṃbhedaṃ gaṅgā-yamunayoḥ); for indeed the roaring sound of the water is heard, churned by colliding water (vāriṇo vāri-ghaṭṭitaḥ).
+“Surely we have reached the confluence of the Gaṅgā and the Yamunā (_saṃbhedaṃ gaṅgā-yamunayoḥ_); for indeed the roaring sound of the water is heard, churned by colliding water (_vāriṇo vāri-ghaṭṭitaḥ_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ these trees of various kinds are seen in the hermitage of Bharadwaja."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Logs of wood split open (dārūṇi paribhinnāni) by forest-dwellers who subsist upon woodland produce (vanajair upajīvibhiḥ), as well as these varied trees, are seen in the hermitage of Bharadvāja.”
+“Logs of wood split open (_dārūṇi paribhinnāni_) by forest-dwellers who subsist upon woodland produce (_vanajair upajīvibhiḥ_), as well as these varied trees, are seen in the hermitage of Bharadvāja.”
 </details>
 </details>
 
@@ -457,7 +457,7 @@ the west.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having walked at ease, those two bowmen (dhanvinau tau), as the sun hung low in the west (lambamāne divākare), reached the abode of the sage at the confluence of the Gaṅgā and the Yamunā (gaṅgā-yamunayoḥ sandhau).
+Having walked at ease, those two bowmen (_dhanvinau tau_), as the sun hung low in the west (_lambamāne divākare_), reached the abode of the sage at the confluence of the Gaṅgā and the Yamunā (_gaṅgā-yamunayoḥ sandhau_).
 </details>
 </details>
 
@@ -511,7 +511,7 @@ the vicinity of Bharadwaja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the hermitage and startling the deer and birds (trāsayan mṛga-pakṣiṇaḥ) by his unfamiliar martial aspect, Rāma walked for the space of a muhūrta along the path and approached Bharadvāja.
+Having reached the hermitage and startling the deer and birds (_trāsayan mṛga-pakṣiṇaḥ_) by his unfamiliar martial aspect, Rāma walked for the space of a _muhūrta_ along the path and approached Bharadvāja.
 </details>
 </details>
 
@@ -564,7 +564,7 @@ accompanied by Seetha, halted at first at some distance off.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having reached the hermitage itself, those two heroes—desirous of beholding the sage (muner darśana-kāṅkṣiṇau) and followed by Sītā—stood waiting at a respectful distance (dūrād evāvatasthatuḥ).
+Then, having reached the hermitage itself, those two heroes—desirous of beholding the sage (_muner darśana-kāṅkṣiṇau_) and followed by Sītā—stood waiting at a respectful distance (_dūrād evāvatasthatuḥ_).
 </details>
 </details>
 
@@ -634,9 +634,9 @@ and Seetha greeted him with joined palms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Having entered, Rāma beheld that high-souled sage surrounded by bands of disciples (śiṣya-gaṇair vṛtam), of sharpened vows (saṃśita-vratam), one-pointed in concentration, who had gained spiritual vision through austerity (tapasā labdha-cakṣuṣam).
+**11:** Having entered, Rāma beheld that high-souled sage surrounded by bands of disciples (_śiṣya-gaṇair vṛtam_), of sharpened vows (_saṃśita-vratam_), one-pointed in concentration, who had gained spiritual vision through austerity (_tapasā labdha-cakṣuṣam_).
 
-**12:** The very moment he beheld that illustrious sage who had just offered the agnihotra oblation (hutāgnihotraṃ dṛṣṭvaiva), Rāma, with joined palms, bowed in salutation together with Saumitri and Sītā (sītayā cābhyavādayat).
+**12:** The very moment he beheld that illustrious sage who had just offered the _agnihotra_ oblation (_hutāgnihotraṃ dṛṣṭvaiva_), Rāma, with joined palms, bowed in salutation together with Saumitri and Sītā (_sītayā cābhyavādayat_).
 </details>
 </details>
 
@@ -724,9 +724,9 @@ accompanied me to the lonely forest suitable for religious austerities."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** The elder brother of Lakṣmaṇa announced himself to him (nyavedayata cātmānam): “O blessed one, we two are Rāma and Lakṣmaṇa, the sons of Daśaratha.
+**13:** The elder brother of Lakṣmaṇa announced himself to him (_nyavedayata cātmānam_): “O blessed one, we two are Rāma and Lakṣmaṇa, the sons of Daśaratha.
 
-**14:** “This is my auspicious consort Vaidehī (bhāryā mameyaṃ vaidehī), the blameless daughter of Janaka, who has followed me into the solitary ascetic forest (vijanaṃ tapovanam).
+**14:** “This is my auspicious consort Vaidehī (_bhāryā mameyaṃ vaidehī_), the blameless daughter of Janaka, who has followed me into the solitary ascetic forest (_vijanaṃ tapovanam_).
 </details>
 </details>
 
@@ -779,7 +779,7 @@ Lakshmana (son of Sumitra) of firm vows has also followed me to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as I was being sent into exile by my father (pitrā pravrājyamānaṃ mām), this beloved younger brother of mine, Saumitri, of firm vows (dṛḍha-vrataḥ), followed me to the forest itself.
+“And as I was being sent into exile by my father (_pitrā pravrājyamānaṃ mām_), this beloved younger brother of mine, Saumitri, of firm vows (_dṛḍha-vrataḥ_), followed me to the forest itself.
 </details>
 </details>
 
@@ -832,7 +832,7 @@ practise asceticism, living on roots and fruits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Commanded by our father (pitrā niyuktāḥ), O blessed one, we shall enter the ascetic forest and practice righteousness alone there, subsisting upon roots and fruits (mūla-phalāśanāḥ).”
+“Commanded by our father (_pitrā niyuktāḥ_), O blessed one, we shall enter the ascetic forest and practice righteousness alone there, subsisting upon roots and fruits (_mūla-phalāśanāḥ_).”
 </details>
 </details>
 
@@ -893,7 +893,7 @@ curds, butter, honey and the milk of the coconut as a welcome-drink.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of that wise prince, the righteous-souled sage thereupon caused to be brought a cow, the arghya offering, and water (gām arghyam udakaṃ tataḥ).
+Hearing that speech of that wise prince, the righteous-souled sage thereupon caused to be brought a cow, the _arghya_ offering, and water (_gām arghyam udakaṃ tataḥ_).
 </details>
 </details>
 
@@ -940,7 +940,7 @@ prepared from wild roots and fruits and also arranged accommodation for them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He of austere penance (tapta-tapāḥ) gave them varied foods and beverages derived from wild roots and fruits (vanya-mūla-phalāśrayān), and also arranged a lodging place for them (vāsaṃ caivābhyakalpayat).
+He of austere penance (_tapta-tapāḥ_) gave them varied foods and beverages derived from wild roots and fruits (_vanya-mūla-phalāśrayān_), and also arranged a lodging place for them (_vāsaṃ caivābhyakalpayat_).
 </details>
 </details>
 
@@ -1023,9 +1023,9 @@ his seat after accepting the aforesaid hospitality:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Seated surrounded on all sides by tame deer, birds, and ascetics (mṛga-pakṣibhir āsīno munibhiś ca), the sage honored Rāma upon his arrival with a word of welcome (svāgatenābhyarcya) and spoke to him.
+**19:** Seated surrounded on all sides by tame deer, birds, and ascetics (_mṛga-pakṣibhir āsīno munibhiś ca_), the sage honored Rāma upon his arrival with a word of welcome (_svāgatenābhyarcya_) and spoke to him.
 
-**20:** Having accepted that hospitality of worship, Bharadvāja then spoke this righteous speech (vākyaṃ dharma-yuktam) to Rāghava after he had taken his seat (upaviṣṭaṃ rāghavam):
+**20:** Having accepted that hospitality of worship, Bharadvāja then spoke this righteous speech (_vākyaṃ dharma-yuktam_) to Rāghava after he had taken his seat (_upaviṣṭaṃ rāghavam_):
 </details>
 </details>
 
@@ -1078,7 +1078,7 @@ And I have heard of your unjust banishment."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“After a long time indeed (cirasya khalu), O Kākutstha, do I behold you arrived here; and I have heard of this causeless banishment of yours (vivāsanam akāraṇam).
+“After a long time indeed (_cirasya khalu_), O Kākutstha, do I behold you arrived here; and I have heard of this causeless banishment of yours (_vivāsanam akāraṇam_).
 </details>
 </details>
 
@@ -1130,7 +1130,7 @@ stay here comfortably."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This secluded place (avakāśo vivikto ’yam) at the confluence of the two great rivers (mahā-nadyoḥ samāgame) is both sacred and delightful; let your honor dwell here in happiness (vasatv iha bhavān sukham).”
+“This secluded place (_avakāśo vivikto ’yam_) at the confluence of the two great rivers (_mahā-nadyoḥ samāgame_) is both sacred and delightful; let your honor dwell here in happiness (_vasatv iha bhavān sukham_).”
 </details>
 </details>
 
@@ -1183,7 +1183,7 @@ interested in the welfare of all, replied in the following pleasant words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Bharadvāja, Rāghava—Rāma, ever devoted to the welfare of all beings (sarva-hite rataḥ)—replied with an auspicious speech:
+Thus addressed by Bharadvāja, Rāghava—Rāma, ever devoted to the welfare of all beings (_sarva-hite rataḥ_)—replied with an auspicious speech:
 </details>
 </details>
 
@@ -1253,9 +1253,9 @@ make their appearance at this hermitage. For this reason, I do not wish to stay 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “O blessed one, the people of the city and the countryside (paura-jānapado janaḥ) are close to this place (ita āsannaḥ); perceiving me to be easily accessible here (sudarśam iha māṃ prekṣya), I think they will throng to this hermitage.
+**24:** “O blessed one, the people of the city and the countryside (_paura-jānapado janaḥ_) are close to this place (_ita āsannaḥ_); perceiving me to be easily accessible here (_sudarśam iha māṃ prekṣya_), I think they will throng to this hermitage.
 
-**25:** “People eager to see Vaidehī and me (prekṣako janaḥ) will come here; for this reason I do not favor dwelling in this place (iha vāsaṃ na rocaye).
+**25:** “People eager to see Vaidehī and me (_prekṣako janaḥ_) will come here; for this reason I do not favor dwelling in this place (_iha vāsaṃ na rocaye_).
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ delight in it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Look out in a secluded quarter (ekānte paśya), O blessed one, for an excellent hermitage site (āśrama-sthānam uttamam) where Vaidehī, the daughter of Janaka who deserves every comfort (sukhārhā), may find delight.”
+“Look out in a secluded quarter (_ekānte paśya_), O blessed one, for an excellent hermitage site (_āśrama-sthānam uttamam_) where Vaidehī, the daughter of Janaka who deserves every comfort (_sukhārhā_), may find delight.”
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ concet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this auspicious speech, the great sage Bharadvāja then spoke to Rāghava a reply that grasped his true purpose (vākyam artha-grāhakam):
+Hearing this auspicious speech, the great sage Bharadvāja then spoke to Rāghava a reply that grasped his true purpose (_vākyam artha-grāhakam_):
 </details>
 </details>
 
@@ -1405,7 +1405,7 @@ Hearing this auspicious speech, the great sage Bharadvāja then spoke to Rāghav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ten krośas from here (daśa-krośa itaḥ), my dear son, lies a mountain where you shall dwell—frequented by great sages (maharṣi-sevitaḥ), sacred, and pleasant to behold on every side (sarvataḥ sukha-darśanaḥ).
+“Ten _krośas_ from here (_daśa-krośa itaḥ_), my dear son, lies a mountain where you shall dwell—frequented by great sages (_maharṣi-sevitaḥ_), sacred, and pleasant to behold on every side (_sarvataḥ sukha-darśanaḥ_).
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ fairly concet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Roaming with black-faced golāṅgūla langurs (golāṅgūlānucaritaḥ) and frequented by monkeys and bears, it is renowned as Citrakūṭa and resembles Mount Gandhamādana (gandhamādana-sannibhaḥ).
+“Roaming with black-faced _golāṅgūla_ langurs (_golāṅgūlānucaritaḥ_) and frequented by monkeys and bears, it is renowned as Citrakūṭa and resembles Mount Gandhamādana (_gandhamādana-sannibhaḥ_).
 </details>
 </details>
 
@@ -1519,7 +1519,7 @@ virtuous deeds and will never set his mind on a sin."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So long as a man beholds the peaks of Citrakūṭa (citra-kūṭasya śṛṅgāṇy avekṣate), he sets his heart upon auspicious deeds (kalyāṇāni samādhatte) and never turns his mind toward sin (na pāpe kurute manaḥ).
+“So long as a man beholds the peaks of Citrakūṭa (_citra-kūṭasya śṛṅgāṇy avekṣate_), he sets his heart upon auspicious deeds (_kalyāṇāni samādhatte_) and never turns his mind toward sin (_na pāpe kurute manaḥ_).
 </details>
 </details>
 
@@ -1585,7 +1585,7 @@ emancipation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many sages, having sported there in austerity for a hundred autumns (vihṛtya śaradāṃ śatam), ascended to heaven through their penance along with Kapālaśiras (kapāla-śirasā saha).
+“Many sages, having sported there in austerity for a hundred autumns (_vihṛtya śaradāṃ śatam_), ascended to heaven through their penance along with Kapālaśiras (_kapāla-śirasā saha_).
 </details>
 </details>
 
@@ -1638,7 +1638,7 @@ in. Orelse stay with m here itself, during the period of your exile, Oh Rama!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I deem that deeply secluded place (praviviktam) a happy abode for your honor; or else, O Rāma, dwell right here with me (iha vā vasa mayā saha) for the duration of your forest exile.”
+“I deem that deeply secluded place (_praviviktam_) a happy abode for your honor; or else, O Rāma, dwell right here with me (_iha vā vasa mayā saha_) for the duration of your forest exile.”
 </details>
 </details>
 
@@ -1690,7 +1690,7 @@ and who was accompanied by his consort, Seetha and his brother, Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the law of righteousness, that Bharadvāja hospitably received (pratijagrāha) Rāma, his beloved guest (priyātithim), together with his consort and his brother, fulfilling all his desires (sarva-kāmaiḥ).
+Knowing the law of righteousness, that Bharadvāja hospitably received (_pratijagrāha_) Rāma, his beloved guest (_priyātithim_), together with his consort and his brother, fulfilling all his desires (_sarva-kāmaiḥ_).
 </details>
 </details>
 
@@ -1743,7 +1743,7 @@ Yamuna), was discoursing on various topics, the auspicious night arrived.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāma, having approached that great sage at Prayāga, was recounting varied and auspicious discourses (puṇyāś citrāḥ kathayataḥ kathāḥ), the night drew on (prapannā rajanī).
+As Rāma, having approached that great sage at Prayāga, was recounting varied and auspicious discourses (_puṇyāś citrāḥ kathayataḥ kathāḥ_), the night drew on (_prapannā rajanī_).
 </details>
 </details>
 
@@ -1797,7 +1797,7 @@ lovely hermitage of Bharadwaja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With Sītā as the third of their company (sītā-tṛtīyaḥ), Kākutstha—though accustomed to every comfort and weary from the journey (pariśrāntaḥ sukhocitaḥ)—passed that night happily in the delightful hermitage of Bharadvāja.
+With Sītā as the third of their company (_sītā-tṛtīyaḥ_), Kākutstha—though accustomed to every comfort and weary from the journey (_pariśrāntaḥ sukhocitaḥ_)—passed that night happily in the delightful hermitage of Bharadvāja.
 </details>
 </details>
 
@@ -1857,7 +1857,7 @@ Bharadwaja, who was gleaming with resplendence and spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night had dawned into daybreak (prabhātāyāṃ rajanyāṃ tu), that tiger among men (nara-śārdūlaḥ) approached Bharadvāja and spoke to the sage of blazing splendor (jvalita-tejasam):
+When the night had dawned into daybreak (_prabhātāyāṃ rajanyāṃ tu_), that tiger among men (_nara-śārdūlaḥ_) approached Bharadvāja and spoke to the sage of blazing splendor (_jvalita-tejasam_):
 </details>
 </details>
 
@@ -1910,7 +1910,7 @@ permission for fixing our residence now, Oh sage practicing truthfulness !"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O blessed one of truthful conduct (satya-śīla), we have passed the night today in your hermitage (śarvarīṃ tavāśrame uṣitāḥ sma); may your honor now grant us leave to proceed to our abode (vasatim anujānātu no bhavān).”
+“O blessed one of truthful conduct (_satya-śīla_), we have passed the night today in your hermitage (_śarvarīṃ tavāśrame uṣitāḥ sma_); may your honor now grant us leave to proceed to our abode (_vasatim anujānātu no bhavān_).”
 </details>
 </details>
 
@@ -1969,7 +1969,7 @@ That night having come to an end, Bharadwaja replied for his part, as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night had dawned (rātryāṃ tu tasyāṃ vyuṣṭāyām), Bharadvāja spoke this word: “Go forth to Citrakūṭa (citrakūṭaṃ vrajeti ha), which abounds in honey, roots, and fruits (madhu-mūla-phalopetam).
+When that night had dawned (_rātryāṃ tu tasyāṃ vyuṣṭāyām_), Bharadvāja spoke this word: “Go forth to Citrakūṭa (_citrakūṭaṃ vrajeti ha_), which abounds in honey, roots, and fruits (_madhu-mūla-phalopetam_).
 </details>
 </details>
 
@@ -2042,9 +2042,9 @@ bountiful with tubers and fruits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** “I deem that a fitting abode for you (vāsam aupayikaṃ manye), O Rāma of mighty strength; for it is endowed with clusters of varied trees (nānā-naga-gaṇopetaḥ) and frequented by kinnaras and uraga serpents.
+**39:** “I deem that a fitting abode for you (_vāsam aupayikaṃ manye_), O Rāma of mighty strength; for it is endowed with clusters of varied trees (_nānā-naga-gaṇopetaḥ_) and frequented by _kinnaras_ and _uraga_ serpents.
 
-**40:** “Resounding with the cries of peacocks (mayūra-nādābhirutaḥ) and frequented by lordly elephants (gaja-rāja-niṣevitaḥ), let that renowned Mount Citrakūṭa be visited by your honor—sacred, delightful, and abounding in roots and fruits (bahu-mūla-phalāyutaḥ).
+**40:** “Resounding with the cries of peacocks (_mayūra-nādābhirutaḥ_) and frequented by lordly elephants (_gaja-rāja-niṣevitaḥ_), let that renowned Mount Citrakūṭa be visited by your honor—sacred, delightful, and abounding in roots and fruits (_bahu-mūla-phalāyutaḥ_).
 </details>
 </details>
 
@@ -2119,9 +2119,9 @@ peaks of mountains, fissures in rocks, caves and rivulets."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** “There herds of elephants and herds of deer (kuñjara-yūthāni mṛga-yūthāni ca) roam on all sides within the forest skirts; you shall behold them, O Rāghava.
+**41:** “There herds of elephants and herds of deer (_kuñjara-yūthāni mṛga-yūthāni ca_) roam on all sides within the forest skirts; you shall behold them, O Rāghava.
 
-**42:** “As you wander together with Sītā (carataḥ sītayā sārdham) among the rivers, trickling cascades, tablelands, rock-clefts, caverns, and mountain torrents (sarit-prasravaṇa-prasthān darī-kandara-nirjharān), your heart shall rejoice (nandiṣyati manas tava).
+**42:** “As you wander together with Sītā (_carataḥ sītayā sārdham_) among the rivers, trickling cascades, tablelands, rock-clefts, caverns, and mountain torrents (_sarit-prasravaṇa-prasthān darī-kandara-nirjharān_), your heart shall rejoice (_nandiṣyati manas tava_).
 </details>
 </details>
 
@@ -2198,6 +2198,6 @@ many kinds of deer and elephants in rut, settle down there in a hermitage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having reached that auspicious and most delightful mountain (vasudhā-dharaṃ śivam)—made resonant with the cries of joyful lapwings and cuckoos (prahṛṣṭa-koyaṣṭika-kokila-svanair vināditam) and frequented by exhilarated deer and many elephants—take up your abode in that hermitage (samāvasāśramam).”
+“Having reached that auspicious and most delightful mountain (_vasudhā-dharaṃ śivam_)—made resonant with the cries of joyful lapwings and cuckoos (_prahṛṣṭa-koyaṣṭika-kokila-svanair vināditam_) and frequented by exhilarated deer and many elephants—take up your abode in that hermitage (_samāvasāśramam_).”
 </details>
 </details>

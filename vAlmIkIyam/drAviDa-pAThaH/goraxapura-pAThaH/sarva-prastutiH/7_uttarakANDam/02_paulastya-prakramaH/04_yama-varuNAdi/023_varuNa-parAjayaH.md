@@ -46,7 +46,7 @@ Having triumphed over Yama, Rāvaṇa rejoins and consoles his marveling followe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having vanquished Yama, foremost among the thirty gods (yamaṃ tridaśa-puṅgavam), the ten-necked Rāvaṇa, exulting in battle (raṇa-ślāghī), looked upon his companions (sva-sahāyān dadarśa ha).
+Then, having vanquished Yama, foremost among the thirty gods (_yamaṃ tridaśa-puṅgavam_), the ten-necked Rāvaṇa, exulting in battle (_raṇa-ślāghī_), looked upon his companions (_sva-sahāyān dadarśa ha_).
 </details>
 </details>
 
@@ -77,7 +77,7 @@ Then, having vanquished Yama, foremost among the thirty gods (yamaṃ tridaśa-p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Rāvaṇa with his limbs drenched in blood (rudhira-siktāṅgam) and shattered by blows (prahārair jarjarīkṛtam), the rākṣasas drew near to him as to one exceedingly dear (hy aṣṭavat samupāgaman).
+Seeing Rāvaṇa with his limbs drenched in blood (_rudhira-siktāṅgam_) and shattered by blows (_prahārair jarjarīkṛtam_), the rākṣasas drew near to him as to one exceedingly dear (_hy aṣṭavat samupāgaman_).
 </details>
 </details>
 
@@ -111,7 +111,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Congratulating him upon his victory (jayena vardhayitvā), Mārīca and the other foremost rākṣasas (mārīca-pramukhāḥ), comforted by Rāvaṇa (sāntvitā rāvaṇena), all boarded the aerial car Puṣpaka (puṣpakaṃ bhejire).
+Congratulating him upon his victory (_jayena vardhayitvā_), Mārīca and the other foremost rākṣasas (_mārīca-pramukhāḥ_), comforted by Rāvaṇa (_sāntvitā rāvaṇena_), all boarded the aerial car Puṣpaka (_puṣpakaṃ bhejire_).
 </details>
 </details>
 
@@ -142,7 +142,7 @@ Congratulating him upon his victory (jayena vardhayitvā), Mārīca and the othe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, journeying toward Rasātala (rasātalaṃ gacchan), he entered the ocean, the storehouse of waters (payasāṃ nidhim), inhabited by hosts of Daityas and serpents (daityoraga-gaṇādhyuṣṭam) and well guarded by Varuṇa (varuṇena surakṣitam).
+Then, journeying toward Rasātala (_rasātalaṃ gacchan_), he entered the ocean, the storehouse of waters (_payasāṃ nidhim_), inhabited by hosts of Daityas and serpents (_daityoraga-gaṇādhyuṣṭam_) and well guarded by Varuṇa (_varuṇena surakṣitam_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ Then, journeying toward Rasātala (rasātalaṃ gacchan), he entered the ocean, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding to the city of Bhogavatī, ruled by Vāsuki (bhogavatīṃ ... purīṃ vāsuki-pālitām), and bringing the Nāgas under his sway (kṛtvā nāgān vaśe), he went joyfully onward to the jeweled city of Maṇimayī (yayau maṇimayīṃ purīm).
+Proceeding to the city of Bhogavatī, ruled by Vāsuki (_bhogavatīṃ ... purīṃ vāsuki-pālitām_), and bringing the Nāgas under his sway (_kṛtvā nāgān vaśe_), he went joyfully onward to the jeweled city of Maṇimayī (_yayau maṇimayīṃ purīm_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There dwelt the boon-endowed Daityas known as the Nivātakavacas (nivātakavacās tatra daityā labdha-varā vasan); approaching those beings, the rākṣasa challenged them to combat (yuddhāya samupāhvayat).
+There dwelt the boon-endowed Daityas known as the Nivātakavacas (_nivātakavacās tatra daityā labdha-varā vasan_); approaching those beings, the rākṣasa challenged them to combat (_yuddhāya samupāhvayat_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ Rāvaṇa and the mighty Nivātakavacas clash with varied weapons for over a ful
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those exceedingly valiant and powerful sons of Diti (suvikrāntā daiteyā bala-śālinaḥ), armed with manifold weapons (nānā-praharaṇāḥ), stood there jubilant and intoxicated with battle (prahṛṣṭā yuddha-durmadāḥ).
+Those exceedingly valiant and powerful sons of Diti (_suvikrāntā daiteyā bala-śālinaḥ_), armed with manifold weapons (_nānā-praharaṇāḥ_), stood there jubilant and intoxicated with battle (_prahṛṣṭā yuddha-durmadāḥ_).
 </details>
 </details>
 
@@ -277,7 +277,7 @@ Those exceedingly valiant and powerful sons of Diti (suvikrāntā daiteyā bala-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With lances, tridents, thunderbolts, sharp-edged spears, swords, and battle-axes (śūlais triśūlaiḥ kuliśaiḥ paṭṭiśāsi-paraśvadhaiḥ), the enraged rākṣasas and Dānavas pierced one another (anyonyaṃ bibhiduḥ kruddhāḥ).
+With lances, tridents, thunderbolts, sharp-edged spears, swords, and battle-axes (_śūlais triśūlaiḥ kuliśaiḥ paṭṭiśāsi-paraśvadhaiḥ_), the enraged rākṣasas and Dānavas pierced one another (_anyonyaṃ bibhiduḥ kruddhāḥ_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they fought on (teṣāṃ tu yudhyamānānām), more than a full year elapsed (sāgraḥ saṃvatsaro gataḥ), yet neither side achieved victory nor suffered ruin there (na cānyatarayos tatra vijayo vā kṣayo ’pi vā).
+As they fought on (_teṣāṃ tu yudhyamānānām_), more than a full year elapsed (_sāgraḥ saṃvatsaro gataḥ_), yet neither side achieved victory nor suffered ruin there (_na cānyatarayos tatra vijayo vā kṣayo ’pi vā_).
 </details>
 </details>
 
@@ -342,7 +342,7 @@ As they fought on (teṣāṃ tu yudhyamānānām), more than a full year elapse
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Grandfather Brahmā, the imperishable refuge of the three worlds (pitāmahas ... trailokya-gatir avyayaḥ), swiftly arrived at that spot (ājagāma drutam), seated upon his supreme aerial chariot (vimāna-varam āsthitaḥ).
+Thereupon Grandfather Brahmā, the imperishable refuge of the three worlds (_pitāmahas ... trailokya-gatir avyayaḥ_), swiftly arrived at that spot (_ājagāma drutam_), seated upon his supreme aerial chariot (_vimāna-varam āsthitaḥ_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ Thereupon Grandfather Brahmā, the imperishable refuge of the three worlds (pit�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Halting that martial combat of the Nivātakavacas (nivātakavacānāṃ tu nivārya raṇa-karma tat), the ancient Grandfather spoke words laden with clear and certain meaning (vākyam uvāca viditārthavat):
+Halting that martial combat of the Nivātakavacas (_nivātakavacānāṃ tu nivārya raṇa-karma tat_), the ancient Grandfather spoke words laden with clear and certain meaning (_vākyam uvāca viditārthavat_):
 </details>
 </details>
 
@@ -404,7 +404,7 @@ Halting that martial combat of the Nivātakavacas (nivātakavacānāṃ tu nivā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly this Rāvaṇa cannot be conquered in battle by gods or Asuras (na hy ayaṃ rāvaṇo yuddhe śakyo jetuṃ surāsuraiḥ), nor can you be brought to destruction even by all the immortals and Dānavas together (na bhavantaḥ kṣayaṃ netum api sāmaradānavaiḥ)!
+“Truly this Rāvaṇa cannot be conquered in battle by gods or Asuras (_na hy ayaṃ rāvaṇo yuddhe śakyo jetuṃ surāsuraiḥ_), nor can you be brought to destruction even by all the immortals and Dānavas together (_na bhavantaḥ kṣayaṃ netum api sāmaradānavaiḥ_)!
 </details>
 </details>
 
@@ -443,7 +443,7 @@ At Brahmā’s counsel, Rāvaṇa seals a fire-witnessed alliance with the Nivā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, friendship between this rākṣasa and yourselves pleases me (rākṣasasya sakhitvaṃ ca bhavadbhiḥ saha rocate); and among friends all possessions are held undivided (avibhaktāś ca sarvārthāḥ suhṛdām)—of this there is no doubt!”
+“Therefore, friendship between this rākṣasa and yourselves pleases me (_rākṣasasya sakhitvaṃ ca bhavadbhiḥ saha rocate_); and among friends all possessions are held undivided (_avibhaktāś ca sarvārthāḥ suhṛdām_)—of this there is no doubt!”
 </details>
 </details>
 
@@ -474,7 +474,7 @@ At Brahmā’s counsel, Rāvaṇa seals a fire-witnessed alliance with the Nivā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāvaṇa forged a friendship with Agni as witness (agnisākṣikaṃ sakhyaṃ kṛtavān) together with the Nivātakavacas (nivātakavacaiḥ sārdham), and became filled with affection at that time (prītimān abhavat tadā).
+Thereupon Rāvaṇa forged a friendship with Agni as witness (_agnisākṣikaṃ sakhyaṃ kṛtavān_) together with the Nivātakavacas (_nivātakavacaiḥ sārdham_), and became filled with affection at that time (_prītimān abhavat tadā_).
 </details>
 </details>
 
@@ -505,7 +505,7 @@ Thereupon Rāvaṇa forged a friendship with Agni as witness (agnisākṣikaṃ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duly honored with wealth and hospitality by them according to custom (arthatas tair yathānyāyam), Ten-Face dwelt there for a full year (saṃvatsaram athoṣitaḥ), receiving kindness no different from his own capital (sva-purān nirviśeṣaṃ ca priyam).
+Duly honored with wealth and hospitality by them according to custom (_arthatas tair yathānyāyam_), Ten-Face dwelt there for a full year (_saṃvatsaram athoṣitaḥ_), receiving kindness no different from his own capital (_sva-purān nirviśeṣaṃ ca priyam_).
 </details>
 </details>
 
@@ -536,7 +536,7 @@ Duly honored with wealth and hospitality by them according to custom (arthatas t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having mastered and acquired one hundred of their illusions (upadhārya māyānāṃ śatam ekaṃ samāptavān), he roamed through Rasātala in search of the city of the Lord of Waters (salilendra-purānveṣī bhramati sma rasātalam).
+Then, having mastered and acquired one hundred of their illusions (_upadhārya māyānāṃ śatam ekaṃ samāptavān_), he roamed through Rasātala in search of the city of the Lord of Waters (_salilendra-purānveṣī bhramati sma rasātalam_).
 </details>
 </details>
 
@@ -573,9 +573,9 @@ Then, having mastered and acquired one hundred of their illusions (upadhārya m�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Next, proceeding to the city named Aśmanagara, held by the Kālakeyas (aśmanagaraṃ nāma kālakeyair adhiṣṭhitam), he slew the fiercely mighty Kālakeyas there (hatvā tatra balotkaṭān),
+**17:** Next, proceeding to the city named Aśmanagara, held by the Kālakeyas (_aśmanagaraṃ nāma kālakeyair adhiṣṭhitam_), he slew the fiercely mighty Kālakeyas there (_hatvā tatra balotkaṭān_),
 
-**18:** And with his sword he cut down Śūrpaṇakhā’s husband (śūrpaṇakhyāś ca bhartāram asinā prācchinat)—his own powerful, exceedingly mighty brother-in-law Vidyujjihva (śyālaṃ ca balavantaṃ ca vidyujjihvaṃ balotkaṭam)—
+**18:** And with his sword he cut down Śūrpaṇakhā’s husband (_śūrpaṇakhyāś ca bhartāram asinā prācchinat_)—his own powerful, exceedingly mighty brother-in-law Vidyujjihva (_śyālaṃ ca balavantaṃ ca vidyujjihvaṃ balotkaṭam_)—
 </details>
 </details>
 
@@ -616,9 +616,9 @@ After cutting down Vidyujjihva and four hundred Daityas in an instant, Rāvaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** —even as he licked up rākṣasas with his tongue in battle (jihvayā saṃlihantaṃ ca rākṣasaṃ samare); vanquishing him in a single moment (taṃ vijitya muhūrtena), he slew four hundred Daityas (jaghne daityāṃś catuḥśatam).
+**19:** —even as he licked up rākṣasas with his tongue in battle (_jihvayā saṃlihantaṃ ca rākṣasaṃ samare_); vanquishing him in a single moment (_taṃ vijitya muhūrtena_), he slew four hundred Daityas (_jaghne daityāṃś catuḥśatam_).
 
-**20:** Thereafter the lord of rākṣasas beheld the divine abode of Varuṇa (varuṇasyālayaṃ divyam), lustrous as pale-white clouds (pāṇḍura-meghābham) and radiant like Mount Kailāsa (kailāsam iva bhāsvaram).
+**20:** Thereafter the lord of rākṣasas beheld the divine abode of Varuṇa (_varuṇasyālayaṃ divyam_), lustrous as pale-white clouds (_pāṇḍura-meghābham_) and radiant like Mount Kailāsa (_kailāsam iva bhāsvaram_).
 </details>
 </details>
 
@@ -649,7 +649,7 @@ After cutting down Vidyujjihva and four hundred Daityas in an instant, Rāvaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there he saw stationed the cow Surabhi, pouring forth milk (kṣarantīṃ ca payas tatra surabhiṃ gām avasthitām), from the streaming flow of whose milk arose the ocean named Kṣīroda, the Sea of Milk (yasyāḥ payobhiniṣyandāt kṣīrodo nāma sāgaraḥ).
+And there he saw stationed the cow Surabhi, pouring forth milk (_kṣarantīṃ ca payas tatra surabhiṃ gām avasthitām_), from the streaming flow of whose milk arose the ocean named Kṣīroda, the Sea of Milk (_yasyāḥ payobhiniṣyandāt kṣīrodo nāma sāgaraḥ_).
 </details>
 </details>
 
@@ -680,7 +680,7 @@ And there he saw stationed the cow Surabhi, pouring forth milk (kṣarantīṃ c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa beheld there that supreme fire-stick—the very mother—of the lord of bulls (govṛṣendra-varāraṇim), [and that Sea of Milk] from which springs the cool-rayed moon, maker of night (yasmāc candraḥ prabhavati śīta-raśmir niśākaraḥ),
+Rāvaṇa beheld there that supreme fire-stick—the very mother—of the lord of bulls (_govṛṣendra-varāraṇim_), [and that Sea of Milk] from which springs the cool-rayed moon, maker of night (_yasmāc candraḥ prabhavati śīta-raśmir niśākaraḥ_),
 </details>
 </details>
 
@@ -711,7 +711,7 @@ Rāvaṇa beheld there that supreme fire-stick—the very mother—of the lord o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Depending upon which subsist the supreme foam-drinking sages (yaṃ samāśritya jīvanti phenapāḥ paramarṣayaḥ), and wherein arose both nectar (amṛtam) and the svadhā-offering of the svadhā-eating ancestors (svadhā ca svadha-bhojinām)—
+Depending upon which subsist the supreme foam-drinking sages (_yaṃ samāśritya jīvanti phenapāḥ paramarṣayaḥ_), and wherein arose both nectar (_amṛtam_) and the _svadhā_-offering of the _svadhā_-eating ancestors (_svadhā ca svadha-bhojinām_)—
 </details>
 </details>
 
@@ -744,7 +744,7 @@ Depending upon which subsist the supreme foam-drinking sages (yaṃ samāśritya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She whom men in the world call by name Surabhi (yāṃ bruvanti narā loke surabhiṃ nāma nāmataḥ); having reverently circumambulated that most wondrous cow (pradakṣiṇaṃ tu tāṃ kṛtvā ... paramādbhutām), Rāvaṇa—
+She whom men in the world call by name Surabhi (_yāṃ bruvanti narā loke surabhiṃ nāma nāmataḥ_); having reverently circumambulated that most wondrous cow (_pradakṣiṇaṃ tu tāṃ kṛtvā ... paramādbhutām_), Rāvaṇa—
 </details>
 </details>
 
@@ -783,7 +783,7 @@ Entering Varuṇa’s cloud-white, cascade-ringed citadel, Rāvaṇa slaughters 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—entered that dread abode, guarded by manifold forces (praviveśa mahāghoraṃ guptaṃ bahuvidhair balaiḥ); thereupon he beheld Varuṇa’s supreme mansion (dadṛśe varuṇasya gṛhottamam), brimming with hundreds of water-cascades (dhārā-śatākīrṇam), gleaming like an autumn cloud (śāradābhra-nibham), and ever filled with joy (nitya-prahṛṣṭam).
+—entered that dread abode, guarded by manifold forces (_praviveśa mahāghoraṃ guptaṃ bahuvidhair balaiḥ_); thereupon he beheld Varuṇa’s supreme mansion (_dadṛśe varuṇasya gṛhottamam_), brimming with hundreds of water-cascades (_dhārā-śatākīrṇam_), gleaming like an autumn cloud (_śāradābhra-nibham_), and ever filled with joy (_nitya-prahṛṣṭam_).
 </details>
 </details>
 
@@ -814,7 +814,7 @@ Entering Varuṇa’s cloud-white, cascade-ringed citadel, Rāvaṇa slaughters 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, though struck by them in combat, he slew the army commanders (hatvā balādhyakṣān samare taiś ca tāḍitaḥ), and thereupon said to the warriors (abravīc ca tato yodhān): “Let your king be swiftly informed (rājā śīghraṃ nivedyatām)!
+Then, though struck by them in combat, he slew the army commanders (_hatvā balādhyakṣān samare taiś ca tāḍitaḥ_), and thereupon said to the warriors (_abravīc ca tato yodhān_): “Let your king be swiftly informed (_rājā śīghraṃ nivedyatām_)!
 </details>
 </details>
 
@@ -845,7 +845,7 @@ Then, though struck by them in combat, he slew the army commanders (hatvā balā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Say: ‘Rāvaṇa has arrived seeking battle (yuddhārthī rāvaṇaḥ prāptaḥ)—let combat be granted to him (tasya yuddhaṃ pradīyatām), or else declare with joined palms (sāñjaliḥ), “I am vanquished (nirjito ’smi),” and you shall have no fear (na bhayaṃ te ’sti)!’”
+“Say: ‘Rāvaṇa has arrived seeking battle (_yuddhārthī rāvaṇaḥ prāptaḥ_)—let combat be granted to him (_tasya yuddhaṃ pradīyatām_), or else declare with joined palms (_sāñjaliḥ_), “I am vanquished (_nirjito ’smi_),” and you shall have no fear (_na bhayaṃ te ’sti_)!’”
 </details>
 </details>
 
@@ -879,7 +879,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime, the enraged sons and grandsons of high-souled Varuṇa sallied forth (kruddhā varuṇasya mahātmanaḥ putrāḥ pautrāś ca niṣkrāman), along with Gau and Puṣkara as well (gauś ca puṣkara eva ca).
+In the meantime, the enraged sons and grandsons of high-souled Varuṇa sallied forth (_kruddhā varuṇasya mahātmanaḥ putrāḥ pautrāś ca niṣkrāman_), along with Gau and Puṣkara as well (_gauś ca puṣkara eva ca_).
 </details>
 </details>
 
@@ -910,7 +910,7 @@ In the meantime, the enraged sons and grandsons of high-souled Varuṇa sallied 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with valorous virtues (vīrya-guṇopetāḥ) and surrounded by their own hosts (balaiḥ parivṛtāḥ svakaiḥ), they yoked their wish-going chariots (yuṅktvā rathān kāmagamān), radiant as the rising sun (udyad-bhāsvara-varcasaḥ).
+Endowed with valorous virtues (_vīrya-guṇopetāḥ_) and surrounded by their own hosts (_balaiḥ parivṛtāḥ svakaiḥ_), they yoked their wish-going chariots (_yuṅktvā rathān kāmagamān_), radiant as the rising sun (_udyad-bhāsvara-varcasaḥ_).
 </details>
 </details>
 
@@ -941,7 +941,7 @@ Endowed with valorous virtues (vīrya-guṇopetāḥ) and surrounded by their ow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon a dreadful, hair-raising battle broke out (yuddhaṃ samabhavad dāruṇaṃ romaharṣaṇam) between the sons of the Lord of Waters (salilendrasya putrāṇām) and the sagacious Rāvaṇa (rāvaṇasya ca dhīmataḥ).
+Thereupon a dreadful, hair-raising battle broke out (_yuddhaṃ samabhavad dāruṇaṃ romaharṣaṇam_) between the sons of the Lord of Waters (_salilendrasya putrāṇām_) and the sagacious Rāvaṇa (_rāvaṇasya ca dhīmataḥ_).
 </details>
 </details>
 
@@ -980,7 +980,7 @@ When Rāvaṇa’s airborne ministers scatter Varuṇa’s army, Varuṇa’s so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the exceedingly valorous ministers of the ten-necked rākṣasa (amātyaiś ca mahāvīryair daśagrīvasya rakṣasaḥ), that entire army of Varuṇa was struck down in an instant (vāruṇaṃ tad balaṃ kṛtsnaṃ kṣaṇena vinipātitam).
+By the exceedingly valorous ministers of the ten-necked rākṣasa (_amātyaiś ca mahāvīryair daśagrīvasya rakṣasaḥ_), that entire army of Varuṇa was struck down in an instant (_vāruṇaṃ tad balaṃ kṛtsnaṃ kṣaṇena vinipātitam_).
 </details>
 </details>
 
@@ -1014,7 +1014,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing their own army thus afflicted in battle (samīkṣya sva-balaṃ saṅkhye), the sons of Varuṇa, tormented by a net of arrows (arditāḥ śara-jālena), drew back from the ground engagement (nivṛttā raṇa-karmaṇaḥ).
+Seeing their own army thus afflicted in battle (_samīkṣya sva-balaṃ saṅkhye_), the sons of Varuṇa, tormented by a net of arrows (_arditāḥ śara-jālena_), drew back from the ground engagement (_nivṛttā raṇa-karmaṇaḥ_).
 </details>
 </details>
 
@@ -1045,7 +1045,7 @@ Seeing their own army thus afflicted in battle (samīkṣya sva-balaṃ saṅkhy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing upon the earth and beholding Rāvaṇa aloft in Puṣpaka (mahītala-gatās te tu rāvaṇaṃ dṛśya puṣpake), they swiftly ascended into the sky in their speedy chariots (ākāśam āśu viviśuḥ syandanaiḥ śīghra-gāmibhiḥ).
+Standing upon the earth and beholding Rāvaṇa aloft in Puṣpaka (_mahītala-gatās te tu rāvaṇaṃ dṛśya puṣpake_), they swiftly ascended into the sky in their speedy chariots (_ākāśam āśu viviśuḥ syandanaiḥ śīghra-gāmibhiḥ_).
 </details>
 </details>
 
@@ -1079,7 +1079,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached that equal vantage ground (tulyaṃ sthānam avāpya tat), a mighty, tumultuous aerial battle ensued between them (mahad āsīt ... ākāśa-yuddhaṃ tumulam), like that between gods and Dānavas (deva-dānavayor iva).
+Having reached that equal vantage ground (_tulyaṃ sthānam avāpya tat_), a mighty, tumultuous aerial battle ensued between them (_mahad āsīt ... ākāśa-yuddhaṃ tumulam_), like that between gods and Dānavas (_deva-dānavayor iva_).
 </details>
 </details>
 
@@ -1113,7 +1113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, turning Rāvaṇa back in combat with shafts resembling fire (rāvaṇaṃ yuddhe śaraiḥ pāvaka-sannibhaiḥ vimukhīkṛtya), those jubilant warriors raised manifold triumphant roars (santuṣṭā vinedur vividhān ravān).
+Then, turning Rāvaṇa back in combat with shafts resembling fire (_rāvaṇaṃ yuddhe śaraiḥ pāvaka-sannibhaiḥ vimukhīkṛtya_), those jubilant warriors raised manifold triumphant roars (_santuṣṭā vinedur vividhān ravān_).
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ Then, turning Rāvaṇa back in combat with shafts resembling fire (rāvaṇaṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Mahodara, enraged on beholding his king assailed (kruddho rājānaṃ dṛśya dharṣitam), casting aside all fear of death (tyaktvā mṛtyu-bhayam), looked eagerly around for combat (yuddha-kāṅkṣī vyalokayat).
+Thereupon Mahodara, enraged on beholding his king assailed (_kruddho rājānaṃ dṛśya dharṣitam_), casting aside all fear of death (_tyaktvā mṛtyu-bhayam_), looked eagerly around for combat (_yuddha-kāṅkṣī vyalokayat_).
 </details>
 </details>
 
@@ -1183,7 +1183,7 @@ Mahodara smashes the swift steeds and chariots of Varuṇa’s sons with his mac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck in battle by that Mahodara with his mace (mahodareṇa gadayā hatā vai), those fierce, wish-going, wind-swift steeds plunged down to the earth (dāruṇā yuddhe kāmagāḥ pavanopamāḥ ... prayayuḥ kṣitim).
+Struck in battle by that Mahodara with his mace (_mahodareṇa gadayā hatā vai_), those fierce, wish-going, wind-swift steeds plunged down to the earth (_dāruṇā yuddhe kāmagāḥ pavanopamāḥ ... prayayuḥ kṣitim_).
 </details>
 </details>
 
@@ -1214,7 +1214,7 @@ Struck in battle by that Mahodara with his mace (mahodareṇa gadayā hatā vai)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain the warriors and hundreds of steeds of those sons of Varuṇa (varuṇa-putrāṇāṃ hatvā yodhān hayāñ chatān), and seeing them left chariotless where they stood (virathān prekṣya tān sthitān), he swiftly loosed a mighty roar (mumocāśu mahānādam).
+Having slain the warriors and hundreds of steeds of those sons of Varuṇa (_varuṇa-putrāṇāṃ hatvā yodhān hayāñ chatān_), and seeing them left chariotless where they stood (_virathān prekṣya tān sthitān_), he swiftly loosed a mighty roar (_mumocāśu mahānādam_).
 </details>
 </details>
 
@@ -1248,7 +1248,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those chariots of theirs, together with their horses and slain charioteers (rathāḥ sāśvāḥ saha sārathibhir hataiḥ), struck down by Mahodara, fell crashing upon the surface of the earth (patitāḥ pṛthivī-tale).
+Those chariots of theirs, together with their horses and slain charioteers (_rathāḥ sāśvāḥ saha sārathibhir hataiḥ_), struck down by Mahodara, fell crashing upon the surface of the earth (_patitāḥ pṛthivī-tale_).
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ Those chariots of theirs, together with their horses and slain charioteers (rath
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet abandoning their chariots, those heroic sons of high-souled Varuṇa (tyaktvā rathān putrā varuṇasya mahātmanaḥ) remained poised in the sky through their own power (ākāśe viṣṭhitāḥ śūrāḥ sva-prabhāvāt) and felt no distress (na vivyathuḥ).
+Yet abandoning their chariots, those heroic sons of high-souled Varuṇa (_tyaktvā rathān putrā varuṇasya mahātmanaḥ_) remained poised in the sky through their own power (_ākāśe viṣṭhitāḥ śūrāḥ sva-prabhāvāt_) and felt no distress (_na vivyathuḥ_).
 </details>
 </details>
 
@@ -1310,7 +1310,7 @@ Yet abandoning their chariots, those heroic sons of high-souled Varuṇa (tyaktv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stringing their bows (dhanūṃṣi kṛtvā sajjāni) and piercing Mahodara through and through (vinirbhidya mahodaram), those enraged warriors united and rushed upon Rāvaṇa in battle (rāvaṇaṃ samare kruddhāḥ sahitāḥ samabhidravan).
+Stringing their bows (_dhanūṃṣi kṛtvā sajjāni_) and piercing Mahodara through and through (_vinirbhidya mahodaram_), those enraged warriors united and rushed upon Rāvaṇa in battle (_rāvaṇaṃ samare kruddhāḥ sahitāḥ samabhidravan_).
 </details>
 </details>
 
@@ -1341,7 +1341,7 @@ Stringing their bows (dhanūṃṣi kṛtvā sajjāni) and piercing Mahodara thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged, they rent him with dreadful, thunderbolt-like arrows loosed from their bows (sāyakaiś cāpa-vibhraṣṭair vajra-kalpaiḥ sudāruṇaiḥ dārayanti sma), as storm-clouds pelt a mighty mountain (meghā iva mahāgirim).
+Enraged, they rent him with dreadful, thunderbolt-like arrows loosed from their bows (_sāyakaiś cāpa-vibhraṣṭair vajra-kalpaiḥ sudāruṇaiḥ dārayanti sma_), as storm-clouds pelt a mighty mountain (_meghā iva mahāgirim_).
 </details>
 </details>
 
@@ -1383,7 +1383,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged Ten-Neck, bursting forth like the fire of cosmic dissolution (kālāgnir iva nirgataḥ), struck them in their vital spots (teṣāṃ marmasv atāḍayat) with exceedingly terrible showers of arrows (śara-varṣair mahāghoraiḥ).
+Then the enraged Ten-Neck, bursting forth like the fire of cosmic dissolution (_kālāgnir iva nirgataḥ_), struck them in their vital spots (_teṣāṃ marmasv atāḍayat_) with exceedingly terrible showers of arrows (_śara-varṣair mahāghoraiḥ_).
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ Then the enraged Ten-Neck, bursting forth like the fire of cosmic dissolution (k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, overwhelmed by that very onslaught, those foot-warriors suddenly sank down (tenaiva sahasā sīdanti sma padātayaḥ); then painted maces and hundreds of crescent-headed shafts (musalāni vicitrāṇi tato bhalla-śatāni ca),
+Thereupon, overwhelmed by that very onslaught, those foot-warriors suddenly sank down (_tenaiva sahasā sīdanti sma padātayaḥ_); then painted maces and hundreds of crescent-headed shafts (_musalāni vicitrāṇi tato bhalla-śatāni ca_),
 </details>
 </details>
 
@@ -1449,9 +1449,9 @@ Thereupon, overwhelmed by that very onslaught, those foot-warriors suddenly sank
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**45:** Sharp spears, javelins, spiked śataghnī clubs, and lances as well (paṭṭiśāṃś caiva śaktīś ca śataghnīs tomarāṃs tathā), the unassailable Rāvaṇa rained down, stationed aloft above them (pātayāmāsa durdharṣas teṣām upari viṣṭhitaḥ).
+**45:** Sharp spears, javelins, spiked _śataghnī_ clubs, and lances as well (_paṭṭiśāṃś caiva śaktīś ca śataghnīs tomarāṃs tathā_), the unassailable Rāvaṇa rained down, stationed aloft above them (_pātayāmāsa durdharṣas teṣām upari viṣṭhitaḥ_).
 
-**46:** Shattered and hurled aside, those heroic foot-warriors collapsed (apaviddhās tu te vīrā viniṣpetuḥ padātayaḥ), like sixty-year-old bull elephants sunk into a deep mire (mahāpaṅkam ivāsādya kuñjarāḥ ṣaṣṭihāyanāḥ).
+**46:** Shattered and hurled aside, those heroic foot-warriors collapsed (_apaviddhās tu te vīrā viniṣpetuḥ padātayaḥ_), like sixty-year-old bull elephants sunk into a deep mire (_mahāpaṅkam ivāsādya kuñjarāḥ ṣaṣṭihāyanāḥ_).
 </details>
 </details>
 
@@ -1485,7 +1485,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those exceedingly mighty sons sinking and distraught (sīdamānān sutān dṛṣṭvā vihvalān sumahaujasaḥ), Rāvaṇa roared aloud in exultation like a great raincloud (nanāda rāvaṇo harṣān mahān ambudharo yathā).
+Beholding those exceedingly mighty sons sinking and distraught (_sīdamānān sutān dṛṣṭvā vihvalān sumahaujasaḥ_), Rāvaṇa roared aloud in exultation like a great raincloud (_nanāda rāvaṇo harṣān mahān ambudharo yathā_).
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ Beholding those exceedingly mighty sons sinking and distraught (sīdamānān sut
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, loosing mighty roars (mahānādān muktvā), the rākṣasa struck down Varuṇa’s sons (hanti sma vāruṇān) with showers of varied weapons (nānā-praharaṇopetaiḥ), as a cloud lashes the earth with streaming downpours (dhārāpātair ivāmbudaḥ).
+Then, loosing mighty roars (_mahānādān muktvā_), the rākṣasa struck down Varuṇa’s sons (_hanti sma vāruṇān_) with showers of varied weapons (_nānā-praharaṇopetaiḥ_), as a cloud lashes the earth with streaming downpours (_dhārāpātair ivāmbudaḥ_).
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ When attendants bear Varuṇa’s fallen sons back indoors, Varuṇa’s ministe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon all of them, defeated and fallen upon the surface of the earth (vimukhāḥ sarve patitā dharaṇī-tale), were swiftly carried indoors from the battlefield by their own attendants (raṇāt sva-puruṣaiḥ śīghraṃ gṛhāṇy eva praveśitāḥ); then the rākṣasa spoke to them (tān abravīt tato rakṣaḥ): “Let it be announced to Varuṇa (varuṇāya nivedyatām)!”
+Thereupon all of them, defeated and fallen upon the surface of the earth (_vimukhāḥ sarve patitā dharaṇī-tale_), were swiftly carried indoors from the battlefield by their own attendants (_raṇāt sva-puruṣaiḥ śīghraṃ gṛhāṇy eva praveśitāḥ_); then the rākṣasa spoke to them (_tān abravīt tato rakṣaḥ_): “Let it be announced to Varuṇa (_varuṇāya nivedyatām_)!”
 </details>
 </details>
 
@@ -1586,7 +1586,7 @@ Thereupon all of them, defeated and fallen upon the surface of the earth (vimukh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Rāvaṇa, however, Varuṇa’s minister named Prahasta replied (rāvaṇaṃ tv abravīn mantrī prahasto nāma vāruṇaḥ): “Truly the great king, the Lord of Waters, has gone to Brahmaloka (gataḥ khalu mahārājo brahmalokaṃ jaleśvaraḥ)—
+To Rāvaṇa, however, Varuṇa’s minister named Prahasta replied (_rāvaṇaṃ tv abravīn mantrī prahasto nāma vāruṇaḥ_): “Truly the great king, the Lord of Waters, has gone to Brahmaloka (_gataḥ khalu mahārājo brahmalokaṃ jaleśvaraḥ_)—
 </details>
 </details>
 
@@ -1620,7 +1620,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—Varuṇa, whom you challenge in battle, has gone to listen to Gandharva music (gāndharvaṃ varuṇaḥ śrotuṃ yaṃ tvam āhvayase yudhi); therefore, O hero, what does it avail you to toil in vain now that the king is gone (tat kiṃ tava vṛthā vīra pariśramya gate nṛpe)? As for the heroic princes who were present here, they have been vanquished by you (ye tu sannihitā vīrāḥ kumārās te parājitāḥ)!”
+“—Varuṇa, whom you challenge in battle, has gone to listen to Gandharva music (_gāndharvaṃ varuṇaḥ śrotuṃ yaṃ tvam āhvayase yudhi_); therefore, O hero, what does it avail you to toil in vain now that the king is gone (_tat kiṃ tava vṛthā vīra pariśramya gate nṛpe_)? As for the heroic princes who were present here, they have been vanquished by you (_ye tu sannihitā vīrāḥ kumārās te parājitāḥ_)!”
 </details>
 </details>
 
@@ -1654,7 +1654,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words, the lord of rākṣasas proclaimed his own name aloud (tac chrutvā nāma viśrāvya cātmanaḥ), and loosing a roar of exultation (harṣān nādaṃ vimuñcan vai), departed from Varuṇa’s abode (niṣkrānto varuṇālayāt).
+Hearing those words, the lord of rākṣasas proclaimed his own name aloud (_tac chrutvā nāma viśrāvya cātmanaḥ_), and loosing a roar of exultation (_harṣān nādaṃ vimuñcan vai_), departed from Varuṇa’s abode (_niṣkrānto varuṇālayāt_).
 </details>
 </details>
 
@@ -1685,7 +1685,7 @@ Hearing those words, the lord of rākṣasas proclaimed his own name aloud (tac 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Returning by the very path along which he had come (āgatas tu pathā yena tenaiva vinivṛtya saḥ), that rākṣasa ascended into the expanse of the sky and set out facing Laṅkā (laṅkām abhimukho rakṣo nabhastala-gato yayau).
+Returning by the very path along which he had come (_āgatas tu pathā yena tenaiva vinivṛtya saḥ_), that rākṣasa ascended into the expanse of the sky and set out facing Laṅkā (_laṅkām abhimukho rakṣo nabhastala-gato yayau_).
 </details>
 </details>
 

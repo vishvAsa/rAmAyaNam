@@ -82,7 +82,7 @@ having encamped on Suvela Mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the spies reported (pratyavedayan) to the overlord of Laṅkā (laṅkādhipataye) that Rāghava, with his unshakeable army (tam akṣobhyabalam), had encamped upon Mount Suvela (suvele śaile niviṣṭam).
+Then the spies reported (_pratyavedayan_) to the overlord of Laṅkā (_laṅkādhipataye_) that Rāghava, with his unshakeable army (_tam akṣobhyabalam_), had encamped upon Mount Suvela (_suvele śaile niviṣṭam_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ became a little perturbed and spoke to Shardula as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing from the spies (cārāṇāṃ śrutvā) that Rāma of mighty strength had arrived (prāptaṃ rāmaṃ mahābalam), Rāvaṇa became somewhat agitated (jātodvego 'bhavat kiṃcit) and spoke these words to Śārdūla:
+Hearing from the spies (_cārāṇāṃ śrutvā_) that Rāma of mighty strength had arrived (_prāptaṃ rāmaṃ mahābalam_), Rāvaṇa became somewhat agitated (_jātodvego &#x27;bhavat kiṃcit_) and spoke these words to Śārdūla:
 </details>
 </details>
 
@@ -188,7 +188,7 @@ that you have not fallen a victim to the enraged monkeys."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your color is unnatural (ayathāvac ca te varṇaḥ) and you look wretched (dīnaś cāsi), O night-stalker! I trust you did not fall (nāsi kaccit ... vaśam āgataḥ) into the power of our wrathful enemies (amitrāṇāṃ kruddhānām)?”
+“Your color is unnatural (_ayathāvac ca te varṇaḥ_) and you look wretched (_dīnaś cāsi_), O night-stalker! I trust you did not fall (_nāsi kaccit ... vaśam āgataḥ_) into the power of our wrathful enemies (_amitrāṇāṃ kruddhānām_)?”
 </details>
 </details>
 
@@ -240,7 +240,7 @@ following words to Ravana the tiger among demons:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus questioned by him (iti tenānuśiṣṭas tu), Śārdūla, overwhelmed with fear (bhayaviklavaḥ), then slowly uttered these words (vācaṃ mandam udīrayan) to that tiger among Rākṣasas (rākṣasaśārdūlam):
+Thus questioned by him (_iti tenānuśiṣṭas tu_), Śārdūla, overwhelmed with fear (_bhayaviklavaḥ_), then slowly uttered these words (_vācaṃ mandam udīrayan_) to that tiger among Rākṣasas (_rākṣasaśārdūlam_):
 </details>
 </details>
 
@@ -292,7 +292,7 @@ of being spied upon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those bulls among Vānaras (vānarapuṅgavāḥ) cannot be spied upon (na te cārayituṃ śakyāḥ), O king; they are valorous and mighty, and they are protected by Rāghava (rāghaveṇa ca rakṣitāḥ).
+“Those bulls among Vānaras (_vānarapuṅgavāḥ_) cannot be spied upon (_na te cārayituṃ śakyāḥ_), O king; they are valorous and mighty, and they are protected by Rāghava (_rāghaveṇa ca rakṣitāḥ_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ with them. The entire path is being protected by the monkeys looking like mounta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor is it possible even to converse with them (nāpi sambhāṣituṃ śakyāḥ); no questioning can be conducted there (sampraśno 'tra na labhyate), for on every side the path is guarded (sarvato rakṣyate panthāḥ) by mountain-like Vānaras (vānaraiḥ parvatopamaiḥ).
+Nor is it possible even to converse with them (_nāpi sambhāṣituṃ śakyāḥ_); no questioning can be conducted there (_sampraśno &#x27;tra na labhyate_), for on every side the path is guarded (_sarvato rakṣyate panthāḥ_) by mountain-like Vānaras (_vānaraiḥ parvatopamaiḥ_).
 </details>
 </details>
 
@@ -408,7 +408,7 @@ me in various ways."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The moment that army was entered (praviṣṭamātre bale tasmin) and begun to be reconnoitered (vicārite), I was detected (jñāto 'ham); forcibly seized by the Rākṣasas (balād gṛhīto rakṣobhiḥ), I was roughly handled in many ways (bahudhāsmi vicāritaḥ).
+The moment that army was entered (_praviṣṭamātre bale tasmin_) and begun to be reconnoitered (_vicārite_), I was detected (_jñāto &#x27;ham_); forcibly seized by the Rākṣasas (_balād gṛhīto rakṣobhiḥ_), I was roughly handled in many ways (_bahudhāsmi vicāritaḥ_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ monkeys. I was also paraded round in the midst of their army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fiercely beaten (abhihato bhṛśam) with knees, fists, teeth, and open palms (jānubhir muṣṭibhir dantais talaiś ca), I was paraded around in the midst of the army (pariṇīto 'smi balamadhye) by the wrathful monkeys (haribhir amarṣaṇaiḥ).
+Fiercely beaten (_abhihato bhṛśam_) with knees, fists, teeth, and open palms (_jānubhir muṣṭibhir dantais talaiś ca_), I was paraded around in the midst of the army (_pariṇīto &#x27;smi balamadhye_) by the wrathful monkeys (_haribhir amarṣaṇaiḥ_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ disturbed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And after parading me everywhere (pariṇīya ca sarvatra), I was led into Rāma's assembly (nīto 'haṃ rāmasaṃsadi), my wretched limbs streaming with blood (rudhirasrāvidīnāṅgaḥ), swooning and with my senses reeling (vihvalaś calitendriyaḥ).
+And after parading me everywhere (_pariṇīya ca sarvatra_), I was led into Rāma&#x27;s assembly (_nīto &#x27;haṃ rāmasaṃsadi_), my wretched limbs streaming with blood (_rudhirasrāvidīnāṅgaḥ_), swooning and with my senses reeling (_vihvalaś calitendriyaḥ_).
 </details>
 </details>
 
@@ -566,7 +566,7 @@ was saved fortunately by Rama, saying �stay!stay!'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As I was being beaten by the monkeys (haribhir vadhyamānaḥ) and imploring mercy with joined palms (yācamānaḥ kṛtāñjaliḥ), I was rescued by Rāghava (rāghaveṇa paritrātaḥ) out of his spontaneous grace (yadṛcchayā) with the cry, “Stop! Stop!” (mā meti).
+As I was being beaten by the monkeys (_haribhir vadhyamānaḥ_) and imploring mercy with joined palms (_yācamānaḥ kṛtāñjaliḥ_), I was rescued by Rāghava (_rāghaveṇa paritrātaḥ_) out of his spontaneous grace (_yadṛcchayā_) with the cry, “Stop! Stop!” (_mā meti_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ gates of Lanka and stands there, well-equipped with weapons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having filled up the great ocean with mountains and boulders (śailaśilābhis tu pūrayitvā mahārṇavam), this Rāma stands armed (tiṣṭhati sāyudhaḥ), having taken up his station at the gate of Laṅkā (dvāram āśritya laṅkāyāḥ).
+Having filled up the great ocean with mountains and boulders (_śailaśilābhis tu pūrayitvā mahārṇavam_), this Rāma stands armed (_tiṣṭhati sāyudhaḥ_), having taken up his station at the gate of Laṅkā (_dvāram āśritya laṅkāyāḥ_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ approaching; *laN^kaameva* = towards Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arraying his host in the Garuḍa formation (garuḍavyūham āsthāya) and surrounded on all sides by monkeys (sarvato haribhir vṛtaḥ), that hero of mighty splendor released me (māṃ visṛjya) and now marches straight upon Laṅkā (laṅkām evātivartate).
+Arraying his host in the Garuḍa formation (_garuḍavyūham āsthāya_) and surrounded on all sides by monkeys (_sarvato haribhir vṛtaḥ_), that hero of mighty splendor released me (_māṃ visṛjya_) and now marches straight upon Laṅkā (_laṅkām evātivartate_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Seetha immediately or even offer him battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before he reaches the rampart (purā prākāram āyāti), swiftly do one of the two (kṣipram ekataraṃ kuru): either restore Sītā at once (sītāṃ vāpi prayacchāśu), or else let battle be given (yuddhaṃ vāpi pradīyatām)!”
+Before he reaches the rampart (_purā prākāram āyāti_), swiftly do one of the two (_kṣipram ekataraṃ kuru_): either restore Sītā at once (_sītāṃ vāpi prayacchāśu_), or else let battle be given (_yuddhaṃ vāpi pradīyatām_)!”
 </details>
 </details>
 
@@ -788,7 +788,7 @@ spoke the following significant words to Shardula.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that and pondered it then in his mind (manasā tat tadā prekṣya), that Rāvaṇa, overlord of the Rākṣasas, thereupon spoke this momentous declaration (sumahad vākyam) to Śārdūla:
+Having heard that and pondered it then in his mind (_manasā tat tadā prekṣya_), that Rāvaṇa, overlord of the Rākṣasas, thereupon spoke this momentous declaration (_sumahad vākyam_) to Śārdūla:
 </details>
 </details>
 
@@ -840,7 +840,7 @@ musicians or the demons were to fight against me or even under danger from all b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if gods, Gandharvas, and Dānavas (devagandharvadānavāḥ) fight against me (māṃ pratiyudhyante), I shall never surrender Sītā (naiva sītāṃ pradāsyāmi), even out of fear of all the worlds (sarvalokabhayād api)!”
+“Even if gods, Gandharvas, and Dānavas (_devagandharvadānavāḥ_) fight against me (_māṃ pratiyudhyante_), I shall never surrender Sītā (_naiva sītāṃ pradāsyāmi_), even out of fear of all the worlds (_sarvalokabhayād api_)!”
 </details>
 </details>
 
@@ -893,7 +893,7 @@ the army been espied by you? Who are the valiant monkeys among them?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, Rāvaṇa of great splendor spoke again (punar abravīt): “That army has been traversed by you (caritā bhavatā senā); who are the heroic monkeys there (ke 'tra śūrāḥ plavaṃgamāḥ)?
+Having spoken thus, Rāvaṇa of great splendor spoke again (_punar abravīt_): “That army has been traversed by you (_caritā bhavatā senā_); who are the heroic monkeys there (_ke &#x27;tra śūrāḥ plavaṃgamāḥ_)?
 </details>
 </details>
 
@@ -947,7 +947,7 @@ information."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of what luster and of what sort (kiṃprabhāḥ kīdṛśāḥ), gentle sir (saumya), are those Vānaras who are so unassailable (durāsadāḥ)? Whose sons and grandsons are they (kasya putrāś ca pautrāś ca)? Tell me the truth of it (tattvam ākhyāhi), O Rākṣasa!
+Of what luster and of what sort (_kiṃprabhāḥ kīdṛśāḥ_), gentle sir (_saumya_), are those Vānaras who are so unassailable (_durāsadāḥ_)? Whose sons and grandsons are they (_kasya putrāś ca pautrāś ca_)? Tell me the truth of it (_tattvam ākhyāhi_), O Rākṣasa!
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ battle?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having learned their strength and weakness (jñātvā teṣāṃ balābalam), I shall take measures accordingly in this matter (tathātra pratipatsyāmi); for a reckoning of forces (saṃkhyānam) must certainly be made by one who desires battle (yuddham icchatā).”
+Having learned their strength and weakness (_jñātvā teṣāṃ balābalam_), I shall take measures accordingly in this matter (_tathātra pratipatsyāmi_); for a reckoning of forces (_saṃkhyānam_) must certainly be made by one who desires battle (_yuddham icchatā_).”
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ words for Ravana's information:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāvaṇa, Śārdūla, that foremost of spies (uttamaś caraḥ), then began to speak these words (idaṃ vacanam ārebhe vaktum) in Rāvaṇa's presence (rāvaṇasaṃnidhau):
+Thus addressed by Rāvaṇa, Śārdūla, that foremost of spies (_uttamaś caraḥ_), then began to speak these words (_idaṃ vacanam ārebhe vaktum_) in Rāvaṇa&#x27;s presence (_rāvaṇasaṃnidhau_):
 </details>
 </details>
 
@@ -1117,7 +1117,7 @@ battle. Here is the son of Gadgada, famously called as Jambavan."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“First, there is the son of Ṛkṣarajas [Sugrīva], most invincible in battle (yudhi sudurjayaḥ), O king; and there is the son of Gadgada, renowned as Jāmbavān (jāmbavān iti viśrutaḥ).
+“First, there is the son of Ṛkṣarajas [Sugrīva], most invincible in battle (_yudhi sudurjayaḥ_), O king; and there is the son of Gadgada, renowned as Jāmbavān (_jāmbavān iti viśrutaḥ_).
 </details>
 </details>
 
@@ -1171,7 +1171,7 @@ destroyed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there is another son of Gadgada [Dhūmra], as well as [Kesarī,] the son of Śatakratu's preceptor [Bṛhaspati] (guruputraḥ śatakratoḥ), by whose son alone (yasya putreṇaikena) a great slaughter of Rākṣasas was wrought (kadanaṃ kṛtaṃ rakṣasām).
+And there is another son of Gadgada [Dhūmra], as well as [Kesarī,] the son of Śatakratu&#x27;s preceptor [Bṛhaspati] (_guruputraḥ śatakratoḥ_), by whose son alone (_yasya putreṇaikena_) a great slaughter of Rākṣasas was wrought (_kadanaṃ kṛtaṃ rakṣasām_).
 </details>
 </details>
 
@@ -1224,7 +1224,7 @@ virtuous, as well as a monkey called Dadhimukha, the cool-minded, who is the son
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here too is the righteous-souled and valorous Suṣeṇa, son of Dharma (putro dharmasya); and here, O king, is the gentle monkey Dadhimukha, son of Soma (saumyaḥ somātmajaḥ).
+Here too is the righteous-souled and valorous Suṣeṇa, son of Dharma (_putro dharmasya_); and here, O king, is the gentle monkey Dadhimukha, son of Soma (_saumyaḥ somātmajaḥ_).
 </details>
 </details>
 
@@ -1276,7 +1276,7 @@ death in the form of monkeys, created by Brahma, the Lord of creation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here are Sumukha, Durmukha, and the Vānara Vegadarśī, who were surely created by the Self-existent Brahmā (nūnaṃ sṛṣṭaḥ svayaṃbhuvā) as Death himself in monkey form (mṛtyur vānararūpeṇa).
+Here are Sumukha, Durmukha, and the Vānara Vegadarśī, who were surely created by the Self-existent Brahmā (_nūnaṃ sṛṣṭaḥ svayaṃbhuvā_) as Death himself in monkey form (_mṛtyur vānararūpeṇa_).
 </details>
 </details>
 
@@ -1331,7 +1331,7 @@ the son of Vayu the Lord of Wind well- known as Hanuman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is the son of the Fire-god (putro hutavahasya), Nīla, the commander-in-chief himself (senāpatiḥ svayam); and here is the son of the Wind-god (anilasya tu putraḥ), renowned as Hanūmān.
+Here is the son of the Fire-god (_putro hutavahasya_), Nīla, the commander-in-chief himself (_senāpatiḥ svayam_); and here is the son of the Wind-god (_anilasya tu putraḥ_), renowned as Hanūmān.
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is the youthful, mighty, and unassailable Aṅgada, grandson of Śakra (naptā śakrasya); and both Mainda and Dvivida, mighty sons of the Aśvins (balināv aśvisambhavau).
+Here is the youthful, mighty, and unassailable Aṅgada, grandson of Śakra (_naptā śakrasya_); and both Mainda and Dvivida, mighty sons of the Aśvins (_balināv aśvisambhavau_).
 </details>
 </details>
 
@@ -1404,7 +1404,7 @@ Here is the youthful, mighty, and unassailable Aṅgada, grandson of Śakra (nap
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And here are the five sons of Vaivasvata [Yama] (putrā vaivasvatasya pañca), resembling Time the Ender (kālāntakopamāḥ): Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana.
+And here are the five sons of Vaivasvata [Yama] (_putrā vaivasvatasya pañca_), resembling Time the Ender (_kālāntakopamāḥ_): Gaja, Gavākṣa, Gavaya, Śarabha, and Gandhamādana.
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ sickness; they are considered as the physicians of heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there are ten crores of Vānaras (daśa vānarakoṭyaś ca)—heroic, eager for battle (yuddhakāṅkṣiṇām), glorious sons of the gods (śrīmatāṃ devaputrāṇām); the rest I am unable to recount (śeṣaṃ nākhyātum utsahe).
+And there are ten crores of Vānaras (_daśa vānarakoṭyaś ca_)—heroic, eager for battle (_yuddhakāṅkṣiṇām_), glorious sons of the gods (_śrīmatāṃ devaputrāṇām_); the rest I am unable to recount (_śeṣaṃ nākhyātum utsahe_).
 </details>
 </details>
 
@@ -1520,7 +1520,7 @@ Dushana ws killed as also Khara and Trishana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is this youthful son of Daśaratha (putro daśarathasyaiṣa), lion-framed (siṃhasaṃhananaḥ), by whom Dūṣaṇa was slain, as well as Khara and Triśiras (kharaś ca triśirās tathā).
+Here is this youthful son of Daśaratha (_putro daśarathasyaiṣa_), lion-framed (_siṃhasaṃhananaḥ_), by whom Dūṣaṇa was slain, as well as Khara and Triśiras (_kharaś ca triśirās tathā_).
 </details>
 </details>
 
@@ -1572,7 +1572,7 @@ killed as also Kabandha who was equal to Yama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There is no one on earth equal to Rāma in valor (nāsti rāmasya sadṛśo vikrame bhuvi kaścana), by whom Virādha was slain, as well as Kabandha who resembled the Ender (kabandhaś cāntakopamaḥ).
+There is no one on earth equal to Rāma in valor (_nāsti rāmasya sadṛśo vikrame bhuvi kaścana_), by whom Virādha was slain, as well as Kabandha who resembled the Ender (_kabandhaś cāntakopamaḥ_).
 </details>
 </details>
 
@@ -1621,7 +1621,7 @@ demons staying in Janasthana were killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No man upon the earth is able to recount the virtues of Rāma (vaktuṃ na śakto rāmasya guṇān), by whom all those Rākṣasas stationed in Janasthāna were slain (janasthānagatā yena tāvanto rākṣasā hatāḥ).
+No man upon the earth is able to recount the virtues of Rāma (_vaktuṃ na śakto rāmasya guṇān_), by whom all those Rākṣasas stationed in Janasthāna were slain (_janasthānagatā yena tāvanto rākṣasā hatāḥ_).
 </details>
 </details>
 
@@ -1661,7 +1661,7 @@ No man upon the earth is able to recount the virtues of Rāma (vaktuṃ na śakt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (mātaṅgānām ivarṣabhaḥ), coming within the range of whose arrows (yasya bāṇapathaṃ prāpya) not even Vāsava [Indra] could survive (na jīved api vāsavaḥ).
+And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (_mātaṅgānām ivarṣabhaḥ_), coming within the range of whose arrows (_yasya bāṇapathaṃ prāpya_) not even Vāsava [Indra] could survive (_na jīved api vāsavaḥ_).
 </details>
 </details>
 
@@ -1717,7 +1717,7 @@ survive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (mātaṅgānām ivarṣabhaḥ), coming within the range of whose arrows (yasya bāṇapathaṃ prāpya) not even Vāsava [Indra] could survive (na jīved api vāsavaḥ).
+And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (_mātaṅgānām ivarṣabhaḥ_), coming within the range of whose arrows (_yasya bāṇapathaṃ prāpya_) not even Vāsava [Indra] could survive (_na jīved api vāsavaḥ_).
 </details>
 </details>
 
@@ -1768,7 +1768,7 @@ mighty and swift Durdhara the son of Vasus are all here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is the heroic Nala, son of Viśvakarman (viśvakarmasuto vīraḥ) and foremost of leapers (plavagasattamaḥ); and here is that valorous and swift son of the Vasus (vasuputraḥ), Durdhara.
+Here is the heroic Nala, son of Viśvakarman (_viśvakarmasuto vīraḥ_) and foremost of leapers (_plavagasattamaḥ_); and here is that valorous and swift son of the Vasus (_vasuputraḥ_), Durdhara.
 </details>
 </details>
 
@@ -1824,7 +1824,7 @@ of Lanka (as a prospective gift from Rama) remains devoted to the good of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And your brother Vibhīṣaṇa, the noblest of Rākṣasas (rākṣasānāṃ variṣṭhaḥ), having accepted the city of Laṅkā [from Rāma] (pratigṛhya purīṃ laṅkām), is devoted to Rāghava's welfare (rāghavasya hite rataḥ).
+And your brother Vibhīṣaṇa, the noblest of Rākṣasas (_rākṣasānāṃ variṣṭhaḥ_), having accepted the city of Laṅkā [from Rāma] (_pratigṛhya purīṃ laṅkām_), is devoted to Rāghava&#x27;s welfare (_rāghavasya hite rataḥ_).
 </details>
 </details>
 
@@ -1889,6 +1889,6 @@ Suvela. Now, it is for you to decide what remains to be done!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus has this entire Vānara host (sarvaṃ vānaraṃ balam), stationed upon Mount Suvela (suvele 'dhiṣṭhitaṃ śaile), been truly recounted to you; in what remains to be done (śeṣakārye), Your Majesty is the sole authority (bhavān gatiḥ).”
+Thus has this entire Vānara host (_sarvaṃ vānaraṃ balam_), stationed upon Mount Suvela (_suvele &#x27;dhiṣṭhitaṃ śaile_), been truly recounted to you; in what remains to be done (_śeṣakārye_), Your Majesty is the sole authority (_bhavān gatiḥ_).”
 </details>
 </details>

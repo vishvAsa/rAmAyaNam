@@ -79,7 +79,7 @@ long distance during the rest of the night.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-During that very remainder of the night (rātri-śeṣeṇa tenaiva), Rāma too, that tiger among men, mindful of his father’s command (pitur ājñām anusmaran), traversed a great distance (mahad antaram jagāma).
+During that very remainder of the night (_rātri-śeṣeṇa tenaiva_), Rāma too, that tiger among men, mindful of his father’s command (_pitur ājñām anusmaran_), traversed a great distance (_mahad antaram jagāma_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ Having worshipped the blissful morning twilight, he passed beyond the boundary o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he journeyed on in that very manner (tathaiva gacchatas tasya), the auspicious night passed away (vyapāyād rajanī śivā); and having worshipped the auspicious morning twilight (upāsya sa śivāṃ sandhyām), he entered the border of the realm (viṣayāntaṃ vyagāhata).
+As he journeyed on in that very manner (_tathaiva gacchatas tasya_), the auspicious night passed away (_vyapāyād rajanī śivā_); and having worshipped the auspicious morning twilight (_upāsya sa śivāṃ sandhyām_), he entered the border of the realm (_viṣayāntaṃ vyagāhata_).
 </details>
 </details>
 
@@ -192,7 +192,7 @@ the sights).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding villages with well-ploughed borderlands (grāmān vikṛṣṭa-sīmāntān) and blossoming woodlands (puṣpitāni vanāni ca), he sped past swiftly (atiyayau śīghram) with his foremost steeds, though seeming to move gently (śanair iva hayottamaiḥ).
+Beholding villages with well-ploughed borderlands (_grāmān vikṛṣṭa-sīmāntān_) and blossoming woodlands (_puṣpitāni vanāni ca_), he sped past swiftly (_atiyayau śīghram_) with his foremost steeds, though seeming to move gently (_śanair iva hayottamaiḥ_).
 </details>
 </details>
 
@@ -226,7 +226,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he went, he heard the words of men dwelling in the villages and hamlets (grāma-saṃvāsa-vāsinām): “Fie upon King Daśaratha (rājānaṃ dhig daśaratham), who has fallen under the sway of lust (kāmasya vaśam āgatam)!
+As he went, he heard the words of men dwelling in the villages and hamlets (_grāma-saṃvāsa-vāsinām_): “Fie upon King Daśaratha (_rājānaṃ dhig daśaratham_), who has fallen under the sway of lust (_kāmasya vaśam āgatam_)!
 </details>
 </details>
 
@@ -257,7 +257,7 @@ As he went, he heard the words of men dwelling in the villages and hamlets (grā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas, today the cruel, sinful Kaikeyī (nṛśaṃsādya kaikeyī pāpā), bent on sin (pāpānubandhinī), fierce and having shattered all bounds of propriety (sambhinna-maryādā), is engaged in a ruthless deed (tīkṣṇa-karmaṇi vartate)—
+Alas, today the cruel, sinful Kaikeyī (_nṛśaṃsādya kaikeyī pāpā_), bent on sin (_pāpānubandhinī_), fierce and having shattered all bounds of propriety (_sambhinna-maryādā_), is engaged in a ruthless deed (_tīkṣṇa-karmaṇi vartate_)—
 </details>
 </details>
 
@@ -312,7 +312,7 @@ propriety"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—she who banishes to the forest-dwelling (pravāsayati ... vana-vāse) such a righteous son of the king (putram īdṛśaṃ rājñaḥ dhārmikam), of great wisdom, tender-hearted, and master of his senses (jitendriyam)!
+—she who banishes to the forest-dwelling (_pravāsayati ... vana-vāse_) such a righteous son of the king (_putram īdṛśaṃ rājñaḥ dhārmikam_), of great wisdom, tender-hearted, and master of his senses (_jitendriyam_)!
 </details>
 </details>
 
@@ -366,7 +366,7 @@ homely comforts can now experience hardships in the forest?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How indeed shall the highly fortunate Sītā, the delight of Janaka (janaka-nandinī), who has ever delighted in pleasures (sadā sukheṣv abhiratā), endure hardships (duḥkhāny anubhaviṣyati)?
+How indeed shall the highly fortunate Sītā, the delight of Janaka (_janaka-nandinī_), who has ever delighted in pleasures (_sadā sukheṣv abhiratā_), endure hardships (_duḥkhāny anubhaviṣyati_)?
 </details>
 </details>
 
@@ -419,7 +419,7 @@ abandon Rama who is so beloved to the people and is even faultless."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas, King Daśaratha is devoid of affection (niḥsnehaḥ), in that he wishes here to cast off his own dear, sinless son Rāma, the beloved of the people (prajānām anaghaṃ rāmam)!”
+Alas, King Daśaratha is devoid of affection (_niḥsnehaḥ_), in that he wishes here to cast off his own dear, sinless son Rāma, the beloved of the people (_prajānām anaghaṃ rāmam_)!”
 </details>
 </details>
 
@@ -471,7 +471,7 @@ prince of Kosala crossed the boundaries of Kosala state.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of the men dwelling in the villages and hamlets, the heroic lord of Kosala (kosaleśvaraḥ) passed beyond the Kosala realm (atiyayau vīraḥ kosalān).
+Hearing these words of the men dwelling in the villages and hamlets, the heroic lord of Kosala (_kosaleśvaraḥ_) passed beyond the Kosala realm (_atiyayau vīraḥ kosalān_).
 </details>
 </details>
 
@@ -523,7 +523,7 @@ forth, facing the quarter occupied by Sage Agastya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having crossed the river named Vedāśruti (veda-śrutiṃ nāma), which carries auspicious waters (śiva-vāri-vahāṃ nadīm), he journeyed on facing toward the quarter inhabited by Agastya (agastyādhyuṣitāṃ diśam).
+Then, having crossed the river named Vedāśruti (_veda-śrutiṃ nāma_), which carries auspicious waters (_śiva-vāri-vahāṃ nadīm_), he journeyed on facing toward the quarter inhabited by Agastya (_agastyādhyuṣitāṃ diśam_).
 </details>
 </details>
 
@@ -576,7 +576,7 @@ beautiful waters, whose banks were adorned with cows and which headed towards th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having travelled for a very long time (gatvā tu su-ciraṃ kālam), he then crossed the cool-watered river Gomatī (śīta-jalāṃ nadīṃ gomatīm), which flows to the ocean (sāgaraṅ-gamām) and whose marshy banks are filled with kine (go-yutānūpām).
+And having travelled for a very long time (_gatvā tu su-ciraṃ kālam_), he then crossed the cool-watered river Gomatī (_śīta-jalāṃ nadīṃ gomatīm_), which flows to the ocean (_sāgaraṅ-gamām_) and whose marshy banks are filled with kine (_go-yutānūpām_).
 </details>
 </details>
 
@@ -631,7 +631,7 @@ Rama crossed the river called Syandika which had resounded with howls of peacock
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having passed beyond the Gomatī with his swift-going steeds (śīghra-gair hayaiḥ), Rāghava crossed the river Syandikā, resonant with peacocks and swans (mayūra-haṃsābhirutām).
+And having passed beyond the Gomatī with his swift-going steeds (_śīghra-gair hayaiḥ_), Rāghava crossed the river Syandikā, resonant with peacocks and swans (_mayūra-haṃsābhirutām_).
 </details>
 </details>
 
@@ -693,7 +693,7 @@ territories.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There Rāma pointed out unto Vaidehī (vaidehīm anvadarśayat) that prosperous land (mahīṃ ... sphītām), surrounded by populous districts (rāṣṭrāvṛtām), which had been given of old by King Manu unto Ikṣvāku (manunā rājñā dattām ikṣvākave purā).
+There Rāma pointed out unto Vaidehī (_vaidehīm anvadarśayat_) that prosperous land (_mahīṃ ... sphītām_), surrounded by populous districts (_rāṣṭrāvṛtām_), which had been given of old by King Manu unto Ikṣvāku (_manunā rājñā dattām ikṣvākave purā_).
 </details>
 </details>
 
@@ -747,7 +747,7 @@ spoke as follows :
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressing that charioteer again and again simply as “O Charioteer!” (sūta ity eva cābhāṣya), the glorious bull among men, possessing the voice of an impassioned swan (haṃsa-matta-svaraḥ), spoke:
+Addressing that charioteer again and again simply as “O Charioteer!” (_sūta ity eva cābhāṣya_), the glorious bull among men, possessing the voice of an impassioned swan (_haṃsa-matta-svaraḥ_), spoke:
 </details>
 </details>
 
@@ -800,7 +800,7 @@ forest, bordering on Sarayu river and laden with blossoms?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When, having returned again (punar āgamya), reunited with my mother and father (mātrā pitrā ca saṅgataḥ), shall I roam for the chase in the flowering forest of the Sarayū (sarayvāḥ puṣpite vane mṛgayāṃ paryaṭiṣyāmi)?
+“When, having returned again (_punar āgamya_), reunited with my mother and father (_mātrā pitrā ca saṅgataḥ_), shall I roam for the chase in the flowering forest of the Sarayū (_sarayvāḥ puṣpite vane mṛgayāṃ paryaṭiṣyāmi_)?
 </details>
 </details>
 
@@ -831,7 +831,7 @@ forest, bordering on Sarayu river and laden with blossoms?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I do not desire the chase in the Sarayū forest to excess (nātyartham abhikāṅkṣāmi); for in the world this sport is matchless and approved by hosts of royal sages (ratir hy eṣātulā loke rājarṣi-gaṇa-sammatā).
+I do not desire the chase in the Sarayū forest to excess (_nātyartham abhikāṅkṣāmi_); for in the world this sport is matchless and approved by hosts of royal sages (_ratir hy eṣātulā loke rājarṣi-gaṇa-sammatā_).
 </details>
 </details>
 
@@ -887,7 +887,7 @@ But I do not long for it excessively."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For in this world the chase in the forest was instituted by royal sages for sport (rājarṣīṇāṃ hi loke 'smin raty-arthaṃ mṛgayā vane); practiced at the proper season by descendants of Manu (kāle kṛtāṃ tāṃ manujaiḥ), it is desired by bowmen (dhanvinām abhikāṅkṣitām).”
+For in this world the chase in the forest was instituted by royal sages for sport (_rājarṣīṇāṃ hi loke &#x27;smin raty-arthaṃ mṛgayā vane_); practiced at the proper season by descendants of Manu (_kāle kṛtāṃ tāṃ manujaiḥ_), it is desired by bowmen (_dhanvinām abhikāṅkṣitām_).”
 </details>
 </details>
 
@@ -950,7 +950,7 @@ advanced thus along that route.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressing the charioteer with reference to one topic after another (taṃ tam artham abhipretya), that scion of Ikṣvāku (aikṣvākaḥ) journeyed along that road, uttering speech in a sweet voice (madhurayā girā ... vākyam udīrayan).
+Addressing the charioteer with reference to one topic after another (_taṃ tam artham abhipretya_), that scion of Ikṣvāku (_aikṣvākaḥ_) journeyed along that road, uttering speech in a sweet voice (_madhurayā girā ... vākyam udīrayan_).
 </details>
 </details>
 

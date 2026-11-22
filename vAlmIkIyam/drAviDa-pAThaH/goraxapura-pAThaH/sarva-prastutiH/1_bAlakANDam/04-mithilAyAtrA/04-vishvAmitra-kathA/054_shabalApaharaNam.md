@@ -76,7 +76,7 @@ of the legend of Vishvamitra. [1-54-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the sage Vasiṣṭha would by no means give up the wish-granting cow (kāmadhenum), O Rāma, Viśvāmitra forcibly dragged away his Śabalā (śabalām anvakarṣata).
+When the sage Vasiṣṭha would by no means give up the wish-granting cow (_kāmadhenum_), O Rāma, Viśvāmitra forcibly dragged away his Śabalā (_śabalām anvakarṣata_).
 </details>
 </details>
 
@@ -130,7 +130,7 @@ from the sage. [1-54-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being led away (nīyamānā) by the high-souled king, O Rāma, Śabalā, afflicted with grief (duḥkhitā), wept and reflected in her mind, wasted by sorrow (śokakarśitā):
+Being led away (_nīyamānā_) by the high-souled king, O Rāma, Śabalā, afflicted with grief (_duḥkhitā_), wept and reflected in her mind, wasted by sorrow (_śokakarśitā_):
 </details>
 </details>
 
@@ -187,7 +187,7 @@ what? [1-54-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why have I been forsaken (kim ahaṃ parityaktā) by the supremely high-souled Vasiṣṭha, that I, wretched and sorely distressed (dīnā bhṛśaduḥkhitā), should be carried off by the king’s servants (rājabhṛtair hriyeya)?
+“Why have I been forsaken (_kim ahaṃ parityaktā_) by the supremely high-souled Vasiṣṭha, that I, wretched and sorely distressed (_dīnā bhṛśaduḥkhitā_), should be carried off by the king’s servants (_rājabhṛtair hriyeya_)?
 </details>
 </details>
 
@@ -242,7 +242,7 @@ and am I no errant.' That cow eulogised in this manner. [1-54-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What offense have I committed (kiṃ mayāpakṛtam) against that great seer of purified soul (bhāvitātmanaḥ), that the righteous sage, even seeing me innocent and devoted (mām anāgasaṃ dṛṣṭvā bhaktām), abandons me?”
+“What offense have I committed (_kiṃ mayāpakṛtam_) against that great seer of purified soul (_bhāvitātmanaḥ_), that the righteous sage, even seeing me innocent and devoted (_mām anāgasaṃ dṛṣṭvā bhaktām_), abandons me?”
 </details>
 </details>
 
@@ -279,7 +279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reflected thus (iti saṃcintayitvā) and sighing again and again (niḥśvasya ca punaḥ punaḥ), she sped with great velocity (jagāma vegena) back to Vasiṣṭha of supreme splendor (paramaujasam).
+Having reflected thus (_iti saṃcintayitvā_) and sighing again and again (_niḥśvasya ca punaḥ punaḥ_), she sped with great velocity (_jagāma vegena_) back to Vasiṣṭha of supreme splendor (_paramaujasam_).
 </details>
 </details>
 
@@ -361,9 +361,9 @@ bellowing like a thunderous cloud. [1-54-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** Shaking off those royal retainers by the hundreds (nirdhūya tāṃs tadā bhṛtyān śataśaḥ), O destroyer of foes, she flew with the speed of the wind (anilavegena) to the feet of the high-souled sage (pādamūlaṃ mahātmanaḥ).
+**6:** Shaking off those royal retainers by the hundreds (_nirdhūya tāṃs tadā bhṛtyān śataśaḥ_), O destroyer of foes, she flew with the speed of the wind (_anilavegena_) to the feet of the high-souled sage (_pādamūlaṃ mahātmanaḥ_).
 
-**7:** Weeping (rudantī) and crying out in distress (krośantī), Śabalā stood before Vasiṣṭha and spoke these words, weeping with a voice deep as rumbling thunderclouds (rudantī meghaniḥsvanā):
+**7:** Weeping (_rudantī_) and crying out in distress (_krośantī_), Śabalā stood before Vasiṣṭha and spoke these words, weeping with a voice deep as rumbling thunderclouds (_rudantī meghaniḥsvanā_):
 </details>
 </details>
 
@@ -409,7 +409,7 @@ are weaning me away from your proximity.' So Shabala urged Vashishta. [1-54-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O revered Lord, son of Brahmā (bhagavan brahmaṇaḥ suta), why have I been forsaken by you (kiṃ parityaktā tvayāham), that the king’s soldiers are leading me away from your very presence (tvatsakāśataḥ)?”
+“O revered Lord, son of Brahmā (_bhagavan brahmaṇaḥ suta_), why have I been forsaken by you (_kiṃ parityaktā tvayāham_), that the king’s soldiers are leading me away from your very presence (_tvatsakāśataḥ_)?”
 </details>
 </details>
 
@@ -456,7 +456,7 @@ in her worriment. [1-54-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, the Brahmarṣi spoke these words to her, whose heart was seared with grief (śokasaṃtaptahṛdayām) and who was grieving like his own sister (svasāram iva duḥkhitām):
+Addressed thus, the Brahmarṣi spoke these words to her, whose heart was seared with grief (_śokasaṃtaptahṛdayām_) and who was grieving like his own sister (_svasāram iva duḥkhitām_):
 </details>
 </details>
 
@@ -504,7 +504,7 @@ weaning you away from me as he is beside himself with kingly arrogance. [1-54-10
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not forsake you, O Śabalā (na tvāṃ tyajāmi śabale), nor have you done me any wrong (nāpi me ’pakṛtaṃ tvayā); it is this mighty king, intoxicated with power (matto mahābalaḥ), who carries you off by force (balān nayate).
+“I do not forsake you, O Śabalā (_na tvāṃ tyajāmi śabale_), nor have you done me any wrong (_nāpi me ’pakṛtaṃ tvayā_); it is this mighty king, intoxicated with power (_matto mahābalaḥ_), who carries you off by force (_balān nayate_).
 </details>
 </details>
 
@@ -552,7 +552,7 @@ and thus we have to be subservient to a Kshatriya, isn't it. [1-54-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My martial strength is surely not equal to his (na hi tulyaṃ balaṃ mahyam), and today especially he is a king (rājā tv adya viśeṣataḥ)—a powerful monarch, a Kṣatriya, and the lord of the earth (pṛthivyāḥ patir eva ca).
+“My martial strength is surely not equal to his (_na hi tulyaṃ balaṃ mahyam_), and today especially he is a king (_rājā tv adya viśeṣataḥ_)—a powerful monarch, a Kṣatriya, and the lord of the earth (_pṛthivyāḥ patir eva ca_).
 </details>
 </details>
 
@@ -603,7 +603,7 @@ he is mightier than me.' Thus Vashishta tried to pacify that Sacred-Cow. [1-54-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here stands his full akṣauhiṇī host (iyam akṣauhiṇī pūrṇā), teeming with elephants, horses, and chariots (gajavājirathākulā), crowded with war-elephants and banners (hastidhvajasamākīrṇā); therefore is he stronger (balavattaraḥ).”
+“Here stands his full _akṣauhiṇī_ host (_iyam akṣauhiṇī pūrṇā_), teeming with elephants, horses, and chariots (_gajavājirathākulā_), crowded with war-elephants and banners (_hastidhvajasamākīrṇā_); therefore is he stronger (_balavattaraḥ_).”
 </details>
 </details>
 
@@ -659,7 +659,7 @@ resplendence. [1-54-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Vasiṣṭha, she who knew the art of fitting speech (vacanajñā sā) humbly replied with these words (pratyuvāca vinītavat vacanam) to the Brahmarṣi of peerless effulgence (atulaprabham):
+Addressed thus by Vasiṣṭha, she who knew the art of fitting speech (_vacanajñā sā_) humbly replied with these words (_pratyuvāca vinītavat vacanam_) to the Brahmarṣi of peerless effulgence (_atulaprabham_):
 </details>
 </details>
 
@@ -750,7 +750,7 @@ lethal poison...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The wise declare that a Kṣatriya’s might is no true might (na balaṃ kṣatriyasyāhuḥ); Brahmins are far stronger (brāhmaṇā balavattarāḥ). O Brahmin, divine is the power of brahman (brahmabalaṃ divyam), and far stronger than Kṣatriya force (kṣātrāc ca balavattaram)!
+“The wise declare that a Kṣatriya’s might is no true might (_na balaṃ kṣatriyasyāhuḥ_); Brahmins are far stronger (_brāhmaṇā balavattarāḥ_). O Brahmin, divine is the power of _brahman_ (_brahmabalaṃ divyam_), and far stronger than Kṣatriya force (_kṣātrāc ca balavattaram_)!
 </details>
 </details>
 
@@ -803,7 +803,7 @@ invincible is your dynamism. [1-54-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Immeasurable is your power (aprameyaṃ balaṃ tubhyam); even Viśvāmitra of great valor (viśvāmitro mahāvīryaḥ) is not stronger than you (na tvayā balavattaraḥ), for your spiritual radiance is unassailable (tejas tava durāsadam).
+“Immeasurable is your power (_aprameyaṃ balaṃ tubhyam_); even Viśvāmitra of great valor (_viśvāmitro mahāvīryaḥ_) is not stronger than you (_na tvayā balavattaraḥ_), for your spiritual radiance is unassailable (_tejas tava durāsadam_).
 </details>
 </details>
 
@@ -857,7 +857,7 @@ king for this injudicious seizure.' Thus Shabala implored the sage Vashishta. [1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Command me (niyuṅkṣva mām), O sage of mighty splendor, sustained as I am by your Brahmanic power (brahmabalasambhṛtām); I shall shatter the pride, army, and endeavor of that wicked-minded king (tasya darpaṃ balaṃ yatnaṃ nāśayāmi durātmanaḥ)!”
+“Command me (_niyuṅkṣva mām_), O sage of mighty splendor, sustained as I am by your Brahmanic power (_brahmabalasambhṛtām_); I shall shatter the pride, army, and endeavor of that wicked-minded king (_tasya darpaṃ balaṃ yatnaṃ nāśayāmi durātmanaḥ_)!”
 </details>
 </details>
 
@@ -911,7 +911,7 @@ said so to Shabala.[1-54-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by her, O Rāma, Vasiṣṭha of great renown (mahāyaśāḥ) then spoke: “Bring forth (sṛjasveti) an army that shall crush the hostile host (balaṃ parabalārdanam)!”
+Addressed thus by her, O Rāma, Vasiṣṭha of great renown (_mahāyaśāḥ_) then spoke: “Bring forth (_sṛjasveti_) an army that shall crush the hostile host (_balaṃ parabalārdanam_)!”
 </details>
 </details>
 
@@ -969,7 +969,7 @@ army of Vishvamitra in its entirety just while Vishvamitra is witnessing it. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that command of his, Surabhi (Śabalā) then created (surabhiḥ sāsṛjat tadā): brought forth from her bellowing roar (tasyā huṃbhāravotsṛṣṭāḥ), O King, arose hundreds of Pahlava warriors (pahlavāḥ śataśo nṛpa)—
+Hearing that command of his, Surabhi (Śabalā) then created (_surabhiḥ sāsṛjat tadā_): brought forth from her bellowing roar (_tasyā huṃbhāravotsṛṣṭāḥ_), O King, arose hundreds of Pahlava warriors (_pahlavāḥ śataśo nṛpa_)—
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ destroy those Pahlava-s with many a kind of his weaponry. [1-54-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—who began to destroy that entire army (nāśayanti balaṃ sarvam) while Viśvāmitra looked on (viśvāmitrasya paśyataḥ). Then that king, supremely incensed (paramakruddhaḥ), with his eyes wide with fury (krodhavisphāritekṣaṇaḥ)—
+—who began to destroy that entire army (_nāśayanti balaṃ sarvam_) while Viśvāmitra looked on (_viśvāmitrasya paśyataḥ_). Then that king, supremely incensed (_paramakruddhaḥ_), with his eyes wide with fury (_krodhavisphāritekṣaṇaḥ_)—
 </details>
 </details>
 
@@ -1113,9 +1113,9 @@ bodily colour similar to the golden pistils of flowers which complexion is outla
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —slaughtered the Pahlavas (pahlavān nāśayāmāsa) with weapons of every kind, high and low (śastrair uccāvacair api). Beholding the Pahlavas harried by Viśvāmitra by the hundreds (viśvāmitrārditān dṛṣṭvā pahlavān śataśas tadā)—
+**20:** —slaughtered the Pahlavas (_pahlavān nāśayāmāsa_) with weapons of every kind, high and low (_śastrair uccāvacair api_). Beholding the Pahlavas harried by Viśvāmitra by the hundreds (_viśvāmitrārditān dṛṣṭvā pahlavān śataśas tadā_)—
 
-**21:** —she once again created dreadful Śakas mingled with Yavanas (bhūya evāsṛjad ghorān śakān yavanamiśritān); by those Śakas mingled with Yavanas, the entire earth was covered over (tair āsīt saṃvṛtā bhūmiḥ).
+**21:** —she once again created dreadful Śakas mingled with Yavanas (_bhūya evāsṛjad ghorān śakān yavanamiśritān_); by those Śakas mingled with Yavanas, the entire earth was covered over (_tair āsīt saṃvṛtā bhūmiḥ_).
 </details>
 </details>
 
@@ -1217,9 +1217,9 @@ have been the ancestor word of the present day 'Barbarian.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** By those radiant warriors of mighty valor (prabhāvadbhir mahāvīryaiḥ), gleaming like golden lotus-filaments (hemakiñjalkasaṃnibhaiḥ), wielding sharp swords and paṭṭiśa spears (tīkṣṇāsipaṭṭiśadharaiḥ) and clad in golden-hued garments (hemavarṇāmbarāvṛtaiḥ)—
+**22:** By those radiant warriors of mighty valor (_prabhāvadbhir mahāvīryaiḥ_), gleaming like golden lotus-filaments (_hemakiñjalkasaṃnibhaiḥ_), wielding sharp swords and _paṭṭiśa_ spears (_tīkṣṇāsipaṭṭiśadharaiḥ_) and clad in golden-hued garments (_hemavarṇāmbarāvṛtaiḥ_)—
 
-**23:** —that entire army of Viśvāmitra was burned to ashes as if by blazing fires (nirdagdhaṃ tad balaṃ sarvaṃ pradīptair iva pāvakaiḥ). Then Viśvāmitra of mighty splendor unleashed his celestial missiles (tato ’strāṇi mumoca ha), by which those Yavanas, Kāmbojas, and Barbaras were thrown into utter confusion (ākulīkṛtāḥ).
+**23:** —that entire army of Viśvāmitra was burned to ashes as if by blazing fires (_nirdagdhaṃ tad balaṃ sarvaṃ pradīptair iva pāvakaiḥ_). Then Viśvāmitra of mighty splendor unleashed his celestial missiles (_tato ’strāṇi mumoca ha_), by which those Yavanas, Kāmbojas, and Barbaras were thrown into utter confusion (_ākulīkṛtāḥ_).
 </details>
 </details>
 

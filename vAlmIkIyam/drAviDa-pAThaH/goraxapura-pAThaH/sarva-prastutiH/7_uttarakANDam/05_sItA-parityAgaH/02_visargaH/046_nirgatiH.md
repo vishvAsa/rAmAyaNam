@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the night had brightened into dawn (rajanyāṃ vyuṣṭāyām), Lakṣmaṇa, crushed in spirit (dīna-cetanaḥ), spoke these words to Sumantra with a parched countenance (mukhena pariśuṣyatā):
+Then, when the night had brightened into dawn (_rajanyāṃ vyuṣṭāyām_), Lakṣmaṇa, crushed in spirit (_dīna-cetanaḥ_), spoke these words to Sumantra with a parched countenance (_mukhena pariśuṣyatā_):
 </details>
 </details>
 
@@ -86,9 +86,9 @@ Then, when the night had brightened into dawn (rajanyāṃ vyuṣṭāyām), Lak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “O charioteer (sārathe), swiftly harness the steeds to the finest chariot (turagāñ chīghraṃ yojayasva rathottame), and from the royal palace (rājabhavanāt) prepare a well-cushioned seat for Sītā (svāstīrṇaṃ ... sītāyāś cāsanaṃ kuru).
+**2:** “O charioteer (_sārathe_), swiftly harness the steeds to the finest chariot (_turagāñ chīghraṃ yojayasva rathottame_), and from the royal palace (_rājabhavanāt_) prepare a well-cushioned seat for Sītā (_svāstīrṇaṃ ... sītāyāś cāsanaṃ kuru_).
 
-**3:** “For at the king’s command (rāja-vacanāt), Sītā must be conducted by me (mayā neyā) to the hermitage of the great sages of holy deeds (āśramaṃ puṇya-karmaṇām maharṣīṇām); let the chariot be brought at once (śīghram ānīyatāṃ rathaḥ)!”
+**3:** “For at the king’s command (_rāja-vacanāt_), Sītā must be conducted by me (_mayā neyā_) to the hermitage of the great sages of holy deeds (_āśramaṃ puṇya-karmaṇām maharṣīṇām_); let the chariot be brought at once (_śīghram ānīyatāṃ rathaḥ_)!”
 </details>
 </details>
 
@@ -119,7 +119,7 @@ Then, when the night had brightened into dawn (rajanyāṃ vyuṣṭāyām), Lak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it,” Sumantra brought forth that chariot, yoked with supreme steeds (yuktaṃ parama-vājibhiḥ), radiant in wondrous beauty (surucira-prakhyam), and smoothly spread with a comfortable couch (svāstīrṇaṃ sukha-śayyayā),
+Saying “So be it,” Sumantra brought forth that chariot, yoked with supreme steeds (_yuktaṃ parama-vājibhiḥ_), radiant in wondrous beauty (_surucira-prakhyam_), and smoothly spread with a comfortable couch (_svāstīrṇaṃ sukha-śayyayā_),
 </details>
 </details>
 
@@ -150,7 +150,7 @@ Saying “So be it,” Sumantra brought forth that chariot, yoked with supreme s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And addressed Saumitri, enhancer of the honor of his friends (mitrāṇāṃ māna-vardhanam): “This chariot has arrived (ratho ’yaṃ samanuprāptaḥ); let whatever is to be done be performed, O lord (yat kāryaṃ kriyatāṃ prabho)!”
+And addressed Saumitri, enhancer of the honor of his friends (_mitrāṇāṃ māna-vardhanam_): “This chariot has arrived (_ratho ’yaṃ samanuprāptaḥ_); let whatever is to be done be performed, O lord (_yat kāryaṃ kriyatāṃ prabho_)!”
 </details>
 </details>
 
@@ -181,7 +181,7 @@ And addressed Saumitri, enhancer of the honor of his friends (mitrāṇāṃ mā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Sumantra, Lakṣmaṇa, bull among men (nararṣabhaḥ), entered the royal palace (rājaveśmani praviśya), approached Sītā (sītām āsādya), and spoke to her:
+Thus addressed by Sumantra, Lakṣmaṇa, bull among men (_nararṣabhaḥ_), entered the royal palace (_rājaveśmani praviśya_), approached Sītā (_sītām āsādya_), and spoke to her:
 </details>
 </details>
 
@@ -220,7 +220,7 @@ Told that Rāma has granted her wish to visit the Gaṅgā hermitages, Sītā re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You indeed asked a boon of this sovereign lord (varaṃ vai yācitaḥ prabhuḥ), and it has been promised by the king (nṛpeṇa ca pratijñātam), and I have been commanded (ājñaptaś ca) regarding the hermitage (āśramaṃ prati).
+“You indeed asked a boon of this sovereign lord (_varaṃ vai yācitaḥ prabhuḥ_), and it has been promised by the king (_nṛpeṇa ca pratijñātam_), and I have been commanded (_ājñaptaś ca_) regarding the hermitage (_āśramaṃ prati_).
 </details>
 </details>
 
@@ -257,7 +257,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O noble lady, having gone swiftly to the auspicious hermitages of the sages on the bank of the Gaṅgā (gaṅgātīre ... ṛṣīṇām āśramāñ chubhān), O Vaidehī, at the decree of our king (śāsanāt pārthivasya naḥ), you are to be conducted by me (mayā ... apaneyā bhaviṣyasi) into the forest frequented by ascetics (araṇye munibhir juṣṭe)!”
+“O noble lady, having gone swiftly to the auspicious hermitages of the sages on the bank of the Gaṅgā (_gaṅgātīre ... ṛṣīṇām āśramāñ chubhān_), O Vaidehī, at the decree of our king (_śāsanāt pārthivasya naḥ_), you are to be conducted by me (_mayā ... apaneyā bhaviṣyasi_) into the forest frequented by ascetics (_araṇye munibhir juṣṭe_)!”
 </details>
 </details>
 
@@ -288,7 +288,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spoken to thus by the high-souled Lakṣmaṇa (lakṣmaṇena mahātmanā), Vaidehī felt incomparable delight (praharṣam atulaṃ lebhe) and gladly approved the journey (gamanaṃ cāpy arocayat).
+Spoken to thus by the high-souled Lakṣmaṇa (_lakṣmaṇena mahātmanā_), Vaidehī felt incomparable delight (_praharṣam atulaṃ lebhe_) and gladly approved the journey (_gamanaṃ cāpy arocayat_).
 </details>
 </details>
 
@@ -323,9 +323,9 @@ Spoken to thus by the high-souled Lakṣmaṇa (lakṣmaṇena mahātmanā), Vai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Gathering precious garments (vāsāṃsi ca mahārhāṇi) and manifold gems (ratnāni vividhāni ca), Vaidehī prepared to set forth (gamanāyopacakrame).
+**10:** Gathering precious garments (_vāsāṃsi ca mahārhāṇi_) and manifold gems (_ratnāni vividhāni ca_), Vaidehī prepared to set forth (_gamanāyopacakrame_).
 
-**11:** “These ornaments (ābharaṇāni), and these costly garments (vastrāṇi ca mahārhāṇi) and varied treasures (dhanāni vividhāni ca), I shall bestow upon the wives of the sages (munipatnīnāṃ dāsyāmy ... aham)!”
+**11:** “These ornaments (_ābharaṇāni_), and these costly garments (_vastrāṇi ca mahārhāṇi_) and varied treasures (_dhanāni vividhāni ca_), I shall bestow upon the wives of the sages (_munipatnīnāṃ dāsyāmy ... aham_)!”
 </details>
 </details>
 
@@ -356,7 +356,7 @@ Spoken to thus by the high-souled Lakṣmaṇa (lakṣmaṇena mahātmanā), Vai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it,” Saumitri helped Maithilī ascend the chariot (ratham āropya maithilīm) and set out with swift steeds (prayayau śīghra-turagaiḥ), keeping Rāma’s command ever in mind (rāmasyājñām anusmaran).
+Saying “So be it,” Saumitri helped Maithilī ascend the chariot (_ratham āropya maithilīm_) and set out with swift steeds (_prayayau śīghra-turagaiḥ_), keeping Rāma’s command ever in mind (_rāmasyājñām anusmaran_).
 </details>
 </details>
 
@@ -397,9 +397,9 @@ Struck by evil omens—a throbbing eye, trembling limbs, and a vision of an empt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Then Sītā spoke to Lakṣmaṇa, enhancer of good fortune (lakṣmi-vardhanam): “Many ill omens indeed do I behold (aśubhāni bahūny eva paśyāmi), O delight of the Raghus (raghunandana)!
+**13:** Then Sītā spoke to Lakṣmaṇa, enhancer of good fortune (_lakṣmi-vardhanam_): “Many ill omens indeed do I behold (_aśubhāni bahūny eva paśyāmi_), O delight of the Raghus (_raghunandana_)!
 
-**14:** “My eye throbs today (nayanaṃ me sphuraty adya), a trembling seizes my limbs (gātrotkampaś ca jāyate), and my very heart, O Saumitri, I feel as though unsettled (hṛdayaṃ caiva ... asvastham iva lakṣaye).
+**14:** “My eye throbs today (_nayanaṃ me sphuraty adya_), a trembling seizes my limbs (_gātrotkampaś ca jāyate_), and my very heart, O Saumitri, I feel as though unsettled (_hṛdayaṃ caiva ... asvastham iva lakṣaye_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ Struck by evil omens—a throbbing eye, trembling limbs, and a vision of an empt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Extreme restlessness (autsukyaṃ paramam) and utter loss of composure (adhṛtiś ca parā) beset me, and I behold the whole earth as though empty (śūnyām eva ca paśyāmi pṛthivīm), O wide-eyed one (pṛthu-locana).
+“Extreme restlessness (_autsukyaṃ paramam_) and utter loss of composure (_adhṛtiś ca parā_) beset me, and I behold the whole earth as though empty (_śūnyām eva ca paśyāmi pṛthivīm_), O wide-eyed one (_pṛthu-locana_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ Struck by evil omens—a throbbing eye, trembling limbs, and a vision of an empt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May all be well (api svasti bhavet) with that brother of yours, O brother-devoted one (bhrātṛ-vatsala), and with all my mothers-in-law without exception (śvaśrūṇāṃ caiva me ... sarvāsām aviśeṣataḥ), O hero!
+“May all be well (_api svasti bhavet_) with that brother of yours, O brother-devoted one (_bhrātṛ-vatsala_), and with all my mothers-in-law without exception (_śvaśrūṇāṃ caiva me ... sarvāsām aviśeṣataḥ_), O hero!
 </details>
 </details>
 
@@ -492,7 +492,7 @@ Struck by evil omens—a throbbing eye, trembling limbs, and a vision of an empt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And may welfare abide for all living beings in the city and the countryside alike (pure janapade caiva kuśalaṃ prāṇinām api)!” Thus, with palms joined in reverence (añjali-kṛtā), Sītā entreated the gods (devatā abhyayācata).
+“And may welfare abide for all living beings in the city and the countryside alike (_pure janapade caiva kuśalaṃ prāṇinām api_)!” Thus, with palms joined in reverence (_añjali-kṛtā_), Sītā entreated the gods (_devatā abhyayācata_).
 </details>
 </details>
 
@@ -529,7 +529,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that portentous speech (arthaṃ tataḥ śrutvā), Lakṣmaṇa bowed his head in reverence to Maithilī (śirasā vandya maithilīm) and answered “All is auspicious!” (śivam ity abravīt), appearing cheerful (hṛṣṭaḥ) even as his heart withered within (hṛdayena viśuṣyatā).
+Hearing that portentous speech (_arthaṃ tataḥ śrutvā_), Lakṣmaṇa bowed his head in reverence to Maithilī (_śirasā vandya maithilīm_) and answered “All is auspicious!” (_śivam ity abravīt_), appearing cheerful (_hṛṣṭaḥ_) even as his heart withered within (_hṛdayena viśuṣyatā_).
 </details>
 </details>
 
@@ -568,7 +568,7 @@ After resting overnight at a hermitage beside the Gomatī, Lakṣmaṇa rises at
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having taken up lodging at a hermitage on the bank of the Gomatī (gomatītīra āśrame), Saumitri rose again at dawn (prabhāte punar utthāya) and spoke to the charioteer (sūtam abravīt):
+Then, having taken up lodging at a hermitage on the bank of the Gomatī (_gomatītīra āśrame_), Saumitri rose again at dawn (_prabhāte punar utthāya_) and spoke to the charioteer (_sūtam abravīt_):
 </details>
 </details>
 
@@ -599,7 +599,7 @@ Then, having taken up lodging at a hermitage on the bank of the Gomatī (gomatī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Harness the chariot swiftly (yojayasva rathaṃ śīghram)! Today I shall bear the waters of the Bhāgīrathī upon my head (śirasā dhārayiṣyāmi), even as Tryambaka [Śiva] did upon the mountain (tryambakaḥ parvate yathā)!”
+“Harness the chariot swiftly (_yojayasva rathaṃ śīghram_)! Today I shall bear the waters of the Bhāgīrathī upon my head (_śirasā dhārayiṣyāmi_), even as Tryambaka [Śiva] did upon the mountain (_tryambakaḥ parvate yathā_)!”
 </details>
 </details>
 
@@ -630,7 +630,7 @@ Then, having taken up lodging at a hermitage on the bank of the Gomatī (gomatī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having then harnessed the four mind-swift steeds to the chariot with their reins (aśvān rajvātha caturo rathe yuṅktvā manojavān), the charioteer stood with joined palms (prāñjaliḥ) and said to Vaidehī: “Pray ascend (ārohasva)!”
+Having then harnessed the four mind-swift steeds to the chariot with their reins (_aśvān rajvātha caturo rathe yuṅktvā manojavān_), the charioteer stood with joined palms (_prāñjaliḥ_) and said to Vaidehī: “Pray ascend (_ārohasva_)!”
 </details>
 </details>
 
@@ -663,9 +663,9 @@ Having then harnessed the four mind-swift steeds to the chariot with their reins
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** At the charioteer’s word (sūtasya vacanāt), Sītā ascended that finest chariot (āruroha rathottamam) together with Saumitri and the wise Sumantra (saumitriṇā sārdhaṃ sumantreṇa ca dhīmatā),
+**22:** At the charioteer’s word (_sūtasya vacanāt_), Sītā ascended that finest chariot (_āruroha rathottamam_) together with Saumitri and the wise Sumantra (_saumitriṇā sārdhaṃ sumantreṇa ca dhīmatā_),
 
-**23:** And the large-eyed queen reached the sin-destroying Gaṅgā (āsasāda viśālākṣī gaṅgāṃ pāpa-vināśinīm). Then, having journeyed half a day (ardha-divasaṃ gatvā) and beholding the vast watery expanse of the Bhāgīrathī (bhāgīrathyā jalāśayam nirīkṣya), Lakṣmaṇa, wretched with grief (dīnaḥ), broke into loud weeping (praruroda mahāsvanaḥ).
+**23:** And the large-eyed queen reached the sin-destroying Gaṅgā (_āsasāda viśālākṣī gaṅgāṃ pāpa-vināśinīm_). Then, having journeyed half a day (_ardha-divasaṃ gatvā_) and beholding the vast watery expanse of the Bhāgīrathī (_bhāgīrathyā jalāśayam nirīkṣya_), Lakṣmaṇa, wretched with grief (_dīnaḥ_), broke into loud weeping (_praruroda mahāsvanaḥ_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ Distressed by Lakṣmaṇa’s tears at the long-desired Gaṅgā, Sītā affect
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sītā, deeply distressed (paramāyattā) yet knowing dharma (dharmajñā), spoke these words: “Why is it that you are weeping thus (kim idaṃ rudyate tvayā)?
+Beholding Lakṣmaṇa thus afflicted (_dṛṣṭvā lakṣmaṇam āturam_), Sītā, deeply distressed (_paramāyattā_) yet knowing dharma (_dharmajñā_), spoke these words: “Why is it that you are weeping thus (_kim idaṃ rudyate tvayā_)?
 </details>
 </details>
 
@@ -739,9 +739,9 @@ Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “Having reached the bank of the Jāhnavī, long desired by me (jāhnavī-tīram āsādya cirābhilaṣitaṃ mama), why do you sadden me at this moment of joy (harṣa-kāle kim arthaṃ māṃ viṣādayasi), O Lakṣmaṇa?
+**25:** “Having reached the bank of the Jāhnavī, long desired by me (_jāhnavī-tīram āsādya cirābhilaṣitaṃ mama_), why do you sadden me at this moment of joy (_harṣa-kāle kim arthaṃ māṃ viṣādayasi_), O Lakṣmaṇa?
 
-**26:** “Ever do you abide at Rāma’s side (nityaṃ tvaṃ rāma-pārśveṣu vartase), O bull among men (puruṣarṣabha); can it be that, parted from him for two nights (kaccid vinākṛtas tena dvirātram), you have fallen into grief (śokam āgataḥ)?
+**26:** “Ever do you abide at Rāma’s side (_nityaṃ tvaṃ rāma-pārśveṣu vartase_), O bull among men (_puruṣarṣabha_); can it be that, parted from him for two nights (_kaccid vinākṛtas tena dvirātram_), you have fallen into grief (_śokam āgataḥ_)?
 </details>
 </details>
 
@@ -772,7 +772,7 @@ Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To me too is Rāma dearer than life itself (dayito rāmo jīvitād api), O Lakṣmaṇa! Yet I do not grieve like this (na cāham evaṃ śocāmi); do not behave so childishly (maivaṃ tvaṃ bāliśo bhava)!
+“To me too is Rāma dearer than life itself (_dayito rāmo jīvitād api_), O Lakṣmaṇa! Yet I do not grieve like this (_na cāham evaṃ śocāmi_); do not behave so childishly (_maivaṃ tvaṃ bāliśo bhava_)!
 </details>
 </details>
 
@@ -803,7 +803,7 @@ Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ferry me across the Gaṅgā (tārayasva ca māṃ gaṅgām) and show me the ascetics (darśayasva ca tāpasān); then I shall bestow garments and ornaments upon the sages (tato munibhyo dāsyāmi vāsāṃsy ābharaṇāni ca)!
+“Ferry me across the Gaṅgā (_tārayasva ca māṃ gaṅgām_) and show me the ascetics (_darśayasva ca tāpasān_); then I shall bestow garments and ornaments upon the sages (_tato munibhyo dāsyāmi vāsāṃsy ābharaṇāni ca_)!
 </details>
 </details>
 
@@ -842,7 +842,7 @@ Promising to stay only one night before returning to her lotus-eyed lord, Sītā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having offered fitting salutations to the great sages (maharṣīṇāṃ yathārham abhivādanam) and having spent a single night there (tatra caikāṃ niśām uṣya), we shall return once more to that city (yāsyāmas tāṃ purīṃ punaḥ).
+“Then, having offered fitting salutations to the great sages (_maharṣīṇāṃ yathārham abhivādanam_) and having spent a single night there (_tatra caikāṃ niśām uṣya_), we shall return once more to that city (_yāsyāmas tāṃ purīṃ punaḥ_).
 </details>
 </details>
 
@@ -873,7 +873,7 @@ Promising to stay only one night before returning to her lotus-eyed lord, Sītā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For my heart too hastens to behold Rāma (tvarate hi mano draṣṭuṃ rāmam)—the lotus-petal-eyed (padma-patrākṣam), lion-chested (siṃhoraskam), slender-waisted (kṛśodaram) foremost of those who bring delight (ramayatāṃ varam)!”
+“For my heart too hastens to behold Rāma (_tvarate hi mano draṣṭuṃ rāmam_)—the lotus-petal-eyed (_padma-patrākṣam_), lion-chested (_siṃhoraskam_), slender-waisted (_kṛśodaram_) foremost of those who bring delight (_ramayatāṃ varam_)!”
 </details>
 </details>
 
@@ -904,7 +904,7 @@ Promising to stay only one night before returning to her lotus-eyed lord, Sītā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of hers, Lakṣmaṇa, slayer of hostile heroes (paravīrahā), wiped his fair eyes (pramṛjya nayane śubhe) and summoned the boatmen (nāvikān āhvayāmāsa); and the ferrymen spoke with joined palms: “Here indeed is a boat made ready (iyaṃ ca sajjā nauḥ)!”
+Hearing those words of hers, Lakṣmaṇa, slayer of hostile heroes (_paravīrahā_), wiped his fair eyes (_pramṛjya nayane śubhe_) and summoned the boatmen (_nāvikān āhvayāmāsa_); and the ferrymen spoke with joined palms: “Here indeed is a boat made ready (_iyaṃ ca sajjā nauḥ_)!”
 </details>
 </details>
 
@@ -941,7 +941,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to cross the Gaṅgā (titīrṣur lakṣmaṇo gaṅgām), Lakṣmaṇa approached the auspicious vessel (śubhāṃ nāvam upāruhat), and with composed concentration (samāhitaḥ) Lakṣmaṇa ferried her across the Gaṅgā (gaṅgāṃ santārayāmāsa ... tām).
+Desiring to cross the Gaṅgā (_titīrṣur lakṣmaṇo gaṅgām_), Lakṣmaṇa approached the auspicious vessel (_śubhāṃ nāvam upāruhat_), and with composed concentration (_samāhitaḥ_) Lakṣmaṇa ferried her across the Gaṅgā (_gaṅgāṃ santārayāmāsa ... tām_).
 </details>
 </details>
 

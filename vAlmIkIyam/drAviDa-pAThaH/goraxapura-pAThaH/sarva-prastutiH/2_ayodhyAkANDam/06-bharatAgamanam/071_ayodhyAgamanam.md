@@ -109,9 +109,9 @@ reach Ayodhya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having gone forth eastward from Rājagṛha (sa prāṅ-mukho rājagṛhād abhiniryāya rāghavaḥ), that radiant descendant of Raghu then beheld and crossed over the Sudāmā river (tatas sudāmāṃ dyutimān santīryāvekṣya tāṃ nadīm).
+**1:** Having gone forth eastward from Rājagṛha (_sa prāṅ-mukho rājagṛhād abhiniryāya rāghavaḥ_), that radiant descendant of Raghu then beheld and crossed over the Sudāmā river (_tatas sudāmāṃ dyutimān santīryāvekṣya tāṃ nadīm_).
 
-**2:** The glorious delight of the Ikṣvākus crossed the wide-banked, west-flowing billowy river Hlādinī (hlādinīṃ dūra-pārāṃ ca pratyak-srotas-taraṅgiṇīm) and the river Śatadrū (śatadrūm atarac chrīmān nadīm ikṣvāku-nandanaḥ).
+**2:** The glorious delight of the Ikṣvākus crossed the wide-banked, west-flowing billowy river Hlādinī (_hlādinīṃ dūra-pārāṃ ca pratyak-srotas-taraṅgiṇīm_) and the river Śatadrū (_śatadrūm atarac chrīmān nadīm ikṣvāku-nandanaḥ_).
 </details>
 </details>
 
@@ -145,7 +145,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having crossed the river at Ailādhāna and reached the country of the Aparaparpaṭas (ailādhāne nadīṃ tīrtvā prāpya cāparaparpaṭān), and having crossed the petrifying river toward the south-eastern tract of Śalyakarṣaṇa (śilām akurvatīṃ tīrtvā āgneyaṃ śalya-karṣaṇam),
+Having crossed the river at Ailādhāna and reached the country of the Aparaparpaṭas (_ailādhāne nadīṃ tīrtvā prāpya cāparaparpaṭān_), and having crossed the petrifying river toward the south-eastern tract of Śalyakarṣaṇa (_śilām akurvatīṃ tīrtvā āgneyaṃ śalya-karṣaṇam_),
 </details>
 </details>
 
@@ -201,7 +201,7 @@ and traveled towards the woods of Chitraratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-true to his pledge, pure, and glorious, gazing upon the Śilāvahā river (satya-sandhaś śuciś śrīmān prekṣamāṇaś śilāvahām), he passed beyond the great mountains toward the Caitraratha forest (atyayāt sa mahā-śailān vanaṃ caitrarathaṃ prati).
+true to his pledge, pure, and glorious, gazing upon the Śilāvahā river (_satya-sandhaś śuciś śrīmān prekṣamāṇaś śilāvahām_), he passed beyond the great mountains toward the Caitraratha forest (_atyayāt sa mahā-śailān vanaṃ caitrarathaṃ prati_).
 </details>
 </details>
 
@@ -256,7 +256,7 @@ of Bharmuda, the north of Viramatsaya region.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the Sarasvatī and the Gaṅgā at their confluence (sarasvatīṃ ca gaṅgāṃ ca yugmena pratipadya ca), he entered the Bhāruṇḍa forest to the north of the Vīramatsya country (uttarān vīra-matsyānāṃ bhāruṇḍaṃ prāviśad vanam).
+Having reached the Sarasvatī and the Gaṅgā at their confluence (_sarasvatīṃ ca gaṅgāṃ ca yugmena pratipadya ca_), he entered the Bhāruṇḍa forest to the north of the Vīramatsya country (_uttarān vīra-matsyānāṃ bhāruṇḍaṃ prāviśad vanam_).
 </details>
 </details>
 
@@ -312,7 +312,7 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the Yamunā and crossed the swift, gladdening river Kuliṅgā hemmed in by mountains (veginīṃ ca kuliṅgākhyāṃ hlādinīṃ parvatāvṛtām yamunāṃ prāpya santīrṇaḥ), he refreshed his army there (balam āśvāsayat tadā).
+Having reached the Yamunā and crossed the swift, gladdening river Kuliṅgā hemmed in by mountains (_veginīṃ ca kuliṅgākhyāṃ hlādinīṃ parvatāvṛtām yamunāṃ prāpya santīrṇaḥ_), he refreshed his army there (_balam āśvāsayat tadā_).
 </details>
 </details>
 
@@ -395,9 +395,9 @@ excellent chariot as the wind glides through an atmosphere.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Having cooled the limbs of his exhausted steeds and refreshed them (sa śītī-kṛtya gātrāṇi klāntān āśvāsya vājinaḥ), and having bathed there and drunk, he set forth, taking water with him (tatra snātvā ca pītvā ca prāyād ādāya codakam).
+**7:** Having cooled the limbs of his exhausted steeds and refreshed them (_sa śītī-kṛtya gātrāṇi klāntān āśvāsya vājinaḥ_), and having bathed there and drunk, he set forth, taking water with him (_tatra snātvā ca pītvā ca prāyād ādāya codakam_).
 
-**8:** By a noble conveyance, that noble prince passed across the great wilderness little frequented by men (rāja-putro mahāraṇyam anabhīkṣṇopasevitam bhadro bhadreṇa yānena), like the wind speeding across the sky (mārutaḥ kham ivātyayāt).
+**8:** By a noble conveyance, that noble prince passed across the great wilderness little frequented by men (_rāja-putro mahāraṇyam anabhīkṣṇopasevitam bhadro bhadreṇa yānena_), like the wind speeding across the sky (_mārutaḥ kham ivātyayāt_).
 </details>
 </details>
 
@@ -449,7 +449,7 @@ the city of pragvata in the region of Amsudhana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Finding the great river Bhāgīrathī difficult to cross at Aṃśudhāna (bhāgīrathīṃ duṣpratarām aṃśudhāne mahā-nadīm), Rāghava swiftly drew near the renowned town of Prāgvaṭa (upāyād rāghavas tūrṇaṃ prāgvaṭe viśrute pure).
+Finding the great river Bhāgīrathī difficult to cross at Aṃśudhāna (_bhāgīrathīṃ duṣpratarām aṃśudhāne mahā-nadīm_), Rāghava swiftly drew near the renowned town of Prāgvaṭa (_upāyād rāghavas tūrṇaṃ prāgvaṭe viśrute pure_).
 </details>
 </details>
 
@@ -503,7 +503,7 @@ Dharmavardhana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having crossed the Gaṅgā at Prāgvaṭa, he came to the Kuṭikoṣṭhikā river (sa gaṅgāṃ prāgvaṭe tīrtvā samāyāt kuṭikoṣṭhikām); having crossed her with his army, he then reached Dharmavardhana (sa-balas tāṃ sa tīrtvātha samāyād dharmavardhanam).
+Having crossed the Gaṅgā at Prāgvaṭa, he came to the Kuṭikoṣṭhikā river (_sa gaṅgāṃ prāgvaṭe tīrtvā samāyāt kuṭikoṣṭhikām_); having crossed her with his army, he then reached Dharmavardhana (_sa-balas tāṃ sa tīrtvātha samāyād dharmavardhanam_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ region and from there he arrived at a beautiful village too, named Varutha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By way of the southern half of Toraṇa, the son of Daśaratha came to Jambūprastha (toraṇaṃ dakṣiṇārdhena jambūprastham upāgamat) and went on to the lovely village of Varūtha (varūthaṃ ca yayau ramyaṃ grāmaṃ daśarathātmajaḥ).
+By way of the southern half of Toraṇa, the son of Daśaratha came to Jambūprastha (_toraṇaṃ dakṣiṇārdhena jambūprastham upāgamat_) and went on to the lovely village of Varūtha (_varūthaṃ ca yayau ramyaṃ grāmaṃ daśarathātmajaḥ_).
 </details>
 </details>
 
@@ -611,7 +611,7 @@ reached a garden in the city of Ujjihana, in which there are a number of Kadamba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spent the night there in a pleasant wood, he proceeded eastward (tatra ramye vane vāsaṃ kṛtvāsau prāṅ-mukho yayau) to the park of the town Ujjihānā, where priyaka trees grow (udyānam ujjihānāyāḥ priyakā yatra pādapāḥ).
+Having spent the night there in a pleasant wood, he proceeded eastward (_tatra ramye vane vāsaṃ kṛtvāsau prāṅ-mukho yayau_) to the park of the town Ujjihānā, where _priyaka_ trees grow (_udyānam ujjihānāyāḥ priyakā yatra pādapāḥ_).
 </details>
 </details>
 
@@ -672,7 +672,7 @@ allowed his army to come after him and quickly went ahead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached those priyaka trees and mounted swift steeds (sālāṃs tu priyakān prāpya śīghrān āsthāya vājinaḥ), Bharata then gave leave to his army to follow and sped ahead in haste (anujñāpyātha bharato vāhinīṃ tvarito yayau).
+Having reached those _priyaka_ trees and mounted swift steeds (_sālāṃs tu priyakān prāpya śīghrān āsthāya vājinaḥ_), Bharata then gave leave to his army to follow and sped ahead in haste (_anujñāpyātha bharato vāhinīṃ tvarito yayau_).
 </details>
 </details>
 
@@ -739,9 +739,9 @@ and traversed kapivati river at Lohitya village.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Having halted for the night at Sarvatīrtha and crossed the Uttānikā river (vāsaṃ kṛtvā sarvatīrthe tīrtvā cottānikāṃ nadīm) and various other rivers with mountain-bred steeds (anyā nadīś ca vividhāḥ pārvatīyais turaṅgamaiḥ),
+**14:** Having halted for the night at Sarvatīrtha and crossed the Uttānikā river (_vāsaṃ kṛtvā sarvatīrthe tīrtvā cottānikāṃ nadīm_) and various other rivers with mountain-bred steeds (_anyā nadīś ca vividhāḥ pārvatīyais turaṅgamaiḥ_),
 
-**15:** reaching Hastipṛṣṭhaka, he crossed over the Kuṭikā river (hastipṛṣṭhakam āsādya kuṭikām atyavartata); and at Lauhitya that tiger among men crossed the Kapīvatī (tatāra ca nara-vyāghro lauhitye sa kapīvatīm).
+**15:** reaching Hastipṛṣṭhaka, he crossed over the Kuṭikā river (_hastipṛṣṭhakam āsādya kuṭikām atyavartata_); and at Lauhitya that tiger among men crossed the Kapīvatī (_tatāra ca nara-vyāghro lauhitye sa kapīvatīm_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ tired and then proceeded quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crossing the Sthāṇumatī at Ekasāla and the Gomatī river at Vinata (ekasāle sthāṇumatīṃ vinate gomatīṃ nadīm), and reaching the śāla forest at Kaliṅganagara as well at that time (kaliṅga-nagare cāpi prāpya sāla-vanaṃ tadā),
+Crossing the Sthāṇumatī at Ekasāla and the Gomatī river at Vinata (_ekasāle sthāṇumatīṃ vinate gomatīṃ nadīm_), and reaching the _śāla_ forest at Kaliṅganagara as well at that time (_kaliṅga-nagare cāpi prāpya sāla-vanaṃ tadā_),
 </details>
 </details>
 
@@ -871,9 +871,9 @@ the tiger among men, spoke the following words to his charioteer:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Bharata arrived swiftly with his mounts utterly exhausted (bharataḥ kṣipram āgacchat supariśrānta-vāhanaḥ); and having swiftly passed beyond the forest during the night, at the rising of dawn (vanaṃ ca samatītyāśu śarvaryām aruṇodaye),
+**17:** Bharata arrived swiftly with his mounts utterly exhausted (_bharataḥ kṣipram āgacchat supariśrānta-vāhanaḥ_); and having swiftly passed beyond the forest during the night, at the rising of dawn (_vanaṃ ca samatītyāśu śarvaryām aruṇodaye_),
 
-**18:** that tiger among men, having spent seven nights on the road, beheld that city of Ayodhyā built by King Manu (ayodhyāṃ manunā rājñā nirmitāṃ sandadarśa ha tāṃ purīṃ puruṣa-vyāghras sapta-rātroṣitaḥ pathi).
+**18:** that tiger among men, having spent seven nights on the road, beheld that city of Ayodhyā built by King Manu (_ayodhyāṃ manunā rājñā nirmitāṃ sandadarśa ha tāṃ purīṃ puruṣa-vyāghras sapta-rātroṣitaḥ pathi_).
 </details>
 </details>
 
@@ -946,9 +946,9 @@ Brahmins inmost abundant reaches , It is being ruled by a royal sage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Beholding Ayodhyā in front of him, he spoke this word to his charioteer (ayodhyām agrato dṛṣṭvā sārathiṃ vākyam abravīt): “This renowned city with its sacred parks does not appear very joyful to me (eṣā nātipratītā me puṇyodyānā yaśasvinī).
+**19:** Beholding Ayodhyā in front of him, he spoke this word to his charioteer (_ayodhyām agrato dṛṣṭvā sārathiṃ vākyam abravīt_): “This renowned city with its sacred parks does not appear very joyful to me (_eṣā nātipratītā me puṇyodyānā yaśasvinī_).
 
-**20:** “Ayodhyā is seen from afar with pale, unsmeared earth, O charioteer (ayodhyā dṛśyate dūrāt sārathe pāṇḍu-mṛttikā)—she who is thronged with virtuous sacrificers and Brāhmaṇas who have mastered the Vedas (yajvabhir guṇa-sampannair brāhmaṇair veda-pāragaiḥ),
+**20:** “Ayodhyā is seen from afar with pale, unsmeared earth, O charioteer (_ayodhyā dṛśyate dūrāt sārathe pāṇḍu-mṛttikā_)—she who is thronged with virtuous sacrificers and Brāhmaṇas who have mastered the Vedas (_yajvabhir guṇa-sampannair brāhmaṇair veda-pāragaiḥ_),
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ Ayodhya. Now, I am not hearing that voice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“crowded abundantly with prosperous men and protected by royal sages (bhūyiṣṭham ṛddhair ākīrṇā rājarṣi-paripālitā)! Formerly in Ayodhyā a great, tumultuous sound was ever heard (ayodhyāyāṃ purā śabdaś śrūyate tumulo mahān)
+“crowded abundantly with prosperous men and protected by royal sages (_bhūyiṣṭham ṛddhair ākīrṇā rājarṣi-paripālitā_)! Formerly in Ayodhyā a great, tumultuous sound was ever heard (_ayodhyāyāṃ purā śabdaś śrūyate tumulo mahān_)
 </details>
 </details>
 
@@ -1072,9 +1072,9 @@ me, the city appears to have changed into a forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “of men and women on every side; that sound I do not hear today (samantān nara-nārīṇāṃ tam adya na śṛṇomy aham). For the pleasure-parks, which at other times shone with men who had ceased sporting after evening (udyānāni hi sāyāhne krīḍitvoparatair naraiḥ)
+**22:** “of men and women on every side; that sound I do not hear today (_samantān nara-nārīṇāṃ tam adya na śṛṇomy aham_). For the pleasure-parks, which at other times shone with men who had ceased sporting after evening (_udyānāni hi sāyāhne krīḍitvoparatair naraiḥ_)
 
-**23:** “and were hastening away on every side, appear quite otherwise to me (samantāt paridhāvadbhiḥ prakāśante mamānyathā); forsaken by lovers today, they seem to be weeping in sympathy (tāny adyānurudantīva parityaktāni kāmibhiḥ).
+**23:** “and were hastening away on every side, appear quite otherwise to me (_samantāt paridhāvadbhiḥ prakāśante mamānyathā_); forsaken by lovers today, they seem to be weeping in sympathy (_tāny adyānurudantīva parityaktāni kāmibhiḥ_).
 </details>
 </details>
 
@@ -1132,7 +1132,7 @@ coming out it in carriages or on horses or on elephants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The city appears to me as though turned into a wilderness, O charioteer (araṇya-bhūteva purī sārathe pratibhāti me); for here the foremost of men are seen neither with carriages, nor with elephants, nor with horses (na hy atra yānair dṛśyante na gajair na ca vājibhiḥ),
+“The city appears to me as though turned into a wilderness, O charioteer (_araṇya-bhūteva purī sārathe pratibhāti me_); for here the foremost of men are seen neither with carriages, nor with elephants, nor with horses (_na hy atra yānair dṛśyante na gajair na ca vājibhiḥ_),
 </details>
 </details>
 
@@ -1205,9 +1205,9 @@ trees having their leaves fallen along the road, looking like picture of dismay.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “going forth or coming in as before (niryānto vābhiyānto vā nara-mukhyā yathā-puram). Formerly the pleasure-parks shone, joyous and full of intoxicated bees and cuckoos (udyānāni purā bhānti matta-pramuditāni ca),
+**25:** “going forth or coming in as before (_niryānto vābhiyānto vā nara-mukhyā yathā-puram_). Formerly the pleasure-parks shone, joyous and full of intoxicated bees and cuckoos (_udyānāni purā bhānti matta-pramuditāni ca_),
 
-**26:** “and supremely endowed with every charm for the amorous gatherings of the people (janānāṃ rati-saṃyogeṣv atyanta-guṇavanti ca); those very parks I behold today utterly bereft of joy on every side (tāny etāny adya paśyāmi nirānandāni sarvaśaḥ)!
+**26:** “and supremely endowed with every charm for the amorous gatherings of the people (_janānāṃ rati-saṃyogeṣv atyanta-guṇavanti ca_); those very parks I behold today utterly bereft of joy on every side (_tāny etāny adya paśyāmi nirānandāni sarvaśaḥ_)!
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ birds intoxicated with happiness are not being heard."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With their trees along the pathways having shed their leaves and seeming to cry aloud (srasta-parṇair anupathaṃ vikrośadbhir iva drumaiḥ), not even now at daybreak is heard the sound of impassioned beasts and birds (nādyāpi śrūyate śabdo mattānāṃ mṛga-pakṣiṇām)
+“With their trees along the pathways having shed their leaves and seeming to cry aloud (_srasta-parṇair anupathaṃ vikrośadbhir iva drumaiḥ_), not even now at daybreak is heard the sound of impassioned beasts and birds (_nādyāpi śrūyate śabdo mattānāṃ mṛga-pakṣiṇām_)
 </details>
 </details>
 
@@ -1314,7 +1314,7 @@ intensified with the fume of burnt incense,not blow today.?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“uttering at length their impassioned, sweet, and melodious notes (saṃraktāṃ madhurāṃ vāṇīṃ kalaṃ vyāharatāṃ bahu). Why indeed does the glorious, peerless breeze—laden with sandal and aloe-wood and thickened with incense—not blow today as before (candanāgaru-sampṛkto dhūpa-sammūrchito 'tulaḥ...)?
+“uttering at length their impassioned, sweet, and melodious notes (_saṃraktāṃ madhurāṃ vāṇīṃ kalaṃ vyāharatāṃ bahu_). Why indeed does the glorious, peerless breeze—laden with sandal and aloe-wood and thickened with incense—not blow today as before (_candanāgaru-sampṛkto dhūpa-sammūrchito &#x27;tulaḥ..._)?
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ drum-sticks or palms or fingers stopped which formerly never ceased at any time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why does that glorious breeze not blow today as in former times (pravāti pavanaś śrīmān kin nu nādya yathā-puram)? And why is the sound of kettle-drums, mṛdaṅgas, and vīṇās, struck forth by drumsticks and plectrums (bherī-mṛdaṅga-vīṇānāṃ koṇa-saṅghaṭṭitaḥ punaḥ),
+“Why does that glorious breeze not blow today as in former times (_pravāti pavanaś śrīmān kin nu nādya yathā-puram_)? And why is the sound of kettle-drums, _mṛdaṅgas_, and _vīṇās_, struck forth by drumsticks and plectrums (_bherī-mṛdaṅga-vīṇānāṃ koṇa-saṅghaṭṭitaḥ punaḥ_),
 </details>
 </details>
 
@@ -1413,7 +1413,7 @@ dejected."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“which formerly was never faint in its course, ceased today (kim adya śabdo viratas sadādīna-gatiḥ purā)? Indeed, I behold various unwelcome and cruel portents (aniṣṭāni ca pāpāni paśyāmi vividhāni ca)—
+“which formerly was never faint in its course, ceased today (_kim adya śabdo viratas sadādīna-gatiḥ purā_)? Indeed, I behold various unwelcome and cruel portents (_aniṣṭāni ca pāpāni paśyāmi vividhāni ca_)—
 </details>
 </details>
 
@@ -1468,7 +1468,7 @@ indeed, even without anycause for a grievance, my spirit is cast down"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“unpleasant omens, wherefore my mind sinks (nimittāny amanojñāni tena sīdati me manaḥ)! By every reckoning, O charioteer, welfare is hard to find among my kinsmen (sarvathā kuśalaṃ sūta durlabhaṃ mama bandhuṣu);
+“unpleasant omens, wherefore my mind sinks (_nimittāny amanojñāni tena sīdati me manaḥ_)! By every reckoning, O charioteer, welfare is hard to find among my kinsmen (_sarvathā kuśalaṃ sūta durlabhaṃ mama bandhuṣu_);
 </details>
 </details>
 
@@ -1520,7 +1520,7 @@ ruled by the descendents of Ikshvaku.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“for even in the absence of any known cause for bewilderment, my heart seems to sink (tathā hy asati sammohe hṛdayaṃ sīdatīva me)!” Dejected, weary at heart, frightened, and with his senses sorely agitated (viṣaṇṇaś śrānta-hṛdayas trastas sululitendriyaḥ),
+“for even in the absence of any known cause for bewilderment, my heart seems to sink (_tathā hy asati sammohe hṛdayaṃ sīdatīva me_)!” Dejected, weary at heart, frightened, and with his senses sorely agitated (_viṣaṇṇaś śrānta-hṛdayas trastas sululitendriyaḥ_),
 </details>
 </details>
 
@@ -1573,7 +1573,7 @@ with slogans of victory by the standing gatekeepers, he went inside, along with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata swiftly entered the city protected by the Ikṣvākus (bharataḥ praviveśāśu purīm ikṣvāku-pālitām); with his mounts exhausted, he entered by the Vaijayanta gate (dvāreṇa vaijayantena prāviśac chrānta-vāhanaḥ).
+Bharata swiftly entered the city protected by the Ikṣvākus (_bharataḥ praviveśāśu purīm ikṣvāku-pālitām_); with his mounts exhausted, he entered by the Vaijayanta gate (_dvāreṇa vaijayantena prāviśac chrānta-vāhanaḥ_).
 </details>
 </details>
 
@@ -1630,7 +1630,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Greeted with wishes for victory by the gatekeepers who rose up, he went on accompanied by them (dvāḥ-sthair utthāya vijayaṃ pṛṣṭas tais sahito yayau); then, with his mind distracted, having courteously dismissed those gatekeepers (sa tv anekāgra-hṛdayo dvāḥ-sthaṃ pratyarcya taṃ janam),
+Greeted with wishes for victory by the gatekeepers who rose up, he went on accompanied by them (_dvāḥ-sthair utthāya vijayaṃ pṛṣṭas tais sahito yayau_); then, with his mind distracted, having courteously dismissed those gatekeepers (_sa tv anekāgra-hṛdayo dvāḥ-sthaṃ pratyarcya taṃ janam_),
 </details>
 </details>
 
@@ -1679,7 +1679,7 @@ mind is apprehending some evil. I lost my all energy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava spoke there to the weary charioteer of Aśvapati (sūtam aśvapateḥ klāntam abravīt tatra rāghavaḥ): “Why was I brought in haste without any stated reason, O sinless one (kim ahaṃ tvarayānītaḥ kāraṇena vinānagha)?
+Rāghava spoke there to the weary charioteer of Aśvapati (_sūtam aśvapateḥ klāntam abravīt tatra rāghavaḥ_): “Why was I brought in haste without any stated reason, O sinless one (_kim ahaṃ tvarayānītaḥ kāraṇena vinānagha_)?
 </details>
 </details>
 
@@ -1734,7 +1734,7 @@ seeing here all those signs."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My heart forebodes evil, and my fortitude seems to fall away (aśubhāśaṅki hṛdayaṃ śīlaṃ ca patatīva me); for such signs as were formerly heard of by us at the death of kings (śrutā no yādṛśāḥ pūrvaṃ nṛpatīnāṃ vināśane)—
+“My heart forebodes evil, and my fortitude seems to fall away (_aśubhāśaṅki hṛdayaṃ śīlaṃ ca patatīva me_); for such signs as were formerly heard of by us at the death of kings (_śrutā no yādṛśāḥ pūrvaṃ nṛpatīnāṃ vināśane_)—
 </details>
 </details>
 
@@ -1779,9 +1779,9 @@ Bharata points out the signs of royal calamity across Ayodhyā: unswept, lustrel
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**37:** “all those signs I behold here, O charioteer (ākārāṃs tān ahaṃ sarvān iha paśyāmi sārathe)! I observe the houses of the citizens unswept and rough-looking (sammārjana-vihīnāni paruṣāṇy upalakṣaye),
+**37:** “all those signs I behold here, O charioteer (_ākārāṃs tān ahaṃ sarvān iha paśyāmi sārathe_)! I observe the houses of the citizens unswept and rough-looking (_sammārjana-vihīnāni paruṣāṇy upalakṣaye_),
 
-**38:** “with their doors unfastened, utterly bereft of splendour (asaṃyata-kavāṭāni śrī-vihīnāni sarvaśaḥ), and devoid of bali-offerings and the fragrance of incense (bali-karma-vihīnāni dhūpa-sammodanena ca);
+**38:** “with their doors unfastened, utterly bereft of splendour (_asaṃyata-kavāṭāni śrī-vihīnāni sarvaśaḥ_), and devoid of _bali_-offerings and the fragrance of incense (_bali-karma-vihīnāni dhūpa-sammodanena ca_);
 </details>
 </details>
 
@@ -1834,7 +1834,7 @@ burned . Families are starving and people look miserably without any charming ap
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I behold the homes of householders with their families unfed, their people drained of lustre, and bereft of all auspiciousness (anāśita-kuṭumbāni prabhā-hīna-janāni ca alakṣmīkāni paśyāmi kuṭumbi-bhavanāny aham).
+“I behold the homes of householders with their families unfed, their people drained of lustre, and bereft of all auspiciousness (_anāśita-kuṭumbāni prabhā-hīna-janāni ca alakṣmīkāni paśyāmi kuṭumbi-bhavanāny aham_).
 </details>
 </details>
 
@@ -1908,9 +1908,9 @@ adorned with saleable flowers and garlands today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** “The temples of the gods, stripped of the beauty of flower-garlands, with their courtyards unswept, are deserted and do not shine as before (apeta-mālya-śobhāni hy asammṛṣṭājirāṇi ca devāgārāṇi śūnyāni na cābhānti yathā-puram);
+**40:** “The temples of the gods, stripped of the beauty of flower-garlands, with their courtyards unswept, are deserted and do not shine as before (_apeta-mālya-śobhāni hy asammṛṣṭājirāṇi ca devāgārāṇi śūnyāni na cābhānti yathā-puram_);
 
-**41:** “the worship of the deities is interrupted and the sacrificial halls are in the same state (devatārcāḥ praviddhāś ca yajña-goṣṭhyas tathā-vidhāḥ), nor do flower-wares shine today as before in the garland-stalls (mālyāpaṇeṣu rājante nādya paṇyāni vā tathā).
+**41:** “the worship of the deities is interrupted and the sacrificial halls are in the same state (_devatārcāḥ praviddhāś ca yajña-goṣṭhyas tathā-vidhāḥ_), nor do flower-wares shine today as before in the garland-stalls (_mālyāpaṇeṣu rājante nādya paṇyāni vā tathā_).
 </details>
 </details>
 
@@ -1966,9 +1966,9 @@ thoughts. They are not being seen here today, as before."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** “Even the merchants here are not seen today as before (dṛśyante vaṇijo 'py adya na yathā-pūrvam atra vai), their hearts distressed with anxious thought and their activity brought to a standstill by the cessation of trade (dhyāna-saṃvigna-hṛdayāḥ naṣṭa-vyāpāra-yantritāḥ).
+**42:** “Even the merchants here are not seen today as before (_dṛśyante vaṇijo &#x27;py adya na yathā-pūrvam atra vai_), their hearts distressed with anxious thought and their activity brought to a standstill by the cessation of trade (_dhyāna-saṃvigna-hṛdayāḥ naṣṭa-vyāpāra-yantritāḥ_).
 
-**43:** “In the temples and sacred shrines the flocks of birds are likewise dejected (devāyatana-caityeṣu dīnāḥ pakṣi-gaṇās tathā); and throughout the city I behold the people—both women and men—squalid, their eyes filled with tears, wretched, absorbed in brooding, emaciated, and racked with longing (malinaṃ cāśru-pūrṇākṣaṃ dīnaṃ dhyāna-paraṃ kṛśam sa-strī-puṃsaṃ ca paśyāmi janam utkaṇṭhitaṃ pure).”
+**43:** “In the temples and sacred shrines the flocks of birds are likewise dejected (_devāyatana-caityeṣu dīnāḥ pakṣi-gaṇās tathā_); and throughout the city I behold the people—both women and men—squalid, their eyes filled with tears, wretched, absorbed in brooding, emaciated, and racked with longing (_malinaṃ cāśru-pūrṇākṣaṃ dīnaṃ dhyāna-paraṃ kṛśam sa-strī-puṃsaṃ ca paśyāmi janam utkaṇṭhitaṃ pure_).”
 </details>
 </details>
 
@@ -2017,7 +2017,7 @@ their eyes held in tears."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to that charioteer with a dejected mind (ity evam uktvā bharatas sūtaṃ taṃ dīna-mānasaḥ), and beholding those unwelcome sights in Ayodhyā, Bharata proceeded to the royal palace (tāny aniṣṭāny ayodhyāyāṃ prekṣya rāja-gṛhaṃ yayau).
+Having spoken thus to that charioteer with a dejected mind (_ity evam uktvā bharatas sūtaṃ taṃ dīna-mānasaḥ_), and beholding those unwelcome sights in Ayodhyā, Bharata proceeded to the royal palace (_tāny aniṣṭāny ayodhyāyāṃ prekṣya rāja-gṛhaṃ yayau_).
 </details>
 </details>
 
@@ -2074,7 +2074,7 @@ charioteer as aforesaid and went to the royal palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that city, which once shone like the city of Indra, now with its crossroads, houses, and streets deserted (tāṃ śūnya-śṛṅgāṭaka-veśma-rathyām... dṛṣṭvā purīm indra-pura-prakāśām) and its doors, panels, and bolts reddened with dust, he became even more filled with sorrow (rajo-'ruṇa-dvāra-kavāṭa-yantrāṃ duḥkhena sampūrṇataro babhūva).
+Beholding that city, which once shone like the city of Indra, now with its crossroads, houses, and streets deserted (_tāṃ śūnya-śṛṅgāṭaka-veśma-rathyām... dṛṣṭvā purīm indra-pura-prakāśām_) and its doors, panels, and bolts reddened with dust, he became even more filled with sorrow (_rajo-&#x27;ruṇa-dvāra-kavāṭa-yantrāṃ duḥkhena sampūrṇataro babhūva_).
 </details>
 </details>
 
@@ -2145,6 +2145,6 @@ with rust , Bharata was overcome with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding many things displeasing to his mind which at other times had never existed in his city (bahūni paśyan manaso 'priyāṇi yāny anyadā nāsya pure babhūvuḥ), high-souled Bharata, with his head bowed down, dejected in mind, and cheerless, entered the palace of his father (avāk-chirā dīna-manā na-hṛṣṭaḥ pitur mahātmā praviveśa veśma).
+Beholding many things displeasing to his mind which at other times had never existed in his city (_bahūni paśyan manaso &#x27;priyāṇi yāny anyadā nāsya pure babhūvuḥ_), high-souled Bharata, with his head bowed down, dejected in mind, and cheerless, entered the palace of his father (_avāk-chirā dīna-manā na-hṛṣṭaḥ pitur mahātmā praviveśa veśma_).
 </details>
 </details>

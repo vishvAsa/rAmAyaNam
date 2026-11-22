@@ -48,7 +48,7 @@ Rejoicing at Bharata’s triumph, Rāma resolves to crown Lakṣmaṇa’s two s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that report (tac chrutvā), Rāghava attained great joy together with his brothers (harṣam āpede ... bhrātṛbhiḥ saha), and then spoke a wondrous-seeming speech to Lakṣmaṇa (vākyaṃ cādbhutasaṅkāśaṃ tadā provāca lakṣmaṇam):
+Hearing that report (_tac chrutvā_), Rāghava attained great joy together with his brothers (_harṣam āpede ... bhrātṛbhiḥ saha_), and then spoke a wondrous-seeming speech to Lakṣmaṇa (_vākyaṃ cādbhutasaṅkāśaṃ tadā provāca lakṣmaṇam_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Saumitri, these two sons of yours, Aṅgada and Candraketu (imau kumārau ... aṅgadaś candraketuś ca), are learned in dharma (dharmaviśāradau) and of steadfast valor for the task of kingship (rājyārthe dṛḍhavikramau).
+“O Saumitri, these two sons of yours, Aṅgada and Candraketu (_imau kumārau ... aṅgadaś candraketuś ca_), are learned in dharma (_dharmaviśāradau_) and of steadfast valor for the task of kingship (_rājyārthe dṛḍhavikramau_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall consecrate them both in kingship (imau rājye ’bhiṣekṣyāmi); let a suitable country be sought out (deśaḥ sādhu vidhīyatām)—one that is delightful and uncrowded (ramaṇīyo hy asambādhaḥ), where these two bowmen may take joy (rametāṃ yatra dhanvinau).
+“I shall consecrate them both in kingship (_imau rājye ’bhiṣekṣyāmi_); let a suitable country be sought out (_deśaḥ sādhu vidhīyatām_)—one that is delightful and uncrowded (_ramaṇīyo hy asambādhaḥ_), where these two bowmen may take joy (_rametāṃ yatra dhanvinau_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let such a country be looked out, O gentle one (sa deśo dṛśyatāṃ saumya), where no king would suffer injury (na rājño yatra pīḍā syāt) and no hermitages would face destruction (nāśramāṇāṃ vināśanam), so that we incur no fault (nāparādhyāmahe yathā).”
+“Let such a country be looked out, O gentle one (_sa deśo dṛśyatāṃ saumya_), where no king would suffer injury (_na rājño yatra pīḍā syāt_) and no hermitages would face destruction (_nāśramāṇāṃ vināśanam_), so that we incur no fault (_nāparādhyāmahe yathā_).”
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma had spoken thus (tathoktavati rāme tu), Bharata indeed replied (bharataḥ pratyuvāca ha): “There is this Kārupatha country (ayaṃ kārupatho deśaḥ), delightful and free from all blight (ramaṇīyo nirāmayaḥ).
+When Rāma had spoken thus (_tathoktavati rāme tu_), Bharata indeed replied (_bharataḥ pratyuvāca ha_): “There is this Kārupatha country (_ayaṃ kārupatho deśaḥ_), delightful and free from all blight (_ramaṇīyo nirāmayaḥ_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ When Rāma had spoken thus (tathoktavati rāme tu), Bharata indeed replied (bhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let a city be founded there for the great-souled Aṅgada (niveśyatāṃ tatra puram aṅgadasya mahātmanaḥ), and for Candraketu the exceedingly fair and wholesome city of Candrakānta (candraketoḥ suruciraṃ candrakāntaṃ nirāmayam).”
+“Let a city be founded there for the great-souled Aṅgada (_niveśyatāṃ tatra puram aṅgadasya mahātmanaḥ_), and for Candraketu the exceedingly fair and wholesome city of Candrakānta (_candraketoḥ suruciraṃ candrakāntaṃ nirāmayam_).”
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Accepting Bharata’s counsel, Rāma brings Kārupatha under sway, builds the we
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava accepted those words spoken by Bharata (tad vākyaṃ bharatenoktaṃ pratijagrāha rāghavaḥ), and having brought that country under control (taṃ ca kṛtvā vaśe deśam), he founded a city there for Aṅgada (aṅgadasya nyaveśayat).
+Rāghava accepted those words spoken by Bharata (_tad vākyaṃ bharatenoktaṃ pratijagrāha rāghavaḥ_), and having brought that country under control (_taṃ ca kṛtvā vaśe deśam_), he founded a city there for Aṅgada (_aṅgadasya nyaveśayat_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ Rāghava accepted those words spoken by Bharata (tad vākyaṃ bharatenoktaṃ p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The lovely city of Aṅgadīyā was founded for Aṅgada (aṅgadīyā purī ramyāpy aṅgadasya niveśitā), charming and well-fortified (ramaṇīyā suguptā ca), by Rāma of unwearied deeds (rāmeṇākliṣṭakarmaṇā).
+The lovely city of Aṅgadīyā was founded for Aṅgada (_aṅgadīyā purī ramyāpy aṅgadasya niveśitā_), charming and well-fortified (_ramaṇīyā suguptā ca_), by Rāma of unwearied deeds (_rāmeṇākliṣṭakarmaṇā_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ The lovely city of Aṅgadīyā was founded for Aṅgada (aṅgadīyā purī ram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And for Candraketu, the stalwart prince (candraketoś ca mallasya), a city renowned as Candrakāntā (candrakānteti vikhyātā), divine as a city of heaven (divyā svargapurī yathā), was founded in Mallabhūmi (mallabhūmyāṃ niveśitā).
+And for Candraketu, the stalwart prince (_candraketoś ca mallasya_), a city renowned as Candrakāntā (_candrakānteti vikhyātā_), divine as a city of heaven (_divyā svargapurī yathā_), was founded in Mallabhūmi (_mallabhūmyāṃ niveśitā_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ And for Candraketu, the stalwart prince (candraketoś ca mallasya), a city renow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma, Lakṣmaṇa, and Bharata likewise (rāmaḥ ... lakṣmaṇo bharatas tathā), unassailable in battle (yuddhe durādharṣāḥ), attained supreme joy (parāṃ prītiṃ ... yayuḥ) and performed their royal consecration (abhiṣekaṃ ca cakrire).
+Thereupon Rāma, Lakṣmaṇa, and Bharata likewise (_rāmaḥ ... lakṣmaṇo bharatas tathā_), unassailable in battle (_yuddhe durādharṣāḥ_), attained supreme joy (_parāṃ prītiṃ ... yayuḥ_) and performed their royal consecration (_abhiṣekaṃ ca cakrire_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ Thereupon Rāma, Lakṣmaṇa, and Bharata likewise (rāmaḥ ... lakṣmaṇo b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having consecrated the two princes (abhiṣicya kumārau), Rāghava sent them forth (sa prasthāpayati rāghavaḥ): Aṅgada to the western land (aṅgadaṃ paścimāṃ bhūmim) and Candraketu facing north (candraketum udaṅmukham).
+Having consecrated the two princes (_abhiṣicya kumārau_), Rāghava sent them forth (_sa prasthāpayati rāghavaḥ_): Aṅgada to the western land (_aṅgadaṃ paścimāṃ bhūmim_) and Candraketu facing north (_candraketum udaṅmukham_).
 </details>
 </details>
 
@@ -400,7 +400,7 @@ Having consecrated the two princes (abhiṣicya kumārau), Rāghava sent them fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Saumitri Lakṣmaṇa indeed went after Aṅgada (aṅgadaṃ cāpi saumitrir lakṣmaṇo ’nujagāma ha), while Bharata became the rear-guard protector of Candraketu (candraketos tu bharataḥ pārṣṇigrāho babhūva ha).
+And Saumitri Lakṣmaṇa indeed went after Aṅgada (_aṅgadaṃ cāpi saumitrir lakṣmaṇo ’nujagāma ha_), while Bharata became the rear-guard protector of Candraketu (_candraketos tu bharataḥ pārṣṇigrāho babhūva ha_).
 </details>
 </details>
 
@@ -439,7 +439,7 @@ After dwelling a year in Aṅgadīyā and over a year with Candraketu, Lakṣma�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lakṣmaṇa, having dwelt for a year in Aṅgadīyā (lakṣmaṇas tv aṅgadīyāyāṃ saṃvatsaram athoṣitaḥ), once his unassailable son was firmly established (putre sthite durādharṣe), came back again to Ayodhyā (ayodhyāṃ punar āgamat).
+Lakṣmaṇa, having dwelt for a year in Aṅgadīyā (_lakṣmaṇas tv aṅgadīyāyāṃ saṃvatsaram athoṣitaḥ_), once his unassailable son was firmly established (_putre sthite durādharṣe_), came back again to Ayodhyā (_ayodhyāṃ punar āgamat_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ Lakṣmaṇa, having dwelt for a year in Aṅgadīyā (lakṣmaṇas tv aṅgad�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata too, having dwelt likewise for somewhat more than a year (tathaivoṣya saṃvatsaram ato ’dhikam), returned again to Ayodhyā (ayodhyāṃ punar āgamya) and waited upon Rāma’s feet (rāmapādāv upāsta saḥ).
+Bharata too, having dwelt likewise for somewhat more than a year (_tathaivoṣya saṃvatsaram ato ’dhikam_), returned again to Ayodhyā (_ayodhyāṃ punar āgamya_) and waited upon Rāma’s feet (_rāmapādāv upāsta saḥ_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both Saumitri and Bharata, wholly devoted to Rāma’s feet (rāmapādāvanuvratau) and exceedingly righteous (atidhārmikau), out of love did not even perceive the passing of time (kālaṃ gatam api snehān na jajñāte).
+Both Saumitri and Bharata, wholly devoted to Rāma’s feet (_rāmapādāvanuvratau_) and exceedingly righteous (_atidhārmikau_), out of love did not even perceive the passing of time (_kālaṃ gatam api snehān na jajñāte_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ Both Saumitri and Bharata, wholly devoted to Rāma’s feet (rāmapādāvanuvrat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus ten thousand years passed away for them then (evaṃ varṣasahasrāṇi daśa teṣāṃ yayus tadā), ever exerting themselves in dharma (dharme prayatamānānām) and in the affairs of the citizens (paurakāryeṣu nityadā).
+Thus ten thousand years passed away for them then (_evaṃ varṣasahasrāṇi daśa teṣāṃ yayus tadā_), ever exerting themselves in dharma (_dharme prayatamānānām_) and in the affairs of the citizens (_paurakāryeṣu nityadā_).
 </details>
 </details>
 
@@ -586,7 +586,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sported through that span with fully contented minds (vihṛtya kālaṃ paripūrṇamānasāḥ), surrounded by royal splendor (śriyā vṛtāḥ) and firmly established in the city of dharma (dharmapure susaṃsthitāḥ), those three of blazing luster (trayaḥ ... dīptatejasaḥ) shone like the three sacred fires well kindled and offered oblations in a great sacrifice (samiddhā iva ... mahādhvare sādhu hutās trayo ’gnayaḥ).
+Having sported through that span with fully contented minds (_vihṛtya kālaṃ paripūrṇamānasāḥ_), surrounded by royal splendor (_śriyā vṛtāḥ_) and firmly established in the city of dharma (_dharmapure susaṃsthitāḥ_), those three of blazing luster (_trayaḥ ... dīptatejasaḥ_) shone like the three sacred fires well kindled and offered oblations in a great sacrifice (_samiddhā iva ... mahādhvare sādhu hutās trayo ’gnayaḥ_).
 </details>
 </details>
 

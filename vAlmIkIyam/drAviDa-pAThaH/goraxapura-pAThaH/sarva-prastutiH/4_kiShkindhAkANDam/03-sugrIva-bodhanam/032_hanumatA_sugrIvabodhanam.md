@@ -81,7 +81,7 @@ also on knowing that Lakshmana is angered, that sensible Sugreeva stirred from s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the words of Aṅgada along with his ministers, and hearing that Lakṣmaṇa was enraged (kupitam), the self-possessed (ātmavān) Sugrīva left his seat.
+Having heard the words of Aṅgada along with his ministers, and hearing that Lakṣmaṇa was enraged (_kupitam_), the self-possessed (_ātmavān_) Sugrīva left his seat.
 </details>
 </details>
 
@@ -133,7 +133,7 @@ an expert in strategies and a diligent one in carrying out those strategies. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having weighed the gravity and lightness (gurulāghavam) [of the matter], he who was skilled in counsel and thoroughly grounded in statecraft (mantreṣu pariniṣṭhitaḥ) spoke these words to those ministers versed in policy:
+Having weighed the gravity and lightness (_gurulāghavam_) [of the matter], he who was skilled in counsel and thoroughly grounded in statecraft (_mantreṣu pariniṣṭhitaḥ_) spoke these words to those ministers versed in policy:
 </details>
 </details>
 
@@ -185,7 +185,7 @@ why should Raghava's brother Lakshmana take offence at me? [4-32-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nothing has been harshly spoken (durvyāhṛtam) by me, nor has anything been ill-performed (duranuṣṭhitam) by me; why then is Lakṣmaṇa, the brother of Rāghava, enraged? Thus do I ponder.
+“Nothing has been harshly spoken (_durvyāhṛtam_) by me, nor has anything been ill-performed (_duranuṣṭhitam_) by me; why then is Lakṣmaṇa, the brother of Rāghava, enraged? Thus do I ponder.
 </details>
 </details>
 
@@ -238,7 +238,7 @@ the fabricated faults of mine. [4-32-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By my ill-wishers and enemies (amitraiḥ), who are ever watching for a flaw (antaradarśibhiḥ), the younger brother of Rāghava has been made to hear non-existent faults (doṣān asambhūtān) of mine.
+“By my ill-wishers and enemies (_amitraiḥ_), who are ever watching for a flaw (_antaradarśibhiḥ_), the younger brother of Rāghava has been made to hear non-existent faults (_doṣān asambhūtān_) of mine.
 </details>
 </details>
 
@@ -290,7 +290,7 @@ about the attitude of Lakshmana, along with a steady but diligent determination 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this matter, first of all, according to your judgment (yathābuddhiḥ) and in due form (yathāvidhi), the certainty of his inner intent (bhāvasya niścayaḥ) must first be skilfully and gently ascertained by all of you.
+“In this matter, first of all, according to your judgment (_yathābuddhiḥ_) and in due form (_yathāvidhi_), the certainty of his inner intent (_bhāvasya niścayaḥ_) must first be skilfully and gently ascertained by all of you.
 </details>
 </details>
 
@@ -351,7 +351,7 @@ of virtue in his heart of hearts for he reposed full confidence in Rama and thus
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed I have no fear (trāsaḥ) from Lakṣmaṇa, nor even from Rāghava; yet a friend enraged over his own station — or without just cause (svasthānakupitam) — certainly engenders agitation (sambhramam).”
+“Indeed I have no fear (_trāsaḥ_) from Lakṣmaṇa, nor even from Rāghava; yet a friend enraged over his own station — or without just cause (_svasthānakupitam_) — certainly engenders agitation (_sambhramam_).”
 </details>
 </details>
 
@@ -414,7 +414,7 @@ splits off that friendliness for sentiments are transient. [4-32-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In every way a friend is easily won (sukaram mitram), [yet] maintaining [that friendship] is difficult (duṣkaram pratipālanam); because of the inconstancy of minds (anityatvāt tu cittānām), affection is ruptured even over a trifle (alpe'pi).
+“In every way a friend is easily won (_sukaram mitram_), [yet] maintaining [that friendship] is difficult (_duṣkaram pratipālanam_); because of the inconstancy of minds (_anityatvāt tu cittānām_), affection is ruptured even over a trifle (_alpe&#x27;pi_).
 </details>
 </details>
 
@@ -465,7 +465,7 @@ has been done to me." So said Sugreeva to his ministers. [4-32-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this reason I am apprehensive (trasto'ham), since that benefit (upakṛtam) which was done for me by the high-souled Rāma cannot possibly be repaid (pratikartum) by me.”
+“For this reason I am apprehensive (_trasto&#x27;ham_), since that benefit (_upakṛtam_) which was done for me by the high-souled Rāma cannot possibly be repaid (_pratikartum_) by me.”
 </details>
 </details>
 
@@ -519,7 +519,7 @@ the Vanara ministers. [4-32-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When it had been spoken thus by Sugrīva, Hanūmān, that bull among monkeys (haripuṅgavaḥ), spoke according to his own reasoning (svena tarkeṇa) in the midst of the monkey ministers:
+When it had been spoken thus by Sugrīva, Hanūmān, that bull among monkeys (_haripuṅgavaḥ_), spoke according to his own reasoning (_svena tarkeṇa_) in the midst of the monkey ministers:
 </details>
 </details>
 
@@ -574,7 +574,7 @@ the advantageous help rendered to you, since it is natural for you. [4-32-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In every respect this is no wonder (naitad āścaryam), O lord of the monkey hosts, that you do not forget the auspicious benefit (upakāram kṛtam śubham) performed out of deep affection (susnigdham).
+“In every respect this is no wonder (_naitad āścaryam_), O lord of the monkey hosts, that you do not forget the auspicious benefit (_upakāram kṛtam śubham_) performed out of deep affection (_susnigdham_).
 </details>
 </details>
 
@@ -650,9 +650,9 @@ Lakshmana, whose disposition in effect to is enhance prosperity. [4-32-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “For by the heroic Rāghava, casting fear far aside (bhayam utsṛjya dūrataḥ), Vālī of Indra-like valor (śakratulyaparākramaḥ) was slain for the sake of what was dear to you (tvatpriyārtham).
+**11:** “For by the heroic Rāghava, casting fear far aside (_bhayam utsṛjya dūrataḥ_), Vālī of Indra-like valor (_śakratulyaparākramaḥ_) was slain for the sake of what was dear to you (_tvatpriyārtham_).
 
-**12:** “In every way Rāghava is angered out of affection (praṇayāt kruddhaḥ) — of this there is no doubt — and he has dispatched his brother Lakṣmaṇa, the enhancer of fortune (lakṣmivardhanam).
+**12:** “In every way Rāghava is angered out of affection (_praṇayāt kruddhaḥ_) — of this there is no doubt — and he has dispatched his brother Lakṣmaṇa, the enhancer of fortune (_lakṣmivardhanam_).
 </details>
 </details>
 
@@ -720,7 +720,7 @@ a Sanskrit phrase still ruling high, is an inalienable, do-or-die order for the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Being heedless (pramattaḥ), you do not recognize the season, O best of those who know the times (kālavidām vara); auspicious autumn (śarac chubhā), dark-green with blooming seven-leaved saptacchada trees (phullasaptacchadaśyāmā), has set in.
+“Being heedless (_pramattaḥ_), you do not recognize the season, O best of those who know the times (_kālavidām vara_); auspicious autumn (_śarac chubhā_), dark-green with blooming seven-leaved _saptacchada_ trees (_phullasaptacchadaśyāmā_), has set in.
 </details>
 </details>
 
@@ -771,7 +771,7 @@ and the rivers and lakes too are equable. [4-32-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The sky has cloudless expanses (praṇaṣṭabalāhakā) and spotless planets and stars (nirmalagrahanakṣatrā); all the quarters are clear, and so too the rivers and lakes.
+“The sky has cloudless expanses (_praṇaṣṭabalāhakā_) and spotless planets and stars (_nirmalagrahanakṣatrā_); all the quarters are clear, and so too the rivers and lakes.
 </details>
 </details>
 
@@ -823,7 +823,7 @@ not got the drift of it, as such Lakshmana must have come here, and it is obviou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet you do not perceive that the time for exertion (udyogakālam) has arrived, O bull among monkeys; thinking, `You are heedless,' it is evident (vyaktam) that this Lakṣmaṇa has come here.
+“Yet you do not perceive that the time for exertion (_udyogakālam_) has arrived, O bull among monkeys; thinking, `You are heedless,&#x27; it is evident (_vyaktam_) that this Lakṣmaṇa has come here.
 </details>
 </details>
 
@@ -876,7 +876,7 @@ another person, namely Lakshmana. [4-32-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The harsh speech (paruṣam vacanam) of the high-souled Rāghava, who is afflicted (ārtasya) and robbed of his wife (hṛtadārasya), conveyed through another person (puruṣāntarāt), ought to be endured (marṣaṇīyam) by you.
+“The harsh speech (_paruṣam vacanam_) of the high-souled Rāghava, who is afflicted (_ārtasya_) and robbed of his wife (_hṛtadārasya_), conveyed through another person (_puruṣāntarāt_), ought to be endured (_marṣaṇīyam_) by you.
 </details>
 </details>
 
@@ -936,7 +936,7 @@ soulfully...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For you who have committed an offense (kṛtāparādhasya), I see nothing else fitting (kṣamam) apart from (antareṇa) folding your hands in reverence (añjalim baddhvā) and propitiating Lakṣmaṇa.
+“For you who have committed an offense (_kṛtāparādhasya_), I see nothing else fitting (_kṣamam_) apart from (_antareṇa_) folding your hands in reverence (_añjalim baddhvā_) and propitiating Lakṣmaṇa.
 </details>
 </details>
 
@@ -999,7 +999,7 @@ what I hold fast discarding fear. [4-32-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By appointed ministers (niyuktair mantribhiḥ) a monarch must necessarily be told what is salutary (hitam); therefore, casting aside fear (bhayam tyaktvā), I speak these well-ascertained words (avadhṛtam vacaḥ).
+“By appointed ministers (_niyuktair mantribhiḥ_) a monarch must necessarily be told what is salutary (_hitam_); therefore, casting aside fear (_bhayam tyaktvā_), I speak these well-ascertained words (_avadhṛtam vacaḥ_).
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ just on hitching up his bow, isn't it! [4-32-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For when thoroughly enraged (abhikruddhaḥ), Rāghava, taking up his bow (cāpam udyamya), is capable of placing the world together with the gods, asuras, and gandharvas under his control (vaśe sthāpayitum).
+“For when thoroughly enraged (_abhikruddhaḥ_), Rāghava, taking up his bow (_cāpam udyamya_), is capable of placing the world together with the gods, _asuras_, and _gandharvas_ under his control (_vaśe sthāpayitum_).
 </details>
 </details>
 
@@ -1102,7 +1102,7 @@ beneficence to you and when you are beholden to him. [4-32-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is not fit to be provoked to anger (na sa kṣamaḥ kopayitum) who must afterwards be propitiated again (yaḥ prasādyaḥ punar bhavet) — especially by a grateful man (kṛtajñena) who remembers a prior benefit (pūrvopakāram smaratā).
+“He is not fit to be provoked to anger (_na sa kṣamaḥ kopayitum_) who must afterwards be propitiated again (_yaḥ prasādyaḥ punar bhavet_) — especially by a grateful man (_kṛtajñena_) who remembers a prior benefit (_pūrvopakāram smaratā_).
 </details>
 </details>
 
@@ -1159,7 +1159,7 @@ by your own accord you made with him remaining under his auspices, like a wife a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bowing with your head (mūrdhnā praṇamya) to him together with your son and your friends and kinsmen (saputraḥ sasuhṛjjanaḥ), O king, stand firm in your covenant (svasamaye), subject to his will like a wife to her husband (bhartur bhāryeva tadvaśe).
+“Bowing with your head (_mūrdhnā praṇamya_) to him together with your son and your friends and kinsmen (_saputraḥ sasuhṛjjanaḥ_), O king, stand firm in your covenant (_svasamaye_), subject to his will like a wife to her husband (_bhartur bhāryeva tadvaśe_).
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ divine expeditions are to be known by you.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither the command of Rāma nor of Rāma's younger brother (rāmarāmānujaśāsanam), O lord of monkeys, is fitting for you to set aside (apohitum) even in mind; for your own mind knows the humanly manifest strength (mānuṣam balam) of this Rāghava who possesses the splendor of the lord of gods (surendravarcasaḥ).”
+“Neither the command of Rāma nor of Rāma&#x27;s younger brother (_rāmarāmānujaśāsanam_), O lord of monkeys, is fitting for you to set aside (_apohitum_) even in mind; for your own mind knows the humanly manifest strength (_mānuṣam balam_) of this Rāghava who possesses the splendor of the lord of gods (_surendravarcasaḥ_).”
 </details>
 </details>
 

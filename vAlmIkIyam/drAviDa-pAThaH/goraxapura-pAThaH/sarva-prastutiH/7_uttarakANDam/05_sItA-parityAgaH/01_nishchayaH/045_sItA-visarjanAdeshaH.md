@@ -48,7 +48,7 @@ With parched countenance, Rāma reveals to his dejected brothers the loathsome p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they all sat there with dejected hearts (teṣāṃ samupaviṣṭānāṃ sarveṣāṃ dīna-cetasām), Kākutstha spoke these words with a parched countenance (mukhena pariśuṣyatā):
+As they all sat there with dejected hearts (_teṣāṃ samupaviṣṭānāṃ sarveṣāṃ dīna-cetasām_), Kākutstha spoke these words with a parched countenance (_mukhena pariśuṣyatā_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear me, all of you—blessings upon you (bhadraṃ vaḥ)—and do not turn your minds otherwise (mā kurudhvaṃ mano ’nyathā): hear what talk circulates among the citizens concerning me and Sītā (paurāṇāṃ mama sītāyāṃ yādṛśī vartate kathā).
+“Hear me, all of you—blessings upon you (_bhadraṃ vaḥ_)—and do not turn your minds otherwise (_mā kurudhvaṃ mano ’nyathā_): hear what talk circulates among the citizens concerning me and Sītā (_paurāṇāṃ mama sītāyāṃ yādṛśī vartate kathā_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“An immense calumny from the citizens and likewise from the countryside (paurāpavādaḥ sumahāṃs tathā janapadasya ca)—a loathsome rumor (bībhatsā)—prevails against me (vartate mayi), and it cuts into my very vitals (sā me marmāṇi kṛntati).
+“An immense calumny from the citizens and likewise from the countryside (_paurāpavādaḥ sumahāṃs tathā janapadasya ca_)—a loathsome rumor (_bībhatsā_)—prevails against me (_vartate mayi_), and it cuts into my very vitals (_sā me marmāṇi kṛntati_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I indeed was born in the lineage of the high-souled Ikṣvākus (kule jāta ikṣvākūṇāṃ mahātmanām), and Sītā too was born in the noble lineage of the high-souled Janakas (sat-kule jātā janakānāṃ mahātmanām).
+“I indeed was born in the lineage of the high-souled Ikṣvākus (_kule jāta ikṣvākūṇāṃ mahātmanām_), and Sītā too was born in the noble lineage of the high-souled Janakas (_sat-kule jātā janakānāṃ mahātmanām_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You know, O gentle one (jānāsi tvaṃ yathā saumya), how in the solitary Daṇḍaka forest (daṇḍake vijane vane) Sītā was abducted by Rāvaṇa (rāvaṇena hṛtā sītā), and how he was destroyed by me (sa ca vidhvaṃsito mayā).
+“You know, O gentle one (_jānāsi tvaṃ yathā saumya_), how in the solitary Daṇḍaka forest (_daṇḍake vijane vane_) Sītā was abducted by Rāvaṇa (_rāvaṇena hṛtā sītā_), and how he was destroyed by me (_sa ca vidhvaṃsito mayā_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There, regarding Janaka’s daughter (janakasya sutāṃ prati), this thought arose in my mind (me buddhir utpannā): ‘How can I bring back to the city (ānayeyaṃ kathaṃ purīm) this Sītā who has dwelt here [in Laṅkā] (atroṣitām imāṃ sītām)?’
+“There, regarding Janaka’s daughter (_janakasya sutāṃ prati_), this thought arose in my mind (_me buddhir utpannā_): ‘How can I bring back to the city (_ānayeyaṃ kathaṃ purīm_) this Sītā who has dwelt here [in Laṅkā] (_atroṣitām imāṃ sītām_)?’
 </details>
 </details>
 
@@ -254,9 +254,9 @@ Affirming Sītā’s spotless purity—attested by Agni, Vāyu, Moon, Sun, and I
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “To establish conviction (pratyayārtham), Sītā then entered the fire (viveśa jvalanaṃ tadā); before your very eyes, O Saumitri (pratyakṣaṃ tava saumitre), the Oblation-Bearer of the gods [Agni] (devānāṃ havyavāhanaḥ) and Vāyu who courses through the sky (vāyuś cākāśa-gocaraḥ) declared Maithilī sinless (apāpāṃ maithilīm āha).
+**7:** “To establish conviction (_pratyayārtham_), Sītā then entered the fire (_viveśa jvalanaṃ tadā_); before your very eyes, O Saumitri (_pratyakṣaṃ tava saumitre_), the Oblation-Bearer of the gods [Agni] (_devānāṃ havyavāhanaḥ_) and Vāyu who courses through the sky (_vāyuś cākāśa-gocaraḥ_) declared Maithilī sinless (_apāpāṃ maithilīm āha_).
 
-**8:** “The Moon and Sun also proclaimed (candrādityau ca śaṃsete) Janaka’s daughter sinless (apāpāṃ janakātmajām) before the assembly of the gods (surāṇāṃ sannidhau) and of all the sages (ṛṣīṇāṃ caiva sarveṣām) of old.
+**8:** “The Moon and Sun also proclaimed (_candrādityau ca śaṃsete_) Janaka’s daughter sinless (_apāpāṃ janakātmajām_) before the assembly of the gods (_surāṇāṃ sannidhau_) and of all the sages (_ṛṣīṇāṃ caiva sarveṣām_) of old.
 </details>
 </details>
 
@@ -287,7 +287,7 @@ Affirming Sītā’s spotless purity—attested by Agni, Vāyu, Moon, Sun, and I
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus proved of spotless conduct (evaṃ śuddha-samācārā), she was placed into my hand (mama haste niveśitā) by great Indra (mahendreṇa) in the island of Laṅkā before the gods and Gandharvas (deva-gandharva-sannidhau).
+“Thus proved of spotless conduct (_evaṃ śuddha-samācārā_), she was placed into my hand (_mama haste niveśitā_) by great Indra (_mahendreṇa_) in the island of Laṅkā before the gods and Gandharvas (_deva-gandharva-sannidhau_).
 </details>
 </details>
 
@@ -318,7 +318,7 @@ Affirming Sītā’s spotless purity—attested by Agni, Vāyu, Moon, Sun, and I
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And my own inner self knows Sītā to be pure and illustrious (antarātmā ca me vetti sītāṃ śuddhāṃ yaśasvinīm); therefore, accepting Vaidehī (tato gṛhītvā vaidehīm), I came back to Ayodhyā (ayodhyām aham āgataḥ).
+“And my own inner self knows Sītā to be pure and illustrious (_antarātmā ca me vetti sītāṃ śuddhāṃ yaśasvinīm_); therefore, accepting Vaidehī (_tato gṛhītvā vaidehīm_), I came back to Ayodhyā (_ayodhyām aham āgataḥ_).
 </details>
 </details>
 
@@ -349,7 +349,7 @@ Affirming Sītā’s spotless purity—attested by Agni, Vāyu, Moon, Sun, and I
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet this immense reproach and sorrow now weigh upon my heart (ayaṃ tu me mahān vādaḥ śokaś ca hṛdi vartate)—this mighty scandal of the citizens and likewise of the countryside (paurāpavādaḥ sumahāṃs tathā janapadasya ca).
+“Yet this immense reproach and sorrow now weigh upon my heart (_ayaṃ tu me mahān vādaḥ śokaś ca hṛdi vartate_)—this mighty scandal of the citizens and likewise of the countryside (_paurāpavādaḥ sumahāṃs tathā janapadasya ca_).
 </details>
 </details>
 
@@ -383,7 +383,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Any being whatsoever in the world whose ill repute is sung abroad (akīrtir yasya gīyeta loke bhūtasya kasyacit) surely falls into the lowest worlds (pataty evādhamāṃl lokān) for as long as that rumor is proclaimed (yāvac chabdaḥ prakīrtyate).
+“Any being whatsoever in the world whose ill repute is sung abroad (_akīrtir yasya gīyeta loke bhūtasya kasyacit_) surely falls into the lowest worlds (_pataty evādhamāṃl lokān_) for as long as that rumor is proclaimed (_yāvac chabdaḥ prakīrtyate_).
 </details>
 </details>
 
@@ -422,7 +422,7 @@ Declaring that great souls live for renown and that he would sacrifice even his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Infamy is condemned by the gods (akīrtir nindyate devaiḥ), whereas fair fame is honored throughout the worlds (kīrtir lokeṣu pūjyate); indeed, all endeavor of truly high-souled men is undertaken for the sake of renown (kīrtyarthaṃ tu samārambhaḥ sarveṣāṃ sumahātmanām).
+“Infamy is condemned by the gods (_akīrtir nindyate devaiḥ_), whereas fair fame is honored throughout the worlds (_kīrtir lokeṣu pūjyate_); indeed, all endeavor of truly high-souled men is undertaken for the sake of renown (_kīrtyarthaṃ tu samārambhaḥ sarveṣāṃ sumahātmanām_).
 </details>
 </details>
 
@@ -453,7 +453,7 @@ Declaring that great souls live for renown and that he would sacrifice even his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Driven by fear of public censure (apavāda-bhayād bhītaḥ), O bulls among men (puruṣarṣabhāḥ), I would abandon even my own life or you (apy ahaṃ jīvitaṃ jahyāṃ yuṣmān vā)—how much more then Janaka’s daughter (kiṃ punar janakātmajām)!
+“Driven by fear of public censure (_apavāda-bhayād bhītaḥ_), O bulls among men (_puruṣarṣabhāḥ_), I would abandon even my own life or you (_apy ahaṃ jīvitaṃ jahyāṃ yuṣmān vā_)—how much more then Janaka’s daughter (_kiṃ punar janakātmajām_)!
 </details>
 </details>
 
@@ -484,7 +484,7 @@ Declaring that great souls live for renown and that he would sacrifice even his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, behold me fallen into an ocean of grief (paśyantu patitaṃ śoka-sāgare); for I see no sorrow that has ever been (na hi paśyāmy ahaṃ bhūtaṃ kiñcid duḥkham) greater than this (ato ’dhikam)!
+“Therefore, behold me fallen into an ocean of grief (_paśyantu patitaṃ śoka-sāgare_); for I see no sorrow that has ever been (_na hi paśyāmy ahaṃ bhūtaṃ kiñcid duḥkham_) greater than this (_ato ’dhikam_)!
 </details>
 </details>
 
@@ -518,7 +518,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tomorrow at dawn, O Saumitri (śvas tvaṃ prabhāte saumitre), mount the chariot driven by Sumantra (sumantrādhiṣṭhitaṃ ratham āruhya), help Sītā aboard (sītām āropya), and leave her beyond the borders of the realm (viṣayānte samutsṛja).
+“Tomorrow at dawn, O Saumitri (_śvas tvaṃ prabhāte saumitre_), mount the chariot driven by Sumantra (_sumantrādhiṣṭhitaṃ ratham āruhya_), help Sītā aboard (_sītām āropya_), and leave her beyond the borders of the realm (_viṣayānte samutsṛja_).
 </details>
 </details>
 
@@ -549,7 +549,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the far bank of the Gaṅgā (gaṅgāyās tu pare pāre) stands the hermitage of the high-souled Vālmīki (vālmīkes tu mahātmanaḥ), splendid as a celestial abode (āśramo divya-saṅkāśaḥ), situated along the bank of the Tamasā (tamasā-tīram āśritaḥ).
+“On the far bank of the Gaṅgā (_gaṅgāyās tu pare pāre_) stands the hermitage of the high-souled Vālmīki (_vālmīkes tu mahātmanaḥ_), splendid as a celestial abode (_āśramo divya-saṅkāśaḥ_), situated along the bank of the Tamasā (_tamasā-tīram āśritaḥ_).
 </details>
 </details>
 
@@ -594,9 +594,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Leaving her there in a solitary place (tatraināṃ vijane deśe visṛjya), O delight of the Raghus (raghunandana), return swiftly (śīghram āgaccha)—blessings upon you (bhadraṃ te)—and carry out my word (kuruṣva vacanaṃ mama)!
+**18:** “Leaving her there in a solitary place (_tatraināṃ vijane deśe visṛjya_), O delight of the Raghus (_raghunandana_), return swiftly (_śīghram āgaccha_)—blessings upon you (_bhadraṃ te_)—and carry out my word (_kuruṣva vacanaṃ mama_)!
 
-**19:** “Nor am I to be argued against in this matter regarding Sītā in any way (na cāsmin prativaktavyaḥ sītāṃ prati kathañcana); therefore go, O Saumitri (tasmāt tvaṃ gaccha saumitre), and let no deliberation be made herein (nātra kāryā vicāraṇā).
+**19:** “Nor am I to be argued against in this matter regarding Sītā in any way (_na cāsmin prativaktavyaḥ sītāṃ prati kathañcana_); therefore go, O Saumitri (_tasmāt tvaṃ gaccha saumitre_), and let no deliberation be made herein (_nātra kāryā vicāraṇā_).
 </details>
 </details>
 
@@ -627,7 +627,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For extreme displeasure would be mine if this command were obstructed by you (aprītir hi parā mahyaṃ tvayaitat prativārite); indeed, I bind you all by an oath upon my two arms and my life (śāpitā hi mayā yūyaṃ bhujābhyāṃ jīvitena ca)!
+“For extreme displeasure would be mine if this command were obstructed by you (_aprītir hi parā mahyaṃ tvayaitat prativārite_); indeed, I bind you all by an oath upon my two arms and my life (_śāpitā hi mayā yūyaṃ bhujābhyāṃ jīvitena ca_)!
 </details>
 </details>
 
@@ -664,7 +664,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whosoever should speak amidst my words to dissuade me in any way (ye māṃ vākyāntare brūyur anunetuṃ kathañcana) shall verily be deemed my perpetual foes (ahitā nāma te nityam) for thwarting my desired resolve (mad-abhīṣṭa-vighātanāt).
+“Whosoever should speak amidst my words to dissuade me in any way (_ye māṃ vākyāntare brūyur anunetuṃ kathañcana_) shall verily be deemed my perpetual foes (_ahitā nāma te nityam_) for thwarting my desired resolve (_mad-abhīṣṭa-vighātanāt_).
 </details>
 </details>
 
@@ -695,7 +695,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Honor me, if you stand obedient to my command (mānayantu bhavanto māṃ yadi mac-chāsane sthitāḥ): let Sītā be conducted hence today (ito ’dya nīyatāṃ sītā)—do you carry out my word (kuruṣva vacanaṃ mama)!
+“Honor me, if you stand obedient to my command (_mānayantu bhavanto māṃ yadi mac-chāsane sthitāḥ_): let Sītā be conducted hence today (_ito ’dya nīyatāṃ sītā_)—do you carry out my word (_kuruṣva vacanaṃ mama_)!
 </details>
 </details>
 
@@ -726,7 +726,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Earlier she said to me (pūrvam ukto ’ham anayā), ‘May I behold the hermitages along the bank of the Gaṅgā (gaṅgātīre ’ham āśramān paśyeyam iti)’—let that wish of hers now be fulfilled (tasyāś ca kāmaḥ saṃvartyatām ayam)!”
+“Earlier she said to me (_pūrvam ukto ’ham anayā_), ‘May I behold the hermitages along the bank of the Gaṅgā (_gaṅgātīre ’ham āśramān paśyeyam iti_)’—let that wish of hers now be fulfilled (_tasyāś ca kāmaḥ saṃvartyatām ayam_)!”
 </details>
 </details>
 
@@ -770,7 +770,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus (evam uktvā tu kākutsthaḥ), that righteous-souled prince (sa dharmātmā), his face veiled with tears (bāṣpeṇa pihitānanaḥ), entered his inner palace (praviveśa) attended by his brothers (bhrātṛbhiḥ parivāritaḥ); with grief clinging fast to his heart (śoka-saṃlagna-hṛdayaḥ), he sighed deeply like a mighty elephant (niśaśvāsa yathā dvipaḥ).
+Having spoken thus (_evam uktvā tu kākutsthaḥ_), that righteous-souled prince (_sa dharmātmā_), his face veiled with tears (_bāṣpeṇa pihitānanaḥ_), entered his inner palace (_praviveśa_) attended by his brothers (_bhrātṛbhiḥ parivāritaḥ_); with grief clinging fast to his heart (_śoka-saṃlagna-hṛdayaḥ_), he sighed deeply like a mighty elephant (_niśaśvāsa yathā dvipaḥ_).
 </details>
 </details>
 

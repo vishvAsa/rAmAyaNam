@@ -48,7 +48,7 @@ Seeing Sītā weeping by the river, the young sons of the sages hasten to Vālm�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sītā weeping there (sītāṃ tu rudatīṃ dṛṣṭvā), those sons of the sages (muni-dārakāḥ) ran to the place where the revered Vālmīki, of fierce intellect (vālmīkir ugradhīḥ), was seated.
+Beholding Sītā weeping there (_sītāṃ tu rudatīṃ dṛṣṭvā_), those sons of the sages (_muni-dārakāḥ_) ran to the place where the revered Vālmīki, of fierce intellect (_vālmīkir ugradhīḥ_), was seated.
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Beholding Sītā weeping there (sītāṃ tu rudatīṃ dṛṣṭvā), those so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed before the feet of the sage (abhivādya muneḥ pādau), the hermit-youths reported everything (sarvaṃ nivedayām āsuḥ) to the great seer, especially the sound of her weeping (tasyās tu rudita-svanam):
+Having bowed before the feet of the sage (_abhivādya muneḥ pādau_), the hermit-youths reported everything (_sarvaṃ nivedayām āsuḥ_) to the great seer, especially the sound of her weeping (_tasyās tu rudita-svanam_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Having bowed before the feet of the sage (abhivādya muneḥ pādau), the hermit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never before seen (adṛṣṭa-pūrvā), O revered one, this wife of some high-souled personage (kasyāpy eṣā mahātmanaḥ patnī), like Goddess Śrī herself (śrīr iva), cries aloud in bewilderment (sammohād virauti) with her face contorted in grief (vikṛtānanā).
+“Never before seen (_adṛṣṭa-pūrvā_), O revered one, this wife of some high-souled personage (_kasyāpy eṣā mahātmanaḥ patnī_), like Goddess Śrī herself (_śrīr iva_), cries aloud in bewilderment (_sammohād virauti_) with her face contorted in grief (_vikṛtānanā_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O revered one, pray look kindly upon her (sādhu paśya tvam), like a goddess fallen from heaven (devatām iva khāc cyutām); on the bank of the river, O revered one, a certain noble lady is stricken with sorrow (varastrī kāpi duḥkhitā).
+“O revered one, pray look kindly upon her (_sādhu paśya tvam_), like a goddess fallen from heaven (_devatām iva khāc cyutām_); on the bank of the river, O revered one, a certain noble lady is stricken with sorrow (_varastrī kāpi duḥkhitā_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She was seen by us weeping bitterly (dṛṣṭāsmābhiḥ praruditā), deeply overwhelmed by grief (dṛḍhaṃ śoka-parāyaṇā)—one undeserving of pain and sorrow (anarhā duḥkha-śokābhyām), alone, wretched, and as though without a protector (ekāṃ dīnāṃ hy anāthavat).
+“She was seen by us weeping bitterly (_dṛṣṭāsmābhiḥ praruditā_), deeply overwhelmed by grief (_dṛḍhaṃ śoka-parāyaṇā_)—one undeserving of pain and sorrow (_anarhā duḥkha-śokābhyām_), alone, wretched, and as though without a protector (_ekāṃ dīnāṃ hy anāthavat_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed we do not take her for an ordinary mortal woman (na hy enāṃ mānuṣīṃ vidmaḥ); let hospitable honor be offered to her (satkriyāsyāḥ prayujyatām), for not far from your hermitage (āśramasyāvidūre) she has come to you for refuge (tvām iyaṃ śaraṇaṃ gatā).
+“Indeed we do not take her for an ordinary mortal woman (_na hy enāṃ mānuṣīṃ vidmaḥ_); let hospitable honor be offered to her (_satkriyāsyāḥ prayujyatām_), for not far from your hermitage (_āśramasyāvidūre_) she has come to you for refuge (_tvām iyaṃ śaraṇaṃ gatā_).
 </details>
 </details>
 
@@ -247,7 +247,7 @@ Perceiving the truth through his ascetic vision, Vālmīki hastens on foot with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This virtuous lady desires a protector (trātāram icchate sādhvī); O revered one, you ought to protect her (bhagavaṃs trātum arhasi)!” Hearing those words of theirs, the knower of dharma ascertained the truth through his intellect (buddhyā niścitya dharmavit); possessing inner vision gained by austerity (tapasā labdha-cakṣuṣmān), he hastened to where Maithilī was (prādravad yatra maithilī).
+“This virtuous lady desires a protector (_trātāram icchate sādhvī_); O revered one, you ought to protect her (_bhagavaṃs trātum arhasi_)!” Hearing those words of theirs, the knower of dharma ascertained the truth through his intellect (_buddhyā niścitya dharmavit_); possessing inner vision gained by austerity (_tapasā labdha-cakṣuṣmān_), he hastened to where Maithilī was (_prādravad yatra maithilī_).
 </details>
 </details>
 
@@ -282,9 +282,9 @@ Perceiving the truth through his ascetic vision, Vālmīki hastens on foot with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Perceiving that great-minded sage setting forth (taṃ prayāntam abhipretya), his disciples hastened after him; meanwhile the great-minded seer, heading toward that spot (taṃ tu deśam abhipretya), walked a short distance on foot (kiñcit padbhyām)—
+**8:** Perceiving that great-minded sage setting forth (_taṃ prayāntam abhipretya_), his disciples hastened after him; meanwhile the great-minded seer, heading toward that spot (_taṃ tu deśam abhipretya_), walked a short distance on foot (_kiñcit padbhyām_)—
 
-**9:** Taking a pleasing guest-offering (arghyam ādāya ruciram), he arrived at the bank of the Jāhnavī (jāhnavī-tīram āgamat) and beheld Sītā, the beloved wife of Rāghava (rāghavasyeṣṭāṃ sītāṃ patnīm), standing as though without a protector (anāthavat).
+**9:** Taking a pleasing guest-offering (_arghyam ādāya ruciram_), he arrived at the bank of the Jāhnavī (_jāhnavī-tīram āgamat_) and beheld Sītā, the beloved wife of Rāghava (_rāghavasyeṣṭāṃ sītāṃ patnīm_), standing as though without a protector (_anāthavat_).
 </details>
 </details>
 
@@ -318,7 +318,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto that Sītā, afflicted by the heavy burden of grief (śoka-bhārārtām), Vālmīki, foremost among sages (muni-puṅgavaḥ), spoke sweet words (madhurāṃ vāṇīm), soothing her as it were with his spiritual radiance (hlādayann iva tejasā):
+Unto that Sītā, afflicted by the heavy burden of grief (_śoka-bhārārtām_), Vālmīki, foremost among sages (_muni-puṅgavaḥ_), spoke sweet words (_madhurāṃ vāṇīm_), soothing her as it were with his spiritual radiance (_hlādayann iva tejasā_):
 </details>
 </details>
 
@@ -349,7 +349,7 @@ Unto that Sītā, afflicted by the heavy burden of grief (śoka-bhārārtām), V
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are the daughter-in-law of Daśaratha (snuṣā daśarathasya tvam), the beloved queen of Rāma (rāmasya mahiṣī priyā), and the daughter of King Janaka (janakasya sutā rājñaḥ); welcome to you, O devoted wife (svāgataṃ te pativrate)!
+“You are the daughter-in-law of Daśaratha (_snuṣā daśarathasya tvam_), the beloved queen of Rāma (_rāmasya mahiṣī priyā_), and the daughter of King Janaka (_janakasya sutā rājñaḥ_); welcome to you, O devoted wife (_svāgataṃ te pativrate_)!
 </details>
 </details>
 
@@ -380,7 +380,7 @@ Unto that Sītā, afflicted by the heavy burden of grief (śoka-bhārārtām), V
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your arrival was already known to me (āyāntī cāsi vijñātā mayā) through meditation rooted in dharma (dharma-samādhinā), and the entire cause thereof (kāraṇaṃ caiva sarvam) has been discerned within my heart (me hṛdayenopalakṣitam).
+“Your arrival was already known to me (_āyāntī cāsi vijñātā mayā_) through meditation rooted in dharma (_dharma-samādhinā_), and the entire cause thereof (_kāraṇaṃ caiva sarvam_) has been discerned within my heart (_me hṛdayenopalakṣitam_).
 </details>
 </details>
 
@@ -419,7 +419,7 @@ Declaring Sītā utterly sinless through his ascetic sight, Vālmīki bids her a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All concerning you, O highly fortunate one, is known to me in its true essence (viditaṃ mama tattvataḥ); indeed everything that exists within the three worlds (trailokye yad dhi vartate) is known to me.
+“All concerning you, O highly fortunate one, is known to me in its true essence (_viditaṃ mama tattvataḥ_); indeed everything that exists within the three worlds (_trailokye yad dhi vartate_) is known to me.
 </details>
 </details>
 
@@ -453,7 +453,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know you to be utterly free from sin, O Sītā (apāpāṃ vedmi sīte tvām), by the eye attained through austerity (tapolabdhena cakṣuṣā); be fully reassured, O Vaidehī (visrabdhā bhava vaidehi), for now you abide in my care (sāmprataṃ mayi vartase).
+“I know you to be utterly free from sin, O Sītā (_apāpāṃ vedmi sīte tvām_), by the eye attained through austerity (_tapolabdhena cakṣuṣā_); be fully reassured, O Vaidehī (_visrabdhā bhava vaidehi_), for now you abide in my care (_sāmprataṃ mayi vartase_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not far from my hermitage (āśramasyāvidūre me) dwell female ascetics steadfast in penance (tāpasyas tapasi sthitāḥ); they will cherish and guard you constantly, my child (tās tvāṃ vatse ... pālayiṣyanti nityaśaḥ), just as a mother cherishes her own child (yathā vatsam).
+“Not far from my hermitage (_āśramasyāvidūre me_) dwell female ascetics steadfast in penance (_tāpasyas tapasi sthitāḥ_); they will cherish and guard you constantly, my child (_tās tvāṃ vatse ... pālayiṣyanti nityaśaḥ_), just as a mother cherishes her own child (_yathā vatsam_).
 </details>
 </details>
 
@@ -515,7 +515,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accept this guest-offering (idam arghyaṃ pratīccha tvam), trusting and freed from all fever of sorrow (visrabdhā vigata-jvarā); as though you had come to your own home (yathā svagṛham abhyetya), yield no more to dejection (viṣādaṃ caiva mā kṛthāḥ)!”
+“Accept this guest-offering (_idam arghyaṃ pratīccha tvam_), trusting and freed from all fever of sorrow (_visrabdhā vigata-jvarā_); as though you had come to your own home (_yathā svagṛham abhyetya_), yield no more to dejection (_viṣādaṃ caiva mā kṛthāḥ_)!”
 </details>
 </details>
 
@@ -546,7 +546,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those exceedingly wondrous words of the sage (bhāṣitaṃ ... muneḥ paramam adbhutam), Sītā bowed her head in reverence to his feet (śirasāvandya caraṇau) and with joined palms replied, “So be it” (tathety āha kṛtāñjaliḥ). Then, with palms still joined (prāñjaliḥ), Sītā followed behind that departing sage (pṛṣṭhato ’nvagāt).
+Hearing those exceedingly wondrous words of the sage (_bhāṣitaṃ ... muneḥ paramam adbhutam_), Sītā bowed her head in reverence to his feet (_śirasāvandya caraṇau_) and with joined palms replied, “So be it” (_tathety āha kṛtāñjaliḥ_). Then, with palms still joined (_prāñjaliḥ_), Sītā followed behind that departing sage (_pṛṣṭhato ’nvagāt_).
 </details>
 </details>
 
@@ -579,7 +579,7 @@ Hearing those exceedingly wondrous words of the sage (bhāṣitaṃ ... muneḥ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the sage approaching together with Vaidehī (munim āyāntaṃ vaidehyā), the wives of the sages (muni-patnayaḥ) came forward filled with joy (upājagmur mudā yuktāḥ) and spoke these words:
+Beholding the sage approaching together with Vaidehī (_munim āyāntaṃ vaidehyā_), the wives of the sages (_muni-patnayaḥ_) came forward filled with joy (_upājagmur mudā yuktāḥ_) and spoke these words:
 </details>
 </details>
 
@@ -618,7 +618,7 @@ Greeted by the female ascetics who ask his bidding, Vālmīki introduces the sin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Welcome to you, O foremost of sages (svāgataṃ te muni-śreṣṭha)—after a long while have you come (cirasyāgamanaṃ ca te)! We all bow in salutation to you (abhivādayāmas tvāṃ sarvāḥ); pray tell us what we should do (ucyatāṃ kiṃ ca kurmahe)!”
+“Welcome to you, O foremost of sages (_svāgataṃ te muni-śreṣṭha_)—after a long while have you come (_cirasyāgamanaṃ ca te_)! We all bow in salutation to you (_abhivādayāmas tvāṃ sarvāḥ_); pray tell us what we should do (_ucyatāṃ kiṃ ca kurmahe_)!”
 </details>
 </details>
 
@@ -652,7 +652,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has arrived here (sīteyaṃ samanuprāptā), the wife of the wise Rāma (patnī rāmasya dhīmataḥ).
+Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has arrived here (_sīteyaṃ samanuprāptā_), the wife of the wise Rāma (_patnī rāmasya dhīmataḥ_).
 </details>
 </details>
 
@@ -683,7 +683,7 @@ Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She is the daughter-in-law of Daśaratha (snuṣā daśarathasyaiṣā) and the virtuous daughter of Janaka (janakasya sutā satī); though sinless, she has been abandoned by her husband (apāpā patinā tyaktā) and must ever be protected by me (paripālyā mayā sadā).
+“She is the daughter-in-law of Daśaratha (_snuṣā daśarathasyaiṣā_) and the virtuous daughter of Janaka (_janakasya sutā satī_); though sinless, she has been abandoned by her husband (_apāpā patinā tyaktā_) and must ever be protected by me (_paripālyā mayā sadā_).
 </details>
 </details>
 
@@ -714,7 +714,7 @@ Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Look upon her, revered ladies (imāṃ bhavatyaḥ paśyantu), with supreme affection indeed (snehena parameṇa hi); both for her own eminence (gauravāt) and at my word (mama vākyāc ca), let her be especially honored by you (pūjyā vo ’stu viśeṣataḥ)!”
+“Look upon her, revered ladies (_imāṃ bhavatyaḥ paśyantu_), with supreme affection indeed (_snehena parameṇa hi_); both for her own eminence (_gauravāt_) and at my word (_mama vākyāc ca_), let her be especially honored by you (_pūjyā vo ’stu viśeṣataḥ_)!”
 </details>
 </details>
 
@@ -751,7 +751,7 @@ Hearing those words of theirs, Vālmīki spoke thus: “This is Sītā who has a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having repeatedly entrusted Vaidehī to their care (muhur muhuś ca vaidehīṃ praṇidhāya), that illustrious sage of mighty austerity (mahāyaśāḥ ... mahātapāḥ), surrounded by his disciples (śiṣya-vṛtaḥ), returned once more to his own hermitage (svam āśramaṃ ... punar āyāt).
+And having repeatedly entrusted Vaidehī to their care (_muhur muhuś ca vaidehīṃ praṇidhāya_), that illustrious sage of mighty austerity (_mahāyaśāḥ ... mahātapāḥ_), surrounded by his disciples (_śiṣya-vṛtaḥ_), returned once more to his own hermitage (_svam āśramaṃ ... punar āyāt_).
 </details>
 </details>
 

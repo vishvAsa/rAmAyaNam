@@ -87,7 +87,7 @@ alarmed, Hanuma the monkey became thoughtful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding (avekṣya) the city of Laṅkā blazing fiercely (saṃdīpyamānām), terrified, and filled with frightened hosts of rākṣasas (trastarakṣogaṇām), the monkey Hanumān fell into deep reflection (cintayāmāsa).
+Beholding (_avekṣya_) the city of Laṅkā blazing fiercely (_saṃdīpyamānām_), terrified, and filled with frightened hosts of _rākṣasas_ (_trastarakṣogaṇām_), the monkey Hanumān fell into deep reflection (_cintayāmāsa_).
 </details>
 </details>
 
@@ -143,7 +143,7 @@ said to himself "What an admonitory act has bee done by me in burning Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tremendous dread (sumahāṃs trāsaḥ) arose in him, and self-reproach (kutsā) sprang up within his soul (ātmani): “In burning down Laṅkā (laṅkāṃ pradahatā), what sort of shameful deed (kiṃsvit karma) is this that I have done?”
+Tremendous dread (_sumahāṃs trāsaḥ_) arose in him, and self-reproach (_kutsā_) sprang up within his soul (_ātmani_): “In burning down Laṅkā (_laṅkāṃ pradahatā_), what sort of shameful deed (_kiṃsvit karma_) is this that I have done?”
 </details>
 </details>
 
@@ -198,7 +198,7 @@ men of excellence, who in their wisdom, restrain their elevated fury."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessed indeed (dhanyāḥ khalu) are those high-souled ones (mahātmānaḥ) who by their wisdom (buddhyā) restrain rising anger (kopam utthitam)—great-souled ones [who quench it] just like a blazing fire with water (dīptam agnim ivāmbhasā)!”
+“Blessed indeed (_dhanyāḥ khalu_) are those high-souled ones (_mahātmānaḥ_) who by their wisdom (_buddhyā_) restrain rising anger (_kopam utthitam_)—great-souled ones [who quench it] just like a blazing fire with water (_dīptam agnim ivāmbhasā_)!”
 </details>
 </details>
 
@@ -247,7 +247,7 @@ elders. An enraged person may insult virtuous men with harsh words."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What enraged man (kruddhaḥ kaḥ) would not commit a sin (pāpam)? An enraged man would slay even his preceptors (gurūn api); an enraged man would insult righteous men (sādhūn adhikṣipet) with harsh speech (paruṣayā vācā).”
+“What enraged man (_kruddhaḥ kaḥ_) would not commit a sin (_pāpam_)? An enraged man would slay even his preceptors (_gurūn api_); an enraged man would insult righteous men (_sādhūn adhikṣipet_) with harsh speech (_paruṣayā vācā_).”
 </details>
 </details>
 
@@ -297,7 +297,7 @@ to be spoken."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One who is infuriated (prakupitaḥ) never discerns (na vijānāti karhicit) what ought to be spoken and what ought not (vācyāvācyam); for an angry man there is no deed he will not do (nākāryam asti), nor anything he will not utter anywhere (nāvācyaṃ vidyate kvacit).”
+“One who is infuriated (_prakupitaḥ_) never discerns (_na vijānāti karhicit_) what ought to be spoken and what ought not (_vācyāvācyam_); for an angry man there is no deed he will not do (_nākāryam asti_), nor anything he will not utter anywhere (_nāvācyaṃ vidyate kvacit_).”
 </details>
 </details>
 
@@ -346,7 +346,7 @@ him suddenly by virtue of his endurance, he verily is said to be an excellent ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who casts off (nirasyati) surging wrath (samutpatitaṃ krodham) solely through forbearance (kṣamayaiva), just as a serpent (uragaḥ) sheds its worn-out skin (tvacaṃ jīrṇām), is truly called a man (puruṣa ucyate).”
+“He who casts off (_nirasyati_) surging wrath (_samutpatitaṃ krodham_) solely through forbearance (_kṣamayaiva_), just as a serpent (_uragaḥ_) sheds its worn-out skin (_tvacaṃ jīrṇām_), is truly called a man (_puruṣa ucyate_).”
 </details>
 </details>
 
@@ -409,7 +409,7 @@ a fire-brand without giving thought to that Seetha and became hurtful to my mast
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie upon me (dhig astu mām), utterly perverse in intellect (sudurbuddhim), shameless (nirlajjam), the worst of sinners (pāpakṛttamam), an arsonist (agnidam) and slayer of my master (svāmighātakam) who gave no thought to Sītā (acintayitvā tāṃ sītām)!”
+“Fie upon me (_dhig astu mām_), utterly perverse in intellect (_sudurbuddhim_), shameless (_nirlajjam_), the worst of sinners (_pāpakṛttamam_), an arsonist (_agnidam_) and slayer of my master (_svāmighātakam_) who gave no thought to Sītā (_acintayitvā tāṃ sītām_)!”
 </details>
 </details>
 
@@ -464,7 +464,7 @@ been burnt. Thus, I have spolt the purpose of my lord inadvertently."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this entire city has been burned down (yadi dagdhā tv iyaṃ sarvā), surely noble Jānakī too (nūnam āryāpi jānakī) has been burned; thereby, through my ignorance (ajānatā mayā), my lord's mission has been ruined (bhartur hataṃ kāryam).”
+“If this entire city has been burned down (_yadi dagdhā tv iyaṃ sarvā_), surely noble Jānakī too (_nūnam āryāpi jānakī_) has been burned; thereby, through my ignorance (_ajānatā mayā_), my lord&#x27;s mission has been ruined (_bhartur hataṃ kāryam_).”
 </details>
 </details>
 
@@ -519,7 +519,7 @@ the city, I have not saved Seetha indeed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very purpose (tat kāryam) for whose sake this enterprise was undertaken (yadartham ayam ārambhaḥ) has been brought to ruin (avasāditam); for while burning Laṅkā (dahatā laṅkām), I did not safeguard Sītā (na sītā parirakṣitā).”
+“That very purpose (_tat kāryam_) for whose sake this enterprise was undertaken (_yadartham ayam ārambhaḥ_) has been brought to ruin (_avasāditam_); for while burning Laṅkā (_dahatā laṅkām_), I did not safeguard Sītā (_na sītā parirakṣitā_).”
 </details>
 </details>
 
@@ -576,7 +576,7 @@ by me. There is no doubt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without a doubt (na saṃśayaḥ), this mission had been accomplished with only a small part remaining (īṣatkāryam idaṃ kāryaṃ kṛtam āsīt); yet, overcome by wrath (krodhābhibhūtena), I have destroyed its very root (mūlakṣayaḥ kṛtaḥ).”
+“Without a doubt (_na saṃśayaḥ_), this mission had been accomplished with only a small part remaining (_īṣatkāryam idaṃ kāryaṃ kṛtam āsīt_); yet, overcome by wrath (_krodhābhibhūtena_), I have destroyed its very root (_mūlakṣayaḥ kṛtaḥ_).”
 </details>
 </details>
 
@@ -631,7 +631,7 @@ Seetha also must have been surely lost."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Jānakī has manifestly perished (vinaṣṭā jānakī vyaktam), for no spot of Laṅkā (laṅkāyāḥ kaścid uddeśaḥ) is seen unburned (na hy adagdhaḥ pradṛśyate); the entire city has been reduced to ashes (sarvā bhasmīkṛtā purī).”
+“Jānakī has manifestly perished (_vinaṣṭā jānakī vyaktam_), for no spot of Laṅkā (_laṅkāyāḥ kaścid uddeśaḥ_) is seen unburned (_na hy adagdhaḥ pradṛśyate_); the entire city has been reduced to ashes (_sarvā bhasmīkṛtā purī_).”
 </details>
 </details>
 
@@ -686,7 +686,7 @@ for me, here and now itself, to give up my life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If that mission has been ruined by me (yadi tad vihataṃ kāryaṃ mayā) through perversity of judgment (prajñāviparyayāt), then giving up my life right here today (ihaiva prāṇasaṃnyāso 'dya) pleases me as well (mamāpi hi rocate).”
+“If that mission has been ruined by me (_yadi tad vihataṃ kāryaṃ mayā_) through perversity of judgment (_prajñāviparyayāt_), then giving up my life right here today (_ihaiva prāṇasaṃnyāso &#x27;dya_) pleases me as well (_mamāpi hi rocate_).”
 </details>
 </details>
 
@@ -749,7 +749,7 @@ my body as a feed to the marine animals?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Shall I cast myself into the fire today (kim agnau nipatāmy adya), or into the submarine mare-fire (āhosvid vaḍavāmukhe), or shall I offer my body here (śarīram iha dadmi) to the creatures dwelling in the ocean (sattvānāṃ sāgaravāsinām)?”
+“Shall I cast myself into the fire today (_kim agnau nipatāmy adya_), or into the submarine mare-fire (_āhosvid vaḍavāmukhe_), or shall I offer my body here (_śarīram iha dadmi_) to the creatures dwelling in the ocean (_sattvānāṃ sāgaravāsinām_)?”
 </details>
 </details>
 
@@ -804,7 +804,7 @@ the Lord of monkeys or Rama and Lakshmana the best of men?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed, while remaining alive (kathaṃ nu jīvatā), can the lord of monkeys (harīśvaraḥ) or those two tigers among men (tau vā puruṣaśārdūlau) be faced by me (śakyo mayā draṣṭum), who have destroyed the entire substance of the mission (kāryasarvasvaghātinā)?”
+“How indeed, while remaining alive (_kathaṃ nu jīvatā_), can the lord of monkeys (_harīśvaraḥ_) or those two tigers among men (_tau vā puruṣaśārdūlau_) be faced by me (_śakyo mayā draṣṭum_), who have destroyed the entire substance of the mission (_kāryasarvasvaghātinā_)?”
 </details>
 </details>
 
@@ -858,7 +858,7 @@ instability in the three worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the fault of wrath (roṣadoṣāt), I have truly exhibited (pradarśitam) that very monkey-nature (tad evedaṃ kapitvam), notorious across the three worlds (prathitaṃ triṣu lokeṣu) as unstable and fickle (anavasthitam).”
+“Through the fault of wrath (_roṣadoṣāt_), I have truly exhibited (_pradarśitam_) that very monkey-nature (_tad evedaṃ kapitvam_), notorious across the three worlds (_prathitaṃ triṣu lokeṣu_) as unstable and fickle (_anavasthitam_).”
 </details>
 </details>
 
@@ -914,7 +914,7 @@ passion of anger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie upon this passion-driven temperament (dhig astu rājasaṃ bhāvam), uncontrolled and unsteady (anīśam anavasthitam), since because of passion (yad rāgāt), though fully capable (īśvareṇāpi), Sītā was not protected by me (mayā sītā na rakṣitā)!”
+“Fie upon this passion-driven temperament (_dhig astu rājasaṃ bhāvam_), uncontrolled and unsteady (_anīśam anavasthitam_), since because of passion (_yad rāgāt_), though fully capable (_īśvareṇāpi_), Sītā was not protected by me (_mayā sītā na rakṣitā_)!”
 </details>
 </details>
 
@@ -969,7 +969,7 @@ Sugreeva along with his associates will also die."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When Sītā has perished (vinaṣṭāyāṃ tu sītāyām), those two [Rāma and Lakṣmaṇa] will surely perish (tāv ubhau vinaśiṣyataḥ); and upon their death (tayor vināśe), Sugrīva together with his kinsmen will perish (sugrīvaḥ sabandhur vinaśiṣyati).”
+“When Sītā has perished (_vinaṣṭāyāṃ tu sītāyām_), those two [Rāma and Lakṣmaṇa] will surely perish (_tāv ubhau vinaśiṣyataḥ_); and upon their death (_tayor vināśe_), Sugrīva together with his kinsmen will perish (_sugrīvaḥ sabandhur vinaśiṣyati_).”
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ survive after hearing this news?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing this very word (etad eva vacaḥ śrutvā), how will righteous Bharata (bharato dharmātmā), so devoted to his brother (bhrātṛvatsalaḥ), be able to live (kathaṃ śakṣyati jīvitum) along with Śatrughna (sahaśatrughnaḥ)?”
+“Hearing this very word (_etad eva vacaḥ śrutvā_), how will righteous Bharata (_bharato dharmātmā_), so devoted to his brother (_bhrātṛvatsalaḥ_), be able to live (_kathaṃ śakṣyati jīvitum_) along with Śatrughna (_sahaśatrughnaḥ_)?”
 </details>
 </details>
 
@@ -1087,7 +1087,7 @@ with anguish and affliction."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the most righteous race of Ikṣvāku (ikṣvākuvaṃśe dharmiṣṭhe) has undoubtedly gone to ruin (gate nāśam asaṃśayam), all the subjects (prajāḥ sarvāḥ) will become afflicted with grief and torment (śokasaṃtāpapīḍitāḥ).”
+“When the most righteous race of Ikṣvāku (_ikṣvākuvaṃśe dharmiṣṭhe_) has undoubtedly gone to ruin (_gate nāśam asaṃśayam_), all the subjects (_prajāḥ sarvāḥ_) will become afflicted with grief and torment (_śokasaṃtāpapīḍitāḥ_).”
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ my mind filled with culpability of anger, clearly became the destroyer of the wo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I, bereft of good fortune (bhāgyarahitaḥ), having ruined my store of righteousness and purpose (luptadharmārthasaṃgrahaḥ), my soul overwhelmed by the fault of wrath (roṣadoṣaparītātmā), am manifestly the destroyer of the world (vyaktaṃ lokavināśanaḥ)!”
+“Therefore I, bereft of good fortune (_bhāgyarahitaḥ_), having ruined my store of righteousness and purpose (_luptadharmārthasaṃgrahaḥ_), my soul overwhelmed by the fault of wrath (_roṣadoṣaparītātmā_), am manifestly the destroyer of the world (_vyaktaṃ lokavināśanaḥ_)!”
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ been directly experienced by him and again thought (as follows);
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he was reflecting thus (iti cintayatas tasya), auspicious omens appeared to him (nimittāny upapedire), which had also been experienced previously right before his eyes (pūrvam apy upalabdhāni sākṣāt); and he reflected once more (punar acintayat):
+As he was reflecting thus (_iti cintayatas tasya_), auspicious omens appeared to him (_nimittāny upapedire_), which had also been experienced previously right before his eyes (_pūrvam apy upalabdhāni sākṣāt_); and he reflected once more (_punar acintayat_):
 </details>
 </details>
 
@@ -1252,7 +1252,7 @@ by her own effulgence, does not get destroyed. Fire does not indeed destroy fire
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or rather (atha vā), that auspicious lady (kalyāṇī) of lovely limbs (cārusarvāṅgī), guarded by her own fiery splendor (rakṣitā svena tejasā), will not perish (na naśiṣyati); for fire does not prevail against fire (nāgnir agnau pravartate)!”
+“Or rather (_atha vā_), that auspicious lady (_kalyāṇī_) of lovely limbs (_cārusarvāṅgī_), guarded by her own fiery splendor (_rakṣitā svena tejasā_), will not perish (_na naśiṣyati_); for fire does not prevail against fire (_nāgnir agnau pravartate_)!”
 </details>
 </details>
 
@@ -1302,7 +1302,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, the fire-god (pāvakaḥ) cannot dare to touch (na hi spraṣṭum arhati) that wife of that righteous-souled Rāma of boundless splendor (dharmātmanas tasya bhāryām amitatejasaḥ), guarded on every side by her own chastity (svacaritrābhiguptām).”
+“Indeed, the fire-god (_pāvakaḥ_) cannot dare to touch (_na hi spraṣṭum arhati_) that wife of that righteous-souled Rāma of boundless splendor (_dharmātmanas tasya bhāryām amitatejasaḥ_), guarded on every side by her own chastity (_svacaritrābhiguptām_).”
 </details>
 </details>
 
@@ -1357,7 +1357,7 @@ of Rama and the benevolence of Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely it was through Rāma's power (nūnaṃ rāmaprabhāveṇa) and Vaidehī's store of merit (vaidehyāḥ sukṛtena ca) that this carrier of oblations (ayaṃ havyavāhanaḥ), whose very nature is to burn (dahanakarmā), did not burn me (na adahad mām).”
+“Surely it was through Rāma&#x27;s power (_nūnaṃ rāmaprabhāveṇa_) and Vaidehī&#x27;s store of merit (_vaidehyāḥ sukṛtena ca_) that this carrier of oblations (_ayaṃ havyavāhanaḥ_), whose very nature is to burn (_dahanakarmā_), did not burn me (_na adahad mām_).”
 </details>
 </details>
 
@@ -1420,7 +1420,7 @@ Bharata and who is dear to the heart of Rama perish?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How could she perish (sā kathaṃ vinaśiṣyati), who is the revered deity (yā devatā ca) of the three brothers headed by Bharata (trayāṇāṃ bharatādīnāṃ bhrātṝṇām) and the beloved of Rāma's heart (rāmasya ca manaḥkāntā)?”
+“How could she perish (_sā kathaṃ vinaśiṣyati_), who is the revered deity (_yā devatā ca_) of the three brothers headed by Bharata (_trayāṇāṃ bharatādīnāṃ bhrātṝṇām_) and the beloved of Rāma&#x27;s heart (_rāmasya ca manaḥkāntā_)?”
 </details>
 </details>
 
@@ -1475,7 +1475,7 @@ can it burn the venerable Seetha?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or again (yad vā), when this imperishable fire-god (ayaṃ prabhur avyayaḥ), whose work is burning (dahanakarmā) and who is lord everywhere (sarvatra), does not burn my tail (na me dahati lāṅgūlam), how will he burn that noble lady (katham āryāṃ pradhakṣyati)?”
+“Or again (_yad vā_), when this imperishable fire-god (_ayaṃ prabhur avyayaḥ_), whose work is burning (_dahanakarmā_) and who is lord everywhere (_sarvatra_), does not burn my tail (_na me dahati lāṅgūlam_), how will he burn that noble lady (_katham āryāṃ pradhakṣyati_)?”
 </details>
 </details>
 
@@ -1524,7 +1524,7 @@ in the midst of sea-water there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, struck with wonder (vismitas tadā), Hanumān reflected once again there (punaś cācintayat tatra) upon the appearance (pradarśanam) of the mountain Hiraṇyanābha [Maināka] (hiraṇyanābhasya gireḥ) in the midst of the waters (jalamadhye):
+Then, struck with wonder (_vismitas tadā_), Hanumān reflected once again there (_punaś cācintayat tatra_) upon the appearance (_pradarśanam_) of the mountain Hiraṇyanābha [Maināka] (_hiraṇyanābhasya gireḥ_) in the midst of the waters (_jalamadhye_):
 </details>
 </details>
 
@@ -1579,7 +1579,7 @@ devotion towards her husband. Fire does not ignite her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By her austerity (tapasā), her truthful speech (satyavākyena), and her exclusive devotion to her lord (ananyatvācca bhartari), she could burn up fire itself (asau vinirdahed agnim); fire will never burn her (na tām agniḥ pradhakṣyati)!”
+“By her austerity (_tapasā_), her truthful speech (_satyavākyena_), and her exclusive devotion to her lord (_ananyatvācca bhartari_), she could burn up fire itself (_asau vinirdahed agnim_); fire will never burn her (_na tām agniḥ pradhakṣyati_)!”
 </details>
 </details>
 
@@ -1634,7 +1634,7 @@ to hear the words of the high-souled charanas (heavenly bards).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Hanumān was thus reflecting there (sa tathā cintayaṃs tatra) upon the noble queen's embrace of righteousness (devyā dharmaparigraham), he heard there (śuśrāva tatra) [the voice] of high-souled celestial Cāraṇas (cāraṇānāṃ mahātmanām):
+As Hanumān was thus reflecting there (_sa tathā cintayaṃs tatra_) upon the noble queen&#x27;s embrace of righteousness (_devyā dharmaparigraham_), he heard there (_śuśrāva tatra_) [the voice] of high-souled celestial Cāraṇas (_cāraṇānāṃ mahātmanām_):
 </details>
 </details>
 
@@ -1689,7 +1689,7 @@ difficult act."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Oh! Truly an unfathomable feat (aho khalu kṛtaṃ karma durvigāham) has been accomplished by Hanumān (hanūmatā), unleashing fierce and dreadful fire (agniṃ visṛjatā tīkṣṇaṃ bhīmam) upon the abode of the rākṣasas (rākṣasasadmani)!”
+“Oh! Truly an unfathomable feat (_aho khalu kṛtaṃ karma durvigāham_) has been accomplished by Hanumān (_hanūmatā_), unleashing fierce and dreadful fire (_agniṃ visṛjatā tīkṣṇaṃ bhīmam_) upon the abode of the _rākṣasas_ (_rākṣasasadmani_)!”
 </details>
 </details>
 
@@ -1773,9 +1773,9 @@ ramparts and arched door-ways, was burnt, but Seetha alone was not burnt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “Thronged with fleeing rākṣasa women, children, and elders (prapalāyitarakṣaḥstrībālavṛddhasamākulā), and resounding with the uproar of the populace (janakolāhalādhmātā), [the city] seems to be weeping aloud through its mountain caverns (krandantīvādrikandaraiḥ).”
+**31:** “Thronged with fleeing _rākṣasa_ women, children, and elders (_prapalāyitarakṣaḥstrībālavṛddhasamākulā_), and resounding with the uproar of the populace (_janakolāhalādhmātā_), [the city] seems to be weeping aloud through its mountain caverns (_krandantīvādrikandaraiḥ_).”
 
-**32:** “This city of Laṅkā has been burned down (dagdheyaṃ nagarī laṅkā) together with its watchtowers, ramparts, and arched gateways (sāṭṭaprākāratoraṇā), and yet Jānakī has not been burned (jānakī na ca dagdheti)—wondrous indeed is our amazement (vismayo 'dbhuta eva naḥ)!”
+**32:** “This city of Laṅkā has been burned down (_dagdheyaṃ nagarī laṅkā_) together with its watchtowers, ramparts, and arched gateways (_sāṭṭaprākāratoraṇā_), and yet Jānakī has not been burned (_jānakī na ca dagdheti_)—wondrous indeed is our amazement (_vismayo &#x27;dbhuta eva naḥ_)!”
 </details>
 </details>
 
@@ -1830,7 +1830,7 @@ in them and very high qualities of their origin as also the words of those sages
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus Hanumān heard (iti śuśrāva hanumān) that nectar-like speech (vācaṃ tām amṛtopamām), and joy sprang up in his heart (babhūva cāsya manaso harṣaḥ), born of that very moment (tatkālasaṃbhavaḥ).
+Thus Hanumān heard (_iti śuśrāva hanumān_) that nectar-like speech (_vācaṃ tām amṛtopamām_), and joy sprang up in his heart (_babhūva cāsya manaso harṣaḥ_), born of that very moment (_tatkālasaṃbhavaḥ_).
 </details>
 </details>
 
@@ -1888,7 +1888,7 @@ remains uninjured, made up his mind to return only after seeing her personally y
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through auspicious omens of proven import (nimittaiś ca dṛṣṭārthaiḥ), through causes endowed with great virtues (kāraṇaiś ca mahāguṇaiḥ), and through the words of the celestial sages (ṛṣivākyaiś ca), Hanumān became delighted in heart (abhavat prītamānasaḥ).
+Through auspicious omens of proven import (_nimittaiś ca dṛṣṭārthaiḥ_), through causes endowed with great virtues (_kāraṇaiś ca mahāguṇaiḥ_), and through the words of the celestial sages (_ṛṣivākyaiś ca_), Hanumān became delighted in heart (_abhavat prītamānasaḥ_).
 </details>
 </details>
 
@@ -1937,7 +1937,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the monkey, having attained the object of his heart's desire (prāptamanorathārthaḥ) upon learning that the princess was unharmed (tām akṣatāṃ rājasutāṃ viditvā), and having beheld her once again before his very eyes (pratyakṣatas tāṃ punar eva dṛṣṭvā), set his mind upon the return journey (pratiprayāṇāya matiṃ cakāra).
+Then the monkey, having attained the object of his heart&#x27;s desire (_prāptamanorathārthaḥ_) upon learning that the princess was unharmed (_tām akṣatāṃ rājasutāṃ viditvā_), and having beheld her once again before his very eyes (_pratyakṣatas tāṃ punar eva dṛṣṭvā_), set his mind upon the return journey (_pratiprayāṇāya matiṃ cakāra_).
 </details>
 </details>
 

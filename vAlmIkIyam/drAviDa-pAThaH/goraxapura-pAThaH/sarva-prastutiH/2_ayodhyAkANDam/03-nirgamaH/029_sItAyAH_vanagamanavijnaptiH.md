@@ -82,7 +82,7 @@ her face with tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Rāma, the sorrowful Sītā, her face suffused with streaming tears (prasaktāśrumukhī), spoke these words softly:
+Hearing that speech of Rāma, the sorrowful Sītā, her face suffused with streaming tears (_prasaktāśrumukhī_), spoke these words softly:
 </details>
 </details>
 
@@ -138,7 +138,7 @@ advantages to me, if your affection is placed before them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The hardships that you have recounted regarding dwelling in the forest—know them all to be very virtues (guṇān ity eva), for I hold love for you foremost (tava snehapuraskṛtā).”
+“The hardships that you have recounted regarding dwelling in the forest—know them all to be very virtues (_guṇān ity eva_), for I hold love for you foremost (_tava snehapuraskṛtā_).”
 </details>
 </details>
 
@@ -203,9 +203,9 @@ fear?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “Deer, lions, elephants, tigers, and śarabhas, as well as yaks (camarāḥ), sṛmara deer, and whatever other creatures roam the forest—”
+**3:** “Deer, lions, elephants, tigers, and _śarabhas_, as well as yaks (_camarāḥ_), _sṛmara_ deer, and whatever other creatures roam the forest—”
 
-**4:** “Because they have never before beheld your form (adṛṣṭapūrvarūpatvāt), O Rāghava, all of them will flee upon seeing your form, for all creatures stand in fear of you.”
+**4:** “Because they have never before beheld your form (_adṛṣṭapūrvarūpatvāt_), O Rāghava, all of them will flee upon seeing your form, for all creatures stand in fear of you.”
 </details>
 </details>
 
@@ -257,7 +257,7 @@ life is to be abandoned here, if I were separated from you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the command of our elders (gurujanājñayā), I too must go with you; separated from you, O Rāma, I would have to abandon my life right here.”
+“By the command of our elders (_gurujanājñayā_), I too must go with you; separated from you, O Rāma, I would have to abandon my life right here.”
 </details>
 </details>
 
@@ -312,7 +312,7 @@ me, who is in your vicinity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When I am at your side (tvatsamīpasthām), O Rāghava, not even Śakra himself, the lord of the gods, is able to overpower me by force (pradharṣayitum ojasā).”
+“When I am at your side (_tvatsamīpasthām_), O Rāghava, not even Śakra himself, the lord of the gods, is able to overpower me by force (_pradharṣayitum ojasā_).”
 </details>
 </details>
 
@@ -372,7 +372,7 @@ her husband should not be able to survive."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A woman bereft of her husband cannot continue to live (na sā śakṣyati jīvitum); this truth of such a nature, O Rāma, has already been clearly shown (nidarśitam) to me by you.”
+“A woman bereft of her husband cannot continue to live (_na sā śakṣyati jīvitum_); this truth of such a nature, O Rāma, has already been clearly shown (_nidarśitam_) to me by you.”
 </details>
 </details>
 
@@ -425,7 +425,7 @@ from the month of brahmanas that I was destined to stay really in a forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, O man of great wisdom, in former days in my father's house I heard a true word from the Brāhmaṇas: that I am indeed destined to dwell in the forest (vastavyaṃ kila me vane).”
+“Moreover, O man of great wisdom, in former days in my father&#x27;s house I heard a true word from the Brāhmaṇas: that I am indeed destined to dwell in the forest (_vastavyaṃ kila me vane_).”
 </details>
 </details>
 
@@ -478,7 +478,7 @@ can interpret marks on the body, I was always eager to stay in a forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever since I heard that word at home from twice-born seers skilled in bodily marks (lakṣaṇibhyo dvijātibhyaḥ), I have always been eager for residence in the forest (vanavāsakṛtotsāhā), O mighty one.”
+“Ever since I heard that word at home from twice-born seers skilled in bodily marks (_lakṣaṇibhyo dvijātibhyaḥ_), I have always been eager for residence in the forest (_vanavāsakṛtotsāhā_), O mighty one.”
 </details>
 </details>
 
@@ -533,7 +533,7 @@ me. I must accordingly accompany you to the forest, it cannot be otherwise."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That prophecy (ādeśaḥ) of forest residence must indeed be fulfilled by me; therefore I shall go with you, my husband, O beloved, and not otherwise.”
+“That prophecy (_ādeśaḥ_) of forest residence must indeed be fulfilled by me; therefore I shall go with you, my husband, O beloved, and not otherwise.”
 </details>
 </details>
 
@@ -586,7 +586,7 @@ the forest. The time has come for brahmana's words to come true."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall fulfill that prophecy (kṛtādeśā bhaviṣyāmi) and go with you; now that the appointed time has arrived, let the Brāhmaṇa prove true to his word (satyavān bhavatu dvijaḥ).”
+“I shall fulfill that prophecy (_kṛtādeśā bhaviṣyāmi_) and go with you; now that the appointed time has arrived, let the Brāhmaṇa prove true to his word (_satyavān bhavatu dvijaḥ_).”
 </details>
 </details>
 
@@ -638,7 +638,7 @@ invariably obtained by men having unformed minds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know well, O hero, that manifold hardships are indeed encountered in forest life; yet they befall only men of unmastered minds (puruṣair akṛtātmabhiḥ).”
+“I know well, O hero, that manifold hardships are indeed encountered in forest life; yet they befall only men of unmastered minds (_puruṣair akṛtātmabhiḥ_).”
 </details>
 </details>
 
@@ -702,7 +702,7 @@ mother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While I was still a maiden in my father's house, my forest exile was also heard of by me in my mother's presence from a female ascetic of tranquil conduct (bhikṣiṇyāḥ śamavṛttāyāḥ).”
+“While I was still a maiden in my father&#x27;s house, my forest exile was also heard of by me in my mother&#x27;s presence from a female ascetic of tranquil conduct (_bhikṣiṇyāḥ śamavṛttāyāḥ_).”
 </details>
 </details>
 
@@ -756,7 +756,7 @@ with you indeed for the tour of a forest, as longed by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And here in former days, O lord, you yourself were entreated by me many a time (bahutithaṃ prabho), for going to dwell in the forest with you has ever been my cherished desire (kāṅkṣitaṃ hi saha tvayā).”
+“And here in former days, O lord, you yourself were entreated by me many a time (_bahutithaṃ prabho_), for going to dwell in the forest with you has ever been my cherished desire (_kāṅkṣitaṃ hi saha tvayā_).”
 </details>
 </details>
 
@@ -808,7 +808,7 @@ work-out of adventurist is really delightful to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May all be well with you, O Rāghava! I am joyously resolved (kṛtakṣaṇāham) upon setting forth; for service (caryā) to a hero dwelling in the forest delights my heart.”
+“May all be well with you, O Rāghava! I am joyously resolved (_kṛtakṣaṇāham_) upon setting forth; for service (_caryā_) to a hero dwelling in the forest delights my heart.”
 </details>
 </details>
 
@@ -860,7 +860,7 @@ sin-less; for husband is the supreme deity to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O pure-souled one (śuddhātman), by following my husband out of pure love (premabhāvād dhi) I shall remain free from all blemish (vikalmaṣā); for the husband is a woman's supreme deity (paradaivatam).”
+“O pure-souled one (_śuddhātman_), by following my husband out of pure love (_premabhāvād dhi_) I shall remain free from all blemish (_vikalmaṣā_); for the husband is a woman&#x27;s supreme deity (_paradaivatam_).”
 </details>
 </details>
 
@@ -894,7 +894,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even in the hereafter (pretyabhāve hi), auspicious and eternal is my union with you; for thus is heard the sacred Vedic revelation (śrutiḥ) of illustrious Brāhmaṇas:”
+“Even in the hereafter (_pretyabhāve hi_), auspicious and eternal is my union with you; for thus is heard the sacred Vedic revelation (_śrutiḥ_) of illustrious Brāhmaṇas:”
 </details>
 </details>
 
@@ -946,7 +946,7 @@ even after death.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘Whatever woman, O mighty one, is given away in this world by her parents with water according to sacred law (adbhir dattā svadharmeṇa), she belongs to that husband even in the hereafter (pretyabhāve 'pi tasya sā).’ ”
+“ ‘Whatever woman, O mighty one, is given away in this world by her parents with water according to sacred law (_adbhir dattā svadharmeṇa_), she belongs to that husband even in the hereafter (_pretyabhāve &#x27;pi tasya sā_).’ ”
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ conduct, devoted to her husband and belonging to you, from this place?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when this is so (evam), for what reason here do you not wish to take me—your own virtuous and devoted wife (suvṛttāṃ hi pativratām)—forth from this city (asmāt)?”
+“Even when this is so (_evam_), for what reason here do you not wish to take me—your own virtuous and devoted wife (_suvṛttāṃ hi pativratām_)—forth from this city (_asmāt_)?”
 </details>
 </details>
 
@@ -1061,7 +1061,7 @@ sorrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kākutstha, you ought to take me—devoted, faithful to my husband, distressed (dīnām), equal in joy and sorrow, and sharing your every weal and woe (samānasukhaduḥkhinīm).”
+“O Kākutstha, you ought to take me—devoted, faithful to my husband, distressed (_dīnām_), equal in joy and sorrow, and sharing your every weal and woe (_samānasukhaduḥkhinīm_).”
 </details>
 </details>
 
@@ -1113,7 +1113,7 @@ take me, afflicted as I am, as above."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you do not wish to take me, thus afflicted with sorrow, to the forest, I shall resort to poison, fire, or water in order to end my life (mṛtyukāraṇāt).”
+“If you do not wish to take me, thus afflicted with sorrow, to the forest, I shall resort to poison, fire, or water in order to end my life (_mṛtyukāraṇāt_).”
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ not agree to take her to the forest, which is a solitary place.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus in manifold ways did she implore him concerning her departure; yet the mighty-armed hero did not consent (nānumene) to take her into the solitary forest (vijanaṃ vanam).
+Thus in manifold ways did she implore him concerning her departure; yet the mighty-armed hero did not consent (_nānumene_) to take her into the solitary forest (_vijanaṃ vanam_).
 </details>
 </details>
 
@@ -1221,7 +1221,7 @@ with burning tears, trickling down her eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, the princess of Mithilā sank into deep anxiety (cintāṃ samupāgatā), as though bathing the earth with hot tears falling from her eyes.
+Addressed thus, the princess of Mithilā sank into deep anxiety (_cintāṃ samupāgatā_), as though bathing the earth with hot tears falling from her eyes.
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ who was sorrowful as above.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeking to dissuade Vaidehī, who was then plunged in thought and filled with loving indignation (krodhāviṣṭām), the self-possessed Kākutstha consoled her at length (bahv asāntvayat).
+Seeking to dissuade Vaidehī, who was then plunged in thought and filled with loving indignation (_krodhāviṣṭām_), the self-possessed Kākutstha consoled her at length (_bahv asāntvayat_).
 </details>
 </details>
 

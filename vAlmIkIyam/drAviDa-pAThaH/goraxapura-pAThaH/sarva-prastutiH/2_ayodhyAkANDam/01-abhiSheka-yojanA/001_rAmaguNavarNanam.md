@@ -64,7 +64,7 @@ Bharata and Śatrughna reside at the court of their maternal uncle Aśvapati in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Bharata set out at that time for the house of his maternal uncle (mātula-kulam), the sinless (anaghaḥ) Śatrughna—the perpetual subduer of his internal foes (nitya-śatrughnaḥ)—was taken along by him, impelled by deep fraternal affection (prīti-puraskṛtaḥ).
+When Bharata set out at that time for the house of his maternal uncle (_mātula-kulam_), the sinless (_anaghaḥ_) Śatrughna—the perpetual subduer of his internal foes (_nitya-śatrughnaḥ_)—was taken along by him, impelled by deep fraternal affection (_prīti-puraskṛtaḥ_).
 </details>
 </details>
 
@@ -125,7 +125,7 @@ was a lord of cavalry, Bharatha stayed with his brother there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored with every hospitable courtesy (satkāra-satkṛtaḥ) and cherished with paternal affection (putra-snehena lālitaḥ) by his maternal uncle Aśvapati, he dwelt there together with his brother.
+Honored with every hospitable courtesy (_satkāra-satkṛtaḥ_) and cherished with paternal affection (_putra-snehena lālitaḥ_) by his maternal uncle Aśvapati, he dwelt there together with his brother.
 </details>
 </details>
 
@@ -171,7 +171,7 @@ comforts, were remembering their age old father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though dwelling there and being gratified with every desired pleasure (kāmataḥ), the two heroic brothers ever remembered the aged monarch Daśaratha.
+Though dwelling there and being gratified with every desired pleasure (_kāmataḥ_), the two heroic brothers ever remembered the aged monarch Daśaratha.
 </details>
 </details>
 
@@ -217,7 +217,7 @@ were out of his state and who were equivalent to Indra and Varuna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king too, of mighty splendour (mahā-tejāḥ), constantly remembered those two absent sons—both Bharata and Śatrughna—who were equal unto Mahendra and Varuṇa.
+The king too, of mighty splendour (_mahā-tejāḥ_), constantly remembered those two absent sons—both Bharata and Śatrughna—who were equal unto Mahendra and Varuṇa.
 </details>
 </details>
 
@@ -263,7 +263,7 @@ as though they were his four hands emerging out of his own body.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All four of those bulls among men (puruṣarṣabhāḥ) were equally dear to him, like four mighty arms sprung forth from his own body.
+All four of those bulls among men (_puruṣarṣabhāḥ_) were equally dear to him, like four mighty arms sprung forth from his own body.
 </details>
 </details>
 
@@ -309,7 +309,7 @@ brothers and the mightiest was a great source of joy for his father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet even among them, Rāma of great splendour, the delighter of his father (ratikaraḥ pituḥ), was preeminent in virtues (guṇavattaraḥ), like the self-born Brahmā (svayambhūḥ) among all living beings.
+Yet even among them, Rāma of great splendour, the delighter of his father (_ratikaraḥ pituḥ_), was preeminent in virtues (_guṇavattaraḥ_), like the self-born Brahmā (_svayambhūḥ_) among all living beings.
 </details>
 </details>
 
@@ -363,7 +363,7 @@ celestials to kill the egoistic Ravana?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For He, the eternal Viṣṇu (viṣṇuḥ sanātanaḥ), when entreated by the gods desiring the destruction of the arrogant (udīrṇasya) Rāvaṇa, was born in the mortal world (mānuṣe loke).
+For He, the eternal Viṣṇu (_viṣṇuḥ sanātanaḥ_), when entreated by the gods desiring the destruction of the arrogant (_udīrṇasya_) Rāvaṇa, was born in the mortal world (_mānuṣe loke_).
 </details>
 </details>
 
@@ -409,7 +409,7 @@ mighty.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kausalyā shone resplendent with that son of boundless lustre (amita-tejasā), even as Aditi shone with the thunderbolt-wielding Indra (vajra-pāṇinā), the foremost of the gods.
+Kausalyā shone resplendent with that son of boundless lustre (_amita-tejasā_), even as Aditi shone with the thunderbolt-wielding Indra (_vajra-pāṇinā_), the foremost of the gods.
 </details>
 </details>
 
@@ -455,7 +455,7 @@ like Dasaratha. In this way, he was an incomparable son on earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with beauty, heroic valour, and freedom from envy (anasūyakaḥ), he was a son peerless upon the earth (bhūmāv anupamaḥ), and equal to Daśaratha in noble virtues.
+Endowed with beauty, heroic valour, and freedom from envy (_anasūyakaḥ_), he was a son peerless upon the earth (_bhūmāv anupamaḥ_), and equal to Daśaratha in noble virtues.
 </details>
 </details>
 
@@ -507,7 +507,7 @@ words spoken by others.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ever serene in soul (praśāntātmā), he always speaks with gentle words first (mṛdu-pūrvaṃ ca bhāṣate); even when addressed harshly (paruṣam), he renders no harsh reply in return.
+Ever serene in soul (_praśāntātmā_), he always speaks with gentle words first (_mṛdu-pūrvaṃ ca bhāṣate_); even when addressed harshly (_paruṣam_), he renders no harsh reply in return.
 </details>
 </details>
 
@@ -559,7 +559,7 @@ thing is done to him. He does not remember any number of bad things done to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is gratified by even a single service (upakāreṇa kṛtenaikena) rendered at any time, and through his self-mastery (ātmavattayā) he remembers not even a hundred offenses (apakārāṇāṃ śatam api).
+He is gratified by even a single service (_upakāreṇa kṛtenaikena_) rendered at any time, and through his self-mastery (_ātmavattayā_) he remembers not even a hundred offenses (_apakārāṇāṃ śatam api_).
 </details>
 </details>
 
@@ -605,7 +605,7 @@ with elderly people, elder by way of conduct or wisdom or age or with good- natu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even during the intervals of his martial exercises with weapons (astra-yogyāntareṣv api), he ever sat conversing with virtuous men advanced in character, advanced in wisdom, and advanced in years.
+Even during the intervals of his martial exercises with weapons (_astra-yogyāntareṣv api_), he ever sat conversing with virtuous men advanced in character, advanced in wisdom, and advanced in years.
 </details>
 </details>
 
@@ -660,7 +660,7 @@ valor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wise, sweet-spoken (madhurābhāṣī), the first to greet others in conversation (pūrva-bhāṣī), and kindly in speech (priyaṃvadaḥ), he was mighty in valour, yet never proud (vismitaḥ) of his own great might.
+Wise, sweet-spoken (_madhurābhāṣī_), the first to greet others in conversation (_pūrva-bhāṣī_), and kindly in speech (_priyaṃvadaḥ_), he was mighty in valour, yet never proud (_vismitaḥ_) of his own great might.
 </details>
 </details>
 
@@ -706,7 +706,7 @@ to the elders. People used to love him and he used to love the people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Never uttering an untrue word (anṛta-kathaḥ), learned, and a reverent honorer of elders (vṛddhānāṃ pratipūjakaḥ), he was dearly loved by the subjects and in turn cherished the subjects with affection.
+Never uttering an untrue word (_anṛta-kathaḥ_), learned, and a reverent honorer of elders (_vṛddhānāṃ pratipūjakaḥ_), he was dearly loved by the subjects and in turn cherished the subjects with affection.
 </details>
 </details>
 
@@ -757,7 +757,7 @@ was clean (in conduct).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tender-hearted (sānukrośaḥ), having conquered anger, a reverent honorer of Brāhmaṇas, compassionate toward the afflicted (dīnānukampī), knower of dharma, ever self-restrained (pragrahavān), and pure (śuciḥ);
+Tender-hearted (_sānukrośaḥ_), having conquered anger, a reverent honorer of Brāhmaṇas, compassionate toward the afflicted (_dīnānukampī_), knower of _dharma_, ever self-restrained (_pragrahavān_), and pure (_śuciḥ_);
 </details>
 </details>
 
@@ -811,7 +811,7 @@ fame and through it the fruit of heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessing a mind worthy of his royal lineage (kulocita-matiḥ), he holds in high esteem his own Kṣatriya duty (kṣātraṃ svadharmam), and with supreme delight regards the great reward of heaven as flowing therefrom.
+Possessing a mind worthy of his royal lineage (_kulocita-matiḥ_), he holds in high esteem his own Kṣatriya duty (_kṣātraṃ svadharmam_), and with supreme delight regards the great reward of heaven as flowing therefrom.
 </details>
 </details>
 
@@ -864,7 +864,7 @@ series of strategies for action.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He never takes delight in what is unwholesome (aśreyasi), nor relishes discourse opposed to righteousness; like Bṛhaspati, the Lord of Speech (vācaspatir yathā), he is a master speaker of progressive chains of reasoning (uttarottara-yuktīnām).
+He never takes delight in what is unwholesome (_aśreyasi_), nor relishes discourse opposed to righteousness; like Bṛhaspati, the Lord of Speech (_vācaspatir yathā_), he is a master speaker of progressive chains of reasoning (_uttarottara-yuktīnām_).
 </details>
 </details>
 
@@ -918,7 +918,7 @@ earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Free from disease, youthful (taruṇaḥ), eloquent (vāgmī), comely in form, knowing the proper place and season, and discerning the true worth of men (puruṣa-sārajñaḥ), he was fashioned as the one peerless righteous man in the world.
+Free from disease, youthful (_taruṇaḥ_), eloquent (_vāgmī_), comely in form, knowing the proper place and season, and discerning the true worth of men (_puruṣa-sārajñaḥ_), he was fashioned as the one peerless righteous man in the world.
 </details>
 </details>
 
@@ -972,7 +972,7 @@ outside.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with the noblest virtues, that prince became through his excellences as dear to the subjects as their own vital breath moving outside their bodies (bahiścara iva prāṇaḥ).
+Endowed with the noblest virtues, that prince became through his excellences as dear to the subjects as their own vital breath moving outside their bodies (_bahiścara iva prāṇaḥ_).
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ as prescribed, became better than his father in the use of bow and arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having completed the sacred vows of all branches of learning (sarva-vidyā-vrata-snātaḥ) and knowing the Vedas together with their auxiliary limbs (sāṅga-vedavit) in due order, the elder brother of Bharata surpassed even his father in the science of arrows and mantra-missiles (iṣv-astre).
+Having completed the sacred vows of all branches of learning (_sarva-vidyā-vrata-snātaḥ_) and knowing the Vedas together with their auxiliary limbs (_sāṅga-vedavit_) in due order, the elder brother of Bharata surpassed even his father in the science of arrows and mantra-missiles (_iṣv-astre_).
 </details>
 </details>
 
@@ -1073,7 +1073,7 @@ righteousness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of noble lineage (kalyāṇābhijanaḥ), righteous, nunca-dejected (adīnaḥ), truthful in speech, and straightforward (ṛjuḥ), he was thoroughly trained by aged twice-born sages who perceived the truth of dharma and worldly welfare.
+Of noble lineage (_kalyāṇābhijanaḥ_), righteous, nunca-dejected (_adīnaḥ_), truthful in speech, and straightforward (_ṛjuḥ_), he was thoroughly trained by aged twice-born sages who perceived the truth of _dharma_ and worldly welfare.
 </details>
 </details>
 
@@ -1121,7 +1121,7 @@ at that time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the true essence of dharma, pleasure (kāma), and wealth (artha), endowed with unfailing memory (smṛtimān) and spontaneous insight (pratibhānavān), he was well-established and skilled in worldly customs and conventions (laukike samayācāre).
+Knowing the true essence of _dharma_, pleasure (_kāma_), and wealth (_artha_), endowed with unfailing memory (_smṛtimān_) and spontaneous insight (_pratibhānavān_), he was well-established and skilled in worldly customs and conventions (_laukike samayācāre_).
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ when not to give.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Modest (nibhṛtaḥ), concealing his inner emotions (saṃvṛtākāraḥ), keeping his counsel secret (gupta-mantraḥ), and surrounded by able allies, his anger and favour were never in vain (amogha-krodha-harṣaḥ), and he knew the proper season for liberality and restraint.
+Modest (_nibhṛtaḥ_), concealing his inner emotions (_saṃvṛtākāraḥ_), keeping his counsel secret (_gupta-mantraḥ_), and surrounded by able allies, his anger and favour were never in vain (_amogha-krodha-harṣaḥ_), and he knew the proper season for liberality and restraint.
 </details>
 </details>
 
@@ -1221,7 +1221,7 @@ others.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Steadfast in devotion (dṛḍha-bhaktiḥ), firm in wisdom, neither grasping after what is base nor harsh in speech (na durvacaḥ), he was free from sloth (nistandrīḥ), vigilant, and a discerner of both his own faults and the faults of others (svadoṣa-paradoṣavit).
+Steadfast in devotion (_dṛḍha-bhaktiḥ_), firm in wisdom, neither grasping after what is base nor harsh in speech (_na durvacaḥ_), he was free from sloth (_nistandrīḥ_), vigilant, and a discerner of both his own faults and the faults of others (_svadoṣa-paradoṣavit_).
 </details>
 </details>
 
@@ -1275,7 +1275,7 @@ men. He could judiciously discriminate whom to protect and whom to punish.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learned in the śāstras, grateful (kṛtajñaḥ), and skilled in discerning the inner differences among men (puruṣāntara-kovidaḥ), he was expert in exercising restraint and conferring favour (pragrahānugrahayoḥ) in due accordance with justice.
+Learned in the _śāstras_, grateful (_kṛtajñaḥ_), and skilled in discerning the inner differences among men (_puruṣāntara-kovidaḥ_), he was expert in exercising restraint and conferring favour (_pragrahānugrahayoḥ_) in due accordance with justice.
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ economic sciences.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In welcoming and cherishing the virtuous (sat-saṃgrahānugrahaṇe), he knew the proper occasion for punishment as well (sthānavin nigrahasya ca); conversant with the right means of collecting revenue (āya-karmaṇi), he knew the prescribed rules of royal expenditure (saṃdṛṣṭa-vyaya-karmavit).
+In welcoming and cherishing the virtuous (_sat-saṃgrahānugrahaṇe_), he knew the proper occasion for punishment as well (_sthānavin nigrahasya ca_); conversant with the right means of collecting revenue (_āya-karmaṇi_), he knew the prescribed rules of royal expenditure (_saṃdṛṣṭa-vyaya-karmavit_).
 </details>
 </details>
 
@@ -1397,7 +1397,7 @@ and virtues. He never remained inactive.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having attained preeminence (śraiṣṭhyam) in the entire array of sciences and missile-weapons as well as in mixed literary arts (vyāmiśrakeṣu ca), he enjoyed pleasure only while upholding wealth and righteousness (artha-dharmau ca saṃgṛhya), and was never slothful.
+Having attained preeminence (_śraiṣṭhyam_) in the entire array of sciences and missile-weapons as well as in mixed literary arts (_vyāmiśrakeṣu ca_), he enjoyed pleasure only while upholding wealth and righteousness (_artha-dharmau ca saṃgṛhya_), and was never slothful.
 </details>
 </details>
 
@@ -1452,7 +1452,7 @@ distribute the wealth. He was efficient in riding and also taming of elephants a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A connoisseur of the fine arts of recreation (vaihārikāṇāṃ śilpānām) and knower of the proper division of wealth (artha-vibhāgavit), he was accomplished in mounting and training elephants and steeds (vāraṇa-vājinām).
+A connoisseur of the fine arts of recreation (_vaihārikāṇāṃ śilpānām_) and knower of the proper division of wealth (_artha-vibhāgavit_), he was accomplished in mounting and training elephants and steeds (_vāraṇa-vājinām_).
 </details>
 </details>
 
@@ -1499,7 +1499,7 @@ and killed the enemies in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Foremost among knowers of the science of archery (dhanurveda-vidām) and revered in the world by supreme chariot-warriors (atiratha-sammataḥ), he marched boldly against the foe (abhiyātā), struck in the vanguard (prahartā), and was skilled in arraying armies (senā-naya-viśāradaḥ).
+Foremost among knowers of the science of archery (_dhanurveda-vidām_) and revered in the world by supreme chariot-warriors (_atiratha-sammataḥ_), he marched boldly against the foe (_abhiyātā_), struck in the vanguard (_prahartā_), and was skilled in arraying armies (_senā-naya-viśāradaḥ_).
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ He had not surrendered to time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unassailable (apradhṛṣyaḥ) in battle even by enraged gods and asuras, he was free from envy (anasūyaḥ), master of his wrath, neither arrogant (na dṛptaḥ) nor jealous of others’ prosperity (na ca matsarī).
+Unassailable (_apradhṛṣyaḥ_) in battle even by enraged gods and _asuras_, he was free from envy (_anasūyaḥ_), master of his wrath, neither arrogant (_na dṛptaḥ_) nor jealous of others’ prosperity (_na ca matsarī_).
 </details>
 </details>
 
@@ -1631,9 +1631,9 @@ joy to his father. As the sun shines with his rays, Rama was shining, thus, with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** Never to be slighted by any living being (nāvajñeyaś ca bhūtānām) and never subject to the sway of Time (na ca kāla-vaśānugaḥ), that prince was thus endowed with the noblest virtues among the subjects.
+**31:** Never to be slighted by any living being (_nāvajñeyaś ca bhūtānām_) and never subject to the sway of Time (_na ca kāla-vaśānugaḥ_), that prince was thus endowed with the noblest virtues among the subjects.
 
-**32:** Honored throughout the three worlds, he was equal to the Earth in his qualities of forbearance (vasudhāyāḥ kṣamā-guṇaiḥ), equal to Bṛhaspati in intellect (buddhyā), and equal to Śacī’s lord Indra in valour.
+**32:** Honored throughout the three worlds, he was equal to the Earth in his qualities of forbearance (_vasudhāyāḥ kṣamā-guṇaiḥ_), equal to Bṛhaspati in intellect (_buddhyā_), and equal to Śacī’s lord Indra in valour.
 </details>
 </details>
 
@@ -1685,7 +1685,7 @@ of behavior bearing undefeatable valor equal to that of universal lords like Ind
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With those virtues beloved by all the subjects (sarva-prajā-kāntaiḥ) and generating supreme delight in his father, Rāma shone forth resplendently (viruruce), like the blazing sun with its rays.
+With those virtues beloved by all the subjects (_sarva-prajā-kāntaiḥ_) and generating supreme delight in his father, Rāma shone forth resplendently (_viruruce_), like the blazing sun with its rays.
 </details>
 </details>
 
@@ -1731,7 +1731,7 @@ son with his many incomparable virtues.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Earth (medinī) longed for him—who was thus endowed with noble conduct (evaṃ-vṛtta-sampannam), of unassailable prowess, and equal to the Guardians of the World (lokanāthopamam)—as her sovereign lord.
+The Earth (_medinī_) longed for him—who was thus endowed with noble conduct (_evaṃ-vṛtta-sampannam_), of unassailable prowess, and equal to the Guardians of the World (_lokanāthopamam_)—as her sovereign lord.
 </details>
 </details>
 
@@ -1777,7 +1777,7 @@ alive? Shall I enjoy that happiness?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his son endowed with these manifold, peerless virtues (guṇair anupamaiḥ), King Daśaratha, the scorcher of foes, fell to deep reflection (cakre cintām).
+Beholding his son endowed with these manifold, peerless virtues (_guṇair anupamaiḥ_), King Daśaratha, the scorcher of foes, fell to deep reflection (_cakre cintām_).
 </details>
 </details>
 
@@ -1826,7 +1826,7 @@ beloved son Rama crowned as a king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then there arose in the aged, long-lived monarch this fond desire (prītir eṣā): “How may Rāma become king while I am still alive (mayi jīvati)?”
+Then there arose in the aged, long-lived monarch this fond desire (_prītir eṣā_): “How may Rāma become king while I am still alive (_mayi jīvati_)?”
 </details>
 </details>
 
@@ -1889,7 +1889,7 @@ desires the development of the world and has compassion towards all living being
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This supreme desire (parā prītiḥ) revolved unceasingly in his heart: “When indeed shall I behold my beloved son consecrated (abhiṣiktam)?”
+This supreme desire (_parā prītiḥ_) revolved unceasingly in his heart: “When indeed shall I behold my beloved son consecrated (_abhiṣiktam_)?”
 </details>
 </details>
 
@@ -1935,7 +1935,7 @@ mountain in courage. He is more virtuous also than me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Desiring the prosperity of the world (vṛddhi-kāmo hi lokasya) and compassionate toward all beings (sarva-bhūtānukampakaḥ), he is dearer to the people than I myself, like a rain-bearing cloud (parjanya iva vṛṣṭimān).”
+“Desiring the prosperity of the world (_vṛddhi-kāmo hi lokasya_) and compassionate toward all beings (_sarva-bhūtānukampakaḥ_), he is dearer to the people than I myself, like a rain-bearing cloud (_parjanya iva vṛṣṭimān_).”
 </details>
 </details>
 
@@ -1981,7 +1981,7 @@ earth?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Equal to Yama and Śakra in valour, equal to Bṛhaspati in counsel (matau), and equal to a mountain in steadfastness (mahīdhara-samo dhṛtyām), he is far richer in virtues than I.”
+“Equal to Yama and Śakra in valour, equal to Bṛhaspati in counsel (_matau_), and equal to a mountain in steadfastness (_mahīdhara-samo dhṛtyām_), he is far richer in virtues than I.”
 </details>
 </details>
 
@@ -2012,7 +2012,7 @@ earth?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having beheld with my own eyes in this aged frame (anena vayasā) my son ruling over this entire earth (mahīm imāṃ kṛtsnām adhitiṣṭhantam), may I then attain heaven!”
+“Having beheld with my own eyes in this aged frame (_anena vayasā_) my son ruling over this entire earth (_mahīm imāṃ kṛtsnām adhitiṣṭhantam_), may I then attain heaven!”
 </details>
 </details>
 
@@ -2092,9 +2092,9 @@ was getting aged.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** Thus endowed with those manifold virtues unattainable by other monarchs (anya-pārthiva-durlabhaiḥ), and with remaining uncounted excellences transcendent in the world (lokottarair guṇaiḥ)—
+**41:** Thus endowed with those manifold virtues unattainable by other monarchs (_anya-pārthiva-durlabhaiḥ_), and with remaining uncounted excellences transcendent in the world (_lokottarair guṇaiḥ_)—
 
-**42:** —beholding him thus endowed with altogether exalted virtues, the king deliberated with his ministers (niścitya sacivaiḥ sārdham) and resolved upon his consecration to the office of Prince Regent (yauvarājyam amanyata).
+**42:** —beholding him thus endowed with altogether exalted virtues, the king deliberated with his ministers (_niścitya sacivaiḥ sārdham_) and resolved upon his consecration to the office of Prince Regent (_yauvarājyam amanyata_).
 </details>
 </details>
 
@@ -2143,7 +2143,7 @@ had beautiful face as a full moon; was a great wise man; and was liked by the pe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wise monarch observed and declared to his ministers the fearful dread born of portents (ghoram utpātajaṃ bhayam) in the heavens, in the mid-space, and on the earth, as well as old age (jarām) in his own body.
+The wise monarch observed and declared to his ministers the fearful dread born of portents (_ghoram utpātajaṃ bhayam_) in the heavens, in the mid-space, and on the earth, as well as old age (_jarām_) in his own body.
 </details>
 </details>
 
@@ -2196,7 +2196,7 @@ appropriate time has come.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He recognized too the universal popularity (sampriyatvam) in the world of the high-souled Rāma of full-moon countenance (pūrṇa-candrānanasya), which would dispel his own grief and anxiety (śokāpanudam ātmanaḥ).
+He recognized too the universal popularity (_sampriyatvam_) in the world of the high-souled Rāma of full-moon countenance (_pūrṇa-candrānanasya_), which would dispel his own grief and anxiety (_śokāpanudam ātmanaḥ_).
 </details>
 </details>
 
@@ -2251,7 +2251,7 @@ in his kingdom separately.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the welfare of himself and his subjects, and impelled by affectionate joy, when the auspicious time arrived (prāpte kāle), that righteous-souled monarch hastened with devotion (bhaktyā tvaritavān nṛpaḥ).
+For the welfare of himself and his subjects, and impelled by affectionate joy, when the auspicious time arrived (_prāpte kāle_), that righteous-souled monarch hastened with devotion (_bhaktyā tvaritavān nṛpaḥ_).
 </details>
 </details>
 
@@ -2297,7 +2297,7 @@ Bharatha or the King Janaka as he thought they both could hear the good news eve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The lord of the earth convoked (samānināya) the foremost leaders (pradhānān) upon the earth—both residents of various cities (nānā-nagara-vāstavyān) and rulers of diverse provinces (pṛthag-jānapadān api).
+The lord of the earth convoked (_samānināya_) the foremost leaders (_pradhānān_) upon the earth—both residents of various cities (_nānā-nagara-vāstavyān_) and rulers of diverse provinces (_pṛthag-jānapadān api_).
 </details>
 </details>
 
@@ -2351,7 +2351,7 @@ himself, he looked after them in the manner Lord Brahma looks after his children
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned in royal splendour, the king beheld those guests who had been duly honored according to rank with mansions and varied ornaments (veśma-nānābharaṇaiḥ), even as Prajāpati beholds his creatures.
+Adorned in royal splendour, the king beheld those guests who had been duly honored according to rank with mansions and varied ornaments (_veśma-nānābharaṇaiḥ_), even as Prajāpati beholds his creatures.
 </details>
 </details>
 
@@ -2406,7 +2406,7 @@ king Dasaratha , who annihilates the opponent's army, occupied his seat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In his haste (tvarayā), however, the lord of men did not summon the King of Kekaya or Janaka, thinking: “Those two will hear the joyful news afterward (paścāt tau śroṣyataḥ priyam).”
+In his haste (_tvarayā_), however, the lord of men did not summon the King of Kekaya or Janaka, thinking: “Those two will hear the joyful news afterward (_paścāt tau śroṣyataḥ priyam_).”
 </details>
 </details>
 
@@ -2452,7 +2452,7 @@ by facing toward the king as per the prescribed rules.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that monarch, the crusher of enemy citadels (para-purārdane), had taken his seat, the remaining kings who were held in high esteem by the world entered the assembly.
+When that monarch, the crusher of enemy citadels (_para-purārdane_), had taken his seat, the remaining kings who were held in high esteem by the world entered the assembly.
 </details>
 </details>
 
@@ -2503,7 +2503,7 @@ celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, upon the varied seats assigned to them by the king (rāja-vitīrṇeṣu vividheṣv āsaneṣu), the disciplined monarchs sat down facing the sovereign alone (rājānam evābhimukhāḥ).
+Then, upon the varied seats assigned to them by the king (_rāja-vitīrṇeṣu vividheṣv āsaneṣu_), the disciplined monarchs sat down facing the sovereign alone (_rājānam evābhimukhāḥ_).
 </details>
 </details>
 
@@ -2549,6 +2549,6 @@ Then, upon the varied seats assigned to them by the king (rāja-vitīrṇeṣu v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by those honored and modest kings, as well as by city-dwellers and country-folk (purālayair jānapadaiś ca mānavaiḥ) seated near him, the monarch shone forth like the thousand-eyed Lord Indra (sahasra-cakṣur bhagavān) encircled by the immortals.
+Surrounded by those honored and modest kings, as well as by city-dwellers and country-folk (_purālayair jānapadaiś ca mānavaiḥ_) seated near him, the monarch shone forth like the thousand-eyed Lord Indra (_sahasra-cakṣur bhagavān_) encircled by the immortals.
 </details>
 </details>

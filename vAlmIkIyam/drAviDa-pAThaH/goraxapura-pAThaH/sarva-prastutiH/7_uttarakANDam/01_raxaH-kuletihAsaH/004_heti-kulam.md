@@ -48,7 +48,7 @@ Astonished to hear from Agastya that rākṣasas occupied Laṅkā even before P
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the words uttered by Agastya (agastyeritaṃ vākyam), Rāma was filled with wonder (vismayam āgataḥ): how indeed had there been an origin and abode of rākṣasas (sambhavo rakṣasām) in Laṅkā in ancient times (purā)?
+Having heard the words uttered by Agastya (_agastyeritaṃ vākyam_), Rāma was filled with wonder (_vismayam āgataḥ_): how indeed had there been an origin and abode of rākṣasas (_sambhavo rakṣasām_) in Laṅkā in ancient times (_purā_)?
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having heard the words uttered by Agastya (agastyeritaṃ vākyam), Rāma was fi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛṣṭvā) upon Agastya, whose frame shone like the three sacred fires (tretāgni-sama-vigraham), he spoke in astonishment (smayamāno ’bhyabhāṣata):
+Then, shaking his head (_śiraḥ kampayitvā_) and gazing repeatedly (_muhur dṛṣṭvā_) upon Agastya, whose frame shone like the three sacred fires (_tretāgni-sama-vigraham_), he spoke in astonishment (_smayamāno ’bhyabhāṣata_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Blessed One (bhagavan), did this Laṅkā belong to flesh-eating rākṣasas (piśitāśinām) even in earlier times (pūrvam api)? Hearing this utterance of Your Reverence (bhagavad-vākyam), supreme wonder (vismayaḥ paraḥ) has arisen in me!
+“O Blessed One (_bhagavan_), did this Laṅkā belong to flesh-eating rākṣasas (_piśitāśinām_) even in earlier times (_pūrvam api_)? Hearing this utterance of Your Reverence (_bhagavad-vākyam_), supreme wonder (_vismayaḥ paraḥ_) has arisen in me!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We had heard (naḥ śrutam) that the rākṣasas sprang from the lineage of Pulastya (pulastya-vaṃśād udbhūtāḥ); yet now an origin from another source as well (anyataś cāpi sambhavaḥ) has been proclaimed by you!
+“We had heard (_naḥ śrutam_) that the rākṣasas sprang from the lineage of Pulastya (_pulastya-vaṃśād udbhūtāḥ_); yet now an origin from another source as well (_anyataś cāpi sambhavaḥ_) has been proclaimed by you!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Were those [earlier rākṣasas] mightier (balavattarāḥ) even than Rāvaṇa, Kumbhakarṇa, Prahasta, and Vikaṭa, and even than the sons of Rāvaṇa (rāvaṇasya ca putrebhyaḥ)?
+“Were those [earlier rākṣasas] mightier (_balavattarāḥ_) even than Rāvaṇa, Kumbhakarṇa, Prahasta, and Vikaṭa, and even than the sons of Rāvaṇa (_rāvaṇasya ca putrebhyaḥ_)?
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who was their progenitor (pūrvakaḥ), O Brāhmaṇa (brahman), and what was the name (kinnāmā) of that one of surging might (balotkaṭaḥ)? And having incurred what offense (aparādhaṃ ca kaṃ prāpya), how were they put to flight by Viṣṇu (viṣṇunā drāvitāḥ katham)?
+“Who was their progenitor (_pūrvakaḥ_), O Brāhmaṇa (_brahman_), and what was the name (_kinnāmā_) of that one of surging might (_balotkaṭaḥ_)? And having incurred what offense (_aparādhaṃ ca kaṃ prāpya_), how were they put to flight by Viṣṇu (_viṣṇunā drāvitāḥ katham_)?
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Marvelling at Rāma’s refined inquiry, Agastya begins at the dawn of creation:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Relate all this to me in full detail (vistarataḥ sarvam), O sinless one (anagha); dispel this curiosity of mine (kutūhalam idaṃ mahyaṃ nuda), even as the sun dispels darkness (bhānur yathā tamaḥ).”
+“Relate all this to me in full detail (_vistarataḥ sarvam_), O sinless one (_anagha_); dispel this curiosity of mine (_kutūhalam idaṃ mahyaṃ nuda_), even as the sun dispels darkness (_bhānur yathā tamaḥ_).”
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Marvelling at Rāma’s refined inquiry, Agastya begins at the dawn of creation:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those auspicious words of Rāghava, adorned with refined elegance (saṃskārālaṅkṛtaṃ śubham), Agastya, mildly marvelling (īṣad vismayamānaḥ), spoke thus to Rāghava:
+Hearing those auspicious words of Rāghava, adorned with refined elegance (_saṃskārālaṅkṛtaṃ śubham_), Agastya, mildly marvelling (_īṣad vismayamānaḥ_), spoke thus to Rāghava:
 </details>
 </details>
 
@@ -306,7 +306,7 @@ Hearing those auspicious words of Rāghava, adorned with refined elegance (saṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the beginning (purā), having created the primeval waters (apaḥ), the Lord of Creatures (prajāpatiḥ), water-born (salila-sambhavaḥ) and lotus-born (padma-sambhavaḥ), created living beings (sattvān) for their guardianship (tāsāṃ gopāyane).
+“In the beginning (_purā_), having created the primeval waters (_apaḥ_), the Lord of Creatures (_prajāpatiḥ_), water-born (_salila-sambhavaḥ_) and lotus-born (_padma-sambhavaḥ_), created living beings (_sattvān_) for their guardianship (_tāsāṃ gopāyane_).
 </details>
 </details>
 
@@ -340,7 +340,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those beings (te sattvāḥ), tormented by fear of hunger and thirst (kṣut-pipāsā-bhayārditāḥ), approached the Creator of beings (sattva-kartāram) in humble reverence (vinītavat), asking, ‘What shall we do (kiṃ kurmaḥ)?’
+“Those beings (_te sattvāḥ_), tormented by fear of hunger and thirst (_kṣut-pipāsā-bhayārditāḥ_), approached the Creator of beings (_sattva-kartāram_) in humble reverence (_vinītavat_), asking, ‘What shall we do (_kiṃ kurmaḥ_)?’
 </details>
 </details>
 
@@ -371,7 +371,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the honor-bestowing Lord of Creatures (prajāpatiḥ ... mānadaḥ), smiling gently as it were (prahasann iva), addressed those beings (tāni sattvāni) with the spoken command: ‘Guard [these waters] with diligence (yatnena rakṣadhvam)!’
+“Then the honor-bestowing Lord of Creatures (_prajāpatiḥ ... mānadaḥ_), smiling gently as it were (_prahasann iva_), addressed those beings (_tāni sattvāni_) with the spoken command: ‘Guard [these waters] with diligence (_yatnena rakṣadhvam_)!’
 </details>
 </details>
 
@@ -405,7 +405,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon some among them cried, ‘We shall guard (rakṣāma)!’ while others cried, ‘We shall devour (jakṣāma)!’ Addressed thus by those hungry and non-hungry beings (bhukṣitābhukṣitair uktaḥ), the Maker of Beings (bhūtakṛt) then spoke to them:
+“Thereupon some among them cried, ‘We shall guard (_rakṣāma_)!’ while others cried, ‘We shall devour (_jakṣāma_)!’ Addressed thus by those hungry and non-hungry beings (_bhukṣitābhukṣitair uktaḥ_), the Maker of Beings (_bhūtakṛt_) then spoke to them:
 </details>
 </details>
 
@@ -444,7 +444,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘Let those among you (vaḥ) who declared, We shall guard (rakṣāma), become Rākṣasas (rākṣasās te bhavantu); and let those among you who declared, We shall devour (jakṣāma), become Yakṣas (yakṣā eva bhavantu)!’
+“ ‘Let those among you (_vaḥ_) who declared, We shall guard (_rakṣāma_), become Rākṣasas (_rākṣasās te bhavantu_); and let those among you who declared, We shall devour (_jakṣāma_), become Yakṣas (_yakṣā eva bhavantu_)!’
 </details>
 </details>
 
@@ -475,7 +475,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Among them (tatra) arose two brothers, sovereigns of the rākṣasas (bhrātarau rākṣasādhipau), Heti and Praheti (hetiḥ prahetiś ca), tamers of foes (arindamau), resembling Madhu and Kaiṭabha (madhu-kaiṭabha-saṅkāśau).
+“Among them (_tatra_) arose two brothers, sovereigns of the rākṣasas (_bhrātarau rākṣasādhipau_), Heti and Praheti (_hetiḥ prahetiś ca_), tamers of foes (_arindamau_), resembling Madhu and Kaiṭabha (_madhu-kaiṭabha-saṅkāśau_).
 </details>
 </details>
 
@@ -506,7 +506,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of those two, the righteous Praheti (prahetir dhārmikaḥ) then departed to the penance grove (tapovana-gataḥ), whereas Heti made a strenuous effort (paraṃ yatnam athākarot) for the sake of taking a wife (dāra-kriyārthe).
+“Of those two, the righteous Praheti (_prahetir dhārmikaḥ_) then departed to the penance grove (_tapovana-gataḥ_), whereas Heti made a strenuous effort (_paraṃ yatnam athākarot_) for the sake of taking a wife (_dāra-kriyārthe_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That great-minded one of immeasurable spirit (ameyātmā ... mahāmatiḥ) himself sought out and wedded (udāvahat ... svayam eva) the maiden named Bhayā (bhayāṃ nāma), the fear-inspiring (bhayāvahām) sister of Kāla [Death] (kāla-bhaginīm).
+“That great-minded one of immeasurable spirit (_ameyātmā ... mahāmatiḥ_) himself sought out and wedded (_udāvahat ... svayam eva_) the maiden named Bhayā (_bhayāṃ nāma_), the fear-inspiring (_bhayāvahām_) sister of Kāla [Death] (_kāla-bhaginīm_).
 </details>
 </details>
 
@@ -568,7 +568,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon her (tasyām), Heti, that bull among rākṣasas (rākṣasa-puṅgavaḥ) and foremost of fathers (putravatāṃ śreṣṭhaḥ), begot a son famed by the name Vidyutkeśa (vidyutkeśa iti śrutam).
+“Upon her (_tasyām_), Heti, that bull among rākṣasas (_rākṣasa-puṅgavaḥ_) and foremost of fathers (_putravatāṃ śreṣṭhaḥ_), begot a son famed by the name Vidyutkeśa (_vidyutkeśa iti śrutam_).
 </details>
 </details>
 
@@ -599,7 +599,7 @@ Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas ari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That son of Heti, Vidyutkeśa, of mighty splendor (mahātejāḥ) and radiant as the blazing sun (dīptārka-samaprabhaḥ), grew apace like a rain-cloud [or lotus] in the midst of waters (toya-madhya ivāmbudaḥ).
+“That son of Heti, Vidyutkeśa, of mighty splendor (_mahātejāḥ_) and radiant as the blazing sun (_dīptārka-samaprabhaḥ_), grew apace like a rain-cloud [or lotus] in the midst of waters (_toya-madhya ivāmbudaḥ_).
 </details>
 </details>
 
@@ -638,7 +638,7 @@ When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that night-roamer (niśācaraḥ) attained fair youth (yauvanaṃ bhadram), his father thereupon resolved (vyavasitaḥ pitā) to arrange his marriage (dāra-kriyāṃ tasya kartum).
+“When that night-roamer (_niśācaraḥ_) attained fair youth (_yauvanaṃ bhadram_), his father thereupon resolved (_vyavasitaḥ pitā_) to arrange his marriage (_dāra-kriyāṃ tasya kartum_).
 </details>
 </details>
 
@@ -669,7 +669,7 @@ When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Heti, that bull among rākṣasas (rākṣasa-puṅgavaḥ), sought in marriage (varayām āsa) for his son’s sake (putrārtham) the daughter of Sandhyā (sandhyāyās tanayām), equal to Sandhyā herself in might (sandhyā-tulyāṃ prabhāvataḥ).
+“Then Heti, that bull among rākṣasas (_rākṣasa-puṅgavaḥ_), sought in marriage (_varayām āsa_) for his son’s sake (_putrārtham_) the daughter of Sandhyā (_sandhyāyās tanayām_), equal to Sandhyā herself in might (_sandhyā-tulyāṃ prabhāvataḥ_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Reflecting, ‘She must inevitably be given in marriage to another (avaśyam eva dātavyā parasmai),’ Sandhyā bestowed her daughter (sutā dattā) upon Vidyutkeśa, O Rāghava (rāghava).
+“Reflecting, ‘She must inevitably be given in marriage to another (_avaśyam eva dātavyā parasmai_),’ Sandhyā bestowed her daughter (_sutā dattā_) upon Vidyutkeśa, O Rāghava (_rāghava_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained the daughter of Sandhyā, the night-roamer Vidyutkeśa sported with her (ramate sma tayā sārdham) even as Indra [Maghavān] sports with Paulomī (paulomyā maghavān iva).
+“Having obtained the daughter of Sandhyā, the night-roamer Vidyutkeśa sported with her (_ramate sma tayā sārdham_) even as Indra [Maghavān] sports with Paulomī (_paulomyā maghavān iva_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, after some time (kenacit tv atha kālena), O Rāma, Sālakaṭaṅkaṭā conceived a child from Vidyutkeśa (vidyutkeśād garbham āpa), even as a bank of rain-clouds draws moisture from the ocean (ghana-rājir ivārṇavāt).
+“Then, after some time (_kenacit tv atha kālena_), O Rāma, Sālakaṭaṅkaṭā conceived a child from Vidyutkeśa (_vidyutkeśād garbham āpa_), even as a bank of rain-clouds draws moisture from the ocean (_ghana-rājir ivārṇavāt_).
 </details>
 </details>
 
@@ -807,7 +807,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then that rākṣasī, going to Mount Mandara (mandaraṃ gatvā), gave birth (prasūtā) to a child radiant as the lightning-core of a thundercloud (ghana-garbha-samaprabham), even as Gaṅgā brought forth the fire-born babe [Skanda] (gaṅgā garbham ivāgnijam).
+“Then that rākṣasī, going to Mount Mandara (_mandaraṃ gatvā_), gave birth (_prasūtā_) to a child radiant as the lightning-core of a thundercloud (_ghana-garbha-samaprabham_), even as Gaṅgā brought forth the fire-born babe [Skanda] (_gaṅgā garbham ivāgnijam_).
 </details>
 </details>
 
@@ -838,7 +838,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet abandoning that newborn child (samutsṛjya tu sā garbham), yearning for amorous sport with Vidyutkeśa (vidyutkeśa-ratārthinī), she dallied with her husband (reme tu sārdhaṃ patinā), completely forgetting the son born of her own body (vismṛtya sutam ātmajam).
+“Yet abandoning that newborn child (_samutsṛjya tu sā garbham_), yearning for amorous sport with Vidyutkeśa (_vidyutkeśa-ratārthinī_), she dallied with her husband (_reme tu sārdhaṃ patinā_), completely forgetting the son born of her own body (_vismṛtya sutam ātmajam_).
 </details>
 </details>
 
@@ -869,7 +869,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abandoned thus (utsṛṣṭas tu tadā), that newborn with a voice like the rumble of thunderclouds (ghana-śabda-samasvanaḥ)—that infant forsaken by her (tayotsṛṣṭaḥ sa tu śiśuḥ), gleaming like the autumn sun (śarad-arka-samadyutiḥ)—thrust his own fist into his mouth (nidhāyāsye svayaṃ muṣṭim) and began to weep softly (ruroda śanakais tadā).
+“Abandoned thus (_utsṛṣṭas tu tadā_), that newborn with a voice like the rumble of thunderclouds (_ghana-śabda-samasvanaḥ_)—that infant forsaken by her (_tayotsṛṣṭaḥ sa tu śiśuḥ_), gleaming like the autumn sun (_śarad-arka-samadyutiḥ_)—thrust his own fist into his mouth (_nidhāyāsye svayaṃ muṣṭim_) and began to weep softly (_ruroda śanakais tadā_).
 </details>
 </details>
 
@@ -900,7 +900,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just then, riding upon his bull (vṛṣabham āsthāya) in the company of Pārvatī (pārvatyā sahitaḥ), Śiva, travelling along the aerial path (vāyu-mārgeṇa gacchan), heard the sound of that weeping (śuśrāva rudita-svanam).
+“Just then, riding upon his bull (_vṛṣabham āsthāya_) in the company of Pārvatī (_pārvatyā sahitaḥ_), Śiva, travelling along the aerial path (_vāyu-mārgeṇa gacchan_), heard the sound of that weeping (_śuśrāva rudita-svanam_).
 </details>
 </details>
 
@@ -933,7 +933,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with Umā (umayā sārdham), he beheld the weeping rākṣasa infant (rudantaṃ rākṣasātmajam); and moved by Pārvatī’s compassionate disposition (kāruṇya-bhāvāt pārvatyā), Bhava, the slayer of Tripura (bhavas tripura-sūdanaḥ)—
+“Together with Umā (_umayā sārdham_), he beheld the weeping rākṣasa infant (_rudantaṃ rākṣasātmajam_); and moved by Pārvatī’s compassionate disposition (_kāruṇya-bhāvāt pārvatyā_), Bhava, the slayer of Tripura (_bhavas tripura-sūdanaḥ_)—
 </details>
 </details>
 
@@ -972,7 +972,7 @@ At Pārvatī’s prompting, Śiva makes the abandoned infant immortal, instantly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—made that rākṣasa infant equal in age to his mother (mātur eva vayaḥ-samam); and moreover, having rendered him immortal (amaraṃ caiva taṃ kṛtvā), the imperishable, immutable Mahādeva (mahādevo ’kṣaro ’vyayaḥ)—
+“—made that rākṣasa infant equal in age to his mother (_mātur eva vayaḥ-samam_); and moreover, having rendered him immortal (_amaraṃ caiva taṃ kṛtvā_), the imperishable, immutable Mahādeva (_mahādevo ’kṣaro ’vyayaḥ_)—
 </details>
 </details>
 
@@ -1005,9 +1005,9 @@ At Pārvatī’s prompting, Śiva makes the abandoned infant immortal, instantly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** “—bestowed upon him a sky-faring city (puram ākāśagaṃ prādāt) out of desire to please Pārvatī (pārvatyāḥ priya-kāmyayā). And by Umā too a boon was granted to the rākṣasas (rākṣasānām), O prince (nṛpātmaja):
+**30:** “—bestowed upon him a sky-faring city (_puram ākāśagaṃ prādāt_) out of desire to please Pārvatī (_pārvatyāḥ priya-kāmyayā_). And by Umā too a boon was granted to the rākṣasas (_rākṣasānām_), O prince (_nṛpātmaja_):
 
-**31:** “ ‘Instantaneous conception of the embryo (sadyopalabdhir garbhasya), instantaneous delivery as well (prasūtiḥ sadya eva ca), and immediately too the attainment of maturity (sadya eva vayaḥ-prāptiḥ) equal to the very age of the mother (mātur eva vayaḥ-samam)!’
+**31:** “ ‘Instantaneous conception of the embryo (_sadyopalabdhir garbhasya_), instantaneous delivery as well (_prasūtiḥ sadya eva ca_), and immediately too the attainment of maturity (_sadya eva vayaḥ-prāptiḥ_) equal to the very age of the mother (_mātur eva vayaḥ-samam_)!’
 </details>
 </details>
 
@@ -1053,7 +1053,7 @@ At Pārvatī’s prompting, Śiva makes the abandoned infant immortal, instantly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Sukeśa (sukeśaḥ), elated by the bestowal of those boons (vara-dāna-garvitaḥ), having obtained royal splendor (śriyam) from the presence of Lord Hara (prabhoḥ ... harasya pārśvataḥ) and gained that sky-going city (khagaṃ puram), roamed everywhere, mighty and high-minded (mahān mahāmatiḥ), like Indra [Purandara] himself (purandaro yathā).”
+“Thereupon Sukeśa (_sukeśaḥ_), elated by the bestowal of those boons (_vara-dāna-garvitaḥ_), having obtained royal splendor (_śriyam_) from the presence of Lord Hara (_prabhoḥ ... harasya pārśvataḥ_) and gained that sky-going city (_khagaṃ puram_), roamed everywhere, mighty and high-minded (_mahān mahāmatiḥ_), like Indra [Purandara] himself (_purandaro yathā_).”
 </details>
 </details>
 

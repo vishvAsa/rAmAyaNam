@@ -81,7 +81,7 @@ with anger and distress spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with anger and grief, Mantharā looked upon her with indignation (abhyasūyya), cast aside that ornament, and spoke this speech:
+Filled with anger and grief, Mantharā looked upon her with indignation (_abhyasūyya_), cast aside that ornament, and spoke this speech:
 </details>
 </details>
 
@@ -294,7 +294,7 @@ afraid of us?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From Bharata alone—who has an equal claim to the kingdom (rājya-sādhāraṇāt)—arises Rāma’s fear; pondering that, I am dejected, for danger springs from one who is afraid.
+From Bharata alone—who has an equal claim to the kingdom (_rājya-sādhāraṇāt_)—arises Rāma’s fear; pondering that, I am dejected, for danger springs from one who is afraid.
 </details>
 </details>
 
@@ -407,7 +407,7 @@ question."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even by the immediate sequence of birth (pratyāsanna-krameṇāpi), O spirited lady, the order of succession to the throne belongs to Bharata alone after Rāma, whereas that of the two younger brothers is set aside.
+“Even by the immediate sequence of birth (_pratyāsanna-krameṇāpi_), O spirited lady, the order of succession to the throne belongs to Bharata alone after Rāma, whereas that of the two younger brothers is set aside.
 </details>
 </details>
 
@@ -724,7 +724,7 @@ virtues, saying: -
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Mantharā speaking thus in utter displeasure toward Rāma (paramāprītām), Queen Kaikeyī extolled the virtues of Rāma alone:
+Beholding Mantharā speaking thus in utter displeasure toward Rāma (_paramāprītām_), Queen Kaikeyī extolled the virtues of Rāma alone:
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ real position."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Viewing calamity as good through sheer folly (anarthadarśinī maurkhyāt), you do not perceive yourself sinking in a vast ocean of sorrow teeming with grief and ruin!
+“Viewing calamity as good through sheer folly (_anarthadarśinī maurkhyāt_), you do not perceive yourself sinking in a vast ocean of sorrow teeming with grief and ruin!
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ installed, there will be a great lawlessness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For not all the sons of a king sit upon the throne, O spirited lady; if all were installed at once, there would be a mighty disorder of state (sumahān anayaḥ).
+For not all the sons of a king sit upon the throne, O spirited lady; if all were installed at once, there would be a mighty disorder of state (_sumahān anayaḥ_).
 </details>
 </details>
 
@@ -1645,7 +1645,7 @@ Bharata if he was staying near to him in Ayodhya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For it is heard that a certain tree marked for felling by woodcutters was saved from supreme peril by the thorny reeds (iṣīkābhiḥ) growing in close proximity to it.
+“For it is heard that a certain tree marked for felling by woodcutters was saved from supreme peril by the thorny reeds (_iṣīkābhiḥ_) growing in close proximity to it.
 </details>
 </details>
 

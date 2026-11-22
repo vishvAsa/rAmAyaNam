@@ -100,9 +100,9 @@ like red lotus, can be crowned as a prince tomorrow".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** When the citizens had departed, the king—knower of firm counsel (niścayajñaḥ)—took counsel once more with his ministers and arrived at a decisive resolution.
+**1:** When the citizens had departed, the king—knower of firm counsel (_niścayajñaḥ_)—took counsel once more with his ministers and arrived at a decisive resolution.
 
-**2:** The sovereign resolved: “Tomorrow itself the asterism Puṣya will be in ascendance, and tomorrow My lotus-petal-eyed son Rāma must be consecrated as Prince Regent (yuvarājaḥ).”
+**2:** The sovereign resolved: “Tomorrow itself the asterism Puṣya will be in ascendance, and tomorrow My lotus-petal-eyed son Rāma must be consecrated as Prince Regent (_yuvarājaḥ_).”
 </details>
 </details>
 
@@ -254,7 +254,7 @@ uncertain as to the reason for Sumantra's arrival again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the doorkeepers announced Sumantra’s return to Rāma, Rāma heard that he had arrived again and became slightly apprehensive (śaṅkānvitaḥ).
+When the doorkeepers announced Sumantra’s return to Rāma, Rāma heard that he had arrived again and became slightly apprehensive (_śaṅkānvitaḥ_).
 </details>
 </details>
 
@@ -367,7 +367,7 @@ yourself in this matter whether to proceed to your father or otherwise".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the charioteer replied to Him: “The king desires to see You; having heard this, You are the authority (pramāṇam) there as to whether to go or otherwise.”
+Then the charioteer replied to Him: “The king desires to see You; having heard this, You are the authority (_pramāṇam_) there as to whether to go or otherwise.”
 </details>
 </details>
 
@@ -739,7 +739,7 @@ to myself (by enjoying all comforts as I desired)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desired joys too have been experienced by Me, O hero; I stand free of debt (anṛṇaḥ) to the gods, sages, ancestors, and Brāhmaṇas, as well as to my own self.
+Desired joys too have been experienced by Me, O hero; I stand free of debt (_anṛṇaḥ_) to the gods, sages, ancestors, and Brāhmaṇas, as well as to my own self.
 </details>
 </details>
 
@@ -944,7 +944,7 @@ are encroaching my birth star."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the astrologers (daivajñāḥ) report, O Rāma, that my birth-asterism is beleaguered (avaṣṭabdham) by dread planets—the Sun, Mars, and Rāhu.”
+And the astrologers (_daivajñāḥ_) report, O Rāma, that my birth-asterism is beleaguered (_avaṣṭabdham_) by dread planets—the Sun, Mars, and Rāhu.”
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ the moon joins Pushyami star."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today the Moon has entered Punarvasu, which precedes Puṣya; tomorrow the astrologers (daivacintakāḥ) declare Its conjunction with Puṣya to be certain.
+Today the Moon has entered Punarvasu, which precedes Puṣya; tomorrow the astrologers (_daivacintakāḥ_) declare Its conjunction with Puṣya to be certain.
 </details>
 </details>
 
@@ -1218,7 +1218,7 @@ this night from now onwards, and sleep on a couch made of Kusha grass."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, beginning from today, this night must be spent in fasting (upavastavyā) by You with subdued mind alongside Your bride, sleeping upon a litter of darbha grass.
+Therefore, beginning from today, this night must be spent in fasting (_upavastavyā_) by You with subdued mind alongside Your bride, sleeping upon a litter of _darbha_ grass.
 </details>
 </details>
 
@@ -1395,7 +1395,7 @@ righteous, endowed with goodness, sometimes may act unexpectedly on impulse."
 
 **26:** To be sure, Your brother Bharata abides steadfastly in the conduct of the righteous—obedient to his elder brother, righteous-souled, compassionate, and of conquered senses.
 
-**27:** Yet I hold that the mind of men is mutable; even the mind of the good who are constant in dharma is graced only by deeds already accomplished (kṛtaśobhi), O Rāghava.”
+**27:** Yet I hold that the mind of men is mutable; even the mind of the good who are constant in dharma is graced only by deeds already accomplished (_kṛtaśobhi_), O Rāghava.”
 </details>
 </details>
 
@@ -1548,7 +1548,7 @@ wearing silk clothes and praying to goddess Lakshmi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There in the sanctuary of the deities (devatāgāre) He beheld His mother clad in pure silk, wholly absorbed in devotion, observing silence (vāgyatām), and praying for His fortune.
+There in the sanctuary of the deities (_devatāgāre_) He beheld His mother clad in pure silk, wholly absorbed in devotion, observing silence (_vāgyatām_), and praying for His fortune.
 </details>
 </details>
 
@@ -1660,7 +1660,7 @@ Sumitra, Lakshmana and Seetha were sitting nearby.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that hour Kausalyā remained with half-closed eyes (āmīlitekṣaṇā), attended upon by Sumitrā, Sītā, and Lakṣmaṇa.
+At that hour Kausalyā remained with half-closed eyes (_āmīlitekṣaṇā_), attended upon by Sumitrā, Sītā, and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1713,7 +1713,7 @@ Pushyami star, Kausalya with controlled breath, was meditating on lord Vishnu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that her son would be consecrated in the office of Prince Regent under the Puṣya asterism, she was meditating through breath-regulation (prāṇāyāmena) upon the Supreme Person, Janārdana.
+Having heard that her son would be consecrated in the office of Prince Regent under the Puṣya asterism, she was meditating through breath-regulation (_prāṇāyāmena_) upon the Supreme Person, Janārdana.
 </details>
 </details>
 
@@ -1910,7 +1910,7 @@ anointment ceremony, performed to me and to Seetha today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever auspicious rites (maṅgalāni) are fitting here for the consecration to take place on the morrow, cause them to be performed today for Me and for Vaidehī as well.”
+Whatever auspicious rites (_maṅgalāni_) are fitting here for the consecration to take place on the morrow, cause them to be performed today for Me and for Vaidehī as well.”
 </details>
 </details>
 
@@ -2230,7 +2230,7 @@ reached you, who are my second conscience."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lakṣmaṇa, rule this earth together with Me! Upon you—who are My second inner self (dvitīyaṃ me ’ntarātmānam)—this royal fortune has waited.
+“O Lakṣmaṇa, rule this earth together with Me! Upon you—who are My second inner self (_dvitīyaṃ me ’ntarātmānam_)—this royal fortune has waited.
 </details>
 </details>
 

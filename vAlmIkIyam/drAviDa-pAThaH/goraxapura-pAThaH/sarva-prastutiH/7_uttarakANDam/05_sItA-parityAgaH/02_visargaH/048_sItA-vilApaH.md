@@ -48,7 +48,7 @@ Fainting at Lakṣmaṇa’s dreadful disclosure, Sītā revives in tears to lam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those dreadful words of Lakṣmaṇa (lakṣmaṇasya vacaḥ śrutvā dāruṇam), Janaka’s daughter Vaidehī, overcome by extreme despair (paraṃ viṣādam āgamya), collapsed upon the earth (nipapāta ha).
+Hearing those dreadful words of Lakṣmaṇa (_lakṣmaṇasya vacaḥ śrutvā dāruṇam_), Janaka’s daughter Vaidehī, overcome by extreme despair (_paraṃ viṣādam āgamya_), collapsed upon the earth (_nipapāta ha_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing those dreadful words of Lakṣmaṇa (lakṣmaṇasya vacaḥ śrutvā d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s daughter, her eyes swimming with tears (bāṣpa-paryākulekṣaṇā), spoke to Lakṣmaṇa in a broken voice (dīnayā vācā):
+Lying as though senseless for a moment (_muhūrtam ivāsañjñā_), Janaka’s daughter, her eyes swimming with tears (_bāṣpa-paryākulekṣaṇā_), spoke to Lakṣmaṇa in a broken voice (_dīnayā vācā_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s dau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely this body of mine (māmikeyaṃ tanuḥ) was fashioned by the Creator solely for suffering (sṛṣṭā duḥkhāya ... dhātrā), O Lakṣmaṇa, since today the very embodiment of sorrow (duḥkha-mūrtiḥ) stands revealed in me (yasyās tathā me ’dya ... pradṛśyate)!
+“Surely this body of mine (_māmikeyaṃ tanuḥ_) was fashioned by the Creator solely for suffering (_sṛṣṭā duḥkhāya ... dhātrā_), O Lakṣmaṇa, since today the very embodiment of sorrow (_duḥkha-mūrtiḥ_) stands revealed in me (_yasyās tathā me ’dya ... pradṛśyate_)!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s dau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What sin indeed did I commit in a former life (kiṃ nu pāpaṃ kṛtaṃ pūrvam), or whom did I separate from his wife (ko vā dārair viyojitaḥ), that I—a faithful wife of pure conduct (śuddha-samācārā ... satī)—have been abandoned by the king (tyaktā nṛpatinā)?
+“What sin indeed did I commit in a former life (_kiṃ nu pāpaṃ kṛtaṃ pūrvam_), or whom did I separate from his wife (_ko vā dārair viyojitaḥ_), that I—a faithful wife of pure conduct (_śuddha-samācārā ... satī_)—have been abandoned by the king (_tyaktā nṛpatinā_)?
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s dau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Formerly, O Saumitri, following close upon Rāma’s footsteps (rāma-pādānuvartinī), even though I accepted dwelling in a hermitage (āśrame vāsam anurudhyāpi) and moved amidst hardship (duḥkhe ca parivartinī)—
+“Formerly, O Saumitri, following close upon Rāma’s footsteps (_rāma-pādānuvartinī_), even though I accepted dwelling in a hermitage (_āśrame vāsam anurudhyāpi_) and moved amidst hardship (_duḥkhe ca parivartinī_)—
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s dau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed, O gentle one (saumya), shall I now dwell in a hermitage left utterly alone (vatsyāmi vijanīkṛtā)? And to whom shall I confide my grief (ākhyāsyāmi ca kasyāhaṃ duḥkham), given over wholly to sorrow (duḥkha-parāyaṇā)?
+“How indeed, O gentle one (_saumya_), shall I now dwell in a hermitage left utterly alone (_vatsyāmi vijanīkṛtā_)? And to whom shall I confide my grief (_ākhyāsyāmi ca kasyāhaṃ duḥkham_), given over wholly to sorrow (_duḥkha-parāyaṇā_)?
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Refusing to drown herself in the Gaṅgā lest Rāma’s royal line perish with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed shall I say among the sages (kiṃ nu vakṣyāmi muniṣu)? What evil deed (karma vāsatkṛtaṃ ca kim), or for what cause (kasmiṃścit kāraṇe), have I been cast off by the high-souled Rāghava (tyaktā rāghaveṇa mahātmanā)?
+“What indeed shall I say among the sages (_kiṃ nu vakṣyāmi muniṣu_)? What evil deed (_karma vāsatkṛtaṃ ca kim_), or for what cause (_kasmiṃścit kāraṇe_), have I been cast off by the high-souled Rāghava (_tyaktā rāghaveṇa mahātmanā_)?
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Refusing to drown herself in the Gaṅgā lest Rāma’s royal line perish with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet I cannot indeed cast away my life this very day in the waters of the Jāhnavī (na khalv adyaiva ... jīvitaṃ jāhnavī-jale tyajeyam), O Saumitri, for then my husband’s royal lineage would be cut off (rājavaṃśas tu bhartur me parihāsyate)!
+“Yet I cannot indeed cast away my life this very day in the waters of the Jāhnavī (_na khalv adyaiva ... jīvitaṃ jāhnavī-jale tyajeyam_), O Saumitri, for then my husband’s royal lineage would be cut off (_rājavaṃśas tu bhartur me parihāsyate_)!
 </details>
 </details>
 
@@ -307,7 +307,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do according to command (yathājñaṃ kuru), O Saumitri: leave me here, sharer in sorrow (tyaja māṃ duḥkha-bhāginīm)! Abide by the king’s decree (nideśe sthīyatāṃ rājñaḥ), and hear these words of mine (śṛṇu cedaṃ vaco mama):
+“Do according to command (_yathājñaṃ kuru_), O Saumitri: leave me here, sharer in sorrow (_tyaja māṃ duḥkha-bhāginīm_)! Abide by the king’s decree (_nideśe sthīyatāṃ rājñaḥ_), and hear these words of mine (_śṛṇu cedaṃ vaco mama_):
 </details>
 </details>
 
@@ -338,7 +338,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bowed with your head at the feet of all my mothers-in-law without distinction (śvaśrūṇām aviśeṣeṇa ... śirasāvandya caraṇau), holding forth joined palms in reverence (prāñjali-pragraheṇa ca), convey my greetings of well-being to the king (kuśalaṃ brūhi pārthivam)—
+“Having bowed with your head at the feet of all my mothers-in-law without distinction (_śvaśrūṇām aviśeṣeṇa ... śirasāvandya caraṇau_), holding forth joined palms in reverence (_prāñjali-pragraheṇa ca_), convey my greetings of well-being to the king (_kuśalaṃ brūhi pārthivam_)—
 </details>
 </details>
 
@@ -372,7 +372,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bowing low with your head (śirasābhinataḥ), speak to all of them alike (brūyāḥ sarvāsām eva), O Lakṣmaṇa! And the king too, ever steadfast in dharma (nṛpatir dharmeṣu susamāhitaḥ), should be addressed thus (vaktavyaś cāpi):
+“Bowing low with your head (_śirasābhinataḥ_), speak to all of them alike (_brūyāḥ sarvāsām eva_), O Lakṣmaṇa! And the king too, ever steadfast in dharma (_nṛpatir dharmeṣu susamāhitaḥ_), should be addressed thus (_vaktavyaś cāpi_):
 </details>
 </details>
 
@@ -403,7 +403,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You know in very truth (jānāsi ca ... tattvena), O Rāghava, how pure Sītā is (yathā śuddhā sītā), endowed with supreme devotion (bhaktyā ca parayā yuktā) and ever intent upon your welfare (hitā ca tava nityaśaḥ).
+“‘You know in very truth (_jānāsi ca ... tattvena_), O Rāghava, how pure Sītā is (_yathā śuddhā sītā_), endowed with supreme devotion (_bhaktyā ca parayā yuktā_) and ever intent upon your welfare (_hitā ca tava nityaśaḥ_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I have been relinquished by you, O hero (ahaṃ tyaktā tvayā vīra), out of dread of ill fame among the people (ayaśo-bhīruṇā jane); and whatever reproach might fall upon you arising from scandal (yac ca te vacanīyaṃ syād apavāda-samutthitam) must be warded off by me (mayā ca parihartavyam), for you alone are my supreme refuge (tvaṃ hi me paramā gatiḥ).’
+“‘I have been relinquished by you, O hero (_ahaṃ tyaktā tvayā vīra_), out of dread of ill fame among the people (_ayaśo-bhīruṇā jane_); and whatever reproach might fall upon you arising from scandal (_yac ca te vacanīyaṃ syād apavāda-samutthitam_) must be warded off by me (_mayā ca parihartavyam_), for you alone are my supreme refuge (_tvaṃ hi me paramā gatiḥ_).’
 </details>
 </details>
 
@@ -485,9 +485,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “And thus should the king, steadfast in righteousness (dharmeṇa susamāhitaḥ), be told: ‘Even as you conduct yourself toward your brothers (yathā bhrātṛṣu vartethāḥ), so behave ever toward the citizens (tathā paureṣu nityadā)! For this is your highest dharma (paramo hy eṣa dharmas te), and from it springs unsurpassed renown (tasmāt kīrtir anuttamā)—
+**14:** “And thus should the king, steadfast in righteousness (_dharmeṇa susamāhitaḥ_), be told: ‘Even as you conduct yourself toward your brothers (_yathā bhrātṛṣu vartethāḥ_), so behave ever toward the citizens (_tathā paureṣu nityadā_)! For this is your highest dharma (_paramo hy eṣa dharmas te_), and from it springs unsurpassed renown (_tasmāt kīrtir anuttamā_)—
 
-**15:** “‘—whatever merit the citizenry may gain through your righteous rule (yat tu paurajano rājan dharmeṇa samavāpnuyāt). As for me, O bull among men (nararṣabha), I grieve not for my own body (ahaṃ tu nānuśocāmi sva-śarīram),
+**15:** “‘—whatever merit the citizenry may gain through your righteous rule (_yat tu paurajano rājan dharmeṇa samavāpnuyāt_). As for me, O bull among men (_nararṣabha_), I grieve not for my own body (_ahaṃ tu nānuśocāmi sva-śarīram_),
 </details>
 </details>
 
@@ -518,7 +518,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—but rather for the scandal among the citizens (yathāpavādaṃ paurāṇām), even so, O delight of the Raghus! For a husband is a woman’s deity (patir hi devatā nāryāḥ), her kinsman (bandhuḥ), and her preceptor (guruḥ);
+“‘—but rather for the scandal among the citizens (_yathāpavādaṃ paurāṇām_), even so, O delight of the Raghus! For a husband is a woman’s deity (_patir hi devatā nāryāḥ_), her kinsman (_bandhuḥ_), and her preceptor (_guruḥ_);
 </details>
 </details>
 
@@ -551,7 +551,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore a husband’s pleasure must above all be fulfilled, even at the cost of one’s life (prāṇair api priyaṃ tasmād bhartuḥ kāryaṃ viśeṣataḥ).’ Thus at my word must Rāma be told this summary of my message (iti mad-vacanād rāmo vaktavyo mama saṅgrahaḥ). Now look closely upon me—visibly past my courses (nirīkṣya mādya gaccha tvam ṛtukālātivartinīm)—and depart!”
+“‘Therefore a husband’s pleasure must above all be fulfilled, even at the cost of one’s life (_prāṇair api priyaṃ tasmād bhartuḥ kāryaṃ viśeṣataḥ_).’ Thus at my word must Rāma be told this summary of my message (_iti mad-vacanād rāmo vaktavyo mama saṅgrahaḥ_). Now look closely upon me—visibly past my courses (_nirīkṣya mādya gaccha tvam ṛtukālātivartinīm_)—and depart!”
 </details>
 </details>
 
@@ -590,7 +590,7 @@ Speechless with grief, Lakṣmaṇa bows to the earth, circumambulates Sītā we
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sītā spoke thus (evaṃ bruvantyāṃ sītāyām), Lakṣmaṇa, broken in spirit (dīna-cetanaḥ), bowed his head to the earth (śirasāvandya dharaṇīm) and could not utter a word (vyāhartuṃ na śaśāka ha).
+As Sītā spoke thus (_evaṃ bruvantyāṃ sītāyām_), Lakṣmaṇa, broken in spirit (_dīna-cetanaḥ_), bowed his head to the earth (_śirasāvandya dharaṇīm_) and could not utter a word (_vyāhartuṃ na śaśāka ha_).
 </details>
 </details>
 
@@ -624,7 +624,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Circumambulating her (pradakṣiṇaṃ ca tāṃ kṛtvā) while weeping aloud (rudann eva mahāsvanaḥ), he brooded for a moment (dhyātvā muhūrtam) and said to her: “What is this you say to me, O fair lady (kiṃ māṃ vakṣyasi śobhane)?
+Circumambulating her (_pradakṣiṇaṃ ca tāṃ kṛtvā_) while weeping aloud (_rudann eva mahāsvanaḥ_), he brooded for a moment (_dhyātvā muhūrtam_) and said to her: “What is this you say to me, O fair lady (_kiṃ māṃ vakṣyasi śobhane_)?
 </details>
 </details>
 
@@ -655,7 +655,7 @@ Circumambulating her (pradakṣiṇaṃ ca tāṃ kṛtvā) while weeping aloud 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never before have I looked upon your form (dṛṣṭa-pūrvaṃ na te rūpam)—only your feet have I beheld (pādau dṛṣṭau tavānaghe), O sinless one! How indeed can I gaze upon you here in the forest, parted from Rāma (katham atra hi paśyāmi rāmeṇa rahitāṃ vane)?”
+“Never before have I looked upon your form (_dṛṣṭa-pūrvaṃ na te rūpam_)—only your feet have I beheld (_pādau dṛṣṭau tavānaghe_), O sinless one! How indeed can I gaze upon you here in the forest, parted from Rāma (_katham atra hi paśyāmi rāmeṇa rahitāṃ vane_)?”
 </details>
 </details>
 
@@ -689,7 +689,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and bowed in homage to her (tāṃ namaskṛtya), he went once more to the boat (punar nāvam upāruhat), and having embarked again upon the vessel (āruhya ca punar nāvam), he urged the boatman onward (nāvikaṃ cābhyacodayat).
+Having spoken thus and bowed in homage to her (_tāṃ namaskṛtya_), he went once more to the boat (_punar nāvam upāruhat_), and having embarked again upon the vessel (_āruhya ca punar nāvam_), he urged the boatman onward (_nāvikaṃ cābhyacodayat_).
 </details>
 </details>
 
@@ -728,7 +728,7 @@ Reaching the northern bank, a grief-stunned Lakṣmaṇa mounts the chariot and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the northern shore (gatvā cottaraṃ tīram), weighed down by the burden of grief (śoka-bhāra-samanvitaḥ) and as if dazed by sorrow (sammūḍha iva duḥkhena), he hastily mounted the chariot (ratham adhyāruhad drutam).
+Having reached the northern shore (_gatvā cottaraṃ tīram_), weighed down by the burden of grief (_śoka-bhāra-samanvitaḥ_) and as if dazed by sorrow (_sammūḍha iva duḥkhena_), he hastily mounted the chariot (_ratham adhyāruhad drutam_).
 </details>
 </details>
 
@@ -759,7 +759,7 @@ Having reached the northern shore (gatvā cottaraṃ tīram), weighed down by th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Turning back again and again (muhur muhuḥ parāvṛtya) and beholding Sītā on the opposite bank (paratīrasthām) writhing in anguish like one without a protector (sītām anāthavat ceṣṭantīm), Lakṣmaṇa then drove away (prayayāv atha).
+Turning back again and again (_muhur muhuḥ parāvṛtya_) and beholding Sītā on the opposite bank (_paratīrasthām_) writhing in anguish like one without a protector (_sītām anāthavat ceṣṭantīm_), Lakṣmaṇa then drove away (_prayayāv atha_).
 </details>
 </details>
 
@@ -790,7 +790,7 @@ Turning back again and again (muhur muhuḥ parāvṛtya) and beholding Sītā o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing again and again (muhur muhuḥ nirīkṣamāṇām) upon the receding chariot (dūrasthaṃ ratham ālokya) and upon Lakṣmaṇa, grief utterly overwhelmed the distraught Sītā (udvignāṃ sītāṃ śokaḥ samāviśat).
+Gazing again and again (_muhur muhuḥ nirīkṣamāṇām_) upon the receding chariot (_dūrasthaṃ ratham ālokya_) and upon Lakṣmaṇa, grief utterly overwhelmed the distraught Sītā (_udvignāṃ sītāṃ śokaḥ samāviśat_).
 </details>
 </details>
 
@@ -821,7 +821,7 @@ Gazing again and again (muhur muhuḥ nirīkṣamāṇām) upon the receding cha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowed low beneath the weight of sorrow (duḥkha-bhārāvanatā), that illustrious lady whose sole treasure was honor (yaśasvinī yaśodhanā), chaste and devoted yet beholding no protector (nātham apaśyatī satī), wept aloud, abandoned wholly to grief, in that forest echoing with the cries of peacocks (barhiṇa-nādite vane).
+Bowed low beneath the weight of sorrow (_duḥkha-bhārāvanatā_), that illustrious lady whose sole treasure was honor (_yaśasvinī yaśodhanā_), chaste and devoted yet beholding no protector (_nātham apaśyatī satī_), wept aloud, abandoned wholly to grief, in that forest echoing with the cries of peacocks (_barhiṇa-nādite vane_).
 </details>
 </details>
 

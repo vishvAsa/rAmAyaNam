@@ -48,7 +48,7 @@ Delighted by Urvaśī’s tale yet eager for the answer to his original question
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that heavenly-seeming tale of wondrous import (divya-saṅkāśāṃ kathām adbhuta-darśanām), Lakṣmaṇa, exceedingly pleased (parama-prītaḥ), spoke these words to Rāghava:
+Hearing that heavenly-seeming tale of wondrous import (_divya-saṅkāśāṃ kathām adbhuta-darśanām_), Lakṣmaṇa, exceedingly pleased (_parama-prītaḥ_), spoke these words to Rāghava:
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing that heavenly-seeming tale of wondrous import (divya-saṅkāśāṃ kat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having laid aside their bodies (nikṣipta-dehau), O Kākutstha, how did those two—the brahmin and the king (tau dvija-pārthivau), esteemed by the gods (deva-sammatau)—again attain union with a body (punar dehena saṃyogam)?”
+“Having laid aside their bodies (_nikṣipta-dehau_), O Kākutstha, how did those two—the brahmin and the king (_tau dvija-pārthivau_), esteemed by the gods (_deva-sammatau_)—again attain union with a body (_punar dehena saṃyogam_)?”
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Hearing that heavenly-seeming tale of wondrous import (divya-saṅkāśāṃ kat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tasya tad bhāṣitaṃ śrutvā), Rāma of unfailing valor (satya-parākramaḥ) proceeded to narrate that remaining tale of the great-souled Vasiṣṭha (vasiṣṭhasya mahātmanaḥ):
+Hearing those words of his (_tasya tad bhāṣitaṃ śrutvā_), Rāma of unfailing valor (_satya-parākramaḥ_) proceeded to narrate that remaining tale of the great-souled Vasiṣṭha (_vasiṣṭhasya mahātmanaḥ_):
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In that jar, O foremost of the Raghus (yas tu kumbho raghuśreṣṭha), filled with the seed of those two great-souled gods (tejaḥ-pūrṇo mahātmanoḥ), two radiant brahmins, foremost of sages, came into being (tejomayau viprau sambhūtāv ṛṣi-sattamau).
+“In that jar, O foremost of the Raghus (_yas tu kumbho raghuśreṣṭha_), filled with the seed of those two great-souled gods (_tejaḥ-pūrṇo mahātmanoḥ_), two radiant brahmins, foremost of sages, came into being (_tejomayau viprau sambhūtāv ṛṣi-sattamau_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“First there arose within it the blessed sage Agastya (pūrvaṃ samabhavat tatra hy agastyo bhagavān ṛṣiḥ); saying to Mitra, ‘I am not your son’ (nāhaṃ sutas tavety uktvā), he departed thence (tasmād apākramat).
+“First there arose within it the blessed sage Agastya (_pūrvaṃ samabhavat tatra hy agastyo bhagavān ṛṣiḥ_); saying to Mitra, ‘I am not your son’ (_nāhaṃ sutas tavety uktvā_), he departed thence (_tasmād apākramat_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that seed of Mitra (tad dhi tejas tu mitrasya), deposited earlier on account of Urvaśī (urvasyāḥ pūrvam āhitam), mingled in that very jar (tasmin samabhavat kumbhe) where the seed of Varuṇa was (tat tejo yatra vāruṇam).
+“For that seed of Mitra (_tad dhi tejas tu mitrasya_), deposited earlier on account of Urvaśī (_urvasyāḥ pūrvam āhitam_), mingled in that very jar (_tasmin samabhavat kumbhe_) where the seed of Varuṇa was (_tat tejo yatra vāruṇam_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then after some time (kasyacit tv atha kālasya), Vasiṣṭha, sprung from Mitra and Varuṇa (mitrāvaruṇa-sambhavaḥ), endowed with brilliance (tejasā yuktaḥ), was born as the tutelary deity of the Ikṣvākus (jajñe ikṣvāku-daivatam).
+“Then after some time (_kasyacit tv atha kālasya_), Vasiṣṭha, sprung from Mitra and Varuṇa (_mitrāvaruṇa-sambhavaḥ_), endowed with brilliance (_tejasā yuktaḥ_), was born as the tutelary deity of the Ikṣvākus (_jajñe ikṣvāku-daivatam_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Him, blameless (aninditam), the moment he was born (jāta-mātram), the greatly resplendent Ikṣvāku chose as family priest (vavre purodhasam), O gentle one, for the prosperity of this lineage of ours (vaṃśasyāsya bhavāya naḥ).
+“Him, blameless (_aninditam_), the moment he was born (_jāta-mātram_), the greatly resplendent Ikṣvāku chose as family priest (_vavre purodhasam_), O gentle one, for the prosperity of this lineage of ours (_vaṃśasyāsya bhavāya naḥ_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus has been related to you, O gentle one (kathitaḥ ... saumya), the emergence of the great-souled Vasiṣṭha in a wondrous new body (apūrva-dehasya vasiṣṭhasya ... nirgamaḥ); now listen to how it fared with Nimi (nimeḥ śṛṇu yathā ’bhavat)!
+“Thus has been related to you, O gentle one (_kathitaḥ ... saumya_), the emergence of the great-souled Vasiṣṭha in a wondrous new body (_apūrva-dehasya vasiṣṭhasya ... nirgamaḥ_); now listen to how it fared with Nimi (_nimeḥ śṛṇu yathā ’bhavat_)!
 </details>
 </details>
 
@@ -338,7 +338,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding the king disembodied (dṛṣṭvā videhaṃ rājānam), all those wise sages (ṛṣayaḥ sarva eva te ... manīṣiṇaḥ) duly engaged him in the sacrificial consecration (taṃ ca te yojayām āsur yāga-dīkṣām).
+“Beholding the king disembodied (_dṛṣṭvā videhaṃ rājānam_), all those wise sages (_ṛṣayaḥ sarva eva te ... manīṣiṇaḥ_) duly engaged him in the sacrificial consecration (_taṃ ca te yojayām āsur yāga-dīkṣām_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And those foremost of brahmins (dvijottamāḥ), accompanied by citizens and royal retainers (paura-bhṛtya-samanvitāḥ), preserved that body of the king (taṃ ca dehaṃ narendrasya rakṣanti sma) with perfumes, garlands, and garments (gandhair mālyaiś ca vastraiś ca).
+“And those foremost of brahmins (_dvijottamāḥ_), accompanied by citizens and royal retainers (_paura-bhṛtya-samanvitāḥ_), preserved that body of the king (_taṃ ca dehaṃ narendrasya rakṣanti sma_) with perfumes, garlands, and garments (_gandhair mālyaiś ca vastraiś ca_).
 </details>
 </details>
 
@@ -408,7 +408,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when the sacrifice was concluded (tato yajñe samāpte tu), Bhṛgu spoke these words there: ‘I shall bring back your life-spirit (ānayiṣyāmi te cetaḥ); I am pleased with you, O king (tuṣṭo ’smi tava pārthiva)!’
+“Then, when the sacrifice was concluded (_tato yajñe samāpte tu_), Bhṛgu spoke these words there: ‘I shall bring back your life-spirit (_ānayiṣyāmi te cetaḥ_); I am pleased with you, O king (_tuṣṭo ’smi tava pārthiva_)!’
 </details>
 </details>
 
@@ -439,7 +439,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And all the gods, well pleased (suprītāś ca surāḥ sarve), spoke thus to Nimi’s spirit (nimeś cetas tathābruvan): ‘Choose a boon, O royal sage (varaṃ varaya rājarṣe)—where shall your consciousness be established (kva te ceto nirūpyatām)?’
+“And all the gods, well pleased (_suprītāś ca surāḥ sarve_), spoke thus to Nimi’s spirit (_nimeś cetas tathābruvan_): ‘Choose a boon, O royal sage (_varaṃ varaya rājarṣe_)—where shall your consciousness be established (_kva te ceto nirūpyatām_)?’
 </details>
 </details>
 
@@ -470,7 +470,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed by all the gods (evam uktaḥ suraiḥ sarvaiḥ), the spirit of Nimi then replied (nimeś cetas tadābravīt): ‘May I dwell in the eyes of all living beings (netreṣu sarva-bhūtānāṃ vaseyam), O foremost of the gods (surasattamāḥ)!’
+“Thus addressed by all the gods (_evam uktaḥ suraiḥ sarvaiḥ_), the spirit of Nimi then replied (_nimeś cetas tadābravīt_): ‘May I dwell in the eyes of all living beings (_netreṣu sarva-bhūtānāṃ vaseyam_), O foremost of the gods (_surasattamāḥ_)!’
 </details>
 </details>
 
@@ -501,7 +501,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘So be it!’ (bāḍham ity eva) the gods replied to Nimi’s spirit (vibudhā nimeś cetas tadā ’bruvan): ‘Having become wind (vāyu-bhūtaḥ), you shall move within the eyes of all beings (netreṣu sarva-bhūtānāṃ ... cariṣyasi).
+“‘So be it!’ (_bāḍham ity eva_) the gods replied to Nimi’s spirit (_vibudhā nimeś cetas tadā ’bruvan_): ‘Having become wind (_vāyu-bhūtaḥ_), you shall move within the eyes of all beings (_netreṣu sarva-bhūtānāṃ ... cariṣyasi_).
 </details>
 </details>
 
@@ -532,7 +532,7 @@ Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And on your account (tvat-kṛte ca), O lord of earth (pṛthivīpate), eyes shall blink again and again (nimiṣyanti cakṣūṃṣi ... muhur muhuḥ) for the sake of rest (viśramārtham), through you moving within them as wind (vāyu-bhūtena caratā).’
+“‘And on your account (_tvat-kṛte ca_), O lord of earth (_pṛthivīpate_), eyes shall blink again and again (_nimiṣyanti cakṣūṃṣi ... muhur muhuḥ_) for the sake of rest (_viśramārtham_), through you moving within them as wind (_vāyu-bhūtena caratā_).’
 </details>
 </details>
 
@@ -573,7 +573,7 @@ After the gods depart, the great sages take Nimi’s lifeless body and churn it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus, all the gods departed whence they had come (sarve jagmur yathāgatam); and the great-souled sages took up the body of Nimi (nimer dehaṃ samāharan).
+“Having spoken thus, all the gods departed whence they had come (_sarve jagmur yathāgatam_); and the great-souled sages took up the body of Nimi (_nimer dehaṃ samāharan_).
 </details>
 </details>
 
@@ -612,11 +612,11 @@ After the gods depart, the great sages take Nimi’s lifeless body and churn it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Placing a fire-drill therein (araṇiṃ tatra nikṣipya), those great-souled ones performed a churning with power (mathanaṃ cakrur ojasā), accompanied by mantras and oblations (mantra-homaiḥ), for the sake of a son to Nimi (putra-hetor nimes tadā).
+**18:** “Placing a fire-drill therein (_araṇiṃ tatra nikṣipya_), those great-souled ones performed a churning with power (_mathanaṃ cakrur ojasā_), accompanied by mantras and oblations (_mantra-homaiḥ_), for the sake of a son to Nimi (_putra-hetor nimes tadā_).
 
-**19:** “As the fire-stick was being churned (araṇyāṃ mathyamānāyām), there manifested a sage of great austerity (prādurbhūto mahātapāḥ); because of the churning they called him Mithi (mathanān mithir ity āhuḥ), because of his wondrous birth he became Janaka (jananāj janako ’bhavat), and because he was born from a disembodied one (yasmād videhāt sambhūtaḥ), he was celebrated as Vaideha (vaidehas tu tataḥ smṛtaḥ).
+**19:** “As the fire-stick was being churned (_araṇyāṃ mathyamānāyām_), there manifested a sage of great austerity (_prādurbhūto mahātapāḥ_); because of the churning they called him Mithi (_mathanān mithir ity āhuḥ_), because of his wondrous birth he became Janaka (_jananāj janako ’bhavat_), and because he was born from a disembodied one (_yasmād videhāt sambhūtaḥ_), he was celebrated as Vaideha (_vaidehas tu tataḥ smṛtaḥ_).
 
-**20:** “Thus did the first King Janaka of Videha come into being (videha-rājaś ca janakaḥ pūrvako ’bhavat), greatly resplendent, named Mithi (mithir nāma mahātejāḥ); through him this lineage became known as Maithila (tenāyaṃ maithilo ’bhavat).”
+**20:** “Thus did the first King Janaka of Videha come into being (_videha-rājaś ca janakaḥ pūrvako ’bhavat_), greatly resplendent, named Mithi (_mithir nāma mahātejāḥ_); through him this lineage became known as Maithila (_tenāyaṃ maithilo ’bhavat_).”
 </details>
 </details>
 

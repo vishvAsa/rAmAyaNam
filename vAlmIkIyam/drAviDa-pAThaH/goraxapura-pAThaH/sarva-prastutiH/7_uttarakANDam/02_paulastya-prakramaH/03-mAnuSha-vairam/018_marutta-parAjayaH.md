@@ -46,7 +46,7 @@ Resuming his circuit of the earth aboard Puṣpaka after Vedavatī’s self-immo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Vedavatī had entered the sacrificial fire (praviṣṭāyāṃ hutāśaṃ tu vedavatyām), that Rāvaṇa ascended Puṣpaka (puṣpakaṃ tu samāruhya) and roamed once more across the earth (paricakrāma medinīm).
+When Vedavatī had entered the sacrificial fire (_praviṣṭāyāṃ hutāśaṃ tu vedavatyām_), that Rāvaṇa ascended Puṣpaka (_puṣpakaṃ tu samāruhya_) and roamed once more across the earth (_paricakrāma medinīm_).
 </details>
 </details>
 
@@ -77,7 +77,7 @@ When Vedavatī had entered the sacrificial fire (praviṣṭāyāṃ hutāśaṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, arriving at the region of Uśīrabīja (uśīrabījam āsādya), Rāvaṇa beheld King Marutta (maruttaṃ nṛpatim) performing a sacrifice in the company of the gods (yajantaṃ saha daivataiḥ).
+Then, arriving at the region of Uśīrabīja (_uśīrabījam āsādya_), Rāvaṇa beheld King Marutta (_maruttaṃ nṛpatim_) performing a sacrifice in the company of the gods (_yajantaṃ saha daivataiḥ_).
 </details>
 </details>
 
@@ -108,7 +108,7 @@ Then, arriving at the region of Uśīrabīja (uśīrabījam āsādya), Rāvaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A brahmarṣi named Saṃvarta (saṃvarto nāma brahmarṣiḥ), the full brother of Bṛhaspati (sākṣād bhrātā bṛhaspateḥ) and knower of dharma (dharmajñaḥ), was officiating at the sacrifice (yājayām āsa), surrounded by all the hosts of gods (sarvair devagaṇair vṛtaḥ).
+A brahmarṣi named Saṃvarta (_saṃvarto nāma brahmarṣiḥ_), the full brother of Bṛhaspati (_sākṣād bhrātā bṛhaspateḥ_) and knower of dharma (_dharmajñaḥ_), was officiating at the sacrifice (_yājayām āsa_), surrounded by all the hosts of gods (_sarvair devagaṇair vṛtaḥ_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ A brahmarṣi named Saṃvarta (saṃvarto nāma brahmarṣiḥ), the full broth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that rākṣasa, unconquerable by virtue of his boon (varadānena durjayam), the gods, fearful even of meeting his gaze (tasya darśana-bhīravaḥ), entered into animal wombs (tiryag-yoniṃ samāviṣṭāḥ).
+Beholding that rākṣasa, unconquerable by virtue of his boon (_varadānena durjayam_), the gods, fearful even of meeting his gaze (_tasya darśana-bhīravaḥ_), entered into animal wombs (_tiryag-yoniṃ samāviṣṭāḥ_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indra became a peacock (indro mayūraḥ saṃvṛttaḥ), Dharmarāja [Yama] a crow (dharmarājas tu vāyasaḥ), the Lord of Wealth [Kubera] a chameleon (kṛkalāso dhanādhyakṣaḥ), and Varuṇa became a wild swan (haṃsaś ca varuṇo ’bhavat).
+Indra became a peacock (_indro mayūraḥ saṃvṛttaḥ_), Dharmarāja [Yama] a crow (_dharmarājas tu vāyasaḥ_), the Lord of Wealth [Kubera] a chameleon (_kṛkalāso dhanādhyakṣaḥ_), and Varuṇa became a wild swan (_haṃsaś ca varuṇo ’bhavat_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the other gods too had departed in this same manner (anyeṣv api gateṣv evaṃ deveṣu), O slayer of foes (ariniṣūdana), Rāvaṇa entered the sacrifice (prāviśad yajñam) like an impure hound (sārameya ivāśuciḥ).
+When the other gods too had departed in this same manner (_anyeṣv api gateṣv evaṃ deveṣu_), O slayer of foes (_ariniṣūdana_), Rāvaṇa entered the sacrifice (_prāviśad yajñam_) like an impure hound (_sārameya ivāśuciḥ_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ Approaching Marutta, Rāvaṇa demands battle or surrender and laughs sarcastica
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching that king, Rāvaṇa, overlord of the rākṣasas (rāvaṇo rākṣasādhipaḥ), declared: “Grant me battle (yuddhaṃ prayaccha), or else declare ‘I am vanquished’ (nirjito ’smīti vā vada)!”
+Approaching that king, Rāvaṇa, overlord of the rākṣasas (_rāvaṇo rākṣasādhipaḥ_), declared: “Grant me battle (_yuddhaṃ prayaccha_), or else declare ‘I am vanquished’ (_nirjito ’smīti vā vada_)!”
 </details>
 </details>
 
@@ -277,7 +277,7 @@ Approaching that king, Rāvaṇa, overlord of the rākṣasas (rāvaṇo rākṣ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out a derisive laugh (apahāsaṃ tato muktvā), Rāvaṇa then spoke these words:
+Thereupon King Marutta said to him, “Who are you (_ko bhavān_)?” Letting out a derisive laugh (_apahāsaṃ tato muktvā_), Rāvaṇa then spoke these words:
 </details>
 </details>
 
@@ -308,7 +308,7 @@ Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am delighted with your unawed indifference, O lord of earth (akutūhala-bhāvena prīto ’smi tava pārthiva), that you do not recognize me—Rāvaṇa, the younger brother of the Giver of Wealth (dhanadasyānujaṃ ... rāvaṇam)!
+“I am delighted with your unawed indifference, O lord of earth (_akutūhala-bhāvena prīto ’smi tava pārthiva_), that you do not recognize me—Rāvaṇa, the younger brother of the Giver of Wealth (_dhanadasyānujaṃ ... rāvaṇam_)!
 </details>
 </details>
 
@@ -339,7 +339,7 @@ Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who else exists across the three worlds (triṣu lokeṣu ko ’nyo ’sti) who does not know my might (yo na jānāti me balam), by whom my brother was conquered and this aerial car carried off (bhrātaraṃ yena nirjitya vimānam idam āhṛtam)?” Then that king Marutta addressed Rāvaṇa thus:
+“Who else exists across the three worlds (_triṣu lokeṣu ko ’nyo ’sti_) who does not know my might (_yo na jānāti me balam_), by whom my brother was conquered and this aerial car carried off (_bhrātaraṃ yena nirjitya vimānam idam āhṛtam_)?” Then that king Marutta addressed Rāvaṇa thus:
 </details>
 </details>
 
@@ -370,7 +370,7 @@ Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessed indeed are you (dhanyaḥ khalu bhavān), by whom an elder brother was conquered in battle (yena jyeṣṭho bhrātā raṇe jitaḥ)! No one as praiseworthy as you (na tvayā sadṛśaḥ ślādhyaḥ) exists in all the three worlds!
+“Blessed indeed are you (_dhanyaḥ khalu bhavān_), by whom an elder brother was conquered in battle (_yena jyeṣṭho bhrātā raṇe jitaḥ_)! No one as praiseworthy as you (_na tvayā sadṛśaḥ ślādhyaḥ_) exists in all the three worlds!
 </details>
 </details>
 
@@ -401,7 +401,7 @@ Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No deed bound up with unrighteousness is praiseworthy (nādharma-sahitaṃ ślādhyam) or esteemed throughout the world (tal lokaṃ pratisaṃhitam); having committed an act of sheer wickedness (karma daurātmyakaṃ kṛtvā), you boast of conquering your own brother (ślāghyase bhrātṛ-nirjayāt)!
+“No deed bound up with unrighteousness is praiseworthy (_nādharma-sahitaṃ ślādhyam_) or esteemed throughout the world (_tal lokaṃ pratisaṃhitam_); having committed an act of sheer wickedness (_karma daurātmyakaṃ kṛtvā_), you boast of conquering your own brother (_ślāghyase bhrātṛ-nirjayāt_)!
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Taunting Rāvaṇa for his unheard-of shamelessness, Marutta seizes his bow to s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What pure dharma did you formerly practice (prāk kevalaṃ dharmaṃ caritvā) to obtain your boon (labdhavān varam)? Never before have I heard (śrutapūrvaṃ hi na mayā) such words as you yourself now utter (bhāṣase yādṛśaṃ svayam)!
+“What pure dharma did you formerly practice (_prāk kevalaṃ dharmaṃ caritvā_) to obtain your boon (_labdhavān varam_)? Never before have I heard (_śrutapūrvaṃ hi na mayā_) such words as you yourself now utter (_bhāṣase yādṛśaṃ svayam_)!
 </details>
 </details>
 
@@ -473,7 +473,7 @@ Taunting Rāvaṇa for his unheard-of shamelessness, Marutta seizes his bow to s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stand fast now—you shall not depart alive from me, O evil-minded wretch (na me jīvan pratiyāsyasi durmate)! This very day I shall dispatch you with keen shafts (niśitair bāṇaiḥ) to the abode of Yama (preṣayāmi yamakṣayam)!”
+“Stand fast now—you shall not depart alive from me, O evil-minded wretch (_na me jīvan pratiyāsyasi durmate_)! This very day I shall dispatch you with keen shafts (_niśitair bāṇaiḥ_) to the abode of Yama (_preṣayāmi yamakṣayam_)!”
 </details>
 </details>
 
@@ -504,7 +504,7 @@ Taunting Rāvaṇa for his unheard-of shamelessness, Marutta seizes his bow to s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, seizing his bow and arrows (śarāsanaṃ gṛhya sāyakāṃś ca), that lord of men (narādhipaḥ) sallied forth in wrath for combat (raṇāya niryayau kruddhaḥ), when Saṃvarta blocked the path (saṃvarto mārgam āvṛṇot).
+Thereupon, seizing his bow and arrows (_śarāsanaṃ gṛhya sāyakāṃś ca_), that lord of men (_narādhipaḥ_) sallied forth in wrath for combat (_raṇāya niryayau kruddhaḥ_), when Saṃvarta blocked the path (_saṃvarto mārgam āvṛṇot_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great sage spoke with affection (sneha-saṃyuktam) to Marutta: “If my word is to be heeded (śrotavyaṃ yadi mad-vākyam), combat is not fitting for you (samprahāro na te kṣamaḥ); this sacrificial session of Maheśvara (māheśvaram idaṃ satram), left unfinished, would burn your entire lineage (asamāptaṃ kulaṃ dahet)!
+That great sage spoke with affection (_sneha-saṃyuktam_) to Marutta: “If my word is to be heeded (_śrotavyaṃ yadi mad-vākyam_), combat is not fitting for you (_samprahāro na te kṣamaḥ_); this sacrificial session of Maheśvara (_māheśvaram idaṃ satram_), left unfinished, would burn your entire lineage (_asamāptaṃ kulaṃ dahet_)!
 </details>
 </details>
 
@@ -571,9 +571,9 @@ That great sage spoke with affection (sneha-saṃyuktam) to Marutta: “If my wo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “How can there be warfare for one consecrated in sacrifice (dīkṣitasya kuto yuddham), and how can wrathfulness dwell in a consecrated sacrificer (krodhitvaṃ dīkṣite kutaḥ)? Moreover, victory is ever uncertain (saṃśayaś ca jaye nityam), and this rākṣasa is exceedingly hard to vanquish (rākṣasaś ca sudurjayaḥ)!”
+**17:** “How can there be warfare for one consecrated in sacrifice (_dīkṣitasya kuto yuddham_), and how can wrathfulness dwell in a consecrated sacrificer (_krodhitvaṃ dīkṣite kutaḥ_)? Moreover, victory is ever uncertain (_saṃśayaś ca jaye nityam_), and this rākṣasa is exceedingly hard to vanquish (_rākṣasaś ca sudurjayaḥ_)!”
 
-**18:** Desisting at his preceptor’s word (sa nivṛtto guror vākyāt), Marutta, lord of the earth (pṛthivīpatiḥ), laid down his bow with its arrows (visṛjya saśaraṃ cāpam) and, restored to composure, turned his face toward the sacrifice (svastho makhamukho ’bhavat).
+**18:** Desisting at his preceptor’s word (_sa nivṛtto guror vākyāt_), Marutta, lord of the earth (_pṛthivīpatiḥ_), laid down his bow with its arrows (_visṛjya saśaraṃ cāpam_) and, restored to composure, turned his face toward the sacrifice (_svastho makhamukho ’bhavat_).
 </details>
 </details>
 
@@ -612,7 +612,7 @@ Deeming Marutta defeated, Rāvaṇa’s minister Śuka proclaims victory while R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, deeming him vanquished (taṃ nirjitaṃ matvā), Śuka loudly proclaimed (ghoṣayām āsa vai śukaḥ), “Rāvaṇa is victorious (rāvaṇo jayati)!” and let out a roar of exultation (harṣān nādaṃ vimuktavān).
+Thereupon, deeming him vanquished (_taṃ nirjitaṃ matvā_), Śuka loudly proclaimed (_ghoṣayām āsa vai śukaḥ_), “Rāvaṇa is victorious (_rāvaṇo jayati_)!” and let out a roar of exultation (_harṣān nādaṃ vimuktavān_).
 </details>
 </details>
 
@@ -643,7 +643,7 @@ Thereupon, deeming him vanquished (taṃ nirjitaṃ matvā), Śuka loudly procla
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having devoured the great sages assembled there (tān bhakṣayitvā tatrasthān maharṣīn) who had come to the sacrifice (yajñam āgatān), and sated to the full with their blood (vitṛpto rudhirais teṣām), Rāvaṇa set forth once more across the earth (punaḥ samprayayau mahīm).
+Having devoured the great sages assembled there (_tān bhakṣayitvā tatrasthān maharṣīn_) who had come to the sacrifice (_yajñam āgatān_), and sated to the full with their blood (_vitṛpto rudhirais teṣām_), Rāvaṇa set forth once more across the earth (_punaḥ samprayayau mahīm_).
 </details>
 </details>
 
@@ -674,7 +674,7 @@ Having devoured the great sages assembled there (tān bhakṣayitvā tatrasthān
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāvaṇa had departed (rāvaṇe tu gate), the gods—the sky-dwellers led by Indra (devāḥ sendrāś caiva divaukasaḥ)—then resumed their own proper forms (svāṃ yonim āsādya) and addressed those creatures (tāni sattvāni cābruvan):
+When Rāvaṇa had departed (_rāvaṇe tu gate_), the gods—the sky-dwellers led by Indra (_devāḥ sendrāś caiva divaukasaḥ_)—then resumed their own proper forms (_svāṃ yonim āsādya_) and addressed those creatures (_tāni sattvāni cābruvan_):
 </details>
 </details>
 
@@ -705,7 +705,7 @@ When Rāvaṇa had departed (rāvaṇe tu gate), the gods—the sky-dwellers led
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With delight Indra then spoke to the dark-plumed peacock (mayūraṃ nīla-barhiṇam): “I am pleased with you, O knower of dharma (prīto ’smi tava dharmajña)—indeed, you shall have no fear from serpents (bhujaṅgād dhi na te bhayam)!
+With delight Indra then spoke to the dark-plumed peacock (_mayūraṃ nīla-barhiṇam_): “I am pleased with you, O knower of dharma (_prīto ’smi tava dharmajña_)—indeed, you shall have no fear from serpents (_bhujaṅgād dhi na te bhayam_)!
 </details>
 </details>
 
@@ -742,9 +742,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “And these thousand eyes of mine (idaṃ netra-sahasraṃ tu) shall appear upon your tail-plumes (yat tvad-barhe bhaviṣyati); whenever I pour down rain (varṣamāṇe mayi), you shall attain joy bearing the mark of my favor (mudaṃ prāpsyase prīti-lakṣaṇām)!” Thus did Indra, lord of the gods, bestow a boon upon the peacock (varaṃ prādān mayūrasya).
+**23:** “And these thousand eyes of mine (_idaṃ netra-sahasraṃ tu_) shall appear upon your tail-plumes (_yat tvad-barhe bhaviṣyati_); whenever I pour down rain (_varṣamāṇe mayi_), you shall attain joy bearing the mark of my favor (_mudaṃ prāpsyase prīti-lakṣaṇām_)!” Thus did Indra, lord of the gods, bestow a boon upon the peacock (_varaṃ prādān mayūrasya_).
 
-**24:** Formerly, O lord of men (narādhipa), the tail-feathers of peacocks were simply dark blue (nīlāḥ kila purā barhā mayūrāṇām); upon receiving that boon from the sovereign of the gods (surādhipād varaṃ prāpya), all of them became truly splendid-plumed (gatāḥ sarve ’pi barhiṇaḥ).
+**24:** Formerly, O lord of men (_narādhipa_), the tail-feathers of peacocks were simply dark blue (_nīlāḥ kila purā barhā mayūrāṇām_); upon receiving that boon from the sovereign of the gods (_surādhipād varaṃ prāpya_), all of them became truly splendid-plumed (_gatāḥ sarve ’pi barhiṇaḥ_).
 </details>
 </details>
 
@@ -783,7 +783,7 @@ Dharmarāja blesses the crow with immunity from disease and spontaneous death an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dharmarāja then spoke, O Rāma, to the crow perched upon the eastern sacrificial pavilion (prāgvaṃśe vāyasaṃ sthitam): “O bird, I am greatly pleased with you (pakṣiṃs tavāsmi suprītaḥ)—hear now the word of one who is pleased (prītasya vacanaṃ śṛṇu)!
+Dharmarāja then spoke, O Rāma, to the crow perched upon the eastern sacrificial pavilion (_prāgvaṃśe vāyasaṃ sthitam_): “O bird, I am greatly pleased with you (_pakṣiṃs tavāsmi suprītaḥ_)—hear now the word of one who is pleased (_prītasya vacanaṃ śṛṇu_)!
 </details>
 </details>
 
@@ -817,7 +817,7 @@ Dharmarāja then spoke, O Rāma, to the crow perched upon the eastern sacrificia
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those manifold diseases by which other living creatures are afflicted by me (yathānye vividhai rogaiḥ pīḍyante prāṇino mayā)—they shall never prevail over you (te na te prabhaviṣyanti) while I am pleased, of that there is no doubt (mayi prīte na saṃśayaḥ)!
+“Those manifold diseases by which other living creatures are afflicted by me (_yathānye vividhai rogaiḥ pīḍyante prāṇino mayā_)—they shall never prevail over you (_te na te prabhaviṣyanti_) while I am pleased, of that there is no doubt (_mayi prīte na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -851,7 +851,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You shall have no fear from death (mṛtyutas te bhayaṃ nāsti) by my boon, O sky-ranger (varān mama vihaṅgama); so long as men do not slay you (yāvat tvāṃ na vadhiṣyanti narāḥ), so long shall you live (tāvad bhaviṣyasi)!
+“You shall have no fear from death (_mṛtyutas te bhayaṃ nāsti_) by my boon, O sky-ranger (_varān mama vihaṅgama_); so long as men do not slay you (_yāvat tvāṃ na vadhiṣyanti narāḥ_), so long shall you live (_tāvad bhaviṣyasi_)!
 </details>
 </details>
 
@@ -885,7 +885,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And these mortals abiding in my realm (ete mad-viṣayasthā vai mānavāḥ), tormented by hunger and dread (kṣud-bhayārditāḥ)—when you have eaten (tvayi bhukte tu), they together with their kinsmen shall become completely satisfied (tṛptās te bhaviṣyanti sabāndhavāḥ)!”
+“And these mortals abiding in my realm (_ete mad-viṣayasthā vai mānavāḥ_), tormented by hunger and dread (_kṣud-bhayārditāḥ_)—when you have eaten (_tvayi bhukte tu_), they together with their kinsmen shall become completely satisfied (_tṛptās te bhaviṣyanti sabāndhavāḥ_)!”
 </details>
 </details>
 
@@ -916,7 +916,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Varuṇa in turn spoke to the swan sporting in the waters of the Gaṅgā (haṃsaṃ gaṅgā-toya-vihāriṇam): “Let this affectionate speech be heard (śrūyatāṃ prīti-saṃyuktaṃ vacaḥ), O sovereign of winged creatures (patraratheśvara)!
+Varuṇa in turn spoke to the swan sporting in the waters of the Gaṅgā (_haṃsaṃ gaṅgā-toya-vihāriṇam_): “Let this affectionate speech be heard (_śrūyatāṃ prīti-saṃyuktaṃ vacaḥ_), O sovereign of winged creatures (_patraratheśvara_)!
 </details>
 </details>
 
@@ -947,7 +947,7 @@ Varuṇa in turn spoke to the swan sporting in the waters of the Gaṅgā (haṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A captivating and serene hue (varṇo manoharaḥ saumyaḥ), resembling the orb of the full moon (candramaṇḍala-sannibhaḥ), lofty and bright as pure white foam (udagraḥ śuddha-phena-samaprabhaḥ), shall henceforth be yours (bhaviṣyati)!
+“A captivating and serene hue (_varṇo manoharaḥ saumyaḥ_), resembling the orb of the full moon (_candramaṇḍala-sannibhaḥ_), lofty and bright as pure white foam (_udagraḥ śuddha-phena-samaprabhaḥ_), shall henceforth be yours (_bhaviṣyati_)!
 </details>
 </details>
 
@@ -989,7 +989,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Entering my very body (mac-charīraṃ samāsādya), you shall ever remain lovely (kānto nityaṃ bhaviṣyasi) and attain incomparable delight (prāpsyase cātulāṃ prītim)—this shall be the token of my favor (etan me prīti-lakṣaṇam)!”
+“Entering my very body (_mac-charīraṃ samāsādya_), you shall ever remain lovely (_kānto nityaṃ bhaviṣyasi_) and attain incomparable delight (_prāpsyase cātulāṃ prītim_)—this shall be the token of my favor (_etan me prīti-lakṣaṇam_)!”
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Formerly, O Rāma, the hue of swans was blue mingled with pale white (nīla-varṇaḥ sapāṇḍuraḥ): their wings were bordered at the tips with dark blue (pakṣā nīlāgra-saṃvītāḥ), and their breasts spotless as tips of tender young grass (kroḍāḥ śaṣpāgra-nirmalāḥ).
+Formerly, O Rāma, the hue of swans was blue mingled with pale white (_nīla-varṇaḥ sapāṇḍuraḥ_): their wings were bordered at the tips with dark blue (_pakṣā nīlāgra-saṃvītāḥ_), and their breasts spotless as tips of tender young grass (_kroḍāḥ śaṣpāgra-nirmalāḥ_).
 </details>
 </details>
 
@@ -1051,7 +1051,7 @@ Formerly, O Rāma, the hue of swans was blue mingled with pale white (nīla-var�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vaiśravaṇa [Kubera] addressed the chameleon perched upon the mountain (kṛkalāsaṃ girau sthitam): “Pleased with you as well, I bestow upon you a golden hue (hairaṇyaṃ samprayacchāmi varṇaṃ prītas tavāpy aham)!
+Then Vaiśravaṇa [Kubera] addressed the chameleon perched upon the mountain (_kṛkalāsaṃ girau sthitam_): “Pleased with you as well, I bestow upon you a golden hue (_hairaṇyaṃ samprayacchāmi varṇaṃ prītas tavāpy aham_)!
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ Then Vaiśravaṇa [Kubera] addressed the chameleon perched upon the mountain (k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your head shall forever be endowed with golden splendor, imperishable (sadravyaṃ ca śiro nityaṃ bhaviṣyati tavākṣayam); through my favor this golden color (eṣa kāñcanako varṇaḥ) shall ever be yours!”
+“Your head shall forever be endowed with golden splendor, imperishable (_sadravyaṃ ca śiro nityaṃ bhaviṣyati tavākṣayam_); through my favor this golden color (_eṣa kāñcanako varṇaḥ_) shall ever be yours!”
 </details>
 </details>
 
@@ -1113,7 +1113,7 @@ Then Vaiśravaṇa [Kubera] addressed the chameleon perched upon the mountain (k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus bestowed boons upon them at that sacrificial festival (evaṃ dattvā varāṃs tebhyas tasmin yajñotsave), those gods (surāḥ), turning back together with the king (nivṛttāḥ saha rājñā te), departed once more to their own celestial abode (punaḥ svabhavanaṃ gatāḥ).
+Having thus bestowed boons upon them at that sacrificial festival (_evaṃ dattvā varāṃs tebhyas tasmin yajñotsave_), those gods (_surāḥ_), turning back together with the king (_nivṛttāḥ saha rājñā te_), departed once more to their own celestial abode (_punaḥ svabhavanaṃ gatāḥ_).
 </details>
 </details>
 

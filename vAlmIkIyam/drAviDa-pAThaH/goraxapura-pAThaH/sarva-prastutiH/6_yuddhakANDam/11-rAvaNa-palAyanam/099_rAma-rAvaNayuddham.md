@@ -94,9 +94,9 @@ He urged on his charioteer and addressed to him the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** When Mahodara had been slain by Sugrīva, mighty Mahāpārśva, beholding [that], his eyes bloodshot with wrath (krodhāt saṃraktalocanaḥ),
+**1:** When Mahodara had been slain by Sugrīva, mighty Mahāpārśva, beholding [that], his eyes bloodshot with wrath (_krodhāt saṃraktalocanaḥ_),
 
-**2:** threw Aṅgada’s dreadful army into turmoil with his arrows (mārgaṇaiḥ); that rākṣasa [struck] the heads (uttamāṅgāni) of the foremost monkeys,
+**2:** threw Aṅgada’s dreadful army into turmoil with his arrows (_mārgaṇaiḥ_); that rākṣasa [struck] the heads (_uttamāṅgāni_) of the foremost monkeys,
 </details>
 </details>
 
@@ -150,7 +150,7 @@ siege to (by the monkeys)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and sent them tumbling from their trunks just as the wind shakes fruit from its stalk (phalaṃ vṛntād ivānilaḥ); with his shafts that rākṣasa severed the arms of some,
+and sent them tumbling from their trunks just as the wind shakes fruit from its stalk (_phalaṃ vṛntād ivānilaḥ_); with his shafts that rākṣasa severed the arms of some,
 </details>
 </details>
 
@@ -219,9 +219,9 @@ of monkey-warriors."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** and in fierce fury tore open the flank (pārśvam) of others among the monkeys. Tormented by Mahāpārśva with that shower of arrows, those monkeys
+**4:** and in fierce fury tore open the flank (_pārśvam_) of others among the monkeys. Tormented by Mahāpārśva with that shower of arrows, those monkeys
 
-**5:** all turned away in despair (viṣādavimukhāḥ), their spirits failed (gatacetasaḥ). Perceiving his army distressed and tormented by the rākṣasa, Aṅgada
+**5:** all turned away in despair (_viṣādavimukhāḥ_), their spirits failed (_gatacetasaḥ_). Perceiving his army distressed and tormented by the rākṣasa, Aṅgada
 </details>
 </details>
 
@@ -273,7 +273,7 @@ in all the ten directions, with the sound of the chariot, rushing towards Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-surged forward in mighty speed (vegaṃ cakre mahāvegaḥ) like the ocean at the change of the moon (samudra iva parvasu); seizing an iron bar radiant as the rays of the sun (sūryaraśmisamaprabham),
+surged forward in mighty speed (_vegaṃ cakre mahāvegaḥ_) like the ocean at the change of the moon (_samudra iva parvasu_); seizing an iron bar radiant as the rays of the sun (_sūryaraśmisamaprabham_),
 </details>
 </details>
 
@@ -327,7 +327,7 @@ trembled, throwing lions, antelopes and birds, into fright.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the foremost of monkeys brought it crashing down upon Mahāpārśva in battle. Rendered senseless (vicetanaḥ) by that blow, Mahāpārśva
+the foremost of monkeys brought it crashing down upon Mahāpārśva in battle. Rendered senseless (_vicetanaḥ_) by that blow, Mahāpārśva
 </details>
 </details>
 
@@ -377,7 +377,7 @@ Tamasa, which began to consume all the monkeys, who started falling down on all 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-fell unconscious (visaṃjñaḥ) from that chariot to the earth together with his charioteer (sasūtaḥ). Then the radiant king of bears (ṛkṣarājaḥ), resembling a heap of dark collyrium (nīlāñjanacayopamaḥ),
+fell unconscious (_visaṃjñaḥ_) from that chariot to the earth together with his charioteer (_sasūtaḥ_). Then the radiant king of bears (_ṛkṣarājaḥ_), resembling a heap of dark collyrium (_nīlāñjanacayopamaḥ_),
 </details>
 </details>
 
@@ -433,7 +433,7 @@ away for they could no longer bear that missile built by Brahma himself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-of immense valor, rushed forth from his own troop that resembled a thundercloud (svayūthān meghasaṃnibhāt); seizing in fury a massive boulder that looked like a mountain peak (giriśṛṅgābhām),
+of immense valor, rushed forth from his own troop that resembled a thundercloud (_svayūthān meghasaṃnibhāt_); seizing in fury a massive boulder that looked like a mountain peak (_giriśṛṅgābhām_),
 </details>
 </details>
 
@@ -485,7 +485,7 @@ Rama took his stand, ready for the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he slew [Mahāpārśva’s] horses by his might and shattered that chariot as well. Regaining consciousness in an instant (muhūrtāl labdhasaṃjñaḥ), mighty Mahāpārśva
+he slew [Mahāpārśva’s] horses by his might and shattered that chariot as well. Regaining consciousness in an instant (_muhūrtāl labdhasaṃjñaḥ_), mighty Mahāpārśva
 </details>
 </details>
 
@@ -518,7 +518,7 @@ he slew [Mahāpārśva’s] horses by his might and shattered that chariot as we
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-pierced Aṅgada back again with many arrows, and struck Jāmbavān in the middle of the chest (stanāntare) with three shafts.
+pierced Aṅgada back again with many arrows, and struck Jāmbavān in the middle of the chest (_stanāntare_) with three shafts.
 </details>
 </details>
 
@@ -572,7 +572,7 @@ sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He struck the king of bears and Gavākṣa with many arrows. Seeing Gavākṣa and Jāmbavān tormented by arrows (śarapīḍitau),
+He struck the king of bears and Gavākṣa with many arrows. Seeing Gavākṣa and Jāmbavān tormented by arrows (_śarapīḍitau_),
 </details>
 </details>
 
@@ -632,9 +632,9 @@ pleasingly seized his bow at the middle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Aṅgada, inflamed with wrath (krodhamūrcchitaḥ), seized a dreadful iron bar. His eyes filled with fury (saroṣākṣaḥ), Aṅgada [grasped] that iron
+**13:** Aṅgada, inflamed with wrath (_krodhamūrcchitaḥ_), seized a dreadful iron bar. His eyes filled with fury (_saroṣākṣaḥ_), Aṅgada [grasped] that iron
 
-**14:** bar, bright as the rays of the sun (raviraśmisamaprabham), with both arms (dvābhyāṃ bhujābhyām), and whirling it rapidly, [aimed at] that rākṣasa standing at a distance (dūrasthitasya);
+**14:** bar, bright as the rays of the sun (_raviraśmisamaprabham_), with both arms (_dvābhyāṃ bhujābhyām_), and whirling it rapidly, [aimed at] that rākṣasa standing at a distance (_dūrasthitasya_);
 </details>
 </details>
 
@@ -726,7 +726,7 @@ by the twang of Rama's bow, those demons fell down in their hundreds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and knocked the arrow-fitted bow (dhanuś ca saśaram) from his hand as well as his helmet (śirastrāṇam). Reaching him at full speed, the valiant son of Vāli
+and knocked the arrow-fitted bow (_dhanuś ca saśaram_) from his hand as well as his helmet (_śirastrāṇam_). Reaching him at full speed, the valiant son of Vāli
 </details>
 </details>
 
@@ -780,7 +780,7 @@ moon and the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-struck him wrathfully with his palm (talena) at the base of the ear adorned with an earring (karṇamūle sakuṇḍale). Enraged, swift, and radiant Mahāpārśva
+struck him wrathfully with his palm (_talena_) at the base of the ear adorned with an earring (_karṇamūle sakuṇḍale_). Enraged, swift, and radiant Mahāpārśva
 </details>
 </details>
 
@@ -835,7 +835,7 @@ bow, released his arrows which were like flames of fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-seized a huge battle-axe (paraśvadham) with a single hand (kareṇaikena); that spotless, firm weapon, washed with oil (tailadhautam) and wrought of hard steel (śailasāramayam),
+seized a huge battle-axe (_paraśvadham_) with a single hand (_kareṇaikena_); that spotless, firm weapon, washed with oil (_tailadhautam_) and wrought of hard steel (_śailasāramayam_),
 </details>
 </details>
 
@@ -881,7 +881,7 @@ released by Lakshmana, with his arrows, in the sky itself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the fiercely enraged rākṣasa brought crashing down upon the son of Vāli. Brought heavily down by him upon his left shoulder-blade (vāmāṃsaphalake),
+the fiercely enraged rākṣasa brought crashing down upon the son of Vāli. Brought heavily down by him upon his left shoulder-blade (_vāmāṃsaphalake_),
 </details>
 </details>
 
@@ -927,7 +927,7 @@ one, three with three and ten with ten arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-wrathful Aṅgada parried (mokṣayāmāsa) that battle-axe. Then that hero Aṅgada [clenched] his own fist, which resembled a thunderbolt (vajrasaṃkāśam),
+wrathful Aṅgada parried (_mokṣayāmāsa_) that battle-axe. Then that hero Aṅgada [clenched] his own fist, which resembled a thunderbolt (_vajrasaṃkāśam_),
 </details>
 </details>
 
@@ -982,7 +982,7 @@ like another mountain, in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-tightening it (saṃvartayat) in fierce fury—he who was equal in valor to his father (pitus tulyaparākramaḥ) and knew the vital spots (marmajñaḥ)—and toward the heart near the rākṣasa’s chest (stanābhyāśe),
+tightening it (_saṃvartayat_) in fierce fury—he who was equal in valor to his father (_pitus tulyaparākramaḥ_) and knew the vital spots (_marmajñaḥ_)—and toward the heart near the rākṣasa’s chest (_stanābhyāśe_),
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ through anger, released streams of arrows upon him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he drove down that fist whose impact matched Indra’s thunderbolt (indrāśanisamasparśam). Through that blow of his upon the rākṣasa in the great battle,
+he drove down that fist whose impact matched Indra’s thunderbolt (_indrāśanisamasparśam_). Through that blow of his upon the rākṣasa in the great battle,
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ Bhalla - A variety of arrows with a crescent - shaped head.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-his heart burst asunder (paphāla hṛdayaṃ cāsya) and he fell slain to the earth. When he was struck down upon the ground, that [rākṣasa] army was thrown into violent commotion (sampracukṣubhe),
+his heart burst asunder (_paphāla hṛdayaṃ cāsya_) and he fell slain to the earth. When he was struck down upon the ground, that [rākṣasa] army was thrown into violent commotion (_sampracukṣubhe_),
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ terrific like enraged serpents, with his sharp Bhalla - arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and great wrath arose in Rāvaṇa in battle. From the exultant monkeys [arose] a resounding lion-roar (siṃhanādaḥ supuṣkalaḥ),
+and great wrath arose in Rāvaṇa in battle. From the exultant monkeys [arose] a resounding lion-roar (_siṃhanādaḥ supuṣkalaḥ_),
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ sharp-pointed arrows of various kinds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as though splitting open with its din Laṅkā together with its watchtowers and gate-towers (laṅkāṃ sāṭṭālagopurām); a mighty roar arose like that of the gods together with Indra (sahendreṇeva devānām).
+as though splitting open with its din Laṅkā together with its watchtowers and gate-towers (_laṅkāṃ sāṭṭālagopurām_); a mighty roar arose like that of the gods together with Indra (_sahendreṇeva devānām_).
 </details>
 </details>
 
@@ -1260,7 +1260,7 @@ time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that tremendous roar (mahāpraṇādam) of the dwellers in heaven (tridaśālayānām) and of the forest-dwellers (vanaukasām), the lord of rākṣasas, adversary of Indra (indraśatruḥ), stood forth once more in battle, wrathfully facing the fray (yuddhābhimukhaḥ).
+Hearing that tremendous roar (_mahāpraṇādam_) of the dwellers in heaven (_tridaśālayānām_) and of the forest-dwellers (_vanaukasām_), the lord of rākṣasas, adversary of Indra (_indraśatruḥ_), stood forth once more in battle, wrathfully facing the fray (_yuddhābhimukhaḥ_).
 </details>
 </details>
 

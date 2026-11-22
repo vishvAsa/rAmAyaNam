@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then after the lapse of some time (kasyacit tv atha kālasya), while Rāma abided steadfast in dharma (rāme dharmapare sthite), Time himself arrived at the royal gate in the guise of an ascetic (kālas tāpasarūpeṇa rājadvāram upāgamat).
+Then after the lapse of some time (_kasyacit tv atha kālasya_), while Rāma abided steadfast in dharma (_rāme dharmapare sthite_), Time himself arrived at the royal gate in the guise of an ascetic (_kālas tāpasarūpeṇa rājadvāram upāgamat_).
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Then after the lapse of some time (kasyacit tv atha kālasya), while Rāma abide
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He spoke these words to the steadfast and illustrious Lakṣmaṇa (lakṣmaṇaṃ ... dhṛtimantaṃ yaśasvinam): “Announce me to Rāma (māṃ nivedaya rāmāya) as one who has arrived on a matter of grave importance (samprāptaṃ kāryagauravāt).
+He spoke these words to the steadfast and illustrious Lakṣmaṇa (_lakṣmaṇaṃ ... dhṛtimantaṃ yaśasvinam_): “Announce me to Rāma (_māṃ nivedaya rāmāya_) as one who has arrived on a matter of grave importance (_samprāptaṃ kāryagauravāt_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ He spoke these words to the steadfast and illustrious Lakṣmaṇa (lakṣmaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the messenger of an exceedingly mighty great sage of boundless vigor (dūto ’smy atibalasyāhaṃ maharṣer amitaujasaḥ); I have come wishing to see Rāma (rāmaṃ didṛkṣur āyātaḥ) on urgent business, O mighty-armed one (kāryeṇa hi mahābala).”
+“I am the messenger of an exceedingly mighty great sage of boundless vigor (_dūto ’smy atibalasyāhaṃ maharṣer amitaujasaḥ_); I have come wishing to see Rāma (_rāmaṃ didṛkṣur āyātaḥ_) on urgent business, O mighty-armed one (_kāryeṇa hi mahābala_).”
 </details>
 </details>
 
@@ -144,7 +144,7 @@ He spoke these words to the steadfast and illustrious Lakṣmaṇa (lakṣmaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tasya tadvacanaṃ śrutvā), Saumitri, filled with haste (saumitris tvarayānvitaḥ), announced to Rāma the arrival of that ascetic (nyavedayata rāmāya tāpasaṃ taṃ samāgatam):
+Hearing those words of his (_tasya tadvacanaṃ śrutvā_), Saumitri, filled with haste (_saumitris tvarayānvitaḥ_), announced to Rāma the arrival of that ascetic (_nyavedayata rāmāya tāpasaṃ taṃ samāgatam_):
 </details>
 </details>
 
@@ -175,7 +175,7 @@ Hearing those words of his (tasya tadvacanaṃ śrutvā), Saumitri, filled with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Conquer both worlds through dharma, O Rāma of great splendor (jayasva rāma dharmeṇa ubhau lokau mahādyute)! A messenger, effulgent as the sun through austerity (dūtas ... tapasā bhāskaraprabhaḥ), has come wishing to behold you (tvāṃ draṣṭum āyātaḥ).”
+“Conquer both worlds through dharma, O Rāma of great splendor (_jayasva rāma dharmeṇa ubhau lokau mahādyute_)! A messenger, effulgent as the sun through austerity (_dūtas ... tapasā bhāskaraprabhaḥ_), has come wishing to behold you (_tvāṃ draṣṭum āyātaḥ_).”
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Lakṣmaṇa (tadvākyaṃ lakṣmaṇenoktam), Rāma indeed replied (rāma uvāca ha): “Let that sage of great vigor, bearer of his message, be ushered in, O dear one (praveśyatāṃ munis tāta mahaujās tasya vākyadhṛt)!”
+Hearing those words spoken by Lakṣmaṇa (_tadvākyaṃ lakṣmaṇenoktam_), Rāma indeed replied (_rāma uvāca ha_): “Let that sage of great vigor, bearer of his message, be ushered in, O dear one (_praveśyatāṃ munis tāta mahaujās tasya vākyadhṛt_)!”
 </details>
 </details>
 
@@ -251,7 +251,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it!” (tathety uktvā), Saumitri ushered in that sage (prāveśayata taṃ munim), who seemed to blaze with inner splendor (jvalantam eva tejobhiḥ) and scorch all around with his rays (pradahantam ivāṃśubhiḥ).
+Saying “So be it!” (_tathety uktvā_), Saumitri ushered in that sage (_prāveśayata taṃ munim_), who seemed to blaze with inner splendor (_jvalantam eva tejobhiḥ_) and scorch all around with his rays (_pradahantam ivāṃśubhiḥ_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ Saying “So be it!” (tathety uktvā), Saumitri ushered in that sage (prāveś
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching that foremost of the Raghus, who shone with his own native radiance (raghuśreṣṭhaṃ dīpyamānaṃ svatejasā), the sage addressed Rāghava in honeyed speech (madhurayā vācā): “May you prosper (vardhasva)!”
+Approaching that foremost of the Raghus, who shone with his own native radiance (_raghuśreṣṭhaṃ dīpyamānaṃ svatejasā_), the sage addressed Rāghava in honeyed speech (_madhurayā vācā_): “May you prosper (_vardhasva_)!”
 </details>
 </details>
 
@@ -313,7 +313,7 @@ Approaching that foremost of the Raghus, who shone with his own native radiance 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To him the greatly resplendent Rāma offered worship preceded by the arghya offering (pūjām arghyapurogamām dadau), and unhurriedly began to inquire after his welfare (kuśalam avyagraṃ praṣṭum evopacakrame).
+To him the greatly resplendent Rāma offered worship preceded by the arghya offering (_pūjām arghyapurogamām dadau_), and unhurriedly began to inquire after his welfare (_kuśalam avyagraṃ praṣṭum evopacakrame_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ To him the greatly resplendent Rāma offered worship preceded by the arghya offe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Asked about his welfare by that Rāma, foremost of eloquent speakers (pṛṣṭaś ca kuśalaṃ tena rāmeṇa vadatāṃ varaḥ), the greatly illustrious sage sat down upon a divine golden seat (āsane kāñcane divye niṣasāda).
+Asked about his welfare by that Rāma, foremost of eloquent speakers (_pṛṣṭaś ca kuśalaṃ tena rāmeṇa vadatāṃ varaḥ_), the greatly illustrious sage sat down upon a divine golden seat (_āsane kāñcane divye niṣasāda_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma said to him (tam uvāca tato rāmaḥ): “Welcome to you, O great sage (svāgataṃ te mahāmune)! Convey the words of him (prāpayāsya ca vākyāni) from whom you have come as messenger (yato dūtas tvam āgataḥ).”
+Then Rāma said to him (_tam uvāca tato rāmaḥ_): “Welcome to you, O great sage (_svāgataṃ te mahāmune_)! Convey the words of him (_prāpayāsya ca vākyāni_) from whom you have come as messenger (_yato dūtas tvam āgataḥ_).”
 </details>
 </details>
 
@@ -409,7 +409,7 @@ Then Rāma said to him (tam uvāca tato rāmaḥ): “Welcome to you, O great sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Prompted by that lion among kings (codito rājasiṃhena), the sage spoke these words (munir vākyam abhāṣata): “This must be spoken in strict secrecy between us two (dvandvam etat pravaktavyam), if indeed you have regard for what is beneficial (hitaṃ vai yady apekṣase).
+Prompted by that lion among kings (_codito rājasiṃhena_), the sage spoke these words (_munir vākyam abhāṣata_): “This must be spoken in strict secrecy between us two (_dvandvam etat pravaktavyam_), if indeed you have regard for what is beneficial (_hitaṃ vai yady apekṣase_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Kāla stipulates that whoever sees or overhears their conference must be slain b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whoever overhears or looks upon us (yaḥ śṛṇoti nirīkṣed vā) shall be put to death by you (sa vadhyo bhavitā tava)—so indeed must it be (bhaved vai), if you respect the command of that foremost of sages (munimukhyasya vacanaṃ yady apekṣase).”
+“Whoever overhears or looks upon us (_yaḥ śṛṇoti nirīkṣed vā_) shall be put to death by you (_sa vadhyo bhavitā tava_)—so indeed must it be (_bhaved vai_), if you respect the command of that foremost of sages (_munimukhyasya vacanaṃ yady apekṣase_).”
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Kāla stipulates that whoever sees or overhears their conference must be slain b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pledging “So be it!” (sa tatheti pratijñāya), Rāma spoke to Lakṣmaṇa (rāmo lakṣmaṇam abravīt): “Stand at the door, O mighty-armed one (dvāri tiṣṭha mahābāho), and dismiss the doorkeeper (pratihāraṃ visarjaya).
+Pledging “So be it!” (_sa tatheti pratijñāya_), Rāma spoke to Lakṣmaṇa (_rāmo lakṣmaṇam abravīt_): “Stand at the door, O mighty-armed one (_dvāri tiṣṭha mahābāho_), and dismiss the doorkeeper (_pratihāraṃ visarjaya_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Pledging “So be it!” (sa tatheti pratijñāya), Rāma spoke to Lakṣmaṇa 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He shall assuredly deserve death at my hands (sa me vadhyaḥ khalu bhavet) who either looks upon or overhears (paśyed vā śṛṇuyāc ca yaḥ) the private conversation spoken between the sage and myself, O Saumitri (kathādvandvaṃ samīritam ṛṣer mama ca)!”
+“He shall assuredly deserve death at my hands (_sa me vadhyaḥ khalu bhavet_) who either looks upon or overhears (_paśyed vā śṛṇuyāc ca yaḥ_) the private conversation spoken between the sage and myself, O Saumitri (_kathādvandvaṃ samīritam ṛṣer mama ca_)!”
 </details>
 </details>
 
@@ -561,9 +561,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Then, having stationed Lakṣmaṇa at the door as its watchful guardian (nikṣipya ... lakṣmaṇaṃ dvāri saṅgraham), Kākutstha Rāghava said to him (tam uvāca): “O sage, speak your message (mune vākyaṃ kathayasva)!
+**16:** Then, having stationed Lakṣmaṇa at the door as its watchful guardian (_nikṣipya ... lakṣmaṇaṃ dvāri saṅgraham_), Kākutstha Rāghava said to him (_tam uvāca_): “O sage, speak your message (_mune vākyaṃ kathayasva_)!
 
-**17:** “Whatever message is cherished in your mind (yat te manīṣitaṃ vākyam), or on whatever mission you have been charged (yena vāsi samāhitaḥ), declare it without hesitation (kathayasvāviśaṅkas tvam); it dwells in my own heart as well (mamāpi hṛdi vartate).”
+**17:** “Whatever message is cherished in your mind (_yat te manīṣitaṃ vākyam_), or on whatever mission you have been charged (_yena vāsi samāhitaḥ_), declare it without hesitation (_kathayasvāviśaṅkas tvam_); it dwells in my own heart as well (_mamāpi hṛdi vartate_).”
 </details>
 </details>
 

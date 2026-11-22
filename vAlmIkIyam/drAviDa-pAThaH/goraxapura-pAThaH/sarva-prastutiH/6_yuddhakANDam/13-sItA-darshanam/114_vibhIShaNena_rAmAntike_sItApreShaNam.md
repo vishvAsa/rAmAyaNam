@@ -63,7 +63,7 @@ Beholding her ten-necked husband slain by Rāma of inconceivable deeds, Rāvaṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those Rākṣasa women were thus lamenting, the beloved and wretched chief queen (jyeṣṭhapatnī) gazed intently upon her husband.
+While those Rākṣasa women were thus lamenting, the beloved and wretched chief queen (_jyeṣṭhapatnī_) gazed intently upon her husband.
 </details>
 </details>
 
@@ -116,7 +116,7 @@ this course of actions was undertaken and which has (now) borne fruit."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her husband Daśagrīva slain by Rāma of inconceivable deeds (acintyakarmaṇā), the pitiable Mandodarī lamented there.
+Beholding her husband Daśagrīva slain by Rāma of inconceivable deeds (_acintyakarmaṇā_), the pitiable Mandodarī lamented there.
 </details>
 </details>
 
@@ -211,7 +211,7 @@ see my husband, who has accomplished his purpose, together with Lakshmana.'"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely indeed, great sages (ṛṣayaḥ), illustrious Gandharvas, and Cāraṇas fled in all directions out of terror of you (tavodvegāt)!
+Surely indeed, great sages (_ṛṣayaḥ_), illustrious Gandharvas, and Cāraṇas fled in all directions out of terror of you (_tavodvegāt_)!
 </details>
 </details>
 
@@ -290,9 +290,9 @@ follows) to Vibhishana, who closely resembled a cloud in hue and who was standin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Yet you have been vanquished in battle by Rāma, a mere mortal (mānuṣamātreṇa)! Are you not ashamed, O king? What is this, O lord of Rākṣasas?
+**5:** Yet you have been vanquished in battle by Rāma, a mere mortal (_mānuṣamātreṇa_)! Are you not ashamed, O king? What is this, O lord of Rākṣasas?
 
-**6:** How did a forest-roaming mortal (mānuṣo vanagocaraḥ) slay you, who had subjugated the three worlds, were endowed with splendour and valour, and were irresistible?”
+**6:** How did a forest-roaming mortal (_mānuṣo vanagocaraḥ_) slay you, who had subjugated the three worlds, were endowed with splendour and valour, and were irresistible?”
 </details>
 </details>
 
@@ -346,7 +346,7 @@ cosmetics and adorned with beautiful jewels. Let there be no delay."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As you roamed in a realm inaccessible to mortals (mānuṣāṇām aviṣaye) and could assume any form at will (kāmarūpiṇaḥ), your destruction in battle by Rāma is inexplicable.
+“As you roamed in a realm inaccessible to mortals (_mānuṣāṇām aviṣaye_) and could assume any form at will (_kāmarūpiṇaḥ_), your destruction in battle by Rāma is inexplicable.
 </details>
 </details>
 
@@ -392,7 +392,7 @@ communicated his presence to Seetha, through his own women.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor do I believe this deed at the battlefront to be the work of Rāma—the crushing (abhimarṣaṇam) by him of you, who were fully equipped in every way.
+Nor do I believe this deed at the battlefront to be the work of Rāma—the crushing (_abhimarṣaṇam_) by him of you, who were fully equipped in every way.
 </details>
 </details>
 
@@ -439,7 +439,7 @@ Seetha, with his palms joined over his head, humbly spoke to her as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else Kṛtānta [Death] himself has come in the form of Rāma (rāmarūpeṇa), having fashioned an inconceivable illusion (māyām apratitarkitām) for your destruction.
+Or else Kṛtānta [Death] himself has come in the form of Rāma (_rāmarūpeṇa_), having fashioned an inconceivable illusion (_māyām apratitarkitām_) for your destruction.
 </details>
 </details>
 
@@ -541,7 +541,7 @@ see my husband, even without taking my bath."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-you who were of mighty strength, great valour, the enemy of the gods, and of immense energy? Clearly this [Rāma] is the great Yogin (mahāyogī), the eternal Supreme Self (paramātmā sanātanaḥ),
+you who were of mighty strength, great valour, the enemy of the gods, and of immense energy? Clearly this [Rāma] is the great Yogin (_mahāyogī_), the eternal Supreme Self (_paramātmā sanātanaḥ_),
 </details>
 </details>
 
@@ -594,7 +594,7 @@ bidding of Rama, your husband, as he has enjoined you to do."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having neither beginning, middle, nor end (anādimadhyanidhanaḥ), greater than the great, supreme beyond darkness (tamasaḥ paramaḥ), the Ordainer bearing the conch, discus, and mace!”
+having neither beginning, middle, nor end (_anādimadhyanidhanaḥ_), greater than the great, supreme beyond darkness (_tamasaḥ paramaḥ_), the Ordainer bearing the conch, discus, and mace!”
 </details>
 </details>
 
@@ -655,7 +655,7 @@ divinity, endowed as she was with a devotion to her husband, said in reply, "So 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bearing the Śrīvatsa mark upon his chest (śrīvatsavakṣāḥ), of unfailing splendour (nityaśrīḥ), unconquerable, eternal, and immutable, Viṣṇu of true valour assumed a human form,
+“Bearing the Śrīvatsa mark upon his chest (_śrīvatsavakṣāḥ_), of unfailing splendour (_nityaśrīḥ_), unconquerable, eternal, and immutable, Viṣṇu of true valour assumed a human form,
 </details>
 </details>
 
@@ -686,7 +686,7 @@ divinity, endowed as she was with a devotion to her husband, said in reply, "So 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-surrounded by all the gods who had assumed the state of Vānaras (vānaratvam upāgataiḥ), the glorious Lord of all worlds, out of desire for the welfare of the worlds—
+surrounded by all the gods who had assumed the state of Vānaras (_vānaratvam upāgataiḥ_), the glorious Lord of all worlds, out of desire for the welfare of the worlds—
 </details>
 </details>
 
@@ -741,7 +741,7 @@ brought her to the presence of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he [slew you], the terrifying enemy of the gods, together with your Rākṣasa retinue! In former times, having conquered your senses (indriyāṇi purā jitvā), the three worlds were conquered by you;
+he [slew you], the terrifying enemy of the gods, together with your Rākṣasa retinue! In former times, having conquered your senses (_indriyāṇi purā jitvā_), the three worlds were conquered by you;
 </details>
 </details>
 
@@ -795,7 +795,7 @@ announced to him that Seetha had arrived.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-now, as if remembering that hostility (tad vairam), you have been vanquished by those very senses! Indeed, the very moment when, surrounded by many Rākṣasas in Janasthāna,
+now, as if remembering that hostility (_tad vairam_), you have been vanquished by those very senses! Indeed, the very moment when, surrounded by many Rākṣasas in Janasthāna,
 </details>
 </details>
 
@@ -864,7 +864,7 @@ as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-your brother Khara was slain, even then Rāma was clearly no mere mortal (na mānuṣaḥ); and the very moment when the city of Laṅkā, impenetrable even to the gods,
+your brother Khara was slain, even then Rāma was clearly no mere mortal (_na mānuṣaḥ_); and the very moment when the city of Laṅkā, impenetrable even to the gods,
 </details>
 </details>
 
@@ -918,7 +918,7 @@ beside him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-was entered by Hanumān through his valour, even then we were struck with anguish. And when you were repeatedly told by me, ‘Let hostility with Rāghava be avoided (kriyatām avirodhaś ca)’—
+was entered by Hanumān through his valour, even then we were struck with anguish. And when you were repeatedly told by me, ‘Let hostility with Rāghava be avoided (_kriyatām avirodhaś ca_)’—
 </details>
 </details>
 
@@ -975,7 +975,7 @@ seek my presence quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-you did not heed it; this fruit (vyuṣṭiḥ) of that [refusal] has now arrived! And without cause you conceived a fatal passion for Sītā, O bull among Rākṣasas,
+you did not heed it; this fruit (_vyuṣṭiḥ_) of that [refusal] has now arrived! And without cause you conceived a fatal passion for Sītā, O bull among Rākṣasas,
 </details>
 </details>
 
@@ -1027,7 +1027,7 @@ disperse the crowd there quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-for the destruction of your sovereignty, your body, and your kinsmen! By violating that venerable Sītā (sītāṃ dharṣayatā mānyām), who surpasses even Arundhatī and Rohiṇī, O foolish-minded one,
+for the destruction of your sovereignty, your body, and your kinsmen! By violating that venerable Sītā (_sītāṃ dharṣayatā mānyām_), who surpasses even Arundhatī and Rohiṇī, O foolish-minded one,
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ jingling sound, walked there all round, dispersing those warriors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-an unworthy deed was committed by you! She who is the very earth of the earth (vasudhāyā hi vasudhām), the very Lakṣmī of Lakṣmī (śriyāḥ śrīm), devoted to her husband,
+an unworthy deed was committed by you! She who is the very earth of the earth (_vasudhāyā hi vasudhām_), the very Lakṣmī of Lakṣmī (_śriyāḥ śrīm_), devoted to her husband,
 </details>
 </details>
 
@@ -1134,7 +1134,7 @@ from their nearness to the palanquin.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the auspicious Sītā of wholly flawless limbs (sarvānavadyāṅgīm)—having brought that distressed lady from the solitary forest by deceit as the ruin of yourself and your race (ātmasvadūṣaṇam),
+the auspicious Sītā of wholly flawless limbs (_sarvānavadyāṅgīm_)—having brought that distressed lady from the solitary forest by deceit as the ruin of yourself and your race (_ātmasvadūṣaṇam_),
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ resembling the roar of a sea, lashed by a storm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and without even attaining that desire directed toward union with Maithilī, you have surely been burned by the austerity of that devoted wife (pativratāyās tapasā), O my lord!
+and without even attaining that desire directed toward union with Maithilī, you have surely been burned by the austerity of that devoted wife (_pativratāyās tapasā_), O my lord!
 </details>
 </details>
 
@@ -1234,7 +1234,7 @@ resentment (at the behaviour of the demons who were dispersing them).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That you were not burned to ashes the very moment you laid hands upon that slender-waisted lady (tanumadhyamām) is only because all the gods, together with Indra and headed by Agni, feared you!”
+That you were not burned to ashes the very moment you laid hands upon that slender-waisted lady (_tanumadhyamām_) is only because all the gods, together with Indra and headed by Agni, feared you!”
 </details>
 </details>
 
@@ -1294,7 +1294,7 @@ following reproaching words to the highly intelligent Vibhishana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuredly, O husband, the doer of a sinful deed (pāpasya karmaṇaḥ kartā) reaps its fruit when the time comes round (paryāgate kāle); of this there is no doubt.
+“Assuredly, O husband, the doer of a sinful deed (_pāpasya karmaṇaḥ kartā_) reaps its fruit when the time comes round (_paryāgate kāle_); of this there is no doubt.
 </details>
 </details>
 
@@ -1346,7 +1346,7 @@ my own people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The doer of good obtains good, and the doer of evil experiences evil (pāpakṛt pāpam aśnute): Vibhīṣaṇa has attained happiness, while you have met with such a calamity!
+The doer of good obtains good, and the doer of evil experiences evil (_pāpakṛt pāpam aśnute_): Vibhīṣaṇa has attained happiness, while you have met with such a calamity!
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ nor concealments nor such royal honours. Her character is her shield."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You had other women in your palace surpassing her in beauty (rūpeṇābhyadhikās tataḥ); yet, fallen under the sway of the bodiless god of love (anaṅgavaśam āpannaḥ), out of infatuation you did not perceive it.
+You had other women in your palace surpassing her in beauty (_rūpeṇābhyadhikās tataḥ_); yet, fallen under the sway of the bodiless god of love (_anaṅgavaśam āpannaḥ_), out of infatuation you did not perceive it.
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ assembly of suitors, nor in sacrificial ceremonies nor in marriage-functions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither in lineage (na kulena), nor in beauty (na rūpeṇa), nor in courteous Accomplishment (na dākṣiṇyena) is Maithilī superior or even equal to me; yet out of delusion you did not realize that!
+Neither in lineage (_na kulena_), nor in beauty (_na rūpeṇa_), nor in courteous Accomplishment (_na dākṣiṇyena_) is Maithilī superior or even equal to me; yet out of delusion you did not realize that!
 </details>
 </details>
 
@@ -1512,7 +1512,7 @@ fault in her appearance in public, particularly in my presence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At no time is there a causeless death (mṛtyur alakṣaṇaḥ) for any living being; even so, this death of yours has Maithilī as its cause (maithilīkṛtalakṣaṇaḥ).
+At no time is there a causeless death (_mṛtyur alakṣaṇaḥ_) for any living being; even so, this death of yours has Maithilī as its cause (_maithilīkṛtalakṣaṇaḥ_).
 </details>
 </details>
 
@@ -1564,7 +1564,7 @@ monkeys see Seetha in my presence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Death born of the cause of Sītā (sītānimittajo mṛtyuḥ) was brought here by you from afar! Maithilī, free from sorrow, will now sport happily with Rāma—
+Death born of the cause of Sītā (_sītānimittajo mṛtyuḥ_) was brought here by you from afar! Maithilī, free from sorrow, will now sport happily with Rāma—
 </details>
 </details>
 
@@ -1618,7 +1618,7 @@ to Rama's vicinity.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“whereas I, of scant merit (alpapuṇyā), have fallen into a dreadful ocean of grief (śokasāgare)! I who once sported in your company upon Kailāsa, Mandara, Meru, and in the Caitraratha grove,
+“whereas I, of scant merit (_alpapuṇyā_), have fallen into a dreadful ocean of grief (_śokasāgare_)! I who once sported in your company upon Kailāsa, Mandara, Meru, and in the Caitraratha grove,
 </details>
 </details>
 
@@ -1664,7 +1664,7 @@ much perturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and in all the gardens of the gods, travelling in a worthy aerial car (vimānenānurūpeṇa) with peerless splendour,
+and in all the gardens of the gods, travelling in a worthy aerial car (_vimānenānurūpeṇa_) with peerless splendour,
 </details>
 </details>
 
@@ -1710,7 +1710,7 @@ conjectured as if Rama had some displeasure towards Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-beholding those various lands while decked in variegated garlands and garments—that very I, O hero, am today bereft of all sensual delights (bhraṃśitā kāmabhogebhyaḥ) through your slaying!
+beholding those various lands while decked in variegated garlands and garments—that very I, O hero, am today bereft of all sensual delights (_bhraṃśitā kāmabhogebhyaḥ_) through your slaying!
 </details>
 </details>
 
@@ -1756,7 +1756,7 @@ duly followed by Vibhishana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though the very same person, I have become as if another (saivānyevāsmi saṃvṛttā); fie upon the fickle fortune of kings (cañcalāṃ śriyam)! Alas, O king, your delicate face, with its shapely brows, smooth skin, and prominent nose,
+Though the very same person, I have become as if another (_saivānyevāsmi saṃvṛttā_); fie upon the fickle fortune of kings (_cañcalāṃ śriyam_)! Alas, O king, your delicate face, with its shapely brows, smooth skin, and prominent nose,
 </details>
 </details>
 
@@ -1809,7 +1809,7 @@ charming face of her husband, with a surprise, rejoice and affection.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-equal in lustre, beauty, and effulgence to the moon, the lotus, and the sun (indupadmadivākaraiḥ), blazing with a mass of diadems, coppery-lipped, with gleaming earrings,
+equal in lustre, beauty, and effulgence to the moon, the lotus, and the sun (_indupadmadivākaraiḥ_), blazing with a mass of diadems, coppery-lipped, with gleaming earrings,
 </details>
 </details>
 
@@ -1887,7 +1887,7 @@ now longing to see you, her eyes filled with tears of joy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-which in the drinking-halls (pānabhūmiṣu), with eyes rolling and languid from intoxication, wore diverse garlands and was handsome, auspicious, and graced with sweet smiles and converse—
+which in the drinking-halls (_pānabhūmiṣu_), with eyes rolling and languid from intoxication, wore diverse garlands and was handsome, auspicious, and graced with sweet smiles and converse—
 </details>
 </details>
 

@@ -82,7 +82,7 @@ spoke the following words beneficial to herself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of that great-souled son of the Wind-god (vāyusūnor mahātmanaḥ), Sītā, resembling a daughter of the gods (surasutopamā), spoke words conducive to her own welfare (ātmahitaṃ vākyam):
+Hearing the speech of that great-souled son of the Wind-god (_vāyusūnor mahātmanaḥ_), Sītā, resembling a daughter of the gods (_surasutopamā_), spoke words conducive to her own welfare (_ātmahitaṃ vākyam_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ crop of grain is thrilled by receiving a rain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding you, a speaker of welcome tidings (priyavaktāram), I rejoice exceedingly (samprahṛṣyāmi), O monkey, just like the earth with its crops half-sprung (ardhasaṃjātasasyā vasuṃdharā) upon receiving rain (vṛṣṭiṃ prāpya)!”
+“Beholding you, a speaker of welcome tidings (_priyavaktāram_), I rejoice exceedingly (_samprahṛṣyāmi_), O monkey, just like the earth with its crops half-sprung (_ardhasaṃjātasasyā vasuṃdharā_) upon receiving rain (_vṛṣṭiṃ prāpya_)!”
 </details>
 </details>
 
@@ -186,7 +186,7 @@ men. Show mercy on me and fulfill my desire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Show compassion toward me (tathā kuru dayāṃ mayi) in such a way that I, with my desire fulfilled (sakāmāham), may touch (saṃspṛśeyam) that tiger among men (puruṣavyāghram) with limbs wasted by grief (gātraiḥ śokābhikarśitaiḥ).”
+“Show compassion toward me (_tathā kuru dayāṃ mayi_) in such a way that I, with my desire fulfilled (_sakāmāham_), may touch (_saṃspṛśeyam_) that tiger among men (_puruṣavyāghram_) with limbs wasted by grief (_gātraiḥ śokābhikarśitaiḥ_).”
 </details>
 </details>
 
@@ -239,7 +239,7 @@ remembrance)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And you should give Rāma this token of recognition (abhijñānaṃ ca rāmasya dadyāḥ), O best of monkey hosts (harigaṇottama): the reed-missile (iṣīkām) cast in wrath (kopāt kṣiptām) that destroyed one eye of the crow (kākasya ekākṣiśātanīm)—”
+“And you should give Rāma this token of recognition (_abhijñānaṃ ca rāmasya dadyāḥ_), O best of monkey hosts (_harigaṇottama_): the reed-missile (_iṣīkām_) cast in wrath (_kopāt kṣiptām_) that destroyed one eye of the crow (_kākasya ekākṣiśātanīm_)—”
 </details>
 </details>
 
@@ -294,7 +294,7 @@ once, another mark with realgar was indeed painted by you on the side of my chee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and [repeat to him]: ‘When my forehead-mark had been effaced (praṇaṣṭe tilake), a mark of red arsenic (manaḥśilāyās tilakaḥ) was painted by you at the side of my cheek (gaṇḍapārśve niveśitaḥ); that indeed you ought to remember (taṃ kila smartum arhasi)!’”
+“—and [repeat to him]: ‘When my forehead-mark had been effaced (_praṇaṣṭe tilake_), a mark of red arsenic (_manaḥśilāyās tilakaḥ_) was painted by you at the side of my cheek (_gaṇḍapārśve niveśitaḥ_); that indeed you ought to remember (_taṃ kila smartum arhasi_)!’”
 </details>
 </details>
 
@@ -350,7 +350,7 @@ of Universe, ignore Seetha who was taken away and now staying in the midst of th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘How do you, who are so valorous (sa vīryavān), calmly suffer (samanumanyase) Sītā to have been abducted (hṛtām) and to dwell in the midst of rākṣasas (vasantīṃ rakṣasāṃ madhye), O you who equal Mahendra and Varuṇa (mahendravaruṇopama)?’”
+“‘How do you, who are so valorous (_sa vīryavān_), calmly suffer (_samanumanyase_) Sītā to have been abducted (_hṛtām_) and to dwell in the midst of rākṣasas (_vasantīṃ rakṣasāṃ madhye_), O you who equal Mahendra and Varuṇa (_mahendravaruṇopama_)?’”
 </details>
 </details>
 
@@ -410,7 +410,7 @@ me. Seeing this in my distress, I have been getting delighted, as though I have 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This divine crest-jewel (eṣa cūḍāmaṇir divyaḥ) has been carefully guarded by me (mayā suparirakṣitaḥ); gazing upon it in my calamity (vyasane), I rejoice as though beholding you yourself (tvām iva), O sinless one (anagha)!’”
+“‘This divine crest-jewel (_eṣa cūḍāmaṇir divyaḥ_) has been carefully guarded by me (_mayā suparirakṣitaḥ_); gazing upon it in my calamity (_vyasane_), I rejoice as though beholding you yourself (_tvām iva_), O sinless one (_anagha_)!’”
 </details>
 </details>
 
@@ -456,7 +456,7 @@ not be able to survive henceforth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This glorious, water-born gem (eṣa śrīmān vārisambhavaḥ) has now been surrendered by me for you (niryātitaḥ mayā te); hereafter (ataḥ param), overwhelmed by grief (śokalālasā), I shall not be able to live (na śakṣyāmi jīvitum).’”
+“‘This glorious, water-born gem (_eṣa śrīmān vārisambhavaḥ_) has now been surrendered by me for you (_niryātitaḥ mayā te_); hereafter (_ataḥ param_), overwhelmed by grief (_śokalālasā_), I shall not be able to live (_na śakṣyāmi jīvitum_).’”
 </details>
 </details>
 
@@ -511,7 +511,7 @@ and also the words of horrible female demons; which pierce my heart."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Unbearable sorrows (asahyāni duḥkhāni), heart-piercing words (vācaś ca hṛdayacchidaḥ), and dwelling amidst rākṣasas (rākṣasaiḥ saha saṃvāsam) I endure only for your sake (tvatkṛte marṣayāmy aham).’”
+“‘Unbearable sorrows (_asahyāni duḥkhāni_), heart-piercing words (_vācaś ca hṛdayacchidaḥ_), and dwelling amidst rākṣasas (_rākṣasaiḥ saha saṃvāsam_) I endure only for your sake (_tvatkṛte marṣayāmy aham_).’”
 </details>
 </details>
 
@@ -563,7 +563,7 @@ I will not survive without you, after a month."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I shall sustain my life (dhārayiṣyāmi jīvitam) for one month (māsaṃ tu), O destroyer of foes (śatrusūdana); beyond a month (māsād ūrdhvam) I shall not live bereft of you (tvayā hīnā), O prince (nṛpātmaja)!’”
+“‘I shall sustain my life (_dhārayiṣyāmi jīvitam_) for one month (_māsaṃ tu_), O destroyer of foes (_śatrusūdana_); beyond a month (_māsād ūrdhvam_) I shall not live bereft of you (_tvayā hīnā_), O prince (_nṛpātmaja_)!’”
 </details>
 </details>
 
@@ -619,7 +619,7 @@ Hearing that you are causing a delay, I will not survive even for a moment."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Fierce is this king of the rākṣasas (ghoro rākṣasarājo 'yam), and his gaze toward me is not benign (dṛṣṭiś ca na sukhā mayi); and were I to hear that you are delaying (tvāṃ ca śrutvā viṣajjantam), I would not live even a moment (na jīveyam api kṣaṇam)!’”
+“‘Fierce is this king of the rākṣasas (_ghoro rākṣasarājo &#x27;yam_), and his gaze toward me is not benign (_dṛṣṭiś ca na sukhā mayi_); and were I to hear that you are delaying (_tvāṃ ca śrutvā viṣajjantam_), I would not live even a moment (_na jīveyam api kṣaṇam_)!’”
 </details>
 </details>
 
@@ -674,7 +674,7 @@ with a great splendour, spoke (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Vaidehī's piteous speech (vaidehyā vacanaṃ karuṇam) spoken with tears (sāśrubhāṣitam), Hanūmān of mighty splendor (mahātejāḥ), son of the Wind-god (mārutātmajaḥ), then spoke:
+Hearing Vaidehī&#x27;s piteous speech (_vaidehyā vacanaṃ karuṇam_) spoken with tears (_sāśrubhāṣitam_), Hanūmān of mighty splendor (_mahātejāḥ_), son of the Wind-god (_mārutātmajaḥ_), then spoke:
 </details>
 </details>
 
@@ -716,7 +716,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through grief for you, Rāma has turned away from everything (tvacchokavimukho rāmaḥ), O princess—I swear to you by truth (satyena te śape)! And while Rāma is overwhelmed by sorrow (rāme śokābhibhūte tu), Lakṣmaṇa is consumed with anguish (paritapyate).”
+“Through grief for you, Rāma has turned away from everything (_tvacchokavimukho rāmaḥ_), O princess—I swear to you by truth (_satyena te śape_)! And while Rāma is overwhelmed by sorrow (_rāme śokābhibhūte tu_), Lakṣmaṇa is consumed with anguish (_paritapyate_).”
 </details>
 </details>
 
@@ -750,7 +750,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have somehow been found (dṛṣṭā kathaṃcid bhavatī); this is no time to lament (na kālaḥ paridevitum)! Within this very hour (imaṃ muhūrtam) you shall behold the end of your sorrows (duḥkhānām antaṃ drakṣyasi), Ospirited lady (bhāmini)!”
+“You have somehow been found (_dṛṣṭā kathaṃcid bhavatī_); this is no time to lament (_na kālaḥ paridevitum_)! Within this very hour (_imaṃ muhūrtam_) you shall behold the end of your sorrows (_duḥkhānām antaṃ drakṣyasi_), Ospirited lady (_bhāmini_)!”
 </details>
 </details>
 
@@ -784,7 +784,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Both those tigers among men (tāv ubhau puruṣavyāghrau), blameless princes (rājaputrāv aninditau), energized by the news of your discovery (tvaddarśanakṛtotsāhau), will reduce Laṅkā to ashes (laṅkāṃ bhasmīkariṣyataḥ)!”
+“Both those tigers among men (_tāv ubhau puruṣavyāghrau_), blameless princes (_rājaputrāv aninditau_), energized by the news of your discovery (_tvaddarśanakṛtotsāhau_), will reduce Laṅkā to ashes (_laṅkāṃ bhasmīkariṣyataḥ_)!”
 </details>
 </details>
 
@@ -847,7 +847,7 @@ the cruel Ravana along with his relatives, Rama and Lakshmana will take you to t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And having slain in battle the rākṣasa Rāvaṇa together with his kinsmen (hatvā tu samare rakṣo rāvaṇaṃ sahabāndhavaiḥ), the two Rāghavas will lead you back to their own city (svāṃ purīṃ prati neṣyataḥ), O large-eyed lady (viśālākṣi)!”
+“And having slain in battle the rākṣasa Rāvaṇa together with his kinsmen (_hatvā tu samare rakṣo rāvaṇaṃ sahabāndhavaiḥ_), the two Rāghavas will lead you back to their own city (_svāṃ purīṃ prati neṣyataḥ_), O large-eyed lady (_viśālākṣi_)!”
 </details>
 </details>
 
@@ -902,7 +902,7 @@ recognise and which creates pleasure to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet, O blameless lady (anindite), you ought to give me once more (bhūyas tvaṃ dātum arhasi) such a token of recognition (yat tv abhijñānam) as Rāma will unmistakably recognize (rāmo vijānīyāt) and as will awaken joy in him (prītisaṃjananam tasya).”
+“Yet, O blameless lady (_anindite_), you ought to give me once more (_bhūyas tvaṃ dātum arhasi_) such a token of recognition (_yat tv abhijñānam_) as Rāma will unmistakably recognize (_rāmo vijānīyāt_) and as will awaken joy in him (_prītisaṃjananam tasya_).”
 </details>
 </details>
 
@@ -968,7 +968,7 @@ jewel for my hair, Rama will trust your words."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She replied: “Why, the supreme token of recognition (abhijñānam uttamam) has already been given by me (dattam evāho mayā)! For upon carefully beholding this ornament alone (etad eva hi dṛṣṭvā yatnena bhūṣaṇam), O Rāma's envoy—”
+She replied: “Why, the supreme token of recognition (_abhijñānam uttamam_) has already been given by me (_dattam evāho mayā_)! For upon carefully beholding this ornament alone (_etad eva hi dṛṣṭvā yatnena bhūṣaṇam_), O Rāma&#x27;s envoy—”
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ salutation to Seetha by bowing his head and has set off to go.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—your speech, O heroic Hanūmān, will be fully worthy of belief (śraddheyaṃ vākyaṃ tava vīra bhaviṣyati) to Rāma (rāmasya).” Taking that peerless jewel (sa taṃ maṇivaraṃ gṛhya), the glorious best of leapers (śrīmān plavagasattamaḥ)—
+“—your speech, O heroic Hanūmān, will be fully worthy of belief (_śraddheyaṃ vākyaṃ tava vīra bhaviṣyati_) to Rāma (_rāmasya_).” Taking that peerless jewel (_sa taṃ maṇivaraṃ gṛhya_), the glorious best of leapers (_śrīmān plavagasattamaḥ_)—
 </details>
 </details>
 
@@ -1079,9 +1079,9 @@ in her face filled with tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —bowed his head in salutation to the princess (praṇamya śirasā devīm) and prepared to depart (gamanāya upacakrame). Beholding that monkey troop-leader (tam avekṣya hariyūthapam) roused with energy for his upward leap (utpātakṛtotsāham)—
+**20:** —bowed his head in salutation to the princess (_praṇamya śirasā devīm_) and prepared to depart (_gamanāya upacakrame_). Beholding that monkey troop-leader (_tam avekṣya hariyūthapam_) roused with energy for his upward leap (_utpātakṛtotsāham_)—
 
-**21:** —growing in bulk (vardhamānam) and of mighty impetus (mahāvegam), Janaka's daughter (janakātmajā), dejected (dīnā) and her face filled with tears (aśrupūrṇamukhī), spoke in a voice choked with sobs (bāṣpagadgadayā girā):
+**21:** —growing in bulk (_vardhamānam_) and of mighty impetus (_mahāvegam_), Janaka&#x27;s daughter (_janakātmajā_), dejected (_dīnā_) and her face filled with tears (_aśrupūrṇamukhī_), spoke in a voice choked with sobs (_bāṣpagadgadayā girā_):
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ lions, of Sugreeva together with his ministers and of all other."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Hanūmān, to the two lion-like brothers Rāma and Lakṣmaṇa (siṃhasaṃkāśau bhrātarau rāmalakṣmaṇau), and to Sugrīva together with his ministers (sahāmātyam)—to all of them speak my inquiry of good health (sarvān brūyā anāmayam).”
+“O Hanūmān, to the two lion-like brothers Rāma and Lakṣmaṇa (_siṃhasaṃkāśau bhrātarau rāmalakṣmaṇau_), and to Sugrīva together with his ministers (_sahāmātyam_)—to all of them speak my inquiry of good health (_sarvān brūyā anāmayam_).”
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ saH raaghavaH* = that Rama; *mahaabaahuH* = deliver (me) in whatever manner; *as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And you ought to arrange matters (tvaṃ samādhātum arhasi) so that the mighty-armed Rāghava (sa mahābāhur rāghavaḥ) delivers me (māṃ tārayati) from this blocking ocean of sorrow (asmād duḥkhāmbusaṃrodhāt).”
+“And you ought to arrange matters (_tvaṃ samādhātum arhasi_) so that the mighty-armed Rāghava (_sa mahābāhur rāghavaḥ_) delivers me (_māṃ tārayati_) from this blocking ocean of sorrow (_asmād duḥkhāmbusaṃrodhāt_).”
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ and also about the threatening attitude of these female-demons. Have a happy jou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And having gone into Rāma's presence (rāmasya gataḥ samīpam), report (brūyās tu) this fierce surge of my grief (idaṃ ca tīvraṃ mama śokavegam) and the menacing threats of these rākṣasas (rakṣobhir ebhiḥ paribhartsanaṃ ca); and may your journey be auspicious (śivaś ca te 'dhvāstu), O foremost of monkey heroes (haripravīra)!”
+“And having gone into Rāma&#x27;s presence (_rāmasya gataḥ samīpam_), report (_brūyās tu_) this fierce surge of my grief (_idaṃ ca tīvraṃ mama śokavegam_) and the menacing threats of these rākṣasas (_rakṣobhir ebhiḥ paribhartsanaṃ ca_); and may your journey be auspicious (_śivaś ca te &#x27;dhvāstu_), O foremost of monkey heroes (_haripravīra_)!”
 </details>
 </details>
 
@@ -1334,7 +1334,7 @@ intellectually sought the northern direction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That monkey (sa kapiḥ), having had her message communicated by the princess (rājaputryā prativeditārthaḥ), his purpose accomplished (kṛtārthaḥ) and his heart filled with joy (parihṛṣṭacetāḥ), reflected that only a small remainder of his task was left (tad alpaśeṣaṃ prasamīkṣya kāryam) and went in thought toward the northern quarter (diśaṃ hy udīcīṃ manasā jagāma).
+That monkey (_sa kapiḥ_), having had her message communicated by the princess (_rājaputryā prativeditārthaḥ_), his purpose accomplished (_kṛtārthaḥ_) and his heart filled with joy (_parihṛṣṭacetāḥ_), reflected that only a small remainder of his task was left (_tad alpaśeṣaṃ prasamīkṣya kāryam_) and went in thought toward the northern quarter (_diśaṃ hy udīcīṃ manasā jagāma_).
 </details>
 </details>
 

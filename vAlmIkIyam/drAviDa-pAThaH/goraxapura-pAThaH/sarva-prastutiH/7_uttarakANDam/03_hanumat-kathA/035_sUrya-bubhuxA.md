@@ -48,7 +48,7 @@ Humbly addressing Agastya with joined palms, Rāma declares that neither Vālī 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma asked the sage whose hermitage lay in the southern quarter (dakṣiṇāśāśramaṃ munim); with joined palms and endowed with humility (prāñjalir vinayopetaḥ), he spoke these meaningful words (idam āha vaco ’rthavat):
+Then Rāma asked the sage whose hermitage lay in the southern quarter (_dakṣiṇāśāśramaṃ munim_); with joined palms and endowed with humility (_prāñjalir vinayopetaḥ_), he spoke these meaningful words (_idam āha vaco ’rthavat_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Then Rāma asked the sage whose hermitage lay in the southern quarter (dakṣi�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Matchless indeed was this strength of Vālī and of Rāvaṇa (atulaṃ balam etad vai vālino rāvaṇasya ca); yet neither of those two is equal to Hanūmān (na tv etābhyāṃ hanumatā samam)—such is my conviction (iti matir mama).
+“Matchless indeed was this strength of Vālī and of Rāvaṇa (_atulaṃ balam etad vai vālino rāvaṇasya ca_); yet neither of those two is equal to Hanūmān (_na tv etābhyāṃ hanumatā samam_)—such is my conviction (_iti matir mama_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then Rāma asked the sage whose hermitage lay in the southern quarter (dakṣi�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Valor, promptness, bodily strength, steadfastness (śauryaṃ dākṣyaṃ balaṃ dhairyam), keen discernment, and mastery of statecraft (prājñatā nayasādhanam), as well as prowess and spiritual potency (vikramaś ca prabhāvaś ca), have all made their abode in Hanūmān (hanūmati kṛtālayāḥ).
+“Valor, promptness, bodily strength, steadfastness (_śauryaṃ dākṣyaṃ balaṃ dhairyam_), keen discernment, and mastery of statecraft (_prājñatā nayasādhanam_), as well as prowess and spiritual potency (_vikramaś ca prabhāvaś ca_), have all made their abode in Hanūmān (_hanūmati kṛtālayāḥ_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having seen the vānara host despondent upon beholding the ocean (dṛṣṭvaiva sāgaraṃ vīkṣya sīdantīṃ kapivāhinīm), that mighty-armed hero comforted them (samāśvāsya mahābāhuḥ) and leaped across a hundred yojanas (yojanānāṃ śataṃ plutaḥ).
+“Having seen the vānara host despondent upon beholding the ocean (_dṛṣṭvaiva sāgaraṃ vīkṣya sīdantīṃ kapivāhinīm_), that mighty-armed hero comforted them (_samāśvāsya mahābāhuḥ_) and leaped across a hundred _yojanas_ (_yojanānāṃ śataṃ plutaḥ_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having stormed the city of Laṅkā and Rāvaṇa’s inner palace (dharṣayitvā purīṃ laṅkāṃ rāvaṇāntaḥpuraṃ tadā), he beheld Sītā, conversed with her (dṛṣṭvā sambhāṣitā cāpi sītā), and comforted her as well (hy āśvāsitā tathā).
+“Having stormed the city of Laṅkā and Rāvaṇa’s inner palace (_dharṣayitvā purīṃ laṅkāṃ rāvaṇāntaḥpuraṃ tadā_), he beheld Sītā, conversed with her (_dṛṣṭvā sambhāṣitā cāpi sītā_), and comforted her as well (_hy āśvāsitā tathā_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The vanguard commanders, the ministers’ sons, the Kiṅkaras, and Rāvaṇa’s son [Akṣa] (senāgragā mantrisutāḥ kiṅkarā rāvaṇātmajaḥ)—all these were struck down there by Hanūmān single-handedly (ete hanumatā tatra hy ekena vinipātitāḥ).
+“The vanguard commanders, the ministers’ sons, the Kiṅkaras, and Rāvaṇa’s son [Akṣa] (_senāgragā mantrisutāḥ kiṅkarā rāvaṇātmajaḥ_)—all these were struck down there by Hanūmān single-handedly (_ete hanumatā tatra hy ekena vinipātitāḥ_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Extolling Hanūmān’s burning of Laṅkā as unmatched by Kāla, Indra, Viṣ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Again, released from bondage (bhūyo bandhād vimuktena) after addressing the ten-headed king (bhāṣayitvā daśānanam), by him was Laṅkā reduced to ashes (laṅkā bhasmīkṛtā yena), like the earth consumed by fire (pāvakeneva medinī).
+“Again, released from bondage (_bhūyo bandhād vimuktena_) after addressing the ten-headed king (_bhāṣayitvā daśānanam_), by him was Laṅkā reduced to ashes (_laṅkā bhasmīkṛtā yena_), like the earth consumed by fire (_pāvakeneva medinī_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither of Kāla, nor of Śakra, nor of Viṣṇu, nor of the lord of wealth [Kubera] (na kālasya na śakrasya na viṣṇor vittapasya ca) are such deeds heard of in battle (karmāṇi tāni śrūyante) as those of Hanūmān (yāni yuddhe hanūmataḥ).
+“Neither of Kāla, nor of Śakra, nor of Viṣṇu, nor of the lord of wealth [Kubera] (_na kālasya na śakrasya na viṣṇor vittapasya ca_) are such deeds heard of in battle (_karmāṇi tāni śrūyante_) as those of Hanūmān (_yāni yuddhe hanūmataḥ_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the valor of his arms (etasya bāhuvīryeṇa), Laṅkā, Sītā, and Lakṣmaṇa were gained by me (prāptā mayā), and likewise victory, my kingdom, friends, and kinsmen (jayaś caiva rājyaṃ mitrāṇi bāndhavāḥ).
+“Through the valor of his arms (_etasya bāhuvīryeṇa_), Laṅkā, Sītā, and Lakṣmaṇa were gained by me (_prāptā mayā_), and likewise victory, my kingdom, friends, and kinsmen (_jayaś caiva rājyaṃ mitrāṇi bāndhavāḥ_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Had Hanūmān, the companion of the vānara king (vānarādhipateḥ sakhā), not stood by me (hanūmān yadi me naḥ syāt), who would have been capable of learning even tidings of Jānakī (pravṛttim api ko vettuṃ jānakyāḥ śaktimān bhavet)?
+“Had Hanūmān, the companion of the vānara king (_vānarādhipateḥ sakhā_), not stood by me (_hanūmān yadi me naḥ syāt_), who would have been capable of learning even tidings of Jānakī (_pravṛttim api ko vettuṃ jānakyāḥ śaktimān bhavet_)?
 </details>
 </details>
 
@@ -372,7 +372,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why then, when enmity arose long ago (tadā vaire samutpanne), out of desire to please Sugrīva (sugrīva-priya-kāmyayā), was Vālī not burned to ashes by this very hero (kimarthaṃ vāly anenaiva ... na dagdhaḥ), like dry creepers (vīrudho yathā)?
+“Why then, when enmity arose long ago (_tadā vaire samutpanne_), out of desire to please Sugrīva (_sugrīva-priya-kāmyayā_), was Vālī not burned to ashes by this very hero (_kimarthaṃ vāly anenaiva ... na dagdhaḥ_), like dry creepers (_vīrudho yathā_)?
 </details>
 </details>
 
@@ -403,7 +403,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely, I think, Hanūmān did not know his own strength (na hi veditavān manye hanūmān ātmano balam), seeing that he watched the vānara king, dearer than life itself (jīviteṣṭaṃ ... vānarādhipam), suffering affliction (kliśyantam)!
+“Surely, I think, Hanūmān did not know his own strength (_na hi veditavān manye hanūmān ātmano balam_), seeing that he watched the vānara king, dearer than life itself (_jīviteṣṭaṃ ... vānarādhipam_), suffering affliction (_kliśyantam_)!
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Asked by Rāma for the full truth, Agastya replies right before Hanūmān: unmat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Relate all this to me in full and as it truly is (vistareṇa yathātattvam), O blessed sage worshipped by the immortals (bhagavan ... amarapūjita), concerning high-minded Hanūmān (hanūmati mahāmatau)!”
+“Relate all this to me in full and as it truly is (_vistareṇa yathātattvam_), O blessed sage worshipped by the immortals (_bhagavan ... amarapūjita_), concerning high-minded Hanūmān (_hanūmati mahāmatau_)!”
 </details>
 </details>
 
@@ -473,7 +473,7 @@ Asked by Rāma for the full truth, Agastya replies right before Hanūmān: unmat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetuyuktam), the sage then spoke these words to him (tam idaṃ vacanam abravīt) in the very presence of Hanūmān (hanūmataḥ samakṣam):
+Hearing those well-reasoned words of Rāghava (_rāghavasya vacaḥ śrutvā hetuyuktam_), the sage then spoke these words to him (_tam idaṃ vacanam abravīt_) in the very presence of Hanūmān (_hanūmataḥ samakṣam_):
 </details>
 </details>
 
@@ -504,7 +504,7 @@ Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“True indeed is this which you declare concerning Hanūmān (satyam etad ... yad bravīṣi hanūmataḥ), O foremost of the Raghus: no other exists equal to him in strength, nor in speed, nor in intellect (na bale vidyate tulyo na gatau na matau paraḥ).
+“True indeed is this which you declare concerning Hanūmān (_satyam etad ... yad bravīṣi hanūmataḥ_), O foremost of the Raghus: no other exists equal to him in strength, nor in speed, nor in intellect (_na bale vidyate tulyo na gatau na matau paraḥ_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Long ago, however, a curse was laid upon him by sages of unerring speech (amoghaśāpaiḥ śāpas tu datto ’sya munibhiḥ purā), whereby, though mighty, that crusher of foes (balī sann arimardanaḥ) does not know his own strength (na vettā hi balam).
+“Long ago, however, a curse was laid upon him by sages of unerring speech (_amoghaśāpaiḥ śāpas tu datto ’sya munibhiḥ purā_), whereby, though mighty, that crusher of foes (_balī sann arimardanaḥ_) does not know his own strength (_na vettā hi balam_).
 </details>
 </details>
 
@@ -566,7 +566,7 @@ Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even in childhood, the deed performed by this hero, O mighty Rāma (bālye ’py etena yat karma kṛtaṃ rāma mahābala), cannot be described (tan na varṇayituṃ śakyam)—thus does he abide in childlike simplicity (iti bālatayā ’’syate).
+“Even in childhood, the deed performed by this hero, O mighty Rāma (_bālye ’py etena yat karma kṛtaṃ rāma mahābala_), cannot be described (_tan na varṇayituṃ śakyam_)—thus does he abide in childlike simplicity (_iti bālatayā ’’syate_).
 </details>
 </details>
 
@@ -597,7 +597,7 @@ Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if indeed it is your intention to hear of it (yadi vā ’sti tv abhiprāyas tac chrotuṃ tava), O Rāghava, compose your mind, O Rāma (samādhāya matiṃ rāma), and listen attentively—I shall relate it (niśāmaya vadāmy aham)!
+“Or if indeed it is your intention to hear of it (_yadi vā ’sti tv abhiprāyas tac chrotuṃ tava_), O Rāghava, compose your mind, O Rāma (_samādhāya matiṃ rāma_), and listen attentively—I shall relate it (_niśāmaya vadāmy aham_)!
 </details>
 </details>
 
@@ -639,7 +639,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is a mountain named Sumeru, made golden by a boon of the Sun (sūryadatta-varasvarṇaḥ sumerur nāma parvataḥ), where this hero’s father, Kesarī by name, rules his kingdom (yatra rājyaṃ praśāsty asya kesarī nāma vai pitā).
+“There is a mountain named Sumeru, made golden by a boon of the Sun (_sūryadatta-varasvarṇaḥ sumerur nāma parvataḥ_), where this hero’s father, Kesarī by name, rules his kingdom (_yatra rājyaṃ praśāsty asya kesarī nāma vai pitā_).
 </details>
 </details>
 
@@ -670,7 +670,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He had a renowned wife named Añjanā (tasya bhāryā babhūvaiṣā hy añjaneti pariśrutā), and upon her indeed the Wind-god Vāyu begot this supreme son (janayāmāsa tasyāṃ vai vāyur ātmajam uttamam).
+“He had a renowned wife named Añjanā (_tasya bhāryā babhūvaiṣā hy añjaneti pariśrutā_), and upon her indeed the Wind-god Vāyu begot this supreme son (_janayāmāsa tasyāṃ vai vāyur ātmajam uttamam_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having given birth to this child glowing like the awn of ripening rice (śāliśūka-nibhābhāsaṃ prāsūtāmuṃ tadā ’ñjanā), Añjanā, roaming the deep forest (gahanecarā), went forth desiring to gather fruits (phalāny āhartukāmā vai niṣkrāntā).
+“Having given birth to this child glowing like the awn of ripening rice (_śāliśūka-nibhābhāsaṃ prāsūtāmuṃ tadā ’ñjanā_), Añjanā, roaming the deep forest (_gahanecarā_), went forth desiring to gather fruits (_phalāny āhartukāmā vai niṣkrāntā_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sorely afflicted by separation from his mother and by hunger (mātur viyogāc ca kṣudhayā ca bhṛśārditaḥ), this infant cried aloud exceedingly (ruroda śiśur atyartham), like the infant [Skanda] in the reed-thicket (śiśuḥ śaravaṇe yathā).
+“Sorely afflicted by separation from his mother and by hunger (_mātur viyogāc ca kṣudhayā ca bhṛśārditaḥ_), this infant cried aloud exceedingly (_ruroda śiśur atyartham_), like the infant [Skanda] in the reed-thicket (_śiśuḥ śaravaṇe yathā_).
 </details>
 </details>
 
@@ -766,7 +766,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, beholding the rising Sun, resembling a cluster of scarlet hibiscus blooms (udyantaṃ vivasvantaṃ japāpuṣpotkaropamam), out of longing for fruit (phalalobhāc ca) he leaped upward toward the Sun (utpapāta raviṃ prati).
+“Then, beholding the rising Sun, resembling a cluster of scarlet hibiscus blooms (_udyantaṃ vivasvantaṃ japāpuṣpotkaropamam_), out of longing for fruit (_phalalobhāc ca_) he leaped upward toward the Sun (_utpapāta raviṃ prati_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Facing the young sun, the young boy—looking like the young sun embodied (bālārkābhimukho bālo bālārka iva mūrtimān)—soars through mid-heaven (plavate ’mbaramadhyagaḥ), eager to seize the young sun (grahītukāmo bālārkam)!
+“Facing the young sun, the young boy—looking like the young sun embodied (_bālārkābhimukho bālo bālārka iva mūrtimān_)—soars through mid-heaven (_plavate ’mbaramadhyagaḥ_), eager to seize the young sun (_grahītukāmo bālārkam_)!
 </details>
 </details>
 
@@ -836,7 +836,7 @@ Gods, Dānavas, and Yakṣas marvel at the infant Hanūmān outpacing Wind, Garu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As this Hanūmān soared through the sky in his very infancy (etasmin plavamāne tu śiśubhāve hanūmati), exceeding great astonishment arose among the gods, Dānavas, and Yakṣas (devadānava-yakṣāṇāṃ vismayaḥ sumahān abhūt):
+“As this Hanūmān soared through the sky in his very infancy (_etasmin plavamāne tu śiśubhāve hanūmati_), exceeding great astonishment arose among the gods, Dānavas, and Yakṣas (_devadānava-yakṣāṇāṃ vismayaḥ sumahān abhūt_):
 </details>
 </details>
 
@@ -867,7 +867,7 @@ Gods, Dānavas, and Yakṣas marvel at the infant Hanūmān outpacing Wind, Garu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Neither the Wind, nor Garuḍa, nor even the mind is so swift (nāpy evaṃ vegavān vāyur garuḍo vā manas tathā) as this son of the Wind traversing the lofty firmament (yathā ’yaṃ vāyuputras tu kramate ’mbaram uttamam)!
+“‘Neither the Wind, nor Garuḍa, nor even the mind is so swift (_nāpy evaṃ vegavān vāyur garuḍo vā manas tathā_) as this son of the Wind traversing the lofty firmament (_yathā ’yaṃ vāyuputras tu kramate ’mbaram uttamam_)!
 </details>
 </details>
 
@@ -898,7 +898,7 @@ Gods, Dānavas, and Yakṣas marvel at the infant Hanūmān outpacing Wind, Garu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘If in this infant’s childhood such indeed is his speed and prowess (yadi tāvac chiśor asya tv īdṛśo gativikramaḥ), once he attains youth and full strength (yauvanaṃ balam āsādya), how swift will his velocity become (kathaṃ vego bhaviṣyati)?’
+“‘If in this infant’s childhood such indeed is his speed and prowess (_yadi tāvac chiśor asya tv īdṛśo gativikramaḥ_), once he attains youth and full strength (_yauvanaṃ balam āsādya_), how swift will his velocity become (_kathaṃ vego bhaviṣyati_)?’
 </details>
 </details>
 
@@ -929,7 +929,7 @@ Gods, Dānavas, and Yakṣas marvel at the infant Hanūmān outpacing Wind, Garu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behind his soaring son glided the Wind-god himself (tam anuplavate vāyuḥ plavantaṃ putram ātmanaḥ), cool as a bank of snow (tuṣāracaya-śītalaḥ), shielding him from fear of being scorched by the Sun (sūryadāhabhayād rakṣan).
+“Behind his soaring son glided the Wind-god himself (_tam anuplavate vāyuḥ plavantaṃ putram ātmanaḥ_), cool as a bank of snow (_tuṣāracaya-śītalaḥ_), shielding him from fear of being scorched by the Sun (_sūryadāhabhayād rakṣan_).
 </details>
 </details>
 
@@ -963,7 +963,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascended the sky, he traverses many thousands of yojanas (bahuyojana-sāhasraṃ kramaty eṣa gato ’mbaram); through his father’s might and his own childish fearlessness (pitur balāc ca bālyāc ca), he came into the very presence of the Sun (bhāskarābhyāśam āgataḥ).
+“Having ascended the sky, he traverses many thousands of _yojanas_ (_bahuyojana-sāhasraṃ kramaty eṣa gato ’mbaram_); through his father’s might and his own childish fearlessness (_pitur balāc ca bālyāc ca_), he came into the very presence of the Sun (_bhāskarābhyāśam āgataḥ_).
 </details>
 </details>
 
@@ -994,7 +994,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This is a mere child, without discernment (śiśur eṣa tv adoṣajñaḥ), and moreover a great mission rests upon him (kāryaṃ cātra samāyattam)’—reflecting thus (iti matvā), the Maker of Day did not burn him (ity evaṃ na dadāha saḥ).
+“‘This is a mere child, without discernment (_śiśur eṣa tv adoṣajñaḥ_), and moreover a great mission rests upon him (_kāryaṃ cātra samāyattam_)’—reflecting thus (_iti matvā_), the Maker of Day did not burn him (_ity evaṃ na dadāha saḥ_).
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ On that very eclipse day Rāhu comes to seize the Sun, flees in terror when brus
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the very day that this boy leaped upward to seize the Sun (yam eva divasaṃ hy eṣa grahītuṃ bhāskaraṃ plutaḥ), on that very day Rāhu was seeking to devour the Maker of Day (tam eva divasaṃ rāhur jighṛkṣati divākaram).
+“On the very day that this boy leaped upward to seize the Sun (_yam eva divasaṃ hy eṣa grahītuṃ bhāskaraṃ plutaḥ_), on that very day Rāhu was seeking to devour the Maker of Day (_tam eva divasaṃ rāhur jighṛkṣati divākaram_).
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ On that very eclipse day Rāhu comes to seize the Sun, flees in terror when brus
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Brushed aside by this child atop the Sun’s chariot, O Rāma (anena sa parāmṛṣṭo rāma sūryarathopari), Rāhu—that crusher of moon and sun (rāhuś candrārkamardanaḥ)—fled thence in terror (apakrāntas tatas trastaḥ).
+“Brushed aside by this child atop the Sun’s chariot, O Rāma (_anena sa parāmṛṣṭo rāma sūryarathopari_), Rāhu—that crusher of moon and sun (_rāhuś candrārkamardanaḥ_)—fled thence in terror (_apakrāntas tatas trastaḥ_).
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ On that very eclipse day Rāhu comes to seize the Sun, flees in terror when brus
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Going in wrath to Indra’s abode (sa indrabhavanaṃ gatvā saroṣaḥ), the son of Siṃhikā (siṃhikāsutaḥ) knit his brows (bhrukuṭiṃ kṛtvā) and spoke to the king of gods surrounded by the celestial hosts (devaṃ devagaṇair vṛtam):
+“Going in wrath to Indra’s abode (_sa indrabhavanaṃ gatvā saroṣaḥ_), the son of Siṃhikā (_siṃhikāsutaḥ_) knit his brows (_bhrukuṭiṃ kṛtvā_) and spoke to the king of gods surrounded by the celestial hosts (_devaṃ devagaṇair vṛtam_):
 </details>
 </details>
 
@@ -1129,7 +1129,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having bestowed the moon and sun upon me as the banisher of my hunger, O Vāsava (bubhukṣāpanayaṃ dattvā candrārkau mama vāsava), what is this—that you have now given them to another (kim idaṃ tat tvayā dattam anyasya), O slayer of Bala and Vṛtra (balavṛtrahan)?
+“‘Having bestowed the moon and sun upon me as the banisher of my hunger, O Vāsava (_bubhukṣāpanayaṃ dattvā candrārkau mama vāsava_), what is this—that you have now given them to another (_kim idaṃ tat tvayā dattam anyasya_), O slayer of Bala and Vṛtra (_balavṛtrahan_)?
 </details>
 </details>
 
@@ -1160,7 +1160,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Today, on the eclipse day, I came desiring to seize the Sun (adyāhaṃ parvakāle tu jighṛkṣuḥ sūryam āgataḥ); thereupon another Rāhu approached and suddenly grabbed the Sun (athānyo rāhur āsādya jagrāha sahasā ravim)!’
+“‘Today, on the eclipse day, I came desiring to seize the Sun (_adyāhaṃ parvakāle tu jighṛkṣuḥ sūryam āgataḥ_); thereupon another Rāhu approached and suddenly grabbed the Sun (_athānyo rāhur āsādya jagrāha sahasā ravim_)!’
 </details>
 </details>
 
@@ -1191,7 +1191,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of Rāhu (sa rāhor vacanaṃ śrutvā), Vāsava, seized with agitation (vāsavaḥ sambhramānvitaḥ), sprang up leaving his throne (utpapātāsanaṃ hitvā), bearing his golden garland (codvahan kāñcanīṃ srajam).
+“Hearing those words of Rāhu (_sa rāhor vacanaṃ śrutvā_), Vāsava, seized with agitation (_vāsavaḥ sambhramānvitaḥ_), sprang up leaving his throne (_utpapātāsanaṃ hitvā_), bearing his golden garland (_codvahan kāñcanīṃ srajam_).
 </details>
 </details>
 
@@ -1239,9 +1239,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**37:** “Then, mounting the lord of elephants—gleaming like Kailāsa’s peak, four-tusked, streaming with rut (kailāsakūṭābhaṃ caturdantaṃ madasravam), wearing festive trappings, towering tall, and roaring with the peal of golden bells (śṛṅgāradhāriṇaṃ prāṃśuṃ svarṇaghaṇṭāṭṭahāsinam)—
+**37:** “Then, mounting the lord of elephants—gleaming like Kailāsa’s peak, four-tusked, streaming with rut (_kailāsakūṭābhaṃ caturdantaṃ madasravam_), wearing festive trappings, towering tall, and roaring with the peal of golden bells (_śṛṅgāradhāriṇaṃ prāṃśuṃ svarṇaghaṇṭāṭṭahāsinam_)—
 
-**38:** “Indra, having mounted that royal elephant (indraḥ karīndram āruhya) and placed Rāhu in the van (rāhuṃ kṛtvā puraḥsaram), marched forth to where the Sun stood together with this Hanūmān (prāyād yatrābhavat sūryaḥ sahānena hanūmatā).
+**38:** “Indra, having mounted that royal elephant (_indraḥ karīndram āruhya_) and placed Rāhu in the van (_rāhuṃ kṛtvā puraḥsaram_), marched forth to where the Sun stood together with this Hanūmān (_prāyād yatrābhavat sūryaḥ sahānena hanūmatā_).
 </details>
 </details>
 
@@ -1272,7 +1272,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Rāhu, leaving Vāsava behind, darted ahead in extreme haste (athātirabhasenāgād rāhur utsṛjya vāsavam); and he was spotted by this boy as he charged onward like a mountain peak (anena ca sa vai dṛṣṭaḥ pradhāvañ chailakūṭavat).
+“Then Rāhu, leaving Vāsava behind, darted ahead in extreme haste (_athātirabhasenāgād rāhur utsṛjya vāsavam_); and he was spotted by this boy as he charged onward like a mountain peak (_anena ca sa vai dṛṣṭaḥ pradhāvañ chailakūṭavat_).
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, abandoning the Sun (tataḥ sūryaṃ samutsṛjya) and looking upon Rāhu as a fruit (rāhuṃ phalam avekṣya ca), he leaped once more into the sky to seize Siṃhikā’s son (utpapāta punar vyoma grahītuṃ siṃhikāsutam).
+“Thereupon, abandoning the Sun (_tataḥ sūryaṃ samutsṛjya_) and looking upon Rāhu as a fruit (_rāhuṃ phalam avekṣya ca_), he leaped once more into the sky to seize Siṃhikā’s son (_utpapāta punar vyoma grahītuṃ siṃhikāsutam_).
 </details>
 </details>
 
@@ -1337,7 +1337,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding this monkey abandon the Sun and charge straight at him, O Rāma (utsṛjyārkam imaṃ rāma pradhāvantaṃ plavaṅgamam), the one who remains a head alone (mukhaśeṣaḥ) wheeled about and turned his face in flight (parāvṛttya ... parāṅmukhaḥ).
+“Beholding this monkey abandon the Sun and charge straight at him, O Rāma (_utsṛjyārkam imaṃ rāma pradhāvantaṃ plavaṅgamam_), the one who remains a head alone (_mukhaśeṣaḥ_) wheeled about and turned his face in flight (_parāvṛttya ... parāṅmukhaḥ_).
 </details>
 </details>
 
@@ -1368,7 +1368,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Looking to Indra as his protector (indram āśaṃsamānas tu trātāram), Siṃhikā’s son cried out again and again in sheer terror (saṃtrāsān muhur muhur abhāṣata): ‘Indra! Indra!’ (indra indreti).
+“Looking to Indra as his protector (_indram āśaṃsamānas tu trātāram_), Siṃhikā’s son cried out again and again in sheer terror (_saṃtrāsān muhur muhur abhāṣata_): ‘Indra! Indra!’ (_indra indreti_).
 </details>
 </details>
 
@@ -1407,7 +1407,7 @@ Hearing Rāhu’s cry, Indra promises to slay his pursuer; when Hanūmān charge
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing beforehand the recognized voice of Rāhu shrieking in distress (rāhor vikrośamānasya prāg evālakṣitaṃ svaram), Indra called out (śrutvendrovāca): ‘Fear not! I shall slay this fellow (mā bhaiṣīr aham enaṃ niṣūdaye)!’
+“Hearing beforehand the recognized voice of Rāhu shrieking in distress (_rāhor vikrośamānasya prāg evālakṣitaṃ svaram_), Indra called out (_śrutvendrovāca_): ‘Fear not! I shall slay this fellow (_mā bhaiṣīr aham enaṃ niṣūdaye_)!’
 </details>
 </details>
 
@@ -1441,7 +1441,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, beholding Airāvata (airāvataṃ tato dṛṣṭvā) and thinking, ‘This too is a huge fruit!’ (mahat tad idam ity api phalaṃ matvā), the son of the Wind rushed straight at the king of elephants (hastirājam abhidudrāva mārutiḥ).
+“Then, beholding Airāvata (_airāvataṃ tato dṛṣṭvā_) and thinking, ‘This too is a huge fruit!’ (_mahat tad idam ity api phalaṃ matvā_), the son of the Wind rushed straight at the king of elephants (_hastirājam abhidudrāva mārutiḥ_).
 </details>
 </details>
 
@@ -1472,7 +1472,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As he raced onward eager to seize Airāvata (tathāsya dhāvato rūpam airāvata-jighṛkṣayā), his form became for a moment terrible and resplendent (muhūrtam abhavad ghoram ... bhāsvaram), like Indra and Agni combined (indrāgnyor iva).
+“As he raced onward eager to seize Airāvata (_tathāsya dhāvato rūpam airāvata-jighṛkṣayā_), his form became for a moment terrible and resplendent (_muhūrtam abhavad ghoram ... bhāsvaram_), like Indra and Agni combined (_indrāgnyor iva_).
 </details>
 </details>
 
@@ -1503,7 +1503,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet the lord of Śacī, not overly angered at him charging thus (evam ādhāvamānaṃ tu nātikruddhaḥ śacīpatiḥ), struck him with his thunderbolt released from the tip of his hand (hastāntād atimuktena kuliśenābhyatāḍayat).
+“Yet the lord of Śacī, not overly angered at him charging thus (_evam ādhāvamānaṃ tu nātikruddhaḥ śacīpatiḥ_), struck him with his thunderbolt released from the tip of his hand (_hastāntād atimuktena kuliśenābhyatāḍayat_).
 </details>
 </details>
 
@@ -1534,7 +1534,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Struck by Indra’s thunderbolt, this child fell upon a mountain (tato girau papātaiṣa indravajrābhitāḍitaḥ); and as he fell, his left jaw was broken (patamānasya caitasya vāmo hanur abhajyata).
+“Struck by Indra’s thunderbolt, this child fell upon a mountain (_tato girau papātaiṣa indravajrābhitāḍitaḥ_); and as he fell, his left jaw was broken (_patamānasya caitasya vāmo hanur abhajyata_).
 </details>
 </details>
 
@@ -1565,7 +1565,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that boy fell, stunned by the thunderbolt’s blow (tasmiṃs tu patite bāle vajratāḍana-vihvale), the Wind-god grew wrathful against Indra (cukrodhendrāya pavanaḥ)—to the calamity of all creatures (prajānām ahitāya saḥ).
+“When that boy fell, stunned by the thunderbolt’s blow (_tasmiṃs tu patite bāle vajratāḍana-vihvale_), the Wind-god grew wrathful against Indra (_cukrodhendrāya pavanaḥ_)—to the calamity of all creatures (_prajānām ahitāya saḥ_).
 </details>
 </details>
 
@@ -1604,7 +1604,7 @@ Withdrawing his cosmic flow and carrying his wounded child into a cave, Vāyu bl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gathering back his circulation (pracāraṃ sa tu saṅgṛhya), that sovereign Wind-god who abides within all creatures (prajāsv antargataḥ prabhuḥ mārutaḥ) took up his infant son and entered a mountain cave (guhāṃ praviṣṭaḥ svasutaṃ śiśum ādāya).
+“Gathering back his circulation (_pracāraṃ sa tu saṅgṛhya_), that sovereign Wind-god who abides within all creatures (_prajāsv antargataḥ prabhuḥ mārutaḥ_) took up his infant son and entered a mountain cave (_guhāṃ praviṣṭaḥ svasutaṃ śiśum ādāya_).
 </details>
 </details>
 
@@ -1635,7 +1635,7 @@ Withdrawing his cosmic flow and carrying his wounded child into a cave, Vāyu bl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Obstructing the channels of waste and urine (viṇmūtrāśayam āvṛtya) and inflicting extreme agony upon all creatures (prajānāṃ paramārtikṛt), he checked all living beings (rurodha sarvabhūtāni), just as Vāsava withholds the rains (yathā varṣāṇi vāsavaḥ).
+“Obstructing the channels of waste and urine (_viṇmūtrāśayam āvṛtya_) and inflicting extreme agony upon all creatures (_prajānāṃ paramārtikṛt_), he checked all living beings (_rurodha sarvabhūtāni_), just as Vāsava withholds the rains (_yathā varṣāṇi vāsavaḥ_).
 </details>
 </details>
 
@@ -1666,7 +1666,7 @@ Withdrawing his cosmic flow and carrying his wounded child into a cave, Vāyu bl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the wrathful disorder of the Wind (vāyuprakopāt), creatures everywhere grew breathless (bhūtāni nirucchvāsāni sarvataḥ); and with their joints cracking apart (sandhibhir bhidyamānaiś ca), they became rigid like dry logs (kāṣṭhabhūtāni jajñire).
+“Through the wrathful disorder of the Wind (_vāyuprakopāt_), creatures everywhere grew breathless (_bhūtāni nirucchvāsāni sarvataḥ_); and with their joints cracking apart (_sandhibhir bhidyamānaiś ca_), they became rigid like dry logs (_kāṣṭhabhūtāni jajñire_).
 </details>
 </details>
 
@@ -1700,7 +1700,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of Vedic recitation and vaṣaṭ oblations (niḥsvādhyāya-vaṣaṭkāram), devoid of action and stripped of righteousness (niṣkriyaṃ dharmavarjitam), the triple world, through Vāyu’s wrath, became as though plunged in hell (trailokyaṃ nirayastham ivābhavat).
+“Bereft of Vedic recitation and _vaṣaṭ_ oblations (_niḥsvādhyāya-vaṣaṭkāram_), devoid of action and stripped of righteousness (_niṣkriyaṃ dharmavarjitam_), the triple world, through Vāyu’s wrath, became as though plunged in hell (_trailokyaṃ nirayastham ivābhavat_).
 </details>
 </details>
 
@@ -1731,7 +1731,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon all creatures, together with Gandharvas, gods, Asuras, and mortals (prajāḥ sagandharvāḥ sadevāsuramānuṣāḥ), ran in anguish to the Lord of Creatures, longing for relief (prajāpatiṃ samādhāvan duḥkhitāś ca sukhecchayā).
+“Thereupon all creatures, together with Gandharvas, gods, Asuras, and mortals (_prajāḥ sagandharvāḥ sadevāsuramānuṣāḥ_), ran in anguish to the Lord of Creatures, longing for relief (_prajāpatiṃ samādhāvan duḥkhitāś ca sukhecchayā_).
 </details>
 </details>
 
@@ -1776,9 +1776,9 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**54:** “With joined palms, the gods—their bellies swollen as if by dropsy (mahodara-nibhodarāḥ)—spoke to him: ‘By you indeed, O blessed Lord of Creatures, were the fourfold living beings created (tvayā nu bhagavan sṛṣṭāḥ prajānātha caturvidhāḥ)!
+**54:** “With joined palms, the gods—their bellies swollen as if by dropsy (_mahodara-nibhodarāḥ_)—spoke to him: ‘By you indeed, O blessed Lord of Creatures, were the fourfold living beings created (_tvayā nu bhagavan sṛṣṭāḥ prajānātha caturvidhāḥ_)!
 
-**55:** “‘By you was this Wind appointed the guardian of our lifespan (tvayā datto ’yam asmākam āyuṣaḥ pavanaḥ patiḥ); being the lord of our vital breath (so ’smān prāṇeśvaro bhūtvā), why indeed today, O best of beings (kasmād eṣo ’dya sattama)—
+**55:** “‘By you was this Wind appointed the guardian of our lifespan (_tvayā datto ’yam asmākam āyuṣaḥ pavanaḥ patiḥ_); being the lord of our vital breath (_so ’smān prāṇeśvaro bhūtvā_), why indeed today, O best of beings (_kasmād eṣo ’dya sattama_)—
 </details>
 </details>
 
@@ -1809,7 +1809,7 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Has he confined us, inflicting agony, like women shut within an inner apartment (rurodha duḥkhaṃ janayann antaḥpura iva striyaḥ)? Therefore, afflicted by Vāyu, we have come to you for refuge (tasmāt tvāṃ śaraṇaṃ prāptā vāyunopahatā vayam)!’
+“‘Has he confined us, inflicting agony, like women shut within an inner apartment (_rurodha duḥkhaṃ janayann antaḥpura iva striyaḥ_)? Therefore, afflicted by Vāyu, we have come to you for refuge (_tasmāt tvāṃ śaraṇaṃ prāptā vāyunopahatā vayam_)!’
 </details>
 </details>
 
@@ -1840,7 +1840,7 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing this plea of the creatures (etat prajānāṃ śrutvā tu), the Lord of Creatures, Prajāpati (prajānāthaḥ prajāpatiḥ), declared, ‘It is for a cause!’ (kāraṇād iti coktvāsau), and spoke again to the creatures (prajāḥ punar abhāṣata):
+“Hearing this plea of the creatures (_etat prajānāṃ śrutvā tu_), the Lord of Creatures, Prajāpati (_prajānāthaḥ prajāpatiḥ_), declared, ‘It is for a cause!’ (_kāraṇād iti coktvāsau_), and spoke again to the creatures (_prajāḥ punar abhāṣata_):
 </details>
 </details>
 
@@ -1871,7 +1871,7 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Hear, O creatures, the entire cause for which Vāyu grew wrathful and obstructed all (yasmiṃś ca kāraṇe vāyuś cukrodha ca rurodha ca ... śṛṇudhvaṃ tat sarvam)—a matter fitting for you to hear (śrotavyaṃ cātmanaḥ kṣamam).
+“‘Hear, O creatures, the entire cause for which Vāyu grew wrathful and obstructed all (_yasmiṃś ca kāraṇe vāyuś cukrodha ca rurodha ca ... śṛṇudhvaṃ tat sarvam_)—a matter fitting for you to hear (_śrotavyaṃ cātmanaḥ kṣamam_).
 </details>
 </details>
 
@@ -1902,7 +1902,7 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Today his son was struck down by Indra, lord of the immortals (putras tasyāmareśena indreṇādya nipātitaḥ), acting upon Rāhu’s words (rāhor vacanam āsthāya); therefore has the Wind-god grown enraged (tataḥ sa kupito ’nilaḥ).
+“‘Today his son was struck down by Indra, lord of the immortals (_putras tasyāmareśena indreṇādya nipātitaḥ_), acting upon Rāhu’s words (_rāhor vacanam āsthāya_); therefore has the Wind-god grown enraged (_tataḥ sa kupito ’nilaḥ_).
 </details>
 </details>
 
@@ -1933,7 +1933,7 @@ When the gods ask why Vāyu, appointed guardian of their lives, now confines the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Bodiless, the Wind moves within all bodies, preserving them (aśarīraḥ śarīreṣu vāyuś carati pālayan); indeed, without the Wind, a body becomes the equal of lifeless timber (śarīraṃ hi vinā vāyuṃ samatāṃ yāti dārubhiḥ).
+“‘Bodiless, the Wind moves within all bodies, preserving them (_aśarīraḥ śarīreṣu vāyuś carati pālayan_); indeed, without the Wind, a body becomes the equal of lifeless timber (_śarīraṃ hi vinā vāyuṃ samatāṃ yāti dārubhiḥ_).
 </details>
 </details>
 
@@ -1975,7 +1975,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Wind is vital breath, Wind is happiness, Wind is this entire universe (vāyuḥ prāṇaḥ sukhaṃ vāyur vāyuḥ sarvam idaṃ jagat); utterly forsaken by Wind, the world finds no joy (vāyunā samparityaktaṃ na sukhaṃ vindate jagat).
+“‘Wind is vital breath, Wind is happiness, Wind is this entire universe (_vāyuḥ prāṇaḥ sukhaṃ vāyur vāyuḥ sarvam idaṃ jagat_); utterly forsaken by Wind, the world finds no joy (_vāyunā samparityaktaṃ na sukhaṃ vindate jagat_).
 </details>
 </details>
 
@@ -2006,7 +2006,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This very day, abandoned by Wind who is the world’s lifespan (adyaiva ca parityaktaṃ vāyunā jagadāyuṣā), this very day have beings stood breathless, like wooden posts and walls (nirucchvāsāḥ kāṣṭhakuḍyopamāḥ sthitāḥ).
+“‘This very day, abandoned by Wind who is the world’s lifespan (_adyaiva ca parityaktaṃ vāyunā jagadāyuṣā_), this very day have beings stood breathless, like wooden posts and walls (_nirucchvāsāḥ kāṣṭhakuḍyopamāḥ sthitāḥ_).
 </details>
 </details>
 
@@ -2040,7 +2040,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore let us go where the Wind-god abides, who now brings us torment (tad yāmas tatra yatrāste māruto rukprado hi naḥ); let us not go to ruin without propitiating him, O sons of Aditi (mā vināśaṃ gamiṣyāma aprasādyāditeḥ sutāḥ)!’
+“‘Therefore let us go where the Wind-god abides, who now brings us torment (_tad yāmas tatra yatrāste māruto rukprado hi naḥ_); let us not go to ruin without propitiating him, O sons of Aditi (_mā vināśaṃ gamiṣyāma aprasādyāditeḥ sutāḥ_)!’
 </details>
 </details>
 
@@ -2075,7 +2075,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Prajāpati, accompanied by all creatures, along with gods, Gandharvas, serpents, and Guhyakas (prajābhiḥ sahitaḥ prajāpatiḥ sadevagandharva-bhujaṅga-guhyakaiḥ), went to the place where the Wind-god sat holding his son struck down by the king of gods (jagāma tatrāsyati yatra mārutaḥ sutaṃ surendrābhihataṃ pragṛhya saḥ).
+“Then Prajāpati, accompanied by all creatures, along with gods, Gandharvas, serpents, and Guhyakas (_prajābhiḥ sahitaḥ prajāpatiḥ sadevagandharva-bhujaṅga-guhyakaiḥ_), went to the place where the Wind-god sat holding his son struck down by the king of gods (_jagāma tatrāsyati yatra mārutaḥ sutaṃ surendrābhihataṃ pragṛhya saḥ_).
 </details>
 </details>
 
@@ -2126,7 +2126,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, beholding that child of the ever-moving Wind (sutaṃ tadotsaṅgagataṃ sadāgateḥ) resting on his lap, radiant as the sun, fire, and gold (arkavaiśvānara-kāñcanaprabham), four-faced Brahmā, together with gods, Gandharvas, sages, Yakṣas, and rākṣasas, felt deep compassion (caturmukho vīkṣya kṛpām athākarot).
+“Then, beholding that child of the ever-moving Wind (_sutaṃ tadotsaṅgagataṃ sadāgateḥ_) resting on his lap, radiant as the sun, fire, and gold (_arkavaiśvānara-kāñcanaprabham_), four-faced Brahmā, together with gods, Gandharvas, sages, Yakṣas, and rākṣasas, felt deep compassion (_caturmukho vīkṣya kṛpām athākarot_).
 </details>
 </details>
 

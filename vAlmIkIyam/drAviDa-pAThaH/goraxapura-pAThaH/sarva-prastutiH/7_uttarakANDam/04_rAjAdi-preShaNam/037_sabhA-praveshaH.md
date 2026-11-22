@@ -46,7 +46,7 @@ As dawn breaks after the first joy-filled night of Rāma’s consecration, sweet
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the scion of Kakutstha, knower of the self, had been consecrated according to dharma (abhiṣikte tu kākutsthe dharmeṇa viditātmani), that first night—which heightened the citizens’ joy (paurāṇāṃ harṣavardhinī)—passed away (vyatītā yā niśā pūrvā).
+When the scion of Kakutstha, knower of the self, had been consecrated according to dharma (_abhiṣikte tu kākutsthe dharmeṇa viditātmani_), that first night—which heightened the citizens’ joy (_paurāṇāṃ harṣavardhinī_)—passed away (_vyatītā yā niśā pūrvā_).
 </details>
 </details>
 
@@ -80,7 +80,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night brightened into dawn (tasyāṃ rajanyāṃ vyuṣṭāyām), gentle bards whose office was to awaken the king at daybreak (prātar nṛpatibodhakāḥ vandinaḥ ... saumyāḥ) assembled at the royal palace (samupātiṣṭhan ... nṛpativeśmani).
+When that night brightened into dawn (_tasyāṃ rajanyāṃ vyuṣṭāyām_), gentle bards whose office was to awaken the king at daybreak (_prātar nṛpatibodhakāḥ vandinaḥ ... saumyāḥ_) assembled at the royal palace (_samupātiṣṭhan ... nṛpativeśmani_).
 </details>
 </details>
 
@@ -111,7 +111,7 @@ When that night brightened into dawn (tasyāṃ rajanyāṃ vyuṣṭāyām), ge
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those sweet-voiced singers (te raktakaṇṭhinaḥ sarve), skilled like celestial Kinnaras (kinnarā iva śikṣitāḥ), duly praised the heroic king (tuṣṭuvur nṛpatiṃ vīraṃ yathāvat), filled with overflowing joy (sampraharṣiṇaḥ):
+All those sweet-voiced singers (_te raktakaṇṭhinaḥ sarve_), skilled like celestial Kinnaras (_kinnarā iva śikṣitāḥ_), duly praised the heroic king (_tuṣṭuvur nṛpatiṃ vīraṃ yathāvat_), filled with overflowing joy (_sampraharṣiṇaḥ_):
 </details>
 </details>
 
@@ -145,7 +145,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Awaken, O gentle hero, increaser of Kausalyā’s delight (vīra saumya prabudhyasva kausalyā-prītivardhana)! For the entire world sleeps (jagad dhi sarvaṃ svapiti) while you sleep, O lord of men (tvayi supte narādhipa)!
+“Awaken, O gentle hero, increaser of Kausalyā’s delight (_vīra saumya prabudhyasva kausalyā-prītivardhana_)! For the entire world sleeps (_jagad dhi sarvaṃ svapiti_) while you sleep, O lord of men (_tvayi supte narādhipa_)!
 </details>
 </details>
 
@@ -176,7 +176,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your stride is like Viṣṇu’s (vikramas te yathā viṣṇoḥ), and your beauty like that of the twin Aśvins (rūpaṃ caivāśvinor iva); in intellect you are the equal of Bṛhaspati (buddhyā bṛhaspates tulyaḥ), and indeed you are like Prajāpati himself (prajāpatisamo hy asi).
+“Your stride is like Viṣṇu’s (_vikramas te yathā viṣṇoḥ_), and your beauty like that of the twin Aśvins (_rūpaṃ caivāśvinor iva_); in intellect you are the equal of Bṛhaspati (_buddhyā bṛhaspates tulyaḥ_), and indeed you are like Prajāpati himself (_prajāpatisamo hy asi_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your forbearance equals the earth (kṣamā te pṛthivītulyā), and in brilliance you resemble the Sun (tejasā bhāskaropamaḥ); your swiftness equals the Wind (vegas te vāyunā tulyaḥ), and your profundity is like that of the ocean (gāmbhīryam udadher iva).
+“Your forbearance equals the earth (_kṣamā te pṛthivītulyā_), and in brilliance you resemble the Sun (_tejasā bhāskaropamaḥ_); your swiftness equals the Wind (_vegas te vāyunā tulyaḥ_), and your profundity is like that of the ocean (_gāmbhīryam udadher iva_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ Finishing their dawn hymn to Rāma as steadfast as Śiva and gentle as the moon,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unshakeable as Sthāṇu [Śiva] (aprakampyo yathā sthāṇuḥ), and possessing such gentleness as abides in the moon (candre saumyatvam īdṛśam)—never before were there kings like you, nor shall there ever be, O lord of men (nedṛśāḥ pārthivāḥ pūrvaṃ bhavitāro narādhipa)!
+“Unshakeable as Sthāṇu [Śiva] (_aprakampyo yathā sthāṇuḥ_), and possessing such gentleness as abides in the moon (_candre saumyatvam īdṛśam_)—never before were there kings like you, nor shall there ever be, O lord of men (_nedṛśāḥ pārthivāḥ pūrvaṃ bhavitāro narādhipa_)!
 </details>
 </details>
 
@@ -280,7 +280,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because you are exceedingly unassailable, ever steadfast in dharma, and devoted to your subjects’ welfare (yathā tvam atidurdharṣo dharmanityaḥ prajāhitaḥ), neither Fame nor Fortune ever forsakes you, O bull among men (na tvāṃ jahāti kīrtiś ca lakṣmīś ca puruṣarṣabha)!
+“Because you are exceedingly unassailable, ever steadfast in dharma, and devoted to your subjects’ welfare (_yathā tvam atidurdharṣo dharmanityaḥ prajāhitaḥ_), neither Fame nor Fortune ever forsakes you, O bull among men (_na tvāṃ jahāti kīrtiś ca lakṣmīś ca puruṣarṣabha_)!
 </details>
 </details>
 
@@ -314,7 +314,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sovereign Prosperity and Righteousness, O scion of Kakutstha, abide eternally in you (śrīś ca dharmaś ca kākutstha tvayi nityaṃ pratiṣṭhitau)!” These and many other sweet verses were proclaimed by the bards (etāś cānyāś ca madhurā vandibhiḥ parikīrtitāḥ),
+“Sovereign Prosperity and Righteousness, O scion of Kakutstha, abide eternally in you (_śrīś ca dharmaś ca kākutstha tvayi nityaṃ pratiṣṭhitau_)!” These and many other sweet verses were proclaimed by the bards (_etāś cānyāś ca madhurā vandibhiḥ parikīrtitāḥ_),
 </details>
 </details>
 
@@ -345,7 +345,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the royal sūtas likewise kept awakening Rāghava with divine hymns of praise (sūtāś ca saṃstavair divyair bodhayanti sma rāghavam); by those eulogies being sung aloud (stutibhiḥ stūyamānābhiḥ), Rāghava awoke (pratyabudhyata rāghavaḥ).
+And the royal _sūtas_ likewise kept awakening Rāghava with divine hymns of praise (_sūtāś ca saṃstavair divyair bodhayanti sma rāghavam_); by those eulogies being sung aloud (_stutibhiḥ stūyamānābhiḥ_), Rāghava awoke (_pratyabudhyata rāghavaḥ_).
 </details>
 </details>
 
@@ -376,7 +376,7 @@ And the royal sūtas likewise kept awakening Rāghava with divine hymns of prais
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaving that couch spread with pale-white linen (sa tad vihāya śayanaṃ pāṇḍarācchādanāstṛtam), he rose up (uttasthau) just as Hari-Nārāyaṇa rises from his serpent bed (nāgaśayanād dharir nārāyaṇo yathā).
+Leaving that couch spread with pale-white linen (_sa tad vihāya śayanaṃ pāṇḍarācchādanāstṛtam_), he rose up (_uttasthau_) just as Hari-Nārāyaṇa rises from his serpent bed (_nāgaśayanād dharir nārāyaṇo yathā_).
 </details>
 </details>
 
@@ -410,7 +410,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that high-souled monarch rose (tam utthitaṃ mahātmānam), thousands of men, bowing low with joined palms (prahvāḥ prāñjalayo narāḥ ... sahasraśaḥ), attended upon him with water in gleaming vessels (salilaṃ bhājanaiḥ śubhrair upatasthuḥ).
+As that high-souled monarch rose (_tam utthitaṃ mahātmānam_), thousands of men, bowing low with joined palms (_prahvāḥ prāñjalayo narāḥ ... sahasraśaḥ_), attended upon him with water in gleaming vessels (_salilaṃ bhājanaiḥ śubhrair upatasthuḥ_).
 </details>
 </details>
 
@@ -452,7 +452,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Purified by morning ablutions (kṛtodaka-śucir bhūtvā) and having offered the fire-oblation at the proper hour (kāle hutahutāśanaḥ), he went swiftly to the sacred shrine of the gods cherished by the Ikṣvākus (devāgāraṃ jagāmāśu puṇyam ikṣvākusevitam).
+Purified by morning ablutions (_kṛtodaka-śucir bhūtvā_) and having offered the fire-oblation at the proper hour (_kāle hutahutāśanaḥ_), he went swiftly to the sacred shrine of the gods cherished by the Ikṣvākus (_devāgāraṃ jagāmāśu puṇyam ikṣvākusevitam_).
 </details>
 </details>
 
@@ -486,7 +486,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly worshipped the gods, the ancestors, and the Brahmins there (tatra devān pitṝn viprān arcayitvā yathāvidhi), Rāma emerged into the outer courtyard (bāhyakakṣāntaraṃ rāmo nirjagāma), surrounded by his attendants (janair vṛtaḥ).
+Having duly worshipped the gods, the ancestors, and the Brahmins there (_tatra devān pitṝn viprān arcayitvā yathāvidhi_), Rāma emerged into the outer courtyard (_bāhyakakṣāntaraṃ rāmo nirjagāma_), surrounded by his attendants (_janair vṛtaḥ_).
 </details>
 </details>
 
@@ -517,7 +517,7 @@ Having duly worshipped the gods, the ancestors, and the Brahmins there (tatra de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-High-souled ministers together with the royal priests, headed by Vasiṣṭha (mantriṇaḥ sapurohitāḥ vasiṣṭhapramukhāḥ sarve), waited upon him (upatasthuḥ), blazing with spiritual luster like consecrated fires (dīpyamānā ivāgnayaḥ).
+High-souled ministers together with the royal priests, headed by Vasiṣṭha (_mantriṇaḥ sapurohitāḥ vasiṣṭhapramukhāḥ sarve_), waited upon him (_upatasthuḥ_), blazing with spiritual luster like consecrated fires (_dīpyamānā ivāgnayaḥ_).
 </details>
 </details>
 
@@ -548,7 +548,7 @@ High-souled ministers together with the royal priests, headed by Vasiṣṭha (m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-High-souled Kṣatriyas as well, lords of manifold realms (kṣatriyāś ca mahātmāno nānājanapadeśvarāḥ), took their seats beside Rāma (rāmasyopāviśan pārśve), even as the immortals sit around Śakra (śakrasyeva yathā ’marāḥ).
+High-souled Kṣatriyas as well, lords of manifold realms (_kṣatriyāś ca mahātmāno nānājanapadeśvarāḥ_), took their seats beside Rāma (_rāmasyopāviśan pārśve_), even as the immortals sit around Śakra (_śakrasyeva yathā ’marāḥ_).
 </details>
 </details>
 
@@ -582,7 +582,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata, Lakṣmaṇa, and renowned Śatrughna (bharato lakṣmaṇaś cātra śatrughnaś ca mahāyaśāḥ) joyfully attended upon him there (upāsāñcakrire hṛṣṭāḥ), like the three Vedas waiting upon a sacrifice (vedās traya ivādhvaram).
+Bharata, Lakṣmaṇa, and renowned Śatrughna (_bharato lakṣmaṇaś cātra śatrughnaś ca mahāyaśāḥ_) joyfully attended upon him there (_upāsāñcakrire hṛṣṭāḥ_), like the three Vedas waiting upon a sacrifice (_vedās traya ivādhvaram_).
 </details>
 </details>
 
@@ -613,7 +613,7 @@ Bharata, Lakṣmaṇa, and renowned Śatrughna (bharato lakṣmaṇaś cātra ś
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having come with joined palms and gladdened countenances (yātāḥ prāñjalayo bhūtvā ... muditānanāḥ), numerous attendants named Muditas (kiṅkarāḥ ... muditā nāma ... bahavaḥ) took their places seated at his side (pārśvasthāḥ ... samupāviśan).
+Having come with joined palms and gladdened countenances (_yātāḥ prāñjalayo bhūtvā ... muditānanāḥ_), numerous attendants named Muditas (_kiṅkarāḥ ... muditā nāma ... bahavaḥ_) took their places seated at his side (_pārśvasthāḥ ... samupāviśan_).
 </details>
 </details>
 
@@ -655,7 +655,7 @@ Attended by twenty vānara chiefs, Vibhīṣaṇa’s counselors, Vedic elders, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Twenty vānaras of mighty valor, shape-shifting at will and endowed with great energy (vānarāś ca mahāvīryā viṃśatiḥ kāmarūpiṇaḥ ... mahaujasaḥ), headed by Sugrīva (sugrīvapramukhāḥ), wait upon Rāma (rāmam upāsante).
+Twenty vānaras of mighty valor, shape-shifting at will and endowed with great energy (_vānarāś ca mahāvīryā viṃśatiḥ kāmarūpiṇaḥ ... mahaujasaḥ_), headed by Sugrīva (_sugrīvapramukhāḥ_), wait upon Rāma (_rāmam upāsante_).
 </details>
 </details>
 
@@ -689,7 +689,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Vibhīṣaṇa, attended by his four rākṣasa counselors (vibhīṣaṇaś ca rakṣobhiś caturbhiḥ parivāritaḥ), waits upon the high-souled king (upāsate mahātmānam), like Guhyakas serving the Lord of Wealth (dhaneśam iva guhyakāḥ).
+And Vibhīṣaṇa, attended by his four rākṣasa counselors (_vibhīṣaṇaś ca rakṣobhiś caturbhiḥ parivāritaḥ_), waits upon the high-souled king (_upāsate mahātmānam_), like Guhyakas serving the Lord of Wealth (_dhaneśam iva guhyakāḥ_).
 </details>
 </details>
 
@@ -720,7 +720,7 @@ And Vibhīṣaṇa, attended by his four rākṣasa counselors (vibhīṣaṇaś
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Likewise, discerning elders steeped in Vedic lore and men of noble lineage (nigamavṛddhāś ca kulīnā ye ca mānavāḥ ... vicakṣaṇāḥ), having bowed their heads in reverence (śirasā ’’vandya), wait upon the king (rājānam upāsante).
+Likewise, discerning elders steeped in Vedic lore and men of noble lineage (_nigamavṛddhāś ca kulīnā ye ca mānavāḥ ... vicakṣaṇāḥ_), having bowed their heads in reverence (_śirasā ’’vandya_), wait upon the king (_rājānam upāsante_).
 </details>
 </details>
 
@@ -751,7 +751,7 @@ Likewise, discerning elders steeped in Vedic lore and men of noble lineage (niga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus surrounded, the king is encompassed by illustrious sages (tathā parivṛto rājā śrīmadbhir ṛṣibhir vṛtaḥ), by kings of mighty valor (rājabhiś ca mahāvīryaiḥ), and by vānaras together with rākṣasas (vānaraiś ca sarākṣasaiḥ).
+Thus surrounded, the king is encompassed by illustrious sages (_tathā parivṛto rājā śrīmadbhir ṛṣibhir vṛtaḥ_), by kings of mighty valor (_rājabhiś ca mahāvīryaiḥ_), and by vānaras together with rākṣasas (_vānaraiś ca sarākṣasaiḥ_).
 </details>
 </details>
 
@@ -782,7 +782,7 @@ Thus surrounded, the king is encompassed by illustrious sages (tathā parivṛto
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as the Lord of Gods is ever waited upon by the sages (yathā deveśvaro nityam ṛṣibhiḥ samupāsyate), surpassing thousand-eyed Indra in that splendor, he shines resplendent (adhikas tena rūpeṇa sahasrākṣād virocate).
+Even as the Lord of Gods is ever waited upon by the sages (_yathā deveśvaro nityam ṛṣibhiḥ samupāsyate_), surpassing thousand-eyed Indra in that splendor, he shines resplendent (_adhikas tena rūpeṇa sahasrākṣād virocate_).
 </details>
 </details>
 
@@ -821,6 +821,6 @@ Even as the Lord of Gods is ever waited upon by the sages (yathā deveśvaro nit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Among them, seated harmoniously together (teṣāṃ samupaviṣṭānām), manifold sweet narratives imbued with dharma (tās tāḥ sumadhurāḥ kathāḥ ... dharmasaṃyuktāḥ) are recounted by high-souled masters of ancient lore (kathyante ... purāṇajñair mahātmabhiḥ).
+Among them, seated harmoniously together (_teṣāṃ samupaviṣṭānām_), manifold sweet narratives imbued with dharma (_tās tāḥ sumadhurāḥ kathāḥ ... dharmasaṃyuktāḥ_) are recounted by high-souled masters of ancient lore (_kathyante ... purāṇajñair mahātmabhiḥ_).
 </details>
 </details>

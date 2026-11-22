@@ -80,7 +80,7 @@ her with these words. [4-16-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vālī rebuked (nirbhartsayāmāsa) that Tārā of moon-like countenance (tārādhipanibhānanām) who was speaking thus, and spoke this word to her:
+Vālī rebuked (_nirbhartsayāmāsa_) that Tārā of moon-like countenance (_tārādhipanibhānanām_) who was speaking thus, and spoke this word to her:
 </details>
 </details>
 
@@ -135,7 +135,7 @@ tolerate him when he kept raving on frenetically, tell me. [4-16-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lovely-faced lady (varānane), by what reason could I possibly tolerate (marṣayiṣyāmi) [the roaring] of this roaring brother—who is furiously enraged (susaṃrabdham) and above all an enemy?
+“O lovely-faced lady (_varānane_), by what reason could I possibly tolerate (_marṣayiṣyāmi_) [the roaring] of this roaring brother—who is furiously enraged (_susaṃrabdham_) and above all an enemy?
 </details>
 </details>
 
@@ -187,7 +187,7 @@ war-whoop is more than death. [4-16-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For unassailed heroes (śūrāṇām) who never retreat in battles (samareṣv anivartinām), O timid one (bhīru), the endurance of an insult (dharṣaṇāmarṣaṇam) is worse than death.
+“For unassailed heroes (_śūrāṇām_) who never retreat in battles (_samareṣv anivartinām_), O timid one (_bhīru_), the endurance of an insult (_dharṣaṇāmarṣaṇam_) is worse than death.
 </details>
 </details>
 
@@ -237,7 +237,7 @@ feeble, voiced [dumbly]; *garjatam* = bawling; *sugriivasya* = of Sugreeva; *sam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor am I able to bear (soḍhum) in battle the fury (saṃrambham) of Sugrīva, who desires combat, or the roaring of that neck-shorn wretch (hīnagrīvasya).
+“Nor am I able to bear (_soḍhum_) in battle the fury (_saṃrambham_) of Sugrīva, who desires combat, or the roaring of that neck-shorn wretch (_hīnagrīvasya_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ knower of virtue can commit sin. [4-16-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor should dejection (viṣādaḥ) be entertained by you on my account regarding Rāghava; how will he, who knows dharma (dharmajñaḥ) and is grateful (kṛtajñaḥ), commit a sin?
+“Nor should dejection (_viṣādaḥ_) be entertained by you on my account regarding Rāghava; how will he, who knows dharma (_dharmajñaḥ_) and is grateful (_kṛtajñaḥ_), commit a sin?
 </details>
 </details>
 
@@ -375,9 +375,9 @@ and his arrogance out, but without letting his lives loose. [4-16-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “Turn back (nivartasva) along with the women; why do you follow (anugacchasi) any further? Your affection (sauhṛdam) has been shown thus far, and devotion toward me has been fulfilled by you.”
+**6:** “Turn back (_nivartasva_) along with the women; why do you follow (_anugacchasi_) any further? Your affection (_sauhṛdam_) has been shown thus far, and devotion toward me has been fulfilled by you.”
 
-**7:** “Going forth, I shall fight back (pratiyotsyāmi) against Sugrīva; cast off your agitation (sambhramam)! And I shall humble (vineṣyāmi) his pride, nor shall he be parted from his vital breaths.
+**7:** “Going forth, I shall fight back (_pratiyotsyāmi_) against Sugrīva; cast off your agitation (_sambhramam_)! And I shall humble (_vineṣyāmi_) his pride, nor shall he be parted from his vital breaths.
 </details>
 </details>
 
@@ -433,7 +433,7 @@ trees and fistfights, by which roughed up he returns. [4-16-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For I shall do unto him, as he stands in battle (ājisthitasya), just what is desired (yad īpsitam) [by you]; battered by trees and blows of my fists (muṣṭiprahāraiś ca), he will turn back.
+“For I shall do unto him, as he stands in battle (_ājisthitasya_), just what is desired (_yad īpsitam_) [by you]; battered by trees and blows of my fists (_muṣṭiprahāraiś ca_), he will turn back.
 </details>
 </details>
 
@@ -485,7 +485,7 @@ offered your helping suggestion and you have shown all your friendliness to me, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That evil-minded one (durātmavān) will not endure my proud exertion (garvitam āyastam). Helpfulness (sahāyatvam) has been rendered, O Tārā, and affection toward me has been shown.
+“That evil-minded one (_durātmavān_) will not endure my proud exertion (_garvitam āyastam_). Helpfulness (_sahāyatvam_) has been rendered, O Tārā, and affection toward me has been shown.
 </details>
 </details>
 
@@ -539,7 +539,7 @@ and returning that 'brother of mine." Said Vali to Tara. [4-16-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are conjured (śāpitāsi) by my very life-breaths: turn back with your retinue (janena)! Having thoroughly conquered (alaṃ jitvā) that brother in battle, I shall return.”
+“You are conjured (_śāpitāsi_) by my very life-breaths: turn back with your retinue (_janena_)! Having thoroughly conquered (_alaṃ jitvā_) that brother in battle, I shall return.”
 </details>
 </details>
 
@@ -585,7 +585,7 @@ moaning, as an honour to the braver. [4-16-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing (pariṣvajya) that Vālī, however, the sweet-speaking and courteous (dakṣiṇā) Tārā, weeping softly (rudatī mandam), performed a reverent circumambulation (pradakṣiṇam).
+Embracing (_pariṣvajya_) that Vālī, however, the sweet-speaking and courteous (_dakṣiṇā_) Tārā, weeping softly (_rudatī mandam_), performed a reverent circumambulation (_pradakṣiṇam_).
 </details>
 </details>
 
@@ -650,7 +650,7 @@ Suteekshna's hermitage as at 3-8-18.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having performed a rite of auspicious blessing (svastyayanam), she who knew the sacred formulas (mantravid) and wished for his victory entered the inner apartments (antaḥpuram) with the women, bewildered by grief.
+Then, having performed a rite of auspicious blessing (_svastyayanam_), she who knew the sacred formulas (_mantravid_) and wished for his victory entered the inner apartments (_antaḥpuram_) with the women, bewildered by grief.
 </details>
 </details>
 
@@ -710,7 +710,7 @@ like an infuriated great snake. [4-16-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Tārā had entered her own abode (svam ālayam) along with the women, the wrathful [Vālī] strode forth from the city (nagaryā niryayau), hissing like a great serpent (mahāsarpa iva śvasan).
+When Tārā had entered her own abode (_svam ālayam_) along with the women, the wrathful [Vālī] strode forth from the city (_nagaryā niryayau_), hissing like a great serpent (_mahāsarpa iva śvasan_).
 </details>
 </details>
 
@@ -761,7 +761,7 @@ to sight his enemy. [4-16-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hissing heavily (niḥśvasya), that Vālī of immense wrath and supreme velocity (paramavegavān) [advanced], casting his gaze (cārayan dṛṣṭim) in all directions with the desire of sighting his foe.
+Hissing heavily (_niḥśvasya_), that Vālī of immense wrath and supreme velocity (_paramavegavān_) [advanced], casting his gaze (_cārayan dṛṣṭim_) in all directions with the desire of sighting his foe.
 </details>
 </details>
 
@@ -813,7 +813,7 @@ a fight, and who is with an air of self-confidence, blazing like fiery-fire. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the glorious one (śrīmān) beheld Sugrīva, tawny as gold (hemapiṅgalam), tightly girded (susaṃvītam), firmly planted (avaṣṭabdham), and blazing like fire.
+Then the glorious one (_śrīmān_) beheld Sugrīva, tawny as gold (_hemapiṅgalam_), tightly girded (_susaṃvītam_), firmly planted (_avaṣṭabdham_), and blazing like fire.
 </details>
 </details>
 
@@ -865,7 +865,7 @@ available Sugreeva. [4-16-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that Sugrīva standing ready (paryavasthitam), the mighty-armed and supremely wrathful Vālī (paramakopanaḥ) tightly girded his garment (gāḍhaṃ paridadhe vāsaḥ).
+Seeing that Sugrīva standing ready (_paryavasthitam_), the mighty-armed and supremely wrathful Vālī (_paramakopanaḥ_) tightly girded his garment (_gāḍhaṃ paridadhe vāsaḥ_).
 </details>
 </details>
 
@@ -920,7 +920,7 @@ a well timed manner uplifting fists to fight him off. [4-16-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tightly girded (gāḍhasaṃvītaḥ) and raising his fist (muṣṭim udyamya), that valorous Vālī, eager for combat (kṛtakṣaṇaḥ), strode straight toward Sugrīva to fight.
+Tightly girded (_gāḍhasaṃvītaḥ_) and raising his fist (_muṣṭim udyamya_), that valorous Vālī, eager for combat (_kṛtakṣaṇaḥ_), strode straight toward Sugrīva to fight.
 </details>
 </details>
 
@@ -974,7 +974,7 @@ them up at the ready, and aiming them well at Vali. [4-16-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising his tightly clenched fist (śliṣṭaṃ muṣṭim) as well, Sugrīva too came forward even more furiously (saṃrabdhataram āgataḥ), aiming directly at Vālī, who wore the golden garland (hemamālinam).
+Raising his tightly clenched fist (_śliṣṭaṃ muṣṭim_) as well, Sugrīva too came forward even more furiously (_saṃrabdhataram āgataḥ_), aiming directly at Vālī, who wore the golden garland (_hemamālinam_).
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ and who is an expert and expeditious in fighting. [4-16-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that Sugrīva, skilled in warfare (raṇakovidam), who was rushing forward with great speed (mahāvegam), Vālī, his eyes coppery with rage (krodhatāmrākṣaḥ), spoke this word:
+To that Sugrīva, skilled in warfare (_raṇakovidam_), who was rushing forward with great speed (_mahāvegam_), Vālī, his eyes coppery with rage (_krodhatāmrākṣaḥ_), spoke this word:
 </details>
 </details>
 
@@ -1089,7 +1089,7 @@ taking your lives when I pitch this on you at full speed." So said Vali threaten
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This mighty, tightly bound fist (muṣṭir mahān baddho gāḍhaḥ) with well-set fingers (suniyatāṅguliḥ), hurled with speed by me, will take away your vital breaths and depart!”
+“This mighty, tightly bound fist (_muṣṭir mahān baddho gāḍhaḥ_) with well-set fingers (_suniyatāṅguliḥ_), hurled with speed by me, will take away your vital breaths and depart!”
 </details>
 </details>
 
@@ -1141,7 +1141,7 @@ your lives." [4-16-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, however, the wrathful Sugrīva spoke to Vālī: “Let this [fist of mine], snatching away your vital breaths (haran prāṇān), fall upon your head (mūrdhani)!”
+Addressed thus, however, the wrathful Sugrīva spoke to Vālī: “Let this [fist of mine], snatching away your vital breaths (_haran prāṇān_), fall upon your head (_mūrdhani_)!”
 </details>
 </details>
 
@@ -1193,7 +1193,7 @@ blood in its torrents. [4-16-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck (tāḍitaḥ) by him [Vālī], the wrathful [Sugrīva], rushing upon him with speed (samabhikramya vegataḥ), began spewing blood (abhavac choṇitodgārī) like a mountain with gushing springs (sāpīḍa iva parvataḥ).
+Struck (_tāḍitaḥ_) by him [Vālī], the wrathful [Sugrīva], rushing upon him with speed (_samabhikramya vegataḥ_), began spewing blood (_abhavac choṇitodgārī_) like a mountain with gushing springs (_sāpīḍa iva parvataḥ_).
 </details>
 </details>
 
@@ -1245,7 +1245,7 @@ the thunderbolt thrashing a great mountain. [4-16-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By Sugrīva, however, who fearlessly (niḥśaṅkam) uprooted a sāla tree with his might (tejasā), Vālī was struck upon his limbs like a great mountain by a thunderbolt (vajreṇeva mahāgiriḥ).
+By Sugrīva, however, who fearlessly (_niḥśaṅkam_) uprooted a sāla tree with his might (_tejasā_), Vālī was struck upon his limbs like a great mountain by a thunderbolt (_vajreṇeva mahāgiriḥ_).
 </details>
 </details>
 
@@ -1297,7 +1297,7 @@ with heavy weight of merchandise and brimming with merchants, but on the brink o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shattered (nirbhagnaḥ) by the tree and reeling from the blow of the sāla (sālatāḍanavihvalaḥ), he [staggered] like a ship with its caravan (nauḥ sasārtheva) weighed down by a heavy cargo in the ocean.
+Shattered (_nirbhagnaḥ_) by the tree and reeling from the blow of the sāla (_sālatāḍanavihvalaḥ_), he [staggered] like a ship with its caravan (_nauḥ sasārtheva_) weighed down by a heavy cargo in the ocean.
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ of their own enemies fought frighteningly, like the sun and moon in the sky, whi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those two, valiant with terrible strength (bhīmabalavikrāntau) and swift as Suparṇa (suparṇasamavegitau), waxed mighty with dreadful forms like the moon and the sun in the sky (candrasūryāv ivāmbare).
+Those two, valiant with terrible strength (_bhīmabalavikrāntau_) and swift as Suparṇa (_suparṇasamavegitau_), waxed mighty with dreadful forms like the moon and the sun in the sky (_candrasūryāv ivāmbare_).
 </details>
 </details>
 
@@ -1418,7 +1418,7 @@ Sugreeva, regressed. [4-16-26b, 27a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both slayers of their foes (amitraghnau), intent upon seeking each other's weak points (chidrānveṣaṇatatparau), [they fought on]; then Vālī, endowed with strength and valor, grew in might (avardhata).
+Both slayers of their foes (_amitraghnau_), intent upon seeking each other&#x27;s weak points (_chidrānveṣaṇatatparau_), [they fought on]; then Vālī, endowed with strength and valor, grew in might (_avardhata_).
 </details>
 </details>
 
@@ -1470,7 +1470,7 @@ searching for Raghava to counteract Vali. [4-16-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sugrīva, the son of Sūrya (sūryaputraḥ) of great valor, began to wane (parihīyata); with his pride shattered by Vālī (bhagnadarpas tu), Sugrīva grew slack in his prowess (mandavikramaḥ).
+Sugrīva, the son of Sūrya (_sūryaputraḥ_) of great valor, began to wane (_parihīyata_); with his pride shattered by Vālī (_bhagnadarpas tu_), Sugrīva grew slack in his prowess (_mandavikramaḥ_).
 </details>
 </details>
 
@@ -1529,9 +1529,9 @@ and arms, like the fight that once chanced between demon Vritra and Indra. [4-16
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** Filled with indignation (sāmarṣaḥ) against Vālī, he signaled to Rāghava (darśayāmāsa rāghavam) [while fighting] with branched trees, mountain peaks (śikharaiḥ), and claws resembling diamond points (vajrakoṭinibhair nakhaiḥ).
+**28:** Filled with indignation (_sāmarṣaḥ_) against Vālī, he signaled to Rāghava (_darśayāmāsa rāghavam_) [while fighting] with branched trees, mountain peaks (_śikharaiḥ_), and claws resembling diamond points (_vajrakoṭinibhair nakhaiḥ_).
 
-**29:** [Fighting] again and again with fists, knees, feet, and arms (muṣṭibhir jānubhiḥ padbhir bāhubhiś ca), a dreadful battle (yuddham abhūd ghoram) took place between those two, like that between Vṛtra and Vāsava (vṛtravāsavayor iva).
+**29:** [Fighting] again and again with fists, knees, feet, and arms (_muṣṭibhir jānubhiḥ padbhir bāhubhiś ca_), a dreadful battle (_yuddham abhūd ghoram_) took place between those two, like that between Vṛtra and Vāsava (_vṛtravāsavayor iva_).
 </details>
 </details>
 
@@ -1591,7 +1591,7 @@ like two clouds clashing uproariously. [4-16-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Smeared with blood (śoṇitāktau), those two forest-roaming monkeys fought each other (yudhyetām), roaring at one another with mighty sounds like two thunderclouds (meghāv iva).
+Smeared with blood (_śoṇitāktau_), those two forest-roaming monkeys fought each other (_yudhyetām_), roaring at one another with mighty sounds like two thunderclouds (_meghāv iva_).
 </details>
 </details>
 
@@ -1643,7 +1643,7 @@ is even deteriorating in his enterprise. [4-16-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Rāghava beheld the lord of monkeys, Sugrīva, growing weaker (hīyamānam) and gazing again and again (prekṣamāṇaṃ ... muhur muhuḥ) toward the quarters (diśaś caiva).
+Then that Rāghava beheld the lord of monkeys, Sugrīva, growing weaker (_hīyamānam_) and gazing again and again (_prekṣamāṇaṃ ... muhur muhuḥ_) toward the quarters (_diśaś caiva_).
 </details>
 </details>
 
@@ -1692,7 +1692,7 @@ for an arrow aiming to eliminate Vali. [4-16-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the hero Rāma of great splendor (mahātejāḥ), seeing the lord of monkeys afflicted (ārtam), fixed his gaze upon his arrow (śaraṃ vīkṣate) with the desire of slaying Vālī.
+Then the hero Rāma of great splendor (_mahātejāḥ_), seeing the lord of monkeys afflicted (_ārtam_), fixed his gaze upon his arrow (_śaraṃ vīkṣate_) with the desire of slaying Vālī.
 </details>
 </details>
 
@@ -1744,7 +1744,7 @@ that bow attained a similitude with the Time-disc of the Terminator. [4-16-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, fitting upon his bow (dhanuṣi saṃdhāya) an arrow resembling a venomous serpent (āśīviṣopamam), he drew that bow to a full circle (pūrayāmāsa tac cāpam) like Death (antakaḥ) wielding the wheel of Time (kālacakram).
+Then, fitting upon his bow (_dhanuṣi saṃdhāya_) an arrow resembling a venomous serpent (_āśīviṣopamam_), he drew that bow to a full circle (_pūrayāmāsa tac cāpam_) like Death (_antakaḥ_) wielding the wheel of Time (_kālacakram_).
 </details>
 </details>
 
@@ -1799,7 +1799,7 @@ by the approach of ear ending, and they all fled. [4-16-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrified (trastāḥ) by the twang of his bowstring and palm-guard (jyātalaghoṣeṇa), the lords of birds (patraratheśvarāḥ) and the beasts fled headlong (pradudruvuḥ), bewildered as at the end of a world-age (yugānta iva).
+Terrified (_trastāḥ_) by the twang of his bowstring and palm-guard (_jyātalaghoṣeṇa_), the lords of birds (_patraratheśvarāḥ_) and the beasts fled headlong (_pradudruvuḥ_), bewildered as at the end of a world-age (_yugānta iva_).
 </details>
 </details>
 
@@ -1861,7 +1861,7 @@ fell on the chest of Vali. [4-16-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released (muktas tu) by Rāghava, that mighty arrow (mahābāṇaḥ), roaring like a thunderbolt (vajranirghoṣaḥ) and resembling a blazing lightning-bolt (pradīptāśanisaṃnibhaḥ), was brought down upon Vālī's chest (vālivakṣasi pātitaḥ).
+Released (_muktas tu_) by Rāghava, that mighty arrow (_mahābāṇaḥ_), roaring like a thunderbolt (_vajranirghoṣaḥ_) and resembling a blazing lightning-bolt (_pradīptāśanisaṃnibhaḥ_), was brought down upon Vālī&#x27;s chest (_vālivakṣasi pātitaḥ_).
 </details>
 </details>
 
@@ -1912,7 +1912,7 @@ onto the plane of earth. [4-16-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck (abhihataḥ) with force by that [arrow], the lord of monkeys Vālī, of great splendor and endowed with valor (vīryayuktaḥ), fell down upon the surface of the earth (nipapāta mahītale).
+Struck (_abhihataḥ_) with force by that [arrow], the lord of monkeys Vālī, of great splendor and endowed with valor (_vīryayuktaḥ_), fell down upon the surface of the earth (_nipapāta mahītale_).
 </details>
 </details>
 
@@ -1978,7 +1978,7 @@ to ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hurled down (uddhūtaḥ) upon the earth like Indra's banner (indradhvaja iva) on the full-moon day in the month of Āśvayuj (āśvayuksamaye māsi), bereft of his splendor (gataśrīkaḥ) and unconscious (vicetanaḥ), Vālī, his throat choked with tears (bāṣpasaṃruddhakaṇṭhas tu), uttered a faint cry of distress (ārtasvaraḥ śanaiḥ).
+Hurled down (_uddhūtaḥ_) upon the earth like Indra&#x27;s banner (_indradhvaja iva_) on the full-moon day in the month of Āśvayuj (_āśvayuksamaye māsi_), bereft of his splendor (_gataśrīkaḥ_) and unconscious (_vicetanaḥ_), Vālī, his throat choked with tears (_bāṣpasaṃruddhakaṇṭhas tu_), uttered a faint cry of distress (_ārtasvaraḥ śanaiḥ_).
 </details>
 </details>
 
@@ -2043,7 +2043,7 @@ from the Third-Eye of Rudra, emitting fire with smoke. [4-16-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The foremost of men (narottamaḥ) loosed (sasarja) that blazing, foe-crushing (amitramardanam) foremost of arrows, adorned with gold and silver (kāñcanarūpyabhūṣitam) and resembling the destroyer at the end of a world-age (kālayugāntakopamam), just as Hara [looses] smoky fire from his face (mukhato yathā haraḥ).
+The foremost of men (_narottamaḥ_) loosed (_sasarja_) that blazing, foe-crushing (_amitramardanam_) foremost of arrows, adorned with gold and silver (_kāñcanarūpyabhūṣitam_) and resembling the destroyer at the end of a world-age (_kālayugāntakopamam_), just as Hara [looses] smoky fire from his face (_mukhato yathā haraḥ_).
 </details>
 </details>
 
@@ -2127,7 +2127,7 @@ on high of mountains it is more gloriously standing till now, like Vali, but tha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, drenched with streams of blood and water (śoṇitatoyavisravaiḥ), the son of Vāsava (vāsavasūnuḥ), unconscious in battle, went to the earth like a wind-tossed aśoka tree in full bloom (supuṣpitāśoka ivāniloddhataḥ) or like Indra's toppled banner (prabhraṃśitendradhvajavat).
+Then, drenched with streams of blood and water (_śoṇitatoyavisravaiḥ_), the son of Vāsava (_vāsavasūnuḥ_), unconscious in battle, went to the earth like a wind-tossed aśoka tree in full bloom (_supuṣpitāśoka ivāniloddhataḥ_) or like Indra&#x27;s toppled banner (_prabhraṃśitendradhvajavat_).
 </details>
 </details>
 

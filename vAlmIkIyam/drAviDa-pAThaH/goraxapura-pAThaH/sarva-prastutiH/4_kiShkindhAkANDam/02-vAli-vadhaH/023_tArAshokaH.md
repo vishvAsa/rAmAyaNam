@@ -82,7 +82,7 @@ dead husband. [3-23-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, smelling [kissing] (samupajighrantī) that face of the monkey king (kapirājasya tan mukham), the world-renowned Tārā (lokaśrutā tārā) spoke this word to her dead husband (patiṃ mṛtam):
+Then, smelling [kissing] (_samupajighrantī_) that face of the monkey king (_kapirājasya tan mukham_), the world-renowned Tārā (_lokaśrutā tārā_) spoke this word to her dead husband (_patiṃ mṛtam_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ with stones. [3-23-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having disregarded my counsel (akṛtvā vacanaṃ mama), O hero (vīra), you lie painfully (śeṣe tvaṃ duḥkham) upon the uneven, stone-strewn (upalopacite), and most uncomfortable surface of the earth (suduḥkhe vasudhātale).
+“Having disregarded my counsel (_akṛtvā vacanaṃ mama_), O hero (_vīra_), you lie painfully (_śeṣe tvaṃ duḥkham_) upon the uneven, stone-strewn (_upalopacite_), and most uncomfortable surface of the earth (_suduḥkhe vasudhātale_).
 </details>
 </details>
 
@@ -180,7 +180,7 @@ her while you recline on her, without replying me. [3-23-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely, O lord of the monkeys (vānarendra), the earth (mahī) is dearer to you than I (mattaḥ priyatarā nūnam), since you lie embracing her (śeṣe hi tāṃ pariṣvajya) and do not answer me (māṃ ca na pratibhāṣase)!
+Surely, O lord of the monkeys (_vānarendra_), the earth (_mahī_) is dearer to you than I (_mattaḥ priyatarā nūnam_), since you lie embracing her (_śeṣe hi tāṃ pariṣvajya_) and do not answer me (_māṃ ca na pratibhāṣase_)!
 </details>
 </details>
 
@@ -232,7 +232,7 @@ in adventures, oho, is it fated to happen this way. [3-23-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas (aho), this fate (vidhir eṣaḥ) has fallen under Sugrīva's control (sugrīvasya vaśaṃ prāptaḥ)! Truly Sugrīva alone is valorous (sugrīva eva vikrāntaḥ), O hero fond of daring deeds (vīra sāhasikapriya)!
+Alas (_aho_), this fate (_vidhir eṣaḥ_) has fallen under Sugrīva&#x27;s control (_sugrīvasya vaśaṃ prāptaḥ_)! Truly Sugrīva alone is valorous (_sugrīva eva vikrāntaḥ_), O hero fond of daring deeds (_vīra sāhasikapriya_)!
 </details>
 </details>
 
@@ -294,7 +294,7 @@ in keen, why do not you comeback to senses. [3-23-5, 6a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The foremost of bears and monkeys (ṛkṣavānaramukhyāḥ) attend upon you, the mighty one (tvāṃ balinaṃ paryupāsate); [hear] their anguished lamentation (teṣāṃ vilapitaṃ kṛcchram) and that of the grieving Aṅgada (aṅgadasya ca śocataḥ)!
+The foremost of bears and monkeys (_ṛkṣavānaramukhyāḥ_) attend upon you, the mighty one (_tvāṃ balinaṃ paryupāsate_); [hear] their anguished lamentation (_teṣāṃ vilapitaṃ kṛcchram_) and that of the grieving Aṅgada (_aṅgadasya ca śocataḥ_)!
 </details>
 </details>
 
@@ -346,7 +346,7 @@ once felled them in fights, or what? [3-23-6b, 7a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And hearing these words of mine (mama cemā giraḥ śrutvā), why do you not awaken (kiṃ tvaṃ na pratibudhyase)? Is this that hero's couch (idaṃ tad vīraśayanam) where you lie slain in battle (tatra śeṣe hato yudhi)—
+And hearing these words of mine (_mama cemā giraḥ śrutvā_), why do you not awaken (_kiṃ tvaṃ na pratibudhyase_)? Is this that hero&#x27;s couch (_idaṃ tad vīraśayanam_) where you lie slain in battle (_tatra śeṣe hato yudhi_)—
 </details>
 </details>
 
@@ -406,7 +406,7 @@ my dear, have you gone on leaving me without a protector and lonely? [3-23-7b, 8
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—where in former times (yatra purā) enemies slain by your very self (tvayaiva nihatā ripavaḥ) were made to lie (śāyitāḥ)! O you of pure courage and noble lineage (viśuddhasattvābhijana), O lover of battle (priyayuddha), O my beloved (mama priya)!
+—where in former times (_yatra purā_) enemies slain by your very self (_tvayaiva nihatā ripavaḥ_) were made to lie (_śāyitāḥ_)! O you of pure courage and noble lineage (_viśuddhasattvābhijana_), O lover of battle (_priyayuddha_), O my beloved (_mama priya_)!
 </details>
 </details>
 
@@ -459,7 +459,7 @@ places, uneducated, seekers of salvation, daring ones, un-wealthy brides shall n
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaving me behind, helpless and alone (mām anāthāṃ vihāyaikām), you have departed, O bestower of honor (mānada)! Truly, a maiden ought never to be given (na pradātavyā kanyā khalu) by a wise man (vipaścitā) to a hero (śūrāya)!
+Leaving me behind, helpless and alone (_mām anāthāṃ vihāyaikām_), you have departed, O bestower of honor (_mānada_)! Truly, a maiden ought never to be given (_na pradātavyā kanyā khalu_) by a wise man (_vipaścitā_) to a hero (_śūrāya_)!
 </details>
 </details>
 
@@ -511,7 +511,7 @@ boundless ocean called anguish. [3-23-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold me, the wife of a hero (śūrabhāryām), ruined (hatām) and instantly rendered a widow (sadyo māṃ vidhavāṃ kṛtām)! My pride is shattered (avabhagnaś ca me mānaḥ), and my eternal refuge [happiness] is broken (bhagnā me śāśvatī gatiḥ).
+Behold me, the wife of a hero (_śūrabhāryām_), ruined (_hatām_) and instantly rendered a widow (_sadyo māṃ vidhavāṃ kṛtām_)! My pride is shattered (_avabhagnaś ca me mānaḥ_), and my eternal refuge [happiness] is broken (_bhagnā me śāśvatī gatiḥ_).
 </details>
 </details>
 
@@ -564,7 +564,7 @@ into hundredfold even on seeing my husband killed, it is definite. [3-23-10b, 11
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am plunged into a fathomless, vast ocean of grief (agādhe ca nimagnāsmi vipule śokasāgare); surely this firm heart of mine (idam me hṛdayaṃ dṛḍham) is wrought of the core of stone [iron] (aśmasāramayaṃ nūnam)—
+I am plunged into a fathomless, vast ocean of grief (_agādhe ca nimagnāsmi vipule śokasāgare_); surely this firm heart of mine (_idam me hṛdayaṃ dṛḍham_) is wrought of the core of stone [iron] (_aśmasāramayaṃ nūnam_)—
 </details>
 </details>
 
@@ -617,7 +617,7 @@ the fifth state, the death. [3-23-11b, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—in that, beholding my husband slain (bhartāraṃ nihataṃ dṛṣṭvā), it is not rent into a hundred pieces today (yan nādya śatadhā kṛtam)! He who was my friend (suhṛc caiva), my husband (bhartā ca), and by very nature dear to me (prakṛtyā ca mama priyaḥ)—
+—in that, beholding my husband slain (_bhartāraṃ nihataṃ dṛṣṭvā_), it is not rent into a hundred pieces today (_yan nādya śatadhā kṛtam_)! He who was my friend (_suhṛc caiva_), my husband (_bhartā ca_), and by very nature dear to me (_prakṛtyā ca mama priyaḥ_)—
 </details>
 </details>
 
@@ -673,7 +673,7 @@ people will call her a widow, if she is without husband. [3-23-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—a hero valorous in the onset of battle (prahāre ca parākrāntaḥ śūraḥ), has gone to the cinque-state of death (pañcatvam āgataḥ)! Even if a woman bereft of her husband (patihīnā tu yā nārī) be blessed with a son (kāmaṃ bhavatu putriṇī)—
+—a hero valorous in the onset of battle (_prahāre ca parākrāntaḥ śūraḥ_), has gone to the cinque-state of death (_pañcatvam āgataḥ_)! Even if a woman bereft of her husband (_patihīnā tu yā nārī_) be blessed with a son (_kāmaṃ bhavatu putriṇī_)—
 </details>
 </details>
 
@@ -728,7 +728,7 @@ reclining on your own bed spread with a bed sheet of red blood colour? [3-23-13b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and even though she be rich in wealth and grain (dhanadhānyasamṛddhāpi), she is called a `widow' (vidhavety ucyate) by the people (janaiḥ)! You lie, O hero (vīra śeṣe), in a pool of blood (rudhiramaṇḍale) sprung from your own limbs (svagātraprabhave)—
+—and even though she be rich in wealth and grain (_dhanadhānyasamṛddhāpi_), she is called a `widow&#x27; (_vidhavety ucyate_) by the people (_janaiḥ_)! You lie, O hero (_vīra śeṣe_), in a pool of blood (_rudhiramaṇḍale_) sprung from your own limbs (_svagātraprabhave_)—
 </details>
 </details>
 
@@ -774,7 +774,7 @@ dust covering your body comes in between. [3-23-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—just as upon your own couch (svakīye śayane yathā) spread with a crimson coverlet (kṛmirāgaparistome)! Your body (gātraṃ tava), covered on all sides with dust and blood (reṇuśoṇitasaṃvītaṃ samantataḥ)—
+—just as upon your own couch (_svakīye śayane yathā_) spread with a crimson coverlet (_kṛmirāgaparistome_)! Your body (_gātraṃ tava_), covered on all sides with dust and blood (_reṇuśoṇitasaṃvītaṃ samantataḥ_)—
 </details>
 </details>
 
@@ -828,7 +828,7 @@ too, is evanished. [3-23-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—I am unable to embrace (parirabdhuṃ na śaknomi) with my arms (bhujābhyām), O bull among leapers (plavagarṣabha)! Today Sugrīva has accomplished his purpose (kṛtakṛtyo 'dya sugrīvaḥ) in this most dreadful enmity (vaire 'sminn atidāruṇe)—
+—I am unable to embrace (_parirabdhuṃ na śaknomi_) with my arms (_bhujābhyām_), O bull among leapers (_plavagarṣabha_)! Today Sugrīva has accomplished his purpose (_kṛtakṛtyo &#x27;dya sugrīvaḥ_) in this most dreadful enmity (_vaire &#x27;sminn atidāruṇe_)—
 </details>
 </details>
 
@@ -880,7 +880,7 @@ in your chest is hindering me to embrace you..." Thus wailed Tara. [3-23-16b, 17
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—he whose fear has been dispelled (yasya hṛtaṃ bhayam) by a single arrow loosed by Rāma (rāmavimuktena ekeṣuṇā)! By the shaft lodged in your heart (śareṇa hṛdi lagnena), in touching your body (gātrasaṃsparśane tava)—
+—he whose fear has been dispelled (_yasya hṛtaṃ bhayam_) by a single arrow loosed by Rāma (_rāmavimuktena ekeṣuṇā_)! By the shaft lodged in your heart (_śareṇa hṛdi lagnena_), in touching your body (_gātrasaṃsparśane tava_)—
 </details>
 </details>
 
@@ -932,7 +932,7 @@ of a firmly wedged sparkling snake from the cavity of a mound. [3-23-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—I am barred (vāryāmi), gazing upon you (tvāṃ nirīkṣantī) now that you have gone to death (tvayi pañcatvam āgate)!” Then Nīla (nīlaḥ) plucked out (udbabarha) the arrow that had pierced his body (śaraṃ tasya gātragataṃ tadā).
+—I am barred (_vāryāmi_), gazing upon you (_tvāṃ nirīkṣantī_) now that you have gone to death (_tvayi pañcatvam āgate_)!” Then Nīla (_nīlaḥ_) plucked out (_udbabarha_) the arrow that had pierced his body (_śaraṃ tasya gātragataṃ tadā_).
 </details>
 </details>
 
@@ -990,7 +990,7 @@ More brilliant days are indicated for the arrows of Rama as the dusky day of Val
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a blazing venomous serpent (dīptam āśīviṣaṃ yathā) lurking inside a mountain cavern (girigahvarasaṃlīnam), the luster even of that arrow (tasya bāṇasyāpi dyutiḥ) shone forth (babhau) as it was being drawn out (niṣkṛṣyamāṇasya).
+Like a blazing venomous serpent (_dīptam āśīviṣaṃ yathā_) lurking inside a mountain cavern (_girigahvarasaṃlīnam_), the luster even of that arrow (_tasya bāṇasyāpi dyutiḥ_) shone forth (_babhau_) as it was being drawn out (_niṣkṛṣyamāṇasya_).
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ from a mountain saturated with coppery mineral-ores. [3-23-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like beams from the sun (raśmer dinakarād iva) whose rays are checked by the crest of the setting mountain (astamastakasaṃruddha-), streams of blood (kṣatajadhārās tu) poured forth (petuḥ) on all sides from his wounds (vraṇebhyas tasya sarvaśaḥ)—
+Like beams from the sun (_raśmer dinakarād iva_) whose rays are checked by the crest of the setting mountain (_astamastakasaṃruddha-_), streams of blood (_kṣatajadhārās tu_) poured forth (_petuḥ_) on all sides from his wounds (_vraṇebhyas tasya sarvaśaḥ_)—
 </details>
 </details>
 
@@ -1105,7 +1105,7 @@ that valiant one who is summarily hit by the missile of Rama. [3-23-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—like torrents mingled with coppery red-chalk (tāmragairikasampṛktā dhārā iva) [cascading] from a mountain (dharādharāt). Wiping clean (vimārjantī) her husband who was strewn over with battle-dust (avakīrṇaṃ raṇareṇunā)—
+—like torrents mingled with coppery red-chalk (_tāmragairikasampṛktā dhārā iva_) [cascading] from a mountain (_dharādharāt_). Wiping clean (_vimārjantī_) her husband who was strewn over with battle-dust (_avakīrṇaṃ raṇareṇunā_)—
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ Angada whose eyes are coppery-red. [3-23-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—she bathed (siṣeca) that hero, struck down by the missile (astrasamāhatam), with tears born of her eyes (asrair nayanajaiḥ). Beholding her slain husband (dṛṣṭvā vinihataṃ patim) with all his limbs drenched in blood (rudhirokṣitasarvāṅgam)—
+—she bathed (_siṣeca_) that hero, struck down by the missile (_astrasamāhatam_), with tears born of her eyes (_asrair nayanajaiḥ_). Beholding her slain husband (_dṛṣṭvā vinihataṃ patim_) with all his limbs drenched in blood (_rudhirokṣitasarvāṅgam_)—
 </details>
 </details>
 
@@ -1211,7 +1211,7 @@ harnessed by sinful deeds. [3-23-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the lady Tārā (tārā... aṅganā) spoke to her tawny-eyed son Aṅgada (putram aṅgadam piṅgākṣam): “Behold, O son (paśya putra), the most dreadful final state (avasthāṃ paścimāṃ sudāruṇām) of your father (pituḥ)!
+—the lady Tārā (_tārā... aṅganā_) spoke to her tawny-eyed son Aṅgada (_putram aṅgadam piṅgākṣam_): “Behold, O son (_paśya putra_), the most dreadful final state (_avasthāṃ paścimāṃ sudāruṇām_) of your father (_pituḥ_)!
 </details>
 </details>
 
@@ -1261,7 +1261,7 @@ to Angada. [3-23-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The end (antaḥ) of the hostility (vairasya) provoked through sinful action (samprasaktasya pāpakarmaṇā) has arrived (gataḥ)! To him whose body gleams like the rising sun (bālasūryojjvalatanum) as he departs to Yama's abode (prayātaṃ yamasādanam)—
+The end (_antaḥ_) of the hostility (_vairasya_) provoked through sinful action (_samprasaktasya pāpakarmaṇā_) has arrived (_gataḥ_)! To him whose body gleams like the rising sun (_bālasūryojjvalatanum_) as he departs to Yama&#x27;s abode (_prayātaṃ yamasādanam_)—
 </details>
 </details>
 
@@ -1314,7 +1314,7 @@ sinewy arms saying, "father, I am Angada..." [3-23-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—offer salutation (abhivādaya), O son (putra), to the king, your honor-bestowing father (rājānaṃ pitaraṃ mānadām)!” Addressed thus (evam uktaḥ), he rose up (samutthāya) and clasped his father's feet (jagrāha caraṇau pituḥ)—
+—offer salutation (_abhivādaya_), O son (_putra_), to the king, your honor-bestowing father (_rājānaṃ pitaraṃ mānadām_)!” Addressed thus (_evam uktaḥ_), he rose up (_samutthāya_) and clasped his father&#x27;s feet (_jagrāha caraṇau pituḥ_)—
 </details>
 </details>
 
@@ -1375,7 +1375,7 @@ Thus Tara is addressing Vali in her anguish. [3-23-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—with his plump, rounded arms (bhujābhyāṃ pīnavṛttābhyām), saying, `I am Aṅgada!' (aṅgado 'ham iti bruvan). [Tārā said:] “To Aṅgada who is saluting you (abhivādayamānaṃ tvām aṅgadam), why, as in former times (yathā purā)—
+—with his plump, rounded arms (_bhujābhyāṃ pīnavṛttābhyām_), saying, `I am Aṅgada!&#x27; (_aṅgado &#x27;ham iti bruvan_). [Tārā said:] “To Aṅgada who is saluting you (_abhivādayamānaṃ tvām aṅgadam_), why, as in former times (_yathā purā_)—
 </details>
 </details>
 
@@ -1431,7 +1431,7 @@ cow that sits near her bull with its calf, when that bull is slain by a lion, ju
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—do you not speak (kimarthaṃ nābhibhāṣase) [the blessing], `Be long-lived, O son!' (dīrghāyur bhava putreti)? Accompanied by my son (ahaṃ putrasahāyā), I attend upon you who are bereft of consciousness (tvām upāse gatacetanam), like a cow with her calf (gauḥ savatseva) beside the bull of the herd (govṛṣam) just struck down by a lion (siṃhena pātitaṃ sadyaḥ)!
+—do you not speak (_kimarthaṃ nābhibhāṣase_) [the blessing], `Be long-lived, O son!&#x27; (_dīrghāyur bhava putreti_)? Accompanied by my son (_ahaṃ putrasahāyā_), I attend upon you who are bereft of consciousness (_tvām upāse gatacetanam_), like a cow with her calf (_gauḥ savatseva_) beside the bull of the herd (_govṛṣam_) just struck down by a lion (_siṃhena pātitaṃ sadyaḥ_)!
 </details>
 </details>
 
@@ -1495,7 +1495,7 @@ called ritual waters, and Tara is questioning him about her propriety to partici
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sacrificed (iṣṭvā) with the battle-sacrifice (saṃgrāmayajñena) whose lustral water was Rāma's weapon (rāmapraharaṇāmbhasā), how have you bathed in that concluding ritual bath (tasminn avabhṛthe snātaḥ) without me, your wedded wife (patnyā mayā vinā)?
+Having sacrificed (_iṣṭvā_) with the battle-sacrifice (_saṃgrāmayajñena_) whose lustral water was Rāma&#x27;s weapon (_rāmapraharaṇāmbhasā_), how have you bathed in that concluding ritual bath (_tasminn avabhṛthe snātaḥ_) without me, your wedded wife (_patnyā mayā vinā_)?
 </details>
 </details>
 
@@ -1551,7 +1551,7 @@ with your conduct in wars, I don't see it? [3-23-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That beloved golden necklace (śātakaumbhīṃ priyāṃ mālām) which was given to you by the king of the gods (yā dattā devarājena tava), pleased in battle (tuṣṭena saṃyuge)—why do I not see it upon you here (tāṃ te paśyāmi neha kim)?
+That beloved golden necklace (_śātakaumbhīṃ priyāṃ mālām_) which was given to you by the king of the gods (_yā dattā devarājena tava_), pleased in battle (_tuṣṭena saṃyuge_)—why do I not see it upon you here (_tāṃ te paśyāmi neha kim_)?
 </details>
 </details>
 
@@ -1607,7 +1607,7 @@ everything by its vastness. [3-23-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Royal splendor (rājyaśrīḥ) does not forsake you (na jahāti tvām) even though your life-breath has departed (gatāsum api), O bestower of honor (mānada), just as the radiance of the wheeling [setting] sun (sūryasyāvartamānasya... prabhā) does not forsake the king of mountains (śailarājam iva).
+Royal splendor (_rājyaśrīḥ_) does not forsake you (_na jahāti tvām_) even though your life-breath has departed (_gatāsum api_), O bestower of honor (_mānada_), just as the radiance of the wheeling [setting] sun (_sūryasyāvartamānasya... prabhā_) does not forsake the king of mountains (_śailarājam iva_).
 </details>
 </details>
 
@@ -1679,7 +1679,7 @@ me too, in its entirety. [3-23-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This wholesome counsel of mine (me vacaḥ pathyam idam) was not heeded by you (na tvayā kṛtam), nor was I able to restrain you (na cāsmi śaktā hi nivāraṇe tava); together with you who are slain in battle (hatena saṃyuge saha tvayā), I am ruined along with my son (hatā saputrāsmi), and royal fortune forsakes me as well (śrīr vijahāti mām api)!”
+This wholesome counsel of mine (_me vacaḥ pathyam idam_) was not heeded by you (_na tvayā kṛtam_), nor was I able to restrain you (_na cāsmi śaktā hi nivāraṇe tava_); together with you who are slain in battle (_hatena saṃyuge saha tvayā_), I am ruined along with my son (_hatā saputrāsmi_), and royal fortune forsakes me as well (_śrīr vijahāti mām api_)!”
 </details>
 </details>
 

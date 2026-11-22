@@ -96,7 +96,7 @@ with a group of birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That mighty one beheld a network of mansions (veśmajālam) fitted with lattices of cat's-eye gems and gold (vyāsaktavaidūryasuvarṇajālam) and filled with flocks of birds (savihaṅgajālam), resembling in the rainy season a great bank of clouds (mahat prāvṛṣi meghajālam) wrapped in lightning (vidyutpinaddham).
+That mighty one beheld a network of mansions (_veśmajālam_) fitted with lattices of cat&#x27;s-eye gems and gold (_vyāsaktavaidūryasuvarṇajālam_) and filled with flocks of birds (_savihaṅgajālam_), resembling in the rainy season a great bank of clouds (_mahat prāvṛṣi meghajālam_) wrapped in lightning (_vidyutpinaddham_).
 </details>
 </details>
 
@@ -160,7 +160,7 @@ and other weapons, and also heartening spacious attics at the top of mountain- l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he beheld diverse halls of the residences (niveśanānāṃ vividhāś ca śālāḥ), halls resplendent with foremost conchs, weapons, and bows (pradhānaśaṅkhāyudhacāpaśālāḥ), and charming, spacious rooftop moon-pavilions (manoharāś cāpi punar viśālāś candraśālāḥ) upon those mountain-like palaces (veśmādriṣu).
+And he beheld diverse halls of the residences (_niveśanānāṃ vividhāś ca śālāḥ_), halls resplendent with foremost conchs, weapons, and bows (_pradhānaśaṅkhāyudhacāpaśālāḥ_), and charming, spacious rooftop moon-pavilions (_manoharāś cāpi punar viśālāś candraśālāḥ_) upon those mountain-like palaces (_veśmādriṣu_).
 </details>
 </details>
 
@@ -219,7 +219,7 @@ devoid of all flaws and obtained by the self-might of rakshasas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkey beheld mansions radiant with manifold treasures (gṛhāṇi nānāvasurājitāni), highly honored even by gods and asuras (devāsuraiś cāpi supūjitāni), wholly free from every architectural defect (sarvaiś ca doṣaiḥ parivarjitāni), and won by his own might (svabalārjitāni);
+The monkey beheld mansions radiant with manifold treasures (_gṛhāṇi nānāvasurājitāni_), highly honored even by gods and _asuras_ (_devāsuraiś cāpi supūjitāni_), wholly free from every architectural defect (_sarvaiś ca doṣaiḥ parivarjitāni_), and won by his own might (_svabalārjitāni_);
 </details>
 </details>
 
@@ -282,7 +282,7 @@ constructed by Mayaa himself on earth with all best qualities.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld those mansions of the lord of Laṅkā (laṅkādhipater gṛhāṇi), carefully arranged with great effort (prayatnābhisamāhitāni), as though fashioned visibly by Maya himself (mayena sākṣād iva nirmitāni), and surpassing all others in every excellence upon the face of the earth (mahītale sarvaguṇottarāṇi).
+He beheld those mansions of the lord of Laṅkā (_laṅkādhipater gṛhāṇi_), carefully arranged with great effort (_prayatnābhisamāhitāni_), as though fashioned visibly by Maya himself (_mayena sākṣād iva nirmitāni_), and surpassing all others in every excellence upon the face of the earth (_mahītale sarvaguṇottarāṇi_).
 </details>
 </details>
 
@@ -343,7 +343,7 @@ suitable of Ravana's might
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he beheld a supreme mansion (gṛhottamam) having the form of a lofty cloud (ucchritamegharūpam), ravishing to the heart (manoharam), of lovely golden aspect (kāñcanacārurūpam), worthy of the rākṣasa lord's own might (rakṣo'dhipasyātmabalānurūpam), and of matchless beauty (apratirūparūpam),
+Then he beheld a supreme mansion (_gṛhottamam_) having the form of a lofty cloud (_ucchritamegharūpam_), ravishing to the heart (_manoharam_), of lovely golden aspect (_kāñcanacārurūpam_), worthy of the _rākṣasa_ lord&#x27;s own might (_rakṣo&#x27;dhipasyātmabalānurūpam_), and of matchless beauty (_apratirūparūpam_),
 </details>
 </details>
 
@@ -404,7 +404,7 @@ mountain covered by pollen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like heaven itself scattered down upon the surface of the earth (mahītale svargam iva prakīrṇam), blazing with splendor (śriyā jvalantam), strewn with manifold gems (bahuratnakīrṇam), and covered with the blossoms of diverse trees (nānātarūṇāṃ kusumāvakīrṇam) like a mountain peak dusted with flower-pollen (girer ivāgraṃ rajasāvakīrṇam).
+Like heaven itself scattered down upon the surface of the earth (_mahītale svargam iva prakīrṇam_), blazing with splendor (_śriyā jvalantam_), strewn with manifold gems (_bahuratnakīrṇam_), and covered with the blossoms of diverse trees (_nānātarūṇāṃ kusumāvakīrṇam_) like a mountain peak dusted with flower-pollen (_girer ivāgraṃ rajasāvakīrṇam_).
 </details>
 </details>
 
@@ -478,7 +478,7 @@ sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shining with the finest of women (nārīpravekair iva dīpyamānam) like a rain-cloud worshiped by flashes of lightning (taḍidbhir ambhodharam arcyamānam), and borne aloft by the foremost of swans (haṃsapravekair iva vāhyamānam), that well-fashioned aerial palace in the sky was endowed with radiant beauty (śriyā yutaṃ khe sukṛtaṃ vimānam).
+Shining with the finest of women (_nārīpravekair iva dīpyamānam_) like a rain-cloud worshiped by flashes of lightning (_taḍidbhir ambhodharam arcyamānam_), and borne aloft by the foremost of swans (_haṃsapravekair iva vāhyamānam_), that well-fashioned aerial palace in the sky was endowed with radiant beauty (_śriyā yutaṃ khe sukṛtaṃ vimānam_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ peak, looking picturesque with numerous minerals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a mountain peak variegated with manifold mineral ores (yathā nagāgraṃ bahudhātucitram), and like the vault of the sky variegated with planets and the Moon (yathā nabhaś ca grahacandracitram), he beheld that aerial palace, wondrously fashioned like a lovely cloud (yuktīkṛtacārumeghacitram) and variegated with manifold gems (vimānaṃ bahuratnacitram).
+Like a mountain peak variegated with manifold mineral ores (_yathā nagāgraṃ bahudhātucitram_), and like the vault of the sky variegated with planets and the Moon (_yathā nabhaś ca grahacandracitram_), he beheld that aerial palace, wondrously fashioned like a lovely cloud (_yuktīkṛtacārumeghacitram_) and variegated with manifold gems (_vimānaṃ bahuratnacitram_).
 </details>
 </details>
 
@@ -607,7 +607,7 @@ filaments and petals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therein the ground was fashioned full of ranges of mountains (mahī kṛtā parvatarājipūrṇā); the mountains were fashioned full of canopies of trees (śailāḥ kṛtā vṛkṣavitānapūrṇāḥ); the trees were fashioned full of canopies of blossoms (vṛkṣāḥ kṛtāḥ puṣpavitānapūrṇāḥ); and each blossom was fashioned full of filaments and petals (puṣpaṃ kṛtaṃ kesarapatrapūrṇam).
+Therein the ground was fashioned full of ranges of mountains (_mahī kṛtā parvatarājipūrṇā_); the mountains were fashioned full of canopies of trees (_śailāḥ kṛtā vṛkṣavitānapūrṇāḥ_); the trees were fashioned full of canopies of blossoms (_vṛkṣāḥ kṛtāḥ puṣpavitānapūrṇāḥ_); and each blossom was fashioned full of filaments and petals (_puṣpaṃ kṛtaṃ kesarapatrapūrṇam_).
 </details>
 </details>
 
@@ -671,7 +671,7 @@ and also lotuses together with filaments and forest that were the best and wonde
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-White mansions were fashioned therein (kṛtāni veśmāni ca pāṇḍurāṇi), and lotus-ponds with lovely blossoms (tathā supuṣpāṇy api puṣkarāṇi), and again lotuses complete with filaments (punaś ca padmāni sakesarāṇi), and variegated forests and noble lakes (vanāni citrāṇi sarovarāṇi).
+White mansions were fashioned therein (_kṛtāni veśmāni ca pāṇḍurāṇi_), and lotus-ponds with lovely blossoms (_tathā supuṣpāṇy api puṣkarāṇi_), and again lotuses complete with filaments (_punaś ca padmāni sakesarāṇi_), and variegated forests and noble lakes (_vanāni citrāṇi sarovarāṇi_).
 </details>
 </details>
 
@@ -736,7 +736,7 @@ distances.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There that great monkey beheld that great aerial palace named Puṣpaka (puṣpāhvayaṃ nāma mahāvimānam), shining brightly (virājamānam), shimmering with the rays of its gems (ratnaprabhābhiś ca vighūrṇamānam), and esteemed as the loftiest even among supreme palaces (veśmottamānām api coccamānam).
+There that great monkey beheld that great aerial palace named Puṣpaka (_puṣpāhvayaṃ nāma mahāvimānam_), shining brightly (_virājamānam_), shimmering with the rays of its gems (_ratnaprabhābhiś ca vighūrṇamānam_), and esteemed as the loftiest even among supreme palaces (_veśmottamānām api coccamānam_).
 </details>
 </details>
 
@@ -802,7 +802,7 @@ were arranged.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Birds fashioned of cat's-eye gems were made therein (kṛtāś ca vaidūryamayā vihaṅgāḥ), and likewise birds of silver and coral (rūpyapravālaiś ca tathā vihaṅgāḥ), serpents variegated with manifold precious metals (citrāś ca nānāvasubhir bhujaṅgāḥ), and comely-limbed steeds true to their noble breed (jātyānurūpās turagāḥ śubhāṅgāḥ).
+Birds fashioned of cat&#x27;s-eye gems were made therein (_kṛtāś ca vaidūryamayā vihaṅgāḥ_), and likewise birds of silver and coral (_rūpyapravālaiś ca tathā vihaṅgāḥ_), serpents variegated with manifold precious metals (_citrāś ca nānāvasubhir bhujaṅgāḥ_), and comely-limbed steeds true to their noble breed (_jātyānurūpās turagāḥ śubhāṅgāḥ_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ himself
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Birds were fashioned there with lovely faces and fair wings (kṛtā vihaṅgāḥ sumukhāḥ supakṣāḥ), bearing blossoms of coral and jāmbūnada gold upon their wings (pravālajāmbūnadapuṣpapakṣāḥ), with their curved wings gracefullyinclined (salīlam āvarjitajihmapakṣāḥ), shining like the very wings and allies of Love (kāmasya sākṣād iva bhānti pakṣāḥ);
+Birds were fashioned there with lovely faces and fair wings (_kṛtā vihaṅgāḥ sumukhāḥ supakṣāḥ_), bearing blossoms of coral and _jāmbūnada_ gold upon their wings (_pravālajāmbūnadapuṣpapakṣāḥ_), with their curved wings gracefullyinclined (_salīlam āvarjitajihmapakṣāḥ_), shining like the very wings and allies of Love (_kāmasya sākṣād iva bhānti pakṣāḥ_);
 </details>
 </details>
 
@@ -938,7 +938,7 @@ exist in Pushpaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And elephants with shapely trunks (gajāḥ suhastāḥ), covered with lotus-pollen and holding blue-lotus petals in their trunks (sakesarāś cotpalapatrahastāḥ), were fashioned engaged in their task (niyujyamānāḥ); and in a lotus-pool (padmini) the Goddess Lakṣmī was fashioned with shapely hands, holding a lotus in her hand (babhūva devī ca kṛtā suhastā lakṣmīs tathā padmahastā).
+And elephants with shapely trunks (_gajāḥ suhastāḥ_), covered with lotus-pollen and holding blue-lotus petals in their trunks (_sakesarāś cotpalapatrahastāḥ_), were fashioned engaged in their task (_niyujyamānāḥ_); and in a lotus-pool (_padmini_) the Goddess Lakṣmī was fashioned with shapely hands, holding a lotus in her hand (_babhūva devī ca kṛtā suhastā lakṣmīs tathā padmahastā_).
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ beautiful cave became surprised and saw (again).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus approached that splendid mansion (itīva tad gṛham abhigamya śobhanam), which was like a mountain with lovely caverns (nagam iva cārukandaram), and which again was supremely fragrant and beautiful (punaś ca tat paramasugandhi sundaram) like a mountain with lovely hollows at the end of winter (himātyaye nagam iva cārukandaram), he was filled with wonder (savismayaḥ).
+Having thus approached that splendid mansion (_itīva tad gṛham abhigamya śobhanam_), which was like a mountain with lovely caverns (_nagam iva cārukandaram_), and which again was supremely fragrant and beautiful (_punaś ca tat paramasugandhi sundaram_) like a mountain with lovely hollows at the end of winter (_himātyaye nagam iva cārukandaram_), he was filled with wonder (_savismayaḥ_).
 </details>
 </details>
 
@@ -1071,7 +1071,7 @@ worshipped by all and greatly conquered by the virtues of Her husband Sri Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that monkey, having reached and roamed through that honored city (caran purīm) protected by the arms of the ten-faced Rāvaṇa (daśamukhabāhupālitām), and not having seen that highly revered daughter of Janaka (adṛśya tāṃ janakasutāṃ supūjitām), who was sorely afflicted and overcome by the force of her husband's virtues (suduḥkhitāṃ patiguṇaveganirjitām)—
+Then that monkey, having reached and roamed through that honored city (_caran purīm_) protected by the arms of the ten-faced Rāvaṇa (_daśamukhabāhupālitām_), and not having seen that highly revered daughter of Janaka (_adṛśya tāṃ janakasutāṃ supūjitām_), who was sorely afflicted and overcome by the force of her husband&#x27;s virtues (_suduḥkhitāṃ patiguṇaveganirjitām_)—
 </details>
 </details>
 
@@ -1149,6 +1149,6 @@ about in the city of Lanka became greatly sorrowful on not seeing Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then at that time, the mind of that high-souled one (mahātmanaḥ manaḥ)—whose soul was meditatively purified in manifold ways (bahuvidhabhāvitātmanaḥ), who was self-mastered (kṛtātmanaḥ), who walked the noble path (suvartmanaḥ), and who was endowed with true vision (sacakṣuṣaḥ)—became exceedingly sorrowful (abhavad atiduḥkhitam) as he moved about without beholding Janaka's daughter (janakasutām apaśyataḥ).
+Then at that time, the mind of that high-souled one (_mahātmanaḥ manaḥ_)—whose soul was meditatively purified in manifold ways (_bahuvidhabhāvitātmanaḥ_), who was self-mastered (_kṛtātmanaḥ_), who walked the noble path (_suvartmanaḥ_), and who was endowed with true vision (_sacakṣuṣaḥ_)—became exceedingly sorrowful (_abhavad atiduḥkhitam_) as he moved about without beholding Janaka&#x27;s daughter (_janakasutām apaśyataḥ_).
 </details>
 </details>

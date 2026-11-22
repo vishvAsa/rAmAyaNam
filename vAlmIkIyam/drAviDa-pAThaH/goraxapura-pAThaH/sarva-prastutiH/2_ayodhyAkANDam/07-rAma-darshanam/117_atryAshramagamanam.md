@@ -88,7 +88,7 @@ pleasure to remain in that place for many reasons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the ascetics had departed (yāteṣu tapasviṣu), Rāghava, reflecting deeply (vicintayan), did not relish dwelling there any longer at that time for many reasons (kāraṇair bahubhiḥ):
+When the ascetics had departed (_yāteṣu tapasviṣu_), Rāghava, reflecting deeply (_vicintayan_), did not relish dwelling there any longer at that time for many reasons (_kāraṇair bahubhiḥ_):
 </details>
 </details>
 
@@ -143,7 +143,7 @@ me. That memory haunts me, who lament for them daily."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here Bharata was seen by me, together with my mothers and the citizens of Ayodhyā (mātaraś ca sanāgarāḥ); and as I continually grieve for them (tān nityam anuśocataḥ), that memory ever pursues me (sā ca me smṛtir anveti).
+“Here Bharata was seen by me, together with my mothers and the citizens of Ayodhyā (_mātaraś ca sanāgarāḥ_); and as I continually grieve for them (_tān nityam anuśocataḥ_), that memory ever pursues me (_sā ca me smṛtir anveti_).
 </details>
 </details>
 
@@ -197,7 +197,7 @@ caused much spoliation (around here)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, by that encampment of the army (skandhāvāraniveśena) of that high-souled prince, and by the dung of horses and elephants (hayahastikarīṣaiś ca), this place has been heavily trampled and fouled (upamardaḥ kṛto bhṛśam).”
+“Moreover, by that encampment of the army (_skandhāvāraniveśena_) of that high-souled prince, and by the dung of horses and elephants (_hayahastikarīṣaiś ca_), this place has been heavily trampled and fouled (_upamardaḥ kṛto bhṛśam_).”
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Lakshmana left that place.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reflected, “Therefore let us depart elsewhere (tasmād anyatra gacchāma),” Rāghava set forth (prātiṣṭhata), accompanied by Vaidehī and Lakṣmaṇa.
+Having reflected, “Therefore let us depart elsewhere (_tasmād anyatra gacchāma_),” Rāghava set forth (_prātiṣṭhata_), accompanied by Vaidehī and Lakṣmaṇa.
 </details>
 </details>
 
@@ -307,7 +307,7 @@ own son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching the hermitage of Sage Atri (atrer āśramam āsādya), that prince of great renown bowed in reverence to him (taṃ vavande); and the venerable Atri in turn received him like a son (putravat pratyapadyata).
+Reaching the hermitage of Sage Atri (_atrer āśramam āsādya_), that prince of great renown bowed in reverence to him (_taṃ vavande_); and the venerable Atri in turn received him like a son (_putravat pratyapadyata_).
 </details>
 </details>
 
@@ -362,7 +362,7 @@ rendered equal honour to Lakshmana and the highly blessed Seetha too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having personally directed that every hospitable reception be fittingly offered to him (svayam ātithyam ādiśya sarvam asya susatkṛtam), the sage affectionately consoled and greeted (samasāntvayat) Saumitri and the illustrious Sītā.
+Having personally directed that every hospitable reception be fittingly offered to him (_svayam ātithyam ādiśya sarvam asya susatkṛtam_), the sage affectionately consoled and greeted (_samasāntvayat_) Saumitri and the illustrious Sītā.
 </details>
 </details>
 
@@ -458,9 +458,9 @@ female ascetic to Rama (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Addressing his aged and revered wife (patnīṃ vṛddhām āmantrya satkṛtām) who had arrived there, that knower of dharma, ever devoted to the welfare of all beings (sarvabhūtahite rataḥ), spoke soothing words to her.
+**7:** Addressing his aged and revered wife (_patnīṃ vṛddhām āmantrya satkṛtām_) who had arrived there, that knower of dharma, ever devoted to the welfare of all beings (_sarvabhūtahite rataḥ_), spoke soothing words to her.
 
-**8:** “Do thou welcome and embrace Vaidehī (pratigṛhṇīṣva vaidehīm),” said the foremost of sages to the illustrious ascetic matron Anasūyā who walked in righteousness (tāpasīṃ dharmacāriṇīm); and to Rāma he recounted the glory of that righteous ascetic:
+**8:** “Do thou welcome and embrace Vaidehī (_pratigṛhṇīṣva vaidehīm_),” said the foremost of sages to the illustrious ascetic matron Anasūyā who walked in righteousness (_tāpasīṃ dharmacāriṇīm_); and to Rāma he recounted the glory of that righteous ascetic:
 </details>
 </details>
 
@@ -505,11 +505,11 @@ female ascetic to Rama (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “When the world was scorched continuously for ten years by drought (daśavarṣāṇy anāvṛṣṭyā dagdhe loke nirantaram), by her were roots and fruits created (yayā mūlaphale sṛṣṭe) and the river Jāhnavī made to flow here (jāhnavī ca pravartitā).
+**9:** “When the world was scorched continuously for ten years by drought (_daśavarṣāṇy anāvṛṣṭyā dagdhe loke nirantaram_), by her were roots and fruits created (_yayā mūlaphale sṛṣṭe_) and the river Jāhnavī made to flow here (_jāhnavī ca pravartitā_).
 
-**10:** “Endowed with fierce austerity (ugreṇa tapasā yuktā) and adorned with sacred observances (niyamaiś cāpy alaṅkṛtā), by her was mighty penance practiced for ten thousand years (daśavarṣasahasrāṇi).
+**10:** “Endowed with fierce austerity (_ugreṇa tapasā yuktā_) and adorned with sacred observances (_niyamaiś cāpy alaṅkṛtā_), by her was mighty penance practiced for ten thousand years (_daśavarṣasahasrāṇi_).
 
-**11:** “Bathed in sacred vows (vrataiḥ snātā), Anasūyā dispelled all obstacles to the sages' rites (pratyūhāś ca nivartitāḥ); and hastening on behalf of the cause of the gods (devakāryanimittaṃ ca), by her a single night was made into ten nights (daśarātraṃ kṛtā rātriḥ)—she is like a mother unto you, O sinless one (seyaṃ māteva te 'nagha).
+**11:** “Bathed in sacred vows (_vrataiḥ snātā_), Anasūyā dispelled all obstacles to the sages&#x27; rites (_pratyūhāś ca nivartitāḥ_); and hastening on behalf of the cause of the gods (_devakāryanimittaṃ ca_), by her a single night was made into ten nights (_daśarātraṃ kṛtā rātriḥ_)—she is like a mother unto you, O sinless one (_seyaṃ māteva te &#x27;nagha_).
 </details>
 </details>
 
@@ -595,7 +595,7 @@ hermittess, husband and accomplished the purpose of gods.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let Vaidehī approach this illustrious matron, worthy of salutation by all beings (sarvabhūtānāṃ namaskāryām), aged and ever free from wrath (vṛddhām akrodhanāṃ sadā), who through her deeds has won renown in the world as Anasūyā.”
+“Let Vaidehī approach this illustrious matron, worthy of salutation by all beings (_sarvabhūtānāṃ namaskāryām_), aged and ever free from wrath (_vṛddhām akrodhanāṃ sadā_), who through her deeds has won renown in the world as Anasūyā.”
 </details>
 </details>
 
@@ -655,7 +655,7 @@ as she is and though old is ever free from anger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having said “So be it (tathā)” to that sage who was speaking thus, Rāghava spoke this excellent word to Sītā, who knew the law of righteousness (dharmajñām):
+Having said “So be it (_tathā_)” to that sage who was speaking thus, Rāghava spoke this excellent word to Sītā, who knew the law of righteousness (_dharmajñām_):
 </details>
 </details>
 
@@ -708,7 +708,7 @@ virtuous Seetha, the following excellent words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O princess (rājaputri), you have heard this word uttered by this sage (muner asya samīritam); for the sake of your own highest welfare (śreyortham ātmanaḥ), quickly approach the ascetic matron (śīghram abhigaccha tapasvinīm).”
+“O princess (_rājaputri_), you have heard this word uttered by this sage (_muner asya samīritam_); for the sake of your own highest welfare (_śreyortham ātmanaḥ_), quickly approach the ascetic matron (_śīghram abhigaccha tapasvinīm_).”
 </details>
 </details>
 
@@ -760,7 +760,7 @@ saintly Anasuya without delay."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that word of Rāghava who ever desired her welfare (rāghavasya hitaiṣiṇaḥ), Sītā, princess of Mithilā, approached that dharma-knowing wife of Atri (tām atripatnīṃ dharmajñām abhicakrāma):
+Hearing that word of Rāghava who ever desired her welfare (_rāghavasya hitaiṣiṇaḥ_), Sītā, princess of Mithilā, approached that dharma-knowing wife of Atri (_tām atripatnīṃ dharmajñām abhicakrāma_):
 </details>
 </details>
 
@@ -813,7 +813,7 @@ Mithila circumambulated around Anasuya, Atri's wife, who knows piety.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Loosened in her bodily frame (śithilām), furrowed with wrinkles (valitām), aged (vṛddhām), with her hair turned white through old age (jarāpāṇḍaramūrdhajām), and her limbs trembling continually (satataṃ vepamānāṅgīm) like a plantain tree in a high wind (pravāte kadalī yathā).
+Loosened in her bodily frame (_śithilām_), furrowed with wrinkles (_valitām_), aged (_vṛddhām_), with her hair turned white through old age (_jarāpāṇḍaramūrdhajām_), and her limbs trembling continually (_satataṃ vepamānāṅgīm_) like a plantain tree in a high wind (_pravāte kadalī yathā_).
 </details>
 </details>
 
@@ -844,7 +844,7 @@ Loosened in her bodily frame (śithilām), furrowed with wrinkles (valitām), ag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With unflurried mind (avyagrā), Sītā bowed in salutation (abhyavādayat) to that illustrious and devoted wife Anasūyā (anasūyāṃ pativratām), and announced her own name (svanāma samudāharat).
+With unflurried mind (_avyagrā_), Sītā bowed in salutation (_abhyavādayat_) to that illustrious and devoted wife Anasūyā (_anasūyāṃ pativratām_), and announced her own name (_svanāma samudāharat_).
 </details>
 </details>
 
@@ -904,7 +904,7 @@ name to Anasuya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in salutation to that blameless ascetic matron (tāpasīṃ tām aninditām), Vaidehī, joyful and with her hands joined in reverence (baddhāñjalipuṭā hṛṣṭā), inquired after her bodily well-being (paryapṛcchad anāmayam).
+Having bowed in salutation to that blameless ascetic matron (_tāpasīṃ tām aninditām_), Vaidehī, joyful and with her hands joined in reverence (_baddhāñjalipuṭā hṛṣṭā_), inquired after her bodily well-being (_paryapṛcchad anāmayam_).
 </details>
 </details>
 
@@ -959,7 +959,7 @@ about he well-being.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding the illustrious Sītā walking in righteousness (tāṃ dharmacāriṇīm), that ascetic matron, rejoicing and speaking soothingly (sāntvayanty abravīd dhṛṣṭā), said: “By good fortune you have regard for dharma (diṣṭyā dharmam avekṣase)!
+Then, beholding the illustrious Sītā walking in righteousness (_tāṃ dharmacāriṇīm_), that ascetic matron, rejoicing and speaking soothingly (_sāntvayanty abravīd dhṛṣṭā_), said: “By good fortune you have regard for dharma (_diṣṭyā dharmam avekṣase_)!
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ rejoicingly spoke as follows: "Luckily enough, you are attending to righteousnes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having forsaken your kinsfolk (tyaktvā jñātijanam), O Sītā, as well as pride and royal affluence (mānam ṛddhiṃ ca), O noble lady (bhāmini), by good fortune you follow Rāma who is confined to the forest (avaruddhaṃ vane rāmam)!
+“Having forsaken your kinsfolk (_tyaktvā jñātijanam_), O Sītā, as well as pride and royal affluence (_mānam ṛddhiṃ ca_), O noble lady (_bhāmini_), by good fortune you follow Rāma who is confined to the forest (_avaruddhaṃ vane rāmam_)!
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ prosperity, you are accompanying Rama, who is expelled into a forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether he dwells in a city or in a forest (nagarastho vanastho vā), whether he be sinful or auspicious (pāpo vā yadi vā śubhaḥ), for those women to whom their husband is dear (yāsāṃ strīṇāṃ priyo bhartā), worlds of supreme felicity await (tāsāṃ lokā mahodayāḥ).
+“Whether he dwells in a city or in a forest (_nagarastho vanastho vā_), whether he be sinful or auspicious (_pāpo vā yadi vā śubhaḥ_), for those women to whom their husband is dear (_yāsāṃ strīṇāṃ priyo bhartā_), worlds of supreme felicity await (_tāsāṃ lokā mahodayāḥ_).
 </details>
 </details>
 
@@ -1121,7 +1121,7 @@ is dear no matter whether he lives in a city or in a forest; whether he is sinfu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether he be of ill conduct (duḥśīlaḥ), self-willed in his desires (kāmavṛtto vā), or destitute of wealth (dhanair vā parivarjitaḥ), for women of noble nature (strīṇām āryasvabhāvānām) the husband is the supreme deity (paramaṃ daivataṃ patiḥ).
+“Whether he be of ill conduct (_duḥśīlaḥ_), self-willed in his desires (_kāmavṛtto vā_), or destitute of wealth (_dhanair vā parivarjitaḥ_), for women of noble nature (_strīṇām āryasvabhāvānām_) the husband is the supreme deity (_paramaṃ daivataṃ patiḥ_).
 </details>
 </details>
 
@@ -1181,7 +1181,7 @@ ill-behaved or licentious or devoid of riches."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Reflecting carefully (vimṛśanty aham), O Vaidehī, I behold no kinsman superior to a husband (nāto viśiṣṭaṃ paśyāmi bāndhavam), who is serviceable in every state like imperishable ascetic merit (sarvatrayogyaṃ tapaḥkṛtam ivāvyayam).
+“Reflecting carefully (_vimṛśanty aham_), O Vaidehī, I behold no kinsman superior to a husband (_nāto viśiṣṭaṃ paśyāmi bāndhavam_), who is serviceable in every state like imperishable ascetic merit (_sarvatrayogyaṃ tapaḥkṛtam ivāvyayam_).
 </details>
 </details>
 
@@ -1234,7 +1234,7 @@ who protects his wife in all circumstances, like the imperishable fruit of one's
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet evil women (asatstriyaḥ), whose hearts are enslaved to lust (kāmavaktavyahṛdayāḥ) and who roam about dominating their husbands (bhartṛnāthāś caranti yāḥ), do not discern this merit and fault (guṇadoṣam).
+“Yet evil women (_asatstriyaḥ_), whose hearts are enslaved to lust (_kāmavaktavyahṛdayāḥ_) and who roam about dominating their husbands (_bhartṛnāthāś caranti yāḥ_), do not discern this merit and fault (_guṇadoṣam_).
 </details>
 </details>
 
@@ -1288,7 +1288,7 @@ aforesaid manner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Falling under the sway of forbidden deeds (akāryavaśam āpannāḥ), O Maithilī, women of that sort verily incur infamy (ayaśaś caiva) and a fall from righteousness (dharmabhraṃśaṃ ca).
+“Falling under the sway of forbidden deeds (_akāryavaśam āpannāḥ_), O Maithilī, women of that sort verily incur infamy (_ayaśaś caiva_) and a fall from righteousness (_dharmabhraṃśaṃ ca_).
 </details>
 </details>
 
@@ -1342,7 +1342,7 @@ their husbands reap infamy and decline in righteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Women like you, however (tvadvidhās tu), endowed with noble virtues (guṇair yuktāḥ) and discerning the truth of the higher and lower worlds (dṛṣṭalokaparāvarāḥ), shall roam in heaven just like performers of righteous deeds (yathā dharmakṛtas tathā).
+“Women like you, however (_tvadvidhās tu_), endowed with noble virtues (_guṇair yuktāḥ_) and discerning the truth of the higher and lower worlds (_dṛṣṭalokaparāvarāḥ_), shall roam in heaven just like performers of righteous deeds (_yathā dharmakṛtas tathā_).
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ performed meritorious deeds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, remaining devoted to him in this manner (tad evam enaṃ tvam anuvratā satī) and following the sacred code of chaste wives (pativratānāṃ samayānuvartinī), be thou your husband’s companion in dharma (bhavasva bhartuḥ sahadharmacāriṇī); thereby you shall attain both renown and righteousness (yaśaś ca dharmaṃ ca tataḥ samāpsyasi).”
+“Therefore, remaining devoted to him in this manner (_tad evam enaṃ tvam anuvratā satī_) and following the sacred code of chaste wives (_pativratānāṃ samayānuvartinī_), be thou your husband’s companion in dharma (_bhavasva bhartuḥ sahadharmacāriṇī_); thereby you shall attain both renown and righteousness (_yaśaś ca dharmaṃ ca tataḥ samāpsyasi_).”
 </details>
 </details>
 

@@ -85,7 +85,7 @@ tears rolling in eyes and also voice trembling with tears said this to Rama. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the afflicted (ārtena) Rāma, the Vānara Sugrīva, with joined palms (prāñjaliḥ) and voice choked with tears (bāṣpagadgadaḥ), spoke these tearful words:
+Thus addressed by the afflicted (_ārtena_) Rāma, the Vānara Sugrīva, with joined palms (_prāñjaliḥ_) and voice choked with tears (_bāṣpagadgadaḥ_), spoke these tearful words:
 </details>
 </details>
 
@@ -138,7 +138,7 @@ demon from a sinister dynasty, in any wise... [4-7-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not know at all (sarvathā) the abode (nilayam) of that sinful Rākṣasa, nor his capability (sāmarthyam), nor his valor (vikramam), nor the lineage of that base-born wretch (dauṣkuleyasya vā kulam).
+“I do not know at all (_sarvathā_) the abode (_nilayam_) of that sinful Rākṣasa, nor his capability (_sāmarthyam_), nor his valor (_vikramam_), nor the lineage of that base-born wretch (_dauṣkuleyasya vā kulam_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ Maithili therefor I strive to make effort, let anguish be discarded... [4-7-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet I solemnly pledge to you in truth (satyaṃ tu pratijānāmi)—cast off your grief, O tamer of foes! I shall make such effort (tathā yatnam) that you shall regain Maithilī.
+“Yet I solemnly pledge to you in truth (_satyaṃ tu pratijānāmi_)—cast off your grief, O tamer of foes! I shall make such effort (_tathā yatnam_) that you shall regain Maithilī.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ as to how to you pride yourself thereby, I will make it happen in that way in no
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain Rāvaṇa together with his host (sagaṇam) and satisfied my own manly valor (paritoṣyātmapauruṣam) [or: having satisfied you by my valor], before long I shall act in such a way (tathāsmi kartā) that you shall be pleased.
+“Having slain Rāvaṇa together with his host (_sagaṇam_) and satisfied my own manly valor (_paritoṣyātmapauruṣam_) [or: having satisfied you by my valor], before long I shall act in such a way (_tathāsmi kartā_) that you shall be pleased.
 </details>
 </details>
 
@@ -295,7 +295,7 @@ unseemly for persons of your sort to have this kind of mental ineptness... [4-7-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough of giving way to despondency (alaṃ vaiklavyaṃ ālambya); remember the fortitude innate within yourself (dhairyam ātmagataṃ smara)! Such lightness of mind (buddhilāghavam) does not befit men like you (tvadvidhānāṃ na sadṛśam).
+“Enough of giving way to despondency (_alaṃ vaiklavyaṃ ālambya_); remember the fortitude innate within yourself (_dhairyam ātmagataṃ smara_)! Such lightness of mind (_buddhilāghavam_) does not befit men like you (_tvadvidhānāṃ na sadṛśam_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ not despair this way, nor I have forsaken my courage... [4-7-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By me too a great calamity born of separation from my wife (bhāryāvirahajaṃ mahat) has been experienced; yet I do not grieve thus, nor do I abandon my fortitude (dhairyaṃ na ca parityaje).
+“By me too a great calamity born of separation from my wife (_bhāryāvirahajaṃ mahat_) has been experienced; yet I do not grieve thus, nor do I abandon my fortitude (_dhairyaṃ na ca parityaje_).
 </details>
 </details>
 
@@ -412,7 +412,7 @@ wife, why tell about a great soul like you who are well read and courageous... [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even though I am an ordinary monkey (prākṛto vānaro 'pi san), I do not grieve thus over her—how much less (kiṃ punaḥ) one who is great-souled (mahātmā), self-disciplined (vinītaḥ), steadfast (dhṛtimān), and great [or: you (bhavān)]!
+“Even though I am an ordinary monkey (_prākṛto vānaro &#x27;pi san_), I do not grieve thus over her—how much less (_kiṃ punaḥ_) one who is great-souled (_mahātmā_), self-disciplined (_vinītaḥ_), steadfast (_dhṛtimān_), and great [or: you (_bhavān_)]!
 </details>
 </details>
 
@@ -464,7 +464,7 @@ of you to discard the courage and propriety of self-controlled people... [4-7-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You ought to restrain with fortitude (dhairyān nigrahītuṃ tvam arhasi) the tears that have welled up; you ought not to abandon firmness (dhṛtim), the moral boundary of the resolute (maryādāṃ sattvayuktānām).
+“You ought to restrain with fortitude (_dhairyān nigrahītuṃ tvam arhasi_) the tears that have welled up; you ought not to abandon firmness (_dhṛtim_), the moral boundary of the resolute (_maryādāṃ sattvayuktānām_).
 </details>
 </details>
 
@@ -517,7 +517,7 @@ courageous one does not sink down, but indeed introspects in his own mind... [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether in calamity (vyasane), or in financial distress (arthakṛcchre), or in mortal peril (bhaye vā jīvitāntage), a steadfast man (dhṛtimān), deliberating with his own intellect (vimṛśaṃś ca svayā buddhyā), never despairs (nāvasīdati).
+“Whether in calamity (_vyasane_), or in financial distress (_arthakṛcchre_), or in mortal peril (_bhaye vā jīvitāntage_), a steadfast man (_dhṛtimān_), deliberating with his own intellect (_vimṛśaṃś ca svayā buddhyā_), never despairs (_nāvasīdati_).
 </details>
 </details>
 
@@ -570,7 +570,7 @@ himself, and he drowns down in that melancholy like a overweighing ship in water
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But a foolish man (bāliśas tu naro) who constantly gives way to despondency (vaiklavyaṃ yo 'nuvartate) sinks helplessly in grief (sa majjaty avaśaḥ śoke), like a heavily laden boat in water (bhārākrānteva naur jale).
+“But a foolish man (_bāliśas tu naro_) who constantly gives way to despondency (_vaiklavyaṃ yo &#x27;nuvartate_) sinks helplessly in grief (_sa majjaty avaśaḥ śoke_), like a heavily laden boat in water (_bhārākrānteva naur jale_).
 </details>
 </details>
 
@@ -622,7 +622,7 @@ self-esteem and you should not give any leeway to sadness... [4-7-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here I join my palms in supplication (eṣo 'ñjalir mayā baddhaḥ); out of affectionate friendship (praṇayāt) I beseech you: resort to your heroic valor (pauruṣaṃ śraya)! You ought not to give any opening (antaram) to grief.
+“Here I join my palms in supplication (_eṣo &#x27;ñjalir mayā baddhaḥ_); out of affectionate friendship (_praṇayāt_) I beseech you: resort to your heroic valor (_pauruṣaṃ śraya_)! You ought not to give any opening (_antaram_) to grief.
 </details>
 </details>
 
@@ -674,7 +674,7 @@ brilliance too dwindles, thus saddening is inapt on your part... [4-7-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For those who yield to grief (ye śokam anuvartante), there is no happiness, and their vital luster wastes away (tejaś ca kṣīyate teṣām); therefore you ought not to grieve.”
+“For those who yield to grief (_ye śokam anuvartante_), there is no happiness, and their vital luster wastes away (_tejaś ca kṣīyate teṣām_); therefore you ought not to grieve.”
 </details>
 </details>
 
@@ -734,7 +734,7 @@ that sadness and just hold on to courage...[4-7-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For one overwhelmed by grief (śokenābhiprapannasya), there is doubt even as to his survival (jīvite cāpi saṃśayaḥ); therefore cast off grief, O lord of kings, and resort solely to fortitude (dhairyam āśraya kevalam)!
+“For one overwhelmed by grief (_śokenābhiprapannasya_), there is doubt even as to his survival (_jīvite cāpi saṃśayaḥ_); therefore cast off grief, O lord of kings, and resort solely to fortitude (_dhairyam āśraya kevalam_)!
 </details>
 </details>
 
@@ -786,7 +786,7 @@ regard my friendship then your saddening is inapt..." [Thus said Sugreeva to Ram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of the bond of friendship (vayasyabhāvena) I speak [or: tell me] what is wholesome (hitam); I do not presume to instruct you (nopadiśāmi te). Honoring my friendship (vayasyatāṃ pūjayan me), you ought not to grieve.”
+“Out of the bond of friendship (_vayasyabhāvena_) I speak [or: tell me] what is wholesome (_hitam_); I do not presume to instruct you (_nopadiśāmi te_). Honoring my friendship (_vayasyatāṃ pūjayan me_), you ought not to grieve.”
 </details>
 </details>
 
@@ -841,7 +841,7 @@ which is covered fully with tears. [4-7-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sweetly consoled (madhuraṃ sāntvitaḥ) by that Sugrīva, Rāghava wiped (pramārjayat) his tear-moistened face (mukham aśrupariklinnam) with the hem of his garment (vastrāntena).
+Sweetly consoled (_madhuraṃ sāntvitaḥ_) by that Sugrīva, Rāghava wiped (_pramārjayat_) his tear-moistened face (_mukham aśrupariklinnam_) with the hem of his garment (_vastrāntena_).
 </details>
 </details>
 
@@ -896,7 +896,7 @@ embracing him Rama said this sentence to him. [4-7-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Restored to his natural composure (prakṛtisthas tu) through Sugrīva's words, the lord Kākutstha warmly embraced Sugrīva (sampariṣvajya sugrīvam) and spoke these words:
+Restored to his natural composure (_prakṛtisthas tu_) through Sugrīva&#x27;s words, the lord Kākutstha warmly embraced Sugrīva (_sampariṣvajya sugrīvam_) and spoke these words:
 </details>
 </details>
 
@@ -948,7 +948,7 @@ and a timely one too, is what you have performed with your friendly advise... [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever ought to be done by an affectionate (snigdhena) and well-wishing friend (hitena ca vayasyena)—fitting (anurūpam) and proper (yuktaṃ ca)—that has been done by you, O Sugrīva!
+“Whatever ought to be done by an affectionate (_snigdhena_) and well-wishing friend (_hitena ca vayasyena_)—fitting (_anurūpam_) and proper (_yuktaṃ ca_)—that has been done by you, O Sugrīva!
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ impossible to get this kind of friend, especially at these times... [4-7-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And here I am restored to my natural state (prakṛtistho 'ham), conciliated by you (anunītas tvayā), O friend; for such a kinsman (īdṛśo bandhuḥ) is hard to find (durlabhaḥ), especially at this time [of adversity]!
+“And here I am restored to my natural state (_prakṛtistho &#x27;ham_), conciliated by you (_anunītas tvayā_), O friend; for such a kinsman (_īdṛśo bandhuḥ_) is hard to find (_durlabhaḥ_), especially at this time [of adversity]!
 </details>
 </details>
 
@@ -1059,7 +1059,7 @@ your endeavour... [4-7-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nevertheless, effort must be made by you in the search for Maithilī (maithilyāḥ parimārgaṇe), and for that fierce, evil-minded Rākṣasa Rāvaṇa.
+“Nevertheless, effort must be made by you in the search for Maithilī (_maithilyāḥ parimārgaṇe_), and for that fierce, evil-minded Rākṣasa Rāvaṇa.
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ will reap like the crops planted during rainy season in good lands... [4-7-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever is to be performed by me (mayā ca yad anuṣṭheyam), let that be spoken by you with full confidence (visrabdhena); like [seed sown] in a fertile field during the rains (varṣāsv iva ca sukṣetre), everything of yours shall come to fruition (sarvaṃ sampadyate tava).
+“And whatever is to be performed by me (_mayā ca yad anuṣṭheyam_), let that be spoken by you with full confidence (_visrabdhena_); like [seed sown] in a fertile field during the rains (_varṣāsv iva ca sukṣetre_), everything of yours shall come to fruition (_sarvaṃ sampadyate tava_).
 </details>
 </details>
 
@@ -1163,7 +1163,7 @@ tigerly-monkey, deem them as doubtless facts... [4-7-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this word that has been uttered by me out of heroic pride (abhimānāt samīritam)—let that be firmly held by you as the very truth (tattvam ity upadhāryatām), O tiger among monkeys (hariśārdūla)!
+“And this word that has been uttered by me out of heroic pride (_abhimānāt samīritam_)—let that be firmly held by you as the very truth (_tattvam ity upadhāryatām_), O tiger among monkeys (_hariśārdūla_)!
 </details>
 </details>
 
@@ -1223,7 +1223,7 @@ I am promising you taking oath on that truthfulness alone.. [4-7-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A falsehood (anṛtam) has never been spoken by me before (noktapūrvaṃ me), nor shall I ever speak one (na ca vakṣye kadācana); this I promise you—by Truth itself do I swear (satyenaiva śapāmy aham)!”
+“A falsehood (_anṛtam_) has never been spoken by me before (_noktapūrvaṃ me_), nor shall I ever speak one (_na ca vakṣye kadācana_); this I promise you—by Truth itself do I swear (_satyenaiva śapāmy aham_)!”
 </details>
 </details>
 
@@ -1275,7 +1275,7 @@ gladdened, especially of Rama promise. [4-7-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva rejoiced exceedingly (prahṛṣṭaḥ) together with his Vānara ministers upon hearing Rāghava's speech, especially his solemn pledge (pratijñātaṃ viśeṣataḥ).
+Then Sugrīva rejoiced exceedingly (_prahṛṣṭaḥ_) together with his Vānara ministers upon hearing Rāghava&#x27;s speech, especially his solemn pledge (_pratijñātaṃ viśeṣataḥ_).
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ mutually befitting manner about their pleasures and pains. [4-7-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus united in intimate confidence (ekāntasampṛktau), those two—man and Vānara (naravānarau)—then spoke to each other of their corresponding joy and sorrow (anyonya-sadṛśaṃ sukhaṃ duḥkham abhāṣatām).
+Thus united in intimate confidence (_ekāntasampṛktau_), those two—man and Vānara (_naravānarau_)—then spoke to each other of their corresponding joy and sorrow (_anyonya-sadṛśaṃ sukhaṃ duḥkham abhāṣatām_).
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ manoeuvre to surpass his dominant brother Vali is accomplished. [4-7-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the speech of that magnanimous (mahānubhāvasya) overlord of kings (nṛpāṇām adhipasya), that wise chief of monkey heroes (harivīramukhyaḥ vidvān) then deemed his own purpose already accomplished in his heart (kṛtaṃ sa mene... kāryaṃ hṛdayena).
+Having heard the speech of that magnanimous (_mahānubhāvasya_) overlord of kings (_nṛpāṇām adhipasya_), that wise chief of monkey heroes (_harivīramukhyaḥ vidvān_) then deemed his own purpose already accomplished in his heart (_kṛtaṃ sa mene... kāryaṃ hṛdayena_).
 </details>
 </details>
 

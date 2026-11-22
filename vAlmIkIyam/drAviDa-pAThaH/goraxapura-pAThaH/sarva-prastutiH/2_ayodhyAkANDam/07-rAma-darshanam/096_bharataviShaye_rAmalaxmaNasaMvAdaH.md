@@ -86,7 +86,7 @@ set on the hill-side in order to gratify her appetite with a piece of flesh.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus shown that mountain-river (giri-nimnagām) to Maithilī (tāṃ tathā darśayitvā tu maithilīm), he sat down upon the mountain tableland (niṣasāda giri-prasthe), gratifying Sītā with venison (sītāṃ māṃsena chandayan).
+Having thus shown that mountain-river (_giri-nimnagām_) to Maithilī (_tāṃ tathā darśayitvā tu maithilīm_), he sat down upon the mountain tableland (_niṣasāda giri-prasthe_), gratifying Sītā with venison (_sītāṃ māṃsena chandayan_).
 </details>
 </details>
 
@@ -132,7 +132,7 @@ Rama, whose mind was devoted to righteousness stayed there with Seetha, saying;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is pure and fit for sacrifice (idaṃ medhyam), this is savoury (idaṃ svādu), and this has been thoroughly roasted over the fire (niṣṭaptam idam agninā)”—speaking thus (evam), that righteous-souled Rāghava sat in the company of Sītā (āste sa dharmātmā sītayā saha rāghavaḥ).
+“This is pure and fit for sacrifice (_idaṃ medhyam_), this is savoury (_idaṃ svādu_), and this has been thoroughly roasted over the fire (_niṣṭaptam idam agninā_)”—speaking thus (_evam_), that righteous-souled Rāghava sat in the company of Sītā (_āste sa dharmātmā sītayā saha rāghavaḥ_).
 </details>
 </details>
 
@@ -185,7 +185,7 @@ approaching, ascended into the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While he was seated there in that manner (tathā tatrāsatas tasya), the army-dust and the tumult (sainya-reṇuś ca śabdaś ca) of the approaching Bharata (bharatasyopayāyinaḥ) rose into view, touching the very sky (prādur āstāṃ nabhas-spṛśau).
+While he was seated there in that manner (_tathā tatrāsatas tasya_), the army-dust and the tumult (_sainya-reṇuś ca śabdaś ca_) of the approaching Bharata (_bharatasyopayāyinaḥ_) rose into view, touching the very sky (_prādur āstāṃ nabhas-spṛśau_).
 </details>
 </details>
 
@@ -237,7 +237,7 @@ animal - troops, in rut, were tormented and fled in different directions from th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime (etasminn antare), terrified and harassed by that mighty clamour (trastāḥ śabdena mahatā tataḥ arditāḥ), the rutting herd-leaders fled toward all directions together with their herds (yūthapā mattāḥ sayūthā dudruvur diśaḥ).
+In the meantime (_etasminn antare_), terrified and harassed by that mighty clamour (_trastāḥ śabdena mahatā tataḥ arditāḥ_), the rutting herd-leaders fled toward all directions together with their herds (_yūthapā mattāḥ sayūthā dudruvur diśaḥ_).
 </details>
 </details>
 
@@ -292,7 +292,7 @@ animal-flock, running away from there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava heard that uproar raised by the army (sa taṃ sainya-samudbhūtaṃ śabdaṃ śuśrāva rāghavaḥ), and he beheld all those herd-leaders fleeing in panic (tāṃś ca vipradrutān sarvān yūthapān anvavaikṣata).
+Rāghava heard that uproar raised by the army (_sa taṃ sainya-samudbhūtaṃ śabdaṃ śuśrāva rāghavaḥ_), and he beheld all those herd-leaders fleeing in panic (_tāṃś ca vipradrutān sarvān yūthapān anvavaikṣata_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ Seeing those animals running away and hearing that clamour, Rama spoke to Lakshm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding them fleeing (tāṃś ca vidravato dṛṣṭvā) and hearing that mighty din (taṃ ca śrutvā ca nisvanam), Rāma spoke to Sumitrā’s son Lakṣmaṇa of blazing splendour (uvāca rāmaḥ saumitriṃ lakṣmaṇaṃ dīpta-tejasam):
+Beholding them fleeing (_tāṃś ca vidravato dṛṣṭvā_) and hearing that mighty din (_taṃ ca śrutvā ca nisvanam_), Rāma spoke to Sumitrā’s son Lakṣmaṇa of blazing splendour (_uvāca rāmaḥ saumitriṃ lakṣmaṇaṃ dīpta-tejasam_):
 </details>
 </details>
 
@@ -406,7 +406,7 @@ tumultuous sound as terrific as that of a roaring cloud. See what it is."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ah, Lakṣmaṇa, through you Sumitrā is blessed with a noble son (sumitrā suprajās tvayā); behold here (paśyeha)! A tumultuous roar is heard (tumulaḥ śrūyate svanaḥ), deep as the terrifying rumble of thunderclouds (bhīma-stanita-gambhīraḥ).
+“Ah, Lakṣmaṇa, through you Sumitrā is blessed with a noble son (_sumitrā suprajās tvayā_); behold here (_paśyeha_)! A tumultuous roar is heard (_tumulaḥ śrūyate svanaḥ_), deep as the terrifying rumble of thunderclouds (_bhīma-stanita-gambhīraḥ_).
 </details>
 </details>
 
@@ -485,9 +485,9 @@ hunt or some other savage beast."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** In the forest, herds of elephants, or buffaloes in the great woodland (gaja-yūthāni vā 'raṇye mahiṣā vā mahā-vane), and deer terrified by lions (vitrāsitā mṛgāḥ siṃhaiḥ), have suddenly fled toward all directions (sahasā pradrutā diśaḥ).
+**8:** In the forest, herds of elephants, or buffaloes in the great woodland (_gaja-yūthāni vā &#x27;raṇye mahiṣā vā mahā-vane_), and deer terrified by lions (_vitrāsitā mṛgāḥ siṃhaiḥ_), have suddenly fled toward all directions (_sahasā pradrutā diśaḥ_).
 
-**9:** Whether some king or prince (rājā vā rāja-mātro vā) is roaming in the forest on a royal hunt (mṛgayām aṭate vane), or whether some ferocious beast of prey is abroad (anyad vā śvāpadaṃ kiñcit), you ought to ascertain it, O Saumitri (saumitre jñātum arhasi).
+**9:** Whether some king or prince (_rājā vā rāja-mātro vā_) is roaming in the forest on a royal hunt (_mṛgayām aṭate vane_), or whether some ferocious beast of prey is abroad (_anyad vā śvāpadaṃ kiñcit_), you ought to ascertain it, O Saumitri (_saumitre jñātum arhasi_).
 </details>
 </details>
 
@@ -539,7 +539,7 @@ out soon, all this in an accurate manner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even for birds, O Lakṣmaṇa, this mountain is exceedingly difficult of access (suduścaro giriś cāyaṃ pakṣiṇām api lakṣmaṇa); therefore you should quickly ascertain the exact truth of all this (sarvam etad yathā-tattvam acirāj jñātum arhasi).”
+Even for birds, O Lakṣmaṇa, this mountain is exceedingly difficult of access (_suduścaro giriś cāyaṃ pakṣiṇām api lakṣmaṇa_); therefore you should quickly ascertain the exact truth of all this (_sarvam etad yathā-tattvam acirāj jñātum arhasi_).”
 </details>
 </details>
 
@@ -591,7 +591,7 @@ directions, saw towards eastern side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hastening at once (sa lakṣmaṇaḥ saṃtvaritaḥ) and climbing a flowering śāla tree (sālam āruhya puṣpitam), Lakṣmaṇa surveyed all the quarters (prekṣamāṇo diśaḥ sarvāḥ) and directed his gaze toward the eastern quarter (pūrvāṃ diśam udaikṣata).
+Hastening at once (_sa lakṣmaṇaḥ saṃtvaritaḥ_) and climbing a flowering _śāla_ tree (_sālam āruhya puṣpitam_), Lakṣmaṇa surveyed all the quarters (_prekṣamāṇo diśaḥ sarvāḥ_) and directed his gaze toward the eastern quarter (_pūrvāṃ diśam udaikṣata_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ and elephants accompanied by smart foot-soldiers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking toward the north (udaṅ-mukhaḥ prekṣamāṇaḥ), he beheld a vast army (dadarśa mahatīṃ camūm), crowded with chariots, steeds, and elephants (rathāśva-gaja-sambādhām) and arrayed with mail-clad foot-soldiers (yattair yuktāṃ padātibhiḥ).
+Looking toward the north (_udaṅ-mukhaḥ prekṣamāṇaḥ_), he beheld a vast army (_dadarśa mahatīṃ camūm_), crowded with chariots, steeds, and elephants (_rathāśva-gaja-sambādhām_) and arrayed with mail-clad foot-soldiers (_yattair yuktāṃ padātibhiḥ_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ chariots decorated with flags and spoke the following words also.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He reported to Rāma (śaśaṃsa rāmāya) that army teeming with horses and elephants (tām aśva-gaja-sampūrṇāṃ senām) and adorned with chariots and banners (ratha-dhvaja-vibhūṣitām), and spoke this word (vacanaṃ cedam abravīt):
+He reported to Rāma (_śaśaṃsa rāmāya_) that army teeming with horses and elephants (_tām aśva-gaja-sampūrṇāṃ senām_) and adorned with chariots and banners (_ratha-dhvaja-vibhūṣitām_), and spoke this word (_vacanaṃ cedam abravīt_):
 </details>
 </details>
 
@@ -757,7 +757,7 @@ your bow ready with a bow-string and arrows. Wear an armour."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let my noble brother extinguish the sacred fire (agniṃ saṃśamayatv āryaḥ), let Sītā betake herself to a mountain cavern (sītā ca bhajatāṃ guhām), and do you string your bow and make ready your arrows and coat of mail (sajyaṃ kuruṣva cāpaṃ ca śarāṃś ca kavacaṃ tathā)!”
+“Let my noble brother extinguish the sacred fire (_agniṃ saṃśamayatv āryaḥ_), let Sītā betake herself to a mountain cavern (_sītā ca bhajatāṃ guhām_), and do you string your bow and make ready your arrows and coat of mail (_sajyaṃ kuruṣva cāpaṃ ca śarāṃś ca kavacaṃ tathā_)!”
 </details>
 </details>
 
@@ -812,7 +812,7 @@ army do you think is this?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that Lakṣmaṇa, Rāma, the tiger among men (taṃ rāmaḥ puruṣa-vyāghro lakṣmaṇam), replied (pratyuvāca ha): “Pray look closely, dear Saumitri (aṅgāvekṣasva saumitre)—whose army do you deem this to be (kasyemāṃ manyase camūm)?”
+To that Lakṣmaṇa, Rāma, the tiger among men (_taṃ rāmaḥ puruṣa-vyāghro lakṣmaṇam_), replied (_pratyuvāca ha_): “Pray look closely, dear Saumitri (_aṅgāvekṣasva saumitre_)—whose army do you deem this to be (_kasyemāṃ manyase camūm_)?”
 </details>
 </details>
 
@@ -864,7 +864,7 @@ words, as though he was wishing to scorch the army.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa spoke these words (lakṣmaṇo vākyam abravīt), wrathful like a blazing fire (ruṣitaḥ pāvako yathā), as though he would burn that army to ashes (didhakṣann iva tāṃ senām):
+Thus addressed by Rāma (_evam uktas tu rāmeṇa_), Lakṣmaṇa spoke these words (_lakṣmaṇo vākyam abravīt_), wrathful like a blazing fire (_ruṣitaḥ pāvako yathā_), as though he would burn that army to ashes (_didhakṣann iva tāṃ senām_):
 </details>
 </details>
 
@@ -917,7 +917,7 @@ kingdom free of enemies, is coming here to kill both of us. It is clear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having received royal consecration (prāpyābhiṣecanam) and desiring his kingdom to be free of all rivals (sampannaṃ rājyam icchaṃs tu), Kaikeyī’s son Bharata (kaikeyyā bharataḥ sutaḥ) is clearly advancing to slay us both (vyaktam āvāṃ hantuṃ samabhyeti)!
+“Having received royal consecration (_prāpyābhiṣecanam_) and desiring his kingdom to be free of all rivals (_sampannaṃ rājyam icchaṃs tu_), Kaikeyī’s son Bharata (_kaikeyyā bharataḥ sutaḥ_) is clearly advancing to slay us both (_vyaktam āvāṃ hantuṃ samabhyeti_)!
 </details>
 </details>
 
@@ -973,7 +973,7 @@ chariot."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yonder shines in full view (eṣa vai samprakāśate) the tall, resplendent, branching emblem (sumahān śrīmān viṭapī)—upon his chariot gleams the lofty-boled kovidāra-tree banner (virājaty udgata-skandhaḥ kovidāra-dhvajo rathe).
+Yonder shines in full view (_eṣa vai samprakāśate_) the tall, resplendent, branching emblem (_sumahān śrīmān viṭapī_)—upon his chariot gleams the lofty-boled _kovidāra_-tree banner (_virājaty udgata-skandhaḥ kovidāra-dhvajo rathe_).
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ are beaming with delight, mounted on their elephants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting swift-footed steeds, these horsemen advance at will (bhajanty ete yathā-kāmam aśvān āruhya śīghragān), and mounting elephants, these riders shine in high spirits (ete bhrājanti saṃhṛṣṭā gajān āruhya sādinaḥ).
+Mounting swift-footed steeds, these horsemen advance at will (_bhajanty ete yathā-kāmam aśvān āruhya śīghragān_), and mounting elephants, these riders shine in high spirits (_ete bhrājanti saṃhṛṣṭā gajān āruhya sādinaḥ_).
 </details>
 </details>
 
@@ -1086,7 +1086,7 @@ itself, fully prepared with our weapons in our hands."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping our bows, O hero, let the two of us take up a vantage position upon the mountain (gṛhīta-dhanuṣau cāvāṃ giriṃ vīra śrayāvahai), or else let us stand our ground right here, clad in armour with weapons upraised (athavehaiva tiṣṭhāvaḥ sannaddhāv udyatāyudhau)!
+Grasping our bows, O hero, let the two of us take up a vantage position upon the mountain (_gṛhīta-dhanuṣau cāvāṃ giriṃ vīra śrayāvahai_), or else let us stand our ground right here, clad in armour with weapons upraised (_athavehaiva tiṣṭhāvaḥ sannaddhāv udyatāyudhau_)!
 </details>
 </details>
 
@@ -1163,9 +1163,9 @@ such Bharata as a foe who is coming here, deserves to be slain by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** O that he of the kovidāra banner may fall into our power in battle (api nau vaśam āgacchet kovidāra-dhvajo raṇe)! O that I may confront Bharata (api drakṣyāmi bharatam), on whose account (yat-kṛte) this grievous calamity has been incurred by you, O Rāghava, as well as by Sītā and by me (vyasanaṃ mahat tvayā rāghava samprāptaṃ sītayā ca mayā tathā)!
+**21:** O that he of the _kovidāra_ banner may fall into our power in battle (_api nau vaśam āgacchet kovidāra-dhvajo raṇe_)! O that I may confront Bharata (_api drakṣyāmi bharatam_), on whose account (_yat-kṛte_) this grievous calamity has been incurred by you, O Rāghava, as well as by Sītā and by me (_vyasanaṃ mahat tvayā rāghava samprāptaṃ sītayā ca mayā tathā_)!
 
-**22:** Bharata, on whose account you were deposed from your eternal kingdom, O Rāghava (yan-nimittaṃ bhavān rājyāc cyuto rāghava śāśvatāt), has arrived here as an enemy, O hero, and must surely be slain by me (samprāpto 'yam arir vīra bharato vadhya eva me).
+**22:** Bharata, on whose account you were deposed from your eternal kingdom, O Rāghava (_yan-nimittaṃ bhavān rājyāc cyuto rāghava śāśvatāt_), has arrived here as an enemy, O hero, and must surely be slain by me (_samprāpto &#x27;yam arir vīra bharato vadhya eva me_).
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ strikes down an aggressor."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I see no fault in slaying Bharata, O Rāghava (bharatasya vadhe doṣaṃ nāhaṃ paśyāmi rāghava); for no unrighteousness is incurred in cutting down those who have struck the first wrong (pūrvāpakāriṇāṃ tyāge na hy adharmo vidhīyate).
+I see no fault in slaying Bharata, O Rāghava (_bharatasya vadhe doṣaṃ nāhaṃ paśyāmi rāghava_); for no unrighteousness is incurred in cutting down those who have struck the first wrong (_pūrvāpakāriṇāṃ tyāge na hy adharmo vidhīyate_).
 </details>
 </details>
 
@@ -1272,7 +1272,7 @@ the entire earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata is the first aggressor and has abandoned righteousness, O Rāghava (pūrvāpakārī bharatas tyakta-dharmaś ca rāghava); when he is slain, do you rule the entire earth (etasmin nihate kṛtsnām anuśādhi vasundharām)!
+Bharata is the first aggressor and has abandoned righteousness, O Rāghava (_pūrvāpakārī bharatas tyakta-dharmaś ca rāghava_); when he is slain, do you rule the entire earth (_etasmin nihate kṛtsnām anuśādhi vasundharām_)!
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ by me today in battle, as a tree is crushed down by an elephant."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today let Kaikeyī, greedy for sovereignty (adya kaikeyī rājya-kāmukā), behold with bitter grief her son slain by me in battle (putraṃ hataṃ saṅkhye mayā paśyet suduḥkhārtā), like a tree snapped by an elephant (hasti-bhagnam iva drumam)!
+Today let Kaikeyī, greedy for sovereignty (_adya kaikeyī rājya-kāmukā_), behold with bitter grief her son slain by me in battle (_putraṃ hataṃ saṅkhye mayā paśyet suduḥkhārtā_), like a tree snapped by an elephant (_hasti-bhagnam iva drumam_)!
 </details>
 </details>
 
@@ -1392,7 +1392,7 @@ accomplices. Let the earth today be relieved of a great sinner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall slay Kaikeyī too, together with her accomplices and kinsfolk (kaikeyīṃ ca vadhiṣyāmi sānubandhāṃ sabāndhavām); let the earth today be freed from this great defilement (kaluṣeṇādya mahatā medinī parimucyatām)!
+I shall slay Kaikeyī too, together with her accomplices and kinsfolk (_kaikeyīṃ ca vadhiṣyāmi sānubandhāṃ sabāndhavām_); let the earth today be freed from this great defilement (_kaluṣeṇādya mahatā medinī parimucyatām_)!
 </details>
 </details>
 
@@ -1445,7 +1445,7 @@ kindled I shall scatter the enemy - battalions as a fire consumes the dry wood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, O bestower of honour (mānada), I shall unleash upon the enemy hosts (mokṣyāmi śatru-sainyeṣu) this long-pent wrath and dishonour (adyemaṃ saṃyataṃ krodham asatkāraṃ ca), like fire among dry thickets (kakṣeṣv iva hutāśanam).
+Today, O bestower of honour (_mānada_), I shall unleash upon the enemy hosts (_mokṣyāmi śatru-sainyeṣu_) this long-pent wrath and dishonour (_adyemaṃ saṃyataṃ krodham asatkāraṃ ca_), like fire among dry thickets (_kakṣeṣv iva hutāśanam_).
 </details>
 </details>
 
@@ -1500,7 +1500,7 @@ forest of Chitrakuta overflow with blood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cleaving the bodies of our foes with keen-whetted arrows (niśitaiḥ śaraiḥ bhindan śatru-śarīrāṇi), today I shall drench this forest of Citrakūṭa with blood (adyaitac citrakūṭasya kānanaṃ kariṣye śoṇitokṣitam).
+Cleaving the bodies of our foes with keen-whetted arrows (_niśitaiḥ śaraiḥ bhindan śatru-śarīrāṇi_), today I shall drench this forest of Citrakūṭa with blood (_adyaitac citrakūṭasya kānanaṃ kariṣye śoṇitokṣitam_).
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ struck down by me, be dragged about by savage beasts."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let beasts of prey drag about (śvāpadāḥ parikarṣantu) the elephants, steeds, and men slain by me (kuñjarāṃs turagāṃs tathā narāṃś ca nihatān mayā), their hearts cloven by my shafts (śarair nirbhinna-hṛdayān)!
+Let beasts of prey drag about (_śvāpadāḥ parikarṣantu_) the elephants, steeds, and men slain by me (_kuñjarāṃs turagāṃs tathā narāṃś ca nihatān mayā_), their hearts cloven by my shafts (_śarair nirbhinna-hṛdayān_)!
 </details>
 </details>
 
@@ -1622,7 +1622,7 @@ my debt to my bow and arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Bharata together with his army in this great battle (mahā-mṛdhe sasainyaṃ bharataṃ hatvā), without doubt I shall acquit myself of my debt to my arrows and my bow (śarāṇāṃ dhanuṣaś cāham anṛṇo 'smi bhaviṣyāmi na saṃśayaḥ)!”
+Having slain Bharata together with his army in this great battle (_mahā-mṛdhe sasainyaṃ bharataṃ hatvā_), without doubt I shall acquit myself of my debt to my arrows and my bow (_śarāṇāṃ dhanuṣaś cāham anṛṇo &#x27;smi bhaviṣyāmi na saṃśayaḥ_)!”
 </details>
 </details>
 

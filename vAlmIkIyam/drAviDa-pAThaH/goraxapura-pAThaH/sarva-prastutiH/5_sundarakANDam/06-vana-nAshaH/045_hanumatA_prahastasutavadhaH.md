@@ -63,7 +63,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, impelled by the Lord of the Rākṣasas (coditā rākṣasendreṇa), those seven sons of the ministers (mantriṇaḥ sutāḥ sapta), radiant as fire (saptārci-varcasaḥ), issued forth from that palace.
+Then, impelled by the Lord of the Rākṣasas (_coditā rākṣasendreṇa_), those seven sons of the ministers (_mantriṇaḥ sutāḥ sapta_), radiant as fire (_saptārci-varcasaḥ_), issued forth from that palace.
 </details>
 </details>
 
@@ -92,7 +92,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attended by a vast army (mahad-bala-parīvārāḥ), bearing bows and possessing great strength, they were accomplished in missiles, the foremost of masters of missiles (kṛtāstrāstra-vidāṃ śreṣṭhāḥ), and eager to excel one another in victory (paraspara-jayaiṣiṇaḥ).
+Attended by a vast army (_mahad-bala-parīvārāḥ_), bearing bows and possessing great strength, they were accomplished in missiles, the foremost of masters of missiles (_kṛtāstrāstra-vidāṃ śreṣṭhāḥ_), and eager to excel one another in victory (_paraspara-jayaiṣiṇaḥ_).
 </details>
 </details>
 
@@ -163,9 +163,9 @@ their bows inlaid with refined gold and looking colourful like clouds accompanie
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** In great chariots yoked with steeds (vāji-yuktair mahārathaiḥ), latticed with gold (hema-jāla-parikṣiptaiḥ), furnished with standards and pennants (dhvajavadbhiḥ patākibhiḥ), and thundering like the roar of rain-clouds (toyada-svana-nirghoṣaiḥ)—
+**3:** In great chariots yoked with steeds (_vāji-yuktair mahārathaiḥ_), latticed with gold (_hema-jāla-parikṣiptaiḥ_), furnished with standards and pennants (_dhvajavadbhiḥ patākibhiḥ_), and thundering like the roar of rain-clouds (_toyada-svana-nirghoṣaiḥ_)—
 
-**4:** —those warriors of boundless valor, rejoicing (saṃhṛṣṭāḥ), twanged their bows variegated with refined gold (tapta-kāñcana-citrāṇi cāpāni), looking like clouds flashing with lightning (taḍidvanta ivāmbudāḥ).
+**4:** —those warriors of boundless valor, rejoicing (_saṃhṛṣṭāḥ_), twanged their bows variegated with refined gold (_tapta-kāñcana-citrāṇi cāpāni_), looking like clouds flashing with lightning (_taḍidvanta ivāmbudāḥ_).
 </details>
 </details>
 
@@ -220,7 +220,7 @@ relatives and friends were tormented with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, learning that the Kiṅkaras had been slain (viditvā kiṃkarān hatān), their mothers (jananyas tāḥ), together with their kinsfolk and friends (sabāndhava-suhṛj-janāḥ), became bewildered with grief (śoka-sambhrāntāḥ).
+Thereupon, learning that the Kiṅkaras had been slain (_viditvā kiṃkarān hatān_), their mothers (_jananyas tāḥ_), together with their kinsfolk and friends (_sabāndhava-suhṛj-janāḥ_), became bewildered with grief (_śoka-sambhrāntāḥ_).
 </details>
 </details>
 
@@ -272,7 +272,7 @@ who was ready for battle and who stood on the archy gate-way motionless.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of mutual rivalry (paraspara-saṃgharṣāt), those warriors decked in ornaments of refined gold (tapta-kāñcana-bhūṣaṇāḥ) rushed upon Hanūmān, who stood poised upon the archway (toraṇastham avasthitam).
+Out of mutual rivalry (_paraspara-saṃgharṣāt_), those warriors decked in ornaments of refined gold (_tapta-kāñcana-bhūṣaṇāḥ_) rushed upon Hanūmān, who stood poised upon the archway (_toraṇastham avasthitam_).
 </details>
 </details>
 
@@ -335,7 +335,7 @@ discharging a shower of arrows, moved in different directions resembling rainy c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pouring forth a shower of arrows (sṛjanto bāṇa-vṛṣṭim) and thundering with the roar of their chariots (ratha-garjita-niḥsvanāḥ), those Rākṣasa-clouds (nairṛtāmbudāḥ) coursed about like rain-clouds in the monsoon season (prāvṛṭ-kāla ivāmbhodāḥ).
+Pouring forth a shower of arrows (_sṛjanto bāṇa-vṛṣṭim_) and thundering with the roar of their chariots (_ratha-garjita-niḥsvanāḥ_), those Rākṣasa-clouds (_nairṛtāmbudāḥ_) coursed about like rain-clouds in the monsoon season (_prāvṛṭ-kāla ivāmbhodāḥ_).
 </details>
 </details>
 
@@ -389,7 +389,7 @@ is concealed by incessant showers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covered over by those showers of arrows (avakīrṇas tābhiḥ śara-vṛṣṭibhiḥ), Hanūmān had his form concealed (abhavat saṃvṛtākāraḥ), like the king of mountains veiled by showers of rain (śailarāḍ iva vṛṣṭibhiḥ).
+Covered over by those showers of arrows (_avakīrṇas tābhiḥ śara-vṛṣṭibhiḥ_), Hanūmān had his form concealed (_abhavat saṃvṛtākāraḥ_), like the king of mountains veiled by showers of rain (_śailarāḍ iva vṛṣṭibhiḥ_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ chariots of those virile demons, useless.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coursing through the cloudless sky (vicaran vimale 'mbare), that swift-moving Vānara (āśucaraḥ kapiḥ) eluded their arrows (śarān vañcayāmāsa) as well as the onrushing speed of those heroes' chariots (ratha-vegāṃś ca vīrāṇām).
+Coursing through the cloudless sky (_vicaran vimale &#x27;mbare_), that swift-moving Vānara (_āśucaraḥ kapiḥ_) eluded their arrows (_śarān vañcayāmāsa_) as well as the onrushing speed of those heroes&#x27; chariots (_ratha-vegāṃś ca vīrāṇām_).
 </details>
 </details>
 
@@ -496,7 +496,7 @@ of Wind, playing with clouds brandishing a rain bow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sporting in the sky with those bow-wielders (krīḍan dhanuṣmadbhir vyomni), that hero shone forth just as the mighty Wind-god (mārutaḥ prabhuḥ) sports in the sky with rainbow-decked clouds (dhanuṣmadbhir meghaiḥ).
+Sporting in the sky with those bow-wielders (_krīḍan dhanuṣmadbhir vyomni_), that hero shone forth just as the mighty Wind-god (_mārutaḥ prabhuḥ_) sports in the sky with rainbow-decked clouds (_dhanuṣmadbhir meghaiḥ_).
 </details>
 </details>
 
@@ -548,7 +548,7 @@ those demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uttering a dreadful roar (kṛtvā ninadaṃ ghoram) and terrifying that great army (trāsayaṃs tāṃ mahācamūm), the valiant Hanūmān made a furious onslaught (cakāra vegam) among those Rākṣasas.
+Uttering a dreadful roar (_kṛtvā ninadaṃ ghoram_) and terrifying that great army (_trāsayaṃs tāṃ mahācamūm_), the valiant Hanūmān made a furious onslaught (_cakāra vegam_) among those Rākṣasas.
 </details>
 </details>
 
@@ -583,7 +583,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That tormentor of foes (paraṃtapaḥ) struck down some with the palm of his hand (talenābhihanat kāṃścit), some with his feet, battered some with his fists (muṣṭibhiś cāhanat), and tore some apart with his claws (nakhaiḥ kāṃścid vyadārayat).
+That tormentor of foes (_paraṃtapaḥ_) struck down some with the palm of his hand (_talenābhihanat kāṃścit_), some with his feet, battered some with his fists (_muṣṭibhiś cāhanat_), and tore some apart with his claws (_nakhaiḥ kāṃścid vyadārayat_).
 </details>
 </details>
 
@@ -661,7 +661,7 @@ itself on the ground, just by the roar made by Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some he crushed with his chest (pramamāthorasā kāṃścit), and others with his thighs (ūrubhyām aparān api); and some fell down upon the ground right there by his roar alone (tasyaiva nādena).
+Some he crushed with his chest (_pramamāthorasā kāṃścit_), and others with his thighs (_ūrubhyām aparān api_); and some fell down upon the ground right there by his roar alone (_tasyaiva nādena_).
 </details>
 </details>
 
@@ -713,7 +713,7 @@ with fear, fled in ten different directions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when those [seven ministers' sons] had perished (teṣv avasanneṣu) and fallen upon the ground (bhūmau nipatiteṣu ca), that entire army, afflicted with terror (bhayārditam), fled toward the ten directions (diśo daśa).
+Then, when those [seven ministers&#x27; sons] had perished (_teṣv avasanneṣu_) and fallen upon the ground (_bhūmau nipatiteṣu ca_), that entire army, afflicted with terror (_bhayārditam_), fled toward the ten directions (_diśo daśa_).
 </details>
 </details>
 
@@ -768,7 +768,7 @@ earth was filled with chariots which had their seats, banners and canopies broke
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The elephants trumpeted discordantly (vinedur visvaraṃ nāgāḥ), the steeds fell upon the ground (nipetur bhuvi vājinaḥ), and the earth became strewn with chariots whose interiors, standards, and parasols were shattered (bhagna-nīḍa-dhvaja-cchatraiḥ).
+The elephants trumpeted discordantly (_vinedur visvaraṃ nāgāḥ_), the steeds fell upon the ground (_nipetur bhuvi vājinaḥ_), and the earth became strewn with chariots whose interiors, standards, and parasols were shattered (_bhagna-nīḍa-dhvaja-cchatraiḥ_).
 </details>
 </details>
 
@@ -820,7 +820,7 @@ kinds of horrible voices.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, by the flowing blood (sravatā rudhireṇa), rivers were made visible along the roadways (sravantyo darśitāḥ pathi); and with various cries (vividhaiś ca svanaiḥ), Laṅkā resounded hideously at that time.
+Then, by the flowing blood (_sravatā rudhireṇa_), rivers were made visible along the roadways (_sravantyo darśitāḥ pathi_); and with various cries (_vividhaiś ca svanaiḥ_), Laṅkā resounded hideously at that time.
 </details>
 </details>
 
@@ -895,7 +895,7 @@ and being desirous of a combat with the other demons, again reached that archy d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain those haughty Rākṣasas (tān pravṛddhān vinihatya rākṣasān), that heroic Vānara of mighty strength and fierce valor (mahābalaś caṇḍa-parākramaḥ kapiḥ), eager to fight with other Rākṣasas (yuyutsur anyaiḥ punar eva rākṣasaiḥ), returned once again to that very archway (tad eva toraṇam).
+Having slain those haughty Rākṣasas (_tān pravṛddhān vinihatya rākṣasān_), that heroic Vānara of mighty strength and fierce valor (_mahābalaś caṇḍa-parākramaḥ kapiḥ_), eager to fight with other Rākṣasas (_yuyutsur anyaiḥ punar eva rākṣasaiḥ_), returned once again to that very archway (_tad eva toraṇam_).
 </details>
 </details>
 

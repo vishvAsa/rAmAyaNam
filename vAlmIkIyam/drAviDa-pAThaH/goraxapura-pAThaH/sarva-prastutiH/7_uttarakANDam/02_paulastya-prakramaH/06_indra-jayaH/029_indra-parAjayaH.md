@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when darkness had arisen (tatas tamasi sañjāte), all those gods and rākṣasas (sarve te deva-rākṣasāḥ), intoxicated with might (balonmattāḥ), fought on, slaughtering one another (sūdayantaḥ parasparam).
+Then, when darkness had arisen (_tatas tamasi sañjāte_), all those gods and rākṣasas (_sarve te deva-rākṣasāḥ_), intoxicated with might (_balonmattāḥ_), fought on, slaughtering one another (_sūdayantaḥ parasparam_).
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Then, when darkness had arisen (tatas tamasi sañjāte), all those gods and rāk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the vast army of the rākṣasas (rākṣasānāṃ bṛhad balam) was reduced by the divine host (devasainyena) to a single tenth left standing in battle (daśāṃśaṃ sthāpitaṃ yuddhe), while the rest were dispatched to Yama’s abode (śeṣaṃ nītaṃ yamakṣayam).
+Thereupon the vast army of the rākṣasas (_rākṣasānāṃ bṛhad balam_) was reduced by the divine host (_devasainyena_) to a single tenth left standing in battle (_daśāṃśaṃ sthāpitaṃ yuddhe_), while the rest were dispatched to Yama’s abode (_śeṣaṃ nītaṃ yamakṣayam_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that darkened battle (tasmiṃs tu tāmase yuddhe), all those gods and rākṣasas, fighting one another (yudhyamānāḥ parasparam), could no longer recognize each other (anyonyaṃ nābhyajānanta).
+In that darkened battle (_tasmiṃs tu tāmase yuddhe_), all those gods and rākṣasas, fighting one another (_yudhyamānāḥ parasparam_), could no longer recognize each other (_anyonyaṃ nābhyajānanta_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ In that darkened battle (tasmiṃs tu tāmase yuddhe), all those gods and rāk�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indra, Rāvaṇa, and the mighty Rāvaṇi (indraś ca rāvaṇaś caiva rāvaṇiś ca mahābalaḥ)—those three alone did not succumb to bewilderment (moham īyur na te trayaḥ) amid that enveloping net of darkness (tasmiṃs tamo-jāla-vṛte).
+Indra, Rāvaṇa, and the mighty Rāvaṇi (_indraś ca rāvaṇaś caiva rāvaṇiś ca mahābalaḥ_)—those three alone did not succumb to bewilderment (_moham īyur na te trayaḥ_) amid that enveloping net of darkness (_tasmiṃs tamo-jāla-vṛte_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Indra, Rāvaṇa, and the mighty Rāvaṇi (indraś ca rāvaṇaś caiva rāva�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding almost his entire army cut down in an instant (dṛṣṭvā balaṃ sarvaṃ ... nihataṃ kṣaṇāt), Rāvaṇa fell into fierce wrath (krodham abhyagamat tīvram) and let loose a thunderous roar (mahānādaṃ ca muktavān).
+Beholding almost his entire army cut down in an instant (_dṛṣṭvā balaṃ sarvaṃ ... nihataṃ kṣaṇāt_), Rāvaṇa fell into fierce wrath (_krodham abhyagamat tīvram_) and let loose a thunderous roar (_mahānādaṃ ca muktavān_).
 </details>
 </details>
 
@@ -212,7 +212,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In fury, the unassailable king addressed his charioteer standing upon the car (sūtaṃ ... syandanastham uvāca ha): “Drive me right through the midst of the enemy host all the way to its end (parasainyasya madhyena yāvad anto nayasva mām)!
+In fury, the unassailable king addressed his charioteer standing upon the car (_sūtaṃ ... syandanastham uvāca ha_): “Drive me right through the midst of the enemy host all the way to its end (_parasainyasya madhyena yāvad anto nayasva mām_)!
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Boasting that he will slay the thirty gods and their four world-guardians to rei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, by my own prowess in battle (vikramaiḥ samare svayam), I shall dispatch all these thirty gods (tridaśān sarvān) to Yama’s mansion (nayāmi yamasādanam) with manifold dreadful weapons (nānā-śastrair mahāghoraiḥ)!
+“Today, by my own prowess in battle (_vikramaiḥ samare svayam_), I shall dispatch all these thirty gods (_tridaśān sarvān_) to Yama’s mansion (_nayāmi yamasādanam_) with manifold dreadful weapons (_nānā-śastrair mahāghoraiḥ_)!
 </details>
 </details>
 
@@ -282,7 +282,7 @@ Boasting that he will slay the thirty gods and their four world-guardians to rei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall slay Indra, Dhanada, Varuṇa, and Yama (aham indraṃ vadhiṣyāmi dhanadaṃ varuṇaṃ yamam); having swiftly destroyed the thirty gods, I myself shall stand supreme above all (svayaṃ sthāsyāmy athopari)!
+“I shall slay Indra, Dhanada, Varuṇa, and Yama (_aham indraṃ vadhiṣyāmi dhanadaṃ varuṇaṃ yamam_); having swiftly destroyed the thirty gods, I myself shall stand supreme above all (_svayaṃ sthāsyāmy athopari_)!
 </details>
 </details>
 
@@ -313,7 +313,7 @@ Boasting that he will slay the thirty gods and their four world-guardians to rei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Give way to no dejection—drive my chariot swiftly (viṣādo na ca kartavyaḥ śīghraṃ vāhaya me ratham)! Twice now indeed I tell you today: drive me all the way to the army’s end (dviḥ khalu tvāṃ bravīmy adya yāvad anto nayasva mām)!
+“Give way to no dejection—drive my chariot swiftly (_viṣādo na ca kartavyaḥ śīghraṃ vāhaya me ratham_)! Twice now indeed I tell you today: drive me all the way to the army’s end (_dviḥ khalu tvāṃ bravīmy adya yāvad anto nayasva mām_)!
 </details>
 </details>
 
@@ -347,7 +347,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This here is the region of Nandana where we now stand (ayaṃ sa nandanoddeśo yatra vartāmahe vayam); drive me today yonder to where Mount Udaya rises (naya mām adya tatra tvam udayo yatra parvataḥ)!”
+“This here is the region of Nandana where we now stand (_ayaṃ sa nandanoddeśo yatra vartāmahe vayam_); drive me today yonder to where Mount Udaya rises (_naya mām adya tatra tvam udayo yatra parvataḥ_)!”
 </details>
 </details>
 
@@ -378,7 +378,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, the charioteer urged his mind-swift steeds (turagān sa manojavān ādideśa) straight through the very midst of the foes (śatrūṇāṃ madhyenaiva ca sārathiḥ).
+Hearing those words of his, the charioteer urged his mind-swift steeds (_turagān sa manojavān ādideśa_) straight through the very midst of the foes (_śatrūṇāṃ madhyenaiva ca sārathiḥ_).
 </details>
 </details>
 
@@ -409,7 +409,7 @@ Hearing those words of his, the charioteer urged his mind-swift steeds (turagān
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that firm resolve of his (tasya taṃ niścayaṃ jñātvā), Śakra, lord of the gods (śakro deveśvaraḥ), standing in his chariot upon the battlefield (rathasthaḥ samarasthaḥ), then spoke these words to the gods:
+Perceiving that firm resolve of his (_tasya taṃ niścayaṃ jñātvā_), Śakra, lord of the gods (_śakro deveśvaraḥ_), standing in his chariot upon the battlefield (_rathasthaḥ samarasthaḥ_), then spoke these words to the gods:
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Recognizing that Rāvaṇa cannot be slain because of his boons, Indra counsels 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gods, hear my counsel, that which seems best to me right now (surāḥ śṛṇuta madvākyaṃ yat tāvan mama rocate): let this ten-necked rākṣasa be captured alive (jīvann eva daśagrīvaḥ sādhu rakṣo nigṛhyatām)!
+“O gods, hear my counsel, that which seems best to me right now (_surāḥ śṛṇuta madvākyaṃ yat tāvan mama rocate_): let this ten-necked rākṣasa be captured alive (_jīvann eva daśagrīvaḥ sādhu rakṣo nigṛhyatām_)!
 </details>
 </details>
 
@@ -482,7 +482,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this exceeding mighty warrior will surge through the armies in his wind-swift chariot (eṣa hy atibalaḥ sainyai rathena pavanaujasā) like a full-tide ocean with swelling billows on a lunar festival day (pravṛddhormiḥ samudra iva parvaṇi).
+“For this exceeding mighty warrior will surge through the armies in his wind-swift chariot (_eṣa hy atibalaḥ sainyai rathena pavanaujasā_) like a full-tide ocean with swelling billows on a lunar festival day (_pravṛddhormiḥ samudra iva parvaṇi_).
 </details>
 </details>
 
@@ -513,7 +513,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rendered wholly fearless by his boons, he cannot be slain today (na hy eṣa hantuṃ śakyo ’dya varadānāt sunirbhayaḥ); therefore let us seize this rākṣasa—be vigilant and ready in battle (tad grahīṣyāmahe rakṣo yattā bhavata saṃyuge)!
+“Rendered wholly fearless by his boons, he cannot be slain today (_na hy eṣa hantuṃ śakyo ’dya varadānāt sunirbhayaḥ_); therefore let us seize this rākṣasa—be vigilant and ready in battle (_tad grahīṣyāmahe rakṣo yattā bhavata saṃyuge_)!
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as the three worlds are enjoyed by me while Bali is kept confined (yathā balau niruddhe ca trailokyaṃ bhujyate mayā), even so does the confinement of this wicked one please me (evam etasya pāpasya nirodho mama rocate)!”
+“Just as the three worlds are enjoyed by me while Bali is kept confined (_yathā balau niruddhe ca trailokyaṃ bhujyate mayā_), even so does the confinement of this wicked one please me (_evam etasya pāpasya nirodho mama rocate_)!”
 </details>
 </details>
 
@@ -575,7 +575,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, leaving Rāvaṇa’s front and taking up another sector (tato ’nyaṃ deśam āsthāya śakraḥ santyajya rāvaṇam), Śakra fought on, O great King, striking terror into the rākṣasas in battle (rākṣasāṃs trāsayan raṇe).
+Then, leaving Rāvaṇa’s front and taking up another sector (_tato ’nyaṃ deśam āsthāya śakraḥ santyajya rāvaṇam_), Śakra fought on, O great King, striking terror into the rākṣasas in battle (_rākṣasāṃs trāsayan raṇe_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the northern flank the unyielding Daśagrīva plunged in (uttareṇa daśagrīvaḥ praviveśānivartakaḥ), while from the southern side Śatakratu drove into the fray (dakṣiṇena tu pārśvena praviveśa śatakratuḥ).
+From the northern flank the unyielding Daśagrīva plunged in (_uttareṇa daśagrīvaḥ praviveśānivartakaḥ_), while from the southern side Śatakratu drove into the fray (_dakṣiṇena tu pārśvena praviveśa śatakratuḥ_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ When Rāvaṇa penetrates a hundred yojanas deep into the divine ranks, Indra ca
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that overlord of rākṣasas penetrated a hundred yojanas deep (yojana-śataṃ praviṣṭaḥ) and covered the entire host of the gods with showers of arrows (devatānāṃ balaṃ sarvaṃ śara-varṣair avākirat).
+Then that overlord of rākṣasas penetrated a hundred _yojanas_ deep (_yojana-śataṃ praviṣṭaḥ_) and covered the entire host of the gods with showers of arrows (_devatānāṃ balaṃ sarvaṃ śara-varṣair avākirat_).
 </details>
 </details>
 
@@ -679,7 +679,7 @@ Then that overlord of rākṣasas penetrated a hundred yojanas deep (yojana-śat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Śakra, beholding his own army shattered (nirīkṣyātha pranaṣṭaṃ tu svakaṃ balam), unperturbed, encircled Daśānana and turned him back (nyavartayad asambhrāntaḥ samāvṛtya daśānanam).
+Thereupon Śakra, beholding his own army shattered (_nirīkṣyātha pranaṣṭaṃ tu svakaṃ balam_), unperturbed, encircled Daśānana and turned him back (_nyavartayad asambhrāntaḥ samāvṛtya daśānanam_).
 </details>
 </details>
 
@@ -710,7 +710,7 @@ Thereupon Śakra, beholding his own army shattered (nirīkṣyātha pranaṣṭa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that very moment a cry burst forth from the dānavas and rākṣasas (nādo mukto dānava-rākṣasaiḥ): “Alas, we are undone (hā hatāḥ sma)!”—beholding Rāvaṇa seized by Śakra (grastaṃ dṛṣṭvā śakreṇa rāvaṇam).
+In that very moment a cry burst forth from the dānavas and rākṣasas (_nādo mukto dānava-rākṣasaiḥ_): “Alas, we are undone (_hā hatāḥ sma_)!”—beholding Rāvaṇa seized by Śakra (_grastaṃ dṛṣṭvā śakreṇa rāvaṇam_).
 </details>
 </details>
 
@@ -744,7 +744,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāvaṇi, beside himself with rage (rāvaṇiḥ krodha-mūrcchitaḥ), mounted his chariot and, fiercely incensed, plunged into that most dreadful host (tat sainyam atisaṅkruddhaḥ praviveśa sudāruṇam).
+Thereupon Rāvaṇi, beside himself with rage (_rāvaṇiḥ krodha-mūrcchitaḥ_), mounted his chariot and, fiercely incensed, plunged into that most dreadful host (_tat sainyam atisaṅkruddhaḥ praviveśa sudāruṇam_).
 </details>
 </details>
 
@@ -775,7 +775,7 @@ Thereupon Rāvaṇi, beside himself with rage (rāvaṇiḥ krodha-mūrcchitaḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering into that supreme illusion obtained of old from Gopati (tāṃ praviśya mahāmāyāṃ prāptāṃ gopatinā purā), he pressed on in fierce fury and sent that army reeling in flight (tat sainyaṃ samabhidravat).
+Entering into that supreme illusion obtained of old from Gopati (_tāṃ praviśya mahāmāyāṃ prāptāṃ gopatinā purā_), he pressed on in fierce fury and sent that army reeling in flight (_tat sainyaṃ samabhidravat_).
 </details>
 </details>
 
@@ -806,7 +806,7 @@ Entering into that supreme illusion obtained of old from Gopati (tāṃ praviśy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing over all the other gods, he rushed straight against Śakra alone (sarvā devatās tyaktvā śakram evābhyadhāvata); and glorious Mahendra could not behold his enemy’s son (mahendraś ca mahātejā nāpaśyac ca sutaṃ ripoḥ).
+Passing over all the other gods, he rushed straight against Śakra alone (_sarvā devatās tyaktvā śakram evābhyadhāvata_); and glorious Mahendra could not behold his enemy’s son (_mahendraś ca mahātejā nāpaśyac ca sutaṃ ripoḥ_).
 </details>
 </details>
 
@@ -845,7 +845,7 @@ Unfazed though stripped of armor, Rāvaṇi strikes Mātali and deluges Indra wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though struck there by the exceedingly mighty thirty gods (vadhyamāno ’pi ... tridaśaiḥ sumahāvīryaiḥ) and stripped of his armor (vimukta-kavacaḥ), Rāvaṇi showed not the slightest fear (na cakāra ca kiñcana).
+Though struck there by the exceedingly mighty thirty gods (_vadhyamāno ’pi ... tridaśaiḥ sumahāvīryaiḥ_) and stripped of his armor (_vimukta-kavacaḥ_), Rāvaṇi showed not the slightest fear (_na cakāra ca kiñcana_).
 </details>
 </details>
 
@@ -876,7 +876,7 @@ Though struck there by the exceedingly mighty thirty gods (vadhyamāno ’pi ...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Striking the approaching Mātali with choice shafts (mātaliṃ samāyāntaṃ tāḍayitvā śarottamaiḥ), he once again covered Mahendra with a torrent of arrows (mahendraṃ bāṇa-varṣeṇa bhūya evābhyavākirat).
+Striking the approaching Mātali with choice shafts (_mātaliṃ samāyāntaṃ tāḍayitvā śarottamaiḥ_), he once again covered Mahendra with a torrent of arrows (_mahendraṃ bāṇa-varṣeṇa bhūya evābhyavākirat_).
 </details>
 </details>
 
@@ -907,7 +907,7 @@ Striking the approaching Mātali with choice shafts (mātaliṃ samāyāntaṃ t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Śakra abandoned his chariot and dismissed his charioteer (tyaktvā rathaṃ śakro visasarja ca sārathim); mounting Airāvata, he searched for Rāvaṇi (airāvataṃ samāruhya mṛgayām āsa rāvaṇim).
+Then Śakra abandoned his chariot and dismissed his charioteer (_tyaktvā rathaṃ śakro visasarja ca sārathim_); mounting Airāvata, he searched for Rāvaṇi (_airāvataṃ samāruhya mṛgayām āsa rāvaṇim_).
 </details>
 </details>
 
@@ -938,7 +938,7 @@ Then Śakra abandoned his chariot and dismissed his charioteer (tyaktvā ratha�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mighty in illusion, invisible and coursing through the sky (māyā-balavān adṛśyo ’thāntarikṣagaḥ), Rāvaṇi enveloped Indra in illusion (indraṃ māyā-parikṣiptaṃ kṛtvā) and rushed upon him with shafts (sa prādravac charaiḥ).
+Mighty in illusion, invisible and coursing through the sky (_māyā-balavān adṛśyo ’thāntarikṣagaḥ_), Rāvaṇi enveloped Indra in illusion (_indraṃ māyā-parikṣiptaṃ kṛtvā_) and rushed upon him with shafts (_sa prādravac charaiḥ_).
 </details>
 </details>
 
@@ -969,7 +969,7 @@ Mighty in illusion, invisible and coursing through the sky (māyā-balavān ad�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāvaṇi perceived that Indra had grown utterly exhausted (yadā pariśrāntam indraṃ jajñe ’tha rāvaṇiḥ), he bound him with illusion (tadainaṃ māyayā baddhvā) and led him toward his own army (svasainyam abhito ’nayat).
+When Rāvaṇi perceived that Indra had grown utterly exhausted (_yadā pariśrāntam indraṃ jajñe ’tha rāvaṇiḥ_), he bound him with illusion (_tadainaṃ māyayā baddhvā_) and led him toward his own army (_svasainyam abhito ’nayat_).
 </details>
 </details>
 
@@ -1000,7 +1000,7 @@ When Rāvaṇi perceived that Indra had grown utterly exhausted (yadā pariśrā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Mahendra being forcibly led away by him from the great battle (balāt tena nīyamānaṃ mahāraṇāt), all the immortals pondered in dismay, “What now shall come to pass (kiṃ nu syād ity acintayan)?”
+Seeing Mahendra being forcibly led away by him from the great battle (_balāt tena nīyamānaṃ mahāraṇāt_), all the immortals pondered in dismay, “What now shall come to pass (_kiṃ nu syād ity acintayan_)?”
 </details>
 </details>
 
@@ -1039,7 +1039,7 @@ While the baffled gods cannot spy the invisible captor of Indra and turn their f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nowhere to be seen is that master of illusion, conqueror of Śakra and victor in battle (śakrajit samitiñjayaḥ), by whom even Indra—though learned in counter-lore (vidyāvān api yenendraḥ)—is forcibly carried off by illusion (māyayā nīyate balāt)!
+Nowhere to be seen is that master of illusion, conqueror of Śakra and victor in battle (_śakrajit samitiñjayaḥ_), by whom even Indra—though learned in counter-lore (_vidyāvān api yenendraḥ_)—is forcibly carried off by illusion (_māyayā nīyate balāt_)!
 </details>
 </details>
 
@@ -1070,7 +1070,7 @@ Nowhere to be seen is that master of illusion, conqueror of Śakra and victor in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, all the hosts of gods, filled with wrath (kruddhāḥ sarve sura-gaṇāḥ), forced Rāvaṇa to turn back (rāvaṇaṃ vimukhīkṛtya) and buried him under showers of arrows (śara-varṣair avākiran).
+Meanwhile, all the hosts of gods, filled with wrath (_kruddhāḥ sarve sura-gaṇāḥ_), forced Rāvaṇa to turn back (_rāvaṇaṃ vimukhīkṛtya_) and buried him under showers of arrows (_śara-varṣair avākiran_).
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ Meanwhile, all the hosts of gods, filled with wrath (kruddhāḥ sarve sura-ga�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encountering the Ādityas and the Vasus in that battle (samāsādya ādityāṃś ca vasūṃs tadā), Rāvaṇa, sorely afflicted by his foes (śatrubhir arditaḥ), could no longer carry on the fight (na śaśāka sa saṅgrāme yoddhum).
+Encountering the Ādityas and the Vasus in that battle (_samāsādya ādityāṃś ca vasūṃs tadā_), Rāvaṇa, sorely afflicted by his foes (_śatrubhir arditaḥ_), could no longer carry on the fight (_na śaśāka sa saṅgrāme yoddhum_).
 </details>
 </details>
 
@@ -1132,7 +1132,7 @@ Encountering the Ādityas and the Vasus in that battle (samāsādya ādityāṃ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his father faded in vigor and mangled with blows (parimlānaṃ prahārair jarjarīkṛtam), Rāvaṇi, remaining unseen upon the battlefield (yuddhe ’darśanasthaḥ), spoke these words:
+Seeing his father faded in vigor and mangled with blows (_parimlānaṃ prahārair jarjarīkṛtam_), Rāvaṇi, remaining unseen upon the battlefield (_yuddhe ’darśanasthaḥ_), spoke these words:
 </details>
 </details>
 
@@ -1163,7 +1163,7 @@ Seeing his father faded in vigor and mangled with blows (parimlānaṃ prahārai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come, father, let us depart—let the work of battle cease (āgaccha tāta gacchāmo raṇakarma nivartatām)! Let it be known to you that victory is ours (jitaṃ no viditaṃ te ’stu); be at ease, freed from all anguish (svastho bhava gatajvaraḥ)!
+“Come, father, let us depart—let the work of battle cease (_āgaccha tāta gacchāmo raṇakarma nivartatām_)! Let it be known to you that victory is ours (_jitaṃ no viditaṃ te ’stu_); be at ease, freed from all anguish (_svastho bhava gatajvaraḥ_)!
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ Seeing his father faded in vigor and mangled with blows (parimlānaṃ prahārai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For he who is sovereign of the divine host and of the three worlds (surasainyasya trailokyasya ca yaḥ prabhuḥ) has been captured from the divine army (sa gṛhīto devabalāt), and the gods have had their pride shattered (bhagna-darpāḥ surāḥ kṛtāḥ)!
+“For he who is sovereign of the divine host and of the three worlds (_surasainyasya trailokyasya ca yaḥ prabhuḥ_) has been captured from the divine army (_sa gṛhīto devabalāt_), and the gods have had their pride shattered (_bhagna-darpāḥ surāḥ kṛtāḥ_)!
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ Urged by his son to cease pointless combat and enjoy the three worlds, Rāvaṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enjoy the three worlds at your pleasure, having subdued the enemy by might (yatheṣṭaṃ bhuṅkṣva lokāṃs trīn nigṛhyārātim ojasā)! Why toil here in vain (vṛthā kiṃ te śrameṇeha)? Today’s fighting is now altogether fruitless (yuddham adya tu niṣphalam)!”
+“Enjoy the three worlds at your pleasure, having subdued the enemy by might (_yatheṣṭaṃ bhuṅkṣva lokāṃs trīn nigṛhyārātim ojasā_)! Why toil here in vain (_vṛthā kiṃ te śrameṇeha_)? Today’s fighting is now altogether fruitless (_yuddham adya tu niṣphalam_)!”
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon those hosts of gods withdrew from the work of battle (daivatagaṇā nivṛttā raṇakarmaṇaḥ); and hearing that speech of Rāvaṇi, [Daśānana] grew tranquil of heart (svasthacetāḥ babhūva ha).
+Thereupon those hosts of gods withdrew from the work of battle (_daivatagaṇā nivṛttā raṇakarmaṇaḥ_); and hearing that speech of Rāvaṇi, [Daśānana] grew tranquil of heart (_svasthacetāḥ babhūva ha_).
 </details>
 </details>
 
@@ -1307,7 +1307,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that lord, sovereign of night-roamers, his fever of battle dispelled (raṇa-vigata-jvaraḥ), having attained victory (vijayam avāpya), set out rejoicing toward his own city (svabhavanam abhito jagāma hṛṣṭaḥ), and approaching his son spoke these words:
+Then that lord, sovereign of night-roamers, his fever of battle dispelled (_raṇa-vigata-jvaraḥ_), having attained victory (_vijayam avāpya_), set out rejoicing toward his own city (_svabhavanam abhito jagāma hṛṣṭaḥ_), and approaching his son spoke these words:
 </details>
 </details>
 
@@ -1342,7 +1342,7 @@ Then that lord, sovereign of night-roamers, his fever of battle dispelled (raṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By those deeds of prowess worthy of your exceeding might (atibala-sadṛśaiḥ parākramais taiḥ), you have exalted the honor of my lineage (mama kula-māna-vivardhanaṃ kṛtam), inasmuch as this peerless lord of the thirty gods and the gods besides have today been vanquished by you (tridaśapatis tridaśāś ca nirjitāḥ)!
+“By those deeds of prowess worthy of your exceeding might (_atibala-sadṛśaiḥ parākramais taiḥ_), you have exalted the honor of my lineage (_mama kula-māna-vivardhanaṃ kṛtam_), inasmuch as this peerless lord of the thirty gods and the gods besides have today been vanquished by you (_tridaśapatis tridaśāś ca nirjitāḥ_)!
 </details>
 </details>
 
@@ -1377,7 +1377,7 @@ Then that lord, sovereign of night-roamers, his fever of battle dispelled (raṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mounting Vāsava upon your chariot, lead him away and march hence to the city surrounded by the army (naya ratham adhiropya vāsavaṃ nagaram ito vraja senayā vṛtas tvam)! I too shall swiftly follow behind you as you go, together with my ministers (saha sacivair anuyāmi pṛṣṭhataḥ)!”
+“Mounting Vāsava upon your chariot, lead him away and march hence to the city surrounded by the army (_naya ratham adhiropya vāsavaṃ nagaram ito vraja senayā vṛtas tvam_)! I too shall swiftly follow behind you as you go, together with my ministers (_saha sacivair anuyāmi pṛṣṭhataḥ_)!”
 </details>
 </details>
 
@@ -1423,7 +1423,7 @@ Then that lord, sovereign of night-roamers, his fever of battle dispelled (raṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that valiant Rāvaṇi, surrounded by his host and vehicles (balavṛtaḥ savāhanaḥ), taking the lord of the thirty gods captive (tridaśapatiṃ parigṛhya), returned to his own abode and dismissed the rākṣasas who had fought the battle (kṛtasamarān visasarja rākṣasān).
+Then that valiant Rāvaṇi, surrounded by his host and vehicles (_balavṛtaḥ savāhanaḥ_), taking the lord of the thirty gods captive (_tridaśapatiṃ parigṛhya_), returned to his own abode and dismissed the rākṣasas who had fought the battle (_kṛtasamarān visasarja rākṣasān_).
 </details>
 </details>
 

@@ -48,7 +48,7 @@ Oppressed by Sukeśa's boon-emboldened sons, the gods and ascetic sages flee to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tormented by those rākṣasas (tair vadhyamānāḥ), both the gods and the sages rich in austerity (ṛṣayaś ca tapodhanāḥ), stricken with terror (bhayārtāḥ), sought refuge with the God of gods, Maheśvara.
+Tormented by those rākṣasas (_tair vadhyamānāḥ_), both the gods and the sages rich in austerity (_ṛṣayaś ca tapodhanāḥ_), stricken with terror (_bhayārtāḥ_), sought refuge with the God of gods, Maheśvara.
 </details>
 </details>
 
@@ -83,9 +83,9 @@ Tormented by those rākṣasas (tair vadhyamānāḥ), both the gods and the sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Creator and destroyer of the universe (jagat-sṛṣṭy-anta-kartāram), unborn and of unmanifest form (ajam avyakta-rūpiṇam), the support of all the worlds (ādhāraṃ sarva-lokānām), the adorable supreme preceptor—
+**2:** Creator and destroyer of the universe (_jagat-sṛṣṭy-anta-kartāram_), unborn and of unmanifest form (_ajam avyakta-rūpiṇam_), the support of all the worlds (_ādhāraṃ sarva-lokānām_), the adorable supreme preceptor—
 
-**3:** —approaching him, the foe of Kāma (kāmārim), destroyer of Tripura, the three-eyed Lord (trilocanam), those gods with palms joined in reverence (prāñjalayaḥ) spoke, their voices faltering with fear (bhaya-gadgada-bhāṣiṇaḥ):
+**3:** —approaching him, the foe of Kāma (_kāmārim_), destroyer of Tripura, the three-eyed Lord (_trilocanam_), those gods with palms joined in reverence (_prāñjalayaḥ_) spoke, their voices faltering with fear (_bhaya-gadgada-bhāṣiṇaḥ_):
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Tormented by those rākṣasas (tair vadhyamānāḥ), both the gods and the sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the sons of Sukeśa, O Lord (bhagavan), insolent through the Grandsire's boon (pitāmaha-varoddhataiḥ), all creatures are being oppressed (prajāḥ sarvā bādhyante), O Sovereign of Creatures (prajādhyakṣa), by those tormentors of foes!
+“By the sons of Sukeśa, O Lord (_bhagavan_), insolent through the Grandsire&#x27;s boon (_pitāmaha-varoddhataiḥ_), all creatures are being oppressed (_prajāḥ sarvā bādhyante_), O Sovereign of Creatures (_prajādhyakṣa_), by those tormentors of foes!
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Tormented by those rākṣasas (tair vadhyamānāḥ), both the gods and the sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Our hermitages, once places of refuge (śaraṇyāni), have been rendered devoid of shelter (aśaraṇyāni); and having expelled the gods from heaven (svargāc ca devān pracyāvya), they sport in heaven like the gods themselves.
+“Our hermitages, once places of refuge (_śaraṇyāni_), have been rendered devoid of shelter (_aśaraṇyāni_); and having expelled the gods from heaven (_svargāc ca devān pracyāvya_), they sport in heaven like the gods themselves.
 </details>
 </details>
 
@@ -190,9 +190,9 @@ Implored to assume his fierce form and destroy the rākṣasas, Śiva declines t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “‘I am Viṣṇu, I am Rudra, I am Brahmā, I am the King of the Gods (devarāṭ); I am Yama and Varuṇa, I am the Moon, and I am the Sun as well’—
+**6:** “‘I am Viṣṇu, I am Rudra, I am Brahmā, I am the King of the Gods (_devarāṭ_); I am Yama and Varuṇa, I am the Moon, and I am the Sun as well’—
 
-**7:** “—boasting thus (iti), those rākṣasas Mālin, Sumālin, and Mālyavān, exulting in battle (samaroddharṣāḥ), along with all who march in their vanguard (teṣāṃ puraḥsarāḥ), torment us!
+**7:** “—boasting thus (_iti_), those rākṣasas Mālin, Sumālin, and Mālyavān, exulting in battle (_samaroddharṣāḥ_), along with all who march in their vanguard (_teṣāṃ puraḥsarāḥ_), torment us!
 </details>
 </details>
 
@@ -223,7 +223,7 @@ Implored to assume his fierce form and destroy the rākṣasas, Śiva declines t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O God (deva), it befits you to grant fearlessness to us who are stricken with terror (bhayārtānām abhayam); assuming your dread form (aśivaṃ vapur āsthāya), slay indeed these thorns to the gods (devakaṇṭakān)!”
+“Therefore, O God (_deva_), it befits you to grant fearlessness to us who are stricken with terror (_bhayārtānām abhayam_); assuming your dread form (_aśivaṃ vapur āsthāya_), slay indeed these thorns to the gods (_devakaṇṭakān_)!”
 </details>
 </details>
 
@@ -254,7 +254,7 @@ Implored to assume his fierce form and destroy the rākṣasas, Śiva declines t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by all the gods, the matted-haired, blue-red Lord (kapardī nīlalohitaḥ), retaining fond regard toward Sukeśa (sukeśaṃ prati sāpekṣaḥ), spoke to the hosts of gods:
+Addressed thus by all the gods, the matted-haired, blue-red Lord (_kapardī nīlalohitaḥ_), retaining fond regard toward Sukeśa (_sukeśaṃ prati sāpekṣaḥ_), spoke to the hosts of gods:
 </details>
 </details>
 
@@ -285,7 +285,7 @@ Addressed thus by all the gods, the matted-haired, blue-red Lord (kapardī nīla
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall not slay them, O gods, for by me they are not to be slain (mayāvadhyā hi te); yet I shall impart to you a counsel (mantram)—of him who shall surely destroy them.
+“I shall not slay them, O gods, for by me they are not to be slain (_mayāvadhyā hi te_); yet I shall impart to you a counsel (_mantram_)—of him who shall surely destroy them.
 </details>
 </details>
 
@@ -319,7 +319,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Keeping this very endeavor foremost (etam eva samudyogaṃ puraskṛtya), O great sages (maharṣayaḥ), go for refuge to Viṣṇu (gacchadhvaṃ śaraṇaṃ viṣṇum); that sovereign Lord (prabhuḥ) will slay them.”
+“Keeping this very endeavor foremost (_etam eva samudyogaṃ puraskṛtya_), O great sages (_maharṣayaḥ_), go for refuge to Viṣṇu (_gacchadhvaṃ śaraṇaṃ viṣṇum_); that sovereign Lord (_prabhuḥ_) will slay them.”
 </details>
 </details>
 
@@ -350,7 +350,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, hailing Maheśvara with cries of victory (jaya-śabdena pratinandya), those gods, afflicted with fear of the night-roamers (niśācara-bhayārditāḥ), approached the presence of Viṣṇu.
+Thereupon, hailing Maheśvara with cries of victory (_jaya-śabdena pratinandya_), those gods, afflicted with fear of the night-roamers (_niśācara-bhayārditāḥ_), approached the presence of Viṣṇu.
 </details>
 </details>
 
@@ -392,7 +392,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing low and paying high honor (praṇamya bahumānya ca) to the God bearing conch and discus (śaṅkha-cakra-dharam), they spoke agitated words (sambhrāntavad vākyam) concerning the sons of Sukeśa:
+Bowing low and paying high honor (_praṇamya bahumānya ca_) to the God bearing conch and discus (_śaṅkha-cakra-dharam_), they spoke agitated words (_sambhrāntavad vākyam_) concerning the sons of Sukeśa:
 </details>
 </details>
 
@@ -423,7 +423,7 @@ Bowing low and paying high honor (praṇamya bahumānya ca) to the God bearing c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the three sons of Sukeśa, O Lord, who blaze like the three sacrificial fires (tretāgni-sannibhaiḥ), our abodes have been wrested away (sthānāny apahṛtāni naḥ) after they assailed us through the power of their boon.
+“By the three sons of Sukeśa, O Lord, who blaze like the three sacrificial fires (_tretāgni-sannibhaiḥ_), our abodes have been wrested away (_sthānāny apahṛtāni naḥ_) after they assailed us through the power of their boon.
 </details>
 </details>
 
@@ -454,7 +454,7 @@ Bowing low and paying high honor (praṇamya bahumānya ca) to the God bearing c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is an impregnable citadel named Laṅkā (laṅkā nāma purī durgā), perched atop the peak of Mount Trikūṭa (trikūṭa-śikhare sthitā); stationed therein, those night-roamers (kṣaṇadācarāḥ) ceaselessly harass us all.
+“There is an impregnable citadel named Laṅkā (_laṅkā nāma purī durgā_), perched atop the peak of Mount Trikūṭa (_trikūṭa-śikhare sthitā_); stationed therein, those night-roamers (_kṣaṇadācarāḥ_) ceaselessly harass us all.
 </details>
 </details>
 
@@ -485,7 +485,7 @@ Bowing low and paying high honor (praṇamya bahumānya ca) to the God bearing c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, for our welfare (asmad-dhitārthāya), slay them, O Madhusūdana! We have come to you for refuge (śaraṇaṃ tvāṃ vayaṃ prāptāḥ); be our sanctuary, O Lord of the gods (gatir bhava sureśvara)!
+“Therefore, for our welfare (_asmad-dhitārthāya_), slay them, O Madhusūdana! We have come to you for refuge (_śaraṇaṃ tvāṃ vayaṃ prāptāḥ_); be our sanctuary, O Lord of the gods (_gatir bhava sureśvara_)!
 </details>
 </details>
 
@@ -519,7 +519,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having severed their lotus-like faces with your discus (cakra-kṛttāsya-kamalān), deliver them indeed to Yama (nivedaya yamāya vai); amid perils there is none other than you to grant us fearlessness (bhayeṣv abhayadaḥ).
+“Having severed their lotus-like faces with your discus (_cakra-kṛttāsya-kamalān_), deliver them indeed to Yama (_nivedaya yamāya vai_); amid perils there is none other than you to grant us fearlessness (_bhayeṣv abhayadaḥ_).
 </details>
 </details>
 
@@ -550,7 +550,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slaying in battle those wicked, arrogance-swollen rākṣasas together with their followers (sānubandhān madoddhatān), dispel our terror, O Lord (nudaṃ tvaṃ no bhayaṃ deva), even as the sun scatters the mist (nīhāram iva bhāskaraḥ)!”
+“Slaying in battle those wicked, arrogance-swollen rākṣasas together with their followers (_sānubandhān madoddhatān_), dispel our terror, O Lord (_nudaṃ tvaṃ no bhayaṃ deva_), even as the sun scatters the mist (_nīhāram iva bhāskaraḥ_)!”
 </details>
 </details>
 
@@ -589,7 +589,7 @@ Viṣṇu reassures the gods by vowing to destroy Sukeśa's lawless sons, sendin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the celestials, the God of gods, Janārdana—giver of terror to his foes (bhayado 'rīṇām)—bestowed fearlessness (abhayam dattvā) upon the gods and spoke:
+Addressed thus by the celestials, the God of gods, Janārdana—giver of terror to his foes (_bhayado &#x27;rīṇām_)—bestowed fearlessness (_abhayam dattvā_) upon the gods and spoke:
 </details>
 </details>
 
@@ -629,9 +629,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Well do I know the rākṣasa Sukeśa, puffed up by Īśāna's boon (īśāna-vara-darpitam); and well do I know those sons of his, of whom that Mālyavān is the eldest (yeṣāṃ jyeṣṭhaḥ sa mālyavān).
+**20:** “Well do I know the rākṣasa Sukeśa, puffed up by Īśāna&#x27;s boon (_īśāna-vara-darpitam_); and well do I know those sons of his, of whom that Mālyavān is the eldest (_yeṣāṃ jyeṣṭhaḥ sa mālyavān_).
 
-**21:** “Enraged, I shall strike down (nihaniṣyāmi saṅkruddhaḥ) those vilest of rākṣasas who have transgressed every bound of righteousness (samatikrānta-maryādān); be free from all feverish distress, O gods (surā bhavata vijvarāḥ)!”
+**21:** “Enraged, I shall strike down (_nihaniṣyāmi saṅkruddhaḥ_) those vilest of rākṣasas who have transgressed every bound of righteousness (_samatikrānta-maryādān_); be free from all feverish distress, O gods (_surā bhavata vijvarāḥ_)!”
 </details>
 </details>
 
@@ -665,7 +665,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spoken to thus by the all-powerful Viṣṇu (viṣṇunā prabhaviṣṇunā), all those gods departed joyfully to their respective abodes (yathāvāsaṃ yayur hṛṣṭāḥ), extolling Janārdana.
+Spoken to thus by the all-powerful Viṣṇu (_viṣṇunā prabhaviṣṇunā_), all those gods departed joyfully to their respective abodes (_yathāvāsaṃ yayur hṛṣṭāḥ_), extolling Janārdana.
 </details>
 </details>
 
@@ -696,7 +696,7 @@ Spoken to thus by the all-powerful Viṣṇu (viṣṇunā prabhaviṣṇunā), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, the night-roamer Mālyavān, having heard of the mobilization of the gods (vibudhānāṃ samudyogam), spoke these words to his two heroic brothers (tau bhrātarau vīrau):
+Meanwhile, the night-roamer Mālyavān, having heard of the mobilization of the gods (_vibudhānāṃ samudyogam_), spoke these words to his two heroic brothers (_tau bhrātarau vīrau_):
 </details>
 </details>
 
@@ -730,7 +730,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The immortals and the sages, having assembled together before Śaṅkara (saṅgamya kila śaṅkaram), it is reported, and yearning for our destruction (asmad-vadhaṃ parīpsantaḥ), spoke these words:
+“The immortals and the sages, having assembled together before Śaṅkara (_saṅgamya kila śaṅkaram_), it is reported, and yearning for our destruction (_asmad-vadhaṃ parīpsantaḥ_), spoke these words:
 </details>
 </details>
 
@@ -769,7 +769,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘The sons of Sukeśa, O Lord, swollen with the power of their boon (varadāna-baloddhatāḥ), arrogant and of dreadful aspect (samuddṛptā ghora-rūpāḥ), harass us at every step (pade pade).
+“‘The sons of Sukeśa, O Lord, swollen with the power of their boon (_varadāna-baloddhatāḥ_), arrogant and of dreadful aspect (_samuddṛptā ghora-rūpāḥ_), harass us at every step (_pade pade_).
 </details>
 </details>
 
@@ -800,7 +800,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Overpowered by the rākṣasas (rākṣasair abhibhūtāḥ sma), we are unable, O Lord of Creatures (prajāpate), to remain within our own dwellings (sveṣu sadmasu saṃsthātum) for dread of those wicked-souled ones.
+“‘Overpowered by the rākṣasas (_rākṣasair abhibhūtāḥ sma_), we are unable, O Lord of Creatures (_prajāpate_), to remain within our own dwellings (_sveṣu sadmasu saṃsthātum_) for dread of those wicked-souled ones.
 </details>
 </details>
 
@@ -831,7 +831,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, for our welfare, slay them, O Three-Eyed One (trilocana); burn those rākṣasas to ashes by a mere roar of huṃ (huṅkṛtenaiva daha), O foremost among destroyers (pradahatāṃ vara)!’
+“‘Therefore, for our welfare, slay them, O Three-Eyed One (_trilocana_); burn those rākṣasas to ashes by a mere roar of _huṃ_ (_huṅkṛtenaiva daha_), O foremost among destroyers (_pradahatāṃ vara_)!’
 </details>
 </details>
 
@@ -862,7 +862,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Addressed thus by the thirty gods, the slayer of Andhaka (andhaka-sūdanaḥ), having heard them out, shook his head and hand (śiraḥ karaṃ ca dhunvānaḥ) and spoke these words:
+“Addressed thus by the thirty gods, the slayer of Andhaka (_andhaka-sūdanaḥ_), having heard them out, shook his head and hand (_śiraḥ karaṃ ca dhunvānaḥ_) and spoke these words:
 </details>
 </details>
 
@@ -893,7 +893,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Unslayable by me in battle (avadhyā mama te... raṇe), O gods, are the sons of Sukeśa; yet I shall impart to you the counsel (mantram) of him who shall indeed destroy them.
+“‘Unslayable by me in battle (_avadhyā mama te... raṇe_), O gods, are the sons of Sukeśa; yet I shall impart to you the counsel (_mantram_) of him who shall indeed destroy them.
 </details>
 </details>
 
@@ -924,7 +924,7 @@ Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘He who bears the discus and mace (cakra-gadā-pāṇiḥ), clad in yellow raiment (pītavāsāḥ), Janārdana—the glorious Hari Nārāyaṇa—go to him for refuge (śaraṇaṃ taṃ prapadyatha)!’
+“‘He who bears the discus and mace (_cakra-gadā-pāṇiḥ_), clad in yellow raiment (_pītavāsāḥ_), Janārdana—the glorious Hari Nārāyaṇa—go to him for refuge (_śaraṇaṃ taṃ prapadyatha_)!’
 </details>
 </details>
 
@@ -963,7 +963,7 @@ Concluding his intelligence report with Viṣṇu's pledge to destroy them, Māl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained that counsel from Hara (harād avāpya te mantram) and paid homage to the foe of Kāma, they reached the abode of Nārāyaṇa (nārāyaṇālayaṃ prāpya) and reported everything to him.
+“Having obtained that counsel from Hara (_harād avāpya te mantram_) and paid homage to the foe of Kāma, they reached the abode of Nārāyaṇa (_nārāyaṇālayaṃ prāpya_) and reported everything to him.
 </details>
 </details>
 
@@ -997,7 +997,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the gods headed by Indra (devā indra-purogamāḥ) were told by Nārāyaṇa: ‘I shall slay those foes of the gods (surārīṃs tān haniṣyāmi); O gods, be free from distress (vijvarāḥ)!’
+“Then the gods headed by Indra (_devā indra-purogamāḥ_) were told by Nārāyaṇa: ‘I shall slay those foes of the gods (_surārīṃs tān haniṣyāmi_); O gods, be free from distress (_vijvarāḥ_)!’
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before the terrified gods (devānāṃ bhaya-bhītānām), O bulls among rākṣasas (rākṣasarṣabhau), our slaughter has been vowed by Hari (hariṇā pratijñāto vadho 'smākam); let us therefore deliberate on what is expedient here (cintyatāṃ yad iha kṣamam).
+“Before the terrified gods (_devānāṃ bhaya-bhītānām_), O bulls among rākṣasas (_rākṣasarṣabhau_), our slaughter has been vowed by Hari (_hariṇā pratijñāto vadho &#x27;smākam_); let us therefore deliberate on what is expedient here (_cintyatāṃ yad iha kṣamam_).
 </details>
 </details>
 
@@ -1074,11 +1074,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** “He was the very death of Hiraṇyakaśipu (hiraṇyakaśipor mṛtyuḥ) and of other enemies of the gods: Namuci, Kālanemi, and Saṃhrāda, foremost of heroes;
+**34:** “He was the very death of Hiraṇyakaśipu (_hiraṇyakaśipor mṛtyuḥ_) and of other enemies of the gods: Namuci, Kālanemi, and Saṃhrāda, foremost of heroes;
 
 **35:** “Rādheya, Bahumāyin, Lokapāla, and Dhārmika; Yamala and Arjuna, Hārdikya, and Śumbha as well as Niśumbhaka—
 
-**36:** “—all those asuras and dānavas, endowed with heroic mettle and vast might (sattvavanto mahābalāḥ), once they encountered him in battle (samaram āsādya), are never heard of as having remained unconquered (na śrūyante 'parājitāḥ)!
+**36:** “—all those asuras and dānavas, endowed with heroic mettle and vast might (_sattvavanto mahābalāḥ_), once they encountered him in battle (_samaram āsādya_), are never heard of as having remained unconquered (_na śrūyante &#x27;parājitāḥ_)!
 </details>
 </details>
 
@@ -1117,7 +1117,7 @@ Though Mālyavān warns that even sacrifice-performing, weapon-skilled demons fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All of them had offered hundreds of Vedic sacrifices (kratu-śatair iṣṭam); all were masters of illusion (māyāvidaḥ); all were skilled in every celestial missile (sarvāstra-kuśalāḥ), and all struck terror into their foes.
+“All of them had offered hundreds of Vedic sacrifices (_kratu-śatair iṣṭam_); all were masters of illusion (_māyāvidaḥ_); all were skilled in every celestial missile (_sarvāstra-kuśalāḥ_), and all struck terror into their foes.
 </details>
 </details>
 
@@ -1150,7 +1150,7 @@ Though Mālyavān warns that even sacrifice-performing, weapon-skilled demons fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet they were struck down by Nārāyaṇa by the hundreds and by the thousands (śataśo 'tha sahasraśaḥ); knowing this full well, it befits you to do what is beneficial for all of us here (sarveṣāṃ kṣamaṃ kartum)!”
+“Yet they were struck down by Nārāyaṇa by the hundreds and by the thousands (_śataśo &#x27;tha sahasraśaḥ_); knowing this full well, it befits you to do what is beneficial for all of us here (_sarveṣāṃ kṣamaṃ kartum_)!”
 </details>
 </details>
 
@@ -1181,7 +1181,7 @@ Though Mālyavān warns that even sacrifice-performing, weapon-skilled demons fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, having heard the words of Mālyavān, Sumālin and Mālin spoke to their eldest brother (bhrātaraṃ jyeṣṭham), like Bhaga and Aṃśa addressing Vāsava (bhagāṃśāv iva vāsavam):
+Thereupon, having heard the words of Mālyavān, Sumālin and Mālin spoke to their eldest brother (_bhrātaraṃ jyeṣṭham_), like Bhaga and Aṃśa addressing Vāsava (_bhagāṃśāv iva vāsavam_):
 </details>
 </details>
 
@@ -1212,7 +1212,7 @@ Thereupon, having heard the words of Mālyavān, Sumālin and Mālin spoke to th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We have studied the Vedas well (svadhītam), given charity (dattam), offered sacrifices (iṣṭam), and guarded our royal sovereignty (aiśvaryaṃ paripālitam); we have attained a life free from disease (āyur nirāmayam) and established noble dharma upon its path (sudharmaḥ prāpitaḥ pathi).
+“We have studied the Vedas well (_svadhītam_), given charity (_dattam_), offered sacrifices (_iṣṭam_), and guarded our royal sovereignty (_aiśvaryaṃ paripālitam_); we have attained a life free from disease (_āyur nirāmayam_) and established noble dharma upon its path (_sudharmaḥ prāpitaḥ pathi_).
 </details>
 </details>
 
@@ -1246,7 +1246,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having plunged with our weapons into the unshakable ocean of the gods (devasāgaram akṣobhyam), we have conquered matchless foes (jitā dviṣo hy apratimāḥ); therefore we have no fear born of death (tan no mṛtyukṛtaṃ bhayam)!
+“Having plunged with our weapons into the unshakable ocean of the gods (_devasāgaram akṣobhyam_), we have conquered matchless foes (_jitā dviṣo hy apratimāḥ_); therefore we have no fear born of death (_tan no mṛtyukṛtaṃ bhayam_)!
 </details>
 </details>
 
@@ -1277,7 +1277,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nārāyaṇa, Rudra, Śakra, and Yama alike—all of them forever dread (sarve bibhyati sarvadā) to stand before our face in battle (asmākaṃ pramukhe sthātum)!
+“Nārāyaṇa, Rudra, Śakra, and Yama alike—all of them forever dread (_sarve bibhyati sarvadā_) to stand before our face in battle (_asmākaṃ pramukhe sthātum_)!
 </details>
 </details>
 
@@ -1316,7 +1316,7 @@ Blaming the gods rather than Viṣṇu for inciting hostilities, the rākṣasa 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Lord Viṣṇu himself has no cause at all for enmity (viṣṇor devasya nāstyeva kāraṇam), O king of rākṣasas; solely through the mischief of the gods (devānām eva doṣeṇa) has Viṣṇu's mind been stirred!
+“Lord Viṣṇu himself has no cause at all for enmity (_viṣṇor devasya nāstyeva kāraṇam_), O king of rākṣasas; solely through the mischief of the gods (_devānām eva doṣeṇa_) has Viṣṇu&#x27;s mind been stirred!
 </details>
 </details>
 
@@ -1350,7 +1350,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore today, fully mobilized (samudyuktāḥ) and surrounded by all our armies (sarva-sainya-samāvṛtāḥ), let us slay those very gods (devān eva jighāṃsāma) from whom this evil has arisen!”
+“Therefore today, fully mobilized (_samudyuktāḥ_) and surrounded by all our armies (_sarva-sainya-samāvṛtāḥ_), let us slay those very gods (_devān eva jighāṃsāma_) from whom this evil has arisen!”
 </details>
 </details>
 
@@ -1387,7 +1387,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus taken counsel together (evaṃ sammantrya), those mighty heroes surrounded by their troops, proclaiming a general mobilization (udyogaṃ ghoṣayitvā), all those bulls among nairṛtas sallied forth enraged for battle (yuddhāya niryayuḥ kruddhāḥ), like the hosts of Jambha and Vṛtra of old.
+Having thus taken counsel together (_evaṃ sammantrya_), those mighty heroes surrounded by their troops, proclaiming a general mobilization (_udyogaṃ ghoṣayitvā_), all those bulls among nairṛtas sallied forth enraged for battle (_yuddhāya niryayuḥ kruddhāḥ_), like the hosts of Jambha and Vṛtra of old.
 </details>
 </details>
 
@@ -1421,7 +1421,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having deliberated thus, O Rāma (rāma), with all-out preparation (sarvodyogena), all those rākṣasas of colossal frame and immense strength (mahākāyā mahābalāḥ) marched out to war—
+Having deliberated thus, O Rāma (_rāma_), with all-out preparation (_sarvodyogena_), all those rākṣasas of colossal frame and immense strength (_mahākāyā mahābalāḥ_) marched out to war—
 </details>
 </details>
 
@@ -1475,11 +1475,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**47:** —mounted upon chariots (syandanaiḥ), elephants, and steeds massive as mountains (hayaiś ca giri-sannibhaiḥ), upon asses, kine, chariot-camels (rathoṣṭraiḥ), crocodiles (śiṃśumāraiḥ), and serpents,
+**47:** —mounted upon chariots (_syandanaiḥ_), elephants, and steeds massive as mountains (_hayaiś ca giri-sannibhaiḥ_), upon asses, kine, chariot-camels (_rathoṣṭraiḥ_), crocodiles (_śiṃśumāraiḥ_), and serpents,
 
-**48:** —upon sea-monsters (makaraiḥ), tortoises, giant fish, and birds rivaling Garuḍa (vihaṅgair garuḍopamaiḥ), as well as upon lions, tigers, boars, sṛmara wild oxen, and camara yaks.
+**48:** —upon sea-monsters (_makaraiḥ_), tortoises, giant fish, and birds rivaling Garuḍa (_vihaṅgair garuḍopamaiḥ_), as well as upon lions, tigers, boars, _sṛmara_ wild oxen, and _camara_ yaks.
 
-**49:** Abandoning Laṅkā (tyaktvā laṅkām), all those rākṣasas, swollen with pride in their might (balagarvitāḥ), enemies of the celestials, set forth toward the world of the gods (prayātā devalokāya) to wage war.
+**49:** Abandoning Laṅkā (_tyaktvā laṅkām_), all those rākṣasas, swollen with pride in their might (_balagarvitāḥ_), enemies of the celestials, set forth toward the world of the gods (_prayātā devalokāya_) to wage war.
 </details>
 </details>
 
@@ -1510,7 +1510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the impending ruin of Laṅkā (laṅkā-viparyayaṃ dṛṣṭvā), all the beings that dwelt in Laṅkā (laṅkālayāni bhūtāni), foreseeing terror, grew utterly dejected (vimanaskāni sarvaśaḥ); meanwhile, borne in finest chariots by the hundreds and thousands (rathottamair uhyamānāḥ)—
+Beholding the impending ruin of Laṅkā (_laṅkā-viparyayaṃ dṛṣṭvā_), all the beings that dwelt in Laṅkā (_laṅkālayāni bhūtāni_), foreseeing terror, grew utterly dejected (_vimanaskāni sarvaśaḥ_); meanwhile, borne in finest chariots by the hundreds and thousands (_rathottamair uhyamānāḥ_)—
 </details>
 </details>
 
@@ -1547,9 +1547,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**51:** —the rākṣasas marched swiftly and strenuously toward the realm of the gods; and along the very path of the rākṣasas (rakṣasām eva mārgeṇa), the presiding deities departed (daivatāny apacakramuḥ).
+**51:** —the rākṣasas marched swiftly and strenuously toward the realm of the gods; and along the very path of the rākṣasas (_rakṣasām eva mārgeṇa_), the presiding deities departed (_daivatāny apacakramuḥ_).
 
-**52:** Both terrestrial and atmospheric portents (bhaumāś caivāntarikṣāś ca), dread-inspiring and dispatched by Time (kālājñaptā bhayāvahāḥ), arose for the annihilation (abhāvāya) of the rākṣasa lords.
+**52:** Both terrestrial and atmospheric portents (_bhaumāś caivāntarikṣāś ca_), dread-inspiring and dispatched by Time (_kālājñaptā bhayāvahāḥ_), arose for the annihilation (_abhāvāya_) of the rākṣasa lords.
 </details>
 </details>
 
@@ -1583,7 +1583,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clouds rained down bones and hot blood (asthīni meghā vavṛṣur uṣṇaṃ śoṇitam); the oceans overstepped their shores (velāṃ samudrāś cotkrāntāḥ), and the mountains trembled (celuś cāpy atha bhūdharāḥ).
+Clouds rained down bones and hot blood (_asthīni meghā vavṛṣur uṣṇaṃ śoṇitam_); the oceans overstepped their shores (_velāṃ samudrāś cotkrāntāḥ_), and the mountains trembled (_celuś cāpy atha bhūdharāḥ_).
 </details>
 </details>
 
@@ -1614,7 +1614,7 @@ Clouds rained down bones and hot blood (asthīni meghā vavṛṣur uṣṇaṃ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Releasing peals of thunderous laughter (aṭṭahāsān vimuñcantaḥ) with voices equal to the roar of storm-clouds (ghana-nāda-sama-svanāḥ), fearsome-looking jackals howled dreadfully there (vāśyantyaś ca śivāḥ).
+Releasing peals of thunderous laughter (_aṭṭahāsān vimuñcantaḥ_) with voices equal to the roar of storm-clouds (_ghana-nāda-sama-svanāḥ_), fearsome-looking jackals howled dreadfully there (_vāśyantyaś ca śivāḥ_).
 </details>
 </details>
 
@@ -1653,7 +1653,7 @@ Flame-spewing vultures wheel overhead like a whirling firebrand while ill-omened
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Elemental beings were seen colliding in due sequence (sampatanty atha bhūtāni... yathākramam), and there hovered a huge wheel of vultures (gṛdhra-cakraṃ mahat) with flame-belching beaks (jvalanodgāribhir mukhaiḥ)—
+Elemental beings were seen colliding in due sequence (_sampatanty atha bhūtāni... yathākramam_), and there hovered a huge wheel of vultures (_gṛdhra-cakraṃ mahat_) with flame-belching beaks (_jvalanodgāribhir mukhaiḥ_)—
 </details>
 </details>
 
@@ -1686,7 +1686,7 @@ Elemental beings were seen colliding in due sequence (sampatanty atha bhūtāni.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—circling in the sky above the rākṣasas like a whirling firebrand (bhramate 'lāta-cakravat); red-footed pigeons (kapotā raktapādāḥ) and mynas fled away in panic, while crows and bipedal cats (biḍālā vai dvipādayaḥ) shrieked upon that very spot.
+—circling in the sky above the rākṣasas like a whirling firebrand (_bhramate &#x27;lāta-cakravat_); red-footed pigeons (_kapotā raktapādāḥ_) and mynas fled away in panic, while crows and bipedal cats (_biḍālā vai dvipādayaḥ_) shrieked upon that very spot.
 </details>
 </details>
 
@@ -1720,7 +1720,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heedlessly disregarding those portents (utpātāṃs tān anādṛtya), those rākṣasas, arrogant in their might (balagarvitāḥ), marched straight onward and did not turn back, already ensnared in the noose of Death (mṛtyu-pāśāvapāśitāḥ).
+Heedlessly disregarding those portents (_utpātāṃs tān anādṛtya_), those rākṣasas, arrogant in their might (_balagarvitāḥ_), marched straight onward and did not turn back, already ensnared in the noose of Death (_mṛtyu-pāśāvapāśitāḥ_).
 </details>
 </details>
 
@@ -1754,7 +1754,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mālyavān, Sumālin, and Mālin, of exceeding strength (sumahābalāḥ), marched at the very van of those hosts (āsan puraḥsarās teṣām), like the three sacred fires of Vedic sacrifices (kratūnām iva pāvakāḥ).
+Mālyavān, Sumālin, and Mālin, of exceeding strength (_sumahābalāḥ_), marched at the very van of those hosts (_āsan puraḥsarās teṣām_), like the three sacred fires of Vedic sacrifices (_kratūnām iva pāvakāḥ_).
 </details>
 </details>
 
@@ -1788,7 +1788,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all those night-roamers relied upon Mālyavān as upon the great Mount Mālyavān (mālyavantam ivācalam), even as the deities look to the Creator Dhātṛ (dhātāram iva devatāḥ).
+And all those night-roamers relied upon Mālyavān as upon the great Mount Mālyavān (_mālyavantam ivācalam_), even as the deities look to the Creator Dhātṛ (_dhātāram iva devatāḥ_).
 </details>
 </details>
 
@@ -1830,7 +1830,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That army of the rākṣasa lords (tad balaṃ rākṣasendrāṇām), roaring like a bank of massive rainclouds (mahābhra-ghana-nāditam), marched toward the world of the gods in desire of victory (jayepsayā), standing under the command of Mālin (māli-vaśe sthitam).
+That army of the rākṣasa lords (_tad balaṃ rākṣasendrāṇām_), roaring like a bank of massive rainclouds (_mahābhra-ghana-nāditam_), marched toward the world of the gods in desire of victory (_jayepsayā_), standing under the command of Mālin (_māli-vaśe sthitam_).
 </details>
 </details>
 
@@ -1864,7 +1864,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning of that mobilization of the rākṣasas (rākṣasānāṃ samudyogam) from a messenger of the gods (devadūtād upaśrutya), the sovereign Lord Nārāyaṇa then set his mind upon battle (cakre yuddhe tadā manaḥ).
+Learning of that mobilization of the rākṣasas (_rākṣasānāṃ samudyogam_) from a messenger of the gods (_devadūtād upaśrutya_), the sovereign Lord Nārāyaṇa then set his mind upon battle (_cakre yuddhe tadā manaḥ_).
 </details>
 </details>
 
@@ -1895,7 +1895,7 @@ Learning of that mobilization of the rākṣasas (rākṣasānāṃ samudyogam) 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his weapons and quiver made ready (sajjāyudha-tūṇīraḥ), taking his place upon Vinatā's son (vainateyopari sthitaḥ), he fastened on his celestial armor (āsajjya kavacaṃ divyam), radiant as a thousand suns (sahasrārka-sama-dyuti).
+With his weapons and quiver made ready (_sajjāyudha-tūṇīraḥ_), taking his place upon Vinatā&#x27;s son (_vainateyopari sthitaḥ_), he fastened on his celestial armor (_āsajjya kavacaṃ divyam_), radiant as a thousand suns (_sahasrārka-sama-dyuti_).
 </details>
 </details>
 
@@ -1929,7 +1929,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bound on two spotless quivers brimful of arrows (śara-sampūrṇe iṣudhī vimale), along with his waist-cord and gleaming sword (śroṇi-sūtraṃ ca khaḍgaṃ ca), the lotus-eyed Lord took up his foremost weapons named the conch, discus, mace, Śārṅga bow, and sword.
+Having bound on two spotless quivers brimful of arrows (_śara-sampūrṇe iṣudhī vimale_), along with his waist-cord and gleaming sword (_śroṇi-sūtraṃ ca khaḍgaṃ ca_), the lotus-eyed Lord took up his foremost weapons named the conch, discus, mace, Śārṅga bow, and sword.
 </details>
 </details>
 
@@ -1960,7 +1960,7 @@ Having bound on two spotless quivers brimful of arrows (śara-sampūrṇe iṣud
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, mounted upon the mountain-like Suparṇa, son of Vinatā (suparṇaṃ giri-saṅkāśaṃ vainateyam athāsthitaḥ), the Lord sped swiftly forth (yayau tūrṇataram) for the destruction of the rākṣasas (rākṣasānām abhāvāya).
+Then, mounted upon the mountain-like Suparṇa, son of Vinatā (_suparṇaṃ giri-saṅkāśaṃ vainateyam athāsthitaḥ_), the Lord sped swiftly forth (_yayau tūrṇataram_) for the destruction of the rākṣasas (_rākṣasānām abhāvāya_).
 </details>
 </details>
 
@@ -2001,9 +2001,9 @@ Shining upon golden Garuḍa like a lightning-laced raincloud atop a golden peak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**65:** Upon the back of Suparṇa (suparṇa-pṛṣṭhe), dark-hued Hari clad in yellow raiment (śyāmaḥ pītāmbaro hariḥ) shone forth like a raincloud laced with lightning (sataḍit-toyado yathā) perched atop the crest of a golden mountain (kāñcanasya gireḥ śṛṅge).
+**65:** Upon the back of Suparṇa (_suparṇa-pṛṣṭhe_), dark-hued Hari clad in yellow raiment (_śyāmaḥ pītāmbaro hariḥ_) shone forth like a raincloud laced with lightning (_sataḍit-toyado yathā_) perched atop the crest of a golden mountain (_kāñcanasya gireḥ śṛṅge_).
 
-**66:** Hymned by Siddhas, divine sages, great serpents, Gandharvas, and Yakṣas (upagīyamānaḥ), wielding in his hands the discus, sword, Śārṅga bow, and conch (cakrāsi-śārṅgāyudha-śaṅkha-pāṇiḥ), he drew near to those foes of the demonic host (samāsasādāsurasainya-śatrūn).
+**66:** Hymned by Siddhas, divine sages, great serpents, Gandharvas, and Yakṣas (_upagīyamānaḥ_), wielding in his hands the discus, sword, Śārṅga bow, and conch (_cakrāsi-śārṅgāyudha-śaṅkha-pāṇiḥ_), he drew near to those foes of the demonic host (_samāsasādāsurasainya-śatrūn_).
 </details>
 </details>
 
@@ -2034,7 +2034,7 @@ Shining upon golden Garuḍa like a lightning-laced raincloud atop a golden peak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Its flanks shaken by the gale of Suparṇa's wings (suparṇa-pakṣānila-nunna-pakṣam), its banners whipping wildly (bhramat-patākam), and its weapons flung in disarray (pravikīrṇa-śastram), that army of the rākṣasa kings trembled like the dark Mount Nīla (nīla ivācalendraḥ) with boulders tumbling down its slopes (calopalam).
+Its flanks shaken by the gale of Suparṇa&#x27;s wings (_suparṇa-pakṣānila-nunna-pakṣam_), its banners whipping wildly (_bhramat-patākam_), and its weapons flung in disarray (_pravikīrṇa-śastram_), that army of the rākṣasa kings trembled like the dark Mount Nīla (_nīla ivācalendraḥ_) with boulders tumbling down its slopes (_calopalam_).
 </details>
 </details>
 
@@ -2069,7 +2069,7 @@ Its flanks shaken by the gale of Suparṇa's wings (suparṇa-pakṣānila-nunna
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, surrounding Mādhava on every side (samparivārya mādhavam), the night-roamers pierced him (nirbibhiduḥ) by the thousands with superb arrows smeared with blood and flesh (śoṇita-māṃsa-rūṣitaiḥ) and resembling in form the fire at the end of an age (yugānta-vaiśvānara-tulya-vigrahaiḥ).
+Thereupon, surrounding Mādhava on every side (_samparivārya mādhavam_), the night-roamers pierced him (_nirbibhiduḥ_) by the thousands with superb arrows smeared with blood and flesh (_śoṇita-māṃsa-rūṣitaiḥ_) and resembling in form the fire at the end of an age (_yugānta-vaiśvānara-tulya-vigrahaiḥ_).
 </details>
 </details>
 

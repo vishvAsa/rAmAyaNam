@@ -96,9 +96,9 @@ Sumitra, suppliantly gripped his feet and started to address him. [4-66-1, 2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** [Beholding] him thus scorched by grief (śoka-saṃtaptam), lamenting like one helpless (vilapantam anāthavat), overwhelmed by great delusion (mohena mahatā yuktam), wasted with sorrow (paridyūnam), and distraught in mind (acetasam)—
+**1:** [Beholding] him thus scorched by grief (_śoka-saṃtaptam_), lamenting like one helpless (_vilapantam anāthavat_), overwhelmed by great delusion (_mohena mahatā yuktam_), wasted with sorrow (_paridyūnam_), and distraught in mind (_acetasam_)—
 
-**2:** Then Lakṣmaṇa, son of Sumitrā (saumitriḥ), having recovered his breath (āśvasya) after an hour, as it were (muhūrtād iva), reasoned with Rāma (rāmaṃ saṃbodhayām āsa), clasping his feet (caraṇau cābhipīḍayan):
+**2:** Then Lakṣmaṇa, son of Sumitrā (_saumitriḥ_), having recovered his breath (_āśvasya_) after an hour, as it were (_muhūrtād iva_), reasoned with Rāma (_rāmaṃ saṃbodhayām āsa_), clasping his feet (_caraṇau cābhipīḍayan_):
 </details>
 </details>
 
@@ -165,7 +165,7 @@ on...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By great austerity (mahatā tapasā) and also by a great sacrificial rite (mahatā karmaṇā), you were obtained (āsīl labdhaḥ) by King Daśaratha, like ambrosia by the immortals (amṛtam ivāmaraiḥ).
+“By great austerity (_mahatā tapasā_) and also by a great sacrificial rite (_mahatā karmaṇā_), you were obtained (_āsīl labdhaḥ_) by King Daśaratha, like ambrosia by the immortals (_amṛtam ivāmaraiḥ_).
 </details>
 </details>
 
@@ -227,7 +227,7 @@ that of demons, what will he say of you...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound by your virtues alone (tava caiva guṇair baddhaḥ), the king, lord of the earth (mahīpatiḥ), attained godhood [in heaven] (devatvam āpannaḥ) through separation from you (tvad-viyogāt), just as was heard from Bharata (bharatasya yathā śrutam).
+Bound by your virtues alone (_tava caiva guṇair baddhaḥ_), the king, lord of the earth (_mahīpatiḥ_), attained godhood [in heaven] (_devatvam āpannaḥ_) through separation from you (_tvad-viyogāt_), just as was heard from Bharata (_bharatasya yathā śrutam_).
 </details>
 </details>
 
@@ -288,7 +288,7 @@ situation...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you, O Kākutstha, will not endure (na sahiṣyase) this sorrow that has befallen you (duḥkham idaṃ prāptam), what other ordinary man (itaraḥ prākṛtaḥ) of little fortitude (alpa-sattvaś ca) will endure it?
+If you, O Kākutstha, will not endure (_na sahiṣyase_) this sorrow that has befallen you (_duḥkham idaṃ prāptam_), what other ordinary man (_itaraḥ prākṛtaḥ_) of little fortitude (_alpa-sattvaś ca_) will endure it?
 </details>
 </details>
 
@@ -353,7 +353,7 @@ mutable...' but think yourself, what to do next, in a human way...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Take heart (āśvasihi), O best of men (nara-śreṣṭha)! What living being (prāṇinaḥ kasya) do calamities (āpadaḥ) not touch like fire (saṃspṛśanty agnivad), O king, and pass away in an instant (kṣaṇena vyapayānti ca)?”
+Take heart (_āśvasihi_), O best of men (_nara-śreṣṭha_)! What living being (_prāṇinaḥ kasya_) do calamities (_āpadaḥ_) not touch like fire (_saṃspṛśanty agnivad_), O king, and pass away in an instant (_kṣaṇena vyapayānti ca_)?”
 </details>
 </details>
 
@@ -425,7 +425,7 @@ inmates of worlds...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For if you, when afflicted with sorrow (duḥkhitaḥ), burn up the worlds with your fiery energy (lokāṃs tejasā yadi dhakṣyate), O tiger among men (nara-vyāghra), where indeed will distressed creatures (ārtāḥ prajāḥ) find peace (nirvṛtim)?
+“For if you, when afflicted with sorrow (_duḥkhitaḥ_), burn up the worlds with your fiery energy (_lokāṃs tejasā yadi dhakṣyate_), O tiger among men (_nara-vyāghra_), where indeed will distressed creatures (_ārtāḥ prajāḥ_) find peace (_nirvṛtim_)?
 </details>
 </details>
 
@@ -493,7 +493,7 @@ order...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This is the very nature of the world (loka-svabhāva evaiṣa): Yayāti, son of Nahuṣa (nahuṣātmajaḥ), attained the same celestial world as Śakra [Indra] (śakreṇa sālokyam), yet misfortune (anayaḥ) touched him (taṃ samaspṛśat).
+This is the very nature of the world (_loka-svabhāva evaiṣa_): Yayāti, son of Nahuṣa (_nahuṣātmajaḥ_), attained the same celestial world as Śakra [Indra] (_śakreṇa sālokyam_), yet misfortune (_anayaḥ_) touched him (_taṃ samaspṛśat_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ undertaking humanly effort... is this befitting...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great sage Vasiṣṭha, who was the family priest of our father (pitur naḥ purohitaḥ), begot a hundred sons in a single day (ahnā putra-śataṃ jajñe), and even so they were slain again (punar hatam) [in a single day].
+And the great sage Vasiṣṭha, who was the family priest of our father (_pitur naḥ purohitaḥ_), begot a hundred sons in a single day (_ahnā putra-śataṃ jajñe_), and even so they were slain again (_punar hatam_) [in a single day].
 </details>
 </details>
 
@@ -620,7 +620,7 @@ it, lest it boomerangs...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And this earth (bhūmeḥ), who is the mother of the world (jagato mātā) and revered by all peoples (sarva-loka-namaskṛtā)—even her trembling (asyāś ca calanam) is seen, O lord of Kosala (kosaleśvara).
+And this earth (_bhūmeḥ_), who is the mother of the world (_jagato mātā_) and revered by all peoples (_sarva-loka-namaskṛtā_)—even her trembling (_asyāś ca calanam_) is seen, O lord of Kosala (_kosaleśvara_).
 </details>
 </details>
 
@@ -687,7 +687,7 @@ eclipses you, temporarily...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the mighty sun and moon (āditya-candrau mahā-balau), who are the twin embodiments of dharma (dharmau) and the eyes of the world (jagato netrau) on whom all things rest (yatra sarvaṃ pratiṣṭhitam), undergo eclipse (grahaṇam abhyupetau).”
+And the mighty sun and moon (_āditya-candrau mahā-balau_), who are the twin embodiments of _dharma_ (_dharmau_) and the eyes of the world (_jagato netrau_) on whom all things rest (_yatra sarvaṃ pratiṣṭhitam_), undergo eclipse (_grahaṇam abhyupetau_).”
 </details>
 </details>
 
@@ -757,7 +757,7 @@ Absolute...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even the greatest beings (sumahānty api bhūtāni) and the gods, O bull among men (puruṣarṣabha)—indeed, all embodied beings (sarva-bhūtāni dehinaḥ)—do not escape (na pramuñcanti) the sway of destiny (daivasya).
+“Even the greatest beings (_sumahānty api bhūtāni_) and the gods, O bull among men (_puruṣarṣabha_)—indeed, all embodied beings (_sarva-bhūtāni dehinaḥ_)—do not escape (_na pramuñcanti_) the sway of destiny (_daivasya_).
 </details>
 </details>
 
@@ -816,7 +816,7 @@ psalm in The Bible: 'Fret not thyself because of the ungodly...' Psalm 37, v 1.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even among the gods headed by Śakra [Indra] (śakrādiṣv api deveṣu), good and ill fortune (nayānayau) are heard to prevail (vartamānau śrūyete), O tiger among men (nara-śārdūla); you ought not to grieve (na tvaṃ śocitum arhasi).
+Even among the gods headed by Śakra [Indra] (_śakrādiṣv api deveṣu_), good and ill fortune (_nayānayau_) are heard to prevail (_vartamānau śrūyete_), O tiger among men (_nara-śārdūla_); you ought not to grieve (_na tvaṃ śocitum arhasi_).
 </details>
 </details>
 
@@ -868,7 +868,7 @@ like this as with any other commoner without tracking her whereabouts... [4-66-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if Vaidehī were dead (mṛtāyām api vaidehyām) or lost (naṣṭāyām api), O Rāghava, you ought not to grieve, O hero, just like another ordinary man (yathānyaḥ prākṛtas tathā).
+Even if Vaidehī were dead (_mṛtāyām api vaidehyām_) or lost (_naṣṭāyām api_), O Rāghava, you ought not to grieve, O hero, just like another ordinary man (_yathānyaḥ prākṛtas tathā_).
 </details>
 </details>
 
@@ -925,7 +925,7 @@ like this... [4-66-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For men like you (tvad-vidhāḥ), ever all-seeing (satataṃ sarva-darśanāḥ) and undismayed in their discernment (anirviṇṇa-darśanāḥ), do not grieve, O Rāma, even in the greatest distress (sumahatsv api kṛcchreṣu).
+For men like you (_tvad-vidhāḥ_), ever all-seeing (_satataṃ sarva-darśanāḥ_) and undismayed in their discernment (_anirviṇṇa-darśanāḥ_), do not grieve, O Rāma, even in the greatest distress (_sumahatsv api kṛcchreṣu_).
 </details>
 </details>
 
@@ -979,7 +979,7 @@ brainily, and great brains will comprehend good and bad in subtlety with their b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflect according to the truth (tattvato hi samanucintaya) with your intellect (buddhyā), O best of men! Endowed with intellect, men of great wisdom (mahā-prājñāḥ) discern what is auspicious and inauspicious (śubhāśubhe).”
+Reflect according to the truth (_tattvato hi samanucintaya_) with your intellect (_buddhyā_), O best of men! Endowed with intellect, men of great wisdom (_mahā-prājñāḥ_) discern what is auspicious and inauspicious (_śubhāśubhe_).”
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ Bhagavad Gita.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of actions whose merits and defects are unseen (adṛṣṭa-guṇa-doṣāṇām) and which are transient (adhruvāṇām), the desired fruit (phalam iṣṭam) does not come into being without their performance (nāntareṇa kriyāṃ teṣām).
+“Of actions whose merits and defects are unseen (_adṛṣṭa-guṇa-doṣāṇām_) and which are transient (_adhruvāṇām_), the desired fruit (_phalam iṣṭam_) does not come into being without their performance (_nāntareṇa kriyāṃ teṣām_).
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ repeatedly, who really can profess you even he were to be professedly the Jupite
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, O hero, you yourself spoke to me thus many a time in the past (mām evaṃ hi purā bahuśoktavān); who indeed—even Bṛhaspati in person (api sākṣād bṛhaspatiḥ)—could instruct you (anuśiṣyāt)?
+Indeed, O hero, you yourself spoke to me thus many a time in the past (_mām evaṃ hi purā bahuśoktavān_); who indeed—even Bṛhaspati in person (_api sākṣād bṛhaspatiḥ_)—could instruct you (_anuśiṣyāt_)?
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ addressing your percipience and this is no schoolteaching... [4-66-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And your intellect (buddhiś ca te), O man of great wisdom (mahā-prājña), is unfathomable even by the gods (devair api duranvayā); I am [merely] awakening (saṃbodhayāmy aham) your knowledge, which has been lulled to sleep by grief (śokenābhiprasuptam).
+And your intellect (_buddhiś ca te_), O man of great wisdom (_mahā-prājña_), is unfathomable even by the gods (_devair api duranvayā_); I am [merely] awakening (_saṃbodhayāmy aham_) your knowledge, which has been lulled to sleep by grief (_śokenābhiprasuptam_).
 </details>
 </details>
 
@@ -1265,7 +1265,7 @@ the abuser...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having considered your own valour (ātmanaś ca parākramam), both divine and human (divyaṃ ca mānuṣaṃ caivam), O bull of the Ikṣvākus (ikṣvāku-vṛṣabha), strive for the slaying of your foes (yatasva dviṣatāṃ vadhe).
+Having considered your own valour (_ātmanaś ca parākramam_), both divine and human (_divyaṃ ca mānuṣaṃ caivam_), O bull of the Ikṣvākus (_ikṣvāku-vṛṣabha_), strive for the slaying of your foes (_yatasva dviṣatāṃ vadhe_).
 </details>
 </details>
 
@@ -1330,7 +1330,7 @@ and it will be apt of you to uproot him... him alone... [4-66-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What use is there to you (kiṃ te) in bringing about universal destruction (sarva-vināśena kṛtena), O bull among men (puruṣarṣabha)? Having ascertained that wicked enemy alone (tam eva tu ripuṃ pāpaṃ vijñāya), you ought to uproot him (uddhartum arhasi).”
+What use is there to you (_kiṃ te_) in bringing about universal destruction (_sarva-vināśena kṛtena_), O bull among men (_puruṣarṣabha_)? Having ascertained that wicked enemy alone (_tam eva tu ripuṃ pāpaṃ vijñāya_), you ought to uproot him (_uddhartum arhasi_).”
 </details>
 </details>
 

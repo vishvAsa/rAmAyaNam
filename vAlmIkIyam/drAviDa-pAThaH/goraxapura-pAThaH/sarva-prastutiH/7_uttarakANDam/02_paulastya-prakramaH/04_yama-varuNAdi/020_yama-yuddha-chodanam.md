@@ -48,7 +48,7 @@ Terrorizing mortals across the earth, Rāvaṇa encounters the celestial sage N�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, terrorizing mortals upon the earth (vitrāsayan martyān pṛthivyām), that sovereign of the rākṣasas (rākṣasādhipaḥ) encountered the bull among sages, Nārada (nāradaṃ munipuṅgavam), stationed amid a cloud there (ghane tasmin).
+Then, terrorizing mortals upon the earth (_vitrāsayan martyān pṛthivyām_), that sovereign of the rākṣasas (_rākṣasādhipaḥ_) encountered the bull among sages, Nārada (_nāradaṃ munipuṅgavam_), stationed amid a cloud there (_ghane tasmin_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Then, terrorizing mortals upon the earth (vitrāsayan martyān pṛthivyām), th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered reverent salutation to him (tasyābhivādanaṃ kṛtvā), the ten-necked night-roamer (daśagrīvo niśācaraḥ) inquired after his welfare (kuśalaṃ pṛṣṭvā) and asked the reason for his coming (hetum āgamanasya ca).
+Having offered reverent salutation to him (_tasyābhivādanaṃ kṛtvā_), the ten-necked night-roamer (_daśagrīvo niśācaraḥ_) inquired after his welfare (_kuśalaṃ pṛṣṭvā_) and asked the reason for his coming (_hetum āgamanasya ca_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Having offered reverent salutation to him (tasyābhivādanaṃ kṛtvā), the te
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Nārada of mighty radiance (nāradas tu mahātejāḥ), the celestial seer of boundless splendor (devarṣir amitaprabhaḥ), resting upon the back of a cloud (megha-pṛṣṭhasthaḥ), addressed Rāvaṇa seated in the Puṣpaka car (rāvaṇaṃ puṣpake sthitam):
+Then Nārada of mighty radiance (_nāradas tu mahātejāḥ_), the celestial seer of boundless splendor (_devarṣir amitaprabhaḥ_), resting upon the back of a cloud (_megha-pṛṣṭhasthaḥ_), addressed Rāvaṇa seated in the Puṣpaka car (_rāvaṇaṃ puṣpake sthitam_):
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Then Nārada of mighty radiance (nāradas tu mahātejāḥ), the celestial seer 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stay a moment, O gentle lord of the rākṣasas (rākṣasādhipate saumya tiṣṭha), son of Viśravas (viśravasaḥ suta)! I am delighted by your exalted exploits, worthy of your noble birth (abhijanopeta-vikramair ūrjitais tava).
+“Stay a moment, O gentle lord of the rākṣasas (_rākṣasādhipate saumya tiṣṭha_), son of Viśravas (_viśravasaḥ suta_)! I am delighted by your exalted exploits, worthy of your noble birth (_abhijanopeta-vikramair ūrjitais tava_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Then Nārada of mighty radiance (nāradas tu mahātejāḥ), the celestial seer 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Greatly indeed have I been gratified (bhṛśaṃ hi paritoṣitaḥ) by Viṣṇu’s slaughters of Daityas (viṣṇunā daitya-ghātaiś ca), and likewise by the fierce conflicts (samam vimardaiś ca) waged by you in assailing Gandharvas and serpents (gandharvoraga-dharṣaṇaiḥ).
+“Greatly indeed have I been gratified (_bhṛśaṃ hi paritoṣitaḥ_) by Viṣṇu’s slaughters of Daityas (_viṣṇunā daitya-ghātaiś ca_), and likewise by the fierce conflicts (_samam vimardaiś ca_) waged by you in assailing Gandharvas and serpents (_gandharvoraga-dharṣaṇaiḥ_).
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Then Nārada of mighty radiance (nāradas tu mahātejāḥ), the celestial seer 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall speak to you a brief matter well worth hearing (kiṃcid vakṣyāmi tāvat te śrotavyam), if you will listen (śroṣyase yadi)—and having heard it, you should act upon it immediately (śrutvā cānantaraṃ kāryam), O foremost of rākṣasas! Therefore, O dear one, fix your mind attentively upon my words as I speak (samādhiṃ śravaṇe kuru).
+“I shall speak to you a brief matter well worth hearing (_kiṃcid vakṣyāmi tāvat te śrotavyam_), if you will listen (_śroṣyase yadi_)—and having heard it, you should act upon it immediately (_śrutvā cānantaraṃ kāryam_), O foremost of rākṣasas! Therefore, O dear one, fix your mind attentively upon my words as I speak (_samādhiṃ śravaṇe kuru_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why is this mortal world being slain (kim ayaṃ vadhyate), O dear one, by you who are invulnerable to the gods (tvayā ’vadhyena daivataiḥ)? For this world is already slain (hata eva hy ayaṃ lokaḥ), inasmuch as it has fallen under the sway of Death (yadā mṛtyu-vaśaṃ gataḥ)!
+“Why is this mortal world being slain (_kim ayaṃ vadhyate_), O dear one, by you who are invulnerable to the gods (_tvayā ’vadhyena daivataiḥ_)? For this world is already slain (_hata eva hy ayaṃ lokaḥ_), inasmuch as it has fallen under the sway of Death (_yadā mṛtyu-vaśaṃ gataḥ_)!
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Invulnerable as you are to gods, Dānavas, Daityas, Yakṣas, Gandharvas, and rākṣasas (deva-dānava-daityānām ... avadhyena), it is not fitting for you to torment the mortal world (lokaḥ kleṣṭuṃ yukto na mānuṣaḥ).
+“Invulnerable as you are to gods, Dānavas, Daityas, Yakṣas, Gandharvas, and rākṣasas (_deva-dānava-daityānām ... avadhyena_), it is not fitting for you to torment the mortal world (_lokaḥ kleṣṭuṃ yukto na mānuṣaḥ_).
 </details>
 </details>
 
@@ -304,7 +304,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Forever bewildered regarding its true welfare (nityaṃ śreyasi sammūḍham), encompassed by great calamities (mahadbhir vyasanair vṛtam), and beset by hundreds of ills of old age and disease (jarā-vyādhi-śatair yutam)—who would slay such a world as this (hanyāt kas tādṛśaṃ lokam)?
+“Forever bewildered regarding its true welfare (_nityaṃ śreyasi sammūḍham_), encompassed by great calamities (_mahadbhir vyasanair vṛtam_), and beset by hundreds of ills of old age and disease (_jarā-vyādhi-śatair yutam_)—who would slay such a world as this (_hanyāt kas tādṛśaṃ lokam_)?
 </details>
 </details>
 
@@ -335,7 +335,7 @@ Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Afflicted incessantly everywhere by manifold encounters with misfortune (tais tair aniṣṭopagamair ajasraṃ yatra kutra)—what intelligent warrior (kaḥ matimān) would take delight in waging war against the world of men (mānuṣe loke yuddhena praṇayī bhavet)?
+“Afflicted incessantly everywhere by manifold encounters with misfortune (_tais tair aniṣṭopagamair ajasraṃ yatra kutra_)—what intelligent warrior (_kaḥ matimān_) would take delight in waging war against the world of men (_mānuṣe loke yuddhena praṇayī bhavet_)?
 </details>
 </details>
 
@@ -369,7 +369,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not destroy (tvaṃ kṣapayasva mā) a world already wasting away (kṣīyamāṇam), smitten by destiny (daiva-hatam) through hunger, thirst, old age, and the like, and bewildered by dejection and sorrow (viṣāda-śoka-sammūḍham)!
+“Do not destroy (_tvaṃ kṣapayasva mā_) a world already wasting away (_kṣīyamāṇam_), smitten by destiny (_daiva-hatam_) through hunger, thirst, old age, and the like, and bewildered by dejection and sorrow (_viṣāda-śoka-sammūḍham_)!
 </details>
 </details>
 
@@ -400,7 +400,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just behold, O mighty-armed lord of rākṣasas (rākṣaseśvara), this deluded human world (mānuṣaṃ mūḍham)—entangled in such manifold pursuits (vicitrārtham), whose destiny cannot be known (yasya na jñāyate gatiḥ)!
+“Just behold, O mighty-armed lord of rākṣasas (_rākṣaseśvara_), this deluded human world (_mānuṣaṃ mūḍham_)—entangled in such manifold pursuits (_vicitrārtham_), whose destiny cannot be known (_yasya na jñāyate gatiḥ_)!
 </details>
 </details>
 
@@ -439,7 +439,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In one place instrumental music, dance, and the like are enjoyed by joyous folk (vāditra-nṛtyādi sevyate muditair janaiḥ), while in another, afflicted people weep aloud (rudyate cāparair ārtaiḥ), their eyes and faces drenched with streams of tears (dhārāśru-nayanānanaiḥ).
+“In one place instrumental music, dance, and the like are enjoyed by joyous folk (_vāditra-nṛtyādi sevyate muditair janaiḥ_), while in another, afflicted people weep aloud (_rudyate cāparair ārtaiḥ_), their eyes and faces drenched with streams of tears (_dhārāśru-nayanānanaiḥ_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deluded by affection for mother, father, and sons (mātā-pitṛ-suta-snehaiḥ) and by the delights of wife and kinsmen (bhāryā-bandhu-manoramaiḥ), these fallen folk (jano dhvastaḥ) do not recognize their own suffering (kleśaṃ svaṃ nāvabudhyate).
+“Deluded by affection for mother, father, and sons (_mātā-pitṛ-suta-snehaiḥ_) and by the delights of wife and kinsmen (_bhāryā-bandhu-manoramaiḥ_), these fallen folk (_jano dhvastaḥ_) do not recognize their own suffering (_kleśaṃ svaṃ nāvabudhyate_).
 </details>
 </details>
 
@@ -501,7 +501,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough of tormenting this world (alam enaṃ parikliśya lokam) already cast down by delusion (moha-nirākṛtam)! Assuredly, O gentle one, the mortal world is already vanquished by you (jita eva tvayā ... martya-lokaḥ)—there is no doubt!
+“Enough of tormenting this world (_alam enaṃ parikliśya lokam_) already cast down by delusion (_moha-nirākṛtam_)! Assuredly, O gentle one, the mortal world is already vanquished by you (_jita eva tvayā ... martya-lokaḥ_)—there is no doubt!
 </details>
 </details>
 
@@ -534,7 +534,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inevitably must all these beings go to the abode of Yama (avaśyam ebhiḥ sarvaiś ca gantavyaṃ yama-sādanam); therefore, O Paulastya, conqueror of hostile cities (para-purañjaya), subdue Yama himself (tan nigṛhṇīṣva ... yamam)!
+“Inevitably must all these beings go to the abode of Yama (_avaśyam ebhiḥ sarvaiś ca gantavyaṃ yama-sādanam_); therefore, O Paulastya, conqueror of hostile cities (_para-purañjaya_), subdue Yama himself (_tan nigṛhṇīṣva ... yamam_)!
 </details>
 </details>
 
@@ -565,7 +565,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For when he is vanquished, all indeed is vanquished (tasmiñ jite jitaṃ sarvaṃ bhavaty eva)—of that there is no doubt!” Thus addressed, the lord of Laṅkā (laṅkeśaḥ), laughing brightly and bowing (samprahasyābhivādya ca), addressed Nārada there, who blazed with his own radiance (dīpyamānaṃ svatejasā):
+“For when he is vanquished, all indeed is vanquished (_tasmiñ jite jitaṃ sarvaṃ bhavaty eva_)—of that there is no doubt!” Thus addressed, the lord of Laṅkā (_laṅkeśaḥ_), laughing brightly and bowing (_samprahasyābhivādya ca_), addressed Nārada there, who blazed with his own radiance (_dīpyamānaṃ svatejasā_):
 </details>
 </details>
 
@@ -596,7 +596,7 @@ Contrasting mortal revelry with tear-drenched grief and familial delusion, Nāra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O great sage, who delight in the realms of gods and Gandharvas (deva-gandharva-vihāra) and are fond of battle (samara-priya), I am fully prepared to depart (ahaṃ samudyato gantum) for the conquest of Rasātala (vijayārthaṃ rasātalam).
+“O great sage, who delight in the realms of gods and Gandharvas (_deva-gandharva-vihāra_) and are fond of battle (_samara-priya_), I am fully prepared to depart (_ahaṃ samudyato gantum_) for the conquest of Rasātala (_vijayārthaṃ rasātalam_).
 </details>
 </details>
 
@@ -638,7 +638,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having conquered the three worlds (loka-trayaṃ jitvā) and brought both Nāgas and gods under my sway (sthāpya nāgān surān vaśe), I shall churn the ocean, the abode of nectar-essence (samudram amṛtārthaṃ ca mathiṣyāmi rasālayam), for the sake of immortality.”
+“Then, having conquered the three worlds (_loka-trayaṃ jitvā_) and brought both Nāgas and gods under my sway (_sthāpya nāgān surān vaśe_), I shall churn the ocean, the abode of nectar-essence (_samudram amṛtārthaṃ ca mathiṣyāmi rasālayam_), for the sake of immortality.”
 </details>
 </details>
 
@@ -673,9 +673,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Thereupon the venerable sage Nārada (nārado bhagavān ṛṣiḥ) addressed the ten-necked king: “Where indeed are you going now (kva khalv idānīṃ ... gamyate) by this other road (mārgeṇa tvayā hy anyena)?
+**20:** Thereupon the venerable sage Nārada (_nārado bhagavān ṛṣiḥ_) addressed the ten-necked king: “Where indeed are you going now (_kva khalv idānīṃ ... gamyate_) by this other road (_mārgeṇa tvayā hy anyena_)?
 
-**21:** “Behold, this exceeding hard-to-traverse, unassailable road (ayaṃ khalu sudurgamyaḥ ... mārgo ... durdharṣaḥ) leads directly toward the city of the King of the Departed (pretarāja-puraṃ prati), Yama’s realm, O crusher of foes (amitra-karśana)!”
+**21:** “Behold, this exceeding hard-to-traverse, unassailable road (_ayaṃ khalu sudurgamyaḥ ... mārgo ... durdharṣaḥ_) leads directly toward the city of the King of the Departed (_pretarāja-puraṃ prati_), Yama’s realm, O crusher of foes (_amitra-karśana_)!”
 </details>
 </details>
 
@@ -701,7 +701,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Ten-Headed one, bursting into laughter bright as an autumn cloud (śārada-meghābhaṃ hāsaṃ muktvā), exclaimed, “It is done!” (uvāca kṛtam ity eva), and spoke these further words:
+Then that Ten-Headed one, bursting into laughter bright as an autumn cloud (_śārada-meghābhaṃ hāsaṃ muktvā_), exclaimed, “It is done!” (_uvāca kṛtam ity eva_), and spoke these further words:
 </details>
 </details>
 
@@ -740,7 +740,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Ten-Headed one, bursting into laughter bright as an autumn cloud (śārada-meghābhaṃ hāsaṃ muktvā), exclaimed, “It is done!” (uvāca kṛtam ity eva), and spoke these further words:
+Then that Ten-Headed one, bursting into laughter bright as an autumn cloud (_śārada-meghābhaṃ hāsaṃ muktvā_), exclaimed, “It is done!” (_uvāca kṛtam ity eva_), and spoke these further words:
 </details>
 </details>
 
@@ -779,7 +779,7 @@ Declaring his wrathful vow to subdue all four world-guardians and unite Death’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For in my wrath, O venerable lord (bhagavan krodhāt), eager for war (raṇārthinā), I have already made a solemn vow (mayā hi ... pratijñātam): ‘I shall vanquish all four guardians of the worlds (avajeṣyāmi caturo lokapālān),’ O lord!
+“For in my wrath, O venerable lord (_bhagavan krodhāt_), eager for war (_raṇārthinā_), I have already made a solemn vow (_mayā hi ... pratijñātam_): ‘I shall vanquish all four guardians of the worlds (_avajeṣyāmi caturo lokapālān_),’ O lord!
 </details>
 </details>
 
@@ -810,7 +810,7 @@ Declaring his wrathful vow to subdue all four world-guardians and unite Death’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I now set forth (tad iha prasthito ’ham) toward the city of the King of the Departed (pretarāja-puraṃ prati); I shall unite that inflictor of torment upon living creatures (prāṇi-saṅkleśa-kartāram) with Death itself (yojayiṣyāmi mṛtyunā)!”
+“Therefore I now set forth (_tad iha prasthito ’ham_) toward the city of the King of the Departed (_pretarāja-puraṃ prati_); I shall unite that inflictor of torment upon living creatures (_prāṇi-saṅkleśa-kartāram_) with Death itself (_yojayiṣyāmi mṛtyunā_)!”
 </details>
 </details>
 
@@ -841,7 +841,7 @@ Declaring his wrathful vow to subdue all four world-guardians and unite Death’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and saluted that sage (muniṃ tam abhivādya ca), the Ten-Necked one departed (prayayau), entering the southern quarter (dakṣiṇām āśāṃ praviṣṭaḥ) together with his ministers (saha mantribhiḥ).
+Having spoken thus and saluted that sage (_muniṃ tam abhivādya ca_), the Ten-Necked one departed (_prayayau_), entering the southern quarter (_dakṣiṇām āśāṃ praviṣṭaḥ_) together with his ministers (_saha mantribhiḥ_).
 </details>
 </details>
 
@@ -872,7 +872,7 @@ Having spoken thus and saluted that sage (muniṃ tam abhivādya ca), the Ten-Ne
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Nārada of mighty splendor (nāradas tu mahātejāḥ), foremost of Brāhmaṇas (viprendraḥ), abiding in contemplation for a moment (muhūrtaṃ dhyānam āsthitaḥ), reflected deeply (cintayāmāsa), radiant as a smokeless fire (vidhūma iva pāvakaḥ):
+Then Nārada of mighty splendor (_nāradas tu mahātejāḥ_), foremost of Brāhmaṇas (_viprendraḥ_), abiding in contemplation for a moment (_muhūrtaṃ dhyānam āsthitaḥ_), reflected deeply (_cintayāmāsa_), radiant as a smokeless fire (_vidhūma iva pāvakaḥ_):
 </details>
 </details>
 
@@ -906,7 +906,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By whom all three worlds together with Indra, moving and unmoving (lokās trayaḥ sendrāḥ ... sacarācarāḥ), are brought under affliction (kliśyante) in accordance with dharma when their lifespan is spent (kṣīṇe cāyuṣi dharmeṇa)—how indeed can that Time be vanquished (sa kālo jeṣyate katham)?
+“By whom all three worlds together with Indra, moving and unmoving (_lokās trayaḥ sendrāḥ ... sacarācarāḥ_), are brought under affliction (_kliśyante_) in accordance with dharma when their lifespan is spent (_kṣīṇe cāyuṣi dharmeṇa_)—how indeed can that Time be vanquished (_sa kālo jeṣyate katham_)?
 </details>
 </details>
 
@@ -949,9 +949,9 @@ Marvelling at Yama—witness of every deed like a second Fire, ordainer of good 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** “He who is the witness of every gift bestowed and every deed performed (sva-datta-kṛta-sākṣī), like a second Fire (dvitīya iva pāvakaḥ), and through whose grace the worlds, gaining awareness, prevail (labdha-sañjñā vijeṣyante lokā yasya mahātmanaḥ)—
+**29:** “He who is the witness of every gift bestowed and every deed performed (_sva-datta-kṛta-sākṣī_), like a second Fire (_dvitīya iva pāvakaḥ_), and through whose grace the worlds, gaining awareness, prevail (_labdha-sañjñā vijeṣyante lokā yasya mahātmanaḥ_)—
 
-**30:** “Before whom the three worlds constantly flee, stricken with dread (nityaṃ trayo lokā vidravanti bhayārditāḥ)—how indeed will this lord of rākṣasas march against him of his own accord (taṃ kathaṃ rākṣasendro ’sau svayam eva gamiṣyati)?
+**30:** “Before whom the three worlds constantly flee, stricken with dread (_nityaṃ trayo lokā vidravanti bhayārditāḥ_)—how indeed will this lord of rākṣasas march against him of his own accord (_taṃ kathaṃ rākṣasendro ’sau svayam eva gamiṣyati_)?
 </details>
 </details>
 
@@ -984,9 +984,9 @@ Marvelling at Yama—witness of every deed like a second Fire, ordainer of good 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “He who is both the ordainer and the dispenser (yo vidhātā ca dhātā ca) of good deeds and evil deeds alike (sukṛtaṃ duṣkṛtaṃ tathā), and by whom the three worlds have been conquered (trailokyaṃ vijitaṃ yena)—how shall Rāvaṇa conquer him (taṃ kathaṃ vijayiṣyate)?
+**31:** “He who is both the ordainer and the dispenser (_yo vidhātā ca dhātā ca_) of good deeds and evil deeds alike (_sukṛtaṃ duṣkṛtaṃ tathā_), and by whom the three worlds have been conquered (_trailokyaṃ vijitaṃ yena_)—how shall Rāvaṇa conquer him (_taṃ kathaṃ vijayiṣyate_)?
 
-**32:** “Yet what other stratagem shall this one contrive (aparaṃ kintu kṛtvāyaṃ vidhānaṃ saṃvidhāsyati)? Filled with curiosity (kautūhala-samutpannaḥ), I shall go to the abode of Yama (yāsyāmi yama-sādanam) to witness with my own eyes the clash between these two, Yama and the rākṣasa (vimardaṃ draṣṭum anayor yama-rākṣasayoḥ svayam)!”
+**32:** “Yet what other stratagem shall this one contrive (_aparaṃ kintu kṛtvāyaṃ vidhānaṃ saṃvidhāsyati_)? Filled with curiosity (_kautūhala-samutpannaḥ_), I shall go to the abode of Yama (_yāsyāmi yama-sādanam_) to witness with my own eyes the clash between these two, Yama and the rākṣasa (_vimardaṃ draṣṭum anayor yama-rākṣasayoḥ svayam_)!”
 </details>
 </details>
 

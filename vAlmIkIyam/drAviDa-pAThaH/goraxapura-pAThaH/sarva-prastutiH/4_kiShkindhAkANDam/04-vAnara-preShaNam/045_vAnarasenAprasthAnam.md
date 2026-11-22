@@ -86,7 +86,7 @@ shall search all of this earth as I have detailed." Sugreeva said so to all monk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Summoning all the monkeys (sarvān plavagān), King Sugrīva, that bull among leapers, addressed them all collectively (samastān) for the accomplishment of Rāma's purpose (rāma-kāryārtha-siddhaye):
+Summoning all the monkeys (_sarvān plavagān_), King Sugrīva, that bull among leapers, addressed them all collectively (_samastān_) for the accomplishment of Rāma&#x27;s purpose (_rāma-kāryārtha-siddhaye_):
 </details>
 </details>
 
@@ -140,7 +140,7 @@ started out covering the earth like grasshoppers. [4-45-2, 3a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus must this [whole earth] be searched (vicetavyam) by you, O foremost of monkeys!” Understanding that stern command (ugra-śāsanam) of their lord, those bulls among monkeys—
+“Thus must this [whole earth] be searched (_vicetavyam_) by you, O foremost of monkeys!” Understanding that stern command (_ugra-śāsanam_) of their lord, those bulls among monkeys—
 </details>
 </details>
 
@@ -195,7 +195,7 @@ month which is marked for locating Seetha. [4-45-3b, 4a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—set forth, covering the earth (saṃchādya medinīm) like locusts (śalabhā iva). Meanwhile, Rāma dwelt upon that Mount Prasravaṇa together with Lakṣmaṇa,
+—set forth, covering the earth (_saṃchādya medinīm_) like locusts (_śalabhā iva_). Meanwhile, Rāma dwelt upon that Mount Prasravaṇa together with Lakṣmaṇa,
 </details>
 </details>
 
@@ -247,7 +247,7 @@ quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-awaiting (pratīkṣamāṇaḥ) that month which had been appointed for the recovery of Sītā (sītādhigamane kṛtaḥ). Toward the lovely northern quarter, ringed by the king of mountains (girirāja-samāvṛtām),
+awaiting (_pratīkṣamāṇaḥ_) that month which had been appointed for the recovery of Sītā (_sītādhigamane kṛtaḥ_). Toward the lovely northern quarter, ringed by the king of mountains (_girirāja-samāvṛtām_),
 </details>
 </details>
 
@@ -335,11 +335,11 @@ horrifying western direction that is ruled by Varuna, the Rain-god. [4-45-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** the heroic monkey Śatabali straightway set out (pratasthe sahasā) at that time; toward the eastern quarter marched the monkey troop-leader Vinata;
+**5:** the heroic monkey Śatabali straightway set out (_pratasthe sahasā_) at that time; toward the eastern quarter marched the monkey troop-leader Vinata;
 
-**6:** and the leaper Hanūmān, son of the Wind-god, accompanied by Tāra, Aṅgada, and others, [marched] as troop-leader toward the southern quarter frequented by Agastya (agastyācaritām āśām).
+**6:** and the leaper Hanūmān, son of the Wind-god, accompanied by Tāra, Aṅgada, and others, [marched] as troop-leader toward the southern quarter frequented by Agastya (_agastyācaritām āśām_).
 
-**7:** And toward the formidable western quarter (paścimāṃ diśam), guarded by Varuṇa (varuṇa-pālitām), set forth the lord of leapers Suṣeṇa, a tiger among monkeys.
+**7:** And toward the formidable western quarter (_paścimāṃ diśam_), guarded by Varuṇa (_varuṇa-pālitām_), set forth the lord of leapers Suṣeṇa, a tiger among monkeys.
 </details>
 </details>
 
@@ -397,7 +397,7 @@ as a requital to Rama's help. [4-45-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having duly (yathātatham) urged forth [his hosts toward] all the quarters, the heroic general of the monkey army, the king, already happy, rejoiced in bliss (mumoda sukhitaḥ sukham).
+Then, having duly (_yathātatham_) urged forth [his hosts toward] all the quarters, the heroic general of the monkey army, the king, already happy, rejoiced in bliss (_mumoda sukhitaḥ sukham_).
 </details>
 </details>
 
@@ -449,7 +449,7 @@ expeditiously started towards one's own direction. [4-45-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus impelled (saṃcoditāḥ) by the king, all the monkey troop-leaders swiftly set forth, heading toward (abhipretya) their respective quarters.
+Thus impelled (_saṃcoditāḥ_) by the king, all the monkey troop-leaders swiftly set forth, heading toward (_abhipretya_) their respective quarters.
 </details>
 </details>
 
@@ -658,19 +658,19 @@ monkey-warrior. [4-45-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Sounding forth (nadantaḥ), shouting aloud (unnadantaḥ), roaring boastfully (garjantaḥ), uttering lion-roars (kṣveḍantaḥ), and crying out in varied pitches (vinadantaḥ), thoseleapers of mighty strength raced onward.
+**10:** Sounding forth (_nadantaḥ_), shouting aloud (_unnadantaḥ_), roaring boastfully (_garjantaḥ_), uttering lion-roars (_kṣveḍantaḥ_), and crying out in varied pitches (_vinadantaḥ_), thoseleapers of mighty strength raced onward.
 
-**11:** Thus urged on by the king, all the monkey troop-leaders [cried]: “We shall bring back Sītā (ānayiṣyāmahe sītām), and we shall slay Rāvaṇa!”
+**11:** Thus urged on by the king, all the monkey troop-leaders [cried]: “We shall bring back Sītā (_ānayiṣyāmahe sītām_), and we shall slay Rāvaṇa!”
 
-**12:** [One boasted:] “I alone shall slay (vadhiṣyāmi) Rāvaṇa when he is encountered in battle; and thereafter, crushing [his host] by force (unmathya sahasā), I shall carry off Janaka's daughter!”
+**12:** [One boasted:] “I alone shall slay (_vadhiṣyāmi_) Rāvaṇa when he is encountered in battle; and thereafter, crushing [his host] by force (_unmathya sahasā_), I shall carry off Janaka&#x27;s daughter!”
 
-**13:** [Another cried:] “Do you all remain right here today! Single-handed (eka eva), I shall bring back Jānakī, trembling with exhaustion (vepamānāṃ śrameṇa), even from the netherworld (pātālād api)!”
+**13:** [Another cried:] “Do you all remain right here today! Single-handed (_eka eva_), I shall bring back Jānakī, trembling with exhaustion (_vepamānāṃ śrameṇa_), even from the netherworld (_pātālād api_)!”
 
-**14:** “I shall scatter (vidhamiṣyāmi) the trees, I shall rend asunder (dārayiṣyāmi) the mountains, I shall cleave the earth, and I shall churn up (kṣobhayiṣyāmi) the oceans!”
+**14:** “I shall scatter (_vidhamiṣyāmi_) the trees, I shall rend asunder (_dārayiṣyāmi_) the mountains, I shall cleave the earth, and I shall churn up (_kṣobhayiṣyāmi_) the oceans!”
 
-**15:** “I can leap (plaveyam) a full hundred of yojana-measure (śata-yojana-saṃkhyāyāḥ), of this there is no doubt!” [And another:] “Indeed, I [can leap] even more than a hundred (śataṃ samadhikam) of yojana-measure!”
+**15:** “I can leap (_plaveyam_) a full hundred of yojana-measure (_śata-yojana-saṃkhyāyāḥ_), of this there is no doubt!” [And another:] “Indeed, I [can leap] even more than a hundred (_śataṃ samadhikam_) of yojana-measure!”
 
-**16:** “Whether upon the surface of the earth, or in the ocean, or among mountains and forests, or even in the midst of the netherworld (pātālasyāpi vā madhye), my course is nowhere obstructed (na mamācchidyate gatiḥ)!”
+**16:** “Whether upon the surface of the earth, or in the ocean, or among mountains and forests, or even in the midst of the netherworld (_pātālasyāpi vā madhye_), my course is nowhere obstructed (_na mamācchidyate gatiḥ_)!”
 </details>
 </details>
 
@@ -736,7 +736,7 @@ the audience of monkeys king Sugreeva and departed. [4-45-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus at that time, proud of their strength (bala-darpitāḥ), the monkeys one by one (ekaikaḥ) spoke such words in the presence of that king of monkeys (harirājasya saṃnidhau).
+Thus at that time, proud of their strength (_bala-darpitāḥ_), the monkeys one by one (_ekaikaḥ_) spoke such words in the presence of that king of monkeys (_harirājasya saṃnidhau_).
 </details>
 </details>
 

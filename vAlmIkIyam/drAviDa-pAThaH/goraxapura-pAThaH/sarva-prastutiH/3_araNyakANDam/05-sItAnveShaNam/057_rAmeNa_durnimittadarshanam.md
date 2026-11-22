@@ -76,7 +76,7 @@ guise of a deer, instantly started to return on the trail by which he trailed af
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Mārīca (nihatya mārīcam), the shape-shifting rākṣasa (rākṣasaṃ kāma-rūpiṇam) who was roaming in the form of a deer (mṛga-rūpeṇa carantam), Rāma swiftly turned back along the path (tūrṇaṃ pathi nyavartata).
+Having slain Mārīca (_nihatya mārīcam_), the shape-shifting _rākṣasa_ (_rākṣasaṃ kāma-rūpiṇam_) who was roaming in the form of a deer (_mṛga-rūpeṇa carantam_), Rāma swiftly turned back along the path (_tūrṇaṃ pathi nyavartata_).
 </details>
 </details>
 
@@ -128,7 +128,7 @@ his behind. [3-57-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he was hastening on (tasya saṃtvaramāṇasya), eager to behold Maithilī (draṣṭu-kāmasya maithilīm), a jackal of cruel cry (krūra-svano gomāyuḥ) then howled behind him (vinanādāsya pṛṣṭhataḥ).
+As he was hastening on (_tasya saṃtvaramāṇasya_), eager to behold Maithilī (_draṣṭu-kāmasya maithilīm_), a jackal of cruel cry (_krūra-svano gomāyuḥ_) then howled behind him (_vinanādāsya pṛṣṭhataḥ_).
 </details>
 </details>
 
@@ -179,7 +179,7 @@ of fox in which it is foreboding, inasmuch as the forbidding intoning of Maareec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing that dreadful, hair-raising cry of its (tasya svaram ājñāya dāruṇaṃ roma-harṣaṇam), he grew apprehensive at the jackal's howl (gomāyoḥ svareṇa pariśaṅkitaḥ) and reflected (cintayām āsa):
+Recognizing that dreadful, hair-raising cry of its (_tasya svaram ājñāya dāruṇaṃ roma-harṣaṇam_), he grew apprehensive at the jackal&#x27;s howl (_gomāyoḥ svareṇa pariśaṅkitaḥ_) and reflected (_cintayām āsa_):
 </details>
 </details>
 
@@ -231,7 +231,7 @@ Vaidehi be safe? [3-57-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas (bata), I deem it an evil omen (aśubhaṃ manye 'ham), the way the jackal is howling (gomāyur vāśyate yathā)! May it go well with Vaidehī (svasti syād api vaidehyāḥ), without her being devoured by rākṣasas (rākṣasair bhakṣaṇaṃ vinā)!
+“Alas (_bata_), I deem it an evil omen (_aśubhaṃ manye &#x27;ham_), the way the jackal is howling (_gomāyur vāśyate yathā_)! May it go well with Vaidehī (_svasti syād api vaidehyāḥ_), without her being devoured by _rākṣasas_ (_rākṣasair bhakṣaṇaṃ vinā_)!
 </details>
 </details>
 
@@ -262,7 +262,7 @@ Vaidehi be safe? [3-57-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If Lakṣmaṇa should hear (lakṣmaṇaḥ śṛṇuyād yadi) the cry uttered in the form of a deer (vikruṣṭaṃ mṛga-rūpeṇa) by Mārīca, who contrived (vijñāya) to imitate my voice (svaram ālakṣya māmakam)—
+“If Lakṣmaṇa should hear (_lakṣmaṇaḥ śṛṇuyād yadi_) the cry uttered in the form of a deer (_vikruṣṭaṃ mṛga-rūpeṇa_) by Mārīca, who contrived (_vijñāya_) to imitate my voice (_svaram ālakṣya māmakam_)—
 </details>
 </details>
 
@@ -313,7 +313,7 @@ her off. [3-57-5, 6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—then Saumitri, having heard that voice and left Maithilī (tāṃ ca hitvātha maithilīm), dispatched by her very self (tayaiva prahitaḥ), will swiftly come here to my presence (kṣipraṃ mat-sakāśam ihaiṣyati).
+“—then Saumitri, having heard that voice and left Maithilī (_tāṃ ca hitvātha maithilīm_), dispatched by her very self (_tayaiva prahitaḥ_), will swiftly come here to my presence (_kṣipraṃ mat-sakāśam ihaiṣyati_).
 </details>
 </details>
 
@@ -385,9 +385,9 @@ Seetha, I am killed,' the demons are collectively intending to do away with Seet
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “Surely the slaying of Sītā is desired (sītāyā īpsito vadhaḥ) by the rākṣasas banded together (rākṣasaiḥ sahitaiḥ)! Having become a golden deer (kāñcanaś ca mṛgo bhūtvā) and lured me away from the hermitage (vyapanīyāśramāt tu mām)—
+**7:** “Surely the slaying of Sītā is desired (_sītāyā īpsito vadhaḥ_) by the _rākṣasas_ banded together (_rākṣasaiḥ sahitaiḥ_)! Having become a golden deer (_kāñcanaś ca mṛgo bhūtvā_) and lured me away from the hermitage (_vyapanīyāśramāt tu mām_)—
 
-**8:** “—and having led me afar (dūraṃ nītvā), Mārīca, struck by my arrow, turned into a rākṣasa (rākṣaso 'bhūc charāhataḥ) and uttered the cry, ‘Ah Lakṣmaṇa! I am slain (hā lakṣmaṇa hato 'smīti)!’
+**8:** “—and having led me afar (_dūraṃ nītvā_), Mārīca, struck by my arrow, turned into a _rākṣasa_ (_rākṣaso &#x27;bhūc charāhataḥ_) and uttered the cry, ‘Ah Lakṣmaṇa! I am slain (_hā lakṣmaṇa hato &#x27;smīti_)!’
 </details>
 </details>
 
@@ -443,7 +443,7 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May it go well (api svasti bhavet) with the two of them left without me in the forest (dvābhyāṃ rahitābhyāṃ mayā vane)! For on account of Janasthāna (janasthāna-nimittam), I have incurred enmity with the rākṣasas (kṛta-vairo 'smi rākṣasaiḥ)—
+“May it go well (_api svasti bhavet_) with the two of them left without me in the forest (_dvābhyāṃ rahitābhyāṃ mayā vane_)! For on account of Janasthāna (_janasthāna-nimittam_), I have incurred enmity with the _rākṣasas_ (_kṛta-vairo &#x27;smi rākṣasaiḥ_)—
 </details>
 </details>
 
@@ -476,7 +476,7 @@ appearing now, severely and severally." Thus Rama's thoughts have sprinted. [3-5
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and many dreadful omens (nimittāni ca ghorāṇi bahūni) are seen today (dṛśyante 'dya)!” Pondering thus (ity evaṃ cintayan), Rāma, having heard the howling of the jackal (śrutvā gomāyu-niḥsvanam)—
+“—and many dreadful omens (_nimittāni ca ghorāṇi bahūni_) are seen today (_dṛśyante &#x27;dya_)!” Pondering thus (_ity evaṃ cintayan_), Rāma, having heard the howling of the jackal (_śrutvā gomāyu-niḥsvanam_)—
 </details>
 </details>
 
@@ -524,7 +524,7 @@ hermitage. [3-57-10b, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—turning back in haste (nivartamānas tvaritaḥ), the self-possessed one went toward the hermitage (jagāmāśramam ātmavān); and [recalling] the luring away of himself (ātmanaś cāpanayanam) by the rākṣasa in the form of a deer (mṛga-rūpeṇa rakṣasā)—
+—turning back in haste (_nivartamānas tvaritaḥ_), the self-possessed one went toward the hermitage (_jagāmāśramam ātmavān_); and [recalling] the luring away of himself (_ātmanaś cāpanayanam_) by the _rākṣasa_ in the form of a deer (_mṛga-rūpeṇa rakṣasā_)—
 </details>
 </details>
 
@@ -580,7 +580,7 @@ have neared him whose heart has become doleful. [3-57-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāghava arrived at Janasthāna (ājagāma janasthānam) full of apprehension (pariśaṅkitaḥ). Beasts and birds (mṛga-pakṣiṇaḥ) approached him, who was dejected in mind and downcast (taṃ dīna-mānasaṃ dīnam)—
+—Rāghava arrived at Janasthāna (_ājagāma janasthānam_) full of apprehension (_pariśaṅkitaḥ_). Beasts and birds (_mṛga-pakṣiṇaḥ_) approached him, who was dejected in mind and downcast (_taṃ dīna-mānasaṃ dīnam_)—
 </details>
 </details>
 
@@ -650,7 +650,7 @@ dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—keeping that great-souled one on their left (savyaṃ kṛtvā mahātmānam), and they uttered dreadful cries (ghorāṃś ca sasṛjuḥ svarān). Seeing those most dreadful portents (tāni dṛṣṭvā nimittāni mahā-ghorāṇi), Rāghava turned back in haste, speeding toward his own hermitage (nyavartatātha tvarito javenāśramam ātmanaḥ).
+—keeping that great-souled one on their left (_savyaṃ kṛtvā mahātmānam_), and they uttered dreadful cries (_ghorāṃś ca sasṛjuḥ svarān_). Seeing those most dreadful portents (_tāni dṛṣṭvā nimittāni mahā-ghorāṇi_), Rāghava turned back in haste, speeding toward his own hermitage (_nyavartatātha tvarito javenāśramam ātmanaḥ_).
 </details>
 </details>
 
@@ -709,7 +709,7 @@ in melancholy and anguishing by way of his convergence upon ill-omens. [3-57-14,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he saw Lakṣmaṇa approaching, stripped of his lustre (dadarśa vigata-prabham); and there, not far off (tato 'vidūre), that Lakṣmaṇa met with Rāma (rāmeṇa samīyāya).
+Then he saw Lakṣmaṇa approaching, stripped of his lustre (_dadarśa vigata-prabham_); and there, not far off (_tato &#x27;vidūre_), that Lakṣmaṇa met with Rāma (_rāmeṇa samīyāya_).
 </details>
 </details>
 
@@ -763,7 +763,7 @@ so an adorable forest for demons, Rama reproached him as his elder brother. [3-5
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dejected himself and meeting him who was dejected (viṣaṇṇaḥ san viṣaṇṇena), stricken with sorrow along with his sorrow-sharing brother (duḥkhito duḥkha-bhāginā), that elder brother then reproached Lakṣmaṇa (sa jagarhe 'tha taṃ bhrātā) upon seeing him arrive—
+Dejected himself and meeting him who was dejected (_viṣaṇṇaḥ san viṣaṇṇena_), stricken with sorrow along with his sorrow-sharing brother (_duḥkhito duḥkha-bhāginā_), that elder brother then reproached Lakṣmaṇa (_sa jagarhe &#x27;tha taṃ bhrātā_) upon seeing him arrive—
 </details>
 </details>
 
@@ -822,7 +822,7 @@ Seetha, but on realising that he is not at fault, his speech is softened.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—having left Sītā behind in the solitary forest frequented by rākṣasas (vihāya sītāṃ vijane vane rākṣasa-sevite). And grasping Lakṣmaṇa by his left hand (gṛhītvā ca karaṃ savyam), the delight of the Raghus—
+—having left Sītā behind in the solitary forest frequented by _rākṣasas_ (_vihāya sītāṃ vijane vane rākṣasa-sevite_). And grasping Lakṣmaṇa by his left hand (_gṛhītvā ca karaṃ savyam_), the delight of the Raghus—
 </details>
 </details>
 
@@ -879,7 +879,7 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—spoke these words, sweet in their ultimate purport yet harsh, like one in anguish (uvāca madhurodarkam idaṃ paruṣam ārtavat): “Alas, O Lakṣmaṇa, a censurable deed has been done by you (aho lakṣmaṇa garhyaṃ te kṛtam), in that, having left her behind (yat tvaṃ vihāya tām)—
+—spoke these words, sweet in their ultimate purport yet harsh, like one in anguish (_uvāca madhurodarkam idaṃ paruṣam ārtavat_): “Alas, O Lakṣmaṇa, a censurable deed has been done by you (_aho lakṣmaṇa garhyaṃ te kṛtam_), in that, having left her behind (_yat tvaṃ vihāya tām_)—
 </details>
 </details>
 
@@ -910,7 +910,7 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—you have come here leaving Sītā, O gentle one (sītām ihāgataḥ saumya)! Can it be that all is well with her (kaccit svasti bhaved iti)? I have no doubt, O hero (na me 'sti saṃśayo vīra), that by every reckoning the daughter of Janaka (sarvathā janakātmajā)—
+“—you have come here leaving Sītā, O gentle one (_sītām ihāgataḥ saumya_)! Can it be that all is well with her (_kaccit svasti bhaved iti_)? I have no doubt, O hero (_na me &#x27;sti saṃśayo vīra_), that by every reckoning the daughter of Janaka (_sarvathā janakātmajā_)—
 </details>
 </details>
 
@@ -987,9 +987,9 @@ in her intactness and aliveness. [3-57-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “—has been lost or even devoured by forest-ranging rākṣasas (vinaṣṭā bhakṣitā vāpi rākṣasair vana-cāribhiḥ), inasmuch as ill omens alone are appearing to me in abundance (aśubhāny eva bhūyiṣṭhaṃ yathā prādurbhavanti me)!
+**19:** “—has been lost or even devoured by forest-ranging _rākṣasas_ (_vinaṣṭā bhakṣitā vāpi rākṣasair vana-cāribhiḥ_), inasmuch as ill omens alone are appearing to me in abundance (_aśubhāny eva bhūyiṣṭhaṃ yathā prādurbhavanti me_)!
 
-**20:** “O Lakṣmaṇa, O tiger among men (puruṣa-vyāghra), may we yet find Sītā, the daughter of Janaka, alive and whole in every limb (api... sītāyāḥ sāmagryaṃ prāpnuyāmahe jīvantyāḥ)?
+**20:** “O Lakṣmaṇa, O tiger among men (_puruṣa-vyāghra_), may we yet find Sītā, the daughter of Janaka, alive and whole in every limb (_api... sītāyāḥ sāmagryaṃ prāpnuyāmahe jīvantyāḥ_)?
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ that princes Seetha? [3-57-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even as herds of deer and a jackal, and birds as well, are crying out frightfully (bhairavaṃ vāśyante) toward the quarter ablaze with the sun (pradīptām abhito diśam), may all yet be well with that princess, O mighty-armed one (api svasti bhavet tasyā rājaputryā mahā-bala)!
+“Even as herds of deer and a jackal, and birds as well, are crying out frightfully (_bhairavaṃ vāśyante_) toward the quarter ablaze with the sun (_pradīptām abhito diśam_), may all yet be well with that princess, O mighty-armed one (_api svasti bhavet tasyā rājaputryā mahā-bala_)!
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ him, and by an intense effort somehow he was killed, and when dying he transfigu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this rākṣasa in the likeness of a deer (idaṃ hi rakṣo mṛga-saṃnikāśam), having lured me so that I followed far behind (pralobhya māṃ dūram anuprayātam), was slain with some difficulty and great effort (hataṃ kathaṃcin mahatā śrameṇa); and in the very act of dying, he turned into a rākṣasa (sa rākṣaso 'bhūn mriyamāṇa eva).
+“For this _rākṣasa_ in the likeness of a deer (_idaṃ hi rakṣo mṛga-saṃnikāśam_), having lured me so that I followed far behind (_pralobhya māṃ dūram anuprayātam_), was slain with some difficulty and great effort (_hataṃ kathaṃcin mahatā śrameṇa_); and in the very act of dying, he turned into a _rākṣasa_ (_sa rākṣaso &#x27;bhūn mriyamāṇa eva_).
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ nunoda || - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, my mind here is downcast and cheerless (manaś ca me dīnam ihāprahṛṣṭam), and my left eye is twitching (cakṣuś ca savyaṃ kurute vikāram). Without a doubt, O Lakṣmaṇa, Sītā is no more [at the hermitage] (asaṃśayaṃ lakṣmaṇa nāsti sītā)—she has been abducted, or is dead, or is even now on the road (hṛtā mṛtā vā pathi vartate vā)!”
+“Moreover, my mind here is downcast and cheerless (_manaś ca me dīnam ihāprahṛṣṭam_), and my left eye is twitching (_cakṣuś ca savyaṃ kurute vikāram_). Without a doubt, O Lakṣmaṇa, Sītā is no more [at the hermitage] (_asaṃśayaṃ lakṣmaṇa nāsti sītā_)—she has been abducted, or is dead, or is even now on the road (_hṛtā mṛtā vā pathi vartate vā_)!”
 </details>
 </details>
 

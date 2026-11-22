@@ -93,7 +93,7 @@ servants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon that blameless (aninditām), auspicious lady (śubhām) in such a plight (tathāgatām)—distressed (vyathitām), her joy departed (vyatītaharṣām), and her mind utterly dejected (paridīnamānasām)—auspicious portents (nimittāni śubhāni) waited (bhejire), just as attendants (upasevinaḥ) wait upon a man favored by royal Fortune (naraṃ śriyā juṣṭam iva).
+Upon that blameless (_aninditām_), auspicious lady (_śubhām_) in such a plight (_tathāgatām_)—distressed (_vyathitām_), her joy departed (_vyatītaharṣām_), and her mind utterly dejected (_paridīnamānasām_)—auspicious portents (_nimittāni śubhāni_) waited (_bhejire_), just as attendants (_upasevinaḥ_) wait upon a man favored by royal Fortune (_naraṃ śriyā juṣṭam iva_).
 </details>
 </details>
 
@@ -158,7 +158,7 @@ by the blow of a fish.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of that fair-haired lady (tasyāḥ sukeśyāḥ), the single auspicious left eye (śubhaṃ vāmam ekaṃ nayanam)—encircled by a row of curved eyelashes (arālapakṣmarājyāvṛtam), black [in the pupil], wide, and white (kṛṣṇaviśālaśuklam), and reddish at the corners (abhitāmram)—throbbed (prāspandata) like a lotus struck by a fish (mīnāhataṃ padmam iva).
+Of that fair-haired lady (_tasyāḥ sukeśyāḥ_), the single auspicious left eye (_śubhaṃ vāmam ekaṃ nayanam_)—encircled by a row of curved eyelashes (_arālapakṣmarājyāvṛtam_), black [in the pupil], wide, and white (_kṛṣṇaviśālaśuklam_), and reddish at the corners (_abhitāmram_)—throbbed (_prāspandata_) like a lotus struck by a fish (_mīnāhataṃ padmam iva_).
 </details>
 </details>
 
@@ -223,7 +223,7 @@ with excellent black aloe and sandalwood paste, which had been used
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And her comely, gracefully curved, rounded, and plump (cārvañcitavṛttapīnaḥ) left arm (bhujo vāmaḥ), worthy of the most precious black aloe and sandal-paste (parārghyakālāgurucandanārhaḥ), which for a long time (cireṇa) had been pillowed upon by her peerless beloved (anuttamenādhyuṣitaḥ priyeṇa), quivered suddenly (samavepatāśu).
+And her comely, gracefully curved, rounded, and plump (_cārvañcitavṛttapīnaḥ_) left arm (_bhujo vāmaḥ_), worthy of the most precious black aloe and sandal-paste (_parārghyakālāgurucandanārhaḥ_), which for a long time (_cireṇa_) had been pillowed upon by her peerless beloved (_anuttamenādhyuṣitaḥ priyeṇa_), quivered suddenly (_samavepatāśu_).
 </details>
 </details>
 
@@ -288,7 +288,7 @@ trunk of a princely elephant was predominantly quivering, spoke indistinctly of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And of those two closely set (saṃhatayoḥ) thighs, her plump (pīnaḥ), shapely (jātaḥ) [left] thigh (ūruḥ), resembling the trunk of a lordly elephant (gajendrahastapratimaḥ), throbbing again (praspandamānaḥ punaḥ), proclaimed (ācacakṣe) that Rāma stood right before her (purastāt sthitam).
+And of those two closely set (_saṃhatayoḥ_) thighs, her plump (_pīnaḥ_), shapely (_jātaḥ_) [left] thigh (_ūruḥ_), resembling the trunk of a lordly elephant (_gajendrahastapratimaḥ_), throbbing again (_praspandamānaḥ punaḥ_), proclaimed (_ācacakṣe_) that Rāma stood right before her (_purastāt sthitam_).
 </details>
 </details>
 
@@ -362,7 +362,7 @@ down, which appeared auspicious (for her).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Furthermore, the auspicious (śubham), gold-colored (hemasamānavarṇam) garment (vāsaḥ)—slightly soiled with dust, as it were (īṣadrajodhvastam iva)—of that peerless-eyed (atulākṣyāḥ), fair-limbed lady (cārugātryāḥ) whose teeth resembled the tips of pomegranate seeds (śikharāgradantyāḥ) slipped down slightly (kiṃcit parisraṃsata) as she stood (sthitāyāḥ).
+Furthermore, the auspicious (_śubham_), gold-colored (_hemasamānavarṇam_) garment (_vāsaḥ_)—slightly soiled with dust, as it were (_īṣadrajodhvastam iva_)—of that peerless-eyed (_atulākṣyāḥ_), fair-limbed lady (_cārugātryāḥ_) whose teeth resembled the tips of pomegranate seeds (_śikharāgradantyāḥ_) slipped down slightly (_kiṃcit parisraṃsata_) as she stood (_sthitāyāḥ_).
 </details>
 </details>
 
@@ -428,7 +428,7 @@ by the wind and the sun, got sprouted by rain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cheered (saṃcoditā) by these and other portents that had proven true even of old (prāg api sādhusiddhaiḥ), the fair-browed lady (subhrūḥ) revived with joy (pratisaṃjaharṣa), like a perishing seed (praṇaṣṭaṃ bījam iva), wilted by wind and sun (vātātapaklāntam), [revived] by a shower of rain (varṣeṇa).
+Cheered (_saṃcoditā_) by these and other portents that had proven true even of old (_prāg api sādhusiddhaiḥ_), the fair-browed lady (_subhrūḥ_) revived with joy (_pratisaṃjaharṣa_), like a perishing seed (_praṇaṣṭaṃ bījam iva_), wilted by wind and sun (_vātātapaklāntam_), [revived] by a shower of rain (_varṣeṇa_).
 </details>
 </details>
 
@@ -494,7 +494,7 @@ Rahu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then her face (tasyāḥ punar vaktram)—with lips resembling a ripe bimba fruit (bimbaphalopamoṣṭham), with lovely eyes, brows, and hair-locks (svakṣibhrukeśāntam), curved eyelashes (arālapakṣma), and gleaming white teeth (sitaśukladaṃṣṭram)—shone forth (babhāse) like the moon released from the mouth of Rāhu (rāhor mukhāc candra iva pramuktaḥ).
+Then her face (_tasyāḥ punar vaktram_)—with lips resembling a ripe _bimba_ fruit (_bimbaphalopamoṣṭham_), with lovely eyes, brows, and hair-locks (_svakṣibhrukeśāntam_), curved eyelashes (_arālapakṣma_), and gleaming white teeth (_sitaśukladaṃṣṭram_)—shone forth (_babhāse_) like the moon released from the mouth of Rāhu (_rāhor mukhāc candra iva pramuktaḥ_).
 </details>
 </details>
 
@@ -571,7 +571,7 @@ moon appears during the bright fortnight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Freed from sorrow (vītaśokā), her lassitude dispelled (vyapanītatandrā), her fever of grief allayed (śāntajvarā), and her spirit awakened by joy (harṣavibuddhasattvā), that noble lady shone (aśobhatāryā) with her face just as a night in the bright fortnight (śukle rātrir iva) shines with the risen cool-rayed moon (śītāṃśunā uditena).
+Freed from sorrow (_vītaśokā_), her lassitude dispelled (_vyapanītatandrā_), her fever of grief allayed (_śāntajvarā_), and her spirit awakened by joy (_harṣavibuddhasattvā_), that noble lady shone (_aśobhatāryā_) with her face just as a night in the bright fortnight (_śukle rātrir iva_) shines with the risen cool-rayed moon (_śītāṃśunā uditena_).
 </details>
 </details>
 

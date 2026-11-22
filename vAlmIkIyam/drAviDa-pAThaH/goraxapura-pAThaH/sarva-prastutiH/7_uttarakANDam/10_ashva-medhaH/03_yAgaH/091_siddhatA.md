@@ -48,7 +48,7 @@ Having finished Ila’s tale, Rāma bids Lakṣmaṇa summon Vasiṣṭha, Vāma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having related this to his two brothers (etad ākhyāya ... bhrātṛbhyām), Kākutstha of boundless splendor (kākutstho ... amitaprabhaḥ) again spoke to Lakṣmaṇa these words imbued with dharma (lakṣmaṇaṃ punar evāha dharma-yuktam idaṃ vacaḥ):
+Having related this to his two brothers (_etad ākhyāya ... bhrātṛbhyām_), Kākutstha of boundless splendor (_kākutstho ... amitaprabhaḥ_) again spoke to Lakṣmaṇa these words imbued with dharma (_lakṣmaṇaṃ punar evāha dharma-yuktam idaṃ vacaḥ_):
 </details>
 </details>
 
@@ -88,9 +88,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Vasiṣṭha and Vāmadeva, Jābāli and Kaśyapa (vasiṣṭhaṃ vāmadevaṃ ca jābālim atha kaśyapam), and all the foremost twice-born sages who stand at the head of the Aśvamedha (dvijāṃś ca sarva-pravarān aśvamedha-puraskṛtān)—
+**2:** “Vasiṣṭha and Vāmadeva, Jābāli and Kaśyapa (_vasiṣṭhaṃ vāmadevaṃ ca jābālim atha kaśyapam_), and all the foremost twice-born sages who stand at the head of the Aśvamedha (_dvijāṃś ca sarva-pravarān aśvamedha-puraskṛtān_)—
 
-**3:** “having brought all these together and taken counsel with them, O Lakṣmaṇa (etān sarvān samānīya mantrayitvā ca lakṣmaṇa), I shall release a horse endowed with all auspicious marks (hayaṃ lakṣaṇa-sampannam) with concentrated devotion (vimokṣyāmi samādhinā).”
+**3:** “having brought all these together and taken counsel with them, O Lakṣmaṇa (_etān sarvān samānīya mantrayitvā ca lakṣmaṇa_), I shall release a horse endowed with all auspicious marks (_hayaṃ lakṣaṇa-sampannam_) with concentrated devotion (_vimokṣyāmi samādhinā_).”
 </details>
 </details>
 
@@ -121,7 +121,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktaṃ śrutvā), Lakṣmaṇa of swift stride (tvarita-vikramaḥ) summoned all the twice-born sages and ushered them before Rāghava (dvijān sarvān samāhūya darśayām āsa rāghavam).
+Hearing those words spoken by Rāghava (_tad vākyaṃ rāghaveṇoktaṃ śrutvā_), Lakṣmaṇa of swift stride (_tvarita-vikramaḥ_) summoned all the twice-born sages and ushered them before Rāghava (_dvijān sarvān samāhūya darśayām āsa rāghavam_).
 </details>
 </details>
 
@@ -152,7 +152,7 @@ Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktaṃ śrutv�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the unassailable Rāghava (rāghavaṃ sudurādharṣam), resplendent as a god (deva-saṅkāśam), who had offered reverent salutation at their feet (kṛta-pādābhivandanam), they honored him with blessings (āśīrbhiḥ samapūjayan).
+Beholding the unassailable Rāghava (_rāghavaṃ sudurādharṣam_), resplendent as a god (_deva-saṅkāśam_), who had offered reverent salutation at their feet (_kṛta-pādābhivandanam_), they honored him with blessings (_āśīrbhiḥ samapūjayan_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ Beholding the unassailable Rāghava (rāghavaṃ sudurādharṣam), resplendent 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, joining his palms in reverence (prāñjaliḥ sa tadā bhūtvā), the greatly renowned Rāghava (rāghavo ... mahāyaśāḥ) declared to those foremost brahmins his intention regarding the Aśvamedha (ācacakṣe ’śvamedhasya hy abhiprāyam).
+Then, joining his palms in reverence (_prāñjaliḥ sa tadā bhūtvā_), the greatly renowned Rāghava (_rāghavo ... mahāyaśāḥ_) declared to those foremost brahmins his intention regarding the Aśvamedha (_ācacakṣe ’śvamedhasya hy abhiprāyam_).
 </details>
 </details>
 
@@ -222,7 +222,7 @@ Bowing to Śiva and praising the Aśvamedha on every side, the brahmins delight 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāma (te tu rāmasya tac chrutvā), and offering obeisance to the Bull-Bannered Lord (namaskṛtvā vṛṣadhvajam), all those brahmins praised the Aśvamedha on every side (aśvamedhaṃ dvijāḥ sarve pūjayanti sma sarvaśaḥ).
+Hearing those words of Rāma (_te tu rāmasya tac chrutvā_), and offering obeisance to the Bull-Bannered Lord (_namaskṛtvā vṛṣadhvajam_), all those brahmins praised the Aśvamedha on every side (_aśvamedhaṃ dvijāḥ sarve pūjayanti sma sarvaśaḥ_).
 </details>
 </details>
 
@@ -253,7 +253,7 @@ Hearing those words of Rāma (te tu rāmasya tac chrutvā), and offering obeisan
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha (vākyam adbhuta-darśanam aśvamedhāśritam), Rāma became exceedingly gladdened then (bhṛśaṃ prīto ’bhavat tadā).
+Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha (_vākyam adbhuta-darśanam aśvamedhāśritam_), Rāma became exceedingly gladdened then (_bhṛśaṃ prīto ’bhavat tadā_).
 </details>
 </details>
 
@@ -288,9 +288,9 @@ Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Understanding their favorable resolve (vijñāya karma tat teṣām), Rāma spoke to Lakṣmaṇa (rāmo lakṣmaṇam abravīt): “Dispatch messengers swiftly (preṣayasva drutaṃ dūtān) to the great-souled Sugrīva (sugrīvāya mahātmane):
+**9:** Understanding their favorable resolve (_vijñāya karma tat teṣām_), Rāma spoke to Lakṣmaṇa (_rāmo lakṣmaṇam abravīt_): “Dispatch messengers swiftly (_preṣayasva drutaṃ dūtān_) to the great-souled Sugrīva (_sugrīvāya mahātmane_):
 
-**10:** “‘Along with the mighty vānara chiefs and hosts of forest-dwellers (mahadbhir haribhir bahubhiś ca vanaukasām), come, may all be well with you (sārdham āgaccha bhadraṃ te), in order to partake in this great festival (hy anubhoktuṃ mahotsavam)!’
+**10:** “‘Along with the mighty vānara chiefs and hosts of forest-dwellers (_mahadbhir haribhir bahubhiś ca vanaukasām_), come, may all be well with you (_sārdham āgaccha bhadraṃ te_), in order to partake in this great festival (_hy anubhoktuṃ mahotsavam_)!’
 </details>
 </details>
 
@@ -321,7 +321,7 @@ Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let Bibhīṣaṇa of matchless prowess (bibhīṣaṇaś ca ... atula-vikramaḥ), surrounded by many rākṣasas who travel at will (rakṣobhiḥ kāmagair bahubhir vṛtaḥ), come to this great Aśvamedha sacrifice (aśvamedhaṃ mahāyajñam āyātu).
+“And let Bibhīṣaṇa of matchless prowess (_bibhīṣaṇaś ca ... atula-vikramaḥ_), surrounded by many rākṣasas who travel at will (_rakṣobhiḥ kāmagair bahubhir vṛtaḥ_), come to this great Aśvamedha sacrifice (_aśvamedhaṃ mahāyajñam āyātu_).
 </details>
 </details>
 
@@ -352,7 +352,7 @@ Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let all illustrious kings who desire my welfare (rājānaś ca mahābhāgā ye me priya-cikīrṣavaḥ) come swiftly with their retinues (sānugāḥ kṣipram āyāntu) to behold this unsurpassed sacrifice (yajñaṃ draṣṭum anuttamam).
+“And let all illustrious kings who desire my welfare (_rājānaś ca mahābhāgā ye me priya-cikīrṣavaḥ_) come swiftly with their retinues (_sānugāḥ kṣipram āyāntu_) to behold this unsurpassed sacrifice (_yajñaṃ draṣṭum anuttamam_).
 </details>
 </details>
 
@@ -394,7 +394,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever brahmins steadfast in dharma dwell in other lands (deśāntara-gatā ye ca dvijā dharma-samāhitāḥ)—invite all of them, O Lakṣmaṇa, for the Aśvamedha (āmantrayasva tān sarvān aśvamedhāya lakṣmaṇa)!
+“And whatever brahmins steadfast in dharma dwell in other lands (_deśāntara-gatā ye ca dvijā dharma-samāhitāḥ_)—invite all of them, O Lakṣmaṇa, for the Aśvamedha (_āmantrayasva tān sarvān aśvamedhāya lakṣmaṇa_)!
 </details>
 </details>
 
@@ -425,7 +425,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let sages rich in austerity be summoned, O mighty-armed one (ṛṣayaś ca mahābāho āhūyantāṃ tapodhanāḥ), and all twice-born folk from other lands together with their wives (deśāntara-gatāḥ sarve sa-dārāś ca dvijātayaḥ), as well as musicians keeping rhythm and actors and dancers (tathaiva tālāvacarās tathaiva naṭa-nartakāḥ)!
+“Let sages rich in austerity be summoned, O mighty-armed one (_ṛṣayaś ca mahābāho āhūyantāṃ tapodhanāḥ_), and all twice-born folk from other lands together with their wives (_deśāntara-gatāḥ sarve sa-dārāś ca dvijātayaḥ_), as well as musicians keeping rhythm and actors and dancers (_tathaiva tālāvacarās tathaiva naṭa-nartakāḥ_)!
 </details>
 </details>
 
@@ -458,7 +458,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let a vast sacrificial enclosure be ordered in the Naimiṣa forest upon the Gomatī (yajña-vāṭaś ca sumahān gomatyā naimiśe vane ājñāpyatām), O mighty-armed one, for that is supremely sacred (tad dhi puṇyam anuttamam); and let propitiatory peace rites be set in motion on every side (śāntayaś ca ... pravartyantāṃ samantataḥ)!
+“And let a vast sacrificial enclosure be ordered in the Naimiṣa forest upon the Gomatī (_yajña-vāṭaś ca sumahān gomatyā naimiśe vane ājñāpyatām_), O mighty-armed one, for that is supremely sacred (_tad dhi puṇyam anuttamam_); and let propitiatory peace rites be set in motion on every side (_śāntayaś ca ... pravartyantāṃ samantataḥ_)!
 </details>
 </details>
 
@@ -491,9 +491,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “Having experienced this foremost, unsurpassed great sacrifice in Naimiṣa (kratu-mukhyam anuttamam anubhūya mahāyajñaṃ naimiśe), O delight of the Raghus, hundreds of knowers of dharma (śataśaś cāpi dharmajñāḥ)—
+**16:** “Having experienced this foremost, unsurpassed great sacrifice in Naimiṣa (_kratu-mukhyam anuttamam anubhūya mahāyajñaṃ naimiśe_), O delight of the Raghus, hundreds of knowers of dharma (_śataśaś cāpi dharmajñāḥ_)—
 
-**17:** “—every single one of them gratified, nourished, and honored according to ordinance (tuṣṭaḥ puṣṭaś ca sarvo ’sau mānitaś ca yathāvidhi)—shall attain supreme joy, O knower of dharma (prītiṃ yāsyati dharmajña); therefore let the people be swiftly invited (śīghram āmantryatāṃ janaḥ)!”
+**17:** “—every single one of them gratified, nourished, and honored according to ordinance (_tuṣṭaḥ puṣṭaś ca sarvo ’sau mānitaś ca yathāvidhi_)—shall attain supreme joy, O knower of dharma (_prītiṃ yāsyati dharmajña_); therefore let the people be swiftly invited (_śīghram āmantryatāṃ janaḥ_)!”
 </details>
 </details>
 
@@ -532,7 +532,7 @@ Rāma specifies colossal provisions to be sent ahead to Naimiṣa—a hundred th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let a hundred thousand cartloads of plump, unbroken rice (śataṃ vāha-sahasrāṇāṃ taṇḍulānāṃ vapuṣmatām), and ten thousand of sesame and mung beans (ayutaṃ tila-mudgānām), go on ahead, O mighty one (prayātv agre mahābala)!
+“Let a hundred thousand cartloads of plump, unbroken rice (_śataṃ vāha-sahasrāṇāṃ taṇḍulānāṃ vapuṣmatām_), and ten thousand of sesame and mung beans (_ayutaṃ tila-mudgānām_), go on ahead, O mighty one (_prayātv agre mahābala_)!
 </details>
 </details>
 
@@ -565,7 +565,7 @@ Rāma specifies colossal provisions to be sent ahead to Naimiṣa—a hundred th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And likewise of chickpeas, horse-gram, black gram, and salt (caṇakānāṃ kulitthānāṃ māṣāṇāṃ lavaṇasya ca), and in proportion to these, clarified butter and oils (ato ’nurūpaṃ snehaṃ ca), along with concentrated fragrant pastes (gandhaṃ saṅkṣiptam eva ca)!
+“And likewise of chickpeas, horse-gram, black gram, and salt (_caṇakānāṃ kulitthānāṃ māṣāṇāṃ lavaṇasya ca_), and in proportion to these, clarified butter and oils (_ato ’nurūpaṃ snehaṃ ca_), along with concentrated fragrant pastes (_gandhaṃ saṅkṣiptam eva ca_)!
 </details>
 </details>
 
@@ -598,9 +598,9 @@ Rāma specifies colossal provisions to be sent ahead to Naimiṣa—a hundred th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Placing ahead many crores of gold and more than a hundred crores of silver (suvarṇa-koṭyo bahulā hiraṇyasya śatottarāḥ agrataḥ ... kṛtvā), let Bharata proceed in advance with vigilant focus (bharataḥ ... gacchatv agre samādhinā)!
+**20:** “Placing ahead many crores of gold and more than a hundred crores of silver (_suvarṇa-koṭyo bahulā hiraṇyasya śatottarāḥ agrataḥ ... kṛtvā_), let Bharata proceed in advance with vigilant focus (_bharataḥ ... gacchatv agre samādhinā_)!
 
-**21:** “Let roadside market-stalls along the route (antarā paṇya-vīthyaś ca), all actors and dancers (sarve ca naṭa-nartakāḥ), and numerous cooks and women ever blooming with youth (sūdā nāryaś ca bahavo nityaṃ yauvana-śālinaḥ)—
+**21:** “Let roadside market-stalls along the route (_antarā paṇya-vīthyaś ca_), all actors and dancers (_sarve ca naṭa-nartakāḥ_), and numerous cooks and women ever blooming with youth (_sūdā nāryaś ca bahavo nityaṃ yauvana-śālinaḥ_)—
 </details>
 </details>
 
@@ -639,7 +639,7 @@ Rāma directs Bharata to lead ahead the troops, merchants, artisans, treasurers,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—let them march ahead together with Bharata along with the troops (bharatena tu sārdhaṃ te yāntu sainyāni cāgrataḥ), as well as merchants, seasoned veterans, and deeply composed brahmins (naigamā bala-vṛddhāś ca dvijāś ca susamāhitāḥ)!
+“—let them march ahead together with Bharata along with the troops (_bharatena tu sārdhaṃ te yāntu sainyāni cāgrataḥ_), as well as merchants, seasoned veterans, and deeply composed brahmins (_naigamā bala-vṛddhāś ca dvijāś ca susamāhitāḥ_)!
 </details>
 </details>
 
@@ -685,11 +685,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “Workmen, carpenters, treasury-overseers, and guild-merchants (karmāntikān vardhakinaḥ kośādhyakṣāṃś ca naigamān), and all my mothers as well as the inner households of the princes (mama mātṝs tathā sarvāḥ kumārāntaḥpurāṇi ca),
+**23:** “Workmen, carpenters, treasury-overseers, and guild-merchants (_karmāntikān vardhakinaḥ kośādhyakṣāṃś ca naigamān_), and all my mothers as well as the inner households of the princes (_mama mātṝs tathā sarvāḥ kumārāntaḥpurāṇi ca_),
 
-**24:** “and my golden wife for the sacrificial consecration (kāñcanīṃ mama patnīṃ ca dīkṣāyām), along with those learned in the sacrificial rite (jñāṃś ca karmaṇi)—placing all these in front, let the greatly renowned Bharata go on ahead (agrato bharataḥ kṛtvā gacchatv agre mahāyaśāḥ)!”
+**24:** “and my golden wife for the sacrificial consecration (_kāñcanīṃ mama patnīṃ ca dīkṣāyām_), along with those learned in the sacrificial rite (_jñāṃś ca karmaṇi_)—placing all these in front, let the greatly renowned Bharata go on ahead (_agrato bharataḥ kṛtvā gacchatv agre mahāyaśāḥ_)!”
 
-**25:** And that mighty-armed foremost of men also ordered sumptuous pavilions (upakāryā mahārhāś ca ... vyādideśa mahābalaḥ) for the kings of great splendor together with their retinues (pārthivānāṃ mahaujasāṃ sānugānām).
+**25:** And that mighty-armed foremost of men also ordered sumptuous pavilions (_upakāryā mahārhāś ca ... vyādideśa mahābalaḥ_) for the kings of great splendor together with their retinues (_pārthivānāṃ mahaujasāṃ sānugānām_).
 </details>
 </details>
 

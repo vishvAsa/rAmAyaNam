@@ -109,11 +109,11 @@ of such Ikshvaku kings this highly revered and reputed epic Ramayana is originat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** This entire earth in all its seven continents formerly belonged, as an unprecedented and peerless possession (sarvāpūrvam), to those victorious monarchs beginning from Prajāpati Manu (prajāpatim upādāya)—
+**1:** This entire earth in all its seven continents formerly belonged, as an unprecedented and peerless possession (_sarvāpūrvam_), to those victorious monarchs beginning from Prajāpati Manu (_prajāpatim upādāya_)—
 
-**2:** —among whom arose that celebrated sovereign named Sagara, by whom the ocean (sāgaraḥ) was excavated, and whom sixty thousand sons surrounded as he marched forth.
+**2:** —among whom arose that celebrated sovereign named Sagara, by whom the ocean (_sāgaraḥ_) was excavated, and whom sixty thousand sons surrounded as he marched forth.
 
-**3:** In the lineage of those great-souled kings of the Ikṣvāku race has arisen this exalted narrative (mahad utpannam ākhyānam) renowned throughout the world as the Rāmāyaṇa.
+**3:** In the lineage of those great-souled kings of the Ikṣvāku race has arisen this exalted narrative (_mahad utpannam ākhyānam_) renowned throughout the world as the _Rāmāyaṇa_.
 </details>
 </details>
 
@@ -167,7 +167,7 @@ seeking... and this be listened without any caviling. [1-5-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That entire narrative we two shall now recite from the very beginning in its completeness (sarvaṃ nikhilam āditaḥ); fraught with dharma, kāma, and artha (and culminating in mokṣa), it should be listened to by one free from cavil and envy (śrotavyam anasūyatā).
+That entire narrative we two shall now recite from the very beginning in its completeness (_sarvaṃ nikhilam āditaḥ_); fraught with _dharma_, _kāma_, and _artha_ (and culminating in _mokṣa_), it should be listened to by one free from cavil and envy (_śrotavyam anasūyatā_).
 </details>
 </details>
 
@@ -216,7 +216,7 @@ is snugly situated on the riverbanks of Sarayu. [1-5-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There was a great, joyous (muditaḥ), and densely flourishing country (sphīto janapado mahān) named Kosala, situated along the banks of the Sarayū river and abounding in wealth and grain (prabhūtadhanadhānyavān).
+There was a great, joyous (_muditaḥ_), and densely flourishing country (_sphīto janapado mahān_) named Kosala, situated along the banks of the Sarayū river and abounding in wealth and grain (_prabhūtadhanadhānyavān_).
 </details>
 </details>
 
@@ -296,7 +296,7 @@ ruler of mankind. [1-4-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therein stood a city named Ayodhyā, famed throughout the worlds, which had been fashioned of old by Manu himself, the lord of mankind (manunā mānavendreṇa).
+Therein stood a city named Ayodhyā, famed throughout the worlds, which had been fashioned of old by Manu himself, the lord of mankind (_manunā mānavendreṇa_).
 </details>
 </details>
 
@@ -370,7 +370,7 @@ measures can be had from The Artha-Shaastra of Kautilya - a republication of Pen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great and glorious city extended twelve yojanas in length (āyatā daśa ca dve ca yojanāni) and three yojanas in breadth (trīṇi vistīrṇā), with its great thoroughfares symmetrically laid out (suvibhaktamahāpathā).
+That great and glorious city extended twelve _yojanas_ in length (_āyatā daśa ca dve ca yojanāni_) and three _yojanas_ in breadth (_trīṇi vistīrṇā_), with its great thoroughfares symmetrically laid out (_suvibhaktamahāpathā_).
 </details>
 </details>
 
@@ -416,7 +416,7 @@ and with flowers strewn and scattered on them. [1-5-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was graced by a grand, well-planned royal highway (rājamārgeṇa mahatā suvibhaktena), perpetually strewn with loose blossoms (muktapuṣpāvakīrṇena) and daily sprinkled with water (jalasiktena nityaśaḥ).
+It was graced by a grand, well-planned royal highway (_rājamārgeṇa mahatā suvibhaktena_), perpetually strewn with loose blossoms (_muktapuṣpāvakīrṇena_) and daily sprinkled with water (_jalasiktena nityaśaḥ_).
 </details>
 </details>
 
@@ -467,7 +467,7 @@ as his abode. [1-5-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-King Daśaratha, the mighty enhancer of his great empire (mahārāṣṭravivardhanaḥ), dwelt in and governed that city, even as Indra, lord of the gods, rules Amarāvatī in heaven.
+King Daśaratha, the mighty enhancer of his great empire (_mahārāṣṭravivardhanaḥ_), dwelt in and governed that city, even as Indra, lord of the gods, rules Amarāvatī in heaven.
 </details>
 </details>
 
@@ -524,7 +524,7 @@ in such a city. [1-4-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was furnished with massive gates and arched outer portals (kapāṭatoraṇavatīm), had well-ordered inner market-streets (suvibhaktāntarāpaṇām), possessed mechanical contrivances and weapons of every kind (sarvayantrāyudhavatīm), and was inhabited by master artisans of every craft (uṣitāṃ sarvaśilpibhiḥ).
+It was furnished with massive gates and arched outer portals (_kapāṭatoraṇavatīm_), had well-ordered inner market-streets (_suvibhaktāntarāpaṇām_), possessed mechanical contrivances and weapons of every kind (_sarvayantrāyudhavatīm_), and was inhabited by master artisans of every craft (_uṣitāṃ sarvaśilpibhiḥ_).
 </details>
 </details>
 
@@ -584,7 +584,7 @@ this *shataghni*, *kshipaNi* are there in *yajuraaraNyaka* .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thronged with panegyrists and genealogist bards (sūtamāgadhasambādhām), resplendent with peerless luster, and crowned with lofty watchtowers and banners (uccāṭṭāladhvajavatīm), it bristled with hundreds of śataghnī defensive engines (śataghnīśatasaṃkulām).
+Thronged with panegyrists and genealogist bards (_sūtamāgadhasambādhām_), resplendent with peerless luster, and crowned with lofty watchtowers and banners (_uccāṭṭāladhvajavatīm_), it bristled with hundreds of _śataghnī_ defensive engines (_śataghnīśatasaṃkulām_).
 </details>
 </details>
 
@@ -637,7 +637,7 @@ cincture ornament. [1-5-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Replete on every side with troupes of actresses and dancers (vadhūnāṭakasaṅghaiś ca), and endowed with pleasure-parks and groves of mango trees (udyānāmravaṇopetām), that vast city wore its defensive rampart (or ring of śāla forests) like a girdle (mahatīṃ sālamekhalām).
+Replete on every side with troupes of actresses and dancers (_vadhūnāṭakasaṅghaiś ca_), and endowed with pleasure-parks and groves of mango trees (_udyānāmravaṇopetām_), that vast city wore its defensive rampart (or ring of _śāla_ forests) like a girdle (_mahatīṃ sālamekhalām_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ and profound moats, and she is abounding with horses, camels, likewise with cows
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ringed by a moat vast and fathomlessly deep (durgagambhīraparikhām), that impregnable fortress-city was impossible for enemies to assail (durgām anyair durāsadām), and teemed with steeds and elephants as well as cattle, camels, and mules.
+Ringed by a moat vast and fathomlessly deep (_durgagambhīraparikhām_), that impregnable fortress-city was impossible for enemies to assail (_durgām anyair durāsadām_), and teemed with steeds and elephants as well as cattle, camels, and mules.
 </details>
 </details>
 
@@ -753,7 +753,7 @@ a city Dasharatha dwells. [1-5-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thronged with hosts of tributary kings bearing their royal tribute (sāmantarājasaṅghaiś ca balikarmabhir āvṛtām), it was graced by merchants dwelling there from many different lands (nānādeśanivāsaiś ca vaṇigbhir upaśobhitām).
+Thronged with hosts of tributary kings bearing their royal tribute (_sāmantarājasaṅghaiś ca balikarmabhir āvṛtām_), it was graced by merchants dwelling there from many different lands (_nānādeśanivāsaiś ca vaṇigbhir upaśobhitām_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ she is adorned, and filled with them she is like Amaravati, the capital of Indra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resplendent with gem-encrusted royal palaces that rose like mountains (prāsādai ratnavikṛtaiḥ parvatair iva śobhitām), and filled with peaked upper pavilions (kūṭāgāraiś ca sampūrṇām), it resembled Indra’s own celestial capital Amarāvatī.
+Resplendent with gem-encrusted royal palaces that rose like mountains (_prāsādai ratnavikṛtaiḥ parvatair iva śobhitām_), and filled with peaked upper pavilions (_kūṭāgāraiś ca sampūrṇām_), it resembled Indra’s own celestial capital Amarāvatī.
 </details>
 </details>
 
@@ -861,7 +861,7 @@ up, and where its seven storied buildings are picturesque. [1-5-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wondrously laid out in the symmetrical pattern of an eight-by-eight aṣṭāpada game-board (citrām aṣṭāpadākārām), graced by throngs of noble women, strewn with every variety of precious gem, and adorned with seven-storied palace mansions (vimānagṛhaśobhitām)—
+Wondrously laid out in the symmetrical pattern of an eight-by-eight _aṣṭāpada_ game-board (_citrām aṣṭāpadākārām_), graced by throngs of noble women, strewn with every variety of precious gem, and adorned with seven-storied palace mansions (_vimānagṛhaśobhitām_)—
 </details>
 </details>
 
@@ -908,7 +908,7 @@ cane juice. [1-5-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—built upon level ground (samabhūmau niveśitām), densely arrayed with residences that left no unguarded gap or flaw (gṛhagāḍhām avicchidrām), it abounded in pure white śāli rice (śālitaṇḍulasampūrṇām) and possessed waters as sweet as the juice of crushed sugarcane stalks (ikṣukāṇḍarasodakām).
+—built upon level ground (_samabhūmau niveśitām_), densely arrayed with residences that left no unguarded gap or flaw (_gṛhagāḍhām avicchidrām_), it abounded in pure white _śāli_ rice (_śālitaṇḍulasampūrṇām_) and possessed waters as sweet as the juice of crushed sugarcane stalks (_ikṣukāṇḍarasodakām_).
 </details>
 </details>
 
@@ -963,7 +963,7 @@ as a sort of background music, since royalty sponsors these performing arts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resounding mightily with kettle-drums (dundubhībhiḥ), clay mṛdaṅga drums, vīṇā lutes, and paṇava cymbals, that city was the peerless jewel upon the face of the earth (pṛthivyāṃ tām anuttamām).
+Resounding mightily with kettle-drums (_dundubhībhiḥ_), clay _mṛdaṅga_ drums, _vīṇā_ lutes, and _paṇava_ cymbals, that city was the peerless jewel upon the face of the earth (_pṛthivyāṃ tām anuttamām_).
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ are well planned and it is teeming with best people. [1-4-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a celestial aerial palace of the Siddhas won in heaven through austere penance (vimānam iva siddhānāṃ tapasādhigataṃ divi), it had finely arrayed mansion-precincts (suniveśitaveśmāntām) and was filled with the noblest of men (narottamasamāvṛtām)—
+Like a celestial aerial palace of the Siddhas won in heaven through austere penance (_vimānam iva siddhānāṃ tapasādhigataṃ divi_), it had finely arrayed mansion-precincts (_suniveśitaveśmāntām_) and was filled with the noblest of men (_narottamasamāvṛtām_)—
 </details>
 </details>
 
@@ -1119,11 +1119,11 @@ is filled with, and King Dasharatha made his abode in such a city. [1-5-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —warriors light of hand and consummate in archery (laghuhastā viśāradāḥ), who yet never pierce with their shafts (bāṇair na vidhyanti) a foe cut off and alone (viviktam), nor one who is the sole surviving heir without sire or son (aparāparam), nor an unseen target located only by sound (śabdavedhyam), nor one who has turned to flee from battle (vitatam);
+**20:** —warriors light of hand and consummate in archery (_laghuhastā viśāradāḥ_), who yet never pierce with their shafts (_bāṇair na vidhyanti_) a foe cut off and alone (_viviktam_), nor one who is the sole surviving heir without sire or son (_aparāparam_), nor an unseen target located only by sound (_śabdavedhyam_), nor one who has turned to flee from battle (_vitatam_);
 
-**21:** —and who, with whetted weapons or even by the sheer might of their bare arms (balād bāhubalair api), slay furious lions, tigers, and wild boars roaring in the forest.
+**21:** —and who, with whetted weapons or even by the sheer might of their bare arms (_balād bāhubalair api_), slay furious lions, tigers, and wild boars roaring in the forest.
 
-**22:** King Daśaratha then governed and populated that city, which was filled with thousands of such great chariot-warriors (tādṛśānāṃ sahasrais tām abhipūrṇāṃ mahārathaiḥ).
+**22:** King Daśaratha then governed and populated that city, which was filled with thousands of such great chariot-warriors (_tādṛśānāṃ sahasrais tām abhipūrṇāṃ mahārathaiḥ_).
 </details>
 </details>
 
@@ -1199,6 +1199,6 @@ saints, and who are just like sages that are charitable donors, and that abide b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that city was filled with foremost twice-born brāhmaṇas maintaining the sacred Vedic fires (agnimadbhiḥ), rich in spiritual virtues, masters of the Vedas together with their six auxiliary sciences (vedaṣaḍaṅgapāragaiḥ), bestowers of thousands in charity (sahasradaiḥ), devoted to truth, great-souled, equal to Maharṣis, and peerless seers of mantras (ṛṣibhiś ca kevalaiḥ).
+And that city was filled with foremost twice-born brāhmaṇas maintaining the sacred Vedic fires (_agnimadbhiḥ_), rich in spiritual virtues, masters of the Vedas together with their six auxiliary sciences (_vedaṣaḍaṅgapāragaiḥ_), bestowers of thousands in charity (_sahasradaiḥ_), devoted to truth, great-souled, equal to Maharṣis, and peerless seers of mantras (_ṛṣibhiś ca kevalaiḥ_).
 </details>
 </details>

@@ -91,7 +91,7 @@ wanted him to stand guard to Seetha. [3-46-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus harshly (paruṣam uktaḥ) by her, Rāghava's younger brother [Lakṣmaṇa] grew angry (kupitaḥ); yearning exceedingly (vikāṅkṣan bhṛśam) [to see] Rāma, he set forth without delay (nacirād iva).
+Addressed thus harshly (_paruṣam uktaḥ_) by her, Rāghava&#x27;s younger brother [Lakṣmaṇa] grew angry (_kupitaḥ_); yearning exceedingly (_vikāṅkṣan bhṛśam_) [to see] Rāma, he set forth without delay (_nacirād iva_).
 </details>
 </details>
 
@@ -151,7 +151,7 @@ of a sanyaasi, a meandering Brahman friar. [3-46-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing upon (āsādya) that opportunity (antaram) on which he had been waiting (āsthitaḥ), the ten-necked [Rāvaṇa] swiftly (kṣipram) approached Vaidehī, wearing the guise of a wandering mendicant (parivrājaka-rūpa-dhṛk).
+Seizing upon (_āsādya_) that opportunity (_antaram_) on which he had been waiting (_āsthitaḥ_), the ten-necked [Rāvaṇa] swiftly (_kṣipram_) approached Vaidehī, wearing the guise of a wandering mendicant (_parivrājaka-rūpa-dhṛk_).
 </details>
 </details>
 
@@ -231,7 +231,7 @@ an unmistakable Brahman sanyaasi, with an unbridled tongue.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clad in smooth ochre robes (ślakṣṇa-kāṣāya-saṃvītaḥ), wearing a topknot (śikhī), carrying an umbrella (chatrī) and wearing sandals (upānahī), and having slung upon his left shoulder (vāme 'ṃse) a fine triple-staff and water-pot (yaṣṭi-kamaṇḍalū)—
+Clad in smooth ochre robes (_ślakṣṇa-kāṣāya-saṃvītaḥ_), wearing a topknot (_śikhī_), carrying an umbrella (_chatrī_) and wearing sandals (_upānahī_), and having slung upon his left shoulder (_vāme &#x27;ṃse_) a fine triple-staff and water-pot (_yaṣṭi-kamaṇḍalū_)—
 </details>
 </details>
 
@@ -295,7 +295,7 @@ came over to Vaidehi in that forest, when she is without two of the brothers, na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the form of a wandering mendicant (parivrājaka-rūpeṇa), he drew near (anvavartata) to Vaidehī; that mighty one (atibalaḥ) came upon her when she was bereft of both brothers (bhrātṛbhyāṃ rahitām) in the forest—
+In the form of a wandering mendicant (_parivrājaka-rūpeṇa_), he drew near (_anvavartata_) to Vaidehī; that mighty one (_atibalaḥ_) came upon her when she was bereft of both brothers (_bhrātṛbhyāṃ rahitām_) in the forest—
 </details>
 </details>
 
@@ -367,7 +367,7 @@ Ravana is compared with such a planet and Seetha with Rohini.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—as a vast darkness (mahat tamaḥ) [overtakes] the twilight (saṃdhyām iva) bereft of both sun and moon (sūrya-candrābhyām). Then he beheld that youthful (bālām), illustrious princess (rāja-putrīṃ yaśasvinīm)—
+—as a vast darkness (_mahat tamaḥ_) [overtakes] the twilight (_saṃdhyām iva_) bereft of both sun and moon (_sūrya-candrābhyām_). Then he beheld that youthful (_bālām_), illustrious princess (_rāja-putrīṃ yaśasvinīm_)—
 </details>
 </details>
 
@@ -458,9 +458,9 @@ waves, for the waves are his wives, and Ravana may abduct them... like Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** —like a planet (grahavat) [approaching] Rohiṇī bereft of the Moon (śaśinā hīnām), he who was exceedingly dreadful (bhṛśa-dāruṇaḥ). [Beholding] that fierce one of sinful deeds (pāpa-karmāṇam), the trees standing in Janasthāna (janasthāna-gatā drumāḥ)—
+**6:** —like a planet (_grahavat_) [approaching] Rohiṇī bereft of the Moon (_śaśinā hīnām_), he who was exceedingly dreadful (_bhṛśa-dāruṇaḥ_). [Beholding] that fierce one of sinful deeds (_pāpa-karmāṇam_), the trees standing in Janasthāna (_janasthāna-gatā drumāḥ_)—
 
-**7:** —seeing him, did not stir (na prakampante), nor did the wind blow (na pravāti ca mārutaḥ). And beholding him—red-eyed (rakta-locanam) and glaring around (vīkṣantam)—the swift-flowing (śīghra-srotāḥ)—
+**7:** —seeing him, did not stir (_na prakampante_), nor did the wind blow (_na pravāti ca mārutaḥ_). And beholding him—red-eyed (_rakta-locanam_) and glaring around (_vīkṣantam_)—the swift-flowing (_śīghra-srotāḥ_)—
 </details>
 </details>
 
@@ -519,7 +519,7 @@ Vaidehi in the getup of a sanyaasi. [3-46-8b, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—river Godāvarī began to flow sluggishly (stimitaṃ gantum ārebhe) out of fear (bhayāt). Meanwhile (tad-antare), the ten-necked Rāvaṇa, eager to find a vulnerable opening (antaraṃ prepsuḥ) against Rāma—
+—river Godāvarī began to flow sluggishly (_stimitaṃ gantum ārebhe_) out of fear (_bhayāt_). Meanwhile (_tad-antare_), the ten-necked Rāvaṇa, eager to find a vulnerable opening (_antaraṃ prepsuḥ_) against Rāma—
 </details>
 </details>
 
@@ -573,7 +573,7 @@ over her husband, like the slow moving Saturn making advance to Star Citra which
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—approached (upatasthe) Vaidehī in the guise of a mendicant (bhikṣu-rūpeṇa); ignoble (abhavyaḥ) yet wearing a noble form (bhavya-rūpeṇa), [he drew near] her as she was grieving for her husband (bhartāram anuśocatīm)—
+—approached (_upatasthe_) Vaidehī in the guise of a mendicant (_bhikṣu-rūpeṇa_); ignoble (_abhavyaḥ_) yet wearing a noble form (_bhavya-rūpeṇa_), [he drew near] her as she was grieving for her husband (_bhartāram anuśocatīm_)—
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Act 5.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—he advanced toward Vaidehī like Saturn (śanaiścaraḥ) [encroaching upon] the constellation Citrā (citrām iva). Suddenly, in that auspicious guise—like a well covered over with grass (tṛṇaiḥ kūpa ivāvṛtaḥ)—
+—he advanced toward Vaidehī like Saturn (_śanaiścaraḥ_) [encroaching upon] the constellation Citrā (_citrām iva_). Suddenly, in that auspicious guise—like a well covered over with grass (_tṛṇaiḥ kūpa ivāvṛtaḥ_)—
 </details>
 </details>
 
@@ -687,9 +687,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** —he stood still (atiṣṭhat) upon beholding Vaidehī, the illustrious wife of Rāma (rāma-patnīṃ yaśasvinīm). Standing there and gazing thoroughly (samprekṣya) at Rāma's wife, Rāvaṇa—
+**11:** —he stood still (_atiṣṭhat_) upon beholding Vaidehī, the illustrious wife of Rāma (_rāma-patnīṃ yaśasvinīm_). Standing there and gazing thoroughly (_samprekṣya_) at Rāma&#x27;s wife, Rāvaṇa—
 
-**12:** —[beheld her] auspicious (śubhām), with lovely teeth and lips (rucira-dantoṣṭhīm) and a face resembling the full moon (pūrṇa-candra-nibhānanām), seated in the leaf-thatched cottage (parṇa-śālāyām), overwhelmed by tears and grief (bāṣpa-śokābhipīḍitām).
+**12:** —[beheld her] auspicious (_śubhām_), with lovely teeth and lips (_rucira-dantoṣṭhīm_) and a face resembling the full moon (_pūrṇa-candra-nibhānanām_), seated in the leaf-thatched cottage (_parṇa-śālāyām_), overwhelmed by tears and grief (_bāṣpa-śokābhipīḍitām_).
 </details>
 </details>
 
@@ -756,7 +756,7 @@ silks, as that night-walker is gladdened at his heart for her solitude. [3-46-11
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That night-stalker (niśācaraḥ), delighted at heart (hṛṣṭa-cetāḥ), drew near (abhyagacchata) to Vaidehī, whose eyes were like lotus-petals (padma-palāśākṣīm) and who was clad in yellow silk (pīta-kauśeya-vāsinīm).
+That night-stalker (_niśācaraḥ_), delighted at heart (_hṛṣṭa-cetāḥ_), drew near (_abhyagacchata_) to Vaidehī, whose eyes were like lotus-petals (_padma-palāśākṣīm_) and who was clad in yellow silk (_pīta-kauśeya-vāsinīm_).
 </details>
 </details>
 
@@ -818,7 +818,7 @@ to her who is in solitariness. [3-46-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her, pierced by the arrows of Kāma (kāma-śarāviddhaḥ), the lord of rākṣasas uttered a Vedic chant (brahma-ghoṣam udīrayan) and spoke courteous words (praśritaṃ vākyam) in that solitary place (rahite).
+Beholding her, pierced by the arrows of Kāma (_kāma-śarāviddhaḥ_), the lord of _rākṣasas_ uttered a Vedic chant (_brahma-ghoṣam udīrayan_) and spoke courteous words (_praśritaṃ vākyam_) in that solitary place (_rahite_).
 </details>
 </details>
 
@@ -872,7 +872,7 @@ devoid of her settling, namely Rama. [3-46-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa praised (praśaśaṃsa ha) her, the finest woman in the three worlds (uttamāṃ trilokānām), who shone with bodily loveliness (vibhrājamānāṃ vapuṣā) like Śrī bereft of her lotus (padma-hīnām iva śriyam):
+Rāvaṇa praised (_praśaśaṃsa ha_) her, the finest woman in the three worlds (_uttamāṃ trilokānām_), who shone with bodily loveliness (_vibhrājamānāṃ vapuṣā_) like Śrī bereft of her lotus (_padma-hīnām iva śriyam_):
 </details>
 </details>
 
@@ -938,7 +938,7 @@ very limited use.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you who shine with the hue of silver and gold (raupya-kāñcana-varṇābhe), clad in yellow silk (pīta-kauśeya-vāsini), wearing an auspicious garland of lotuses (kamalānāṃ śubhāṃ mālām) like a lotus-plant itself (padminīva)!
+“O you who shine with the hue of silver and gold (_raupya-kāñcana-varṇābhe_), clad in yellow silk (_pīta-kauśeya-vāsini_), wearing an auspicious garland of lotuses (_kamalānāṃ śubhāṃ mālām_) like a lotus-plant itself (_padminīva_)!
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ woman in the group of: *varaarohaa, matta kaashinii, uttamaa, vara varNiniii - a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are you Modesty (hrīḥ), Royal Fortune (śrīḥ), Fame (kīrtiḥ), auspicious Beauty (śubhā lakṣmīḥ), or an apsaras, O lovely-faced one (śubhānane)? Or are you Prosperity (bhūtiḥ), O fair-hipped lady (varārohe), or Rati roaming at will (svaira-cāriṇī)?
+Are you Modesty (_hrīḥ_), Royal Fortune (_śrīḥ_), Fame (_kīrtiḥ_), auspicious Beauty (_śubhā lakṣmīḥ_), or an _apsaras_, O lovely-faced one (_śubhānane_)? Or are you Prosperity (_bhūtiḥ_), O fair-hipped lady (_varārohe_), or Rati roaming at will (_svaira-cāriṇī_)?
 </details>
 </details>
 
@@ -1075,7 +1075,7 @@ spotless, reddish at ends, and pupils are black. [3-46-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Your teeth (daśanāḥ) are even (samāḥ), pointed like jasmine buds (śikhariṇaḥ), glossy (snigdhāḥ), and white (pāṇḍurāḥ); your two eyes (netre) are wide (viśāle), limpid (vimale), reddish at the corners (raktānte), and dark-pupiled (kṛṣṇa-tārake).”
+Your teeth (_daśanāḥ_) are even (_samāḥ_), pointed like jasmine buds (_śikhariṇaḥ_), glossy (_snigdhāḥ_), and white (_pāṇḍurāḥ_); your two eyes (_netre_) are wide (_viśāle_), limpid (_vimale_), reddish at the corners (_raktānte_), and dark-pupiled (_kṛṣṇa-tārake_).”
 </details>
 </details>
 
@@ -1158,9 +1158,9 @@ are covetable for they are beautiful. [3-46-19, 20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Your hips (jaghanam) are broad and full (viśālaṃ pīnam), and your thighs resemble an elephant's trunk (kari-karopamau); and these two [breasts]—well-developed (upacitau), rounded (vṛttau), close-set (saṃhatau), and boldly swelling (sampragalbhitau)—
+**19:** “Your hips (_jaghanam_) are broad and full (_viśālaṃ pīnam_), and your thighs resemble an elephant&#x27;s trunk (_kari-karopamau_); and these two [breasts]—well-developed (_upacitau_), rounded (_vṛttau_), close-set (_saṃhatau_), and boldly swelling (_sampragalbhitau_)—
 
-**20:** —with full and tilted tips (pīnonnata-mukhau), lovely (kāntau), resembling glossy palmyra fruits (snigdha-tāla-phalopamau), and adorned with choicest gems (maṇi-pravekābharaṇau), your two breasts (payodharau) are radiant (rucirau).
+**20:** —with full and tilted tips (_pīnonnata-mukhau_), lovely (_kāntau_), resembling glossy palmyra fruits (_snigdha-tāla-phalopamau_), and adorned with choicest gems (_maṇi-pravekābharaṇau_), your two breasts (_payodharau_) are radiant (_rucirau_).
 </details>
 </details>
 
@@ -1225,7 +1225,7 @@ is palmful, your hair velvety, your breasts are jostling, and you rob my soul as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O lady of sweet smile (cāru-smite), lovely teeth (cāru-dati), and charming eyes (cāru-netre), O graceful one (vilāsini)! O charming woman (rāme), you carry away my heart (mano harasi me) as a river [erodes] its bank with its waters (nadī kūlam ivāmbhasā).
+O lady of sweet smile (_cāru-smite_), lovely teeth (_cāru-dati_), and charming eyes (_cāru-netre_), O graceful one (_vilāsini_)! O charming woman (_rāme_), you carry away my heart (_mano harasi me_) as a river [erodes] its bank with its waters (_nadī kūlam ivāmbhasā_).
 </details>
 </details>
 
@@ -1372,7 +1372,7 @@ is the dwelling for ghastly demons who by their wish will be changing their guis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Your waist can be spanned by the fingers of a hand (karānta-mita-madhyāsi), O fine-haired (sukeśe), close-breasted one (saṃhata-stani)! Neither a goddess (devī), nor a gandharvī, nor a yakṣī, nor a kiṃnarī—
+Your waist can be spanned by the fingers of a hand (_karānta-mita-madhyāsi_), O fine-haired (_sukeśe_), close-breasted one (_saṃhata-stani_)! Neither a goddess (_devī_), nor a _gandharvī_, nor a _yakṣī_, nor a _kiṃnarī_—
 </details>
 </details>
 
@@ -1445,7 +1445,7 @@ are meetly to you to saunter. [3-46-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the abode (vāsaḥ) of dreadful rākṣasas who assume any form at will (ghorāṇāṃ kāma-rūpiṇām). Lovely palace-terraces (prāsādāgrāṇi ramyāṇi) and city pleasure-groves (nagaropavanāni ca)—
+“This is the abode (_vāsaḥ_) of dreadful _rākṣasas_ who assume any form at will (_ghorāṇāṃ kāma-rūpiṇām_). Lovely palace-terraces (_prāsādāgrāṇi ramyāṇi_) and city pleasure-groves (_nagaropavanāni ca_)—
 </details>
 </details>
 
@@ -1509,7 +1509,7 @@ is meet and right to you to choose such a husband, [aside: me alone.] [3-46-26b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—richly appointed (sampannāni) and fragrant (sugandhīni), are fitting to be frequented (yuktāny ācaritum) by you! The choicest garland (varaṃ mālyam), the choicest perfume (varaṃ gandham), and the choicest raiment (varaṃ vastram), O lovely one (śobhane)—
+—richly appointed (_sampannāni_) and fragrant (_sugandhīni_), are fitting to be frequented (_yuktāny ācaritum_) by you! The choicest garland (_varaṃ mālyam_), the choicest perfume (_varaṃ gandham_), and the choicest raiment (_varaṃ vastram_), O lovely one (_śobhane_)—
 </details>
 </details>
 
@@ -1581,7 +1581,7 @@ smiles, that smile will be impeccable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and the choicest husband (bhartāraṃ ca varam), I deem (manye), are worthy of you (tvad-yuktam), O dark-eyed lady (asitekṣaṇe)! Who are you (kā tvaṃ bhavasi) among the Rudras or the Maruts, O lady of pure smile (śuci-smite)—
+—and the choicest husband (_bhartāraṃ ca varam_), I deem (_manye_), are worthy of you (_tvad-yuktam_), O dark-eyed lady (_asitekṣaṇe_)! Who are you (_kā tvaṃ bhavasi_) among the Rudras or the Maruts, O lady of pure smile (_śuci-smite_)—
 </details>
 </details>
 
@@ -1639,7 +1639,7 @@ but how you have come here? [3-46-28b, 29a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—or among the Vasus, O fair-hipped one (varārohe)? You appear to me to be a goddess (devatā pratibhāsi me). Neither gandharvas nor gods nor kiṃnaras come here (neha gacchanti);
+—or among the Vasus, O fair-hipped one (_varārohe_)? You appear to me to be a goddess (_devatā pratibhāsi me_). Neither _gandharvas_ nor gods nor _kiṃnaras_ come here (_neha gacchanti_);
 </details>
 </details>
 
@@ -1699,7 +1699,7 @@ How you are not frightened from them? [3-46-29b, 30a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-this is the abode of rākṣasas—how then have you come here (kathaṃ tu tvam ihāgatā)? Here dwell monkeys (śākhā-mṛgāḥ), lions, leopards, tigers, deer, and wolves (dvīpi-vyāghra-mṛgā vṛkāḥ)—
+this is the abode of _rākṣasas_—how then have you come here (_kathaṃ tu tvam ihāgatā_)? Here dwell monkeys (_śākhā-mṛgāḥ_), lions, leopards, tigers, deer, and wolves (_dvīpi-vyāghra-mṛgā vṛkāḥ_)—
 </details>
 </details>
 
@@ -1766,7 +1766,7 @@ elephants possessed of rut? [3-46-30b, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—bears (ṛkṣāḥ), hyenas (tarakṣavaḥ), and buzzards (kaṅkāḥ)—how do you not fear them (kathaṃ tebhyo na bibhyase)? And of dreadful, mighty elephants (kuñjarāṇāṃ tarasvinām) streaming with rut (madānvitānām)—
+—bears (_ṛkṣāḥ_), hyenas (_tarakṣavaḥ_), and buzzards (_kaṅkāḥ_)—how do you not fear them (_kathaṃ tebhyo na bibhyase_)? And of dreadful, mighty elephants (_kuñjarāṇāṃ tarasvinām_) streaming with rut (_madānvitānām_)—
 </details>
 </details>
 
@@ -1827,7 +1827,7 @@ you are moving in dreadful Dandaka forest that is adored by demons?" Thus Ravana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—how are you not afraid (kathaṃ... na bibheṣi) all alone in the great forest (ekā mahāraṇye), O lovely-faced one (varānane)? Who are you (kāsi), whose are you (kasya), whence have you come (kutaś ca tvam), and for what purpose (kiṃ-nimittaṃ ca)—
+—how are you not afraid (_kathaṃ... na bibheṣi_) all alone in the great forest (_ekā mahāraṇye_), O lovely-faced one (_varānane_)? Who are you (_kāsi_), whose are you (_kasya_), whence have you come (_kutaś ca tvam_), and for what purpose (_kiṃ-nimittaṃ ca_)—
 </details>
 </details>
 
@@ -1897,9 +1897,9 @@ a casual guest. [3-46-32b, 33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** —do you roam alone (ekā carasi), O auspicious lady (kalyāṇi), through the dreadful Daṇḍaka woods frequented by rākṣasas (rākṣasa-sevitān)?” Praised thus (iti praśastā) by the mighty Rāvaṇa—
+**32:** —do you roam alone (_ekā carasi_), O auspicious lady (_kalyāṇi_), through the dreadful Daṇḍaka woods frequented by _rākṣasas_ (_rākṣasa-sevitān_)?” Praised thus (_iti praśastā_) by the mighty Rāvaṇa—
 
-**33:** —and seeing Rāvaṇa arrive in the guise of a twice-born ascetic (dvijāti-veṣeṇa), Maithilī honored him (pūjayām āsa) with all the hospitality due to a guest (sarvair atithi-satkāraiḥ).
+**33:** —and seeing Rāvaṇa arrive in the guise of a twice-born ascetic (_dvijāti-veṣeṇa_), Maithilī honored him (_pūjayām āsa_) with all the hospitality due to a guest (_sarvair atithi-satkāraiḥ_).
 </details>
 </details>
 
@@ -1961,7 +1961,7 @@ looked gracious in his bearing, 'alms are ready.' [3-46-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-First offering him a seat (upānīyāsanaṃ pūrvam) and welcoming him with water for his feet (pādyenābhinimantrya ca), she then said to him of gentle appearance (saumya-darśanam), “The food is ready (siddham ity eva)!”
+First offering him a seat (_upānīyāsanaṃ pūrvam_) and welcoming him with water for his feet (_pādyenābhinimantrya ca_), she then said to him of gentle appearance (_saumya-darśanam_), “The food is ready (_siddham ity eva_)!”
 </details>
 </details>
 
@@ -2088,7 +2088,7 @@ death. But Seetha is addressing him contrary to his stance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him arrived in the guise of a twice-born ascetic (dvijāti-veṣeṇa), bearing a begging-bowl and water-pot (pātra-kusumbha-dhāriṇam)—and unable to spurn him (aśakyam uddveṣṭum) on seeing those emblems (upāya-darśanāt)—Maithilī invited him as she would a Brāhmaṇa (brāhmaṇavat) who had thus arrived (tathāgatam):
+Beholding him arrived in the guise of a twice-born ascetic (_dvijāti-veṣeṇa_), bearing a begging-bowl and water-pot (_pātra-kusumbha-dhāriṇam_)—and unable to spurn him (_aśakyam uddveṣṭum_) on seeing those emblems (_upāya-darśanāt_)—Maithilī invited him as she would a Brāhmaṇa (_brāhmaṇavat_) who had thus arrived (_tathāgatam_):
 </details>
 </details>
 
@@ -2155,7 +2155,7 @@ Thus Seetha said to Ravana. [3-46-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here is a grass-cushion (bṛsī), O Brāhmaṇa—pray be seated at ease (kāmam āsyatām), and accept this water for your feet (pādyaṃ pratigṛhyatām); and partake here unhurriedly (avyagram ihopabhujyatām) of this choice forest-grown fare (vana-jātam uttamam) prepared for you (tvad-arthaṃ siddham)!”
+“Here is a grass-cushion (_bṛsī_), O Brāhmaṇa—pray be seated at ease (_kāmam āsyatām_), and accept this water for your feet (_pādyaṃ pratigṛhyatām_); and partake here unhurriedly (_avyagram ihopabhujyatām_) of this choice forest-grown fare (_vana-jātam uttamam_) prepared for you (_tvad-arthaṃ siddham_)!”
 </details>
 </details>
 
@@ -2227,7 +2227,7 @@ forcibly, and started to dedicate himself for destruction. [3-46-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he was thus hospitably invited (nimantryamāṇaḥ), Rāvaṇa gazed intently (prasamīkṣya) upon Maithilī, the king's wife (narendra-patnīm), who spoke such gracious and complete words of welcome (pratipūrṇa-bhāṣiṇīm), and set his mind firmly (dṛḍhaṃ manaḥ samarpayām āsa) on forcibly abducting her (prasahya tasyā haraṇe)—to his own destruction (vadhāya).
+As he was thus hospitably invited (_nimantryamāṇaḥ_), Rāvaṇa gazed intently (_prasamīkṣya_) upon Maithilī, the king&#x27;s wife (_narendra-patnīm_), who spoke such gracious and complete words of welcome (_pratipūrṇa-bhāṣiṇīm_), and set his mind firmly (_dṛḍhaṃ manaḥ samarpayām āsa_) on forcibly abducting her (_prasahya tasyā haraṇe_)—to his own destruction (_vadhāya_).
 </details>
 </details>
 
@@ -2311,6 +2311,6 @@ forest, but not Rama or Lakshmana. [3-46-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, anxiously awaiting (pratīkṣamāṇā) her handsome husband (suveṣaṃ patim) who had gone hunting (mṛgayā-gatam) along with Lakṣmaṇa, and gazing across the green expanse (nirīkṣamāṇā haritam), she beheld only that vast forest (mahad vanam), and not Rāma and Lakṣmaṇa (naiva tu rāma-lakṣmaṇau).
+Then, anxiously awaiting (_pratīkṣamāṇā_) her handsome husband (_suveṣaṃ patim_) who had gone hunting (_mṛgayā-gatam_) along with Lakṣmaṇa, and gazing across the green expanse (_nirīkṣamāṇā haritam_), she beheld only that vast forest (_mahad vanam_), and not Rāma and Lakṣmaṇa (_naiva tu rāma-lakṣmaṇau_).
 </details>
 </details>

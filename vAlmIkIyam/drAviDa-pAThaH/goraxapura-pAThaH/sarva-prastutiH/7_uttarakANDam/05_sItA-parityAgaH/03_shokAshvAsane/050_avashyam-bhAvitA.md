@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sītā Maithilī conducted into the hermitage (āśrame sampraveśitām), Lakṣmaṇa, downcast in spirit (dīna-cetanaḥ), fell into terrible anguish (santāpam agamad ghoram).
+Beholding Sītā Maithilī conducted into the hermitage (_āśrame sampraveśitām_), Lakṣmaṇa, downcast in spirit (_dīna-cetanaḥ_), fell into terrible anguish (_santāpam agamad ghoram_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minister-charioteer (sumantraṃ mantra-sārathim): “Behold, O charioteer, the sorrow of Rāma (duḥkhaṃ paśya rāmasya), born of his anguish over Sītā (sītā-santāpajam)!
+And the greatly resplendent prince (_mahātejāḥ_) spoke to Sumantra, the minister-charioteer (_sumantraṃ mantra-sārathim_): “Behold, O charioteer, the sorrow of Rāma (_duḥkhaṃ paśya rāmasya_), born of his anguish over Sītā (_sītā-santāpajam_)!
 </details>
 </details>
 
@@ -116,7 +116,7 @@ And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed could be more grievous for Rāghava than this (tato duḥkhataraṃ kiṃ nu rāghavasya bhaviṣyati), after abandoning his wife of spotless conduct (patnīṃ śuddha-samācārām), the daughter of Janaka?
+“What indeed could be more grievous for Rāghava than this (_tato duḥkhataraṃ kiṃ nu rāghavasya bhaviṣyati_), after abandoning his wife of spotless conduct (_patnīṃ śuddha-samācārām_), the daughter of Janaka?
 </details>
 </details>
 
@@ -147,7 +147,7 @@ And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly I deem this separation of Rāghava from Vaidehī (rāghavasya vinā-bhavam vaidehyā) to be the work of destiny (vyaktaṃ daivād ahaṃ manye), O charioteer—for fate is ever impossible to transgress (daivaṃ hi duratikramam).
+“Clearly I deem this separation of Rāghava from Vaidehī (_rāghavasya vinā-bhavam vaidehyā_) to be the work of destiny (_vyaktaṃ daivād ahaṃ manye_), O charioteer—for fate is ever impossible to transgress (_daivaṃ hi duratikramam_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that Rāghava who in wrath could slay the gods together with the gandharvas (devān sa-gandharvān) and the asuras along with the rākṣasas (asurān saha rākṣasaiḥ)—even he submits to destiny (sa daivam anuvartate).
+“For that Rāghava who in wrath could slay the gods together with the gandharvas (_devān sa-gandharvān_) and the asuras along with the rākṣasas (_asurān saha rākṣasaiḥ_)—even he submits to destiny (_sa daivam anuvartate_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, at his father’s word (pitur vākyāt), Rāma dwelt in the lonely Daṇḍaka forest (daṇḍake vijane vane) for nine years and five besides (nava varṣāṇi pañca caiva) in the great wilderness—
+“Of old, at his father’s word (_pitur vākyāt_), Rāma dwelt in the lonely Daṇḍaka forest (_daṇḍake vijane vane_) for nine years and five besides (_nava varṣāṇi pañca caiva_) in the great wilderness—
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Judging Sītā’s banishment on account of base gossip far crueler than the Da�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet far more grievous than that (tato duḥkhataraṃ bhūyaḥ) is this banishment of Sītā (sītāyā vipravāsanam) upon hearing the talk of citizens (paurāṇāṃ vacanaṃ śrutvā); to me it appears utterly cruel (nṛśaṃsaṃ pratibhāti me).
+“Yet far more grievous than that (_tato duḥkhataraṃ bhūyaḥ_) is this banishment of Sītā (_sītāyā vipravāsanam_) upon hearing the talk of citizens (_paurāṇāṃ vacanaṃ śrutvā_); to me it appears utterly cruel (_nṛśaṃsaṃ pratibhāti me_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Judging Sītā’s banishment on account of base gossip far crueler than the Da�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What foundation of dharma, O charioteer (ko nu dharmāśrayaḥ sūta), has been gained in this fame-destroying deed (karmaṇy asmin yaśohare) against Maithilī, brought about by citizens who speak worthless words (paurair hīnārtha-vādibhiḥ)?”
+“What foundation of dharma, O charioteer (_ko nu dharmāśrayaḥ sūta_), has been gained in this fame-destroying deed (_karmaṇy asmin yaśohare_) against Maithilī, brought about by citizens who speak worthless words (_paurair hīnārtha-vādibhiḥ_)?”
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Judging Sītā’s banishment on account of base gossip far crueler than the Da�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these manifold words spoken by Lakṣmaṇa (lakṣmaṇa-bhāṣitāḥ), the wise Sumantra, moved by earnest devotion (śraddhayā prājñaḥ), spoke this reply:
+Hearing these manifold words spoken by Lakṣmaṇa (_lakṣmaṇa-bhāṣitāḥ_), the wise Sumantra, moved by earnest devotion (_śraddhayā prājñaḥ_), spoke this reply:
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Hearing these manifold words spoken by Lakṣmaṇa (lakṣmaṇa-bhāṣitāḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You should not give way to anguish, O Saumitri (na santāpas tvayā kāryaḥ), on account of Maithilī; all this was foreseen of old by brahmins (dṛṣṭam etat purā vipraiḥ) in the presence of your father, O Lakṣmaṇa (pitus te ... agrataḥ).
+“You should not give way to anguish, O Saumitri (_na santāpas tvayā kāryaḥ_), on account of Maithilī; all this was foreseen of old by brahmins (_dṛṣṭam etat purā vipraiḥ_) in the presence of your father, O Lakṣmaṇa (_pitus te ... agrataḥ_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Hearing these manifold words spoken by Lakṣmaṇa (lakṣmaṇa-bhāṣitāḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Assuredly Rāma shall live mostly in sorrow (bhaviṣyati dṛḍhaṃ rāmo duḥkha-prāyaḥ), even while partaking of joy (api saukhya-bhāk), and the mighty-armed one shall surely suffer separation from his loved ones (viprayogaṃ priyair dhruvam).
+“‘Assuredly Rāma shall live mostly in sorrow (_bhaviṣyati dṛḍhaṃ rāmo duḥkha-prāyaḥ_), even while partaking of joy (_api saukhya-bhāk_), and the mighty-armed one shall surely suffer separation from his loved ones (_viprayogaṃ priyair dhruvam_).
 </details>
 </details>
 
@@ -411,7 +411,7 @@ Recounting how the sage Durvāsas foretold before Daśaratha, Vasiṣṭha, and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Both you and Maithilī, as well as both Śatrughna and Bharata (śatrughna-bharatāv ubhau), that righteous and great-souled one shall relinquish (santyajiṣyati dharmātmā) in the fullness of long time (kālena mahatā).’
+“‘Both you and Maithilī, as well as both Śatrughna and Bharata (_śatrughna-bharatāv ubhau_), that righteous and great-souled one shall relinquish (_santyajiṣyati dharmātmā_) in the fullness of long time (_kālena mahatā_).’
 </details>
 </details>
 
@@ -445,7 +445,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This word which Durvāsas uttered (durvāsā yad uvāca ha) when addressed by the king regarding you princes (rājñā vo vyāhṛtaṃ vākyam) must never be spoken before you, O Saumitri, nor before Bharata (tvayi na vaktavyaṃ ... bharate ’pi vā).
+“This word which Durvāsas uttered (_durvāsā yad uvāca ha_) when addressed by the king regarding you princes (_rājñā vo vyāhṛtaṃ vākyam_) must never be spoken before you, O Saumitri, nor before Bharata (_tvayi na vaktavyaṃ ... bharate ’pi vā_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the presence of that great personage [Daśaratha] (mahājana-samīpe), of myself as well (mama caiva), O bull among men, and in the presence of Vasiṣṭha (vasiṣṭhasya ca sannidhau), those words were uttered by the sage (ṛṣiṇā vyāhṛtaṃ vākyam).
+“In the presence of that great personage [Daśaratha] (_mahājana-samīpe_), of myself as well (_mama caiva_), O bull among men, and in the presence of Vasiṣṭha (_vasiṣṭhasya ca sannidhau_), those words were uttered by the sage (_ṛṣiṇā vyāhṛtaṃ vākyam_).
 </details>
 </details>
 
@@ -507,7 +507,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having heard the words of the sage (ṛṣes tu vacanaṃ śrutvā), that foremost of men [Daśaratha] said to me: ‘Charioteer, never anywhere must this be spoken by you (na kvacid evaṃ te vaktavyam) in the presence of people (jana-sannidhau).’
+“Having heard the words of the sage (_ṛṣes tu vacanaṃ śrutvā_), that foremost of men [Daśaratha] said to me: ‘Charioteer, never anywhere must this be spoken by you (_na kvacid evaṃ te vaktavyam_) in the presence of people (_jana-sannidhau_).’
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever vigilant (susamāhitaḥ), I hold it as my settled conviction (iti me saumya darśanam), O gentle one, that the word of that guardian of the world (tasya ... lokapālasya vākyam) must never at any time be rendered false (naiva jātv anṛtaṃ kāryam).
+“Ever vigilant (_susamāhitaḥ_), I hold it as my settled conviction (_iti me saumya darśanam_), O gentle one, that the word of that guardian of the world (_tasya ... lokapālasya vākyam_) must never at any time be rendered false (_naiva jātv anṛtaṃ kāryam_).
 </details>
 </details>
 
@@ -577,7 +577,7 @@ Though bound to secrecy by Daśaratha, Sumantra agrees to divulge the secret to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By no means ought this to be spoken by me before you, O gentle one (sarvathaiva na vaktavyaṃ mayā saumya tavāgrataḥ); yet if you have ardent faith to hear it (yadi te śravaṇe śraddhā), then listen, O delight of the Raghus (śrūyatāṃ raghunandana)!
+“By no means ought this to be spoken by me before you, O gentle one (_sarvathaiva na vaktavyaṃ mayā saumya tavāgrataḥ_); yet if you have ardent faith to hear it (_yadi te śravaṇe śraddhā_), then listen, O delight of the Raghus (_śrūyatāṃ raghunandana_)!
 </details>
 </details>
 
@@ -617,9 +617,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Even though I was bound in secret by the king of old (yady apy ahaṃ narendreṇa rahasyaṃ śrāvitaḥ purā), still I shall relate it (tathāpy udāhariṣyāmi), for destiny is impossible to transgress (daivaṃ hi duratikramam)—
+**18:** “Even though I was bound in secret by the king of old (_yady apy ahaṃ narendreṇa rahasyaṃ śrāvitaḥ purā_), still I shall relate it (_tathāpy udāhariṣyāmi_), for destiny is impossible to transgress (_daivaṃ hi duratikramam_)—
 
-**19:** “—that destiny by which this present sorrow fraught with grief has arrived (yenedam īdṛśaṃ prāptaṃ duḥkhaṃ śoka-samanvitam); yet never must you speak of it before Bharata (na tvayā bharate vācyam), nor even in the presence of Śatrughna (śatrughnasyāpi sannidhau)!”
+**19:** “—that destiny by which this present sorrow fraught with grief has arrived (_yenedam īdṛśaṃ prāptaṃ duḥkhaṃ śoka-samanvitam_); yet never must you speak of it before Bharata (_na tvayā bharate vācyam_), nor even in the presence of Śatrughna (_śatrughnasyāpi sannidhau_)!”
 </details>
 </details>
 
@@ -661,7 +661,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those weighty words of his, endowed with profound meaning (gambhīrārtha-padaṃ mahat), Saumitri then spoke to the charioteer (sūtaṃ vākyam athābravīt): “Speak the truth (tathyaṃ brūhi)!”
+Hearing those weighty words of his, endowed with profound meaning (_gambhīrārtha-padaṃ mahat_), Saumitri then spoke to the charioteer (_sūtaṃ vākyam athābravīt_): “Speak the truth (_tathyaṃ brūhi_)!”
 </details>
 </details>
 

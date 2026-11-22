@@ -82,7 +82,7 @@ having crossed the rampart, sallied forth from the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stepping over the rampart (laṅghayitvā prākāraṃ), the huge Kumbhakarṇa of mighty strength, resembling a mountain peak (girikūṭopamaḥ), sallied forth swiftly from the city.
+Stepping over the rampart (_laṅghayitvā prākāraṃ_), the huge Kumbhakarṇa of mighty strength, resembling a mountain peak (_girikūṭopamaḥ_), sallied forth swiftly from the city.
 </details>
 </details>
 
@@ -131,7 +131,7 @@ quake and drowning the thunder-claps, as it were.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he uttered a mighty roar, making the ocean resound (samudram abhinādayan), as though vanquishing thunderclaps (nirghātān) and blowing away mountains (vidhamann iva parvatān).
+And he uttered a mighty roar, making the ocean resound (_samudram abhinādayan_), as though vanquishing thunderclaps (_nirghātān_) and blowing away mountains (_vidhamann iva parvatān_).
 </details>
 </details>
 
@@ -184,7 +184,7 @@ away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that dreadful-eyed giant advancing—invulnerable (avadhyam) even to Maghavān [Indra], Yama, or Varuṇa—the Vānaras fled in all directions (vipradudruvuḥ).
+Beholding that dreadful-eyed giant advancing—invulnerable (_avadhyam_) even to Maghavān [Indra], Yama, or Varuṇa—the Vānaras fled in all directions (_vipradudruvuḥ_).
 </details>
 </details>
 
@@ -291,7 +291,7 @@ trembling with fear like common monkeys?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Forgetting those famed exploits and noble lineages of your own (vīryāṇy abhijanāni ca), where are you fleeing, terrified with fear like common monkeys (prākṛtā harayo yathā)?
+“Forgetting those famed exploits and noble lineages of your own (_vīryāṇy abhijanāni ca_), where are you fleeing, terrified with fear like common monkeys (_prākṛtā harayo yathā_)?
 </details>
 </details>
 
@@ -344,7 +344,7 @@ demon is not competent for a combat. He is merely a great toy of terror."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Turn back nobly, gentle sirs (sādhu saumyā nivartadhvam)! Why do you hoard your lives? This rākṣasa is no match for battle (nālaṃ yuddhāya vai rakṣaḥ)—this is a mere huge scarecrow (mahatīyaṃ vibhīṣikā)!
+Turn back nobly, gentle sirs (_sādhu saumyā nivartadhvam_)! Why do you hoard your lives? This rākṣasa is no match for battle (_nālaṃ yuddhāya vai rakṣaḥ_)—this is a mere huge scarecrow (_mahatīyaṃ vibhīṣikā_)!
 </details>
 </details>
 
@@ -398,7 +398,7 @@ back!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By our valor we shall blow away (vikramād vidhamiṣyāmaḥ) this huge phantom of terror (vibhīṣikām) raised up by the rākṣasas; turn back, O leapers!
+“By our valor we shall blow away (_vikramād vidhamiṣyāmaḥ_) this huge phantom of terror (_vibhīṣikām_) raised up by the rākṣasas; turn back, O leapers!
 </details>
 </details>
 
@@ -451,7 +451,7 @@ battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recovering their composure with difficulty (kṛcchreṇa tu samāśvasya) and rallying from this side and that, the monkeys seized trees and stood firm upon the battlefield (raṇājire).
+Recovering their composure with difficulty (_kṛcchreṇa tu samāśvasya_) and rallying from this side and that, the monkeys seized trees and stood firm upon the battlefield (_raṇājire_).
 </details>
 </details>
 
@@ -521,9 +521,9 @@ with blossoms at their ends, stood unshaken.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Turning back in furious zeal (saṃrabdhāḥ), those forest-dwellers, enraged to the utmost like rutting elephants (samadā iva kuñjarāḥ), struck Kumbhakarṇa.
+**9:** Turning back in furious zeal (_saṃrabdhāḥ_), those forest-dwellers, enraged to the utmost like rutting elephants (_samadā iva kuñjarāḥ_), struck Kumbhakarṇa.
 
-**10:** Though pelted by those mighty warriors with lofty mountain crags (prāṃśubhir giriśṛṅgaiś ca), boulders, and trees crowned with blossoms, he did not waver (na kampate).
+**10:** Though pelted by those mighty warriors with lofty mountain crags (_prāṃśubhir giriśṛṅgaiś ca_), boulders, and trees crowned with blossoms, he did not waver (_na kampate_).
 </details>
 </details>
 
@@ -575,7 +575,7 @@ their ends, were broken and fell shattered on the floor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Falling upon his limbs, many boulders were shattered to pieces (bhidyante bahavaḥ śilāḥ), and trees with flowering tops fell broken to the ground.
+Falling upon his limbs, many boulders were shattered to pieces (_bhidyante bahavaḥ śilāḥ_), and trees with flowering tops fell broken to the ground.
 </details>
 </details>
 
@@ -625,7 +625,7 @@ greatly energetic, with his extreme exertion even as a rising fire would consume
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He too, thoroughly incensed and exerting himself to the utmost (paramāyattaḥ), churned (mamantha) the legions of the mighty Vānaras like an uprisen fire consuming forests (vanāny agnir ivotthitaḥ).
+He too, thoroughly incensed and exerting himself to the utmost (_paramāyattaḥ_), churned (_mamantha_) the legions of the mighty Vānaras like an uprisen fire consuming forests (_vanāny agnir ivotthitaḥ_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ were, fallen like trees with crimson flowers, when tossed up by the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drenched in blood (lohitārdrāḥ), many bulls among the Vānaras lay stretched upon the ground where they had been flung down (nirastāḥ patitā bhūmau), like trees with crimson blossoms (tāmrapuṣpā iva drumāḥ).
+Drenched in blood (_lohitārdrāḥ_), many bulls among the Vānaras lay stretched upon the ground where they had been flung down (_nirastāḥ patitā bhūmau_), like trees with crimson blossoms (_tāmrapuṣpā iva drumāḥ_).
 </details>
 </details>
 
@@ -734,7 +734,7 @@ ocean. Some inhabited the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping and fleeing headlong, the Vānaras did not look back (nāvalokayan); some plunged into the ocean, while others took to the sky (gaganam āsthitāḥ).
+Leaping and fleeing headlong, the Vānaras did not look back (_nāvalokayan_); some plunged into the ocean, while others took to the sky (_gaganam āsthitāḥ_).
 </details>
 </details>
 
@@ -787,7 +787,7 @@ away by the same route, by which they earlier crossed the ocean.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slaughtered effortlessly (līlayā) by that rākṣasa, those heroes fled back along the very same path (pathā tenaiva dudruvuḥ) by which they had crossed the ocean [the Setu bridge]!
+Slaughtered effortlessly (_līlayā_) by that rākṣasa, those heroes fled back along the very same path (_pathā tenaiva dudruvuḥ_) by which they had crossed the ocean [the Setu bridge]!
 </details>
 </details>
 
@@ -843,7 +843,7 @@ grounds, some bears ascended the trees. Some escaped to a hill.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With faces drained of color from terror (vivarṇavadanā bhayāt), they [fled over] high grounds and low hollows; the bears (ṛkṣāḥ) climbed up into trees, and some sought refuge on the mountain.
+With faces drained of color from terror (_vivarṇavadanā bhayāt_), they [fled over] high grounds and low hollows; the bears (_ṛkṣāḥ_) climbed up into trees, and some sought refuge on the mountain.
 </details>
 </details>
 
@@ -899,7 +899,7 @@ they were dead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some plunged into the sea, some took shelter in caverns; some dropped down, others could not keep their footing at all; some fell flat upon the earth, and some lay motionless as though dead (suptā mṛtā iva).
+Some plunged into the sea, some took shelter in caverns; some dropped down, others could not keep their footing at all; some fell flat upon the earth, and some lay motionless as though dead (_suptā mṛtā iva_).
 </details>
 </details>
 
@@ -954,7 +954,7 @@ carry on the battle. Come back."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those routed (bhagnān) Vānaras, Aṅgada spoke these words: “Stand fast (avatiṣṭhata), let us fight! Turn back, O leapers!
+Beholding those routed (_bhagnān_) Vānaras, Aṅgada spoke these words: “Stand fast (_avatiṣṭhata_), let us fight! Turn back, O leapers!
 </details>
 </details>
 
@@ -1015,7 +1015,7 @@ over the entire earth. Let all of you come back. Why do you safeguard your lives
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even after traversing this whole earth (parikramya mahīm imām), I see no place of refuge (sthānaṃ) for you if you flee broken; turn back, all of you! Why do you hoard your lives?
+“Even after traversing this whole earth (_parikramya mahīm imām_), I see no place of refuge (_sthānaṃ_) for you if you flee broken; turn back, all of you! Why do you hoard your lives?
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ leaving your weapos aside, will mock at you. It is indeed a death for those who 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O warriors of unobstructed stride and valor (asaṅgagatipauruṣāḥ), your wives will laugh in scorn (dārā hy upahasiṣyanti) at you fleeing weaponless—and for those who live in comfort, that is verily death (sa vai ghātaḥ sujīvatām)!
+O warriors of unobstructed stride and valor (_asaṅgagatipauruṣāḥ_), your wives will laugh in scorn (_dārā hy upahasiṣyanti_) at you fleeing weaponless—and for those who live in comfort, that is verily death (_sa vai ghātaḥ sujīvatām_)!
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ O warriors of unobstructed stride and valor (asaṅgagatipauruṣāḥ), your wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You are all born in vast and noble lineages (kuleṣu... vistīrṇeṣu mahatsu ca); where are you fleeing, terrified with fear like common monkeys? Ignoble indeed are you (anāryāḥ khalu), in that you cast aside your valor and run away in fright!
+You are all born in vast and noble lineages (_kuleṣu... vistīrṇeṣu mahatsu ca_); where are you fleeing, terrified with fear like common monkeys? Ignoble indeed are you (_anāryāḥ khalu_), in that you cast aside your valor and run away in fright!
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ you are indeed unworthy of honour."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Where now have gone those proud (sodagrāṇi) and salutary boasts (vikatthanāni) of yours that were uttered by you in the assembly of the people (janasaṃsadi)?
+Where now have gone those proud (_sodagrāṇi_) and salutary boasts (_vikatthanāni_) of yours that were uttered by you in the assembly of the people (_janasaṃsadi_)?
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ yourself in front of the people just before coming for the battle?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reproaches of cowardice (bhīroḥ pravādāḥ) are heard against him who lives on under a curse of shame (dhikkṛtaḥ); let the path trodden by noble men (mārgaḥ satpuruṣair juṣṭaḥ) be followed—cast off fear!
+Reproaches of cowardice (_bhīroḥ pravādāḥ_) are heard against him who lives on under a curse of shame (_dhikkṛtaḥ_); let the path trodden by noble men (_mārgaḥ satpuruṣair juṣṭaḥ_) be followed—cast off fear!
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ the people. Let the path trodden by the good people be followed. Let your fear b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Either, being short-lived (alpajīvitāḥ), let us lie slain upon the earth and attain the world of Brahmā (prāpnuyāmo brahmalokaṃ), which is hard to reach for cowardly fighters (kuyodhibhiḥ);
+“Either, being short-lived (_alpajīvitāḥ_), let us lie slain upon the earth and attain the world of Brahmā (_prāpnuyāmo brahmalokaṃ_), which is hard to reach for cowardly fighters (_kuyodhibhiḥ_);
 </details>
 </details>
 
@@ -1321,7 +1321,7 @@ by bad warriors."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-or let us win renown by slaying the enemy in battle! Or, slain in battle, O Vānaras, we shall enjoy the riches of the heroes' heaven (vīralokasya bhokṣyāmo vasu)!
+or let us win renown by slaying the enemy in battle! Or, slain in battle, O Vānaras, we shall enjoy the riches of the heroes&#x27; heaven (_vīralokasya bhokṣyāmo vasu_)!
 </details>
 </details>
 
@@ -1368,7 +1368,7 @@ the other hand, we shall enjoy the heaven, attained by the warriors."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon beholding Kākutstha [Rāma], Kumbhakarṇa will not depart alive (na... jīvan gamiṣyati), any more than a moth (pataṅgaḥ) approaching a blazing fire!
+Upon beholding Kākutstha [Rāma], Kumbhakarṇa will not depart alive (_na... jīvan gamiṣyati_), any more than a moth (_pataṅgaḥ_) approaching a blazing fire!
 </details>
 </details>
 
@@ -1414,7 +1414,7 @@ moth meeting a blazing fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If we, who are renowned among heroes (uddiṣṭāḥ) and many in number, save our lives by flight after being routed by a single foe (ekena bahavo bhagnāḥ), our fame will go to ruin!
+If we, who are renowned among heroes (_uddiṣṭāḥ_) and many in number, save our lives by flight after being routed by a single foe (_ekena bahavo bhagnāḥ_), our fame will go to ruin!
 </details>
 </details>
 
@@ -1461,7 +1461,7 @@ alone and if we protect our lives by running away, our glory will undergo a dama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that valiant Aṅgada, decked with golden armlets (kanakāṅgadam), spoke thus, the fleeing monkeys uttered in reply a speech despised by heroes (śūravigarhitam):
+As that valiant Aṅgada, decked with golden armlets (_kanakāṅgadam_), spoke thus, the fleeing monkeys uttered in reply a speech despised by heroes (_śūravigarhitam_):
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ the warriors, to that valiant Angada, who was adorneed with golden armlets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A dreadful slaughter (kadanaṃ ghoraṃ) has been wrought upon us by the rākṣasa Kumbhakarṇa! This is no time to stand firm—we are leaving, for life is dear to us (dayitaṃ jīvitaṃ hi naḥ)!”
+“A dreadful slaughter (_kadanaṃ ghoraṃ_) has been wrought upon us by the rākṣasa Kumbhakarṇa! This is no time to stand firm—we are leaving, for life is dear to us (_dayitaṃ jīvitaṃ hi naḥ_)!”
 </details>
 </details>
 
@@ -1612,7 +1612,7 @@ of monkey-troops, speaking words only thus far, scattered in all directions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet as those valiant monkeys (balīmukhāḥ) were fleeing, they were all turned back by Aṅgada through soothing words (sāntvanaiḥ) and logical persuasions [or: tokens of honor] (anumānaiś ca).
+Yet as those valiant monkeys (_balīmukhāḥ_) were fleeing, they were all turned back by Aṅgada through soothing words (_sāntvanaiḥ_) and logical persuasions [or: tokens of honor] (_anumānaiś ca_).
 </details>
 </details>
 
@@ -1665,7 +1665,7 @@ fleeing commanders of monkeys turned back.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brought to high spirits (praharṣam upanītāś ca) by the wise son of Vālī, all the Vānara troop-leaders stood awaiting his command (ājñāpratīkṣās tasthuś ca).
+Brought to high spirits (_praharṣam upanītāś ca_) by the wise son of Vālī, all the Vānara troop-leaders stood awaiting his command (_ājñāpratīkṣās tasthuś ca_).
 </details>
 </details>
 
@@ -1732,7 +1732,7 @@ army-troops stood awaiting his command.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ṛṣabha, Śarabha, Mainda, Dhūmra, and Nīla; Kumuda, Suṣeṇa, Gavākṣa, Rambha, and Tāra; and the chiefs headed by Dvivida, Panasa, and the son of the Wind-god [Hanumān] marched rapidly straight toward the battle (tvaritatarābhimukhaṃ raṇaṃ prayātāḥ)!
+Ṛṣabha, Śarabha, Mainda, Dhūmra, and Nīla; Kumuda, Suṣeṇa, Gavākṣa, Rambha, and Tāra; and the chiefs headed by Dvivida, Panasa, and the son of the Wind-god [Hanumān] marched rapidly straight toward the battle (_tvaritatarābhimukhaṃ raṇaṃ prayātāḥ_)!
 </details>
 </details>
 

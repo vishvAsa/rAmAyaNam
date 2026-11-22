@@ -81,7 +81,7 @@ with tears in their throats, slowly passed over.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of all joy through loud lamentations (ākrandita-nirānandā) and crowded with people whose throats were choked with tears (sāsra-kaṇṭha-janākulā), that long-drawn night (avatatā śarvarī) passed away in Ayodhyā.
+Bereft of all joy through loud lamentations (_ākrandita-nirānandā_) and crowded with people whose throats were choked with tears (_sāsra-kaṇṭha-janākulā_), that long-drawn night (_avatatā śarvarī_) passed away in Ayodhyā.
 </details>
 </details>
 
@@ -133,7 +133,7 @@ throne, together gathered at the assembly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night had passed away and the sun had risen, the twice-born kingmakers (rāja-kartāraḥ dvijātayaḥ) assembled together and entered the royal assembly hall (sabhām īyuḥ).
+When that night had passed away and the sun had risen, the twice-born kingmakers (_rāja-kartāraḥ dvijātayaḥ_) assembled together and entered the royal assembly hall (_sabhām īyuḥ_).
 </details>
 </details>
 
@@ -196,9 +196,9 @@ Vasishta and one by one spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** There came Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Gautama, and Jābāli of great renown (mahā-yaśāḥ).
+**3:** There came Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Gautama, and Jābāli of great renown (_mahā-yaśāḥ_).
 
-**4:** Turning directly toward Vasiṣṭha (vasiṣṭham evābhimukhāḥ), the foremost royal family priest (śreṣṭhaṃ rāja-purohitam), those twice-born sages together with the ministers uttered their respective counsels (pṛthag vācam udīrayan).
+**4:** Turning directly toward Vasiṣṭha (_vasiṣṭham evābhimukhāḥ_), the foremost royal family priest (_śreṣṭhaṃ rāja-purohitam_), those twice-born sages together with the ministers uttered their respective counsels (_pṛthag vācam udīrayan_).
 </details>
 </details>
 
@@ -255,7 +255,7 @@ difficulty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That night which seemed unto us like a hundred years (varṣa-śatopamā) has passed away in sorrow (duḥkham), now that this monarch has met his dissolution (pañcatvam āpanne) through grief for his son.
+“That night which seemed unto us like a hundred years (_varṣa-śatopamā_) has passed away in sorrow (_duḥkham_), now that this monarch has met his dissolution (_pañcatvam āpanne_) through grief for his son.
 </details>
 </details>
 
@@ -307,7 +307,7 @@ Lakshmana followed suit and went along with Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The great king has ascended to heaven (svargataḥ), Rāma has betaken himself to the forest (araṇyam āśritaḥ), and the radiant Lakṣmaṇa too has gone forth along with Rāma himself.
+The great king has ascended to heaven (_svargataḥ_), Rāma has betaken himself to the forest (_araṇyam āśritaḥ_), and the radiant Lakṣmaṇa too has gone forth along with Rāma himself.
 </details>
 </details>
 
@@ -367,7 +367,7 @@ beautiful house of their maternal uncle in the city of Rajagriha in the kingdom 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both Bharata and Śatrughna, the scorchers of foes (parantapau), are among the Kekayas in the delightful city of Rājagṛha, in the abode of their maternal grandfather (mātāmaha-niveśane).
+Both Bharata and Śatrughna, the scorchers of foes (_parantapau_), are among the Kekayas in the delightful city of Rājagṛha, in the abode of their maternal grandfather (_mātāmaha-niveśane_).
 </details>
 </details>
 
@@ -420,7 +420,7 @@ nation without a king should result in a collapse indeed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let someone among the Ikṣvākus be appointed king here this very day (ihādyaiva), for without a king (arājakam) our realm would utterly perish (vināśaṃ samavāpnuyāt).
+Let someone among the Ikṣvākus be appointed king here this very day (_ihādyaiva_), for without a king (_arājakam_) our realm would utterly perish (_vināśaṃ samavāpnuyāt_).
 </details>
 </details>
 
@@ -472,7 +472,7 @@ the land in a country without a king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land (nārājake janapade), the loud-thundering rain-cloud (mahā-svanaḥ parjanyaḥ), garlanded with lightning (vidyun-mālī), does not shower the earth with heavenly water (divyena vāriṇā).
+In a kingless land (_nārājake janapade_), the loud-thundering rain-cloud (_mahā-svanaḥ parjanyaḥ_), garlanded with lightning (_vidyun-mālī_), does not shower the earth with heavenly water (_divyena vāriṇā_).
 </details>
 </details>
 
@@ -525,7 +525,7 @@ son is not amenable to the control of a father nor a wife in the authority of he
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, not a handful of seed (bīja-muṣṭiḥ) is scattered upon the field; in a kingless land, neither does a son abide under his father’s command, nor a wife under her husband’s control (vartate vaśe).
+In a kingless land, not a handful of seed (_bīja-muṣṭiḥ_) is scattered upon the field; in a kingless land, neither does a son abide under his father’s command, nor a wife under her husband’s control (_vartate vaśe_).
 </details>
 </details>
 
@@ -579,7 +579,7 @@ truth? "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land there is no wealth, nor is a wife secure in a kingless land; and what is an even greater calamity (atyāhitam), whence can there be truth (kutaḥ satyam) in a kingless land?
+In a kingless land there is no wealth, nor is a wife secure in a kingless land; and what is an even greater calamity (_atyāhitam_), whence can there be truth (_kutaḥ satyam_) in a kingless land?
 </details>
 </details>
 
@@ -631,7 +631,7 @@ erect beautiful parks or temples."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, men do not build assembly halls (kārayanti sabhām), nor do they joyfully construct delightful pleasure-gardens (udyānāni ramyāṇi) and sacred edifices (puṇya-gṛhāṇi).
+In a kingless land, men do not build assembly halls (_kārayanti sabhām_), nor do they joyfully construct delightful pleasure-gardens (_udyānāni ramyāṇi_) and sacred edifices (_puṇya-gṛhāṇi_).
 </details>
 </details>
 
@@ -693,7 +693,7 @@ sacrifices."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, twice-born Brahmins devoted to sacrifice (yajña-śīlāḥ), self-controlled (dāntāḥ) and strict in their vows (saṃśita-vratāḥ), do not sit through long sacrificial sessions (satrāṇy anvāsate).
+In a kingless land, twice-born Brahmins devoted to sacrifice (_yajña-śīlāḥ_), self-controlled (_dāntāḥ_) and strict in their vows (_saṃśita-vratāḥ_), do not sit through long sacrificial sessions (_satrāṇy anvāsate_).
 </details>
 </details>
 
@@ -748,7 +748,7 @@ sacrificial rites do not bestow proper gifts"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, wealthy (vasu-sampannāḥ) sacrificing Brahmins (yajvanaḥ) do not distribute munificent sacrificial gifts (vṛsjanty āpta-dakṣiṇāḥ) in great sacrifices.
+In a kingless land, wealthy (_vasu-sampannāḥ_) sacrificing Brahmins (_yajvanaḥ_) do not distribute munificent sacrificial gifts (_vṛsjanty āpta-dakṣiṇāḥ_) in great sacrifices.
 </details>
 </details>
 
@@ -803,7 +803,7 @@ actors, and dancers exhibit their talents are not frequently arranged"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, neither festivals (utsavāḥ) nor public gatherings (samājāḥ)—abounding in actors and dancers (prabhūta-naṭa-nartakāḥ) and enhancing the prosperity of the realm (rāṣṭra-vardhanāḥ)—flourish.
+In a kingless land, neither festivals (_utsavāḥ_) nor public gatherings (_samājāḥ_)—abounding in actors and dancers (_prabhūta-naṭa-nartakāḥ_) and enhancing the prosperity of the realm (_rāṣṭra-vardhanāḥ_)—flourish.
 </details>
 </details>
 
@@ -856,7 +856,7 @@ have a knack for narrating stories do not gratify story- lovers with their tales
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, men of business (vyavahāriṇaḥ) do not achieve their aims (siddhārthāḥ), nor are lovers of sacred lore (kathā-śīlāḥ) delighted with narratives told by engaging storytellers (kathā-priyaiḥ).
+In a kingless land, men of business (_vyavahāriṇaḥ_) do not achieve their aims (_siddhārthāḥ_), nor are lovers of sacred lore (_kathā-śīlāḥ_) delighted with narratives told by engaging storytellers (_kathā-priyaiḥ_).
 </details>
 </details>
 
@@ -908,7 +908,7 @@ play there in the evening."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, maidens adorned with gold (kumāryo hema-bhūṣitāḥ), gathering together (samāgatāḥ), do not go forth at eventide (sāyāhne) to sport in the pleasure-gardens.
+In a kingless land, maidens adorned with gold (_kumāryo hema-bhūṣitāḥ_), gathering together (_samāgatāḥ_), do not go forth at eventide (_sāyāhne_) to sport in the pleasure-gardens.
 </details>
 </details>
 
@@ -960,7 +960,7 @@ moving vehicles"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, amorous men (narāḥ kāminaḥ) do not ride forth into the woods alongside their womenfolk in swift-moving vehicles (vāhanaiḥ śīghra-gāmibhiḥ).
+In a kingless land, amorous men (_narāḥ kāminaḥ_) do not ride forth into the woods alongside their womenfolk in swift-moving vehicles (_vāhanaiḥ śīghra-gāmibhiḥ_).
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ sleep in their abodes well protected, with their doors open"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, wealthy men (dhanavantaḥ) living by agriculture and cattle-rearing (kṛṣi-gorakṣa-jīvinaḥ), even when well-guarded, do not sleep with their doors left open (vivṛta-dvārāḥ).
+In a kingless land, wealthy men (_dhanavantaḥ_) living by agriculture and cattle-rearing (_kṛṣi-gorakṣa-jīvinaḥ_), even when well-guarded, do not sleep with their doors left open (_vivṛta-dvārāḥ_).
 </details>
 </details>
 
@@ -1072,7 +1072,7 @@ tusks, do not roam around on royal high ways
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, sixty-year-old tusked elephants (kuñjarāḥ ṣaṣṭi-hāyanāḥ), with bells fastened upon them (baddha-ghaṇṭāḥ viṣāṇinaḥ), do not roam along the royal highways (rāja-mārgeṣu).
+In a kingless land, sixty-year-old tusked elephants (_kuñjarāḥ ṣaṣṭi-hāyanāḥ_), with bells fastened upon them (_baddha-ghaṇṭāḥ viṣāṇinaḥ_), do not roam along the royal highways (_rāja-mārgeṣu_).
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ heard."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, the clap of the bowstring against the leather arm-guard (tala-nirghoṣaḥ) is never heard from archers ceaselessly shooting arrows (śarān santatam asyatām) in the practice of archery (iṣvastrāṇām upāsane).
+In a kingless land, the clap of the bowstring against the leather arm-guard (_tala-nirghoṣaḥ_) is never heard from archers ceaselessly shooting arrows (_śarān santatam asyatām_) in the practice of archery (_iṣvastrāṇām upāsane_).
 </details>
 </details>
 
@@ -1178,7 +1178,7 @@ merchandises, cannot travel safely in their voyages."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, far-traveling merchants (vaṇijo dūra-gāminaḥ), heavily laden with abundant merchandise (bahu-paṇya-samācitāḥ), cannot travel along the roads in safety (kṣemam adhvānam).
+In a kingless land, far-traveling merchants (_vaṇijo dūra-gāminaḥ_), heavily laden with abundant merchandise (_bahu-paṇya-samācitāḥ_), cannot travel along the roads in safety (_kṣemam adhvānam_).
 </details>
 </details>
 
@@ -1235,7 +1235,7 @@ around the city."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, the self-subdued sage (vaśī muniḥ), wandering solitary (eka-caraḥ), making his home wherever evening falls (yatra-sāyaṃ-gṛhaḥ), and meditating upon the Supreme Self with his mind (bhāvayann ātmanātmānam), cannot roam in peace.
+In a kingless land, the self-subdued sage (_vaśī muniḥ_), wandering solitary (_eka-caraḥ_), making his home wherever evening falls (_yatra-sāyaṃ-gṛhaḥ_), and meditating upon the Supreme Self with his mind (_bhāvayann ātmanātmānam_), cannot roam in peace.
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ cannot conquer enemies in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, neither acquisition nor preservation of goods (yoga-kṣemam) prevails; nor in a kingless land can an army withstand its enemies (śatrūn viṣahate) in battle.
+In a kingless land, neither acquisition nor preservation of goods (_yoga-kṣemam_) prevails; nor in a kingless land can an army withstand its enemies (_śatrūn viṣahate_) in battle.
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ excellent horses and chariots."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, finely adorned men (narāḥ parimaṇḍitāḥ) do not ride forth briskly (sahasā saṃyānti) on spirited, thoroughbred steeds (hṛṣṭaiḥ parama-vājibhiḥ) and on chariots.
+In a kingless land, finely adorned men (_narāḥ parimaṇḍitāḥ_) do not ride forth briskly (_sahasā saṃyānti_) on spirited, thoroughbred steeds (_hṛṣṭaiḥ parama-vājibhiḥ_) and on chariots.
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ together in forests and groves."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, men well-versed in the sacred sciences (narāḥ śāstra-viśāradāḥ) do not sit engaged in scholarly disputation (saṃvadanto ’vatiṣṭhante) in the woods and pleasure-groves (vaneṣūpavaneṣu ca).
+In a kingless land, men well-versed in the sacred sciences (_narāḥ śāstra-viśāradāḥ_) do not sit engaged in scholarly disputation (_saṃvadanto ’vatiṣṭhante_) in the woods and pleasure-groves (_vaneṣūpavaneṣu ca_).
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ offering to the deities, are not arranged by the appointed persons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, garlands, sweetmeats, and sacrificial offerings (mālya-modaka-dakṣiṇāḥ) are not prepared by devout men (niyatair janaiḥ) for the worship of the deities (devatābhyarcanārthāya).
+In a kingless land, garlands, sweetmeats, and sacrificial offerings (_mālya-modaka-dakṣiṇāḥ_) are not prepared by devout men (_niyatair janaiḥ_) for the worship of the deities (_devatābhyarcanārthāya_).
 </details>
 </details>
 
@@ -1506,7 +1506,7 @@ not figure brilliantly like trees in a spring time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, royal princes (rāja-putrāḥ), smeared with sandalwood and aloe paste (candanāguru-rūṣitāḥ), do not shine resplendent like flowering trees in spring (vasanta iva śākhinaḥ).
+In a kingless land, royal princes (_rāja-putrāḥ_), smeared with sandalwood and aloe paste (_candanāguru-rūṣitāḥ_), do not shine resplendent like flowering trees in spring (_vasanta iva śākhinaḥ_).
 </details>
 </details>
 
@@ -1559,7 +1559,7 @@ like the cowherd less cows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as rivers are without water (anudakā nadyaḥ), or a forest without grass (atṛṇaṃ vanam), or kine without a cowherd (agopālā yathā gāvaḥ), even so is a kingdom without a king (rāṣṭram arājakam).
+Just as rivers are without water (_anudakā nadyaḥ_), or a forest without grass (_atṛṇaṃ vanam_), or kine without a cowherd (_agopālā yathā gāvaḥ_), even so is a kingdom without a king (_rāṣṭram arājakam_).
 </details>
 </details>
 
@@ -1620,7 +1620,7 @@ Dasaratha, like a flag, was an identity for us and he has left the world for a h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The banner is the distinguishing emblem of a chariot (dhvajo rathasya prajñānam), and smoke is the sign of fire (dhūmo jñānaṃ vibhāvasoḥ); our king, who was the banner of us all, has departed hence to the state of the gods (devatvam ito gataḥ).
+The banner is the distinguishing emblem of a chariot (_dhvajo rathasya prajñānam_), and smoke is the sign of fire (_dhūmo jñānaṃ vibhāvasoḥ_); our king, who was the banner of us all, has departed hence to the state of the gods (_devatvam ito gataḥ_).
 </details>
 </details>
 
@@ -1675,7 +1675,7 @@ persons always eat away each other."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a kingless land, nothing remains the private property of anyone (svakaṃ bhavati kasyacit); like fishes in the water (matsyā iva), men constantly devour one another (bhakṣayanti parasparam).
+In a kingless land, nothing remains the private property of anyone (_svakaṃ bhavati kasyacit_); like fishes in the water (_matsyā iva_), men constantly devour one another (_bhakṣayanti parasparam_).
 </details>
 </details>
 
@@ -1729,7 +1729,7 @@ temperament (due to anarchy)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even those atheists who have broken all moral bounds (sambhinna-maryādā nāstikāḥ) and were formerly curbed by royal punishment (rāja-daṇḍa-nipīḍitāḥ), now freed from all fear and doubt (chinna-saṃśayāḥ), rise to dominance (bhāvāya kalpante).
+Even those atheists who have broken all moral bounds (_sambhinna-maryādā nāstikāḥ_) and were formerly curbed by royal punishment (_rāja-daṇḍa-nipīḍitāḥ_), now freed from all fear and doubt (_chinna-saṃśayāḥ_), rise to dominance (_bhāvāya kalpante_).
 </details>
 </details>
 
@@ -1776,7 +1776,7 @@ so also a king is the cause of existence for truth and righteousness of a countr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as sight (dṛṣṭiḥ) constantly operates for the preservation of the body (śarīrasya nityam eva pravartate), so too the monarch of a realm is the fountainhead of truth and dharma (prabhavaḥ satya-dharmayoḥ).
+Just as sight (_dṛṣṭiḥ_) constantly operates for the preservation of the body (_śarīrasya nityam eva pravartate_), so too the monarch of a realm is the fountainhead of truth and dharma (_prabhavaḥ satya-dharmayoḥ_).
 </details>
 </details>
 
@@ -1824,7 +1824,7 @@ people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king is truth and dharma; the king is the lineage of those of noble family (kulavatāṃ kulam); the king is both mother and father; the king is the benefactor of mankind (hitakaro nṛṇām).
+The king is truth and dharma; the king is the lineage of those of noble family (_kulavatāṃ kulam_); the king is both mother and father; the king is the benefactor of mankind (_hitakaro nṛṇām_).
 </details>
 </details>
 
@@ -1886,7 +1886,7 @@ eminent conduct."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yama, Vaiśravaṇa (Kubera), Śakra (Indra), and Varuṇa of mighty strength are surpassed (viśeṣyante) by a monarch through his grand and comprehensive conduct (vṛttena mahatā).
+Yama, Vaiśravaṇa (Kubera), Śakra (Indra), and Varuṇa of mighty strength are surpassed (_viśeṣyante_) by a monarch through his grand and comprehensive conduct (_vṛttena mahatā_).
 </details>
 </details>
 
@@ -1939,7 +1939,7 @@ good and evil, this world will be dark and nothing will be clearly perceived."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas! This whole world would become like blinding darkness (tama ivedaṃ syāt), and nothing whatever would be discerned (na prajñāyeta kiñcana), if there were no king in the world distinguishing right from wrong (vibhajan sādhv-asādhunī).
+Alas! This whole world would become like blinding darkness (_tama ivedaṃ syāt_), and nothing whatever would be discerned (_na prajñāyeta kiñcana_), if there were no king in the world distinguishing right from wrong (_vibhajan sādhv-asādhunī_).
 </details>
 </details>
 
@@ -1994,7 +1994,7 @@ any more than an ocean transgresses its coast."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even while the great king was alive, we all never transgressed your command (tavaiva vacanaṃ nātikramāmahe), just as the ocean never oversteps its shore (velāṃ prāpyeva sāgaraḥ).
+Even while the great king was alive, we all never transgressed your command (_tavaiva vacanaṃ nātikramāmahe_), just as the ocean never oversteps its shore (_velāṃ prāpyeva sāgaraḥ_).
 </details>
 </details>
 
@@ -2071,7 +2071,7 @@ or anyone here as a king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O best of the twice-born (dvija-varya), beholding our plight and seeing that the kingdom without a king has become a wilderness (rājyam araṇya-bhūtam), do you yourself consecrate as king here (rājānam ihābhiṣiñca) a munificent prince, a son of the Ikṣvākus (kumāram ikṣvāku-sutaṃ vadānyam).”
+Therefore, O best of the twice-born (_dvija-varya_), beholding our plight and seeing that the kingdom without a king has become a wilderness (_rājyam araṇya-bhūtam_), do you yourself consecrate as king here (_rājānam ihābhiṣiñca_) a munificent prince, a son of the Ikṣvākus (_kumāram ikṣvāku-sutaṃ vadānyam_).”
 </details>
 </details>
 

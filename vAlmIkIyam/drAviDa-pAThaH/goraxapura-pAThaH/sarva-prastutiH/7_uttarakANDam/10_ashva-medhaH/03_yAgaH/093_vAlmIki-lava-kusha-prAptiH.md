@@ -48,7 +48,7 @@ Vālmīki arrives at Naimiṣa with his disciples, builds secluded leafy huts st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that supremely wondrous sacrifice of such splendor was in progress (vartamāne tathābhūte yajñe ca paramādbhute), the eminent sage Vālmīki (vālmīkir munipuṅgavaḥ) swiftly arrived together with his disciples (saśiṣya ājagāmāśu).
+While that supremely wondrous sacrifice of such splendor was in progress (_vartamāne tathābhūte yajñe ca paramādbhute_), the eminent sage Vālmīki (_vālmīkir munipuṅgavaḥ_) swiftly arrived together with his disciples (_saśiṣya ājagāmāśu_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ While that supremely wondrous sacrifice of such splendor was in progress (vartam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that divine-looking sacrifice of marvelous aspect (divya-saṅkāśaṃ yajñam adbhuta-darśanam), he built auspicious leafy huts (cakāra uṭajāñ chubhān) in a secluded spot beside the sages’ enclosures (ekānte ṛṣi-vāṭānām).
+Beholding that divine-looking sacrifice of marvelous aspect (_divya-saṅkāśaṃ yajñam adbhuta-darśanam_), he built auspicious leafy huts (_cakāra uṭajāñ chubhān_) in a secluded spot beside the sages’ enclosures (_ekānte ṛṣi-vāṭānām_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Beholding that divine-looking sacrifice of marvelous aspect (divya-saṅkāśa�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And many fine carts filled with fruits and roots (śakaṭāṃś ca bahūn pūrṇān phala-mūlaiś ca śobhanān) were stationed not far away in Vālmīki’s lovely enclosure (vālmīki-vāṭe rucire sthāpayann avidūrataḥ).
+And many fine carts filled with fruits and roots (_śakaṭāṃś ca bahūn pūrṇān phala-mūlaiś ca śobhanān_) were stationed not far away in Vālmīki’s lovely enclosure (_vālmīki-vāṭe rucire sthāpayann avidūrataḥ_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ And many fine carts filled with fruits and roots (śakaṭāṃś ca bahūn pūr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeply honored by the king and by the great-souled sages (āsīt supūjito rājñā munibhiś ca mahātmabhiḥ), the greatly radiant Vālmīki, supreme in self-mastery (sumahātejā ... paramātmavān), took up his abode there.
+Deeply honored by the king and by the great-souled sages (_āsīt supūjito rājñā munibhiś ca mahātmabhiḥ_), the greatly radiant Vālmīki, supreme in self-mastery (_sumahātejā ... paramātmavān_), took up his abode there.
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He spoke to his two delighted disciples (sa śiṣyāv abravīd dhṛṣṭau): “Go forth, both of you, with collected minds (yuvāṃ gatvā samāhitau), and sing the entire Rāmāyaṇa poem (kṛtsnaṃ rāmāyaṇaṃ kāvyam) with supreme joy (gāyethāṃ parayā mudā)—
+He spoke to his two delighted disciples (_sa śiṣyāv abravīd dhṛṣṭau_): “Go forth, both of you, with collected minds (_yuvāṃ gatvā samāhitau_), and sing the entire Rāmāyaṇa poem (_kṛtsnaṃ rāmāyaṇaṃ kāvyam_) with supreme joy (_gāyethāṃ parayā mudā_)—
 </details>
 </details>
 
@@ -206,7 +206,7 @@ He spoke to his two delighted disciples (sa śiṣyāv abravīd dhṛṣṭau): 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—in the sacred enclosures of the sages (ṛṣi-vāṭeṣu puṇyeṣu), in the dwellings of brahmins (brāhmaṇāvasatheṣu ca), along the streets and royal highways (rathyāsu rājamārgeṣu), and in the pavilions of the kings (pārthivānāṃ gṛheṣu ca)—”
+“—in the sacred enclosures of the sages (_ṛṣi-vāṭeṣu puṇyeṣu_), in the dwellings of brahmins (_brāhmaṇāvasatheṣu ca_), along the streets and royal highways (_rathyāsu rājamārgeṣu_), and in the pavilions of the kings (_pārthivānāṃ gṛheṣu ca_)—”
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Vālmīki directs the boys to sing especially at Rāma’s gate and before the p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the gate of Rāma’s pavilion (rāmasya bhavana-dvāri) and where they perform the sacrificial rite (yatra karma ca kurvate), and right before the officiating priests (ṛtvijām agrataś caiva)—there especially must you sing (tatra geyaṃ viśeṣataḥ)!
+“At the gate of Rāma’s pavilion (_rāmasya bhavana-dvāri_) and where they perform the sacrificial rite (_yatra karma ca kurvate_), and right before the officiating priests (_ṛtvijām agrataś caiva_)—there especially must you sing (_tatra geyaṃ viśeṣataḥ_)!
 </details>
 </details>
 
@@ -276,7 +276,7 @@ Vālmīki directs the boys to sing especially at Rāma’s gate and before the p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tasting again and again (āsvādyāsvādya) these varied, sweet fruits (imāni ca phalāny atra svādūni vividhāni ca) grown upon the mountaintops here (jātāni parvatāgreṣu), let the two of you sing (gāyatām)!
+“Tasting again and again (_āsvādyāsvādya_) these varied, sweet fruits (_imāni ca phalāny atra svādūni vividhāni ca_) grown upon the mountaintops here (_jātāni parvatāgreṣu_), let the two of you sing (_gāyatām_)!
 </details>
 </details>
 
@@ -310,7 +310,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having eaten these fruits and savory roots (bhakṣayitvā phalāni vai mūlāni ca sumṛṣṭāni), dear boys, you shall feel no fatigue (na yāsyathaḥ śramaṃ vatsau), and you shall lodge outside the city (nagarād bahir āsyathaḥ).
+“Having eaten these fruits and savory roots (_bhakṣayitvā phalāni vai mūlāni ca sumṛṣṭāni_), dear boys, you shall feel no fatigue (_na yāsyathaḥ śramaṃ vatsau_), and you shall lodge outside the city (_nagarād bahir āsyathaḥ_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If King Rāma should summon you to listen (yadi śabdāpayed rāmaḥ śravaṇāya mahīpatiḥ), then in the presence of the seated sages (ṛṣīṇām upaviṣṭānām) let your singing commence (tato geyaṃ pravartatām).
+“If King Rāma should summon you to listen (_yadi śabdāpayed rāmaḥ śravaṇāya mahīpatiḥ_), then in the presence of the seated sages (_ṛṣīṇām upaviṣṭānām_) let your singing commence (_tato geyaṃ pravartatām_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Twenty sargas each day (divase viṃśatiḥ sargāḥ) are to be sung with a sweet voice (geyā madhurayā girā), in the manifold measures (pramāṇair bahubhis tatra) just as I instructed you of old (yathoddiṣṭā mayā purā).”
+“Twenty sargas each day (_divase viṃśatiḥ sargāḥ_) are to be sung with a sweet voice (_geyā madhurayā girā_), in the manifold measures (_pramāṇair bahubhis tatra_) just as I instructed you of old (_yathoddiṣṭā mayā purā_).”
 </details>
 </details>
 
@@ -420,7 +420,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor must even the slightest greed be entertained (lobhaś cāpi na kartavyaḥ svalpo ’pi) out of longing for wealth (dhana-kāṅkṣayā); what use is wealth to hermitage dwellers who subsist on fruits and roots (kiṃ dhanenāśramasthānāṃ phala-mūlopajīvinām)?
+“Nor must even the slightest greed be entertained (_lobhaś cāpi na kartavyaḥ svalpo ’pi_) out of longing for wealth (_dhana-kāṅkṣayā_); what use is wealth to hermitage dwellers who subsist on fruits and roots (_kiṃ dhanenāśramasthānāṃ phala-mūlopajīvinām_)?
 </details>
 </details>
 
@@ -451,7 +451,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If Kākutstha should ask, ‘Whose boys are you two?’ (yadi pṛcchet sa kākutstho yuvāṃ kasyeti dārakau), speak thus to the lord of men (brūtam evaṃ narādhipam): ‘We are disciples of Vālmīki’ (āvāṃ vālmīki-śiṣyau svaḥ).
+“If Kākutstha should ask, ‘Whose boys are you two?’ (_yadi pṛcchet sa kākutstho yuvāṃ kasyeti dārakau_), speak thus to the lord of men (_brūtam evaṃ narādhipam_): ‘We are disciples of Vālmīki’ (_āvāṃ vālmīki-śiṣyau svaḥ_).
 </details>
 </details>
 
@@ -485,7 +485,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Modulating these sweet lute-strings (imās tantrīḥ sumadhurāḥ) and the fret-board of wondrous resonance (sthānaṃ vāpūrva-darśanam mūrcchayitvā), sing most sweetly (sumadhuraṃ gāyatām), free from all anxiety (vigata-jvarau).
+“Modulating these sweet lute-strings (_imās tantrīḥ sumadhurāḥ_) and the fret-board of wondrous resonance (_sthānaṃ vāpūrva-darśanam mūrcchayitvā_), sing most sweetly (_sumadhuraṃ gāyatām_), free from all anxiety (_vigata-jvarau_).
 </details>
 </details>
 
@@ -516,7 +516,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The singing should proceed from the very beginning (ādi-prabhṛti geyaṃ syāt), and never in disregard of the king (na cāvajñāya pārthivam); for by dharma a king is indeed the father of all beings (pitā hi sarva-bhūtānāṃ rājā bhavati dharmataḥ).”
+“The singing should proceed from the very beginning (_ādi-prabhṛti geyaṃ syāt_), and never in disregard of the king (_na cāvajñāya pārthivam_); for by dharma a king is indeed the father of all beings (_pitā hi sarva-bhūtānāṃ rājā bhavati dharmataḥ_).”
 </details>
 </details>
 
@@ -555,7 +555,7 @@ With a final charge to sing sweetly at dawn, Vālmīki falls silent; the eager s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, joyful in mind and steadfast (tad yuvāṃ hṛṣṭa-manasau ... samāsthitau), tomorrow at dawn (śvaḥ prabhāte) sing the sweet song (gāyethāṃ madhuraṃ geyam), united with lute-strings and rhythm (tantrī-laya-samanvitam).”
+“Therefore, joyful in mind and steadfast (_tad yuvāṃ hṛṣṭa-manasau ... samāsthitau_), tomorrow at dawn (_śvaḥ prabhāte_) sing the sweet song (_gāyethāṃ madhuraṃ geyam_), united with lute-strings and rhythm (_tantrī-laya-samanvitam_).”
 </details>
 </details>
 
@@ -586,7 +586,7 @@ With a final charge to sing sweetly at dawn, Vālmīki falls silent; the eager s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus instructed them repeatedly (iti sandiśya bahuśaḥ), the supremely generous, greatly renowned sage Prācetasa Vālmīki (muniḥ prācetasas tadā vālmīkiḥ paramodāraḥ ... mahāyaśāḥ) then became silent (tūṣṇīm āsīt).
+Having thus instructed them repeatedly (_iti sandiśya bahuśaḥ_), the supremely generous, greatly renowned sage Prācetasa Vālmīki (_muniḥ prācetasas tadā vālmīkiḥ paramodāraḥ ... mahāyaśāḥ_) then became silent (_tūṣṇīm āsīt_).
 </details>
 </details>
 
@@ -620,7 +620,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus directed by that sage (sandiṣṭau muninā tena), both those sons of Maithilī, subjugators of foes (tāv ubhau maithilī-sutau ... arindamau), declaring “Even so shall we do!” (tathaiva karavāveti), took their departure (nirjagmatuḥ).
+Thus directed by that sage (_sandiṣṭau muninā tena_), both those sons of Maithilī, subjugators of foes (_tāv ubhau maithilī-sutau ... arindamau_), declaring “Even so shall we do!” (_tathaiva karavāveti_), took their departure (_nirjagmatuḥ_).
 </details>
 </details>
 
@@ -666,7 +666,7 @@ Thus directed by that sage (sandiṣṭau muninā tena), both those sons of Mait
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Receiving into their hearts that wondrous utterance spoken then by the sage (tām adbhutāṃ tau hṛdaye kumārau niveśya vāṇīm ṛṣi-bhāṣitāṃ tadā), those two eager princes passed the night together (samutsukau tau samam ūṣatur niśām), just as the twin Aśvins received the treatise of Bhārgava’s wisdom (yathāśvinau bhārgava-nīti-saṃhitām).
+Receiving into their hearts that wondrous utterance spoken then by the sage (_tām adbhutāṃ tau hṛdaye kumārau niveśya vāṇīm ṛṣi-bhāṣitāṃ tadā_), those two eager princes passed the night together (_samutsukau tau samam ūṣatur niśām_), just as the twin Aśvins received the treatise of Bhārgava’s wisdom (_yathāśvinau bhārgava-nīti-saṃhitām_).
 </details>
 </details>
 

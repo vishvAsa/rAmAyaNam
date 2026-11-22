@@ -48,7 +48,7 @@ Grief-stricken after relinquishing Lakṣmaṇa, Rāma announces his plan to con
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having relinquished Lakṣmaṇa (visṛjya lakṣmaṇam), Rāma, overwhelmed with grief and sorrow (duḥkha-śoka-samanvitaḥ), spoke these words to his royal priest, his ministers, and the guild-citizens (purodhasaṃ mantriṇaś ca naigamāṃś ca):
+Having relinquished Lakṣmaṇa (_visṛjya lakṣmaṇam_), Rāma, overwhelmed with grief and sorrow (_duḥkha-śoka-samanvitaḥ_), spoke these words to his royal priest, his ministers, and the guild-citizens (_purodhasaṃ mantriṇaś ca naigamāṃś ca_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having relinquished Lakṣmaṇa (visṛjya lakṣmaṇam), Rāma, overwhelmed w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today I shall consecrate the dharma-loving Bharata in the kingdom (adya rājye ’bhiṣekṣyāmi bharataṃ dharmavatsalam) as the heroic lord of Ayodhyā (ayodhyāyāḥ patiṃ vīram), and thereafter I shall depart to the forest (tato yāsyāmy ahaṃ vanam).
+“Today I shall consecrate the dharma-loving Bharata in the kingdom (_adya rājye ’bhiṣekṣyāmi bharataṃ dharmavatsalam_) as the heroic lord of Ayodhyā (_ayodhyāyāḥ patiṃ vīram_), and thereafter I shall depart to the forest (_tato yāsyāmy ahaṃ vanam_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Having relinquished Lakṣmaṇa (visṛjya lakṣmaṇam), Rāma, overwhelmed w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bring in the ceremonial requisites (praveśayata sambhārān), lest there be any lapse of time (mā bhūt kālasya paryayaḥ); this very day I shall follow the path (adyaivāhaṃ gamiṣyāmi ... gatim) trodden by Lakṣmaṇa (lakṣmaṇena gatām)!”
+“Bring in the ceremonial requisites (_praveśayata sambhārān_), lest there be any lapse of time (_mā bhūt kālasya paryayaḥ_); this very day I shall follow the path (_adyaivāhaṃ gamiṣyāmi ... gatim_) trodden by Lakṣmaṇa (_lakṣmaṇena gatām_)!”
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Having relinquished Lakṣmaṇa (visṛjya lakṣmaṇam), Rāma, overwhelmed w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Rāghava (tac chrutvā rāghaveṇoktam), all the subjects bowed deeply with their heads to the ground (sarvāḥ prakṛtayo bhṛśaṃ mūrdhabhiḥ praṇatā bhūmau) and became as though bereft of life (gata-sattvā ivābhavan).
+Hearing those words spoken by Rāghava (_tac chrutvā rāghaveṇoktam_), all the subjects bowed deeply with their heads to the ground (_sarvāḥ prakṛtayo bhṛśaṃ mūrdhabhiḥ praṇatā bhūmau_) and became as though bereft of life (_gata-sattvā ivābhavan_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Hearing those words spoken by Rāghava (tac chrutvā rāghaveṇoktam), all the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Bharata lost consciousness upon hearing Rāma’s speech (bharataś ca visañjño ’bhūc chrutvā rāmasya bhāṣitam); he denounced the kingdom (rājyaṃ vigarhayāmāsa) and spoke these words to Rāghava:
+And Bharata lost consciousness upon hearing Rāma’s speech (_bharataś ca visañjño ’bhūc chrutvā rāmasya bhāṣitam_); he denounced the kingdom (_rājyaṃ vigarhayāmāsa_) and spoke these words to Rāghava:
 </details>
 </details>
 
@@ -205,7 +205,7 @@ And Bharata lost consciousness upon hearing Rāma’s speech (bharataś ca visa�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I swear by truth, O king (satyenāhaṃ śape rājan), not even in the heavenly world do I desire [bliss] (svargaloke na caiva hi), just as I do not desire this kingdom without you (na kāmaye yathā rājyaṃ tvāṃ vinā), O delight of the Raghus (raghunandana)!
+“I swear by truth, O king (_satyenāhaṃ śape rājan_), not even in the heavenly world do I desire [bliss] (_svargaloke na caiva hi_), just as I do not desire this kingdom without you (_na kāmaye yathā rājyaṃ tvāṃ vinā_), O delight of the Raghus (_raghunandana_)!
 </details>
 </details>
 
@@ -249,7 +249,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Consecrate these two, Kuśa and Lava, O king, O lord of men (imau kuśa-lavau rājann abhiṣiñca narādhipa)—the heroic Kuśa in Kosala (kosaleṣu kuśaṃ vīram) and likewise Lava in the northern [Kosalas] (uttareṣu tathā lavam)!
+“Consecrate these two, Kuśa and Lava, O king, O lord of men (_imau kuśa-lavau rājann abhiṣiñca narādhipa_)—the heroic Kuśa in Kosala (_kosaleṣu kuśaṃ vīram_) and likewise Lava in the northern [Kosalas] (_uttareṣu tathā lavam_)!
 </details>
 </details>
 
@@ -285,7 +285,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let swift-paced messengers go to Śatrughna (śatrughnasya tu gacchantu dūtās tvarita-vikramāḥ) to announce without delay (ākhyātu mā ciram) this our departure for heaven (idaṃ gamanam asmākaṃ svargāya)!”
+“And let swift-paced messengers go to Śatrughna (_śatrughnasya tu gacchantu dūtās tvarita-vikramāḥ_) to announce without delay (_ākhyātu mā ciram_) this our departure for heaven (_idaṃ gamanam asmākaṃ svargāya_)!”
 </details>
 </details>
 
@@ -316,7 +316,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Bharata (tac chrutvā bharatenoktam), and beholding too the citizens with lowered faces (dṛṣṭvā cāpi hy adhomukhān paurān), scorched by grief (duḥkhena santaptān), Vasiṣṭha spoke these words:
+Hearing those words spoken by Bharata (_tac chrutvā bharatenoktam_), and beholding too the citizens with lowered faces (_dṛṣṭvā cāpi hy adhomukhān paurān_), scorched by grief (_duḥkhena santaptān_), Vasiṣṭha spoke these words:
 </details>
 </details>
 
@@ -350,7 +350,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Dear child Rāma, behold these subjects fallen upon the earth (imāḥ paśya dharaṇīṃ prakṛtīr gatāḥ)! Learning what they desire, do what is fitting (jñātvaiṣām īpsitaṃ kāryam), and do nothing displeasing to them (mā caiṣāṃ vipriyaṃ kṛthāḥ)!”
+“Dear child Rāma, behold these subjects fallen upon the earth (_imāḥ paśya dharaṇīṃ prakṛtīr gatāḥ_)! Learning what they desire, do what is fitting (_jñātvaiṣām īpsitaṃ kāryam_), and do nothing displeasing to them (_mā caiṣāṃ vipriyaṃ kṛthāḥ_)!”
 </details>
 </details>
 
@@ -381,7 +381,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At Vasiṣṭha’s word (vasiṣṭhasya tu vākyena), raising up the multitude of citizens (utthāpya prakṛtī-janam), Kākutstha spoke these words to them all (sarvā vacanam abravīt): “What may I do [for you] (kiṃ karomi)?”
+At Vasiṣṭha’s word (_vasiṣṭhasya tu vākyena_), raising up the multitude of citizens (_utthāpya prakṛtī-janam_), Kākutstha spoke these words to them all (_sarvā vacanam abravīt_): “What may I do [for you] (_kiṃ karomi_)?”
 </details>
 </details>
 
@@ -420,7 +420,7 @@ Declaring that their sole wish is to follow Rāma with their wives and children 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ vacanam abruvan): “We shall follow you as you go (gacchantam anugacchāmaḥ), wherever you shall go, O Rāma (yatra rāma gamiṣyasi)!
+Then all the subjects spoke these words to Rāma (_sarvāḥ prakṛtayo rāmaṃ vacanam abruvan_): “We shall follow you as you go (_gacchantam anugacchāmaḥ_), wherever you shall go, O Rāma (_yatra rāma gamiṣyasi_)!
 </details>
 </details>
 
@@ -451,7 +451,7 @@ Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you bear affection for the citizens (paureṣu yadi te prītiḥ), if your love is unsurpassed (yadi sneho hy anuttamaḥ), together with our sons and wives, O Kākutstha (sa-putra-dārāḥ kākutstha), let us walk together along the noble path (samāgacchāma sat-patham)!
+“If you bear affection for the citizens (_paureṣu yadi te prītiḥ_), if your love is unsurpassed (_yadi sneho hy anuttamaḥ_), together with our sons and wives, O Kākutstha (_sa-putra-dārāḥ kākutstha_), let us walk together along the noble path (_samāgacchāma sat-patham_)!
 </details>
 </details>
 
@@ -482,7 +482,7 @@ Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether to a penance-grove or an impassable wild (tapovanaṃ vā durgaṃ vā), to a river or to the ocean (nadīm ambhonidhiṃ tathā)—if we are not to be forsaken by you (vayaṃ te yadi na tyājyāḥ), lead us all, O Lord (sarvān no naya īśvara)!
+“Whether to a penance-grove or an impassable wild (_tapovanaṃ vā durgaṃ vā_), to a river or to the ocean (_nadīm ambhonidhiṃ tathā_)—if we are not to be forsaken by you (_vayaṃ te yadi na tyājyāḥ_), lead us all, O Lord (_sarvān no naya īśvara_)!
 </details>
 </details>
 
@@ -513,7 +513,7 @@ Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is our highest joy (eṣā naḥ paramā prītiḥ), this is our supreme boon (eṣa naḥ paramo varaḥ); ever lodged in our hearts is our delight (hṛdgatā naḥ sadā prītiḥ) in following you, O king (tavānugamane nṛpa)!”
+“This is our highest joy (_eṣā naḥ paramā prītiḥ_), this is our supreme boon (_eṣa naḥ paramo varaḥ_); ever lodged in our hearts is our delight (_hṛdgatā naḥ sadā prītiḥ_) in following you, O king (_tavānugamane nṛpa_)!”
 </details>
 </details>
 
@@ -567,11 +567,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Considering both the steadfast devotion of the citizens (paurāṇāṃ dṛḍha-bhaktiṃ ca) and his own settled principle of duty (svakṛtāntaṃ cānvavekṣya), on that very day Rāghava spoke simply (tasminn ahani rāghavaḥ): “So be it (bāḍham)!”
+**16:** Considering both the steadfast devotion of the citizens (_paurāṇāṃ dṛḍha-bhaktiṃ ca_) and his own settled principle of duty (_svakṛtāntaṃ cānvavekṣya_), on that very day Rāghava spoke simply (_tasminn ahani rāghavaḥ_): “So be it (_bāḍham_)!”
 
-**17:** Having consecrated the heroic Kuśa in Kosala (kosaleṣu kuśaṃ vīram) and likewise Lava in the northern [Kosalas] (uttareṣu tathā lavam)—both those great-souled twins Kuśa and Lava (mahātmānāv ubhau ... kuśīlavau)—Rāma,
+**17:** Having consecrated the heroic Kuśa in Kosala (_kosaleṣu kuśaṃ vīram_) and likewise Lava in the northern [Kosalas] (_uttareṣu tathā lavam_)—both those great-souled twins Kuśa and Lava (_mahātmānāv ubhau ... kuśīlavau_)—Rāma,
 
-**18:** the mighty-armed one, having seated his two consecrated sons upon his lap in the city (abhiṣiktau sutāv aṅke pratiṣṭhāpya pure tataḥ), embraced them (pariṣvajya) and kissed them on the crown of the head again and again (mūrdhny upāghrāya cāsakṛt).
+**18:** the mighty-armed one, having seated his two consecrated sons upon his lap in the city (_abhiṣiktau sutāv aṅke pratiṣṭhāpya pure tataḥ_), embraced them (_pariṣvajya_) and kissed them on the crown of the head again and again (_mūrdhny upāghrāya cāsakṛt_).
 </details>
 </details>
 
@@ -602,7 +602,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He bestowed as wealth upon each of them (ekaikasya dhanaṃ dadau) thousands of chariots (rathānāṃ tu sahasrāṇi), tens of thousands of elephants (nāgānām ayutāni ca), and ten myriads of horses (daśāyutāni cāśvānām).
+He bestowed as wealth upon each of them (_ekaikasya dhanaṃ dadau_) thousands of chariots (_rathānāṃ tu sahasrāṇi_), tens of thousands of elephants (_nāgānām ayutāni ca_), and ten myriads of horses (_daśāyutāni cāśvānām_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ He bestowed as wealth upon each of them (ekaikasya dhanaṃ dadau) thousands of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rich in gems, rich in wealth, and surrounded by joyous and thriving subjects (bahu-ratnau bahu-dhanau hṛṣṭa-puṣṭa-janāvṛtau), he dispatched the two brothers Kuśa and Lava (preṣayāmāsa bhrātarau tu kuśīlavau) each to his own capital city (sve pure).
+Rich in gems, rich in wealth, and surrounded by joyous and thriving subjects (_bahu-ratnau bahu-dhanau hṛṣṭa-puṣṭa-janāvṛtau_), he dispatched the two brothers Kuśa and Lava (_preṣayāmāsa bhrātarau tu kuśīlavau_) each to his own capital city (_sve pure_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ Rich in gems, rich in wealth, and surrounded by joyous and thriving subjects (ba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having consecrated his two heroic sons (abhiṣicya sutau vīrau) and established them in their cities (pratiṣṭhāpya pure tadā), he then dispatched messengers (dūtān sampreṣayāmāsa) to the great-souled Śatrughna (śatrughnāya mahātmane).
+Having consecrated his two heroic sons (_abhiṣicya sutau vīrau_) and established them in their cities (_pratiṣṭhāpya pure tadā_), he then dispatched messengers (_dūtān sampreṣayāmāsa_) to the great-souled Śatrughna (_śatrughnāya mahātmane_).
 </details>
 </details>
 

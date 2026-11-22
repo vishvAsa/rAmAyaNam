@@ -87,7 +87,7 @@ that Sugreeva's effort is going to fructify. [4-4-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, delighted (prahṛṣṭaḥ) upon hearing those words—that [Rāma] had a purpose to accomplish (kṛtyavān)—and noting his gentle disposition (madhurabhāvam), turned in thought (manasā gataḥ) toward Sugrīva:
+Then Hanūmān, delighted (_prahṛṣṭaḥ_) upon hearing those words—that [Rāma] had a purpose to accomplish (_kṛtyavān_)—and noting his gentle disposition (_madhurabhāvam_), turned in thought (_manasā gataḥ_) toward Sugrīva:
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Sugreeva, and thus all this has came by..." thus thought Hanuma. [4-4-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The recovery of the kingdom (rājyāgamaḥ) by high-souled Sugrīva is assured (bhāvyaḥ), inasmuch as this prince has arrived with a task to accomplish (kṛtyavān) and this very task has come within reach (upāgatam)!”
+“The recovery of the kingdom (_rājyāgamaḥ_) by high-souled Sugrīva is assured (_bhāvyaḥ_), inasmuch as this prince has arrived with a task to accomplish (_kṛtyavān_) and this very task has come within reach (_upāgatam_)!”
 </details>
 </details>
 
@@ -198,7 +198,7 @@ over, out of 24,000 of the total epic.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Hanūmān, foremost of leapers (plavagottamaḥ) and skilled in speech (vākyaviśāradaḥ), supremely overjoyed (paramasaṃhṛṣṭaḥ), replied with these words unto Rāma:
+Thereupon Hanūmān, foremost of leapers (_plavagottamaḥ_) and skilled in speech (_vākyaviśāradaḥ_), supremely overjoyed (_paramasaṃhṛṣṭaḥ_), replied with these words unto Rāma:
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Hanuma asked Rama. [4-4-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For what purpose (kimartham) have you come with your younger brother (sānujaḥ) to this dread, impassable forest (vanaṃ ghoram) adorned by the groves of Pampā and teeming with diverse beasts of prey and deer?”
+“For what purpose (_kimartham_) have you come with your younger brother (_sānujaḥ_) to this dread, impassable forest (_vanaṃ ghoram_) adorned by the groves of Pampā and teeming with diverse beasts of prey and deer?”
 </details>
 </details>
 
@@ -297,7 +297,7 @@ great soul Rama, the son of Dasharatha. [4-4-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Lakṣmaṇa, prompted by Rāma (rāmacoditaḥ), declared the story of high-souled Rāma, the son of Daśaratha (daśarathātmajam):
+Hearing those words of his, Lakṣmaṇa, prompted by Rāma (_rāmacoditaḥ_), declared the story of high-souled Rāma, the son of Daśaratha (_daśarathātmajam_):
 </details>
 </details>
 
@@ -350,7 +350,7 @@ four-caste system... [4-4-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There was a radiant king named Daśaratha, devoted to righteousness (dharmavatsalaḥ), ever protecting the fourfold social order (cāturvarṇyam) according to his own royal duty (svadharmeṇa).
+“There was a radiant king named Daśaratha, devoted to righteousness (_dharmavatsalaḥ_), ever protecting the fourfold social order (_cāturvarṇyam_) according to his own royal duty (_svadharmeṇa_).
 </details>
 </details>
 
@@ -409,7 +409,7 @@ like the Grandparent Brahma on earth... [4-4-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No hater (dveṣṭā) of his existed, nor did he hate anyone (sa tu dveṣṭi na kaṃcana); toward all beings he was like another Grandsire Brahmā (pitāmaha ivāparaḥ).
+“No hater (_dveṣṭā_) of his existed, nor did he hate anyone (_sa tu dveṣṭi na kaṃcana_); toward all beings he was like another Grandsire Brahmā (_pitāmaha ivāparaḥ_).
 </details>
 </details>
 
@@ -463,7 +463,7 @@ the name of Rama... [4-4-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He performed sacrifices headed by the Agniṣṭoma (agniṣṭomādibhir yajñaiḥ) with liberal sacrificial gifts (āptadakṣiṇaiḥ); this is his first-born son (pūrvajaḥ putraḥ), renowned among men by the name of Rāma.
+“He performed sacrifices headed by the Agniṣṭoma (_agniṣṭomādibhir yajñaiḥ_) with liberal sacrificial gifts (_āptadakṣiṇaiḥ_); this is his first-born son (_pūrvajaḥ putraḥ_), renowned among men by the name of Rāma.
 </details>
 </details>
 
@@ -497,7 +497,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A refuge for all beings (śaraṇyaḥ sarvabhūtānām), fulfilling his father's command to the very end (pitur nirdeśapāragaḥ), this eldest of Daśaratha's sons is preeminent in virtues (guṇavattaraḥ).
+“A refuge for all beings (_śaraṇyaḥ sarvabhūtānām_), fulfilling his father&#x27;s command to the very end (_pitur nirdeśapāragaḥ_), this eldest of Daśaratha&#x27;s sons is preeminent in virtues (_guṇavattaraḥ_).
 </details>
 </details>
 
@@ -552,7 +552,7 @@ forests... nevertheless, followed by me...[4-4-9, 10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with the marks of royalty (rājalakṣaṇasaṃyuktaḥ) and united with royal fortune (rājyasampadā), yet fallen from the kingdom (rājyād bhraṣṭaḥ), he has come here to dwell in the forest along with me,
+“Endowed with the marks of royalty (_rājalakṣaṇasaṃyuktaḥ_) and united with royal fortune (_rājyasampadā_), yet fallen from the kingdom (_rājyād bhraṣṭaḥ_), he has come here to dwell in the forest along with me,
 </details>
 </details>
 
@@ -610,7 +610,7 @@ resplendence when the day is abated... [4-4-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and followed by his wife Sītā, O illustrious one (mahābhāga), self-controlled (vaśī) and of mighty splendor, like the radiant Sun at the close of day (dinakṣaye) followed by his own luster (prabhayaiva divākaraḥ).
+“and followed by his wife Sītā, O illustrious one (_mahābhāga_), self-controlled (_vaśī_) and of mighty splendor, like the radiant Sun at the close of day (_dinakṣaye_) followed by his own luster (_prabhayaiva divākaraḥ_).
 </details>
 </details>
 
@@ -662,7 +662,7 @@ knowledgeable one, and his younger brother, by name I am named as Lakshmana... [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the younger brother (avaro bhrātā) of this grateful and all-knowing prince (kṛtajñasya bahujñasya), having entered into servitude through his virtues (guṇair dāsyam upāgataḥ), and known by the name of Lakṣmaṇa.
+“I am the younger brother (_avaro bhrātā_) of this grateful and all-knowing prince (_kṛtajñasya bahujñasya_), having entered into servitude through his virtues (_guṇair dāsyam upāgataḥ_), and known by the name of Lakṣmaṇa.
 </details>
 </details>
 
@@ -743,9 +743,9 @@ woods his wife is stolen, paving a way for him to embark on his above mission.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “While this prince—worthy of happiness (sukhārhasya), worthy of the highest honor (mahārhasya), whose spirit is devoted to the welfare of all beings (sarvabhūtahitātmanaḥ), bereft of royal lordship (aiśvaryeṇa vihīnasya), and intent upon forest-dwelling—
+**13:** “While this prince—worthy of happiness (_sukhārhasya_), worthy of the highest honor (_mahārhasya_), whose spirit is devoted to the welfare of all beings (_sarvabhūtahitātmanaḥ_), bereft of royal lordship (_aiśvaryeṇa vihīnasya_), and intent upon forest-dwelling—
 
-**14:** “—was in a solitary place (rahite), his wife was abducted by a shape-shifting Rākṣasa (rakṣasāpahṛtā bhāryā kāmarūpiṇā); nor is that Rākṣasa known by whom his consort was carried off.
+**14:** “—was in a solitary place (_rahite_), his wife was abducted by a shape-shifting Rākṣasa (_rakṣasāpahṛtā bhāryā kāmarūpiṇā_); nor is that Rākṣasa known by whom his consort was carried off.
 </details>
 </details>
 
@@ -810,9 +810,9 @@ his demon-hood, moved skyward and went away to heavens while becoming self-lumin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “A son of Diti named Danu (danur nāma diteḥ putraḥ), who had fallen into the state of a Rākṣasa through a curse (śāpāt), declared to us that Sugrīva, the capable lord of Vānaras—
+**15:** “A son of Diti named Danu (_danur nāma diteḥ putraḥ_), who had fallen into the state of a Rākṣasa through a curse (_śāpāt_), declared to us that Sugrīva, the capable lord of Vānaras—
 
-**16:** “—`of mighty valor, will know the abductor of your wife (bhāryāpahāriṇam).' Having spoken thus, Danu went shining to heaven (svargaṃ bhrājamāno divaṃ gataḥ).
+**16:** “—`of mighty valor, will know the abductor of your wife (_bhāryāpahāriṇam_).&#x27; Having spoken thus, Danu went shining to heaven (_svargaṃ bhrājamāno divaṃ gataḥ_).
 </details>
 </details>
 
@@ -867,7 +867,7 @@ have our recourse to Sugreeva alone... [4-4-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this has been related to you according to truth (yāthātathyena) as you asked; both I and Rāma have come to Sugrīva for refuge (sugrīvaṃ śaraṇaṃ gatau).
+“All this has been related to you according to truth (_yāthātathyena_) as you asked; both I and Rāma have come to Sugrīva for refuge (_sugrīvaṃ śaraṇaṃ gatau_).
 </details>
 </details>
 
@@ -919,7 +919,7 @@ was the lord of this world earlier, now accepts the lordship of Sugreeva... [4-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having formerly bestowed riches (dattvā ca vittāni) and attained unsurpassed renown (anuttamaṃ yaśaḥ), he who was heretofore the protector of the world (lokanāthaḥ) now desires Sugrīva as his protector (nātham icchati)!
+“Having formerly bestowed riches (_dattvā ca vittāni_) and attained unsurpassed renown (_anuttamaṃ yaśaḥ_), he who was heretofore the protector of the world (_lokanāthaḥ_) now desires Sugrīva as his protector (_nātham icchati_)!
 </details>
 </details>
 
@@ -982,7 +982,7 @@ daughter-in-law, such a shelterer's son Rama is now taking shelter under Sugreev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He whose daughter-in-law (snuṣā) was Sītā, and who was a refuge (śaraṇyaḥ) and a lover of righteousness (dharmavatsalaḥ)—his son, himself a refuge, has come to Sugrīva for refuge (śaraṇaṃ gataḥ)!
+“He whose daughter-in-law (_snuṣā_) was Sītā, and who was a refuge (_śaraṇyaḥ_) and a lover of righteousness (_dharmavatsalaḥ_)—his son, himself a refuge, has come to Sugrīva for refuge (_śaraṇaṃ gataḥ_)!
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ for all in earlier times... such a Raaghava, my mentor, is now seeking refuge wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That righteous-souled Rāghava, my elder brother (gurur me), who was formerly the refuge and protector of the entire world (sarvalokasya śaraṇyaḥ śaraṇam), has now come to Sugrīva for refuge!
+“That righteous-souled Rāghava, my elder brother (_gurur me_), who was formerly the refuge and protector of the entire world (_sarvalokasya śaraṇyaḥ śaraṇam_), has now come to Sugrīva for refuge!
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ seeking benefaction from the lord of monkeys... [4-4-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon whose grace (yasya prasāde) these creatures would ever find grace and happiness (prasīdeyuḥ)—that very Rāma now longs for the grace of the lord of Vānaras (vānarendrasya prasādam abhikāṅkṣate)!
+“Upon whose grace (_yasya prasāde_) these creatures would ever find grace and happiness (_prasīdeyuḥ_)—that very Rāma now longs for the grace of the lord of Vānaras (_vānarendrasya prasādam abhikāṅkṣate_)!
 </details>
 </details>
 
@@ -1149,9 +1149,9 @@ shelter under monkeys lord Sugreeva... [4-4-22, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “That king Daśaratha by whom all monarchs upon earth, endowed with every virtue (sarvaguṇopetāḥ), were constantly and ever honored (mānitāḥ)—
+**22:** “That king Daśaratha by whom all monarchs upon earth, endowed with every virtue (_sarvaguṇopetāḥ_), were constantly and ever honored (_mānitāḥ_)—
 
-**23:** “—his first-born son (pūrvajaḥ putraḥ), renowned throughout the three worlds (triṣu lokeṣu viśrutaḥ), Rāma, has come for refuge to Sugrīva, lord of Vānaras!
+**23:** “—his first-born son (_pūrvajaḥ putraḥ_), renowned throughout the three worlds (_triṣu lokeṣu viśrutaḥ_), Rāma, has come for refuge to Sugrīva, lord of Vānaras!
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ Lakshmana said thus to Hanuma. [4-4-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When Rāma, overwhelmed by grief (śokābhibhūte) and stricken with sorrow (śokārte), has come for refuge, Sugrīva together with his troop-leaders (saha yūthapaiḥ) ought to show him grace (prasādam).”
+“When Rāma, overwhelmed by grief (_śokābhibhūte_) and stricken with sorrow (_śokārte_), has come for refuge, Sugrīva together with his troop-leaders (_saha yūthapaiḥ_) ought to show him grace (_prasādam_).”
 </details>
 </details>
 
@@ -1270,7 +1270,7 @@ lettered Hanumaan said this in his return. [4-4-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto the son of Sumitrā (saumitrim), who was speaking thus piteously (karuṇam) while shedding tears (sāśrupātanam), Hanūmān, skilled in speech (vākyaviśāradaḥ), replied with these words:
+Unto the son of Sumitrā (_saumitrim_), who was speaking thus piteously (_karuṇam_) while shedding tears (_sāśrupātanam_), Hanūmān, skilled in speech (_vākyaviśāradaḥ_), replied with these words:
 </details>
 </details>
 
@@ -1322,7 +1322,7 @@ the chief of monkeys Sugreeva, for your advent is godsend... [4-4-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Persons of such a kind (īdṛśāḥ), endowed with intellect (buddhisampannāḥ), who have conquered anger and subdued their senses (jitendriyāḥ), ought to be beheld by the lord of Vānaras; by good fortune (diṣṭyā) you have come within his sight!
+“Persons of such a kind (_īdṛśāḥ_), endowed with intellect (_buddhisampannāḥ_), who have conquered anger and subdued their senses (_jitendriyāḥ_), ought to be beheld by the lord of Vānaras; by good fortune (_diṣṭyā_) you have come within his sight!
 </details>
 </details>
 
@@ -1376,7 +1376,7 @@ own brother Vali, that Sugreeva is roaming about forests fearing him alone, his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For he too has fallen from his kingdom (rājyāc ca vibhraṣṭaḥ) and incurred hostility with Vālin (kṛtavairaś ca vālinā); robbed of his wife (hṛtadāraḥ) and grievously wronged by his brother, he dwells terrified in the forest.
+“For he too has fallen from his kingdom (_rājyāc ca vibhraṣṭaḥ_) and incurred hostility with Vālin (_kṛtavairaś ca vālinā_); robbed of his wife (_hṛtadāraḥ_) and grievously wronged by his brother, he dwells terrified in the forest.
 </details>
 </details>
 
@@ -1428,7 +1428,7 @@ like Vanara-s in searching Seetha..." [4-4-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That son of the Sun-god (bhāskarātmajaḥ), Sugrīva, together with us (saha cāsmābhiḥ), will render assistance (kariṣyati sa sāhāyyam) unto you both in the thorough search for Sītā (sītāyāḥ parimārgaṇe).”
+“That son of the Sun-god (_bhāskarātmajaḥ_), Sugrīva, together with us (_saha cāsmābhiḥ_), will render assistance (_kariṣyati sa sāhāyyam_) unto you both in the thorough search for Sītā (_sītāyāḥ parimārgaṇe_).”
 </details>
 </details>
 
@@ -1480,7 +1480,7 @@ Thus Hanuman on speaking melodious words with politeness, also said to Raghava a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus gently (ślakṣṇam) in a sweet voice, Hanūmān said unto Rāghava: “Come, let us go (sādhu gacchāmaḥ) unto Sugrīva!”
+Having spoken thus gently (_ślakṣṇam_) in a sweet voice, Hanūmān said unto Rāghava: “Come, let us go (_sādhu gacchāmaḥ_) unto Sugrīva!”
 </details>
 </details>
 
@@ -1535,7 +1535,7 @@ to an envoy, and spoke this to Rama... [4-4-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duly honoring (pratipūjya yathānyāyam) Hanūmān as he spoke thus, righteous-souled Lakṣmaṇa then addressed these words to Rāghava:
+Duly honoring (_pratipūjya yathānyāyam_) Hanūmān as he spoke thus, righteous-souled Lakṣmaṇa then addressed these words to Rāghava:
 </details>
 </details>
 
@@ -1597,7 +1597,7 @@ them seems to fulfil your mission... [4-4-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as this joyful monkey, the son of the Wind-god (mārutātmajaḥ), declares, that [Sugrīva] too has arrived with a purpose to accomplish (kṛtyavān); you have already accomplished your purpose (kṛtakṛtyo 'si), O Rāghava!
+“Just as this joyful monkey, the son of the Wind-god (_mārutātmajaḥ_), declares, that [Sugrīva] too has arrived with a purpose to accomplish (_kṛtyavān_); you have already accomplished your purpose (_kṛtakṛtyo &#x27;si_), O Rāghava!
 </details>
 </details>
 
@@ -1653,7 +1653,7 @@ Hanuma, isn't it!" So said Laskhmana to Rama [4-4-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bright is the complexion of his face (prasannamukhavarṇaś ca), and he speaks clearly and joyfully (vyaktaṃ hṛṣṭaś ca bhāṣate); the heroic Hanūmān, son of the Wind-god, will not utter an untruth (nānṛtaṃ vakṣyate)!”
+“Bright is the complexion of his face (_prasannamukhavarṇaś ca_), and he speaks clearly and joyfully (_vyaktaṃ hṛṣṭaś ca bhāṣate_); the heroic Hanūmān, son of the Wind-god, will not utter an untruth (_nānṛtaṃ vakṣyate_)!”
 </details>
 </details>
 
@@ -1708,7 +1708,7 @@ Raghava-s to go to the king of monkeys Sugreeva. [4-4-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that exceedingly wise (sumahāprājñaḥ) Hanūmān, son of the Wind-god, took those two heroes, the Rāghavas, and went forth unto the king of monkeys (harirājāya).
+Then that exceedingly wise (_sumahāprājñaḥ_) Hanūmān, son of the Wind-god, took those two heroes, the Rāghavas, and went forth unto the king of monkeys (_harirājāya_).
 </details>
 </details>
 
@@ -1761,7 +1761,7 @@ monkey's form, and mounting those two valiant ones onto his back he proceeded to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Casting aside his mendicant's guise (bhikṣurūpaṃ parityajya) and assuming his monkey form (vānaraṃ rūpam āsthitaḥ), that elephant among apes (kapikuñjaraḥ) mounted those two heroes upon his back (pṛṣṭham āropya) and set forth.
+Casting aside his mendicant&#x27;s guise (_bhikṣurūpaṃ parityajya_) and assuming his monkey form (_vānaraṃ rūpam āsthitaḥ_), that elephant among apes (_kapikuñjaraḥ_) mounted those two heroes upon his back (_pṛṣṭham āropya_) and set forth.
 </details>
 </details>
 
@@ -1832,7 +1832,7 @@ gladly travelled to that mountain where Sugreeva is abiding, along with Rama and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of vast renown (vipulayaśāḥ), that foremost hero among apes, the son of the Wind-god, joyful as one whose purpose is accomplished (kṛtakṛtyavat prahṛṣṭaḥ), of mighty stride and auspicious mind, journeyed to the best of mountains (girivaram) together with Rāma and Lakṣmaṇa.
+Of vast renown (_vipulayaśāḥ_), that foremost hero among apes, the son of the Wind-god, joyful as one whose purpose is accomplished (_kṛtakṛtyavat prahṛṣṭaḥ_), of mighty stride and auspicious mind, journeyed to the best of mountains (_girivaram_) together with Rāma and Lakṣmaṇa.
 </details>
 </details>
 

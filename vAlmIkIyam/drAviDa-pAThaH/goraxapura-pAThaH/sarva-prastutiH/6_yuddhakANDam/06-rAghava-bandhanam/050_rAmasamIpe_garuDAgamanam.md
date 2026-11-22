@@ -85,7 +85,7 @@ water?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the monkey king (harirājaḥ) of great splendor and mighty strength spoke: “Why is this army so distressed, like a ship on the water driven by a bewildered wind (mūḍhavātā)?”
+Then the monkey king (_harirājaḥ_) of great splendor and mighty strength spoke: “Why is this army so distressed, like a ship on the water driven by a bewildered wind (_mūḍhavātā_)?”
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Then the monkey king (harirājaḥ) of great splendor and mighty strength spoke:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Sugrīva, Vāli’s son Aṅgada replied: “Do you not see both Rāma and the great car-warrior (mahāratham) Lakṣmaṇa—
+Hearing the words of Sugrīva, Vāli’s son Aṅgada replied: “Do you not see both Rāma and the great car-warrior (_mahāratham_) Lakṣmaṇa—
 </details>
 </details>
 
@@ -167,7 +167,7 @@ covered with darts lying all bloody in a bed of arrows?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—those two heroic, high-souled (mahātmānau) sons of Daśaratha, covered with a network of arrows (śarajāla-ācitau) and lying drenched in blood upon a bed of shafts (śaratalpe)?”
+—those two heroic, high-souled (_mahātmānau_) sons of Daśaratha, covered with a network of arrows (_śarajāla-ācitau_) and lying drenched in blood upon a bed of shafts (_śaratalpe_)?”
 </details>
 </details>
 
@@ -220,7 +220,7 @@ is some othere cause why the monkeys are bewildereed. There must be some danger 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva, lord of the monkeys (vānarendraḥ), said to [his] son Aṅgada: “I do not deem this [rout] to be without a [new] cause (animittam); rather, it must arise from some [fresh] fear.
+Then Sugrīva, lord of the monkeys (_vānarendraḥ_), said to [his] son Aṅgada: “I do not deem this [rout] to be without a [new] cause (_animittam_); rather, it must arise from some [fresh] fear.
 </details>
 </details>
 
@@ -272,7 +272,7 @@ with terror, throwing down their arms and looking dejected."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For here these monkeys, with downcast faces (viṣaṇṇa-vadanāḥ) and their eyes wide open in terror (utphulla-locanāḥ), have cast away their weapons and are fleeing toward every quarter.
+“For here these monkeys, with downcast faces (_viṣaṇṇa-vadanāḥ_) and their eyes wide open in terror (_utphulla-locanāḥ_), have cast away their weapons and are fleeing toward every quarter.
 </details>
 </details>
 
@@ -324,7 +324,7 @@ are jostling each other and leaping over those who have fallen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“They feel no shame (na lajjante) before one another, nor do they look back behind them (pṛṣṭhataḥ); they drag one another out of the way and leap over anyone who has fallen.”
+“They feel no shame (_na lajjante_) before one another, nor do they look back behind them (_pṛṣṭhataḥ_); they drag one another out of the way and leap over anyone who has fallen.”
 </details>
 </details>
 
@@ -384,7 +384,7 @@ came there and cheered Sugreeva and Rama saying "Victory to Rama! Victory to Ram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime, the heroic Vibhīṣaṇa, mace in hand (gadāpāṇiḥ), greeted Sugrīva and Rāghava with a benediction of victory (jayāśiṣā).
+In the meantime, the heroic Vibhīṣaṇa, mace in hand (_gadāpāṇiḥ_), greeted Sugrīva and Rāghava with a benediction of victory (_jayāśiṣā_).
 </details>
 </details>
 
@@ -436,7 +436,7 @@ the illustrious Jambavan the king of Bears who stood near (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Vibhīṣaṇa, who had struck terror into the monkeys (vānara-bhīṣaṇam), Sugrīva spoke to the high-souled king of the bears (ṛkṣarājam) standing nearby:
+Beholding Vibhīṣaṇa, who had struck terror into the monkeys (_vānara-bhīṣaṇam_), Sugrīva spoke to the high-souled king of the bears (_ṛkṣarājam_) standing nearby:
 </details>
 </details>
 
@@ -492,7 +492,7 @@ with terror have fled, deeming him to be Indrajit, Ravana's son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is Vibhīṣaṇa who has arrived here, seeing whom the foremost of monkeys (vānararṣabhāḥ) are fleeing in boundless terror (āyata-saṃtrāsāḥ), suspecting him to be Rāvaṇa’s son (rāvaṇātmaja-śaṅkayā).
+“It is Vibhīṣaṇa who has arrived here, seeing whom the foremost of monkeys (_vānararṣabhāḥ_) are fleeing in boundless terror (_āyata-saṃtrāsāḥ_), suspecting him to be Rāvaṇa’s son (_rāvaṇātmaja-śaṅkayā_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ directions and inform them that it is Vibhishana who has come!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Quickly rally (paryavasthāpaya) these sorely terrified [troops] who have scattered in many directions, and announce to them that it is Vibhīṣaṇa who has come.”
+“Quickly rally (_paryavasthāpaya_) these sorely terrified [troops] who have scattered in many directions, and announce to them that it is Vibhīṣaṇa who has come.”
 </details>
 </details>
 
@@ -600,7 +600,7 @@ and restored them to confidence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Sugrīva, Jāmbavān, lord of the bears (ṛkṣapārthivaḥ), turned back the fleeing monkeys and consoled (sāntvayāmāsa) them.
+Thus addressed by Sugrīva, Jāmbavān, lord of the bears (_ṛkṣapārthivaḥ_), turned back the fleeing monkeys and consoled (_sāntvayāmāsa_) them.
 </details>
 </details>
 
@@ -652,7 +652,7 @@ Vibhishana, retraced their steps, shaking off their fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of the king of bears and seeing that it was Vibhīṣaṇa, all those monkeys cast off their dread (tyakta-sādhvasāḥ) and returned once more.
+Hearing the words of the king of bears and seeing that it was Vibhīṣaṇa, all those monkeys cast off their dread (_tyakta-sādhvasāḥ_) and returned once more.
 </details>
 </details>
 
@@ -712,7 +712,7 @@ covered with arrows, felt distressed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the body (gātram) of Rāma and that of Lakṣmaṇa covered with arrows, the righteous-souled (dharmātmā) Vibhīṣaṇa became deeply anguished at that moment.
+Beholding the body (_gātram_) of Rāma and that of Lakṣmaṇa covered with arrows, the righteous-souled (_dharmātmā_) Vibhīṣaṇa became deeply anguished at that moment.
 </details>
 </details>
 
@@ -764,7 +764,7 @@ anguish seizing his heart and lamented, saying:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gently wiping (vimṛjya) the eyes of them both with his water-moistened hand (jala-klinnena hastena), he wept and lamented, his mind afflicted with grief:
+Gently wiping (_vimṛjya_) the eyes of them both with his water-moistened hand (_jala-klinnena hastena_), he wept and lamented, his mind afflicted with grief:
 </details>
 </details>
 
@@ -817,7 +817,7 @@ demons, the treacherous combatants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These two, endowed with might (sattva-sampannau), heroic, and fond of battle (priya-saṃyugau), have been reduced to this state by deceitfully fighting (kūṭayodhibhiḥ) rākṣasas!
+“These two, endowed with might (_sattva-sampannau_), heroic, and fond of battle (_priya-saṃyugau_), have been reduced to this state by deceitfully fighting (_kūṭayodhibhiḥ_) rākṣasas!
 </details>
 </details>
 
@@ -872,7 +872,7 @@ mind, has decived those two honourable fighters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By this wicked and evil-minded son of my brother (bhrātṛputreṇa), through crooked rākṣasa cunning (rākṣasyā jihmayā buddhyā), these two of straightforward valor (ṛju-vikramau) have been cheated.
+“By this wicked and evil-minded son of my brother (_bhrātṛputreṇa_), through crooked rākṣasa cunning (_rākṣasyā jihmayā buddhyā_), these two of straightforward valor (_ṛju-vikramau_) have been cheated.
 </details>
 </details>
 
@@ -924,7 +924,7 @@ with blood are lying on the earth, like two porcupines."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pierced all over with arrows and drenched in blood, these two sleeping upon the earth look like two porcupines (śalyakāv iva).
+“Pierced all over with arrows and drenched in blood, these two sleeping upon the earth look like two porcupines (_śalyakāv iva_).
 </details>
 </details>
 
@@ -977,7 +977,7 @@ insensible, waiting for the dissolution of the body."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those two foremost of men (puruṣarṣabhau), relying upon whose valor I had hoped for royal standing (pratiṣṭhā), now lie fast asleep unto the destruction of my life (deha-nāśāya)!
+“Those two foremost of men (_puruṣarṣabhau_), relying upon whose valor I had hoped for royal standing (_pratiṣṭhā_), now lie fast asleep unto the destruction of my life (_deha-nāśāya_)!
 </details>
 </details>
 
@@ -1038,7 +1038,7 @@ surviving; while my rival Ravana sees his vow fulfilled and gets his desires rea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though living today, I am as good as dead (vipanno 'smi), my hopes for the kingdom shattered (naṣṭa-rājya-manorathaḥ); while my enemy Rāvaṇa has had his vow fulfilled (prāpta-pratijñaḥ) and his desire realized!”
+“Though living today, I am as good as dead (_vipanno &#x27;smi_), my hopes for the kingdom shattered (_naṣṭa-rājya-manorathaḥ_); while my enemy Rāvaṇa has had his vow fulfilled (_prāpta-pratijñaḥ_) and his desire realized!”
 </details>
 </details>
 
@@ -1090,7 +1090,7 @@ lamenting and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing Vibhīṣaṇa as he lamented thus, Sugrīva, the monkey king endowed with fortitude (sattva-sampannaḥ), spoke these words:
+Embracing Vibhīṣaṇa as he lamented thus, Sugrīva, the monkey king endowed with fortitude (_sattva-sampannaḥ_), spoke these words:
 </details>
 </details>
 
@@ -1143,7 +1143,7 @@ son will not acheive their purpose."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O knower of righteousness (dharmajña), you shall obtain the sovereignty in Laṅkā—of this there is no doubt; nor shall Rāvaṇa, together with his son, attain his desire here.
+“O knower of righteousness (_dharmajña_), you shall obtain the sovereignty in Laṅkā—of this there is no doubt; nor shall Rāvaṇa, together with his son, attain his desire here.
 </details>
 </details>
 
@@ -1196,7 +1196,7 @@ will destroy Ravana with his hordes in battles."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Watched over by Garuḍa (garuḍādhiṣṭhitau), both these two, Rāghava and Lakṣmaṇa, will cast off their swoon (moham) and slay Rāvaṇa along with his hosts in battle.”
+“Watched over by Garuḍa (_garuḍādhiṣṭhitau_), both these two, Rāghava and Lakṣmaṇa, will cast off their swoon (_moham_) and slay Rāvaṇa along with his hosts in battle.”
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ father-in-law, who was on his side (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus consoled and reassured that rākṣasa [Vibhīṣaṇa], Sugrīva spoke to his father-in-law (śvaśuram) Suṣeṇa at his side:
+Having thus consoled and reassured that rākṣasa [Vibhīṣaṇa], Sugrīva spoke to his father-in-law (_śvaśuram_) Suṣeṇa at his side:
 </details>
 </details>
 
@@ -1305,7 +1305,7 @@ consciousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with bands of valiant monkeys, take the two enemy-taming brothers Rāma and Lakṣmaṇa once they have regained consciousness (labdha-saṃjñau), and go you to Kiṣkindhā.
+“Together with bands of valiant monkeys, take the two enemy-taming brothers Rāma and Lakṣmaṇa once they have regained consciousness (_labdha-saṃjñau_), and go you to Kiṣkindhā.
 </details>
 </details>
 
@@ -1366,7 +1366,7 @@ as did Indra the Lord of celestials, the prosperity he had lost."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I myself, having slain Rāvaṇa together with his sons and kinsmen, shall bring back Maithilī, even as Śakra recovered his lost sovereignty (śriyam).”
+“I myself, having slain Rāvaṇa together with his sons and kinsmen, shall bring back Maithilī, even as Śakra recovered his lost sovereignty (_śriyam_).”
 </details>
 </details>
 
@@ -1419,7 +1419,7 @@ and great was between celestials and demons was perceived by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of the lord of monkeys, Suṣeṇa spoke this speech: “In ancient times, I witnessed (anubhūtam) a great war between the gods and the asuras (devāsuram).
+Hearing these words of the lord of monkeys, Suṣeṇa spoke this speech: “In ancient times, I witnessed (_anubhūtam_) a great war between the gods and the asuras (_devāsuram_).
 </details>
 </details>
 
@@ -1472,7 +1472,7 @@ arrows overcame the celestials despite their skill in bearing arms."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At that time the dānavas, concealing themselves (chādayantaḥ) again and again, struck down the gods, even though the latter were skilled in the discharge of arrows (śara-saṃsparśa-kovidān) and learned in missiles.
+“At that time the dānavas, concealing themselves (_chādayantaḥ_) again and again, struck down the gods, even though the latter were skilled in the discharge of arrows (_śara-saṃsparśa-kovidān_) and learned in missiles.
 </details>
 </details>
 
@@ -1525,7 +1525,7 @@ Brihaspati treated them by the aid of herbs accompanied by his spells of sacred 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bṛhaspati treated (cikitsati) those afflicted, unconscious (naṣṭa-saṃjñān), and lifeless (gatāsūn) [gods] with herbs joined with incantations (mantra-yuktābhiḥ) and sacred sciences.
+“Bṛhaspati treated (_cikitsati_) those afflicted, unconscious (_naṣṭa-saṃjñān_), and lifeless (_gatāsūn_) [gods] with herbs joined with incantations (_mantra-yuktābhiḥ_) and sacred sciences.
 </details>
 </details>
 
@@ -1577,7 +1577,7 @@ milk, to bring those herbs."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To fetch those herbs, let monkeys such as Sampāti, Panasa, and others proceed swiftly with all speed to the Milk Ocean (kṣīrodaṃ sāgaram).
+“To fetch those herbs, let monkeys such as Sampāti, Panasa, and others proceed swiftly with all speed to the Milk Ocean (_kṣīrodaṃ sāgaram_).
 </details>
 </details>
 
@@ -1629,7 +1629,7 @@ celestial Sanjivakarani and Vishalya, which were created by a God."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those monkeys know the two mountain-born (pārvatī) great herbs—the celestial saṃjīvakarṇī (`restorer of life') and the viśalyā (`extractor of shafts') fashioned by the Creator (deva-nirmitām).
+“Those monkeys know the two mountain-born (_pārvatī_) great herbs—the celestial _saṃjīvakarṇī_ (`restorer of life&#x27;) and the _viśalyā_ (`extractor of shafts&#x27;) fashioned by the Creator (_deva-nirmitām_).
 </details>
 </details>
 
@@ -1717,7 +1717,7 @@ son of Wind-God go there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “In that best of oceans, the Milk Ocean (kṣīrode sāgarottame), where the ambrosia (amṛtam) was churned, stand [the mountains] named Candra and Droṇa; on those two abide those two supreme herbs (paramauṣadhī).
+**31:** “In that best of oceans, the Milk Ocean (_kṣīrode sāgarottame_), where the ambrosia (_amṛtam_) was churned, stand [the mountains] named Candra and Droṇa; on those two abide those two supreme herbs (_paramauṣadhī_).
 
 **32:** “Those two mountains were placed there in the great ocean by the gods; O king, let this son of the Wind, Hanūmān, go there!”
 </details>
@@ -1773,7 +1773,7 @@ earthquake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime there arose a gale (vāyuḥ) and clouds accompanied by lightning (savidyutaḥ), churning up the water in the ocean and shaking the mountains, as it were.
+In the meantime there arose a gale (_vāyuḥ_) and clouds accompanied by lightning (_savidyutaḥ_), churning up the water in the ocean and shaking the mountains, as it were.
 </details>
 </details>
 
@@ -1825,7 +1825,7 @@ Vata's wings and fell headlong into the briny waters of the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the mighty wind of [Garuḍa’s] wings (mahatā pakṣavātena), the great trees of all the islands fell with shattered branches (bhagna-viṭapāḥ) into the salt-water sea (lavaṇāmbhasi).
+By the mighty wind of [Garuḍa’s] wings (_mahatā pakṣavātena_), the great trees of all the islands fell with shattered branches (_bhagna-viṭapāḥ_) into the salt-water sea (_lavaṇāmbhasi_).
 </details>
 </details>
 
@@ -1878,7 +1878,7 @@ animals plunged quickly into the briny ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The hooded serpents (pannagāḥ bhoginaḥ) dwelling there became terrified, and all the marine monsters (yādāṃsi) swiftly plunged into the salt ocean.
+The hooded serpents (_pannagāḥ bhoginaḥ_) dwelling there became terrified, and all the marine monsters (_yādāṃsi_) swiftly plunged into the salt ocean.
 </details>
 </details>
 
@@ -1930,7 +1930,7 @@ Vinata, like unto a blazing torch.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, within a moment (muhūrtāt), all the monkeys beheld the mighty Garuḍa, son of Vinatā (vainateyam), blazing like a fire (jvalantam iva pāvakam).
+Then, within a moment (_muhūrtāt_), all the monkeys beheld the mighty Garuḍa, son of Vinatā (_vainateyam_), blazing like a fire (_jvalantam iva pāvakam_).
 </details>
 </details>
 
@@ -1991,7 +1991,7 @@ warriors Rama and Lakshmana in the form of mighty arrows, fled away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him arrived, those mighty serpents (nāgāḥ) who had become arrows (śarabhūtaiḥ) and bound those two heroes fled away in all directions (vipradudruvuḥ).
+Beholding him arrived, those mighty serpents (_nāgāḥ_) who had become arrows (_śarabhūtaiḥ_) and bound those two heroes fled away in all directions (_vipradudruvuḥ_).
 </details>
 </details>
 
@@ -2048,7 +2048,7 @@ moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Suparṇa, touching both Kākutsthas and greeting them with joy (pratyabhinandya), gently stroked (vimamarśa) with his two hands their faces radiant as the moon (candra-sama-prabhe).
+Then Suparṇa, touching both Kākutsthas and greeting them with joy (_pratyabhinandya_), gently stroked (_vimamarśa_) with his two hands their faces radiant as the moon (_candra-sama-prabhe_).
 </details>
 </details>
 
@@ -2103,7 +2103,7 @@ smooth and well-rounded.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Touched by the son of Vinatā, their wounds healed over (saṃruruhuḥ), and the bodies of them both swiftly became golden-hued (suvarṇe) and glossy (snigdhe).
+Touched by the son of Vinatā, their wounds healed over (_saṃruruhuḥ_), and the bodies of them both swiftly became golden-hued (_suvarṇe_) and glossy (_snigdhe_).
 </details>
 </details>
 
@@ -2158,7 +2158,7 @@ also their perspicacity, intelligence and memory were re-doubled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their splendor (tejaḥ), valor, strength, vitality (ojaḥ), and energy—those great qualities—together with their foresight (pradarśanam), intellect, and memory, became twofold (dviguṇā).
+Their splendor (_tejaḥ_), valor, strength, vitality (_ojaḥ_), and energy—those great qualities—together with their foresight (_pradarśanam_), intellect, and memory, became twofold (_dviguṇā_).
 </details>
 </details>
 
@@ -2211,7 +2211,7 @@ embraced them. Rama also, being pleased, spoke to him (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising up those two who were equal to Vāsava, the great-splendored Garuḍa joyfully embraced (sasvaje) them both; and Rāma spoke to him:
+Raising up those two who were equal to Vāsava, the great-splendored Garuḍa joyfully embraced (_sasvaje_) them both; and Rāma spoke to him:
 </details>
 </details>
 
@@ -2264,7 +2264,7 @@ son of Ravana. We have been made strong as before."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By your grace (bhavat-prasādāt), we two have through this expedient (upāyena) transcended the great calamity born of Rāvaṇa’s son, and have swiftly been made strong again.
+“By your grace (_bhavat-prasādāt_), we two have through this expedient (_upāyena_) transcended the great calamity born of Rāvaṇa’s son, and have swiftly been made strong again.
 </details>
 </details>
 
@@ -2325,7 +2325,7 @@ Dasaratha, my fatehr and Aja, my paternal grandfather."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as upon meeting my father Daśaratha, and just as upon meeting my grandfather Aja, even so upon meeting you my heart rejoices (hṛdayaṃ me prasīdati).
+“Just as upon meeting my father Daśaratha, and just as upon meeting my grandfather Aja, even so upon meeting you my heart rejoices (_hṛdayaṃ me prasīdati_).
 </details>
 </details>
 
@@ -2377,7 +2377,7 @@ wearing clean garments and adorned iwth divine ornaments?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who are you, endowed with beauty (rūpa-sampannaḥ), wearing celestial garlands and unguents (divya-srag-anulepanaḥ), clad in two spotless garments (viraje vastre), and adorned with divine ornaments?”
+“Who are you, endowed with beauty (_rūpa-sampannaḥ_), wearing celestial garlands and unguents (_divya-srag-anulepanaḥ_), clad in two spotless garments (_viraje vastre_), and adorned with divine ornaments?”
 </details>
 </details>
 
@@ -2432,7 +2432,7 @@ widened in gladness and with a pleased heart, spoke to Rama as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To him whose eyes were brimming with joy (harṣa-paryākulekṣaṇam), the mighty son of Vinatā, king of birds (patattrirājaḥ), of great splendor, spoke with a delighted heart:
+To him whose eyes were brimming with joy (_harṣa-paryākulekṣaṇam_), the mighty son of Vinatā, king of birds (_patattrirājaḥ_), of great splendor, spoke with a delighted heart:
 </details>
 </details>
 
@@ -2484,7 +2484,7 @@ came here for the purpose of helping you, both."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kākutstha, I am your dear friend (sakhā), your life-breath moving outside (prāṇo bahiścaraḥ)—Garutmat, arrived here for the sake of assisting you both (yuvayoḥ sāhyakāraṇāt).
+“O Kākutstha, I am your dear friend (_sakhā_), your life-breath moving outside (_prāṇo bahiścaraḥ_)—Garutmat, arrived here for the sake of assisting you both (_yuvayoḥ sāhyakāraṇāt_).
 </details>
 </details>
 
@@ -2600,9 +2600,9 @@ sorcery by Indrajit the demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**48:** “—are able to unloose (mokṣayitum) this most dreadful arrow-bond (śarabandham) fashioned through the power of illusion (māyābalāt) by Indrajit of cruel deeds.
+**48:** “—are able to unloose (_mokṣayitum_) this most dreadful arrow-bond (_śarabandham_) fashioned through the power of illusion (_māyābalāt_) by Indrajit of cruel deeds.
 
-**49:** “These serpents are the sons of Kadrū (kādraveyāḥ), sharp-fanged and fierce with venom (viṣolbaṇāḥ); through the power of rākṣasa illusion (rakṣo-māyā-prabhāveṇa) they became arrows and fastened upon you.
+**49:** “These serpents are the sons of Kadrū (_kādraveyāḥ_), sharp-fanged and fierce with venom (_viṣolbaṇāḥ_); through the power of rākṣasa illusion (_rakṣo-māyā-prabhāveṇa_) they became arrows and fastened upon you.
 </details>
 </details>
 
@@ -2655,7 +2655,7 @@ brother Lakshmana the annihilator of enemies, indeed are lucky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are fortunate (sabhāgyaḥ), O Rāma, knower of righteousness and of true valor (satya-parākrama), together with your brother Lakṣmaṇa, slayer of foes in battle.
+“You are fortunate (_sabhāgyaḥ_), O Rāma, knower of righteousness and of true valor (_satya-parākrama_), together with your brother Lakṣmaṇa, slayer of foes in battle.
 </details>
 </details>
 
@@ -2707,7 +2707,7 @@ and friendship (for you)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing of this occurrence (vṛttāntam), I came in haste, all at once out of affection for us both (āvayoḥ snehāt), honoring our friendship (sakhitvam).
+“Hearing of this occurrence (_vṛttāntam_), I came in haste, all at once out of affection for us both (_āvayoḥ snehāt_), honoring our friendship (_sakhitvam_).
 </details>
 </details>
 
@@ -2759,7 +2759,7 @@ should maintain vigilance, all the time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Both of you have now been released from this most dreadful bond of shafts (sāyaka-bandhanāt); yet constant vigilance (apramādaḥ) must ever be maintained by you two.
+“Both of you have now been released from this most dreadful bond of shafts (_sāyaka-bandhanāt_); yet constant vigilance (_apramādaḥ_) must ever be maintained by you two.
 </details>
 </details>
 
@@ -2811,7 +2811,7 @@ the warriors, your pue-mindedness and straight forwardeness are the strengths."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By their very nature (prakṛtyā), all rākṣasas are deceitful fighters (kūṭayodhinaḥ) in battle; whereas for you who are heroic and pure in heart (śuddha-bhāvānām), straightforwardness (ārjavam) is your strength.
+“By their very nature (_prakṛtyā_), all rākṣasas are deceitful fighters (_kūṭayodhinaḥ_) in battle; whereas for you who are heroic and pure in heart (_śuddha-bhāvānām_), straightforwardness (_ārjavam_) is your strength.
 </details>
 </details>
 
@@ -2864,7 +2864,7 @@ this reason, you should not trust the demons in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, never trust the rākṣasas on the battlefield (raṇājire); by this very example (etenaivopamānena), [know that] rākṣasas are perpetually crooked (nityaṃ jihmāḥ).”
+“Therefore, never trust the rākṣasas on the battlefield (_raṇājire_); by this very example (_etenaivopamānena_), [know that] rākṣasas are perpetually crooked (_nityaṃ jihmāḥ_).”
 </details>
 </details>
 
@@ -2927,7 +2927,7 @@ embraced him, began to take leave of him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Rāma, that mighty Suparṇa affectionately (susnigdham) embraced him and began to take his leave (āpraṣṭum upacakrame):
+Having spoken thus to Rāma, that mighty Suparṇa affectionately (_susnigdham_) embraced him and began to take his leave (_āpraṣṭum upacakrame_):
 </details>
 </details>
 
@@ -2979,7 +2979,7 @@ fried! I wish to take leave of you." I shall proceed happily."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O friend Rāghava, knower of righteousness, compassionate even toward your enemies (ripūṇām api vatsala), I wish to be granted leave (abhyanujñātum icchāmi); I shall depart at my ease (yathāsukham).
+“O friend Rāghava, knower of righteousness, compassionate even toward your enemies (_ripūṇām api vatsala_), I wish to be granted leave (_abhyanujñātum icchāmi_); I shall depart at my ease (_yathāsukham_).
 </details>
 </details>
 
@@ -3031,7 +3031,7 @@ know of it, once you have accomplished success in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor should you feel curiosity (kautūhalam) regarding our friendship (sakhitvaṃ prati), O Rāghava; once you have accomplished your task in battle, O hero, you shall know that friendship.
+“Nor should you feel curiosity (_kautūhalam_) regarding our friendship (_sakhitvaṃ prati_), O Rāghava; once you have accomplished your task in battle, O hero, you shall know that friendship.
 </details>
 </details>
 
@@ -3087,7 +3087,7 @@ and the children and you have slain Ravana,. your enemy, you will bring back See
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having reduced Laṅkā with waves of arrows (śarormibhiḥ) so that only children and the aged remain (bāla-vṛddhāvaśeṣām), and having slain your enemy Rāvaṇa, you shall recover Sītā.”
+“Having reduced Laṅkā with waves of arrows (_śarormibhiḥ_) so that only children and the aged remain (_bāla-vṛddhāvaśeṣām_), and having slain your enemy Rāvaṇa, you shall recover Sītā.”
 </details>
 </details>
 
@@ -3151,9 +3151,9 @@ speed of the wind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**59:** Having spoken these words and made Rāma free of pain (nīrujam) in the midst of those forest-dwellers (vanaukasām)—
+**59:** Having spoken these words and made Rāma free of pain (_nīrujam_) in the midst of those forest-dwellers (_vanaukasām_)—
 
-**60:** —the heroic Suparṇa of swift stride (śīghra-vikramaḥ) then circumambulated (pradakṣiṇaṃ kṛtvā) and embraced him, and entered the sky like the wind (pavano yathā).
+**60:** —the heroic Suparṇa of swift stride (_śīghra-vikramaḥ_) then circumambulated (_pradakṣiṇaṃ kṛtvā_) and embraced him, and entered the sky like the wind (_pavano yathā_).
 </details>
 </details>
 
@@ -3213,7 +3213,7 @@ roars of lions and lashed their tails.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the two Rāghavas free of pain (nīrujau), the monkey troop-commanders (vānara-yūthapāḥ) then uttered a lion-roar (siṃhanādam) and lashed their tails (lāṅgūlaṃ dudhuvuḥ).
+Beholding the two Rāghavas free of pain (_nīrujau_), the monkey troop-commanders (_vānara-yūthapāḥ_) then uttered a lion-roar (_siṃhanādam_) and lashed their tails (_lāṅgūlaṃ dudhuvuḥ_).
 </details>
 </details>
 
@@ -3268,7 +3268,7 @@ in joy of the monkeys as before.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, filled with joy, they beat the kettle-drums (bherīḥ samājaghnuḥ), sounded the mṛdaṅga-drums, blew conches (śaṅkhān), and uttered battle-shouts (kṣvelanti) just as before.
+Then, filled with joy, they beat the kettle-drums (_bherīḥ samājaghnuḥ_), sounded the _mṛdaṅga_-drums, blew conches (_śaṅkhān_), and uttered battle-shouts (_kṣvelanti_) just as before.
 </details>
 </details>
 
@@ -3324,7 +3324,7 @@ uprooting hundreds and thousands of various trees, stood there, ready for the ba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Other valiant monkeys who fight with trees (nagayodhinaḥ), slapping their arms (sphoṭya), uprooted manifold trees and stood by the hundreds of thousands.
+Other valiant monkeys who fight with trees (_nagayodhinaḥ_), slapping their arms (_sphoṭya_), uprooted manifold trees and stood by the hundreds of thousands.
 </details>
 </details>
 
@@ -3379,7 +3379,7 @@ reached the gates of Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sending forth mighty roars and terrifying the night-stalkers (niśācarān), the leaping monkeys (plavaṃgamāḥ), eager for battle (yoddhukāmāḥ), marched up to the gates of Laṅkā.
+Sending forth mighty roars and terrifying the night-stalkers (_niśācarān_), the leaping monkeys (_plavaṃgamāḥ_), eager for battle (_yoddhukāmāḥ_), marched up to the gates of Laṅkā.
 </details>
 </details>
 
@@ -3450,7 +3450,7 @@ monkeys, as, at the end of summer the roaring of thunder clouds in the mid-night
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The tumultuous and most dreadful roar (tumulo ninādaḥ) of those monkey troop-commanders was like the dreadful roar of thunderclouds (ghanānām) resounding at midnight at the close of summer (kṣaye nidāghasya).
+The tumultuous and most dreadful roar (_tumulo ninādaḥ_) of those monkey troop-commanders was like the dreadful roar of thunderclouds (_ghanānām_) resounding at midnight at the close of summer (_kṣaye nidāghasya_).
 </details>
 </details>
 

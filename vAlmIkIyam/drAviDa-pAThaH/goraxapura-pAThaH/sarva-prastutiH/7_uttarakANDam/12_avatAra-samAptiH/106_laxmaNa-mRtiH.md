@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), like the moon eclipsed (somam ivāplutam), Lakṣmaṇa, cheerful in spirit (hṛṣṭaḥ), spoke sweet words to him (vākyaṃ ... madhuram abravīt):
+Beholding Rāghava downcast in face and dejected (_avāṅmukham atho dīnam_), like the moon eclipsed (_somam ivāplutam_), Lakṣmaṇa, cheerful in spirit (_hṛṣṭaḥ_), spoke sweet words to him (_vākyaṃ ... madhuram abravīt_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), li
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You ought not to feel anguish on my account, O mighty-armed one (na saṃtāpaṃ mahābāho mad-arthaṃ kartum arhasi); for bound by primordial decree (pūrva-nirmāṇa-baddhā hi) is such a course of Time (kālasya gatir īdṛśī).
+“You ought not to feel anguish on my account, O mighty-armed one (_na saṃtāpaṃ mahābāho mad-arthaṃ kartum arhasi_); for bound by primordial decree (_pūrva-nirmāṇa-baddhā hi_) is such a course of Time (_kālasya gatir īdṛśī_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), li
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slay me fearlessly, O gentle one (jahi māṃ saumya visrabdham), and uphold your vow (pratijñāṃ paripālaya); men who fail in their vows, O Kākutstha (hīna-pratijñāḥ kākutstha), go to hell (prayānti narakaṃ narāḥ).
+“Slay me fearlessly, O gentle one (_jahi māṃ saumya visrabdham_), and uphold your vow (_pratijñāṃ paripālaya_); men who fail in their vows, O Kākutstha (_hīna-pratijñāḥ kākutstha_), go to hell (_prayānti narakaṃ narāḥ_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), li
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you bear affection for me, O great king (yadi prītir mahārāja), if I am worthy of your grace (yady anugrāhyatā mayi), slay me without hesitation (jahi māṃ nirviśaṅkas tvam) and magnify dharma, O Rāghava (dharmaṃ vardhaya rāghava)!”
+“If you bear affection for me, O great king (_yadi prītir mahārāja_), if I am worthy of your grace (_yady anugrāhyatā mayi_), slay me without hesitation (_jahi māṃ nirviśaṅkas tvam_) and magnify dharma, O Rāghava (_dharmaṃ vardhaya rāghava_)!”
 </details>
 </details>
 
@@ -179,9 +179,9 @@ Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), li
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Thus addressed by Lakṣmaṇa (lakṣmaṇena tathoktas tu), Rāma, his faculties stirred into motion (pracalitendriyaḥ), summoned his ministers (mantriṇaḥ samupānīya) and likewise his royal priest (tathaiva ca purodhasam),
+**5:** Thus addressed by Lakṣmaṇa (_lakṣmaṇena tathoktas tu_), Rāma, his faculties stirred into motion (_pracalitendriyaḥ_), summoned his ministers (_mantriṇaḥ samupānīya_) and likewise his royal priest (_tathaiva ca purodhasam_),
 
-**6:** and in their midst (teṣāṃ madhye) that Rāghava then recounted what had occurred (abravīc ca tadā vṛttam)—both the arrival of Durvāsas (durvāso-’bhigamaṃ caiva) and the vow made to the ascetic (pratijñāṃ tāpasasya ca).
+**6:** and in their midst (_teṣāṃ madhye_) that Rāghava then recounted what had occurred (_abravīc ca tadā vṛttam_)—both the arrival of Durvāsas (_durvāso-’bhigamaṃ caiva_) and the vow made to the ascetic (_pratijñāṃ tāpasasya ca_).
 </details>
 </details>
 
@@ -220,7 +220,7 @@ While the ministers sit stunned in silence, Vasiṣṭha reveals that he had lon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that, all the ministers together with the preceptors sat silently (mantriṇaḥ sarve sopādhyāyāḥ samāsata); then Vasiṣṭha, great in splendor (vasiṣṭhas tu mahātejāḥ), spoke these words:
+Hearing that, all the ministers together with the preceptors sat silently (_mantriṇaḥ sarve sopādhyāyāḥ samāsata_); then Vasiṣṭha, great in splendor (_vasiṣṭhas tu mahātejāḥ_), spoke these words:
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Foreseen by me, O mighty-armed one (dṛṣṭam etan mahābāho), was this hair-raising end of yours (kṣayaṃ te romaharṣaṇam), and your separation from Lakṣmaṇa (lakṣmaṇena viyogaś ca), O greatly renowned Rāma (mahāyaśaḥ).
+“Foreseen by me, O mighty-armed one (_dṛṣṭam etan mahābāho_), was this hair-raising end of yours (_kṣayaṃ te romaharṣaṇam_), and your separation from Lakṣmaṇa (_lakṣmaṇena viyogaś ca_), O greatly renowned Rāma (_mahāyaśaḥ_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Relinquish him—mighty is Time (tyajainaṃ balavān kālaḥ)! Do not render your vow in vain (mā pratijñāṃ vṛthā kṛthāḥ); for when a vow is destroyed (vinaṣṭāyāṃ pratijñāyām), dharma too would go to dissolution (dharmo ’pi ca layaṃ vrajet).
+“Relinquish him—mighty is Time (_tyajainaṃ balavān kālaḥ_)! Do not render your vow in vain (_mā pratijñāṃ vṛthā kṛthāḥ_); for when a vow is destroyed (_vinaṣṭāyāṃ pratijñāyām_), dharma too would go to dissolution (_dharmo ’pi ca layaṃ vrajet_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And then, when dharma is destroyed (tato dharme vinaṣṭe tu), the three worlds with all moving and unmoving things (trailokyaṃ sa-carācaram), together with the hosts of gods and seers (sa-devarṣi-gaṇaṃ sarvam), would surely perish—there is no doubt (vinaśyet tu na saṃśayaḥ).
+“And then, when dharma is destroyed (_tato dharme vinaṣṭe tu_), the three worlds with all moving and unmoving things (_trailokyaṃ sa-carācaram_), together with the hosts of gods and seers (_sa-devarṣi-gaṇaṃ sarvam_), would surely perish—there is no doubt (_vinaśyet tu na saṃśayaḥ_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O tiger among men (puruṣa-śārdūla), for the protection of the three worlds (trailokyasyābhipālanāt), even without Lakṣmaṇa (lakṣmaṇena vinā cādya), make the universe whole and secure today (jagat svasthaṃ kuruṣva ha)!”
+“Therefore, O tiger among men (_puruṣa-śārdūla_), for the protection of the three worlds (_trailokyasyābhipālanāt_), even without Lakṣmaṇa (_lakṣmaṇena vinā cādya_), make the universe whole and secure today (_jagat svasthaṃ kuruṣva ha_)!”
 </details>
 </details>
 
@@ -375,7 +375,7 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs assembled together (teṣāṃ tat samavetānāṃ vākyam), fraught with dharma and right purpose (dharmārtha-saṃhitam), in the midst of the assembly (pariṣado madhye) Rāma spoke to Lakṣmaṇa:
+Hearing those words of theirs assembled together (_teṣāṃ tat samavetānāṃ vākyam_), fraught with dharma and right purpose (_dharmārtha-saṃhitam_), in the midst of the assembly (_pariṣado madhye_) Rāma spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -417,7 +417,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I relinquish you, O Saumitri (visarjaye tvāṃ saumitre)—let there be no subversion of dharma (mā bhūd dharma-viparyayaḥ)! Abandonment or death are ordained (tyāgo vadho vā vihitaḥ) as equal indeed for the virtuous (sādhūnāṃ tūbhayaṃ samam).”
+“I relinquish you, O Saumitri (_visarjaye tvāṃ saumitre_)—let there be no subversion of dharma (_mā bhūd dharma-viparyayaḥ_)! Abandonment or death are ordained (_tyāgo vadho vā vihitaḥ_) as equal indeed for the virtuous (_sādhūnāṃ tūbhayaṃ samam_).”
 </details>
 </details>
 
@@ -448,7 +448,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon those words spoken by Rāma (rāmeṇa bhāṣite vākye), his faculties overwhelmed with tears (bāṣpa-vyākulitendriyaḥ), Lakṣmaṇa departed swiftly (lakṣmaṇas tvaritaṃ prāyāt) and did not enter his own house (svagṛhaṃ na viveśa ha).
+Upon those words spoken by Rāma (_rāmeṇa bhāṣite vākye_), his faculties overwhelmed with tears (_bāṣpa-vyākulitendriyaḥ_), Lakṣmaṇa departed swiftly (_lakṣmaṇas tvaritaṃ prāyāt_) and did not enter his own house (_svagṛhaṃ na viveśa ha_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Upon those words spoken by Rāma (rāmeṇa bhāṣite vākye), his faculties ov
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going to the bank of the Sarayū (gatvā sarayū-tīram), sipping water in purification and joining his palms (upaspṛśya kṛtāñjaliḥ), he restrained all the channels of his senses (nigṛhya sarva-srotāṃsi) and released no breath (niḥśvāsaṃ na mumoca ha).
+Going to the bank of the Sarayū (_gatvā sarayū-tīram_), sipping water in purification and joining his palms (_upaspṛśya kṛtāñjaliḥ_), he restrained all the channels of his senses (_nigṛhya sarva-srotāṃsi_) and released no breath (_niḥśvāsaṃ na mumoca ha_).
 </details>
 </details>
 
@@ -513,7 +513,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he sat breathless and absorbed in yoga (aniḥśvasantaṃ yuktaṃ tam), the gods headed by Śakra with the hosts of apsarases (saśakrāḥ sāpsaro-gaṇāḥ) and all the throngs of seers (devāḥ sarṣi-gaṇāḥ sarve) showered him with flowers (puṣpair abhyakiraṃs tadā).
+As he sat breathless and absorbed in yoga (_aniḥśvasantaṃ yuktaṃ tam_), the gods headed by Śakra with the hosts of apsarases (_saśakrāḥ sāpsaro-gaṇāḥ_) and all the throngs of seers (_devāḥ sarṣi-gaṇāḥ sarve_) showered him with flowers (_puṣpair abhyakiraṃs tadā_).
 </details>
 </details>
 
@@ -544,7 +544,7 @@ As he sat breathless and absorbed in yoga (aniḥśvasantaṃ yuktaṃ tam), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up the mighty Lakṣmaṇa in his very body (saśarīraṃ mahābalam pragṛhya lakṣmaṇam), invisible to all mortals (adṛśyaṃ sarva-manujaiḥ), Śakra entered the third heaven (śakras tridivaṃ saṃviveśa ha).
+Taking up the mighty Lakṣmaṇa in his very body (_saśarīraṃ mahābalam pragṛhya lakṣmaṇam_), invisible to all mortals (_adṛśyaṃ sarva-manujaiḥ_), Śakra entered the third heaven (_śakras tridivaṃ saṃviveśa ha_).
 </details>
 </details>
 
@@ -586,7 +586,7 @@ Taking up the mighty Lakṣmaṇa in his very body (saśarīraṃ mahābalam pra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding that fourth portion of Viṣṇu arrived (viṣṇoś catur-bhāgam āgatam), all the foremost gods together with the great seers (surasattamāḥ ... samaharṣayaḥ), filled with delight (pramuditāḥ), worshiped him (apūjayan).
+Then, beholding that fourth portion of Viṣṇu arrived (_viṣṇoś catur-bhāgam āgatam_), all the foremost gods together with the great seers (_surasattamāḥ ... samaharṣayaḥ_), filled with delight (_pramuditāḥ_), worshiped him (_apūjayan_).
 </details>
 </details>
 

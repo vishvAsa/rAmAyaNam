@@ -48,7 +48,7 @@ Leaving Sumantra with the chariot on the near shore, Lakṣmaṇa ferries Sītā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāghava’s younger brother (rāghavānujaḥ), having first helped Maithilī aboard (pūrvam āropya maithilīm), embarked upon a broad, well-equipped boat of the Niṣādas (nāvaṃ suvistīrṇāṃ naiṣādīṃ ... samāyuktām).
+Then Rāghava’s younger brother (_rāghavānujaḥ_), having first helped Maithilī aboard (_pūrvam āropya maithilīm_), embarked upon a broad, well-equipped boat of the Niṣādas (_nāvaṃ suvistīrṇāṃ naiṣādīṃ ... samāyuktām_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Then Rāghava’s younger brother (rāghavānujaḥ), having first helped Maithi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scorched by grief (śoka-santaptaḥ), Lakṣmaṇa bade Sumantra along with the chariot (sumantraṃ caiva sa-ratham), “Wait here!” (sthīyatām), and told the boatman (nāvikam), “Push off!” (prayāhi).
+Scorched by grief (_śoka-santaptaḥ_), Lakṣmaṇa bade Sumantra along with the chariot (_sumantraṃ caiva sa-ratham_), “Wait here!” (_sthīyatām_), and told the boatman (_nāvikam_), “Push off!” (_prayāhi_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Scorched by grief (śoka-santaptaḥ), Lakṣmaṇa bade Sumantra along with the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having reached the further shore of the Bhāgīrathī (tīram upāgamya bhāgīrathyāḥ), Lakṣmaṇa, with joined palms (prāñjaliḥ) and drenched in tears (bāṣpa-samplutaḥ), spoke these words to Maithilī:
+Then, having reached the further shore of the Bhāgīrathī (_tīram upāgamya bhāgīrathyāḥ_), Lakṣmaṇa, with joined palms (_prāñjaliḥ_) and drenched in tears (_bāṣpa-samplutaḥ_), spoke these words to Maithilī:
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A mighty dart has pierced my heart (hṛdgataṃ me mahac chalyam), O Vaidehī, because by my wise elder brother (āryeṇa dhīmatā) I have been made the object of the world’s reproach in this affair (asmin nimitte ... lokasya vacanīkṛtaḥ)!
+“A mighty dart has pierced my heart (_hṛdgataṃ me mahac chalyam_), O Vaidehī, because by my wise elder brother (_āryeṇa dhīmatā_) I have been made the object of the world’s reproach in this affair (_asmin nimitte ... lokasya vacanīkṛtaḥ_)!
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Better for me today were death (śreyo hi maraṇaṃ me ’dya), or whatever lies beyond death itself (mṛtyur vā yat paraṃ bhavet), than that I should be appointed to such a deed as this, condemned by the world (na cāsminn īdṛśe kārye niyojyo loka-nindite)!
+“Better for me today were death (_śreyo hi maraṇaṃ me ’dya_), or whatever lies beyond death itself (_mṛtyur vā yat paraṃ bhavet_), than that I should be appointed to such a deed as this, condemned by the world (_na cāsminn īdṛśe kārye niyojyo loka-nindite_)!
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be gracious (prasīda ca), O fair lady (śobhane), and do not impute sin to me (na me pāpaṃ kartum arhasi)!” Thus, with joined palms (añjali-kṛtaḥ), Lakṣmaṇa fell prostrate upon the earth (bhūmau nipapāta).
+“Be gracious (_prasīda ca_), O fair lady (_śobhane_), and do not impute sin to me (_na me pāpaṃ kartum arhasi_)!” Thus, with joined palms (_añjali-kṛtaḥ_), Lakṣmaṇa fell prostrate upon the earth (_bhūmau nipapāta_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Alarmed for Rāma’s safety, Sītā commands Lakṣmaṇa to disclose the cause
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him weeping with joined palms (rudantaṃ prāñjaliṃ dṛṣṭvā) and longing for his own death (kāṅkṣantaṃ mṛtyum ātmanaḥ), Maithilī, sorely agitated (bhṛśa-saṃvignā), spoke these words to Lakṣmaṇa:
+Beholding him weeping with joined palms (_rudantaṃ prāñjaliṃ dṛṣṭvā_) and longing for his own death (_kāṅkṣantaṃ mṛtyum ātmanaḥ_), Maithilī, sorely agitated (_bhṛśa-saṃvignā_), spoke these words to Lakṣmaṇa:
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Beholding him weeping with joined palms (rudantaṃ prāñjaliṃ dṛṣṭvā)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is this? I do not understand (kim idaṃ nāvagacchāmi); tell me in truth (brūhi tattvena), O Lakṣmaṇa! I see that you are not yourself (paśyāmi tvāṃ na ca svastham)—is all well with the king (api kṣemaṃ mahīpateḥ)?
+“What is this? I do not understand (_kim idaṃ nāvagacchāmi_); tell me in truth (_brūhi tattvena_), O Lakṣmaṇa! I see that you are not yourself (_paśyāmi tvāṃ na ca svastham_)—is all well with the king (_api kṣemaṃ mahīpateḥ_)?
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Beholding him weeping with joined palms (rudantaṃ prāñjaliṃ dṛṣṭvā)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are bound by an oath in the king’s name (śāpito ’si narendreṇa)! Whatever has brought you to this anguish (yat tvaṃ santāpam āgataḥ), speak it here before me (tad brūyāḥ sannidhau mahyam)—I command you (aham ājñāpayāmi te)!”
+“You are bound by an oath in the king’s name (_śāpito ’si narendreṇa_)! Whatever has brought you to this anguish (_yat tvaṃ santāpam āgataḥ_), speak it here before me (_tad brūyāḥ sannidhau mahyam_)—I command you (_aham ājñāpayāmi te_)!”
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Beholding him weeping with joined palms (rudantaṃ prāñjaliṃ dṛṣṭvā)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed thus by Vaidehī (vaidehyā codyamānaḥ), Lakṣmaṇa, crushed in spirit (dīna-cetanaḥ), hung his head (avāṅmukhaḥ) and spoke these words, faltering through tears (bāṣpa-kalam):
+Pressed thus by Vaidehī (_vaidehyā codyamānaḥ_), Lakṣmaṇa, crushed in spirit (_dīna-cetanaḥ_), hung his head (_avāṅmukhaḥ_) and spoke these words, faltering through tears (_bāṣpa-kalam_):
 </details>
 </details>
 
@@ -374,7 +374,7 @@ Pressed thus by Vaidehī (vaidehyā codyamānaḥ), Lakṣmaṇa, crushed in spi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having heard in the midst of his council (pariṣado madhye) a most dreadful calumny (apavādaṃ sudāruṇam) circulating in both city and countryside concerning you (tvat-kṛte), O daughter of Janaka, Rāma, scorched at heart, informed me and withdrew into his palace (mā nivedya gṛhaṃ gataḥ).
+“Having heard in the midst of his council (_pariṣado madhye_) a most dreadful calumny (_apavādaṃ sudāruṇam_) circulating in both city and countryside concerning you (_tvat-kṛte_), O daughter of Janaka, Rāma, scorched at heart, informed me and withdrew into his palace (_mā nivedya gṛhaṃ gataḥ_).
 </details>
 </details>
 
@@ -405,7 +405,7 @@ Pressed thus by Vaidehī (vaidehyā codyamānaḥ), Lakṣmaṇa, crushed in spi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O noble lady (devi), I cannot utter in your presence (na tāni vacanīyāni mayā ... tavāgrataḥ) those words which the king, out of indignation (amarṣāt), has laid to heart (yāni rājñā hṛdi nyastāni); their recounting is put behind me (pṛṣṭhataḥ kṛtaḥ).
+“O noble lady (_devi_), I cannot utter in your presence (_na tāni vacanīyāni mayā ... tavāgrataḥ_) those words which the king, out of indignation (_amarṣāt_), has laid to heart (_yāni rājñā hṛdi nyastāni_); their recounting is put behind me (_pṛṣṭhataḥ kṛtaḥ_).
 </details>
 </details>
 
@@ -448,9 +448,9 @@ Assuring Sītā that Rāma knows her faultless and relinquishes her solely from 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “Though altogether faultless (nirdoṣā), you have been relinquished by the king in my presence (tyaktā nṛpatinā ... mama sannidhau) out of dread of the citizens’ calumny (paurāpavāda-bhītena); pray do not construe this otherwise (grāhyaṃ devi na te ’nyathā), O noble lady!
+**13:** “Though altogether faultless (_nirdoṣā_), you have been relinquished by the king in my presence (_tyaktā nṛpatinā ... mama sannidhau_) out of dread of the citizens’ calumny (_paurāpavāda-bhītena_); pray do not construe this otherwise (_grāhyaṃ devi na te ’nyathā_), O noble lady!
 
-**14:** “Having received the king’s command (rājñaḥ śāsanam ājñāya)—and because this indeed was your pregnancy longing (tavedaṃ kila daurhṛdam)—you must now be left by me upon the outskirts of the hermitages (āśramānteṣu ca mayā tyaktavyā tvaṃ bhaviṣyasi).
+**14:** “Having received the king’s command (_rājñaḥ śāsanam ājñāya_)—and because this indeed was your pregnancy longing (_tavedaṃ kila daurhṛdam_)—you must now be left by me upon the outskirts of the hermitages (_āśramānteṣu ca mayā tyaktavyā tvaṃ bhaviṣyasi_).
 </details>
 </details>
 
@@ -481,7 +481,7 @@ Assuring Sītā that Rāma knows her faultless and relinquishes her solely from 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here before you on the bank of the Jāhnavī is that sacred and lovely penance-grove of the Brahmarṣis (jāhnavī-tīre brahmarṣīṇāṃ tapovanam puṇyaṃ ca ramaṇīyaṃ ca); give not way to despondency (mā viṣādaṃ kṛthāḥ), O auspicious one (śubhe)!
+“Here before you on the bank of the Jāhnavī is that sacred and lovely penance-grove of the Brahmarṣis (_jāhnavī-tīre brahmarṣīṇāṃ tapovanam puṇyaṃ ca ramaṇīyaṃ ca_); give not way to despondency (_mā viṣādaṃ kṛthāḥ_), O auspicious one (_śubhe_)!
 </details>
 </details>
 
@@ -516,9 +516,9 @@ Assuring Sītā that Rāma knows her faultless and relinquishes her solely from 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “Here dwells that bull among sages (munipuṅgavaḥ), the hugely renowned Brahmin Vālmīki (vipro vālmīkiḥ sumahāyaśāḥ), the cherished and dearest friend (iṣṭaḥ ... sakhā paramakaḥ) of my father, King Daśaratha (rājño daśarathasya ... pitur me).
+**16:** “Here dwells that bull among sages (_munipuṅgavaḥ_), the hugely renowned Brahmin Vālmīki (_vipro vālmīkiḥ sumahāyaśāḥ_), the cherished and dearest friend (_iṣṭaḥ ... sakhā paramakaḥ_) of my father, King Daśaratha (_rājño daśarathasya ... pitur me_).
 
-**17:** “Having sought refuge beneath the shade of this high-souled sage’s feet (pādacchāyām upāgamya ... asya mahātmanaḥ), dwell here in peace (sukhaṃ ... vasa tvam), O daughter of Janaka, devoted to fasting and single-minded (upavāsa-paraikāgrā).
+**17:** “Having sought refuge beneath the shade of this high-souled sage’s feet (_pādacchāyām upāgamya ... asya mahātmanaḥ_), dwell here in peace (_sukhaṃ ... vasa tvam_), O daughter of Janaka, devoted to fasting and single-minded (_upavāsa-paraikāgrā_).
 </details>
 </details>
 
@@ -560,7 +560,7 @@ Assuring Sītā that Rāma knows her faultless and relinquishes her solely from 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abiding steadfast in wifely devotion (pativratātvam āsthāya) and holding Rāma ever in your heart (rāmaṃ kṛtvā sadā hṛdi), supreme well-being shall be yours, O noble lady (śreyas te paramaṃ devi), by acting thus (tathā kṛtvā bhaviṣyati)!”
+“Abiding steadfast in wifely devotion (_pativratātvam āsthāya_) and holding Rāma ever in your heart (_rāmaṃ kṛtvā sadā hṛdi_), supreme well-being shall be yours, O noble lady (_śreyas te paramaṃ devi_), by acting thus (_tathā kṛtvā bhaviṣyati_)!”
 </details>
 </details>
 

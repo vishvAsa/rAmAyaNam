@@ -80,7 +80,7 @@ of Rama is concerned. [4-28-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Dūṣaṇa slain (nihatam) in battle along with Triśiras (triśirasā saha), and beholding Rāma's prowess (vikramam), fear (trāsaḥ) arose even in Khara (kharasyāpi).
+Seeing Dūṣaṇa slain (_nihatam_) in battle along with Triśiras (_triśirasā saha_), and beholding Rāma&#x27;s prowess (_vikramam_), fear (_trāsaḥ_) arose even in Khara (_kharasyāpi_).
 </details>
 </details>
 
@@ -149,9 +149,9 @@ Khara became apprehensive, and then he lunged at Rama, as with demon Namuchi who
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Seeing that irresistible (aviṣahyam) and mighty-forced (mahā-balam) rākṣasa army (rākṣasaṃ sainyam) slain by Rāma alone (ekena rāmeṇa), and Dūṣaṇa and Triśiras too (dūṣaṇas triśirā api) [slain]—
+**2:** Seeing that irresistible (_aviṣahyam_) and mighty-forced (_mahā-balam_) _rākṣasa_ army (_rākṣasaṃ sainyam_) slain by Rāma alone (_ekena rāmeṇa_), and Dūṣaṇa and Triśiras too (_dūṣaṇas triśirā api_) [slain]—
 
-**3:** Beholding that host mostly slain (hata-bhūyiṣṭham), the rākṣasa Khara, downcast in mind (vimanāḥ), advanced against Rāma (āsasāda rāmam), just as Namuci advanced against Vāsava (vāsavaṃ yathā).
+**3:** Beholding that host mostly slain (_hata-bhūyiṣṭham_), the _rākṣasa_ Khara, downcast in mind (_vimanāḥ_), advanced against Rāma (_āsasāda rāmam_), just as Namuci advanced against Vāsava (_vāsavaṃ yathā_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ Khara became apprehensive, and then he lunged at Rama, as with demon Namuchi who
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing (vikṛṣya) his mighty bow (balavac cāpam), Khara hurled (cikṣepa) at Rāma iron arrows (nārācān) that feed on blood (rakta-bhojanān), like wrathful venomous serpents (kruddhān āśīviṣān iva).
+Drawing (_vikṛṣya_) his mighty bow (_balavac cāpam_), Khara hurled (_cikṣepa_) at Rāma iron arrows (_nārācān_) that feed on blood (_rakta-bhojanān_), like wrathful venomous serpents (_kruddhān āśīviṣān iva_).
 </details>
 </details>
 
@@ -254,7 +254,7 @@ battleground in many a manner, seated on chariot and showing his expertise with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Twanging his bowstring (jyāṃ vidhunvan) again and again (subahuśaḥ) and displaying missiles (astrāṇi darśayan) through his martial training (śikṣayā), Khara, mounted on his chariot (ratha-gataḥ), coursed through battle-maneuvers (cacāra samare mārgān) with his arrows.
+Twanging his bowstring (_jyāṃ vidhunvan_) again and again (_subahuśaḥ_) and displaying missiles (_astrāṇi darśayan_) through his martial training (_śikṣayā_), Khara, mounted on his chariot (_ratha-gataḥ_), coursed through battle-maneuvers (_cacāra samare mārgān_) with his arrows.
 </details>
 </details>
 
@@ -285,7 +285,7 @@ Twanging his bowstring (jyāṃ vidhunvan) again and again (subahuśaḥ) and di
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great chariot-warrior (mahā-rathaḥ) filled (pūrayām āsa) all the cardinal directions (sarvāś ca diśaḥ) and intermediate quarters (pradiśaś ca) with arrows; seeing him, Rāma too [drew] his mighty bow (sumahad dhanuḥ).
+That great chariot-warrior (_mahā-rathaḥ_) filled (_pūrayām āsa_) all the cardinal directions (_sarvāś ca diśaḥ_) and intermediate quarters (_pradiśaś ca_) with arrows; seeing him, Rāma too [drew] his mighty bow (_sumahad dhanuḥ_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ with Rain-god chocking the sky with torrents, less of latitude. [4-28-6, 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his irresistible shafts (sāyakair durviṣahaiḥ), which were like fires with flying sparks (visphuliṅgair ivāgnibhiḥ), he rendered the sky gapless (nabhaś cakārāvivaram), like a rain-cloud with its downpours (parjanya iva vṛṣṭibhiḥ).
+With his irresistible shafts (_sāyakair durviṣahaiḥ_), which were like fires with flying sparks (_visphuliṅgair ivāgnibhiḥ_), he rendered the sky gapless (_nabhaś cakārāvivaram_), like a rain-cloud with its downpours (_parjanya iva vṛṣṭibhiḥ_).
 </details>
 </details>
 
@@ -397,7 +397,7 @@ by Rama and Khara from everywhere. [4-28-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crowded on every side with arrows (sarvataḥ śara-saṃkulam)—the sharp shafts discharged by Khara and Rāma (khara-rāma-visarjitaiḥ)—the surrounding sky (paryākāśam) became devoid of open space (anākāśam).
+Crowded on every side with arrows (_sarvataḥ śara-saṃkulam_)—the sharp shafts discharged by Khara and Rāma (_khara-rāma-visarjitaiḥ_)—the surrounding sky (_paryākāśam_) became devoid of open space (_anākāśam_).
 </details>
 </details>
 
@@ -449,7 +449,7 @@ of arrows has not shined. [4-28-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the two fought fiercely together (ubhayoḥ saṃprayudhyatoḥ) out of furious eagerness to slay one another (anyonya-vadha-saṃrambhāt), the sun, shrouded by the network of arrows (śara-jālāvṛtaḥ), did not shine forth (na tadā sma prakāśate).
+As the two fought fiercely together (_ubhayoḥ saṃprayudhyatoḥ_) out of furious eagerness to slay one another (_anyonya-vadha-saṃrambhāt_), the sun, shrouded by the network of arrows (_śara-jālāvṛtaḥ_), did not shine forth (_na tadā sma prakāśate_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ as a great elephant will be swatted with a goad. [4-28-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then with nālīka and nārāca shafts (nālīka-nārācaiḥ) and sharp-tipped vikarṇi arrows (tīkṣṇāgraiś ca vikarṇibhiḥ), [Khara] struck Rāma in battle, as one strikes a great elephant with goads (totrair iva mahā-dvipam).
+Then with _nālīka_ and _nārāca_ shafts (_nālīka-nārācaiḥ_) and sharp-tipped _vikarṇi_ arrows (_tīkṣṇāgraiś ca vikarṇibhiḥ_), [Khara] struck Rāma in battle, as one strikes a great elephant with goads (_totrair iva mahā-dvipam_).
 </details>
 </details>
 
@@ -556,7 +556,7 @@ demon appeared to all beings as the Terminator handling his noose. [4-28-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All beings (sarva-bhūtāni) beheld that rākṣasa standing firm (paryavasthitam) in his chariot, bow in hand (dhanuṣ-pāṇim), like Death the Ender (antakam) with noose in hand (pāśa-hastam iva).
+All beings (_sarva-bhūtāni_) beheld that _rākṣasa_ standing firm (_paryavasthitam_) in his chariot, bow in hand (_dhanuṣ-pāṇim_), like Death the Ender (_antakam_) with noose in hand (_pāśa-hastam iva_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ of boldness in eliminating all of the demonic forces, all the while. [4-28-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Khara deemed (mene) the mighty-spirited (mahā-sattvam) Rāma—the slayer of his entire army (hantāraṃ sarva-sainyasya), who stood firm in his valor (pauruṣe paryavasthitam)—to be exhausted (pariśrāntam).
+Then Khara deemed (_mene_) the mighty-spirited (_mahā-sattvam_) Rāma—the slayer of his entire army (_hantāraṃ sarva-sainyasya_), who stood firm in his valor (_pauruṣe paryavasthitam_)—to be exhausted (_pariśrāntam_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ mR^iga* 'petty animal...' is not found aesthetic by some scholars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him, valiant like a lion (siṃham iva vikrāntam) and striding with a lion's gait (siṃha-vikrānta-gāminam), Rāma was not perturbed (nodvijate), just as a lion is unperturbed upon seeing a puny beast (kṣudra-mṛgaṃ yathā).
+Seeing him, valiant like a lion (_siṃham iva vikrāntam_) and striding with a lion&#x27;s gait (_siṃha-vikrānta-gāminam_), Rāma was not perturbed (_nodvijate_), just as a lion is unperturbed upon seeing a puny beast (_kṣudra-mṛgaṃ yathā_).
 </details>
 </details>
 
@@ -725,7 +725,7 @@ In a chariot that equals the sun in its radiance then Khara reached Rama as a mo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in his great chariot gleaming like the sun (sūrya-nikāśena), Khara closed in upon Rāma (āsasādātha taṃ rāmam), like a moth rushing into a fire (pataṅga iva pāvakam).
+Then in his great chariot gleaming like the sun (_sūrya-nikāśena_), Khara closed in upon Rāma (_āsasādātha taṃ rāmam_), like a moth rushing into a fire (_pataṅga iva pāvakam_).
 </details>
 </details>
 
@@ -780,7 +780,7 @@ an arrow fitted on it. [4-28-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, displaying his dexterity of hand (darśayan hasta-lāghavam), Khara severed (ciccheda) at the grip (muṣṭi-deśe) the arrow-fitted bow (saśaraṃ cāpam) of the great-souled Rāma.
+Then, displaying his dexterity of hand (_darśayan hasta-lāghavam_), Khara severed (_ciccheda_) at the grip (_muṣṭi-deśe_) the arrow-fitted bow (_saśaraṃ cāpam_) of the great-souled Rāma.
 </details>
 </details>
 
@@ -832,7 +832,7 @@ hit Rama's armour in that war. [4-28-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up seven other arrows (aparān sapta śarān) gleaming like Śakra's thunderbolt (śakrāśani-sama-prabhān), the wrathful one struck (nijaghāna) [Rāma] at the vital juncture of his armor (marmaṇi) in battle.
+Taking up seven other arrows (_aparān sapta śarān_) gleaming like Śakra&#x27;s thunderbolt (_śakrāśani-sama-prabhān_), the wrathful one struck (_nijaghāna_) [Rāma] at the vital juncture of his armor (_marmaṇi_) in battle.
 </details>
 </details>
 
@@ -883,7 +883,7 @@ a loud blare. [4-28-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having pelted (ardayitvā) Rāma of peerless energy (apratimaujasam) with a thousand arrows (śara-sahasreṇa), Khara roared a mighty roar (mahā-nādaṃ nanāda) in battle.
+Then, having pelted (_ardayitvā_) Rāma of peerless energy (_apratimaujasam_) with a thousand arrows (_śara-sahasreṇa_), Khara roared a mighty roar (_mahā-nādaṃ nanāda_) in battle.
 </details>
 </details>
 
@@ -938,7 +938,7 @@ resplendence is completely destroyed and fell on the field. [4-28-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, struck (prahatam) by those smooth-jointed arrows (bāṇaiḥ suparvabhiḥ) loosed by Khara (khara-muktaiḥ), Rāma's sun-bright (āditya-varcasam) armor (kavacam) fell to the ground (papāta bhūmau).
+Then, struck (_prahatam_) by those smooth-jointed arrows (_bāṇaiḥ suparvabhiḥ_) loosed by Khara (_khara-muktaiḥ_), Rāma&#x27;s sun-bright (_āditya-varcasam_) armor (_kavacam_) fell to the ground (_papāta bhūmau_).
 </details>
 </details>
 
@@ -998,7 +998,7 @@ flaring fire. [4-28-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced (arpitaḥ) in all his limbs (sarva-gātreṣu) by arrows, the wrathful Rāghava—Rāma—shone (rarāja) in battle like a smokeless fire blazing forth (vidhūmo 'gnir iva jvalan).
+Pierced (_arpitaḥ_) in all his limbs (_sarva-gātreṣu_) by arrows, the wrathful Rāghava—Rāma—shone (_rarāja_) in battle like a smokeless fire blazing forth (_vidhūmo &#x27;gnir iva jvalan_).
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ enemy. [4-28-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, the destroyer of foes (śatru-nibarhaṇaḥ), strung (cakāra sajyam) another mighty bow (anyan mahad dhanuḥ) of deep resonance (gambhīra-nirhrādam) for the destruction of his enemy (antāya ripoḥ).
+Then Rāma, the destroyer of foes (_śatru-nibarhaṇaḥ_), strung (_cakāra sajyam_) another mighty bow (_anyan mahad dhanuḥ_) of deep resonance (_gambhīra-nirhrādam_) for the destruction of his enemy (_antāya ripoḥ_).
 </details>
 </details>
 
@@ -1102,7 +1102,7 @@ that choicest bow Rama rushed towards Khara. [4-28-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising (udyamya) that supreme (varam), exceedingly mighty bow of Viṣṇu (sumahad vaiṣṇavam) which had been bestowed by the great sage (atisṛṣṭaṃ maharṣiṇā) [Agastya], he rushed against Khara (kharaṃ samabhidhāvata).
+Raising (_udyamya_) that supreme (_varam_), exceedingly mighty bow of Viṣṇu (_sumahad vaiṣṇavam_) which had been bestowed by the great sage (_atisṛṣṭaṃ maharṣiṇā_) [Agastya], he rushed against Khara (_kharaṃ samabhidhāvata_).
 </details>
 </details>
 
@@ -1153,7 +1153,7 @@ flagstaff with flag in that war. [4-28-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then with golden-feathered (kanaka-puṅkhaiḥ), smooth-jointed arrows (śaraiḥ saṃnata-parvabhiḥ), the enraged Rāma severed (ciccheda) Khara's banner (dhvajam) in battle.
+Then with golden-feathered (_kanaka-puṅkhaiḥ_), smooth-jointed arrows (_śaraiḥ saṃnata-parvabhiḥ_), the enraged Rāma severed (_ciccheda_) Khara&#x27;s banner (_dhvajam_) in battle.
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ god-damned sun fallen on earth. [4-28-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cloven in many places (bahudhā vicchinnaḥ), that handsome golden banner (kāñcano dhvajaḥ) fell to the earth (jagāma dharaṇīm), like the sun [falling] at the command of the gods (devatānām ivājñayā).
+Cloven in many places (_bahudhā vicchinnaḥ_), that handsome golden banner (_kāñcano dhvajaḥ_) fell to the earth (_jagāma dharaṇīm_), like the sun [falling] at the command of the gods (_devatānām ivājñayā_).
 </details>
 </details>
 
@@ -1272,7 +1272,7 @@ the chest of Rama with four arrows, and even on other limbs, as one would prod a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the vital spots (marma-jñaḥ), the wrathful Khara pierced (vivyādha) Rāma in his limbs (gātreṣu) and chest (hṛdi) with four arrows (caturbhiḥ mārgaṇaiḥ), as one pierces an elephant with lances (mātaṅgam iva tomaraiḥ).
+Knowing the vital spots (_marma-jñaḥ_), the wrathful Khara pierced (_vivyādha_) Rāma in his limbs (_gātreṣu_) and chest (_hṛdi_) with four arrows (_caturbhiḥ mārgaṇaiḥ_), as one pierces an elephant with lances (_mātaṅgam iva tomaraiḥ_).
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ he became highly indignant. [4-28-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced (viddhaḥ) by many arrows sped from Khara's bow (khara-kārmuka-niḥsṛtaiḥ), Rāma, his limbs bathed in blood (rudhira-siktāṅgaḥ), became exceedingly incensed (ruṣito bhṛśam).
+Pierced (_viddhaḥ_) by many arrows sped from Khara&#x27;s bow (_khara-kārmuka-niḥsṛtaiḥ_), Rāma, his limbs bathed in blood (_rudhira-siktāṅgaḥ_), became exceedingly incensed (_ruṣito bhṛśam_).
 </details>
 </details>
 
@@ -1379,7 +1379,7 @@ targeting pointedly. [4-28-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping his bow (dhanuḥ saṃgṛhya) in that supreme battle (paramāhave), that foremost of bowmen (dhanvināṃ śreṣṭhaḥ), the supreme archer (parameṣvāsaḥ), loosed (mumoca) six well-aimed arrows (ṣaṭ śarān abhilakṣitān).
+Grasping his bow (_dhanuḥ saṃgṛhya_) in that supreme battle (_paramāhave_), that foremost of bowmen (_dhanvināṃ śreṣṭhaḥ_), the supreme archer (_parameṣvāsaḥ_), loosed (_mumoca_) six well-aimed arrows (_ṣaṭ śarān abhilakṣitān_).
 </details>
 </details>
 
@@ -1435,7 +1435,7 @@ arrows he hit his chest. [4-28-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He struck (arpayat) [Khara] on the head (śirasi) with one arrow and on the two arms (bāhvoḥ) with two; and with three crescent-tipped shafts (tribhiś candrārdha-vaktraiḥ) he smote him in the chest (vakṣasy abhijaghāna ha).
+He struck (_arpayat_) [Khara] on the head (_śirasi_) with one arrow and on the two arms (_bāhvoḥ_) with two; and with three crescent-tipped shafts (_tribhiś candrārdha-vaktraiḥ_) he smote him in the chest (_vakṣasy abhijaghāna ha_).
 </details>
 </details>
 
@@ -1490,7 +1490,7 @@ thirteen iron arrows that are sharply whetted and similar to the dazzle of sun. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter (tataḥ paścāt), the wrathful hero of mighty splendour (mahā-tejāḥ) smote (jaghāna) the rākṣasa with thirteen (trayodaśa) sun-bright (bhāskaropamān) iron shafts whetted on stone (nārācān śilā-śitān).
+Thereafter (_tataḥ paścāt_), the wrathful hero of mighty splendour (_mahā-tejāḥ_) smote (_jaghāna_) the _rākṣasa_ with thirteen (_trayodaśa_) sun-bright (_bhāskaropamān_) iron shafts whetted on stone (_nārācān śilā-śitān_).
 </details>
 </details>
 
@@ -1532,7 +1532,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With one [arrow] he severed (ciccheda) the chariot's yoke (rathasya yugam), with four the dappled steeds (śabalān hayān), and with the sixth the head of Khara's charioteer (khara-sāratheḥ) in battle (saṃkhye).
+With one [arrow] he severed (_ciccheda_) the chariot&#x27;s yoke (_rathasya yugam_), with four the dappled steeds (_śabalān hayān_), and with the sixth the head of Khara&#x27;s charioteer (_khara-sāratheḥ_) in battle (_saṃkhye_).
 </details>
 </details>
 
@@ -1598,9 +1598,9 @@ twelfth, that mighty one Rama impaled Khara with the thirteenth arrow that is si
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** With three [arrows] the mighty one (balavān) [severed] the three bamboo chariot-poles (triveṇūn), and with two the axle (akṣam); and with the twelfth arrow (dvādaśena tu bāṇena), the hero of great strength [severed] Khara's arrow-fitted bow (saśaraṃ dhanuḥ)—
+**30:** With three [arrows] the mighty one (_balavān_) [severed] the three bamboo chariot-poles (_triveṇūn_), and with two the axle (_akṣam_); and with the twelfth arrow (_dvādaśena tu bāṇena_), the hero of great strength [severed] Khara&#x27;s arrow-fitted bow (_saśaraṃ dhanuḥ_)—
 
-**31:** Having severed (chittvā) [that bow] with a shaft gleaming like a thunderbolt (vajra-nikāśena), Rāghava, equal to Indra (indra-samaḥ), smilingly (prahasann iva) pierced (bibheda) Khara in battle with the thirteenth (trayodaśena).
+**31:** Having severed (_chittvā_) [that bow] with a shaft gleaming like a thunderbolt (_vajra-nikāśena_), Rāghava, equal to Indra (_indra-samaḥ_), smilingly (_prahasann iva_) pierced (_bibheda_) Khara in battle with the thirteenth (_trayodaśena_).
 </details>
 </details>
 
@@ -1652,7 +1652,7 @@ then hopped down to ground from the dilapidated chariot wielding a mace, and sto
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His bow shattered (prabhagna-dhanvā), deprived of his chariot (virathaḥ), his horses slain (hatāśvaḥ) and his charioteer killed (hata-sārathiḥ), Khara then leaped down (avaplutya) mace in hand (gadā-pāṇiḥ) and stood upon the ground (tasthau bhūmau).
+His bow shattered (_prabhagna-dhanvā_), deprived of his chariot (_virathaḥ_), his horses slain (_hatāśvaḥ_) and his charioteer killed (_hata-sārathiḥ_), Khara then leaped down (_avaplutya_) mace in hand (_gadā-pāṇiḥ_) and stood upon the ground (_tasthau bhūmau_).
 </details>
 </details>
 
@@ -1724,7 +1724,7 @@ and they worshipped him with their adjoined palms. [4-28-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assembling (sametya) and standing atop their aerial cars (vimānāgra-gatāḥ), the gods and great sages (devāś ca maharṣayaś ca), gathered together (sametāḥ) and filled with joy (prahṛṣṭāḥ), praised (apūjayan) with joined palms (prāñjalayaḥ) that feat of the great chariot-warrior Rāma.
+Assembling (_sametya_) and standing atop their aerial cars (_vimānāgra-gatāḥ_), the gods and great sages (_devāś ca maharṣayaś ca_), gathered together (_sametāḥ_) and filled with joy (_prahṛṣṭāḥ_), praised (_apūjayan_) with joined palms (_prāñjalayaḥ_) that feat of the great chariot-warrior Rāma.
 </details>
 </details>
 

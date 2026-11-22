@@ -98,7 +98,7 @@ On hearing the essence of Ramayana from Sage Narada, which is abound with probit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that complete narrative (vastu samagram) fraught with dharma and supreme purpose (dharmārthasahitam) and salutary to all beings (hitam), the wise sage sought to explore even more vividly (vyaktam anveṣate bhūyaḥ) the entire conduct and history of that sagacious prince.
+Having heard that complete narrative (_vastu samagram_) fraught with _dharma_ and supreme purpose (_dharmārthasahitam_) and salutary to all beings (_hitam_), the wise sage sought to explore even more vividly (_vyaktam anveṣate bhūyaḥ_) the entire conduct and history of that sagacious prince.
 </details>
 </details>
 
@@ -164,7 +164,7 @@ Comment: Touching/sipping waters *aachamana, pariSechana* , before undertaking
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly sipped water in ritual purification (upaspṛśyodakaṃ samyak) and seated himself with folded hands upon darbha blades pointing eastward (prācīnāgreṣu darbheṣu), the sage through the power of dharma (dharmeṇa) contemplated the entire course of events (gatim).
+Having duly sipped water in ritual purification (_upaspṛśyodakaṃ samyak_) and seated himself with folded hands upon _darbha_ blades pointing eastward (_prācīnāgreṣu darbheṣu_), the sage through the power of _dharma_ (_dharmeṇa_) contemplated the entire course of events (_gatim_).
 </details>
 </details>
 
@@ -231,7 +231,7 @@ Of Rama, Lakshmana and Seetha, also of King Dasharatha and his wives, and what b
 
 **3:** Whatever was truly experienced there by Rāma, Lakṣmaṇa, and Sītā, as well as by King Daśaratha together with his queens and his entire realm—
 
-**4:** Every laugh (hasitam), every utterance (bhāṣitam), every movement (gatiḥ), and every deed and gesture (yāvac ca ceṣṭitam)—all of that he beheld directly as it actually transpired (yathāvat saṃprapaśyati) through the spiritual potency of dharma (dharmavīryeṇa).
+**4:** Every laugh (_hasitam_), every utterance (_bhāṣitam_), every movement (_gatiḥ_), and every deed and gesture (_yāvac ca ceṣṭitam_)—all of that he beheld directly as it actually transpired (_yathāvat saṃprapaśyati_) through the spiritual potency of _dharma_ (_dharmavīryeṇa_).
 </details>
 </details>
 
@@ -293,7 +293,7 @@ Then, that which bechanced on truth-abiding Rama, while he is trekking in forest
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever befell Rāma of unfailing vow (satyasandhena rāmeṇa) while wandering in the forest with his wife Sītā as the third member of their party alongside Lakṣmaṇa (strītṛtīyena)—all that too the sage directly perceived.
+And whatever befell Rāma of unfailing vow (_satyasandhena rāmeṇa_) while wandering in the forest with his wife Sītā as the third member of their party alongside Lakṣmaṇa (_strītṛtīyena_)—all that too the sage directly perceived.
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Then that virtue-souled sage saw what all that has happened earlier, by his yogi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Established in yogic contemplation (yogam āsthitaḥ), that righteous-souled sage then beheld all that had formerly transpired there as clearly as an āmalaka fruit resting upon the palm of one’s hand (pāṇāv āmalakaṃ yathā).
+Established in yogic contemplation (_yogam āsthitaḥ_), that righteous-souled sage then beheld all that had formerly transpired there as clearly as an _āmalaka_ fruit resting upon the palm of one’s hand (_pāṇāv āmalakaṃ yathā_).
 </details>
 </details>
 
@@ -390,7 +390,7 @@ Beholding the entire history of the delightful Rāma, the sage composes the ocea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having perceived all of that in its true essence (tattvataḥ) through dharma, that sage of vast intellect (mahāmatiḥ) set himself to compose the entire history of Rāma, who delights the hearts of all beings (abhirāmasya rāmasya).
+Having perceived all of that in its true essence (_tattvataḥ_) through _dharma_, that sage of vast intellect (_mahāmatiḥ_) set himself to compose the entire history of Rāma, who delights the hearts of all beings (_abhirāmasya rāmasya_).
 </details>
 </details>
 
@@ -502,9 +502,9 @@ That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Endowed with the subordinate attractions of kāma and worldly artha yet expanding the supreme excellences of dharma and mokṣa (dharmārthaguṇavistaram), like the ocean teeming with priceless gems (samudram iva ratnāḍhyam), and captivating to the ears and minds of all (sarvaśrutimanoharam)—
+**8:** Endowed with the subordinate attractions of _kāma_ and worldly _artha_ yet expanding the supreme excellences of _dharma_ and _mokṣa_ (_dharmārthaguṇavistaram_), like the ocean teeming with priceless gems (_samudram iva ratnāḍhyam_), and captivating to the ears and minds of all (_sarvaśrutimanoharam_)—
 
-**9:** Just as had been previously recounted in brief by the great-souled Nārada, the venerable sage composed the history of the dynasty of Raghu (raghuvaṃśasya caritam):
+**9:** Just as had been previously recounted in brief by the great-souled Nārada, the venerable sage composed the history of the dynasty of Raghu (_raghuvaṃśasya caritam_):
 </details>
 </details>
 
@@ -551,7 +551,7 @@ The birth of Rama as an incarnation of Vishnu, his very great valour, his gracef
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The glorious birth of Rāma (janma rāmasya sumahat), his heroic valor, his benevolent disposition toward all creatures (sarvānukūlatām), his universal dearness to the world (lokasya priyatām), his forbearance (kṣāntim), his gentle grace (saumyatām), and his steadfastness in truth (satyaśīlatām);
+The glorious birth of Rāma (_janma rāmasya sumahat_), his heroic valor, his benevolent disposition toward all creatures (_sarvānukūlatām_), his universal dearness to the world (_lokasya priyatām_), his forbearance (_kṣāntim_), his gentle grace (_saumyatām_), and his steadfastness in truth (_satyaśīlatām_);
 </details>
 </details>
 
@@ -602,7 +602,7 @@ Narrated are very many other amusing stories, Rama's breaking the great bow; his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Various wondrous tales and other discourses during his journey in the company of Viśvāmitra (viśvāmitrasahāyane), the wedding of Jānakī (Sītā), and the breaking of the great bow of Śiva;
+Various wondrous tales and other discourses during his journey in the company of Viśvāmitra (_viśvāmitrasahāyane_), the wedding of Jānakī (Sītā), and the breaking of the great bow of Śiva;
 </details>
 </details>
 
@@ -700,11 +700,11 @@ The grief of the subjects; Rama leaving them off; his conversing with tribal chi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** The confrontation between Rāma (Dāśarathi) and Rāma (Paraśurāma) (rāmarāmavivādaṃ ca), the exalted virtues of Daśaratha’s son, the preparations for Rāma’s royal consecration (abhiṣekaṃ rāmasya), and the malicious intent of Kaikeyī (kaikeyyā duṣṭabhāvatām);
+**12:** The confrontation between Rāma (Dāśarathi) and Rāma (Paraśurāma) (_rāmarāmavivādaṃ ca_), the exalted virtues of Daśaratha’s son, the preparations for Rāma’s royal consecration (_abhiṣekaṃ rāmasya_), and the malicious intent of Kaikeyī (_kaikeyyā duṣṭabhāvatām_);
 
-**13:** The thwarting of the royal consecration (vighātaṃ cābhiṣekasya) and the banishment of Rāma to the forest; the King’s grief and lamentation, and his departure to the other world (paralokasya cāśrayam);
+**13:** The thwarting of the royal consecration (_vighātaṃ cābhiṣekasya_) and the banishment of Rāma to the forest; the King’s grief and lamentation, and his departure to the other world (_paralokasya cāśrayam_);
 
-**14:** The sorrow of the citizens (prakṛtīnāṃ viṣādam) and his taking leave of the subjects (prakṛtīnāṃ visarjanam); the dialogue with Guha, lord of the Niṣādas, and the return of the charioteer Sumantra (sūtopāvartanam);
+**14:** The sorrow of the citizens (_prakṛtīnāṃ viṣādam_) and his taking leave of the subjects (_prakṛtīnāṃ visarjanam_); the dialogue with Guha, lord of the Niṣādas, and the return of the charioteer Sumantra (_sūtopāvartanam_);
 </details>
 </details>
 
@@ -1329,55 +1329,55 @@ Comment: In this verse, some take the word *uttare* as Uttara Ramayana, the even
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** The crossing of the sacred Gaṅgā and the visit to Sage Bharadvāja; and, by Bharadvāja’s direction and permission (bharadvājābhyanujñānāt), the arrival at Mount Citrakūṭa;
+**15:** The crossing of the sacred Gaṅgā and the visit to Sage Bharadvāja; and, by Bharadvāja’s direction and permission (_bharadvājābhyanujñānāt_), the arrival at Mount Citrakūṭa;
 
-**16:** The building and ritual consecration of the leaf-hermitage (vāstukarma niveśaṃ ca), the arrival of Bharata, the propitiation of Rāma (prasādanaṃ ca rāmasya), and the offering of funeral libations of water for their departed father (pituś ca salilakriyām);
+**16:** The building and ritual consecration of the leaf-hermitage (_vāstukarma niveśaṃ ca_), the arrival of Bharata, the propitiation of Rāma (_prasādanaṃ ca rāmasya_), and the offering of funeral libations of water for their departed father (_pituś ca salilakriyām_);
 
-**17:** The consecration of the peerless sandals (pādukāgryābhiṣekam) and Bharata’s residence at Nandigrāma; the entry into the Daṇḍaka forest, and the slaying of the rākṣasa Virādha;
+**17:** The consecration of the peerless sandals (_pādukāgryābhiṣekam_) and Bharata’s residence at Nandigrāma; the entry into the Daṇḍaka forest, and the slaying of the rākṣasa Virādha;
 
-**18:** The visit to Sage Śarabhaṅga and the meeting with Sage Sutīkṣṇa; the companionship of Sītā with the holy ascetic Anasūyā (anasūyāsamākhyām), and Anasūyā’s gift of celestial unguents and ornaments (aṅgarāgasya cārpaṇam);
+**18:** The visit to Sage Śarabhaṅga and the meeting with Sage Sutīkṣṇa; the companionship of Sītā with the holy ascetic Anasūyā (_anasūyāsamākhyām_), and Anasūyā’s gift of celestial unguents and ornaments (_aṅgarāgasya cārpaṇam_);
 
-**19:** The visit to Sage Agastya and the receiving of the divine Vaiṣṇava bow from him; the encounter and dialogue with Śūrpaṇakhā, and her disfigurement (virūpakaraṇam);
+**19:** The visit to Sage Agastya and the receiving of the divine Vaiṣṇava bow from him; the encounter and dialogue with Śūrpaṇakhā, and her disfigurement (_virūpakaraṇam_);
 
-**20:** The slaying of Khara and Triśiras, and the rousing of Rāvaṇa to action (utthānaṃ rāvaṇasya); the slaying of Mārīca, and the abduction of Vaidehī (Sītā);
+**20:** The slaying of Khara and Triśiras, and the rousing of Rāvaṇa to action (_utthānaṃ rāvaṇasya_); the slaying of Mārīca, and the abduction of Vaidehī (Sītā);
 
-**21:** The lamentation of Rāghava and the slaying of the vulture-king Jaṭāyu (gṛdhrarājanibarhaṇam); the encounter with Kabandha, and the arrival at the lotus-lake Pampā;
+**21:** The lamentation of Rāghava and the slaying of the vulture-king Jaṭāyu (_gṛdhrarājanibarhaṇam_); the encounter with Kabandha, and the arrival at the lotus-lake Pampā;
 
-**22:** The visit to the ascetic devotee Śabarī and the partaking of her offering of fruits and roots (phalamūlāśanam); Rāma’s lament by Lake Pampā, and the meeting with Hanūmān;
+**22:** The visit to the ascetic devotee Śabarī and the partaking of her offering of fruits and roots (_phalamūlāśanam_); Rāma’s lament by Lake Pampā, and the meeting with Hanūmān;
 
-**23:** The ascent to Mount Ṛṣyamūka and the meeting with Sugrīva; the inspiring of confidence in Sugrīva (pratyayotpādanam), the pact of friendship, and the combat between Vālī and Sugrīva (vālisugrīvavigraham);
+**23:** The ascent to Mount Ṛṣyamūka and the meeting with Sugrīva; the inspiring of confidence in Sugrīva (_pratyayotpādanam_), the pact of friendship, and the combat between Vālī and Sugrīva (_vālisugrīvavigraham_);
 
-**24:** The crushing of Vālī (vālipramathanam) and the installation of Sugrīva upon the throne (sugrīvapratipādanam); the lamentation of Queen Tārā, the agreed compact for the search after the rains (samayam), and Rāma’s residence on Mount Prasravaṇa during the monsoon season (varṣarātranivāsanam);
+**24:** The crushing of Vālī (_vālipramathanam_) and the installation of Sugrīva upon the throne (_sugrīvapratipādanam_); the lamentation of Queen Tārā, the agreed compact for the search after the rains (_samayam_), and Rāma’s residence on Mount Prasravaṇa during the monsoon season (_varṣarātranivāsanam_);
 
-**25:** The wrath of Rāma, the lion among the Rāghavas (rāghavasiṃhasya), and the muster of the monkey hosts (balānām upasaṃgraham); the dispatching of search-parties to the four quarters, and Sugrīva’s geographical description of the earth (pṛthivyāś ca nivedanam);
+**25:** The wrath of Rāma, the lion among the Rāghavas (_rāghavasiṃhasya_), and the muster of the monkey hosts (_balānām upasaṃgraham_); the dispatching of search-parties to the four quarters, and Sugrīva’s geographical description of the earth (_pṛthivyāś ca nivedanam_);
 
-**26:** Rāma’s bestowal of his signet ring upon Hanumān (aṅgulīyakadānam), the entry into the subterranean cavern of Ṛkṣabila (ṛkṣasya biladarśanam), the monkeys’ fast unto death on the shore (prāyopaveśanam), and the meeting with the vulture Sampāti;
+**26:** Rāma’s bestowal of his signet ring upon Hanumān (_aṅgulīyakadānam_), the entry into the subterranean cavern of Ṛkṣabila (_ṛkṣasya biladarśanam_), the monkeys’ fast unto death on the shore (_prāyopaveśanam_), and the meeting with the vulture Sampāti;
 
-**27:** Hanumān’s ascent of Mount Mahendra and his leap across the ocean; and, at the bidding of the Ocean-god (samudravacanāc caiva), the rising and sighting of Mount Maināka;
+**27:** Hanumān’s ascent of Mount Mahendra and his leap across the ocean; and, at the bidding of the Ocean-god (_samudravacanāc caiva_), the rising and sighting of Mount Maināka;
 
-**28:** The rebuking of the female rākṣasas (Surasā and Laṅkinī), the sighting of the shadow-seizing monster (chāyāgrāhasya darśanam), the slaying of Siṃhikā, and the sighting of Mount Malaya (Trikūṭa) in Laṅkā;
+**28:** The rebuking of the female rākṣasas (Surasā and Laṅkinī), the sighting of the shadow-seizing monster (_chāyāgrāhasya darśanam_), the slaying of Siṃhikā, and the sighting of Mount Malaya (Trikūṭa) in Laṅkā;
 
-**29:** The entry into Laṅkā by night and the solitary deliberation of Hanumān alone (ekasyāpi vicintanam); his going to Rāvaṇa’s banquet-hall (āpānabhūmigamanam) and his survey of the royal inner apartments (avarodhasya darśanam);
+**29:** The entry into Laṅkā by night and the solitary deliberation of Hanumān alone (_ekasyāpi vicintanam_); his going to Rāvaṇa’s banquet-hall (_āpānabhūmigamanam_) and his survey of the royal inner apartments (_avarodhasya darśanam_);
 
-**30:** The sighting of Rāvaṇa and of the aerial chariot Puṣpaka; the entry into the Aśoka grove (aśokavanikāyānam), and the blessed discovery of Sītā (sītāyāś cāpi darśanam);
+**30:** The sighting of Rāvaṇa and of the aerial chariot _Puṣpaka_; the entry into the Aśoka grove (_aśokavanikāyānam_), and the blessed discovery of Sītā (_sītāyāś cāpi darśanam_);
 
-**31:** The presentation of Rāma’s token of recognition (abhijñānapradānam) and the conversation with Sītā; the menacing of Sītā by the rākṣasa women (rākṣasītarjanam), and the prophetic dream of Trijaṭā (trijaṭāsvapnadarśanam);
+**31:** The presentation of Rāma’s token of recognition (_abhijñānapradānam_) and the conversation with Sītā; the menacing of Sītā by the rākṣasa women (_rākṣasītarjanam_), and the prophetic dream of Trijaṭā (_trijaṭāsvapnadarśanam_);
 
-**32:** Sītā’s bestowal of her crest-jewel (maṇipradānaṃ sītāyāḥ) and the shattering of the trees of the Aśoka grove (vṛkṣabhaṅgam); the terrified flight of the rākṣasa women (rākṣasīvidravam), and the slaughter of Rāvaṇa’s Kiṅkara guards;
+**32:** Sītā’s bestowal of her crest-jewel (_maṇipradānaṃ sītāyāḥ_) and the shattering of the trees of the Aśoka grove (_vṛkṣabhaṅgam_); the terrified flight of the rākṣasa women (_rākṣasīvidravam_), and the slaughter of Rāvaṇa’s _Kiṅkara_ guards;
 
-**33:** The capture of Vāyu’s son Hanumān (by Indrajit’s brahmāstra) and the roaring amid the burning of Laṅkā (laṅkādāhābhigarjanam); his leap back across the ocean (pratiplavanam), and the seizing of the honey in the Madhuvana grove;
+**33:** The capture of Vāyu’s son Hanumān (by Indrajit’s _brahmāstra_) and the roaring amid the burning of Laṅkā (_laṅkādāhābhigarjanam_); his leap back across the ocean (_pratiplavanam_), and the seizing of the honey in the Madhuvana grove;
 
-**34:** The consoling of Rāghava (rāghavāśvāsanam) and the delivery of Sītā’s crest-jewel (maṇiniryātanam); Rāma’s meeting with the Ocean-god, and the building of the causeway by Nala (nalasetoś ca bandhanam);
+**34:** The consoling of Rāghava (_rāghavāśvāsanam_) and the delivery of Sītā’s crest-jewel (_maṇiniryātanam_); Rāma’s meeting with the Ocean-god, and the building of the causeway by Nala (_nalasetoś ca bandhanam_);
 
-**35:** The crossing of the ocean, the siege of Laṅkā by night (rātrau laṅkāvarodhanam), the alliance with Vibhīṣaṇa (vibhīṣaṇena saṃsargam), and Vibhīṣaṇa’s disclosure of the means to slay the rākṣasa chiefs (vadhopāyanivedanam);
+**35:** The crossing of the ocean, the siege of Laṅkā by night (_rātrau laṅkāvarodhanam_), the alliance with Vibhīṣaṇa (_vibhīṣaṇena saṃsargam_), and Vibhīṣaṇa’s disclosure of the means to slay the rākṣasa chiefs (_vadhopāyanivedanam_);
 
-**36:** The slaying of Kumbhakarṇa, the destruction of Meghanāda (Indrajit), the annihilation of Rāvaṇa, and the recovery of Sītā inside the very citadel of the foe (sītāvāptim areḥ pure);
+**36:** The slaying of Kumbhakarṇa, the destruction of Meghanāda (Indrajit), the annihilation of Rāvaṇa, and the recovery of Sītā inside the very citadel of the foe (_sītāvāptim areḥ pure_);
 
-**37:** The consecration of Vibhīṣaṇa as King of Laṅkā, the sighting of the Puṣpaka aerial chariot, the return journey toward Ayodhyā, and the meeting with Sage Bharadvāja;
+**37:** The consecration of Vibhīṣaṇa as King of Laṅkā, the sighting of the _Puṣpaka_ aerial chariot, the return journey toward Ayodhyā, and the meeting with Sage Bharadvāja;
 
-**38:** The dispatching of Vāyu’s son Hanumān ahead and the joyful reunion with Bharata; the grand festival of Rāma’s imperial consecration (rāmābhiṣekābhyudayam), the dismissal of all the allied armies to their homes, the gladdening of his own kingdom (svarāṣṭrarañjanam), and the subsequent banishment of Vaidehī (vaidehyāś ca visarjanam).
+**38:** The dispatching of Vāyu’s son Hanumān ahead and the joyful reunion with Bharata; the grand festival of Rāma’s imperial consecration (_rāmābhiṣekābhyudayam_), the dismissal of all the allied armies to their homes, the gladdening of his own kingdom (_svarāṣṭrarañjanam_), and the subsequent banishment of Vaidehī (_vaidehyāś ca visarjanam_).
 
-**39:** And whatever future events (anāgataṃ ca yat kiṃcit) remained to transpire for Rāma upon the face of the earth—all that the venerable sage Vālmīki composed in the concluding book of the poem (uttare kāvye).
+**39:** And whatever future events (_anāgataṃ ca yat kiṃcit_) remained to transpire for Rāma upon the face of the earth—all that the venerable sage Vālmīki composed in the concluding book of the poem (_uttare kāvye_).
 </details>
 </details>
 

@@ -63,7 +63,7 @@ Laughing grimly at Rāvaṇa's lamentation, Kumbhakarṇa rebukes his brother fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the lamentation (paridevitam) of that king of the Rākṣasas, Kumbhakarṇa laughed aloud (prajahāsa ca) and spoke these words:
+Hearing the lamentation (_paridevitam_) of that king of the Rākṣasas, Kumbhakarṇa laughed aloud (_prajahāsa ca_) and spoke these words:
 </details>
 </details>
 
@@ -97,7 +97,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very calamity (doṣaḥ) which was foreseen by us of old at the conclusion of our counsel (mantravinirṇaye) has now been encountered by you, who ignored those devoted to your welfare (hiteṣv anabhiruktena).”
+“That very calamity (_doṣaḥ_) which was foreseen by us of old at the conclusion of our counsel (_mantravinirṇaye_) has now been encountered by you, who ignored those devoted to your welfare (_hiteṣv anabhiruktena_).”
 </details>
 </details>
 
@@ -152,7 +152,7 @@ sinful act has indeed reached your fast."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Swiftly indeed has the fruit of your sinful deed (pāpasya karmaṇaḥ) overtaken you, just as falling into the hells (nirayeṣv eva patanam) overtakes the doer of evil!”
+“Swiftly indeed has the fruit of your sinful deed (_pāpasya karmaṇaḥ_) overtaken you, just as falling into the hells (_nirayeṣv eva patanam_) overtakes the doer of evil!”
 </details>
 </details>
 
@@ -204,7 +204,7 @@ this consequence, only because of your sheer arrogance of power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the very outset (prathamaṃ vai), O great King, this course of action was left unpondered (acintitam); through sheer pride of valour (vīryadarpeṇa), its consequence (anubandhaḥ) was never weighed.”
+“At the very outset (_prathamaṃ vai_), O great King, this course of action was left unpondered (_acintitam_); through sheer pride of valour (_vīryadarpeṇa_), its consequence (_anubandhaḥ_) was never weighed.”
 </details>
 </details>
 
@@ -251,7 +251,7 @@ to be done later, at an early stage, does not know what is a right course and wh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, resting upon his royal power (aiśvaryam āsthitaḥ), performs initial duties afterwards and subsequent duties first (pūrvaṃ cottarakāryāṇi), knows neither sound policy nor impolicy (nayānayau).”
+“He who, resting upon his royal power (_aiśvaryam āsthitaḥ_), performs initial duties afterwards and subsequent duties first (_pūrvaṃ cottarakāryāṇi_), knows neither sound policy nor impolicy (_nayānayau_).”
 </details>
 </details>
 
@@ -296,7 +296,7 @@ without properly making the fire well-prepared."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Actions performed out of sequence (viparītavat), devoid of proper place and time (deśakālavihīnāni), are spoiled like oblations offered into unsanctified fires (havīṃṣy aprayateṣv iva).”
+“Actions performed out of sequence (_viparītavat_), devoid of proper place and time (_deśakālavihīnāni_), are spoiled like oblations offered into unsanctified fires (_havīṃṣy aprayateṣv iva_).”
 </details>
 </details>
 
@@ -367,7 +367,7 @@ of success.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, having established a firm resolution (samayaṃ kṛtvā) with his ministers, masters the fivefold application (pañcadhā yogam) of the three courses of action (trayāṇāṃ karmaṇām), walks truly upon the right path.”
+“He who, having established a firm resolution (_samayaṃ kṛtvā_) with his ministers, masters the fivefold application (_pañcadhā yogam_) of the three courses of action (_trayāṇāṃ karmaṇām_), walks truly upon the right path.”
 </details>
 </details>
 
@@ -419,7 +419,7 @@ intellect as well as the counsellors and discovers it through his friends, is on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that king who desires to determine his course according to the treatises of statecraft (yathāgamaṃ ca), discerns through his intellect with his ministers and recognizes his true friends (suhṛdaś cānupaśyati).”
+“And that king who desires to determine his course according to the treatises of statecraft (_yathāgamaṃ ca_), discerns through his intellect with his ministers and recognizes his true friends (_suhṛdaś cānupaśyati_).”
 </details>
 </details>
 
@@ -481,7 +481,7 @@ in the afternoon and sensuous pleasure at night. As an alternative, one is calle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the proper time (kāle), O Lord of Rākṣasas, a man should pursue righteousness, wealth, or pleasure (dharmam arthaṃ hi kāmaṃ vā), or all three, or again the three pairs (trīṇi dvandvāni vā punaḥ).”
+“At the proper time (_kāle_), O Lord of Rākṣasas, a man should pursue righteousness, wealth, or pleasure (_dharmam arthaṃ hi kāmaṃ vā_), or all three, or again the three pairs (_trīṇi dvandvāni vā punaḥ_).”
 </details>
 </details>
 
@@ -544,7 +544,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whoever—whether a reigning king or one of royal standing (rājā vā rājamātro vā)—hears which among these three is supreme (yac chreṣṭham) and yet fails to comprehend it, for him all his wide learning is in vain (vyarthaṃ tasya bahuśrutam).”
+“Whoever—whether a reigning king or one of royal standing (_rājā vā rājamātro vā_)—hears which among these three is supreme (_yac chreṣṭham_) and yet fails to comprehend it, for him all his wide learning is in vain (_vyarthaṃ tasya bahuśrutam_).”
 </details>
 </details>
 
@@ -615,9 +615,9 @@ the appropriate time, that intelligent person never confronts a misfortune in th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Bestowal of gifts (upapradānam), conciliation (sāntvam), dissension (bhedam), and valorous force (vikramam) at the right time, as well as their combination (yogam), O foremost of Rākṣasas, and both policy and impolicy (tāv ubhau ca nayānayau)—”
+**11:** “Bestowal of gifts (_upapradānam_), conciliation (_sāntvam_), dissension (_bhedam_), and valorous force (_vikramam_) at the right time, as well as their combination (_yogam_), O foremost of Rākṣasas, and both policy and impolicy (_tāv ubhau ca nayānayau_)—”
 
-**12:** “—he who, self-possessed (ātmavān), deliberates with his ministers and practises righteousness, wealth, and pleasure in their proper season (kāle dharmārthakāmān), never meets with calamity (vyasanam) in this world.”
+**12:** “—he who, self-possessed (_ātmavān_), deliberates with his ministers and practises righteousness, wealth, and pleasure in their proper season (_kāle dharmārthakāmān_), never meets with calamity (_vyasanam_) in this world.”
 </details>
 </details>
 
@@ -673,7 +673,7 @@ the things."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having weighed the salutary consequence (hitānubandham ālokya), a king should accomplish his purpose here together with ministers who know the true nature of affairs (arthatattvajñaiḥ) and live by their intellect (buddhijīvibhiḥ).”
+“Having weighed the salutary consequence (_hitānubandham ālokya_), a king should accomplish his purpose here together with ministers who know the true nature of affairs (_arthatattvajñaiḥ_) and live by their intellect (_buddhijīvibhiḥ_).”
 </details>
 </details>
 
@@ -728,7 +728,7 @@ without fully knowing the precepts of the scriptures."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without comprehending the import of the treatises (anabhijñāya śāstrārthān), men of beastly intellect (paśubuddhayaḥ), once admitted into the inner circle of counsellors (mantriṣv abhyantarīkṛtāḥ), desire to speak out of sheer audacity (prāgalbhyāt).”
+“Without comprehending the import of the treatises (_anabhijñāya śāstrārthān_), men of beastly intellect (_paśubuddhayaḥ_), once admitted into the inner circle of counsellors (_mantriṣv abhyantarīkṛtāḥ_), desire to speak out of sheer audacity (_prāgalbhyāt_).”
 </details>
 </details>
 
@@ -777,7 +777,7 @@ books dealing with practical life and who covet for abundant wealth are not to b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The speech uttered by those who are ignorant of the treatises (aśāstraviduṣām) and unacquainted with the science of polity (arthaśāstrānabhijñānām), yet who covet vast fortune, must never be acted upon.”
+“The speech uttered by those who are ignorant of the treatises (_aśāstraviduṣām_) and unacquainted with the science of polity (_arthaśāstrānabhijñānām_), yet who covet vast fortune, must never be acted upon.”
 </details>
 </details>
 
@@ -826,7 +826,7 @@ kept out of deliberations, as they certainly spoil the work to be done."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And those men who insolently prattle (dhārṣṭyāj jalpanti) what is injurious under the guise of what is salutary (ahitaṃ ca hitākāram)—those spoilers of state affairs (kṛtyadūṣakāḥ) must certainly be excluded from counsel (mantrabāhyāḥ).”
+“And those men who insolently prattle (_dhārṣṭyāj jalpanti_) what is injurious under the guise of what is salutary (_ahitaṃ ca hitākāram_)—those spoilers of state affairs (_kṛtyadūṣakāḥ_) must certainly be excluded from counsel (_mantrabāhyāḥ_).”
 </details>
 </details>
 
@@ -872,7 +872,7 @@ them do wrong deeds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bringing ruin upon their master (vināśayanto bhartāram), such ministers, leagued with clever enemies (sahitāḥ śatrubhir budhaiḥ), cause perverted measures (viparītāni kṛtyāni) to be enacted here.”
+“Bringing ruin upon their master (_vināśayanto bhartāram_), such ministers, leagued with clever enemies (_sahitāḥ śatrubhir budhaiḥ_), cause perverted measures (_viparītāni kṛtyāni_) to be enacted here.”
 </details>
 </details>
 
@@ -923,7 +923,7 @@ when a final decision is being taken after deliberation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the determination of counsel (mantranirṇaye), a master should recognize through their conduct (vyavahāreṇa jānīyāt) those suborned ministers (sacivān upasaṃhitān) who are enemies wearing the semblance of friends (mitrasaṃkāśān amitrān).”
+“In the determination of counsel (_mantranirṇaye_), a master should recognize through their conduct (_vyavahāreṇa jānīyāt_) those suborned ministers (_sacivān upasaṃhitān_) who are enemies wearing the semblance of friends (_mitrasaṃkāśān amitrān_).”
 </details>
 </details>
 
@@ -985,7 +985,7 @@ of gods) in the Kruancha mountain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When a rash ruler (capalasya) headlong pursues enterprises here without reflection (sahasānupradhāvataḥ), others [his foes] enter into his vulnerable weak point (chidram anye prapadyante), just as birds fly through the cleft of Mount Krauñca (krauñcasya kham iva dvijāḥ).”
+“When a rash ruler (_capalasya_) headlong pursues enterprises here without reflection (_sahasānupradhāvataḥ_), others [his foes] enter into his vulnerable weak point (_chidram anye prapadyante_), just as birds fly through the cleft of Mount Krauñca (_krauñcasya kham iva dvijāḥ_).”
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ occurrences and would be removed from his position."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For he who, despising his enemy (śatrum avajñāya), fails to guard himself (ātmānaṃ nābhirakṣati), surely incurs calamities (anarthān) and is cast down from his royal station (sthānāc ca vyavaropyate).”
+“For he who, despising his enemy (_śatrum avajñāya_), fails to guard himself (_ātmānaṃ nābhirakṣati_), surely incurs calamities (_anarthān_) and is cast down from his royal station (_sthānāc ca vyavaropyate_).”
 </details>
 </details>
 
@@ -1089,7 +1089,7 @@ whatever you wish to do."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That which was spoken to you here before by my beloved [queen Mandodarī] and by my younger brother [Vibhīṣaṇa]—that word alone is salutary for us (no hitaṃ vākyam); yet do as you wish (yathecchasi tathā kuru)!”
+“That which was spoken to you here before by my beloved [queen Mandodarī] and by my younger brother [Vibhīṣaṇa]—that word alone is salutary for us (_no hitaṃ vākyam_); yet do as you wish (_yathecchasi tathā kuru_)!”
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ anger and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Kumbhakarṇa, Daśagrīva knit his brows in a frown (bhrukuṭiṃ caiva saṃcakre) and, filled with wrath, spoke to him:
+Hearing that speech of Kumbhakarṇa, Daśagrīva knit his brows in a frown (_bhrukuṭiṃ caiva saṃcakre_) and, filled with wrath, spoke to him:
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ of your speech? Let a work, most befitting of time, be performed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Like a venerable elder or a preceptor (mānyo gurur ivācāryaḥ), why do you lecture me (kiṃ māṃ tvam anuśāsase)? What is the use of exhausting your voice thus (vākśramaṃ kṛtvā)? Let that which is fitting now be done!”
+“Like a venerable elder or a preceptor (_mānyo gurur ivācāryaḥ_), why do you lecture me (_kiṃ māṃ tvam anuśāsase_)? What is the use of exhausting your voice thus (_vākśramaṃ kṛtvā_)? Let that which is fitting now be done!”
 </details>
 </details>
 
@@ -1243,7 +1243,7 @@ mistake or by an illusion of mind or by taking shelter in strength and prowess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That which was not undertaken at the time—whether through error (vibhramāt), delusion of mind (cittamohāt), or reliance upon strength and valour (balavīryāśrayeṇa vā)—of what avail is further talk of it now (vyarthā tasya punaḥ kathā)?”
+“That which was not undertaken at the time—whether through error (_vibhramāt_), delusion of mind (_cittamohāt_), or reliance upon strength and valour (_balavīryāśrayeṇa vā_)—of what avail is further talk of it now (_vyarthā tasya punaḥ kathā_)?”
 </details>
 </details>
 
@@ -1304,7 +1304,7 @@ over the past. Past is indeed but the past."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let that alone which is fitting at this hour be considered now (tad idānīṃ vicintyatām); men do not mourn what is past, for what is gone is gone indeed (gataṃ tu gatam eva hi)!”
+“Let that alone which is fitting at this hour be considered now (_tad idānīṃ vicintyatām_); men do not mourn what is past, for what is gone is gone indeed (_gataṃ tu gatam eva hi_)!”
 </details>
 </details>
 
@@ -1362,7 +1362,7 @@ wicked conduct, by your prowess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Repair by your valour (vikrameṇa samīkuru) the disaster born of my impolicy (mamāpanayajaṃ doṣam), if indeed you bear affection for me or understand what valour demands (vikramaṃ vādhigacchasi)—”
+“Repair by your valour (_vikrameṇa samīkuru_) the disaster born of my impolicy (_mamāpanayajaṃ doṣam_), if indeed you bear affection for me or understand what valour demands (_vikramaṃ vādhigacchasi_)—”
 </details>
 </details>
 
@@ -1412,7 +1412,7 @@ who is ready at hand to help those who have deviated from the right course, is a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—or if this task of mine is deemed in your heart the most urgent of duties (hṛdi kāryatamaṃ matam)! He alone is a true friend who succours a downcast comrade whose affairs are ruined (yo vipannārthaṃ dīnam abhyupapadyate);”
+“—or if this task of mine is deemed in your heart the most urgent of duties (_hṛdi kāryatamaṃ matam_)! He alone is a true friend who succours a downcast comrade whose affairs are ruined (_yo vipannārthaṃ dīnam abhyupapadyate_);”
 </details>
 </details>
 
@@ -1468,7 +1468,7 @@ is quite enraged, Kumbhakarna spoke slowly and smoothly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and he alone is a true kinsman (sa bandhuḥ) who comes forward to render aid when policies have miscarried (apanīteṣu). Hearing him speak thus in words both grave and harsh (vacanaṃ dhīradāruṇam)—”
+“—and he alone is a true kinsman (_sa bandhuḥ_) who comes forward to render aid when policies have miscarried (_apanīteṣu_). Hearing him speak thus in words both grave and harsh (_vacanaṃ dhīradāruṇam_)—”
 </details>
 </details>
 
@@ -1531,7 +1531,7 @@ well-wishers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and perceiving, ‘He is incensed (ruṣṭo 'yam)!’, [Kumbhakarṇa] spoke gently and soothingly (śanaiḥ ślakṣṇam uvāca ha); for seeing his brother's senses sorely agitated (kṣubhitendriyam)—”
+“—and perceiving, ‘He is incensed (_ruṣṭo &#x27;yam_)!’, [Kumbhakarṇa] spoke gently and soothingly (_śanaiḥ ślakṣṇam uvāca ha_); for seeing his brother&#x27;s senses sorely agitated (_kṣubhitendriyam_)—”
 </details>
 </details>
 
@@ -1596,9 +1596,9 @@ your normal self again."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** “—Kumbhakarṇa softly spoke these words to console him (parisāntvayan): ‘Hear my words with an attentive mind (avahitaḥ), O King, tamer of foes!’”
+**30:** “—Kumbhakarṇa softly spoke these words to console him (_parisāntvayan_): ‘Hear my words with an attentive mind (_avahitaḥ_), O King, tamer of foes!’”
 
-**31:** “Enough of giving way to anguish (alaṃ saṃtāpam upapadya), O sovereign of Rākṣasa kings! Casting aside your wrath as well, you ought to recover your composure (svastho bhavitum arhasi).”
+**31:** “Enough of giving way to anguish (_alaṃ saṃtāpam upapadya_), O sovereign of Rākṣasa kings! Casting aside your wrath as well, you ought to recover your composure (_svastho bhavitum arhasi_).”
 </details>
 </details>
 
@@ -1653,7 +1653,7 @@ for whose account, you are feeling anguished."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You must not take this to heart (naitan manasi kartavyam) while I live, O monarch; I shall destroy him on whose account you are tormented (yatkṛte paritapyate)!”
+“You must not take this to heart (_naitan manasi kartavyam_) while I live, O monarch; I shall destroy him on whose account you are tormented (_yatkṛte paritapyate_)!”
 </details>
 </details>
 
@@ -1705,7 +1705,7 @@ to you. I gave this advice, because of our relation and brotherly affection."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is salutary (hitam) must necessarily be spoken by me to you in every circumstance (sarvāvastham), O King, uttered out of kinship (bandhubhāvāt) and fraternal affection (bhrātṛsnehāc ca).”
+“What is salutary (_hitam_) must necessarily be spoken by me to you in every circumstance (_sarvāvastham_), O King, uttered out of kinship (_bandhubhāvāt_) and fraternal affection (_bhrātṛsnehāc ca_).”
 </details>
 </details>
 
@@ -1754,7 +1754,7 @@ the destruction of adversaries in battle, will be done by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever is fitting for an affectionate kinsman to accomplish at this critical hour (kāle 'smin)—behold now the slaughter of your enemies (śatrūṇāṃ kadanam) wrought by me in battle!”
+“And whatever is fitting for an affectionate kinsman to accomplish at this critical hour (_kāle &#x27;smin_)—behold now the slaughter of your enemies (_śatrūṇāṃ kadanam_) wrought by me in battle!”
 </details>
 </details>
 
@@ -1800,7 +1800,7 @@ brother being killed by me in the fore-front of the battle-field."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold today, O mighty-armed one, the monkey host fleeing (dravantīṃ harivāhinīm) when Rāma, together with his brother, is slain by me at the forefront of battle (samaramūrdhani)!”
+“Behold today, O mighty-armed one, the monkey host fleeing (_dravantīṃ harivāhinīm_) when Rāma, together with his brother, is slain by me at the forefront of battle (_samaramūrdhani_)!”
 </details>
 </details>
 
@@ -1852,7 +1852,7 @@ the battle. Let Seetha be unhappy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding today that head of Rāma brought back by me from the battlefield (mayānītaṃ raṇāc chiraḥ), be happy, O mighty-armed one, and let Sītā be plunged into grief (sītā bhavatu duḥkhitā)!”
+“Beholding today that head of Rāma brought back by me from the battlefield (_mayānītaṃ raṇāc chiraḥ_), be happy, O mighty-armed one, and let Sītā be plunged into grief (_sītā bhavatu duḥkhitā_)!”
 </details>
 </details>
 
@@ -1906,7 +1906,7 @@ of the most beloved Rama today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let all those Rākṣasas in Laṅkā whose kinsmen have been slain (nihatabāndhavāḥ) behold today the most welcome death of Rāma (rāmasya nidhanaṃ sumahat priyam)!”
+“Let all those Rākṣasas in Laṅkā whose kinsmen have been slain (_nihatabāndhavāḥ_) behold today the most welcome death of Rāma (_rāmasya nidhanaṃ sumahat priyam_)!”
 </details>
 </details>
 
@@ -1952,7 +1952,7 @@ grief and lamenting because of the destruction of their relatives in combat by t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By destroying the enemy in battle today, I shall wipe away the tears (karomy aśrupramārjanam) of those who are overwhelmed with grief and mourning the slaughter of their kinsmen (svabandhuvadhaśocinām)!”
+“By destroying the enemy in battle today, I shall wipe away the tears (_karomy aśrupramārjanam_) of those who are overwhelmed with grief and mourning the slaughter of their kinsmen (_svabandhuvadhaśocinām_)!”
 </details>
 </details>
 
@@ -1998,7 +1998,7 @@ cloud illuminated by the sun, thrown about, dissipated."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold today in battle Sugrīva, lord of the monkeys (plavageśvaram), who resembles a mountain, rent asunder like a thundercloud together with the sun (sasūryam iva toyadam)!”
+“Behold today in battle Sugrīva, lord of the monkeys (_plavageśvaram_), who resembles a mountain, rent asunder like a thundercloud together with the sun (_sasūryam iva toyadam_)!”
 </details>
 </details>
 
@@ -2050,7 +2050,7 @@ and by me, who are desirous of killing Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And how, O sinless one (anagha), when consoled by these Rākṣasas and by me (mayā ca parisāntvitaḥ), who are eager to slay the son of Daśaratha (jighāṃsubhir dāśarathim), do you continually despair (vyathase)?”
+“And how, O sinless one (_anagha_), when consoled by these Rākṣasas and by me (_mayā ca parisāntvitaḥ_), who are eager to slay the son of Daśaratha (_jighāṃsubhir dāśarathim_), do you continually despair (_vyathase_)?”
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ I do not regret for myself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only after slaying me, forsooth (māṃ nihatya kila), could Rāghava slay you; and as for myself, O Lord of Rākṣasas, I feel no anxiety on my own account (nāham ātmani saṃtāpaṃ gaccheyam)!”
+“Only after slaying me, forsooth (_māṃ nihatya kila_), could Rāghava slay you; and as for myself, O Lord of Rākṣasas, I feel no anxiety on my own account (_nāham ātmani saṃtāpaṃ gaccheyam_)!”
 </details>
 </details>
 
@@ -2151,7 +2151,7 @@ even now, as you wish. No other person need be sought, for a dispatch to the bat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Command me even now at your pleasure (kāmaṃ tv idānīm api māṃ vyādiśa), O scorcher of foes; no other warrior need be looked for by you (na paraḥ prekṣaṇīyas te) for battle, O hero of peerless valour!”
+“Command me even now at your pleasure (_kāmaṃ tv idānīm api māṃ vyādiśa_), O scorcher of foes; no other warrior need be looked for by you (_na paraḥ prekṣaṇīyas te_) for battle, O hero of peerless valour!”
 </details>
 </details>
 
@@ -2208,7 +2208,7 @@ those persons, whether he is Indra or Yama or the fire-god to the wind-god or ev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall annihilate (utsādayiṣyāmi) your mighty enemies! Even if they be Śakra, or Yama, or the Fire-God and Wind-God (pāvakamārutau)—”
+“I shall annihilate (_utsādayiṣyāmi_) your mighty enemies! Even if they be Śakra, or Yama, or the Fire-God and Wind-God (_pāvakamārutau_)—”
 </details>
 </details>
 
@@ -2254,7 +2254,7 @@ pike, having pointed tusks and even as I roar."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—I shall fight against them, even Kubera and Varuṇa themselves (kuberavaruṇāv api)! Of me, whose body measures a mountain (girimātraśarīrasya) and who wields a sharp trident (śitaśūladharasya)—”
+“—I shall fight against them, even Kubera and Varuṇa themselves (_kuberavaruṇāv api_)! Of me, whose body measures a mountain (_girimātraśarīrasya_) and who wields a sharp trident (_śitaśūladharasya_)—”
 </details>
 </details>
 
@@ -2303,7 +2303,7 @@ the enemies by me strength alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—as I roar with razor-sharp fangs (nardatas tīkṣṇadaṃṣṭrasya), Purandara [Indra] himself would be terrified (bibhīyād vai puraṃdaraḥ), or even when I have cast aside my weapons and crush foes by sheer main force (mṛdnatas tarasā ripūn)!”
+“—as I roar with razor-sharp fangs (_nardatas tīkṣṇadaṃṣṭrasya_), Purandara [Indra] himself would be terrified (_bibhīyād vai puraṃdaraḥ_), or even when I have cast aside my weapons and crush foes by sheer main force (_mṛdnatas tarasā ripūn_)!”
 </details>
 </details>
 
@@ -2355,7 +2355,7 @@ can kill even Indra, with my bare hands."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No one who desires to live (jijīviṣuḥ) is able to stand facing me (pratimukhaḥ sthātum)—no, neither with javelin (śaktyā), nor with mace, nor with sword, nor with whetted shafts!”
+“No one who desires to live (_jijīviṣuḥ_) is able to stand facing me (_pratimukhaḥ sthātum_)—no, neither with javelin (_śaktyā_), nor with mace, nor with sword, nor with whetted shafts!”
 </details>
 </details>
 
@@ -2401,7 +2401,7 @@ of arrows will drink the blood of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rushing forward in fury (saṃrabhya), with my bare hands alone (hastābhyām eva) I could slay even the wielder of the thunderbolt (savajriṇam)! If that Rāghava endures the impact of my fist today (yadi me muṣṭivegaṃ sa rāghavo 'dya sahiṣyati)—”
+“Rushing forward in fury (_saṃrabhya_), with my bare hands alone (_hastābhyām eva_) I could slay even the wielder of the thunderbolt (_savajriṇam_)! If that Rāghava endures the impact of my fist today (_yadi me muṣṭivegaṃ sa rāghavo &#x27;dya sahiṣyati_)—”
 </details>
 </details>
 
@@ -2447,7 +2447,7 @@ for the destruction of your enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—then floods of my arrows (bāṇaughāḥ) shall drink the blood of Rāghava! Why, O King, are you tormented by anxiety while I stand here (mayi tiṣṭhati)?”
+“—then floods of my arrows (_bāṇaughāḥ_) shall drink the blood of Rāghava! Why, O King, are you tormented by anxiety while I stand here (_mayi tiṣṭhati_)?”
 </details>
 </details>
 
@@ -2486,7 +2486,7 @@ Ready to march forth, Kumbhakarṇa vows to slay Rāma, Lakṣmaṇa, Sugrīva, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here I stand ready to sally forth (niryātum udyataḥ) for the destruction of your enemies! Cast off your dreadful fear of Rāma (muñca rāmād bhayaṃ ghoram); I shall slay in battle—”
+“Here I stand ready to sally forth (_niryātum udyataḥ_) for the destruction of your enemies! Cast off your dreadful fear of Rāma (_muñca rāmād bhayaṃ ghoram_); I shall slay in battle—”
 </details>
 </details>
 
@@ -2554,9 +2554,9 @@ tremendous and extraordinary reputation for you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**50:** “—Rāghava, and Lakṣmaṇa as well, and the mighty Sugrīva, and Hanūmān the slayer of Rākṣasas (rakṣoghnam), by whom Laṅkā was set ablaze (yena laṅkā pradīpitā)!”
+**50:** “—Rāghava, and Lakṣmaṇa as well, and the mighty Sugrīva, and Hanūmān the slayer of Rākṣasas (_rakṣoghnam_), by whom Laṅkā was set ablaze (_yena laṅkā pradīpitā_)!”
 
-**51:** “And when battle is joined (saṃyuge samupasthite), I shall devour the monkeys; I wish to bestow upon you a vast and matchless renown (asādhāraṇam icchāmi tava dātuṃ mahad yaśaḥ)!”
+**51:** “And when battle is joined (_saṃyuge samupasthite_), I shall devour the monkeys; I wish to bestow upon you a vast and matchless renown (_asādhāraṇam icchāmi tava dātuṃ mahad yaśaḥ_)!”
 </details>
 </details>
 
@@ -2610,7 +2610,7 @@ the sun removes darkness of the night. When I am enraged, even celestials will l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if your fear comes from Indra, O King, or even from Svayambhū [Brahmā] himself, I shall dispel it just as the sun dispels the darkness of night (naiśaṃ tama ivāṃśumān)!”
+“Even if your fear comes from Indra, O King, or even from Svayambhū [Brahmā] himself, I shall dispel it just as the sun dispels the darkness of night (_naiśaṃ tama ivāṃśumān_)!”
 </details>
 </details>
 
@@ -2662,7 +2662,7 @@ cause the sun along with the stars to fall asunder on the floor."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When I am enraged (mayi kruddhe), even the Gods shall lie prostrate upon the face of the earth (devāḥ śayiṣyante mahītale); I shall quell Yama himself and devour the Fire-God (bhakṣayiṣyāmi pāvakam)!”
+“When I am enraged (_mayi kruddhe_), even the Gods shall lie prostrate upon the face of the earth (_devāḥ śayiṣyante mahītale_); I shall quell Yama himself and devour the Fire-God (_bhakṣayiṣyāmi pāvakam_)!”
 </details>
 </details>
 
@@ -2722,7 +2722,7 @@ powder. I shall tear up the earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall hurl the Sun together with the constellations (ādityaṃ sanakṣatram) down upon the face of the earth! I shall slay Śatakratu [Indra] and drink dry the ocean, the abode of Varuṇa (pāsyāmi varuṇālayam)!”
+“I shall hurl the Sun together with the constellations (_ādityaṃ sanakṣatram_) down upon the face of the earth! I shall slay Śatakratu [Indra] and drink dry the ocean, the abode of Varuṇa (_pāsyāmi varuṇālayam_)!”
 </details>
 </details>
 
@@ -2786,9 +2786,9 @@ who slept for a long time. The entire heaven is not enough for my food."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**55:** “I shall pulverize the mountains (parvatāṃś cūrṇayiṣyāmi) and cleave the earth asunder (dārayiṣyāmi medinīm)! The valour of Kumbhakarṇa, who has slept for so long a time (dīrghakālaṃ prasuptasya)—”
+**55:** “I shall pulverize the mountains (_parvatāṃś cūrṇayiṣyāmi_) and cleave the earth asunder (_dārayiṣyāmi medinīm_)! The valour of Kumbhakarṇa, who has slept for so long a time (_dīrghakālaṃ prasuptasya_)—”
 
-**56:** “—let all beings behold today as they are devoured on every side (bhakṣyamāṇāni sarvaśaḥ)! Even the whole of this triple heaven (tridivaṃ sarvam) does not suffice to fill my appetite (āhāro mama pūryate)!”
+**56:** “—let all beings behold today as they are devoured on every side (_bhakṣyamāṇāni sarvaśaḥ_)! Even the whole of this triple heaven (_tridivaṃ sarvam_) does not suffice to fill my appetite (_āhāro mama pūryate_)!”
 </details>
 </details>
 
@@ -2844,7 +2844,7 @@ Having killed Rama along with Lakshmana, I shall devour all the chiefs of army o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I go forth to win for you happiness that brings ever-increasing joy (sukhāvahaṃ sukham) through the slaying of Daśaratha's son; having slain Rāma together with Lakṣmaṇa, I shall devour all the foremost leaders of the monkey troops (hariyūthamukhyān)!”
+“I go forth to win for you happiness that brings ever-increasing joy (_sukhāvahaṃ sukham_) through the slaying of Daśaratha&#x27;s son; having slain Rāma together with Lakṣmaṇa, I shall devour all the foremost leaders of the monkey troops (_hariyūthamukhyān_)!”
 </details>
 </details>
 
@@ -2913,6 +2913,6 @@ your after a log time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Take your pleasure, O King, and drink Vāruṇī wine today (piba cādya vāruṇīm); perform your royal duties, casting aside your grief (vinīya duḥkham)! Once Rāma is dispatched by me today to the abode of Yama (yamakṣayam), Sītā shall forever become subject to your will (vaśagā bhaviṣyati)!”
+“Take your pleasure, O King, and drink Vāruṇī wine today (_piba cādya vāruṇīm_); perform your royal duties, casting aside your grief (_vinīya duḥkham_)! Once Rāma is dispatched by me today to the abode of Yama (_yamakṣayam_), Sītā shall forever become subject to your will (_vaśagā bhaviṣyati_)!”
 </details>
 </details>

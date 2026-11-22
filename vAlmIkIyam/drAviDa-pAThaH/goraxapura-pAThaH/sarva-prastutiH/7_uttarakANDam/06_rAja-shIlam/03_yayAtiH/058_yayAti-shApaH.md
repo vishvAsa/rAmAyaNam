@@ -48,7 +48,7 @@ Marveling at Nimi’s ancient tale yet noting that the heroic king failed to sho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Rāma was speaking thus (evaṃ bruvati rāme tu), Lakṣmaṇa, slayer of hostile heroes (paravīrahā), replied to that great-souled one (mahātmānam), who seemed to blaze with splendor (jvalantam iva tejasā):
+While Rāma was speaking thus (_evaṃ bruvati rāme tu_), Lakṣmaṇa, slayer of hostile heroes (_paravīrahā_), replied to that great-souled one (_mahātmānam_), who seemed to blaze with splendor (_jvalantam iva tejasā_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ While Rāma was speaking thus (evaṃ bruvati rāme tu), Lakṣmaṇa, slayer of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Great, wondrous, and astonishing (mahad adbhutam āścaryam) is this ancient episode of Videha (videhasya purātanam), O tiger among kings (rājaśārdūla), that transpired between Vasiṣṭha and Nimi (vasiṣṭhasya nimes saha)!
+“Great, wondrous, and astonishing (_mahad adbhutam āścaryam_) is this ancient episode of Videha (_videhasya purātanam_), O tiger among kings (_rājaśārdūla_), that transpired between Vasiṣṭha and Nimi (_vasiṣṭhasya nimes saha_)!
 </details>
 </details>
 
@@ -110,7 +110,7 @@ While Rāma was speaking thus (evaṃ bruvati rāme tu), Lakṣmaṇa, slayer of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet Nimi, a heroic kṣatriya (kṣatriyaḥ śūraḥ) and especially consecrated for sacrifice (viśeṣeṇa ca dīkṣitaḥ), did not practice forbearance (na kṣamāṃ kṛtavān rājā) toward the great-souled Vasiṣṭha (vasiṣṭhasya mahātmanaḥ)!”
+“Yet Nimi, a heroic kṣatriya (_kṣatriyaḥ śūraḥ_) and especially consecrated for sacrifice (_viśeṣeṇa ca dīkṣitaḥ_), did not practice forbearance (_na kṣamāṃ kṛtavān rājā_) toward the great-souled Vasiṣṭha (_vasiṣṭhasya mahātmanaḥ_)!”
 </details>
 </details>
 
@@ -143,7 +143,7 @@ While Rāma was speaking thus (evaṃ bruvati rāme tu), Lakṣmaṇa, slayer of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by him (evam uktas tu tenāyam), the glorious bull among kṣatriyas (śrīmān kṣatriya-puṅgavaḥ) spoke to Lakṣmaṇa words versed in all the scriptures (vākyaṃ sarva-śāstra-viśāradam)—
+Thus addressed by him (_evam uktas tu tenāyam_), the glorious bull among kṣatriyas (_śrīmān kṣatriya-puṅgavaḥ_) spoke to Lakṣmaṇa words versed in all the scriptures (_vākyaṃ sarva-śāstra-viśāradam_)—
 </details>
 </details>
 
@@ -176,9 +176,9 @@ Thus addressed by him (evam uktas tu tenāyam), the glorious bull among kṣatri
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Rāma, foremost of those who give delight (rāmo ramayatāṃ śreṣṭhaḥ), spoke to his brother of blazing splendor (bhrātaraṃ dīpta-tejasam): “Forbearance is not seen everywhere among men, O hero (na sarvatra kṣamā vīra puruṣeṣu pradṛśyate)!
+**5:** Rāma, foremost of those who give delight (_rāmo ramayatāṃ śreṣṭhaḥ_), spoke to his brother of blazing splendor (_bhrātaraṃ dīpta-tejasam_): “Forbearance is not seen everywhere among men, O hero (_na sarvatra kṣamā vīra puruṣeṣu pradṛśyate_)!
 
-**6:** “How unbearable wrath was endured by Yayāti (duḥsaho roṣo yathā kṣānto yayātinā), O Saumitri, keeping to the path aligned with goodness (sattvānugaṃ puraskṛtya)—listen to that with collected mind (tan nibodha samāhitaḥ)!”
+**6:** “How unbearable wrath was endured by Yayāti (_duḥsaho roṣo yathā kṣānto yayātinā_), O Saumitri, keeping to the path aligned with goodness (_sattvānugaṃ puraskṛtya_)—listen to that with collected mind (_tan nibodha samāhitaḥ_)!”
 </details>
 </details>
 
@@ -217,7 +217,7 @@ Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nahuṣa’s son was King Yayāti, promoter of his citizens’ welfare (pauravardhanaḥ); he had two wives, O gentle one (tasya bhāryā-dvayaṃ saumya), matchless in beauty upon the earth (rūpeṇāpratimaṃ bhuvi).
+“Nahuṣa’s son was King Yayāti, promoter of his citizens’ welfare (_pauravardhanaḥ_); he had two wives, O gentle one (_tasya bhāryā-dvayaṃ saumya_), matchless in beauty upon the earth (_rūpeṇāpratimaṃ bhuvi_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One of them, held in highest honor by that royal sage, son of Nahuṣa (rājarṣer nāhuṣasya puraskṛtā), was Śarmiṣṭhā by name, a Daitya maiden (daiteyī), daughter of Vṛṣaparvan (duhitā vṛṣaparvaṇaḥ).
+“One of them, held in highest honor by that royal sage, son of Nahuṣa (_rājarṣer nāhuṣasya puraskṛtā_), was Śarmiṣṭhā by name, a Daitya maiden (_daiteyī_), daughter of Vṛṣaparvan (_duhitā vṛṣaparvaṇaḥ_).
 </details>
 </details>
 
@@ -288,9 +288,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “The other, daughter of Uśanas (anyā tūśanasaḥ), was the wife of Yayāti, O bull among men (patnī yayāteḥ puruṣarṣabha); yet she, slender-waisted Devayānī (devayānī sumadhyamā), was not beloved of the king (na tu sā dayitā rājñaḥ).
+**9:** “The other, daughter of Uśanas (_anyā tūśanasaḥ_), was the wife of Yayāti, O bull among men (_patnī yayāteḥ puruṣarṣabha_); yet she, slender-waisted Devayānī (_devayānī sumadhyamā_), was not beloved of the king (_na tu sā dayitā rājñaḥ_).
 
-**10:** “To those two women were born two handsome, self-controlled sons (putrau tu sambhūtau rūpavantau samāhitau): Śarmiṣṭhā bore Pūru (śarmiṣṭhā ’janayat pūrum), and Devayānī bore Yadu at that time (devayānī yaduṃ tadā).
+**10:** “To those two women were born two handsome, self-controlled sons (_putrau tu sambhūtau rūpavantau samāhitau_): Śarmiṣṭhā bore Pūru (_śarmiṣṭhā ’janayat pūrum_), and Devayānī bore Yadu at that time (_devayānī yaduṃ tadā_).
 </details>
 </details>
 
@@ -321,7 +321,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now Pūru was dear to the king (pūrus tu dayito rājñaḥ) by reason of his virtues and on account of his mother (guṇair mātṛ-kṛtena ca); thereupon Yadu, overcome with grief (duḥkha-samāviṣṭaḥ), spoke to his mother:
+“Now Pūru was dear to the king (_pūrus tu dayito rājñaḥ_) by reason of his virtues and on account of his mother (_guṇair mātṛ-kṛtena ca_); thereupon Yadu, overcome with grief (_duḥkha-samāviṣṭaḥ_), spoke to his mother:
 </details>
 </details>
 
@@ -352,7 +352,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Born in the lineage of Bhārgava (bhārgavasya kule jātā), that god-like sage of unwearied deeds (devasyākliṣṭa-karmaṇaḥ), do you endure this heart-piercing sorrow (hṛdgataṃ duḥkham) and unbearable humiliation (avamānaṃ ca duḥsaham)?
+“‘Born in the lineage of Bhārgava (_bhārgavasya kule jātā_), that god-like sage of unwearied deeds (_devasyākliṣṭa-karmaṇaḥ_), do you endure this heart-piercing sorrow (_hṛdgataṃ duḥkham_) and unbearable humiliation (_avamānaṃ ca duḥsaham_)?
 </details>
 </details>
 
@@ -391,7 +391,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Come, O queen, let us two enter fire together (āvāṃ ca sahitau devi praviśāva hutāśanam), and let the king sport with the Daitya’s daughter for many nights (rājā tu ramatāṃ sārdhaṃ daitya-putryā bahu-kṣapāḥ)!
+“‘Come, O queen, let us two enter fire together (_āvāṃ ca sahitau devi praviśāva hutāśanam_), and let the king sport with the Daitya’s daughter for many nights (_rājā tu ramatāṃ sārdhaṃ daitya-putryā bahu-kṣapāḥ_)!
 </details>
 </details>
 
@@ -422,7 +422,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Or if this is bearable to you (yadi vā sahanīyaṃ te), then deign to grant me leave (mām anujñātum arhasi); forbear if you will, I shall not forbear (kṣama tvaṃ na kṣamiṣye ’ham)—I shall surely die, there is no doubt (mariṣyāmi na saṃśayaḥ)!’
+“‘Or if this is bearable to you (_yadi vā sahanīyaṃ te_), then deign to grant me leave (_mām anujñātum arhasi_); forbear if you will, I shall not forbear (_kṣama tvaṃ na kṣamiṣye ’ham_)—I shall surely die, there is no doubt (_mariṣyāmi na saṃśayaḥ_)!’
 </details>
 </details>
 
@@ -453,7 +453,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of her son (putrasya bhāṣitaṃ śrutvā), weeping in extreme distress (paramārtasya rodataḥ), Devayānī, filled with wrath (saṅkruddhā), then thought of her father (sasmāra pitaraṃ tadā).
+“Hearing the words of her son (_putrasya bhāṣitaṃ śrutvā_), weeping in extreme distress (_paramārtasya rodataḥ_), Devayānī, filled with wrath (_saṅkruddhā_), then thought of her father (_sasmāra pitaraṃ tadā_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Discerning that inward signal of his daughter (iṅgitaṃ tad abhijñāya duhituḥ), Bhārgava at once came swiftly (āgatas tvaritaṃ tatra) to where Devayānī was (devayānī tu yatra sā).
+“Discerning that inward signal of his daughter (_iṅgitaṃ tad abhijñāya duhituḥ_), Bhārgava at once came swiftly (_āgatas tvaritaṃ tatra_) to where Devayānī was (_devayānī tu yatra sā_).
 </details>
 </details>
 
@@ -515,7 +515,7 @@ Declaring that they should enter fire together—or else let him die alone rathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And seeing her utterly unlike her natural self (aprakṛti-sthām), devoid of cheer (aprahṛṣṭām), and bewildered in mind (acetanām), the father spoke these words to his daughter: ‘What is this (kim etad iti cābravīt)?’
+“And seeing her utterly unlike her natural self (_aprakṛti-sthām_), devoid of cheer (_aprahṛṣṭām_), and bewildered in mind (_acetanām_), the father spoke these words to his daughter: ‘What is this (_kim etad iti cābravīt_)?’
 </details>
 </details>
 
@@ -558,9 +558,9 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** To that Bhārgava of blazing splendor (bhārgavaṃ dīpta-tejasam) who was questioning her again and again (pṛcchantam asakṛt), the enraged Devayānī (devayānī tu saṅkruddhā) spoke these words to her father:
+**18:** To that Bhārgava of blazing splendor (_bhārgavaṃ dīpta-tejasam_) who was questioning her again and again (_pṛcchantam asakṛt_), the enraged Devayānī (_devayānī tu saṅkruddhā_) spoke these words to her father:
 
-**19:** “Fire, sharp poison, or water (agniṃ viṣaṃ tīkṣṇam apo vā), O foremost of sages (munisattama)—I shall swallow or enter them (bhakṣayiṣye pravekṣyāmi), for I cannot endure to live (na tu śakṣyāmi jīvitum)!
+**19:** “Fire, sharp poison, or water (_agniṃ viṣaṃ tīkṣṇam apo vā_), O foremost of sages (_munisattama_)—I shall swallow or enter them (_bhakṣayiṣye pravekṣyāmi_), for I cannot endure to live (_na tu śakṣyāmi jīvitum_)!
 </details>
 </details>
 
@@ -591,7 +591,7 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you not realize (na ... avajānīṣe) that I am afflicted and humiliated (duḥkhitām avamānitām)? Through contempt shown to the tree (vṛkṣasyāvajñayā), O brahmin, those that live upon the tree are cut down (chidyante vṛkṣa-jīvinaḥ)!
+“Do you not realize (_na ... avajānīṣe_) that I am afflicted and humiliated (_duḥkhitām avamānitām_)? Through contempt shown to the tree (_vṛkṣasyāvajñayā_), O brahmin, those that live upon the tree are cut down (_chidyante vṛkṣa-jīvinaḥ_)!
 </details>
 </details>
 
@@ -622,7 +622,7 @@ Repeatedly questioned by her radiant father, an enraged Devayānī threatens to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of contempt for you, O Bhārgava (avajñayā ca ... bhārgava), and despising me (paribhūya ca), the royal sage shows disregard toward me (mayy avajñāṃ prayuṅkte hi) and holds me in no esteem (na ca māṃ bahu manyate)!”
+“Out of contempt for you, O Bhārgava (_avajñayā ca ... bhārgava_), and despising me (_paribhūya ca_), the royal sage shows disregard toward me (_mayy avajñāṃ prayuṅkte hi_) and holds me in no esteem (_na ca māṃ bahu manyate_)!”
 </details>
 </details>
 
@@ -661,7 +661,7 @@ Overwhelmed with rage at Devayānī’s words, Bhārgava utters a curse condemni
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of hers (tasyās tad vacanaṃ śrutvā), overwhelmed with wrath (kopenābhipariplutaḥ), Bhārgava began to pronounce a curse (vyāhartum upacakrāma) upon the son of Nahuṣa (nahuṣātmajam):
+Hearing those words of hers (_tasyās tad vacanaṃ śrutvā_), overwhelmed with wrath (_kopenābhipariplutaḥ_), Bhārgava began to pronounce a curse (_vyāhartum upacakrāma_) upon the son of Nahuṣa (_nahuṣātmajam_):
 </details>
 </details>
 
@@ -692,7 +692,7 @@ Hearing those words of hers (tasyās tad vacanaṃ śrutvā), overwhelmed with w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you despise me (yasmān mām avajānīṣe), O wicked-souled son of Nahuṣa (nāhuṣa tvaṃ durātmavān), worn out by extreme old age (jarayā parayā jīrṇaḥ), you shall fall into decrepitude (śaithilyam upayāsyasi)!”
+“Since you despise me (_yasmān mām avajānīṣe_), O wicked-souled son of Nahuṣa (_nāhuṣa tvaṃ durātmavān_), worn out by extreme old age (_jarayā parayā jīrṇaḥ_), you shall fall into decrepitude (_śaithilyam upayāsyasi_)!”
 </details>
 </details>
 
@@ -723,7 +723,7 @@ Hearing those words of hers (tasyās tad vacanaṃ śrutvā), overwhelmed with w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and comforted his daughter (duhitaraṃ samāśvāsya ca), that greatly renowned brahmin sage Bhārgava (brahmarṣiḥ ... mahāyaśāḥ) went back to his own abode (punar jagāma ... bhavanaṃ svam).
+Having spoken thus and comforted his daughter (_duhitaraṃ samāśvāsya ca_), that greatly renowned brahmin sage Bhārgava (_brahmarṣiḥ ... mahāyaśāḥ_) went back to his own abode (_punar jagāma ... bhavanaṃ svam_).
 </details>
 </details>
 
@@ -769,7 +769,7 @@ Having spoken thus and comforted his daughter (duhitaraṃ samāśvāsya ca), th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that foremost among the best of brahmins (dvija-puṅgavāgryaḥ), equal to the sun in splendor (sūrya-samāna-tejāḥ), having comforted his daughter Devayānī (sutāṃ samāśvāsya ca devayānīm) and pronounced his curse upon Nahuṣa’s son (dattvā ca śāpaṃ nahuṣātmajāya), returned once more (punar yayau).
+Having spoken thus, that foremost among the best of brahmins (_dvija-puṅgavāgryaḥ_), equal to the sun in splendor (_sūrya-samāna-tejāḥ_), having comforted his daughter Devayānī (_sutāṃ samāśvāsya ca devayānīm_) and pronounced his curse upon Nahuṣa’s son (_dattvā ca śāpaṃ nahuṣātmajāya_), returned once more (_punar yayau_).
 </details>
 </details>
 

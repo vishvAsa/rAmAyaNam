@@ -62,9 +62,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then, as the night advanced (rātryāṃ pravṛttāyām), Śatrughna asked the brahmin Cyavana, son of Bhṛgu (bhṛgu-nandanaṃ ... cyavanaṃ vipram), concerning the true measure of Lavaṇa’s might (lavaṇasya yathā balam),
+**1:** Then, as the night advanced (_rātryāṃ pravṛttāyām_), Śatrughna asked the brahmin Cyavana, son of Bhṛgu (_bhṛgu-nandanaṃ ... cyavanaṃ vipram_), concerning the true measure of Lavaṇa’s might (_lavaṇasya yathā balam_),
 
-**2:** “And of the might of that trident, O brahmin (śūlasya ca balaṃ brahman), and who in times past were destroyed (ke ca pūrvaṃ vināśitāḥ) upon entering single combat (dvandva-yuddham upāgatāḥ) with him who holds that foremost trident (anena śūla-mukhyena)?”
+**2:** “And of the might of that trident, O brahmin (_śūlasya ca balaṃ brahman_), and who in times past were destroyed (_ke ca pūrvaṃ vināśitāḥ_) upon entering single combat (_dvandva-yuddham upāgatāḥ_) with him who holds that foremost trident (_anena śūla-mukhyena_)?”
 </details>
 </details>
 
@@ -98,7 +98,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the great-souled Śatrughna (tasya tad-vacanaṃ śrutvā śatrughnasya mahātmanaḥ), the greatly resplendent Cyavana (mahātejāś cyavanaḥ) replied to the delight of the Raghus (raghunandanam):
+Hearing those words of the great-souled Śatrughna (_tasya tad-vacanaṃ śrutvā śatrughnasya mahātmanaḥ_), the greatly resplendent Cyavana (_mahātejāś cyavanaḥ_) replied to the delight of the Raghus (_raghunandanam_):
 </details>
 </details>
 
@@ -132,7 +132,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Countless are the deeds performed by this one (asaṅkhyeyāni karmāṇi yāny asya), O delight of the Raghus; hear from me, however, what befell one born of the Ikṣvāku lineage (ikṣvāku-vaṃśa-prabhave yad vṛttaṃ tac chṛṇuṣva me).
+“Countless are the deeds performed by this one (_asaṅkhyeyāni karmāṇi yāny asya_), O delight of the Raghus; hear from me, however, what befell one born of the Ikṣvāku lineage (_ikṣvāku-vaṃśa-prabhave yad vṛttaṃ tac chṛṇuṣva me_).
 </details>
 </details>
 
@@ -166,7 +166,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, there was a mighty king in Ayodhyā (ayodhyāyāṃ purā rājā ... balī), the son of Yuvanāśva (yuvanāśva-sutaḥ), renowned throughout the three worlds as Māndhātṛ, full of valor (māndhāteti sa vikhyātas triṣu lokeṣu vīryavān).
+“Of old, there was a mighty king in Ayodhyā (_ayodhyāyāṃ purā rājā ... balī_), the son of Yuvanāśva (_yuvanāśva-sutaḥ_), renowned throughout the three worlds as Māndhātṛ, full of valor (_māndhāteti sa vikhyātas triṣu lokeṣu vīryavān_).
 </details>
 </details>
 
@@ -200,7 +200,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having brought the entire earth under his sway (kṛtvā pṛthivīṃ kṛtsnāṃ śāsane), that lord of the earth (pṛthivī-patiḥ), the king, set forth from here with an enterprise to conquer the realm of the gods (suralokam ito jetum udyogam akaron nṛpaḥ).
+“Having brought the entire earth under his sway (_kṛtvā pṛthivīṃ kṛtsnāṃ śāsane_), that lord of the earth (_pṛthivī-patiḥ_), the king, set forth from here with an enterprise to conquer the realm of the gods (_suralokam ito jetum udyogam akaron nṛpaḥ_).
 </details>
 </details>
 
@@ -237,7 +237,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And fierce dread seized Indra and the great-souled gods (indrasya ca bhayaṃ tīvraṃ surāṇāṃ ca mahātmanām) when Māndhātṛ bent his efforts toward the desire of conquering the world of the gods (māndhātari kṛtodyoge devaloka-jigīṣayā).
+“And fierce dread seized Indra and the great-souled gods (_indrasya ca bhayaṃ tīvraṃ surāṇāṃ ca mahātmanām_) when Māndhātṛ bent his efforts toward the desire of conquering the world of the gods (_māndhātari kṛtodyoge devaloka-jigīṣayā_).
 </details>
 </details>
 
@@ -271,7 +271,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Claiming half the throne of Śakra and half his kingdom (ardhāsanena śakrasya rājyārdhena ca), the earthly king, receiving homage from the hosts of gods (vandyamānaḥ sura-gaṇaiḥ), mounted upward upon his solemn vow (pratijñām adhyarohata).
+“Claiming half the throne of Śakra and half his kingdom (_ardhāsanena śakrasya rājyārdhena ca_), the earthly king, receiving homage from the hosts of gods (_vandyamānaḥ sura-gaṇaiḥ_), mounted upward upon his solemn vow (_pratijñām adhyarohata_).
 </details>
 </details>
 
@@ -305,7 +305,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Perceiving his wicked intent (tasya pāpam abhiprāyaṃ viditvā), the chastiser of Pāka [Indra] (pāka-śāsanaḥ) addressed these conciliatory words to the son of Yuvanāśva (sāntva-pūrvam idaṃ vākyam uvāca yuvanāśvajam):
+“Perceiving his wicked intent (_tasya pāpam abhiprāyaṃ viditvā_), the chastiser of Pāka [Indra] (_pāka-śāsanaḥ_) addressed these conciliatory words to the son of Yuvanāśva (_sāntva-pūrvam idaṃ vākyam uvāca yuvanāśvajam_):
 </details>
 </details>
 
@@ -339,7 +339,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You are not yet sovereign over the entire world of mortals, O bull among men (rājā tvaṃ mānuṣe loke na tāvat puruṣarṣabha); without having brought the earth completely into your power (akṛtvā pṛthivīṃ vaśyām), you aspire here to the sovereignty of the gods (deva-rājyam ihecchasi)!
+“‘You are not yet sovereign over the entire world of mortals, O bull among men (_rājā tvaṃ mānuṣe loke na tāvat puruṣarṣabha_); without having brought the earth completely into your power (_akṛtvā pṛthivīṃ vaśyām_), you aspire here to the sovereignty of the gods (_deva-rājyam ihecchasi_)!
 </details>
 </details>
 
@@ -368,7 +368,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘If, O hero, the whole earth in its entirety stands under your sway (yadi vīra samagrā te medinī nikhilā vaśe), then assume the kingdom of heaven here (deva-rājyaṃ kuruṣveha) together with your ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ)!’
+“‘If, O hero, the whole earth in its entirety stands under your sway (_yadi vīra samagrā te medinī nikhilā vaśe_), then assume the kingdom of heaven here (_deva-rājyaṃ kuruṣveha_) together with your ministers, armies, and mounts (_sa-bhṛtya-bala-vāhanaḥ_)!’
 </details>
 </details>
 
@@ -402,7 +402,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To Indra speaking thus (indram evaṃ bruvāṇaṃ tam), Māndhātṛ replied with these words (māndhātā vākyam abravīt): ‘Where upon the face of the earth, O Śakra, has my command ever been thwarted (kva me śakra pratihataṃ śāsanaṃ pṛthivī-tale)?’
+“To Indra speaking thus (_indram evaṃ bruvāṇaṃ tam_), Māndhātṛ replied with these words (_māndhātā vākyam abravīt_): ‘Where upon the face of the earth, O Śakra, has my command ever been thwarted (_kva me śakra pratihataṃ śāsanaṃ pṛthivī-tale_)?’
 </details>
 </details>
 
@@ -444,7 +444,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The thousand-eyed one [Indra] said to him (tam uvāca sahasrākṣaḥ): ‘A rākṣasa named Lavaṇa (lavaṇo nāma rākṣasaḥ), the son of Madhu, in Madhuvana (madhu-putro madhuvane), does not obey your command, O sinless one (na te ’jñāṃ kurute ’nagha)!’
+“The thousand-eyed one [Indra] said to him (_tam uvāca sahasrākṣaḥ_): ‘A rākṣasa named Lavaṇa (_lavaṇo nāma rākṣasaḥ_), the son of Madhu, in Madhuvana (_madhu-putro madhuvane_), does not obey your command, O sinless one (_na te ’jñāṃ kurute ’nagha_)!’
 </details>
 </details>
 
@@ -478,7 +478,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those harsh and dreadful words spoken by the thousand-eyed one (tac chrutvā vipriyaṃ ghoraṃ sahasrākṣeṇa bhāṣitam), the king, overcome with shame and hanging his head (vrīḍito ’vāṅmukho rājā), could not utter a single word (vyāhartuṃ na śaśāka ha).
+“Hearing those harsh and dreadful words spoken by the thousand-eyed one (_tac chrutvā vipriyaṃ ghoraṃ sahasrākṣeṇa bhāṣitam_), the king, overcome with shame and hanging his head (_vrīḍito ’vāṅmukho rājā_), could not utter a single word (_vyāhartuṃ na śaśāka ha_).
 </details>
 </details>
 
@@ -512,7 +512,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Taking leave of the thousand-eyed one (āmantrya tu sahasrākṣam), his face somewhat downcast with embarrassment (hriyā kiñcid avāṅmukhaḥ), that illustrious lord of men returned once more to this mortal world (punar evāgamac chrīmān imaṃ lokaṃ nareśvaraḥ).
+“Taking leave of the thousand-eyed one (_āmantrya tu sahasrākṣam_), his face somewhat downcast with embarrassment (_hriyā kiñcid avāṅmukhaḥ_), that illustrious lord of men returned once more to this mortal world (_punar evāgamac chrīmān imaṃ lokaṃ nareśvaraḥ_).
 </details>
 </details>
 
@@ -546,7 +546,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nursing indignation within his heart (kṛtvā hṛdaye ’marṣam), that tamer of foes (arindamaḥ), accompanied by his ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ), marched forth to bring the son of Madhu under his sway (ājagāma madhoḥ putraṃ vaśe kartum).
+“Nursing indignation within his heart (_kṛtvā hṛdaye ’marṣam_), that tamer of foes (_arindamaḥ_), accompanied by his ministers, armies, and mounts (_sa-bhṛtya-bala-vāhanaḥ_), marched forth to bring the son of Madhu under his sway (_ājagāma madhoḥ putraṃ vaśe kartum_).
 </details>
 </details>
 
@@ -582,7 +582,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Eager to engage Lavaṇa in battle (kāṅkṣamāṇo lavaṇaṃ yuddhāya), that bull among men (puruṣarṣabhaḥ) dispatched an envoy into Lavaṇa’s presence (dūtaṃ sampreṣayām āsa sakāśaṃ lavaṇasya hi).
+“Eager to engage Lavaṇa in battle (_kāṅkṣamāṇo lavaṇaṃ yuddhāya_), that bull among men (_puruṣarṣabhaḥ_) dispatched an envoy into Lavaṇa’s presence (_dūtaṃ sampreṣayām āsa sakāśaṃ lavaṇasya hi_).
 </details>
 </details>
 
@@ -616,7 +616,7 @@ When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having gone there, that envoy spoke many harsh words to the son of Madhu (sa gatvā vipriyāṇy āha bahūni madhunaḥ sutam); and as the envoy was speaking thus, the rākṣasa devoured him alive (vadantam evaṃ taṃ dūtaṃ bhakṣayām āsa rākṣasaḥ).
+“Having gone there, that envoy spoke many harsh words to the son of Madhu (_sa gatvā vipriyāṇy āha bahūni madhunaḥ sutam_); and as the envoy was speaking thus, the rākṣasa devoured him alive (_vadantam evaṃ taṃ dūtaṃ bhakṣayām āsa rākṣasaḥ_).
 </details>
 </details>
 
@@ -642,7 +642,7 @@ When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the envoy lingered long (cirāyamāṇe dūte tu), the king, filled with wrath (rājā krodha-samanvitaḥ), afflicted that rākṣasa on every side with a shower of arrows (ardayām āsa tad rakṣaḥ śara-vṛṣṭyā samantataḥ).
+“When the envoy lingered long (_cirāyamāṇe dūte tu_), the king, filled with wrath (_rājā krodha-samanvitaḥ_), afflicted that rākṣasa on every side with a shower of arrows (_ardayām āsa tad rakṣaḥ śara-vṛṣṭyā samantataḥ_).
 </details>
 </details>
 
@@ -668,7 +668,7 @@ When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, bursting into laughter (tataḥ prahasya), that rākṣasa seized the trident in his hand (tad rakṣaḥ śūlaṃ jagrāha pāṇinā) and hurled that supreme weapon for the destruction of the king together with all his retinue (vadhāya sānubandhasya mumocāyudham uttamam).
+“Then, bursting into laughter (_tataḥ prahasya_), that rākṣasa seized the trident in his hand (_tad rakṣaḥ śūlaṃ jagrāha pāṇinā_) and hurled that supreme weapon for the destruction of the king together with all his retinue (_vadhāya sānubandhasya mumocāyudham uttamam_).
 </details>
 </details>
 
@@ -694,7 +694,7 @@ When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That blazing trident (tac chūlaṃ dīpyamānam), having reduced the king along with his ministers, armies, and mounts to ashes (sa-bhṛtya-bala-vāhanaṃ bhasmī-kṛtvā nṛpam), returned once more to the hand of Lavaṇa (bhūyo lavaṇasyāgamat karam).
+“That blazing trident (_tac chūlaṃ dīpyamānam_), having reduced the king along with his ministers, armies, and mounts to ashes (_sa-bhṛtya-bala-vāhanaṃ bhasmī-kṛtvā nṛpam_), returned once more to the hand of Lavaṇa (_bhūyo lavaṇasyāgamat karam_).
 </details>
 </details>
 
@@ -720,7 +720,7 @@ When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus was that exceedingly great king slain together with his army and mounts (evaṃ sa rājā sumahān hataḥ sa-bala-vāhanaḥ); for the might of that trident, O gentle one, is immeasurable and unsurpassed (śūlasya tu balaṃ saumya aprameyam anuttamam).
+“Thus was that exceedingly great king slain together with his army and mounts (_evaṃ sa rājā sumahān hataḥ sa-bala-vāhanaḥ_); for the might of that trident, O gentle one, is immeasurable and unsurpassed (_śūlasya tu balaṃ saumya aprameyam anuttamam_).
 </details>
 </details>
 
@@ -754,7 +754,7 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet tomorrow at dawn, without a doubt, you shall slay Lavaṇa (śvaḥ prabhāte tu lavaṇaṃ vadhiṣyasi na saṃśayaḥ) swiftly while he has not taken up his weapon (agṛhītāyudhaṃ kṣipram)—for your victory is certain (dhruvo hi vijayas tava)!
+“Yet tomorrow at dawn, without a doubt, you shall slay Lavaṇa (_śvaḥ prabhāte tu lavaṇaṃ vadhiṣyasi na saṃśayaḥ_) swiftly while he has not taken up his weapon (_agṛhītāyudhaṃ kṣipram_)—for your victory is certain (_dhruvo hi vijayas tava_)!
 </details>
 </details>
 
@@ -784,9 +784,9 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “And well-being shall come to all the worlds when this deed is accomplished by you (lokānāṃ svasti caiva syāt kṛte karmaṇi ca tvayā); all this has now been recounted to you concerning the wicked-souled Lavaṇa (etat te sarvam ākhyātaṃ lavaṇasya durātmanaḥ),
+**24:** “And well-being shall come to all the worlds when this deed is accomplished by you (_lokānāṃ svasti caiva syāt kṛte karmaṇi ca tvayā_); all this has now been recounted to you concerning the wicked-souled Lavaṇa (_etat te sarvam ākhyātaṃ lavaṇasya durātmanaḥ_),
 
-**25:** “And the dreadful, immeasurable might of that trident, O bull among men (śūlasya ca balaṃ ghoram aprameyaṃ nararṣabha), as well as the destruction of Māndhātṛ that befell through it, O lord of the earth (vināśaś caiva māndhātur yat tenābhūc ca pārthiva).
+**25:** “And the dreadful, immeasurable might of that trident, O bull among men (_śūlasya ca balaṃ ghoram aprameyaṃ nararṣabha_), as well as the destruction of Māndhātṛ that befell through it, O lord of the earth (_vināśaś caiva māndhātur yat tenābhūc ca pārthiva_).
 </details>
 </details>
 
@@ -827,7 +827,7 @@ Dispelling any doubt of victory after this awesome account of the trident, Cyava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tomorrow at dawn, O great-souled one, you shall assuredly slay Lavaṇa—I have no doubt of this (tvaṃ śvaḥ prabhāte lavaṇaṃ mahātman vadhiṣyase nātra tu saṃśayo me)—when he has gone forth in search of meat without his trident (śūlaṃ vinā nirgatam āmiṣārthe); certain shall your victory be, O lord of men (dhruvo jayas te bhavitā narendra)!”
+“Tomorrow at dawn, O great-souled one, you shall assuredly slay Lavaṇa—I have no doubt of this (_tvaṃ śvaḥ prabhāte lavaṇaṃ mahātman vadhiṣyase nātra tu saṃśayo me_)—when he has gone forth in search of meat without his trident (_śūlaṃ vinā nirgatam āmiṣārthe_); certain shall your victory be, O lord of men (_dhruvo jayas te bhavitā narendra_)!”
 </details>
 </details>
 

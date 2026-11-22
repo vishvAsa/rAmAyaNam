@@ -73,7 +73,7 @@ then to Dasaratha as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the words of the chief minister (mahāmātra-vacaḥ), Rāma, knower of modest decorum (vinayajñaḥ), then addressed a speech unto Daśaratha like one humble and submissive (vinītavat).
+Having heard the words of the chief minister (_mahāmātra-vacaḥ_), Rāma, knower of modest decorum (_vinayajñaḥ_), then addressed a speech unto Daśaratha like one humble and submissive (_vinītavat_).
 </details>
 </details>
 
@@ -123,7 +123,7 @@ me?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O King, for me who have renounced all worldly enjoyments (tyakta-bhogasya), who am to subsist in the forest on woodland produce (vanyena jīvataḥ), and who have cast off attachment on every side (tyakta-saṅgasya sarvataḥ), what purpose is served by an accompanying retinue (anuyātreṇa)?
+“O King, for me who have renounced all worldly enjoyments (_tyakta-bhogasya_), who am to subsist in the forest on woodland produce (_vanyena jīvataḥ_), and who have cast off attachment on every side (_tyakta-saṅgasya sarvataḥ_), what purpose is served by an accompanying retinue (_anuyātreṇa_)?
 </details>
 </details>
 
@@ -178,7 +178,7 @@ the excellent elephant?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, when a man has given away a foremost elephant (dvipa-śreṣṭham) and yet sets his heart upon its girth-rope (kakṣyāyām), of what use is fondness for a cord (rajju-snehena) to one who is relinquishing the best of tusker-elephants (kuñjarottamam)?
+“Indeed, when a man has given away a foremost elephant (_dvipa-śreṣṭham_) and yet sets his heart upon its girth-rope (_kakṣyāyām_), of what use is fondness for a cord (_rajju-snehena_) to one who is relinquishing the best of tusker-elephants (_kuñjarottamam_)?
 </details>
 </details>
 
@@ -233,7 +233,7 @@ King, when I am giving away absolutely all. Let the dresses of a mendicant be br
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even so is it with me, O best of the virtuous (satāṃ śreṣṭha)! What need have I of an army (dhvajinyā), O lord of the world? I gladly make over all of them; let them bring me bark garments (cīrāṇi) alone!
+“Even so is it with me, O best of the virtuous (_satāṃ śreṣṭha_)! What need have I of an army (_dhvajinyā_), O lord of the world? I gladly make over all of them; let them bring me bark garments (_cīrāṇi_) alone!
 </details>
 </details>
 
@@ -287,7 +287,7 @@ basket both for me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For me who am to dwell an abode of fourteen years in the forest, bring both a spade and a basket (khanitra-piṭake)—go!
+“For me who am to dwell an abode of fourteen years in the forest, bring both a spade and a basket (_khanitra-piṭake_)—go!
 </details>
 </details>
 
@@ -342,7 +342,7 @@ on"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Kaikeyī, shameless (nirapatrapā) in the midst of the assembled multitude (janaughe), fetched the bark garments herself and said unto Rāghava, “Put them on (paridhatsva)!”
+Thereupon Kaikeyī, shameless (_nirapatrapā_) in the midst of the assembled multitude (_janaughe_), fetched the bark garments herself and said unto Rāghava, “Put them on (_paridhatsva_)!”
 </details>
 </details>
 
@@ -405,7 +405,7 @@ discarding his clothing of fine yarn, Rama put on the garb of ascetics.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Receiving those two bark garments (cīre) from Kaikeyī, that tiger among men (puruṣa-vyāghraḥ) cast off his fine raiment (sūkṣma-vastram) and donned (avasta) the garments of forest sages.
+Receiving those two bark garments (_cīre_) from Kaikeyī, that tiger among men (_puruṣa-vyāghraḥ_) cast off his fine raiment (_sūkṣma-vastram_) and donned (_avasta_) the garments of forest sages.
 </details>
 </details>
 
@@ -459,7 +459,7 @@ discarding his beautiful raiment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Lakṣmaṇa too, right there in the presence of his father (pitur agrataḥ), laid aside his two auspicious garments (vasane śubhe) and took up the raiments of ascetics (tāpasācchādane).
+And Lakṣmaṇa too, right there in the presence of his father (_pitur agrataḥ_), laid aside his two auspicious garments (_vasane śubhe_) and took up the raiments of ascetics (_tāpasācchādane_).
 </details>
 </details>
 
@@ -576,13 +576,13 @@ it)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Then Sītā, clad in silken raiment (kauśeya-vāsinī), beholding the bark garment meant for her own wearing (ātma-paridhānārtham), trembled in fright like a spotted doe before a snare (pṛṣatī vāgurām iva).
+**9:** Then Sītā, clad in silken raiment (_kauśeya-vāsinī_), beholding the bark garment meant for her own wearing (_ātma-paridhānārtham_), trembled in fright like a spotted doe before a snare (_pṛṣatī vāgurām iva_).
 
-**10:** Deeply dejected (su-durmanāḥ) and shrinking with shame, as it were (vyapatrapamāṇeva), Jānakī of auspicious marks took those two garments of kuśa-grass and bark from Kaikeyī.
+**10:** Deeply dejected (_su-durmanāḥ_) and shrinking with shame, as it were (_vyapatrapamāṇeva_), Jānakī of auspicious marks took those two garments of _kuśa_-grass and bark from Kaikeyī.
 
-**11:** With her eyes brimming with tears (aśru-sampūrṇa-netrā), she who knew dharma and ever beheld dharma (dharma-darśinī) spoke these words to her husband, who resembled the king of the Gandharvas:
+**11:** With her eyes brimming with tears (_aśru-sampūrṇa-netrā_), she who knew _dharma_ and ever beheld _dharma_ (_dharma-darśinī_) spoke these words to her husband, who resembled the king of the Gandharvas:
 
-**12:** “How indeed do forest-dwelling ascetics bind on their bark garments?” Speaking thus, Sītā, unpracticed in such attire (akuśalā), fell into bewilderment again and again (mumoha muhur muhuḥ).
+**12:** “How indeed do forest-dwelling ascetics bind on their bark garments?” Speaking thus, Sītā, unpracticed in such attire (_akuśalā_), fell into bewilderment again and again (_mumoha muhur muhuḥ_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ stood abashed, not adept as she was in wearing it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Placing one bark garment upon her neck (kṛtvā kaṇṭhe) and holding the other in her hand (ekam ādāya pāṇinā), the daughter of Janaka, unpracticed therein (akuśalā), stood there overcome with shame (vrīḍitā).
+Placing one bark garment upon her neck (_kṛtvā kaṇṭhe_) and holding the other in her hand (_ekam ādāya pāṇinā_), the daughter of Janaka, unpracticed therein (_akuśalā_), stood there overcome with shame (_vrīḍitā_).
 </details>
 </details>
 
@@ -698,7 +698,7 @@ that bark over the sild garment of Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching her quickly, Rāma, the foremost of upholders of dharma (dharma-bhṛtāṃ varaḥ), himself bound that bark garment of Sītā right over her silken attire (kauśeyasyopari svayam).
+Approaching her quickly, Rāma, the foremost of upholders of _dharma_ (_dharma-bhṛtāṃ varaḥ_), himself bound that bark garment of Sītā right over her silken attire (_kauśeyasyopari svayam_).
 </details>
 </details>
 
@@ -752,7 +752,7 @@ the gynaecium shed tears from their eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma binding the excellent bark garment upon Sītā, the women of the inner apartments (antaḥpura-carā nāryaḥ) shed water born of their eyes (vāri netrajam).
+Beholding Rāma binding the excellent bark garment upon Sītā, the women of the inner apartments (_antaḥpura-carā nāryaḥ_) shed water born of their eyes (_vāri netrajam_).
 </details>
 </details>
 
@@ -807,7 +807,7 @@ Dear child! This Seetha the high sould, was not so commanded to reside in the fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Utterly distressed (paramāyattāḥ), they spoke unto Rāma of blazing splendour: “O dear child (vatsa), this high-souled lady (manasvinī) has not been commanded thus to dwell in the forest!
+Utterly distressed (_paramāyattāḥ_), they spoke unto Rāma of blazing splendour: “O dear child (_vatsa_), this high-souled lady (_manasvinī_) has not been commanded thus to dwell in the forest!
 </details>
 </details>
 
@@ -856,7 +856,7 @@ Rama, let her sight be a reward to us till your return."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While you have gone to the desolate forest in compliance with your father’s word (pitur vākyānurodhena), let the sight of her at least be fruitful for us (saphalaṃ bhavatu), O Lord!
+“While you have gone to the desolate forest in compliance with your father’s word (_pitur vākyānurodhena_), let the sight of her at least be fruitful for us (_saphalaṃ bhavatu_), O Lord!
 </details>
 </details>
 
@@ -911,7 +911,7 @@ beautiful girl is not fit to reside in a forest like an ascetic."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go to the forest with Lakṣmaṇa as your companion (lakṣmaṇena sahāyena), O dear son; this auspicious princess (kalyāṇī) ought not to dwell in the forest like an ascetic (tāpasavat)!
+“Go to the forest with Lakṣmaṇa as your companion (_lakṣmaṇena sahāyena_), O dear son; this auspicious princess (_kalyāṇī_) ought not to dwell in the forest like an ascetic (_tāpasavat_)!
 </details>
 </details>
 
@@ -974,7 +974,7 @@ you the ever righteous in any case do not wish to stay back.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Grant our entreaty (kuru no yācanām), O son: let the noble lady Sītā remain here! For steadfast in dharma (dharma-nityaḥ), you yourself do not wish to remain here now.”
+“Grant our entreaty (_kuru no yācanām_), O son: let the noble lady Sītā remain here! For steadfast in _dharma_ (_dharma-nityaḥ_), you yourself do not wish to remain here now.”
 </details>
 </details>
 
@@ -1052,9 +1052,9 @@ her and spoke thus to Kaikeyi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Though hearing words of such kind from those women, the son of Daśaratha went on binding the bark garment all the same (babandhaiva tathā cīram), urged on by Sītā of like character with himself (tulya-śīlayā).
+**20:** Though hearing words of such kind from those women, the son of Daśaratha went on binding the bark garment all the same (_babandhaiva tathā cīram_), urged on by Sītā of like character with himself (_tulya-śīlayā_).
 
-**21:** When the two bark garments had been taken by her, the King’s preceptor Vasiṣṭha, tearful (sa-bāṣpaḥ), restrained Sītā and spoke these words unto Kaikeyī:
+**21:** When the two bark garments had been taken by her, the King’s preceptor Vasiṣṭha, tearful (_sa-bāṣpaḥ_), restrained Sītā and spoke these words unto Kaikeyī:
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ disgrace to your family! You are not establishing justifiable standard and you m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kaikeyī who have transgressed all bounds (atipravṛtte), evil-minded (durmedhe), disgrace of your lineage (kula-pāṃsani)! Having deceived the King, you do not abide within the measure of your boon (na pramāṇe 'vatiṣṭhasi)!
+“O Kaikeyī who have transgressed all bounds (_atipravṛtte_), evil-minded (_durmedhe_), disgrace of your lineage (_kula-pāṃsani_)! Having deceived the King, you do not abide within the measure of your boon (_na pramāṇe &#x27;vatiṣṭhasi_)!
 </details>
 </details>
 
@@ -1159,7 +1159,7 @@ will occuply the throne, which was awarded to Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O woman bereft of virtue (śīla-varjite), Queen Sītā must not go to the forest! Sītā shall occupy the appointed throne of Rāma (rāmasya prakṛtam āsanam)!
+“O woman bereft of virtue (_śīla-varjite_), Queen Sītā must not go to the forest! Sītā shall occupy the appointed throne of Rāma (_rāmasya prakṛtam āsanam_)!
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ Rama's self, she can rule the earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For to all who abide in wedded household life (dāra-saṅgraha-vartinām), a wife is one’s own self (ātmā hi dārāḥ); therefore, because she is Rāma’s very self (ātmeyam iti rāmasya), she shall rule the earth!”
+“For to all who abide in wedded household life (_dāra-saṅgraha-vartinām_), a wife is one’s own self (_ātmā hi dārāḥ_); therefore, because she is Rāma’s very self (_ātmeyam iti rāmasya_), she shall rule the earth!”
 </details>
 </details>
 
@@ -1285,9 +1285,9 @@ with its goods and chattels will go whereever Rama and his wife are there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “If, however, Vaidehī goes to the forest united with Rāma (rāmeṇa saṅgatā), we shall follow after him there (vayam atrānuyāsyāmaḥ), and this entire city too will depart!
+**25:** “If, however, Vaidehī goes to the forest united with Rāma (_rāmeṇa saṅgatā_), we shall follow after him there (_vayam atrānuyāsyāmaḥ_), and this entire city too will depart!
 
-**26:** “The wardens of the marches (antapālāḥ) will likewise go wherever Rāghava goes with his wife, and so too the realm together with its means of subsistence (sahopajīvyaṃ rāṣṭraṃ ca) and the city with all its attendants and equipage (saparicchadam).
+**26:** “The wardens of the marches (_antapālāḥ_) will likewise go wherever Rāghava goes with his wife, and so too the realm together with its means of subsistence (_sahopajīvyaṃ rāṣṭraṃ ca_) and the city with all its attendants and equipage (_saparicchadam_).
 </details>
 </details>
 
@@ -1344,7 +1344,7 @@ their brother residing in the forest and moving in the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Bharata together with Śatrughna, clad in bark garments and roaming the woods (cīra-vāsā vanecaraḥ), will dwell in the forest following his elder brother Kākutstha (anuvatsyati pūrvajam) as he dwells in the woods.
+“And Bharata together with Śatrughna, clad in bark garments and roaming the woods (_cīra-vāsā vanecaraḥ_), will dwell in the forest following his elder brother Kākutstha (_anuvatsyati pūrvajam_) as he dwells in the woods.
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ is bereft of people and desolate, with its trees alone remaining.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, stationed in what is baneful to the subjects (prajānām ahite sthitā), rule you alone (tvam ekā śādhi), wicked in conduct as you are (durvṛttā), over the desolate earth (śūnyāṃ vasudhām) bereft of people, together with its trees!
+“Then, stationed in what is baneful to the subjects (_prajānām ahite sthitā_), rule you alone (_tvam ekā śādhi_), wicked in conduct as you are (_durvṛttā_), over the desolate earth (_śūnyāṃ vasudhām_) bereft of people, together with its trees!
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ forest, where Rama will be living, can become a kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that land shall never be a kingdom where Rāma is not monarch; rather, that forest shall become the kingdom (tad vanaṃ bhavitā rāṣṭram) where Rāma will dwell!
+“For that land shall never be a kingdom where Rāma is not monarch; rather, that forest shall become the kingdom (_tad vanaṃ bhavitā rāṣṭram_) where Rāma will dwell!
 </details>
 </details>
 
@@ -1513,7 +1513,7 @@ is not being offered by his father nor to live as a son in your case."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For Bharata does not wish to rule the earth when it has not been gladly bestowed by his father (adattāṃ mahīṃ pitrā), nor to live toward you as a son (tvayi vā putravad vastum), if indeed he has been born of the lord of the earth (yadi jāto mahīpateḥ)!
+“For Bharata does not wish to rule the earth when it has not been gladly bestowed by his father (_adattāṃ mahīṃ pitrā_), nor to live toward you as a son (_tvayi vā putravad vastum_), if indeed he has been born of the lord of the earth (_yadi jāto mahīpateḥ_)!
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ the record of his father's dynasty will not do as you wish him to do"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if you should leap up from the surface of the earth into the sky (kṣiti-talād gaganaṃ cotpatiṣyasi), he who knows the ancestral conduct of his father’s race (pitṛ-vaṃśa-caritrajñaḥ) will never act otherwise!
+“Even if you should leap up from the surface of the earth into the sky (_kṣiti-talād gaganaṃ cotpatiṣyasi_), he who knows the ancestral conduct of his father’s race (_pitṛ-vaṃśa-caritrajñaḥ_) will never act otherwise!
 </details>
 </details>
 
@@ -1622,7 +1622,7 @@ covetons towards his well-being. There is none indeed in this world who is not d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, greedy for your son’s advancement (putra-gardhinyā), you have wrought only what is hateful to your son (putrasya kṛtam apriyam); for there exists no one in the world who is not devoted to Rāma (rāmaṃ nānuvrataḥ)!
+“Therefore, greedy for your son’s advancement (_putra-gardhinyā_), you have wrought only what is hateful to your son (_putrasya kṛtam apriyam_); for there exists no one in the world who is not devoted to Rāma (_rāmaṃ nānuvrataḥ_)!
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ with Rama and trees also turning their faces towards Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very day, O Kaikeyī, you shall behold domestic beasts, elephants and predators, deer, and birds going along with Rāma, and even the trees turning their faces toward him (pādapāṃś ca tad-unmukhān)!
+“This very day, O Kaikeyī, you shall behold domestic beasts, elephants and predators, deer, and birds going along with Rāma, and even the trees turning their faces toward him (_pādapāṃś ca tad-unmukhān_)!
 </details>
 </details>
 
@@ -1739,7 +1739,7 @@ prevented that wearing of garment by Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Queen, taking away the bark garment (vyapanīya cīram), give splendid ornaments to your daughter-in-law (snuṣāyai)! Bark cloth is never prescribed for her (na cīram asyāḥ pravidhīyate)!”—speaking thus, Vasiṣṭha forbade that garment.
+“Therefore, O Queen, taking away the bark garment (_vyapanīya cīram_), give splendid ornaments to your daughter-in-law (_snuṣāyai_)! Bark cloth is never prescribed for her (_na cīram asyāḥ pravidhīyate_)!”—speaking thus, Vasiṣṭha forbade that garment.
 </details>
 </details>
 
@@ -1800,7 +1800,7 @@ Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The dwelling of Rāma alone in the forest (ekasya rāmasya vane nivāsaḥ) was asked for by you, O daughter of the Kekaya king! Adorned with jewels and ever devoted to her toilette (pratikarma-nityā), let her dwell in the forest together with Rāghava!
+“The dwelling of Rāma alone in the forest (_ekasya rāmasya vane nivāsaḥ_) was asked for by you, O daughter of the Kekaya king! Adorned with jewels and ever devoted to her toilette (_pratikarma-nityā_), let her dwell in the forest together with Rāghava!
 </details>
 </details>
 
@@ -1866,7 +1866,7 @@ boons"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Well attended by foremost vehicles and servants (yānaiś ca mukhyaiḥ paricārakaiś ca), and accompanied by all robes and fitting appliances (vidhānaiḥ), let the princess go; she was never stipulated by you in the granting of the boons (vara-sampradāne)!”
+“Well attended by foremost vehicles and servants (_yānaiś ca mukhyaiḥ paricārakaiś ca_), and accompanied by all robes and fitting appliances (_vidhānaiḥ_), let the princess go; she was never stipulated by you in the granting of the boons (_vara-sampradāne_)!”
 </details>
 </details>
 
@@ -1930,7 +1930,7 @@ the ways of her beloved husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even while that foremost of brahmins, the King’s preceptor of peerless spiritual power (apratima-prabhāve), was speaking thus, Sītā did not at all turn back in her resolve (naiva sma sītā vinivṛtta-bhāvā), desiring only to emulate her beloved husband’s state (pratikāra-kāmā).
+Even while that foremost of brahmins, the King’s preceptor of peerless spiritual power (_apratima-prabhāve_), was speaking thus, Sītā did not at all turn back in her resolve (_naiva sma sītā vinivṛtta-bhāvā_), desiring only to emulate her beloved husband’s state (_pratikāra-kāmā_).
 </details>
 </details>
 

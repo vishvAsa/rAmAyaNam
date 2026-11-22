@@ -89,7 +89,7 @@ all paraphernalia of war. Hence he is said to have talked softly but harshly to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Khara, who stood (avasthitam) deprived of his chariot (viratham) with mace in hand (gadā-pāṇim), Rāma of mighty splendour (mahā-tejāḥ) spoke a harsh speech (paruṣaṃ vākyam) prefaced with gentleness (mṛdu-pūrvam):
+To Khara, who stood (_avasthitam_) deprived of his chariot (_viratham_) with mace in hand (_gadā-pāṇim_), Rāma of mighty splendour (_mahā-tejāḥ_) spoke a harsh speech (_paruṣaṃ vākyam_) prefaced with gentleness (_mṛdu-pūrvam_):
 </details>
 </details>
 
@@ -191,11 +191,11 @@ as they would eradicate a vicious serpent, in the event of its running across th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Standing (tiṣṭhatā) at the head of a vast army (bale mahati) thronged with elephants, horses, and chariots (gajāśva-ratha-sambādhe), you have perpetrated (kṛtaṃ te) a cruel deed (dāruṇaṃ karma) abhorred by all the world (sarva-loka-jugupsitam).
+**2:** “Standing (_tiṣṭhatā_) at the head of a vast army (_bale mahati_) thronged with elephants, horses, and chariots (_gajāśva-ratha-sambādhe_), you have perpetrated (_kṛtaṃ te_) a cruel deed (_dāruṇaṃ karma_) abhorred by all the world (_sarva-loka-jugupsitam_).
 
-**3:** “One who is a terror to living beings (udvejanīyo bhūtānām), ruthless (nṛśaṃsaḥ), and a doer of sinful deeds (pāpa-karma-kṛt) cannot endure (na tiṣṭhati), even if he be the lord of the three worlds (trayāṇām api lokānām īśvaro 'pi).
+**3:** “One who is a terror to living beings (_udvejanīyo bhūtānām_), ruthless (_nṛśaṃsaḥ_), and a doer of sinful deeds (_pāpa-karma-kṛt_) cannot endure (_na tiṣṭhati_), even if he be the lord of the three worlds (_trayāṇām api lokānām īśvaro &#x27;pi_).
 
-**4:** “O night-roamer (kṣaṇadā-cara), all people (sarva-janaḥ) slay (hanti) a fierce (tīkṣṇam) person who commits deeds hostile to the world (karma loka-viruddham), just as they slay a vicious serpent that has approached (sarpaṃ duṣṭam ivāgatam).
+**4:** “O night-roamer (_kṣaṇadā-cara_), all people (_sarva-janaḥ_) slay (_hanti_) a fierce (_tīkṣṇam_) person who commits deeds hostile to the world (_karma loka-viruddham_), just as they slay a vicious serpent that has approached (_sarpaṃ duṣṭam ivāgatam_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ in the next verse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who commits sins (pāpāni kurvāṇaḥ) out of greed or lust (lobhāt kāmād vā) and does not awaken (na budhyate) [to their consequence], exults (hṛṣṭaḥ) only until he beholds their fatal end (paśyati tasyāntam), like a brāhmaṇī lizard from eating hailstones (brāhmaṇī karakād iva).
+“He who commits sins (_pāpāni kurvāṇaḥ_) out of greed or lust (_lobhāt kāmād vā_) and does not awaken (_na budhyate_) [to their consequence], exults (_hṛṣṭaḥ_) only until he beholds their fatal end (_paśyati tasyāntam_), like a _brāhmaṇī_ lizard from eating hailstones (_brāhmaṇī karakād iva_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ flower.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By slaying (hatvā) the illustrious (mahā-bhāgān), righteous ascetics (tāpasān dharma-cāriṇaḥ) dwelling in the Daṇḍaka forest (vasato daṇḍakāraṇye), what fruit indeed (kiṃ nu phalam) will you gain, O rākṣasa?
+“By slaying (_hatvā_) the illustrious (_mahā-bhāgān_), righteous ascetics (_tāpasān dharma-cāriṇaḥ_) dwelling in the Daṇḍaka forest (_vasato daṇḍakāraṇye_), what fruit indeed (_kiṃ nu phalam_) will you gain, O _rākṣasa_?
 </details>
 </details>
 
@@ -386,7 +386,7 @@ further more those that are abominated by world will not last long, no more that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Cruel (krūrāḥ) evildoers (pāpa-karmāṇaḥ), abhorred by the world (loka-jugupsitāḥ), do not endure for long (na ciraṃ tiṣṭhanti) even after attaining sovereignty (aiśvaryaṃ prāpya), like trees with rotted roots (śīrṇa-mūlā iva drumāḥ).
+“Cruel (_krūrāḥ_) evildoers (_pāpa-karmāṇaḥ_), abhorred by the world (_loka-jugupsitāḥ_), do not endure for long (_na ciraṃ tiṣṭhanti_) even after attaining sovereignty (_aiśvaryaṃ prāpya_), like trees with rotted roots (_śīrṇa-mūlā iva drumāḥ_).
 </details>
 </details>
 
@@ -446,7 +446,7 @@ Moreover the fruit of sin will be venomous, for the greedy harvester of that sin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The doer (kartā) inevitably (avaśyam) reaps the dreadful fruit of his sinful deed (phalaṃ pāpasya karmaṇaḥ ghoram) when the appointed time comes round (paryāgate kāle), just as a tree puts forth its seasonal blossom (puṣpam ivārtavam).
+“The doer (_kartā_) inevitably (_avaśyam_) reaps the dreadful fruit of his sinful deed (_phalaṃ pāpasya karmaṇaḥ ghoram_) when the appointed time comes round (_paryāgate kāle_), just as a tree puts forth its seasonal blossom (_puṣpam ivārtavam_).
 </details>
 </details>
 
@@ -506,7 +506,7 @@ acquire an inconsolable wretched state.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this world, O night-roamer (kṣaṇadā-cara), the fruit of sinful deeds (pāpānāṃ karmaṇāṃ phalam) is reaped before long (nacirāt prāpyate), like the effect of poisoned foods once eaten (saviṣāṇām ivānnānāṃ bhuktānām).
+“In this world, O night-roamer (_kṣaṇadā-cara_), the fruit of sinful deeds (_pāpānāṃ karmaṇāṃ phalam_) is reaped before long (_nacirāt prāpyate_), like the effect of poisoned foods once eaten (_saviṣāṇām ivānnānāṃ bhuktānām_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ shaastaa shaastaa duraatmanaam | antaH pracchanna paapaanaam shaastaa vaivasvato
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O night-stalker (niśā-cara), I have been dispatched (āsāditaḥ) by the king (rājñā) to destroy the lives (prāṇān hantum) of those who perpetrate dreadful sin (pāpam ācaratāṃ ghoram) and seek the harm of the world (lokasyāpriyam icchatām).
+“O night-stalker (_niśā-cara_), I have been dispatched (_āsāditaḥ_) by the king (_rājñā_) to destroy the lives (_prāṇān hantum_) of those who perpetrate dreadful sin (_pāpam ācaratāṃ ghoram_) and seek the harm of the world (_lokasyāpriyam icchatām_).
 </details>
 </details>
 
@@ -634,7 +634,7 @@ they will kill all the sins lying like snakes inside that body of yours, and ret
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today arrows adorned with gold (śarāḥ kāñcana-bhūṣaṇāḥ), loosed by me (mayā muktāḥ), shall pierce (bhittvā) and cleave (vidārya) [your body] and pass right through (atipatiṣyanti), like serpents entering an anthill (valmīkam iva pannagāḥ).
+“Today arrows adorned with gold (_śarāḥ kāñcana-bhūṣaṇāḥ_), loosed by me (_mayā muktāḥ_), shall pierce (_bhittvā_) and cleave (_vidārya_) [your body] and pass right through (_atipatiṣyanti_), like serpents entering an anthill (_valmīkam iva pannagāḥ_).
 </details>
 </details>
 
@@ -702,7 +702,7 @@ Gita 8-6.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slain in battle today (adya nihataḥ saṃkhye) along with your army (sa-sainyaḥ), you shall follow after (anugamiṣyasi) those righteous ascetics (dharma-cāriṇaḥ) whom you devoured (bhakṣitāḥ) in the Daṇḍaka forest!
+“Slain in battle today (_adya nihataḥ saṃkhye_) along with your army (_sa-sainyaḥ_), you shall follow after (_anugamiṣyasi_) those righteous ascetics (_dharma-cāriṇaḥ_) whom you devoured (_bhakṣitāḥ_) in the Daṇḍaka forest!
 </details>
 </details>
 
@@ -771,7 +771,7 @@ etc., will be futile, hence, it is 'hellish pangs' by the hit of arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today let those supreme sages (paramarṣayaḥ) who were formerly slain by you (ye tvayā nihatāḥ purā), standing in their celestial cars (vimāna-sthāḥ), behold you slain by my arrows and cast into hell (niraya-stham)!
+“Today let those supreme sages (_paramarṣayaḥ_) who were formerly slain by you (_ye tvayā nihatāḥ purā_), standing in their celestial cars (_vimāna-sthāḥ_), behold you slain by my arrows and cast into hell (_niraya-stham_)!
 </details>
 </details>
 
@@ -837,7 +837,7 @@ like thundering clouds...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Strike as you wish (praharasva yathā-kāmam), make your utmost effort (kuru yatnam), O vilest of your race (kulādhama)! Today I shall strike down (pātayiṣyāmi) your head like a palmyra fruit (tāla-phalaṃ yathā).”
+“Strike as you wish (_praharasva yathā-kāmam_), make your utmost effort (_kuru yatnam_), O vilest of your race (_kulādhama_)! Today I shall strike down (_pātayiṣyāmi_) your head like a palmyra fruit (_tāla-phalaṃ yathā_).”
 </details>
 </details>
 
@@ -902,7 +902,7 @@ the non-adherers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, [Khara], wrathful (kruddhaḥ) and with bloodshot eyes (saṃrakta-locanaḥ), convulsed with rage (krodha-mūrcchitaḥ), laughed derisively (prahasan) and replied to Rāma:
+Thus addressed by Rāma, [Khara], wrathful (_kruddhaḥ_) and with bloodshot eyes (_saṃrakta-locanaḥ_), convulsed with rage (_krodha-mūrcchitaḥ_), laughed derisively (_prahasan_) and replied to Rāma:
 </details>
 </details>
 
@@ -962,7 +962,7 @@ to self-extol before small beings like us...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain mere common rākṣasas (prākṛtān rākṣasān) in battle, O son of Daśaratha, how do you praise yourself (ātmānaṃ praśaṃsasi) by yourself (ātmanā), when you are unworthy of praise (apraśasyam)?
+“Having slain mere common _rākṣasas_ (_prākṛtān rākṣasān_) in battle, O son of Daśaratha, how do you praise yourself (_ātmānaṃ praśaṃsasi_) by yourself (_ātmanā_), when you are unworthy of praise (_apraśasyam_)?
 </details>
 </details>
 
@@ -1023,7 +1023,7 @@ our curse at your hand...' Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those bull-like men (nararṣabhāḥ) who are truly valiant (vikrāntāḥ) or mighty (balavanto vā), though filled with high pride in their martial energy (tejasā cātigarvitāḥ), utter no [boastful] word (kathayanti na te kiṃcit).
+“Those bull-like men (_nararṣabhāḥ_) who are truly valiant (_vikrāntāḥ_) or mighty (_balavanto vā_), though filled with high pride in their martial energy (_tejasā cātigarvitāḥ_), utter no [boastful] word (_kathayanti na te kiṃcit_).
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ your duty righteously without much talk...' Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Base men (prākṛtāḥ) of undisciplined minds (akṛtātmānaḥ), who disgrace the kṣatriya order (kṣatriya-pāṃsanāḥ) in the world, boast in vain (nirarthakaṃ vikatthante), just as you boast (vikatthase), O Rāma!
+“Base men (_prākṛtāḥ_) of undisciplined minds (_akṛtātmānaḥ_), who disgrace the _kṣatriya_ order (_kṣatriya-pāṃsanāḥ_) in the world, boast in vain (_nirarthakaṃ vikatthante_), just as you boast (_vikatthase_), O Rāma!
 </details>
 </details>
 
@@ -1154,7 +1154,7 @@ extol yourself...' Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What hero (vīraḥ) in battle, when the hour of death has arrived (mṛtyu-kāle tu samprāpte), would vaunt his lineage (kulaṃ vyapadiśan) and utter praise of himself (svayam stavam) when there is no occasion for it (aprastave)?
+“What hero (_vīraḥ_) in battle, when the hour of death has arrived (_mṛtyu-kāle tu samprāpte_), would vaunt his lineage (_kulaṃ vyapadiśan_) and utter praise of himself (_svayam stavam_) when there is no occasion for it (_aprastave_)?
 </details>
 </details>
 
@@ -1238,7 +1238,7 @@ Khara is quickening Rama to proceed with fighting so that the ensuing salvation 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By your boasting (katthanena), your baseness (laghutvaṃ te) has been thoroughly exposed (sarvathā vidarśitam), just as [the baseness] of counterfeit gold (suvarṇa-pratirūpeṇa) is exposed when heated in a fire of kuśa grass (tapteneva kuśāgninā).
+“By your boasting (_katthanena_), your baseness (_laghutvaṃ te_) has been thoroughly exposed (_sarvathā vidarśitam_), just as [the baseness] of counterfeit gold (_suvarṇa-pratirūpeṇa_) is exposed when heated in a fire of _kuśa_ grass (_tapteneva kuśāgninā_).
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ laden with ores, isn't it! [3-29-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you not see me standing here (mām iha tiṣṭhantam) wielding my mace (gadā-dharam), unshakable (akampyam) like an earth-bearing mountain (dharādharam iva parvatam) veined with minerals (dhātubhiś citam)?
+“Do you not see me standing here (_mām iha tiṣṭhantam_) wielding my mace (_gadā-dharam_), unshakable (_akampyam_) like an earth-bearing mountain (_dharādharam iva parvatam_) veined with minerals (_dhātubhiś citam_)?
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ oh, Supreme Being...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mace in hand (gadā-pāṇiḥ), I am more than a match (paryāpto 'ham) to destroy your life in battle (hantuṃ prāṇān raṇe tava)—and the lives of all three worlds (trayāṇām api lokānām)—like Death the Ender with noose in hand (pāśa-hasta ivāntakaḥ).
+“Mace in hand (_gadā-pāṇiḥ_), I am more than a match (_paryāpto &#x27;ham_) to destroy your life in battle (_hantuṃ prāṇān raṇe tava_)—and the lives of all three worlds (_trayāṇām api lokānām_)—like Death the Ender with noose in hand (_pāśa-hasta ivāntakaḥ_).
 </details>
 </details>
 
@@ -1418,7 +1418,7 @@ chivalry and then I can dab the eyes of the wives of the demons so far killed by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though there is much that could be said (kāmaṃ bahv api vaktavyam) regarding you (tvayi), I shall not say it (vakṣyāmi na tv aham); the sun is approaching its setting (astaṃ prāpnoti savitā), and from that an interruption of the battle (yuddha-vighnaḥ) would ensue!
+“Though there is much that could be said (_kāmaṃ bahv api vaktavyam_) regarding you (_tvayi_), I shall not say it (_vakṣyāmi na tv aham_); the sun is approaching its setting (_astaṃ prāpnoti savitā_), and from that an interruption of the battle (_yuddha-vighnaḥ_) would ensue!
 </details>
 </details>
 
@@ -1488,7 +1488,7 @@ I can not but war, and you need not think that I am heedless of your words...' T
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fourteen thousand rākṣasas (caturdaśa sahasrāṇi rākṣasānām) have been slain by you (hatāni te); today through your destruction (tvad-vināśāt) I shall wipe away their tears (karomy adya teṣām aśru-pramārjanam)!”
+“Fourteen thousand _rākṣasas_ (_caturdaśa sahasrāṇi rākṣasānām_) have been slain by you (_hatāni te_); today through your destruction (_tvad-vināśāt_) I shall wipe away their tears (_karomy adya teṣām aśru-pramārjanam_)!”
 </details>
 </details>
 
@@ -1541,7 +1541,7 @@ golden cinctures, and which is extremely glaring like a thunderbolt. [3-29-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the furiously enraged (parama-kruddhaḥ) Khara hurled (cikṣepa) at Rāma his mace encircled with supreme gold bands (gadāṃ paramāṅgadām), like a blazing thunderbolt (pradīptām aśaniṃ yathā).
+Having spoken thus, the furiously enraged (_parama-kruddhaḥ_) Khara hurled (_cikṣepa_) at Rāma his mace encircled with supreme gold bands (_gadāṃ paramāṅgadām_), like a blazing thunderbolt (_pradīptām aśaniṃ yathā_).
 </details>
 </details>
 
@@ -1593,7 +1593,7 @@ down to ashes darted towards Rama. [3-29-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hurled from Khara's arm (khara-bāhu-pramuktā), that blazing, mighty mace (pradīptā mahatī gadā) reduced trees and thickets to ashes (bhasma vṛkṣāṃś ca gulmāṃś ca kṛtvā) and sped close toward him (agāt tat-samīpataḥ).
+Hurled from Khara&#x27;s arm (_khara-bāhu-pramuktā_), that blazing, mighty mace (_pradīptā mahatī gadā_) reduced trees and thickets to ashes (_bhasma vṛkṣāṃś ca gulmāṃś ca kṛtvā_) and sped close toward him (_agāt tat-samīpataḥ_).
 </details>
 </details>
 
@@ -1645,7 +1645,7 @@ smithereens with his arrows while it is still sky rocketing. [3-29-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that mighty mace, resembling the noose of Death (mṛtyu-pāśopamām), hurtled toward him (āpatantīm) in mid-air (antarikṣa-gatām), Rāma clove it into many pieces (ciccheda bahudhā) with his arrows.
+As that mighty mace, resembling the noose of Death (_mṛtyu-pāśopamām_), hurtled toward him (_āpatantīm_) in mid-air (_antarikṣa-gatām_), Rāma clove it into many pieces (_ciccheda bahudhā_) with his arrows.
 </details>
 </details>
 
@@ -1720,6 +1720,6 @@ antidotes, say spells and nostrums...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shattered (viśīrṇā) and cloven by the arrows (śarair bhinnā), that mace fell upon the surface of the earth (papāta dharaṇī-tale), like a female serpent (vyālīva) struck down by the power of spells and herbs (mantrauṣadhi-balair vinipātitā).
+Shattered (_viśīrṇā_) and cloven by the arrows (_śarair bhinnā_), that mace fell upon the surface of the earth (_papāta dharaṇī-tale_), like a female serpent (_vyālīva_) struck down by the power of spells and herbs (_mantrauṣadhi-balair vinipātitā_).
 </details>
 </details>

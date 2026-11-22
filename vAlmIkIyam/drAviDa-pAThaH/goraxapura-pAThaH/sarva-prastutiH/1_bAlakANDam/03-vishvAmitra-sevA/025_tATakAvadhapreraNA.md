@@ -91,7 +91,7 @@ replied him with estimable words. [1-25-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having heard that weighty utterance of the sage of immeasurable spiritual might (tasyāprameyasya muner vacanam uttamam), Rāma, that tiger among men (puruṣaśārdūlaḥ), spoke auspicious words in reply:
+Then, having heard that weighty utterance of the sage of immeasurable spiritual might (_tasyāprameyasya muner vacanam uttamam_), Rāma, that tiger among men (_puruṣaśārdūlaḥ_), spoke auspicious words in reply:
 </details>
 </details>
 
@@ -138,7 +138,7 @@ then this yakshii frail by her femineity can exert the strength of a thousand el
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since the Yakṣa race is heard of as possessing but slight strength, O foremost of sages (alpavīryā yadā yakṣī śrūyate munipuṅgava), how can she, being a woman, bear the strength of a thousand elephants (kathaṃ nāgasahasrasya dhārayaty abalā balam)?”
+“Since the Yakṣa race is heard of as possessing but slight strength, O foremost of sages (_alpavīryā yadā yakṣī śrūyate munipuṅgava_), how can she, being a woman, bear the strength of a thousand elephants (_kathaṃ nāgasahasrasya dhārayaty abalā balam_)?”
 </details>
 </details>
 
@@ -202,9 +202,9 @@ bestowal of a boon. [1-25-3, 4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Hearing those words spoken by Rāghava of boundless energy (rāghavasyāmitaujasaḥ), and gladdening that tamer of foes together with Lakṣmaṇa by his gentle speech (harṣayañ ślakṣṇayā vācā salakṣmaṇam arindamam),
+**3:** Hearing those words spoken by Rāghava of boundless energy (_rāghavasyāmitaujasaḥ_), and gladdening that tamer of foes together with Lakṣmaṇa by his gentle speech (_harṣayañ ślakṣṇayā vācā salakṣmaṇam arindamam_),
 
-**4:** Viśvāmitra spoke this word: “Hear whereby this woman, fierce in might (śṛṇu yena balotkaṭā), bears both valor and physical strength born of the bestowal of a boon (varadānakṛtaṃ vīryaṃ dhārayaty abalā balam)!
+**4:** Viśvāmitra spoke this word: “Hear whereby this woman, fierce in might (_śṛṇu yena balotkaṭā_), bears both valor and physical strength born of the bestowal of a boon (_varadānakṛtaṃ vīryaṃ dhārayaty abalā balam_)!
 </details>
 </details>
 
@@ -250,7 +250,7 @@ conduct performed a great ascesis. [1-25-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In former times there was a great and valiant Yakṣa named Suketu (pūrvam āsīn mahāyakṣaḥ suketur nāma vīryavān); being childless and of pure conduct, he practiced a mighty penance (anapatyaḥ śubhācāraḥ sa ca tepe mahat tapaḥ).
+In former times there was a great and valiant Yakṣa named Suketu (_pūrvam āsīn mahāyakṣaḥ suketur nāma vīryavān_); being childless and of pure conduct, he practiced a mighty penance (_anapatyaḥ śubhācāraḥ sa ca tepe mahat tapaḥ_).
 </details>
 </details>
 
@@ -295,7 +295,7 @@ is renowned by the name of Tataka. [1-25-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Well-pleased with that lord of Yakṣas at that time, the Grandsire Brahmā (pitāmahas tu suprītas tasya yakṣapates tadā) bestowed upon him a jewel of a maiden, Tāṭakā by name, O Rāma (kanyāratnaṃ dadau rāma tāṭakāṃ nāma nāmataḥ).
+Well-pleased with that lord of Yakṣas at that time, the Grandsire Brahmā (_pitāmahas tu suprītas tasya yakṣapates tadā_) bestowed upon him a jewel of a maiden, Tāṭakā by name, O Rāma (_kanyāratnaṃ dadau rāma tāṭakāṃ nāma nāmataḥ_).
 </details>
 </details>
 
@@ -356,7 +356,7 @@ remarkable Brahma did not give a son to that yaksha, anticipating male to be mor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Grandsire bestowed upon her the strength of a thousand elephants (dadau nāgasahasrasya balaṃ cāsyāḥ pitāmahaḥ); yet that glorious Lord Brahmā did not grant a son to the Yakṣa (na tv eva putraṃ yakṣāya dadau cāsau mahāyaśāḥ).
+The Grandsire bestowed upon her the strength of a thousand elephants (_dadau nāgasahasrasya balaṃ cāsyāḥ pitāmahaḥ_); yet that glorious Lord Brahmā did not grant a son to the Yakṣa (_na tv eva putraṃ yakṣāya dadau cāsau mahāyaśāḥ_).
 </details>
 </details>
 
@@ -405,7 +405,7 @@ Jambha's son Sunda as wife. [1-25-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that illustrious maiden grew up, radiant with beauty and youth (tāṃ tu bālāṃ vivardhantīṃ rūpayauvanaśālinīm), her father gave her in marriage to Sunda, the son of Jambha (jambhaputrāya sundāya dadau bhāryāṃ yaśasvinīm).
+When that illustrious maiden grew up, radiant with beauty and youth (_tāṃ tu bālāṃ vivardhantīṃ rūpayauvanaśālinīm_), her father gave her in marriage to Sunda, the son of Jambha (_jambhaputrāya sundāya dadau bhāryāṃ yaśasvinīm_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ by curse became a demon. [1-25-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-After the lapse of some time, the Yakṣī gave birth to a son (yakṣī putraṃ vyajāyata)—the unassailable Mārīca by name, who later became a rākṣasa through a curse (mārīcaṃ nāma durdharṣaṃ yaḥ śāpād rākṣaso ’bhavat).
+After the lapse of some time, the Yakṣī gave birth to a son (_yakṣī putraṃ vyajāyata_)—the unassailable Mārīca by name, who later became a rākṣasa through a curse (_mārīcaṃ nāma durdharṣaṃ yaḥ śāpād rākṣaso ’bhavat_).
 </details>
 </details>
 
@@ -499,7 +499,7 @@ that eminent sage along with her son Mareecha. [1-25-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Sunda had been slain, O Rāma, Tāṭakā, together with her son, sought to assault and overpower Agastya, the foremost of sages (agastyam ṛṣisattamam tāṭakā sahaputreṇa pradharṣayitum icchati).
+When Sunda had been slain, O Rāma, Tāṭakā, together with her son, sought to assault and overpower Agastya, the foremost of sages (_agastyam ṛṣisattamam tāṭakā sahaputreṇa pradharṣayitum icchati_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with fury and roaring aloud, she rushed at him to devour him (bhakṣārthaṃ jātasaṃrambhā garjantī sābhyadhāvata); beholding her rushing upon him, the venerable sage Agastya (āpatantīṃ tu tāṃ dṛṣṭvā agastyo bhagavān ṛṣiḥ)—
+Filled with fury and roaring aloud, she rushed at him to devour him (_bhakṣārthaṃ jātasaṃrambhā garjantī sābhyadhāvata_); beholding her rushing upon him, the venerable sage Agastya (_āpatantīṃ tu tāṃ dṛṣṭvā agastyo bhagavān ṛṣiḥ_)—
 </details>
 </details>
 
@@ -619,9 +619,9 @@ face contorted, and shape monstrous.' [1-25-12b, 13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Pronounced upon Mārīca: ‘Enter into the state of a rākṣasa (rākṣasatvaṃ bhajasveti mārīcaṃ vyājahāra saḥ)!’ And filled with supreme indignation, Agastya cursed Tāṭakā as well (agastyaḥ paramāmarṣas tāṭakām api śaptavān):
+**12:** Pronounced upon Mārīca: ‘Enter into the state of a rākṣasa (_rākṣasatvaṃ bhajasveti mārīcaṃ vyājahāra saḥ_)!’ And filled with supreme indignation, Agastya cursed Tāṭakā as well (_agastyaḥ paramāmarṣas tāṭakām api śaptavān_):
 
-**13:** ‘Forsaking forthwith this fair Yakṣī form (idaṃ rūpaṃ vihāyāśu), become a man-eating great Yakṣī, deformed and hideous-faced—let a dreadful form be yours (puruṣādī mahāyakṣī vikṛtā vikṛtānanā... dāruṇaṃ rūpam astu te)!’
+**13:** ‘Forsaking forthwith this fair Yakṣī form (_idaṃ rūpaṃ vihāyāśu_), become a man-eating great Yakṣī, deformed and hideous-faced—let a dreadful form be yours (_puruṣādī mahāyakṣī vikṛtā vikṛtānanā... dāruṇaṃ rūpam astu te_)!’
 </details>
 </details>
 
@@ -675,7 +675,7 @@ province, in which sage Agastya once sauntered. [1-25-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Transported with rage and maddened by indignation over that curse (saiṣā śāpakṛtāmarṣā tāṭakā krodhamūrchitā), this Tāṭakā now lays waste this auspicious region hallowed by the sojourn of Agastya (deśam utsādayaty enam agastyācaritaṃ śubham).
+Transported with rage and maddened by indignation over that curse (_saiṣā śāpakṛtāmarṣā tāṭakā krodhamūrchitā_), this Tāṭakā now lays waste this auspicious region hallowed by the sojourn of Agastya (_deśam utsādayaty enam agastyācaritaṃ śubham_).
 </details>
 </details>
 
@@ -721,7 +721,7 @@ eliminate this yakshii for the welfare of Brahmans and cows. [1-25-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the welfare of cows and Brāhmaṇas, O Rāghava (gobrāhmaṇahitārthāya), slay this evil-living, supremely dreadful Yakṣī of wicked valor (enāṃ rāghava durvṛttāṃ yakṣīṃ paramadāruṇām... jahi duṣṭaparākramām)!
+For the welfare of cows and Brāhmaṇas, O Rāghava (_gobrāhmaṇahitārthāya_), slay this evil-living, supremely dreadful Yakṣī of wicked valor (_enāṃ rāghava durvṛttāṃ yakṣīṃ paramadāruṇām... jahi duṣṭaparākramām_)!
 </details>
 </details>
 
@@ -770,7 +770,7 @@ Raghu's legatee, and none in the three worlds can possibly brave her. [1-25-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For across all the three worlds, O delight of the Raghus, no man whomsoever save you (tvām ṛte raghunandana) dares to slay this demoness afflicted by the sage’s curse (nahy enāṃ śāpasaṃsṛṣṭāṃ kaścid utsahate pumān nihantum).
+For across all the three worlds, O delight of the Raghus, no man whomsoever save you (_tvām ṛte raghunandana_) dares to slay this demoness afflicted by the sage’s curse (_nahy enāṃ śāpasaṃsṛṣṭāṃ kaścid utsahate pumān nihantum_).
 </details>
 </details>
 
@@ -822,7 +822,7 @@ a prince has to effectuate it intending the welfare of four categories of societ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor ought you to feel any compunction or pity on account of slaying a woman, O best of men (nahi te strīvadhakṛte ghṛṇā kāryā narottama); for a king’s son must perform whatever is required for the welfare of the fourfold social order (cāturvarṇyahitārthaṃ hi kartavyaṃ rājasūnunā)!
+Nor ought you to feel any compunction or pity on account of slaying a woman, O best of men (_nahi te strīvadhakṛte ghṛṇā kāryā narottama_); for a king’s son must perform whatever is required for the welfare of the fourfold social order (_cāturvarṇyahitārthaṃ hi kartavyaṃ rājasūnunā_)!
 </details>
 </details>
 
@@ -868,7 +868,7 @@ it is ruthless or humane, sinful or vilifying. [1-25-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether an act appear harsh or gentle (nṛśaṃsam anṛśaṃsaṃ vā), whether it seem a grave sin or attended with fault (pātakaṃ vā sadoṣaṃ vā), it must always be performed by a ruler for the sake of protecting the subjects (prajarakṣaṇakāraṇāt kartavyaṃ rakṣatā sadā)!
+Whether an act appear harsh or gentle (_nṛśaṃsam anṛśaṃsaṃ vā_), whether it seem a grave sin or attended with fault (_pātakaṃ vā sadoṣaṃ vā_), it must always be performed by a ruler for the sake of protecting the subjects (_prajarakṣaṇakāraṇāt kartavyaṃ rakṣatā sadā_)!
 </details>
 </details>
 
@@ -928,7 +928,7 @@ the legatee of Kakutstha, eliminate this infamy, as goodness is inevident in her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This is the eternal dharma of those who are charged with bearing the burden of sovereignty (rājyabhāraniyuktānām eṣa dharmaḥ sanātanaḥ). Slay this lawless demoness, O Kākutstha, for no dharma whatsoever abides in her (adharmyāṃ jahi kākutstha dharmo hy asyāṃ na vidyate)!
+This is the eternal _dharma_ of those who are charged with bearing the burden of sovereignty (_rājyabhāraniyuktānām eṣa dharmaḥ sanātanaḥ_). Slay this lawless demoness, O Kākutstha, for no _dharma_ whatsoever abides in her (_adharmyāṃ jahi kākutstha dharmo hy asyāṃ na vidyate_)!
 </details>
 </details>
 
@@ -974,7 +974,7 @@ daughter of Virochana, when she wished to annihilate earth, haven't we. [1-25-20
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For it is heard that in ancient times, O prince, Śakra (Indra) slew Virocana’s daughter Mantharā when she sought to destroy the earth (śrūyate hi purā śakro virocanasutāṃ nṛpa pṛthivīṃ hantum icchantīṃ mantharām abhyasūdayat).
+For it is heard that in ancient times, O prince, Śakra (Indra) slew Virocana’s daughter Mantharā when she sought to destroy the earth (_śrūyate hi purā śakro virocanasutāṃ nṛpa pṛthivīṃ hantum icchantīṃ mantharām abhyasūdayat_).
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ when she wished the world to become one without a governing factor, namely Indra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in ancient times, O Rāma, the devoted wife of Sage Bhṛgu, the mother of Kāvya (Śukrācārya), was slain by Lord Viṣṇu when she sought to render the world devoid of Indra (viṣṇunā ca purā rāma bhṛgupatnī pativratā anindraṃ lokam icchantī kāvyamātā niṣūditā)!
+And in ancient times, O Rāma, the devoted wife of Sage Bhṛgu, the mother of Kāvya (Śukrācārya), was slain by Lord Viṣṇu when she sought to render the world devoid of Indra (_viṣṇunā ca purā rāma bhṛgupatnī pativratā anindraṃ lokam icchantī kāvyamātā niṣūditā_)!
 </details>
 </details>
 
@@ -1117,7 +1117,7 @@ regarding Tataka's elimination. [1-25-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By these and by many other great-souled royal princes, the foremost of men, women given over to adharma have been slain (etaiś cānyaiś ca bahubhī rājaputrair mahātmabhiḥ adharmasahitā nāryo hatāḥ puruṣasattamaiḥ); therefore, casting aside all pity, slay her at my command, O prince (tasmād enāṃ ghṛṇāṃ tyaktvā jahi macchāsanān nṛpa)!”
+By these and by many other great-souled royal princes, the foremost of men, women given over to _adharma_ have been slain (_etaiś cānyaiś ca bahubhī rājaputrair mahātmabhiḥ adharmasahitā nāryo hatāḥ puruṣasattamaiḥ_); therefore, casting aside all pity, slay her at my command, O prince (_tasmād enāṃ ghṛṇāṃ tyaktvā jahi macchāsanān nṛpa_)!”
 </details>
 </details>
 

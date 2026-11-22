@@ -145,7 +145,7 @@ from the above *aatmavaan* normally means sagacious one.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered the vast forest (mahāraṇyam)—the forest of Daṇḍaka (daṇḍakāraṇyam)—the self-possessed (ātmavān) and unassailable (durdharṣaḥ) Rāma beheld a circle of ascetic hermitages (tāpasāśrama-maṇḍalam).
+Having entered the vast forest (_mahāraṇyam_)—the forest of Daṇḍaka (_daṇḍakāraṇyam_)—the self-possessed (_ātmavān_) and unassailable (_durdharṣaḥ_) Rāma beheld a circle of ascetic hermitages (_tāpasāśrama-maṇḍalam_).
 </details>
 </details>
 
@@ -218,7 +218,7 @@ the above Vedic hymn. God reveals Himself
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strewn round with sacred kuśa grass and bark-garments (kuśa-cīra-parikṣiptam) and enveloped in Brahmanic splendour (brāhmyā lakṣmyā), it was hard to gaze upon (durdarśam), like the blazing orb of the sun (sūrya-maṇḍalam) in the sky.
+Strewn round with sacred _kuśa_ grass and bark-garments (_kuśa-cīra-parikṣiptam_) and enveloped in Brahmanic splendour (_brāhmyā lakṣmyā_), it was hard to gaze upon (_durdarśam_), like the blazing orb of the sun (_sūrya-maṇḍalam_) in the sky.
 </details>
 </details>
 
@@ -269,7 +269,7 @@ they are the recourse for all living beings. [3-1-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ever a refuge for all living beings (śaraṇyaṃ sarva-bhūtānām) with its courtyards always well-swept (susammṛṣṭājiram), it was thronged with many deer and surrounded by flocks of birds (pakṣi-saṅghaiḥ).
+Ever a refuge for all living beings (_śaraṇyaṃ sarva-bhūtānām_) with its courtyards always well-swept (_susammṛṣṭājiram_), it was thronged with many deer and surrounded by flocks of birds (_pakṣi-saṅghaiḥ_).
 </details>
 </details>
 
@@ -347,9 +347,9 @@ or the end point is intractable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Constantly honored and danced near (upanṛttam) by troops of apsarases (apsarasāṃ gaṇaiḥ), [it was graced] with spacious fire-sanctuaries (agni-śaraṇaiḥ), sacrificial ladles and vessels (srug-bhāṇḍaiḥ), deerskins, and kuśa grass—
+**4:** Constantly honored and danced near (_upanṛttam_) by troops of _apsarases_ (_apsarasāṃ gaṇaiḥ_), [it was graced] with spacious fire-sanctuaries (_agni-śaraṇaiḥ_), sacrificial ladles and vessels (_srug-bhāṇḍaiḥ_), deerskins, and _kuśa_ grass—
 
-**5:** Adorned with sacrificial kindling (samidbhiḥ), water-pitchers (toya-kalaśaiḥ), fruits, and roots, and encompassed by sacred, mighty forest trees (āraṇyaiś ca mahā-vṛkṣaiḥ) bearing sweet fruits (svādu-phalaiḥ)—
+**5:** Adorned with sacrificial kindling (_samidbhiḥ_), water-pitchers (_toya-kalaśaiḥ_), fruits, and roots, and encompassed by sacred, mighty forest trees (_āraṇyaiś ca mahā-vṛkṣaiḥ_) bearing sweet fruits (_svādu-phalaiḥ_)—
 </details>
 </details>
 
@@ -394,7 +394,7 @@ Vedic sounds, and they are enwrapped with lotus ponds with lotuses, and even wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hallowed by bali offerings and fire-oblations (bali-homārcitam), sacred, resounding with the chanting of the Vedas (brahma-ghoṣa-nināditam), strewn round with other blossoms, and [graced] with a lotus-pond full of lotuses (padminyā ca sapadmayā).
+Hallowed by _bali_ offerings and fire-oblations (_bali-homārcitam_), sacred, resounding with the chanting of the Vedas (_brahma-ghoṣa-nināditam_), strewn round with other blossoms, and [graced] with a lotus-pond full of lotuses (_padminyā ca sapadmayā_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ some parts of India.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[That hermitage-circle] was filled with ancient sages (purāṇair munibhiḥ) who subsisted on fruits and roots (phala-mūlāśanaiḥ), were self-controlled (dāntaiḥ), wore garments of bark and black antelope-skin (cīra-kṛṣṇājināmbaraiḥ), and shone like the sun and fire (sūrya-vaiśvānarābhaiḥ)—
+[That hermitage-circle] was filled with ancient sages (_purāṇair munibhiḥ_) who subsisted on fruits and roots (_phala-mūlāśanaiḥ_), were self-controlled (_dāntaiḥ_), wore garments of bark and black antelope-skin (_cīra-kṛṣṇājināmbaraiḥ_), and shone like the sun and fire (_sūrya-vaiśvānarābhaiḥ_)—
 </details>
 </details>
 
@@ -514,7 +514,7 @@ chants alone. [3-1-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And graced by holy supreme sages (paramarṣibhiḥ) of regulated diet (niyatāhāraiḥ)—that [hermitage-circle], resembling the abode of Brahmā (brahma-bhavana-prakhyam) and resounding with the chanting of the Vedas (brahma-ghoṣa-nināditam),
+And graced by holy supreme sages (_paramarṣibhiḥ_) of regulated diet (_niyatāhāraiḥ_)—that [hermitage-circle], resembling the abode of Brahmā (_brahma-bhavana-prakhyam_) and resounding with the chanting of the Vedas (_brahma-ghoṣa-nināditam_),
 </details>
 </details>
 
@@ -569,7 +569,7 @@ the knowers of Brahma, neared it, unstringing the bowstring of his great bow. [3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned by illustrious brāhmaṇas who were knowers of Brahman (brahma-vidbhiḥ)—beholding that circle of ascetic hermitages (tāpasāśrama-maṇḍalam), the glorious Rāghava,
+Adorned by illustrious _brāhmaṇas_ who were knowers of Brahman (_brahma-vidbhiḥ_)—beholding that circle of ascetic hermitages (_tāpasāśrama-maṇḍalam_), the glorious Rāghava,
 </details>
 </details>
 
@@ -635,7 +635,7 @@ saints now, unfastened the bowstring in all his humbleness to sages and saints.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of mighty splendour (mahā-tejāḥ), approached it after unstringing his great bow (vijyaṃ kṛtvā mahad dhanuḥ). Seeing Rāma, those great sages endowed with divine knowledge (divya-jñānopapannāḥ)
+Of mighty splendour (_mahā-tejāḥ_), approached it after unstringing his great bow (_vijyaṃ kṛtvā mahad dhanuḥ_). Seeing Rāma, those great sages endowed with divine knowledge (_divya-jñānopapannāḥ_)
 </details>
 </details>
 
@@ -723,9 +723,9 @@ This context is also explained in the following ways:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Went forth in joy (prītāḥ) toward [him] and the illustrious Vaidehī; and beholding that follower of dharma (dharma-cāriṇam), who was like the rising moon (somam ivodyantam),
+**11:** Went forth in joy (_prītāḥ_) toward [him] and the illustrious Vaidehī; and beholding that follower of _dharma_ (_dharma-cāriṇam_), who was like the rising moon (_somam ivodyantam_),
 
-**12:** And seeing Lakṣmaṇa too and the illustrious Vaidehī, those sages of firm vows (dṛḍha-vratāḥ) welcomed them (pratyagṛhṇan), pronouncing auspicious blessings (maṅgalāni prayuñjānāḥ).
+**12:** And seeing Lakṣmaṇa too and the illustrious Vaidehī, those sages of firm vows (_dṛḍha-vratāḥ_) welcomed them (_pratyagṛhṇan_), pronouncing auspicious blessings (_maṅgalāni prayuñjānāḥ_).
 </details>
 </details>
 
@@ -790,7 +790,7 @@ wielding weapons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their expressions filled with wonder (vismitākārāḥ), the forest-dwellers (vana-vāsinaḥ) gazed upon Rāma’s beauty and bodily symmetry (rūpa-saṃhananam), radiance (lakṣmīm), delicate youthfulness (saukumāryam), and fair attire (suveṣatām).
+Their expressions filled with wonder (_vismitākārāḥ_), the forest-dwellers (_vana-vāsinaḥ_) gazed upon Rāma’s beauty and bodily symmetry (_rūpa-saṃhananam_), radiance (_lakṣmīm_), delicate youthfulness (_saukumāryam_), and fair attire (_suveṣatām_).
 </details>
 </details>
 
@@ -852,7 +852,7 @@ wink-less state [3-1-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those forest-dwellers gazed with unblinking eyes, as it were (netrair animiṣair iva), upon Vaidehī, Lakṣmaṇa, and Rāma, who appeared like marvels (āścarya-bhūtān).
+All those forest-dwellers gazed with unblinking eyes, as it were (_netrair animiṣair iva_), upon Vaidehī, Lakṣmaṇa, and Rāma, who appeared like marvels (_āścarya-bhūtān_).
 </details>
 </details>
 
@@ -903,7 +903,7 @@ as Rama is their guest a priori. [3-1-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There those illustrious sages, ever devoted to the welfare of all beings (sarva-bhūta-hite ratāḥ), lodged Rāghava as an honored guest (atithim) in a leaf-thatched cottage (parṇa-śālāyām).
+There those illustrious sages, ever devoted to the welfare of all beings (_sarva-bhūta-hite ratāḥ_), lodged Rāghava as an honored guest (_atithim_) in a leaf-thatched cottage (_parṇa-śālāyām_).
 </details>
 </details>
 
@@ -954,7 +954,7 @@ water for him. [3-1-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those illustrious followers of dharma (dharma-cāriṇaḥ), resplendent as fire (pāvakopamāḥ), having honored Rāma according to precept (vidhinā satkṛtya), brought water (salilam) [for arghya].
+Then those illustrious followers of _dharma_ (_dharma-cāriṇaḥ_), resplendent as fire (_pāvakopamāḥ_), having honored Rāma according to precept (_vidhinā satkṛtya_), brought water (_salilam_) [for _arghya_].
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uttering auspicious blessings (maṅgalāni prayuñjānāḥ) and filled with supreme joy (mudā paramayā yutāḥ), [offering] roots, flowers, fruits, and their entire hermitage (sarvam āśramam) to the great-souled one—
+Uttering auspicious blessings (_maṅgalāni prayuñjānāḥ_) and filled with supreme joy (_mudā paramayā yutāḥ_), [offering] roots, flowers, fruits, and their entire hermitage (_sarvam āśramam_) to the great-souled one—
 </details>
 </details>
 
@@ -1108,9 +1108,9 @@ alike, so shall the king bear with all of his subjects *pR^ithvii vrata*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Having presented [these], those knowers of dharma (dharma-jñāḥ), with joined palms (prāñjalayaḥ), spoke: “The protector of dharma (dharma-pālaḥ) for this people, their refuge (śaraṇyaḥ), and of great renown—”
+**18:** Having presented [these], those knowers of _dharma_ (_dharma-jñāḥ_), with joined palms (_prāñjalayaḥ_), spoke: “The protector of _dharma_ (_dharma-pālaḥ_) for this people, their refuge (_śaraṇyaḥ_), and of great renown—”
 
-**19:** “Worthy of worship (pūjanīyaḥ) and worthy of honor (mānyaḥ), the king is the wielder of the rod of justice (daṇḍadharaḥ) and a preceptor (guruḥ); as a fourth part of Indra himself (indrasyaiva catur-bhāgaḥ), O Rāghava, he protects the subjects (prajā rakṣati).”
+**19:** “Worthy of worship (_pūjanīyaḥ_) and worthy of honor (_mānyaḥ_), the king is the wielder of the rod of justice (_daṇḍadharaḥ_) and a preceptor (_guruḥ_); as a fourth part of Indra himself (_indrasyaiva catur-bhāgaḥ_), O Rāghava, he protects the subjects (_prajā rakṣati_).”
 </details>
 </details>
 
@@ -1155,7 +1155,7 @@ are our king... [3-1-20b,c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore the king, bowed to in reverence (namaskṛtaḥ), enjoys choice and delightful pleasures (varān bhogān ramyān). Dwelling within your realm (bhavad-viṣaya-vāsinaḥ), we are to be protected by you (bhavatā rakṣyāḥ); whether residing in the city or residing in the forest (nagarastho vanastho vā), you are our king and lord of men (janeśvaraḥ).”
+“Therefore the king, bowed to in reverence (_namaskṛtaḥ_), enjoys choice and delightful pleasures (_varān bhogān ramyān_). Dwelling within your realm (_bhavad-viṣaya-vāsinaḥ_), we are to be protected by you (_bhavatā rakṣyāḥ_); whether residing in the city or residing in the forest (_nagarastho vanastho vā_), you are our king and lord of men (_janeśvaraḥ_).”
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ is the only wealth of ours, thus oh! King, we are to be protected by you, like t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We have laid aside the rod of punishment (nyasta-daṇḍāḥ), O king, having conquered anger (jita-krodhāḥ) and subdued our senses (jitendriyāḥ); rich only in austerity (tapo-dhanāḥ), we are ever to be protected by you like embryos in the womb (garbha-bhūtāḥ).”
+“We have laid aside the rod of punishment (_nyasta-daṇḍāḥ_), O king, having conquered anger (_jita-krodhāḥ_) and subdued our senses (_jitendriyāḥ_); rich only in austerity (_tapo-dhanāḥ_), we are ever to be protected by you like embryos in the womb (_garbha-bhūtāḥ_).”
 </details>
 </details>
 
@@ -1257,7 +1257,7 @@ foods. [3-1-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, they honored Rāghava together with Lakṣmaṇa (salakṣmaṇam) with fruits, roots, flowers, and other varied forest foods (vanyaiś ca vividhāhāraiḥ).
+Having spoken thus, they honored Rāghava together with Lakṣmaṇa (_salakṣmaṇam_) with fruits, roots, flowers, and other varied forest foods (_vanyaiś ca vividhāhāraiḥ_).
 </details>
 </details>
 
@@ -1316,7 +1316,7 @@ to the wont of custom. [3-1-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Likewise other perfected ascetics (tāpasāḥ siddhāḥ), resplendent as fire (vaiśvānaropamāḥ) and righteous in conduct (nyāya-vṛttāḥ), gratified that Lord (īśvaram) Rāma in due accordance with precept (yathā-nyāyam).
+Likewise other perfected ascetics (_tāpasāḥ siddhāḥ_), resplendent as fire (_vaiśvānaropamāḥ_) and righteous in conduct (_nyāya-vṛttāḥ_), gratified that Lord (_īśvaram_) Rāma in due accordance with precept (_yathā-nyāyam_).
 </details>
 </details>
 

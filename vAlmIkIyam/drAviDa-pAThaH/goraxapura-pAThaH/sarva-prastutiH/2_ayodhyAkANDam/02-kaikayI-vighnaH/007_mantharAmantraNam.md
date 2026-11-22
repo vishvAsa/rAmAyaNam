@@ -74,7 +74,7 @@ ascended the balcony of Kaikeyi's white palace, which resembled the full moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A family handmaid (jñātidāsī) of unknown origin (yato jātā), who had lived alongside Kaikeyī from birth (kaikeyyā tu sahoṣitā), chanced (yadṛcchayā) to ascend the palace roof that gleamed like the moon (candrasaṃkāśam).
+A family handmaid (_jñātidāsī_) of unknown origin (_yato jātā_), who had lived alongside Kaikeyī from birth (_kaikeyyā tu sahoṣitā_), chanced (_yadṛcchayā_) to ascend the palace roof that gleamed like the moon (_candrasaṃkāśam_).
 </details>
 </details>
 
@@ -129,7 +129,7 @@ roads being sprinkled with water and strewn with heaps of flowers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From that lofty palace (tasmāt prāsādāt), Mantharā surveyed (anvavaikṣata) the whole of Ayodhyā, with its royal highways sprinkled (siktarājapathām) and strewn with red and blue lotuses (prakīrṇakamalotpalām),
+From that lofty palace (_tasmāt prāsādāt_), Mantharā surveyed (_anvavaikṣata_) the whole of Ayodhyā, with its royal highways sprinkled (_siktarājapathām_) and strewn with red and blue lotuses (_prakīrṇakamalotpalām_),
 </details>
 </details>
 
@@ -160,7 +160,7 @@ From that lofty palace (tasmāt prāsādāt), Mantharā surveyed (anvavaikṣata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-richly adorned (samalaṃkṛtām) with precious pennants (patākābhir varārhābhiḥ) and emblemed banners (dhvajaiś ca), sprinkled with sandalwood-scented waters (candanatoyaiḥ), and filled with people who had bathed their heads (śiraḥsnātajanair yutām),
+richly adorned (_samalaṃkṛtām_) with precious pennants (_patākābhir varārhābhiḥ_) and emblemed banners (_dhvajaiś ca_), sprinkled with sandalwood-scented waters (_candanatoyaiḥ_), and filled with people who had bathed their heads (_śiraḥsnātajanair yutām_),
 </details>
 </details>
 
@@ -195,9 +195,9 @@ richly adorned (samalaṃkṛtām) with precious pennants (patākābhir varārh�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** resounding (abhināditām) with foremost brāhmaṇas holding garlands and sweetmeats in their hands (mālyamodakahastaiḥ), having its temple gateways gleaming white (śukladevagṛhadvārām), and echoing with musical instruments of every kind (sarvavāditranāditām),
+**4:** resounding (_abhināditām_) with foremost _brāhmaṇas_ holding garlands and sweetmeats in their hands (_mālyamodakahastaiḥ_), having its temple gateways gleaming white (_śukladevagṛhadvārām_), and echoing with musical instruments of every kind (_sarvavāditranāditām_),
 
-**5:** thronged with rejoicing people (samprahṛṣṭajanākīrṇām), resonant with the chanting of the Vedas (brahmaghoṣanināditām), its noble elephants and horses exhilarated (prahṛṣṭavarahastyaśvām), and its bulls bellowing aloud (sampraṇarditagovṛṣām).
+**5:** thronged with rejoicing people (_samprahṛṣṭajanākīrṇām_), resonant with the chanting of the Vedas (_brahmaghoṣanināditām_), its noble elephants and horses exhilarated (_prahṛṣṭavarahastyaśvām_), and its bulls bellowing aloud (_sampraṇarditagovṛṣām_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ noise. The highly delighted citizens hoisted rows of flags on their housetops.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Ayodhyā garlanded with tall banners (ucchritadhvajamālinīm) hoisted by the thrilled and joyful citizens (hṛṣṭapramuditaiḥ pauraiḥ), Mantharā was struck with utter astonishment (paraṃ vismayam āgatā).
+Beholding Ayodhyā garlanded with tall banners (_ucchritadhvajamālinīm_) hoisted by the thrilled and joyful citizens (_hṛṣṭapramuditaiḥ pauraiḥ_), Mantharā was struck with utter astonishment (_paraṃ vismayam āgatā_).
 </details>
 </details>
 
@@ -320,7 +320,7 @@ standing nearby, as follows: -
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Rāma’s nurse (dhātrīm) standing not far away (avidūre sthitām), clad in white linen (pāṇḍurakṣaumavāsinīm) and her eyes wide with joy (harṣotphullanayanām), Mantharā questioned her:
+Seeing Rāma’s nurse (_dhātrīm_) standing not far away (_avidūre sthitām_), clad in white linen (_pāṇḍurakṣaumavāsinīm_) and her eyes wide with joy (_harṣotphullanayanām_), Mantharā questioned her:
 </details>
 </details>
 
@@ -393,9 +393,9 @@ great act? Tell me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “Why (kiṃ nu) is Rāma’s mother (rāmamātā), though usually intent on accumulating wealth (arthaparā satī), now filled with supreme joy (uttamena harṣeṇa) and lavishing wealth upon the people (dhanaṃ janebhyaḥ saṃprayacchati)?
+**8:** “Why (_kiṃ nu_) is Rāma’s mother (_rāmamātā_), though usually intent on accumulating wealth (_arthaparā satī_), now filled with supreme joy (_uttamena harṣeṇa_) and lavishing wealth upon the people (_dhanaṃ janebhyaḥ saṃprayacchati_)?
 
-**9:** Tell me (śaṃsa me), why is there such boundless jubilation (atimātraṃ praharṣaḥ) among these people, and what is the delighted monarch (samprahṛṣṭo mahīpatiḥ) about to have performed (kiṃ vāpi kārayiṣyati)?”
+**9:** Tell me (_śaṃsa me_), why is there such boundless jubilation (_atimātraṃ praharṣaḥ_) among these people, and what is the delighted monarch (_samprahṛṣṭo mahīpatiḥ_) about to have performed (_kiṃ vāpi kārayiṣyati_)?”
 </details>
 </details>
 
@@ -468,9 +468,9 @@ fault-less Rama for the princely kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Bursting, as it were, with joy (vidīryamāṇā harṣeṇa), the nurse in supreme delight (parayā mudā) then declared (ācacakṣe) to the hunchback (kubjāyai) the preeminent royal fortune (bhūyasīṃ śriyam) being bestowed upon Rāghava:
+**10:** Bursting, as it were, with joy (_vidīryamāṇā harṣeṇa_), the nurse in supreme delight (_parayā mudā_) then declared (_ācacakṣe_) to the hunchback (_kubjāyai_) the preeminent royal fortune (_bhūyasīṃ śriyam_) being bestowed upon Rāghava:
 
-**11:** “Tomorrow under the asterism Puṣya (śvaḥ puṣyeṇa), King Daśaratha shall indeed consecrate (abhiṣektā hi) in the office of Prince Regent (yauvarājyena) the sinless (anagham) Rāma Rāghava, who has conquered anger (jitakrodham).”
+**11:** “Tomorrow under the asterism Puṣya (_śvaḥ puṣyeṇa_), King Daśaratha shall indeed consecrate (_abhiṣektā hi_) in the office of Prince Regent (_yauvarājyena_) the sinless (_anagham_) Rāma Rāghava, who has conquered anger (_jitakrodham_).”
 </details>
 </details>
 
@@ -522,7 +522,7 @@ the roof of the palace, which was in the shape of mount Kailasa.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the nurse’s words, the hunchback (kubjā), instantly filled with wrath (kṣipram amarṣitaḥ), descended (avarohata) from that palace which resembled the peak of Mount Kailāsa (kailāsaśikharākārāt).
+Hearing the nurse’s words, the hunchback (_kubjā_), instantly filled with wrath (_kṣipram amarṣitaḥ_), descended (_avarohata_) from that palace which resembled the peak of Mount Kailāsa (_kailāsaśikharākārāt_).
 </details>
 </details>
 
@@ -582,7 +582,7 @@ a bed and spoke these words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Burning with wrath (dahyamānā krodhena), that evil-plotting (pāpadarśinī) Mantharā approached Kaikeyī while she was still reclining on her couch (śayānām eva) and spoke these words:
+Burning with wrath (_dahyamānā krodhena_), that evil-plotting (_pāpadarśinī_) Mantharā approached Kaikeyī while she was still reclining on her couch (_śayānām eva_) and spoke these words:
 </details>
 </details>
 
@@ -635,7 +635,7 @@ flood of troubles submerges you. Why are you not knowing this yourself?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rise up, O foolish woman (mūḍhe)! Why do you lie asleep (kiṃ śeṣe)? A terrible peril is closing in upon you (bhayaṃ tvām abhivartate); do you not realize (nātmānam avabudhyase) that you are overwhelmed by a flood of calamity (upaplutam aghaughena)?
+“Rise up, O foolish woman (_mūḍhe_)! Why do you lie asleep (_kiṃ śeṣe_)? A terrible peril is closing in upon you (_bhayaṃ tvām abhivartate_); do you not realize (_nātmānam avabudhyase_) that you are overwhelmed by a flood of calamity (_upaplutam aghaughena_)?
 </details>
 </details>
 
@@ -692,7 +692,7 @@ unsteady".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O you who are unloved by your husband (aniṣṭe) yet wear the outward guise of a favored wife (subhagākāre), you boast in vain of your good fortune (saubhāgyena vikatthase)! For your marital favor is as fleeting (calaṃ hi tava saubhāgyam) as the stream of a river in the hot season (nadyāḥ srota ivoṣṇage).”
+O you who are unloved by your husband (_aniṣṭe_) yet wear the outward guise of a favored wife (_subhagākāre_), you boast in vain of your good fortune (_saubhāgyena vikatthase_)! For your marital favor is as fleeting (_calaṃ hi tava saubhāgyam_) as the stream of a river in the hot season (_nadyāḥ srota ivoṣṇage_).”
 </details>
 </details>
 
@@ -738,7 +738,7 @@ of sinful thoughts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed in such harsh words (paruṣaṃ vacaḥ) by the angry and evil-minded hunchback (kubjayā pāpadarśinyā), Kaikeyī fell into deep dejection (viṣādam agamat param).
+Addressed in such harsh words (_paruṣaṃ vacaḥ_) by the angry and evil-minded hunchback (_kubjayā pāpadarśinyā_), Kaikeyī fell into deep dejection (_viṣādam agamat param_).
 </details>
 </details>
 
@@ -791,7 +791,7 @@ You appear to be very sorrowful with your worried face".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kaikeyī then said to the hunchback: “Is all not well (kaccit kṣemaṃ na), O Mantharā? For I see you (tvāṃ lakṣaye) with a downcast face (viṣaṇṇavadanām) and sorely distressed (bhṛśaduḥkhitām).”
+Kaikeyī then said to the hunchback: “Is all not well (_kaccit kṣemaṃ na_), O Mantharā? For I see you (_tvāṃ lakṣaye_) with a downcast face (_viṣaṇṇavadanām_) and sorely distressed (_bhṛśaduḥkhitām_).”
 </details>
 </details>
 
@@ -865,9 +865,9 @@ between Rama and Kaikeyi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Hearing Kaikeyī’s gentle-syllabled speech (vacaḥ madhurākṣaram), Mantharā, skilled in speech (vākyaviśāradā), spoke these words filled with wrath (krodhasaṃyuktā):
+**18:** Hearing Kaikeyī’s gentle-syllabled speech (_vacaḥ madhurākṣaram_), Mantharā, skilled in speech (_vākyaviśāradā_), spoke these words filled with wrath (_krodhasaṃyuktā_):
 
-**19:** Growing even more downcast in appearance (viṣaṇṇatarā bhūtvā), that hunchback, desiring Kaikeyī’s interest (tasyāṃ hitaiṣiṇī), spoke forth, plunging her into deeper dismay (viṣādayantī) and alienating her from Rāghava (bhedayantī ca rāghavam):
+**19:** Growing even more downcast in appearance (_viṣaṇṇatarā bhūtvā_), that hunchback, desiring Kaikeyī’s interest (_tasyāṃ hitaiṣiṇī_), spoke forth, plunging her into deeper dismay (_viṣādayantī_) and alienating her from Rāghava (_bhedayantī ca rāghavam_):
 </details>
 </details>
 
@@ -922,7 +922,7 @@ anoint Rama for the princely kingdom".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“An irremediable (akṣayam) and mighty ruin (sumahat tvadvināśanam) has been set in motion, O queen: King Daśaratha is about to consecrate Rāma in the office of Prince Regent (yauvarājye 'bhiṣekṣyati)!
+“An irremediable (_akṣayam_) and mighty ruin (_sumahat tvadvināśanam_) has been set in motion, O queen: King Daśaratha is about to consecrate Rāma in the office of Prince Regent (_yauvarājye &#x27;bhiṣekṣyati_)!
 </details>
 </details>
 
@@ -968,7 +968,7 @@ as if by fire. I hastened here to seek you out."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Plunged into a bottomless abyss of fear (agādhe bhaye magnā), overwhelmed by pain and grief (duḥkhaśokasamanvitā), and burning as though with fire (dahyamānānaleneva), I have come here for the sake of your welfare (tvaddhitārtham).
+Plunged into a bottomless abyss of fear (_agādhe bhaye magnā_), overwhelmed by pain and grief (_duḥkhaśokasamanvitā_), and burning as though with fire (_dahyamānānaleneva_), I have come here for the sake of your welfare (_tvaddhitārtham_).
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ name itself will be removed from the royal clan."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By your sorrow, O Kaikeyī, great sorrow befalls me (mama duḥkhaṃ mahad bhavet), and in your prosperity lies my own prosperity (tvadvṛddhau mama vṛddhiś ca) in this world; of this there is no doubt (na saṃśayaḥ).
+By your sorrow, O Kaikeyī, great sorrow befalls me (_mama duḥkhaṃ mahad bhavet_), and in your prosperity lies my own prosperity (_tvadvṛddhau mama vṛddhiś ca_) in this world; of this there is no doubt (_na saṃśayaḥ_).
 </details>
 </details>
 
@@ -1070,7 +1070,7 @@ that you are not knowing about the cruelty in kingly duties?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Born in a royal house (narādhipakule jātā) and the consecrated queen consort of the lord of the earth (mahiṣī tvaṃ mahīpateḥ), how is it, O queen, that you do not comprehend the ruthless severity of royal politics (ugratvaṃ rājadharmāṇām)?
+Born in a royal house (_narādhipakule jātā_) and the consecrated queen consort of the lord of the earth (_mahiṣī tvaṃ mahīpateḥ_), how is it, O queen, that you do not comprehend the ruthless severity of royal politics (_ugratvaṃ rājadharmāṇām_)?
 </details>
 </details>
 
@@ -1118,7 +1118,7 @@ you thus."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Your husband speaks of righteousness (dharmavādī) while acting deceitfully (śaṭhaḥ), and speaks honeyed words (ślakṣṇavādī) while ruthless at heart (dāruṇaḥ); because of your own guileless nature (śuddhabhāvena), you know him not, and thus you have been betrayed by him (tenaivam atisaṃdhitā).”
+Your husband speaks of righteousness (_dharmavādī_) while acting deceitfully (_śaṭhaḥ_), and speaks honeyed words (_ślakṣṇavādī_) while ruthless at heart (_dāruṇaḥ_); because of your own guileless nature (_śuddhabhāvena_), you know him not, and thus you have been betrayed by him (_tenaivam atisaṃdhitā_).”
 </details>
 </details>
 
@@ -1178,7 +1178,7 @@ on benefit today to Kausalya only."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Approaching you (upasthitaḥ) and plying you with empty, fruitless blandishments (tvayi sāntvam anarthakaṃ prayuñjānaḥ), your husband will today unite Kausalyā with true substance (arthenaiva kausalyāṃ yojayiṣyati).
+“Approaching you (_upasthitaḥ_) and plying you with empty, fruitless blandishments (_tvayi sāntvam anarthakaṃ prayuñjānaḥ_), your husband will today unite Kausalyā with true substance (_arthenaiva kausalyāṃ yojayiṣyati_).
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ is going to install Rama on the throne without hindrance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having packed Bharata off (apavāhya) to your kinsmen (tava bandhuṣu), that evil-minded king (duṣṭātmā) will at daybreak (kālye) install Rāma (sthāpayitā rāmam) in a sovereignty cleared of all thorns (rājye nihatakaṇṭake).
+Having packed Bharata off (_apavāhya_) to your kinsmen (_tava bandhuṣu_), that evil-minded king (_duṣṭātmā_) will at daybreak (_kālye_) install Rāma (_sthāpayitā rāmam_) in a sovereignty cleared of all thorns (_rājye nihatakaṇṭake_).
 </details>
 </details>
 
@@ -1285,7 +1285,7 @@ and is called husband for a namesake. He is like a poisonous serpent in your bos
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O naive woman (bāle), out of a desire for his welfare (hitakāmyayā) like a mother (mātreva), you have cherished upon your lap (aṅgena paridhṛtaḥ), like a venomous serpent (āśīviṣa iva), an enemy bearing the mere name of husband (śatruḥ patipravādena)!
+O naive woman (_bāle_), out of a desire for his welfare (_hitakāmyayā_) like a mother (_mātreva_), you have cherished upon your lap (_aṅgena paridhṛtaḥ_), like a venomous serpent (_āśīviṣa iva_), an enemy bearing the mere name of husband (_śatruḥ patipravādena_)!
 </details>
 </details>
 
@@ -1337,7 +1337,7 @@ or a serpent would behave if ignored."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For just as an enemy (śatrur vā) or a serpent (sarpo vā) left unheeded (pratyupekṣitaḥ) would act, even so have you, together with your son (saputrā tvam), been treated today (tathā kṛtā) by King Daśaratha.
+For just as an enemy (_śatrur vā_) or a serpent (_sarpo vā_) left unheeded (_pratyupekṣitaḥ_) would act, even so have you, together with your son (_saputrā tvam_), been treated today (_tathā kṛtā_) by King Daśaratha.
 </details>
 </details>
 
@@ -1391,7 +1391,7 @@ son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O foolish one (bāle), accustomed forever to comfort (nityaṃ sukhocitā), by this wicked king of false blandishments (pāpenānṛtasāntvena) who is installing Rāma on the throne (rāmaṃ sthāpayatā rājye), you are utterly ruined along with all your dependents (sānubandhā hatā hy asi)!
+O foolish one (_bāle_), accustomed forever to comfort (_nityaṃ sukhocitā_), by this wicked king of false blandishments (_pāpenānṛtasāntvena_) who is installing Rāma on the throne (_rāmaṃ sthāpayatā rājye_), you are utterly ruined along with all your dependents (_sānubandhā hatā hy asi_)!
 </details>
 </details>
 
@@ -1438,7 +1438,7 @@ save yourself, your son and me too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O Kaikeyī of wondrous aspect (vismayadarśane), swiftly do what is salutary for yourself and suited to the urgent hour (prāptakālaṃ kṣipraṃ kuru hitaṃ tava): save your son, yourself, and me (trāyasva putram ātmānaṃ māṃ ca)!”
+Therefore, O Kaikeyī of wondrous aspect (_vismayadarśane_), swiftly do what is salutary for yourself and suited to the urgent hour (_prāptakālaṃ kṣipraṃ kuru hitaṃ tava_): save your son, yourself, and me (_trāyasva putram ātmānaṃ māṃ ca_)!”
 </details>
 </details>
 
@@ -1499,7 +1499,7 @@ rose from her coach full of delight like unto the crescent moon in autumn.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Mantharā’s words, that fair-faced queen (śubhānanā), filled with joy (harṣasampūrṇā), rose up (uttasthau) from her couch like the crescent moon of autumn (candralekheva śāradī).
+Hearing Mantharā’s words, that fair-faced queen (_śubhānanā_), filled with joy (_harṣasampūrṇā_), rose up (_uttasthau_) from her couch like the crescent moon of autumn (_candralekheva śāradī_).
 </details>
 </details>
 
@@ -1551,7 +1551,7 @@ hunch-backed Manthara.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exceedingly delighted (atīva saṃtuṣṭā) and filled with wonder (vismayānvitā), Kaikeyī presented (pradadau) to that hunchback a splendid, resplendent ornament (divyam ābharaṇaṃ śubham).
+Exceedingly delighted (_atīva saṃtuṣṭā_) and filled with wonder (_vismayānvitā_), Kaikeyī presented (_pradadau_) to that hunchback a splendid, resplendent ornament (_divyam ābharaṇaṃ śubham_).
 </details>
 </details>
 
@@ -1622,9 +1622,9 @@ who informed such a good news?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** Having given that ornament to the hunchback, Kaikeyī, foremost of women (pramadottamā), rejoiced (hṛṣṭā) and spoke thus once again (punar evābravīd idam) to Mantharā:
+**33:** Having given that ornament to the hunchback, Kaikeyī, foremost of women (_pramadottamā_), rejoiced (_hṛṣṭā_) and spoke thus once again (_punar evābravīd idam_) to Mantharā:
 
-**34:** “You have told me (mahyam ākhyātam) this news of supreme delight (paramaṃ priyam), O Mantharā! Now that you have announced what is so dear to me (etan me priyam ākhyātam), what more can I do for you (kiṃ vā bhūyaḥ karomi te)?
+**34:** “You have told me (_mahyam ākhyātam_) this news of supreme delight (_paramaṃ priyam_), O Mantharā! Now that you have announced what is so dear to me (_etan me priyam ākhyātam_), what more can I do for you (_kiṃ vā bhūyaḥ karomi te_)?
 </details>
 </details>
 
@@ -1671,7 +1671,7 @@ Rama is being anointed for crown by the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I perceive no difference (viśeṣaṃ nopalakṣaye) between Rāma and Bharata (rāme vā bharate vā); therefore I am delighted (tasmāt tuṣṭāsmi) that the king is about to consecrate Rāma in the sovereignty (rāmaṃ rājye 'bhiṣekṣyati).
+I perceive no difference (_viśeṣaṃ nopalakṣaye_) between Rāma and Bharata (_rāme vā bharate vā_); therefore I am delighted (_tasmāt tuṣṭāsmi_) that the king is about to consecrate Rāma in the sovereignty (_rāmaṃ rājye &#x27;bhiṣekṣyati_).
 </details>
 </details>
 
@@ -1744,7 +1744,7 @@ Ask for it!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O you who are worthy of every favor (priyārhe), there is no other speech sweeter to me than this (na me paraṃ kiṃcid ito varaṃ vaco'mṛtam); because you have spoken such supremely welcome tidings, I grant you (te pradadāmi) a further, excellent boon (priyottaraṃ varaṃ param)—choose it (taṃ vṛṇu)!”
+O you who are worthy of every favor (_priyārhe_), there is no other speech sweeter to me than this (_na me paraṃ kiṃcid ito varaṃ vaco&#x27;mṛtam_); because you have spoken such supremely welcome tidings, I grant you (_te pradadāmi_) a further, excellent boon (_priyottaraṃ varaṃ param_)—choose it (_taṃ vṛṇu_)!”
 </details>
 </details>
 

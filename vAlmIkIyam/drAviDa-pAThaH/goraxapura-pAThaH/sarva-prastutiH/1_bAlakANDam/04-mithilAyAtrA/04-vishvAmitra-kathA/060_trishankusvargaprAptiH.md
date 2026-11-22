@@ -77,7 +77,7 @@ continued his narration of Trishanku's legend. [1-60-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing that the sons of Vasiṣṭha together with Mahodaya had been struck down by the might of his asceticism (tapobalahatān jñātvā vāsiṣṭhān samahodayān), Viśvāmitra of great splendour spoke thus in the midst of the sages (ṛṣimadhye mahātejā viśvāmitro ’bhyabhāṣata):
+Knowing that the sons of Vasiṣṭha together with Mahodaya had been struck down by the might of his asceticism (_tapobalahatān jñātvā vāsiṣṭhān samahodayān_), Viśvāmitra of great splendour spoke thus in the midst of the sages (_ṛṣimadhye mahātejā viśvāmitro ’bhyabhāṣata_):
 </details>
 </details>
 
@@ -132,7 +132,7 @@ started to speak to sages. [1-60-2, 3b]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This scion of Ikṣvāku, renowned by the name of Triśaṅku (ayam ikṣvākudāyādas triśaṅkur iti viśrutaḥ), is supremely righteous and munificent (dharmiṣṭhaś ca vadānyaś ca), and has sought refuge in me (māṃ caiva śaraṇaṃ gataḥ)
+“This scion of Ikṣvāku, renowned by the name of Triśaṅku (_ayam ikṣvākudāyādas triśaṅkur iti viśrutaḥ_), is supremely righteous and munificent (_dharmiṣṭhaś ca vadānyaś ca_), and has sought refuge in me (_māṃ caiva śaraṇaṃ gataḥ_)
 </details>
 </details>
 
@@ -180,7 +180,7 @@ the heaven of gods.' Thus Vishvamitra advised the conductors of the ritual. [1-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“with the desire of winning the realm of the gods in this very body of his (svenānena śarīreṇa devalokajigīṣayā). So that this monarch may ascend to the realm of the gods in his own body (yathāyaṃ svaśarīreṇa devalokaṃ gamiṣyati),
+“with the desire of winning the realm of the gods in this very body of his (_svenānena śarīreṇa devalokajigīṣayā_). So that this monarch may ascend to the realm of the gods in his own body (_yathāyaṃ svaśarīreṇa devalokaṃ gamiṣyati_),
 </details>
 </details>
 
@@ -231,9 +231,9 @@ Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “let the sacrifice be set in motion by you together with me (tathā pravartyatāṃ yajño bhavadbhiś ca mayā saha)!” Hearing the words of Viśvāmitra, all those great sages,
+**4:** “let the sacrifice be set in motion by you together with me (_tathā pravartyatāṃ yajño bhavadbhiś ca mayā saha_)!” Hearing the words of Viśvāmitra, all those great sages,
 
-**5:** knowers of dharma (dharmajñāḥ), coming together at once, spoke words consonant with prudence and dharma (ūcuḥ sametāḥ sahasā dharmasaṃhitam): “This scion of Kuśika is a sage of supreme wrath (ayaṃ kuśikadāyādo muniḥ paramakopanaḥ)!
+**5:** knowers of _dharma_ (_dharmajñāḥ_), coming together at once, spoke words consonant with prudence and _dharma_ (_ūcuḥ sametāḥ sahasā dharmasaṃhitam_): “This scion of Kuśika is a sage of supreme wrath (_ayaṃ kuśikadāyādo muniḥ paramakopanaḥ_)!
 </details>
 </details>
 
@@ -313,9 +313,9 @@ preside over it.' Thus, the officiators conceded among themselves. [1-60-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “Whatever word he has spoken must be thoroughly carried out—of this there is no doubt (yad āha vacanaṃ samyag etat kāryaṃ na saṃśayaḥ). For the revered sage is like blazing fire, and in wrath will surely pronounce a curse (agnikalpo hi bhagavān śāpaṃ dāsyati roṣataḥ)!
+**6:** “Whatever word he has spoken must be thoroughly carried out—of this there is no doubt (_yad āha vacanaṃ samyag etat kāryaṃ na saṃśayaḥ_). For the revered sage is like blazing fire, and in wrath will surely pronounce a curse (_agnikalpo hi bhagavān śāpaṃ dāsyati roṣataḥ_)!
 
-**7:** “Therefore let the sacrifice be set in motion (tasmāt pravartyatāṃ yajñaḥ), so that the scion of Ikṣvāku may ascend to heaven in his very body through the fiery splendour of Viśvāmitra (saśarīro yathā divi gacched ikṣvākudāyādo viśvāmitrasya tejasā)!
+**7:** “Therefore let the sacrifice be set in motion (_tasmāt pravartyatāṃ yajñaḥ_), so that the scion of Ikṣvāku may ascend to heaven in his very body through the fiery splendour of Viśvāmitra (_saśarīro yathā divi gacched ikṣvākudāyādo viśvāmitrasya tejasā_)!
 </details>
 </details>
 
@@ -368,7 +368,7 @@ Vishvamitra himself became its principal officiator. [1-60-8b, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the sacrifice proceed, then; do you all take up your respective offices (sarve samadhitiṣṭhata)!” Having spoken thus, the great sages gathered all the sacrificial requisites and rites at that time (saṃjahrus tāḥ kriyās tadā).
+“Let the sacrifice proceed, then; do you all take up your respective offices (_sarve samadhitiṣṭhata_)!” Having spoken thus, the great sages gathered all the sacrificial requisites and rites at that time (_saṃjahrus tāḥ kriyās tadā_).
 </details>
 </details>
 
@@ -417,7 +417,7 @@ for conducting such rituals. [1-60-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Viśvāmitra of great splendour became the chief officiating priest at the sacrifice (yājakaś ca mahātejā viśvāmitro ’bhavat kratau); and the officiating priests skilled in sacred formulas (ṛtvijaś ca mantrakovidāḥ), in due order and with proper mantras (ānupūrvyeṇa mantravat),
+Viśvāmitra of great splendour became the chief officiating priest at the sacrifice (_yājakaś ca mahātejā viśvāmitro ’bhavat kratau_); and the officiating priests skilled in sacred formulas (_ṛtvijaś ca mantrakovidāḥ_), in due order and with proper mantras (_ānupūrvyeṇa mantravat_),
 </details>
 </details>
 
@@ -465,9 +465,9 @@ oblations in that ritual. [1-60-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** performed all the ritual acts according to the Kalpa precepts and authoritative tradition (cakruḥ sarvāṇi karmāṇi yathākalpaṃ yathāvidhi). Then, over a long period of time (tataḥ kālena mahatā), Viśvāmitra of mighty asceticism
+**10:** performed all the ritual acts according to the _Kalpa_ precepts and authoritative tradition (_cakruḥ sarvāṇi karmāṇi yathākalpaṃ yathāvidhi_). Then, over a long period of time (_tataḥ kālena mahatā_), Viśvāmitra of mighty asceticism
 
-**11:** performed the invocation of all the deities there to receive their sacrificial shares (cakārāvāhanaṃ tatra bhāgārthaṃ sarvadevatāḥ); yet none of the deities came thither at that time to accept their shares (nābhyāgamaṃs tadā tatra bhāgārthaṃ sarvadevatāḥ).
+**11:** performed the invocation of all the deities there to receive their sacrificial shares (_cakārāvāhanaṃ tatra bhāgārthaṃ sarvadevatāḥ_); yet none of the deities came thither at that time to accept their shares (_nābhyāgamaṃs tadā tatra bhāgārthaṃ sarvadevatāḥ_).
 </details>
 </details>
 
@@ -519,7 +519,7 @@ and said this to Trishanku. [1-60-11b, 12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the great sage Viśvāmitra, filled with wrath (tataḥ kopasamāviṣṭo viśvāmitro mahāmuniḥ), lifting up the sacrificial ladle in anger (sruvam udyamya sakrodhaḥ), spoke these words to Triśaṅku:
+Then the great sage Viśvāmitra, filled with wrath (_tataḥ kopasamāviṣṭo viśvāmitro mahāmuniḥ_), lifting up the sacrificial ladle in anger (_sruvam udyamya sakrodhaḥ_), spoke these words to Triśaṅku:
 </details>
 </details>
 
@@ -584,7 +584,7 @@ of people, now you will go to heaven with your own mortal body, which is otherwi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold the potency of my own hard-won asceticism (paśya me tapaso vīryaṃ svārjitasya), O lord of men! Here do I convey you to heaven in your very body by my spiritual might (eṣa tvāṃ svaśarīreṇa nayāmi svargam ojasā)!
+“Behold the potency of my own hard-won asceticism (_paśya me tapaso vīryaṃ svārjitasya_), O lord of men! Here do I convey you to heaven in your very body by my spiritual might (_eṣa tvāṃ svaśarīreṇa nayāmi svargam ojasā_)!
 </details>
 </details>
 
@@ -645,7 +645,7 @@ heaven with your own body owing to that prowess of my ascesis.' Vishvamitra said
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ascend in your own body to heaven, which is so hard to attain in bodily form (duṣprāpaṃ svaśarīreṇa svargaṃ gaccha), O lord of men! If any fruit of asceticism has indeed been earned by me (svārjitaṃ kiṃcid apy asti mayā hi tapasaḥ phalam),
+“Ascend in your own body to heaven, which is so hard to attain in bodily form (_duṣprāpaṃ svaśarīreṇa svargaṃ gaccha_), O lord of men! If any fruit of asceticism has indeed been earned by me (_svārjitaṃ kiṃcid apy asti mayā hi tapasaḥ phalam_),
 </details>
 </details>
 
@@ -691,7 +691,7 @@ with his mortal body, before the very eyes of other sages." Sage Shataananda con
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“by the fiery energy of that asceticism, O King, proceed bodily to heaven (rājaṃs tvaṃ tejasā tasya saśarīro divaṃ vraja)!” No sooner had that sage spoken these words (uktavākye munau tasmin) than the lord of men, in his very body (saśarīro nareśvaraḥ),
+“by the fiery energy of that asceticism, O King, proceed bodily to heaven (_rājaṃs tvaṃ tejasā tasya saśarīro divaṃ vraja_)!” No sooner had that sage spoken these words (_uktavākye munau tasmin_) than the lord of men, in his very body (_saśarīro nareśvaraḥ_),
 </details>
 </details>
 
@@ -740,7 +740,7 @@ sentence together with all the multitudes of gods. [1-60-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-ascended to heaven, O Kākutstha, while the sages looked on at that moment (divaṃ jagāma kākutstha munīnāṃ paśyatāṃ tadā). Seeing Triśaṅku arrived in the celestial realm (svargalokaṃ gataṃ dṛṣṭvā triśaṅkum), Pākaśāsana (Indra),
+ascended to heaven, O Kākutstha, while the sages looked on at that moment (_divaṃ jagāma kākutstha munīnāṃ paśyatāṃ tadā_). Seeing Triśaṅku arrived in the celestial realm (_svargalokaṃ gataṃ dṛṣṭvā triśaṅkum_), Pākaśāsana (Indra),
 </details>
 </details>
 
@@ -795,7 +795,7 @@ inversed. [1-60-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-together with all the hosts of the gods (saha sarvaiḥ suragaṇaiḥ), spoke these words: “O Triśaṅku, go back again (triśaṅko gaccha bhūyas tvam)! You have earned no abode in heaven (nāsi svargakṛtālayaḥ).
+together with all the hosts of the gods (_saha sarvaiḥ suragaṇaiḥ_), spoke these words: “O Triśaṅku, go back again (_triśaṅko gaccha bhūyas tvam_)! You have earned no abode in heaven (_nāsi svargakṛtālayaḥ_).
 </details>
 </details>
 
@@ -844,7 +844,7 @@ me, save me,' and fell down from heaven. [1-60-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Struck down by your preceptor’s curse, O fool, fall headfirst to the earth (guruśāpahato mūḍha pata bhūmim avākśirāḥ)!” Thus accosted by Mahendra, Triśaṅku began to fall back again (triśaṅkur apatat punaḥ),
+“Struck down by your preceptor’s curse, O fool, fall headfirst to the earth (_guruśāpahato mūḍha pata bhūmim avākśirāḥ_)!” Thus accosted by Mahendra, Triśaṅku began to fall back again (_triśaṅkur apatat punaḥ_),
 </details>
 </details>
 
@@ -898,7 +898,7 @@ abnormal anger and also said, 'wait... wait...' [1-60-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-crying out piteously, “Save me (trāhīti)!” unto Viśvāmitra rich in asceticism. Hearing that cry of the screaming monarch (tac chrutvā vacanaṃ tasya krośamānasya), Kauśika
+crying out piteously, “Save me (_trāhīti_)!” unto Viśvāmitra rich in asceticism. Hearing that cry of the screaming monarch (_tac chrutvā vacanaṃ tasya krośamānasya_), Kauśika
 </details>
 </details>
 
@@ -977,9 +977,9 @@ constellation is still available in southern hemisphere - is a point left to ast
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** conceived fierce wrath (roṣam āhārayat tīvram) and cried out, “Stop! Stop (tiṣṭha tiṣṭheti cābravīt)!” Standing in the midst of the sages like a second Prajāpati (ṛṣimadhye sa tejasvī prajāpatir ivāparaḥ), that sage of fiery splendour,
+**20:** conceived fierce wrath (_roṣam āhārayat tīvram_) and cried out, “Stop! Stop (_tiṣṭha tiṣṭheti cābravīt_)!” Standing in the midst of the sages like a second Prajāpati (_ṛṣimadhye sa tejasvī prajāpatir ivāparaḥ_), that sage of fiery splendour,
 
-**21:** creating another Seven Sages stationed in the southern sky (sṛjan dakṣiṇamārgasthān saptarṣīn aparān punaḥ), convulsed with wrath brought forth another galaxy of constellations (nakṣatravaṃśam aparam asṛjat krodhamūrcchitaḥ).
+**21:** creating another Seven Sages stationed in the southern sky (_sṛjan dakṣiṇamārgasthān saptarṣīn aparān punaḥ_), convulsed with wrath brought forth another galaxy of constellations (_nakṣatravaṃśam aparam asṛjat krodhamūrcchitaḥ_).
 </details>
 </details>
 
@@ -1034,9 +1034,9 @@ without any Indra,' and when he is about to proceed to clone even gods in his wr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Resorting to the southern quarter in the midst of the sages (dakṣiṇāṃ diśam āsthāya ṛṣimadhye), that sage of great renown, agitated with wrath after creating that multitude of stars (sṛṣṭvā nakṣatravaṃśaṃ ca krodhena kaluṣīkṛtaḥ),
+**22:** Resorting to the southern quarter in the midst of the sages (_dakṣiṇāṃ diśam āsthāya ṛṣimadhye_), that sage of great renown, agitated with wrath after creating that multitude of stars (_sṛṣṭvā nakṣatravaṃśaṃ ca krodhena kaluṣīkṛtaḥ_),
 
-**23:** declared: “I shall create another Indra, or else let that realm be without an Indra (anyam indraṃ kariṣyāmi loko vā syād anindrakaḥ)!” And in his wrath he even began to create new deities (daivatāny api sa krodhāt sraṣṭuṃ samupacakrame).
+**23:** declared: “I shall create another Indra, or else let that realm be without an Indra (_anyam indraṃ kariṣyāmi loko vā syād anindrakaḥ_)!” And in his wrath he even began to create new deities (_daivatāny api sa krodhāt sraṣṭuṃ samupacakrame_).
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ of hermits addressed the great-souled Vishvamitra with placatory words. [1-60-24
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, utterly bewildered and terrified (tataḥ paramasambhrāntāḥ), the gods and asuras together with the hosts of sages (sarṣisaṅghāḥ surāsurāḥ) spoke conciliatory words to the high-souled Viśvāmitra (viśvāmitraṃ mahātmānam ūcuḥ sānunayaṃ vacaḥ):
+Then, utterly bewildered and terrified (_tataḥ paramasambhrāntāḥ_), the gods and asuras together with the hosts of sages (_sarṣisaṅghāḥ surāsurāḥ_) spoke conciliatory words to the high-souled Viśvāmitra (_viśvāmitraṃ mahātmānam ūcuḥ sānunayaṃ vacaḥ_):
 </details>
 </details>
 
@@ -1136,7 +1136,7 @@ wealthy sage, he is not at all eligible to go to heaven with his mortal body.' S
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This king, O illustrious sage, is blighted by his preceptors’ curse (ayaṃ rājā mahābhāga guruśāpaparikṣataḥ); he simply ought not to ascend to heaven in his physical body, O sage rich in asceticism (saśarīro divaṃ yātuṃ nārhaty eva tapodhana)!”
+“This king, O illustrious sage, is blighted by his preceptors’ curse (_ayaṃ rājā mahābhāga guruśāpaparikṣataḥ_); he simply ought not to ascend to heaven in his physical body, O sage rich in asceticism (_saśarīro divaṃ yātuṃ nārhaty eva tapodhana_)!”
 </details>
 </details>
 
@@ -1184,7 +1184,7 @@ to all of the gods. [1-60-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the gods, the bull among sages, Kauśika, spoke these momentous words to all the deities (abravīt sumahad vākyaṃ kauśikaḥ sarvadevatāḥ):
+Hearing those words of the gods, the bull among sages, Kauśika, spoke these momentous words to all the deities (_abravīt sumahad vākyaṃ kauśikaḥ sarvadevatāḥ_):
 </details>
 </details>
 
@@ -1230,7 +1230,7 @@ his mortal body, and I am not interested to make it untrue. [1-60-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessings be upon you (bhadraṃ vaḥ)! Ascension to heaven in his very body has been promised by me to this monarch Triśaṅku (saśarīrasya triśaṅkor asya bhūpateḥ ārohaṇaṃ pratijñātam); I cannot bear to make my pledge false (nānṛtaṃ kartum utsahe).
+“Blessings be upon you (_bhadraṃ vaḥ_)! Ascension to heaven in his very body has been promised by me to this monarch Triśaṅku (_saśarīrasya triśaṅkor asya bhūpateḥ ārohaṇaṃ pratijñātam_); I cannot bear to make my pledge false (_nānṛtaṃ kartum utsahe_).
 </details>
 </details>
 
@@ -1292,9 +1292,9 @@ It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “Therefore let there be an eternal heaven for this Triśaṅku in his bodily form (svargo ’stu saśarīrasya triśaṅkor asya śāśvataḥ), and let all these constellations of mine abide firm and permanent (nakṣatrāṇi ca sarvāṇi māmakāni dhruvāṇy atha)!
+**28:** “Therefore let there be an eternal heaven for this Triśaṅku in his bodily form (_svargo ’stu saśarīrasya triśaṅkor asya śāśvataḥ_), and let all these constellations of mine abide firm and permanent (_nakṣatrāṇi ca sarvāṇi māmakāni dhruvāṇy atha_)!
 
-**29:** “As long as the worlds shall endure, let these constellations stand in every respect (yāval lokā dhariṣyanti tiṣṭhantv etāni sarvaśaḥ); all of you gods ought to sanction what I have fashioned (yat kṛtāni surāḥ sarve tad anujñātum arhatha)!”
+**29:** “As long as the worlds shall endure, let these constellations stand in every respect (_yāval lokā dhariṣyanti tiṣṭhantv etāni sarvaśaḥ_); all of you gods ought to sanction what I have fashioned (_yat kṛtāni surāḥ sarve tad anujñātum arhatha_)!”
 </details>
 </details>
 
@@ -1404,11 +1404,11 @@ of a simulative Universe. [1-60-32b, 33a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** Thus addressed, all the gods replied to the bull among sages (evam uktāḥ surāḥ sarve pratyūcur munipuṃgavam): “So be it! Blessings upon you! Let all these creations of yours stand firm in every respect (evaṃ bhavatu bhadraṃ te tiṣṭhantv etāni sarvaśaḥ)—
+**30:** Thus addressed, all the gods replied to the bull among sages (_evam uktāḥ surāḥ sarve pratyūcur munipuṃgavam_): “So be it! Blessings upon you! Let all these creations of yours stand firm in every respect (_evaṃ bhavatu bhadraṃ te tiṣṭhantv etāni sarvaśaḥ_)—
 
-**31:** “those numerous constellations in the sky outside the path of Vaiśvānara (gagane tāny anekāni vaiśvānarapathād bahiḥ nakṣatrāṇi), O best of sages! And blazing brightly amidst those luminaries (teṣu jyotiḥṣu jājvalan),
+**31:** “those numerous constellations in the sky outside the path of Vaiśvānara (_gagane tāny anekāni vaiśvānarapathād bahiḥ nakṣatrāṇi_), O best of sages! And blazing brightly amidst those luminaries (_teṣu jyotiḥṣu jājvalan_),
 
-**32:** “let Triśaṅku stand with head hanging downward, resembling an immortal (avākśirās triśaṅkuś ca tiṣṭhatv amarasaṃnibhaḥ)! And these shining constellations shall attend upon that best of kings (anuyāsyanti caitāni jyotīṃṣi nṛpasattamam),
+**32:** “let Triśaṅku stand with head hanging downward, resembling an immortal (_avākśirās triśaṅkuś ca tiṣṭhatv amarasaṃnibhaḥ_)! And these shining constellations shall attend upon that best of kings (_anuyāsyanti caitāni jyotīṃṣi nṛpasattamam_),
 </details>
 </details>
 
@@ -1460,7 +1460,7 @@ stirring himself from among the sages said to all gods, 'Agreed!' [1-60-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“who has fulfilled his purpose and won enduring renown, just as if he had entered the celestial realm itself (kṛtārthaṃ kīrtimantaṃ ca svargalokagataṃ yathā)!” Then the righteous Viśvāmitra of great splendour, praised by all the gods (sarvadevair abhiṣṭutaḥ),
+“who has fulfilled his purpose and won enduring renown, just as if he had entered the celestial realm itself (_kṛtārthaṃ kīrtimantaṃ ca svargalokagataṃ yathā_)!” Then the righteous Viśvāmitra of great splendour, praised by all the gods (_sarvadevair abhiṣṭutaḥ_),
 </details>
 </details>
 
@@ -1520,7 +1520,7 @@ sages went away as they have come. Thus Sage Shataananda continued the narration
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-said to the deities in the midst of the sages, “So be it (bāḍham ity eva devatāḥ)!” Thereafter, at the conclusion of the sacrifice, O best of men, all the high-souled gods and the sages rich in asceticism departed each as he had come (jagmur yathāgataṃ sarve yajñasyānte narottama).
+said to the deities in the midst of the sages, “So be it (_bāḍham ity eva devatāḥ_)!” Thereafter, at the conclusion of the sacrifice, O best of men, all the high-souled gods and the sages rich in asceticism departed each as he had come (_jagmur yathāgataṃ sarve yajñasyānte narottama_).
 </details>
 </details>
 

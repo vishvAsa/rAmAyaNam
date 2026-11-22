@@ -81,7 +81,7 @@ king Ravana spoke to Sarana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that truthful and fearless speech (vacaḥ satyam aklībam) spoken by Sāraṇa, King Rāvaṇa replied to Sāraṇa:
+Hearing that truthful and fearless speech (_vacaḥ satyam aklībam_) spoken by Sāraṇa, King Rāvaṇa replied to Sāraṇa:
 </details>
 </details>
 
@@ -133,7 +133,7 @@ me or even if there is a terror from all the worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if the gods, Gandharvas, and Dānavas should attack me (mām abhiyuñjīran), I would never give up Sītā (naiva sītām ahaṃ dadyām), even out of fear of all the worlds!
+“Even if the gods, Gandharvas, and Dānavas should attack me (_mām abhiyuñjīran_), I would never give up Sītā (_naiva sītām ahaṃ dadyām_), even out of fear of all the worlds!
 </details>
 </details>
 
@@ -188,7 +188,7 @@ are thingking of giving back Seetha now itself as good."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You, however, O gentle one (saumya), sorely tormented by the monkeys (haribhiḥ pīḍito bhṛśam) and terrified, deem the immediate restoration of Sītā (pratipradānam adyaiva sītāyāḥ) to be wise.
+You, however, O gentle one (_saumya_), sorely tormented by the monkeys (_haribhiḥ pīḍito bhṛśam_) and terrified, deem the immediate restoration of Sītā (_pratipradānam adyaiva sītāyāḥ_) to be wise.
 </details>
 </details>
 
@@ -252,9 +252,9 @@ monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** What adversary (sapatnaḥ) indeed can vanquish me in battle?” Having spoken these harsh words (paruṣaṃ vākyam), Rāvaṇa, the lord of rākṣasas,
+**4:** What adversary (_sapatnaḥ_) indeed can vanquish me in battle?” Having spoken these harsh words (_paruṣaṃ vākyam_), Rāvaṇa, the lord of rākṣasas,
 
-**5:** then ascended (āruroha) his snow-white palace (prāsādaṃ himapāṇḍuram), towering to the height of many palmyra trees (bahutālasamutsedham), eager to behold (didṛkṣayā) [the monkey army].
+**5:** then ascended (_āruroha_) his snow-white palace (_prāsādaṃ himapāṇḍuram_), towering to the height of many palmyra trees (_bahutālasamutsedham_), eager to behold (_didṛkṣayā_) [the monkey army].
 </details>
 </details>
 
@@ -315,7 +315,7 @@ and the forests and beheld the entire land completely filled with monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by those two spies (tābhyāṃ carābhyāṃ sahitaḥ), Rāvaṇa, convulsed with rage (krodhamūrcchitaḥ), surveyed (paśyamānaḥ) that ocean, the mountains, and the forests.
+Accompanied by those two spies (_tābhyāṃ carābhyāṃ sahitaḥ_), Rāvaṇa, convulsed with rage (_krodhamūrcchitaḥ_), surveyed (_paśyamānaḥ_) that ocean, the mountains, and the forests.
 </details>
 </details>
 
@@ -375,7 +375,7 @@ Ravana asked Sarana as follows:-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld the expanse of earth (pṛthivīdeśam) completely filled with monkeys (susampūrṇaṃ plavaṃgamaiḥ), and viewing that boundless, irresistible, and mighty host (apāram asahyaṃ ca mahābalam) of monkeys,
+He beheld the expanse of earth (_pṛthivīdeśam_) completely filled with monkeys (_susampūrṇaṃ plavaṃgamaiḥ_), and viewing that boundless, irresistible, and mighty host (_apāram asahyaṃ ca mahābalam_) of monkeys,
 </details>
 </details>
 
@@ -426,7 +426,7 @@ strong ones? Who will stay in front at all places, with great energy?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-King Rāvaṇa questioned Sāraṇa: “Among these, which monkeys are the foremost chiefs (ke vānarā mukhyāḥ), which are the brave warriors, and which are the ones of mighty strength?
+King Rāvaṇa questioned Sāraṇa: “Among these, which monkeys are the foremost chiefs (_ke vānarā mukhyāḥ_), which are the brave warriors, and which are the ones of mighty strength?
 </details>
 </details>
 
@@ -481,7 +481,7 @@ monkey-heads? What is the influence of the monkeys? O, Sarana! Tell me all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Which ones of great energy advance in the vanguard (pūrvam abhivartante) on every side? To whose counsel does Sugrīva listen (keṣāṃ śṛṇoti sugrīvaḥ), and who are the commanders of troop-commanders (yūthapayūthapāḥ)?
+Which ones of great energy advance in the vanguard (_pūrvam abhivartante_) on every side? To whose counsel does Sugrīva listen (_keṣāṃ śṛṇoti sugrīvaḥ_), and who are the commanders of troop-commanders (_yūthapayūthapāḥ_)?
 </details>
 </details>
 
@@ -534,7 +534,7 @@ chiefs of the monkeys i them, to the lord of demons who was enquiring about them
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tell me everything, O Sāraṇa—of what might (kiṃprabhāvāḥ) are these monkeys?” [Hearing] the words of the lord of rākṣasas who was questioning him,
+Tell me everything, O Sāraṇa—of what might (_kiṃprabhāvāḥ_) are these monkeys?” [Hearing] the words of the lord of rākṣasas who was questioning him,
 </details>
 </details>
 
@@ -618,11 +618,11 @@ battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Sāraṇa, who knew the foremost chiefs (mukhyajñaḥ), then declared the chief forest-dwellers there: “This monkey who stands roaring (nardaṃs tiṣṭhati), facing Laṅkā (abhimukho laṅkām),
+**11:** Sāraṇa, who knew the foremost chiefs (_mukhyajñaḥ_), then declared the chief forest-dwellers there: “This monkey who stands roaring (_nardaṃs tiṣṭhati_), facing Laṅkā (_abhimukho laṅkām_),
 
-**12:** surrounded by a hundred thousand troop-commanders (yūthapānāṃ sahasrāṇāṃ śatena), by whose mighty roar Laṅkā with its ramparts and arched gateways—
+**12:** surrounded by a hundred thousand troop-commanders (_yūthapānāṃ sahasrāṇāṃ śatena_), by whose mighty roar Laṅkā with its ramparts and arched gateways—
 
-**13:** all of Laṅkā, together with its mountains, woods, and groves (saśailavanakānanā), is struck with reverberation (pratihatā)—at the forefront of the army of great-souled Sugrīva, lord of all tree-dwellers,
+**13:** all of Laṅkā, together with its mountains, woods, and groves (_saśailavanakānanā_), is struck with reverberation (_pratihatā_)—at the forefront of the army of great-souled Sugrīva, lord of all tree-dwellers,
 </details>
 </details>
 
@@ -703,13 +703,13 @@ battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** stands this heroic troop-commander named Nīla (nīlo nāmaiṣa yūthapaḥ). And he who, raising his arms aloft (bāhū pragṛhya), strides upon the earth on foot (padbhyāṃ mahīṃ gacchati), full of valor,
+**14:** stands this heroic troop-commander named Nīla (_nīlo nāmaiṣa yūthapaḥ_). And he who, raising his arms aloft (_bāhū pragṛhya_), strides upon the earth on foot (_padbhyāṃ mahīṃ gacchati_), full of valor,
 
-**15:** facing Laṅkā, and yawns repeatedly in wrath (kopād abhīkṣṇaṃ ca vijṛmbhate), resembling a mountain peak and bright as lotus filaments (padmakiṃjalkasaṃnibhaḥ),
+**15:** facing Laṅkā, and yawns repeatedly in wrath (_kopād abhīkṣṇaṃ ca vijṛmbhate_), resembling a mountain peak and bright as lotus filaments (_padmakiṃjalkasaṃnibhaḥ_),
 
-**16:** and in fierce fury (atisaṃrabdhaḥ) lashes his tail (sphoṭayati lāṅgūlam) again and again, by the sound of whose tail the ten quarters resound (svananti pradiśo daśa)—
+**16:** and in fierce fury (_atisaṃrabdhaḥ_) lashes his tail (_sphoṭayati lāṅgūlam_) again and again, by the sound of whose tail the ten quarters resound (_svananti pradiśo daśa_)—
 
-**17:** this is Crown Prince Aṅgada by name (yuvarājo 'ṅgado nāma), consecrated (abhiṣecitaḥ) by Sugrīva the king of monkeys, who now challenges you in battle (tvām āhvayati saṃyuge).
+**17:** this is Crown Prince Aṅgada by name (_yuvarājo &#x27;ṅgado nāma_), consecrated (_abhiṣecitaḥ_) by Sugrīva the king of monkeys, who now challenges you in battle (_tvām āhvayati saṃyuge_).
 </details>
 </details>
 
@@ -756,7 +756,7 @@ for Rama's interests, as Varuna is to Indra's."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is the worthy son of Vālin (vālinaḥ sadṛśaḥ putraḥ), ever dear to Sugrīva, and stands ready to display his valor (parākrāntaḥ) for Rāghava's sake, as Varuṇa did for Śakra's [Indra's] sake.
+He is the worthy son of Vālin (_vālinaḥ sadṛśaḥ putraḥ_), ever dear to Sugrīva, and stands ready to display his valor (_parākrāntaḥ_) for Rāghava&#x27;s sake, as Varuṇa did for Śakra&#x27;s [Indra&#x27;s] sake.
 </details>
 </details>
 
@@ -810,7 +810,7 @@ monkey and a well-wisher of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was entirely through this prince's counsel (etasya sā matiḥ sarvā) that Janaka's daughter was discovered (dṛṣṭā janakātmajā) by swift Hanūmān, who seeks Rāghava's welfare.
+It was entirely through this prince&#x27;s counsel (_etasya sā matiḥ sarvā_) that Janaka&#x27;s daughter was discovered (_dṛṣṭā janakātmajā_) by swift Hanūmān, who seeks Rāghava&#x27;s welfare.
 </details>
 </details>
 
@@ -856,7 +856,7 @@ approaching to crush you, with the help of his own army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having mustered many troops of monkey lords (bahūni vānarendrāṇāṃ yūthāni), this valorous prince advances against you (abhiyāti tvām) to crush you with his own army.
+Having mustered many troops of monkey lords (_bahūni vānarendrāṇāṃ yūthāni_), this valorous prince advances against you (_abhiyāti tvām_) to crush you with his own army.
 </details>
 </details>
 
@@ -902,7 +902,7 @@ next to Angada the son of Vali, prepared for the battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And right behind the son of Vālin (anu vālisutasya), surrounded by a mighty force, stands in battle this heroic Nala, the builder of the causeway (setuhetur ayaṃ nalaḥ).
+And right behind the son of Vālin (_anu vālisutasya_), surrounded by a mighty force, stands in battle this heroic Nala, the builder of the causeway (_setuhetur ayaṃ nalaḥ_).
 </details>
 </details>
 
@@ -947,9 +947,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Those bull-like monkeys who, stiffening their limbs (viṣṭabhya gātrāṇi), utter lion-roars and thunder (kṣveḍayanti nadanti ca), and springing up, yawn in wrath (utthāya ca vijṛmbhante krodhena)—
+**22:** Those bull-like monkeys who, stiffening their limbs (_viṣṭabhya gātrāṇi_), utter lion-roars and thunder (_kṣveḍayanti nadanti ca_), and springing up, yawn in wrath (_utthāya ca vijṛmbhante krodhena_)—
 
-**23:** these are irresistible, dreadful, fierce, and of fierce valor (caṇḍāś caṇḍaparākramāḥ)—eight hundred thousand and a thousand crores (aṣṭau śatasahasrāṇi daśakoṭiśatāni ca)—the heroes dwelling in the sandalwood forests (vīrāś candanavāsinaḥ) who follow him.
+**23:** these are irresistible, dreadful, fierce, and of fierce valor (_caṇḍāś caṇḍaparākramāḥ_)—eight hundred thousand and a thousand crores (_aṣṭau śatasahasrāṇi daśakoṭiśatāni ca_)—the heroes dwelling in the sandalwood forests (_vīrāś candanavāsinaḥ_) who follow him.
 </details>
 </details>
 
@@ -1019,9 +1019,9 @@ forthwith."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** This hero alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army! And here is Śveta, gleaming like silver (śveto rajatasaṃkāśaḥ), agile and of dreadful prowess (bhīmavikramaḥ),
+**24:** This hero alone aspires (_eṣaivāśaṃsate_) to crush Laṅkā with his own army! And here is Śveta, gleaming like silver (_śveto rajatasaṃkāśaḥ_), agile and of dreadful prowess (_bhīmavikramaḥ_),
 
-**25:** a wise and heroic monkey renowned in the three worlds (triṣu lokeṣu viśrutaḥ); having swiftly approached Sugrīva, the monkey hastens back again (punar gacchati),
+**25:** a wise and heroic monkey renowned in the three worlds (_triṣu lokeṣu viśrutaḥ_); having swiftly approached Sugrīva, the monkey hastens back again (_punar gacchati_),
 </details>
 </details>
 
@@ -1078,9 +1078,9 @@ of monkeys and brining great delight to the troops, he goes back at once."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** dividing the monkey army into ranks (vibhajan vānarīṃ senām) and cheering the troops (anīkāni praharṣayan). And he who formerly roamed (purā paryeti) the lovely mountain on the bank of the Gomatī—
+**26:** dividing the monkey army into ranks (_vibhajan vānarīṃ senām_) and cheering the troops (_anīkāni praharṣayan_). And he who formerly roamed (_purā paryeti_) the lovely mountain on the bank of the Gomatī—
 
-**27:** the mountain named Saṃrocana (nāmnā saṃrocano nāma), covered with diverse trees—and ruled the kingdom there, is this troop-commander named Kumuda (kumudo nāma yūthapaḥ),
+**27:** the mountain named Saṃrocana (_nāmnā saṃrocano nāma_), covered with diverse trees—and ruled the kingdom there, is this troop-commander named Kumuda (_kumudo nāma yūthapaḥ_),
 </details>
 </details>
 
@@ -1117,9 +1117,9 @@ of monkeys and brining great delight to the troops, he goes back at once."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** yonder chief who joyfully leads (saharṣaṃ parikarṣati) hundreds of thousands, and upon whose long tail (dīrghalāṅgūlam āśritāḥ) grow hairs many fathoms in length (vālā bahuvyāmāḥ)—
+**28:** yonder chief who joyfully leads (_saharṣaṃ parikarṣati_) hundreds of thousands, and upon whose long tail (_dīrghalāṅgūlam āśritāḥ_) grow hairs many fathoms in length (_vālā bahuvyāmāḥ_)—
 
-**29:** coppery, yellow, pale, and white (tāmrāḥ pītāḥ sitāḥ śvetāḥ), disheveled and dreadful to behold (ghoradarśanāḥ); undaunted, the fierce monkey [or: the monkey Caṇḍa] longs for battle (saṃgrāmam abhikāṅkṣati), and he too aspires to crush Laṅkā with his own army.
+**29:** coppery, yellow, pale, and white (_tāmrāḥ pītāḥ sitāḥ śvetāḥ_), disheveled and dreadful to behold (_ghoradarśanāḥ_); undaunted, the fierce monkey [or: the monkey Caṇḍa] longs for battle (_saṃgrāmam abhikāṅkṣati_), and he too aspires to crush Laṅkā with his own army.
 </details>
 </details>
 
@@ -1207,11 +1207,11 @@ that he with destroy Lanka his forces."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** And he who, resembling a lion (siṃhasaṃkāśaḥ), tawny and long-maned (kapilo dīrghakesaraḥ), gazes fixed and motionless upon Laṅkā (nibhṛtaḥ prekṣate laṅkām), as though wishing to burn it up with his eyes (didhakṣann iva cakṣuṣā)—
+**30:** And he who, resembling a lion (_siṃhasaṃkāśaḥ_), tawny and long-maned (_kapilo dīrghakesaraḥ_), gazes fixed and motionless upon Laṅkā (_nibhṛtaḥ prekṣate laṅkām_), as though wishing to burn it up with his eyes (_didhakṣann iva cakṣuṣā_)—
 
-**31:** and who ever dwells (satatam adhyāste) upon the Vindhya, Kṛṣṇagiri, Sahya, and Mount Sudarśana, O king, is that troop-commander named Rambha (sa rambho nāma yūthapaḥ); a hundred and thirty hundred-thousands (śataṃ śatasahasrāṇāṃ triṃśac ca) of bull-like monkeys,
+**31:** and who ever dwells (_satatam adhyāste_) upon the Vindhya, Kṛṣṇagiri, Sahya, and Mount Sudarśana, O king, is that troop-commander named Rambha (_sa rambho nāma yūthapaḥ_); a hundred and thirty hundred-thousands (_śataṃ śatasahasrāṇāṃ triṃśac ca_) of bull-like monkeys,
 
-**32:** dreadful, fierce, and of fierce valor (caṇḍāś caṇḍaparākramāḥ), surround him and follow him as he marches (yaṃ yāntam anugacchanti) to crush Laṅkā with their might.
+**32:** dreadful, fierce, and of fierce valor (_caṇḍāś caṇḍaparākramāḥ_), surround him and follow him as he marches (_yaṃ yāntam anugacchanti_) to crush Laṅkā with their might.
 </details>
 </details>
 
@@ -1273,9 +1273,9 @@ him who is marching ahead and follow in his goot-sets to destroy Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** And he who spreads wide his ears (karṇau vivṛṇute) and yawns again and again, who never trembles before death (na tu saṃvijate mṛtyoḥ) nor rushes back toward his army (na ca senāṃ pradhāvati),
+**33:** And he who spreads wide his ears (_karṇau vivṛṇute_) and yawns again and again, who never trembles before death (_na tu saṃvijate mṛtyoḥ_) nor rushes back toward his army (_na ca senāṃ pradhāvati_),
 
-**34:** who quivers with rage (prakampate ca roṣeṇa) and glances sidelong again (tiryak ca punar īkṣate)—behold the lashing of his tail (paśya lāṅgūlavikṣepam) as this mighty warrior utters his battle-roar (kṣveḍaty eṣa mahābalaḥ)!
+**34:** who quivers with rage (_prakampate ca roṣeṇa_) and glances sidelong again (_tiryak ca punar īkṣate_)—behold the lashing of his tail (_paśya lāṅgūlavikṣepam_) as this mighty warrior utters his battle-roar (_kṣveḍaty eṣa mahābalaḥ_)!
 </details>
 </details>
 
@@ -1306,7 +1306,7 @@ him who is marching ahead and follow in his goot-sets to destroy Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of great swiftness and free from fear (mahājavo vītabhayaḥ), he ever dwells upon the lovely Mount Sālveya (ramyaṃ sālveyaparvatam), O king—the troop-commander named Śarabha (śarabho nāma yūthapaḥ).
+Of great swiftness and free from fear (_mahājavo vītabhayaḥ_), he ever dwells upon the lovely Mount Sālveya (_ramyaṃ sālveyaparvatam_), O king—the troop-commander named Śarabha (_śarabho nāma yūthapaḥ_).
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ monkeys with immense energy and devoid of fear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His mighty troop-commanders, known as the Vihāras (vihārā nāma yūthapāḥ), O king, number forty hundred-thousands (śatasahasrāṇi catvāriṃśat) in all.
+His mighty troop-commanders, known as the Vihāras (_vihārā nāma yūthapāḥ_), O king, number forty hundred-thousands (_śatasahasrāṇi catvāriṃśat_) in all.
 </details>
 </details>
 
@@ -1465,13 +1465,13 @@ battle. He dwells in Pariyatra, a mountain that is exceeded by none in height."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**37:** And he who stands covering the sky like a huge cloud (megha ivākāśaṃ mahān āvṛtya), in the midst of the monkey heroes like Vāsava [Indra] among the gods,
+**37:** And he who stands covering the sky like a huge cloud (_megha ivākāśaṃ mahān āvṛtya_), in the midst of the monkey heroes like Vāsava [Indra] among the gods,
 
-**38:** whose mighty roar (mahān ghoṣaḥ) is heard like the roll of kettledrums (bherīṇām iva saṃnādaḥ) among the lords of tree-dwellers eager for battle—
+**38:** whose mighty roar (_mahān ghoṣaḥ_) is heard like the roll of kettledrums (_bherīṇām iva saṃnādaḥ_) among the lords of tree-dwellers eager for battle—
 
-**39:** this troop-commander named Panasa (panaso nāma yūthapaḥ), ever irresistible in battle (yuddhe duṣprasaho nityam), dwells upon the peerless Mount Pāriyātra (pāriyātram anuttamam).
+**39:** this troop-commander named Panasa (_panaso nāma yūthapaḥ_), ever irresistible in battle (_yuddhe duṣprasaho nityam_), dwells upon the peerless Mount Pāriyātra (_pāriyātram anuttamam_).
 
-**40:** Upon him, the foremost of troop-commanders (yūthapaśreṣṭham), attend half a hundred hundred-thousands (śatasahasrāṇāṃ śatārdham) of troop-commanders, whose own troops are arrayed in distinct divisions (bhāgaśaḥ).
+**40:** Upon him, the foremost of troop-commanders (_yūthapaśreṣṭham_), attend half a hundred hundred-thousands (_śatasahasrāṇāṃ śatārdham_) of troop-commanders, whose own troops are arrayed in distinct divisions (_bhāgaśaḥ_).
 </details>
 </details>
 
@@ -1523,9 +1523,9 @@ to him, who is excellent among the Generals."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** And he who stands gracing (tiṣṭhati śobhayan) the dreadful, leaping army (bhīmāṃ pravalgantīṃ camūm) stationed along the shore of the sea, like a second ocean (dvitīya iva sāgaraḥ)—
+**41:** And he who stands gracing (_tiṣṭhati śobhayan_) the dreadful, leaping army (_bhīmāṃ pravalgantīṃ camūm_) stationed along the shore of the sea, like a second ocean (_dvitīya iva sāgaraḥ_)—
 
-**42:** this is the troop-commander named Vinata (vinato nāma yūthapaḥ), resembling Mount Dardura (dardurasaṃkāśaḥ), who roams drinking of the Veṇā, the foremost of rivers (nadīnām uttamāṃ nadīm).
+**42:** this is the troop-commander named Vinata (_vinato nāma yūthapaḥ_), resembling Mount Dardura (_dardurasaṃkāśaḥ_), who roams drinking of the Veṇā, the foremost of rivers (_nadīnām uttamāṃ nadīm_).
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sixty hundred-thousands (ṣaṣṭiḥ śatasahasrāṇi) of monkeys form his [Vinata's] army. And here the monkey named Krodhana (krodhano nāma vānaraḥ) challenges you to battle (tvām āhvayati yuddhāya),
+Sixty hundred-thousands (_ṣaṣṭiḥ śatasahasrāṇi_) of monkeys form his [Vinata&#x27;s] army. And here the monkey named Krodhana (_krodhano nāma vānaraḥ_) challenges you to battle (_tvām āhvayati yuddhāya_),
 </details>
 </details>
 
@@ -1659,11 +1659,11 @@ chalk and proud of his strength, stands facing you with anger despising all othe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** [whose warriors], valiant and mighty (vikrāntā balavantaś ca), are arrayed troop by troop in distinct divisions (yathā yūthāni bhāgaśaḥ). And the monkey who displays a body gleaming with the hue of red ochre (gairikavarṇābhaṃ vapuḥ puṣyati),
+**44:** [whose warriors], valiant and mighty (_vikrāntā balavantaś ca_), are arrayed troop by troop in distinct divisions (_yathā yūthāni bhāgaśaḥ_). And the monkey who displays a body gleaming with the hue of red ochre (_gairikavarṇābhaṃ vapuḥ puṣyati_),
 
-**45:** ever disdaining all other monkeys (avamatya sadā sarvān vānarān) in the pride of his strength (baladarpitaḥ), is the fiery Gavaya by name (gavayo nāma tejasvī), who advances against you in wrath.
+**45:** ever disdaining all other monkeys (_avamatya sadā sarvān vānarān_) in the pride of his strength (_baladarpitaḥ_), is the fiery Gavaya by name (_gavayo nāma tejasvī_), who advances against you in wrath.
 
-**46:** Upon him attend seventy hundred-thousands (śatasahasrāṇi saptatiḥ), and this hero alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army!
+**46:** Upon him attend seventy hundred-thousands (_śatasahasrāṇi saptatiḥ_), and this hero alone aspires (_eṣaivāśaṃsate_) to crush Laṅkā with his own army!
 </details>
 </details>
 
@@ -1729,7 +1729,7 @@ Lanka with the help of his army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-These are irresistible heroes (ete duṣprasahā vīrāḥ), whose number cannot be reckoned (yeṣāṃ saṃkhyā na vidyate)—troop-commanders and chiefs of troop-commanders (yūthapā yūthapaśreṣṭhāḥ), each with his troops in distinct divisions (bhāgaśaḥ).
+These are irresistible heroes (_ete duṣprasahā vīrāḥ_), whose number cannot be reckoned (_yeṣāṃ saṃkhyā na vidyate_)—troop-commanders and chiefs of troop-commanders (_yūthapā yūthapaśreṣṭhāḥ_), each with his troops in distinct divisions (_bhāgaśaḥ_).
 </details>
 </details>
 

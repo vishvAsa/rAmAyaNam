@@ -57,9 +57,9 @@ The Gandharva Grāmaṇī gives his radiant daughter Devavatī in marriage to th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding the righteous Rākṣasa Sukeśa (sukeśaṃ dhārmikam), who had obtained Śiva's boon (vara-labdham), a Gandharva named Grāmaṇī, equal in splendor to Viśvāvasu (viśvāvasu-samaprabhaḥ),
+**1:** Beholding the righteous Rākṣasa Sukeśa (_sukeśaṃ dhārmikam_), who had obtained Śiva&#x27;s boon (_vara-labdham_), a Gandharva named Grāmaṇī, equal in splendor to Viśvāvasu (_viśvāvasu-samaprabhaḥ_),
 
-**2:** —whose daughter named Devavatī was like a second Śrī (dvitīyā śrīr ivātmajā), renowned throughout the three worlds and graced with beauty and youth (rūpa-yauvana-śālinī)—bestowed her righteously upon Sukeśa (dharmeṇa dadau), as though conferring the very fortune of the Rākṣasas (rakṣaḥ-śriyam).
+**2:** —whose daughter named Devavatī was like a second Śrī (_dvitīyā śrīr ivātmajā_), renowned throughout the three worlds and graced with beauty and youth (_rūpa-yauvana-śālinī_)—bestowed her righteously upon Sukeśa (_dharmeṇa dadau_), as though conferring the very fortune of the Rākṣasas (_rakṣaḥ-śriyam_).
 </details>
 </details>
 
@@ -90,7 +90,7 @@ The Gandharva Grāmaṇī gives his radiant daughter Devavatī in marriage to th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having obtained that beloved husband whose sovereignty was forged by a divine boon (vara-dāna-kṛtaiśvaryam), Devavatī was filled with joy (tuṣṭā), like a pauper upon gaining wealth (dhanaṃ prāpyeva nirdhanaḥ).
+Having obtained that beloved husband whose sovereignty was forged by a divine boon (_vara-dāna-kṛtaiśvaryam_), Devavatī was filled with joy (_tuṣṭā_), like a pauper upon gaining wealth (_dhanaṃ prāpyeva nirdhanaḥ_).
 </details>
 </details>
 
@@ -121,7 +121,7 @@ Having obtained that beloved husband whose sovereignty was forged by a divine bo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-United with her, that night-roamer (rajanīcaraḥ) shone resplendent like a great elephant sprung from the quarter-elephant Añjana (añjanād abhiniṣkrāntaḥ) accompanied by his mate (kareṇveva); and upon Devavatī, O Rāghava, Sukeśa begot offspring—
+United with her, that night-roamer (_rajanīcaraḥ_) shone resplendent like a great elephant sprung from the quarter-elephant Añjana (_añjanād abhiniṣkrāntaḥ_) accompanied by his mate (_kareṇveva_); and upon Devavatī, O Rāghava, Sukeśa begot offspring—
 </details>
 </details>
 
@@ -155,7 +155,7 @@ United with her, that night-roamer (rajanīcaraḥ) shone resplendent like a gre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He begot three sons whose frames blazed like the three sacrificial fires (tretāgni-sama-vigrahān): Mālyavān, Sumālī, and Mālin, foremost among the mighty (balināṃ varam)—three Rākṣasa sons equal to the three-eyed Śiva (trinetra-samān), did that lord of Rākṣasas sire.
+He begot three sons whose frames blazed like the three sacrificial fires (_tretāgni-sama-vigrahān_): Mālyavān, Sumālī, and Mālin, foremost among the mighty (_balināṃ varam_)—three Rākṣasa sons equal to the three-eyed Śiva (_trinetra-samān_), did that lord of Rākṣasas sire.
 </details>
 </details>
 
@@ -189,7 +189,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They stood unperturbed like the three worlds (trayo lokā ivāvyagrāḥ), steadfast as the three sacred fires (traya ivāgnayaḥ), exceedingly fierce like the three potent incantations (trayo mantrā ivātyugrāḥ), and dread as the three dire maladies (trayo ghorā ivāmayāḥ).
+They stood unperturbed like the three worlds (_trayo lokā ivāvyagrāḥ_), steadfast as the three sacred fires (_traya ivāgnayaḥ_), exceedingly fierce like the three potent incantations (_trayo mantrā ivātyugrāḥ_), and dread as the three dire maladies (_trayo ghorā ivāmayāḥ_).
 </details>
 </details>
 
@@ -233,7 +233,7 @@ Growing swiftly like unchecked maladies, Sukeśa's three sons ascend Mount Meru 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those three sons of Sukeśa, radiant as the three sacrificial fires (tretāgni-sama-tejasaḥ), waxed strong there like diseases left unchecked (vyādhayopekṣitā iva).
+Those three sons of Sukeśa, radiant as the three sacrificial fires (_tretāgni-sama-tejasaḥ_), waxed strong there like diseases left unchecked (_vyādhayopekṣitā iva_).
 </details>
 </details>
 
@@ -264,7 +264,7 @@ Those three sons of Sukeśa, radiant as the three sacrificial fires (tretāgni-s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning of their father's attainment of a boon (vara-prāptiṃ pituḥ) through the potency of the Lord's favor and austerity (īśvara-tapo-balāt), the brothers, firm in their resolve (kṛta-niścayāḥ), repaired to Mount Meru to practice penance (tapas taptum).
+Learning of their father&#x27;s attainment of a boon (_vara-prāptiṃ pituḥ_) through the potency of the Lord&#x27;s favor and austerity (_īśvara-tapo-balāt_), the brothers, firm in their resolve (_kṛta-niścayāḥ_), repaired to Mount Meru to practice penance (_tapas taptum_).
 </details>
 </details>
 
@@ -295,7 +295,7 @@ Learning of their father's attainment of a boon (vara-prāptiṃ pituḥ) throug
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing dreadful observances (niyamān ghorān), O noblest of kings (nṛpa-sattama), those Rākṣasas performed a terrible austerity (tapo ghoram) that struck terror into all living beings (sarva-bhūta-bhayāvaham).
+Embracing dreadful observances (_niyamān ghorān_), O noblest of kings (_nṛpa-sattama_), those Rākṣasas performed a terrible austerity (_tapo ghoram_) that struck terror into all living beings (_sarva-bhūta-bhayāvaham_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ Embracing dreadful observances (niyamān ghorān), O noblest of kings (nṛpa-sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through austerities exceedingly arduous to accomplish (tapobhir atiduṣkaraiḥ), endowed with truth, uprightness, and composure (satyārjava-śamopetaiḥ), they scorched the three worlds together with gods, Asuras, and mortals (sadevāsura-mānuṣān).
+Through austerities exceedingly arduous to accomplish (_tapobhir atiduṣkaraiḥ_), endowed with truth, uprightness, and composure (_satyārjava-śamopetaiḥ_), they scorched the three worlds together with gods, Asuras, and mortals (_sadevāsura-mānuṣān_).
 </details>
 </details>
 
@@ -360,7 +360,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the four-faced all-pervading Lord (vibhuś caturvaktraḥ), mounted upon his supreme aerial chariot (vimāna-varam āsthitaḥ), addressed Sukeśa's sons (āmantrya) and spoke: ‘I am here to grant you a boon (varado 'smi).’
+Then the four-faced all-pervading Lord (_vibhuś caturvaktraḥ_), mounted upon his supreme aerial chariot (_vimāna-varam āsthitaḥ_), addressed Sukeśa&#x27;s sons (_āmantrya_) and spoke: ‘I am here to grant you a boon (_varado &#x27;smi_).’
 </details>
 </details>
 
@@ -391,7 +391,7 @@ Then the four-faced all-pervading Lord (vibhuś caturvaktraḥ), mounted upon hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing Brahmā as the bestower of boons (varadaṃ jñātvā), surrounded by Indra and the hosts of gods (sendrair deva-gaṇair vṛtam), they all spoke with palms reverently joined (prāñjalayaḥ), trembling like trees in the wind (vepamānā iva drumāḥ).
+Recognizing Brahmā as the bestower of boons (_varadaṃ jñātvā_), surrounded by Indra and the hosts of gods (_sendrair deva-gaṇair vṛtam_), they all spoke with palms reverently joined (_prāñjalayaḥ_), trembling like trees in the wind (_vepamānā iva drumāḥ_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ Having obtained from Brahmā invincibility, longevity, and mutual devotion, the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lord, if, propitiated by our austerity (tapasārādhito deva), you bestow a boon upon us (no diśase varam), may we become unconquerable (ajeyāḥ), slayers of our foes (śatru-hantāraḥ), long-lived as well (cira-jīvinaḥ), mighty in dominion (prabhaviṣṇvaḥ), and ever devoted to one another (parasparam anuvratāḥ).”
+“O Lord, if, propitiated by our austerity (_tapasārādhito deva_), you bestow a boon upon us (_no diśase varam_), may we become unconquerable (_ajeyāḥ_), slayers of our foes (_śatru-hantāraḥ_), long-lived as well (_cira-jīvinaḥ_), mighty in dominion (_prabhaviṣṇvaḥ_), and ever devoted to one another (_parasparam anuvratāḥ_).”
 </details>
 </details>
 
@@ -467,9 +467,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Saying ‘So shall it be’ (evaṃ bhaviṣyati) to the sons of Sukeśa, the all-pervading Lord Brahmā, affectionate toward Brāhmaṇas (brāhmaṇa-vatsalaḥ), departed for the realm of Brahmā (yayau brahmalokāya).
+**14:** Saying ‘So shall it be’ (_evaṃ bhaviṣyati_) to the sons of Sukeśa, the all-pervading Lord Brahmā, affectionate toward Brāhmaṇas (_brāhmaṇa-vatsalaḥ_), departed for the realm of Brahmā (_yayau brahmalokāya_).
 
-**15:** Having obtained that boon, O Rāma, all those night-roamers (rātriṃcarāḥ) thereupon began oppressing gods and Asuras alike (surāsurān prabādhante), rendered utterly fearless by the grant of the boon (vara-dāna-sunirbhayāḥ).
+**15:** Having obtained that boon, O Rāma, all those night-roamers (_rātriṃcarāḥ_) thereupon began oppressing gods and Asuras alike (_surāsurān prabādhante_), rendered utterly fearless by the grant of the boon (_vara-dāna-sunirbhayāḥ_).
 </details>
 </details>
 
@@ -500,7 +500,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Harassed and slain by them (tair vadhyamānāḥ), the thirty gods together with throngs of sages and Cāraṇas (sarṣi-saṅghāḥ sacāraṇāḥ) found no protector (trātāraṃ nādhigacchanti), like mortals plunged into hell (nirayasthā yathā narāḥ).
+Harassed and slain by them (_tair vadhyamānāḥ_), the thirty gods together with throngs of sages and Cāraṇas (_sarṣi-saṅghāḥ sacāraṇāḥ_) found no protector (_trātāraṃ nādhigacchanti_), like mortals plunged into hell (_nirayasthā yathā narāḥ_).
 </details>
 </details>
 
@@ -534,7 +534,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, O noblest of the Raghus (raghusattama), those Rākṣasas, filled with delight (saṃhṛṣṭāḥ), approached Viśvakarman, the imperishable foremost of artisans (śilpināṃ varam avyayam), and spoke:
+Then, O noblest of the Raghus (_raghusattama_), those Rākṣasas, filled with delight (_saṃhṛṣṭāḥ_), approached Viśvakarman, the imperishable foremost of artisans (_śilpināṃ varam avyayam_), and spoke:
 </details>
 </details>
 
@@ -565,7 +565,7 @@ Then, O noblest of the Raghus (raghusattama), those Rākṣasas, filled with del
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You alone, through your innate radiance (ātma-tejasā), are the builder of abodes (gṛha-kartā) for the mighty gods endowed with vigor, luster, and strength (ojas-tejo-balavatām), fulfilling their hearts' desire (hṛdayepsitam).
+“You alone, through your innate radiance (_ātma-tejasā_), are the builder of abodes (_gṛha-kartā_) for the mighty gods endowed with vigor, luster, and strength (_ojas-tejo-balavatām_), fulfilling their hearts&#x27; desire (_hṛdayepsitam_).
 </details>
 </details>
 
@@ -604,7 +604,7 @@ When the Rākṣasas ask for a palace rivaling Śiva's upon Himavat, Meru, or Ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fashion for us as well, O noble-minded one (mahāmate), a dwelling (gṛhaṃ kuru)—resting upon Himavat, or upon Meru or Mandara (meru-mandaram eva vā)—let a mighty palace be built for us rivaling the abode of Maheśvara (maheśvara-gṛha-prakhyam)!”
+“Fashion for us as well, O noble-minded one (_mahāmate_), a dwelling (_gṛhaṃ kuru_)—resting upon Himavat, or upon Meru or Mandara (_meru-mandaram eva vā_)—let a mighty palace be built for us rivaling the abode of Maheśvara (_maheśvara-gṛha-prakhyam_)!”
 </details>
 </details>
 
@@ -641,9 +641,9 @@ When the Rākṣasas ask for a palace rivaling Śiva's upon Himavat, Meru, or Ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Thereupon the mighty-armed Viśvakarman (viśvakarmā mahābhujaḥ) declared to those Rākṣasas a dwelling-place (nivāsaṃ kathayām āsa) comparable to Indra's Amarāvatī (śakrasyevāmarāvatīm):
+**20:** Thereupon the mighty-armed Viśvakarman (_viśvakarmā mahābhujaḥ_) declared to those Rākṣasas a dwelling-place (_nivāsaṃ kathayām āsa_) comparable to Indra&#x27;s Amarāvatī (_śakrasyevāmarāvatīm_):
 
-**21:** “Upon the shore of the southern ocean (dakṣiṇasyodadhes tīre) stands a mountain named Trikūṭa (trikūṭo nāma parvataḥ); and there too stands a second mountain like it, named Suvela (suvela iti), O noblest ones (sattamāḥ).
+**21:** “Upon the shore of the southern ocean (_dakṣiṇasyodadhes tīre_) stands a mountain named Trikūṭa (_trikūṭo nāma parvataḥ_); and there too stands a second mountain like it, named Suvela (_suvela iti_), O noblest ones (_sattamāḥ_).
 </details>
 </details>
 
@@ -674,7 +674,7 @@ When the Rākṣasas ask for a palace rivaling Śiva's upon Himavat, Meru, or Ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon the central peak of that mountain (śikhare tasya śailasya madhyame), towering like a rain-cloud (ambuda-sannibhe), inaccessible even to winged birds (śakunair api duṣprāpe), with all four flanks sheared sheer as if by a stone-chisel (ṭaṅkacchinna-caturdiśi),
+“Upon the central peak of that mountain (_śikhare tasya śailasya madhyame_), towering like a rain-cloud (_ambuda-sannibhe_), inaccessible even to winged birds (_śakunair api duṣprāpe_), with all four flanks sheared sheer as if by a stone-chisel (_ṭaṅkacchinna-caturdiśi_),
 </details>
 </details>
 
@@ -705,7 +705,7 @@ When the Rākṣasas ask for a palace rivaling Śiva's upon Himavat, Meru, or Ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thirty yojanas in breadth (triṃśad-yojana-vistīrṇā) and a hundred yojanas in length (śata-yojanam āyatā), encircled by walls of gold (svarṇa-prākāra-saṃvītā) and enclosed with golden arched gateways (hema-toraṇa-saṃvṛtā),
+“Thirty _yojanas_ in breadth (_triṃśad-yojana-vistīrṇā_) and a hundred _yojanas_ in length (_śata-yojanam āyatā_), encircled by walls of gold (_svarṇa-prākāra-saṃvītā_) and enclosed with golden arched gateways (_hema-toraṇa-saṃvṛtā_),
 </details>
 </details>
 
@@ -750,11 +750,11 @@ Assured of invincibility in Laṅkā, Mālyavān, Sumālī, and Mālin settle th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “Stands a city named Laṅkā (laṅketi nagarī), constructed by me at the command of Śakra (śakrājñaptena nirmitā). Dwell therein, O unassailable bulls among Rākṣasas (durdharṣā rākṣasa-puṅgavāḥ)!
+**24:** “Stands a city named Laṅkā (_laṅketi nagarī_), constructed by me at the command of Śakra (_śakrājñaptena nirmitā_). Dwell therein, O unassailable bulls among Rākṣasas (_durdharṣā rākṣasa-puṅgavāḥ_)!
 
-**25:** “Just as the celestials with Indra (sendrā iva divaukasaḥ) dwell upon reaching Amarāvatī (amarāvatīṃ samāsādya), so, upon gaining the fortress of Laṅkā (laṅkā-durgaṃ samāsādya) surrounded by myriad Rākṣasas (rākṣasair bahubhir vṛtāḥ), you shall become unassailable by your enemies (durādharṣāḥ śatrūṇām), O destroyers of foes (śatru-sūdanāḥ)!”
+**25:** “Just as the celestials with Indra (_sendrā iva divaukasaḥ_) dwell upon reaching Amarāvatī (_amarāvatīṃ samāsādya_), so, upon gaining the fortress of Laṅkā (_laṅkā-durgaṃ samāsādya_) surrounded by myriad Rākṣasas (_rākṣasair bahubhir vṛtāḥ_), you shall become unassailable by your enemies (_durādharṣāḥ śatrūṇām_), O destroyers of foes (_śatru-sūdanāḥ_)!”
 
-**26:** Hearing those words of Viśvakarman (viśvakarma-vacaḥ śrutvā), those foremost of Rākṣasas (rākṣasottamāḥ), attended by thousands of followers (sahasrānucarā bhūtvā), went thither and took up residence in that city (tām avasan purīm).
+**26:** Hearing those words of Viśvakarman (_viśvakarma-vacaḥ śrutvā_), those foremost of Rākṣasas (_rākṣasottamāḥ_), attended by thousands of followers (_sahasrānucarā bhūtvā_), went thither and took up residence in that city (_tām avasan purīm_).
 </details>
 </details>
 
@@ -785,7 +785,7 @@ Assured of invincibility in Laṅkā, Mālyavān, Sumālī, and Mālin settle th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached Laṅkā, furnished with sturdy ramparts and moats (dṛḍha-prākāra-parikhām) and filled with hundreds of golden mansions (haimair gṛha-śatair vṛtām), those night-roamers dwelt there in great joy (hṛṣṭā nyavasan).
+Having reached Laṅkā, furnished with sturdy ramparts and moats (_dṛḍha-prākāra-parikhām_) and filled with hundreds of golden mansions (_haimair gṛha-śatair vṛtām_), those night-roamers dwelt there in great joy (_hṛṣṭā nyavasan_).
 </details>
 </details>
 
@@ -816,7 +816,7 @@ Having reached Laṅkā, furnished with sturdy ramparts and moats (dṛḍha-pr�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very time, O Rāghava, living as she pleased (yathākāmam), there was a Gandharva maiden named Narmadā (narmadā nāma gandharvī), O delight of the Raghus (raghunandana).
+At that very time, O Rāghava, living as she pleased (_yathākāmam_), there was a Gandharva maiden named Narmadā (_narmadā nāma gandharvī_), O delight of the Raghus (_raghunandana_).
 </details>
 </details>
 
@@ -847,7 +847,7 @@ At that very time, O Rāghava, living as she pleased (yathākāmam), there was a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She had a triad of daughters (kanyā-trayam) whose splendor matched Intelligence, Fortune, and Fame (dhī-śrī-kīrti-sama-dyuti); in order of seniority (jyeṣṭha-krameṇa), that non-Rākṣasa mother (arākṣasī) bestowed them upon those Rākṣasas—
+She had a triad of daughters (_kanyā-trayam_) whose splendor matched Intelligence, Fortune, and Fame (_dhī-śrī-kīrti-sama-dyuti_); in order of seniority (_jyeṣṭha-krameṇa_), that non-Rākṣasa mother (_arākṣasī_) bestowed them upon those Rākṣasas—
 </details>
 </details>
 
@@ -878,7 +878,7 @@ She had a triad of daughters (kanyā-trayam) whose splendor matched Intelligence
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighted (hṛṣṭā), she gave those three Gandharva maidens (tisro gandharva-kanyakāḥ), whose countenances shone like the full moon (pūrṇa-candra-nibhānanāḥ), unto the three lords of the Rākṣasas (trayāṇāṃ rākṣasendrāṇām).
+Delighted (_hṛṣṭā_), she gave those three Gandharva maidens (_tisro gandharva-kanyakāḥ_), whose countenances shone like the full moon (_pūrṇa-candra-nibhānanāḥ_), unto the three lords of the Rākṣasas (_trayāṇāṃ rākṣasendrāṇām_).
 </details>
 </details>
 
@@ -932,9 +932,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** Bestowed by their mother (dattā mātrā), those illustrious maidens (mahābhāgāḥ) were married under the asterism presided over by Bhaga (nakṣatre bhaga-daivate); and having thus taken wives (kṛta-dārāḥ), O Rāma, Sukeśa's sons then—
+**31:** Bestowed by their mother (_dattā mātrā_), those illustrious maidens (_mahābhāgāḥ_) were married under the asterism presided over by Bhaga (_nakṣatre bhaga-daivate_); and having thus taken wives (_kṛta-dārāḥ_), O Rāma, Sukeśa&#x27;s sons then—
 
-**32:** —sported joyfully with their consorts (cikrīḍuḥ saha bhāryābhiḥ), like immortals with Apsarases (apsarobhir ivāmarāḥ). Now Mālyavān's wife was the fair Sundarī by name (sundarī nāma sundarī);
+**32:** —sported joyfully with their consorts (_cikrīḍuḥ saha bhāryābhiḥ_), like immortals with Apsarases (_apsarobhir ivāmarāḥ_). Now Mālyavān&#x27;s wife was the fair Sundarī by name (_sundarī nāma sundarī_);
 </details>
 </details>
 
@@ -965,7 +965,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learn now (nibodha tat) what offspring he begot upon her (tasyāṃ janayām āsa): Vajramuṣṭi, Virūpākṣa, and the Rākṣasa Durmukha,
+Learn now (_nibodha tat_) what offspring he begot upon her (_tasyāṃ janayām āsa_): Vajramuṣṭi, Virūpākṣa, and the Rākṣasa Durmukha,
 </details>
 </details>
 
@@ -996,7 +996,7 @@ Learn now (nibodha tat) what offspring he begot upon her (tasyāṃ janayām ās
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Suptaghna, Yajñakopa, and likewise Matta and Unmatta (mattonmattau); and a fair daughter Analā (analā kanyā sundarī) was also born of Sundarī, O Rāma.
+Suptaghna, Yajñakopa, and likewise Matta and Unmatta (_mattonmattau_); and a fair daughter Analā (_analā kanyā sundarī_) was also born of Sundarī, O Rāma.
 </details>
 </details>
 
@@ -1027,7 +1027,7 @@ Suptaghna, Yajñakopa, and likewise Matta and Unmatta (mattonmattau); and a fair
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sumālī likewise had a wife whose face resembled the full moon (pūrṇa-candra-nibhānanā), named Ketumatī (nāmnā ketumatī), O Rāma, dearer to him than life itself (prāṇebhyo 'pi garīyasī).
+Sumālī likewise had a wife whose face resembled the full moon (_pūrṇa-candra-nibhānanā_), named Ketumatī (_nāmnā ketumatī_), O Rāma, dearer to him than life itself (_prāṇebhyo &#x27;pi garīyasī_).
 </details>
 </details>
 
@@ -1072,9 +1072,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** Hear now in due order (nibodhānupūrvaśaḥ), O mighty king (mahārāja), what offspring (yad apatyam) that night-roamer Sumālī begot upon Ketumatī (ketumatyām):
+**36:** Hear now in due order (_nibodhānupūrvaśaḥ_), O mighty king (_mahārāja_), what offspring (_yad apatyam_) that night-roamer Sumālī begot upon Ketumatī (_ketumatyām_):
 
-**37:** Prahasta and Akampana, Vikaṭa and Kālakārmukha, Dhūmrākṣa and Daṇḍa, and the mighty Supārśva (supārśvaś ca mahābalaḥ),
+**37:** Prahasta and Akampana, Vikaṭa and Kālakārmukha, Dhūmrākṣa and Daṇḍa, and the mighty Supārśva (_supārśvaś ca mahābalaḥ_),
 </details>
 </details>
 
@@ -1108,7 +1108,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saṃhrādi, Praghasa, and the Rākṣasa Bhāsakarṇa; and Rākā, Puṣpotkaṭā, the pure-smiling Kaikasī (kaikasī ca śucismitā), and Kumbhīnasī—these are remembered as the offspring of Sumālī (sumāleḥ prasavāḥ smṛtāḥ).
+Saṃhrādi, Praghasa, and the Rākṣasa Bhāsakarṇa; and Rākā, Puṣpotkaṭā, the pure-smiling Kaikasī (_kaikasī ca śucismitā_), and Kumbhīnasī—these are remembered as the offspring of Sumālī (_sumāleḥ prasavāḥ smṛtāḥ_).
 </details>
 </details>
 
@@ -1139,7 +1139,7 @@ Saṃhrādi, Praghasa, and the Rākṣasa Bhāsakarṇa; and Rākā, Puṣpotka�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Mālin's wife was a Gandharvī of exquisite beauty named Vasudhā (vasudhā nāma gandharvī rūpa-śālinī), lotus-petal-eyed (padma-patrākṣī), lovely-eyed (svakṣī), and peer to the noblest of Yakṣīs (yakṣī-varopamā).
+And Mālin&#x27;s wife was a Gandharvī of exquisite beauty named Vasudhā (_vasudhā nāma gandharvī rūpa-śālinī_), lotus-petal-eyed (_padma-patrākṣī_), lovely-eyed (_svakṣī_), and peer to the noblest of Yakṣīs (_yakṣī-varopamā_).
 </details>
 </details>
 
@@ -1190,11 +1190,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** Hear now from me (kathyamānaṃ mayā śṛṇu), O Lord (prabho), O Rāghava, what offspring (yad apatyam) the younger brother of Sumālī (sumāler anujaḥ) begot upon her:
+**40:** Hear now from me (_kathyamānaṃ mayā śṛṇu_), O Lord (_prabho_), O Rāghava, what offspring (_yad apatyam_) the younger brother of Sumālī (_sumāler anujaḥ_) begot upon her:
 
-**41:** Anila, Anala, Hara, and Sampāti as well—these four sons of Mālin (māleyāḥ), those night-roamers (niśācarāḥ), became the counselors of Vibhīṣaṇa (vibhīṣaṇāmātyāḥ).
+**41:** Anila, Anala, Hara, and Sampāti as well—these four sons of Mālin (_māleyāḥ_), those night-roamers (_niśācarāḥ_), became the counselors of Vibhīṣaṇa (_vibhīṣaṇāmātyāḥ_).
 
-**42:** Then those three bulls among Rākṣasas (rākṣasa-puṅgavās trayaḥ), surrounded by hundreds of night-roaming sons (niśācaraiḥ putra-śataiś ca saṃvṛtāḥ) and swollen with pride in their vast valor (bahu-vīrya-darpitāḥ), tormented the gods together with Indra, as well as sages, Nāgas, and Yakṣas (surān sahendrān ṛṣi-nāga-yakṣān babādhire).
+**42:** Then those three bulls among Rākṣasas (_rākṣasa-puṅgavās trayaḥ_), surrounded by hundreds of night-roaming sons (_niśācaraiḥ putra-śataiś ca saṃvṛtāḥ_) and swollen with pride in their vast valor (_bahu-vīrya-darpitāḥ_), tormented the gods together with Indra, as well as sages, Nāgas, and Yakṣas (_surān sahendrān ṛṣi-nāga-yakṣān babādhire_).
 </details>
 </details>
 
@@ -1225,7 +1225,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wandering the world (jagad bhramantaḥ), unapproachable as the wind (anilavad durāsadāḥ), rivaling Death himself in fiery might in battle (raṇeṣu mṛtyu-pratimāna-tejasaḥ), and exceedingly arrogant through the grant of their boon (vara-pradānād atigarvitāḥ), they ever proved the destroyers of sacrificial rites (kratu-kriyāṇāṃ praśamaṅkarāḥ sadā).
+Wandering the world (_jagad bhramantaḥ_), unapproachable as the wind (_anilavad durāsadāḥ_), rivaling Death himself in fiery might in battle (_raṇeṣu mṛtyu-pratimāna-tejasaḥ_), and exceedingly arrogant through the grant of their boon (_vara-pradānād atigarvitāḥ_), they ever proved the destroyers of sacrificial rites (_kratu-kriyāṇāṃ praśamaṅkarāḥ sadā_).
 </details>
 </details>
 

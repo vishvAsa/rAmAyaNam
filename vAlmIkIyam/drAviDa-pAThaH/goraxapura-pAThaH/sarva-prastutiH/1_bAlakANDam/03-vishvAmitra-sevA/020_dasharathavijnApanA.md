@@ -84,7 +84,7 @@ a time, and on redeeming senses he said this. [1-20-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Viśvāmitra (asking for Rāma to slay the sacrifice-obstructing rākṣasas), that tiger among kings lost consciousness for a moment as it were (muhūrtam iva niḥsaṃjñaḥ); then, regaining his senses (saṃjñāvān), he spoke these words:
+Hearing that speech of Viśvāmitra (asking for Rāma to slay the sacrifice-obstructing rākṣasas), that tiger among kings lost consciousness for a moment as it were (_muhūrtam iva niḥsaṃjñaḥ_); then, regaining his senses (_saṃjñāvān_), he spoke these words:
 </details>
 </details>
 
@@ -173,7 +173,7 @@ eliminating the vice. This is again rounded off with Vishvamitra's wording in la
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My lotus-eyed Rāma is less than sixteen years of age (ūnaṣoḍaśavarṣo me rāmo rājīvalocanaḥ); I do not see in him the fitness to wage battle against the rākṣasas (na yuddhayogyatām asya paśyāmi saha rākṣasaiḥ).
+“My lotus-eyed Rāma is less than sixteen years of age (_ūnaṣoḍaśavarṣo me rāmo rājīvalocanaḥ_); I do not see in him the fitness to wage battle against the rākṣasas (_na yuddhayogyatām asya paśyāmi saha rākṣasaiḥ_).
 </details>
 </details>
 
@@ -234,7 +234,7 @@ and 1,09,350 of foot soldiers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is this full akṣauhiṇī army of which I am the protector and sovereign lord (iyam akṣauhiṇī senā yasyāhaṃ patir īśvaraḥ); marching forth accompanied by this host, I myself shall fight against those night-prowlers (yoddhāhaṃ tair niśācaraiḥ).
+Here is this full _akṣauhiṇī_ army of which I am the protector and sovereign lord (_iyam akṣauhiṇī senā yasyāhaṃ patir īśvaraḥ_); marching forth accompanied by this host, I myself shall fight against those night-prowlers (_yoddhāhaṃ tair niśācaraiḥ_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ ones to combat the hordes of demons, but, it will be ungentle of you to take Ram
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-These heroic and valiant warriors of mine are deeply skilled in missiles (ime śūrāś ca vikrāntā bhṛtyā me ’straviśāradāḥ) and are well-fitted to fight against the hordes of rākṣasas; you ought not to take Rāma away (na rāmaṃ netum arhasi)!
+These heroic and valiant warriors of mine are deeply skilled in missiles (_ime śūrāś ca vikrāntā bhṛtyā me ’straviśāradāḥ_) and are well-fitted to fight against the hordes of rākṣasas; you ought not to take Rāma away (_na rāmaṃ netum arhasi_)!
 </details>
 </details>
 
@@ -328,7 +328,7 @@ I war with those nightwalkers staying in the van of war. [1-20-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I myself, bow in hand, shall stand as the protector of your sacrifice in the vanguard of battle (aham eva dhanuṣpāṇir goptā samaramūrdhani); for so long as I shall hold my vital breaths, I shall fight with the night-prowlers (yāvat prāṇān dhariṣyāmi tāvad yotsye niśācaraiḥ).
+I myself, bow in hand, shall stand as the protector of your sacrifice in the vanguard of battle (_aham eva dhanuṣpāṇir goptā samaramūrdhani_); for so long as I shall hold my vital breaths, I shall fight with the night-prowlers (_yāvat prāṇān dhariṣyāmi tāvad yotsye niśācaraiḥ_).
 </details>
 </details>
 
@@ -380,7 +380,7 @@ but, taking Rama with you will be ungracious of you. [1-20-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus guarded well by me, that sacrificial vow of yours shall proceed free of all obstacles (nirvighnā vratacaryā sā bhaviṣyati surakṣitā). I myself shall go thither; you ought not to take Rāma away (ahaṃ tatra gamiṣyāmi na rāmaṃ netum arhasi)!
+Thus guarded well by me, that sacrificial vow of yours shall proceed free of all obstacles (_nirvighnā vratacaryā sā bhaviṣyati surakṣitā_). I myself shall go thither; you ought not to take Rāma away (_ahaṃ tatra gamiṣyāmi na rāmaṃ netum arhasi_)!
 </details>
 </details>
 
@@ -449,7 +449,7 @@ demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is still a tender boy, his martial training not yet complete (bālo hy akṛtavidyaś ca), nor does he know how to gauge the comparative strength and weakness of foes (na ca vetti balābalam); he is neither equipped with the power of celestial missiles (na cāstrabalasaṃyuktaḥ) nor experienced in pitched battle (na ca yuddhaviśāradaḥ).
+He is still a tender boy, his martial training not yet complete (_bālo hy akṛtavidyaś ca_), nor does he know how to gauge the comparative strength and weakness of foes (_na ca vetti balābalam_); he is neither equipped with the power of celestial missiles (_na cāstrabalasaṃyuktaḥ_) nor experienced in pitched battle (_na ca yuddhaviśāradaḥ_).
 </details>
 </details>
 
@@ -520,9 +520,9 @@ The four kinds of troops are: chariots, elephants, cavalry, and foot soldiers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Nor is he a match for the rākṣasas, for the rākṣasas fight by treacherous magic and illusion (kūṭayuddhā hi rākṣasāḥ). Separated from Rāma, I cannot bear even for a single muhūrta (viprayukto hi rāmeṇa muhūrtam api notsahe)—
+**8:** Nor is he a match for the rākṣasas, for the rākṣasas fight by treacherous magic and illusion (_kūṭayuddhā hi rākṣasāḥ_). Separated from Rāma, I cannot bear even for a single _muhūrta_ (_viprayukto hi rāmeṇa muhūrtam api notsahe_)—
 
-**9:** To remain alive, O tiger among sages! You ought not to take Rāma away (jīvituṃ muniśārdūla na rāmaṃ netum arhasi)! Or if, O Brāhmaṇa of noble vows, you are resolved upon taking Rāghava (yadi vā rāghavaṃ brahman netum icchasi suvrata),
+**9:** To remain alive, O tiger among sages! You ought not to take Rāma away (_jīvituṃ muniśārdūla na rāmaṃ netum arhasi_)! Or if, O Brāhmaṇa of noble vows, you are resolved upon taking Rāghava (_yadi vā rāghavaṃ brahman netum icchasi suvrata_),
 </details>
 </details>
 
@@ -576,7 +576,7 @@ of you. [1-20-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then take him accompanied by a fourfold army and together with me as well (caturaṅgasamāyuktaṃ mayā saha ca taṃ naya)! Sixty thousand years have passed since my birth, O Kauśika (ṣaṣṭir varṣasahasrāṇi jātasya mama kauśika),
+Then take him accompanied by a fourfold army and together with me as well (_caturaṅgasamāyuktaṃ mayā saha ca taṃ naya_)! Sixty thousand years have passed since my birth, O Kauśika (_ṣaṣṭir varṣasahasrāṇi jātasya mama kauśika_),
 </details>
 </details>
 
@@ -624,7 +624,7 @@ will be unjust of you. [1-20-11b, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And this son was begotten by me through great hardship and penance (kṛcchreṇotpāditaś cāyam); you ought not to take Rāma away! For among all my four sons, my supreme and fondest love (prītiḥ paramikā mama)—
+And this son was begotten by me through great hardship and penance (_kṛcchreṇotpāditaś cāyam_); you ought not to take Rāma away! For among all my four sons, my supreme and fondest love (_prītiḥ paramikā mama_)—
 </details>
 </details>
 
@@ -695,9 +695,9 @@ deceitful militants. [1-20-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Rests upon him, the eldest and the chief upholder of dharma (jyeṣṭhe dharmapradhāne ca); you ought not to take Rāma away! Of what might are those rākṣasas, whose sons are they, and who are they by name (kiṃvīryā rākṣasās te ca kasya putrāś ca ke ca te)?
+**12:** Rests upon him, the eldest and the chief upholder of _dharma_ (_jyeṣṭhe dharmapradhāne ca_); you ought not to take Rāma away! Of what might are those rākṣasas, whose sons are they, and who are they by name (_kiṃvīryā rākṣasās te ca kasya putrāś ca ke ca te_)?
 
-**13:** Of what stature and measure are they, and who protects them at their head, O foremost of sages (kathaṃpramāṇāḥ ke caitān rakṣanti munipuṃgava)? And how are those rākṣasas to be countered by Rāma (kathaṃ ca pratikartavyaṃ teṣāṃ rāmeṇa rakṣasām),
+**13:** Of what stature and measure are they, and who protects them at their head, O foremost of sages (_kathaṃpramāṇāḥ ke caitān rakṣanti munipuṃgava_)? And how are those rākṣasas to be countered by Rāma (_kathaṃ ca pratikartavyaṃ teṣāṃ rāmeṇa rakṣasām_),
 </details>
 </details>
 
@@ -730,7 +730,7 @@ deceitful militants. [1-20-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or by my armies, O Brāhmaṇa, or by myself in battle against those treacherous fighters (māmakair vā balair brahman mayā vā kūṭayodhinām)? Tell me all of this in full, O venerable lord: how am I to stand in battle (kathaṃ teṣāṃ mayā raṇe)—
+Or by my armies, O Brāhmaṇa, or by myself in battle against those treacherous fighters (_māmakair vā balair brahman mayā vā kūṭayodhinām_)? Tell me all of this in full, O venerable lord: how am I to stand in battle (_kathaṃ teṣāṃ mayā raṇe_)—
 </details>
 </details>
 
@@ -825,11 +825,11 @@ thus we hear. [1-20-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Against those evil-natured beings, for the rākṣasas are puffed up with their own might (sthātavyaṃ duṣṭabhāvānāṃ vīryotsiktā hi rākṣasāḥ)?” Hearing those words of the King, Viśvāmitra replied (tasya tad vacanaṃ śrutvā viśvāmitro ’bhyabhāṣata):
+**15:** Against those evil-natured beings, for the rākṣasas are puffed up with their own might (_sthātavyaṃ duṣṭabhāvānāṃ vīryotsiktā hi rākṣasāḥ_)?” Hearing those words of the King, Viśvāmitra replied (_tasya tad vacanaṃ śrutvā viśvāmitro ’bhyabhāṣata_):
 
-**16:** “There is a rākṣasa named Rāvaṇa, sprung from the lineage of Sage Pulastya (paulastyavaṃśaprabhavo rāvaṇo nāma rākṣasaḥ). Granted a boon by Lord Brahmā, he sorely afflicts the three worlds (sa brahmaṇā dattavaras trailokyaṃ bādhate bhṛśam),
+**16:** “There is a rākṣasa named Rāvaṇa, sprung from the lineage of Sage Pulastya (_paulastyavaṃśaprabhavo rāvaṇo nāma rākṣasaḥ_). Granted a boon by Lord Brahmā, he sorely afflicts the three worlds (_sa brahmaṇā dattavaras trailokyaṃ bādhate bhṛśam_),
 
-**17:** Possessed of mighty strength and vast valor, and surrounded by multitudes of rākṣasas (mahābalo mahāvīryo rākṣasair bahubhir vṛtaḥ). This Rāvaṇa, the overlord of the rākṣasas, O great King, is renowned throughout the world (śrūyate ca mahārāja rāvaṇo rākṣasādhipaḥ)—
+**17:** Possessed of mighty strength and vast valor, and surrounded by multitudes of rākṣasas (_mahābalo mahāvīryo rākṣasair bahubhir vṛtaḥ_). This Rāvaṇa, the overlord of the rākṣasas, O great King, is renowned throughout the world (_śrūyate ca mahārāja rāvaṇo rākṣasādhipaḥ_)—
 </details>
 </details>
 
@@ -891,9 +891,9 @@ by him." Thus Sage Vishvamitra said to Dasharatha. [1-20-18b, 19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** As the own uterine brother of Vaiśravaṇa (Kubera) and the son of Sage Viśravas (sākṣād vaiśravaṇabhrātā putro viśravaso muneḥ). When that mighty lord does not himself come in person to obstruct a sacrifice (yadā na khalu yajñasya vighnakartā mahābalaḥ),
+**18:** As the own uterine brother of Vaiśravaṇa (Kubera) and the son of Sage Viśravas (_sākṣād vaiśravaṇabhrātā putro viśravaso muneḥ_). When that mighty lord does not himself come in person to obstruct a sacrifice (_yadā na khalu yajñasya vighnakartā mahābalaḥ_),
 
-**19:** Impelled by him, those two rākṣasas of exceeding might, Mārīca and Subāhu, will obstruct the sacrifice (mārīcaś ca subāhuś ca yajñavighnaṃ kariṣyataḥ).”
+**19:** Impelled by him, those two rākṣasas of exceeding might, Mārīca and Subāhu, will obstruct the sacrifice (_mārīcaś ca subāhuś ca yajñavighnaṃ kariṣyataḥ_).”
 </details>
 </details>
 
@@ -941,7 +941,7 @@ question of deputing my young Rama to confront him? [1-20-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by that sage, the King then spoke to the sage: “Indeed I am not able to stand in battle against that evil-souled one (na hi śakto ’smi saṃgrāme sthātuṃ tasya durātmanaḥ)!
+Thus addressed by that sage, the King then spoke to the sage: “Indeed I am not able to stand in battle against that evil-souled one (_na hi śakto ’smi saṃgrāme sthātuṃ tasya durātmanaḥ_)!
 </details>
 </details>
 
@@ -988,7 +988,7 @@ a god of ours. [1-20-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O knower of dharma, do you show grace toward my little son (sa tvaṃ prasādaṃ dharmajña kuruṣva mama putrake)! For to me, of scant fortune as I am, you are my very deity and preceptor (mama caivālpabhāgyasya daivataṃ hi bhavān guruḥ).
+Therefore, O knower of _dharma_, do you show grace toward my little son (_sa tvaṃ prasādaṃ dharmajña kuruṣva mama putrake_)! For to me, of scant fortune as I am, you are my very deity and preceptor (_mama caivālpabhāgyasya daivataṃ hi bhavān guruḥ_).
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even the gods, Dānavas, Gandharvas, Yakṣas, birds (Garuda and his race), and serpents are unable to withstand Rāvaṇa in battle—how much less mere mortal men (na śaktā rāvaṇaṃ soḍhuṃ kiṃ punar mānavā yudhi)!
+Even the gods, Dānavas, Gandharvas, Yakṣas, birds (Garuda and his race), and serpents are unable to withstand Rāvaṇa in battle—how much less mere mortal men (_na śaktā rāvaṇaṃ soḍhuṃ kiṃ punar mānavā yudhi_)!
 </details>
 </details>
 
@@ -1086,7 +1086,7 @@ forces, or with him, individually. [1-20-23, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For that Rāvaṇa snatches away the very valor of the valiant in battle (sa tu vīryavatāṃ vīryam ādatte yudhi rāvaṇaḥ). Therefore I am unable to contend in battle either with him or with his forces (tena cāhaṃ na śakto ’smi saṃyoddhuṃ tasya vā balaiḥ),
+For that Rāvaṇa snatches away the very valor of the valiant in battle (_sa tu vīryavatāṃ vīryam ādatte yudhi rāvaṇaḥ_). Therefore I am unable to contend in battle either with him or with his forces (_tena cāhaṃ na śakto ’smi saṃyoddhuṃ tasya vā balaiḥ_),
 </details>
 </details>
 
@@ -1133,7 +1133,7 @@ spare my son in anyway. [1-20-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether accompanied by my army, O foremost of sages, or together with my sons (sabalo vā muniśreṣṭha sahito vā mamātmajaiḥ). How then could I possibly hand over my tender son, godlike in beauty yet unacquainted with battles (katham apy amaraprakhyaṃ saṃgrāmāṇām akovidam)—
+Whether accompanied by my army, O foremost of sages, or together with my sons (_sabalo vā muniśreṣṭha sahito vā mamātmajaiḥ_). How then could I possibly hand over my tender son, godlike in beauty yet unacquainted with battles (_katham apy amaraprakhyaṃ saṃgrāmāṇām akovidam_)—
 </details>
 </details>
 
@@ -1194,9 +1194,9 @@ no, I cannot spare my son, in any case. [1-20-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** My young child, O Brāhmaṇa? I will never give away my little son (bālaṃ me tanayaṃ brahman naiva dāsyāmi putrakam)! Moreover, those two sons of Sunda and Upasunda are like Death himself in battle (atha kālopamau yuddhe sutau sundopasundayoḥ)—
+**25:** My young child, O Brāhmaṇa? I will never give away my little son (_bālaṃ me tanayaṃ brahman naiva dāsyāmi putrakam_)! Moreover, those two sons of Sunda and Upasunda are like Death himself in battle (_atha kālopamau yuddhe sutau sundopasundayoḥ_)—
 
-**26:** Those two obstructors of your sacrifice! I will never give away my little son to you (yajñavighnakarau tau te naiva dāsyāmi putrakam)! Both Mārīca and Subāhu are mighty in valor and thoroughly trained in warfare (mārīcaś ca subāhuś ca vīryavantau suśikṣitau);
+**26:** Those two obstructors of your sacrifice! I will never give away my little son to you (_yajñavighnakarau tau te naiva dāsyāmi putrakam_)! Both Mārīca and Subāhu are mighty in valor and thoroughly trained in warfare (_mārīcaś ca subāhuś ca vīryavantau suśikṣitau_);
 </details>
 </details>
 
@@ -1246,7 +1246,7 @@ implore upon you for your exoneration in my failure to comply my own promises. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Against either one of those two I shall march forth to fight along with my host of friends and allies (tayor anyataraṃ yoddhuṃ yāsyāmi sasuhṛdgaṇaḥ); or else, accompanied by my kinsmen, I shall humbly entreat and propitiate you (anyathā tv anuneṣyāmi bhavantaṃ sahabāndhavaḥ).”
+Against either one of those two I shall march forth to fight along with my host of friends and allies (_tayor anyataraṃ yoddhuṃ yāsyāmi sasuhṛdgaṇaḥ_); or else, accompanied by my kinsmen, I shall humbly entreat and propitiate you (_anyathā tv anuneṣyāmi bhavantaṃ sahabāndhavaḥ_).”
 </details>
 </details>
 
@@ -1321,7 +1321,7 @@ and which is drenched with a lot of clarified butter, whereby it is flaring up i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At this wild and incoherent prattle of the monarch (iti narapatijalpanāt), a towering wrath entered the foremost of twice-born sages, the son of Kuśika (dvijendraṃ kuśikasutaṃ sumahān viveśa manyuḥ); like a sacrificial fire well-fed with dry fuel in a rite and drenched with clarified butter, the fire of that great sage blazed up fiercely (samabhavad ujjvalito maharṣivahniḥ).
+At this wild and incoherent prattle of the monarch (_iti narapatijalpanāt_), a towering wrath entered the foremost of twice-born sages, the son of Kuśika (_dvijendraṃ kuśikasutaṃ sumahān viveśa manyuḥ_); like a sacrificial fire well-fed with dry fuel in a rite and drenched with clarified butter, the fire of that great sage blazed up fiercely (_samabhavad ujjvalito maharṣivahniḥ_).
 </details>
 </details>
 

@@ -49,7 +49,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sent Śatrughna off (prasthāpya tu sa śatrughnam), Rāghava rejoiced happily (pramumoda sukhī) together with his two brothers (bhrātṛbhyāṃ saha), protecting the kingdom in accordance with dharma (rājyaṃ dharmeṇa paripālayan).
+Having sent Śatrughna off (_prasthāpya tu sa śatrughnam_), Rāghava rejoiced happily (_pramumoda sukhī_) together with his two brothers (_bhrātṛbhyāṃ saha_), protecting the kingdom in accordance with dharma (_rājyaṃ dharmeṇa paripālayan_).
 </details>
 </details>
 
@@ -83,7 +83,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, after a few days (tataḥ katipayāhaḥsu), an aged brahmin from the countryside (vṛddho jānapado dvijaḥ) arrived at the king’s gate (rājadvāram upāgamat), carrying his dead child (mṛtaṃ bālam upādāya).
+Then, after a few days (_tataḥ katipayāhaḥsu_), an aged brahmin from the countryside (_vṛddho jānapado dvijaḥ_) arrived at the king’s gate (_rājadvāram upāgamat_), carrying his dead child (_mṛtaṃ bālam upādāya_).
 </details>
 </details>
 
@@ -117,7 +117,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping manifold words fraught with affection and anguish (rudan bahuvidhā vācaḥ sneha-duḥkha-samanvitāḥ), crying “O son! O son!” again and again (asakṛt putra putreti), he spoke these very words:
+Weeping manifold words fraught with affection and anguish (_rudan bahuvidhā vācaḥ sneha-duḥkha-samanvitāḥ_), crying “O son! O son!” again and again (_asakṛt putra putreti_), he spoke these very words:
 </details>
 </details>
 
@@ -151,7 +151,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What evil deed, indeed, was done by me of old in another body (kiṃ nu me duṣkṛtaṃ karma purā dehāntare kṛtam), that I must behold you, my only son (putram ekaṃ tvām), gone to destruction (nidhanaṃ gatam)?
+“What evil deed, indeed, was done by me of old in another body (_kiṃ nu me duṣkṛtaṃ karma purā dehāntare kṛtam_), that I must behold you, my only son (_putram ekaṃ tvām_), gone to destruction (_nidhanaṃ gatam_)?
 </details>
 </details>
 
@@ -188,7 +188,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You—a child who had not yet reached youth (aprāpta-yauvanaṃ bālam), counting five thousand ‘years’ [i.e., days] (pañca-varṣa-sahasrakam)—fallen prey to death out of season (akāle kālam āpannam), to my sorrow, O little son (mama duḥkhāya putraka)!
+“You—a child who had not yet reached youth (_aprāpta-yauvanaṃ bālam_), counting five thousand ‘years’ [i.e., days] (_pañca-varṣa-sahasrakam_)—fallen prey to death out of season (_akāle kālam āpannam_), to my sorrow, O little son (_mama duḥkhāya putraka_)!
 </details>
 </details>
 
@@ -222,7 +222,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Within a few days (alpair ahobhiḥ) I shall surely go to my death (nidhanaṃ gamiṣyāmi na saṃśayaḥ)—both I and your mother as well (ahaṃ ca jananī caiva)—out of grief for you, O little son (tava śokena putraka)!”
+“Within a few days (_alpair ahobhiḥ_) I shall surely go to my death (_nidhanaṃ gamiṣyāmi na saṃśayaḥ_)—both I and your mother as well (_ahaṃ ca jananī caiva_)—out of grief for you, O little son (_tava śokena putraka_)!”
 </details>
 </details>
 
@@ -264,7 +264,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not recall ever having spoken an untruth (na smarāmy anṛtaṃ hy uktam), nor do I recall any act of violence (na ca hiṃsāṃ smarāmy aham); I do not recall ever having committed a wrong against any living creature (sarveṣāṃ prāṇināṃ pāpaṃ kṛtaṃ naiva smarāmy aham)!
+“I do not recall ever having spoken an untruth (_na smarāmy anṛtaṃ hy uktam_), nor do I recall any act of violence (_na ca hiṃsāṃ smarāmy aham_); I do not recall ever having committed a wrong against any living creature (_sarveṣāṃ prāṇināṃ pāpaṃ kṛtaṃ naiva smarāmy aham_)!
 </details>
 </details>
 
@@ -293,7 +293,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By what misdeed, then (kenādya duṣkṛtena), has this son of mine, still a mere boy (bāla eva mamātmajaḥ), gone today to Yama’s abode (gato vaivasvata-kṣayam) without having performed the rites owed to his ancestors (akṛtvā pitṛ-kāryāṇi)?
+“By what misdeed, then (_kenādya duṣkṛtena_), has this son of mine, still a mere boy (_bāla eva mamātmajaḥ_), gone today to Yama’s abode (_gato vaivasvata-kṣayam_) without having performed the rites owed to his ancestors (_akṛtvā pitṛ-kāryāṇi_)?
 </details>
 </details>
 
@@ -327,7 +327,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never before have I seen or heard of such a dreadful sight (nedṛśaṃ dṛṣṭa-pūrvaṃ me śrutaṃ vā ghora-darśanam) as the death of those whose time has not yet come (mṛtyur aprāpta-kālānām) here in Rāma’s realm (rāmasya viṣaye yathā)!
+“Never before have I seen or heard of such a dreadful sight (_nedṛśaṃ dṛṣṭa-pūrvaṃ me śrutaṃ vā ghora-darśanam_) as the death of those whose time has not yet come (_mṛtyur aprāpta-kālānām_) here in Rāma’s realm (_rāmasya viṣaye yathā_)!
 </details>
 </details>
 
@@ -361,7 +361,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuredly there is some grave misdeed of Rāma’s, without doubt (rāmasya duṣkṛtaṃ kiñcin mahad asti na saṃśayaḥ), since death has come upon children dwelling within his realm (viṣaya-sthānāṃ bālānāṃ mṛtyur āgataḥ)!
+“Assuredly there is some grave misdeed of Rāma’s, without doubt (_rāmasya duṣkṛtaṃ kiñcin mahad asti na saṃśayaḥ_), since death has come upon children dwelling within his realm (_viṣaya-sthānāṃ bālānāṃ mṛtyur āgataḥ_)!
 </details>
 </details>
 
@@ -414,9 +414,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “For children dwelling in other realms (anya-viṣaya-sthānāṃ bālānām) have no fear of death (mṛtyuto bhayam); do you, O king, restore to life this boy who has fallen into death’s power (tvaṃ rājañ jīvayasvainaṃ bālaṃ mṛtyu-vaśaṃ gatam)!”
+**11:** “For children dwelling in other realms (_anya-viṣaya-sthānāṃ bālānām_) have no fear of death (_mṛtyuto bhayam_); do you, O king, restore to life this boy who has fallen into death’s power (_tvaṃ rājañ jīvayasvainaṃ bālaṃ mṛtyu-vaśaṃ gatam_)!”
 
-**12:** “I shall die at the king’s gate (rājadvāri mariṣyāmi) together with my wife, like one utterly protectorless (patnyā sārdham anāthavat); then, O Rāma, having incurred the guilt of brahmin-slaughter (brahmahatyāṃ ... samupetya), be happy (sukhī bhava)!
+**12:** “I shall die at the king’s gate (_rājadvāri mariṣyāmi_) together with my wife, like one utterly protectorless (_patnyā sārdham anāthavat_); then, O Rāma, having incurred the guilt of brahmin-slaughter (_brahmahatyāṃ ... samupetya_), be happy (_sukhī bhava_)!
 </details>
 </details>
 
@@ -450,7 +450,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with your brothers, O king (bhrātṛbhiḥ sahito rājan), you shall attain long life (dīrgham āyur avāpsyasi)! Happily indeed have we dwelt in this kingdom of yours (uṣitāḥ sma sukhaṃ rājye tavāsmin), O mighty one!
+“Together with your brothers, O king (_bhrātṛbhiḥ sahito rājan_), you shall attain long life (_dīrgham āyur avāpsyasi_)! Happily indeed have we dwelt in this kingdom of yours (_uṣitāḥ sma sukhaṃ rājye tavāsmin_), O mighty one!
 </details>
 </details>
 
@@ -484,7 +484,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet this calamity has fallen upon us (idaṃ tu patitam)! Therefore, abiding under your sway, O Rāma (tava rāma vaśe sthitāḥ), we have fallen under the sway of Death (kālasya vaśam āpannāḥ)—not even the slightest happiness is ours (svalpaṃ hi nahi naḥ sukham)!
+“Yet this calamity has fallen upon us (_idaṃ tu patitam_)! Therefore, abiding under your sway, O Rāma (_tava rāma vaśe sthitāḥ_), we have fallen under the sway of Death (_kālasya vaśam āpannāḥ_)—not even the slightest happiness is ours (_svalpaṃ hi nahi naḥ sukham_)!
 </details>
 </details>
 
@@ -518,7 +518,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now indeed is the realm of the great-souled Ikṣvākus utterly protectorless (sampraty anātho viṣaya ikṣvākūṇāṃ mahātmanām), having obtained Rāma here as its lord (rāmaṃ nātham ihāsādya)—a veritable destroyer of children (bālāntakaraṇaṃ dhruvam)!”
+“Now indeed is the realm of the great-souled Ikṣvākus utterly protectorless (_sampraty anātho viṣaya ikṣvākūṇāṃ mahātmanām_), having obtained Rāma here as its lord (_rāmaṃ nātham ihāsādya_)—a veritable destroyer of children (_bālāntakaraṇaṃ dhruvam_)!”
 </details>
 </details>
 
@@ -560,7 +560,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the faults of a king (rāja-doṣaiḥ), subjects who are not governed according to the sacred ordinance (prajā hy avidhi-pālitāḥ) surely perish (vipadyante); when a monarch follows wrongful conduct (asad-vṛtte tu nṛpatau), people die out of season (akāle mriyate janaḥ)!
+“Through the faults of a king (_rāja-doṣaiḥ_), subjects who are not governed according to the sacred ordinance (_prajā hy avidhi-pālitāḥ_) surely perish (_vipadyante_); when a monarch follows wrongful conduct (_asad-vṛtte tu nṛpatau_), people die out of season (_akāle mriyate janaḥ_)!
 </details>
 </details>
 
@@ -594,7 +594,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or when people in cities and in the countryside (pureṣv ... janapadeṣu ca) commit improper deeds (ayuktāni ... kurvate) and there is no restraint (na ca rakṣā ’sti), then arises terror wrought by untimely Death (tadā kāla-kṛtaṃ bhayam).
+“Or when people in cities and in the countryside (_pureṣv ... janapadeṣu ca_) commit improper deeds (_ayuktāni ... kurvate_) and there is no restraint (_na ca rakṣā ’sti_), then arises terror wrought by untimely Death (_tadā kāla-kṛtaṃ bhayam_).
 </details>
 </details>
 
@@ -628,7 +628,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Most plainly there must be a royal failing, without doubt (suvyaktaṃ rāja-doṣo hi bhaviṣyati na saṃśayaḥ), either in the city or in the countryside (pure janapade cāpi); from that indeed comes this slaying of a child (tato bāla-vadho hy ayam)!”
+“Most plainly there must be a royal failing, without doubt (_suvyaktaṃ rāja-doṣo hi bhaviṣyati na saṃśayaḥ_), either in the city or in the countryside (_pure janapade cāpi_); from that indeed comes this slaying of a child (_tato bāla-vadho hy ayam_)!”
 </details>
 </details>
 
@@ -673,6 +673,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus upbraided the king again and again (rājānam ... uparudhya muhur muhuḥ) with manifold words (evaṃ bahuvidhair vākyaiḥ), the anguish-stricken father (duḥkha-santaptaḥ) clasped that son of his to his breast (sutaṃ tam upagūhate).
+Having thus upbraided the king again and again (_rājānam ... uparudhya muhur muhuḥ_) with manifold words (_evaṃ bahuvidhair vākyaiḥ_), the anguish-stricken father (_duḥkha-santaptaḥ_) clasped that son of his to his breast (_sutaṃ tam upagūhate_).
 </details>
 </details>

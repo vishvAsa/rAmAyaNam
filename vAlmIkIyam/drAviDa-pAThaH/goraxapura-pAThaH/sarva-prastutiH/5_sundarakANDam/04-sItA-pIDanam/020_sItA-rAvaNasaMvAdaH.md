@@ -77,7 +77,7 @@ happiness and pitiable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With sweet words expressive of his inner intent (sākāraiḥ), that Rāvaṇa made known [his desire] to that wretched, joyless ascetic lady (tapasvinīm) who was surrounded [by rākṣasīs].
+With sweet words expressive of his inner intent (_sākāraiḥ_), that Rāvaṇa made known [his desire] to that wretched, joyless ascetic lady (_tapasvinīm_) who was surrounded [by rākṣasīs].
 </details>
 </details>
 
@@ -129,7 +129,7 @@ you desire obtaining disappearance of self due to fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seeing me, O lady whose thighs resemble an elephant’s trunk (nāganāsoru), you conceal your breasts and waist (stanodaram) and wish out of fear, as it were, to carry yourself into invisibility (adarśanam).
+“Seeing me, O lady whose thighs resemble an elephant’s trunk (_nāganāsoru_), you conceal your breasts and waist (_stanodaram_) and wish out of fear, as it were, to carry yourself into invisibility (_adarśanam_).
 </details>
 </details>
 
@@ -174,7 +174,7 @@ O lovable one! respect me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I desire you, O large-eyed lady (viśālākṣi); esteem me highly, O beloved, O you who are endowed with the excellences of every limb and who captivate every world (sarvalokamanohare)!
+I desire you, O large-eyed lady (_viśālākṣi_); esteem me highly, O beloved, O you who are endowed with the excellences of every limb and who captivate every world (_sarvalokamanohare_)!
 </details>
 </details>
 
@@ -223,7 +223,7 @@ due to me be removed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here there are no human beings whatsoever, nor shape-shifting rākṣasas (kāmarūpiṇaḥ) [who could harm you]; O Sītā, let the fear that has arisen in you on my account depart!
+Here there are no human beings whatsoever, nor shape-shifting rākṣasas (_kāmarūpiṇaḥ_) [who could harm you]; O Sītā, let the fear that has arisen in you on my account depart!
 </details>
 </details>
 
@@ -272,7 +272,7 @@ for ogres by all means. There is no doubt in this."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching others’ wives (parastrīṇām) or abducting them after overpowering [their protectors] by force (sampramathya) is assuredly always the innate law (svadharmaḥ) of rākṣasas, O timid lady—there is no doubt.
+Approaching others’ wives (_parastrīṇām_) or abducting them after overpowering [their protectors] by force (_sampramathya_) is assuredly always the innate law (_svadharmaḥ_) of rākṣasas, O timid lady—there is no doubt.
 </details>
 </details>
 
@@ -328,7 +328,7 @@ I will not touch you without lust."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even though this is so, O Maithilī, I shall not touch you while you are unwilling (akāmām); let Passion (kāmaḥ) operate freely according to its will (yathākāmam) within my body!
+Even though this is so, O Maithilī, I shall not touch you while you are unwilling (_akāmām_); let Passion (_kāmaḥ_) operate freely according to its will (_yathākāmam_) within my body!
 </details>
 </details>
 
@@ -388,7 +388,7 @@ with love. Do not become absorbed in sorrow like this."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O queen (devi), no fear should be entertained here; trust in me, O beloved! Show affectionate regard (praṇayasva) in truth, and do not be thus given over to grief (śokalālasā).
+O queen (_devi_), no fear should be entertained here; trust in me, O beloved! Show affectionate regard (_praṇayasva_) in truth, and do not be thus given over to grief (_śokalālasā_).
 </details>
 </details>
 
@@ -436,7 +436,7 @@ are not useful to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A single braid (ekaveṇī), a bed on the bare ground (adhaḥśayyā), brooding meditation, a soiled garment, and fasting out of season—these things are not fitting (aupayikāni) for you.
+A single braid (_ekaveṇī_), a bed on the bare ground (_adhaḥśayyā_), brooding meditation, a soiled garment, and fasting out of season—these things are not fitting (_aupayikāni_) for you.
 </details>
 </details>
 
@@ -501,9 +501,9 @@ and best ornaments, the best drinks, beds and seats, song and dance and musical 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** [Accept] wondrous garlands, sandalwood pastes and aloeswoods (agurūṇi), manifold garments, and celestial ornaments (ābharaṇāni),
+**9:** [Accept] wondrous garlands, sandalwood pastes and aloeswoods (_agurūṇi_), manifold garments, and celestial ornaments (_ābharaṇāni_),
 
-**10:** and priceless drinks, couches, and seats; having attained me, O Maithilī, enjoy song, dance (nṛtyam), and instrumental music (vādyam)!
+**10:** and priceless drinks, couches, and seats; having attained me, O Maithilī, enjoy song, dance (_nṛtyam_), and instrumental music (_vādyam_)!
 </details>
 </details>
 
@@ -552,7 +552,7 @@ body! Getting me how will you become unsuited for luxuries?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You are a jewel among women (strīratnam); do not be thus! Place ornaments upon your limbs; having attained me, O lady of lovely form (suvigrahe), how indeed could you remain unadorned (anarhā)?
+You are a jewel among women (_strīratnam_); do not be thus! Place ornaments upon your limbs; having attained me, O lady of lovely form (_suvigrahe_), how indeed could you remain unadorned (_anarhā_)?
 </details>
 </details>
 
@@ -607,7 +607,7 @@ not come back again like the flow of water."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this charming youth (yauvanam) that has blossomed in you is passing away (ativartate), which, once gone, never returns, like the current of rushing rivers (srotasvinām).
+For this charming youth (_yauvanam_) that has blossomed in you is passing away (_ativartate_), which, once gone, never returns, like the current of rushing rivers (_srotasvinām_).
 </details>
 </details>
 
@@ -671,7 +671,7 @@ has made you and stopped - I think thus. There is not another who is equal to yo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I think that after fashioning you, the Creator of all (viśvakṛt), the maker of beauty (rūpakartā), ceased [from creation]; for there is no other comparison to your beauty, O lady of auspicious aspect (śubhadarśane)!
+I think that after fashioning you, the Creator of all (_viśvakṛt_), the maker of beauty (_rūpakartā_), ceased [from creation]; for there is no other comparison to your beauty, O lady of auspicious aspect (_śubhadarśane_)!
 </details>
 </details>
 
@@ -725,7 +725,7 @@ will disregard (leave) you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having encountered you, O Vaidehī, radiant with beauty and youth (rūpayauvanaśālinīm), who indeed would not be overcome—even the Grandsire Brahmā (pitāmahaḥ) in person?
+Having encountered you, O Vaidehī, radiant with beauty and youth (_rūpayauvanaśālinīm_), who indeed would not be overcome—even the Grandsire Brahmā (_pitāmahaḥ_) in person?
 </details>
 </details>
 
@@ -778,7 +778,7 @@ getting tied in that that limb."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever limb of yours I behold, O lady whose face resembles the cool-rayed moon (śītāṃśusadṛśānane), upon that very limb, O broad-hipped lady (pṛthuśroṇi), my eye becomes riveted (nibadhyate).
+Whatever limb of yours I behold, O lady whose face resembles the cool-rayed moon (_śītāṃśusadṛśānane_), upon that very limb, O broad-hipped lady (_pṛthuśroṇi_), my eye becomes riveted (_nibadhyate_).
 </details>
 </details>
 
@@ -835,7 +835,7 @@ there, become foremost consort. Let there be auspicious to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Become my wife, O Maithilī! Cast aside this delusion (moham); become the chief queen (agramahiṣī) over my many peerless women!
+Become my wife, O Maithilī! Cast aside this delusion (_moham_); become the chief queen (_agramahiṣī_) over my many peerless women!
 </details>
 </details>
 
@@ -891,7 +891,7 @@ myself belong to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever jewels I have carried off from the worlds after crushing [my foes] (sampramathya)—all those, O timid one, and my kingdom too I bestow upon you!
+Whatever jewels I have carried off from the worlds after crushing [my foes] (_sampramathya_)—all those, O timid one, and my kingdom too I bestow upon you!
 </details>
 </details>
 
@@ -936,7 +936,7 @@ I can give to king Janaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having conquered the entire earth garlanded with manifold cities (nānānagaramālinīm), I shall bestow it upon Janaka for your sake, O graceful lady (vilāsini)!
+Having conquered the entire earth garlanded with manifold cities (_nānānagaramālinīm_), I shall bestow it upon Janaka for your sake, O graceful lady (_vilāsini_)!
 </details>
 </details>
 
@@ -988,7 +988,7 @@ Boasting that neither gods nor asuras can withstand him in battle, Rāvaṇa urg
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I see no other in this world who could match my strength (pratibalaḥ); behold my supreme valour, unrivalled (apratidvandvam) in battle!
+I see no other in this world who could match my strength (_pratibalaḥ_); behold my supreme valour, unrivalled (_apratidvandvam_) in battle!
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ an army against me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Repeatedly shattered by me in battle with their banners crushed (vimṛditadhvajāḥ), gods and asuras (surāsurāḥ) are unable to stand in opposing ranks (pratyanīkeṣu) against me.
+Repeatedly shattered by me in battle with their banners crushed (_vimṛditadhvajāḥ_), gods and asuras (_surāsurāḥ_) are unable to stand in opposing ranks (_pratyanīkeṣu_) against me.
 </details>
 </details>
 
@@ -1063,7 +1063,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desire me! Let your supreme toilet (pratikarma) be performed today, and let resplendent ornaments (bhūṣaṇāni) be fastened upon your limbs!
+Desire me! Let your supreme toilet (_pratikarma_) be performed today, and let resplendent ornaments (_bhūṣaṇāni_) be fastened upon your limbs!
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-May I rightly behold your beauty well-endowed with adornment (pratikarmaṇā); graced with adornment, O lovely-faced lady (varānane), [look upon me] with complaisance (dākṣiṇyena)!
+May I rightly behold your beauty well-endowed with adornment (_pratikarmaṇā_); graced with adornment, O lovely-faced lady (_varānane_), [look upon me] with complaisance (_dākṣiṇyena_)!
 </details>
 </details>
 
@@ -1216,7 +1216,7 @@ Fearlessly order also."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Revel (lalasva) in me with full confidence, and command me boldly (dhṛṣṭam); and as you revel through my grace (matprasādāt), let your kinsmen revel too!
+Revel (_lalasva_) in me with full confidence, and command me boldly (_dhṛṣṭam_); and as you revel through my grace (_matprasādāt_), let your kinsmen revel too!
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ wealth and my fame."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold my opulence (ṛddhim) and royal splendour (śriyam), O auspicious, illustrious lady! What will you do with Rāma, O fortunate one, who wears bark-cloth (cīravāsinā)?
+Behold my opulence (_ṛddhim_) and royal splendour (_śriyam_), O auspicious, illustrious lady! What will you do with Rāma, O fortunate one, who wears bark-cloth (_cīravāsinā_)?
 </details>
 </details>
 
@@ -1333,7 +1333,7 @@ fortune. Roaming in forests, observing austerities and also sleeping on floor, I
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma has abandoned all hope of victory (nikṣiptavijayaḥ), is bereft of fortune (gataśrīḥ), wanders in the forest, observes ascetic vows, and sleeps on the bare ground (sthaṇḍilaśāyī)—I doubt whether he lives or not!
+Rāma has abandoned all hope of victory (_nikṣiptavijayaḥ_), is bereft of fortune (_gataśrīḥ_), wanders in the forest, observes ascetic vows, and sleeps on the bare ground (_sthaṇḍilaśāyī_)—I doubt whether he lives or not!
 </details>
 </details>
 
@@ -1389,7 +1389,7 @@ clous with cranes at the front."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor indeed, O Vaidehī, will Rāma even be able to catch sight of you, shrouded as you are like moonlight (jyotsnām) by dark clouds preceded by rows of cranes (purobalākaiḥ).
+Nor indeed, O Vaidehī, will Rāma even be able to catch sight of you, shrouded as you are like moonlight (_jyotsnām_) by dark clouds preceded by rows of cranes (_purobalākaiḥ_).
 </details>
 </details>
 
@@ -1433,7 +1433,7 @@ Nor indeed, O Vaidehī, will Rāma even be able to catch sight of you, shrouded 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor is Rāghava capable of recovering you from my hand, as Hiraṇyakaśipu [recovered] Kīrti when she had fallen into Indra’s hand (indrahastagatām)!
+Nor is Rāghava capable of recovering you from my hand, as Hiraṇyakaśipu [recovered] Kīrti when she had fallen into Indra’s hand (_indrahastagatām_)!
 </details>
 </details>
 
@@ -1486,7 +1486,7 @@ one! O timid one! You are stealing my heart like a serpent stolen by Garuda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O lady of charming smile, charming teeth, and charming eyes, O graceful, timid one! You snatch away my heart just as Suparṇa [Garuda] snatches away a serpent (pannagam).
+O lady of charming smile, charming teeth, and charming eyes, O graceful, timid one! You snatch away my heart just as Suparṇa [Garuda] snatches away a serpent (_pannagam_).
 </details>
 </details>
 
@@ -1532,7 +1532,7 @@ seeing you I am not getting happiness in my wives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding you, slender and unadorned though clad in a rumpled silk garment (kliṣṭakauśeyavasanām), I find no delight (ratim) among my own wives (sveṣu dāreṣu).
+Beholding you, slender and unadorned though clad in a rumpled silk garment (_kliṣṭakauśeyavasanām_), I find no delight (_ratim_) among my own wives (_sveṣu dāreṣu_).
 </details>
 </details>
 
@@ -1592,7 +1592,7 @@ of them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As many women endowed with every excellence as dwell in my inner apartments (antaḥpuranivāsinyaḥ)—exercise sovereignty (aiśvaryam) over them all, O Jānakī!
+As many women endowed with every excellence as dwell in my inner apartments (_antaḥpuranivāsinyaḥ_)—exercise sovereignty (_aiśvaryam_) over them all, O Jānakī!
 </details>
 </details>
 
@@ -1640,7 +1640,7 @@ serve you like the goddess of wealth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O lady with locks of dark-glossy hair (asitakeśānte), my women are the foremost in the three worlds (trailokyapravarastriyaḥ); they shall wait upon you just as the Apsarases wait upon Śrī!
+O lady with locks of dark-glossy hair (_asitakeśānte_), my women are the foremost in the three worlds (_trailokyapravarastriyaḥ_); they shall wait upon you just as the Apsarases wait upon Śrī!
 </details>
 </details>
 
@@ -1696,7 +1696,7 @@ gems and wealth belonging to Kubera, all those three worlds and me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever jewels and riches belonged to Vaiśravaṇa [Kubera], O fair-browed lady (subhru)—enjoy those and the worlds at your ease (yathāsukham) along with me, O fair-hipped one!
+Whatever jewels and riches belonged to Vaiśravaṇa [Kubera], O fair-browed lady (_subhru_)—enjoy those and the worlds at your ease (_yathāsukham_) along with me, O fair-hipped one!
 </details>
 </details>
 
@@ -1751,7 +1751,7 @@ equal by wealth, by brilliance and by fame."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither in asceticism, O queen, nor in strength, nor in heroic strides (vikramaiḥ), nor in wealth is Rāma equal to me, nor even in fiery energy (tejasā) or renown!
+Neither in asceticism, O queen, nor in strength, nor in heroic strides (_vikramaiḥ_), nor in wealth is Rāma equal to me, nor even in fiery energy (_tejasā_) or renown!
 </details>
 </details>
 
@@ -1811,7 +1811,7 @@ Sport according to comfort in me. Your relatives may sport together in you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drink, roam, sport, and enjoy pleasures! I bestow upon you a store of wealth (dhananicayam) and the earth; revel in me at your ease, O lovely woman (lalane), and let your kinsmen, coming together, revel in you!
+Drink, roam, sport, and enjoy pleasures! I bestow upon you a store of wealth (_dhananicayam_) and the earth; revel in me at your ease, O lovely woman (_lalane_), and let your kinsmen, coming together, revel in you!
 </details>
 </details>
 
@@ -1877,6 +1877,6 @@ at sea shore filled with groups of flowered trees and with humble bees."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With your limbs adorned with necklaces of spotless gold (kanakavimalahārabhūṣitāṅgī), roam with me, O timid one, through the seaside groves (samudratīrajāni kānanāni) overspread with networks of blossoming trees and humming with bees!
+With your limbs adorned with necklaces of spotless gold (_kanakavimalahārabhūṣitāṅgī_), roam with me, O timid one, through the seaside groves (_samudratīrajāni kānanāni_) overspread with networks of blossoming trees and humming with bees!
 </details>
 </details>

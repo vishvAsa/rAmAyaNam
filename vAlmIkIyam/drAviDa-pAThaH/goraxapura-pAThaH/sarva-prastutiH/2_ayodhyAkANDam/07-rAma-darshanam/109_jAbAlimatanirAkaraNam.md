@@ -83,7 +83,7 @@ with a great devotion and with an undisturbed mind of his own (as follows);
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Jābāli, Rāma, foremost of souls devoted to truth (jābāles tu vacaḥ śrutvā rāmaḥ satyātmanāṃ varaḥ), spoke with supreme reverence for dharma and with his own unclouded intellect (uvāca parayā bhaktyā sva-buddhyā cāvipannayā):
+Hearing the speech of Jābāli, Rāma, foremost of souls devoted to truth (_jābāles tu vacaḥ śrutvā rāmaḥ satyātmanāṃ varaḥ_), spoke with supreme reverence for dharma and with his own unclouded intellect (_uvāca parayā bhaktyā sva-buddhyā cāvipannayā_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ it appears to be possible. It is like a forbidden food, appearing to be an agree
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That word which you have spoken here out of a desire to do what is pleasing to me (bhavān me priya-kāmārthaṃ vacanaṃ yad ihoktavān) is an improper act wearing the semblance of a proper act, unwholesome yet seeming wholesome (akāryaṃ kārya-saṅkāśam apathyaṃ pathya-sammitam).
+“That word which you have spoken here out of a desire to do what is pleasing to me (_bhavān me priya-kāmārthaṃ vacanaṃ yad ihoktavān_) is an improper act wearing the semblance of a proper act, unwholesome yet seeming wholesome (_akāryaṃ kārya-saṅkāśam apathyaṃ pathya-sammitam_).
 </details>
 </details>
 
@@ -188,7 +188,7 @@ seeing differences in everything, does not gain respect from honest men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A man who transgresses moral bounds and is steeped in sinful conduct (nirmaryādas tu puruṣaḥ pāpācāra-samanvitaḥ), professing a doctrine of deviant behavior, gains no honor among the virtuous (mānaṃ na labhate satsu bhinna-cāritra-darśanaḥ).
+A man who transgresses moral bounds and is steeped in sinful conduct (_nirmaryādas tu puruṣaḥ pāpācāra-samanvitaḥ_), professing a doctrine of deviant behavior, gains no honor among the virtuous (_mānaṃ na labhate satsu bhinna-cāritra-darśanaḥ_).
 </details>
 </details>
 
@@ -241,7 +241,7 @@ valiant or arrogant and chaste or unchaste."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether a man is of noble birth or ignoble, a true hero or one who merely fancies himself a man (kulīnam akulīnaṃ vā vīraṃ puruṣa-māninam), pure or else impure—it is conduct alone that proclaims him (cāritram eva vyākhyāti śuciṃ vā yadi vāśucim).
+Whether a man is of noble birth or ignoble, a true hero or one who merely fancies himself a man (_kulīnam akulīnaṃ vā vīraṃ puruṣa-māninam_), pure or else impure—it is conduct alone that proclaims him (_cāritram eva vyākhyāti śuciṃ vā yadi vāśucim_).
 </details>
 </details>
 
@@ -272,7 +272,7 @@ Whether a man is of noble birth or ignoble, a true hero or one who merely fancie
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Otherwise an ignoble man wearing the guise of the noble, one devoid of purity yet appearing pure (anāryas tv ārya-saṅkāśaḥ śaucād dhīnas tathā śuciḥ), devoid of auspicious marks yet seeming endowed with them, and of evil character while seeming virtuous (lakṣaṇyavad alakṣaṇyo duḥśīlaḥ śīlavān iva)—
+Otherwise an ignoble man wearing the guise of the noble, one devoid of purity yet appearing pure (_anāryas tv ārya-saṅkāśaḥ śaucād dhīnas tathā śuciḥ_), devoid of auspicious marks yet seeming endowed with them, and of evil character while seeming virtuous (_lakṣaṇyavad alakṣaṇyo duḥśīlaḥ śīlavān iva_)—
 </details>
 </details>
 
@@ -340,9 +340,9 @@ creating confusion in the world and disregarding rules of conduct."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** If, abandoning what is auspicious, I were to embrace under the guise of dharma this unrighteousness that confounds the world (adharmaṃ dharma-veṣeṇa yadīmaṃ loka-saṅkaram abhipatsye śubhaṃ hitvā), bereft of Vedic rites and injunctions (kriyā-vidhi-vivarjitam)—
+**6:** If, abandoning what is auspicious, I were to embrace under the guise of dharma this unrighteousness that confounds the world (_adharmaṃ dharma-veṣeṇa yadīmaṃ loka-saṅkaram abhipatsye śubhaṃ hitvā_), bereft of Vedic rites and injunctions (_kriyā-vidhi-vivarjitam_)—
 
-**7:** —what discerning man in the world, skilled in distinguishing what ought to be done from what ought not to be done (kaś cetayānaḥ puruṣaḥ kāryākārya-vicakṣaṇaḥ), will hold me in high esteem—corrupt in conduct and a corrupter of the world (bahu-maṃsyati māṃ loke durvṛttaṃ loka-dūṣaṇam)?
+**7:** —what discerning man in the world, skilled in distinguishing what ought to be done from what ought not to be done (_kaś cetayānaḥ puruṣaḥ kāryākārya-vicakṣaṇaḥ_), will hold me in high esteem—corrupt in conduct and a corrupter of the world (_bahu-maṃsyati māṃ loke durvṛttaṃ loka-dūṣaṇam_)?
 </details>
 </details>
 
@@ -397,7 +397,7 @@ How would I attain heaven?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto whom could I impart righteous conduct, or by what means could I attain heaven (kasya dhāsyāmy ahaṃ vṛttaṃ kena vā svargam āpnuyām), if I were to live by this course in which my solemn pledge is broken (anayā vartamāno hi vṛttyā hīna-pratijñayā)?
+Unto whom could I impart righteous conduct, or by what means could I attain heaven (_kasya dhāsyāmy ahaṃ vṛttaṃ kena vā svargam āpnuyām_), if I were to live by this course in which my solemn pledge is broken (_anayā vartamāno hi vṛttyā hīna-pratijñayā_)?
 </details>
 </details>
 
@@ -452,7 +452,7 @@ kings may be, such will be the coduct of their subjects."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This entire world would then act according to mere whim (kāma-vṛttas tv ayaṃ lokaḥ kṛtsnaḥ samupavartate); for whatever the conduct of kings, such indeed is the conduct of their subjects (yad-vṛttāḥ santi rājānas tad-vṛttāḥ santi hi prajāḥ).
+This entire world would then act according to mere whim (_kāma-vṛttas tv ayaṃ lokaḥ kṛtsnaḥ samupavartate_); for whatever the conduct of kings, such indeed is the conduct of their subjects (_yad-vṛttāḥ santi rājānas tad-vṛttāḥ santi hi prajāḥ_).
 </details>
 </details>
 
@@ -505,7 +505,7 @@ the kingship has the Truth as its essence. The world is established in Truth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truth alone, together with compassion, is the eternal conduct of kings (satyam evānṛśaṃsañ ca rāja-vṛttaṃ sanātanam); therefore kingship has truth for its very essence, and upon truth the world is established (tasmāt satyātmakaṃ rājyaṃ satye lokaḥ pratiṣṭhitaḥ).
+Truth alone, together with compassion, is the eternal conduct of kings (_satyam evānṛśaṃsañ ca rāja-vṛttaṃ sanātanam_); therefore kingship has truth for its very essence, and upon truth the world is established (_tasmāt satyātmakaṃ rājyaṃ satye lokaḥ pratiṣṭhitaḥ_).
 </details>
 </details>
 
@@ -557,7 +557,7 @@ truth obtains the highest position in this world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both the sages and the gods have esteemed truth alone (ṛṣayaś caiva devāś ca satyam eva hi menire); for in this world the speaker of truth attains the supreme abode (satya-vādī hi loke ’smin paramaṃ gacchati kṣayam).
+Both the sages and the gods have esteemed truth alone (_ṛṣayaś caiva devāś ca satyam eva hi menire_); for in this world the speaker of truth attains the supreme abode (_satya-vādī hi loke ’smin paramaṃ gacchati kṣayam_).
 </details>
 </details>
 
@@ -610,7 +610,7 @@ highest virtue and is stated to be the origin of heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Men shrink in terror from a man who speaks falsehood just as they do from a serpent (udvijante yathā sarpān narād anṛta-vādinaḥ); truth is declared in the world to be the supreme dharma and the root of heaven (dharmaḥ satyaṃ paro loke mūlaṃ svargasya cocyate).
+Men shrink in terror from a man who speaks falsehood just as they do from a serpent (_udvijante yathā sarpān narād anṛta-vādinaḥ_); truth is declared in the world to be the supreme dharma and the root of heaven (_dharmaḥ satyaṃ paro loke mūlaṃ svargasya cocyate_).
 </details>
 </details>
 
@@ -671,7 +671,7 @@ higher than truth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truth alone is the Lord in the world; upon truth the goddess Lakṣmī ever abides (satyam eveśvaro loke satyaṃ padmā śritā sadā). All things have truth for their root; there is no state higher than truth (satya-mūlāni sarvāṇi satyān nāsti paraṃ padam).
+Truth alone is the Lord in the world; upon truth the goddess Lakṣmī ever abides (_satyam eveśvaro loke satyaṃ padmā śritā sadā_). All things have truth for their root; there is no state higher than truth (_satya-mūlāni sarvāṇi satyān nāsti paraṃ padam_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ foundation in Truth. Hence, one should thoroughly surrender to truth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gifts given, sacrifices offered, oblations poured, and austerities practiced (dattam iṣṭaṃ hutaṃ caiva taptāni ca tapāṃsi ca), as well as the Vedas, have truth for their foundation; therefore one should be wholly devoted to truth (vedāḥ satya-pratiṣṭhānās tasmāt satya-paro bhavet).
+Gifts given, sacrifices offered, oblations poured, and austerities practiced (_dattam iṣṭaṃ hutaṃ caiva taptāni ca tapāṃsi ca_), as well as the Vedas, have truth for their foundation; therefore one should be wholly devoted to truth (_vedāḥ satya-pratiṣṭhānās tasmāt satya-paro bhavet_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ to heaven (according to one's degree of truthfulness practiced)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One man rules the world, another rules only his family (ekaḥ pālayate lokam ekaḥ pālayate kulam); one man sinks into hell, while another is exalted in heaven (majjaty eko hi niraya ekaḥ svarge mahīyate).
+One man rules the world, another rules only his family (_ekaḥ pālayate lokam ekaḥ pālayate kulam_); one man sinks into hell, while another is exalted in heaven (_majjaty eko hi niraya ekaḥ svarge mahīyate_).
 </details>
 </details>
 
@@ -828,7 +828,7 @@ was a devotee of truth?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why then should I not fulfill the command of my father (so ’haṃ pitur niyogan tu kimarthaṃ nānupālaye), being true to my promise and bound by truth to a solemn covenant of truth (satya-pratiśravaḥ satyaṃ satyena samayīkṛtaḥ)?
+Why then should I not fulfill the command of my father (_so ’haṃ pitur niyogan tu kimarthaṃ nānupālaye_), being true to my promise and bound by truth to a solemn covenant of truth (_satya-pratiśravaḥ satyaṃ satyena samayīkṛtaḥ_)?
 </details>
 </details>
 
@@ -881,7 +881,7 @@ of morality. I shall honour the vow made to my father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither out of greed, nor out of delusion, nor indeed out of ignorance, overcast by darkness (naiva lobhān na mohād vā na hy ajñānāt tamo-nvitaḥ), will I break the dike of truth, being true to my promise to my father (setuṃ satyasya bhetsyāmi guroḥ satya-pratiśravaḥ).
+Neither out of greed, nor out of delusion, nor indeed out of ignorance, overcast by darkness (_naiva lobhān na mohād vā na hy ajñānāt tamo-nvitaḥ_), will I break the dike of truth, being true to my promise to my father (_setuṃ satyasya bhetsyāmi guroḥ satya-pratiśravaḥ_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ truth, unsteady and unstable in their minds. This is what is taught to us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither the gods nor the ancestors, so we have heard, accept the offerings (naiva devā na pitaraḥ pratīcchantīti naḥ śrutam) of a man who is false to his pledge, fickle, and unsteady of mind (asatya-sandhasya sataś calasyāsthira-cetasaḥ).
+Neither the gods nor the ancestors, so we have heard, accept the offerings (_naiva devā na pitaraḥ pratīcchantīti naḥ śrutam_) of a man who is false to his pledge, fickle, and unsteady of mind (_asatya-sandhasya sataś calasyāsthira-cetasaḥ_).
 </details>
 </details>
 
@@ -995,7 +995,7 @@ spirit. That is why, this burden, observed as a vow, has been honoured by good m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I myself behold this dharma of truth as intimately pertaining to the inner self (pratyag-ātmam imaṃ dharmaṃ satyaṃ paśyāmy ahaṃ svayam); for the sake of that truth, the burden practiced by good men is held dear (bhāraḥ sat-puruṣācīrṇas tad-artham abhimanyate).
+I myself behold this dharma of truth as intimately pertaining to the inner self (_pratyag-ātmam imaṃ dharmaṃ satyaṃ paśyāmy ahaṃ svayam_); for the sake of that truth, the burden practiced by good men is held dear (_bhāraḥ sat-puruṣācīrṇas tad-artham abhimanyate_).
 </details>
 </details>
 
@@ -1048,7 +1048,7 @@ justice, it is practised by petty cruel and covetous men of evil deeds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall renounce that Kṣatriya code which is in truth unrighteousness wearing the guise of dharma (kṣāttraṃ dharmam ahaṃ tyakṣye hy adharmaṃ dharma-saṃhitam), practiced by base, cruel, and greedy men of sinful deeds (kṣudrair nṛśaṃsair lubdhaiś ca sevitaṃ pāpa-karmabhiḥ).
+I shall renounce that Kṣatriya code which is in truth unrighteousness wearing the guise of dharma (_kṣāttraṃ dharmam ahaṃ tyakṣye hy adharmaṃ dharma-saṃhitam_), practiced by base, cruel, and greedy men of sinful deeds (_kṣudrair nṛśaṃsair lubdhaiś ca sevitaṃ pāpa-karmabhiḥ_).
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ tongue)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having first pondered it in the mind, one commits sin with the body (kāyena kurute pāpaṃ manasā sampradhārya ca) and speaks falsehood with the tongue: thus sinful action is threefold (anṛtaṃ jihvayā cāha trividhaṃ karma pātakam).
+Having first pondered it in the mind, one commits sin with the body (_kāyena kurute pāpaṃ manasā sampradhārya ca_) and speaks falsehood with the tongue: thus sinful action is threefold (_anṛtaṃ jihvayā cāha trividhaṃ karma pātakam_).
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ oblige the truth: truth should therefore be strictly observed!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Earth, fame, glory, and fortune seek out a truthful man (bhūmiḥ kīrtir yaśo lakṣmīḥ puruṣaṃ prārthayanti hi) and attend upon him even when he abides in heaven; therefore one should cleave to truth alone (svarga-sthaṃ cānupaśyanti satyam eva bhajeta tat).
+Earth, fame, glory, and fortune seek out a truthful man (_bhūmiḥ kīrtir yaśo lakṣmīḥ puruṣaṃ prārthayanti hi_) and attend upon him even when he abides in heaven; therefore one should cleave to truth alone (_svarga-sthaṃ cānupaśyanti satyam eva bhajeta tat_).
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ uttered to me, are really unworthy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That which you have judged to be best would in truth be utterly ignoble (śreṣṭhaṃ hy anāryam eva syād yad bhavān avadhārya mām), when with specious words you say to me, ‘Do this auspicious thing!’ (āha yukti-karair vākyair idaṃ bhadraṃ kuruṣva ha).
+That which you have judged to be best would in truth be utterly ignoble (_śreṣṭhaṃ hy anāryam eva syād yad bhavān avadhārya mām_), when with specious words you say to me, ‘Do this auspicious thing!’ (_āha yukti-karair vākyair idaṃ bhadraṃ kuruṣva ha_).
 </details>
 </details>
 
@@ -1260,7 +1260,7 @@ Bharata's words now, abandoning the father's words?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having promised my father this residence in the forest (kathaṃ hy ahaṃ pratijñāya vana-vāsam imaṃ gurau), how can I do the word of Bharata, casting aside the word of my father (bharatasya kariṣyāmi vaco hitvā guror vacaḥ)?
+Having promised my father this residence in the forest (_kathaṃ hy ahaṃ pratijñāya vana-vāsam imaṃ gurau_), how can I do the word of Bharata, casting aside the word of my father (_bharatasya kariṣyāmi vaco hitvā guror vacaḥ_)?
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ too became rejoiced."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A firm vow was pledged by me in the presence of my father (sthirā mayā pratijñātā pratijñā guru-sannidhau), and Queen Kaikeyī too rejoiced greatly at that time (prahṛṣyamāṇā sā devī kaikeyī cābhavat tadā).
+A firm vow was pledged by me in the presence of my father (_sthirā mayā pratijñātā pratijñā guru-sannidhau_), and Queen Kaikeyī too rejoiced greatly at that time (_prahṛṣyamāṇā sā devī kaikeyī cābhavat tadā_).
 </details>
 </details>
 
@@ -1354,7 +1354,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dwelling thus in the forest, pure and regulated in my diet (vana-vāsaṃ vasann evaṃ śucir niyata-bhojanaḥ), gratifying the ancestors and the gods with pure roots, flowers, and fruits (mūlaiḥ puṣpaiḥ phalaiḥ puṇyaiḥ pitṝn devāṃś ca tarpayan),
+Dwelling thus in the forest, pure and regulated in my diet (_vana-vāsaṃ vasann evaṃ śucir niyata-bhojanaḥ_), gratifying the ancestors and the gods with pure roots, flowers, and fruits (_mūlaiḥ puṣpaiḥ phalaiḥ puṇyaiḥ pitṝn devāṃś ca tarpayan_),
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ done."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with my five senses contented, I carry on my course of life (santuṣṭa-pañca-vargo ’haṃ loka-yātrāṃ pravartaye), free from guile, full of faith, and discerning what ought and ought not to be done (akuhaḥ śraddadhānas san kāryākārya-vicakṣaṇaḥ).
+with my five senses contented, I carry on my course of life (_santuṣṭa-pañca-vargo ’haṃ loka-yātrāṃ pravartaye_), free from guile, full of faith, and discerning what ought and ought not to be done (_akuhaḥ śraddadhānas san kāryākārya-vicakṣaṇaḥ_).
 </details>
 </details>
 
@@ -1468,7 +1468,7 @@ acts."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having attained this land of action, one must perform auspicious deeds (karma-bhūmim imāṃ prāpya kartavyaṃ karma yac chubham); for Agni, Vāyu, and Soma themselves are partakers of the fruits of actions (agnir vāyuś ca somaś ca karmaṇāṃ phala-bhāginaḥ).
+Having attained this land of action, one must perform auspicious deeds (_karma-bhūmim imāṃ prāpya kartavyaṃ karma yac chubham_); for Agni, Vāyu, and Soma themselves are partakers of the fruits of actions (_agnir vāyuś ca somaś ca karmaṇāṃ phala-bhāginaḥ_).
 </details>
 </details>
 
@@ -1521,7 +1521,7 @@ Having practised severe austerities, the great sages went to heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed a hundred sacrifices, the king of the gods went to the third heaven (śataṃ kratūnām āhṛtya deva-rāṭ tridivaṅ gataḥ); and having practiced fierce austerities, the great sages attained the celestial realm (tapāṃsy ugrāṇi cāsthāya divaṃ yātā maharṣayaḥ).”
+Having performed a hundred sacrifices, the king of the gods went to the third heaven (_śataṃ kratūnām āhṛtya deva-rāṭ tridivaṅ gataḥ_); and having practiced fierce austerities, the great sages attained the celestial realm (_tapāṃsy ugrāṇi cāsthāya divaṃ yātā maharṣayaḥ_).”
 </details>
 </details>
 
@@ -1588,7 +1588,7 @@ terrible energy, without tolerating his words, spoke in reproach to him (as foll
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unable to brook that reasoning of nihilistic speech which he had heard, the prince of fierce splendor spoke again to him, severely censuring his words (amṛṣyamāṇaḥ punar ugra-tejā niśamya tan nāstika-vākya-hetum athābravīt taṃ nṛpates tanūjo vigarhamāṇo vacanāni tasya):
+Unable to brook that reasoning of nihilistic speech which he had heard, the prince of fierce splendor spoke again to him, severely censuring his words (_amṛṣyamāṇaḥ punar ugra-tejā niśamya tan nāstika-vākya-hetum athābravīt taṃ nṛpates tanūjo vigarhamāṇo vacanāni tasya_):
 </details>
 </details>
 
@@ -1639,7 +1639,7 @@ speech and worship of Brahmanas, gods and unexpected guests are the paths to hea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truth, righteousness, strenuous austerity, compassion toward all creatures, kindly speech (satyaṃ ca dharmaṃ ca parākramaṃ ca bhūtānukampāṃ priya-vāditāñ ca), and the honoring of Brāhmaṇas, gods, and guests—these the virtuous declare to be the path to heaven (dvijāti-devātithi-pūjanaṃ ca panthānam āhus tridivasya santaḥ).
+“Truth, righteousness, strenuous austerity, compassion toward all creatures, kindly speech (_satyaṃ ca dharmaṃ ca parākramaṃ ca bhūtānukampāṃ priya-vāditāñ ca_), and the honoring of Brāhmaṇas, gods, and guests—these the virtuous declare to be the path to heaven (_dvijāti-devātithi-pūjanaṃ ca panthānam āhus tridivasya santaḥ_).
 </details>
 </details>
 
@@ -1700,7 +1700,7 @@ seeking to attain the highest realms."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore the wise Brāhmaṇas, rightly understanding this matter and recognizing that dharma has an unfailing fruit (tenaivam ājñāya yathāvad artham ekodayaṃ sampratipadya viprāḥ), vigilantly practice the entire dharma according to rule and aspire to the attainment of the higher worlds (dharmaṃ carantaḥ sakalaṃ yathāvat kāṅkṣanti lokāgamam apramattāḥ).
+Therefore the wise Brāhmaṇas, rightly understanding this matter and recognizing that dharma has an unfailing fruit (_tenaivam ājñāya yathāvad artham ekodayaṃ sampratipadya viprāḥ_), vigilantly practice the entire dharma according to rule and aspire to the attainment of the higher worlds (_dharmaṃ carantaḥ sakalaṃ yathāvat kāṅkṣanti lokāgamam apramattāḥ_).
 </details>
 </details>
 
@@ -1765,7 +1765,7 @@ misleading intelligence, a firm atheist fallen from the true path."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I censure that act done by my father in taking into his service you of perverse intellect (nindāmy ahaṃ karma pituḥ kṛtaṃ tad yas tvām agṛhṇād viṣama-stha-buddhim), who go about with such a mindset—an utter heretic fallen away from the path of dharma (buddhyānayaivaṃ-vidhayā carantaṃ sunāstikaṃ dharma-pathād apetam).
+I censure that act done by my father in taking into his service you of perverse intellect (_nindāmy ahaṃ karma pituḥ kṛtaṃ tad yas tvām agṛhṇād viṣama-stha-buddhim_), who go about with such a mindset—an utter heretic fallen away from the path of dharma (_buddhyānayaivaṃ-vidhayā carantaṃ sunāstikaṃ dharma-pathād apetam_).
 </details>
 </details>
 
@@ -1840,7 +1840,7 @@ understand truth/God.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For just as a thief is, even so is a Buddha; know that a Tathāgata here is a heretical nihilist (yathā hi coraḥ sa tathā hi buddhas tathāgataṃ nāstikam atra viddhi). Therefore a wise man should never turn his face toward a heretic, who is the most to be distrusted among all people (tasmād dhi yaḥ śaṅkyatamaḥ prajānāṃ na nāstikenābhimukho budhaḥ syāt).
+For just as a thief is, even so is a Buddha; know that a Tathāgata here is a heretical nihilist (_yathā hi coraḥ sa tathā hi buddhas tathāgataṃ nāstikam atra viddhi_). Therefore a wise man should never turn his face toward a heretic, who is the most to be distrusted among all people (_tasmād dhi yaḥ śaṅkyatamaḥ prajānāṃ na nāstikenābhimukho budhaḥ syāt_).
 </details>
 </details>
 
@@ -1914,7 +1914,7 @@ fire and practise noble deeds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Men more ancient and far nobler than you performed many auspicious deeds (tvatto janāḥ pūrvatare varāś ca śubhāni karmāṇi bahūni cakruḥ), winning forever both this world and the next; therefore Brāhmaṇas perform auspicious rites, fire-oblations, and pious works (jitvā sademaṃ ca parañ ca lokaṃ tasmād dvijāḥ svasti hutaṃ kṛtaṃ ca).
+Men more ancient and far nobler than you performed many auspicious deeds (_tvatto janāḥ pūrvatare varāś ca śubhāni karmāṇi bahūni cakruḥ_), winning forever both this world and the next; therefore Brāhmaṇas perform auspicious rites, fire-oblations, and pious works (_jitvā sademaṃ ca parañ ca lokaṃ tasmād dvijāḥ svasti hutaṃ kṛtaṃ ca_).
 </details>
 </details>
 
@@ -1975,7 +1975,7 @@ honoured into the world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devoted to dharma, associated with the virtuous, radiant with ascetic energy, preeminent in the virtue of liberality (dharme ratāḥ sat-puruṣaiḥ sametās tejasvino dāna-guṇa-pradhānāḥ), harmless toward all beings, and free from taint—such foremost sages are worthy of worship in the world (ahiṃsakā vīta-malāś ca loke bhavanti pūjyā munayaḥ pradhānāḥ).”
+Devoted to dharma, associated with the virtuous, radiant with ascetic energy, preeminent in the virtue of liberality (_dharme ratāḥ sat-puruṣaiḥ sametās tejasvino dāna-guṇa-pradhānāḥ_), harmless toward all beings, and free from taint—such foremost sages are worthy of worship in the world (_ahiṃsakā vīta-malāś ca loke bhavanti pūjyā munayaḥ pradhānāḥ_).”
 </details>
 </details>
 
@@ -2029,7 +2029,7 @@ truthful, which showed his belief in authority of Vedas, the other world and so 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto the high-souled Rāma of unfailing courage, who was speaking these words in wrath (iti bruvantaṃ vacanaṃ sa-roṣaṃ rāmaṃ mahātmānam adīna-sattvam), the Brāhmaṇa spoke again a word that was true, orthodox, sincere, and full of conciliation (uvāca tathyaṃ punar āstikaṃ ca satyaṃ vacaḥ sānunayaṃ ca vipraḥ):
+Unto the high-souled Rāma of unfailing courage, who was speaking these words in wrath (_iti bruvantaṃ vacanaṃ sa-roṣaṃ rāmaṃ mahātmānam adīna-sattvam_), the Brāhmaṇa spoke again a word that was true, orthodox, sincere, and full of conciliation (_uvāca tathyaṃ punar āstikaṃ ca satyaṃ vacaḥ sānunayaṃ ca vipraḥ_):
 </details>
 </details>
 
@@ -2082,7 +2082,7 @@ comes, I will become again just a non-believer."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not speak the doctrine of the nihilists, nor am I a nihilist, nor is it true that nothing exists hereafter (na nāstikānāṃ vacanaṃ bravīmy ahaṃ na nāstiko ’haṃ na ca nāsti kiñcana). Having regard to the occasion I became orthodox again, and when the occasion demands I would again speak as a nihilist (samīkṣya kālaṃ punar āstiko ’bhavaṃ bhaveya kāle punar eva nāstikaḥ).
+“I do not speak the doctrine of the nihilists, nor am I a nihilist, nor is it true that nothing exists hereafter (_na nāstikānāṃ vacanaṃ bravīmy ahaṃ na nāstiko ’haṃ na ca nāsti kiñcana_). Having regard to the occasion I became orthodox again, and when the occasion demands I would again speak as a nihilist (_samīkṣya kālaṃ punar āstiko ’bhavaṃ bhaveya kāle punar eva nāstikaḥ_).
 </details>
 </details>
 
@@ -2153,7 +2153,7 @@ spoken by me for your sake, to pacify you and to persuade you to return to Ayodh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And this very occasion gently presented itself, whereby nihilistic speech was uttered by me (sa cāpi kālo ’yam upāgataḥ śanair yathā mayā nāstika-vāg udīritā); for the sake of turning you back, O Rāma, and for the purpose of propitiating you for Bharata’s sake was this spoken by me (nivartanārthaṃ tava rāma kāraṇāt prasādanārthaṃ tu mayaitad īritam).”
+And this very occasion gently presented itself, whereby nihilistic speech was uttered by me (_sa cāpi kālo ’yam upāgataḥ śanair yathā mayā nāstika-vāg udīritā_); for the sake of turning you back, O Rāma, and for the purpose of propitiating you for Bharata’s sake was this spoken by me (_nivartanārthaṃ tava rāma kāraṇāt prasādanārthaṃ tu mayaitad īritam_).”
 </details>
 </details>
 

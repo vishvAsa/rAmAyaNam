@@ -89,7 +89,7 @@ Sugreeva from his palace chambers. [4-15-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then within the inner apartments (antaḥpuragataḥ), unforgiving Vālī (vālī amarṣaṇaḥ) heard that roar (ninādam tam śuśrāva) of his great-souled brother Sugrīva (tasya sugrīvasya mahātmanaḥ bhrātuḥ).
+Then within the inner apartments (_antaḥpuragataḥ_), unforgiving Vālī (_vālī amarṣaṇaḥ_) heard that roar (_ninādam tam śuśrāva_) of his great-souled brother Sugrīva (_tasya sugrīvasya mahātmanaḥ bhrātuḥ_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ diminished as high furore superimposed on it. [4-15-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having heard his roar that caused all creatures to tremble (sarvabhūtaprakampanam), his pride vanished in a single instant (madaś caikapade naṣṭaḥ) and mighty wrath took hold of him (krodhaś cāpādito mahān).
+And having heard his roar that caused all creatures to tremble (_sarvabhūtaprakampanam_), his pride vanished in a single instant (_madaś caikapade naṣṭaḥ_) and mighty wrath took hold of him (_krodhaś cāpādito mahān_).
 </details>
 </details>
 
@@ -193,7 +193,7 @@ immediately rendered non-luminous like the eclipsed sun. [4-15-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Vālī, who shone like gold (sa kanakaprabhaḥ), had his limbs suffused with rage (roṣaparītāṅgaḥ) and at once lost his natural radiance (sadyo niṣprabhatām gataḥ), like the sun when eclipsed (uparakta ivādityaḥ).
+Then that Vālī, who shone like gold (_sa kanakaprabhaḥ_), had his limbs suffused with rage (_roṣaparītāṅgaḥ_) and at once lost his natural radiance (_sadyo niṣprabhatām gataḥ_), like the sun when eclipsed (_uparakta ivādityaḥ_).
 </details>
 </details>
 
@@ -251,7 +251,7 @@ turning reddish due to the elephant's heaving of the slushy red-mud. Maheshvara 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fierce with bared fangs (daṃṣṭrākarālas tu) and with eyes blazing like fire in wrath (krodhād dīptāgnilocanaḥ), Vālī looked like a lake with bare lotus-stalks (samṛṇāla iva hradaḥ) from which the beauty of its lotuses has vanished (utpatitapadmābhaḥ).
+Fierce with bared fangs (_daṃṣṭrākarālas tu_) and with eyes blazing like fire in wrath (_krodhād dīptāgnilocanaḥ_), Vālī looked like a lake with bare lotus-stalks (_samṛṇāla iva hradaḥ_) from which the beauty of its lotuses has vanished (_utpatitapadmābhaḥ_).
 </details>
 </details>
 
@@ -303,7 +303,7 @@ chambers thumping his feet as though to shatter the earth. [4-15-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that insufferable roar (śabdam durmarṣaṇam śrutvā), the Vānara rushed forth from there (niṣpapāta tato hariḥ), as though cleaving the earth (dārayann iva medinīm) with his impetuous footsteps (vegena ca padanyāsaiḥ).
+Having heard that insufferable roar (_śabdam durmarṣaṇam śrutvā_), the Vānara rushed forth from there (_niṣpapāta tato hariḥ_), as though cleaving the earth (_dārayann iva medinīm_) with his impetuous footsteps (_vegena ca padanyāsaiḥ_).
 </details>
 </details>
 
@@ -356,7 +356,7 @@ fear and bewilderment, and said this word that is beneficial in its futurity if 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Showing her deep affection (darśitasauhṛdā), Tārā embraced him out of love (tam tu tārā pariṣvajya snehāt) and, frightened and agitated (trastasambhrāntā), spoke this word that was salutary in its future outcome (hitodarkam idam vacaḥ):
+Showing her deep affection (_darśitasauhṛdā_), Tārā embraced him out of love (_tam tu tārā pariṣvajya snehāt_) and, frightened and agitated (_trastasambhrāntā_), spoke this word that was salutary in its future outcome (_hitodarkam idam vacaḥ_):
 </details>
 </details>
 
@@ -420,7 +420,7 @@ gushing river as is done with an enjoyed chaplet on getting up from bed in early
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O hero, cast aside completely (sādhu tyaja) this wrath (krodham imam) that has surged upon you like the current of a river (nadīvegam ivāgatam), just as one who has risen from his bed at dawn (śayanād utthitaḥ kālyam) casts aside a garland worn overnight (bhuktām iva srajam)!
+“O hero, cast aside completely (_sādhu tyaja_) this wrath (_krodham imam_) that has surged upon you like the current of a river (_nadīvegam ivāgatam_), just as one who has risen from his bed at dawn (_śayanād utthitaḥ kālyam_) casts aside a garland worn overnight (_bhuktām iva srajam_)!
 </details>
 </details>
 
@@ -502,9 +502,9 @@ be listened as I tell. [4-15-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “Tomorrow morning (kālyam) you shall wage battle with him (etena saṃgrāmam kariṣyasi), O Vānara! O hero, there is neither any multiplicity of foes (śatrubāhulyam) nor any pettiness in you (phalgutā vā na vidyate).
+**8:** “Tomorrow morning (_kālyam_) you shall wage battle with him (_etena saṃgrāmam kariṣyasi_), O Vānara! O hero, there is neither any multiplicity of foes (_śatrubāhulyam_) nor any pettiness in you (_phalgutā vā na vidyate_).
 
-**9:** “Your hasty sallying forth (sahasā tava niṣkrāmaḥ) does not please me at all (mama tāvan na rocate); hear (śrūyatām), I shall tell you (abhidhāsyāmi) the reason for which you are held back (yannimittam nivāryate)!
+**9:** “Your hasty sallying forth (_sahasā tava niṣkrāmaḥ_) does not please me at all (_mama tāvan na rocate_); hear (_śrūyatām_), I shall tell you (_abhidhāsyāmi_) the reason for which you are held back (_yannimittam nivāryate_)!
 </details>
 </details>
 
@@ -557,7 +557,7 @@ gone out and rendered him as a nonentity, and being battered by you he fled in a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Previously, having rushed here in wrath (pūrvam āpatitaḥ krodhāt), he challenged you in battle (sa tvām āhvayate yudhi); and when you sallied forth (niṣpatya ca), he was routed by you (nirastas te), battered with blows (hanyamānaḥ), and fled to the quarters (diśo gataḥ).
+“Previously, having rushed here in wrath (_pūrvam āpatitaḥ krodhāt_), he challenged you in battle (_sa tvām āhvayate yudhi_); and when you sallied forth (_niṣpatya ca_), he was routed by you (_nirastas te_), battered with blows (_hanyamānaḥ_), and fled to the quarters (_diśo gataḥ_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ here again and inviting you for a duel is causing a doubt in me. [4-15-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That he who was thus routed and especially tormented by you (tvayā tasya nirastasya pīḍitasya viśeṣataḥ) has come here and issued a challenge once more (ihaitya punar āhvānam) surely arouses apprehension in me (śaṅkām janayatīva me)!
+“That he who was thus routed and especially tormented by you (_tvayā tasya nirastasya pīḍitasya viśeṣataḥ_) has come here and issued a challenge once more (_ihaitya punar āhvānam_) surely arouses apprehension in me (_śaṅkām janayatīva me_)!
 </details>
 </details>
 
@@ -661,7 +661,7 @@ these will not have a trivial reason, isn't it. [4-15-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such as are his pride and his resolve (darpaś ca vyavasāyaś ca yādṛśaḥ) as he roars (tasya nardataḥ), and the vehemence of his battle-cry (ninādasya ca saṃrambhaḥ)—surely this is no trifling cause (naitad alpam hi kāraṇam)!
+“Such as are his pride and his resolve (_darpaś ca vyavasāyaś ca yādṛśaḥ_) as he roars (_tasya nardataḥ_), and the vehemence of his battle-cry (_ninādasya ca saṃrambhaḥ_)—surely this is no trifling cause (_naitad alpam hi kāraṇam_)!
 </details>
 </details>
 
@@ -721,7 +721,7 @@ dependant must be an unflinching support foregathered by Sugreeva. [4-15-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not deem that Sugrīva has come here without an ally (nāsahāyam aham manye sugrīvam tam ihāgatam); and he has secured a firm ally (avaṣṭabdhasahāyaś ca), relying upon whom he roars thus (yam āśrityaiṣa garjati).
+“I do not deem that Sugrīva has come here without an ally (_nāsahāyam aham manye sugrīvam tam ihāgatam_); and he has secured a firm ally (_avaṣṭabdhasahāyaś ca_), relying upon whom he roars thus (_yam āśrityaiṣa garjati_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ into friendship with anyone without examining his mettle. [4-15-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By nature clever and endowed with intelligence (prakṛtyā nipuṇaś caiva buddhimāṃś caiva) is that Vānara; Sugrīva would never enter into friendship (na sakhyam eṣyati) with one whose valor has not been tested (aparīkṣitavīryeṇa)!
+“By nature clever and endowed with intelligence (_prakṛtyā nipuṇaś caiva buddhimāṃś caiva_) is that Vānara; Sugrīva would never enter into friendship (_na sakhyam eṣyati_) with one whose valor has not been tested (_aparīkṣitavīryeṇa_)!
 </details>
 </details>
 
@@ -831,7 +831,7 @@ now relate that helpful word to you. [4-15-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Previously indeed, O hero (pūrvam eva mayā vīra), I heard the words spoken (śrutam kathayato vacaḥ) by Prince Aṅgada (aṅgadasya kumārasya); today I shall tell you that salutary word (vakṣyāmy adya hitam vacaḥ).
+“Previously indeed, O hero (_pūrvam eva mayā vīra_), I heard the words spoken (_śrutam kathayato vacaḥ_) by Prince Aṅgada (_aṅgadasya kumārasya_); today I shall tell you that salutary word (_vakṣyāmy adya hitam vacaḥ_).
 </details>
 </details>
 
@@ -882,7 +882,7 @@ said to have reported this. [4-15-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Prince Aṅgada had gone out to the border of the forest (vanāntam upanirgataḥ); the intelligence report (pravṛttiḥ) that had been communicated by spies (cārair āsīn niveditā) was recounted by him (tena kathitā):
+“This Prince Aṅgada had gone out to the border of the forest (_vanāntam upanirgataḥ_); the intelligence report (_pravṛttiḥ_) that had been communicated by spies (_cārair āsīn niveditā_) was recounted by him (_tena kathitā_):
 </details>
 </details>
 
@@ -942,7 +942,7 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The two heroic sons of the lord of Ayodhyā (ayodhyādhipateḥ putrau śūrau), invincible in battle (samaradurjayau), born in the lineage of the Ikṣvākus (ikṣvākūṇām kule jātau), the renowned Rāma and Lakṣmaṇa (prathitau rāmalakṣmaṇau)—
+“The two heroic sons of the lord of Ayodhyā (_ayodhyādhipateḥ putrau śūrau_), invincible in battle (_samaradurjayau_), born in the lineage of the Ikṣvākus (_ikṣvākūṇām kule jātau_), the renowned Rāma and Lakṣmaṇa (_prathitau rāmalakṣmaṇau_)—
 </details>
 </details>
 
@@ -971,7 +971,7 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—those two unassailable heroes (durāsadau) have arrived there to fulfill Sugrīva's cherished wish (sugrīvapriyakāmārtham prāptau tatra); and he [Rāma] is your brother's renowned ally in the work of battle (sa te bhrātur hi vikhyātaḥ sahāyo raṇakarmaṇi)!
+“—those two unassailable heroes (_durāsadau_) have arrived there to fulfill Sugrīva&#x27;s cherished wish (_sugrīvapriyakāmārtham prāptau tatra_); and he [Rāma] is your brother&#x27;s renowned ally in the work of battle (_sa te bhrātur hi vikhyātaḥ sahāyo raṇakarmaṇi_)!
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ woebegone, a hospice for the agonised, and for grace Rama is the only abode. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāma is the crusher of enemy hosts (parabalāmardī), risen like the fire at the end of a world-age (yugāntāgnir ivotthitaḥ); he is the sheltering tree of the righteous (nivāsavṛkṣaḥ sādhūnām) and the supreme refuge of the helpless (āpannānām parā gatiḥ)—
+“Rāma is the crusher of enemy hosts (_parabalāmardī_), risen like the fire at the end of a world-age (_yugāntāgnir ivotthitaḥ_); he is the sheltering tree of the righteous (_nivāsavṛkṣaḥ sādhūnām_) and the supreme refuge of the helpless (_āpannānām parā gatiḥ_)—
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ the greatest mine of merits. [4-15-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the sanctuary of the distressed (ārtānām saṃśrayaś caiva) and the sole repository of glory (yaśasaś caikabhājanam), richly endowed with higher knowledge and practical wisdom (jñānavijñānasampannaḥ), and ever devoted to his father's command (nideśe nirataḥ pituḥ)—
+“—the sanctuary of the distressed (_ārtānām saṃśrayaś caiva_) and the sole repository of glory (_yaśasaś caikabhājanam_), richly endowed with higher knowledge and practical wisdom (_jñānavijñānasampannaḥ_), and ever devoted to his father&#x27;s command (_nideśe nirataḥ pituḥ_)—
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ the pursuit to establish dharma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—a vast mine of virtues (guṇānām ākaro mahān), like the lord of mountains [Himavān] teeming with minerals (dhātūnām iva śailendraḥ)! Therefore hostility on your part (virodhas te) is not fitting (tat kṣamo na) with that great-souled one (saha tena mahātmanā)—
+“—a vast mine of virtues (_guṇānām ākaro mahān_), like the lord of mountains [Himavān] teeming with minerals (_dhātūnām iva śailendraḥ_)! Therefore hostility on your part (_virodhas te_) is not fitting (_tat kṣamo na_) with that great-souled one (_saha tena mahātmanā_)—
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ him, and what I say is beneficial to you that may now be listened and even imple
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—with Rāma, who is invincible and immeasurable in the deeds of battle (durjayenāprameyeṇa rāmeṇa raṇakarmasu)! O hero, I shall tell you something (śūra vakṣyāmi te kiṃcit), and I do not wish you to take offense at it (na cecchāmy abhyasūyitum).
+“—with Rāma, who is invincible and immeasurable in the deeds of battle (_durjayenāprameyeṇa rāmeṇa raṇakarmasu_)! O hero, I shall tell you something (_śūra vakṣyāmi te kiṃcit_), and I do not wish you to take offense at it (_na cecchāmy abhyasūyitum_).
 </details>
 </details>
 
@@ -1326,7 +1326,7 @@ resolute one, let there be no hostility to your own younger brother. [4-15-23b, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let what I shall speak for your welfare (tava vakṣyāmi yad hitam) be heard and acted upon (śrūyatām kriyatām caiva): swiftly and nobly consecrate Sugrīva in the office of crown prince (yauvarājyena sugrīvam tūrṇam sādhv abhiṣecaya)!
+“Let what I shall speak for your welfare (_tava vakṣyāmi yad hitam_) be heard and acted upon (_śrūyatām kriyatām caiva_): swiftly and nobly consecrate Sugrīva in the office of crown prince (_yauvarājyena sugrīvam tūrṇam sādhv abhiṣecaya_)!
 </details>
 </details>
 
@@ -1386,7 +1386,7 @@ effect is appropriate for you, thus I deem. [4-15-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not wage war (vigraham mā kṛthāḥ), O hero, O king, with your younger brother (bhrātrā rājan yavīyasā)! For I deem friendship with that Rāma (tena rāmeṇa sauhṛdam) to be advantageous for you (aham hi te kṣamam manye)—
+“Do not wage war (_vigraham mā kṛthāḥ_), O hero, O king, with your younger brother (_bhrātrā rājan yavīyasā_)! For I deem friendship with that Rāma (_tena rāmeṇa sauhṛdam_) to be advantageous for you (_aham hi te kṣamam manye_)—
 </details>
 </details>
 
@@ -1434,9 +1434,9 @@ and whether he is here or there in Rishyamuka he is just your brother. [4-15-25b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “—and affectionate concord with Sugrīva (sugrīveṇa ca samprītim), casting enmity far aside (vairam utsṛjya dūrataḥ)! For this Vānara, your younger brother (bhrātā yavīyān eṣa vānaraḥ), ought to be cherished by you (lālanīyo hi te).
+**25:** “—and affectionate concord with Sugrīva (_sugrīveṇa ca samprītim_), casting enmity far aside (_vairam utsṛjya dūrataḥ_)! For this Vānara, your younger brother (_bhrātā yavīyān eṣa vānaraḥ_), ought to be cherished by you (_lālanīyo hi te_).
 
-**26:** “Whether dwelling afar there [on Ṛṣyamūka] or standing right here [in Kiṣkindhā] (tatra vā sann ihastho vā), he is in every way your kinsman (sarvathā bandhur eva te); for I do not behold any kinsman on earth equal to him (nahi tena samam bandhum bhuvi paśyāmi kaṃcana).
+**26:** “Whether dwelling afar there [on Ṛṣyamūka] or standing right here [in Kiṣkindhā] (_tatra vā sann ihastho vā_), he is in every way your kinsman (_sarvathā bandhur eva te_); for I do not behold any kinsman on earth equal to him (_nahi tena samam bandhum bhuvi paśyāmi kaṃcana_).
 </details>
 </details>
 
@@ -1488,7 +1488,7 @@ at your side. [4-15-26b, 27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By honors such as gifts and marks of respect (dānamānādisatkāraiḥ), make him your intimate next-in-rank (kuruṣva pratyanantaram); having cast aside this enmity (vairam etat samutsṛjya), let him stand at your side (tava pārśve sa tiṣṭhatu)!
+“By honors such as gifts and marks of respect (_dānamānādisatkāraiḥ_), make him your intimate next-in-rank (_kuruṣva pratyanantaram_); having cast aside this enmity (_vairam etat samutsṛjya_), let him stand at your side (_tava pārśve sa tiṣṭhatu_)!
 </details>
 </details>
 
@@ -1550,7 +1550,7 @@ and hence brace yourself with the fondness of brotherhood, as there is no other 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Broad-necked Sugrīva (sugrīvo vipulagrīvaḥ) is esteemed as your great kinsman (mahābandhur matas tava); apart from embracing fraternal affection (bhrātṛsauhṛdam ālambya), there is no other refuge for you here (nānyā gatir ihāsti te).
+“Broad-necked Sugrīva (_sugrīvo vipulagrīvaḥ_) is esteemed as your great kinsman (_mahābandhur matas tava_); apart from embracing fraternal affection (_bhrātṛsauhṛdam ālambya_), there is no other refuge for you here (_nānyā gatir ihāsti te_).
 </details>
 </details>
 
@@ -1606,7 +1606,7 @@ one, I beg of you in our loving attachment that my gentle word of advise be done
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you wish to do what is dear to me (yadi te matpriyam kāryam), and if you recognize me as wishing your welfare (yadi cāvaiṣi mām hitām), then as I implore you out of love (yācyamānaḥ priyatvena), pray heed my words (sādhu vākyam kuruṣva me)!
+“If you wish to do what is dear to me (_yadi te matpriyam kāryam_), and if you recognize me as wishing your welfare (_yadi cāvaiṣi mām hitām_), then as I implore you out of love (_yācyamānaḥ priyatvena_), pray heed my words (_sādhu vākyam kuruṣva me_)!
 </details>
 </details>
 
@@ -1672,7 +1672,7 @@ Vali. [4-15-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be gracious and hear my salutary speech (prasīda pathyam śṛṇu jalpitam hi me); you ought not to follow the impulse of wrath alone (na roṣam evānuvidhātum arhasi)! For hostility on your part (vigrahas te) with the son of the king of Kosala (kośalarājasūnunā), who equals Śakra [Indra] in splendor (śakrasamānatejasā), is not fitting (kṣamo hi na)!”
+“Be gracious and hear my salutary speech (_prasīda pathyam śṛṇu jalpitam hi me_); you ought not to follow the impulse of wrath alone (_na roṣam evānuvidhātum arhasi_)! For hostility on your part (_vigrahas te_) with the son of the king of Kosala (_kośalarājasūnunā_), who equals Śakra [Indra] in splendor (_śakrasamānatejasā_), is not fitting (_kṣamo hi na_)!”
 </details>
 </details>
 
@@ -1742,7 +1742,7 @@ for he is impounded by fatality and driven by time to his doom. [4-15-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then indeed Tārā spoke to that Vālī (tadā hi tārā tam vālinam babhāṣe) this beneficial and salutary speech (hitam eva vākyam pathyam idam); yet at the hour of his destruction (vināśakāle), that speech did not please him (na rocate tad vacanam hi tasya), overtaken as he was by Death (kālābhipannasya).
+Then indeed Tārā spoke to that Vālī (_tadā hi tārā tam vālinam babhāṣe_) this beneficial and salutary speech (_hitam eva vākyam pathyam idam_); yet at the hour of his destruction (_vināśakāle_), that speech did not please him (_na rocate tad vacanam hi tasya_), overtaken as he was by Death (_kālābhipannasya_).
 </details>
 </details>
 

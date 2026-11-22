@@ -86,7 +86,7 @@ night was passing away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the night had passed away (rātryāṃ vyatītāyām), the delight of the Raghus gently awakened Lakṣmaṇa (prabodhayām āsa śanair lakṣmaṇam), who had fallen asleep immediately after him (avasuptam anantaram):
+Then, when the night had passed away (_rātryāṃ vyatītāyām_), the delight of the Raghus gently awakened Lakṣmaṇa (_prabodhayām āsa śanair lakṣmaṇam_), who had fallen asleep immediately after him (_avasuptam anantaram_):
 </details>
 </details>
 
@@ -132,7 +132,7 @@ for our journey. Let us start."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Saumitri, hear the sweet warbling of the woodland birds (vanyānāṃ valgu vyāharatāṃ svanam); let us set forth now (sampratiṣṭhāmahe), O scorcher of foes, for the hour of departure has arrived (kālaḥ prasthānasya).”
+“O Saumitri, hear the sweet warbling of the woodland birds (_vanyānāṃ valgu vyāharatāṃ svanam_); let us set forth now (_sampratiṣṭhāmahe_), O scorcher of foes, for the hour of departure has arrived (_kālaḥ prasthānasya_).”
 </details>
 </details>
 
@@ -185,7 +185,7 @@ had relinquished sleep, sloth and strain which resulted on the way.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Awakened at the proper hour by his brother (samaye bhrātrā pratibodhitaḥ), that sleeping Lakṣmaṇa shook off sleep, drowsiness, and the clinging fatigue of the road (jahau nidrāṃ ca tandrīṃ ca prasaktaṃ ca pathi śramam).
+Awakened at the proper hour by his brother (_samaye bhrātrā pratibodhitaḥ_), that sleeping Lakṣmaṇa shook off sleep, drowsiness, and the clinging fatigue of the road (_jahau nidrāṃ ca tandrīṃ ca prasaktaṃ ca pathi śramam_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Bharadwaja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising up then and touching in ablution the auspicious water of the river (spṛṣṭvā nadyāḥ śivaṃ jalam), all of them set forth along that path to Citrakūṭa pointed out by the sage (panthānam ṛṣiṇādiṣṭam).
+Rising up then and touching in ablution the auspicious water of the river (_spṛṣṭvā nadyāḥ śivaṃ jalam_), all of them set forth along that path to Citrakūṭa pointed out by the sage (_panthānam ṛṣiṇādiṣṭam_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ eyes looked like lotus leaves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Setting out at the timely hour together with Saumitri (samprasthitaḥ kāle saumitriṇā saha), Rāma then spoke these words to lotus-petal-eyed Sītā (sītāṃ kamala-patrākṣīm):
+Setting out at the timely hour together with Saumitri (_samprasthitaḥ kāle saumitriṇā saha_), Rāma then spoke these words to lotus-petal-eyed Sītā (_sītāṃ kamala-patrākṣīm_):
 </details>
 </details>
 
@@ -351,7 +351,7 @@ as if they are blazing up, in this winter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold on every side, O Vaidehī, at the close of winter (śiśirātyaye), the flowering trees looking as though ablaze (ādīptān iva puṣpitān nagān)—the kiṃśuka trees garlanded with their own crimson blossoms (svaiḥ puṣpaiḥ kiṃśukān mālinaḥ)!
+“Behold on every side, O Vaidehī, at the close of winter (_śiśirātyaye_), the flowering trees looking as though ablaze (_ādīptān iva puṣpitān nagān_)—the _kiṃśuka_ trees garlanded with their own crimson blossoms (_svaiḥ puṣpaiḥ kiṃśukān mālinaḥ_)!
 </details>
 </details>
 
@@ -411,7 +411,7 @@ with fruits and leaves, all unplucked by men. We can certainly live here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold the blossoming bhallātaka trees (bhallātakān phullān), untouched by men (narair anupasevitān) and bowed down with fruits and leaves (phala-patrair avanatān); surely we shall be able to sustain our lives here (nūnaṃ śakṣyāma jīvitum)!
+“Behold the blossoming _bhallātaka_ trees (_bhallātakān phullān_), untouched by men (_narair anupasevitān_) and bowed down with fruits and leaves (_phala-patrair avanatān_); surely we shall be able to sustain our lives here (_nūnaṃ śakṣyāma jīvitum_)!
 </details>
 </details>
 
@@ -457,7 +457,7 @@ water-trough, gathered by honey-bees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Lakṣmaṇa, hanging on every tree (lambamānāni nage nage), the honeycombs measuring a full droṇa in volume (droṇa-pramāṇāni madhūni), gathered by the honeybees (madhu-kārībhiḥ sambhṛtāni)!
+“Behold, O Lakṣmaṇa, hanging on every tree (_lambamānāni nage nage_), the honeycombs measuring a full _droṇa_ in volume (_droṇa-pramāṇāni madhūni_), gathered by the honeybees (_madhu-kārībhiḥ sambhṛtāni_)!
 </details>
 </details>
 
@@ -509,7 +509,7 @@ bird is crying and a peacock is responding to it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here cries the natyūha gallinule (eṣa krośati natyūhaḥ), and the crested peacock answers its call (taṃ śikhī pratikūjati) in this delightful woodland tract thick with carpets of fallen blossoms (puṣpa-saṃstara-saṅkaṭe).
+“Here cries the _natyūha_ gallinule (_eṣa krośati natyūhaḥ_), and the crested peacock answers its call (_taṃ śikhī pratikūjati_) in this delightful woodland tract thick with carpets of fallen blossoms (_puṣpa-saṃstara-saṅkaṭe_).
 </details>
 </details>
 
@@ -560,7 +560,7 @@ multitude of elephants and made to resound by a congregation of birds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold this Mount Citrakūṭa of lofty peaks (pravṛddha-śikharaṃ girim), frequented by herds of elephants (mātaṅga-yūthānusṛtam) and made resonant by flocks of birds (pakṣi-saṅghānunāditam)!
+“Behold this Mount Citrakūṭa of lofty peaks (_pravṛddha-śikharaṃ girim_), frequented by herds of elephants (_mātaṅga-yūthānusṛtam_) and made resonant by flocks of birds (_pakṣi-saṅghānunāditam_)!
 </details>
 </details>
 
@@ -606,7 +606,7 @@ beautifully extensive with many trees and is pure."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this sacred and delightful forest of Citrakūṭa, with its level ground (sama-bhūmi-tale ramye) and its canopy of many trees, we shall take delight (raṃsyāmahe), my dear brother.”
+“In this sacred and delightful forest of Citrakūṭa, with its level ground (_sama-bhūmi-tale ramye_) and its canopy of many trees, we shall take delight (_raṃsyāmahe_), my dear brother.”
 </details>
 </details>
 
@@ -658,7 +658,7 @@ mountain of Chitrakuta, which was pleasant and lovely.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, walking on foot together with Sītā (pāda-cāreṇa gacchantau saha sītayā), those two reached the delightful and charming mountain Citrakūṭa (śailaṃ citrakūṭaṃ manoramam).
+Then, walking on foot together with Sītā (_pāda-cāreṇa gacchantau saha sītayā_), those two reached the delightful and charming mountain Citrakūṭa (_śailaṃ citrakūṭaṃ manoramam_).
 </details>
 </details>
 
@@ -718,7 +718,7 @@ lovely and rich in streaming water, Rama said to Lakshmana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached that mountain teeming with flocks of varied birds (nānā-pakṣi-gaṇāyutam), delightful with abundant roots and fruits (bahu-mūla-phalaṃ ramyam), and richly endowed with sweet waters (sampannaṃ sarasodakam)—
+Having reached that mountain teeming with flocks of varied birds (_nānā-pakṣi-gaṇāyutam_), delightful with abundant roots and fruits (_bahu-mūla-phalaṃ ramyam_), and richly endowed with sweet waters (_sampannaṃ sarasodakam_)—
 </details>
 </details>
 
@@ -772,7 +772,7 @@ kinds of roots and fruits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Charming is this mountain, O gentle brother, covered with varied trees and creepers (nānā-druma-latāyutaḥ); abounding in roots and fruits and delightful, it appears to me to offer an easy livelihood (svājīvaḥ pratibhāti me).
+“Charming is this mountain, O gentle brother, covered with varied trees and creepers (_nānā-druma-latāyutaḥ_); abounding in roots and fruits and delightful, it appears to me to offer an easy livelihood (_svājīvaḥ pratibhāti me_).
 </details>
 </details>
 
@@ -824,7 +824,7 @@ become the dwelling. Let us have a pleasant resort here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And high-souled sages dwell upon this mountain (vasanty asmiñ śiloccaye); let this be our abode then, O gentle one, and let us dwell happily here (atra saumya ramemahi).”
+“And high-souled sages dwell upon this mountain (_vasanty asmiñ śiloccaye_); let this be our abode then, O gentle one, and let us dwell happily here (_atra saumya ramemahi_).”
 </details>
 </details>
 
@@ -871,7 +871,7 @@ hermitage and offered salutation to the sage Valmiki.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, Sītā, Rāma, and Lakṣmaṇa, with joined palms (kṛtāñjaliḥ), all approached the hermitage and bowed in salutation to Vālmīki (vālmīkim abhivādayan).
+Speaking thus, Sītā, Rāma, and Lakṣmaṇa, with joined palms (_kṛtāñjaliḥ_), all approached the hermitage and bowed in salutation to Vālmīki (_vālmīkim abhivādayan_).
 </details>
 </details>
 
@@ -923,7 +923,7 @@ honour, offered cordial welcome and requested them to sit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the law of righteousness, the great sage rejoiced and honored them (tān maharṣiḥ pramuditaḥ pūjayām āsa); offering them a cordial welcome (svāgataṃ tu nivedya ca), he said, “Pray be seated (āsyatām iti covāca).”
+Knowing the law of righteousness, the great sage rejoiced and honored them (_tān maharṣiḥ pramuditaḥ pūjayām āsa_); offering them a cordial welcome (_svāgataṃ tu nivedya ca_), he said, “Pray be seated (_āsyatām iti covāca_).”
 </details>
 </details>
 
@@ -978,7 +978,7 @@ ascetic all that concerned them and spoke to Lakshmana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having duly announced himself and his purpose to the sage (sannivedya yathā-nyāyam ātmānam ṛṣaye), the mighty-armed lord, the elder brother of Lakṣmaṇa, spoke to Lakṣmaṇa:
+Then, having duly announced himself and his purpose to the sage (_sannivedya yathā-nyāyam ātmānam ṛṣaye_), the mighty-armed lord, the elder brother of Lakṣmaṇa, spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ dwelling. My mind is fascinated in dwelling here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lakṣmaṇa, bring sturdy and choice timber (dārūṇi dṛḍhāni ca varāṇi ca), and construct a dwelling, O gentle brother (kuruṣvāvasathaṃ saumya); for my heart is set upon dwelling here (vāse me ’bhirataṃ manaḥ).”
+“O Lakṣmaṇa, bring sturdy and choice timber (_dārūṇi dṛḍhāni ca varāṇi ca_), and construct a dwelling, O gentle brother (_kuruṣvāvasathaṃ saumya_); for my heart is set upon dwelling here (_vāse me ’bhirataṃ manaḥ_).”
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ he the annihilator of enemies, constructed a leaf-hut.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, Saumitri, the subduer of foes, brought varied trees (saumitrir vividhān drumān ājahāra) and then constructed a leaf-hut (tataś cakre parṇa-śālām).
+Hearing that speech of his, Saumitri, the subduer of foes, brought varied trees (_saumitrir vividhān drumān ājahāra_) and then constructed a leaf-hut (_tataś cakre parṇa-śālām_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ attentive to him:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that comely leaf-hut firmly completed and fitted with woven mats (tāṃ niṣṭhitāṃ baddha-kaṭāṃ sudarśanām), Rāma spoke these words to Lakṣmaṇa, who stood attentive and eager to serve (śuśrūṣamāṇam ekāgram):
+Beholding that comely leaf-hut firmly completed and fitted with woven mats (_tāṃ niṣṭhitāṃ baddha-kaṭāṃ sudarśanām_), Rāma spoke these words to Lakṣmaṇa, who stood attentive and eager to serve (_śuśrūṣamāṇam ekāgram_):
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ ceremony while entering the house. Which is to be done by those who wish to live
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bringing the flesh of the blackbuck antelope (aiṇeyaṃ māṃsam āhṛtya), we shall offer sacrifice to consecrate the dwelling (śālāṃ yakṣyāmahe vayam); for those who wish to live long (cira-jīvibhiḥ), O Saumitri, must perform the pacification rite of a new dwelling (kartavyaṃ vāstu-śamanam).
+“Bringing the flesh of the blackbuck antelope (_aiṇeyaṃ māṃsam āhṛtya_), we shall offer sacrifice to consecrate the dwelling (_śālāṃ yakṣyāmahe vayam_); for those who wish to live long (_cira-jīvibhiḥ_), O Saumitri, must perform the pacification rite of a new dwelling (_kartavyaṃ vāstu-śamanam_).
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ sacred obligation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slaying an antelope, bring it quickly here (mṛgaṃ hatvānaya kṣipram), O auspicious-eyed Lakṣmaṇa; for the rite prescribed in the scriptures (śāstra-dṛṣṭo hi vidhiḥ) must be performed—bear in mind the sacred law (dharmam anusmara)!”
+“Slaying an antelope, bring it quickly here (_mṛgaṃ hatvānaya kṣipram_), O auspicious-eyed Lakṣmaṇa; for the rite prescribed in the scriptures (_śāstra-dṛṣṭo hi vidhiḥ_) must be performed—bear in mind the sacred law (_dharmam anusmara_)!”
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ instructed. Rama spoke again to Lakshmana as follows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Understanding his brother’s words, Lakṣmaṇa, the slayer of hostile heroes (para-vīra-hā), did just as he was told (cakāra sa yathoktam); and Rāma spoke to him once again:
+Understanding his brother’s words, Lakṣmaṇa, the slayer of hostile heroes (_para-vīra-hā_), did just as he was told (_cakāra sa yathoktam_); and Rāma spoke to him once again:
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ day and this instant also are of a distinctive character. Be quick."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Roast this blackbuck venison (aiṇeyaṃ śrapayasvaitat), for we shall offer sacrifice to consecrate the leaf-hut (śālāṃ yakṣyāmahe vayam); make haste, O gentle brother (tvara saumya), for both this muhūrta and this day are of fixed, auspicious nature (dhruvaś ca divaso ’py ayam)!”
+“Roast this blackbuck venison (_aiṇeyaṃ śrapayasvaitat_), for we shall offer sacrifice to consecrate the leaf-hut (_śālāṃ yakṣyāmahe vayam_); make haste, O gentle brother (_tvara saumya_), for both this _muhūrta_ and this day are of fixed, auspicious nature (_dhruvaś ca divaso ’py ayam_)!”
 </details>
 </details>
 
@@ -1434,7 +1434,7 @@ tossed it in an ignited fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that mighty Lakṣmaṇa, the son of Sumitrā, having slain a pure blackbuck antelope (kṛṣṇa-mṛgaṃ medhyaṃ hatvā), cast it upon the blazing fire (cikṣepa samiddhe jāta-vedasi).
+Then that mighty Lakṣmaṇa, the son of Sumitrā, having slain a pure blackbuck antelope (_kṛṣṇa-mṛgaṃ medhyaṃ hatvā_), cast it upon the blazing fire (_cikṣepa samiddhe jāta-vedasi_).
 </details>
 </details>
 
@@ -1489,7 +1489,7 @@ Lakshmana spoke to Rama the lion among man as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that it was thoroughly cooked, heated through, and drained of blood (pakvaṃ parijñāya niṣṭaptaṃ chinna-śoṇitam), Lakṣmaṇa then spoke to Rāghava, that tiger among men:
+Perceiving that it was thoroughly cooked, heated through, and drained of blood (_pakvaṃ parijñāya niṣṭaptaṃ chinna-śoṇitam_), Lakṣmaṇa then spoke to Rāghava, that tiger among men:
 </details>
 </details>
 
@@ -1545,7 +1545,7 @@ Rama resembling God! Worship the concerned deity, as you are skilled in that act
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This dark blackbuck antelope, complete in all its limbs, has been duly cooked (ayaṃ kṛṣṇaḥ samāptāṅgaḥ śṛtaḥ kṛṣṇa-mṛgo yathā); O godlike prince, worship the presiding deity (devatāṃ deva-saṅkāśa yajasva), for you are skilled in the ritual!”
+“This dark blackbuck antelope, complete in all its limbs, has been duly cooked (_ayaṃ kṛṣṇaḥ samāptāṅgaḥ śṛtaḥ kṛṣṇa-mṛgo yathā_); O godlike prince, worship the presiding deity (_devatāṃ deva-saṅkāśa yajasva_), for you are skilled in the ritual!”
 </details>
 </details>
 
@@ -1599,7 +1599,7 @@ of a purifactory ceremony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bathed in self-control, the virtuous Rāma, skilled in mantra recitation (rāmaḥ snātvā tu niyato guṇavān japya-kovidaḥ), concisely performed all the mantras and rites that bring a sacrifice to completion (saṅgraheṇākarot sarvān mantrān satrāvasānikān).
+Having bathed in self-control, the virtuous Rāma, skilled in mantra recitation (_rāmaḥ snātvā tu niyato guṇavān japya-kovidaḥ_), concisely performed all the mantras and rites that bring a sacrifice to completion (_saṅgraheṇākarot sarvān mantrān satrāvasānikān_).
 </details>
 </details>
 
@@ -1654,7 +1654,7 @@ house. There was a heartful joy in rama, with his limitless splendour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having worshipped all the hosts of deities (iṣṭvā deva-gaṇān sarvān), he entered the dwelling purified (viveśāvasathaṃ śuciḥ); and joy of heart arose within Rāma of boundless splendor (babhūva ca manohlādo rāmasyāmita-tejasaḥ).
+Having worshipped all the hosts of deities (_iṣṭvā deva-gaṇān sarvān_), he entered the dwelling purified (_viveśāvasathaṃ śuciḥ_); and joy of heart arose within Rāma of boundless splendor (_babhūva ca manohlādo rāmasyāmita-tejasaḥ_).
 </details>
 </details>
 
@@ -1685,7 +1685,7 @@ Having worshipped all the hosts of deities (iṣṭvā deva-gaṇān sarvān), h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered the Vaiśvadeva oblation as well as the Raudra and Vaiṣṇava offerings (vaiśvadeva-baliṃ kṛtvā raudraṃ vaiṣṇavam eva ca), and setting in motion the auspicious rites that pacify a dwelling (vāstu-saṃśamanīyāni maṅgalāni pravartayan)—
+Having offered the _Vaiśvadeva_ oblation as well as the _Raudra_ and _Vaiṣṇava_ offerings (_vaiśvadeva-baliṃ kṛtvā raudraṃ vaiṣṇavam eva ca_), and setting in motion the auspicious rites that pacify a dwelling (_vāstu-saṃśamanīyāni maṅgalāni pravartayan_)—
 </details>
 </details>
 
@@ -1743,7 +1743,7 @@ gods especially the god of fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly performed silent recitation of mantras and bathed in the river according to rule (japaṃ ca nyāyataḥ kṛtvā snātvā nadyāṃ yathā-vidhi), Rāma offered the excellent bali oblation that quells all sin and affliction (pāpa-saṃśamanaṃ cakāra balim uttamam).
+Having duly performed silent recitation of mantras and bathed in the river according to rule (_japaṃ ca nyāyataḥ kṛtvā snātvā nadyāṃ yathā-vidhi_), Rāma offered the excellent _bali_ oblation that quells all sin and affliction (_pāpa-saṃśamanaṃ cakāra balim uttamam_).
 </details>
 </details>
 
@@ -1791,7 +1791,7 @@ and others)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava established altar-grounds, sacred caitya pavilions, and deity shrines (vedi-sthala-vidhānāni caityāny āyatanāni ca) suited to the hermitage (āśramasyānurūpāṇi).
+Rāghava established altar-grounds, sacred _caitya_ pavilions, and deity shrines (_vedi-sthala-vidhānāni caityāny āyatanāni ca_) suited to the hermitage (_āśramasyānurūpāṇi_).
 </details>
 </details>
 
@@ -1826,7 +1826,7 @@ Rāghava established altar-grounds, sacred caitya pavilions, and deity shrines (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With woodland garlands, fruits, roots, and cooked meats according to rule (vanyair mālyaiḥ phalair mūlaiḥ pakvair māṃsair yathā-vidhi), with waters and Vedic mantra recitations, and with darbha grass, sacrificial fuel, and kuśa blades (darbhaiś ca sasamit-kuśaiḥ)—
+With woodland garlands, fruits, roots, and cooked meats according to rule (_vanyair mālyaiḥ phalair mūlaiḥ pakvair māṃsair yathā-vidhi_), with waters and Vedic mantra recitations, and with _darbha_ grass, sacrificial fuel, and _kuśa_ blades (_darbhaiś ca sasamit-kuśaiḥ_)—
 </details>
 </details>
 
@@ -1902,6 +1902,6 @@ entered the auspicious leaf-hut.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having propitiated all beings with those offerings (tau tarpayitvā bhūtāni), those two auspicious-marked Rāghavas, together with Sītā (rāghavau saha sītayā), then entered the most auspicious dwelling (viviśatuḥ śālāṃ suśubhām).
+Having propitiated all beings with those offerings (_tau tarpayitvā bhūtāni_), those two auspicious-marked Rāghavas, together with Sītā (_rāghavau saha sītayā_), then entered the most auspicious dwelling (_viviśatuḥ śālāṃ suśubhām_).
 </details>
 </details>

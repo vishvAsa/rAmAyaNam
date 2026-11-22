@@ -48,7 +48,7 @@ After Meghanāda vanquishes mighty Indra, the gods march to Laṅkā behind Brah
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When mighty Mahendra had been vanquished (jite mahendre ’tibale) by Rāvaṇa’s son (rāvaṇasya sutena vai), the gods, placing Prajāpati at their head (prajāpatiṃ puraskṛtya), repaired then to Laṅkā (yayur laṅkāṃ surās tadā).
+When mighty Mahendra had been vanquished (_jite mahendre ’tibale_) by Rāvaṇa’s son (_rāvaṇasya sutena vai_), the gods, placing Prajāpati at their head (_prajāpatiṃ puraskṛtya_), repaired then to Laṅkā (_yayur laṅkāṃ surās tadā_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ When mighty Mahendra had been vanquished (jite mahendre ’tibale) by Rāvaṇa�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his sons and brothers (putra-bhrātṛbhir āvṛtam), Prajāpati, stationed in the sky (gagane tiṣṭhan), addressed him with conciliatory words (abravīt ... sāmapūrvam):
+Having approached Rāvaṇa there (_tatra rāvaṇam āsādya_), surrounded by his sons and brothers (_putra-bhrātṛbhir āvṛtam_), Prajāpati, stationed in the sky (_gagane tiṣṭhan_), addressed him with conciliatory words (_abravīt ... sāmapūrvam_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Dear child Rāvaṇa (vatsa rāvaṇa), I am pleased with your son in battle (tuṣṭo ’smi putrasya tava saṃyuge)! Oh, the grandeur of his valor (aho ’sya vikramaudāryam)—he is equal to you, or even greater (tava tulyo ’dhiko ’pi vā)!
+“Dear child Rāvaṇa (_vatsa rāvaṇa_), I am pleased with your son in battle (_tuṣṭo ’smi putrasya tava saṃyuge_)! Oh, the grandeur of his valor (_aho ’sya vikramaudāryam_)—he is equal to you, or even greater (_tava tulyo ’dhiko ’pi vā_)!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, by your own fiery might (svena tejasā) the entire triple world has been conquered by you (jitaṃ hi bhavatā sarvaṃ trailokyam); your vow has been brought to fruition (kṛtā pratijñā saphalā), and I am delighted with your own son (prīto ’smi svasutena vai).
+“Indeed, by your own fiery might (_svena tejasā_) the entire triple world has been conquered by you (_jitaṃ hi bhavatā sarvaṃ trailokyam_); your vow has been brought to fruition (_kṛtā pratijñā saphalā_), and I am delighted with your own son (_prīto ’smi svasutena vai_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this exceedingly strong, valorous son of yours (putro ’tibalastava ... vīryavān), O Rāvaṇa, shall become famous throughout the world by the very name Indrajit (jagatīndrajid ityeva parikhyāto bhaviṣyati)!
+“And this exceedingly strong, valorous son of yours (_putro ’tibalastava ... vīryavān_), O Rāvaṇa, shall become famous throughout the world by the very name Indrajit (_jagatīndrajid ityeva parikhyāto bhaviṣyati_)!
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mighty and invincible shall this rākṣasa surely be (balavān durjayaś caiva bhaviṣyaty eva rākṣasaḥ), relying upon whom, O King (yaṃ samāśritya te rājan), the thirty gods have been brought under your sway (sthāpitās tridaśā vaśe).
+“Mighty and invincible shall this rākṣasa surely be (_balavān durjayaś caiva bhaviṣyaty eva rākṣasaḥ_), relying upon whom, O King (_yaṃ samāśritya te rājan_), the thirty gods have been brought under your sway (_sthāpitās tridaśā vaśe_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ When Brahmā asks for Indra’s release and offers a boon in return, Indrajit de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O mighty-armed one (mahābāho), let Mahendra, the chastiser of Pāka (mahendraḥ pākaśāsanaḥ), be released (tan mucyatām)! And for his liberation (asya mokṣaṇārthāya), what shall the denizens of heaven bestow (kiñ cāsya mokṣaṇārthāya prayacchantu divaukasaḥ)?”
+“Therefore, O mighty-armed one (_mahābāho_), let Mahendra, the chastiser of Pāka (_mahendraḥ pākaśāsanaḥ_), be released (_tan mucyatām_)! And for his liberation (_asya mokṣaṇārthāya_), what shall the denizens of heaven bestow (_kiñ cāsya mokṣaṇārthāya prayacchantu divaukasaḥ_)?”
 </details>
 </details>
 
@@ -273,7 +273,7 @@ When Brahmā asks for Indra’s release and offers a boon in return, Indrajit de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Indrajit of mighty radiance (mahātejā indrajit), conqueror in battle assemblies (samitiñjayaḥ), replied: “O Lord (deva), I choose immortality (amaratvam ahaṃ ... vṛṇe) if this one is to be released (yady eṣa mucyate)!
+Thereupon Indrajit of mighty radiance (_mahātejā indrajit_), conqueror in battle assemblies (_samitiñjayaḥ_), replied: “O Lord (_deva_), I choose immortality (_amaratvam ahaṃ ... vṛṇe_) if this one is to be released (_yady eṣa mucyate_)!
 </details>
 </details>
 
@@ -310,7 +310,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Among quadrupeds, sky-farers, or other creatures of mighty vigor (catuṣpadāṃ khecarāṇām anyeṣāṃ vā mahaujasām), and among trees, shrubs, bushes, creepers, grasses, stones, and mountains (vṛkṣa-gulma-kṣupa-latā-tṛṇopala-mahībhṛtām)—
+“Among quadrupeds, sky-farers, or other creatures of mighty vigor (_catuṣpadāṃ khecarāṇām anyeṣāṃ vā mahaujasām_), and among trees, shrubs, bushes, creepers, grasses, stones, and mountains (_vṛkṣa-gulma-kṣupa-latā-tṛṇopala-mahībhṛtām_)—
 </details>
 </details>
 
@@ -341,7 +341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All living beings whatsoever fear one another whenever there is cause for fear (sarve ’pi jantavo ’nyonyaṃ bhetavye sati bibhyati); therefore in this world there is fear for all from all (ato ’tra loke sarveṣāṃ sarvasmāc ca bhaved bhayam).”
+“All living beings whatsoever fear one another whenever there is cause for fear (_sarve ’pi jantavo ’nyonyaṃ bhetavye sati bibhyati_); therefore in this world there is fear for all from all (_ato ’tra loke sarveṣāṃ sarvasmāc ca bhaved bhayam_).”
 </details>
 </details>
 
@@ -392,11 +392,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Then Prajāpati of great splendor (mahātejā ... prajāpatiḥ) spoke to Meghanāda (abravīn ... meghanādam): “Indeed, there is no absolute immortality (nāsti sarvāmaratvaṃ hi) for any living creature upon this earth (kasyacit prāṇino bhuvi)—
+**11:** Then Prajāpati of great splendor (_mahātejā ... prajāpatiḥ_) spoke to Meghanāda (_abravīn ... meghanādam_): “Indeed, there is no absolute immortality (_nāsti sarvāmaratvaṃ hi_) for any living creature upon this earth (_kasyacit prāṇino bhuvi_)—
 
-**12:** “—whether quadrupeds, birds, or other beings of great vigor (catuṣpadaḥ pakṣiṇaś ca bhūtānāṃ vā mahaujasām).” Having heard that imperishable utterance spoken by the sovereign Grandfather (śrutvā pitāmahenoktam ... prabhuṇāvyayam), Indrajit—
+**12:** “—whether quadrupeds, birds, or other beings of great vigor (_catuṣpadaḥ pakṣiṇaś ca bhūtānāṃ vā mahaujasām_).” Having heard that imperishable utterance spoken by the sovereign Grandfather (_śrutvā pitāmahenoktam ... prabhuṇāvyayam_), Indrajit—
 
-**13:** Then Meghanāda of mighty strength (meghanādo mahābalaḥ) spoke to him standing there (tatrastham): “Or else, let that fulfillment be heard (śrūyatāṃ vā bhavet siddhiḥ) in exchange for Śatakratu’s release (śatakratu-vimokṣaṇe):
+**13:** Then Meghanāda of mighty strength (_meghanādo mahābalaḥ_) spoke to him standing there (_tatrastham_): “Or else, let that fulfillment be heard (_śrūyatāṃ vā bhavet siddhiḥ_) in exchange for Śatakratu’s release (_śatakratu-vimokṣaṇe_):
 </details>
 </details>
 
@@ -427,7 +427,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Desiring to vanquish my foes (śatru-nirjaya-kāṅkṣiṇaḥ) and descend into battle (saṅgrāmam avatartum), it is my wish (mameṣṭam) that whenever I duly worship the Fire (nityaśo ... sampūjya pāvakam) with oblations and mantras (harvyair mantraiḥ)—
+“Desiring to vanquish my foes (_śatru-nirjaya-kāṅkṣiṇaḥ_) and descend into battle (_saṅgrāmam avatartum_), it is my wish (_mameṣṭam_) that whenever I duly worship the Fire (_nityaśo ... sampūjya pāvakam_) with oblations and mantras (_harvyair mantraiḥ_)—
 </details>
 </details>
 
@@ -461,7 +461,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—a horse-yoked chariot shall rise for me out of the Fire (aśva-yukto ratho mahyam uttiṣṭhet tu vibhāvasoḥ); standing upon it, may I possess immortality (tatsthasyāmaratā syān me)! This is my fixed boon (eṣa me niścayo varaḥ).
+“—a horse-yoked chariot shall rise for me out of the Fire (_aśva-yukto ratho mahyam uttiṣṭhet tu vibhāvasoḥ_); standing upon it, may I possess immortality (_tatsthasyāmaratā syān me_)! This is my fixed boon (_eṣa me niścayo varaḥ_).
 </details>
 </details>
 
@@ -492,7 +492,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And if, O Lord (deva), while that whispered recitation and fire-oblation in Agni remain unfinished (tasmin yady asamāpte ca japyahome vibhāvasau), I should fight in battle (yudhyeyaṃ ... saṅgrāme), then may destruction befall me (tadā me syād vināśanam)!
+“And if, O Lord (_deva_), while that whispered recitation and fire-oblation in Agni remain unfinished (_tasmin yady asamāpte ca japyahome vibhāvasau_), I should fight in battle (_yudhyeyaṃ ... saṅgrāme_), then may destruction befall me (_tadā me syād vināśanam_)!
 </details>
 </details>
 
@@ -523,7 +523,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For every man, O Lord, solicits immortality through austerity (sarvo hi tapasā deva vṛṇoty amaratāṃ pumān); yet by prowess alone (vikrameṇa mayā tu) has this immortality been set forth by me (etad amaratvaṃ pravartitam)!”
+“For every man, O Lord, solicits immortality through austerity (_sarvo hi tapasā deva vṛṇoty amaratāṃ pumān_); yet by prowess alone (_vikrameṇa mayā tu_) has this immortality been set forth by me (_etad amaratvaṃ pravartitam_)!”
 </details>
 </details>
 
@@ -554,7 +554,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it!” (evam astv iti)—those words did the Lord, the Grandfather, speak to him (taṃ cāha vākyaṃ devaḥ pitāmahaḥ); thereupon Śakra was released by Indrajit (muktaś cendrajitā śakraḥ), and the gods returned to heaven (gatāś ca tridivaṃ surāḥ).
+“So be it!” (_evam astv iti_)—those words did the Lord, the Grandfather, speak to him (_taṃ cāha vākyaṃ devaḥ pitāmahaḥ_); thereupon Śakra was released by Indrajit (_muktaś cendrajitā śakraḥ_), and the gods returned to heaven (_gatāś ca tridivaṃ surāḥ_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ Seeing the freed Indra sunken in dejection and brooding over his humiliation, Br
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, O Rāma (etasminn antare rāma), Indra—dejected (dīnaḥ), stripped of his robes and radiance (bhraṣṭāmbara-dyutiḥ), and his spirit overwhelmed with anxiety (cintā-parītātmā)—fell deep into brooding contemplation (dhyāna-tatparatāṃ gataḥ).
+Meanwhile, O Rāma (_etasminn antare rāma_), Indra—dejected (_dīnaḥ_), stripped of his robes and radiance (_bhraṣṭāmbara-dyutiḥ_), and his spirit overwhelmed with anxiety (_cintā-parītātmā_)—fell deep into brooding contemplation (_dhyāna-tatparatāṃ gataḥ_).
 </details>
 </details>
 
@@ -624,7 +624,7 @@ Meanwhile, O Rāma (etasminn antare rāma), Indra—dejected (dīnaḥ), strippe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāpati spoke to him (prāha devaḥ prajāpatiḥ): “O Śatakratu, why did you commit of old (śatakrato kim u purā karoti sma) so grievous a misdeed (suduṣkṛtam)?
+Beholding him in that state (_taṃ tu dṛṣṭvā tathābhūtam_), Lord Prajāpati spoke to him (_prāha devaḥ prajāpatiḥ_): “O Śatakratu, why did you commit of old (_śatakrato kim u purā karoti sma_) so grievous a misdeed (_suduṣkṛtam_)?
 </details>
 </details>
 
@@ -655,7 +655,7 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lord of the Immortals (amarendra), many creatures were created by me of old, O mighty one (mayā bahvyaḥ prajāḥ sṛṣṭās tathā prabho), uniform in complexion (ekavarṇāḥ), uniform in speech (samābhāṣāḥ), and uniform in form in every respect (ekarūpāś ca sarvaśaḥ).
+“O Lord of the Immortals (_amarendra_), many creatures were created by me of old, O mighty one (_mayā bahvyaḥ prajāḥ sṛṣṭās tathā prabho_), uniform in complexion (_ekavarṇāḥ_), uniform in speech (_samābhāṣāḥ_), and uniform in form in every respect (_ekarūpāś ca sarvaśaḥ_).
 </details>
 </details>
 
@@ -690,9 +690,9 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “Among them there was indeed no distinction (tāsāṃ nāsti viśeṣo hi), whether in appearance or in bodily marks (darśane lakṣaṇe ’pi vā); thereupon, with single-pointed mind (ekāgramanāḥ), I deeply contemplated those creatures (tāḥ prajāḥ paricintayam).
+**22:** “Among them there was indeed no distinction (_tāsāṃ nāsti viśeṣo hi_), whether in appearance or in bodily marks (_darśane lakṣaṇe ’pi vā_); thereupon, with single-pointed mind (_ekāgramanāḥ_), I deeply contemplated those creatures (_tāḥ prajāḥ paricintayam_).
 
-**23:** “So, in order to establish distinction among them (tāsāṃ viśeṣārtham), I fashioned a single woman (striyam ekāṃ vinirmame); whatever was preeminent in every limb of created beings (yad yat prajānāṃ pratyaṅgaṃ viśiṣṭam), all that was drawn forth (tat tad uddhṛtam).
+**23:** “So, in order to establish distinction among them (_tāsāṃ viśeṣārtham_), I fashioned a single woman (_striyam ekāṃ vinirmame_); whatever was preeminent in every limb of created beings (_yad yat prajānāṃ pratyaṅgaṃ viśiṣṭam_), all that was drawn forth (_tat tad uddhṛtam_).
 </details>
 </details>
 
@@ -723,7 +723,7 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, out of those qualities of beauty, the woman Ahalyā was fashioned by me (rūpa-guṇair ahalyā strī vinirmitā): here hala denotes ugliness (halaṃ nāmeha vairūpam), and halya is what springs therefrom (halyaṃ tatprabhavaṃ bhavet).
+“Thereupon, out of those qualities of beauty, the woman Ahalyā was fashioned by me (_rūpa-guṇair ahalyā strī vinirmitā_): here _hala_ denotes ugliness (_halaṃ nāmeha vairūpam_), and _halya_ is what springs therefrom (_halyaṃ tatprabhavaṃ bhavet_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because no blemish exists in her (yasmān na vidyate halyam), therefore is she famed as Ahalyā (tenāhalyeti viśrutā); ‘Ahalyā’ was the name proclaimed for her by me, O Śakra (ahalyeti mayā śakra tasyā nāma pravartitam).
+“Because no blemish exists in her (_yasmān na vidyate halyam_), therefore is she famed as Ahalyā (_tenāhalyeti viśrutā_); ‘Ahalyā’ was the name proclaimed for her by me, O Śakra (_ahalyeti mayā śakra tasyā nāma pravartitam_).
 </details>
 </details>
 
@@ -793,7 +793,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that woman had been created, O Lord of the Gods, bull among celestials (nirmitāyāṃ ca devendra tasyāṃ nāryāṃ surarṣabha), this anxiety arose in me (mama cintā tato ’bhavat): ‘Whose shall she become?’ (bhaviṣyatīti kasyaiṣā).
+“When that woman had been created, O Lord of the Gods, bull among celestials (_nirmitāyāṃ ca devendra tasyāṃ nāryāṃ surarṣabha_), this anxiety arose in me (_mama cintā tato ’bhavat_): ‘Whose shall she become?’ (_bhaviṣyatīti kasyaiṣā_).
 </details>
 </details>
 
@@ -824,7 +824,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet you, O Śakra, O mighty Purandara (tvaṃ tu śakra ... prabho ... purandara), imagined in your mind regarding that woman (jānīṣe manasā): ‘By virtue of my preeminent station, she is my wife!’ (sthānādhikatayā patnī mamaiṣeti).
+“Yet you, O Śakra, O mighty Purandara (_tvaṃ tu śakra ... prabho ... purandara_), imagined in your mind regarding that woman (_jānīṣe manasā_): ‘By virtue of my preeminent station, she is my wife!’ (_sthānādhikatayā patnī mamaiṣeti_).
 </details>
 </details>
 
@@ -855,7 +855,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She, however, was deposited by me as a sacred trust (sā mayā nyāsabhūtā tu) with the high-souled Gautama (gautamasya mahātmanaḥ); kept in trust for many years (nyastā bahūni varṣāṇi), she was faithfully returned by him (tena niryātitā ca ha).
+“She, however, was deposited by me as a sacred trust (_sā mayā nyāsabhūtā tu_) with the high-souled Gautama (_gautamasya mahātmanaḥ_); kept in trust for many years (_nyastā bahūni varṣāṇi_), she was faithfully returned by him (_tena niryātitā ca ha_).
 </details>
 </details>
 
@@ -886,7 +886,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, discerning the great steadfastness of that great sage (parijñāya mahāsthairyaṃ mahāmuneḥ) and knowing his perfection in austerity (jñātvā tapasi siddhiṃ ca), I then bestowed her upon him as his wife (patnyarthaṃ sparśitā tadā).
+“Thereupon, discerning the great steadfastness of that great sage (_parijñāya mahāsthairyaṃ mahāmuneḥ_) and knowing his perfection in austerity (_jñātvā tapasi siddhiṃ ca_), I then bestowed her upon him as his wife (_patnyarthaṃ sparśitā tadā_).
 </details>
 </details>
 
@@ -917,7 +917,7 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Filled with wrath, O righteous-souled one (saṅkruddhas tvaṃ hi dharmātman), you went to that sage’s hermitage (gatvā tasyāśramaṃ muneḥ) and there beheld that woman (dṛṣṭavāṃś ca tadā tāṃ strīm), radiant as a blazing tongue of fire (dīptām agniśikhām iva).
+“Filled with wrath, O righteous-souled one (_saṅkruddhas tvaṃ hi dharmātman_), you went to that sage’s hermitage (_gatvā tasyāśramaṃ muneḥ_) and there beheld that woman (_dṛṣṭavāṃś ca tadā tāṃ strīm_), radiant as a blazing tongue of fire (_dīptām agniśikhām iva_).
 </details>
 </details>
 
@@ -956,7 +956,7 @@ Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She was violated by you, O Śakra (sā tvayā dharṣitā śakra), afflicted as you were with lust and wrath (kāmārtena samanyunā); and you were then beheld (dṛṣṭas tvaṃ ca tadā) in that hermitage by that supreme seer (tena hy āśrame paramarṣiṇā).
+“She was violated by you, O Śakra (_sā tvayā dharṣitā śakra_), afflicted as you were with lust and wrath (_kāmārtena samanyunā_); and you were then beheld (_dṛṣṭas tvaṃ ca tadā_) in that hermitage by that supreme seer (_tena hy āśrame paramarṣiṇā_).
 </details>
 </details>
 
@@ -987,7 +987,7 @@ Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon you were cursed by him in wrath (kruddhena tenāsi śaptaḥ), a sage of supreme fiery might (paramatejasā), whereby, O Lord of the Gods (yena devendra), you have fallen into this reversal of your royal state (gato ’si ... daśābhāga-viparyayam).
+“Thereupon you were cursed by him in wrath (_kruddhena tenāsi śaptaḥ_), a sage of supreme fiery might (_paramatejasā_), whereby, O Lord of the Gods (_yena devendra_), you have fallen into this reversal of your royal state (_gato ’si ... daśābhāga-viparyayam_).
 </details>
 </details>
 
@@ -1018,7 +1018,7 @@ Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Since my wife has been fearlessly violated by you (yasmān me dharṣitā patnī tvayā ... nirbhayam), O Vāsava, therefore in battle, O King (tasmāt tvaṃ samare rājan), you shall fall into an enemy’s hands (śatru-hastaṃ gamiṣyasi)!
+“‘Since my wife has been fearlessly violated by you (_yasmān me dharṣitā patnī tvayā ... nirbhayam_), O Vāsava, therefore in battle, O King (_tasmāt tvaṃ samare rājan_), you shall fall into an enemy’s hands (_śatru-hastaṃ gamiṣyasi_)!
 </details>
 </details>
 
@@ -1049,7 +1049,7 @@ Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Moreover, this wicked practice (ayaṃ tu bhāvo durbuddhe) which has been set in motion here by you (yas tvayeha pravartitaḥ) shall surely spread even among the worlds of men (mānuṣeṣv api lokeṣu bhaviṣyati na saṃśayaḥ).
+“‘Moreover, this wicked practice (_ayaṃ tu bhāvo durbuddhe_) which has been set in motion here by you (_yas tvayeha pravartitaḥ_) shall surely spread even among the worlds of men (_mānuṣeṣv api lokeṣu bhaviṣyati na saṃśayaḥ_).
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Of that sin, half shall fall upon whoever commits it (tatrārdhaṃ tasya yaḥ kartā), and half shall fall upon you (tvayy ardhaṃ nipatiṣyati); nor shall your station ever remain secure (na ca te sthāvaraṃ sthānaṃ bhaviṣyati)—of that there is no doubt!
+“‘Of that sin, half shall fall upon whoever commits it (_tatrārdhaṃ tasya yaḥ kartā_), and half shall fall upon you (_tvayy ardhaṃ nipatiṣyati_); nor shall your station ever remain secure (_na ca te sthāvaraṃ sthānaṃ bhaviṣyati_)—of that there is no doubt!
 </details>
 </details>
 
@@ -1123,9 +1123,9 @@ Rebuking Ahalyā, Gautama decrees that her unique beauty shall vanish and be dis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “‘And whoever, whoever becomes Lord of the Gods (yaś ca yaś ca surendraḥ syāt), he too shall never remain steadfast (dhruvaḥ sa na bhaviṣyati)! This curse is discharged by me (eṣa śāpo mayā muktaḥ).’ Thus did he speak to you then (ity asau tvāṃ tadā ’bravīt).
+**36:** “‘And whoever, whoever becomes Lord of the Gods (_yaś ca yaś ca surendraḥ syāt_), he too shall never remain steadfast (_dhruvaḥ sa na bhaviṣyati_)! This curse is discharged by me (_eṣa śāpo mayā muktaḥ_).’ Thus did he speak to you then (_ity asau tvāṃ tadā ’bravīt_).
 
-**37:** “Then, harshly upbraiding his wife (tāṃ tu bhāryāṃ sa nirbhartsya), that sage of mighty austerity spoke (so ’bravīt sumahātapāḥ): ‘O ill-conducted woman (durvinīte), perish in beauty right beside my hermitage (vinidhvaṃsa mamāśrama-samīpataḥ)!
+**37:** “Then, harshly upbraiding his wife (_tāṃ tu bhāryāṃ sa nirbhartsya_), that sage of mighty austerity spoke (_so ’bravīt sumahātapāḥ_): ‘O ill-conducted woman (_durvinīte_), perish in beauty right beside my hermitage (_vinidhvaṃsa mamāśrama-samīpataḥ_)!
 </details>
 </details>
 
@@ -1156,7 +1156,7 @@ Rebuking Ahalyā, Gautama decrees that her unique beauty shall vanish and be dis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Since, endowed with beauty and youth (rūpa-yauvana-sampannā), you have proved unfaithful (yasmāt tvam anavasthitā), therefore it shall no longer be that you alone are beautiful in the world (tasmād rūpavatī loke na tvam ekā bhaviṣyati)!
+“‘Since, endowed with beauty and youth (_rūpa-yauvana-sampannā_), you have proved unfaithful (_yasmāt tvam anavasthitā_), therefore it shall no longer be that you alone are beautiful in the world (_tasmād rūpavatī loke na tvam ekā bhaviṣyati_)!
 </details>
 </details>
 
@@ -1196,9 +1196,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** “‘All creatures shall surely come to share your beauty (rūpaṃ ca te prajāḥ sarvā gamiṣyanti na saṃśayaḥ), relying upon which single loveliness (yat tad ekaṃ samāśritya) this amorous delusion has arisen (vibhramo ’yam upasthitaḥ).’
+**39:** “‘All creatures shall surely come to share your beauty (_rūpaṃ ca te prajāḥ sarvā gamiṣyanti na saṃśayaḥ_), relying upon which single loveliness (_yat tad ekaṃ samāśritya_) this amorous delusion has arisen (_vibhramo ’yam upasthitaḥ_).’
 
-**40:** “From that time onward, creatures for the most part became endowed with beauty (tadāprabhṛti bhūyiṣṭhaṃ prajā rūpa-samanvitāḥ). She then sought to propitiate that great sage Gautama (sā taṃ prasādayāmāsa maharṣiṃ gautamaṃ tadā):
+**40:** “From that time onward, creatures for the most part became endowed with beauty (_tadāprabhṛti bhūyiṣṭhaṃ prajā rūpa-samanvitāḥ_). She then sought to propitiate that great sage Gautama (_sā taṃ prasādayāmāsa maharṣiṃ gautamaṃ tadā_):
 </details>
 </details>
 
@@ -1245,11 +1245,11 @@ Gautama foretells that Viṣṇu incarnate as Rāma will purify Ahalyā in the f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** “‘Through ignorance was I violated, O Brahmin (ajñānād dharṣitā vipra), by the celestial who bore your form (tvadrūpeṇa divaukasā)—not of my own willful desire, O Brahmin-seer (na kāmakārād viprarṣe)! Deign to show me grace (prasādaṃ kartum arhasi)!’
+**41:** “‘Through ignorance was I violated, O Brahmin (_ajñānād dharṣitā vipra_), by the celestial who bore your form (_tvadrūpeṇa divaukasā_)—not of my own willful desire, O Brahmin-seer (_na kāmakārād viprarṣe_)! Deign to show me grace (_prasādaṃ kartum arhasi_)!’
 
-**42:** “Addressed thus by Ahalyā (ahalyayā tv evam uktaḥ), Gautama replied to her (pratyuvāca sa gautamaḥ): ‘There shall be born a mighty chariot-warrior of the Ikṣvākus of great splendor (utpatsyati mahātejā ikṣvākūṇāṃ mahārathaḥ)—
+**42:** “Addressed thus by Ahalyā (_ahalyayā tv evam uktaḥ_), Gautama replied to her (_pratyuvāca sa gautamaḥ_): ‘There shall be born a mighty chariot-warrior of the Ikṣvākus of great splendor (_utpatsyati mahātejā ikṣvākūṇāṃ mahārathaḥ_)—
 
-**43:** “‘Famed in the world by the name Rāma (rāmo nāma śruto loke), the mighty-armed Viṣṇu in human form (mahābāhur viṣṇur mānuṣa-vigrahaḥ) shall also come to the forest for a Brahmin’s sake (vanaṃ cāpy upayāsyati brāhmaṇārthe); when you behold him, O blessed one (taṃ drakṣyasi yadā bhadre), then shall you become purified (tataḥ pūtā bhaviṣyasi).
+**43:** “‘Famed in the world by the name Rāma (_rāmo nāma śruto loke_), the mighty-armed Viṣṇu in human form (_mahābāhur viṣṇur mānuṣa-vigrahaḥ_) shall also come to the forest for a Brahmin’s sake (_vanaṃ cāpy upayāsyati brāhmaṇārthe_); when you behold him, O blessed one (_taṃ drakṣyasi yadā bhadre_), then shall you become purified (_tataḥ pūtā bhaviṣyasi_).
 </details>
 </details>
 
@@ -1283,7 +1283,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For he alone has power to purify (sa hi pāvayituṃ śaktaḥ) the transgression committed by you (tvayā yad duṣkṛtaṃ kṛtam); having offered him guest-hospitality (tasyātithyaṃ ca kṛtvā vai), you shall return to my presence (matsamīpaṃ gamiṣyasi).
+“‘For he alone has power to purify (_sa hi pāvayituṃ śaktaḥ_) the transgression committed by you (_tvayā yad duṣkṛtaṃ kṛtam_); having offered him guest-hospitality (_tasyātithyaṃ ca kṛtvā vai_), you shall return to my presence (_matsamīpaṃ gamiṣyasi_).
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Then indeed shall you dwell again with me (vatsyasi tvaṃ mayā sārdhaṃ tadā hi), O lady of fair complexion (varavarṇini)!’ Having spoken thus, that Brahmin-seer returned to his own hermitage (sa viprarṣir ājagāma svam āśramam).
+“‘Then indeed shall you dwell again with me (_vatsyasi tvaṃ mayā sārdhaṃ tadā hi_), O lady of fair complexion (_varavarṇini_)!’ Having spoken thus, that Brahmin-seer returned to his own hermitage (_sa viprarṣir ājagāma svam āśramam_).
 </details>
 </details>
 
@@ -1348,7 +1348,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that wife of the Veda-expounding sage practiced exceedingly severe austerity (tapaś cācāra sumahat sā patnī brahmavādinaḥ). Truly, from that sage’s discharge of the curse (śāpotsargād dhi tasyedaṃ muneḥ) has all this befallen you (sarvam upasthitam).
+“And that wife of the Veda-expounding sage practiced exceedingly severe austerity (_tapaś cācāra sumahat sā patnī brahmavādinaḥ_). Truly, from that sage’s discharge of the curse (_śāpotsargād dhi tasyedaṃ muneḥ_) has all this befallen you (_sarvam upasthitam_).
 </details>
 </details>
 
@@ -1379,7 +1379,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O mighty-armed one (mahābāho), remember that misdeed committed by you (duṣkṛtaṃ yat tvayā kṛtam)! Through that alone have you fallen into an enemy’s grasp (tena tvaṃ grahaṇaṃ śatror yāto), and by no other cause, O Vāsava (nānyena vāsava)!
+“Therefore, O mighty-armed one (_mahābāho_), remember that misdeed committed by you (_duṣkṛtaṃ yat tvayā kṛtam_)! Through that alone have you fallen into an enemy’s grasp (_tena tvaṃ grahaṇaṃ śatror yāto_), and by no other cause, O Vāsava (_nānyena vāsava_)!
 </details>
 </details>
 
@@ -1412,7 +1412,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Swiftly, with a thoroughly composed mind (śīghraṃ ... susamāhitaḥ), perform a sacrifice dedicated to Viṣṇu (yaja yajñaṃ tvaṃ vaiṣṇavam)! Purified by that sacrifice (pāvitas tena yajñena), you shall then ascend to heaven (yāsyase tridivaṃ tataḥ).
+“Swiftly, with a thoroughly composed mind (_śīghraṃ ... susamāhitaḥ_), perform a sacrifice dedicated to Viṣṇu (_yaja yajñaṃ tvaṃ vaiṣṇavam_)! Purified by that sacrifice (_pāvitas tena yajñena_), you shall then ascend to heaven (_yāsyase tridivaṃ tataḥ_).
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ Reassured that his son Jayanta lies safe in the ocean with Puloman, Indra perfor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And your son, O Lord of the Gods (putraś ca tava devendra), did not perish in that great battle (na vinaṣṭo mahāraṇe); he was carried away and safely placed (nītaḥ sannihitaś caiva) in the great ocean by his maternal grandfather (āryakeṇa mahodadhau).”
+“And your son, O Lord of the Gods (_putraś ca tava devendra_), did not perish in that great battle (_na vinaṣṭo mahāraṇe_); he was carried away and safely placed (_nītaḥ sannihitaś caiva_) in the great ocean by his maternal grandfather (_āryakeṇa mahodadhau_).”
 </details>
 </details>
 
@@ -1482,7 +1482,7 @@ Reassured that his son Jayanta lies safe in the ocean with Puloman, Indra perfor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this (etac chrutvā), Mahendra duly offered the Vaiṣṇava sacrifice (yajñam iṣṭvā ca vaiṣṇavam), ascended once more to heaven (punas tridivam ākrāmat), and ruled as king of the gods (anvaśāsac ca devarāṭ).
+Hearing this (_etac chrutvā_), Mahendra duly offered the Vaiṣṇava sacrifice (_yajñam iṣṭvā ca vaiṣṇavam_), ascended once more to heaven (_punas tridivam ākrāmat_), and ruled as king of the gods (_anvaśāsac ca devarāṭ_).
 </details>
 </details>
 
@@ -1513,7 +1513,7 @@ Hearing this (etac chrutvā), Mahendra duly offered the Vaiṣṇava sacrifice (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such indeed is that strength of Indrajit (etad indrajito nāma balam) which has been recounted by me (yat kīrtitaṃ mayā); by him was the Lord of the Gods himself vanquished (nirjitas tena devendraḥ)—what then of other creatures (prāṇino ’nye tu kiṃ punaḥ)?
+Such indeed is that strength of Indrajit (_etad indrajito nāma balam_) which has been recounted by me (_yat kīrtitaṃ mayā_); by him was the Lord of the Gods himself vanquished (_nirjitas tena devendraḥ_)—what then of other creatures (_prāṇino ’nye tu kiṃ punaḥ_)?
 </details>
 </details>
 
@@ -1544,7 +1544,7 @@ Such indeed is that strength of Indrajit (etad indrajito nāma balam) which has 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Agastya’s words (agastya-vacanaṃ śrutvā), Rāma and Lakṣmaṇa then exclaimed (rāmaś ca lakṣmaṇaś cābravīt tadā), “How marvelous!” (āścaryam iti)—and so too did the vānaras and rākṣasas (vānarā rākṣasās tadā).
+Hearing Agastya’s words (_agastya-vacanaṃ śrutvā_), Rāma and Lakṣmaṇa then exclaimed (_rāmaś ca lakṣmaṇaś cābravīt tadā_), “How marvelous!” (_āścaryam iti_)—and so too did the vānaras and rākṣasas (_vānarā rākṣasās tadā_).
 </details>
 </details>
 
@@ -1588,9 +1588,9 @@ Hearing Agastya’s words (agastya-vacanaṃ śrutvā), Rāma and Lakṣmaṇa t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**53:** Then Vibhīṣaṇa, standing at Rāma’s side (vibhīṣaṇas tu rāmasya pārśvasthaḥ), spoke these words: “How marvelous! Today I have been reminded (āścaryaṃ smārito ’smy adya) of that ancient event which I witnessed (yat tad dṛṣṭaṃ purātanam)!” And Rāma said to Agastya (agastyaṃ tv abravīd rāmaḥ): “This is true, and I have heard it confirmed (satyam etac chrutaṃ ca me).”
+**53:** Then Vibhīṣaṇa, standing at Rāma’s side (_vibhīṣaṇas tu rāmasya pārśvasthaḥ_), spoke these words: “How marvelous! Today I have been reminded (_āścaryaṃ smārito ’smy adya_) of that ancient event which I witnessed (_yat tad dṛṣṭaṃ purātanam_)!” And Rāma said to Agastya (_agastyaṃ tv abravīd rāmaḥ_): “This is true, and I have heard it confirmed (_satyam etac chrutaṃ ca me_).”
 
-**54:** “Thus, O Rāma (evaṃ rāma), arose Rāvaṇa, that thorn in the worlds (samudbhūto rāvaṇo lokakaṇṭakaḥ), together with his son (saputraḥ), by whom Śakra, sovereign of the gods, was conquered in battle (yena saṅgrāme jitaḥ śakraḥ sureśvaraḥ)!”
+**54:** “Thus, O Rāma (_evaṃ rāma_), arose Rāvaṇa, that thorn in the worlds (_samudbhūto rāvaṇo lokakaṇṭakaḥ_), together with his son (_saputraḥ_), by whom Śakra, sovereign of the gods, was conquered in battle (_yena saṅgrāme jitaḥ śakraḥ sureśvaraḥ_)!”
 </details>
 </details>
 

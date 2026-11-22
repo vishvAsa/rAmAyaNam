@@ -81,7 +81,7 @@ Lakshmana's elder brother, Rama the valiant one. [4-8-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thoroughly satisfied (parituṣṭaḥ) and gladdened (harṣitaḥ) by that speech, Sugrīva spoke these words to the heroic elder brother of Lakṣmaṇa (lakṣmaṇasyāgrajaṃ śūram):
+Thoroughly satisfied (_parituṣṭaḥ_) and gladdened (_harṣitaḥ_) by that speech, Sugrīva spoke these words to the heroic elder brother of Lakṣmaṇa (_lakṣmaṇasyāgrajaṃ śūram_):
 </details>
 </details>
 
@@ -133,7 +133,7 @@ am worthy to be blessed by all gods in everyway. [4-8-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In every way (sarvathā) I am favored by the gods (anugrāhyo devatānām), without a doubt—I whose friend is you, endowed with every excellence and rich in virtues (upapanno guṇopetaḥ)!
+“In every way (_sarvathā_) I am favored by the gods (_anugrāhyo devatānām_), without a doubt—I whose friend is you, endowed with every excellence and rich in virtues (_upapanno guṇopetaḥ_)!
 </details>
 </details>
 
@@ -185,7 +185,7 @@ lord, then why tell about one's own kingdom... [4-8-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With you as an ally (sahāyena tvayā), O sinless Rāma, it would truly be possible to win even the sovereignty of the gods (surarājyam api prāptum)—how much more my own kingdom (svarājyaṃ kimuta), O lord!
+“With you as an ally (_sahāyena tvayā_), O sinless Rāma, it would truly be possible to win even the sovereignty of the gods (_surarājyam api prāptum_)—how much more my own kingdom (_svarājyaṃ kimuta_), O lord!
 </details>
 </details>
 
@@ -239,7 +239,7 @@ kind-hearted friends... [4-8-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I am worthy of being honored (so 'haṃ sabhājyaḥ) by my kinsmen and friends (bandhūnāṃ suhṛdāṃ caiva), O Rāghava, by whom a friend born of Raghu's lineage has been gained with Fire as witness (agnisākṣikaṃ mitram).
+“Therefore I am worthy of being honored (_so &#x27;haṃ sabhājyaḥ_) by my kinsmen and friends (_bandhūnāṃ suhṛdāṃ caiva_), O Rāghava, by whom a friend born of Raghu&#x27;s lineage has been gained with Fire as witness (_agnisākṣikaṃ mitram_).
 </details>
 </details>
 
@@ -292,7 +292,7 @@ inexpedient of myself to talk about my inherent capabilities. [4-8-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I too am a worthy friend (anurūpas te vayasyaḥ) to you—you will come to know this gradually (jñāsyase śanaiḥ); yet I am not able to speak before you [or: by myself] of the virtues residing within me (ātmagatān guṇān).
+“I too am a worthy friend (_anurūpas te vayasyaḥ_) to you—you will come to know this gradually (_jñāsyase śanaiḥ_); yet I am not able to speak before you [or: by myself] of the virtues residing within me (_ātmagatān guṇān_).
 </details>
 </details>
 
@@ -348,7 +348,7 @@ their friendship and courage will generally be stable. [4-8-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of great-souled, self-disciplined men (kṛtātmanām) like you, mostly (bhūyiṣṭham), affection (prītiḥ) is unshakable (niścalā)—as is fortitude [or: like the fortitude of the self-possessed], O best of the self-possessed (ātmavatāṃ vara)!
+“Of great-souled, self-disciplined men (_kṛtātmanām_) like you, mostly (_bhūyiṣṭham_), affection (_prītiḥ_) is unshakable (_niścalā_)—as is fortitude [or: like the fortitude of the self-possessed], O best of the self-possessed (_ātmavatāṃ vara_)!
 </details>
 </details>
 
@@ -411,7 +411,7 @@ not to be apportioned among themselves as this is mine and that is yours. [4-8-7
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Silver or gold, and auspicious ornaments—the good [true friends] (sādhavaḥ) regard as undivided [held in common] (avibhaktāni) among the good (sādhūnām).
+“Silver or gold, and auspicious ornaments—the good [true friends] (_sādhavaḥ_) regard as undivided [held in common] (_avibhaktāni_) among the good (_sādhūnām_).
 </details>
 </details>
 
@@ -463,7 +463,7 @@ ultimate recourse to any. [4-8-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether wealthy or poor (āḍhyo vāpi daridro vā), whether afflicted or happy (duḥkhitaḥ sukhito 'pi vā), whether faultless or flawed (nirdoṣaś ca sadoṣaś ca), a friend is the supreme refuge (vayasyaḥ paramā gatiḥ).
+“Whether wealthy or poor (_āḍhyo vāpi daridro vā_), whether afflicted or happy (_duḥkhitaḥ sukhito &#x27;pi vā_), whether faultless or flawed (_nirdoṣaś ca sadoṣaś ca_), a friend is the supreme refuge (_vayasyaḥ paramā gatiḥ_).
 </details>
 </details>
 
@@ -520,7 +520,7 @@ friendship." Sugreeva thus extolled Rama and his friendship. [4-8-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abandonment of wealth (dhanatyāgaḥ), abandonment of comfort (sukhatyāgaḥ), or even abandonment of one's country (deśatyāgo 'pi vā) [or: body], O sinless one, proceeds for the sake of a friend (vayasyārthe pravartante) upon beholding such affection (snehaṃ dṛṣṭvā tathāvidham).”
+“Abandonment of wealth (_dhanatyāgaḥ_), abandonment of comfort (_sukhatyāgaḥ_), or even abandonment of one&#x27;s country (_deśatyāgo &#x27;pi vā_) [or: body], O sinless one, proceeds for the sake of a friend (_vayasyārthe pravartante_) upon beholding such affection (_snehaṃ dṛṣṭvā tathāvidham_).”
 </details>
 </details>
 
@@ -574,7 +574,7 @@ soft-natured in his looks, doffing off his jittery look. [4-8-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it (tat tatheti)!” said Rāma to the kindly-speaking Sugrīva in the presence of wise Lakṣmaṇa (lakṣmaṇasyāgrataḥ), who in splendor was like Vāsava [Indra] (lakṣmyā vāsavasyeva).
+“So be it (_tat tatheti_)!” said Rāma to the kindly-speaking Sugrīva in the presence of wise Lakṣmaṇa (_lakṣmaṇasyāgrataḥ_), who in splendor was like Vāsava [Indra] (_lakṣmyā vāsavasyeva_).
 </details>
 </details>
 
@@ -626,7 +626,7 @@ sight with his bolting eyes around that forest. [4-8-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seeing Rāma standing (rāmaṃ sthitaṃ dṛṣṭvā) and Lakṣmaṇa of mighty strength, Sugrīva cast his restless eyes on every side (sarvataś cakṣur... lolam apātayat) in the grove.
+Then, seeing Rāma standing (_rāmaṃ sthitaṃ dṛṣṭvā_) and Lakṣmaṇa of mighty strength, Sugrīva cast his restless eyes on every side (_sarvataś cakṣur... lolam apātayat_) in the grove.
 </details>
 </details>
 
@@ -678,7 +678,7 @@ from there, covered with some leaves and bedecked with honeybees. [4-8-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that lord of monkeys (harīśvaraḥ) beheld not far away (avidūre) a śāla tree fair with blossoms (supuṣpam), rich in tender foliage (īṣatpatrāḍhyam), and graced with bees (bhramarair upaśobhitam).
+Then that lord of monkeys (_harīśvaraḥ_) beheld not far away (_avidūre_) a _śāla_ tree fair with blossoms (_supuṣpam_), rich in tender foliage (_īṣatpatrāḍhyam_), and graced with bees (_bhramarair upaśobhitam_).
 </details>
 </details>
 
@@ -741,7 +741,7 @@ well charming one, and spreading it out for Rama, he sat on it with Raghava. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Breaking off one single, richly leafed, beautiful branch of that [śāla tree] (tasyaikāṃ parṇabahulāṃ śākhāṃ bhaṅktvā suśobhitām) and spreading it out for Rāma (rāmasyāstīrya), Sugrīva sat down together with Rāghava (niṣasāda sarāghavaḥ).
+Breaking off one single, richly leafed, beautiful branch of that [_śāla_ tree] (_tasyaikāṃ parṇabahulāṃ śākhāṃ bhaṅktvā suśobhitām_) and spreading it out for Rāma (_rāmasyāstīrya_), Sugrīva sat down together with Rāghava (_niṣasāda sarāghavaḥ_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ repeatedly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seeing those two seated (tāv āsīnau tato dṛṣṭvā), Hanumān too plucked a śāla branch (śālaśākhāṃ samutpāṭya) and caused the modest Lakṣmaṇa to be seated (vinītam upaveśayat).
+Then, seeing those two seated (_tāv āsīnau tato dṛṣṭvā_), Hanumān too plucked a _śāla_ branch (_śālaśākhāṃ samutpāṭya_) and caused the modest Lakṣmaṇa to be seated (_vinītam upaveśayat_).
 </details>
 </details>
 
@@ -874,9 +874,9 @@ gracious words that fluttered with happiness while he spoke. [4-8-15, 16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** [Beholding] Rāma comfortably seated (sukhopaviṣṭaṃ rāmaṃ tu), serene like the ocean (prasannam udadhiṃ yathā), upon that best of chief mountains strewn with śāla blossoms (sālapuṣpāvasaṃkīrṇe),
+**15:** [Beholding] Rāma comfortably seated (_sukhopaviṣṭaṃ rāmaṃ tu_), serene like the ocean (_prasannam udadhiṃ yathā_), upon that best of chief mountains strewn with _śāla_ blossoms (_sālapuṣpāvasaṃkīrṇe_),
 
-**16:** Sugrīva, greatly rejoiced (prahṛṣṭaḥ), spoke out of affectionate trust (praṇayāt) to Rāma in a gentle, auspicious voice (ślakṣṇayā śubhayā girā), with syllables faltering from joy (harṣavyākulitākṣaram):
+**16:** Sugrīva, greatly rejoiced (_prahṛṣṭaḥ_), spoke out of affectionate trust (_praṇayāt_) to Rāma in a gentle, auspicious voice (_ślakṣṇayā śubhayā girā_), with syllables faltering from joy (_harṣavyākulitākṣaram_):
 </details>
 </details>
 
@@ -928,7 +928,7 @@ me I am moving about this best mountain Rishyamuka. [4-8-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wronged by my brother (ahaṃ vinikṛto bhrātrā), robbed of my wife (hṛtabhāryaḥ), and sorely afflicted with grief (suduḥkhitaḥ), here I roam this best of mountains, Ṛṣyamūka, tormented by fear (bhayārditaḥ).
+“Wronged by my brother (_ahaṃ vinikṛto bhrātrā_), robbed of my wife (_hṛtabhāryaḥ_), and sorely afflicted with grief (_suduḥkhitaḥ_), here I roam this best of mountains, Ṛṣyamūka, tormented by fear (_bhayārditaḥ_).
 </details>
 </details>
 
@@ -981,7 +981,7 @@ living on with a scared and dazed vitality far flung in fear. [4-8-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Frightened (trastaḥ), plunged in terror (bhaye magnaḥ), and bewildered in mind (sambhrāntacetanaḥ) in the forest, I have been humiliated by my brother Vālin (vālinā nikṛto bhrātrā) and made an object of enmity (kṛtavairaś ca), O Rāghava!
+“Frightened (_trastaḥ_), plunged in terror (_bhaye magnaḥ_), and bewildered in mind (_sambhrāntacetanaḥ_) in the forest, I have been humiliated by my brother Vālin (_vālinā nikṛto bhrātrā_) and made an object of enmity (_kṛtavairaś ca_), O Rāghava!
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ Rama. [4-8-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To me who am tormented by fear of Vālin (vālino me bhayārtasya) and without a protector (mamāpi... anāthasya), O bestower of fearlessness upon all worlds (sarvalokābhayaṃkara), you ought to show grace (prasādaṃ kartum arhasi)!”
+“To me who am tormented by fear of Vālin (_vālino me bhayārtasya_) and without a protector (_mamāpi... anāthasya_), O bestower of fearlessness upon all worlds (_sarvalokābhayaṃkara_), you ought to show grace (_prasādaṃ kartum arhasi_)!”
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ righteousness replied Sugreeva as though laughing off the task. [4-8-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, that radiant Kākutstha, knower of dharma (dharmajñaḥ) and devoted to dharma (dharmavatsalaḥ), replied to Sugrīva as if smiling (prahasann iva):
+Thus addressed, that radiant Kākutstha, knower of _dharma_ (_dharmajñaḥ_) and devoted to _dharma_ (_dharmavatsalaḥ_), replied to Sugrīva as if smiling (_prahasann iva_):
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ kill him today only, that abductor of your wife..." Rama continued thus. [4-8-21
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A friend has helpful service as his fruit (upakāraphalaṃ mitram), whereas injury is the mark of an enemy (apakāro 'rilakṣaṇam); this very day I shall slay that abductor of your wife (adyaiva taṃ vadhiṣyāmi tava bhāryāpahāriṇam)!
+“A friend has helpful service as his fruit (_upakāraphalaṃ mitram_), whereas injury is the mark of an enemy (_apakāro &#x27;rilakṣaṇam_); this very day I shall slay that abductor of your wife (_adyaiva taṃ vadhiṣyāmi tava bhāryāpahāriṇam_)!
 </details>
 </details>
 
@@ -1178,7 +1178,7 @@ kill him today only, that abductor of your wife..." Rama continued thus. [4-8-21
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For here, O fortunate one (mahābhāga), are my winged shafts of fierce energy (patriṇas tigmatejasaḥ), sprung from the reed-forest of Kārttikeya (kārttikeyavanodbhūtāḥ) and adorned with gold (hemavibhūṣitāḥ),
+“For here, O fortunate one (_mahābhāga_), are my winged shafts of fierce energy (_patriṇas tigmatejasaḥ_), sprung from the reed-forest of Kārttikeya (_kārttikeyavanodbhūtāḥ_) and adorned with gold (_hemavibhūṣitāḥ_),
 </details>
 </details>
 
@@ -1236,7 +1236,7 @@ emergence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“fletched with heron plumes (kaṅkapatraparicchannāḥ), resembling the thunderbolt of Mahendra (mahendrāśanisaṃnibhāḥ), smooth-jointed (suparvāṇaḥ), keenly tipped (sutīkṣṇāgrāḥ), and like wrathful serpents (saroṣā bhujagā iva).
+“fletched with heron plumes (_kaṅkapatraparicchannāḥ_), resembling the thunderbolt of Mahendra (_mahendrāśanisaṃnibhāḥ_), smooth-jointed (_suparvāṇaḥ_), keenly tipped (_sutīkṣṇāgrāḥ_), and like wrathful serpents (_saroṣā bhujagā iva_).
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ Sugreeva. [4-8-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold your sin-working brother (bhrātaraṃ kṛtakilbiṣam), your enemy named Vālin (vālisaṃjñam amitraṃ te), struck down by my arrows (śarair vinihatam) like a shattered mountain (vikīrṇam iva parvatam)!”
+“Behold your sin-working brother (_bhrātaraṃ kṛtakilbiṣam_), your enemy named Vālin (_vālisaṃjñam amitraṃ te_), struck down by my arrows (_śarair vinihatam_) like a shattered mountain (_vikīrṇam iva parvatam_)!”
 </details>
 </details>
 
@@ -1352,7 +1352,7 @@ happiness and said, 'good, good...' [4-8-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāghava's speech, Sugrīva, the lord of the monkey host (vāhinīpatiḥ), conceived matchless joy (praharṣam atulaṃ lebhe) and exclaimed, “Bravo! Bravo (sādhu sādhv iti)!”
+Hearing Rāghava&#x27;s speech, Sugrīva, the lord of the monkey host (_vāhinīpatiḥ_), conceived matchless joy (_praharṣam atulaṃ lebhe_) and exclaimed, “Bravo! Bravo (_sādhu sādhv iti_)!”
 </details>
 </details>
 
@@ -1405,7 +1405,7 @@ recourse, and because you have befriended me I am opening up my woes before you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāma, I am overwhelmed by grief (śokābhibhūto 'ham), and you are the refuge of those afflicted with grief (śokārtānāṃ bhavān gatiḥ); accounting you my friend (vayasya iti kṛtvā hi), I pour out my lament before you (tvayy ahaṃ paridevaye).
+“O Rāma, I am overwhelmed by grief (_śokābhibhūto &#x27;ham_), and you are the refuge of those afflicted with grief (_śokārtānāṃ bhavān gatiḥ_); accounting you my friend (_vayasya iti kṛtvā hi_), I pour out my lament before you (_tvayy ahaṃ paridevaye_).
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ broach. [4-8-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For by the clasping of hands (pāṇipradānena) with Fire as witness (agnisākṣikam), you have been made my friend, dearer to me than my own vital breaths (prāṇair bahumataḥ)—and by Truth do I swear (satyena ca śapāmy aham)!
+“For by the clasping of hands (_pāṇipradānena_) with Fire as witness (_agnisākṣikam_), you have been made my friend, dearer to me than my own vital breaths (_prāṇair bahumataḥ_)—and by Truth do I swear (_satyena ca śapāmy aham_)!
 </details>
 </details>
 
@@ -1510,7 +1510,7 @@ hitches and hold-ups, which is always rending my heart..." So said Sugreeva to R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And accounting you my friend (vayasya iti kṛtvā ca), I speak forth with full trust (visrabdhaḥ pravadāmy aham): this inward grief (duḥkham antargatam) constantly wears away [or: burns] my mind (mano harati nityaśaḥ).”
+“And accounting you my friend (_vayasya iti kṛtvā ca_), I speak forth with full trust (_visrabdhaḥ pravadāmy aham_): this inward grief (_duḥkham antargatam_) constantly wears away [or: burns] my mind (_mano harati nityaśaḥ_).”
 </details>
 </details>
 
@@ -1562,7 +1562,7 @@ talk aloud since it is equally abused by tears. [4-8-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken this much, with his eyes clouded by tears (bāṣpadūṣitalocanaḥ), he was unable to speak aloud (noccaiḥ śaknoti bhāṣitum) in a voice choked with tears (bāṣpadūṣitayā vācā).
+Having spoken this much, with his eyes clouded by tears (_bāṣpadūṣitalocanaḥ_), he was unable to speak aloud (_noccaiḥ śaknoti bhāṣitum_) in a voice choked with tears (_bāṣpadūṣitayā vācā_).
 </details>
 </details>
 
@@ -1614,7 +1614,7 @@ suddenly like a river in the presence of Rama. [4-8-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-But in Rāma's presence (rāmasaṃnidhau), Sugrīva restrained with fortitude (dhārayāmāsa dhairyeṇa) the sudden rush of his tears (bāṣpavegaṃ tu sahasā), which had surged like the current of a river (nadīvegam ivāgatam).
+But in Rāma&#x27;s presence (_rāmasaṃnidhau_), Sugrīva restrained with fortitude (_dhārayāmāsa dhairyeṇa_) the sudden rush of his tears (_bāṣpavegaṃ tu sahasā_), which had surged like the current of a river (_nadīvegam ivāgatam_).
 </details>
 </details>
 
@@ -1668,7 +1668,7 @@ but sighing heavily he again started to speak this sentence to Raghava. [4-8-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Curbing those tears (sa nigṛhya tu taṃ bāṣpam), wiping his fair eyes (pramṛjya nayane śubhe), and heaving a deep sigh (viniḥśvasya ca), the spirited one spoke again (punar ūcivān) to Rāghava:
+Curbing those tears (_sa nigṛhya tu taṃ bāṣpam_), wiping his fair eyes (_pramṛjya nayane śubhe_), and heaving a deep sigh (_viniḥśvasya ca_), the spirited one spoke again (_punar ūcivān_) to Rāghava:
 </details>
 </details>
 
@@ -1720,7 +1720,7 @@ harsh words he even banished me. [4-8-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Formerly, O Rāma, I was deposed from my own royal station (rājyāt svād avaropitaḥ) by Vālin, and after being made to hear harsh words (paruṣāṇi ca saṃśrāvya), I was driven out (nirdhūto 'smi) by that stronger one (balīyasā).
+“Formerly, O Rāma, I was deposed from my own royal station (_rājyāt svād avaropitaḥ_) by Vālin, and after being made to hear harsh words (_paruṣāṇi ca saṃśrāvya_), I was driven out (_nirdhūto &#x27;smi_) by that stronger one (_balīyasā_).
 </details>
 </details>
 
@@ -1772,7 +1772,7 @@ sympathisers they are also captivated and imprisoned by him. [4-8-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And my wife, dearer to me even than my vital breaths (prāṇebhyo 'pi garīyasī), was carried off by him, and those friends of mine (suhṛdaś ca madīyā ye) have been bound in prisons (saṃyatā bandhaneṣu te).
+“And my wife, dearer to me even than my vital breaths (_prāṇebhyo &#x27;pi garīyasī_), was carried off by him, and those friends of mine (_suhṛdaś ca madīyā ye_) have been bound in prisons (_saṃyatā bandhaneṣu te_).
 </details>
 </details>
 
@@ -1827,7 +1827,7 @@ killed those combatants monkeys that are deployed by Vali to kill me. [4-8-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that evil-minded one (sa duṣṭātmā) strives relentlessly for my destruction (yatnavāṃś ca... madvināśāya), O Rāghava; many times Vānaras suborned by him (bahuśas tatprayuktāś ca vānarāḥ) have been slain by me.
+“And that evil-minded one (_sa duṣṭātmā_) strives relentlessly for my destruction (_yatnavāṃś ca... madvināśāya_), O Rāghava; many times Vānaras suborned by him (_bahuśas tatprayuktāś ca vānarāḥ_) have been slain by me.
 </details>
 </details>
 
@@ -1879,7 +1879,7 @@ will be fearsome, isn't it... [4-8-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of that very suspicion (śaṅkayā tv etayā), O Rāghava, even upon seeing you (dṛṣṭvā tvām api), I did not approach (nopasarpāmy aham), being afraid—for in a time of fear, all beings are afraid (bhaye sarve hi bibhyati)!
+“Out of that very suspicion (_śaṅkayā tv etayā_), O Rāghava, even upon seeing you (_dṛṣṭvā tvām api_), I did not approach (_nopasarpāmy aham_), being afraid—for in a time of fear, all beings are afraid (_bhaye sarve hi bibhyati_)!
 </details>
 </details>
 
@@ -1934,7 +1934,7 @@ important monkeys like Hanuma and others, who are the only helping hands of mine
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only these headed by Hanumān (hanumatpramukhās tv ime) are my companions (sahāyā me); therefore I sustain my vital breaths today (ato 'haṃ dhārayāmy adya prāṇān), even though fallen into dire distress (kṛcchragato 'pi san).
+“Only these headed by Hanumān (_hanumatpramukhās tv ime_) are my companions (_sahāyā me_); therefore I sustain my vital breaths today (_ato &#x27;haṃ dhārayāmy adya prāṇān_), even though fallen into dire distress (_kṛcchragato &#x27;pi san_).
 </details>
 </details>
 
@@ -1993,7 +1993,7 @@ me, and if I were to stay they too will stay. [4-8-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For these affectionate monkeys (ete hi kapayaḥ snigdhāḥ) guard me on every side (māṃ rakṣanti samantataḥ); they go with me when I must go (saha gacchanti gantavye), and ever abide when I halt (nityaṃ tiṣṭhanti cāsthite).
+“For these affectionate monkeys (_ete hi kapayaḥ snigdhāḥ_) guard me on every side (_māṃ rakṣanti samantataḥ_); they go with me when I must go (_saha gacchanti gantavye_), and ever abide when I halt (_nityaṃ tiṣṭhanti cāsthite_).
 </details>
 </details>
 
@@ -2046,7 +2046,7 @@ Vali alone is my enemy. [4-8-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This in brief is my account (saṃkṣepas tv eṣa me), O Rāma—what need is there to tell you at length (kim uktvā vistaraṃ hi te)? My elder brother Vālin, of renowned valor (viśrutapauruṣaḥ), is my mortal enemy (sa me jyeṣṭho ripur bhrātā).
+“This in brief is my account (_saṃkṣepas tv eṣa me_), O Rāma—what need is there to tell you at length (_kim uktvā vistaraṃ hi te_)? My elder brother Vālin, of renowned valor (_viśrutapauruṣaḥ_), is my mortal enemy (_sa me jyeṣṭho ripur bhrātā_).
 </details>
 </details>
 
@@ -2098,7 +2098,7 @@ destruction. [4-8-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only upon his destruction (tadvināśe 'pi) would my sorrow be wiped away immediately (me duḥkhaṃ pramṛṣṭaṃ syād anantaram); both my happiness and my very life are bound up with his destruction (tadvināśanibandhanam).
+“Only upon his destruction (_tadvināśe &#x27;pi_) would my sorrow be wiped away immediately (_me duḥkhaṃ pramṛṣṭaṃ syād anantaram_); both my happiness and my very life are bound up with his destruction (_tadvināśanibandhanam_).
 </details>
 </details>
 
@@ -2151,7 +2151,7 @@ is gladdened or saddened he has recourse only to his friend." So said Sugreeva t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O Rāma, has the means of ending my grief (eṣa me... śokāntaḥ) been submitted by me who am afflicted with grief (śokārtena niveditaḥ); whether in sorrow or in joy (duḥkhitaḥ sukhito vāpi), a friend is ever the refuge of his friend (sakhyur nityaṃ sakhā gatiḥ).”
+“Thus, O Rāma, has the means of ending my grief (_eṣa me... śokāntaḥ_) been submitted by me who am afflicted with grief (_śokārtena niveditaḥ_); whether in sorrow or in joy (_duḥkhitaḥ sukhito vāpi_), a friend is ever the refuge of his friend (_sakhyur nityaṃ sakhā gatiḥ_).”
 </details>
 </details>
 
@@ -2203,7 +2203,7 @@ am interested to listen, in its reality...[4-8-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this speech, Rāma spoke thus to Sugrīva: “From what cause (kiṃnimittam) did this enmity arise (abhūd vairam)? I wish to hear it in full truth (śrotum icchāmi tattvataḥ).
+Hearing this speech, Rāma spoke thus to Sugrīva: “From what cause (_kiṃnimittam_) did this enmity arise (_abhūd vairam_)? I wish to hear it in full truth (_śrotum icchāmi tattvataḥ_).
 </details>
 </details>
 
@@ -2267,7 +2267,7 @@ the needful very easily. [4-8-42]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For upon hearing the cause of your enmity (kāraṇaṃ śrutvā vairasya tava), O Vānara, and weighing the relative strength and weakness (sampradhārya balābalam), I shall immediately (ānantaryāt) bring about your happiness (sukhaṃ... vidhāsyāmi).
+“For upon hearing the cause of your enmity (_kāraṇaṃ śrutvā vairasya tava_), O Vānara, and weighing the relative strength and weakness (_sampradhārya balābalam_), I shall immediately (_ānantaryāt_) bring about your happiness (_sukhaṃ... vidhāsyāmi_).
 </details>
 </details>
 
@@ -2320,7 +2320,7 @@ intensifying like the intensifying speed of waters in rainy reason. [4-8-43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For hearing that you have been humiliated (śrutvā tvām avamānitam), my mighty indignation (balavān hi mamāmarṣaḥ), making my heart tremble (hṛdayotkampī), swells like the monsoon surge of waters (prāvṛḍvega ivāmbhasaḥ)!
+“For hearing that you have been humiliated (_śrutvā tvām avamānitam_), my mighty indignation (_balavān hi mamāmarṣaḥ_), making my heart tremble (_hṛdayotkampī_), swells like the monsoon surge of waters (_prāvṛḍvega ivāmbhasaḥ_)!
 </details>
 </details>
 
@@ -2373,7 +2373,7 @@ I release the arrow, and even before silencing your enemy." Rama assured Sugreev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Speak cheerfully and with full confidence (hṛṣṭaḥ kathaya visrabdhaḥ) while my bow is being strung (yāvad āropyate dhanuḥ); for no sooner is my arrow loosed than your foe is cast down (sṛṣṭaś ca hi mayā bāṇo nirastaś ca ripus tava)!”
+“Speak cheerfully and with full confidence (_hṛṣṭaḥ kathaya visrabdhaḥ_) while my bow is being strung (_yāvad āropyate dhanuḥ_); for no sooner is my arrow loosed than your foe is cast down (_sṛṣṭaś ca hi mayā bāṇo nirastaś ca ripus tava_)!”
 </details>
 </details>
 
@@ -2424,7 +2424,7 @@ of vanara-s available in his attendance. [4-8-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the great-souled Kākutstha, Sugrīva conceived matchless joy (praharṣam atulaṃ lebhe) together with the four Vānaras (caturbhiḥ saha vānaraiḥ).
+Thus addressed by the great-souled Kākutstha, Sugrīva conceived matchless joy (_praharṣam atulaṃ lebhe_) together with the four Vānaras (_caturbhiḥ saha vānaraiḥ_).
 </details>
 </details>
 
@@ -2487,7 +2487,7 @@ enmity, it all it truthfulness. [4-8-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with a joyful countenance (prahṛṣṭavadanaḥ), Sugrīva began to recount (ākhyātum upacakrame) to the elder brother of Lakṣmaṇa (lakṣmaṇāgraje) the true cause of the enmity (vairasya kāraṇaṃ tattvam).
+Then, with a joyful countenance (_prahṛṣṭavadanaḥ_), Sugrīva began to recount (_ākhyātum upacakrame_) to the elder brother of Lakṣmaṇa (_lakṣmaṇāgraje_) the true cause of the enmity (_vairasya kāraṇaṃ tattvam_).
 </details>
 </details>
 

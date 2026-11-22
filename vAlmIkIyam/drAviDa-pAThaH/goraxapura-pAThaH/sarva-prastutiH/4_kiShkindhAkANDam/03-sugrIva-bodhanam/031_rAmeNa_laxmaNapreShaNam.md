@@ -95,7 +95,7 @@ younger prince-brother Lakshmana spoke in this way. [4-31-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the king's son (sa narendrasūnuḥ), Rāma's younger brother (rāmānujaḥ), spoke thus (ity uvāca) to his elder brother (pūrvajam), the son of the lord of men (naradevaputram), who was lovelorn (kāminam), afflicted (dīnam) yet of undiminished spirit (adīnasattvam), overwhelmed by grief (śokābhipannam), and surging with wrath (samudīrṇakopam):
+Then the king&#x27;s son (_sa narendrasūnuḥ_), Rāma&#x27;s younger brother (_rāmānujaḥ_), spoke thus (_ity uvāca_) to his elder brother (_pūrvajam_), the son of the lord of men (_naradevaputram_), who was lovelorn (_kāminam_), afflicted (_dīnam_) yet of undiminished spirit (_adīnasattvam_), overwhelmed by grief (_śokābhipannam_), and surging with wrath (_samudīrṇakopam_):
 </details>
 </details>
 
@@ -169,7 +169,7 @@ not keep that pact or its fruits holy, as nothing is evincible of his help...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That monkey will not abide in the conduct of the virtuous (na vānaraḥ sthāsyati sādhuvṛtte), nor does he respect the consequences bound up with deeds (na manyate karma-phalānuṣaṅgān); he shall not long enjoy the royal fortune of the monkey kingdom (na bhokṣyate vānararājya-lakṣmīm), for his mind does not incline toward his duty (tathā hi nātikramate 'sya buddhiḥ)!
+“That monkey will not abide in the conduct of the virtuous (_na vānaraḥ sthāsyati sādhuvṛtte_), nor does he respect the consequences bound up with deeds (_na manyate karma-phalānuṣaṅgān_); he shall not long enjoy the royal fortune of the monkey kingdom (_na bhokṣyate vānararājya-lakṣmīm_), for his mind does not incline toward his duty (_tathā hi nātikramate &#x27;sya buddhiḥ_)!
 </details>
 </details>
 
@@ -231,7 +231,7 @@ Hence, kingdoms are unaffordable to dishonest. [4-31-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through loss of judgment (matikṣayāt) addicted to vulgar pleasures (grāmyasukheṣu saktaḥ), his mind forgets to requite your favor (tava prasādāt pratikārabuddhiḥ); slain, let him behold his heroic elder brother Vālin (hato 'grajaṃ paśyatu vīravālinam)! Sovereignty should not be bestowed upon one so devoid of virtue (na rājyam evaṃ viguṇasya deyam).
+“Through loss of judgment (_matikṣayāt_) addicted to vulgar pleasures (_grāmyasukheṣu saktaḥ_), his mind forgets to requite your favor (_tava prasādāt pratikārabuddhiḥ_); slain, let him behold his heroic elder brother Vālin (_hato &#x27;grajaṃ paśyatu vīravālinam_)! Sovereignty should not be bestowed upon one so devoid of virtue (_na rājyam evaṃ viguṇasya deyam_).
 </details>
 </details>
 
@@ -296,7 +296,7 @@ command of Vali's son, Angada." Thus said Lakshmana to Rama. [4-31-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I cannot contain my wrath of surging impetuosity (na dhāraye kopam udīrṇavegam); today I shall slay the faithless Sugrīva (nihanmi sugrīvam asatyam adya)! Let Vālin's son [Aṅgada], together with the foremost monkey heroes (haripravīraiḥ saha vāliputraḥ), conduct the search for the king's daughter (narendraputryā vicayaṃ karotu)!”
+“I cannot contain my wrath of surging impetuosity (_na dhāraye kopam udīrṇavegam_); today I shall slay the faithless Sugrīva (_nihanmi sugrīvam asatyam adya_)! Let Vālin&#x27;s son [Aṅgada], together with the foremost monkey heroes (_haripravīraiḥ saha vāliputraḥ_), conduct the search for the king&#x27;s daughter (_narendraputryā vicayaṃ karotu_)!”
 </details>
 </details>
 
@@ -357,7 +357,7 @@ intention to slay Sugreeva, and who on taking his bow is now leaping at Kishkind
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To him who had seized his bow (tam āttabāṇāsanam) and was springing forth (utpatantam), having declared his intent (niveditārtham) in battle-fierce wrath (raṇa-caṇḍa-kopam), Rāma, the slayer of hostile heroes (paravīrahantā), spoke a well-weighed and conciliatory speech (svavīkṣitaṃ sānunayaṃ ca vākyam):
+To him who had seized his bow (_tam āttabāṇāsanam_) and was springing forth (_utpatantam_), having declared his intent (_niveditārtham_) in battle-fierce wrath (_raṇa-caṇḍa-kopam_), Rāma, the slayer of hostile heroes (_paravīrahantā_), spoke a well-weighed and conciliatory speech (_svavīkṣitaṃ sānunayaṃ ca vākyam_):
 </details>
 </details>
 
@@ -414,7 +414,7 @@ really becomes the best one among men." Thus Rama is saying to Lakshmana. [4-31-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never indeed in this world should one like you (nahi vai tvadvidho loke) commit such a sinful deed (pāpam evaṃ samācaret); he who slays his own wrath through noble discernment (kopam āryeṇa yo hanti), he is a true hero and the foremost of men (sa vīraḥ puruṣottamaḥ)!
+“Never indeed in this world should one like you (_nahi vai tvadvidho loke_) commit such a sinful deed (_pāpam evaṃ samācaret_); he who slays his own wrath through noble discernment (_kopam āryeṇa yo hanti_), he is a true hero and the foremost of men (_sa vīraḥ puruṣottamaḥ_)!
 </details>
 </details>
 
@@ -491,7 +491,7 @@ Sugreeva is not to be undertaken forthwith.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This rash resolve must not be entertained by you here (nedam atra tvayā grāhyam), O Lakṣmaṇa of virtuous conduct (sādhuvṛttena lakṣmaṇa); follow rather our established affection (tāṃ prītim anuvartasva) and our former alliance (pūrvavṛttaṃ ca saṃgatam).
+“This rash resolve must not be entertained by you here (_nedam atra tvayā grāhyam_), O Lakṣmaṇa of virtuous conduct (_sādhuvṛttena lakṣmaṇa_); follow rather our established affection (_tāṃ prītim anuvartasva_) and our former alliance (_pūrvavṛttaṃ ca saṃgatam_).
 </details>
 </details>
 
@@ -547,7 +547,7 @@ Lakshmana. [4-31-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With speech accompanied by conciliation (sāmopahitayā vācā), shunning harsh words (rūkṣāṇi parivarjayan), you ought to remind Sugrīva (vaktum arhasi sugrīvam) that the appointed time has passed (vyatītaṃ kālaparyaye).”
+“With speech accompanied by conciliation (_sāmopahitayā vācā_), shunning harsh words (_rūkṣāṇi parivarjayan_), you ought to remind Sugrīva (_vaktum arhasi sugrīvam_) that the appointed time has passed (_vyatītaṃ kālaparyaye_).”
 </details>
 </details>
 
@@ -601,7 +601,7 @@ city of Kishkindha. [4-31-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duly instructed in his mission by his elder brother (so 'grajenānuśiṣṭārtho yathāvat), that bull among men (puruṣarṣabhaḥ), the hero Lakṣmaṇa, slayer of hostile warriors (vīro lakṣmaṇaḥ paravīrahā), entered the city (praviveśa purīm).
+Duly instructed in his mission by his elder brother (_so &#x27;grajenānuśiṣṭārtho yathāvat_), that bull among men (_puruṣarṣabhaḥ_), the hero Lakṣmaṇa, slayer of hostile warriors (_vīro lakṣmaṇaḥ paravīrahā_), entered the city (_praviveśa purīm_).
 </details>
 </details>
 
@@ -632,7 +632,7 @@ Duly instructed in his mission by his elder brother (so 'grajenānuśiṣṭārt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lakṣmaṇa, of auspicious mind (śubhamatiḥ), wise (prājñaḥ), and devoted to what was dear and beneficial to his brother (bhrātuḥ priyahite rataḥ), his wrath rekindled (pratisaṃrabdhaḥ), strode toward the monkey king's palace (jagāma bhavanaṃ kapeḥ),
+Then Lakṣmaṇa, of auspicious mind (_śubhamatiḥ_), wise (_prājñaḥ_), and devoted to what was dear and beneficial to his brother (_bhrātuḥ priyahite rataḥ_), his wrath rekindled (_pratisaṃrabdhaḥ_), strode toward the monkey king&#x27;s palace (_jagāma bhavanaṃ kapeḥ_),
 </details>
 </details>
 
@@ -685,7 +685,7 @@ the peaking Mt. Mandhara and like the Era-Ender. [4-31-10, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping (pragṛhya) his bow that resembled Indra's rainbow (śakrabāṇāsana-prakhyam), terrible as Death the Ender at the dissolution of time (kālāntakopamam), and towering like a mountain peak (giriśṛṅgābham)—looking like Mount Mandara with its lofty tablelands (mandaraḥ sānumān iva).
+Grasping (_pragṛhya_) his bow that resembled Indra&#x27;s rainbow (_śakrabāṇāsana-prakhyam_), terrible as Death the Ender at the dissolution of time (_kālāntakopamam_), and towering like a mountain peak (_giriśṛṅgābham_)—looking like Mount Mandara with its lofty tablelands (_mandaraḥ sānumān iva_).
 </details>
 </details>
 
@@ -716,7 +716,7 @@ Grasping (pragṛhya) his bow that resembled Indra's rainbow (śakrabāṇāsana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Acting strictly as instructed (yathoktakārī) and equal to Bṛhaspati in intellect (bṛhaspatisamo buddhyā), Rāma's younger brother (rāmānujaḥ) pondered then (matvā tadā) the message to be delivered, Sugrīva's likely reply, and his own rejoinder (vacanam uttaraṃ caiva sottaram).
+Acting strictly as instructed (_yathoktakārī_) and equal to Bṛhaspati in intellect (_bṛhaspatisamo buddhyā_), Rāma&#x27;s younger brother (_rāmānujaḥ_) pondered then (_matvā tadā_) the message to be delivered, Sugrīva&#x27;s likely reply, and his own rejoinder (_vacanam uttaraṃ caiva sottaram_).
 </details>
 </details>
 
@@ -779,7 +779,7 @@ whirlwind aided and abetted by a furious fire. [4-31-12, 13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloped in the fire of his brother's wrath (bhrātuḥ krodhāgninā vṛtaḥ) born of thwarted longing and anger (kāma-krodha-samutthena), Lakṣmaṇa strode forth from there (prayayau lakṣmaṇas tataḥ), displeased and fierce as a tempestuous gale (prabhañjana ivāprītaḥ).
+Enveloped in the fire of his brother&#x27;s wrath (_bhrātuḥ krodhāgninā vṛtaḥ_) born of thwarted longing and anger (_kāma-krodha-samutthena_), Lakṣmaṇa strode forth from there (_prayayau lakṣmaṇas tataḥ_), displeased and fierce as a tempestuous gale (_prabhañjana ivāprītaḥ_).
 </details>
 </details>
 
@@ -810,7 +810,7 @@ Enveloped in the fire of his brother's wrath (bhrātuḥ krodhāgninā vṛtaḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Violently felling with his might (tarasā pātayan balāt) sāla, palmyra, and aśvakarṇa trees (sāla-tālāśvakarṇāṃś ca), and hurling about mountain crags (paryasyan girikūṭāni) and other trees in his impetuous speed (drumān anyāṃś ca vegitaḥ),
+Violently felling with his might (_tarasā pātayan balāt_) _sāla_, palmyra, and _aśvakarṇa_ trees (_sāla-tālāśvakarṇāṃś ca_), and hurling about mountain crags (_paryasyan girikūṭāni_) and other trees in his impetuous speed (_drumān anyāṃś ca vegitaḥ_),
 </details>
 </details>
 
@@ -873,7 +873,7 @@ can do the same effortlessly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And shattering boulders into fragments with his feet (śilāś ca śakalīkurvan padbhyām) like a swift-moving elephant (gaja ivāśugaḥ), casting each stride far ahead (dūram ekapadaṃ tyaktvā), he sped on swiftly under the urgency of his mission (yayau kāryavaśād drutam).
+And shattering boulders into fragments with his feet (_śilāś ca śakalīkurvan padbhyām_) like a swift-moving elephant (_gaja ivāśugaḥ_), casting each stride far ahead (_dūram ekapadaṃ tyaktvā_), he sped on swiftly under the urgency of his mission (_yayau kāryavaśād drutam_).
 </details>
 </details>
 
@@ -933,7 +933,7 @@ time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That tiger among the Ikṣvākus (ikṣvākuśārdūlaḥ) beheld that great capital of the monkey king, Kiṣkindhā (harirāja-mahāpurīṃ kiṣkindhām), thronged with forces (balākīrṇām) and hard to assail within its mountain fastness (durgāṃ girisaṃkaṭe).
+That tiger among the Ikṣvākus (_ikṣvākuśārdūlaḥ_) beheld that great capital of the monkey king, Kiṣkindhā (_harirāja-mahāpurīṃ kiṣkindhām_), thronged with forces (_balākīrṇām_) and hard to assail within its mountain fastness (_durgāṃ girisaṃkaṭe_).
 </details>
 </details>
 
@@ -986,7 +986,7 @@ formidable Vaanara-s at the outposts of Kishkindha. [4-31-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His lips quivering with wrath (roṣāt prasphuramāṇauṣṭhaḥ) toward Sugrīva (sugrīvaṃ prati), Lakṣmaṇa beheld formidable monkeys (dadarśa vānarān bhīmān) roaming outside Kiṣkindhā (kiṣkindhāyāṃ bahiścarān).
+His lips quivering with wrath (_roṣāt prasphuramāṇauṣṭhaḥ_) toward Sugrīva (_sugrīvaṃ prati_), Lakṣmaṇa beheld formidable monkeys (_dadarśa vānarān bhīmān_) roaming outside Kiṣkindhā (_kiṣkindhāyāṃ bahiścarān_).
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ and they are at the ready. [4-31-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that bull among men, Lakṣmaṇa (taṃ dṛṣṭvā lakṣmaṇaṃ puruṣarṣabham), all the elephant-like monkeys (vānarāḥ sarve kuñjaraprakhyāḥ) within the mountain pass (parvatāntare) seized mountain crags by the hundreds (śailaśṛṅgāṇi śataśaḥ) and tall, full-grown trees (pravṛddhāṃś ca mahīruhān jagṛhuḥ).
+Beholding that bull among men, Lakṣmaṇa (_taṃ dṛṣṭvā lakṣmaṇaṃ puruṣarṣabham_), all the elephant-like monkeys (_vānarāḥ sarve kuñjaraprakhyāḥ_) within the mountain pass (_parvatāntare_) seized mountain crags by the hundreds (_śailaśṛṅgāṇi śataśaḥ_) and tall, full-grown trees (_pravṛddhāṃś ca mahīruhān jagṛhuḥ_).
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ become twofold as with a fire to which much fuel is added. [4-31-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding all those monkeys grasping weapons (tān gṛhītapraharaṇān sarvān dṛṣṭvā), Lakṣmaṇa grew doubly enraged (babhūva dviguṇaṃ kruddhaḥ), like a fire fed with abundant fuel (bahvindhana ivānalaḥ).
+Beholding all those monkeys grasping weapons (_tān gṛhītapraharaṇān sarvān dṛṣṭvā_), Lakṣmaṇa grew doubly enraged (_babhūva dviguṇaṃ kruddhaḥ_), like a fire fed with abundant fuel (_bahvindhana ivānalaḥ_).
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ bodies. [4-31-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him agitated with fury (taṃ kṣubdhaṃ dṛṣṭvā) and resembling Time, Death, and the Doomsday conflagration (kāla-mṛtyu-yugāntābham), those monkeys, their limbs seized with terror (te bhayaparītāṅgāḥ plavaṃgamāḥ), fled by the hundreds in all directions (śataśo vidrutā diśaḥ).
+Seeing him agitated with fury (_taṃ kṣubdhaṃ dṛṣṭvā_) and resembling Time, Death, and the Doomsday conflagration (_kāla-mṛtyu-yugāntābham_), those monkeys, their limbs seized with terror (_te bhayaparītāṅgāḥ plavaṃgamāḥ_), fled by the hundreds in all directions (_śataśo vidrutā diśaḥ_).
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ about the arrival of Lakshmana, and even about his fury. [4-31-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, entering Sugrīva's palace (sugrīvabhavanaṃ praviśya), the foremost of monkeys (haripuṃgavāḥ) reported Lakṣmaṇa's arrival and his wrath (krodham āgamanaṃ caiva lakṣmaṇasya nyavedayan).
+Then, entering Sugrīva&#x27;s palace (_sugrīvabhavanaṃ praviśya_), the foremost of monkeys (_haripuṃgavāḥ_) reported Lakṣmaṇa&#x27;s arrival and his wrath (_krodham āgamanaṃ caiva lakṣmaṇasya nyavedayan_).
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ monkeys who brought the message. [4-31-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by Tārā (tārayā sahitaḥ) and amorously absorbed in passion (kāmī saktaḥ), the bull among monkeys (kapivṛṣaḥ) did not hear the words of those lion-like monkeys then (na teṣāṃ kapisiṃhānāṃ śuśrāva vacanaṃ tadā).
+Accompanied by Tārā (_tārayā sahitaḥ_) and amorously absorbed in passion (_kāmī saktaḥ_), the bull among monkeys (_kapivṛṣaḥ_) did not hear the words of those lion-like monkeys then (_na teṣāṃ kapisiṃhānāṃ śuśrāva vacanaṃ tadā_).
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ sheen are similar to mountains and dark-clouds have gone out of the city. [4-31-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, commanded by the ministers (tataḥ sacivasaṃdiṣṭāḥ), hair-raising monkeys (harayo romaharṣaṇāḥ) resembling mountains, elephants, and thunderclouds (giri-kuñjara-meghābhāḥ) marched forth from the city (nagarān niryayus tadā).
+Then, commanded by the ministers (_tataḥ sacivasaṃdiṣṭāḥ_), hair-raising monkeys (_harayo romaharṣaṇāḥ_) resembling mountains, elephants, and thunderclouds (_giri-kuñjara-meghābhāḥ_) marched forth from the city (_nagarān niryayus tadā_).
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ tigerish pride, all are hideous in look and horrendous by their faces. [4-31-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them had claws and fangs for weapons (nakha-daṃṣṭrāyudhāḥ sarve), heroic and of fierce aspect (vīrā vikṛtadarśanāḥ); all had fangs like tigers (sarve śārdūladaṃṣṭrāś ca), and all bared their gaping jaws (sarve vivṛtadarśanāḥ).
+All of them had claws and fangs for weapons (_nakha-daṃṣṭrāyudhāḥ sarve_), heroic and of fierce aspect (_vīrā vikṛtadarśanāḥ_); all had fangs like tigers (_sarve śārdūladaṃṣṭrāś ca_), and all bared their gaping jaws (_sarve vivṛtadarśanāḥ_).
 </details>
 </details>
 
@@ -1436,7 +1436,7 @@ some with vigour matching that of a thousand elephants. [4-31-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some possessed the strength of ten elephants (daśanāgabalāḥ kecit), some were tenfold superior to them (kecid daśaguṇottarāḥ), and some equaled the splendor and might of a thousand elephants (kecin nāgasahasrasya babhūvus tulyavarcasaḥ).
+Some possessed the strength of ten elephants (_daśanāgabalāḥ kecit_), some were tenfold superior to them (_kecid daśaguṇottarāḥ_), and some equaled the splendor and might of a thousand elephants (_kecin nāgasahasrasya babhūvus tulyavarcasaḥ_).
 </details>
 </details>
 
@@ -1489,7 +1489,7 @@ great-mighty monkeys flaunting trees are spreading throughout it. [4-31-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then wrathful Lakṣmaṇa (lakṣmaṇaḥ kruddhaḥ) beheld that hard-to-assail Kiṣkindhā (kiṣkindhāṃ tāṃ durāsadām) thronged on all sides with those monkeys of mighty strength (taiḥ kapibhir vyāptāṃ mahābalaiḥ) bearing trees in their hands (drumahastaiḥ).
+Then wrathful Lakṣmaṇa (_lakṣmaṇaḥ kruddhaḥ_) beheld that hard-to-assail Kiṣkindhā (_kiṣkindhāṃ tāṃ durāsadām_) thronged on all sides with those monkeys of mighty strength (_taiḥ kapibhir vyāptāṃ mahābalaiḥ_) bearing trees in their hands (_drumahastaiḥ_).
 </details>
 </details>
 
@@ -1547,7 +1547,7 @@ The word *parigha* is sometimes taken as bastions of the fort-wall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all those monkeys (tatas te harayaḥ sarve), of towering courage (udagrasattvāḥ), issuing forth beyond the space between rampart and moat (prākāra-parikhāntarāt niṣkramya), stood arrayed in open view (tasthur āviṣkṛtaṃ tadā).
+Then all those monkeys (_tatas te harayaḥ sarve_), of towering courage (_udagrasattvāḥ_), issuing forth beyond the space between rampart and moat (_prākāra-parikhāntarāt niṣkramya_), stood arrayed in open view (_tasthur āviṣkṛtaṃ tadā_).
 </details>
 </details>
 
@@ -1600,7 +1600,7 @@ monkeys. [4-31-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Sugrīva's heedless negligence (sugrīvasya pramādaṃ ca) and his elder brother's urgent cause (pūrvajasyārtham), that self-possessed hero (ātmavān vīraḥ) fell once more under the sway of wrath (krodhavaśaṃ punar eva jagāma saḥ).
+Beholding Sugrīva&#x27;s heedless negligence (_sugrīvasya pramādaṃ ca_) and his elder brother&#x27;s urgent cause (_pūrvajasyārtham_), that self-possessed hero (_ātmavān vīraḥ_) fell once more under the sway of wrath (_krodhavaśaṃ punar eva jagāma saḥ_).
 </details>
 </details>
 
@@ -1652,7 +1652,7 @@ tigerly-man Lakshmana is like a fuming fire. [4-31-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heaving long, hot, deep sighs (sa dīrghoṣṇa-mahocchvāsaḥ), his eyes bloodshot with anger (kopa-saṃrakta-locanaḥ), that tiger among men (naraśārdūlaḥ) appeared like a fire wreathed in smoke (sadhūma iva pāvakaḥ),
+Heaving long, hot, deep sighs (_sa dīrghoṣṇa-mahocchvāsaḥ_), his eyes bloodshot with anger (_kopa-saṃrakta-locanaḥ_), that tiger among men (_naraśārdūlaḥ_) appeared like a fire wreathed in smoke (_sadhūma iva pāvakaḥ_),
 </details>
 </details>
 
@@ -1711,7 +1711,7 @@ besides its coils and *ghaata* is 'that which obtained after multiplication...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a five-hooded serpent (pañcāsya iva pannagaḥ) whose flickering tongue was his arrow-point (bāṇaśalya-sphuraj-jihvaḥ), whose expanded hood was his bow (sāyakāsana-bhogavān), and who was filled with the venom of his own fiery energy (svatejo-viṣa-sambhūtaḥ).
+Like a five-hooded serpent (_pañcāsya iva pannagaḥ_) whose flickering tongue was his arrow-point (_bāṇaśalya-sphuraj-jihvaḥ_), whose expanded hood was his bow (_sāyakāsana-bhogavān_), and who was filled with the venom of his own fiery energy (_svatejo-viṣa-sambhūtaḥ_).
 </details>
 </details>
 
@@ -1772,7 +1772,7 @@ King of Serpents, who is perforce infuriated. [4-31-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching him (taṃ samāsādya)—who blazed like the Doomsday fire (dīptam iva kālāgnim) and resembled an enraged lordly serpent (nāgendram iva kopitam)—Aṅgada fell into supreme despondency out of fear (aṅgadas trāsād viṣādam agamat param).
+Approaching him (_taṃ samāsādya_)—who blazed like the Doomsday fire (_dīptam iva kālāgnim_) and resembled an enraged lordly serpent (_nāgendram iva kopitam_)—Aṅgada fell into supreme despondency out of fear (_aṅgadas trāsād viṣādam agamat param_).
 </details>
 </details>
 
@@ -1867,11 +1867,11 @@ boy Angada, you comeback quickly." Thus Lakshmana spoke to Angada. [4-31-33, 34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** With eyes copper-red from wrath (roṣatāmrākṣaḥ), glorious Lakṣmaṇa (sa mahāyaśāḥ) instructed Aṅgada (aṅgadaṃ saṃdideśa): “O dear youth (vatsa), let my arrival be announced to Sugrīva thus (sugrīvaḥ kathyatāṃ mamāgamanam ity uta):
+**32:** With eyes copper-red from wrath (_roṣatāmrākṣaḥ_), glorious Lakṣmaṇa (_sa mahāyaśāḥ_) instructed Aṅgada (_aṅgadaṃ saṃdideśa_): “O dear youth (_vatsa_), let my arrival be announced to Sugrīva thus (_sugrīvaḥ kathyatāṃ mamāgamanam ity uta_):
 
-**33:** “ `This younger brother of Rāma, Lakṣmaṇa (eṣa rāmānujaḥ lakṣmaṇaḥ), has arrived in your presence (prāptas tvatsakāśam), O tamer of foes (ariṃdama), and stands at the gate (dvāri tiṣṭhati), scorched by his brother's calamity (bhrātur vyasanasaṃtaptaḥ).
+**33:** “ `This younger brother of Rāma, Lakṣmaṇa (_eṣa rāmānujaḥ lakṣmaṇaḥ_), has arrived in your presence (_prāptas tvatsakāśam_), O tamer of foes (_ariṃdama_), and stands at the gate (_dvāri tiṣṭhati_), scorched by his brother&#x27;s calamity (_bhrātur vyasanasaṃtaptaḥ_).
 
-**34:** “ `If you have any inclination to heed his words (tasya vākyaṃ yadi ruciḥ), let what is proper be done, O monkey (kriyatāṃ sādhu vānara)!' Having spoken this message (ity uktvā vākyam), return swiftly, O dear prince, tamer of foes (śīghram āgaccha vatsa ariṃdama)!”
+**34:** “ `If you have any inclination to heed his words (_tasya vākyaṃ yadi ruciḥ_), let what is proper be done, O monkey (_kriyatāṃ sādhu vānara_)!&#x27; Having spoken this message (_ity uktvā vākyam_), return swiftly, O dear prince, tamer of foes (_śīghram āgaccha vatsa ariṃdama_)!”
 </details>
 </details>
 
@@ -1923,7 +1923,7 @@ the presence of his father Sugreeva he informed "Soumitri has come." [4-31-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Lakṣmaṇa's words (lakṣmaṇasya vacaḥ śrutvā), grief-stricken Aṅgada (śokāviṣṭo 'ṅgadaḥ) approached his uncle's presence (pituḥ samīpam āgamya) and said (abravīt): “Here has Saumitri arrived (saumitrir ayam āgataḥ)!”
+Hearing Lakṣmaṇa&#x27;s words (_lakṣmaṇasya vacaḥ śrutvā_), grief-stricken Aṅgada (_śokāviṣṭo &#x27;ṅgadaḥ_) approached his uncle&#x27;s presence (_pituḥ samīpam āgamya_) and said (_abravīt_): “Here has Saumitri arrived (_saumitrir ayam āgataḥ_)!”
 </details>
 </details>
 
@@ -1989,7 +1989,7 @@ father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bewildered in mind (sambhrāntabhāvaḥ) and downcast of face (paridīnavaktraḥ) at Lakṣmaṇa's exceedingly fierce speech (tasya sutīvravācā), impetuous Aṅgada (tarasvī aṅgadaḥ), departing from the gate (nirgatya), bowed first at the feet of the king (pūrvaṃ nṛpateḥ) and then at the feet of Rumā (tato rumāyāś caraṇau vavande).
+Bewildered in mind (_sambhrāntabhāvaḥ_) and downcast of face (_paridīnavaktraḥ_) at Lakṣmaṇa&#x27;s exceedingly fierce speech (_tasya sutīvravācā_), impetuous Aṅgada (_tarasvī aṅgadaḥ_), departing from the gate (_nirgatya_), bowed first at the feet of the king (_pūrvaṃ nṛpateḥ_) and then at the feet of Rumā (_tato rumāyāś caraṇau vavande_).
 </details>
 </details>
 
@@ -2059,7 +2059,7 @@ about the message of Lakshmana. [4-31-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clasping his father-uncle's feet (saṃgṛhya pādau pituḥ), Aṅgada of fierce energy (ugratejāḥ) then grasped his mother Tārā's feet again (jagrāha mātuḥ punar eva pādau), and pressing Rumā's feet (pādau rumāyāś ca nipīḍayitvā), reported that urgent matter (nivedayāmāsa tatas tad artham).
+Clasping his father-uncle&#x27;s feet (_saṃgṛhya pādau pituḥ_), Aṅgada of fierce energy (_ugratejāḥ_) then grasped his mother Tārā&#x27;s feet again (_jagrāha mātuḥ punar eva pādau_), and pressing Rumā&#x27;s feet (_pādau rumāyāś ca nipīḍayitvā_), reported that urgent matter (_nivedayāmāsa tatas tad artham_).
 </details>
 </details>
 
@@ -2112,7 +2112,7 @@ numbed down with the torpor of lustfulness. [4-31-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloped in sleep and exhaustion (nidrā-klānta-saṃvītaḥ), intoxicated with liquor (madamattaś ca), and infatuated by love (madanena ca mohitaḥ), that monkey king did not wake (sa vānaro na vibuddhavān).
+Enveloped in sleep and exhaustion (_nidrā-klānta-saṃvītaḥ_), intoxicated with liquor (_madamattaś ca_), and infatuated by love (_madanena ca mohitaḥ_), that monkey king did not wake (_sa vānaro na vibuddhavān_).
 </details>
 </details>
 
@@ -2170,7 +2170,7 @@ monkeys or hues and cries of others. - A Linguistic Study of Ramayana, Pt. Satya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding enraged Lakṣmaṇa (taṃ kruddhaṃ lakṣmaṇaṃ prekṣya), the monkeys, their minds bewildered with terror (bhaya-mohita-cetasaḥ), raised an uproar of kilakilā cries (tataḥ kilakilāṃ cakruḥ) as they sought to propitiate him (prasādayantaḥ).
+Then, beholding enraged Lakṣmaṇa (_taṃ kruddhaṃ lakṣmaṇaṃ prekṣya_), the monkeys, their minds bewildered with terror (_bhaya-mohita-cetasaḥ_), raised an uproar of _kilakilā_ cries (_tataḥ kilakilāṃ cakruḥ_) as they sought to propitiate him (_prasādayantaḥ_).
 </details>
 </details>
 
@@ -2224,7 +2224,7 @@ that is similar to a storm of a torrent, thunder of a thunderbolt, and the roar 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him who resembled a mighty flood (mahaughanibhaṃ dṛṣṭvā), they simultaneously raised a lion-roar (siṃhanādaṃ samaṃ cakruḥ) near Lakṣmaṇa (lakṣmaṇasya samīpataḥ), loud as the crash of a thunderbolt and lightning (vajrāśani-samasvanam).
+Seeing him who resembled a mighty flood (_mahaughanibhaṃ dṛṣṭvā_), they simultaneously raised a lion-roar (_siṃhanādaṃ samaṃ cakruḥ_) near Lakṣmaṇa (_lakṣmaṇasya samīpataḥ_), loud as the crash of a thunderbolt and lightning (_vajrāśani-samasvanam_).
 </details>
 </details>
 
@@ -2277,7 +2277,7 @@ stupor his coppery eyes are helter-skelter and his garlands and ornaments are to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that mighty clamor (tena śabdena mahatā) the monkey king was finally awakened (pratyabudhyata vānaraḥ), his copper-red eyes rolling in tipsy languor (mada-vihvala-tāmrākṣaḥ) and his garland-ornaments disheveled in agitation (vyākulaḥ sragvibhūṣaṇaḥ).
+By that mighty clamor (_tena śabdena mahatā_) the monkey king was finally awakened (_pratyabudhyata vānaraḥ_), his copper-red eyes rolling in tipsy languor (_mada-vihvala-tāmrākṣaḥ_) and his garland-ornaments disheveled in agitation (_vyākulaḥ sragvibhūṣaṇaḥ_).
 </details>
 </details>
 
@@ -2349,9 +2349,9 @@ discuss variously about the prosperity and probity. [4-31-42, 43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** Then, having heard Aṅgada's words (athāṅgadavacaḥ śrutvā), two counselors of the lord of monkeys (mantriṇau vānarendrasya), esteemed and of noble discernment (sammatodāradarśanau), arrived together with him (tenaiva ca samāgatau).
+**42:** Then, having heard Aṅgada&#x27;s words (_athāṅgadavacaḥ śrutvā_), two counselors of the lord of monkeys (_mantriṇau vānarendrasya_), esteemed and of noble discernment (_sammatodāradarśanau_), arrived together with him (_tenaiva ca samāgatau_).
 
-**43:** Plakṣa and Prabhāva (plakṣaś caiva prabhāvaś ca), counselors skilled in practical policy and righteousness (mantriṇāv arthadharmayoḥ), reported that Lakṣmaṇa had arrived (prāptaṃ lakṣmaṇaṃ tau śaśaṃsatuḥ), discoursing on matters high and low (vaktum uccāvacaṃ):
+**43:** Plakṣa and Prabhāva (_plakṣaś caiva prabhāvaś ca_), counselors skilled in practical policy and righteousness (_mantriṇāv arthadharmayoḥ_), reported that Lakṣmaṇa had arrived (_prāptaṃ lakṣmaṇaṃ tau śaśaṃsatuḥ_), discoursing on matters high and low (_vaktum uccāvacaṃ_):
 </details>
 </details>
 
@@ -2428,9 +2428,9 @@ Sugreeva. [4-31-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** Having propitiated Sugrīva (prasādayitvā sugrīvam) with words pregnant with meaning and resolve (vacanaiḥ sārthaniścitaiḥ), sitting beside him as he sat enthroned (āsīnaṃ paryupāsīnau), just as attendants wait upon Śakra, lord of the Maruts (yathā śakraṃ marutpatim):
+**44:** Having propitiated Sugrīva (_prasādayitvā sugrīvam_) with words pregnant with meaning and resolve (_vacanaiḥ sārthaniścitaiḥ_), sitting beside him as he sat enthroned (_āsīnaṃ paryupāsīnau_), just as attendants wait upon Śakra, lord of the Maruts (_yathā śakraṃ marutpatim_):
 
-**45:** “Steadfast in truth (satyasaṃdhau) and supremely fortunate (mahābhāgau), the two brothers Rāma and Lakṣmaṇa (bhrātarau rāmalakṣmaṇau), worthy of sovereignty and bestowers of sovereignty [upon you] (rājyārhau rājyadāyinau), have assumed human form [or: entered into friendship with you] (manuṣyabhāvaṃ samprāptau).
+**45:** “Steadfast in truth (_satyasaṃdhau_) and supremely fortunate (_mahābhāgau_), the two brothers Rāma and Lakṣmaṇa (_bhrātarau rāmalakṣmaṇau_), worthy of sovereignty and bestowers of sovereignty [upon you] (_rājyārhau rājyadāyinau_), have assumed human form [or: entered into friendship with you] (_manuṣyabhāvaṃ samprāptau_).
 </details>
 </details>
 
@@ -2482,7 +2482,7 @@ monkeys are panicked and venting out alarms shuddering utterly. [4-31-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of those two, one—Lakṣmaṇa—stands at the gate with bow in hand (tayor eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ), terrified of whom (yasya bhītāḥ) the trembling monkeys are uttering loud cries (pravepanto nādān muñcanti vānarāḥ)!”
+“Of those two, one—Lakṣmaṇa—stands at the gate with bow in hand (_tayor eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ_), terrified of whom (_yasya bhītāḥ_) the trembling monkeys are uttering loud cries (_pravepanto nādān muñcanti vānarāḥ_)!”
 </details>
 </details>
 
@@ -2550,7 +2550,7 @@ Pt. Satya Vrat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This brother of Rāghava, Lakṣmaṇa (sa eṣa rāghavabhrātā lakṣmaṇaḥ), has arrived at the command of that Rāma (prāptas tasya rāmasya śāsanāt), having Rāma's word for his charioteer (vākyasārathiḥ) and resolute determination for his war-chariot (vyavasāyarathaḥ).
+“This brother of Rāghava, Lakṣmaṇa (_sa eṣa rāghavabhrātā lakṣmaṇaḥ_), has arrived at the command of that Rāma (_prāptas tasya rāmasya śāsanāt_), having Rāma&#x27;s word for his charioteer (_vākyasārathiḥ_) and resolute determination for his war-chariot (_vyavasāyarathaḥ_).
 </details>
 </details>
 
@@ -2602,7 +2602,7 @@ precious son of Tara, to your presence. [4-31-48]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this beloved son of Tārā, Aṅgada (ayaṃ ca tanayas tārāyā dayito 'ṅgadaḥ), O sinless king (rājan anagha), was dispatched in haste to your presence by Lakṣmaṇa (lakṣmaṇena sakāśaṃ te preṣitas tvarayā).
+“And this beloved son of Tārā, Aṅgada (_ayaṃ ca tanayas tārāyā dayito &#x27;ṅgadaḥ_), O sinless king (_rājan anagha_), was dispatched in haste to your presence by Lakṣmaṇa (_lakṣmaṇena sakāśaṃ te preṣitas tvarayā_).
 </details>
 </details>
 
@@ -2655,7 +2655,7 @@ door with an awning of rancour on his eyes and as if to burn down the monkeys ju
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here stands that valorous hero at the gate (so 'yaṃ dvāri tiṣṭhati vīryavān), his eyes suffused with wrath (roṣaparītākṣaḥ), as though burning up the monkeys with his gaze (vānarān cakṣuṣā nirdahann iva), O lord of monkeys (vānarapate)!
+“Here stands that valorous hero at the gate (_so &#x27;yaṃ dvāri tiṣṭhati vīryavān_), his eyes suffused with wrath (_roṣaparītākṣaḥ_), as though burning up the monkeys with his gaze (_vānarān cakṣuṣā nirdahann iva_), O lord of monkeys (_vānarapate_)!
 </details>
 </details>
 
@@ -2711,7 +2711,7 @@ pacified now. [4-31-50]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go swiftly, O great king (gaccha śīghraṃ mahārāja), with your son and with your kinsmen (saputraḥ sahabāndhavaḥ), bowing your head in salutation to him (tasya mūrdhnā praṇāmaṃ tvam); let his wrath be appeased today (roṣo hy adyopaśāmyatām)!
+“Go swiftly, O great king (_gaccha śīghraṃ mahārāja_), with your son and with your kinsmen (_saputraḥ sahabāndhavaḥ_), bowing your head in salutation to him (_tasya mūrdhnā praṇāmaṃ tvam_); let his wrath be appeased today (_roṣo hy adyopaśāmyatām_)!
 </details>
 </details>
 
@@ -2775,7 +2775,7 @@ the ministers advised Sugreeva. [4-31-51]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever righteous-souled Rāma has commanded (yathā hi rāmo dharmātmā), perform that with focused mind (tat kuruṣva samāhitaḥ); abide by your own pact, O king (rājan tiṣṭha svasamaye), and be true to your sworn promise (bhava satyapratiśravaḥ)!”
+“Whatever righteous-souled Rāma has commanded (_yathā hi rāmo dharmātmā_), perform that with focused mind (_tat kuruṣva samāhitaḥ_); abide by your own pact, O king (_rājan tiṣṭha svasamaye_), and be true to your sworn promise (_bhava satyapratiśravaḥ_)!”
 </details>
 </details>
 

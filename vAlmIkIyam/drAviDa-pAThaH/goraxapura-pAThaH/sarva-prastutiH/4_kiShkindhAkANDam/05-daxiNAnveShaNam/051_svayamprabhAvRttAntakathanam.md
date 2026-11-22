@@ -86,7 +86,7 @@ and sainted lady who is dressed in black deerskin and conducting herself in prob
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus (ity uktvā), Hanumān there addressed that illustrious female ascetic (tāpasīṃ mahābhāgām), clad in bark-cloth and black antelope skin (cīrakṛṣṇājināmbarām) and practicing righteousness (dharmacāriṇīm):
+Having spoken thus (_ity uktvā_), Hanumān there addressed that illustrious female ascetic (_tāpasīṃ mahābhāgām_), clad in bark-cloth and black antelope skin (_cīrakṛṣṇājināmbarām_) and practicing righteousness (_dharmacāriṇīm_):
 </details>
 </details>
 
@@ -171,11 +171,11 @@ incarceration...] whose trees are all these golden ones, splendent like young su
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “We have suddenly (sahasā) entered this darkness-shrouded cavern (bilaṃ timirasaṃvṛtam), thoroughly exhausted by hunger and thirst (kṣutpipāsāpariśrāntāḥ) and utterly weary on all sides.
+**2:** “We have suddenly (_sahasā_) entered this darkness-shrouded cavern (_bilaṃ timirasaṃvṛtam_), thoroughly exhausted by hunger and thirst (_kṣutpipāsāpariśrāntāḥ_) and utterly weary on all sides.
 
-**3:** Parched with thirst (pipāsitāḥ), we entered this vast chasm of the earth (mahad dharaṇyā vivaram); but upon beholding these manifold objects (bhāvān vividhān) of such kind, resembling wonders (adbhutopamān),
+**3:** Parched with thirst (_pipāsitāḥ_), we entered this vast chasm of the earth (_mahad dharaṇyā vivaram_); but upon beholding these manifold objects (_bhāvān vividhān_) of such kind, resembling wonders (_adbhutopamān_),
 
-**4:** we are deeply agitated (pravyathitāḥ), bewildered (sambhrāntāḥ), and bereft of our senses (naṣṭacetasaḥ). Whose are these golden trees resembling the newly risen sun (taruṇādityasaṃnibhāḥ),
+**4:** we are deeply agitated (_pravyathitāḥ_), bewildered (_sambhrāntāḥ_), and bereft of our senses (_naṣṭacetasaḥ_). Whose are these golden trees resembling the newly risen sun (_taruṇādityasaṃnibhāḥ_),
 </details>
 </details>
 
@@ -251,9 +251,9 @@ completely golden trees... by whose splendour [they are rendered thus?] [4-51-6b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** and these pure edible roots and fruits (śucīny abhyavahārāṇi mūlāni ca phalāni ca), and these golden and silver palaces (vimānāni) and mansions (gṛhāṇi),
+**5:** and these pure edible roots and fruits (_śucīny abhyavahārāṇi mūlāni ca phalāni ca_), and these golden and silver palaces (_vimānāni_) and mansions (_gṛhāṇi_),
 
-**6:** fitted with windows of refined gold (tapanīyagavākṣāṇi) and covered with lattices of gems (maṇijālāvṛtāni), and these blossoming, fruit-laden, auspicious, and fragrant (surabhigandhayaḥ) [trees]?
+**6:** fitted with windows of refined gold (_tapanīyagavākṣāṇi_) and covered with lattices of gems (_maṇijālāvṛtāni_), and these blossoming, fruit-laden, auspicious, and fragrant (_surabhigandhayaḥ_) [trees]?
 </details>
 </details>
 
@@ -339,9 +339,9 @@ it..." [Thus Hanuma requested that sainted lady.] [4-51-8b, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “By whose ascetic splendor (kasya tejasā) do these trees consist of jāmbūnada gold (jāmbūnadamayāḥ pādapāḥ), and how have golden lotuses (kāñcanāni padmāni) sprung up in the pellucid water?
+**7:** “By whose ascetic splendor (_kasya tejasā_) do these trees consist of _jāmbūnada_ gold (_jāmbūnadamayāḥ pādapāḥ_), and how have golden lotuses (_kāñcanāni padmāni_) sprung up in the pellucid water?
 
-**8:** How are golden fishes (matsyāḥ sauvarṇāḥ) seen together with tortoises (saha kacchapaiḥ)? Is this from thy own power (ātmanas tv anubhāvād vā), or whose ascetic might (tapobalam) is this?
+**8:** How are golden fishes (_matsyāḥ sauvarṇāḥ_) seen together with tortoises (_saha kacchapaiḥ_)? Is this from thy own power (_ātmanas tv anubhāvād vā_), or whose ascetic might (_tapobalam_) is this?
 </details>
 </details>
 
@@ -393,7 +393,7 @@ being of all the beings, she replied Hanuma. [4-51-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto all of us who are ignorant [of this] (ajānatāṃ naḥ sarveṣām), thou oughtest to relate everything (sarvam ākhyātum arhasi).” Thus addressed by Hanumān, the female ascetic practicing righteousness,
+Unto all of us who are ignorant [of this] (_ajānatāṃ naḥ sarveṣām_), thou oughtest to relate everything (_sarvam ākhyātum arhasi_).” Thus addressed by Hanumān, the female ascetic practicing righteousness,
 </details>
 </details>
 
@@ -450,7 +450,7 @@ lady started her narration.] [4-51-10b]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-delighting in the welfare of all beings (sarvabhūtahite ratā), replied to Hanumān: “O foremost of monkeys, there was a mighty-splendored conjurer of illusions (māyāvī) named Maya;
+delighting in the welfare of all beings (_sarvabhūtahite ratā_), replied to Hanumān: “O foremost of monkeys, there was a mighty-splendored conjurer of illusions (_māyāvī_) named Maya;
 </details>
 </details>
 
@@ -502,7 +502,7 @@ golden and superb mansion was constructed... [4-51-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-by him was this entire golden forest fashioned through his wondrous creative power (māyayā). Formerly he was the celestial architect (viśvakarmā) of the chief Dānavas.
+by him was this entire golden forest fashioned through his wondrous creative power (_māyayā_). Formerly he was the celestial architect (_viśvakarmā_) of the chief Dānavas.
 </details>
 </details>
 
@@ -585,7 +585,7 @@ crosswise benefit to gods.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He by whom this divine golden mansion (kāñcanaṃ divyaṃ bhavanottamam) was constructed performed austerities (tapas taptvā) for thousands of years (varṣasahasrāṇi) in this great forest,
+“He by whom this divine golden mansion (_kāñcanaṃ divyaṃ bhavanottamam_) was constructed performed austerities (_tapas taptvā_) for thousands of years (_varṣasahasrāṇi_) in this great forest,
 </details>
 </details>
 
@@ -637,7 +637,7 @@ forest for some time, privileged with all his wishes... [4-51-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and obtained a boon from the Grandsire (pitāmahād varaṃ lebhe)—all the wealth of Uśanas (sarvam auśanasaṃ dhanam). Having fashioned everything, that mighty lord of all desires (sarvakāmeśvaraḥ) then
+and obtained a boon from the Grandsire (_pitāmahād varaṃ lebhe_)—all the wealth of Uśanas (_sarvam auśanasaṃ dhanam_). Having fashioned everything, that mighty lord of all desires (_sarvakāmeśvaraḥ_) then
 </details>
 </details>
 
@@ -691,7 +691,7 @@ nymph, called Hema... [4-51-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-dwelt happily (uvāsa sukhitaḥ) for some time in this great forest. When that bull among Dānavas (dānavapuṅgavam) became attached to the Apsaras Hemā (apsarasi hemāyāṃ saktam),
+dwelt happily (_uvāsa sukhitaḥ_) for some time in this great forest. When that bull among Dānavas (_dānavapuṅgavam_) became attached to the Apsaras Hemā (_apsarasi hemāyāṃ saktam_),
 </details>
 </details>
 
@@ -746,7 +746,7 @@ mansion, are beneficed by Brahma for Hema... [4-51-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the lord Purandara [Indra], striding forth with valor (vikramyaiva) and seizing his thunderbolt (aśaniṃ gṛhya), slew him (jaghāna); and this supreme forest was bestowed by Brahmā upon Hemā.
+the lord Purandara [Indra], striding forth with valor (_vikramyaiva_) and seizing his thunderbolt (_aśaniṃ gṛhya_), slew him (_jaghāna_); and this supreme forest was bestowed by Brahmā upon Hemā.
 </details>
 </details>
 
@@ -806,7 +806,7 @@ safeguarding this mansion of her, [that apsara] Hema... [4-51-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And [bestowed upon her were] perpetual enjoyment of desires (śāśvataḥ kāmabhogaś ca) and this golden mansion (gṛhaṃ cedaṃ hiraṇmayam). I am Svayamprabhā, daughter of Merusāvarṇi (duhitā merusāvarṇeḥ);
+“And [bestowed upon her were] perpetual enjoyment of desires (_śāśvataḥ kāmabhogaś ca_) and this golden mansion (_gṛhaṃ cedaṃ hiraṇmayam_). I am Svayamprabhā, daughter of Merusāvarṇi (_duhitā merusāvarṇeḥ_);
 </details>
 </details>
 
@@ -879,7 +879,7 @@ hospitality to Bharata, that sage says this.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I guard this mansion of Hemā's (idaṃ rakṣāmi bhavanaṃ hemāyāḥ), O best of monkeys. Hemā, skilled in dance and song (nṛttagītaviśāradā), is my dear friend (mama priyasakhī);
+I guard this mansion of Hemā&#x27;s (_idaṃ rakṣāmi bhavanaṃ hemāyāḥ_), O best of monkeys. Hemā, skilled in dance and song (_nṛttagītaviśāradā_), is my dear friend (_mama priyasakhī_);
 </details>
 </details>
 
@@ -931,7 +931,7 @@ how you all have discovered this impassable forest... [4-51-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having been granted a boon by her (tayā dattavarā cāsmi), I guard this great mansion. What is your business (kiṃ kāryam), or for whose sake do you traverse these trackless forests (kāntārāṇi prapadyatha)?
+having been granted a boon by her (_tayā dattavarā cāsmi_), I guard this great mansion. What is your business (_kiṃ kāryam_), or for whose sake do you traverse these trackless forests (_kāntārāṇi prapadyatha_)?
 </details>
 </details>
 
@@ -995,7 +995,7 @@ monkeys.] [4-51-19b, 19c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And how was this inaccessible forest (vanaṃ durgam) discovered by you (yuṣmābhir upalakṣitam)? Having eaten (bhuktvā) these pure edible roots and fruits and having drunk water (pītvā ca pānīyam), thou oughtest to tell me everything.”
+And how was this inaccessible forest (_vanaṃ durgam_) discovered by you (_yuṣmābhir upalakṣitam_)? Having eaten (_bhuktvā_) these pure edible roots and fruits and having drunk water (_pītvā ca pānīyam_), thou oughtest to tell me everything.”
 </details>
 </details>
 

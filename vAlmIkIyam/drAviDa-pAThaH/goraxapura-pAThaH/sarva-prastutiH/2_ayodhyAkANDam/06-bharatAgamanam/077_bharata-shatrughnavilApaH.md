@@ -91,7 +91,7 @@ performed by relatives, most desirably by a son of the deceased.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the ten days of mourning had passed (daśāhe 'tigate) and the king’s son had performed the purificatory rites (kṛta-śauco nṛpātmajaḥ), upon the arrival of the twelfth day (dvādaśe 'hani samprāpte) he performed the ancestral śrāddha ceremonies (śrāddha-karmāṇy akārayat).
+Then, when the ten days of mourning had passed (_daśāhe &#x27;tigate_) and the king’s son had performed the purificatory rites (_kṛta-śauco nṛpātmajaḥ_), upon the arrival of the twelfth day (_dvādaśe &#x27;hani samprāpte_) he performed the ancestral _śrāddha_ ceremonies (_śrāddha-karmāṇy akārayat_).
 </details>
 </details>
 
@@ -149,7 +149,7 @@ cooked rice, very valuable clothes and various other kinds of presents to Brahma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To the Brāhmaṇas he bestowed jewels, wealth, and abundant food (ratnaṃ dhanam annaṃ ca puṣkalam), as well as costly garments and manifold gems (vāsāṃsi ca mahārhāṇi ratnāni vividhāni ca).
+To the Brāhmaṇas he bestowed jewels, wealth, and abundant food (_ratnaṃ dhanam annaṃ ca puṣkalam_), as well as costly garments and manifold gems (_vāsāṃsi ca mahārhāṇi ratnāni vividhāni ca_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ houses to Brahmans.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Flocks of goats, abundant silver (bāstikaṃ bahu śuklaṃ ca), and cows by the hundreds (gāś cāpi śataśaḥ), maidservants and manservants, vehicles, and spacious mansions (dāsī-dāsaṃ ca yānaṃ ca veśmāni sumahānti ca) did the son bestow upon the Brāhmaṇas for the benefit of that king in the hereafter (rājñas tasyaurdhvadaihikam).
+Flocks of goats, abundant silver (_bāstikaṃ bahu śuklaṃ ca_), and cows by the hundreds (_gāś cāpi śataśaḥ_), maidservants and manservants, vehicles, and spacious mansions (_dāsī-dāsaṃ ca yānaṃ ca veśmāni sumahānti ca_) did the son bestow upon the Brāhmaṇas for the benefit of that king in the hereafter (_rājñas tasyaurdhvadaihikam_).
 </details>
 </details>
 
@@ -243,7 +243,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at the hour of dawn on the thirteenth day (prabhāta-samaye divase 'tha trayodaśe), mighty-armed Bharata lamented, swooning with grief (vilalāpa... śoka-mūrchitaḥ).
+Then, at the hour of dawn on the thirteenth day (_prabhāta-samaye divase &#x27;tha trayodaśe_), mighty-armed Bharata lamented, swooning with grief (_vilalāpa... śoka-mūrchitaḥ_).
 </details>
 </details>
 
@@ -315,9 +315,9 @@ exile to the forest, I now become abandoned wholly alone, by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Having arrived at the foot of the funeral pyre for the ritual clearing and bone-gathering (śodhanārtham upāgataḥ citā-mūle), his throat choked with sobbing cries (śabdāpihita-kaṇṭhas tu), deeply afflicted he spoke these words to his father:
+**5:** Having arrived at the foot of the funeral pyre for the ritual clearing and bone-gathering (_śodhanārtham upāgataḥ citā-mūle_), his throat choked with sobbing cries (_śabdāpihita-kaṇṭhas tu_), deeply afflicted he spoke these words to his father:
 
-**6:** “O father, since that brother Rāghava to whose care I was entrusted by you (yasmin nisṛṣṭo 'haṃ tvayā bhrātari rāghave) has gone forth into the forest, I am now forsaken by you in an empty world (śūnye tyakto 'smy ahaṃ tvayā)!”
+**6:** “O father, since that brother Rāghava to whose care I was entrusted by you (_yasmin nisṛṣṭo &#x27;haṃ tvayā bhrātari rāghave_) has gone forth into the forest, I am now forsaken by you in an empty world (_śūnye tyakto &#x27;smy ahaṃ tvayā_)!”
 </details>
 </details>
 
@@ -378,7 +378,7 @@ Rama, her support, has been sent away from home to the forest?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having forsaken that mother Kausalyā—the son of which helpless lady, her sole refuge (yasyā gatir anāthāyāḥ putraḥ), has been sent away into the forest—whither have you gone, O King, O father?”
+“Having forsaken that mother Kausalyā—the son of which helpless lady, her sole refuge (_yasyā gatir anāthāyāḥ putraḥ_), has been sent away into the forest—whither have you gone, O King, O father?”
 </details>
 </details>
 
@@ -435,7 +435,7 @@ was depressed and began to cry loudly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that spot of the pyre-circle strewn with charred bones and ruddy with ashes (bhasmāruṇaṃ tac ca dagdhāsthi sthāna-maṇḍalam)—the place where his father’s body had been extinguished (pituḥ śarīra-nirvāṇam)—groaning aloud, he sank down in despair (niṣṭanan viṣasāda saḥ).
+Beholding that spot of the pyre-circle strewn with charred bones and ruddy with ashes (_bhasmāruṇaṃ tac ca dagdhāsthi sthāna-maṇḍalam_)—the place where his father’s body had been extinguished (_pituḥ śarīra-nirvāṇam_)—groaning aloud, he sank down in despair (_niṣṭanan viṣasāda saḥ_).
 </details>
 </details>
 
@@ -489,7 +489,7 @@ the god of celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding it, weeping and afflicted (rudan dīnaḥ), he fell to the surface of the earth like the mechanical ceremonial banner of Indra slipping down even while being raised aloft (utthāpyamānaḥ śakrasya yantra-dhvaja iva cyutaḥ).
+Beholding it, weeping and afflicted (_rudan dīnaḥ_), he fell to the surface of the earth like the mechanical ceremonial banner of Indra slipping down even while being raised aloft (_utthāpyamānaḥ śakrasya yantra-dhvaja iva cyutaḥ_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ once rushed to the fallen Yayati at the time of his death.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all his ministers rushed toward that prince of pure vows (abhipetus tataḥ sarve tasyāmātyāḥ śuci-vratam), just as the sages rushed toward King Yayāti when he fell at the exhaustion of his merit (anta-kāle nipatitaṃ yayātim ṛṣayo yathā).
+Then all his ministers rushed toward that prince of pure vows (_abhipetus tataḥ sarve tasyāmātyāḥ śuci-vratam_), just as the sages rushed toward King Yayāti when he fell at the exhaustion of his merit (_anta-kāle nipatitaṃ yayātim ṛṣayo yathā_).
 </details>
 </details>
 
@@ -594,7 +594,7 @@ the king, fell unconscious on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Śatrughna too, beholding Bharata overwhelmed with grief (śoka-pariplutaḥ) and remembering the protector of the earth (bhūmipālam anusmaran), fell senseless upon the ground (visaṃjño nyapatad bhūmau).
+Śatrughna too, beholding Bharata overwhelmed with grief (_śoka-pariplutaḥ_) and remembering the protector of the earth (_bhūmipālam anusmaran_), fell senseless upon the ground (_visaṃjño nyapatad bhūmau_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ as he was.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of his senses like one distraught (unmatta iva niścetā), deeply afflicted he lamented (vilalāpa suduḥkhitaḥ), recalling again and again all those manifold expressions of his father’s virtues (smṛtvā pitur guṇāṅgāni tāni tāni tathā tathā).
+Bereft of his senses like one distraught (_unmatta iva niścetā_), deeply afflicted he lamented (_vilalāpa suduḥkhitaḥ_), recalling again and again all those manifold expressions of his father’s virtues (_smṛtvā pitur guṇāṅgāni tāni tāni tathā tathā_).
 </details>
 </details>
 
@@ -710,7 +710,7 @@ by my father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A fierce and fathomless ocean of grief (tīvraḥ... akṣobhyaḥ... śoka-sāgaraḥ), having Mantharā for its source (mantharā-prabhavaḥ), teeming with the crocodile of Kaikeyī (kaikeyī-grāha-saṅkulaḥ), and consisting of the granting of boons (varadāna-mayaḥ), has plunged us into ruin (amajjayat)!”
+“A fierce and fathomless ocean of grief (_tīvraḥ... akṣobhyaḥ... śoka-sāgaraḥ_), having Mantharā for its source (_mantharā-prabhavaḥ_), teeming with the crocodile of Kaikeyī (_kaikeyī-grāha-saṅkulaḥ_), and consisting of the granting of boons (_varadāna-mayaḥ_), has plunged us into ruin (_amajjayat_)!”
 </details>
 </details>
 
@@ -762,7 +762,7 @@ caressed by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whither have you gone, O father, forsaking weeping Bharata (bharataṃ hitvā vilapantam), who is tender, young, and ever fondly cherished by you (sukumāraṃ ca bālaṃ ca satataṃ lālitaṃ tvayā)?”
+“Whither have you gone, O father, forsaking weeping Bharata (_bharataṃ hitvā vilapantam_), who is tender, young, and ever fondly cherished by you (_sukumāraṃ ca bālaṃ ca satataṃ lālitaṃ tvayā_)?”
 </details>
 </details>
 
@@ -818,7 +818,7 @@ clothes, and jewels. Who else will do it (now) for us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Did you not always press upon us all our choice of foods, drinks, garments, and ornaments (bhojyeṣu pāneṣu vastreṣv ābharaṇeṣu ca pravārayasi naḥ sarvān)? Who else will do that for us now (tan naḥ ko 'nyaḥ kariṣyati)?”
+“Did you not always press upon us all our choice of foods, drinks, garments, and ornaments (_bhojyeṣu pāneṣu vastreṣv ābharaṇeṣu ca pravārayasi naḥ sarvān_)? Who else will do that for us now (_tan naḥ ko &#x27;nyaḥ kariṣyati_)?”
 </details>
 </details>
 
@@ -870,7 +870,7 @@ riven even when it is the time to be riven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when the time for riving asunder has arrived (avadāraṇa-kāle tu), the earth is not cleft in twain (pṛthivī nāvadīryate), though bereft of you, the righteous and high-souled monarch (vihīnā tvayā rājñā dharmajñena mahātmanā)!”
+“Even when the time for riving asunder has arrived (_avadāraṇa-kāle tu_), the earth is not cleft in twain (_pṛthivī nāvadīryate_), though bereft of you, the righteous and high-souled monarch (_vihīnā tvayā rājñā dharmajñena mahātmanā_)!”
 </details>
 </details>
 
@@ -923,7 +923,7 @@ the significance of life for me? I shall enter a fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now that my father has attained heaven (pitari svargam āpanne) and Rāma has resorted to the forest, what power have I to go on living (kiṃ me jīvita-sāmarthyam)? I shall enter the blazing fire (pravekṣyāmi hutāśanam)!”
+“Now that my father has attained heaven (_pitari svargam āpanne_) and Rāma has resorted to the forest, what power have I to go on living (_kiṃ me jīvita-sāmarthyam_)? I shall enter the blazing fire (_pravekṣyāmi hutāśanam_)!”
 </details>
 </details>
 
@@ -984,7 +984,7 @@ where Ikshvaku used to reign. I shall retire to a hermitage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of both my brother and my father (hīno bhrātrā ca pitrā ca), I shall not enter desolate Ayodhyā ruled by the Ikṣvākus (śūnyām ikṣvāku-pālitām ayodhyāṃ na pravekṣyāmi); I shall enter the ascetic forest (pravekṣyāmi tapovanam)!”
+“Bereft of both my brother and my father (_hīno bhrātrā ca pitrā ca_), I shall not enter desolate Ayodhyā ruled by the Ikṣvākus (_śūnyām ikṣvāku-pālitām ayodhyāṃ na pravekṣyāmi_); I shall enter the ascetic forest (_pravekṣyāmi tapovanam_)!”
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ companions were disturbed very much, once again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the lamentation of those two princes and beholding that calamity (tayor vilapitaṃ śrutvā vyasanaṃ cānvavekṣya tat), all their followers grew even more sorely distressed (bhṛśam ārtatarā bhūyaḥ sarva evānugāminaḥ).
+Hearing the lamentation of those two princes and beholding that calamity (_tayor vilapitaṃ śrutvā vyasanaṃ cānvavekṣya tat_), all their followers grew even more sorely distressed (_bhṛśam ārtatarā bhūyaḥ sarva evānugāminaḥ_).
 </details>
 </details>
 
@@ -1089,7 +1089,7 @@ ground, like two bulls whose horns have been broken.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, dejected and exhausted (viṣaṇṇau śrāntau ca), both Śatrughna and Bharata writhed upon the ground (dharaṇyāṃ saṃvyaveṣṭetām) like two bulls with broken horns (bhagna-śṛṅgāv ivarṣabhau).
+Then, dejected and exhausted (_viṣaṇṇau śrāntau ca_), both Śatrughna and Bharata writhed upon the ground (_dharaṇyāṃ saṃvyaveṣṭetām_) like two bulls with broken horns (_bhagna-śṛṅgāv ivarṣabhau_).
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ raised up that Bharata from the ground and spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then their father’s family priest Vasiṣṭha, endowed with noble nature and supreme wisdom (prakṛtimān vaidyaḥ), raised Bharata up and spoke these words to him (bharataṃ vākyam utthāpya tam uvāca ha):
+Then their father’s family priest Vasiṣṭha, endowed with noble nature and supreme wisdom (_prakṛtimān vaidyaḥ_), raised Bharata up and spoke these words to him (_bharataṃ vākyam utthāpya tam uvāca ha_):
 </details>
 </details>
 
@@ -1189,7 +1189,7 @@ you hanging down here, when the ceremony of collecting the bones is still unfini
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the thirteenth day since your father’s cremation, O lord (trayodaśo 'yaṃ divasaḥ pitur vṛttasya te vibho); while the gathering of the remaining bones is still unfinished (sāvaśeṣāsthi-nicaye), why do you delay here (kim iha tvaṃ vilambase)?”
+“This is the thirteenth day since your father’s cremation, O lord (_trayodaśo &#x27;yaṃ divasaḥ pitur vṛttasya te vibho_); while the gathering of the remaining bones is still unfinished (_sāvaśeṣāsthi-nicaye_), why do you delay here (_kim iha tvaṃ vilambase_)?”
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ behave like this."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Three pairs of opposites (trīṇi dvandvāni) operate without distinction among all living beings (bhūteṣu pravṛttāny aviśeṣataḥ); since those are inescapable (teṣu cāparihāryeṣu), you ought not to yield to grief in this manner (naivaṃ bhavitum arhasi).”
+“Three pairs of opposites (_trīṇi dvandvāni_) operate without distinction among all living beings (_bhūteṣu pravṛttāny aviśeṣataḥ_); since those are inescapable (_teṣu cāparihāryeṣu_), you ought not to yield to grief in this manner (_naivaṃ bhavitum arhasi_).”
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ about the origin and dissolution of all beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sumantra too, who knew the true nature of things (tattvajñaḥ), raised Śatrughna up, consoled him (utthāpyābhiprasādya ca), and discoursed to him upon the origin and dissolution of all beings (śrāvayām āsa... sarva-bhūta-bhavābhavam).
+Sumantra too, who knew the true nature of things (_tattvajñaḥ_), raised Śatrughna up, consoled him (_utthāpyābhiprasādya ca_), and discoursed to him upon the origin and dissolution of all beings (_śrāvayām āsa... sarva-bhūta-bhavābhavam_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ rain and the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having risen up, those two illustrious tigers among men shone forth (utthitau ca naravyāghrau prakāśete yaśasvinau) like two separate banners of Indra drenched by rain and scorched by the sun (varṣātapa-pariklinnau pṛthag indra-dhvajāv iva).
+Having risen up, those two illustrious tigers among men shone forth (_utthitau ca naravyāghrau prakāśete yaśasvinau_) like two separate banners of Indra drenched by rain and scorched by the sun (_varṣātapa-pariklinnau pṛthag indra-dhvajāv iva_).
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ pertaining to the thirteenth day.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the two royal sons wiped away their tears (aśrūṇi parimṛdnantau), their eyes reddened and their voices faint with grief (raktākṣau dīna-bhāṣiṇau), the ministers urged them on toward the remaining rites (amātyās tvarayanti sma tanayau cāparāḥ kriyāḥ).
+As the two royal sons wiped away their tears (_aśrūṇi parimṛdnantau_), their eyes reddened and their voices faint with grief (_raktākṣau dīna-bhāṣiṇau_), the ministers urged them on toward the remaining rites (_amātyās tvarayanti sma tanayau cāparāḥ kriyāḥ_).
 </details>
 </details>
 

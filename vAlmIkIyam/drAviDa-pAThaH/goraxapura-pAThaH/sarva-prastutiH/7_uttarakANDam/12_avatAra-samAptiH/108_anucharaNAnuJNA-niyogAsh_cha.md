@@ -49,7 +49,7 @@ Swift-footed messengers dispatched by Rāma reach Madhurā in three days and nig
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Urged onward by Rāma’s command (rāma-vākyena coditāḥ), those swift-striding messengers (laghu-vikramāḥ) hastened straightway to Madhurā (prajagmur madhurāṃ śīghram) and made no halt along the way (cakrur vāsaṃ na cādhvani).
+Urged onward by Rāma’s command (_rāma-vākyena coditāḥ_), those swift-striding messengers (_laghu-vikramāḥ_) hastened straightway to Madhurā (_prajagmur madhurāṃ śīghram_) and made no halt along the way (_cakrur vāsaṃ na cādhvani_).
 </details>
 </details>
 
@@ -80,7 +80,7 @@ Urged onward by Rāma’s command (rāma-vākyena coditāḥ), those swift-strid
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching Madhurā in three days and nights (tribhir ahorātraiḥ samprāpya madhurām atha), they recounted all of that exactly as it truly stood (yathātattvam ācakhyuḥ sarvam eva tat) to Śatrughna:
+Reaching Madhurā in three days and nights (_tribhir ahorātraiḥ samprāpya madhurām atha_), they recounted all of that exactly as it truly stood (_yathātattvam ācakhyuḥ sarvam eva tat_) to Śatrughna:
 </details>
 </details>
 
@@ -120,9 +120,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** the relinquishment of Lakṣmaṇa (lakṣmaṇasya parityāgam), the solemn vow of Rāghava (pratijñāṃ rāghavasya ca), the consecration of his two sons (putrayor abhiṣekaṃ ca), and likewise the citizens’ resolve to follow him (paurānugamanaṃ tathā);
+**3:** the relinquishment of Lakṣmaṇa (_lakṣmaṇasya parityāgam_), the solemn vow of Rāghava (_pratijñāṃ rāghavasya ca_), the consecration of his two sons (_putrayor abhiṣekaṃ ca_), and likewise the citizens’ resolve to follow him (_paurānugamanaṃ tathā_);
 
-**4:** how the lovely city for Kuśa upon the flanks of the Vindhya mountains (vindhya-parvata-rodhasi) was founded by the wise Rāma under the name Kuśāvatī (kuśāvatīti nāmnā sā kṛtā rāmeṇa dhīmatā), and how the fair capital named Śrāvastī was established and proclaimed for Lava (śrāvastīti purī ramyā śrāvitā ca lavasya ha);
+**4:** how the lovely city for Kuśa upon the flanks of the Vindhya mountains (_vindhya-parvata-rodhasi_) was founded by the wise Rāma under the name Kuśāvatī (_kuśāvatīti nāmnā sā kṛtā rāmeṇa dhīmatā_), and how the fair capital named Śrāvastī was established and proclaimed for Lava (_śrāvastīti purī ramyā śrāvitā ca lavasya ha_);
 </details>
 </details>
 
@@ -159,9 +159,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** and how, having rendered Ayodhyā empty of its folk (ayodhyāṃ vijanāṃ kṛtvā), both Rāghava and Bharata—those mighty chariot-warriors (mahārathau)—had made ready their departure for heaven (svargasya gamanodyogaṃ kṛtavantau).
+**5:** and how, having rendered Ayodhyā empty of its folk (_ayodhyāṃ vijanāṃ kṛtvā_), both Rāghava and Bharata—those mighty chariot-warriors (_mahārathau_)—had made ready their departure for heaven (_svargasya gamanodyogaṃ kṛtavantau_).
 
-**6:** Having thus swiftly reported everything to the great-souled Śatrughna (evaṃ sarvaṃ nivedyāśu śatrughnāya mahātmane), those messengers then fell silent (viremus te tato dūtāḥ) and said, “Make haste, O King!” (tvara rājeti cābruvan).
+**6:** Having thus swiftly reported everything to the great-souled Śatrughna (_evaṃ sarvaṃ nivedyāśu śatrughnāya mahātmane_), those messengers then fell silent (_viremus te tato dūtāḥ_) and said, “Make haste, O King!” (_tvara rājeti cābruvan_).
 </details>
 </details>
 
@@ -202,9 +202,9 @@ Hearing of the impending end of his dynasty’s earthly sojourn, Śatrughna conv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Hearing of that dread-seeming passing of the dynasty now at hand (ghora-saṅkāśaṃ kula-kṣayam upasthitam), he summoned his ministers of state (prakṛtīs tu samānīya) and his royal chaplain Kāñcana (kāñcanaṃ ca purodhasam).
+**7:** Hearing of that dread-seeming passing of the dynasty now at hand (_ghora-saṅkāśaṃ kula-kṣayam upasthitam_), he summoned his ministers of state (_prakṛtīs tu samānīya_) and his royal chaplain Kāñcana (_kāñcanaṃ ca purodhasam_).
 
-**8:** To them the delight of the Raghus (raghanandanaḥ) recounted everything just as it had come to pass (sarvaṃ yathāvṛttam abravīt), along with his own imminent departure from this world (ātmanaś ca viparyāsaṃ bhaviṣyam) together with his brothers (bhrātṛbhiḥ saha).
+**8:** To them the delight of the Raghus (_raghanandanaḥ_) recounted everything just as it had come to pass (_sarvaṃ yathāvṛttam abravīt_), along with his own imminent departure from this world (_ātmanaś ca viparyāsaṃ bhaviṣyam_) together with his brothers (_bhrātṛbhiḥ saha_).
 </details>
 </details>
 
@@ -235,7 +235,7 @@ Hearing of the impending end of his dynasty’s earthly sojourn, Śatrughna conv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that heroic sovereign of men consecrated his two sons (putra-dvayaṃ vīraḥ so ’bhyaṣiñcan narādhipaḥ): Subāhu received Madhurā (subāhur madhurāṃ lebhe), and Śatrughātin received Vaidiśa (śatrughātī ca vaidiśam).
+Thereupon that heroic sovereign of men consecrated his two sons (_putra-dvayaṃ vīraḥ so ’bhyaṣiñcan narādhipaḥ_): Subāhu received Madhurā (_subāhur madhurāṃ lebhe_), and Śatrughātin received Vaidiśa (_śatrughātī ca vaidiśam_).
 </details>
 </details>
 
@@ -268,7 +268,7 @@ Thereupon that heroic sovereign of men consecrated his two sons (putra-dvayaṃ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dividing that army of Madhurā in two for his two sons (dvidhā kṛtvā tu tāṃ senāṃ mādhurīṃ putrayor dvayoḥ) and apportioning fitting wealth as well (dhanaṃ ca yuktaṃ kṛtvā vai), the monarch established them in their realms (sthāpayāmāsa pārthivaḥ).
+Dividing that army of Madhurā in two for his two sons (_dvidhā kṛtvā tu tāṃ senāṃ mādhurīṃ putrayor dvayoḥ_) and apportioning fitting wealth as well (_dhanaṃ ca yuktaṃ kṛtvā vai_), the monarch established them in their realms (_sthāpayāmāsa pārthivaḥ_).
 </details>
 </details>
 
@@ -299,7 +299,7 @@ Dividing that army of Madhurā in two for his two sons (dvidhā kṛtvā tu tā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having installed Subāhu in Madhurā and Śatrughātin in Vaideśa (subāhuṃ madhurāyāṃ ca vaideśe śatrughātinam), Rāghava [Śatrughna] then journeyed to Ayodhyā in a single chariot (yayau ... ayodhyāṃ rathenaikena rāghavaḥ).
+Having installed Subāhu in Madhurā and Śatrughātin in Vaideśa (_subāhuṃ madhurāyāṃ ca vaideśe śatrughātinam_), Rāghava [Śatrughna] then journeyed to Ayodhyā in a single chariot (_yayau ... ayodhyāṃ rathenaikena rāghavaḥ_).
 </details>
 </details>
 
@@ -333,7 +333,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld the great-souled Rāma blazing like a sacrificial fire (jvalantam iva pāvakam), clad in fine linen garments (sūkṣma-kṣaumāmbara-dharam) in the company of imperishable sages (munibhiḥ sārdham akṣayaiḥ).
+There he beheld the great-souled Rāma blazing like a sacrificial fire (_jvalantam iva pāvakam_), clad in fine linen garments (_sūkṣma-kṣaumāmbara-dharam_) in the company of imperishable sages (_munibhiḥ sārdham akṣayaiḥ_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Bowing before Rāma, Śatrughna declares his unshakable resolve to accompany him
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, saluting Rāma with joined palms and disciplined senses (prāñjaliḥ prayatendriyaḥ), he spoke these words to that knower of dharma (dharmajñam), contemplating dharma alone (dharmam evānucintayan):
+Then, saluting Rāma with joined palms and disciplined senses (_prāñjaliḥ prayatendriyaḥ_), he spoke these words to that knower of dharma (_dharmajñam_), contemplating dharma alone (_dharmam evānucintayan_):
 </details>
 </details>
 
@@ -403,7 +403,7 @@ Then, saluting Rāma with joined palms and disciplined senses (prāñjaliḥ pra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having performed the consecration of my two sons, O delight of the Raghus (kṛtvābhiṣekaṃ sutayor dvayo rāghavanandana), know me, O King, to be steadfastly resolved upon following you (tavānugamane rājan viddhi māṃ kṛta-niścayam).
+“Having performed the consecration of my two sons, O delight of the Raghus (_kṛtvābhiṣekaṃ sutayor dvayo rāghavanandana_), know me, O King, to be steadfastly resolved upon following you (_tavānugamane rājan viddhi māṃ kṛta-niścayam_).
 </details>
 </details>
 
@@ -434,7 +434,7 @@ Then, saluting Rāma with joined palms and disciplined senses (prāñjaliḥ pra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor should anything else whatsoever be spoken beyond this, O hero, nor any [other] decree (na cānyad api vaktavyam ato vīra na śāsanam); I do not wish [any refusal] to be contemplated—especially by one such as myself (vilokyamānam icchāmi madvidhena viśeṣataḥ).”
+“Nor should anything else whatsoever be spoken beyond this, O hero, nor any [other] decree (_na cānyad api vaktavyam ato vīra na śāsanam_); I do not wish [any refusal] to be contemplated—especially by one such as myself (_vilokyamānam icchāmi madvidhena viśeṣataḥ_).”
 </details>
 </details>
 
@@ -465,7 +465,7 @@ Then, saluting Rāma with joined palms and disciplined senses (prāñjaliḥ pra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that resolute, unyielding determination of his (tasya tāṃ buddhim aklībām), Rāma, the delight of the Raghus, spoke to Śatrughna simply, “So be it!” (bāḍham ity eva ... vākyam uvāca ha).
+Perceiving that resolute, unyielding determination of his (_tasya tāṃ buddhim aklībām_), Rāma, the delight of the Raghus, spoke to Śatrughna simply, “So be it!” (_bāḍham ity eva ... vākyam uvāca ha_).
 </details>
 </details>
 
@@ -496,7 +496,7 @@ Perceiving that resolute, unyielding determination of his (tasya tāṃ buddhim 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the very close of those words of his (tasya vākyasya vākyānte), shapeshifting monkeys (vānarāḥ kāma-rūpiṇaḥ) and hosts of bears and rākṣasas (ṛkṣa-rākṣasa-saṅghāś ca) converged in countless multitudes (samāpetur anekaśaḥ).
+At the very close of those words of his (_tasya vākyasya vākyānte_), shapeshifting monkeys (_vānarāḥ kāma-rūpiṇaḥ_) and hosts of bears and rākṣasas (_ṛkṣa-rākṣasa-saṅghāś ca_) converged in countless multitudes (_samāpetur anekaśaḥ_).
 </details>
 </details>
 
@@ -527,7 +527,7 @@ At the very close of those words of his (tasya vākyasya vākyānte), shapeshift
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Placing Sugrīva at their head, all of them arrived together (sugrīvaṃ te puraskṛtya sarva eva samāgatāḥ), eager to behold that Rāma (taṃ rāmaṃ draṣṭu-manasaḥ) as he stood facing heavenward (svargāyābhimukhaṃ sthitam).
+Placing Sugrīva at their head, all of them arrived together (_sugrīvaṃ te puraskṛtya sarva eva samāgatāḥ_), eager to behold that Rāma (_taṃ rāmaṃ draṣṭu-manasaḥ_) as he stood facing heavenward (_svargāyābhimukhaṃ sthitam_).
 </details>
 </details>
 
@@ -568,7 +568,7 @@ Sons of gods, sages, and gandharvas join the monkeys and rākṣasas, declaring 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sons of the gods, sons of the sages, and sons of the gandharvas as well (deva-putrā ṛṣi-sutā gandharvāṇāṃ sutās tathā), learning of Rāma’s departure from this world (rāma-kṣayaṃ viditvā), all arrived together (sarva eva samāgatāḥ).
+Sons of the gods, sons of the sages, and sons of the gandharvas as well (_deva-putrā ṛṣi-sutā gandharvāṇāṃ sutās tathā_), learning of Rāma’s departure from this world (_rāma-kṣayaṃ viditvā_), all arrived together (_sarva eva samāgatāḥ_).
 </details>
 </details>
 
@@ -601,9 +601,9 @@ Sons of the gods, sons of the sages, and sons of the gandharvas as well (deva-pu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Saluting Rāma, all those monkeys and rākṣasas spoke (te rāmam abhivādyocuḥ sarve vānara-rākṣasāḥ): “O King, we have come steadfastly resolved upon following you (tavānugamane rājan samprāptāḥ kṛta-niścayāḥ).
+**20:** Saluting Rāma, all those monkeys and rākṣasas spoke (_te rāmam abhivādyocuḥ sarve vānara-rākṣasāḥ_): “O King, we have come steadfastly resolved upon following you (_tavānugamane rājan samprāptāḥ kṛta-niścayāḥ_).
 
-**21:** “If you were to depart without us, O supreme among men (yadi rāma vināsmābhir gacches tvaṃ puruṣottama), we should be struck down by you as though you had raised the rod of Death (yamadaṇḍam ivodyamya tvayā sma vinipātitāḥ).” Thus addressed by them, Kākutstha smiled and replied, “So be it!” (bāḍham ity abravīt smayan).
+**21:** “If you were to depart without us, O supreme among men (_yadi rāma vināsmābhir gacches tvaṃ puruṣottama_), we should be struck down by you as though you had raised the rod of Death (_yamadaṇḍam ivodyamya tvayā sma vinipātitāḥ_).” Thus addressed by them, Kākutstha smiled and replied, “So be it!” (_bāḍham ity abravīt smayan_).
 </details>
 </details>
 
@@ -634,7 +634,7 @@ Sons of the gods, sons of the sages, and sons of the gandharvas as well (deva-pu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of this (etasminn antare), the mighty Sugrīva too bowed duly before heroic Rāma (praṇamya vidhivad vīram) and made ready to address him (vijñāpayitum udyataḥ):
+In the midst of this (_etasminn antare_), the mighty Sugrīva too bowed duly before heroic Rāma (_praṇamya vidhivad vīram_) and made ready to address him (_vijñāpayitum udyataḥ_):
 </details>
 </details>
 
@@ -665,7 +665,7 @@ In the midst of this (etasminn antare), the mighty Sugrīva too bowed duly befor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having consecrated the heroic Aṅgada, O lord of men, I have come (abhiṣicyāṅgadaṃ vīram āgato ’smi nareśvara); know me, O King, to be steadfastly resolved upon following you (tavānugamane rājan viddhi māṃ kṛta-niścayam).”
+“Having consecrated the heroic Aṅgada, O lord of men, I have come (_abhiṣicyāṅgadaṃ vīram āgato ’smi nareśvara_); know me, O King, to be steadfastly resolved upon following you (_tavānugamane rājan viddhi māṃ kṛta-niścayam_).”
 </details>
 </details>
 
@@ -696,7 +696,7 @@ In the midst of this (etasminn antare), the mighty Sugrīva too bowed duly befor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Rāma—foremost of all who bring delight (rāmo ramayatāṃ varaḥ)—then spoke to the lord of monkeys, calling to mind his friendship (maitraṃ tasyānucintayan):
+Hearing those words of his, Rāma—foremost of all who bring delight (_rāmo ramayatāṃ varaḥ_)—then spoke to the lord of monkeys, calling to mind his friendship (_maitraṃ tasyānucintayan_):
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Assuring Sugrīva that he will never ascend to the supreme abode without him, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear me, O friend Sugrīva (sakhe śṛṇuṣva sugrīva): never without you (na tvayā ’haṃ vinākṛtaḥ) would I ascend either to the realm of the gods or to the great supreme abode (devalokaṃ vā paramaṃ vā padaṃ mahat)!”
+“Hear me, O friend Sugrīva (_sakhe śṛṇuṣva sugrīva_): never without you (_na tvayā ’haṃ vinākṛtaḥ_) would I ascend either to the realm of the gods or to the great supreme abode (_devalokaṃ vā paramaṃ vā padaṃ mahat_)!”
 </details>
 </details>
 
@@ -766,7 +766,7 @@ Assuring Sugrīva that he will never ascend to the supreme abode without him, R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (bibhīṣaṇam athovāca rākṣasendraṃ mahāyaśāḥ): “As long as living creatures abide (yāvat prajā dhariṣyanti), so long, O Vibhīṣaṇa—O mighty-prowessed lord of rākṣasas—shall you abide dwelling in Laṅkā (laṅkāsthas tvaṃ dhariṣyasi).
+Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (_bibhīṣaṇam athovāca rākṣasendraṃ mahāyaśāḥ_): “As long as living creatures abide (_yāvat prajā dhariṣyanti_), so long, O Vibhīṣaṇa—O mighty-prowessed lord of rākṣasas—shall you abide dwelling in Laṅkā (_laṅkāsthas tvaṃ dhariṣyasi_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as the moon and the sun endure, as long as the earth abides (yāvat tiṣṭhati medinī), and as long as my story lives in the world (yāvac ca matkathā loke), so long let sovereignty here be yours (tāvad rājyaṃ tavāstv iha).
+“As long as the moon and the sun endure, as long as the earth abides (_yāvat tiṣṭhati medinī_), and as long as my story lives in the world (_yāvac ca matkathā loke_), so long let sovereignty here be yours (_tāvad rājyaṃ tavāstv iha_).
 </details>
 </details>
 
@@ -828,7 +828,7 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Charged by me in the name of friendship (śāsitas tvaṃ sakhitvena), you must carry out my command (kāryaṃ te mama śāsanam): protect your subjects with dharma (prajāḥ saṃrakṣa dharmeṇa); you ought not to speak a word in reply (nottaraṃ vaktum arhasi). And something further I wish to tell you, O great-minded lord of rākṣasas:
+“Charged by me in the name of friendship (_śāsitas tvaṃ sakhitvena_), you must carry out my command (_kāryaṃ te mama śāsanam_): protect your subjects with dharma (_prajāḥ saṃrakṣa dharmeṇa_); you ought not to speak a word in reply (_nottaraṃ vaktum arhasi_). And something further I wish to tell you, O great-minded lord of rākṣasas:
 </details>
 </details>
 
@@ -859,7 +859,7 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Worship the Lord of the Universe, the tutelary deity of the Ikṣvāku race (ārādhaya jagannātham ikṣvāku-kula-daivatam), who is worthy of unceasing adoration by all the gods together with Indra (ārādhanīyam aniśaṃ sarvair daivaiḥ savāsavaiḥ).”
+“Worship the Lord of the Universe, the tutelary deity of the Ikṣvāku race (_ārādhaya jagannātham ikṣvāku-kula-daivatam_), who is worthy of unceasing adoration by all the gods together with Indra (_ārādhanīyam aniśaṃ sarvair daivaiḥ savāsavaiḥ_).”
 </details>
 </details>
 
@@ -892,7 +892,7 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it” (tatheti), Vibhīṣaṇa, king of the foremost rākṣasas, accepted Rāma’s word (pratijagrāha rāma-vākyam), bearing Rāghava’s command ever in mind (rāghavājñām anusmaran).
+Saying “So be it” (_tatheti_), Vibhīṣaṇa, king of the foremost rākṣasas, accepted Rāma’s word (_pratijagrāha rāma-vākyam_), bearing Rāghava’s command ever in mind (_rāghavājñām anusmaran_).
 </details>
 </details>
 
@@ -931,7 +931,7 @@ Charging Hanumān to keep his vow to live joyfully on earth as long as Rāma’s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to him, Kākutstha then addressed Hanūmān (hanūmantam athābravīt): “You whose mind is resolved upon living on (jīvite kṛta-buddhis tvam), do not break your own vow (mā pratijñāṃ vilopaya)!
+Having spoken thus to him, Kākutstha then addressed Hanūmān (_hanūmantam athābravīt_): “You whose mind is resolved upon living on (_jīvite kṛta-buddhis tvam_), do not break your own vow (_mā pratijñāṃ vilopaya_)!
 </details>
 </details>
 
@@ -962,7 +962,7 @@ Having spoken thus to him, Kākutstha then addressed Hanūmān (hanūmantam ath�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as stories of me circulate in the world, O lord of monkeys (matkathāḥ pracariṣyanti yāval loke harīśvara), so long dwell in supreme gladness, keeping my word (tāvad ramasva suprīto madvākyam anupālayan)!”
+“As long as stories of me circulate in the world, O lord of monkeys (_matkathāḥ pracariṣyanti yāval loke harīśvara_), so long dwell in supreme gladness, keeping my word (_tāvad ramasva suprīto madvākyam anupālayan_)!”
 </details>
 </details>
 
@@ -993,7 +993,7 @@ Having spoken thus to him, Kākutstha then addressed Hanūmān (hanūmantam ath�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme joy (paraṃ harṣam avāpya ca) and spoke these respectful words (vākyaṃ vijñāpayāmāsa):
+Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme joy (_paraṃ harṣam avāpya ca_) and spoke these respectful words (_vākyaṃ vijñāpayāmāsa_):
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme jo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as your purifying story circulates in the world (yāvat tava kathā loke vicariṣyati pāvanī), so long shall I abide upon the earth, keeping your command (tāvat sthāsyāmi medinyāṃ tavājñām anupālayan)!”
+“As long as your purifying story circulates in the world (_yāvat tava kathā loke vicariṣyati pāvanī_), so long shall I abide upon the earth, keeping your command (_tāvat sthāsyāmi medinyāṃ tavājñām anupālayan_)!”
 </details>
 </details>
 
@@ -1055,7 +1055,7 @@ Thus addressed by the great-souled Rāghava, Hanumān was filled with supreme jo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having spoken likewise to the aged Jāmbavān, son of Brahmā (jāmbavantaṃ tathoktvā tu vṛddhaṃ brahma-sutaṃ tathā), and to Mainda and Dvivida as well, [he declared]: “You five together with Jāmbavān (pañca jāmbavatā saha)—live on always until the age of Kali has arrived (yāvat kaliś ca samprāptas tāvaj jīvata sarvadā)!”
+And having spoken likewise to the aged Jāmbavān, son of Brahmā (_jāmbavantaṃ tathoktvā tu vṛddhaṃ brahma-sutaṃ tathā_), and to Mainda and Dvivida as well, [he declared]: “You five together with Jāmbavān (_pañca jāmbavatā saha_)—live on always until the age of Kali has arrived (_yāvat kaliś ca samprāptas tāvaj jīvata sarvadā_)!”
 </details>
 </details>
 
@@ -1088,7 +1088,7 @@ And having spoken likewise to the aged Jāmbavān, son of Brahmā (jāmbavanta�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to them, Kākutstha addressed all those remaining bears and monkeys (sarvāṃs tān ṛkṣa-vānarān): “So be it—come with me even as you desire (bāḍhaṃ gacchadhvaṃ mayā sārdhaṃ yathepsitam)!”
+Having spoken thus to them, Kākutstha addressed all those remaining bears and monkeys (_sarvāṃs tān ṛkṣa-vānarān_): “So be it—come with me even as you desire (_bāḍhaṃ gacchadhvaṃ mayā sārdhaṃ yathepsitam_)!”
 </details>
 </details>
 

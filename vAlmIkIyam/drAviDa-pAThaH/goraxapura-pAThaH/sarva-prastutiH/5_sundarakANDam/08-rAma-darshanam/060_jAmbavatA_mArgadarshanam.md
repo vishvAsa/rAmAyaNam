@@ -65,7 +65,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that speech of his (tasya tad vacanaṃ śrutvā), the son of Vālin spoke (vālisūnur abhāṣata): “The two sons of the Aśvins (aśviputrau), mighty leapers of great speed (mahāvegau balavantau plavaṃgamau),
+Having heard that speech of his (_tasya tad vacanaṃ śrutvā_), the son of Vālin spoke (_vālisūnur abhāṣata_): “The two sons of the Aśvins (_aśviputrau_), mighty leapers of great speed (_mahāvegau balavantau plavaṃgamau_),
 </details>
 </details>
 
@@ -141,9 +141,9 @@ can leap like us in the worlds either of celestials or demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** abide in supreme pride (paramaṃ darpam āsthitau) through the elation of the Grandsire’s boon (pitāmahavarotsekāt); for in order to honor the Aśvins (aśvinor mānanārthaṃ hi), the Grandsire of all the worlds (sarvalokapitāmahaḥ)—
+**2:** abide in supreme pride (_paramaṃ darpam āsthitau_) through the elation of the Grandsire’s boon (_pitāmahavarotsekāt_); for in order to honor the Aśvins (_aśvinor mānanārthaṃ hi_), the Grandsire of all the worlds (_sarvalokapitāmahaḥ_)—
 
-**3:** granted to these two in days of old (anayor dattavān purā) peerless invulnerability before all beings (sarvāvadhyatvam atulam); and intoxicated by the pride of that boon (varotsekena mattau ca), having churned the mighty army (pramathya mahatīṃ camūm)—
+**3:** granted to these two in days of old (_anayor dattavān purā_) peerless invulnerability before all beings (_sarvāvadhyatvam atulam_); and intoxicated by the pride of that boon (_varotsekena mattau ca_), having churned the mighty army (_pramathya mahatīṃ camūm_)—
 </details>
 </details>
 
@@ -192,7 +192,7 @@ to be done by us? We will go, after taking Janaki."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-of the gods (surāṇām), those two heroes of mighty strength drank the ambrosia (amṛtaṃ vīrau pītavantau mahābalau); these two alone, when thoroughly enraged (etāv eva hi saṃkruddhau), are able to destroy Laṅkā with its horses, chariots, and elephants (savājirathakuñjarām)—
+of the gods (_surāṇām_), those two heroes of mighty strength drank the ambrosia (_amṛtaṃ vīrau pītavantau mahābalau_); these two alone, when thoroughly enraged (_etāv eva hi saṃkruddhau_), are able to destroy Laṅkā with its horses, chariots, and elephants (_savājirathakuñjarām_)—
 </details>
 </details>
 
@@ -296,9 +296,9 @@ the way in which Rama's inclination would be, for the accomplishment of the obje
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** let all the other monkeys stand aside (laṅkāṃ nāśayituṃ śaktau sarve tiṣṭhantu vānarāḥ)! Nay, I alone am sufficient (aham eko 'pi paryāptaḥ) to destroy by force that city with its hosts of Rākṣasas (sarākṣasagaṇāṃ purīm)—
+**5:** let all the other monkeys stand aside (_laṅkāṃ nāśayituṃ śaktau sarve tiṣṭhantu vānarāḥ_)! Nay, I alone am sufficient (_aham eko &#x27;pi paryāptaḥ_) to destroy by force that city with its hosts of Rākṣasas (_sarākṣasagaṇāṃ purīm_)—
 
-**6:** that Laṅkā (tāṃ laṅkāṃ tarasā hantum) and Rāvaṇa of mighty strength (rāvaṇaṃ ca mahābalam); how much more so when joined by you—heroes endowed with strength and self-possessed (kiṃ punaḥ sahito vīrair balavadbhiḥ kṛtātmabhiḥ),
+**6:** that Laṅkā (_tāṃ laṅkāṃ tarasā hantum_) and Rāvaṇa of mighty strength (_rāvaṇaṃ ca mahābalam_); how much more so when joined by you—heroes endowed with strength and self-possessed (_kiṃ punaḥ sahito vīrair balavadbhiḥ kṛtātmabhiḥ_),
 </details>
 </details>
 
@@ -344,9 +344,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** accomplished in weapons (kṛtāstraiḥ), capable leapers eager for victory (plavagaiḥ śaktair bhavadbhir vijayaiṣibhiḥ)! Indeed, we have heard (iti naḥ śrutam) that Laṅkā was burned (dagdhā laṅkā) by the sheer strength of the Wind-god’s son (vāyusūnor balenaiva).
+**7:** accomplished in weapons (_kṛtāstraiḥ_), capable leapers eager for victory (_plavagaiḥ śaktair bhavadbhir vijayaiṣibhiḥ_)! Indeed, we have heard (_iti naḥ śrutam_) that Laṅkā was burned (_dagdhā laṅkā_) by the sheer strength of the Wind-god’s son (_vāyusūnor balenaiva_).
 
-**8:** To report there (iti tatra niveditum), ‘The princess was seen, yet not brought back (dṛṣṭā devī na cānītā),’ I deem wholly unbecoming (na yuktam iva paśyāmi) for you of renowned prowess (bhavadbhiḥ khyātapauruṣaiḥ).
+**8:** To report there (_iti tatra niveditum_), ‘The princess was seen, yet not brought back (_dṛṣṭā devī na cānītā_),’ I deem wholly unbecoming (_na yuktam iva paśyāmi_) for you of renowned prowess (_bhavadbhiḥ khyātapauruṣaiḥ_).
 </details>
 </details>
 
@@ -374,7 +374,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For neither in leaping is anyone your equal (nahi vaḥ plavane kaścit tulyaḥ), nor is anyone your match in valor (nāpi kaścit parākrame) across the worlds with their gods and Daityas (sāmaradaityeṣu lokeṣu), O foremost of monkeys (harisattamāḥ)!
+For neither in leaping is anyone your equal (_nahi vaḥ plavane kaścit tulyaḥ_), nor is anyone your match in valor (_nāpi kaścit parākrame_) across the worlds with their gods and Daityas (_sāmaradaityeṣu lokeṣu_), O foremost of monkeys (_harisattamāḥ_)!
 </details>
 </details>
 
@@ -408,7 +408,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having conquered Laṅkā with its multitudes of Rākṣasas (jitvā laṅkāṃ sarakṣaughām) and slain that Rāvaṇa in battle (hatvā taṃ rāvaṇaṃ raṇe), let us take Sītā and depart (sītām ādāya gacchāmaḥ), our purpose accomplished and our minds joyful (siddhārthā hṛṣṭamānasāḥ).
+Having conquered Laṅkā with its multitudes of Rākṣasas (_jitvā laṅkāṃ sarakṣaughām_) and slain that Rāvaṇa in battle (_hatvā taṃ rāvaṇaṃ raṇe_), let us take Sītā and depart (_sītām ādāya gacchāmaḥ_), our purpose accomplished and our minds joyful (_siddhārthā hṛṣṭamānasāḥ_).
 </details>
 </details>
 
@@ -437,7 +437,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When those Rākṣasas have thus had their heroes slain by Hanūmān (teṣv evaṃ hatavīreṣu rākṣaseṣu hanūmatā), what else remains to be done here (kim anyad atra kartavyam)? Taking Jānakī, let us go (gṛhītvā yāma jānakīm)!
+When those Rākṣasas have thus had their heroes slain by Hanūmān (_teṣv evaṃ hatavīreṣu rākṣaseṣu hanūmatā_), what else remains to be done here (_kim anyad atra kartavyam_)? Taking Jānakī, let us go (_gṛhītvā yāma jānakīm_)!
 </details>
 </details>
 
@@ -490,9 +490,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Let us place Janaka’s daughter (nyasyāma janakātmajām) right between Rāma and Lakṣmaṇa (rāmalakṣmaṇayor madhye); what need have we to afflict all those foremost monkeys (kiṃ vyalīkais tu tān sarvān vānarān vānararṣabhān)?
+**12:** Let us place Janaka’s daughter (_nyasyāma janakātmajām_) right between Rāma and Lakṣmaṇa (_rāmalakṣmaṇayor madhye_); what need have we to afflict all those foremost monkeys (_kiṃ vyalīkais tu tān sarvān vānarān vānararṣabhān_)?
 
-**13:** For we ourselves, having gone and slain those bulls among Rākṣasas (vayam eva hi gatvā tān hatvā rākṣasapuṅgavān), are worthy to behold Rāghava (rāghavaṃ draṣṭum arhāmaḥ) and Sugrīva along with Lakṣmaṇa (sugrīvaṃ sahalakṣmaṇam).”
+**13:** For we ourselves, having gone and slain those bulls among Rākṣasas (_vayam eva hi gatvā tān hatvā rākṣasapuṅgavān_), are worthy to behold Rāghava (_rāghavaṃ draṣṭum arhāmaḥ_) and Sugrīva along with Lakṣmaṇa (_sugrīvaṃ sahalakṣmaṇam_).”
 </details>
 </details>
 
@@ -528,7 +528,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To him who had thus formed his resolve (tam evaṃ kṛtasaṃkalpam), Jāmbavān, foremost of monkeys (jāmbavān harisattamaḥ) and knower of the true purport (arthavit), supremely pleased (paramaprītaḥ), spoke a word full of meaning (uvāca vākyam arthavat):
+To him who had thus formed his resolve (_tam evaṃ kṛtasaṃkalpam_), Jāmbavān, foremost of monkeys (_jāmbavān harisattamaḥ_) and knower of the true purport (_arthavit_), supremely pleased (_paramaprītaḥ_), spoke a word full of meaning (_uvāca vākyam arthavat_):
 </details>
 </details>
 
@@ -556,7 +556,7 @@ To him who had thus formed his resolve (tam evaṃ kṛtasaṃkalpam), Jāmbavā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is not a sound counsel, O prince of great intelligence (naiṣā buddhir mahābuddhe), which you speak, O great monkey (yad bravīṣi mahākape); we were commanded (vayam ājñaptāḥ) only to search (vicetum) the excellent southern quarter (dakṣiṇāṃ diśam uttamām),
+“This is not a sound counsel, O prince of great intelligence (_naiṣā buddhir mahābuddhe_), which you speak, O great monkey (_yad bravīṣi mahākape_); we were commanded (_vayam ājñaptāḥ_) only to search (_vicetum_) the excellent southern quarter (_dakṣiṇāṃ diśam uttamām_),
 </details>
 </details>
 
@@ -582,7 +582,7 @@ To him who had thus formed his resolve (tam evaṃ kṛtasaṃkalpam), Jāmbavā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-not to bring her back (nānetum), either by the monkey king (kapirājena) or by the wise Rāma (naiva rāmeṇa dhīmatā); Rāma would in no wise approve (kathaṃcin nābhirocayet) Sītā’s being won back by us (nirjitāṃ sītām asmābhiḥ).
+not to bring her back (_nānetum_), either by the monkey king (_kapirājena_) or by the wise Rāma (_naiva rāmeṇa dhīmatā_); Rāma would in no wise approve (_kathaṃcin nābhirocayet_) Sītā’s being won back by us (_nirjitāṃ sītām asmābhiḥ_).
 </details>
 </details>
 
@@ -616,7 +616,7 @@ Jāmbavān reminds Aṅgada that Rāma Himself vowed before the monkey chiefs to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proclaiming His own royal lineage (kulaṃ vyapadiśan svakam), Rāghava, that tiger among kings (rāghavo nṛpaśārdūlaḥ), the King Himself having vowed to win Sītā (pratijñāya svayaṃ rājā sītāvijayam) in the presence of—
+Proclaiming His own royal lineage (_kulaṃ vyapadiśan svakam_), Rāghava, that tiger among kings (_rāghavo nṛpaśārdūlaḥ_), the King Himself having vowed to win Sītā (_pratijñāya svayaṃ rājā sītāvijayam_) in the presence of—
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Proclaiming His own royal lineage (kulaṃ vyapadiśan svakam), Rāghava, that t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-all the foremost monkeys (agrataḥ sarveṣāṃ kapimukhyānām), how will He make His vow false (kathaṃ mithyā kariṣyati)? And the deed done by us would become fruitless (viphalaṃ karma ca kṛtaṃ bhavet), nor would there be satisfaction for Him (tuṣṭir na tasya ca);
+all the foremost monkeys (_agrataḥ sarveṣāṃ kapimukhyānām_), how will He make His vow false (_kathaṃ mithyā kariṣyati_)? And the deed done by us would become fruitless (_viphalaṃ karma ca kṛtaṃ bhavet_), nor would there be satisfaction for Him (_tuṣṭir na tasya ca_);
 </details>
 </details>
 
@@ -668,7 +668,7 @@ all the foremost monkeys (agrataḥ sarveṣāṃ kapimukhyānām), how will He 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and our valor would have been displayed in vain (vṛthā ca darśitaṃ vīryaṃ bhaved), O bulls among monkeys (vānarapuṅgavāḥ)! Therefore let us all indeed depart (tasmād gacchāma vai sarve) to where Rāma is with Lakṣmaṇa (yatra rāmaḥ salakṣmaṇaḥ) and Sugrīva of mighty splendor (sugrīvaś ca mahātejāḥ), for the reporting of this business (kāryasyāsya nivedane).
+and our valor would have been displayed in vain (_vṛthā ca darśitaṃ vīryaṃ bhaved_), O bulls among monkeys (_vānarapuṅgavāḥ_)! Therefore let us all indeed depart (_tasmād gacchāma vai sarve_) to where Rāma is with Lakṣmaṇa (_yatra rāmaḥ salakṣmaṇaḥ_) and Sugrīva of mighty splendor (_sugrīvaś ca mahātejāḥ_), for the reporting of this business (_kāryasyāsya nivedane_).
 </details>
 </details>
 
@@ -709,7 +709,7 @@ and our valor would have been displayed in vain (vṛthā ca darśitaṃ vīrya�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This judgment of yours is by no means unworthy of us (na tāvad eṣā matir akṣamā no), as you see it, O prince (yathā bhavān paśyati rājaputra); yet just as Rāma’s resolve is fixed (yathā tu rāmasya matir niviṣṭā), even so do you behold the accomplishment of the task (tathā bhavān paśyatu kāryasiddhim).”
+This judgment of yours is by no means unworthy of us (_na tāvad eṣā matir akṣamā no_), as you see it, O prince (_yathā bhavān paśyati rājaputra_); yet just as Rāma’s resolve is fixed (_yathā tu rāmasya matir niviṣṭā_), even so do you behold the accomplishment of the task (_tathā bhavān paśyatu kāryasiddhim_).”
 </details>
 </details>
 

@@ -86,7 +86,7 @@ of respectable men, looking like a night in full moon duly enriched with well-kn
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with wisdom, Bharata, like the full moon, beheld that disciplined assembly hall filled with throngs of noble men, resembling a night with its constellations (tām ārya-gaṇa-sampūrṇāṃ bharataḥ pragrahāṃ sabhām dadarśa buddhi-sampannaḥ pūrṇa-candro niśām iva).
+Endowed with wisdom, Bharata, like the full moon, beheld that disciplined assembly hall filled with throngs of noble men, resembling a night with its constellations (_tām ārya-gaṇa-sampūrṇāṃ bharataḥ pragrahāṃ sabhām dadarśa buddhi-sampannaḥ pūrṇa-candro niśām iva_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ cosmetics of its respected members occupying their appropriate seats.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As those noble men took their seats in due order at that time (āsanāni yathā-nyāyam āryāṇāṃ viśatāṃ tadā), that assembly appeared like an autumn night after the passing of the clouds under a full moon (adṛśyata ghanāpāye pūrṇa-candreva śarvarī).
+As those noble men took their seats in due order at that time (_āsanāni yathā-nyāyam āryāṇāṃ viśatāṃ tadā_), that assembly appeared like an autumn night after the passing of the clouds under a full moon (_adṛśyata ghanāpāye pūrṇa-candreva śarvarī_).
 </details>
 </details>
 
@@ -191,7 +191,7 @@ moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with learned men, that resplendent assembly hall then shone like a night under a full moon at the close of the rainy season (sā vidvaj-jana-sampūrṇā sabhā su-rucirā tadā adṛśyata ghanāpāye pūrṇa-candreva śarvarī).
+Filled with learned men, that resplendent assembly hall then shone like a night under a full moon at the close of the rainy season (_sā vidvaj-jana-sampūrṇā sabhā su-rucirā tadā adṛśyata ghanāpāye pūrṇa-candreva śarvarī_).
 </details>
 </details>
 
@@ -247,7 +247,7 @@ righteousness uttered to Bharata the following soft-spoken words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing all the king’s ministers and subjects assembled in full, the righteousness-knowing family preceptor Vasiṣṭha spoke these gentle words to Bharata (rājñas tu prakṛtīḥ sarvāḥ samagrāḥ prekṣya dharmavit idaṃ purohito vākyaṃ bharataṃ mṛdu cābravīt):
+Seeing all the king’s ministers and subjects assembled in full, the righteousness-knowing family preceptor Vasiṣṭha spoke these gentle words to Bharata (_rājñas tu prakṛtīḥ sarvāḥ samagrāḥ prekṣya dharmavit idaṃ purohito vākyaṃ bharataṃ mṛdu cābravīt_):
 </details>
 </details>
 
@@ -300,7 +300,7 @@ this wide earth endowed with grains and riches and went to heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Dear child, practicing righteousness, King Daśaratha has gone to heaven after bestowing upon you this prosperous earth abounding in wealth and grain (tāta rājā daśarathaḥ svargato dharmam ācaran dhana-dhānyavatīṃ sphītāṃ pradāya pṛthivīṃ tava).
+“Dear child, practicing righteousness, King Daśaratha has gone to heaven after bestowing upon you this prosperous earth abounding in wealth and grain (_tāta rājā daśarathaḥ svargato dharmam ācaran dhana-dhānyavatīṃ sphītāṃ pradāya pṛthivīṃ tava_).
 </details>
 </details>
 
@@ -354,7 +354,7 @@ moon-light."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Rāma too, steadfast in truth and mindful of the duty of the righteous (rāmas tathā satya-dhṛtiḥ satāṃ dharmam anusmaran), did not abandon his father’s command, just as the risen moon does not abandon its moonlight (nājahāt pitur ādeśaṃ śaśī jyotsnām ivoditaḥ).
+And Rāma too, steadfast in truth and mindful of the duty of the righteous (_rāmas tathā satya-dhṛtiḥ satāṃ dharmam anusmaran_), did not abandon his father’s command, just as the risen moon does not abandon its moonlight (_nājahāt pitur ādeśaṃ śaśī jyotsnām ivoditaḥ_).
 </details>
 </details>
 
@@ -439,9 +439,9 @@ jewels as gifts to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “Bestowed upon you by both your father and your brother is this kingdom freed of thorns (pitrā bhrātrā ca te dattaṃ rājyaṃ nihata-kaṇṭakam); enjoy it with joyful ministers, and have yourself consecrated at once (tad bhuṅkṣva muditāmātyaḥ kṣipram evābhiṣecaya)!
+**7:** “Bestowed upon you by both your father and your brother is this kingdom freed of thorns (_pitrā bhrātrā ca te dattaṃ rājyaṃ nihata-kaṇṭakam_); enjoy it with joyful ministers, and have yourself consecrated at once (_tad bhuṅkṣva muditāmātyaḥ kṣipram evābhiṣecaya_)!
 
-**8:** Let the northern, western, and southern kings, and all the rulers of the western coast and ocean-islands, bring you tens of millions of jewels as tribute (udīcyāś ca pratīcyāś ca dākṣiṇātyāś ca kevalāḥ koṭyāparāntāḥ sāmudrā ratnāny abhiharantu te).”
+**8:** Let the northern, western, and southern kings, and all the rulers of the western coast and ocean-islands, bring you tens of millions of jewels as tribute (_udīcyāś ca pratīcyāś ca dākṣiṇātyāś ca kevalāḥ koṭyāparāntāḥ sāmudrā ratnāny abhiharantu te_).”
 </details>
 </details>
 
@@ -493,7 +493,7 @@ justice got his mind fixed on Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech, Bharata, overwhelmed with grief and knowing righteousness, went in thought to Rāma out of a desire for righteousness (tac chrutvā bharato vākyaṃ śokenābhipariplutaḥ jagāma manasā rāmaṃ dharmajño dharma-kāṅkṣayā).
+Hearing that speech, Bharata, overwhelmed with grief and knowing righteousness, went in thought to Rāma out of a desire for righteousness (_tac chrutvā bharato vākyaṃ śokenābhipariplutaḥ jagāma manasā rāmaṃ dharmajño dharma-kāṅkṣayā_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ lamented in a tearful and appealing speech. He even reproached his royal priest 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a voice choked with tears, that youth whose voice was sweet as that of a kalahaṃsa swan lamented in the midst of the assembly and reproached the family preceptor (sa-bāṣpa-kalayā vācā kalahaṃsa-svaro yuvā vilalāpa sabhā-madhye jagarhe ca purohitam):
+With a voice choked with tears, that youth whose voice was sweet as that of a _kalahaṃsa_ swan lamented in the midst of the assembly and reproached the family preceptor (_sa-bāṣpa-kalayā vācā kalahaṃsa-svaro yuvā vilalāpa sabhā-madhye jagarhe ca purohitam_):
 </details>
 </details>
 
@@ -593,7 +593,7 @@ devoted to duty?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What man like me would usurp the kingdom of that wise Rāma who has observed chastity, completed the bath of Vedic study, and ever strives in righteousness (carita-brahmacaryasya vidyā-snātasya dhīmataḥ dharme prayatamānasya ko rājyaṃ mad-vidho haret)?
+“What man like me would usurp the kingdom of that wise Rāma who has observed chastity, completed the bath of Vedic study, and ever strives in righteousness (_carita-brahmacaryasya vidyā-snātasya dhīmataḥ dharme prayatamānasya ko rājyaṃ mad-vidho haret_)?
 </details>
 </details>
 
@@ -646,7 +646,7 @@ and I myself belong to Rama. You ought to tell the law and justice in this matte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How could one born of Daśaratha become a usurper of the kingdom (kathaṃ daśarathāj jāto bhaved rājyāpahārakaḥ)? Both the kingdom and I belong to Rāma; you ought to declare what is righteous here (rājyaṃ cāhaṃ ca rāmasya dharmaṃ vaktum ihārhasi)!
+How could one born of Daśaratha become a usurper of the kingdom (_kathaṃ daśarathāj jāto bhaved rājyāpahārakaḥ_)? Both the kingdom and I belong to Rāma; you ought to declare what is righteous here (_rājyaṃ cāhaṃ ca rāmasya dharmaṃ vaktum ihārhasi_)!
 </details>
 </details>
 
@@ -715,7 +715,7 @@ solar and lunar dynasty respectively.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The eldest, the most excellent, righteous-souled, and equal to Dilīpa and Nahuṣa (jyeṣṭhaḥ śreṣṭhaś ca dharmātmā dilīpa-nahuṣopamaḥ), Kākutstha deserves to obtain the kingdom, just as Daśaratha did (labdhum arhati kākutstho rājyaṃ daśaratho yathā).
+“The eldest, the most excellent, righteous-souled, and equal to Dilīpa and Nahuṣa (_jyeṣṭhaḥ śreṣṭhaś ca dharmātmā dilīpa-nahuṣopamaḥ_), Kākutstha deserves to obtain the kingdom, just as Daśaratha did (_labdhum arhati kākutstho rājyaṃ daśaratho yathā_).
 </details>
 </details>
 
@@ -767,7 +767,7 @@ sinful act, practiced by disgraceful men, which does not lead to heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If I were to commit this sin practiced by the ignoble and barring the way to heaven (anārya-juṣṭam asvargyaṃ kuryāṃ pāpam ahaṃ yadi), I would become in this world a disgrace to the race of the Ikṣvākus (ikṣvākūṇām ahaṃ loke bhaveyaṃ kula-pāṃsanaḥ).
+If I were to commit this sin practiced by the ignoble and barring the way to heaven (_anārya-juṣṭam asvargyaṃ kuryāṃ pāpam ahaṃ yadi_), I would become in this world a disgrace to the race of the Ikṣvākus (_ikṣvākūṇām ahaṃ loke bhaveyaṃ kula-pāṃsanaḥ_).
 </details>
 </details>
 
@@ -820,7 +820,7 @@ offer my salutation with my joined palms to Rama who is residing in an impassabl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, I do not approve even of the sin committed by my mother (yad dhi mātrā kṛtaṃ pāpaṃ nāhaṃ tad api rocaye); standing right here with joined palms, I bow in reverence to him who dwells in the forest fastness (ihastho vana-durgasthaṃ namasyāmi kṛtāñjaliḥ).
+Indeed, I do not approve even of the sin committed by my mother (_yad dhi mātrā kṛtaṃ pāpaṃ nāhaṃ tad api rocaye_); standing right here with joined palms, I bow in reverence to him who dwells in the forest fastness (_ihastho vana-durgasthaṃ namasyāmi kṛtāñjaliḥ_).
 </details>
 </details>
 
@@ -872,7 +872,7 @@ eligible even for the kingdom of the three worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall follow Rāma alone; that best of men is the king (rāmam evānugacchāmi rājā sa dvipadāṃ varaḥ). Rāghava deserves the sovereignty of all the three worlds (trayāṇām api lokānāṃ rājyam arhati rāghavaḥ)!”
+I shall follow Rāma alone; that best of men is the king (_rāmam evānugacchāmi rājā sa dvipadāṃ varaḥ_). Rāghava deserves the sovereignty of all the three worlds (_trayāṇām api lokānāṃ rājyam arhati rāghavaḥ_)!”
 </details>
 </details>
 
@@ -925,7 +925,7 @@ of joy, having their minds obsessed of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech fraught with righteousness, all the members of the assembly, whose hearts were fixed on Rāma, shed tears of joy (tad vākyaṃ dharma-saṃyuktaṃ śrutvā sarve sabhā-sadaḥ harṣān mumucur aśrūṇi rāme nihita-cetasaḥ).
+Hearing that speech fraught with righteousness, all the members of the assembly, whose hearts were fixed on Rāma, shed tears of joy (_tad vākyaṃ dharma-saṃyuktaṃ śrutvā sarve sabhā-sadaḥ harṣān mumucur aśrūṇi rāme nihita-cetasaḥ_).
 </details>
 </details>
 
@@ -981,7 +981,7 @@ that forest itself, as how the venerable Lakshmana is staying now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And if I am unable to bring my noble elder brother back from the forest (yadi tv āryaṃ na śakṣyāmi vinivartayituṃ vanāt), I shall dwell right there in the forest, just like noble Lakṣmaṇa (vane tatraiva vatsyāmi yathāryo lakṣmaṇas tathā).
+“And if I am unable to bring my noble elder brother back from the forest (_yadi tv āryaṃ na śakṣyāmi vinivartayituṃ vanāt_), I shall dwell right there in the forest, just like noble Lakṣmaṇa (_vane tatraiva vatsyāmi yathāryo lakṣmaṇas tathā_).
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ practicing virtues, the honourable and the distinguished men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rather, in the presence of these honorable and virtuous elders who abide in noble qualities (samakṣam ārya-miśrāṇāṃ sādhūnāṃ guṇa-vartinām), I shall employ every means to bring him back by force of persuasion (sarvopāyaṃ tu vartiṣye vinivartayituṃ balāt).
+“Rather, in the presence of these honorable and virtuous elders who abide in noble qualities (_samakṣam ārya-miśrāṇāṃ sādhūnāṃ guṇa-vartinām_), I shall employ every means to bring him back by force of persuasion (_sarvopāyaṃ tu vartiṣye vinivartayituṃ balāt_).
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ sent by me in advance and the journey so planned, pleases me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the unpaid corvée laborers, paid workmen, and road-clearing guards have already been dispatched by me in advance, and this expedition delights me (viṣṭi-karmāntikāḥ sarve mārga-śodhaka-rakṣakāḥ prasthāpitā mayā pūrvaṃ yātrāpi mama rocate).”
+All the unpaid corvée laborers, paid workmen, and road-clearing guards have already been dispatched by me in advance, and this expedition delights me (_viṣṭi-karmāntikāḥ sarve mārga-śodhaka-rakṣakāḥ prasthāpitā mayā pūrvaṃ yātrāpi mama rocate_).”
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ nearby.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the righteous-souled Bharata, devoted to his brother (evam uktvā tu dharmātmā bharato bhrātṛ-vatsalaḥ), spoke these words to Sumantra, skilled in counsel, who stood nearby (samīpastham uvācedaṃ sumantraṃ mantra-kovidam):
+Having spoken thus, the righteous-souled Bharata, devoted to his brother (_evam uktvā tu dharmātmā bharato bhrātṛ-vatsalaḥ_), spoke these words to Sumantra, skilled in counsel, who stood nearby (_samīpastham uvācedaṃ sumantraṃ mantra-kovidam_):
 </details>
 </details>
 
@@ -1205,7 +1205,7 @@ immediately. Bring the army also."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rising quickly, go at my command, O Sumantra (tūrṇam utthāya gaccha tvaṃ sumantra mama śāsanāt); proclaim the march at once and assemble the army (yātrām ājñāpaya kṣipraṃ balaṃ caiva samānaya).”
+“Rising quickly, go at my command, O Sumantra (_tūrṇam utthāya gaccha tvaṃ sumantra mama śāsanāt_); proclaim the march at once and assemble the army (_yātrām ājñāpaya kṣipraṃ balaṃ caiva samānaya_).”
 </details>
 </details>
 
@@ -1257,7 +1257,7 @@ accord with Bharata's orders and wishes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the high-souled Bharata, Sumantra joyfully gave all the orders just as instructed and as he himself desired (evam uktaḥ sumantras tu bharatena mahātmanā hṛṣṭas tadādiśat sarvaṃ yathā-sandiṣṭam iṣṭavat).
+Thus addressed by the high-souled Bharata, Sumantra joyfully gave all the orders just as instructed and as he himself desired (_evam uktaḥ sumantras tu bharatena mahātmanā hṛṣṭas tadādiśat sarvaṃ yathā-sandiṣṭam iṣṭavat_).
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ ministers and army-commander there were delighted.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those subjects and the commanders of the army rejoiced (tāḥ prahṛṣṭāḥ prakṛtayo balādhyakṣā balasya ca) upon hearing that the expedition had been commanded for bringing Rāghava back (śrutvā yātrāṃ samājñaptāṃ rāghavasya nivartane).
+Those subjects and the commanders of the army rejoiced (_tāḥ prahṛṣṭāḥ prakṛtayo balādhyakṣā balasya ca_) upon hearing that the expedition had been commanded for bringing Rāghava back (_śrutvā yātrāṃ samājñaptāṃ rāghavasya nivartane_).
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ jubiliant and hurried up all their respective husband to setoff for the journey.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in every house all the wives of the soldiers, learning of the departure on the expedition, joyfully urged all their husbands to make haste (tato yodhāṅganāḥ sarvā bhartṝn sarvān gṛhe-gṛhe yātrā-gamanam ājñāya tvarayanti sma harṣitāḥ).
+Then in every house all the wives of the soldiers, learning of the departure on the expedition, joyfully urged all their husbands to make haste (_tato yodhāṅganāḥ sarvā bhartṝn sarvān gṛhe-gṛhe yātrā-gamanam ājñāya tvarayanti sma harṣitāḥ_).
 </details>
 </details>
 
@@ -1429,7 +1429,7 @@ moving horses, bullock carts with a good speed and the chariots along with the w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those army commanders urged on the entire host together with the warriors, by means of swift horses, bullock-drawn carts, and chariots swift as thought (te hayair go-rathaiḥ śīghraiḥ syandanaiś ca mano-javaiḥ saha yodhair balādhyakṣā balaṃ sarvam acodayan).
+Those army commanders urged on the entire host together with the warriors, by means of swift horses, bullock-drawn carts, and chariots swift as thought (_te hayair go-rathaiḥ śīghraiḥ syandanaiś ca mano-javaiḥ saha yodhair balādhyakṣā balaṃ sarvam acodayan_).
 </details>
 </details>
 
@@ -1482,7 +1482,7 @@ Sumantra who was standing by his side: "Get ready my chariot quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that army marshaled in readiness, Bharata, in the presence of his preceptor, spoke to Sumantra standing at his side: “Hasten my chariot!” (sajjaṃ tu tad balaṃ dṛṣṭvā bharato guru-sannidhau rathaṃ me tvarayasveti sumantraṃ pārśvato 'bravīt).
+Seeing that army marshaled in readiness, Bharata, in the presence of his preceptor, spoke to Sumantra standing at his side: “Hasten my chariot!” (_sajjaṃ tu tad balaṃ dṛṣṭvā bharato guru-sannidhau rathaṃ me tvarayasveti sumantraṃ pārśvato &#x27;bravīt_).
 </details>
 </details>
 
@@ -1537,7 +1537,7 @@ Sumantra on his part approached him with delight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Receiving that command of Bharata with joy, Sumantra took a chariot yoked with superb steeds and came forward (bharatasya tu tasyājñāṃ pratigṛhya ca harṣitaḥ rathaṃ gṛhītvā prayayau yuktaṃ parama-vājibhiḥ).
+Receiving that command of Bharata with joy, Sumantra took a chariot yoked with superb steeds and came forward (_bharatasya tu tasyājñāṃ pratigṛhya ca harṣitaḥ rathaṃ gṛhītvā prayayau yuktaṃ parama-vājibhiḥ_).
 </details>
 </details>
 
@@ -1608,7 +1608,7 @@ to Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking most fittingly and eager to propitiate his illustrious elder brother who had gone to the great forest (bruvan su-yuktaṃ guruṃ mahāraṇya-gataṃ yaśasvinaṃ prasādayiṣyan), that radiant Rāghava Bharata, steadfast in truth and of firm and truthful valor, then spoke (sa rāghavaḥ satya-dhṛtiḥ pratāpavān dṛḍha-satya-vikramaḥ bharato 'bravīt tadā):
+Speaking most fittingly and eager to propitiate his illustrious elder brother who had gone to the great forest (_bruvan su-yuktaṃ guruṃ mahāraṇya-gataṃ yaśasvinaṃ prasādayiṣyan_), that radiant Rāghava Bharata, steadfast in truth and of firm and truthful valor, then spoke (_sa rāghavaḥ satya-dhṛtiḥ pratāpavān dṛḍha-satya-vikramaḥ bharato &#x27;bravīt tadā_):
 </details>
 </details>
 
@@ -1674,7 +1674,7 @@ for the welfare of the people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rising quickly, O Sumantra, go to the chiefs of the army for the marshaling of the host (tūrṇaṃ samutthāya sumantra gaccha balasya yogāya bala-pradhānān); for I wish to propitiate Rāma who dwells in the forest and bring him back for the welfare of the world (ānetum icchāmi hi taṃ vanasthaṃ prasādya rāmaṃ jagato hitāya).”
+“Rising quickly, O Sumantra, go to the chiefs of the army for the marshaling of the host (_tūrṇaṃ samutthāya sumantra gaccha balasya yogāya bala-pradhānān_); for I wish to propitiate Rāma who dwells in the forest and bring him back for the welfare of the world (_ānetum icchāmi hi taṃ vanasthaṃ prasādya rāmaṃ jagato hitāya_).”
 </details>
 </details>
 
@@ -1740,7 +1740,7 @@ multitude.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duly commanded by Bharata, that charioteer’s son, his heart’s desire completely fulfilled (sa sūta-putro bharatena samyag ājñāpitaḥ sampari-pūrṇa-kāmaḥ), gave orders to all the leaders of the citizens, the chiefs of the army, and the kinsmen and friends (śaśāsa sarvān prakṛti-pradhānān balasya mukhyāṃś ca suhṛj-janaṃ ca).
+Duly commanded by Bharata, that charioteer’s son, his heart’s desire completely fulfilled (_sa sūta-putro bharatena samyag ājñāpitaḥ sampari-pūrṇa-kāmaḥ_), gave orders to all the leaders of the citizens, the chiefs of the army, and the kinsmen and friends (_śaśāsa sarvān prakṛti-pradhānān balasya mukhyāṃś ca suhṛj-janaṃ ca_).
 </details>
 </details>
 
@@ -1811,7 +1811,7 @@ harnessed their chariots to camels, mules, well-bred elephants and horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising up thereupon in family after family, Kṣatriyas, Vaiśyas, Śūdras, and Brāhmaṇas (tataḥ samutthāya kule kule te rājanya-vaiśyā vṛṣalāś ca viprāḥ) yoked camels, mules, and chariots, as well as elephants and horses of noble breed (ayūyujann uṣṭra-kharān rathāṃś ca nāgān hayāṃś caiva kula-prasūtān).
+Rising up thereupon in family after family, Kṣatriyas, Vaiśyas, Śūdras, and Brāhmaṇas (_tataḥ samutthāya kule kule te rājanya-vaiśyā vṛṣalāś ca viprāḥ_) yoked camels, mules, and chariots, as well as elephants and horses of noble breed (_ayūyujann uṣṭra-kharān rathāṃś ca nāgān hayāṃś caiva kula-prasūtān_).
 </details>
 </details>
 

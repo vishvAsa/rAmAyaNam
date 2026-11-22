@@ -80,7 +80,7 @@ his way to the forest for exile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devoted to that high-souled Rāma of unfailing valour (anuraktāḥ mahātmānam rāmam satya-parākramam), the citizens followed him as he journeyed forth to dwell in the forest (anujagmuḥ prayāntam tam vana-vāsāya mānavāḥ).
+Devoted to that high-souled Rāma of unfailing valour (_anuraktāḥ mahātmānam rāmam satya-parākramam_), the citizens followed him as he journeyed forth to dwell in the forest (_anujagmuḥ prayāntam tam vana-vāsāya mānavāḥ_).
 </details>
 </details>
 
@@ -132,7 +132,7 @@ friends who were following Rama's chariot did not return.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even when the king had been turned back with great effort in accordance with the custom of friends (nivartite atīva balāt suhṛt-dharmeṇa rājani), those who followed Rāma’s chariot did not turn back at all (na eva te saṃnyavartanta rāmasya anugatāḥ ratham).
+Even when the king had been turned back with great effort in accordance with the custom of friends (_nivartite atīva balāt suhṛt-dharmeṇa rājani_), those who followed Rāma’s chariot did not turn back at all (_na eva te saṃnyavartanta rāmasya anugatāḥ ratham_).
 </details>
 </details>
 
@@ -184,7 +184,7 @@ resembling the full moon, had indeed become the favorite for the people living i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For to the men who dwelt in Ayodhyā (ayodhyā-nilayānām hi puruṣāṇām), that illustrious prince endowed with every virtue (mahā-yaśāḥ... guṇa-sampannaḥ) was as dear as the full moon (babhūva... pūrṇa-candraḥ iva priyaḥ).
+For to the men who dwelt in Ayodhyā (_ayodhyā-nilayānām hi puruṣāṇām_), that illustrious prince endowed with every virtue (_mahā-yaśāḥ... guṇa-sampannaḥ_) was as dear as the full moon (_babhūva... pūrṇa-candraḥ iva priyaḥ_).
 </details>
 </details>
 
@@ -237,7 +237,7 @@ in order to honor his father's vow; proceeded towards the forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though entreated at that time by those subjects (yācyamānaḥ... tābhiḥ prakṛtibhiḥ tadā), Kākutstha, rendering his father true to his promise (sa... kākutsthaḥ... kurvāṇaḥ pitaram satyam), proceeded straight toward the forest (vanam eva anvapadyata).
+Though entreated at that time by those subjects (_yācyamānaḥ... tābhiḥ prakṛtibhiḥ tadā_), Kākutstha, rendering his father true to his promise (_sa... kākutsthaḥ... kurvāṇaḥ pitaram satyam_), proceeded straight toward the forest (_vanam eva anvapadyata_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ Fondly gazing on the people as though drinking with his eyes, Rama lovingly spok
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon them with affection (avekṣamāṇaḥ sa-sneham) as though drinking them in with his eyes (cakṣuṣā prapiban iva), Rāma spoke affectionately to those subjects as though they were his own children (uvāca rāmaḥ sa-sneham tāḥ prajāḥ svāḥ prajāḥ iva):
+Gazing upon them with affection (_avekṣamāṇaḥ sa-sneham_) as though drinking them in with his eyes (_cakṣuṣā prapiban iva_), Rāma spoke affectionately to those subjects as though they were his own children (_uvāca rāmaḥ sa-sneham tāḥ prajāḥ svāḥ prajāḥ iva_):
 </details>
 </details>
 
@@ -345,7 +345,7 @@ Ayodhya) may for my satisfaction be bestowed in a special measure on Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever love and high esteem the dwellers of Ayodhyā bear toward me (yā prītiḥ bahu-mānaḥ ca mayi ayodhyā-nivāsinām), let that be bestowed in even greater measure upon Bharata for my sake (mat-priya-artham viśeṣeṇa bharate sā vidhīyatām).
+“Whatever love and high esteem the dwellers of Ayodhyā bear toward me (_yā prītiḥ bahu-mānaḥ ca mayi ayodhyā-nivāsinām_), let that be bestowed in even greater measure upon Bharata for my sake (_mat-priya-artham viśeṣeṇa bharate sā vidhīyatām_).
 </details>
 </details>
 
@@ -405,7 +405,7 @@ will indeed do pleasing and beneficial things to you appropriately."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For he who is of auspicious conduct and the increaser of Kaikeyī’s joy (sa hi kalyāṇa-cāritraḥ kaikeyī-ānanda-vardhanaḥ) will duly perform what is pleasing and beneficial to you (kariṣyati yathāvat vaḥ priyāṇi ca hitāni ca).
+“For he who is of auspicious conduct and the increaser of Kaikeyī’s joy (_sa hi kalyāṇa-cāritraḥ kaikeyī-ānanda-vardhanaḥ_) will duly perform what is pleasing and beneficial to you (_kariṣyati yathāvat vaḥ priyāṇi ca hitāni ca_).
 </details>
 </details>
 
@@ -458,7 +458,7 @@ with virility and virtue, will become your worthy master who can dispel your fea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mature in wisdom though young in years (jñāna-vṛddhaḥ vayaḥ-bālaḥ), gentle yet endowed with valour and noble virtues (mṛduḥ vīrya-guṇa-anvitaḥ), he will be a worthy lord unto you and a dispeller of your fears (anurūpaḥ sa vaḥ bhartā bhaviṣyati bhaya-apahaḥ).
+“Mature in wisdom though young in years (_jñāna-vṛddhaḥ vayaḥ-bālaḥ_), gentle yet endowed with valour and noble virtues (_mṛduḥ vīrya-guṇa-anvitaḥ_), he will be a worthy lord unto you and a dispeller of your fears (_anurūpaḥ sa vaḥ bhartā bhaviṣyati bhaya-apahaḥ_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ king's command is to be carried out by me and the rest of you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with all royal virtues, he has been designated as Crown Prince (sa hi rāja-guṇaiḥ yuktaḥ yuvarājaḥ samīkṣitaḥ); moreover, by you who have been instructed by me (api ca api mayā śiṣṭaiḥ), the command of your lord must be obeyed (kāryam vaḥ bhartṛ-śāsanam).
+“Endowed with all royal virtues, he has been designated as Crown Prince (_sa hi rāja-guṇaiḥ yuktaḥ yuvarājaḥ samīkṣitaḥ_); moreover, by you who have been instructed by me (_api ca api mayā śiṣṭaiḥ_), the command of your lord must be obeyed (_kāryam vaḥ bhartṛ-śāsanam_).
 </details>
 </details>
 
@@ -567,7 +567,7 @@ gone to forest for exile"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And out of a desire to do what is dear to me (mama priya-cikīrṣayā), you must act in such a way that the great king does not grieve after I have gone to dwell in the forest (na saṃtapyet yathā ca asau vana-vāsam gate mayi mahārājaḥ tathā kāryaḥ).”
+“And out of a desire to do what is dear to me (_mama priya-cikīrṣayā_), you must act in such a way that the great king does not grieve after I have gone to dwell in the forest (_na saṃtapyet yathā ca asau vana-vāsam gate mayi mahārājaḥ tathā kāryaḥ_).”
 </details>
 </details>
 
@@ -620,7 +620,7 @@ more the people wished to have him as their master "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The more the son of Daśaratha clave solely to righteousness (yathā yathā dāśarathiḥ dharmam eva āśritaḥ bhavet), the more the subjects desired Rāma himself as their lord (tathā tathā prakṛtayaḥ rāmam patim akāmayan).
+The more the son of Daśaratha clave solely to righteousness (_yathā yathā dāśarathiḥ dharmam eva āśritaḥ bhavet_), the more the subjects desired Rāma himself as their lord (_tathā tathā prakṛtayaḥ rāmam patim akāmayan_).
 </details>
 </details>
 
@@ -672,7 +672,7 @@ piteously, after him as if tied and pulled with cords.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With Saumitri at his side (rāmaḥ saumitriṇā saha), Rāma seemed to drag along the wretched city-folk (cakarṣa iva... dīnam... janam pura-nivāsinam), who were choked with tears (bāṣpeṇa pihitam) and bound fast by the cords of his virtues (guṇaiḥ baddham).
+With Saumitri at his side (_rāmaḥ saumitriṇā saha_), Rāma seemed to drag along the wretched city-folk (_cakarṣa iva... dīnam... janam pura-nivāsinam_), who were choked with tears (_bāṣpeṇa pihitam_) and bound fast by the cords of his virtues (_guṇaiḥ baddham_).
 </details>
 </details>
 
@@ -733,7 +733,7 @@ spirituality, their heads shaking with advanced years, cried out :
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those twice-born Brāhmaṇas, threefold aged—in sacred knowledge, in years, and in ascetic energy (te dvijāḥ tri-vidham vṛddhāḥ jñānena vayasā ojasā)—their heads trembling with age (vayaḥ-prakampa-śirasaḥ), cried out these words from afar (dūrāt ūcuḥ idam vacaḥ):
+Those twice-born Brāhmaṇas, threefold aged—in sacred knowledge, in years, and in ascetic energy (_te dvijāḥ tri-vidham vṛddhāḥ jñānena vayasā ojasā_)—their heads trembling with age (_vayaḥ-prakampa-śirasaḥ_), cried out these words from afar (_dūrāt ūcuḥ idam vacaḥ_):
 </details>
 </details>
 
@@ -789,7 +789,7 @@ disservice to him)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O swift, thoroughbred steeds who bear Rāma along (vahantaḥ javanāḥ rāmam bho bho jātyāḥ turaṃgamāḥ), turn back! Do not go forward (nivartadhvam na gantavyam); be true benefactors toward your master (hitāḥ bhavata bhartari)!
+“O swift, thoroughbred steeds who bear Rāma along (_vahantaḥ javanāḥ rāmam bho bho jātyāḥ turaṃgamāḥ_), turn back! Do not go forward (_nivartadhvam na gantavyam_); be true benefactors toward your master (_hitāḥ bhavata bhartari_)!
 </details>
 </details>
 
@@ -841,7 +841,7 @@ our entreaty. Therefore, you return."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Living beings are endowed with ears (karṇavanti hi bhūtāni), and horses especially so (viśeṣeṇa turaṅgamāḥ); therefore, having been apprised of our entreaty (yācanām prativeditāḥ), do you turn back (yūyam tasmāt nivartadhvam)!
+“Living beings are endowed with ears (_karṇavanti hi bhūtāni_), and horses especially so (_viśeṣeṇa turaṅgamāḥ_); therefore, having been apprised of our entreaty (_yācanām prativeditāḥ_), do you turn back (_yūyam tasmāt nivartadhvam_)!
 </details>
 </details>
 
@@ -893,7 +893,7 @@ deserves to be brought back to the city and not to be taken to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That hero, pure-souled in righteousness and firm in auspicious vows (dharmataḥ sa viśuddha-ātmā vīraḥ śubha-dṛḍha-vrataḥ), is your master, who ought to be borne back toward the city (upavāhyaḥ tu vaḥ bhartā) and not carried away from the city into the forest (na apavāhyaḥ purāt vanam)!”
+“That hero, pure-souled in righteousness and firm in auspicious vows (_dharmataḥ sa viśuddha-ātmā vīraḥ śubha-dṛḍha-vrataḥ_), is your master, who ought to be borne back toward the city (_upavāhyaḥ tu vaḥ bhartā_) and not carried away from the city into the forest (_na apavāhyaḥ purāt vanam_)!”
 </details>
 </details>
 
@@ -945,7 +945,7 @@ the chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those aged Brāhmaṇas uttering such anguished lamentations (evam ārta-pralāpān tān vṛddhān pralapataḥ dvijān avekṣya), Rāma at once alighted from the chariot (sahasā rāmaḥ rathāt avatatāra ha).
+Beholding those aged Brāhmaṇas uttering such anguished lamentations (_evam ārta-pralāpān tān vṛddhān pralapataḥ dvijān avekṣya_), Rāma at once alighted from the chariot (_sahasā rāmaḥ rathāt avatatāra ha_).
 </details>
 </details>
 
@@ -997,7 +997,7 @@ forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, together with Sītā and accompanied by Lakṣmaṇa (sa-sītaḥ saha-lakṣmaṇaḥ), Rāma, wholly intent upon the forest (vana-parāyaṇaḥ), proceeded on foot (padbhyām eva jagāma atha), placing his steps close together (saṃnikṛṣṭa-pada-nyāsaḥ).
+Then, together with Sītā and accompanied by Lakṣmaṇa (_sa-sītaḥ saha-lakṣmaṇaḥ_), Rāma, wholly intent upon the forest (_vana-parāyaṇaḥ_), proceeded on foot (_padbhyām eva jagāma atha_), placing his steps close together (_saṃnikṛṣṭa-pada-nyāsaḥ_).
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ could not abandon those brahmanas walking on foot, far behind the chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For Rāma, devoted to noble conduct and looking upon them with eyes of compassion (rāmaḥ cāritra-vatsalaḥ... ghṛṇā-cakṣuḥ... saḥ), could not bear to leave those twice-born ones behind on foot by riding in his chariot (dvijātīn hi padātīn tān... na śaśāka... parimoktum rathena).
+For Rāma, devoted to noble conduct and looking upon them with eyes of compassion (_rāmaḥ cāritra-vatsalaḥ... ghṛṇā-cakṣuḥ... saḥ_), could not bear to leave those twice-born ones behind on foot by riding in his chariot (_dvijātīn hi padātīn tān... na śaśāka... parimoktum rathena_).
 </details>
 </details>
 
@@ -1109,7 +1109,7 @@ and greatly distressed, spoke the following words :
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that Rāma still walking onward (gacchantam eva tam dṛṣṭvā rāmam), the twice-born Brāhmaṇas, their minds bewildered (sambhrānta-mānasāḥ) and deeply tormented with grief (parama-saṃtaptāḥ), spoke these words to Rāma (ūcuḥ... rāmam vākyam idam dvijāḥ):
+Beholding that Rāma still walking onward (_gacchantam eva tam dṛṣṭvā rāmam_), the twice-born Brāhmaṇas, their minds bewildered (_sambhrānta-mānasāḥ_) and deeply tormented with grief (_parama-saṃtaptāḥ_), spoke these words to Rāma (_ūcuḥ... rāmam vākyam idam dvijāḥ_):
 </details>
 </details>
 
@@ -1165,7 +1165,7 @@ brahmanas. See, they are bearing the sacred fires on their shoulders"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This entire community of Brāhmaṇas follows you, who are so devoted to Brāhmaṇas (brāhmaṇyam kṛtsnam etat tvām brahmaṇyam anugacchati); let these sacred fires also, mounted upon the shoulders of the twice-born, follow after you (dvija-skandha-adhirūḍhāḥ tvām agnayaḥ api anuyāntu amī)!
+“This entire community of Brāhmaṇas follows you, who are so devoted to Brāhmaṇas (_brāhmaṇyam kṛtsnam etat tvām brahmaṇyam anugacchati_); let these sacred fires also, mounted upon the shoulders of the twice-born, follow after you (_dvija-skandha-adhirūḍhāḥ tvām agnayaḥ api anuyāntu amī_)!
 </details>
 </details>
 
@@ -1225,7 +1225,7 @@ supplied with a white canopy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold these parasols of ours, won in the Vājapeya sacrifice (vājapeya-samutthāni chatrāṇi etāni paśya naḥ), following behind you like white clouds at the close of the rainy season (pṛṣṭhataḥ anuprayātāni meghān iva jala-atyaye)!
+“Behold these parasols of ours, won in the Vājapeya sacrifice (_vājapeya-samutthāni chatrāṇi etāni paśya naḥ_), following behind you like white clouds at the close of the rainy season (_pṛṣṭhataḥ anuprayātāni meghān iva jala-atyaye_)!
 </details>
 </details>
 
@@ -1280,7 +1280,7 @@ are being scored with rays (of the sun.)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For you who are deprived of the royal parasol and scorched by the sun’s rays (anavāpta-ātapatrasya raśmi-saṃtāpitasya te), we shall make shade with these Vājapeya parasols of our own (ebhiḥ chāyām kariṣyāmaḥ svaiḥ chatraiḥ vājapeyakaiḥ).
+“For you who are deprived of the royal parasol and scorched by the sun’s rays (_anavāpta-ātapatrasya raśmi-saṃtāpitasya te_), we shall make shade with these Vājapeya parasols of our own (_ebhiḥ chāyām kariṣyāmaḥ svaiḥ chatraiḥ vājapeyakaiḥ_).
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ study of Vedic texts has been now made to follow the course of exile to the fore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That intellect of ours which ever follows the mantras of the Vedas (yā hi naḥ satatam buddhiḥ veda-mantra-anusāriṇī) has for your sake, O dear child, been made to follow your dwelling in the forest (tvat-kṛte sā kṛtā vatsa vana-vāsa-anusāriṇī).
+“That intellect of ours which ever follows the mantras of the Vedas (_yā hi naḥ satatam buddhiḥ veda-mantra-anusāriṇī_) has for your sake, O dear child, been made to follow your dwelling in the forest (_tvat-kṛte sā kṛtā vatsa vana-vāsa-anusāriṇī_).
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ will remain at home, protected by their character"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The Vedas, which are our supreme wealth, abide within our hearts (hṛdayeṣu avatiṣṭhante vedāḥ ye naḥ param dhanam); and our wives, protected by their own chaste conduct, shall remain safely in our homes (vatsyanti api gṛheṣu eva dārāḥ cāritra-rakṣitāḥ).
+“The Vedas, which are our supreme wealth, abide within our hearts (_hṛdayeṣu avatiṣṭhante vedāḥ ye naḥ param dhanam_); and our wives, protected by their own chaste conduct, shall remain safely in our homes (_vatsyanti api gṛheṣu eva dārāḥ cāritra-rakṣitāḥ_).
 </details>
 </details>
 
@@ -1447,7 +1447,7 @@ of virtue?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We need not deliberate again, for our resolve to follow your path is firmly made (punar na niścayaḥ kāryaḥ tvat-gatau su-kṛtā matiḥ); indeed, if you yourself disregard our righteous plea, who else would remain steadfast upon the path of dharma (tvayi dharma-vyapekṣe tu kim syāt dharma-pathe sthitam)?
+“We need not deliberate again, for our resolve to follow your path is firmly made (_punar na niścayaḥ kāryaḥ tvat-gatau su-kṛtā matiḥ_); indeed, if you yourself disregard our righteous plea, who else would remain steadfast upon the path of dharma (_tvayi dharma-vyapekṣe tu kim syāt dharma-pathe sthitam_)?
 </details>
 </details>
 
@@ -1501,7 +1501,7 @@ the white color of the swans, that are soiled with dust as a result of their fal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O prince of unwavering conduct (nibhṛta-ācāra), entreated by us with our heads crowned with hair as white as swans (yācitaḥ naḥ... haṃsa-śukla-śiroruhaiḥ śirobhiḥ) and soiled with dust from falling upon the ground (mahī-patana-pāṃsulaiḥ), do you turn back (nivartasva)!
+“O prince of unwavering conduct (_nibhṛta-ācāra_), entreated by us with our heads crowned with hair as white as swans (_yācitaḥ naḥ... haṃsa-śukla-śiroruhaiḥ śirobhiḥ_) and soiled with dust from falling upon the ground (_mahī-patana-pāṃsulaiḥ_), do you turn back (_nivartasva_)!
 </details>
 </details>
 
@@ -1557,7 +1557,7 @@ Their completion, oh dear child, depends on your return"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The sacrifices of many twice-born Brāhmaṇas who have come here have been commenced and spread out (bahūnām vitatāḥ yajñāḥ dvijānām ye iha āgatāḥ); their completion, O dear child, depends upon your turning back (teṣām samāptiḥ āyattā tava vatsa nivartane).
+“The sacrifices of many twice-born Brāhmaṇas who have come here have been commenced and spread out (_bahūnām vitatāḥ yajñāḥ dvijānām ye iha āgatāḥ_); their completion, O dear child, depends upon your turning back (_teṣām samāptiḥ āyattā tava vatsa nivartane_).
 </details>
 </details>
 
@@ -1620,7 +1620,7 @@ affection to those devotees, who entreat you to return."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All beings here, both moving and unmoving, are filled with devotion toward you (bhaktimanti iha bhūtāni jaṅgama-ajaṅgamāni ca); show your loving devotion toward those devotees who are entreating you (yācamāneṣu teṣu tvam bhaktim bhakteṣu darśaya)!
+“All beings here, both moving and unmoving, are filled with devotion toward you (_bhaktimanti iha bhūtāni jaṅgama-ajaṅgamāni ca_); show your loving devotion toward those devotees who are entreating you (_yācamāneṣu teṣu tvam bhaktim bhakteṣu darśaya_)!
 </details>
 </details>
 
@@ -1672,7 +1672,7 @@ hump-backed by the force of wind"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unable to follow you because their onward impulse is checked by their roots (anugantum aśaktāḥ tvām mūlaiḥ uddhata-veginaḥ), the lofty trees, tossed by the force of the wind, seem to cry out aloud (unnatāḥ vāyu-vegena vikrośanti iva pādapāḥ).
+“Unable to follow you because their onward impulse is checked by their roots (_anugantum aśaktāḥ tvām mūlaiḥ uddhata-veginaḥ_), the lofty trees, tossed by the force of the wind, seem to cry out aloud (_unnatāḥ vāyu-vegena vikrośanti iva pādapāḥ_).
 </details>
 </details>
 
@@ -1726,7 +1726,7 @@ to all created beings"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even the birds, having ceased from movement and from roaming in search of food (niśceṣṭa-āhāra-saṃcārāḥ) and remaining motionless in a single spot upon the trees (vṛkṣa-eka-sthāna-niścitāḥ), implore you who are compassionate toward all beings (pakṣiṇaḥ api prayācante sarva-bhūta-anukampinam).”
+“Even the birds, having ceased from movement and from roaming in search of food (_niśceṣṭa-āhāra-saṃcārāḥ_) and remaining motionless in a single spot upon the trees (_vṛkṣa-eka-sthāna-niścitāḥ_), implore you who are compassionate toward all beings (_pakṣiṇaḥ api prayācante sarva-bhūta-anukampinam_).”
 </details>
 </details>
 
@@ -1778,7 +1778,7 @@ river Tamasa appeared there, as though retarding the progress of Rama "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those twice-born Brāhmaṇas were crying out thus for his return (evam vikrośatām teṣām dvijātīnām nivartane), the river Tamasā came into view there, as though barring Rāghava’s path (dadṛśe tamasā tatra vārayantī iva rāghavam).
+While those twice-born Brāhmaṇas were crying out thus for his return (_evam vikrośatām teṣām dvijātīnām nivartane_), the river Tamasā came into view there, as though barring Rāghava’s path (_dadṛśe tamasā tatra vārayantī iva rāghavam_).
 </details>
 </details>
 
@@ -1850,7 +1850,7 @@ Tamasa once they had drunk water and had their body washed in the river."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sumantra too, unyoking the weary horses from the chariot (tataḥ sumantraḥ api rathāt vimucya śrāntān hayān) and swiftly rolling them to relieve their fatigue (samparivartya śīghram), after they had drunk water and had their limbs bathed in the stream (pīta-udakān toya-paripluta-aṅgān), put them out to graze not far from the Tamasā (acārayat vai tamasā-avidūre).
+Then Sumantra too, unyoking the weary horses from the chariot (_tataḥ sumantraḥ api rathāt vimucya śrāntān hayān_) and swiftly rolling them to relieve their fatigue (_samparivartya śīghram_), after they had drunk water and had their limbs bathed in the stream (_pīta-udakān toya-paripluta-aṅgān_), put them out to graze not far from the Tamasā (_acārayat vai tamasā-avidūre_).
 </details>
 </details>
 

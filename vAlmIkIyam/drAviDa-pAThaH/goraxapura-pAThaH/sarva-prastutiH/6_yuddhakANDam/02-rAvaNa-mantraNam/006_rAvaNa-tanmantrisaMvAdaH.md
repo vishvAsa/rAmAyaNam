@@ -90,7 +90,7 @@ demons as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the dreadful and terrifying havoc (kṛtaṃ karma ghoraṃ... bhayāvaham) wrought in Laṅkā by the great-souled Hanūmān (hanumatā... mahātmanā), even as by Śakra [Indra] himself (śakreṇeva), the lord of Rākṣasas, his face slightly bowed with shame (hriyā kiṃcid avāṅ-mukhaḥ), spoke to all the Rākṣasas:
+Beholding the dreadful and terrifying havoc (_kṛtaṃ karma ghoraṃ... bhayāvaham_) wrought in Laṅkā by the great-souled Hanūmān (_hanumatā... mahātmanā_), even as by Śakra [Indra] himself (_śakreṇeva_), the lord of Rākṣasas, his face slightly bowed with shame (_hriyā kiṃcid avāṅ-mukhaḥ_), spoke to all the Rākṣasas:
 </details>
 </details>
 
@@ -135,7 +135,7 @@ was over-powered. Seetha the daughter of Janaka was also discovered by him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By that mere monkey alone (tena vānara-mātreṇa), the unassailable citadel of Laṅkā (laṅkā duṣprasahā purī) was entered and violated (dharṣitā ca praviṣṭā ca), and Jānakī Sītā was discovered (dṛṣṭā sītā ca jānakī).
+“By that mere monkey alone (_tena vānara-mātreṇa_), the unassailable citadel of Laṅkā (_laṅkā duṣprasahā purī_) was entered and violated (_dharṣitā ca praviṣṭā ca_), and Jānakī Sītā was discovered (_dṛṣṭā sītā ca jānakī_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ excellent demons were killed. The entire City of Lanka was made turbid.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The sacred Caitya palace was wrecked (prāsādo dharṣitaś caityaḥ), our foremost Rākṣasas were slain (pravarā rākṣasā hatāḥ), and the entire city of Laṅkā was thrown into turmoil and ruin (āvilā ca purī laṅkā sarvā... kṛtā) by Hanūmān.
+“The sacred Caitya palace was wrecked (_prāsādo dharṣitaś caityaḥ_), our foremost Rākṣasas were slain (_pravarā rākṣasā hatāḥ_), and the entire city of Laṅkā was thrown into turmoil and ruin (_āvilā ca purī laṅkā sarvā... kṛtā_) by Hanūmān.
 </details>
 </details>
 
@@ -249,7 +249,7 @@ next? Please speak that which is well-answering and that, if attempted becomes w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What shall I do (kiṃ kariṣyāmi)? May good fortune attend you (bhadraṃ vaḥ)! What next step do you deem fitting (kiṃ vo yuktam anantaram)? Declare what is advantageous for us (ucyatāṃ naḥ samarthaṃ yat), and which, when done, will prove well done (kṛtaṃ ca sukṛtaṃ bhavet).
+“What shall I do (_kiṃ kariṣyāmi_)? May good fortune attend you (_bhadraṃ vaḥ_)! What next step do you deem fitting (_kiṃ vo yuktam anantaram_)? Declare what is advantageous for us (_ucyatāṃ naḥ samarthaṃ yat_), and which, when done, will prove well done (_kṛtaṃ ca sukṛtaṃ bhavet_).
 </details>
 </details>
 
@@ -304,7 +304,7 @@ forethought. Verily for that reason, I desire a deliberation about Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wise men of resolute mind declare that victory has counsel for its root (mantra-mūlaṃ ca vijayaṃ pravadanti manasvinaḥ); therefore, O mighty ones (mahā-balāḥ), I desire deliberation regarding Rāma (rocaye mantraṃ rāmaṃ prati).
+“Wise men of resolute mind declare that victory has counsel for its root (_mantra-mūlaṃ ca vijayaṃ pravadanti manasvinaḥ_); therefore, O mighty ones (_mahā-balāḥ_), I desire deliberation regarding Rāma (_rocaye mantraṃ rāmaṃ prati_).
 </details>
 </details>
 
@@ -356,7 +356,7 @@ the lowest. I am telling their inherent merits and defects."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Threefold are men in this world (tri-vidhāḥ puruṣā loke)—supreme, base, and middling (uttamādhama-madhyamāḥ); of them, as they are mingled together (teṣāṃ tu samavetānām), I shall declare the respective merits and defects (guṇa-doṣau vadāmy aham).
+“Threefold are men in this world (_tri-vidhāḥ puruṣā loke_)—supreme, base, and middling (_uttamādhama-madhyamāḥ_); of them, as they are mingled together (_teṣāṃ tu samavetānām_), I shall declare the respective merits and defects (_guṇa-doṣau vadāmy aham_).
 </details>
 </details>
 
@@ -429,9 +429,9 @@ relatives or who try to get a favour from Providence too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “He whose deliberation is joined with three [marks] (mantras tribhir hi saṃyuktaḥ) [or: who deliberates with well-wishing ministers], who are capable in deciding policy (samarthair mantra-nirṇaye), or with friends sharing the same interests (mitrair vāpi samānārthaiḥ), or with kinsmen even more numerous (bāndhavair api vādhikaiḥ)—
+**7:** “He whose deliberation is joined with three [marks] (_mantras tribhir hi saṃyuktaḥ_) [or: who deliberates with well-wishing ministers], who are capable in deciding policy (_samarthair mantra-nirṇaye_), or with friends sharing the same interests (_mitrair vāpi samānārthaiḥ_), or with kinsmen even more numerous (_bāndhavair api vādhikaiḥ_)—
 
-**8:** “He who, having taken counsel together with them (sahito mantrayitvā), sets enterprises in motion (karmārambhān pravartayet) and also exerts effort toward divine providence (daive ca kurute yatnam), wise men call the noblest of men (puruṣottamam).
+**8:** “He who, having taken counsel together with them (_sahito mantrayitvā_), sets enterprises in motion (_karmārambhān pravartayet_) and also exerts effort toward divine providence (_daive ca kurute yatnam_), wise men call the noblest of men (_puruṣottamam_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ solitarily, applies his mind on law and justice all by himself and performs work
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who deliberates upon a matter all alone (eko 'rthaṃ vimṛśet), fixes his mind upon dharma [or providence] alone (eko dharme prakurute manaḥ), and executes undertakings alone (ekaḥ kāryāṇi kurute), they call a middling man (madhyamaṃ naram).
+“He who deliberates upon a matter all alone (_eko &#x27;rthaṃ vimṛśet_), fixes his mind upon _dharma_ [or providence] alone (_eko dharme prakurute manaḥ_), and executes undertakings alone (_ekaḥ kāryāṇi kurute_), they call a middling man (_madhyamaṃ naram_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ among men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And he who, without determining the merits and defects (guṇa-doṣau na niścitya) and abandoning reliance on providence (tyaktvā daiva-vyapāśrayam), says ‘I shall do it’ and then neglects the enterprise (kāryam upekṣet), is the lowest of men (sa narādhamaḥ).
+“And he who, without determining the merits and defects (_guṇa-doṣau na niścitya_) and abandoning reliance on providence (_tyaktvā daiva-vyapāśrayam_), says ‘I shall do it’ and then neglects the enterprise (_kāryam upekṣet_), is the lowest of men (_sa narādhamaḥ_).
 </details>
 </details>
 
@@ -590,7 +590,7 @@ the resolution in thought is classified as good bad or mediocre."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as these men are ever supreme, base, and middling (uttamādhama-madhyamāḥ), so too counsel itself is to be known as supreme, base, and middling (evaṃ mantro 'pi vijñeya uttamādhama-madhyamaḥ).
+“Just as these men are ever supreme, base, and middling (_uttamādhama-madhyamāḥ_), so too counsel itself is to be known as supreme, base, and middling (_evaṃ mantro &#x27;pi vijñeya uttamādhama-madhyamaḥ_).
 </details>
 </details>
 
@@ -643,7 +643,7 @@ view perceived by scriptures, obtain consensus and are satisfied with it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where ministers, having arrived at unanimity of opinion (aikamatyam upāgamya) through the eye of scriptural vision (śāstra-dṛṣṭena cakṣuṣā), remain firmly devoted to it (mantriṇo yatra niratāḥ), that they call supreme counsel (tam āhur mantram uttamam).
+“Where ministers, having arrived at unanimity of opinion (_aikamatyam upāgamya_) through the eye of scriptural vision (_śāstra-dṛṣṭena cakṣuṣā_), remain firmly devoted to it (_mantriṇo yatra niratāḥ_), that they call supreme counsel (_tam āhur mantram uttamam_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ obtained finally by a consensus of the counselors, is called mediocre."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where the determination of a matter (artha-nirṇayaḥ), even after passing through many divergent views of the ministers (bahvīr api matīr gatvā mantriṇām), subsequently reaches unity (punar yatraikatāṃ prāptaḥ), that counsel is remembered as middling (sa mantro madhyamaḥ smṛtaḥ).
+“Where the determination of a matter (_artha-nirṇayaḥ_), even after passing through many divergent views of the ministers (_bahvīr api matīr gatvā mantriṇām_), subsequently reaches unity (_punar yatraikatāṃ prāptaḥ_), that counsel is remembered as middling (_sa mantro madhyamaḥ smṛtaḥ_).
 </details>
 </details>
 
@@ -757,7 +757,7 @@ one or the other divergent opinions and in which there is no advantage even afte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where debate is carried on in mutual rivalry by clinging to conflicting opinions (anyonya-matim āsthāya yatra sampratibhāṣyate), and even in agreement there is no real welfare (na caikamatyē śreyo 'sti), that counsel is called base (mantraḥ so 'dhama ucyate).
+“Where debate is carried on in mutual rivalry by clinging to conflicting opinions (_anyonya-matim āsthāya yatra sampratibhāṣyate_), and even in agreement there is no real welfare (_na caikamatyē śreyo &#x27;sti_), that counsel is called base (_mantraḥ so &#x27;dhama ucyate_).
 </details>
 </details>
 
@@ -813,7 +813,7 @@ rightful action. To me, this is earnestly to be done."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O foremost of wise counsellors (bhavanto mati-sattamāḥ), adopt a course of action that is soundly deliberated and salutary (sumantritaṃ sādhu kāryaṃ sampratipadyantām); this I deem my imperative duty (etat kṛtyaṃ mataṃ mama).
+“Therefore, O foremost of wise counsellors (_bhavanto mati-sattamāḥ_), adopt a course of action that is soundly deliberated and salutary (_sumantritaṃ sādhu kāryaṃ sampratipadyantām_); this I deem my imperative duty (_etat kṛtyaṃ mataṃ mama_).
 </details>
 </details>
 
@@ -868,7 +868,7 @@ for the purpose of besieging us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For surrounded by thousands of resolute monkeys (vānarāṇāṃ hi dhīrāṇāṃ sahasraiḥ parivāritaḥ), Rāma is advancing upon the citadel of Laṅkā (rāmo 'bhyeti purīṃ laṅkām) to besiege us (asmākam uparodhakaḥ).
+“For surrounded by thousands of resolute monkeys (_vānarāṇāṃ hi dhīrāṇāṃ sahasraiḥ parivāritaḥ_), Rāma is advancing upon the citadel of Laṅkā (_rāmo &#x27;bhyeti purīṃ laṅkām_) to besiege us (_asmākam uparodhakaḥ_).
 </details>
 </details>
 
@@ -923,7 +923,7 @@ brother along with his army and his companions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly (suvyaktam), Rāghava will cross the ocean with ease (tariṣyati... sāgaraṃ sukham) by his fittingly matchless valor (tarasā yukta-rūpeṇa), together with his younger brother and his following army (sānujaḥ sa-balānugaḥ).
+“Clearly (_suvyaktam_), Rāghava will cross the ocean with ease (_tariṣyati... sāgaraṃ sukham_) by his fittingly matchless valor (_tarasā yukta-rūpeṇa_), together with his younger brother and his following army (_sānujaḥ sa-balānugaḥ_).
 </details>
 </details>
 
@@ -989,7 +989,7 @@ good for the city and my army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Either he will dry up the ocean (samudram ucchoṣayati) or by his prowess he will contrive some other means (vīryeṇānyat karoti vā); in this impending conflict with the monkeys (tasminn evaṃ-vidhe kārye viruddhe vānaraiḥ saha), deliberate thoroughly upon all that is beneficial for my city and army (hitaṃ pure ca sainye ca sarvaṃ sammantryatāṃ mama).”
+“Either he will dry up the ocean (_samudram ucchoṣayati_) or by his prowess he will contrive some other means (_vīryeṇānyat karoti vā_); in this impending conflict with the monkeys (_tasminn evaṃ-vidhe kārye viruddhe vānaraiḥ saha_), deliberate thoroughly upon all that is beneficial for my city and army (_hitaṃ pure ca sainye ca sarvaṃ sammantryatāṃ mama_).”
 </details>
 </details>
 

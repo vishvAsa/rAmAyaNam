@@ -72,7 +72,7 @@ great cry of distress arose among women of inner apartments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that tiger among men (puruṣa-vyāghre) went forth with joined palms (kṛtāñjalau), a great cry of anguish (ārta-śabdaḥ) arose among the women in the inner apartments (antaḥpure).
+When that tiger among men (_puruṣa-vyāghre_) went forth with joined palms (_kṛtāñjalau_), a great cry of anguish (_ārta-śabdaḥ_) arose among the women in the inner apartments (_antaḥpure_).
 </details>
 </details>
 
@@ -125,7 +125,7 @@ now defenseless weak and unhappy?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where now goes that lord (nāthaḥ) who was the refuge (gatiḥ) and shelter (śaraṇam) of this protectorless (anāthasya), weak, and pitiable (tapasvinaḥ) people?
+“Where now goes that lord (_nāthaḥ_) who was the refuge (_gatiḥ_) and shelter (_śaraṇam_) of this protectorless (_anāthasya_), weak, and pitiable (_tapasvinaḥ_) people?
 </details>
 </details>
 
@@ -178,7 +178,7 @@ misunderstanding and who propitiated all those who were angry by sharing their s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when falsely accused (abhiśastaḥ api), he does not give way to anger, shunning all provocations to wrath (krodhanīyāni varjayan); pacifying all who are angry and sharing equally in everyone’s sorrow (sama-duḥkhaḥ), where does he go?
+“Even when falsely accused (_abhiśastaḥ api_), he does not give way to anger, shunning all provocations to wrath (_krodhanīyāni varjayan_); pacifying all who are angry and sharing equally in everyone’s sorrow (_sama-duḥkhaḥ_), where does he go?
 </details>
 </details>
 
@@ -231,7 +231,7 @@ paid to his own mother, where has he gone?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where now goes that high-souled one (mahātmā) of great splendour (mahā-tejāḥ), who conducts himself toward us just as he conducts himself toward his own mother Kausalyā?
+“Where now goes that high-souled one (_mahātmā_) of great splendour (_mahā-tejāḥ_), who conducts himself toward us just as he conducts himself toward his own mother Kausalyā?
 </details>
 </details>
 
@@ -284,7 +284,7 @@ the forest by the king, goaded on by Kaikeyi? ''
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Driven forth to the forest (saṃcoditaḥ vanam) by the king, who was tormented by Kaikeyī (kaikeyyā kliśyamānena), where now goes the deliverer (paritrātā) of this people and of the entire world?
+“Driven forth to the forest (_saṃcoditaḥ vanam_) by the king, who was tormented by Kaikeyī (_kaikeyyā kliśyamānena_), where now goes the deliverer (_paritrātā_) of this people and of the entire world?
 </details>
 </details>
 
@@ -336,7 +336,7 @@ truthful Rama to the forest!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas! Stripped of his senses (niścetanaḥ), the king banishes to forest exile (vanavāse pravatsyati) the righteous Rāma of true vows (satya-vratam), who is the very refuge of the world of living beings (jīva-lokasya saṃkṣayam)!”
+“Alas! Stripped of his senses (_niścetanaḥ_), the king banishes to forest exile (_vanavāse pravatsyati_) the righteous Rāma of true vows (_satya-vratam_), who is the very refuge of the world of living beings (_jīva-lokasya saṃkṣayam_)!”
 </details>
 </details>
 
@@ -396,7 +396,7 @@ affection cried out loudly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus afflicted with grief (duḥkhārtāḥ), all those queens (mahiṣyaḥ) wept and cried aloud with resonant voices (sa-svaram ca vicukruśuḥ), like cows bereft of their calves (vivatsāḥ iva dhenavaḥ).
+Thus afflicted with grief (_duḥkhārtāḥ_), all those queens (_mahiṣyaḥ_) wept and cried aloud with resonant voices (_sa-svaram ca vicukruśuḥ_), like cows bereft of their calves (_vivatsāḥ iva dhenavaḥ_).
 </details>
 </details>
 
@@ -449,7 +449,7 @@ afflicted by the departure of his son, became increasingly depressed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that terrible cry of anguish (ghoram ārta-śabdam) in the inner apartments, the lord of the earth, scorched by grief for his son (putra-śoka-abhisaṃtaptaḥ), became utterly distraught (su-duḥkhitaḥ).
+Hearing that terrible cry of anguish (_ghoram ārta-śabdam_) in the inner apartments, the lord of the earth, scorched by grief for his son (_putra-śoka-abhisaṃtaptaḥ_), became utterly distraught (_su-duḥkhitaḥ_).
 </details>
 </details>
 
@@ -530,9 +530,9 @@ time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** The agnihotra oblations were not offered (na agnihotrāṇi ahūyanta), householders cooked no food (na apacan gṛhamedhinaḥ), the people performed no work, and the sun itself vanished from view (antaradhīyata).
+**9:** The _agnihotra_ oblations were not offered (_na agnihotrāṇi ahūyanta_), householders cooked no food (_na apacan gṛhamedhinaḥ_), the people performed no work, and the sun itself vanished from view (_antaradhīyata_).
 
-**10:** Elephants dropped their mouthfuls of forage (vyasṛjan kavalān nāgāḥ), cows did not suckle their calves (gāvaḥ vatsān na pāyayan), and even upon obtaining a first-born son (putram prathamajam labdhvā), a mother did not rejoice.
+**10:** Elephants dropped their mouthfuls of forage (_vyasṛjan kavalān nāgāḥ_), cows did not suckle their calves (_gāvaḥ vatsān na pāyayan_), and even upon obtaining a first-born son (_putram prathamajam labdhvā_), a mother did not rejoice.
 </details>
 </details>
 
@@ -584,7 +584,7 @@ menacing aspect and got stayed with the moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Triśaṅku, red-limbed Mars (lohitāṅgaḥ), and both Jupiter and Mercury (bṛhaspati-budhau api)—all the planets became fierce (dāruṇāḥ) and stood confronting the moon (somam abhyetya vyavasthitāḥ).
+Triśaṅku, red-limbed Mars (_lohitāṅgaḥ_), and both Jupiter and Mercury (_bṛhaspati-budhau api_)—all the planets became fierce (_dāruṇāḥ_) and stood confronting the moon (_somam abhyetya vyavasthitāḥ_).
 </details>
 </details>
 
@@ -647,7 +647,7 @@ Visakha appeared in the heaven, veiled in the mist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The lunar asterisms lost their radiance (nakṣatrāṇi gata-arcīṃṣi), the planets were stripped of their splendour (gata-tejasaḥ), and the constellations of Viśākhā shone darkly in the sky, shrouded in smoke (sa-dhūmāḥ ca).
+The lunar asterisms lost their radiance (_nakṣatrāṇi gata-arcīṃṣi_), the planets were stripped of their splendour (_gata-tejasaḥ_), and the constellations of Viśākhā shone darkly in the sky, shrouded in smoke (_sa-dhūmāḥ ca_).
 </details>
 </details>
 
@@ -693,7 +693,7 @@ the forest, that city was shaken.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma set forth for the forest (rāme vanam pravrajite), that city trembled violently (nagaram pracacāla tat), like the great ocean heaving up under the blast of a storm-cloud wind (kālikā-anila-vegena mahā-udadhiḥ iva utthitaḥ).
+When Rāma set forth for the forest (_rāme vanam pravrajite_), that city trembled violently (_nagaram pracacāla tat_), like the great ocean heaving up under the blast of a storm-cloud wind (_kālikā-anila-vegena mahā-udadhiḥ iva utthitaḥ_).
 </details>
 </details>
 
@@ -739,7 +739,7 @@ did not become visible, nor the stars nor any other thing in heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the quarters of the sky became turbulent (diśaḥ paryākulāḥ sarvāḥ), as though enveloped in darkness (timireṇa iva saṃvṛtāḥ); neither planet nor asterism shone forth at all (na grahaḥ na api nakṣatram pracakāśe).
+All the quarters of the sky became turbulent (_diśaḥ paryākulāḥ sarvāḥ_), as though enveloped in darkness (_timireṇa iva saṃvṛtāḥ_); neither planet nor asterism shone forth at all (_na grahaḥ na api nakṣatram pracakāśe_).
 </details>
 </details>
 
@@ -794,7 +794,7 @@ either food or in pastime.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Without any other visible cause (akasmāt), all the townsfolk sank into utter dejection (dainyam upāgamat), and no one set his mind either upon food or upon recreation (āhāre vā vihāre vā).
+Without any other visible cause (_akasmāt_), all the townsfolk sank into utter dejection (_dainyam upāgamat_), and no one set his mind either upon food or upon recreation (_āhāre vā vihāre vā_).
 </details>
 </details>
 
@@ -849,7 +849,7 @@ burning sighs and bewailed about the departure of the Lord of the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scorched by wave after wave of grief (śoka-paryāya-saṃtaptaḥ) and constantly heaving long sighs (satatam dīrgham ucchvasan), all the people in Ayodhyā cried out in lamentation over the lord of the earth (cukrośa jagatī-patim).
+Scorched by wave after wave of grief (_śoka-paryāya-saṃtaptaḥ_) and constantly heaving long sighs (_satatam dīrgham ucchvasan_), all the people in Ayodhyā cried out in lamentation over the lord of the earth (_cukrośa jagatī-patim_).
 </details>
 </details>
 
@@ -912,7 +912,7 @@ appeared rejoicing. All were possessed by grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With faces turbid with tears (bāṣpa-paryākula-mukhaḥ), the people walking along the royal highway (rāja-mārga-gataḥ janaḥ) were wholly given over to grief (śoka-parāyaṇaḥ); not a single joyful person was to be found.
+With faces turbid with tears (_bāṣpa-paryākula-mukhaḥ_), the people walking along the royal highway (_rāja-mārga-gataḥ janaḥ_) were wholly given over to grief (_śoka-parāyaṇaḥ_); not a single joyful person was to be found.
 </details>
 </details>
 
@@ -965,7 +965,7 @@ not give out warmth to the earth. The entire world was in disorder
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wind did not blow cool (na vāti pavanaḥ śītaḥ), the moon did not wear a gentle aspect (na śaśī saumya-darśanaḥ), and the sun did not warm the world; the entire universe was thrown into turmoil (sarvam paryākulam jagat).
+The wind did not blow cool (_na vāti pavanaḥ śītaḥ_), the moon did not wear a gentle aspect (_na śaśī saumya-darśanaḥ_), and the sun did not warm the world; the entire universe was thrown into turmoil (_sarvam paryākulam jagat_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ alone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sons were indifferent to their mothers, husbands to their wives, and brothers to one another (anarthinaḥ sutāḥ strīṇām bhartāraḥ bhrātaraḥ tathā); abandoning everything else, all thought only of Rāma (rāmam eva anvacintayan).
+Sons were indifferent to their mothers, husbands to their wives, and brothers to one another (_anarthinaḥ sutāḥ strīṇām bhartāraḥ bhrātaraḥ tathā_); abandoning everything else, all thought only of Rāma (_rāmam eva anvacintayan_).
 </details>
 </details>
 
@@ -1074,7 +1074,7 @@ agony overwhelmed them. They did not leave their beds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all those who were Rāma’s intimate friends (rāmasya suhṛdaḥ), their minds bewildered (mūḍha-cetasaḥ) and crushed by the weight of sorrow (śoka-bhāreṇa ākrāntāḥ), did not betake themselves to sleep at all (śayanam na eva bhejire).
+And all those who were Rāma’s intimate friends (_rāmasya suhṛdaḥ_), their minds bewildered (_mūḍha-cetasaḥ_) and crushed by the weight of sorrow (_śoka-bhāreṇa ākrāntāḥ_), did not betake themselves to sleep at all (_śayanam na eva bhejire_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ a great uproar reigned in the city which was filled with elephants, warriors and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Ayodhyā, bereft of that high-souled prince (rahitā mahātmanā) like the mountain-girt earth bereft of Indra (purandareṇa iva mahī sa-parvatā), shook violently, ablaze with fear and grief (bhaya-śoka-dīpitā), and cried aloud with its hosts of elephants, warriors, and steeds.
+Then Ayodhyā, bereft of that high-souled prince (_rahitā mahātmanā_) like the mountain-girt earth bereft of Indra (_purandareṇa iva mahī sa-parvatā_), shook violently, ablaze with fear and grief (_bhaya-śoka-dīpitā_), and cried aloud with its hosts of elephants, warriors, and steeds.
 </details>
 </details>
 

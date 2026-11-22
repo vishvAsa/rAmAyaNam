@@ -86,7 +86,7 @@ Ravana. [3-31-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Departing in haste (tvaramāṇaḥ) from Janasthāna and entering Laṅkā with speed (vegena), Akampana spoke these words to Rāvaṇa:
+Departing in haste (_tvaramāṇaḥ_) from Janasthāna and entering Laṅkā with speed (_vegena_), Akampana spoke these words to Rāvaṇa:
 </details>
 </details>
 
@@ -147,7 +147,7 @@ are also reported as dead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king, the many rākṣasas stationed in Janasthāna (janasthāna-sthitāḥ) have been slain, Khara too has been killed in battle (saṃkhye), and only with difficulty (kathaṃcit) have I escaped!”
+“O king, the many _rākṣasas_ stationed in Janasthāna (_janasthāna-sthitāḥ_) have been slain, Khara too has been killed in battle (_saṃkhye_), and only with difficulty (_kathaṃcit_) have I escaped!”
 </details>
 </details>
 
@@ -199,7 +199,7 @@ whole world with his radiance he spoke this to Akampana. [3-31-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, the ten-necked Rāvaṇa (daśagrīvaḥ), enraged (kruddhaḥ) and with bloodshot eyes (saṃrakta-locanaḥ), spoke this to Akampana, as if consuming [the worlds] with his fiery splendour (tejasā):
+Thus addressed, the ten-necked Rāvaṇa (_daśagrīvaḥ_), enraged (_kruddhaḥ_) and with bloodshot eyes (_saṃrakta-locanaḥ_), spoke this to Akampana, as if consuming [the worlds] with his fiery splendour (_tejasā_):
 </details>
 </details>
 
@@ -251,7 +251,7 @@ opted for no recourse in all of the worlds? [3-31-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By what man whose life-breaths are as good as gone (parāsunā) has my dread Janasthāna (bhīmaṃ janasthānam) been ravaged? Who indeed in all the worlds shall now find no refuge (gatim)?
+“By what man whose life-breaths are as good as gone (_parāsunā_) has my dread Janasthāna (_bhīmaṃ janasthānam_) been ravaged? Who indeed in all the worlds shall now find no refuge (_gatim_)?
 </details>
 </details>
 
@@ -303,7 +303,7 @@ Yama - no; why them, even Vishnu cannot be happy. [3-31-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For having done me a displeasure (vipriyam), happiness cannot be attained even by Maghavan [Indra], nor by Vaiśravaṇa [Kubera], nor by Yama, nor by Viṣṇu!
+“For having done me a displeasure (_vipriyam_), happiness cannot be attained even by Maghavan [Indra], nor by Vaiśravaṇa [Kubera], nor by Yama, nor by Viṣṇu!
 </details>
 </details>
 
@@ -355,7 +355,7 @@ Death with the virtue of deathliness. [3-31-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the Death even of Time (kālasya cāpy ahaṃ kālaḥ); I could burn even Fire (pāvakam), and I am able to bind Death himself (mṛtyum) with the law of mortality (maraṇa-dharmeṇa)!”
+“I am the Death even of Time (_kālasya cāpy ahaṃ kālaḥ_); I could burn even Fire (_pāvakam_), and I am able to bind Death himself (_mṛtyum_) with the law of mortality (_maraṇa-dharmeṇa_)!”
 </details>
 </details>
 
@@ -415,7 +415,7 @@ of Wind-god with that of mine." Thus Ravana said about himself. [3-31-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By my own force (tarasā) I am able even to arrest the impetuous rush of the wind (vātasya vegam), and in my fury (saṃkruddhaḥ) I could burn with my splendour (tejasā) both the sun and fire (āditya-pāvakau)!”
+“By my own force (_tarasā_) I am able even to arrest the impetuous rush of the wind (_vātasya vegam_), and in my fury (_saṃkruddhaḥ_) I could burn with my splendour (_tejasā_) both the sun and fire (_āditya-pāvakau_)!”
 </details>
 </details>
 
@@ -471,7 +471,7 @@ or Ten-Faced demon. Ravana has also got the name of dashagriiva, and he is a 'so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining his palms in reverence (kṛtāñjaliḥ) before the ten-necked Rāvaṇa who was thus enraged, Akampana out of fear (bhayāt) begged Rāvaṇa for immunity from harm (abhayam) in a faltering voice (saṃdigdhayā vācā).
+Joining his palms in reverence (_kṛtāñjaliḥ_) before the ten-necked Rāvaṇa who was thus enraged, Akampana out of fear (_bhayāt_) begged Rāvaṇa for immunity from harm (_abhayam_) in a faltering voice (_saṃdigdhayā vācā_).
 </details>
 </details>
 
@@ -526,7 +526,7 @@ and trustfully. [3-31-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The ten-necked lord, foremost of rākṣasas (rakṣasāṃ varaḥ), granted him assurance of safety (abhayam); reassured (visrabdhaḥ), that Akampana spoke these words without hesitation (asaṃdigdham):
+The ten-necked lord, foremost of _rākṣasas_ (_rakṣasāṃ varaḥ_), granted him assurance of safety (_abhayam_); reassured (_visrabdhaḥ_), that Akampana spoke these words without hesitation (_asaṃdigdham_):
 </details>
 </details>
 
@@ -598,9 +598,9 @@ one such as he is he slew Duushana along with Khara in Janasthaana." [3-31-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “There is a young son of Daśaratha (putro daśarathasya), lion-framed (siṃha-saṃhananaḥ), named Rāma, broad-shouldered (mahā-skandhaḥ), with rounded, long, and mighty arms (vṛttāyata-mahābhujaḥ)—
+**10:** “There is a young son of Daśaratha (_putro daśarathasya_), lion-framed (_siṃha-saṃhananaḥ_), named Rāma, broad-shouldered (_mahā-skandhaḥ_), with rounded, long, and mighty arms (_vṛttāyata-mahābhujaḥ_)—
 
-**11:** “Dark-complexioned (śyāmaḥ), of far-reaching renown (pṛthu-yaśāḥ), glorious (śrīmān), and of peerless strength and valor (atulya-bala-vikramaḥ); by him Khara, together with Dūṣaṇa (saha-dūṣaṇaḥ), has been slain in Janasthāna.”
+**11:** “Dark-complexioned (_śyāmaḥ_), of far-reaching renown (_pṛthu-yaśāḥ_), glorious (_śrīmān_), and of peerless strength and valor (_atulya-bala-vikramaḥ_); by him Khara, together with Dūṣaṇa (_saha-dūṣaṇaḥ_), has been slain in Janasthāna.”
 </details>
 </details>
 
@@ -651,7 +651,7 @@ serpent. [3-31-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Akampana, Rāvaṇa, lord of the rākṣasas (rākṣasādhipaḥ), hissed like a lordly serpent (nāgendra iva niḥśvasya) and spoke these words:
+Hearing the words of Akampana, Rāvaṇa, lord of the _rākṣasas_ (_rākṣasādhipaḥ_), hissed like a lordly serpent (_nāgendra iva niḥśvasya_) and spoke these words:
 </details>
 </details>
 
@@ -714,7 +714,7 @@ the immortal gods? Oh, Akampana, speak about it. [3-31-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tell me, Akampana—did that Rāma come to Janasthāna joined by the lord of the gods [Indra] (surendreṇa saṃyuktaḥ) together with all the immortals (sarvāmaraiḥ saha)?”
+“Tell me, Akampana—did that Rāma come to Janasthāna joined by the lord of the gods [Indra] (_surendreṇa saṃyuktaḥ_) together with all the immortals (_sarvāmaraiḥ saha_)?”
 </details>
 </details>
 
@@ -759,7 +759,7 @@ of Ravana. [3-31-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those further words of Rāvaṇa, Akampana recounted the strength (balam) and valor (vikramam) of that high-souled hero (mahātmanaḥ):
+Hearing those further words of Rāvaṇa, Akampana recounted the strength (_balam_) and valor (_vikramam_) of that high-souled hero (_mahātmanaḥ_):
 </details>
 </details>
 
@@ -812,7 +812,7 @@ with divine missiles and divine attributes, and he is the one who conducts warfa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Named Rāma, of mighty splendour (mahā-tejāḥ), he is the foremost of all wielders of the bow (śreṣṭhaḥ sarva-dhanuṣmatām), endowed with the virtues of celestial weapons (divyāstra-guṇa-sampannaḥ), and has attained supreme prowess (paraṃ dharmam) in battle.
+“Named Rāma, of mighty splendour (_mahā-tejāḥ_), he is the foremost of all wielders of the bow (_śreṣṭhaḥ sarva-dhanuṣmatām_), endowed with the virtues of celestial weapons (_divyāstra-guṇa-sampannaḥ_), and has attained supreme prowess (_paraṃ dharmam_) in battle.
 </details>
 </details>
 
@@ -867,7 +867,7 @@ is Rama's selfsame younger brother known as Lakshmana. [3-31-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Worthy of him (tasyānurūpaḥ) is his strong younger brother Lakṣmaṇa (kanīyāṃl lakṣmaṇo bhrātā), red-eyed (raktākṣaḥ), with a voice like a kettle-drum (dundubhi-svanaḥ) and a face like the full moon (rākā-śaśi-nibhānanaḥ).
+“Worthy of him (_tasyānurūpaḥ_) is his strong younger brother Lakṣmaṇa (_kanīyāṃl lakṣmaṇo bhrātā_), red-eyed (_raktākṣaḥ_), with a voice like a kettle-drum (_dundubhi-svanaḥ_) and a face like the full moon (_rākā-śaśi-nibhānanaḥ_).
 </details>
 </details>
 
@@ -919,7 +919,7 @@ prince Rama, and that firestorm, namely Rama, destroyed Janasthaana. [3-31-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Joined together with him like the wind with fire (pāvakenānilo yathā), that glorious (śrīmān) best of princes (rāja-varaḥ)—by him Janasthāna was laid low (nipātitam).
+“Joined together with him like the wind with fire (_pāvakenānilo yathā_), that glorious (_śrīmān_) best of princes (_rāja-varaḥ_)—by him Janasthāna was laid low (_nipātitam_).
 </details>
 </details>
 
@@ -980,7 +980,7 @@ started consuming the demons. [3-31-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No high-souled gods (devā mahātmānaḥ) [came there]—no doubt (vicāraṇā) need be entertained on this score! Rather, the gold-shafted, winged arrows (rukma-puṅkhāḥ patattriṇaḥ) loosed by Rāma alone—
+“No high-souled gods (_devā mahātmānaḥ_) [came there]—no doubt (_vicāraṇā_) need be entertained on this score! Rather, the gold-shafted, winged arrows (_rukma-puṅkhāḥ patattriṇaḥ_) loosed by Rāma alone—
 </details>
 </details>
 
@@ -1059,9 +1059,9 @@ It is same with Kamsa in Bhaagavata when he sees one Krishna as many Krishna-s i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Becoming five-hooded serpents (sarpāḥ pañcānanā bhūtvā), they devoured the rākṣasas; and by whatever path (yena yena) the rākṣasas fled, tormented by fear (bhaya-karṣitāḥ)—
+**19:** “Becoming five-hooded serpents (_sarpāḥ pañcānanā bhūtvā_), they devoured the _rākṣasas_; and by whatever path (_yena yena_) the _rākṣasas_ fled, tormented by fear (_bhaya-karṣitāḥ_)—
 
-**20:** “By that very path (tena tena) they beheld Rāma alone standing in front of them (agrataḥ sthitam)! Thus has your Janasthāna been destroyed by him, O sinless one (anagha).”
+**20:** “By that very path (_tena tena_) they beheld Rāma alone standing in front of them (_agrataḥ sthitam_)! Thus has your Janasthāna been destroyed by him, O sinless one (_anagha_).”
 </details>
 </details>
 
@@ -1112,7 +1112,7 @@ along with Lakshmana." [3-31-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Akampana, Rāvaṇa spoke this word: “I shall go to Janasthāna to slay Rāma together with Lakṣmaṇa (salakṣmaṇam)!”
+Hearing the words of Akampana, Rāvaṇa spoke this word: “I shall go to Janasthāna to slay Rāma together with Lakṣmaṇa (_salakṣmaṇam_)!”
 </details>
 </details>
 
@@ -1176,7 +1176,7 @@ grit...' 'I will let you know about them...' So said Akampana to Ravana. - Tiirt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When this speech had thus been uttered, Akampana spoke this: “Hear, O king, the true account (yathā-vṛttam) of Rāma's strength and heroic prowess (bala-pauruṣam):
+When this speech had thus been uttered, Akampana spoke this: “Hear, O king, the true account (_yathā-vṛttam_) of Rāma&#x27;s strength and heroic prowess (_bala-pauruṣam_):
 </details>
 </details>
 
@@ -1250,7 +1250,7 @@ swim, his *matsya* 'Fish...' incarnation is also suggested.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When enraged (kupitaḥ), the illustrious Rāma (mahā-yaśāḥ) is impossible to subdue by valor (asādhyaḥ vikrameṇa); with his arrows he could turn back the current (vegam pariharet) of a river in full flood (āpagāyās tu pūrṇāyāḥ).
+“When enraged (_kupitaḥ_), the illustrious Rāma (_mahā-yaśāḥ_) is impossible to subdue by valor (_asādhyaḥ vikrameṇa_); with his arrows he could turn back the current (_vegam pariharet_) of a river in full flood (_āpagāyās tu pūrṇāyāḥ_).
 </details>
 </details>
 
@@ -1346,9 +1346,9 @@ thus he can stem the tide of all the elements, taking *samhR^itya* from the next
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “He could bring down the very sky (nabhaś cāpy avasādayet) along with its stars, planets, and lunar mansions (satārā-graha-nakṣatram), and that glorious Rāma could lift up (abhyuddharet) the sinking earth (sīdantīṃ mahīm)!
+**24:** “He could bring down the very sky (_nabhaś cāpy avasādayet_) along with its stars, planets, and lunar mansions (_satārā-graha-nakṣatram_), and that glorious Rāma could lift up (_abhyuddharet_) the sinking earth (_sīdantīṃ mahīm_)!
 
-**25:** “Cleaving the shoreline of the ocean (bhittvā velāṃ samudrasya), the mighty lord (vibhuḥ) could inundate the worlds (lokān āplāvayet); or with his arrows he could scatter (vidhamet) the surge of the ocean or the very wind!
+**25:** “Cleaving the shoreline of the ocean (_bhittvā velāṃ samudrasya_), the mighty lord (_vibhuḥ_) could inundate the worlds (_lokān āplāvayet_); or with his arrows he could scatter (_vidhamet_) the surge of the ocean or the very wind!
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ one belongs to the earlier dissolutions and creations and another to the forthco
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or having dissolved the worlds (saṃhṛtya lokān) by his valor, that illustrious, supreme person (śreṣṭhaḥ sa puruṣaḥ) is able to create creatures all over again (sraṣṭuṃ punar api prajāḥ)!
+“Or having dissolved the worlds (_saṃhṛtya lokān_) by his valor, that illustrious, supreme person (_śreṣṭhaḥ sa puruṣaḥ_) is able to create creatures all over again (_sraṣṭuṃ punar api prajāḥ_)!
 </details>
 </details>
 
@@ -1480,7 +1480,7 @@ svargaH praaptum na shakyata iti uktam - - *anena sukR^itinaam svargaH paapiShTh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly, O ten-necked one, Rāma cannot be conquered in battle by you, nor even by the entire host of rākṣasas (rakṣasāṃ lokena), any more than heaven can be won by sinful men (svargaḥ pāpa-janair iva).
+“Truly, O ten-necked one, Rāma cannot be conquered in battle by you, nor even by the entire host of _rākṣasas_ (_rakṣasāṃ lokena_), any more than heaven can be won by sinful men (_svargaḥ pāpa-janair iva_).
 </details>
 </details>
 
@@ -1546,7 +1546,7 @@ Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not deem him slayable (vadhyam) even by all the gods and asuras together; therefore listen with single-minded attention (eka-manāḥ) to me regarding this means of his destruction (vadhopāyaḥ):
+“I do not deem him slayable (_vadhyam_) even by all the gods and _asuras_ together; therefore listen with single-minded attention (_eka-manāḥ_) to me regarding this means of his destruction (_vadhopāyaḥ_):
 </details>
 </details>
 
@@ -1601,7 +1601,7 @@ adorned with jewellery, that slender-waisted one who is known as Seetha is his w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His wife, the finest in the world (uttamā loke), is the slender-waisted (sumadhyamā) Sītā by name—youthful (śyāmā), of symmetrically proportioned limbs (sama-vibhaktāṅgī), a jewel among women (strī-ratnam), adorned with jewels.
+“His wife, the finest in the world (_uttamā loke_), is the slender-waisted (_sumadhyamā_) Sītā by name—youthful (_śyāmā_), of symmetrically proportioned limbs (_sama-vibhaktāṅgī_), a jewel among women (_strī-ratnam_), adorned with jewels.
 </details>
 </details>
 
@@ -1653,7 +1653,7 @@ female -no, then how can there be a woman of her like? [3-31-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither a goddess (devī), nor a gandharvī, nor an apsarā, nor a serpent-maiden (pannagī) is a woman equal to her (tulyā sīmantinī tasyāḥ)—how much less a mortal woman (mānuṣī)!
+“Neither a goddess (_devī_), nor a _gandharvī_, nor an _apsarā_, nor a serpent-maiden (_pannagī_) is a woman equal to her (_tulyā sīmantinī tasyāḥ_)—how much less a mortal woman (_mānuṣī_)!
 </details>
 </details>
 
@@ -1737,7 +1737,7 @@ Rama through Janasthaana to Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having deluded and drawn him away (taṃ pramathya) in the great forest, carry off his wife (tasyāpahara bhāryām); for bereft of Sītā (sītayā rahitaḥ), Rāma will surely cease to live (na caiva hi bhaviṣyati)!”
+“Having deluded and drawn him away (_taṃ pramathya_) in the great forest, carry off his wife (_tasyāpahara bhāryām_); for bereft of Sītā (_sītayā rahitaḥ_), Rāma will surely cease to live (_na caiva hi bhaviṣyati_)!”
 </details>
 </details>
 
@@ -1788,7 +1788,7 @@ to Akampana. [3-31-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa, lord of the rākṣasas, approved that counsel (arocayata tad vākyam); after reflecting (cintayitvā), the mighty-armed king spoke to Akampana:
+Rāvaṇa, lord of the _rākṣasas_, approved that counsel (_arocayata tad vākyam_); after reflecting (_cintayitvā_), the mighty-armed king spoke to Akampana:
 </details>
 </details>
 
@@ -1843,7 +1843,7 @@ into the elegant city Lanka." Ravana declared that way. [3-31-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Very well (bāḍham)! At dawn (kalyam) I shall go alone accompanied only by my charioteer (ekaḥ sārathinā saha), and rejoicing (hṛṣṭaḥ) I shall bring Vaidehī to this great city (mahā-purīm).”
+“Very well (_bāḍham_)! At dawn (_kalyam_) I shall go alone accompanied only by my charioteer (_ekaḥ sārathinā saha_), and rejoicing (_hṛṣṭaḥ_) I shall bring Vaidehī to this great city (_mahā-purīm_).”
 </details>
 </details>
 
@@ -1895,7 +1895,7 @@ of the sun, whereby all the directions are made to glitter. [3-31-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, Rāvaṇa set forth (prayayau) in his sun-bright chariot yoked with mules (khara-yuktena rathenāditya-varṇena), illuminating all the quarters (diśaḥ sarvāḥ prakāśayan).
+Having spoken thus, Rāvaṇa set forth (_prayayau_) in his sun-bright chariot yoked with mules (_khara-yuktena rathenāditya-varṇena_), illuminating all the quarters (_diśaḥ sarvāḥ prakāśayan_).
 </details>
 </details>
 
@@ -1951,7 +1951,7 @@ as if it is the moon in clouds. [3-31-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coursing swiftly (cañcūryamāṇaḥ) through the pathway of the stars (nakṣatra-patha-gaḥ), that great chariot of the lord of rākṣasas shone like the moon amid a cloud (jalade candramā iva).
+Coursing swiftly (_cañcūryamāṇaḥ_) through the pathway of the stars (_nakṣatra-patha-gaḥ_), that great chariot of the lord of _rākṣasas_ shone like the moon amid a cloud (_jalade candramā iva_).
 </details>
 </details>
 
@@ -2010,7 +2010,7 @@ also mean 'inhuman' but nowhere we find Ravana taking such a lowly food.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding to a distant hermitage (dūre cāśramaṃ gatvā), he approached the son of Tāṭakā (tāṭakeyam); and the king was honored by Mārīca with superhuman foods to be chewed and savored (bhakṣya-bhojyaiḥ amānuṣaiḥ).
+Proceeding to a distant hermitage (_dūre cāśramaṃ gatvā_), he approached the son of Tāṭakā (_tāṭakeyam_); and the king was honored by Mārīca with superhuman foods to be chewed and savored (_bhakṣya-bhojyaiḥ amānuṣaiḥ_).
 </details>
 </details>
 
@@ -2069,7 +2069,7 @@ to him this sentence that is worded meaningfully. [3-31-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having personally honored him (taṃ svayaṃ pūjayitvā) with a seat and water (āsanenodakena ca), Mārīca spoke this speech in words fraught with purpose (arthopahitayā vācā):
+Having personally honored him (_taṃ svayaṃ pūjayitvā_) with a seat and water (_āsanenodakena ca_), Mārīca spoke this speech in words fraught with purpose (_arthopahitayā vācā_):
 </details>
 </details>
 
@@ -2124,7 +2124,7 @@ of your kingdom, for I am not in the know of the reason by which now you have co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Is all well (kaccit sakuśalam) with the worlds, O king, lord of the rākṣasas? I am apprehensive (āśaṅke), nor do I clearly know [the cause] (nādhijāne), since you have come here in such haste (tūrṇam upāgataḥ)!”
+“Is all well (_kaccit sakuśalam_) with the worlds, O king, lord of the _rākṣasas_? I am apprehensive (_āśaṅke_), nor do I clearly know [the cause] (_nādhijāne_), since you have come here in such haste (_tūrṇam upāgataḥ_)!”
 </details>
 </details>
 
@@ -2176,7 +2176,7 @@ spoke this sentence. [3-31-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Mārīca, that Rāvaṇa of mighty splendour (mahā-tejāḥ), skilled in speech (vākya-kovidaḥ), thereupon spoke these words:
+Thus addressed by Mārīca, that Rāvaṇa of mighty splendour (_mahā-tejāḥ_), skilled in speech (_vākya-kovidaḥ_), thereupon spoke these words:
 </details>
 </details>
 
@@ -2233,7 +2233,7 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My frontier-guard (ārakṣo me) has been slain, dear friend (tāta), by Rāma of unwearied deeds (akliṣṭa-kāriṇā), and all that inviolable Janasthāna (janasthānam avadhyam) has been laid low in battle!
+“My frontier-guard (_ārakṣo me_) has been slain, dear friend (_tāta_), by Rāma of unwearied deeds (_akliṣṭa-kāriṇā_), and all that inviolable Janasthāna (_janasthānam avadhyam_) has been laid low in battle!
 </details>
 </details>
 
@@ -2264,7 +2264,7 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Render me your assistance (me kuru sācivyam) in carrying off his wife (tasya bhāryāpahāraṇe)!” Hearing the words of the lord of rākṣasas, Mārīca spoke these words:
+“Render me your assistance (_me kuru sācivyam_) in carrying off his wife (_tasya bhāryāpahāraṇe_)!” Hearing the words of the lord of _rākṣasas_, Mārīca spoke these words:
 </details>
 </details>
 
@@ -2324,7 +2324,7 @@ that is unhappy with you, since he is giving such a self-ruinous advise? [3-31-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By what enemy in the guise of a friend (mitra-rūpeṇa śatruṇā) has Sītā been spoken of to you? Honored and gladdened by you (tvayā nanditaḥ), O tiger among rākṣasas, who is it that does not rejoice (ko na nandati) [in your welfare]?
+“By what enemy in the guise of a friend (_mitra-rūpeṇa śatruṇā_) has Sītā been spoken of to you? Honored and gladdened by you (_tvayā nanditaḥ_), O tiger among _rākṣasas_, who is it that does not rejoice (_ko na nandati_) [in your welfare]?
 </details>
 </details>
 
@@ -2382,7 +2382,7 @@ are prominent among all the clansmen of demons to be cut-off? [3-31-43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tell me, who says to you, ‘Bring Sītā here!’? Who wishes to lop off the crest (śṛṅgaṃ chettum icchati) of the entire rākṣasa world (rakṣo-lokasya sarvasya)?
+“Tell me, who says to you, ‘Bring Sītā here!’? Who wishes to lop off the crest (_śṛṅgaṃ chettum icchati_) of the entire _rākṣasa_ world (_rakṣo-lokasya sarvasya_)?
 </details>
 </details>
 
@@ -2434,7 +2434,7 @@ the fangs of a snake from its mouth, of course, through you. [3-31-44]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whoever incites you (protsāhayati yaś ca tvām) to this is without doubt an enemy (śatrur asaṃśayam), and through you (tvayā) he wishes to extract a fang from the jaws of a venomous serpent (āśīviṣa-mukhād daṃṣṭrām)!
+“And whoever incites you (_protsāhayati yaś ca tvām_) to this is without doubt an enemy (_śatrur asaṃśayam_), and through you (_tvayā_) he wishes to extract a fang from the jaws of a venomous serpent (_āśīviṣa-mukhād daṃṣṭrām_)!
 </details>
 </details>
 
@@ -2486,7 +2486,7 @@ good as his hitting hard on your head while you are fast asleep. [3-31-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By whom have you been led onto this evil path (kāpathaṃ pratipāditaḥ) through this deed? While you were sleeping in peace (sukha-suptasya te), O king, by whom has a blow been struck upon your head (prahṛtaṃ mūrdhani)?
+“By whom have you been led onto this evil path (_kāpathaṃ pratipāditaḥ_) through this deed? While you were sleeping in peace (_sukha-suptasya te_), O king, by whom has a blow been struck upon your head (_prahṛtaṃ mūrdhani_)?
 </details>
 </details>
 
@@ -2548,7 +2548,7 @@ of the irrepressible lineage of Raghava-s. [3-31-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having his pure lineage and noble birth as his raised trunk-tip (viśuddha-vaṃśābhijanāgra-hasta-), his fiery splendour as his rutting ichor (tejo-madaḥ), and his well-poised arms as his tusks (saṃsthita-dor-viṣāṇaḥ)—that scent-elephant Rāghava (rāghava-gandha-hastī) is not fit even to be gazed upon (udīkṣituṃ neha yuktaḥ) in battle, O Rāvaṇa!
+“Having his pure lineage and noble birth as his raised trunk-tip (_viśuddha-vaṃśābhijanāgra-hasta-_), his fiery splendour as his rutting ichor (_tejo-madaḥ_), and his well-poised arms as his tusks (_saṃsthita-dor-viṣāṇaḥ_)—that scent-elephant Rāghava (_rāghava-gandha-hastī_) is not fit even to be gazed upon (_udīkṣituṃ neha yuktaḥ_) in battle, O Rāvaṇa!
 </details>
 </details>
 
@@ -2629,7 +2629,7 @@ The nara-simha, man-lion incarnation is suggested here.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having his steadfastness in the thick of battle as his arched tail-joint (raṇāntaḥ-sthiti-saṃdhi-vālaḥ), that man-lion (nṛ-siṃhaḥ)—slayer of the deer that are cunning rākṣasas (vidagdha-rakṣo-mṛga-hā), whose limbs are complete with arrows (śarāṅga-pūrṇaḥ) and whose fangs are his whetted sword (niśitāsi-daṃṣṭraḥ)—is asleep (suptaḥ) and cannot be roused by you (bodhayituṃ na śakyaḥ)!
+“Having his steadfastness in the thick of battle as his arched tail-joint (_raṇāntaḥ-sthiti-saṃdhi-vālaḥ_), that man-lion (_nṛ-siṃhaḥ_)—slayer of the deer that are cunning _rākṣasas_ (_vidagdha-rakṣo-mṛga-hā_), whose limbs are complete with arrows (_śarāṅga-pūrṇaḥ_) and whose fangs are his whetted sword (_niśitāsi-daṃṣṭraḥ_)—is asleep (_suptaḥ_) and cannot be roused by you (_bodhayituṃ na śakyaḥ_)!
 </details>
 </details>
 
@@ -2698,7 +2698,7 @@ called Rama. Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king of rākṣasas, it is not fitting to leap (praskandituṃ na yuktam) into the dread submarine abyss that is Rāma (rāma-pātāla-mukhe 'tighore)—where his bow is the seizing shark (cāpāpahāre), the speed of his arms the mire (bhuja-vega-paṅke), his arrows the garlands of waves (śarormi-māle), and mighty battle the surging flood (sumahāhavaughe)!
+“O king of _rākṣasas_, it is not fitting to leap (_praskandituṃ na yuktam_) into the dread submarine abyss that is Rāma (_rāma-pātāla-mukhe &#x27;tighore_)—where his bow is the seizing shark (_cāpāpahāre_), the speed of his arms the mire (_bhuja-vega-paṅke_), his arrows the garlands of waves (_śarormi-māle_), and mighty battle the surging flood (_sumahāhavaughe_)!
 </details>
 </details>
 
@@ -2759,7 +2759,7 @@ be content with it, holdback your greediness...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be gracious (prasīda), O lord of Laṅkā, sovereign of rākṣasas! Be serene and go in peace to Laṅkā (laṅkāṃ prasanno bhava sādhu gaccha); delight ever in your own wives (sveṣu dāreṣu ramasva), and let Rāma with his wife delight in the forests!”
+“Be gracious (_prasīda_), O lord of Laṅkā, sovereign of _rākṣasas_! Be serene and go in peace to Laṅkā (_laṅkāṃ prasanno bhava sādhu gaccha_); delight ever in your own wives (_sveṣu dāreṣu ramasva_), and let Rāma with his wife delight in the forests!”
 </details>
 </details>
 
@@ -2821,6 +2821,6 @@ and home. [3-31-50]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Mārīca, that ten-necked Rāvaṇa turned back (nyavartata) to the city of Laṅkā and entered his splendid palace (gṛhottamam).
+Thus addressed by Mārīca, that ten-necked Rāvaṇa turned back (_nyavartata_) to the city of Laṅkā and entered his splendid palace (_gṛhottamam_).
 </details>
 </details>

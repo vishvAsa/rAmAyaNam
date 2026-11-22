@@ -47,7 +47,7 @@ Following the destruction of the rākṣasas and Rāma’s enthronement, illustr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the slaughter of the rākṣasas had been accomplished (rākṣasānāṃ vadhe kṛte), all the sages came (ājagmur ṛṣayaḥ sarve) unto Rāma, who had regained his kingdom (prāpta-rājyasya rāmasya), in order to congratulate Rāghava (rāghavaṃ pratinanditum).
+When the slaughter of the rākṣasas had been accomplished (_rākṣasānāṃ vadhe kṛte_), all the sages came (_ājagmur ṛṣayaḥ sarve_) unto Rāma, who had regained his kingdom (_prāpta-rājyasya rāmasya_), in order to congratulate Rāghava (_rāghavaṃ pratinanditum_).
 </details>
 </details>
 
@@ -78,7 +78,7 @@ When the slaughter of the rākṣasas had been accomplished (rākṣasānāṃ v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kauśika, and likewise Yavakrīta, Gārgya, and Gālava, and Kaṇva, the son of Medhātithi (medhātitheḥ putraḥ)—all those who dwelt in the eastern quarter (pūrvasyāṃ diśi ye śritāḥ)—
+Kauśika, and likewise Yavakrīta, Gārgya, and Gālava, and Kaṇva, the son of Medhātithi (_medhātitheḥ putraḥ_)—all those who dwelt in the eastern quarter (_pūrvasyāṃ diśi ye śritāḥ_)—
 </details>
 </details>
 
@@ -111,7 +111,7 @@ Kauśika, and likewise Yavakrīta, Gārgya, and Gālava, and Kaṇva, the son of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the venerable Svastyātreya (svastyātreyo ’tha bhagavān), Namuci, and Pramucis—those who dwelt in the southern quarter (ye śritā dakṣiṇāṃ diśam) came accompanied by Agastya (sahāgastyāḥ).
+And the venerable Svastyātreya (_svastyātreyo ’tha bhagavān_), Namuci, and Pramucis—those who dwelt in the southern quarter (_ye śritā dakṣiṇāṃ diśam_) came accompanied by Agastya (_sahāgastyāḥ_).
 </details>
 </details>
 
@@ -145,7 +145,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived together with their disciples (sa-śiṣyāḥ), those who dwelt in the western quarter (ye śritāḥ paścimāṃ diśam).
+Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived together with their disciples (_sa-śiṣyāḥ_), those who dwelt in the western quarter (_ye śritāḥ paścimāṃ diśam_).
 </details>
 </details>
 
@@ -181,9 +181,9 @@ Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Vasiṣṭha, Kaśyapa, Atri, Viśvāmitra together with Gautama, Jamadagni, and Bharadvāja—those Seven Sages (saptarṣayaḥ) also arrived, all seven of whom are eternally residents of the northern quarter (udīcyāṃ diśi ... nityam eva nivāsinaḥ).
+**5:** Vasiṣṭha, Kaśyapa, Atri, Viśvāmitra together with Gautama, Jamadagni, and Bharadvāja—those Seven Sages (_saptarṣayaḥ_) also arrived, all seven of whom are eternally residents of the northern quarter (_udīcyāṃ diśi ... nityam eva nivāsinaḥ_).
 
-**6:** Having reached the royal palace of Rāghava (rāghavasya niveśanam), those high-souled ones, radiant as sacrificial fire (hutāśana-sama-prabhāḥ), stood waiting for the doorkeeper (viṣṭitāḥ pratihārārtham)—men learned in the Vedas and Vedāṅgas (veda-vedāṅga-viduṣaḥ) and deeply versed in manifold scriptures (nānā-śāstra-viśāradāḥ).
+**6:** Having reached the royal palace of Rāghava (_rāghavasya niveśanam_), those high-souled ones, radiant as sacrificial fire (_hutāśana-sama-prabhāḥ_), stood waiting for the doorkeeper (_viṣṭitāḥ pratihārārtham_)—men learned in the Vedas and Vedāṅgas (_veda-vedāṅga-viduṣaḥ_) and deeply versed in manifold scriptures (_nānā-śāstra-viśāradāḥ_).
 </details>
 </details>
 
@@ -224,7 +224,7 @@ At Agastya’s word the royal doorkeeper hastens directly to Rāma to announce t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the righteous Agastya, foremost among sages (munisattamaḥ), addressed the doorkeeper (dvāḥstham): “Let it be announced to Daśaratha’s son (nivedyatāṃ dāśaratheḥ) that we sages have arrived (ṛṣīn asmān samāgatān)!”
+Then the righteous Agastya, foremost among sages (_munisattamaḥ_), addressed the doorkeeper (_dvāḥstham_): “Let it be announced to Daśaratha’s son (_nivedyatāṃ dāśaratheḥ_) that we sages have arrived (_ṛṣīn asmān samāgatān_)!”
 </details>
 </details>
 
@@ -255,7 +255,7 @@ Then the righteous Agastya, foremost among sages (munisattamaḥ), addressed the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, at Agastya’s word (agastya-vacanāt), the doorkeeper (pratīhāraḥ), swiftly (tūrṇam) and in utmost haste (drutam), immediately (āśu) entered the presence of the high-souled Rāghava.
+Thereupon, at Agastya’s word (_agastya-vacanāt_), the doorkeeper (_pratīhāraḥ_), swiftly (_tūrṇam_) and in utmost haste (_drutam_), immediately (_āśu_) entered the presence of the high-souled Rāghava.
 </details>
 </details>
 
@@ -292,9 +292,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Skilled in policy and reading gestures (nayeṅgitajñaḥ), of upright conduct (sadvṛttaḥ), capable, and endowed with composure (dhairya-samanvitaḥ), he immediately beheld Rāma, radiant as the full moon (pūrṇacandra-samaprabham), and announced that Agastya had arrived together with the sages (samprāptam ṛṣibhiḥ saha).
+**9:** Skilled in policy and reading gestures (_nayeṅgitajñaḥ_), of upright conduct (_sadvṛttaḥ_), capable, and endowed with composure (_dhairya-samanvitaḥ_), he immediately beheld Rāma, radiant as the full moon (_pūrṇacandra-samaprabham_), and announced that Agastya had arrived together with the sages (_samprāptam ṛṣibhiḥ saha_).
 
-**10:** Hearing that those sages, resplendent as the rising sun (bāla-sūrya-samaprabhān), had arrived, Rāma thereupon replied to the doorkeeper (dvāsstham): “Conduct them in at their pleasure (praveśaya yathāsukham)!”
+**10:** Hearing that those sages, resplendent as the rising sun (_bāla-sūrya-samaprabhān_), had arrived, Rāma thereupon replied to the doorkeeper (_dvāsstham_): “Conduct them in at their pleasure (_praveśaya yathāsukham_)!”
 </details>
 </details>
 
@@ -328,7 +328,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those sages who had entered (tān samprāptān munīn dṛṣṭvā), Rāma rose to greet them (pratyutthāya) with palms joined in reverence (kṛtāñjaliḥ) and worshipped them with foot-water, guest-offerings, and the rest (pādyārghyādibhir ānarca), respectfully presenting a cow (gāṃ nivedya ca sādaram).
+Beholding those sages who had entered (_tān samprāptān munīn dṛṣṭvā_), Rāma rose to greet them (_pratyutthāya_) with palms joined in reverence (_kṛtāñjaliḥ_) and worshipped them with foot-water, guest-offerings, and the rest (_pādyārghyādibhir ānarca_), respectfully presenting a cow (_gāṃ nivedya ca sādaram_).
 </details>
 </details>
 
@@ -359,7 +359,7 @@ Beholding those sages who had entered (tān samprāptān munīn dṛṣṭvā), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed down in self-restraint (abhivādya prayataḥ), Rāma indicated seats for them (āsanāny ādideśa ha)—upon those spacious and precious seats inlaid with gold (kāñcana-citreṣu mahatsu ca vareṣu ca)—
+Having bowed down in self-restraint (_abhivādya prayataḥ_), Rāma indicated seats for them (_āsanāny ādideśa ha_)—upon those spacious and precious seats inlaid with gold (_kāñcana-citreṣu mahatsu ca vareṣu ca_)—
 </details>
 </details>
 
@@ -398,7 +398,7 @@ Seated upon gold-inlaid chairs cushioned with kuśa grass and deerskins, the sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—strewn beneath with layers of kuśa grass (kuśāntardhāna-datteṣu) and covered with deerskins (mṛgacarma-yuteṣu ca), upon which those foremost of sages (ṛṣi-puṅgavāḥ) took their seats according to rank (yathārham upaviṣṭāḥ).
+—strewn beneath with layers of _kuśa_ grass (_kuśāntardhāna-datteṣu_) and covered with deerskins (_mṛgacarma-yuteṣu ca_), upon which those foremost of sages (_ṛṣi-puṅgavāḥ_) took their seats according to rank (_yathārham upaviṣṭāḥ_).
 </details>
 </details>
 
@@ -435,9 +435,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Asked after their well-being by Rāma (rāmeṇa kuśalaṃ pṛṣṭāḥ), those great Veda-knowing sages (maharṣayo vedavidaḥ), attended by their disciples and foremost leaders (sa-śiṣyāḥ sa-purogamāḥ), spoke these words to Rāma:
+**14:** Asked after their well-being by Rāma (_rāmeṇa kuśalaṃ pṛṣṭāḥ_), those great Veda-knowing sages (_maharṣayo vedavidaḥ_), attended by their disciples and foremost leaders (_sa-śiṣyāḥ sa-purogamāḥ_), spoke these words to Rāma:
 
-**15:** “All is well with us everywhere (kuśalaṃ no ... sarvatra), O mighty-armed delight of the Raghus (raghunandana), since by good fortune (diṣṭyā) we behold you safe and well (kuśalinam), with all your foes slain (hata-śātravam).
+**15:** “All is well with us everywhere (_kuśalaṃ no ... sarvatra_), O mighty-armed delight of the Raghus (_raghunandana_), since by good fortune (_diṣṭyā_) we behold you safe and well (_kuśalinam_), with all your foes slain (_hata-śātravam_).
 </details>
 </details>
 
@@ -504,9 +504,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “By good fortune, O King, Rāvaṇa—who made the worlds weep (rāvaṇo lokarāvaṇaḥ)—has been slain by you; indeed, O Rāma, that Rāvaṇa, though attended by sons and grandsons (putra-pautravān), was no heavy burden for you (na hi bhāraḥ sa te).
+**16:** “By good fortune, O King, Rāvaṇa—who made the worlds weep (_rāvaṇo lokarāvaṇaḥ_)—has been slain by you; indeed, O Rāma, that Rāvaṇa, though attended by sons and grandsons (_putra-pautravān_), was no heavy burden for you (_na hi bhāraḥ sa te_).
 
-**17:** “For with bow in hand (sa-dhanuḥ), you could conquer the three worlds (lokāṃs trīn vijayethāḥ)—of that there is no doubt! By good fortune, O Rāma, Rāvaṇa, lord of the rākṣasas (rākṣaseśvaraḥ), has been slain by you.
+**17:** “For with bow in hand (_sa-dhanuḥ_), you could conquer the three worlds (_lokāṃs trīn vijayethāḥ_)—of that there is no doubt! By good fortune, O Rāma, Rāvaṇa, lord of the rākṣasas (_rākṣaseśvaraḥ_), has been slain by you.
 </details>
 </details>
 
@@ -537,7 +537,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune we behold you today victorious together with Sītā (vijayinaṃ tvādya paśyāmaḥ saha sītayā), and with Lakṣmaṇa, O righteous-souled one, your brother ever devoted to your welfare (bhrātrā tvad-dhita-kāriṇā).
+“By good fortune we behold you today victorious together with Sītā (_vijayinaṃ tvādya paśyāmaḥ saha sītayā_), and with Lakṣmaṇa, O righteous-souled one, your brother ever devoted to your welfare (_bhrātrā tvad-dhita-kāriṇā_).
 </details>
 </details>
 
@@ -579,7 +579,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, O King, we behold you united with your mothers and brothers (mātṛbhir bhrātṛ-sahitam). By good fortune Prahasta, Vikaṭa, Virūpākṣa, Mahodara, and the unassailable Akampana (akampanaś ca durdharṣaḥ)—all those night-roamers have been slain by you (nihatās te niśācarāḥ).
+“Today, O King, we behold you united with your mothers and brothers (_mātṛbhir bhrātṛ-sahitam_). By good fortune Prahasta, Vikaṭa, Virūpākṣa, Mahodara, and the unassailable Akampana (_akampanaś ca durdharṣaḥ_)—all those night-roamers have been slain by you (_nihatās te niśācarāḥ_).
 </details>
 </details>
 
@@ -613,7 +613,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune, O Rāma, Kumbhakarṇa—than whose vast proportions no greater bulk exists upon this earth (yasya pramāṇād vipulaṃ pramāṇaṃ neha vidyate)—has been struck down by you in battle (samare ... nipātitaḥ).
+“By good fortune, O Rāma, Kumbhakarṇa—than whose vast proportions no greater bulk exists upon this earth (_yasya pramāṇād vipulaṃ pramāṇaṃ neha vidyate_)—has been struck down by you in battle (_samare ... nipātitaḥ_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Triśiras and Atikāya, Devāntaka and Narāntaka—by good fortune, O Rāma, those night-roamers of mighty valor (mahāvīryā niśācarāḥ) have been slain by you.
+“Triśiras and Atikāya, Devāntaka and Narāntaka—by good fortune, O Rāma, those night-roamers of mighty valor (_mahāvīryā niśācarāḥ_) have been slain by you.
 </details>
 </details>
 
@@ -675,7 +675,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kumbha and Nikumbha as well, those two rākṣasas of terrifying aspect (rākṣasau bhīma-darśanau)—by good fortune, O Rāma, those two sons of Kumbhakarṇa (kumbhakarṇa-sutau) have been slain in combat (mṛdhe).
+“Kumbha and Nikumbha as well, those two rākṣasas of terrifying aspect (_rākṣasau bhīma-darśanau_)—by good fortune, O Rāma, those two sons of Kumbhakarṇa (_kumbhakarṇa-sutau_) have been slain in combat (_mṛdhe_).
 </details>
 </details>
 
@@ -706,7 +706,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yuddhonmatta and Matta, resembling Time the Destroyer and Yama (kālāntaka-yamopamau), and the mighty Yajñakopa, and the rākṣasa named Dhūmrākṣa—
+“Yuddhonmatta and Matta, resembling Time the Destroyer and Yama (_kālāntaka-yamopamau_), and the mighty Yajñakopa, and the rākṣasa named Dhūmrākṣa—
 </details>
 </details>
 
@@ -737,7 +737,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All these masters of weapons and celestial missiles (śastrāstra-pāragāḥ), who wrought terrible carnage (kurvantaḥ kadanaṃ ghoram), have by good fortune been utterly destroyed by you with shafts like Death himself (antaka-pratimair bāṇaiḥ).
+“All these masters of weapons and celestial missiles (_śastrāstra-pāragāḥ_), who wrought terrible carnage (_kurvantaḥ kadanaṃ ghoram_), have by good fortune been utterly destroyed by you with shafts like Death himself (_antaka-pratimair bāṇaiḥ_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ After congratulating Rāma on defeating Rāvaṇa in single combat, the sages st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune you met that lord of rākṣasas (rākṣasendreṇa)—invulnerable even to the gods (devatānām avadhyena)—in single combat (dvandva-yuddham upāgataḥ) and attained victory (vijayaṃ prāptavān asi).
+“By good fortune you met that lord of rākṣasas (_rākṣasendreṇa_)—invulnerable even to the gods (_devatānām avadhyena_)—in single combat (_dvandva-yuddham upāgataḥ_) and attained victory (_vijayaṃ prāptavān asi_).
 </details>
 </details>
 
@@ -807,7 +807,7 @@ After congratulating Rāma on defeating Rāvaṇa in single combat, the sages st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet the defeat of that Rāvaṇa in battle is as nothing (saṅkhye tasya na kiñcit tu rāvaṇasya parābhavaḥ); rather, by good fortune was Rāvaṇi [Indrajit], who came forth to single combat (dvandva-yuddham anuprāptaḥ), slain by you (diṣṭyā te rāvaṇir hataḥ)!
+“Yet the defeat of that Rāvaṇa in battle is as nothing (_saṅkhye tasya na kiñcit tu rāvaṇasya parābhavaḥ_); rather, by good fortune was Rāvaṇi [Indrajit], who came forth to single combat (_dvandva-yuddham anuprāptaḥ_), slain by you (_diṣṭyā te rāvaṇir hataḥ_)!
 </details>
 </details>
 
@@ -838,7 +838,7 @@ After congratulating Rāma on defeating Rāvaṇa in single combat, the sages st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune, O mighty-armed hero, were you delivered (muktaḥ) from that foe of the gods (suraripoḥ) charging forward like Death himself (kālasyevābhidhāvataḥ), and victory was won by you (prāptaś ca vijayas tvayā).
+“By good fortune, O mighty-armed hero, were you delivered (_muktaḥ_) from that foe of the gods (_suraripoḥ_) charging forward like Death himself (_kālasyevābhidhāvataḥ_), and victory was won by you (_prāptaś ca vijayas tvayā_).
 </details>
 </details>
 
@@ -869,7 +869,7 @@ After congratulating Rāma on defeating Rāvaṇa in single combat, the sages st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We all congratulate you (abhinandāma te sarve) upon hearing of the slaying of Indrajit (saṃśrutyendrajito vadham)! Invulnerable to all beings (avadhyaḥ sarva-bhūtānām) and wielder of supreme illusions in battle (mahāmāyādharo yudhi), he fills us with this sheer astonishment (vismayas tv eṣa cāsmākam) when we hear that Indrajit has been slain!
+“We all congratulate you (_abhinandāma te sarve_) upon hearing of the slaying of Indrajit (_saṃśrutyendrajito vadham_)! Invulnerable to all beings (_avadhyaḥ sarva-bhūtānām_) and wielder of supreme illusions in battle (_mahāmāyādharo yudhi_), he fills us with this sheer astonishment (_vismayas tv eṣa cāsmākam_) when we hear that Indrajit has been slain!
 </details>
 </details>
 
@@ -900,7 +900,7 @@ After congratulating Rāma on defeating Rāvaṇa in single combat, the sages st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These and many other shape-shifting rākṣasa heroes (rākṣasāḥ kāma-rūpiṇaḥ) have by good fortune been slain by you, O increaser of the race of the Raghus (raghūṇāṃ kulavarddhana)!
+“These and many other shape-shifting rākṣasa heroes (_rākṣasāḥ kāma-rūpiṇaḥ_) have by good fortune been slain by you, O increaser of the race of the Raghus (_raghūṇāṃ kulavarddhana_)!
 </details>
 </details>
 
@@ -941,7 +941,7 @@ Concluding their blessing upon Rāma for granting the worlds a sacred fee of fea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bestowed this pure and benign sacrificial fee of fearlessness (puṇyām imāṃ ... saumyām abhaya-dakṣiṇām), O hero, crusher of foes (amitra-karśana), by good fortune you flourish through victory (diṣṭyā vardhasi ... jayena), O scion of Kakutstha!”
+“Having bestowed this pure and benign sacrificial fee of fearlessness (_puṇyām imāṃ ... saumyām abhaya-dakṣiṇām_), O hero, crusher of foes (_amitra-karśana_), by good fortune you flourish through victory (_diṣṭyā vardhasi ... jayena_), O scion of Kakutstha!”
 </details>
 </details>
 
@@ -972,7 +972,7 @@ Concluding their blessing upon Rāma for granting the worlds a sacred fee of fea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the self-perfected sages (ṛṣīṇāṃ bhāvitātmanām), Rāma was filled with supreme astonishment (vismayaṃ paramaṃ gatvā) and spoke with joined palms (prāñjalir abravīt):
+Hearing those words of the self-perfected sages (_ṛṣīṇāṃ bhāvitātmanām_), Rāma was filled with supreme astonishment (_vismayaṃ paramaṃ gatvā_) and spoke with joined palms (_prāñjalir abravīt_):
 </details>
 </details>
 
@@ -1003,7 +1003,7 @@ Hearing those words of the self-perfected sages (ṛṣīṇāṃ bhāvitātman�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O revered ones (bhagavantaḥ), passing over Kumbhakarṇa and the night-roamer Rāvaṇa, both of mighty valor (atikramya mahāvīryau), why do you exalt Rāvaṇi (kiṃ praśaṃsatha rāvaṇim)?
+“O revered ones (_bhagavantaḥ_), passing over Kumbhakarṇa and the night-roamer Rāvaṇa, both of mighty valor (_atikramya mahāvīryau_), why do you exalt Rāvaṇi (_kiṃ praśaṃsatha rāvaṇim_)?
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Passing over Mahodara, Prahasta, and the rākṣasa Virūpākṣa, as well as the unassailable Matta and Unmatta, Devāntaka and Narāntaka—all warriors of mighty valor (atikramya mahāvīryān)—why do you exalt Rāvaṇi?
+“Passing over Mahodara, Prahasta, and the rākṣasa Virūpākṣa, as well as the unassailable Matta and Unmatta, Devāntaka and Narāntaka—all warriors of mighty valor (_atikramya mahāvīryān_)—why do you exalt Rāvaṇi?
 </details>
 </details>
 
@@ -1109,9 +1109,9 @@ Humbly disclaiming any command and asking only if the matter be no secret, Rāma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** “Of what sort indeed was his majesty (kīdṛśo vai prabhāvo ’sya), what his strength (kiṃ balam), and what his prowess (kaḥ parākramaḥ)? Or for what reason does he surpass Rāvaṇa himself (kena vā kāraṇenaiṣa rāvaṇād atiricyate)?
+**35:** “Of what sort indeed was his majesty (_kīdṛśo vai prabhāvo ’sya_), what his strength (_kiṃ balam_), and what his prowess (_kaḥ parākramaḥ_)? Or for what reason does he surpass Rāvaṇa himself (_kena vā kāraṇenaiṣa rāvaṇād atiricyate_)?
 
-**36:** “If it is fitting for me to hear (śakyaṃ yadi mayā śrotum)—by no means do I command you (na khalv ājñāpayāmi vaḥ)—and if it be no secret unfit to speak (yadi guhyaṃ na ced vaktum), I desire to hear it: pray tell me (śrotum icchāmi kathyatām)!
+**36:** “If it is fitting for me to hear (_śakyaṃ yadi mayā śrotum_)—by no means do I command you (_na khalv ājñāpayāmi vaḥ_)—and if it be no secret unfit to speak (_yadi guhyaṃ na ced vaktum_), I desire to hear it: pray tell me (_śrotum icchāmi kathyatām_)!
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ Humbly disclaiming any command and asking only if the matter be no secret, Rāma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How was even Śakra vanquished by him (śakro ’pi vijitas tena), and how did he obtain his boons (kathaṃ labdha-varaś ca saḥ)? And how was the son so mighty, rather than his father Rāvaṇa (kathaṃ ca balavān putro na pitā tasya rāvaṇaḥ)?
+“How was even Śakra vanquished by him (_śakro ’pi vijitas tena_), and how did he obtain his boons (_kathaṃ labdha-varaś ca saḥ_)? And how was the son so mighty, rather than his father Rāvaṇa (_kathaṃ ca balavān putro na pitā tasya rāvaṇaḥ_)?
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ Humbly disclaiming any command and asking only if the matter be no secret, Rāma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How was he superior to his father in great battle (pituś cābhyadhiko mahāhave), how indeed did that rākṣasa become the conqueror of Śakra (śakrasya jetā), and how were his boons obtained (varāś ca labdhāḥ)? Relate all of this to me today, O lord of sages (munīndra), as I ask you here (pṛcchataś cāsya)!”
+“How was he superior to his father in great battle (_pituś cābhyadhiko mahāhave_), how indeed did that rākṣasa become the conqueror of Śakra (_śakrasya jetā_), and how were his boons obtained (_varāś ca labdhāḥ_)? Relate all of this to me today, O lord of sages (_munīndra_), as I ask you here (_pṛcchataś cāsya_)!”
 </details>
 </details>
 

@@ -72,7 +72,7 @@ by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While she, though possessing a lord and protector (nāthavatyām), was putting on the bark garment like one protectorless (anāthavat), all the people cried out aloud (pracukrośa): “Fie upon you, O Daśaratha (dhik tvāṃ daśaratham)!”
+While she, though possessing a lord and protector (_nāthavatyām_), was putting on the bark garment like one protectorless (_anāthavat_), all the people cried out aloud (_pracukrośa_): “Fie upon you, O Daśaratha (_dhik tvāṃ daśaratham_)!”
 </details>
 </details>
 
@@ -146,9 +146,9 @@ not deserve to go with a robe made of Kusa grass."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Pierced with grief by that outcry there (tena tatra praṇādena), the lord of the earth severed all regard (ciccheda śraddhām) for his own life, dharma, and renown.
+**2:** Pierced with grief by that outcry there (_tena tatra praṇādena_), the lord of the earth severed all regard (_ciccheda śraddhām_) for his own life, _dharma_, and renown.
 
-**3:** Heaving a burning sigh (niḥśvasyoṣṇam), that scion of Ikṣvāku spoke these words unto that wife of his: “O Kaikeyī, Sītā ought not to go forth clad in a garment of kuśa-grass and bark (kuśa-cīreṇa)!
+**3:** Heaving a burning sigh (_niḥśvasyoṣṇam_), that scion of Ikṣvāku spoke these words unto that wife of his: “O Kaikeyī, Sītā ought not to go forth clad in a garment of _kuśa_-grass and bark (_kuśa-cīreṇa_)!
 </details>
 </details>
 
@@ -194,7 +194,7 @@ comforts, is not fit for forest-life"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tender of frame (sukumārī), young in years (bālā), and ever accustomed to happiness (sukhocitā), she is not fit for the forest—truly has my preceptor spoken!
+“Tender of frame (_sukumārī_), young in years (_bālā_), and ever accustomed to happiness (_sukhocitā_), she is not fit for the forest—truly has my preceptor spoken!
 </details>
 </details>
 
@@ -255,7 +255,7 @@ men?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Does this innocent princess (tapasvinī), the daughter of the foremost of kings (rāja-varasya putrī), ever do any wrong to anyone—she who, having come by a bark garment, stands stupefied (visaṃjñā) in the midst of the people like some female mendicant (śramaṇīva kācit)?
+“Does this innocent princess (_tapasvinī_), the daughter of the foremost of kings (_rāja-varasya putrī_), ever do any wrong to anyone—she who, having come by a bark garment, stands stupefied (_visaṃjñā_) in the midst of the people like some female mendicant (_śramaṇīva kācit_)?
 </details>
 </details>
 
@@ -321,7 +321,7 @@ all valuable possesssions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the daughter of Janaka cast aside the bark garments (cīrāṇy apāsyāt); this was no pledge given by me before (neyam pratijñā mama datta-pūrvā)! Let the princess go to the forest at her ease (yathā-sukham), complete in every equipage together with all her jewels (samagrā saha sarva-ratnaiḥ)!
+“Let the daughter of Janaka cast aside the bark garments (_cīrāṇy apāsyāt_); this was no pledge given by me before (_neyam pratijñā mama datta-pūrvā_)! Let the princess go to the forest at her ease (_yathā-sukham_), complete in every equipage together with all her jewels (_samagrā saha sarva-ratnaiḥ_)!
 </details>
 </details>
 
@@ -436,7 +436,7 @@ the bamboo dies after flowering. Like other grass, bamboo flowers are tiny and b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By me, unfit to live any longer (ajīvanārheṇa), a cruel pledge (nṛśaṃsā pratijñā) was made under a binding oath (niyamena tāvat); yet this further cruelty undertaken by you out of folly (bālyāt pratipannam etat)—may it not consume you (tan mā dahet) even as its own flower destroys the bamboo reed (veṇum ivātma-puṣpam)!
+“By me, unfit to live any longer (_ajīvanārheṇa_), a cruel pledge (_nṛśaṃsā pratijñā_) was made under a binding oath (_niyamena tāvat_); yet this further cruelty undertaken by you out of folly (_bālyāt pratipannam etat_)—may it not consume you (_tan mā dahet_) even as its own flower destroys the bamboo reed (_veṇum ivātma-puṣpam_)!
 </details>
 </details>
 
@@ -483,7 +483,7 @@ was displayed to you here by Seetha? Oh, mean woman!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if some displeasure (kiṃcit kṛtam aśobhanam) was done to you by Rāma, O sinful woman (pāpe), what offense against you in this world has been shown by Vaidehī, O base wretch (adhame)?
+“Even if some displeasure (_kiṃcit kṛtam aśobhanam_) was done to you by Rāma, O sinful woman (_pāpe_), what offense against you in this world has been shown by Vaidehī, O base wretch (_adhame_)?
 </details>
 </details>
 
@@ -535,7 +535,7 @@ of a female deer, soft in disposition a practiser of penance?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With eyes wide open like a doe’s (mṛgīvotphulla-nayanā), gentle in disposition (mṛdu-śīlā), and high-minded (manasvinī), what offense against you could the daughter of Janaka possibly commit?
+“With eyes wide open like a doe’s (_mṛgīvotphulla-nayanā_), gentle in disposition (_mṛdu-śīlā_), and high-minded (_manasvinī_), what offense against you could the daughter of Janaka possibly commit?
 </details>
 </details>
 
@@ -591,7 +591,7 @@ is there for you in further doing these wretched, sinful acts too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely the banishment of Rāma (rāma-vivāsanam) is sufficient for you, O sinful woman (nanu paryāptam evaṃ te pāpe)! What need have you of these further wretched and heinous sins (kṛpaṇair bhūyaḥ pātakaiḥ) wrought by you?
+“Surely the banishment of Rāma (_rāma-vivāsanam_) is sufficient for you, O sinful woman (_nanu paryāptam evaṃ te pāpe_)! What need have you of these further wretched and heinous sins (_kṛpaṇair bhūyaḥ pātakaiḥ_) wrought by you?
 </details>
 </details>
 
@@ -644,7 +644,7 @@ was acceded by me, Oh queen!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Listening to what was spoken by you, O Queen, when you addressed Rāma who had come here for his consecration (abhiṣekāya), I pledged only that much (pratijñātaṃ mayā tāvat).
+“Listening to what was spoken by you, O Queen, when you addressed Rāma who had come here for his consecration (_abhiṣekāya_), I pledged only that much (_pratijñātaṃ mayā tāvat_).
 </details>
 </details>
 
@@ -690,7 +690,7 @@ Seetha also clad in bark of trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Transgressing that bound (tat tv etat samatikramya), you desire to go to hell (nirayaṃ gantum icchasi), in that you look with longing (īkṣase) upon Maithilī too clad in bark garments (cīra-vāsinīm)!”
+“Transgressing that bound (_tat tv etat samatikramya_), you desire to go to hell (_nirayaṃ gantum icchasi_), in that you look with longing (_īkṣase_) upon Maithilī too clad in bark garments (_cīra-vāsinīm_)!”
 </details>
 </details>
 
@@ -755,7 +755,7 @@ the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto his father, who was speaking thus and sitting with his head bowed low (avāk-śirasam āsīnam), Rāma, now set to depart for the forest (samprasthito vanam), spoke these words:
+Unto his father, who was speaking thus and sitting with his head bowed low (_avāk-śirasam āsīnam_), Rāma, now set to depart for the forest (_samprasthito vanam_), spoke these words:
 </details>
 </details>
 
@@ -828,9 +828,9 @@ nature and will not accuse you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “O righteous King (dhārmika), this illustrious mother of mine, Kausalyā, is aged (vṛddhā), free from all meanness of disposition (akṣudra-śīlā), and does not reproach you (na ca tvāṃ deva garhate), O lord!
+**14:** “O righteous King (_dhārmika_), this illustrious mother of mine, Kausalyā, is aged (_vṛddhā_), free from all meanness of disposition (_akṣudra-śīlā_), and does not reproach you (_na ca tvāṃ deva garhate_), O lord!
 
-**15:** “O bestower of boons (varada), you ought to show even greater honour and regard (bhūyaḥ sammantuṃ arhasi) unto her who, bereft of me (mayā vihīnām) and having never before known calamity (adṛṣṭa-pūrva-vyasanām), has plunged into an ocean of grief (śoka-sāgaram)!
+**15:** “O bestower of boons (_varada_), you ought to show even greater honour and regard (_bhūyaḥ sammantuṃ arhasi_) unto her who, bereft of me (_mayā vihīnām_) and having never before known calamity (_adṛṣṭa-pūrva-vyasanām_), has plunged into an ocean of grief (_śoka-sāgaram_)!
 </details>
 </details>
 
@@ -883,7 +883,7 @@ of me, who is immersed in an ocean of sorrow and who has not see such an afflict
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Honoured by you who are worthy of all honour (tvayā pūjyena pūjitā), so that she may not succumb to grief for her son (putra-śokaṃ yathā narcchet), that sorrowing lady (tapasvinī), thinking intently of me, may yet remain alive through her devotion to you (tvayi jīvet).
+“Honoured by you who are worthy of all honour (_tvayā pūjyena pūjitā_), so that she may not succumb to grief for her son (_putra-śokaṃ yathā narcchet_), that sorrowing lady (_tapasvinī_), thinking intently of me, may yet remain alive through her devotion to you (_tvayi jīvet_).
 </details>
 </details>
 
@@ -951,7 +951,7 @@ such a grief for her son, thinking of me alone and she will draw breath in you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O peer of Mahendra (mahendropama), you ought so to act toward this mother of mine—whose whole longing is fixed on her son (jāta-gardhinīm)—that while I dwell in the forest, wasted by grief (śoka-karśitā), she may not lay down her life and depart to the abode of Yama (yama-kṣayaṃ vrajet)!”
+“O peer of Mahendra (_mahendropama_), you ought so to act toward this mother of mine—whose whole longing is fixed on her son (_jāta-gardhinīm_)—that while I dwell in the forest, wasted by grief (_śoka-karśitā_), she may not lay down her life and depart to the abode of Yama (_yama-kṣayaṃ vrajet_)!”
 </details>
 </details>
 

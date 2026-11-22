@@ -82,7 +82,7 @@ Realizing that his sixty thousand sons have been gone long, King Sagara dispatch
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Realizing that his sons had been gone for a long time (putrāṃś ciragatāñ jñātvā), O delight of the Raghus, King Sagara spoke to his grandson (naptāram, Aṃśumān), who was blazing with his own splendor (dīpyamānaṃ svatejasā):
+“Realizing that his sons had been gone for a long time (_putrāṃś ciragatāñ jñātvā_), O delight of the Raghus, King Sagara spoke to his grandson (_naptāram_, Aṃśumān), who was blazing with his own splendor (_dīpyamānaṃ svatejasā_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You are heroic (śūraś ca), accomplished in learning (kṛtavidyaś ca), and equal to your forefathers in splendor (pūrvais tulyo ’si tejasā); search out the fate of your paternal uncles (pitṝṇāṃ gatim anviccha) and the one by whom the horse was carried away (yena cāśvo ’pavāhitaḥ)!
+“‘You are heroic (_śūraś ca_), accomplished in learning (_kṛtavidyaś ca_), and equal to your forefathers in splendor (_pūrvais tulyo ’si tejasā_); search out the fate of your paternal uncles (_pitṝṇāṃ gatim anviccha_) and the one by whom the horse was carried away (_yena cāśvo ’pavāhitaḥ_)!
 </details>
 </details>
 
@@ -194,7 +194,7 @@ The living beings in netherworlds of earth are intrepid and they
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘The creatures dwelling within the interior of the earth (antarbhaumāni sattvāni) are both mighty in valor and huge in form (vīryavanti mahānti ca); to ward them off (teṣāṃ tu pratighātārtham), take up your bow along with your sword (sāsiṃ gṛhṇīṣva kārmukam).
+“‘The creatures dwelling within the interior of the earth (_antarbhaumāni sattvāni_) are both mighty in valor and huge in form (_vīryavanti mahānti ca_); to ward them off (_teṣāṃ tu pratighātārtham_), take up your bow along with your sword (_sāsiṃ gṛhṇīṣva kārmukam_).
 </details>
 </details>
 
@@ -251,7 +251,7 @@ The living beings in netherworlds of earth are intrepid and they
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Reverently saluting those worthy of salutation (abhivādyābhivādyāṃs tvam) and slaying even those who cause obstruction (hatvā vighnakarān api), return with your purpose accomplished (siddhārthaḥ saṃnivartasva) and bring my sacrifice to the further shore of completion (mama yajñasya pāragaḥ)!’
+“‘Reverently saluting those worthy of salutation (_abhivādyābhivādyāṃs tvam_) and slaying even those who cause obstruction (_hatvā vighnakarān api_), return with your purpose accomplished (_siddhārthaḥ saṃnivartasva_) and bring my sacrifice to the further shore of completion (_mama yajñasya pāragaḥ_)!’
 </details>
 </details>
 
@@ -298,7 +298,7 @@ When the great-souled king Sagara has thoroughly said in this way,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus duly instructed by the high-souled Sagara (evam ukto ’ṃśumān samyak sagareṇa mahātmanā), Aṃśumān, swift of stride (laghuvikramaḥ), took up his bow and sword (dhanur ādāya khaḍgaṃ ca) and set forth (jagāma).
+“Thus duly instructed by the high-souled Sagara (_evam ukto ’ṃśumān samyak sagareṇa mahātmanā_), Aṃśumān, swift of stride (_laghuvikramaḥ_), took up his bow and sword (_dhanur ādāya khaḍgaṃ ca_) and set forth (_jagāma_).
 </details>
 </details>
 
@@ -358,7 +358,7 @@ Motivated by the King Sagara, oh, Rama, the best one among men, Amshuman
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Urged on by that king (tena rājñābhicoditaḥ), O best of men (naraśreṣṭha), he reached the subterranean path that had been excavated by his high-souled paternal uncles (sa khātaṃ pitṛbhir mārgam antarbhaumaṃ mahātmabhiḥ prāpadyata).
+“Urged on by that king (_tena rājñābhicoditaḥ_), O best of men (_naraśreṣṭha_), he reached the subterranean path that had been excavated by his high-souled paternal uncles (_sa khātaṃ pitṛbhir mārgam antarbhaumaṃ mahātmabhiḥ prāpadyata_).
 </details>
 </details>
 
@@ -405,7 +405,7 @@ And he that resplendent Amshuman beheld one of the four directional
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Possessed of great splendor (mahātejā), he beheld the directional elephant (diśāgajam apaśyata, Virūpākṣa of the east) being worshipped by gods, Dānavas, and Rākṣasas, and by Piśācas, birds, and serpents (devadānavarakṣobhiḥ piśācapatagoragaiḥ pūjyamānam).
+“Possessed of great splendor (_mahātejā_), he beheld the directional elephant (_diśāgajam apaśyata_, Virūpākṣa of the east) being worshipped by gods, Dānavas, and Rākṣasas, and by Piśācas, birds, and serpents (_devadānavarakṣobhiḥ piśācapatagoragaiḥ pūjyamānam_).
 </details>
 </details>
 
@@ -457,7 +457,7 @@ On circumambulating that elephant in supplication, and even on enquiring
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having circumambulated him keeping him to the right (sa taṃ pradakṣiṇaṃ kṛtvā) and having inquired after his welfare (pṛṣṭvā caiva nirāmayam), he asked after his paternal uncles (pitṝn sa paripapraccha) as well as the abductor of the horse (vājihartāram eva ca).
+“Having circumambulated him keeping him to the right (_sa taṃ pradakṣiṇaṃ kṛtvā_) and having inquired after his welfare (_pṛṣṭvā caiva nirāmayam_), he asked after his paternal uncles (_pitṝn sa paripapraccha_) as well as the abductor of the horse (_vājihartāram eva ca_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ On hearing that enquiry of Amshuman that directional elephant with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that, the high-minded directional elephant replied (diśāgajas tu tac chrutvā pratyuvāca mahāmatiḥ): ‘O son of Asamañja (āsamañja), with your purpose fulfilled, you shall swiftly return together with the horse (kṛtārthas tvaṃ sahāśvaḥ śīghram eṣyasi)!’
+“Hearing that, the high-minded directional elephant replied (_diśāgajas tu tac chrutvā pratyuvāca mahāmatiḥ_): ‘O son of Asamañja (_āsamañja_), with your purpose fulfilled, you shall swiftly return together with the horse (_kṛtārthas tvaṃ sahāśvaḥ śīghram eṣyasi_)!’
 </details>
 </details>
 
@@ -561,7 +561,7 @@ On hearing that word of that directional elephant he departed from
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that speech of his (tasya tad vacanaṃ śrutvā), he proceeded to question all the directional elephants (sarvān eva diśāgajān praṣṭuṃ samupacakrame) in due sequence (yathākramam) and with due propriety (yathānyāyam).
+“Hearing that speech of his (_tasya tad vacanaṃ śrutvā_), he proceeded to question all the directional elephants (_sarvān eva diśāgajān praṣṭuṃ samupacakrame_) in due sequence (_yathākramam_) and with due propriety (_yathānyāyam_).
 </details>
 </details>
 
@@ -613,7 +613,7 @@ All the elephants that safeguard the directions of earth which have
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Honored by all those guardians of the quarters, who knew what was fitting to speak and were skilled in eloquent speech (taiś ca sarvair diśāpālair vākyajñair vākyakovidaiḥ pūjitaḥ), he was urged on with the words: ‘You shall return together with the horse (sahayaś caivāgantāsīty abhicoditaḥ)!’
+“Honored by all those guardians of the quarters, who knew what was fitting to speak and were skilled in eloquent speech (_taiś ca sarvair diśāpālair vākyajñair vākyakovidaiḥ pūjitaḥ_), he was urged on with the words: ‘You shall return together with the horse (_sahayaś caivāgantāsīty abhicoditaḥ_)!’
 </details>
 </details>
 
@@ -670,7 +670,7 @@ On hearing that common blessing of all the directional-elephants, he
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that speech of theirs (teṣāṃ tad vacanaṃ śrutvā), he of swift stride went to the place where his paternal uncles, the sons of Sagara, had been reduced to heaps of ashes (jagāma laghuvikramaḥ bhasmarāśīkṛtā yatra pitaras tasya sāgarāḥ).
+“Hearing that speech of theirs (_teṣāṃ tad vacanaṃ śrutvā_), he of swift stride went to the place where his paternal uncles, the sons of Sagara, had been reduced to heaps of ashes (_jagāma laghuvikramaḥ bhasmarāśīkṛtā yatra pitaras tasya sāgarāḥ_).
 </details>
 </details>
 
@@ -718,7 +718,7 @@ But he on whom the control of anguish has chanced for not physically
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then that son of Asamañja fell under the sway of sorrow (sa duḥkhavaśam āpannas tv asamañjasutas tadā); utterly afflicted with anguish over their slaughter, he cried aloud in great grief (cukrośa paramārtas tu vadhāt teṣāṃ suduḥkhitaḥ).
+“Then that son of Asamañja fell under the sway of sorrow (_sa duḥkhavaśam āpannas tv asamañjasutas tadā_); utterly afflicted with anguish over their slaughter, he cried aloud in great grief (_cukrośa paramārtas tu vadhāt teṣāṃ suduḥkhitaḥ_).
 </details>
 </details>
 
@@ -765,7 +765,7 @@ That tigerly-man Amshuman who is overwhelmed by agony and anguish,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Weighed down by grief and lamentation (duḥkhaśokasamanvitaḥ), that tiger among men beheld the sacrificial horse grazing not far from there (yajñiyaṃ ca hayaṃ tatra carantam avidūrataḥ dadarśa puruṣavyāghraḥ).
+“Weighed down by grief and lamentation (_duḥkhaśokasamanvitaḥ_), that tiger among men beheld the sacrificial horse grazing not far from there (_yajñiyaṃ ca hayaṃ tatra carantam avidūrataḥ dadarśa puruṣavyāghraḥ_).
 </details>
 </details>
 
@@ -820,7 +820,7 @@ When he that great resplendent Amshuman wanted to offer obsequial waters
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Desiring to perform the obsequial water-rite for those royal princes (sa teṣāṃ rājaputrāṇāṃ kartukāmo jalakriyām), that hero of great splendor sought water, yet saw no reservoir of water there (sa jalārthī mahātejā na cāpaśyaj jalāśayam).
+“Desiring to perform the obsequial water-rite for those royal princes (_sa teṣāṃ rājaputrāṇāṃ kartukāmo jalakriyām_), that hero of great splendor sought water, yet saw no reservoir of water there (_sa jalārthī mahātejā na cāpaśyaj jalāśayam_).
 </details>
 </details>
 
@@ -878,7 +878,7 @@ Spanning his expert glances, oh, Rama, he then saw the rapid-winged
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Casting his keen, far-seeing gaze all around (visārya nipuṇāṃ dṛṣṭim), O Rāma, he then beheld the lord of birds, Suparṇa (Garuḍa), the maternal uncle of his paternal uncles (tato ’paśyat khagādhipam pitṝṇāṃ mātulaṃ rāma suparṇam), swift as the wind (anilopamam).
+“Casting his keen, far-seeing gaze all around (_visārya nipuṇāṃ dṛṣṭim_), O Rāma, he then beheld the lord of birds, Suparṇa (Garuḍa), the maternal uncle of his paternal uncles (_tato ’paśyat khagādhipam pitṝṇāṃ mātulaṃ rāma suparṇam_), swift as the wind (_anilopamam_).
 </details>
 </details>
 
@@ -927,7 +927,7 @@ That great-mighty son of Lady Vinata, namely Garuda, also spoke this
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Vinatā’s son of mighty strength spoke this word to him (sa cainam abravīd vākyaṃ vainateyo mahābalaḥ): ‘Do not grieve, O tiger among men; this slaying is approved for the welfare of the worlds (mā śucaḥ puruṣavyāghra vadho ’yaṃ lokasaṃmataḥ)!
+“Then Vinatā’s son of mighty strength spoke this word to him (_sa cainam abravīd vākyaṃ vainateyo mahābalaḥ_): ‘Do not grieve, O tiger among men; this slaying is approved for the welfare of the worlds (_mā śucaḥ puruṣavyāghra vadho ’yaṃ lokasaṃmataḥ_)!
 </details>
 </details>
 
@@ -985,7 +985,7 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For these heroes of great strength were burned to ashes by the immeasurable Kapila (kapilenāprameyeṇa dagdhā hīme mahābalāḥ); therefore, O wise prince, you ought not to offer them ordinary earthly water (salilaṃ nārhasi prājña dātum eṣāṃ hi laukikam).
+“‘For these heroes of great strength were burned to ashes by the immeasurable Kapila (_kapilenāprameyeṇa dagdhā hīme mahābalāḥ_); therefore, O wise prince, you ought not to offer them ordinary earthly water (_salilaṃ nārhasi prājña dātum eṣāṃ hi laukikam_).
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Gaṅgā is the eldest daughter of Himavān (gaṅgā himavato jyeṣṭhā duhitā), O bull among men (puruṣarṣabha); in her waters, O mighty-armed one, perform the obsequial water-rite for your paternal uncles (tasyāṃ kuru mahābāho pitṝṇāṃ tu jalakriyām)!
+“‘Gaṅgā is the eldest daughter of Himavān (_gaṅgā himavato jyeṣṭhā duhitā_), O bull among men (_puruṣarṣabha_); in her waters, O mighty-armed one, perform the obsequial water-rite for your paternal uncles (_tasyāṃ kuru mahābāho pitṝṇāṃ tu jalakriyām_)!
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ World purifier River Ganga will drift them who are rendered as mounds
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘May she, the purifier of the worlds, drench these princes who have been reduced to heaps of ashes (bhasmarāśīkṛtān etān plāvayel lokapāvanī)! When this heap of ashes is moistened by that Gaṅgā, beloved of the worlds (tayā klinnam idaṃ bhasma gaṅgayā lokakāntayā), the sixty thousand sons shall ascend to the heavenly world (ṣaṣṭiṃ putrasahasrāṇi svargalokaṃ gamiṣyati).
+“‘May she, the purifier of the worlds, drench these princes who have been reduced to heaps of ashes (_bhasmarāśīkṛtān etān plāvayel lokapāvanī_)! When this heap of ashes is moistened by that Gaṅgā, beloved of the worlds (_tayā klinnam idaṃ bhasma gaṅgayā lokakāntayā_), the sixty thousand sons shall ascend to the heavenly world (_ṣaṣṭiṃ putrasahasrāṇi svargalokaṃ gamiṣyati_).
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ World purifier River Ganga will drift them who are rendered as mounds
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Depart, O illustrious bull among men, taking the horse with you (nirgacchāśvaṃ mahābhāga saṃgṛhya puruṣarṣabha); O hero, you ought to bring your grandfather’s sacrifice to completion (yajñaṃ paitāmahaṃ vīra nirvartayitum arhasi)!’
+“‘Depart, O illustrious bull among men, taking the horse with you (_nirgacchāśvaṃ mahābhāga saṃgṛhya puruṣarṣabha_); O hero, you ought to bring your grandfather’s sacrifice to completion (_yajñaṃ paitāmahaṃ vīra nirvartayitum arhasi_)!’
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ On hearing the words of that great-winged eagle, Garuda, he that highly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of Suparṇa (suparṇavacanaṃ śrutvā), that Aṃśumān of supreme valor and great asceticism (so ’ṃśumān ativīryavān mahātapāḥ) swiftly took the horse and returned once more (tvaritaṃ hayam ādāya punar āyāt).
+“Hearing the words of Suparṇa (_suparṇavacanaṃ śrutvā_), that Aṃśumān of supreme valor and great asceticism (_so ’ṃśumān ativīryavān mahātapāḥ_) swiftly took the horse and returned once more (_tvaritaṃ hayam ādāya punar āyāt_).
 </details>
 </details>
 
@@ -1262,7 +1262,7 @@ Then on reaching the King Sagara, who is under the vow of the ritual,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then approaching the king, who was still under sacrificial initiation (tato rājānam āsādya dīkṣitam), O delight of the Raghus, Aṃśumān related everything just as it had happened (nyavedayad yathāvṛttam) as well as the counsel of Suparṇa (suparṇavacanaṃ tathā).
+“Then approaching the king, who was still under sacrificial initiation (_tato rājānam āsādya dīkṣitam_), O delight of the Raghus, Aṃśumān related everything just as it had happened (_nyavedayad yathāvṛttam_) as well as the counsel of Suparṇa (_suparṇavacanaṃ tathā_).
 </details>
 </details>
 
@@ -1310,7 +1310,7 @@ On hearing those unendurable words from Amshuman, the king Sagara firstly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that dreadful-seeming report of Aṃśumān (tac chrutvā ghorasaṃkāśaṃ vākyam aṃśumato nṛpaḥ), the king brought the sacrifice to completion (yajñaṃ nirvartayām āsa) in due order and according to scriptural ordinance (yathākalpaṃ yathāvidhi).
+“Hearing that dreadful-seeming report of Aṃśumān (_tac chrutvā ghorasaṃkāśaṃ vākyam aṃśumato nṛpaḥ_), the king brought the sacrifice to completion (_yajñaṃ nirvartayām āsa_) in due order and according to scriptural ordinance (_yathākalpaṃ yathāvidhi_).
 </details>
 </details>
 
@@ -1367,7 +1367,7 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having completed the sacrifice (iṣṭayajñaḥ), the glorious lord of the earth returned to his own capital city (svapuraṃ tv agamac chrīmān mahīpatiḥ); yet the king could not arrive at any definite plan for bringing down Gaṅgā (gaṅgāyāś cāgame rājā niścayaṃ nādhyagacchata).
+“Having completed the sacrifice (_iṣṭayajñaḥ_), the glorious lord of the earth returned to his own capital city (_svapuraṃ tv agamac chrīmān mahīpatiḥ_); yet the king could not arrive at any definite plan for bringing down Gaṅgā (_gaṅgāyāś cāgame rājā niścayaṃ nādhyagacchata_).
 </details>
 </details>
 
@@ -1427,7 +1427,7 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without discovering a decisive means even after a long time (agatvā niścayaṃ rājā kālena mahatā), the great king ruled the kingdom for thirty thousand years and then departed to heaven (mahān triṃśadvarṣasahasrāṇi rājyaṃ kṛtvā divaṃ gataḥ).”
+“Without discovering a decisive means even after a long time (_agatvā niścayaṃ rājā kālena mahatā_), the great king ruled the kingdom for thirty thousand years and then departed to heaven (_mahān triṃśadvarṣasahasrāṇi rājyaṃ kṛtvā divaṃ gataḥ_).”
 </details>
 </details>
 

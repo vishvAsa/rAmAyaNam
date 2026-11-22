@@ -68,7 +68,7 @@ Perceiving Rāma’s anger, Vasiṣṭha assures him that Jābāli too knows the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that Rāma was incensed, Vasiṣṭha replied to him (kruddham ājñāya rāmaṃ taṃ vasiṣṭhaḥ pratyuvāca ha): “Jābāli too knows the departure and return of this world (jābālir api jānīte lokasyāsya gatāgatim);
+Perceiving that Rāma was incensed, Vasiṣṭha replied to him (_kruddham ājñāya rāmaṃ taṃ vasiṣṭhaḥ pratyuvāca ha_): “Jābāli too knows the departure and return of this world (_jābālir api jānīte lokasyāsya gatāgatim_);
 </details>
 </details>
 
@@ -105,7 +105,7 @@ Perceiving that Rāma was incensed, Vasiṣṭha replied to him (kruddham ājñ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-only out of a desire to turn you back did he utter this speech to you (nivartayitu-kāmas tu tvām etad vākyam uktavān). Learn now from me, O lord of the world, this origin of the world (imāṃ loka-samutpattiṃ loka-nātha nibodha me):
+only out of a desire to turn you back did he utter this speech to you (_nivartayitu-kāmas tu tvām etad vākyam uktavān_). Learn now from me, O lord of the world, this origin of the world (_imāṃ loka-samutpattiṃ loka-nātha nibodha me_):
 </details>
 </details>
 
@@ -158,7 +158,7 @@ that, the self-existent Brahma with all the gods came into existence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All was water alone, wherein the earth was fashioned (sarvaṃ salilam evāsīt pṛthivī yatra nirmitā); thence arose the self-born Brahmā together with the gods (tataḥ samabhavad brahmā svayambhūr daivataiḥ saha).
+All was water alone, wherein the earth was fashioned (_sarvaṃ salilam evāsīt pṛthivī yatra nirmitā_); thence arose the self-born Brahmā together with the gods (_tataḥ samabhavad brahmā svayambhūr daivataiḥ saha_).
 </details>
 </details>
 
@@ -211,7 +211,7 @@ water and with his sons of pure soul, created the entire world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, becoming a boar, he lifted up the earth (sa varāhas tato bhūtvā projjahāra vasundharām), and together with his self-controlled mind-born sons he created the entire universe (asṛjac ca jagat sarvaṃ saha putraiḥ kṛtātmabhiḥ).
+Then, becoming a boar, he lifted up the earth (_sa varāhas tato bhūtvā projjahāra vasundharām_), and together with his self-controlled mind-born sons he created the entire universe (_asṛjac ca jagat sarvaṃ saha putraiḥ kṛtātmabhiḥ_).
 </details>
 </details>
 
@@ -264,7 +264,7 @@ his was born Marichi. Marichi's son was kashyapa."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the supreme ether of Brahman sprang Brahmā, eternal, changeless, and imperishable (ākāśa-prabhavo brahmā śāśvato nitya avyayaḥ); from him was born Marīci, and Marīci’s son was Kaśyapa (tasmān marīciḥ saṃjajñe marīceḥ kāśyapaḥ sutaḥ).
+From the supreme ether of Brahman sprang Brahmā, eternal, changeless, and imperishable (_ākāśa-prabhavo brahmā śāśvato nitya avyayaḥ_); from him was born Marīci, and Marīci’s son was Kaśyapa (_tasmān marīciḥ saṃjajñe marīceḥ kāśyapaḥ sutaḥ_).
 </details>
 </details>
 
@@ -317,7 +317,7 @@ his part, was formerly the lord of creation. Ikshvaku was Manu' s son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From Kaśyapa was born Vivasvān, and Manu Vaivasvata was his son (vivasvān kāśyapāj jajñe manur vaivasvatas sutaḥ); he was the lord of creatures of old, and Ikṣvāku was Manu’s son (sa tu prajāpatiḥ pūrvam ikṣvākus tu manoḥ sutaḥ).
+From Kaśyapa was born Vivasvān, and Manu Vaivasvata was his son (_vivasvān kāśyapāj jajñe manur vaivasvatas sutaḥ_); he was the lord of creatures of old, and Ikṣvāku was Manu’s son (_sa tu prajāpatiḥ pūrvam ikṣvākus tu manoḥ sutaḥ_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ thus the first king of Ayodhya!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Know that Ikṣvāku, unto whom this prosperous earth was first given by Manu (yasyeyaṃ prathamaṃ dattā samṛddhā manunā mahī), was the first king in Ayodhyā (tam ikṣvākum ayodhyāyāṃ rājānaṃ viddhi pūrvakam).
+Know that Ikṣvāku, unto whom this prosperous earth was first given by Manu (_yasyeyaṃ prathamaṃ dattā samṛddhā manunā mahī_), was the first king in Ayodhyā (_tam ikṣvākum ayodhyāyāṃ rājānaṃ viddhi pūrvakam_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ the valiant Vikukshi."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ikṣvāku’s illustrious son was renowned by the name of Kukṣi (ikṣvākos tu sutaḥ śrīmān kukṣir eveti viśrutaḥ); and from Kukṣi was born the heroic son Vikukṣi (kukṣer athātmajo vīro vikukṣir udapadyata).
+Ikṣvāku’s illustrious son was renowned by the name of Kukṣi (_ikṣvākos tu sutaḥ śrīmān kukṣir eveti viśrutaḥ_); and from Kukṣi was born the heroic son Vikukṣi (_kukṣer athātmajo vīro vikukṣir udapadyata_).
 </details>
 </details>
 
@@ -485,7 +485,7 @@ Anaranya the mighty armed and the most illustrious son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vikukṣi’s son was the mighty and valorous Bāṇa of great splendor (vikukṣes tu mahā-tejā bāṇaḥ putraḥ pratāpavān), and Bāṇa’s son was the great-armed Anaraṇya of great renown (bāṇasya tu mahā-bāhur anaraṇyo mahā-yaśāḥ).
+Vikukṣi’s son was the mighty and valorous Bāṇa of great splendor (_vikukṣes tu mahā-tejā bāṇaḥ putraḥ pratāpavān_), and Bāṇa’s son was the great-armed Anaraṇya of great renown (_bāṇasya tu mahā-bāhur anaraṇyo mahā-yaśāḥ_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ neither dearth of rain nor a drought. No one was a thief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that foremost of good men, the great king Anaraṇya, reigned (asmin satāṃ vare anaraṇye mahā-rāje), there was neither drought nor famine, nor was there any thief at all (nānāvṛṣṭir babhūva na durbhikṣaṃ taskaro nāpi kaścana).
+While that foremost of good men, the great king Anaraṇya, reigned (_asmin satāṃ vare anaraṇye mahā-rāje_), there was neither drought nor famine, nor was there any thief at all (_nānāvṛṣṭir babhūva na durbhikṣaṃ taskaro nāpi kaścana_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ true eloquence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From Anaraṇya was born the great-armed King Pṛthu (anaraṇyān mahā-bāhuḥ pṛthū rājā babhūva ha); from that Pṛthu arose the great king Triśaṅku (tasmāt pṛthor mahā-rājas triśaṅkur udapadyata), and through truthful speech that hero went to heaven in his very body (sa satya-vacanād vīraḥ sa-śarīro divaṅ gataḥ).
+From Anaraṇya was born the great-armed King Pṛthu (_anaraṇyān mahā-bāhuḥ pṛthū rājā babhūva ha_); from that Pṛthu arose the great king Triśaṅku (_tasmāt pṛthor mahā-rājas triśaṅkur udapadyata_), and through truthful speech that hero went to heaven in his very body (_sa satya-vacanād vīraḥ sa-śarīro divaṅ gataḥ_).
 </details>
 </details>
 
@@ -645,7 +645,7 @@ born the hero, Yuvanasva."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Triśaṅku’s son of great renown was Dhundhumāra (triśaṅkor abhavat sūnur dhundhumāro mahā-yaśāḥ): he was born as Yuvanāśva of great splendor, who became known as Dhundhumāra (dhundhumāro mahā-tejā yuvanāśvo vyajāyata).
+Triśaṅku’s son of great renown was Dhundhumāra (_triśaṅkor abhavat sūnur dhundhumāro mahā-yaśāḥ_): he was born as Yuvanāśva of great splendor, who became known as Dhundhumāra (_dhundhumāro mahā-tejā yuvanāśvo vyajāyata_).
 </details>
 </details>
 
@@ -687,7 +687,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yuvanāśva’s illustrious son was Māndhātā (yuvanāśva-sutaḥ śrīmān māndhātā samapadyata), and from Māndhātā arose Susandhi of great splendor (māndhātus tu mahā-tejāḥ susandhir udapadyata).
+Yuvanāśva’s illustrious son was Māndhātā (_yuvanāśva-sutaḥ śrīmān māndhātā samapadyata_), and from Māndhātā arose Susandhi of great splendor (_māndhātus tu mahā-tejāḥ susandhir udapadyata_).
 </details>
 </details>
 
@@ -737,7 +737,7 @@ born the illustrious Bharata, the annihilator of enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Susandhi had two sons, Dhruvasandhi and Prasenajit (susandher api putrau dvau dhruvasandhiḥ prasenajit); and Dhruvasandhi’s renowned son was Bharata, the destroyer of foes (yaśasvī dhruvasandhes tu bharato ripu-sūdanaḥ).
+Susandhi had two sons, Dhruvasandhi and Prasenajit (_susandher api putrau dvau dhruvasandhiḥ prasenajit_); and Dhruvasandhi’s renowned son was Bharata, the destroyer of foes (_yaśasvī dhruvasandhes tu bharato ripu-sūdanaḥ_).
 </details>
 </details>
 
@@ -768,7 +768,7 @@ Susandhi had two sons, Dhruvasandhi and Prasenajit (susandher api putrau dvau dh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the great-armed Bharata was born a son named Asita (bharatāt tu mahā-bāhor asito nāma jāyata), against whom these hostile kings arose as enemies—the Haihayas, the Tālajaṅghas, and the fierce Śaśibindus (yasyaite pratirājāna udapadyanta śatravaḥ haihayās tālajaṅghāś ca śūrāś ca śaśibindavaḥ).
+From the great-armed Bharata was born a son named Asita (_bharatāt tu mahā-bāhor asito nāma jāyata_), against whom these hostile kings arose as enemies—the Haihayas, the Tālajaṅghas, and the fierce Śaśibindus (_yasyaite pratirājāna udapadyanta śatravaḥ haihayās tālajaṅghāś ca śūrāś ca śaśibindavaḥ_).
 </details>
 </details>
 
@@ -818,7 +818,7 @@ adversaries, Haihayas, Talajanghas and the valiant Shashibindavas became the ene
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having arrayed his forces and fought against all of them in battle, the king was driven into exile (tāṃs tu sarvān prativyūhya yuddhe rājā pravāsitaḥ), and on a delightful mountain-king he became an ascetic devoted to contemplation (sa ca śaila-vare ramye babhūvābhirato muniḥ).
+Having arrayed his forces and fought against all of them in battle, the king was driven into exile (_tāṃs tu sarvān prativyūhya yuddhe rājā pravāsitaḥ_), and on a delightful mountain-king he became an ascetic devoted to contemplation (_sa ca śaila-vare ramye babhūvābhirato muniḥ_).
 </details>
 </details>
 
@@ -875,7 +875,7 @@ mountain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His two wives were with child, so runs the tradition (dve cāsya bhārye garbhiṇyau babhūvatur iti śrutiḥ); and one of them, to destroy the fetus, gave poison to her co-wife (ekā garbha-vināśāya sapatnyai sa-garaṃ dadau).
+His two wives were with child, so runs the tradition (_dve cāsya bhārye garbhiṇyau babhūvatur iti śrutiḥ_); and one of them, to destroy the fetus, gave poison to her co-wife (_ekā garbha-vināśāya sapatnyai sa-garaṃ dadau_).
 </details>
 </details>
 
@@ -966,9 +966,9 @@ spoke the following words to her, who wanted to obtain a boon for the birth of a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** A Bhārgava sage named Cyavana had taken up his abode on Himavān (bhārgavaś cyavano nāma himavantam upāśritaḥ); approaching that sage, Queen Kālindī reverently saluted him (tam ṛṣiṃ samupāgamya kālindī tv abhyavādayat).
+**18:** A Bhārgava sage named Cyavana had taken up his abode on Himavān (_bhārgavaś cyavano nāma himavantam upāśritaḥ_); approaching that sage, Queen Kālindī reverently saluted him (_tam ṛṣiṃ samupāgamya kālindī tv abhyavādayat_).
 
-**19:** That Brāhmaṇa spoke unto her as she sought a boon at the birth of her son (sa tām abhyavadad vipro varepsuṃ putra-janmani): “A high-souled son, renowned throughout the world, shall be born to you, O queen (putras te bhavitā devi mahātmā loka-viśrutaḥ)—righteous, of noble character, the founder of a line, and a destroyer of foes (dhārmikaś ca suśīlaś ca vaṃśa-kartārisūdanaḥ).”
+**19:** That Brāhmaṇa spoke unto her as she sought a boon at the birth of her son (_sa tām abhyavadad vipro varepsuṃ putra-janmani_): “A high-souled son, renowned throughout the world, shall be born to you, O queen (_putras te bhavitā devi mahātmā loka-viśrutaḥ_)—righteous, of noble character, the founder of a line, and a destroyer of foes (_dhārmikaś ca suśīlaś ca vaṃśa-kartārisūdanaḥ_).”
 </details>
 </details>
 
@@ -1021,7 +1021,7 @@ a perpetuator of the race and an annihilator of enemies will be born to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having circumambulated that sage and taken his leave with a joyful heart (kṛtvā pradakṣiṇaṃ hṛṣṭā muniṃ tam anumānya ca), that queen then returned home and gave birth to a son with eyes like lotus petals and a radiance like the pericarp of a lotus (padma-patra-samānākṣaṃ padma-garbha-sama-prabham tataḥ sā gṛham āgamya devī putraṃ vyajāyata).
+Having circumambulated that sage and taken his leave with a joyful heart (_kṛtvā pradakṣiṇaṃ hṛṣṭā muniṃ tam anumānya ca_), that queen then returned home and gave birth to a son with eyes like lotus petals and a radiance like the pericarp of a lotus (_padma-patra-samānākṣaṃ padma-garbha-sama-prabham tataḥ sā gṛham āgamya devī putraṃ vyajāyata_).
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ of the poeple! Learn from me of the creation of the world!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now poison had been given to her by her co-wife out of a desire to destroy her fetus (sapatnyā tu garas tasyai datto garbha-jighāṃsayā); born together with that very poison, he became Sagara (gareṇa saha tenaiva jātaḥ sa sagaro ’bhavat).
+Now poison had been given to her by her co-wife out of a desire to destroy her fetus (_sapatnyā tu garas tasyai datto garbha-jighāṃsayā_); born together with that very poison, he became Sagara (_gareṇa saha tenaiva jātaḥ sa sagaro ’bhavat_).
 </details>
 </details>
 
@@ -1155,9 +1155,9 @@ with that poison itself, he became Sagara (a man with poison)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** He was that king named Sagara who, having entered sacrificial consecration, caused the ocean to be excavated (sa rājā sagaro nāma yaḥ samudram akhānayat) as it was terrifying these subjects with its surging tide at the change of the moon (iṣṭvā parvaṇi vegena trāsayantam imāḥ prajāḥ).
+**22:** He was that king named Sagara who, having entered sacrificial consecration, caused the ocean to be excavated (_sa rājā sagaro nāma yaḥ samudram akhānayat_) as it was terrifying these subjects with its surging tide at the change of the moon (_iṣṭvā parvaṇi vegena trāsayantam imāḥ prajāḥ_).
 
-**23:** Asamañja was the son of Sagara, so we have heard (asamañjas tu putro ’bhūt sagarasyeti naḥ śrutam); because he committed wicked deeds, he was banished by his father while still alive (jīvann eva sa pitrā tu nirastaḥ pāpa-karma-kṛt).
+**23:** Asamañja was the son of Sagara, so we have heard (_asamañjas tu putro ’bhūt sagarasyeti naḥ śrutam_); because he committed wicked deeds, he was banished by his father while still alive (_jīvann eva sa pitrā tu nirastaḥ pāpa-karma-kṛt_).
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ the full moon, by his energy, frightened the people here by the speed of his dig
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heroic Aṃśumān was the son of Asamañja (aṃśumān api putro ’bhūd asamañjasya vīryavān); Dilīpa was Aṃśumān’s son, and Dilīpa’s son was Bhagīratha (dilīpo ’ṃśumataḥ putro dilīpasya bhagīrathaḥ).
+Heroic Aṃśumān was the son of Asamañja (_aṃśumān api putro ’bhūd asamañjasya vīryavān_); Dilīpa was Aṃśumān’s son, and Dilīpa’s son was Bhagīratha (_dilīpo ’ṃśumataḥ putro dilīpasya bhagīrathaḥ_).
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ Asamanja was banished by his father even during his life time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From Bhagīratha was born Kakutstha, after whom the Kākutsthas are renowned (bhagīrathāt kakutsthas tu kākutsthā yena viśrutāḥ); and Kakutstha’s son was Raghu, after whom the Rāghavas are named (kakutsthasya ca putro ’bhūd raghur yena tu rāghavāḥ).
+From Bhagīratha was born Kakutstha, after whom the Kākutsthas are renowned (_bhagīrathāt kakutsthas tu kākutsthā yena viśrutāḥ_); and Kakutstha’s son was Raghu, after whom the Rāghavas are named (_kakutsthasya ca putro ’bhūd raghur yena tu rāghavāḥ_).
 </details>
 </details>
 
@@ -1326,7 +1326,7 @@ Bhagiratha was Dilipa's son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raghu’s son of great splendor was Pravṛddha, the devourer of men (raghos tu putras tejasvī pravṛddhaḥ puruṣādakaḥ), who was famous on earth as Kalmāṣapāda and Saudāsa (kalmāṣapādaḥ saudāsa ity evaṃ prathito bhuvi).
+Raghu’s son of great splendor was Pravṛddha, the devourer of men (_raghos tu putras tejasvī pravṛddhaḥ puruṣādakaḥ_), who was famous on earth as Kalmāṣapāda and Saudāsa (_kalmāṣapādaḥ saudāsa ity evaṃ prathito bhuvi_).
 </details>
 </details>
 
@@ -1378,7 +1378,7 @@ Kakutsthas was born a son called Raghu, from whence spring Raghavas."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kalmāṣapāda’s son was renowned as Śaṅkhaṇa (kalmāṣapāda-putro ’bhūc chaṅkhaṇas tv iti viśrutaḥ), who, upon encountering his father’s demonic might, perished together with his army (yas tu tad-vīryam āsādya saha-sainyo vyanīnaśat).
+Kalmāṣapāda’s son was renowned as Śaṅkhaṇa (_kalmāṣapāda-putro ’bhūc chaṅkhaṇas tv iti viśrutaḥ_), who, upon encountering his father’s demonic might, perished together with his army (_yas tu tad-vīryam āsādya saha-sainyo vyanīnaśat_).
 </details>
 </details>
 
@@ -1430,7 +1430,7 @@ names Purushadaka, Kalmashapada and Soudasa."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Śaṅkhaṇa’s son was the heroic and illustrious Sudarśana (śaṅkhaṇasya ca putro ’bhūc chūraḥ śrīmān sudarśanaḥ); Sudarśana’s son was Agnivarṇa, and Agnivarṇa’s son was Śīghraga (sudarśanasyāgnivarṇa agnivarṇasya śīghragaḥ).
+Śaṅkhaṇa’s son was the heroic and illustrious Sudarśana (_śaṅkhaṇasya ca putro ’bhūc chūraḥ śrīmān sudarśanaḥ_); Sudarśana’s son was Agnivarṇa, and Agnivarṇa’s son was Śīghraga (_sudarśanasyāgnivarṇa agnivarṇasya śīghragaḥ_).
 </details>
 </details>
 
@@ -1482,7 +1482,7 @@ valour, perished (in a battle) along with his army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Śīghraga’s son was Maru, and Maru’s son was Praśuśruka (śīghragasya maruḥ putro maroḥ putraḥ praśuśrukaḥ); and Praśuśruka’s son was Ambarīṣa of great splendor (praśuśrukasya putro ’bhūd ambarīṣo mahā-dyutiḥ).
+Śīghraga’s son was Maru, and Maru’s son was Praśuśruka (_śīghragasya maruḥ putro maroḥ putraḥ praśuśrukaḥ_); and Praśuśruka’s son was Ambarīṣa of great splendor (_praśuśrukasya putro ’bhūd ambarīṣo mahā-dyutiḥ_).
 </details>
 </details>
 
@@ -1521,7 +1521,7 @@ Completing the genealogy from Ambarīṣa through Nahuṣa, Nābhāga, Aja, and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ambarīṣa’s son was Nahuṣa of true valor (ambarīṣasya putro ’bhūn nahuṣaḥ satya-vikramaḥ), and Nahuṣa’s son was the supremely righteous Nābhāga (nahuṣasya ca nābhāgaḥ putraḥ parama-dhārmikaḥ).
+Ambarīṣa’s son was Nahuṣa of true valor (_ambarīṣasya putro ’bhūn nahuṣaḥ satya-vikramaḥ_), and Nahuṣa’s son was the supremely righteous Nābhāga (_nahuṣasya ca nābhāgaḥ putraḥ parama-dhārmikaḥ_).
 </details>
 </details>
 
@@ -1552,7 +1552,7 @@ Ambarīṣa’s son was Nahuṣa of true valor (ambarīṣasya putro ’bhūn na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Aja and Suvrata were the two sons of Nābhāga (ajaś ca suvrataś caiva nābhāgasya sutāv ubhau), and Aja’s son was the righteous-souled King Daśaratha (ajasya caiva dharmātmā rājā daśarathaḥ sutaḥ).
+Aja and Suvrata were the two sons of Nābhāga (_ajaś ca suvrataś caiva nābhāgasya sutāv ubhau_), and Aja’s son was the righteous-souled King Daśaratha (_ajasya caiva dharmātmā rājā daśarathaḥ sutaḥ_).
 </details>
 </details>
 
@@ -1586,7 +1586,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You are his eldest son and heir, renowned by the name of Rāma (tasya jyeṣṭho ’si dāyādo rāma ity abhiviśrutaḥ); therefore accept your own kingdom and look after the people, O king (tad gṛhāṇa svakaṃ rājyam avekṣasva janaṃ nṛpa).
+You are his eldest son and heir, renowned by the name of Rāma (_tasya jyeṣṭho ’si dāyādo rāma ity abhiviśrutaḥ_); therefore accept your own kingdom and look after the people, O king (_tad gṛhāṇa svakaṃ rājyam avekṣasva janaṃ nṛpa_).
 </details>
 </details>
 
@@ -1645,7 +1645,7 @@ two sons of Nabhaga and it was Aja who begot the virtuous King Dasartha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For among all the Ikṣvākus the firstborn becomes king (ikṣvākūṇāṃ hi sarveṣāṃ rājā bhavati pūrvajaḥ); while an elder brother lives, a younger son is never consecrated in the kingdom—it is the eldest who is consecrated (pūrvaje nāvaraḥ putro jyeṣṭho rājye ’bhiṣicyate).
+For among all the Ikṣvākus the firstborn becomes king (_ikṣvākūṇāṃ hi sarveṣāṃ rājā bhavati pūrvajaḥ_); while an elder brother lives, a younger son is never consecrated in the kingdom—it is the eldest who is consecrated (_pūrvaje nāvaraḥ putro jyeṣṭho rājye ’bhiṣicyate_).
 </details>
 </details>
 
@@ -1699,7 +1699,7 @@ there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore you ought not today to destroy the eternal ancestral law of your own race of the Rāghavas (sa rāghavāṇāṃ kula-dharmam ātmanaḥ sanātanaṃ nādya vihantum arhasi); rule like your father over the earth, rich in abundant gems and populous realms, O you of great renown (prabhūta-ratnām anuśādhi medinīṃ prabhūta-rāṣṭrāṃ pitṛvan mahā-yaśaḥ).”
+Therefore you ought not today to destroy the eternal ancestral law of your own race of the Rāghavas (_sa rāghavāṇāṃ kula-dharmam ātmanaḥ sanātanaṃ nādya vihantum arhasi_); rule like your father over the earth, rich in abundant gems and populous realms, O you of great renown (_prabhūta-ratnām anuśādhi medinīṃ prabhūta-rāṣṭrāṃ pitṛvan mahā-yaśaḥ_).”
 </details>
 </details>
 

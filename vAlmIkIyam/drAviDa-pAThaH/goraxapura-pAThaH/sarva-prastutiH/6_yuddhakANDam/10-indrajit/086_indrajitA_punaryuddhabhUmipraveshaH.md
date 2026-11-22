@@ -76,7 +76,7 @@ the enemies and advantageous to Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in that situation (tasyām avasthāyām), Rāvaṇa's younger brother spoke to Lakṣmaṇa a word baneful to the foes and conducive to their own success (arthasādhakam):
+Then, in that situation (_tasyām avasthāyām_), Rāvaṇa&#x27;s younger brother spoke to Lakṣmaṇa a word baneful to the foes and conducive to their own success (_arthasādhakam_):
 </details>
 </details>
 
@@ -134,9 +134,9 @@ battle, by the monkeys using rocks as thier weapons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “This rākṣasa army that is seen here, dark as a cloud (meghaśyāmam)—let it be swiftly engaged in battle (āyodhyatām) by the monkeys armed with crags!
+**2:** “This rākṣasa army that is seen here, dark as a cloud (_meghaśyāmam_)—let it be swiftly engaged in battle (_āyodhyatām_) by the monkeys armed with crags!
 
-**3:** Strive, O Lakṣmaṇa, in the breaking (bhedane) of that mighty army; when this [host] is cleft, the son of the rākṣasa lord too shall become visible (dṛśyo bhaviṣyati) here.
+**3:** Strive, O Lakṣmaṇa, in the breaking (_bhedane_) of that mighty army; when this [host] is cleft, the son of the rākṣasa lord too shall become visible (_dṛśyo bhaviṣyati_) here.
 </details>
 </details>
 
@@ -184,7 +184,7 @@ through."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scattering the foes with arrows resembling Indra's thunderbolt (indrāśaniprakhyaiḥ), charge swiftly (abhidravāśu) before this sacrificial rite is completed!
+Scattering the foes with arrows resembling Indra&#x27;s thunderbolt (_indrāśaniprakhyaiḥ_), charge swiftly (_abhidravāśu_) before this sacrificial rite is completed!
 </details>
 </details>
 
@@ -231,7 +231,7 @@ worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slay, O hero, Rāvaṇa's evil-minded son, devoted to illusion (māyāparam), unrighteous (adhārmikam), of cruel deeds, and a terror to all the worlds!”
+Slay, O hero, Rāvaṇa&#x27;s evil-minded son, devoted to illusion (_māyāparam_), unrighteous (_adhārmikam_), of cruel deeds, and a terror to all the worlds!”
 </details>
 </details>
 
@@ -283,7 +283,7 @@ streams of arrows in the direction of Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard Vibhīṣaṇa's words, Lakṣmaṇa, endowed with auspicious marks (śubhalakṣaṇaḥ), rained down a shower of arrows toward the son of the rākṣasa lord.
+Having heard Vibhīṣaṇa&#x27;s words, Lakṣmaṇa, endowed with auspicious marks (_śubhalakṣaṇaḥ_), rained down a shower of arrows toward the son of the rākṣasa lord.
 </details>
 </details>
 
@@ -343,7 +343,7 @@ drawn up in battle-array.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bears and monkeys (śākhāmṛgāḥ), fighting with the finest of trees (drumapravarayodhinaḥ), rushed all together against that stationed army.
+Bears and monkeys (_śākhāmṛgāḥ_), fighting with the finest of trees (_drumapravarayodhinaḥ_), rushed all together against that stationed army.
 </details>
 </details>
 
@@ -398,7 +398,7 @@ sharp arrows, sowrds, spears and javelins.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the rākṣasas, eager to slay the monkey host (kapisainyajighāṃsavaḥ), advanced in battle with whetted arrows, swords, javelins, and lances (śaktitomaraiḥ).
+And the rākṣasas, eager to slay the monkey host (_kapisainyajighāṃsavaḥ_), advanced in battle with whetted arrows, swords, javelins, and lances (_śaktitomaraiḥ_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ all sides with its great uproar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That tumultuous clash (samprahāras tumulaḥ) arose between the monkeys and the rākṣasas, making Laṅkā resound on every side with a mighty uproar.
+That tumultuous clash (_samprahāras tumulaḥ_) arose between the monkeys and the rākṣasas, making Laṅkā resound on every side with a mighty uproar.
 </details>
 </details>
 
@@ -499,7 +499,7 @@ mountain tops.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With weapons of manifold shapes, whetted arrows, trees, and upraised, dreadful mountain crags (giriśṛṅgaiḥ), the sky was covered over (ākāśam āvṛtam).
+With weapons of manifold shapes, whetted arrows, trees, and upraised, dreadful mountain crags (_giriśṛṅgaiḥ_), the sky was covered over (_ākāśam āvṛtam_).
 </details>
 </details>
 
@@ -553,7 +553,7 @@ fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Driving their weapons into the monkey chiefs, those rākṣasas, with dreadful faces and arms (vikṛtānanabāhavaḥ), created immense terror (sumahad bhayam).
+Driving their weapons into the monkey chiefs, those rākṣasas, with dreadful faces and arms (_vikṛtānanabāhavaḥ_), created immense terror (_sumahad bhayam_).
 </details>
 </details>
 
@@ -605,7 +605,7 @@ types of trees and mountain-peaks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the very same way, with whole trees (sakalair vṛkṣaiḥ) and mountain peaks, the monkeys assailed and struck down (abhijaghnur nijaghnuś ca) all the rākṣasas in battle.
+In the very same way, with whole trees (_sakalair vṛkṣaiḥ_) and mountain peaks, the monkeys assailed and struck down (_abhijaghnur nijaghnuś ca_) all the rākṣasas in battle.
 </details>
 </details>
 
@@ -662,7 +662,7 @@ bears and monkeys endowed with colossal bodies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through the foremost bears and monkeys, huge-bodied and of mighty strength, great terror arose among the rākṣasas who were fighting (yudhyamānānām).
+Through the foremost bears and monkeys, huge-bodied and of mighty strength, great terror arose among the rākṣasas who were fighting (_yudhyamānānām_).
 </details>
 </details>
 
@@ -714,7 +714,7 @@ unconquerable Indrajit left off, without performing the sacrificial rite.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that his own army was dejected (viṣaṇṇam) andharassed by the foes, that unassailable one rose up (udatiṣṭhata) while his sacrificial rite remained uncompleted (karmaṇy ananuṣṭhite).
+Hearing that his own army was dejected (_viṣaṇṇam_) andharassed by the foes, that unassailable one rose up (_udatiṣṭhata_) while his sacrificial rite remained uncompleted (_karmaṇy ananuṣṭhite_).
 </details>
 </details>
 
@@ -766,7 +766,7 @@ firmly yoked chariot which had already been united
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Emerging from the darkness of the trees (vṛkṣāndhakārāt), filled with wrath, that son of Rāvaṇa mounted his prepared chariot, previously yoked (pūrvayuktam) and well-controlled.
+Emerging from the darkness of the trees (_vṛkṣāndhakārāt_), filled with wrath, that son of Rāvaṇa mounted his prepared chariot, previously yoked (_pūrvayuktam_) and well-controlled.
 </details>
 </details>
 
@@ -818,7 +818,7 @@ black collyrium with his blood-red eyes, appeared like the destructive Death.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his dreadful bow and arrows, resembling a mass of black collyrium (kṛṣṇāñjanacayopamaḥ), with blood-red face and eyes, that terrible one shone like Death the Destroyer (mṛtyur ivāntakaḥ).
+With his dreadful bow and arrows, resembling a mass of black collyrium (_kṛṣṇāñjanacayopamaḥ_), with blood-red face and eyes, that terrible one shone like Death the Destroyer (_mṛtyur ivāntakaḥ_).
 </details>
 </details>
 
@@ -864,7 +864,7 @@ speed, turned back, wishing to fight with Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon merely beholding him stationed in his chariot, that army of terribly swift rākṣasas, eager to fight with Lakṣmaṇa (lakṣmaṇena yuyutsatām), wheeled back around (paryavartata).
+Upon merely beholding him stationed in his chariot, that army of terribly swift rākṣasas, eager to fight with Lakṣmaṇa (_lakṣmaṇena yuyutsatām_), wheeled back around (_paryavartata_).
 </details>
 </details>
 
@@ -895,7 +895,7 @@ Upon merely beholding him stationed in his chariot, that army of terribly swift 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very time, Hanūmān, tamer of foes, resembling a mountain (dharaṇīdharasaṃkāśaḥ), wrenched up (arujat) a huge tree, difficult to approach.
+At that very time, Hanūmān, tamer of foes, resembling a mountain (_dharaṇīdharasaṃkāśaḥ_), wrenched up (_arujat_) a huge tree, difficult to approach.
 </details>
 </details>
 
@@ -955,7 +955,7 @@ many trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consuming that army of the rākṣasas like the fire of universal dissolution (kālāgnir iva nirdahan), that monkey rendered it unconscious (niḥsaṃjñam) in battle with many trees.
+Consuming that army of the rākṣasas like the fire of universal dissolution (_kālāgnir iva nirdahan_), that monkey rendered it unconscious (_niḥsaṃjñam_) in battle with many trees.
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ hurled weapons on him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Merely seeing the son of the Wind-god furiously devastating (vidhvaṃsayantam) [their ranks], thousands of rākṣasas showered [weapons] upon Hanūmān.
+Merely seeing the son of the Wind-god furiously devastating (_vidhvaṃsayantam_) [their ranks], thousands of rākṣasas showered [weapons] upon Hanūmān.
 </details>
 </details>
 
@@ -1035,7 +1035,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bearers of sharp pikes [assailed him] with pikes, sword-wielders with swords, spear-holders with spears (śaktībhiḥ), and halberdiers with halberds (paṭṭiśaiḥ),
+Bearers of sharp pikes [assailed him] with pikes, sword-wielders with swords, spear-holders with spears (_śaktībhiḥ_), and halberdiers with halberds (_paṭṭiśaiḥ_),
 </details>
 </details>
 
@@ -1105,11 +1105,11 @@ Hanuma made a colossal destruction of those demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** and with iron-bound clubs, maces, and handsome lances (kuntaiś ca śubhadarśanaiḥ), and by the hundreds with śataghnīs and iron hammers (āyasair api mudgaraiḥ),
+**22:** and with iron-bound clubs, maces, and handsome lances (_kuntaiś ca śubhadarśanaiḥ_), and by the hundreds with _śataghnīs_ and iron hammers (_āyasair api mudgaraiḥ_),
 
-**23:** and with dreadful battle-axes andavelins (bhindipālaiḥ), and with fists like thunderbolts and palms resembling lightning-bolts (talair aśanisaṃnibhaiḥ), the rākṣasas,
+**23:** and with dreadful battle-axes andavelins (_bhindipālaiḥ_), and with fists like thunderbolts and palms resembling lightning-bolts (_talair aśanisaṃnibhaiḥ_), the rākṣasas,
 
-**24:** closing in from every side, struck him who resembled a mountain; and he too, infuriated (saṃkruddhaḥ), wrought a mighty slaughter (kadanam mahat) among them.
+**24:** closing in from every side, struck him who resembled a mountain; and he too, infuriated (_saṃkruddhaḥ_), wrought a mighty slaughter (_kadanam mahat_) among them.
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ fearlessly killing his enemies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indrajit beheld that foremost of monkeys, the son of the Wind-god, resembling a mountain, fearlessly (asaṃtrastam) slaying his foes (sūdamānam amitrān).
+Indrajit beheld that foremost of monkeys, the son of the Wind-god, resembling a mountain, fearlessly (_asaṃtrastam_) slaying his foes (_sūdamānam amitrān_).
 </details>
 </details>
 
@@ -1216,7 +1216,7 @@ that monkey is standing. If we neglect him, he will surely destroy our demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He spoke this to his charioteer: “Drive to where this monkey is! For if disregarded (upekṣitaḥ), he will surely work the destruction of our rākṣasas.”
+He spoke this to his charioteer: “Drive to where this monkey is! For if disregarded (_upekṣitaḥ_), he will surely work the destruction of our rākṣasas.”
 </details>
 </details>
 
@@ -1263,7 +1263,7 @@ unconquerable Indrajit sitting in the chariot, to the place where Hanuma was the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by him, the charioteer drove to where Māruti was, bearing the supremely unassailable Indrajit stationed in his chariot (sthitam indrajitaṃ rathe).
+Thus addressed by him, the charioteer drove to where Māruti was, bearing the supremely unassailable Indrajit stationed in his chariot (_sthitam indrajitaṃ rathe_).
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ spears and axes on the head of Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching, that unassailable rākṣasa showered arrows, swords, halberds, and battle-axes (paraśvadhān) upon the monkey's head (kapimūrdhani).
+Approaching, that unassailable rākṣasa showered arrows, swords, halberds, and battle-axes (_paraśvadhān_) upon the monkey&#x27;s head (_kapimūrdhani_).
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ rage, the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Receiving (pratigṛhya) those dreadful weapons, Māruti, filled with great wrath (roṣeṇa mahatāviṣṭaḥ), spoke this word:
+Receiving (_pratigṛhya_) those dreadful weapons, Māruti, filled with great wrath (_roṣeṇa mahatāviṣṭaḥ_), spoke this word:
 </details>
 </details>
 
@@ -1418,7 +1418,7 @@ you will not return alive."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fight, if you are a hero (yadi śūro 'si), O evil-minded son of Rāvaṇa! Having encountered the son of the Wind-god, you shall not return alive (na jīvan pratiyāsyasi)!”
+“Fight, if you are a hero (_yadi śūro &#x27;si_), O evil-minded son of Rāvaṇa! Having encountered the son of the Wind-god, you shall not return alive (_na jīvan pratiyāsyasi_)!”
 </details>
 </details>
 
@@ -1473,7 +1473,7 @@ my force in the battle-field. Then you will be considered as the best among the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fight with your two arms (bāhubhyāṃ samprayudhyasva), if [you grant] me a duel (dvandvam) in battle! Endure my onslaught (vegaṃ sahasva), O Witless One; then will you be the foremost of rākṣasas!”
+“Fight with your two arms (_bāhubhyāṃ samprayudhyasva_), if [you grant] me a duel (_dvandvam_) in battle! Endure my onslaught (_vegaṃ sahasva_), O Witless One; then will you be the foremost of rākṣasas!”
 </details>
 </details>
 
@@ -1519,7 +1519,7 @@ Indrajit sought to kill Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vibhīṣaṇa pointed out (ācaṣṭe) to Lakṣmaṇa that son of Rāvaṇa, who, with bow upraised (samudyataśarāsanam), was seeking to slay Hanūmān:
+Vibhīṣaṇa pointed out (_ācaṣṭe_) to Lakṣmaṇa that son of Rāvaṇa, who, with bow upraised (_samudyataśarāsanam_), was seeking to slay Hanūmān:
 </details>
 </details>
 
@@ -1589,9 +1589,9 @@ workmanship, which ward off the enemies and putting an end to their lives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** “He who is the renowned vanquisher of Vāsava (vāsavanirjetā), Rāvaṇa's own son—that very one, mounted on his chariot, seeks to slay Hanūmān!
+**33:** “He who is the renowned vanquisher of Vāsava (_vāsavanirjetā_), Rāvaṇa&#x27;s own son—that very one, mounted on his chariot, seeks to slay Hanūmān!
 
-**34:** Slay that son of Rāvaṇa, O Saumitri, with dreadful, life-ending (jīvitāntakaraiḥ), foe-repelling arrows of matchless form (apratimasaṃsthānaiḥ)!”
+**34:** Slay that son of Rāvaṇa, O Saumitri, with dreadful, life-ending (_jīvitāntakaraiḥ_), foe-repelling arrows of matchless form (_apratimasaṃsthānaiḥ_)!”
 </details>
 </details>
 
@@ -1675,7 +1675,7 @@ Indrajit also will become visible."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed at that time by Vibhīṣaṇa, the terrifyingly dreadful foe-afflicter (arivibhīṣaṇena), the great-souled [Lakṣmaṇa] beheld him, resembling a mountain, stationed in his chariot, of terrible might and difficult to approach (durāsadam).
+Thus addressed at that time by Vibhīṣaṇa, the terrifyingly dreadful foe-afflicter (_arivibhīṣaṇena_), the great-souled [Lakṣmaṇa] beheld him, resembling a mountain, stationed in his chariot, of terrible might and difficult to approach (_durāsadam_).
 </details>
 </details>
 

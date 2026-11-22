@@ -48,7 +48,7 @@ Stricken by Uśanas’s curse of premature old age, King Yayāti pleads with his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the enraged Uśanas (śrutvā tūśanasaṃ kruddham), the distressed son of Nahuṣa (ārto nahuṣātmajaḥ), upon being overtaken by extreme old age (jarāṃ paramikāṃ prāpya), spoke these words to Yadu (yaduṃ vacanam abravīt):
+Hearing the enraged Uśanas (_śrutvā tūśanasaṃ kruddham_), the distressed son of Nahuṣa (_ārto nahuṣātmajaḥ_), upon being overtaken by extreme old age (_jarāṃ paramikāṃ prāpya_), spoke these words to Yadu (_yaduṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing the enraged Uśanas (śrutvā tūśanasaṃ kruddham), the distressed so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Yadu, you are a knower of dharma (tvam asi dharmajñaḥ); let this extreme old age be accepted by you for my sake (mad-arthaṃ pratigṛhyatām jarāṃ paramikām), O greatly famed son (putra ... mahāyaśaḥ), and I shall delight in enjoyments (bhogai raṃsye)!
+“O Yadu, you are a knower of dharma (_tvam asi dharmajñaḥ_); let this extreme old age be accepted by you for my sake (_mad-arthaṃ pratigṛhyatām jarāṃ paramikām_), O greatly famed son (_putra ... mahāyaśaḥ_), and I shall delight in enjoyments (_bhogai raṃsye_)!
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Hearing the enraged Uśanas (śrutvā tūśanasaṃ kruddham), the distressed so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am not yet fulfilled in the pleasures of the senses (na tāvat kṛta-kṛtyo ’smi viṣayeṣu), O bull among men (nararṣabha); having experienced desire then to the full (anubhūya tadā kāmam), I shall thereafter resume old age (tataḥ prāpsyāmy ahaṃ jarām).”
+“I am not yet fulfilled in the pleasures of the senses (_na tāvat kṛta-kṛtyo ’smi viṣayeṣu_), O bull among men (_nararṣabha_); having experienced desire then to the full (_anubhūya tadā kāmam_), I shall thereafter resume old age (_tataḥ prāpsyāmy ahaṃ jarām_).”
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Hearing the enraged Uśanas (śrutvā tūśanasaṃ kruddham), the distressed so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Yadu replied to that bull among men (pratyuvāca nararṣabham): “Let your beloved son Pūru (putras te dayitaḥ pūruḥ) indeed accept your old age (pratigṛhṇātu vai jarām)!
+Hearing those words of his, Yadu replied to that bull among men (_pratyuvāca nararṣabham_): “Let your beloved son Pūru (_putras te dayitaḥ pūruḥ_) indeed accept your old age (_pratigṛhṇātu vai jarām_)!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Hearing those words of his, Yadu replied to that bull among men (pratyuvāca nar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have been shut out from your riches (bahiṣkṛto ’ham artheṣu) and from your nearness as well (sannikarṣāc ca), O king (pārthiva); O ruler, let him accept it who shares your meals (pratigṛhṇātu vai rājan kaḥ sahāśnāti bhojanam)!”
+“I have been shut out from your riches (_bahiṣkṛto ’ham artheṣu_) and from your nearness as well (_sannikarṣāc ca_), O king (_pārthiva_); O ruler, let him accept it who shares your meals (_pratigṛhṇātu vai rājan kaḥ sahāśnāti bhojanam_)!”
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Hearing those words of his, Yadu replied to that bull among men (pratyuvāca nar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tasya tad vacanaṃ śrutvā), the king then spoke to Pūru (rājā pūrum athābravīt): “O mighty-armed one (mahābāho), let this old age be accepted by you for my sake (iyaṃ jarā ... mad-arthaṃ pratigṛhyatām)!”
+Hearing those words of his (_tasya tad vacanaṃ śrutvā_), the king then spoke to Pūru (_rājā pūrum athābravīt_): “O mighty-armed one (_mahābāho_), let this old age be accepted by you for my sake (_iyaṃ jarā ... mad-arthaṃ pratigṛhyatām_)!”
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Pūru humbly accepts his father’s old age, enabling Yayāti to enjoy youth, pe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the son of Nahuṣa (nāhuṣeṇaivam uktaḥ), Pūru spoke with joined palms (pūruḥ prāñjalir abravīt): “I am blessed, I am favored (dhanyo ’smy anugṛhīto ’smi); I stand firm in your command (śāsane ’smi tava sthitaḥ)!”
+Thus addressed by the son of Nahuṣa (_nāhuṣeṇaivam uktaḥ_), Pūru spoke with joined palms (_pūruḥ prāñjalir abravīt_): “I am blessed, I am favored (_dhanyo ’smy anugṛhīto ’smi_); I stand firm in your command (_śāsane ’smi tava sthitaḥ_)!”
 </details>
 </details>
 
@@ -276,7 +276,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing Pūru’s words (pūror vacanam ājñāya), the son of Nahuṣa with supreme gladness (parayā mudā) attained matchless joy (praharṣam atulaṃ lebhe) and transferred that old age to him (jarāṃ saṅkrāmayac ca tām).
+Knowing Pūru’s words (_pūror vacanam ājñāya_), the son of Nahuṣa with supreme gladness (_parayā mudā_) attained matchless joy (_praharṣam atulaṃ lebhe_) and transferred that old age to him (_jarāṃ saṅkrāmayac ca tām_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ Knowing Pūru’s words (pūror vacanam ājñāya), the son of Nahuṣa with sup
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that king, having become youthful (sa rājā taruṇaḥ), accomplishing sacrifices by the thousands (prāpya yajñān sahasraśaḥ), protected the earth (pālayāmāsa medinīm) for many thousands of years (bahu-varṣa-sahasrāṇi).
+Thereupon that king, having become youthful (_sa rājā taruṇaḥ_), accomplishing sacrifices by the thousands (_prāpya yajñān sahasraśaḥ_), protected the earth (_pālayāmāsa medinīm_) for many thousands of years (_bahu-varṣa-sahasrāṇi_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Thereupon that king, having become youthful (sa rājā taruṇaḥ), accomplishi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, after a long lapse of time (atha dīrghasya kālasya), the king spoke again to Pūru (rājā pūrum athābravīt): “Bring back the old age, O son (ānayasva jarāṃ putra); return to me the trust deposited with you (nyāsaṃ niryātayasva me)!
+Then, after a long lapse of time (_atha dīrghasya kālasya_), the king spoke again to Pūru (_rājā pūrum athābravīt_): “Bring back the old age, O son (_ānayasva jarāṃ putra_); return to me the trust deposited with you (_nyāsaṃ niryātayasva me_)!
 </details>
 </details>
 
@@ -372,7 +372,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As a held deposit, O son (nyāsa-bhūtā ... putra), this old age was transferred by me into you (tvayi saṅkrāmitā jarā); therefore I shall take back that old age (tasmāt pratigrahīṣyāmi tāṃ jarām)—feel no distress (mā vyathāṃ kṛthāḥ)!
+“As a held deposit, O son (_nyāsa-bhūtā ... putra_), this old age was transferred by me into you (_tvayi saṅkrāmitā jarā_); therefore I shall take back that old age (_tasmāt pratigrahīṣyāmi tāṃ jarām_)—feel no distress (_mā vyathāṃ kṛthāḥ_)!
 </details>
 </details>
 
@@ -403,7 +403,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I am deeply pleased, O mighty-armed one (prītaś cāsmi mahābāho), by your acceptance of my command (śāsanasya pratigrahāt); filled with affection, I shall consecrate you as ruler of men (tvāṃ cāham abhiṣekṣyāmi prīti-yukto narādhipam).”
+“And I am deeply pleased, O mighty-armed one (_prītaś cāsmi mahābāho_), by your acceptance of my command (_śāsanasya pratigrahāt_); filled with affection, I shall consecrate you as ruler of men (_tvāṃ cāham abhiṣekṣyāmi prīti-yukto narādhipam_).”
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Enraged at Yadu’s defiance, Yayāti curses him to forfeit kingship, sire fierc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to his son Pūru (evam uktvā sutaṃ pūrum), King Yayāti, the son of Nahuṣa (yayātir nahuṣātmajaḥ), enraged (kruddhaḥ), spoke these words to Devayānī’s son (devayānī-sutaṃ ... vākyam uvāca ha):
+Having spoken thus to his son Pūru (_evam uktvā sutaṃ pūrum_), King Yayāti, the son of Nahuṣa (_yayātir nahuṣātmajaḥ_), enraged (_kruddhaḥ_), spoke these words to Devayānī’s son (_devayānī-sutaṃ ... vākyam uvāca ha_):
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You were born of me as a rākṣasa in the guise of a son (rākṣasas tvaṃ mayā jātaḥ putra-rūpaḥ), hard to approach (durāsadaḥ); since you spurn my command (pratihaṃsi mamājñāṃ yat), become fruitless in the aim of progeny (prajārthe viphalo bhava)!
+“You were born of me as a rākṣasa in the guise of a son (_rākṣasas tvaṃ mayā jātaḥ putra-rūpaḥ_), hard to approach (_durāsadaḥ_); since you spurn my command (_pratihaṃsi mamājñāṃ yat_), become fruitless in the aim of progeny (_prajārthe viphalo bhava_)!
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because you despise me, your father and venerable elder (pitaraṃ guru-bhūtaṃ māṃ yasmāt tvam avamanyase), you shall engender terrible rākṣasas and yātudhānas (rākṣasān yātudhānāṃs tvaṃ janayiṣyasi dāruṇān)!
+“Because you despise me, your father and venerable elder (_pitaraṃ guru-bhūtaṃ māṃ yasmāt tvam avamanyase_), you shall engender terrible rākṣasas and yātudhānas (_rākṣasān yātudhānāṃs tvaṃ janayiṣyasi dāruṇān_)!
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never shall the lineage of you, fool, stand in the royal line born of the Lunar race (na tu soma-kulotpanne vaṃśe sthāsyati durmateḥ); even your progeny shall become undisciplined like yourself (vaṃśo ’pi bhavatas tulyo durvinīto bhaviṣyati)!”
+“Never shall the lineage of you, fool, stand in the royal line born of the Lunar race (_na tu soma-kulotpanne vaṃśe sthāsyati durmateḥ_); even your progeny shall become undisciplined like yourself (_vaṃśo ’pi bhavatas tulyo durvinīto bhaviṣyati_)!”
 </details>
 </details>
 
@@ -575,7 +575,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to him (tam evam uktvā), the royal sage honored Pūru, the enhancer of the kingdom (pūruṃ rājya-vivardhanam), with royal consecration (abhiṣekeṇa sampūjya), and entered a hermitage (āśramaṃ praviveśa ha).
+Having spoken thus to him (_tam evam uktvā_), the royal sage honored Pūru, the enhancer of the kingdom (_pūruṃ rājya-vivardhanam_), with royal consecration (_abhiṣekeṇa sampūjya_), and entered a hermitage (_āśramaṃ praviveśa ha_).
 </details>
 </details>
 
@@ -606,7 +606,7 @@ Having spoken thus to him (tam evam uktvā), the royal sage honored Pūru, the e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, after a long stretch of time (tataḥ kālena mahatā), attaining the appointed end of his life (diṣṭāntam upajagmivān), King Yayāti, the son of Nahuṣa, ascended to the threefold heaven (tridivaṃ saṅgato rājā).
+Then, after a long stretch of time (_tataḥ kālena mahatā_), attaining the appointed end of his life (_diṣṭāntam upajagmivān_), King Yayāti, the son of Nahuṣa, ascended to the threefold heaven (_tridivaṃ saṅgato rājā_).
 </details>
 </details>
 
@@ -645,7 +645,7 @@ Pūru rules righteously from Pratiṣṭhāna while the exiled Yadu sires yātud
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by mighty righteousness (dharmeṇa mahatā vṛtaḥ), the greatly famed Pūru exercised that sovereignty (pūruś cakāra tad rājyam) in Pratiṣṭhāna, the foremost of cities (pratiṣṭhāne puravare), within the realm of Kāśi (kāśi-rājye).
+Surrounded by mighty righteousness (_dharmeṇa mahatā vṛtaḥ_), the greatly famed Pūru exercised that sovereignty (_pūruś cakāra tad rājyam_) in Pratiṣṭhāna, the foremost of cities (_pratiṣṭhāne puravare_), within the realm of Kāśi (_kāśi-rājye_).
 </details>
 </details>
 
@@ -676,7 +676,7 @@ Surrounded by mighty righteousness (dharmeṇa mahatā vṛtaḥ), the greatly f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yadu, however, excluded from the royal dynasty (rāja-vaṃśa-bahiṣkṛtaḥ), begot yātudhānas by the thousands (janayāmāsa yātudhānān sahasraśaḥ) in the stronghold city of Krauñcavana (pure krauñca-vane durge).
+Yadu, however, excluded from the royal dynasty (_rāja-vaṃśa-bahiṣkṛtaḥ_), begot yātudhānas by the thousands (_janayāmāsa yātudhānān sahasraśaḥ_) in the stronghold city of Krauñcavana (_pure krauñca-vane durge_).
 </details>
 </details>
 
@@ -707,7 +707,7 @@ Yadu, however, excluded from the royal dynasty (rāja-vaṃśa-bahiṣkṛtaḥ)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus was this mighty curse released by Uśanas (eṣa tūśanasā muktaḥ śāpotsargaḥ) borne by Yayāti in accordance with kṣatriya dharma (dhāritaḥ kṣatra-dharmeṇa)—a sage’s curse such as Nimi did not endure (yan nimiś ca na cakṣame)!
+Thus was this mighty curse released by Uśanas (_eṣa tūśanasā muktaḥ śāpotsargaḥ_) borne by Yayāti in accordance with kṣatriya dharma (_dhāritaḥ kṣatra-dharmeṇa_)—a sage’s curse such as Nimi did not endure (_yan nimiś ca na cakṣame_)!
 </details>
 </details>
 
@@ -738,7 +738,7 @@ Thus was this mighty curse released by Uśanas (eṣa tūśanasā muktaḥ śāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this has been related to you (etat te sarvam ākhyātam); therefore, O gentle one (saumya), we shall constantly attend to the audience of all petitioners (darśanaṃ sarva-kāriṇām anuvartāmahe), so that no fault may befall us as it did Nṛga (doṣo na syād yathā nṛge).”
+“All this has been related to you (_etat te sarvam ākhyātam_); therefore, O gentle one (_saumya_), we shall constantly attend to the audience of all petitioners (_darśanaṃ sarva-kāriṇām anuvartāmahe_), so that no fault may befall us as it did Nṛga (_doṣo na syād yathā nṛge_).”
 </details>
 </details>
 
@@ -784,7 +784,7 @@ Thus was this mighty curse released by Uśanas (eṣa tūśanasā muktaḥ śāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Rāma of moon-like countenance was speaking thus (iti kathayati rāme candra-tulyānane ca), the sky just then grew sparse with fading stars (praviralatara-tāraṃ vyoma jajñe tadānīm); and the eastern quarter shone crimson with the rays of dawn (aruṇa-kiraṇa-raktā dig babhau caiva pūrvā), like a maiden draped in a garment steeped in flower-dye (kusuma-rasa-vimuktaṃ vastram ākuṇṭhiteva).
+Even as Rāma of moon-like countenance was speaking thus (_iti kathayati rāme candra-tulyānane ca_), the sky just then grew sparse with fading stars (_praviralatara-tāraṃ vyoma jajñe tadānīm_); and the eastern quarter shone crimson with the rays of dawn (_aruṇa-kiraṇa-raktā dig babhau caiva pūrvā_), like a maiden draped in a garment steeped in flower-dye (_kusuma-rasa-vimuktaṃ vastram ākuṇṭhiteva_).
 </details>
 </details>
 

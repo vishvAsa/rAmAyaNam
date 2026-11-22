@@ -84,7 +84,7 @@ keeping the troops of simian army in their respective positions, arrived there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Lakṣmaṇa, devoted to his brother (bhrātṛ-vatsale), was thus consoling Rāma (rāmam āśvāsamāne), Vibhīṣaṇa, having stationed the troop-divisions (gulmān) at their respective posts, arrived there,
+While Lakṣmaṇa, devoted to his brother (_bhrātṛ-vatsale_), was thus consoling Rāma (_rāmam āśvāsamāne_), Vibhīṣaṇa, having stationed the troop-divisions (_gulmān_) at their respective posts, arrived there,
 </details>
 </details>
 
@@ -118,7 +118,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-surrounded by his four heroic [ministers] bearing diverse weapons (nānā-praharaṇaiḥ), who resembled leader-elephants (mātaṃgair iva yūthapaiḥ) dark as heaps of blue collyrium (nīlāñjana-cayākāraiḥ).
+surrounded by his four heroic [ministers] bearing diverse weapons (_nānā-praharaṇaiḥ_), who resembled leader-elephants (_mātaṃgair iva yūthapaiḥ_) dark as heaps of blue collyrium (_nīlāñjana-cayākāraiḥ_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ eyes were filled with tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching the high-souled Rāghava [Lakṣmaṇa], who was given over to grief (śoka-lālasam), he also beheld the Vānaras with their eyes brimming and turbid with tears (bāṣpa-paryākulekṣaṇān).
+Approaching the high-souled Rāghava [Lakṣmaṇa], who was given over to grief (_śoka-lālasam_), he also beheld the Vānaras with their eyes brimming and turbid with tears (_bāṣpa-paryākulekṣaṇān_).
 </details>
 </details>
 
@@ -219,7 +219,7 @@ into a swoon and resting on the lap of Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he beheld the high-souled Rāghava, the delight of the Ikṣvāku race, fallen into a swoon (moham āpannam) and resting upon Lakṣmaṇa's lap (lakṣmaṇasyāṅkam āśritam).
+And he beheld the high-souled Rāghava, the delight of the Ikṣvāku race, fallen into a swoon (_moham āpannam_) and resting upon Lakṣmaṇa&#x27;s lap (_lakṣmaṇasyāṅkam āśritam_).
 </details>
 </details>
 
@@ -265,7 +265,7 @@ he was in spirits, with agony inside, asked him, "What is this?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma abashed (vrīḍitam) and scorched by sorrow (śoka-saṃtaptam), Vibhīṣaṇa, wretched in spirit with inward anguish (antar-duḥkhena dīnātmā), exclaimed, “What is this (kim etad)?”
+Beholding Rāma abashed (_vrīḍitam_) and scorched by sorrow (_śoka-saṃtaptam_), Vibhīṣaṇa, wretched in spirit with inward anguish (_antar-duḥkhena dīnātmā_), exclaimed, “What is this (_kim etad_)?”
 </details>
 </details>
 
@@ -321,7 +321,7 @@ Lakshmana with tears pouring down, spoke the following words, with a splendid me
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking upon Vibhīṣaṇa's face, and toward Sugrīva and those Vānaras, Lakṣmaṇa, suffused with tears (bāṣpa-pariplutaḥ), spoke these words in a choked, faint voice (mandārtham):
+Looking upon Vibhīṣaṇa&#x27;s face, and toward Sugrīva and those Vānaras, Lakṣmaṇa, suffused with tears (_bāṣpa-pariplutaḥ_), spoke these words in a choked, faint voice (_mandārtham_):
 </details>
 </details>
 
@@ -381,7 +381,7 @@ killed by Indrajit, Rama entered into a swoon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing from Hanūmān's words, O gentle one, that Sītā has been slain by Indrajit (hatā indrajitā sītā), Rāghava thereupon fell into a swoon (moham upāśritaḥ).”
+“Hearing from Hanūmān&#x27;s words, O gentle one, that Sītā has been slain by Indrajit (_hatā indrajitā sītā_), Rāghava thereupon fell into a swoon (_moham upāśritaḥ_).”
 </details>
 </details>
 
@@ -407,7 +407,7 @@ killed by Indrajit, Rama entered into a swoon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Checking the son of Sumitrā as he was speaking (kathayantaṃ tu saumitriṃ saṃnivārya), Vibhīṣaṇa spoke to the unconscious Rāma (visaṃjñaṃ rāmam) this speech rich in substance (puṣkalārtham):
+Checking the son of Sumitrā as he was speaking (_kathayantaṃ tu saumitriṃ saṃnivārya_), Vibhīṣaṇa spoke to the unconscious Rāma (_visaṃjñaṃ rāmam_) this speech rich in substance (_puṣkalārtham_):
 </details>
 </details>
 
@@ -470,7 +470,7 @@ men, to be absurd as the drying up of the sea."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What has been told to you by Hanūmān in dejected aspect (ārta-rūpeṇa), O lord of men, I deem as impossible as the drying up of the ocean (sāgarasyeva śoṣaṇam)!
+“What has been told to you by Hanūmān in dejected aspect (_ārta-rūpeṇa_), O lord of men, I deem as impossible as the drying up of the ocean (_sāgarasyeva śoṣaṇam_)!
 </details>
 </details>
 
@@ -516,7 +516,7 @@ would never do the killing of Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For I know the mind (abhiprāyaṃ tu jānāmi) of the evil-minded Rāvaṇa toward Sītā, O long-armed prince: he will never put her to death (na ca ghātaṃ kariṣyati)!
+For I know the mind (_abhiprāyaṃ tu jānāmi_) of the evil-minded Rāvaṇa toward Sītā, O long-armed prince: he will never put her to death (_na ca ghātaṃ kariṣyati_)!
 </details>
 </details>
 
@@ -562,7 +562,7 @@ not heed that advice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though entreated by me very many times (yācyamānaḥ su-bahuśaḥ) out of desire for his welfare (hita-cikīrṣuṇā), 'Release Vaidehī!', he never heeded that word.
+Though entreated by me very many times (_yācyamānaḥ su-bahuśaḥ_) out of desire for his welfare (_hita-cikīrṣuṇā_), &#x27;Release Vaidehī!&#x27;, he never heeded that word.
 </details>
 </details>
 
@@ -616,7 +616,7 @@ impossible."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither by conciliation (sāmnā), nor by gifts (dānena), nor by dissension (bhedena)—much less by open war (kuto yudhā) or any other means—could anyone else even catch a glimpse of her (sā draṣṭum api śakyeta)!”
+Neither by conciliation (_sāmnā_), nor by gifts (_dānena_), nor by dissension (_bhedena_)—much less by open war (_kuto yudhā_) or any other means—could anyone else even catch a glimpse of her (_sā draṣṭum api śakyeta_)!”
 </details>
 </details>
 
@@ -670,7 +670,7 @@ Know that Seetha (who was seemingly killed by him) as illusory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bewildered the Vānaras (vānarān mohayitvā), that Rākṣasa retired; know that daughter of Janaka to have been composed of illusion (māyāmayīṃ tāṃ viddhi), O long-armed prince!
+“Having bewildered the Vānaras (_vānarān mohayitvā_), that Rākṣasa retired; know that daughter of Janaka to have been composed of illusion (_māyāmayīṃ tāṃ viddhi_), O long-armed prince!
 </details>
 </details>
 
@@ -732,7 +732,7 @@ prove difficult to be overcome in battle, even by celestials including Indra."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Repairing today to the sanctuary of Nikumbhilā (caityaṃ nikumbhilām), he will offer a fire-oblation (homaṃ kariṣyati); for once he has offered that oblation and marches forth (hutavān upayāto hi), even to the gods with Vāsava at their head—
+Repairing today to the sanctuary of Nikumbhilā (_caityaṃ nikumbhilām_), he will offer a fire-oblation (_homaṃ kariṣyati_); for once he has offered that oblation and marches forth (_hutavān upayāto hi_), even to the gods with Vāsava at their head—
 </details>
 </details>
 
@@ -786,7 +786,7 @@ prowess of the monkeys there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—this son of Rāvaṇa becomes unassailable in battle (durādharṣo bhavaty eṣaḥ)! Surely it was by him, seeking to bewilder them, that this illusion was deployed (eṣā māyā prayojitā),
+—this son of Rāvaṇa becomes unassailable in battle (_durādharṣo bhavaty eṣaḥ_)! Surely it was by him, seeking to bewilder them, that this illusion was deployed (_eṣā māyā prayojitā_),
 </details>
 </details>
 
@@ -817,7 +817,7 @@ prowess of the monkeys there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-desiring an impediment (vighnam anvicchatā) there to the valorous onslaught of the Vānaras (vānarāṇāṃ parākrame). Let us march there with our armies before that [rite] is completed (yāvat tan na samāpyate)!
+desiring an impediment (_vighnam anvicchatā_) there to the valorous onslaught of the Vānaras (_vānarāṇāṃ parākrame_). Let us march there with our armies before that [rite] is completed (_yāvat tan na samāpyate_)!
 </details>
 </details>
 
@@ -885,9 +885,9 @@ Lakshmana with us, who are taking an army along with us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Cast off this grief that has come upon you through a false impression (mithyā saṃtāpam āgatam), O tiger among men; for the entire army sinks into despondency (sīdate hi balaṃ sarvam) upon beholding you wasted with sorrow!
+**17:** Cast off this grief that has come upon you through a false impression (_mithyā saṃtāpam āgatam_), O tiger among men; for the entire army sinks into despondency (_sīdate hi balaṃ sarvam_) upon beholding you wasted with sorrow!
 
-**18:** Remain right here with a composed heart (svastha-hṛdayaḥ), exalted in your innate fortitude (sattva-samucchritaḥ); dispatch Lakṣmaṇa together with us who lead the army columns (sainyānukarṣibhiḥ)!”
+**18:** Remain right here with a composed heart (_svastha-hṛdayaḥ_), exalted in your innate fortitude (_sattva-samucchritaḥ_); dispatch Lakṣmaṇa together with us who lead the army columns (_sainyānukarṣibhiḥ_)!”
 </details>
 </details>
 
@@ -941,7 +941,7 @@ sacrifice, by employing his sharp arrows. Then, he will be susceptible of being 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With his keen arrows (niśitaiḥ śaraiḥ), this tiger among men [Lakṣmaṇa] will compel Rāvaṇa's son to abandon that ritual (tyājayiṣyati tat karma); thereupon he will become vulnerable to being slain (tato vadhyo bhaviṣyati)!
+“With his keen arrows (_niśitaiḥ śaraiḥ_), this tiger among men [Lakṣmaṇa] will compel Rāvaṇa&#x27;s son to abandon that ritual (_tyājayiṣyati tat karma_); thereupon he will become vulnerable to being slain (_tato vadhyo bhaviṣyati_)!
 </details>
 </details>
 
@@ -996,7 +996,7 @@ bird, can drink his blood like cruel birds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His sharp, keen arrows—winged with the feathers of birds as their swift steeds (patri-patrāṅga-vājinaḥ)—shall drink [Indrajit's] blood (pāsyanti śoṇitam) like fierce birds of prey (patattriṇa ivāsaumyāḥ)!
+His sharp, keen arrows—winged with the feathers of birds as their swift steeds (_patri-patrāṅga-vājinaḥ_)—shall drink [Indrajit&#x27;s] blood (_pāsyanti śoṇitam_) like fierce birds of prey (_patattriṇa ivāsaumyāḥ_)!
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ even as Indra the lord of celestials employed the thunderbolt to kill Indrajit."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O long-armed prince, dispatch Lakṣmaṇa of auspicious marks (śubha-lakṣaṇam) for the destruction of the Rākṣasa, even as the wielder of the thunderbolt hurls his thunderbolt (vajraṃ vajradharo yathā)!
+Therefore, O long-armed prince, dispatch Lakṣmaṇa of auspicious marks (_śubha-lakṣaṇam_) for the destruction of the Rākṣasa, even as the wielder of the thunderbolt hurls his thunderbolt (_vajraṃ vajradharo yathā_)!
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ thunderbolt to destroy the enemies of celestials."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O best of men, no delay in time (na kāla-viprakarṣaḥ) is permissible today toward the destruction of the foe (ripu-nidhanaṃ prati); launch him forth (tvam atisṛja) for the slaying of the enemy, even as Mahendra hurls his thunderbolt to crush the foe of the gods (divija-ripor mathane)!
+O best of men, no delay in time (_na kāla-viprakarṣaḥ_) is permissible today toward the destruction of the foe (_ripu-nidhanaṃ prati_); launch him forth (_tvam atisṛja_) for the slaying of the enemy, even as Mahendra hurls his thunderbolt to crush the foe of the gods (_divija-ripor mathane_)!
 </details>
 </details>
 
@@ -1179,7 +1179,7 @@ ending that sacrifice, the celestials also will feel a great suspicion on their 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For once that bull among Rākṣasas has completed his ritual (samāpta-karmā hi), he becomes invisible in battle (bhavaty adṛśyaḥ samare) even to the gods and Asuras; if he fights with his ritual completed, even the gods would face mighty peril (saṃśayo mahān)!”
+For once that bull among Rākṣasas has completed his ritual (_samāpta-karmā hi_), he becomes invisible in battle (_bhavaty adṛśyaḥ samare_) even to the gods and Asuras; if he fights with his ritual completed, even the gods would face mighty peril (_saṃśayo mahān_)!”
 </details>
 </details>
 

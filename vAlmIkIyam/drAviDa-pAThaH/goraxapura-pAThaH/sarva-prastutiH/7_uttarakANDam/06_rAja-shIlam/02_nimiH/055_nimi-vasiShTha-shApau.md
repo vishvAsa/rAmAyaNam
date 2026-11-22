@@ -46,7 +46,7 @@ Eager to hear another wondrous tale from Rāma, Lakṣmaṇa listens as his brot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus have I related to you the full account of Nṛga’s curse (nṛga-śāpasya vistaro ’bhihito mayā); if you have earnest faith to hear (yady asti śravaṇe śraddhā), listen now to another tale on this matter (śṛṇuṣvehāparāṃ kathām).”
+“Thus have I related to you the full account of Nṛga’s curse (_nṛga-śāpasya vistaro ’bhihito mayā_); if you have earnest faith to hear (_yady asti śravaṇe śraddhā_), listen now to another tale on this matter (_śṛṇuṣvehāparāṃ kathām_).”
 </details>
 </details>
 
@@ -77,7 +77,7 @@ Eager to hear another wondrous tale from Rāma, Lakṣmaṇa listens as his brot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Saumitri spoke again: “Of wondrous tales such as these, O king, I can never have satiety (tṛptir āścarya-bhūtānāṃ kathānāṃ nāsti me nṛpa)!”
+Thus addressed by Rāma, Saumitri spoke again: “Of wondrous tales such as these, O king, I can never have satiety (_tṛptir āścarya-bhūtānāṃ kathānāṃ nāsti me nṛpa_)!”
 </details>
 </details>
 
@@ -108,7 +108,7 @@ Thus addressed by Rāma, Saumitri spoke again: “Of wondrous tales such as thes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-nandanaḥ), began to recount a story supremely grounded in dharma (kathāṃ parama-dharmiṣṭhāṃ vyāhartum upacakrame):
+Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (_ikṣvāku-nandanaḥ_), began to recount a story supremely grounded in dharma (_kathāṃ parama-dharmiṣṭhāṃ vyāhartum upacakrame_):
 </details>
 </details>
 
@@ -142,7 +142,7 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There was a king named Nimi, the twelfth son among the great-souled Ikṣvākus (ikṣvākūṇāṃ mahātmanāṃ putro dvādaśamaḥ), steadfastly established in valor and in dharma (vīrye dharme ca pariniṣṭhitaḥ).
+“There was a king named Nimi, the twelfth son among the great-souled Ikṣvākus (_ikṣvākūṇāṃ mahātmanāṃ putro dvādaśamaḥ_), steadfastly established in valor and in dharma (_vīrye dharme ca pariniṣṭhitaḥ_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That valor-endowed monarch then established a city rivaling the city of the gods (puraṃ deva-puropamam niveśayāmāsa tadā) in the vicinity of Gautama’s hermitage (abhyāśe gautamasya tu).
+“That valor-endowed monarch then established a city rivaling the city of the gods (_puraṃ deva-puropamam niveśayāmāsa tadā_) in the vicinity of Gautama’s hermitage (_abhyāśe gautamasya tu_).
 </details>
 </details>
 
@@ -204,7 +204,7 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Aptly bestowed was the city’s name, famed as Vaijayanta (purasya sukṛtaṃ nāma vaijayantam iti śrutam), wherein the greatly renowned royal sage Nimi made his residence (niveśaṃ yatra rājarṣir nimiś cakre mahāyaśāḥ).”
+“Aptly bestowed was the city’s name, famed as Vaijayanta (_purasya sukṛtaṃ nāma vaijayantam iti śrutam_), wherein the greatly renowned royal sage Nimi made his residence (_niveśaṃ yatra rājarṣir nimiś cakre mahāyaśāḥ_).”
 </details>
 </details>
 
@@ -243,7 +243,7 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having founded that exceedingly great city (niveśya sumahāpuram), this thought arose in him (tasya buddhiḥ samutpannā): ‘Let me sacrifice with a prolonged satra (yajeyaṃ dīrgha-satreṇa), gladdening the mind of my father (pituḥ prahlādayan manaḥ)!’
+“Having founded that exceedingly great city (_niveśya sumahāpuram_), this thought arose in him (_tasya buddhiḥ samutpannā_): ‘Let me sacrifice with a prolonged satra (_yajeyaṃ dīrgha-satreṇa_), gladdening the mind of my father (_pituḥ prahlādayan manaḥ_)!’
 </details>
 </details>
 
@@ -278,9 +278,9 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “Then, taking leave of his father Ikṣvāku, the son of Manu (pitaram āmantrya ikṣvākuṃ hi manoḥ sutam), he first chose Vasiṣṭha, foremost of brahmin sages (vasiṣṭhaṃ varayāmāsa pūrvaṃ brahmarṣi-sattamam).
+**8:** “Then, taking leave of his father Ikṣvāku, the son of Manu (_pitaram āmantrya ikṣvākuṃ hi manoḥ sutam_), he first chose Vasiṣṭha, foremost of brahmin sages (_vasiṣṭhaṃ varayāmāsa pūrvaṃ brahmarṣi-sattamam_).
 
-**9:** “Next, that royal sage Nimi, delight of Ikṣvāku (nimir ikṣvāku-nandanaḥ), chose Atri and Aṅgiras, as well as Bhṛgu whose wealth was austerity (atrim aṅgirasaṃ caiva bhṛguṃ caiva tapodhanam).
+**9:** “Next, that royal sage Nimi, delight of Ikṣvāku (_nimir ikṣvāku-nandanaḥ_), chose Atri and Aṅgiras, as well as Bhṛgu whose wealth was austerity (_atrim aṅgirasaṃ caiva bhṛguṃ caiva tapodhanam_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But Vasiṣṭha spoke thus to Nimi, foremost of royal sages: ‘I have already been chosen beforehand by Indra (vṛto ’haṃ pūrvam indreṇa); await the interval (antaraṃ pratipālaya)!’
+“But Vasiṣṭha spoke thus to Nimi, foremost of royal sages: ‘I have already been chosen beforehand by Indra (_vṛto ’haṃ pūrvam indreṇa_); await the interval (_antaraṃ pratipālaya_)!’
 </details>
 </details>
 
@@ -342,7 +342,7 @@ Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Immediately thereafter, the great brahmin Gautama filled that priestly place (anantaraṃ mahāvipro gautamaḥ pratyapūrayat), while the greatly resplendent Vasiṣṭha proceeded to perform Indra’s sacrifice (indrayajñam athākarot).”
+“Immediately thereafter, the great brahmin Gautama filled that priestly place (_anantaraṃ mahāvipro gautamaḥ pratyapūrayat_), while the greatly resplendent Vasiṣṭha proceeded to perform Indra’s sacrifice (_indrayajñam athākarot_).”
 </details>
 </details>
 
@@ -383,7 +383,7 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“King Nimi, lord of men, assembling those brahmins (viprāṃs tān samānīya narādhipaḥ), sacrificed on the flank of the Himalayas near his own city (ayajad himavat-pārśve svapurasya samīpataḥ); for five thousand years the monarch underwent sacrificial consecration (pañca-varṣa-sahasrāṇi rājā dīkṣām upāgamat).
+“King Nimi, lord of men, assembling those brahmins (_viprāṃs tān samānīya narādhipaḥ_), sacrificed on the flank of the Himalayas near his own city (_ayajad himavat-pārśve svapurasya samīpataḥ_); for five thousand years the monarch underwent sacrificial consecration (_pañca-varṣa-sahasrāṇi rājā dīkṣām upāgamat_).
 </details>
 </details>
 
@@ -416,7 +416,7 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the conclusion of Indra’s sacrifice (indrayajñāvasāne tu), the blameless, blessed sage Vasiṣṭha (vasiṣṭho bhagavann ṛṣiḥ) came into the presence of the king to perform the office of hotṛ (sakāśam āgato rājño hautraṃ kartum).
+“At the conclusion of Indra’s sacrifice (_indrayajñāvasāne tu_), the blameless, blessed sage Vasiṣṭha (_vasiṣṭho bhagavann ṛṣiḥ_) came into the presence of the king to perform the office of hotṛ (_sakāśam āgato rājño hautraṃ kartum_).
 </details>
 </details>
 
@@ -449,9 +449,9 @@ Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “Seeing then that interval already filled by Gautama (tad antaram athāpaśyad gautamenābhipūritam), Vasiṣṭha, the son of Brahmā, was seized by mighty wrath (kopena mahatāviṣṭaḥ).
+**14:** “Seeing then that interval already filled by Gautama (_tad antaram athāpaśyad gautamenābhipūritam_), Vasiṣṭha, the son of Brahmā, was seized by mighty wrath (_kopena mahatāviṣṭaḥ_).
 
-**15:** “Desiring to behold the king, he sat down waiting for a muhūrta (rājño darśanākāṅkṣī muhūrtaṃ samupāviśat); on that day, however, the royal sage was deeply overcome by sleep (rājarṣir nidrayā ’pahṛto bhṛśam).
+**15:** “Desiring to behold the king, he sat down waiting for a muhūrta (_rājño darśanākāṅkṣī muhūrtaṃ samupāviśat_); on that day, however, the royal sage was deeply overcome by sleep (_rājarṣir nidrayā ’pahṛto bhṛśam_).
 </details>
 </details>
 
@@ -485,7 +485,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon fierce indignation arose within the great-souled Vasiṣṭha (tato manyur vasiṣṭhasya prādurāsīn mahātmanaḥ); not obtaining sight of the royal sage (adarśanena rājarṣeḥ), he began to speak forth a curse (vyāhartum upacakrame).”
+“Thereupon fierce indignation arose within the great-souled Vasiṣṭha (_tato manyur vasiṣṭhasya prādurāsīn mahātmanaḥ_); not obtaining sight of the royal sage (_adarśanena rājarṣeḥ_), he began to speak forth a curse (_vyāhartum upacakrame_).”
 </details>
 </details>
 
@@ -527,7 +527,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Since, slighting me, you chose another priest, O king (yasmāt tvam anyaṃ vṛtavān mām avajñāya pārthiva), your body shall become bereft of consciousness (cetanena vinābhūto dehas tava bhaviṣyati)!’
+“‘Since, slighting me, you chose another priest, O king (_yasmāt tvam anyaṃ vṛtavān mām avajñāya pārthiva_), your body shall become bereft of consciousness (_cetanena vinābhūto dehas tava bhaviṣyati_)!’
 </details>
 </details>
 
@@ -561,7 +561,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon the royal sage awoke, and hearing the curse pronounced (prabuddho rājarṣiḥ śrutvā śāpam udāhṛtam), stupefied with wrath, he spoke in agitation to the Brahmā-born sage (brahmayonim athovāca saṃrambhāt krodha-mūrcchitaḥ):
+“Thereupon the royal sage awoke, and hearing the curse pronounced (_prabuddho rājarṣiḥ śrutvā śāpam udāhṛtam_), stupefied with wrath, he spoke in agitation to the Brahmā-born sage (_brahmayonim athovāca saṃrambhāt krodha-mūrcchitaḥ_):
 </details>
 </details>
 
@@ -592,7 +592,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Tainted by anger (krodhena kaluṣī-kṛtaḥ), upon me while asleep and unaware (ajānataḥ śayānasya ... mayi) you have loosed a fire of malediction like a second rod of Yama (muktavān ... śāpāgniṃ yama-daṇḍam ivāparam)!
+“‘Tainted by anger (_krodhena kaluṣī-kṛtaḥ_), upon me while asleep and unaware (_ajānataḥ śayānasya ... mayi_) you have loosed a fire of malediction like a second rod of Yama (_muktavān ... śāpāgniṃ yama-daṇḍam ivāparam_)!
 </details>
 </details>
 
@@ -623,7 +623,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, O brahmin sage, your exceedingly radiant body as well (tavāpi brahmarṣe ... dehaḥ surucira-prakhyaḥ) shall be rendered bereft of consciousness (cetanena vinā kṛtaḥ bhaviṣyati)—of this there is no doubt!’
+“‘Therefore, O brahmin sage, your exceedingly radiant body as well (_tavāpi brahmarṣe ... dehaḥ surucira-prakhyaḥ_) shall be rendered bereft of consciousness (_cetanena vinā kṛtaḥ bhaviṣyati_)—of this there is no doubt!’
 </details>
 </details>
 
@@ -669,6 +669,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, under the sway of wrath, mutually cursed at that very moment (roṣa-vaśād ubhau tadānīm anyonyaṃ śapitau), those two lords of kings and brahmins, endowed with equal attained spiritual might (nṛpa-dvijendrau ... tat-tulyādhigata-prabhāvavantau), instantly became bodiless (sahasaiva babhūvatur videhau).”
+“Thus, under the sway of wrath, mutually cursed at that very moment (_roṣa-vaśād ubhau tadānīm anyonyaṃ śapitau_), those two lords of kings and brahmins, endowed with equal attained spiritual might (_nṛpa-dvijendrau ... tat-tulyādhigata-prabhāvavantau_), instantly became bodiless (_sahasaiva babhūvatur videhau_).”
 </details>
 </details>

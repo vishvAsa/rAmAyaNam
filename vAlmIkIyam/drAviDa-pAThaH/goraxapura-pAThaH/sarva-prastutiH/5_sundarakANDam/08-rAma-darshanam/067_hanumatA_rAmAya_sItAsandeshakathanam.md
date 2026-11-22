@@ -83,7 +83,7 @@ by Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the great-souled Rāghava, Hanūmān reported unto Rāghava (nyavedayata rāghave) everything that Sītā had spoken (sītāyā bhāṣitaṃ sarvam):
+Addressed thus by the great-souled Rāghava, Hanūmān reported unto Rāghava (_nyavedayata rāghave_) everything that Sītā had spoken (_sītāyā bhāṣitaṃ sarvam_):
 </details>
 </details>
 
@@ -138,7 +138,7 @@ which occurred long ago in Mount Chitrakuta, as a token of recollection."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Queen Jānakī spoke this, O bull among men, as the token of recognition from the past (pūrvavṛttam abhijñānam)—just as it occurred (yathātatham) on Citrakūṭa:”
+“Queen Jānakī spoke this, O bull among men, as the token of recognition from the past (_pūrvavṛttam abhijñānam_)—just as it occurred (_yathātatham_) on Citrakūṭa:”
 </details>
 </details>
 
@@ -193,7 +193,7 @@ down quickly, tore her flesh at an area in the midst of her breasts (with its be
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having slept happily (sukhasuptā) alongside you, Jānakī arose first (pūrvam utthitā); a crow (vāyasaḥ), springing up suddenly (sahasotpatya), tore at the space between her breasts (vidadāra stanāntaram).’”
+“‘Having slept happily (_sukhasuptā_) alongside you, Jānakī arose first (_pūrvam utthitā_); a crow (_vāyasaḥ_), springing up suddenly (_sahasotpatya_), tore at the space between her breasts (_vidadāra stanāntaram_).’”
 </details>
 </details>
 
@@ -248,7 +248,7 @@ torment the princess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And in turn (paryāyeṇa), O elder brother of Bharata, you fell asleep on the queen's lap (devyaṅke); and once again that bird caused pain (janayati vyathām) to the queen.’”
+“‘And in turn (_paryāyeṇa_), O elder brother of Bharata, you fell asleep on the queen&#x27;s lap (_devyaṅke_); and once again that bird caused pain (_janayati vyathām_) to the queen.’”
 </details>
 </details>
 
@@ -303,7 +303,7 @@ then were awakened by her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Approaching again after that (tataḥ punar upāgamya), it tore fiercely (vidadāra bhṛśaṃ kila); thereupon you were awakened (bodhitaḥ), sprinkled with drops of her blood (tasyāḥ śoṇitena samukṣitaḥ).’”
+“‘Approaching again after that (_tataḥ punar upāgamya_), it tore fiercely (_vidadāra bhṛśaṃ kila_); thereupon you were awakened (_bodhitaḥ_), sprinkled with drops of her blood (_tasyāḥ śoṇitena samukṣitaḥ_).’”
 </details>
 </details>
 
@@ -355,7 +355,7 @@ princess, who was being ceaselessly tormented by the crow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And by the queen, who was thus continually tormented (satataṃ bādhyamānayā) by that crow, you who were sleeping happily (sukhasuptaḥ) were awakened, O scorcher of foes!’”
+“‘And by the queen, who was thus continually tormented (_satataṃ bādhyamānayā_) by that crow, you who were sleeping happily (_sukhasuptaḥ_) were awakened, O scorcher of foes!’”
 </details>
 </details>
 
@@ -418,7 +418,7 @@ enraged like a hissing snake and spoke to her as follows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And beholding her, O mighty-armed one, torn between her breasts (dāritāṃ ca stanāntare), wrathful as a venomous serpent (āśīviṣa iva kruddhaḥ), you then spoke these words (vākyaṃ tvam ūcivān):’”
+“‘And beholding her, O mighty-armed one, torn between her breasts (_dāritāṃ ca stanāntare_), wrathful as a venomous serpent (_āśīviṣa iva kruddhaḥ_), you then spoke these words (_vākyaṃ tvam ūcivān_):’”
 </details>
 </details>
 
@@ -473,7 +473,7 @@ Who is playing with an angry five-hooded serpent?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“By whom, O timid one (bhīru), has the space between your breasts been torn with claw-tips (nakhāgraiḥ)? Who is sporting (kaḥ krīḍati) with a wrathful, five-hooded serpent (pañcavaktreṇa bhoginā)?”’”
+“‘“By whom, O timid one (_bhīru_), has the space between your breasts been torn with claw-tips (_nakhāgraiḥ_)? Who is sporting (_kaḥ krīḍati_) with a wrathful, five-hooded serpent (_pañcavaktreṇa bhoginā_)?”’”
 </details>
 </details>
 
@@ -528,7 +528,7 @@ sharp nails stained with blood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Looking around (nirīkṣamāṇaḥ), you suddenly caught sight of the crow (vāyasaṃ samudaikṣathāḥ), standing facing her (tām evābhimukhaṃ sthitam) with sharp, blood-stained claws (nakhaiḥ sarudhirais tīkṣṇaiḥ).’”
+“‘Looking around (_nirīkṣamāṇaḥ_), you suddenly caught sight of the crow (_vāyasaṃ samudaikṣathāḥ_), standing facing her (_tām evābhimukhaṃ sthitam_) with sharp, blood-stained claws (_nakhaiḥ sarudhirais tīkṣṇaiḥ_).’”
 </details>
 </details>
 
@@ -583,7 +583,7 @@ dwelling in the middle of the mountains and equal in speed to the wind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘That crow, foremost among birds (patatāṃ varaḥ), was indeed the son of Śakra [Indra] (sutaḥ kila sa śakrasya), who had swiftly come into the interior of the earth (dharāntaragataḥ) and was equal to the wind in speed (pavanasya gatau samaḥ).’”
+“‘That crow, foremost among birds (_patatāṃ varaḥ_), was indeed the son of Śakra [Indra] (_sutaḥ kila sa śakrasya_), who had swiftly come into the interior of the earth (_dharāntaragataḥ_) and was equal to the wind in speed (_pavanasya gatau samaḥ_).’”
 </details>
 </details>
 
@@ -638,7 +638,7 @@ you then harboured a cruel intention against that crow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Then, O mighty-armed one, your eyes rolling with wrath (kopasaṃvartitekṣaṇaḥ), you formed a fierce resolve (vyadhāḥ krūrāṃ matim) against that crow, O foremost of the wise!’”
+“‘Then, O mighty-armed one, your eyes rolling with wrath (_kopasaṃvartitekṣaṇaḥ_), you formed a fierce resolve (_vyadhāḥ krūrāṃ matim_) against that crow, O foremost of the wise!’”
 </details>
 </details>
 
@@ -695,7 +695,7 @@ end facing the bird."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Taking a blade of darbha grass from the grass-mat (darbhasaṃstarād gṛhya), you charged it with the missile of Brahmā (brahmāstreṇa nyayojayaḥ); and like the blazing fire of universal dissolution (dīpta iva kālāgniḥ), it flamed up facing the bird (abhimukhaṃ khagam).’”
+“‘Taking a blade of _darbha_ grass from the grass-mat (_darbhasaṃstarād gṛhya_), you charged it with the missile of Brahmā (_brahmāstreṇa nyayojayaḥ_); and like the blazing fire of universal dissolution (_dīpta iva kālāgniḥ_), it flamed up facing the bird (_abhimukhaṃ khagam_).’”
 </details>
 </details>
 
@@ -758,7 +758,7 @@ grass for its part followed the crow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You hurled (cikṣepa) that blazing blade of darbha grass (pradīptaṃ... darbham) at the crow; and thereupon that blazing darbha-blade pursued (anujagāma) the crow.’”
+“‘You hurled (_cikṣepa_) that blazing blade of _darbha_ grass (_pradīptaṃ... darbham_) at the crow; and thereupon that blazing _darbha_-blade pursued (_anujagāma_) the crow.’”
 </details>
 </details>
 
@@ -813,7 +813,7 @@ find a protector even after going round all the three worlds (heaven, earth and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And forsaken (samparityaktaḥ) by all the terrified gods (bhītaiś ca... suraiḥ sarvaiḥ), the crow wandered through the three worlds (trīṃl lokān samparikramya) and found no protector (trātāraṃ nādhigacchati).’”
+“‘And forsaken (_samparityaktaḥ_) by all the terrified gods (_bhītaiś ca... suraiḥ sarvaiḥ_), the crow wandered through the three worlds (_trīṃl lokān samparikramya_) and found no protector (_trātāraṃ nādhigacchati_).’”
 </details>
 </details>
 
@@ -852,7 +852,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Then, O tamer of foes, he came back once more into your presence (tvatsakāśam); and you, the protector of the refuge-seeking (śaraṇyaḥ), [protected] him who had fallen on the ground seeking refuge (śaraṇāgatam)—’”
+“‘Then, O tamer of foes, he came back once more into your presence (_tvatsakāśam_); and you, the protector of the refuge-seeking (_śaraṇyaḥ_), [protected] him who had fallen on the ground seeking refuge (_śaraṇāgatam_)—’”
 </details>
 </details>
 
@@ -922,7 +922,7 @@ eye of the crow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—protecting him out of compassion (kṛpayā paripālayaḥ), O Kākutstha, even though he deserved death (vadhārham api). Yet because the missile could not be rendered vain (mogham astraṃ na śakyaṃ tu kartum), O Rāghava—’”
+“‘—protecting him out of compassion (_kṛpayā paripālayaḥ_), O Kākutstha, even though he deserved death (_vadhārham api_). Yet because the missile could not be rendered vain (_mogham astraṃ na śakyaṃ tu kartum_), O Rāghava—’”
 </details>
 </details>
 
@@ -977,7 +977,7 @@ after offering salutation to you and to king Dasaratha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—you destroyed the right eye of that crow (tasyākṣi kākasya hinasti sma sa dakṣiṇam). Having bowed in homage to you, O Rāma, and to King Daśaratha—’”
+“‘—you destroyed the right eye of that crow (_tasyākṣi kākasya hinasti sma sa dakṣiṇam_). Having bowed in homage to you, O Rāma, and to King Daśaratha—’”
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ are the foremost among the wielders of missiles, though courageous and possessed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—the crow, released (visṛṣṭaḥ) at that time, returned to his own abode (pratipede svam ālayam). Thus you are the foremost of those skilled in missiles (astravidāṃ śreṣṭhaḥ), endowed with might and noble character alike (sattvavāñ śīlavān api)!’”
+“‘—the crow, released (_visṛṣṭaḥ_) at that time, returned to his own abode (_pratipede svam ālayam_). Thus you are the foremost of those skilled in missiles (_astravidāṃ śreṣṭhaḥ_), endowed with might and noble character alike (_sattvavāñ śīlavān api_)!’”
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ of fighting with Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Why then, O Rāghava, do you not direct your missile against the Rākṣasas (kimartham astraṃ rakṣaḥsu na yojayasi)? Neither Dānavas, nor Gandharvas, nor Asuras, nor the hosts of Maruts—’”
+“‘Why then, O Rāghava, do you not direct your missile against the Rākṣasas (_kimartham astraṃ rakṣaḥsu na yojayasi_)? Neither Dānavas, nor Gandharvas, nor Asuras, nor the hosts of Maruts—’”
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ his exceptionally sharp arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—are able to stand against you in battle (tava rāma raṇe śaktās tathā pratisamāsitum), O Rāma! If you who are so valorous (tava vīryavataḥ) have any tender regard for me (mayi yady asti sambhramaḥ)—’”
+“‘—are able to stand against you in battle (_tava rāma raṇe śaktās tathā pratisamāsitum_), O Rāma! If you who are so valorous (_tava vīryavataḥ_) have any tender regard for me (_mayi yady asti sambhramaḥ_)—’”
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ in Raghu dynasty is not saving me, by taking orders from Rama his brother?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—let Rāvaṇa swiftly be slain in battle with keen-whetted arrows (suniśitair bāṇaiḥ)! Or else, taking his brother's command (bhrātur ādeśam ājñāya), why does Lakṣmaṇa, the scorcher of foes—’”
+“‘—let Rāvaṇa swiftly be slain in battle with keen-whetted arrows (_suniśitair bāṇaiḥ_)! Or else, taking his brother&#x27;s command (_bhrātur ādeśam ājñāya_), why does Lakṣmaṇa, the scorcher of foes—’”
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ me?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—that foremost of men, the Rāghava, not rescue me (na māṃ rakṣati)? Why do those two tigers among men (puruṣavyāghrau), equal in energy to Wind and Fire (vāyvagnisamatejasau)—’”
+“‘—that foremost of men, the Rāghava, not rescue me (_na māṃ rakṣati_)? Why do those two tigers among men (_puruṣavyāghrau_), equal in energy to Wind and Fire (_vāyvagnisamatejasau_)—’”
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ Rama and Lakshmana, who torment the enemies, even though capable, are not paying
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—unassailable even by the gods (surāṇām api durdharṣau), disregard me (kimarthaṃ mām upekṣataḥ)? Truly there must be some great misdeed of mine (mamaiva duṣkṛtaṃ kiṃcin mahad asti)—there is no doubt—’”
+“‘—unassailable even by the gods (_surāṇām api durdharṣau_), disregard me (_kimarthaṃ mām upekṣataḥ_)? Truly there must be some great misdeed of mine (_mamaiva duṣkṛtaṃ kiṃcin mahad asti_)—there is no doubt—’”
 </details>
 </details>
 
@@ -1375,7 +1375,7 @@ Seetha the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—inasmuch as those two scorchers of foes, though capable and united (samarthau sahitau), do not rescue me (na rakṣete)!’ Hearing the piteous (karuṇam), well-spoken words of Vaidehī—”
+“‘—inasmuch as those two scorchers of foes, though capable and united (_samarthau sahitau_), do not rescue me (_na rakṣete_)!’ Hearing the piteous (_karuṇam_), well-spoken words of Vaidehī—”
 </details>
 </details>
 
@@ -1439,7 +1439,7 @@ from you. I swear it to you truly. Rama, being overwhelmed with grief, Lakshmana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—I spoke these words once again (punar apy aham... abruvam) to that noble lady (āryāṃ tām): ‘O queen, Rāma is turned away from all else out of grief for you (tvacchokavimukhaḥ)—I swear to you by truth (satyena te śape)!’”
+“—I spoke these words once again (_punar apy aham... abruvam_) to that noble lady (_āryāṃ tām_): ‘O queen, Rāma is turned away from all else out of grief for you (_tvacchokavimukhaḥ_)—I swear to you by truth (_satyena te śape_)!’”
 </details>
 </details>
 
@@ -1494,7 +1494,7 @@ and which can beget happiness to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And when Rāma is overwhelmed by sorrow (duḥkhābhibhūte), Lakṣmaṇa is consumed with anguish (paritapyate). Somehow your ladyship has been found (kathaṃcid bhavatī dṛṣṭā); this is no time to grieve (na kālaḥ pariśocitum)!’”
+“‘And when Rāma is overwhelmed by sorrow (_duḥkhābhibhūte_), Lakṣmaṇa is consumed with anguish (_paritapyate_). Somehow your ladyship has been found (_kathaṃcid bhavatī dṛṣṭā_); this is no time to grieve (_na kālaḥ pariśocitum_)!’”
 </details>
 </details>
 
@@ -1548,7 +1548,7 @@ you. They can reduce Lanka to ashes'."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘At this very hour (asmin muhūrte), O spirited lady (bhāmini), you shall behold the end of your sorrows (duḥkhānām antaṃ drakṣyasi)! Both those two tigers among men, the royal princes, scorchers of foes—’”
+“‘At this very hour (_asmin muhūrte_), O spirited lady (_bhāmini_), you shall behold the end of your sorrows (_duḥkhānām antaṃ drakṣyasi_)! Both those two tigers among men, the royal princes, scorchers of foes—’”
 </details>
 </details>
 
@@ -1583,7 +1583,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—filled with energy by the discovery of you (tvaddarśanakṛtotsāhau), shall reduce Laṅkā to ashes (laṅkāṃ bhasmīkariṣyataḥ); and having slain in battle the terrible Rāvaṇa together with his kinsmen (sahabāndhavam)—’”
+“‘—filled with energy by the discovery of you (_tvaddarśanakṛtotsāhau_), shall reduce Laṅkā to ashes (_laṅkāṃ bhasmīkariṣyataḥ_); and having slain in battle the terrible Rāvaṇa together with his kinsmen (_sahabāndhavam_)—’”
 </details>
 </details>
 
@@ -1653,7 +1653,7 @@ and which can beget happiness to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—Rāghava, O lady of fair hips, shall surely lead you back to his own city (svapurīṃ nayitā dhruvam)! Yet whatever token of recognition (abhijñānam) Rāma would know for certain, O blameless one—’”
+“‘—Rāghava, O lady of fair hips, shall surely lead you back to his own city (_svapurīṃ nayitā dhruvam_)! Yet whatever token of recognition (_abhijñānam_) Rāma would know for certain, O blameless one—’”
 </details>
 </details>
 
@@ -1688,7 +1688,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—that you ought to give, to awaken joy in him (prītisaṃjananaṃ tasya)!’ Glancing around in all directions (abhivīkṣya diśaḥ sarvāḥ), she [took] the supreme ornament bound in her braid (veṇyudgrathanam uttamam)—”
+“‘—that you ought to give, to awaken joy in him (_prītisaṃjananaṃ tasya_)!’ Glancing around in all directions (_abhivīkṣya diśaḥ sarvāḥ_), she [took] the supreme ornament bound in her braid (_veṇyudgrathanam uttamam_)—”
 </details>
 </details>
 
@@ -1768,7 +1768,7 @@ by bowing my head to that venerable Seetha, I was seized with a haste to come ba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and untying it from her garment (muktvā vastrāt), she gave this jewel to me, O hero of mighty strength! Receiving the jewel with both hands (pratigṛhya maṇiṃ dorbhyām) for your sake, O beloved of Raghu—”
+“—and untying it from her garment (_muktvā vastrāt_), she gave this jewel to me, O hero of mighty strength! Receiving the jewel with both hands (_pratigṛhya maṇiṃ dorbhyām_) for your sake, O beloved of Raghu—”
 </details>
 </details>
 
@@ -1875,13 +1875,13 @@ together with his ministers and all others about their welfare."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** “—and bowing low to her with my head (śirasā sampraṇamyainām), I hastened for my return (aham āgamane tvare). Beholding me eager for departure (gamane ca kṛtotsāham), that lady of fairest complexion (varavarṇinī)—”
+**32:** “—and bowing low to her with my head (_śirasā sampraṇamyainām_), I hastened for my return (_aham āgamane tvare_). Beholding me eager for departure (_gamane ca kṛtotsāham_), that lady of fairest complexion (_varavarṇinī_)—”
 
-**33:** “—and seeing me growing in bulk (vivardhamānaṃ ca hi mām), Janaka's daughter spoke to me, wretched (dīnā), her face brimming with tears (aśrupūrṇamukhī), and speaking in a voice choked with sobs (bāṣpagadgadabhāṣiṇī):”
+**33:** “—and seeing me growing in bulk (_vivardhamānaṃ ca hi mām_), Janaka&#x27;s daughter spoke to me, wretched (_dīnā_), her face brimming with tears (_aśrupūrṇamukhī_), and speaking in a voice choked with sobs (_bāṣpagadgadabhāṣiṇī_):”
 
-**34:** “flurried by my preparation to leap up (mamotpatanasambhrāntā) and stricken by a surge of grief (śokavegasamāhatā), Sītā then spoke to me: ‘Fortunate indeed are you, O great monkey (sabhāgyo 'si mahākape)—’”
+**34:** “flurried by my preparation to leap up (_mamotpatanasambhrāntā_) and stricken by a surge of grief (_śokavegasamāhatā_), Sītā then spoke to me: ‘Fortunate indeed are you, O great monkey (_sabhāgyo &#x27;si mahākape_)—’”
 
-**35:** “‘—inasmuch as you shall behold (yad drakṣyasi) the mighty-armed, lotus-eyed Rāma (rāmaṃ kamalalocanam), and my illustrious, mighty-armed brother-in-law Lakṣmaṇa (lakṣmaṇaṃ ca... devaraṃ me yaśasvinam)!’”
+**35:** “‘—inasmuch as you shall behold (_yad drakṣyasi_) the mighty-armed, lotus-eyed Rāma (_rāmaṃ kamalalocanam_), and my illustrious, mighty-armed brother-in-law Lakṣmaṇa (_lakṣmaṇaṃ ca... devaraṃ me yaśasvinam_)!’”
 </details>
 </details>
 
@@ -1956,9 +1956,9 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Addressed thus by Sītā, I too spoke to Maithilī in reply: ‘Mount upon my back (pṛṣṭham āroha me), O queen, quickly, O daughter of Janaka—’”
+**36:** “Addressed thus by Sītā, I too spoke to Maithilī in reply: ‘Mount upon my back (_pṛṣṭham āroha me_), O queen, quickly, O daughter of Janaka—’”
 
-**37:** “‘—so that this very day I may show you (yāvat te darśayāmy adya) your husband Rāghava together with Sugrīva and Lakṣmaṇa, O highly fortunate, dark-eyed lady (asitekṣaṇe)!’”
+**37:** “‘—so that this very day I may show you (_yāvat te darśayāmy adya_) your husband Rāghava together with Sugrīva and Lakṣmaṇa, O highly fortunate, dark-eyed lady (_asitekṣaṇe_)!’”
 </details>
 </details>
 
@@ -1984,7 +1984,7 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon the queen spoke to me: ‘This is not righteousness (naiṣa dharmaḥ), O great monkey, that of my own free will (svavaśā) I should mount upon your back (yat te pṛṣṭhaṃ siṣeve 'ham), O bull among monkeys!’”
+“Thereupon the queen spoke to me: ‘This is not righteousness (_naiṣa dharmaḥ_), O great monkey, that of my own free will (_svavaśā_) I should mount upon your back (_yat te pṛṣṭhaṃ siṣeve &#x27;ham_), O bull among monkeys!’”
 </details>
 </details>
 
@@ -2017,7 +2017,7 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And as for my having been touched on my limbs by the Rākṣasa formerly (purā ca yad ahaṃ... spṛṣṭā gātreṣu rakṣasā), O hero—what could I do in that matter (tatrāhaṃ kiṃ kariṣyāmi),when overpowered by fate (kālenopanipīḍitā)?’”
+“‘And as for my having been touched on my limbs by the Rākṣasa formerly (_purā ca yad ahaṃ... spṛṣṭā gātreṣu rakṣasā_), O hero—what could I do in that matter (_tatrāhaṃ kiṃ kariṣyāmi_),when overpowered by fate (_kālenopanipīḍitā_)?’”
 </details>
 </details>
 
@@ -2061,9 +2061,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** “‘Go you, O tiger among monkeys (gaccha tvaṃ kapiśārdūla), to where those two sons of the king abide!’ Having conversed thus (ity evaṃ sā samābhāṣya), she proceeded to deliver a further message (bhūyaḥ saṃdeṣṭum āsthitā):”
+**40:** “‘Go you, O tiger among monkeys (_gaccha tvaṃ kapiśārdūla_), to where those two sons of the king abide!’ Having conversed thus (_ity evaṃ sā samābhāṣya_), she proceeded to deliver a further message (_bhūyaḥ saṃdeṣṭum āsthitā_):”
 
-**41:** “‘O Hanūmān, unto both those lion-like heroes Rāma and Lakṣmaṇa (siṃhasaṃkāśau tāv ubhau rāmalakṣmaṇau), and unto Sugrīva together with his ministers (sahāmātyam), speak my inquiry after their welfare (sarvān brūyā anāmayam)!’”
+**41:** “‘O Hanūmān, unto both those lion-like heroes Rāma and Lakṣmaṇa (_siṃhasaṃkāśau tāv ubhau rāmalakṣmaṇau_), and unto Sugrīva together with his ministers (_sahāmātyam_), speak my inquiry after their welfare (_sarvān brūyā anāmayam_)!’”
 </details>
 </details>
 
@@ -2097,7 +2097,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And you ought to report this in such a way (tathā... tat tvam ākhyātum arhasi) that the mighty-armed Rāghava rescues me (māṃ tārayati rāghavaḥ) from this confining ocean of sorrow (asmād duḥkhāmbusaṃrodhāt)!’”
+“‘And you ought to report this in such a way (_tathā... tat tvam ākhyātum arhasi_) that the mighty-armed Rāghava rescues me (_māṃ tārayati rāghavaḥ_) from this confining ocean of sorrow (_asmād duḥkhāmbusaṃrodhāt_)!’”
 </details>
 </details>
 
@@ -2137,7 +2137,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And having gone into Rāma's presence (rāmasya gataḥ samīpam), tell him of this fierce surge of grief of mine (tīvraṃ mama śokavegam) and the menacing by these Rākṣasas (rakṣobhir ebhiḥ paribhartsanaṃ ca); and may your journey be auspicious (śivaś ca te 'dhvāstu), O foremost of monkey heroes!’”
+“‘And having gone into Rāma&#x27;s presence (_rāmasya gataḥ samīpam_), tell him of this fierce surge of grief of mine (_tīvraṃ mama śokavegam_) and the menacing by these Rākṣasas (_rakṣobhir ebhiḥ paribhartsanaṃ ca_); and may your journey be auspicious (_śivaś ca te &#x27;dhvāstu_), O foremost of monkey heroes!’”
 </details>
 </details>
 
@@ -2188,7 +2188,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That noble lady of yours (tavāryā), O king, the self-restrained (saṃyatā) Sītā, spoke these words in deep dejection (viṣādapūrvam); and having understood this just as it has been told (gadataṃ yathā), have faith (śraddhatsva) that Sītā is safe and wholly intact (kuśalāṃ samagrām)!”
+“That noble lady of yours (_tavāryā_), O king, the self-restrained (_saṃyatā_) Sītā, spoke these words in deep dejection (_viṣādapūrvam_); and having understood this just as it has been told (_gadataṃ yathā_), have faith (_śraddhatsva_) that Sītā is safe and wholly intact (_kuśalāṃ samagrām_)!”
 </details>
 </details>
 

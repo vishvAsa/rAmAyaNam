@@ -116,9 +116,9 @@ street was splendid with white houses resembling clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Mounting his chariot, his heart gladdened by throngs of joyful friends, that illustrious Rāma set forth along the thoroughfare, which was arrayed with pennants and banner-staffs and perfumed with the smoke of precious aloe-wood (aguru).
+**1:** Mounting his chariot, his heart gladdened by throngs of joyful friends, that illustrious Rāma set forth along the thoroughfare, which was arrayed with pennants and banner-staffs and perfumed with the smoke of precious aloe-wood (_aguru_).
 
-**2:** Possessed of radiant fortune (śrīmān), he beheld the city teeming with people of every walk of life and resplendent with gleaming white mansions that resembled banks of clouds.
+**2:** Possessed of radiant fortune (_śrīmān_), he beheld the city teeming with people of every walk of life and resplendent with gleaming white mansions that resembled banks of clouds.
 </details>
 </details>
 
@@ -215,13 +215,13 @@ and sandal and all types of garlands and perfumes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Rāma rode down the very center of the royal highway (rājamārgam), which was fragrant with aloe-wood incense and lined with heaps of the choicest sandalwood and dark aloe.
+**3:** Rāma rode down the very center of the royal highway (_rājamārgam_), which was fragrant with aloe-wood incense and lined with heaps of the choicest sandalwood and dark aloe.
 
-**4:** It shone with stores of the finest perfumes, linen (kṣauma) and silken garments (kauśāmbara), unpierced pearls, and exquisite crystals.
+**4:** It shone with stores of the finest perfumes, linen (_kṣauma_) and silken garments (_kauśāmbara_), unpierced pearls, and exquisite crystals.
 
 **5:** Wide and unobstructed, that supreme royal highway was strewn with diverse flowers and furnished with confections and foods of every kind, high and low.
 
-**6:** Like the lord of the gods (devapati) looking upon his celestial avenue in heaven, he beheld that royal highway honored with curds, unbroken auspicious grains (akṣata), clarified butter, parched grain (lāja), incense, aloe-wood, and sandal-paste.
+**6:** Like the lord of the gods (_devapati_) looking upon his celestial avenue in heaven, he beheld that royal highway honored with curds, unbroken auspicious grains (_akṣata_), clarified butter, parched grain (_lāja_), incense, aloe-wood, and sandal-paste.
 </details>
 </details>
 
@@ -286,7 +286,7 @@ people suitably.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along that avenue whose crossroads were ever worshiped with varied garlands and fragrant unguents, he rode on, listening to manifold benedictions (āśīrvādān) uttered aloud by his well-wishers.
+Along that avenue whose crossroads were ever worshiped with varied garlands and fragrant unguents, he rode on, listening to manifold benedictions (_āśīrvādān_) uttered aloud by his well-wishers.
 </details>
 </details>
 
@@ -340,7 +340,7 @@ and rule the kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honoring all the people in return according to their dignity (yathārham), he proceeded as they cried: “Protected by you upon your consecration, follow from today onward the path practiced by your grandfathers and great-grandfathers!”
+Honoring all the people in return according to their dignity (_yathārham_), he proceeded as they cried: “Protected by you upon your consecration, follow from today onward the path practiced by your grandfathers and great-grandfathers!”
 </details>
 </details>
 
@@ -448,7 +448,7 @@ of eating or other activities."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough for us today with food, and enough with the highest spiritual ends (paramārthaiḥ), if only we may behold Rāma coming forth established in the sovereignty of the realm!”
+“Enough for us today with food, and enough with the highest spiritual ends (_paramārthaiḥ_), if only we may behold Rāma coming forth established in the sovereignty of the realm!”
 </details>
 </details>
 
@@ -553,7 +553,7 @@ and went in royal route.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these and other auspicious speeches of his friends that magnified his glory, Rāma rode along the great highway in serene equanimity (udāsīnaḥ).
+Hearing these and other auspicious speeches of his friends that magnified his glory, Rāma rode along the great highway in serene equanimity (_udāsīnaḥ_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ aged people. Hence, they were all devoted to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, whoever does not look upon Rāma, and whoever Rāma does not look upon, is condemned across all the worlds—even his own inner self (svātmā) reproaches him!
+Indeed, whoever does not look upon Rāma, and whoever Rāma does not look upon, is condemned across all the worlds—even his own inner self (_svātmā_) reproaches him!
 </details>
 </details>
 
@@ -725,7 +725,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Keeping crossroads, temple avenues, sacred trees (caityān), and sanctuaries auspiciously to his right (pradakṣiṇam), the king's son journeyed onward.
+Keeping crossroads, temple avenues, sacred trees (_caityān_), and sanctuaries auspiciously to his right (_pradakṣiṇam_), the king&#x27;s son journeyed onward.
 </details>
 </details>
 
@@ -766,7 +766,7 @@ right side towards them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Keeping crossroads, temple avenues, sacred trees (caityān), and sanctuaries auspiciously to his right (pradakṣiṇam), the king's son journeyed onward.
+Keeping crossroads, temple avenues, sacred trees (_caityān_), and sanctuaries auspiciously to his right (_pradakṣiṇam_), the king&#x27;s son journeyed onward.
 </details>
 </details>
 
@@ -846,9 +846,9 @@ the sky. There were royal houses named vardhamana which were adorned with a net 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Then he reached the royal palace (rājakulam), which shone with auspicious, manifold turret-peaks (prāsādaśṛṅgaiḥ) resembling banks of clouds and the summits of Mount Kailāsa.
+**17:** Then he reached the royal palace (_rājakulam_), which shone with auspicious, manifold turret-peaks (_prāsādaśṛṅgaiḥ_) resembling banks of clouds and the summits of Mount Kailāsa.
 
-**18:** With its gleaming white aerial pavilions (vimānaiḥ) that seemed to screen the very sky, and its pleasure-mansions (vardhamānagṛhaiḥ) adorned with lattices of precious gems,
+**18:** With its gleaming white aerial pavilions (_vimānaiḥ_) that seemed to screen the very sky, and its pleasure-mansions (_vardhamānagṛhaiḥ_) adorned with lattices of precious gems,
 
 **19:** that peerless palace upon the earth resembled the abode of Mahendra himself; blazing with royal splendor, the prince entered that residence of his father.
 </details>
@@ -901,7 +901,7 @@ bows and moved over the other two enclosures by foot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having crossed three outer courtyards (kakṣyāḥ) guarded by bowmen while still borne by his chariot-horses, that best of men traversed the remaining two courtyards on foot (padātiḥ).
+Having crossed three outer courtyards (_kakṣyāḥ_) guarded by bowmen while still borne by his chariot-horses, that best of men traversed the remaining two courtyards on foot (_padātiḥ_).
 </details>
 </details>
 
@@ -954,7 +954,7 @@ That Rama passed over all the gates, sent all the people back and entered the pa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed through all the courtyards, the son of Daśaratha dismissed his entire retinue and entered the inner royal apartments (śuddhāntaḥpuram).
+Having passed through all the courtyards, the son of Daśaratha dismissed his entire retinue and entered the inner royal apartments (_śuddhāntaḥpuram_).
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ his return as the ocean waits for raising of the moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that prince had entered his father's presence, all the joyous people outside awaited his coming forth once more, just as the lord of rivers—the ocean (saritpatiḥ)—awaits the rising of the moon.
+When that prince had entered his father&#x27;s presence, all the joyous people outside awaited his coming forth once more, just as the lord of rivers—the ocean (_saritpatiḥ_)—awaits the rising of the moon.
 </details>
 </details>
 

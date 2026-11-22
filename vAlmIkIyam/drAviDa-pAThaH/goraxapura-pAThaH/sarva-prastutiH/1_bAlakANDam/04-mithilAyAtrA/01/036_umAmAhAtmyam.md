@@ -92,7 +92,7 @@ When that sage Vishvamitra has finished narration of the legend of the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that sage had finished speaking (uktavākye munau tasmin), both heroic brothers, Rāghava and Lakṣmaṇa, joyfully applauded the tale (pratinandya kathām) and addressed that bull among sages:
+When that sage had finished speaking (_uktavākye munau tasmin_), both heroic brothers, Rāghava and Lakṣmaṇa, joyfully applauded the tale (_pratinandya kathām_) and addressed that bull among sages:
 </details>
 </details>
 
@@ -152,7 +152,7 @@ When that sage had finished speaking (uktavākye munau tasmin), both heroic brot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Brāhmaṇa, this supreme narrative fraught with dharma (dharmayuktam idaṃ paramam) has been recounted by you! Since you know all things in full detail (vistarajño ’si), pray recount at length the divine and human origin and deeds (divyamānuṣasambhavam vistaram) of the eldest daughter of the lord of mountains (duhituḥ śailarājasya jyeṣṭhāyāḥ).
+“O Brāhmaṇa, this supreme narrative fraught with _dharma_ (_dharmayuktam idaṃ paramam_) has been recounted by you! Since you know all things in full detail (_vistarajño ’si_), pray recount at length the divine and human origin and deeds (_divyamānuṣasambhavam vistaram_) of the eldest daughter of the lord of mountains (_duhituḥ śailarājasya jyeṣṭhāyāḥ_).
 </details>
 </details>
 
@@ -212,7 +212,7 @@ When that sage had finished speaking (uktavākye munau tasmin), both heroic brot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For what reason does that sanctifier of the worlds (lokapāvanī) flood the three paths (trīn pathaḥ plāvayet), and how is Gaṅgā, the foremost of rivers, renowned as the three-pathed stream (tripathagā viśrutā)?
+“For what reason does that sanctifier of the worlds (_lokapāvanī_) flood the three paths (_trīn pathaḥ plāvayet_), and how is Gaṅgā, the foremost of rivers, renowned as the three-pathed stream (_tripathagā viśrutā_)?
 </details>
 </details>
 
@@ -261,7 +261,7 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O knower of dharma, with what sacred deeds is she endowed across the three worlds (triṣu lokeṣu karmabhiḥ kaiḥ samanvitā)?” As Kākutstha spoke thus, Viśvāmitra, rich in asceticism,
+“O knower of _dharma_, with what sacred deeds is she endowed across the three worlds (_triṣu lokeṣu karmabhiḥ kaiḥ samanvitā_)?” As Kākutstha spoke thus, Viśvāmitra, rich in asceticism,
 </details>
 </details>
 
@@ -311,7 +311,7 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-recounted the entire narrative in full detail (nikhilena kathāṃ sarvām) in the midst of the sages: “In days of old, O Rāma, the blue-throated Lord Śiva (śitikaṇṭhaḥ), of mighty austerity, having wedded (kṛtodvāhaḥ),
+recounted the entire narrative in full detail (_nikhilena kathāṃ sarvām_) in the midst of the sages: “In days of old, O Rāma, the blue-throated Lord Śiva (_śitikaṇṭhaḥ_), of mighty austerity, having wedded (_kṛtodvāhaḥ_),
 </details>
 </details>
 
@@ -375,7 +375,7 @@ The hundred divine years are said to be 36,000 mortal years and this
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“beheld the Goddess and entered upon conjugal union (maithunāyopacakrame); and as that wise Great God, the blue-throated Lord, sported with her (tasya saṃkrīḍamānasya), a hundred divine years passed away (divyaṃ varṣaśataṃ gatam).
+“beheld the Goddess and entered upon conjugal union (_maithunāyopacakrame_); and as that wise Great God, the blue-throated Lord, sported with her (_tasya saṃkrīḍamānasya_), a hundred divine years passed away (_divyaṃ varṣaśataṃ gatam_).
 </details>
 </details>
 
@@ -441,7 +441,7 @@ Dreading that no creature could endure a child born of Śiva and Umā after a ce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet no son was born of her, O Rāma, scorcher of foes (na cāpi tanayas tasyām āsīt). Thereupon all the gods, with the Grandsire Brahmā at their head, rose up in urgent effort (samudyuktāḥ),
+“Yet no son was born of her, O Rāma, scorcher of foes (_na cāpi tanayas tasyām āsīt_). Thereupon all the gods, with the Grandsire Brahmā at their head, rose up in urgent effort (_samudyuktāḥ_),
 </details>
 </details>
 
@@ -472,7 +472,7 @@ Dreading that no creature could endure a child born of Śiva and Umā after a ce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-reflecting: ‘If a being is born here (yad ihotpadyate bhūtam), who will be able to withstand it (kas tat pratisahiṣyati)?’ Approaching and bowing low in prostration (abhigamya praṇipatya), all the gods spoke these words:
+reflecting: ‘If a being is born here (_yad ihotpadyate bhūtam_), who will be able to withstand it (_kas tat pratisahiṣyati_)?’ Approaching and bowing low in prostration (_abhigamya praṇipatya_), all the gods spoke these words:
 </details>
 </details>
 
@@ -533,7 +533,7 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O God of gods, O Mahādeva, ever devoted to the welfare of this world (lokasyāsya hite rata)! Moved by the prostration of the gods (surāṇāṃ praṇipātena), pray grant us your grace (prasādaṃ kartum arhasi).
+“‘O God of gods, O Mahādeva, ever devoted to the welfare of this world (_lokasyāsya hite rata_)! Moved by the prostration of the gods (_surāṇāṃ praṇipātena_), pray grant us your grace (_prasādaṃ kartum arhasi_).
 </details>
 </details>
 
@@ -564,7 +564,7 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘The worlds will not be able to bear your fiery energy (na lokā dhārayiṣyanti tava tejaḥ), O foremost of gods! Endowed with Brāhmic austerity (brāhmeṇa tapasā yuktaḥ), practice asceticism together with the Goddess (devyā saha tapaś cara).
+“‘The worlds will not be able to bear your fiery energy (_na lokā dhārayiṣyanti tava tejaḥ_), O foremost of gods! Endowed with Brāhmic austerity (_brāhmeṇa tapasā yuktaḥ_), practice asceticism together with the Goddess (_devyā saha tapaś cara_).
 </details>
 </details>
 
@@ -634,7 +634,7 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Out of desire for the welfare of the three worlds (trailokyahitakāmārtham), hold your fiery seed within your own fiery essence (tejas tejasi dhāraya)! Protect all these worlds; you ought not to reduce the universe to non-existence (nālokaṃ kartum arhasi).’
+“‘Out of desire for the welfare of the three worlds (_trailokyahitakāmārtham_), hold your fiery seed within your own fiery essence (_tejas tejasi dhāraya_)! Protect all these worlds; you ought not to reduce the universe to non-existence (_nālokaṃ kartum arhasi_).’
 </details>
 </details>
 
@@ -684,7 +684,7 @@ The word *tejas* also means semen, or offspring, besides resplendence
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of the deities, the Supreme Lord of all the worlds (sarvalokamaheśvaraḥ) said to them all, ‘So be it!’ (bāḍham ity abravīt), and then spoke again as follows:
+“Hearing the words of the deities, the Supreme Lord of all the worlds (_sarvalokamaheśvaraḥ_) said to them all, ‘So be it!’ (_bāḍham ity abravīt_), and then spoke again as follows:
 </details>
 </details>
 
@@ -746,7 +746,7 @@ Restraining his unshaken energy within himself, Śiva releases upon the Earth th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Together with Umā, I shall hold back my fiery energy by my own fiery power (dhārayiṣyāmy ahaṃ tejas tejasaiva sahomayā); let the thirty gods and the Earth attain peace and tranquility (tridaśāḥ pṛthivī caiva nirvāṇam adhigacchatu)!
+“‘Together with Umā, I shall hold back my fiery energy by my own fiery power (_dhārayiṣyāmy ahaṃ tejas tejasaiva sahomayā_); let the thirty gods and the Earth attain peace and tranquility (_tridaśāḥ pṛthivī caiva nirvāṇam adhigacchatu_)!
 </details>
 </details>
 
@@ -795,7 +795,7 @@ Restraining his unshaken energy within himself, Śiva releases upon the Earth th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Yet as for this peerless fiery seed of mine that has already been stirred from its seat (yad idaṃ kṣubhitaṃ sthānān mama tejo hy anuttamam), who shall bear it? Let the foremost of the gods declare that to me (dhārayiṣyati kas tan me bruvantu surasattamāḥ).’
+“‘Yet as for this peerless fiery seed of mine that has already been stirred from its seat (_yad idaṃ kṣubhitaṃ sthānān mama tejo hy anuttamam_), who shall bear it? Let the foremost of the gods declare that to me (_dhārayiṣyati kas tan me bruvantu surasattamāḥ_).’
 </details>
 </details>
 
@@ -847,7 +847,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed, the gods replied to the bull-bannered Lord (pratyūcur vṛṣabhadhvajam): ‘Whatever fiery seed has been stirred today (yat tejaḥ kṣubhitaṃ hy adya), the Earth (dharā) shall bear it!’
+“Thus addressed, the gods replied to the bull-bannered Lord (_pratyūcur vṛṣabhadhvajam_): ‘Whatever fiery seed has been stirred today (_yat tejaḥ kṣubhitaṃ hy adya_), the Earth (_dharā_) shall bear it!’
 </details>
 </details>
 
@@ -896,7 +896,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed, the mighty Lord of the gods released it (surapatiḥ pramumoca mahābalaḥ), and by that fiery energy the entire Earth, with her mountains and forests, was pervaded (tejasā pṛthivī yena vyāptā sagirikānanā).
+“Thus addressed, the mighty Lord of the gods released it (_surapatiḥ pramumoca mahābalaḥ_), and by that fiery energy the entire Earth, with her mountains and forests, was pervaded (_tejasā pṛthivī yena vyāptā sagirikānanā_).
 </details>
 </details>
 
@@ -945,7 +945,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon the gods spoke once more to Hutāśana (Agni): ‘Accompanied by Vāyu, enter into this mighty, fierce energy of Rudra (āviśa tvaṃ mahātejo raudraṃ vāyusamanvitaḥ)!’
+“Thereupon the gods spoke once more to Hutāśana (Agni): ‘Accompanied by Vāyu, enter into this mighty, fierce energy of Rudra (_āviśa tvaṃ mahātejo raudraṃ vāyusamanvitaḥ_)!’
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pervaded again by Agni (tad agninā punar vyāptam), that seed became the White Mountain (saṃjātaṃ śvetaparvatam) and the divine reed-forest Śaravaṇa (divyaṃ śaravaṇaṃ caiva), blazing like fire and the sun combined (pāvakādityasaṃnibham),
+“Pervaded again by Agni (_tad agninā punar vyāptam_), that seed became the White Mountain (_saṃjātaṃ śvetaparvatam_) and the divine reed-forest _Śaravaṇa_ (_divyaṃ śaravaṇaṃ caiva_), blazing like fire and the sun combined (_pāvakādityasaṃnibham_),
 </details>
 </details>
 
@@ -1076,7 +1076,7 @@ Though the gods and sages worship Umā and Śiva in relief, the incensed daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“wherein was born the mighty-splendored Kārtikeya, sprung from Agni (kārtikeyo ’gnisambhavaḥ). Then the gods together with the hosts of sages (devāḥ sarṣigaṇās tadā),
+“wherein was born the mighty-splendored Kārtikeya, sprung from Agni (_kārtikeyo ’gnisambhavaḥ_). Then the gods together with the hosts of sages (_devāḥ sarṣigaṇās tadā_),
 </details>
 </details>
 
@@ -1124,7 +1124,7 @@ Though the gods and sages worship Umā and Śiva in relief, the incensed daughte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with their minds supremely gladdened (suprītamanasaḥ), worshipped both Umā and Śiva exceedingly (pūjayām āsur atyartham). Thereupon the daughter of the Mountain, O Rāma, spoke thus to the thirty gods:
+with their minds supremely gladdened (_suprītamanasaḥ_), worshipped both Umā and Śiva exceedingly (_pūjayām āsur atyartham_). Thereupon the daughter of the Mountain, O Rāma, spoke thus to the thirty gods:
 </details>
 </details>
 
@@ -1200,9 +1200,9 @@ Thus the celestials do not directly breed. They take the agency of humans
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “Filled with wrath and her eyes reddened with anger (samanyur krodhasaṃraktalocanā), she cursed them all (aśapat sarvān): ‘Since I was prevented by you when united with my lord out of desire for a son (yasmān nivāritā cāhaṃ saṃgatā putrakāmyayā),
+**21:** “Filled with wrath and her eyes reddened with anger (_samanyur krodhasaṃraktalocanā_), she cursed them all (_aśapat sarvān_): ‘Since I was prevented by you when united with my lord out of desire for a son (_yasmān nivāritā cāhaṃ saṃgatā putrakāmyayā_),
 
-**22:** “‘you shall no longer be able to beget offspring in your own wives (apatyaṃ sveṣu dāreṣu notpādayitum arhatha); from this day forth, let your consorts remain barren (adyaprabhṛti yuṣmākam aprajāḥ santu patnayaḥ)!’
+**22:** “‘you shall no longer be able to beget offspring in your own wives (_apatyaṃ sveṣu dāreṣu notpādayitum arhatha_); from this day forth, let your consorts remain barren (_adyaprabhṛti yuṣmākam aprajāḥ santu patnayaḥ_)!’
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ Thus the celestials do not directly breed. They take the agency of humans
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus to all the gods, she cursed the Earth as well (śaśāpa pṛthivīm api): ‘O Earth (avane), you shall become manifold in form (naikarūpā) and the wife of many lords (bahubhāryā bhaviṣyasi)!
+“Having spoken thus to all the gods, she cursed the Earth as well (_śaśāpa pṛthivīm api_): ‘O Earth (_avane_), you shall become manifold in form (_naikarūpā_) and the wife of many lords (_bahubhāryā bhaviṣyasi_)!
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And sullied by my wrath (matkrodhakaluṣīkṛtā), O dull-witted one (sudurmedhaḥ), you shall never obtain the joy born of a son (na ca putrakṛtāṃ prītiṃ prāpsyasi), since you did not wish me to have a son (mama putram anicchatī)!’
+“‘And sullied by my wrath (_matkrodhakaluṣīkṛtā_), O dull-witted one (_sudurmedhaḥ_), you shall never obtain the joy born of a son (_na ca putrakṛtāṃ prītiṃ prāpsyasi_), since you did not wish me to have a son (_mama putram anicchatī_)!’
 </details>
 </details>
 
@@ -1358,7 +1358,7 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding all those gods thus afflicted (tān sarvān pīḍitān dṛṣṭvā), the Lord of the gods (Śiva) set out to depart (gamanāyopacakrāma) toward the quarter guarded by Varuṇa (diśaṃ varuṇapālitām).
+“Beholding all those gods thus afflicted (_tān sarvān pīḍitān dṛṣṭvā_), the Lord of the gods (Śiva) set out to depart (_gamanāyopacakrāma_) toward the quarter guarded by Varuṇa (_diśaṃ varuṇapālitām_).
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ Here some say the mountain on which Shiva settled for ascesis as *
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Going thither to the northern flank of that mountain (pārśve tasyottare gireḥ), upon the peak sprung from Himavān (himavatprabhave śṛṅge), Maheśvara practiced austerity together with the Goddess (tapa ātiṣṭhat saha devyā).
+“Going thither to the northern flank of that mountain (_pārśve tasyottare gireḥ_), upon the peak sprung from Himavān (_himavatprabhave śṛṅge_), Maheśvara practiced austerity together with the Goddess (_tapa ātiṣṭhat saha devyā_).
 </details>
 </details>
 
@@ -1478,7 +1478,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O Rāma, the detailed account of the Mountain’s daughter has been related to you (eṣa te vistaro śailaputryā niveditaḥ); now hear from me, together with Lakṣmaṇa, the glorious origin and power of Gaṅgā (gaṅgāyāḥ prabhavaṃ caiva śṛṇu me)!”
+“Thus, O Rāma, the detailed account of the Mountain’s daughter has been related to you (_eṣa te vistaro śailaputryā niveditaḥ_); now hear from me, together with Lakṣmaṇa, the glorious origin and power of Gaṅgā (_gaṅgāyāḥ prabhavaṃ caiva śṛṇu me_)!”
 </details>
 </details>
 

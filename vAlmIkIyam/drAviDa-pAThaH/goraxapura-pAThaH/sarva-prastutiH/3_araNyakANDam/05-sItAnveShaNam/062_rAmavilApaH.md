@@ -92,7 +92,7 @@ wailing.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not beholding Sītā (sītām apaśyan), the righteous-souled (dharmātmā), mighty-armed, lotus-eyed Rāma, his mind overwhelmed by grief (śokopahata-cetanaḥ), lamented aloud (vilalāpa).
+Not beholding Sītā (_sītām apaśyan_), the righteous-souled (_dharmātmā_), mighty-armed, lotus-eyed Rāma, his mind overwhelmed by grief (_śokopahata-cetanaḥ_), lamented aloud (_vilalāpa_).
 </details>
 </details>
 
@@ -155,7 +155,7 @@ poetry.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tormented by love (manmathārditaḥ) and seeming to behold Sītā even while not seeing her (paśyann iva ca tāṃ sītām apaśyan), Rāghava uttered speech hard to articulate because of his lamentation (vilāpāśraya-durvacam):
+Tormented by love (_manmathārditaḥ_) and seeming to behold Sītā even while not seeing her (_paśyann iva ca tāṃ sītām apaśyan_), Rāghava uttered speech hard to articulate because of his lamentation (_vilāpāśraya-durvacam_):
 </details>
 </details>
 
@@ -213,7 +213,7 @@ We may recount the idea reg. Ashoka flowers expressed at 3-60-17.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O beloved (priye), who art exceedingly fond of flowers (puṣpa-priyatarā), thou concealest thy body with the boughs of the aśoka tree (aśokasya śākhābhiḥ), heightening my sorrow (mama śoka-vivardhanī).
+“O beloved (_priye_), who art exceedingly fond of flowers (_puṣpa-priyatarā_), thou concealest thy body with the boughs of the _aśoka_ tree (_aśokasya śākhābhiḥ_), heightening my sorrow (_mama śoka-vivardhanī_).
 </details>
 </details>
 
@@ -267,7 +267,7 @@ sight of them, oh, lady, you are inapt at least to cover them from me. [3-62-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I see both thy thighs (ūrū paśyāmi te), O lady (devi), which resemble plantain stems (kadalī-kāṇḍa-sadṛśau) and are screened by the plantain tree; thou art unable to conceal [thyself] (nāsi śaktā nigūhitum).
+“I see both thy thighs (_ūrū paśyāmi te_), O lady (_devi_), which resemble plantain stems (_kadalī-kāṇḍa-sadṛśau_) and are screened by the plantain tree; thou art unable to conceal [thyself] (_nāsi śaktā nigūhitum_).
 </details>
 </details>
 
@@ -315,7 +315,7 @@ lady, enough, enough is this facetiousness of yours. [3-62-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Laughing (hasantī), O auspicious lady (bhadre), O queen, thou betakest thyself to the karṇikāra grove (karṇikāra-vanam). Enough of thy jesting (alaṃ te parihāsena), which brings me distress (mama bādhāvahena)!
+“Laughing (_hasantī_), O auspicious lady (_bhadre_), O queen, thou betakest thyself to the _karṇikāra_ grove (_karṇikāra-vanam_). Enough of thy jesting (_alaṃ te parihāsena_), which brings me distress (_mama bādhāvahena_)!
 </details>
 </details>
 
@@ -382,7 +382,7 @@ is not there...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Especially in a hermitage precinct (āśrama-sthāne), such jesting is not commended (hāso 'yaṃ na praśasyate); yet I know thy nature (avagacchāmi te śīlam), O beloved, which is fond of jesting (parihāsa-priyam).
+“Especially in a hermitage precinct (_āśrama-sthāne_), such jesting is not commended (_hāso &#x27;yaṃ na praśasyate_); yet I know thy nature (_avagacchāmi te śīlam_), O beloved, which is fond of jesting (_parihāsa-priyam_).
 </details>
 </details>
 
@@ -443,7 +443,7 @@ abducted her, because she is not returning to me who am whiny indeed for her. [3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come forth, O wide-eyed one (viśālākṣi); this leaf-hut of thine is empty (śūnyo 'yam uṭajas tava)!” [Then turning to Lakṣmaṇa:] “Clearly (suvyaktam), Sītā has either been devoured or carried off by rākṣasas (bhakṣitā vā hṛtāpi vā),
+“Come forth, O wide-eyed one (_viśālākṣi_); this leaf-hut of thine is empty (_śūnyo &#x27;yam uṭajas tava_)!” [Then turning to Lakṣmaṇa:] “Clearly (_suvyaktam_), Sītā has either been devoured or carried off by _rākṣasas_ (_bhakṣitā vā hṛtāpi vā_),
 </details>
 </details>
 
@@ -495,7 +495,7 @@ gluttonised my lady. [3-62-8b, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For she does not approach (na... upasampraiti) me as I lament (vilapantam), O Lakṣmaṇa! These herds of deer (mṛga-yūthāni), with tears in their eyes (sāśru-netrāṇi), O Lakṣmaṇa,
+“For she does not approach (_na... upasampraiti_) me as I lament (_vilapantam_), O Lakṣmaṇa! These herds of deer (_mṛga-yūthāni_), with tears in their eyes (_sāśru-netrāṇi_), O Lakṣmaṇa,
 </details>
 </details>
 
@@ -552,7 +552,7 @@ last owing to your straying... [3-62-8b, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seem to declare to me (śaṃsantīva hi me) that the queen has been devoured by night-roamers (rajanī-caraiḥ). Alas, O my noble lady (hā mamārye), whither hast thou gone? Alas, O chaste lady of fairest complexion (vara-varṇini)!
+“Seem to declare to me (_śaṃsantīva hi me_) that the queen has been devoured by night-roamers (_rajanī-caraiḥ_). Alas, O my noble lady (_hā mamārye_), whither hast thou gone? Alas, O chaste lady of fairest complexion (_vara-varṇini_)!
 </details>
 </details>
 
@@ -605,7 +605,7 @@ How, in all but name, can I step into an oblivion called my palace-chambers? [3-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, O queen, today Kaikeyī will have her wish fulfilled (sakāmādya kaikeyī... bhaviṣyati) regarding me, when I, who went forth together with Sītā (sītayā saha niryātaḥ), return without Sītā (vinā sītām upāgataḥ)!
+“Alas, O queen, today Kaikeyī will have her wish fulfilled (_sakāmādya kaikeyī... bhaviṣyati_) regarding me, when I, who went forth together with Sītā (_sītayā saha niryātaḥ_), return without Sītā (_vinā sītām upāgataḥ_)!
 </details>
 </details>
 
@@ -659,7 +659,7 @@ indeed be self-evident, for Seetha is led away from me by some tactical being...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed shall I enter (kathaṃ nāma pravekṣyāmi) my empty inner apartments (śūnyam antaḥ-puram)? The world will call me (loko māṃ... vakṣyati) both valorless (nirvīrya iti) and pitiless (nirdayaś ceti)!
+“How indeed shall I enter (_kathaṃ nāma pravekṣyāmi_) my empty inner apartments (_śūnyam antaḥ-puram_)? The world will call me (_loko māṃ... vakṣyati_) both valorless (_nirvīrya iti_) and pitiless (_nirdayaś ceti_)!
 </details>
 </details>
 
@@ -719,7 +719,7 @@ after the completion of forest living, how do I have the face to stand him? [3-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For through the carrying off of Sītā (sītāpanayanena), my cowardice (kātaratvam) is made manifest (prakāśam)! And when my forest-exile is completed (nivṛtta-vanavāsaś ca), [how shall I face] Janaka, lord of Mithilā (mithilādhipam)—
+“For through the carrying off of Sītā (_sītāpanayanena_), my cowardice (_kātaratvam_) is made manifest (_prakāśam_)! And when my forest-exile is completed (_nivṛtta-vanavāsaś ca_), [how shall I face] Janaka, lord of Mithilā (_mithilādhipam_)—
 </details>
 </details>
 
@@ -771,7 +771,7 @@ of his daughter, and he defiantly goes under the preponderance of perplexity... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How shall I be able to look upon him (kathaṃ śakṣye nirīkṣitum) as he inquires after our welfare (kuśalaṃ paripṛcchantam)? Surely the king of Videha (videha-rājaḥ), beholding me bereft of her (dṛṣṭvā virahitaṃ tayā),
+“How shall I be able to look upon him (_kathaṃ śakṣye nirīkṣitum_) as he inquires after our welfare (_kuśalaṃ paripṛcchantam_)? Surely the king of Videha (_videha-rājaḥ_), beholding me bereft of her (_dṛṣṭvā virahitaṃ tayā_),
 </details>
 </details>
 
@@ -825,7 +825,7 @@ be a void to me without her... I believe so... [3-62-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Scorched with grief over his daughter's ruin (sutā-vināśa-saṃtaptaḥ), will fall under the sway of delusion (mohasya vaśam eṣyati)! Or else I shall not go (athavā na gamiṣyāmi) to the city ruled by Bharata (purīṃ bharata-pālitām);
+“Scorched with grief over his daughter&#x27;s ruin (_sutā-vināśa-saṃtaptaḥ_), will fall under the sway of delusion (_mohasya vaśam eṣyati_)! Or else I shall not go (_athavā na gamiṣyāmi_) to the city ruled by Bharata (_purīṃ bharata-pālitām_);
 </details>
 </details>
 
@@ -878,7 +878,7 @@ forests, because I have no existence without Seetha, isn't it! [3-62-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For even heaven (svargo 'pi hi), bereft of her (tayā hīnaḥ), is deemed utterly empty by me (śūnya eva mato mama). Therefore, leaving me here in the forest (mām utsṛjya hi vane), go thou to the auspicious city of Ayodhyā (ayodhyā-purīṃ śubhām)!
+“For even heaven (_svargo &#x27;pi hi_), bereft of her (_tayā hīnaḥ_), is deemed utterly empty by me (_śūnya eva mato mama_). Therefore, leaving me here in the forest (_mām utsṛjya hi vane_), go thou to the auspicious city of Ayodhyā (_ayodhyā-purīṃ śubhām_)!
 </details>
 </details>
 
@@ -930,7 +930,7 @@ authorises you to reign the earth...' [3-62-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For without that Sītā (tāṃ vinā sītām), I could by no means live (na... jīveyaṃ hi kathaṃcana). Having tightly embraced him (gāḍham āśliṣya), Bharata should be spoken to by thee in my words (vācyo mad-vacanāt tvayā):
+“For without that Sītā (_tāṃ vinā sītām_), I could by no means live (_na... jīveyaṃ hi kathaṃcana_). Having tightly embraced him (_gāḍham āśliṣya_), Bharata should be spoken to by thee in my words (_vācyo mad-vacanāt tvayā_):
 </details>
 </details>
 
@@ -998,9 +998,9 @@ you, you have to effortfully protect my mother Kausalya by doing whatever she sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “‘Thou art permitted by Rāma (anujñāto 'si rāmeṇa): rule thou the earth (pālayeti vasuṃdharām)!’ And my mother Kaikeyī, and Sumitrā, O lord (vibho),
+**17:** “‘Thou art permitted by Rāma (_anujñāto &#x27;si rāmeṇa_): rule thou the earth (_pālayeti vasuṃdharām_)!’ And my mother Kaikeyī, and Sumitrā, O lord (_vibho_),
 
-**18:** “And Kausalyā should be saluted according to propriety (yathā-nyāyam abhivādyā) at my command (mamājñayā), and she [Kausalyā] should be protected with care (rakṣaṇīyā prayatnena) by thee, who actest upon good counsel (sūkta-cāriṇā).
+**18:** “And Kausalyā should be saluted according to propriety (_yathā-nyāyam abhivādyā_) at my command (_mamājñayā_), and she [Kausalyā] should be protected with care (_rakṣaṇīyā prayatnena_) by thee, who actest upon good counsel (_sūkta-cāriṇā_).
 </details>
 </details>
 
@@ -1052,7 +1052,7 @@ about this perish of Seetha, also that of mine, to our mothers. [3-62-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this ruin of Sītā and of myself (sītāyāś ca vināśo 'yaṃ mama ca), O slayer of foes (amitra-sūdana), should be reported in detail by thee (vistareṇa... vinivedyas tvayā bhavet) to my mother (jananyā me).”
+“And this ruin of Sītā and of myself (_sītāyāś ca vināśo &#x27;yaṃ mama ca_), O slayer of foes (_amitra-sūdana_), should be reported in detail by thee (_vistareṇa... vinivedyas tvayā bhavet_) to my mother (_jananyā me_).”
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ looming large on them. [3-62-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While the wretched Rāghava lamented thus (iti vilapati rāghave tu dīne) after coming to the forest without that fair-haired lady (tayā vinā sukeśyā), Lakṣmaṇa too, his face distraught with fear (bhaya-vikala-mukhaḥ), became anguished in mind (vyathita-manāḥ) and sorely afflicted (bhṛśam āturo babhūva).
+While the wretched Rāghava lamented thus (_iti vilapati rāghave tu dīne_) after coming to the forest without that fair-haired lady (_tayā vinā sukeśyā_), Lakṣmaṇa too, his face distraught with fear (_bhaya-vikala-mukhaḥ_), became anguished in mind (_vyathita-manāḥ_) and sorely afflicted (_bhṛśam āturo babhūva_).
 </details>
 </details>
 

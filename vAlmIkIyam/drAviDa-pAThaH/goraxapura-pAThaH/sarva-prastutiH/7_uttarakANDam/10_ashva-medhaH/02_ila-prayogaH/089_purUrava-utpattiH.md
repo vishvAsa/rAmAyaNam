@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing of the origin of the Kimpuruṣas (śrutvā kimpuruṣotpattim), Lakṣmaṇa and Bharata then (lakṣmaṇo bharatas tadā) both exclaimed to Rāma, lord of men (ubhau rāmaṃ janeśvaram): “How wondrous (āścaryam iti cābrūtām)!”
+Hearing of the origin of the Kimpuruṣas (_śrutvā kimpuruṣotpattim_), Lakṣmaṇa and Bharata then (_lakṣmaṇo bharatas tadā_) both exclaimed to Rāma, lord of men (_ubhau rāmaṃ janeśvaram_): “How wondrous (_āścaryam iti cābrūtām_)!”
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Hearing of the origin of the Kimpuruṣas (śrutvā kimpuruṣotpattim), Lakṣm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the greatly renowned and righteous Rāma (mahāyaśāḥ ... dharmātmā) recounted yet further (bhūya eva ... kathayām āsa) this tale concerning the son of the Prajāpati (kathām etāṃ ... prajāpati-sutasya vai):
+Then the greatly renowned and righteous Rāma (_mahāyaśāḥ ... dharmātmā_) recounted yet further (_bhūya eva ... kathayām āsa_) this tale concerning the son of the Prajāpati (_kathām etāṃ ... prajāpati-sutasya vai_):
 </details>
 </details>
 
@@ -116,7 +116,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding all those Kinnarī women dispersed (sarvās tā vidrutā dṛṣṭvā kinnarīḥ), that foremost of sages (ṛṣi-sattamaḥ), as though smiling gently (prahasann iva), spoke to that beauty-endowed woman (rūpa-sampannāṃ tāṃ striyam):
+“Beholding all those Kinnarī women dispersed (_sarvās tā vidrutā dṛṣṭvā kinnarīḥ_), that foremost of sages (_ṛṣi-sattamaḥ_), as though smiling gently (_prahasann iva_), spoke to that beauty-endowed woman (_rūpa-sampannāṃ tāṃ striyam_):
 </details>
 </details>
 
@@ -147,7 +147,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I am the deeply beloved son of Soma (somasyāhaṃ sudayitaḥ sutaḥ), O lady of exquisitely lovely face (surucirānane); accept me, O fair-hipped one (bhajasva māṃ varārohe), with devotion and an affectionate glance (bhaktyā snigdhena cakṣuṣā)!’
+“‘I am the deeply beloved son of Soma (_somasyāhaṃ sudayitaḥ sutaḥ_), O lady of exquisitely lovely face (_surucirānane_); accept me, O fair-hipped one (_bhajasva māṃ varārohe_), with devotion and an affectionate glance (_bhaktyā snigdhena cakṣuṣā_)!’
 </details>
 </details>
 
@@ -178,7 +178,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of his in that solitary place bereft of her own folk (śūnye svajana-varjite), Ilā replied to that great planetary deity (pratyuvāca mahāgraham) of radiant appearance (surucira-prakhyam):
+“Hearing those words of his in that solitary place bereft of her own folk (_śūnye svajana-varjite_), Ilā replied to that great planetary deity (_pratyuvāca mahāgraham_) of radiant appearance (_surucira-prakhyam_):
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I wander at my own free will, O gentle one (ahaṃ kāmacarī saumya), and I am wholly subject to your command (tavāsmi vaśa-vartinī); direct me, O son of Soma (praśādhi māṃ soma-suta), and do just as you desire (yathecchasi tathā kuru)!’
+“‘I wander at my own free will, O gentle one (_ahaṃ kāmacarī saumya_), and I am wholly subject to your command (_tavāsmi vaśa-vartinī_); direct me, O son of Soma (_praśādhi māṃ soma-suta_), and do just as you desire (_yathecchasi tathā kuru_)!’
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those marvel-like words of hers (tasyās tad adbhuta-prakhyaṃ śrutvā), that passionate son of the Moon (sa vai kāmī ... candramasaḥ sutaḥ), filled with delight (harṣam upāgataḥ), sported lovingly with her (saha tayā reme).
+“Hearing those marvel-like words of hers (_tasyās tad adbhuta-prakhyaṃ śrutvā_), that passionate son of the Moon (_sa vai kāmī ... candramasaḥ sutaḥ_), filled with delight (_harṣam upāgataḥ_), sported lovingly with her (_saha tayā reme_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that enamored Budha (budhasya ... tasya kāminaḥ), delighting exceedingly in that fair-faced Ilā (tām ilāṃ rucirānanāṃ ramayato ’tyartham), the spring month of Mādhava passed away like a single instant (mādhavo māsaḥ ... gato ... kṣaṇavat).
+“For that enamored Budha (_budhasya ... tasya kāminaḥ_), delighting exceedingly in that fair-faced Ilā (_tām ilāṃ rucirānanāṃ ramayato ’tyartham_), the spring month of Mādhava passed away like a single instant (_mādhavo māsaḥ ... gato ... kṣaṇavat_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when the month was fulfilled (atha māse tu sampūrṇe), that glorious son of the Prajāpati (prajāpati-sutaḥ śrīmān), his face radiant as the full moon (pūrṇendu-sadṛśānanaḥ), awakened upon a couch (śayane pratyabudhyata).
+“Then, when the month was fulfilled (_atha māse tu sampūrṇe_), that glorious son of the Prajāpati (_prajāpati-sutaḥ śrīmān_), his face radiant as the full moon (_pūrṇendu-sadṛśānanaḥ_), awakened upon a couch (_śayane pratyabudhyata_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He beheld the son of Soma there (so ’paśyat somajaṃ tatra), performing austerity in the lake (tapantaṃ salilāśaye), with arms upraised and without support (ūrdhva-bāhuṃ nirālambam), and the king addressed him (taṃ rājā pratyabhāṣata):
+“He beheld the son of Soma there (_so ’paśyat somajaṃ tatra_), performing austerity in the lake (_tapantaṃ salilāśaye_), with arms upraised and without support (_ūrdhva-bāhuṃ nirālambam_), and the king addressed him (_taṃ rājā pratyabhāṣata_):
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O venerable lord, I entered this rugged mountain accompanied by my retinue (parvataṃ durgaṃ praviṣṭo ’smi sahānugaḥ), yet I do not see that army (na ca paśyāmi tat sainyam)—where indeed have those followers of mine gone (kva nu te māmakā gatāḥ)?’
+“‘O venerable lord, I entered this rugged mountain accompanied by my retinue (_parvataṃ durgaṃ praviṣṭo ’smi sahānugaḥ_), yet I do not see that army (_na ca paśyāmi tat sainyam_)—where indeed have those followers of mine gone (_kva nu te māmakā gatāḥ_)?’
 </details>
 </details>
 
@@ -403,7 +403,7 @@ Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of the royal sage whose memory had vanished (tasya rājarṣer naṣṭa-sañjñasya bhāṣitam), Budha spoke an auspicious reply (pratyuvāca śubhaṃ vākyam), soothing him with most gracious speech (sāntvayan parayā girā):
+“Hearing those words of the royal sage whose memory had vanished (_tasya rājarṣer naṣṭa-sañjñasya bhāṣitam_), Budha spoke an auspicious reply (_pratyuvāca śubhaṃ vākyam_), soothing him with most gracious speech (_sāntvayan parayā girā_):
 </details>
 </details>
 
@@ -442,7 +442,7 @@ To keep Śiva’s curse concealed, Budha invents a tale that a hail of stones de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘By a mighty shower of stones (aśma-varṣeṇa mahatā), your retainers were struck down (bhṛtyās te vinipātitāḥ); and you, tormented by fear of the wind and storm (vāta-varṣa-bhayārditaḥ), lay asleep within the hermitage precinct (āśrama-pade suptaḥ).
+“‘By a mighty shower of stones (_aśma-varṣeṇa mahatā_), your retainers were struck down (_bhṛtyās te vinipātitāḥ_); and you, tormented by fear of the wind and storm (_vāta-varṣa-bhayārditaḥ_), lay asleep within the hermitage precinct (_āśrama-pade suptaḥ_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Take heart—may all be well with you (samāśvasihi bhadraṃ te), free from fear and rid of feverish grief (nirbhayo vigata-jvaraḥ)! Sustaining yourself on fruits and roots, O hero (phala-mūlāśano vīra), dwell right here at your ease (nivaseha yathāsukham).’
+“‘Take heart—may all be well with you (_samāśvasihi bhadraṃ te_), free from fear and rid of feverish grief (_nirbhayo vigata-jvaraḥ_)! Sustaining yourself on fruits and roots, O hero (_phala-mūlāśano vīra_), dwell right here at your ease (_nivaseha yathāsukham_).’
 </details>
 </details>
 
@@ -507,7 +507,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Somewhat reassured by those words (sa rājā tena vākyena pratyāśvasto mahāmatiḥ), that high-minded king, deeply dejected over the loss of his retainers (dīno bhṛtya-kṣayād bhṛśam), then spoke this reply (pratyuvāca tato vākyam):
+“Somewhat reassured by those words (_sa rājā tena vākyena pratyāśvasto mahāmatiḥ_), that high-minded king, deeply dejected over the loss of his retainers (_dīno bhṛtya-kṣayād bhṛśam_), then spoke this reply (_pratyuvāca tato vākyam_):
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I shall relinquish my own kingdom (tyakṣyāmy ahaṃ svakaṃ rājyam); bereft of my retainers, I cannot endure even a moment (nāhaṃ bhṛtyair vinākṛtaḥ vartayeyaṃ kṣaṇam), O brahmin—be pleased to grant me leave to depart (brahman samanujñātum arhasi)!
+“‘I shall relinquish my own kingdom (_tyakṣyāmy ahaṃ svakaṃ rājyam_); bereft of my retainers, I cannot endure even a moment (_nāhaṃ bhṛtyair vinākṛtaḥ vartayeyaṃ kṣaṇam_), O brahmin—be pleased to grant me leave to depart (_brahman samanujñātum arhasi_)!
 </details>
 </details>
 
@@ -569,7 +569,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘My eldest son, devoted to dharma and of great renown (suto dharma-paro ... jyeṣṭho mama mahāyaśāḥ), famed by the name of Śaśabindu (śaśabindur iti khyātaḥ)—he shall take charge of my kingdom (sa me rājyaṃ prapatsyate).
+“‘My eldest son, devoted to dharma and of great renown (_suto dharma-paro ... jyeṣṭho mama mahāyaśāḥ_), famed by the name of Śaśabindu (_śaśabindur iti khyātaḥ_)—he shall take charge of my kingdom (_sa me rājyaṃ prapatsyate_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ Protesting that he cannot bear to abandon or bring grim tidings to his retainers
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For indeed I could not bear to abandon the happy wives of my retainers (na hi śakṣyāmy ahaṃ hitvā bhṛtya-dārān sukhānvitān), nor could I speak any ill tidings at all (prativaktuṃ ... kiñcid apy aśubhaṃ vacaḥ), O greatly resplendent one!’
+“‘For indeed I could not bear to abandon the happy wives of my retainers (_na hi śakṣyāmy ahaṃ hitvā bhṛtya-dārān sukhānvitān_), nor could I speak any ill tidings at all (_prativaktuṃ ... kiñcid apy aśubhaṃ vacaḥ_), O greatly resplendent one!’
 </details>
 </details>
 
@@ -643,9 +643,9 @@ Protesting that he cannot bear to abandon or bring grim tidings to his retainers
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “While the lord of kings was speaking thus (tathā bruvati rājendre), Budha uttered exceedingly wondrous words preceded by gentle consolation (paramam adbhutaṃ sāntva-pūrvam athovāca): ‘Let dwelling right here find favor with you (vāsas ta iha rocatām)!
+**19:** “While the lord of kings was speaking thus (_tathā bruvati rājendre_), Budha uttered exceedingly wondrous words preceded by gentle consolation (_paramam adbhutaṃ sāntva-pūrvam athovāca_): ‘Let dwelling right here find favor with you (_vāsas ta iha rocatām_)!
 
-**20:** “‘You must not give way to anguish (na santāpas tvayā kāryaḥ), O mighty son of Kardama (kārdameya mahābala); when you have dwelt here for one year (saṃvatsaroṣitasyeha), I shall accomplish your highest good (kārayiṣyāmi te hitam).’
+**20:** “‘You must not give way to anguish (_na santāpas tvayā kāryaḥ_), O mighty son of Kardama (_kārdameya mahābala_); when you have dwelt here for one year (_saṃvatsaroṣitasyeha_), I shall accomplish your highest good (_kārayiṣyāmi te hitam_).’
 </details>
 </details>
 
@@ -676,7 +676,7 @@ Protesting that he cannot bear to abandon or bring grim tidings to his retainers
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of Budha of untiring deeds (budhasyākliṣṭa-karmaṇaḥ), he set his mind upon dwelling there (vāsāya vidadhe buddhim), just as that expounder of the Veda had declared (yad uktaṃ brahma-vādinā).
+“Hearing those words of Budha of untiring deeds (_budhasyākliṣṭa-karmaṇaḥ_), he set his mind upon dwelling there (_vāsāya vidadhe buddhim_), just as that expounder of the Veda had declared (_yad uktaṃ brahma-vādinā_).
 </details>
 </details>
 
@@ -715,7 +715,7 @@ Alternating monthly between delighting Budha as a lovely woman and studying dhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Becoming a radiant woman for one month (māsaṃ sa strī tadā bhūtvā), she delighted him ceaselessly (ramayaty aniśaṃ śubhā); and for the next month, in masculine form (māsaṃ puruṣa-bhāvena), he devoted his mind to dharma (dharma-buddhiṃ cakāra saḥ).
+“Becoming a radiant woman for one month (_māsaṃ sa strī tadā bhūtvā_), she delighted him ceaselessly (_ramayaty aniśaṃ śubhā_); and for the next month, in masculine form (_māsaṃ puruṣa-bhāvena_), he devoted his mind to dharma (_dharma-buddhiṃ cakāra saḥ_).
 </details>
 </details>
 
@@ -746,7 +746,7 @@ Alternating monthly between delighting Budha as a lovely woman and studying dhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, in the ninth month (tataḥ sā navame māsi), that shapely Ilā bore to the son of Soma (ilā soma-sutāt ... janayām āsa suśroṇī) a mighty son named Purūravas (sutam ... purūravasam ūrjitam).
+“Then, in the ninth month (_tataḥ sā navame māsi_), that shapely Ilā bore to the son of Soma (_ilā soma-sutāt ... janayām āsa suśroṇī_) a mighty son named Purūravas (_sutam ... purūravasam ūrjitam_).
 </details>
 </details>
 
@@ -777,7 +777,7 @@ Alternating monthly between delighting Budha as a lovely woman and studying dhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The very instant he was born (jāta-mātraṃ tu), the shapely Ilā placed that mighty son (suśroṇī ... ilā putraṃ mahābalam), equal in complexion and splendor to Budha (budhasya sama-varṇābham), into his father’s hands (pitur haste nyaveśayat).
+“The very instant he was born (_jāta-mātraṃ tu_), the shapely Ilā placed that mighty son (_suśroṇī ... ilā putraṃ mahābalam_), equal in complexion and splendor to Budha (_budhasya sama-varṇābham_), into his father’s hands (_pitur haste nyaveśayat_).
 </details>
 </details>
 
@@ -819,7 +819,7 @@ Alternating monthly between delighting Budha as a lovely woman and studying dhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And during the remainder of that year (sa vai saṃvatsarāntaram), the self-possessed Budha delighted the king in his masculine state (budhas tu puruṣī-bhūtaṃ ... ramayām āsa) with discourses imbued with dharma (kathābhir dharma-yuktābhiḥ).”
+“And during the remainder of that year (_sa vai saṃvatsarāntaram_), the self-possessed Budha delighted the king in his masculine state (_budhas tu puruṣī-bhūtaṃ ... ramayām āsa_) with discourses imbued with dharma (_kathābhir dharma-yuktābhiḥ_).”
 </details>
 </details>
 

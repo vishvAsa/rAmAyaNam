@@ -85,7 +85,7 @@ addressing Maareecha. [3-36-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘O Mārīca, dear friend (tāta), listen to my words as I speak (vacanaṃ mama bhāṣataḥ); I am in distress (ārto 'smi), and for me in my distress you indeed are the supreme refuge (paramā gatiḥ).
+‘O Mārīca, dear friend (_tāta_), listen to my words as I speak (_vacanaṃ mama bhāṣataḥ_); I am in distress (_ārto &#x27;smi_), and for me in my distress you indeed are the supreme refuge (_paramā gatiḥ_).
 </details>
 </details>
 
@@ -120,9 +120,9 @@ addressing Maareecha. [3-36-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** You know Janasthāna, where my brother Khara, the mighty-armed (mahā-bāhuḥ) Dūṣaṇa, and my sister Śūrpaṇakhā (svasā śūrpaṇakhā ca me)—
+**2:** You know Janasthāna, where my brother Khara, the mighty-armed (_mahā-bāhuḥ_) Dūṣaṇa, and my sister Śūrpaṇakhā (_svasā śūrpaṇakhā ca me_)—
 
-**3:** And the mighty-armed, flesh-eating (piśitāśanaḥ) rākṣasa Triśiras, along with many other valiant night-roamers (niśācarāḥ) of unerring aim (labdha-lakṣāḥ)—
+**3:** And the mighty-armed, flesh-eating (_piśitāśanaḥ_) _rākṣasa_ Triśiras, along with many other valiant night-roamers (_niśācarāḥ_) of unerring aim (_labdha-lakṣāḥ_)—
 </details>
 </details>
 
@@ -177,7 +177,7 @@ righteous path to torture, of course, all this as assigned by me. [3-36-2, 3, 4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dwell in permanent residence (adhivāsaṃ ca) by my command (man-niyogena), those rākṣasas harassing (bādhamānāḥ) the sages who practice dharma (munīn ye dharma-cāriṇaḥ) in the great forest—
+Dwell in permanent residence (_adhivāsaṃ ca_) by my command (_man-niyogena_), those _rākṣasas_ harassing (_bādhamānāḥ_) the sages who practice _dharma_ (_munīn ye dharma-cāriṇaḥ_) in the great forest—
 </details>
 </details>
 
@@ -233,7 +233,7 @@ are the troublemakers to the sages of Dandaka forest or to the intruders therein
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fourteen thousand (caturdaśa sahasrāṇi) rākṣasas of terrible deeds (bhīma-karmaṇām), valiant, of unerring aim (labdha-lakṣāṇām), and obedient to Khara's will (khara-cittānuvartinām).
+Fourteen thousand (_caturdaśa sahasrāṇi_) _rākṣasas_ of terrible deeds (_bhīma-karmaṇām_), valiant, of unerring aim (_labdha-lakṣāṇām_), and obedient to Khara&#x27;s will (_khara-cittānuvartinām_).
 </details>
 </details>
 
@@ -295,7 +295,7 @@ another point to discuss whether Akampana's episode is an original work or an in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now those mighty ones (mahā-balāḥ) dwelling (vasamānāḥ) in Janasthāna met in battle (saṅgatāḥ... saṃyuge) with Rāma, fully prepared (paramāyattāḥ).
+Now those mighty ones (_mahā-balāḥ_) dwelling (_vasamānāḥ_) in Janasthāna met in battle (_saṅgatāḥ... saṃyuge_) with Rāma, fully prepared (_paramāyattāḥ_).
 </details>
 </details>
 
@@ -361,7 +361,7 @@ that Rama brought his bow into play with arrows in the van of the combat. [3-36-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those rākṣasas headed by Khara (khara-pramukha-rākṣasāḥ), wielding manifold weapons and missiles (nānā-śastra-praharaṇāḥ)—by that Rāma, whose wrath was aroused (saṃjāta-roṣeṇa) at the forefront of battle (raṇa-mūrdhani)—
+Those _rākṣasas_ headed by Khara (_khara-pramukha-rākṣasāḥ_), wielding manifold weapons and missiles (_nānā-śastra-praharaṇāḥ_)—by that Rāma, whose wrath was aroused (_saṃjāta-roṣeṇa_) at the forefront of battle (_raṇa-mūrdhani_)—
 </details>
 </details>
 
@@ -439,9 +439,9 @@ thereof that Dandaka forest is rendered free from the fear of demons. [3-36-9b, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Without uttering a single harsh word (anuktvā paruṣaṃ kiñcit), his bow was plied with arrows (śarair vyāpāritaṃ dhanuḥ), [and] fourteen thousand rākṣasas of fierce energy (rakṣasām ugra-tejasām)—
+**8:** Without uttering a single harsh word (_anuktvā paruṣaṃ kiñcit_), his bow was plied with arrows (_śarair vyāpāritaṃ dhanuḥ_), [and] fourteen thousand _rākṣasas_ of fierce energy (_rakṣasām ugra-tejasām_)—
 
-**9:** Were slain with blazing arrows (nihatāni śarair dīptaiḥ) by a mortal fighting on foot (mānuṣeṇa padātinā); Khara was slain in battle (saṃkhye), and Dūṣaṇa was struck down (nipātitaḥ).
+**9:** Were slain with blazing arrows (_nihatāni śarair dīptaiḥ_) by a mortal fighting on foot (_mānuṣeṇa padātinā_); Khara was slain in battle (_saṃkhye_), and Dūṣaṇa was struck down (_nipātitaḥ_).
 </details>
 </details>
 
@@ -489,7 +489,7 @@ lifespan is diminished. [3-36-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having slain Triśiras as well, the Daṇḍaka forests were rendered free of fear (nirbhayā daṇḍakāḥ kṛtāḥ). Banished with his wife (sabhāryaḥ) by his wrathful father (pitrā nirastaḥ kruddhena), his livelihood ruined (kṣīṇa-jīvitaḥ)—
+And having slain Triśiras as well, the Daṇḍaka forests were rendered free of fear (_nirbhayā daṇḍakāḥ kṛtāḥ_). Banished with his wife (_sabhāryaḥ_) by his wrathful father (_pitrā nirastaḥ kruddhena_), his livelihood ruined (_kṣīṇa-jīvitaḥ_)—
 </details>
 </details>
 
@@ -624,11 +624,11 @@ Dandaka forest. [3-36-12b, 13, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** That Rāma, the slayer of that army (sa hantā tasya sainyasya), is a disgrace to Kṣatriyas (kṣatriya-pāṃsanaḥ)—ill-behaved (aśīlaḥ), ruthless (karkaśaḥ), fierce (tīkṣṇaḥ), foolish, greedy, and of unsubdued senses (ajitendriyaḥ)—
+**11:** That Rāma, the slayer of that army (_sa hantā tasya sainyasya_), is a disgrace to Kṣatriyas (_kṣatriya-pāṃsanaḥ_)—ill-behaved (_aśīlaḥ_), ruthless (_karkaśaḥ_), fierce (_tīkṣṇaḥ_), foolish, greedy, and of unsubdued senses (_ajitendriyaḥ_)—
 
-**12:** One who has forsaken dharma (tyakta-dharmā), of unrighteous soul (adharmātmā), delighting in the injury of living beings (bhūtānām ahite rataḥ)—by whom, without prior enmity (vairaṃ vinā) in the forest, relying solely upon brute strength (sattvam āsthāya kevalam)—
+**12:** One who has forsaken _dharma_ (_tyakta-dharmā_), of unrighteous soul (_adharmātmā_), delighting in the injury of living beings (_bhūtānām ahite rataḥ_)—by whom, without prior enmity (_vairaṃ vinā_) in the forest, relying solely upon brute strength (_sattvam āsthāya kevalam_)—
 
-**13:** My sister was disfigured (bhaginī me virūpitā) through the lopping off of her ears and nose (karṇa-nāsāpahāreṇa). His wife Sītā, who resembles a daughter of the gods (sura-sutopamām), from Janasthāna—
+**13:** My sister was disfigured (_bhaginī me virūpitā_) through the lopping off of her ears and nose (_karṇa-nāsāpahāreṇa_). His wife Sītā, who resembles a daughter of the gods (_sura-sutopamām_), from Janasthāna—
 </details>
 </details>
 
@@ -689,9 +689,9 @@ aide in this venture. [3-36-14b, 15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** I shall forcibly carry off (ānayiṣyāmi vikramya); be my helper in that enterprise (sahāyas tatra me bhava)! For with you, O mighty one (mahā-bala), standing at my side as an ally (sahāyena pārśva-sthena)—
+**14:** I shall forcibly carry off (_ānayiṣyāmi vikramya_); be my helper in that enterprise (_sahāyas tatra me bhava_)! For with you, O mighty one (_mahā-bala_), standing at my side as an ally (_sahāyena pārśva-sthena_)—
 
-**15:** And with my brothers (bhrātṛbhiś ca), I do not reckon even all the gods (surān sarvān nāham atrābhicintaye) in this matter; therefore, be my ally, O rākṣasa, for you are truly capable (samartho hy asi).
+**15:** And with my brothers (_bhrātṛbhiś ca_), I do not reckon even all the gods (_surān sarvān nāham atrābhicintaye_) in this matter; therefore, be my ally, O _rākṣasa_, for you are truly capable (_samartho hy asi_).
 </details>
 </details>
 
@@ -744,7 +744,7 @@ in trickery, and a matchless expert in illusive-tricks. [3-36-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In valor, in battle, and in martial pride (vīrye yuddhe ca darpe ca), there is none equal to you (na hy asti sadṛśas tava); in stratagems (upāyataḥ) you are a great hero, an expert in great illusions (mahā-māyā-viśāradaḥ).
+In valor, in battle, and in martial pride (_vīrye yuddhe ca darpe ca_), there is none equal to you (_na hy asti sadṛśas tava_); in stratagems (_upāyataḥ_) you are a great hero, an expert in great illusions (_mahā-māyā-viśāradaḥ_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ deed which you have to do in the course of helping me as I detail you. [3-36-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this purpose I have come to your presence (tvat-samīpam), O night-roamer; hear that deed which is to be performed at my word (yat kāryaṃ vacanān mama) by way of assistance (sāhāyye).
+For this purpose I have come to your presence (_tvat-samīpam_), O night-roamer; hear that deed which is to be performed at my word (_yat kāryaṃ vacanān mama_) by way of assistance (_sāhāyye_).
 </details>
 </details>
 
@@ -849,7 +849,7 @@ in the hermitage of that Rama. [3-36-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Becoming a golden deer (sauvarṇas tvaṃ mṛgo bhūtvā) dappled with silver spots (citro rajata-bindubhiḥ), roam before Sītā's eyes (sītāyāḥ pramukhe cara) at the hermitage of that Rāma!
+Becoming a golden deer (_sauvarṇas tvaṃ mṛgo bhūtvā_) dappled with silver spots (_citro rajata-bindubhiḥ_), roam before Sītā&#x27;s eyes (_sītāyāḥ pramukhe cara_) at the hermitage of that Rāma!
 </details>
 </details>
 
@@ -912,7 +912,7 @@ forthwith, and even Lakshmana, saying, 'lay hold of it.' [3-36-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding you in the form of a deer (mṛga-rūpiṇam), Sītā will without doubt (niḥsaṃśayam) say to her husband and to Lakṣmaṇa (bhartāraṃ lakṣmaṇaṃ cābhidhāsyati): ‘Let him be caught (gṛhyatām iti)!’
+Beholding you in the form of a deer (_mṛga-rūpiṇam_), Sītā will without doubt (_niḥsaṃśayam_) say to her husband and to Lakṣmaṇa (_bhartāraṃ lakṣmaṇaṃ cābhidhāsyati_): ‘Let him be caught (_gṛhyatām iti_)!’
 </details>
 </details>
 
@@ -967,7 +967,7 @@ unimpededly abduct Seetha in that lonely place, as planet Rahu abducts the shine
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, upon the departure of those two (tayor apāye tu), in the deserted [hermitage] (śūnye), I shall abduct Sītā at ease (yathā-sukham) and without hindrance (nirābādhaḥ), as Rāhu [seizes] the moonlight (rāhuś candra-prabhām iva).
+Then, upon the departure of those two (_tayor apāye tu_), in the deserted [hermitage] (_śūnye_), I shall abduct Sītā at ease (_yathā-sukham_) and without hindrance (_nirābādhaḥ_), as Rāhu [seizes] the moonlight (_rāhuś candra-prabhām iva_).
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ all-illuminating Moon/Seetha by force.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter, when Rāma is wasted with grief over the abduction of his wife (bhāryā-haraṇa-karśite), I shall strike him down at ease (sukham) and with full confidence (viśrabdhaṃ prahariṣyāmi), my inner soul having achieved its purpose (kṛtārthenāntarātmanā).’
+Thereafter, when Rāma is wasted with grief over the abduction of his wife (_bhāryā-haraṇa-karśite_), I shall strike him down at ease (_sukham_) and with full confidence (_viśrabdhaṃ prahariṣyāmi_), my inner soul having achieved its purpose (_kṛtārthenāntarātmanā_).’
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ completely dried up, and he is fully frightened. [3-36-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that account of Rāma (tasya rāma-kathāṃ śrutvā), the mouth of the high-souled Mārīca went dry (śuṣkaṃ samabhavad vaktram), and he became utterly terrified (paritrasto babhūva ca).
+Hearing that account of Rāma (_tasya rāma-kathāṃ śrutvā_), the mouth of the high-souled Mārīca went dry (_śuṣkaṃ samabhavad vaktram_), and he became utterly terrified (_paritrasto babhūva ca_).
 </details>
 </details>
 
@@ -1160,7 +1160,7 @@ Maareecha to his own end, of which he is perfectly aware.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Licking his parched lips (oṣṭhau parilihan śuṣkau), with eyes that seemed unblinking (netrair animiṣair iva), he—stricken and like one dead (mṛta-bhūta ivārtas tu)—stared up at Rāvaṇa (rāvaṇaṃ samudaikṣata).
+Licking his parched lips (_oṣṭhau parilihan śuṣkau_), with eyes that seemed unblinking (_netrair animiṣair iva_), he—stricken and like one dead (_mṛta-bhūta ivārtas tu_)—stared up at Rāvaṇa (_rāvaṇaṃ samudaikṣata_).
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ heedful of it. [3-36-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a terrified and dejected heart (trasta-viṣaṇṇa-cetāḥ), knowing Rāma's valor in the great forest (mahā-vane rāma-parākrama-jñaḥ), he joined his palms in reverence (kṛtāñjaliḥ) and spoke to Rāvaṇa a true word (tattvam uvāca vākyam)—beneficial both to him and to himself (hitaṃ ca tasmai hitam ātmanaś ca).
+With a terrified and dejected heart (_trasta-viṣaṇṇa-cetāḥ_), knowing Rāma&#x27;s valor in the great forest (_mahā-vane rāma-parākrama-jñaḥ_), he joined his palms in reverence (_kṛtāñjaliḥ_) and spoke to Rāvaṇa a true word (_tattvam uvāca vākyam_)—beneficial both to him and to himself (_hitaṃ ca tasmai hitam ātmanaś ca_).
 </details>
 </details>
 

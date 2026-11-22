@@ -75,7 +75,7 @@ frightful to all the worlds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Rāma exhausted from the battle (yuddha-pariśrāntam) and standing absorbed in thought (cintayā sthitam) on the field, and beholding Rāvaṇa standing before him ready for combat,
+Seeing Rāma exhausted from the battle (_yuddha-pariśrāntam_) and standing absorbed in thought (_cintayā sthitam_) on the field, and beholding Rāvaṇa standing before him ready for combat,
 </details>
 </details>
 
@@ -130,7 +130,7 @@ weapons held fast in their hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the revered sage Agastya (agastyo bhagavān), who had come together with the gods (daivataiś ca samāgamya) to witness the battle, approached Rāma and spoke to him then:
+the revered sage Agastya (_agastyo bhagavān_), who had come together with the gods (_daivataiś ca samāgamya_) to witness the battle, approached Rāma and spoke to him then:
 </details>
 </details>
 
@@ -183,7 +183,7 @@ demon, both in full strength engaged in a fight, all for their part experienced 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāma, O mighty-armed Rāma, hearken to this eternal mystery (guhyaṃ sanātanam), whereby, my child, you shall conquer (vijayiṣyase) all foes in battle:
+“O Rāma, O mighty-armed Rāma, hearken to this eternal mystery (_guhyaṃ sanātanam_), whereby, my child, you shall conquer (_vijayiṣyase_) all foes in battle:
 </details>
 </details>
 
@@ -235,7 +235,7 @@ amazed in mind in beholding that duel. They did not go for war on each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the holy Ādityahṛdaya (āditya-hṛdayam), destroyer of all enemies, bringer of victory, an imperishable and supremely auspicious (paramaṃ śivam) prayer to be recited perpetually (japaṃ nityam),
+the holy _Ādityahṛdaya_ (_āditya-hṛdayam_), destroyer of all enemies, bringer of victory, an imperishable and supremely auspicious (_paramaṃ śivam_) prayer to be recited perpetually (_japaṃ nityam_),
 </details>
 </details>
 
@@ -281,7 +281,7 @@ amazement appeared as though they were paintings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the auspiciousness of all auspicious things (sarva-maṅgala-māṅgalyam), the destroyer of all sins, the allayer of anxiety and grief (cintā-śoka-praśamanam), and the supreme enhancer of longevity (āyur-vardhanam uttamam).
+the auspiciousness of all auspicious things (_sarva-maṅgala-māṅgalyam_), the destroyer of all sins, the allayer of anxiety and grief (_cintā-śoka-praśamanam_), and the supreme enhancer of longevity (_āyur-vardhanam uttamam_).
 </details>
 </details>
 
@@ -321,7 +321,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Worship the ray-crowned (raśmimantam) rising Sun (samudyantam), revered by gods and asuras alike (devāsura-namaskṛtam)—Vivasvat, the maker of light (bhāskaram), the lord of the worlds (bhuvaneśvaram)!
+Worship the ray-crowned (_raśmimantam_) rising Sun (_samudyantam_), revered by gods and _asuras_ alike (_devāsura-namaskṛtam_)—Vivasvat, the maker of light (_bhāskaram_), the lord of the worlds (_bhuvaneśvaram_)!
 </details>
 </details>
 
@@ -376,7 +376,7 @@ occasion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For he is the embodiment of all the gods (sarva-devātmakaḥ), resplendent, the sustainer through his rays (raśmi-bhāvanaḥ); by his beams (gabhastibhiḥ) he protects the worlds together with the hosts of gods and asuras.
+“For he is the embodiment of all the gods (_sarva-devātmakaḥ_), resplendent, the sustainer through his rays (_raśmi-bhāvanaḥ_); by his beams (_gabhastibhiḥ_) he protects the worlds together with the hosts of gods and _asuras_.
 </details>
 </details>
 
@@ -423,7 +423,7 @@ directing them towards the flag-staff fixed on Rama's chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He indeed is Brahmā, Viṣṇu, Śiva, Skanda, and Prajāpati; he is Mahendra, Kubera (dhanadaḥ), Time (kālaḥ), Yama, Soma, and Varuṇa, lord of waters (apāṃ patiḥ);
+He indeed is Brahmā, Viṣṇu, Śiva, Skanda, and Prajāpati; he is Mahendra, Kubera (_dhanadaḥ_), Time (_kālaḥ_), Yama, Soma, and Varuṇa, lord of waters (_apāṃ patiḥ_);
 </details>
 </details>
 
@@ -479,7 +479,7 @@ supported the banner of the chariot, the arrows fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the Ancestors (pitaraḥ), the Vasus, the Sādhyas, the twin Aśvins, the Maruts, and Manu; Vāyu, Agni (vahniḥ), created beings (prajāḥ), the Vital Breath (prāṇaḥ), the maker of the seasons (ṛtu-kartā), and the shedder of light (prabhākaraḥ).
+the Ancestors (_pitaraḥ_), the Vasus, the Sādhyas, the twin Aśvins, the Maruts, and Manu; Vāyu, Agni (_vahniḥ_), created beings (_prajāḥ_), the Vital Breath (_prāṇaḥ_), the maker of the seasons (_ṛtu-kartā_), and the shedder of light (_prabhākaraḥ_).
 </details>
 </details>
 
@@ -531,7 +531,7 @@ his mind, to return blow for blow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is the son of Aditi (ādityaḥ), the Vivifier (savitā), the Impeller (sūryaḥ), the courser of the sky (khagaḥ), the Nourisher (pūṣā), the ray-endowed one (gabhastimān), golden-hued (suvarṇa-sadṛśaḥ), the Shining One (bhānuḥ), the golden-seeded (hiraṇya-retāḥ), and the maker of day (divākaraḥ);
+He is the son of Aditi (_ādityaḥ_), the Vivifier (_savitā_), the Impeller (_sūryaḥ_), the courser of the sky (_khagaḥ_), the Nourisher (_pūṣā_), the ray-endowed one (_gabhastimān_), golden-hued (_suvarṇa-sadṛśaḥ_), the Shining One (_bhānuḥ_), the golden-seeded (_hiraṇya-retāḥ_), and the maker of day (_divākaraḥ_);
 </details>
 </details>
 
@@ -578,7 +578,7 @@ as though blazing with its own splendour, directing towards Ravana's flag-staff.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he of bay-colored steeds (harid-aśvaḥ), thousand-rayed (sahasrārciḥ), yoked to seven horses (sapta-saptiḥ), radiant with beams (marīcimān), churner of darkness (timironmathanaḥ), source of bliss (śambhuḥ), the pare-down artificer (tvaṣṭā), sprung from the lifeless egg (mārtaṇḍakaḥ), and rich in rays (aṃśumān);
+he of bay-colored steeds (_harid-aśvaḥ_), thousand-rayed (_sahasrārciḥ_), yoked to seven horses (_sapta-saptiḥ_), radiant with beams (_marīcimān_), churner of darkness (_timironmathanaḥ_), source of bliss (_śambhuḥ_), the pare-down artificer (_tvaṣṭā_), sprung from the lifeless egg (_mārtaṇḍakaḥ_), and rich in rays (_aṃśumān_);
 </details>
 </details>
 
@@ -634,7 +634,7 @@ asunder Ravana's flag-staf, entered the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hiraṇyagarbha, the cooling one (śiśiraḥ), the scorcher (tapanaḥ), the day-maker (ahas-karaḥ), the praised Ravi, womb of fire (agni-garbhaḥ), son of Aditi, the auspicious peaceful one (śaṅkhaḥ), and the destroyer of frost (śiśira-nāśanaḥ);
+Hiraṇyagarbha, the cooling one (_śiśiraḥ_), the scorcher (_tapanaḥ_), the day-maker (_ahas-karaḥ_), the praised Ravi, womb of fire (_agni-garbhaḥ_), son of Aditi, the auspicious peaceful one (_śaṅkhaḥ_), and the destroyer of frost (_śiśira-nāśanaḥ_);
 </details>
 </details>
 
@@ -707,9 +707,9 @@ as he was, with the power of wrath.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “The lord of the firmament (vyoma-nāthaḥ), cleaver of darkness (tamo-bhedī), master of the Ṛg, Yajus, and Sāma Vedas (ṛg-yajuḥ-sāma-pāragaḥ), sender of thick rain (ghana-vṛṣṭiḥ), friend of the waters (apāṃ mitraḥ), and swift courser along the pathway of the Vindhya (vindhya-vīthī-plavaṃgamaḥ);
+**13:** “The lord of the firmament (_vyoma-nāthaḥ_), cleaver of darkness (_tamo-bhedī_), master of the _Ṛg_, _Yajus_, and _Sāma_ Vedas (_ṛg-yajuḥ-sāma-pāragaḥ_), sender of thick rain (_ghana-vṛṣṭiḥ_), friend of the waters (_apāṃ mitraḥ_), and swift courser along the pathway of the Vindhya (_vindhya-vīthī-plavaṃgamaḥ_);
 
-**14:** radiating heat (ātapī), orb-crowned (maṇḍalī), Death himself (mṛtyuḥ), tawny-hued (piṅgalaḥ), warmer of all (sarva-tāpanaḥ), the omniscient Poet (kaviḥ), the All-form (viśvaḥ), of mighty splendor, crimson-rayed (raktaḥ), and source of all existence (sarva-bhavodbhavaḥ)!
+**14:** radiating heat (_ātapī_), orb-crowned (_maṇḍalī_), Death himself (_mṛtyuḥ_), tawny-hued (_piṅgalaḥ_), warmer of all (_sarva-tāpanaḥ_), the omniscient Poet (_kaviḥ_), the All-form (_viśvaḥ_), of mighty splendor, crimson-rayed (_raktaḥ_), and source of all existence (_sarva-bhavodbhavaḥ_)!
 </details>
 </details>
 
@@ -767,7 +767,7 @@ were just struck with lotus-stalks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sovereign lord of lunar mansions, planets, and stars (nakṣatra-graha-tārāṇām adhipaḥ), creator of the universe (viśva-bhāvanaḥ), resplendent even among splendors (tejasām api tejasvī)—O twelve-souled one (dvādaśātman), obeisance be to you!
+Sovereign lord of lunar mansions, planets, and stars (_nakṣatra-graha-tārāṇām adhipaḥ_), creator of the universe (_viśva-bhāvanaḥ_), resplendent even among splendors (_tejasām api tejasvī_)—O twelve-souled one (_dvādaśātman_), obeisance be to you!
 </details>
 </details>
 
@@ -851,11 +851,11 @@ missiles as a creation of magic and also thousands of arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Obeisance to the Eastern Mountain [of sunrise] (pūrvāya giraye), obeisance to the Western Mountain [of sunset] (paścimāyādraye)! Obeisance to the lord of the hosts of luminaries (jyotir-gaṇānāṃ pataye), obeisance to the sovereign of the day (dinādhipataye)!
+**16:** Obeisance to the Eastern Mountain [of sunrise] (_pūrvāya giraye_), obeisance to the Western Mountain [of sunset] (_paścimāyādraye_)! Obeisance to the lord of the hosts of luminaries (_jyotir-gaṇānāṃ pataye_), obeisance to the sovereign of the day (_dinādhipataye_)!
 
-**17:** Obeisance, obeisance to Jaya (Victory), to Jayabhadra (Auspicious Victory), to him of green-bay steeds (hary-aśvāya)! Obeisance, obeisance, O thousand-rayed one (sahasrāṃśo); to Āditya, obeisance, obeisance!
+**17:** Obeisance, obeisance to Jaya (Victory), to Jayabhadra (Auspicious Victory), to him of green-bay steeds (_hary-aśvāya_)! Obeisance, obeisance, O thousand-rayed one (_sahasrāṃśo_); to Āditya, obeisance, obeisance!
 
-**18:** Obeisance to the fierce one (ugrāya), the heroic one (vīrāya), the swift-moving one (sāraṅgāya), obeisance, obeisance! Obeisance to the awakener of lotuses (padma-prabodhāya); to the fiercely blazing one (pracaṇḍāya), obeisance be to you!
+**18:** Obeisance to the fierce one (_ugrāya_), the heroic one (_vīrāya_), the swift-moving one (_sāraṅgāya_), obeisance, obeisance! Obeisance to the awakener of lotuses (_padma-prabodhāya_); to the fiercely blazing one (_pracaṇḍāya_), obeisance be to you!
 </details>
 </details>
 
@@ -915,7 +915,7 @@ fear, terrific and attended with a terrible echo, descended.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Obeisance to the lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu) (brahmeśānācyuteśāya), to the Sun (sūrāya) of Āditya-splendor (āditya-varcase), to the radiant one (bhāsvate), the all-consuming (sarva-bhakṣāya), the fierce-bodied form (raudrāya vapuṣe)!
+“Obeisance to the lord of Brahmā, Īśāna (Śiva), and Acyuta (Viṣṇu) (_brahmeśānācyuteśāya_), to the Sun (_sūrāya_) of Āditya-splendor (_āditya-varcase_), to the radiant one (_bhāsvate_), the all-consuming (_sarva-bhakṣāya_), the fierce-bodied form (_raudrāya vapuṣe_)!
 </details>
 </details>
 
@@ -969,7 +969,7 @@ sides, thus wholly covering the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Obeisance to the destroyer of darkness (tamoghnāya), the melter of snow (himaghnāya), the slayer of foes (śatrughnāya), the immeasurable Soul (amitātmane), the slayer of the ungrateful (kṛtaghnaghnāya), the effulgent god, the lord of lights (jyotiṣāṃ pataye)!
+Obeisance to the destroyer of darkness (_tamoghnāya_), the melter of snow (_himaghnāya_), the slayer of foes (_śatrughnāya_), the immeasurable Soul (_amitātmane_), the slayer of the ungrateful (_kṛtaghnaghnāya_), the effulgent god, the lord of lights (_jyotiṣāṃ pataye_)!
 </details>
 </details>
 
@@ -1035,9 +1035,9 @@ thousands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Obeisance to him who shines like molten gold (tapta-cāmīkarābhāya), to Hari, the architect of the universe (viśva-karmaṇe); obeisance to the utter crusher of darkness (tamo-'bhinighnāya), to Splendor itself (rucaye), the witness of the worlds (loka-sākṣiṇe)!
+**21:** Obeisance to him who shines like molten gold (_tapta-cāmīkarābhāya_), to Hari, the architect of the universe (_viśva-karmaṇe_); obeisance to the utter crusher of darkness (_tamo-&#x27;bhinighnāya_), to Splendor itself (_rucaye_), the witness of the worlds (_loka-sākṣiṇe_)!
 
-**22:** He indeed, the Sovereign Lord (prabhuḥ), destroys created existence (bhūtam) and creates that very world anew; with his rays he drinks up the waters (pāyaty eṣa), he scorches (tapaty eṣa), and he pours down rain (varṣaty eṣa)!
+**22:** He indeed, the Sovereign Lord (_prabhuḥ_), destroys created existence (_bhūtam_) and creates that very world anew; with his rays he drinks up the waters (_pāyaty eṣa_), he scorches (_tapaty eṣa_), and he pours down rain (_varṣaty eṣa_)!
 </details>
 </details>
 
@@ -1070,7 +1070,7 @@ thousands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abiding within all beings (bhūteṣu pariniṣṭhitaḥ), he remains awake when they are asleep (supteṣu jāgarti); he alone is both the agnihotra sacrifice (agnihotram) and the fruit enjoyed by the agnihotra sacrificers (agnihotriṇām)!
+Abiding within all beings (_bhūteṣu pariniṣṭhitaḥ_), he remains awake when they are asleep (_supteṣu jāgarti_); he alone is both the _agnihotra_ sacrifice (_agnihotram_) and the fruit enjoyed by the _agnihotra_ sacrificers (_agnihotriṇām_)!
 </details>
 </details>
 
@@ -1152,9 +1152,9 @@ each other, they fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “He is the gods, the Vedic sacrifices (kratavaḥ), and the very fruit of those sacrifices; over all actions that are to be performed (yāni kṛtyāni) in all the worlds, he is the Supreme Lord (parama-prabhuḥ)!
+**24:** “He is the gods, the Vedic sacrifices (_kratavaḥ_), and the very fruit of those sacrifices; over all actions that are to be performed (_yāni kṛtyāni_) in all the worlds, he is the Supreme Lord (_parama-prabhuḥ_)!
 
-**25:** Glorifying him (kīrtayan) in calamities (āpatsu), in sore straits (kṛcchreṣu), in trackless wildernesses (kāntāreṣu), and in terrors, no man whosoever sinks into despair (nāvasīdati), O Rāghava!
+**25:** Glorifying him (_kīrtayan_) in calamities (_āpatsu_), in sore straits (_kṛcchreṣu_), in trackless wildernesses (_kāntāreṣu_), and in terrors, no man whosoever sinks into despair (_nāvasīdati_), O Rāghava!
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ their terrific arrows, they made the sky, bereft of even a breathing space.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Worship him with one-pointed mind (ekāgraḥ)—the God of gods (deva-devam), the Lord of the universe (jagat-patim)! Having recited this hymn thrice (etat triguṇitaṃ japtvā), one shall triumph (vijayiṣyati) in battles.
+Worship him with one-pointed mind (_ekāgraḥ_)—the God of gods (_deva-devam_), the Lord of the universe (_jagat-patim_)! Having recited this hymn thrice (_etat triguṇitaṃ japtvā_), one shall triumph (_vijayiṣyati_) in battles.
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ struck at each other, doing anything before and after.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In this very moment (asmin kṣaṇe), O mighty-armed hero, you shall slay (jahiṣyasi) Rāvaṇa!” Having spoken thus, the sage Agastya departed just as he had come (yathā-gatam).
+In this very moment (_asmin kṣaṇe_), O mighty-armed hero, you shall slay (_jahiṣyasi_) Rāvaṇa!” Having spoken thus, the sage Agastya departed just as he had come (_yathā-gatam_).
 </details>
 </details>
 
@@ -1313,7 +1313,7 @@ A tumultuous battle ensued for an hour or so, causing the hair to stand erect.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this, the supremely radiant Rāghava became free from grief (naṣṭa-śokaḥ) at that moment; well pleased and self-collected (prayatātmavān), he held the hymn within his heart (dhārayām āsa).
+Hearing this, the supremely radiant Rāghava became free from grief (_naṣṭa-śokaḥ_) at that moment; well pleased and self-collected (_prayatātmavān_), he held the hymn within his heart (_dhārayām āsa_).
 </details>
 </details>
 
@@ -1370,7 +1370,7 @@ thrown down.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing toward the Sun (ādityaṃ prekṣya) and reciting this hymn (japtvedam), the valorous hero attained supreme joy; sipping water thrice (trir ācamya) and becoming ritually pure (śucir bhūtvā), he took up his bow.
+Gazing toward the Sun (_ādityaṃ prekṣya_) and reciting this hymn (_japtvedam_), the valorous hero attained supreme joy; sipping water thrice (_trir ācamya_) and becoming ritually pure (_śucir bhūtvā_), he took up his bow.
 </details>
 </details>
 
@@ -1422,7 +1422,7 @@ Ravana, who thus were fighting at each other in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāvaṇa, he advanced with a joyful spirit (hṛṣṭātmā) for victory (jayārtham), and with all his mighty effort stood resolved upon his destruction (vṛtas tasya vadhe 'bhavat).
+Beholding Rāvaṇa, he advanced with a joyful spirit (_hṛṣṭātmā_) for victory (_jayārtham_), and with all his mighty effort stood resolved upon his destruction (_vṛtas tasya vadhe &#x27;bhavat_).
 </details>
 </details>
 
@@ -1470,7 +1470,7 @@ two warriors ran towards each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the Sun-god Ravi (raviḥ), standing amidst the host of gods (sura-gaṇa-madhya-gataḥ) and knowing that the destruction of the lord of night-stalkers was at hand (niśicara-pati-saṃkṣayaṃ viditvā), looked upon Rāma with a delighted mind and, rejoicing supremely, spoke the word: “Hasten (tvareti)!”
+Then the Sun-god Ravi (_raviḥ_), standing amidst the host of gods (_sura-gaṇa-madhya-gataḥ_) and knowing that the destruction of the lord of night-stalkers was at hand (_niśicara-pati-saṃkṣayaṃ viditvā_), looked upon Rāma with a delighted mind and, rejoicing supremely, spoke the word: “Hasten (_tvareti_)!”
 </details>
 </details>
 

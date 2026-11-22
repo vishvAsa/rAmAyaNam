@@ -84,7 +84,7 @@ prominent vanara-s staying on a mountaintop. [3-54-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While being carried away (hriyamāṇā tu), Vaidehī, beholding no protector (kaṃcin nātham apaśyatī), saw five foremost monkeys (pañca vānara-puṅgavān) standing upon a mountain peak (giri-śṛṅga-sthān).
+While being carried away (_hriyamāṇā tu_), Vaidehī, beholding no protector (_kaṃcin nātham apaśyatī_), saw five foremost monkeys (_pañca vānara-puṅgavān_) standing upon a mountain peak (_giri-śṛṅga-sthān_).
 </details>
 </details>
 
@@ -192,9 +192,9 @@ leg on earth, in earlier chapters, is from her left leg.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** In their midst (teṣāṃ madhye), the wide-eyed lady (viśālākṣī) of fair hips (varārohā) [bundled] her golden-hued (kanaka-prabham) silken upper garment (kauśeyam uttarīyam) and her auspicious ornaments (śubhāny ābharaṇāni ca)—
+**2:** In their midst (_teṣāṃ madhye_), the wide-eyed lady (_viśālākṣī_) of fair hips (_varārohā_) [bundled] her golden-hued (_kanaka-prabham_) silken upper garment (_kauśeyam uttarīyam_) and her auspicious ornaments (_śubhāny ābharaṇāni ca_)—
 
-**3:** —and cast [them] down (mumoca), thinking, “Should they report [this] to Rāma (yadi rāmāya śaṃseyur iti)!” Having slipped off that garment (vastram utsṛjya), that noble lady (bhāminī) [dropped it], flung down (nikṣiptam) together with her jewels (saha-bhūṣaṇam) in their midst (tan-madhye).
+**3:** —and cast [them] down (_mumoca_), thinking, “Should they report [this] to Rāma (_yadi rāmāya śaṃseyur iti_)!” Having slipped off that garment (_vastram utsṛjya_), that noble lady (_bhāminī_) [dropped it], flung down (_nikṣiptam_) together with her jewels (_saha-bhūṣaṇam_) in their midst (_tan-madhye_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ they firstly met.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of flurry (sambhramāt tu), Daśagrīva did not notice that act (tat karma ca na buddhavān). With seemingly unblinking eyes (netrair animiṣair iva), the tawny-eyed [monkeys] (piṅgākṣāḥ) [gazed upon] that wide-eyed lady (tāṃ viśālākṣīm)—
+Out of flurry (_sambhramāt tu_), Daśagrīva did not notice that act (_tat karma ca na buddhavān_). With seemingly unblinking eyes (_netrair animiṣair iva_), the tawny-eyed [monkeys] (_piṅgākṣāḥ_) [gazed upon] that wide-eyed lady (_tāṃ viśālākṣīm_)—
 </details>
 </details>
 
@@ -322,7 +322,7 @@ Pampa, there is no more self-confessed fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—those foremost of monkeys (vānarottamāḥ) beheld Sītā crying out (vikrośantīm) then. And having crossed beyond Pampā (pampām atikramya), he [Rāvaṇa], facing toward the city of Laṅkā (laṅkām abhimukhaḥ purīm)—
+—those foremost of monkeys (_vānarottamāḥ_) beheld Sītā crying out (_vikrośantīm_) then. And having crossed beyond Pampā (_pampām atikramya_), he [Rāvaṇa], facing toward the city of Laṅkā (_laṅkām abhimukhaḥ purīm_)—
 </details>
 </details>
 
@@ -374,7 +374,7 @@ carry a stingingly fanged and lethally venomous she-snake in his own lap. [3-54-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the lord of rākṣasas (rākṣaseśvaraḥ) went on (jagāma), seizing (gṛhya) the weeping (rudatīm) Maithilī. Exceedingly exultant (susaṃhṛṣṭaḥ), Rāvaṇa carried her off (tāṃ jahāra)—his own death (mṛtyum ātmanaḥ)—
+—the lord of _rākṣasas_ (_rākṣaseśvaraḥ_) went on (_jagāma_), seizing (_gṛhya_) the weeping (_rudatīm_) Maithilī. Exceedingly exultant (_susaṃhṛṣṭaḥ_), Rāvaṇa carried her off (_tāṃ jahāra_)—his own death (_mṛtyum ātmanaḥ_)—
 </details>
 </details>
 
@@ -434,7 +434,7 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—even as [one might carry] in his lap (utsaṅgenaiva) a sharp-fanged (tīkṣṇa-daṃṣṭrām), deadly-venomous (mahā-viṣām) female serpent (bhujagīm). Through the sky (vihāyasā), [past] forests, rivers, mountains, and lakes (vanāni saritaḥ śailān sarāṃsi ca)—
+—even as [one might carry] in his lap (_utsaṅgenaiva_) a sharp-fanged (_tīkṣṇa-daṃṣṭrām_), deadly-venomous (_mahā-viṣām_) female serpent (_bhujagīm_). Through the sky (_vihāyasā_), [past] forests, rivers, mountains, and lakes (_vanāni saritaḥ śailān sarāṃsi ca_)—
 </details>
 </details>
 
@@ -466,7 +466,7 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—he swiftly (kṣipram) sped across (samatīyāya), like an arrow loosed from a bow (śaraś cāpād iva cyutaḥ). And [reaching] the inexhaustible (akṣayam) abode of Varuṇa (varuṇālayam), the home of timi whales and crocodiles (timi-nakra-niketam)—
+—he swiftly (_kṣipram_) sped across (_samatīyāya_), like an arrow loosed from a bow (_śaraś cāpād iva cyutaḥ_). And [reaching] the inexhaustible (_akṣayam_) abode of Varuṇa (_varuṇālayam_), the home of _timi_ whales and crocodiles (_timi-nakra-niketam_)—
 </details>
 </details>
 
@@ -536,7 +536,7 @@ remained shilly-shally. [3-54-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—having come to that refuge of rivers (saritāṃ śaraṇaṃ gatvā), he crossed over the ocean (samatīyāya sāgaram). With its billowing waves stilled (parivṛttormī) out of trepidation (sambhramāt) and its fishes and great serpents immobilized (ruddha-mīna-mahoragaḥ)—
+—having come to that refuge of rivers (_saritāṃ śaraṇaṃ gatvā_), he crossed over the ocean (_samatīyāya sāgaram_). With its billowing waves stilled (_parivṛttormī_) out of trepidation (_sambhramāt_) and its fishes and great serpents immobilized (_ruddha-mīna-mahoragaḥ_)—
 </details>
 </details>
 
@@ -588,7 +588,7 @@ the end of Decahedron Ravana." [3-54-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—so became the abode of Varuṇa (babhūva varuṇālayaḥ) while Vaidehī was being carried away (vaidehyāṃ hriyamāṇāyām). Then cāraṇas moving in the mid-space (antarikṣa-gatāḥ) uttered words (vācaḥ sasṛjuḥ)—
+—so became the abode of Varuṇa (_babhūva varuṇālayaḥ_) while Vaidehī was being carried away (_vaidehyāṃ hriyamāṇāyām_). Then _cāraṇas_ moving in the mid-space (_antarikṣa-gatāḥ_) uttered words (_vācaḥ sasṛjuḥ_)—
 </details>
 </details>
 
@@ -641,7 +641,7 @@ flank, who appeared like the personified death of Ravana wriggling its way into 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and siddhas likewise declared (tathābruvan), “This is the end of Daśagrīva (etad-anto daśagrīva iti)!” Taking upon his hip (aṅkenādāya) the struggling (viceṣṭantīm) Sītā, Rāvaṇa—
+—and _siddhas_ likewise declared (_tathābruvan_), “This is the end of Daśagrīva (_etad-anto daśagrīva iti_)!” Taking upon his hip (_aṅkenādāya_) the struggling (_viceṣṭantīm_) Sītā, Rāvaṇa—
 </details>
 </details>
 
@@ -699,7 +699,7 @@ very many chambers. [3-54-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—entered the city of Laṅkā (praviveśa purīṃ laṅkām), [bearing] his own death in embodied form (rūpiṇīṃ mṛtyum ātmanaḥ). Having approached the city of Laṅkā, with its well-laid-out highways (suvibhakta-mahāpathām)—
+—entered the city of Laṅkā (_praviveśa purīṃ laṅkām_), [bearing] his own death in embodied form (_rūpiṇīṃ mṛtyum ātmanaḥ_). Having approached the city of Laṅkā, with its well-laid-out highways (_suvibhakta-mahāpathām_)—
 </details>
 </details>
 
@@ -806,7 +806,7 @@ eyelashes are tear-wet and slanted edge-ward to give a blackish shade at the end
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—crowded with inner courts (saṃrūḍha-kakṣyām) and vast (bahulām), he entered his own inner apartments (svam antaḥpuram āviśat). There, that dark-cornered-eyed lady (tām asitāpāṅgīm), overwhelmed by grief and swoon (śoka-moha-samanvitām)—
+—crowded with inner courts (_saṃrūḍha-kakṣyām_) and vast (_bahulām_), he entered his own inner apartments (_svam antaḥpuram āviśat_). There, that dark-cornered-eyed lady (_tām asitāpāṅgīm_), overwhelmed by grief and swoon (_śoka-moha-samanvitām_)—
 </details>
 </details>
 
@@ -860,7 +860,7 @@ ward shall be in such a way that neither a female nor a male can see Seetha impe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāvaṇa placed Sītā (nidadhe rāvaṇaḥ sītām), as Maya [placed] his āsurī illusion (māyām ivāsurīm). And Daśagrīva spoke to the piśācīs of dreadful aspect (piśācīr ghora-darśanāḥ):
+—Rāvaṇa placed Sītā (_nidadhe rāvaṇaḥ sītām_), as Maya [placed] his _āsurī_ illusion (_māyām ivāsurīm_). And Daśagrīva spoke to the _piśācīs_ of dreadful aspect (_piśācīr ghora-darśanāḥ_):
 </details>
 </details>
 
@@ -916,7 +916,7 @@ be given to her as you would give me according to my whimsies. [3-54-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[Guard her] so that no man or woman (pumān strī vā) unapproved [by me] (asammataḥ) beholds this Sītā. Pearls, gems, and gold (muktā-maṇi-suvarṇāni), garments and ornaments—
+“[Guard her] so that no man or woman (_pumān strī vā_) unapproved [by me] (_asammataḥ_) beholds this Sītā. Pearls, gems, and gold (_muktā-maṇi-suvarṇāni_), garments and ornaments—
 </details>
 </details>
 
@@ -970,7 +970,7 @@ knowingly, her life becomes unpleasant for herself." Thus Ravana ordered the cha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—whatever she may desire (yad yad icchet), right then (tadaiva) must it be given to her (asyā deyam) in accordance with my will (mac-chandato yathā). And whichever [ogress] shall speak to Vaidehī any displeasing word (vacanaṃ kiṃcid apriyam)—
+“—whatever she may desire (_yad yad icchet_), right then (_tadaiva_) must it be given to her (_asyā deyam_) in accordance with my will (_mac-chandato yathā_). And whichever [ogress] shall speak to Vaidehī any displeasing word (_vacanaṃ kiṃcid apriyam_)—
 </details>
 </details>
 
@@ -1029,9 +1029,9 @@ highly vigorous demons, the feasters on raw-flesh. [3-54-17b, 18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “—whether out of ignorance or deliberately (ajñānād yadi vā jñānāt), her life is no longer dear to her (na tasyā jīvitaṃ priyam)!” Having spoken thus to those rākṣasīs, the mighty lord of rākṣasas (rākṣasendraḥ pratāpavān)—
+**17:** “—whether out of ignorance or deliberately (_ajñānād yadi vā jñānāt_), her life is no longer dear to her (_na tasyā jīvitaṃ priyam_)!” Having spoken thus to those _rākṣasīs_, the mighty lord of _rākṣasas_ (_rākṣasendraḥ pratāpavān_)—
 
-**18:** —went forth from that inner apartment (niṣkramyāntaḥpurāt tasmāt), pondering, “What is to be done (kiṃ kṛtyam iti cintayan)?”, and beheld eight flesh-eating rākṣasas (rākṣasān piśitāśanān) of great prowess (mahā-vīryān).
+**18:** —went forth from that inner apartment (_niṣkramyāntaḥpurāt tasmāt_), pondering, “What is to be done (_kiṃ kṛtyam iti cintayan_)?”, and beheld eight flesh-eating _rākṣasas_ (_rākṣasān piśitāśanān_) of great prowess (_mahā-vīryān_).
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ might and valour. [3-54-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding them, that one of great prowess (mahā-vīryaḥ), deluded by the bestowal of boons (vara-dānena mohitaḥ), spoke this word to them (uvāca tān idaṃ vākyam), having praised [them] for their strength and valor (praśasya bala-vīryataḥ):
+Beholding them, that one of great prowess (_mahā-vīryaḥ_), deluded by the bestowal of boons (_vara-dānena mohitaḥ_), spoke this word to them (_uvāca tān idaṃ vākyam_), having praised [them] for their strength and valor (_praśasya bala-vīryataḥ_):
 </details>
 </details>
 
@@ -1150,7 +1150,7 @@ Janasthaana speedily, a place now deadpanned for demons, which earlier was the p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Armed with manifold weapons (nānā-praharaṇāḥ), go swiftly from here in haste (kṣipram ito gacchata satvarāḥ) to Janasthāna, whose station has been ravaged (hata-sthānam) and which was formerly the abode of Khara (bhūta-pūrvaṃ kharālayam).
+“Armed with manifold weapons (_nānā-praharaṇāḥ_), go swiftly from here in haste (_kṣipram ito gacchata satvarāḥ_) to Janasthāna, whose station has been ravaged (_hata-sthānam_) and which was formerly the abode of Khara (_bhūta-pūrvaṃ kharālayam_).
 </details>
 </details>
 
@@ -1212,7 +1212,7 @@ personally...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abide there (tatrāsyatām) in desolate Janasthāna (janasthāne śūnye), where the rākṣasas have been slain (nihata-rākṣase), relying on your manly might (pauruṣaṃ balam āśritya) and casting fear far aside (trāsam utsṛjya dūrataḥ).
+“Abide there (_tatrāsyatām_) in desolate Janasthāna (_janasthāne śūnye_), where the _rākṣasas_ have been slain (_nihata-rākṣase_), relying on your manly might (_pauruṣaṃ balam āśritya_) and casting fear far aside (_trāsam utsṛjya dūrataḥ_).
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ canto of Great War.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A vast army (bahu-sainyam) of great valor (mahā-vīryam) stationed in Janasthāna (janasthāne niveśitam), together with Dūṣaṇa and Khara (sa-dūṣaṇa-kharam), was slain in battle by Rāma's arrows (nihataṃ rāma-sāyakaiḥ).
+“A vast army (_bahu-sainyam_) of great valor (_mahā-vīryam_) stationed in Janasthāna (_janasthāne niveśitam_), together with Dūṣaṇa and Khara (_sa-dūṣaṇa-kharam_), was slain in battle by Rāma&#x27;s arrows (_nihataṃ rāma-sāyakaiḥ_).
 </details>
 </details>
 
@@ -1333,7 +1333,7 @@ and uncomfortable, as of now...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore (tataḥ), an unprecedented wrath of mine (krodho mamāpūrvaḥ) mounts above my composure (dhairyasyopari vardhate), and a mighty, most dreadful enmity (vairaṃ ca sumahat sudāruṇam) has arisen toward Rāma (rāmaṃ prati).
+“Therefore (_tataḥ_), an unprecedented wrath of mine (_krodho mamāpūrvaḥ_) mounts above my composure (_dhairyasyopari vardhate_), and a mighty, most dreadful enmity (_vairaṃ ca sumahat sudāruṇam_) has arisen toward Rāma (_rāmaṃ prati_).
 </details>
 </details>
 
@@ -1392,7 +1392,7 @@ balavataa durbalam hiina saadhanam | hR^ita svam kaaminam coram aavishanti pra j
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I wish to requite (niryātayitum icchāmi) that enmity upon my great foe (mahā-ripoḥ); for I shall not find sleep (na hi lapsyāmy ahaṃ nidrām) without having slain that enemy in battle (ahatvā saṃyuge ripum)!
+“And I wish to requite (_niryātayitum icchāmi_) that enmity upon my great foe (_mahā-ripoḥ_); for I shall not find sleep (_na hi lapsyāmy ahaṃ nidrām_) without having slain that enemy in battle (_ahatvā saṃyuge ripum_)!
 </details>
 </details>
 
@@ -1453,7 +1453,7 @@ and Duushana as with a pauper acquiring riches. [3-54-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having now slain (idānīm ahaṃ hatvā) that Rāma, the slayer of Khara and Dūṣaṇa (khara-dūṣaṇa-ghātinam), I shall attain peace (śarmopalapsyāmi), like a penniless man (nirdhanaḥ) upon gaining wealth (dhanaṃ labdhveva)!
+“Having now slain (_idānīm ahaṃ hatvā_) that Rāma, the slayer of Khara and Dūṣaṇa (_khara-dūṣaṇa-ghātinam_), I shall attain peace (_śarmopalapsyāmi_), like a penniless man (_nirdhanaḥ_) upon gaining wealth (_dhanaṃ labdhveva_)!
 </details>
 </details>
 
@@ -1505,7 +1505,7 @@ about Rama's activities and deportment. [3-54-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While dwelling in Janasthāna (janasthāne vasadbhiḥ), intelligence concerning Rāma (rāmam āśritā pravṛttiḥ)—‘What is he doing (kiṃ karotīti)?’—must be accurately (tattvataḥ) brought [to me] (upanetavyā) by you (bhavadbhiḥ).
+“While dwelling in Janasthāna (_janasthāne vasadbhiḥ_), intelligence concerning Rāma (_rāmam āśritā pravṛttiḥ_)—‘What is he doing (_kiṃ karotīti_)?’—must be accurately (_tattvataḥ_) brought [to me] (_upanetavyā_) by you (_bhavadbhiḥ_).
 </details>
 </details>
 
@@ -1561,7 +1561,7 @@ that Raghava. [3-54-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And all the night-roamers without exception (sarvair eva niśācaraiḥ) must proceed with vigilance (apramādāc ca gantavyam), and constant effort must be made (kartavyaś ca sadā yatnaḥ) toward the slaying of Rāghava (rāghavasya vadhaṃ prati).
+“And all the night-roamers without exception (_sarvair eva niśācaraiḥ_) must proceed with vigilance (_apramādāc ca gantavyam_), and constant effort must be made (_kartavyaś ca sadā yatnaḥ_) toward the slaying of Rāghava (_rāghavasya vadhaṃ prati_).
 </details>
 </details>
 
@@ -1613,7 +1613,7 @@ commissioned you all in that Janasthaana." Thus Ravana spoke to those eight demo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For your strength has been known (yuṣmākaṃ tu balaṃ jñātam) many a time at the forefront of battle (bahuśo raṇa-mūrdhani); and therefore (ataś ca) you have been stationed by me (mayā yūyaṃ niveśitāḥ) in this Janasthāna.”
+“For your strength has been known (_yuṣmākaṃ tu balaṃ jñātam_) many a time at the forefront of battle (_bahuśo raṇa-mūrdhani_); and therefore (_ataś ca_) you have been stationed by me (_mayā yūyaṃ niveśitāḥ_) in this Janasthāna.”
 </details>
 </details>
 
@@ -1675,7 +1675,7 @@ direction of Janasthaana with their imperceivable appearances. [3-54-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having received (upetya) that welcome speech of weighty import (priyaṃ vākyaṃ mahārtham) and saluted Rāvaṇa (abhivādya rāvaṇam), the eight rākṣasas, leaving Laṅkā together (vihāya laṅkāṃ sahitāḥ), set forth invisibly (alakṣya-darśanāḥ) toward where Janasthāna lay (yato janasthānam).
+Then, having received (_upetya_) that welcome speech of weighty import (_priyaṃ vākyaṃ mahārtham_) and saluted Rāvaṇa (_abhivādya rāvaṇam_), the eight _rākṣasas_, leaving Laṅkā together (_vihāya laṅkāṃ sahitāḥ_), set forth invisibly (_alakṣya-darśanāḥ_) toward where Janasthāna lay (_yato janasthānam_).
 </details>
 </details>
 
@@ -1768,6 +1768,6 @@ And the releaser or the deliverer is Rama, and hence Ravana is happy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having obtained Sītā (sītām upalabhya) and taken possession of Maithilī (parigṛhya maithilīm), Rāvaṇa was exceedingly thrilled (susamprahṛṣṭaḥ); and having contracted supreme enmity with Rāma (prasajya rāmeṇa ca vairam uttamam), that Rāvaṇa rejoiced out of delusion (babhūva mohān muditaḥ).
+Then, having obtained Sītā (_sītām upalabhya_) and taken possession of Maithilī (_parigṛhya maithilīm_), Rāvaṇa was exceedingly thrilled (_susamprahṛṣṭaḥ_); and having contracted supreme enmity with Rāma (_prasajya rāmeṇa ca vairam uttamam_), that Rāvaṇa rejoiced out of delusion (_babhūva mohān muditaḥ_).
 </details>
 </details>

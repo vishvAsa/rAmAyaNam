@@ -82,7 +82,7 @@ an unpleasant dream.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On the very night that those envoys entered that city (yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm), on that same night this unpleasant dream was seen by Bharata also (bharatenāpi tāṃ rātriṃ svapno dṛṣṭo ’yam apriyaḥ).
+On the very night that those envoys entered that city (_yām eva rātriṃ te dūtāḥ praviśanti sma tāṃ purīm_), on that same night this unpleasant dream was seen by Bharata also (_bharatenāpi tāṃ rātriṃ svapno dṛṣṭo ’yam apriyaḥ_).
 </details>
 </details>
 
@@ -138,7 +138,7 @@ dream just at the dawn of that night, felt very much anguished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as that night was dawning (vyuṣṭām eva tu tāṃ rātrim), having seen that unpleasant dream, the son of the supreme king of kings was sorely tormented with anguish (subhṛśaṃ paryatapyata).
+Just as that night was dawning (_vyuṣṭām eva tu tāṃ rātrim_), having seen that unpleasant dream, the son of the supreme king of kings was sorely tormented with anguish (_subhṛśaṃ paryatapyata_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ recitation of stories in the palace; so as to erase his anguish.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving him thus distressed (tapyamānaṃ samājñāya), his kindly-spoken companions of equal age (vayasyāḥ priya-vādinaḥ), seeking to dispel his mental weariness (āyāsaṃ hi vineṣyantaḥ), engaged in varied conversations in the assembly (sabhāyāṃ cakrire kathāḥ).
+Perceiving him thus distressed (_tapyamānaṃ samājñāya_), his kindly-spoken companions of equal age (_vayasyāḥ priya-vādinaḥ_), seeking to dispel his mental weariness (_āyāsaṃ hi vineṣyantaḥ_), engaged in varied conversations in the assembly (_sabhāyāṃ cakrire kathāḥ_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ others arranged for exhibition of dramas and some others told various types of j
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some played upon musical instruments for his peace of mind (vādayanti tathā śāntim), others caused dancers to perform graceful dances (lāsayanty api cāpare), and still others recited manifold dramas and comic pieces (nāṭakāny apare prāhur hāsyāni vividhāni ca).
+Some played upon musical instruments for his peace of mind (_vādayanti tathā śāntim_), others caused dancers to perform graceful dances (_lāsayanty api cāpare_), and still others recited manifold dramas and comic pieces (_nāṭakāny apare prāhur hāsyāni vividhāni ca_).
 </details>
 </details>
 
@@ -298,7 +298,7 @@ gently speaking friends by stage-plays or jokes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet that great-souled Rāghava, Bharata, did not rejoice (na prāhṛṣyata rāghavaḥ) even while those kindly-spoken friends were engaging in witty assembly-jests (goṣṭhī-hāsyāni kurvadbhiḥ).
+Yet that great-souled Rāghava, Bharata, did not rejoice (_na prāhṛṣyata rāghavaḥ_) even while those kindly-spoken friends were engaging in witty assembly-jests (_goṣṭhī-hāsyāni kurvadbhiḥ_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ A close friend spoke to Bharata, who was surrounded by his companions, as follow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that Bharata, who sat surrounded by his companions, a dearly beloved friend (priya-sakhaḥ) spoke: “Attended as you are by your friends (suhṛdbhiḥ paryupāsīnaḥ), why, O friend, do you not rejoice (kiṃ sakhe nānumodase)?”
+To that Bharata, who sat surrounded by his companions, a dearly beloved friend (_priya-sakhaḥ_) spoke: “Attended as you are by your friends (_suhṛdbhiḥ paryupāsīnaḥ_), why, O friend, do you not rejoice (_kiṃ sakhe nānumodase_)?”
 </details>
 </details>
 
@@ -434,9 +434,9 @@ disheveled, was falling from the top of a mountain into a polluted pond defiled 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** To his friend who was speaking thus, Bharata replied: “Hear you on what account (śṛṇu tvaṃ yan-nimittam) this dejection has come upon me (me dainyam etad upāgatam).
+**7:** To his friend who was speaking thus, Bharata replied: “Hear you on what account (_śṛṇu tvaṃ yan-nimittam_) this dejection has come upon me (_me dainyam etad upāgatam_).
 
-**8:** In a dream I beheld my father (svapne pitaram adrākṣam), squalid and with his hair disheveled (malinaṃ mukta-mūrdhajam), falling from a mountain peak (patantam adri-śikharāt) into a turbid pool of cow-dung (kaluṣe gomaya-hrade).
+**8:** In a dream I beheld my father (_svapne pitaram adrākṣam_), squalid and with his hair disheveled (_malinaṃ mukta-mūrdhajam_), falling from a mountain peak (_patantam adri-śikharāt_) into a turbid pool of cow-dung (_kaluṣe gomaya-hrade_).
 </details>
 </details>
 
@@ -489,7 +489,7 @@ an oil through his hollowed palms and laughing again and again"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he was seen by me floating in that pool of cow-dung (plavamānaś ca me dṛṣṭaḥ sa tasmin gomaya-hrade), drinking oil with his cupped hands (pibann añjalinā tailam) and laughing again and again (hasann api muhur muhuḥ).
+And he was seen by me floating in that pool of cow-dung (_plavamānaś ca me dṛṣṭaḥ sa tasmin gomaya-hrade_), drinking oil with his cupped hands (_pibann añjalinā tailam_) and laughing again and again (_hasann api muhur muhuḥ_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ head bent down and with his whole body smeared with oil, he plunged into the oil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having eaten rice mixed with sesame (tilaudanaṃ bhuktvā), with his head hanging downward again and again (punaḥ punar adhaḥ-śirāḥ) and all his limbs anointed with oil (tailenābhyakta-sarvāṅgaḥ), he plunged into oil itself (tailam evānvagāhata).
+Then, having eaten rice mixed with sesame (_tilaudanaṃ bhuktvā_), with his head hanging downward again and again (_punaḥ punar adhaḥ-śirāḥ_) and all his limbs anointed with oil (_tailenābhyakta-sarvāṅgaḥ_), he plunged into oil itself (_tailam evānvagāhata_).
 </details>
 </details>
 
@@ -579,7 +579,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In my dream I also beheld the ocean dried up (sāgaraṃ śuṣkam), the moon fallen to the earth (candraṃ ca patitaṃ bhuvi), and a blazing fire suddenly extinguished (sahasā cāpi saṃśāntaṃ jvalitaṃ jātavedasam).
+In my dream I also beheld the ocean dried up (_sāgaraṃ śuṣkam_), the moon fallen to the earth (_candraṃ ca patitaṃ bhuvi_), and a blazing fire suddenly extinguished (_sahasā cāpi saṃśāntaṃ jvalitaṃ jātavedasam_).
 </details>
 </details>
 
@@ -618,7 +618,7 @@ Bharata describes further portents: the royal elephant’s tusks shattered, the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I saw the tusk of the king’s riding elephant shattered into fragments (aupavāhyasya nāgasya viṣāṇaṃ śakalīkṛtam), and a blazing fire suddenly extinguished (sahasā cāpi saṃśāntaṃ jvalitaṃ jātavedasam).
+I saw the tusk of the king’s riding elephant shattered into fragments (_aupavāhyasya nāgasya viṣāṇaṃ śakalīkṛtam_), and a blazing fire suddenly extinguished (_sahasā cāpi saṃśāntaṃ jvalitaṃ jātavedasam_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ mountains whirl up into a mist."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I beheld the earth rent and sunken (avatīrṇāṃ ca pṛthivīm), manifold trees withered up (śuṣkāṃś ca vividhān drumān), and mountains shattered and issuing smoke (vidhvastān sadhūmāṃś cāpi parvatān).
+I beheld the earth rent and sunken (_avatīrṇāṃ ca pṛthivīm_), manifold trees withered up (_śuṣkāṃś ca vividhān drumān_), and mountains shattered and issuing smoke (_vidhvastān sadhūmāṃś cāpi parvatān_).
 </details>
 </details>
 
@@ -730,7 +730,7 @@ iron and women with black and reddish brown complexion deriding the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark and tawny-eyed women (pramadāḥ kṛṣṇa-piṅgalāḥ) were laughing at the king (prahasanti sma rājānam), who sat upon a seat of black iron (pīṭhe kārṣṇāyase niṣaṇṇam) clad in black garments (kṛṣṇa-vāsasam).
+Dark and tawny-eyed women (_pramadāḥ kṛṣṇa-piṅgalāḥ_) were laughing at the king (_prahasanti sma rājānam_), who sat upon a seat of black iron (_pīṭhe kārṣṇāyase niṣaṇṇam_) clad in black garments (_kṛṣṇa-vāsasam_).
 </details>
 </details>
 
@@ -782,7 +782,7 @@ sandal paste and seated in a chariot drawn by asses, proceeded hurriedly towards
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that righteous-souled monarch, wearing red garlands and red unguents (rakta-mālyānulepanaḥ), set forth in haste toward the southern quarter (prayāto dakṣiṇā-mukhaḥ) in a chariot yoked with asses (rathena khara-yuktena).
+And that righteous-souled monarch, wearing red garlands and red unguents (_rakta-mālyānulepanaḥ_), set forth in haste toward the southern quarter (_prayāto dakṣiṇā-mukhaḥ_) in a chariot yoked with asses (_rathena khara-yuktena_).
 </details>
 </details>
 
@@ -834,7 +834,7 @@ away the king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A woman clad in red garments (pramadā rakta-vāsinī), seeming to laugh at the king (prahasantīva rājānam), and a hideous-faced Rākṣasī (rākṣasī vikṛtānanā) dragging him away (prakarṣantī) were seen by me.
+A woman clad in red garments (_pramadā rakta-vāsinī_), seeming to laugh at the king (_prahasantīva rājānam_), and a hideous-faced Rākṣasī (_rākṣasī vikṛtānanā_) dragging him away (_prakarṣantī_) were seen by me.
 </details>
 </details>
 
@@ -897,7 +897,7 @@ Lakshmana may die."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such was this dreadful vision seen by me during this night (evam etan mayā dṛṣṭam imāṃ rātriṃ bhayāvaham); either I, or Rāma, or the king, or Lakṣmaṇa will surely die (mariṣyati).
+Such was this dreadful vision seen by me during this night (_evam etan mayā dṛṣṭam imāṃ rātriṃ bhayāvaham_); either I, or Rāma, or the king, or Lakṣmaṇa will surely die (_mariṣyati_).
 </details>
 </details>
 
@@ -971,9 +971,9 @@ properly. My throat seems to be drying up. My mind is not at ease."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** For when a man rides in a dream upon a vehicle yoked with asses (yānena yaḥ svapne khara-yuktena yāti hi), before long the crest of smoke is seen rising from his funeral pyre (acirāt tasya dhūmāgraṃ citāyāṃ sampradṛśyate).
+**18:** For when a man rides in a dream upon a vehicle yoked with asses (_yānena yaḥ svapne khara-yuktena yāti hi_), before long the crest of smoke is seen rising from his funeral pyre (_acirāt tasya dhūmāgraṃ citāyāṃ sampradṛśyate_).
 
-**19:** On this account I am dejected, and therefore I do not honor your words of entertainment (tan na vaḥ pratipūjaye); my throat seems to dry up (śuṣyatīva ca me kaṇṭhaḥ), and my mind is ill at ease (na svastham iva me manaḥ).
+**19:** On this account I am dejected, and therefore I do not honor your words of entertainment (_tan na vaḥ pratipūjaye_); my throat seems to dry up (_śuṣyatīva ca me kaṇṭhaḥ_), and my mind is ill at ease (_na svastham iva me manaḥ_).
 </details>
 </details>
 
@@ -1030,7 +1030,7 @@ voice is choked. My luster is affected. I abhor me myself and I do not see a rea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I see no visible cause for fear, yet I am gripped by dread (bhayaṃ caivopadhāraye); my voice has lost its modulation (bhraṣṭaś ca svara-yogo me), my complexion is marred (chāyā copahatā mama), and I seem to loathe my very self (jugupsann iva cātmānam) without perceiving the reason why.
+I see no visible cause for fear, yet I am gripped by dread (_bhayaṃ caivopadhāraye_); my voice has lost its modulation (_bhraṣṭaś ca svara-yogo me_), my complexion is marred (_chāyā copahatā mama_), and I seem to loathe my very self (_jugupsann iva cātmānam_) without perceiving the reason why.
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ that inconceivable sight of the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting upon this manifold course of evil dreams (imāṃ ca duḥsvapna-gatiṃ niśāmya tām aneka-rūpām), never before imagined (avitarkitāṃ purā), and thinking of the king of inconceivable aspect (vicintya rājānam acintya-darśanam), that great terror does not depart from my heart (bhayaṃ mahat tad dhṛdayān na yāti me).”
+Reflecting upon this manifold course of evil dreams (_imāṃ ca duḥsvapna-gatiṃ niśāmya tām aneka-rūpām_), never before imagined (_avitarkitāṃ purā_), and thinking of the king of inconceivable aspect (_vicintya rājānam acintya-darśanam_), that great terror does not depart from my heart (_bhayaṃ mahat tad dhṛdayān na yāti me_).”
 </details>
 </details>
 

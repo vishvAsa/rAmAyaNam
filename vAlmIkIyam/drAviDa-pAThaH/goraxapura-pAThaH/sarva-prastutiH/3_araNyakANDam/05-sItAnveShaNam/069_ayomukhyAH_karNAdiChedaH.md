@@ -88,7 +88,7 @@ onwards.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus offered the funeral water-libation (udakam) to him [Jaṭāyus], the two Rāghavas set forth then; searching (avekṣantau) for Sītā in the forest, they went toward the western quarter (paścimāṃ diśam).
+Having thus offered the funeral water-libation (_udakam_) to him [Jaṭāyus], the two Rāghavas set forth then; searching (_avekṣantau_) for Sītā in the forest, they went toward the western quarter (_paścimāṃ diśam_).
 </details>
 </details>
 
@@ -140,7 +140,7 @@ a pathway which is an off the beaten track. [3-69-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone toward that south-westerly quarter (tāṃ diśaṃ dakṣiṇām), bearing arrows, bows, and swords (śara-cāpāsi-dhāriṇau), the two descendants of Ikṣvāku (aikṣvākau) reached an untrodden (aviprahatam) path.
+Having gone toward that south-westerly quarter (_tāṃ diśaṃ dakṣiṇām_), bearing arrows, bows, and swords (_śara-cāpāsi-dhāriṇau_), the two descendants of Ikṣvāku (_aikṣvākau_) reached an untrodden (_aviprahatam_) path.
 </details>
 </details>
 
@@ -193,7 +193,7 @@ from all over, thus that is jammed, blocked and horrid in its appearance. [3-69-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enwrapped by thickets (gulmaiḥ), many trees, and creepers (latābhiś ca), it was hemmed in on all sides, impassable (durgam), dense (gahanam), and dreadful to behold (ghora-darśanam).
+Enwrapped by thickets (_gulmaiḥ_), many trees, and creepers (_latābhiś ca_), it was hemmed in on all sides, impassable (_durgam_), dense (_gahanam_), and dreadful to behold (_ghora-darśanam_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ both those spryly energetic brothers moved ahead, speedily. [3-69-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing rapidly beyond [that path] and taking the southern direction (dakṣiṇāṃ diśam), the two mighty heroes (mahā-balau) traversed (vyatiyātau) that most fearsome great forest (mahāraṇyam).
+Passing rapidly beyond [that path] and taking the southern direction (_dakṣiṇāṃ diśam_), the two mighty heroes (_mahā-balau_) traversed (_vyatiyātau_) that most fearsome great forest (_mahāraṇyam_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ figure in their dictionaries, while traditionally a yojana is said as a distance
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone three krośas (tri-krośam) beyond Janasthāna from there, those two Rāghavas of great splendour (mahaujasau) entered the dense forest of Krauñcāraṇya (krauñcāraṇyam).
+Having gone three _krośas_ (_tri-krośam_) beyond Janasthāna from there, those two Rāghavas of great splendour (_mahaujasau_) entered the dense forest of Krauñcāraṇya (_krauñcāraṇyam_).
 </details>
 </details>
 
@@ -342,7 +342,7 @@ Having gone three krośas (tri-krośam) beyond Janasthāna from there, those two
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling a dense mass of manifold clouds (nānā-megha-ghana-prakhyam), seeming to rejoice on every side (prahṛṣṭam iva sarvataḥ) with bright flowers of varied hues (nānā-varṇaiḥ), it was filled with flocks of beasts and birds (mṛga-pakṣi-gaṇaiḥ).
+Resembling a dense mass of manifold clouds (_nānā-megha-ghana-prakhyam_), seeming to rejoice on every side (_prahṛṣṭam iva sarvataḥ_) with bright flowers of varied hues (_nānā-varṇaiḥ_), it was filled with flocks of beasts and birds (_mṛga-pakṣi-gaṇaiḥ_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ highly rejoiced everywhere. [3-69-6, 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Eager to behold (didṛkṣamāṇau) Vaidehī, those two searched (vicikyatuḥ) that forest, pausing here and there (tatra tatrāvatiṣṭhantau), grieved by the abduction of Sītā (sītā-haraṇa-duḥkhitau).
+Eager to behold (_didṛkṣamāṇau_) Vaidehī, those two searched (_vicikyatuḥ_) that forest, pausing here and there (_tatra tatrāvatiṣṭhantau_), grieved by the abduction of Sītā (_sītā-haraṇa-duḥkhitau_).
 </details>
 </details>
 
@@ -437,7 +437,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having then gone three krośas (tri-krośam) eastward (pūrveṇa) from there, passing beyond Krauñcāraṇya, the two brothers [beheld] in the interval (antare) toward the hermitage of Mataṅga (mataṅgāśramam)—
+Having then gone three _krośas_ (_tri-krośam_) eastward (_pūrveṇa_) from there, passing beyond Krauñcāraṇya, the two brothers [beheld] in the interval (_antare_) toward the hermitage of Mataṅga (_mataṅgāśramam_)—
 </details>
 </details>
 
@@ -468,7 +468,7 @@ Having then gone three krośas (tri-krośam) eastward (pūrveṇa) from there, p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having seen that dreadful forest teeming with many fearsome beasts and birds (bahu-bhīma-mṛga-dvijam), crowded with manifold trees (nānā-vṛkṣa-samākīrṇam), and everywhere dense with trees (gahana-pādapam)—
+And having seen that dreadful forest teeming with many fearsome beasts and birds (_bahu-bhīma-mṛga-dvijam_), crowded with manifold trees (_nānā-vṛkṣa-samākīrṇam_), and everywhere dense with trees (_gahana-pādapam_)—
 </details>
 </details>
 
@@ -525,7 +525,7 @@ they saw a cave in a mountain, which is abyssal, equal to infernal region, and e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The two sons of Daśaratha beheld (dadṛśāte) on a mountain there a cavern (darīm) as deep as the netherworld (pātāla-sama-gambhīrām) and perpetually shrouded in darkness (tamasā nitya-saṃvṛtām).
+The two sons of Daśaratha beheld (_dadṛśāte_) on a mountain there a cavern (_darīm_) as deep as the netherworld (_pātāla-sama-gambhīrām_) and perpetually shrouded in darkness (_tamasā nitya-saṃvṛtām_).
 </details>
 </details>
 
@@ -580,7 +580,7 @@ shape and misshapen in her face. [3-69-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing near (āsādya), those two tigers among men (nara-vyāghrau) beheld not far from that cavern (daryās tasyāvidūrataḥ) a gigantic rākṣasī (mahā-rūpām) with a hideous face (vikṛtānanām)—
+Drawing near (_āsādya_), those two tigers among men (_nara-vyāghrau_) beheld not far from that cavern (_daryās tasyāvidūrataḥ_) a gigantic _rākṣasī_ (_mahā-rūpām_) with a hideous face (_vikṛtānanām_)—
 </details>
 </details>
 
@@ -611,7 +611,7 @@ Drawing near (āsādya), those two tigers among men (nara-vyāghrau) beheld not 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Inspiring terror in those of little courage (alpa-sattvānām), loathsome (bībhatsām), fierce to behold (raudra-darśanām), pot-bellied (lambodarīm), sharp-fanged (tīkṣṇa-daṃṣṭrām), gap-toothed (karālīm), and rough-skinned (paruṣa-tvacam).
+Inspiring terror in those of little courage (_alpa-sattvānām_), loathsome (_bībhatsām_), fierce to behold (_raudra-darśanām_), pot-bellied (_lambodarīm_), sharp-fanged (_tīkṣṇa-daṃṣṭrām_), gap-toothed (_karālīm_), and rough-skinned (_paruṣa-tvacam_).
 </details>
 </details>
 
@@ -672,7 +672,7 @@ beasts. [3-69-12, 13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The two brothers Rāma and Lakṣmaṇa beheld (avaikṣatām) her there—devouring fearsome beasts (bhakṣayantīṃ mṛgān bhīmān), monstrous in frame (vikaṭām), with her hair disheveled (mukta-mūrdhajām).
+The two brothers Rāma and Lakṣmaṇa beheld (_avaikṣatām_) her there—devouring fearsome beasts (_bhakṣayantīṃ mṛgān bhīmān_), monstrous in frame (_vikaṭām_), with her hair disheveled (_mukta-mūrdhajām_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ onto Lakshmana who is going ahead of his elder brother, saying, "come... let's r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching (samāsādya) those two heroes, she seized (samālambhata) Lakṣmaṇa, who was walking in front of his elder brother (bhrātur agrataḥ), saying, “Come, let us dally together (ehi raṃsyāvahe)!”
+Approaching (_samāsādya_) those two heroes, she seized (_samālambhata_) Lakṣmaṇa, who was walking in front of his elder brother (_bhrātur agrataḥ_), saying, “Come, let us dally together (_ehi raṃsyāvahe_)!”
 </details>
 </details>
 
@@ -758,7 +758,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And embracing (upaguhya) the son of Sumitrā, she spoke these words to him: “I am Ayomukhī by name (ayomukhī nāma); I am a prize for you (lābhas te), and you are dear to me (priyaḥ).
+And embracing (_upaguhya_) the son of Sumitrā, she spoke these words to him: “I am Ayomukhī by name (_ayomukhī nāma_); I am a prize for you (_lābhas te_), and you are dear to me (_priyaḥ_).
 </details>
 </details>
 
@@ -813,7 +813,7 @@ till the end of this life..." So is the love prattle of that demoness Ayomukhi. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord (nātha), in mountain fastnesses (parvata-durgeṣu) and on the sandy banks of rivers (nadīnāṃ pulineṣu), O hero, you shall sport with me throughout this long span of life (āyuś ciram idam)!”
+“O lord (_nātha_), in mountain fastnesses (_parvata-durgeṣu_) and on the sandy banks of rivers (_nadīnāṃ pulineṣu_), O hero, you shall sport with me throughout this long span of life (_āyuś ciram idam_)!”
 </details>
 </details>
 
@@ -868,7 +868,7 @@ off her nose, one ear, and one of her breasts. [3-69-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, the wrathful (kupitaḥ) Lakṣmaṇa, destroyer of foes (ari-sūdanaḥ), drew his sword (khaḍgam uddhṛtya) and sliced off (nicakarta) her ears, nose, and breasts (karṇa-nāsa-stanam).
+Thus addressed, the wrathful (_kupitaḥ_) Lakṣmaṇa, destroyer of foes (_ari-sūdanaḥ_), drew his sword (_khaḍgam uddhṛtya_) and sliced off (_nicakarta_) her ears, nose, and breasts (_karṇa-nāsa-stanam_).
 </details>
 </details>
 
@@ -920,7 +920,7 @@ rushed off as she had rushed in at Lakshmana. [3-69-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When her ears and nose were severed (karṇa-nāse nikṛtte tu), that rākṣasī of dreadful aspect (ghora-darśanā) uttered a discordant shriek (visvaraṃ vinanāda) and fled headlong (pradudrāva) the way she had come (yathā-gatam).
+When her ears and nose were severed (_karṇa-nāse nikṛtte tu_), that _rākṣasī_ of dreadful aspect (_ghora-darśanā_) uttered a discordant shriek (_visvaraṃ vinanāda_) and fled headlong (_pradudrāva_) the way she had come (_yathā-gatam_).
 </details>
 </details>
 
@@ -981,7 +981,7 @@ force. [3-69-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When she had departed (tasyāṃ gatāyām), the two brothers Rāma and Lakṣmaṇa, slayers of foes (amitra-ghnau), advancing with vigour (ojasā), reached a dense forest (gahanaṃ vanam).
+When she had departed (_tasyāṃ gatāyām_), the two brothers Rāma and Lakṣmaṇa, slayers of foes (_amitra-ghnau_), advancing with vigour (_ojasā_), reached a dense forest (_gahanaṃ vanam_).
 </details>
 </details>
 
@@ -1038,7 +1038,7 @@ by his persona, he prayfully said this sentence to his brother Rama whose anima 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lakṣmaṇa of great splendour (mahā-tejāḥ), endowed with courage, noble conduct, and purity (sattvavāñ śīlavāñ śuciḥ), spoke these words with joined palms (prāñjaliḥ) to his brother of blazing radiance (dīpta-tejasam):
+Then Lakṣmaṇa of great splendour (_mahā-tejāḥ_), endowed with courage, noble conduct, and purity (_sattvavāñ śīlavāñ śuciḥ_), spoke these words with joined palms (_prāñjaliḥ_) to his brother of blazing radiance (_dīpta-tejasam_):
 </details>
 </details>
 
@@ -1110,9 +1110,9 @@ forebodings are indeed portending to me as if some hazard is immediately ensuing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “My [left] arm throbs (spandate) violently (dṛḍham), my mind seems agitated (udvignam iva), and on all sides I perceive (upalakṣaye) mostly unfavorable omens (aniṣṭāni nimittāni).
+**21:** “My [left] arm throbs (_spandate_) violently (_dṛḍham_), my mind seems agitated (_udvignam iva_), and on all sides I perceive (_upalakṣaye_) mostly unfavorable omens (_aniṣṭāni nimittāni_).
 
-**22:** “Therefore, O noble brother (ārya), make yourself ready (sajjī-bhava) and heed my words; for these omens portend (śaṃsanti) to me an immediate peril (sadyaḥ saṃbhramam).
+**22:** “Therefore, O noble brother (_ārya_), make yourself ready (_sajjī-bhava_) and heed my words; for these omens portend (_śaṃsanti_) to me an immediate peril (_sadyaḥ saṃbhramam_).
 </details>
 </details>
 
@@ -1164,7 +1164,7 @@ in any given conflict that may ensue..." So said Lakshmana to Rama. [3-69-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This most fierce bird named Vañjulaka (vañjulako nāma pakṣī) cries out (vinardati) as though proclaiming (śaṃsann iva) our victory in battle (āvayor vijayaṃ yuddhe)!”
+“This most fierce bird named Vañjulaka (_vañjulako nāma pakṣī_) cries out (_vinardati_) as though proclaiming (_śaṃsann iva_) our victory in battle (_āvayor vijayaṃ yuddhe_)!”
 </details>
 </details>
 
@@ -1216,7 +1216,7 @@ brouhaha emanated as though to completely shatter down that forest. [3-69-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As those two were thus searching (anveṣatoḥ) that entire forest with vigour (ojasā), there arose (saṃjajñe) a tremendous uproar (vipulaḥ śabdaḥ) as though shattering (prabhañjann iva) that forest.
+As those two were thus searching (_anveṣatoḥ_) that entire forest with vigour (_ojasā_), there arose (_saṃjajñe_) a tremendous uproar (_vipulaḥ śabdaḥ_) as though shattering (_prabhañjann iva_) that forest.
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ filling up that forest. [3-69-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As though the dense forest (gahanam) were utterly enveloped (saṃveṣṭitam ivātyartham) by the wind (mātariśvanā), there arose the roar of that forest, filling the woodland (vanam āpūrayann iva), as it were.
+As though the dense forest (_gahanam_) were utterly enveloped (_saṃveṣṭitam ivātyartham_) by the wind (_mātariśvanā_), there arose the roar of that forest, filling the woodland (_vanam āpūrayann iva_), as it were.
 </details>
 </details>
 
@@ -1332,7 +1332,7 @@ and gigantesque-chested demon in a section of brushwood along with his younger b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeking out [the source of] that sound (taṃ śabdaṃ kāṅkṣamāṇas tu), Rāma, sword in hand (khaḍgī) together with his younger brother (sahānujaḥ), beheld a gigantic rākṣasa (sumahā-kāyam) with a broad chest (vipulorasam).
+Seeking out [the source of] that sound (_taṃ śabdaṃ kāṅkṣamāṇas tu_), Rāma, sword in hand (_khaḍgī_) together with his younger brother (_sahānujaḥ_), beheld a gigantic _rākṣasa_ (_sumahā-kāyam_) with a broad chest (_vipulorasam_).
 </details>
 </details>
 
@@ -1385,7 +1385,7 @@ body, which is neckless, ergo headless, ergo mouth in paunch. [3-69-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those two approached (āsedatuś ca) that rākṣasa standing right before them (pramukhe sthitam)—Kabandha, huge-bodied (vivṛddham), headless and neckless (aśiro-grīvam), with his mouth in his belly (udare-mukham)—
+And those two approached (_āsedatuś ca_) that _rākṣasa_ standing right before them (_pramukhe sthitam_)—Kabandha, huge-bodied (_vivṛddham_), headless and neckless (_aśiro-grīvam_), with his mouth in his belly (_udare-mukham_)—
 </details>
 </details>
 
@@ -1440,7 +1440,7 @@ gleam is like a dark cloud, and his sounding is like a thunder. [3-69-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Towering like a great mountain (mahā-girim ivocchritam) with sharp, pointed bristles (romabhir niśitais tīkṣṇaiḥ), dark as a blue storm-cloud (nīla-megha-nibham), fierce (raudram), with a voice like the rumble of thunder (megha-stanita-niḥsvanam)—
+Towering like a great mountain (_mahā-girim ivocchritam_) with sharp, pointed bristles (_romabhir niśitais tīkṣṇaiḥ_), dark as a blue storm-cloud (_nīla-megha-nibham_), fierce (_raudram_), with a voice like the rumble of thunder (_megha-stanita-niḥsvanam_)—
 </details>
 </details>
 
@@ -1511,9 +1511,9 @@ like fangs, as he has just finished a gobble, and the brothers had to drew nigh 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** With [an eye] blazing (dīpyatā) like a flame of fire (agni-jvālā-nikāśena), set in his forehead (lalāṭa-sthena), furnished with huge eyelashes (mahā-pakṣmeṇa), tawny (piṅgena), wide, and elongated (vipulenāyatena ca)—
+**29:** With [an eye] blazing (_dīpyatā_) like a flame of fire (_agni-jvālā-nikāśena_), set in his forehead (_lalāṭa-sthena_), furnished with huge eyelashes (_mahā-pakṣmeṇa_), tawny (_piṅgena_), wide, and elongated (_vipulenāyatena ca_)—
 
-**30:** [Marked] by that single terrible, keen-sighted eye (ekena ghoreṇa nayanena sudarśinā) upon his chest (urasi), furnished with great fangs (mahā-daṃṣṭropapannam), and repeatedly licking (lelihānam) his huge mouth (mahā-mukham)—
+**30:** [Marked] by that single terrible, keen-sighted eye (_ekena ghoreṇa nayanena sudarśinā_) upon his chest (_urasi_), furnished with great fangs (_mahā-daṃṣṭropapannam_), and repeatedly licking (_lelihānam_) his huge mouth (_mahā-mukham_)—
 </details>
 </details>
 
@@ -1603,9 +1603,9 @@ if they are unpalatable, and the brothers reached nearby of such a demon. [3-69-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** Devouring most dreadful bears, lions, deer, and birds (ṛkṣa-siṃha-mṛga-dvijān), and brandishing (vikurvāṇam) both his terrible arms (ghorau bhujau) that stretched a yojana in length (yojanam āyatau)—
+**31:** Devouring most dreadful bears, lions, deer, and birds (_ṛkṣa-siṃha-mṛga-dvijān_), and brandishing (_vikurvāṇam_) both his terrible arms (_ghorau bhujau_) that stretched a _yojana_ in length (_yojanam āyatau_)—
 
-**32:** Seizing (gṛhya) with his two hands (karābhyām) manifold bears, flocks of birds, and deer, drawing some toward himself (ākarṣantam) and hurling others away (vikarṣantam), along with many leaders of herds (mṛga-yūthapān)—
+**32:** Seizing (_gṛhya_) with his two hands (_karābhyām_) manifold bears, flocks of birds, and deer, drawing some toward himself (_ākarṣantam_) and hurling others away (_vikarṣantam_), along with many leaders of herds (_mṛga-yūthapān_)—
 </details>
 </details>
 
@@ -1677,9 +1677,9 @@ is waylaid by this demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** Standing (sthitam) after blocking the path (āvṛtya panthānam) of those two approaching brothers (tayor bhrātroḥ prapannayoḥ): then, having gone a krośa further (samatikramya krośa-mātram), the two beheld him—
+**33:** Standing (_sthitam_) after blocking the path (_āvṛtya panthānam_) of those two approaching brothers (_tayor bhrātroḥ prapannayoḥ_): then, having gone a _krośa_ further (_samatikramya krośa-mātram_), the two beheld him—
 
-**34:** Huge, pitiless (dāruṇam), and terrifying—Kabandha, encompassed by his arms (bhuja-saṃvṛtam), resembling a headless trunk (kabandham iva) by his bodily configuration (saṃsthānāt), and most dreadful in appearance (atighora-pradarśanam).
+**34:** Huge, pitiless (_dāruṇam_), and terrifying—Kabandha, encompassed by his arms (_bhuja-saṃvṛtam_), resembling a headless trunk (_kabandham iva_) by his bodily configuration (_saṃsthānāt_), and most dreadful in appearance (_atighora-pradarśanam_).
 </details>
 </details>
 
@@ -1739,7 +1739,7 @@ distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stretching forth (prasārya) his two vast arms to the utmost (atyartham), that long-armed monster (mahā-bāhuḥ) seized (jagrāha) both Rāghavas together (sahitāv eva), crushing them by force (pīḍayan balāt).
+Stretching forth (_prasārya_) his two vast arms to the utmost (_atyartham_), that long-armed monster (_mahā-bāhuḥ_) seized (_jagrāha_) both Rāghavas together (_sahitāv eva_), crushing them by force (_pīḍayan balāt_).
 </details>
 </details>
 
@@ -1790,7 +1790,7 @@ had to yield themselves to that demon when he captured and dragged them. [3-69-3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Armed with swords (khaḍginau), wielding firm bows (dṛḍha-dhanvānau), of fiery energy (tigma-tejau) and mighty arms, the two powerful brothers fell into helplessness (vivaśaṃ prāptau) as they were dragged (kṛṣyamāṇau) along.
+Armed with swords (_khaḍginau_), wielding firm bows (_dṛḍha-dhanvānau_), of fiery energy (_tigma-tejau_) and mighty arms, the two powerful brothers fell into helplessness (_vivaśaṃ prāptau_) as they were dragged (_kṛṣyamāṇau_) along.
 </details>
 </details>
 
@@ -1868,7 +1868,7 @@ if that comes to that.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that plight (tatra), out of steadfastness (dhairyāc ca), the heroic Rāghava did not waver at all (naiva vivyathe); but out of youthfulness (bālyāt) and lack of refuge (anāśrayāc caiva), Lakṣmaṇa was deeply distressed (abhivivyathe).
+In that plight (_tatra_), out of steadfastness (_dhairyāc ca_), the heroic Rāghava did not waver at all (_naiva vivyathe_); but out of youthfulness (_bālyāt_) and lack of refuge (_anāśrayāc caiva_), Lakṣmaṇa was deeply distressed (_abhivivyathe_).
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ demon... oh, Raghava, you leave me and get yourself released from the grip of th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And dejected (viṣaṇṇaḥ san), the younger brother of Rāghava (rāghavānujaḥ) spoke to Rāghava: “Behold me helpless (vivaśam), O hero, fallen into the power of the rākṣasa (rākṣasasya vaśaṃ-gatam)!
+And dejected (_viṣaṇṇaḥ san_), the younger brother of Rāghava (_rāghavānujaḥ_) spoke to Rāghava: “Behold me helpless (_vivaśam_), O hero, fallen into the power of the _rākṣasa_ (_rākṣasasya vaśaṃ-gatam_)!
 </details>
 </details>
 
@@ -1977,7 +1977,7 @@ reach Vaidehi shortly... this is my belief... [3-69-39b, 40a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Freed (parimucyasva) by means of me alone (mayaikena) [offered up as a ransom] (niryuktaḥ), O Rāghava—giving me over as a sacrificial offering to this creature (bhūta-baliṃ dattvā), escape at your ease (palāyasva yathā-sukham)!
+“Freed (_parimucyasva_) by means of me alone (_mayaikena_) [offered up as a ransom] (_niryuktaḥ_), O Rāghava—giving me over as a sacrificial offering to this creature (_bhūta-baliṃ dattvā_), escape at your ease (_palāyasva yathā-sukham_)!
 </details>
 </details>
 
@@ -2032,7 +2032,7 @@ it will be apt of you to reminisce me always..." So said Lakshmana to Rama. [3-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You will recover (adhigantāsi) Vaidehī before long (acireṇa)—such is my conviction (matiḥ); and having regained (pratilabhya), O Kākutstha, the earth inherited from your father and forefathers (pitṛ-paitāmahīṃ mahīm)—
+“You will recover (_adhigantāsi_) Vaidehī before long (_acireṇa_)—such is my conviction (_matiḥ_); and having regained (_pratilabhya_), O Kākutstha, the earth inherited from your father and forefathers (_pitṛ-paitāmahīṃ mahīm_)—
 </details>
 </details>
 
@@ -2085,7 +2085,7 @@ your king of persons will not get dismayed, futilely... [3-69-41b, 42a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Established in your sovereignty there (tatra rājya-sthaḥ), O Rāma, deign to remember me always (smartum arhasi sarvadā).” Thus addressed by Lakṣmaṇa, Rāma spoke to the son of Sumitrā:
+“Established in your sovereignty there (_tatra rājya-sthaḥ_), O Rāma, deign to remember me always (_smartum arhasi sarvadā_).” Thus addressed by Lakṣmaṇa, Rāma spoke to the son of Sumitrā:
 </details>
 </details>
 
@@ -2148,7 +2148,7 @@ Rama and Lakshmana. [3-69-42b, 43a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yield not to fear in vain (mā sma trāsaṃ vṛthā), O hero; one like you (tvādṛk) never despairs (na hi viṣīdati)!” Meanwhile (etasminn antare), the cruel one [addressed] the two brothers Rāma and Lakṣmaṇa—
+“Yield not to fear in vain (_mā sma trāsaṃ vṛthā_), O hero; one like you (_tvādṛk_) never despairs (_na hi viṣīdati_)!” Meanwhile (_etasminn antare_), the cruel one [addressed] the two brothers Rāma and Lakṣmaṇa—
 </details>
 </details>
 
@@ -2229,9 +2229,9 @@ here and painfully ravenous... [3-69-44b, 45a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** Long-armed Kabandha, foremost of Dānavas (dānavottamaḥ), spoke to those two: “Who are you two (kau yuvām), bull-shouldered (vṛṣabha-skandhau) and wielding great swords and bows (mahā-khaḍga-dhanur-dharau),
+**43:** Long-armed Kabandha, foremost of Dānavas (_dānavottamaḥ_), spoke to those two: “Who are you two (_kau yuvām_), bull-shouldered (_vṛṣabha-skandhau_) and wielding great swords and bows (_mahā-khaḍga-dhanur-dharau_),
 
-**44:** “Who have reached this dreadful region (ghoraṃ deśam imam) and by fate (daivena) have come within range of my sight (mama cākṣuṣau)? Declare your business here (kāryam iha vām), and why you two have come!
+**44:** “Who have reached this dreadful region (_ghoraṃ deśam imam_) and by fate (_daivena_) have come within range of my sight (_mama cākṣuṣau_)? Declare your business here (_kāryam iha vām_), and why you two have come!
 </details>
 </details>
 
@@ -2291,7 +2291,7 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You two have arrived at this spot where I stand tormented by hunger (kṣudhārtasyeha tiṣṭhataḥ), with arrows, bows, and swords (sabāṇa-cāpa-khaḍgau), like two bulls with sharp horns (tīkṣṇa-śṛṅgāv ivarṣabhau).
+“You two have arrived at this spot where I stand tormented by hunger (_kṣudhārtasyeha tiṣṭhataḥ_), with arrows, bows, and swords (_sabāṇa-cāpa-khaḍgau_), like two bulls with sharp horns (_tīkṣṇa-śṛṅgāv ivarṣabhau_).
 </details>
 </details>
 
@@ -2374,9 +2374,9 @@ across that ladylove, this disastrous despair of ending our lives is coming abou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**46:** “Having swiftly fallen into my grasp (māṃ tūrṇam anusamprāptau), life is indeed hard for you two to preserve (durlabhaṃ jīvitaṃ hi vām)!” Hearing those words of the evil-minded Kabandha (kabandhasya durātmanaḥ)—
+**46:** “Having swiftly fallen into my grasp (_māṃ tūrṇam anusamprāptau_), life is indeed hard for you two to preserve (_durlabhaṃ jīvitaṃ hi vām_)!” Hearing those words of the evil-minded Kabandha (_kabandhasya durātmanaḥ_)—
 
-**47:** With his mouth parched (mukhena pariśuṣyatā), Rāma spoke to Lakṣmaṇa: “Having passed from one affliction (kṛcchrāt) to a yet more dreadful affliction (kṛcchrataraṃ dāruṇam), O hero of unfailing valour (satya-vikrama)—
+**47:** With his mouth parched (_mukhena pariśuṣyatā_), Rāma spoke to Lakṣmaṇa: “Having passed from one affliction (_kṛcchrāt_) to a yet more dreadful affliction (_kṛcchrataraṃ dāruṇam_), O hero of unfailing valour (_satya-vikrama_)—
 </details>
 </details>
 
@@ -2429,9 +2429,9 @@ even though we assert ourselves to be brave and best... [3-69-48b, 49a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**48:** “Without having recovered that beloved lady (aprāpya tāṃ priyām), this calamity (vyasanam) has befallen us to end our lives (jīvitāntāya). Vast indeed is the power of Time (kālasya sumahad vīryam) over all beings, O Lakṣmaṇa!
+**48:** “Without having recovered that beloved lady (_aprāpya tāṃ priyām_), this calamity (_vyasanam_) has befallen us to end our lives (_jīvitāntāya_). Vast indeed is the power of Time (_kālasya sumahad vīryam_) over all beings, O Lakṣmaṇa!
 
-**49:** “Behold both yourself and me, O tiger among men (nara-vyāghra), confounded by calamities (vyasanaiḥ mohitau)! Nothing is a burden (na hi bhāro 'sti) for Destiny (daivasya) among all beings, O Lakṣmaṇa.
+**49:** “Behold both yourself and me, O tiger among men (_nara-vyāghra_), confounded by calamities (_vyasanaiḥ mohitau_)! Nothing is a burden (_na hi bhāro &#x27;sti_) for Destiny (_daivasya_) among all beings, O Lakṣmaṇa.
 </details>
 </details>
 
@@ -2487,7 +2487,7 @@ upanishat 6-6.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even the valiant (śūrāś ca), the mighty (balavantaś ca), and those accomplished in weaponry (kṛtāstrāś ca) on the battlefield (raṇājire), when overwhelmed by Time (kālābhipannāḥ), crumble (sīdanti) like bridges of sand (vāluka-setavaḥ).”
+“Even the valiant (_śūrāś ca_), the mighty (_balavantaś ca_), and those accomplished in weaponry (_kṛtāstrāś ca_) on the battlefield (_raṇājire_), when overwhelmed by Time (_kālābhipannāḥ_), crumble (_sīdanti_) like bridges of sand (_vāluka-setavaḥ_).”
 </details>
 </details>
 
@@ -2551,7 +2551,7 @@ Soumitri, then Rama readied himself by his own steadied thinking. [3-69-51]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, the glorious and puissant son of Daśaratha (dāśarathiḥ pratāpavān), of firm and unfailing valour (dṛḍha-satya-vikramaḥ) and exalted prowess (udagra-vikramaḥ), looked upon the son of Sumitrā and by his own self-command (ātmanā) made his resolve steadfast (sthirāṃ svāṃ matim akarot).
+Speaking thus, the glorious and puissant son of Daśaratha (_dāśarathiḥ pratāpavān_), of firm and unfailing valour (_dṛḍha-satya-vikramaḥ_) and exalted prowess (_udagra-vikramaḥ_), looked upon the son of Sumitrā and by his own self-command (_ātmanā_) made his resolve steadfast (_sthirāṃ svāṃ matim akarot_).
 </details>
 </details>
 

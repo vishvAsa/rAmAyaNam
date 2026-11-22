@@ -86,7 +86,7 @@ the globe of earth in its entirety?" [4-46-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the monkey chiefs had departed (gateṣu vānarendreṣu), Rāma said to Sugrīva: “How do you know so thoroughly the entire circle of the earth (sarvaṃ maṇḍalaṃ bhuvaḥ)?”
+When the monkey chiefs had departed (_gateṣu vānarendreṣu_), Rāma said to Sugrīva: “How do you know so thoroughly the entire circle of the earth (_sarvaṃ maṇḍalaṃ bhuvaḥ_)?”
 </details>
 </details>
 
@@ -136,7 +136,7 @@ Then Sugreeva bowing down before Rama said, "I will narrate all vividly, and let
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva, his body bowed in humility (praṇatātmavān), spoke to Rāma: “Hear my words! I shall relate everything at length (vistareṇa).
+Then Sugrīva, his body bowed in humility (_praṇatātmavān_), spoke to Rāma: “Hear my words! I shall relate everything at length (_vistareṇa_).
 </details>
 </details>
 
@@ -218,9 +218,9 @@ Maayaavi and Dundubhi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “When Vālī drove back (pratikālayate) toward Mount Malaya the Dānava named Dundubhi, who wore the form of a buffalo (mahiṣākṛtim),
+**3:** “When Vālī drove back (_pratikālayate_) toward Mount Malaya the Dānava named Dundubhi, who wore the form of a buffalo (_mahiṣākṛtim_),
 
-**4:** “then the buffalo entered into a cavern of Malaya (malayasya guhāṃ prati); and Vālī too entered Malaya there with the desire of slaying him (taj-jighāṃsayā).
+**4:** “then the buffalo entered into a cavern of Malaya (_malayasya guhāṃ prati_); and Vālī too entered Malaya there with the desire of slaying him (_taj-jighāṃsayā_).
 </details>
 </details>
 
@@ -271,7 +271,7 @@ after one full year. [4-46-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Placed there at the entrance of the cavern, I stood humbly waiting (vinītavat); yet when a full year had passed (saṃvatsare gate), Vālī still did not come forth.
+“Placed there at the entrance of the cavern, I stood humbly waiting (_vinītavat_); yet when a full year had passed (_saṃvatsare gate_), Vālī still did not come forth.
 </details>
 </details>
 
@@ -323,7 +323,7 @@ loss of my brother agonised me. [4-46-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then at that time the cavern was filled (āpupūre) with a rushing torrent of blood (kṣataja-vegena); beholding that, I was struck with dismay and tormented by the poison of grief for my brother (śoka-viṣārditaḥ).
+“Then at that time the cavern was filled (_āpupūre_) with a rushing torrent of blood (_kṣataja-vegena_); beholding that, I was struck with dismay and tormented by the poison of grief for my brother (_śoka-viṣārditaḥ_).
 </details>
 </details>
 
@@ -387,7 +387,7 @@ within that cave itself. [4-46-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having reached the conviction (gata-buddhiḥ): `My elder brother (guruḥ) has clearly been slain!' I placed a crag resembling a mountain at the entrance of the cavern,
+“Then, having reached the conviction (_gata-buddhiḥ_): `My elder brother (_guruḥ_) has clearly been slain!&#x27; I placed a crag resembling a mountain at the entrance of the cavern,
 </details>
 </details>
 
@@ -418,7 +418,7 @@ within that cave itself. [4-46-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[thinking:] `Unable to come forth (aśaknuvan niṣkramitum), the buffalo will perish (vinaśiṣyati)!' Despairing of Vālī's life (nirāśas tasya jīvite), I then returned to Kiṣkindhā.
+“[thinking:] `Unable to come forth (_aśaknuvan niṣkramitum_), the buffalo will perish (_vinaśiṣyati_)!&#x27; Despairing of Vālī&#x27;s life (_nirāśas tasya jīvite_), I then returned to Kiṣkindhā.
 </details>
 </details>
 
@@ -465,7 +465,7 @@ and also Ruma along with Tara, I was peaceably staying there with friends. [4-46
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained the vast kingdom and Tārā along with Rumā, I dwelt (vasāmi) there free of feverish anxiety (vigata-jvaraḥ), surrounded by my friends.
+“Having obtained the vast kingdom and Tārā along with Rumā, I dwelt (_vasāmi_) there free of feverish anxiety (_vigata-jvaraḥ_), surrounded by my friends.
 </details>
 </details>
 
@@ -516,7 +516,7 @@ me, and I gave back the kingdom to Vali owing to my deference to him. [4-46-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then that bull among monkeys, Vālī, returned after slaying that demon; thereupon, out of reverence (gauravāt) and constrained by fear (bhaya-yantritaḥ), I surrendered the kingdom.
+“Then that bull among monkeys, Vālī, returned after slaying that demon; thereupon, out of reverence (_gauravāt_) and constrained by fear (_bhaya-yantritaḥ_), I surrendered the kingdom.
 </details>
 </details>
 
@@ -567,7 +567,7 @@ even though I was running away from him with my ministers, as he wished to kill 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet that wicked-souled Vālī, his senses sorely agitated (pravyathitendriyaḥ) and desiring to slay me (māṃ jighāṃsuḥ), chased me as I fled together with my ministers (sacivaiḥ saha).
+“Yet that wicked-souled Vālī, his senses sorely agitated (_pravyathitendriyaḥ_) and desiring to slay me (_māṃ jighāṃsuḥ_), chased me as I fled together with my ministers (_sacivaiḥ saha_).
 </details>
 </details>
 
@@ -654,9 +654,9 @@ the mirror, called my perception. [4-46-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Pursued (anubaddhaḥ) by that Vālī, I ran headlong (pradhāvitaḥ), beholding manifold rivers, forests, and cities.
+**12:** “Pursued (_anubaddhaḥ_) by that Vālī, I ran headlong (_pradhāvitaḥ_), beholding manifold rivers, forests, and cities.
 
-**13:** “Then indeed the earth was beheld by me as resembling the surface of a mirror (ādarśa-tala-saṃkāśā) and the circle of a whirling firebrand (alāta-cakra-pratimā), and was made by me like a cow's hoofprint (goṣpadavat kṛtā).
+**13:** “Then indeed the earth was beheld by me as resembling the surface of a mirror (_ādarśa-tala-saṃkāśā_) and the circle of a whirling firebrand (_alāta-cakra-pratimā_), and was made by me like a cow&#x27;s hoofprint (_goṣpadavat kṛtā_).
 </details>
 </details>
 
@@ -710,7 +710,7 @@ ca* = numerous, lakes, also; *pashyaami* = I saw.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having gone then to the eastern quarter (pūrvāṃ diśam), I beheld manifold trees, lovely mountains with caverns (parvatān sa-darīn), and diverse lakes.
+“Having gone then to the eastern quarter (_pūrvāṃ diśam_), I beheld manifold trees, lovely mountains with caverns (_parvatān sa-darīn_), and diverse lakes.
 </details>
 </details>
 
@@ -761,7 +761,7 @@ Water Oceans which is forever an abode for apsara-s. [4-46-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There I beheld Mount Udaya decked with mineral ores (dhātu-maṇḍitam), and the Milk Ocean (kṣīrodaṃ sāgaram), the perpetual abode of the Apsarases (nityam apsarasālayam).
+“There I beheld Mount Udaya decked with mineral ores (_dhātu-maṇḍitam_), and the Milk Ocean (_kṣīrodaṃ sāgaram_), the perpetual abode of the Apsarases (_nityam apsarasālayam_).
 </details>
 </details>
 
@@ -816,7 +816,7 @@ travel - chased to flee.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Driven onward (parikālyamānaḥ) and closely pursued by Vālī at that time, O lord, I wheeled round (punar āvṛtya) and straightway sped forth again.
+“Driven onward (_parikālyamānaḥ_) and closely pursued by Vālī at that time, O lord, I wheeled round (_punar āvṛtya_) and straightway sped forth again.
 </details>
 </details>
 
@@ -867,7 +867,7 @@ diverse trees, especially with sandalwood trees. [4-46-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Turning away from that quarter, I next set forth toward the southern quarter, crowded with Vindhya trees (vindhya-pādapa-saṃkīrṇām) and graced with sandalwood forests.
+“Turning away from that quarter, I next set forth toward the southern quarter, crowded with Vindhya trees (_vindhya-pādapa-saṃkīrṇām_) and graced with sandalwood forests.
 </details>
 </details>
 
@@ -922,7 +922,7 @@ me from within the interiors of those forests and mountains, and then I reached 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding Vālī again behind me (aparam) amid the trees and mountains in the south, and closely pursued by Vālī, I reached the western quarter (aparāṃ diśam).
+“Beholding Vālī again behind me (_aparam_) amid the trees and mountains in the south, and closely pursued by Vālī, I reached the western quarter (_aparāṃ diśam_).
 </details>
 </details>
 
@@ -982,7 +982,7 @@ Dusk also, and since Vali is at my heel, I took to my heels, by a long way to no
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding manifold lands and that best of mountains, Asta, and having reached Mount Asta, foremost of peaks, I sped onward toward the north (uttaraṃ sampradhāvitaḥ),
+“Beholding manifold lands and that best of mountains, Asta, and having reached Mount Asta, foremost of peaks, I sped onward toward the north (_uttaraṃ sampradhāvitaḥ_),
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ said a word to me. [4-46-20, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[beholding] Himavān, Meru, and the northern ocean as well (samudraṃ ca tathottaram). When, closely pursued by Vālī, I could find no refuge (na vinde śaraṇam),
+“[beholding] Himavān, Meru, and the northern ocean as well (_samudraṃ ca tathottaram_). When, closely pursued by Vālī, I could find no refuge (_na vinde śaraṇam_),
 </details>
 </details>
 
@@ -1106,9 +1106,9 @@ in sage Matanga's hermitage will be peaceful and imperturbable for us.' Thus Han
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “then Hanūmān, endowed with wisdom (buddhi-sampannaḥ), spoke these words to me: `O king, I have just now remembered (idānīṃ me smṛtam) how Vālī, lord of monkeys,
+**21:** “then Hanūmān, endowed with wisdom (_buddhi-sampannaḥ_), spoke these words to me: `O king, I have just now remembered (_idānīṃ me smṛtam_) how Vālī, lord of monkeys,
 
-**22:** “`was formerly cursed by Mataṅga (mataṅgena tadā śaptaḥ) regarding this hermitage precinct (āśrama-maṇḍale): should Vālī enter here, his head would split into a hundred pieces (śatadhā bhavet)!
+**22:** “`was formerly cursed by Mataṅga (_mataṅgena tadā śaptaḥ_) regarding this hermitage precinct (_āśrama-maṇḍale_): should Vālī enter here, his head would split into a hundred pieces (_śatadhā bhavet_)!
 </details>
 </details>
 
@@ -1145,7 +1145,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“`There our dwelling will be happy and free from alarm (nirudvignaḥ)!' Having then reached Mount Ṛṣyamūka, O prince,
+“`There our dwelling will be happy and free from alarm (_nirudvignaḥ_)!&#x27; Having then reached Mount Ṛṣyamūka, O prince,
 </details>
 </details>
 
@@ -1206,6 +1206,6 @@ its entirety, and then I came into the cave of Rishyamuka and did not stir out."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Vālī did not enter there at that time out of fear of Mataṅga. Thus, O king, the entire circle of the earth was beheld by me firsthand (pratyakṣam upalakṣitam), and thereafter I came to this cavern.”
+“Vālī did not enter there at that time out of fear of Mataṅga. Thus, O king, the entire circle of the earth was beheld by me firsthand (_pratyakṣam upalakṣitam_), and thereafter I came to this cavern.”
 </details>
 </details>

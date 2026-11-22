@@ -82,7 +82,7 @@ words to Seetha. [3-48-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Sītā had spoken thus (evaṃ bruvatyām), Rāvaṇa grew incensed (saṃrabdhaḥ); knitting a frown upon his brow (lalāṭe bhrukuṭiṃ kṛtvā), he replied with harsh words (paruṣaṃ vacaḥ pratyuvāca ha):
+When Sītā had spoken thus (_evaṃ bruvatyām_), Rāvaṇa grew incensed (_saṃrabdhaḥ_); knitting a frown upon his brow (_lalāṭe bhrukuṭiṃ kṛtvā_), he replied with harsh words (_paruṣaṃ vacaḥ pratyuvāca ha_):
 </details>
 </details>
 
@@ -137,7 +137,7 @@ ten-headed stepbrother of Kubera. [3-48-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the half-brother (bhrātā sāpatnaḥ) of Vaiśravaṇa [Kubera], O lady of fair complexion (vara-varṇini)—Rāvaṇa by name, bless you (bhadraṃ te), the valorous ten-necked one (daśagrīvaḥ pratāpavān)!
+“I am the half-brother (_bhrātā sāpatnaḥ_) of Vaiśravaṇa [Kubera], O lady of fair complexion (_vara-varṇini_)—Rāvaṇa by name, bless you (_bhadraṃ te_), the valorous ten-necked one (_daśagrīvaḥ pratāpavān_)!
 </details>
 </details>
 
@@ -215,9 +215,9 @@ from stepparent, wherein that Kubera is set up against and completely trounced i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** In dread of whom (yasya) the gods together with the gandharvas, piśācas, birds, and serpents (piśāca-patagoragāḥ) ever flee in terror (vidravanti sadā bhītāḥ), as creatures ever flee from Death (mṛtyor iva sadā prajāḥ)!
+**3:** In dread of whom (_yasya_) the gods together with the _gandharvas_, _piśācas_, birds, and serpents (_piśāca-patagoragāḥ_) ever flee in terror (_vidravanti sadā bhītāḥ_), as creatures ever flee from Death (_mṛtyor iva sadā prajāḥ_)!
 
-**4:** By whom my half-brother Vaiśravaṇa (vaiśravaṇo bhrātā vaimātraḥ), provoked to a duel (dvandvam āsāditaḥ) over a certain cause (kāraṇāntare), was vanquished in battle (raṇe nirjitaḥ) when I strode forth in wrath (krodhād vikramya)!
+**4:** By whom my half-brother Vaiśravaṇa (_vaiśravaṇo bhrātā vaimātraḥ_), provoked to a duel (_dvandvam āsāditaḥ_) over a certain cause (_kāraṇāntare_), was vanquished in battle (_raṇe nirjitaḥ_) when I strode forth in wrath (_krodhād vikramya_)!
 </details>
 </details>
 
@@ -272,7 +272,7 @@ he is somehow living, because I will not cause any harm on Mt. Kailash as I hold
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stricken with fear of me (mad-bhayārtaḥ) and abandoning his own opulent capital (svam adhiṣṭhānam ṛddhimat), that lord borne by men (nara-vāhanaḥ) now dwells upon Kailāsa, best of mountains (kailāsaṃ parvata-śreṣṭham adhyāste)!
+Stricken with fear of me (_mad-bhayārtaḥ_) and abandoning his own opulent capital (_svam adhiṣṭhānam ṛddhimat_), that lord borne by men (_nara-vāhanaḥ_) now dwells upon Kailāsa, best of mountains (_kailāsaṃ parvata-śreṣṭham adhyāste_)!
 </details>
 </details>
 
@@ -325,7 +325,7 @@ in skies. [3-48-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His was that auspicious aerial palace named Puṣpaka (puṣpakaṃ nāma vimānam), which courses at will (kāma-gam); wrested by my valor (vīryād āvarjitam), O fair lady (bhadre), it is that by which I traverse the sky (yena yāmi vihāyasam)!
+His was that auspicious aerial palace named Puṣpaka (_puṣpakaṃ nāma vimānam_), which courses at will (_kāma-gam_); wrested by my valor (_vīryād āvarjitam_), O fair lady (_bhadre_), it is that by which I traverse the sky (_yena yāmi vihāyasam_)!
 </details>
 </details>
 
@@ -385,7 +385,7 @@ Indra is leading them, then where is the question of their confronting me. [3-48
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Merely upon seeing my face when my wrath is aroused (mama saṃjāta-roṣasya mukhaṃ dṛṣṭvaiva), O Maithilī, the gods headed by Śakra (surāḥ śakra-purogamāḥ) flee in utter terror (vidravanti paritrastāḥ)!
+“Merely upon seeing my face when my wrath is aroused (_mama saṃjāta-roṣasya mukhaṃ dṛṣṭvaiva_), O Maithilī, the gods headed by Śakra (_surāḥ śakra-purogamāḥ_) flee in utter terror (_vidravanti paritrastāḥ_)!
 </details>
 </details>
 
@@ -441,7 +441,7 @@ Prabha, the Sunshine. [3-48-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wherever I stand (yatra tiṣṭhāmy aham), there the wind blows timidly (māruto vāti śaṅkitaḥ); and in the sky, out of fear (bhayāt), the fierce-rayed sun (tīvrāṃśuḥ) turns cool-rayed like the moon (śiśirāṃśuḥ sampadyate)!
+Wherever I stand (_yatra tiṣṭhāmy aham_), there the wind blows timidly (_māruto vāti śaṅkitaḥ_); and in the sky, out of fear (_bhayāt_), the fierce-rayed sun (_tīvrāṃśuḥ_) turns cool-rayed like the moon (_śiśirāṃśuḥ sampadyate_)!
 </details>
 </details>
 
@@ -497,7 +497,7 @@ up. [3-48-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The trees become motionless of leaf (niṣkampa-patrās taravaḥ) and the rivers still of water (nadyaś ca stimitodakāḥ) wherever I stand and wherever I roam (yatra tatrāhaṃ tiṣṭhāmi ca carāmi ca)!
+The trees become motionless of leaf (_niṣkampa-patrās taravaḥ_) and the rivers still of water (_nadyaś ca stimitodakāḥ_) wherever I stand and wherever I roam (_yatra tatrāhaṃ tiṣṭhāmi ca carāmi ca_)!
 </details>
 </details>
 
@@ -550,7 +550,7 @@ for meekly gods and meaningless souls. [3-48-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beyond the ocean (pāre samudrasya) stands my resplendent city named Laṅkā (laṅkā nāma purī śubhā), thronged with dreadful rākṣasas (sampūrṇā rākṣasair ghoraiḥ), like Indra's Amarāvatī!
+Beyond the ocean (_pāre samudrasya_) stands my resplendent city named Laṅkā (_laṅkā nāma purī śubhā_), thronged with dreadful _rākṣasas_ (_sampūrṇā rākṣasair ghoraiḥ_), like Indra&#x27;s Amarāvatī!
 </details>
 </details>
 
@@ -598,7 +598,7 @@ and its palace-chambers are golden, and its archways are fully jewelled with lap
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encircled and graced by a gleaming white rampart (prākāreṇa parikṣiptā pāṇḍureṇa virājitā), that lovely city has inner courts of gold (hema-kakṣyā) and arched gateways of cat's-eye gem (vaidūrya-maya-toraṇā)—
+Encircled and graced by a gleaming white rampart (_prākāreṇa parikṣiptā pāṇḍureṇa virājitā_), that lovely city has inner courts of gold (_hema-kakṣyā_) and arched gateways of cat&#x27;s-eye gem (_vaidūrya-maya-toraṇā_)—
 </details>
 </details>
 
@@ -654,7 +654,7 @@ trees which yield fruits that fulfil all the savours, and it is bedecked with ch
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—crowded with elephants, horses, and chariots (hasty-aśva-ratha-sambādhā), resounding with the music of instruments (tūrya-nāda-vināditā), and adorned with dense pleasure-gardens (saṃkulodyāna-bhūṣitā) of trees bearing every desired fruit (sarva-kāma-phalair vṛkṣaiḥ)!
+—crowded with elephants, horses, and chariots (_hasty-aśva-ratha-sambādhā_), resounding with the music of instruments (_tūrya-nāda-vināditā_), and adorned with dense pleasure-gardens (_saṃkulodyāna-bhūṣitā_) of trees bearing every desired fruit (_sarva-kāma-phalair vṛkṣaiḥ_)!
 </details>
 </details>
 
@@ -714,7 +714,7 @@ expressions of addressing.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Dwell there with me (tatra tvaṃ vasa mayā saha), O Sītā, O princess (rāja-putri); you will not even remember mortal women (na smariṣyasi nārīṇāṃ mānuṣīṇām), O high-minded lady (manasvini)!
+“Dwell there with me (_tatra tvaṃ vasa mayā saha_), O Sītā, O princess (_rāja-putri_); you will not even remember mortal women (_na smariṣyasi nārīṇāṃ mānuṣīṇām_), O high-minded lady (_manasvini_)!
 </details>
 </details>
 
@@ -803,7 +803,7 @@ demon-hood...' Maheshvara Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enjoying both human and celestial pleasures (bhuñjānā mānuṣān bhogān divyāṃś ca), O lady of fair complexion (vara-varṇini), you will no longer remember Rāma, a mortal whose life is spent (mānuṣasya gatāyuṣaḥ)!
+Enjoying both human and celestial pleasures (_bhuñjānā mānuṣān bhogān divyāṃś ca_), O lady of fair complexion (_vara-varṇini_), you will no longer remember Rāma, a mortal whose life is spent (_mānuṣasya gatāyuṣaḥ_)!
 </details>
 </details>
 
@@ -924,9 +924,9 @@ him...' Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Having established his beloved son [Bharata] upon the throne (sthāpayitvā priyaṃ putraṃ rājye), King Daśaratha (daśaratho nṛpaḥ) sent forth his eldest son into the forest (jyeṣṭhaḥ sutaḥ prasthāpito vanam) because he was weak in valor (manda-vīryaḥ)!
+**15:** Having established his beloved son [Bharata] upon the throne (_sthāpayitvā priyaṃ putraṃ rājye_), King Daśaratha (_daśaratho nṛpaḥ_) sent forth his eldest son into the forest (_jyeṣṭhaḥ sutaḥ prasthāpito vanam_) because he was weak in valor (_manda-vīryaḥ_)!
 
-**16:** What will you do (kiṃ kariṣyasi), O wide-eyed lady (viśālākṣi), with that Rāma—fallen from his kingdom (bhraṣṭa-rājyena), bereft of spirit (gata-cetasā), a wretched ascetic (tāpasena tapasvinā)?
+**16:** What will you do (_kiṃ kariṣyasi_), O wide-eyed lady (_viśālākṣi_), with that Rāma—fallen from his kingdom (_bhraṣṭa-rājyena_), bereft of spirit (_gata-cetasā_), a wretched ascetic (_tāpasena tapasvinā_)?
 </details>
 </details>
 
@@ -998,7 +998,7 @@ thinking of me and speaking to me, is unapt of you in the right your mind...' Ma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Save the lord of the rākṣasas (rakṣa rākṣasa-bhartāram); love me who have come of my own accord (kāmaya svayam āgatam)! You ought not to spurn me (na pratyākhyātuṃ tvam arhasi) when I am pierced by the arrows of Manmatha (manmatha-śarāviṣṭam)!
+Save the lord of the _rākṣasas_ (_rakṣa rākṣasa-bhartāram_); love me who have come of my own accord (_kāmaya svayam āgatam_)! You ought not to spurn me (_na pratyākhyātuṃ tvam arhasi_) when I am pierced by the arrows of Manmatha (_manmatha-śarāviṣṭam_)!
 </details>
 </details>
 
@@ -1063,7 +1063,7 @@ Uurvashi is a beauty of higher order. Kalidasa took this as his subject for his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For if you spurn me (pratyākhyāya hi mām), O timid one (bhīru), you shall fall into remorse (paścāttāpaṃ gamiṣyasi), like Urvaśī after kicking Purūravas with her foot (caraṇenābhihatyeva purūravasam urvaśī)!
+For if you spurn me (_pratyākhyāya hi mām_), O timid one (_bhīru_), you shall fall into remorse (_paścāttāpaṃ gamiṣyasi_), like Urvaśī after kicking Purūravas with her foot (_caraṇenābhihatyeva purūravasam urvaśī_)!
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ Rama in high honour... for all this to happen first you come with me..." Maheshv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That mortal Rāma (sa mānuṣaḥ) is not equal in battle to a single finger of mine (aṅgulyā na samo rāmo mama yuddhe); accept me (bhajasva), who have come here through your good fortune (tava bhāgyena samprāptam), O lady of fair complexion!”
+“That mortal Rāma (_sa mānuṣaḥ_) is not equal in battle to a single finger of mine (_aṅgulyā na samo rāmo mama yuddhe_); accept me (_bhajasva_), who have come here through your good fortune (_tava bhāgyena samprāptam_), O lady of fair complexion!”
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ discussion is there in endnote.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, Vaidehī grew furious (kruddhā); with her eyes suffused with red (saṃrakta-locanā), she spoke harsh words (abravīt paruṣaṃ vākyam) to the lord of the rākṣasas in that solitary place (rahite):
+Addressed thus, Vaidehī grew furious (_kruddhā_); with her eyes suffused with red (_saṃrakta-locanā_), she spoke harsh words (_abravīt paruṣaṃ vākyam_) to the lord of the _rākṣasas_ in that solitary place (_rahite_):
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ brother? [3-48-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How can you, after claiming as your brother (bhrātaraṃ vyapadiśya) the god Vaiśravaṇa, who is revered by all the gods (sarva-deva-namaskṛtam), wish to commit such an evil deed (aśubhaṃ kartum icchasi)?
+“How can you, after claiming as your brother (_bhrātaraṃ vyapadiśya_) the god Vaiśravaṇa, who is revered by all the gods (_sarva-deva-namaskṛtam_), wish to commit such an evil deed (_aśubhaṃ kartum icchasi_)?
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ demons like Vibheeshana, et al. [3-48-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely all the rākṣasas shall perish (avaśyaṃ vinaśiṣyanti sarve rākṣasāḥ), O Rāvaṇa, whose king is you—ruthless (karkaśaḥ), evil-minded (durbuddhiḥ), and uncontrolled in your senses (ajitendriyaḥ)!
+Surely all the _rākṣasas_ shall perish (_avaśyaṃ vinaśiṣyanti sarve rākṣasāḥ_), O Rāvaṇa, whose king is you—ruthless (_karkaśaḥ_), evil-minded (_durbuddhiḥ_), and uncontrolled in your senses (_ajitendriyaḥ_)!
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ will be no liveability after abducting me, the wife of Rama. [3-48-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having abducted Śacī, the wife of Indra (apahṛtya śacīṃ bhāryām indrasya), one might possibly survive (śakyaṃ jīvitum); but no one who carries off me, the wife of Rāma (rāmasya bhāryāṃ mām ānīya), could ever remain safe (na hi svastimān bhavet)!
+Having abducted Śacī, the wife of Indra (_apahṛtya śacīṃ bhāryām indrasya_), one might possibly survive (_śakyaṃ jīvitum_); but no one who carries off me, the wife of Rāma (_rāmasya bhāryāṃ mām ānīya_), could ever remain safe (_na hi svastimān bhavet_)!
 </details>
 </details>
 
@@ -1450,7 +1450,7 @@ unwise state of yours will never attain *moksha...'* Rama Tilaka Commentary.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One might even live long (jīvec ciram) after violating Śacī of peerless beauty (apratirūpa-rūpām) behind the back of the Thunderbolt-wielder (vajra-dharasya paścāt); but having violated a woman like me (na mādṛśīṃ dharṣayitvā), O rākṣasa, there is no escape for you (na tavāsti mokṣaḥ), even if you had drunk ambrosia (pītāmṛtasyāpi)!”
+One might even live long (_jīvec ciram_) after violating Śacī of peerless beauty (_apratirūpa-rūpām_) behind the back of the Thunderbolt-wielder (_vajra-dharasya paścāt_); but having violated a woman like me (_na mādṛśīṃ dharṣayitvā_), O _rākṣasa_, there is no escape for you (_na tavāsti mokṣaḥ_), even if you had drunk ambrosia (_pītāmṛtasyāpi_)!”
 </details>
 </details>
 

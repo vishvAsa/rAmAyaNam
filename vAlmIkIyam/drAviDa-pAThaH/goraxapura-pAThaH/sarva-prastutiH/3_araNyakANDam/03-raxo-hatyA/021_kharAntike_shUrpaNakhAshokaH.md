@@ -81,7 +81,7 @@ before, Khara spoke this sentence to her in clear terms in all his fury. [3-21-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Śūrpaṇakhā fallen once more, he [Khara] again spoke in wrath with a clear voice (vyaktayā vācā) to her who had returned to bring about calamity (anarthārtham āgatām):
+Beholding Śūrpaṇakhā fallen once more, he [Khara] again spoke in wrath with a clear voice (_vyaktayā vācā_) to her who had returned to bring about calamity (_anarthārtham āgatām_):
 </details>
 </details>
 
@@ -137,7 +137,7 @@ order to fulfill your wish? [3-21-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Have not those valiant, flesh-eating (piśitāśanāḥ) rākṣasas just now been dispatched by me for the sake of pleasing you (tvat-priyārtham)? Why then do you weep again (rudyate punaḥ)?
+“Have not those valiant, flesh-eating (_piśitāśanāḥ_) _rākṣasas_ just now been dispatched by me for the sake of pleasing you (_tvat-priyārtham_)? Why then do you weep again (_rudyate punaḥ_)?
 </details>
 </details>
 
@@ -189,7 +189,7 @@ question of their non-accomplishment of my orders. [3-21-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They are ever devoted (bhaktāḥ), loyally attached (anuraktāḥ), and dedicated to my welfare (hitāḥ); even when struck, they cannot be slain (hanyamānā na hanyante), nor would they ever fail to execute my command (na na kuryur vaco mama).
+They are ever devoted (_bhaktāḥ_), loyally attached (_anuraktāḥ_), and dedicated to my welfare (_hitāḥ_); even when struck, they cannot be slain (_hanyamānā na hanyante_), nor would they ever fail to execute my command (_na na kuryur vaco mama_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ I would like to know the reason for all this, what is it? [3-21-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What is this? I wish to hear the reason on account of which (yat-kṛte) you again writhe upon the ground like a serpent (sarpavac ceṣṭase kṣitau), crying out, ‘Alas, O lord (hā nātheti)!’
+What is this? I wish to hear the reason on account of which (_yat-kṛte_) you again writhe upon the ground like a serpent (_sarpavac ceṣṭase kṣitau_), crying out, ‘Alas, O lord (_hā nātheti_)!’
 </details>
 </details>
 
@@ -298,7 +298,7 @@ up, and ward off this sort of perplexity." Thus Khara said to Shuurpanakha. [3-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why indeed do you lament like one without a protector (anāthavat) while I, your lord, stand here (nāthe mayi sthite)? Arise, arise! Do not, do not act thus (mā maivam); let this despondency be cast aside (vaiklavyaṃ tyajyatām)!”
+Why indeed do you lament like one without a protector (_anāthavat_) while I, your lord, stand here (_nāthe mayi sthite_)? Arise, arise! Do not, do not act thus (_mā maivam_); let this despondency be cast aside (_vaiklavyaṃ tyajyatām_)!”
 </details>
 </details>
 
@@ -350,7 +350,7 @@ thus that way, and she on dabbing her tearful eyes then spoke to her brother Kha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed in this manner and consoled (parisāntvitā) by Khara, the intractable (durdharṣā) [demoness] wiped her tear-filled eyes (nayane sāsre) and spoke to her brother Khara:
+Addressed in this manner and consoled (_parisāntvitā_) by Khara, the intractable (_durdharṣā_) [demoness] wiped her tear-filled eyes (_nayane sāsre_) and spoke to her brother Khara:
 </details>
 </details>
 
@@ -410,7 +410,7 @@ you too have comforted me, isn't it. [3-21-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just now I came [to you] with my ears and nose mutilated (hata-śravaṇa-nāsikā), drenched in a flood of blood (śoṇitaugha-pariklinnā), and was consoled by you (tvayā ca parisāntvitā).
+“Just now I came [to you] with my ears and nose mutilated (_hata-śravaṇa-nāsikā_), drenched in a flood of blood (_śoṇitaugha-pariklinnā_), and was consoled by you (_tvayā ca parisāntvitā_).
 </details>
 </details>
 
@@ -483,9 +483,9 @@ Rama by his arrows that cleave the crucial parts of his opponents. [3-21-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** And those fourteen valiant rākṣasas were dispatched by you to slay the dreadful Rāghava together with Lakṣmaṇa (salakṣmaṇam) for the sake of pleasing me (mat-priyārtham).
+**8:** And those fourteen valiant _rākṣasas_ were dispatched by you to slay the dreadful Rāghava together with Lakṣmaṇa (_salakṣmaṇam_) for the sake of pleasing me (_mat-priyārtham_).
 
-**9:** Yet all of them, full of wrath (sāmarṣāḥ) and bearing pikes and sharp-edged spears in their hands (śūla-paṭṭiśa-pāṇayaḥ), have been slain in battle (samare nihatāḥ) by Rāma with arrows that cleave the vital organs (sāyakair marma-bhedibhiḥ).
+**9:** Yet all of them, full of wrath (_sāmarṣāḥ_) and bearing pikes and sharp-edged spears in their hands (_śūla-paṭṭiśa-pāṇayaḥ_), have been slain in battle (_samare nihatāḥ_) by Rāma with arrows that cleave the vital organs (_sāyakair marma-bhedibhiḥ_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ deed of Rama in felling them, I am highly alarmed. [3-21-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those [warriors] of mighty speed (mahā-javān) fallen upon the ground in a mere instant (kṣaṇenaiva), and [witnessing] the mighty feat of Rāma (rāmasya ca mahat karma), a great terror arose in me (mahāṃs trāso 'bhavan mama).
+Beholding those [warriors] of mighty speed (_mahā-javān_) fallen upon the ground in a mere instant (_kṣaṇenaiva_), and [witnessing] the mighty feat of Rāma (_rāmasya ca mahat karma_), a great terror arose in me (_mahāṃs trāso &#x27;bhavan mama_).
 </details>
 </details>
 
@@ -589,7 +589,7 @@ everywhere again I have come seeking your refuge. [3-21-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Frightened, deeply agitated (samudvignā), and dejected (viṣaṇṇā), O night-roamer, I have come to you again for refuge (śaraṇaṃ tvāṃ punaḥ prāptā), beholding danger on every side (sarvato bhaya-darśinī).
+Frightened, deeply agitated (_samudvignā_), and dejected (_viṣaṇṇā_), O night-roamer, I have come to you again for refuge (_śaraṇaṃ tvāṃ punaḥ prāptā_), beholding danger on every side (_sarvato bhaya-darśinī_).
 </details>
 </details>
 
@@ -641,7 +641,7 @@ is despair and each swelling wave is fright. [3-21-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why do you not rescue me (kiṃ māṃ na trāyase), plunged as I am in a vast ocean of grief (vipule śoka-sāgare) inhabited by the crocodiles of despair (viṣāda-nakrādhyuṣite) and garlanded with the waves of terror (paritrāsormi-mālini)?
+Why do you not rescue me (_kiṃ māṃ na trāyase_), plunged as I am in a vast ocean of grief (_vipule śoka-sāgare_) inhabited by the crocodiles of despair (_viṣāda-nakrādhyuṣite_) and garlanded with the waves of terror (_paritrāsormi-mālini_)?
 </details>
 </details>
 
@@ -701,7 +701,7 @@ for whom I have a contrite heart. [3-21-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-These flesh-eating (piśitāśanāḥ) rākṣasas who followed in my footsteps (ye ca me padavīṃ prāptāḥ) have been struck down upon the ground by Rāma with sharp arrows (niśitaiḥ śaraiḥ).
+These flesh-eating (_piśitāśanāḥ_) _rākṣasas_ who followed in my footsteps (_ye ca me padavīṃ prāptāḥ_) have been struck down upon the ground by Rāma with sharp arrows (_niśitaiḥ śaraiḥ_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ in Dandaka forest. [3-21-14, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you have compassion (anukrośaḥ) for me and for those rākṣasas, O night-roamer, or if you possess the strength (śaktiḥ) or fiery energy (tejo vā) [to contend] with Rāma—
+If you have compassion (_anukrośaḥ_) for me and for those _rākṣasas_, O night-roamer, or if you possess the strength (_śaktiḥ_) or fiery energy (_tejo vā_) [to contend] with Rāma—
 </details>
 </details>
 
@@ -818,7 +818,7 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—then slay this thorn in the side of the rākṣasas (rākṣasa-kaṇṭakam) who dwells in the Daṇḍaka forest (daṇḍakāraṇya-nilayam)! If today you do not slay Rāma, the destroyer of foes (amitra-ghnam)—
+—then slay this thorn in the side of the _rākṣasas_ (_rākṣasa-kaṇṭakam_) who dwells in the Daṇḍaka forest (_daṇḍakāraṇya-nilayam_)! If today you do not slay Rāma, the destroyer of foes (_amitra-ghnam_)—
 </details>
 </details>
 
@@ -849,7 +849,7 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—I, freed from all shame (nirapatrapā), shall abandon my life-breaths right before your eyes (tava caivāgrataḥ)! By my judgment (buddhyā) I perceive that in battle (saṃyuge) with Rāma you [are] not—
+—I, freed from all shame (_nirapatrapā_), shall abandon my life-breaths right before your eyes (_tava caivāgrataḥ_)! By my judgment (_buddhyā_) I perceive that in battle (_saṃyuge_) with Rāma you [are] not—
 </details>
 </details>
 
@@ -912,9 +912,9 @@ just vainglorious. [3-21-16b, 17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** —able to stand face-to-face (sthātuṃ pratimukhe śaktaḥ) in great combat, even with your entire army (sabalo 'pi)! Fancying yourself a hero (śūra-mānī), you are no hero—one upon whom valor has been falsely attributed (mithyāropita-vikramaḥ).
+**17:** —able to stand face-to-face (_sthātuṃ pratimukhe śaktaḥ_) in great combat, even with your entire army (_sabalo &#x27;pi_)! Fancying yourself a hero (_śūra-mānī_), you are no hero—one upon whom valor has been falsely attributed (_mithyāropita-vikramaḥ_).
 
-**18:** Flee hastily (apayāhi tvaritaḥ) from Janasthāna along with your kinsmen (saha-bāndhavaḥ); or else (anyathā tu), O fool (mūḍha), O disgrace to our lineage (kula-pāṃsana), slay [them] in battle!
+**18:** Flee hastily (_apayāhi tvaritaḥ_) from Janasthāna along with your kinsmen (_saha-bāndhavaḥ_); or else (_anyathā tu_), O fool (_mūḍha_), O disgrace to our lineage (_kula-pāṃsana_), slay [them] in battle!
 </details>
 </details>
 
@@ -974,7 +974,7 @@ access to Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Since you are unable to slay those two mortals (mānuṣau tau), Rāma and Lakṣmaṇa, what sort of residence (vāsas te kīdṛśaḥ) can you have here, devoid of courage (niḥsattvasya) and of scanty valor (alpa-vīryasya)?
+Since you are unable to slay those two mortals (_mānuṣau tau_), Rāma and Lakṣmaṇa, what sort of residence (_vāsas te kīdṛśaḥ_) can you have here, devoid of courage (_niḥsattvasya_) and of scanty valor (_alpa-vīryasya_)?
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ son Rama possess that kind of resplendence, in effect. [3-21-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For, overwhelmed by Rāma's fiery splendour (rāma-tejo-'bhibhūtaḥ), you shall swiftly perish (kṣipraṃ vinaśiṣyasi)! For that Rāma, the son of Daśaratha, is endowed with supreme energy (tejaḥ-samāyuktaḥ);
+For, overwhelmed by Rāma&#x27;s fiery splendour (_rāma-tejo-&#x27;bhibhūtaḥ_), you shall swiftly perish (_kṣipraṃ vinaśiṣyasi_)! For that Rāma, the son of Daśaratha, is endowed with supreme energy (_tejaḥ-samāyuktaḥ_);
 </details>
 </details>
 
@@ -1105,9 +1105,9 @@ The name Khara also stands for a he-ass
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** and his brother, by whom I was disfigured (yena cāsmi virūpitā), is of mighty valor (mahā-vīryaḥ)!” Having lamented thus manifoldly (evaṃ vilapya bahuśaḥ), the rākṣasī with her deeply creased belly (pradarodarī)—
+**21:** and his brother, by whom I was disfigured (_yena cāsmi virūpitā_), is of mighty valor (_mahā-vīryaḥ_)!” Having lamented thus manifoldly (_evaṃ vilapya bahuśaḥ_), the _rākṣasī_ with her deeply creased belly (_pradarodarī_)—
 
-**22:** —became bereft of consciousness (naṣṭa-saṃjñā babhūva ha) beside her brother, stricken with grief (śokārtā); and beating her belly with both hands (karābhyām udaraṃ hatvā), she wept in sore distress (bhṛśa-duḥkhitā).
+**22:** —became bereft of consciousness (_naṣṭa-saṃjñā babhūva ha_) beside her brother, stricken with grief (_śokārtā_); and beating her belly with both hands (_karābhyām udaraṃ hatvā_), she wept in sore distress (_bhṛśa-duḥkhitā_).
 </details>
 </details>
 

@@ -48,7 +48,7 @@ As the bears, monkeys, and rākṣasas abide in Ayodhyā, the radiant Rāma bids
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those bears, monkeys, and rākṣasas were dwelling thus (tathā sma teṣāṃ vasatām), Rāghava of great splendor (mahātejāḥ) addressed these words to Sugrīva:
+While those bears, monkeys, and rākṣasas were dwelling thus (_tathā sma teṣāṃ vasatām_), Rāghava of great splendor (_mahātejāḥ_) addressed these words to Sugrīva:
 </details>
 </details>
 
@@ -79,7 +79,7 @@ While those bears, monkeys, and rākṣasas were dwelling thus (tathā sma teṣ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go, O gentle friend (saumya), to Kiṣkindhā, unassailable by gods and asuras alike (durādharṣāṃ surāsuraiḥ), and together with your ministers (sahāmātyaḥ) protect your kingdom cleared of all thorns (nihatakaṇṭakam).
+“Go, O gentle friend (_saumya_), to Kiṣkindhā, unassailable by gods and asuras alike (_durādharṣāṃ surāsuraiḥ_), and together with your ministers (_sahāmātyaḥ_) protect your kingdom cleared of all thorns (_nihatakaṇṭakam_).
 </details>
 </details>
 
@@ -122,13 +122,13 @@ While those bears, monkeys, and rākṣasas were dwelling thus (tathā sma teṣ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “Filled with supreme affection (prītyā paramayā yutaḥ), O mighty-armed one, look favorably upon Aṅgada, and upon Hanūmān, and upon the exceedingly powerful Nala (sumahābalam);
+**3:** “Filled with supreme affection (_prītyā paramayā yutaḥ_), O mighty-armed one, look favorably upon Aṅgada, and upon Hanūmān, and upon the exceedingly powerful Nala (_sumahābalam_);
 
-**4:** “Upon your heroic father-in-law Suṣeṇa (śvaśuraṃ vīram), and Tāra foremost of the strong (balināṃ varam), and the unassailable Kumuda (durdharṣam), and Nīla of mighty strength;
+**4:** “Upon your heroic father-in-law Suṣeṇa (_śvaśuraṃ vīram_), and Tāra foremost of the strong (_balināṃ varam_), and the unassailable Kumuda (_durdharṣam_), and Nīla of mighty strength;
 
-**5:** “Upon the heroic Śatavali, Mainda, and Dvivida as well, upon Gaja, Gavākṣa, Gavaya, and the mighty Śarabha, and with an affectionate heart (prītisamāyuktaḥ) look kindly upon Gandhamādana too;
+**5:** “Upon the heroic Śatavali, Mainda, and Dvivida as well, upon Gaja, Gavākṣa, Gavaya, and the mighty Śarabha, and with an affectionate heart (_prītisamāyuktaḥ_) look kindly upon Gandhamādana too;
 
-**6:** “Upon the valiant Ṛṣabha and the mighty Jāmbavān, and all these exceedingly high-souled heroes who risked their very lives for my sake (madarthe tyaktajīvitāḥ)—regard them with affection (prītisaṃyuktaḥ), and never do anything displeasing to them (mā caiṣāṃ vipriyaṃ kṛthāḥ)!”
+**6:** “Upon the valiant Ṛṣabha and the mighty Jāmbavān, and all these exceedingly high-souled heroes who risked their very lives for my sake (_madarthe tyaktajīvitāḥ_)—regard them with affection (_prītisaṃyuktaḥ_), and never do anything displeasing to them (_mā caiṣāṃ vipriyaṃ kṛthāḥ_)!”
 </details>
 </details>
 
@@ -167,7 +167,7 @@ Embracing Sugrīva again and again, Rāma gently instructs Vibhīṣaṇa to gov
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Sugrīva and embraced him again and again (āśliṣya ca punaḥ punaḥ), Rāma then addressed Vibhīṣaṇa in gentle, dulcet words (madhurayā girā):
+Having spoken thus to Sugrīva and embraced him again and again (_āśliṣya ca punaḥ punaḥ_), Rāma then addressed Vibhīṣaṇa in gentle, dulcet words (_madhurayā girā_):
 </details>
 </details>
 
@@ -201,7 +201,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rule Laṅkā in accordance with dharma (laṅkāṃ praśādhi dharmeṇa), for you are esteemed by me as a knower of righteousness (dharmajñas tvaṃ mato mama); and indeed you are held in high regard (sammato hy asi) by the city, by the rākṣasas, and by your own brother [Kubera].
+“Rule Laṅkā in accordance with dharma (_laṅkāṃ praśādhi dharmeṇa_), for you are esteemed by me as a knower of righteousness (_dharmajñas tvaṃ mato mama_); and indeed you are held in high regard (_sammato hy asi_) by the city, by the rākṣasas, and by your own brother [Kubera].
 </details>
 </details>
 
@@ -232,7 +232,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never in any wise incline your mind toward unrighteousness (mā ca buddhim adharme tvaṃ kuryāḥ), O King; for wise monarchs (buddhimanto hi rājānaḥ) surely enjoy the earth enduringly (dhruvam aśnanti medinīm).
+“Never in any wise incline your mind toward unrighteousness (_mā ca buddhim adharme tvaṃ kuryāḥ_), O King; for wise monarchs (_buddhimanto hi rājānaḥ_) surely enjoy the earth enduringly (_dhruvam aśnanti medinīm_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I, together with Sugrīva (sugrīva-sahitaḥ), should ever be remembered by you with supreme affection (smartavyaḥ parayā prītyā), O King. Go now, freed from all anxiety (vigatajvaraḥ)!”
+“And I, together with Sugrīva (_sugrīva-sahitaḥ_), should ever be remembered by you with supreme affection (_smartavyaḥ parayā prītyā_), O King. Go now, freed from all anxiety (_vigatajvaraḥ_)!”
 </details>
 </details>
 
@@ -294,7 +294,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), the bears, monkeys, and rākṣasas applauded Kākutstha again and again, crying “Well done! Well done!” (sādhu sādhv iti ... praśaśaṃsuḥ).
+Hearing the speech of Rāma (_rāmasya bhāṣitaṃ śrutvā_), the bears, monkeys, and rākṣasas applauded Kākutstha again and again, crying “Well done! Well done!” (_sādhu sādhv iti ... praśaśaṃsuḥ_).
 </details>
 </details>
 
@@ -325,7 +325,7 @@ Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), the bears, monkey
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your wisdom, O mighty-armed one (tava buddhir mahābāho), your wondrous valor (vīryam adbhutam), and your supreme sweetness (mādhuryaṃ paramam), O Rāma, abide forever like those of the Self-Born Lord (svayambhor iva nityadā)!”
+“Your wisdom, O mighty-armed one (_tava buddhir mahābāho_), your wondrous valor (_vīryam adbhutam_), and your supreme sweetness (_mādhuryaṃ paramam_), O Rāma, abide forever like those of the Self-Born Lord (_svayambhor iva nityadā_)!”
 </details>
 </details>
 
@@ -364,7 +364,7 @@ Bowing humbly before Rāma, Hanūmān prays for unswerving devotion and vows to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvāṇānām), Hanūmān, bowing in deep humility (pravaṇaḥ bhūtvā), addressed these words to Rāghava:
+While those monkeys and rākṣasas were speaking thus (_teṣām evaṃ bruvāṇānām_), Hanūmān, bowing in deep humility (_pravaṇaḥ bhūtvā_), addressed these words to Rāghava:
 </details>
 </details>
 
@@ -395,7 +395,7 @@ While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May my supreme affection (sneho me paramaḥ), O King, abide in you eternally (tvayi tiṣṭhatu nityadā); may my devotion remain steadfast (bhaktiś ca niyatā), O hero, and may my heart never stray elsewhere (bhāvo nānyatra gacchatu)!
+“May my supreme affection (_sneho me paramaḥ_), O King, abide in you eternally (_tvayi tiṣṭhatu nityadā_); may my devotion remain steadfast (_bhaktiś ca niyatā_), O hero, and may my heart never stray elsewhere (_bhāvo nānyatra gacchatu_)!
 </details>
 </details>
 
@@ -426,7 +426,7 @@ While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as the story of Rāma (yāvad rāmakathā), O hero, shall circulate upon the face of the earth (cariṣyati mahītale), so long shall my life-breaths remain within this body (tāvac charīre vatsyanti prāṇā mama)—of this there is no doubt!
+“As long as the story of Rāma (_yāvad rāmakathā_), O hero, shall circulate upon the face of the earth (_cariṣyati mahītale_), so long shall my life-breaths remain within this body (_tāvac charīre vatsyanti prāṇā mama_)—of this there is no doubt!
 </details>
 </details>
 
@@ -457,7 +457,7 @@ While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this divine life-story that is your narrative (etac caritaṃ divyaṃ kathā te), O delight of the Raghus—may the apsarasas, wholly absorbed in it (tanmayāpsaraso nāma), ever recite it for me, O bull among men!
+“And this divine life-story that is your narrative (_etac caritaṃ divyaṃ kathā te_), O delight of the Raghus—may the _apsarasas_, wholly absorbed in it (_tanmayāpsaraso nāma_), ever recite it for me, O bull among men!
 </details>
 </details>
 
@@ -488,7 +488,7 @@ While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Listening to that nectar of your deeds (tava caryāmṛtam), O hero and Lord, I shall then dispel that aching longing of separation (utkaṇṭhāṃ tāṃ hariṣyāmi), even as the wind scatters a wisp of cloud (meghalekhām ivānilaḥ)!”
+“Listening to that nectar of your deeds (_tava caryāmṛtam_), O hero and Lord, I shall then dispel that aching longing of separation (_utkaṇṭhāṃ tāṃ hariṣyāmi_), even as the wind scatters a wisp of cloud (_meghalekhām ivānilaḥ_)!”
 </details>
 </details>
 
@@ -519,7 +519,7 @@ While those monkeys and rākṣasas were speaking thus (teṣām evaṃ bruvā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising from his royal seat (varāsanāt utthāya), Rāma affectionately embraced Hanūmān as he spoke thus (sasvaje snehāt), and uttered these words:
+Rising from his royal seat (_varāsanāt utthāya_), Rāma affectionately embraced Hanūmān as he spoke thus (_sasvaje snehāt_), and uttered these words:
 </details>
 </details>
 
@@ -558,7 +558,7 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even so shall it be (evam etat ... bhavitā), O foremost of monkeys, of this there is no doubt! As long as this story of mine (kathā ... māmikā) shall circulate in the world (cariṣyati ... loke),
+“Even so shall it be (_evam etat ... bhavitā_), O foremost of monkeys, of this there is no doubt! As long as this story of mine (_kathā ... māmikā_) shall circulate in the world (_cariṣyati ... loke_),
 </details>
 </details>
 
@@ -589,7 +589,7 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So long shall your renown endure (tāvat te bhavitā kīrtiḥ) and your life-breaths abide within your body (śarīre ’py asavas tathā); for as long as the worlds shall stand (lokā hi yāvat sthāsyanti), so long shall my story endure (tāvat sthāsyati me kathā)!
+“So long shall your renown endure (_tāvat te bhavitā kīrtiḥ_) and your life-breaths abide within your body (_śarīre ’py asavas tathā_); for as long as the worlds shall stand (_lokā hi yāvat sthāsyanti_), so long shall my story endure (_tāvat sthāsyati me kathā_)!
 </details>
 </details>
 
@@ -624,9 +624,9 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “For each single service you have rendered (ekaikasyopakārasya), I would gladly give my very life-breaths to you (prāṇān dāsyāmi te), O monkey; yet a man becomes a vessel for return favors only in times of adversity (pratyupakārāṇām āpastv āyāti pātratām)!”
+**21:** “For each single service you have rendered (_ekaikasyopakārasya_), I would gladly give my very life-breaths to you (_prāṇān dāsyāmi te_), O monkey; yet a man becomes a vessel for return favors only in times of adversity (_pratyupakārāṇām āpastv āyāti pātratām_)!”
 
-**22:** Then Rāghava loosed from his own neck (mucya kaṇṭhāt) a moon-bright necklace (hāraṃ candrābham) with a central cat’s-eye jewel (vaiḍūrya-taralam), and fastened it around Hanūmān’s neck (kaṇṭhe babandha ca hanūmataḥ).
+**22:** Then Rāghava loosed from his own neck (_mucya kaṇṭhāt_) a moon-bright necklace (_hāraṃ candrābham_) with a central cat’s-eye jewel (_vaiḍūrya-taralam_), and fastened it around Hanūmān’s neck (_kaṇṭhe babandha ca hanūmataḥ_).
 </details>
 </details>
 
@@ -657,7 +657,7 @@ Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that great necklace fastened upon his chest (tenorasi nibaddhena hāreṇa mahatā), the monkey shone radiant as Mount Meru, lord of golden peaks, with its summit crowned by the moon (hemaśailendraś candreṇākrānta-mastakaḥ)!
+With that great necklace fastened upon his chest (_tenorasi nibaddhena hāreṇa mahatā_), the monkey shone radiant as Mount Meru, lord of golden peaks, with its summit crowned by the moon (_hemaśailendraś candreṇākrānta-mastakaḥ_)!
 </details>
 </details>
 
@@ -696,7 +696,7 @@ Hearing Rāma’s tender words to Hanūmān, the vānaras bow at his feet and de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of Rāghava (śrutvā tu rāghavasyaitat), those mighty monkeys rose up one after another (utthāyotthāya), bowed their heads to his feet (praṇamya śirasā pādau), and went forth.
+Hearing these words of Rāghava (_śrutvā tu rāghavasyaitat_), those mighty monkeys rose up one after another (_utthāyotthāya_), bowed their heads to his feet (_praṇamya śirasā pādau_), and went forth.
 </details>
 </details>
 
@@ -727,7 +727,7 @@ Hearing these words of Rāghava (śrutvā tu rāghavasyaitat), those mighty monk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Sugrīva was closely pressed to Rāma’s chest (nirantaram urogataḥ), as was the righteous-souled Vibhīṣaṇa (vibhīṣaṇaś ca dharmātmā); and all of them were overwhelmed with tears (bāṣpaviklavāḥ).
+And Sugrīva was closely pressed to Rāma’s chest (_nirantaram urogataḥ_), as was the righteous-souled Vibhīṣaṇa (_vibhīṣaṇaś ca dharmātmā_); and all of them were overwhelmed with tears (_bāṣpaviklavāḥ_).
 </details>
 </details>
 
@@ -758,7 +758,7 @@ And Sugrīva was closely pressed to Rāma’s chest (nirantaram urogataḥ), as 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them, their voices choked with sobs (bāṣpakalāḥ), their eyes swimming with tears (sāśrunetrāḥ), bereft of composure (vicetasaḥ), were as though stupefied by grief (sammūḍhā iva duḥkhena) as they left Rāghava behind.
+All of them, their voices choked with sobs (_bāṣpakalāḥ_), their eyes swimming with tears (_sāśrunetrāḥ_), bereft of composure (_vicetasaḥ_), were as though stupefied by grief (_sammūḍhā iva duḥkhena_) as they left Rāghava behind.
 </details>
 </details>
 
@@ -789,7 +789,7 @@ All of them, their voices choked with sobs (bāṣpakalāḥ), their eyes swimmi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus graciously honored by that high-souled Rāghava (kṛtaprasādās tenaivaṃ rāghaveṇa mahātmanā), they all departed each to his own abode (jagmuḥ svaṃ svaṃ gṛhaṃ sarve), like an embodied soul abandoning its body (dehī deham iva tyajan).
+Thus graciously honored by that high-souled Rāghava (_kṛtaprasādās tenaivaṃ rāghaveṇa mahātmanā_), they all departed each to his own abode (_jagmuḥ svaṃ svaṃ gṛhaṃ sarve_), like an embodied soul abandoning its body (_dehī deham iva tyajan_).
 </details>
 </details>
 
@@ -820,7 +820,7 @@ Thus graciously honored by that high-souled Rāghava (kṛtaprasādās tenaiva�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those rākṣasas, bears, and monkeys (te rākṣasa-ṛkṣa-vānarāḥ), bowing down to Rāma, increaser of the Raghu race (raghuvaṃśa-vardhanam), their eyes brimming with tears born of separation (viyogajāśru-pratipūrṇa-locanāḥ), set out homeward, though accustomed to dwell by his side (pratiprayātās tu yathā nivāsinaḥ).
+Then those rākṣasas, bears, and monkeys (_te rākṣasa-ṛkṣa-vānarāḥ_), bowing down to Rāma, increaser of the Raghu race (_raghuvaṃśa-vardhanam_), their eyes brimming with tears born of separation (_viyogajāśru-pratipūrṇa-locanāḥ_), set out homeward, though accustomed to dwell by his side (_pratiprayātās tu yathā nivāsinaḥ_).
 </details>
 </details>
 

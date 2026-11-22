@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Lavaṇa was slain (hate tu lavaṇe), the gods with Indra and preceded by Agni (devāḥ sendrāḥ sāgni-purogamāḥ) spoke most honeyed words (sumadhurāṃ vāṇīm) to Śatrughna, scorcher of foes (śatru-tāpanam):
+When Lavaṇa was slain (_hate tu lavaṇe_), the gods with Indra and preceded by Agni (_devāḥ sendrāḥ sāgni-purogamāḥ_) spoke most honeyed words (_sumadhurāṃ vāṇīm_) to Śatrughna, scorcher of foes (_śatru-tāpanam_):
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune victory is yours, dear child (diṣṭyā te vijayo vatsa), and by good fortune the rākṣasa Lavaṇa is slain (hataḥ), O tiger among men! Choose a boon (varaṃ varaya), O steadfast in vows (suvrata)!
+“By good fortune victory is yours, dear child (_diṣṭyā te vijayo vatsa_), and by good fortune the rākṣasa Lavaṇa is slain (_hataḥ_), O tiger among men! Choose a boon (_varaṃ varaya_), O steadfast in vows (_suvrata_)!
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For we have all come together as bestowers of boons (varadās tu ... sarva eva samāgatāḥ), O mighty-armed one, desiring your victory (vijayākāṅkṣiṇas tubhyam); our appearance is never in vain (amoghaṃ darśanaṃ hi naḥ).”
+“For we have all come together as bestowers of boons (_varadās tu ... sarva eva samāgatāḥ_), O mighty-armed one, desiring your victory (_vijayākāṅkṣiṇas tubhyam_); our appearance is never in vain (_amoghaṃ darśanaṃ hi naḥ_).”
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of the gods (devānāṃ bhāṣitaṃ śrutvā), the valiant, mighty-armed Śatrughna, of disciplined self (prayatātmavān), raising his joined palms to his head (mūrdhni kṛtāñjaliḥ), replied:
+Hearing the words of the gods (_devānāṃ bhāṣitaṃ śrutvā_), the valiant, mighty-armed Śatrughna, of disciplined self (_prayatātmavān_), raising his joined palms to his head (_mūrdhni kṛtāñjaliḥ_), replied:
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May this delightful city of Madhu, sweet Mathurā fashioned by the gods (iyaṃ madhupurī rasyā madhurā deva-nirmitā), swiftly attain full settlement (niveśaṃ prāpnuyāc chīghram)—let this be my supreme boon (eṣa me ’stu varaḥ paraḥ)!”
+“May this delightful city of Madhu, sweet Mathurā fashioned by the gods (_iyaṃ madhupurī rasyā madhurā deva-nirmitā_), swiftly attain full settlement (_niveśaṃ prāpnuyāc chīghram_)—let this be my supreme boon (_eṣa me ’stu varaḥ paraḥ_)!”
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pleased at heart (prīta-manasaḥ), the gods said to that Rāghava, “So be it (bāḍham ity eva)! Assuredly this lovely city shall become Śūrasenā (bhaviṣyati purī ramyā śūrasenā), without doubt.”
+Pleased at heart (_prīta-manasaḥ_), the gods said to that Rāghava, “So be it (_bāḍham ity eva_)! Assuredly this lovely city shall become Śūrasenā (_bhaviṣyati purī ramyā śūrasenā_), without doubt.”
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, those great-souled deities then ascended to heaven (divam āruruhus tadā), and the greatly resplendent Śatrughna brought forward that army (tāṃ senāṃ samupānayat).
+Having spoken thus, those great-souled deities then ascended to heaven (_divam āruruhus tadā_), and the greatly resplendent Śatrughna brought forward that army (_tāṃ senāṃ samupānayat_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Śatrughna’s command (śatrughna-śāsanam), that army came swiftly (śīghram āgacchat), and Śatrughna began the founding of the city (niveśanaṃ ... samārabhat) in the month of Śrāvaṇa (śrāvaṇena).
+Hearing Śatrughna’s command (_śatrughna-śāsanam_), that army came swiftly (_śīghram āgacchat_), and Śatrughna began the founding of the city (_niveśanaṃ ... samārabhat_) in the month of Śrāvaṇa (_śrāvaṇena_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the auspicious twelfth year (varṣe dvādaśame śubhe), that city resembling heaven (sā purā divya-saṅkāśā) was fully settled (niviṣṭā), and the realm of the Śūrasenas became free from fear from any quarter (viṣayaś cākutobhayaḥ).
+In the auspicious twelfth year (_varṣe dvādaśame śubhe_), that city resembling heaven (_sā purā divya-saṅkāśā_) was fully settled (_niviṣṭā_), and the realm of the Śūrasenas became free from fear from any quarter (_viṣayaś cākutobhayaḥ_).
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The fields teemed with crops (kṣetrāṇi sasya-yuktāni), Indra rained in due season (kāle varṣati vāsavaḥ), and—protected by Śatrughna’s arms (śatrughna-bhuja-pālitā)—she abounded in healthy, heroic men (aroga-vīra-puruṣā).
+The fields teemed with crops (_kṣetrāṇi sasya-yuktāni_), Indra rained in due season (_kāle varṣati vāsavaḥ_), and—protected by Śatrughna’s arms (_śatrughna-bhuja-pālitā_)—she abounded in healthy, heroic men (_aroga-vīra-puruṣā_).
 </details>
 </details>
 
@@ -401,7 +401,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shaped like a crescent moon (ardhacandra-pratīkāśā) and graced by the bank of the Yamunā (yamunā-tīra-śobhitā), adorned with stately mansions and crossroads, markets, and avenues (gṛha-mukhyaiś ca catvarāpaṇa-vīthikaiḥ), populated by all four social orders (cāturvarṇya-samāyuktā) and radiant with diverse commerce (nānā-vāṇijya-śobhitā)—
+Shaped like a crescent moon (_ardhacandra-pratīkāśā_) and graced by the bank of the Yamunā (_yamunā-tīra-śobhitā_), adorned with stately mansions and crossroads, markets, and avenues (_gṛha-mukhyaiś ca catvarāpaṇa-vīthikaiḥ_), populated by all four social orders (_cāturvarṇya-samāyuktā_) and radiant with diverse commerce (_nānā-vāṇijya-śobhitā_)—
 </details>
 </details>
 
@@ -435,7 +435,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever grand white palace had been built of old by Lavaṇa (yac ca tena purā śubhraṃ lavaṇena kṛtaṃ mahat), Śatrughna adorned it too, embellishing that city radiant with varied hues (nānā-varṇopaśobhitām).
+And whatever grand white palace had been built of old by Lavaṇa (_yac ca tena purā śubhraṃ lavaṇena kṛtaṃ mahat_), Śatrughna adorned it too, embellishing that city radiant with varied hues (_nānā-varṇopaśobhitām_).
 </details>
 </details>
 
@@ -477,7 +477,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resplendent on all sides with pleasure-groves and recreation grounds (ārāmaiś ca vihāraiś ca śobhamānaṃ samantataḥ), and graced with other beauteous creations both divine and human (śobhitāṃ śobhanīyaiś ca tathā ’nyair daiva-mānuṣaiḥ)—
+Resplendent on all sides with pleasure-groves and recreation grounds (_ārāmaiś ca vihāraiś ca śobhamānaṃ samantataḥ_), and graced with other beauteous creations both divine and human (_śobhitāṃ śobhanīyaiś ca tathā ’nyair daiva-mānuṣaiḥ_)—
 </details>
 </details>
 
@@ -506,7 +506,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That city resembling heaven (tāṃ purīṃ divya-saṅkāśām), embellished with varied wares (nānā-paṇyopaśobhitām) and thronged by merchants come from many lands (nānā-deśāgataiś cāpi vaṇigbhir upaśobhitām)—
+That city resembling heaven (_tāṃ purīṃ divya-saṅkāśām_), embellished with varied wares (_nānā-paṇyopaśobhitām_) and thronged by merchants come from many lands (_nānā-deśāgataiś cāpi vaṇigbhir upaśobhitām_)—
 </details>
 </details>
 
@@ -540,7 +540,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that prosperous city (tāṃ samṛddhāṃ ... nirīkṣya), Śatrughna, younger brother of Bharata, his purpose fulfilled (samṛddhārthaḥ), was supremely pleased (parama-prītaḥ) and attained highest joy (paraṃ harṣam upāgamat).
+Beholding that prosperous city (_tāṃ samṛddhāṃ ... nirīkṣya_), Śatrughna, younger brother of Bharata, his purpose fulfilled (_samṛddhārthaḥ_), was supremely pleased (_parama-prītaḥ_) and attained highest joy (_paraṃ harṣam upāgamat_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having settled the city of Mathurā (niveśya madhurāṃ purīm), this thought arose in him (tasya buddhiḥ samutpannā) as the twelfth year arrived (varṣe dvādaśa āgate): “Let me behold the feet of Rāma (rāma-pādau nirīkṣe ’ham)!”
+Having settled the city of Mathurā (_niveśya madhurāṃ purīm_), this thought arose in him (_tasya buddhiḥ samutpannā_) as the twelfth year arrived (_varṣe dvādaśa āgate_): “Let me behold the feet of Rāma (_rāma-pādau nirīkṣe ’ham_)!”
 </details>
 </details>
 
@@ -623,7 +623,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having indeed established that city rivaling the capital of the immortals (amara-puropamāṃ purīm) and thronged with varied folk (vividha-janābhisaṃvṛtām), that king, augmenter of the Raghu lineage (raghu-kula-vaṃśa-vardhanaḥ), set his mind upon beholding the feet of the lord of the Raghus (raghupati-pāda-darśane dadhe matim).
+Then, having indeed established that city rivaling the capital of the immortals (_amara-puropamāṃ purīm_) and thronged with varied folk (_vividha-janābhisaṃvṛtām_), that king, augmenter of the Raghu lineage (_raghu-kula-vaṃśa-vardhanaḥ_), set his mind upon beholding the feet of the lord of the Raghus (_raghupati-pāda-darśane dadhe matim_).
 </details>
 </details>
 

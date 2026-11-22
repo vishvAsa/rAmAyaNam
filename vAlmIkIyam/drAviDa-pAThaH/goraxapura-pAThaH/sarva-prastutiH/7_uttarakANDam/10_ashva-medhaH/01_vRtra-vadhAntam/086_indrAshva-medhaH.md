@@ -48,7 +48,7 @@ Resuming the sequel of Vṛtra’s slaying, Lakṣmaṇa describes Indra writhin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sarvam akhilena ... kathayitvā), that foremost of men, Lakṣmaṇa, then began the remainder of the tale (kathā-śeṣaṃ pracakrame):
+Having thus narrated in its entirety the slaying of Vṛtra (_vṛtra-vadhaṃ sarvam akhilena ... kathayitvā_), that foremost of men, Lakṣmaṇa, then began the remainder of the tale (_kathā-śeṣaṃ pracakrame_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when the mighty Vṛtra, terror of the gods, had been slain (hate mahāvīrye vṛtre deva-bhayaṅkare), Śakra, the slayer of Vṛtra, beset by brahmin-slaughter, could not regain his consciousness (brahmahatyāvṛtaḥ śakraḥ sañjñāṃ lebhe na vṛtrahā).
+“Then, when the mighty Vṛtra, terror of the gods, had been slain (_hate mahāvīrye vṛtre deva-bhayaṅkare_), Śakra, the slayer of Vṛtra, beset by brahmin-slaughter, could not regain his consciousness (_brahmahatyāvṛtaḥ śakraḥ sañjñāṃ lebhe na vṛtrahā_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Taking refuge at the very end of the worlds, bereft of sense and awareness (antam āśritya lokānāṃ naṣṭa-sañjño vicetanaḥ), he dwelt there for some time, writhing like a serpent (kālaṃ tatrāvasat kañcid veṣṭamāna ivoragaḥ).
+“Taking refuge at the very end of the worlds, bereft of sense and awareness (_antam āśritya lokānāṃ naṣṭa-sañjño vicetanaḥ_), he dwelt there for some time, writhing like a serpent (_kālaṃ tatrāvasat kañcid veṣṭamāna ivoragaḥ_).
 </details>
 </details>
 
@@ -145,9 +145,9 @@ Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Now, with the thousand-eyed one vanished, the universe became deeply agitated (naṣṭe sahasrākṣe udvignam abhavaj jagat); the earth appeared as if ruined, devoid of moisture, with parched forests (bhūmiś ca dhvasta-saṅkāśā niḥsnehā śuṣka-kānanā).
+**4:** “Now, with the thousand-eyed one vanished, the universe became deeply agitated (_naṣṭe sahasrākṣe udvignam abhavaj jagat_); the earth appeared as if ruined, devoid of moisture, with parched forests (_bhūmiś ca dhvasta-saṅkāśā niḥsnehā śuṣka-kānanā_).
 
-**5:** “All those lakes and rivers alike lost their currents (niḥsrotasaś ca te sarve hradāś ca saritas tathā), and there arose great distress among all living creatures on account of the drought (saṅkṣobhaś caiva sattvānām anāvṛṣṭi-kṛto ’bhavat).
+**5:** “All those lakes and rivers alike lost their currents (_niḥsrotasaś ca te sarve hradāś ca saritas tathā_), and there arose great distress among all living creatures on account of the drought (_saṅkṣobhaś caiva sattvānām anāvṛṣṭi-kṛto ’bhavat_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seeing this world wasting away, the gods, distressed in mind (kṣīyamāṇe tu loke ’smin sambhrānta-manasaḥ surāḥ), brought together the sacrifice that Viṣṇu had ordained of old (yad uktaṃ viṣṇunā pūrvaṃ taṃ yajñaṃ samupānayan).”
+“Seeing this world wasting away, the gods, distressed in mind (_kṣīyamāṇe tu loke ’smin sambhrānta-manasaḥ surāḥ_), brought together the sacrifice that Viṣṇu had ordained of old (_yad uktaṃ viṣṇunā pūrvaṃ taṃ yajñaṃ samupānayan_).”
 </details>
 </details>
 
@@ -217,7 +217,7 @@ Accompanied by sages and preceptors, the gods seek out the fear-bewildered Indra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all the hosts of gods, accompanied by their preceptors and the sages (sura-gaṇāḥ sopādhyāyāḥ saharṣibhiḥ), journeyed to that region where Indra lay bewildered with terror (taṃ deśaṃ samupājagmur yatrendro bhaya-mohitaḥ).
+“Then all the hosts of gods, accompanied by their preceptors and the sages (_sura-gaṇāḥ sopādhyāyāḥ saharṣibhiḥ_), journeyed to that region where Indra lay bewildered with terror (_taṃ deśaṃ samupājagmur yatrendro bhaya-mohitaḥ_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Accompanied by sages and preceptors, the gods seek out the fear-bewildered Indra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding the thousand-eyed one enveloped by brahmin-slaughter (dṛṣṭvā sahasrākṣam āvṛtaṃ brahmahatyayā), they placed that Lord of the gods in the forefront and commenced the horse sacrifice (taṃ puraskṛtya deveśam aśvamedham upākraman).
+“Beholding the thousand-eyed one enveloped by brahmin-slaughter (_dṛṣṭvā sahasrākṣam āvṛtaṃ brahmahatyayā_), they placed that Lord of the gods in the forefront and commenced the horse sacrifice (_taṃ puraskṛtya deveśam aśvamedham upākraman_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon the mighty horse sacrifice of the great-souled Mahendra (aśvamedhaḥ sumahān mahendrasya mahātmanaḥ) waxed glorious for his purification from brahmin-slaughter, O lord of men (vavṛdhe brahmahatyayāḥ pāvanārthaṃ nareśvara).
+“Thereupon the mighty horse sacrifice of the great-souled Mahendra (_aśvamedhaḥ sumahān mahendrasya mahātmanaḥ_) waxed glorious for his purification from brahmin-slaughter, O lord of men (_vavṛdhe brahmahatyayāḥ pāvanārthaṃ nareśvara_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when the sacrifice of that great-souled one was brought to completion (yajñe samāpte tu ... mahātmanaḥ), Brahmahatyā approached them and spoke these words: ‘Where will you assign a dwelling-place for me (kva me sthānaṃ vidhāsyatha)?’
+“Then, when the sacrifice of that great-souled one was brought to completion (_yajñe samāpte tu ... mahātmanaḥ_), Brahmahatyā approached them and spoke these words: ‘Where will you assign a dwelling-place for me (_kva me sthānaṃ vidhāsyatha_)?’
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Pleased and filled with delight, those gods then answered her (te tām ūcus tadā devās tuṣṭāḥ prīti-samanvitāḥ): ‘O formidable one, divide yourself into four parts by your own will (caturdhā vibhajātmānam ātmanaiva durāsade)!’”
+“Pleased and filled with delight, those gods then answered her (_te tām ūcus tadā devās tuṣṭāḥ prīti-samanvitāḥ_): ‘O formidable one, divide yourself into four parts by your own will (_caturdhā vibhajātmānam ātmanaiva durāsade_)!’”
 </details>
 </details>
 
@@ -383,7 +383,7 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the speech of those great-souled gods (devānāṃ bhāṣitaṃ śrutvā ... mahātmanām), Brahmahatyā, grievous to dwell with, chose abodes elsewhere in their presence (sannidhau sthānam anyatra varayām āsa durvasā):
+“Hearing the speech of those great-souled gods (_devānāṃ bhāṣitaṃ śrutvā ... mahātmanām_), Brahmahatyā, grievous to dwell with, chose abodes elsewhere in their presence (_sannidhau sthānam anyatra varayām āsa durvasā_):
 </details>
 </details>
 
@@ -414,7 +414,7 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘With one portion I shall dwell in rivers swollen with waters (ekenāṃśena vatsyāmi pūrṇodāsu nadīṣu vai) throughout the four months of the rainy season, destroying arrogance and obstructing desires (caturo vārṣikān māsān darpaghnī kāmavāriṇī).
+“‘With one portion I shall dwell in rivers swollen with waters (_ekenāṃśena vatsyāmi pūrṇodāsu nadīṣu vai_) throughout the four months of the rainy season, destroying arrogance and obstructing desires (_caturo vārṣikān māsān darpaghnī kāmavāriṇī_).
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Upon the earth I shall dwell with one portion at all times and forever (bhūmyām ahaṃ sarva-kālam ekenāṃśena sarvadā | vasiṣyāmi na sandehaḥ); truthfully do I declare this to you (satyenaitad bravīmi vaḥ).
+“‘Upon the earth I shall dwell with one portion at all times and forever (_bhūmyām ahaṃ sarva-kālam ekenāṃśena sarvadā | vasiṣyāmi na sandehaḥ_); truthfully do I declare this to you (_satyenaitad bravīmi vaḥ_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘As for this third portion of mine, I shall dwell for three nights in women blooming with youth (strīṣu yauvana-śāliṣu | trirātraṃ), proud in their prime, curbing their pride (darpa-pūrṇāsu vaśiṣye darpa-ghātinī).
+“‘As for this third portion of mine, I shall dwell for three nights in women blooming with youth (_strīṣu yauvana-śāliṣu | trirātraṃ_), proud in their prime, curbing their pride (_darpa-pūrṇāsu vaśiṣye darpa-ghātinī_).
 </details>
 </details>
 
@@ -507,7 +507,7 @@ Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swolle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And as for those who, upon false pretext, slay blameless brahmins (hantāro brāhmaṇān ye tu mṛṣāpūrvam adūṣakān), with my fourth share I shall take up my abode in them, O bulls among gods (tāṃś caturthena bhāgena saṃśrayiṣye surarṣabhāḥ).’”
+“‘And as for those who, upon false pretext, slay blameless brahmins (_hantāro brāhmaṇān ye tu mṛṣāpūrvam adūṣakān_), with my fourth share I shall take up my abode in them, O bulls among gods (_tāṃś caturthena bhāgena saṃśrayiṣye surarṣabhāḥ_).’”
 </details>
 </details>
 
@@ -546,7 +546,7 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the gods replied to her: ‘O formidable one, just as you say, so let all that come to pass (yathā vadasi durvase | tathā bhavatu tat sarvam); accomplish whatever you desire (sādhayasva yad īpsitam)!’
+“Then the gods replied to her: ‘O formidable one, just as you say, so let all that come to pass (_yathā vadasi durvase | tathā bhavatu tat sarvam_); accomplish whatever you desire (_sādhayasva yad īpsitam_)!’
 </details>
 </details>
 
@@ -577,7 +577,7 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, filled with joy, the gods paid homage to the thousand-eyed one (prītyānvitā devāḥ sahasrākṣaṃ vavandire), and Vāsava became free from anguish and purified of soul (vijvaraḥ sa ca pūtātmā vāsavaḥ samapadyata).
+“Thereupon, filled with joy, the gods paid homage to the thousand-eyed one (_prītyānvitā devāḥ sahasrākṣaṃ vavandire_), and Vāsava became free from anguish and purified of soul (_vijvaraḥ sa ca pūtātmā vāsavaḥ samapadyata_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With the thousand-eyed one restored to his station, the entire universe became tranquil (praśāntaṃ ca jagat sarvaṃ sahasrākṣe pratiṣṭhite), and Śakra then worshipped that wondrous-seeming Sacrifice [Viṣṇu] (yajñaṃ cādbhuta-saṅkāśaṃ tadā śakro ’bhyapūjayat).
+“With the thousand-eyed one restored to his station, the entire universe became tranquil (_praśāntaṃ ca jagat sarvaṃ sahasrākṣe pratiṣṭhite_), and Śakra then worshipped that wondrous-seeming Sacrifice [Viṣṇu] (_yajñaṃ cādbhuta-saṅkāśaṃ tadā śakro ’bhyapūjayat_).
 </details>
 </details>
 
@@ -639,7 +639,7 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such indeed is the gracious power of the horse sacrifice, O delight of the Raghus (īdṛśo hy aśvamedhasya prasādo raghunandana); therefore, O highly fortunate king, offer worship with the horse sacrifice (yajasva sumahābhāga hayamedhena pārthiva)!”
+“Such indeed is the gracious power of the horse sacrifice, O delight of the Raghus (_īdṛśo hy aśvamedhasya prasādo raghunandana_); therefore, O highly fortunate king, offer worship with the horse sacrifice (_yajasva sumahābhāga hayamedhena pārthiva_)!”
 </details>
 </details>
 
@@ -685,7 +685,7 @@ Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those excellent and exceedingly enchanting words of Lakṣmaṇa (iti lakṣmaṇa-vākyam uttamaṃ ... atīva manoharam), the great-souled king, equal to Indra in valor and vigor, attained supreme satisfaction with a gladdened heart (paritoṣam avāpa hṛṣṭa-cetāḥ).
+Hearing those excellent and exceedingly enchanting words of Lakṣmaṇa (_iti lakṣmaṇa-vākyam uttamaṃ ... atīva manoharam_), the great-souled king, equal to Indra in valor and vigor, attained supreme satisfaction with a gladdened heart (_paritoṣam avāpa hṛṣṭa-cetāḥ_).
 </details>
 </details>
 

@@ -66,7 +66,7 @@ Conveying Kabandha into a mountain chasm, Rāma and Lakṣmaṇa kindle his fune
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Kabandha, those two heroic lords of men (tau vīrau nareśvarau), having conveyed [him] to a mountain chasm (giri-pradaram āsādya), cast fire [upon his pyre] (pāvakaṃ visasarjatuḥ).
+Thus addressed by Kabandha, those two heroic lords of men (_tau vīrau nareśvarau_), having conveyed [him] to a mountain chasm (_giri-pradaram āsādya_), cast fire [upon his pyre] (_pāvakaṃ visasarjatuḥ_).
 </details>
 </details>
 
@@ -103,7 +103,7 @@ Thus addressed by Kabandha, those two heroic lords of men (tau vīrau nareśvara
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lakṣmaṇa, with great blazing firebrands (maholkābhir jvalitābhiḥ), kindled the funeral pyre (citām ādīpayām āsa) on every side, and it flared up all around (sā prajajvāla sarvataḥ).
+Lakṣmaṇa, with great blazing firebrands (_maholkābhir jvalitābhiḥ_), kindled the funeral pyre (_citām ādīpayām āsa_) on every side, and it flared up all around (_sā prajajvāla sarvataḥ_).
 </details>
 </details>
 
@@ -159,7 +159,7 @@ dish, because of that body's massiveness. [3-72-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The fire slowly consumed (mandaṃ dahata pāvakaḥ) that vast body of Kabandha, which resembled a mass of clarified butter (ghṛta-piṇḍopamam), as he was being roasted along with his fat and flesh (medasā pacyamānasya).
+The fire slowly consumed (_mandaṃ dahata pāvakaḥ_) that vast body of Kabandha, which resembled a mass of clarified butter (_ghṛta-piṇḍopamam_), as he was being roasted along with his fat and flesh (_medasā pacyamānasya_).
 </details>
 </details>
 
@@ -211,7 +211,7 @@ vestments and angelic garlands, and appeared like a fumeless fire. [3-72-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shaking off the funeral pyre at once (vidhūya citām āśu), that mighty one rose up like a smokeless fire (vidhūmo 'gnir ivotthitaḥ), wearing two spotless garments (araje vāsasī) and a celestial garland (mālyaṃ divyam).
+Shaking off the funeral pyre at once (_vidhūya citām āśu_), that mighty one rose up like a smokeless fire (_vidhūmo &#x27;gnir ivotthitaḥ_), wearing two spotless garments (_araje vāsasī_) and a celestial garland (_mālyaṃ divyam_).
 </details>
 </details>
 
@@ -298,9 +298,9 @@ ten quarters. [3-72-6, 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Then, radiant (bhāsvaraḥ), clad in stainless raiments (virajāmbaraḥ), and adorned with ornaments on every limb (sarva-pratyaṅga-bhūṣaṇaḥ), he swiftly leapt up from the pyre (citāyā vegena utpapātāśu), filled with joy (saṃhṛṣṭaḥ)—
+**5:** Then, radiant (_bhāsvaraḥ_), clad in stainless raiments (_virajāmbaraḥ_), and adorned with ornaments on every limb (_sarva-pratyaṅga-bhūṣaṇaḥ_), he swiftly leapt up from the pyre (_citāyā vegena utpapātāśu_), filled with joy (_saṃhṛṣṭaḥ_)—
 
-**6:** —standing in a resplendent, glory-conferring aerial chariot (vimāne bhāsvare yaśaskare) yoked with swans (haṃsa-yukte), that being of great splendour (mahā-tejāḥ) illuminated the ten directions with his radiance (prabhayā diśo daśa virājayan).
+**6:** —standing in a resplendent, glory-conferring aerial chariot (_vimāne bhāsvare yaśaskare_) yoked with swans (_haṃsa-yukte_), that being of great splendour (_mahā-tejāḥ_) illuminated the ten directions with his radiance (_prabhayā diśo daśa virājayan_).
 </details>
 </details>
 
@@ -374,9 +374,9 @@ for proper time; 5] *dvaidhii bhaava* creating factions and vicissitudes in enem
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Stationed in the mid-sky (antarikṣa-gataḥ), that Kabandha spoke these words to Rāma: “Hear in truth (tattvena), O Rāghava, how you shall recover Sītā (yathā sītām avāpsyasi).
+**7:** Stationed in the mid-sky (_antarikṣa-gataḥ_), that Kabandha spoke these words to Rāma: “Hear in truth (_tattvena_), O Rāghava, how you shall recover Sītā (_yathā sītām avāpsyasi_).
 
-**8:** O Rāma, there are six expedients of statecraft (ṣaḍ yuktayaḥ) in the world by which everything is deliberated upon (sarvaṃ vimṛśyate); one who is afflicted by the culmination of misfortune (parimṛṣṭo daśāntena) seeks alliance with one who shares a like misfortune (daśā-bhāgena sevyate).
+**8:** O Rāma, there are six expedients of statecraft (_ṣaḍ yuktayaḥ_) in the world by which everything is deliberated upon (_sarvaṃ vimṛśyate_); one who is afflicted by the culmination of misfortune (_parimṛṣṭo daśāntena_) seeks alliance with one who shares a like misfortune (_daśā-bhāgena sevyate_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ one, and that spell alone has obtained you this dire straits, in the form of abd
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For you, O Rāma, together with Lakṣmaṇa, have fallen into a plight of misfortune (daśā-bhāga-gataḥ) and been bereft [of your realm] (hīnaḥ), on account of which (yat-kṛte) this calamity—the outrage of your wife's abduction (dāra-pradharṣaṇam)—has befallen you.
+For you, O Rāma, together with Lakṣmaṇa, have fallen into a plight of misfortune (_daśā-bhāga-gataḥ_) and been bereft [of your realm] (_hīnaḥ_), on account of which (_yat-kṛte_) this calamity—the outrage of your wife&#x27;s abduction (_dāra-pradharṣaṇam_)—has befallen you.
 </details>
 </details>
 
@@ -485,7 +485,7 @@ with such a soul... [3-72-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O best of friends (suhṛdāṃ vara), that [fellow sufferer] must unfailingly be made a friend by you (avaśyaṃ tvayā kāryaḥ sa suhṛt); without doing so (akṛtvā), even as I reflect (cintayan), I do not foresee success for you (na hi te siddhim ahaṃ paśyāmi).
+Therefore, O best of friends (_suhṛdāṃ vara_), that [fellow sufferer] must unfailingly be made a friend by you (_avaśyaṃ tvayā kāryaḥ sa suhṛt_); without doing so (_akṛtvā_), even as I reflect (_cintayan_), I do not foresee success for you (_na hi te siddhim ahaṃ paśyāmi_).
 </details>
 </details>
 
@@ -530,7 +530,7 @@ brother Vali, the son of Indra... [3-72-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Listen, O Rāma, I shall tell you: there is a monkey named Sugrīva (sugrīvo nāma vānaraḥ), cast out by his wrathful brother Vālin (bhrātrā nirastaḥ kruddhena vālinā), the son of Śakra (śakra-sūnunā).
+Listen, O Rāma, I shall tell you: there is a monkey named Sugrīva (_sugrīvo nāma vānaraḥ_), cast out by his wrathful brother Vālin (_bhrātrā nirastaḥ kruddhena vālinā_), the son of Śakra (_śakra-sūnunā_).
 </details>
 </details>
 
@@ -582,7 +582,7 @@ the lambent fringes of Pampa Lake, along with four other vanara-s. [3-72-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On the foremost mountain Ṛṣyamūka (ṛṣyamūke giri-vare), graced by the borders of Lake Pampā (pampā-paryanta-śobhite), dwells that self-possessed hero (nivasaty ātmavān vīraḥ) together with four monkeys (caturbhiḥ saha vānaraiḥ).
+On the foremost mountain Ṛṣyamūka (_ṛṣyamūke giri-vare_), graced by the borders of Lake Pampā (_pampā-paryanta-śobhite_), dwells that self-possessed hero (_nivasaty ātmavān vīraḥ_) together with four monkeys (_caturbhiḥ saha vānaraiḥ_).
 </details>
 </details>
 
@@ -645,7 +645,7 @@ a taskmaster... [3-72-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That lord of monkeys (vānarendraḥ) is of great prowess (mahā-vīryaḥ), full of fiery energy (tejovān), of boundless lustre (amita-prabhaḥ), true to his promise (satya-saṃdhaḥ), humble, resolute (dhṛtimān), wise, and great.
+That lord of monkeys (_vānarendraḥ_) is of great prowess (_mahā-vīryaḥ_), full of fiery energy (_tejovān_), of boundless lustre (_amita-prabhaḥ_), true to his promise (_satya-saṃdhaḥ_), humble, resolute (_dhṛtimān_), wise, and great.
 </details>
 </details>
 
@@ -721,9 +721,9 @@ your wellbeing, hence let not your heart yield to agony... [3-72-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Skillful (dakṣaḥ), bold (pragalbhaḥ), radiant (dyutimān), and possessed of mighty strength and valour (mahā-bala-parākramaḥ), O hero, he was banished on account of the kingdom (rājya-hetoḥ) by his mighty brother (bhrātrā mahātmanā).
+**14:** Skillful (_dakṣaḥ_), bold (_pragalbhaḥ_), radiant (_dyutimān_), and possessed of mighty strength and valour (_mahā-bala-parākramaḥ_), O hero, he was banished on account of the kingdom (_rājya-hetoḥ_) by his mighty brother (_bhrātrā mahātmanā_).
 
-**15:** He will surely become your ally and friend (sahāyo mitraṃ ca) in the search for Sītā (sītāyāḥ parimārgaṇe), O Rāma; do not set your mind upon grief (mā ca śoke manaḥ kṛthāḥ).
+**15:** He will surely become your ally and friend (_sahāyo mitraṃ ca_) in the search for Sītā (_sītāyāḥ parimārgaṇe_), O Rāma; do not set your mind upon grief (_mā ca śoke manaḥ kṛthāḥ_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ and it is impossible to countervail against Time, isn't it... [3-72-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For that which is destined to be (bhavitavyaṃ hi tat) cannot be made otherwise here (na tac chakyam ihānyathā kartum), O tiger of the Ikṣvākus (ikṣvāku-śārdūla); for Time is impossible to transgress (kālo hi duratikramaḥ).
+For that which is destined to be (_bhavitavyaṃ hi tat_) cannot be made otherwise here (_na tac chakyam ihānyathā kartum_), O tiger of the Ikṣvākus (_ikṣvāku-śārdūla_); for Time is impossible to transgress (_kālo hi duratikramaḥ_).
 </details>
 </details>
 
@@ -834,7 +834,7 @@ you two, you make him a friend before blazing Fire, making that Fire as an Attes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Go swiftly from here, O hero, to that mighty Sugrīva (sugrīvaṃ taṃ mahā-balam); having gone from here today (ito gatvādya), O Rāghava, quickly make him your comrade (vayasyaṃ taṃ kuru kṣipram)—
+Go swiftly from here, O hero, to that mighty Sugrīva (_sugrīvaṃ taṃ mahā-balam_); having gone from here today (_ito gatvādya_), O Rāghava, quickly make him your comrade (_vayasyaṃ taṃ kuru kṣipram_)—
 </details>
 </details>
 
@@ -895,7 +895,7 @@ render help he will be obligated to you for ever... [3-72-18b, 19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—coming together before a blazing fire (dīpyamāne vibhāvasau) with a pledge of mutual non-betrayal (adrohāya); nor should that Sugrīva, lord of monkeys (vānarādhipaḥ), be disdained by you (na ca te so 'vamantavyaḥ).
+—coming together before a blazing fire (_dīpyamāne vibhāvasau_) with a pledge of mutual non-betrayal (_adrohāya_); nor should that Sugrīva, lord of monkeys (_vānarādhipaḥ_), be disdained by you (_na ca te so &#x27;vamantavyaḥ_).
 </details>
 </details>
 
@@ -948,7 +948,7 @@ own purpose is achieved through you or not, he will effectuate your task... [3-7
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is grateful (kṛtajñaḥ), able to assume any form at will (kāma-rūpī), seeking an ally (sahāyārthī), and valorous (vīryavān); indeed, you two are able today to accomplish the task he desires to achieve (kāryaṃ tasya cikīrṣitam).
+He is grateful (_kṛtajñaḥ_), able to assume any form at will (_kāma-rūpī_), seeking an ally (_sahāyārthī_), and valorous (_vīryavān_); indeed, you two are able today to accomplish the task he desires to achieve (_kāryaṃ tasya cikīrṣitam_).
 </details>
 </details>
 
@@ -1003,7 +1003,7 @@ Wary of Vali's onslaughts Sugreeva is wandering around Pampa... [3-72-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether his own purpose is accomplished or not yet accomplished (kṛtārtho vākṛtārtho vā), he will fulfill your cause (tava kṛtyaṃ kariṣyati). That son of Ṛkṣarajas (ṛkṣarajasaḥ putraḥ) roams near Lake Pampā in fear (pampām aṭati śaṅkitaḥ)—
+Whether his own purpose is accomplished or not yet accomplished (_kṛtārtho vākṛtārtho vā_), he will fulfill your cause (_tava kṛtyaṃ kariṣyati_). That son of Ṛkṣarajas (_ṛkṣarajasaḥ putraḥ_) roams near Lake Pampā in fear (_pampām aṭati śaṅkitaḥ_)—
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ that pyre too suddenly blazed with blazes from all over. [3-72-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the natural-born son of the Sun-god (bhāskarasyaurasaḥ putraḥ), who has incurred enmity with Vālin (vālinā kṛta-kilbiṣaḥ). Laying down your weapons (saṃnidhāyāyudham) [before the fire], quickly [make] that monkey whose abode is Mount Ṛṣyamūka (ṛṣyamūkālayaṃ kapim)—
+—the natural-born son of the Sun-god (_bhāskarasyaurasaḥ putraḥ_), who has incurred enmity with Vālin (_vālinā kṛta-kilbiṣaḥ_). Laying down your weapons (_saṃnidhāyāyudham_) [before the fire], quickly [make] that monkey whose abode is Mount Ṛṣyamūka (_ṛṣyamūkālayaṃ kapim_)—
 </details>
 </details>
 
@@ -1150,7 +1150,7 @@ of anthropophagite demons in the world in their entirety... [3-72-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—your comrade by a solemn oath (satyena), O Rāghava, as he ranges the forest (vana-cāriṇam); for that foremost of monkeys (kapi-kuñjaraḥ) [knows] in their entirety (kārtsnyena) all the haunts (sthānāni sarvāṇi)—
+—your comrade by a solemn oath (_satyena_), O Rāghava, as he ranges the forest (_vana-cāriṇam_); for that foremost of monkeys (_kapi-kuñjaraḥ_) [knows] in their entirety (_kārtsnyena_) all the haunts (_sthānāni sarvāṇi_)—
 </details>
 </details>
 
@@ -1211,7 +1211,7 @@ thus far, nothing in the least is unfamiliar to him, isn't it... [3-72-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—of the man-eating demons (nara-māṃsāśinām) in the world through his keen skill (naipuṇyād adhigacchati); for nothing in the world is unknown to him (na tasyāviditaṃ loke kiṃcid asti), O Rāghava—
+—of the man-eating demons (_nara-māṃsāśinām_) in the world through his keen skill (_naipuṇyād adhigacchati_); for nothing in the world is unknown to him (_na tasyāviditaṃ loke kiṃcid asti_), O Rāghava—
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ impassable cliffs and caves in locating your wife... [3-72-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—so far as the thousand-rayed sun (sūryaḥ sahasrāṃśuḥ) shines forth (yāvat pratapati), O scorcher of foes (paraṃtapa). Searching through rivers, vast mountains, mountain fastnesses, and caverns (giri-durgāṇi kandarān)—
+—so far as the thousand-rayed sun (_sūryaḥ sahasrāṃśuḥ_) shines forth (_yāvat pratapati_), O scorcher of foes (_paraṃtapa_). Searching through rivers, vast mountains, mountain fastnesses, and caverns (_giri-durgāṇi kandarān_)—
 </details>
 </details>
 
@@ -1325,9 +1325,9 @@ by your parting, and he quests after the residence of Ravana for that comely lad
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** —together with his monkeys (vānaraiḥ sārdham), he will discover news of your wife (patnīṃ te 'dhigamiṣyati); and he will dispatch gigantic monkeys (vānarāṃś ca mahā-kāyān preṣayiṣyati), O Rāghava—
+**25:** —together with his monkeys (_vānaraiḥ sārdham_), he will discover news of your wife (_patnīṃ te &#x27;dhigamiṣyati_); and he will dispatch gigantic monkeys (_vānarāṃś ca mahā-kāyān preṣayiṣyati_), O Rāghava—
 
-**26:** —to search the directions (diśo vicetum) for that Sītā who is grieving over her separation from you (tvad-viyogena śocatīm); he will seek out that fair-hipped Maithilī (varārohāṃ maithilīm) in the abode of Rāvaṇa (rāvaṇālaye).
+**26:** —to search the directions (_diśo vicetum_) for that Sītā who is grieving over her separation from you (_tvad-viyogena śocatīm_); he will seek out that fair-hipped Maithilī (_varārohāṃ maithilīm_) in the abode of Rāvaṇa (_rāvaṇālaye_).
 </details>
 </details>
 
@@ -1400,7 +1400,7 @@ to Rama regarding Sugreeva. [3-72-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether that blameless lady (aninditām) has gone to the summit of Mount Meru (meru-śṛṅgāgra-gatām) or taken refuge at the bottom of the netherworld (pātāla-tale 'pi vāśritām), that bull among leapers (plavaṅgamānām ṛṣabhaḥ), entering there and slaying the demons (nihatya rakṣāṃsi), will restore your beloved to you (tava priyāṃ punaḥ pradāsyati).”
+Whether that blameless lady (_aninditām_) has gone to the summit of Mount Meru (_meru-śṛṅgāgra-gatām_) or taken refuge at the bottom of the netherworld (_pātāla-tale &#x27;pi vāśritām_), that bull among leapers (_plavaṅgamānām ṛṣabhaḥ_), entering there and slaying the demons (_nihatya rakṣāṃsi_), will restore your beloved to you (_tava priyāṃ punaḥ pradāsyati_).”
 </details>
 </details>
 

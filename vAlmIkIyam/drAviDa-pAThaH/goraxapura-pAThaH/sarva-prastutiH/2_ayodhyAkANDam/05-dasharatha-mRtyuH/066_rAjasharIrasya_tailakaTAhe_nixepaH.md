@@ -97,9 +97,9 @@ full of tears and who was stricken with grief of various sorts, spoke to Kausaly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding that monarch departed to heaven (svarga-sthaṃ prekṣya pārthivam)—like a fire completely extinguished (agnim iva saṃśāntam), like an ocean bereft of water (ambu-hīnam ivārṇavam), and like the sun robbed of its splendor (hata-prabham ivādityam)—
+**1:** Beholding that monarch departed to heaven (_svarga-sthaṃ prekṣya pārthivam_)—like a fire completely extinguished (_agnim iva saṃśāntam_), like an ocean bereft of water (_ambu-hīnam ivārṇavam_), and like the sun robbed of its splendor (_hata-prabham ivādityam_)—
 
-**2:** —Kausalyā, her eyes filled with tears (bāṣpa-pūrṇākṣī) and wasted in manifold ways by grief (vividhaṃ śoka-karśitā), took the king’s head upon her lap (upagṛhya śiro rājñaḥ) and spoke thus to Kaikeyī:
+**2:** —Kausalyā, her eyes filled with tears (_bāṣpa-pūrṇākṣī_) and wasted in manifold ways by grief (_vividhaṃ śoka-karśitā_), took the king’s head upon her lap (_upagṛhya śiro rājñaḥ_) and spoke thus to Kaikeyī:
 </details>
 </details>
 
@@ -155,7 +155,7 @@ desires. Deserting the king, you can enjoy the kingdom undisturbed and without a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Have your wish fulfilled, O Kaikeyī (sakāmā bhava kaikeyi)! Enjoy the kingdom free of all thorns (bhuṅkṣva rājyam akaṇṭakam), having cast away the king with single-minded intent (ekāgrā), O cruel woman of wicked deeds (nṛśaṃse duṣṭa-cāriṇi)!
+“Have your wish fulfilled, O Kaikeyī (_sakāmā bhava kaikeyi_)! Enjoy the kingdom free of all thorns (_bhuṅkṣva rājyam akaṇṭakam_), having cast away the king with single-minded intent (_ekāgrā_), O cruel woman of wicked deeds (_nṛśaṃse duṣṭa-cāriṇi_)!
 </details>
 </details>
 
@@ -208,7 +208,7 @@ not wish to live, as one left behind by a caravan in a wrong road."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Forsaking me, Rāma has gone away, and my husband too has departed to heaven; like a woman abandoned by her caravan on a perilous track (vipathe sārtha-hīneva), I cannot bear to live on (nāhaṃ jīvitum utsahe).
+Forsaking me, Rāma has gone away, and my husband too has departed to heaven; like a woman abandoned by her caravan on a perilous track (_vipathe sārtha-hīneva_), I cannot bear to live on (_nāhaṃ jīvitum utsahe_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ Kaikeyi who kicked off righteousness?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having abandoned that husband who is her very deity (daivatam ātmanaḥ), what woman—save Kaikeyī who has cast off all dharma (kaikeyyās tyakta-dharmaṇaḥ)—would wish to live on elsewhere?
+Having abandoned that husband who is her very deity (_daivatam ātmanaḥ_), what woman—save Kaikeyī who has cast off all dharma (_kaikeyyās tyakta-dharmaṇaḥ_)—would wish to live on elsewhere?
 </details>
 </details>
 
@@ -316,7 +316,7 @@ Due to that hump- backed woman, Kaikeyi has ruined the race of Raghu dynasty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A greedy man does not perceive his own faults (na lubdho budhyate doṣān), like one eating poisonous kimpāka fruit (kimpākam iva bhakṣayan); on account of the hunchbacked maid (kubjā-nimittam), the race of the Rāghavas has been destroyed by Kaikeyī.
+A greedy man does not perceive his own faults (_na lubdho budhyate doṣān_), like one eating poisonous kimpāka fruit (_kimpākam iva bhakṣayan_); on account of the hunchbacked maid (_kubjā-nimittam_), the race of the Rāghavas has been destroyed by Kaikeyī.
 </details>
 </details>
 
@@ -377,7 +377,7 @@ coerced as he was (Kaikeyi) to do an unworthy act, Janaka will profusely lament 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Rāma together with his wife has been banished by the king, who was urged to an improper command (aniyoge niyuktena), Janaka will grieve in anguish just as I do (paritapsyaty ahaṃ yathā).
+Hearing that Rāma together with his wife has been banished by the king, who was urged to an improper command (_aniyoge niyuktena_), Janaka will grieve in anguish just as I do (_paritapsyaty ahaṃ yathā_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ from here even though living, now does not know me to have because a support -le
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That righteous, lotus-eyed Rāma, who has gone hence to a living ruin (jīvan-nāśam ito gataḥ), does not know today that I am left protectorless and widowed (mām anāthāṃ vidhavām).
+That righteous, lotus-eyed Rāma, who has gone hence to a living ruin (_jīvan-nāśam ito gataḥ_), does not know today that I am left protectorless and widowed (_mām anāthāṃ vidhavām_).
 </details>
 </details>
 
@@ -483,7 +483,7 @@ unworthy of lamentation, will get frightened with grief in the forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So too the daughter of the king of Videha, the pitiable Sītā (sītā tapasvinī), unaccustomed to sorrow (duḥkhasyānucitā), will be overwhelmed with terror and misery in the forest (duḥkhaṃ vane paryudvijiṣyati).
+So too the daughter of the king of Videha, the pitiable Sītā (_sītā tapasvinī_), unaccustomed to sorrow (_duḥkhasyānucitā_), will be overwhelmed with terror and misery in the forest (_duḥkhaṃ vane paryudvijiṣyati_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ noises in nights, surely she will cling herself to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing in the night the cries of beasts and birds of dreadful roar (nadatāṃ bhīma-ghoṣāṇāṃ mṛga-pakṣiṇām), she will surely cling in terror to Rāghava (santrastā rāghavaṃ saṃśrayiṣyati).
+Hearing in the night the cries of beasts and birds of dreadful roar (_nadatāṃ bhīma-ghoṣāṇāṃ mṛga-pakṣiṇām_), she will surely cling in terror to Rāghava (_santrastā rāghavaṃ saṃśrayiṣyati_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ whelmed with grief and will surely abandon his life.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Old as he is and having no other child (vṛddhaś caivālpa-putraś ca), brooding over Vaidehī (vaidehīm anucintayan), he too (Janaka), overcome with grief, will surely give up his life (nanu tyakṣyati jīvitam).
+Old as he is and having no other child (_vṛddhaś caivālpa-putraś ca_), brooding over Vaidehī (_vaidehīm anucintayan_), he too (Janaka), overcome with grief, will surely give up his life (_nanu tyakṣyati jīvitam_).
 </details>
 </details>
 
@@ -634,7 +634,7 @@ enter the fire, duly embracing this body of my husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devoted to my husband as I am (pati-vratā), I myself shall this very day go to my destined end (adyāiva diṣṭāntaṃ gamiṣyāmi); embracing this body of his (idaṃ śarīram āliṅgya), I shall enter the fire (pravekṣyāmi hutāśanam).”
+Devoted to my husband as I am (_pati-vratā_), I myself shall this very day go to my destined end (_adyāiva diṣṭāntaṃ gamiṣyāmi_); embracing this body of his (_idaṃ śarīram āliṅgya_), I shall enter the fire (_pravekṣyāmi hutāśanam_).”
 </details>
 </details>
 
@@ -694,7 +694,7 @@ was in excess of her grief and was closely embracing her dead husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the royal functionaries (vyāvahārikāḥ), respectfully clasping and leading away (vyapanīya) the pitiable Kausalyā who was wailing and stricken with deep sorrow—
+Then the royal functionaries (_vyāvahārikāḥ_), respectfully clasping and leading away (_vyapanīya_) the pitiable Kausalyā who was wailing and stricken with deep sorrow—
 </details>
 </details>
 
@@ -747,7 +747,7 @@ acts that were to be done therafter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and placing the lord of the earth in a trough of oil (taila-droṇyām atha saṃveśya jagatī-patim), those ministers, as duly instructed (athādiṣṭāḥ), thereafter performed all the requisite offices for the king (cakruḥ karmāṇy anantaram).
+—and placing the lord of the earth in a trough of oil (_taila-droṇyām atha saṃveśya jagatī-patim_), those ministers, as duly instructed (_athādiṣṭāḥ_), thereafter performed all the requisite offices for the king (_cakruḥ karmāṇy anantaram_).
 </details>
 </details>
 
@@ -801,7 +801,7 @@ through).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those all-knowing counselors (mantriṇaḥ sarva-jñāḥ), however, did not wish to perform the cremation of the king (saṅkalanaṃ rājñaḥ) without a son present (vinā putreṇa); therefore they preserved the monarch (tato rakṣanti bhūmipam).
+Those all-knowing counselors (_mantriṇaḥ sarva-jñāḥ_), however, did not wish to perform the cremation of the king (_saṅkalanaṃ rājñaḥ_) without a son present (_vinā putreṇa_); therefore they preserved the monarch (_tato rakṣanti bhūmipam_).
 </details>
 </details>
 
@@ -853,7 +853,7 @@ the gynaacium cried "Alas! He is dead!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Realizing, “Alas, he is dead!” (hā mṛto ’yam iti jñātvā) when that lord of men had been laid by the ministers in the trough of oil (taila-droṇyāṃ śāyitam), those women lamented aloud (striyas tāḥ paryadevayan).
+Realizing, “Alas, he is dead!” (_hā mṛto ’yam iti jñātvā_) when that lord of men had been laid by the ministers in the trough of oil (_taila-droṇyāṃ śāyitam_), those women lamented aloud (_striyas tāḥ paryadevayan_).
 </details>
 </details>
 
@@ -906,7 +906,7 @@ their arms, stricken with grief as they were and pitiably lamented as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Throwing up their arms (bāhūn udyamya), those wretched women, with faces streaming with fountains of tears (netra-prasravaṇair mukhaiḥ), wept and lamented piteously, tormented with grief.
+Throwing up their arms (_bāhūn udyamya_), those wretched women, with faces streaming with fountains of tears (_netra-prasravaṇair mukhaiḥ_), wept and lamented piteously, tormented with grief.
 </details>
 </details>
 
@@ -952,7 +952,7 @@ always keeps up his promise, why have you left us?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, O great king! Why do you forsake us (kim arthaṃ vijahāsi naḥ), who are already bereft of Rāma, the ever-kindly spoken (satataṃ priya-vāदिनā) and true to his promise (satya-sandhena)?
+“Alas, O great king! Why do you forsake us (_kim arthaṃ vijahāsi naḥ_), who are already bereft of Rāma, the ever-kindly spoken (_satataṃ priya-vāदिनā_) and true to his promise (_satya-sandhena_)?
 </details>
 </details>
 
@@ -1016,7 +1016,7 @@ Kaikeyi of wretched nature, who killed her husband?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Separated from Rāghava, how shall we widows dwell beside the wicked-hearted, husband-slaying Kaikeyī (kathaṃ patighnyā vatsyāmaḥ samīpe)?
+Separated from Rāghava, how shall we widows dwell beside the wicked-hearted, husband-slaying Kaikeyī (_kathaṃ patighnyā vatsyāmaḥ samīpe_)?
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ man, has indeed gone on exile to the forest, leaving this lovely kingdom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For that glorious and self-controlled Rāma, who was ever our protector and your lordly support as well (sadaivāsmākaṃ tava ca prabhuḥ), has gone to the forest, forsaking royal fortune (vihāya nṛpati-śriyam).
+For that glorious and self-controlled Rāma, who was ever our protector and your lordly support as well (_sadaivāsmākaṃ tava ca prabhuḥ_), has gone to the forest, forsaking royal fortune (_vihāya nṛpati-śriyam_).
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ you and the heroic Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bewildered by calamity (vyasana-mohitāḥ) and spurned by Kaikeyī (kaikeyyā ca vidūṣitāḥ), how shall we live on without you and without that hero?
+Bewildered by calamity (_vyasana-mohitāḥ_) and spurned by Kaikeyī (_kaikeyyā ca vidūṣitāḥ_), how shall we live on without you and without that hero?
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ with Lakshmana great strength and Sita- not abandon?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She by whom the king, Rāma, and Lakṣmaṇa of mighty strength together with Sītā have been cast away (santyaktāḥ)—whom else will she not forsake (sā kam anyaṃ na hāsyati)?”
+She by whom the king, Rāma, and Lakṣmaṇa of mighty strength together with Sītā have been cast away (_santyaktāḥ_)—whom else will she not forsake (_sā kam anyaṃ na hāsyati_)?”
 </details>
 </details>
 
@@ -1218,7 +1218,7 @@ row, rolled on the ground, sorrowful as they were."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloped in tears (bāṣpeṇa ca saṃvītāḥ) and overwhelmed by vast grief, those noble wives of Rāghava (Daśaratha), bereft of all joy (nirānandāḥ), writhed upon the ground (vyaveṣṭanta).
+Enveloped in tears (_bāṣpeṇa ca saṃvītāḥ_) and overwhelmed by vast grief, those noble wives of Rāghava (Daśaratha), bereft of all joy (_nirānandāḥ_), writhed upon the ground (_vyaveṣṭanta_).
 </details>
 </details>
 
@@ -1271,7 +1271,7 @@ a night without moon and as awoman without husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a night bereft of the moon (niśā candra-vihīneva), or like a woman deprived of her husband (strīva bhartṛ-vivarjitā), the city of Ayodhyā, bereft of its great-souled monarch, did not shine (purī nārājatāyodhyā).
+Like a night bereft of the moon (_niśā candra-vihīneva_), or like a woman deprived of her husband (_strīva bhartṛ-vivarjitā_), the city of Ayodhyā, bereft of its great-souled monarch, did not shine (_purī nārājatāyodhyā_).
 </details>
 </details>
 
@@ -1332,7 +1332,7 @@ as before.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its people overwhelmed with tears (bāṣpa-paryākula-janā), its noblewomen crying “Alas! Alas!” (hāhā-bhūta-kulāṅganā), and its crossroads and house-portals deserted (śūnya-catvara-veśmāntā), the city did not shine as before (yathā-puram).
+With its people overwhelmed with tears (_bāṣpa-paryākula-janā_), its noblewomen crying “Alas! Alas!” (_hāhā-bhūta-kulāṅganā_), and its crossroads and house-portals deserted (_śūnya-catvara-veśmāntā_), the city did not shine as before (_yathā-puram_).
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ darkness having proceeded to spread throughout.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the lord of men had departed to heaven through grief (gate tu śokāt tridivaṃ narādhipe) and the royal women lay upon the ground (mahī-tala-sthāsu nṛpāṅganāsu ca), the sun, having ended its course, suddenly sank to rest (nivṛtta-cāraḥ sahasā gato raviḥ), and night, beginning its course, drew near (pravṛtta-cārā rajanī hy upasthitā).
+When the lord of men had departed to heaven through grief (_gate tu śokāt tridivaṃ narādhipe_) and the royal women lay upon the ground (_mahī-tala-sthāsu nṛpāṅganāsu ca_), the sun, having ended its course, suddenly sank to rest (_nivṛtta-cāraḥ sahasā gato raviḥ_), and night, beginning its course, drew near (_pravṛtta-cārā rajanī hy upasthitā_).
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ place(oil- trough)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The assembled friends and kinsmen did not approve of cremating the lord of the earth without his son (ṛte tu putrād dahanaṃ mahīpater na rocayante suhṛdaḥ samāgatāḥ); thinking thus upon the monarch of inconceivable aspect (vicintya rājānam acintya-darśanam), they laid him to rest in that couch of oil (tasmin śayane nyaveśayan).
+The assembled friends and kinsmen did not approve of cremating the lord of the earth without his son (_ṛte tu putrād dahanaṃ mahīpater na rocayante suhṛdaḥ samāgatāḥ_); thinking thus upon the monarch of inconceivable aspect (_vicintya rājānam acintya-darśanam_), they laid him to rest in that couch of oil (_tasmin śayane nyaveśayan_).
 </details>
 </details>
 
@@ -1520,7 +1520,7 @@ night with its multitude of stars disappeared, did not shine with its light havi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the sky bereft of luster without the sun (gata-prabhā dyaur iva bhāskaraṃ vinā), or like a night bereft of its host of stars (vyapeta-nakṣatra-gaṇeva śarvarī), the city, deprived of that great-souled king and with its highways and squares crowded with folk whose throats were choked with tears (asra-kaṇṭhākula-mārga-catvarā), did not shine.
+Like the sky bereft of luster without the sun (_gata-prabhā dyaur iva bhāskaraṃ vinā_), or like a night bereft of its host of stars (_vyapeta-nakṣatra-gaṇeva śarvarī_), the city, deprived of that great-souled king and with its highways and squares crowded with folk whose throats were choked with tears (_asra-kaṇṭhākula-mārga-catvarā_), did not shine.
 </details>
 </details>
 
@@ -1591,7 +1591,7 @@ Bharata's mother, became disturbed and did not obtain happiness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coming together in crowds (sametya saṅghaśaḥ) and reproaching the mother of Bharata (vigarhamāṇā bharatasya mātaram), men and women in the city at that time, upon the passing of the lord of men (naradeva-saṅkṣaye), were stricken with anguish and found no peace (na ca śarma lebhire).
+Coming together in crowds (_sametya saṅghaśaḥ_) and reproaching the mother of Bharata (_vigarhamāṇā bharatasya mātaram_), men and women in the city at that time, upon the passing of the lord of men (_naradeva-saṅkṣaye_), were stricken with anguish and found no peace (_na ca śarma lebhire_).
 </details>
 </details>
 

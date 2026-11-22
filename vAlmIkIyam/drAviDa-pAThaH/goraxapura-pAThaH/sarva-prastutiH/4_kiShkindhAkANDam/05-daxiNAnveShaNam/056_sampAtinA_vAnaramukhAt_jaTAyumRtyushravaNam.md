@@ -99,9 +99,9 @@ his forcefulness and aggressiveness, and a celebrated and sempiternal sky-flying
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Unto that mountain plateau (giristhale) where all those monkeys had sat down in a fast unto death (prāyam), the king of vultures (gṛdhrarājaḥ) also made his way (upacakrame).
+**1:** Unto that mountain plateau (_giristhale_) where all those monkeys had sat down in a fast unto death (_prāyam_), the king of vultures (_gṛdhrarājaḥ_) also made his way (_upacakrame_).
 
-**2:** Named Sampāti by name, a long-lived bird (cirajīvī vihaṃgamaḥ), he was the illustrious brother of Jaṭāyus, renowned for his strength and valor (vikhyāta-bala-pauruṣaḥ).
+**2:** Named Sampāti by name, a long-lived bird (_cirajīvī vihaṃgamaḥ_), he was the illustrious brother of Jaṭāyus, renowned for his strength and valor (_vikhyāta-bala-pauruṣaḥ_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ heart to see the monkeys sitting down there, and he spoke these words. [4-56-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Emerging from a cavern (kandarād abhiniṣkramya) of that great mountain Vindhya, upon beholding the seated monkeys, he spoke these words with a delighted heart (hṛṣṭātmā):
+Emerging from a cavern (_kandarād abhiniṣkramya_) of that great mountain Vindhya, upon beholding the seated monkeys, he spoke these words with a delighted heart (_hṛṣṭātmā_):
 </details>
 </details>
 
@@ -243,9 +243,9 @@ unpredictable bird, if it comes to it food.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Verily, destiny (vidhiḥ) in this world follows a creature through its ordained dispensation (vidhānena), inasmuch as this appointed food (vihito bhakṣyaḥ) has come to me after a long time!”
+**4:** “Verily, destiny (_vidhiḥ_) in this world follows a creature through its ordained dispensation (_vidhānena_), inasmuch as this appointed food (_vihito bhakṣyaḥ_) has come to me after a long time!”
 
-**5:** “Of these monkeys seated in an unbroken row (paramparāṇāṃ vānarāṇām), I shall devour each one as he dies (mṛtaṃ mṛtam)!” Looking upon those monkeys, the bird spoke this word.
+**5:** “Of these monkeys seated in an unbroken row (_paramparāṇāṃ vānarāṇām_), I shall devour each one as he dies (_mṛtaṃ mṛtam_)!” Looking upon those monkeys, the bird spoke this word.
 </details>
 </details>
 
@@ -300,7 +300,7 @@ then spoke to Hanuma. [4-56-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of that bird greedy for food (bhakṣyalubdhasya pakṣiṇaḥ), Aṅgada, exceedingly distressed (paramāyastaḥ), then spoke to Hanūmān:
+Hearing that speech of that bird greedy for food (_bhakṣyalubdhasya pakṣiṇaḥ_), Aṅgada, exceedingly distressed (_paramāyastaḥ_), then spoke to Hanūmān:
 </details>
 </details>
 
@@ -367,7 +367,7 @@ Death, rather than Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold! Under the pretext of Sītā (sītāpadeśena), Yama the son of Vivasvat himself (sākṣād vaivasvato yamaḥ) has reached this place for the destruction of the Vānaras!”
+“Behold! Under the pretext of Sītā (_sītāpadeśena_), Yama the son of Vivasvat himself (_sākṣād vaivasvato yamaḥ_) has reached this place for the destruction of the Vānaras!”
 </details>
 </details>
 
@@ -419,7 +419,7 @@ catastrophe has abruptly bechanced for the monkeys... [4-56-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāma's work has not been accomplished, nor has the king's command (rājaśāsanam) been fulfilled; and this unforeseen calamity (ajñātā vipattiḥ) has suddenly come upon the monkeys.”
+“Rāma&#x27;s work has not been accomplished, nor has the king&#x27;s command (_rājaśāsanam_) been fulfilled; and this unforeseen calamity (_ajñātā vipattiḥ_) has suddenly come upon the monkeys.”
 </details>
 </details>
 
@@ -472,7 +472,7 @@ do good to Vaidehi... [4-56-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That deed which was done there by Jaṭāyus the king of vultures, desirous of doing what was dear to Vaidehī (vaidehyāḥ priyakāmena), has been heard by you in its entirety (aśeṣataḥ).”
+“That deed which was done there by Jaṭāyus the king of vultures, desirous of doing what was dear to Vaidehī (_vaidehyāḥ priyakāmena_), has been heard by you in its entirety (_aśeṣataḥ_).”
 </details>
 </details>
 
@@ -524,7 +524,7 @@ agreeable to Rama even on forgoing their own lives, as with us... [4-56-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus all creatures, even those born in animal wombs (tiryagyonigatāny api), perform what is dear to Rāma, abandoning their lives just as we do.”
+“Thus all creatures, even those born in animal wombs (_tiryagyonigatāny api_), perform what is dear to Rāma, abandoning their lives just as we do.”
 </details>
 </details>
 
@@ -577,7 +577,7 @@ camaraderie, therefore, let each of us leave off our souls, soulfully... [4-56-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bound by affection and compassion (sneha-kāruṇya-yantritāḥ), creatures render service to one indirectly (anyonyam upakurvanti); therefore, for the sake of rendering service to him, cast away your body of your own accord (tyajatātmānam ātmanā).”
+“Bound by affection and compassion (_sneha-kāruṇya-yantritāḥ_), creatures render service to one indirectly (_anyonyam upakurvanti_); therefore, for the sake of rendering service to him, cast away your body of your own accord (_tyajatātmānam ātmanā_).”
 </details>
 </details>
 
@@ -635,7 +635,7 @@ Maithili... [4-56-12, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, what was dear to Rāma was accomplished by the righteous Jaṭāyus (dharmajñena jaṭāyuṣā), whereas we, exhausted in Rāghava's cause, have abandoned our lives [in vain]!”
+“Indeed, what was dear to Rāma was accomplished by the righteous Jaṭāyus (_dharmajñena jaṭāyuṣā_), whereas we, exhausted in Rāghava&#x27;s cause, have abandoned our lives [in vain]!”
 </details>
 </details>
 
@@ -702,7 +702,7 @@ Ravana, Jataayu is absolved of sin and fear of Sugreeva, as well. Maheshvara Tii
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We have entered trackless wildernesses (kāntārāṇi prapannāḥ sma), yet we do not behold Maithilī; fortunate indeed is that king of vultures (sa sukhī gṛdhrarājas tu) who was slain in battle by Rāvaṇa, freed from fear of Sugrīva and gone to the supreme state (paramāṃ gatim)!”
+“We have entered trackless wildernesses (_kāntārāṇi prapannāḥ sma_), yet we do not behold Maithilī; fortunate indeed is that king of vultures (_sa sukhī gṛdhrarājas tu_) who was slain in battle by Rāvaṇa, freed from fear of Sugrīva and gone to the supreme state (_paramāṃ gatim_)!”
 </details>
 </details>
 
@@ -757,7 +757,7 @@ predicament for us... the monkeys...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the destruction of Jaṭāyus and of King Daśaratha, and through the abduction of Vaidehī, the monkeys have fallen into mortal peril (saṃśayaṃ gatāḥ).”
+“Through the destruction of Jaṭāyus and of King Daśaratha, and through the abduction of Vaidehī, the monkeys have fallen into mortal peril (_saṃśayaṃ gatāḥ_).”
 </details>
 </details>
 
@@ -825,9 +825,9 @@ lamenting. [4-56-15,16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “The dwelling of Rāma and Lakṣmaṇa in the forest together with Sītā, and likewise the slaying of Vālin by Rāghava's arrow—”
+**15:** “The dwelling of Rāma and Lakṣmaṇa in the forest together with Sītā, and likewise the slaying of Vālin by Rāghava&#x27;s arrow—”
 
-**16:** “And the slaying of all the Rākṣasas through Rāma's wrath—and this perverse calamity (idaṃ ca vikṛtam)—all was brought about by Kaikeyī's boon (kaikeyyā varadānena)!”
+**16:** “And the slaying of all the Rākṣasas through Rāma&#x27;s wrath—and this perverse calamity (_idaṃ ca vikṛtam_)—all was brought about by Kaikeyī&#x27;s boon (_kaikeyyā varadānena_)!”
 </details>
 </details>
 
@@ -899,7 +899,7 @@ next verses in the next chapter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that sorrowful speech (asukham anukīrtitaṃ vacaḥ) and beholding the monkeys prostrate upon the ground, that high-minded king of vultures, his mind deeply shaken (bhṛśacakitamatiḥ), uttered a piteous cry (kṛpaṇam udāhṛtavān).
+Hearing that sorrowful speech (_asukham anukīrtitaṃ vacaḥ_) and beholding the monkeys prostrate upon the ground, that high-minded king of vultures, his mind deeply shaken (_bhṛśacakitamatiḥ_), uttered a piteous cry (_kṛpaṇam udāhṛtavān_).
 </details>
 </details>
 
@@ -954,7 +954,7 @@ hearing words voiced by Angada. [4-56-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech thus issuing from Aṅgada's mouth (aṅgadasya mukhodgatam), the sharp-beaked vulture (tīkṣṇatuṇḍaḥ) of mighty voice spoke these words:
+Hearing that speech thus issuing from Aṅgada&#x27;s mouth (_aṅgadasya mukhodgatam_), the sharp-beaked vulture (_tīkṣṇatuṇḍaḥ_) of mighty voice spoke these words:
 </details>
 </details>
 
@@ -1014,7 +1014,7 @@ brother of mine than my own lives, is slain? [4-56-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is this that proclaims with his voice the slaying of my brother Jaṭāyus, dearer to me than life (prāṇaiḥ priyatarasya me), making my heart tremble, as it were (kampayann iva me manaḥ)?”
+“Who is this that proclaims with his voice the slaying of my brother Jaṭāyus, dearer to me than life (_prāṇaiḥ priyatarasya me_), making my heart tremble, as it were (_kampayann iva me manaḥ_)?”
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ hearing this name of my brother after a long time... [4-56-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How did the battle in Janasthāna between the Rākṣasa and the vulture come to pass? Today, after a long time (cirasya), this name of my brother has been heard by me!”
+“How did the battle in Janasthāna between the Rākṣasa and the vulture come to pass? Today, after a long time (_cirasya_), this name of my brother has been heard by me!”
 </details>
 </details>
 
@@ -1150,9 +1150,9 @@ when he was in Janasthaana... [4-56-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “And I would wish to be helped down (avatāritum) by you from this mountain fastness (giridurgāt)! Of my younger brother, knower of virtues and praiseworthy for his valorous deeds (ślāghanīyasya vikramaiḥ),”
+**21:** “And I would wish to be helped down (_avatāritum_) by you from this mountain fastness (_giridurgāt_)! Of my younger brother, knower of virtues and praiseworthy for his valorous deeds (_ślāghanīyasya vikramaiḥ_),”
 
-**22:** “I am delighted by the mention after so very long a time (atidīrghasya kālasya); therefore, O bulls among Vānaras, I wish to hear of the destruction—”
+**22:** “I am delighted by the mention after so very long a time (_atidīrghasya kālasya_); therefore, O bulls among Vānaras, I wish to hear of the destruction—”
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ is the friend of my brother Jatayu/ But how did Dasharatha pass away? [4-56-23b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of that brother of mine, Jaṭāyus, who dwelt in Janasthāna! And how fared Daśaratha, the friend of that same brother of mine (tasyaiva ca mama bhrātuḥ sakhā),”
+“Of that brother of mine, Jaṭāyus, who dwelt in Janasthāna! And how fared Daśaratha, the friend of that same brother of mine (_tasyaiva ca mama bhrātuḥ sakhā_),”
 </details>
 </details>
 
@@ -1275,7 +1275,7 @@ help of monkeys. [4-56-24b, c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whose beloved eldest son is Rāma, dear to his elders (gurujanapriyaḥ)? Because my wings were burned by the sun's rays (sūryāṃśu-dagdha-pakṣatvāt), I am unable to move about (visarpitum); I wish to descend from this mountain, O tamers of foes!”
+“Whose beloved eldest son is Rāma, dear to his elders (_gurujanapriyaḥ_)? Because my wings were burned by the sun&#x27;s rays (_sūryāṃśu-dagdha-pakṣatvāt_), I am unable to move about (_visarpitum_); I wish to descend from this mountain, O tamers of foes!”
 </details>
 </details>
 

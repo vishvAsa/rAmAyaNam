@@ -75,7 +75,7 @@ it would burn him into ashes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his brother [Kumbha] struck down by Sugrīva, Nikumbha glared up at the lord of monkeys (vānarendram), as though burning him up with wrath (pradahann iva kopena).
+Seeing his brother [Kumbha] struck down by Sugrīva, Nikumbha glared up at the lord of monkeys (_vānarendram_), as though burning him up with wrath (_pradahann iva kopena_).
 </details>
 </details>
 
@@ -126,7 +126,7 @@ in breadth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that resolute warrior (dhīraḥ) seized his splendid iron club (parigham), wreathed with garlands of flowers, stamped with the five-fingered print (dattapañcāṅgulam), and resembling a peak of Mount Mahendra.
+Then that resolute warrior (_dhīraḥ_) seized his splendid iron club (_parigham_), wreathed with garlands of flowers, stamped with the five-fingered print (_dattapañcāṅgulam_), and resembling a peak of Mount Mahendra.
 </details>
 </details>
 
@@ -172,7 +172,7 @@ the death-dealing rod of Yama, it seemed causing dismay to the monkeys and nervi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He grasped that club] banded with plates of gold (hemapaṭṭaparikṣiptam), encrusted with diamonds and coral, dreadful as the rod of Yama (yamadaṇḍopamam), and dispelling all fear from the rākṣasas.
+[He grasped that club] banded with plates of gold (_hemapaṭṭaparikṣiptam_), encrusted with diamonds and coral, dreadful as the rod of Yama (_yamadaṇḍopamam_), and dispelling all fear from the _rākṣasas_.
 </details>
 </details>
 
@@ -218,7 +218,7 @@ prowess, roared with his mouth yawing wide.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whirling that club whose might matched Indra's banner-staff (śakradhvajasamaujasam), Nikumbha of mighty splendor and terrible valor opened wide his jaws (vivṛttāsyaḥ) and roared aloud.
+Whirling that club whose might matched Indra&#x27;s banner-staff (_śakradhvajasamaujasam_), Nikumbha of mighty splendor and terrible valor opened wide his jaws (_vivṛttāsyaḥ_) and roared aloud.
 </details>
 </details>
 
@@ -279,9 +279,9 @@ with a vivid rainbow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** With the golden breast-ornament (niṣkeṇa) resting upon his chest, the armlets set upon his arms (bhujasthair aṅgadaiḥ), his pair of resplendent earrings, and his variegated garland—
+**5:** With the golden breast-ornament (_niṣkeṇa_) resting upon his chest, the armlets set upon his arms (_bhujasthair aṅgadaiḥ_), his pair of resplendent earrings, and his variegated garland—
 
-**6:** —Nikumbha shone with those ornaments and with that iron club (parigheṇa), just like a thundering storm-cloud (stanayitnumān meghaḥ) flashed with lightning and spanned by Indra's rainbow.
+**6:** —Nikumbha shone with those ornaments and with that iron club (_parigheṇa_), just like a thundering storm-cloud (_stanayitnumān meghaḥ_) flashed with lightning and spanned by Indra&#x27;s rainbow.
 </details>
 </details>
 
@@ -335,7 +335,7 @@ splendour, on the breast of that mighty Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the tip of that mighty-bodied warrior's club (parighāgreṇa), the knot of the cosmic winds (vātagranthiḥ) burst asunder, and it blazed forth with a roar like a smokeless fire (vidhūma iva pāvakaḥ).
+By the tip of that mighty-bodied warrior&#x27;s club (_parighāgreṇa_), the knot of the cosmic winds (_vātagranthiḥ_) burst asunder, and it blazed forth with a roar like a smokeless fire (_vidhūma iva pāvakaḥ_).
 </details>
 </details>
 
@@ -396,7 +396,7 @@ planets joining the rotating race.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along with the city of Viṭapāvatī [Alakā] and the noblest palaces of the Gandharvas, the vault of the sky (nabhasthalam)—together with its hosts of stars and constellations, the moon, and the great planets—seemed to spin round, whirled by Nikumbha's iron club (nikumbhaparighāghūrṇam).
+Along with the city of Viṭapāvatī [Alakā] and the noblest palaces of the Gandharvas, the vault of the sky (_nabhasthalam_)—together with its hosts of stars and constellations, the moon, and the great planets—seemed to spin round, whirled by Nikumbha&#x27;s iron club (_nikumbhaparighāghūrṇam_).
 </details>
 </details>
 
@@ -443,7 +443,7 @@ of the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Radiant with his club and ornaments (parighābharaṇaprabhaḥ) and fueled by wrath (krodhendhanaḥ), the fire that was Nikumbha grew unapproachable, like the fire of universal dissolution (yugāntāgniḥ) risen on high.
+Radiant with his club and ornaments (_parighābharaṇaprabhaḥ_) and fueled by wrath (_krodhendhanaḥ_), the fire that was Nikumbha grew unapproachable, like the fire of universal dissolution (_yugāntāgniḥ_) risen on high.
 </details>
 </details>
 
@@ -491,7 +491,7 @@ in front of Nikumbha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of terror, neither the rākṣasas nor the monkeys could even stir (spanditum); yet mighty Hanumān, baring his chest (vivṛtyoraḥ), stood firm right before him.
+Out of terror, neither the _rākṣasas_ nor the monkeys could even stir (_spanditum_); yet mighty Hanumān, baring his chest (_vivṛtyoraḥ_), stood firm right before him.
 </details>
 </details>
 
@@ -537,7 +537,7 @@ splendour, on the breast of that mighty Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that mighty warrior [Nikumbha], whose arms resembled iron clubs (parighopamabāhuḥ), brought his sun-bright club crashing down upon the chest of powerful Hanumān.
+Then that mighty warrior [Nikumbha], whose arms resembled iron clubs (_parighopamabāhuḥ_), brought his sun-bright club crashing down upon the chest of powerful Hanumān.
 </details>
 </details>
 
@@ -583,7 +583,7 @@ into hundreds of fragments, like hundreds of meteors shattering into the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon his broad, immovable chest (sthire tasyorasi vyūḍhe), that iron club was shattered into a hundred pieces (śatadhā kṛtaḥ), scattering suddenly like a hundred meteors across the sky.
+Upon his broad, immovable chest (_sthire tasyorasi vyūḍhe_), that iron club was shattered into a hundred pieces (_śatadhā kṛtaḥ_), scattering suddenly like a hundred meteors across the sky.
 </details>
 </details>
 
@@ -641,7 +641,7 @@ That Hanuma, struck by that blow of the club, was unmoved like a mountain in an 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet despite being struck by that iron club, the great monkey did not budge at all under that blow (tena prahāreṇa), like a mountain unmoved in an earthquake (bhūmicale 'calaḥ).
+Yet despite being struck by that iron club, the great monkey did not budge at all under that blow (_tena prahāreṇa_), like a mountain unmoved in an earthquake (_bhūmicale &#x27;calaḥ_).
 </details>
 </details>
 
@@ -694,7 +694,7 @@ Thus struck by him, the mighty Hanuma the monkey-chief clenched his fist forcibl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck thus by him, Hanumān, the foremost of leapers (plavagottamaḥ) and of surpassingly mighty strength, clenched his fist (muṣṭiṃ saṃvartayāmāsa) with all his might.
+Struck thus by him, Hanumān, the foremost of leapers (_plavagottamaḥ_) and of surpassingly mighty strength, clenched his fist (_muṣṭiṃ saṃvartayāmāsa_) with all his might.
 </details>
 </details>
 
@@ -740,7 +740,7 @@ his father, lifting that fist, struck it against, Nikumbha's breast with force.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising that [fist], the valorous and swift warrior of mighty splendor, possessing the prowess of the Wind-god (vāyuvikramaḥ), drove it with force against Nikumbha's chest.
+Raising that [fist], the valorous and swift warrior of mighty splendor, possessing the prowess of the Wind-god (_vāyuvikramaḥ_), drove it with force against Nikumbha&#x27;s chest.
 </details>
 </details>
 
@@ -789,7 +789,7 @@ out, as a black cloud streaked suddenly with fierce lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Nikumbha's armor (varma) split open and blood gushed forth; produced by that fist, [a flash] sprang up like lightning (vidyud iva) flaring within a cloud.
+Thereupon Nikumbha&#x27;s armor (_varma_) split open and blood gushed forth; produced by that fist, [a flash] sprang up like lightning (_vidyud iva_) flaring within a cloud.
 </details>
 </details>
 
@@ -840,7 +840,7 @@ of Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nikumbha reeled from that blow (vicacāla ca); yet, recovering his composure (svasthaś cāpi), he seized hold of Hanumān of mighty strength.
+Nikumbha reeled from that blow (_vicacāla ca_); yet, recovering his composure (_svasthaś cāpi_), he seized hold of Hanumān of mighty strength.
 </details>
 </details>
 
@@ -888,7 +888,7 @@ from the ranks of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the dwellers of Laṅkā (laṅkānivāsinaḥ) raised a terrible shout in battle upon seeing mighty Hanumān lifted up (udyatam) by Nikumbha.
+Then the dwellers of Laṅkā (_laṅkānivāsinaḥ_) raised a terrible shout in battle upon seeing mighty Hanumān lifted up (_udyatam_) by Nikumbha.
 </details>
 </details>
 
@@ -951,7 +951,7 @@ struck him with his thunderbolt-like fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as he was being carried off thus by that rākṣasa, Hanumān, the son of the Wind-god (anilasutaḥ), struck him with his thunderbolt-like fist (vajrakalpena muṣṭinā).
+Even as he was being carried off thus by that _rākṣasa_, Hanumān, the son of the Wind-god (_anilasutaḥ_), struck him with his thunderbolt-like fist (_vajrakalpena muṣṭinā_).
 </details>
 </details>
 
@@ -997,7 +997,7 @@ ground and treated him with blows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Freeing himself (ātmānaṃ mokṣayitvā), Hanumān, the offspring of Marut, sprang down upon the ground (kṣitāv abhyavapadyata) and swiftly pounded Nikumbha.
+Freeing himself (_ātmānaṃ mokṣayitvā_), Hanumān, the offspring of Marut, sprang down upon the ground (_kṣitāv abhyavapadyata_) and swiftly pounded Nikumbha.
 </details>
 </details>
 
@@ -1067,9 +1067,9 @@ head, while Nikumbha was horribly roaring.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Hurling Nikumbha down with supreme exertion (paramāyattaḥ), that swift warrior crushed him (niṣpipeṣa ca) and, leaping up with force, landed upon his chest.
+**21:** Hurling Nikumbha down with supreme exertion (_paramāyattaḥ_), that swift warrior crushed him (_niṣpipeṣa ca_) and, leaping up with force, landed upon his chest.
 
-**22:** Seizing his neck (śirodharām) with both arms and twisting it round (parivṛtya), he wrenched off the huge head of the dreadfully roaring demon.
+**22:** Seizing his neck (_śirodharām_) with both arms and twisting it round (_parivṛtya_), he wrenched off the huge head of the dreadfully roaring demon.
 </details>
 </details>
 
@@ -1120,7 +1120,7 @@ terrific struggle between the enraged Rama and Makaraksha, son of Khara, a ruler
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When roaring Nikumbha had been laid low by the son of the Wind-god in battle, a most terrible combat (subhīmam yuddham) arose between the son of Daśaratha [Rāma] and the son of the rākṣasa lord [Khara's son Makarākṣa], both fiercely incensed with wrath.
+When roaring Nikumbha had been laid low by the son of the Wind-god in battle, a most terrible combat (_subhīmam yuddham_) arose between the son of Daśaratha [Rāma] and the son of the _rākṣasa_ lord [Khara&#x27;s son Makarākṣa], both fiercely incensed with wrath.
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ the army of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Nikumbha's life-breath had departed (vyapete tu jīve), the monkeys roared in joy and the quarters echoed (diśaḥ sasvanuś ca); the earth seemed to quake, the sky seemed to fall, and terror entered the host of the rākṣasas.
+When Nikumbha&#x27;s life-breath had departed (_vyapete tu jīve_), the monkeys roared in joy and the quarters echoed (_diśaḥ sasvanuś ca_); the earth seemed to quake, the sky seemed to fall, and terror entered the host of the _rākṣasas_.
 </details>
 </details>
 

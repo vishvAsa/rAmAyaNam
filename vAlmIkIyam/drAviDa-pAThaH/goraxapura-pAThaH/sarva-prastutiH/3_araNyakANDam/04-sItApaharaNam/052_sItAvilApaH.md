@@ -88,7 +88,7 @@ thereby giving some time to Seetha to recollect what has happened.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that king of vultures (nirīkṣya taṃ gṛdhra-rājam) struck down by Rāvaṇa (rāvaṇena vinihatam), she of moon-like face (sā tu tārādhipa-mukhī), deeply afflicted with grief (suduḥkhitā), lamented (vilalāpa):
+Beholding that king of vultures (_nirīkṣya taṃ gṛdhra-rājam_) struck down by Rāvaṇa (_rāvaṇena vinihatam_), she of moon-like face (_sā tu tārādhipa-mukhī_), deeply afflicted with grief (_suduḥkhitā_), lamented (_vilalāpa_):
 </details>
 </details>
 
@@ -146,7 +146,7 @@ is happening to me and thus why not come to my rescue?'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Portents (nimittam), bodily signs (lakṣaṇam), dreams (svapnam), and the hearing of bird-cries or sighting of their flight (śakuni-svara-darśanam) are unfailingly observed (avaśyaṃ paridṛśyate) in the joys and sorrows of mortals (sukha-duḥkheṣu narāṇām).
+“Portents (_nimittam_), bodily signs (_lakṣaṇam_), dreams (_svapnam_), and the hearing of bird-cries or sighting of their flight (_śakuni-svara-darśanam_) are unfailingly observed (_avaśyaṃ paridṛśyate_) in the joys and sorrows of mortals (_sukha-duḥkheṣu narāṇām_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ these animals, presuming that they are pestering you...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely, O Rāma, you do not know (na nūnaṃ jānāsi) of the great calamity that has befallen yourself (mahad vyasanam ātmanaḥ); yet surely, O Kākutstha, the beasts and birds (mṛga-pakṣiṇaḥ) are hastening [toward you] on my account (dhāvanti nūnaṃ mad-artham)!
+Surely, O Rāma, you do not know (_na nūnaṃ jānāsi_) of the great calamity that has befallen yourself (_mahad vyasanam ātmanaḥ_); yet surely, O Kākutstha, the beasts and birds (_mṛga-pakṣiṇaḥ_) are hastening [toward you] on my account (_dhāvanti nūnaṃ mad-artham_)!
 </details>
 </details>
 
@@ -268,7 +268,7 @@ ill luck is holding sway, it is for you, and you alone, oh, Rama, to come for my
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this bird (ayaṃ hi vihaṃgamaḥ), who came here out of compassion to rescue me (kṛpayā māṃ trātum iha saṃgataḥ), O Rāma, lies struck down upon the ground (śete vinihato bhūmau) through my ill fortune (mamābhāgyāt)!
+For this bird (_ayaṃ hi vihaṃgamaḥ_), who came here out of compassion to rescue me (_kṛpayā māṃ trātum iha saṃgataḥ_), O Rāma, lies struck down upon the ground (_śete vinihato bhūmau_) through my ill fortune (_mamābhāgyāt_)!
 </details>
 </details>
 
@@ -333,7 +333,7 @@ of a parrot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Save me today, O Kākutstha! O Lakṣmaṇa!’ (trāhi mām adya kākutstha lakṣmaṇeti)—thus the lovely lady (varāṅganā), utterly terrified (susaṃtrastā), cried out aloud (samākrandat) as though before those listening nearby (śṛṇvatāṃ tu yathāntike).
+‘Save me today, O Kākutstha! O Lakṣmaṇa!’ (_trāhi mām adya kākutstha lakṣmaṇeti_)—thus the lovely lady (_varāṅganā_), utterly terrified (_susaṃtrastā_), cried out aloud (_samākrandat_) as though before those listening nearby (_śṛṇvatāṃ tu yathāntike_).
 </details>
 </details>
 
@@ -385,7 +385,7 @@ and who is bawling like an orphanized one. [3-52-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Toward that Vaidehī, whose garlands and ornaments were crushed and dishevelled (kliṣṭa-mālyābharaṇām) and who was wailing like one protectorless (vilapantīm anāthavat), Rāvaṇa, the lord of rākṣasas, rushed (abhyadhāvata).
+Toward that Vaidehī, whose garlands and ornaments were crushed and dishevelled (_kliṣṭa-mālyābharaṇām_) and who was wailing like one protectorless (_vilapantīm anāthavat_), Rāvaṇa, the lord of _rākṣasas_, rushed (_abhyadhāvata_).
 </details>
 </details>
 
@@ -427,7 +427,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The lord of rākṣasas reached her (prāpa tām) as she clung like a creeper (latām iva veṣṭantīm) and embraced the great trees (āliṅgantīṃ mahā-drumān), crying out again and again, “Let go! Let go!” (muñca muñceti bahuśaḥ).
+The lord of _rākṣasas_ reached her (_prāpa tām_) as she clung like a creeper (_latām iva veṣṭantīm_) and embraced the great trees (_āliṅgantīṃ mahā-drumān_), crying out again and again, “Let go! Let go!” (_muñca muñceti bahuśaḥ_).
 </details>
 </details>
 
@@ -505,9 +505,9 @@ capture is viewed on a human plane, rather than a conjuror's trick.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Looking like Death himself (antaka-saṃnibhaḥ), he seized her by the hair (keśeṣu jagrāha)—to the ending of his own life (jīvitāntāya)—as she, bereft of Rāma in the forest (rāmeṇa rahitāṃ vane), cried out, “O Rāma! O Rāma!” (krośantīṃ rāma rāmeti).
+**8:** Looking like Death himself (_antaka-saṃnibhaḥ_), he seized her by the hair (_keśeṣu jagrāha_)—to the ending of his own life (_jīvitāntāya_)—as she, bereft of Rāma in the forest (_rāmeṇa rahitāṃ vane_), cried out, “O Rāma! O Rāma!” (_krośantīṃ rāma rāmeti_).
 
-**9:** When Vaidehī was thus violated (pradharṣitāyāṃ vaidehyām), the entire universe with its moving and unmoving beings (jagat sarvaṃ sacarācaram) lost its natural order (babhūvāmaryādam) and was enveloped in blinding darkness (tamasāndhena saṃvṛtam).
+**9:** When Vaidehī was thus violated (_pradharṣitāyāṃ vaidehyām_), the entire universe with its moving and unmoving beings (_jagat sarvaṃ sacarācaram_) lost its natural order (_babhūvāmaryādam_) and was enveloped in blinding darkness (_tamasāndhena saṃvṛtam_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wind did not blow there (na vāti mārutas tatra) and the sun grew lustreless (niṣprabho 'bhūd divākaraḥ); and beholding Sītā laid hold of (dṛṣṭvā sītāṃ parāmṛṣṭām) through his divine vision (divyena cakṣuṣā), the god—
+The wind did not blow there (_na vāti mārutas tatra_) and the sun grew lustreless (_niṣprabho &#x27;bhūd divākaraḥ_); and beholding Sītā laid hold of (_dṛṣṭvā sītāṃ parāmṛṣṭām_) through his divine vision (_divyena cakṣuṣā_), the god—
 </details>
 </details>
 
@@ -647,9 +647,9 @@ all, a frog crocks before a rain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** The glorious Grandsire Brahmā (śrīmān pitāmahaḥ) declared, “The work is accomplished!” (kṛtaṃ kāryam iti). And all those supreme sages (sarve te paramarṣayaḥ) were at once overjoyed and distressed (prahṛṣṭā vyathitāś cāsan)—
+**11:** The glorious Grandsire Brahmā (_śrīmān pitāmahaḥ_) declared, “The work is accomplished!” (_kṛtaṃ kāryam iti_). And all those supreme sages (_sarve te paramarṣayaḥ_) were at once overjoyed and distressed (_prahṛṣṭā vyathitāś cāsan_)—
 
-**12:** Those dwellers of the Daṇḍaka forest (daṇḍakāraṇya-vāsinaḥ), upon seeing Sītā laid hold of (dṛṣṭvā sītāṃ parāmṛṣṭām) and realizing that Rāvaṇa's destruction (rāvaṇasya vināśam) had arrived of its own accord (prāptaṃ buddhvā yadṛcchayā).
+**12:** Those dwellers of the Daṇḍaka forest (_daṇḍakāraṇya-vāsinaḥ_), upon seeing Sītā laid hold of (_dṛṣṭvā sītāṃ parāmṛṣṭām_) and realizing that Rāvaṇa&#x27;s destruction (_rāvaṇasya vināśam_) had arrived of its own accord (_prāptaṃ buddhvā yadṛcchayā_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ took flight skyward. [3-52-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking her as she wept (tāṃ rudatīṃ ādāya), crying “O Rāma, Rāma!” and “O Lakṣmaṇa!” (rāma rāmeti ... lakṣmaṇeti ca), Rāvaṇa, the lord of rākṣasas, rose into the sky (jagāmākāśam).
+Taking her as she wept (_tāṃ rudatīṃ ādāya_), crying “O Rāma, Rāma!” and “O Lakṣmaṇa!” (_rāma rāmeti ... lakṣmaṇeti ca_), Rāvaṇa, the lord of _rākṣasas_, rose into the sky (_jagāmākāśam_).
 </details>
 </details>
 
@@ -774,7 +774,7 @@ alone will electrocute that cloud, called Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Her limbs the color of burnished gold ornaments (taptābharaṇa-varṇāṅgī) and clad in yellow silk (pīta-kauśeya-vāsinī), the princess shone (rarāja rāja-putrī) like a flash of saudāmanī lightning (vidyut saudāmanī yathā).
+Her limbs the color of burnished gold ornaments (_taptābharaṇa-varṇāṅgī_) and clad in yellow silk (_pīta-kauśeya-vāsinī_), the princess shone (_rarāja rāja-putrī_) like a flash of _saudāmanī_ lightning (_vidyut saudāmanī yathā_).
 </details>
 </details>
 
@@ -839,7 +839,7 @@ a mountain with a self-ruinous fire, overly and muchly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And with her yellow garment fluttering aloft (uddhūtena ca vastreṇa tasyāḥ pītena), Rāvaṇa blazed all the more (adhikaṃ paribabhrāja), like a mountain ablaze with fire (girir dīpta ivāgninā).
+And with her yellow garment fluttering aloft (_uddhūtena ca vastreṇa tasyāḥ pītena_), Rāvaṇa blazed all the more (_adhikaṃ paribabhrāja_), like a mountain ablaze with fire (_girir dīpta ivāgninā_).
 </details>
 </details>
 
@@ -903,7 +903,7 @@ the middle foot, that also says the same.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The coppery-red and fragrant lotus petals (tāmrāṇi surabhīṇi ca padma-patrāṇi) of that supremely auspicious Vaidehī (tasyāḥ parama-kalyāṇyā vaidehyāḥ) were scattered all over Rāvaṇa (abhyakīryanta rāvaṇam).
+The coppery-red and fragrant lotus petals (_tāmrāṇi surabhīṇi ca padma-patrāṇi_) of that supremely auspicious Vaidehī (_tasyāḥ parama-kalyāṇyā vaidehyāḥ_) were scattered all over Rāvaṇa (_abhyakīryanta rāvaṇam_).
 </details>
 </details>
 
@@ -960,7 +960,7 @@ it is a bad omen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And her golden-hued silk garment (tasyāḥ kauśeyaṃ kanaka-prabham), fluttering in the sky (uddhūtam ākāśe), shone like a cloud reddened by the glow of the sun (babhau cāditya-rāgeṇa tāmram abhram iva) at twilight (ātape).
+And her golden-hued silk garment (_tasyāḥ kauśeyaṃ kanaka-prabham_), fluttering in the sky (_uddhūtam ākāśe_), shone like a cloud reddened by the glow of the sun (_babhau cāditya-rāgeṇa tāmram abhram iva_) at twilight (_ātape_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ devoid of him, she is lost to the world for a glimpse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resting on Rāvaṇa's hip in the sky (ākāśe rāvaṇāṅkagam), that spotless face of hers (tasyās tad vimalaṃ vaktram), separated from Rāma (vinā rāmam), did not shine (na rarāja), like a lotus severed from its stalk (vinālam iva paṅkajam).
+Resting on Rāvaṇa&#x27;s hip in the sky (_ākāśe rāvaṇāṅkagam_), that spotless face of hers (_tasyās tad vimalaṃ vaktram_), separated from Rāma (_vinā rāmam_), did not shine (_na rarāja_), like a lotus severed from its stalk (_vinālam iva paṅkajam_).
 </details>
 </details>
 
@@ -1062,9 +1062,9 @@ Though radiant as the moon cleaving a dark cloud or a golden girdle on a dark el
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** With its shapely forehead (sulalāṭam), lovely hairline (sukeśāntam), spotless complexion (avraṇam), and the hue of a lotus calyx (padma-garbhābham), [her face] appeared like the moon risen after cleaving a dark rain-cloud (babhūva jaladaṃ nīlaṃ bhittvā candra ivoditaḥ)—
+**19:** With its shapely forehead (_sulalāṭam_), lovely hairline (_sukeśāntam_), spotless complexion (_avraṇam_), and the hue of a lotus calyx (_padma-garbhābham_), [her face] appeared like the moon risen after cleaving a dark rain-cloud (_babhūva jaladaṃ nīlaṃ bhittvā candra ivoditaḥ_)—
 
-**20:** Adorned with white, spotless, and lustrous teeth (śuklaiḥ suvimalair dantaiḥ prabhāvadbhir alaṃkṛtam), that lovely-eyed face of hers (tasyāḥ sunayanaṃ vaktram), resting on Rāvaṇa's hip in the sky (ākāśe rāvaṇāṅkagam)—
+**20:** Adorned with white, spotless, and lustrous teeth (_śuklaiḥ suvimalair dantaiḥ prabhāvadbhir alaṃkṛtam_), that lovely-eyed face of hers (_tasyāḥ sunayanaṃ vaktram_), resting on Rāvaṇa&#x27;s hip in the sky (_ākāśe rāvaṇāṅkagam_)—
 </details>
 </details>
 
@@ -1153,9 +1153,9 @@ coal, Seetha is now with this coal-like Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Tear-stained from weeping (ruditam) with its tears wiped away (vyapamṛṣṭāsram), lovely to behold as the moon (candravat priya-darśanam), with a shapely nose (sunāsam), charming coppery lips (cāru-tāmroṣṭham), and the sheen of gold in the sky (ākāśe hāṭaka-prabham)—
+**21:** Tear-stained from weeping (_ruditam_) with its tears wiped away (_vyapamṛṣṭāsram_), lovely to behold as the moon (_candravat priya-darśanam_), with a shapely nose (_sunāsam_), charming coppery lips (_cāru-tāmroṣṭham_), and the sheen of gold in the sky (_ākāśe hāṭaka-prabham_)—
 
-**22:** Shaken by the lord of rākṣasas (rākṣasendra-samādhūtam), that auspicious face of hers (tasyās tad vadanaṃ śubham) did not shine without Rāma (śuśubhe na vinā rāmam), like the moon risen by day (divā candra ivoditaḥ).
+**22:** Shaken by the lord of _rākṣasas_ (_rākṣasendra-samādhūtam_), that auspicious face of hers (_tasyās tad vadanaṃ śubham_) did not shine without Rāma (_śuśubhe na vinā rāmam_), like the moon risen by day (_divā candra ivoditaḥ_).
 </details>
 </details>
 
@@ -1228,7 +1228,7 @@ concerned...' it is said so.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resting against the dark-limbed lord of rākṣasas (nīlāṅgaṃ rākṣasādhipam āśritā), the golden-complexioned Maithilī (sā hema-varṇā maithilī) shone like a golden girth-chain (kāñcanī kāñcī) around a dark elephant (nīlaṃ gajam iva).
+Resting against the dark-limbed lord of _rākṣasas_ (_nīlāṅgaṃ rākṣasādhipam āśritā_), the golden-complexioned Maithilī (_sā hema-varṇā maithilī_) shone like a golden girth-chain (_kāñcanī kāñcī_) around a dark elephant (_nīlaṃ gajam iva_).
 </details>
 </details>
 
@@ -1291,7 +1291,7 @@ silvery lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yellow-fair as a lotus (padma-pītā), gleaming like gold (hemābhā), and wearing ornaments of refined gold (tapta-bhūṣaṇā), Janaka's daughter shone upon entering Rāvaṇa's embrace (rāvaṇam āviśya śuśubhe) like lightning entering a dark cloud (vidyud ghanam iva).
+Yellow-fair as a lotus (_padma-pītā_), gleaming like gold (_hemābhā_), and wearing ornaments of refined gold (_tapta-bhūṣaṇā_), Janaka&#x27;s daughter shone upon entering Rāvaṇa&#x27;s embrace (_rāvaṇam āviśya śuśubhe_) like lightning entering a dark cloud (_vidyud ghanam iva_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ and short. So also, this Ravana may appear like a thunderous cloud as of now, bu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the ringing of that Vaidehī's ornaments (tasyā bhūṣaṇa-ghoṣeṇa vaidehyāḥ), the dark lord of rākṣasas (nīlo rākṣaseśvaraḥ) appeared like a gleaming, rumbling rain-cloud (babhūva vimalaḥ saghoṣa iva toyadaḥ).
+With the ringing of that Vaidehī&#x27;s ornaments (_tasyā bhūṣaṇa-ghoṣeṇa vaidehyāḥ_), the dark lord of _rākṣasas_ (_nīlo rākṣaseśvaraḥ_) appeared like a gleaming, rumbling rain-cloud (_babhūva vimalaḥ saghoṣa iva toyadaḥ_).
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ the surface of earth like showers of flowers while she is being abducted. [3-52-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sītā was being carried off (sītāyā hriyamāṇāyāḥ), a shower of blossoms fallen from her head (uttamāṅga-cyutā tasyāḥ puṣpa-vṛṣṭiḥ) fell all around upon the surface of the earth (samantataḥ papāta dharaṇī-tale).
+As Sītā was being carried off (_sītāyā hriyamāṇāyāḥ_), a shower of blossoms fallen from her head (_uttamāṅga-cyutā tasyāḥ puṣpa-vṛṣṭiḥ_) fell all around upon the surface of the earth (_samantataḥ papāta dharaṇī-tale_).
 </details>
 </details>
 
@@ -1476,7 +1476,7 @@ idol in a temple, becoming worthy to wear on heads of devotees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swirled about on every side by Rāvaṇa's speed (rāvaṇa-vegena samantataḥ samādhūtā), that shower of blossoms (sā tu puṣpa-vṛṣṭiḥ) circled back around Daśagrīva once again (daśagrīvaṃ punar evābhyavartata).
+Swirled about on every side by Rāvaṇa&#x27;s speed (_rāvaṇa-vegena samantataḥ samādhūtā_), that shower of blossoms (_sā tu puṣpa-vṛṣṭiḥ_) circled back around Daśagrīva once again (_daśagrīvaṃ punar evābhyavartata_).
 </details>
 </details>
 
@@ -1528,7 +1528,7 @@ by Ravana's speed and thus it is recurrent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The stream of flowers (puṣpāṇāṃ dhārā) encircled the younger brother of Vaiśravaṇa (abhyavartata vaiśravaṇānujam), just as a bright garland of stars (nakṣatra-mālā vimalā) encircles the lofty mountain Meru (meruṃ nagam ivonnatam).
+The stream of flowers (_puṣpāṇāṃ dhārā_) encircled the younger brother of Vaiśravaṇa (_abhyavartata vaiśravaṇānujam_), just as a bright garland of stars (_nakṣatra-mālā vimalā_) encircles the lofty mountain Meru (_meruṃ nagam ivonnatam_).
 </details>
 </details>
 
@@ -1581,7 +1581,7 @@ and descended onto earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slipped from Vaidehī's foot (caraṇān bhraṣṭaṃ vaidehyāḥ), a gem-studded anklet (nūpuraṃ ratna-bhūṣitam), resembling a circle of lightning (vidyun-maṇḍala-saṃkāśam), fell upon the surface of the earth (papāta dharaṇī-tale).
+Slipped from Vaidehī&#x27;s foot (_caraṇān bhraṣṭaṃ vaidehyāḥ_), a gem-studded anklet (_nūpuraṃ ratna-bhūṣitam_), resembling a circle of lightning (_vidyun-maṇḍala-saṃkāśam_), fell upon the surface of the earth (_papāta dharaṇī-tale_).
 </details>
 </details>
 
@@ -1645,7 +1645,7 @@ Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ruddy-golden like the young shoot of a tree (taru-pravāla-raktā), that Vaidehī (sā vaidehī) lit up the dark-limbed lord of rākṣasas (nīlāṅgaṃ rākṣaseśvaraṃ praśobhayata), like a golden girth-rope around an elephant (gajaṃ kakṣyeva kāñcanī).
+Ruddy-golden like the young shoot of a tree (_taru-pravāla-raktā_), that Vaidehī (_sā vaidehī_) lit up the dark-limbed lord of _rākṣasas_ (_nīlāṅgaṃ rākṣaseśvaraṃ praśobhayata_), like a golden girth-rope around an elephant (_gajaṃ kakṣyeva kāñcanī_).
 </details>
 </details>
 
@@ -1716,7 +1716,7 @@ but indirectly through Hanuma, in Sundara Kanda, as a coincidence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the sky (ākāśam āviśya), the younger brother of Vaiśravaṇa carried off Sītā (jahāra sītām), who blazed with her own effulgence (dīpyamānāṃ sva-tejasā) like a great meteor in the sky (tāṃ maholkām ivākāśe).
+Entering the sky (_ākāśam āviśya_), the younger brother of Vaiśravaṇa carried off Sītā (_jahāra sītām_), who blazed with her own effulgence (_dīpyamānāṃ sva-tejasā_) like a great meteor in the sky (_tāṃ maholkām ivākāśe_).
 </details>
 </details>
 
@@ -1771,7 +1771,7 @@ are strewn about on the plane of earth with much clatter like the stars pelted d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those fire-colored ornaments of hers (tasyās tāny agni-varṇāni bhūṣaṇāni) showered down with a ringing sound (saghoṣāṇy avaśīryanta) upon the surface of the earth (mahī-tale), like stars whose merit is exhausted (kṣīṇās tārā iva) falling from the sky (ambarāt).
+Those fire-colored ornaments of hers (_tasyās tāny agni-varṇāni bhūṣaṇāni_) showered down with a ringing sound (_saghoṣāṇy avaśīryanta_) upon the surface of the earth (_mahī-tale_), like stars whose merit is exhausted (_kṣīṇās tārā iva_) falling from the sky (_ambarāt_).
 </details>
 </details>
 
@@ -1838,7 +1838,7 @@ and fell from mountainous heights.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slipped from between the breasts of that Vaidehī (tasyāḥ stanāntarād bhraṣṭo vaidehyāḥ), a pearl necklace bright as the lord of stars (hāras tārādhipa-dyutiḥ) shone as it fell (nipatan bhāti) like the Gaṅgā descending from the sky (gaṅgeva gagana-cyutā).
+Slipped from between the breasts of that Vaidehī (_tasyāḥ stanāntarād bhraṣṭo vaidehyāḥ_), a pearl necklace bright as the lord of stars (_hāras tārādhipa-dyutiḥ_) shone as it fell (_nipatan bhāti_) like the Gaṅgā descending from the sky (_gaṅgeva gagana-cyutā_).
 </details>
 </details>
 
@@ -1903,7 +1903,7 @@ Nature itself is assuring Seetha to not to fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tossed by portentous winds (utpāta-vātābhiratāḥ) and thronged with flocks of diverse birds (nānā-dvija-gaṇāyutāḥ), the trees with their swaying treetops (vidhūtāgrāḥ pādapāḥ) seemed to cry out (vyājahrur iva), “Fear not!” (mā bhair iti).
+Tossed by portentous winds (_utpāta-vātābhiratāḥ_) and thronged with flocks of diverse birds (_nānā-dvija-gaṇāyutāḥ_), the trees with their swaying treetops (_vidhūtāgrāḥ pādapāḥ_) seemed to cry out (_vyājahrur iva_), “Fear not!” (_mā bhair iti_).
 </details>
 </details>
 
@@ -1963,7 +1963,7 @@ is beleaguered, and thus they are sorrowing for such a selfsame Maithili. [3-52-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their lotuses withered (dhvasta-kamalāḥ) and their fishes and water-creatures terrified (trasta-mīna-jalecarāḥ), the lotus-ponds (nalinyaḥ) seemed to mourn (śocantīva sma) for the dispirited Maithilī as for a dear friend (sakhīm iva gatotsāhāṃ maithilīm).
+With their lotuses withered (_dhvasta-kamalāḥ_) and their fishes and water-creatures terrified (_trasta-mīna-jalecarāḥ_), the lotus-ponds (_nalinyaḥ_) seemed to mourn (_śocantīva sma_) for the dispirited Maithilī as for a dear friend (_sakhīm iva gatotsāhāṃ maithilīm_).
 </details>
 </details>
 
@@ -2032,7 +2032,7 @@ Animal Rights Activists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Flocking together from every side (samantād abhisampatya), lions, tigers, deer, and birds (siṃha-vyāghra-mṛga-dvijāḥ) ran after her in wrath (anvadhāvaṃs tadā roṣāt), following Sītā's shadow (sītā-cchāyānugāminaḥ).
+Flocking together from every side (_samantād abhisampatya_), lions, tigers, deer, and birds (_siṃha-vyāghra-mṛga-dvijāḥ_) ran after her in wrath (_anvadhāvaṃs tadā roṣāt_), following Sītā&#x27;s shadow (_sītā-cchāyānugāminaḥ_).
 </details>
 </details>
 
@@ -2095,7 +2095,7 @@ out their caves, which in normal situations will be like the booming voicing of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sītā was being carried off (sītāyāṃ hriyamāṇāyām), the mountains (parvatāḥ), with their waterfalls for tear-stained faces (jala-prapātāsra-mukhāḥ) and their peaks for upraised arms (śṛṅgair ucchrita-bāhubhiḥ), seemed to wail aloud (vikrośantīva).
+As Sītā was being carried off (_sītāyāṃ hriyamāṇāyām_), the mountains (_parvatāḥ_), with their waterfalls for tear-stained faces (_jala-prapātāsra-mukhāḥ_) and their peaks for upraised arms (_śṛṅgair ucchrita-bāhubhiḥ_), seemed to wail aloud (_vikrośantīva_).
 </details>
 </details>
 
@@ -2148,7 +2148,7 @@ is his sunshine, palely whitened is his sun-disc, and faintly deadened is his so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Vaidehī being carried off (hriyamāṇāṃ tu vaidehīṃ dṛṣṭvā), the glorious sun (śrīmān divākaraḥ) grew downcast (dīnaḥ), his radiance dimmed (pravidhvasta-prabhaḥ) and his orb turned pale (āsīt pāṇḍura-maṇḍalaḥ).
+Beholding Vaidehī being carried off (_hriyamāṇāṃ tu vaidehīṃ dṛṣṭvā_), the glorious sun (_śrīmān divākaraḥ_) grew downcast (_dīnaḥ_), his radiance dimmed (_pravidhvasta-prabhaḥ_) and his orb turned pale (_āsīt pāṇḍura-maṇḍalaḥ_).
 </details>
 </details>
 
@@ -2239,9 +2239,9 @@ and Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** “Righteousness is no more (nāsti dharmaḥ)—whence then truth (kutaḥ satyam)? There is neither uprightness (nārjavam) nor compassion (nānṛśaṃsatā), since Rāvaṇa is carrying off Rāma's Vaidehī Sītā (yatra rāmasya vaidehīṃ sītāṃ harati rāvaṇaḥ)!”
+**39:** “Righteousness is no more (_nāsti dharmaḥ_)—whence then truth (_kutaḥ satyam_)? There is neither uprightness (_nārjavam_) nor compassion (_nānṛśaṃsatā_), since Rāvaṇa is carrying off Rāma&#x27;s Vaidehī Sītā (_yatra rāmasya vaidehīṃ sītāṃ harati rāvaṇaḥ_)!”
 
-**40:** Thus all living beings lamented in troops (iti bhūtāni sarvāṇi gaṇaśaḥ paryadevayan), and the terrified fawns (vitrastakā mṛga-potakāḥ), with downcast faces (dīna-mukhāḥ), wept (ruruduḥ).
+**40:** Thus all living beings lamented in troops (_iti bhūtāni sarvāṇi gaṇaśaḥ paryadevayan_), and the terrified fawns (_vitrastakā mṛga-potakāḥ_), with downcast faces (_dīna-mukhāḥ_), wept (_ruruduḥ_).
 </details>
 </details>
 
@@ -2308,7 +2308,7 @@ worst way. [3-52-41b, 42a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking up again and again (udvīkṣyodvīkṣya) with eyes lustreless as if from terror (nayanair bhayād iva vilakṣaṇaiḥ), the sylvan deities (vana-devatāḥ) stood with their limbs trembling violently (supravepita-gātrāś ca babhūvuḥ)—
+Looking up again and again (_udvīkṣyodvīkṣya_) with eyes lustreless as if from terror (_nayanair bhayād iva vilakṣaṇaiḥ_), the sylvan deities (_vana-devatāḥ_) stood with their limbs trembling violently (_supravepita-gātrāś ca babhūvuḥ_)—
 </details>
 </details>
 
@@ -2377,9 +2377,9 @@ husband-devout, Vaidehi, only for his self-ruination. [3-52-42a, 43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**42:** Upon beholding Sītā crying out piteously (vikrośantīṃ dṛḍhaṃ sītāṃ dṛṣṭvā) and reduced to such anguish (duḥkhaṃ tathā gatām). And that sweet-voiced lady (tāṃ tu madhura-svarām), crying out, “O Lakṣmaṇa! O Rāma!” (lakṣmaṇa rāmeti krośantīm)—
+**42:** Upon beholding Sītā crying out piteously (_vikrośantīṃ dṛḍhaṃ sītāṃ dṛṣṭvā_) and reduced to such anguish (_duḥkhaṃ tathā gatām_). And that sweet-voiced lady (_tāṃ tu madhura-svarām_), crying out, “O Lakṣmaṇa! O Rāma!” (_lakṣmaṇa rāmeti krośantīm_)—
 
-**43:** That high-minded Vaidehī (vaidehīṃ manasvinīm), who kept gazing down again and again at the surface of the earth (avekṣamāṇāṃ bahuśo dharaṇī-talam), her locks dishevelled (ākula-keśāntām) and her forehead-mark rubbed away (vipramṛṣṭa-viśeṣakām)—Daśagrīva carried off to his own destruction (sa tāṃ jahārātma-vināśāya daśagrīvaḥ).
+**43:** That high-minded Vaidehī (_vaidehīṃ manasvinīm_), who kept gazing down again and again at the surface of the earth (_avekṣamāṇāṃ bahuśo dharaṇī-talam_), her locks dishevelled (_ākula-keśāntām_) and her forehead-mark rubbed away (_vipramṛṣṭa-viśeṣakām_)—Daśagrīva carried off to his own destruction (_sa tāṃ jahārātma-vināśāya daśagrīvaḥ_).
 </details>
 </details>
 
@@ -2453,7 +2453,7 @@ or both are unseen by her, and thus her face is paled for she is chastened by th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Maithilī of lovely teeth and pure smile (cāru-datī śuci-smitā maithilī), torn away from her kinsfolk (vinākṛtā bandhu-janena) and beholding neither Rāghava nor Lakṣmaṇa (apaśyatī rāghava-lakṣmaṇāv ubhau), grew pale of face (vivarṇa-vaktrā), crushed by the weight of terror (bhaya-bhāra-pīḍitā).
+Then that Maithilī of lovely teeth and pure smile (_cāru-datī śuci-smitā maithilī_), torn away from her kinsfolk (_vinākṛtā bandhu-janena_) and beholding neither Rāghava nor Lakṣmaṇa (_apaśyatī rāghava-lakṣmaṇāv ubhau_), grew pale of face (_vivarṇa-vaktrā_), crushed by the weight of terror (_bhaya-bhāra-pīḍitā_).
 </details>
 </details>
 

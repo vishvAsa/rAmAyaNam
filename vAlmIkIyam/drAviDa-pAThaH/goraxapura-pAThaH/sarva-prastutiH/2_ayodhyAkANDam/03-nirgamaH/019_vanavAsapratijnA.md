@@ -134,7 +134,7 @@ here to reside there, wearing braided hair and covered with a hide."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it (evam astu)! Wearing matted locks and garments of bark, I shall depart hence to dwell in the forest, upholding the solemn pledge of the king.”
+“So be it (_evam astu_)! Wearing matted locks and garments of bark, I shall depart hence to dwell in the forest, upholding the solemn pledge of the king.”
 </details>
 </details>
 
@@ -240,7 +240,7 @@ the forest, wearing rags and braided hair. Become delighted well."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor should any anger or suspicion (manyuḥ) be harbored by you, O queen! I declare before you: be well pleased—I shall go to the forest wearing bark-cloth and matted locks!”
+“Nor should any anger or suspicion (_manyuḥ_) be harbored by you, O queen! I declare before you: be well pleased—I shall go to the forest wearing bark-cloth and matted locks!”
 </details>
 </details>
 
@@ -292,7 +292,7 @@ well-wisher, venerable man, as person with right conduct and as king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When commanded by my benefactor, preceptor, father, and grateful king, what dear service would I not perform with an untroubled heart (visrabdhaḥ)?”
+“When commanded by my benefactor, preceptor, father, and grateful king, what dear service would I not perform with an untroubled heart (_visrabdhaḥ_)?”
 </details>
 </details>
 
@@ -344,7 +344,7 @@ informed me about Bharata's coronation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One mental sorrow (alīkam) alone burns my heart: that the king did not himself declare to me the consecration of Bharata!”
+“One mental sorrow (_alīkam_) alone burns my heart: that the king did not himself declare to me the consecration of Bharata!”
 </details>
 </details>
 
@@ -408,7 +408,7 @@ even my life, loved ones and wealth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For even unprompted (apracoditaḥ), I would joyfully give away to my brother Bharata my own Sītā, the kingdom, my dear life-breaths, and all my wealth!”
+“For even unprompted (_apracoditaḥ_), I would joyfully give away to my brother Bharata my own Sītā, the kingdom, my dear life-breaths, and all my wealth!”
 </details>
 </details>
 
@@ -571,7 +571,7 @@ house as per orders of the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let messengers set forth this very day at the king's command on steeds of swift pace to bring Bharata back from his maternal uncle's house!”
+“Let messengers set forth this very day at the king&#x27;s command on steeds of swift pace to bring Bharata back from his maternal uncle&#x27;s house!”
 </details>
 </details>
 
@@ -623,7 +623,7 @@ reflecting on whether my father's words are right or wrong."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without questioning my father's word, here I depart in all haste for the Daṇḍaka forest to dwell there for fourteen years!”
+“Without questioning my father&#x27;s word, here I depart in all haste for the Daṇḍaka forest to dwell there for fourteen years!”
 </details>
 </details>
 
@@ -678,7 +678,7 @@ make haste at once.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāma, Kaikeyī rejoiced; convinced now of his departure (prasthānaṃ śraddadhānā), she urged Rāghava to make haste.
+Hearing those words of Rāma, Kaikeyī rejoiced; convinced now of his departure (_prasthānaṃ śraddadhānā_), she urged Rāghava to make haste.
 </details>
 </details>
 
@@ -738,7 +738,7 @@ from his maternal uncle's house."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So let it be! Envoys shall go forth on steeds of swift pace to bring Bharata back hither from his maternal uncle's house.”
+“So let it be! Envoys shall go forth on steeds of swift pace to bring Bharata back hither from his maternal uncle&#x27;s house.”
 </details>
 </details>
 
@@ -791,7 +791,7 @@ forest, to delay further."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet since you are eager to depart (utsukasya), I deem any delay unfitting for you; therefore, O Rāma, you ought to depart hence for the forest at once!”
+“Yet since you are eager to depart (_utsukasya_), I deem any delay unfitting for you; therefore, O Rāma, you ought to depart hence for the forest at once!”
 </details>
 </details>
 
@@ -846,7 +846,7 @@ best of men! Do not worry about it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as for the fact that the king, overcome with shame (vrīḍānvitaḥ), does not address you himself—that is nothing at all, O best of men; let this distress be cast aside!”
+“And as for the fact that the king, overcome with shame (_vrīḍānvitaḥ_), does not address you himself—that is nothing at all, O best of men; let this distress be cast aside!”
 </details>
 </details>
 
@@ -953,7 +953,7 @@ with sorrow, fainted and fell in that couch adorned with gold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sighing “Fie, alas! How cruel!”, the king, overwhelmed with grief, fell down in a swoon (mūrcchitaḥ) upon that couch adorned with gold.
+Sighing “Fie, alas! How cruel!”, the king, overwhelmed with grief, fell down in a swoon (_mūrcchitaḥ_) upon that couch adorned with gold.
 </details>
 </details>
 
@@ -1005,7 +1005,7 @@ instigated by Kaikeyi as a horse was hit by a whip.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising up the king, Rāma too, goaded onward by Kaikeyī like a noble steed struck with a whip (kaśayeva hato vājī), made haste to depart for the forest.
+Raising up the king, Rāma too, goaded onward by Kaikeyī like a noble steed struck with a whip (_kaśayeva hato vājī_), made haste to depart for the forest.
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ consequence, was unruffled and spoke these words to Kaikeyi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that unwelcome speech of the ignoble queen, fraught with dreadful consequences (dāruṇodayam), Rāma, wholly free from distress (gatavyathaḥ), spoke these words to Kaikeyī:
+Hearing that unwelcome speech of the ignoble queen, fraught with dreadful consequences (_dāruṇodayam_), Rāma, wholly free from distress (_gatavyathaḥ_), spoke these words to Kaikeyī:
 </details>
 </details>
 
@@ -1120,7 +1120,7 @@ Know me as equal to a sage, abiding in righteousness alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not desire to dwell in the world as one intent upon wealth and power (arthaparaḥ), O queen; know me to be equal to the sages, steadfastly abiding in stainless righteousness (vimalaṃ dharmam)!”
+“I do not desire to dwell in the world as one intent upon wealth and power (_arthaparaḥ_), O queen; know me to be equal to the sages, steadfastly abiding in stainless righteousness (_vimalaṃ dharmam_)!”
 </details>
 </details>
 
@@ -1235,7 +1235,7 @@ father or than doing what he commands."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For there is no practice of righteousness (dharmacaraṇam) greater than this: namely, dutiful service toward one's father, or the fulfillment of his word.”
+“For there is no practice of righteousness (_dharmacaraṇam_) greater than this: namely, dutiful service toward one&#x27;s father, or the fulfillment of his word.”
 </details>
 </details>
 
@@ -1346,7 +1346,7 @@ any merit in me. It is certain!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely, O Kaikeyī, you did not recognize any virtue in me at all, seeing that—although you yourself hold even greater authority over me (īśvaratarā satī)—you spoke instead to the king!”
+“Surely, O Kaikeyī, you did not recognize any virtue in me at all, seeing that—although you yourself hold even greater authority over me (_īśvaratarā satī_)—you spoke instead to the king!”
 </details>
 </details>
 
@@ -1406,7 +1406,7 @@ mother and also after consoling Sita."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wait only until I take leave of my mother (mātaram āpṛcche) and console Sītā; immediately thereafter, this very day, I shall depart for the great forest of the Daṇḍakas!”
+“Wait only until I take leave of my mother (_mātaram āpṛcche_) and console Sītā; immediately thereafter, this very day, I shall depart for the great forest of the Daṇḍakas!”
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ age-old practice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You must act in such a way that Bharata protects the kingdom and dutifully serves his father; for that is the eternal law of righteousness (dharmaḥ sanātanaḥ).”
+“You must act in such a way that Bharata protects the kingdom and dutifully serves his father; for that is the eternal law of righteousness (_dharmaḥ sanātanaḥ_).”
 </details>
 </details>
 
@@ -1619,7 +1619,7 @@ palace and saw his friends.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having circumambulated his father and Kaikeyī, keeping them auspiciously to his right (pradakṣiṇam), Rāma emerged from that inner apartment and beheld his own circle of devoted friends.
+Having circumambulated his father and Kaikeyī, keeping them auspiciously to his right (_pradakṣiṇam_), Rāma emerged from that inner apartment and beheld his own circle of devoted friends.
 </details>
 </details>
 
@@ -1673,7 +1673,7 @@ accompanied behind Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his eyes brimming with tears, Lakṣmaṇa, the increaser of Sumitrā's joy, followed closely behind him in fierce wrath (paramakruddhaḥ).
+With his eyes brimming with tears, Lakṣmaṇa, the increaser of Sumitrā&#x27;s joy, followed closely behind him in fierce wrath (_paramakruddhaḥ_).
 </details>
 </details>
 
@@ -1739,7 +1739,7 @@ the propound coronation and having fixed his attention respectfully on them, mov
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Circumambulating the vessels arrayed for the royal consecration (ābhiṣecanikaṃ bhāṇḍam) so as to keep them to his right, Rāma walked slowly onward with his heart full of regard (sāpekṣaḥ), without turning his gaze away from them.
+Circumambulating the vessels arrayed for the royal consecration (_ābhiṣecanikaṃ bhāṇḍam_) so as to keep them to his right, Rāma walked slowly onward with his heart full of regard (_sāpekṣaḥ_), without turning his gaze away from them.
 </details>
 </details>
 
@@ -1795,7 +1795,7 @@ of the moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The loss of the kingdom did not diminish the mighty splendor of him who was beloved of all the world, any more than the waning of the moon (śītaraśmer iva kṣayaḥ) diminishes its loveliness, because of its innate beauty.
+The loss of the kingdom did not diminish the mighty splendor of him who was beloved of all the world, any more than the waning of the moon (_śītaraśmer iva kṣayaḥ_) diminishes its loveliness, because of its innate beauty.
 </details>
 </details>
 
@@ -1850,7 +1850,7 @@ pleasure.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he prepared to depart for the forest and relinquished the entire earth, no perturbation of mind at all was perceived in him, just as in a liberated sage who has transcended all the worlds (sarvalokātigasyeva).
+As he prepared to depart for the forest and relinquished the entire earth, no perturbation of mind at all was perceived in him, just as in a liberated sage who has transcended all the worlds (_sarvalokātigasyeva_).
 </details>
 </details>
 
@@ -1922,9 +1922,9 @@ house to inform the unpleasant news.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** Declining the auspicious royal umbrella and the two richly adorned yak-tail fans (vyajane), and dismissing his retinue, his chariot, and the townsfolk,
+**34:** Declining the auspicious royal umbrella and the two richly adorned yak-tail fans (_vyajane_), and dismissing his retinue, his chariot, and the townsfolk,
 
-**35:** that self-possessed prince (ātmavān), holding his sorrow within his mind and restraining his senses, entered his mother's palace to announce the unwelcome tidings (apriyaśaṃsivān).
+**35:** that self-possessed prince (_ātmavān_), holding his sorrow within his mind and restraining his senses, entered his mother&#x27;s palace to announce the unwelcome tidings (_apriyaśaṃsivān_).
 </details>
 </details>
 
@@ -1987,7 +1987,7 @@ was dignified and truthful in his words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-None among the noble attendants standing around perceived the slightest change of expression (ākāram) upon the countenance of that glorious and truthful Rāma.
+None among the noble attendants standing around perceived the slightest change of expression (_ākāram_) upon the countenance of that glorious and truthful Rāma.
 </details>
 </details>
 
@@ -2041,7 +2041,7 @@ its natural splendour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor did that self-possessed, mighty-armed prince abandon his natural cheerfulness (ucitaṃ harṣam), any more than the radiant autumn moon abandons its innate luster.
+Nor did that self-possessed, mighty-armed prince abandon his natural cheerfulness (_ucitaṃ harṣam_), any more than the radiant autumn moon abandons its innate luster.
 </details>
 </details>
 
@@ -2150,7 +2150,7 @@ was the brother, kept the grief within himself and went along with Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His brother of vast prowess, the son of Sumitrā, who was his equal in noble virtues (guṇaiḥ samatāṃ prāptaḥ), followed closely behind him, holding back the sorrow born within his heart.
+His brother of vast prowess, the son of Sumitrā, who was his equal in noble virtues (_guṇaiḥ samatāṃ prāptaḥ_), followed closely behind him, holding back the sorrow born within his heart.
 </details>
 </details>
 
@@ -2226,7 +2226,7 @@ perturabation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering that palace, which was overflowing with festal joy, and beholding the ruin of his worldly fortune that had arrived, Rāma still betrayed no perturbation of mind at all, fearing lest any sign of distress in him endanger the very lives of his loved ones (suhṛjjanasyātmavipattiśaṅkayā).
+Entering that palace, which was overflowing with festal joy, and beholding the ruin of his worldly fortune that had arrived, Rāma still betrayed no perturbation of mind at all, fearing lest any sign of distress in him endanger the very lives of his loved ones (_suhṛjjanasyātmavipattiśaṅkayā_).
 </details>
 </details>
 

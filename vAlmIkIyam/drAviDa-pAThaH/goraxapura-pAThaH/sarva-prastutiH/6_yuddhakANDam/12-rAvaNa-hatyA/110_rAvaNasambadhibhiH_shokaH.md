@@ -82,7 +82,7 @@ grief and rushed out from their gynaecium.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All beings beheld those two, Rāma and Rāvaṇa, fighting thus in battle, with their inner souls filled with wonder (vismitenāntarātmanā).
+All beings beheld those two, Rāma and Rāvaṇa, fighting thus in battle, with their inner souls filled with wonder (_vismitenāntarātmanā_).
 </details>
 </details>
 
@@ -122,7 +122,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Harassing one another in battle, those two supreme chariots of theirs (tayos tau syandanottamau), furiously enraged at one another and rushing upon one another—
+Harassing one another in battle, those two supreme chariots of theirs (_tayos tau syandanottamau_), furiously enraged at one another and rushing upon one another—
 </details>
 </details>
 
@@ -153,7 +153,7 @@ Harassing one another in battle, those two supreme chariots of theirs (tayos tau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—intent upon each other's destruction, assumed a dreadful aspect (ghorarūpau babhūvatuḥ). Executing circular maneuvers (maṇḍalāni), straight lanes (vīthīś ca), and advances and retreats (gatapratyāgatāni ca)—
+—intent upon each other&#x27;s destruction, assumed a dreadful aspect (_ghorarūpau babhūvatuḥ_). Executing circular maneuvers (_maṇḍalāni_), straight lanes (_vīthīś ca_), and advances and retreats (_gatapratyāgatāni ca_)—
 </details>
 </details>
 
@@ -204,7 +204,7 @@ rendered muddy with blood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—while the two charioteers displayed manifold movements born of their skill in charioteering (sārathyajāṃ gatim), Rāma harassing Rāvaṇa and Rāvaṇa likewise harassing Rāghava—
+—while the two charioteers displayed manifold movements born of their skill in charioteering (_sārathyajāṃ gatim_), Rāma harassing Rāvaṇa and Rāvaṇa likewise harassing Rāghava—
 </details>
 </details>
 
@@ -260,7 +260,7 @@ their herd.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—attained swift momentum (gativegaṃ samāpannau) in advancing and wheeling back (pravartananivartane); and as those two warriors cast networks of arrows, their two supreme chariots—
+—attained swift momentum (_gativegaṃ samāpannau_) in advancing and wheeling back (_pravartananivartane_); and as those two warriors cast networks of arrows, their two supreme chariots—
 </details>
 </details>
 
@@ -316,7 +316,7 @@ invested with a great splendour, lying killed on the ground, like a heap of blac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—coursed over the battlefield like two rain-clouds accompanied by torrential showers (sāsārau jaladāv iva). Having displayed manifold movements in battle at that time, those two—
+—coursed over the battlefield like two rain-clouds accompanied by torrential showers (_sāsārau jaladāv iva_). Having displayed manifold movements in battle at that time, those two—
 </details>
 </details>
 
@@ -376,7 +376,7 @@ down on his limbs, like uprooted wild creepers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—stood once again directly facing one another (parasparasyābhimukhau). Chariot-pole met chariot-pole (dhuraṃ dhureṇa rathayoḥ), the faces of the steeds met the faces of the steeds—
+—stood once again directly facing one another (_parasparasyābhimukhau_). Chariot-pole met chariot-pole (_dhuraṃ dhureṇa rathayoḥ_), the faces of the steeds met the faces of the steeds—
 </details>
 </details>
 
@@ -428,7 +428,7 @@ and another, catching hold of his neck.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and the pennants met the pennants (patākāś ca patākābhiḥ samīyuḥ) as the two chariots stood still then. Thereupon Rāma, with sharp arrows loosed from his bow—
+—and the pennants met the pennants (_patākāś ca patākābhiḥ samīyuḥ_) as the two chariots stood still then. Thereupon Rāma, with sharp arrows loosed from his bow—
 </details>
 </details>
 
@@ -477,7 +477,7 @@ deceased husband, another woman fell into a swoon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—forced Rāvaṇa's four blazing steeds backward (pratyapasarpayat) with four shafts. Falling under the sway of wrath at the backing away of his steeds (hayānām apasarpaṇe)—
+—forced Rāvaṇa&#x27;s four blazing steeds backward (_pratyapasarpayat_) with four shafts. Falling under the sway of wrath at the backing away of his steeds (_hayānām apasarpaṇe_)—
 </details>
 </details>
 
@@ -527,7 +527,7 @@ face with her tears, as dew drops moisten a lotus-flower.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Daśānana discharged sharp arrows against Rāghava. Though deeply pierced (atividdhaḥ) by the mighty Daśagrīva, Rāghava—
+—Daśānana discharged sharp arrows against Rāghava. Though deeply pierced (_atividdhaḥ_) by the mighty Daśagrīva, Rāghava—
 </details>
 </details>
 
@@ -558,7 +558,7 @@ face with her tears, as dew drops moisten a lotus-flower.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—underwent no change of expression (jagāma na vikāram) nor felt any distress (na cāpi vyathito 'bhavat). And Daśānana hurled arrows once more, resounding like the crash of the thunderbolt (vajrasārasamasvanān)—
+—underwent no change of expression (_jagāma na vikāram_) nor felt any distress (_na cāpi vyathito &#x27;bhavat_). And Daśānana hurled arrows once more, resounding like the crash of the thunderbolt (_vajrasārasamasvanān_)—
 </details>
 </details>
 
@@ -622,9 +622,9 @@ killed in the battle-field."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** —aiming at the charioteer of the wielder of the thunderbolt (sārathiṃ vajrahastasya). Those shafts of mighty speed fell upon the body of Mātali—
+**12:** —aiming at the charioteer of the wielder of the thunderbolt (_sārathiṃ vajrahastasya_). Those shafts of mighty speed fell upon the body of Mātali—
 
-**13:** —yet in battle they caused him not even the slightest bewilderment or pain (na sūkṣmam api sammohaṃ vyathāṃ vā). Enraged by that outrage against Mātali as he was not by one against himself (mātaler na tathā”tmanaḥ)—
+**13:** —yet in battle they caused him not even the slightest bewilderment or pain (_na sūkṣmam api sammohaṃ vyathāṃ vā_). Enraged by that outrage against Mātali as he was not by one against himself (_mātaler na tathā”tmanaḥ_)—
 </details>
 </details>
 
@@ -673,7 +673,7 @@ demons or the gods or even the serpents for that matter!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāghava forced his enemy to turn his face away (vimukhaṃ ripum) with a network of arrows. Twenty, thirty, sixty, and by hundreds and by thousands—
+—Rāghava forced his enemy to turn his face away (_vimukhaṃ ripum_) with a network of arrows. Twenty, thirty, sixty, and by hundreds and by thousands—
 </details>
 </details>
 
@@ -720,7 +720,7 @@ who was incapable of being killed by gods and even so by devils and demons too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the heroic Rāghava loosed shafts upon his enemy's chariot. Then Rāvaṇa too, the lord of rākṣasas, standing firm in his chariot and filled with wrath—
+—the heroic Rāghava loosed shafts upon his enemy&#x27;s chariot. Then Rāvaṇa too, the lord of rākṣasas, standing firm in his chariot and filled with wrath—
 </details>
 </details>
 
@@ -772,7 +772,7 @@ mortal like one devoid of strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—harassed Rāma in turn (pratyardayat) in battle with a shower of maces and pestles (gadāmusalavarṣeṇa). Once again that tumultuous battle raged on, making the hair stand on end.
+—harassed Rāma in turn (_pratyardayat_) in battle with a shower of maces and pestles (_gadāmusalavarṣeṇa_). Once again that tumultuous battle raged on, making the hair stand on end.
 </details>
 </details>
 
@@ -825,7 +825,7 @@ once more and repeatedly lamented, stricken, as they were, with grief (as follow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the roaring clamour of maces, pestles, and iron clubs, and by the blasts from the feathered shafts of arrows (śarāṇāṃ puṅkhavātaiś ca), the seven oceans were churned into agitation (kṣubhitāḥ sapta sāgarāḥ).
+By the roaring clamour of maces, pestles, and iron clubs, and by the blasts from the feathered shafts of arrows (_śarāṇāṃ puṅkhavātaiś ca_), the seven oceans were churned into agitation (_kṣubhitāḥ sapta sāgarāḥ_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ we (your consorts) as well as your own self, struck down now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And because of the agitated oceans (kṣubdhānāṃ sāgarāṇām), all the Dānavas dwelling in the depths of the netherworld (pātālatalavāsinaḥ) and the serpents (pannagāḥ) by the thousands were stricken with distress.
+And because of the agitated oceans (_kṣubdhānāṃ sāgarāṇām_), all the Dānavas dwelling in the depths of the netherworld (_pātālatalavāsinaḥ_) and the serpents (_pannagāḥ_) by the thousands were stricken with distress.
 </details>
 </details>
 
@@ -944,7 +944,7 @@ harshly scolded through ignorance by you, who sought your own destruction."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The entire earth with its mountains, forests, and groves trembled (cakampe medinī kṛtsnā); the sun lost its radiance (bhāskaro niṣprabhaś cāsīt), and the wind did not blow.
+The entire earth with its mountains, forests, and groves trembled (_cakampe medinī kṛtsnā_); the sun lost its radiance (_bhāskaro niṣprabhaś cāsīt_), and the wind did not blow.
 </details>
 </details>
 
@@ -996,7 +996,7 @@ disaster, which has robbed us of every root, would not have befallen us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages, along with the Kiṃnaras and great serpents, all fell into deep anxiety (cintām āpedire sarve).
+Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages, along with the Kiṃnaras and great serpents, all fell into deep anxiety (_cintām āpedire sarve_).
 </details>
 </details>
 
@@ -1045,7 +1045,7 @@ spared the curse of widowhood and our enemies would not have realized their ambi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`May it be well with the cows and the brāhmaṇas (svasti gobrāhmaṇebhyas tu)! May the worlds endure eternally! May Rāghava conquer Rāvaṇa, the lord of rākṣasas, in battle!'
+`May it be well with the cows and the brāhmaṇas (_svasti gobrāhmaṇebhyas tu_)! May the worlds endure eternally! May Rāghava conquer Rāvaṇa, the lord of rākṣasas, in battle!&#x27;
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ consorts) and your own self all the three have been destroyed all at once."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Murmuring this prayer (evaṃ japantaḥ), those gods together with the hosts of sages beheld at that time the exceedingly dreadful and hair-raising battle of Rāma and Rāvaṇa.
+Murmuring this prayer (_evaṃ japantaḥ_), those gods together with the hosts of sages beheld at that time the exceedingly dreadful and hair-raising battle of Rāma and Rāvaṇa.
 </details>
 </details>
 
@@ -1140,7 +1140,7 @@ the divine power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that incomparable battle (yuddham anūpamam), the multitudes of Gandharvas and Apsarases [exclaimed]: `The sky has only the sky for its likeness (gaganaṃ gaganākāram), the ocean is comparable only to the ocean (sāgaraḥ sāgaropamaḥ)—
+Beholding that incomparable battle (_yuddham anūpamam_), the multitudes of Gandharvas and Apsarases [exclaimed]: `The sky has only the sky for its likeness (_gaganaṃ gaganākāram_), the ocean is comparable only to the ocean (_sāgaraḥ sāgaropamaḥ_)—
 </details>
 </details>
 
@@ -1193,7 +1193,7 @@ happened at the juncture of the Providence (alone), O the great armed!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`—and the battle of Rāma and Rāvaṇa is like the battle of Rāma and Rāvaṇa alone (rāmarāvaṇayor yuddhaṃ rāmarāvaṇayor iva)!' Speaking thus, they gazed upon that battle between Rāma and Rāvaṇa.
+`—and the battle of Rāma and Rāvaṇa is like the battle of Rāma and Rāvaṇa alone (_rāmarāvaṇayor yuddhaṃ rāmarāvaṇayor iva_)!&#x27; Speaking thus, they gazed upon that battle between Rāma and Rāvaṇa.
 </details>
 </details>
 
@@ -1253,7 +1253,7 @@ money, or by wish, or by valour or even by command in this world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon out of wrath the mighty-armed Rāma, the increaser of the glory of the Raghus (raghūṇāṃ kīrtivardhanaḥ), having fitted to his bow an arrow resembling a venomous serpent (āśīviṣopamam)—
+Thereupon out of wrath the mighty-armed Rāma, the increaser of the glory of the Raghus (_raghūṇāṃ kīrtivardhanaḥ_), having fitted to his bow an arrow resembling a venomous serpent (_āśīviṣopamam_)—
 </details>
 </details>
 
@@ -1330,7 +1330,7 @@ had lost their calf.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—severed Rāvaṇa's glorious head blazing with earrings (śrīmaj jvalitakuṇḍalam); and that head, fallen upon the earth, was beheld at that time by the three worlds.
+—severed Rāvaṇa&#x27;s glorious head blazing with earrings (_śrīmaj jvalitakuṇḍalam_); and that head, fallen upon the earth, was beheld at that time by the three worlds.
 </details>
 </details>
 

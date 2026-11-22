@@ -79,7 +79,7 @@ stable and who had spoken wholesome words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Vibhīṣaṇa, who had spoken a well-grounded and salutary speech (suniviṣṭaṃ hitaṃ vākyam), Rāvaṇa, impelled by Time (kālacoditaḥ), spoke a harsh word (paruṣaṃ vākyam):
+To Vibhīṣaṇa, who had spoken a well-grounded and salutary speech (_suniviṣṭaṃ hitaṃ vākyam_), Rāvaṇa, impelled by Time (_kālacoditaḥ_), spoke a harsh word (_paruṣaṃ vākyam_):
 </details>
 </details>
 
@@ -131,7 +131,7 @@ stay together with an adversary yet avowing himself as a friend"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One may dwell together with an open rival (saha sapatnena) or even with an enraged venomous serpent (kruddhenāśīviṣeṇa ca), but one should never dwell with an enemy-server posing as a friend (mitrapravādena śatrusevinā)!
+“One may dwell together with an open rival (_saha sapatnena_) or even with an enraged venomous serpent (_kruddhenāśīviṣeṇa ca_), but one should never dwell with an enemy-server posing as a friend (_mitrapravādena śatrusevinā_)!
 </details>
 </details>
 
@@ -179,7 +179,7 @@ rejoiced at the calamities of their kinsmen"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know the nature of kinsmen across all the worlds (jānāmi śīlaṃ jñātīnāṃ sarvalokeṣu), O Rākṣasa: these kinsmen ever rejoice in the calamities of their kinsmen (hṛṣyanti vyasaneṣv ete jñātīnāṃ jñātayaḥ sadā).
+“I know the nature of kinsmen across all the worlds (_jānāmi śīlaṃ jñātīnāṃ sarvalokeṣu_), O Rākṣasa: these kinsmen ever rejoice in the calamities of their kinsmen (_hṛṣyanti vyasaneṣv ete jñātīnāṃ jñātayaḥ sadā_).
 </details>
 </details>
 
@@ -232,7 +232,7 @@ effective leader, a person of education and right conduct and a valiant man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when a kinsman is preeminent (pradhānam), effective in action (sādhakam), learned (vaidyam), righteous in conduct (dharmaśīlam), and valiant (śūram), O Rākṣasa, kinsmen despise and humiliate him (jñātayo 'py avamanyante paribhavanti ca).
+“Even when a kinsman is preeminent (_pradhānam_), effective in action (_sādhakam_), learned (_vaidyam_), righteous in conduct (_dharmaśīlam_), and valiant (_śūram_), O Rākṣasa, kinsmen despise and humiliate him (_jñātayo &#x27;py avamanyante paribhavanti ca_).
 </details>
 </details>
 
@@ -284,7 +284,7 @@ ones as they are, always rejoice each other in adversities."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever mutually delighted in times of calamity, murderous aggressors (vyasaneṣv ātatāyinaḥ) with concealed hearts (pracchannahṛdayāḥ), ruthless kinsmen are truly a source of dread (ghorā jñātayas tu bhayāvahāḥ).
+“Ever mutually delighted in times of calamity, murderous aggressors (_vyasaneṣv ātatāyinaḥ_) with concealed hearts (_pracchannahṛdayāḥ_), ruthless kinsmen are truly a source of dread (_ghorā jñātayas tu bhayāvahāḥ_).
 </details>
 </details>
 
@@ -340,7 +340,7 @@ which saw men with nooses in hand. Hear and I shall tell them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Verses sung of old by elephants in a lotus-forest (hastibhir gītāḥ ślokāḥ padmavane purā) upon beholding men with nooses in hand (pāśahastān narān dṛṣṭvā) are heard to this day; listen to me as I recite them (śṛṇuṣva gadato mama):
+“Verses sung of old by elephants in a lotus-forest (_hastibhir gītāḥ ślokāḥ padmavane purā_) upon beholding men with nooses in hand (_pāśahastān narān dṛṣṭvā_) are heard to this day; listen to me as I recite them (_śṛṇuṣva gadato mama_):
 </details>
 </details>
 
@@ -398,7 +398,7 @@ incited by selfishness are begetting fear to us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Neither fire, nor other weapons, nor nooses are a source of dread to us (na naḥ pāśā bhayāvahāḥ); it is our ruthless kinsmen, driven by self-interest (ghorāḥ svārthaprayuktās tu jñātayaḥ), who are a source of dread to us!
+“‘Neither fire, nor other weapons, nor nooses are a source of dread to us (_na naḥ pāśā bhayāvahāḥ_); it is our ruthless kinsmen, driven by self-interest (_ghorāḥ svārthaprayuktās tu jñātayaḥ_), who are a source of dread to us!
 </details>
 </details>
 
@@ -455,7 +455,7 @@ well known thing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘These [captured kinsmen] will without doubt declare the means for our capture (upāyam ete vakṣyanti grahaṇe); of all fear, fear from kinsmen is known to us as the most grievous (kṛtsnād bhayāj jñātibhayaṃ kukaṣṭaṃ vihitaṃ ca naḥ)!’
+“‘These [captured kinsmen] will without doubt declare the means for our capture (_upāyam ete vakṣyanti grahaṇe_); of all fear, fear from kinsmen is known to us as the most grievous (_kṛtsnād bhayāj jñātibhayaṃ kukaṣṭaṃ vihitaṃ ca naḥ_)!’
 </details>
 </details>
 
@@ -510,7 +510,7 @@ There is austerity in Brahmins."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abundance of milk is found in cows (vidyate goṣu sampannam), fear is found from kinsmen (vidyate jñātito bhayam), fickleness is found in women (vidyate strīṣu cāpalyam), and austerity is found in a Brāhmaṇa (vidyate brāhmaṇe tapaḥ).
+“Abundance of milk is found in cows (_vidyate goṣu sampannam_), fear is found from kinsmen (_vidyate jñātito bhayam_), fickleness is found in women (_vidyate strīṣu cāpalyam_), and austerity is found in a Brāhmaṇa (_vidyate brāhmaṇe tapaḥ_).
 </details>
 </details>
 
@@ -563,7 +563,7 @@ that I obtained riches and that I am sitting tight in the heads of enemies".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O gentle one (saumya), this is not pleasing to you (tato neṣṭam idaṃ): that I am honored by the world (lokasatkṛtaḥ), have attained sovereignty (aiśvaryam abhijātaś ca), and stand upon the heads of my foes (ripūṇāṃ mūrdhni ca sthitaḥ)!
+“Therefore, O gentle one (_saumya_), this is not pleasing to you (_tato neṣṭam idaṃ_): that I am honored by the world (_lokasatkṛtaḥ_), have attained sovereignty (_aiśvaryam abhijātaś ca_), and stand upon the heads of my foes (_ripūṇāṃ mūrdhni ca sthitaḥ_)!
 </details>
 </details>
 
@@ -615,7 +615,7 @@ a friendship does not cling to vulgar ones."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as drops of water fallen upon lotus-leaves (puṣkarapatreṣu patitās toyabindavaḥ) do not cleave to them (na śleṣam abhigacchanti), so is friendship among the ignoble (tathānāryeṣu sauhṛdam).
+“Just as drops of water fallen upon lotus-leaves (_puṣkarapatreṣu patitās toyabindavaḥ_) do not cleave to them (_na śleṣam abhigacchanti_), so is friendship among the ignoble (_tathānāryeṣu sauhṛdam_).
 </details>
 </details>
 
@@ -667,7 +667,7 @@ with water, so also friendship does not have tenderness of heart in vulgar peopl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as there is no saturation with water (na bhavaty ambusaṃkledaḥ) from autumnal clouds (śaradi meghānām) even though they thunder and sprinkle (siñcatām api garjatām), so is friendship among the ignoble.
+“Just as there is no saturation with water (_na bhavaty ambusaṃkledaḥ_) from autumnal clouds (_śaradi meghānām_) even though they thunder and sprinkle (_siñcatām api garjatām_), so is friendship among the ignoble.
 </details>
 </details>
 
@@ -729,7 +729,7 @@ stick on to vulgar people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as a bee, after eagerly finding nectar (madhukaras tarṣād rasaṃ vindan), does not linger there (na tiṣṭhati), so too are you right there, and so is friendship among the ignoble (tathānāryeṣu sauhṛdam).
+“Just as a bee, after eagerly finding nectar (_madhukaras tarṣād rasaṃ vindan_), does not linger there (_na tiṣṭhati_), so too are you right there, and so is friendship among the ignoble (_tathānāryeṣu sauhṛdam_).
 </details>
 </details>
 
@@ -781,7 +781,7 @@ get it, so also friendship cannot be extracted from vulgar persons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as a bee, though eagerly sipping a kāśa-grass flower (kāśapuṣpaṃ pibann api), finds no nectar therein (rasam atra na vindeta), so is friendship among the ignoble.
+“Just as a bee, though eagerly sipping a _kāśa_-grass flower (_kāśapuṣpaṃ pibann api_), finds no nectar therein (_rasam atra na vindeta_), so is friendship among the ignoble.
 </details>
 </details>
 
@@ -828,7 +828,7 @@ earlier with its trunk, friendship gets an abuse in vulgar persons in the same m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as an elephant, after bathing first (pūrvaṃ gajaḥ snātvā), takes up dust with its trunk (gṛhya hastena vai rajaḥ) and defiles its own body (dūṣayaty ātmano deham), so is friendship among the ignoble.
+“Just as an elephant, after bathing first (_pūrvaṃ gajaḥ snātvā_), takes up dust with its trunk (_gṛhya hastena vai rajaḥ_) and defiles its own body (_dūṣayaty ātmano deham_), so is friendship among the ignoble.
 </details>
 </details>
 
@@ -881,7 +881,7 @@ manner, he will be ceasing to exit at this moment. O, destroyer of race! A curse
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Should anyone else utter such a speech as this, O night-stalker (yo 'nyas tv evaṃvidhaṃ brūyād vākyam etan niśācara), he would cease to exist this very moment (asmin muhūrte na bhavet); fie upon you, O disgrace of our lineage (tvāṃ tu dhik kulapāṃsana)!”
+“Should anyone else utter such a speech as this, O night-stalker (_yo &#x27;nyas tv evaṃvidhaṃ brūyād vākyam etan niśācara_), he would cease to exist this very moment (_asmin muhūrte na bhavet_); fie upon you, O disgrace of our lineage (_tvāṃ tu dhik kulapāṃsana_)!”
 </details>
 </details>
 
@@ -933,7 +933,7 @@ mace in his hand, soared high into the sky, along with four other demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed with harsh speech, Vibhīṣaṇa, who ever spoke justice (nyāyavādī), sprang up into the sky mace in hand (utpapāta gadāpāṇiḥ) together with four Rākṣasas (caturbhiḥ saha rākṣasaiḥ).
+Thus addressed with harsh speech, Vibhīṣaṇa, who ever spoke justice (_nyāyavādī_), sprang up into the sky mace in hand (_utpapāta gadāpāṇiḥ_) together with four Rākṣasas (_caturbhiḥ saha rākṣasaiḥ_).
 </details>
 </details>
 
@@ -993,7 +993,7 @@ Ravana, his brother after moving into the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed in mid-air (antarikṣagataḥ), the glorious (śrīmān) brother Vibhīṣaṇa, his anger kindled (jātakrodhaḥ), then spoke this word to the lord of the Rākṣasas (rākṣasādhipam):
+Stationed in mid-air (_antarikṣagataḥ_), the glorious (_śrīmān_) brother Vibhīṣaṇa, his anger kindled (_jātakrodhaḥ_), then spoke this word to the lord of the Rākṣasas (_rākṣasādhipam_):
 </details>
 </details>
 
@@ -1052,7 +1052,7 @@ forbear these harsh words from you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You yourself are deluded toward me, O king (sa tvaṃ bhrānto 'si me rājan); say to me whatever you wish (brūhi māṃ yad yad icchasi)! Though an elder brother is venerable and equal to a father (jyeṣṭho mānyaḥ pitṛsamaḥ), you do not stand on the path of dharma (na ca dharmapathe sthitaḥ); truly I do not brook this harsh speech of you, my elder brother (idaṃ hi paruṣaṃ vākyaṃ na kṣamāmy agrajasya te)!
+“You yourself are deluded toward me, O king (_sa tvaṃ bhrānto &#x27;si me rājan_); say to me whatever you wish (_brūhi māṃ yad yad icchasi_)! Though an elder brother is venerable and equal to a father (_jyeṣṭho mānyaḥ pitṛsamaḥ_), you do not stand on the path of _dharma_ (_na ca dharmapathe sthitaḥ_); truly I do not brook this harsh speech of you, my elder brother (_idaṃ hi paruṣaṃ vākyaṃ na kṣamāmy agrajasya te_)!
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ assimilate the words of prudence, spoken by a well wisher."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Men of undisciplined mind (akṛtātmānaḥ) who have fallen under the sway of Time (kālasya vaśam āgatāḥ), O ten-faced one, do not accept well-reasoned speech uttered by one desiring their welfare (sunītaṃ hitakāmena vākyam uktam).
+“Men of undisciplined mind (_akṛtātmānaḥ_) who have fallen under the sway of Time (_kālasya vaśam āgatāḥ_), O ten-faced one, do not accept well-reasoned speech uttered by one desiring their welfare (_sunītaṃ hitakāmena vākyam uktam_).
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ obtained"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Easy to find, O king, are men who constantly speak flattering words (sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ); rare is both the speaker and the hearer of what is unpleasant yet salutary (apriyasya ca pathyasya vaktā śrotā ca durlabhaḥ)!
+“Easy to find, O king, are men who constantly speak flattering words (_sulabhāḥ puruṣā rājan satataṃ priyavādinaḥ_); rare is both the speaker and the hearer of what is unpleasant yet salutary (_apriyasya ca pathyasya vaktā śrotā ca durlabhaḥ_)!
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ around you and which snatches away all beings, as none can ignore a burning hous
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I could not indifferently watch you perishing (na naśyantam upekṣe tvām), bound by the noose of all-devouring Time (baddhaṃ kālasya pāśena sarvabhūtāpahāriṇaḥ), any more than [one watches] a house in flames (pradīptaṃ śaraṇaṃ yathā).
+“I could not indifferently watch you perishing (_na naśyantam upekṣe tvām_), bound by the noose of all-devouring Time (_baddhaṃ kālasya pāśena sarvabhūtāpahāriṇaḥ_), any more than [one watches] a house in flames (_pradīptaṃ śaraṇaṃ yathā_).
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ gold and each resembling like a blazing fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I do not wish to behold you slain by Rāma (na tvām icchāmy ahaṃ draṣṭuṃ rāmeṇa nihatam) with sharp, gold-decked arrows (śitaiḥ kāñcanabhūṣaṇaiḥ śaraiḥ) that blaze like kindled fire (dīptapāvakasaṃkāśaiḥ)!
+“I do not wish to behold you slain by Rāma (_na tvām icchāmy ahaṃ draṣṭuṃ rāmeṇa nihatam_) with sharp, gold-decked arrows (_śitaiḥ kāñcanabhūṣaṇaiḥ_ _śaraiḥ_) that blaze like kindled fire (_dīptapāvakasaṃkāśaiḥ_)!
 </details>
 </details>
 
@@ -1329,7 +1329,7 @@ setuvaH yathaa = like a dam constructed with sand."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even valiant, mighty men accomplished in missiles (śūrāś ca balavantaś ca kṛtāstrāś ca narāḥ), when overtaken by Time (kālābhipannāḥ), crumble in battle like dams of sand (sīdanti yathā vālukasetavaḥ).
+“Even valiant, mighty men accomplished in missiles (_śūrāś ca balavantaś ca kṛtāstrāś ca narāḥ_), when overtaken by Time (_kālābhipannāḥ_), crumble in battle like dams of sand (_sīdanti yathā vālukasetavaḥ_).
 </details>
 </details>
 
@@ -1362,7 +1362,7 @@ setuvaH yathaa = like a dam constructed with sand."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May Your Honor forgive (tan marṣayatu) whatever was spoken by me out of desire for your welfare and by reason of your status as my elder (gurutvād dhitam icchatā). Protect yourself by every means, and this city together with its Rākṣasas; fare you well—I shall depart; be happy without me (svasti te 'stu gamiṣyāmi sukhī bhava mayā vinā)!
+“May Your Honor forgive (_tan marṣayatu_) whatever was spoken by me out of desire for your welfare and by reason of your status as my elder (_gurutvād dhitam icchatā_). Protect yourself by every means, and this city together with its Rākṣasas; fare you well—I shall depart; be happy without me (_svasti te &#x27;stu gamiṣyāmi sukhī bhava mayā vinā_)!
 </details>
 </details>
 
@@ -1427,7 +1427,7 @@ Be a happy person without me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though restrained by me who wish you well (nivāryamāṇasya mayā hitaiṣiṇā), my speech pleases you not, O night-stalker (na rocate te vacanaṃ niśācara); for at the hour of death (parāntakāle hi), men whose life-span is spent (gatāyuṣo narāḥ) do not accept salutary counsel uttered by their friends (hitaṃ na gṛhṇanti suhṛdbhir īritam)!”
+“Though restrained by me who wish you well (_nivāryamāṇasya mayā hitaiṣiṇā_), my speech pleases you not, O night-stalker (_na rocate te vacanaṃ niśācara_); for at the hour of death (_parāntakāle hi_), men whose life-span is spent (_gatāyuṣo narāḥ_) do not accept salutary counsel uttered by their friends (_hitaṃ na gṛhṇanti suhṛdbhir īritam_)!”
 </details>
 </details>
 

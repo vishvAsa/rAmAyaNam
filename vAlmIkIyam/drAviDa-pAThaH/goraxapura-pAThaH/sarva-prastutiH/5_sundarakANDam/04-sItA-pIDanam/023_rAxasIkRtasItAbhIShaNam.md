@@ -74,7 +74,7 @@ women went away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Maithilī and having instructed all the rākṣasīs, King Rāvaṇa, who makes his enemies wail (śatrurāvaṇaḥ), then departed (nirjagāma ha).
+Having spoken thus to Maithilī and having instructed all the rākṣasīs, King Rāvaṇa, who makes his enemies wail (_śatrurāvaṇaḥ_), then departed (_nirjagāma ha_).
 </details>
 </details>
 
@@ -107,7 +107,7 @@ Having spoken thus to Maithilī and having instructed all the rākṣasīs, King
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the lord of the rākṣasas had gone forth and re-entered his inner apartments (antaḥpuraṃ gate), those rākṣasīs of dreadful form (bhīmarūpāḥ) rushed (samabhidudruvuḥ) upon Sītā.
+When the lord of the rākṣasas had gone forth and re-entered his inner apartments (_antaḥpuraṃ gate_), those rākṣasīs of dreadful form (_bhīmarūpāḥ_) rushed (_samabhidudruvuḥ_) upon Sītā.
 </details>
 </details>
 
@@ -176,7 +176,7 @@ words to Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then approaching Sītā, the rākṣasīs, beside themselves with rage (krodhamūrcchitāḥ), spoke this word to Vaidehī in an exceedingly harsh voice (paruṣayā vācā):
+Then approaching Sītā, the rākṣasīs, beside themselves with rage (_krodhamūrcchitāḥ_), spoke this word to Vaidehī in an exceedingly harsh voice (_paruṣayā vācā_):
 </details>
 </details>
 
@@ -224,7 +224,7 @@ among men, a great soul with ten heads."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sītā, do you not esteem (na bahu manyase) becoming the wife (bhāryātvam) of the high-souled ten-necked Rāvaṇa, the foremost descendant of Pulastya (paulastyasya variṣṭhasya)?”
+“O Sītā, do you not esteem (_na bahu manyase_) becoming the wife (_bhāryātvam_) of the high-souled ten-necked Rāvaṇa, the foremost descendant of Pulastya (_paulastyasya variṣṭhasya_)?”
 </details>
 </details>
 
@@ -276,7 +276,7 @@ can be held by palm of the hand, spoke these words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a rākṣasī named Ekajaṭā, her eyes coppery-red with rage (krodhatāmrākṣī), addressed Sītā, whose waist could be spanned by the palm of a hand (karatalodarīm), and spoke:
+Then a rākṣasī named Ekajaṭā, her eyes coppery-red with rage (_krodhatāmrākṣī_), addressed Sītā, whose waist could be spanned by the palm of a hand (_karatalodarīm_), and spoke:
 </details>
 </details>
 
@@ -334,7 +334,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Among the six Prajāpatis (prajāpatīnāṃ ṣaṇṇām), the fourth Prajāpati is this mind-born son (mānasaḥ putraḥ) of Brahmā, renowned as Pulastya.
+“Among the six Prajāpatis (_prajāpatīnāṃ ṣaṇṇām_), the fourth Prajāpati is this mind-born son (_mānasaḥ putraḥ_) of Brahmā, renowned as Pulastya.
 </details>
 </details>
 
@@ -393,7 +393,7 @@ is the son born from the thought of Pulastya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And of Pulastya there was a glorious, mind-born son (mānasaḥ sutaḥ), a great sage named Viśravas by name, equal in radiance to a Prajāpati (prajāpatisamaprabhaḥ).
+And of Pulastya there was a glorious, mind-born son (_mānasaḥ sutaḥ_), a great sage named Viśravas by name, equal in radiance to a Prajāpati (_prajāpatisamaprabhaḥ_).
 </details>
 </details>
 
@@ -452,7 +452,7 @@ wife. O one with all beautiful limbs! Why will you not agree words spoken by me.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His son, O large-eyed lady (viśālākṣi), is Rāvaṇa, who makes his foes wail; you ought to become the wife of that lord of the rākṣasas!
+His son, O large-eyed lady (_viśālākṣi_), is Rāvaṇa, who makes his foes wail; you ought to become the wife of that lord of the rākṣasas!
 </details>
 </details>
 
@@ -503,9 +503,9 @@ the wife of that lord of ogres.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** O lady of lovely limbs (cārusarvāṅgi), why do you not assent to the word spoken by me?” Then a rākṣasī named Harijaṭā spoke a word,
+**9:** O lady of lovely limbs (_cārusarvāṅgi_), why do you not assent to the word spoken by me?” Then a rākṣasī named Harijaṭā spoke a word,
 
-**10:** rolling her eyes in wrath (vivṛtya nayane kopāt), with eyes resembling a cat’s (mārjārasadṛśekṣaṇā): “He by whom the thirty-three gods (devās trayastriṃśat) and the king of the gods [Indra] were vanquished—
+**10:** rolling her eyes in wrath (_vivṛtya nayane kopāt_), with eyes resembling a cat’s (_mārjārasadṛśekṣaṇā_): “He by whom the thirty-three gods (_devās trayastriṃśat_) and the king of the gods [Indra] were vanquished—
 </details>
 </details>
 
@@ -573,7 +573,7 @@ word.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-of that lord of the rākṣasas you ought to become the wife! Why do you not desire (kiṃ na lipsase) to become the wife of that mighty, heroic warrior, proud of his valour (vīryotsiktasya) and unretreating in battles (saṃgrāmeṣv anivartinaḥ)?
+of that lord of the rākṣasas you ought to become the wife! Why do you not desire (_kiṃ na lipsase_) to become the wife of that mighty, heroic warrior, proud of his valour (_vīryotsiktasya_) and unretreating in battles (_saṃgrāmeṣv anivartinaḥ_)?
 </details>
 </details>
 
@@ -651,9 +651,9 @@ obtain you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Abandoning his beloved, highly esteemed wife (priyāṃ bahumatāṃ bhāryām), who is the most fortunate of all (sarvāsāṃ ca mahābhāgām), the mighty King Rāvaṇa will come to you (tvām upaiṣyati)!
+**12:** Abandoning his beloved, highly esteemed wife (_priyāṃ bahumatāṃ bhāryām_), who is the most fortunate of all (_sarvāsāṃ ca mahābhāgām_), the mighty King Rāvaṇa will come to you (_tvām upaiṣyati_)!
 
-**13:** Forsaking that inner apartment (antaḥpuram) thronged with a thousand women (strīsahasreṇa) and resplendent with manifold jewels, Rāvaṇa will come to you!”
+**13:** Forsaking that inner apartment (_antaḥpuram_) thronged with a thousand women (_strīsahasreṇa_) and resplendent with manifold jewels, Rāvaṇa will come to you!”
 </details>
 </details>
 
@@ -709,9 +709,9 @@ you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Then another rākṣasī named Vikaṭā spoke a word: “He by whose dreadful valour (bhīmavīryeṇa) nāgas, gandharvas, and dānavas have been repeatedly vanquished (asakṛd nirjitāḥ) in battle—he has come to your side (pārśvam upāgataḥ)!
+**14:** Then another rākṣasī named Vikaṭā spoke a word: “He by whose dreadful valour (_bhīmavīryeṇa_) nāgas, gandharvas, and dānavas have been repeatedly vanquished (_asakṛd nirjitāḥ_) in battle—he has come to your side (_pārśvam upāgataḥ_)!
 
-**15:** Why, O vile woman (adhame), do you not desire to become the wife of that high-souled Rāvaṇa, the lord of the rākṣasas, who is endowed with every affluence (sarvasamṛddhasya)?”
+**15:** Why, O vile woman (_adhame_), do you not desire to become the wife of that high-souled Rāvaṇa, the lord of the rākṣasas, who is endowed with every affluence (_sarvasamṛddhasya_)?”
 </details>
 </details>
 
@@ -750,7 +750,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a rākṣasī named Durmukhī spoke a word to her: “He out of fear of whom (yasya bhītaḥ) the sun does not scorch (sūryo na tapati) and the wind does not blow (māruto na vāti sma)—O lady with long outer eye-corners (āyatāpāṅgi), why do you not abide by him (tasya na tiṣṭhase)?
+Then a rākṣasī named Durmukhī spoke a word to her: “He out of fear of whom (_yasya bhītaḥ_) the sun does not scorch (_sūryo na tapati_) and the wind does not blow (_māruto na vāti sma_)—O lady with long outer eye-corners (_āyatāpāṅgi_), why do you not abide by him (_tasya na tiṣṭhase_)?
 </details>
 </details>
 
@@ -829,9 +829,9 @@ a great soul and lord of ogres.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Out of fear of whom the trees shed a shower of flowers (puṣpavṛṣṭiṃ mumucuḥ), and the mountains and rain-clouds (śailāḥ ... jaladāś ca) pour forth water (susruvuḥ pānīyam) whenever he desires (yadecchati)—
+**17:** Out of fear of whom the trees shed a shower of flowers (_puṣpavṛṣṭiṃ mumucuḥ_), and the mountains and rain-clouds (_śailāḥ ... jaladāś ca_) pour forth water (_susruvuḥ pānīyam_) whenever he desires (_yadecchati_)—
 
-**18:** why, O spirited woman (bhāmini), do you not set your mind (na kuruṣe buddhim) on becoming the wife (bhāryārthe) of that Rāvaṇa, the king of the nairṛtas and king of kings (rājarājasya)?
+**18:** why, O spirited woman (_bhāmini_), do you not set your mind (_na kuruṣe buddhim_) on becoming the wife (_bhāryārthe_) of that Rāvaṇa, the king of the nairṛtas and king of kings (_rājarājasya_)?
 </details>
 </details>
 
@@ -911,6 +911,6 @@ who is the king of ogres and king of kings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rightly (sādhu) has this been told to you in truth (tattvataḥ), O queen! Rightly accept (gṛhāṇa) this word, O spirited lady of lovely smile (susmite); otherwise you shall not live (na bhaviṣyasi)!”
+Rightly (_sādhu_) has this been told to you in truth (_tattvataḥ_), O queen! Rightly accept (_gṛhāṇa_) this word, O spirited lady of lovely smile (_susmite_); otherwise you shall not live (_na bhaviṣyasi_)!”
 </details>
 </details>

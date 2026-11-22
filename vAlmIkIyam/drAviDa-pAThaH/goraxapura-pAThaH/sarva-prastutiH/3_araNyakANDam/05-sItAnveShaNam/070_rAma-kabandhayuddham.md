@@ -81,7 +81,7 @@ arms of the demon, and who are enduring within it, Kabandha said this sentence t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those two brothers Rāma and Lakṣmaṇa standing there encircled by the noose of his arms (bāhu-pāśa-parikṣiptau), Kabandha spoke these words:
+Seeing those two brothers Rāma and Lakṣmaṇa standing there encircled by the noose of his arms (_bāhu-pāśa-parikṣiptau_), Kabandha spoke these words:
 </details>
 </details>
 
@@ -135,7 +135,7 @@ are the godsend gobs of mine, and hence now you are almost dead..." So said Kaba
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you two stand [idle] (tiṣṭhataḥ kiṃ nu), O bulls among Kṣatriyas (kṣatriyarṣabhau), on beholding me tormented by hunger (kṣudhārtam), when, bereft of your senses (hata-cetanau), you have been ordained by destiny (daivena saṃdiṣṭau) to serve as my food (āhārārtham)?”
+“Why do you two stand [idle] (_tiṣṭhataḥ kiṃ nu_), O bulls among Kṣatriyas (_kṣatriyarṣabhau_), on beholding me tormented by hunger (_kṣudhārtam_), when, bereft of your senses (_hata-cetanau_), you have been ordained by destiny (_daivena saṃdiṣṭau_) to serve as my food (_āhārārtham_)?”
 </details>
 </details>
 
@@ -188,7 +188,7 @@ expedient and advisable words to Rama on hearing that demon's word. [3-70-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words, Lakṣmaṇa, though stricken with distress (ārti-samāpannaḥ), resolved upon valour (vikrame kṛta-niścayaḥ) and spoke words that were timely (prāpta-kālam) and salutary (hitam):
+Hearing those words, Lakṣmaṇa, though stricken with distress (_ārti-samāpannaḥ_), resolved upon valour (_vikrame kṛta-niścayaḥ_) and spoke words that were timely (_prāpta-kālam_) and salutary (_hitam_):
 </details>
 </details>
 
@@ -245,7 +245,7 @@ therefore, we will have to swiftly hack off his lengthy arms at his shoulder lev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before (purā) this vilest of rākṣasas (rākṣasādhamaḥ) swiftly snatches up (tūrṇam ādatte) both you and me, let us quickly sever (āśu chindāvahe) his two massive arms (bāhū gurū) with our swords (asibhyām)!
+“Before (_purā_) this vilest of _rākṣasas_ (_rākṣasādhamaḥ_) swiftly snatches up (_tūrṇam ādatte_) both you and me, let us quickly sever (_āśu chindāvahe_) his two massive arms (_bāhū gurū_) with our swords (_asibhyām_)!
 </details>
 </details>
 
@@ -301,7 +301,7 @@ this province, and he now wishes to end us... [3-70-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This terrifying, gigantic rākṣasa, whose prowess lies in his arms (bhuja-vikramaḥ), having utterly vanquished (atijitaṃ kṛtvā) the world, desires to slay us both here (āvāṃ hantum ihecchati).
+“This terrifying, gigantic _rākṣasa_, whose prowess lies in his arms (_bhuja-vikramaḥ_), having utterly vanquished (_atijitaṃ kṛtvā_) the world, desires to slay us both here (_āvāṃ hantum ihecchati_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ but not this beastly demon who is aggressive and contemplating a regicide...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a ruler of the earth (jagatī-pateḥ), O king, the slaying of creatures incapable of resistance (niśceṣṭānāṃ vadhaḥ) is reviled (kutsitaḥ), like that of [wild] beasts brought into the midst of a sacrifice (kratu-madhyopanītānāṃ paśūnām iva), O Rāghava!”
+“For a ruler of the earth (_jagatī-pateḥ_), O king, the slaying of creatures incapable of resistance (_niśceṣṭānāṃ vadhaḥ_) is reviled (_kutsitaḥ_), like that of [wild] beasts brought into the midst of a sacrifice (_kratu-madhyopanītānāṃ paśūnām iva_), O Rāghava!”
 </details>
 </details>
 
@@ -433,7 +433,7 @@ mouth he started to wolf down both of them. [3-70-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that conversation (saṃjalpitam) of theirs, the enraged rākṣasa, opening wide his fierce mouth (vidāryāsyaṃ raudram), began to devour (bhakṣayitum ārabhat) them both.
+Hearing that conversation (_saṃjalpitam_) of theirs, the enraged _rākṣasa_, opening wide his fierce mouth (_vidāryāsyaṃ raudram_), began to devour (_bhakṣayitum ārabhat_) them both.
 </details>
 </details>
 
@@ -497,7 +497,7 @@ circumspectly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those two Rāghavas, knowers of place and time (deśa-kāla-jñau), filled with high spirits (susaṃhṛṣṭau), severed (acchindantām) his two arms from the region of his shoulders (aṃsa-deśataḥ) with their swords alone (khaḍgābhyām eva).
+Then those two Rāghavas, knowers of place and time (_deśa-kāla-jñau_), filled with high spirits (_susaṃhṛṣṭau_), severed (_acchindantām_) his two arms from the region of his shoulders (_aṃsa-deśataḥ_) with their swords alone (_khaḍgābhyām eva_).
 </details>
 </details>
 
@@ -549,7 +549,7 @@ his part hewed down the left arm that speedily. [3-70-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the dexterous (dakṣiṇaḥ) Rāma swiftly (vegena) severed his right arm (dakṣiṇaṃ bāhum) cleanly without impediment (asaktam) with his sword, while the heroic Lakṣmaṇa [severed] his left (savyam).
+Then the dexterous (_dakṣiṇaḥ_) Rāma swiftly (_vegena_) severed his right arm (_dakṣiṇaṃ bāhum_) cleanly without impediment (_asaktam_) with his sword, while the heroic Lakṣmaṇa [severed] his left (_savyam_).
 </details>
 </details>
 
@@ -602,7 +602,7 @@ the ten points of horizon with a cacophonous voice, like a black-thunderous-clou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his arms severed (chinna-bāhuḥ), that long-armed monster fell (papāta) with a mighty roar (mahā-svanaḥ), making the sky, the earth (gāṃ ca), and the quarters resound (nādayan) like a thundercloud (jalado yathā).
+With his arms severed (_chinna-bāhuḥ_), that long-armed monster fell (_papāta_) with a mighty roar (_mahā-svanaḥ_), making the sky, the earth (_gāṃ ca_), and the quarters resound (_nādayan_) like a thundercloud (_jalado yathā_).
 </details>
 </details>
 
@@ -657,7 +657,7 @@ asked those two bold ones thus as, "who are you..." [3-70-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his two arms severed (nikṛttau bhujau) and bathed in torrents of blood (śoṇitaugha-pariplutaḥ), the humbled (dīnaḥ) Dānava asked those two heroes, “Who are you two (kau yuvām)?”
+Seeing his two arms severed (_nikṛttau bhujau_) and bathed in torrents of blood (_śoṇitaugha-pariplutaḥ_), the humbled (_dīnaḥ_) Dānava asked those two heroes, “Who are you two (_kau yuvām_)?”
 </details>
 </details>
 
@@ -714,7 +714,7 @@ him about Rama of Kakutstha, an unremitting dynasty. [3-70-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he spoke thus (iti tasya bruvāṇasya), the mighty Lakṣmaṇa, endowed with auspicious marks (śubha-lakṣaṇaḥ), made known (śaśaṃsa) Kākutstha to that Kabandha:
+As he spoke thus (_iti tasya bruvāṇasya_), the mighty Lakṣmaṇa, endowed with auspicious marks (_śubha-lakṣaṇaḥ_), made known (_śaśaṃsa_) Kākutstha to that Kabandha:
 </details>
 </details>
 
@@ -769,7 +769,7 @@ younger brother, Lakshmana, by my name... [3-70-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the heir of the Ikṣvākus (ikṣvāku-dāyādaḥ), renowned among men (janaiḥ śrutaḥ) by the name of Rāma; and know me to be his younger brother (avarajaṃ bhrātaram), Lakṣmaṇa.
+“This is the heir of the Ikṣvākus (_ikṣvāku-dāyādaḥ_), renowned among men (_janaiḥ śrutaḥ_) by the name of Rāma; and know me to be his younger brother (_avarajaṃ bhrātaram_), Lakṣmaṇa.
 </details>
 </details>
 
@@ -846,9 +846,9 @@ and wishing to retrieve her we came here... [3-70-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “When his sovereignty was obstructed by his [step-]mother (mātrā pratihate rājye), Rāma was sent forth into exile (pravrājito vanam), and he roams (caraty eṣa) this great forest together with me and his wife (bhāryayā ca).
+**14:** “When his sovereignty was obstructed by his [step-]mother (_mātrā pratihate rājye_), Rāma was sent forth into exile (_pravrājito vanam_), and he roams (_caraty eṣa_) this great forest together with me and his wife (_bhāryayā ca_).
 
-**15:** “While this hero of divine majesty (deva-prabhāvasya) was dwelling in the solitary forest (vijane vane), his wife was carried off by a rākṣasa (rakṣasāpahṛtā bhāryā); seeking her (yām icchantau), we two have come here (ihāgatau).
+**15:** “While this hero of divine majesty (_deva-prabhāvasya_) was dwelling in the solitary forest (_vijane vane_), his wife was carried off by a _rākṣasa_ (_rakṣasāpahṛtā bhāryā_); seeking her (_yām icchantau_), we two have come here (_ihāgatau_).
 </details>
 </details>
 
@@ -909,7 +909,7 @@ asked the demon thus. [3-70-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But who are you (tvaṃ tu ko vā), and wherefore (kim-arthaṃ vā) do you writhe about (viceṣṭase) in the forest with shattered shanks (bhagna-jaṅghaḥ), resembling a headless trunk (kabandha-sadṛśaḥ) with a blazing mouth upon your chest (āsyenorasi dīptena)?”
+“But who are you (_tvaṃ tu ko vā_), and wherefore (_kim-arthaṃ vā_) do you writhe about (_viceṣṭase_) in the forest with shattered shanks (_bhagna-jaṅghaḥ_), resembling a headless trunk (_kabandha-sadṛśaḥ_) with a blazing mouth upon your chest (_āsyenorasi dīptena_)?”
 </details>
 </details>
 
@@ -960,7 +960,7 @@ and he said these words in reply. [3-70-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Lakṣmaṇa, Kabandha, delighted (prītaḥ) as he recalled those words of Indra (tad indra-vacanaṃ smaran), spoke these words in reply (uttaraṃ vacaḥ):
+Thus addressed by Lakṣmaṇa, Kabandha, delighted (_prītaḥ_) as he recalled those words of Indra (_tad indra-vacanaṃ smaran_), spoke these words in reply (_uttaraṃ vacaḥ_):
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ ca* Now those shackles of mortality are severed and he is ready for immortality.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Welcome to you two (svāgataṃ vām), O tigers among men (nara-vyāghrau)! By good fortune (diṣṭyā) do I behold you both, and by good fortune have these two binding arms (bāhu-bandhanau) of mine been severed (nikṛttau) by you two!
+“Welcome to you two (_svāgataṃ vām_), O tigers among men (_nara-vyāghrau_)! By good fortune (_diṣṭyā_) do I behold you both, and by good fortune have these two binding arms (_bāhu-bandhanau_) of mine been severed (_nikṛttau_) by you two!
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ that you may listen while I narrate it to you. [3-70-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And how (yathā) this deformed shape of mine (virūpaṃ me rūpam) was incurred through my own insolence (avinayāt), hear that (tan me śṛṇu), O tiger among men, as I relate it to you in truth (tattvataḥ śaṃsatas tava)!”
+“And how (_yathā_) this deformed shape of mine (_virūpaṃ me rūpam_) was incurred through my own insolence (_avinayāt_), hear that (_tan me śṛṇu_), O tiger among men, as I relate it to you in truth (_tattvataḥ śaṃsatas tava_)!”
 </details>
 </details>
 

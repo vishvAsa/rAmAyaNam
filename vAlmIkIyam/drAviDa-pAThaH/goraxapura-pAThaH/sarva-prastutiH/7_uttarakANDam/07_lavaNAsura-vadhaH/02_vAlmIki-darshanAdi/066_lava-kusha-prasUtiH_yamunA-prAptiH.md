@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On the very night that Śatrughna entered the leaf-hut (yām eva rātriṃ śatrughnaḥ parṇaśālām upāviśat), on that very night Sītā too gave birth to a pair of sons (tām eva rātriṃ sītāpi prasūtā dāraka-dvayam).
+On the very night that Śatrughna entered the leaf-hut (_yām eva rātriṃ śatrughnaḥ parṇaśālām upāviśat_), on that very night Sītā too gave birth to a pair of sons (_tām eva rātriṃ sītāpi prasūtā dāraka-dvayam_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then at the midnight hour (tato ’rdharātra-samaye), the young boys, sons of the sages (bālakā muni-dārakāḥ), announced to Vālmīki the joyful news (vālmīkeḥ priyam ācakhyuḥ) of Sītā’s auspicious delivery (sītāyāḥ prasavaṃ śubham):
+Then at the midnight hour (_tato ’rdharātra-samaye_), the young boys, sons of the sages (_bālakā muni-dārakāḥ_), announced to Vālmīki the joyful news (_vālmīkeḥ priyam ācakhyuḥ_) of Sītā’s auspicious delivery (_sītāyāḥ prasavaṃ śubham_):
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Blessed One, that wife of Rāma has given birth to twin boys (bhagavan rāma-patnī sā prasūtā dāraka-dvayam); therefore, O greatly effulgent one, perform the protective rite that destroys evil spirits (tato rakṣāṃ mahātejaḥ kuru bhūta-vināśinīm)!”
+“O Blessed One, that wife of Rāma has given birth to twin boys (_bhagavan rāma-patnī sā prasūtā dāraka-dvayam_); therefore, O greatly effulgent one, perform the protective rite that destroys evil spirits (_tato rakṣāṃ mahātejaḥ kuru bhūta-vināśinīm_)!”
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), the great sage came forth (maharṣiḥ samupāgamat) [to see the twins] resembling young moons, like sons of the gods, of mighty splendor (bālacandra-pratīkāśau devaputrau mahaujasau);
+Hearing those words of theirs (_teṣāṃ tad vacanaṃ śrutvā_), the great sage came forth (_maharṣiḥ samupāgamat_) [to see the twins] resembling young moons, like sons of the gods, of mighty splendor (_bālacandra-pratīkāśau devaputrau mahaujasau_);
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he went thither with delighted heart (jagāma tatra hṛṣṭātmā) and beheld the two young boys (dadarśa ca kumārakau), and wrought for them a spirit-slaying protection that destroys rākṣasas (bhūtaghnīṃ cākarot tābhyāṃ rakṣāṃ rakṣo-vināśinīm).
+he went thither with delighted heart (_jagāma tatra hṛṣṭātmā_) and beheld the two young boys (_dadarśa ca kumārakau_), and wrought for them a spirit-slaying protection that destroys rākṣasas (_bhūtaghnīṃ cākarot tābhyāṃ rakṣāṃ rakṣo-vināśinīm_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking a fistful of kuśa grass tips and its lower cuttings as well (kuśa-muṣṭim upādāya lavaṃ caiva tu), that twice-born sage Vālmīki bestowed upon them the spirit-destroying protection (pradadau tābhyāṃ rakṣāṃ bhūta-vināśinīm).
+Taking a fistful of _kuśa_ grass tips and its lower cuttings as well (_kuśa-muṣṭim upādāya lavaṃ caiva tu_), that twice-born sage Vālmīki bestowed upon them the spirit-destroying protection (_pradadau tābhyāṃ rakṣāṃ bhūta-vināśinīm_).
 </details>
 </details>
 
@@ -274,9 +274,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “He of the two who was born first (yas tayoḥ pūrvajo jātaḥ) is to be wiped with kuśa tips consecrated by mantras (sa kuśair mantra-satkṛtaiḥ nirmārjanīyas tu tadā); therefore his name shall be Kuśa (kuśa ity asya nāma tat).
+**7:** “He of the two who was born first (_yas tayoḥ pūrvajo jātaḥ_) is to be wiped with _kuśa_ tips consecrated by mantras (_sa kuśair mantra-satkṛtaiḥ nirmārjanīyas tu tadā_); therefore his name shall be Kuśa (_kuśa ity asya nāma tat_).
 
-**8:** “And he who is the younger of the two (yaś cāvaro bhavet tābhyām) is to be wiped attentively by the elderly women with the lava stalks (lavena sa samāhitaḥ nirmārjanīyo vṛddhābhiḥ), and thus by name he shall be Lava (lava ityeva nāmataḥ).
+**8:** “And he who is the younger of the two (_yaś cāvaro bhavet tābhyām_) is to be wiped attentively by the elderly women with the _lava_ stalks (_lavena sa samāhitaḥ nirmārjanīyo vṛddhābhiḥ_), and thus by name he shall be Lava (_lava ityeva nāmataḥ_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus both those twin-born boys (tāv ubhau yamajātakau) shall be Kuśa and Lava by name (evaṃ kuśa-lavau nāmnā), and through the names bestowed by me (mat-kṛtābhyāṃ ca nāmabhyām) they shall become endowed with renown (khyāti-yuktau bhaviṣyataḥ).”
+“Thus both those twin-born boys (_tāv ubhau yamajātakau_) shall be Kuśa and Lava by name (_evaṃ kuśa-lavau nāmnā_), and through the names bestowed by me (_mat-kṛtābhyāṃ ca nāmabhyām_) they shall become endowed with renown (_khyāti-yuktau bhaviṣyataḥ_).”
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Self-composed and free from stain (samāhitāḥ ... vigata-kalmaṣāḥ), those [elderly women] received that protective offering from the sage’s hand (tāṃ rakṣāṃ jagṛhus tāś ca muni-hastāt) and thereupon performed the protective rite for the two infants (akurvaṃś ca tato rakṣāṃ tayoḥ).
+Self-composed and free from stain (_samāhitāḥ ... vigata-kalmaṣāḥ_), those [elderly women] received that protective offering from the sage’s hand (_tāṃ rakṣāṃ jagṛhus tāś ca muni-hastāt_) and thereupon performed the protective rite for the two infants (_akurvaṃś ca tato rakṣāṃ tayoḥ_).
 </details>
 </details>
 
@@ -389,9 +389,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** And hearing of that rite being performed by the elderly women (tathā tāṃ kriyamāṇāṃ ca vṛddhābhiḥ), of the birth and naming (janma nāma ca), and the mention of Rāma (saṅkīrtanaṃ ca rāmasya) and the auspicious twin births of Sītā (sītāyāḥ prasavau śubhau),
+**11:** And hearing of that rite being performed by the elderly women (_tathā tāṃ kriyamāṇāṃ ca vṛddhābhiḥ_), of the birth and naming (_janma nāma ca_), and the mention of Rāma (_saṅkīrtanaṃ ca rāmasya_) and the auspicious twin births of Sītā (_sītāyāḥ prasavau śubhau_),
 
-**12:** at midnight Śatrughna heard that exceedingly joyful news (ardharātre tu śatrughnaḥ śuśrāva sumahat priyam); then, going to the leaf-hut (parṇaśālāṃ tato gatvā), he exclaimed: “O Mother, by good fortune (mātar diṣṭyeti cābravīt)!”
+**12:** at midnight Śatrughna heard that exceedingly joyful news (_ardharātre tu śatrughnaḥ śuśrāva sumahat priyam_); then, going to the leaf-hut (_parṇaśālāṃ tato gatvā_), he exclaimed: “O Mother, by good fortune (_mātar diṣṭyeti cābravīt_)!”
 </details>
 </details>
 
@@ -433,7 +433,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus for that deeply gladdened, high-souled Śatrughna (tathā tasya prahṛṣṭasya śatrughnasya mahātmanaḥ), swift in stride (laghu-vikramaḥ), that rainy-season night of Śrāvaṇa passed away (vyatītā vārṣikī rātriḥ śrāvaṇī).
+Thus for that deeply gladdened, high-souled Śatrughna (_tathā tasya prahṛṣṭasya śatrughnasya mahātmanaḥ_), swift in stride (_laghu-vikramaḥ_), that rainy-season night of Śrāvaṇa passed away (_vyatītā vārṣikī rātriḥ śrāvaṇī_).
 </details>
 </details>
 
@@ -467,7 +467,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At dawn, the exceedingly mighty hero (prabhāte sumahāvīryaḥ), having performed the morning rites (kṛtvā paurvāhṇikīṃ kriyām), took leave of the sage with joined palms (muniṃ prāñjalir āmantrya) and set out westward once more (yayau paścānmukhaḥ punaḥ).
+At dawn, the exceedingly mighty hero (_prabhāte sumahāvīryaḥ_), having performed the morning rites (_kṛtvā paurvāhṇikīṃ kriyām_), took leave of the sage with joined palms (_muniṃ prāñjalir āmantrya_) and set out westward once more (_yayau paścānmukhaḥ punaḥ_).
 </details>
 </details>
 
@@ -501,7 +501,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spent seven nights upon the road (sapta-rātroṣitaḥ pathi), he reached the bank of the Yamunā (sa gatvā yamunā-tīram) and went to stay at the hermitage of sages of holy renown (ṛṣīṇāṃ puṇya-kīrtīnām āśrame vāsam abhyayāt).
+Having spent seven nights upon the road (_sapta-rātroṣitaḥ pathi_), he reached the bank of the Yamunā (_sa gatvā yamunā-tīram_) and went to stay at the hermitage of sages of holy renown (_ṛṣīṇāṃ puṇya-kīrtīnām āśrame vāsam abhyayāt_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There that greatly famed prince (sa tatra ... nṛpaḥ ... mahāyaśāḥ), together with the sages headed by the Bhārgava [Cyavana] (munibhiḥ sārdhaṃ bhārgava-pramukhaiḥ), spent his stay amidst edifying discourses (kathābhir abhirūpābhir vāsaṃ cakre).
+There that greatly famed prince (_sa tatra ... nṛpaḥ ... mahāyaśāḥ_), together with the sages headed by the Bhārgava [Cyavana] (_munibhiḥ sārdhaṃ bhārgava-pramukhaiḥ_), spent his stay amidst edifying discourses (_kathābhir abhirūpābhir vāsaṃ cakre_).
 </details>
 </details>
 
@@ -584,7 +584,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joined with the sages headed by Kāñcana [Cyavana] (sa kāñcanādyair munibhiḥ sametaḥ), that foremost hero of the Raghus (raghu-pravīraḥ), the great-souled son of the king (mahātmā ... narendra-sūnuḥ), brought that night to a close with manifold kinds of discourses (rajanīṃ tadānīṃ kathā-prakārair bahubhir ... virāmayāmāsa).
+Joined with the sages headed by Kāñcana [Cyavana] (_sa kāñcanādyair munibhiḥ sametaḥ_), that foremost hero of the Raghus (_raghu-pravīraḥ_), the great-souled son of the king (_mahātmā ... narendra-sūnuḥ_), brought that night to a close with manifold kinds of discourses (_rajanīṃ tadānīṃ kathā-prakārair bahubhir ... virāmayāmāsa_).
 </details>
 </details>
 

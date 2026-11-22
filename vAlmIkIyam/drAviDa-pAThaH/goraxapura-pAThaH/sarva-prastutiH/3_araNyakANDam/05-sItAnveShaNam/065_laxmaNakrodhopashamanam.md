@@ -114,11 +114,11 @@ not seen previously, became pale-faced and spoke to Rama with folded palms. [3-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** [Beholding] Rāma then burning with anguish (tapyamānam), wasted by the abduction of Sītā (sītā-haraṇa-karśitam), and intent upon the destruction of the worlds (lokānām abhave yuktam) like the doomsday fire (sāṃvartakam ivānalam)—
+**1:** [Beholding] Rāma then burning with anguish (_tapyamānam_), wasted by the abduction of Sītā (_sītā-haraṇa-karśitam_), and intent upon the destruction of the worlds (_lokānām abhave yuktam_) like the doomsday fire (_sāṃvartakam ivānalam_)—
 
-**2:** Gazing at his strung bow (dhanuḥ sajyam), sighing again and again (niḥśvasantaṃ punaḥ punaḥ), and desirous of burning up the entire universe (dagdhu-kāmaṃ jagat sarvam) like Hara [Rudra] at the end of the world-age (yugānte)—
+**2:** Gazing at his strung bow (_dhanuḥ sajyam_), sighing again and again (_niḥśvasantaṃ punaḥ punaḥ_), and desirous of burning up the entire universe (_dagdhu-kāmaṃ jagat sarvam_) like Hara [Rudra] at the end of the world-age (_yugānte_)—
 
-**3:** Seeing Rāma furiously enraged (saṃkruddham) as never seen before (adṛṣṭa-pūrvam), Lakṣmaṇa, with joined palms (prāñjaliḥ) and a parched mouth (mukhena pariśuṣyatā), spoke [this] word:
+**3:** Seeing Rāma furiously enraged (_saṃkruddham_) as never seen before (_adṛṣṭa-pūrvam_), Lakṣmaṇa, with joined palms (_prāñjaliḥ_) and a parched mouth (_mukhena pariśuṣyatā_), spoke [this] word:
 </details>
 </details>
 
@@ -172,7 +172,7 @@ disposition, which is unapt of you... [3-65-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having formerly been gentle (mṛduḥ), self-controlled (dāntaḥ), and devoted to the welfare of all beings (sarva-bhūta-hite rataḥ), you ought not, having fallen under the sway of wrath (krodha-vaśam āpannaḥ), to abandon your innate nature (prakṛtim).
+“Having formerly been gentle (_mṛduḥ_), self-controlled (_dāntaḥ_), and devoted to the welfare of all beings (_sarva-bhūta-hite rataḥ_), you ought not, having fallen under the sway of wrath (_krodha-vaśam āpannaḥ_), to abandon your innate nature (_prakṛtim_).
 </details>
 </details>
 
@@ -225,7 +225,7 @@ perpetual and all this perpetuity is available in you, besides an unexcelled hon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Splendour abides in the moon (candre lakṣmīḥ), radiance in the sun (prabhā sūrye), motion in the wind (gatir vāyau), and forbearance in the earth (bhuvi kṣamā); all this is permanently fixed (niyataṃ nityam) in you, along with unsurpassed glory (anuttamaṃ yaśaḥ).
+Splendour abides in the moon (_candre lakṣmīḥ_), radiance in the sun (_prabhā sūrye_), motion in the wind (_gatir vāyau_), and forbearance in the earth (_bhuvi kṣamā_); all this is permanently fixed (_niyataṃ nityam_) in you, along with unsurpassed glory (_anuttamaṃ yaśaḥ_).
 </details>
 </details>
 
@@ -284,7 +284,7 @@ weaponry and paraphernalia... [3-65-6, 7a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the offense of one alone (ekasya nāparādhena), you ought not to destroy the worlds (lokān hantum); indeed, I do not know (nanu jānāmi) whose shattered war-chariot (bhagnaḥ sāṃgrāmiko rathaḥ) this is—”
+For the offense of one alone (_ekasya nāparādhena_), you ought not to destroy the worlds (_lokān hantum_); indeed, I do not know (_nanu jānāmi_) whose shattered war-chariot (_bhagnaḥ sāṃgrāmiko rathaḥ_) this is—”
 </details>
 </details>
 
@@ -398,11 +398,11 @@ tenable punishment... [3-65-9b, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “By whom, or for what reason (kasya vā hetoḥ), [was it shattered], together with its yoke and war-trappings (sayugaḥ saparicchadaḥ)? And this [ground], torn up by hooves and wheel-rims (khura-nemi-kṣataḥ), is sprinkled with drops of blood (rudhira-bindubhiḥ).
+**7:** “By whom, or for what reason (_kasya vā hetoḥ_), [was it shattered], together with its yoke and war-trappings (_sayugaḥ saparicchadaḥ_)? And this [ground], torn up by hooves and wheel-rims (_khura-nemi-kṣataḥ_), is sprinkled with drops of blood (_rudhira-bindubhiḥ_).
 
-**8:** O son of a king (pārthivātmaja), this spot where a battle has taken place (nirvṛtta-saṃgrāmaḥ) is most dreadful (sughoraḥ); yet, O best of speakers (vadatāṃ vara), this clash (vimardaḥ) was of one [combatant] alone, not of two (na dvayoḥ).
+**8:** O son of a king (_pārthivātmaja_), this spot where a battle has taken place (_nirvṛtta-saṃgrāmaḥ_) is most dreadful (_sughoraḥ_); yet, O best of speakers (_vadatāṃ vara_), this clash (_vimardaḥ_) was of one [combatant] alone, not of two (_na dvayoḥ_).
 
-**9:** For I do not see the trodden footprint (vṛttaṃ padam) of a great army (balasya mahataḥ); therefore, on account of a single individual (ekasya tu kṛte), you ought not to annihilate the worlds (lokān vināśayitum).
+**9:** For I do not see the trodden footprint (_vṛttaṃ padam_) of a great army (_balasya mahataḥ_); therefore, on account of a single individual (_ekasya tu kṛte_), you ought not to annihilate the worlds (_lokān vināśayitum_).
 </details>
 </details>
 
@@ -455,7 +455,7 @@ grace... [3-65-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lords of the earth (vasudhādhipāḥ) are indeed proportionate in punishment (yukta-daṇḍāḥ), gentle (mṛdavaḥ), and tranquil (praśāntāḥ); and you are ever the refuge (śaraṇyaḥ) and supreme recourse (paramā gatiḥ) of all beings.
+Lords of the earth (_vasudhādhipāḥ_) are indeed proportionate in punishment (_yukta-daṇḍāḥ_), gentle (_mṛdavaḥ_), and tranquil (_praśāntāḥ_); and you are ever the refuge (_śaraṇyaḥ_) and supreme recourse (_paramā gatiḥ_) of all beings.
 </details>
 </details>
 
@@ -513,7 +513,7 @@ cannot evoke indignation in you, because they are always gentle to you... isn't 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who indeed, O Rāghava, would deem the loss of your wife (dāra-praṇāśam) a right thing (sādhu manyeta)? Rivers, oceans, mountains, and gods, Gandharvas, and Dānavas—
+Who indeed, O Rāghava, would deem the loss of your wife (_dāra-praṇāśam_) a right thing (_sādhu manyeta_)? Rivers, oceans, mountains, and gods, Gandharvas, and Dānavas—
 </details>
 </details>
 
@@ -576,7 +576,7 @@ this forest... [3-65-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[All these] are incapable of doing you a wrong (nālaṃ te vipriyaṃ kartum), just as righteous men (sādhavaḥ) [never wrong] one consecrated for a sacrifice (dīkṣitasyeva); O king, you ought to search for him by whom Sītā was abducted (hṛtā sītā).
+“[All these] are incapable of doing you a wrong (_nālaṃ te vipriyaṃ kartum_), just as righteous men (_sādhavaḥ_) [never wrong] one consecrated for a sacrifice (_dīkṣitasyeva_); O king, you ought to search for him by whom Sītā was abducted (_hṛtā sītā_).
 </details>
 </details>
 
@@ -672,11 +672,11 @@ propitiously, rather after our humanly effort, then you may do whatever you want
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** With me as your second (mad-dvitīyaḥ) and bow in hand (dhanuṣ-pāṇiḥ), along with the supreme sages as allies (sahāyaiḥ paramarṣibhiḥ), we shall search through (viceṣyāmaḥ) the ocean, the mountains, and the forests—
+**13:** With me as your second (_mad-dvitīyaḥ_) and bow in hand (_dhanuṣ-pāṇiḥ_), along with the supreme sages as allies (_sahāyaiḥ paramarṣibhiḥ_), we shall search through (_viceṣyāmaḥ_) the ocean, the mountains, and the forests—
 
-**14:** And manifold dreadful caverns (guhāś ca vividhā ghorāḥ) and manifold lotus-ponds (padminyo vividhāḥ) as well, and the worlds of the gods and Gandharvas (deva-gandharva-lokāṃś ca) we shall search through intently (samāhitāḥ)—
+**14:** And manifold dreadful caverns (_guhāś ca vividhā ghorāḥ_) and manifold lotus-ponds (_padminyo vividhāḥ_) as well, and the worlds of the gods and Gandharvas (_deva-gandharva-lokāṃś ca_) we shall search through intently (_samāhitāḥ_)—
 
-**15:** Until we find (yāvan nādhigamiṣyāmaḥ) the abductor of your wife (tava bhāryāpahāriṇam). If the lords of the thirty gods (tridaśeśvarāḥ) do not restore your spouse by conciliation (sāmnā), O lord of Kosala (kosalendra), then afterward you shall do what is timely (prāpta-kālam).
+**15:** Until we find (_yāvan nādhigamiṣyāmaḥ_) the abductor of your wife (_tava bhāryāpahāriṇam_). If the lords of the thirty gods (_tridaśeśvarāḥ_) do not restore your spouse by conciliation (_sāmnā_), O lord of Kosala (_kosalendra_), then afterward you shall do what is timely (_prāpta-kālam_).
 </details>
 </details>
 
@@ -752,7 +752,7 @@ trajectories..." Thus Lakshmana appealed to ireful Rama. [3-65-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If by noble conduct (śīlena), conciliation (sāmnā), humility (vinayena), and policy (nayena) you do not recover Sītā, O lord of men (narendra), then annihilate [the offender] (samutsādaya) with floods of golden-shafted arrows (hema-puṅkhaiḥ śaraughaiḥ) resembling the thunderbolt of Mahendra (mahendra-vajra-pratimaiḥ).”
+If by noble conduct (_śīlena_), conciliation (_sāmnā_), humility (_vinayena_), and policy (_nayena_) you do not recover Sītā, O lord of men (_narendra_), then annihilate [the offender] (_samutsādaya_) with floods of golden-shafted arrows (_hema-puṅkhaiḥ śaraughaiḥ_) resembling the thunderbolt of Mahendra (_mahendra-vajra-pratimaiḥ_).”
 </details>
 </details>
 

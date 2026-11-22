@@ -77,7 +77,7 @@ On listening to the words of Janaka, the eminent-saint Vishvamitra indeed said t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Janaka (janakasya vacaḥ śrutvā), the great sage Viśvāmitra (viśvāmitro mahāmuniḥ) spoke thus to the monarch (iti hovāca pārthivam): “Show the bow to Rāma (dhanur darśaya rāmāya)!”
+Hearing the words of Janaka (_janakasya vacaḥ śrutvā_), the great sage Viśvāmitra (_viśvāmitro mahāmuniḥ_) spoke thus to the monarch (_iti hovāca pārthivam_): “Show the bow to Rāma (_dhanur darśaya rāmāya_)!”
 </details>
 </details>
 
@@ -125,7 +125,7 @@ Then king Janaka indeed ordered his ministers, "bring the divine bow which is
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon King Janaka commanded his ministers (sacivān vyādideśa ha): “Let the divine bow (dhanur divyam), anointed with fragrant sandal-paste and adorned with garlands (gandhamālyānulepitam), be brought forth (ānīyatām)!”
+Thereupon King Janaka commanded his ministers (_sacivān vyādideśa ha_): “Let the divine bow (_dhanur divyam_), anointed with fragrant sandal-paste and adorned with garlands (_gandhamālyānulepitam_), be brought forth (_ānīyatām_)!”
 </details>
 </details>
 
@@ -159,7 +159,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by Janaka (janakena samādiṣṭāḥ), the ministers of boundless vigor (sacivāḥ amitaujasaḥ) entered the city (prāviśan puram), and placing that bow in front (tad dhanuḥ purataḥ kṛtvā), came forth (nirjagmuḥ).
+Commanded by Janaka (_janakena samādiṣṭāḥ_), the ministers of boundless vigor (_sacivāḥ amitaujasaḥ_) entered the city (_prāviśan puram_), and placing that bow in front (_tad dhanuḥ purataḥ kṛtvā_), came forth (_nirjagmuḥ_).
 </details>
 </details>
 
@@ -215,7 +215,7 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Five thousand (śatāni pañcāśat) tall and stalwart men of great vigor (nṛṇāṃ vyāyatānāṃ mahātmanām) drew along with great effort (samūhus te kathaṃcana) that eight-wheeled chest (mañjūṣām aṣṭacakrāṃ tām).
+Five thousand (_śatāni pañcāśat_) tall and stalwart men of great vigor (_nṛṇāṃ vyāyatānāṃ mahātmanām_) drew along with great effort (_samūhus te kathaṃcana_) that eight-wheeled chest (_mañjūṣām aṣṭacakrāṃ tām_).
 </details>
 </details>
 
@@ -271,7 +271,7 @@ On fetching that iron coffer wherein that bow is there, those ministers of the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having brought that fine iron chest (tām ādāya sumañjūṣām āyasīm) wherein rested that bow (yatra tad dhanuḥ), the royal ministers (nṛpatimantriṇaḥ) spoke to Janaka, who resembled a god (suropamaṃ te janakam ūcuḥ):
+Having brought that fine iron chest (_tām ādāya sumañjūṣām āyasīm_) wherein rested that bow (_yatra tad dhanuḥ_), the royal ministers (_nṛpatimantriṇaḥ_) spoke to Janaka, who resembled a god (_suropamaṃ te janakam ūcuḥ_):
 </details>
 </details>
 
@@ -329,7 +329,7 @@ Oh king and sovereign of Mithila, here is the select bow that is reverenced by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here, O King, is this supreme bow (idaṃ dhanurvaraṃ rājan), worshiped by all monarchs (pūjitaṃ sarvarājabhiḥ); O lord of Mithilā, chief of kings (mithilādhipa rājendra), it is ready to be shown if you so desire (darśanīyaṃ yadīcchasi).”
+“Here, O King, is this supreme bow (_idaṃ dhanurvaraṃ rājan_), worshiped by all monarchs (_pūjitaṃ sarvarājabhiḥ_); O lord of Mithilā, chief of kings (_mithilādhipa rājendra_), it is ready to be shown if you so desire (_darśanīyaṃ yadīcchasi_).”
 </details>
 </details>
 
@@ -387,7 +387,7 @@ On listening the announcement of his ministers the king spoke to the noble soule
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing their words, the king, with joined palms (kṛtāñjaliḥ), spoke (abhāṣata) to the high-souled Viśvāmitra (viśvāmitraṃ mahātmānam) and to both Rāma and Lakṣmaṇa (tāv ubhau rāmalakṣmaṇau):
+Hearing their words, the king, with joined palms (_kṛtāñjaliḥ_), spoke (_abhāṣata_) to the high-souled Viśvāmitra (_viśvāmitraṃ mahātmānam_) and to both Rāma and Lakṣmaṇa (_tāv ubhau rāmalakṣmaṇau_):
 </details>
 </details>
 
@@ -442,7 +442,7 @@ Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This supreme bow, O Brāhmaṇa (idaṃ dhanurvaraṃ brahman), has been revered by the Janakas of old (janakair abhipūjitam), and even monarchs of mighty valor, proving powerless (rājabhiś ca mahāvīryair aśaktaiḥ), could not string it back then (pūritaṃ tadā).
+“This supreme bow, O Brāhmaṇa (_idaṃ dhanurvaraṃ brahman_), has been revered by the Janakas of old (_janakair abhipūjitam_), and even monarchs of mighty valor, proving powerless (_rājabhiś ca mahāvīryair aśaktaiḥ_), could not string it back then (_pūritaṃ tadā_).
 </details>
 </details>
 
@@ -473,7 +473,7 @@ Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither all the hosts of gods together with the asuras (naitat suragaṇāḥ sarve sāsurāḥ), nor the rākṣasas (na ca rākṣasāḥ), nor the foremost of gandharvas and yakṣas along with kinnaras and great serpents (gandharvayakṣapravarāḥ sakiṃnaramahoragāḥ) [are able to string it]—
+“Neither all the hosts of gods together with the asuras (_naitat suragaṇāḥ sarve sāsurāḥ_), nor the rākṣasas (_na ca rākṣasāḥ_), nor the foremost of gandharvas and yakṣas along with kinnaras and great serpents (_gandharvayakṣapravarāḥ sakiṃnaramahoragāḥ_) [are able to string it]—
 </details>
 </details>
 
@@ -533,7 +533,7 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“what power, then, have mortal men (kva gatir mānuṣāṇāṃ ca) to draw this bow to its full circle (dhanuṣo ’sya prapūraṇe), or to string it (āropaṇe), fit a shaft to it (samāyoge), twang its bowstring (vepane), or even lift and weigh it (tolane tathā)?
+“what power, then, have mortal men (_kva gatir mānuṣāṇāṃ ca_) to draw this bow to its full circle (_dhanuṣo ’sya prapūraṇe_), or to string it (_āropaṇe_), fit a shaft to it (_samāyoge_), twang its bowstring (_vepane_), or even lift and weigh it (_tolane tathā_)?
 </details>
 </details>
 
@@ -583,7 +583,7 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very finest of bows has now been brought here, O bull among sages (tad etad dhanuṣāṃ śreṣṭham ānītaṃ munipuṃgava); show it, O illustrious one (darśayaitan mahābhāga), to these two royal princes (anayo rājaputrayoḥ)!”
+“That very finest of bows has now been brought here, O bull among sages (_tad etad dhanuṣāṃ śreṣṭham ānītaṃ munipuṃgava_); show it, O illustrious one (_darśayaitan mahābhāga_), to these two royal princes (_anayo rājaputrayoḥ_)!”
 </details>
 </details>
 
@@ -633,7 +633,7 @@ Vishvamitra on listening the sentence of Janaka along with Rama, on his part sai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Janaka’s speech (śrutvā janakabhāṣitam), Viśvāmitra, together with Rāma (viśvāmitraḥ sarāmas tu), spoke to Rāghava (rāghavam abravīt): “My child Rāma, behold the bow (vatsa rāma dhanuḥ paśya)!”
+Hearing Janaka’s speech (_śrutvā janakabhāṣitam_), Viśvāmitra, together with Rāma (_viśvāmitraḥ sarāmas tu_), spoke to Rāghava (_rāghavam abravīt_): “My child Rāma, behold the bow (_vatsa rāma dhanuḥ paśya_)!”
 </details>
 </details>
 
@@ -694,7 +694,7 @@ Upon the word of the great sage Vishvamitra, Rama on unclosing the lid of that
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the word of the great sage (maharṣer vacanād), Rāma opened that chest (mañjūṣāṃ tām apāvṛtya) wherein rested that bow (yatra tiṣṭhati tad dhanuḥ), and beholding the bow (dṛṣṭvā dhanuḥ), spoke thus (athābravīt):
+At the word of the great sage (_maharṣer vacanād_), Rāma opened that chest (_mañjūṣāṃ tām apāvṛtya_) wherein rested that bow (_yatra tiṣṭhati tad dhanuḥ_), and beholding the bow (_dṛṣṭvā dhanuḥ_), spoke thus (_athābravīt_):
 </details>
 </details>
 
@@ -754,7 +754,7 @@ Now I wish to get the feel of this supreme bow, oh, Brahman, and I shall try to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Shall I touch with my hand right now (saṃspṛśāmīha pāṇinā) this divine, supreme bow (idaṃ dhanurvaraṃ divyam)? And shall I also make an effort (yatnavāṃś ca bhaviṣyāmi) to lift it or even to draw it (tolane pūraṇe ’pi vā)?”
+“Shall I touch with my hand right now (_saṃspṛśāmīha pāṇinā_) this divine, supreme bow (_idaṃ dhanurvaraṃ divyam_)? And shall I also make an effort (_yatnavāṃś ca bhaviṣyāmi_) to lift it or even to draw it (_tolane pūraṇe ’pi vā_)?”
 </details>
 </details>
 
@@ -852,9 +852,9 @@ A bow has a definite height and it is a measure of length, from the ages even
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “By all means (bāḍham)!” said the king (ity abravīd rājā), and the sage likewise concurred (muniś ca samabhāṣata). At the sage’s word (vacanān muneḥ), he grasped the bow in the middle with effortless ease (līlayā sa dhanur madhye jagrāha).
+**15:** “By all means (_bāḍham_)!” said the king (_ity abravīd rājā_), and the sage likewise concurred (_muniś ca samabhāṣata_). At the sage’s word (_vacanān muneḥ_), he grasped the bow in the middle with effortless ease (_līlayā sa dhanur madhye jagrāha_).
 
-**16:** While many thousands of men looked on (paśyatāṃ nṛsahasrāṇāṃ bahūnām), that righteous-souled delight of the Raghus (sa dharmātmā raghunandanaḥ) strung that bow as though in sport (āropayat salīlam iva tad dhanuḥ).
+**16:** While many thousands of men looked on (_paśyatāṃ nṛsahasrāṇāṃ bahūnām_), that righteous-souled delight of the Raghus (_sa dharmātmā raghunandanaḥ_) strung that bow as though in sport (_āropayat salīlam iva tad dhanuḥ_).
 </details>
 </details>
 
@@ -920,7 +920,7 @@ The bow is not broken by itself because of its oldness or dryness, but let us
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having strung the bowstring (āropayitvā maurvīṃ ca), he drew that bow to its full circle (pūrayāmāsa tad dhanuḥ); and that best of men, of mighty renown (naraśreṣṭho mahāyaśāḥ), snapped the bow in the middle (tad babhañja dhanur madhye).
+Having strung the bowstring (_āropayitvā maurvīṃ ca_), he drew that bow to its full circle (_pūrayāmāsa tad dhanuḥ_); and that best of men, of mighty renown (_naraśreṣṭho mahāyaśāḥ_), snapped the bow in the middle (_tad babhañja dhanur madhye_).
 </details>
 </details>
 
@@ -1014,7 +1014,7 @@ And the pacemaker Rama is marrying the world with peace, by stringing the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mighty was the crash thereof (tasya śabdo mahān āsīt), resounding like a clap of thunder (nirghātasamaniḥsvanaḥ), and there was a tremendous quaking of the earth (bhūmikampaś ca sumahān), as though a mountain were splitting asunder (parvatasyeva dīryataḥ).
+Mighty was the crash thereof (_tasya śabdo mahān āsīt_), resounding like a clap of thunder (_nirghātasamaniḥsvanaḥ_), and there was a tremendous quaking of the earth (_bhūmikampaś ca sumahān_), as though a mountain were splitting asunder (_parvatasyeva dīryataḥ_).
 </details>
 </details>
 
@@ -1077,7 +1077,7 @@ Bewildered by that raucous caused by the breakage of bow, all the people swooned
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stunned by that thunderous sound (tena śabdena mohitāḥ), all the people fell to the ground (nipetuś ca narāḥ sarve), save the foremost of sages, the king, and the two Rāghavas (varjayitvā munivaraṃ rājānaṃ tau ca rāghavau).
+Stunned by that thunderous sound (_tena śabdena mohitāḥ_), all the people fell to the ground (_nipetuś ca narāḥ sarve_), save the foremost of sages, the king, and the two Rāghavas (_varjayitvā munivaraṃ rājānaṃ tau ca rāghavau_).
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ While the people are being reaccustomed after their undergoing the shock, at tha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the assembly had recovered its breath (pratyāśvaste jane tasmin), the king, his apprehension dispelled (rājā vigatasādhvasaḥ), skilled in speech (vākyajñaḥ), spoke these words with joined palms to the bull among sages (uvāca prāñjalir vākyaṃ munipuṃgavam):
+When the assembly had recovered its breath (_pratyāśvaste jane tasmin_), the king, his apprehension dispelled (_rājā vigatasādhvasaḥ_), skilled in speech (_vākyajñaḥ_), spoke these words with joined palms to the bull among sages (_uvāca prāñjalir vākyaṃ munipuṃgavam_):
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ Oh, godly sage, the gallantry of Dasharatha's Rama is evidently seen... and the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O venerable Lord (bhagavan), I have beheld the valor of Rāma, son of Daśaratha (dṛṣṭavīryo me rāmo daśarathātmajaḥ)! This feat is utterly marvelous (atyadbhutam), inconceivable (acintyaṃ ca), and beyond anything I had ever imagined (atarkitam idaṃ mayā).
+“O venerable Lord (_bhagavan_), I have beheld the valor of Rāma, son of Daśaratha (_dṛṣṭavīryo me rāmo daśarathātmajaḥ_)! This feat is utterly marvelous (_atyadbhutam_), inconceivable (_acintyaṃ ca_), and beyond anything I had ever imagined (_atarkitam idaṃ mayā_).
 </details>
 </details>
 
@@ -1269,7 +1269,7 @@ This verse explains the advantageous status of Seetha than Rama in her birth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My daughter Sītā (me sutā sītā) shall bring peerless renown to the lineage of the Janakas (janakānāṃ kule kīrtim āhariṣyati), having gained for her husband Rāma, son of Daśaratha (bhartāram āsādya rāmaṃ daśarathātmajam).
+“My daughter Sītā (_me sutā sītā_) shall bring peerless renown to the lineage of the Janakas (_janakānāṃ kule kīrtim āhariṣyati_), having gained for her husband Rāma, son of Daśaratha (_bhartāram āsādya rāmaṃ daśarathātmajam_).
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ Oh, Kaushika, my commitment that she is the bounty of bravery has also come
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That solemn pledge of mine (mama satyā pratijñā sā) that she has valor for her bride-price (vīryaśulketi) has come true, O Kauśika! My daughter Sītā, cherished more dearly than my own life-breaths (sītā prāṇair bahumatā me sutā), must now be given to Rāma (deyā rāmāya).
+“That solemn pledge of mine (_mama satyā pratijñā sā_) that she has valor for her bride-price (_vīryaśulketi_) has come true, O Kauśika! My daughter Sītā, cherished more dearly than my own life-breaths (_sītā prāṇair bahumatā me sutā_), must now be given to Rāma (_deyā rāmāya_).
 </details>
 </details>
 
@@ -1410,9 +1410,9 @@ With their observant submissions those ministers will narrate in detail about th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “With your permission, O Brāhmaṇa (bhavato ’numate brahman), let my counselors depart swiftly (śīghraṃ gacchantu mantriṇaḥ mama) on fast chariots for Ayodhyā (ayodhyāṃ tvaritā rathaiḥ)—may auspiciousness attend you, O Kauśika (kauśika bhadraṃ te)!
+**24:** “With your permission, O Brāhmaṇa (_bhavato ’numate brahman_), let my counselors depart swiftly (_śīghraṃ gacchantu mantriṇaḥ mama_) on fast chariots for Ayodhyā (_ayodhyāṃ tvaritā rathaiḥ_)—may auspiciousness attend you, O Kauśika (_kauśika bhadraṃ te_)!
 
-**25:** “With deferential words (praśritair vākyaiḥ), let them conduct the king to my city (rājānam ānayantu puraṃ mama), and let them recount in full (kathayantu ca sarvaśaḥ) the bestowal of the bride whose bride-price is valor (pradānaṃ vīryaśulkāyāḥ).
+**25:** “With deferential words (_praśritair vākyaiḥ_), let them conduct the king to my city (_rājānam ānayantu puraṃ mama_), and let them recount in full (_kathayantu ca sarvaśaḥ_) the bestowal of the bride whose bride-price is valor (_pradānaṃ vīryaśulkāyāḥ_).
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ With their observant submissions those ministers will narrate in detail about th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let them also announce to the monarch (kathayantu nṛpāya vai) that the two Kākutsthas are thriving under the sage’s protection (muniguptau ca kākutsthau), and traveling at top speed (suśīghragāḥ), let them bring the joyous king (prītiyuktaṃ tu rājānam ānayantu).”
+“Let them also announce to the monarch (_kathayantu nṛpāya vai_) that the two Kākutsthas are thriving under the sage’s protection (_muniguptau ca kākutsthau_), and traveling at top speed (_suśīghragāḥ_), let them bring the joyous king (_prītiyuktaṃ tu rājānam ānayantu_).”
 </details>
 </details>
 
@@ -1538,7 +1538,7 @@ Vishvamitra said, "so be it," and then that right-minded king Janaka on consulti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kauśika replied, “So be it (kauśikas tu tathety āha)!” And the righteous-souled king, summoning his counselors (rājā cābhāṣya mantriṇaḥ), dispatched them to Ayodhyā entrusted with his royal missive (ayodhyāṃ preṣayāmāsa dharmātmā kṛtaśāsanān), to report everything as it had transpired and to escort the monarch back (yathāvṛttaṃ samākhyātum ānetuṃ ca nṛpaṃ tathā).
+Kauśika replied, “So be it (_kauśikas tu tathety āha_)!” And the righteous-souled king, summoning his counselors (_rājā cābhāṣya mantriṇaḥ_), dispatched them to Ayodhyā entrusted with his royal missive (_ayodhyāṃ preṣayāmāsa dharmātmā kṛtaśāsanān_), to report everything as it had transpired and to escort the monarch back (_yathāvṛttaṃ samākhyātum ānetuṃ ca nṛpaṃ tathā_).
 </details>
 </details>
 

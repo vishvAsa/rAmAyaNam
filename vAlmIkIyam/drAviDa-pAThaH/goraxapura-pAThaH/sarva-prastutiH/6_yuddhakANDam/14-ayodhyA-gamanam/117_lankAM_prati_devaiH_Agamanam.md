@@ -77,7 +77,7 @@ became thoughtful for a while, afflicted as he was with melancholy, his eyes fil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in salutation (abhivādya), that leaper of great wisdom (mahāprājñaḥ plavaṅgamaḥ) spoke to Rāma, the lotus-eyed (kamalapatrākṣam), the foremost of all wielders of the bow (varaṃ sarvadhanuṣmatām):
+Having bowed in salutation (_abhivādya_), that leaper of great wisdom (_mahāprājñaḥ plavaṅgamaḥ_) spoke to Rāma, the lotus-eyed (_kamalapatrākṣam_), the foremost of all wielders of the bow (_varaṃ sarvadhanuṣmatām_):
 </details>
 </details>
 
@@ -158,11 +158,11 @@ reaching the City of Lanka in aerial cars, shining like the sun approached Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “You ought to behold (draṣṭum arhasi) that noble lady Maithilī, tormented by grief (śokasaṃtaptām), for whose sake (yannimittaḥ) this undertaking was begun and who is the fruition of our deeds (karmaṇāṃ yaḥ phalodayaḥ).
+**2:** “You ought to behold (_draṣṭum arhasi_) that noble lady Maithilī, tormented by grief (_śokasaṃtaptām_), for whose sake (_yannimittaḥ_) this undertaking was begun and who is the fruition of our deeds (_karmaṇāṃ yaḥ phalodayaḥ_).
 
-**3:** For that Maithilī, overwhelmed with sorrow (śokasamāviṣṭā) and her eyes turbid with tears (bāṣpaparyākulekṣaṇā), having heard of your victory, longs to behold you (draṣṭuṃ tvām abhikāṅkṣati).
+**3:** For that Maithilī, overwhelmed with sorrow (_śokasamāviṣṭā_) and her eyes turbid with tears (_bāṣpaparyākulekṣaṇā_), having heard of your victory, longs to behold you (_draṣṭuṃ tvām abhikāṅkṣati_).
 
-**4:** Out of the confidence born of my former visit (pūrvakāt pratyayāc ca), I was addressed by her with full trust (viśvastayā tayā), her eyes brimming with tears: ‘I wish to behold my lord (draṣṭum icchāmi bhartāram).’”
+**4:** Out of the confidence born of my former visit (_pūrvakāt pratyayāc ca_), I was addressed by her with full trust (_viśvastayā tayā_), her eyes brimming with tears: ‘I wish to behold my lord (_draṣṭum icchāmi bhartāram_).’”
 </details>
 </details>
 
@@ -210,7 +210,7 @@ his folded hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Hanūmān, Rāma, the foremost of upholders of dharma (dharmabhṛtāṃ varaḥ), suddenly fell into deep thought (āgacchat sahasā dhyānam), slightly suffused with tears (īṣadbāṣpapariplutaḥ).
+Thus addressed by Hanūmān, Rāma, the foremost of upholders of dharma (_dharmabhṛtāṃ varaḥ_), suddenly fell into deep thought (_āgacchat sahasā dhyānam_), slightly suffused with tears (_īṣadbāṣpapariplutaḥ_).
 </details>
 </details>
 
@@ -273,7 +273,7 @@ recognize yourself to be the foremost of the troop of gods?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing a long sigh (dīrgham abhiniḥśvasya) and gazing upon the earth (jagatīm avalokayan), he spoke to Vibhīṣaṇa, who stood near (upasthitam) resembling a dark cloud (meghasaṃkāśam):
+Drawing a long sigh (_dīrgham abhiniḥśvasya_) and gazing upon the earth (_jagatīm avalokayan_), he spoke to Vibhīṣaṇa, who stood near (_upasthitam_) resembling a dark cloud (_meghasaṃkāśam_):
 </details>
 </details>
 
@@ -329,7 +329,7 @@ ruler, the first creator of all the three worlds and the lord of creatures."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without delay (mā ciram), present Sītā here (iha sītām upasthāpaya)—Vaidehī, having bathed her head (śiraḥsnātām), anointed with celestial unguents (divyāṅgarāgām), and decked with celestial ornaments (divyābharaṇabhūṣitām).”
+“Without delay (_mā ciram_), present Sītā here (_iha sītām upasthāpaya_)—Vaidehī, having bathed her head (_śiraḥsnātām_), anointed with celestial unguents (_divyāṅgarāgām_), and decked with celestial ornaments (_divyābharaṇabhūṣitām_).”
 </details>
 </details>
 
@@ -387,7 +387,7 @@ your ears. The sun and the moon constitute your eyes."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Vibhīṣaṇa hastened (tvaramāṇaḥ), entered the inner apartments (praviśyāntaḥpuram), and had his own women announce his arrival to Sītā (sītāṃ strībhiḥ svābhir acodayat).
+Thus addressed by Rāma, Vibhīṣaṇa hastened (_tvaramāṇaḥ_), entered the inner apartments (_praviśyāntaḥpuram_), and had his own women announce his arrival to Sītā (_sītāṃ strībhiḥ svābhir acodayat_).
 </details>
 </details>
 
@@ -439,7 +439,7 @@ the end of creation. Yet, you ignore Seetha, just like a common man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the glorious and humble lord of the Rākṣasas (vinīto rākṣaseśvaraḥ), Vibhīṣaṇa, beholding the illustrious Sītā (sītāṃ mahābhāgām), spoke with joined palms raised to his head (mūrdhni baddhāñjaliḥ):
+Then the glorious and humble lord of the Rākṣasas (_vinīto rākṣaseśvaraḥ_), Vibhīṣaṇa, beholding the illustrious Sītā (_sītāṃ mahābhāgām_), spoke with joined palms raised to his head (_mūrdhni baddhāñjaliḥ_):
 </details>
 </details>
 
@@ -493,7 +493,7 @@ god-chiefs as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Anointed with celestial unguents, O Vaidehī, and decked with celestial ornaments, mount the palanquin (yānam āroha)—may auspiciousness attend you (bhadraṃ te); your lord wishes to behold you (bhartā tvāṃ draṣṭum icchati).”
+“Anointed with celestial unguents, O Vaidehī, and decked with celestial ornaments, mount the palanquin (_yānam āroha_)—may auspiciousness attend you (_bhadraṃ te_); your lord wishes to behold you (_bhartā tvāṃ draṣṭum icchati_).”
 </details>
 </details>
 
@@ -546,7 +546,7 @@ a gracious Divinity, tell me that which I as such really am like this."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Vaidehī replied to Vibhīṣaṇa: “Without having bathed (asnātvā), I wish to behold my lord, O lord of the Rākṣasas (rākṣaseśvara).”
+Thus addressed, Vaidehī replied to Vibhīṣaṇa: “Without having bathed (_asnātvā_), I wish to behold my lord, O lord of the Rākṣasas (_rākṣaseśvara_).”
 </details>
 </details>
 
@@ -602,7 +602,7 @@ Brahma the Absolute, spoke as follows: "Listen to my true word, O the truly brav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of hers, Vibhīṣaṇa replied: “You ought to do (tathā kartum arhasi) just as your lord Rāma has spoken (yathāha rāmo bhartā te).”
+Hearing that speech of hers, Vibhīṣaṇa replied: “You ought to do (_tathā kartum arhasi_) just as your lord Rāma has spoken (_yathāha rāmo bhartā te_).”
 </details>
 </details>
 
@@ -657,7 +657,7 @@ the Divine Boar with a single tusk, the conqueror of your past and future enemie
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, the chaste Maithilī (maithilī sādhvī), who revered her husband as her deity (patidevatā) and was encompassed by devotion to her lord (bhartṛbhaktyāvṛtā), replied, “So be it (tatheti).”
+Hearing that speech of his, the chaste Maithilī (_maithilī sādhvī_), who revered her husband as her deity (_patidevatā_) and was encompassed by devotion to her lord (_bhartṛbhaktyāvṛtā_), replied, “So be it (_tatheti_).”
 </details>
 </details>
 
@@ -711,7 +711,7 @@ are the four-armed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vibhīṣaṇa, having placed Sītā—who had bathed her head (śiraḥsnātām), been attended with auspicious toilette (saṃyuktāṃ pratikarmaṇā), decked in priceless ornaments (mahārhābharaṇopetām), and clad in priceless garments—
+Then Vibhīṣaṇa, having placed Sītā—who had bathed her head (_śiraḥsnātām_), been attended with auspicious toilette (_saṃyuktāṃ pratikarmaṇā_), decked in priceless ornaments (_mahārhābharaṇopetām_), and clad in priceless garments—
 </details>
 </details>
 
@@ -769,7 +769,7 @@ all-pervader, the bestower of happiness to the earth and endowed with great migh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-upon a radiant palanquin (āropya śibikāṃ dīptām) covered with costly draperies (parārghyāmbarasaṃvṛtām) and guarded by many Rākṣasas (rakṣobhir bahubhir guptām), brought her forth (ājahāra).
+upon a radiant palanquin (_āropya śibikāṃ dīptām_) covered with costly draperies (_parārghyāmbarasaṃvṛtām_) and guarded by many Rākṣasas (_rakṣobhir bahubhir guptām_), brought her forth (_ājahāra_).
 </details>
 </details>
 
@@ -825,7 +825,7 @@ demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching the great-souled [Rāma], and even perceiving him absorbed in deep thought (jñātvāpi dhyānam āsthitam), he—bowed in humility and filled with joy (praṇataś ca prahṛṣṭaś ca)—announced that Sītā had arrived (prāptāṃ sītāṃ nyavedayat).
+Approaching the great-souled [Rāma], and even perceiving him absorbed in deep thought (_jñātvāpi dhyānam āsthitam_), he—bowed in humility and filled with joy (_praṇataś ca prahṛṣṭaś ca_)—announced that Sītā had arrived (_prāptāṃ sītāṃ nyavedayat_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ to be fit to afford protection to all and the refuge for all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that she who had dwelt long in the Rākṣasa’s abode (rakṣogṛhaciroṣitām) had arrived, Rāghava, the slayer of foes (śatruhā), experienced wrath, joy, and sorrow (roṣaṃ harṣaṃ ca dainyaṃ ca).
+Hearing that she who had dwelt long in the Rākṣasa’s abode (_rakṣogṛhaciroṣitām_) had arrived, Rāghava, the slayer of foes (_śatruhā_), experienced wrath, joy, and sorrow (_roṣaṃ harṣaṃ ca dainyaṃ ca_).
 </details>
 </details>
 
@@ -911,7 +911,7 @@ Hearing that she who had dwelt long in the Rākṣasa’s abode (rakṣogṛhaci
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāghava, deliberating with anxious reflection (savimarśaṃ vicārayan) regarding Sītā seated in the palanquin (yānagatāṃ sītām), ungladdened (ahṛṣṭaḥ), spoke this word to Vibhīṣaṇa:
+Then Rāghava, deliberating with anxious reflection (_savimarśaṃ vicārayan_) regarding Sītā seated in the palanquin (_yānagatāṃ sītām_), ungladdened (_ahṛṣṭaḥ_), spoke this word to Vibhīṣaṇa:
 </details>
 </details>
 
@@ -977,7 +977,7 @@ beings.)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gentle lord of the Rākṣasas (rākṣasādhipate saumya), ever devoted to my victory (nityaṃ madvijaye rata), let Vaidehī quickly approach my presence (saṃnikarṣaṃ me kṣipraṃ samabhigacchatu).”
+“O gentle lord of the Rākṣasas (_rākṣasādhipate saumya_), ever devoted to my victory (_nityaṃ madvijaye rata_), let Vaidehī quickly approach my presence (_saṃnikarṣaṃ me kṣipraṃ samabhigacchatu_).”
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ origin nor who you are in reality."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Rāghava, Vibhīṣaṇa, knower of dharma (dharmavit), swiftly caused the crowd to be cleared there (tūrṇam utsāraṇaṃ tatra kārayām āsa).
+Hearing that speech of Rāghava, Vibhīṣaṇa, knower of dharma (_dharmavit_), swiftly caused the crowd to be cleared there (_tūrṇam utsāraṇaṃ tatra kārayām āsa_).
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ quarters, in the sky, in mountains and in rivers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attendants wearing tunics and turbans (kañcukoṣṇīṣiṇaḥ), with canes and rattling drums in their hands (vetrajharjharapāṇayaḥ), went about on all sides (samantāt paricakramuḥ) driving back those warriors (utsārayantas tān yodhān).
+Attendants wearing tunics and turbans (_kañcukoṣṇīṣiṇaḥ_), with canes and rattling drums in their hands (_vetrajharjharapāṇayaḥ_), went about on all sides (_samantāt paricakramuḥ_) driving back those warriors (_utsārayantas tān yodhān_).
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ mountains."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Throngs (vṛndāni) of bears, monkeys, and Rākṣasas on every side, being pushed back (utsāryamāṇāni), withdrew afar from the vicinity (dūram uttasthur antataḥ).
+Throngs (_vṛndāni_) of bears, monkeys, and Rākṣasas on every side, being pushed back (_utsāryamāṇāni_), withdrew afar from the vicinity (_dūram uttasthur antataḥ_).
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ bearing the three worlds, gods, Gandharvas, the celestial musicians and the demo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of those being driven back (teṣām utsāryamāṇānām), there arose a mighty roar (niḥsvanaḥ sumahān abhūt), like the roar of the ocean tossed up by the wind (vāyunoddhūyamānasya sāgarasyeva niḥsvanaḥ).
+Of those being driven back (_teṣām utsāryamāṇānām_), there arose a mighty roar (_niḥsvanaḥ sumahān abhūt_), like the roar of the ocean tossed up by the wind (_vāyunoddhūyamānasya sāgarasyeva niḥsvanaḥ_).
 </details>
 </details>
 
@@ -1250,7 +1250,7 @@ tongue. O lord! The gods created by Brahma are the hair on all your limbs."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding them being driven back and thrown into agitation on all sides (samantāj jātasambhramān), Rāghava stopped [the guards] (vārayām āsa) out of kindness (dākṣiṇyāt) and indignation at that [treatment] (tadamarṣāc ca).
+Beholding them being driven back and thrown into agitation on all sides (_samantāj jātasambhramān_), Rāghava stopped [the guards] (_vārayām āsa_) out of kindness (_dākṣiṇyāt_) and indignation at that [treatment] (_tadamarṣāc ca_).
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ universe does not exist."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And out of wrath (saṃrambhāc ca), Rāma, as though burning him with his gaze (cakṣuṣā pradahann iva), spoke this reproachful word (sopālambham idaṃ vacaḥ) to the deeply wise Vibhīṣaṇa:
+And out of wrath (_saṃrambhāc ca_), Rāma, as though burning him with his gaze (_cakṣuṣā pradahann iva_), spoke this reproachful word (_sopālambham idaṃ vacaḥ_) to the deeply wise Vibhīṣaṇa:
 </details>
 </details>
 
@@ -1368,7 +1368,7 @@ curl of white hair on his breast)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why, disregarding me (mām anādṛtya), is this multitude harassed by you (kliśyate ’yaṃ tvayā janaḥ)? Stop this disturbance (nivartayainam udvegam); these people are my own kinsfolk (jano ’yaṃ svajano mama).
+“Why, disregarding me (_mām anādṛtya_), is this multitude harassed by you (_kliśyate ’yaṃ tvayā janaḥ_)? Stop this disturbance (_nivartayainam udvegam_); these people are my own kinsfolk (_jano ’yaṃ svajano mama_).
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ king (by you)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither houses, nor garments, nor ramparts are a screen (tiraskriyā), nor are such royal honors (nedṛśā rājasatkārāḥ); virtuous conduct is the true shield of a woman (vṛttam āvaraṇaṃ striyāḥ).
+Neither houses, nor garments, nor ramparts are a screen (_tiraskriyā_), nor are such royal honors (_nedṛśā rājasatkārāḥ_); virtuous conduct is the true shield of a woman (_vṛttam āvaraṇaṃ striyāḥ_).
 </details>
 </details>
 
@@ -1482,7 +1482,7 @@ For the destruction of Ravana, you entered a human body here, on this earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In calamities (vyasaneṣu), in seasons of distress (kṛcchreṣu), in battles (yuddheṣu), at a bride’s self-choice (svayaṃvare), at a Vedic sacrifice (kratau), or in marriage (vivāhe vā), the beholding of a woman is not faulted (darśanaṃ dūṣyate striyāḥ).
+In calamities (_vyasaneṣu_), in seasons of distress (_kṛcchreṣu_), in battles (_yuddheṣu_), at a bride’s self-choice (_svayaṃvare_), at a Vedic sacrifice (_kratau_), or in marriage (_vivāhe vā_), the beholding of a woman is not faulted (_darśanaṃ dūṣyate striyāḥ_).
 </details>
 </details>
 
@@ -1539,7 +1539,7 @@ rejoice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And she here has fallen into calamity (vipadgatā caiva) and is beset by sore distress (kṛcchreṇa ca samanvitā); there is no fault in beholding her (darśane nāsti doṣo ’syāḥ), especially in my presence (matsamīpe viśeṣataḥ).
+And she here has fallen into calamity (_vipadgatā caiva_) and is beset by sore distress (_kṛcchreṇa ca samanvitā_); there is no fault in beholding her (_darśane nāsti doṣo ’syāḥ_), especially in my presence (_matsamīpe viśeṣataḥ_).
 </details>
 </details>
 
@@ -1592,7 +1592,7 @@ blessed sight is powerful. The songs in praise of you never go in vain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, leaving the palanquin (visṛjya śibikām), let her approach on foot alone (padbhyām evāpasarpatu); let these forest-dwellers (vanaukasaḥ) behold Vaidehī in my presence (samīpe mama).”
+Therefore, leaving the palanquin (_visṛjya śibikām_), let her approach on foot alone (_padbhyām evāpasarpatu_); let these forest-dwellers (_vanaukasaḥ_) behold Vaidehī in my presence (_samīpe mama_).”
 </details>
 </details>
 
@@ -1631,7 +1631,7 @@ Distressed by Rāma’s stern demeanor, Lakṣmaṇa, Sugrīva, and Hanūmān fe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Vibhīṣaṇa, filled with anxious reflection (savimarśaḥ), humbly (vinītavat) led Sītā into Rāma’s presence (rāmasyopānayat sītāṃ saṃnikarṣam).
+Thus addressed by Rāma, Vibhīṣaṇa, filled with anxious reflection (_savimarśaḥ_), humbly (_vinītavat_) led Sītā into Rāma’s presence (_rāmasyopānayat sītāṃ saṃnikarṣam_).
 </details>
 </details>
 
@@ -1695,7 +1695,7 @@ and the Supreme Person, will forever attain their desired objects here as well a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lakṣmaṇa, Sugrīva, and the leaper Hanūmān, hearing the speech of Rāma, became deeply distressed (babhūvur vyathitā bhṛśam).
+Then Lakṣmaṇa, Sugrīva, and the leaper Hanūmān, hearing the speech of Rāma, became deeply distressed (_babhūvur vyathitā bhṛśam_).
 </details>
 </details>
 

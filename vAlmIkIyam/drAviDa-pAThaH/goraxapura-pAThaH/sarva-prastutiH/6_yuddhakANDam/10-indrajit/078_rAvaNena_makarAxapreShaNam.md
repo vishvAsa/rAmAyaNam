@@ -64,7 +64,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Nikumbha had been slain and Kumbha struck down (vinipātitam), Rāvaṇa, filled with supreme indignation (paramāmarṣī), blazed up like a fire.
+Hearing that Nikumbha had been slain and Kumbha struck down (_vinipātitam_), Rāvaṇa, filled with supreme indignation (_paramāmarṣī_), blazed up like a fire.
 </details>
 </details>
 
@@ -104,7 +104,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overwhelmed (parimūrcchitaḥ) by both wrath and grief, the rākṣasa lord (nairṛtaḥ) urged on Khara's broad-eyed son, Makarākṣa:
+Overwhelmed (_parimūrcchitaḥ_) by both wrath and grief, the _rākṣasa_ lord (_nairṛtaḥ_) urged on Khara&#x27;s broad-eyed son, Makarākṣa:
 </details>
 </details>
 
@@ -154,7 +154,7 @@ the monkeys."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go, my son, at my command (mayājñaptaḥ), accompanied by an army, and slay both Rāghava and Lakṣmaṇa along with the forest-dwelling monkeys (savanaukasau)!”
+“Go, my son, at my command (_mayājñaptaḥ_), accompanied by an army, and slay both Rāghava and Lakṣmaṇa along with the forest-dwelling monkeys (_savanaukasau_)!”
 </details>
 </details>
 
@@ -225,9 +225,9 @@ Makaraksha, by the orders of Ravana, came forth from these shining palace of Rav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Hearing Rāvaṇa's words, Khara's son Makarākṣa, proud of his heroism (śūramānī), rejoiced and said to the night-ranger, “So be it (bāḍham)!”
+**4:** Hearing Rāvaṇa&#x27;s words, Khara&#x27;s son Makarākṣa, proud of his heroism (_śūramānī_), rejoiced and said to the night-ranger, “So be it (_bāḍham_)!”
 
-**5:** Saluting Ten-necked Rāvaṇa and circumambulating him (kṛtvā cāpi pradakṣiṇam), that mighty warrior went forth from the gleaming palace at Rāvaṇa's command.
+**5:** Saluting Ten-necked Rāvaṇa and circumambulating him (_kṛtvā cāpi pradakṣiṇam_), that mighty warrior went forth from the gleaming palace at Rāvaṇa&#x27;s command.
 </details>
 </details>
 
@@ -274,7 +274,7 @@ to bring a chariot and the army swiftly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Khara's son spoke these words to the commander of the forces (balādhyakṣam) standing nearby: “Let a chariot be brought swiftly (tūrṇam), and let the army be led forth in haste (tvarāt)!”
+Khara&#x27;s son spoke these words to the commander of the forces (_balādhyakṣam_) standing nearby: “Let a chariot be brought swiftly (_tūrṇam_), and let the army be led forth in haste (_tvarāt_)!”
 </details>
 </details>
 
@@ -328,7 +328,7 @@ to his proximity.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, the night-ranging commander of the army (balādhyakṣaḥ) brought both the chariot (syandanam) and the troop right before him.
+Hearing those words of his, the night-ranging commander of the army (_balādhyakṣaḥ_) brought both the chariot (_syandanam_) and the troop right before him.
 </details>
 </details>
 
@@ -383,7 +383,7 @@ charioteer to drive forward the chariot quickly to the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Circumambulating the chariot and mounting it (samāruhya), the night-ranger urged on his charioteer (sūtam): “Drive the chariot swiftly forward!”
+Circumambulating the chariot and mounting it (_samāruhya_), the night-ranger urged on his charioteer (_sūtam_): “Drive the chariot swiftly forward!”
 </details>
 </details>
 
@@ -429,7 +429,7 @@ begin your fight before my presence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Makarākṣa spoke thus to all those rākṣasas: “Do all of you fight (prayudhyadhvam) in front of me (purastān mama), O rākṣasas!”
+Then Makarākṣa spoke thus to all those _rākṣasas_: “Do all of you fight (_prayudhyadhvam_) in front of me (_purastān mama_), O _rākṣasas_!”
 </details>
 </details>
 
@@ -481,7 +481,7 @@ in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have been commanded (ājñaptaḥ) by the great-souled Rāvaṇa, king of the rākṣasas, to slay both Rāma and Lakṣmaṇa in battle.”
+“I have been commanded (_ājñaptaḥ_) by the great-souled Rāvaṇa, king of the _rākṣasas_, to slay both Rāma and Lakṣmaṇa in battle.”
 </details>
 </details>
 
@@ -527,7 +527,7 @@ my excellent arrows, O demons!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, O night-rangers, with my choicest shafts (śarottamaiḥ) I shall slay Rāma and Lakṣmaṇa, the branch-leaping monkey (śākhāmṛgam) Sugrīva, and the monkeys!”
+“Today, O night-rangers, with my choicest shafts (_śarottamaiḥ_) I shall slay Rāma and Lakṣmaṇa, the branch-leaping monkey (_śākhāmṛgam_) Sugrīva, and the monkeys!”
 </details>
 </details>
 
@@ -581,7 +581,7 @@ arrived today to the battle-field, as the fire destroys the dry wood."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, with downpours of pikes (śūlanipātaiś ca), I shall burn up the great army of monkeys that has arrived here, just as fire consumes dry fuel (śuṣkendhanam ivānalaḥ)!”
+“Today, with downpours of pikes (_śūlanipātaiś ca_), I shall burn up the great army of monkeys that has arrived here, just as fire consumes dry fuel (_śuṣkendhanam ivānalaḥ_)!”
 </details>
 </details>
 
@@ -627,7 +627,7 @@ of weapons, were steadfast to fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Makarākṣa, all those mighty night-rangers, equipped with diverse weapons (nānāyudhopetāḥ), stood resolute (samāhitāḥ).
+Hearing that speech of Makarākṣa, all those mighty night-rangers, equipped with diverse weapons (_nānāyudhopetāḥ_), stood resolute (_samāhitāḥ_).
 </details>
 </details>
 
@@ -691,9 +691,9 @@ Makaraksha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Assuming forms at will (kāmarūpiṇaḥ), cruel, fanged, and tawny-eyed (piṅgalekṣaṇāḥ), roaring like rutting elephants with disheveled hair (dhvastakeśāḥ) and striking terror—
+**14:** Assuming forms at will (_kāmarūpiṇaḥ_), cruel, fanged, and tawny-eyed (_piṅgalekṣaṇāḥ_), roaring like rutting elephants with disheveled hair (_dhvastakeśāḥ_) and striking terror—
 
-**15:** —those huge-bodied demons surrounded the huge-bodied son of Khara (kharātmajam) and marched forth in joy, making the earth tremble (cālayanto vasundharām).
+**15:** —those huge-bodied demons surrounded the huge-bodied son of Khara (_kharātmajam_) and marched forth in joy, making the earth tremble (_cālayanto vasundharām_).
 </details>
 </details>
 
@@ -760,7 +760,7 @@ like fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From thousands of conches and kettle-drums (śaṅkhabherīsahasrāṇām) beaten on every side, and from lion-roars and arm-slappings (kṣvelitāsphoṭitānām), a mighty uproar arose there.
+From thousands of conches and kettle-drums (_śaṅkhabherīsahasrāṇām_) beaten on every side, and from lion-roars and arm-slappings (_kṣvelitāsphoṭitānām_), a mighty uproar arose there.
 </details>
 </details>
 
@@ -815,7 +815,7 @@ flag-staff of that demon also suddenly fell down by the will of the province.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the goad (pratodaḥ) slipped from his charioteer's hand, and by fate (daivāt) that rākṣasa's banner-staff suddenly fell down.
+Then the goad (_pratodaḥ_) slipped from his charioteer&#x27;s hand, and by fate (_daivāt_) that _rākṣasa_&#x27;s banner-staff suddenly fell down.
 </details>
 </details>
 
@@ -864,7 +864,7 @@ with flurried feet and went timidly, with tears in their eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His horses yoked to the chariot lost their spirited stride (vikramavarjitāḥ); stumbling with faltering hooves (caraṇair ākulaiḥ), they plodded on dejectedly with tearful faces (sāsramukhāḥ).
+His horses yoked to the chariot lost their spirited stride (_vikramavarjitāḥ_); stumbling with faltering hooves (_caraṇair ākulaiḥ_), they plodded on dejectedly with tearful faces (_sāsramukhāḥ_).
 </details>
 </details>
 
@@ -914,7 +914,7 @@ fearful dust-storm blew forth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the marching forth (niryāṇe) of that fierce and evil-minded Makarākṣa, a harsh and dreadful wind (kharadāruṇaḥ pavanaḥ) blew, laden with dust (sapāṃsuḥ).
+At the marching forth (_niryāṇe_) of that fierce and evil-minded Makarākṣa, a harsh and dreadful wind (_kharadāruṇaḥ pavanaḥ_) blew, laden with dust (_sapāṃsuḥ_).
 </details>
 </details>
 
@@ -960,7 +960,7 @@ out to the place, where both Rama and Lakshmana were there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though seeing those portents (nimittāni), all the most valorous rākṣasas, disregarding them (acintya), marched out to where Rāma and Lakṣmaṇa stood.
+Though seeing those portents (_nimittāni_), all the most valorous _rākṣasas_, disregarding them (_acintya_), marched out to where Rāma and Lakṣmaṇa stood.
 </details>
 </details>
 
@@ -1049,7 +1049,7 @@ son of Khara (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark in hue as rain-clouds, elephants, or buffaloes (ghanagajamahiṣāṅgatulyavarṇāḥ), and scarred repeatedly in the van of battle by maces and swords, those battle-skilled night-rangers roamed about again and again, shouting, “I first! I first (aham aham iti)!”
+Dark in hue as rain-clouds, elephants, or buffaloes (_ghanagajamahiṣāṅgatulyavarṇāḥ_), and scarred repeatedly in the van of battle by maces and swords, those battle-skilled night-rangers roamed about again and again, shouting, “I first! I first (_aham aham iti_)!”
 </details>
 </details>
 

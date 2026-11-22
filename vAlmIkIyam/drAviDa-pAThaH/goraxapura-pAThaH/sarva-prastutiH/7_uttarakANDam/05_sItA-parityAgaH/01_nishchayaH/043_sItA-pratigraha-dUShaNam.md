@@ -52,7 +52,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seated there (tatropaviṣṭam), the king was attended on all sides (samantataḥ ... upāsante) by clever companions (vicakṣaṇāḥ), jesters skilled in manifold tales (kathānāṃ bahurūpāṇāṃ hāsyakārāḥ).
+Seated there (_tatropaviṣṭam_), the king was attended on all sides (_samantataḥ ... upāsante_) by clever companions (_vicakṣaṇāḥ_), jesters skilled in manifold tales (_kathānāṃ bahurūpāṇāṃ hāsyakārāḥ_).
 </details>
 </details>
 
@@ -114,7 +114,7 @@ Vijaya and Madhumatta, Kāśyapa, Maṅgala, and Kuṭa, Surāja, Kāliya, Bhadr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighted (saṃhṛṣṭāḥ), these companions told manifold tales laced with jest and wit (kathā bahuvidhāḥ parihāsa-samanvitāḥ) in the presence of the high-souled Rāghava (rāghavasya mahātmanaḥ).
+Delighted (_saṃhṛṣṭāḥ_), these companions told manifold tales laced with jest and wit (_kathā bahuvidhāḥ parihāsa-samanvitāḥ_) in the presence of the high-souled Rāghava (_rāghavasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -145,7 +145,7 @@ Delighted (saṃhṛṣṭāḥ), these companions told manifold tales laced wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in the midst of a certain tale (kathāyāṃ kasyāñcit), Rāghava spoke (samabhāṣata): “O Bhadra, what reports circulate in the city (kāḥ kathā nagare ... vartante) and throughout the provinces (viṣayeṣu ca)?
+Then, in the midst of a certain tale (_kathāyāṃ kasyāñcit_), Rāghava spoke (_samabhāṣata_): “O Bhadra, what reports circulate in the city (_kāḥ kathā nagare ... vartante_) and throughout the provinces (_viṣayeṣu ca_)?
 </details>
 </details>
 
@@ -180,9 +180,9 @@ Then, in the midst of a certain tale (kathāyāṃ kasyāñcit), Rāghava spoke 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “What things concerning me (mām āśritāni kāni) do the citizens and countryfolk say (paura-jānapadā janāḥ)? And what concerning Sītā (sītāṃ samāśritya), what of Bharata, and what of Lakṣmaṇa?
+**5:** “What things concerning me (_mām āśritāni kāni_) do the citizens and countryfolk say (_paura-jānapadā janāḥ_)? And what concerning Sītā (_sītāṃ samāśritya_), what of Bharata, and what of Lakṣmaṇa?
 
-**6:** “What indeed regarding Śatrughna (śatrughnam uddiśya), and what of my mother Kaikeyī (kaikayīṃ ... mātaram)? For kings incur public censure (vaktavyatāṃ ... vrajanti) even in a noble realm (vare rājye)!”
+**6:** “What indeed regarding Śatrughna (_śatrughnam uddiśya_), and what of my mother Kaikeyī (_kaikayīṃ ... mātaram_)? For kings incur public censure (_vaktavyatāṃ ... vrajanti_) even in a noble realm (_vare rājye_)!”
 </details>
 </details>
 
@@ -221,7 +221,7 @@ When Bhadra initially reports only the citizens’ glowing praise of Rāvaṇa�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms (prāñjalir abravīt): “O King, auspicious and steady reports circulate among the citizens (sthitāḥ kathāḥ śubhā rājan vartante puravāsinām).
+Thus addressed by Rāma (_evam ukte tu rāmeṇa_), Bhadra spoke with joined palms (_prāñjalir abravīt_): “O King, auspicious and steady reports circulate among the citizens (_sthitāḥ kathāḥ śubhā rājan vartante puravāsinām_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Above all (bhūyiṣṭham), O gentle bull among men (saumya ... puruṣarṣabha), the citizens in your city speak continually (svapure pauraiḥ kathyante) of this your triumph won by the slaying of the Ten-Necked one (amuṃ tu vijayaṃ ... daśagrīva-vadhārjitam).”
+“Above all (_bhūyiṣṭham_), O gentle bull among men (_saumya ... puruṣarṣabha_), the citizens in your city speak continually (_svapure pauraiḥ kathyante_) of this your triumph won by the slaying of the Ten-Necked one (_amuṃ tu vijayaṃ ... daśagrīva-vadhārjitam_).”
 </details>
 </details>
 
@@ -287,9 +287,9 @@ Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Thus answered by Bhadra (evam uktas tu bhadreṇa), Rāghava spoke these words: “Tell me everything exactly as it truly is (kathayasva yathātattvam), leaving nothing out (sarvaṃ niravaśeṣataḥ).
+**9:** Thus answered by Bhadra (_evam uktas tu bhadreṇa_), Rāghava spoke these words: “Tell me everything exactly as it truly is (_kathayasva yathātattvam_), leaving nothing out (_sarvaṃ niravaśeṣataḥ_).
 
-**10:** “Whatever words, good or ill (śubhāśubhāni vākyāni), the citizens utter—hearing them now (śrutvedānīm), I shall perform what is good (śubhaṃ kuryām) and abstain from what is ill (na kuryām aśubhāni ca).
+**10:** “Whatever words, good or ill (_śubhāśubhāni vākyāni_), the citizens utter—hearing them now (_śrutvedānīm_), I shall perform what is good (_śubhaṃ kuryām_) and abstain from what is ill (_na kuryām aśubhāni ca_).
 </details>
 </details>
 
@@ -320,7 +320,7 @@ Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Speak with full confidence (visrabdhaḥ), fearlessly (nirbhayam), and free from inner distress (vigata-jvaraḥ), just as the citizens and even wicked folk in the provinces speak (kathayanti yathā paurāḥ pāpā janapadeṣu ca).”
+“Speak with full confidence (_visrabdhaḥ_), fearlessly (_nirbhayam_), and free from inner distress (_vigata-jvaraḥ_), just as the citizens and even wicked folk in the provinces speak (_kathayanti yathā paurāḥ pāpā janapadeṣu ca_).”
 </details>
 </details>
 
@@ -351,7 +351,7 @@ Thus addressed by Rāma (evam ukte tu rāmeṇa), Bhadra spoke with joined palms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāghava with these exceedingly gracious words (suruciraṃ vacaḥ), Bhadra, deeply composed (susamāhitaḥ) and with palms joined (prāñjaliḥ), replied to the mighty-armed prince:
+Thus addressed by Rāghava with these exceedingly gracious words (_suruciraṃ vacaḥ_), Bhadra, deeply composed (_susamāhitaḥ_) and with palms joined (_prāñjaliḥ_), replied to the mighty-armed prince:
 </details>
 </details>
 
@@ -390,7 +390,7 @@ Reporting the whispers in marketplaces, crossroads, and groves, Bhadra reveals t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear, O King, how the citizens speak both good and ill (kathayanti śubhāśubham) in crossroads, marketplaces, and highways (catvarāpaṇa-rathyāsu), and in forests and pleasure-groves (vaneṣūpavaneṣu ca).
+“Hear, O King, how the citizens speak both good and ill (_kathayanti śubhāśubham_) in crossroads, marketplaces, and highways (_catvarāpaṇa-rathyāsu_), and in forests and pleasure-groves (_vaneṣūpavaneṣu ca_).
 </details>
 </details>
 
@@ -421,7 +421,7 @@ Reporting the whispers in marketplaces, crossroads, and groves, Bhadra reveals t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘A feat hard to achieve did Rāma accomplish—the building of the bridge across the ocean (samudre setu-bandhanam)—unheard of (aśrutam) by any former kings, or even by the gods together with the Dānavas (devair api sa-dānavaiḥ)!
+“‘A feat hard to achieve did Rāma accomplish—the building of the bridge across the ocean (_samudre setu-bandhanam_)—unheard of (_aśrutam_) by any former kings, or even by the gods together with the Dānavas (_devair api sa-dānavaiḥ_)!
 </details>
 </details>
 
@@ -455,7 +455,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And unassailable Rāvaṇa (rāvaṇaś ca durādharṣaḥ) was slain along with his armies and mounts (sa-bala-vāhanaḥ), and the monkeys and bears—together with the rākṣasas (saha rākṣasaiḥ)—were brought under his sway (vaśaṃ nītāḥ)!
+“‘And unassailable Rāvaṇa (_rāvaṇaś ca durādharṣaḥ_) was slain along with his armies and mounts (_sa-bala-vāhanaḥ_), and the monkeys and bears—together with the rākṣasas (_saha rākṣasaiḥ_)—were brought under his sway (_vaśaṃ nītāḥ_)!
 </details>
 </details>
 
@@ -486,7 +486,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Yet after slaying Rāvaṇa in battle (hatvā ca rāvaṇaṃ saṅkhye) and recovering Sītā (sītām āhṛtya), Rāghava put his indignation behind his back (amarṣaṃ pṛṣṭhataḥ kṛtvā) and brought her back into his own house (sva-veśma punar ānayat).
+“‘Yet after slaying Rāvaṇa in battle (_hatvā ca rāvaṇaṃ saṅkhye_) and recovering Sītā (_sītām āhṛtya_), Rāghava put his indignation behind his back (_amarṣaṃ pṛṣṭhataḥ kṛtvā_) and brought her back into his own house (_sva-veśma punar ānayat_).
 </details>
 </details>
 
@@ -533,11 +533,11 @@ Bhadra concludes with the citizens’ fear that subjects follow their king’s e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “‘What sort of pleasure (kīdṛśaṃ ... sukham) can arise in his heart from union with Sītā (sītā-sambhogajam), who was once forcibly carried off by Rāvaṇa after lifting her onto his lap (aṅkam āropya tu purā rāvaṇena balād dhṛtām)—
+**17:** “‘What sort of pleasure (_kīdṛśaṃ ... sukham_) can arise in his heart from union with Sītā (_sītā-sambhogajam_), who was once forcibly carried off by Rāvaṇa after lifting her onto his lap (_aṅkam āropya tu purā rāvaṇena balād dhṛtām_)—
 
-**18:** “‘—who was borne away to Laṅkā (laṅkām api purā nītām), taken to the Aśoka grove (aśokavanikāṃ gatām), and fallen into the power of the rākṣasas (rakṣasāṃ vaśam āpannām)? How is it that Rāma does not recoil from her (kathaṃ rāmo na kutsate)?
+**18:** “‘—who was borne away to Laṅkā (_laṅkām api purā nītām_), taken to the Aśoka grove (_aśokavanikāṃ gatām_), and fallen into the power of the rākṣasas (_rakṣasāṃ vaśam āpannām_)? How is it that Rāma does not recoil from her (_kathaṃ rāmo na kutsate_)?
 
-**19:** “‘We too shall have to endure the like in our own wives (asmākam api dāreṣu sahanīyaṃ bhaviṣyati), for just as the king conducts himself, so his subjects follow him (yathā hi kurute rājā prajā tam anuvartate)!’
+**19:** “‘We too shall have to endure the like in our own wives (_asmākam api dāreṣu sahanīyaṃ bhaviṣyati_), for just as the king conducts himself, so his subjects follow him (_yathā hi kurute rājā prajā tam anuvartate_)!’
 </details>
 </details>
 
@@ -568,7 +568,7 @@ Bhadra concludes with the citizens’ fear that subjects follow their king’s e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such manifold speeches (evaṃ bahuvidhā vācaḥ) do the citizens utter, O King, in all the towns (nagareṣu ca sarveṣu) and throughout the countryside (janapadeṣu ca).”
+“Such manifold speeches (_evaṃ bahuvidhā vācaḥ_) do the citizens utter, O King, in all the towns (_nagareṣu ca sarveṣu_) and throughout the countryside (_janapadeṣu ca_).”
 </details>
 </details>
 
@@ -599,7 +599,7 @@ Bhadra concludes with the citizens’ fear that subjects follow their king’s e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words spoken by him (tasyaivaṃ bhāṣitaṃ śrutvā), Rāghava—as though stricken with extreme anguish (paramārtavat)—said to all his friends (uvāca suhṛdaḥ sarvān): “How is this that you tell me (katham etad bravītha mām)?”
+Hearing these words spoken by him (_tasyaivaṃ bhāṣitaṃ śrutvā_), Rāghava—as though stricken with extreme anguish (_paramārtavat_)—said to all his friends (_uvāca suhṛdaḥ sarvān_): “How is this that you tell me (_katham etad bravītha mām_)?”
 </details>
 </details>
 
@@ -630,7 +630,7 @@ Hearing these words spoken by him (tasyaivaṃ bhāṣitaṃ śrutvā), Rāghava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing down to the earth with their heads (śirasā bhūmāv abhivādya praṇamya ca), all of them replied to the dejected Rāghava (pratyūcū rāghavaṃ dīnam): “Just so it is—there is no doubt (evam etan na saṃśayaḥ)!”
+Bowing down to the earth with their heads (_śirasā bhūmāv abhivādya praṇamya ca_), all of them replied to the dejected Rāghava (_pratyūcū rāghavaṃ dīnam_): “Just so it is—there is no doubt (_evam etan na saṃśayaḥ_)!”
 </details>
 </details>
 
@@ -672,7 +672,7 @@ Bowing down to the earth with their heads (śirasā bhūmāv abhivādya praṇam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words uttered by them all (sarveṣāṃ samudīritam), Kākutstha, the slayer of foes (śatru-sūdanaḥ), thereupon dismissed his companions (visarjayām āsa tadā vayasyān).
+Hearing those words uttered by them all (_sarveṣāṃ samudīritam_), Kākutstha, the slayer of foes (_śatru-sūdanaḥ_), thereupon dismissed his companions (_visarjayām āsa tadā vayasyān_).
 </details>
 </details>
 

@@ -105,11 +105,11 @@ abused Kaikeyi who was the originator of the present calamity (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding that head and that excellent bow (kārmukam uttamam), and recalling the alliance with Sugrīva (sugrīva-pratisaṃsargam) that had been recounted by Hanūmān,
+**1:** Beholding that head and that excellent bow (_kārmukam uttamam_), and recalling the alliance with Sugrīva (_sugrīva-pratisaṃsargam_) that had been recounted by Hanūmān,
 
-**2:** as well as those eyes, the complexion of the face (mukha-varṇam), the visage so like her husband's (bhartus tat-sadṛśam), the hair, the hairline along the brow (keśānta-deśam), and that auspicious crest-jewel (cūḍā-maṇim)—
+**2:** as well as those eyes, the complexion of the face (_mukha-varṇam_), the visage so like her husband&#x27;s (_bhartus tat-sadṛśam_), the hair, the hairline along the brow (_keśānta-deśam_), and that auspicious crest-jewel (_cūḍā-maṇim_)—
 
-**3:** recognizing [him] by all these tokens of identity (abhijñānaiḥ), Sītā, stricken with sore grief (su-duḥkhitā) and crying out like a female osprey (kurarī yathā), reproached (vijagarhe) Kaikeyī right there:
+**3:** recognizing [him] by all these tokens of identity (_abhijñānaiḥ_), Sītā, stricken with sore grief (_su-duḥkhitā_) and crying out like a female osprey (_kurarī yathā_), reproached (_vijagarhe_) Kaikeyī right there:
 </details>
 </details>
 
@@ -161,7 +161,7 @@ been slain. The entire race has been destroyed by a woman of squabbling nature.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be fulfilled in your desire (sa-kāmā bhava), O Kaikeyī! Slain is this delighter of the dynasty (kula-nandanaḥ); the entire royal line has been uprooted (utsāditam) by you, who delight in strife (kalaha-śīlayā)!
+“Be fulfilled in your desire (_sa-kāmā bhava_), O Kaikeyī! Slain is this delighter of the dynasty (_kula-nandanaḥ_); the entire royal line has been uprooted (_utsāditam_) by you, who delight in strife (_kalaha-śīlayā_)!
 </details>
 </details>
 
@@ -213,7 +213,7 @@ along with me. What harm has he done to you?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What offense (vipriyam), pray, was ever done to Kaikeyī by the noble (āryeṇa) Rāma, that he was banished (pravrājitaḥ) to the forest together with me after being given garments of bark (cīra-vasanam)?”
+What offense (_vipriyam_), pray, was ever done to Kaikeyī by the noble (_āryeṇa_) Rāma, that he was banished (_pravrājitaḥ_) to the forest together with me after being given garments of bark (_cīra-vasanam_)?”
 </details>
 </details>
 
@@ -266,7 +266,7 @@ ground like a plantain tree that was cut off.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the pitiable (tapasvinī) Vaidehī, trembling all over (vepamānā), fell to the earth (jagāma jagatīm), young girl (bālā) that she was, like a severed plantain tree (chinnā tu kadalī yathā).
+Having spoken thus, the pitiable (_tapasvinī_) Vaidehī, trembling all over (_vepamānā_), fell to the earth (_jagāma jagatīm_), young girl (_bālā_) that she was, like a severed plantain tree (_chinnā tu kadalī yathā_).
 </details>
 </details>
 
@@ -329,7 +329,7 @@ near that illusory head and lamented as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regaining her breath (samāśvasya) after a moment and recovering consciousness (cetanām), that large-eyed lady (āyatekṣaṇā) drew near (samupāsthāya) that head and lamented aloud:
+Regaining her breath (_samāśvasya_) after a moment and recovering consciousness (_cetanām_), that large-eyed lady (_āyatekṣaṇā_) drew near (_samupāsthāya_) that head and lamented aloud:
 </details>
 </details>
 
@@ -381,7 +381,7 @@ have become a witness to your last fate. I have been made a widow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, I am undone (hatāsmi), O mighty-armed one, faithful to the warrior's vow (vīra-vratam anuvrata)! I have come to see this final state (paścimāvasthām) of yours, made a widow (vidhavā kṛtā)!
+“Alas, I am undone (_hatāsmi_), O mighty-armed one, faithful to the warrior&#x27;s vow (_vīra-vratam anuvrata_)! I have come to see this final state (_paścimāvasthām_) of yours, made a widow (_vidhavā kṛtā_)!
 </details>
 </details>
 
@@ -433,7 +433,7 @@ good conduct, have preceded me in death."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A husband's dying first (prathamaṃ maraṇam) is declared to be a wife's demerit (nāryā vaiguṇyam); yet you of virtuous conduct (su-vṛttaḥ) have passed away (saṃvṛttaḥ) before me, who have lived virtuously (sādhu-vṛttāyāḥ).
+A husband&#x27;s dying first (_prathamaṃ maraṇam_) is declared to be a wife&#x27;s demerit (_nāryā vaiguṇyam_); yet you of virtuous conduct (_su-vṛttaḥ_) have passed away (_saṃvṛttaḥ_) before me, who have lived virtuously (_sādhu-vṛttāyāḥ_).
 </details>
 </details>
 
@@ -485,7 +485,7 @@ in an ocean of grief, have been killed by the enemies"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And you who strove (udyataḥ) to rescue me, who had fallen into great misery (mahad duḥkham) and sunk in an ocean of grief (śoka-sāgare)—even you have been struck down (vinipātitaḥ)!
+And you who strove (_udyataḥ_) to rescue me, who had fallen into great misery (_mahad duḥkham_) and sunk in an ocean of grief (_śoka-sāgare_)—even you have been struck down (_vinipātitaḥ_)!
 </details>
 </details>
 
@@ -537,7 +537,7 @@ a son and resembles a cow that has lost its calf."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By you her son, O Rāghava, my mother-in-law Kausalyā, so tender toward her child (vatsalā), has been rendered childless (vivatsā), like a cow bereft of her calf (vatseneva yathā dhenuḥ).
+By you her son, O Rāghava, my mother-in-law Kausalyā, so tender toward her child (_vatsalā_), has been rendered childless (_vivatsā_), like a cow bereft of her calf (_vatseneva yathā dhenuḥ_).
 </details>
 </details>
 
@@ -592,7 +592,7 @@ Their words are wrong. You are short lived."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A long life (dīrgham āyuḥ) was foretold (uddiṣṭam) for you even by the astrologers (daivajñaiḥ), O Rāghava; false (anṛtam) was their word, for you are short-lived (alpāyur asi), O Rāghava!”
+A long life (_dīrgham āyuḥ_) was foretold (_uddiṣṭam_) for you even by the astrologers (_daivajñaiḥ_), O Rāghava; false (_anṛtam_) was their word, for you are short-lived (_alpāyur asi_), O Rāghava!”
 </details>
 </details>
 
@@ -652,7 +652,7 @@ Time the master of all beings has brought you to an end."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else wisdom (prajñā) perishes even for one who is wise (prājñasyāpi sataḥ) like you, since Time (kālaḥ), which is the origin (prabhavaḥ) of all beings, brings every creature to maturity (pacaty enam) in just that way!
+“Or else wisdom (_prajñā_) perishes even for one who is wise (_prājñasyāpi sataḥ_) like you, since Time (_kālaḥ_), which is the origin (_prabhavaḥ_) of all beings, brings every creature to maturity (_pacaty enam_) in just that way!
 </details>
 </details>
 
@@ -704,7 +704,7 @@ death? You, who knew the science of expediency, were indeed skilled in warding o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why have you met with an unforeseen death (adṛṣṭaṃ mṛtyum āpannaḥ), you who know the science of policy (naya-śāstra-vit), who know the remedies for calamities (vyasanānām upāya-jñaḥ) and are skilled in averting them (kuśalo varjane)?
+Why have you met with an unforeseen death (_adṛṣṭaṃ mṛtyum āpannaḥ_), you who know the science of policy (_naya-śāstra-vit_), who know the remedies for calamities (_vyasanānām upāya-jñaḥ_) and are skilled in averting them (_kuśalo varjane_)?
 </details>
 </details>
 
@@ -759,7 +759,7 @@ terrible thus has encircled you, embezzled you and snatched you away from me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, O lotus-eyed one (kamala-locana), have you been forcibly torn away (ācchidya) and carried off after being closely embraced (sampariṣvajya) by the fierce, utterly ruthless Night of Doom (kāla-rātryā)—which was none other than my own self!
+Thus, O lotus-eyed one (_kamala-locana_), have you been forcibly torn away (_ācchidya_) and carried off after being closely embraced (_sampariṣvajya_) by the fierce, utterly ruthless Night of Doom (_kāla-rātryā_)—which was none other than my own self!
 </details>
 </details>
 
@@ -811,7 +811,7 @@ embracing the earth as your beloved"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here you lie (iha śeṣe), O mighty-armed bull among men (puruṣarṣabha), forsaking pitiable me (māṃ vihāya tapasvinīm) and embracing the earth (pṛthivīm) as though she were a beloved woman (priyām iva yathā nārīm)!
+Here you lie (_iha śeṣe_), O mighty-armed bull among men (_puruṣarṣabha_), forsaking pitiable me (_māṃ vihāya tapasvinīm_) and embracing the earth (_pṛthivīm_) as though she were a beloved woman (_priyām iva yathā nārīm_)!
 </details>
 </details>
 
@@ -857,7 +857,7 @@ diligently by you with sandal paste and wreath of flowers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This bow of yours, adorned with gold (kāñcana-bhūṣitam) and ever dear to me (mat-priyam), O hero, was constantly worshiped (arcitam satatam) by me with effort using fragrant pastes and garlands (gandha-mālyaiḥ).
+This bow of yours, adorned with gold (_kāñcana-bhūṣitam_) and ever dear to me (_mat-priyam_), O hero, was constantly worshiped (_arcitam satatam_) by me with effort using fragrant pastes and garlands (_gandha-mālyaiḥ_).
 </details>
 </details>
 
@@ -909,7 +909,7 @@ law Dasaratha as well as all the multitude of manes."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely (nūnam), O sinless one (anagha), you are now reunited in heaven (svarge samāgataḥ) with your father Daśaratha, my father-in-law (śvaśureṇa mama), together with all your forefathers (pitṛbhiḥ sārdham)!
+Surely (_nūnam_), O sinless one (_anagha_), you are now reunited in heaven (_svarge samāgataḥ_) with your father Daśaratha, my father-in-law (_śvaśureṇa mama_), together with all your forefathers (_pitṛbhiḥ sārdham_)!
 </details>
 </details>
 
@@ -972,7 +972,7 @@ great act, which illuminated the heaven like a luminary."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you now look indifferently (samupekṣase) upon your own sacred dynasty of royal sages (puṇyaṃ rājarṣi-vaṃśam), which has become a constellation in the sky (divi nakṣatra-bhūtam) and was established by mighty deeds (mahat-karma-kṛtam)?
+“Do you now look indifferently (_samupekṣase_) upon your own sacred dynasty of royal sages (_puṇyaṃ rājarṣi-vaṃśam_), which has become a constellation in the sky (_divi nakṣatra-bhūtam_) and was established by mighty deeds (_mahat-karma-kṛtam_)?
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ together since the time of obtaining me as a girl by you as a boy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why do you not look at me (kiṃ māṃ na prekṣase), O king, or why do you not answer me (na pratibhāṣase)—me, your wife and constant companion (saha-cāriṇīm), a young girl won by you in youth (bālāṃ bālena samprāptām)?
+Why do you not look at me (_kiṃ māṃ na prekṣase_), O king, or why do you not answer me (_na pratibhāṣase_)—me, your wife and constant companion (_saha-cāriṇīm_), a young girl won by you in youth (_bālāṃ bālena samprāptām_)?
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ righteous conduct with you' Take me also with you, wretched as I Am."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Remember, pray (smara tan nāma), O Kākutstha, what was promised by you when clasping my hand (gṛhṇatā pāṇim)—‘I shall walk with you (cariṣyāmīti)’—and lead away (naya) even me, stricken with sorrow!
+Remember, pray (_smara tan nāma_), O Kākutstha, what was promised by you when clasping my hand (_gṛhṇatā pāṇim_)—‘I shall walk with you (_cariṣyāmīti_)’—and lead away (_naya_) even me, stricken with sorrow!
 </details>
 </details>
 
@@ -1134,7 +1134,7 @@ the miserable woman, why have you gone to the other world from this world?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why have you gone (gataḥ) from this world to yonder world (asmāl lokād amuṃ lokam), O foremost of those who walk the path (gatimatāṃ vara), forsaking me (mām apahāya) and leaving me behind in grief?
+Why have you gone (_gataḥ_) from this world to yonder world (_asmāl lokād amuṃ lokam_), O foremost of those who walk the path (_gatimatāṃ vara_), forsaking me (_mām apahāya_) and leaving me behind in grief?
 </details>
 </details>
 
@@ -1189,7 +1189,7 @@ about by wild beasts."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That comely frame (ruciraṃ gātram) of yours, honored with auspicious rites (kalyāṇaiḥ) and embraced by me alone (mayaiva tu pariṣvaktam)—surely that body of yours is now being dragged about (viparikṛṣyate) by carrion-eaters (kravyādaiḥ)!
+That comely frame (_ruciraṃ gātram_) of yours, honored with auspicious rites (_kalyāṇaiḥ_) and embraced by me alone (_mayaiva tu pariṣvaktam_)—surely that body of yours is now being dragged about (_viparikṛṣyate_) by carrion-eaters (_kravyādaiḥ_)!
 </details>
 </details>
 
@@ -1243,7 +1243,7 @@ with abundant gifts?".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sacrificed with Vedic rites headed by the Agniṣṭoma (agniṣṭomādibhir yajñaiḥ), accompanied by ample priestly gifts (āpta-dakṣiṇaiḥ), why then will you not obtain funeral consecration (saṃskāraṃ na tu lapsyase) with the sacred Agnihotra fire (agnihotreṇa)?
+Having sacrificed with Vedic rites headed by the Agniṣṭoma (_agniṣṭomādibhir yajñaiḥ_), accompanied by ample priestly gifts (_āpta-dakṣiṇaiḥ_), why then will you not obtain funeral consecration (_saṃskāraṃ na tu lapsyase_) with the sacred Agnihotra fire (_agnihotreṇa_)?
 </details>
 </details>
 
@@ -1302,7 +1302,7 @@ the three who attained exile."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Consumed by grief (śoka-lālasā), Kausalyā will behold (pariprekṣyati) Lakṣmaṇa returning alone (ekam āgatam) out of the three who entered upon forest exile (pravrajyām upapannānām).
+“Consumed by grief (_śoka-lālasā_), Kausalyā will behold (_pariprekṣyati_) Lakṣmaṇa returning alone (_ekam āgatam_) out of the three who entered upon forest exile (_pravrajyām upapannānām_).
 </details>
 </details>
 
@@ -1354,7 +1354,7 @@ of the army of your alley, by demons at night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when she questions him (tasyāḥ paripṛcchantyāḥ), he will surely recount (ākhyāsyate) the slaughter of your allied army (mitra-balasya) and your own slaying by the rākṣasas at night.
+And when she questions him (_tasyāḥ paripṛcchantyāḥ_), he will surely recount (_ākhyāsyate_) the slaughter of your allied army (_mitra-balasya_) and your own slaying by the rākṣasas at night.
 </details>
 </details>
 
@@ -1407,7 +1407,7 @@ of ogres, she will be no more, as her heart will be broken."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning that you were slain in sleep (suptaṃ hatam) and that I have passed into the house of the rākṣasas (rakṣo-gṛhaṃ gatām), she will cease to live (na bhaviṣyati), O Rāghava, with her heart rent asunder (hṛdayenāvadīrṇena)!
+Learning that you were slain in sleep (_suptaṃ hatam_) and that I have passed into the house of the rākṣasas (_rakṣo-gṛhaṃ gatām_), she will cease to live (_na bhaviṣyati_), O Rāghava, with her heart rent asunder (_hṛdayenāvadīrṇena_)!
 </details>
 </details>
 
@@ -1459,7 +1459,7 @@ ocean, for the cause of me, an unworthy woman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the sake of ignoble me (mama hetor anāryāyāḥ), the sinless prince Rāma of mighty valor, having crossed the ocean (sāgaram uttīrya), has been slain in a mere cow's hoofprint (goṣpade hataḥ)!
+For the sake of ignoble me (_mama hetor anāryāyāḥ_), the sinless prince Rāma of mighty valor, having crossed the ocean (_sāgaram uttīrya_), has been slain in a mere cow&#x27;s hoofprint (_goṣpade hataḥ_)!
 </details>
 </details>
 
@@ -1511,7 +1511,7 @@ has eventually proved to be the cause for death of Rama, an honorable man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of delusion (mohāt) was I, the defiler of my own lineage (sva-kula-pāṃsanī), wedded by Daśaratha's son; the wife of my noble lord Rāma proved to be his very death (mṛtyur ajāyata)!
+Out of delusion (_mohāt_) was I, the defiler of my own lineage (_sva-kula-pāṃsanī_), wedded by Daśaratha&#x27;s son; the wife of my noble lord Rāma proved to be his very death (_mṛtyur ajāyata_)!
 </details>
 </details>
 
@@ -1568,7 +1568,7 @@ gift was refused by me (to an eligible person)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely in another birth (anyāṃ jātim) some supreme gift (dānam uttamam) was obstructed (vāritam) by me, since today I grieve here, though the wife of him who was a host and refuge to all (sarvātither iha)!”
+Surely in another birth (_anyāṃ jātim_) some supreme gift (_dānam uttamam_) was obstructed (_vāritam_) by me, since today I grieve here, though the wife of him who was a host and refuge to all (_sarvātither iha_)!”
 </details>
 </details>
 
@@ -1629,7 +1629,7 @@ of Rama. Thus, you will perform an admirable and auspicious act."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rightly (sādhu) have me slain (ghātaya māṃ) swiftly upon Rāma, O Rāvaṇa! Unite (samānaya) the husband with his wife, and perform this supreme benefaction (kalyāṇam uttamam)!
+“Rightly (_sādhu_) have me slain (_ghātaya māṃ_) swiftly upon Rāma, O Rāvaṇa! Unite (_samānaya_) the husband with his wife, and perform this supreme benefaction (_kalyāṇam uttamam_)!
 </details>
 </details>
 
@@ -1681,7 +1681,7 @@ path of my magnanimous Lord."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Join (yojaya) my head with his head, and my body with his body (kāyaṃ kāyena); O Rāvaṇa, I shall follow (anugamiṣyāmi) the path (gatim) of my great-souled husband!”
+Join (_yojaya_) my head with his head, and my body with his body (_kāyaṃ kāyena_); O Rāvaṇa, I shall follow (_anugamiṣyāmi_) the path (_gatim_) of my great-souled husband!”
 </details>
 </details>
 
@@ -1733,7 +1733,7 @@ with grief and lamented as aforesaid.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, tormented by sorrow (duḥkha-saṃtaptā), the large-eyed daughter of Janaka lamented aloud, gazing upon her husband's head and bow (bhartuḥ śiro dhanuś caiva).
+Thus, tormented by sorrow (_duḥkha-saṃtaptā_), the large-eyed daughter of Janaka lamented aloud, gazing upon her husband&#x27;s head and bow (_bhartuḥ śiro dhanuś caiva_).
 </details>
 </details>
 
@@ -1785,7 +1785,7 @@ with his joined palms in salutation (and cried as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Sītā was wailing thus (evaṃ lālapyamānāyāṃ sītāyām), a rākṣasa stationed in the guard (anīkasthaḥ) approached (abhicakrāma) his lord there with folded hands (kṛtāñjaliḥ).
+While Sītā was wailing thus (_evaṃ lālapyamānāyāṃ sītāyām_), a rākṣasa stationed in the guard (_anīkasthaḥ_) approached (_abhicakrāma_) his lord there with folded hands (_kṛtāñjaliḥ_).
 </details>
 </details>
 
@@ -1837,7 +1837,7 @@ his pleasure and informed that Prahasta the army chief had come.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in salutation (abhivādya) with the words, “Be victorious, O noble prince (vijayasyāryaputreti)!” and having propitiated (prasādya) him, he announced that the army commander Prahasta (prahastaṃ vāhinī-patim) had arrived.
+Having bowed in salutation (_abhivādya_) with the words, “Be victorious, O noble prince (_vijayasyāryaputreti_)!” and having propitiated (_prasādya_) him, he announced that the army commander Prahasta (_prahastaṃ vāhinī-patim_) had arrived.
 </details>
 </details>
 
@@ -1894,7 +1894,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accompanied by all the ministers (amātyaiḥ sahitaḥ sarvaiḥ), Prahasta waits upon you (tvām upasthitaḥ); by him, who desires an audience (darśana-kāmena), I have been dispatched (ahaṃ prasthāpitaḥ), O lord.
+“Accompanied by all the ministers (_amātyaiḥ sahitaḥ sarvaiḥ_), Prahasta waits upon you (_tvām upasthitaḥ_); by him, who desires an audience (_darśana-kāmena_), I have been dispatched (_ahaṃ prasthāpitaḥ_), O lord.
 </details>
 </details>
 
@@ -1946,7 +1946,7 @@ Please accord them your audience now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely, O great king endowed with forbearance (kṣamānvita), by reason of statecraft (rāja-bhāvāt) there is some urgent matter (ātyayikaṃ kāryam); grant them an audience (teṣāṃ tvaṃ darśanaṃ kuru)!”
+Surely, O great king endowed with forbearance (_kṣamānvita_), by reason of statecraft (_rāja-bhāvāt_) there is some urgent matter (_ātyayikaṃ kāryam_); grant them an audience (_teṣāṃ tvaṃ darśanaṃ kuru_)!”
 </details>
 </details>
 
@@ -1998,7 +1998,7 @@ bestowed audience to his ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this report delivered by the rākṣasa (rākṣasa-prativeditam), the ten-necked one left the Aśoka grove (aśoka-vanikāṃ tyaktvā) and went to meet his counselors (mantriṇāṃ darśanaṃ yayau).
+Hearing this report delivered by the rākṣasa (_rākṣasa-prativeditam_), the ten-necked one left the Aśoka grove (_aśoka-vanikāṃ tyaktvā_) and went to meet his counselors (_mantriṇāṃ darśanaṃ yayau_).
 </details>
 </details>
 
@@ -2052,7 +2052,7 @@ Rama's forces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having deliberated (samarthyaiva) with his counselors upon all that he had to do (sarvaṃ kṛtyam ātmanaḥ), he entered the assembly hall (sabhāṃ praviśya) and ordained his measures (vidadhe), having ascertained Rāma's valor (viditvā rāma-vikramam).
+And having deliberated (_samarthyaiva_) with his counselors upon all that he had to do (_sarvaṃ kṛtyam ātmanaḥ_), he entered the assembly hall (_sabhāṃ praviśya_) and ordained his measures (_vidadhe_), having ascertained Rāma&#x27;s valor (_viditvā rāma-vikramam_).
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ Soon after the departure of Ravana, the illusory head and bow had vanished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, immediately upon Rāvaṇa's departure (rāvaṇasyaiva niryāṇa-samanantaram), that head and that excellent bow vanished out of sight (antardhānaṃ jagāma).
+Meanwhile, immediately upon Rāvaṇa&#x27;s departure (_rāvaṇasyaiva niryāṇa-samanantaram_), that head and that excellent bow vanished out of sight (_antardhānaṃ jagāma_).
 </details>
 </details>
 
@@ -2164,7 +2164,7 @@ on the measures he would adopt against Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the lord of the rākṣasas, together with those ministers of terrible valor (bhīma-vikramaiḥ), determined (samarthayāmāsa) the settled course of action regarding Rāma (rāma-kārya-viniścayam).
+Then the lord of the rākṣasas, together with those ministers of terrible valor (_bhīma-vikramaiḥ_), determined (_samarthayāmāsa_) the settled course of action regarding Rāma (_rāma-kārya-viniścayam_).
 </details>
 </details>
 
@@ -2216,7 +2216,7 @@ standing nearby, devoted to his interests as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like Time himself (kāla-sadṛśam), Rāvaṇa, sovereign of the rākṣasas, spoke to all the army commanders (balādhyakṣān) who stood not far off, wishing his welfare (hitaiṣiṇaḥ):
+Like Time himself (_kāla-sadṛśam_), Rāvaṇa, sovereign of the rākṣasas, spoke to all the army commanders (_balādhyakṣān_) who stood not far off, wishing his welfare (_hitaiṣiṇaḥ_):
 </details>
 </details>
 
@@ -2268,7 +2268,7 @@ Do not tell them the reason for which I am calling."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Quickly muster (samānayadhvam) my armies through the resounding roll of war-drums (bherī-ninādena) struck clearly with the drumstick (sphuṭaṃ koṇāhatena); and no reason is to be stated (vaktavyaṃ ca na kāraṇam)!”
+“Quickly muster (_samānayadhvam_) my armies through the resounding roll of war-drums (_bherī-ninādena_) struck clearly with the drumstick (_sphuṭaṃ koṇāhatena_); and no reason is to be stated (_vaktavyaṃ ca na kāraṇam_)!”
 </details>
 </details>
 
@@ -2334,6 +2334,6 @@ the army.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, accepting that command with the words “So be it (tatheti),” the envoys at once (tadaiva) rapidly mustered a mighty army (mahad balam), and reported that it had assembled before their lord, who was eager for battle (bhartari yuddha-kāṅkṣiṇi).
+Then, accepting that command with the words “So be it (_tatheti_),” the envoys at once (_tadaiva_) rapidly mustered a mighty army (_mahad balam_), and reported that it had assembled before their lord, who was eager for battle (_bhartari yuddha-kāṅkṣiṇi_).
 </details>
 </details>

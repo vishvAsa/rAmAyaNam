@@ -48,7 +48,7 @@ As sunset falls upon Mount Kailāsa, Rāvaṇa encamps his host beneath the risi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That valiant Ten-Necked One (daśagrīvaḥ ... vīryavān), together with his army (saha sainyena), chose to encamp there for the night (nivāsaṃ samarocayat) when the sun had reached its setting (astaṃ prāpte dinakare).
+That valiant Ten-Necked One (_daśagrīvaḥ ... vīryavān_), together with his army (_saha sainyena_), chose to encamp there for the night (_nivāsaṃ samarocayat_) when the sun had reached its setting (_astaṃ prāpte dinakare_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ That valiant Ten-Necked One (daśagrīvaḥ ... vīryavān), together with his a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the stainless moon had risen (udite vimale candre), matching the mountain in radiance (tulya-parvata-varcasi), that vast host (sumahat sainyam), equipped with manifold weapons and arms (nānā-praharaṇāyudham), fell fast asleep (prasuptam).
+When the stainless moon had risen (_udite vimale candre_), matching the mountain in radiance (_tulya-parvata-varcasi_), that vast host (_sumahat sainyam_), equipped with manifold weapons and arms (_nānā-praharaṇāyudham_), fell fast asleep (_prasuptam_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ When the stainless moon had risen (udite vimale candre), matching the mountain i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-But Rāvaṇa of mighty prowess (rāvaṇas tu mahāvīryaḥ), seated upon the mountain crest (niṣaṇṇaḥ śaila-mūrdhani), beheld there all the delights of the peak (dadarśa guṇāṃs tatra), graced by the moon and flowering trees (candra-pādapa-śobhitān)—
+But Rāvaṇa of mighty prowess (_rāvaṇas tu mahāvīryaḥ_), seated upon the mountain crest (_niṣaṇṇaḥ śaila-mūrdhani_), beheld there all the delights of the peak (_dadarśa guṇāṃs tatra_), graced by the moon and flowering trees (_candra-pādapa-śobhitān_)—
 </details>
 </details>
 
@@ -156,11 +156,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Aglow with groves of karṇikāra trees (karṇikāra-vanair dīptaiḥ) and thickets of kadamba (kadamba-gahanais tathā), with blossoming lotus ponds (padminībhiś ca phullābhiḥ) and the waters of the Mandākinī as well (mandākinyā jalair api),
+**4:** Aglow with groves of _karṇikāra_ trees (_karṇikāra-vanair dīptaiḥ_) and thickets of _kadamba_ (_kadamba-gahanais tathā_), with blossoming lotus ponds (_padminībhiś ca phullābhiḥ_) and the waters of the Mandākinī as well (_mandākinyā jalair api_),
 
-**5:** With campaka, aśoka, punnāga, and celestial mandāra trees (campakāśoka-punnāga-mandāra-tarubhis tathā), with mango, trumpet-flower, and lodhra (cūta-pāṭala-lodhraiś ca), priyaṅgu, arjuna, and fragrant ketaka (priyaṅgv-arjuna-ketakaiḥ), and with tagara, coconut palms, priyāla, and jackfruit trees (tagarair nārikailaiś ca priyāla-panasais tathā),
+**5:** With _campaka_, _aśoka_, _punnāga_, and celestial _mandāra_ trees (_campakāśoka-punnāga-mandāra-tarubhis tathā_), with mango, trumpet-flower, and _lodhra_ (_cūta-pāṭala-lodhraiś ca_), _priyaṅgu_, _arjuna_, and fragrant _ketaka_ (_priyaṅgv-arjuna-ketakaiḥ_), and with _tagara_, coconut palms, _priyāla_, and jackfruit trees (_tagarair nārikailaiś ca priyāla-panasais tathā_),
 
-**6:** And with āragvadha, tamāla, priyāla, and bakula trees (āragvadhais tamālaiś ca priyāla-vakulair api)—in that woodland interior illumined by these and other trees (etair anyaiś ca tarubhir udbhāsita-vanāntare)—
+**6:** And with _āragvadha_, _tamāla_, _priyāla_, and _bakula_ trees (_āragvadhais tamālaiś ca priyāla-vakulair api_)—in that woodland interior illumined by these and other trees (_etair anyaiś ca tarubhir udbhāsita-vanāntare_)—
 </details>
 </details>
 
@@ -199,7 +199,7 @@ Enchanted by love-struck kinnaras, reveling vidyādharas, bell-like apsaras chor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Where lovesick kinnaras (kinnarā madanenārtāḥ), impassioned and sweet-voiced (raktā madhura-kaṇṭhinaḥ), sang in unison (samaṃ samprajaguḥ) melodies that heighten the heart’s delight (manas-tuṣṭi-vivardhanam).
+Where lovesick kinnaras (_kinnarā madanenārtāḥ_), impassioned and sweet-voiced (_raktā madhura-kaṇṭhinaḥ_), sang in unison (_samaṃ samprajaguḥ_) melodies that heighten the heart’s delight (_manas-tuṣṭi-vivardhanam_).
 </details>
 </details>
 
@@ -228,7 +228,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vidyādharas flushed with intoxication (vidyādharā mada-kṣībāḥ), the corners of their eyes reddened with wine (mada-raktānta-locanāḥ), mingled closely with their women (yoṣidbhiḥ saha saṅkrāntāḥ), sported and rejoiced exceedingly (cikrīḍur jahṛṣuś ca vai).
+Vidyādharas flushed with intoxication (_vidyādharā mada-kṣībāḥ_), the corners of their eyes reddened with wine (_mada-raktānta-locanāḥ_), mingled closely with their women (_yoṣidbhiḥ saha saṅkrāntāḥ_), sported and rejoiced exceedingly (_cikrīḍur jahṛṣuś ca vai_).
 </details>
 </details>
 
@@ -262,7 +262,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the resonant chiming of bells (ghaṇṭānām iva sannādaḥ), a mellifluous strain was heard (śuśruve madhura-svaraḥ) from throngs of apsarases (apsaro-gaṇa-saṅghānām) singing in Kubera’s abode (gāyatāṃ dhanadālaye).
+Like the resonant chiming of bells (_ghaṇṭānām iva sannādaḥ_), a mellifluous strain was heard (_śuśruve madhura-svaraḥ_) from throngs of apsarases (_apsaro-gaṇa-saṅghānām_) singing in Kubera’s abode (_gāyatāṃ dhanadālaye_).
 </details>
 </details>
 
@@ -296,7 +296,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shaken by the breeze (pavana-tāḍitāḥ), the trees shed showers of blossoms (puṣpa-varṣāṇi muñcanto nagāḥ) and seemed to perfume that mountain (śailaṃ taṃ vāsayantīva), redolent with the fragrances of Caitra and Vaiśākha (madhu-mādhava-gandhinaḥ).
+Shaken by the breeze (_pavana-tāḍitāḥ_), the trees shed showers of blossoms (_puṣpa-varṣāṇi muñcanto nagāḥ_) and seemed to perfume that mountain (_śailaṃ taṃ vāsayantīva_), redolent with the fragrances of Caitra and Vaiśākha (_madhu-mādhava-gandhinaḥ_).
 </details>
 </details>
 
@@ -327,7 +327,7 @@ Shaken by the breeze (pavana-tāḍitāḥ), the trees shed showers of blossoms 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Carrying rich fragrance (gandham ādāya puṣkalam) steeped in honey and flower-pollen (madhu-puṣpa-rajaḥ-pṛktam), a pleasant breeze blew gently (pravavau ... sukho ’nilaḥ), inflaming Rāvaṇa’s desire (vardhayan kāmaṃ rāvaṇasya).
+Carrying rich fragrance (_gandham ādāya puṣkalam_) steeped in honey and flower-pollen (_madhu-puṣpa-rajaḥ-pṛktam_), a pleasant breeze blew gently (_pravavau ... sukho ’nilaḥ_), inflaming Rāvaṇa’s desire (_vardhayan kāmaṃ rāvaṇasya_).
 </details>
 </details>
 
@@ -370,9 +370,9 @@ As love-smitten Rāvaṇa sighs toward the moon, the peerless apsaras Rambhā—
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Because of the music (geyāt), the profusion of blossoms (puṣpa-samṛddhyā ca), the coolness of the wind (śaityād vāyoḥ), and the mountain’s charm (girer guṇāt), as night advanced (pravṛttāyāṃ rajanyāṃ ca) and with the rising of the moon (candrasyodayanena ca)—
+**12:** Because of the music (_geyāt_), the profusion of blossoms (_puṣpa-samṛddhyā ca_), the coolness of the wind (_śaityād vāyoḥ_), and the mountain’s charm (_girer guṇāt_), as night advanced (_pravṛttāyāṃ rajanyāṃ ca_) and with the rising of the moon (_candrasyodayanena ca_)—
 
-**13:** —that mighty-prowessed Rāvaṇa (rāvaṇas tu mahāvīryaḥ), falling under the sway of desire (kāmasya vaśam āgataḥ), sighed again and again (viniḥśvasya viniḥśvasya) as he gazed up at the moon (śaśinaṃ samavaikṣata).
+**13:** —that mighty-prowessed Rāvaṇa (_rāvaṇas tu mahāvīryaḥ_), falling under the sway of desire (_kāmasya vaśam āgataḥ_), sighed again and again (_viniḥśvasya viniḥśvasya_) as he gazed up at the moon (_śaśinaṃ samavaikṣata_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ As love-smitten Rāvaṇa sighs toward the moon, the peerless apsaras Rambhā—
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that very interval (etasminn antare tatra), adorned with celestial ornaments (divyābharaṇa-bhūṣitā) and decked with heavenly flowers (divya-puṣpa-vibhūṣitā), Rambhā—foremost of all apsarases (sarvāpsaro-varā rambhā)—
+In that very interval (_etasminn antare tatra_), adorned with celestial ornaments (_divyābharaṇa-bhūṣitā_) and decked with heavenly flowers (_divya-puṣpa-vibhūṣitā_), Rambhā—foremost of all apsarases (_sarvāpsaro-varā rambhā_)—
 </details>
 </details>
 
@@ -434,7 +434,7 @@ In that very interval (etasminn antare tatra), adorned with celestial ornaments 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Her limbs anointed with celestial sandalpaste (divya-candana-liptāṅgī), her tresses adorned with mandāra blossoms (mandāra-kṛta-mūrdhajā), setting forth for a heavenly festival of love (divyotsava-kṛtārambhā), her face radiant as the full moon (pūrṇa-candra-nibhānanā),
+Her limbs anointed with celestial sandalpaste (_divya-candana-liptāṅgī_), her tresses adorned with _mandāra_ blossoms (_mandāra-kṛta-mūrdhajā_), setting forth for a heavenly festival of love (_divyotsava-kṛtārambhā_), her face radiant as the full moon (_pūrṇa-candra-nibhānanā_),
 </details>
 </details>
 
@@ -465,7 +465,7 @@ Her limbs anointed with celestial sandalpaste (divya-candana-liptāṅgī), her 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bearing her eye-enchanting, full hips (cakṣur-manoharaṃ pīnaṃ ... jaghanam), graced with a girdle-garland (mekhalā-dāma-bhūṣitam), a supreme tribute to love (rati-prābhṛtam uttamam), and with moist decorative markings (kṛtair viśeṣakair ārdraiḥ) freshly fashioned from blossoms of all six seasons (ṣaḍartu-kusumodbhavaiḥ),
+Bearing her eye-enchanting, full hips (_cakṣur-manoharaṃ pīnaṃ ... jaghanam_), graced with a girdle-garland (_mekhalā-dāma-bhūṣitam_), a supreme tribute to love (_rati-prābhṛtam uttamam_), and with moist decorative markings (_kṛtair viśeṣakair ārdraiḥ_) freshly fashioned from blossoms of all six seasons (_ṣaḍartu-kusumodbhavaiḥ_),
 </details>
 </details>
 
@@ -496,7 +496,7 @@ Bearing her eye-enchanting, full hips (cakṣur-manoharaṃ pīnaṃ ... jaghana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She shone like another among the goddesses Śrī, Kānti, Dyuti, Mati, and Hrī (babhāv anyatameva śrī-kānti-dyuti-mati-hriyām), veiled in a dark-blue garment resembling a rain-laden cloud (nīlaṃ satoya-meghābhaṃ vastraṃ samavakuṇṭhitā).
+She shone like another among the goddesses Śrī, Kānti, Dyuti, Mati, and Hrī (_babhāv anyatameva śrī-kānti-dyuti-mati-hriyām_), veiled in a dark-blue garment resembling a rain-laden cloud (_nīlaṃ satoya-meghābhaṃ vastraṃ samavakuṇṭhitā_).
 </details>
 </details>
 
@@ -527,7 +527,7 @@ She shone like another among the goddesses Śrī, Kānti, Dyuti, Mati, and Hrī 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She whose face resembled the moon (yasyā vaktraṃ śaśi-nibham), whose lovely brows were shaped like bows (bhruvau cāpa-nibhe śubhe), whose thighs matched elephant trunks (ūrū kari-karākārau), and whose hands were tender as young shoots (karau pallava-komalau)—walking through the midst of the camp (sainya-madhyena gacchantī), she was spied by Rāvaṇa (rāvaṇenopavīkṣitā).
+She whose face resembled the moon (_yasyā vaktraṃ śaśi-nibham_), whose lovely brows were shaped like bows (_bhruvau cāpa-nibhe śubhe_), whose thighs matched elephant trunks (_ūrū kari-karākārau_), and whose hands were tender as young shoots (_karau pallava-komalau_)—walking through the midst of the camp (_sainya-madhyena gacchantī_), she was spied by Rāvaṇa (_rāvaṇenopavīkṣitā_).
 </details>
 </details>
 
@@ -566,7 +566,7 @@ Pierced by Cupid’s shafts, Rāvaṇa rises to seize the bashful Rambhā by the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising swiftly (samutthāya) under the thrall of Cupid’s shafts (kāma-bāṇa-vaśaṃ gataḥ), he caught by the hand (kare gṛhītvā) that passing, bashful maiden (tāṃ ... gacchantīṃ ... lajjantīm) and addressed her with a smile (smayamāno ’bhyabhāṣata):
+Rising swiftly (_samutthāya_) under the thrall of Cupid’s shafts (_kāma-bāṇa-vaśaṃ gataḥ_), he caught by the hand (_kare gṛhītvā_) that passing, bashful maiden (_tāṃ ... gacchantīṃ ... lajjantīm_) and addressed her with a smile (_smayamāno ’bhyabhāṣata_):
 </details>
 </details>
 
@@ -597,7 +597,7 @@ Rising swiftly (samutthāya) under the thrall of Cupid’s shafts (kāma-bāṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whither are you bound, O fair-hipped one (kva gacchasi varārohe)? Whose fulfillment do you yourself bestow (kāṃ siddhiṃ bhajase svayam)? Whose hour of supreme fortune is this (kasyābhyudaya-kālo ’yam), that he shall enjoy you (yas tvāṃ samupabhokṣyate)?
+“Whither are you bound, O fair-hipped one (_kva gacchasi varārohe_)? Whose fulfillment do you yourself bestow (_kāṃ siddhiṃ bhajase svayam_)? Whose hour of supreme fortune is this (_kasyābhyudaya-kālo ’yam_), that he shall enjoy you (_yas tvāṃ samupabhokṣyate_)?
 </details>
 </details>
 
@@ -628,7 +628,7 @@ Rising swiftly (samutthāya) under the thrall of Cupid’s shafts (kāma-bāṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who today shall drink his fill (ko ’dya tṛptiṃ gamiṣyati) of the nectar of your lips (tvad-ānana-rasasyādya), fragrant as red and blue lotuses (padmotpala-sugandhinaḥ), as of the immortal draught of ambrosia (sudhāmṛta-rasasyeva)?
+“Who today shall drink his fill (_ko ’dya tṛptiṃ gamiṣyati_) of the nectar of your lips (_tvad-ānana-rasasyādya_), fragrant as red and blue lotuses (_padmotpala-sugandhinaḥ_), as of the immortal draught of ambrosia (_sudhāmṛta-rasasyeva_)?
 </details>
 </details>
 
@@ -659,7 +659,7 @@ Rising swiftly (samutthāya) under the thrall of Cupid’s shafts (kāma-bāṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To whose chest shall these two lovely, full, close-set breasts of yours (pīnau śubhau bhīru nirantarau ... te kucāv imau), resembling golden pitchers (svarṇa-kumbha-nibhau), grant their embrace (kasyoras-thala-saṃsparśaṃ dāsyataḥ)?
+“To whose chest shall these two lovely, full, close-set breasts of yours (_pīnau śubhau bhīru nirantarau ... te kucāv imau_), resembling golden pitchers (_svarṇa-kumbha-nibhau_), grant their embrace (_kasyoras-thala-saṃsparśaṃ dāsyataḥ_)?
 </details>
 </details>
 
@@ -690,7 +690,7 @@ Rising swiftly (samutthāya) under the thrall of Cupid’s shafts (kāma-bāṇa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who today ascends your broad hips (adhyārohati kas te ’dya ... pṛthu ... jaghanam), like a golden wheel (suvarṇa-cakra-pratimam) decked with golden chains (svarṇa-dāma-citam), the very embodiment of heaven (svarga-rūpiṇam)?
+“Who today ascends your broad hips (_adhyārohati kas te ’dya ... pṛthu ... jaghanam_), like a golden wheel (_suvarṇa-cakra-pratimam_) decked with golden chains (_svarṇa-dāma-citam_), the very embodiment of heaven (_svarga-rūpiṇam_)?
 </details>
 </details>
 
@@ -724,7 +724,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What male today is superior to me (mad-viśiṣṭaḥ pumān ko ’dya)—whether Śakra, Viṣṇu, or the Aśvins (śakro viṣṇur athāśvinau)? That you pass me by (mām atītya) to go to another, O timid one, is not seemly (yaṃ ca tvaṃ yāsi bhīru na śobhanam)!
+“What male today is superior to me (_mad-viśiṣṭaḥ pumān ko ’dya_)—whether Śakra, Viṣṇu, or the Aśvins (_śakro viṣṇur athāśvinau_)? That you pass me by (_mām atītya_) to go to another, O timid one, is not seemly (_yaṃ ca tvaṃ yāsi bhīru na śobhanam_)!
 </details>
 </details>
 
@@ -763,7 +763,7 @@ Boasting himself supreme lord of the three worlds, Rāvaṇa begs Rambhā to acc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rest here, O broad-hipped beauty (viśrama tvaṃ pṛthu-śroṇi), upon this fair stone slab (śilātalam idaṃ śubham); for in the three worlds (trailokye), there exists no lord other than myself (yaḥ prabhuś caiva mad-anyo naiva vidyate).
+“Rest here, O broad-hipped beauty (_viśrama tvaṃ pṛthu-śroṇi_), upon this fair stone slab (_śilātalam idaṃ śubham_); for in the three worlds (_trailokye_), there exists no lord other than myself (_yaḥ prabhuś caiva mad-anyo naiva vidyate_).
 </details>
 </details>
 
@@ -794,7 +794,7 @@ Boasting himself supreme lord of the three worlds, Rāvaṇa begs Rambhā to acc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore thus with joined palms and bowed head (prāñjaliḥ prahvaḥ), Daśānana entreats you (yācate tvāṃ daśānanaḥ)—I, the lord even of the lord (bhartur bhartā) and ordainer of the three worlds (vidhātā ca trailokyasya): accept me (bhajasva mām)!”
+“Therefore thus with joined palms and bowed head (_prāñjaliḥ prahvaḥ_), Daśānana entreats you (_yācate tvāṃ daśānanaḥ_)—I, the lord even of the lord (_bhartur bhartā_) and ordainer of the three worlds (_vidhātā ca trailokyasya_): accept me (_bhajasva mām_)!”
 </details>
 </details>
 
@@ -825,7 +825,7 @@ Boasting himself supreme lord of the three worlds, Rāvaṇa begs Rambhā to acc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Rambhā trembled (vepamānā) and spoke with joined palms (kṛtāñjaliḥ): “Be gracious (prasīda)! You ought not to speak such words (nārhase vaktum īdṛśam), for you are my elder (tvaṃ hi me guruḥ).
+Thus addressed, Rambhā trembled (_vepamānā_) and spoke with joined palms (_kṛtāñjaliḥ_): “Be gracious (_prasīda_)! You ought not to speak such words (_nārhase vaktum īdṛśam_), for you are my elder (_tvaṃ hi me guruḥ_).
 </details>
 </details>
 
@@ -856,7 +856,7 @@ Thus addressed, Rambhā trembled (vepamānā) and spoke with joined palms (kṛt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, were I to face outrage from others (anyebhyo ... prāpnuyāṃ dharṣaṇaṃ yadi), it is you who should protect me (tvayā rakṣyā); for by dharma I am your daughter-in-law (tad dharmataḥ snuṣā te ’ham)—I speak to you the sheer truth (tattvam eva bravīmi te)!”
+“Indeed, were I to face outrage from others (_anyebhyo ... prāpnuyāṃ dharṣaṇaṃ yadi_), it is you who should protect me (_tvayā rakṣyā_); for by dharma I am your daughter-in-law (_tad dharmataḥ snuṣā te ’ham_)—I speak to you the sheer truth (_tattvam eva bravīmi te_)!”
 </details>
 </details>
 
@@ -887,7 +887,7 @@ Thus addressed, Rambhā trembled (vepamānā) and spoke with joined palms (kṛt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Daśagrīva spoke to her (athābravīd daśagrīvaḥ) as she stood with head bowed down toward her feet (caraṇādhomukhīṃ sthitām), her hairs standing on end in terror (roma-harṣam anuprāptām) at the very sight of him (dṛṣṭa-mātreṇa tāṃ tadā):
+Then Daśagrīva spoke to her (_athābravīd daśagrīvaḥ_) as she stood with head bowed down toward her feet (_caraṇādhomukhīṃ sthitām_), her hairs standing on end in terror (_roma-harṣam anuprāptām_) at the very sight of him (_dṛṣṭa-mātreṇa tāṃ tadā_):
 </details>
 </details>
 
@@ -921,7 +921,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you were my son’s wife (sutasya yadi me bhāryā), then indeed you would be my daughter-in-law (tatas tvaṃ hi snuṣā bhaveḥ)!” “Indeed it is so!” (bāḍham ity eva)—thus Rambhā spoke in reply to Rāvaṇa (prāha rāvaṇam uttaram):
+“If you were my son’s wife (_sutasya yadi me bhāryā_), then indeed you would be my daughter-in-law (_tatas tvaṃ hi snuṣā bhaveḥ_)!” “Indeed it is so!” (_bāḍham ity eva_)—thus Rambhā spoke in reply to Rāvaṇa (_prāha rāvaṇam uttaram_):
 </details>
 </details>
 
@@ -963,7 +963,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By dharma I am the wife of your son, O bull among rākṣasas (dharmatas te sutasyāhaṃ bhāryā rākṣasa-puṅgava): the son dearer than life itself (putraḥ priyataraḥ prāṇaiḥ) to your elder brother Vaiśravaṇa (bhrātur vaiśravaṇasya te), famed throughout the three worlds as Nalakūbara (vikhyātas triṣu lokeṣu nalakūbara ity ayam)—
+“By dharma I am the wife of your son, O bull among rākṣasas (_dharmatas te sutasyāhaṃ bhāryā rākṣasa-puṅgava_): the son dearer than life itself (_putraḥ priyataraḥ prāṇaiḥ_) to your elder brother Vaiśravaṇa (_bhrātur vaiśravaṇasya te_), famed throughout the three worlds as Nalakūbara (_vikhyātas triṣu lokeṣu nalakūbara ity ayam_)—
 </details>
 </details>
 
@@ -994,7 +994,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who in righteousness is a brahmin (dharmato yo bhaved vipraḥ), in valor a kṣatriya (kṣatriyo vīryato bhavet), who in wrath is blazing fire (krodhād yaś ca bhaved agniḥ) and in forbearance equal to the earth (kṣāntyā ca vasudhā-samaḥ)—
+“He who in righteousness is a brahmin (_dharmato yo bhaved vipraḥ_), in valor a kṣatriya (_kṣatriyo vīryato bhavet_), who in wrath is blazing fire (_krodhād yaś ca bhaved agniḥ_) and in forbearance equal to the earth (_kṣāntyā ca vasudhā-samaḥ_)—
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To that very son of the World-Guardian I have pledged a tryst (tasyāsmi kṛta-saṅketā lokapāla-sutasya vai); for his sake alone (tam uddiśya tu) have I put on all this adornment (me sarvaṃ vibhūṣaṇam idaṃ kṛtam).
+“To that very son of the World-Guardian I have pledged a tryst (_tasyāsmi kṛta-saṅketā lokapāla-sutasya vai_); for his sake alone (_tam uddiśya tu_) have I put on all this adornment (_me sarvaṃ vibhūṣaṇam idaṃ kṛtam_).
 </details>
 </details>
 
@@ -1056,7 +1056,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In like manner his heart—and no other’s—abides fixed upon me (tathā tasya hi nānyasya bhāvo māṃ prati tiṣṭhati); by that truth, O King, tamer of foes (tena satyena māṃ rājan ... arindama), you ought to release me (moktum arhasi).
+“In like manner his heart—and no other’s—abides fixed upon me (_tathā tasya hi nānyasya bhāvo māṃ prati tiṣṭhati_); by that truth, O King, tamer of foes (_tena satyena māṃ rājan ... arindama_), you ought to release me (_moktum arhasi_).
 </details>
 </details>
 
@@ -1087,7 +1087,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that righteous-souled one waits eagerly (sa hi tiṣṭhati dharmātmā ... samutsukaḥ), looking forward to my coming (māṃ pratīkṣya); you ought not to raise an obstacle here to your own son (tatra vighnaṃ sutasyeha kartuṃ nārhasi)—release me (muñca mām)!
+“For that righteous-souled one waits eagerly (_sa hi tiṣṭhati dharmātmā ... samutsukaḥ_), looking forward to my coming (_māṃ pratīkṣya_); you ought not to raise an obstacle here to your own son (_tatra vighnaṃ sutasyeha kartuṃ nārhasi_)—release me (_muñca mām_)!
 </details>
 </details>
 
@@ -1118,7 +1118,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tread the path walked by the righteous (sadbhir ācaritaṃ mārgaṃ gaccha), O bull among rākṣasas (rākṣasupuṅgava); for you are worthy of my reverence (mānanīyo mama tvaṃ hi), and I likewise am yours to protect (pālanīyā tathā ’smi te)!”
+“Tread the path walked by the righteous (_sadbhir ācaritaṃ mārgaṃ gaccha_), O bull among rākṣasas (_rākṣasupuṅgava_); for you are worthy of my reverence (_mānanīyo mama tvaṃ hi_), and I likewise am yours to protect (_pālanīyā tathā ’smi te_)!”
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ Dismissing her plea with the sophistry that apsarases have no fixed husbands in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Daśagrīva replied as though with courtesy (pratyuvāca vinītavat): “What you have spoken—‘I am your daughter-in-law’ (snuṣā ’smi yad avocas tvam)—that rule holds only among women wedded to a single husband (eka-patnīṣv ayaṃ kramaḥ).
+Thus addressed, Daśagrīva replied as though with courtesy (_pratyuvāca vinītavat_): “What you have spoken—‘I am your daughter-in-law’ (_snuṣā ’smi yad avocas tvam_)—that rule holds only among women wedded to a single husband (_eka-patnīṣv ayaṃ kramaḥ_).
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ Thus addressed, Daśagrīva replied as though with courtesy (pratyuvāca vinīta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is deemed the eternal custom of the gods in the heavenly world (devaloka-sthitir iyaṃ surāṇāṃ śāśvatī matā): apsarases have no fixed husband (patir apsarasāṃ nāsti), nor do the celestials restrict themselves to a single consort (na caika-strī-parigrahaḥ)!”
+“This is deemed the eternal custom of the gods in the heavenly world (_devaloka-sthitir iyaṃ surāṇāṃ śāśvatī matā_): apsarases have no fixed husband (_patir apsarasāṃ nāsti_), nor do the celestials restrict themselves to a single consort (_na caika-strī-parigrahaḥ_)!”
 </details>
 </details>
 
@@ -1225,7 +1225,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that rākṣasa (sa tāṃ rakṣaḥ) forced her down upon the stone slab (niveśya ca śilātale), and, consumed by sensual craving (kāma-bhogābhisaṃsaktaḥ), proceeded to violate her (maithunāyopacakrame).
+Having spoken thus, that rākṣasa (_sa tāṃ rakṣaḥ_) forced her down upon the stone slab (_niveśya ca śilātale_), and, consumed by sensual craving (_kāma-bhogābhisaṃsaktaḥ_), proceeded to violate her (_maithunāyopacakrame_).
 </details>
 </details>
 
@@ -1256,7 +1256,7 @@ Having spoken thus, that rākṣasa (sa tāṃ rakṣaḥ) forced her down upon 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released by him thereafter (sā vimuktā tato rambhā), her garlands and ornaments dislodged (bhraṣṭa-mālya-vibhūṣaṇā), Rambhā was thrown into utter disarray (ākulatāṃ gatā), like a river churned by the sport of a lordly elephant (gajendrākrīḍa-mathitā nadīva).
+Released by him thereafter (_sā vimuktā tato rambhā_), her garlands and ornaments dislodged (_bhraṣṭa-mālya-vibhūṣaṇā_), Rambhā was thrown into utter disarray (_ākulatāṃ gatā_), like a river churned by the sport of a lordly elephant (_gajendrākrīḍa-mathitā nadīva_).
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ Released by him thereafter (sā vimuktā tato rambhā), her garlands and ornamen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The ends of her tresses tossed and disheveled (lulitākula-keśāntā), her tender sprout-like hands trembling (kara-vepita-pallavā), she seemed like a flower-laden creeper (latā kusuma-śālinī) violently shaken by the wind (pavanenāvadhūteva).
+The ends of her tresses tossed and disheveled (_lulitākula-keśāntā_), her tender sprout-like hands trembling (_kara-vepita-pallavā_), she seemed like a flower-laden creeper (_latā kusuma-śālinī_) violently shaken by the wind (_pavanenāvadhūteva_).
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ The ends of her tresses tossed and disheveled (lulitākula-keśāntā), her tend
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Trembling, overwhelmed with shame, and terrified (vepamānā lajjantī bhītā), with palms joined in supplication (kara-kṛtāñjaliḥ), she reached Nalakūbara (nalakūbaram āsādya) and fell down at his feet (pādayor nipapāta ha).
+Trembling, overwhelmed with shame, and terrified (_vepamānā lajjantī bhītā_), with palms joined in supplication (_kara-kṛtāñjaliḥ_), she reached Nalakūbara (_nalakūbaram āsādya_) and fell down at his feet (_pādayor nipapāta ha_).
 </details>
 </details>
 
@@ -1357,7 +1357,7 @@ Astonished to see Rambhā prostrate and disheveled at his feet, Nalakūbara asks
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her in such a state (tad-avasthāṃ ca tāṃ dṛṣṭvā), the high-souled Nalakūbara (mahātmā nalakūbaraḥ) spoke: “What is this, gentle one (kim idaṃ bhadre)? Why have you fallen at my feet (pādayoḥ patitā ’si me)?”
+Beholding her in such a state (_tad-avasthāṃ ca tāṃ dṛṣṭvā_), the high-souled Nalakūbara (_mahātmā nalakūbaraḥ_) spoke: “What is this, gentle one (_kim idaṃ bhadre_)? Why have you fallen at my feet (_pādayoḥ patitā ’si me_)?”
 </details>
 </details>
 
@@ -1388,7 +1388,7 @@ Beholding her in such a state (tad-avasthāṃ ca tāṃ dṛṣṭvā), the hig
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā kṛtāñjaliḥ), she began to relate everything to him (tasmai sarvam ... ākhyātum upacakrame) exactly as it had happened (yathātattvam):
+Sighing deeply (_niḥśvasamānā tu_), trembling, with joined palms (_vepamānā kṛtāñjaliḥ_), she began to relate everything to him (_tasmai sarvam ... ākhyātum upacakrame_) exactly as it had happened (_yathātattvam_):
 </details>
 </details>
 
@@ -1419,7 +1419,7 @@ Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lord (deva), yonder Daśagrīva has arrived here (eṣa ... daśagrīvaḥ prāptaḥ) on his way to heaven (gantuṃ triviṣṭapam); aided by his army (sainya-sahāyena), he has spent this night here (niśeyaṃ pariṇāmitā).
+“O Lord (_deva_), yonder Daśagrīva has arrived here (_eṣa ... daśagrīvaḥ prāptaḥ_) on his way to heaven (_gantuṃ triviṣṭapam_); aided by his army (_sainya-sahāyena_), he has spent this night here (_niśeyaṃ pariṇāmitā_).
 </details>
 </details>
 
@@ -1450,7 +1450,7 @@ Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As I was coming into your presence (āyantī ... tvat-sakāśam), O subduer of foes (arindama), I was seen by him (tena dṛṣṭā ’smi); seized by that rākṣasa (gṛhītā tena ... rakṣasā), I was questioned, ‘Whose are you?’ (pṛṣṭā ’smi kasya tvam iti).
+“As I was coming into your presence (_āyantī ... tvat-sakāśam_), O subduer of foes (_arindama_), I was seen by him (_tena dṛṣṭā ’smi_); seized by that rākṣasa (_gṛhītā tena ... rakṣasā_), I was questioned, ‘Whose are you?’ (_pṛṣṭā ’smi kasya tvam iti_).
 </details>
 </details>
 
@@ -1481,7 +1481,7 @@ Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I told him all—every bit of the truth (mayā tu sarvaṃ yat satyaṃ tasmai sarvaṃ niveditam); yet, his mind overwhelmed by lust and delusion (kāma-mohābhibhūtātmā), he paid no heed to those words of mine (nāśrauṣīt tad vaco mama).
+“I told him all—every bit of the truth (_mayā tu sarvaṃ yat satyaṃ tasmai sarvaṃ niveditam_); yet, his mind overwhelmed by lust and delusion (_kāma-mohābhibhūtātmā_), he paid no heed to those words of mine (_nāśrauṣīt tad vaco mama_).
 </details>
 </details>
 
@@ -1512,7 +1512,7 @@ Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though implored by me, O Lord and Master (yācyamāno mayā deva ... prabho), with the plea ‘I am your daughter-in-law’ (snuṣā te ’ham iti), he cast all that behind his back (tat sarvaṃ pṛṣṭhataḥ kṛtvā) and violated me by force (balāt tenāsmi dharṣitā).
+“Though implored by me, O Lord and Master (_yācyamāno mayā deva ... prabho_), with the plea ‘I am your daughter-in-law’ (_snuṣā te ’ham iti_), he cast all that behind his back (_tat sarvaṃ pṛṣṭhataḥ kṛtvā_) and violated me by force (_balāt tenāsmi dharṣitā_).
 </details>
 </details>
 
@@ -1551,7 +1551,7 @@ Begging forgiveness since a woman’s strength cannot match a man’s, Rambhā m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus you ought to forgive my fault, O steadfast keeper of vows (evaṃ tvam aparādhaṃ me kṣantum arhasi suvrata); for the strength of a woman and that of a man, O gentle one, are surely not equal (na hi tulyaṃ balaṃ saumya striyāś ca puruṣasya ca)!”
+“Thus you ought to forgive my fault, O steadfast keeper of vows (_evaṃ tvam aparādhaṃ me kṣantum arhasi suvrata_); for the strength of a woman and that of a man, O gentle one, are surely not equal (_na hi tulyaṃ balaṃ saumya striyāś ca puruṣasya ca_)!”
 </details>
 </details>
 
@@ -1582,7 +1582,7 @@ Begging forgiveness since a woman’s strength cannot match a man’s, Rambhā m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this, the son of Vaiśravaṇa was filled with wrath (saṅkruddhas tadā vaiśravaṇātmajaḥ); upon hearing of that grievous outrage (dharṣaṇāṃ tāṃ parāṃ śrutvā), he entered into deep yogic meditation (dhyānaṃ sampraviveśa ha).
+Hearing this, the son of Vaiśravaṇa was filled with wrath (_saṅkruddhas tadā vaiśravaṇātmajaḥ_); upon hearing of that grievous outrage (_dharṣaṇāṃ tāṃ parāṃ śrutvā_), he entered into deep yogic meditation (_dhyānaṃ sampraviveśa ha_).
 </details>
 </details>
 
@@ -1613,7 +1613,7 @@ Hearing this, the son of Vaiśravaṇa was filled with wrath (saṅkruddhas tad�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having ascertained that deed of his (tasya tat karma vijñāya), the son of Vaiśravaṇa, after a brief moment (muhūrtāt), his eyes copper-red with fury (krodha-tāmrākṣaḥ), took water in his palm (toyaṃ jagrāha pāṇinā).
+Having ascertained that deed of his (_tasya tat karma vijñāya_), the son of Vaiśravaṇa, after a brief moment (_muhūrtāt_), his eyes copper-red with fury (_krodha-tāmrākṣaḥ_), took water in his palm (_toyaṃ jagrāha pāṇinā_).
 </details>
 </details>
 
@@ -1644,7 +1644,7 @@ Having ascertained that deed of his (tasya tat karma vijñāya), the son of Vai�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up the water and touching all his limbs in ritual purification according to ordinance (gṛhītvā salilaṃ sarvam upaspṛśya yathāvidhi), he duly loosed a terrible curse (utsasarja yathā śāpaṃ ... dāruṇam) upon the lord of rākṣasas (rākṣasendrāya):
+Taking up the water and touching all his limbs in ritual purification according to ordinance (_gṛhītvā salilaṃ sarvam upaspṛśya yathāvidhi_), he duly loosed a terrible curse (_utsasarja yathā śāpaṃ ... dāruṇam_) upon the lord of rākṣasas (_rākṣasendrāya_):
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you, unwilling, have been forcibly violated by him, O gentle one (akāmā tena yasmāt tvaṃ balād bhadre pradharṣitā), therefore he shall never again approach any other unwilling young woman (tasmāt sa yuvatīm anyāṃ nākāmām upayāsyati).
+“Since you, unwilling, have been forcibly violated by him, O gentle one (_akāmā tena yasmāt tvaṃ balād bhadre pradharṣitā_), therefore he shall never again approach any other unwilling young woman (_tasmāt sa yuvatīm anyāṃ nākāmām upayāsyati_).
 </details>
 </details>
 
@@ -1715,7 +1715,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For whenever, afflicted by lust (kāmārtaḥ), he shall violate an unwilling woman (yadā hy akāmāṃ ... dharṣayiṣyati yoṣitam), his head shall thereupon shatter into seven fragments (mūrdhā tu saptadhā tasya śakalībhavitā tadā)!”
+“For whenever, afflicted by lust (_kāmārtaḥ_), he shall violate an unwilling woman (_yadā hy akāmāṃ ... dharṣayiṣyati yoṣitam_), his head shall thereupon shatter into seven fragments (_mūrdhā tu saptadhā tasya śakalībhavitā tadā_)!”
 </details>
 </details>
 
@@ -1746,7 +1746,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that curse, blazing like kindled fire (jvalitāgni-samaprabhe), was pronounced (tasminn udāhṛte śāpe), celestial kettledrums resounded (deva-dundubhayo neduḥ), a shower of flowers fell from the sky (puṣpa-vṛṣṭiś ca khāc cyutā), and all the gods headed by the Grandsire (pitāmaha-mukhāś caiva sarve devāḥ) were filled with great joy (praharṣitāḥ),
+As that curse, blazing like kindled fire (_jvalitāgni-samaprabhe_), was pronounced (_tasminn udāhṛte śāpe_), celestial kettledrums resounded (_deva-dundubhayo neduḥ_), a shower of flowers fell from the sky (_puṣpa-vṛṣṭiś ca khāc cyutā_), and all the gods headed by the Grandsire (_pitāmaha-mukhāś caiva sarve devāḥ_) were filled with great joy (_praharṣitāḥ_),
 </details>
 </details>
 
@@ -1777,7 +1777,7 @@ As that curse, blazing like kindled fire (jvalitāgni-samaprabhe), was pronounce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the entire plight of the worlds (jñātvā loka-gatiṃ sarvām) and the coming death of that rākṣasa (tasya mṛtyuṃ ca rakṣasaḥ), the sages and ancestral manes as well (ṛṣayaḥ pitaraś caiva) attained unsurpassed delight (prītim āpur anuttamām).
+Knowing the entire plight of the worlds (_jñātvā loka-gatiṃ sarvām_) and the coming death of that rākṣasa (_tasya mṛtyuṃ ca rakṣasaḥ_), the sages and ancestral manes as well (_ṛṣayaḥ pitaraś caiva_) attained unsurpassed delight (_prītim āpur anuttamām_).
 </details>
 </details>
 
@@ -1810,9 +1810,9 @@ Knowing the entire plight of the worlds (jñātvā loka-gatiṃ sarvām) and the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**57:** Hearing that hair-raising curse (śrutvā tu sa daśagrīvas taṃ śāpaṃ romaharṣaṇam), Daśagrīva no longer entertained any thought of union with unwilling women (nārīṣu maithune bhāvaṃ nākāmāsv abhyarocayat).
+**57:** Hearing that hair-raising curse (_śrutvā tu sa daśagrīvas taṃ śāpaṃ romaharṣaṇam_), Daśagrīva no longer entertained any thought of union with unwilling women (_nārīṣu maithune bhāvaṃ nākāmāsv abhyarocayat_).
 
-**58:** All the devoted wives abducted by him (tena nītāḥ striyaḥ ... sarvāḥ pativratāḥ) attained deep joy (prītim āpuḥ) upon hearing that heart-gladdening curse (śāpaṃ śrutvā manaḥ-priyam) loosed by Nalakūbara (nalakūbara-nirmuktam).
+**58:** All the devoted wives abducted by him (_tena nītāḥ striyaḥ ... sarvāḥ pativratāḥ_) attained deep joy (_prītim āpuḥ_) upon hearing that heart-gladdening curse (_śāpaṃ śrutvā manaḥ-priyam_) loosed by Nalakūbara (_nalakūbara-nirmuktam_).
 </details>
 </details>
 

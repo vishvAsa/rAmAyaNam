@@ -81,7 +81,7 @@ aforesaid
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Kausalyā, that best of women (kausalyām pramadā-uttamām), who was lamenting in that manner (vilapantīm tathā tām), Sumitrā, steadfast in righteousness (dharme sthitā), spoke these righteous words (idam... dharmyam... vākyam abravīt):
+To Kausalyā, that best of women (_kausalyām pramadā-uttamām_), who was lamenting in that manner (_vilapantīm tathā tām_), Sumitrā, steadfast in righteousness (_dharme sthitā_), spoke these righteous words (_idam... dharmyam... vākyam abravīt_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ the foremost among men. What is the use in your lamenting in this way or in weep
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O noble lady (ārye), that son of yours is the Supreme Person (tava... sa putraḥ puruṣa-uttamaḥ), endowed with all noble virtues (sat-guṇaiḥ yuktaḥ); what need have you of lamenting thus (kim te vilapitena evam), or of weeping so piteously (kṛpaṇam ruditena vā)?
+“O noble lady (_ārye_), that son of yours is the Supreme Person (_tava... sa putraḥ puruṣa-uttamaḥ_), endowed with all noble virtues (_sat-guṇaiḥ yuktaḥ_); what need have you of lamenting thus (_kim te vilapitena evam_), or of weeping so piteously (_kṛpaṇam ruditena vā_)?
 </details>
 </details>
 
@@ -204,9 +204,9 @@ most excellent man, never deserves to be lamented."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “Since your mighty son (yaḥ tava ārye... putraḥ... mahā-balaḥ) has gone forth after renouncing the kingdom (gataḥ... tyaktvā rājyam), nobly rendering his high-souled father true to his word (sādhu kurvan mahātmānam pitaram satya-vādinam)—
+**3:** “Since your mighty son (_yaḥ tava ārye... putraḥ... mahā-balaḥ_) has gone forth after renouncing the kingdom (_gataḥ... tyaktvā rājyam_), nobly rendering his high-souled father true to his word (_sādhu kurvan mahātmānam pitaram satya-vādinam_)—
 
-**4:** “Steadfast in that righteousness which is ever rightly practised by the wise (śiṣṭaiḥ ācarite samyak śaśvat... dharme sthitaḥ) and which yields its fruit in the hereafter (pretya phala-udaye), Rāma is the foremost of men (rāmaḥ... śreṣṭhaḥ); he is never to be mourned (na sa śocyaḥ kadācana).
+**4:** “Steadfast in that righteousness which is ever rightly practised by the wise (_śiṣṭaiḥ ācarite samyak śaśvat... dharme sthitaḥ_) and which yields its fruit in the hereafter (_pretya phala-udaye_), Rāma is the foremost of men (_rāmaḥ... śreṣṭhaḥ_); he is never to be mourned (_na sa śocyaḥ kadācana_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ renders the best form of service to Rama. His conduct is beneficial to the high-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And sinless Lakṣmaṇa (lakṣmaṇaḥ... anaghaḥ), compassionate toward all beings (dayāvān sarva-bhūteṣu), ever practises the highest conduct of service toward him (vartate ca uttamām vṛttim... asmin sadā); that is the great gain of that high-souled one (lābhaḥ tasya mahātmanaḥ).
+“And sinless Lakṣmaṇa (_lakṣmaṇaḥ... anaghaḥ_), compassionate toward all beings (_dayāvān sarva-bhūteṣu_), ever practises the highest conduct of service toward him (_vartate ca uttamām vṛttim... asmin sadā_); that is the great gain of that high-souled one (_lābhaḥ tasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ accompanying your virtuous- soled son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though accustomed to happiness (sukha-ucitā) and knowing full well what hardship lies in dwelling in the forest (araṇya-vāse yat duḥkham jānantī eva), Vaidehī follows your righteous-souled son (anugacchati vaidehī dharmātmānam tava ātmajam).
+“Though accustomed to happiness (_sukha-ucitā_) and knowing full well what hardship lies in dwelling in the forest (_araṇya-vāse yat duḥkham jānantī eva_), Vaidehī follows your righteous-souled son (_anugacchati vaidehī dharmātmānam tava ātmajam_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ world?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What excellence has your son not attained (kim na prāptaḥ tava ātmajaḥ)—that lord (prabhuḥ) who causes the banner of his glory to wave throughout the world (kīrti-bhūtām patākām yaḥ loke bhramayati), being righteousness incarnate and wholly devoted to the vow of truth (dharmaḥ satya-vrata-paraḥ)?
+“What excellence has your son not attained (_kim na prāptaḥ tava ātmajaḥ_)—that lord (_prabhuḥ_) who causes the banner of his glory to wave throughout the world (_kīrti-bhūtām patākām yaḥ loke bhramayati_), being righteousness incarnate and wholly devoted to the vow of truth (_dharmaḥ satya-vrata-paraḥ_)?
 </details>
 </details>
 
@@ -426,7 +426,7 @@ able to torment Rama's body with his rays."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly recognizing Rāma’s purity and supreme majesty (vyaktam rāmasya vijñāya śaucam māhātmyam uttamam), the sun will certainly not dare to scorch his body with its rays (na gātram aṃśubhiḥ sūryaḥ saṃtāpayitum arhati).
+“Clearly recognizing Rāma’s purity and supreme majesty (_vyaktam rāmasya vijñāya śaucam māhātmyam uttamam_), the sun will certainly not dare to scorch his body with its rays (_na gātram aṃśubhiḥ sūryaḥ saṃtāpayitum arhati_).
 </details>
 </details>
 
@@ -478,7 +478,7 @@ all times , will render service to Rama"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At all seasons (sarveṣu kāleṣu), an auspicious and pleasant breeze (śivaḥ... sukhaḥ anilaḥ), issuing forth from the woodlands (kānanebhyaḥ viniḥsṛtaḥ) and tempered with due coolness and warmth (yukta-śīta-uṣṇaḥ), will attend upon Rāghava (rāghavam seviṣyati).
+“At all seasons (_sarveṣu kāleṣu_), an auspicious and pleasant breeze (_śivaḥ... sukhaḥ anilaḥ_), issuing forth from the woodlands (_kānanebhyaḥ viniḥsṛtaḥ_) and tempered with due coolness and warmth (_yukta-śīta-uṣṇaḥ_), will attend upon Rāghava (_rāghavam seviṣyati_).
 </details>
 </details>
 
@@ -533,7 +533,7 @@ like a father, the moon will refresh Rama"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Embracing that sinless one like a father (anagham... pitā iva abhipariṣvajan) as he lies asleep at night (śayānam... rātrau), the cool moon, dispeller of heat (gharma-ghnaḥ... śītaḥ candramāḥ), touching him gently (saṃspṛśan), will gladden him (hlādayiṣyati).
+“Embracing that sinless one like a father (_anagham... pitā iva abhipariṣvajan_) as he lies asleep at night (_śayānam... rātrau_), the cool moon, dispeller of heat (_gharma-ghnaḥ... śītaḥ candramāḥ_), touching him gently (_saṃspṛśan_), will gladden him (_hlādayiṣyati_).
 </details>
 </details>
 
@@ -564,7 +564,7 @@ like a father, the moon will refresh Rama"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He of mighty energy, unto whom Brahmā bestowed divine missiles (dadau ca astrāṇi divyāni yasmai brahmā mahaujase) upon beholding the lord of Dānavas, the son of Timidhvaja, slain in battle (dānava-indram hatam dṛṣṭvā timidhvaja-sutam raṇe)—
+“He of mighty energy, unto whom Brahmā bestowed divine missiles (_dadau ca astrāṇi divyāni yasmai brahmā mahaujase_) upon beholding the lord of Dānavas, the son of Timidhvaja, slain in battle (_dānava-indram hatam dṛṣṭvā timidhvaja-sutam raṇe_)—
 </details>
 </details>
 
@@ -617,7 +617,7 @@ forest as if in his own palace"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That valiant tiger among men (sa śūraḥ puruṣa-vyāghraḥ), relying upon the strength of his own arms (sva-bāhu-balam āśritaḥ), will dwell fearless in the forest just as in his own palace (asaṃtrastaḥ hi araṇye asau veśmani iva nivatsyate).
+“That valiant tiger among men (_sa śūraḥ puruṣa-vyāghraḥ_), relying upon the strength of his own arms (_sva-bāhu-balam āśritaḥ_), will dwell fearless in the forest just as in his own palace (_asaṃtrastaḥ hi araṇye asau veśmani iva nivatsyate_).
 </details>
 </details>
 
@@ -678,7 +678,7 @@ enemies fall an easy prey?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When enemies who come within the range of his arrows perish (yasya iṣu-patham āsādya vināśam yānti śatravaḥ), how could the earth fail to abide under his command (katham na pṛthivī tasya śāsane sthātum arhati)?
+“When enemies who come within the range of his arrows perish (_yasya iṣu-patham āsādya vināśam yānti śatravaḥ_), how could the earth fail to abide under his command (_katham na pṛthivī tasya śāsane sthātum arhati_)?
 </details>
 </details>
 
@@ -732,7 +732,7 @@ the forest, he will speedily regain his kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such is Rāma’s splendour and valour (yā śrīḥ śauryam ca rāmasya), and such is his auspicious strength of being (yā ca kalyāṇa-sattvatā), that upon completing his forest-residence he will swiftly regain his own kingdom (nivṛtta-araṇya-vāsaḥ svam kṣipram rājyam avāpsyati).
+“Such is Rāma’s splendour and valour (_yā śrīḥ śauryam ca rāmasya_), and such is his auspicious strength of being (_yā ca kalyāṇa-sattvatā_), that upon completing his forest-residence he will swiftly regain his own kingdom (_nivṛtta-araṇya-vāsaḥ svam kṣipram rājyam avāpsyati_).
 </details>
 </details>
 
@@ -802,9 +802,9 @@ the forest or in Ayodhya?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “For he is the sun even of the sun (sūryasya api bhavet sūryaḥ), the fire of fire (hi agneḥ agniḥ), the lord of the lord (prabhoḥ prabhuḥ), the foremost splendour of splendour (śriyāḥ śrīḥ ca bhavet agryā), the fame of fame (kīrtyāḥ kīrtiḥ), and the forbearance of forbearance itself (kṣamā-kṣamā).
+**15:** “For he is the sun even of the sun (_sūryasya api bhavet sūryaḥ_), the fire of fire (_hi agneḥ agniḥ_), the lord of the lord (_prabhoḥ prabhuḥ_), the foremost splendour of splendour (_śriyāḥ śrīḥ ca bhavet agryā_), the fame of fame (_kīrtyāḥ kīrtiḥ_), and the forbearance of forbearance itself (_kṣamā-kṣamā_).
 
-**16:** “He is the deity of deities (daivatam devatānām ca) and the best of all living beings (bhūtānām bhūta-sattamaḥ); what drawbacks or blemishes could touch him, O queen, whether in the forest or in the city (tasya ke hi aguṇāḥ devi vane vā api athavā pure)?
+**16:** “He is the deity of deities (_daivatam devatānām ca_) and the best of all living beings (_bhūtānām bhūta-sattamaḥ_); what drawbacks or blemishes could touch him, O queen, whether in the forest or in the city (_tasya ke hi aguṇāḥ devi vane vā api athavā pure_)?
 </details>
 </details>
 
@@ -861,7 +861,7 @@ of fortune another consort of Vishnu)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with the Earth, Vaidehī, and Royal Fortune (pṛthivyā saha vaidehyā śriyā ca)—accompanied by these three (tisṛbhiḥ etābhiḥ saha), Rāma, that bull among men (puruṣa-ṛṣabhaḥ... rāmaḥ), will swiftly be consecrated (kṣipram... abhiṣekṣyate).
+“Together with the Earth, Vaidehī, and Royal Fortune (_pṛthivyā saha vaidehyā śriyā ca_)—accompanied by these three (_tisṛbhiḥ etābhiḥ saha_), Rāma, that bull among men (_puruṣa-ṛṣabhaḥ... rāmaḥ_), will swiftly be consecrated (_kṣipram... abhiṣekṣyate_).
 </details>
 </details>
 
@@ -933,9 +933,9 @@ difficult for him to obtain?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “He, beholding whom going forth (niṣkrāmantam udīkṣya yam) all the people in Ayodhyā (ayodhyāyām janaḥ sarvaḥ), stricken by the surge of grief (śoka-vega-samāhataḥ), shed tears born of sorrow (duḥkha-jam visṛjati aśru)—
+**18:** “He, beholding whom going forth (_niṣkrāmantam udīkṣya yam_) all the people in Ayodhyā (_ayodhyāyām janaḥ sarvaḥ_), stricken by the surge of grief (_śoka-vega-samāhataḥ_), shed tears born of sorrow (_duḥkha-jam visṛjati aśru_)—
 
-**19:** “When Lakṣmī herself, in the form of Sītā, follows that unconquered hero (vīram gacchantam aparājitam sītā iva anugatā lakṣmīḥ) even as he goes forth wearing kuśa grass and bark-garments (kuśa-cīra-dharam), what indeed could be hard for him to attain (tasya kim nāma durlabham)?
+**19:** “When Lakṣmī herself, in the form of Sītā, follows that unconquered hero (_vīram gacchantam aparājitam sītā iva anugatā lakṣmīḥ_) even as he goes forth wearing _kuśa_ grass and bark-garments (_kuśa-cīra-dharam_), what indeed could be hard for him to attain (_tasya kim nāma durlabham_)?
 </details>
 </details>
 
@@ -982,7 +982,7 @@ the best among the holders of bow wielding arrows, sword and missiles?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When Lakṣmaṇa, the foremost of archers (dhanuḥ-graha-varaḥ... lakṣmaṇaḥ), himself bearing arrows, sword, and divine missiles (bāṇa-khaḍga-astra-bhṛt svayam), marches ahead of him (yasya... vrajati hi agre), what indeed could be hard for him to attain (tasya kim nāma durlabham)?
+“When Lakṣmaṇa, the foremost of archers (_dhanuḥ-graha-varaḥ... lakṣmaṇaḥ_), himself bearing arrows, sword, and divine missiles (_bāṇa-khaḍga-astra-bhṛt svayam_), marches ahead of him (_yasya... vrajati hi agre_), what indeed could be hard for him to attain (_tasya kim nāma durlabham_)?
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ completed the term of his exile in the forest . Abandon grief and infatuation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You shall surely behold him returned once more after completing his forest-residence (nivṛtta-vana-vāsam tam draṣṭā asi punar-āgatam); cast off grief and delusion, O queen (jahi śokam ca moham ca devi)—I speak the truth to you (satyam bravīmi te)!
+“You shall surely behold him returned once more after completing his forest-residence (_nivṛtta-vana-vāsam tam draṣṭā asi punar-āgatam_); cast off grief and delusion, O queen (_jahi śokam ca moham ca devi_)—I speak the truth to you (_satyam bravīmi te_)!
 </details>
 </details>
 
@@ -1082,7 +1082,7 @@ like the rising moon, saluting respectfully your feet, by bowing his head."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O blameless and auspicious lady (anindite... kalyāṇi), you shall again behold your son (punar drakṣyasi... putram), like the newly risen moon (candram iva uditam), bowing with his head to these two feet of yours (śirasā caraṇau etau vandamānam).
+“O blameless and auspicious lady (_anindite... kalyāṇi_), you shall again behold your son (_punar drakṣyasi... putram_), like the newly risen moon (_candram iva uditam_), bowing with his head to these two feet of yours (_śirasā caraṇau etau vandamānam_).
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ coroneted, you will be shedding soon tears of joy from your eyes "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding him entered once more into the city (punar praviṣṭam dṛṣṭvā tam) and consecrated in supreme splendour (abhiṣiktam mahā-śriyam), you shall swiftly shed from both eyes tears born of joy (samutsrakṣyasi netrābhyām śīghram ānanda-jam jalam).
+“Beholding him entered once more into the city (_punar praviṣṭam dṛṣṭvā tam_) and consecrated in supreme splendour (_abhiṣiktam mahā-śriyam_), you shall swiftly shed from both eyes tears born of joy (_samutsrakṣyasi netrābhyām śīghram ānanda-jam jalam_).
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ able to see soon your son along with Sita, accompanied by Lakshmana".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let there be neither lamentation nor heart-grief, O queen (mā śokaḥ devi duḥkham vā); nothing inauspicious can be seen in Rāma (na rāme dṛśyate aśivam). Soon you shall behold your son together with Sītā and accompanied by Lakṣmaṇa (kṣipram drakṣyasi putram tvam sa-sītam saha-lakṣmaṇam).
+“Let there be neither lamentation nor heart-grief, O queen (_mā śokaḥ devi duḥkham vā_); nothing inauspicious can be seen in Rāma (_na rāme dṛśyate aśivam_). Soon you shall behold your son together with Sītā and accompanied by Lakṣmaṇa (_kṣipram drakṣyasi putram tvam sa-sītam saha-lakṣmaṇam_).
 </details>
 </details>
 
@@ -1254,7 +1254,7 @@ are you fostering grief in your heart?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since all these people here must be consoled by you, O sinless lady (tvayā aśeṣaḥ janaḥ ca ayam samāśvāsyaḥ yataḥ anaghe), why do you now foster this agitation within your heart, O queen (kim idānīm idam devi karoṣi hṛdi viklavam)?
+“Since all these people here must be consoled by you, O sinless lady (_tvayā aśeṣaḥ janaḥ ca ayam samāśvāsyaḥ yataḥ anaghe_), why do you now foster this agitation within your heart, O queen (_kim idānīm idam devi karoṣi hṛdi viklavam_)?
 </details>
 </details>
 
@@ -1307,7 +1307,7 @@ right path in the world than Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You ought not to grieve, O queen, who have Rāghava for your son (na arhā tvam śocitum devi yasyāḥ te rāghavaḥ sutaḥ); for there is no one in the world superior to Rāma in abiding upon the path of the good (na hi rāmāt paraḥ loke vidyate sat-pathe sthitaḥ).
+“You ought not to grieve, O queen, who have Rāghava for your son (_na arhā tvam śocitum devi yasyāḥ te rāghavaḥ sutaḥ_); for there is no one in the world superior to Rāma in abiding upon the path of the good (_na hi rāmāt paraḥ loke vidyate sat-pathe sthitaḥ_).
 </details>
 </details>
 
@@ -1360,7 +1360,7 @@ like a line of clouds in a rainy season"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that son of yours surrounded by his friends and paying homage at your feet (abhivādayamānam tam dṛṣṭvā sa-suhṛdam sutam), you shall soon shed tears of joy like a line of rain-clouds in the monsoon (mudā aśru mokṣyase kṣipram megha-rekhā iva vārṣikī).
+“Beholding that son of yours surrounded by his friends and paying homage at your feet (_abhivādayamānam tam dṛṣṭvā sa-suhṛdam sutam_), you shall soon shed tears of joy like a line of rain-clouds in the monsoon (_mudā aśru mokṣyase kṣipram megha-rekhā iva vārṣikī_).
 </details>
 </details>
 
@@ -1420,7 +1420,7 @@ with his gentle but muscular hands "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your boon-bestowing son (putraḥ te varadaḥ), having swiftly returned again to Ayodhyā (kṣipram ayodhyām punar-āgataḥ), will gently press your two feet with his soft, full hands (karābhyām mṛdu-pīnābhyām caraṇau pīḍayiṣyati).
+“Your boon-bestowing son (_putraḥ te varadaḥ_), having swiftly returned again to Ayodhyā (_kṣipram ayodhyām punar-āgataḥ_), will gently press your two feet with his soft, full hands (_karābhyām mṛdu-pīnābhyām caraṇau pīḍayiṣyati_).
 </details>
 </details>
 
@@ -1476,7 +1476,7 @@ you will sprinkle tears of joy in the same way as a line of clouds pour rain on 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With joyful tears you bathe your valiant son (mudā asraiḥ prokṣase putram... śūram... sutam) as he bows in salutation with his friends (abhivādya namasyantam... sa-suhṛdam), just as a bank of clouds drenches a mountain (megha-rājiḥ iva acalam).”
+“With joyful tears you bathe your valiant son (_mudā asraiḥ prokṣase putram... śūram... sutam_) as he bows in salutation with his friends (_abhivādya namasyantam... sa-suhṛdam_), just as a bank of clouds drenches a mountain (_megha-rājiḥ iva acalam_).”
 </details>
 </details>
 
@@ -1535,7 +1535,7 @@ charming, thus consoled Rama's mother with various words and finally stopped spe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consoling her with manifold words (āśvāsayantī vividhaiḥ ca vākyaiḥ), that blameless and lovely Queen Sumitrā (anavadyā... devī sumitrā... rāmā), skilled in the art of gracious speech (vākya-upacāre kuśalā), having spoken thus to Rāma’s mother (rāmasya tām mātaram evam uktvā), fell silent (virarāma).
+Consoling her with manifold words (_āśvāsayantī vividhaiḥ ca vākyaiḥ_), that blameless and lovely Queen Sumitrā (_anavadyā... devī sumitrā... rāmā_), skilled in the art of gracious speech (_vākya-upacāre kuśalā_), having spoken thus to Rāma’s mother (_rāmasya tām mātaram evam uktvā_), fell silent (_virarāma_).
 </details>
 </details>
 
@@ -1607,7 +1607,7 @@ little water in it disappears quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon hearing those words of Lakṣmaṇa’s mother (niśamya tat lakṣmaṇa-mātṛ-vākyam), the grief within the body of Rāma’s mother, the consort of the lord of men (rāmasya mātuḥ naradeva-patnyāḥ... śarīre... śokaḥ), vanished at once (sadyaḥ... vinanāśa), like an autumn cloud holding little water (śarad-gataḥ meghaḥ iva alpa-toyaḥ).
+Upon hearing those words of Lakṣmaṇa’s mother (_niśamya tat lakṣmaṇa-mātṛ-vākyam_), the grief within the body of Rāma’s mother, the consort of the lord of men (_rāmasya mātuḥ naradeva-patnyāḥ... śarīre... śokaḥ_), vanished at once (_sadyaḥ... vinanāśa_), like an autumn cloud holding little water (_śarad-gataḥ meghaḥ iva alpa-toyaḥ_).
 </details>
 </details>
 

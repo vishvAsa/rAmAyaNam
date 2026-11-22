@@ -83,7 +83,7 @@ meaningful words to Hanuma, in order to inform him what they should do next.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the lord of Vānaras (vānareśvaraḥ), Sugrīva of mighty splendor (mahātejāḥ), spoke these words to Hanūmān, apprising him (vijñāpayan) of a purposeful course of action (arthyam):
+Thereupon the lord of Vānaras (_vānareśvaraḥ_), Sugrīva of mighty splendor (_mahātejāḥ_), spoke these words to Hanūmān, apprising him (_vijñāpayan_) of a purposeful course of action (_arthyam_):
 </details>
 </details>
 
@@ -135,7 +135,7 @@ now".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since Kumbhakarṇa has been slain and the princes (kumārāḥ) have been destroyed (niṣūditāḥ), Rāvaṇa is no longer able to sally forth in battle (upanirhāraṃ dātum) now.
+“Since Kumbhakarṇa has been slain and the princes (_kumārāḥ_) have been destroyed (_niṣūditāḥ_), Rāvaṇa is no longer able to sally forth in battle (_upanirhāraṃ dātum_) now.
 </details>
 </details>
 
@@ -193,7 +193,7 @@ their hands, rush towards Lanka quickly, in order to set ablaze the abode of Rav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever Vānaras (plavaṃgamāḥ) are possessed of mighty strength (mahābalāḥ) and swift agility (laghavaḥ)—let those foremost of leapers (plavagarṣabhāḥ) seize blazing brands (gṛhyolkāḥ) and swiftly leap upon Laṅkā!”
+“Whatever Vānaras (_plavaṃgamāḥ_) are possessed of mighty strength (_mahābalāḥ_) and swift agility (_laghavaḥ_)—let those foremost of leapers (_plavagarṣabhāḥ_) seize blazing brands (_gṛhyolkāḥ_) and swiftly leap upon Laṅkā!”
 </details>
 </details>
 
@@ -239,7 +239,7 @@ towards Lanka, with torches in their hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the sun had gone to its setting (astaṃ gate āditye) at that dreadful onset of night (raudre niśāmukhe), those bulls among Vānaras, bearing torches (solkāḥ), advanced facing straight toward Laṅkā.
+Then, when the sun had gone to its setting (_astaṃ gate āditye_) at that dreadful onset of night (_raudre niśāmukhe_), those bulls among Vānaras, bearing torches (_solkāḥ_), advanced facing straight toward Laṅkā.
 </details>
 </details>
 
@@ -285,7 +285,7 @@ sides, the diversely eyed demons who were holding the position of guards, sudden
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assailed on every side (sarvataḥ samabhidrutāḥ) by troops of monkeys with torches in their hands (ulkāhastaiḥ), the grim-eyed Rākṣasas (virūpākṣāḥ) stationed at the guard-posts (ārakṣasthāḥ) suddenly fled in panic (vipradudruvuḥ).
+Assailed on every side (_sarvataḥ samabhidrutāḥ_) by troops of monkeys with torches in their hands (_ulkāhastaiḥ_), the grim-eyed Rākṣasas (_virūpākṣāḥ_) stationed at the guard-posts (_ārakṣasthāḥ_) suddenly fled in panic (_vipradudruvuḥ_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ various byways and mansions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Highly exhilarated (saṃhṛṣṭāḥ), they hurled fire (sasṛjus te hutāśanam) upon the city gates, watchtowers, and main thoroughfares (gopurāṭṭapratolīṣu), into the diverse side-lanes (caryāsu), and upon the lofty mansions (prāsādeṣu).
+Highly exhilarated (_saṃhṛṣṭāḥ_), they hurled fire (_sasṛjus te hutāśanam_) upon the city gates, watchtowers, and main thoroughfares (_gopurāṭṭapratolīṣu_), into the diverse side-lanes (_caryāsu_), and upon the lofty mansions (_prāsādeṣu_).
 </details>
 </details>
 
@@ -385,7 +385,7 @@ fell down on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the fire (hutabhuk) burned down thousands of their dwellings (gṛhasahasrāṇi), and lofty palaces shaped like mountains (parvatākārāḥ) crashed down upon the surface of the earth (dharaṇītale).
+Then the fire (_hutabhuk_) burned down thousands of their dwellings (_gṛhasahasrāṇi_), and lofty palaces shaped like mountains (_parvatākārāḥ_) crashed down upon the surface of the earth (_dharaṇītale_).
 </details>
 </details>
 
@@ -434,7 +434,7 @@ were burnt there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Choice aloeswood (aguruḥ) burned there, as well as supreme sandalwood (paraṃ sucandanam), lustrous pearls and gems (mauktikā maṇayaḥ snigdhāḥ), diamonds (vajram), and coral (pravālakam).
+Choice aloeswood (_aguruḥ_) burned there, as well as supreme sandalwood (_paraṃ sucandanam_), lustrous pearls and gems (_mauktikā maṇayaḥ snigdhāḥ_), diamonds (_vajram_), and coral (_pravālakam_).
 </details>
 </details>
 
@@ -486,7 +486,7 @@ ornaments and weapons were burnt there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Linen fabrics (kṣaumam) burned there, along with splendid silk (kauśeyaṃ śobhanam), diverse sheep's-wool blankets (āvikaṃ vividham), woolens (aurṇam), golden vessels (kāñcanaṃ bhāṇḍam), and weaponry (āyudham).
+Linen fabrics (_kṣaumam_) burned there, along with splendid silk (_kauśeyaṃ śobhanam_), diverse sheep&#x27;s-wool blankets (_āvikaṃ vividham_), woolens (_aurṇam_), golden vessels (_kāñcanaṃ bhāṇḍam_), and weaponry (_āyudham_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ chariots were also burnt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[The fire consumed] horse-trappings and caparisons (vājibhāṇḍaparicchadam) of manifold curious workmanship (nānāvikṛtasaṃsthānam), elephant neck-ornaments and girths (gajagraiveyakakṣyāḥ), and polished chariot fittings (rathabhāṇḍāṃś ca saṃskṛtān);
+[The fire consumed] horse-trappings and caparisons (_vājibhāṇḍaparicchadam_) of manifold curious workmanship (_nānāvikṛtasaṃsthānam_), elephant neck-ornaments and girths (_gajagraiveyakakṣyāḥ_), and polished chariot fittings (_rathabhāṇḍāṃś ca saṃskṛtān_);
 </details>
 </details>
 
@@ -602,9 +602,9 @@ bow-strings, arrows, lances, goads and javelins were burnt there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** the body-armor of warriors (tanutrāṇi ca yodhānām) and the mail of elephants and horses (hastyaśvānāṃ ca varma), along with swords, bows, bowstrings, arrows, lances, goads, and javelins (tomarāṅkuśaśaktayaḥ);
+**11:** the body-armor of warriors (_tanutrāṇi ca yodhānām_) and the mail of elephants and horses (_hastyaśvānāṃ ca varma_), along with swords, bows, bowstrings, arrows, lances, goads, and javelins (_tomarāṅkuśaśaktayaḥ_);
 
-**12:** abundant pelts of hair and tail-fur (romajaṃ vālajaṃ carma), tiger-skins (vyāghrajam), and bird-derived musk (āṇḍajam), as well as palaces picturesque with pearls and gems (muktāmaṇivicitrān) on every side.
+**12:** abundant pelts of hair and tail-fur (_romajaṃ vālajaṃ carma_), tiger-skins (_vyāghrajam_), and bird-derived musk (_āṇḍajam_), as well as palaces picturesque with pearls and gems (_muktāmaṇivicitrān_) on every side.
 </details>
 </details>
 
@@ -663,9 +663,9 @@ and gems and various kinds of stores of arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** There the fire burned diverse stores of missiles (astrasaṃghātān), and at that time the oblation-eater (hutabhuk) consumed manifold and variegated mansions (nānāvidhān gṛhāṃś citrān).
+**13:** There the fire burned diverse stores of missiles (_astrasaṃghātān_), and at that time the oblation-eater (_hutabhuk_) consumed manifold and variegated mansions (_nānāvidhān gṛhāṃś citrān_).
 
-**14:** [It burned] the dwellings (āvāsān) of all the Rākṣasas who were passionately attached to their homes (gṛhagṛdhnunām), who wore gold-embroidered armor (hemacitratanutrāṇām), and who bore garlands, ornaments, and fine raiments (sragbhāṇḍāmbaradhāriṇām);
+**14:** [It burned] the dwellings (_āvāsān_) of all the Rākṣasas who were passionately attached to their homes (_gṛhagṛdhnunām_), who wore gold-embroidered armor (_hemacitratanutrāṇām_), and who bore garlands, ornaments, and fine raiments (_sragbhāṇḍāmbaradhāriṇām_);
 </details>
 </details>
 
@@ -706,11 +706,11 @@ and gems and various kinds of stores of arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** whose eyes rolled from drinking spirits (sīdhupānacalākṣāṇām), who walked with a reeling gait from intoxication (madavihvalagāminām), whose garments were clung to by their beloveds (kāntālambitavastrāṇām), and whose wrath was kindled against their foes (śatrusaṃjātamanyunām);
+**15:** whose eyes rolled from drinking spirits (_sīdhupānacalākṣāṇām_), who walked with a reeling gait from intoxication (_madavihvalagāminām_), whose garments were clung to by their beloveds (_kāntālambitavastrāṇām_), and whose wrath was kindled against their foes (_śatrusaṃjātamanyunām_);
 
-**16:** who held maces, pikes, and swords in their hands (gadāśūlāsihastānām), even as they were feasting and drinking (khādatāṃ pibatām api), or lying fast asleep (prasuptānām) with their beloveds upon costly couches (śayaneṣu mahārheṣu);
+**16:** who held maces, pikes, and swords in their hands (_gadāśūlāsihastānām_), even as they were feasting and drinking (_khādatāṃ pibatām api_), or lying fast asleep (_prasuptānām_) with their beloveds upon costly couches (_śayaneṣu mahārheṣu_);
 
-**17:** and who, terror-stricken (trastānām), were hastening away swiftly in every direction (gacchatāṃ tūrṇaṃ sarvataḥ) after snatching up their sons (putrān ādāya)—hundreds of thousands (śatasahasrāṇi) of [the homes of] those inhabitants of Laṅkā
+**17:** and who, terror-stricken (_trastānām_), were hastening away swiftly in every direction (_gacchatāṃ tūrṇaṃ sarvataḥ_) after snatching up their sons (_putrān ādāya_)—hundreds of thousands (_śatasahasrāṇi_) of [the homes of] those inhabitants of Laṅkā
 </details>
 </details>
 
@@ -791,11 +791,11 @@ again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** did the purifying fire burn down (adahat pāvakaḥ) there, blazing up again and again (jajvāla ca punaḥ punaḥ)—[mansions] rich in substance (sāravanti), of immense value (mahārhāṇi), and endowed with profound architectural excellence (gambhīraguṇavanti).
+**18:** did the purifying fire burn down (_adahat pāvakaḥ_) there, blazing up again and again (_jajvāla ca punaḥ punaḥ_)—[mansions] rich in substance (_sāravanti_), of immense value (_mahārhāṇi_), and endowed with profound architectural excellence (_gambhīraguṇavanti_).
 
-**19:** [The fire consumed mansions] adorned with golden moons and crescents (hemacandrārdhacandrāṇi), towering with rooftop pavilions (candraśālonnatāni), fitted with picturesque lattice-windows (citragavākṣāṇi), and complete with sitting-platforms on every side (sādhiṣṭhānāni sarvaśaḥ);
+**19:** [The fire consumed mansions] adorned with golden moons and crescents (_hemacandrārdhacandrāṇi_), towering with rooftop pavilions (_candraśālonnatāni_), fitted with picturesque lattice-windows (_citragavākṣāṇi_), and complete with sitting-platforms on every side (_sādhiṣṭhānāni sarvaśaḥ_);
 
-**20:** variegated with gems and coral (maṇividrumacitrāṇi), seeming to touch the sun (spṛśantīva divākaram), and resounding with the notes (niḥsvanaiḥ) of curlews, peacocks, lutes (krauñcabarhiṇavīṇānām), and tinkling ornaments (bhūṣaṇānām)—
+**20:** variegated with gems and coral (_maṇividrumacitrāṇi_), seeming to touch the sun (_spṛśantīva divākaram_), and resounding with the notes (_niḥsvanaiḥ_) of curlews, peacocks, lutes (_krauñcabarhiṇavīṇānām_), and tinkling ornaments (_bhūṣaṇānām_)—
 </details>
 </details>
 
@@ -854,7 +854,7 @@ veena the Indian lute and the jingling of ornaments as also appearing like mount
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that fire burned down those mountain-like mansions (acalābhāni veśmāni) echoing with music (nāditāni); and the arched gateways (toraṇāni) enveloped by flames (jvalanena parītāni) shone brightly,
+that fire burned down those mountain-like mansions (_acalābhāni veśmāni_) echoing with music (_nāditāni_); and the arched gateways (_toraṇāni_) enveloped by flames (_jvalanena parītāni_) shone brightly,
 </details>
 </details>
 
@@ -900,7 +900,7 @@ lightning, at the end of a summer season.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like banks of clouds at the close of summer (meghajālāni gharmage) wreathed with flashes of lightning (vidyudbhir iva naddhāni); and the houses encircled by fire (jvalanena parītāni gṛhāṇi) blazed forth,
+like banks of clouds at the close of summer (_meghajālāni gharmage_) wreathed with flashes of lightning (_vidyudbhir iva naddhāni_); and the houses encircled by fire (_jvalanena parītāni gṛhāṇi_) blazed forth,
 </details>
 </details>
 
@@ -949,7 +949,7 @@ a forest-fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like the summits of a mighty mountain (śikharāṇi mahāgireḥ) kindled by a forest conflagration (dāvāgnidīptāni yathā); and noble women (varāṅganāḥ) who had been sleeping in the seven-storied palaces (vimāneṣu prasuptāḥ), now scorched by the flames (dahyamānāḥ),
+like the summits of a mighty mountain (_śikharāṇi mahāgireḥ_) kindled by a forest conflagration (_dāvāgnidīptāni yathā_); and noble women (_varāṅganāḥ_) who had been sleeping in the seven-storied palaces (_vimāneṣu prasuptāḥ_), now scorched by the flames (_dahyamānāḥ_),
 </details>
 </details>
 
@@ -1003,7 +1003,7 @@ seven-storeyed mansions, gave up all connection with their ornaments and screame
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-cast off their sets of ornaments (tyaktābharaṇasaṃyogāḥ) and cried out aloud, “Alas! Alas!” (hāhety uccair vicukruśuḥ); and there even the grand edifices (bhavanāny api) engulfed by fire crashed down (nipetuḥ).
+cast off their sets of ornaments (_tyaktābharaṇasaṃyogāḥ_) and cried out aloud, “Alas! Alas!” (_hāhety uccair vicukruśuḥ_); and there even the grand edifices (_bhavanāny api_) engulfed by fire crashed down (_nipetuḥ_).
 </details>
 </details>
 
@@ -1060,7 +1060,7 @@ struck by the thunder-bolt of Indra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the summits of a mighty mountain (śikharāṇi mahāgireḥ) struck by the thunderbolt of Indra (vajrivajrahatānīva), those [mansions] being consumed by fire (nirdahyamānāni) shone afar (dūrataḥ pracakāśire),
+Like the summits of a mighty mountain (_śikharāṇi mahāgireḥ_) struck by the thunderbolt of Indra (_vajrivajrahatānīva_), those [mansions] being consumed by fire (_nirdahyamānāni_) shone afar (_dūrataḥ pracakāśire_),
 </details>
 </details>
 
@@ -1106,7 +1106,7 @@ consumed by fire on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like the peaks of Himavān (himavacchikharāṇīva) blazing on every side (dahyamānāni sarvaśaḥ); and through the burning palace-terraces (harmyāgraiḥ) kindled with sheets of flame (jvālāprajvalitaiḥ),
+like the peaks of Himavān (_himavacchikharāṇīva_) blazing on every side (_dahyamānāni sarvaśaḥ_); and through the burning palace-terraces (_harmyāgraiḥ_) kindled with sheets of flame (_jvālāprajvalitaiḥ_),
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ looked like Kimshuka trees in full bloom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laṅkā appeared by night as though covered with flowering kiṃśuka trees (puṣpitair iva kiṃśukaiḥ); and with elephants turned loose by the elephant-keepers (hastyadhyakṣair gajair muktaiḥ) and steeds set free as well (muktaiś ca turagair api), Laṅkā became like the ocean with its sea-monsters whirling in panic at the end of the world (lokānte bhrāntagrāha ivārṇavaḥ).
+Laṅkā appeared by night as though covered with flowering _kiṃśuka_ trees (_puṣpitair iva kiṃśukaiḥ_); and with elephants turned loose by the elephant-keepers (_hastyadhyakṣair gajair muktaiḥ_) and steeds set free as well (_muktaiś ca turagair api_), Laṅkā became like the ocean with its sea-monsters whirling in panic at the end of the world (_lokānte bhrāntagrāha ivārṇavaḥ_).
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ world-cycle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing a loose horse, an elephant in some places shrank back in terror (bhīto 'pasarpati); and in other places a terrified horse, beholding a frightened elephant, wheeled around (nivartate).
+Seeing a loose horse, an elephant in some places shrank back in terror (_bhīto &#x27;pasarpati_); and in other places a terrified horse, beholding a frightened elephant, wheeled around (_nivartate_).
 </details>
 </details>
 
@@ -1253,7 +1253,7 @@ seeing a frightened elephant, a horse turned back with an alarm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Laṅkā burned (laṅkāyāṃ dahyamānāyām), the great ocean (mahodadhiḥ), its waters mingled with the fiery reflection (chāyāsaṃsaktasalilaḥ), shone like a sea of crimson water (lohitoda ivārṇavaḥ).
+As Laṅkā burned (_laṅkāyāṃ dahyamānāyām_), the great ocean (_mahodadhiḥ_), its waters mingled with the fiery reflection (_chāyāsaṃsaktasalilaḥ_), shone like a sea of crimson water (_lohitoda ivārṇavaḥ_).
 </details>
 </details>
 
@@ -1305,7 +1305,7 @@ waters, assumed like a great sea with red waters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Set ablaze by the monkeys (haribhir dīpitā), that city within an hour (muhūrtena) became like the earth in flames (pradīpteva vasundharā) at the dreadful dissolution of this world (lokasyāsya kṣaye ghore).
+Set ablaze by the monkeys (_haribhir dīpitā_), that city within an hour (_muhūrtena_) became like the earth in flames (_pradīpteva vasundharā_) at the dreadful dissolution of this world (_lokasyāsya kṣaye ghore_).
 </details>
 </details>
 
@@ -1362,7 +1362,7 @@ earth burning at the time of terrific dissolution of this world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wailing (svanaḥ) of the womenfolk (nārījanasya), enveloped in smoke (dhūmena vyāptasya), scorched by the flames (jvalanataptasya), and crying out at the top of their voices (uccair vineduṣaḥ), was heard for a hundred yojanas (śatayojanam).
+The wailing (_svanaḥ_) of the womenfolk (_nārījanasya_), enveloped in smoke (_dhūmena vyāptasya_), scorched by the flames (_jvalanataptasya_), and crying out at the top of their voices (_uccair vineduṣaḥ_), was heard for a hundred _yojanas_ (_śatayojanam_).
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ loudly, was heard upto one hundred Yojanas (or eight hundred miles).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the monkeys, eager for battle (harayo 'tha yuyutsavaḥ), suddenly leaped (sahasā hy utpatanti sma) upon the other Rākṣasas who emerged outside (nirgatān bahiḥ) with their bodies scorched (pradagdhakāyān).
+Then the monkeys, eager for battle (_harayo &#x27;tha yuyutsavaḥ_), suddenly leaped (_sahasā hy utpatanti sma_) upon the other Rākṣasas who emerged outside (_nirgatān bahiḥ_) with their bodies scorched (_pradagdhakāyān_).
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ bodies had been severely burnt and who rushed out (to save their lives).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The war-cry of the Vānaras (udghuṣṭaṃ vānarāṇām) and the roar of the Rākṣasas (rākṣasānāṃ ca niḥsvanam) made the ten directions, the ocean, and the earth resound (vyanādayat).
+The war-cry of the Vānaras (_udghuṣṭaṃ vānarāṇām_) and the roar of the Rākṣasas (_rākṣasānāṃ ca niḥsvanam_) made the ten directions, the ocean, and the earth resound (_vyanādayat_).
 </details>
 </details>
 
@@ -1510,7 +1510,7 @@ all the ten quarters, the ocean and the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, those two great-souled brothers, Rāma and Lakṣmaṇa, freed of their arrow-wounds (viśalyau), imperturbably (asambhrāntau) took up their two excellent bows (te ubhe dhanuṣī vare).
+Meanwhile, those two great-souled brothers, Rāma and Lakṣmaṇa, freed of their arrow-wounds (_viśalyau_), imperturbably (_asambhrāntau_) took up their two excellent bows (_te ubhe dhanuṣī vare_).
 </details>
 </details>
 
@@ -1559,7 +1559,7 @@ Lakshmana seized hold of those two excellent bows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma twanged his supreme bow (visphārayāmāsa dhanur uttamam), and there arose a tumultuous sound (tumulaḥ śabdaḥ) striking terror into the Rākṣasas (rākṣasānāṃ bhayāvahaḥ).
+Thereupon Rāma twanged his supreme bow (_visphārayāmāsa dhanur uttamam_), and there arose a tumultuous sound (_tumulaḥ śabdaḥ_) striking terror into the Rākṣasas (_rākṣasānāṃ bhayāvahaḥ_).
 </details>
 </details>
 
@@ -1605,7 +1605,7 @@ terror in demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing his mighty bow (dhanur visphārayan mahat), Rāma then shone forth like the wrathful Lord Bhava (bhagavān iva saṃkruddho bhavaḥ) [wielding] his Veda-constituted bow (vedamayaṃ dhanuḥ).
+Drawing his mighty bow (_dhanur visphārayan mahat_), Rāma then shone forth like the wrathful Lord Bhava (_bhagavān iva saṃkruddho bhavaḥ_) [wielding] his Veda-constituted bow (_vedamayaṃ dhanuḥ_).
 </details>
 </details>
 
@@ -1661,7 +1661,7 @@ dissolution of the Universe).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surpassing both those sounds (tāv ubhau śabdāv ati)—the war-cry of the Vānaras (udghuṣṭaṃ vānarāṇām) and the roar of the Rākṣasas (rākṣasānāṃ ca niḥsvanam)—the twang of Rāma's bowstring (jyāśabdo rāmasya) was heard (śuśruve).
+Surpassing both those sounds (_tāv ubhau śabdāv ati_)—the war-cry of the Vānaras (_udghuṣṭaṃ vānarāṇām_) and the roar of the Rākṣasas (_rākṣasānāṃ ca niḥsvanam_)—the twang of Rāma&#x27;s bowstring (_jyāśabdo rāmasya_) was heard (_śuśruve_).
 </details>
 </details>
 
@@ -1716,7 +1716,7 @@ sound of the monkeys and the cry of the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The clamor of the Vānaras' war-cries (vānarodghuṣṭaghoṣaḥ), the roaring of the Rākṣasas (rākṣasānāṃ ca niḥsvanaḥ), and the twang of Rāma's bowstring—this triad (trayam) pervaded the ten directions (vyāpa diśo daśa).
+The clamor of the Vānaras&#x27; war-cries (_vānarodghuṣṭaghoṣaḥ_), the roaring of the Rākṣasas (_rākṣasānāṃ ca niḥsvanaḥ_), and the twang of Rāma&#x27;s bowstring—this triad (_trayam_) pervaded the ten directions (_vyāpa diśo daśa_).
 </details>
 </details>
 
@@ -1772,7 +1772,7 @@ bow-string these three sounds pervaded all the ten quarters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the arrows loosed from his bow (tasya kārmukanirmuktaiḥ śaraiḥ), the gateway of that city (tatpuragopuram), resembling a peak of Mount Kailāsa (kailāsaśṛṅgapratimam), fell shattered upon the ground (vikīrṇam abhavad bhuvi).
+By the arrows loosed from his bow (_tasya kārmukanirmuktaiḥ śaraiḥ_), the gateway of that city (_tatpuragopuram_), resembling a peak of Mount Kailāsa (_kailāsaśṛṅgapratimam_), fell shattered upon the ground (_vikīrṇam abhavad bhuvi_).
 </details>
 </details>
 
@@ -1824,7 +1824,7 @@ peak of Mount Kailasa, tumbled down, shattered, to the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding Rāma's arrows (rāmaśarān dṛṣṭvā) among the seven-storied palaces and houses (vimāneṣu gṛheṣu ca), a tumultuous arming for battle (saṃnāhas tumulaḥ) arose among the Rākṣasa chiefs (rākṣasendrāṇām).
+Then, beholding Rāma&#x27;s arrows (_rāmaśarān dṛṣṭvā_) among the seven-storied palaces and houses (_vimāneṣu gṛheṣu ca_), a tumultuous arming for battle (_saṃnāhas tumulaḥ_) arose among the Rākṣasa chiefs (_rākṣasendrāṇām_).
 </details>
 </details>
 
@@ -1871,7 +1871,7 @@ houses, the war-preparedness of the leaders of demons got disturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As those Rākṣasa lords were donning their armor (saṃnahyamānānām) and uttering lion-roars (siṃhanādaṃ ca kurvatām), the night (śarvarī) became like the dreadful night of universal destruction (raudrīva samapadyata).
+As those Rākṣasa lords were donning their armor (_saṃnahyamānānām_) and uttering lion-roars (_siṃhanādaṃ ca kurvatām_), the night (_śarvarī_) became like the dreadful night of universal destruction (_raudrīva samapadyata_).
 </details>
 </details>
 
@@ -1928,7 +1928,7 @@ destruction).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by the great-souled Sugrīva (ādiṣṭāḥ sugrīveṇa mahātmanā), those Vānara chiefs [were told]: “Reaching the nearest gate (āsannaṃ dvāram āsādya), fight on, O Vānaras (yudhyadhvaṃ ca plavaṃgamāḥ)!
+Commanded by the great-souled Sugrīva (_ādiṣṭāḥ sugrīveṇa mahātmanā_), those Vānara chiefs [were told]: “Reaching the nearest gate (_āsannaṃ dvāram āsādya_), fight on, O Vānaras (_yudhyadhvaṃ ca plavaṃgamāḥ_)!
 </details>
 </details>
 
@@ -1967,7 +1967,7 @@ Sugrīva decrees summary execution for any deserter, and as torch-bearing Vānar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whoever among you (yaś ca vaḥ), stationed at his post (tatra tatrāpy upasthitaḥ), should act falsely (vitathaṃ kuryāt), that violator of the king's command (rājaśāsanadūṣakaḥ) must be leaped upon and slain (hantavyo 'bhisamplutya)!”
+“And whoever among you (_yaś ca vaḥ_), stationed at his post (_tatra tatrāpy upasthitaḥ_), should act falsely (_vitathaṃ kuryāt_), that violator of the king&#x27;s command (_rājaśāsanadūṣakaḥ_) must be leaped upon and slain (_hantavyo &#x27;bhisamplutya_)!”
 </details>
 </details>
 
@@ -2019,7 +2019,7 @@ royal command."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those Vānara chiefs, their hands ablaze with flaming torches (dīptolkojjvalapāṇiṣu), stood blocking the gateway (sthiteṣu dvāram āśritya), wrath entered into Rāvaṇa (rāvaṇaṃ krodha āviśat).
+While those Vānara chiefs, their hands ablaze with flaming torches (_dīptolkojjvalapāṇiṣu_), stood blocking the gateway (_sthiteṣu dvāram āśritya_), wrath entered into Rāvaṇa (_rāvaṇaṃ krodha āviśat_).
 </details>
 </details>
 
@@ -2065,7 +2065,7 @@ hands, Ravana was enraged with fury.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From his yawning and the tossing of his limbs (tasya jṛmbhitavikṣepāt), the ten directions grew confounded (vyāmiśrā vai diśo daśa), and wrath seemed to appear in bodily form (rūpavān iva manyuḥ) upon his limbs like that of Rudra (rudrasya).
+From his yawning and the tossing of his limbs (_tasya jṛmbhitavikṣepāt_), the ten directions grew confounded (_vyāmiśrā vai diśo daśa_), and wrath seemed to appear in bodily form (_rūpavān iva manyuḥ_) upon his limbs like that of Rudra (_rudrasya_).
 </details>
 </details>
 
@@ -2113,7 +2113,7 @@ appearing with a form.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed with rage (saṃkruddhaḥ), he dispatched both Kumbha and Nikumbha (sa kumbhaṃ ca nikumbhaṃ ca), the two sons of Kumbhakarṇa (kumbhakarṇātmajāv ubhau), together with numerous Rākṣasas (rākṣasair bahubhiḥ saha).
+Incensed with rage (_saṃkruddhaḥ_), he dispatched both Kumbha and Nikumbha (_sa kumbhaṃ ca nikumbhaṃ ca_), the two sons of Kumbhakarṇa (_kumbhakarṇātmajāv ubhau_), together with numerous Rākṣasas (_rākṣasair bahubhiḥ saha_).
 </details>
 </details>
 
@@ -2162,7 +2162,7 @@ with a multitude of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yūpākṣa, Śoṇitākṣa, Prajaṅgha, and Kampana as well marched forth (niryayuḥ) alongside the two sons of Kumbhakarṇa (kaumbhakarṇibhyāṃ saha) at Rāvaṇa's command (rāvaṇaśāsanāt).
+Yūpākṣa, Śoṇitākṣa, Prajaṅgha, and Kampana as well marched forth (_niryayuḥ_) alongside the two sons of Kumbhakarṇa (_kaumbhakarṇibhyāṃ saha_) at Rāvaṇa&#x27;s command (_rāvaṇaśāsanāt_).
 </details>
 </details>
 
@@ -2211,7 +2211,7 @@ aforesaid sons of Kumbhakarna set out for the battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And uttering a lion-roar (siṃhanādaṃ ca nādayan), he commanded all those Rākṣasas of mighty strength (śaśāsa caiva tān sarvān rākṣasān): “O Rākṣasas, go forth this very instant (gacchatādyaiva)!”
+And uttering a lion-roar (_siṃhanādaṃ ca nādayan_), he commanded all those Rākṣasas of mighty strength (_śaśāsa caiva tān sarvān rākṣasān_): “O Rākṣasas, go forth this very instant (_gacchatādyaiva_)!”
 </details>
 </details>
 
@@ -2265,7 +2265,7 @@ bellowing a lion's roar."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by him (coditās tena), those heroic Rākṣasas with blazing weapons (jvalitāyudhāḥ) marched forth from Laṅkā (laṅkāyā niryayur vīrāḥ), roaring again and again (praṇadantaḥ punaḥ punaḥ).
+Impelled by him (_coditās tena_), those heroic Rākṣasas with blazing weapons (_jvalitāyudhāḥ_) marched forth from Laṅkā (_laṅkāyā niryayur vīrāḥ_), roaring again and again (_praṇadantaḥ punaḥ punaḥ_).
 </details>
 </details>
 
@@ -2317,7 +2317,7 @@ repeatedly, sallied forth from Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the rays resting upon the ornaments of the Rākṣasas (rakṣasāṃ bhūṣaṇasthābhir bhābhiḥ) and by their own native luster (svābhiś ca), they—along with the monkeys and their fires (harayaś cāgnibhiḥ saha)—made the firmament radiant on every side (cakrus te saprabhaṃ vyoma).
+By the rays resting upon the ornaments of the Rākṣasas (_rakṣasāṃ bhūṣaṇasthābhir bhābhiḥ_) and by their own native luster (_svābhiś ca_), they—along with the monkeys and their fires (_harayaś cāgnibhiḥ saha_)—made the firmament radiant on every side (_cakrus te saprabhaṃ vyoma_).
 </details>
 </details>
 
@@ -2367,7 +2367,7 @@ monkeys with their fires, made the sky fluorescent on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There the luster of the lord of stars (tārādhipasyābhā), the radiance of the stars themselves (tārāṇāṃ bhā), and the sheen of the ornaments of both hosts (tayor ābharaṇābhā ca), flaring up, illuminated the sky (dyām abhāsayat).
+There the luster of the lord of stars (_tārādhipasyābhā_), the radiance of the stars themselves (_tārāṇāṃ bhā_), and the sheen of the ornaments of both hosts (_tayor ābharaṇābhā ca_), flaring up, illuminated the sky (_dyām abhāsayat_).
 </details>
 </details>
 
@@ -2417,7 +2417,7 @@ ornaments of both the armies, while blazing, made the sky brilliant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Moonlight, ornament-luster, and the radiance of blazing houses (grahāṇāṃ jvalatāṃ ca bhā) illuminated the monkey and Rākṣasa armies (harirākṣasasainyāni bhrājayāmāsa) on all sides.
+Moonlight, ornament-luster, and the radiance of blazing houses (_grahāṇāṃ jvalatāṃ ca bhā_) illuminated the monkey and Rākṣasa armies (_harirākṣasasainyāni bhrājayāmāsa_) on all sides.
 </details>
 </details>
 
@@ -2472,7 +2472,7 @@ the blazing planets made the armies of monkeys and demons glitter on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there, with its waters mingled with the gleams (bhābhiḥ saṃsaktasalilaḥ) of the half-burning mansions (ardhapradīptānāṃ gṛhāṇām), the ocean with its tossing waves (calormiḥ sāgaraḥ) shone all the more (śuśubhe 'dhikam).
+And there, with its waters mingled with the gleams (_bhābhiḥ saṃsaktasalilaḥ_) of the half-burning mansions (_ardhapradīptānāṃ gṛhāṇām_), the ocean with its tossing waves (_calormiḥ sāgaraḥ_) shone all the more (_śuśubhe &#x27;dhikam_).
 </details>
 </details>
 
@@ -2535,9 +2535,9 @@ agitated waves mingled with water, shone abundantly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**54:** [Equipped] with banners and standards (patākādhvajasaṃyuktam), supreme swords and battle-axes (uttamāsiparaśvadham), formidable steeds, chariots, and elephants (bhīmāśvarathamātaṅgam), and thronging with diverse foot-soldiers (nānāpattisamākulam),
+**54:** [Equipped] with banners and standards (_patākādhvajasaṃyuktam_), supreme swords and battle-axes (_uttamāsiparaśvadham_), formidable steeds, chariots, and elephants (_bhīmāśvarathamātaṅgam_), and thronging with diverse foot-soldiers (_nānāpattisamākulam_),
 
-**55:** that formidable Rākṣasa host (tad rākṣasabalaṃ bhīmam), of dreadful valor and prowess (ghoravikramapauruṣam), with blazing pikes, maces, swords, lances, javelins, and bows (dīptaśūlagadākhaḍgaprāsatomarakārmukam),
+**55:** that formidable Rākṣasa host (_tad rākṣasabalaṃ bhīmam_), of dreadful valor and prowess (_ghoravikramapauruṣam_), with blazing pikes, maces, swords, lances, javelins, and bows (_dīptaśūlagadākhaḍgaprāsatomarakārmukam_),
 </details>
 </details>
 
@@ -2574,9 +2574,9 @@ agitated waves mingled with water, shone abundantly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**56:** came into view (dadṛśe), with flaming darts (jvalitaprāsam), resounding with hundreds of small bells (kiṅkiṇīśatanāditam), its warriors' arms decked with golden lattices (hemajālācitabhujam), and brandishing battle-axes (vyāveṣṭitaparaśvadham);
+**56:** came into view (_dadṛśe_), with flaming darts (_jvalitaprāsam_), resounding with hundreds of small bells (_kiṅkiṇīśatanāditam_), its warriors&#x27; arms decked with golden lattices (_hemajālācitabhujam_), and brandishing battle-axes (_vyāveṣṭitaparaśvadham_);
 
-**57:** whirling mighty weapons (vyāghūrṇitamahāśastram), with bows fitted with arrows (bāṇasaṃsaktakārmukam), and perfuming the great wind with the overflow of unguents, garlands, and wine (gandhamālyamadhūtsekasammoditamahānilam).
+**57:** whirling mighty weapons (_vyāghūrṇitamahāśastram_), with bows fitted with arrows (_bāṇasaṃsaktakārmukam_), and perfuming the great wind with the overflow of unguents, garlands, and wine (_gandhamālyamadhūtsekasammoditamahānilam_).
 </details>
 </details>
 
@@ -2641,7 +2641,7 @@ garlands and wine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that dreadful and unassailable army of the Rākṣasas (tad dṛṣṭvā balam rākṣasānāṃ durāsadam)—terrifying, thronged with heroic warriors (śūrajanākīrṇam), and roaring like a mighty thundercloud (mahāmbudharaniḥsvanam)—as it advanced (āyātam),
+Beholding that dreadful and unassailable army of the Rākṣasas (_tad dṛṣṭvā balam rākṣasānāṃ durāsadam_)—terrifying, thronged with heroic warriors (_śūrajanākīrṇam_), and roaring like a mighty thundercloud (_mahāmbudharaniḥsvanam_)—as it advanced (_āyātam_),
 </details>
 </details>
 
@@ -2697,7 +2697,7 @@ noise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the host of the Vānaras stirred into motion (saṃcacāla plavaṃgānāṃ balam) and roared aloud (uccair nanāda ca); and leaping forward again with speed (javenāplutya ca punaḥ), that mighty army of the Rākṣasas
+the host of the Vānaras stirred into motion (_saṃcacāla plavaṃgānāṃ balam_) and roared aloud (_uccair nanāda ca_); and leaping forward again with speed (_javenāplutya ca punaḥ_), that mighty army of the Rākṣasas
 </details>
 </details>
 
@@ -2751,7 +2751,7 @@ the hostile army, as moths towards a flame.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-charged against the opposing host (abhyayāt pratyaribalam) like moths into a flame (pataṃgā iva pāvakam); and with its iron clubs and thunderbolts brandished by the sweep of their arms (bhujaparāmarśavyāmṛṣṭaparighāśani),
+charged against the opposing host (_abhyayāt pratyaribalam_) like moths into a flame (_pataṃgā iva pāvakam_); and with its iron clubs and thunderbolts brandished by the sweep of their arms (_bhujaparāmarśavyāmṛṣṭaparighāśani_),
 </details>
 </details>
 
@@ -2797,7 +2797,7 @@ being brandished through the action of their arms, shone all the more brightly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that foremost army of the Rākṣasas (rākṣasānāṃ balaṃ śreṣṭham) shone forth all the more (bhūyaḥ param aśobhata); and thereupon the monkeys, eager for battle (harayo 'tha yuyutsavaḥ), leaped up like madmen (unmattā ivotpetuḥ),
+that foremost army of the Rākṣasas (_rākṣasānāṃ balaṃ śreṣṭham_) shone forth all the more (_bhūyaḥ param aśobhata_); and thereupon the monkeys, eager for battle (_harayo &#x27;tha yuyutsavaḥ_), leaped up like madmen (_unmattā ivotpetuḥ_),
 </details>
 </details>
 
@@ -2844,7 +2844,7 @@ rocks and fists, jumped up as though frenzied.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-smiting the night-roamers with trees, crags, and fists (taruśailair abhighnanto muṣṭibhiś ca niśācarān); and in the same way, as those monkeys came leaping on (tathaivāpatatāṃ teṣāṃ harīṇām), with whetted arrows (niśitaiḥ śaraiḥ)
+smiting the night-roamers with trees, crags, and fists (_taruśailair abhighnanto muṣṭibhiś ca niśācarān_); and in the same way, as those monkeys came leaping on (_tathaivāpatatāṃ teṣāṃ harīṇām_), with whetted arrows (_niśitaiḥ śaraiḥ_)
 </details>
 </details>
 
@@ -2891,7 +2891,7 @@ those monkeys bouncing upon them, with sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the Rākṣasas of dreadful valor (rākṣasā bhīmavikramāḥ) suddenly lopped off their heads (śirāṃsi sahasā jahrū); and with their ears torn off by teeth (daśanair hatakarṇāḥ), their skulls stove in by fists (muṣṭibhir bhinnamastakāḥ), and their limbs shattered by blows of rocks (śilāprahārabhagnāṅgāḥ), Rākṣasas wandered about there (vicerus tatra).
+the Rākṣasas of dreadful valor (_rākṣasā bhīmavikramāḥ_) suddenly lopped off their heads (_śirāṃsi sahasā jahrū_); and with their ears torn off by teeth (_daśanair hatakarṇāḥ_), their skulls stove in by fists (_muṣṭibhir bhinnamastakāḥ_), and their limbs shattered by blows of rocks (_śilāprahārabhagnāṅgāḥ_), Rākṣasas wandered about there (_vicerus tatra_).
 </details>
 </details>
 
@@ -2946,7 +2946,7 @@ teeth, their skulls smashed with fists and their limbs broken by crag blows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Likewise, other night-roamers of terrible aspect (apare ghorarūpā niśācarāḥ) struck down on every side (abhito jaghnuḥ) the foremost of those monkeys (teṣāṃ kapīnāṃ pravarān) with sharp swords (asibhiḥ śitaiḥ).
+Likewise, other night-roamers of terrible aspect (_apare ghorarūpā niśācarāḥ_) struck down on every side (_abhito jaghnuḥ_) the foremost of those monkeys (_teṣāṃ kapīnāṃ pravarān_) with sharp swords (_asibhiḥ śitaiḥ_).
 </details>
 </details>
 
@@ -3001,7 +3001,7 @@ sharp swords, on all sides of the battle field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One struck down another who was striking (ghnantam anyaṃ jaghānānyaḥ), another felled one who was felling (pātayantam apātayat), one reviled another who was reviling (garhamāṇaṃ jagarhānyaḥ), and another bit one who was biting (daśantam aparo 'daśat).
+One struck down another who was striking (_ghnantam anyaṃ jaghānānyaḥ_), another felled one who was felling (_pātayantam apātayat_), one reviled another who was reviling (_garhamāṇaṃ jagarhānyaḥ_), and another bit one who was biting (_daśantam aparo &#x27;daśat_).
 </details>
 </details>
 
@@ -3055,7 +3055,7 @@ one chewed the one chewing another.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Give [me a blow]!” cried one (dehīty anyaḥ); “One gives!” [cried] another (dadāty anyaḥ); “I give [it to you]!” [shouted] yet another (dadāmīty aparaḥ punaḥ); “Why do you weary yourself? Stand fast!” (kiṃ kleśayasi tiṣṭheti)—thus they spoke to one another there (tatrānyonyaṃ babhāṣire).
+“Give [me a blow]!” cried one (_dehīty anyaḥ_); “One gives!” [cried] another (_dadāty anyaḥ_); “I give [it to you]!” [shouted] yet another (_dadāmīty aparaḥ punaḥ_); “Why do you weary yourself? Stand fast!” (_kiṃ kleśayasi tiṣṭheti_)—thus they spoke to one another there (_tatrānyonyaṃ babhāṣire_).
 </details>
 </details>
 
@@ -3114,9 +3114,9 @@ There, one said "Give me the blow. Another said, "He is giving". Yet another sai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**67:** With weapons snatched away (vipralambhitaśastram) and armor and arms cast off (vimuktakavacāyudham), with great lances upraised (samudyatamahāprāsam) and thick with fists, pikes, swords, and spears (muṣṭiśūlāsikuntalam),
+**67:** With weapons snatched away (_vipralambhitaśastram_) and armor and arms cast off (_vimuktakavacāyudham_), with great lances upraised (_samudyatamahāprāsam_) and thick with fists, pikes, swords, and spears (_muṣṭiśūlāsikuntalam_),
 
-**68:** a most dreadful battle (mahāraudraṃ yuddham) ensued between the Vānaras and the Rākṣasas (vānararakṣasām): the Rākṣasas slew the Vānaras by tens and sevens in combat (vānarān daśa sapteti rākṣasā jaghnur āhave),
+**68:** a most dreadful battle (_mahāraudraṃ yuddham_) ensued between the Vānaras and the Rākṣasas (_vānararakṣasām_): the Rākṣasas slew the Vānaras by tens and sevens in combat (_vānarān daśa sapteti rākṣasā jaghnur āhave_),
 </details>
 </details>
 
@@ -3175,7 +3175,7 @@ were used as weapons of war.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and the Vānaras too felled the Rākṣasas by tens and sevens (rākṣasān daśa sapteti vānarāś cābhyapātayan); and seizing hold of the Rākṣasa host (balaṃ rākṣasam ālambya)—whose garments were torn away (vipralambhitavastram) and whose armor and banners were cast off (vimuktakavacadhvajam)—the Vānaras hemmed it in on all sides (paryavārayan).
+and the Vānaras too felled the Rākṣasas by tens and sevens (_rākṣasān daśa sapteti vānarāś cābhyapātayan_); and seizing hold of the Rākṣasa host (_balaṃ rākṣasam ālambya_)—whose garments were torn away (_vipralambhitavastram_) and whose armor and banners were cast off (_vimuktakavacadhvajam_)—the Vānaras hemmed it in on all sides (_paryavārayan_).
 </details>
 </details>
 

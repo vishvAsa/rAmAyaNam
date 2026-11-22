@@ -64,7 +64,7 @@ Ascending the two-yojana plateau of Mount Suvela with Sugrīva and the monkey ho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, accompanied by Sugrīva and surrounded by the monkey troops (hari-yūthaiḥ), ascended the summit of Suvela, whose plateau measured two yojanas in circuit.
+Then Rāma, accompanied by Sugrīva and surrounded by the monkey troops (_hari-yūthaiḥ_), ascended the summit of Suvela, whose plateau measured two _yojanas_ in circuit.
 </details>
 </details>
 
@@ -123,7 +123,7 @@ Trikuta Mountain with nice arrangements and ravishing with enchanting groves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing right there for a muhūrta and surveying the ten directions, [he beheld Laṅkā] built by Viśvakarmā upon the lovely peak of Trikūṭa—
+Standing right there for a _muhūrta_ and surveying the ten directions, [he beheld Laṅkā] built by Viśvakarmā upon the lovely peak of Trikūṭa—
 </details>
 </details>
 
@@ -156,9 +156,9 @@ Standing right there for a muhūrta and surveying the ten directions, [he beheld
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** He beheld well-laid-out Laṅkā, resplendent with lovely groves, and stationed atop the pinnacle of its gateway tower (gopura-śṛṅga-stham) the unassailable lord of Rākṣasas—
+**3:** He beheld well-laid-out Laṅkā, resplendent with lovely groves, and stationed atop the pinnacle of its gateway tower (_gopura-śṛṅga-stham_) the unassailable lord of Rākṣasas—
 
-**4:** Flanked on either side by white yak-tail fans, graced by a parasol of victory (vijaya-cchatra), smeared with red sandal-paste, and decked with jeweled ornaments—
+**4:** Flanked on either side by white yak-tail fans, graced by a parasol of victory (_vijaya-cchatra_), smeared with red sandal-paste, and decked with jeweled ornaments—
 </details>
 </details>
 
@@ -189,7 +189,7 @@ Standing right there for a muhūrta and surveying the ten directions, [he beheld
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling a dark rain-cloud, clad in gold-veiled raiments (hema-saṃchāditāmbaram), his chest marked with prominent scars gouged by the tips of Airāvata's tusks—
+Resembling a dark rain-cloud, clad in gold-veiled raiments (_hema-saṃchāditāmbaram_), his chest marked with prominent scars gouged by the tips of Airāvata&#x27;s tusks—
 </details>
 </details>
 
@@ -249,7 +249,7 @@ sunshine at sunset.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Draped in a crimson garment dyed the hue of hare's blood (śaśa-lohita-rāgeṇa), like a mass of clouds in the sky veiled by twilight sunlight.
+Draped in a crimson garment dyed the hue of hare&#x27;s blood (_śaśa-lohita-rāgeṇa_), like a mass of clouds in the sky veiled by twilight sunlight.
 </details>
 </details>
 
@@ -350,7 +350,7 @@ the summit of the mountain and then sprang to the top of the gate (where Ravana 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with a surge of wrath, and endowed with courage (sattvena) and strength, rising from the mountain crest he bounded onto the gateway terrace (gopura-sthale).
+Filled with a surge of wrath, and endowed with courage (_sattvena_) and strength, rising from the mountain crest he bounded onto the gateway terrace (_gopura-sthale_).
 </details>
 </details>
 
@@ -397,7 +397,7 @@ regarded as a mere straw and thereafter spoke the following words harshly:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pausing a muhūrta and fixing him with his gaze, with a fearless inner spirit (antarātmanā) and accounting that Rākṣasa as a blade of grass (tṛṇī-kṛtya), he spoke harsh words:
+Pausing a _muhūrta_ and fixing him with his gaze, with a fearless inner spirit (_antarātmanā_) and accounting that Rākṣasa as a blade of grass (_tṛṇī-kṛtya_), he spoke harsh words:
 </details>
 </details>
 
@@ -503,7 +503,7 @@ brightly coloured crown from his head and threw it away on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, springing up suddenly, he leaped right upon him; snatching away his wondrous crown (mukuṭaṃ citram), he dashed it down upon the ground.
+Having spoken thus, springing up suddenly, he leaped right upon him; snatching away his wondrous crown (_mukuṭaṃ citram_), he dashed it down upon the ground.
 </details>
 </details>
 
@@ -560,7 +560,7 @@ will now become Hinagriva bereft of your neck."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him rushing swiftly at him, the night-stalker spoke to him: “Behind my back (parokṣaṃ me) you are Sugrīva (‘fair-necked’), [but before me] you shall become neckless (hīna-grīvaḥ)!”
+Beholding him rushing swiftly at him, the night-stalker spoke to him: “Behind my back (_parokṣaṃ me_) you are Sugrīva (‘fair-necked’), [but before me] you shall become neckless (_hīna-grīvaḥ_)!”
 </details>
 </details>
 
@@ -615,7 +615,7 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and rising swiftly, he hurled him down onto the platform (tale) with both arms; rebounding like a ball (kanduvat), that monkey threw him down with both arms.
+Having spoken thus and rising swiftly, he hurled him down onto the platform (_tale_) with both arms; rebounding like a ball (_kanduvat_), that monkey threw him down with both arms.
 </details>
 </details>
 
@@ -650,7 +650,7 @@ Having spoken thus and rising swiftly, he hurled him down onto the platform (tal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their limbs mutually drenched with sweat, their bodies mutually crimsoned with blood, their movements mutually locked in tight embrace, they stood mutually like blooming śālmali and kiṃśuka trees.
+Their limbs mutually drenched with sweat, their bodies mutually crimsoned with blood, their movements mutually locked in tight embrace, they stood mutually like blooming _śālmali_ and _kiṃśuka_ trees.
 </details>
 </details>
 
@@ -713,7 +713,7 @@ fists, slaps of hands blows of elbows and blows of fingers on each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With blows of their fists, slaps of their palms, strikes of their cubits (aratni-ghātaiḥ), and thrusts of their fingertips, those two mighty lords of Rākṣasas and monkeys waged an unbearable combat.
+With blows of their fists, slaps of their palms, strikes of their cubits (_aratni-ghātaiḥ_), and thrusts of their fingertips, those two mighty lords of Rākṣasas and monkeys waged an unbearable combat.
 </details>
 </details>
 
@@ -766,7 +766,7 @@ highly swift combatants remained in that flat roof of the gate way.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having waged close wrestling (niyuddham) fiercely for a long time in the middle of the gateway terrace, lifting and heaving each other and bending their bodies, by their footwork they clung to the gateway ledge.
+Having waged close wrestling (_niyuddham_) fiercely for a long time in the middle of the gateway terrace, lifting and heaving each other and bending their bodies, by their footwork they clung to the gateway ledge.
 </details>
 </details>
 
@@ -848,7 +848,7 @@ the top of Suvela mountain which was having a circumference of sixteen miles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushing each other with locked bodies, the two plunged down between the rampart and the moat (sāla-nikhāta-madhye); touching the ground, they sprang back up and stood a muhūrta breathing hard.
+Crushing each other with locked bodies, the two plunged down between the rampart and the moat (_sāla-nikhāta-madhye_); touching the ground, they sprang back up and stood a _muhūrta_ breathing hard.
 </details>
 </details>
 
@@ -914,7 +914,7 @@ were now moving to and fro in the arena.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Locking and relocking each other with the cords of their arms (bāhu-yoktraiḥ), they grappled in battle; endowed with fury, training, and strength, they deftly moved through martial courses.
+Locking and relocking each other with the cords of their arms (_bāhu-yoktraiḥ_), they grappled in battle; endowed with fury, training, and strength, they deftly moved through martial courses.
 </details>
 </details>
 
@@ -983,7 +983,7 @@ their strength, fell on the ground together.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a tiger and a lion with newly grown fangs (jāta-daṃṣṭrau), or like two young lordly elephants locked in combat, clashing and wrapping each other with their arms, the two fell simultaneously to the earth.
+Like a tiger and a lion with newly grown fangs (_jāta-daṃṣṭrau_), or like two young lordly elephants locked in combat, clashing and wrapping each other with their arms, the two fell simultaneously to the earth.
 </details>
 </details>
 
@@ -1039,7 +1039,7 @@ the arena again and again, like skilled and mighty wrestlers, nor were they easi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting and hurling each other down, they moved through many a course of combat; endowed with athletic training, skill, and strength (vyāyāma-śikṣā-bala-samprayuktau), those two heroes knew no fatigue.
+Lifting and hurling each other down, they moved through many a course of combat; endowed with athletic training, skill, and strength (_vyāyāma-śikṣā-bala-samprayuktau_), those two heroes knew no fatigue.
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ circular arena.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Warding each other off with their superb arms that resembled elephant trunks (vāraṇa-vāraṇābhaiḥ), the two, resembling magnificent elephants, fought fiercely for a long time and swiftly coursed in circular tracks (maṇḍala-mārgam).
+Warding each other off with their superb arms that resembled elephant trunks (_vāraṇa-vāraṇābhaiḥ_), the two, resembling magnificent elephants, fought fiercely for a long time and swiftly coursed in circular tracks (_maṇḍala-mārgam_).
 </details>
 </details>
 
@@ -1150,7 +1150,7 @@ kill each other, they stood growling again and again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Closing with each other and intent on mutual destruction, like two cats contending over prey (mārjārāv iva bhakṣārthe), they stood poised again and again.
+Closing with each other and intent on mutual destruction, like two cats contending over prey (_mārjārāv iva bhakṣārthe_), they stood poised again and again.
 </details>
 </details>
 
@@ -1185,7 +1185,7 @@ Closing with each other and intent on mutual destruction, like two cats contendi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[They executed] variegated circular courses (maṇḍalāni), diverse martial stances (sthānāni), wondrous zigzag courses (gomūtrakāṇi), and advances and retreats (gata-pratyāgatāni)—
+[They executed] variegated circular courses (_maṇḍalāni_), diverse martial stances (_sthānāni_), wondrous zigzag courses (_gomūtrakāṇi_), and advances and retreats (_gata-pratyāgatāni_)—
 </details>
 </details>
 
@@ -1261,11 +1261,11 @@ and by letting go or stealing away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** As well as lateral movements (tiraścīna-gatāni), sinuous movements (vakra-gatāni), the parrying of blows (parimokṣaṃ prahārāṇām), evasion, and circling runs.
+**24:** As well as lateral movements (_tiraścīna-gatāni_), sinuous movements (_vakra-gatāni_), the parrying of blows (_parimokṣaṃ prahārāṇām_), evasion, and circling runs.
 
-**25:** [Exhibiting] headlong charges (abhidravaṇam), frog-leaps (āplāvam), combat stances (avasthānaṃ sa-vigraham), wheeling turns (parāvṛttam), sidesteps (apāvṛttam), low darts (apadrutam), and downward lunges (avaplutam)—
+**25:** [Exhibiting] headlong charges (_abhidravaṇam_), frog-leaps (_āplāvam_), combat stances (_avasthānaṃ sa-vigraham_), wheeling turns (_parāvṛttam_), sidesteps (_apāvṛttam_), low darts (_apadrutam_), and downward lunges (_avaplutam_)—
 
-**26:** And arm-extensions (upanyastam) and arm-withdrawals (apanyastam), those two masters of the courses of combat, the lord of monkeys and Rāvaṇa, maneuvered against each other.
+**26:** And arm-extensions (_upanyastam_) and arm-withdrawals (_apanyastam_), those two masters of the courses of combat, the lord of monkeys and Rāvaṇa, maneuvered against each other.
 </details>
 </details>
 
@@ -1327,9 +1327,9 @@ confounded there alone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** In the meantime, the Rākṣasa prepared to employ his own power of illusion (māyā-balam); perceiving that [intent of his], the overlord of monkeys—
+**27:** In the meantime, the Rākṣasa prepared to employ his own power of illusion (_māyā-balam_); perceiving that [intent of his], the overlord of monkeys—
 
-**28:** Sprang up into the sky right then, radiant with victory (jita-kāśī) and having conquered fatigue (jita-klamaḥ); cheated by the king of monkeys, Rāvaṇa remained standing right there.
+**28:** Sprang up into the sky right then, radiant with victory (_jita-kāśī_) and having conquered fatigue (_jita-klamaḥ_); cheated by the king of monkeys, Rāvaṇa remained standing right there.
 </details>
 </details>
 
@@ -1395,7 +1395,7 @@ Rama, who as in the middle of the mokye-troops.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that lord of the foremost monkeys, the son of the Sun (arka-sūnuḥ), having won renown in battle and exhausted the lord of night-stalkers in combat, traversed the vast sky and came to Rāma's side amidst the monkey host.
+Then that lord of the foremost monkeys, the son of the Sun (_arka-sūnuḥ_), having won renown in battle and exhausted the lord of night-stalkers in combat, traversed the vast sky and came to Rāma&#x27;s side amidst the monkey host.
 </details>
 </details>
 

@@ -80,7 +80,7 @@ Godavari. [3-17-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having completed his ablutions (kṛtābhiṣekaḥ), Rāma, together with Sītā and Saumitri, then went from that bank of the Godāvarī back to his own hermitage (svam āśramam).
+Having completed his ablutions (_kṛtābhiṣekaḥ_), Rāma, together with Sītā and Saumitri, then went from that bank of the Godāvarī back to his own hermitage (_svam āśramam_).
 </details>
 </details>
 
@@ -131,7 +131,7 @@ the cottage. [3-17-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arriving at that hermitage together with Lakṣmaṇa and performing his forenoon rites (paurvāhṇikaṃ karma), Rāghava entered the leaf-thatched cottage (parṇaśālām).
+Arriving at that hermitage together with Lakṣmaṇa and performing his forenoon rites (_paurvāhṇikaṃ karma_), Rāghava entered the leaf-thatched cottage (_parṇaśālām_).
 </details>
 </details>
 
@@ -166,9 +166,9 @@ Arriving at that hermitage together with Lakṣmaṇa and performing his forenoo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Honoured by the great sages (pūjyamāno maharṣibhiḥ), Rāma dwelt happily there, seated inside the leaf-thatched cottage together with Sītā.
+**3:** Honoured by the great sages (_pūjyamāno maharṣibhiḥ_), Rāma dwelt happily there, seated inside the leaf-thatched cottage together with Sītā.
 
-**4:** Seated with Sītā, the mighty-armed prince shone like the moon conjoined with the constellation Citrā (citrayā candramā iva), while holding various discourses (vividhāḥ kathāḥ) with his brother Lakṣmaṇa.
+**4:** Seated with Sītā, the mighty-armed prince shone like the moon conjoined with the constellation Citrā (_citrayā candramā iva_), while holding various discourses (_vividhāḥ kathāḥ_) with his brother Lakṣmaṇa.
 </details>
 </details>
 
@@ -239,9 +239,9 @@ the paradisiacal being like Rama. [3-17-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** While Rāma was seated there with his mind absorbed in conversation (kathā-saṃsakta-cetasaḥ), a certain rākṣasī happened by chance (yadṛcchayā) to arrive at that spot.
+**5:** While Rāma was seated there with his mind absorbed in conversation (_kathā-saṃsakta-cetasaḥ_), a certain _rākṣasī_ happened by chance (_yadṛcchayā_) to arrive at that spot.
 
-**6:** Approaching Rāma, that sister of the ten-necked rākṣasa [Rāvaṇa], Śūrpaṇakhā by name, beheld him shining like an immortal god (tridaśopamam).
+**6:** Approaching Rāma, that sister of the ten-necked _rākṣasa_ [Rāvaṇa], Śūrpaṇakhā by name, beheld him shining like an immortal god (_tridaśopamam_).
 </details>
 </details>
 
@@ -304,7 +304,7 @@ moon while pearl white Seetha is pearl white Chitra star.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[She beheld him] of radiant countenance (dīptāsyam), mighty-armed, with eyes long like lotus petals (padma-patrāyatekṣaṇam), striding with the majestic gait of an elephant (gaja-vikrānta-gamanam), and wearing a crown of matted locks (jaṭā-maṇḍala-dhāriṇam);
+[She beheld him] of radiant countenance (_dīptāsyam_), mighty-armed, with eyes long like lotus petals (_padma-patrāyatekṣaṇam_), striding with the majestic gait of an elephant (_gaja-vikrānta-gamanam_), and wearing a crown of matted locks (_jaṭā-maṇḍala-dhāriṇam_);
 </details>
 </details>
 
@@ -341,7 +341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delicate in youth (sukumāram), of mighty strength (mahā-sattvam), endowed with the marks of royalty (pārthiva-vyañjanānvitam), dark-blue like a blue lotus (indīvara-śyāmam), and matching Kandarpa in splendour (kandarpa-sadṛśa-prabham).
+Delicate in youth (_sukumāram_), of mighty strength (_mahā-sattvam_), endowed with the marks of royalty (_pārthiva-vyañjanānvitam_), dark-blue like a blue lotus (_indīvara-śyāmam_), and matching Kandarpa in splendour (_kandarpa-sadṛśa-prabham_).
 </details>
 </details>
 
@@ -395,9 +395,9 @@ seen such a Rama and became lovesick. [3-17-7, 8, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Beholding Rāma, who was equal to Indra (indropamam), that rākṣasī became infatuated with lust (kāma-mohitā)—foul-faced (durmukhī) before the handsome-faced prince (sumukham), pot-bellied (mahodarī) before the slender-waisted hero (vṛtta-madhyam);
+**9:** Beholding Rāma, who was equal to Indra (_indropamam_), that _rākṣasī_ became infatuated with lust (_kāma-mohitā_)—foul-faced (_durmukhī_) before the handsome-faced prince (_sumukham_), pot-bellied (_mahodarī_) before the slender-waisted hero (_vṛtta-madhyam_);
 
-**10:** Deformed-eyed (virūpākṣī) before the wide-eyed prince (viśālākṣam), copper-haired (tāmra-mūrdhajā) before the fine-haired one (sukeśam), hideous in form (virūpā) before thelovely-formed one (priya-rūpam), and dreadful-voiced (bhairava-svanā) before the melodious-voiced one (susvaram);
+**10:** Deformed-eyed (_virūpākṣī_) before the wide-eyed prince (_viśālākṣam_), copper-haired (_tāmra-mūrdhajā_) before the fine-haired one (_sukeśam_), hideous in form (_virūpā_) before thelovely-formed one (_priya-rūpam_), and dreadful-voiced (_bhairava-svanā_) before the melodious-voiced one (_susvaram_);
 </details>
 </details>
 
@@ -457,7 +457,7 @@ by Love-god. [3-17-9b, 11, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grim and aged (dāruṇā vṛddhā) before the youthful prince (taruṇam), crooked-spoken (vāma-bhāṣiṇī) before the courteous speaker (dakṣiṇam), of wicked conduct (sudurvṛttā) before the righteous-minded one (nyāya-vṛttam), and loathsome to behold (apriya-darśanā) before the beloved prince (priyam).
+Grim and aged (_dāruṇā vṛddhā_) before the youthful prince (_taruṇam_), crooked-spoken (_vāma-bhāṣiṇī_) before the courteous speaker (_dakṣiṇam_), of wicked conduct (_sudurvṛttā_) before the righteous-minded one (_nyāya-vṛttam_), and loathsome to behold (_apriya-darśanā_) before the beloved prince (_priyam_).
 </details>
 </details>
 
@@ -526,9 +526,9 @@ coming here, in actuality " [3-17-12b, 13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Possessed by the mind-born god of love (śarīraja-samāviṣṭā), the rākṣasī spoke to Rāma: “Wearing matted locks in ascetic garb (tāpasa-veṣeṇa), yet accompanied by a wife and bearing bow and arrows (śara-cāpa-dhṛk)—
+**12:** Possessed by the mind-born god of love (_śarīraja-samāviṣṭā_), the _rākṣasī_ spoke to Rāma: “Wearing matted locks in ascetic garb (_tāpasa-veṣeṇa_), yet accompanied by a wife and bearing bow and arrows (_śara-cāpa-dhṛk_)—
 
-**13:** “‘How is it that you have come to this region frequented by rākṣasas (rākṣasa-sevitam)? What is the purpose of your coming (āgamana-kṛtyam)? You ought to tell me the truth (tattvam).’
+**13:** “‘How is it that you have come to this region frequented by _rākṣasas_ (_rākṣasa-sevitam_)? What is the purpose of your coming (_āgamana-kṛtyam_)? You ought to tell me the truth (_tattvam_).’
 </details>
 </details>
 
@@ -580,7 +580,7 @@ Thus asked by demoness Shuurpanakha that enemy-scorcher Rama started to inform a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the rākṣasī Śūrpaṇakhā, the scorcher of foes (paraṃtapaḥ), out of his innate straightforwardness of mind (ṛju-buddhitayā), began to relate everything:
+Thus addressed by the _rākṣasī_ Śūrpaṇakhā, the scorcher of foes (_paraṃtapaḥ_), out of his innate straightforwardness of mind (_ṛju-buddhitayā_), began to relate everything:
 </details>
 </details>
 
@@ -631,7 +631,7 @@ me by name Rama. [3-17-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There was a king named Daśaratha, whose valour equalled that of thecelestial gods (tridaśa-vikramaḥ); I am his eldest son (agrajaḥ putraḥ), known among people by the name of Rāma.
+“There was a king named Daśaratha, whose valour equalled that of thecelestial gods (_tridaśa-vikramaḥ_); I am his eldest son (_agrajaḥ putraḥ_), known among people by the name of Rāma.
 </details>
 </details>
 
@@ -686,7 +686,7 @@ daughter of Videha's king, well-known as Seetha. [3-17-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is my younger brother (yavīyān) named Lakṣmaṇa, who is devotedly attached to me (mām anuvrataḥ); and this is my wife Vaidehī, renowned as Sītā.
+“This is my younger brother (_yavīyān_) named Lakṣmaṇa, who is devotedly attached to me (_mām anuvrataḥ_); and this is my wife Vaidehī, renowned as Sītā.
 </details>
 </details>
 
@@ -740,7 +740,7 @@ king and my father, and by my mother, as well. [3-17-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bound (yantritaḥ) by the command of the king my father and of my mother, and desiring dharma (dharma-kāṅkṣī), I have come here to dwell in the forest for the sake of righteousness (dharmārtham).
+“Bound (_yantritaḥ_) by the command of the king my father and of my mother, and desiring _dharma_ (_dharma-kāṅkṣī_), I have come here to dwell in the forest for the sake of righteousness (_dharmārtham_).
 </details>
 </details>
 
@@ -815,7 +815,7 @@ in a fashionable getup or as an old female is another point that remained inconc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I wish, however, to know you: whose daughter are you, who are you, and whose wife are you (kasya tvaṃ kāsi kasya vā)? For with your comely limbs (manojñāṅgī), you appear to me to be a rākṣasī.
+“I wish, however, to know you: whose daughter are you, who are you, and whose wife are you (_kasya tvaṃ kāsi kasya vā_)? For with your comely limbs (_manojñāṅgī_), you appear to me to be a _rākṣasī_.
 </details>
 </details>
 
@@ -896,9 +896,9 @@ and I will be freely moving in this forest in a solitary manner and unnerving al
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “‘Or for what purpose (kiṃ-nimittam) have you come here? Tell me truly (tattvataḥ).’ Hearing his words, that rākṣasī, tormented by the god of love (madanārditā), replied:
+**19:** “‘Or for what purpose (_kiṃ-nimittam_) have you come here? Tell me truly (_tattvataḥ_).’ Hearing his words, that _rākṣasī_, tormented by the god of love (_madanārditā_), replied:
 
-**20:** “Listen, O Rāma, to my words: I shall speak the exact truth (tattvārtham). I am a rākṣasī named Śūrpaṇakhā, capable of assuming any form at will (kāma-rūpiṇī).
+**20:** “Listen, O Rāma, to my words: I shall speak the exact truth (_tattvārtham_). I am a _rākṣasī_ named Śūrpaṇakhā, capable of assuming any form at will (_kāma-rūpiṇī_).
 </details>
 </details>
 
@@ -950,7 +950,7 @@ have heard of him. [3-17-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Striking terror into all creatures (sarva-bhayaṅkarā), I roam this forest all alone (ekā). My brother is named Rāvaṇa, if perchance he has come to your ears (yadi te śrotram āgataḥ)—
+“Striking terror into all creatures (_sarva-bhayaṅkarā_), I roam this forest all alone (_ekā_). My brother is named Rāvaṇa, if perchance he has come to your ears (_yadi te śrotram āgataḥ_)—
 </details>
 </details>
 
@@ -981,7 +981,7 @@ have heard of him. [3-17-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That heroic son of Viśravas, if perchance you have heard of him; and my brother too is the mighty Kumbhakarṇa, who is ever sunk in deep slumber (pravṛddha-nidraś ca sadā);
+“That heroic son of Viśravas, if perchance you have heard of him; and my brother too is the mighty Kumbhakarṇa, who is ever sunk in deep slumber (_pravṛddha-nidraś ca sadā_);
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ Khara and Duushana who are renowned for their bravery in war. [3-17-22b, 23
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the righteous-souled (dharmātmā) Vibhīṣaṇa, who does not follow rākṣasa ways (na tu rākṣasa-ceṣṭitaḥ), as well as my two brothers Khara and Dūṣaṇa, renowned for their valour in battle (prakhyāta-vīryau ca raṇe).
+“And the righteous-souled (_dharmātmā_) Vibhīṣaṇa, who does not follow _rākṣasa_ ways (_na tu rākṣasa-ceṣṭitaḥ_), as well as my two brothers Khara and Dūṣaṇa, renowned for their valour in battle (_prakhyāta-vīryau ca raṇe_).
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ that you being the choicest among men you alone are my husband, hence I neared y
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having surpassed and disregarded all of them (tān ahaṃ samatikrāntā), O Rāma, from the very first sight of you [or: beholding your peerless form] (apūrva-darśanāt), I have approached you with heartfelt passion (bhāvena) as my husband, the supreme among men (puruṣottamam).
+“Having surpassed and disregarded all of them (_tān ahaṃ samatikrāntā_), O Rāma, from the very first sight of you [or: beholding your peerless form] (_apūrva-darśanāt_), I have approached you with heartfelt passion (_bhāvena_) as my husband, the supreme among men (_puruṣottamam_).
 </details>
 </details>
 
@@ -1141,7 +1141,7 @@ my everlasting husband by the way, what can you bring off with Seetha. [3-17-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with high mystic power (prabhāva-sampannā) and moving at my own free will and might (svacchanda-bala-gāminī), I have come: be my husband for a long time (cirāya)—what will you do with Sītā?
+“Endowed with high mystic power (_prabhāva-sampannā_) and moving at my own free will and might (_svacchanda-bala-gāminī_), I have come: be my husband for a long time (_cirāya_)—what will you do with Sītā?
 </details>
 </details>
 
@@ -1193,7 +1193,7 @@ am the lone one worthy to be your wife, hence treat me as your wife. [3-17-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Misshapen (vikṛtā) and ugly (virūpā), this woman is no match for you (na seyaṃ sadṛśī tava); I alone am worthy of you (aham evānurūpā te)—look upon me as your wife (bhāryā-rūpeṇa).
+“Misshapen (_vikṛtā_) and ugly (_virūpā_), this woman is no match for you (_na seyaṃ sadṛśī tava_); I alone am worthy of you (_aham evānurūpā te_)—look upon me as your wife (_bhāryā-rūpeṇa_).
 </details>
 </details>
 
@@ -1250,7 +1250,7 @@ Lakshmana will use the very same wording in the next chapter when retorting Shuu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This ugly, unchaste (asatīm), frightful (karālām), sunken-bellied (nirṇatodarīm) mortal woman I shall devour right now, together with this brother of yours!
+“This ugly, unchaste (_asatīm_), frightful (_karālām_), sunken-bellied (_nirṇatodarīm_) mortal woman I shall devour right now, together with this brother of yours!
 </details>
 </details>
 
@@ -1304,7 +1304,7 @@ mountaintops in the sky and in forests on the earth." So Shuurpanakha said to Ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter, beholding the mountain peaks and manifold forests, you shall roam the Daṇḍaka woods with me in amorous delight (kāmī).”
+“Thereafter, beholding the mountain peaks and manifold forests, you shall roam the Daṇḍaka woods with me in amorous delight (_kāmī_).”
 </details>
 </details>
 
@@ -1367,7 +1367,7 @@ in lovesickness with this sentence. [3-17-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Kākutstha, skilled in speech (vākya-viśāradaḥ), laughed (prahasya) and began to speak these words to the wine-eyed [or: rolling-eyed] (madirekṣaṇām) rākṣasī.
+Thus addressed, Kākutstha, skilled in speech (_vākya-viśāradaḥ_), laughed (_prahasya_) and began to speak these words to the wine-eyed [or: rolling-eyed] (_madirekṣaṇām_) _rākṣasī_.
 </details>
 </details>
 

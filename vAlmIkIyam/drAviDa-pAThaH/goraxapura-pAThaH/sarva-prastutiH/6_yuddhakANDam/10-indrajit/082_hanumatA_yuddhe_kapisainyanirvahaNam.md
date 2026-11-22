@@ -83,7 +83,7 @@ looking hither and thither, ran away in all directions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that dreadful roar (bhīma-nirhrādam), whose sound equaled Śakra's thunderbolt (śakrāśani-sama-svanam), the Vānaras glanced toward every quarter and fled away headlong (dudruvur bhṛśam).
+Hearing that dreadful roar (_bhīma-nirhrādam_), whose sound equaled Śakra&#x27;s thunderbolt (_śakrāśani-sama-svanam_), the Vānaras glanced toward every quarter and fled away headlong (_dudruvur bhṛśam_).
 </details>
 </details>
 
@@ -114,7 +114,7 @@ Hearing that dreadful roar (bhīma-nirhrādam), whose sound equaled Śakra's thu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, the son of the Wind-god, spoke to them all—downcast of face (viṣaṇṇa-vadanān), wretched, terrified, and fleeing separately in every direction:
+Then Hanūmān, the son of the Wind-god, spoke to them all—downcast of face (_viṣaṇṇa-vadanān_), wretched, terrified, and fleeing separately in every direction:
 </details>
 </details>
 
@@ -160,7 +160,7 @@ fight? Where has your valour gone?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wherefore do you flee with downcast faces, O leapers (plavaṃgamāḥ), having abandoned all martial zeal (tyakta-yuddha-samutsāhāḥ)? Where indeed has your valor (śūratvam) gone?
+“Wherefore do you flee with downcast faces, O leapers (_plavaṃgamāḥ_), having abandoned all martial zeal (_tyakta-yuddha-samutsāhāḥ_)? Where indeed has your valor (_śūratvam_) gone?
 </details>
 </details>
 
@@ -207,7 +207,7 @@ valiant who are born in a good family, it is not indeed proper to shrink back fr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Follow behind me (pṛṣṭhato 'nuvrajadhvam) as I stride at the forefront in battle! For it is unseemly (ayuktam) for heroes endowed with noble lineage (abhijanopetaiḥ) to turn back.”
+Follow behind me (_pṛṣṭhato &#x27;nuvrajadhvam_) as I stride at the forefront in battle! For it is unseemly (_ayuktam_) for heroes endowed with noble lineage (_abhijanopetaiḥ_) to turn back.”
 </details>
 </details>
 
@@ -256,7 +256,7 @@ mountain-peaks and trees in a great fury.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the wise son of the Wind-god, they became filled with fierce wrath (susaṃkruddhāḥ) and, gladdened in mind, seized mountain crags and trees.
+Addressed thus by the wise son of the Wind-god, they became filled with fierce wrath (_susaṃkruddhāḥ_) and, gladdened in mind, seized mountain crags and trees.
 </details>
 </details>
 
@@ -302,7 +302,7 @@ him, by surrounding Hanuma on all sides, in that great battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring, those bulls among Vānaras (vānararṣabhāḥ) rushed upon the Rākṣasas and, surrounding Hanūmān, followed after him in the great battle.
+Roaring, those bulls among Vānaras (_vānararṣabhāḥ_) rushed upon the Rākṣasas and, surrounding Hanūmān, followed after him in the great battle.
 </details>
 </details>
 
@@ -356,7 +356,7 @@ that army of adversaries as a flaming fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded on all sides by those foremost Vānaras, Hanūmān, blazing like a flaming fire (hutāśana ivārciṣmān), scorched the enemy host (śatru-vāhinīm).
+Surrounded on all sides by those foremost Vānaras, Hanūmān, blazing like a flaming fire (_hutāśana ivārciṣmān_), scorched the enemy host (_śatru-vāhinīm_).
 </details>
 </details>
 
@@ -402,7 +402,7 @@ demons, as Yama the lord of death does at the time of universal dissolution.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Girt by the Vānara army, that supremely great monkey, resembling Time, the Destroyer, and Yama (kālāntaka-yamopamaḥ), wrought a great slaughter (kadanam) of the Rākṣasas.
+Girt by the Vānara army, that supremely great monkey, resembling Time, the Destroyer, and Yama (_kālāntaka-yamopamaḥ_), wrought a great slaughter (_kadanam_) of the Rākṣasas.
 </details>
 </details>
 
@@ -454,7 +454,7 @@ rock on Indrajit's chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed by grief and by mighty wrath (kopena mahatā), that monkey Hanūmān hurled a massive rock (mahatīṃ śilām) at the chariot of Rāvaṇa's son.
+Possessed by grief and by mighty wrath (_kopena mahatā_), that monkey Hanūmān hurled a massive rock (_mahatīṃ śilām_) at the chariot of Rāvaṇa&#x27;s son.
 </details>
 </details>
 
@@ -509,7 +509,7 @@ chariot, carried the chariot off to a far-distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The very moment he saw it hurtling down (tām āpatantīṃ dṛṣṭvaiva), the charioteer drove the chariot—yoked with obedient steeds (vidheyāśva-samāyuktaḥ)—far out of reach (vidūram apavāhitaḥ).
+The very moment he saw it hurtling down (_tām āpatantīṃ dṛṣṭvaiva_), the charioteer drove the chariot—yoked with obedient steeds (_vidheyāśva-samāyuktaḥ_)—far out of reach (_vidūram apavāhitaḥ_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ sitting in the chariot, split itself into fragments and penetrated the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Failing to reach Indrajit, who stood upon the chariot with his charioteer, that rock—hurled in vain (vyartham udyatā)—clove the earth and plunged into it.
+Failing to reach Indrajit, who stood upon the chariot with his charioteer, that rock—hurled in vain (_vyartham udyatā_)—clove the earth and plunged into it.
 </details>
 </details>
 
@@ -614,7 +614,7 @@ demons was perturbed over the rock thus falling upon them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that rock crashed down, the army of the Rākṣasas was convulsed with terror (vyathitā), and by the falling boulder the Rākṣasas were crushed in great numbers (mathitā bhṛśam).
+When that rock crashed down, the army of the Rākṣasas was convulsed with terror (_vyathitā_), and by the falling boulder the Rākṣasas were crushed in great numbers (_mathitā bhṛśam_).
 </details>
 </details>
 
@@ -668,7 +668,7 @@ rushed roaring towards Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring by the hundreds (śataśo nadantaḥ), those huge-bodied forest-dwellers rushed at him, holding aloft (udyatāḥ) trees and mountain peaks.
+Roaring by the hundreds (_śataśo nadantaḥ_), those huge-bodied forest-dwellers rushed at him, holding aloft (_udyatāḥ_) trees and mountain peaks.
 </details>
 </details>
 
@@ -727,7 +727,7 @@ their enemies. They roared in various high tones.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Vānaras of dreadful valor hurled [them] at Indrajit in battle; unleashing a mighty rain of trees and rocks (vṛkṣa-śaila-mahā-varṣam), the leapers—
+The Vānaras of dreadful valor hurled [them] at Indrajit in battle; unleashing a mighty rain of trees and rocks (_vṛkṣa-śaila-mahā-varṣam_), the leapers—
 </details>
 </details>
 
@@ -779,7 +779,7 @@ frightful appearance, rolled about restlessly in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—wrought a slaughter of their foes and roared with diverse cries (vividhaiḥ svanaiḥ). Struck down by those utterly dreadful Vānaras, the night-stalkers of grisly aspect—
+—wrought a slaughter of their foes and roared with diverse cries (_vividhaiḥ svanaiḥ_). Struck down by those utterly dreadful Vānaras, the night-stalkers of grisly aspect—
 </details>
 </details>
 
@@ -832,7 +832,7 @@ his weapons, sallied forth, facing towards his enemies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—writhed (vyaceṣṭanta) upon the battleground, battered by trees through sheer might (vīryād abhihatāḥ). Then Indrajit, beholding his own army tormented by the Vānaras (vānarārditam),—
+—writhed (_vyaceṣṭanta_) upon the battleground, battered by trees through sheer might (_vīryād abhihatāḥ_). Then Indrajit, beholding his own army tormented by the Vānaras (_vānarārditam_),—
 </details>
 </details>
 
@@ -908,9 +908,9 @@ missiles, swords, sharp-edged spears and concealed weapons similar to mallets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** —seized his weapons in wrath and advanced facing his foes. Pouring forth torrents of arrows (śaraughān avasṛjan), surrounded by his own host,—
+**17:** —seized his weapons in wrath and advanced facing his foes. Pouring forth torrents of arrows (_śaraughān avasṛjan_), surrounded by his own host,—
 
-**18:** —he of unyielding valor (dṛḍha-vikramaḥ) slew very many tigers among monkeys with pikes, thunderbolts, swords, paṭṭiśa-spears, and spiked maces (śūla-mudgaraiḥ).
+**18:** —he of unyielding valor (_dṛḍha-vikramaḥ_) slew very many tigers among monkeys with pikes, thunderbolts, swords, _paṭṭiśa_-spears, and spiked maces (_śūla-mudgaraiḥ_).
 </details>
 </details>
 
@@ -976,7 +976,7 @@ distinguished by excellent trunks and branches as with rocks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in that battle the Vānaras slew his followers (anucarāṃs tasya), while the mighty Hanūmān, with mountains bearing thick trunks and branches (su-skandha-viṭapaiḥ śailaiḥ) and with boulders,—
+And in that battle the Vānaras slew his followers (_anucarāṃs tasya_), while the mighty Hanūmān, with mountains bearing thick trunks and branches (_su-skandha-viṭapaiḥ śailaiḥ_) and with boulders,—
 </details>
 </details>
 
@@ -1031,7 +1031,7 @@ Keeping the hostile army back, that Hanuma spoke to those monkeys as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—wrought a slaughter of the Rākṣasas of dreadful deeds. Holding back the enemy host (saṃnivārya parānīkam), Hanūmān spoke to those forest-dwellers:
+—wrought a slaughter of the Rākṣasas of dreadful deeds. Holding back the enemy host (_saṃnivārya parānīkam_), Hanūmān spoke to those forest-dwellers:
 </details>
 </details>
 
@@ -1078,7 +1078,7 @@ pleasing to Rama, making a special effort to win, risking our lives has been kil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Turn back (saṃnivartadhvam)! This force cannot be subdued by us (na naḥ sādhyam idaṃ balam). Abandoning our very lives and striving with all our might, we desire to do what is dear to Rāma (rāma-priya-cikīrṣavaḥ);
+“Turn back (_saṃnivartadhvam_)! This force cannot be subdued by us (_na naḥ sādhyam idaṃ balam_). Abandoning our very lives and striving with all our might, we desire to do what is dear to Rāma (_rāma-priya-cikīrṣavaḥ_);
 </details>
 </details>
 
@@ -1124,7 +1124,7 @@ them are prepared to do in return."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-yet that daughter of Janaka on whose account we fight (yan-nimittaṃ hi yudhyāmaḥ) has been slain! Reporting this matter (imam arthaṃ vijñāpya) to Rāma and to Sugrīva as well,—
+yet that daughter of Janaka on whose account we fight (_yan-nimittaṃ hi yudhyāmaḥ_) has been slain! Reporting this matter (_imam arthaṃ vijñāpya_) to Rāma and to Sugrīva as well,—
 </details>
 </details>
 
@@ -1176,7 +1176,7 @@ absence of fear, along with his army, gradually turned back.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—whatever course those two shall ordain (tau yat pratividhāsyete), that we shall perform.” Speaking thus, that foremost of Vānaras restrained all the monkeys.
+—whatever course those two shall ordain (_tau yat pratividhāsyete_), that we shall perform.” Speaking thus, that foremost of Vānaras restrained all the monkeys.
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ went to a sanctuary called Nikumbhila, seeking to pour oblations into the sacred
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slowly, slowly (śanaiḥ śanaiḥ), unafraid (asaṃtrastaḥ), he withdrew together with his force. Then, seeing Hanūmān departing toward where Rāghava stood,—
+Slowly, slowly (_śanaiḥ śanaiḥ_), unafraid (_asaṃtrastaḥ_), he withdrew together with his force. Then, seeing Hanūmān departing toward where Rāghava stood,—
 </details>
 </details>
 
@@ -1323,11 +1323,11 @@ the evening sun, appeared wrapped in flames.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** —that evil-minded warrior, desiring to offer oblation (hotu-kāmaḥ), repaired to the sanctuary of Nikumbhilā (caityaṃ nikumbhilām). Stationing himself at Nikumbhilā, Indrajit offered oblation into the fire (pāvakaṃ juhuve).
+**25:** —that evil-minded warrior, desiring to offer oblation (_hotu-kāmaḥ_), repaired to the sanctuary of Nikumbhilā (_caityaṃ nikumbhilām_). Stationing himself at Nikumbhilā, Indrajit offered oblation into the fire (_pāvakaṃ juhuve_).
 
-**26:** When he had entered the sacrificial ground (yajña-bhūmyām), the fire, being fed with oblations by that Rākṣasa, blazed up fiercely, consuming the oblation of blood (homa-śoṇita-bhuk).
+**26:** When he had entered the sacrificial ground (_yajña-bhūmyām_), the fire, being fed with oblations by that Rākṣasa, blazed up fiercely, consuming the oblation of blood (_homa-śoṇita-bhuk_).
 
-**27:** Sated with the oblation of blood (homa-śoṇita-tarpitaḥ) and wreathed in flames (sārciḥ-pinaddhaḥ), that exceedingly fierce fire rose up, appearing like the sun at twilight (saṃdhyā-gata ivādityaḥ).
+**27:** Sated with the oblation of blood (_homa-śoṇita-tarpitaḥ_) and wreathed in flames (_sārciḥ-pinaddhaḥ_), that exceedingly fierce fire rose up, appearing like the sun at twilight (_saṃdhyā-gata ivādityaḥ_).
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ running away widely apart, looking dejected, miserable and frightened.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Indrajit, knower of the ritual ordinance (vidhāna-vit), offered the oblation according to rule (vidhinā) for the prosperity of the Rākṣasas (rākṣasa-bhūtaye); and those Rākṣasas, conversant with policy and impolicy (nayānaya-jñāḥ), stood watching in great throngs.
+Then Indrajit, knower of the ritual ordinance (_vidhāna-vit_), offered the oblation according to rule (_vidhinā_) for the prosperity of the Rākṣasas (_rākṣasa-bhūtaye_); and those Rākṣasas, conversant with policy and impolicy (_nayānaya-jñāḥ_), stood watching in great throngs.
 </details>
 </details>
 

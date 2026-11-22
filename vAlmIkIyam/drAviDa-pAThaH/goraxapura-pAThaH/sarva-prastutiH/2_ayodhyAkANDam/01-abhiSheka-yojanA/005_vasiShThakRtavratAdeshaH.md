@@ -76,7 +76,7 @@ him as follows about the ensuing anointment ceremony of the next day.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having instructed Rāma regarding the consecration (abhiṣecane) scheduled for the morrow (śvobhāvini), the king summoned his royal chaplain (purohitam), Vasiṣṭha, and spoke these words to him:
+Having instructed Rāma regarding the consecration (_abhiṣecane_) scheduled for the morrow (_śvobhāvini_), the king summoned his royal chaplain (_purohitam_), Vasiṣṭha, and spoke these words to him:
 </details>
 </details>
 
@@ -128,7 +128,7 @@ perform fasting for obtaining prosperity, glory and sovereignty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go, O sage rich in asceticism (tapodhana), of steadfast vows (yatavrata), and cause Kākutstha, together with his bride (vadhvā saha), to observe the ritual fast (upavāsam) today for auspiciousness (śreyase) and the attainment of sovereignty (rājyalābhāya).”
+“Go, O sage rich in asceticism (_tapodhana_), of steadfast vows (_yatavrata_), and cause Kākutstha, together with his bride (_vadhvā saha_), to observe the ritual fast (_upavāsam_) today for auspiciousness (_śreyase_) and the attainment of sovereignty (_rājyalābhāya_).”
 </details>
 </details>
 
@@ -198,9 +198,9 @@ undertake a fast (with mantras) performed by Rama, a knower of mantras.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Answering the king, “So be it,” the venerable (bhagavān) Vasiṣṭha, foremost of Vedic knowers (vedavidāṃ varaḥ), proceeded in person (svayam) to Rāma’s palace (rāmaniveśanam).
+**3:** Answering the king, “So be it,” the venerable (_bhagavān_) Vasiṣṭha, foremost of Vedic knowers (_vedavidāṃ varaḥ_), proceeded in person (_svayam_) to Rāma’s palace (_rāmaniveśanam_).
 
-**4:** Of firmly upheld vows (sudhṛtavrataḥ) and a knower of sacred mantras (mantravit), he mounted an excellent yoked chariot (rathavaram) fit for a brāhmaṇa (brāhmam) in order to initiate the heroic prince, himself skilled in mantras (mantrakovidam), into the ritual fast.
+**4:** Of firmly upheld vows (_sudhṛtavrataḥ_) and a knower of sacred mantras (_mantravit_), he mounted an excellent yoked chariot (_rathavaram_) fit for a _brāhmaṇa_ (_brāhmam_) in order to initiate the heroic prince, himself skilled in mantras (_mantrakovidam_), into the ritual fast.
 </details>
 </details>
 
@@ -253,7 +253,7 @@ entered the three gateways of the house by the chariot itself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching Rāma’s mansion, which gleamed like a dense mass of white clouds (pāṇḍurābhraghanaprabham), that best of sages (munisattamaḥ) entered right through three courtyards (tisraḥ kakṣyāḥ) in his chariot itself.
+Reaching Rāma’s mansion, which gleamed like a dense mass of white clouds (_pāṇḍurābhraghanaprabham_), that best of sages (_munisattamaḥ_) entered right through three courtyards (_tisraḥ kakṣyāḥ_) in his chariot itself.
 </details>
 </details>
 
@@ -305,7 +305,7 @@ the house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeking to honor (mānayiṣyan) that sage who was worthy of honor (mānārham) upon his arrival, Rāma came forth from his abode in haste (tvarann iva), filled with reverent eagerness (sasambhramam).
+Seeking to honor (_mānayiṣyan_) that sage who was worthy of honor (_mānārham_) upon his arrival, Rāma came forth from his abode in haste (_tvarann iva_), filled with reverent eagerness (_sasambhramam_).
 </details>
 </details>
 
@@ -365,7 +365,7 @@ from the chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching the vicinity of the wise sage’s chariot (rathābhyāśam) in haste, Rāma himself (svayam) respectfully clasped him and helped him descend (avatārayām āsa) from the chariot.
+Approaching the vicinity of the wise sage’s chariot (_rathābhyāśam_) in haste, Rāma himself (_svayam_) respectfully clasped him and helped him descend (_avatārayām āsa_) from the chariot.
 </details>
 </details>
 
@@ -412,7 +412,7 @@ words, bringing cheerfulness and happiness to him:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him so humble (praśritam), the royal chaplain addressed him kindly and, gladdening him with blessings (abhiprasādya), spoke thus, delighting Rāma who was worthy of pleasant tidings (priyārham):
+Seeing him so humble (_praśritam_), the royal chaplain addressed him kindly and, gladdening him with blessings (_abhiprasādya_), spoke thus, delighting Rāma who was worthy of pleasant tidings (_priyārham_):
 </details>
 </details>
 
@@ -467,7 +467,7 @@ kingdom. Hence, you and Seetha perform fasting today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your father is well pleased with you, O Rāma, since you shall attain sovereignty (rājyam); therefore, let your honor observe the ritual fast (upavāsam) today together with Sītā.
+“Your father is well pleased with you, O Rāma, since you shall attain sovereignty (_rājyam_); therefore, let your honor observe the ritual fast (_upavāsam_) today together with Sītā.
 </details>
 </details>
 
@@ -514,7 +514,7 @@ kingdom tomorrow at dawn; even as king Nahusha has done to Yayati".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For at dawn tomorrow your father Daśaratha, lord of men, shall lovingly (prītyā) consecrate you (abhiṣektā) in the office of Prince Regent (yauvarājye), even as Nahuṣa consecrated Yayāti.”
+For at dawn tomorrow your father Daśaratha, lord of men, shall lovingly (_prītyā_) consecrate you (_abhiṣektā_) in the office of Prince Regent (_yauvarājye_), even as Nahuṣa consecrated Yayāti.”
 </details>
 </details>
 
@@ -566,7 +566,7 @@ with Seetha, in the accompaniment of mantras.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, that pure (śuciḥ) sage of steadfast vows (yatavrataḥ) then caused Rāma, together with Vaidehī, to undertake the ritual fast with sacred mantras (mantravat).
+Speaking thus, that pure (_śuciḥ_) sage of steadfast vows (_yatavrataḥ_) then caused Rāma, together with Vaidehī, to undertake the ritual fast with sacred mantras (_mantravat_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ Rama's permission and left his house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the king’s preceptor (rājño guruḥ), having been duly worshiped (yathāvad arcitaḥ) by Rāma, took leave of Kākutstha (abhyanujñāpya) and departed from Rāma’s palace.
+Then the king’s preceptor (_rājño guruḥ_), having been duly worshiped (_yathāvad arcitaḥ_) by Rāma, took leave of Kākutstha (_abhyanujñāpya_) and departed from Rāma’s palace.
 </details>
 </details>
 
@@ -677,7 +677,7 @@ congratulated by them in various ways went into his palace after taking leave of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma too, seated there with his kindly-spoken (priyaṃvadaiḥ) friends and honored (sabhājitaḥ) by them, then gave leave to them all (tān anujñāpya sarvaśaḥ) and entered his inner apartments.
+Rāma too, seated there with his kindly-spoken (_priyaṃvadaiḥ_) friends and honored (_sabhājitaḥ_) by them, then gave leave to them all (_tān anujñāpya sarvaśaḥ_) and entered his inner apartments.
 </details>
 </details>
 
@@ -729,7 +729,7 @@ lake filled with opened lotuses and visited by innumerable happy birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thronged with joyful women and men (hṛṣṭanārīnarayutam), Rāma’s mansion then shone forth like a lake filled with full-blown lotuses (praphullanalinam) and flocks of intoxicated birds (mattadvijagaṇam).
+Thronged with joyful women and men (_hṛṣṭanārīnarayutam_), Rāma’s mansion then shone forth like a lake filled with full-blown lotuses (_praphullanalinam_) and flocks of intoxicated birds (_mattadvijagaṇam_).
 </details>
 </details>
 
@@ -775,7 +775,7 @@ filled with people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Emerging from that palace of Rāma, which rivaled the king’s own palace (rājabhavanaprakhyāt), Vasiṣṭha beheld (dadṛśe) the highway crowded with people (janasaṃvṛtam).
+Emerging from that palace of Rāma, which rivaled the king’s own palace (_rājabhavanaprakhyāt_), Vasiṣṭha beheld (_dadṛśe_) the highway crowded with people (_janasaṃvṛtam_).
 </details>
 </details>
 
@@ -827,7 +827,7 @@ delighted people and became congested.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Throughout Ayodhyā on every side (samantataḥ), the royal highways became densely packed (abhisaṃbādhāḥ), covered with eager crowds (kutūhalajanaiḥ) gathered in multitude upon multitude (vṛndavṛndaiḥ).
+Throughout Ayodhyā on every side (_samantataḥ_), the royal highways became densely packed (_abhisaṃbādhāḥ_), covered with eager crowds (_kutūhalajanaiḥ_) gathered in multitude upon multitude (_vṛndavṛndaiḥ_).
 </details>
 </details>
 
@@ -883,7 +883,7 @@ ocean.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with the joyous roar (harṣasvanavṛtaḥ) arising from the surging collision of human waves (janavṛndormisaṃgharṣa), the tumult (niḥsvanaḥ) of the royal highway then resembled that of the ocean (sāgarasyeva).
+Filled with the joyous roar (_harṣasvanavṛtaḥ_) arising from the surging collision of human waves (_janavṛndormisaṃgharṣa_), the tumult (_niḥsvanaḥ_) of the royal highway then resembled that of the ocean (_sāgarasyeva_).
 </details>
 </details>
 
@@ -946,7 +946,7 @@ water. There were rows of trees on both sides of the roads and flags hoisted on 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having its streets sprinkled and swept clean (siktasaṃmṛṣṭarathyā), adorned with garlands of woodland flowers (vanamālinī), and flying tall banners from every house (samucchritagṛhadhvajā), such was Ayodhyā on that day (tad ahaḥ).
+Having its streets sprinkled and swept clean (_siktasaṃmṛṣṭarathyā_), adorned with garlands of woodland flowers (_vanamālinī_), and flying tall banners from every house (_samucchritagṛhadhvajā_), such was Ayodhyā on that day (_tad ahaḥ_).
 </details>
 </details>
 
@@ -998,7 +998,7 @@ for sunrise, wishing the anointment ceremony of Rama to happen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then indeed the populace dwelling in Ayodhyā (ayodhyānilayaḥ), thronged with women and children (sastrībālākulaḥ), eagerly longed (ākāṅkṣan) for Rāma’s consecration, longing for the rising of the sun (udayaṃ raveḥ).
+Then indeed the populace dwelling in Ayodhyā (_ayodhyānilayaḥ_), thronged with women and children (_sastrībālākulaḥ_), eagerly longed (_ākāṅkṣan_) for Rāma’s consecration, longing for the rising of the sun (_udayaṃ raveḥ_).
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ decorative to the community and which would bring forward an increased joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The people grew eager (utsuko 'bhūt) to behold that great festival of Ayodhyā (ayodhyāmahotsavam), which was the very ornament of the subjects (prajālaṃkārabhūtam) and the increaser of the people’s joy (janasyānandavardhanam).
+The people grew eager (_utsuko &#x27;bhūt_) to behold that great festival of Ayodhyā (_ayodhyāmahotsavam_), which was the very ornament of the subjects (_prajālaṃkārabhūtam_) and the increaser of the people’s joy (_janasyānandavardhanam_).
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ royal palace slowly by forcing a passage through that crowd.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus passing along that royal highway crowded with people (janasaṃbādham), the chaplain went slowly (śanaiḥ) toward the royal palace (rājakulam), parting (vyūhann iva), as it were, that flood of people (janaugham).
+Thus passing along that royal highway crowded with people (_janasaṃbādham_), the chaplain went slowly (_śanaiḥ_) toward the royal palace (_rājakulam_), parting (_vyūhann iva_), as it were, that flood of people (_janaugham_).
 </details>
 </details>
 
@@ -1154,7 +1154,7 @@ white cloud and met king Dasaratha in the manner Brihaspati met Devendra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ascending the lofty palace that resembled the peak of a white cloud-mountain (sitābhraśikharaprakhyam), he met (samīyāya) with the lord of men, even as Bṛhaspati meets with Śakra.
+Ascending the lofty palace that resembled the peak of a white cloud-mountain (_sitābhraśikharaprakhyam_), he met (_samīyāya_) with the lord of men, even as Bṛhaspati meets with Śakra.
 </details>
 </details>
 
@@ -1215,7 +1215,7 @@ with regard to his mission. Vasistha informed him that it was accomplished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him arrived (tam āgatam abhiprekṣya), the king left his royal throne (rājāsanam) and inquired after his desired mission (svamatam); and Vasiṣṭha reported to him (tasmai abhivedayat), “It has been accomplished (kṛtam).”
+Seeing him arrived (_tam āgatam abhiprekṣya_), the king left his royal throne (_rājāsanam_) and inquired after his desired mission (_svamatam_); and Vasiṣṭha reported to him (_tasmai abhivedayat_), “It has been accomplished (_kṛtam_).”
 </details>
 </details>
 
@@ -1261,7 +1261,7 @@ obeisance to Vasishta from their seats, following the example of the king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Simultaneously (tulyam) with him at that moment, the courtiers (sabhāsadaḥ) seated beside the king rose up (samuttasthuḥ) from their seats, honoring the royal chaplain.
+Simultaneously (_tulyam_) with him at that moment, the courtiers (_sabhāsadaḥ_) seated beside the king rose up (_samuttasthuḥ_) from their seats, honoring the royal chaplain.
 </details>
 </details>
 
@@ -1313,7 +1313,7 @@ and entered his palace as a lion enters a mountain cave.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Granted leave by his preceptor (guruṇā tv abhyanujñātaḥ), the king dismissed that multitude of men (manujaugham) and entered his inner apartments (antaḥpuram), like a lion entering a mountain cavern (giriguhām iva).
+Granted leave by his preceptor (_guruṇā tv abhyanujñātaḥ_), the king dismissed that multitude of men (_manujaugham_) and entered his inner apartments (_antaḥpuram_), like a lion entering a mountain cavern (_giriguhām iva_).
 </details>
 </details>
 
@@ -1389,7 +1389,7 @@ sky with its stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brightly illuminating (vyadīpayan) that mansion which rivaled the palace of Mahendra (mahendraveśmapratimam) and was thronged with ladies in exquisite attire (agryaveṣapramadājanākulam), the monarch gracefully (cāru) entered it, even as the moon enters the sky crowded with hosts of stars (tārāgaṇasaṃkulam).
+Brightly illuminating (_vyadīpayan_) that mansion which rivaled the palace of Mahendra (_mahendraveśmapratimam_) and was thronged with ladies in exquisite attire (_agryaveṣapramadājanākulam_), the monarch gracefully (_cāru_) entered it, even as the moon enters the sky crowded with hosts of stars (_tārāgaṇasaṃkulam_).
 </details>
 </details>
 

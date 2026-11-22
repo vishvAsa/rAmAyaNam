@@ -88,7 +88,7 @@ Sugreeva entered the cave-city Kishkindha. [4-27-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Sugrīva had been consecrated and that monkey lord had entered the cavern-city [Kiṣkindhā], Rāma, together with his brother [Lakṣmaṇa], came to Mount Prasravaṇa (prasravaṇaṃ girim),
+When Sugrīva had been consecrated and that monkey lord had entered the cavern-city [Kiṣkindhā], Rāma, together with his brother [Lakṣmaṇa], came to Mount Prasravaṇa (_prasravaṇaṃ girim_),
 </details>
 </details>
 
@@ -119,7 +119,7 @@ When Sugrīva had been consecrated and that monkey lord had entered the cavern-c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-which resounded with tigers and deer, was haunted by lions of terrible roar (siṃhair bhīma-ravaiḥ), hidden by manifold shrubs and creepers (nānā-gulma-latā-gūḍham), and crowded with many trees,
+which resounded with tigers and deer, was haunted by lions of terrible roar (_siṃhair bhīma-ravaiḥ_), hidden by manifold shrubs and creepers (_nānā-gulma-latā-gūḍham_), and crowded with many trees,
 </details>
 </details>
 
@@ -177,7 +177,7 @@ and other water resorts. Hence, it is water giving earthly cloud.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-frequented by bears, monkeys, gopuccha langurs, and wild cats (mārjāraiś ca)—a mountain resembling a mass of clouds (megha-rāśi-nibhaṃ śailam), ever purifying and auspicious.
+frequented by bears, monkeys, _gopuccha_ langurs, and wild cats (_mārjāraiś ca_)—a mountain resembling a mass of clouds (_megha-rāśi-nibhaṃ śailam_), ever purifying and auspicious.
 </details>
 </details>
 
@@ -228,7 +228,7 @@ cliff of that mountain. [4-27-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon the summit of that mountain, Rāma, together with the son of Sumitrā, accepted for their residence (pratyagṛhṇīta vāsārtham) a vast and spacious cavern (mahatīm āyatāṃ guhām).
+Upon the summit of that mountain, Rāma, together with the son of Sumitrā, accepted for their residence (_pratyagṛhṇīta vāsārtham_) a vast and spacious cavern (_mahatīm āyatāṃ guhām_).
 </details>
 </details>
 
@@ -286,7 +286,7 @@ enhancer of prosperity. [4-27-5, 6a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having made the compact with Sugrīva (kṛtvā ca samayam), the sinless Rāma, delight of the Raghus, spoke these weighty and timely words (kāla-yuktaṃ mahad vākyam)
+Having made the compact with Sugrīva (_kṛtvā ca samayam_), the sinless Rāma, delight of the Raghus, spoke these weighty and timely words (_kāla-yuktaṃ mahad vākyam_)
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Soumitri, let us stay in this during rainy nights. [4-27-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as a brother to his modest brother Lakṣmaṇa, enhancer of auspicious fortune (lakṣmi-vardhanam): “This mountain cavern is delightful, spacious, and blessed with temperate breezes (yukta-mārutā).
+as a brother to his modest brother Lakṣmaṇa, enhancer of auspicious fortune (_lakṣmi-vardhanam_): “This mountain cavern is delightful, spacious, and blessed with temperate breezes (_yukta-mārutā_).
 </details>
 </details>
 
@@ -377,7 +377,7 @@ Rāma praises the mountain peak with its white, black, and copper-hued rocks, ec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this cavern let us dwell during the rainy season (varṣa-rātram), O son of Sumitrā, tamer of foes; this mountain peak (giri-śṛṅgam idam) is delightful and supreme, O prince,
+“In this cavern let us dwell during the rainy season (_varṣa-rātram_), O son of Sumitrā, tamer of foes; this mountain peak (_giri-śṛṅgam idam_) is delightful and supreme, O prince,
 </details>
 </details>
 
@@ -410,9 +410,9 @@ Rāma praises the mountain peak with its white, black, and copper-hued rocks, ec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “adorned with white, black, and copper-hued slabs of rock (śvetābhiḥ kṛṣṇa-tāmrābhiḥ śilābhiḥ), overspread with manifold mineral ores (nānā-dhātu-samākīrṇam), and filled with river-frogs (nadī-dardura-saṃyutam),
+**8:** “adorned with white, black, and copper-hued slabs of rock (_śvetābhiḥ kṛṣṇa-tāmrābhiḥ śilābhiḥ_), overspread with manifold mineral ores (_nānā-dhātu-samākīrṇam_), and filled with river-frogs (_nadī-dardura-saṃyutam_),
 
-**9:** “furnished with varied clumps of trees (vṛkṣa-ṣaṇḍaiś ca) and lovely variegated creepers, resounding with diverse birds, and echoing with the cries of noble peacocks (mayūra-vara-nāditam),
+**9:** “furnished with varied clumps of trees (_vṛkṣa-ṣaṇḍaiś ca_) and lovely variegated creepers, resounding with diverse birds, and echoing with the cries of noble peacocks (_mayūra-vara-nāditam_),
 </details>
 </details>
 
@@ -483,7 +483,7 @@ chapter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and beautified with blossoming thickets of mālatī and kunda jasmine, sinduvāra and śirīṣa trees, and kadamba, arjuna, and sarja trees (kadambārjuna-sarjaiś ca).
+“and beautified with blossoming thickets of _mālatī_ and _kunda_ jasmine, _sinduvāra_ and _śirīṣa_ trees, and _kadamba_, _arjuna_, and _sarja_ trees (_kadambārjuna-sarjaiś ca_).
 </details>
 </details>
 
@@ -535,7 +535,7 @@ available not far away from our cave. [4-27-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this delightful lotus-pond (iyaṃ ca nalinī ramyā), decked with full-blown lotuses (phulla-paṅkaja-maṇḍitā), will lie not far from our cavern, O prince.
+“And this delightful lotus-pond (_iyaṃ ca nalinī ramyā_), decked with full-blown lotuses (_phulla-paṅkaja-maṇḍitā_), will lie not far from our cavern, O prince.
 </details>
 </details>
 
@@ -591,7 +591,7 @@ be less of gusts that come from east. [4-27-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Situated on ground sloping toward the east and north (prāg-udak-pravaṇe deśe), the cavern will be admirable; and being elevated at the rear (paścāc caivonnatā), O gentle one, it will be sheltered from the wind (nivātā).
+“Situated on ground sloping toward the east and north (_prāg-udak-pravaṇe deśe_), the cavern will be admirable; and being elevated at the rear (_paścāc caivonnatā_), O gentle one, it will be sheltered from the wind (_nivātā_).
 </details>
 </details>
 
@@ -651,7 +651,7 @@ mound of mascara is broad, even-surfaced, and will be pleasant for a repose. [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And at the entrance of the cavern (guhā-dvāre), O son of Sumitrā, lies a level and auspicious slab of rock (śilā samatalā śivā), dark and broad, resembling a heap of crushed collyrium (bhinnāñjana-cayopamā).
+“And at the entrance of the cavern (_guhā-dvāre_), O son of Sumitrā, lies a level and auspicious slab of rock (_śilā samatalā śivā_), dark and broad, resembling a heap of crushed collyrium (_bhinnāñjana-cayopamā_).
 </details>
 </details>
 
@@ -708,7 +708,7 @@ side. [4-27-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold also to the north (uttarataḥ), dear brother, this auspicious mountain peak, shaped like a mass of crushed collyrium and rising like a rain-cloud (ambhodharam ivoditam);
+“Behold also to the north (_uttarataḥ_), dear brother, this auspicious mountain peak, shaped like a mass of crushed collyrium and rising like a rain-cloud (_ambhodharam ivoditam_);
 </details>
 </details>
 
@@ -760,7 +760,7 @@ spread on sky, which is vying with Mt. Kailash and abounding with many an ore. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and in the southern quarter (dakṣiṇasyām api diśi) stands another peak, white as a garment [or silver] (śvetam ivāmbaram), resembling the summit of Mount Kailāsa and resplendent with manifold mineral ores.
+“and in the southern quarter (_dakṣiṇasyām api diśi_) stands another peak, white as a garment [or silver] (_śvetam ivāmbaram_), resembling the summit of Mount Kailāsa and resplendent with manifold mineral ores.
 </details>
 </details>
 
@@ -794,7 +794,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And beyond the cavern (guhāyāḥ parataḥ), behold the river flowing eastward (prācīna-vāhinīm) and utterly free of mud (bhṛśam akardamām), like the Jāhnavī [Mandākinī] upon Mount Trikūṭa [Citrakūṭa]—
+“And beyond the cavern (_guhāyāḥ parataḥ_), behold the river flowing eastward (_prācīna-vāhinīm_) and utterly free of mud (_bhṛśam akardamām_), like the Jāhnavī [Mandākinī] upon Mount Trikūṭa [Citrakūṭa]—
 </details>
 </details>
 
@@ -851,7 +851,7 @@ the river is Tungabhadra, which is affectionately remembered as River Ganga.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“adorned with sandalwood, tilaka, sāla, tamāla, and atimuktaka creepers, as well as padmaka, sarala pines, and aśoka trees,
+“adorned with sandalwood, _tilaka_, _sāla_, _tamāla_, and _atimuktaka_ creepers, as well as _padmaka_, _sarala_ pines, and _aśoka_ trees,
 </details>
 </details>
 
@@ -922,9 +922,9 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “and with vānīra reeds, timida, bakula, and ketaka trees, hintāla palms, tiniśa, nīpa, vetasa canes, and kṛtamālaka trees.
+**18:** “and with _vānīra_ reeds, _timida_, _bakula_, and _ketaka_ trees, _hintāla_ palms, _tiniśa_, _nīpa_, _vetasa_ canes, and _kṛtamālaka_ trees.
 
-**19:** “Adorned here and there with bank-growing trees (tīrajaiḥ) of manifold forms, the river shines like a young woman decked out in garments and ornaments (vasanābharaṇopetā pramadevābhyalaṃkṛtā),
+**19:** “Adorned here and there with bank-growing trees (_tīrajaiḥ_) of manifold forms, the river shines like a young woman decked out in garments and ornaments (_vasanābharaṇopetā pramadevābhyalaṃkṛtā_),
 </details>
 </details>
 
@@ -955,7 +955,7 @@ bedecked with raiment and ornaments. [4-27-18, 19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“resounding with the varied cries of flocks of birds by the hundreds (śataśaḥ pakṣi-saṅghaiś ca), and graced with cakravāka shelducks devoted to one another (ekaikam anuraktaiś ca),
+“resounding with the varied cries of flocks of birds by the hundreds (_śataśaḥ pakṣi-saṅghaiś ca_), and graced with _cakravāka_ shelducks devoted to one another (_ekaikam anuraktaiś ca_),
 </details>
 </details>
 
@@ -1020,7 +1020,7 @@ clucking sounds of the birds are like the tinkles from the tinkling bells of tha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“frequented by swans and sārasa cranes along its exceedingly delightful sandbanks (pulinair atiramyaiś ca)—endowed with manifold gems, this river shines as though smiling (prahasantyeva bhāty eṣā).
+“frequented by swans and _sārasa_ cranes along its exceedingly delightful sandbanks (_pulinair atiramyaiś ca_)—endowed with manifold gems, this river shines as though smiling (_prahasantyeva bhāty eṣā_).
 </details>
 </details>
 
@@ -1074,7 +1074,7 @@ else. [4-27-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In one place covered with blue water-lilies (nīlotpalaiḥ), in another shining with red water-lilies (raktotpalaiḥ), in yet another it gleams with white, celestial buds of night-lotuses (kumuda-kuḍmalaiḥ).
+“In one place covered with blue water-lilies (_nīlotpalaiḥ_), in another shining with red water-lilies (_raktotpalaiḥ_), in yet another it gleams with white, celestial buds of night-lotuses (_kumuda-kuḍmalaiḥ_).
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ heart-pleasing. [4-27-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Frequented by hundreds of water-fowl (pāriplava-śatair juṣṭā) and echoing with peacocks and krauñca herons, this delightful river, O gentle one, is resorted to by hosts of ascetics (muni-saṅgha-niṣevitā).
+“Frequented by hundreds of water-fowl (_pāriplava-śatair juṣṭā_) and echoing with peacocks and _krauñca_ herons, this delightful river, O gentle one, is resorted to by hosts of ascetics (_muni-saṅgha-niṣevitā_).
 </details>
 </details>
 
@@ -1184,7 +1184,7 @@ appear in a similar pattern. [4-27-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold the rows of sandalwood trees (candana-vṛkṣāṇāṃ paṅktīḥ), as though artfully arranged, and of kakubha trees, which appear to have sprung up simultaneously by a mere wish of the mind (manasaivoditāḥ samam).
+“Behold the rows of sandalwood trees (_candana-vṛkṣāṇāṃ paṅktīḥ_), as though artfully arranged, and of _kakubha_ trees, which appear to have sprung up simultaneously by a mere wish of the mind (_manasaivoditāḥ samam_).
 </details>
 </details>
 
@@ -1244,7 +1244,7 @@ enemy-eliminator, we can certainly take delight in this environ. [4-27-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ah, how exceedingly delightful is this region (aho suramaṇīyo 'yaṃ deśaḥ), O destroyer of foes! Surely we two shall take great delight here, O son of Sumitrā; let us dwell here happily (sādhv atra nivasāvahe).
+“Ah, how exceedingly delightful is this region (_aho suramaṇīyo &#x27;yaṃ deśaḥ_), O destroyer of foes! Surely we two shall take great delight here, O son of Sumitrā; let us dwell here happily (_sādhv atra nivasāvahe_).
 </details>
 </details>
 
@@ -1296,7 +1296,7 @@ of Sugreeva, will not be very far off from here. [4-27-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And not far from here, O prince, will lie that delightful city of Sugrīva, Kiṣkindhā, graced with variegated groves (citra-kānanā).
+“And not far from here, O prince, will lie that delightful city of Sugrīva, Kiṣkindhā, graced with variegated groves (_citra-kānanā_).
 </details>
 </details>
 
@@ -1349,7 +1349,7 @@ together with their snobbish drumming is heard, hence it is not far away. [4-27-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The sound of singing and musical instruments (gīta-vāditra-nirghoṣaḥ) is heard, O foremost of victors, along with the booming of mṛdaṅga drums (mṛdaṅgāḍambaraiḥ saha) as the monkeys roar in joy.
+“The sound of singing and musical instruments (_gīta-vāditra-nirghoṣaḥ_) is heard, O foremost of victors, along with the booming of _mṛdaṅga_ drums (_mṛdaṅgāḍambaraiḥ saha_) as the monkeys roar in joy.
 </details>
 </details>
 
@@ -1406,7 +1406,7 @@ kingdom." Rama thus spoke to Lakshmana. [4-27-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having regained his wife and attained the kingdom, surrounded by his friends, surely Sugrīva, best of monkeys, rejoices (dhruvaṃ nandati sugrīvaḥ) upon winning vast royal fortune.”
+“Having regained his wife and attained the kingdom, surrounded by his friends, surely Sugrīva, best of monkeys, rejoices (_dhruvaṃ nandati sugrīvaḥ_) upon winning vast royal fortune.”
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ many sightly caves and arbours are there. [4-27-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, Rāghava dwelt there together with Lakṣmaṇa upon that Mount Prasravaṇa, which abounded in caves and bowers offering manifold sights (bahu-dṛśya-darī-kuñje).
+Having spoken thus, Rāghava dwelt there together with Lakṣmaṇa upon that Mount Prasravaṇa, which abounded in caves and bowers offering manifold sights (_bahu-dṛśya-darī-kuñje_).
 </details>
 </details>
 
@@ -1519,7 +1519,7 @@ resided there. [4-27-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet even as he dwelt upon that most pleasant mountain rich in manifold resources (susukhe hi bahu-dravye), not even the slightest delight (ratir alpāpi nābhavat) arose in that Rāma—
+Yet even as he dwelt upon that most pleasant mountain rich in manifold resources (_susukhe hi bahu-dravye_), not even the slightest delight (_ratir alpāpi nābhavat_) arose in that Rāma—
 </details>
 </details>
 
@@ -1578,7 +1578,7 @@ who is kidnapped, especially on seeing the moon just risen on the eastern mounta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—remembering his abducted wife, dearer to him than life itself (prāṇebhyo 'pi garīyasīm), and especially upon beholding the moon risen above the eastern mountain (udayābhyuditaṃ dṛṣṭvā śaśāṅkam).
+—remembering his abducted wife, dearer to him than life itself (_prāṇebhyo &#x27;pi garīyasīm_), and especially upon beholding the moon risen above the eastern mountain (_udayābhyuditaṃ dṛṣṭvā śaśāṅkam_).
 </details>
 </details>
 
@@ -1654,9 +1654,9 @@ brother Lakshmana who is similarly sad for his brother's sadness spoke these wor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** Sleep did not visit him (āviveśa na taṃ nidrā) when he retired to his couch at night, his consciousness overwhelmed with tears (bāṣpopahata-cetanam) through the grief born of that remembrance.
+**32:** Sleep did not visit him (_āviveśa na taṃ nidrā_) when he retired to his couch at night, his consciousness overwhelmed with tears (_bāṣpopahata-cetanam_) through the grief born of that remembrance.
 
-**33:** To that grieving descendant of Kakutstha, who was ever absorbed in sorrow (nityaṃ śoka-parāyaṇam), his brother Lakṣmaṇa, sharing equal pain (tulya-duḥkhaḥ), spoke conciliatory words (anunayaṃ vacaḥ):
+**33:** To that grieving descendant of Kakutstha, who was ever absorbed in sorrow (_nityaṃ śoka-parāyaṇam_), his brother Lakṣmaṇa, sharing equal pain (_tulya-duḥkhaḥ_), spoke conciliatory words (_anunayaṃ vacaḥ_):
 </details>
 </details>
 
@@ -1713,7 +1713,7 @@ know clearly. [4-27-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough of yielding to anguish (alaṃ vīra vyathāṃ gatvā), O hero; you ought not to grieve! For when a man grieves, all his undertakings sink into ruin (śocato hy avasīdanti sarvārthāḥ), as is well known to you.
+“Enough of yielding to anguish (_alaṃ vīra vyathāṃ gatvā_), O hero; you ought not to grieve! For when a man grieves, all his undertakings sink into ruin (_śocato hy avasīdanti sarvārthāḥ_), as is well known to you.
 </details>
 </details>
 
@@ -1776,7 +1776,7 @@ certain tasks for which you are mobilised by all the divinities and you have als
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are devoted to action in the world (bhavān kriyā-paro loke), you are devoted to the gods (daiva-parāyaṇaḥ), pious in faith (āstikaḥ), steadfast in righteousness, and resolute in enterprise (vyavasāyī ca), O Rāghava.
+“You are devoted to action in the world (_bhavān kriyā-paro loke_), you are devoted to the gods (_daiva-parāyaṇaḥ_), pious in faith (_āstikaḥ_), steadfast in righteousness, and resolute in enterprise (_vyavasāyī ca_), O Rāghava.
 </details>
 </details>
 
@@ -1830,7 +1830,7 @@ enemy in war, specially a demon, especially a trickster, let alone all of your d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For without resolute exertion (avyavasitaḥ), you will not be able to slay in battle that enemy—especially a Rākṣasa who practices deceit in combat (vikrame jihma-kāriṇam).
+“For without resolute exertion (_avyavasitaḥ_), you will not be able to slay in battle that enemy—especially a Rākṣasa who practices deceit in combat (_vikrame jihma-kāriṇam_).
 </details>
 </details>
 
@@ -1893,7 +1893,7 @@ you will be able to eliminate that demon Ravana along with his followers. [4-27-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Uproot your grief (samunmūlaya śokaṃ tvam) and make firm your resolve (vyavasāyaṃ sthirīkuru); thereafter you shall slay that Rākṣasa along with his retinue (saparivāraṃ taṃ rākṣasam).
+“Uproot your grief (_samunmūlaya śokaṃ tvam_) and make firm your resolve (_vyavasāyaṃ sthirīkuru_); thereafter you shall slay that Rākṣasa along with his retinue (_saparivāraṃ taṃ rākṣasam_).
 </details>
 </details>
 
@@ -1945,7 +1945,7 @@ oceans, forests, and mountains, then what to speak of that Ravana, all the more.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are capable of overturning (parivartayituṃ śaktaḥ) the very earth together with its oceans, forests, and mountains, O descendant of Kakutstha—how much more so that Rāvaṇa (kiṃ punas taṃ hi rāvaṇam)!
+“You are capable of overturning (_parivartayituṃ śaktaḥ_) the very earth together with its oceans, forests, and mountains, O descendant of Kakutstha—how much more so that Rāvaṇa (_kiṃ punas taṃ hi rāvaṇam_)!
 </details>
 </details>
 
@@ -2002,7 +2002,7 @@ rains, and thereafter, you will eradicate that Ravana along with his city-state 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Await the season of autumn (śarat-kālaṃ pratīkṣasva), for this rainy season has now arrived; thereafter you shall slay that Rāvaṇa together with his kingdom and his hosts (sarāṣṭraṃ sagaṇam).
+“Await the season of autumn (_śarat-kālaṃ pratīkṣasva_), for this rainy season has now arrived; thereafter you shall slay that Rāvaṇa together with his kingdom and his hosts (_sarāṣṭraṃ sagaṇam_).
 </details>
 </details>
 
@@ -2056,7 +2056,7 @@ Lakshmana to Rama. [4-27-40]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I, for my part, merely awaken your slumbering valor (vīryaṃ prasuptaṃ pratibodhaye) with glowing words, just as one rekindles with oblations at the sacrificial hour a fire covered with ashes (bhasmacchannam ivānalam).”
+“I, for my part, merely awaken your slumbering valor (_vīryaṃ prasuptaṃ pratibodhaye_) with glowing words, just as one rekindles with oblations at the sacrificial hour a fire covered with ashes (_bhasmacchannam ivānalam_).”
 </details>
 </details>
 
@@ -2111,7 +2111,7 @@ sentence to that good-hearted and good-natured Lakshmana. [4-27-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honoring that beneficial and auspicious speech of Lakṣmaṇa (lakṣmaṇasya hi tad vākyaṃ pratipūjya), Rāghava spoke these affectionate words to his loving friend and brother:
+Honoring that beneficial and auspicious speech of Lakṣmaṇa (_lakṣmaṇasya hi tad vākyaṃ pratipūjya_), Rāghava spoke these affectionate words to his loving friend and brother:
 </details>
 </details>
 
@@ -2163,7 +2163,7 @@ courage is truth itself, that you have said it, Lakshmana. [4-27-42]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever ought to be spoken by one who is devoted (anuraktena), affectionate (snigdhena), benevolent (hitena), and endowed with true valor (satya-vikrama-yuktena)—all that has been spoken by you, O Lakṣmaṇa.
+“Whatever ought to be spoken by one who is devoted (_anuraktena_), affectionate (_snigdhena_), benevolent (_hitena_), and endowed with true valor (_satya-vikrama-yuktena_)—all that has been spoken by you, O Lakṣmaṇa.
 </details>
 </details>
 
@@ -2227,7 +2227,7 @@ completely. As an undefeatable one in my triumphs I am invigorating my ebullienc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here I cast aside this grief (eṣa śokaḥ parityaktaḥ), which brings ruin to all undertakings (sarva-kāryāvasādakaḥ); and I rouse my unvanquished energy (apratihataṃ tejaḥ) for deeds of valor!
+“Here I cast aside this grief (_eṣa śokaḥ parityaktaḥ_), which brings ruin to all undertakings (_sarva-kāryāvasādakaḥ_); and I rouse my unvanquished energy (_apratihataṃ tejaḥ_) for deeds of valor!
 </details>
 </details>
 
@@ -2279,7 +2279,7 @@ in their abatement, I look forward for the autumn remaining true to your words. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall await the season of autumn (śarat-kālaṃ pratīkṣiṣye) and abide by your counsel, waiting upon the favorable grace (prasādam anupālayan) both of Sugrīva and of the rivers.
+“I shall await the season of autumn (_śarat-kālaṃ pratīkṣiṣye_) and abide by your counsel, waiting upon the favorable grace (_prasādam anupālayan_) both of Sugrīva and of the rivers.
 </details>
 </details>
 
@@ -2333,7 +2333,7 @@ keeping Sugreeva in view. [4-27-45]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a hero who has received a benefit (upakāreṇa) is surely bound to render a return (pratikāreṇa yujyate); an ungrateful man who makes no return (akṛtajño 'pratikṛtaḥ) wounds the heart of noble beings (hanti sattvavatāṃ manaḥ).”
+“For a hero who has received a benefit (_upakāreṇa_) is surely bound to render a return (_pratikāreṇa yujyate_); an ungrateful man who makes no return (_akṛtajño &#x27;pratikṛtaḥ_) wounds the heart of noble beings (_hanti sattvavatāṃ manaḥ_).”
 </details>
 </details>
 
@@ -2400,7 +2400,7 @@ opportune viewpoint, Lakshmana spoke to Rama who by his own aspect is a delightf
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting that those words were indeed fitting (tad eva yuktaṃ praṇidhāya) and honoring that speech with folded hands, Lakṣmaṇa—displaying his own auspicious discernment (darśanam ātmanaḥ śubham)—spoke to Rāma of most pleasing aspect:
+Reflecting that those words were indeed fitting (_tad eva yuktaṃ praṇidhāya_) and honoring that speech with folded hands, Lakṣmaṇa—displaying his own auspicious discernment (_darśanam ātmanaḥ śubham_)—spoke to Rāma of most pleasing aspect:
 </details>
 </details>
 
@@ -2462,7 +2462,7 @@ besides bearing with the idea of disciplining the enemy. [4-27-47]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even as you have spoken, O lord of men, that monkey chief [Sugrīva] will before long accomplish (kartā nacirāt tu) all this that you desire; awaiting autumn, may you patiently endure this downpour of rain (kṣamatām imaṃ bhavān jala-prapātam), firm in your resolve to vanquish the foe.
+“Even as you have spoken, O lord of men, that monkey chief [Sugrīva] will before long accomplish (_kartā nacirāt tu_) all this that you desire; awaiting autumn, may you patiently endure this downpour of rain (_kṣamatām imaṃ bhavān jala-prapātam_), firm in your resolve to vanquish the foe.
 </details>
 </details>
 
@@ -2539,6 +2539,6 @@ lion, although you are capable to eliminate the enemy at any moment like a lion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Restraining your wrath, let autumn be awaited (niyamya kopaṃ paripālyatāṃ śarat); endure these four months together with me, and dwell upon this mountain frequented by lions, sustaining your capability (saṃvartayan) for the slaying of the enemy.”
+“Restraining your wrath, let autumn be awaited (_niyamya kopaṃ paripālyatāṃ śarat_); endure these four months together with me, and dwell upon this mountain frequented by lions, sustaining your capability (_saṃvartayan_) for the slaying of the enemy.”
 </details>
 </details>

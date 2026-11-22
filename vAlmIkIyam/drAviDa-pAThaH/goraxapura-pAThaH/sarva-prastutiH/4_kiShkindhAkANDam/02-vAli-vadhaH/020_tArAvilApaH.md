@@ -114,11 +114,11 @@ reduced to no more than an uprooted tree, and she wailed fretfully with grief sc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Seeing him struck down upon the ground (dṛṣṭvā vinihataṃ bhūmau) by the death-dealing arrow loosed from Rāma's bow (rāmacāpavisṛṣṭena śareṇāntakareṇa), Tārā, whose face resembled the lord of stars [the moon] (tārādhipānanā)—
+**1:** Seeing him struck down upon the ground (_dṛṣṭvā vinihataṃ bhūmau_) by the death-dealing arrow loosed from Rāma&#x27;s bow (_rāmacāpavisṛṣṭena śareṇāntakareṇa_), Tārā, whose face resembled the lord of stars [the moon] (_tārādhipānanā_)—
 
-**2:** Approaching her husband (samāsādya bhartāram), that spirited lady embraced Vālin (paryaṣvajata bhāminī), seeing him who resembled an elephant struck by an arrow (iṣuṇābhihataṃ dṛṣṭvā vālinaṃ kuñjaropamam).
+**2:** Approaching her husband (_samāsādya bhartāram_), that spirited lady embraced Vālin (_paryaṣvajata bhāminī_), seeing him who resembled an elephant struck by an arrow (_iṣuṇābhihataṃ dṛṣṭvā vālinaṃ kuñjaropamam_).
 
-**3:** Her mind tormented with grief (śokasaṃtaptamānasā), the afflicted Tārā lamented over (paryadevayatāturā) that monkey who resembled a lordly mountain (parvatendrābham) and lay like an uprooted tree (tarum ivonmūlam):
+**3:** Her mind tormented with grief (_śokasaṃtaptamānasā_), the afflicted Tārā lamented over (_paryadevayatāturā_) that monkey who resembled a lordly mountain (_parvatendrābham_) and lay like an uprooted tree (_tarum ivonmūlam_):
 </details>
 </details>
 
@@ -176,7 +176,7 @@ have never blamed you either in your presence or in your absence, why do not you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you of dreadful valor in battle (raṇe dāruṇavikrānta), O great hero, best of leapers (pravīra plavatāṃ vara)! Why do you not speak to me now today, when I stand right before you (kim idānīṃ purobhāgām adya tvaṃ nābhibhāṣase)?
+“O you of dreadful valor in battle (_raṇe dāruṇavikrānta_), O great hero, best of leapers (_pravīra plavatāṃ vara_)! Why do you not speak to me now today, when I stand right before you (_kim idānīṃ purobhāgām adya tvaṃ nābhibhāṣase_)?
 </details>
 </details>
 
@@ -231,7 +231,7 @@ not on repose on soil in this way, isn't it. [4-20-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arise, O tiger among monkeys (uttiṣṭha hariśārdūla), resort to your couch of state (bhajasva śayanottamam)! Surely the foremost of kings such as you do not lie upon the bare ground (naivaṃvidhāḥ śerate hi bhūmau nṛpatisattamāḥ).
+Arise, O tiger among monkeys (_uttiṣṭha hariśārdūla_), resort to your couch of state (_bhajasva śayanottamam_)! Surely the foremost of kings such as you do not lie upon the bare ground (_naivaṃvidhāḥ śerate hi bhūmau nṛpatisattamāḥ_).
 </details>
 </details>
 
@@ -291,7 +291,7 @@ heaven and you go there leaving me, am I unfit to come with you..." and the like
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exceedingly dear to you indeed is the earth (atīva khalu te kāntā vasudhā), O lord of the earth (vasudhādhipa), since even when bereft of life (gatāsur api), abandoning me, you cleave to her with your limbs (tāṃ gātrair māṃ vihāya niṣevase)!”
+Exceedingly dear to you indeed is the earth (_atīva khalu te kāntā vasudhā_), O lord of the earth (_vasudhādhipa_), since even when bereft of life (_gatāsur api_), abandoning me, you cleave to her with your limbs (_tāṃ gātrair māṃ vihāya niṣevase_)!”
 </details>
 </details>
 
@@ -353,7 +353,7 @@ Kishkindha-like delightful city in the pathway to heaven by your leaving lovely 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly today, O hero, as you proceed in accordance with warrior duty (dharmataḥ sampravartatā), another lovely city like Kiṣkindhā has been fashioned by you along the path to heaven (kiṣkindheva purī ramyā svargamārge vinirmitā)!
+“Clearly today, O hero, as you proceed in accordance with warrior duty (_dharmataḥ sampravartatā_), another lovely city like Kiṣkindhā has been fashioned by you along the path to heaven (_kiṣkindheva purī ramyā svargamārge vinirmitā_)!
 </details>
 </details>
 
@@ -405,7 +405,7 @@ forests from time to time by your departing. [4-20-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those pastimes which were enjoyed by us together with you in the honey-scented woods (vaneṣu madhugandhiṣu vihṛtāni)—of them an end has now been made by you in time (kāle teṣām uparamaḥ kṛtaḥ).
+Those pastimes which were enjoyed by us together with you in the honey-scented woods (_vaneṣu madhugandhiṣu vihṛtāni_)—of them an end has now been made by you in time (_kāle teṣām uparamaḥ kṛtaḥ_).
 </details>
 </details>
 
@@ -463,7 +463,7 @@ fifth one.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joyless and bereft of hope (nirānandā nirāśāham), I am plunged into an ocean of grief (nimagnā śokasāgare), now that you, the overlord of great troop-leaders (mahāyūthapayūthape), have met with dissolution into the five elements (tvayi pañcatvam āpanne).
+Joyless and bereft of hope (_nirānandā nirāśāham_), I am plunged into an ocean of grief (_nimagnā śokasāgare_), now that you, the overlord of great troop-leaders (_mahāyūthapayūthape_), have met with dissolution into the five elements (_tvayi pañcatvam āpanne_).
 </details>
 </details>
 
@@ -519,7 +519,7 @@ it is not splintering now into thousand splints, though it is tormented by sorro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely my heart is firmly hardened (hṛdayaṃ susthitaṃ mahyam), since, upon beholding you fallen on the ground (dṛṣṭvā nipatitaṃ bhuvi), though scorched by grief, it does not shatter today into a thousand fragments (yan na śokābhisaṃtaptaṃ sphuṭate 'dya sahasradhā)!
+Surely my heart is firmly hardened (_hṛdayaṃ susthitaṃ mahyam_), since, upon beholding you fallen on the ground (_dṛṣṭvā nipatitaṃ bhuvi_), though scorched by grief, it does not shatter today into a thousand fragments (_yan na śokābhisaṃtaptaṃ sphuṭate &#x27;dya sahasradhā_)!
 </details>
 </details>
 
@@ -575,7 +575,7 @@ even expelled him from Kishkindha, that is the reason why you got this result. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That Sugrīva's wife was seized by you and he himself was driven into exile (sugrīvasya tvayā bhāryā hṛtā sa ca vivāsitaḥ)—this fruit thereof has now been reaped by you (tasya tvayā vyuṣṭiḥ prāpteyam), O lord of leapers (plavagādhipa)!
+That Sugrīva&#x27;s wife was seized by you and he himself was driven into exile (_sugrīvasya tvayā bhāryā hṛtā sa ca vivāsitaḥ_)—this fruit thereof has now been reaped by you (_tasya tvayā vyuṣṭiḥ prāpteyam_), O lord of leapers (_plavagādhipa_)!
 </details>
 </details>
 
@@ -627,7 +627,7 @@ wishing your welfare, but oh, best monkey, you unmindfully brushed me off. [4-20
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And I, who sought your highest good and wished you well (niḥśreyasaparā hitaiṣiṇī), when I spoke salutary counsel (yaiṣābruvaṃ hitaṃ vākyam), was spurned by you out of delusion, O lord of monkeys (mohāt tvayā cāhaṃ vigarhitā vānarendra)!”
+And I, who sought your highest good and wished you well (_niḥśreyasaparā hitaiṣiṇī_), when I spoke salutary counsel (_yaiṣābruvaṃ hitaṃ vākyam_), was spurned by you out of delusion, O lord of monkeys (_mohāt tvayā cāhaṃ vigarhitā vānarendra_)!”
 </details>
 </details>
 
@@ -689,7 +689,7 @@ hearts towards you by your gallantry, definite is that. [4-20-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely, O noble bestower of honour (mānada ārya), you will churn with longing the hearts of the celestial nymphs (apsarasāṃ cittāni pramathiṣyasi), who are proud of their beauty and youth (rūpayauvanadṛptānām) and skilled in amorous courtesy (dakṣiṇānāṃ ca)!
+“Surely, O noble bestower of honour (_mānada ārya_), you will churn with longing the hearts of the celestial nymphs (_apsarasāṃ cittāni pramathiṣyasi_), who are proud of their beauty and youth (_rūpayauvanadṛptānām_) and skilled in amorous courtesy (_dakṣiṇānāṃ ca_)!
 </details>
 </details>
 
@@ -747,7 +747,7 @@ Sugreeva alone controlled you, who are otherwise an uncontrollable force. [4-20-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Time, which admits of no doubt (kālo niḥsaṃśayaḥ), has surely brought about the end of your life (nūnaṃ jīvitāntakaras tava), through whose force you fell helplessly under Sugrīva's power (balād yenāvapanno 'si sugrīvasyāvaśo vaśam)!
+Time, which admits of no doubt (_kālo niḥsaṃśayaḥ_), has surely brought about the end of your life (_nūnaṃ jīvitāntakaras tava_), through whose force you fell helplessly under Sugrīva&#x27;s power (_balād yenāvapanno &#x27;si sugrīvasyāvaśo vaśam_)!
 </details>
 </details>
 
@@ -804,7 +804,7 @@ recension etc.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Vālin out of turn (asthāne vālinaṃ hatvā) while he was engaged in combat with another (yudhyamānaṃ pareṇa ca), Kākutstha feels no remorse (na saṃtapyati kākutsthaḥ) after perpetrating a most censurable deed (kṛtvā karma sugarhitam)!
+Having slain Vālin out of turn (_asthāne vālinaṃ hatvā_) while he was engaged in combat with another (_yudhyamānaṃ pareṇa ca_), Kākutstha feels no remorse (_na saṃtapyati kākutsthaḥ_) after perpetrating a most censurable deed (_kṛtvā karma sugarhitam_)!
 </details>
 </details>
 
@@ -857,7 +857,7 @@ to undergo widowhood and dolefulness. [4-20-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wretched now though never wretched before (kṛpaṇākṛpaṇā satī), and nurtured formerly without a trace of sorrow (aduḥkhopacitā pūrvam), I shall endure widowhood and the torment of grief like one who has no protector (vaidhavyaṃ śokasaṃtāpaṃ vartayiṣyāmy anāthavat).
+Wretched now though never wretched before (_kṛpaṇākṛpaṇā satī_), and nurtured formerly without a trace of sorrow (_aduḥkhopacitā pūrvam_), I shall endure widowhood and the torment of grief like one who has no protector (_vaidhavyaṃ śokasaṃtāpaṃ vartayiṣyāmy anāthavat_).
 </details>
 </details>
 
@@ -913,7 +913,7 @@ gets into a fit of fury. [4-20-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And my heroic Aṅgada, tenderly cherished, delicate, and accustomed to happiness (lālitaś cāṅgado vīraḥ sukumāraḥ sukhocitaḥ)—what state will he pass through (vatsyate kām avasthāṃ me) when his paternal uncle is blinded with wrath (pitṛvye krodhamūrcchite)?”
+And my heroic Aṅgada, tenderly cherished, delicate, and accustomed to happiness (_lālitaś cāṅgado vīraḥ sukumāraḥ sukhocitaḥ_)—what state will he pass through (_vatsyate kām avasthāṃ me_) when his paternal uncle is blinded with wrath (_pitṛvye krodhamūrcchite_)?”
 </details>
 </details>
 
@@ -970,7 +970,7 @@ impossible to catch a glimpse of him." Thus Tara said to her son Angada. [4-20-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gaze well upon your righteous-hearted father, O my son (kuruṣva pitaraṃ putra sudṛṣṭaṃ dharmavatsalam); hereafter, O dear child, the sight of him will be hard for you to obtain (durlabhaṃ darśanaṃ tasya tava vatsa bhaviṣyati)!
+“Gaze well upon your righteous-hearted father, O my son (_kuruṣva pitaraṃ putra sudṛṣṭaṃ dharmavatsalam_); hereafter, O dear child, the sight of him will be hard for you to obtain (_durlabhaṃ darśanaṃ tasya tava vatsa bhaviṣyati_)!
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ on his forehead, and give me your parting messages." So said Tara to Vali. [4-20
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Console your son (samāśvāsaya putraṃ tvam), and impart to me your parting command (saṃdeśaṃ saṃdiśasva me); smelling him upon the crown of his head (mūrdhni cainaṃ samāghrāya), you have surely set forth on a distant journey (pravāsaṃ prasthito hy asi)!
+Console your son (_samāśvāsaya putraṃ tvam_), and impart to me your parting command (_saṃdeśaṃ saṃdiśasva me_); smelling him upon the crown of his head (_mūrdhni cainaṃ samāghrāya_), you have surely set forth on a distant journey (_pravāsaṃ prasthito hy asi_)!
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ achieved indebtedness towards Sugreeva, both in a single promise. [4-20-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A mighty deed has indeed been accomplished by Rāma in striking you down (rāmeṇa hi mahat karma kṛtaṃ tvām abhinighnatā); and thereby he has discharged his debt regarding his pledge to Sugrīva (ānṛṇyaṃ tu gataṃ tasya sugrīvasya pratiśrave).
+A mighty deed has indeed been accomplished by Rāma in striking you down (_rāmeṇa hi mahat karma kṛtaṃ tvām abhinighnatā_); and thereby he has discharged his debt regarding his pledge to Sugrīva (_ānṛṇyaṃ tu gataṃ tasya sugrīvasya pratiśrave_).
 </details>
 </details>
 
@@ -1133,7 +1133,7 @@ Sugreeva. [4-20-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Be fulfilled of your desire, O Sugrīva (sakāmo bhava sugrīva)! You shall recover Rumā (rumāṃ tvaṃ pratipatsyase); enjoy the kingdom free of anxiety (bhuṅkṣva rājyam anudvignaḥ), for your brother, your foe, has been slain (śasto bhrātā ripus tava).
+Be fulfilled of your desire, O Sugrīva (_sakāmo bhava sugrīva_)! You shall recover Rumā (_rumāṃ tvaṃ pratipatsyase_); enjoy the kingdom free of anxiety (_bhuṅkṣva rājyam anudvignaḥ_), for your brother, your foe, has been slain (_śasto bhrātā ripus tava_).
 </details>
 </details>
 
@@ -1190,7 +1190,7 @@ Thus Tara lamented. [4-20-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why do you not speak to me, your beloved, as I prattle thus in grief (kiṃ mām evaṃ pralapatīṃ priyāṃ tvaṃ nābhibhāṣase)? Behold these many excellent wives of yours, O lord of monkeys (imāḥ paśya varā bahvyo bhāryās te vānareśvara)!”
+Why do you not speak to me, your beloved, as I prattle thus in grief (_kiṃ mām evaṃ pralapatīṃ priyāṃ tvaṃ nābhibhāṣase_)? Behold these many excellent wives of yours, O lord of monkeys (_imāḥ paśya varā bahvyo bhāryās te vānareśvara_)!”
 </details>
 </details>
 
@@ -1254,7 +1254,7 @@ saddened pitiably and wept piteously embracing Angada. [4-20-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing her lamentation (tasyā vilapitaṃ śrutvā), those monkey-women on every side (vānaryaḥ sarvataś ca tāḥ), clasping Aṅgada in their arms (parigṛhyāṅgadam), cried out in reply, wretched and stricken with sorrow (dīnā duḥkhārtāḥ praticukruśuḥ):
+Hearing her lamentation (_tasyā vilapitaṃ śrutvā_), those monkey-women on every side (_vānaryaḥ sarvataś ca tāḥ_), clasping Aṅgada in their arms (_parigṛhyāṅgadam_), cried out in reply, wretched and stricken with sorrow (_dīnā duḥkhārtāḥ praticukruśuḥ_):
 </details>
 </details>
 
@@ -1316,7 +1316,7 @@ unbefitting. [4-20-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you whose heroic arms are adorned with armlets (sāṅgadavīrabāho), why have you departed on a long journey, abandoning Aṅgada (kim aṅgadaṃ vihāya yāto 'si ciraṃ pravāsam)? It is not fitting thus to abandon a son so rich in virtues and clad in lovely attire (vihāya putraṃ priyacāruveṣam)!”
+“O you whose heroic arms are adorned with armlets (_sāṅgadavīrabāho_), why have you departed on a long journey, abandoning Aṅgada (_kim aṅgadaṃ vihāya yāto &#x27;si ciraṃ pravāsam_)? It is not fitting thus to abandon a son so rich in virtues and clad in lovely attire (_vihāya putraṃ priyacāruveṣam_)!”
 </details>
 </details>
 
@@ -1377,7 +1377,7 @@ monkeys lineage... oh, brave one... [Thus Tara wept for Vali.] [4-20-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Tārā said:] “If without reflection any unpleasantness was ever done by me to you, O long-armed one (yady apriyaṃ kiṃcid asampradhārya kṛtaṃ mayā syāt tava dīrghabāho), forgive me that, O lord of the monkey race (kṣamasva me tad dharivaṃśanātha); I bow with my head to your feet, O hero (vrajāmi mūrdhnā tava vīra pādau)!”
+[Tārā said:] “If without reflection any unpleasantness was ever done by me to you, O long-armed one (_yady apriyaṃ kiṃcid asampradhārya kṛtaṃ mayā syāt tava dīrghabāho_), forgive me that, O lord of the monkey race (_kṣamasva me tad dharivaṃśanātha_); I bow with my head to your feet, O hero (_vrajāmi mūrdhnā tava vīra pādau_)!”
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ self-immolate, and thus she flounced down onto ground where Vali is slouching. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping piteously thus beside her husband together with the monkey-women (tathā tu tārā karuṇaṃ rudantī bhartuḥ samīpe saha vānarībhiḥ), Tārā of faultless complexion resolved to sit down in a fast unto death (vyavasyata prāyam anindyavarṇā upopaveṣṭum) on the ground where Vālin lay (bhuvi yatra vālī).
+Weeping piteously thus beside her husband together with the monkey-women (_tathā tu tārā karuṇaṃ rudantī bhartuḥ samīpe saha vānarībhiḥ_), Tārā of faultless complexion resolved to sit down in a fast unto death (_vyavasyata prāyam anindyavarṇā upopaveṣṭum_) on the ground where Vālin lay (_bhuvi yatra vālī_).
 </details>
 </details>
 

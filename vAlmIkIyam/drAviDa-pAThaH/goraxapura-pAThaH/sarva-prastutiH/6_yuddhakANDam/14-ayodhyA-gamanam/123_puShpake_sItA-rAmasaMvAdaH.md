@@ -84,7 +84,7 @@ flew into the sky, with a great sound.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that scion of Kakutstha [Daśaratha] had departed (pratiprayāte), Mahendra, the chastiser of Pāka (pākaśāsanaḥ), supremely pleased, spoke to Rāghava who stood with joined palms:
+When that scion of Kakutstha [Daśaratha] had departed (_pratiprayāte_), Mahendra, the chastiser of Pāka (_pākaśāsanaḥ_), supremely pleased, spoke to Rāghava who stood with joined palms:
 </details>
 </details>
 
@@ -131,7 +131,7 @@ Seetha, who had a moon-like face (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never in vain (amogham) is our beholding of you, O Rāma, O bull among men! We are filled with joy (prītiyuktāḥ sma); therefore, declare whatever is desired by your heart (yan manasepsitam)!”
+“Never in vain (_amogham_) is our beholding of you, O Rāma, O bull among men! We are filled with joy (_prītiyuktāḥ sma_); therefore, declare whatever is desired by your heart (_yan manasepsitam_)!”
 </details>
 </details>
 
@@ -177,7 +177,7 @@ looking like a peak of Mount Kailasa and built by Viswarakarma, the universal ar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the gracious and high-souled Mahendra, Rāghava, delighted and serene of mind (suprasannamanāḥ), spoke these words:
+Addressed thus by the gracious and high-souled Mahendra, Rāghava, delighted and serene of mind (_suprasannamanāḥ_), spoke these words:
 </details>
 </details>
 
@@ -223,7 +223,7 @@ also a cause for the death of monkeys and demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If affection has arisen in you toward me, O lord of the gods (vibudheśvara), then make true the word that I shall speak, O best of speakers!
+“If affection has arisen in you toward me, O lord of the gods (_vibudheśvara_), then make true the word that I shall speak, O best of speakers!
 </details>
 </details>
 
@@ -279,7 +279,7 @@ people, on whom boons were conferred by Brahma and who was killed by me for your
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those valiant Vānaras who for my sake (mama hetoḥ) have gone to the abode of Yama (yamasādanam)—may all of them regain their lives (jīvitaṃ prāpya) and rise up!
+Those valiant Vānaras who for my sake (_mama hetoḥ_) have gone to the abode of Yama (_yamasādanam_)—may all of them regain their lives (_jīvitaṃ prāpya_) and rise up!
 </details>
 </details>
 
@@ -331,7 +331,7 @@ by Hanuma, the monkey."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those Vānaras who on my account (matkṛte) were parted from their sons and wives—all of them, O bestower of honour, I wish to behold joyful at heart (prītamanasaḥ)!
+Those Vānaras who on my account (_matkṛte_) were parted from their sons and wives—all of them, O bestower of honour, I wish to behold joyful at heart (_prītamanasaḥ_)!
 </details>
 </details>
 
@@ -385,7 +385,7 @@ son of Ravana, killed by Lakshmana in a combat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Heroic and valiant, counting death as naught (na mṛtyuṃ gaṇayanti ca), they strove with all their might and perished (vipannāś ca)—restore these to life (jīvayaitān), O Purandara!
+“Heroic and valiant, counting death as naught (_na mṛtyuṃ gaṇayanti ca_), they strove with all their might and perished (_vipannāś ca_)—restore these to life (_jīvayaitān_), O Purandara!
 </details>
 </details>
 
@@ -416,7 +416,7 @@ son of Ravana, killed by Lakshmana in a combat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those who were devoted to what is dear to me (matpriyeṣv abhiraktāś ca) and reckoned not with death—by your grace (tvatprasādāt) may they be reunited [with their kin]; this is the boon I choose (varam etam ahaṃ vṛṇe)!
+Those who were devoted to what is dear to me (_matpriyeṣv abhiraktāś ca_) and reckoned not with death—by your grace (_tvatprasādāt_) may they be reunited [with their kin]; this is the boon I choose (_varam etam ahaṃ vṛṇe_)!
 </details>
 </details>
 
@@ -466,7 +466,7 @@ mighty demons were also killed here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Free from pain (nīrujaḥ) and free from wounds (nirvraṇāṃś caiva), endowed with their full strength and prowess, I wish to behold the Golāṅgūlas and the bears (ṛkṣāṃś ca), O bestower of honour!
+Free from pain (_nīrujaḥ_) and free from wounds (_nirvraṇāṃś caiva_), endowed with their full strength and prowess, I wish to behold the Golāṅgūlas and the bears (_ṛkṣāṃś ca_), O bestower of honour!
 </details>
 </details>
 
@@ -497,7 +497,7 @@ Free from pain (nīrujaḥ) and free from wounds (nirvraṇāṃś caiva), endow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And even out of season (akāle cāpi), may flowers, roots, and fruits, as well as limpid rivers (nadyaś ca vimalāḥ), abide wherever the Vānaras dwell!”
+And even out of season (_akāle cāpi_), may flowers, roots, and fruits, as well as limpid rivers (_nadyaś ca vimalāḥ_), abide wherever the Vānaras dwell!”
 </details>
 </details>
 
@@ -549,7 +549,7 @@ battle-field."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the high-souled Rāghava, Mahendra replied with this speech full of affection (prītisaṃyutam):
+Hearing those words of the high-souled Rāghava, Mahendra replied with this speech full of affection (_prītisaṃyutam_):
 </details>
 </details>
 
@@ -601,7 +601,7 @@ Yupaksa and Prajangha were killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Great is this boon (mahān ayaṃ varaḥ), O dear one, which has been spoken by you, O best of the Raghus; yet never before have I spoken twice (dvir mayā noktapūrvam), and therefore this shall come to pass (etad bhaviṣyati)!
+“Great is this boon (_mahān ayaṃ varaḥ_), O dear one, which has been spoken by you, O best of the Raghus; yet never before have I spoken twice (_dvir mayā noktapūrvam_), and therefore this shall come to pass (_etad bhaviṣyati_)!
 </details>
 </details>
 
@@ -664,7 +664,7 @@ Brahma shatru was too killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let all those who were slain in battle by the Rākṣasas rise up (samuttiṣṭhantu), along with the bears and the Gopuccha monkeys whose faces and arms had been severed (nikṛttānanabāhavaḥ)!
+“Let all those who were slain in battle by the Rākṣasas rise up (_samuttiṣṭhantu_), along with the bears and the Gopuccha monkeys whose faces and arms had been severed (_nikṛttānanabāhavaḥ_)!
 </details>
 </details>
 
@@ -718,7 +718,7 @@ Mandodari lamented for Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Free from pain and free from wounds (nirvraṇāś caiva), endowed with their full strength and prowess, the monkeys shall rise up (samutthāsyanti), like sleepers at the end of slumber (nidrākṣaye yathā)!
+Free from pain and free from wounds (_nirvraṇāś caiva_), endowed with their full strength and prowess, the monkeys shall rise up (_samutthāsyanti_), like sleepers at the end of slumber (_nidrākṣaye yathā_)!
 </details>
 </details>
 
@@ -764,7 +764,7 @@ sea-shore, where having crossed the ocean, we spent that night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with supreme joy (parayā mudā), every one of them shall be reunited (sameṣyanti) with his friends, kinsmen, clan-fellows, and own family!
+Filled with supreme joy (_parayā mudā_), every one of them shall be reunited (_sameṣyanti_) with his friends, kinsmen, clan-fellows, and own family!
 </details>
 </details>
 
@@ -813,7 +813,7 @@ difficult to execute for others, got built by me over the salt-sea for your sake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even out of season (akāle), O wielder of the mighty bow, the trees shall be variegated with blossoms (puṣpaśabalāḥ) and laden with fruit, and the rivers shall abound with water (salilāyutāḥ)!”
+Even out of season (_akāle_), O wielder of the mighty bow, the trees shall be variegated with blossoms (_puṣpaśabalāḥ_) and laden with fruit, and the rivers shall abound with water (_salilāyutāḥ_)!”
 </details>
 </details>
 
@@ -866,7 +866,7 @@ oyster-shells."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With limbs that had erstwhile been covered with wounds (savraṇaiḥ prathamam) now rendered whole and scarless (idānīṃ nirvraṇaiḥ samaiḥ), all those foremost of monkeys thereupon rose up as though after sleeping (suptveva)!
+With limbs that had erstwhile been covered with wounds (_savraṇaiḥ prathamam_) now rendered whole and scarless (_idānīṃ nirvraṇaiḥ samaiḥ_), all those foremost of monkeys thereupon rose up as though after sleeping (_suptveva_)!
 </details>
 </details>
 
@@ -913,7 +913,7 @@ passing through the ocean, in order to provide rest and relaxation to Hanuma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the Vānaras were struck with wonder (vismitāḥ), exclaiming “What can this be (kiṃ tv etad iti)?”, while all the foremost of the gods beheld Kākutstha with his purpose fully accomplished (paripūrṇārtham).
+All the Vānaras were struck with wonder (_vismitāḥ_), exclaiming “What can this be (_kiṃ tv etad iti_)?”, while all the foremost of the gods beheld Kākutstha with his purpose fully accomplished (_paripūrṇārtham_).
 </details>
 </details>
 
@@ -977,7 +977,7 @@ me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having praised Rāma together with Lakṣmaṇa, [the gods], supremely pleased (paramaprītāḥ), said: “Go forth from this place to Ayodhyā, O king, and dismiss the Vānaras (visarjaya ca vānarān)!
+Having praised Rāma together with Lakṣmaṇa, [the gods], supremely pleased (_paramaprītāḥ_), said: “Go forth from this place to Ayodhyā, O king, and dismiss the Vānaras (_visarjaya ca vānarān_)!
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ Having praised Rāma together with Lakṣmaṇa, [the gods], supremely pleased (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Console (sāntvayasva) this devoted and illustrious Maithilī; behold your brother Bharata, who is observing ascetic vows out of grief for you (tvacchokād vratacāriṇam),
+Console (_sāntvayasva_) this devoted and illustrious Maithilī; behold your brother Bharata, who is observing ascetic vows out of grief for you (_tvacchokād vratacāriṇam_),
 </details>
 </details>
 
@@ -1058,7 +1058,7 @@ this very place, Vibhishana the king of demons first came."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-as well as the high-souled Śatrughna and all your mothers, O scorcher of foes! Consecrate yourself upon the throne (abhiṣecaya cātmānam), and having gone there, gladden the citizens (paurān praharṣaya)!”
+as well as the high-souled Śatrughna and all your mothers, O scorcher of foes! Consecrate yourself upon the throne (_abhiṣecaya cātmānam_), and having gone there, gladden the citizens (_paurān praharṣaya_)!”
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ colourful groves, where Vali was killed by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Rāma together with Saumitri, the thousand-eyed [Indra], rejoicing, departed together with the gods in celestial chariots bright as the sun (vimānaiḥ sūryasaṃkāśaiḥ).
+Having spoken thus to Rāma together with Saumitri, the thousand-eyed [Indra], rejoicing, departed together with the gods in celestial chariots bright as the sun (_vimānaiḥ sūryasaṃkāśaiḥ_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ feeling timid through love, then spoke the following courteous words to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having reverently saluted (abhivādya) all those foremost of the celestials, Kākutstha, together with his brother Lakṣmaṇa, commanded the encampment (vāsam ājñāpayat) at that time.
+And having reverently saluted (_abhivādya_) all those foremost of the celestials, Kākutstha, together with his brother Lakṣmaṇa, commanded the encampment (_vāsam ājñāpayat_) at that time.
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ the wives of other monkey-chiefs with Tara and other beloved wives of Sugreeva."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that great army (mahācamūḥ), protected by Lakṣmaṇa and Rāma, illustrious and filled with rejoicing warriors (hṛṣṭajanā), blazed with splendour and shone on every side like the night illumined by the cool-rayed moon (niśā praṇīteva hi śītaraśminā).
+Then that great army (_mahācamūḥ_), protected by Lakṣmaṇa and Rāma, illustrious and filled with rejoicing warriors (_hṛṣṭajanā_), blazed with splendour and shone on every side like the night illumined by the cool-rayed moon (_niśā praṇīteva hi śītaraśminā_).
 </details>
 </details>
 

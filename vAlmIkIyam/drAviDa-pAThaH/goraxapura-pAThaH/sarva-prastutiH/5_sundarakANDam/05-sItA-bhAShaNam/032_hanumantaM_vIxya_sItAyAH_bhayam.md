@@ -104,9 +104,9 @@ resembling regined gold, humble and speaking agreeable words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then, seeing him nestled among the branches (śākhāntare līnam), her mind was agitated (calita-mānasā)—clothed as he was in a white garment (veṣṭitārjuna-vastram) and tawny like a mass of lightning (vidyut-saṃghāta-piṅgalam).
+**1:** Then, seeing him nestled among the branches (_śākhāntare līnam_), her mind was agitated (_calita-mānasā_)—clothed as he was in a white garment (_veṣṭitārjuna-vastram_) and tawny like a mass of lightning (_vidyut-saṃghāta-piṅgalam_).
 
-**2:** She beheld the monkey there, humble in bearing and speaking kindly (praśritaṃ priya-vādinam), shining like a cluster of blossoming aśoka flowers (phullāśokotkarābhāsam) and having eyes like molten gold (tapta-cāmīkarekṣaṇam).
+**2:** She beheld the monkey there, humble in bearing and speaking kindly (_praśritaṃ priya-vādinam_), shining like a cluster of blossoming _aśoka_ flowers (_phullāśokotkarābhāsam_) and having eyes like molten gold (_tapta-cāmīkarekṣaṇam_).
 </details>
 </details>
 
@@ -163,7 +163,7 @@ fearful and difficult to be looked at." Thus thinking, she was bewildered again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that foremost of monkeys standing deferentially (vinītavad avasthitam), Maithilī reflected, filled with supreme wonder (vismayaṃ paramaṃ gatā).
+Seeing that foremost of monkeys standing deferentially (_vinītavad avasthitam_), Maithilī reflected, filled with supreme wonder (_vismayaṃ paramaṃ gatā_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ah! Terrifying is this creature of a monkey and hard to approach (bhīmam idaṃ sattvaṃ vānarasya durāsadam)!” Deemed hard even to gaze upon (durnirīkṣyam idaṃ matvā), she swooned once again.
+“Ah! Terrifying is this creature of a monkey and hard to approach (_bhīmam idaṃ sattvaṃ vānarasya durāsadam_)!” Deemed hard even to gaze upon (_durnirīkṣyam idaṃ matvā_), she swooned once again.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bewildered by fear (bhaya-mohitā), the noble lady Sītā lamented piteously and sore, stricken with grief, crying “O Rāma, Rāma! O Lakṣmaṇa!”
+Bewildered by fear (_bhaya-mohitā_), the noble lady Sītā lamented piteously and sore, stricken with grief, crying “O Rāma, Rāma! O Lakṣmaṇa!”
 </details>
 </details>
 
@@ -302,7 +302,7 @@ Seeing that excellent monkey appraching humbly, that splendid woman Seetha thoug
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The chaste Sītā suddenly wept in a hushed, gentle voice (manda-manda-svarā satī). Then, seeing that foremost of monkeys who had approached so humbly (vinītavad upāgatam), the noble lady Maithilī thought, “This is a dream (svapno 'yam iti)!”
+The chaste Sītā suddenly wept in a hushed, gentle voice (_manda-manda-svarā satī_). Then, seeing that foremost of monkeys who had approached so humbly (_vinītavad upāgatam_), the noble lady Maithilī thought, “This is a dream (_svapno &#x27;yam iti_)!”
 </details>
 </details>
 
@@ -358,7 +358,7 @@ acts as told by sugreeva the king of monkeys, the foremost of monkeys, greatly a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon him of broad and curved jaw (pṛthu-bhugna-vaktram), the faithful executor of the monkey king’s command (śākhāmṛgendrasya yathokta-kāram), she beheld that noble chief of tawny monkeys, the son of the Wind-god, foremost among the wise (buddhimatāṃ variṣṭham).
+Gazing upon him of broad and curved jaw (_pṛthu-bhugna-vaktram_), the faithful executor of the monkey king’s command (_śākhāmṛgendrasya yathokta-kāram_), she beheld that noble chief of tawny monkeys, the son of the Wind-god, foremost among the wise (_buddhimatāṃ variṣṭham_).
 </details>
 </details>
 
@@ -421,7 +421,7 @@ Regaining her consciousness after a long time the wide eyed Seetha moreover thou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Merely upon beholding him, Sītā was sorely distressed (bhṛśaṃ vipannā) and became almost lifeless (gatāsu-kalpeva babhūva). Regaining consciousness after a long while (cireṇa saṃjñāṃ pratilabhya), the wide-eyed lady reflected thus:
+Merely upon beholding him, Sītā was sorely distressed (_bhṛśaṃ vipannā_) and became almost lifeless (_gatāsu-kalpeva babhūva_). Regaining consciousness after a long while (_cireṇa saṃjñāṃ pratilabhya_), the wide-eyed lady reflected thus:
 </details>
 </details>
 
@@ -485,7 +485,7 @@ May it be well with Rama together with Lakshmana and with my father, King Janaka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“An inauspicious dream has been seen by me today (svapno mayāyaṃ vikṛto 'dya dṛṣṭaḥ)—a monkey, which is declared forbidden by the collections of treatises (śāstra-gaṇair niṣiddhaḥ)! May auspiciousness attend Rāma together with Lakṣmaṇa, as well as my father, King Janaka!
+“An inauspicious dream has been seen by me today (_svapno mayāyaṃ vikṛto &#x27;dya dṛṣṭaḥ_)—a monkey, which is declared forbidden by the collections of treatises (_śāstra-gaṇair niṣiddhaḥ_)! May auspiciousness attend Rāma together with Lakṣmaṇa, as well as my father, King Janaka!
 </details>
 </details>
 
@@ -550,7 +550,7 @@ from Rama whose countenance resembles a full moon, there is no happiness indeed!
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet surely this is not a dream (svapno hi nāyam), for sleep is never mine (na hi me 'sti nidrā), tormented as I am by grief and sorrow. Indeed, there is no happiness for me since I am parted from him whose countenance resembles the full moon (tenendu-pūrṇa-pratimānanena).
+Yet surely this is not a dream (_svapno hi nāyam_), for sleep is never mine (_na hi me &#x27;sti nidrā_), tormented as I am by grief and sorrow. Indeed, there is no happiness for me since I am parted from him whose countenance resembles the full moon (_tenendu-pūrṇa-pratimānanena_).
 </details>
 </details>
 
@@ -621,7 +621,7 @@ confomably I am seeing and hearing a story thus corresponding to he same thought
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Constantly reflecting ‘Rāma, Rāma!’ with my mind and uttering him alone with my voice (vācā bruvatī tam eva), I thus behold a vision conformable to him and hear a narrative concerning him (kathāṃ tad-arthām).
+Constantly reflecting ‘Rāma, Rāma!’ with my mind and uttering him alone with my voice (_vācā bruvatī tam eva_), I thus behold a vision conformable to him and hear a narrative concerning him (_kathāṃ tad-arthām_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ of him alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For today, tormented by love-longing for him (tasya manobhavena sampīḍitā) and having my every thought absorbed in him (tad-gata-sarva-bhāvā), while ceaselessly pondering him alone, I see and hear accordingly.
+For today, tormented by love-longing for him (_tasya manobhavena sampīḍitā_) and having my every thought absorbed in him (_tad-gata-sarva-bhāvā_), while ceaselessly pondering him alone, I see and hear accordingly.
 </details>
 </details>
 
@@ -751,7 +751,7 @@ reason?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I think that this may be a wishful fancy (manorathaḥ syād iti cintayāmi), and yet with my intellect I reason further (buddhyāpi vitarkayāmi): for what reason? That fancy has no tangible form (tasya hi nāsti rūpam), whereas this one of distinctly visible form speaks to me (suvyakta-rūpaś ca vadaty ayaṃ mām)!
+I think that this may be a wishful fancy (_manorathaḥ syād iti cintayāmi_), and yet with my intellect I reason further (_buddhyāpi vitarkayāmi_): for what reason? That fancy has no tangible form (_tasya hi nāsti rūpam_), whereas this one of distinctly visible form speaks to me (_suvyakta-rūpaś ca vadaty ayaṃ mām_)!
 </details>
 </details>
 
@@ -827,7 +827,7 @@ monkey be true! Let them not be untrue!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Homage be to the Lord of Speech [Bṛhaspati] together with the Wielder of the Thunderbolt [Indra], to the Self-existent [Brahmā], and to the Oblation-Consumer [Agni] (svayambhuve caiva hutāśanāya)! And whatever has been spoken before me by this forest-dweller (anena vanaukasā), may that be exactly so and not otherwise (tac ca tathāstu nānyathā)!”
+Homage be to the Lord of Speech [Bṛhaspati] together with the Wielder of the Thunderbolt [Indra], to the Self-existent [Brahmā], and to the Oblation-Consumer [Agni] (_svayambhuve caiva hutāśanāya_)! And whatever has been spoken before me by this forest-dweller (_anena vanaukasā_), may that be exactly so and not otherwise (_tac ca tathāstu nānyathā_)!”
 </details>
 </details>
 

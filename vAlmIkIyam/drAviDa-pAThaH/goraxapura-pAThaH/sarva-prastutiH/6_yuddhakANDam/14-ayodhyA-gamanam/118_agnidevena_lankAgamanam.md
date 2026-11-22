@@ -74,7 +74,7 @@ up, taking Seetha in his arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Maithilī standing humbly (prahvām) beside him, Rāma began to utter the resolve (bhāvam) held within his heart.
+Beholding Maithilī standing humbly (_prahvām_) beside him, Rāma began to utter the resolve (_bhāvam_) held within his heart.
 </details>
 </details>
 
@@ -127,7 +127,7 @@ arms, the fire-god forthwith sprang up at once in a personified form.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here you have been won back, O auspicious lady (bhadre), after I conquered the enemy upon the field of battle; whatever was to be accomplished through manly valor (pauruṣāt) has been achieved by me.
+“Here you have been won back, O auspicious lady (_bhadre_), after I conquered the enemy upon the field of battle; whatever was to be accomplished through manly valor (_pauruṣāt_) has been achieved by me.
 </details>
 </details>
 
@@ -186,9 +186,9 @@ same (as she did while entering the flames), the fire-god restored her to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** I have reached the end of my righteous indignation (amarṣasya), and the outrage (dharṣaṇā) has been thoroughly wiped away; both the dishonor and the enemy have been struck down simultaneously by me.
+**3:** I have reached the end of my righteous indignation (_amarṣasya_), and the outrage (_dharṣaṇā_) has been thoroughly wiped away; both the dishonor and the enemy have been struck down simultaneously by me.
 
-**4:** Today my manly prowess has been witnessed; today my toil has borne fruit; today I have fulfilled my vow (tīrṇapratijñaḥ), and today I am master of myself.
+**4:** Today my manly prowess has been witnessed; today my toil has borne fruit; today I have fulfilled my vow (_tīrṇapratijñaḥ_), and today I am master of myself.
 </details>
 </details>
 
@@ -234,7 +234,7 @@ is your Seetha. No sin exists in her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That transgression brought about by fate (daivasampāditaḥ doṣaḥ)—whereby you, separated from me, were carried off by the fickle-minded Rākṣasa—has been overcome by me, a mortal man.
+That transgression brought about by fate (_daivasampāditaḥ doṣaḥ_)—whereby you, separated from me, were carried off by the fickle-minded Rākṣasa—has been overcome by me, a mortal man.
 </details>
 </details>
 
@@ -291,7 +291,7 @@ her glances."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What use is there for the prowess—even if great—of a narrow-minded man (alpacetasaḥ) who does not wipe away by his own splendor (tejasā) an insult that has befallen him?
+What use is there for the prowess—even if great—of a narrow-minded man (_alpacetasaḥ_) who does not wipe away by his own splendor (_tejasā_) an insult that has befallen him?
 </details>
 </details>
 
@@ -351,7 +351,7 @@ demon, who was arrogant of his valour, from a lonely hermitage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The leaping across the ocean and the crushing (mardanam) of Laṅkā—today that praiseworthy deed of Hanūmān has borne fruit (saphalam).
+The leaping across the ocean and the crushing (_mardanam_) of Laṅkā—today that praiseworthy deed of Hanūmān has borne fruit (_saphalam_).
 </details>
 </details>
 
@@ -408,7 +408,7 @@ female-demons with horrible intellect."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today the toil (pariśramaḥ) of Sugrīva along with his army—fighting valiantly in battle and counseling what was salutary (hitam)—has borne fruit.
+Today the toil (_pariśramaḥ_) of Sugrīva along with his army—fighting valiantly in battle and counseling what was salutary (_hitam_)—has borne fruit.
 </details>
 </details>
 
@@ -454,7 +454,7 @@ and frightened through various means."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And today the toil of Vibhīṣaṇa has likewise borne fruit—he who abandoned his unrighteous (viguṇam) brother and came of his own accord to me.”
+And today the toil of Vibhīṣaṇa has likewise borne fruit—he who abandoned his unrighteous (_viguṇam_) brother and came of his own accord to me.”
 </details>
 </details>
 
@@ -506,7 +506,7 @@ anything harsh. I hereby command you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Rāma speaking thus, Sītā, her eyes wide like those of a doe (mṛgīvotphullanayanā), became flooded with tears.
+Hearing those words of Rāma speaking thus, Sītā, her eyes wide like those of a doe (_mṛgīvotphullanayanā_), became flooded with tears.
 </details>
 </details>
 
@@ -565,7 +565,7 @@ tears of joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāma beheld the beloved of his heart (hṛdayapriyām) standing near, the king's heart was split in two (babhūva hṛdayaṃ dvidhā) out of fear of public rumor (janavādabhayāt).
+As Rāma beheld the beloved of his heart (_hṛdayapriyām_) standing near, the king&#x27;s heart was split in two (_babhūva hṛdayaṃ dvidhā_) out of fear of public rumor (_janavādabhayāt_).
 </details>
 </details>
 
@@ -622,7 +622,7 @@ upholding the virtue, replied to the fire-god, the best of gods.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of the monkeys and Rākṣasas, he spoke to the fair-hipped Sītā (varārohām), whose eyes were like blue lotus petals and whose locks were dark and curled.
+In the midst of the monkeys and Rākṣasas, he spoke to the fair-hipped Sītā (_varārohām_), whose eyes were like blue lotus petals and whose locks were dark and curled.
 </details>
 </details>
 
@@ -679,7 +679,7 @@ much as this blessed woman had resided for a long time indeed in the gynaecium o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever must be done by a man wiping away an outrage (dharṣaṇāṃ pratimārjatā), that has been done by me—desirous of honor (mānakāṅkṣiṇā)—in slaying Rāvaṇa.
+“Whatever must be done by a man wiping away an outrage (_dharṣaṇāṃ pratimārjatā_), that has been done by me—desirous of honor (_mānakāṅkṣiṇā_)—in slaying Rāvaṇa.
 </details>
 </details>
 
@@ -738,7 +738,7 @@ with regard to her chastity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You have been won back by me like the southern quarter (dakṣiṇeva dik)—unassailable (durādharṣā) by the world of living beings—by the sage Agastya, whose soul was purified by austerity (tapasā bhāvitātmanā).
+You have been won back by me like the southern quarter (_dakṣiṇeva dik_)—unassailable (_durādharṣā_) by the world of living beings—by the sage Agastya, whose soul was purified by austerity (_tapasā bhāvitātmanā_).
 </details>
 </details>
 
@@ -792,7 +792,7 @@ undivided in her affection to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And let this be known—may auspiciousness attend you (bhadraṃ te)—that this toil of battle (raṇapariśramaḥ), successfully crossed through the valor of my friends, was not undertaken by me for your sake (na tvadartham).
+And let this be known—may auspiciousness attend you (_bhadraṃ te_)—that this toil of battle (_raṇapariśramaḥ_), successfully crossed through the valor of my friends, was not undertaken by me for your sake (_na tvadartham_).
 </details>
 </details>
 
@@ -846,7 +846,7 @@ splendour, any more than an ocean would transgress its bounds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rather, it was done by me while guarding my righteous conduct (vṛttam), warding off censure on every side (apavādaṃ ca sarvataḥ), and wiping away the stain (nyaṅgam) upon myrenowned lineage.
+Rather, it was done by me while guarding my righteous conduct (_vṛttam_), warding off censure on every side (_apavādaṃ ca sarvataḥ_), and wiping away the stain (_nyaṅgam_) upon myrenowned lineage.
 </details>
 </details>
 
@@ -894,7 +894,7 @@ while she was entering the fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing before me with suspicion fallen upon your character (prāptacāritrasaṃdehā), you are intensely repugnant (pratikūlā) to me, like a bright lamp to one afflicted with an eye-disease (netrāturasyeva).
+Standing before me with suspicion fallen upon your character (_prāptacāritrasaṃdehā_), you are intensely repugnant (_pratikūlā_) to me, like a bright lamp to one afflicted with an eye-disease (_netrāturasyeva_).
 </details>
 </details>
 
@@ -956,7 +956,7 @@ the unobtainable Seetha, who was blazing like a flaming tongue of fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore go, O daughter of Janaka—I grant you leave (tvānujāne) today—as you wish (yatheṣṭam); here lie the ten directions, O auspicious lady; I have no further business (kāryam) with you.
+Therefore go, O daughter of Janaka—I grant you leave (_tvānujāne_) today—as you wish (_yatheṣṭam_); here lie the ten directions, O auspicious lady; I have no further business (_kāryam_) with you.
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ different from the sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What man of spirit (tejasvī), born in a noble family, would take back again—out of a mind deluded by fond attachment (suhṛllobhena cetasā)—a woman who has dwelt in another's house (paragṛhoṣitām)?
+What man of spirit (_tejasvī_), born in a noble family, would take back again—out of a mind deluded by fond attachment (_suhṛllobhena cetasā_)—a woman who has dwelt in another&#x27;s house (_paragṛhoṣitām_)?
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How could I, proclaiming my great lineage (kulaṃ vyapadiśan mahat), take you back again after you have been crushed in Rāvaṇa's lap (rāvaṇāṅkaparikliṣṭām) and beheld by his wicked eye?
+How could I, proclaiming my great lineage (_kulaṃ vyapadiśan mahat_), take you back again after you have been crushed in Rāvaṇa&#x27;s lap (_rāvaṇāṅkaparikliṣṭām_) and beheld by his wicked eye?
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ saying what is conducive to our good, must be certainly carried out by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That goal for which you were won back by me has now been attained by me; I have no attachment (abhiṣvaṅgaḥ) toward you—go wherever you please.
+That goal for which you were won back by me has now been attained by me; I have no attachment (_abhiṣvaṅgaḥ_) toward you—go wherever you please.
 </details>
 </details>
 
@@ -1196,7 +1196,7 @@ happiness and was being glorified by his exploits, performed by his own self, ex
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore today this has been spoken by me with a resolved mind (kṛtabuddhinā), O auspicious lady; fix your mind (kuru buddhim) as pleases you upon Lakṣmaṇa or else upon Bharata.
+Therefore today this has been spoken by me with a resolved mind (_kṛtabuddhinā_), O auspicious lady; fix your mind (_kuru buddhim_) as pleases you upon Lakṣmaṇa or else upon Bharata.
 </details>
 </details>
 

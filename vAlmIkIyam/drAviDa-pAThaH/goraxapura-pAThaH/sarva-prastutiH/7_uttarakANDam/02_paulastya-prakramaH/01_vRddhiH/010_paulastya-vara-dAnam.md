@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma spoke to the sage (athābravīn muniṃ rāmaḥ): “How, O brahman, did those mighty-strengthed brothers (te bhrātaro ... mahābalāḥ) dwell in the forest, and of what sort was the austerity they performed at that time (kīdṛśaṃ ... tapas tepuḥ)?”
+Then Rāma spoke to the sage (_athābravīn muniṃ rāmaḥ_): “How, O brahman, did those mighty-strengthed brothers (_te bhrātaro ... mahābalāḥ_) dwell in the forest, and of what sort was the austerity they performed at that time (_kīdṛśaṃ ... tapas tepuḥ_)?”
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Then Rāma spoke to the sage (athābravīn muniṃ rāmaḥ): “How, O brahman,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Agastya spoke to Rāma, whose mind was exceedingly pleased (suprīta-mānasam): “There those brothers entered upon manifold observances of dharma (tāṃs tān dharma-vidhīṃs tatra ... samāviśan).
+Thereupon Agastya spoke to Rāma, whose mind was exceedingly pleased (_suprīta-mānasam_): “There those brothers entered upon manifold observances of dharma (_tāṃs tān dharma-vidhīṃs tatra ... samāviśan_).
 </details>
 </details>
 
@@ -111,7 +111,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Self-restrained (yattaḥ) and ever steadfast in the path of dharma (nityaṃ dharma-pathe sthitaḥ), Kumbhakarṇa then practiced austerity during the summer season (grīṣma-kāle) seated surrounded by the five fires (pañcāgnīn paritaḥ sthitaḥ).
+“Self-restrained (_yattaḥ_) and ever steadfast in the path of dharma (_nityaṃ dharma-pathe sthitaḥ_), Kumbhakarṇa then practiced austerity during the summer season (_grīṣma-kāle_) seated surrounded by the five fires (_pañcāgnīn paritaḥ sthitaḥ_).
 </details>
 </details>
 
@@ -142,7 +142,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Drenched by the waters of the rainclouds during the monsoon (meghāmbu-sikto varṣāsu), he practiced the heroic posture (vīrāsanam asevata), and in the cold season (śiśire kāle) he ever made the midst of the waters his abode (jala-madhya-pratiśrayaḥ).
+“Drenched by the waters of the rainclouds during the monsoon (_meghāmbu-sikto varṣāsu_), he practiced the heroic posture (_vīrāsanam asevata_), and in the cold season (_śiśire kāle_) he ever made the midst of the waters his abode (_jala-madhya-pratiśrayaḥ_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus ten thousand years (varṣa-sahasrāṇi daśa) elapsed for him (tasyāticakramuḥ) as he strove diligently in dharma (dharme prayatamānasya) and remained firmly grounded in the righteous path (sat-pathe niṣṭhitasya).
+“Thus ten thousand years (_varṣa-sahasrāṇi daśa_) elapsed for him (_tasyāticakramuḥ_) as he strove diligently in dharma (_dharme prayatamānasya_) and remained firmly grounded in the righteous path (_sat-pathe niṣṭhitasya_).
 </details>
 </details>
 
@@ -204,7 +204,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Meanwhile the righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), ever devoted to dharma (nityaṃ dharma-paraḥ) and pure (śuciḥ), stood upon a single foot (pādenaikena tasthivān) for five thousand years.
+“Meanwhile the righteous-souled Vibhīṣaṇa (_vibhīṣaṇas tu dharmātmā_), ever devoted to dharma (_nityaṃ dharma-paraḥ_) and pure (_śuciḥ_), stood upon a single foot (_pādenaikena tasthivān_) for five thousand years.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon the completion of that vow of his (samāpte niyame tasya), throngs of Apsarases danced (nanṛtuś cāpsaro-gaṇāḥ), a rain of blossoms fell (papāta puṣpa-varṣaṃ ca), and the deities too were stirred with commotion (kṣubhitāś cāpi devatāḥ).
+“Upon the completion of that vow of his (_samāpte niyame tasya_), throngs of Apsarases danced (_nanṛtuś cāpsaro-gaṇāḥ_), a rain of blossoms fell (_papāta puṣpa-varṣaṃ ca_), and the deities too were stirred with commotion (_kṣubhitāś cāpi devatāḥ_).
 </details>
 </details>
 
@@ -274,7 +274,7 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For five thousand years more he followed the course of the sun (sūryaṃ caivānvavartata), standing with head and arms uplifted (tasthau cordhva-śiro-bāhuḥ), his mind steadfastly fixed in Vedic study (svādhyāya-dhṛta-mānasaḥ).
+“For five thousand years more he followed the course of the sun (_sūryaṃ caivānvavartata_), standing with head and arms uplifted (_tasthau cordhva-śiro-bāhuḥ_), his mind steadfastly fixed in Vedic study (_svādhyāya-dhṛta-mānasaḥ_).
 </details>
 </details>
 
@@ -305,7 +305,7 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus for the self-restrained Vibhīṣaṇa too (vibhīṣaṇasyāpi ... niyatātmanaḥ), ten thousand years passed away (daśa-varṣa-sahasrāṇi gatāni), as though for one dwelling in heaven within the Nandana grove (svargasthasyeva nandane).
+“Thus for the self-restrained Vibhīṣaṇa too (_vibhīṣaṇasyāpi ... niyatātmanaḥ_), ten thousand years passed away (_daśa-varṣa-sahasrāṇi gatāni_), as though for one dwelling in heaven within the Nandana grove (_svargasthasyeva nandane_).
 </details>
 </details>
 
@@ -336,7 +336,7 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Meanwhile the ten-faced Rāvaṇa (daśānanaḥ) remained without food for ten thousand years (daśa-varṣa-sahasraṃ tu nirāhāraḥ), and at the completion of each thousand years (pūrṇe varṣa-sahasre tu) he offered a head into the sacrificial fire (śiraś cāgnau juhāva saḥ).
+“Meanwhile the ten-faced Rāvaṇa (_daśānanaḥ_) remained without food for ten thousand years (_daśa-varṣa-sahasraṃ tu nirāhāraḥ_), and at the completion of each thousand years (_pūrṇe varṣa-sahasre tu_) he offered a head into the sacrificial fire (_śiraś cāgnau juhāva saḥ_).
 </details>
 </details>
 
@@ -367,7 +367,7 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this manner nine thousand years elapsed for him (varṣa-sahasrāṇi nava tasyāticakramuḥ), and nine of his heads as well (śirāṃsi nava cāpy asya) entered the fire (praviṣṭāni hutāśanam).
+“In this manner nine thousand years elapsed for him (_varṣa-sahasrāṇi nava tasyāticakramuḥ_), and nine of his heads as well (_śirāṃsi nava cāpy asya_) entered the fire (_praviṣṭāni hutāśanam_).
 </details>
 </details>
 
@@ -401,7 +401,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, in the tenth millennium (varṣa-sahasre tu daśame), just as Daśagrīva was poised to sever his tenth head (daśamaṃ śiraḥ chettu-kāme daśagrīve), the Grandsire Brahmā arrived upon that spot (prāptas tatra pitāmahaḥ).
+“Then, in the tenth millennium (_varṣa-sahasre tu daśame_), just as Daśagrīva was poised to sever his tenth head (_daśamaṃ śiraḥ chettu-kāme daśagrīve_), the Grandsire Brahmā arrived upon that spot (_prāptas tatra pitāmahaḥ_).
 </details>
 </details>
 
@@ -440,7 +440,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Greatly pleased, the Grandsire (pitāmahas tu suprītaḥ) appeared there accompanied by the gods (sārdhaṃ devair upasthitaḥ) and spoke thus: ‘Daśagrīva, I am indeed pleased with you (tava tāvad daśagrīva prīto ’smi)!
+“Greatly pleased, the Grandsire (_pitāmahas tu suprītaḥ_) appeared there accompanied by the gods (_sārdhaṃ devair upasthitaḥ_) and spoke thus: ‘Daśagrīva, I am indeed pleased with you (_tava tāvad daśagrīva prīto ’smi_)!
 </details>
 </details>
 
@@ -471,7 +471,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Choose swiftly, O knower of dharma (śīghraṃ varaya dharmajña), whatever boon is longed for by you (varo yas te ’bhikāṅkṣitaḥ). What desire of yours shall I fulfill today (kaṃ te kāmaṃ karomy adya)? Your arduous exertion shall not be in vain (na vṛthā te pariśramaḥ).’
+“‘Choose swiftly, O knower of dharma (_śīghraṃ varaya dharmajña_), whatever boon is longed for by you (_varo yas te ’bhikāṅkṣitaḥ_). What desire of yours shall I fulfill today (_kaṃ te kāmaṃ karomy adya_)? Your arduous exertion shall not be in vain (_na vṛthā te pariśramaḥ_).’
 </details>
 </details>
 
@@ -502,7 +502,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Daśagrīva spoke (athābravīd daśagrīvaḥ) with an exceedingly delighted heart (prahṛṣṭenāntarātmanā), bowing low with his head to the deity (praṇamya śirasā devam) in a voice faltering with joy (harṣa-gadgadayā girā):
+“Thereupon Daśagrīva spoke (_athābravīd daśagrīvaḥ_) with an exceedingly delighted heart (_prahṛṣṭenāntarātmanā_), bowing low with his head to the deity (_praṇamya śirasā devam_) in a voice faltering with joy (_harṣa-gadgadayā girā_):
 </details>
 </details>
 
@@ -533,7 +533,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O revered Lord (bhagavan), for living creatures there is ever no fear other than death (prāṇināṃ nityaṃ nānyatra maraṇād bhayam); there is no enemy equal to Death (nāsti mṛtyu-samaḥ śatruḥ)—therefore I choose immortality (amaratvam ahaṃ vṛṇe)!’
+“‘O revered Lord (_bhagavan_), for living creatures there is ever no fear other than death (_prāṇināṃ nityaṃ nānyatra maraṇād bhayam_); there is no enemy equal to Death (_nāsti mṛtyu-samaḥ śatruḥ_)—therefore I choose immortality (_amaratvam ahaṃ vṛṇe_)!’
 </details>
 </details>
 
@@ -564,7 +564,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed, Brahmā thereupon spoke to Daśagrīva (daśagrīvam uvāca ha): ‘Absolute immortality cannot be yours (nāsti sarvāmaratvaṃ te); choose some other boon from me (varam anyaṃ vṛṇīṣva me)!’
+“Thus addressed, Brahmā thereupon spoke to Daśagrīva (_daśagrīvam uvāca ha_): ‘Absolute immortality cannot be yours (_nāsti sarvāmaratvaṃ te_); choose some other boon from me (_varam anyaṃ vṛṇīṣva me_)!’
 </details>
 </details>
 
@@ -595,7 +595,7 @@ Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When thus spoken to, O Rāma, by Brahmā, maker of the worlds (brahmaṇā loka-kartṛṇā), Daśagrīva stood before him with joined palms (kṛtāñjalir athāgrataḥ) and uttered these words:
+“When thus spoken to, O Rāma, by Brahmā, maker of the worlds (_brahmaṇā loka-kartṛṇā_), Daśagrīva stood before him with joined palms (_kṛtāñjalir athāgrataḥ_) and uttered these words:
 </details>
 </details>
 
@@ -634,7 +634,7 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘May I be unslayable (avadhyo ’ham), O Lord of creatures (prajādhyakṣa), O Eternal One (śāśvata), by Suparṇas, Nāgas, and Yakṣas (suparṇa-nāga-yakṣāṇām), by Daityas, Dānavas, and Rākṣasas (daitya-dānava-rakṣasām), and by the deities as well (devatānāṃ ca)!
+“‘May I be unslayable (_avadhyo ’ham_), O Lord of creatures (_prajādhyakṣa_), O Eternal One (_śāśvata_), by Suparṇas, Nāgas, and Yakṣas (_suparṇa-nāga-yakṣāṇām_), by Daityas, Dānavas, and Rākṣasas (_daitya-dānava-rakṣasām_), and by the deities as well (_devatānāṃ ca_)!
 </details>
 </details>
 
@@ -665,7 +665,7 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I have no anxiety concerning other living beings (na hi cintā mamānyeṣu prāṇiṣu), O thou worshipped by the immortals (amara-pūjita); for I regard those creatures beginning with humans (prāṇino mānuṣādayaḥ) as mere blades of grass (tṛṇa-bhūtāḥ)!’
+“‘I have no anxiety concerning other living beings (_na hi cintā mamānyeṣu prāṇiṣu_), O thou worshipped by the immortals (_amara-pūjita_); for I regard those creatures beginning with humans (_prāṇino mānuṣādayaḥ_) as mere blades of grass (_tṛṇa-bhūtāḥ_)!’
 </details>
 </details>
 
@@ -696,7 +696,7 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed by that Rākṣasa Daśagrīva (daśagrīveṇa rakṣasā), the righteous-souled god (dharmātmā ... devaḥ), the Grandsire accompanied by the deities (saha devaiḥ pitāmahaḥ), spoke these words:
+“Thus addressed by that Rākṣasa Daśagrīva (_daśagrīveṇa rakṣasā_), the righteous-souled god (_dharmātmā ... devaḥ_), the Grandsire accompanied by the deities (_saha devaiḥ pitāmahaḥ_), spoke these words:
 </details>
 </details>
 
@@ -727,7 +727,7 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Even so shall this word of yours come to pass (bhaviṣyaty evam etat te vacaḥ), O bull among Rākṣasas (rākṣasa-puṅgava)!’ Having thus spoken to that Daśagrīva, O Rāma, the Grandsire continued:
+“‘Even so shall this word of yours come to pass (_bhaviṣyaty evam etat te vacaḥ_), O bull among Rākṣasas (_rākṣasa-puṅgava_)!’ Having thus spoken to that Daśagrīva, O Rāma, the Grandsire continued:
 </details>
 </details>
 
@@ -764,9 +764,9 @@ Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “‘Hear as well a further auspicious boon (śṛṇu cāpi varo bhūyaḥ ... śubho mama) from me, who am pleased here: those heads which were previously offered by you into the fire (hutāni yāni śīrṣāṇi pūrvam agnau tvayā), O sinless one,
+**23:** “‘Hear as well a further auspicious boon (_śṛṇu cāpi varo bhūyaḥ ... śubho mama_) from me, who am pleased here: those heads which were previously offered by you into the fire (_hutāni yāni śīrṣāṇi pūrvam agnau tvayā_), O sinless one,
 
-**24:** “‘Those very heads shall come back into being for you just as before (punas tāni bhaviṣyanti tathaiva tava), O Rākṣasa; and I bestow upon you here, O gentle one (vitarāmīha te saumya), yet another boon hard to attain (varaṃ cānyaṃ durāsadam).
+**24:** “‘Those very heads shall come back into being for you just as before (_punas tāni bhaviṣyanti tathaiva tava_), O Rākṣasa; and I bestow upon you here, O gentle one (_vitarāmīha te saumya_), yet another boon hard to attain (_varaṃ cānyaṃ durāsadam_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Moreover, whatever form you desire in your mind (manasā yad yathepsitam), that form shall come into being for you at your pleasure (chandatas tava rūpaṃ ca ... bhaviṣyati)—of that there is no doubt (na sandehaḥ), through my boon, O Rākṣasa!’
+“‘Moreover, whatever form you desire in your mind (_manasā yad yathepsitam_), that form shall come into being for you at your pleasure (_chandatas tava rūpaṃ ca ... bhaviṣyati_)—of that there is no doubt (_na sandehaḥ_), through my boon, O Rākṣasa!’
 </details>
 </details>
 
@@ -836,7 +836,7 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that Rākṣasa Daśagrīva had been thus addressed by the Grandsire (evaṃ pitāmahoktasya daśagrīvasya rakṣasaḥ), those very heads offered into the fire (agnau hutāni śīrṣāṇi) sprang up anew indeed (punas tāny utthitāni vai).
+“When that Rākṣasa Daśagrīva had been thus addressed by the Grandsire (_evaṃ pitāmahoktasya daśagrīvasya rakṣasaḥ_), those very heads offered into the fire (_agnau hutāni śīrṣāṇi_) sprang up anew indeed (_punas tāny utthitāni vai_).
 </details>
 </details>
 
@@ -867,7 +867,7 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus spoken to that Daśagrīva, O Rāma, the Grandsire, the Great-Father of the worlds (loka-pitāmahaḥ), thereupon addressed these words to Vibhīṣaṇa (vibhīṣaṇam athovāca):
+“Having thus spoken to that Daśagrīva, O Rāma, the Grandsire, the Great-Father of the worlds (_loka-pitāmahaḥ_), thereupon addressed these words to Vibhīṣaṇa (_vibhīṣaṇam athovāca_):
 </details>
 </details>
 
@@ -902,9 +902,9 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “‘O child Vibhīṣaṇa (vibhīṣaṇa ... vatsa), I am thoroughly pleased with you (parituṣṭo ’smi), whose intellect is firmly joined to dharma (dharma-saṃhita-buddhinā); O righteous-souled one of noble vows (dharmātman ... suvrata), choose a boon (varaṃ varaya)!’
+**28:** “‘O child Vibhīṣaṇa (_vibhīṣaṇa ... vatsa_), I am thoroughly pleased with you (_parituṣṭo ’smi_), whose intellect is firmly joined to dharma (_dharma-saṃhita-buddhinā_); O righteous-souled one of noble vows (_dharmātman ... suvrata_), choose a boon (_varaṃ varaya_)!’
 
-**29:** “Thereupon the righteous-souled Vibhīṣaṇa—ever encircled by all virtues (vṛtaḥ sarva-guṇair nityam), even as the moon is ringed by its rays (candramā raśmibhir yathā)—spoke these words with joined palms (vacanaṃ prāha sāñjaliḥ):
+**29:** “Thereupon the righteous-souled Vibhīṣaṇa—ever encircled by all virtues (_vṛtaḥ sarva-guṇair nityam_), even as the moon is ringed by its rays (_candramā raśmibhir yathā_)—spoke these words with joined palms (_vacanaṃ prāha sāñjaliḥ_):
 </details>
 </details>
 
@@ -935,7 +935,7 @@ As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O revered Lord (bhagavan), I have already attained all fulfillment (kṛta-kṛtyo ’ham), since the Preceptor of the worlds himself (loka-guruḥ svayam) is pleased with me! Yet if a boon must be bestowed upon me by you in your pleasure (prītena yadi dātavyo varo me), hear me, O noble-vowed one (śṛṇu suvrata):
+“‘O revered Lord (_bhagavan_), I have already attained all fulfillment (_kṛta-kṛtyo ’ham_), since the Preceptor of the worlds himself (_loka-guruḥ svayam_) is pleased with me! Yet if a boon must be bestowed upon me by you in your pleasure (_prītena yadi dātavyo varo me_), hear me, O noble-vowed one (_śṛṇu suvrata_):
 </details>
 </details>
 
@@ -976,9 +976,9 @@ Asking only that his mind abide in dharma even in direst calamity and that the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “‘Even when fallen into supreme calamity (paramāpad-gatasyāpi), may my mind remain fixed upon dharma (dharme mama matir bhavet), and may the brahmāstra, though unlearned (aśikṣitaṃ ca brahmāstram), shine forth intuitively to me (pratibhātu me), O Lord!
+**31:** “‘Even when fallen into supreme calamity (_paramāpad-gatasyāpi_), may my mind remain fixed upon dharma (_dharme mama matir bhavet_), and may the _brahmāstra_, though unlearned (_aśikṣitaṃ ca brahmāstram_), shine forth intuitively to me (_pratibhātu me_), O Lord!
 
-**32:** “‘Whatever thought arises within me (yā yā me jāyate buddhiḥ) in whatsoever stages of life (yeṣu yeṣv āśrameṣu ca), may every such thought be thoroughly righteous (sā sā bhavatu dharmiṣṭhā), and may I faithfully uphold that very dharma (taṃ tu dharmaṃ ca pālaye)!
+**32:** “‘Whatever thought arises within me (_yā yā me jāyate buddhiḥ_) in whatsoever stages of life (_yeṣu yeṣv āśrameṣu ca_), may every such thought be thoroughly righteous (_sā sā bhavatu dharmiṣṭhā_), and may I faithfully uphold that very dharma (_taṃ tu dharmaṃ ca pālaye_)!
 </details>
 </details>
 
@@ -1009,7 +1009,7 @@ Asking only that his mind abide in dharma even in direst calamity and that the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This, O supremely munificent Lord (paramodāra), is deemed by me the highest boon (varaḥ paramako mataḥ); for truly nothing in the world is hard to obtain (na hi ... loke kiñcana durlabham) for those devoted to dharma (dharmābhiraktānām)!’
+“‘This, O supremely munificent Lord (_paramodāra_), is deemed by me the highest boon (_varaḥ paramako mataḥ_); for truly nothing in the world is hard to obtain (_na hi ... loke kiñcana durlabham_) for those devoted to dharma (_dharmābhiraktānām_)!’
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ Asking only that his mind abide in dharma even in direst calamity and that the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Delighted, Prajāpati spoke once again to Vibhīṣaṇa (punaḥ prajāpatiḥ prīto vibhīṣaṇam uvāca ha): ‘Just as you are most righteous, O child (dharmiṣṭhas tvaṃ yathā vatsa), even so shall all this come to pass (tathā caitad bhaviṣyati)!
+“Delighted, Prajāpati spoke once again to Vibhīṣaṇa (_punaḥ prajāpatiḥ prīto vibhīṣaṇam uvāca ha_): ‘Just as you are most righteous, O child (_dharmiṣṭhas tvaṃ yathā vatsa_), even so shall all this come to pass (_tathā caitad bhaviṣyati_)!
 </details>
 </details>
 
@@ -1073,7 +1073,7 @@ Asking only that his mind abide in dharma even in direst calamity and that the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And because, though born in a Rākṣasa womb (rākṣasa-yonau te jātasya), O destroyer of foes (amitra-nāśana), your intellect never inclines toward adharma (nādharme jāyate buddhiḥ), I bestow immortality upon you (amaratvaṃ dadāmi te)!’
+“‘And because, though born in a Rākṣasa womb (_rākṣasa-yonau te jātasya_), O destroyer of foes (_amitra-nāśana_), your intellect never inclines toward adharma (_nādharme jāyate buddhiḥ_), I bestow immortality upon you (_amaratvaṃ dadāmi te_)!’
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ Asking only that his mind abide in dharma even in direst calamity and that the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus, as Prajāpati drew near to grant a boon to Kumbhakarṇa (kumbhakarṇāya varaṃ dātum upasthitam), all the deities addressed these words to him with joined palms (vākyaṃ prāñjalayo ’bruvan):
+“Having spoken thus, as Prajāpati drew near to grant a boon to Kumbhakarṇa (_kumbhakarṇāya varaṃ dātum upasthitam_), all the deities addressed these words to him with joined palms (_vākyaṃ prāñjalayo ’bruvan_):
 </details>
 </details>
 
@@ -1146,7 +1146,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Pray do not bestow a boon upon Kumbhakarṇa (na tāvat kumbhakarṇāya pradātavyo varas tvayā), for you well know (jānīṣe hi) how this wicked-minded one terrorizes the worlds (lokāṃs trāsayaty eṣa durmatiḥ)!
+“‘Pray do not bestow a boon upon Kumbhakarṇa (_na tāvat kumbhakarṇāya pradātavyo varas tvayā_), for you well know (_jānīṣe hi_) how this wicked-minded one terrorizes the worlds (_lokāṃs trāsayaty eṣa durmatiḥ_)!
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Seven Apsarases in the Nandana grove (nandane ’psarasaḥ sapta), ten attendants of Mahendra (mahendrānucarā daśa), and sages and human beings alike (ṛṣayo mānuṣās tathā) have already been devoured by him (anena bhakṣitāḥ), O Brahman!
+“‘Seven Apsarases in the Nandana grove (_nandane ’psarasaḥ sapta_), ten attendants of Mahendra (_mahendrānucarā daśa_), and sages and human beings alike (_ṛṣayo mānuṣās tathā_) have already been devoured by him (_anena bhakṣitāḥ_), O Brahman!
 </details>
 </details>
 
@@ -1208,7 +1208,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Judging by what this Rākṣasa wrought before ever obtaining a boon (alabdha-vara-pūrveṇa yat kṛtaṃ rākṣasena tu), if he were now to gain a boon (tad eṣa vara-labdhaḥ syāt), he would devour the entire triple world (bhakṣayed bhuvana-trayam)!
+“‘Judging by what this Rākṣasa wrought before ever obtaining a boon (_alabdha-vara-pūrveṇa yat kṛtaṃ rākṣasena tu_), if he were now to gain a boon (_tad eṣa vara-labdhaḥ syāt_), he would devour the entire triple world (_bhakṣayed bhuvana-trayam_)!
 </details>
 </details>
 
@@ -1239,7 +1239,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Under the pretext of a boon, let bewilderment be bestowed upon him (vara-vyājena moho ’smai dīyatām), O thou of boundless splendor (amitaprabha)! Thus shall there be welfare for the worlds (lokānāṃ svasti caivaṃ syāt), and due restraint for him as well (bhaved asya ca sannatiḥ)!’
+“‘Under the pretext of a boon, let bewilderment be bestowed upon him (_vara-vyājena moho ’smai dīyatām_), O thou of boundless splendor (_amitaprabha_)! Thus shall there be welfare for the worlds (_lokānāṃ svasti caivaṃ syāt_), and due restraint for him as well (_bhaved asya ca sannatiḥ_)!’
 </details>
 </details>
 
@@ -1270,7 +1270,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus addressed by the deities, the lotus-born Brahmā (brahmā ... padma-sambhavaḥ) called her to mind (acintayat), and no sooner was she thought of than Goddess Sarasvatī stood waiting at his side (cintitā copatasthe ’sya pārśvaṃ devī sarasvatī).
+“Thus addressed by the deities, the lotus-born Brahmā (_brahmā ... padma-sambhavaḥ_) called her to mind (_acintayat_), and no sooner was she thought of than Goddess Sarasvatī stood waiting at his side (_cintitā copatasthe ’sya pārśvaṃ devī sarasvatī_).
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ Commanded by Prajāpati to become the speech desired by the gods within Kumbhaka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Standing at his side with joined palms (prāñjaliḥ sā tu pārśvasthā), Sarasvatī spoke these words: ‘Here I have arrived, O God (iyam asmy āgatā deva); what task shall I accomplish (kiṃ kāryaṃ karavāṇy aham)?’
+“Standing at his side with joined palms (_prāñjaliḥ sā tu pārśvasthā_), Sarasvatī spoke these words: ‘Here I have arrived, O God (_iyam asmy āgatā deva_); what task shall I accomplish (_kiṃ kāryaṃ karavāṇy aham_)?’
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ Commanded by Prajāpati to become the speech desired by the gods within Kumbhaka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Prajāpati spoke these words to Sarasvatī, who had come before him (tāṃ prāptāṃ prāha vākyaṃ sarasvatīm): ‘O Vāṇī [Speech], become for this lord of Rākṣasas (rākṣasendrasya bhava) that very speech which is desired by the deities (yā devatepsitā)!’
+“Thereupon Prajāpati spoke these words to Sarasvatī, who had come before him (_tāṃ prāptāṃ prāha vākyaṃ sarasvatīm_): ‘O Vāṇī [Speech], become for this lord of Rākṣasas (_rākṣasendrasya bhava_) that very speech which is desired by the deities (_yā devatepsitā_)!’
 </details>
 </details>
 
@@ -1373,9 +1373,9 @@ Commanded by Prajāpati to become the speech desired by the gods within Kumbhaka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “Saying ‘So be it’ (tathety uktvā), she entered within him (praviṣṭā sā); thereupon Prajāpati spoke: ‘O mighty-armed Kumbhakarṇa (kumbhakarṇa mahābāho), choose whatever boon is dear to your mind (varaṃ varaya yo mataḥ)!’
+**44:** “Saying ‘So be it’ (_tathety uktvā_), she entered within him (_praviṣṭā sā_); thereupon Prajāpati spoke: ‘O mighty-armed Kumbhakarṇa (_kumbhakarṇa mahābāho_), choose whatever boon is dear to your mind (_varaṃ varaya yo mataḥ_)!’
 
-**45:** “Hearing those words (tad vākyaṃ śrutvā), Kumbhakarṇa thereupon uttered this speech (vacanam abravīt): ‘O God of gods (devadeva), it is my desire to sleep for many years (svaptuṃ varṣāṇy anekāni ... mamepsitam)!’
+**45:** “Hearing those words (_tad vākyaṃ śrutvā_), Kumbhakarṇa thereupon uttered this speech (_vacanam abravīt_): ‘O God of gods (_devadeva_), it is my desire to sleep for many years (_svaptuṃ varṣāṇy anekāni ... mamepsitam_)!’
 </details>
 </details>
 
@@ -1418,9 +1418,9 @@ Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**46:** “Saying ‘So be it’ to him (evam astv iti taṃ coktvā), Brahmā departed together with the deities (prāyād brahmā suraiḥ samam), and Goddess Sarasvatī too (devī sarasvatī caiva) forsook that Rākṣasa once more (rākṣasaṃ taṃ jahau punaḥ).
+**46:** “Saying ‘So be it’ to him (_evam astv iti taṃ coktvā_), Brahmā departed together with the deities (_prāyād brahmā suraiḥ samam_), and Goddess Sarasvatī too (_devī sarasvatī caiva_) forsook that Rākṣasa once more (_rākṣasaṃ taṃ jahau punaḥ_).
 
-**47:** “When the deities together with Brahmā had ascended into the expanse of the sky (brahmaṇā saha deveṣu gateṣu ca nabhaḥ-sthalam), he, released by Sarasvatī (vimukto ’sau sarasvatyā), thereupon regained his own consciousness (svāṃ sañjñāṃ ca tato gataḥ).
+**47:** “When the deities together with Brahmā had ascended into the expanse of the sky (_brahmaṇā saha deveṣu gateṣu ca nabhaḥ-sthalam_), he, released by Sarasvatī (_vimukto ’sau sarasvatyā_), thereupon regained his own consciousness (_svāṃ sañjñāṃ ca tato gataḥ_).
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the wicked-souled Kumbhakarṇa (kumbhakarṇas tu duṣṭātmā), filled with sorrow (duḥkhitaḥ), brooded within himself (cintayāmāsa): ‘What sort of speech is this that has slipped from my mouth today (īdṛśaṃ kim idaṃ vākyaṃ mamādya vadanāc cyutam)?
+“Then the wicked-souled Kumbhakarṇa (_kumbhakarṇas tu duṣṭātmā_), filled with sorrow (_duḥkhitaḥ_), brooded within himself (_cintayāmāsa_): ‘What sort of speech is this that has slipped from my mouth today (_īdṛśaṃ kim idaṃ vākyaṃ mamādya vadanāc cyutam_)?
 </details>
 </details>
 
@@ -1493,7 +1493,7 @@ Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I believe I have been utterly deluded (ahaṃ vyāmohito ... iti manye) by the gods who came here just now (devair ... tadāgataiḥ)!’ Thus having obtained their boons (evaṃ labdha-varāḥ), all those brothers of blazing splendor (sarve bhrātaro dīpta-tejasaḥ) repaired to the Śleṣmātaka forest (śleṣmātaka-vanaṃ gatvā) and dwelt happily there (tatra te nyavasan sukham).”
+“‘I believe I have been utterly deluded (_ahaṃ vyāmohito ... iti manye_) by the gods who came here just now (_devair ... tadāgataiḥ_)!’ Thus having obtained their boons (_evaṃ labdha-varāḥ_), all those brothers of blazing splendor (_sarve bhrātaro dīpta-tejasaḥ_) repaired to the Śleṣmātaka forest (_śleṣmātaka-vanaṃ gatvā_) and dwelt happily there (_tatra te nyavasan sukham_).”
 </details>
 </details>
 

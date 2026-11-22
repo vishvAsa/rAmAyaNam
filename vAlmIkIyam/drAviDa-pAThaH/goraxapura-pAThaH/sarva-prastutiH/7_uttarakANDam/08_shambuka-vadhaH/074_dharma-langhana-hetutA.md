@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus Rāghava heard in full (śuśrāva rāghavaḥ sarvam) that piteous lamentation of the twice-born one (tasya dvijasya karuṇaṃ paridevanam), fraught with suffering and sorrow (duḥkha-śoka-samanvitam).
+Thus Rāghava heard in full (_śuśrāva rāghavaḥ sarvam_) that piteous lamentation of the twice-born one (_tasya dvijasya karuṇaṃ paridevanam_), fraught with suffering and sorrow (_duḥkha-śoka-samanvitam_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seared with anguish (duḥkhena ca santaptaḥ), he summoned those counselors (mantriṇas tān upāhvayat)—Vasiṣṭha and Vāmadeva, his two brothers (bhrātarau), together with the guildsmen of the city (saha naigamān).
+Seared with anguish (_duḥkhena ca santaptaḥ_), he summoned those counselors (_mantriṇas tān upāhvayat_)—Vasiṣṭha and Vāmadeva, his two brothers (_bhrātarau_), together with the guildsmen of the city (_saha naigamān_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then eight twice-born sages were ushered in together with Vasiṣṭha (vasiṣṭhena sārdham aṣṭau praveśitāḥ), and addressing the godlike king (rājānaṃ deva-saṅkāśam), they pronounced: “May you prosper (vardhasva)!”
+Then eight twice-born sages were ushered in together with Vasiṣṭha (_vasiṣṭhena sārdham aṣṭau praveśitāḥ_), and addressing the godlike king (_rājānaṃ deva-saṅkāśam_), they pronounced: “May you prosper (_vardhasva_)!”
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Jābāli, Gautama and Nārada as well—all these bulls among the twice-born (ete dvijarṣabhāḥ sarve) were seated upon their seats (āsaneṣūpaveśitāḥ).
+Mārkaṇḍeya and Maudgalya, Vāmadeva and Kāśyapa, Kātyāyana and Jābāli, Gautama and Nārada as well—all these bulls among the twice-born (_ete dvijarṣabhāḥ sarve_) were seated upon their seats (_āsaneṣūpaveśitāḥ_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed with joined palms (abhivādya kṛtāñjaliḥ) to the great seers who had arrived (maharṣīn samanuprāptān), and having courteously honored the ministers and citizens according to rank (yathārham anukūlataḥ),
+Having bowed with joined palms (_abhivādya kṛtāñjaliḥ_) to the great seers who had arrived (_maharṣīn samanuprāptān_), and having courteously honored the ministers and citizens according to rank (_yathārham anukūlataḥ_),
 </details>
 </details>
 
@@ -223,7 +223,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-before all those seated sages of blazing splendor (teṣāṃ samupaviṣṭānāṃ ... dīpta-tejasām), Rāghava recounted everything (sarvam ācaṣṭe): “This twice-born one lays siege [to my gate] (dvijo ’yam uparodhate).”
+before all those seated sages of blazing splendor (_teṣāṃ samupaviṣṭānāṃ ... dīpta-tejasām_), Rāghava recounted everything (_sarvam ācaṣṭe_): “This twice-born one lays siege [to my gate] (_dvijo ’yam uparodhate_).”
 </details>
 </details>
 
@@ -265,7 +265,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the dejected king (rājño dīnasya), Nārada spoke an auspicious reply (pratyuvāca śubhaṃ vākyam) to the monarch in the presence of the sages (ṛṣīṇāṃ sannidhau nṛpam):
+Hearing those words of the dejected king (_rājño dīnasya_), Nārada spoke an auspicious reply (_pratyuvāca śubhaṃ vākyam_) to the monarch in the presence of the sages (_ṛṣīṇāṃ sannidhau nṛpam_):
 </details>
 </details>
 
@@ -299,7 +299,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Listen, O king, to how this child’s untimely end has come about (yathākāle prāpto bālasya saṅkṣayaḥ); having heard it, O king, delight of the Raghus, perform what must be done (kartavyatāṃ ... kuruṣva)!
+“Listen, O king, to how this child’s untimely end has come about (_yathākāle prāpto bālasya saṅkṣayaḥ_); having heard it, O king, delight of the Raghus, perform what must be done (_kartavyatāṃ ... kuruṣva_)!
 </details>
 </details>
 
@@ -333,7 +333,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, in the Kṛta age, O king (purā kṛta-yuge rājan), brāhmaṇas alone were ascetics (brāhmaṇā vai tapasvinaḥ); in that age no non-brāhmaṇa was ever an ascetic by any means (abrāhmaṇas tadā ... na tapasvī kathañcana).
+“Of old, in the Kṛta age, O king (_purā kṛta-yuge rājan_), brāhmaṇas alone were ascetics (_brāhmaṇā vai tapasvinaḥ_); in that age no non-brāhmaṇa was ever an ascetic by any means (_abrāhmaṇas tadā ... na tapasvī kathañcana_).
 </details>
 </details>
 
@@ -367,7 +367,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In that blazing age (tasmin yuge prajvalite), wholly permeated by Brahman and unclouded (brahma-bhūte tv anāvṛte), all beings were born free from death (amṛtyavas tadā sarve jajñire) and far-seeing (dīrgha-darśinaḥ).
+“In that blazing age (_tasmin yuge prajvalite_), wholly permeated by Brahman and unclouded (_brahma-bhūte tv anāvṛte_), all beings were born free from death (_amṛtyavas tadā sarve jajñire_) and far-seeing (_dīrgha-darśinaḥ_).
 </details>
 </details>
 
@@ -396,7 +396,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter came the age called Tretā (tatas tretā-yugaṃ nāma), belonging to men of embodied form (mānavānāṃ vapuṣmatām); therein kṣatriyas are born endowed with full austerity (pūrṇena tapasā ’nvitāḥ).
+“Thereafter came the age called Tretā (_tatas tretā-yugaṃ nāma_), belonging to men of embodied form (_mānavānāṃ vapuṣmatām_); therein kṣatriyas are born endowed with full austerity (_pūrṇena tapasā ’nvitāḥ_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In prowess and in austerity (vīryeṇa tapasā caiva), those of the former birth-age were superior (te ’dhikāḥ pūrva-janmani) to the great-souled men who live here in the Tretā age (mānavā ye mahātmānas tv atra tretā-yuge yuge).
+“In prowess and in austerity (_vīryeṇa tapasā caiva_), those of the former birth-age were superior (_te ’dhikāḥ pūrva-janmani_) to the great-souled men who live here in the Tretā age (_mānavā ye mahātmānas tv atra tretā-yuge yuge_).
 </details>
 </details>
 
@@ -472,7 +472,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all that priestly and royal power (brahma-kṣatraṃ ca tat sarvam), both the higher and the lesser (yat pūrvam aparaṃ ca yat), became endowed with equal prowess (sama-vīrya-samanvitam) across the two ages (yugayor ubhayoḥ).
+And all that priestly and royal power (_brahma-kṣatraṃ ca tat sarvam_), both the higher and the lesser (_yat pūrvam aparaṃ ca yat_), became endowed with equal prowess (_sama-vīrya-samanvitam_) across the two ages (_yugayor ubhayoḥ_).
 </details>
 </details>
 
@@ -506,7 +506,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving no superior distinction between them thereafter (apaśyaṃs tu na te sarve viśeṣam adhikaṃ tataḥ), they established there an accepted demarcation of the four social orders (sthāpanaṃ cakrire tatra cāturvarṇyasya sammatam).
+Perceiving no superior distinction between them thereafter (_apaśyaṃs tu na te sarve viśeṣam adhikaṃ tataḥ_), they established there an accepted demarcation of the four social orders (_sthāpanaṃ cakrire tatra cāturvarṇyasya sammatam_).
 </details>
 </details>
 
@@ -549,9 +549,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** In that radiant age (tasmin yuge prajvalite), rich in dharma and unclouded (dharma-bhūte hy anāvṛte), Adharma planted one foot upon the surface of the earth (pādam ekaṃ tu pātayat pṛthivī-tale); for, joined with Adharma, splendor grows dim (adharmeṇa hi saṃyuktas tejo mandaṃ bhaviṣyati).
+**15:** In that radiant age (_tasmin yuge prajvalite_), rich in dharma and unclouded (_dharma-bhūte hy anāvṛte_), Adharma planted one foot upon the surface of the earth (_pādam ekaṃ tu pātayat pṛthivī-tale_); for, joined with Adharma, splendor grows dim (_adharmeṇa hi saṃyuktas tejo mandaṃ bhaviṣyati_).
 
-**16:** And that rajasic livelihood (āmiṣam ... rājasam), deeply regarded as a stain by those of the former age (pūrveṣāṃ ... malaṃ bhṛśam), came into being on earth as that foot by the name of Anṛta (anṛtaṃ nāma tad bhūtaṃ pādena pṛthivī-tale).
+**16:** And that rajasic livelihood (_āmiṣam ... rājasam_), deeply regarded as a stain by those of the former age (_pūrveṣāṃ ... malaṃ bhṛśam_), came into being on earth as that foot by the name of Anṛta (_anṛtaṃ nāma tad bhūtaṃ pādena pṛthivī-tale_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-After Adharma had planted that one foot of Anṛta unrighteously (anṛtaṃ pātayitvā tu pādam ekam adharmataḥ), a fixed bound to human lifespan first became manifest (tataḥ prāduṣkṛtaṃ pūrvam āyuṣaḥ pariniṣṭhitam).
+After Adharma had planted that one foot of Anṛta unrighteously (_anṛtaṃ pātayitvā tu pādam ekam adharmataḥ_), a fixed bound to human lifespan first became manifest (_tataḥ prāduṣkṛtaṃ pūrvam āyuṣaḥ pariniṣṭhitam_).
 </details>
 </details>
 
@@ -621,7 +621,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet even when that Anṛta and Adharma had fallen upon the earth (patite tv anṛte tasminn adharme ca mahī-tale), the people still practiced only auspicious deeds (śubhāny evācaraṃl lokaḥ), devoted to truth and dharma (satya-dharma-parāyaṇaḥ).
+Yet even when that Anṛta and Adharma had fallen upon the earth (_patite tv anṛte tasminn adharme ca mahī-tale_), the people still practiced only auspicious deeds (_śubhāny evācaraṃl lokaḥ_), devoted to truth and dharma (_satya-dharma-parāyaṇaḥ_).
 </details>
 </details>
 
@@ -665,7 +665,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those brāhmaṇas and kṣatriyas who dwelt in the Tretā age (tretā-yuge ca vartante brāhmaṇāḥ kṣatriyāś ca ye) all practiced austerity (tapo ’tapyanta te sarve), while the other people practiced service (śuśrūṣām apare janāḥ).
+Those brāhmaṇas and kṣatriyas who dwelt in the Tretā age (_tretā-yuge ca vartante brāhmaṇāḥ kṣatriyāś ca ye_) all practiced austerity (_tapo ’tapyanta te sarve_), while the other people practiced service (_śuśrūṣām apare janāḥ_).
 </details>
 </details>
 
@@ -691,7 +691,7 @@ Those brāhmaṇas and kṣatriyas who dwelt in the Tretā age (tretā-yuge ca v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That supreme dharma came to the vaiśyas and śūdras (sa dharmaḥ paramas teṣāṃ vaiśya-śūdraṃ samāgamat), and the śūdras in particular performed reverential service to all the orders (pūjāṃ ca sarva-varṇānāṃ śūdrāś cakrur viśeṣataḥ).
+That supreme dharma came to the vaiśyas and śūdras (_sa dharmaḥ paramas teṣāṃ vaiśya-śūdraṃ samāgamat_), and the śūdras in particular performed reverential service to all the orders (_pūjāṃ ca sarva-varṇānāṃ śūdrāś cakrur viśeṣataḥ_).
 </details>
 </details>
 
@@ -719,7 +719,7 @@ That supreme dharma came to the vaiśyas and śūdras (sa dharmaḥ paramas te�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the interval of this age (etasminn antare), as adharma and anṛta prevailed among them (teṣām adharme cānṛte ca ha), those former orders then fell into deep decline (tataḥ pūrve bhṛśaṃ hrāsam agaman), O best of kings.
+In the interval of this age (_etasminn antare_), as adharma and anṛta prevailed among them (_teṣām adharme cānṛte ca ha_), those former orders then fell into deep decline (_tataḥ pūrve bhṛśaṃ hrāsam agaman_), O best of kings.
 </details>
 </details>
 
@@ -747,7 +747,7 @@ In the interval of this age (etasminn antare), as adharma and anṛta prevailed 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Adharma brought down its second foot (tataḥ pādam adharmas sa dvitīyam avatārayat), and from this arose the name Dvāpara for this age (tato dvāpara-sañjñā ’sya yugasya samajāyata).
+Then that Adharma brought down its second foot (_tataḥ pādam adharmas sa dvitīyam avatārayat_), and from this arose the name Dvāpara for this age (_tato dvāpara-sañjñā ’sya yugasya samajāyata_).
 </details>
 </details>
 
@@ -773,7 +773,7 @@ Then that Adharma brought down its second foot (tataḥ pādam adharmas sa dvit�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that waning age named Dvāpara was underway (tasmin dvāpara-sañjñe tu vartamāne yuga-kṣaye), both adharma and anṛta grew apace (adharmaś cānṛtaṃ caiva vavṛdhe), O bull among men.
+When that waning age named Dvāpara was underway (_tasmin dvāpara-sañjñe tu vartamāne yuga-kṣaye_), both adharma and anṛta grew apace (_adharmaś cānṛtaṃ caiva vavṛdhe_), O bull among men.
 </details>
 </details>
 
@@ -809,7 +809,7 @@ Completing his four-age chart, Nārada reveals that austerity extended to vaiśy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that age reckoned as Dvāpara (tasmin dvāpara-saṅkhyāte), austerity entered the vaiśyas (tapo vaiśyān samāviśat); thus across three ages, austerity entered three orders in succession (tribhyo yugebhyas trīn varṇān kramād vai tapa āviśat).
+In that age reckoned as Dvāpara (_tasmin dvāpara-saṅkhyāte_), austerity entered the vaiśyas (_tapo vaiśyān samāviśat_); thus across three ages, austerity entered three orders in succession (_tribhyo yugebhyas trīn varṇān kramād vai tapa āviśat_).
 </details>
 </details>
 
@@ -837,7 +837,7 @@ In that age reckoned as Dvāpara (tasmin dvāpara-saṅkhyāte), austerity enter
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Across three ages, that dharma stood established for three orders (tribhyo yugebhyas trīn varṇān dharmaś ca pariniṣṭhitaḥ); a śūdra does not obtain that dharma across these ages (na śūdro labhate dharmaṃ yugatas tu), O bull among men—yet a man of the lowest order (hīna-varṇaḥ), O foremost of kings, performs mighty austerity (tapyate sumahat tapaḥ)!
+Across three ages, that dharma stood established for three orders (_tribhyo yugebhyas trīn varṇān dharmaś ca pariniṣṭhitaḥ_); a śūdra does not obtain that dharma across these ages (_na śūdro labhate dharmaṃ yugatas tu_), O bull among men—yet a man of the lowest order (_hīna-varṇaḥ_), O foremost of kings, performs mighty austerity (_tapyate sumahat tapaḥ_)!
 </details>
 </details>
 
@@ -863,7 +863,7 @@ Across three ages, that dharma stood established for three orders (tribhyo yugeb
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the Kali age, indeed, the practice of austerity shall come to be in the śūdra birth (bhaviṣyac-chūdra-yonyāṃ vai tapaścaryā kalau yuge); in Dvāpara, O king, it is supreme adharma for one of śūdra birth (adharmaḥ paramo rājan dvāpare śūdra-janmanaḥ).
+In the Kali age, indeed, the practice of austerity shall come to be in the śūdra birth (_bhaviṣyac-chūdra-yonyāṃ vai tapaścaryā kalau yuge_); in Dvāpara, O king, it is supreme adharma for one of śūdra birth (_adharmaḥ paramo rājan dvāpare śūdra-janmanaḥ_).
 </details>
 </details>
 
@@ -891,7 +891,7 @@ In the Kali age, indeed, the practice of austerity shall come to be in the śūd
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Verily, on the frontier of your realm, O king (viṣaya-paryante tava rājan), that misguided one of great austerity (mahātapāḥ ... durbuddhiḥ) is practicing penance even today (adya tapyati)—from that alone comes this slaying of the child (tena bāla-vadho hy ayam)!
+Verily, on the frontier of your realm, O king (_viṣaya-paryante tava rājan_), that misguided one of great austerity (_mahātapāḥ ... durbuddhiḥ_) is practicing penance even today (_adya tapyati_)—from that alone comes this slaying of the child (_tena bāla-vadho hy ayam_)!
 </details>
 </details>
 
@@ -927,7 +927,7 @@ Explaining that a king who enjoys a sixth share of his subjects’ merit must an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For whatever foolish man (durmatir naraḥ) commits adharma or an unlawful deed (adharmam akāryaṃ vā) in a monarch’s realm or city (viṣaye pārthivasya ... pure vā), that deed becomes a root of ruin (aśrī-mūlam), and swiftly that king too goes to hell (kṣipraṃ ca narakaṃ yāti sa ca rājā)—of this there is no doubt.
+“For whatever foolish man (_durmatir naraḥ_) commits adharma or an unlawful deed (_adharmam akāryaṃ vā_) in a monarch’s realm or city (_viṣaye pārthivasya ... pure vā_), that deed becomes a root of ruin (_aśrī-mūlam_), and swiftly that king too goes to hell (_kṣipraṃ ca narakaṃ yāti sa ca rājā_)—of this there is no doubt.
 </details>
 </details>
 
@@ -955,9 +955,9 @@ Explaining that a king who enjoys a sixth share of his subjects’ merit must an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** “Protecting his subjects righteously (prajā dharmeṇa pālayan), a king enjoys a sixth share (ṣaṣṭhaṃ bhajati bhāgam) of their Vedic study, austerity, and meritorious action (adhītasya ca taptasya karmaṇaḥ sukṛtasya ca); how could he, being the enjoyer of that sixth share (ṣaḍ-bhāgasya ... bhoktā ’sau), not protect his subjects (rakṣate na prajāḥ katham)?
+**29:** “Protecting his subjects righteously (_prajā dharmeṇa pālayan_), a king enjoys a sixth share (_ṣaṣṭhaṃ bhajati bhāgam_) of their Vedic study, austerity, and meritorious action (_adhītasya ca taptasya karmaṇaḥ sukṛtasya ca_); how could he, being the enjoyer of that sixth share (_ṣaḍ-bhāgasya ... bhoktā ’sau_), not protect his subjects (_rakṣate na prajāḥ katham_)?
 
-**30:** “Therefore, O tiger among men, search out your own realm (mārgasva viṣayaṃ svakam); wherever you behold wrongdoing (duṣkṛtaṃ yatra paśyethāḥ), there exert your remedial effort (tatra yatnaṃ samācara)!
+**30:** “Therefore, O tiger among men, search out your own realm (_mārgasva viṣayaṃ svakam_); wherever you behold wrongdoing (_duṣkṛtaṃ yatra paśyethāḥ_), there exert your remedial effort (_tatra yatnaṃ samācara_)!
 </details>
 </details>
 
@@ -983,7 +983,7 @@ Explaining that a king who enjoys a sixth share of his subjects’ merit must an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If it be done thus (evaṃ cet), there shall be increase of dharma (dharma-vṛddhiḥ), lengthening of men’s lifespans (nṛṇāṃ cāyur-vivardhanam), and, O foremost of men, life again for this boy (bālasyāsya ca jīvitam)!”
+“If it be done thus (_evaṃ cet_), there shall be increase of dharma (_dharma-vṛddhiḥ_), lengthening of men’s lifespans (_nṛṇāṃ cāyur-vivardhanam_), and, O foremost of men, life again for this boy (_bālasyāsya ca jīvitam_)!”
 </details>
 </details>
 

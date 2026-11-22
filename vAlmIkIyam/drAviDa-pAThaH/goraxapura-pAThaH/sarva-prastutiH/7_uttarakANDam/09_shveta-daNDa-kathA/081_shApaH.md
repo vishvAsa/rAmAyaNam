@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having heard of it a moment later (sa muhūrtād upaśrutya), that divine sage of boundless radiance (devarṣir amitaprabhaḥ), surrounded by his disciples and afflicted with hunger (śiṣya-vṛtaḥ kṣudhārtaḥ), returned to his own hermitage (svam āśramaṃ ... sannyavartata).
+“Having heard of it a moment later (_sa muhūrtād upaśrutya_), that divine sage of boundless radiance (_devarṣir amitaprabhaḥ_), surrounded by his disciples and afflicted with hunger (_śiṣya-vṛtaḥ kṣudhārtaḥ_), returned to his own hermitage (_svam āśramaṃ ... sannyavartata_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He beheld Arajā, wretched and covered all over with dust (arajāṃ dīnāṃ rajasā samabhiplutām), like moonlight seized by an eclipse-planet (jyotsnām iva graha-grastām), shining no longer at the break of dawn (pratyūṣe na virājatīm).
+“He beheld Arajā, wretched and covered all over with dust (_arajāṃ dīnāṃ rajasā samabhiplutām_), like moonlight seized by an eclipse-planet (_jyotsnām iva graha-grastām_), shining no longer at the break of dawn (_pratyūṣe na virājatīm_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wrath arose within him, especially as he was tormented by hunger (kṣudhārtasya viśeṣataḥ); as though burning up the three worlds (nirdahann iva lokāṃs trīn), he spoke these words to his disciples:
+“Wrath arose within him, especially as he was tormented by hunger (_kṣudhārtasya viśeṣataḥ_); as though burning up the three worlds (_nirdahann iva lokāṃs trīn_), he spoke these words to his disciples:
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Behold the calamity of perverse Daṇḍa, who has not conquered himself (viparītasya daṇḍasyāvijitātmanaḥ)—a ruin dreadful in aspect (vipattiṃ ghora-saṅkāśām), like an angry tongue of fire (kruddhām agni-śikhām iva)!
+“‘Behold the calamity of perverse Daṇḍa, who has not conquered himself (_viparītasya daṇḍasyāvijitātmanaḥ_)—a ruin dreadful in aspect (_vipattiṃ ghora-saṅkāśām_), like an angry tongue of fire (_kruddhām agni-śikhām iva_)!
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Destruction has overtaken this wicked-minded, evil-souled king along with his followers (kṣayo ’sya durmateḥ prāptaḥ sānugasya durātmanaḥ), who presumes to touch the blazing flame of fire (pradīptāṃ hutāśasya śikhāṃ vai spraṣṭum icchati)!
+“‘Destruction has overtaken this wicked-minded, evil-souled king along with his followers (_kṣayo ’sya durmateḥ prāptaḥ sānugasya durātmanaḥ_), who presumes to touch the blazing flame of fire (_pradīptāṃ hutāśasya śikhāṃ vai spraṣṭum icchati_)!
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Because he has perpetrated so heinous a sin fraught with dread (pāpam īdṛśaṃ ghora-saṃhitam), therefore this foolish wretch shall reap the fruit of his sinful deed (prāpsyati durmedhāḥ phalaṃ pāpasya karmaṇaḥ).
+“‘Because he has perpetrated so heinous a sin fraught with dread (_pāpam īdṛśaṃ ghora-saṃhitam_), therefore this foolish wretch shall reap the fruit of his sinful deed (_prāpsyati durmedhāḥ phalaṃ pāpasya karmaṇaḥ_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Within seven nights (sapta-rātreṇa), that foolish king of sinful conduct (pāpa-karma-samācāro ... durmatiḥ) shall meet his destruction (vadhaṃ prāpsyati), together with his ministers, armies, and mounts (sa-bhṛtya-bala-vāhanaḥ).
+“‘Within seven nights (_sapta-rātreṇa_), that foolish king of sinful conduct (_pāpa-karma-samācāro ... durmatiḥ_) shall meet his destruction (_vadhaṃ prāpsyati_), together with his ministers, armies, and mounts (_sa-bhṛtya-bala-vāhanaḥ_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For a hundred yojanas all around (samantād yojana-śatam), Indra the chastiser of Pāka (pāka-śāsanaḥ) shall consume the domain of this wicked-minded king (viṣayaṃ cāsya durmateḥ dhakṣyate) with a mighty rain of dust (pāṃsu-varṣeṇa mahatā).
+“‘For a hundred yojanas all around (_samantād yojana-śatam_), Indra the chastiser of Pāka (_pāka-śāsanaḥ_) shall consume the domain of this wicked-minded king (_viṣayaṃ cāsya durmateḥ dhakṣyate_) with a mighty rain of dust (_pāṃsu-varṣeṇa mahatā_).
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘All living beings here, immovable and moving alike (sarva-satvāni yānīha sthāvarāṇi carāṇi ca), have utterly met their dissolution on every side (vilayaṃ sarvato ’gaman) through that mighty shower of dust!
+“‘All living beings here, immovable and moving alike (_sarva-satvāni yānīha sthāvarāṇi carāṇi ca_), have utterly met their dissolution on every side (_vilayaṃ sarvato ’gaman_) through that mighty shower of dust!
 </details>
 </details>
 
@@ -360,7 +360,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘As far as Daṇḍa’s realm extends (daṇḍasya viṣayo yāvat), so far shall everything that rises high (sarva-samucchrayam) become unrecognizable like a sheet of falling dust (pāṃsu-varṣam ivālakṣyam) for seven nights (sapta-rātram).’
+“‘As far as Daṇḍa’s realm extends (_daṇḍasya viṣayo yāvat_), so far shall everything that rises high (_sarva-samucchrayam_) become unrecognizable like a sheet of falling dust (_pāṃsu-varṣam ivālakṣyam_) for seven nights (_sapta-rātram_).’
 </details>
 </details>
 
@@ -394,7 +394,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus, with eyes reddened by rage (krodha-tāmrākṣaḥ), he said to the folk dwelling in that hermitage (tad-āśrama-nivāsinaṃ janam): ‘Take up your abode beyond the borders of this kingdom (janapadānteṣu sthīyatām)!’
+“Having spoken thus, with eyes reddened by rage (_krodha-tāmrākṣaḥ_), he said to the folk dwelling in that hermitage (_tad-āśrama-nivāsinaṃ janam_): ‘Take up your abode beyond the borders of this kingdom (_janapadānteṣu sthīyatām_)!’
 </details>
 </details>
 
@@ -428,7 +428,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of Uśanas (śrutvā tūśanaso vākyam), that folk resident in the hermitage (so ’ ’śramāvasatho janaḥ) departed from that realm (niṣkrānto viṣayāt tasmāt) and then made their abode outside it (sthānaṃ cakre ’tha bāhyataḥ).
+“Hearing the words of Uśanas (_śrutvā tūśanaso vākyam_), that folk resident in the hermitage (_so ’ ’śramāvasatho janaḥ_) departed from that realm (_niṣkrānto viṣayāt tasmāt_) and then made their abode outside it (_sthānaṃ cakre ’tha bāhyataḥ_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus to the company of sages (munijanam), he said these words to Arajā: ‘Dwell right here in this hermitage, O foolish one, steadfast in contemplation (ihaiva vasa durmedhe āśrame susamāhitā).
+“Having spoken thus to the company of sages (_munijanam_), he said these words to Arajā: ‘Dwell right here in this hermitage, O foolish one, steadfast in contemplation (_ihaiva vasa durmedhe āśrame susamāhitā_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Enjoy this lake extending a full yojana, of lovely luster (idaṃ yojana-paryantaṃ saraḥ surucira-prabham), free from feverish grief, O Arajā (araje vijvarā bhuṅkṣva), and let the appointed time be awaited here (kālaś cātra pratīkṣyatām).
+“‘Enjoy this lake extending a full yojana, of lovely luster (_idaṃ yojana-paryantaṃ saraḥ surucira-prabham_), free from feverish grief, O Arajā (_araje vijvarā bhuṅkṣva_), and let the appointed time be awaited here (_kālaś cātra pratīkṣyatām_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And whatever creatures come to dwell near you during that night (tvat-samīpe ca ye sattvā vāsam eṣyanti tāṃ niśām), they shall forever remain unharmed by the shower of dust (avadhyāḥ pāṃsu-varṣeṇa te bhaviṣyanti nityadā).’
+“‘And whatever creatures come to dwell near you during that night (_tvat-samīpe ca ye sattvā vāsam eṣyanti tāṃ niśām_), they shall forever remain unharmed by the shower of dust (_avadhyāḥ pāṃsu-varṣeṇa te bhaviṣyanti nityadā_).’
 </details>
 </details>
 
@@ -572,7 +572,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the command of the brahmarṣi (śrutvā niyogaṃ brahmarṣeḥ), Arajā, daughter of Bhārgava, deeply sorrowful (bhṛśa-duḥkhitā), replied ‘So be it’ to her father Bhārgava (tatheti pitaraṃ prāha). Having spoken thus, Bhārgava established his abode elsewhere (vāsam anyatra samakārayat).
+“Hearing the command of the brahmarṣi (_śrutvā niyogaṃ brahmarṣeḥ_), Arajā, daughter of Bhārgava, deeply sorrowful (_bhṛśa-duḥkhitā_), replied ‘So be it’ to her father Bhārgava (_tatheti pitaraṃ prāha_). Having spoken thus, Bhārgava established his abode elsewhere (_vāsam anyatra samakārayat_).
 </details>
 </details>
 
@@ -608,7 +608,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that kingdom of the king, together with his ministers, army, and mounts (sa-bhṛtya-bala-vāhanam), was reduced to ashes within seven days (saptāhād bhasmasād bhūtam), just as declared by that knower of Brahman (yathoktaṃ brahma-vādinā).
+“And that kingdom of the king, together with his ministers, army, and mounts (_sa-bhṛtya-bala-vāhanam_), was reduced to ashes within seven days (_saptāhād bhasmasād bhūtam_), just as declared by that knower of Brahman (_yathoktaṃ brahma-vādinā_).
 </details>
 </details>
 
@@ -649,9 +649,9 @@ Concluding his narrative, Agastya explains how Daṇḍa’s cursed realm betwee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “This is that realm of Daṇḍa between the Vindhya and Śaivala mountains, O king (tasyāsau daṇḍa-viṣayo vindhya-śaivalayor nṛpa), cursed by that brahmarṣi when adharma was committed in the perfect Kṛta age (vaidharmye sahite kṛte).
+**18:** “This is that realm of Daṇḍa between the Vindhya and Śaivala mountains, O king (_tasyāsau daṇḍa-viṣayo vindhya-śaivalayor nṛpa_), cursed by that brahmarṣi when adharma was committed in the perfect Kṛta age (_vaidharmye sahite kṛte_).
 
-**19:** “From that time onward, O Kākutstha, it is called the Daṇḍaka forest (daṇḍakāraṇyam ucyate); and since ascetics took up residence here (tapasvinaḥ sthitā hy atra), hence it became Janasthāna (janasthānam ato ’bhavat).
+**19:** “From that time onward, O Kākutstha, it is called the Daṇḍaka forest (_daṇḍakāraṇyam ucyate_); and since ascetics took up residence here (_tapasvinaḥ sthitā hy atra_), hence it became Janasthāna (_janasthānam ato ’bhavat_).
 </details>
 </details>
 
@@ -677,7 +677,7 @@ Concluding his narrative, Agastya explains how Daṇḍa’s cursed realm betwee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All that you asked of me has now been told to you, O Rāghava (etat te sarvam ākhyātaṃ yan māṃ pṛcchasi rāghava); for the hour to worship the evening twilight is passing by, O hero (sandhyām upāsituṃ vīra samayo hy ativartate).
+“All that you asked of me has now been told to you, O Rāghava (_etat te sarvam ākhyātaṃ yan māṃ pṛcchasi rāghava_); for the hour to worship the evening twilight is passing by, O hero (_sandhyām upāsituṃ vīra samayo hy ativartate_).
 </details>
 </details>
 
@@ -705,7 +705,7 @@ Concluding his narrative, Agastya explains how Daṇḍa’s cursed realm betwee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All these great sages around us, holding full water-pitchers (pūrṇa-kumbhāḥ samantataḥ), having performed their ablutions, O tiger among men (kṛtodakā nara-vyāghra), are reverently worshipping the Sun (ādityaṃ paryupāsate).
+“All these great sages around us, holding full water-pitchers (_pūrṇa-kumbhāḥ samantataḥ_), having performed their ablutions, O tiger among men (_kṛtodakā nara-vyāghra_), are reverently worshipping the Sun (_ādityaṃ paryupāsate_).
 </details>
 </details>
 
@@ -742,7 +742,7 @@ Concluding his narrative, Agastya explains how Daṇḍa’s cursed realm betwee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having received the Vedic adoration practiced by those foremost knowers of Brahman assembled together (sa tair brāhmaṇam abhyastaṃ sahitair brahma-vittamaiḥ), the sun has gone to rest, O Rāma (ravir astaṃ gato rāma); go now and touch the sacred water (gacchodakam upaspṛśa).”
+“Having received the Vedic adoration practiced by those foremost knowers of Brahman assembled together (_sa tair brāhmaṇam abhyastaṃ sahitair brahma-vittamaiḥ_), the sun has gone to rest, O Rāma (_ravir astaṃ gato rāma_); go now and touch the sacred water (_gacchodakam upaspṛśa_).”
 </details>
 </details>
 

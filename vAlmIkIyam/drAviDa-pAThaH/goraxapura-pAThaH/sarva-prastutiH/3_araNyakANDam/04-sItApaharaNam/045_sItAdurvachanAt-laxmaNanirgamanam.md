@@ -104,7 +104,7 @@ On identifying the grievous voice that is identifiable with her husband's voice,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that distressed cry (ārta-svaraṃ tu tam) in the forest to be like her husband's (bhartur vijñāya sadṛśam), Sītā said to Lakṣmaṇa: “Go, ascertain how Rāghava fares (gaccha jānīhi rāghavam)!”
+Perceiving that distressed cry (_ārta-svaraṃ tu tam_) in the forest to be like her husband&#x27;s (_bhartur vijñāya sadṛśam_), Sītā said to Lakṣmaṇa: “Go, ascertain how Rāghava fares (_gaccha jānīhi rāghavam_)!”
 </details>
 </details>
 
@@ -159,7 +159,7 @@ in the forest. [3-45-2, 3a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For neither my life-breath (jīvitam) nor my heart (hṛdayaṃ vā) abides in its place (sthāne avatiṣṭhate); the loud cry (śabdo bhṛśam) of him crying out in utter distress (krośataḥ paramārtasya) has been heard by me!”
+“For neither my life-breath (_jīvitam_) nor my heart (_hṛdayaṃ vā_) abides in its place (_sthāne avatiṣṭhate_); the loud cry (_śabdo bhṛśam_) of him crying out in utter distress (_krośataḥ paramārtasya_) has been heard by me!”
 </details>
 </details>
 
@@ -237,9 +237,9 @@ agitated for Rama further spoke to him in the paradox of his not going out of he
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “You ought to rescue (trātum arhasi) your brother who is crying out for help in the forest (ākrandamānaṃ tu vane); hasten quickly (kṣipram abhidhāva) to that brother of yours who seeks succour (śaraṇaiṣiṇam)—”
+**3:** “You ought to rescue (_trātum arhasi_) your brother who is crying out for help in the forest (_ākrandamānaṃ tu vane_); hasten quickly (_kṣipram abhidhāva_) to that brother of yours who seeks succour (_śaraṇaiṣiṇam_)—”
 
-**4:** “[Who has] fallen into the power of the Rākṣasas (rakṣasāṃ vaśam āpannam) like a bull into the clutches of lions (siṃhānām iva govṛṣam)!” Yet though addressed thus (tathoktas tu), he did not go (na jagāma), remembering his brother's command (bhrātur ājñāya śāsanam).
+**4:** “[Who has] fallen into the power of the Rākṣasas (_rakṣasāṃ vaśam āpannam_) like a bull into the clutches of lions (_siṃhānām iva govṛṣam_)!” Yet though addressed thus (_tathoktas tu_), he did not go (_na jagāma_), remembering his brother&#x27;s command (_bhrātur ājñāya śāsanam_).
 </details>
 </details>
 
@@ -320,9 +320,9 @@ and even abusively because her mind is fuddled with the thought 'some damage is 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Thereupon, the agitated (kṣubhitā) daughter of Janaka spoke to him there: “O Saumitri, under the guise of a friend (mitra-rūpeṇa), you act like an enemy toward your brother (bhrātus tvam asi śatruvat)!”
+**5:** Thereupon, the agitated (_kṣubhitā_) daughter of Janaka spoke to him there: “O Saumitri, under the guise of a friend (_mitra-rūpeṇa_), you act like an enemy toward your brother (_bhrātus tvam asi śatruvat_)!”
 
-**6:** “Since you do not rush to your brother's aid (yas tvam bhrātaraṃ nābhipadyase) in this plight (asyām avasthāyām), O Lakṣmaṇa, you wish Rāma to perish (icchasi tvaṃ vinaśyantaṃ rāmam) on account of me (mat-kṛte)!”
+**6:** “Since you do not rush to your brother&#x27;s aid (_yas tvam bhrātaraṃ nābhipadyase_) in this plight (_asyām avasthāyām_), O Lakṣmaṇa, you wish Rāma to perish (_icchasi tvaṃ vinaśyantaṃ rāmam_) on account of me (_mat-kṛte_)!”
 </details>
 </details>
 
@@ -385,7 +385,7 @@ brother, and as you complacently stay behind even when that great-resplendent Ra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of greed for me (lobhāt tu mat-kṛte), surely, you do not follow Rāghava (nānugacchasi rāghavam)! I deem his calamity dear to you (vyasanaṃ te priyaṃ manye); you have no affection for your brother (sneho bhrātari nāsti te)!”
+“Out of greed for me (_lobhāt tu mat-kṛte_), surely, you do not follow Rāghava (_nānugacchasi rāghavam_)! I deem his calamity dear to you (_vyasanaṃ te priyaṃ manye_); you have no affection for your brother (_sneho bhrātari nāsti te_)!”
 </details>
 </details>
 
@@ -441,7 +441,7 @@ so to Lakshmana. [3-45-8, 9a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore you stand here unconcerned (tiṣṭhasi visrabdham), even while not beholding him of mighty splendour (tam apaśyan mahā-dyutim)! For when he has fallen into peril (saṃśayam āpanne tasmin), of what use would I be, remaining here (kim iha mayā bhavet)—”
+“Therefore you stand here unconcerned (_tiṣṭhasi visrabdham_), even while not beholding him of mighty splendour (_tam apaśyan mahā-dyutim_)! For when he has fallen into peril (_saṃśayam āpanne tasmin_), of what use would I be, remaining here (_kim iha mayā bhavet_)—”
 </details>
 </details>
 
@@ -494,7 +494,7 @@ anguish in that way, as she is fretful like a she-deer. [3-45-9a, 10b]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[Or what] duty could be mine, remaining here (kartavyam iha tiṣṭhantyā), when he with whom as your chief you came (yat-pradhānas tvam āgataḥ) [is in peril]?” To Vaidehī, who was speaking thus, overwhelmed with tears and sorrow (bāṣpa-śoka-samanvitām)—
+“[Or what] duty could be mine, remaining here (_kartavyam iha tiṣṭhantyā_), when he with whom as your chief you came (_yat-pradhānas tvam āgataḥ_) [is in peril]?” To Vaidehī, who was speaking thus, overwhelmed with tears and sorrow (_bāṣpa-śoka-samanvitām_)—
 </details>
 </details>
 
@@ -549,7 +549,7 @@ fiends, demons, no doubt about it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And trembling like a doe (trastāṃ mṛga-vadhūm iva), Lakṣmaṇa spoke to Sītā: “By Nāgas, Asuras, Gandharvas, gods, Dānavas, and Rākṣasas (pannagāsura-gandharva-deva-dānava-rākṣasaiḥ)—”
+And trembling like a doe (_trastāṃ mṛga-vadhūm iva_), Lakṣmaṇa spoke to Sītā: “By Nāgas, Asuras, Gandharvas, gods, Dānavas, and Rākṣasas (_pannagāsura-gandharva-deva-dānava-rākṣasaiḥ_)—”
 </details>
 </details>
 
@@ -639,11 +639,11 @@ venture to abandon you in this forest in the absence of Raghava. [3-45-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Your husband, O Vaidehī, cannot be vanquished (aśakyas tava bhartā jetum)—there is no doubt (na saṃśayaḥ)! O queen (devi), among gods and men, among Gandharvas and birds (patatriṣu)—”
+**11:** “Your husband, O Vaidehī, cannot be vanquished (_aśakyas tava bhartā jetum_)—there is no doubt (_na saṃśayaḥ_)! O queen (_devi_), among gods and men, among Gandharvas and birds (_patatriṣu_)—”
 
-**12:** “Among Rākṣasas, Piśācas, Kinnaras, and beasts, and among dreadful Dānavas (dānaveṣu ca ghoreṣu), O lovely lady (śobhane), there exists no one (na sa vidyeta)—”
+**12:** “Among Rākṣasas, Piśācas, Kinnaras, and beasts, and among dreadful Dānavas (_dānaveṣu ca ghoreṣu_), O lovely lady (_śobhane_), there exists no one (_na sa vidyeta_)—”
 
-**13:** “—Who could fight against Rāma, the peer of Vāsava [Indra] (vāsavopamam), in battle (yo rāmaṃ pratiyudhyeta samare)! Rāma is invulnerable in battle (avadhyaḥ samare rāmaḥ); you ought not to speak thus (naivaṃ tvaṃ vaktum arhasi)!”
+**13:** “—Who could fight against Rāma, the peer of Vāsava [Indra] (_vāsavopamam_), in battle (_yo rāmaṃ pratiyudhyeta samare_)! Rāma is invulnerable in battle (_avadhyaḥ samare rāmaḥ_); you ought not to speak thus (_naivaṃ tvaṃ vaktum arhasi_)!”
 </details>
 </details>
 
@@ -718,9 +718,9 @@ that extraordinary deer. [3-45-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “I dare not abandon you (na tvāṃ hātum utsahe) in this forest without Rāghava (rāghavaṃ vinā); his might is irresistible (anivāryaṃ balaṃ tasya) even by the forces of the mightiest (balair balavatām api)—”
+**14:** “I dare not abandon you (_na tvāṃ hātum utsahe_) in this forest without Rāghava (_rāghavaṃ vinā_); his might is irresistible (_anivāryaṃ balaṃ tasya_) even by the forces of the mightiest (_balair balavatām api_)—”
 
-**15:** “Even by the three worlds combined (tribhir lokaiḥ samuditaiḥ), together with their lords and the immortals (seśvaraiḥ sāmarair api)! Let your heart be at peace (hṛdayaṃ nirvṛtaṃ te 'stu); let your anguish be cast aside (saṃtāpas tyajyatāṃ tava)!”
+**15:** “Even by the three worlds combined (_tribhir lokaiḥ samuditaiḥ_), together with their lords and the immortals (_seśvaraiḥ sāmarair api_)! Let your heart be at peace (_hṛdayaṃ nirvṛtaṃ te &#x27;stu_); let your anguish be cast aside (_saṃtāpas tyajyatāṃ tava_)!”
 </details>
 </details>
 
@@ -781,7 +781,7 @@ nagaram proktam indrajaalam maniiShibhiH* 'magic show of showing celestial citie
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your husband will return quickly (āgamiṣyati te bhartā śīghram) after slaying that foremost of deer (hatvā mṛgottamam); manifestly, that was not his voice (na sa tasya svaro vyaktam), nor that of any divinity (na kaścid api daivataḥ)—”
+“Your husband will return quickly (_āgamiṣyati te bhartā śīghram_) after slaying that foremost of deer (_hatvā mṛgottamam_); manifestly, that was not his voice (_na sa tasya svaro vyaktam_), nor that of any divinity (_na kaścid api daivataḥ_)—”
 </details>
 </details>
 
@@ -834,7 +834,7 @@ security, as such I do not dare to leave you off now. [3-45-17, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rather, it is the illusion of that Rākṣasa (māyā tasya ca rakṣasaḥ), resembling a phantom city of the Gandharvas (gandharva-nagara-prakhyā). You are a sacred trust (nyāsa-bhūtāsi), O Vaidehī, entrusted to me (nyastā mayi) by the high-souled—”
+“Rather, it is the illusion of that Rākṣasa (_māyā tasya ca rakṣasaḥ_), resembling a phantom city of the Gandharvas (_gandharva-nagara-prakhyā_). You are a sacred trust (_nyāsa-bhūtāsi_), O Vaidehī, entrusted to me (_nyastā mayi_) by the high-souled—”
 </details>
 </details>
 
@@ -886,7 +886,7 @@ of Khara and others, and concerning the eradication of Janasthaana. [3-45-18b, 1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāma, O fair-hipped lady (varārohe); I dare not abandon you here (na tvāṃ tyaktum ihotsahe)! Moreover, O auspicious lady (kalyāṇi), we have incurred the enmity of these night-stalkers (kṛta-vairāś ca vayam etair niśācaraiḥ)—”
+“Rāma, O fair-hipped lady (_varārohe_); I dare not abandon you here (_na tvāṃ tyaktum ihotsahe_)! Moreover, O auspicious lady (_kalyāṇi_), we have incurred the enmity of these night-stalkers (_kṛta-vairāś ca vayam etair niśācaraiḥ_)—”
 </details>
 </details>
 
@@ -945,7 +945,7 @@ Therefore Vaidehi, just do not bother about it." Thus Lakshmana advised Seetha. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since the slaying of Khara (kharasya nidhane), O queen, on account of the slaughter in Janasthāna (janasthāna-vadhaṃ prati), the Rākṣasas utter manifold [deceitful] voices (vividhā vāco vyāharanti) in the great forest—”
+“Since the slaying of Khara (_kharasya nidhane_), O queen, on account of the slaughter in Janasthāna (_janasthāna-vadhaṃ prati_), the Rākṣasas utter manifold [deceitful] voices (_vividhā vāco vyāharanti_) in the great forest—”
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ bloodshot she spoke these rude sentences to that veracious Lakshmana. [3-45-20b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Delighting in violence (hiṃsā-vihārāḥ), O Vaidehī; you ought not to be anxious (na cintayitum arhasi)!” Addressed thus by Lakṣmaṇa, she grew incensed (kruddhā), with her eyes reddened in anger (saṃrakta-locanā)—
+“Delighting in violence (_hiṃsā-vihārāḥ_), O Vaidehī; you ought not to be anxious (_na cintayitum arhasi_)!” Addressed thus by Lakṣmaṇa, she grew incensed (_kruddhā_), with her eyes reddened in anger (_saṃrakta-locanā_)—
 </details>
 </details>
 
@@ -1056,9 +1056,9 @@ of an untoward deed.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** And spoke harsh words (abravīt paruṣaṃ vākyam) to the truthful Lakṣmaṇa (satya-vādinam): “O ignoble one (anārya), of pitiless undertakings (akaruṇārambha), cruel (nṛśaṃsa) disgrace to your lineage (kula-pāṃsana)!”
+**21:** And spoke harsh words (_abravīt paruṣaṃ vākyam_) to the truthful Lakṣmaṇa (_satya-vādinam_): “O ignoble one (_anārya_), of pitiless undertakings (_akaruṇārambha_), cruel (_nṛśaṃsa_) disgrace to your lineage (_kula-pāṃsana_)!”
 
-**22:** “I deem Rāma's great calamity to be dear to you (tava priyaṃ manye rāmasya vyasanaṃ mahat); seeing Rāma's calamity, therefore, you utter such words (tenaitāni prabhāṣase)!”
+**22:** “I deem Rāma&#x27;s great calamity to be dear to you (_tava priyaṃ manye rāmasya vyasanaṃ mahat_); seeing Rāma&#x27;s calamity, therefore, you utter such words (_tenaitāni prabhāṣase_)!”
 </details>
 </details>
 
@@ -1109,7 +1109,7 @@ deadly sins, Lakshmana, and it is not uncommon. [3-45-22b, 23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is no wonder (naiva citram), O Lakṣmaṇa, that wickedness should dwell in rivals (sapatneṣu pāpaṃ yad bhavet)—in cruel ones like you (tvad-vidheṣu nṛśaṃseṣu) who ever move in secret (nityaṃ pracchanna-cāriṣu)!”
+“It is no wonder (_naiva citram_), O Lakṣmaṇa, that wickedness should dwell in rivals (_sapatneṣu pāpaṃ yad bhavet_)—in cruel ones like you (_tvad-vidheṣu nṛśaṃseṣu_) who ever move in secret (_nityaṃ pracchanna-cāriṣu_)!”
 </details>
 </details>
 
@@ -1172,7 +1172,7 @@ sent 'you' alone.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Utterly wicked (suduṣṭaḥ), you alone follow Rāma as he goes alone in the forest (vane rāmam ekam eko 'nugacchasi), harbouring a secret design on account of me (mama hetoḥ praticchannaḥ), or else suborned by Bharata (prayukto bharatena vā)!”
+“Utterly wicked (_suduṣṭaḥ_), you alone follow Rāma as he goes alone in the forest (_vane rāmam ekam eko &#x27;nugacchasi_), harbouring a secret design on account of me (_mama hetoḥ praticchannaḥ_), or else suborned by Bharata (_prayukto bharatena vā_)!”
 </details>
 </details>
 
@@ -1244,7 +1244,7 @@ mine, To love of other men decline? - Griffith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That [design], O Saumitri, shall never succeed (tan na sidhyati), whether yours or Bharata's (tavāpi bharatasya vā)! How could I, having wedded Rāma, dark as a blue lotus (indīvara-śyāmam) and lotus-eyed (padma-nibhekṣaṇam)—”
+“That [design], O Saumitri, shall never succeed (_tan na sidhyati_), whether yours or Bharata&#x27;s (_tavāpi bharatasya vā_)! How could I, having wedded Rāma, dark as a blue lotus (_indīvara-śyāmam_) and lotus-eyed (_padma-nibhekṣaṇam_)—”
 </details>
 </details>
 
@@ -1301,7 +1301,7 @@ do not eke out an existence on this earth even for a moment without Rama." Thus 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having resorted to such a husband (upasaṃśritya bhartāram), ever desire an ordinary man (kāmayeyaṃ pṛthag-janam)? Before your very eyes (samakṣaṃ tava), O Saumitri, I shall undoubtedly cast away my life (prāṇāṃs tyakṣyāmy asaṃśayam)!”
+“Having resorted to such a husband (_upasaṃśritya bhartāram_), ever desire an ordinary man (_kāmayeyaṃ pṛthag-janam_)? Before your very eyes (_samakṣaṃ tava_), O Saumitri, I shall undoubtedly cast away my life (_prāṇāṃs tyakṣyāmy asaṃśayam_)!”
 </details>
 </details>
 
@@ -1349,9 +1349,9 @@ he spoke to her suppliantly adjoining his palm-fold. [3-45-27b, 28a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “Without Rāma, I cannot live upon the earth (naiva jīvāmi bhū-tale) even for a moment (kṣaṇam api)!” Addressed in such harsh, hair-raising words (ity uktaḥ paruṣaṃ vākyaṃ roma-harṣaṇam) by Sītā—
+**27:** “Without Rāma, I cannot live upon the earth (_naiva jīvāmi bhū-tale_) even for a moment (_kṣaṇam api_)!” Addressed in such harsh, hair-raising words (_ity uktaḥ paruṣaṃ vākyaṃ roma-harṣaṇam_) by Sītā—
 
-**28:** With joined palms (prāñjaliḥ), that master of his senses (jitendriyaḥ) Lakṣmaṇa spoke to Sītā: “I dare not utter a retort (uttaraṃ notsahe vaktum); you are a deity unto me (daivataṃ bhavatī mama)!”
+**28:** With joined palms (_prāñjaliḥ_), that master of his senses (_jitendriyaḥ_) Lakṣmaṇa spoke to Sītā: “I dare not utter a retort (_uttaraṃ notsahe vaktum_); you are a deity unto me (_daivataṃ bhavatī mama_)!”
 </details>
 </details>
 
@@ -1400,7 +1400,7 @@ nature of women and it is obvious in the world. [3-45-28b, 29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet unbecoming speech (vākyam apratirūpam) is no wonder among women (na citraṃ strīṣu), O Maithilī; such is the nature of women (svabhāvas tv eṣa nārīṇām) seen throughout these worlds (eṣu lokeṣu dṛśyate).”
+“Yet unbecoming speech (_vākyam apratirūpam_) is no wonder among women (_na citraṃ strīṣu_), O Maithilī; such is the nature of women (_svabhāvas tv eṣa nārīṇām_) seen throughout these worlds (_eṣu lokeṣu dṛśyate_).”
 </details>
 </details>
 
@@ -1473,7 +1473,7 @@ yet he is tolerating.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Women cast aside dharma (vimukta-dharmāḥ), are fickle (capalāḥ), sharp-tongued (tīkṣṇāḥ), and sowers of discord (bheda-karāḥ); for I cannot endure such speech (na sahe hīdṛśaṃ vākyam), O Vaidehī, daughter of Janaka—”
+“Women cast aside _dharma_ (_vimukta-dharmāḥ_), are fickle (_capalāḥ_), sharp-tongued (_tīkṣṇāḥ_), and sowers of discord (_bheda-karāḥ_); for I cannot endure such speech (_na sahe hīdṛśaṃ vākyam_), O Vaidehī, daughter of Janaka—”
 </details>
 </details>
 
@@ -1587,11 +1587,11 @@ all of the forest deities protect you. [3-45-33b, 34a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “[Piercing] between both my ears like a red-hot iron shaft (śrotrayor ubhayor madhye tapta-nārāca-saṃnibham)! Let all the forest-dwellers (sarve vanecarāḥ) listen to me as witnesses (upaśṛṇvantu me sākṣiṇaḥ)—”
+**31:** “[Piercing] between both my ears like a red-hot iron shaft (_śrotrayor ubhayor madhye tapta-nārāca-saṃnibham_)! Let all the forest-dwellers (_sarve vanecarāḥ_) listen to me as witnesses (_upaśṛṇvantu me sākṣiṇaḥ_)—”
 
-**32:** “To how, though speaking what is right (nyāya-vādī), I have been addressed in harsh words by you (yathā vākyam ukto 'haṃ paruṣaṃ tvayā)! Fie upon you today, who are courting ruin (dhik tvām adya vinaśyantīm), since you suspect me thus (yan mām evaṃ viśaṅkase)—”
+**32:** “To how, though speaking what is right (_nyāya-vādī_), I have been addressed in harsh words by you (_yathā vākyam ukto &#x27;haṃ paruṣaṃ tvayā_)! Fie upon you today, who are courting ruin (_dhik tvām adya vinaśyantīm_), since you suspect me thus (_yan mām evaṃ viśaṅkase_)—”
 
-**33:** “Out of womanhood and a perverse nature (strītvād duṣṭa-svabhāvena), while I stand firm in my elder's command (guru-vākye vyavasthitam)! I am going where Kākutstha is (gacchāmi yatra kākutsthaḥ); may it be well with you, O fair-faced lady (svasti te 'stu varānane)!”
+**33:** “Out of womanhood and a perverse nature (_strītvād duṣṭa-svabhāvena_), while I stand firm in my elder&#x27;s command (_guru-vākye vyavasthitam_)! I am going where Kākutstha is (_gacchāmi yatra kākutsthaḥ_); may it be well with you, O fair-faced lady (_svasti te &#x27;stu varānane_)!”
 </details>
 </details>
 
@@ -1658,7 +1658,7 @@ Rama that cannot be ridiculed, especially his mother-like elder sister-in-law.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May all the sylvan deities (samagrā vana-devatāḥ) protect you, O large-eyed lady (viśālākṣi)! For dreadful portents (nimittāni hi ghorāṇi) are appearing before me (prādurbhavanti me); may I, returning with Rāma (saha rāmeṇa punar āgataḥ), behold you once again (api tvāṃ paśyeyam)!”
+“May all the sylvan deities (_samagrā vana-devatāḥ_) protect you, O large-eyed lady (_viśālākṣi_)! For dreadful portents (_nimittāni hi ghorāṇi_) are appearing before me (_prādurbhavanti me_); may I, returning with Rāma (_saha rāmeṇa punar āgataḥ_), behold you once again (_api tvāṃ paśyeyam_)!”
 </details>
 </details>
 
@@ -1713,7 +1713,7 @@ him, while tears whelmed her to a fault. [3-45-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Lakṣmaṇa, the weeping daughter of Janaka (rudatī janakātmajā), flooded with burning tears (tīvra-bāṣpa-pariplutā), then spoke these words in reply (pratyuvāca tato vākyam):
+Addressed thus by Lakṣmaṇa, the weeping daughter of Janaka (_rudatī janakātmajā_), flooded with burning tears (_tīvra-bāṣpa-pariplutā_), then spoke these words in reply (_pratyuvāca tato vākyam_):
 </details>
 </details>
 
@@ -1821,9 +1821,9 @@ at this situation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Bereft of Rāma (hīnā rāmeṇa), O Lakṣmaṇa, I shall enter the Godāvarī (godāvarīṃ pravekṣyāmi), or hang myself (ābandhiṣye), or cast my body down from a precipice (tyakṣye viṣame deham ātmanaḥ)—”
+**36:** “Bereft of Rāma (_hīnā rāmeṇa_), O Lakṣmaṇa, I shall enter the Godāvarī (_godāvarīṃ pravekṣyāmi_), or hang myself (_ābandhiṣye_), or cast my body down from a precipice (_tyakṣye viṣame deham ātmanaḥ_)—”
 
-**37:** “Or I shall drink virulent poison (pibāmi vā viṣaṃ tīkṣṇam), or enter the blazing fire (pravekṣyāmi hutāśanam); but never shall I touch any man other than Rāghava (na tv ahaṃ rāghavād anyaṃ kadāpi puruṣaṃ spṛśe)!”
+**37:** “Or I shall drink virulent poison (_pibāmi vā viṣaṃ tīkṣṇam_), or enter the blazing fire (_pravekṣyāmi hutāśanam_); but never shall I touch any man other than Rāghava (_na tv ahaṃ rāghavād anyaṃ kadāpi puruṣaṃ spṛśe_)!”
 </details>
 </details>
 
@@ -1875,7 +1875,7 @@ to smite her belly with both of her palms in a heightened agony. [3-45-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having made this vow to Lakṣmaṇa (iti lakṣmaṇam āśrutya), Sītā, overwhelmed with grief (śoka-samanvitā) and weeping in anguish (rudatī duḥkhāt), beat her belly with both hands (pāṇibhyāṃ udaraṃ prajaghāna ha).
+Having made this vow to Lakṣmaṇa (_iti lakṣmaṇam āśrutya_), Sītā, overwhelmed with grief (_śoka-samanvitā_) and weeping in anguish (_rudatī duḥkhāt_), beat her belly with both hands (_pāṇibhyāṃ udaraṃ prajaghāna ha_).
 </details>
 </details>
 
@@ -1936,7 +1936,7 @@ brother of her husband, and maintained a silence of antipathy. [3-45-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that wide-eyed lady (viśāla-netrām) in such a distressed state and weeping (tām ārta-rūpāṃ rudantīm), the heavy-hearted Saumitri (vimanāḥ saumitriḥ) sought to console her (āśvāsayāmāsa); yet Sītā spoke not a word (na caiva kiṃcid uvāca) to that brother of her husband.
+Beholding that wide-eyed lady (_viśāla-netrām_) in such a distressed state and weeping (_tām ārta-rūpāṃ rudantīm_), the heavy-hearted Saumitri (_vimanāḥ saumitriḥ_) sought to console her (_āśvāsayāmāsa_); yet Sītā spoke not a word (_na caiva kiṃcid uvāca_) to that brother of her husband.
 </details>
 </details>
 
@@ -2020,7 +2020,7 @@ he is now sent by her compulsively and compulsorily.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having saluted Sītā (sītām abhivādya) with joined palms (kṛtāñjaliḥ) and bowed slightly (kiṃcid abhipraṇamya), the self-possessed Lakṣmaṇa (ātmavān), looking back again and again at Maithilī (avekṣamāṇo bahuśaḥ sa maithilīm), went toward Rāma (jagāma rāmasya samīpam).
+Then, having saluted Sītā (_sītām abhivādya_) with joined palms (_kṛtāñjaliḥ_) and bowed slightly (_kiṃcid abhipraṇamya_), the self-possessed Lakṣmaṇa (_ātmavān_), looking back again and again at Maithilī (_avekṣamāṇo bahuśaḥ sa maithilīm_), went toward Rāma (_jagāma rāmasya samīpam_).
 </details>
 </details>
 

@@ -76,7 +76,7 @@ while chatting about the auspicious narrative, went away in their respective aer
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his brother slain, lying vanquished upon the battlefield (raṇe), Vibhīṣaṇa, his soul encompassed by the surge of grief (śokavegaparītātmā), lamented aloud.
+Beholding his brother slain, lying vanquished upon the battlefield (_raṇe_), Vibhīṣaṇa, his soul encompassed by the surge of grief (_śokavegaparītātmā_), lamented aloud.
 </details>
 </details>
 
@@ -144,9 +144,9 @@ of Hanuma, the illustrious celestials and others rejoicingly returned as they ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “O hero of renowned valor, skillful and versed in statecraft (nayakovida), you who were endowed with a costly couch (mahārhaśayanopeta)—why do you lie slain upon the bare earth?
+**2:** “O hero of renowned valor, skillful and versed in statecraft (_nayakovida_), you who were endowed with a costly couch (_mahārhaśayanopeta_)—why do you lie slain upon the bare earth?
 
-**3:** “[Why do you lie here] having cast down your long, motionless arms adorned with armlets (aṅgadabhūṣitau), with your diadem—radiant as the sun's orb—tilted askew?
+**3:** “[Why do you lie here] having cast down your long, motionless arms adorned with armlets (_aṅgadabhūṣitau_), with your diadem—radiant as the sun&#x27;s orb—tilted askew?
 </details>
 </details>
 
@@ -199,7 +199,7 @@ celestials and which shone like fire, the mighty armed Rama respectfully saluted
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O hero, that very calamity has now arrived which was foretold by me of old (pūrvam īritam), yet which did not please you when you were encompassed by passion and delusion (kāmamohaparītasya).
+“O hero, that very calamity has now arrived which was foretold by me of old (_pūrvam īritam_), yet which did not please you when you were encompassed by passion and delusion (_kāmamohaparītasya_).
 </details>
 </details>
 
@@ -254,7 +254,7 @@ ascended to the heaven itself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because out of pride (darpāt) neither Prahasta, nor Indrajit, nor other men, nor the transcendent warrior Kumbhakarṇa, nor Atikāya, nor Narāntaka, nor you yourself held [my counsel] in high regard—this bitter aftermath (udarkaḥ) thereof has now come!
+“Because out of pride (_darpāt_) neither Prahasta, nor Indrajit, nor other men, nor the transcendent warrior Kumbhakarṇa, nor Atikāya, nor Narāntaka, nor you yourself held [my counsel] in high regard—this bitter aftermath (_udarkaḥ_) thereof has now come!
 </details>
 </details>
 
@@ -307,7 +307,7 @@ the chariot-warriors was highly rejoiced and embraced Sugreeva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gone is the boundary-dike of men of sound policy (sunītānām); gone is the embodied form of righteousness (dharmasya vigrahaḥ); gone is the epitome of strength; gone is the refuge of valiant archers (suhastānām)!
+“Gone is the boundary-dike of men of sound policy (_sunītānām_); gone is the embodied form of righteousness (_dharmasya vigrahaḥ_); gone is the epitome of strength; gone is the refuge of valiant archers (_suhastānām_)!
 </details>
 </details>
 
@@ -368,7 +368,7 @@ monkey-troops. Rama came to the camp where the army had been stationed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now that this hero, the foremost of weapon-bearers (śastrabhṛtāṃ vare), has fallen to the earth, the sun has fallen to the ground, the moon is plunged in darkness, fire (citrabhānuḥ) has its flames quenched, and heroic enterprise (vyavasāyaḥ) is stripped of exertion!
+“Now that this hero, the foremost of weapon-bearers (_śastrabhṛtāṃ vare_), has fallen to the earth, the sun has fallen to the ground, the moon is plunged in darkness, fire (_citrabhānuḥ_) has its flames quenched, and heroic enterprise (_vyavasāyaḥ_) is stripped of exertion!
 </details>
 </details>
 
@@ -435,9 +435,9 @@ us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “What remains now of this world, bereft of its vital strength (gatasattvasya), when this tiger among Rākṣasas lies in battle as though fast asleep in the dust?
+**8:** “What remains now of this world, bereft of its vital strength (_gatasattvasya_), when this tiger among Rākṣasas lies in battle as though fast asleep in the dust?
 
-**9:** “Having steadfastness for its young shoots (dhṛtipravālaḥ), impetuous might for its choicest blossoms, asceticism for its strength, and valor for its deep-set roots (śauryanibaddhamūlaḥ), the great tree of the Rākṣasa king has been crushed in battle by the tempest of Rāghava (rāghavamārutena)!
+**9:** “Having steadfastness for its young shoots (_dhṛtipravālaḥ_), impetuous might for its choicest blossoms, asceticism for its strength, and valor for its deep-set roots (_śauryanibaddhamūlaḥ_), the great tree of the Rākṣasa king has been crushed in battle by the tempest of Rāghava (_rāghavamārutena_)!
 </details>
 </details>
 
@@ -486,7 +486,7 @@ brother of Ravana being consecrated for throne in Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having fiery splendor for his tusks (tejoviṣāṇaḥ), noble lineage for his spine, and wrath and grace for his hind-limbs and trunk, the scent-elephant Rāvaṇa (rāvaṇagandhahastī), his body seized by the lion of the Ikṣvākus, lies asleep upon the earth!
+“Having fiery splendor for his tusks (_tejoviṣāṇaḥ_), noble lineage for his spine, and wrath and grace for his hind-limbs and trunk, the scent-elephant Rāvaṇa (_rāvaṇagandhahastī_), his body seized by the lion of the Ikṣvākus, lies asleep upon the earth!
 </details>
 </details>
 
@@ -552,9 +552,9 @@ instructed them, who were as swift as thought, to bring sea-water.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Having valor and energy for its blazing flames, wrathful sighs for its smoke (niḥśvāsadhūmaḥ), and his own host for its scorching heat, the puissant fire of the Rākṣasa (rākṣasāgniḥ) has been extinguished in battle by the rain-cloud Rāma (rāmapayodhareṇa)!
+**11:** “Having valor and energy for its blazing flames, wrathful sighs for its smoke (_niḥśvāsadhūmaḥ_), and his own host for its scorching heat, the puissant fire of the Rākṣasa (_rākṣasāgniḥ_) has been extinguished in battle by the rain-cloud Rāma (_rāmapayodhareṇa_)!
 
-**12:** “Having the fierce Rākṣasas for his tail, hump, and horns, the conqueror of foes, rushing like the wind in martial ardor (gandhanagandhavāhaḥ) and having caprice for his ears and eyes, the bull among Rākṣasas (rakṣovṛṣaḥ) has sunk down, slain by the tiger among kings!”
+**12:** “Having the fierce Rākṣasas for his tail, hump, and horns, the conqueror of foes, rushing like the wind in martial ardor (_gandhanagandhavāhaḥ_) and having caprice for his ears and eyes, the bull among Rākṣasas (_rakṣovṛṣaḥ_) has sunk down, slain by the tiger among kings!”
 </details>
 </details>
 
@@ -608,7 +608,7 @@ quickly from that place, returned, having obtained the water from the sea.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto Vibhīṣaṇa, who was overcome by grief (śokasamāviṣṭam) yet speaking reasoned words whose ascertained truth was clearly perceived (paridṛṣṭārthaniścayam), Rāma spoke thus:
+Unto Vibhīṣaṇa, who was overcome by grief (_śokasamāviṣṭam_) yet speaking reasoned words whose ascertained truth was clearly perceived (_paridṛṣṭārthaniścayam_), Rāma spoke thus:
 </details>
 </details>
 
@@ -697,11 +697,11 @@ extra ordinary delight, they indeed eulogized Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “This warrior of fierce valor in combat (caṇḍavikramaḥ) has not perished motionlessly [in vain]; possessed of lofty and mighty energy, he has fallen utterly undaunted (aśaṅkitaḥ).
+**14:** “This warrior of fierce valor in combat (_caṇḍavikramaḥ_) has not perished motionlessly [in vain]; possessed of lofty and mighty energy, he has fallen utterly undaunted (_aśaṅkitaḥ_).
 
-**15:** “Warriors who abide steadfastly in the Kṣatriya code (kṣatradharmavyavasthitāḥ) and fall upon the battle-arena while aspiring for advancement (vṛddhim āśaṃsamānāḥ) are not mourned when they perish thus.
+**15:** “Warriors who abide steadfastly in the Kṣatriya code (_kṣatradharmavyavasthitāḥ_) and fall upon the battle-arena while aspiring for advancement (_vṛddhim āśaṃsamānāḥ_) are not mourned when they perish thus.
 
-**16:** “Now that this wise warrior—by whom all three worlds together with Indra (sendrāḥ) were terrorized in battle—has met his destined hour (kālasamāyukte), this is not the time to mourn.
+**16:** “Now that this wise warrior—by whom all three worlds together with Indra (_sendrāḥ_) were terrorized in battle—has met his destined hour (_kālasamāyukte_), this is not the time to mourn.
 </details>
 </details>
 
@@ -785,9 +785,9 @@ that great kingdom bestowed on him by Rama, was also greatly delighted.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “Never at any time has exclusive victory (ekāntavijayaḥ) existed in war: in battle, a hero is either slain by his foes (parair vā hanyate) or slays his foes.
+**17:** “Never at any time has exclusive victory (_ekāntavijayaḥ_) existed in war: in battle, a hero is either slain by his foes (_parair vā hanyate_) or slays his foes.
 
-**18:** “For this is the path enjoined by the ancients (pūrvaiḥ saṃdiṣṭā) and honored by Kṣatriyas: a Kṣatriya slain in battle (saṃkhye) is not to be mourned—such is the settled rule.
+**18:** “For this is the path enjoined by the ancients (_pūrvaiḥ saṃdiṣṭā_) and honored by Kṣatriyas: a Kṣatriya slain in battle (_saṃkhye_) is not to be mourned—such is the settled rule.
 </details>
 </details>
 
@@ -818,7 +818,7 @@ that great kingdom bestowed on him by Rama, was also greatly delighted.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, beholding this settled rule thus and abiding in the truth (tattvam āsthāya), free from feverish grief (vijvaraḥ), reflect now upon what duty should next be performed here.”
+“Therefore, beholding this settled rule thus and abiding in the truth (_tattvam āsthāya_), free from feverish grief (_vijvaraḥ_), reflect now upon what duty should next be performed here.”
 </details>
 </details>
 
@@ -869,7 +869,7 @@ flowers too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unto that valiant prince who had spoken these words, Vibhīṣaṇa, tormented by sorrow (śokasaṃtaptaḥ), spoke forthwith for his brother's welfare (bhrātur hitam):
+Unto that valiant prince who had spoken these words, Vibhīṣaṇa, tormented by sorrow (_śokasaṃtaptaḥ_), spoke forthwith for his brother&#x27;s welfare (_bhrātur hitam_):
 </details>
 </details>
 
@@ -919,7 +919,7 @@ auspicious objects to Rama and Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who in past battles (vimardeṣu) was never before shattered by all the gods together or even by Vāsava himself, has been shattered in combat upon encountering you, like the swelling ocean upon encountering its shore (velām ivāsādya).
+“He who in past battles (_vimardeṣu_) was never before shattered by all the gods together or even by Vāsava himself, has been shattered in combat upon encountering you, like the swelling ocean upon encountering its shore (_velām ivāsādya_).
 </details>
 </details>
 
@@ -977,7 +977,7 @@ accepted it all, with a sole desire to show gratefulness to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By him gifts were bestowed upon mendicants (vanīpakeṣu), pleasures were enjoyed, dependents were well nourished (nibhṛtāś ca bhṛtyāḥ), riches were consigned to friends, and hostilities were exacted upon foes.
+“By him gifts were bestowed upon mendicants (_vanīpakeṣu_), pleasures were enjoyed, dependents were well nourished (_nibhṛtāś ca bhṛtyāḥ_), riches were consigned to friends, and hostilities were exacted upon foes.
 </details>
 </details>
 
@@ -1031,7 +1031,7 @@ salutation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He maintained the consecrated Vedic fires (āhitāgniś ca), practiced great austerities, mastered the conclusion of the Vedas (vedāntagaḥ), and was a foremost hero in sacrificial rites; by your grace, I wish to perform what is due for him now that he has departed to the hereafter (pretagatasya).”
+“He maintained the consecrated Vedic fires (_āhitāgniś ca_), practiced great austerities, mastered the conclusion of the Vedas (_vedāntagaḥ_), and was a foremost hero in sacrificial rites; by your grace, I wish to perform what is due for him now that he has departed to the hereafter (_pretagatasya_).”
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ entering into the City of Lanka, inform about our welfare to Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rightly moved by those piteous words of Vibhīṣaṇa, that magnanimous prince (narendrasūnuḥ) of unblemished spirit commanded the obsequial rite conducive to heaven (svargīyam ādhānam):
+Rightly moved by those piteous words of Vibhīṣaṇa, that magnanimous prince (_narendrasūnuḥ_) of unblemished spirit commanded the obsequial rite conducive to heaven (_svargīyam ādhānam_):
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ ought to return, taking back her message."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hostilities end with death (maraṇāntāni vairāṇi); our purpose has been accomplished (nirvṛttaṃ naḥ prayojanam). Let his funeral rites be performed; he is as much mine as he is yours!”
+“Hostilities end with death (_maraṇāntāni vairāṇi_); our purpose has been accomplished (_nirvṛttaṃ naḥ prayojanam_). Let his funeral rites be performed; he is as much mine as he is yours!”
 </details>
 </details>
 

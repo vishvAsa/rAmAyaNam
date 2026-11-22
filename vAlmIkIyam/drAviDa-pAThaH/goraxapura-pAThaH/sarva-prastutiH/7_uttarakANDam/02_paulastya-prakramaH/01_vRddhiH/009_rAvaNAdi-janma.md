@@ -61,9 +61,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** After some time had elapsed (kasyacit tv atha kālasya), a rākṣasa named Sumālī (sumālī nāma rākṣasaḥ), emerging from Rasātala (rasātalāt), wandered over the entire mortal world (martyalokaṃ sarvaṃ vai vicacāra ha).
+**1:** After some time had elapsed (_kasyacit tv atha kālasya_), a rākṣasa named Sumālī (_sumālī nāma rākṣasaḥ_), emerging from Rasātala (_rasātalāt_), wandered over the entire mortal world (_martyalokaṃ sarvaṃ vai vicacāra ha_).
 
-**2:** Dark as a blue rain-cloud (nīla-jīmūta-saṅkāśaḥ) and wearing earrings of burnished gold (tapta-kāñcana-kuṇḍalaḥ), he took along his unmarried daughter (kanyāṃ duhitaraṃ gṛhya), who resembled Śrī without her lotus (vinā padmam iva śriyam).
+**2:** Dark as a blue rain-cloud (_nīla-jīmūta-saṅkāśaḥ_) and wearing earrings of burnished gold (_tapta-kāñcana-kuṇḍalaḥ_), he took along his unmarried daughter (_kanyāṃ duhitaraṃ gṛhya_), who resembled Śrī without her lotus (_vinā padmam iva śriyam_).
 </details>
 </details>
 
@@ -105,9 +105,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** As that lord of rākṣasas (rākṣasendraḥ) was then wandering across the surface of the earth (vicaran vai mahītalam), he beheld the Lord of Wealth [Kubera] (dhaneśvaram) traveling by means of Puṣpaka (gacchantaṃ puṣpakeṇa)—
+**3:** As that lord of rākṣasas (_rākṣasendraḥ_) was then wandering across the surface of the earth (_vicaran vai mahītalam_), he beheld the Lord of Wealth [Kubera] (_dhaneśvaram_) traveling by means of Puṣpaka (_gacchantaṃ puṣpakeṇa_)—
 
-**4:** Going to visit his father (pitaraṃ draṣṭum), the mighty son of Pulastya (pulastya-tanayaṃ vibhum). Beholding him, who resembled an immortal (amara-saṅkāśam), moving at will (svacchandam) and radiant as the sun (tapanopamam),
+**4:** Going to visit his father (_pitaraṃ draṣṭum_), the mighty son of Pulastya (_pulastya-tanayaṃ vibhum_). Beholding him, who resembled an immortal (_amara-saṅkāśam_), moving at will (_svacchandam_) and radiant as the sun (_tapanopamam_),
 </details>
 </details>
 
@@ -140,7 +140,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Returning from the mortal world into Rasātala (rasātalaṃ praviṣṭaḥ san martyalokāt) filled with wonder (sa-vismayaḥ), that sagacious counselor among the rākṣasas (rākṣasānāṃ mahāmatiḥ) reflected thus:
+Returning from the mortal world into Rasātala (_rasātalaṃ praviṣṭaḥ san martyalokāt_) filled with wonder (_sa-vismayaḥ_), that sagacious counselor among the rākṣasas (_rākṣasānāṃ mahāmatiḥ_) reflected thus:
 </details>
 </details>
 
@@ -188,9 +188,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “What deed would bring us welfare (kiṃ kṛtaṃ śreyaḥ), and how might we prosper (vardhemahi kathaṃ vayam)?” Thereupon the rākṣasa addressed his daughter, known by the name Kaikasī (kaikasīṃ nāma nāmataḥ):
+**6:** “What deed would bring us welfare (_kiṃ kṛtaṃ śreyaḥ_), and how might we prosper (_vardhemahi kathaṃ vayam_)?” Thereupon the rākṣasa addressed his daughter, known by the name Kaikasī (_kaikasīṃ nāma nāmataḥ_):
 
-**7:** “Daughter, this is the time for giving you in marriage (pradāna-kālo ’yam); your youth is passing away (yauvanaṃ vyativartate). Yet out of fear of rejection (pratyākhyānāc ca bhītaiḥ), you are not sought in marriage by suitors (na varaiḥ pratigṛhyase).
+**7:** “Daughter, this is the time for giving you in marriage (_pradāna-kālo ’yam_); your youth is passing away (_yauvanaṃ vyativartate_). Yet out of fear of rejection (_pratyākhyānāc ca bhītaiḥ_), you are not sought in marriage by suitors (_na varaiḥ pratigṛhyase_).
 </details>
 </details>
 
@@ -223,7 +223,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On your account all of us, whose minds are set on righteousness (dharma-buddhayaḥ), are sorely constrained (yantritāḥ); for you are endowed with every virtue (sarva-guṇopetā), like Fortune incarnate (śrīḥ sākṣād iva), my little daughter.
+“On your account all of us, whose minds are set on righteousness (_dharma-buddhayaḥ_), are sorely constrained (_yantritāḥ_); for you are endowed with every virtue (_sarva-guṇopetā_), like Fortune incarnate (_śrīḥ sākṣād iva_), my little daughter.
 </details>
 </details>
 
@@ -256,7 +256,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Being the father of a daughter (kanyā-pitṛtvam) is truly a sorrow (duḥkhaṃ hi) for all who cherish honor (māna-kāṅkṣiṇām), for it is never known who may seek a maiden’s hand (kaḥ kanyāṃ varayed iti), my girl.
+“Being the father of a daughter (_kanyā-pitṛtvam_) is truly a sorrow (_duḥkhaṃ hi_) for all who cherish honor (_māna-kāṅkṣiṇām_), for it is never known who may seek a maiden’s hand (_kaḥ kanyāṃ varayed iti_), my girl.
 </details>
 </details>
 
@@ -289,7 +289,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Her mother’s lineage (mātuḥ kulam), her father’s lineage (pitṛ-kulam), and the family into which she is given (yatra caiva pradīyate)—a daughter ever keeps three families suspended in anxiety (kulatrayaṃ ... saṃśaye sthāpya tiṣṭhati).
+“Her mother’s lineage (_mātuḥ kulam_), her father’s lineage (_pitṛ-kulam_), and the family into which she is given (_yatra caiva pradīyate_)—a daughter ever keeps three families suspended in anxiety (_kulatrayaṃ ... saṃśaye sthāpya tiṣṭhati_).
 </details>
 </details>
 
@@ -322,7 +322,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore do you, O daughter, wait upon (bhaja) that foremost of sages (munivaraṃ śreṣṭham), born in the lineage of Prajāpati (prajāpati-kulodbhavam)—choose Viśravas, Pulastya’s son (viśravasaṃ ... paulastyam), of your own accord (varaya svayam)!
+“Therefore do you, O daughter, wait upon (_bhaja_) that foremost of sages (_munivaraṃ śreṣṭham_), born in the lineage of Prajāpati (_prajāpati-kulodbhavam_)—choose Viśravas, Pulastya’s son (_viśravasaṃ ... paulastyam_), of your own accord (_varaya svayam_)!
 </details>
 </details>
 
@@ -355,7 +355,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such sons will surely be born to you (īdṛśās te bhaviṣyanti putrāḥ), my daughter—of this there is no doubt (na saṃśayaḥ)—equal to the sun in splendor (tejasā bhāskara-samaḥ), just like this Lord of Wealth [Kubera] (yādṛśo ’yaṃ dhaneśvaraḥ)!”
+“Such sons will surely be born to you (_īdṛśās te bhaviṣyanti putrāḥ_), my daughter—of this there is no doubt (_na saṃśayaḥ_)—equal to the sun in splendor (_tejasā bhāskara-samaḥ_), just like this Lord of Wealth [Kubera] (_yādṛśo ’yaṃ dhaneśvaraḥ_)!”
 </details>
 </details>
 
@@ -396,7 +396,7 @@ Obeying her father, Kaikasī approaches Viśravas during his dread twilight fire
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, that maiden (kanyakā), out of reverence for her father (pitṛ-gauravāt), went to the place where Viśravas was practicing austerity (viśravā yatra tapyate) and stood there (tatropāgamya sā tasthau).
+Hearing those words of his, that maiden (_kanyakā_), out of reverence for her father (_pitṛ-gauravāt_), went to the place where Viśravas was practicing austerity (_viśravā yatra tapyate_) and stood there (_tatropāgamya sā tasthau_).
 </details>
 </details>
 
@@ -429,7 +429,7 @@ Hearing those words of his, that maiden (kanyakā), out of reverence for her fat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very moment, O Rāma (etasminn antare rāma), the twice-born son of Pulastya (pulastya-tanayo dvijaḥ) was attending upon the agnihotra fire-sacrifice (agnihotram upātiṣṭhat), like a fourth sacrificial fire (caturtha iva pāvakaḥ).
+At that very moment, O Rāma (_etasminn antare rāma_), the twice-born son of Pulastya (_pulastya-tanayo dvijaḥ_) was attending upon the _agnihotra_ fire-sacrifice (_agnihotram upātiṣṭhat_), like a fourth sacrificial fire (_caturtha iva pāvakaḥ_).
 </details>
 </details>
 
@@ -462,7 +462,7 @@ At that very moment, O Rāma (etasminn antare rāma), the twice-born son of Pula
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Giving no thought to that dread hour (avicintya tu tāṃ velāṃ dāruṇām), out of regard for her father (pitṛ-gauravāt), that lovely lady (bhāminī) drew near before him (upasṛtyāgratas tasya) and stood with face bowed toward his feet (caraṇādhomukhī sthitā), repeatedly tracing the ground with the tip of her great toe (vilikhantī muhur bhūmim aṅguṣṭhāgreṇa).
+Giving no thought to that dread hour (_avicintya tu tāṃ velāṃ dāruṇām_), out of regard for her father (_pitṛ-gauravāt_), that lovely lady (_bhāminī_) drew near before him (_upasṛtyāgratas tasya_) and stood with face bowed toward his feet (_caraṇādhomukhī sthitā_), repeatedly tracing the ground with the tip of her great toe (_vilikhantī muhur bhūmim aṅguṣṭhāgreṇa_).
 </details>
 </details>
 
@@ -498,7 +498,7 @@ Giving no thought to that dread hour (avicintya tu tāṃ velāṃ dāruṇām),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her—shapely of hip (suśroṇīm), with a countenance like the full moon (pūrṇacandra-nibhānanām), and glowing with her own radiance (dīpyamānāṃ svatejasā)—that supremely noble sage (paramodāraḥ) spoke to her:
+Beholding her—shapely of hip (_suśroṇīm_), with a countenance like the full moon (_pūrṇacandra-nibhānanām_), and glowing with her own radiance (_dīpyamānāṃ svatejasā_)—that supremely noble sage (_paramodāraḥ_) spoke to her:
 </details>
 </details>
 
@@ -531,9 +531,9 @@ Beholding her—shapely of hip (suśroṇīm), with a countenance like the full 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “O auspicious one (bhadre), whose daughter are you (kasyāsi duhitā), and from where have you come hither (kuto vā tvam ihāgatā)? What errand brings you, and for what purpose (kiṃ kāryaṃ kasya vā hetoḥ)? Tell me truthfully, O fair one (tattvato brūhi śobhane)!”
+**17:** “O auspicious one (_bhadre_), whose daughter are you (_kasyāsi duhitā_), and from where have you come hither (_kuto vā tvam ihāgatā_)? What errand brings you, and for what purpose (_kiṃ kāryaṃ kasya vā hetoḥ_)? Tell me truthfully, O fair one (_tattvato brūhi śobhane_)!”
 
-**18:** Thus addressed, that maiden joined her palms in reverence (kṛtāñjaliḥ) and replied: “Through your own spiritual power, O sage (ātma-prabhāveṇa mune), you ought to discern my wish (jñātum arhasi me matam).
+**18:** Thus addressed, that maiden joined her palms in reverence (_kṛtāñjaliḥ_) and replied: “Through your own spiritual power, O sage (_ātma-prabhāveṇa mune_), you ought to discern my wish (_jñātum arhasi me matam_).
 </details>
 </details>
 
@@ -585,9 +585,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Know only this, O Brahmin sage (brahmarṣe), that I have come by my father’s command (śāsanāt pitur āgatām); I am named Kaikasī (kaikasī nāma nāmnāham), and the rest you ought to know yourself (śeṣaṃ tvaṃ jñātum arhasi).”
+**19:** “Know only this, O Brahmin sage (_brahmarṣe_), that I have come by my father’s command (_śāsanāt pitur āgatām_); I am named Kaikasī (_kaikasī nāma nāmnāham_), and the rest you ought to know yourself (_śeṣaṃ tvaṃ jñātum arhasi_).”
 
-**20:** Thereupon that sage entered into meditation (gatvā munir dhyānam) and spoke these words: “I have discerned, O auspicious one (vijñātaṃ te mayā bhadre), the reason that lies within your heart (kāraṇaṃ yan manogatam).
+**20:** Thereupon that sage entered into meditation (_gatvā munir dhyānam_) and spoke these words: “I have discerned, O auspicious one (_vijñātaṃ te mayā bhadre_), the reason that lies within your heart (_kāraṇaṃ yan manogatam_).
 </details>
 </details>
 
@@ -635,11 +635,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “You have a desire for sons from me (sutābhilāṣo mattas te), O you whose gait resembles a rutting elephant’s (matta-mātaṅga-gāmini)! Yet because you have approached me at this dread hour (dāruṇāyāṃ tu velāyāṃ yasmāt tvaṃ mām upasthitā),
+**21:** “You have a desire for sons from me (_sutābhilāṣo mattas te_), O you whose gait resembles a rutting elephant’s (_matta-mātaṅga-gāmini_)! Yet because you have approached me at this dread hour (_dāruṇāyāṃ tu velāyāṃ yasmāt tvaṃ mām upasthitā_),
 
-**22:** “Hear therefore, O gentle lady (śṛṇu tasmāt ... bhadre), what sort of sons you shall bring forth (yādṛśāñ janayiṣyasi): fierce of nature (dāruṇān), terrible in form (dāruṇākārān), and fond of cruel kinsmen (dāruṇābhijana-priyān)—
+**22:** “Hear therefore, O gentle lady (_śṛṇu tasmāt ... bhadre_), what sort of sons you shall bring forth (_yādṛśāñ janayiṣyasi_): fierce of nature (_dāruṇān_), terrible in form (_dāruṇākārān_), and fond of cruel kinsmen (_dāruṇābhijana-priyān_)—
 
-**23:** “You shall give birth, O fair-hipped one (prasaviṣyasi suśroṇi), to rākṣasas of savage deeds (rākṣasān krūra-karmaṇaḥ)!” Hearing those words of his, she fell prostrate at his feet (praṇipatya) and spoke:
+**23:** “You shall give birth, O fair-hipped one (_prasaviṣyasi suśroṇi_), to rākṣasas of savage deeds (_rākṣasān krūra-karmaṇaḥ_)!” Hearing those words of his, she fell prostrate at his feet (_praṇipatya_) and spoke:
 </details>
 </details>
 
@@ -683,9 +683,9 @@ Promising that her youngest son shall be righteous and worthy of his lineage, Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “O revered lord (bhagavan), from you, a knower of Brahman (tvatto ’haṃ brahmavādinaḥ), I do not desire such utterly wicked sons (īdṛśān putrān ... necchāmi sudurācārān)! Deign to show me grace (prasādaṃ kartum arhasi)!”
+**24:** “O revered lord (_bhagavan_), from you, a knower of Brahman (_tvatto ’haṃ brahmavādinaḥ_), I do not desire such utterly wicked sons (_īdṛśān putrān ... necchāmi sudurācārān_)! Deign to show me grace (_prasādaṃ kartum arhasi_)!”
 
-**25:** Addressed thus by that maiden, Viśravas, foremost among sages (viśravā muni-puṅgavaḥ), spoke again to Kaikasī, as the full moon addresses Rohiṇī (pūrṇendur iva rohiṇīm):
+**25:** Addressed thus by that maiden, Viśravas, foremost among sages (_viśravā muni-puṅgavaḥ_), spoke again to Kaikasī, as the full moon addresses Rohiṇī (_pūrṇendur iva rohiṇīm_):
 </details>
 </details>
 
@@ -718,7 +718,7 @@ Promising that her youngest son shall be righteous and worthy of his lineage, Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The last-born son who shall be born to you (paścimo yas tava suto bhaviṣyati), O fair-faced one (śubhānane), he shall be worthy of my lineage (mama vaṃśānurūpaḥ) and righteous of soul (dharmātmā ca bhaviṣyati)!”
+“The last-born son who shall be born to you (_paścimo yas tava suto bhaviṣyati_), O fair-faced one (_śubhānane_), he shall be worthy of my lineage (_mama vaṃśānurūpaḥ_) and righteous of soul (_dharmātmā ca bhaviṣyati_)!”
 </details>
 </details>
 
@@ -756,7 +756,7 @@ The birth of the king of the Rakṣas. While the Rakṣa-es are repeatedly menti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, O Rāma, that maiden in the course of time (kālena kenacit) gave birth to a loathsome (bībhatsam), utterly terrifying creature in rākṣasa form (rakṣorūpaṃ sudāruṇam)—
+Thus addressed, O Rāma, that maiden in the course of time (_kālena kenacit_) gave birth to a loathsome (_bībhatsam_), utterly terrifying creature in rākṣasa form (_rakṣorūpaṃ sudāruṇam_)—
 </details>
 </details>
 
@@ -802,9 +802,9 @@ He had ten heads, huge fangs, and resembled a heap of dark collyrium. He had cop
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** Ten-necked (daśagrīvam), great-fanged (mahādaṃṣṭram), resembling a mountain of dark collyrium (nīlāñjana-cayopamam), copper-lipped (tāmroṣṭham), twenty-armed (viṃśati-bhujam), huge-mouthed (mahāsyam), with blazing hair (dīpta-mūrdhajam).
+**28:** Ten-necked (_daśagrīvam_), great-fanged (_mahādaṃṣṭram_), resembling a mountain of dark collyrium (_nīlāñjana-cayopamam_), copper-lipped (_tāmroṣṭham_), twenty-armed (_viṃśati-bhujam_), huge-mouthed (_mahāsyam_), with blazing hair (_dīpta-mūrdhajam_).
 
-**29:** At the very instant he was born (tasmiñ jāte tu tatkāle), jackals with flaming morsels in their jaws (sajvāla-kavalāḥ śivāḥ) and flesh-eating birds (kravyādāḥ) circled round in sinister counter-clockwise rings (apasavyāni maṇḍalāni pracakramuḥ).
+**29:** At the very instant he was born (_tasmiñ jāte tu tatkāle_), jackals with flaming morsels in their jaws (_sajvāla-kavalāḥ śivāḥ_) and flesh-eating birds (_kravyādāḥ_) circled round in sinister counter-clockwise rings (_apasavyāni maṇḍalāni pracakramuḥ_).
 </details>
 </details>
 
@@ -842,7 +842,7 @@ At the moment of his birth, jackals, with mouths emitting flames, and other pred
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The sky-god rained down blood (vavarṣa rudhiraṃ devaḥ), clouds roared with harsh thunder (meghāś ca khara-niḥsvanāḥ), the sun ceased to shine (prababhau na ca sūryo vai), and huge meteors plunged to earth (maholkāś cāpatan bhuvi).
+The sky-god rained down blood (_vavarṣa rudhiraṃ devaḥ_), clouds roared with harsh thunder (_meghāś ca khara-niḥsvanāḥ_), the sun ceased to shine (_prababhau na ca sūryo vai_), and huge meteors plunged to earth (_maholkāś cāpatan bhuvi_).
 </details>
 </details>
 
@@ -884,7 +884,7 @@ sky, and great meteors fell on the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The earth itself trembled (cakampe jagatī caiva), fiercely terrifying winds blew (vavur vātāḥ sudāruṇāḥ), and even the unshakable ocean, lord of rivers (akṣobhyaḥ ... samudraḥ saritāṃ patiḥ), was violently agitated (kṣubhitaś caiva).
+The earth itself trembled (_cakampe jagatī caiva_), fiercely terrifying winds blew (_vavur vātāḥ sudāruṇāḥ_), and even the unshakable ocean, lord of rivers (_akṣobhyaḥ ... samudraḥ saritāṃ patiḥ_), was violently agitated (_kṣubhitaś caiva_).
 </details>
 </details>
 
@@ -921,7 +921,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then his father, equal to Grandfather Brahmā (pitāmaha-samaḥ pitā), bestowed a name upon him (nāmākarot tasya): “Since he has been born with ten necks (daśagrīvaḥ prasūto ’yam), he shall be called Daśagrīva (daśagrīvo bhaviṣyati)!”
+Then his father, equal to Grandfather Brahmā (_pitāmaha-samaḥ pitā_), bestowed a name upon him (_nāmākarot tasya_): “Since he has been born with ten necks (_daśagrīvaḥ prasūto ’yam_), he shall be called Daśagrīva (_daśagrīvo bhaviṣyati_)!”
 </details>
 </details>
 
@@ -960,7 +960,7 @@ Then his father, who was like the grandfather (Brahmā), gave him his name: ‘H
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Immediately after him (tasya tv anantaram) was born the mighty Kumbhakarṇa (kumbhakarṇo mahābalaḥ), than whose vast proportions no greater bulk exists in this world (pramāṇād yasya vipulaṃ pramāṇaṃ neha vidyate).
+Immediately after him (_tasya tv anantaram_) was born the mighty Kumbhakarṇa (_kumbhakarṇo mahābalaḥ_), than whose vast proportions no greater bulk exists in this world (_pramāṇād yasya vipulaṃ pramāṇaṃ neha vidyate_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ Immediately after him (tasya tv anantaram) was born the mighty Kumbhakarṇa (ku
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Next was born a daughter named Śūrpaṇakhā, hideous of face (śūrpaṇakhā nāma sañjajñe vikṛtānanā), and thereafter the righteous-souled Vibhīṣaṇa (vibhīṣaṇaś ca dharmātmā), the youngest son of Kaikasī (kaikasyāḥ paścimaḥ sutaḥ). When that noble-hearted being was born (tasmiñ jāte mahāsattve), a shower of flowers fell from above (puṣpa-varṣaṃ papāta ha).
+Next was born a daughter named Śūrpaṇakhā, hideous of face (_śūrpaṇakhā nāma sañjajñe vikṛtānanā_), and thereafter the righteous-souled Vibhīṣaṇa (_vibhīṣaṇaś ca dharmātmā_), the youngest son of Kaikasī (_kaikasyāḥ paścimaḥ sutaḥ_). When that noble-hearted being was born (_tasmiñ jāte mahāsattve_), a shower of flowers fell from above (_puṣpa-varṣaṃ papāta ha_).
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ Next was born a daughter named Śūrpaṇakhā, hideous of face (śūrpaṇakhā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the expanse of the sky (nabhaḥ-sthāne), the kettledrums of the gods thundered forth (dundubhayo devānāṃ prāṇadan), and cries of “Well done! Well done!” (sādhu sādhv iti) resounded in the firmament (vākyaṃ caivāntarikṣe).
+In the expanse of the sky (_nabhaḥ-sthāne_), the kettledrums of the gods thundered forth (_dundubhayo devānāṃ prāṇadan_), and cries of “Well done! Well done!” (_sādhu sādhv iti_) resounded in the firmament (_vākyaṃ caivāntarikṣe_).
 </details>
 </details>
 
@@ -1059,7 +1059,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those two of mighty energy (tau tu ... mahaujasau), Kumbhakarṇa and Daśagrīva, grew up there in that great forest (tatra mahāraṇye vavṛdhāte), spreading terror through the worlds (lokodvegakarau tadā).
+Those two of mighty energy (_tau tu ... mahaujasau_), Kumbhakarṇa and Daśagrīva, grew up there in that great forest (_tatra mahāraṇye vavṛdhāte_), spreading terror through the worlds (_lokodvegakarau tadā_).
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Intoxicated with arrogance (pramattas tu), Kumbhakarṇa roamed the three worlds (trailokyaṃ ... vicacāra ha), perpetually unsated (nityāsantuṣṭaḥ), devouring great sages devoted to righteousness (maharṣīn dharma-vatsalān bhakṣayan).
+Intoxicated with arrogance (_pramattas tu_), Kumbhakarṇa roamed the three worlds (_trailokyaṃ ... vicacāra ha_), perpetually unsated (_nityāsantuṣṭaḥ_), devouring great sages devoted to righteousness (_maharṣīn dharma-vatsalān bhakṣayan_).
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), however, remained ever steadfast in dharma (nityaṃ dharme vyavasthitaḥ), dwelling with senses conquered (uvāsa vijitendriyaḥ), devoted to Vedic recitation and regulated in diet (svādhyāya-niyatāhāraḥ).
+The righteous-souled Vibhīṣaṇa (_vibhīṣaṇas tu dharmātmā_), however, remained ever steadfast in dharma (_nityaṃ dharme vyavasthitaḥ_), dwelling with senses conquered (_uvāsa vijitendriyaḥ_), devoted to Vedic recitation and regulated in diet (_svādhyāya-niyatāhāraḥ_).
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ The righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), however, r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in the course of time (kālena kenacit), Lord Vaiśravaṇa, the King of Wealth (vaiśravaṇo devaḥ ... dhaneśvaraḥ), arrived there by means of Puṣpaka (āgataḥ ... puṣpakeṇa) in order to visit his father (pitaraṃ draṣṭum).
+Then, in the course of time (_kālena kenacit_), Lord Vaiśravaṇa, the King of Wealth (_vaiśravaṇo devaḥ ... dhaneśvaraḥ_), arrived there by means of Puṣpaka (_āgataḥ ... puṣpakeṇa_) in order to visit his father (_pitaraṃ draṣṭum_).
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ Then, in the course of time (kālena kenacit), Lord Vaiśravaṇa, the King of W
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him there blazing as it were with fiery splendor (jvalantam iva tejasā), that rākṣasa woman Kaikasī (kaikasī ... rākṣasī) went up to Daśagrīva and spoke:
+Beholding him there blazing as it were with fiery splendor (_jvalantam iva tejasā_), that rākṣasa woman Kaikasī (_kaikasī ... rākṣasī_) went up to Daśagrīva and spoke:
 </details>
 </details>
 
@@ -1228,7 +1228,7 @@ Beholding him there blazing as it were with fiery splendor (jvalantam iva tejas�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Son, behold your brother Vaiśravaṇa (putra vaiśravaṇaṃ paśya bhrātaram), encircled by radiant glory (tejasā vṛtam)! Though your status as brothers is entirely equal (bhrātṛbhāve same cāpi), look at yourself in such a state as this (paśyātmānaṃ tvam īdṛśam)!
+“Son, behold your brother Vaiśravaṇa (_putra vaiśravaṇaṃ paśya bhrātaram_), encircled by radiant glory (_tejasā vṛtam_)! Though your status as brothers is entirely equal (_bhrātṛbhāve same cāpi_), look at yourself in such a state as this (_paśyātmānaṃ tvam īdṛśam_)!
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ Beholding him there blazing as it were with fiery splendor (jvalantam iva tejas�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Daśagrīva of boundless prowess (amita-vikrama), exert yourself in such a way (tathā yatnaṃ kuruṣva) that you too, my son (yathā tvam api me putra), may become the equal of Vaiśravaṇa (bhaver vaiśravaṇopamaḥ)!”
+“O Daśagrīva of boundless prowess (_amita-vikrama_), exert yourself in such a way (_tathā yatnaṃ kuruṣva_) that you too, my son (_yathā tvam api me putra_), may become the equal of Vaiśravaṇa (_bhaver vaiśravaṇopamaḥ_)!”
 </details>
 </details>
 
@@ -1301,7 +1301,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his mother (mātus tad vacanaṃ śrutvā), the mighty Daśagrīva (daśagrīvaḥ pratāpavān) was seized with matchless indignation (amarṣam atulaṃ lebhe) and thereupon made a solemn vow (pratijñāṃ cākarot tadā):
+Hearing those words of his mother (_mātus tad vacanaṃ śrutvā_), the mighty Daśagrīva (_daśagrīvaḥ pratāpavān_) was seized with matchless indignation (_amarṣam atulaṃ lebhe_) and thereupon made a solemn vow (_pratijñāṃ cākarot tadā_):
 </details>
 </details>
 
@@ -1332,7 +1332,7 @@ Hearing those words of his mother (mātus tad vacanaṃ śrutvā), the mighty Da
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly I swear to you (satyaṃ te pratijānāmi): I shall become equal to my brother, or even surpass him (bhrātṛ-tulyo ’dhiko ’pi vā bhaviṣyāmi), in radiant power (ojasā caiva)! Cast away the anguish within your heart (santāpaṃ tyaja hṛdgatam)!”
+“Truly I swear to you (_satyaṃ te pratijānāmi_): I shall become equal to my brother, or even surpass him (_bhrātṛ-tulyo ’dhiko ’pi vā bhaviṣyāmi_), in radiant power (_ojasā caiva_)! Cast away the anguish within your heart (_santāpaṃ tyaja hṛdgatam_)!”
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ Hearing those words of his mother (mātus tad vacanaṃ śrutvā), the mighty Da
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, driven by that very wrath (tatas tenaiva kopena), Daśagrīva together with his younger brothers (daśagrīvaḥ sahānujaḥ), desiring to accomplish an arduous deed (cikīrṣur duṣkaraṃ karma), set his mind firmly upon austerity (tapase dhṛta-mānasaḥ).
+Thereupon, driven by that very wrath (_tatas tenaiva kopena_), Daśagrīva together with his younger brothers (_daśagrīvaḥ sahānujaḥ_), desiring to accomplish an arduous deed (_cikīrṣur duṣkaraṃ karma_), set his mind firmly upon austerity (_tapase dhṛta-mānasaḥ_).
 </details>
 </details>
 
@@ -1403,9 +1403,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**46:** “Through austerity I shall obtain my desire (prāpsyāmi tapasā kāmam)”—taking this to heart and firmly resolving (iti kṛtvādhyavasya ca), he came to the auspicious hermitage of Gokarṇa (gokarṇasyāśramaṃ śubham) for the attainment of his goal (ātma-siddhyartham).
+**46:** “Through austerity I shall obtain my desire (_prāpsyāmi tapasā kāmam_)”—taking this to heart and firmly resolving (_iti kṛtvādhyavasya ca_), he came to the auspicious hermitage of Gokarṇa (_gokarṇasyāśramaṃ śubham_) for the attainment of his goal (_ātma-siddhyartham_).
 
-**47:** There that rākṣasa of fierce prowess (sa rākṣasas tatra ... ugravikramaḥ), accompanied by his younger brothers (sahānujaḥ), performed peerless austerity (tapaś cakārātulam); he gratified the mighty Grandfather [Brahmā] (atoṣayac cāpi pitāmahaṃ vibhum), and he, well pleased, bestowed upon him victory-bringing boons (dadau sa tuṣṭaś ca varāñ jayāvahān).
+**47:** There that rākṣasa of fierce prowess (_sa rākṣasas tatra ... ugravikramaḥ_), accompanied by his younger brothers (_sahānujaḥ_), performed peerless austerity (_tapaś cakārātulam_); he gratified the mighty Grandfather [Brahmā] (_atoṣayac cāpi pitāmahaṃ vibhum_), and he, well pleased, bestowed upon him victory-bringing boons (_dadau sa tuṣṭaś ca varāñ jayāvahān_).
 </details>
 </details>
 

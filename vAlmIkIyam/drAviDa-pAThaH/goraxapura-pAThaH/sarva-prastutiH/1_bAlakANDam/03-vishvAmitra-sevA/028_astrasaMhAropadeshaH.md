@@ -74,7 +74,7 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly received those celestial missiles, the pure-hearted scion of Kakutstha, his countenance beaming with joy (prahṛṣṭavadanaḥ śuciḥ), spoke thus to Viśvāmitra even as he walked along (gacchann eva):
+Having duly received those celestial missiles, the pure-hearted scion of Kakutstha, his countenance beaming with joy (_prahṛṣṭavadanaḥ śuciḥ_), spoke thus to Viśvāmitra even as he walked along (_gacchann eva_):
 </details>
 </details>
 
@@ -122,7 +122,7 @@ Having duly received those celestial missiles, the pure-hearted scion of Kakutst
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now that I have received the divine missiles, O venerable Lord, I am unassailable even by the gods (durādharṣaḥ surair api); yet I desire also to know the withdrawal spells of the missiles (astrāṇāṃ saṃhārān), O bull among sages!”
+“Now that I have received the divine missiles, O venerable Lord, I am unassailable even by the gods (_durādharṣaḥ surair api_); yet I desire also to know the withdrawal spells of the missiles (_astrāṇāṃ saṃhārān_), O bull among sages!”
 </details>
 </details>
 
@@ -171,7 +171,7 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—steadfast in firmness, faithful to his vows, and ritually pure (dhṛtimān suvrataḥ śuciḥ)—forthwith expounded the withdrawal spells (saṃhārān vyājahārātha):
+When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—steadfast in firmness, faithful to his vows, and ritually pure (_dhṛtimān suvrataḥ śuciḥ_)—forthwith expounded the withdrawal spells (_saṃhārān vyājahārātha_):
 </details>
 </details>
 
@@ -303,19 +303,19 @@ Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra best
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Satyavat (“the True”), Satyakīrti (“of True Renown”), Dhṛṣṭa (“the Bold”), and Rabhasa (“the Impetuous”); as well as that named Pratihāratara (“the Supreme Warder”), Parāṅmukha (“With-Face-Averted”), and Avāṅmukha (“With-Face-Downward”);
+**4:** _Satyavat_ (“the True”), _Satyakīrti_ (“of True Renown”), _Dhṛṣṭa_ (“the Bold”), and _Rabhasa_ (“the Impetuous”); as well as that named _Pratihāratara_ (“the Supreme Warder”), _Parāṅmukha_ (“With-Face-Averted”), and _Avāṅmukha_ (“With-Face-Downward”);
 
-**5:** And these two, Lakṣya (“the Visible Target”) and Alakṣya (“the Invisible”), together with Dṛḍhanābha (“Firm-Naveled”) and Sunābhaka (“Fair-Naveled”); Daśākṣa (“Ten-Eyed”) and Śatavaktra (“Hundred-Mouthed”), and Daśaśīrṣa (“Ten-Headed”) and Śatodara (“Hundred-Bellied”);
+**5:** And these two, _Lakṣya_ (“the Visible Target”) and _Alakṣya_ (“the Invisible”), together with _Dṛḍhanābha_ (“Firm-Naveled”) and _Sunābhaka_ (“Fair-Naveled”); _Daśākṣa_ (“Ten-Eyed”) and _Śatavaktra_ (“Hundred-Mouthed”), and _Daśaśīrṣa_ (“Ten-Headed”) and _Śatodara_ (“Hundred-Bellied”);
 
-**6:** Padmanābha (“Lotus-Naveled”) and Mahānābha (“Great-Naveled”), Dundunābha (“Drum-Naveled”) and Sunābhaka (“Goodly-Naveled”); Jyotiṣa (“the Luminous”) and Śakuna (“the Auspicious Bird-Omen”), and the pair Nairāsya (“Despair-Dealing”) and Vimala (“the Stainless”);
+**6:** _Padmanābha_ (“Lotus-Naveled”) and _Mahānābha_ (“Great-Naveled”), _Dundunābha_ (“Drum-Naveled”) and _Sunābhaka_ (“Goodly-Naveled”); _Jyotiṣa_ (“the Luminous”) and _Śakuna_ (“the Auspicious Bird-Omen”), and the pair _Nairāsya_ (“Despair-Dealing”) and _Vimala_ (“the Stainless”);
 
-**7:** Yaugandhara and Vinidra (“the Sleepless”), and the pair of Daityapramathanas (“Crushers of Daityas”); Śucibāhu (“Pure-Armed”), Mahābāhu (“Mighty-Armed”), Niṣkali (“Strife-Free”), and Viruca (“the Radiant”); Sārcirmālin (“Garlanded with Flames”), Dhṛtimālin (“Wreathed in Firmness”), Vṛttimat (“Abiding in Conduct”), and Rucira (“the Resplendent”);
+**7:** _Yaugandhara_ and _Vinidra_ (“the Sleepless”), and the pair of _Daityapramathanas_ (“Crushers of Daityas”); _Śucibāhu_ (“Pure-Armed”), _Mahābāhu_ (“Mighty-Armed”), _Niṣkali_ (“Strife-Free”), and _Viruca_ (“the Radiant”); _Sārcirmālin_ (“Garlanded with Flames”), _Dhṛtimālin_ (“Wreathed in Firmness”), _Vṛttimat_ (“Abiding in Conduct”), and _Rucira_ (“the Resplendent”);
 
-**8:** Pitrya (“Ancestral”), Saumanasa (“Gladdening the Mind”), and the pair Vidhūta (“the Shaken”) and Makara (“the Sea-Monster”); Paravīra (“Crusher of Hostile Heroes”), Rati (“Delight”), and the pair Dhana (“Wealth”) and Dhānya (“Grain”), O Rāghava;
+**8:** _Pitrya_ (“Ancestral”), _Saumanasa_ (“Gladdening the Mind”), and the pair _Vidhūta_ (“the Shaken”) and _Makara_ (“the Sea-Monster”); _Paravīra_ (“Crusher of Hostile Heroes”), _Rati_ (“Delight”), and the pair _Dhana_ (“Wealth”) and _Dhānya_ (“Grain”), O Rāghava;
 
-**9:** Kāmarūpa (“Assuming Any Form at Will”), Kāmaruci (“Shining at Will”), Moha (“Stupefaction”), and Āvaraṇa (“the Enveloping Shield”); Jṛmbhaka (“the Yawner”), Sarvanābha (“All-Hubbed”), and the pair Panthana (“the Path-Blocker”) and Varuṇa (“the Noose-Binder”).
+**9:** _Kāmarūpa_ (“Assuming Any Form at Will”), _Kāmaruci_ (“Shining at Will”), _Moha_ (“Stupefaction”), and _Āvaraṇa_ (“the Enveloping Shield”); _Jṛmbhaka_ (“the Yawner”), _Sarvanābha_ (“All-Hubbed”), and the pair _Panthana_ (“the Path-Blocker”) and _Varuṇa_ (“the Noose-Binder”).
 
-**10:** “Receive from me, O Rāma, these blazing sons of Kṛśāśva (kṛśāśvatanayān bhāsvarān) who assume any form at will (kāmarūpiṇaḥ)! May auspiciousness attend you—you are a worthy vessel (pātrabhūto ’si), O Rāghava!”
+**10:** “Receive from me, O Rāma, these blazing sons of Kṛśāśva (_kṛśāśvatanayān bhāsvarān_) who assume any form at will (_kāmarūpiṇaḥ_)! May auspiciousness attend you—you are a worthy vessel (_pātrabhūto ’si_), O Rāghava!”
 </details>
 </details>
 
@@ -341,7 +341,7 @@ Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra best
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it!” (bāḍham ity eva), replied the scion of Kakutstha with a joyful inner spirit (prahṛṣṭenāntarātmanā), and accepted them; thereupon those missiles—endowed with divine, blazing bodies, incarnate in tangible form, and bestowing bliss (mūrtimantaḥ sukhapradāḥ)—
+“So be it!” (_bāḍham ity eva_), replied the scion of Kakutstha with a joyful inner spirit (_prahṛṣṭenāntarātmanā_), and accepted them; thereupon those missiles—endowed with divine, blazing bodies, incarnate in tangible form, and bestowing bliss (_mūrtimantaḥ sukhapradāḥ_)—
 </details>
 </details>
 
@@ -367,7 +367,7 @@ Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra best
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some resembling glowing embers of charcoal (kecid aṅgārasadṛśāḥ), some resembling clouds of smoke (kecid dhūmopamāḥ), and some radiant as the moon and the sun (candrārkasadṛśāḥ kecit), stood bowed in humility with hollowed palms joined in salutation (prahvāñjalipuṭāḥ).
+Some resembling glowing embers of charcoal (_kecid aṅgārasadṛśāḥ_), some resembling clouds of smoke (_kecid dhūmopamāḥ_), and some radiant as the moon and the sun (_candrārkasadṛśāḥ kecit_), stood bowed in humility with hollowed palms joined in salutation (_prahvāñjalipuṭāḥ_).
 </details>
 </details>
 
@@ -431,7 +431,7 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining their palms in reverence (prāñjalayo bhūtvā), those sweet-voiced deities spoke to Rāma: “Here we are (ime sma), O tiger among men! Command us (śādhi)—what shall we perform for you?”
+Joining their palms in reverence (_prāñjalayo bhūtvā_), those sweet-voiced deities spoke to Rāma: “Here we are (_ime sma_), O tiger among men! Command us (_śādhi_)—what shall we perform for you?”
 </details>
 </details>
 
@@ -474,7 +474,7 @@ Joining their palms in reverence (prāñjalayo bhūtvā), those sweet-voiced dei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The delight of Raghu’s line said to them: “Depart now as you please (gamyatāṃ yatheṣṭam); abiding in my mind (mānasāḥ), you shall render me aid at the times of action (kāryakāleṣu sāhāyyaṃ me kariṣyatha).”
+The delight of Raghu’s line said to them: “Depart now as you please (_gamyatāṃ yatheṣṭam_); abiding in my mind (_mānasāḥ_), you shall render me aid at the times of action (_kāryakāleṣu sāhāyyaṃ me kariṣyatha_).”
 </details>
 </details>
 
@@ -517,7 +517,7 @@ Saying "it will be done that way" to Rama, the legatee of Kakutstha-s,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having taken leave of Rāma and circumambulated him from left to right (kṛtvā cāpi pradakṣiṇam), they said to Kakutstha’s scion, “So be it!” (evam astv iti), and departed even as they had come (jagmur yathāgatam).
+Then, having taken leave of Rāma and circumambulated him from left to right (_kṛtvā cāpi pradakṣiṇam_), they said to Kakutstha’s scion, “So be it!” (_evam astv iti_), and departed even as they had come (_jagmur yathāgatam_).
 </details>
 </details>
 
@@ -564,9 +564,9 @@ After learning the nullifying missiles and then while proceeding on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Having mastered those withdrawal spells (tān jñātvā), Rāghava, even as he walked along, spoke to the great sage Viśvāmitra in sweet and gentle words (madhuraṃ ślakṣṇaṃ vacanam abravīt):
+**16:** Having mastered those withdrawal spells (_tān jñātvā_), Rāghava, even as he walked along, spoke to the great sage Viśvāmitra in sweet and gentle words (_madhuraṃ ślakṣṇaṃ vacanam abravīt_):
 
-**17:** “What is this grove of trees (vṛkṣakhaṇḍam) appearing over there not far from the mountain (parvatasyāvidūrataḥ), dark and gleaming like a bank of clouds (meghasaṃkāśam)? Great indeed is my curiosity (paraṃ kautūhalaṃ hi me)!
+**17:** “What is this grove of trees (_vṛkṣakhaṇḍam_) appearing over there not far from the mountain (_parvatasyāvidūrataḥ_), dark and gleaming like a bank of clouds (_meghasaṃkāśam_)? Great indeed is my curiosity (_paraṃ kautūhalaṃ hi me_)!
 </details>
 </details>
 
@@ -615,7 +615,7 @@ After learning the nullifying missiles and then while proceeding on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fair to behold, thronged with deer (darśanīyaṃ mṛgākīrṇam), and exceedingly captivating to the heart (manoharam atīva ca), it is adorned with birds of manifold kinds uttering melodious notes (śakunair valgubhāṣair alaṅkṛtam).
+“Fair to behold, thronged with deer (_darśanīyaṃ mṛgākīrṇam_), and exceedingly captivating to the heart (_manoharam atīva ca_), it is adorned with birds of manifold kinds uttering melodious notes (_śakunair valgubhāṣair alaṅkṛtam_).
 </details>
 </details>
 
@@ -676,7 +676,7 @@ Emerging from the hair-raising wilderness of Tāṭakāvana into the serene air 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We have now emerged, O best of sages, from that hair-raising wilderness (niḥsṛtāḥ smo muniśreṣṭha kāntārād romaharṣaṇāt)! By the sheer serenity and blissfulness of this region (anayā deśasya sukhavattayā), I infer that we have reached a hermitage;
+“We have now emerged, O best of sages, from that hair-raising wilderness (_niḥsṛtāḥ smo muniśreṣṭha kāntārād romaharṣaṇāt_)! By the sheer serenity and blissfulness of this region (_anayā deśasya sukhavattayā_), I infer that we have reached a hermitage;
 </details>
 </details>
 
@@ -753,11 +753,11 @@ Emerging from the hair-raising wilderness of Tāṭakāvana into the serene air 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Tell me everything in full, O venerable Lord—whose hermitage precinct is this (kasyāśramapadaṃ tv idam)? And where is it that those sinful, Veda-destroying, evil-doing Rākṣasas (pāpā brahmaghnā duṣṭacāriṇaḥ) have arrived
+**20:** “Tell me everything in full, O venerable Lord—whose hermitage precinct is this (_kasyāśramapadaṃ tv idam_)? And where is it that those sinful, Veda-destroying, evil-doing Rākṣasas (_pāpā brahmaghnā duṣṭacāriṇaḥ_) have arrived
 
-**21:** “In order to obstruct your sacrifice, those wicked-souled ones, O great sage (tava yajñasya vighnāya durātmāno mahāmune)? O venerable Lord, which is the exact spot where that sacrificial rite of yours (tava yājñikī)
+**21:** “In order to obstruct your sacrifice, those wicked-souled ones, O great sage (_tava yajñasya vighnāya durātmāno mahāmune_)? O venerable Lord, which is the exact spot where that sacrificial rite of yours (_tava yājñikī_)
 
-**22:** “Must be guarded by me, O Brāhmaṇa, and where those Rākṣasas are to be slain by me (rakṣitavyā kriyā brahman mayā vadhyāś ca rākṣasāḥ)? All this, O best of sages, I desire to hear, O Lord!”
+**22:** “Must be guarded by me, O Brāhmaṇa, and where those Rākṣasas are to be slain by me (_rakṣitavyā kriyā brahman mayā vadhyāś ca rākṣasāḥ_)? All this, O best of sages, I desire to hear, O Lord!”
 </details>
 </details>
 

@@ -83,7 +83,7 @@ the clear sky like a swan obtaining blue water.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the moon, shining like a cluster of white water-lilies (kumudakhaṇḍābhaḥ) and spotless in its rising (nirmalodayaḥ), advanced into the cloudless sky (nirmalaṃ nabhaḥ) like a swan entering dark-blue water (haṃso nīlam ivodakam).
+Then the moon, shining like a cluster of white water-lilies (_kumudakhaṇḍābhaḥ_) and spotless in its rising (_nirmalodayaḥ_), advanced into the cloudless sky (_nirmalaṃ nabhaḥ_) like a swan entering dark-blue water (_haṃso nīlam ivodakam_).
 </details>
 </details>
 
@@ -135,7 +135,7 @@ That moon with a peaceful glow served Hanuma with cool rays as though performing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rendering assistance, as it were (sācivyam iva kurvan), with its radiance, the spotless-rayed moon served (siṣeve) the son of the Wind with its cool beams (raśmibhiḥ śītaiḥ).
+Rendering assistance, as it were (_sācivyam iva kurvan_), with its radiance, the spotless-rayed moon served (_siṣeve_) the son of the Wind with its cool beams (_raśmibhiḥ śītaiḥ_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ a ship sinking down in water due to weight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He then beheld Sītā, whose face resembled the full moon (pūrṇacandranibhānanām), weighed down as though by loads of grief (śokabhārair iva nyastām) like a boat weighed down by heavy cargo upon the water.
+He then beheld Sītā, whose face resembled the full moon (_pūrṇacandranibhānanām_), weighed down as though by loads of grief (_śokabhārair iva nyastām_) like a boat weighed down by heavy cargo upon the water.
 </details>
 </details>
 
@@ -219,7 +219,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to behold Vaidehī closely (didṛkṣamāṇo vaidehīm), Hanumān, son of Māruta, saw nearby (avidūrasthāḥ) female rākṣasīs of dreadful appearance (ghoradarśanāḥ):
+Desiring to behold Vaidehī closely (_didṛkṣamāṇo vaidehīm_), Hanumān, son of Māruta, saw nearby (_avidūrasthāḥ_) female _rākṣasīs_ of dreadful appearance (_ghoradarśanāḥ_):
 </details>
 </details>
 
@@ -247,7 +247,7 @@ Desiring to behold Vaidehī closely (didṛkṣamāṇo vaidehīm), Hanumān, so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He saw] one single-eyed (ekākṣīm), one single-eared (ekakarṇām), and one with ears serving as her mantle (karṇaprāvaraṇām); one earless (akarṇām), one spike-eared (śaṅkukarṇām), and one with a nose breathing up against her forehead (mastakocchvāsanāsikām);
+[He saw] one single-eyed (_ekākṣīm_), one single-eared (_ekakarṇām_), and one with ears serving as her mantle (_karṇaprāvaraṇām_); one earless (_akarṇām_), one spike-eared (_śaṅkukarṇām_), and one with a nose breathing up against her forehead (_mastakocchvāsanāsikām_);
 </details>
 </details>
 
@@ -275,7 +275,7 @@ Desiring to behold Vaidehī closely (didṛkṣamāṇo vaidehīm), Hanumān, so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And one with an oversized head and upper body (atikāyottamāṅgīm), one with a thin, elongated neck (tanudīrghaśirodharām), one with disheveled, scanty hair (dhvastakeśīm), one hairless (akeśīm), and one wearing a blanket-like mass of coarse hair (keśakambaladhāriṇīm);
+And one with an oversized head and upper body (_atikāyottamāṅgīm_), one with a thin, elongated neck (_tanudīrghaśirodharām_), one with disheveled, scanty hair (_dhvastakeśīm_), one hairless (_akeśīm_), and one wearing a blanket-like mass of coarse hair (_keśakambaladhāriṇīm_);
 </details>
 </details>
 
@@ -314,7 +314,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He saw] one with pendulous ears and forehead (lambakarṇalalāṭām), one with pendulous belly and breasts (lambodarapayodharām), one with pendulous lips (lamboṣṭhīm), one with lip hanging from her chin (cibukoṣṭhīm), one with a pendulous mouth, and one with pendulous knees (lambajānukām);
+[He saw] one with pendulous ears and forehead (_lambakarṇalalāṭām_), one with pendulous belly and breasts (_lambodarapayodharām_), one with pendulous lips (_lamboṣṭhīm_), one with lip hanging from her chin (_cibukoṣṭhīm_), one with a pendulous mouth, and one with pendulous knees (_lambajānukām_);
 </details>
 </details>
 
@@ -343,7 +343,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One short (hrasvām), one tall (dīrghām), one hunchbacked (kubjām), one hideously crooked (vikaṭām), and one dwarfish (vāmanām); one fang-toothed (karālām), one crooked-faced (bhugnavaktrām), one tawny-eyed (piṅgākṣīm), and one with a mutilated face (vikṛtānanām);
+One short (_hrasvām_), one tall (_dīrghām_), one hunchbacked (_kubjām_), one hideously crooked (_vikaṭām_), and one dwarfish (_vāmanām_); one fang-toothed (_karālām_), one crooked-faced (_bhugnavaktrām_), one tawny-eyed (_piṅgākṣīm_), and one with a mutilated face (_vikṛtānanām_);
 </details>
 </details>
 
@@ -371,7 +371,7 @@ One short (hrasvām), one tall (dīrghām), one hunchbacked (kubjām), one hideo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[And others] deformed (vikṛtāḥ), tawny-hued (piṅgalāḥ), black (kālīḥ), wrathful, fond of quarrels (kalahapriyāḥ), and wielding huge pikes, sledgehammers, and mallets of black iron (kālāyasamahāśūlakūṭamudgaradhāriṇīḥ);
+[And others] deformed (_vikṛtāḥ_), tawny-hued (_piṅgalāḥ_), black (_kālīḥ_), wrathful, fond of quarrels (_kalahapriyāḥ_), and wielding huge pikes, sledgehammers, and mallets of black iron (_kālāyasamahāśūlakūṭamudgaradhāriṇīḥ_);
 </details>
 </details>
 
@@ -400,7 +400,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Others having the faces of boars, deer, tigers, buffaloes, goats, and jackals (varāhamṛgaśārdūlamahiṣājaśivāmukhāḥ), the feet of elephants, camels, and horses (gajoṣṭrahayapādāḥ), and heads sunk into their chests (nikhātaśirasaḥ);
+Others having the faces of boars, deer, tigers, buffaloes, goats, and jackals (_varāhamṛgaśārdūlamahiṣājaśivāmukhāḥ_), the feet of elephants, camels, and horses (_gajoṣṭrahayapādāḥ_), and heads sunk into their chests (_nikhātaśirasaḥ_);
 </details>
 </details>
 
@@ -426,7 +426,7 @@ Others having the faces of boars, deer, tigers, buffaloes, goats, and jackals (v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Others one-handed and one-footed (ekahastaikapādāḥ), with the ears of donkeys and horses (kharakarṇyaśvakarṇikāḥ), or cow-eared, elephant-eared, and lion-eared (harikarṇīḥ);
+Others one-handed and one-footed (_ekahastaikapādāḥ_), with the ears of donkeys and horses (_kharakarṇyaśvakarṇikāḥ_), or cow-eared, elephant-eared, and lion-eared (_harikarṇīḥ_);
 </details>
 </details>
 
@@ -455,7 +455,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some with oversized noses (atināsāḥ), some with crooked noses (tiryaṅnāsāḥ), some noseless (anāsikāḥ), some with noses resembling elephant trunks (gajasaṃnibhanāsāḥ), and some with noses breathing into their foreheads (lalāṭocchvāsanāsikāḥ);
+Some with oversized noses (_atināsāḥ_), some with crooked noses (_tiryaṅnāsāḥ_), some noseless (_anāsikāḥ_), some with noses resembling elephant trunks (_gajasaṃnibhanāsāḥ_), and some with noses breathing into their foreheads (_lalāṭocchvāsanāsikāḥ_);
 </details>
 </details>
 
@@ -489,7 +489,7 @@ Bestial-faced, blood-smeared rākṣasīs—perpetually quaffing liquor and feas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He saw some] elephant-footed (hastipādāḥ), huge-footed (mahāpādāḥ), cow-footed (gopādāḥ), and having hair-crests on their feet (pādacūlikāḥ), with oversized heads and necks (atimātraśirogrīvāḥ) and oversized breasts and bellies (atimātrakucodarīḥ);
+[He saw some] elephant-footed (_hastipādāḥ_), huge-footed (_mahāpādāḥ_), cow-footed (_gopādāḥ_), and having hair-crests on their feet (_pādacūlikāḥ_), with oversized heads and necks (_atimātraśirogrīvāḥ_) and oversized breasts and bellies (_atimātrakucodarīḥ_);
 </details>
 </details>
 
@@ -521,7 +521,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And some with oversized mouths and eyes (atimātrāsyanetrāḥ), and with long tongues and mouths (dīrghajihvānanāḥ); goat-faced, elephant-faced, cow-faced, and sow-faced (sūkarīmukhīḥ);
+And some with oversized mouths and eyes (_atimātrāsyanetrāḥ_), and with long tongues and mouths (_dīrghajihvānanāḥ_); goat-faced, elephant-faced, cow-faced, and sow-faced (_sūkarīmukhīḥ_);
 </details>
 </details>
 
@@ -555,9 +555,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** And dreadful-looking rākṣasīs with the faces of horses, camels, and donkeys (hayoṣṭrakharavaktrāḥ), holding pikes and mallets in their hands (śūlamudgarahastāḥ), wrathful and fond of quarrels;
+**15:** And dreadful-looking _rākṣasīs_ with the faces of horses, camels, and donkeys (_hayoṣṭrakharavaktrāḥ_), holding pikes and mallets in their hands (_śūlamudgarahastāḥ_), wrathful and fond of quarrels;
 
-**16:** Fierce-toothed (karālāḥ), smoke-colored-haired (dhūmrakeśinyaḥ), deformed-faced rākṣasīs who perpetually drink liquor (pibanti satataṃ pānam) and are ever fond of wine and flesh (surāmāṃsasadāpriyāḥ);
+**16:** Fierce-toothed (_karālāḥ_), smoke-colored-haired (_dhūmrakeśinyaḥ_), deformed-faced _rākṣasīs_ who perpetually drink liquor (_pibanti satataṃ pānam_) and are ever fond of wine and flesh (_surāmāṃsasadāpriyāḥ_);
 </details>
 </details>
 
@@ -668,7 +668,7 @@ food, whose appearance made hair to stand up, sitting around a great tree with h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The foremost of monkeys beheld those [rākṣasīs], whose limbs were smeared with flesh and blood (māṃsaśoṇitadigdhāṅgīḥ), who fed upon flesh and blood (māṃsaśoṇitabhojanāḥ), and whose very sight made one's hair bristle (romaharṣaṇadarśanāḥ),
+The foremost of monkeys beheld those [_rākṣasīs_], whose limbs were smeared with flesh and blood (_māṃsaśoṇitadigdhāṅgīḥ_), who fed upon flesh and blood (_māṃsaśoṇitabhojanāḥ_), and whose very sight made one&#x27;s hair bristle (_romaharṣaṇadarśanāḥ_),
 </details>
 </details>
 
@@ -764,9 +764,9 @@ like star fallen from heavens onto ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Sitting (upāsīnāḥ) surrounding the massive-trunked tree (skandhavantaṃ vanaspatim), and beneath it (tasyādhastāt) that blameless royal princess, the noble queen [Sītā].
+**18:** Sitting (_upāsīnāḥ_) surrounding the massive-trunked tree (_skandhavantaṃ vanaspatim_), and beneath it (_tasyādhastāt_) that blameless royal princess, the noble queen [Sītā].
 
-**19:** Radiant (lakṣmīvān) Hanumān observed Janaka's daughter—lustreless (niṣprabhām), scorched by grief (śokasaṃtaptām), with her locks of hair matted with grime (malasaṃkulamūrdhajām);
+**19:** Radiant (_lakṣmīvān_) Hanumān observed Janaka&#x27;s daughter—lustreless (_niṣprabhām_), scorched by grief (_śokasaṃtaptām_), with her locks of hair matted with grime (_malasaṃkulamūrdhajām_);
 </details>
 </details>
 
@@ -823,7 +823,7 @@ with husband's love as ornament.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a star fallen and dropped to earth when its merit is exhausted (kṣīṇapuṇyāṃ cyutāṃ bhūmau tārāṃ nipatitām iva), rich in the renown of her chastity (cāritravyapadeśāḍhyām), yet destitute of the sight of her husband (bhartṛdarśanadurgatām);
+Like a star fallen and dropped to earth when its merit is exhausted (_kṣīṇapuṇyāṃ cyutāṃ bhūmau tārāṃ nipatitām iva_), rich in the renown of her chastity (_cāritravyapadeśāḍhyām_), yet destitute of the sight of her husband (_bhartṛdarśanadurgatām_);
 </details>
 </details>
 
@@ -880,7 +880,7 @@ being detained by a lion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of the finest ornaments (bhūṣaṇair uttamair hīnām) yet adorned by her tender devotion to her husband (bhartṛvātsalyabhūṣitām), hemmed in by the lord of rākṣasas (rākṣasādhipasaṃruddhām), and parted from her kinsfolk (bandhubhiś ca vinākṛtām);
+Bereft of the finest ornaments (_bhūṣaṇair uttamair hīnām_) yet adorned by her tender devotion to her husband (_bhartṛvātsalyabhūṣitām_), hemmed in by the lord of _rākṣasas_ (_rākṣasādhipasaṃruddhām_), and parted from her kinsfolk (_bandhubhiś ca vinākṛtām_);
 </details>
 </details>
 
@@ -935,7 +935,7 @@ lustre due to lack of contact with husband, was like an unplucked Veena.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a bound female elephant separated from her herd (viyūthām) and hemmed in by a lion (siṃhasaṃruddhāṃ baddhāṃ gajavadhūm iva); like a digit of the moon (candrarekhām) at the close of the rainy season (payodānte) veiled by autumn clouds (śāradābhrair ivāvṛtām);
+Like a bound female elephant separated from her herd (_viyūthām_) and hemmed in by a lion (_siṃhasaṃruddhāṃ baddhāṃ gajavadhūm iva_); like a digit of the moon (_candrarekhām_) at the close of the rainy season (_payodānte_) veiled by autumn clouds (_śāradābhrair ivāvṛtām_);
 </details>
 </details>
 
@@ -1028,9 +1028,9 @@ without flowers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Her loveliness marred like an unstrung lute (ayuktām iva vallakīm) for want of touch (asaṃsparśāt); he [saw] her, devoted to her husband's welfare (bhartṛhite yuktām), though wholly unsuited to be under the power of rākṣasas (ayuktāṃ rakṣasāṃ vaśe).
+**23:** Her loveliness marred like an unstrung lute (_ayuktām iva vallakīm_) for want of touch (_asaṃsparśāt_); he [saw] her, devoted to her husband&#x27;s welfare (_bhartṛhite yuktām_), though wholly unsuited to be under the power of _rākṣasas_ (_ayuktāṃ rakṣasāṃ vaśe_).
 
-**24:** Plunged in an ocean of grief (śokasāgaram āplutām) in the midst of the aśoka grove, and surrounded there by those [rākṣasīs] like the constellation Rohiṇī eclipsed by a planet (sagrahām iva rohiṇīm),
+**24:** Plunged in an ocean of grief (_śokasāgaram āplutām_) in the midst of the _aśoka_ grove, and surrounded there by those [_rākṣasīs_] like the constellation Rohiṇī eclipsed by a planet (_sagrahām iva rohiṇīm_),
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ like a lotus-fibre covered with dirt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hanumān beheld her there like a flowerless creeper (latām akusumām iva). With her limbs smeared with grime (malena ca digdhāṅgī) yet adorned by her own natural loveliness (vapuṣā cāpy alaṃkṛtā), she both shines and shines not (vibhāti ca na bhāti ca), like a lotus-fibre smeared with mud (mṛṇālī paṅkadigdheva).
+Hanumān beheld her there like a flowerless creeper (_latām akusumām iva_). With her limbs smeared with grime (_malena ca digdhāṅgī_) yet adorned by her own natural loveliness (_vapuṣā cāpy alaṃkṛtā_), she both shines and shines not (_vibhāti ca na bhāti ca_), like a lotus-fibre smeared with mud (_mṛṇālī paṅkadigdheva_).
 </details>
 </details>
 
@@ -1115,7 +1115,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkey Hanumān beheld that noble lady with the eyes of a young fawn (mṛgaśāvākṣīm), clad in a soiled and rumpled garment (malinena tu vastreṇa parikliṣṭena).
+The monkey Hanumān beheld that noble lady with the eyes of a young fawn (_mṛgaśāvākṣīm_), clad in a soiled and rumpled garment (_malinena tu vastreṇa parikliṣṭena_).
 </details>
 </details>
 
@@ -1143,7 +1143,7 @@ The monkey Hanumān beheld that noble lady with the eyes of a young fawn (mṛga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld] that dark-eyed queen Sītā, of sorrowful countenance (dīnavadanām) yet unbowed in spirit through her husband's fiery energy (adīnāṃ bhartṛtejasā), protected by her own spotless virtue (rakṣitāṃ svena śīlena).
+[He beheld] that dark-eyed queen Sītā, of sorrowful countenance (_dīnavadanām_) yet unbowed in spirit through her husband&#x27;s fiery energy (_adīnāṃ bhartṛtejasā_), protected by her own spotless virtue (_rakṣitāṃ svena śīlena_).
 </details>
 </details>
 
@@ -1256,11 +1256,11 @@ body parts shining eve without ornaments, obtained great joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** Beholding that Sītā with eyes resembling a young fawn's (mṛgaśāvanibhekṣaṇām), looking all around in terror like a frightened young doe (mṛgakanyām iva trastām),
+**28:** Beholding that Sītā with eyes resembling a young fawn&#x27;s (_mṛgaśāvanibhekṣaṇām_), looking all around in terror like a frightened young doe (_mṛgakanyām iva trastām_),
 
-**29:** Scorching, as it were, with her hot sighs (dahantīm iva niḥśvāsaiḥ) the trees bearing young shoots (vṛkṣān pallavadhāriṇaḥ), like a concentrated mass of sorrows (saṃghātam iva śokānām), like a surging wave of grief (duḥkhasyormim ivotthitām)—
+**29:** Scorching, as it were, with her hot sighs (_dahantīm iva niḥśvāsaiḥ_) the trees bearing young shoots (_vṛkṣān pallavadhāriṇaḥ_), like a concentrated mass of sorrows (_saṃghātam iva śokānām_), like a surging wave of grief (_duḥkhasyormim ivotthitām_)—
 
-**30:** Beholding (prekṣya) that Maithilī—emaciated (kṣāmām), of symmetrically proportioned limbs (suvibhaktāṅgīm), and radiant even without ornaments (vinābharaṇaśobhinīm)—Māruti attained peerless joy (praharṣam atulaṃ lebhe).
+**30:** Beholding (_prekṣya_) that Maithilī—emaciated (_kṣāmām_), of symmetrically proportioned limbs (_suvibhaktāṅgīm_), and radiant even without ornaments (_vinābharaṇaśobhinīm_)—Māruti attained peerless joy (_praharṣam atulaṃ lebhe_).
 </details>
 </details>
 
@@ -1295,7 +1295,7 @@ body parts shining eve without ornaments, obtained great joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And beholding that lady of captivating eyes (madirekṣaṇām), Hanumān shed tears born of joy (harṣajāni so 'śrūṇi mumoca) there, and bowed in homage to Rāghava (namaścakre ca rāghavam).
+And beholding that lady of captivating eyes (_madirekṣaṇām_), Hanumān shed tears born of joy (_harṣajāni so &#x27;śrūṇi mumoca_) there, and bowed in homage to Rāghava (_namaścakre ca rāghavam_).
 </details>
 </details>
 
@@ -1376,7 +1376,7 @@ and became covered with leaves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in homage to Rāma and to Lakṣmaṇa, valiant Hanumān, thrilled by the sight of Sītā (sītādarśanasaṃhṛṣṭaḥ), remained concealed (saṃvṛto 'bhavat).
+Having bowed in homage to Rāma and to Lakṣmaṇa, valiant Hanumān, thrilled by the sight of Sītā (_sītādarśanasaṃhṛṣṭaḥ_), remained concealed (_saṃvṛto &#x27;bhavat_).
 </details>
 </details>
 

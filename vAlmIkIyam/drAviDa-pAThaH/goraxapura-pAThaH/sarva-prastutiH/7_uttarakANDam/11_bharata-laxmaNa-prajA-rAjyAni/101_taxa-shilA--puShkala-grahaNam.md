@@ -48,7 +48,7 @@ Rejoicing at Bharata’s arrival with Gārgya, King Yudhājit marches out with a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Bharata, commander of the army (senāpatiṃ ... bharatam), had arrived accompanied by Gārgya (gārgyasahitam), Yudhājit, lord of the Kekayas (kekayādhipaḥ), attained supreme delight (parāṃ prītim upāgamat).
+Hearing that Bharata, commander of the army (_senāpatiṃ ... bharatam_), had arrived accompanied by Gārgya (_gārgyasahitam_), Yudhājit, lord of the Kekayas (_kekayādhipaḥ_), attained supreme delight (_parāṃ prītim upāgamat_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing that Bharata, commander of the army (senāpatiṃ ... bharatam), had arr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That lord of the Kekayas marched forth with a vast flood of men (janaughena mahatā) and, hastening onward (tvaramāṇaḥ), advanced against the shape-shifting Gandharvas (abhicakrāma gandharvān kāmarūpiṇaḥ).
+That lord of the Kekayas marched forth with a vast flood of men (_janaughena mahatā_) and, hastening onward (_tvaramāṇaḥ_), advanced against the shape-shifting Gandharvas (_abhicakrāma gandharvān kāmarūpiṇaḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ That lord of the Kekayas marched forth with a vast flood of men (janaughena maha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joined together with swift-striding warriors (sametau laghuvikramaiḥ), both Bharata and Yudhājit reached the Gandharva city (gandharvanagaraṃ prāptau) with their fourfold armies and camp-followers (sabalau sapadānugau).
+Joined together with swift-striding warriors (_sametau laghuvikramaiḥ_), both Bharata and Yudhājit reached the Gandharva city (_gandharvanagaraṃ prāptau_) with their fourfold armies and camp-followers (_sabalau sapadānugau_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Joined together with swift-striding warriors (sametau laghuvikramaiḥ), both Bh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Bharata had arrived (śrutvā tu bharataṃ prāptam), those exceedingly mighty Gandharvas (gandharvās te ... mahāvīryāḥ) assembled eager for battle (samāgatāḥ yoddhukāmāḥ) and roared on every side (vyanadan vai samantataḥ).
+Hearing that Bharata had arrived (_śrutvā tu bharataṃ prāptam_), those exceedingly mighty Gandharvas (_gandharvās te ... mahāvīryāḥ_) assembled eager for battle (_samāgatāḥ yoddhukāmāḥ_) and roared on every side (_vyanadan vai samantataḥ_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then ensued a tumultuous, hair-raising battle (yuddhaṃ tumulaṃ romaharṣaṇam), exceedingly terrible, lasting for seven nights (saptarātraṃ mahābhīmam), and victory fell to neither side (na cānyatarayor jayaḥ).
+Then ensued a tumultuous, hair-raising battle (_yuddhaṃ tumulaṃ romaharṣaṇam_), exceedingly terrible, lasting for seven nights (_saptarātraṃ mahābhīmam_), and victory fell to neither side (_na cānyatarayor jayaḥ_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rivers pouring forth streams of blood (nadyaḥ śoṇitasaṃsravāḥ), with swords, spears, and bows as their crocodiles (khaḍga-śakti-dhanur-grāhāḥ), bearing human corpses along (nṛkalevara-vāhinyaḥ), flowed forth in every direction (pravṛttāḥ sarvatodiśam).
+Rivers pouring forth streams of blood (_nadyaḥ śoṇitasaṃsravāḥ_), with swords, spears, and bows as their crocodiles (_khaḍga-śakti-dhanur-grāhāḥ_), bearing human corpses along (_nṛkalevara-vāhinyaḥ_), flowed forth in every direction (_pravṛttāḥ sarvatodiśam_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Enraged, Bharata unleashes Kāla’s dread Saṃvarta missile, slaying all thirt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged younger brother of Rāma, Bharata (rāmānujaḥ kruddhaḥ ... bharataḥ), discharged against the Gandharvas (gandharveṣv abhyacodayat) the exceedingly dreadful weapon of Kāla (kālasyāstraṃ sudāruṇam), named Saṃvarta (saṃvartaṃ nāma).
+Then the enraged younger brother of Rāma, Bharata (_rāmānujaḥ kruddhaḥ ... bharataḥ_), discharged against the Gandharvas (_gandharveṣv abhyacodayat_) the exceedingly dreadful weapon of Kāla (_kālasyāstraṃ sudāruṇam_), named Saṃvarta (_saṃvartaṃ nāma_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Then the enraged younger brother of Rāma, Bharata (rāmānujaḥ kruddhaḥ ...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound by the noose of Death (te baddhāḥ kālapāśena) and torn asunder by Saṃvarta (saṃvartena vidāritāḥ), all three crores of those great-souled warriors (tisraḥ koṭyo mahātmanām) were struck down by him in a single instant (kṣaṇenābhihatās tena).
+Bound by the noose of Death (_te baddhāḥ kālapāśena_) and torn asunder by Saṃvarta (_saṃvartena vidāritāḥ_), all three crores of those great-souled warriors (_tisraḥ koṭyo mahātmanām_) were struck down by him in a single instant (_kṣaṇenābhihatās tena_).
 </details>
 </details>
 
@@ -319,9 +319,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** The dwellers of heaven do not recall (na smaranti divaukasaḥ) so terrifying a slaughter (taṃ ghātaṃ ghorasaṅkāśam) of such great-souled beings within the mere twinkling of an eye (nimeṣāntaramātreṇa).
+**9:** The dwellers of heaven do not recall (_na smaranti divaukasaḥ_) so terrifying a slaughter (_taṃ ghātaṃ ghorasaṅkāśam_) of such great-souled beings within the mere twinkling of an eye (_nimeṣāntaramātreṇa_).
 
-**10:** When all of them had been slain (hateṣu teṣu sarveṣu), Bharata, the son of Kekayī (bharataḥ kekayīsutaḥ), then established two prosperous, foremost cities (niveśayām āsa tadā samṛddhe dve purottame).
+**10:** When all of them had been slain (_hateṣu teṣu sarveṣu_), Bharata, the son of Kekayī (_bharataḥ kekayīsutaḥ_), then established two prosperous, foremost cities (_niveśayām āsa tadā samṛddhe dve purottame_).
 </details>
 </details>
 
@@ -352,7 +352,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He established Takṣa in Takṣaśilā (takṣaṃ takṣaśilāyāṃ tu) and Puṣkala in Puṣkalāvata (puṣkalaṃ puṣkalāvate), within the lovely Gandharva land and the Gāndhāra country (gandharvadeśe rucire gāndhāraviṣaye ca saḥ)—
+He established Takṣa in Takṣaśilā (_takṣaṃ takṣaśilāyāṃ tu_) and Puṣkala in Puṣkalāvata (_puṣkalaṃ puṣkalāvate_), within the lovely Gandharva land and the Gāndhāra country (_gandharvadeśe rucire gāndhāraviṣaye ca saḥ_)—
 </details>
 </details>
 
@@ -383,7 +383,7 @@ He established Takṣa in Takṣaśilā (takṣaṃ takṣaśilāyāṃ tu) and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—cities teeming with floods of wealth and jewels (dhanaratnaugha-saṅkīrṇe), graced with groves (kānanair upaśobhite), and built as though in mutual rivalry (anyonyasaṅgharṣakṛte) through the vying abundance of their excellences (spardhayā guṇavistaraiḥ).
+—cities teeming with floods of wealth and jewels (_dhanaratnaugha-saṅkīrṇe_), graced with groves (_kānanair upaśobhite_), and built as though in mutual rivalry (_anyonyasaṅgharṣakṛte_) through the vying abundance of their excellences (_spardhayā guṇavistaraiḥ_).
 </details>
 </details>
 
@@ -422,7 +422,7 @@ Having established over five years those twin cities—famed for blameless comme
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both cities were renowned for exceeding loveliness (ubhe suruciraprakhye) through blameless dealings (vyavahārair akilbiṣaiḥ), filled with parks and conveyances (udyāna-yāna-sampūrṇe), with finely laid-out marketplaces (suvibhaktāntarāpaṇe).
+Both cities were renowned for exceeding loveliness (_ubhe suruciraprakhye_) through blameless dealings (_vyavahārair akilbiṣaiḥ_), filled with parks and conveyances (_udyāna-yāna-sampūrṇe_), with finely laid-out marketplaces (_suvibhaktāntarāpaṇe_).
 </details>
 </details>
 
@@ -453,7 +453,7 @@ Both cities were renowned for exceeding loveliness (ubhe suruciraprakhye) throug
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both foremost, delightful cities (ubhe puravare ramye) were adorned with spacious splendors (vistarair upaśobhite) and with exceedingly fair principal mansions (gṛhamukhyaiḥ suruciraiḥ) matching celestial chariots in brilliance (vimāna-samavarṇibhiḥ).
+Both foremost, delightful cities (_ubhe puravare ramye_) were adorned with spacious splendors (_vistarair upaśobhite_) and with exceedingly fair principal mansions (_gṛhamukhyaiḥ suruciraiḥ_) matching celestial chariots in brilliance (_vimāna-samavarṇibhiḥ_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ Both foremost, delightful cities (ubhe puravare ramye) were adorned with spaciou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They were graced with beauteous expanses of temples of the gods (śobhanīyaiś ca devāyatana-vistaraiḥ) and adorned with tāla, tamāla, tilaka, and vakula trees (tālais tamālais tilakair vakulair upaśobhite).
+They were graced with beauteous expanses of temples of the gods (_śobhanīyaiś ca devāyatana-vistaraiḥ_) and adorned with tāla, tamāla, tilaka, and vakula trees (_tālais tamālais tilakair vakulair upaśobhite_).
 </details>
 </details>
 
@@ -515,7 +515,7 @@ They were graced with beauteous expanses of temples of the gods (śobhanīyaiś 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having established them over the course of five years (niveśya pañcabhir varṣaiḥ), Bharata, the mighty-armed younger brother of Rāghava and son of Kekayī (bharato rāghavānujaḥ ... kekayīsutaḥ), came back again to Ayodhyā (punar āyād ... ayodhyām).
+Having established them over the course of five years (_niveśya pañcabhir varṣaiḥ_), Bharata, the mighty-armed younger brother of Rāghava and son of Kekayī (_bharato rāghavānujaḥ ... kekayīsutaḥ_), came back again to Ayodhyā (_punar āyād ... ayodhyām_).
 </details>
 </details>
 
@@ -546,7 +546,7 @@ Having established them over the course of five years (niveśya pañcabhir var�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that glorious Bharata bowed down (so ’bhivādya ... bharataḥ śrīmān) before the great-souled Rāghava, who was like Dharma incarnate (sākṣād dharmam ivāparam), just as Vāsava bows before Brahmā (brahmāṇam iva vāsavaḥ).
+Then that glorious Bharata bowed down (_so ’bhivādya ... bharataḥ śrīmān_) before the great-souled Rāghava, who was like Dharma incarnate (_sākṣād dharmam ivāparam_), just as Vāsava bows before Brahmā (_brahmāṇam iva vāsavaḥ_).
 </details>
 </details>
 
@@ -588,7 +588,7 @@ Then that glorious Bharata bowed down (so ’bhivādya ... bharataḥ śrīmān)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he recounted exactly as it had transpired (śaśaṃsa ca yathāvṛttam) the supreme slaying of the Gandharvas (gandharvavadham uttamam) and the founding of the country (niveśanaṃ ca deśasya); hearing this, Rāghava was delighted with him (śrutvā prīto ’sya rāghavaḥ).
+And he recounted exactly as it had transpired (_śaśaṃsa ca yathāvṛttam_) the supreme slaying of the Gandharvas (_gandharvavadham uttamam_) and the founding of the country (_niveśanaṃ ca deśasya_); hearing this, Rāghava was delighted with him (_śrutvā prīto ’sya rāghavaḥ_).
 </details>
 </details>
 

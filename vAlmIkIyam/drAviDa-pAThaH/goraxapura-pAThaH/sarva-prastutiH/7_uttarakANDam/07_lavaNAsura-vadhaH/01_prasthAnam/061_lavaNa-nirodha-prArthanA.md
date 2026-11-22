@@ -44,7 +44,7 @@ Bidding the sages cast aside fear and state their need, Rāma hears Cyavana reco
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entreated by the sages speaking thus (evaṃ bruvadbhir ṛṣibhiḥ), Kākutstha uttered these words: “Speak, O sages, what task is to be done (kiṃ kāryaṃ brūta munayaḥ); meanwhile let your fear depart (bhayaṃ tāvad apaitu vaḥ)!”
+Entreated by the sages speaking thus (_evaṃ bruvadbhir ṛṣibhiḥ_), Kākutstha uttered these words: “Speak, O sages, what task is to be done (_kiṃ kāryaṃ brūta munayaḥ_); meanwhile let your fear depart (_bhayaṃ tāvad apaitu vaḥ_)!”
 </details>
 </details>
 
@@ -70,7 +70,7 @@ Entreated by the sages speaking thus (evaṃ bruvadbhir ṛṣibhiḥ), Kākutst
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana] replied: “Hear, O lord of men (nareśvara), what is the root of the terrors of our region and of ourselves (bhayānāṃ śṛṇu yan mūlaṃ deśasya ca)!
+When Kākutstha had spoken thus (_tathā bruvati kākutsthe_), Bhārgava [Cyavana] replied: “Hear, O lord of men (_nareśvara_), what is the root of the terrors of our region and of ourselves (_bhayānāṃ śṛṇu yan mūlaṃ deśasya ca_)!
 </details>
 </details>
 
@@ -96,7 +96,7 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Long ago in the Kṛta age (pūrvaṃ kṛta-yuge), O King, there lived a Daitya of exceeding might (daiteyaḥ sumahābalaḥ), the eldest son of Lolā (lolā-putro ’bhavaj jyeṣṭhaḥ), a great asura named Madhu (madhur nāma mahāsuraḥ).
+“Long ago in the Kṛta age (_pūrvaṃ kṛta-yuge_), O King, there lived a Daitya of exceeding might (_daiteyaḥ sumahābalaḥ_), the eldest son of Lolā (_lolā-putro ’bhavaj jyeṣṭhaḥ_), a great asura named Madhu (_madhur nāma mahāsuraḥ_).
 </details>
 </details>
 
@@ -122,7 +122,7 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Devoted to brahmins (brahmaṇyaḥ), a giver of refuge (śaraṇyaḥ), and steadfast in wisdom (buddhyā ca pariniṣṭhitaḥ), he enjoyed a peerless friendship with the most noble gods (suraiś ca paramodāraiḥ prītis tasyātulā ’bhavat).
+“Devoted to brahmins (_brahmaṇyaḥ_), a giver of refuge (_śaraṇyaḥ_), and steadfast in wisdom (_buddhyā ca pariniṣṭhitaḥ_), he enjoyed a peerless friendship with the most noble gods (_suraiś ca paramodāraiḥ prītis tasyātulā ’bhavat_).
 </details>
 </details>
 
@@ -148,7 +148,7 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That Madhu, endowed with heroic vigor (vīrya-sampannaḥ) and thoroughly intent upon dharma (dharme ca susamāhitaḥ), performed austerity for many thousands of years (bahu-varṣa-sahasrāṇi ... ’karot tapaḥ) to win Rudra’s pleasure (rudra-prītyā).
+“That Madhu, endowed with heroic vigor (_vīrya-sampannaḥ_) and thoroughly intent upon dharma (_dharme ca susamāhitaḥ_), performed austerity for many thousands of years (_bahu-varṣa-sahasrāṇi ... ’karot tapaḥ_) to win Rudra’s pleasure (_rudra-prītyā_).
 </details>
 </details>
 
@@ -174,7 +174,7 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rudra grew pleased with him and went forth to grant him a boon (varaṃ dātuṃ yayau ca saḥ); and out of high esteem (bahumānāt), Rudra bestowed upon him an extraordinary boon (dattas tasyādbhuto varaḥ).
+“Rudra grew pleased with him and went forth to grant him a boon (_varaṃ dātuṃ yayau ca saḥ_); and out of high esteem (_bahumānāt_), Rudra bestowed upon him an extraordinary boon (_dattas tasyādbhuto varaḥ_).
 </details>
 </details>
 
@@ -208,7 +208,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Drawing forth from his own trident (śūlād viniṣkṛṣya) a trident of mighty potency and great brilliance (śūlaṃ ... mahāvīryaṃ mahāprabham), the great-souled lord, well pleased (mahātmā suprītaḥ), gave it to him and spoke these words:
+“Drawing forth from his own trident (_śūlād viniṣkṛṣya_) a trident of mighty potency and great brilliance (_śūlaṃ ... mahāvīryaṃ mahāprabham_), the great-souled lord, well pleased (_mahātmā suprītaḥ_), gave it to him and spoke these words:
 </details>
 </details>
 
@@ -234,7 +234,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘This peerless dharma performed by you (tvayāyam atulo dharmaḥ ... kṛtaḥ) has won my favor (mat-prasāda-karaḥ); filled with supreme affection (prītyā paramayā yuktaḥ), I bestow upon you this foremost weapon (dadāmy āyudham uttamam).
+“ ‘This peerless dharma performed by you (_tvayāyam atulo dharmaḥ ... kṛtaḥ_) has won my favor (_mat-prasāda-karaḥ_); filled with supreme affection (_prītyā paramayā yuktaḥ_), I bestow upon you this foremost weapon (_dadāmy āyudham uttamam_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘So long as you do not come into conflict with gods or brahmins (yāvat suraiś ca vipraiś ca na virudhyer), O great asura, so long shall this trident remain yours; otherwise it shall vanish away (anyathā nāśam epyati [i.e., eṣyati]).
+“ ‘So long as you do not come into conflict with gods or brahmins (_yāvat suraiś ca vipraiś ca na virudhyer_), O great asura, so long shall this trident remain yours; otherwise it shall vanish away (_anyathā nāśam epyati_ [i.e., _eṣyati_]).
 </details>
 </details>
 
@@ -286,7 +286,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘And whosoever, free from trepidation (vigata-jvaraḥ), shall assail you in battle (tvām abhiyuñjīta yuddhāya), him this trident shall reduce to ashes (bhasmasāt kṛtvā) and return again to your hand (punar eṣyati te karam).’
+“ ‘And whosoever, free from trepidation (_vigata-jvaraḥ_), shall assail you in battle (_tvām abhiyuñjīta yuddhāya_), him this trident shall reduce to ashes (_bhasmasāt kṛtvā_) and return again to your hand (_punar eṣyati te karam_).’
 </details>
 </details>
 
@@ -312,7 +312,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus obtained that boon from Rudra (evaṃ rudrād varaṃ labdhvā), the great asura once more bowed low before Mahādeva (praṇipatya mahādevam) and spoke these words:
+“Having thus obtained that boon from Rudra (_evaṃ rudrād varaṃ labdhvā_), the great asura once more bowed low before Mahādeva (_praṇipatya mahādevam_) and spoke these words:
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘O Blessed Lord (bhagavan), may this unsurpassed trident (śūlam etad anuttamam) abide perpetually with my lineage (mama vaṃśasya ... bhavet tu satatam), O God, for you are the supreme sovereign of the celestials (surāṇām īśvaro hy asi)!’
+“ ‘O Blessed Lord (_bhagavan_), may this unsurpassed trident (_śūlam etad anuttamam_) abide perpetually with my lineage (_mama vaṃśasya ... bhavet tu satatam_), O God, for you are the supreme sovereign of the celestials (_surāṇām īśvaro hy asi_)!’
 </details>
 </details>
 
@@ -372,7 +372,7 @@ Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To Madhu speaking thus (taṃ bruvāṇaṃ madhum), the god Śiva, lord of all beings (sarva-bhūta-patiḥ śivaḥ), of mighty splendor (mahātejāḥ), replied: ‘This shall not come to pass in that manner (naitad evaṃ bhaviṣyati)!
+“To Madhu speaking thus (_taṃ bruvāṇaṃ madhum_), the god Śiva, lord of all beings (_sarva-bhūta-patiḥ śivaḥ_), of mighty splendor (_mahātejāḥ_), replied: ‘This shall not come to pass in that manner (_naitad evaṃ bhaviṣyati_)!
 </details>
 </details>
 
@@ -398,7 +398,7 @@ Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘Yet lest your auspicious word, prompted by my grace, go fruitless (mā bhūt te viphalā vāṇī mat-prasāda-kṛtā śubhā), this trident shall attend one single son of yours (bhavataḥ putram ekaṃ tu śūlam etad bhajiṣyate).
+“ ‘Yet lest your auspicious word, prompted by my grace, go fruitless (_mā bhūt te viphalā vāṇī mat-prasāda-kṛtā śubhā_), this trident shall attend one single son of yours (_bhavataḥ putram ekaṃ tu śūlam etad bhajiṣyate_).
 </details>
 </details>
 
@@ -424,7 +424,7 @@ Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ ‘So long as this trident remains within your son’s hand (yāvat karasthaḥ śūlo ’yaṃ bhaviṣyati sutasya te), so long, with trident in hand (śūla-hastaḥ), shall he be invulnerable to all beings (avadhyaḥ sarva-bhūtānām).’
+“ ‘So long as this trident remains within your son’s hand (_yāvat karasthaḥ śūlo ’yaṃ bhaviṣyati sutasya te_), so long, with trident in hand (_śūla-hastaḥ_), shall he be invulnerable to all beings (_avadhyaḥ sarva-bhūtānām_).’
 </details>
 </details>
 
@@ -450,7 +450,7 @@ Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thus received that vast and marvelous boon from the god (devāt sumahad adbhutam), that foremost of asuras caused a resplendent mansion to be built (bhavanaṃ ... kārayām āsa suprabham).
+“Having thus received that vast and marvelous boon from the god (_devāt sumahad adbhutam_), that foremost of asuras caused a resplendent mansion to be built (_bhavanaṃ ... kārayām āsa suprabham_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His illustrious and beloved wife (patnī mahābhāgā priyā) was she who is known as Kumbhīnasī (kumbhīnasīti yā), the radiant offspring of Viśvāvasu born unto Analā (viśvāvasor apatyaṃ sā hy analāyāṃ mahāprabhā).
+“His illustrious and beloved wife (_patnī mahābhāgā priyā_) was she who is known as Kumbhīnasī (_kumbhīnasīti yā_), the radiant offspring of Viśvāvasu born unto Analā (_viśvāvasor apatyaṃ sā hy analāyāṃ mahāprabhā_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Kumbhīnasī bears the cruel and wicked Lavaṇa, whose lifelong depravity drive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Her son was the terrible and mighty hero named Lavaṇa (lavaṇo nāma dāruṇaḥ), wicked-souled from childhood onward (bālyāt prabhṛti duṣṭātmā), who practiced nothing but sinful deeds (pāpāny eva samācarat).
+“Her son was the terrible and mighty hero named Lavaṇa (_lavaṇo nāma dāruṇaḥ_), wicked-souled from childhood onward (_bālyāt prabhṛti duṣṭātmā_), who practiced nothing but sinful deeds (_pāpāny eva samācarat_).
 </details>
 </details>
 
@@ -536,7 +536,7 @@ Kumbhīnasī bears the cruel and wicked Lavaṇa, whose lifelong depravity drive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that ill-disciplined son (taṃ putraṃ durvinītam), Madhu, seized with anger (krodha-samanvitaḥ), fell into deep grief (śokam āpede), yet said nothing at all to him (na cainaṃ kiñcid abravīt).
+“Beholding that ill-disciplined son (_taṃ putraṃ durvinītam_), Madhu, seized with anger (_krodha-samanvitaḥ_), fell into deep grief (_śokam āpede_), yet said nothing at all to him (_na cainaṃ kiñcid abravīt_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ Kumbhīnasī bears the cruel and wicked Lavaṇa, whose lifelong depravity drive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abandoning this world (sa vihāya tv imaṃ lokam), he entered the abode of Varuṇa [the ocean] (praviṣṭo varuṇālayam); having first placed the trident in Lavaṇa’s keeping (śūlaṃ niveśya lavaṇe), he revealed the boon to him (varaṃ tasmai nyavedayat).
+“Abandoning this world (_sa vihāya tv imaṃ lokam_), he entered the abode of Varuṇa [the ocean] (_praviṣṭo varuṇālayam_); having first placed the trident in Lavaṇa’s keeping (_śūlaṃ niveśya lavaṇe_), he revealed the boon to him (_varaṃ tasmai nyavedayat_).
 </details>
 </details>
 
@@ -588,7 +588,7 @@ Kumbhīnasī bears the cruel and wicked Lavaṇa, whose lifelong depravity drive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the potency of that trident (prabhāveṇa śūlasya) and through his own innate wickedness (daurātmyenātmanas tathā), he torments the three worlds (santāpayati lokāṃs trīn), and above all the ascetics (viśeṣeṇa ca tāpasān)!
+“Through the potency of that trident (_prabhāveṇa śūlasya_) and through his own innate wickedness (_daurātmyenātmanas tathā_), he torments the three worlds (_santāpayati lokāṃs trīn_), and above all the ascetics (_viśeṣeṇa ca tāpasān_)!
 </details>
 </details>
 
@@ -622,7 +622,7 @@ Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such is the power of Lavaṇa (evaṃ-prabhāvo lavaṇaḥ), and such indeed is the trident (śūlaṃ caiva tathāvidham); having heard this, you are the authority, O Kākutstha (śrutvā pramāṇaṃ kākutstha), for you alone are our supreme refuge (tvaṃ hi naḥ paramā gatiḥ)!
+“Such is the power of Lavaṇa (_evaṃ-prabhāvo lavaṇaḥ_), and such indeed is the trident (_śūlaṃ caiva tathāvidham_); having heard this, you are the authority, O Kākutstha (_śrutvā pramāṇaṃ kākutstha_), for you alone are our supreme refuge (_tvaṃ hi naḥ paramā gatiḥ_)!
 </details>
 </details>
 
@@ -650,7 +650,7 @@ Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many earthly kings, O Rāma, were begged for safety in times past (abhayaṃ yācitāḥ) by terror-stricken sages (bhayārtair ṛṣibhiḥ purā), O hero, yet we know no savior among them (trātāraṃ na ca vidmahe).
+“Many earthly kings, O Rāma, were begged for safety in times past (_abhayaṃ yācitāḥ_) by terror-stricken sages (_bhayārtair ṛṣibhiḥ purā_), O hero, yet we know no savior among them (_trātāraṃ na ca vidmahe_).
 </details>
 </details>
 
@@ -686,7 +686,7 @@ Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that Rāvaṇa has been slain together with his hosts and mounts (rāvaṇaṃ śrutvā hataṃ sabala-vāhanam), we know no other monarch upon earth as our protector, O dear one (trātāraṃ vidmahe tāta nānyaṃ bhuvi narādhipam); therefore we desire deliverance for ourselves, afflicted with dread of Lavaṇa (tat paritrātum icchāmo lavaṇād bhaya-pīḍitān)!
+“Hearing that Rāvaṇa has been slain together with his hosts and mounts (_rāvaṇaṃ śrutvā hataṃ sabala-vāhanam_), we know no other monarch upon earth as our protector, O dear one (_trātāraṃ vidmahe tāta nānyaṃ bhuvi narādhipam_); therefore we desire deliverance for ourselves, afflicted with dread of Lavaṇa (_tat paritrātum icchāmo lavaṇād bhaya-pīḍitān_)!
 </details>
 </details>
 

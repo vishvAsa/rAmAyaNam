@@ -84,7 +84,7 @@ the garden and groves in Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed that night (tāṃ rātrim uṣitāḥ) there upon Suvela, the heroic vānara troop-leaders beheld in Laṅkā the natural forests and artificial pleasure-groves (vanāny upavanāni ca).
+Having passed that night (_tāṃ rātrim uṣitāḥ_) there upon Suvela, the heroic _vānara_ troop-leaders beheld in Laṅkā the natural forests and artificial pleasure-groves (_vanāny upavanāni ca_).
 </details>
 </details>
 
@@ -136,7 +136,7 @@ enchanting to look at, they became astonished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those level and tranquil (samasaumyāni), lovely, vast, and expansive [woodlands], delightful to the eye (dṛṣṭiramyāṇi), they were filled with wonder.
+Beholding those level and tranquil (_samasaumyāni_), lovely, vast, and expansive [woodlands], delightful to the eye (_dṛṣṭiramyāṇi_), they were filled with wonder.
 </details>
 </details>
 
@@ -182,11 +182,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Thronged with campaka, aśoka, bakula, śāla, and palmyra trees (campakāśokabakulaśālatālasamākulā), overspread with tamāla groves, and encircled by rows of nāgakesara trees (nāgamālāsamāvṛtā)—
+**3:** Thronged with _campaka_, _aśoka_, _bakula_, _śāla_, and palmyra trees (_campakāśokabakulaśālatālasamākulā_), overspread with _tamāla_ groves, and encircled by rows of _nāgakesara_ trees (_nāgamālāsamāvṛtā_)—
 
-**4:** —and on every side with hintāla, arjuna, nīpa, and saptaparṇa trees in full bloom, as well as with tilakas, karṇikāras, and pāṭalas—
+**4:** —and on every side with _hintāla_, _arjuna_, _nīpa_, and _saptaparṇa_ trees in full bloom, as well as with _tilakas_, _karṇikāras_, and _pāṭalas_—
 
-**5:** —Laṅkā shone with manifold celestial trees (bahuvidhair divyaiḥ) whose crests were in blossom and which were twined about with creepers, just like Indra's Amarāvatī—
+**5:** —Laṅkā shone with manifold celestial trees (_bahuvidhair divyaiḥ_) whose crests were in blossom and which were twined about with creepers, just like Indra&#x27;s Amarāvatī—
 </details>
 </details>
 
@@ -246,7 +246,7 @@ intertwined with climbers laden with multi-coloured flowers and red tender leave
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and with [trees] bearing variegated flowers and tender crimson shoots (raktakomalapallavaiḥ), with dark-green grassy meadows (śādvalaiḥ), and with picturesque rows of woodland groves.
+—and with [trees] bearing variegated flowers and tender crimson shoots (_raktakomalapallavaiḥ_), with dark-green grassy meadows (_śādvalaiḥ_), and with picturesque rows of woodland groves.
 </details>
 </details>
 
@@ -306,7 +306,7 @@ as human beings were laden with ornaments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There the trees (agamāḥ) bear fragrant and exceedingly lovely flowers and fruits, just as men wear ornaments (bhūṣaṇānīva mānavāḥ).
+There the trees (_agamāḥ_) bear fragrant and exceedingly lovely flowers and fruits, just as men wear ornaments (_bhūṣaṇānīva mānavāḥ_).
 </details>
 </details>
 
@@ -360,7 +360,7 @@ of bees, like chaitraratha (garden of Kubera, the god of riches), was quite char
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling Caitraratha, charming, and comparable to Nandana, that lovely woodland where all seasons abide (sarvartukam) shone, teeming with bees (ṣaṭpadāyutam).
+Resembling Caitraratha, charming, and comparable to Nandana, that lovely woodland where all seasons abide (_sarvartukam_) shone, teeming with bees (_ṣaṭpadāyutam_).
 </details>
 </details>
 
@@ -412,7 +412,7 @@ lapwings(small white cranes), dancing peacocks and cuckoos were heard.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the mountain-stream groves (vananirjhare), accompanied by gallinules, lapwings, and herons (dātyūhakoyaṣṭibakaiḥ) and by dancing peacocks, the cooing of cuckoos (parabhṛtānām) was heard.
+In the mountain-stream groves (_vananirjhare_), accompanied by gallinules, lapwings, and herons (_dātyūhakoyaṣṭibakaiḥ_) and by dancing peacocks, the cooing of cuckoos (_parabhṛtānām_) was heard.
 </details>
 </details>
 
@@ -455,9 +455,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** [Those groves] had birds ever inebriated with joy (nityamattavihaṃgāni), were frequented by bumblebees, had thickets thronged with cuckoos (kokilākulaṣaṇḍāni), and echoed with bird-song—
+**10:** [Those groves] had birds ever inebriated with joy (_nityamattavihaṃgāni_), were frequented by bumblebees, had thickets thronged with cuckoos (_kokilākulaṣaṇḍāni_), and echoed with bird-song—
 
-**11:** —were sung over by bhṛṅgarāja shrikes, resounded with the cries of ospreys (kurarasvanitāni), were noisy with koṇālaka waterbirds, and echoed with cranes; then they entered those forests and pleasure-groves—
+**11:** —were sung over by _bhṛṅgarāja_ shrikes, resounded with the cries of ospreys (_kurarasvanitāni_), were noisy with _koṇālaka_ waterbirds, and echoed with cranes; then they entered those forests and pleasure-groves—
 </details>
 </details>
 
@@ -540,9 +540,9 @@ flowery fragrance, delightful to the nose, blew.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** —thrilled, overjoyed, and heroic monkeys able to change their form at will (kāmarūpiṇaḥ); and as those vānaras of mighty energy were entering there—
+**12:** —thrilled, overjoyed, and heroic monkeys able to change their form at will (_kāmarūpiṇaḥ_); and as those _vānaras_ of mighty energy were entering there—
 
-**13:** —a breeze fragrant from contact with flowers (puṣpasaṃsargasurabhiḥ) and pleasant to the sense of smell blew gently; meanwhile other troop-leaders, emerging from the host of monkey heroes and granted leave by Sugrīva, advanced toward bannered Laṅkā (laṅkāṃ patākinīm)—
+**13:** —a breeze fragrant from contact with flowers (_puṣpasaṃsargasurabhiḥ_) and pleasant to the sense of smell blew gently; meanwhile other troop-leaders, emerging from the host of monkey heroes and granted leave by Sugrīva, advanced toward bannered Laṅkā (_laṅkāṃ patākinīm_)—
 </details>
 </details>
 
@@ -595,7 +595,7 @@ permission from sugreeva and went towards Lanka, the city adorned with flags
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—terrifying the birds, exhausting the deer and elephants (glāpayanto mṛgadvipān), and making that Laṅkā tremble with their roars, those foremost of roarers!
+—terrifying the birds, exhausting the deer and elephants (_glāpayanto mṛgadvipān_), and making that Laṅkā tremble with their roars, those foremost of roarers!
 </details>
 </details>
 
@@ -648,7 +648,7 @@ to the animals and elephants, went, causing that Lanka to tremble, by their nois
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of tremendous speed, they crushed the earth with their feet (mahīṃ caraṇapīḍitām), and the dust raised by their feet (caraṇotthitam rajaḥ) rose suddenly aloft.
+Possessed of tremendous speed, they crushed the earth with their feet (_mahīṃ caraṇapīḍitām_), and the dust raised by their feet (_caraṇotthitam rajaḥ_) rose suddenly aloft.
 </details>
 </details>
 
@@ -703,7 +703,7 @@ feet and the dust thus raised by their feet went up instant aneously.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Frightened by that din, bears, lions, buffaloes, wild elephants (vāraṇāḥ), deer, and birds fled in terror toward the ten directions.
+Frightened by that din, bears, lions, buffaloes, wild elephants (_vāraṇāḥ_), deer, and birds fled in terror toward the ten directions.
 </details>
 </details>
 
@@ -759,7 +759,7 @@ trembled and terrified and hastened towards ten different directions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now the single, lofty peak of Trikūṭa, touching the heavens (divispṛśam), covered on all sides with blossoms and gleaming like refined gold (mahārajatasaṃnibham)—
+Now the single, lofty peak of Trikūṭa, touching the heavens (_divispṛśam_), covered on all sides with blossoms and gleaming like refined gold (_mahārajatasaṃnibham_)—
 </details>
 </details>
 
@@ -793,7 +793,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—a hundred yojanas in extent, spotless, lovely to behold, smooth (ślakṣṇam), glorious, vast, and unattainable even by birds (duṣprāpaṃ śakunair api)—
+—a hundred _yojanas_ in extent, spotless, lovely to behold, smooth (_ślakṣṇam_), glorious, vast, and unattainable even by birds (_duṣprāpaṃ śakunair api_)—
 </details>
 </details>
 
@@ -859,7 +859,7 @@ by people may, even by the mind-how much more by an act of walking?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—inaccessible even in thought (manasāpi durāroham), how much more so by deed for mortal men! Upon its crest is situated Laṅkā, ruled by Rāvaṇa.
+—inaccessible even in thought (_manasāpi durāroham_), how much more so by deed for mortal men! Upon its crest is situated Laṅkā, ruled by Rāvaṇa.
 </details>
 </details>
 
@@ -920,7 +920,7 @@ comprised the residence of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ten yojanas wide and twenty yojanas long, that city shines with lofty gateway-towers (gopurair uccaiḥ) resembling white clouds, and with a rampart (śālena) of gold and of silver.
+Ten _yojanas_ wide and twenty _yojanas_ long, that city shines with lofty gateway-towers (_gopurair uccaiḥ_) resembling white clouds, and with a rampart (_śālena_) of gold and of silver.
 </details>
 </details>
 
@@ -976,7 +976,7 @@ clouds as well as with golden and silver ramparts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Supremely adorned with palaces and seven-storied mansions (prāsādaiś ca vimānaiś ca), Laṅkā [shines] like the middle step of Viṣṇu [the sky] (madhyamaṃ vaiṣṇavaṃ padam) adorned with clouds at the close of summer (ātapāpāye).
+Supremely adorned with palaces and seven-storied mansions (_prāsādaiś ca vimānaiś ca_), Laṅkā [shines] like the middle step of Viṣṇu [the sky] (_madhyamaṃ vaiṣṇavaṃ padam_) adorned with clouds at the close of summer (_ātapāpāye_).
 </details>
 </details>
 
@@ -1030,7 +1030,7 @@ between earth and heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In her is seen a palace adorned with a thousand pillars (stambhasahasreṇa), shaped like the peak of Mount Kailāsa and seeming to scrape the sky (kham ivollikhan).
+In her is seen a palace adorned with a thousand pillars (_stambhasahasreṇa_), shaped like the peak of Mount Kailāsa and seeming to scrape the sky (_kham ivollikhan_).
 </details>
 </details>
 
@@ -1061,7 +1061,7 @@ In her is seen a palace adorned with a thousand pillars (stambhasahasreṇa), sh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That Caitya palace (caityaḥ) was the crowning ornament of the city (purabhūṣaṇam) of the lord of rākṣasas, which is ever guarded by a full hundred rākṣasas.
+That _Caitya_ palace (_caityaḥ_) was the crowning ornament of the city (_purabhūṣaṇam_) of the lord of _rākṣasas_, which is ever guarded by a full hundred _rākṣasas_.
 </details>
 </details>
 
@@ -1121,7 +1121,7 @@ seen as an ornament to the City of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Beholding that city] charming, rich in gold (kāñcanavatīm), graced with pleasure-hills (parvatair upaśobhitām), and adorned with gardens variegated with manifold mineral ores (nānādhātuvicitraiḥ)—
+[Beholding that city] charming, rich in gold (_kāñcanavatīm_), graced with pleasure-hills (_parvatair upaśobhitām_), and adorned with gardens variegated with manifold mineral ores (_nānādhātuvicitraiḥ_)—
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ seen as an ornament to the City of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—resounding with diverse birds, frequented by manifold deer, rich in various blossoms, and inhabited by throngs of different rākṣasas—
+—resounding with diverse birds, frequented by manifold deer, rich in various blossoms, and inhabited by throngs of different _rākṣasas_—
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—radiant Rāma, the elder brother of Lakṣmaṇa (lakṣmīvāṃl lakṣmaṇāgrajaḥ), together with the vānaras, beheld that prosperous city of Rāvaṇa, abounding in wealth (samṛddhārthām).
+—radiant Rāma, the elder brother of Lakṣmaṇa (_lakṣmīvāṃl lakṣmaṇāgrajaḥ_), together with the _vānaras_, beheld that prosperous city of Rāvaṇa, abounding in wealth (_samṛddhārthām_).
 </details>
 </details>
 
@@ -1245,7 +1245,7 @@ having increased its wealth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that metropolis crowded with palatial mansions (mahāgṛhasambādhām) and resembling the third heaven (tridivaprakhyām), the valiant elder brother of Lakṣmaṇa was struck with wonder (vismayaṃ prāpa).
+Beholding that metropolis crowded with palatial mansions (_mahāgṛhasambādhām_) and resembling the third heaven (_tridivaprakhyām_), the valiant elder brother of Lakṣmaṇa was struck with wonder (_vismayaṃ prāpa_).
 </details>
 </details>
 
@@ -1307,6 +1307,6 @@ valiant Rama the elder brother of Lakshmana was seized with astonishment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his vast army, Rāma beheld that city filled with jewels, furnished with manifold defensive arrangements (bahusaṃvidhānām), adorned with rows of palaces, and preeminent for its mighty mechanical engines and gates (mahāyantrakavāṭamukhyām).
+With his vast army, Rāma beheld that city filled with jewels, furnished with manifold defensive arrangements (_bahusaṃvidhānām_), adorned with rows of palaces, and preeminent for its mighty mechanical engines and gates (_mahāyantrakavāṭamukhyām_).
 </details>
 </details>

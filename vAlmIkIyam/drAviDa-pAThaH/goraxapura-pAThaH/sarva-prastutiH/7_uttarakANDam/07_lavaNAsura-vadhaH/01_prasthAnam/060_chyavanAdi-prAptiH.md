@@ -44,7 +44,7 @@ As Rāma and Lakṣmaṇa converse through a temperate spring night, Rāma enter
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Rāma and Lakṣmaṇa were thus conversing together (tayoḥ saṃvadator evam), there arrived a vernal night (vāsantikī niśā prāptā), neither cold nor oppressive with heat (na śītā na ca gharmadā).
+While Rāma and Lakṣmaṇa were thus conversing together (_tayoḥ saṃvadator evam_), there arrived a vernal night (_vāsantikī niśā prāptā_), neither cold nor oppressive with heat (_na śītā na ca gharmadā_).
 </details>
 </details>
 
@@ -70,7 +70,7 @@ While Rāma and Lakṣmaṇa were thus conversing together (tayoḥ saṃvadator
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at stainless dawn (prabhāte vimale), having performed his morning rites (kṛta-paurvāhṇika-kriyaḥ), Kākutstha, well versed in the affairs of his citizens (paura-kāryavit), proceeded to the hall of public audience (abhicakrāma ... darśanam).
+Then, at stainless dawn (_prabhāte vimale_), having performed his morning rites (_kṛta-paurvāhṇika-kriyaḥ_), Kākutstha, well versed in the affairs of his citizens (_paura-kāryavit_), proceeded to the hall of public audience (_abhicakrāma ... darśanam_).
 </details>
 </details>
 
@@ -100,9 +100,9 @@ Then, at stainless dawn (prabhāte vimale), having performed his morning rites (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Then Sumantra approached and spoke these words to Rāghava: “O King, these ascetics (ete ... tāpasāḥ) stand halted at the portal (pratihatā ... dvāri tiṣṭhanti).
+**3:** Then Sumantra approached and spoke these words to Rāghava: “O King, these ascetics (_ete ... tāpasāḥ_) stand halted at the portal (_pratihatā ... dvāri tiṣṭhanti_).
 
-**4:** “Placing Cyavana of Bhṛgu’s line at their head (bhārgava-cyavanaṃ caiva puraskṛtya), these great sages, dwellers upon the banks of the Yamunā (yamunā-tīra-vāsinaḥ), filled with eager haste (kṛta-tvarāḥ) and delight (prīyamāṇāḥ), O tiger among men, are pressing for an audience with you, the great king (darśanaṃ te mahārājñaś codayanti)!”
+**4:** “Placing Cyavana of Bhṛgu’s line at their head (_bhārgava-cyavanaṃ caiva puraskṛtya_), these great sages, dwellers upon the banks of the Yamunā (_yamunā-tīra-vāsinaḥ_), filled with eager haste (_kṛta-tvarāḥ_) and delight (_prīyamāṇāḥ_), O tiger among men, are pressing for an audience with you, the great king (_darśanaṃ te mahārājñaś codayanti_)!”
 </details>
 </details>
 
@@ -130,7 +130,7 @@ Then, at stainless dawn (prabhāte vimale), having performed his morning rites (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Rāma, knower of dharma (dharmavit), declared: “Let those illustrious twice-born ones, headed by Bhārgava [Cyavana] (bhārgava-pramukhā dvijāḥ), be ushered in (praveśyantām)!”
+Hearing those words of his, Rāma, knower of dharma (_dharmavit_), declared: “Let those illustrious twice-born ones, headed by Bhārgava [Cyavana] (_bhārgava-pramukhā dvijāḥ_), be ushered in (_praveśyantām_)!”
 </details>
 </details>
 
@@ -156,7 +156,7 @@ Hearing those words of his, Rāma, knower of dharma (dharmavit), declared: “Le
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honoring the king’s command (rājñas tv ājñāṃ puraskṛtya), the doorkeeper (dvāḥsthaḥ), raising his joined palms to his forehead (mūrdhni kṛtāñjaliḥ), then conducted in those unassailable ascetics (tāpasān sudurāsadān).
+Honoring the king’s command (_rājñas tv ājñāṃ puraskṛtya_), the doorkeeper (_dvāḥsthaḥ_), raising his joined palms to his forehead (_mūrdhni kṛtāñjaliḥ_), then conducted in those unassailable ascetics (_tāpasān sudurāsadān_).
 </details>
 </details>
 
@@ -194,9 +194,9 @@ More than a hundred radiant ascetics enter Rāma’s palace bearing sacred tīrt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** More than a hundred high-souled ascetics (śataṃ samadhikaṃ ... tāpasānāṃ mahātmanām), blazing with their own ascetic luster (dīpyamānaṃ svatejasā), entered the royal palace there (praviṣṭaṃ rājabhavanam).
+**7:** More than a hundred high-souled ascetics (_śataṃ samadhikaṃ ... tāpasānāṃ mahātmanām_), blazing with their own ascetic luster (_dīpyamānaṃ svatejasā_), entered the royal palace there (_praviṣṭaṃ rājabhavanam_).
 
-**8:** Those twice-born ones, bearing full pitchers consecrated with waters from all sacred fords (pūrṇa-kalaśaiḥ sarva-tīrthāmbu-satkṛtaiḥ), brought along abundant fruits and roots (gṛhītvā phala-mūlaṃ ca ... bahu) and presented them to Rāma (rāmasyābhyāharan).
+**8:** Those twice-born ones, bearing full pitchers consecrated with waters from all sacred fords (_pūrṇa-kalaśaiḥ sarva-tīrthāmbu-satkṛtaiḥ_), brought along abundant fruits and roots (_gṛhītvā phala-mūlaṃ ca ... bahu_) and presented them to Rāma (_rāmasyābhyāharan_).
 </details>
 </details>
 
@@ -224,9 +224,9 @@ More than a hundred radiant ascetics enter Rāma’s palace bearing sacred tīrt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Receiving all of that with foremost affection (pratigṛhya tu tat sarvaṃ ... prīti-puraskṛtaḥ)—all the sacred ford-waters (tīrthodakāni sarvāṇi) and the diverse fruits (phalāni vividhāni ca)—
+**9:** Receiving all of that with foremost affection (_pratigṛhya tu tat sarvaṃ ... prīti-puraskṛtaḥ_)—all the sacred ford-waters (_tīrthodakāni sarvāṇi_) and the diverse fruits (_phalāni vividhāni ca_)—
 
-**10:** The mighty-armed one spoke to all those great sages: “Here are these foremost seats (imāny āsana-mukhyāni); pray be seated according to your rank (yathārham upaviśyatām)!”
+**10:** The mighty-armed one spoke to all those great sages: “Here are these foremost seats (_imāny āsana-mukhyāni_); pray be seated according to your rank (_yathārham upaviśyatām_)!”
 </details>
 </details>
 
@@ -254,7 +254,7 @@ More than a hundred radiant ascetics enter Rāma’s palace bearing sacred tīrt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma’s words (rāmasya bhāṣitaṃ śrutvā), all those great sages sat down (niṣeduḥ) upon those golden ascetic seats of lovely splendor (bṛsīṣu rucirākhyāsu ... kāñcanīṣu).
+Hearing Rāma’s words (_rāmasya bhāṣitaṃ śrutvā_), all those great sages sat down (_niṣeduḥ_) upon those golden ascetic seats of lovely splendor (_bṛsīṣu rucirākhyāsu ... kāñcanīṣu_).
 </details>
 </details>
 
@@ -280,7 +280,7 @@ Hearing Rāma’s words (rāmasya bhāṣitaṃ śrutvā), all those great sages
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the sages seated there (upaviṣṭān ṛṣīṃs tatra dṛṣṭvā), Rāghava, conqueror of hostile citadels (parapurañjayaḥ), self-restrained and with joined palms (prayataḥ prāñjalir bhūtvā), spoke these words:
+Seeing the sages seated there (_upaviṣṭān ṛṣīṃs tatra dṛṣṭvā_), Rāghava, conqueror of hostile citadels (_parapurañjayaḥ_), self-restrained and with joined palms (_prayataḥ prāñjalir bhūtvā_), spoke these words:
 </details>
 </details>
 
@@ -314,7 +314,7 @@ Declaring himself completely at the sages’ command and pledging his kingdom an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is the purpose of your coming (kim āgamana-kāryaṃ vaḥ)? What may I do with concentrated mind (kiṃ karomi samāhitaḥ)? I stand ready to be commanded by the great sages (ājñāpyo ’haṃ maharṣīṇām), happily fulfilling every wish (sarva-kāmakaraḥ sukham).
+“What is the purpose of your coming (_kim āgamana-kāryaṃ vaḥ_)? What may I do with concentrated mind (_kiṃ karomi samāhitaḥ_)? I stand ready to be commanded by the great sages (_ājñāpyo ’haṃ maharṣīṇām_), happily fulfilling every wish (_sarva-kāmakaraḥ sukham_).
 </details>
 </details>
 
@@ -340,7 +340,7 @@ Declaring himself completely at the sages’ command and pledging his kingdom an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This entire kingdom (idaṃ rājyaṃ ca sakalam) and the very life abiding within my heart (jīvitaṃ ca hṛdi sthitam)—all of this exists for the sake of the twice-born (dvidārtham, i.e., dvijārtham); this truth I speak to you (satyam etad bravīmi vaḥ)!”
+“This entire kingdom (_idaṃ rājyaṃ ca sakalam_) and the very life abiding within my heart (_jīvitaṃ ca hṛdi sthitam_)—all of this exists for the sake of the twice-born (_dvidārtham_, i.e., _dvijārtham_); this truth I speak to you (_satyam etad bravīmi vaḥ_)!”
 </details>
 </details>
 
@@ -366,7 +366,7 @@ Declaring himself completely at the sages’ command and pledging his kingdom an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tasya tad vacanaṃ śrutvā), a mighty shout of “Well said!” (sādhukāro mahān abhūt) arose from those sages of fierce austerity (ṛṣīṇām ugra-tapasām) dwelling upon the Yamunā’s banks.
+Hearing those words of his (_tasya tad vacanaṃ śrutvā_), a mighty shout of “Well said!” (_sādhukāro mahān abhūt_) arose from those sages of fierce austerity (_ṛṣīṇām ugra-tapasām_) dwelling upon the Yamunā’s banks.
 </details>
 </details>
 
@@ -392,7 +392,7 @@ Hearing those words of his (tasya tad vacanaṃ śrutvā), a mighty shout of “
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And filled with great joy (harṣeṇa mahatā vṛtāḥ), those high-souled ones declared: “Fitting indeed is this (upapannam), O best of men, for you alone upon this earth, and for no other (tavaiva bhuvi nānyataḥ)!
+And filled with great joy (_harṣeṇa mahatā vṛtāḥ_), those high-souled ones declared: “Fitting indeed is this (_upapannam_), O best of men, for you alone upon this earth, and for no other (_tavaiva bhuvi nānyataḥ_)!
 </details>
 </details>
 
@@ -418,7 +418,7 @@ And filled with great joy (harṣeṇa mahatā vṛtāḥ), those high-souled on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many mighty kings of old (bahavaḥ pārthivā ... atikrāntā mahābalāḥ), O monarch, weighing the gravity of the task (kāryasya gauravaṃ matvā), would not consent to make a vow (pratijñāṃ nābhyarocayan).
+“Many mighty kings of old (_bahavaḥ pārthivā ... atikrāntā mahābalāḥ_), O monarch, weighing the gravity of the task (_kāryasya gauravaṃ matvā_), would not consent to make a vow (_pratijñāṃ nābhyarocayan_).
 </details>
 </details>
 
@@ -454,7 +454,7 @@ And filled with great joy (harṣeṇa mahatā vṛtāḥ), those high-souled on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You, however, out of reverence for brahmins (brāhmaṇa-gauravāt), have made this pledge without even considering the cause (kṛtā pratijñā hy anavekṣya kāraṇam); therefore you will surely accomplish it—there is no doubt (tataś ca kartā hy asi nātra saṃśayaḥ)—and it befits you to deliver the sages from great peril (mahābhayāt trātum ṛṣīṃs tvam arhasi)!”
+“You, however, out of reverence for brahmins (_brāhmaṇa-gauravāt_), have made this pledge without even considering the cause (_kṛtā pratijñā hy anavekṣya kāraṇam_); therefore you will surely accomplish it—there is no doubt (_tataś ca kartā hy asi nātra saṃśayaḥ_)—and it befits you to deliver the sages from great peril (_mahābhayāt trātum ṛṣīṃs tvam arhasi_)!”
 </details>
 </details>
 

@@ -48,7 +48,7 @@ Hearing Rāvaṇa’s roar, furious Yama senses his army’s rout and mounts his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that mighty roar of his (tasya tu mahānādaṃ śrutvā), Lord Vaivasvata (vaivasvataḥ prabhuḥ) realized that the foe was victorious (śatruṃ vijayinaṃ mene) and that his own army had been destroyed (svabalasya ca saṅkṣayam).
+Hearing that mighty roar of his (_tasya tu mahānādaṃ śrutvā_), Lord Vaivasvata (_vaivasvataḥ prabhuḥ_) realized that the foe was victorious (_śatruṃ vijayinaṃ mene_) and that his own army had been destroyed (_svabalasya ca saṅkṣayam_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing that mighty roar of his (tasya tu mahānādaṃ śrutvā), Lord Vaivasva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Realizing that his warriors had been slain (yodhān hatān matvā), with eyes blood-red in wrath (krodha-saṃrakta-locanaḥ), he swiftly commanded his charioteer (abravīt tvaritaṃ sūtam): “Let this chariot be brought forth (ratho ’yam upanīyatām)!”
+Realizing that his warriors had been slain (_yodhān hatān matvā_), with eyes blood-red in wrath (_krodha-saṃrakta-locanaḥ_), he swiftly commanded his charioteer (_abravīt tvaritaṃ sūtam_): “Let this chariot be brought forth (_ratho ’yam upanīyatām_)!”
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Realizing that his warriors had been slain (yodhān hatān matvā), with eyes bl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then his charioteer brought up that great divine chariot (divyam upasthāpya mahāratham) and stood ready (sthitaḥ); that greatly resplendent lord mounted that chariot (sa ca mahātejā hy adhyārohata taṃ ratham), while Death, spear and mace in hand (prāśa-mudgara-hastaś ca mṛtyuḥ), stood before him (tasyāgrataḥ sthitaḥ)—
+Then his charioteer brought up that great divine chariot (_divyam upasthāpya mahāratham_) and stood ready (_sthitaḥ_); that greatly resplendent lord mounted that chariot (_sa ca mahātejā hy adhyārohata taṃ ratham_), while Death, spear and mace in hand (_prāśa-mudgara-hastaś ca mṛtyuḥ_), stood before him (_tasyāgrataḥ sthitaḥ_)—
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Then his charioteer brought up that great divine chariot (divyam upasthāpya mah
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he by whom this entire imperishable triple world is gathered in (yena saṅkṣipyate sarvaṃ trailokyam idam avyayam)—and at his side stood the incarnate Staff of Time (kāladaṇḍas tu pārśvastho mūrtimān asya cābhavat), Yama’s divine weapon blazing with fiery splendor (yama-praharaṇaṃ divyaṃ tejasā jvalad-agnimat).
+he by whom this entire imperishable triple world is gathered in (_yena saṅkṣipyate sarvaṃ trailokyam idam avyayam_)—and at his side stood the incarnate Staff of Time (_kāladaṇḍas tu pārśvastho mūrtimān asya cābhavat_), Yama’s divine weapon blazing with fiery splendor (_yama-praharaṇaṃ divyaṃ tejasā jvalad-agnimat_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ he by whom this entire imperishable triple world is gathered in (yena saṅkṣi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At his flanks stood the unbroken Nooses of Time (tasya pārśveṣu nicchidrāḥ kālapāśāḥ pratiṣṭhitāḥ), and there stood the embodied Mace, burning like the touch of fire (pāvaka-sparśa-saṅkāśaḥ sthito mūrtaś ca mudgaraḥ).
+At his flanks stood the unbroken Nooses of Time (_tasya pārśveṣu nicchidrāḥ kālapāśāḥ pratiṣṭhitāḥ_), and there stood the embodied Mace, burning like the touch of fire (_pāvaka-sparśa-saṅkāśaḥ sthito mūrtaś ca mudgaraḥ_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the three worlds were thrown into turmoil (tato lokatrayaṃ kṣubdham) and the celestials trembled (akampanta divaukasaḥ), beholding Time thus enraged (kālaṃ dṛṣṭvā tathā kruddham), terrifying to all the worlds (sarva-loka-bhayāvaham).
+Thereupon the three worlds were thrown into turmoil (_tato lokatrayaṃ kṣubdham_) and the celestials trembled (_akampanta divaukasaḥ_), beholding Time thus enraged (_kālaṃ dṛṣṭvā tathā kruddham_), terrifying to all the worlds (_sarva-loka-bhayāvaham_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Urging Yama’s radiant, mind-swift steeds into battle with a dreadful roar, the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the charioteer, urging on those steeds of radiant sheen (pracodayan sūtas tān aśvān rucira-prabhān), sped forth with a dreadful roar (prayayau bhīma-sannādaḥ) to where the lord of rākṣasas stood (yatra rakṣaḥpatiḥ sthitaḥ).
+Then the charioteer, urging on those steeds of radiant sheen (_pracodayan sūtas tān aśvān rucira-prabhān_), sped forth with a dreadful roar (_prayayau bhīma-sannādaḥ_) to where the lord of rākṣasas stood (_yatra rakṣaḥpatiḥ sthitaḥ_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ Then the charioteer, urging on those steeds of radiant sheen (pracodayan sūtas 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a single moment (muhūrtena), those horses equal to Indra’s steeds (hayā hari-hayopamāḥ) and swift as thought (manasas tulyāḥ) bore Yama to where that battle had been joined (yatra tat prastutaṃ raṇam).
+In a single moment (_muhūrtena_), those horses equal to Indra’s steeds (_hayā hari-hayopamāḥ_) and swift as thought (_manasas tulyāḥ_) bore Yama to where that battle had been joined (_yatra tat prastutaṃ raṇam_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ In a single moment (muhūrtena), those horses equal to Indra’s steeds (hayā h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that monstrous chariot attended by Death (dṛṣṭvā tathaiva vikṛtaṃ rathaṃ mṛtyu-samanvitam), the ministers of the rākṣasa lord (sacivā rākṣasendrasya) suddenly fled in every direction (sahasā vipradudruvuḥ).
+Beholding that monstrous chariot attended by Death (_dṛṣṭvā tathaiva vikṛtaṃ rathaṃ mṛtyu-samanvitam_), the ministers of the rākṣasa lord (_sacivā rākṣasendrasya_) suddenly fled in every direction (_sahasā vipradudruvuḥ_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Beholding that monstrous chariot attended by Death (dṛṣṭvā tathaiva vik�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of slight courage (laghu-sattvatayā), bereft of their wits and racked with terror (naṣṭa-sañjñā bhayārditāḥ), crying, “We are unable to fight here!” (neha yoddhuṃ samarthāḥ sma), they fled to the four quarters (prayayur diśaḥ).
+Of slight courage (_laghu-sattvatayā_), bereft of their wits and racked with terror (_naṣṭa-sañjñā bhayārditāḥ_), crying, “We are unable to fight here!” (_neha yoddhuṃ samarthāḥ sma_), they fled to the four quarters (_prayayur diśaḥ_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ Of slight courage (laghu-sattvatayā), bereft of their wits and racked with terr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet even upon beholding such a world-terrifying chariot (taṃ tādṛśaṃ dṛṣṭvā rathaṃ loka-bhayāvaham), Daśagrīva neither trembled (nākṣubhyata daśagrīvaḥ) nor admitted any fear (na cāpi bhayam āviśat).
+Yet even upon beholding such a world-terrifying chariot (_taṃ tādṛśaṃ dṛṣṭvā rathaṃ loka-bhayāvaham_), Daśagrīva neither trembled (_nākṣubhyata daśagrīvaḥ_) nor admitted any fear (_na cāpi bhayam āviśat_).
 </details>
 </details>
 
@@ -400,7 +400,7 @@ Yet even upon beholding such a world-terrifying chariot (taṃ tādṛśaṃ d�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Closing upon Rāvaṇa (rāvaṇam āsādya) and loosing javelins and darts (vyasṛjac chakti-tomarān), the enraged Yama (yamaḥ ... saṅkruddhaḥ) sliced into Rāvaṇa’s vital points (marmāṇi ... rāvaṇasyopakṛntata).
+Closing upon Rāvaṇa (_rāvaṇam āsādya_) and loosing javelins and darts (_vyasṛjac chakti-tomarān_), the enraged Yama (_yamaḥ ... saṅkruddhaḥ_) sliced into Rāvaṇa’s vital points (_marmāṇi ... rāvaṇasyopakṛntata_).
 </details>
 </details>
 
@@ -439,7 +439,7 @@ Composing himself, Rāvaṇa pours an arrow-cloud upon Yama’s car, yet battere
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa, composed in spirit (rāvaṇas tu tataḥ svasthaḥ), loosed a shower of arrows (śara-varṣaṃ mumoca ha) upon that chariot of Vaivasvata (tasmin vaivasvata-rathe), like a rain-cloud pouring down a torrent of water (toya-varṣam ivāmbudaḥ).
+Then Rāvaṇa, composed in spirit (_rāvaṇas tu tataḥ svasthaḥ_), loosed a shower of arrows (_śara-varṣaṃ mumoca ha_) upon that chariot of Vaivasvata (_tasmin vaivasvata-rathe_), like a rain-cloud pouring down a torrent of water (_toya-varṣam ivāmbudaḥ_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ Then Rāvaṇa, composed in spirit (rāvaṇas tu tataḥ svasthaḥ), loosed a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, struck by mighty spears and arrows falling upon his broad chest (mahāśakti-śaraiḥ pātyamānair mahorasi), that rākṣasa, agonized by embedded shafts (śalya-pīḍitaḥ), was unable to retaliate (nāśaknot pratikartum).
+Then, struck by mighty spears and arrows falling upon his broad chest (_mahāśakti-śaraiḥ pātyamānair mahorasi_), that rākṣasa, agonized by embedded shafts (_śalya-pīḍitaḥ_), was unable to retaliate (_nāśaknot pratikartum_).
 </details>
 </details>
 
@@ -501,7 +501,7 @@ Then, struck by mighty spears and arrows falling upon his broad chest (mahāśak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, battered with manifold weapons (nānā-praharaṇaiḥ) by Yama, crusher of foes (yamenāmitra-karṣiṇā), the enemy was rendered stunned and forced back in battle for seven nights (saptarātraṃ kṛtaḥ saṅkhye visañjño vimukho ripuḥ).
+Thus, battered with manifold weapons (_nānā-praharaṇaiḥ_) by Yama, crusher of foes (_yamenāmitra-karṣiṇā_), the enemy was rendered stunned and forced back in battle for seven nights (_saptarātraṃ kṛtaḥ saṅkhye visañjño vimukho ripuḥ_).
 </details>
 </details>
 
@@ -532,7 +532,7 @@ Thus, battered with manifold weapons (nānā-praharaṇaiḥ) by Yama, crusher o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then there raged a tumultuous combat (tadāsīt tumulaṃ yuddham) between those two—Yama and the rākṣasa (yama-rākṣasayor dvayoḥ)—both yearning for victory, O hero (jayam ākāṅkṣator vīra), and never turning back in battle (samareṣv anivartinoḥ).
+Then there raged a tumultuous combat (_tadāsīt tumulaṃ yuddham_) between those two—Yama and the rākṣasa (_yama-rākṣasayor dvayoḥ_)—both yearning for victory, O hero (_jayam ākāṅkṣator vīra_), and never turning back in battle (_samareṣv anivartinoḥ_).
 </details>
 </details>
 
@@ -563,7 +563,7 @@ Then there raged a tumultuous combat (tadāsīt tumulaṃ yuddham) between those
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the gods together with gandharvas, siddhas, and supreme sages (devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ), placing Prajāpati at their head (prajāpatiṃ puraskṛtya), assembled at that battlefield (sametās tad raṇājiram).
+Thereupon the gods together with gandharvas, siddhas, and supreme sages (_devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ_), placing Prajāpati at their head (_prajāpatiṃ puraskṛtya_), assembled at that battlefield (_sametās tad raṇājiram_).
 </details>
 </details>
 
@@ -594,7 +594,7 @@ Thereupon the gods together with gandharvas, siddhas, and supreme sages (devā�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It became like the cosmic dissolution of the worlds (saṃvarta iva lokānām ... abhavat tadā) as those two raged in fury (krudhyatoḥ)—the foremost of the rākṣasas and the lord of the departed (rākṣasānāṃ ca mukhyasya pretānām īśvarasya ca).
+It became like the cosmic dissolution of the worlds (_saṃvarta iva lokānām ... abhavat tadā_) as those two raged in fury (_krudhyatoḥ_)—the foremost of the rākṣasas and the lord of the departed (_rākṣasānāṃ ca mukhyasya pretānām īśvarasya ca_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ Rāvaṇa fills the sky with shafts, piercing Death, the charioteer, and Yama; a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The lord of rākṣasas too, twanging his bow radiant as Indra’s thunderbolt (visphārya cāpam indrāśani-prabham), then loosed his arrows (bāṇāṃs tato ’sṛjat), leaving no gap in the sky (nirantaram ivākāśaṃ kurvan).
+The lord of rākṣasas too, twanging his bow radiant as Indra’s thunderbolt (_visphārya cāpam indrāśani-prabham_), then loosed his arrows (_bāṇāṃs tato ’sṛjat_), leaving no gap in the sky (_nirantaram ivākāśaṃ kurvan_).
 </details>
 </details>
 
@@ -664,7 +664,7 @@ The lord of rākṣasas too, twanging his bow radiant as Indra’s thunderbolt (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He afflicted Death with four shafts (mṛtyuṃ caturbhir viśikhaiḥ) and the charioteer with seven (sūtaṃ saptabhir ārdayat), and swiftly struck Yama in his vital spots with a hundred thousand (yamaṃ śata-sahasreṇa śīghraṃ marmasv atāḍayat).
+He afflicted Death with four shafts (_mṛtyuṃ caturbhir viśikhaiḥ_) and the charioteer with seven (_sūtaṃ saptabhir ārdayat_), and swiftly struck Yama in his vital spots with a hundred thousand (_yamaṃ śata-sahasreṇa śīghraṃ marmasv atāḍayat_).
 </details>
 </details>
 
@@ -695,7 +695,7 @@ He afflicted Death with four shafts (mṛtyuṃ caturbhir viśikhaiḥ) and the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon from the mouth of the enraged Yama (kruddhasya vadanād yamasya) there burst forth a fire of wrath (samajāyata ... kopa-pāvakaḥ), wreathed in garlands of flame, breathing fiercely, and shrouded in smoke (jvālāmālī saniḥśvāsaḥ sadhūmaḥ).
+Thereupon from the mouth of the enraged Yama (_kruddhasya vadanād yamasya_) there burst forth a fire of wrath (_samajāyata ... kopa-pāvakaḥ_), wreathed in garlands of flame, breathing fiercely, and shrouded in smoke (_jvālāmālī saniḥśvāsaḥ sadhūmaḥ_).
 </details>
 </details>
 
@@ -729,7 +729,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that marvel in the presence of gods and dānavas (tad āścaryam atho dṛṣṭvā deva-dānava-sannidhau), Death and Time became exceedingly jubilant and fiercely roused (praharṣitau susaṃrabdhau mṛtyu-kālau babhūvatuḥ).
+Beholding that marvel in the presence of gods and dānavas (_tad āścaryam atho dṛṣṭvā deva-dānava-sannidhau_), Death and Time became exceedingly jubilant and fiercely roused (_praharṣitau susaṃrabdhau mṛtyu-kālau babhūvatuḥ_).
 </details>
 </details>
 
@@ -763,7 +763,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Death, still more enraged (mṛtyuḥ kruddhataraḥ), addressed Vaivasvata: “Release me in battle while I slay this wicked rākṣasa (muñca māṃ samare yāvad dhanmīmaṃ pāpa-rākṣasam)! This rākṣasa shall not survive today (naiṣā rakṣo bhaved adya), for such is my law by nature (maryādā hi nisargataḥ)!
+Then Death, still more enraged (_mṛtyuḥ kruddhataraḥ_), addressed Vaivasvata: “Release me in battle while I slay this wicked rākṣasa (_muñca māṃ samare yāvad dhanmīmaṃ pāpa-rākṣasam_)! This rākṣasa shall not survive today (_naiṣā rakṣo bhaved adya_), for such is my law by nature (_maryādā hi nisargataḥ_)!
 </details>
 </details>
 
@@ -794,7 +794,7 @@ Then Death, still more enraged (mṛtyuḥ kruddhataraḥ), addressed Vaivasvata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The glorious Hiraṇyakaśipu, Namuci, and Śambara too (hiraṇyakaśipuḥ śrīmān namuciḥ śambaras tathā), Visandhi, Dhūmaketu, and Bali, son of Virocana (visandhir dhūmaketuś ca balir vairocano ’pi ca),
+“The glorious Hiraṇyakaśipu, Namuci, and Śambara too (_hiraṇyakaśipuḥ śrīmān namuciḥ śambaras tathā_), Visandhi, Dhūmaketu, and Bali, son of Virocana (_visandhir dhūmaketuś ca balir vairocano ’pi ca_),
 </details>
 </details>
 
@@ -860,15 +860,15 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “Dambhu, great king of the daityas (dambhur daitya-mahārājaḥ), Vṛtra, and Bāṇa as well (vṛtro bāṇas tathaiva ca), royal sages learned in the scriptures (rājarṣayaḥ śāstravidaḥ), and gandharvas together with great serpents (gandharvāḥ samahoragāḥ),
+**25:** “Dambhu, great king of the daityas (_dambhur daitya-mahārājaḥ_), Vṛtra, and Bāṇa as well (_vṛtro bāṇas tathaiva ca_), royal sages learned in the scriptures (_rājarṣayaḥ śāstravidaḥ_), and gandharvas together with great serpents (_gandharvāḥ samahoragāḥ_),
 
-**26:** “sages, nāgas, daityas, yakṣas, and hosts of apsarases (ṛṣayaḥ pannagā daityā yakṣāś cāpy apsarogaṇāḥ), and at the turning of the aeon’s end (yugānta-parivarte ca) the very earth together with its mighty oceans (pṛthivī samahārṇavā)—
+**26:** “sages, nāgas, daityas, yakṣas, and hosts of apsarases (_ṛṣayaḥ pannagā daityā yakṣāś cāpy apsarogaṇāḥ_), and at the turning of the aeon’s end (_yugānta-parivarte ca_) the very earth together with its mighty oceans (_pṛthivī samahārṇavā_)—
 
-**27:** “all have been brought to destruction, O great king (kṣayaṃ nītā mahārāja), along with mountains, rivers, and trees (saparvata-sarid-drumā). These and many others, mighty and unassailable (balavanto durāsadāḥ), have perished at my mere glance (vinipannā mayā dṛṣṭāḥ): what then is this night-roamer (kim utāyaṃ niśācaraḥ)?
+**27:** “all have been brought to destruction, O great king (_kṣayaṃ nītā mahārāja_), along with mountains, rivers, and trees (_saparvata-sarid-drumā_). These and many others, mighty and unassailable (_balavanto durāsadāḥ_), have perished at my mere glance (_vinipannā mayā dṛṣṭāḥ_): what then is this night-roamer (_kim utāyaṃ niśācaraḥ_)?
 
-**28:** “Give me leave, O righteous knower of dharma (muñca māṃ sādhu dharmajña), while I slay this wretch (yāvad enaṃ nihanmy aham)! For no one beheld by me (na hi kaś cin mayā dṛṣṭaḥ), however mighty, survives (balavān api jīvati).
+**28:** “Give me leave, O righteous knower of dharma (_muñca māṃ sādhu dharmajña_), while I slay this wretch (_yāvad enaṃ nihanmy aham_)! For no one beheld by me (_na hi kaś cin mayā dṛṣṭaḥ_), however mighty, survives (_balavān api jīvati_).
 
-**29:** “This is no empty boast of my strength (balaṃ mama na khalv etat)—such is the fixed ordinance by nature (maryādaiṣā nisargataḥ): he upon whom I gaze lives not even a single moment longer (sa dṛṣṭo na mayā kālaṃ muhūrtam api jīvati)!”
+**29:** “This is no empty boast of my strength (_balaṃ mama na khalv etat_)—such is the fixed ordinance by nature (_maryādaiṣā nisargataḥ_): he upon whom I gaze lives not even a single moment longer (_sa dṛṣṭo na mayā kālaṃ muhūrtam api jīvati_)!”
 </details>
 </details>
 
@@ -899,7 +899,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tasyaivaṃ vacanaṃ śrutvā), the glorious King of Dharma (dharmarājaḥ pratāpavān) replied to Death right there (abravīt tatra taṃ mṛtyum): “Stand aside—I myself shall slay him (tvaṃ tiṣṭhainaṃ nihanmy aham)!”
+Hearing those words of his (_tasyaivaṃ vacanaṃ śrutvā_), the glorious King of Dharma (_dharmarājaḥ pratāpavān_) replied to Death right there (_abravīt tatra taṃ mṛtyum_): “Stand aside—I myself shall slay him (_tvaṃ tiṣṭhainaṃ nihanmy aham_)!”
 </details>
 </details>
 
@@ -938,7 +938,7 @@ With eyes bloodshot in fury, Yama poises the infallible Staff of Time, whose ver
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, eyes blood-red in wrath (saṃrakta-nayanaḥ kruddhaḥ), Lord Vaivasvata (vaivasvataḥ prabhuḥ) poised in his hand the infallible Staff of Time (kāladaṇḍam amoghaṃ tu tolayām āsa pāṇinā),
+Then, eyes blood-red in wrath (_saṃrakta-nayanaḥ kruddhaḥ_), Lord Vaivasvata (_vaivasvataḥ prabhuḥ_) poised in his hand the infallible Staff of Time (_kāladaṇḍam amoghaṃ tu tolayām āsa pāṇinā_),
 </details>
 </details>
 
@@ -969,7 +969,7 @@ Then, eyes blood-red in wrath (saṃrakta-nayanaḥ kruddhaḥ), Lord Vaivasvata
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-at whose flanks were arrayed all the Nooses of Time (yasya pārśveṣu nikhilā kālapāśāḥ pratiṣṭhitāḥ), and beside which stood the embodied Mace, dazzling like fire and the thunderbolt (pāvakāśani-saṅkāśo mudgaro mūrtimān sthitaḥ),
+at whose flanks were arrayed all the Nooses of Time (_yasya pārśveṣu nikhilā kālapāśāḥ pratiṣṭhitāḥ_), and beside which stood the embodied Mace, dazzling like fire and the thunderbolt (_pāvakāśani-saṅkāśo mudgaro mūrtimān sthitaḥ_),
 </details>
 </details>
 
@@ -1000,7 +1000,7 @@ at whose flanks were arrayed all the Nooses of Time (yasya pārśveṣu nikhilā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and which by mere sight snatches away the life-breaths of living creatures (darśanād eva yaḥ prāṇān prāṇinām apakarṣati)—what then when it touches or falls upon a victim (kiṃ punaḥ spṛśyamānasya pātyamānasya vā punaḥ)!
+and which by mere sight snatches away the life-breaths of living creatures (_darśanād eva yaḥ prāṇān prāṇinām apakarṣati_)—what then when it touches or falls upon a victim (_kiṃ punaḥ spṛśyamānasya pātyamānasya vā punaḥ_)!
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ and which by mere sight snatches away the life-breaths of living creatures (dar�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wreathed in a retinue of flames (sa jvālā-parivāras tu), as though already consuming the rākṣasa (nirdahann iva rākṣasam), that mighty weapon throbbed (mahāpraharaṇo ’sphurat) when touched by that puissant lord (tena spṛṣṭo balavatā).
+Wreathed in a retinue of flames (_sa jvālā-parivāras tu_), as though already consuming the rākṣasa (_nirdahann iva rākṣasam_), that mighty weapon throbbed (_mahāpraharaṇo ’sphurat_) when touched by that puissant lord (_tena spṛṣṭo balavatā_).
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ Wreathed in a retinue of flames (sa jvālā-parivāras tu), as though already co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon all on the battlefield fled in terror from it (tato vidudruvuḥ sarve tasmāt trastā raṇājire), and all the gods were thrown into agitation (surāś ca kṣubhitāḥ sarve), beholding Yama with his Staff upraised (dṛṣṭvā daṇḍodyataṃ yamam).
+Thereupon all on the battlefield fled in terror from it (_tato vidudruvuḥ sarve tasmāt trastā raṇājire_), and all the gods were thrown into agitation (_surāś ca kṣubhitāḥ sarve_), beholding Yama with his Staff upraised (_dṛṣṭvā daṇḍodyataṃ yamam_).
 </details>
 </details>
 
@@ -1088,7 +1088,7 @@ Thereupon all on the battlefield fled in terror from it (tato vidudruvuḥ sarve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Yama stood poised to strike Rāvaṇa with that Staff (tasmin prahartu-kāme tu yame daṇḍena rāvaṇam), the Grandfather manifested himself directly to Yama (yamaṃ pitāmahaḥ sākṣād darśayitvā) and spoke these words (idam abravīt):
+Even as Yama stood poised to strike Rāvaṇa with that Staff (_tasmin prahartu-kāme tu yame daṇḍena rāvaṇam_), the Grandfather manifested himself directly to Yama (_yamaṃ pitāmahaḥ sākṣād darśayitvā_) and spoke these words (_idam abravīt_):
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O mighty-armed Vaivasvata of boundless prowess (vaivasvata mahābāho ... amita-vikrama), by no means—no!—must this night-roamer be slain by you (na khalu ... na hantavyas tvayā ... niśācaraḥ) with that Staff (tena daṇḍenaiva)!
+“O mighty-armed Vaivasvata of boundless prowess (_vaivasvata mahābāho ... amita-vikrama_), by no means—no!—must this night-roamer be slain by you (_na khalu ... na hantavyas tvayā ... niśācaraḥ_) with that Staff (_tena daṇḍenaiva_)!
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A boon was indeed bestowed upon him by me (varaḥ khalu mayaitasmai dattaḥ), O foremost of the thirty gods (tridaśa-puṅgava); that word which was spoken by me (yan mayā vyāhṛtaṃ vacaḥ) must not be rendered false by you (sa tvayā nānṛtaḥ kāryaḥ)!
+“A boon was indeed bestowed upon him by me (_varaḥ khalu mayaitasmai dattaḥ_), O foremost of the thirty gods (_tridaśa-puṅgava_); that word which was spoken by me (_yan mayā vyāhṛtaṃ vacaḥ_) must not be rendered false by you (_sa tvayā nānṛtaḥ kāryaḥ_)!
 </details>
 </details>
 
@@ -1189,7 +1189,7 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For whoever—whether god or mortal (devo vā mānuṣo ’pi vā)—should render me untrue (yo hi mām anṛtaṃ kuryāt), by him the entire triple world would be rendered untrue (trailokyam anṛtaṃ tena kṛtaṃ syāt): of this there is no doubt (nātra saṃśayaḥ).
+“For whoever—whether god or mortal (_devo vā mānuṣo ’pi vā_)—should render me untrue (_yo hi mām anṛtaṃ kuryāt_), by him the entire triple world would be rendered untrue (_trailokyam anṛtaṃ tena kṛtaṃ syāt_): of this there is no doubt (_nātra saṃśayaḥ_).
 </details>
 </details>
 
@@ -1220,7 +1220,7 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Loosed in wrath (kruddhena vipramukto ’yam), this fierce Staff, terrifying to the three worlds (raudro lokatraya-bhayāvahaḥ), destroys creatures without distinction between friend and foe (nirviśeṣaṃ priyāpriye prajāḥ saṃharate).
+“Loosed in wrath (_kruddhena vipramukto ’yam_), this fierce Staff, terrifying to the three worlds (_raudro lokatraya-bhayāvahaḥ_), destroys creatures without distinction between friend and foe (_nirviśeṣaṃ priyāpriye prajāḥ saṃharate_).
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this infallible Staff of Time, of boundless splendor (amogho hy eṣa ... amita-prabhaḥ kāladaṇḍaḥ), was created by me of old (mayā sṛṣṭaḥ pūrvam) with Death placed at its fore (mṛtyu-puraskṛtaḥ) for the destruction of all living beings (sarveṣāṃ prāṇinām).
+“For this infallible Staff of Time, of boundless splendor (_amogho hy eṣa ... amita-prabhaḥ kāladaṇḍaḥ_), was created by me of old (_mayā sṛṣṭaḥ pūrvam_) with Death placed at its fore (_mṛtyu-puraskṛtaḥ_) for the destruction of all living beings (_sarveṣāṃ prāṇinām_).
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ Brahmā spells out the inescapable dilemma—whether Rāvaṇa lives or dies ben
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O gentle lord (tan na khalv eṣa te saumya), this Staff must not be brought down upon Rāvaṇa’s head (pātyo rāvaṇa-mūrdhani); for once it falls (na hy asmin patite), no creature survives even a single moment (kaś cin muhūrtam api jīvati)!
+“Therefore, O gentle lord (_tan na khalv eṣa te saumya_), this Staff must not be brought down upon Rāvaṇa’s head (_pātyo rāvaṇa-mūrdhani_); for once it falls (_na hy asmin patite_), no creature survives even a single moment (_kaś cin muhūrtam api jīvati_)!
 </details>
 </details>
 
@@ -1324,7 +1324,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For if, when this Staff falls (yadi hy asmin nipatite), this rākṣasa should not die (na mriyetaiṣa rākṣasaḥ), or if Daśagrīva does die (mriyate vā daśagrīvaḥ), even then falsehood ensues on either side (tadāpy ubhayato ’nṛtam)!
+“For if, when this Staff falls (_yadi hy asmin nipatite_), this rākṣasa should not die (_na mriyetaiṣa rākṣasaḥ_), or if Daśagrīva does die (_mriyate vā daśagrīvaḥ_), even then falsehood ensues on either side (_tadāpy ubhayato ’nṛtam_)!
 </details>
 </details>
 
@@ -1355,7 +1355,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore withdraw this upraised Staff from the lord of Laṅkā (tan nivartaya laṅkeśaṃ daṇḍam etaṃ samudyatam), and make me true today (satyaṃ ca māṃ kuruṣvādya), if you have regard for the worlds (lokāṃs tvaṃ yady avekṣase)!”
+“Therefore withdraw this upraised Staff from the lord of Laṅkā (_tan nivartaya laṅkeśaṃ daṇḍam etaṃ samudyatam_), and make me true today (_satyaṃ ca māṃ kuruṣvādya_), if you have regard for the worlds (_lokāṃs tvaṃ yady avekṣase_)!”
 </details>
 </details>
 
@@ -1386,7 +1386,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus (evam uktas tu), the righteous-souled Yama then replied (dharmātmā pratyuvāca yamas tadā): “Here is this Staff withdrawn (eṣa vyāvartito daṇḍaḥ), for you indeed are our sovereign lord (prabhaviṣṇur hi no bhavān)!
+Addressed thus (_evam uktas tu_), the righteous-souled Yama then replied (_dharmātmā pratyuvāca yamas tadā_): “Here is this Staff withdrawn (_eṣa vyāvartito daṇḍaḥ_), for you indeed are our sovereign lord (_prabhaviṣṇur hi no bhavān_)!
 </details>
 </details>
 
@@ -1425,7 +1425,7 @@ Declaring that nothing remains for him on the field against a boon-guarded foe, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For what indeed can now be accomplished by me standing on this battlefield (kiṃ nv idānīṃ mayā śakyaṃ kartuṃ raṇa-gatena hi), if this foe, shielded by a boon (vara-puraskṛtaḥ), cannot be slain by me (na mayā yady ayaṃ śakyo hantum)?
+“For what indeed can now be accomplished by me standing on this battlefield (_kiṃ nv idānīṃ mayā śakyaṃ kartuṃ raṇa-gatena hi_), if this foe, shielded by a boon (_vara-puraskṛtaḥ_), cannot be slain by me (_na mayā yady ayaṃ śakyo hantum_)?
 </details>
 </details>
 
@@ -1456,7 +1456,7 @@ Declaring that nothing remains for him on the field against a boon-guarded foe, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore here and now I vanish from this rākṣasa’s sight (eṣa tasmāt praṇaśyāmi darśanād asya rakṣasaḥ)!” Having spoken thus (ity uktvā), with his chariot and steeds (sarathaḥ sāśvaḥ), he disappeared right on that very spot (tatraivāntaradhīyata).
+“Therefore here and now I vanish from this rākṣasa’s sight (_eṣa tasmāt praṇaśyāmi darśanād asya rakṣasaḥ_)!” Having spoken thus (_ity uktvā_), with his chariot and steeds (_sarathaḥ sāśvaḥ_), he disappeared right on that very spot (_tatraivāntaradhīyata_).
 </details>
 </details>
 
@@ -1487,7 +1487,7 @@ Declaring that nothing remains for him on the field against a boon-guarded foe, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus prevailed over him (daśagrīvas tu taṃ jitvā) and proclaimed his own name aloud (nāma viśrāvya cātmanaḥ), Daśagrīva once again mounted Puṣpaka (āruhya puṣpakaṃ bhūyaḥ) and departed from Yama’s abode (niṣkrānto yama-sādanāt).
+Having thus prevailed over him (_daśagrīvas tu taṃ jitvā_) and proclaimed his own name aloud (_nāma viśrāvya cātmanaḥ_), Daśagrīva once again mounted Puṣpaka (_āruhya puṣpakaṃ bhūyaḥ_) and departed from Yama’s abode (_niṣkrānto yama-sādanāt_).
 </details>
 </details>
 
@@ -1521,7 +1521,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that Lord Vaivasvata (sa tu vaivasvataḥ), joyful (hṛṣṭaḥ), together with the gods led by Brahmā (devaiḥ saha brahma-purogamaiḥ), departed to heaven (jagāma tridivam), and with him went the great sage Nārada (nāradaś ca mahāmuniḥ).
+And that Lord Vaivasvata (_sa tu vaivasvataḥ_), joyful (_hṛṣṭaḥ_), together with the gods led by Brahmā (_devaiḥ saha brahma-purogamaiḥ_), departed to heaven (_jagāma tridivam_), and with him went the great sage Nārada (_nāradaś ca mahāmuniḥ_).
 </details>
 </details>
 

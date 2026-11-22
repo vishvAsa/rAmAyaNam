@@ -48,7 +48,7 @@ Hearing from the gods in heaven of Rāvaṇa’s astonishing capture, the great 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the sage Pulastya heard in heaven (tataḥ pulastyaḥ śuśrāva ... divi), as recounted by the gods (kathitaṃ ... daivataiḥ), of that capture of Rāvaṇa (rāvaṇa-grahaṇaṃ tat tu), a feat like capturing the very wind (vāyu-grahaṇa-sannibham).
+Then the sage Pulastya heard in heaven (_tataḥ pulastyaḥ śuśrāva ... divi_), as recounted by the gods (_kathitaṃ ... daivataiḥ_), of that capture of Rāvaṇa (_rāvaṇa-grahaṇaṃ tat tu_), a feat like capturing the very wind (_vāyu-grahaṇa-sannibham_).
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, trembling with affection for his son’s offspring (putra-kṛta-snehāt kampyamānaḥ), that great sage of supreme steadfastness (mahādhṛtiḥ ... mahān ṛṣiḥ) came to behold the lord of Māhiṣmatī (māhiṣmatī-patiṃ draṣṭum ājagāma).
+Thereupon, trembling with affection for his son’s offspring (_putra-kṛta-snehāt kampyamānaḥ_), that great sage of supreme steadfastness (_mahādhṛtiḥ ... mahān ṛṣiḥ_) came to behold the lord of Māhiṣmatī (_māhiṣmatī-patiṃ draṣṭum ājagāma_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ Thereupon, trembling with affection for his son’s offspring (putra-kṛta-sneh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking to the path of the wind (sa vāyu-mārgam āsthāya), that twice-born sage swift as the wind (vāyu-tulya-gatir dvijaḥ) and endowed with the speed of thought (manaḥ-sampāta-vikramaḥ) reached the city of Māhiṣmatī (purīṃ māhiṣmatīṃ prāptaḥ).
+Taking to the path of the wind (_sa vāyu-mārgam āsthāya_), that twice-born sage swift as the wind (_vāyu-tulya-gatir dvijaḥ_) and endowed with the speed of thought (_manaḥ-sampāta-vikramaḥ_) reached the city of Māhiṣmatī (_purīṃ māhiṣmatīṃ prāptaḥ_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Taking to the path of the wind (sa vāyu-mārgam āsthāya), that twice-born sag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He entered that city resembling Amarāvatī (so ’marāvati-saṅkāśām), teeming with joyful and thriving citizens (hṛṣṭa-puṣṭa-janākulām), just as Brahmā enters Indra’s celestial capital Amarāvatī (praviveśa purīṃ brahmā indrasyevāmarāvatīm).
+He entered that city resembling Amarāvatī (_so ’marāvati-saṅkāśām_), teeming with joyful and thriving citizens (_hṛṣṭa-puṣṭa-janākulām_), just as Brahmā enters Indra’s celestial capital Amarāvatī (_praviveśa purīṃ brahmā indrasyevāmarāvatīm_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ He entered that city resembling Amarāvatī (so ’marāvati-saṅkāśām), tee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing him as he descended (tatas te pratyabhijñāya ... niṣpatantam), hard to gaze upon like the sun walking on foot (pāda-cāram ivādityaṃ ... sudurdaśam), [the attendants] announced his arrival to Arjuna (arjunāya nivedayan).
+Recognizing him as he descended (_tatas te pratyabhijñāya ... niṣpatantam_), hard to gaze upon like the sun walking on foot (_pāda-cāram ivādityaṃ ... sudurdaśam_), [the attendants] announced his arrival to Arjuna (_arjunāya nivedayan_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ Recognizing him as he descended (tatas te pratyabhijñāya ... niṣpatantam), h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning from their report that it was Pulastya (pulastya iti vijñāya vacanāt), the Haihaya king placed his joined palms upon his head (śirasy añjalim ādhāya) and went forth to meet the ascetic (pratyudgacchat tapasvinam).
+Learning from their report that it was Pulastya (_pulastya iti vijñāya vacanāt_), the Haihaya king placed his joined palms upon his head (_śirasy añjalim ādhāya_) and went forth to meet the ascetic (_pratyudgacchat tapasvinam_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Preceded by his royal priest carrying arghya and madhuparka like Bṛhaspati bef
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His royal priest, bearing the guest-offering and honey-mixture (purohito ’sya gṛhyārghyaṃ madhuparkaṃ tathaiva ca), walked ahead of the king (purastāt prayayau rājñaḥ) like Bṛhaspati before Śakra (śakrasyeva bṛhaspatiḥ).
+His royal priest, bearing the guest-offering and honey-mixture (_purohito ’sya gṛhyārghyaṃ madhuparkaṃ tathaiva ca_), walked ahead of the king (_purastāt prayayau rājñaḥ_) like Bṛhaspati before Śakra (_śakrasyeva bṛhaspatiḥ_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ His royal priest, bearing the guest-offering and honey-mixture (purohito ’sya 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding that approaching sage radiant as the rising sun (tam ṛṣim āyāntam udyantam iva bhāskaram), Arjuna bowed down in reverent haste (arjuno dṛśya sambhrānto vavande), as Indra bows before the Supreme Lord (indra iveśvaram).
+Then, beholding that approaching sage radiant as the rising sun (_tam ṛṣim āyāntam udyantam iva bhāskaram_), Arjuna bowed down in reverent haste (_arjuno dṛśya sambhrānto vavande_), as Indra bows before the Supreme Lord (_indra iveśvaram_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ Then, beholding that approaching sage radiant as the rising sun (tam ṛṣim ā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered him the madhuparka, a cow, water for his feet, and the arghya (sa tasya madhuparkaṃ gāṃ pādyam arghyaṃ nivedya ca), that king of kings addressed Pulastya in a voice choked with joy (pulastyam āha rājendro harṣa-gadgadayā girā):
+Having offered him the _madhuparka_, a cow, water for his feet, and the _arghya_ (_sa tasya madhuparkaṃ gāṃ pādyam arghyaṃ nivedya ca_), that king of kings addressed Pulastya in a voice choked with joy (_pulastyam āha rājendro harṣa-gadgadayā girā_):
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Having offered him the madhuparka, a cow, water for his feet, and the arghya (sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today indeed has Māhiṣmatī been made equal to Amarāvatī (adyaivam amarāvatyā tulyā māhiṣmatī kṛtā), since today, O foremost of Brahmins (adyāhaṃ tu dvijendra), I behold you who are so rare to behold (tvāṃ yasmāt paśyāmi durdaśam)!
+“Today indeed has Māhiṣmatī been made equal to Amarāvatī (_adyaivam amarāvatyā tulyā māhiṣmatī kṛtā_), since today, O foremost of Brahmins (_adyāhaṃ tu dvijendra_), I behold you who are so rare to behold (_tvāṃ yasmāt paśyāmi durdaśam_)!
 </details>
 </details>
 
@@ -381,9 +381,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “Today is my well-being assured, O lord (adya me kuśalaṃ deva); today is my vow fulfilled (adya me kuśalaṃ vratam); today is my birth fruitful (adya me saphalaṃ janma); today is my austerity fruitful (adya me saphalaṃ tapaḥ)—since I bow before your feet, revered by hosts of gods (yasmād deva-gaṇair vandyau vande ’haṃ caraṇau tava)!
+**11:** “Today is my well-being assured, O lord (_adya me kuśalaṃ deva_); today is my vow fulfilled (_adya me kuśalaṃ vratam_); today is my birth fruitful (_adya me saphalaṃ janma_); today is my austerity fruitful (_adya me saphalaṃ tapaḥ_)—since I bow before your feet, revered by hosts of gods (_yasmād deva-gaṇair vandyau vande ’haṃ caraṇau tava_)!
 
-**12:** “This kingdom, these sons, these wives, and our very selves [are yours] (idaṃ rājyam ime putrā ime dārā ime vayam): O Brahmin, what shall I do? What task is to be done? Command us, revered sir (brahman kiṃ kurmi kiṃ kāryam ājñāpayatu no bhavān)!”
+**12:** “This kingdom, these sons, these wives, and our very selves [are yours] (_idaṃ rājyam ime putrā ime dārā ime vayam_): O Brahmin, what shall I do? What task is to be done? Command us, revered sir (_brahman kiṃ kurmi kiṃ kāryam ājñāpayatu no bhavān_)!”
 </details>
 </details>
 
@@ -425,7 +425,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārthivam) regarding dharma, his sacred fires, and his sons (taṃ dharme ’gniṣu putreṣu), Pulastya then spoke to Arjuna, sovereign of the Haihayas (pulastyovāca rājānaṃ haihayānāṃ tathārjunam):
+Having inquired after that king’s well-being (_śivaṃ pṛṣṭvā ca pārthivam_) regarding dharma, his sacred fires, and his sons (_taṃ dharme ’gniṣu putreṣu_), Pulastya then spoke to Arjuna, sovereign of the Haihayas (_pulastyovāca rājānaṃ haihayānāṃ tathārjunam_):
 </details>
 </details>
 
@@ -456,7 +456,7 @@ Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord of men with eyes like lotus petals (narendrāmbuja-patrākṣa) and face resembling the full moon (pūrṇa-candra-nibhānana), matchless is your strength (atulaṃ te balam), by which Daśagrīva has been conquered by you (yena daśagrīvas tvayā jitaḥ)!
+“O lord of men with eyes like lotus petals (_narendrāmbuja-patrākṣa_) and face resembling the full moon (_pūrṇa-candra-nibhānana_), matchless is your strength (_atulaṃ te balam_), by which Daśagrīva has been conquered by you (_yena daśagrīvas tvayā jitaḥ_)!
 </details>
 </details>
 
@@ -487,7 +487,7 @@ Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He out of dread of whom the ocean and the wind stand motionless (bhayād yasyopatiṣṭhetāṃ niṣpandau sāgarānilau)—that very grandson of mine, invincible in combat (so ’yaṃ ... pautro me raṇa-durjayaḥ), has been bound by you in battle (mṛdhe tvayā baddhaḥ)!
+“He out of dread of whom the ocean and the wind stand motionless (_bhayād yasyopatiṣṭhetāṃ niṣpandau sāgarānilau_)—that very grandson of mine, invincible in combat (_so ’yaṃ ... pautro me raṇa-durjayaḥ_), has been bound by you in battle (_mṛdhe tvayā baddhaḥ_)!
 </details>
 </details>
 
@@ -518,7 +518,7 @@ Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have drunk up the renown of my dear boy (putrakasya yaśaḥ pītam) and spread your own name far and wide (nāma viśrāvitaṃ tvayā); entreated by my word today, O dear one, release Daśānana (mad-vākyād yācyamāno ’dya muñca vatsaṃ daśānanam)!”
+“You have drunk up the renown of my dear boy (_putrakasya yaśaḥ pītam_) and spread your own name far and wide (_nāma viśrāvitaṃ tvayā_); entreated by my word today, O dear one, release Daśānana (_mad-vākyād yācyamāno ’dya muñca vatsaṃ daśānanam_)!”
 </details>
 </details>
 
@@ -549,7 +549,7 @@ Having inquired after that king’s well-being (śivaṃ pṛṣṭvā ca pārth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Receiving Pulastya’s command (pulastyājñāṃ pragṛhya), Arjuna uttered not a single word (ūce na kiñcana vaco ’rjunaḥ); filled with gladness (prahṛṣṭavat), that king of kings forthwith set free the lord of rākṣasas (mumoca vai pārthivendro rākṣasendram).
+Receiving Pulastya’s command (_pulastyājñāṃ pragṛhya_), Arjuna uttered not a single word (_ūce na kiñcana vaco ’rjunaḥ_); filled with gladness (_prahṛṣṭavat_), that king of kings forthwith set free the lord of rākṣasas (_mumoca vai pārthivendro rākṣasendram_).
 </details>
 </details>
 
@@ -584,7 +584,7 @@ Receiving Pulastya’s command (pulastyājñāṃ pragṛhya), Arjuna uttered no
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having released that foe of the thirty gods (sa taṃ pramucya tridaśārim arjunaḥ), honored him with celestial ornaments, garlands, and garments (prapūjya divyābharaṇa-srag-ambaraiḥ), and entered into a non-violent pact of friendship witnessed by sacred fire (ahiṃsakaṃ sakhyam upetya sāgnikam), Arjuna bowed to that son of Brahmā and returned to his palace (praṇamya taṃ brahma-sutaṃ gṛhaṃ yayau).
+Having released that foe of the thirty gods (_sa taṃ pramucya tridaśārim arjunaḥ_), honored him with celestial ornaments, garlands, and garments (_prapūjya divyābharaṇa-srag-ambaraiḥ_), and entered into a non-violent pact of friendship witnessed by sacred fire (_ahiṃsakaṃ sakhyam upetya sāgnikam_), Arjuna bowed to that son of Brahmā and returned to his palace (_praṇamya taṃ brahma-sutaṃ gṛhaṃ yayau_).
 </details>
 </details>
 
@@ -623,7 +623,7 @@ Dismissed in shame by Pulastya—who ascends back to Brahmaloka—Rāvaṇa’s 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dismissed by Pulastya as well (pulastyenāpi santyaktaḥ), that mighty lord of rākṣasas (rākṣasendraḥ pratāpavān)—embraced, accorded hospitality, and thoroughly vanquished (pariṣvaktaḥ kṛtātithyo ... vinirjitaḥ)—[departed] hanging his head in shame (lajjamānaḥ).
+Dismissed by Pulastya as well (_pulastyenāpi santyaktaḥ_), that mighty lord of rākṣasas (_rākṣasendraḥ pratāpavān_)—embraced, accorded hospitality, and thoroughly vanquished (_pariṣvaktaḥ kṛtātithyo ... vinirjitaḥ_)—[departed] hanging his head in shame (_lajjamānaḥ_).
 </details>
 </details>
 
@@ -654,7 +654,7 @@ Dismissed by Pulastya as well (pulastyenāpi santyaktaḥ), that mighty lord of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Pulastya, son of the Grandsire and foremost of sages (pitāmaha-sutaś cāpi pulastyo muni-puṅgavaḥ), having secured the release of Daśagrīva (mocayitvā daśagrīvam), departed once more to Brahmaloka (brahma-lokaṃ jagāma ha).
+And Pulastya, son of the Grandsire and foremost of sages (_pitāmaha-sutaś cāpi pulastyo muni-puṅgavaḥ_), having secured the release of Daśagrīva (_mocayitvā daśagrīvam_), departed once more to Brahmaloka (_brahma-lokaṃ jagāma ha_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ And Pulastya, son of the Grandsire and foremost of sages (pitāmaha-sutaś cāpi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In this manner did that mighty Rāvaṇa (evaṃ sa rāvaṇaḥ ... mahābalaḥ) suffer utter humiliation at the hands of Kārtavīrya (prāptaḥ kārtavīryāt pradharṣaṇam), and through the word of Pulastya was set free once again (pulastya-vacanāc cāpi punar muktaḥ).
+In this manner did that mighty Rāvaṇa (_evaṃ sa rāvaṇaḥ ... mahābalaḥ_) suffer utter humiliation at the hands of Kārtavīrya (_prāptaḥ kārtavīryāt pradharṣaṇam_), and through the word of Pulastya was set free once again (_pulastya-vacanāc cāpi punar muktaḥ_).
 </details>
 </details>
 
@@ -716,7 +716,7 @@ In this manner did that mighty Rāvaṇa (evaṃ sa rāvaṇaḥ ... mahābala�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, O delight of the Raghus, there are ever stronger ones beyond the strong (evaṃ balibhyo balinaḥ santi rāghava-nandana); therefore no contempt should ever be shown toward another (nāvajñā hi pare kāryā) by one who desires his own good (ya icchet priyam ātmanaḥ).
+Thus, O delight of the Raghus, there are ever stronger ones beyond the strong (_evaṃ balibhyo balinaḥ santi rāghava-nandana_); therefore no contempt should ever be shown toward another (_nāvajñā hi pare kāryā_) by one who desires his own good (_ya icchet priyam ātmanaḥ_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Thus, O delight of the Raghus, there are ever stronger ones beyond the strong (e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter that king of flesh-eaters (tataḥ sa rājā piśitāśanānām), having gained the friendship of the thousand-armed hero (sahasra-bāhor upalabhya maitrīm), once again wrought carnage among kings (punar nṛpāṇāṃ kadanaṃ cakāra) and roamed the entire earth in arrogance (cacāra sarvāṃ pṛthivīṃ ca darpāt).
+Thereafter that king of flesh-eaters (_tataḥ sa rājā piśitāśanānām_), having gained the friendship of the thousand-armed hero (_sahasra-bāhor upalabhya maitrīm_), once again wrought carnage among kings (_punar nṛpāṇāṃ kadanaṃ cakāra_) and roamed the entire earth in arrogance (_cacāra sarvāṃ pṛthivīṃ ca darpāt_).
 </details>
 </details>
 

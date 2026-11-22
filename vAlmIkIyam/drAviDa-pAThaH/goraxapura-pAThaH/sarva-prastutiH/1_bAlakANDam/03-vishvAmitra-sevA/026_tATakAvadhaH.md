@@ -85,7 +85,7 @@ man's son who is firm in his vows, reverently adjoining his palms replied the sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that resolute and unwavering utterance of the sage (muner vacanam aklībam), Rāghava, the son of the best of men, joined his palms in reverence (prāñjalir bhūtvā) and, firm in his vows (dṛḍhavrataḥ), replied:
+Having heard that resolute and unwavering utterance of the sage (_muner vacanam aklībam_), Rāghava, the son of the best of men, joined his palms in reverence (_prāñjalir bhūtvā_) and, firm in his vows (_dṛḍhavrataḥ_), replied:
 </details>
 </details>
 
@@ -157,9 +157,9 @@ Rama cannot be heedless of the words of both his father and teacher.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “By the express command of my father’s word (pitur vacananirdeśāt) and out of reverence for my father’s injunction (pitur vacanagauravāt), the word that comes from Kauśika must be executed without hesitation (kartavyam aviśaṅkayā).
+**2:** “By the express command of my father’s word (_pitur vacananirdeśāt_) and out of reverence for my father’s injunction (_pitur vacanagauravāt_), the word that comes from Kauśika must be executed without hesitation (_kartavyam aviśaṅkayā_).
 
-**3:** In Ayodhyā, in the midst of my elders and preceptors (gurumadhye), I was instructed by my high-souled father Daśaratha that his word—and yours—must never be disregarded (nāvajñeyaṃ hi tad vacaḥ).
+**3:** In Ayodhyā, in the midst of my elders and preceptors (_gurumadhye_), I was instructed by my high-souled father Daśaratha that his word—and yours—must never be disregarded (_nāvajñeyaṃ hi tad vacaḥ_).
 </details>
 </details>
 
@@ -219,7 +219,7 @@ satyapi taaDakaavadham angiikR^itavaan - dharmaakuutam*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard my father’s word, therefore, and at the command of you who are an expounder of the Veda (śāsanād brahmavādinaḥ), I shall without doubt accomplish the supreme deed of slaying Tāṭakā (kariṣyāmi na saṃdehas tāṭakāvadham uttamam).
+Having heard my father’s word, therefore, and at the command of you who are an expounder of the Veda (_śāsanād brahmavādinaḥ_), I shall without doubt accomplish the supreme deed of slaying Tāṭakā (_kariṣyāmi na saṃdehas tāṭakāvadham uttamam_).
 </details>
 </details>
 
@@ -272,7 +272,7 @@ Vishvamitra. [1-26-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the welfare of cows and Brāhmaṇas (gobrāhmaṇahitārthāya), for the good of this land (deśasya ca hitāya ca), and to fulfill the word of you whose power is immeasurable (tava caivāprameyasya), I stand ready to act (vacanaṃ kartum udyataḥ).”
+For the welfare of cows and Brāhmaṇas (_gobrāhmaṇahitārthāya_), for the good of this land (_deśasya ca hitāya ca_), and to fulfill the word of you whose power is immeasurable (_tava caivāprameyasya_), I stand ready to act (_vacanaṃ kartum udyataḥ_).”
 </details>
 </details>
 
@@ -338,7 +338,7 @@ making all the directions to blast. [1-26-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that subduer of foes clasped his fist firmly around the middle grip of his bow (dhanurmadhye baddhvā muṣṭim) and loosed a piercing bowstring-twang (jyāghoṣam akarot tīvram), making all the directions resound with the report (diśaḥ śabdena nādayan).
+Having spoken thus, that subduer of foes clasped his fist firmly around the middle grip of his bow (_dhanurmadhye baddhvā muṣṭim_) and loosed a piercing bowstring-twang (_jyāghoṣam akarot tīvram_), making all the directions resound with the report (_diśaḥ śabdena nādayan_).
 </details>
 </details>
 
@@ -392,7 +392,7 @@ stupefied by that sound, and she is intolerably infuriated at it. [1-26-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrified by that thunderous sound were the denizens of Tāṭakā’s forest (tena śabdena vitrastās tāṭakāvanavāsinaḥ); and Tāṭakā herself, fiercely enraged, was confounded and stunned by that report (tāṭakā ca susaṃkruddhā tena śabdena mohitā).
+Terrified by that thunderous sound were the denizens of Tāṭakā’s forest (_tena śabdena vitrastās tāṭakāvanavāsinaḥ_); and Tāṭakā herself, fiercely enraged, was confounded and stunned by that report (_tāṭakā ca susaṃkruddhā tena śabdena mohitā_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ wherefrom it emerged and she rancorously rushed thereto. [1-26-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fixing her attention upon that sound (taṃ śabdam abhinidhyāya), the rākṣasī, convulsed with fury (krodhamūrchitā), heard it and rushed in wrath toward the spot whence the sound had issued (śrutvā cābhyadravat kruddhā yatra śabdo viniḥsṛtaḥ).
+Fixing her attention upon that sound (_taṃ śabdam abhinidhyāya_), the rākṣasī, convulsed with fury (_krodhamūrchitā_), heard it and rushed in wrath toward the spot whence the sound had issued (_śrutvā cābhyadravat kruddhā yatra śabdo viniḥsṛtaḥ_).
 </details>
 </details>
 
@@ -500,7 +500,7 @@ by proportions is very gigantic, furthermore infuriated, spoke to Lakshmana. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her enraged, deformed in body, and hideous of face (kruddhāṃ vikṛtāṃ vikṛtānanām), and gigantic in her bodily stature (pramāṇenātivṛddhāṃ ca), Rāghava spoke thus to Lakṣmaṇa:
+Beholding her enraged, deformed in body, and hideous of face (_kruddhāṃ vikṛtāṃ vikṛtānanām_), and gigantic in her bodily stature (_pramāṇenātivṛddhāṃ ca_), Rāghava spoke thus to Lakṣmaṇa:
 </details>
 </details>
 
@@ -546,7 +546,7 @@ of cowards are prone to burst. [1-26-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Lakṣmaṇa, the terrifying and dreadful body of this Yakṣiṇī (paśya lakṣmaṇa yakṣiṇyā bhairavaṃ dāruṇaṃ vapuḥ)! At the mere sight of her, the hearts of the timid—and even of the brave—would split asunder (bhidyeran darśanād asyā bhīrūṇāṃ hṛdayāni ca)!
+“Behold, O Lakṣmaṇa, the terrifying and dreadful body of this Yakṣiṇī (_paśya lakṣmaṇa yakṣiṇyā bhairavaṃ dāruṇaṃ vapuḥ_)! At the mere sight of her, the hearts of the timid—and even of the brave—would split asunder (_bhidyeran darśanād asyā bhīrūṇāṃ hṛdayāni ca_)!
 </details>
 </details>
 
@@ -593,7 +593,7 @@ her to readily retreat by lopping off her ears and the tip of nose. [1-26-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold this demoness, hard to overmaster and endowed with the power of magical illusion (durādharṣāṃ māyābalasamanvitām); today I shall turn her back in flight with her ear-tips and nose severed (vinivṛttāṃ karomy adya hṛtakarṇāgranāsikām).
+Behold this demoness, hard to overmaster and endowed with the power of magical illusion (_durādharṣāṃ māyābalasamanvitām_); today I shall turn her back in flight with her ear-tips and nose severed (_vinivṛttāṃ karomy adya hṛtakarṇāgranāsikām_).
 </details>
 </details>
 
@@ -659,7 +659,7 @@ to kill her, but I intend to terminate her impudence and mobility. [1-26-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For I cannot bring myself to slay her outright while she is shielded by her female nature (na hy enām utsahe hantuṃ strīsvabhāvena rakṣitām); my resolve, rather, is to destroy her offensive might and her power of movement (vīryaṃ cāsyā gatiṃ caiva hanyām iti hi me matiḥ).”
+For I cannot bring myself to slay her outright while she is shielded by her female nature (_na hy enām utsahe hantuṃ strīsvabhāvena rakṣitām_); my resolve, rather, is to destroy her offensive might and her power of movement (_vīryaṃ cāsyā gatiṃ caiva hanyām iti hi me matiḥ_).”
 </details>
 </details>
 
@@ -722,7 +722,7 @@ towards Rama alone, swinging her arms. [1-26-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Rāma was speaking thus, Tāṭakā, convulsed with wrath (krodhamūrchitā), raised both her arms on high and, roaring fiercely, rushed straight at Rāma (udyamya bāhū garjantī rāmam evābhyadhāvata).
+Even as Rāma was speaking thus, Tāṭakā, convulsed with wrath (_krodhamūrchitā_), raised both her arms on high and, roaring fiercely, rushed straight at Rāma (_udyamya bāhū garjantī rāmam evābhyadhāvata_).
 </details>
 </details>
 
@@ -768,7 +768,7 @@ But the Brahma-sage Vishvamitra daunted sounded her off and said to Rama and Lak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rebuking her with a thunderous syllable huṃ (huṃkāreṇābhibhartsya tām), the Brahmarṣi Viśvāmitra pronounced a benediction: “May welfare attend the two Rāghavas, and victory as well (svasti rāghavayor astu jayaṃ caivābhyabhāṣata)!”
+Rebuking her with a thunderous syllable _huṃ_ (_huṃkāreṇābhibhartsya tām_), the Brahmarṣi Viśvāmitra pronounced a benediction: “May welfare attend the two Rāghavas, and victory as well (_svasti rāghavayor astu jayaṃ caivābhyabhāṣata_)!”
 </details>
 </details>
 
@@ -814,7 +814,7 @@ with a massive cloud of dust. [1-26-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stirring up a dreadful cloud of dust (uddhunvānā rajo ghoram), Tāṭakā bewildered both Rāghavas for a muhūrta with that vast dust-cloud (rajomeghena mahatā muhūrtaṃ sā vyamohayat).
+Stirring up a dreadful cloud of dust (_uddhunvānā rajo ghoram_), Tāṭakā bewildered both Rāghavas for a _muhūrta_ with that vast dust-cloud (_rajomeghena mahatā muhūrtaṃ sā vyamohayat_).
 </details>
 </details>
 
@@ -860,7 +860,7 @@ stone rain, by which Rama became indignant. [1-26-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, resorting to her power of magical illusion (tato māyāṃ samāsthāya), she pelted the two Rāghavas with a tremendous shower of boulders (śilāvarṣeṇa rāghavau avākirat sumahatā); thereupon Rāghava was moved to wrath (tataś cukrodha rāghavaḥ).
+Then, resorting to her power of magical illusion (_tato māyāṃ samāsthāya_), she pelted the two Rāghavas with a tremendous shower of boulders (_śilāvarṣeṇa rāghavau avākirat sumahatā_); thereupon Rāghava was moved to wrath (_tataś cukrodha rāghavaḥ_).
 </details>
 </details>
 
@@ -906,7 +906,7 @@ both of her arms with arrows while she rushed towards them. [1-26-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Checking that mighty shower of boulders of hers with a volley of arrows (śilāvarṣaṃ mahat tasyāḥ śaravarṣeṇa rāghavaḥ prativārya), Rāghava severed both hands of the charging demoness with his feathered shafts (upadhāvantyāḥ karau ciccheda patribhiḥ).
+Checking that mighty shower of boulders of hers with a volley of arrows (_śilāvarṣaṃ mahat tasyāḥ śaravarṣeṇa rāghavaḥ prativārya_), Rāghava severed both hands of the charging demoness with his feathered shafts (_upadhāvantyāḥ karau ciccheda patribhiḥ_).
 </details>
 </details>
 
@@ -959,7 +959,7 @@ them off. [1-26-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as she stood near them with her arms severed, exhausted and roaring on all sides (tataś chinnabhujāṃ śrāntām abhyāśe parigarjatīm), Saumitri (Lakṣmaṇa) in wrath cut off the tips of her ears and her nose (saumitrir akarot krodhād dhṛtakarṇāgranāsikām).
+Then, as she stood near them with her arms severed, exhausted and roaring on all sides (_tataś chinnabhujāṃ śrāntām abhyāśe parigarjatīm_), Saumitri (Lakṣmaṇa) in wrath cut off the tips of her ears and her nose (_saumitrir akarot krodhād dhṛtakarṇāgranāsikām_).
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ them with her illusoriness and discharging stone storms she moved about appallin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessing the power of assuming any form at will (kāmarūpadharā sā tu), that Yakṣī took on manifold shapes (kṛtvā rūpāṇy anekaśaḥ) and vanished into invisibility, bewildering them through her magical illusion (antardhānaṃ gatā yakṣī mohayantī svamāyayā).
+Possessing the power of assuming any form at will (_kāmarūpadharā sā tu_), that Yakṣī took on manifold shapes (_kṛtvā rūpāṇy anekaśaḥ_) and vanished into invisibility, bewildering them through her magical illusion (_antardhānaṃ gatā yakṣī mohayantī svamāyayā_).
 </details>
 </details>
 
@@ -1116,11 +1116,11 @@ to Rama. [1-26-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Discharging a terrifying shower of stones, she roamed about unseen (aśmavarṣaṃ vimuñcantī bhairavaṃ vicacāra sā); then, seeing both princes being pelted on every side by that hail of stones (tatas tāv aśmavarṣeṇa kīryamāṇau samantataḥ)—
+**20:** Discharging a terrifying shower of stones, she roamed about unseen (_aśmavarṣaṃ vimuñcantī bhairavaṃ vicacāra sā_); then, seeing both princes being pelted on every side by that hail of stones (_tatas tāv aśmavarṣeṇa kīryamāṇau samantataḥ_)—
 
-**21:** The glorious son of Gādhi (Viśvāmitra) spoke these words: “Enough of your compassion, O Rāma (alaṃ te ghṛṇayā rāma)! This sinful creature is of wicked conduct (pāpaiṣā duṣṭacāriṇī).
+**21:** The glorious son of Gādhi (Viśvāmitra) spoke these words: “Enough of your compassion, O Rāma (_alaṃ te ghṛṇayā rāma_)! This sinful creature is of wicked conduct (_pāpaiṣā duṣṭacāriṇī_).
 
-**22:** This sacrifice-obstructing Yakṣī will soon grow even mightier through her magic (yajñavighnakarī yakṣī purā vardheta māyayā); let her be slain right now, before evening twilight sets in (vadhyatāṃ tāvad evaiṣā purā saṃdhyā pravartate)!
+**22:** This sacrifice-obstructing Yakṣī will soon grow even mightier through her magic (_yajñavighnakarī yakṣī purā vardheta māyayā_); let her be slain right now, before evening twilight sets in (_vadhyatāṃ tāvad evaiṣā purā saṃdhyā pravartate_)!
 </details>
 </details>
 
@@ -1176,7 +1176,7 @@ with his arrows. [1-26-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For at the hour of twilight, rākṣasas become truly unassailable (rakṣāṃsi saṃdhyākāle tu durdharṣāṇi bhavanti hi)!” Thus addressed by the sage, Rāma targeted that Yakṣī who was raining down showers of stones (ity uktaḥ sa tu tāṃ yakṣīm aśmavṛṣṭyābhivarṣaṇīm)—
+For at the hour of twilight, rākṣasas become truly unassailable (_rakṣāṃsi saṃdhyākāle tu durdharṣāṇi bhavanti hi_)!” Thus addressed by the sage, Rāma targeted that Yakṣī who was raining down showers of stones (_ity uktaḥ sa tu tāṃ yakṣīm aśmavṛṣṭyābhivarṣaṇīm_)—
 </details>
 </details>
 
@@ -1256,9 +1256,9 @@ too. [1-26-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** And displaying his mastery of sound-guided archery, hemmed her in on all sides with his shafts (darśayañ śabdavedhitvaṃ tāṃ rurodha sa sāyakaiḥ); thus checked and encircled by that net of arrows, though endowed with magical power (sā ruddhā bāṇajālena māyābalasamanvitā)—
+**24:** And displaying his mastery of sound-guided archery, hemmed her in on all sides with his shafts (_darśayañ śabdavedhitvaṃ tāṃ rurodha sa sāyakaiḥ_); thus checked and encircled by that net of arrows, though endowed with magical power (_sā ruddhā bāṇajālena māyābalasamanvitā_)—
 
-**25:** Uttering a terrific roar, she rushed headlong at Kākutstha and Lakṣmaṇa (abhidudrāva kākutsthaṃ lakṣmaṇaṃ ca vineduṣī); as she came hurtling onward with the speed and fury of a hurled thunderbolt (tām āpatantīṃ vegena vikrāntām aśanīm iva)—
+**25:** Uttering a terrific roar, she rushed headlong at Kākutstha and Lakṣmaṇa (_abhidudrāva kākutsthaṃ lakṣmaṇaṃ ca vineduṣī_); as she came hurtling onward with the speed and fury of a hurled thunderbolt (_tām āpatantīṃ vegena vikrāntām aśanīm iva_)—
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ have highly esteemed Rama saying, admirable, admirable is this act. [1-26-26b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He pierced her in the chest with a single arrow, and she fell to the earth and died (śareṇorasi vivyādha sā papāta mamāra ca). Beholding that demoness of dreadful aspect slain, the lord of the gods (Indra) then—
+He pierced her in the chest with a single arrow, and she fell to the earth and died (_śareṇorasi vivyādha sā papāta mamāra ca_). Beholding that demoness of dreadful aspect slain, the lord of the gods (Indra) then—
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ way. [1-26-27b, 28a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all the celestials acclaimed Kākutstha with cries of “Well done! Well done!” (sādhu sādhv iti kākutsthaṃ surāś cāpy abhipūjayan); and Thousand-Eyed Purandara (Indra), supremely delighted, spoke:
+And all the celestials acclaimed Kākutstha with cries of “Well done! Well done!” (_sādhu sādhv iti kākutsthaṃ surāś cāpy abhipūjayan_); and Thousand-Eyed Purandara (Indra), supremely delighted, spoke:
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ are pleased, so you please show more concern for Raghava. [1-26-28b, 29a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all the gods, thrilled with joy, addressed Viśvāmitra thus: “O Sage Kauśika, may auspiciousness attend you! All the hosts of the Maruts together with Indra (sendrāḥ sarve marudgaṇāḥ)—
+And all the gods, thrilled with joy, addressed Viśvāmitra thus: “O Sage Kauśika, may auspiciousness attend you! All the hosts of the Maruts together with Indra (_sendrāḥ sarve marudgaṇāḥ_)—
 </details>
 </details>
 
@@ -1453,7 +1453,7 @@ weaponry and their birth, c.f. 21st sarga/chapter, verse 10 to 20.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have been deeply gratified by this deed; show your affectionate favor toward Rāghava (toṣitāḥ karmaṇānena snehaṃ darśaya rāghave)! The sons of Prajāpati Kṛśāśva, endowed with unfailing valor (prajāpateḥ kṛśāśvasya putrān satyaparākramān)—
+Have been deeply gratified by this deed; show your affectionate favor toward Rāghava (_toṣitāḥ karmaṇānena snehaṃ darśaya rāghave_)! The sons of Prajāpati Kṛśāśva, endowed with unfailing valor (_prajāpateḥ kṛśāśvasya putrān satyaparākramān_)—
 </details>
 </details>
 
@@ -1501,7 +1501,7 @@ So said gods to Vishvamitra. [1-26-30b, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And charged with the potency of ascetic penance, O Brāhmaṇa, do you bestow upon Rāghava (tapobalabhṛto brahman rāghavāya nivedaya); for he is a worthy vessel of yours, O Brāhmaṇa, and is devoted to following and serving you (pātrabhūtaś ca te brahmaṃs tavānugamane rataḥ).
+And charged with the potency of ascetic penance, O Brāhmaṇa, do you bestow upon Rāghava (_tapobalabhṛto brahman rāghavāya nivedaya_); for he is a worthy vessel of yours, O Brāhmaṇa, and is devoted to following and serving you (_pātrabhūtaś ca te brahmaṃs tavānugamane rataḥ_).
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ to heavens, and then the sunset has come to pass. [1-26-31b, 32a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A mighty task on behalf of the gods must be accomplished by this king’s son (kartavyaṃ sumahat karma surāṇāṃ rājasūnunā)!” Having spoken thus, all the gods departed joyfully into the sky (evam uktvā surāḥ sarve jagmur hṛṣṭā vihāyasam)—
+A mighty task on behalf of the gods must be accomplished by this king’s son (_kartavyaṃ sumahat karma surāṇāṃ rājasūnunā_)!” Having spoken thus, all the gods departed joyfully into the sky (_evam uktvā surāḥ sarve jagmur hṛṣṭā vihāyasam_)—
 </details>
 </details>
 
@@ -1601,7 +1601,7 @@ kissed the forehead of and then said this sentence. [1-26-32b, 33a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honoring and praising Viśvāmitra; and thereupon evening twilight set in (viśvāmitraṃ pūjayantas tataḥ saṃdhyā pravartate). Then the best of sages, delighted and gratified by the slaying of Tāṭakā (tato munivaraḥ prītas tāṭakāvadhatoṣitaḥ)—
+Honoring and praising Viśvāmitra; and thereupon evening twilight set in (_viśvāmitraṃ pūjayantas tataḥ saṃdhyā pravartate_). Then the best of sages, delighted and gratified by the slaying of Tāṭakā (_tato munivaraḥ prītas tāṭakāvadhatoṣitaḥ_)—
 </details>
 </details>
 
@@ -1652,7 +1652,7 @@ we will go to that hermitage of mine. So said Vishvamitra to Rama. [1-26-33b, 34
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Smelled Rāma upon the crown of his head in paternal affection and spoke these words (mūrdhni rāmam upāghrāya idaṃ vacanam abravīt): “Here today let us pass the night, O Rāma of auspicious aspect (ihādya rajanīṃ rāma vasāma śubhadarśana)!
+Smelled Rāma upon the crown of his head in paternal affection and spoke these words (_mūrdhni rāmam upāghrāya idaṃ vacanam abravīt_): “Here today let us pass the night, O Rāma of auspicious aspect (_ihādya rajanīṃ rāma vasāma śubhadarśana_)!
 </details>
 </details>
 
@@ -1698,7 +1698,7 @@ that night there in that forest of Tataka. [1-26-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tomorrow at daybreak we shall proceed to that hermitage of mine (śvaḥ prabhāte gamiṣyāmas tad āśramapadaṃ mama).” Hearing the words of Viśvāmitra, the son of Daśaratha rejoiced (viśvāmitravacaḥ śrutvā hṛṣṭo daśarathātmajaḥ)—
+Tomorrow at daybreak we shall proceed to that hermitage of mine (_śvaḥ prabhāte gamiṣyāmas tad āśramapadaṃ mama_).” Hearing the words of Viśvāmitra, the son of Daśaratha rejoiced (_viśvāmitravacaḥ śrutvā hṛṣṭo daśarathātmajaḥ_)—
 </details>
 </details>
 
@@ -1745,7 +1745,7 @@ it shone forth like the luxurious heavenly garden of Kubera, namely Chiatra Rath
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And passed the night happily there in the forest of Tāṭakā (uvāsa rajanīṃ tatra tāṭakāyā vane sukham). Freed from its curse on that very day (muktaśāpaṃ vanaṃ tac ca tasminn eva tadāhani), that forest shone forth delightfully, just like Kubera’s celestial Caitraratha grove (ramaṇīyaṃ vibabhrāja yathā caitrarathaṃ vanam).
+And passed the night happily there in the forest of Tāṭakā (_uvāsa rajanīṃ tatra tāṭakāyā vane sukham_). Freed from its curse on that very day (_muktaśāpaṃ vanaṃ tac ca tasminn eva tadāhani_), that forest shone forth delightfully, just like Kubera’s celestial Caitraratha grove (_ramaṇīyaṃ vibabhrāja yathā caitrarathaṃ vanam_).
 </details>
 </details>
 
@@ -1809,7 +1809,7 @@ only to be awakened by the next day's sunrise. [1-26-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain that daughter of a Yakṣa, Rāma, praised by hosts of gods and Siddhas (praśasyamānaḥ surasiddhasaṅghaiḥ), dwelt in that forest together with the sage, until at the hour of daybreak he was gently awakened by him (prabhātavelāṃ pratibodhyamānaḥ).
+Having slain that daughter of a Yakṣa, Rāma, praised by hosts of gods and Siddhas (_praśasyamānaḥ surasiddhasaṅghaiḥ_), dwelt in that forest together with the sage, until at the hour of daybreak he was gently awakened by him (_prabhātavelāṃ pratibodhyamānaḥ_).
 </details>
 </details>
 

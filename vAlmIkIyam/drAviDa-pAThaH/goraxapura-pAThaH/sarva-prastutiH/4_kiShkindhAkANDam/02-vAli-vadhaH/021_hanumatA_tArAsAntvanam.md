@@ -82,7 +82,7 @@ star from sky. [4-21-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanumān, the leader of the monkey troop (hariyūthapaḥ), gently (śanaiḥ) consoled (āśvāsayāmāsa) Tārā, who had sunk down like a star (tārām iva) fallen from the sky (ambarāt).
+Then Hanumān, the leader of the monkey troop (_hariyūthapaḥ_), gently (_śanaiḥ_) consoled (_āśvāsayāmāsa_) Tārā, who had sunk down like a star (_tārām iva_) fallen from the sky (_ambarāt_).
 </details>
 </details>
 
@@ -145,7 +145,7 @@ is not dead at the hand of Sugreeva but dead due his own demerits.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[Every] living creature (jantuḥ), with undivided attention (avyagraḥ), reaps in the hereafter (pretya) all its own action (svakarma)—wrought through merit and demerit (guṇadoṣakṛtam), the cause of [future] fruit (phalahetukam), whether auspicious or inauspicious (śubhāśubham).
+“[Every] living creature (_jantuḥ_), with undivided attention (_avyagraḥ_), reaps in the hereafter (_pretya_) all its own action (_svakarma_)—wrought through merit and demerit (_guṇadoṣakṛtam_), the cause of [future] fruit (_phalahetukam_), whether auspicious or inauspicious (_śubhāśubham_).
 </details>
 </details>
 
@@ -202,7 +202,7 @@ like bodies? [4-21-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yourself worthy of being mourned (śocyā), whom do you mourn as pitiable (śocyam)? Wretched yourself (dīnā), whom do you pity as wretched (dīnam)? And in this body resembling a water-bubble (budbudopame), who is truly to be mourned by whom?
+Yourself worthy of being mourned (_śocyā_), whom do you mourn as pitiable (_śocyam_)? Wretched yourself (_dīnā_), whom do you pity as wretched (_dīnam_)? And in this body resembling a water-bubble (_budbudopame_), who is truly to be mourned by whom?
 </details>
 </details>
 
@@ -255,7 +255,7 @@ think of the forthcoming activities for his well-being and for his performance o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rather, this prince Aṅgada (kumāro 'yam) must be looked after (draṣṭavyaḥ) by you who have a living son (jīvaputrayā); reflect too upon the fitting (samarthāni) duties that must be performed (vidheyāni) for him in the future (āyatyām).
+Rather, this prince Aṅgada (_kumāro &#x27;yam_) must be looked after (_draṣṭavyaḥ_) by you who have a living son (_jīvaputrayā_); reflect too upon the fitting (_samarthāni_) duties that must be performed (_vidheyāni_) for him in the future (_āyatyām_).
 </details>
 </details>
 
@@ -308,7 +308,7 @@ worldly deeds here in this world, say, the funeral of Vali. [4-21-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You know the uncertain (aniyatām) coming and going (āgatiṃ gatim) of beings thus; therefore, O wise lady (paṇḍite), what is auspicious [for the hereafter] (śubham) should indeed be performed, not what is merely worldly (laukikam) here.
+You know the uncertain (_aniyatām_) coming and going (_āgatiṃ gatim_) of beings thus; therefore, O wise lady (_paṇḍite_), what is auspicious [for the hereafter] (_śubham_) should indeed be performed, not what is merely worldly (_laukikam_) here.
 </details>
 </details>
 
@@ -360,7 +360,7 @@ in him alone, that Vali has arrived at his end. [4-21-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He upon whom thousands, hundreds, and millions of monkeys (harisahasrāṇi śatāni niyutāni ca) subsisted (vartayanti) with their hopes fulfilled (kṛtāśāni)—that very [king] has reached the end of his ordained lifespan (diṣṭāntam āgataḥ).
+He upon whom thousands, hundreds, and millions of monkeys (_harisahasrāṇi śatāni niyutāni ca_) subsisted (_vartayanti_) with their hopes fulfilled (_kṛtāśāni_)—that very [king] has reached the end of his ordained lifespan (_diṣṭāntam āgataḥ_).
 </details>
 </details>
 
@@ -422,7 +422,7 @@ for himself, and it is unapt of your sorrowing for him. [4-21-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since this [king], who perceived his ends through righteous policy (nyāyadṛṣṭārthaḥ) and was devoted to conciliation, liberality, and forgiveness (sāmadānakṣamāparaḥ), has departed to the realm won by dharma (dharmajitāṃ bhūmim), you ought not to mourn him.
+“Since this [king], who perceived his ends through righteous policy (_nyāyadṛṣṭārthaḥ_) and was devoted to conciliation, liberality, and forgiveness (_sāmadānakṣamāparaḥ_), has departed to the realm won by dharma (_dharmajitāṃ bhūmim_), you ought not to mourn him.
 </details>
 </details>
 
@@ -474,7 +474,7 @@ of monkeys and bears have their guardian angel in you. [4-21-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All these tiger-like monkeys (hariśārdūlāḥ), and this son of yours, Aṅgada, and this kingdom of the lords of monkeys and bears (haryṛkṣapatirājyaṃ ca) have you as their protector (tvatsanātham), O blameless lady (anindite).
+All these tiger-like monkeys (_hariśārdūlāḥ_), and this son of yours, Aṅgada, and this kingdom of the lords of monkeys and bears (_haryṛkṣapatirājyaṃ ca_) have you as their protector (_tvatsanātham_), O blameless lady (_anindite_).
 </details>
 </details>
 
@@ -525,7 +525,7 @@ then this Angada will rule over the earth. [4-21-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gently (śanaiḥ) dispel [or urge onward] (preraya) these two afflicted by grief (śokasaṃtaptau), O spirited lady (bhāmini); governed by you (tvayā parigṛhītaḥ), let this Aṅgada rule the earth (śāstu medinīm).
+Gently (_śanaiḥ_) dispel [or urge onward] (_preraya_) these two afflicted by grief (_śokasaṃtaptau_), O spirited lady (_bhāmini_); governed by you (_tvayā parigṛhītaḥ_), let this Aṅgada rule the earth (_śāstu medinīm_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ and means remain in house, relatives come up to graveyard, only Merit and Demeri
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let the lineage [through your son] (saṃtatiḥ) be seen as prescribed (yathā dṛṣṭā), and whatever duty must now be done (kṛtyaṃ yac cāpi sāmpratam) for the king, let all that be performed; such is the decree of time (kālasya niścayaḥ).
+Let the lineage [through your son] (_saṃtatiḥ_) be seen as prescribed (_yathā dṛṣṭā_), and whatever duty must now be done (_kṛtyaṃ yac cāpi sāmpratam_) for the king, let all that be performed; such is the decree of time (_kālasya niścayaḥ_).
 </details>
 </details>
 
@@ -638,7 +638,7 @@ your son invested on the throne you can obtain peace." Thus spoke Hanuma to Tara
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let the king of the monkeys receive his funeral rites (saṃskāryo harirājas tu), and let Aṅgada be consecrated (abhiṣicyatām); beholding your son seated upon the lion-throne (siṃhāsanagatam), you shall attain peace (śāntim eṣyasi).”
+Let the king of the monkeys receive his funeral rites (_saṃskāryo harirājas tu_), and let Aṅgada be consecrated (_abhiṣicyatām_); beholding your son seated upon the lion-throne (_siṃhāsanagatam_), you shall attain peace (_śāntim eṣyasi_).”
 </details>
 </details>
 
@@ -700,7 +700,7 @@ who is standing nearby. [4-21-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing his words, Tārā, tormented by the calamity of her husband (bhartṛvyasanapīḍitā), spoke in reply (abravīd uttaram) to Hanumān who stood nearby (avasthitam):
+Hearing his words, Tārā, tormented by the calamity of her husband (_bhartṛvyasanapīḍitā_), spoke in reply (_abravīd uttaram_) to Hanumān who stood nearby (_avasthitam_):
 </details>
 </details>
 
@@ -758,7 +758,7 @@ of this verse omitting the first foot of next stanza and it reads: * kim kaaryam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Were there a hundred sons (putrāṇāṃ śatam) resembling Aṅgada (aṅgadapratirūpāṇām) on one side (ekataḥ), embracing the limbs (gātrasaṃśleṣaṇam) of this hero, even though slain (hatasyāpy asya vīrasya), would still be superior (varam).
+“Were there a hundred sons (_putrāṇāṃ śatam_) resembling Aṅgada (_aṅgadapratirūpāṇām_) on one side (_ekataḥ_), embracing the limbs (_gātrasaṃśleṣaṇam_) of this hero, even though slain (_hatasyāpy asya vīrasya_), would still be superior (_varam_).
 </details>
 </details>
 
@@ -813,7 +813,7 @@ Sugreeva is close at hand? [4-21-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor do I have authority (na cāhaṃ prabhavāmi) over the monkey kingdom (harirājyasya) or over Aṅgada; his paternal uncle Sugrīva (pitṛvyas tasya sugrīvaḥ) is immediately next [in authority] (anantaraḥ) in all affairs (sarvakāryeṣu).
+Nor do I have authority (_na cāhaṃ prabhavāmi_) over the monkey kingdom (_harirājyasya_) or over Aṅgada; his paternal uncle Sugrīva (_pitṛvyas tasya sugrīvaḥ_) is immediately next [in authority] (_anantaraḥ_) in all affairs (_sarvakāryeṣu_).
 </details>
 </details>
 
@@ -868,7 +868,7 @@ is the real defender of a son, but not the mother. [4-21-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, this design (eṣā buddhiḥ) regarding Aṅgada ought not to be entertained (na... āstheyā), O Hanumān; for the father [or paternal uncle] (pitā hi) is the true kinsman (bandhuḥ) of a son, not the mother (na mātā), O best of monkeys (harisattama).
+Indeed, this design (_eṣā buddhiḥ_) regarding Aṅgada ought not to be entertained (_na... āstheyā_), O Hanumān; for the father [or paternal uncle] (_pitā hi_) is the true kinsman (_bandhuḥ_) of a son, not the mother (_na mātā_), O best of monkeys (_harisattama_).
 </details>
 </details>
 
@@ -945,7 +945,7 @@ death bed, which he is adoring when put to death while he is facing away. [4-21-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For there is nothing more fitting (kṣamataram) for me, either in the hereafter or in this world (paratra ceha vā), than taking refuge in the monkey king (harirājasaṃśrayāt); it is fitting for me to share this couch (śayanam idam) graced by the hero slain facing [his foe] (abhimukha-hata-vīra-sevitam).”
+For there is nothing more fitting (_kṣamataram_) for me, either in the hereafter or in this world (_paratra ceha vā_), than taking refuge in the monkey king (_harirājasaṃśrayāt_); it is fitting for me to share this couch (_śayanam idam_) graced by the hero slain facing [his foe] (_abhimukha-hata-vīra-sevitam_).”
 </details>
 </details>
 

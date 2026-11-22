@@ -72,13 +72,13 @@ Beholding Rāma, Lakṣmaṇa, Vibhīṣaṇa, Sugrīva, and the monkey commande
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having beheld those monkey troop-commanders (hariyūthapān) pointed out by Śuka (śukena tu samādiṣṭān), as well as Lakṣmaṇa of mighty valor, the right arm of Rāma (bhujaṃ rāmasya dakṣiṇam),—
+**1:** Having beheld those monkey troop-commanders (_hariyūthapān_) pointed out by Śuka (_śukena tu samādiṣṭān_), as well as Lakṣmaṇa of mighty valor, the right arm of Rāma (_bhujaṃ rāmasya dakṣiṇam_),—
 
-**2:** —and his brother Vibhīṣaṇa standing near Rāma (samīpasthaṃ ca rāmasya), and Sugrīva of terrible valor, the king of all the Vānaras (sarvavānararājam),—
+**2:** —and his brother Vibhīṣaṇa standing near Rāma (_samīpasthaṃ ca rāmasya_), and Sugrīva of terrible valor, the king of all the Vānaras (_sarvavānararājam_),—
 
-**3:** —and the mighty Aṅgada, grandson of the thunderbolt-wielding Indra (vajrahastātmajātmajam), and the valorous Hanūmān, and the invincible Jāmbavān (jāmbavantaṃ ca durjayam),—
+**3:** —and the mighty Aṅgada, grandson of the thunderbolt-wielding Indra (_vajrahastātmajātmajam_), and the valorous Hanūmān, and the invincible Jāmbavān (_jāmbavantaṃ ca durjayam_),—
 
-**4:** —along with Suṣeṇa, Kumuda, Nīla, and Nala, that bull among leapers (plavagarṣabham), and Gaja, Gavākṣa, Śarabha, Mainda, and Dvivida as well,—
+**4:** —along with Suṣeṇa, Kumuda, Nīla, and Nala, that bull among leapers (_plavagarṣabham_), and Gaja, Gavākṣa, Śarabha, Mainda, and Dvivida as well,—
 </details>
 </details>
 
@@ -142,7 +142,7 @@ their report.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāvaṇa, his heart somewhat agitated (kiṃcid āvignahṛdayaḥ) and his wrath aroused (jātakrodhaś ca), upbraided (bhartsayāmāsa) those two heroes, Śuka and Sāraṇa, at the close of their report (kathānte).
+—Rāvaṇa, his heart somewhat agitated (_kiṃcid āvignahṛdayaḥ_) and his wrath aroused (_jātakrodhaś ca_), upbraided (_bhartsayāmāsa_) those two heroes, Śuka and Sāraṇa, at the close of their report (_kathānte_).
 </details>
 </details>
 
@@ -194,7 +194,7 @@ Shuka and Sarana who stood saluting with their faces bent down.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To those two, Śuka and Sāraṇa, who stood bowed with downcast faces (adhomukhau tau praṇatau), he spoke angry and harsh words (saṃrabdhaṃ paruṣaṃ tathā) in a voice choked with rage (roṣagadgadayā vācā):
+To those two, Śuka and Sāraṇa, who stood bowed with downcast faces (_adhomukhau tau praṇatau_), he spoke angry and harsh words (_saṃrabdhaṃ paruṣaṃ tathā_) in a voice choked with rage (_roṣagadgadayā vācā_):
 </details>
 </details>
 
@@ -254,7 +254,7 @@ who has the power to mete out any punishment or reward."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely it is not at all befitting (na tāvat sadṛśaṃ nāma) for dependent ministers (sacivair upajīvibhiḥ) to speak what is displeasing to a king (vipriyaṃ nṛpateḥ) who has the power to punish and to reward (nigrahe pragrahe prabhoḥ)!
+“Surely it is not at all befitting (_na tāvat sadṛśaṃ nāma_) for dependent ministers (_sacivair upajīvibhiḥ_) to speak what is displeasing to a king (_vipriyaṃ nṛpateḥ_) who has the power to punish and to reward (_nigrahe pragrahe prabhoḥ_)!
 </details>
 </details>
 
@@ -306,7 +306,7 @@ adverse to us and are approaching for a war?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is it indeed befitting (sadṛśaṃ nāma) for the two of you to utter out of season (aprastave) the praise of hostile foes (ripūṇāṃ pratikūlānāṃ stavam) who are marching forth for battle (yuddhārtham abhivartatām)?
+Is it indeed befitting (_sadṛśaṃ nāma_) for the two of you to utter out of season (_aprastave_) the praise of hostile foes (_ripūṇāṃ pratikūlānāṃ stavam_) who are marching forth for battle (_yuddhārtham abhivartatām_)?
 </details>
 </details>
 
@@ -362,7 +362,7 @@ since the essence to be followed from political sciences has not been grasped by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In vain have preceptors, elders, and the aged (ācāryā guravo vṛddhāḥ) been waited upon by you two (vṛthā vāṃ paryupāsitāḥ), since the vital essence of royal treatises (sāraṃ yad rājaśāstrāṇām), by which a courtier must live (anujīvyam), has not been grasped (na gṛhyate)!
+In vain have preceptors, elders, and the aged (_ācāryā guravo vṛddhāḥ_) been waited upon by you two (_vṛthā vāṃ paryupāsitāḥ_), since the vital essence of royal treatises (_sāraṃ yad rājaśāstrāṇām_), by which a courtier must live (_anujīvyam_), has not been grasped (_na gṛhyate_)!
 </details>
 </details>
 
@@ -419,7 +419,7 @@ to retain my sovereignty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or even if grasped, it has not been understood (gṛhīto vā na vijñātaḥ); you merely bear a load of ignorance (bhāro 'jñānasya vāhyate)! Attended by such foolish counselors (īdṛśaiḥ sacivair mūrkhaiḥ), it is by sheer luck that I still endure (diṣṭyā dharāmy aham)!
+Or even if grasped, it has not been understood (_gṛhīto vā na vijñātaḥ_); you merely bear a load of ignorance (_bhāro &#x27;jñānasya vāhyate_)! Attended by such foolish counselors (_īdṛśaiḥ sacivair mūrkhaiḥ_), it is by sheer luck that I still endure (_diṣṭyā dharāmy aham_)!
 </details>
 </details>
 
@@ -472,7 +472,7 @@ you dare tongue dispenses good and evil?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you no fear of death (kiṃ nu mṛtyor bhayaṃ nāsti) in speaking harsh words to me (māṃ vaktuṃ paruṣaṃ vacaḥ), whose tongue, as I rule (yasya me śāsataḥ), dispenses weal and woe (prayacchati śubhāśubham)?
+Have you no fear of death (_kiṃ nu mṛtyor bhayaṃ nāsti_) in speaking harsh words to me (_māṃ vaktuṃ paruṣaṃ vacaḥ_), whose tongue, as I rule (_yasya me śāsataḥ_), dispenses weal and woe (_prayacchati śubhāśubham_)?
 </details>
 </details>
 
@@ -527,7 +527,7 @@ survive, if touched by the royal scepter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Trees in a forest may perchance survive (apy eva tiṣṭhanti pādapāḥ) even after touching fire (dahanaṃ spṛṣṭvā); but offenders touched by the king's rod of punishment (rājadaṇḍaparāmṛṣṭāḥ) do not survive (tiṣṭhante nāparādhinaḥ).
+Trees in a forest may perchance survive (_apy eva tiṣṭhanti pādapāḥ_) even after touching fire (_dahanaṃ spṛṣṭvā_); but offenders touched by the king&#x27;s rod of punishment (_rājadaṇḍaparāmṛṣṭāḥ_) do not survive (_tiṣṭhante nāparādhinaḥ_).
 </details>
 </details>
 
@@ -587,7 +587,7 @@ killed thse two miscreants who are praising the band of enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I would slay these two wretches (hanyām ahaṃ tv imau pāpau) who praise the enemy's faction (śatrupakṣapraśaṃsinau), were it not that my wrath is softened (mṛdutāṃ vrajet) by their past services (pūrvopakāraiḥ)!
+I would slay these two wretches (_hanyām ahaṃ tv imau pāpau_) who praise the enemy&#x27;s faction (_śatrupakṣapraśaṃsinau_), were it not that my wrath is softened (_mṛdutāṃ vrajet_) by their past services (_pūrvopakāraiḥ_)!
 </details>
 </details>
 
@@ -645,7 +645,7 @@ unfaithful towards me, are just as dead to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Begone! Vanish from my presence here (apadhvaṃsata naśyadhvaṃ saṃnikarṣād ito mama)! For I do not wish to slay you two, as I remember your past services (smarāmy upakṛtāni vām); yet as two ingrates (kṛtaghnau dvau) who have turned your backs upon affection for me (mayi snehaparāṅmukhau), you are as good as dead (hatāv eva)!”
+Begone! Vanish from my presence here (_apadhvaṃsata naśyadhvaṃ saṃnikarṣād ito mama_)! For I do not wish to slay you two, as I remember your past services (_smarāmy upakṛtāni vām_); yet as two ingrates (_kṛtaghnau dvau_) who have turned your backs upon affection for me (_mayi snehaparāṅmukhau_), you are as good as dead (_hatāv eva_)!”
 </details>
 </details>
 
@@ -697,7 +697,7 @@ to him saying, "Be thou victorious!" and went away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, those two, Śuka and Sāraṇa, looking upon Rāvaṇa with shame (savrīḍau), saluted him with cries of victory (jayaśabdena pratinandya) and went forth (abhiniḥsṛtau).
+Thus addressed, those two, Śuka and Sāraṇa, looking upon Rāvaṇa with shame (_savrīḍau_), saluted him with cries of victory (_jayaśabdena pratinandya_) and went forth (_abhiniḥsṛtau_).
 </details>
 </details>
 
@@ -755,7 +755,7 @@ spies here quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the night-stalker Daśagrīva spoke to Mahodara, who stood nearby (samīpastham): “Bring spies before me at once (upasthāpaya me śīghraṃ cārān)!” And Mahodara, thus addressed, immediately commanded the spies (śīghram ājñāpayac carān).
+Then the night-stalker Daśagrīva spoke to Mahodara, who stood nearby (_samīpastham_): “Bring spies before me at once (_upasthāpaya me śīghraṃ cārān_)!” And Mahodara, thus addressed, immediately commanded the spies (_śīghram ājñāpayac carān_).
 </details>
 </details>
 
@@ -786,7 +786,7 @@ Then the night-stalker Daśagrīva spoke to Mahodara, who stood nearby (samīpas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the spies, hastening in accordance with the king's command (pārthivaśāsanāt), arrived and stood before him with joined palms (upasthitāḥ prāñjalayaḥ), having offered greetings with blessings of victory (vardhayitvā jayāśiṣaḥ).
+Thereupon the spies, hastening in accordance with the king&#x27;s command (_pārthivaśāsanāt_), arrived and stood before him with joined palms (_upasthitāḥ prāñjalayaḥ_), having offered greetings with blessings of victory (_vardhayitvā jayāśiṣaḥ_).
 </details>
 </details>
 
@@ -836,7 +836,7 @@ approached him, having made a complement expressing their desire to see him vict
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa, overlord of the Rākṣasas, spoke these words to those spies (cārān)—trustworthy (pratyāyikān), heroic, steadfast, and free from fear (vigatasādhvasān):
+Then Rāvaṇa, overlord of the Rākṣasas, spoke these words to those spies (_cārān_)—trustworthy (_pratyāyikān_), heroic, steadfast, and free from fear (_vigatasādhvasān_):
 </details>
 </details>
 
@@ -897,7 +897,7 @@ faithful, brave, energetic and free from fear:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go hence to examine Rāma's strategic resolve (rāmasya vyavasāyaṃ parīkṣitum), and those who are his intimate confidants in counsels (mantreṣv abhyantarā ye 'sya) and have joined him out of affection (prītyā tena samāgatāḥ).
+“Go hence to examine Rāma&#x27;s strategic resolve (_rāmasya vyavasāyaṃ parīkṣitum_), and those who are his intimate confidants in counsels (_mantreṣv abhyantarā ye &#x27;sya_) and have joined him out of affection (_prītyā tena samāgatāḥ_).
 </details>
 </details>
 
@@ -951,7 +951,7 @@ towards him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How he sleeps, how he keeps watch (kathaṃ svapiti jāgarti), and what he intends to do today (kim adya ca kariṣyati)—having ascertained all this with skill (vijñāya nipuṇaṃ sarvam), you must return with a complete report (āgantavyam aśeṣataḥ).
+How he sleeps, how he keeps watch (_kathaṃ svapiti jāgarti_), and what he intends to do today (_kim adya ca kariṣyati_)—having ascertained all this with skill (_vijñāya nipuṇaṃ sarvam_), you must return with a complete report (_āgantavyam aśeṣataḥ_).
 </details>
 </details>
 
@@ -1003,7 +1003,7 @@ You ought to come here, after acquainting with all this information completely a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-An enemy who has been thoroughly reconnoitered through spies (cāreṇa viditaḥ śatruḥ) by wise rulers of the earth (paṇḍitair vasudhādhipaiḥ) is engaged and overthrown in battle with very little effort (svalpena yatnena nirasyate).”
+An enemy who has been thoroughly reconnoitered through spies (_cāreṇa viditaḥ śatruḥ_) by wise rulers of the earth (_paṇḍitair vasudhādhipaiḥ_) is engaged and overthrown in battle with very little effort (_svalpena yatnena nirasyate_).”
 </details>
 </details>
 
@@ -1055,7 +1055,7 @@ little of effort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it!” (tathety uktvā), those delighted spies placed Śārdūla at their head (śārdūlam agrataḥ kṛtvā) and then circumambulated the lord of Rākṣasas (cakruḥ pradakṣiṇam).
+Saying “So be it!” (_tathety uktvā_), those delighted spies placed Śārdūla at their head (_śārdūlam agrataḥ kṛtvā_) and then circumambulated the lord of Rākṣasas (_cakruḥ pradakṣiṇam_).
 </details>
 </details>
 
@@ -1108,7 +1108,7 @@ their front and made their circumambulation clockwise around Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having circumambulated that mighty-souled chief of Rākṣasas (rākṣasasattamam), the spies departed to where Rāma was with Lakṣmaṇa (yatra rāmaḥ salakṣmaṇaḥ).
+Then, having circumambulated that mighty-souled chief of Rākṣasas (_rākṣasasattamam_), the spies departed to where Rāma was with Lakṣmaṇa (_yatra rāmaḥ salakṣmaṇaḥ_).
 </details>
 </details>
 
@@ -1155,7 +1155,7 @@ demon, the spies went to the place where Rama along with Lakshmana were there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going in disguise (pracchannāḥ), they beheld near Mount Suvela (suvelasya śailasya samīpe) Rāma and Lakṣmaṇa together with Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇau).
+Going in disguise (_pracchannāḥ_), they beheld near Mount Suvela (_suvelasya śailasya samīpe_) Rāma and Lakṣmaṇa together with Sugrīva and Vibhīṣaṇa (_sasugrīvavibhīṣaṇau_).
 </details>
 </details>
 
@@ -1215,7 +1215,7 @@ Sugreeva and Vibhishana in the neighbourhood of Mountain Suvela.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they surveyed that army (prekṣamāṇāś camūṃ tām), they became overwhelmed with fear (babhūvur bhayavihvalāḥ). Then those Rākṣasas were spotted by the righteous-souled lord of Rākṣasas (dharmātmanā dṛṣṭā rākṣasendreṇa),—
+As they surveyed that army (_prekṣamāṇāś camūṃ tām_), they became overwhelmed with fear (_babhūvur bhayavihvalāḥ_). Then those Rākṣasas were spotted by the righteous-souled lord of Rākṣasas (_dharmātmanā dṛṣṭā rākṣasendreṇa_),—
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ observed by the high-souled Vibhishana the Lord of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and standing there, they were seized at once by Vibhīṣaṇa (vibhīṣaṇena nigṛhītā yadṛcchayā); the Rākṣasa Śārdūla alone was handed over for seizure (śārdūlo grāhitas tv ekaḥ) with the words, “This one is a wicked villain (pāpo 'yam iti)!”
+—and standing there, they were seized at once by Vibhīṣaṇa (_vibhīṣaṇena nigṛhītā yadṛcchayā_); the Rākṣasa Śārdūla alone was handed over for seizure (_śārdūlo grāhitas tv ekaḥ_) with the words, “This one is a wicked villain (_pāpo &#x27;yam iti_)!”
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ Shardula among them was wicked and got him alone seized.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even he, as he was being beaten by the monkeys (vadhyamānaḥ plavaṃgamaiḥ), was released by Rāma (mocitaḥ so 'pi rāmeṇa); and out of compassion (ānṛśaṃsyena) the other Rākṣasas too were released by Rāma (mocitā rākṣasāḥ pare).
+Even he, as he was being beaten by the monkeys (_vadhyamānaḥ plavaṃgamaiḥ_), was released by Rāma (_mocitaḥ so &#x27;pi rāmeṇa_); and out of compassion (_ānṛśaṃsyena_) the other Rākṣasas too were released by Rāma (_mocitā rākṣasāḥ pare_).
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ Rama. The other demons also were got released by Rama, the kind man.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Harassed by the valorous and swift-striding Vānaras (vānarair arditāḥ), they returned once more to Laṅkā (punar laṅkām anuprāptāḥ), gasping for breath and bereft of their senses (śvasanto naṣṭacetasaḥ).
+Harassed by the valorous and swift-striding Vānaras (_vānarair arditāḥ_), they returned once more to Laṅkā (_punar laṅkām anuprāptāḥ_), gasping for breath and bereft of their senses (_śvasanto naṣṭacetasaḥ_).
 </details>
 </details>
 
@@ -1440,7 +1440,7 @@ insensible, heaved a sigh and reached back Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those mighty night-stalking spies, who ever roamed abroad (bahirnityacarāḥ), presented themselves before Daśagrīva (daśagrīvam upasthitāḥ) and reported Rāma's host encamped near Mount Suvela (gireḥ suvelasya samīpavāsinaṃ rāmabalaṃ nyavedayan).
+Then those mighty night-stalking spies, who ever roamed abroad (_bahirnityacarāḥ_), presented themselves before Daśagrīva (_daśagrīvam upasthitāḥ_) and reported Rāma&#x27;s host encamped near Mount Suvela (_gireḥ suvelasya samīpavāsinaṃ rāmabalaṃ nyavedayan_).
 </details>
 </details>
 

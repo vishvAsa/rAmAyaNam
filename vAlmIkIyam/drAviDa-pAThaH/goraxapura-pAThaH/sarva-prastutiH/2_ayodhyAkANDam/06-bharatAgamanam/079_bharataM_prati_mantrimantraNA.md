@@ -80,7 +80,7 @@ together, spoke to Bharata the following words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at the hour of dawn on the fourteenth day (tataḥ prabhāta-samaye divase 'tha caturdaśe), the kingmakers assembled and spoke these words to Bharata (sametya rāja-kartāro bharataṃ vākyam abruvan):
+Then, at the hour of dawn on the fourteenth day (_tataḥ prabhāta-samaye divase &#x27;tha caturdaśe_), the kingmakers assembled and spoke these words to Bharata (_sametya rāja-kartāro bharataṃ vākyam abruvan_):
 </details>
 </details>
 
@@ -154,9 +154,9 @@ this kingdom has not yet missed the mark, even without a king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Having banished eldest Rāma and Lakṣmaṇa of mighty strength (rāmaṃ pravrājya vai jyeṣṭhaṃ lakṣmaṇaṃ ca mahā-balam), Daśaratha, who was our most venerable preceptor and lord, has gone to heaven (gato daśarathaḥ svargaṃ yo no gurutaro guruḥ).
+**2:** “Having banished eldest Rāma and Lakṣmaṇa of mighty strength (_rāmaṃ pravrājya vai jyeṣṭhaṃ lakṣmaṇaṃ ca mahā-balam_), Daśaratha, who was our most venerable preceptor and lord, has gone to heaven (_gato daśarathaḥ svargaṃ yo no gurutaro guruḥ_).
 
-**3:** “O prince of great renown, become our king today (tvam adya bhava no rājā rāja-putra mahā-yaśaḥ)! Even though left without a ruler, this kingdom has not fallen into ruin, thanks to our concord and providence (saṅgatyā nāparādhnoti rājyam etad anāyakam).
+**3:** “O prince of great renown, become our king today (_tvam adya bhava no rājā rāja-putra mahā-yaśaḥ_)! Even though left without a ruler, this kingdom has not fallen into ruin, thanks to our concord and providence (_saṅgatyā nāparādhnoti rājyam etad anāyakam_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ ministers); *shreNayashcha* = and the citizens; *pratiikshante* = are amiting;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having procured all these requisites for the royal consecration, O Rāghava (abhiṣecanikaṃ sarvam idam ādāya rāghava), your kinsmen and the guilds of citizens await you, O king’s son (pratīkṣate tvāṃ sva-janaḥ śreṇayaś ca nṛpātmaja).
+“Having procured all these requisites for the royal consecration, O Rāghava (_abhiṣecanikaṃ sarvam idam ādāya rāghava_), your kinsmen and the guilds of citizens await you, O king’s son (_pratīkṣate tvāṃ sva-janaḥ śreṇayaś ca nṛpātmaja_).
 </details>
 </details>
 
@@ -261,7 +261,7 @@ succession from your ancestors, coronate yourself and rule us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accept this assured kingdom of your father and grandfather, O Bharata (rājyaṃ gṛhāṇa bharata pitṛ-paitāmahaṃ dhruvam); have yourself consecrated and protect us, O bull among men (abhiṣecaya cātmānaṃ pāhi cāsmān nararṣabha)!”
+“Accept this assured kingdom of your father and grandfather, O Bharata (_rājyaṃ gṛhāṇa bharata pitṛ-paitāmahaṃ dhruvam_); have yourself consecrated and protect us, O bull among men (_abhiṣecaya cātmānaṃ pāhi cāsmān nararṣabha_)!”
 </details>
 </details>
 
@@ -314,7 +314,7 @@ things kept ready for consecration and replied to all those people as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reverently circumambulated all the vessels and regalia of consecration (abhiṣecanikaṃ bhāṇḍaṃ kṛtvā sarvaṃ pradakṣiṇam), Bharata, firm in his vow, answered all those people (bharatas taṃ janaṃ sarvaṃ pratyuvāca dhṛta-vrataḥ):
+Having reverently circumambulated all the vessels and regalia of consecration (_abhiṣecanikaṃ bhāṇḍaṃ kṛtvā sarvaṃ pradakṣiṇam_), Bharata, firm in his vow, answered all those people (_bharatas taṃ janaṃ sarvaṃ pratyuvāca dhṛta-vrataḥ_):
 </details>
 </details>
 
@@ -375,7 +375,7 @@ being the conversant people, ought not to tell in this manner to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In our race, kingship is ever the rightful due of the eldest brother (jyeṣṭhasya rājatā nityam ucitā hi kulasya naḥ); wise men as you are, you ought not to speak thus to me (naivaṃ bhavanto māṃ vaktum arhanti kuśalā janāḥ)!
+“In our race, kingship is ever the rightful due of the eldest brother (_jyeṣṭhasya rājatā nityam ucitā hi kulasya naḥ_); wise men as you are, you ought not to speak thus to me (_naivaṃ bhavanto māṃ vaktum arhanti kuśalā janāḥ_)!
 </details>
 </details>
 
@@ -427,7 +427,7 @@ fourteen years."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāma, our elder brother, shall surely be the lord of the earth (rāmaḥ pūrvo hi no bhrātā bhaviṣyati mahī-patiḥ), while I shall dwell in the forest for nine years and five (ahaṃ tv araṇye vatsyāmi varṣāṇi nava pañca ca).
+“Rāma, our elder brother, shall surely be the lord of the earth (_rāmaḥ pūrvo hi no bhrātā bhaviṣyati mahī-patiḥ_), while I shall dwell in the forest for nine years and five (_ahaṃ tv araṇye vatsyāmi varṣāṇi nava pañca ca_).
 </details>
 </details>
 
@@ -480,7 +480,7 @@ kept ready. I shall bring Rama our elder brother from the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the great fourfold army of mighty strength be marshaled (yujyatāṃ mahatī senā caturaṅga-mahā-balā)! I myself shall bring back my eldest brother Rāghava from the forest (ānayiṣyāmy ahaṃ jyeṣṭhaṃ bhrātaraṃ rāghavaṃ vanāt).
+“Let the great fourfold army of mighty strength be marshaled (_yujyatāṃ mahatī senā caturaṅga-mahā-balā_)! I myself shall bring back my eldest brother Rāghava from the forest (_ānayiṣyāmy ahaṃ jyeṣṭhaṃ bhrātaraṃ rāghavaṃ vanāt_).
 </details>
 </details>
 
@@ -554,9 +554,9 @@ outside the city."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “Placing in the van all these consecrated articles of coronation (abhiṣecanikaṃ caiva sarvam etad upaskṛtaṃ puraskṛtya), I shall set forth to the forest for Rāma’s sake (gamiṣyāmi rāma-hetor vanaṃ prati).
+**10:** “Placing in the van all these consecrated articles of coronation (_abhiṣecanikaṃ caiva sarvam etad upaskṛtaṃ puraskṛtya_), I shall set forth to the forest for Rāma’s sake (_gamiṣyāmi rāma-hetor vanaṃ prati_).
 
-**11:** “Having consecrated that honored tiger among men right there in the forest (tatraivaṃ taṃ nara-vyāghram abhiṣicya puraskṛtam), I shall bring Rāma back, even as the sacrificial fire is borne from the hall of sacrifice (āneṣyāmi tu vai rāmaṃ havya-vāham ivādhvarāt).
+**11:** “Having consecrated that honored tiger among men right there in the forest (_tatraivaṃ taṃ nara-vyāghram abhiṣicya puraskṛtam_), I shall bring Rāma back, even as the sacrificial fire is borne from the hall of sacrifice (_āneṣyāmi tu vai rāmaṃ havya-vāham ivādhvarāt_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ impassable forest. Rama will become the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall never fulfill the desire of this woman who is my mother in name alone (na sakāmāṃ kariṣyāmi svām imāṃ mātṛ-gandhinīm); I shall dwell in the impassable forest, and Rāma shall be king (vane vatsyāmy ahaṃ durge rāmo rājā bhaviṣyati)!
+“I shall never fulfill the desire of this woman who is my mother in name alone (_na sakāmāṃ kariṣyāmi svām imāṃ mātṛ-gandhinīm_); I shall dwell in the impassable forest, and Rāma shall be king (_vane vatsyāmy ahaṃ durge rāmo rājā bhaviṣyati_)!
 </details>
 </details>
 
@@ -671,7 +671,7 @@ path."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let a highway be constructed by the artisans, and let the rough and uneven places be made level (kriyatāṃ śilpibhiḥ panthāḥ samāni viṣamāṇi ca); and let guards skilled in scouting difficult terrain march along the route (rakṣiṇaś cānusamyāntu pathi durga-vicārakāḥ)!”
+“Let a highway be constructed by the artisans, and let the rough and uneven places be made level (_kriyatāṃ śilpibhiḥ panthāḥ samāni viṣamāṇi ca_); and let guards skilled in scouting difficult terrain march along the route (_rakṣiṇaś cānusamyāntu pathi durga-vicārakāḥ_)!”
 </details>
 </details>
 
@@ -724,7 +724,7 @@ replied in the following illustrious and excellent words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that king’s son who was speaking thus for Rāma’s sake (evaṃ sambhāṣamāṇaṃ taṃ rāma-hetor nṛpātmajam), all the people replied with an auspicious and peerless speech (pratyuvāca janaḥ sarvaḥ śrīmad-vākyam anuttamam):
+To that king’s son who was speaking thus for Rāma’s sake (_evaṃ sambhāṣamāṇaṃ taṃ rāma-hetor nṛpātmajam_), all the people replied with an auspicious and peerless speech (_pratyuvāca janaḥ sarvaḥ śrīmad-vākyam anuttamam_):
 </details>
 </details>
 
@@ -780,7 +780,7 @@ desirous of giving kingdom to Rama the eldest son of the king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May Padmā, the goddess of royal fortune Śrī, ever attend upon you as you speak thus (evaṃ te bhāṣamāṇasya padmā śrīr upatiṣṭhatāt), since you desire to restore the earth to the eldest son of the king (yas tvaṃ jyeṣṭhe nṛpa-sute pṛthivīṃ dātum icchasi)!”
+“May Padmā, the goddess of royal fortune Śrī, ever attend upon you as you speak thus (_evaṃ te bhāṣamāṇasya padmā śrīr upatiṣṭhatāt_), since you desire to restore the earth to the eldest son of the king (_yas tvaṃ jyeṣṭhe nṛpa-sute pṛthivīṃ dātum icchasi_)!”
 </details>
 </details>
 
@@ -839,7 +839,7 @@ of joy fell from the face and eyes of those venerable men.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing at that solemn pledge that peerless speech spoken by the king’s son (anuttamaṃ tad vacanaṃ nṛpātmaja-prabhāṣitaṃ saṃśravaṇe niśamya ca), tears born of supreme joy, springing from the eyes upon the faces of those noble men, fell toward him (praharṣa-jās taṃ prati bāṣpa-bindavo nipetur āryānana-netra-sambhavāḥ).
+Hearing at that solemn pledge that peerless speech spoken by the king’s son (_anuttamaṃ tad vacanaṃ nṛpātmaja-prabhāṣitaṃ saṃśravaṇe niśamya ca_), tears born of supreme joy, springing from the eyes upon the faces of those noble men, fell toward him (_praharṣa-jās taṃ prati bāṣpa-bindavo nipetur āryānana-netra-sambhavāḥ_).
 </details>
 </details>
 
@@ -912,7 +912,7 @@ devoted men and a group of artisans have been instructed to make the path-way."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that speech, with their sorrow dispelled and their hearts gladdened, the people together with the ministers and the assembly spoke these words (ūcus te vacanam idaṃ niśamya hṛṣṭāḥ sāmātyāḥ sapariṣado viyāta-śokāḥ): “O best of men, at your command the devoted body of citizens and the guild of artisans have been commissioned to construct the highway (panthānaṃ nara-vara bhaktimān janaś ca vyādiṣṭas tava vacanāc ca śilpi-vargaḥ)!”
+Having heard that speech, with their sorrow dispelled and their hearts gladdened, the people together with the ministers and the assembly spoke these words (_ūcus te vacanam idaṃ niśamya hṛṣṭāḥ sāmātyāḥ sapariṣado viyāta-śokāḥ_): “O best of men, at your command the devoted body of citizens and the guild of artisans have been commissioned to construct the highway (_panthānaṃ nara-vara bhaktimān janaś ca vyādiṣṭas tava vacanāc ca śilpi-vargaḥ_)!”
 </details>
 </details>
 

@@ -92,7 +92,7 @@ that may disrupt soon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the delight of the Raghus had set out after taking leave of Sutīkṣṇa (sutīkṣṇenābhyanujñātam), [Sītā] spoke these words to her husband in a winning and affectionate voice (hṛdyayā snigdhayā vācā):
+When the delight of the Raghus had set out after taking leave of Sutīkṣṇa (_sutīkṣṇenābhyanujñātam_), [Sītā] spoke these words to her husband in a winning and affectionate voice (_hṛdyayā snigdhayā vācā_):
 </details>
 </details>
 
@@ -153,7 +153,7 @@ performed in a different way...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even a great soul incurs unrighteousness (adharmam) through a subtle course [when lacking scrutiny]; yet here [in the forest] this [exalted dharma] can be attained by one who has turned away from desire-born vice (vyasanāt kāmajāt).
+“Even a great soul incurs unrighteousness (_adharmam_) through a subtle course [when lacking scrutiny]; yet here [in the forest] this [exalted _dharma_] can be attained by one who has turned away from desire-born vice (_vyasanāt kāmajāt_).
 </details>
 </details>
 
@@ -243,9 +243,9 @@ oh, Raghava, then wherefrom the virtue-ruining desire for other's women can be t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Threefold indeed are the vices born of desire (vyasanāni kāmajāni) in this world: falsehood of speech (mithyā-vākyam) is the first and foremost, and yet more grievous than that are the other two—
+**3:** Threefold indeed are the vices born of desire (_vyasanāni kāmajāni_) in this world: falsehood of speech (_mithyā-vākyam_) is the first and foremost, and yet more grievous than that are the other two—
 
-**4:** Approaching another’s wife (para-dārābhigamanam), and ruthless violence without enmity (vinā vairaṃ ca raudratā). Falsehood of speech, O Rāghava, has never been yours, nor shall it ever be.
+**4:** Approaching another’s wife (_para-dārābhigamanam_), and ruthless violence without enmity (_vinā vairaṃ ca raudratā_). Falsehood of speech, O Rāghava, has never been yours, nor shall it ever be.
 </details>
 </details>
 
@@ -332,11 +332,11 @@ nay everything is established in you... [3-9-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Whence, then, could there be any coveting of other men’s wives (strīṇāṃ pareṣām), which destroys righteousness (dharma-nāśanam)? It does not exist in you, O lord of men, nor has it ever existed in you at any time.
+**5:** Whence, then, could there be any coveting of other men’s wives (_strīṇāṃ pareṣām_), which destroys righteousness (_dharma-nāśanam_)? It does not exist in you, O lord of men, nor has it ever existed in you at any time.
 
-**6:** Even in thought (manasy api), O Rāma, this is never found in you anywhere; for you are ever devoted solely to your own wedded wife (sva-dāra-nirataḥ), O prince.
+**6:** Even in thought (_manasy api_), O Rāma, this is never found in you anywhere; for you are ever devoted solely to your own wedded wife (_sva-dāra-nirataḥ_), O prince.
 
-**7:** Most righteous (dharmiṣṭhaḥ), true to your promise (satya-saṃdhaḥ), and obedient to your father’s command (pitur nirdeśa-kārakaḥ), in you rests righteousness and truth—in you is everything firmly established.
+**7:** Most righteous (_dharmiṣṭhaḥ_), true to your promise (_satya-saṃdhaḥ_), and obedient to your father’s command (_pitur nirdeśa-kārakaḥ_), in you rests righteousness and truth—in you is everything firmly established.
 </details>
 </details>
 
@@ -394,7 +394,7 @@ to me...' so says Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All that, O mighty-armed one, can be upheld only by those who have conquered their senses (jitendriyaiḥ); and I know well your mastery over your senses (vaśyendriyatvam), O prince of auspicious aspect.
+All that, O mighty-armed one, can be upheld only by those who have conquered their senses (_jitendriyaiḥ_); and I know well your mastery over your senses (_vaśyendriyatvam_), O prince of auspicious aspect.
 </details>
 </details>
 
@@ -446,7 +446,7 @@ unwarily, has now suddenly chanced before you... [3-9-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet this third terrible vice—the slaughter of others’ lives (para-prāṇābhihiṃsanam) committed out of delusion without enmity (nirvairam)—has now presented itself before you.
+Yet this third terrible vice—the slaughter of others’ lives (_para-prāṇābhihiṃsanam_) committed out of delusion without enmity (_nirvairam_)—has now presented itself before you.
 </details>
 </details>
 
@@ -497,7 +497,7 @@ that you would eliminate demons in a fight... [3-9-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the protection of the sages dwelling in the Daṇḍaka forest, O hero, the slaying of the rākṣasas in battle (saṃyati) has been promised by you (pratijñātas tvayā).
+For the protection of the sages dwelling in the Daṇḍaka forest, O hero, the slaying of the _rākṣasas_ in battle (_saṃyati_) has been promised by you (_pratijñātas tvayā_).
 </details>
 </details>
 
@@ -548,7 +548,7 @@ and wielding bow and arrows...[3-9-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And for this very purpose (etan-nimittam) you have set out with your brother for the forest renowned as Daṇḍakā, bearing arrows and bow (dhṛta-bāṇa-śarāsanaḥ).
+And for this very purpose (_etan-nimittam_) you have set out with your brother for the forest renowned as Daṇḍakā, bearing arrows and bow (_dhṛta-bāṇa-śarāsanaḥ_).
 </details>
 </details>
 
@@ -618,7 +618,7 @@ the associated troubles which you are going to undergo..."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, beholding you setting forth, my mind is troubled with anxiety (cintākulam), as I ponder your conduct (tvad-vṛttam) and what may truly conduce to your highest welfare and good (niḥśreyasaṃ hitam).
+Therefore, beholding you setting forth, my mind is troubled with anxiety (_cintākulam_), as I ponder your conduct (_tvad-vṛttam_) and what may truly conduce to your highest welfare and good (_niḥśreyasaṃ hitam_).
 </details>
 </details>
 
@@ -661,7 +661,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, O hero, your going toward the Daṇḍaka forest does not please me (nahi me rocate); I shall tell you the reason thereof—pray hear it from me as I speak.
+Indeed, O hero, your going toward the Daṇḍaka forest does not please me (_nahi me rocate_); I shall tell you the reason thereof—pray hear it from me as I speak.
 </details>
 </details>
 
@@ -733,7 +733,7 @@ ramblers there, won't you deplete arrows on all of them... [3-9-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For when you have gone to the forest with your brother bearing arrows and bow in hand (bāṇa-dhanuṣ-pāṇiḥ), upon beholding all the forest-roamers (vanacarān), might you not discharge your shafts (kuryāḥ śara-vyayam)?
+For when you have gone to the forest with your brother bearing arrows and bow in hand (_bāṇa-dhanuṣ-pāṇiḥ_), upon beholding all the forest-roamers (_vanacarān_), might you not discharge your shafts (_kuryāḥ śara-vyayam_)?
 </details>
 </details>
 
@@ -788,7 +788,7 @@ their strength... [3-9-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A bow for kṣatriyas here, and fuel for a blazing fire (hutāśasyendhanāni ca), when lying close at hand (samīpataḥ sthitam), greatly heighten the force of their fiery energy (tejo-balam).
+A bow for _kṣatriyas_ here, and fuel for a blazing fire (_hutāśasyendhanāni ca_), when lying close at hand (_samīpataḥ sthitam_), greatly heighten the force of their fiery energy (_tejo-balam_).
 </details>
 </details>
 
@@ -842,7 +842,7 @@ that was wonted by animals and birds... [3-9-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Long ago, they say (purā kila), O mighty-armed one, there lived a pure and truthful ascetic (tapasvī satyavān śuciḥ) in a certain sacred forest wherein deer and birds delighted (rata-mṛga-dvije).
+Long ago, they say (_purā kila_), O mighty-armed one, there lived a pure and truthful ascetic (_tapasvī satyavān śuciḥ_) in a certain sacred forest wherein deer and birds delighted (_rata-mṛga-dvije_).
 </details>
 </details>
 
@@ -896,7 +896,7 @@ to that hermit's ascesis... [3-9-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To obstruct his penance (tapaso vighnaṃ kartum), Indra, lord of Śacī, then came to that hermitage sword in hand (khaḍga-pāṇiḥ), wearing the guise of a soldier (bhaṭa-rūpa-dhṛk).
+To obstruct his penance (_tapaso vighnaṃ kartum_), Indra, lord of Śacī, then came to that hermitage sword in hand (_khaḍga-pāṇiḥ_), wearing the guise of a soldier (_bhaṭa-rūpa-dhṛk_).
 </details>
 </details>
 
@@ -950,7 +950,7 @@ on a redeemable basis... [3-9-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that hermitage precinct an excellent sword was deposited by him (nihitaḥ khaḍga uttamaḥ), given by way of trust (nyāsa-vidhinā) to that sage who abided in sacred penance.
+In that hermitage precinct an excellent sword was deposited by him (_nihitaḥ khaḍga uttamaḥ_), given by way of trust (_nyāsa-vidhinā_) to that sage who abided in sacred penance.
 </details>
 </details>
 
@@ -1010,7 +1010,7 @@ handling the sword, to safeguard the confidence reposed in him... [3-9-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having received that weapon, intent on guarding the deposit (nyāsa-rakṣaṇa-tatparaḥ), he roamed through the forest, preserving his trustworthiness (rakṣan pratyayam ātmanaḥ).
+Having received that weapon, intent on guarding the deposit (_nyāsa-rakṣaṇa-tatparaḥ_), he roamed through the forest, preserving his trustworthiness (_rakṣan pratyayam ātmanaḥ_).
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ not go without that sword... [3-9-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wherever he went to gather roots and fruits (upādātuṃ mūlāni ca phalāni ca), he never went without that sword, intent on guarding the trust.
+Wherever he went to gather roots and fruits (_upādātuṃ mūlāni ca phalāni ca_), he never went without that sword, intent on guarding the trust.
 </details>
 </details>
 
@@ -1109,7 +1109,7 @@ in ascesis... [3-9-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Constantly carrying that weapon about (nityaṃ śastraṃ parivahan), little by little that ascetic whose wealth was penance (tapo-dhanaḥ) made his mind ruthless (raudrīṃ svāṃ buddhim), abandoning his resolve in penance.
+Constantly carrying that weapon about (_nityaṃ śastraṃ parivahan_), little by little that ascetic whose wealth was penance (_tapo-dhanaḥ_) made his mind ruthless (_raudrīṃ svāṃ buddhim_), abandoning his resolve in penance.
 </details>
 </details>
 
@@ -1161,7 +1161,7 @@ by vice he went to hell... [3-9-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, delighting in fierce deeds (raudrābhirataḥ), heedless (pramattaḥ), and dragged down by unrighteousness (adharma-karṣitaḥ), through constant association with that weapon (śastrasya saṃvāsāt) the sage went to hell (narakam).
+Then, delighting in fierce deeds (_raudrābhirataḥ_), heedless (_pramattaḥ_), and dragged down by unrighteousness (_adharma-karṣitaḥ_), through constant association with that weapon (_śastrasya saṃvāsāt_) the sage went to hell (_narakam_).
 </details>
 </details>
 
@@ -1213,7 +1213,7 @@ the sequel of constant association with weapon is as good as constant associatio
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus happened this ancient story (purā-vṛttam) caused by contact with a weapon (śastra-saṃyoga-kāraṇam); for contact with a weapon is declared to be a cause [of transformation] just like contact with fire (agni-saṃyogavad dhetuḥ).
+Thus happened this ancient story (_purā-vṛttam_) caused by contact with a weapon (_śastra-saṃyoga-kāraṇam_); for contact with a weapon is declared to be a cause [of transformation] just like contact with fire (_agni-saṃyogavad dhetuḥ_).
 </details>
 </details>
 
@@ -1283,9 +1283,9 @@ undesirable is the killing of offenceless... [3-9-24, 25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Out of both affection and high esteem (snehāc ca bahumānāc ca) I remind you—nay, I even counsel you (smāraye tvāṃ tu śikṣaye): holding bow in hand, that [mind] must in no wise be entertained by you—
+**24:** Out of both affection and high esteem (_snehāc ca bahumānāc ca_) I remind you—nay, I even counsel you (_smāraye tvāṃ tu śikṣaye_): holding bow in hand, that [mind] must in no wise be entertained by you—
 
-**25:** [Namely,] the intent (buddhiḥ) to slay without enmity the rākṣasas who dwell in Daṇḍakā; for the world, O hero, will never approve (loko vīra na maṃsyate) of slaying anyone without offense (aparādhaṃ vinā).
+**25:** [Namely,] the intent (_buddhiḥ_) to slay without enmity the _rākṣasas_ who dwell in Daṇḍakā; for the world, O hero, will never approve (_loko vīra na maṃsyate_) of slaying anyone without offense (_aparādhaṃ vinā_).
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ next chapter at 3-10-3, Rama retorts with the same expression in answering Seeth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For heroic kṣatriyas of self-controlled minds dwelling in the forests (vaneṣu niyatātmanām), this much alone is to be accomplished with the bow: the protection of the afflicted (ārtānām abhirakṣaṇam).
+For heroic _kṣatriyas_ of self-controlled minds dwelling in the forests (_vaneṣu niyatātmanām_), this much alone is to be accomplished with the bow: the protection of the afflicted (_ārtānām abhirakṣaṇam_).
 </details>
 </details>
 
@@ -1400,7 +1400,7 @@ this is inconsistent... let us esteem the laws of the land... [3-9-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Where is the weapon and where the forest? Where is martial valour (kṣātram) and where austerity (tapaḥ)? These are mutually contradictory for us (vyāviddham idam asmābhiḥ); let the law of this place be honoured (deśa-dharmas tu pūjyatām).
+Where is the weapon and where the forest? Where is martial valour (_kṣātram_) and where austerity (_tapaḥ_)? These are mutually contradictory for us (_vyāviddham idam asmābhiḥ_); let the law of this place be honoured (_deśa-dharmas tu pūjyatām_).
 </details>
 </details>
 
@@ -1455,7 +1455,7 @@ on going to Ayodhya again... [3-9-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From recourse to weapons (śastra-sevanāt) arises a turbid and ignoble mind (kadarya-kaluṣā buddhiḥ); when you have returned once more to Ayodhyā, you shall practise the duty of a kṣatriya (kṣatra-dharmam).
+From recourse to weapons (_śastra-sevanāt_) arises a turbid and ignoble mind (_kadarya-kaluṣā buddhiḥ_); when you have returned once more to Ayodhyā, you shall practise the duty of a _kṣatriya_ (_kṣatra-dharmam_).
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ devout sage even after forfeiture of kingdom... [3-9-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Imperishable indeed would be the joy (akṣayā tu bhavet prītiḥ) of my mother-in-law and father-in-law (śvaśrū-śvaśurayor mama), if, having renounced the kingdom, you were to abide as a devoted sage (nirato muniḥ).
+Imperishable indeed would be the joy (_akṣayā tu bhavet prītiḥ_) of my mother-in-law and father-in-law (_śvaśrū-śvaśurayor mama_), if, having renounced the kingdom, you were to abide as a devoted sage (_nirato muniḥ_).
 </details>
 </details>
 
@@ -1570,7 +1570,7 @@ achieved, and this universe is the essence of probity... [3-9-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From righteousness springs wealth (dharmād arthaḥ prabhavati), from righteousness springs happiness (sukham); through righteousness one obtains everything—this whole world has righteousness for its essence (dharma-sāram idaṃ jagat).
+From righteousness springs wealth (_dharmād arthaḥ prabhavati_), from righteousness springs happiness (_sukham_); through righteousness one obtains everything—this whole world has righteousness for its essence (_dharma-sāram idaṃ jagat_).
 </details>
 </details>
 
@@ -1625,7 +1625,7 @@ sublimity... unachievable is pleasure by pleasuring alone... [3-9-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Chastening the self with effort by various ascetic observances (niyamais tais taiḥ), righteousness is attained by the wise (nipuṇaiḥ); one never attains true happiness through mere pleasure (na sukhāl labhate sukham).
+Chastening the self with effort by various ascetic observances (_niyamais tais taiḥ_), righteousness is attained by the wise (_nipuṇaiḥ_); one never attains true happiness through mere pleasure (_na sukhāl labhate sukham_).
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ forests... you know everything in all the three worlds, in all its nuances... [3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ever pure of mind (nityaṃ śuci-matiḥ), O gentle one, practise righteousness in the penance-grove; for everything—even the three worlds (trailokyam api)—is known to you in its true essence (tattvataḥ).
+Ever pure of mind (_nityaṃ śuci-matiḥ_), O gentle one, practise righteousness in the penance-grove; for everything—even the three worlds (_trailokyam api_)—is known to you in its true essence (_tattvataḥ_).
 </details>
 </details>
 
@@ -1747,7 +1747,7 @@ along with your brother, and what that is appropriate, you do it...but not belat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of womanly lightness (strī-cāpalāt) has this been spoken by me; for who is competent to expound righteousness to you? Having deliberated with your intellect together with your younger brother (sahānujena), do without delay whatever pleases you.”
+Out of womanly lightness (_strī-cāpalāt_) has this been spoken by me; for who is competent to expound righteousness to you? Having deliberated with your intellect together with your younger brother (_sahānujena_), do without delay whatever pleases you.”
 </details>
 </details>
 

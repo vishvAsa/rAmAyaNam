@@ -77,7 +77,7 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, whose syllables were choked and faltering with paternal affection (snehaparyākulākṣaram), Kauśika (Viśvāmitra), filled with wrath (samanyuḥ), spoke in reply to the lord of the earth.
+Hearing that speech of his, whose syllables were choked and faltering with paternal affection (_snehaparyākulākṣaram_), Kauśika (Viśvāmitra), filled with wrath (_samanyuḥ_), spoke in reply to the lord of the earth.
 </details>
 </details>
 
@@ -192,7 +192,7 @@ Hearing that speech of his, whose syllables were choked and faltering with pater
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having first promised the object of my request (pūrvam arthaṃ pratiśrutya), you now wish to abandon your solemn pledge (pratijñāṃ hātum icchasi)! This reversal (viparyayaḥ) is unworthy of the Rāghavas and brings ruin upon this royal house.
+“Having first promised the object of my request (_pūrvam arthaṃ pratiśrutya_), you now wish to abandon your solemn pledge (_pratijñāṃ hātum icchasi_)! This reversal (_viparyayaḥ_) is unworthy of the Rāghavas and brings ruin upon this royal house.
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Hearing that speech of his, whose syllables were choked and faltering with pater
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this course seems fitting and bearable to you (yadīdaṃ te kṣamam), O King, I shall depart just as I came (gamiṣyāmi yathāgatam). With your pledge proven false (mithyāpratijñaḥ), O Kākutstha, live happily surrounded by your friends (sukhī bhava suhṛdvṛtaḥ)!”
+“If this course seems fitting and bearable to you (_yadīdaṃ te kṣamam_), O King, I shall depart just as I came (_gamiṣyāmi yathāgatam_). With your pledge proven false (_mithyāpratijñaḥ_), O Kākutstha, live happily surrounded by your friends (_sukhī bhava suhṛdvṛtaḥ_)!”
 </details>
 </details>
 
@@ -300,7 +300,7 @@ When that prudent sage Vishvamitra is thus enwrapped in fury, then the whole ear
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the wise Viśvāmitra was thus seized with wrath (roṣaparītasya), the entire earth trembled (cacāla vasudhā kṛtsnā), and a great fear arose among the gods (devānāṃ ca bhayaṃ mahat).
+As the wise Viśvāmitra was thus seized with wrath (_roṣaparītasya_), the entire earth trembled (_cacāla vasudhā kṛtsnā_), and a great fear arose among the gods (_devānāṃ ca bhayaṃ mahat_).
 </details>
 </details>
 
@@ -347,7 +347,7 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving that the entire universe had grown utterly terrified (trastarūpaṃ tu vijñāya jagat sarvam), the great sage Vasiṣṭha, firm in vow (suvrato) and steadfast in mind (dhīro), spoke these words to the king:
+Perceiving that the entire universe had grown utterly terrified (_trastarūpaṃ tu vijñāya jagat sarvam_), the great sage Vasiṣṭha, firm in vow (_suvrato_) and steadfast in mind (_dhīro_), spoke these words to the king:
 </details>
 </details>
 
@@ -395,7 +395,7 @@ Perceiving that the entire universe had grown utterly terrified (trastarūpaṃ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Born in the lineage of the Ikṣvākus, you are like a second Dharma incarnate before our eyes (sākṣād dharma ivāparaḥ). Endowed with fortitude (dhṛtimān), noble vows (suvrataḥ), and royal majesty (śrīmān), you ought not to abandon dharma (na dharmaṃ hātum arhasi).
+“Born in the lineage of the Ikṣvākus, you are like a second Dharma incarnate before our eyes (_sākṣād dharma ivāparaḥ_). Endowed with fortitude (_dhṛtimān_), noble vows (_suvrataḥ_), and royal majesty (_śrīmān_), you ought not to abandon _dharma_ (_na dharmaṃ hātum arhasi_).
 </details>
 </details>
 
@@ -456,7 +456,7 @@ Vasiṣṭha warns that breaking a pledged word destroys all merit of Vedic sacr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Renowned throughout the three worlds as ‘Rāghava, whose very soul is dharma’ (dharmātmā iti rāghavaḥ), uphold your own bounden duty (svadharmaṃ pratipadyasva); you ought not to bear the burden of unrighteousness (nādharmaṃ voḍhum arhasi).
+“Renowned throughout the three worlds as ‘Rāghava, whose very soul is _dharma_’ (_dharmātmā iti rāghavaḥ_), uphold your own bounden duty (_svadharmaṃ pratipadyasva_); you ought not to bear the burden of unrighteousness (_nādharmaṃ voḍhum arhasi_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ In some Vedic rituals activates for social service are undertaken, and they are
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For one who has promised, ‘I shall do so’ (pratiśrutya kariṣyeti), yet fails to fulfill his spoken word (uktaṃ vākyam akurvataḥ), the merit of all his Vedic sacrifices and charitable public works is destroyed (iṣṭāpūrtavadho bhūyāt); therefore, send Rāma forth (tasmād rāmaṃ visarjaya)!
+“For one who has promised, ‘I shall do so’ (_pratiśrutya kariṣyeti_), yet fails to fulfill his spoken word (_uktaṃ vākyam akurvataḥ_), the merit of all his Vedic sacrifices and charitable public works is destroyed (_iṣṭāpūrtavadho bhūyāt_); therefore, send Rāma forth (_tasmād rāmaṃ visarjaya_)!
 </details>
 </details>
 
@@ -563,7 +563,7 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether he is already trained in missiles or yet untrained (kṛtāstram akṛtāstraṃ vā), the rākṣasas will never be able to overpower him when he is guarded by Kuśika’s son (guptaṃ kuśikaputreṇa), any more than they could touch ambrosia encircled by blazing fire (jvalanenāmṛtaṃ yathā).
+“Whether he is already trained in missiles or yet untrained (_kṛtāstram akṛtāstraṃ vā_), the rākṣasas will never be able to overpower him when he is guarded by Kuśika’s son (_guptaṃ kuśikaputreṇa_), any more than they could touch ambrosia encircled by blazing fire (_jvalanenāmṛtaṃ yathā_).
 </details>
 </details>
 
@@ -615,7 +615,7 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is dharma incarnate in bodily form (vigrahavān dharmaḥ); he is the foremost of the mighty (vīryavatāṃ varaḥ); he surpasses all in the world in sacred knowledge (vidyādhiko loke), and he is the supreme abode of asceticism (tapasaś ca parāyaṇam).
+“He is _dharma_ incarnate in bodily form (_vigrahavān dharmaḥ_); he is the foremost of the mighty (_vīryavatāṃ varaḥ_); he surpasses all in the world in sacred knowledge (_vidyādhiko loke_), and he is the supreme abode of asceticism (_tapasaś ca parāyaṇam_).
 </details>
 </details>
 
@@ -664,7 +664,7 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He knows all the manifold celestial missiles (eṣo ’strān vividhān vetti) across the three worlds with all their moving and unmoving beings; no other man knows them as he does (nainam anyaḥ pumān vetti), nor shall any ever know them hereafter (na ca vetsyanti kecana)—
+“He knows all the manifold celestial missiles (_eṣo ’strān vividhān vetti_) across the three worlds with all their moving and unmoving beings; no other man knows them as he does (_nainam anyaḥ pumān vetti_), nor shall any ever know them hereafter (_na ca vetsyanti kecana_)—
 </details>
 </details>
 
@@ -712,7 +712,7 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither the gods, nor any of the sages, nor the immortals, nor the rākṣasas, nor the chiefs of the gandharvas and yakṣas together with the kinnaras and great serpents (sakinnaramahoragāḥ).
+“Neither the gods, nor any of the sages, nor the immortals, nor the rākṣasas, nor the chiefs of the gandharvas and yakṣas together with the kinnaras and great serpents (_sakinnaramahoragāḥ_).
 </details>
 </details>
 
@@ -768,7 +768,7 @@ Vasiṣṭha recounts the divine lineage of the hundred celestial missiles—bor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All those missiles—the supremely righteous sons of Prajāpati Kṛśāśva (kṛśāśvasya putrāḥ paramadhārmikāḥ)—were bestowed upon Kauśika in days of yore when he ruled his kingdom (yadā rājyaṃ praśāsati).
+“All those missiles—the supremely righteous sons of Prajāpati Kṛśāśva (_kṛśāśvasya putrāḥ paramadhārmikāḥ_)—were bestowed upon Kauśika in days of yore when he ruled his kingdom (_yadā rājyaṃ praśāsati_).
 </details>
 </details>
 
@@ -821,7 +821,7 @@ Vasiṣṭha recounts the divine lineage of the hundred celestial missiles—bor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those sons of Kṛśāśva, born of the two daughters of Prajāpati Dakṣa (prajāpatisutāsutāḥ), assume manifold forms (naikarūpāḥ), possess immense valor (mahāvīryāḥ), blaze with splendor (dīptimantaḥ), and bring unfailing victory (jayāvahāḥ).
+“Those sons of Kṛśāśva, born of the two daughters of Prajāpati Dakṣa (_prajāpatisutāsutāḥ_), assume manifold forms (_naikarūpāḥ_), possess immense valor (_mahāvīryāḥ_), blaze with splendor (_dīptimantaḥ_), and bring unfailing victory (_jayāvahāḥ_).
 </details>
 </details>
 
@@ -877,7 +877,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Jayā and Suprabhā were the two slender-waisted daughters of Dakṣa (dakṣakanye sumadhyame); those two gave birth to a hundred supremely radiant missiles and weapons (śataṃ paramabhāsvaram).
+“Jayā and Suprabhā were the two slender-waisted daughters of Dakṣa (_dakṣakanye sumadhyame_); those two gave birth to a hundred supremely radiant missiles and weapons (_śataṃ paramabhāsvaram_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained a divine boon (labdhavarā), Jayā bore fifty pre-eminent sons (pañcāśataṃ sutāṃl lebhe varān) of immeasurable might and transcendent form (aprameyānurūpiṇaḥ) for the destruction of the armies of the asuras (vadhāyāsurasainyānām).
+“Having obtained a divine boon (_labdhavarā_), Jayā bore fifty pre-eminent sons (_pañcāśataṃ sutāṃl lebhe varān_) of immeasurable might and transcendent form (_aprameyānurūpiṇaḥ_) for the destruction of the armies of the _asuras_ (_vadhāyāsurasainyānām_).
 </details>
 </details>
 
@@ -987,7 +987,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Suprabhā likewise gave birth to another fifty sons named the Saṃhāras (‘Withdrawers/Destroyers’, saṃhārān nāma)—unassailable (durdharṣān), irresistible (durākrāmān), and exceedingly mighty (balīyasaḥ).
+“And Suprabhā likewise gave birth to another fifty sons named the _Saṃhāras_ (‘Withdrawers/Destroyers’, _saṃhārān nāma_)—unassailable (_durdharṣān_), irresistible (_durākrāmān_), and exceedingly mighty (_balīyasaḥ_).
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This son of Kuśika knows all those missiles in their true essence (tāni cāstrāṇi vetty eṣa yathāvat), and this knower of dharma is furthermore capable of creating entirely new, unprecedented missiles (apūrvāṇāṃ ca janane śakto bhūyaś ca).
+“This son of Kuśika knows all those missiles in their true essence (_tāni cāstrāṇi vetty eṣa yathāvat_), and this knower of _dharma_ is furthermore capable of creating entirely new, unprecedented missiles (_apūrvāṇāṃ ca janane śakto bhūyaś ca_).
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Rāghava, nothing whatsoever—whether past (bhūtam) or future (bhavyam)—is unknown (na kiñcid asty aviditam) to this high-souled chief of sages who knows the essence of dharma.
+“Therefore, O Rāghava, nothing whatsoever—whether past (_bhūtam_) or future (_bhavyam_)—is unknown (_na kiñcid asty aviditam_) to this high-souled chief of sages who knows the essence of _dharma_.
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of such valor (evaṃvīryaḥ), great fiery splendor (mahātejāḥ), and vast renown (mahāyaśāḥ) is Viśvāmitra; therefore, O King, you ought not to harbor any doubt or hesitation regarding Rāma’s departure (na rāmagamane rājan saṃśayaṃ gantum arhasi).
+“Of such valor (_evaṃvīryaḥ_), great fiery splendor (_mahātejāḥ_), and vast renown (_mahāyaśāḥ_) is Viśvāmitra; therefore, O King, you ought not to harbor any doubt or hesitation regarding Rāma’s departure (_na rāmagamane rājan saṃśayaṃ gantum arhasi_).
 </details>
 </details>
 
@@ -1192,7 +1192,7 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Although the son of Kuśika is himself fully capable of subduing those rākṣasas (teṣāṃ nigrahaṇe śaktaḥ svayaṃ ca), it is solely for the welfare and glory of your son (tava putrahitārthāya) that he has come to you and entreats you (tvām upetyābhiyācate).”
+“Although the son of Kuśika is himself fully capable of subduing those rākṣasas (_teṣāṃ nigrahaṇe śaktaḥ svayaṃ ca_), it is solely for the welfare and glory of your son (_tava putrahitārthāya_) that he has come to you and entreats you (_tvām upetyābhiyācate_).”
 </details>
 </details>
 
@@ -1263,7 +1263,7 @@ Thus the prominent king from Raghu dynasty, namely Dasharatha, became serene-min
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his heart thus pacified and gladdened by the sage’s words (iti munivacanāt prasannacitto), that bull of the Raghus and foremost of monarchs rejoiced (raghuvṛṣabhaś ca mumoda pārthivāgryaḥ); and of his own settled judgment (buddhyā), the king of far-flung renown gladly approved Rāghava’s departure (gamanam abhiruroca rāghavasya) with the son of Kuśika (kuśikātmajāya).
+With his heart thus pacified and gladdened by the sage’s words (_iti munivacanāt prasannacitto_), that bull of the Raghus and foremost of monarchs rejoiced (_raghuvṛṣabhaś ca mumoda pārthivāgryaḥ_); and of his own settled judgment (_buddhyā_), the king of far-flung renown gladly approved Rāghava’s departure (_gamanam abhiruroca rāghavasya_) with the son of Kuśika (_kuśikātmajāya_).
 </details>
 </details>
 

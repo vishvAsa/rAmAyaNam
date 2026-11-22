@@ -82,7 +82,7 @@ anxiety accompanied by perturbation among the sages.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Bharata had departed back (pratiprayāte bharate), Rāma, continuing to dwell in the penance-grove (tapovane), noticed before long an anxious restlessness mingled with fear (sodvegam autsukyam) among the ascetics.
+When Bharata had departed back (_pratiprayāte bharate_), Rāma, continuing to dwell in the penance-grove (_tapovane_), noticed before long an anxious restlessness mingled with fear (_sodvegam autsukyam_) among the ascetics.
 </details>
 </details>
 
@@ -134,7 +134,7 @@ Chitrakuta depending as they did on Rama- anxious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those ascetics who had formerly dwelt in the hermitage at Citrakūṭa, ever contented in taking refuge in Rāma (rāmam āśritya niratāḥ), he now observed to be restless and eager to depart (utsukān).
+Those ascetics who had formerly dwelt in the hermitage at Citrakūṭa, ever contented in taking refuge in Rāma (_rāmam āśritya niratāḥ_), he now observed to be restless and eager to depart (_utsukān_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ their anxiety, they whispered among themselves, narrating some legends in secret
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pointing toward Rāma with glances of their eyes and movements of their brows (nayanair bhrukuṭībhiś ca), filled with apprehension (śaṅkitāḥ), they whispered to one another and held secret conversations (mithaḥ kathāḥ) in low tones.
+Pointing toward Rāma with glances of their eyes and movements of their brows (_nayanair bhrukuṭībhiś ca_), filled with apprehension (_śaṅkitāḥ_), they whispered to one another and held secret conversations (_mithaḥ kathāḥ_) in low tones.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ joined palms spoke the following words to a sage, the leader of that community o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving their anxious restlessness, Rāma, filled with misgiving regarding himself (ātmani śaṅkitaḥ), joined his palms in reverence (kṛtāñjaliḥ) and spoke these words to the sage who was the patriarch of the community (ṛṣiṃ kulapatim):
+Perceiving their anxious restlessness, Rāma, filled with misgiving regarding himself (_ātmani śaṅkitaḥ_), joined his palms in reverence (_kṛtāñjaliḥ_) and spoke these words to the sage who was the patriarch of the community (_ṛṣiṃ kulapatim_):
 </details>
 </details>
 
@@ -299,7 +299,7 @@ there is some change for the worse in me, due to which the ascetics feel agitate
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O venerable Lord (bhagavan), I trust no improper conduct departing from my former ways (pūrvavṛttam vikṛtam) is seen in me, on account of which the ascetics are thus perturbed (vikriyante)?
+“O venerable Lord (_bhagavan_), I trust no improper conduct departing from my former ways (_pūrvavṛttam vikṛtam_) is seen in me, on account of which the ascetics are thus perturbed (_vikriyante_)?
 </details>
 </details>
 
@@ -351,7 +351,7 @@ unworthy of him while the sages were seeing?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I trust the sages have not observed in my younger brother (avarajasya me) Lakṣmaṇa any conduct committed through heedlessness (pramādāc caritam) that is unworthy of himself (nānurūpam ivātmanaḥ)?
+“I trust the sages have not observed in my younger brother (_avarajasya me_) Lakṣmaṇa any conduct committed through heedlessness (_pramādāc caritam_) that is unworthy of himself (_nānurūpam ivātmanaḥ_)?
 </details>
 </details>
 
@@ -412,7 +412,7 @@ am afraid, behaved properly, according to the conduct suitable for women."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I trust that Sītā—ever attending upon you (śuśrūṣamāṇā vaḥ) and devoted to serving me (śuśrūṣaṇaparā mayi)—does not fail to maintain the fitting conduct proper to a gentlewoman (pramadābhyucitāṃ vṛttim)?”
+“I trust that Sītā—ever attending upon you (_śuśrūṣamāṇā vaḥ_) and devoted to serving me (_śuśrūṣaṇaparā mayi_)—does not fail to maintain the fitting conduct proper to a gentlewoman (_pramadābhyucitāṃ vṛttim_)?”
 </details>
 </details>
 
@@ -465,7 +465,7 @@ trembling and spoke to Rama, who was ever compassionate to all beings, as follow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the sage, aged in years and grown ripe through austerity as well (tapasā ca jarāṃ gataḥ), trembling as he stood (vepamāna iva), spoke to Rāma, who was ever intent on compassion toward all beings (bhūtadayāparam):
+Then the sage, aged in years and grown ripe through austerity as well (_tapasā ca jarāṃ gataḥ_), trembling as he stood (_vepamāna iva_), spoke to Rāma, who was ever intent on compassion toward all beings (_bhūtadayāparam_):
 </details>
 </details>
 
@@ -520,7 +520,7 @@ is natural in her disposition and is the follower of virtue?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How, O dear one (tāta), could there be any swerving from rectitude (calanam)—especially toward ascetics (tapasviṣu viśeṣataḥ)—in Vaidehī, whose very nature is auspicious (kalyāṇasattvāyāḥ) and who ever delights in virtue (kalyāṇābhirateḥ)?
+“How, O dear one (_tāta_), could there be any swerving from rectitude (_calanam_)—especially toward ascetics (_tapasviṣu viśeṣataḥ_)—in Vaidehī, whose very nature is auspicious (_kalyāṇasattvāyāḥ_) and who ever delights in virtue (_kalyāṇābhirateḥ_)?
 </details>
 </details>
 
@@ -573,7 +573,7 @@ sages. Alarmed by it, they discuss with each other how they can best defend them
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rather, this peril confronting the ascetics has arisen on your account (tvannimittam); terrified by the Rākṣasas (rakṣobhyaḥ saṃvignāḥ) because of that, they are whispering secret counsels among themselves (mithaḥ kathāḥ).
+“Rather, this peril confronting the ascetics has arisen on your account (_tvannimittam_); terrified by the Rākṣasas (_rakṣobhyaḥ saṃvignāḥ_) because of that, they are whispering secret counsels among themselves (_mithaḥ kathāḥ_).
 </details>
 </details>
 
@@ -636,9 +636,9 @@ ascetics who dwell in Janasthana, is unable to endure you also."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “There is here a certain Rākṣasa named Khara, the younger brother of Rāvaṇa (rāvaṇāvarajaḥ), who has uprooted and tormented (utpāṭya) all the ascetics dwelling in Janasthāna (janasthānaniketanān).
+**11:** “There is here a certain Rākṣasa named Khara, the younger brother of Rāvaṇa (_rāvaṇāvarajaḥ_), who has uprooted and tormented (_utpāṭya_) all the ascetics dwelling in Janasthāna (_janasthānaniketanān_).
 
-**12:** “Insolent (dhṛṣṭaḥ), boastful of conquest in battle (jitakāśī), cruel (nṛśaṃsaḥ), man-eating (puruṣādakaḥ), arrogant (avaliptaḥ), and wicked—he does not brook your presence here either, O dear one (tvāṃ ca tāta na mṛṣyate).
+**12:** “Insolent (_dhṛṣṭaḥ_), boastful of conquest in battle (_jitakāśī_), cruel (_nṛśaṃsaḥ_), man-eating (_puruṣādakaḥ_), arrogant (_avaliptaḥ_), and wicked—he does not brook your presence here either, O dear one (_tvāṃ ca tāta na mṛṣyate_).
 </details>
 </details>
 
@@ -698,7 +698,7 @@ inwards, the demons continue to ill-treat the ascetics."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever since the time (yadāprabhṛti) you have been dwelling in this hermitage, O dear one, from that very time (tadāprabhṛti) the Rākṣasas have been harassing and wronging (viprakurvanti) the ascetics.
+“Ever since the time (_yadāprabhṛti_) you have been dwelling in this hermitage, O dear one, from that very time (_tadāprabhṛti_) the Rākṣasas have been harassing and wronging (_viprakurvanti_) the ascetics.
 </details>
 </details>
 
@@ -776,9 +776,9 @@ stand in front of them and kill some ascetics too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “For they manifest themselves in loathsome (bībhatsaiḥ), cruel, and terrifying shapes (bhīṣaṇakair api)—manifold forms, deformed figures, and shapes of hideous aspect (vikṛtadarśanaiḥ).
+**14:** “For they manifest themselves in loathsome (_bībhatsaiḥ_), cruel, and terrifying shapes (_bhīṣaṇakair api_)—manifold forms, deformed figures, and shapes of hideous aspect (_vikṛtadarśanaiḥ_).
 
-**15:** “Defiling the ascetics with foul and impure substances (apraśastair aśucibhiḥ saṃprayojya), those ignoble fiends (anāryāḥ), standing right before them (purataḥ sthitāḥ), swiftly assail others (pratighnanty aparān).
+**15:** “Defiling the ascetics with foul and impure substances (_apraśastair aśucibhiḥ saṃprayojya_), those ignoble fiends (_anāryāḥ_), standing right before them (_purataḥ sthitāḥ_), swiftly assail others (_pratighnanty aparān_).
 </details>
 </details>
 
@@ -830,7 +830,7 @@ themselves in destroying the ascetics there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Lurking unseen (abuddham avalīya) in the various precincts of the hermitages (teṣu teṣv āśramasthāneṣu), those vile-minded creatures (alpacetasaḥ) sport there while tormenting and ruining (nāśayantaḥ) the ascetics.
+“Lurking unseen (_abuddham avalīya_) in the various precincts of the hermitages (_teṣu teṣv āśramasthāneṣu_), those vile-minded creatures (_alpacetasaḥ_) sport there while tormenting and ruining (_nāśayantaḥ_) the ascetics.
 </details>
 </details>
 
@@ -885,7 +885,7 @@ vessels, sprinkle the fires with water and break the water-pots."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the fire-oblation is at hand (havane samupasthite), they fling away the sacrificial ladles and vessels (apakṣipanti srugbhāṇḍān), douse the sacred fires with water (agnīn siñcanti vāriṇā), and smash the water-pitchers (kalaśāṃś ca pramṛdnanti).
+“When the fire-oblation is at hand (_havane samupasthite_), they fling away the sacrificial ladles and vessels (_apakṣipanti srugbhāṇḍān_), douse the sacred fires with water (_agnīn siñcanti vāriṇā_), and smash the water-pitchers (_kalaśāṃś ca pramṛdnanti_).
 </details>
 </details>
 
@@ -949,7 +949,7 @@ ascetics today are urging me to go to another area."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Desiring to abandon (prajihāsavaḥ) the hermitages overrun and defiled by those evil-souled fiends (tair durātmabhir āmṛṣṭān), the sages are urging me today (codayanty ṛṣayo 'dya mām) to depart for another place.
+“Desiring to abandon (_prajihāsavaḥ_) the hermitages overrun and defiled by those evil-souled fiends (_tair durātmabhir āmṛṣṭān_), the sages are urging me today (_codayanty ṛṣayo &#x27;dya mām_) to depart for another place.
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ are abandoning this hermitage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Rāma, before (purā) those wicked demons inflict lethal bodily violence (śārīrīm upahiṃsām) upon the ascetics, we shall forsake this hermitage (tyakṣyāma imam āśramam).
+“Therefore, O Rāma, before (_purā_) those wicked demons inflict lethal bodily violence (_śārīrīm upahiṃsām_) upon the ascetics, we shall forsake this hermitage (_tyakṣyāma imam āśramam_).
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ will take shelter again in that previous hermitage itself, along with an assembl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not far from here (avidūrād itaḥ) lies a lovely forest rich in roots and fruits (bahumūlaphalaṃ citram); to that ancient hermitage (purāṇāśramam eva) I shall betake myself again together with my company of sages (sagaṇaḥ).
+“Not far from here (_avidūrād itaḥ_) lies a lovely forest rich in roots and fruits (_bahumūlaphalaṃ citram_); to that ancient hermitage (_purāṇāśramam eva_) I shall betake myself again together with my company of sages (_sagaṇaḥ_).
 </details>
 </details>
 
@@ -1109,7 +1109,7 @@ mind feels so inclined, come along with us from here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before Khara perpetrates some outrage against you as well, O dear one (tvayy api cāyuktaṃ purā tāta pravartate), depart from here along with us (sahāsmābhir ito gaccha), if your mind is so inclined.
+“Before Khara perpetrates some outrage against you as well, O dear one (_tvayy api cāyuktaṃ purā tāta pravartate_), depart from here along with us (_sahāsmābhir ito gaccha_), if your mind is so inclined.
 </details>
 </details>
 
@@ -1164,7 +1164,7 @@ watchful, there is a danger. Your stay here is conduced with misery now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For you who are accompanied by your consort (sakalatrasya), O Rāghava, even though you remain ever vigilant (nityaṃ yattasya) and capable (samarthasyāpi), dwelling here today is fraught with constant peril (saṃdehaḥ) and distress (duḥkham).”
+“For you who are accompanied by your consort (_sakalatrasya_), O Rāghava, even though you remain ever vigilant (_nityaṃ yattasya_) and capable (_samarthasyāpi_), dwelling here today is fraught with constant peril (_saṃdehaḥ_) and distress (_duḥkham_).”
 </details>
 </details>
 
@@ -1223,7 +1223,7 @@ spoken as aforesaid, eager as he was to leave the place.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though eager to do so (samutsukaḥ), prince Rāma was unable with reassuring replies (uttarair vākyaiḥ) to detain (avaroddhum) that ascetic who had spoken thus.
+Though eager to do so (_samutsukaḥ_), prince Rāma was unable with reassuring replies (_uttarair vākyaiḥ_) to detain (_avaroddhum_) that ascetic who had spoken thus.
 </details>
 </details>
 
@@ -1275,7 +1275,7 @@ of the community departed, leaving the hermitage, along with a host of sages.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having blessed (abhinandya), taken leave of (samāpṛcchya), and consoled (samādhāya) Rāghava, that patriarch departed along with the communities of sages (kulaiḥ saha), forsaking the hermitage.
+Having blessed (_abhinandya_), taken leave of (_samāpṛcchya_), and consoled (_samādhāya_) Rāghava, that patriarch departed along with the communities of sages (_kulaiḥ saha_), forsaking the hermitage.
 </details>
 </details>
 
@@ -1344,7 +1344,7 @@ was sacred to reside.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having seen off the assembly of sages by following them part of the way (anugamanāt) from that place and having bowed in reverence to the sage-patriarch (kulapatim abhivādya ṛṣim), Rāma—accorded permission by them who were thoroughly pleased (samyakprītais tair anumataḥ) and instructed in what was salutary (upadiṣṭārthaḥ)—returned to his pure abode (puṇyaṃ svanilayam upasampede) to dwell.
+Having seen off the assembly of sages by following them part of the way (_anugamanāt_) from that place and having bowed in reverence to the sage-patriarch (_kulapatim abhivādya ṛṣim_), Rāma—accorded permission by them who were thoroughly pleased (_samyakprītais tair anumataḥ_) and instructed in what was salutary (_upadiṣṭārthaḥ_)—returned to his pure abode (_puṇyaṃ svanilayam upasampede_) to dwell.
 </details>
 </details>
 
@@ -1416,7 +1416,7 @@ the conduct of the sages) constantly followed Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even for a moment (kṣaṇam api) that mighty lord Rāghava did not forsake the hermitage, though bereft of the sages (ṛṣivirahitam); for those ascetics, whose virtues were firmly established in saintly conduct (ārṣacaritadhṛtaguṇāḥ), ever followed Rāghava in their hearts (rāghavaṃ hi satatam anugatāḥ).
+Even for a moment (_kṣaṇam api_) that mighty lord Rāghava did not forsake the hermitage, though bereft of the sages (_ṛṣivirahitam_); for those ascetics, whose virtues were firmly established in saintly conduct (_ārṣacaritadhṛtaguṇāḥ_), ever followed Rāghava in their hearts (_rāghavaṃ hi satatam anugatāḥ_).
 </details>
 </details>
 

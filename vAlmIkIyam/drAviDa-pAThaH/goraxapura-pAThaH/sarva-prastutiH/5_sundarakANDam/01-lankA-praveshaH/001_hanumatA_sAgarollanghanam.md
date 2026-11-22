@@ -80,7 +80,7 @@ celestials like chaaranas tread, to search for Seetha, who was taken away by Rav
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that tormentor of foes (śatrukarṣaṇaḥ) wished to seek out the track (padam) of Sītā, who had been carried off by Rāvaṇa, along the sky-path frequented by Cāraṇas (cāraṇācarite pathi).
+Then that tormentor of foes (_śatrukarṣaṇaḥ_) wished to seek out the track (_padam_) of Sītā, who had been carried off by Rāvaṇa, along the sky-path frequented by Cāraṇas (_cāraṇācarite pathi_).
 </details>
 </details>
 
@@ -126,7 +126,7 @@ any obstacles, with his stretched neck and raised head.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to perform (cikīrṣan) a feat hard to accomplish and peerless (niṣpratidvandvam), the Vānara, with his head and neck held high (samudagraśirogrīvaḥ), shone like a lord of cattle [a bull] (gavāṃ patir iva).
+Desiring to perform (_cikīrṣan_) a feat hard to accomplish and peerless (_niṣpratidvandvam_), the Vānara, with his head and neck held high (_samudagraśirogrīvaḥ_), shone like a lord of cattle [a bull] (_gavāṃ patir iva_).
 </details>
 </details>
 
@@ -181,7 +181,7 @@ hue of an emerald, which looked like still water from a distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then across the cat’s-eye-colored (vaidūryavarṇeṣu) grassy meadows (śādvaleṣu) that resembled waters (salilakalpeṣu), the resolute hero of great might roamed at ease (yathāsukham).
+Then across the cat’s-eye-colored (_vaidūryavarṇeṣu_) grassy meadows (_śādvaleṣu_) that resembled waters (_salilakalpeṣu_), the resolute hero of great might roamed at ease (_yathāsukham_).
 </details>
 </details>
 
@@ -233,7 +233,7 @@ by his breast and also killing many animals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrifying the birds (dvijān), tearing down trees with his chest (urasā), and striking down very many beasts, the wise one [strode] like a full-grown lion (pravṛddha iva kesarī).
+Terrifying the birds (_dvijān_), tearing down trees with his chest (_urasā_), and striking down very many beasts, the wise one [strode] like a full-grown lion (_pravṛddha iva kesarī_).
 </details>
 </details>
 
@@ -267,7 +267,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He ranged that mountain slope] adorned with spotless, naturally formed (svabhāvasiddhaiḥ) mineral ores (dhātubhiḥ)—dark-red (nīlalohita), madder-hued (māñjiṣṭha), lotus-colored (padmavarṇaiḥ), and black-and-white (sitāsitaiḥ)—
+[He ranged that mountain slope] adorned with spotless, naturally formed (_svabhāvasiddhaiḥ_) mineral ores (_dhātubhiḥ_)—dark-red (_nīlalohita_), madder-hued (_māñjiṣṭha_), lotus-colored (_padmavarṇaiḥ_), and black-and-white (_sitāsitaiḥ_)—
 </details>
 </details>
 
@@ -296,7 +296,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And constantly (abhīkṣṇam) frequented by shape-shifting (kāmarūpibhiḥ) Yakṣas, Kiṃnaras, and Gandharvas accompanied by their retinues (saparicchadaiḥ), god-like and attended by Pannagas (sapannagaiḥ).
+And constantly (_abhīkṣṇam_) frequented by shape-shifting (_kāmarūpibhiḥ_) Yakṣas, Kiṃnaras, and Gandharvas accompanied by their retinues (_saparicchadaiḥ_), god-like and attended by Pannagas (_sapannagaiḥ_).
 </details>
 </details>
 
@@ -363,7 +363,7 @@ Gandharvas who were capable of assuming desired form, together with their famili
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing there on the slope (tale) of that foremost of mountains, which abounded in lordly elephants (nāgavarāyute), the foremost of monkeys shone like a great elephant in a lake (hrade nāga iva).
+Standing there on the slope (_tale_) of that foremost of mountains, which abounded in lordly elephants (_nāgavarāyute_), the foremost of monkeys shone like a great elephant in a lake (_hrade nāga iva_).
 </details>
 </details>
 
@@ -410,7 +410,7 @@ and Bhutas and decided to leave.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining his palms (añjaliṃ kṛtvā) in salutation to Sūrya, Mahendra, Pavana, Svayambhū [Brahmā], and the beings (bhūtebhyaḥ), he set his mind on departing (gamane).
+Joining his palms (_añjaliṃ kṛtvā_) in salutation to Sūrya, Mahendra, Pavana, Svayambhū [Brahmā], and the beings (_bhūtebhyaḥ_), he set his mind on departing (_gamane_).
 </details>
 </details>
 
@@ -465,7 +465,7 @@ body to go towards southern direction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Offering folded palms facing east (prāṅmukham) to Pavana, his own sire (ātmayonaye), that capable hero (dakṣiṇaḥ) then grew in stature (vavṛdhe) in order to go toward the southern quarter (dakṣiṇāṃ diśam).
+Offering folded palms facing east (_prāṅmukham_) to Pavana, his own sire (_ātmayonaye_), that capable hero (_dakṣiṇaḥ_) then grew in stature (_vavṛdhe_) in order to go toward the southern quarter (_dakṣiṇāṃ diśam_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ full moon days, grew for Rama's success.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beheld by the foremost of leapers (plavagapravaraiḥ) as one resolved upon the leap (plavane kṛtaniścayaḥ), he swelled for the sake of Rāma’s prosperity (rāmavṛddhyartham) like the ocean at the full-moon nodes (parvasu).
+Beheld by the foremost of leapers (_plavagapravaraiḥ_) as one resolved upon the leap (_plavane kṛtaniścayaḥ_), he swelled for the sake of Rāma’s prosperity (_rāmavṛddhyartham_) like the ocean at the full-moon nodes (_parvasu_).
 </details>
 </details>
 
@@ -563,7 +563,7 @@ mountain with his feet and hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessing a body beyond measure (niṣpramāṇaśarīraḥ) and desiring to leap across (lilaṅghayiṣuḥ) the sea, he pressed down (pīḍayām āsa) the mountain with both his arms and his feet.
+Possessing a body beyond measure (_niṣpramāṇaśarīraḥ_) and desiring to leap across (_lilaṅghayiṣuḥ_) the sea, he pressed down (_pīḍayām āsa_) the mountain with both his arms and his feet.
 </details>
 </details>
 
@@ -612,7 +612,7 @@ flowers of trees on it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed down by the monkey, that mountain (acalaḥ) shook (cacāla) swiftly for a moment (muhūrtam) and caused every blossom to fall (aśātayat) from the trees with flowering tops (puṣpitāgrāṇām).
+Pressed down by the monkey, that mountain (_acalaḥ_) shook (_cacāla_) swiftly for a moment (_muhūrtam_) and caused every blossom to fall (_aśātayat_) from the trees with flowering tops (_puṣpitāgrāṇām_).
 </details>
 </details>
 
@@ -672,7 +672,7 @@ mountain shone like a mountain made of flowers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covered on all sides (sarvataḥ saṃvṛtaḥ) by that fragrant mass of flowers (puṣpaugheṇa) shed from the trees (pādapamuktena), the mountain shone as though made entirely of flowers (puṣpamayo yathā).
+Covered on all sides (_sarvataḥ saṃvṛtaḥ_) by that fragrant mass of flowers (_puṣpaugheṇa_) shed from the trees (_pādapamuktena_), the mountain shone as though made entirely of flowers (_puṣpamayo yathā_).
 </details>
 </details>
 
@@ -721,7 +721,7 @@ pressed by the mighty Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And pressed down (pīḍyamānaḥ) by that hero of supreme valor (uttamavīryeṇa), that mountain exuded water (salilaṃ samprasusrāva) like a rutting elephant (madamatta iva dvipaḥ) [exuding ichor].
+And pressed down (_pīḍyamānaḥ_) by that hero of supreme valor (_uttamavīryeṇa_), that mountain exuded water (_salilaṃ samprasusrāva_) like a rutting elephant (_madamatta iva dvipaḥ_) [exuding ichor].
 </details>
 </details>
 
@@ -767,7 +767,7 @@ the Mahendra mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed down by that mighty one (balinā), Mount Mahendra brought forth (nirvartayām āsa) streaks (rītīḥ) of gold, dark antimony, and silver (kāñcanāñjanarājatīḥ).
+Pressed down by that mighty one (_balinā_), Mount Mahendra brought forth (_nirvartayām āsa_) streaks (_rītīḥ_) of gold, dark antimony, and silver (_kāñcanāñjanarājatīḥ_).
 </details>
 </details>
 
@@ -816,7 +816,7 @@ with a medium flame would emit columns of smoke.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the mountain cast forth huge boulders (śilāḥ viśālāḥ) mixed with red arsenic (samanaḥśilāḥ), just as a fire endowed with its middle flame (madhyamenārciṣā juṣṭaḥ) sends forth streaks of smoke (dhūmarājīr iva).
+And the mountain cast forth huge boulders (_śilāḥ viśālāḥ_) mixed with red arsenic (_samanaḥśilāḥ_), just as a fire endowed with its middle flame (_madhyamenārciṣā juṣṭaḥ_) sends forth streaks of smoke (_dhūmarājīr iva_).
 </details>
 </details>
 
@@ -851,7 +851,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed down on every side by the mountain that was itself being pressed by the monkey (hariṇā pīḍyamānena), the creatures (sattvāni) dwelling in its caves cried out with distorted voices (vikṛtaiḥ svaraiḥ).
+Pressed down on every side by the mountain that was itself being pressed by the monkey (_hariṇā pīḍyamānena_), the creatures (_sattvāni_) dwelling in its caves cried out with distorted voices (_vikṛtaiḥ svaraiḥ_).
 </details>
 </details>
 
@@ -915,7 +915,7 @@ mountain, filled the earth and all four directions and forests near that mountai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great uproar of creatures (sattvasannādaḥ), born from the cause of the mountain’s crushing (śailapīḍānimittajaḥ), filled the earth, the quarters of space, and the groves (upavanāni ca).
+That great uproar of creatures (_sattvasannādaḥ_), born from the cause of the mountain’s crushing (_śailapīḍānimittajaḥ_), filled the earth, the quarters of space, and the groves (_upavanāni ca_).
 </details>
 </details>
 
@@ -975,7 +975,7 @@ with their great heads and bit the rocks with their teeth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their broad hoods (śirobhiḥ pṛthubhiḥ) bearing distinct svastika markings (vyaktasvastikalakṣaṇaiḥ), Nāgas vomiting dreadful fire (pāvakaṃ ghoram) bit the rocks with their fangs (daśanaiḥ).
+With their broad hoods (_śirobhiḥ pṛthubhiḥ_) bearing distinct svastika markings (_vyaktasvastikalakṣaṇaiḥ_), Nāgas vomiting dreadful fire (_pāvakaṃ ghoram_) bit the rocks with their fangs (_daśanaiḥ_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ flame and split into thousand pieces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bitten then by those enraged, venomous serpents (saviṣaiḥ), those great boulders blazed up (jajvaluḥ), kindled with fire (pāvakoddīptāḥ), and split apart a thousandfold (sahasradhā).
+Bitten then by those enraged, venomous serpents (_saviṣaiḥ_), those great boulders blazed up (_jajvaluḥ_), kindled with fire (_pāvakoddīptāḥ_), and split apart a thousandfold (_sahasradhā_).
 </details>
 </details>
 
@@ -1083,7 +1083,7 @@ could not neutralize the poison from those snakes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever clusters of medicinal herbs (auṣadhajālāni) grew upon that mountain, though potent to destroy venom (viṣaghnāny api), could not (na śekuḥ) quell the venom of those Nāgas.
+And whatever clusters of medicinal herbs (_auṣadhajālāni_) grew upon that mountain, though potent to destroy venom (_viṣaghnāny api_), could not (_na śekuḥ_) quell the venom of those Nāgas.
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ And whatever clusters of medicinal herbs (auṣadhajālāni) grew upon that moun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thinking, 'This mountain is being cleft by elemental powers (bhūtaiḥ)!', ascetics (tapasvinaḥ) and terrified Vidyādharas sprang up (utpetuḥ) from it together with their troops of women (strīgaṇaiḥ saha),
+Thinking, &#x27;This mountain is being cleft by elemental powers (_bhūtaiḥ_)!&#x27;, ascetics (_tapasvinaḥ_) and terrified Vidyādharas sprang up (_utpetuḥ_) from it together with their troops of women (_strīgaṇaiḥ saha_),
 </details>
 </details>
 
@@ -1218,11 +1218,11 @@ the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Abandoning (hitvā) in the drinking-grounds (pānabhūmigatam) their golden wine-vessels (haimam āsavabhājanam), costly goblets (pātrāṇi ca mahārhāṇi), and golden pitchers (karakāṃś ca hiraṇmayān),
+**23:** Abandoning (_hitvā_) in the drinking-grounds (_pānabhūmigatam_) their golden wine-vessels (_haimam āsavabhājanam_), costly goblets (_pātrāṇi ca mahārhāṇi_), and golden pitchers (_karakāṃś ca hiraṇmayān_),
 
-**24:** High and low delicacies to be licked (lehyān uccāvacān), eatables (bhakṣyān), meats of many kinds (māṃsāni vividhāni ca), bull-hide shields (ārṣabhāṇi ca carmāṇi), and golden-hilted swords (khaḍgāṃś ca kanakatsarūn).
+**24:** High and low delicacies to be licked (_lehyān uccāvacān_), eatables (_bhakṣyān_), meats of many kinds (_māṃsāni vividhāni ca_), bull-hide shields (_ārṣabhāṇi ca carmāṇi_), and golden-hilted swords (_khaḍgāṃś ca kanakatsarūn_).
 
-**25:** Wearing neck-garlands (kṛtakaṇṭhaguṇāḥ), flushed with wine (kṣībāḥ), adorned with red garlands and unguents (raktamālyānulepanāḥ), red-eyed and lotus-eyed (puṣkarākṣāḥ), they betook themselves to the sky (gaganaṃ pratipedire).
+**25:** Wearing neck-garlands (_kṛtakaṇṭhaguṇāḥ_), flushed with wine (_kṣībāḥ_), adorned with red garlands and unguents (_raktamālyānulepanāḥ_), red-eyed and lotus-eyed (_puṣkarākṣāḥ_), they betook themselves to the sky (_gaganaṃ pratipedire_).
 </details>
 </details>
 
@@ -1277,7 +1277,7 @@ with surprise and with smiles along with their loved ones.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Women wearing pearl necklaces, anklets, armlets, and bracelets (hāranūpurakeyūrapārihāryadharāḥ), amazed (vismitāḥ) and smiling (sasmitāḥ), stood in the sky alongside their lovers (ramaṇaiḥ saha).
+Women wearing pearl necklaces, anklets, armlets, and bracelets (_hāranūpurakeyūrapārihāryadharāḥ_), amazed (_vismitāḥ_) and smiling (_sasmitāḥ_), stood in the sky alongside their lovers (_ramaṇaiḥ saha_).
 </details>
 </details>
 
@@ -1326,7 +1326,7 @@ and viewed the mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Displaying their great mystic lore (mahāvidyām), the Vidyādharas and great sages (vidyādharamaharṣayaḥ) stood together in the sky and gazed down upon the mountain (vīkṣāṃ cakruś ca parvatam).
+Displaying their great mystic lore (_mahāvidyām_), the Vidyādharas and great sages (_vidyādharamaharṣayaḥ_) stood together in the sky and gazed down upon the mountain (_vīkṣāṃ cakruś ca parvatam_).
 </details>
 </details>
 
@@ -1372,7 +1372,7 @@ in that clear sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then they heard the utterance (śabdam) of sages of purified souls (bhāvitātmanām), Cāraṇas, and Siddhas stationed in the cloudless sky (vimale 'mbare):
+And then they heard the utterance (_śabdam_) of sages of purified souls (_bhāvitātmanām_), Cāraṇas, and Siddhas stationed in the cloudless sky (_vimale &#x27;mbare_):
 </details>
 </details>
 
@@ -1427,7 +1427,7 @@ speed, wants to cross the ocean which is abode to crocodiles."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here is mountain-like Hanumān, son of Māruta (mārutātmajaḥ); possessed of great speed (mahāvegaḥ), he desires to cross (titīrṣati) the ocean, the abode of Varuṇa (varuṇālayam).
+“Here is mountain-like Hanumān, son of Māruta (_mārutātmajaḥ_); possessed of great speed (_mahāvegaḥ_), he desires to cross (_titīrṣati_) the ocean, the abode of Varuṇa (_varuṇālayam_).
 </details>
 </details>
 
@@ -1474,7 +1474,7 @@ and wants to obtain the other side of ocean which is hard to obtain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to perform (cikīrṣan) a feat hard to accomplish for the sake of Rāma and the Vānaras (rāmārthaṃ vānarārthaṃ ca), he wishes to reach the further shore (paraṃ pāram) of the ocean, which is hard to attain.”
+Desiring to perform (_cikīrṣan_) a feat hard to accomplish for the sake of Rāma and the Vānaras (_rāmārthaṃ vānarārthaṃ ca_), he wishes to reach the further shore (_paraṃ pāram_) of the ocean, which is hard to attain.”
 </details>
 </details>
 
@@ -1537,7 +1537,7 @@ incomparable Hanuma, best among Vanaras, standing on the mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of those ascetics (tapasvinām), the Vidyādharas beheld on the mountain that immeasurable (aprameyam) bull among Vānaras (vānararṣabham).
+Hearing those words of those ascetics (_tapasvinām_), the Vidyādharas beheld on the mountain that immeasurable (_aprameyam_) bull among Vānaras (_vānararṣabham_).
 </details>
 </details>
 
@@ -1592,7 +1592,7 @@ great roar like from a vast cloud.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He shook (dudhuve) his body-hairs (romāṇi), trembled like fire (analopamaḥ), and roared a mighty roar (mahānādam) like a vast rain-cloud (sumahān iva toyadaḥ).
+He shook (_dudhuve_) his body-hairs (_romāṇi_), trembled like fire (_analopamaḥ_), and roared a mighty roar (_mahānādam_) like a vast rain-cloud (_sumahān iva toyadaḥ_).
 </details>
 </details>
 
@@ -1647,7 +1647,7 @@ bottom, and which was covered with hair, just as Garuda, the king of birds would
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-About to spring up (utpatiṣyan), he brandished (vicikṣepa) that tail of his, rounded in due tapering order (ānupūrvyā ca vṛttam) and thick with hair (romabhiś citam), as the king of birds [Garuḍa] shakes a serpent (pakṣirāja ivoragam).
+About to spring up (_utpatiṣyan_), he brandished (_vicikṣepa_) that tail of his, rounded in due tapering order (_ānupūrvyā ca vṛttam_) and thick with hair (_romabhiś citam_), as the king of birds [Garuḍa] shakes a serpent (_pakṣirāja ivoragam_).
 </details>
 </details>
 
@@ -1696,7 +1696,7 @@ stolen by Garuda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Curled behind (pṛṣṭhataḥ) that hero of extreme impetuosity (ativegasya), his brandished (āviddham) tail appeared like a great serpent (mahoragaḥ) being carried off by Garuḍa.
+Curled behind (_pṛṣṭhataḥ_) that hero of extreme impetuosity (_ativegasya_), his brandished (_āviddham_) tail appeared like a great serpent (_mahoragaḥ_) being carried off by Garuḍa.
 </details>
 </details>
 
@@ -1751,7 +1751,7 @@ clubs, crouched the waist and contracted his feet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He planted firmly (saṃstambhayām āsa) his two arms, which resembled great iron bars (mahāparighasaṃnibhau); the monkey crouched at his waist (āsasāda kaṭyām) and contracted (saṃcukoca) his feet.
+He planted firmly (_saṃstambhayām āsa_) his two arms, which resembled great iron bars (_mahāparighasaṃnibhau_); the monkey crouched at his waist (_āsasāda kaṭyām_) and contracted (_saṃcukoca_) his feet.
 </details>
 </details>
 
@@ -1804,7 +1804,7 @@ strength and courage.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing in (saṃhṛtya) his two arms and likewise his neck (śirodharām), that glorious and valorous one summoned (āviveśa) his fiery energy, physical strength, and valor (tejaḥ sattvaṃ tathā vīryam).
+Drawing in (_saṃhṛtya_) his two arms and likewise his neck (_śirodharām_), that glorious and valorous one summoned (_āviveśa_) his fiery energy, physical strength, and valor (_tejaḥ sattvaṃ tathā vīryam_).
 </details>
 </details>
 
@@ -1861,7 +1861,7 @@ his breath in his heart.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surveying the path from afar (mārgam ālokayan dūrāt) with his eyes directed upward (ūrdhvapraṇihitekṣaṇaḥ), he held his vital breaths (rurodha prāṇān) within his heart while gazing at the sky.
+Surveying the path from afar (_mārgam ālokayan dūrāt_) with his eyes directed upward (_ūrdhvapraṇihitekṣaṇaḥ_), he held his vital breaths (_rurodha prāṇān_) within his heart while gazing at the sky.
 </details>
 </details>
 
@@ -1899,7 +1899,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Planting his feet in a firm stance (dṛḍham avasthānaṃ kṛtvā) and contracting his ears (nikucya karṇau), that elephant among monkeys, Hanumān of great might, about to leap up (utpatiṣyan),
+Planting his feet in a firm stance (_dṛḍham avasthānaṃ kṛtvā_) and contracting his ears (_nikucya karṇau_), that elephant among monkeys, Hanumān of great might, about to leap up (_utpatiṣyan_),
 </details>
 </details>
 
@@ -1925,7 +1925,7 @@ Planting his feet in a firm stance (dṛḍham avasthānaṃ kṛtvā) and contr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spoke this word to the Vānaras, he the foremost of Vānaras: “Just as an arrow loosed by Rāghava (rāghavanirmuktaḥ śaraḥ), possessing the speed of the wind (śvasanavikramaḥ),
+Spoke this word to the Vānaras, he the foremost of Vānaras: “Just as an arrow loosed by Rāghava (_rāghavanirmuktaḥ śaraḥ_), possessing the speed of the wind (_śvasanavikramaḥ_),
 </details>
 </details>
 
@@ -1951,7 +1951,7 @@ Spoke this word to the Vānaras, he the foremost of Vānaras: “Just as an arro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Would fly, even so (tadvat) shall I go to Laṅkā guarded by Rāvaṇa; and if I do not behold (na hi drakṣyāmi yadi) Janaka’s daughter there in Laṅkā,
+Would fly, even so (_tadvat_) shall I go to Laṅkā guarded by Rāvaṇa; and if I do not behold (_na hi drakṣyāmi yadi_) Janaka’s daughter there in Laṅkā,
 </details>
 </details>
 
@@ -1977,7 +1977,7 @@ Would fly, even so (tadvat) shall I go to Laṅkā guarded by Rāvaṇa; and if 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By this very momentum (anenaiva hi vegena) I shall go to the abode of the gods (surālayam); and if, despite my exertion (kṛtaśramaḥ), I do not behold Sītā in the third heaven (tridive),
+By this very momentum (_anenaiva hi vegena_) I shall go to the abode of the gods (_surālayam_); and if, despite my exertion (_kṛtaśramaḥ_), I do not behold Sītā in the third heaven (_tridive_),
 </details>
 </details>
 
@@ -2031,7 +2031,7 @@ along with Seetha or I will get Lanka along with Ravana after uprooting it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Binding Rāvaṇa, the king of the Rākṣasas (rākṣasarājānam), I shall bring him (ānayiṣyāmi) here; by all means (sarvathā), having accomplished my task (kṛtakāryaḥ), I shall return with Sītā!
+Binding Rāvaṇa, the king of the Rākṣasas (_rākṣasarājānam_), I shall bring him (_ānayiṣyāmi_) here; by all means (_sarvathā_), having accomplished my task (_kṛtakāryaḥ_), I shall return with Sītā!
 </details>
 </details>
 
@@ -2114,9 +2114,9 @@ equal to Garuda, the king of birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** “Or else, uprooting (samutpāṭya) Laṅkā together with Rāvaṇa (sarāvaṇām), I shall bring it here!” Having spoken thus, the monkey Hanumān, foremost of Vānaras,
+**43:** “Or else, uprooting (_samutpāṭya_) Laṅkā together with Rāvaṇa (_sarāvaṇām_), I shall bring it here!” Having spoken thus, the monkey Hanumān, foremost of Vānaras,
 
-**44:** Sprang up (utpapāta) then with speed, that swift one, without hesitation (avicārayan); and that elephant among monkeys deemed himself like Suparṇa [Garuḍa] (suparṇam iva cātmānaṃ mene).
+**44:** Sprang up (_utpapāta_) then with speed, that swift one, without hesitation (_avicārayan_); and that elephant among monkeys deemed himself like Suparṇa [Garuḍa] (_suparṇam iva cātmānaṃ mene_).
 </details>
 </details>
 
@@ -2165,7 +2165,7 @@ all directions, drawing together all their branches.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he sprang up with speed, through that momentum those mountain-growing trees (nagarohiṇaḥ), drawing together (saṃhṛtya) all their branches (viṭapān), shot up on all sides (samutpetuḥ samantataḥ).
+As he sprang up with speed, through that momentum those mountain-growing trees (_nagarohiṇaḥ_), drawing together (_saṃhṛtya_) all their branches (_viṭapān_), shot up on all sides (_samutpetuḥ samantataḥ_).
 </details>
 </details>
 
@@ -2220,7 +2220,7 @@ trees shining with flowers and with fattened lapwing birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bearing aloft (udvahan) through the force of his thighs (uruvegena) flowering trees haunted by excited lapwings (mattakoyaṣṭibhakān), he coursed through the cloudless sky (vimale 'mbare).
+Bearing aloft (_udvahan_) through the force of his thighs (_uruvegena_) flowering trees haunted by excited lapwings (_mattakoyaṣṭibhakān_), he coursed through the cloudless sky (_vimale &#x27;mbare_).
 </details>
 </details>
 
@@ -2275,7 +2275,7 @@ while just as relatives would follow their loved ones embarking on a long journe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Borne up by the force of his thighs (ūruvegotthitāḥ), the trees followed (anvayuḥ) the monkey for a moment (muhūrtam), as kinsmen (bāndhavāḥ) follow their own kinsman setting out on a long journey (prasthitaṃ dīrgham adhvānam).
+Borne up by the force of his thighs (_ūruvegotthitāḥ_), the trees followed (_anvayuḥ_) the monkey for a moment (_muhūrtam_), as kinsmen (_bāndhavāḥ_) follow their own kinsman setting out on a long journey (_prasthitaṃ dīrgham adhvānam_).
 </details>
 </details>
 
@@ -2307,7 +2307,7 @@ Borne up by the force of his thighs (ūruvegotthitāḥ), the trees followed (an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uprooted by the force of his thighs (ūruvegonmathitāḥ), śāla trees and other foremost trees (nagottamāḥ) followed Hanumān, like soldiers (sainyā iva) following a lord of the earth (mahīpatim).
+Uprooted by the force of his thighs (_ūruvegonmathitāḥ_), śāla trees and other foremost trees (_nagottamāḥ_) followed Hanumān, like soldiers (_sainyā iva_) following a lord of the earth (_mahīpatim_).
 </details>
 </details>
 
@@ -2385,7 +2385,7 @@ appearance together with the well flowered trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attended (anvitaḥ) by many trees with brightly flowering tops (supuṣpitāgraiḥ), the monkey Hanumān, mountain-like in form (parvatākāraḥ), became wondrous to behold (adbhutadarśanaḥ).
+Attended (_anvitaḥ_) by many trees with brightly flowering tops (_supuṣpitāgraiḥ_), the monkey Hanumān, mountain-like in form (_parvatākāraḥ_), became wondrous to behold (_adbhutadarśanaḥ_).
 </details>
 </details>
 
@@ -2441,7 +2441,7 @@ ocean due to fear of Mahendra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those trees that were heavy with heartwood (sāravantaḥ) sank down (nyamajjan) into the salt water (lavaṇāmbhasi), as mountains sank into Varuṇa’s abode out of fear of Mahendra (bhayād iva mahendrasya).
+Then those trees that were heavy with heartwood (_sāravantaḥ_) sank down (_nyamajjan_) into the salt water (_lavaṇāmbhasi_), as mountains sank into Varuṇa’s abode out of fear of Mahendra (_bhayād iva mahendrasya_).
 </details>
 </details>
 
@@ -2487,7 +2487,7 @@ and buds, shone like a mountain with fireflies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strewn (kīrṇaḥ) with blossoms of many kinds together with sprouts and buds (sāṅkurakorakaiḥ), that cloud-like (meghasaṃkāśaḥ) monkey shone like a mountain [lit] by fireflies (khadyotair iva parvataḥ).
+Strewn (_kīrṇaḥ_) with blossoms of many kinds together with sprouts and buds (_sāṅkurakorakaiḥ_), that cloud-like (_meghasaṃkāśaḥ_) monkey shone like a mountain [lit] by fireflies (_khadyotair iva parvataḥ_).
 </details>
 </details>
 
@@ -2537,7 +2537,7 @@ the water like friends going back after bidding farewell to their dear one.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released by his momentum (vimuktās tasya vegena), those trees, having shed their blossoms (muktvā puṣpāṇi), sank down (vyavaśīryanta) in the water like friends turning back (nivṛttāḥ suhṛdo yathā).
+Released by his momentum (_vimuktās tasya vegena_), those trees, having shed their blossoms (_muktvā puṣpāṇi_), sank down (_vyavaśīryanta_) in the water like friends turning back (_nivṛttāḥ suhṛdo yathā_).
 </details>
 </details>
 
@@ -2595,7 +2595,7 @@ with stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Driven by the wind of the monkey (kapivāyusamīritam), those varied and diverse blossoms of the trees, endowed with lightness (laghutvenopapannam), fell into the sea; that great ocean shone like the sky strewn with stars (tārācitam ivākāśam).
+Driven by the wind of the monkey (_kapivāyusamīritam_), those varied and diverse blossoms of the trees, endowed with lightness (_laghutvenopapannam_), fell into the sea; that great ocean shone like the sky strewn with stars (_tārācitam ivākāśam_).
 </details>
 </details>
 
@@ -2650,7 +2650,7 @@ various hues sticking to his body.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that fragrant, many-colored mass of blossoms (puṣpaugheṇa), the Vānara shone like a rising cloud (megha ivodyan) adorned with clusters of lightning (vidyudgaṇavibhūṣitaḥ).
+With that fragrant, many-colored mass of blossoms (_puṣpaugheṇa_), the Vānara shone like a rising cloud (_megha ivodyan_) adorned with clusters of lightning (_vidyudgaṇavibhūṣitaḥ_).
 </details>
 </details>
 
@@ -2707,7 +2707,7 @@ flown up by Hanuma's speed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through the blossoms raised by his momentum (vegasamudbhūtaiḥ puṣpaiḥ), the water appeared like the sky with lovely stars newly risen (tārābhir iva rāmābhir uditābhir ivāmbaram).
+Through the blossoms raised by his momentum (_vegasamudbhūtaiḥ puṣpaiḥ_), the water appeared like the sky with lovely stars newly risen (_tārābhir iva rāmābhir uditābhir ivāmbaram_).
 </details>
 </details>
 
@@ -2753,7 +2753,7 @@ serpents coming out of a mountain's peak.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stretched forth (prasāritau) in the sky, his two arms appeared like two five-hooded serpents (pañcāsyāv iva pannagau) emerging from a mountain peak (parvatāgrād viniṣkrāntau).
+Stretched forth (_prasāritau_) in the sky, his two arms appeared like two five-hooded serpents (_pañcāsyāv iva pannagau_) emerging from a mountain peak (_parvatāgrād viniṣkrāntau_).
 </details>
 </details>
 
@@ -2808,7 +2808,7 @@ waves. He also seemed like one who desires to drink the whole of sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That great monkey shone as though drinking up (pibann iva) the great ocean with its networks of waves (sormijālam), and appeared as though thirsting to drink (pipāsur iva) the sky.
+That great monkey shone as though drinking up (_pibann iva_) the great ocean with its networks of waves (_sormijālam_), and appeared as though thirsting to drink (_pipāsur iva_) the sky.
 </details>
 </details>
 
@@ -2857,7 +2857,7 @@ equal to that of lightening, were shining like two fires on a mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he followed the path of the wind (vāyumārgānusāriṇaḥ), his two eyes, flashing like lightning (vidyutprabhākāre), blazed like two fires upon a mountain (parvatasthāv ivānalau).
+As he followed the path of the wind (_vāyumārgānusāriṇaḥ_), his two eyes, flashing like lightning (_vidyutprabhākāre_), blazed like two fires upon a mountain (_parvatasthāv ivānalau_).
 </details>
 </details>
 
@@ -2906,7 +2906,7 @@ fully risen sun and moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The two large, round, tawny eyes (piṅge bṛhatī parimaṇḍale cakṣuṣī) of that chief of tawny-eyed ones (piṅgākṣamukhyasya) shone like the moon and the sun stationed together (candrasūryāv iva sthitau).
+The two large, round, tawny eyes (_piṅge bṛhatī parimaṇḍale cakṣuṣī_) of that chief of tawny-eyed ones (_piṅgākṣamukhyasya_) shone like the moon and the sun stationed together (_candrasūryāv iva sthitau_).
 </details>
 </details>
 
@@ -2961,7 +2961,7 @@ twilight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his coppery nose (nāsikayā tāmrayā), his coppery face (mukhaṃ tāmram) shone like the orb of the sun (sūryamaṇḍalam) touched by twilight (saṃdhyayā samabhispṛṣṭam).
+With his coppery nose (_nāsikayā tāmrayā_), his coppery face (_mukhaṃ tāmram_) shone like the orb of the sun (_sūryamaṇḍalam_) touched by twilight (_saṃdhyayā samabhispṛṣṭam_).
 </details>
 </details>
 
@@ -3018,7 +3018,7 @@ the pillar erected in honour of Indra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the son of Vāyu coursed on (plavamānasya), his upcurled (samāviddham) tail shone in the sky like Indra’s banner raised aloft (śakradhvaja ivocchritam).
+As the son of Vāyu coursed on (_plavamānasya_), his upcurled (_samāviddham_) tail shone in the sky like Indra’s banner raised aloft (_śakradhvaja ivocchritam_).
 </details>
 </details>
 
@@ -3067,7 +3067,7 @@ the Sun, being surrounded by his circular tail.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his tail coiled in a circle (lāṅgūlacakraḥ) and his white fangs (śukladaṃṣṭraḥ), Hanumān of great wisdom, son of the Wind, shone like the sun ringed by a halo (pariveṣīva bhāskaraḥ).
+With his tail coiled in a circle (_lāṅgūlacakraḥ_) and his white fangs (_śukladaṃṣṭraḥ_), Hanumān of great wisdom, son of the Wind, shone like the sun ringed by a halo (_pariveṣīva bhāskaraḥ_).
 </details>
 </details>
 
@@ -3116,7 +3116,7 @@ a large deposit of red Gairika herb broken into pieces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his bright coppery hip-region (sphigdeśenātitāmreṇa), that great monkey shone like a mountain cleft open (dāritena) with a vast vein of red chalk ore (mahatā gairikadhātunā).
+With his bright coppery hip-region (_sphigdeśenātitāmreṇa_), that great monkey shone like a mountain cleft open (_dāritena_) with a vast vein of red chalk ore (_mahatā gairikadhātunā_).
 </details>
 </details>
 
@@ -3162,7 +3162,7 @@ thundering cloud.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that lion among Vānaras leaped across the ocean (plavamānasya sāgaram), the wind caught within his armpits (kakṣāntaragato vāyuḥ) thundered like a rain-cloud (jīmūta iva garjati).
+As that lion among Vānaras leaped across the ocean (_plavamānasya sāgaram_), the wind caught within his armpits (_kakṣāntaragato vāyuḥ_) thundered like a rain-cloud (_jīmūta iva garjati_).
 </details>
 </details>
 
@@ -3218,7 +3218,7 @@ away with great speed in the sky from northern direction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as a meteor (ulkā) issuing from the northern quarter (uttarāntād viniḥsṛtā) falls through the sky and is seen trailing a tail (sānubandhā ca), even so appeared that elephant among monkeys.
+Just as a meteor (_ulkā_) issuing from the northern quarter (_uttarāntād viniḥsṛtā_) falls through the sky and is seen trailing a tail (_sānubandhā ca_), even so appeared that elephant among monkeys.
 </details>
 </details>
 
@@ -3267,7 +3267,7 @@ which increases its size when being festered by a rope.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling the flying sun (patatpataṅgasaṃkāśaḥ), the outstretched (vyāyataḥ) monkey shone like a huge elephant (pravṛddha iva mātaṅgaḥ) being bound with a girth-rope (kakṣyayā badhyamānayā).
+Resembling the flying sun (_patatpataṅgasaṃkāśaḥ_), the outstretched (_vyāyataḥ_) monkey shone like a huge elephant (_pravṛddha iva mātaṅgaḥ_) being bound with a girth-rope (_kakṣyayā badhyamānayā_).
 </details>
 </details>
 
@@ -3327,7 +3327,7 @@ shadow being immersed in the sea below, looked like a boat being driven by wind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his body above (upariṣṭāc charīreṇa) and his shadow plunged deep below (chāyayā cāvagāḍhayā), the monkey then in the ocean was like a ship driven by the wind (mārutāviṣṭā naur ivāsīt).
+With his body above (_upariṣṭāc charīreṇa_) and his shadow plunged deep below (_chāyayā cāvagāḍhayā_), the monkey then in the ocean was like a ship driven by the wind (_mārutāviṣṭā naur ivāsīt_).
 </details>
 </details>
 
@@ -3382,7 +3382,7 @@ the force of thighs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever region of the ocean that great monkey traversed (yaṃ yaṃ deśaṃ jagāma), that region, through the force of his limbs (tasyāṅgavegena), appeared as though seized by madness (sonmāda iva lakṣyate).
+Whatever region of the ocean that great monkey traversed (_yaṃ yaṃ deśaṃ jagāma_), that region, through the force of his limbs (_tasyāṅgavegena_), appeared as though seized by madness (_sonmāda iva lakṣyate_).
 </details>
 </details>
 
@@ -3437,7 +3437,7 @@ waves which had a great body like that of mountains.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Striking (abhighnan) with his chest the mountain-sized (śailavarṣmaṇām) wave-masses of the ocean (sāgarasyormijālānām), that great monkey of mighty speed coursed on (pupluve).
+Striking (_abhighnan_) with his chest the mountain-sized (_śailavarṣmaṇām_) wave-masses of the ocean (_sāgarasyormijālānām_), that great monkey of mighty speed coursed on (_pupluve_).
 </details>
 </details>
 
@@ -3486,7 +3486,7 @@ with a fearful sound to shake a lot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both the mighty wind of the monkey (kapivātaś ca balavān) and the wind issuing from the clouds (meghavātaś ca nirgataḥ) violently shook (kampayām āsatur bhṛśam) the dread-roaring ocean (sāgaraṃ bhīmanirhrādam).
+Both the mighty wind of the monkey (_kapivātaś ca balavān_) and the wind issuing from the clouds (_meghavātaś ca nirgataḥ_) violently shook (_kampayām āsatur bhṛśam_) the dread-roaring ocean (_sāgaraṃ bhīmanirhrādam_).
 </details>
 </details>
 
@@ -3532,7 +3532,7 @@ were sprinkling them in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dragging along (vikarṣan) huge masses of waves (ūrmijālāni bṛhanti) in the salt water, the tiger among monkeys coursed on as though scattering heaven and earth (vikirann iva rodasī).
+Dragging along (_vikarṣan_) huge masses of waves (_ūrmijālāni bṛhanti_) in the salt water, the tiger among monkeys coursed on as though scattering heaven and earth (_vikirann iva rodasī_).
 </details>
 </details>
 
@@ -3587,7 +3587,7 @@ Mandara, that had risen up in the sea, as if counting them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed of great speed, he passed over (atyakrāmat) waves rising up (udgatān) in the vast ocean like Meru and Mandara (merumandarasaṃkāśān), as though counting them (gaṇayann iva).
+Possessed of great speed, he passed over (_atyakrāmat_) waves rising up (_udgatān_) in the vast ocean like Meru and Mandara (_merumandarasaṃkāśān_), as though counting them (_gaṇayann iva_).
 </details>
 </details>
 
@@ -3650,7 +3650,7 @@ shone like a stretched autumnal cloud in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Churned up with roar by his momentum (vegasamudghuṣṭam), the water together with the clouds (jalaṃ sajaladam) stationed in the sky then shone like an outstretched autumn cloud (śaradabhram ivātatam).
+Churned up with roar by his momentum (_vegasamudghuṣṭam_), the water together with the clouds (_jalaṃ sajaladam_) stationed in the sky then shone like an outstretched autumn cloud (_śaradabhram ivātatam_).
 </details>
 </details>
 
@@ -3699,7 +3699,7 @@ sea just as bodies of humans would be seen when clothes are removed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Great timi whales, crocodiles, jhaṣa fish, and turtles (timinakrajhaṣāḥ kūrmāḥ) were then seen laid bare (vivṛtāḥ), like the bodies of embodied beings (śarīrāṇi śarīriṇām) upon the stripping away of their garments (vastrāpakarṣaṇeneva).
+Great _timi_ whales, crocodiles, _jhaṣa_ fish, and turtles (_timinakrajhaṣāḥ kūrmāḥ_) were then seen laid bare (_vivṛtāḥ_), like the bodies of embodied beings (_śarīrāṇi śarīriṇām_) upon the stripping away of their garments (_vastrāpakarṣaṇeneva_).
 </details>
 </details>
 
@@ -3755,7 +3755,7 @@ Garuda, the king of birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that tiger among monkeys striding (kramamāṇam) through the sky, the ocean-going serpents (bhujagāḥ sāgaraṃgamāḥ) deemed him to be Suparṇa [Garuḍa] (suparṇam iva menire).
+Beholding that tiger among monkeys striding (_kramamāṇam_) through the sky, the ocean-going serpents (_bhujagāḥ sāgaraṃgamāḥ_) deemed him to be Suparṇa [Garuḍa] (_suparṇam iva menire_).
 </details>
 </details>
 
@@ -3819,7 +3819,7 @@ conversion from yojanas to miles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ten yojanas wide (daśayojanavistīrṇā) and thirty yojanas long (triṃśadyojanam āyatā), the shadow of that lion among Vānaras became all the more lovely in his speed (jave cārutarābhavat).
+Ten _yojanas_ wide (_daśayojanavistīrṇā_) and thirty _yojanas_ long (_triṃśadyojanam āyatā_), the shadow of that lion among Vānaras became all the more lovely in his speed (_jave cārutarābhavat_).
 </details>
 </details>
 
@@ -3868,7 +3868,7 @@ of dense white clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Following the son of Vāyu (vāyuputrānugāminī) like a dense streak of white clouds (śvetābhraghanarājīva), that shadow of his shone as it fell upon the salt water (patitā lavaṇāmbhasi).
+Following the son of Vāyu (_vāyuputrānugāminī_) like a dense streak of white clouds (_śvetābhraghanarājīva_), that shadow of his shone as it fell upon the salt water (_patitā lavaṇāmbhasi_).
 </details>
 </details>
 
@@ -3914,7 +3914,7 @@ mountain with wings flying in the sky without any support underneath.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of great fiery energy and huge body (mahātejā mahākāyaḥ), that great monkey shone in the supportless path of the wind (vāyumārge nirālambe) like a winged mountain (pakṣavān iva parvataḥ).
+Of great fiery energy and huge body (_mahātejā mahākāyaḥ_), that great monkey shone in the supportless path of the wind (_vāyumārge nirālambe_) like a winged mountain (_pakṣavān iva parvataḥ_).
 </details>
 </details>
 
@@ -3968,7 +3968,7 @@ appeared a trough in the ocean below.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Along whatever path (yena mārgeṇa) that mighty elephant among monkeys sped (yāti vegena), by that path the ocean was instantly hollowed into a trough (droṇīkṛta ivārṇavaḥ).
+Along whatever path (_yena mārgeṇa_) that mighty elephant among monkeys sped (_yāti vegena_), by that path the ocean was instantly hollowed into a trough (_droṇīkṛta ivārṇavaḥ_).
 </details>
 </details>
 
@@ -4017,7 +4017,7 @@ dragged with him series of clouds like the god of wind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coursing along the flight-path of flocks of birds (āpāte pakṣisaṅghānām) like the king of birds [Garuḍa] (pakṣirāja iva), Hanumān dragged along banks of clouds (meghajālāni prakarṣan) just like the Wind (māruto yathā).
+Coursing along the flight-path of flocks of birds (_āpāte pakṣisaṅghānām_) like the king of birds [Garuḍa] (_pakṣirāja iva_), Hanumān dragged along banks of clouds (_meghajālāni prakarṣan_) just like the Wind (_māruto yathā_).
 </details>
 </details>
 
@@ -4072,7 +4072,7 @@ Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawn along by the monkey (kapināākṛṣyamāṇāni), great clouds—pale white, crimson-hued (pāṇḍurāruṇavarṇāni), dark blue, and madder-red (nīlamañjiṣṭhakāni ca)—shone forth (cakāśire).
+Drawn along by the monkey (_kapināākṛṣyamāṇāni_), great clouds—pale white, crimson-hued (_pāṇḍurāruṇavarṇāni_), dark blue, and madder-red (_nīlamañjiṣṭhakāni ca_)—shone forth (_cakāśire_).
 </details>
 </details>
 
@@ -4128,7 +4128,7 @@ sky, is being seen like the moon who shines and is hidden alternately.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering into the banks of clouds (praviśann abhrajālāni) and emerging again and again (niṣpataṃś ca punaḥ punaḥ), he appeared like the moon now hidden and now shining forth (pracchannaś ca prakāśaś ca candramā iva).
+Entering into the banks of clouds (_praviśann abhrajālāni_) and emerging again and again (_niṣpataṃś ca punaḥ punaḥ_), he appeared like the moon now hidden and now shining forth (_pracchannaś ca prakāśaś ca candramā iva_).
 </details>
 </details>
 
@@ -4183,7 +4183,7 @@ showered flowers on him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that leaper (plavagam) coursing swiftly (plavamānaṃ tvaritam) then, the gods, Gandharvas, and Cāraṇas rained down blossoms there (vavṛṣus tatra puṣpāṇi).
+Beholding that leaper (_plavagam_) coursing swiftly (_plavamānaṃ tvaritam_) then, the gods, Gandharvas, and Cāraṇas rained down blossoms there (_vavṛṣus tatra puṣpāṇi_).
 </details>
 </details>
 
@@ -4235,7 +4235,7 @@ Rama's welfare. The wind god Vayu also served him with a delightful breeze.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The sun did not scorch (tatāpa na hi taṃ sūryaḥ) that lord of Vānaras as he coursed on, and the wind ministered (siṣeve ca tadā vāyuḥ) to him for the accomplishment of Rāma’s purpose (rāmakāryārthasiddhaye).
+The sun did not scorch (_tatāpa na hi taṃ sūryaḥ_) that lord of Vānaras as he coursed on, and the wind ministered (_siṣeve ca tadā vāyuḥ_) to him for the accomplishment of Rāma’s purpose (_rāmakāryārthasiddhaye_).
 </details>
 </details>
 
@@ -4298,7 +4298,7 @@ also sang in His praise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sages praised (tuṣṭuvuḥ) him as he coursed through the sky (vihāyasā), and gods and Gandharvas sang (jaguḥ), extolling (praśaṃsantaḥ) the forest-dweller (vanaukasam).
+Sages praised (_tuṣṭuvuḥ_) him as he coursed through the sky (_vihāyasā_), and gods and Gandharvas sang (_jaguḥ_), extolling (_praśaṃsantaḥ_) the forest-dweller (_vanaukasam_).
 </details>
 </details>
 
@@ -4354,7 +4354,7 @@ Nagas, Yakshas, Rakshasas, Devas and birds all praised Him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the foremost of monkeys suddenly free of fatigue (sahasā vigataklamam), Nāgas, Yakṣas, and Rākṣasas of many kinds all praised him (tuṣṭuvuḥ).
+Beholding the foremost of monkeys suddenly free of fatigue (_sahasā vigataklamam_), Nāgas, Yakṣas, and Rākṣasas of many kinds all praised him (_tuṣṭuvuḥ_).
 </details>
 </details>
 
@@ -4380,7 +4380,7 @@ Beholding the foremost of monkeys suddenly free of fatigue (sahasā vigataklamam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that tiger among leapers, Hanumān, was coursing on, the Ocean (sāgaraḥ), desiring to honor the house of Ikṣvāku (ikṣvākukulamānārthī), reflected (cintayām āsa):
+While that tiger among leapers, Hanumān, was coursing on, the Ocean (_sāgaraḥ_), desiring to honor the house of Ikṣvāku (_ikṣvākukulamānārthī_), reflected (_cintayām āsa_):
 </details>
 </details>
 
@@ -4421,7 +4421,7 @@ of ill-talk by those who want to speak against me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If I do not render assistance (sāhāyyaṃ na kariṣyāmi) to this lord of Vānaras, Hanumān, I shall become subject to the reproach of all (sarvavācyaḥ) who have speech (vivakṣatām).
+“If I do not render assistance (_sāhāyyaṃ na kariṣyāmi_) to this lord of Vānaras, Hanumān, I shall become subject to the reproach of all (_sarvavācyaḥ_) who have speech (_vivakṣatām_).
 </details>
 </details>
 
@@ -4471,7 +4471,7 @@ descendant of that dynasty should not become tired."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I was expanded (vivardhitaḥ) by Sagara, lord of the Ikṣvākus (ikṣvākunāthena); and this hero is a counselor of the Ikṣvākus (ikṣvākusacivaś cāyam), so he ought not to sink in exhaustion (naivārhaty avasāditum).
+I was expanded (_vivardhitaḥ_) by Sagara, lord of the Ikṣvākus (_ikṣvākunāthena_); and this hero is a counselor of the Ikṣvākus (_ikṣvākusacivaś cāyam_), so he ought not to sink in exhaustion (_naivārhaty avasāditum_).
 </details>
 </details>
 
@@ -4541,7 +4541,7 @@ a while, He can cross the remaining distance with comfort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I must arrange matters so (tathā mayā vidhātavyam) that the monkey may rest (viśrameta); having rested upon me, he will happily cross (sukhī so 'titariṣyati) the remainder of the way (śeṣam).”
+I must arrange matters so (_tathā mayā vidhātavyam_) that the monkey may rest (_viśrameta_); having rested upon me, he will happily cross (_sukhī so &#x27;titariṣyati_) the remainder of the way (_śeṣam_).”
 </details>
 </details>
 
@@ -4581,7 +4581,7 @@ The Ocean addresses the submerged golden mountain Maināka, reminding him how In
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having formed this noble resolve (matiṃ sādhvīm), the Ocean spoke to Maināka, foremost of mountains (girisattamam), who was golden-centered (hiraṇyanābham) and hidden in the water (channam ambhasi):
+Having formed this noble resolve (_matiṃ sādhvīm_), the Ocean spoke to Maināka, foremost of mountains (_girisattamam_), who was golden-centered (_hiraṇyanābham_) and hidden in the water (_channam ambhasi_):
 </details>
 </details>
 
@@ -4651,7 +4651,7 @@ obstacle to the groups of asuras living in paataala."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You were placed here as a locking bar (parighaḥ saṃniveśitaḥ) by the great-souled king of the gods [Indra] against the hosts of Asuras (asurasaṅghānām) dwelling in Pātāla (pātālanilayānām).
+“You were placed here as a locking bar (_parighaḥ saṃniveśitaḥ_) by the great-souled king of the gods [Indra] against the hosts of Asuras (_asurasaṅghānām_) dwelling in Pātāla (_pātālanilayānām_).
 </details>
 </details>
 
@@ -4707,7 +4707,7 @@ covering it, when asuras courageous by birth are trying to rise up again."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You stand blocking the portal (dvāram āvṛtya) of immeasurable Pātāla against those [Asuras] of known valor (jñātavīryāṇām) who would rise up yet again (punar evotpatiṣyatām).
+You stand blocking the portal (_dvāram āvṛtya_) of immeasurable Pātāla against those [Asuras] of known valor (_jñātavīryāṇām_) who would rise up yet again (_punar evotpatiṣyatām_).
 </details>
 </details>
 
@@ -4757,7 +4757,7 @@ for that reason I am encouraging you. Raise up."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O mountain, you have the power (śaktis te) to grow (vardhitum) sideways, upward, and downward (tiryag ūrdhvam adhaś caiva); therefore I urge you (saṃcodayāmi tvām): rise up, O foremost of mountains!
+O mountain, you have the power (_śaktis te_) to grow (_vardhitum_) sideways, upward, and downward (_tiryag ūrdhvam adhaś caiva_); therefore I urge you (_saṃcodayāmi tvām_): rise up, O foremost of mountains!
 </details>
 </details>
 
@@ -4812,7 +4812,7 @@ for the benefit of Rama, that such Hanuma while flying in the sky is coming over
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here comes above you (tvām upary eti) that valorous tiger among monkeys, Hanumān of terrible deeds (bhīmakarmā), who has leaped into the sky (kham āplutaḥ) seeking to accomplish Rāma’s purpose (rāmakāryārthī).
+Here comes above you (_tvām upary eti_) that valorous tiger among monkeys, Hanumān of terrible deeds (_bhīmakarmā_), who has leaped into the sky (_kham āplutaḥ_) seeking to accomplish Rāma’s purpose (_rāmakāryārthī_).
 </details>
 </details>
 
@@ -4847,7 +4847,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assistance must be rendered by me (sāhyaṃ mayā kāryam) to this hero who abides in the service of the Ikṣvāku house (ikṣvākukulavartinaḥ); the Ikṣvākus are worthy of my worship (mama pūjyāḥ), and still more supremely worthy of yours (paraṃ pūjyatamās tava).”
+Assistance must be rendered by me (_sāhyaṃ mayā kāryam_) to this hero who abides in the service of the Ikṣvāku house (_ikṣvākukulavartinaḥ_); the Ikṣvākus are worthy of my worship (_mama pūjyāḥ_), and still more supremely worthy of yours (_paraṃ pūjyatamās tava_).”
 </details>
 </details>
 
@@ -4918,7 +4918,7 @@ and not done, will increase the anger of good people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Render us your fellowship (kuru sācivyam asmākam); let not our duty pass us by (na naḥ kāryam atikramet)! A duty that ought to be done, if left undone (kartavyam akṛtaṃ kāryam), stirs the wrath of the virtuous (satāṃ manyum udīrayet).
+“Render us your fellowship (_kuru sācivyam asmākam_); let not our duty pass us by (_na naḥ kāryam atikramet_)! A duty that ought to be done, if left undone (_kartavyam akṛtaṃ kāryam_), stirs the wrath of the virtuous (_satāṃ manyum udīrayet_).
 </details>
 </details>
 
@@ -4965,7 +4965,7 @@ to be worshipped for us. Let him stand on you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rise up (ūrdhvam uttiṣṭha) from the water; let this monkey stand upon you (tiṣṭhatv eṣa kapis tvayi)! This foremost of leapers is our guest (atithiḥ) and worthy of honor (pūjyaś ca), O best of mountains.
+Rise up (_ūrdhvam uttiṣṭha_) from the water; let this monkey stand upon you (_tiṣṭhatv eṣa kapis tvayi_)! This foremost of leapers is our guest (_atithiḥ_) and worthy of honor (_pūjyaś ca_), O best of mountains.
 </details>
 </details>
 
@@ -5018,7 +5018,7 @@ Gandharvas! Hanuma can take rest on you and then traverse rest of the distance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O mountain with great golden peaks (cāmīkaramahānābha), frequented by gods and Gandharvas (devagandharvasevita), once Hanumān has rested upon you (tvayi viśrāntaḥ), he will then traverse the remainder (śeṣaṃ gamiṣyati).
+O mountain with great golden peaks (_cāmīkaramahānābha_), frequented by gods and Gandharvas (_devagandharvasevita_), once Hanumān has rested upon you (_tvayi viśrāntaḥ_), he will then traverse the remainder (_śeṣaṃ gamiṣyati_).
 </details>
 </details>
 
@@ -5070,7 +5070,7 @@ Seetha, and the effort of Hanuma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having regard (samīkṣya) to the compassion of Kākutstha (kākutsthasyānṛśaṃsyaṃ ca), the exile of Maithilī (maithilyāś ca vivāsanam), and the fatigue of the lord of leapers (śramaṃ ca plavagendrasya), you ought to rise up!”
+Having regard (_samīkṣya_) to the compassion of Kākutstha (_kākutsthasyānṛśaṃsyaṃ ca_), the exile of Maithilī (_maithilyāś ca vivāsanam_), and the fatigue of the lord of leapers (_śramaṃ ca plavagendrasya_), you ought to rise up!”
 </details>
 </details>
 
@@ -5119,7 +5119,7 @@ ocean, got up quickly from the water, together with great trees and creepers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing [the words] of the briny sea (lavaṇāmbhasaḥ niśamya), golden-wombed (hiraṇyagarbhaḥ) Maināka, covered with great trees and creepers (mahādrumalatāvṛtaḥ), sprang up swiftly from the water (utpapāta jalāt tūrṇam).
+Hearing [the words] of the briny sea (_lavaṇāmbhasaḥ niśamya_), golden-wombed (_hiraṇyagarbhaḥ_) Maināka, covered with great trees and creepers (_mahādrumalatāvṛtaḥ_), sprang up swiftly from the water (_utpapāta jalāt tūrṇam_).
 </details>
 </details>
 
@@ -5175,7 +5175,7 @@ like the Sun piercing through a cloud with His shining rays.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cleaving the water of the ocean (sāgarajalaṃ bhittvā), he then rose to a towering height (babhūvātyucchritas tadā), like the bright-rayed sun (dīptaraśmir divākaraḥ) after cleaving a rain-cloud (jaladharaṃ bhittvā).
+Cleaving the water of the ocean (_sāgarajalaṃ bhittvā_), he then rose to a towering height (_babhūvātyucchritas tadā_), like the bright-rayed sun (_dīptaraśmir divākaraḥ_) after cleaving a rain-cloud (_jaladharaṃ bhittvā_).
 </details>
 </details>
 
@@ -5214,7 +5214,7 @@ Enjoined by Sāgara, golden-peaked Mount Maināka rises from the brine to scrape
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enjoined (niyojitaḥ) by the Ocean, that great-souled mountain, enveloped in water (salilāvṛtaḥ), displayed his peaks within an instant (muhūrtena).
+Enjoined (_niyojitaḥ_) by the Ocean, that great-souled mountain, enveloped in water (_salilāvṛtaḥ_), displayed his peaks within an instant (_muhūrtena_).
 </details>
 </details>
 
@@ -5267,7 +5267,7 @@ had a golden hue, being ordered by the ocean, showed his peaks in an instant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With peaks wrought of pure gold (śātakumbhamayaiḥ), frequented by kinnaras and great serpents (sakinnaramahoragaiḥ), and resembling the rising sun, [he rose] as though scraping (ullikhadbhiḥ) the sky.
+With peaks wrought of pure gold (_śātakumbhamayaiḥ_), frequented by _kinnaras_ and great serpents (_sakinnaramahoragaiḥ_), and resembling the rising sun, [he rose] as though scraping (_ullikhadbhiḥ_) the sky.
 </details>
 </details>
 
@@ -5323,7 +5323,7 @@ because of the peaks of the mountain which rose up and which was like molten gol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through the upraised peaks of Jāmbūnada gold (jāmbūnadaiḥ) of that mountain, the sky, dark as a burnished weapon (śastrasaṃkāśam), acquired a golden radiance (kāñcanaprabham).
+Through the upraised peaks of Jāmbūnada gold (_jāmbūnadaiḥ_) of that mountain, the sky, dark as a burnished weapon (_śastrasaṃkāśam_), acquired a golden radiance (_kāñcanaprabham_).
 </details>
 </details>
 
@@ -5373,7 +5373,7 @@ golden hue and which were shining with a self generated shine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With blazing, radiantly glorious peaks wrought of gold (jātarūpamayaiḥ), that foremost of mountains (girisattamaḥ) came to resemble a hundred suns (ādityaśatasaṃkāśaḥ).
+With blazing, radiantly glorious peaks wrought of gold (_jātarūpamayaiḥ_), that foremost of mountains (_girisattamaḥ_) came to resemble a hundred suns (_ādityaśatasaṃkāśaḥ_).
 </details>
 </details>
 
@@ -5422,7 +5422,7 @@ the salty ocean suddenly, decided that it as an obstacle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him risen up without delay (asaṅgena) and standing directly ahead in the midst of the salt waters (lavaṇatoyasya), Hanūmān resolved (niścitaḥ): ‘This is an obstacle (vighnaḥ)!’
+Seeing him risen up without delay (_asaṅgena_) and standing directly ahead in the midst of the salt waters (_lavaṇatoyasya_), Hanūmān resolved (_niścitaḥ_): ‘This is an obstacle (_vighnaḥ_)!’
 </details>
 </details>
 
@@ -5468,7 +5468,7 @@ His chest just as the God of wind would a cloud.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that great monkey of mighty speed (mahāvegaḥ) struck down (pātayāmāsa) with his chest (urasā) that exceedingly lofty mountain, just as the wind scatters a storm-cloud (jīmūtam).
+Then that great monkey of mighty speed (_mahāvegaḥ_) struck down (_pātayāmāsa_) with his chest (_urasā_) that exceedingly lofty mountain, just as the wind scatters a storm-cloud (_jīmūtam_).
 </details>
 </details>
 
@@ -5531,7 +5531,7 @@ Hanuma's speed and lauded him with pleasure.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck down (āsāditaḥ) then by that monkey, that foremost of mountains (parvatottamaḥ), recognizing the speed (vegam) of that monkey, both rejoiced and roared (nanāda ca).
+Struck down (_āsāditaḥ_) then by that monkey, that foremost of mountains (_parvatottamaḥ_), recognizing the speed (_vegam_) of that monkey, both rejoiced and roared (_nanāda ca_).
 </details>
 </details>
 
@@ -5564,7 +5564,7 @@ Struck down (āsāditaḥ) then by that monkey, that foremost of mountains (parv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing aloft in the sky (ākāśe), the mountain, pleased and joyful in mind (hṛṣṭamanāḥ), spoke these words to the heroic monkey coursing through the sky (ākāśagatam):
+Standing aloft in the sky (_ākāśe_), the mountain, pleased and joyful in mind (_hṛṣṭamanāḥ_), spoke these words to the heroic monkey coursing through the sky (_ākāśagatam_):
 </details>
 </details>
 
@@ -5618,7 +5618,7 @@ on its own peak, spoke these words approaching that courageous Hanuma in the sky
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assuming a human form (mānuṣaṃ rūpam) and standing upon his own summit (śikhare), [he said]: ‘You have accomplished a feat most difficult to perform (duṣkaram), O foremost of monkeys!’
+Assuming a human form (_mānuṣaṃ rūpam_) and standing upon his own summit (_śikhare_), [he said]: ‘You have accomplished a feat most difficult to perform (_duṣkaram_), O foremost of monkeys!’
 </details>
 </details>
 
@@ -5672,7 +5672,7 @@ ocean. Do come down on to my peaks and rest for a while to your comfort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Alighting upon my peaks (śṛṅgeṣu), rest at ease (sukhaṃ viśramya) and then proceed! The ocean (udadhiḥ) was expanded (parivardhitaḥ) by those born in the lineage of Rāghava.’
+‘Alighting upon my peaks (_śṛṅgeṣu_), rest at ease (_sukhaṃ viśramya_) and then proceed! The ocean (_udadhiḥ_) was expanded (_parivardhitaḥ_) by those born in the lineage of Rāghava.’
 </details>
 </details>
 
@@ -5718,7 +5718,7 @@ worshipping in lieu of Sri Rama, you who is desirous of Sri Rama's welfare."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘That Ocean (sāgaraḥ) honors in return (pratyarcayati) you who are devoted to Rāma's welfare (rāmahite); when a service has been rendered, a return service must be performed (pratikartavyam)—this is the eternal law (dharmaḥ sanātanaḥ).’
+‘That Ocean (_sāgaraḥ_) honors in return (_pratyarcayati_) you who are devoted to Rāma&#x27;s welfare (_rāmahite_); when a service has been rendered, a return service must be performed (_pratikartavyam_)—this is the eternal law (_dharmaḥ sanātanaḥ_).’
 </details>
 </details>
 
@@ -5776,9 +5776,9 @@ respect by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**114:** ‘Desiring to repay that debt (tatpratikārārthī), he deserves respect (sammānam) from you; on your account (tvannimittam) I have been urged forward by him out of high regard (bahumānāt).’
+**114:** ‘Desiring to repay that debt (_tatpratikārārthī_), he deserves respect (_sammānam_) from you; on your account (_tvannimittam_) I have been urged forward by him out of high regard (_bahumānāt_).’
 
-**115:** ‘[saying:] Having leaped into the sky (kham āplutaḥ) across a hundred yojanas, let this monkey rest upon your ridges (tava sānuṣu) and then traverse the remainder (śeṣam)!’
+**115:** ‘[saying:] Having leaped into the sky (_kham āplutaḥ_) across a hundred _yojanas_, let this monkey rest upon your ridges (_tava sānuṣu_) and then traverse the remainder (_śeṣam_)!’
 </details>
 </details>
 
@@ -5835,7 +5835,7 @@ respect for you. O best among vanaras! Stop for a while and then go after restin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Tarry, O tiger among monkeys (hariśārdūla)! Having rested upon me, proceed! Here is abundant, fragrant, and sweet (gandhavat svādu) tuber, root, and fruit (kandamūlaphalam).’
+‘Tarry, O tiger among monkeys (_hariśārdūla_)! Having rested upon me, proceed! Here is abundant, fragrant, and sweet (_gandhavat svādu_) tuber, root, and fruit (_kandamūlaphalam_).’
 </details>
 </details>
 
@@ -5886,7 +5886,7 @@ while."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Having tasted that, O best of monkeys, and rested, you shall then proceed! Moreover, O chief of monkeys, we too have a bond (sambandhaḥ) with you, renowned through the three worlds and embracing great virtues (mahāguṇaparigrahaḥ).’
+‘Having tasted that, O best of monkeys, and rested, you shall then proceed! Moreover, O chief of monkeys, we too have a bond (_sambandhaḥ_) with you, renowned through the three worlds and embracing great virtues (_mahāguṇaparigrahaḥ_).’
 </details>
 </details>
 
@@ -5932,7 +5932,7 @@ famous in all the three worlds, which is based on great virtues, for us with you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Among all those swift-coursing leapers (plavagāḥ) who bound through the air, O son of Māruta, I deem you the foremost of all (mukhyatamam), O elephant among monkeys!’
+‘Among all those swift-coursing leapers (_plavagāḥ_) who bound through the air, O son of Māruta, I deem you the foremost of all (_mukhyatamam_), O elephant among monkeys!’
 </details>
 </details>
 
@@ -5981,7 +5981,7 @@ very important among those vanaras who are fast and who are capable of flying."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Even an ordinary (prākṛtaḥ) guest (atithiḥ) is verily worthy of worship by a wise man seeking to know dharma (dharmaṃ jijñāsamānena)—how much more so (kiṃ punaḥ) one such as you!’
+‘Even an ordinary (_prākṛtaḥ_) guest (_atithiḥ_) is verily worthy of worship by a wise man seeking to know _dharma_ (_dharmaṃ jijñāsamānena_)—how much more so (_kiṃ punaḥ_) one such as you!’
 </details>
 </details>
 
@@ -6033,7 +6033,7 @@ though ordinary is to be respected. What else can I say in the case of a great g
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘For you are the son of the great-souled Māruta, the foremost of the gods (devavariṣṭhasya), and his exact equal in speed (vegena sadṛśaḥ), O elephant among monkeys!’
+‘For you are the son of the great-souled Māruta, the foremost of the gods (_devavariṣṭhasya_), and his exact equal in speed (_vegena sadṛśaḥ_), O elephant among monkeys!’
 </details>
 </details>
 
@@ -6090,7 +6090,7 @@ best in speed among the Devas. In speed you are equal to him alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘When you, knower of dharma, are worshiped (pūjite tvayi), Māruta receives worship (pūjāṃ prāpnoti); therefore you are worthy of my worship—and hear also the reason (kāraṇam) herein!’
+‘When you, knower of _dharma_, are worshiped (_pūjite tvayi_), Māruta receives worship (_pūjāṃ prāpnoti_); therefore you are worthy of my worship—and hear also the reason (_kāraṇam_) herein!’
 </details>
 </details>
 
@@ -6140,7 +6140,7 @@ you are to be worshipped by me. Also listen to another reason in this matter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Formerly in the Kṛta age (kṛtayuge), dear one, the mountains possessed wings (pakṣiṇaḥ); swift as Garuḍas (garuḍā iva veginaḥ), they coursed through all the directions.’
+‘Formerly in the Kṛta age (_kṛtayuge_), dear one, the mountains possessed wings (_pakṣiṇaḥ_); swift as Garuḍas (_garuḍā iva veginaḥ_), they coursed through all the directions.’
 </details>
 </details>
 
@@ -6186,7 +6186,7 @@ Garuda and Vayu, they went in all directions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Then, as they flew about (teṣu prayāteṣu), the hosts of gods together with the sages (saharṣibhiḥ) and all beings were seized with fear (bhayaṃ jagmuḥ) out of dread of their falling (patanaśaṅkayā).’
+‘Then, as they flew about (_teṣu prayāteṣu_), the hosts of gods together with the sages (_saharṣibhiḥ_) and all beings were seized with fear (_bhayaṃ jagmuḥ_) out of dread of their falling (_patanaśaṅkayā_).’
 </details>
 </details>
 
@@ -6242,7 +6242,7 @@ together with sages obtained fear in the doubt that those mountains might fall d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Then the wrathful thousand-eyed performer of a hundred sacrifices (śatakratuḥ) severed (ciccheda) the wings of the mountains with his thunderbolt (vajreṇa) by the hundreds and thousands (śatasahasraśaḥ).’
+‘Then the wrathful thousand-eyed performer of a hundred sacrifices (_śatakratuḥ_) severed (_ciccheda_) the wings of the mountains with his thunderbolt (_vajreṇa_) by the hundreds and thousands (_śatasahasraśaḥ_).’
 </details>
 </details>
 
@@ -6295,7 +6295,7 @@ wings of thousands of mountains by his weapon vajra then and there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘When the wrathful king of the gods (devarāṭ) approached me with upraised thunderbolt (vajram udyamya), I was at once swept away (kṣiptaḥ) by the great-souled Wind-god (śvasanena).’
+‘When the wrathful king of the gods (_devarāṭ_) approached me with upraised thunderbolt (_vajram udyamya_), I was at once swept away (_kṣiptaḥ_) by the great-souled Wind-god (_śvasanena_).’
 </details>
 </details>
 
@@ -6350,7 +6350,7 @@ immediately by the great Vayu."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘And cast down (prakṣiptaḥ) into this salt ocean, O best of leapers, with my wings concealed (guptapakṣaḥ) and intact (samagraś ca), I was preserved (abhirakṣitaḥ) by your father!’
+‘And cast down (_prakṣiptaḥ_) into this salt ocean, O best of leapers, with my wings concealed (_guptapakṣaḥ_) and intact (_samagraś ca_), I was preserved (_abhirakṣitaḥ_) by your father!’
 </details>
 </details>
 
@@ -6387,7 +6387,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Therefore I honor you (mānayāmi tvām), and you are worthy of my honor, O son of Māruta! This bond of mine with you, O chief of monkeys, bears great virtue (mahāguṇaḥ).’
+‘Therefore I honor you (_mānayāmi tvām_), and you are worthy of my honor, O son of Māruta! This bond of mine with you, O chief of monkeys, bears great virtue (_mahāguṇaḥ_).’
 </details>
 </details>
 
@@ -6452,7 +6452,7 @@ respecting you. My this relationship with you has great virtues."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Since this obligation (kārye) of the Ocean and of myself has thus arisen (evaṃgate), you ought, with pleased mind (prītamanāḥ), to grant us this satisfaction (prītiṃ kartum), O great-minded one!’
+‘Since this obligation (_kārye_) of the Ocean and of myself has thus arisen (_evaṃgate_), you ought, with pleased mind (_prītamanāḥ_), to grant us this satisfaction (_prītiṃ kartum_), O great-minded one!’
 </details>
 </details>
 
@@ -6501,7 +6501,7 @@ and Sagara happy, with a gladdened heart."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Relieve your fatigue (śramaṃ mokṣaya) and accept my worship (pūjāṃ ca gṛhāṇa), O foremost of monkeys, as well as the affection of me who hold you in honor—for I am delighted by the sight of you (tava darśanāt)!’
+‘Relieve your fatigue (_śramaṃ mokṣaya_) and accept my worship (_pūjāṃ ca gṛhāṇa_), O foremost of monkeys, as well as the affection of me who hold you in honor—for I am delighted by the sight of you (_tava darśanāt_)!’
 </details>
 </details>
 
@@ -6547,7 +6547,7 @@ love. I am happy by your manifestation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, the best of monkeys spoke to that foremost of mountains: ‘I am pleased (prīto 'smi), hospitality has already been rendered (kṛtam ātithyam); let this distress (manyuḥ) be set aside!’
+Thus addressed, the best of monkeys spoke to that foremost of mountains: ‘I am pleased (_prīto &#x27;smi_), hospitality has already been rendered (_kṛtam ātithyam_); let this distress (_manyuḥ_) be set aside!’
 </details>
 </details>
 
@@ -6597,7 +6597,7 @@ has been done. Let this ill feeling be removed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘The time for my mission presses (tvarate kāryakālo me) and the day is passing away (ativartate); moreover, a vow (pratijñā) has been given by me not to halt midway (antarā) here!’
+‘The time for my mission presses (_tvarate kāryakālo me_) and the day is passing away (_ativartate_); moreover, a vow (_pratijñā_) has been given by me not to halt midway (_antarā_) here!’
 </details>
 </details>
 
@@ -6650,7 +6650,7 @@ also been given by me. I should not stand here in the middle neglecting my duty.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the heroic bull among monkeys touched (ālabhya) the mountain with his hand (pāṇinā) and, entering the sky, sped on as though smiling (prahasann iva).
+Having spoken thus, the heroic bull among monkeys touched (_ālabhya_) the mountain with his hand (_pāṇinā_) and, entering the sky, sped on as though smiling (_prahasann iva_).
 </details>
 </details>
 
@@ -6707,7 +6707,7 @@ sky and flew on with a smile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regarded with high esteem (bahumānād avekṣitaḥ) by both the mountain and the ocean, and honored, he was hailed with fitting (upapannābhiḥ) benedictions (āśīrbhiḥ).
+Regarded with high esteem (_bahumānād avekṣitaḥ_) by both the mountain and the ocean, and honored, he was hailed with fitting (_upapannābhiḥ_) benedictions (_āśīrbhiḥ_).
 </details>
 </details>
 
@@ -6756,7 +6756,7 @@ worshipped with suitable blessings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having risen far upward (ūrdhvaṃ dūram āgatya) and left behind the mountain and the great ocean (śailamahārṇavau), he gained his father's path (pituḥ panthānam) and coursed through the spotless sky.
+Then, having risen far upward (_ūrdhvaṃ dūram āgatya_) and left behind the mountain and the great ocean (_śailamahārṇavau_), he gained his father&#x27;s path (_pituḥ panthānam_) and coursed through the spotless sky.
 </details>
 </details>
 
@@ -6812,7 +6812,7 @@ clear sky, Hanuma followed the path of his father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attaining a still higher altitude (bhūyaś cordhvaṃ gatiṃ prāpya) and looking down upon that mountain, the son of the Wind, unsupported (nirālambaḥ), coursed on, an elephant among monkeys.
+Attaining a still higher altitude (_bhūyaś cordhvaṃ gatiṃ prāpya_) and looking down upon that mountain, the son of the Wind, unsupported (_nirālambaḥ_), coursed on, an elephant among monkeys.
 </details>
 </details>
 
@@ -6867,7 +6867,7 @@ mountain below, went in the clear sky which had no support.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that second feat (tad dvitīyaṃ karma) of Hanūmān, most difficult to accomplish (suduṣkaram), all the gods, siddhas, and supreme sages praised him (praśaśaṃsuḥ).
+Beholding that second feat (_tad dvitīyaṃ karma_) of Hanūmān, most difficult to accomplish (_suduṣkaram_), all the gods, _siddhas_, and supreme sages praised him (_praśaśaṃsuḥ_).
 </details>
 </details>
 
@@ -6899,7 +6899,7 @@ Beholding that second feat (tad dvitīyaṃ karma) of Hanūmān, most difficult 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The deities stationed there (tatrasthāḥ) were delighted by the action of that golden (kāñcanasya), fair-navelled (sunābhasya) mountain, as was Thousand-Eyed Vāsava.
+The deities stationed there (_tatrasthāḥ_) were delighted by the action of that golden (_kāñcanasya_), fair-navelled (_sunābhasya_) mountain, as was Thousand-Eyed Vāsava.
 </details>
 </details>
 
@@ -6963,7 +6963,7 @@ that golden hued Mainaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wise lord of Śacī (śacīpatiḥ) himself, out of deep satisfaction (paritoṣāt), spoke words choked with emotion (sagadgadam) unto Sunābha, the foremost of mountains:
+The wise lord of Śacī (_śacīpatiḥ_) himself, out of deep satisfaction (_paritoṣāt_), spoke words choked with emotion (_sagadgadam_) unto Sunābha, the foremost of mountains:
 </details>
 </details>
 
@@ -7020,7 +7020,7 @@ happiness, to Mainaka, the best among mountains.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘O Hiraṇyanābha, lord of mountains, I am exceedingly pleased (parituṣṭo 'smi) with you! I grant you immunity from fear (abhayam); go, gentle one (saumya), at your ease (yathāsukham)!’
+‘O Hiraṇyanābha, lord of mountains, I am exceedingly pleased (_parituṣṭo &#x27;smi_) with you! I grant you immunity from fear (_abhayam_); go, gentle one (_saumya_), at your ease (_yathāsukham_)!’
 </details>
 </details>
 
@@ -7049,7 +7049,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Great assistance (sāhyaṃ sumahat) has been rendered by you to the untiring (viśrāntasya) Hanūmān as he strides across a hundred yojanas, fearless (nirbhayasya) even when cause for fear is present (bhaye sati).’
+‘Great assistance (_sāhyaṃ sumahat_) has been rendered by you to the untiring (_viśrāntasya_) Hanūmān as he strides across a hundred _yojanas_, fearless (_nirbhayasya_) even when cause for fear is present (_bhaye sati_).’
 </details>
 </details>
 
@@ -7120,7 +7120,7 @@ reason to be afraid, a great help has been done by you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This monkey goes strictly for the welfare (hitāyaiva) of Rāma, son of Daśaratha; by offering him hospitality (satkriyāṃ kurvatā) to the best of your power (śaktyā), you have firmly satisfied me!’
+‘This monkey goes strictly for the welfare (_hitāyaiva_) of Rāma, son of Daśaratha; by offering him hospitality (_satkriyāṃ kurvatā_) to the best of your power (_śaktyā_), you have firmly satisfied me!’
 </details>
 </details>
 
@@ -7155,7 +7155,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That foremost of mountains experienced boundless joy (praharṣaṃ vipulam) upon beholding Śatakratu, the lord of the deities, thoroughly pleased (parituṣṭam).
+That foremost of mountains experienced boundless joy (_praharṣaṃ vipulam_) upon beholding Śatakratu, the lord of the deities, thoroughly pleased (_parituṣṭam_).
 </details>
 </details>
 
@@ -7216,7 +7216,7 @@ the lord of Devas being happy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having been granted that boon (dattavaraḥ), that mountain then remained securely in place (avasthitaḥ), and within an instant (muhūrtena) Hanūmān strode beyond (vyaticakrāma) that stretch of the ocean.
+Having been granted that boon (_dattavaraḥ_), that mountain then remained securely in place (_avasthitaḥ_), and within an instant (_muhūrtena_) Hanūmān strode beyond (_vyaticakrāma_) that stretch of the ocean.
 </details>
 </details>
 
@@ -7248,7 +7248,7 @@ Having been granted that boon (dattavaraḥ), that mountain then remained secure
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the gods together with the gandharvas, siddhas, and supreme sages spoke to Surasā, the mother of the nāgas (nāgamātaram), who shone like the sun (sūryasaṃkāśām):
+Then the gods together with the _gandharvas_, _siddhas_, and supreme sages spoke to Surasā, the mother of the _nāgas_ (_nāgamātaram_), who shone like the sun (_sūryasaṃkāśām_):
 </details>
 </details>
 
@@ -7304,7 +7304,7 @@ Surasa, the mother of Nagas, equal to the Sun in brilliance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This glorious son of the Wind (vātātmajaḥ), named Hanūmān, is leaping across the ocean; create an obstacle (vighnam ācara) for him for a brief moment (muhūrtam)!’
+‘This glorious son of the Wind (_vātātmajaḥ_), named Hanūmān, is leaping across the ocean; create an obstacle (_vighnam ācara_) for him for a brief moment (_muhūrtam_)!’
 </details>
 </details>
 
@@ -7350,7 +7350,7 @@ leaped over that part of the ocean in an instant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Assuming a most dreadful rākṣasa form (rākṣasaṃ rūpam), huge as a mountain, and making your face terrible with fangs (daṃṣṭrākarālam), tawny-eyed (piṅgākṣam), and sky-touching (nabhaḥspṛśam)—’
+‘Assuming a most dreadful _rākṣasa_ form (_rākṣasaṃ rūpam_), huge as a mountain, and making your face terrible with fangs (_daṃṣṭrākarālam_), tawny-eyed (_piṅgākṣam_), and sky-touching (_nabhaḥspṛśam_)—’
 </details>
 </details>
 
@@ -7402,7 +7402,7 @@ red-brown eyes and as vast as the sky, and create an obstacle to Him for an inst
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘We wish to ascertain (jñātum) his strength and further his valor (parākramam): whether he will conquer you by a stratagem (upāyena) or sink into despair (viṣādaṃ vā gamiṣyati)!’
+‘We wish to ascertain (_jñātum_) his strength and further his valor (_parākramam_): whether he will conquer you by a stratagem (_upāyena_) or sink into despair (_viṣādaṃ vā gamiṣyati_)!’
 </details>
 </details>
 
@@ -7458,9 +7458,9 @@ can win over you or obtain sorrow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**148:** Thus addressed and honored (abhisatkṛtā) by the deities, that goddess Surasā, wearing a rākṣasa body (bibhratī rākṣasaṃ vapuḥ) in the midst of the ocean—
+**148:** Thus addressed and honored (_abhisatkṛtā_) by the deities, that goddess Surasā, wearing a _rākṣasa_ body (_bibhratī rākṣasaṃ vapuḥ_) in the midst of the ocean—
 
-**149:** Deformed (vikṛtam), hideous (virūpam), and terrifying to all (sarvasya ca bhayāvaham)—blocked (āvṛtya) the leaping Hanūmān and spoke this word:
+**149:** Deformed (_vikṛtam_), hideous (_virūpam_), and terrifying to all (_sarvasya ca bhayāvaham_)—blocked (_āvṛtya_) the leaping Hanūmān and spoke this word:
 </details>
 </details>
 
@@ -7511,7 +7511,7 @@ all, and stopping Hanuma who was flying, spoke these words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘You have been assigned (pradiṣṭaḥ) by the lords (īśvaraiḥ) as my food (mama bhakṣyaḥ), O bull among monkeys! I shall devour you (tvāṃ bhakṣayiṣyāmi)—enter this mouth of mine!’
+‘You have been assigned (_pradiṣṭaḥ_) by the lords (_īśvaraiḥ_) as my food (_mama bhakṣyaḥ_), O bull among monkeys! I shall devour you (_tvāṃ bhakṣayiṣyāmi_)—enter this mouth of mine!’
 </details>
 </details>
 
@@ -7575,7 +7575,7 @@ Enter inside my mouth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘This boon (vara eṣaḥ) was granted to me of old by the Creator (dhātrā)!’—so saying, in haste (satvarā), she opened wide her capacious mouth (vaktraṃ vipulam) and stood before Māruti.
+‘This boon (_vara eṣaḥ_) was granted to me of old by the Creator (_dhātrā_)!’—so saying, in haste (_satvarā_), she opened wide her capacious mouth (_vaktraṃ vipulam_) and stood before Māruti.
 </details>
 </details>
 
@@ -7632,7 +7632,7 @@ hands, spoke these words to Surasa.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Surasā, he of joyful countenance (prahṛṣṭavadanaḥ) spoke: ‘Rāma, the son of Daśaratha by name, entered the Daṇḍaka forest (daṇḍakāvanam) together with his brother Lakṣmaṇa and his wife Vaidehī.’
+Thus addressed by Surasā, he of joyful countenance (_prahṛṣṭavadanaḥ_) spoke: ‘Rāma, the son of Daśaratha by name, entered the Daṇḍaka forest (_daṇḍakāvanam_) together with his brother Lakṣmaṇa and his wife Vaidehī.’
 </details>
 </details>
 
@@ -7678,7 +7678,7 @@ with His brother Lakshmana and wife Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘While he was absorbed in another task (anyakāryaviṣaktasya) and locked in enmity (baddhavairasya) with the rākṣasas, his illustrious wife Sītā was abducted (hṛtā) by Rāvaṇa.’
+‘While he was absorbed in another task (_anyakāryaviṣaktasya_) and locked in enmity (_baddhavairasya_) with the _rākṣasas_, his illustrious wife Sītā was abducted (_hṛtā_) by Rāvaṇa.’
 </details>
 </details>
 
@@ -7718,7 +7718,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘At Rāma's command (rāmaśāsanāt) I am going as an envoy (dūtaḥ) to her presence; you ought to render assistance (sāhyam) to Rāma, O dweller in his realm (viṣayavāsini)!’
+‘At Rāma&#x27;s command (_rāmaśāsanāt_) I am going as an envoy (_dūtaḥ_) to her presence; you ought to render assistance (_sāhyam_) to Rāma, O dweller in his realm (_viṣayavāsini_)!’
 </details>
 </details>
 
@@ -7785,7 +7785,7 @@ Rama! You are suited to help Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Or else (athavā), having seen Maithilī and Rāma of unwearying deeds (akliṣṭakāriṇam), I shall return to your mouth—I solemnly promise you (satyaṃ pratiśṛṇomi te)!’
+‘Or else (_athavā_), having seen Maithilī and Rāma of unwearying deeds (_akliṣṭakāriṇam_), I shall return to your mouth—I solemnly promise you (_satyaṃ pratiśṛṇomi te_)!’
 </details>
 </details>
 
@@ -7832,7 +7832,7 @@ without troubles, I will obtain your mouth. I am promising truthfully to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Hanūmān, Surasā, able to assume any form at will (kāmarūpiṇī), said: ‘None may pass me by (nātivarten mām)—this is my boon (varo mama)!’
+Thus addressed by Hanūmān, Surasā, able to assume any form at will (_kāmarūpiṇī_), said: ‘None may pass me by (_nātivarten mām_)—this is my boon (_varo mama_)!’
 </details>
 </details>
 
@@ -7895,7 +7895,7 @@ Thus being spoken to by Hanuma, Surasa with power to take desired form, spoke th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him setting forth (taṃ prayāntam), Surasā, the mother of the nāgas, desiring to test (jijñāsamānā) Hanūmān's strength, spoke these words:
+Beholding him setting forth (_taṃ prayāntam_), Surasā, the mother of the _nāgas_, desiring to test (_jijñāsamānā_) Hanūmān&#x27;s strength, spoke these words:
 </details>
 </details>
 
@@ -7927,7 +7927,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Only after entering (niviśya) my mouth today may you proceed (gantavyam), O best of monkeys! This boon was granted to me of old by the Creator!’—so saying, in haste,
+‘Only after entering (_niviśya_) my mouth today may you proceed (_gantavyam_), O best of monkeys! This boon was granted to me of old by the Creator!’—so saying, in haste,
 </details>
 </details>
 
@@ -8019,11 +8019,11 @@ mouth twenty yojanas long.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**159:** Opening wide her capacious mouth, she stood before Māruti. Thus addressed by Surasā, the bull among monkeys, waxing wroth (kruddhaḥ),
+**159:** Opening wide her capacious mouth, she stood before Māruti. Thus addressed by Surasā, the bull among monkeys, waxing wroth (_kruddhaḥ_),
 
-**160:** Spoke: ‘Make a mouth wide enough whereby you can contain me (yena māṃ viṣahiṣyasi)!’ Having spoken thus to Surasā, whose mouth gaped ten yojanas wide (daśayojanam āyatām), in wrath—
+**160:** Spoke: ‘Make a mouth wide enough whereby you can contain me (_yena māṃ viṣahiṣyasi_)!’ Having spoken thus to Surasā, whose mouth gaped ten _yojanas_ wide (_daśayojanam āyatām_), in wrath—
 
-**161:** Hanūmān then expanded to a breadth of ten yojanas (daśayojanavistāraḥ). Seeing him cloud-like and ten yojanas wide, Surasā too made her maw twenty yojanas wide (viṃśadyojanam āyatam).
+**161:** Hanūmān then expanded to a breadth of ten _yojanas_ (_daśayojanavistāraḥ_). Seeing him cloud-like and ten _yojanas_ wide, Surasā too made her maw twenty _yojanas_ wide (_viṃśadyojanam āyatam_).
 </details>
 </details>
 
@@ -8095,7 +8095,7 @@ forty yojanas high. The courageous Hanuma then became fifty yojanas high.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, incensed, swelled to thirty yojanas in breadth (triṃśadyojanam āyataḥ), and Surasā made her mouth forty yojanas high (catvāriṃśat tathocchritam).
+Then Hanūmān, incensed, swelled to thirty _yojanas_ in breadth (_triṃśadyojanam āyataḥ_), and Surasā made her mouth forty _yojanas_ high (_catvāriṃśat tathocchritam_).
 </details>
 </details>
 
@@ -8137,7 +8137,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The heroic Hanūmān became fifty yojanas high (pañcāśadyojanocchritaḥ), and Surasā made her mouth sixty yojanas high (ṣaṣṭiṃ yojanam ucchritam).
+The heroic Hanūmān became fifty _yojanas_ high (_pañcāśadyojanocchritaḥ_), and Surasā made her mouth sixty _yojanas_ high (_ṣaṣṭiṃ yojanam ucchritam_).
 </details>
 </details>
 
@@ -8188,7 +8188,7 @@ forty yojanas high. The courageous Hanuma then became fifty yojanas high.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very moment (tadaiva) the heroic Hanūmān became seventy yojanas high (saptatiṃ yojanocchritaḥ), and Surasā made her mouth eighty yojanas high (aśītiṃ yojanocchritam).
+At that very moment (_tadaiva_) the heroic Hanūmān became seventy _yojanas_ high (_saptatiṃ yojanocchritaḥ_), and Surasā made her mouth eighty _yojanas_ high (_aśītiṃ yojanocchritam_).
 </details>
 </details>
 
@@ -8246,7 +8246,7 @@ fashion, became seventy yojanas high.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like blazing fire (analaprakhyaḥ), Hanūmān rose to ninety yojanas in height (navatiṃ yojanocchritaḥ), and Surasā made her mouth a hundred yojanas wide (śatayojanam āyatam).
+Like blazing fire (_analaprakhyaḥ_), Hanūmān rose to ninety _yojanas_ in height (_navatiṃ yojanocchritaḥ_), and Surasā made her mouth a hundred _yojanas_ wide (_śatayojanam āyatam_).
 </details>
 </details>
 
@@ -8328,9 +8328,9 @@ thumb.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**166:** Beholding that gaping maw (vyāditam āsyam) of Surasā, long-tongued (dīrghajihvam), most dreadful, and resembling hell (narakopamam), that wise son of the Wind—
+**166:** Beholding that gaping maw (_vyāditam āsyam_) of Surasā, long-tongued (_dīrghajihvam_), most dreadful, and resembling hell (_narakopamam_), that wise son of the Wind—
 
-**167:** Contracting (saṃkṣipya) his own body like a cloud, Māruti Hanūmān at that very instant (tasmin muhūrte) became the size of a thumb (aṅguṣṭhamātrakaḥ).
+**167:** Contracting (_saṃkṣipya_) his own body like a cloud, Māruti Hanūmān at that very instant (_tasmin muhūrte_) became the size of a thumb (_aṅguṣṭhamātrakaḥ_).
 </details>
 </details>
 
@@ -8380,7 +8380,7 @@ it and standing in the sky spoke these words to Surasa.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, darting into (abhipadya) that mouth and emerging (niṣpatya ca) again, the glorious one of mighty strength stood in mid-air (antarikṣe sthitaḥ) and spoke these words:
+Then, darting into (_abhipadya_) that mouth and emerging (_niṣpatya ca_) again, the glorious one of mighty strength stood in mid-air (_antarikṣe sthitaḥ_) and spoke these words:
 </details>
 </details>
 
@@ -8438,7 +8438,7 @@ where Seetha is. Your boon also came true."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘I have indeed entered your mouth (praviṣṭo 'smi hi te vaktram), O daughter of Dakṣa (dākṣāyaṇi)—homage to you! I shall now go where Vaidehī is, and your boon has proved true (satyaś cāsīd varas tava)!’
+‘I have indeed entered your mouth (_praviṣṭo &#x27;smi hi te vaktram_), O daughter of Dakṣa (_dākṣāyaṇi_)—homage to you! I shall now go where Vaidehī is, and your boon has proved true (_satyaś cāsīd varas tava_)!’
 </details>
 </details>
 
@@ -8484,7 +8484,7 @@ Rahu, goddess Surasa spoke these words assuming her normal form.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him emerged from her mouth like the moon from the maw of Rāhu (candraṃ rāhumukhād iva), the goddess Surasā, assuming her own true form (svena rūpeṇa), spoke to the monkey:
+Beholding him emerged from her mouth like the moon from the maw of Rāhu (_candraṃ rāhumukhād iva_), the goddess Surasā, assuming her own true form (_svena rūpeṇa_), spoke to the monkey:
 </details>
 </details>
 
@@ -8533,7 +8533,7 @@ Seetha together with the great Sri Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Go at your ease (gaccha saumya yathāsukham), O best of monkeys, for the accomplishment of your purpose (arthasiddhyai), and reunite (samānaya ca) Vaidehī with the great-souled Rāghava!’
+‘Go at your ease (_gaccha saumya yathāsukham_), O best of monkeys, for the accomplishment of your purpose (_arthasiddhyai_), and reunite (_samānaya ca_) Vaidehī with the great-souled Rāghava!’
 </details>
 </details>
 
@@ -8585,7 +8585,7 @@ Hanuma saying "Good! Good!".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that third feat (tat tṛtīyaṃ karma) of Hanūmān, most difficult to accomplish, all beings praised the monkey then, crying: ‘Bravo! Bravo (sādhu sādhv iti)!’
+Beholding that third feat (_tat tṛtīyaṃ karma_) of Hanūmān, most difficult to accomplish, all beings praised the monkey then, crying: ‘Bravo! Bravo (_sādhu sādhv iti_)!’
 </details>
 </details>
 
@@ -8634,7 +8634,7 @@ Varuna, entered the sky and went in His original path.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having approached the unassailable (anādhṛṣyam) ocean, the abode of Varuṇa (varuṇālayam), he entered the sky and coursed on with speed like Garuḍa (garuḍopamaḥ)—
+Having approached the unassailable (_anādhṛṣyam_) ocean, the abode of Varuṇa (_varuṇālayam_), he entered the sky and coursed on with speed like Garuḍa (_garuḍopamaḥ_)—
 </details>
 </details>
 
@@ -8771,19 +8771,19 @@ in various ways by excellent courageous groups of Vidyadharas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**174:** In [that sky] frequented by streams of water (vāridhārābhiḥ), resorted to by birds (patagaiḥ), traversed by masters of the kaiśika mode (kaiśikācāryaiḥ), and frequented by Airāvata;
+**174:** In [that sky] frequented by streams of water (_vāridhārābhiḥ_), resorted to by birds (_patagaiḥ_), traversed by masters of the _kaiśika_ mode (_kaiśikācāryaiḥ_), and frequented by Airāvata;
 
-**175:** Adorned with spotless aerial cars (vimānaiḥ) flying about, drawn by lions, elephants, tigers, birds, and serpents (siṃhakuñjaraśārdūlapatagoragavāhanaiḥ);
+**175:** Adorned with spotless aerial cars (_vimānaiḥ_) flying about, drawn by lions, elephants, tigers, birds, and serpents (_siṃhakuñjaraśārdūlapatagoragavāhanaiḥ_);
 
-**176:** Resplendent as though with fires whose touch equals the thunderbolt and lightning (vajrāśanisamasparśaiḥ), and inhabited by merit-earning (kṛtapuṇyaiḥ), illustrious winners of heaven (svargajidbhiḥ);
+**176:** Resplendent as though with fires whose touch equals the thunderbolt and lightning (_vajrāśanisamasparśaiḥ_), and inhabited by merit-earning (_kṛtapuṇyaiḥ_), illustrious winners of heaven (_svargajidbhiḥ_);
 
-**177:** Frequented by the fire-god Citrabhānu (citrabhānunā) bearing the oblation (vahatā havyam) in abundance, and decked with planets, lunar mansions, the moon, the sun, and hosts of stars (tārāgaṇavibhūṣite);
+**177:** Frequented by the fire-god Citrabhānu (_citrabhānunā_) bearing the oblation (_vahatā havyam_) in abundance, and decked with planets, lunar mansions, the moon, the sun, and hosts of stars (_tārāgaṇavibhūṣite_);
 
-**178:** Thronged with hosts of great sages, gandharvas, nāgas, and yakṣas; solitary (vivikte), spotless (vimale), all-pervading (viśve), and frequented by Viśvāvasu (viśvāvasuniṣevite);
+**178:** Thronged with hosts of great sages, _gandharvas_, _nāgas_, and _yakṣas_; solitary (_vivikte_), spotless (_vimale_), all-pervading (_viśve_), and frequented by Viśvāvasu (_viśvāvasuniṣevite_);
 
-**179:** Traversed by the elephants of the king of the gods (devarājagajākrānte), the auspicious path of the moon and the sun (candrasūryapathe śive), the outstretched canopy of the world of living beings (vitāne jīvalokasya), fashioned by Brahmā (brahmanirmite);
+**179:** Traversed by the elephants of the king of the gods (_devarājagajākrānte_), the auspicious path of the moon and the sun (_candrasūryapathe śive_), the outstretched canopy of the world of living beings (_vitāne jīvalokasya_), fashioned by Brahmā (_brahmanirmite_);
 
-**180:** Frequented manifoldly by heroes and encompassed by troops of vidyādharas (vidyādharagaṇair vṛte)—along that path of the Wind (vāyumārge) coursed Māruti like Garutmān (garutmān iva).
+**180:** Frequented manifoldly by heroes and encompassed by troops of _vidyādharas_ (_vidyādharagaṇair vṛte_)—along that path of the Wind (_vāyumārge_) coursed Māruti like Garutmān (_garutmān iva_).
 </details>
 </details>
 
@@ -8820,7 +8820,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing along (prākarṣan) banks of clouds (meghajālāni) like the wind—clouds the color of black aloe-wood (kālāgurusavarṇāni), as well as red, yellow, and white (raktapītasitāni ca)—
+Drawing along (_prākarṣan_) banks of clouds (_meghajālāni_) like the wind—clouds the color of black aloe-wood (_kālāgurusavarṇāni_), as well as red, yellow, and white (_raktapītasitāni ca_)—
 </details>
 </details>
 
@@ -8848,7 +8848,7 @@ Drawing along (prākarṣan) banks of clouds (meghajālāni) like the wind—clo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pulled along (kṛṣyamāṇāni) by the monkey, the great clouds shone brightly (cakāśire); entering the cloud-banks and emerging again and again (punaḥ punaḥ),
+Pulled along (_kṛṣyamāṇāni_) by the monkey, the great clouds shone brightly (_cakāśire_); entering the cloud-banks and emerging again and again (_punaḥ punaḥ_),
 </details>
 </details>
 
@@ -8941,7 +8941,7 @@ will enjoy my meal."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Emerging and entering then, Hanūmān, the son of Māruta, visible everywhere (pradṛśyamānaḥ sarvatra), shone like the moon in the rainy season (prāvṛṣīndur ivābhāti).
+Emerging and entering then, Hanūmān, the son of Māruta, visible everywhere (_pradṛśyamānaḥ sarvatra_), shone like the moon in the rainy season (_prāvṛṣīndur ivābhāti_).
 </details>
 </details>
 
@@ -8987,7 +8987,7 @@ being grasped, Hanuma thought thus.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He coursed through the supportless sky (ambaraṃ nirālambam) like the king of mountains endowed with wings (pakṣayukta ivādrirāṭ). Catching sight of him leaping thus, a rākṣasī named Siṃhikā—
+He coursed through the supportless sky (_ambaraṃ nirālambam_) like the king of mountains endowed with wings (_pakṣayukta ivādrirāṭ_). Catching sight of him leaping thus, a _rākṣasī_ named Siṃhikā—
 </details>
 </details>
 
@@ -9042,7 +9042,7 @@ forcefully, with disabled power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grown old (pravṛddhā) and able to assume any form at will (kāmarūpiṇī), reflected in her mind: ‘Today, after a long time (dīrghasya kālasya), I shall be well fed (bhaviṣyāmy aham āśitā)!’
+Grown old (_pravṛddhā_) and able to assume any form at will (_kāmarūpiṇī_), reflected in her mind: ‘Today, after a long time (_dīrghasya kālasya_), I shall be well fed (_bhaviṣyāmy aham āśitā_)!’
 </details>
 </details>
 
@@ -9138,9 +9138,9 @@ Sugriva. There is no doubt in that."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**186:** ‘After a long time (cirasya), this great creature (mahāsattvam) has come within my power (vaśam āgatam)!’ Reflecting thus in her mind, she seized hold (samākṣipat) of his shadow (chāyām asya).
+**186:** ‘After a long time (_cirasya_), this great creature (_mahāsattvam_) has come within my power (_vaśam āgatam_)!’ Reflecting thus in her mind, she seized hold (_samākṣipat_) of his shadow (_chāyām asya_).
 
-**187:** As his shadow was being seized (chāyāyāṃ gṛhyamāṇāyām), the monkey reflected: ‘I have been suddenly dragged back (samākṣipto 'smi sahasā), my valorous stride crippled (paṅgūkṛtaparākramaḥ)—’
+**187:** As his shadow was being seized (_chāyāyāṃ gṛhyamāṇāyām_), the monkey reflected: ‘I have been suddenly dragged back (_samākṣipto &#x27;smi sahasā_), my valorous stride crippled (_paṅgūkṛtaparākramaḥ_)—’
 </details>
 </details>
 
@@ -9197,7 +9197,7 @@ greatly, like a cloud in rainy season.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Like a great ship (mahānāur iva) on the ocean checked by an adverse wind (pratilomena vātena)!’ Looking sideways, upward, and downward (tiryag ūrdhvam adhaś caiva) then, the monkey—
+‘Like a great ship (_mahānāur iva_) on the ocean checked by an adverse wind (_pratilomena vātena_)!’ Looking sideways, upward, and downward (_tiryag ūrdhvam adhaś caiva_) then, the monkey—
 </details>
 </details>
 
@@ -9248,9 +9248,9 @@ be equal to the middle of Patala.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**189:** Saw a huge creature (mahāsattvam) risen in the salt waters (lavaṇāmbhasi); seeing that deformed-faced demoness (vikṛtānanām), Māruti reflected:
+**189:** Saw a huge creature (_mahāsattvam_) risen in the salt waters (_lavaṇāmbhasi_); seeing that deformed-faced demoness (_vikṛtānanām_), Māruti reflected:
 
-**190:** ‘As was described by the monkey-king (kapirājñā yathākhyātam), a creature of wondrous aspect (adbhutadarśanam), shadow-seizing (chāyāgrāhi) and of mighty power—this is that very one, of this there is no doubt!’
+**190:** ‘As was described by the monkey-king (_kapirājñā yathākhyātam_), a creature of wondrous aspect (_adbhutadarśanam_), shadow-seizing (_chāyāgrāhi_) and of mighty power—this is that very one, of this there is no doubt!’
 </details>
 </details>
 
@@ -9276,7 +9276,7 @@ be equal to the middle of Patala.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing her by the reality of her action (arthatattvena) to be Siṃhikā, the wise, huge-bodied monkey expanded (vyavardhata) like a storm-cloud in the rainy season (prāvṛṣīva balāhakaḥ).
+Recognizing her by the reality of her action (_arthatattvena_) to be Siṃhikā, the wise, huge-bodied monkey expanded (_vyavardhata_) like a storm-cloud in the rainy season (_prāvṛṣīva balāhakaḥ_).
 </details>
 </details>
 
@@ -9350,7 +9350,7 @@ contracted His body and fell into her opened mouth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the body of that great monkey expanding (vardhamānam), she stretched wide (prasārayāmāsa) her maw, which resembled the gulf between the underworld and the sky (pātālāmbharasaṃnibham).
+Seeing the body of that great monkey expanding (_vardhamānam_), she stretched wide (_prasārayāmāsa_) her maw, which resembled the gulf between the underworld and the sky (_pātālāmbharasaṃnibham_).
 </details>
 </details>
 
@@ -9387,7 +9387,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring like a bank of clouds (ghanarājīva garjantī), she rushed (samabhidravat) at the monkey; then he saw her deformed, cavernous mouth (sumahan mukham)—
+Roaring like a bank of clouds (_ghanarājīva garjantī_), she rushed (_samabhidravat_) at the monkey; then he saw her deformed, cavernous mouth (_sumahan mukham_)—
 </details>
 </details>
 
@@ -9457,7 +9457,7 @@ with a speed equal to that of thought.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Matching the measure of his body (kāyamātram), and her vital organs (marmāṇi ca), did that wise and great monkey behold. Then into her deformed mouth, that monkey of adamantine frame (vajrasaṃhananaḥ)—
+Matching the measure of his body (_kāyamātram_), and her vital organs (_marmāṇi ca_), did that wise and great monkey behold. Then into her deformed mouth, that monkey of adamantine frame (_vajrasaṃhananaḥ_)—
 </details>
 </details>
 
@@ -9509,7 +9509,7 @@ developed again by speed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Contracting (saṃkṣipya) himself in an instant (muhuḥ), the great monkey plunged (nipapāta); the siddhas and cāraṇas beheld him sinking (nimajjantam) into her maw,
+Contracting (_saṃkṣipya_) himself in an instant (_muhuḥ_), the great monkey plunged (_nipapāta_); the _siddhas_ and _cāraṇas_ beheld him sinking (_nimajjantam_) into her maw,
 </details>
 </details>
 
@@ -9542,7 +9542,7 @@ Contracting (saṃkṣipya) himself in an instant (muhuḥ), the great monkey pl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the full moon (candraṃ pūrṇam) at the parvan being swallowed (grasyamānam) by Rāhu. Then, tearing open (utkṛtya) her vital organs with his sharp claws (nakhais tīkṣṇaiḥ), the monkey—
+Like the full moon (_candraṃ pūrṇam_) at the _parvan_ being swallowed (_grasyamānam_) by Rāhu. Then, tearing open (_utkṛtya_) her vital organs with his sharp claws (_nakhais tīkṣṇaiḥ_), the monkey—
 </details>
 </details>
 
@@ -9609,7 +9609,7 @@ done. Perform the task dear to you auspiciously."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sprang upward (utpapāta) with speed, his stride swift as thought (manaḥsampātavikramaḥ)! Having struck her down (nipātya) by good fortune (diṣṭyā), steadfastness (dhṛtyā), and dexterity (dākṣiṇyena), he—
+Sprang upward (_utpapāta_) with speed, his stride swift as thought (_manaḥsampātavikramaḥ_)! Having struck her down (_nipātya_) by good fortune (_diṣṭyā_), steadfastness (_dhṛtyā_), and dexterity (_dākṣiṇyena_), he—
 </details>
 </details>
 
@@ -9635,7 +9635,7 @@ Sprang upward (utpapāta) with speed, his stride swift as thought (manaḥsampā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That foremost hero among monkeys, self-possessed (ātmavān), grew great again with speed! With her heart torn out (hṛtahṛt) by Hanūmān, she fell lifeless (vidhurā) into the waters; Hanūmān had been created by the Self-Born himself (svayaṃbhuvaiva) for her destruction (tasyā nipātane).
+That foremost hero among monkeys, self-possessed (_ātmavān_), grew great again with speed! With her heart torn out (_hṛtahṛt_) by Hanūmān, she fell lifeless (_vidhurā_) into the waters; Hanūmān had been created by the Self-Born himself (_svayaṃbhuvaiva_) for her destruction (_tasyā nipātane_).
 </details>
 </details>
 
@@ -9711,7 +9711,7 @@ like the Garuda with a determined goal.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Siṃhikā swiftly slain (hatām) by the monkey and fallen, the sky-roaming beings (bhūtāny ākāśacārīṇi) spoke to that best of leapers:
+Beholding Siṃhikā swiftly slain (_hatām_) by the monkey and fallen, the sky-roaming beings (_bhūtāny ākāśacārīṇi_) spoke to that best of leapers:
 </details>
 </details>
 
@@ -9737,7 +9737,7 @@ Beholding Siṃhikā swiftly slain (hatām) by the monkey and fallen, the sky-ro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘A formidable deed (bhīmaṃ karma) has been accomplished by you today; a mighty creature has been slain! Accomplish now your desired purpose (artham abhipretam) without hindrance (ariṣṭam), O best of leapers!’
+‘A formidable deed (_bhīmaṃ karma_) has been accomplished by you today; a mighty creature has been slain! Accomplish now your desired purpose (_artham abhipretam_) without hindrance (_ariṣṭam_), O best of leapers!’
 </details>
 </details>
 
@@ -9781,7 +9781,7 @@ decorated by a variety of trees and also the forests in the region of Malaya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘He who possesses these four (etāni catvāri), O lord of monkeys, just as you do—steadfastness (dhṛtiḥ), vision (dṛṣṭiḥ), wisdom (matiḥ), and dexterity (dākṣyam)—never falters in his undertakings (karmasu na sīdati)!’
+‘He who possesses these four (_etāni catvāri_), O lord of monkeys, just as you do—steadfastness (_dhṛtiḥ_), vision (_dṛṣṭiḥ_), wisdom (_matiḥ_), and dexterity (_dākṣyam_)—never falters in his undertakings (_karmasu na sīdati_)!’
 </details>
 </details>
 
@@ -9830,7 +9830,7 @@ series of trees at the end of his journey of hundred yojanas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored (sampūjitaḥ) by them whose purpose was thus assured (pratipannaprayojanaiḥ), that worshipful monkey entered the sky and coursed on like the consumer of serpents, Garuḍa (pannagāśanavat).
+Honored (_sampūjitaḥ_) by them whose purpose was thus assured (_pratipannaprayojanaiḥ_), that worshipful monkey entered the sky and coursed on like the consumer of serpents, Garuḍa (_pannagāśanavat_).
 </details>
 </details>
 
@@ -9859,7 +9859,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having nearly reached the further shore (prāptabhūyiṣṭhapāras tu) and gazing all around (sarvataḥ parilokayan), at the end of the hundred yojanas (yojanānāṃ śatasyānte) he beheld a line of forest groves (vanarājīm).
+Having nearly reached the further shore (_prāptabhūyiṣṭhapāras tu_) and gazing all around (_sarvataḥ parilokayan_), at the end of the hundred _yojanas_ (_yojanānāṃ śatasyānte_) he beheld a line of forest groves (_vanarājīm_).
 </details>
 </details>
 
@@ -9914,7 +9914,7 @@ thought the great Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as he descended (patann eva), the best of tree-leapers (śākhāmṛgaśreṣṭhaḥ) beheld the island (dvīpam) adorned with manifold trees, and the groves of Mount Malaya (malayopavanāni ca);
+Even as he descended (_patann eva_), the best of tree-leapers (_śākhāmṛgaśreṣṭhaḥ_) beheld the island (_dvīpam_) adorned with manifold trees, and the groves of Mount Malaya (_malayopavanāni ca_);
 </details>
 </details>
 
@@ -9958,7 +9958,7 @@ one who reached self-realization, free from infatuations.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Observing (vilokayat) the ocean, the coastal marshlands (sāgarānūpān), the trees growing along the coastal marshes (sāgarānūpajān drumān), and also the estuaries of the ocean's river-wives (sāgarasya ca patnīnāṃ mukhāny api).
+Observing (_vilokayat_) the ocean, the coastal marshlands (_sāgarānūpān_), the trees growing along the coastal marshes (_sāgarānūpajān drumān_), and also the estuaries of the ocean&#x27;s river-wives (_sāgarasya ca patnīnāṃ mukhāny api_).
 </details>
 </details>
 
@@ -10006,7 +10006,7 @@ form, like Vishnu who mitigated the strength of Bali by taking three strides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding himself (samīkṣyātmānam) resembling a massive cloud (mahāmeghasaṃkāśam) and as though blocking up the sky (nirundhantam ivākāśam), that self-possessed, wise one formed a resolve (cakāra matim):
+Beholding himself (_samīkṣyātmānam_) resembling a massive cloud (_mahāmeghasaṃkāśam_) and as though blocking up the sky (_nirundhantam ivākāśam_), that self-possessed, wise one formed a resolve (_cakāra matim_):
 </details>
 </details>
 
@@ -10060,7 +10060,7 @@ became with a decided mission.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Upon seeing the vast expansion of my body (kāyavṛddhim) and my headlong speed (pravegaṃ ca), the rākṣasas would be seized with curiosity (kautūhalaṃ kuryuḥ) about me!’—so thought the great-minded one.
+‘Upon seeing the vast expansion of my body (_kāyavṛddhim_) and my headlong speed (_pravegaṃ ca_), the _rākṣasas_ would be seized with curiosity (_kautūhalaṃ kuryuḥ_) about me!’—so thought the great-minded one.
 </details>
 </details>
 
@@ -10142,7 +10142,7 @@ Uddalaka and coconut trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, contracting (saṃkṣipya) that mountain-like body (tan mahīdharasaṃnibham), he resumed his natural form (punaḥ prakṛtim āpede), like a self-realized sage freed from delusion (vītamoha ivātmavān).
+Then, contracting (_saṃkṣipya_) that mountain-like body (_tan mahīdharasaṃnibham_), he resumed his natural form (_punaḥ prakṛtim āpede_), like a self-realized sage freed from delusion (_vītamoha ivātmavān_).
 </details>
 </details>
 
@@ -10207,7 +10207,7 @@ that mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having contracted that form to the utmost (tadrūpam atisaṃkṣipya), Hanūmān stood in his natural state (prakṛtau sthitaḥ), like Hari, the spoiler of Bali's prowess (balivīryaharo hariḥ), after striding his three steps (trīn kramān iva vikramya).
+Having contracted that form to the utmost (_tadrūpam atisaṃkṣipya_), Hanūmān stood in his natural state (_prakṛtau sthitaḥ_), like Hari, the spoiler of Bali&#x27;s prowess (_balivīryaharo hariḥ_), after striding his three steps (_trīn kramān iva vikramya_).
 </details>
 </details>
 
@@ -10261,7 +10261,7 @@ Indra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Capable of assuming lovely and manifold forms (cārunānāvidharūpadhārī), having reached the further shore of the ocean (paraṃ samudratīram) unattainable by others (parair aśakyam), having resumed his natural form (pratipannarūpaḥ), having appraised his own body (samīkṣitātmā) and surveyed his task (samavekṣitārthaḥ)—
+Capable of assuming lovely and manifold forms (_cārunānāvidharūpadhārī_), having reached the further shore of the ocean (_paraṃ samudratīram_) unattainable by others (_parair aśakyam_), having resumed his natural form (_pratipannarūpaḥ_), having appraised his own body (_samīkṣitātmā_) and surveyed his task (_samavekṣitārthaḥ_)—
 </details>
 </details>
 
@@ -10301,7 +10301,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that great-souled one, resembling a massive bank of clouds (mahābhrakūṭapratimaḥ), alighted (nipapāta) upon the opulent, wondrous-peaked summit (vicitrakūṭe kūṭe) of Mount Lamba (lambasya gireḥ), abounding in ketaka, uddālaka, and coconut trees (saketakoddālakanārikele).
+Then that great-souled one, resembling a massive bank of clouds (_mahābhrakūṭapratimaḥ_), alighted (_nipapāta_) upon the opulent, wondrous-peaked summit (_vicitrakūṭe kūṭe_) of Mount Lamba (_lambasya gireḥ_), abounding in _ketaka_, _uddālaka_, and coconut trees (_saketakoddālakanārikele_).
 </details>
 </details>
 
@@ -10341,7 +10341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus gained the ocean shore and beheld Laṅkā upon the crest of the best of mountains (girivaryamūrdhni), the monkey alighted upon that mountain, casting off (vidhūya) his giant form and startling the beasts and birds (vyathayan mṛgadvijān).
+Having thus gained the ocean shore and beheld Laṅkā upon the crest of the best of mountains (_girivaryamūrdhni_), the monkey alighted upon that mountain, casting off (_vidhūya_) his giant form and startling the beasts and birds (_vyathayan mṛgadvijān_).
 </details>
 </details>
 
@@ -10387,6 +10387,6 @@ Having thus gained the ocean shore and beheld Laṅkā upon the crest of the bes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having by his might strode across (vikramya) the ocean garlanded with huge waves (mahormimālinam) and teeming with dānavas and pannagas, and alighting upon the shore of the great sea, he then beheld Laṅkā resembling Amarāvatī (laṅkām amarāvatīm iva).
+Having by his might strode across (_vikramya_) the ocean garlanded with huge waves (_mahormimālinam_) and teeming with _dānavas_ and _pannagas_, and alighting upon the shore of the great sea, he then beheld Laṅkā resembling Amarāvatī (_laṅkām amarāvatīm iva_).
 </details>
 </details>

@@ -61,7 +61,7 @@ At dawn on the following day, royal bards, genealogists, singers, and hand-clapp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the night had passed away, at early dawn on the following day (prātar evāpare ’hani), panegyrists (vandinaḥ) attended upon that royal palace (tat pārthiva-niveśanam).
+Then, when the night had passed away, at early dawn on the following day (_prātar evāpare ’hani_), panegyrists (_vandinaḥ_) attended upon that royal palace (_tat pārthiva-niveśanam_).
 </details>
 </details>
 
@@ -117,7 +117,7 @@ recitations in different styles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Charioteer-bards of supreme culture (sūtāḥ parama-saṃskārāḥ), reciters of auspicious genealogies well-versed in sacred lore (maṅgalāś cottama-śrutāḥ), and singers devoted to praise (gāyakāḥ stuti-śīlāś ca) proclaimed their eulogies severally (nigadantaḥ pṛthak pṛthak).
+Charioteer-bards of supreme culture (_sūtāḥ parama-saṃskārāḥ_), reciters of auspicious genealogies well-versed in sacred lore (_maṅgalāś cottama-śrutāḥ_), and singers devoted to praise (_gāyakāḥ stuti-śīlāś ca_) proclaimed their eulogies severally (_nigadantaḥ pṛthak pṛthak_).
 </details>
 </details>
 
@@ -169,7 +169,7 @@ accolades of the king, pervaded in full the interior area of the palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they praised the monarch, uttering blessings in exalted tones (udāttābhihitāśiṣām), the sound of their eulogy spread wide through the expanses of the palace (prāsādābhoga-vistīrṇaḥ).
+As they praised the monarch, uttering blessings in exalted tones (_udāttābhihitāśiṣām_), the sound of their eulogy spread wide through the expanses of the palace (_prāsādābhoga-vistīrṇaḥ_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ claps, eulogizing the previous glorious acts of Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, while those bards were singing praises, rhythmic hand-clappers (pāṇi-vādakāḥ), recounting glorious royal deeds of yore (apadānāny udāhṛtya), sounded their hand-clapping (pāṇi-vādān avādayan).
+Then, while those bards were singing praises, rhythmic hand-clappers (_pāṇi-vādakāḥ_), recounting glorious royal deeds of yore (_apadānāny udāhṛtya_), sounded their hand-clapping (_pāṇi-vādān avādayan_).
 </details>
 </details>
 
@@ -273,7 +273,7 @@ cages were awakened by that sound and began to twitter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Awakened by that sound, the birds that dwelt about the royal household (ye rāja-kula-gocarāḥ)—both those perched on branches (śākhā-sthāḥ) and those kept in cages (pañjara-sthāḥ)—uttered their cries (visasvanuḥ).
+Awakened by that sound, the birds that dwelt about the royal household (_ye rāja-kula-gocarāḥ_)—both those perched on branches (_śākhā-sthāḥ_) and those kept in cages (_pañjara-sthāḥ_)—uttered their cries (_visasvanuḥ_).
 </details>
 </details>
 
@@ -325,7 +325,7 @@ blissful songs of the metric verses filled that palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Auspicious words uttered aloud (vyāhṛtāḥ puṇya-śabdāś ca), the sweet murmurings of lutes (vīṇānāṃ niḥsvanāḥ), and the benedictory singing of ballads (āśīr-geyaṃ ca gāthānām) filled that mansion.
+Auspicious words uttered aloud (_vyāhṛtāḥ puṇya-śabdāś ca_), the sweet murmurings of lutes (_vīṇānāṃ niḥsvanāḥ_), and the benedictory singing of ballads (_āśīr-geyaṃ ca gāthānām_) filled that mansion.
 </details>
 </details>
 
@@ -385,7 +385,7 @@ the services to the king, most of whom were women and eunuchs, arrived there to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then attendants of pure conduct (śuci-samācārāḥ), skilled in personal attendance (paryupasthāna-kovidāḥ) and consisting chiefly of women and chamberlain-eunuchs (strī-varṣadhara-bhūyiṣṭhāḥ), waited upon him as before (yathā-puram).
+Then attendants of pure conduct (_śuci-samācārāḥ_), skilled in personal attendance (_paryupasthāna-kovidāḥ_) and consisting chiefly of women and chamberlain-eunuchs (_strī-varṣadhara-bhūyiṣṭhāḥ_), waited upon him as before (_yathā-puram_).
 </details>
 </details>
 
@@ -438,7 +438,7 @@ golden pitchers in accordance with appropriate time and the set procedures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those versed in the science of the royal bath (snāna-śikṣā-jñāḥ) brought water mingled with yellow sandalwood (hari-candana-sampṛktam udakam) in golden pitchers at the proper hour and according to rule.
+Those versed in the science of the royal bath (_snāna-śikṣā-jñāḥ_) brought water mingled with yellow sandalwood (_hari-candana-sampṛktam udakam_) in golden pitchers at the proper hour and according to rule.
 </details>
 </details>
 
@@ -493,7 +493,7 @@ to the touch, eatables, decorative clothing and ornaments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Other women too, mostly young maidens (kumārī-bahulāḥ striyaḥ), brought auspicious articles to be touched (maṅgalālambhanīyāni), morning draughts to be sipped (prāśanīyāni), and royal accoutrements (upaskarān).
+Other women too, mostly young maidens (_kumārī-bahulāḥ striyaḥ_), brought auspicious articles to be touched (_maṅgalālambhanīyāni_), morning draughts to be sipped (_prāśanīyāni_), and royal accoutrements (_upaskarān_).
 </details>
 </details>
 
@@ -546,7 +546,7 @@ offered with reverence as per prescribed scriptures. All that was extremely grac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with every auspicious mark (sarva-lakṣaṇa-sampannam), all duly consecrated (vidhivad arcitam), and possessing fine qualities and beauty (suguṇa-lakṣmīvat), all that morning offering (ābhihārikam) stood ready.
+Endowed with every auspicious mark (_sarva-lakṣaṇa-sampannam_), all duly consecrated (_vidhivad arcitam_), and possessing fine qualities and beauty (_suguṇa-lakṣmīvat_), all that morning offering (_ābhihārikam_) stood ready.
 </details>
 </details>
 
@@ -598,7 +598,7 @@ with a suspicion as to what was it, stayed thus till sunrise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, until sunrise (sūryodayaṃ yāvat), that entire retinue stood eagerly expectant (parisamutsukam); and since the king did not come forth (anupasamprāptam), they grew apprehensive, wondering, “What can this be?” (kiṃsvid ity upaśaṅkitam).
+Then, until sunrise (_sūryodayaṃ yāvat_), that entire retinue stood eagerly expectant (_parisamutsukam_); and since the king did not come forth (_anupasamprāptam_), they grew apprehensive, wondering, “What can this be?” (_kiṃsvid ity upaśaṅkitam_).
 </details>
 </details>
 
@@ -653,7 +653,7 @@ him and woke him up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those women who were closest to the couch of the lord of Kosala (śayanaṃ pratyanantarāḥ) drew near together and sought to awaken their lord (bhartāraṃ pratyabodhayan).
+Then those women who were closest to the couch of the lord of Kosala (_śayanaṃ pratyanantarāḥ_) drew near together and sought to awaken their lord (_bhartāraṃ pratyabodhayan_).
 </details>
 </details>
 
@@ -714,7 +714,7 @@ and could not detect any sign of life whatsoever in him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet, though well-practiced in their duties (ucita-vṛttāḥ) with modesty and discretion (vinayena nayena ca), upon touching his couch they perceived no sign of life whatever (na kiñcid apy upalebhire).
+Yet, though well-practiced in their duties (_ucita-vṛttāḥ_) with modesty and discretion (_vinayena nayena ca_), upon touching his couch they perceived no sign of life whatever (_na kiñcid apy upalebhire_).
 </details>
 </details>
 
@@ -770,7 +770,7 @@ they resembled like tips of reeds standing against a stream.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those women, well-acquainted with the nature of his sleep (svapna-śīla-jñāḥ) in respect of bodily movement and stirrings (ceṣṭā-sañcalanādiṣu), were seized with trembling (vepathu-parītāś ca); fearful for the king’s life-breath (rājñaḥ prāṇeṣu śaṅkitāḥ), they quivered like the tips of reeds against a current (pratisrotas-tṛṇāgrāṇāṃ sadṛśam).
+Those women, well-acquainted with the nature of his sleep (_svapna-śīla-jñāḥ_) in respect of bodily movement and stirrings (_ceṣṭā-sañcalanādiṣu_), were seized with trembling (_vepathu-parītāś ca_); fearful for the king’s life-breath (_rājñaḥ prāṇeṣu śaṅkitāḥ_), they quivered like the tips of reeds against a current (_pratisrotas-tṛṇāgrāṇāṃ sadṛśam_).
 </details>
 </details>
 
@@ -825,7 +825,7 @@ calamity (of death) that was apprehended.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as those doubting women (sandehamānānāṃ strīṇām) gazed upon the monarch, certainty arose (jajñe viniścayaḥ) regarding that dreaded calamity which they had feared (yat tad āśaṅkitaṃ pāpam).
+Then, as those doubting women (_sandehamānānāṃ strīṇām_) gazed upon the monarch, certainty arose (_jajñe viniścayaḥ_) regarding that dreaded calamity which they had feared (_yat tad āśaṅkitaṃ pāpam_).
 </details>
 </details>
 
@@ -871,7 +871,7 @@ wake up, as though they were completely overtaken by death.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overcome by grief for their sons (putra-śoka-parājite), both Kausalyā and Sumitrā lay fast asleep and did not awake (prasupte na prabudhyete), as though overtaken by death itself (yathā kāla-samanvite).
+Overcome by grief for their sons (_putra-śoka-parājite_), both Kausalyā and Sumitrā lay fast asleep and did not awake (_prasupte na prabudhyete_), as though overtaken by death itself (_yathā kāla-samanvite_).
 </details>
 </details>
 
@@ -923,7 +923,7 @@ shine brightly (as before) like a star hidden away in darkness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of luster and pale of complexion (niṣprabhā ca vivarṇā ca), wasted and bowed down by grief (sannā śokena sannatā), Kausalyā did not shine, like a star shrouded in darkness (tāreva timirāvṛtā).
+Bereft of luster and pale of complexion (_niṣprabhā ca vivarṇā ca_), wasted and bowed down by grief (_sannā śokena sannatā_), Kausalyā did not shine, like a star shrouded in darkness (_tāreva timirāvṛtā_).
 </details>
 </details>
 
@@ -975,7 +975,7 @@ not shining as before with her face ruffled by tears of grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Next to the king lay Kausalyā, and next to her (tad-anantaram) Queen Sumitrā; with her face bedewed with tears of grief (śokāśru-lulitānanā), she too did not shine.
+Next to the king lay Kausalyā, and next to her (_tad-anantaram_) Queen Sumitrā; with her face bedewed with tears of grief (_śokāśru-lulitānanā_), she too did not shine.
 </details>
 </details>
 
@@ -1036,7 +1036,7 @@ also the king in that manner, thought that the king had lost his life while just
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding both those auspicious queens asleep in that manner and that monarch lifeless even in his sleep (suptam evodgata-prāṇam), the entire inner apartment looked as though its own life-breath had departed (antaḥpuram adṛśyata).
+Beholding both those auspicious queens asleep in that manner and that monarch lifeless even in his sleep (_suptam evodgata-prāṇam_), the entire inner apartment looked as though its own life-breath had departed (_antaḥpuram adṛśyata_).
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those noble women, stricken with misery, cried out aloud in lamentation (pracukruśur dīnāḥ sasvaram), like female elephants in the forest when the leader of their herd has been driven from his station (sthāna-pracyuta-yūthapāḥ).
+Then those noble women, stricken with misery, cried out aloud in lamentation (_pracukruśur dīnāḥ sasvaram_), like female elephants in the forest when the leader of their herd has been driven from his station (_sthāna-pracyuta-yūthapāḥ_).
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ woke up from sleep.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the sound of their loud wailing (tāsām ākranda-śabdena), Kausalyā and Sumitrā, their consciousness suddenly aroused (sahasoddhata-cetane), cast off their sleep (tyakta-nidre babhūvatuḥ).
+At the sound of their loud wailing (_tāsām ākranda-śabdena_), Kausalyā and Sumitrā, their consciousness suddenly aroused (_sahasoddhata-cetane_), cast off their sleep (_tyakta-nidre babhūvatuḥ_).
 </details>
 </details>
 
@@ -1196,7 +1196,7 @@ fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding and touching the monarch (dṛṣṭvā spṛṣṭvā ca pārthivam), Kausalyā and Sumitrā cried out, “Alas, O Lord!” (hā nātheti parikruśya) and fell down upon the surface of the earth (petatur dharaṇī-tale).
+Beholding and touching the monarch (_dṛṣṭvā spṛṣṭvā ca pārthivam_), Kausalyā and Sumitrā cried out, “Alas, O Lord!” (_hā nātheti parikruśya_) and fell down upon the surface of the earth (_petatur dharaṇī-tale_).
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ not shining as before and resembled a star falling down from the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Writhing upon the ground (veṣṭamānā mahī-tale) and covered with dust (rajo-dhvastā), that daughter of the king of Kosala (kosalendra-duhitā) did not shine, like a star fallen from the sky (tāreva gaganāc cyutā).
+Writhing upon the ground (_veṣṭamānā mahī-tale_) and covered with dust (_rajo-dhvastā_), that daughter of the king of Kosala (_kosalendra-duhitā_) did not shine, like a star fallen from the sky (_tāreva gaganāc cyutā_).
 </details>
 </details>
 
@@ -1304,7 +1304,7 @@ appearing as a female elephant, which was killed and felled on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the king’s vital faculties had stilled (nṛpe śānta-guṇe jāte), all those women beheld Kausalyā fallen upon the ground like a slain female elephant (hatāṃ nāga-vadhūm iva).
+When the king’s vital faculties had stilled (_nṛpe śānta-guṇe jāte_), all those women beheld Kausalyā fallen upon the ground like a slain female elephant (_hatāṃ nāga-vadhūm iva_).
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ fell unconscious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all the wives of the monarch, headed by Kaikeyī (kaikeyī-pramukhāḥ striyaḥ), weeping and tormented with grief (śoka-santaptāḥ), fell down bereft of consciousness (nipetur gata-cetanaḥ).
+Then all the wives of the monarch, headed by Kaikeyī (_kaikeyī-pramukhāḥ striyaḥ_), weeping and tormented with grief (_śoka-santaptāḥ_), fell down bereft of consciousness (_nipetur gata-cetanaḥ_).
 </details>
 </details>
 
@@ -1407,7 +1407,7 @@ rendered the house all the more noisy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That mighty roar (sa balavān nādaḥ) was followed and swelled by those weeping women (krośantībhir anudrutaḥ), whereby, amplified yet further (sphītīkṛtaṃ bhūyaḥ), it made that entire palace resound (tad gṛhaṃ samanādayat).
+That mighty roar (_sa balavān nādaḥ_) was followed and swelled by those weeping women (_krośantībhir anudrutaḥ_), whereby, amplified yet further (_sphītīkṛtaṃ bhūyaḥ_), it made that entire palace resound (_tad gṛhaṃ samanādayat_).
 </details>
 </details>
 
@@ -1471,9 +1471,9 @@ despondency.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Filled with terrified and bewildered people (samuttrasta-sambhrāntam), crowded with anxious folk (paryutsuka-janākulam), resounding on all sides with tumultuous wailing (sarvatas tumulākrandam), and having its kinsfolk stricken with anguish (paritāpārta-bāndhavam)—
+**27:** Filled with terrified and bewildered people (_samuttrasta-sambhrāntam_), crowded with anxious folk (_paryutsuka-janākulam_), resounding on all sides with tumultuous wailing (_sarvatas tumulākrandam_), and having its kinsfolk stricken with anguish (_paritāpārta-bāndhavam_)—
 
-**28:** —with its joy suddenly struck down (sadyo nipatitānandam) and wearing a wretched, distraught aspect (dīna-viklaba-darśanam), such became the abode of the lord of men who had met his destined end (diṣṭāntam īyuṣaḥ).
+**28:** —with its joy suddenly struck down (_sadyo nipatitānandam_) and wearing a wretched, distraught aspect (_dīna-viklaba-darśanam_), such became the abode of the lord of men who had met his destined end (_diṣṭāntam īyuṣaḥ_).
 </details>
 </details>
 
@@ -1550,7 +1550,7 @@ another, like orphans.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning that the glorious bull among monarchs had passed away (atītam ājñāya tu pārthivarṣabham), his wives surrounded him on all sides (samparivārya patnayaḥ); weeping bitterly and piteously in their deep sorrow, and clasping their arms (pragṛhya bāhū), they lamented like ones bereft of a protector (vyalapann anāthavat).
+Learning that the glorious bull among monarchs had passed away (_atītam ājñāya tu pārthivarṣabham_), his wives surrounded him on all sides (_samparivārya patnayaḥ_); weeping bitterly and piteously in their deep sorrow, and clasping their arms (_pragṛhya bāhū_), they lamented like ones bereft of a protector (_vyalapann anāthavat_).
 </details>
 </details>
 

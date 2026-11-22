@@ -49,7 +49,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of Lakṣmaṇa, the slayer of foes [Rāma] (śatru-nibarhaṇaḥ) said: “Relate in full the slaying of Vṛtra, O keeper of noble vows (vṛtra-ghātam aśeṣeṇa kathayety āha suvrata)!”
+Hearing those words of Lakṣmaṇa, the slayer of foes [Rāma] (_śatru-nibarhaṇaḥ_) said: “Relate in full the slaying of Vṛtra, O keeper of noble vows (_vṛtra-ghātam aśeṣeṇa kathayety āha suvrata_)!”
 </details>
 </details>
 
@@ -80,7 +80,7 @@ Hearing those words of Lakṣmaṇa, the slayer of foes [Rāma] (śatru-nibarha�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāghava, the increaser of Sumitrā’s joy (sumitrānanda-vardhanaḥ), steadfast in vows (suvrataḥ), once again narrated that divine story (bhūya eva kathāṃ divyāṃ kathayām āsa):
+Thus addressed by Rāghava, the increaser of Sumitrā’s joy (_sumitrānanda-vardhanaḥ_), steadfast in vows (_suvrataḥ_), once again narrated that divine story (_bhūya eva kathāṃ divyāṃ kathayām āsa_):
 </details>
 </details>
 
@@ -111,7 +111,7 @@ Thus addressed by Rāghava, the increaser of Sumitrā’s joy (sumitrānanda-var
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having heard the words of the thousand-eyed one and of all the dwellers in heaven (sahasrākṣa-vacaḥ śrutvā sarveṣāṃ ca divaukasām), Viṣṇu spoke this to all the gods headed by Indra (viṣṇur devān uvācedaṃ sarvān indra-purogamān):
+“Having heard the words of the thousand-eyed one and of all the dwellers in heaven (_sahasrākṣa-vacaḥ śrutvā sarveṣāṃ ca divaukasām_), Viṣṇu spoke this to all the gods headed by Indra (_viṣṇur devān uvācedaṃ sarvān indra-purogamān_):
 </details>
 </details>
 
@@ -142,7 +142,7 @@ Thus addressed by Rāghava, the increaser of Sumitrā’s joy (sumitrānanda-var
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Of old I have been bound by ties of friendship to the great-souled Vṛtra (pūrvaṃ sauhṛda-baddho ’smi vṛtrasya ha mahātmanaḥ); therefore, even for your pleasure, I will not myself slay the great asura (tena yuṣmat-priyārthaṃ hi nāhaṃ hanmi mahāsuram).
+“‘Of old I have been bound by ties of friendship to the great-souled Vṛtra (_pūrvaṃ sauhṛda-baddho ’smi vṛtrasya ha mahātmanaḥ_); therefore, even for your pleasure, I will not myself slay the great asura (_tena yuṣmat-priyārthaṃ hi nāhaṃ hanmi mahāsuram_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ Thus addressed by Rāghava, the increaser of Sumitrā’s joy (sumitrānanda-var
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Yet your supreme welfare must certainly be accomplished (avaśyaṃ karaṇīyaṃ ca bhavatāṃ sukham uttamam); therefore I shall declare a stratagem by which Vṛtra shall be slain (tasmād upāyam ākhyāsye yena vṛtro nihanyate).
+“‘Yet your supreme welfare must certainly be accomplished (_avaśyaṃ karaṇīyaṃ ca bhavatāṃ sukham uttamam_); therefore I shall declare a stratagem by which Vṛtra shall be slain (_tasmād upāyam ākhyāsye yena vṛtro nihanyate_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I shall divide myself into three parts, O foremost of gods (tridhābhūtaṃ kariṣyāmi hy ātmānaṃ sura-sattamāḥ); through that, the thousand-eyed one will undoubtedly slay Vṛtra (tena vṛtraṃ sahasrākṣo vadhiṣyati na saṃśayaḥ).
+“‘I shall divide myself into three parts, O foremost of gods (_tridhābhūtaṃ kariṣyāmi hy ātmānaṃ sura-sattamāḥ_); through that, the thousand-eyed one will undoubtedly slay Vṛtra (_tena vṛtraṃ sahasrākṣo vadhiṣyati na saṃśayaḥ_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Let one portion enter Vāsava, the second into the thunderbolt itself (ekāṃśo vāsavaṃ yātu dvitīyo vajram eva tu), and the third into the earth (tṛtīyo bhūtalam); then Śakra will slay Vṛtra (śakras tadā vṛtraṃ vadhiṣyati).’
+“‘Let one portion enter Vāsava, the second into the thunderbolt itself (_ekāṃśo vāsavaṃ yātu dvitīyo vajram eva tu_), and the third into the earth (_tṛtīyo bhūtalam_); then Śakra will slay Vṛtra (_śakras tadā vṛtraṃ vadhiṣyati_).’
 </details>
 </details>
 
@@ -287,9 +287,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “While the Lord of the gods was speaking thus (tathā bruvati deveśe), the gods then spoke these words (devā vākyam athābruvan): ‘So it is, without doubt, just as you say, O slayer of daityas (evam etan na sandeho yathā vadasi daityahan)!
+**8:** “While the Lord of the gods was speaking thus (_tathā bruvati deveśe_), the gods then spoke these words (_devā vākyam athābruvan_): ‘So it is, without doubt, just as you say, O slayer of daityas (_evam etan na sandeho yathā vadasi daityahan_)!
 
-**9:** “‘May good fortune attend you! Desiring the slaying of the asura Vṛtra, we shall depart (gamiṣyāmo vṛtrāsura-vadhaiṣiṇaḥ); enter Vāsava with your own splendor, O exceedingly munificent one (bhajasva paramodāra vāsavaṃ svena tejasā)!’
+**9:** “‘May good fortune attend you! Desiring the slaying of the asura Vṛtra, we shall depart (_gamiṣyāmo vṛtrāsura-vadhaiṣiṇaḥ_); enter Vāsava with your own splendor, O exceedingly munificent one (_bhajasva paramodāra vāsavaṃ svena tejasā_)!’
 </details>
 </details>
 
@@ -320,7 +320,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all those great-souled gods, headed by the thousand-eyed one (sahasrākṣa-purogamāḥ), set out for that forest where the great asura Vṛtra dwelt (tadāraṇyam upākrāman yatra vṛtro mahāsuraḥ).
+“Then all those great-souled gods, headed by the thousand-eyed one (_sahasrākṣa-purogamāḥ_), set out for that forest where the great asura Vṛtra dwelt (_tadāraṇyam upākrāman yatra vṛtro mahāsuraḥ_).
 </details>
 </details>
 
@@ -354,7 +354,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“They beheld that foremost of asuras blazing with fiery energy as he practiced penance (te paśyaṃs tejasā bhūtaṃ tapyantam asurottamam), seeming to drink up the three worlds and scorch the very sky (pibantam iva lokāṃs trīn nirdahantam ivāmbaram).
+“They beheld that foremost of asuras blazing with fiery energy as he practiced penance (_te paśyaṃs tejasā bhūtaṃ tapyantam asurottamam_), seeming to drink up the three worlds and scorch the very sky (_pibantam iva lokāṃs trīn nirdahantam ivāmbaram_).
 </details>
 </details>
 
@@ -385,7 +385,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No sooner had they beheld that best of asuras than the gods fell into terror (dṛṣṭvaiva cāsura-śreṣṭhaṃ devās trāsam upāgaman): ‘How shall we slay him? How shall defeat not befall us (katham enaṃ vadhiṣyāmaḥ kathaṃ na syāt parājayaḥ)?’
+“No sooner had they beheld that best of asuras than the gods fell into terror (_dṛṣṭvaiva cāsura-śreṣṭhaṃ devās trāsam upāgaman_): ‘How shall we slay him? How shall defeat not befall us (_katham enaṃ vadhiṣyāmaḥ kathaṃ na syāt parājayaḥ_)?’
 </details>
 </details>
 
@@ -427,7 +427,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even as they stood deliberating there (teṣāṃ cintayatāṃ tatra), the thousand-eyed destroyer of citadels (sahasrākṣaḥ purandaraḥ), seizing the thunderbolt with both hands, hurled it onto Vṛtra’s head (vajraṃ pragṛhya pāṇibhyāṃ prāhiṇod vṛtra-mūrdhani).
+“Even as they stood deliberating there (_teṣāṃ cintayatāṃ tatra_), the thousand-eyed destroyer of citadels (_sahasrākṣaḥ purandaraḥ_), seizing the thunderbolt with both hands, hurled it onto Vṛtra’s head (_vajraṃ pragṛhya pāṇibhyāṃ prāhiṇod vṛtra-mūrdhani_).
 </details>
 </details>
 
@@ -458,7 +458,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the falling head of Vṛtra—blazing with great flame like the dreadful fire of doom (kālāgnineva ghoreṇa taptenaiva mahārciṣā | patatā vṛtra-śirasā)—the entire universe fell into terror (jagat trāsam upāgamat).
+“At the falling head of Vṛtra—blazing with great flame like the dreadful fire of doom (_kālāgnineva ghoreṇa taptenaiva mahārciṣā | patatā vṛtra-śirasā_)—the entire universe fell into terror (_jagat trāsam upāgamat_).
 </details>
 </details>
 
@@ -492,7 +492,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Brooding over that unseemly slaying of Vṛtra (asambhāvyaṃ vadhaṃ tasya vṛtrasya ... cintayānaḥ), the renowned lord of the gods fled swiftly to the very end of the worlds (jagāmāśu lokasyāntaṃ mahāyaśāḥ).
+“Brooding over that unseemly slaying of Vṛtra (_asambhāvyaṃ vadhaṃ tasya vṛtrasya ... cintayānaḥ_), the renowned lord of the gods fled swiftly to the very end of the worlds (_jagāmāśu lokasyāntaṃ mahāyaśāḥ_).
 </details>
 </details>
 
@@ -523,7 +523,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Swiftly the sin of brahmin-slaughter pursued that fleeing Indra (tam indraṃ brahmahatyā ’ ’śu gacchantam anugacchati); it descended upon his limbs, and deep anguish entered into Indra (apatac cāsya gātreṣu tam indraṃ duḥkham āviśat).
+“Swiftly the sin of brahmin-slaughter pursued that fleeing Indra (_tam indraṃ brahmahatyā ’ ’śu gacchantam anugacchati_); it descended upon his limbs, and deep anguish entered into Indra (_apatac cāsya gātreṣu tam indraṃ duḥkham āviśat_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With their foe slain yet their Indra vanished (hatārayaḥ pranaṣṭendrāḥ), the gods headed by Agni (devāḥ sāgni-purogamāḥ) worshipped Viṣṇu, lord of the three worlds, again and again (viṣṇuṃ tribhuvaneśānaṃ muhur muhur apūjayan).
+“With their foe slain yet their Indra vanished (_hatārayaḥ pranaṣṭendrāḥ_), the gods headed by Agni (_devāḥ sāgni-purogamāḥ_) worshipped Viṣṇu, lord of the three worlds, again and again (_viṣṇuṃ tribhuvaneśānaṃ muhur muhur apūjayan_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ Praising Viṣṇu as the primeval Father who assumed his preserving form to pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You are our refuge, O supreme Lord, the first-born Father of the universe (tvaṃ gatiḥ parameśāna pūrvajo jagataḥ pitā); for the protection of all living beings you have assumed the state of Viṣṇu (rakṣārthaṃ sarva-bhūtānāṃ viṣṇutvam upajagmivān).
+“‘You are our refuge, O supreme Lord, the first-born Father of the universe (_tvaṃ gatiḥ parameśāna pūrvajo jagataḥ pitā_); for the protection of all living beings you have assumed the state of Viṣṇu (_rakṣārthaṃ sarva-bhūtānāṃ viṣṇutvam upajagmivān_).
 </details>
 </details>
 
@@ -624,7 +624,7 @@ Praising Viṣṇu as the primeval Father who assumed his preserving form to pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘By you has this Vṛtra been slain, and now brahmin-slaughter afflicts Vāsava (hataś cāyaṃ tvayā vṛtro brahmahatyā ca vāsavam bādhate); O tiger among gods, ordain a deliverance from it (sura-śārdūla mokṣaṃ tasyā vinirdiśa)!’
+“‘By you has this Vṛtra been slain, and now brahmin-slaughter afflicts Vāsava (_hataś cāyaṃ tvayā vṛtro brahmahatyā ca vāsavam bādhate_); O tiger among gods, ordain a deliverance from it (_sura-śārdūla mokṣaṃ tasyā vinirdiśa_)!’
 </details>
 </details>
 
@@ -655,7 +655,7 @@ Praising Viṣṇu as the primeval Father who assumed his preserving form to pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of the gods, Viṣṇu spoke (teṣāṃ tadvacanaṃ śrutvā devānāṃ viṣṇur abravīt): ‘Let Śakra worship me alone, and I shall purify the wielder of the thunderbolt (mām eva yajatāṃ śakraḥ pāvayiṣyāmi vajriṇam).
+“Hearing those words of the gods, Viṣṇu spoke (_teṣāṃ tadvacanaṃ śrutvā devānāṃ viṣṇur abravīt_): ‘Let Śakra worship me alone, and I shall purify the wielder of the thunderbolt (_mām eva yajatāṃ śakraḥ pāvayiṣyāmi vajriṇam_).
 </details>
 </details>
 
@@ -686,7 +686,7 @@ Praising Viṣṇu as the primeval Father who assumed his preserving form to pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having worshipped me with the sacred horse sacrifice (puṇyena hayamedhena mām iṣṭvā), the chastiser of Pāka shall once again attain fearless sovereignty over the gods (punar eṣyati devānām indratvam akutobhayam).’
+“‘Having worshipped me with the sacred horse sacrifice (_puṇyena hayamedhena mām iṣṭvā_), the chastiser of Pāka shall once again attain fearless sovereignty over the gods (_punar eṣyati devānām indratvam akutobhayam_).’
 </details>
 </details>
 
@@ -728,6 +728,6 @@ Praising Viṣṇu as the primeval Father who assumed his preserving form to pro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having imparted that nectar-like utterance to the gods (evaṃ sandiśya tāṃ vāṇīṃ devānām amṛtopamām), Viṣṇu, Lord of the gods, departed to heaven while being extolled by them (jagāma viṣṇur deveśaḥ stūyamānas triviṣṭapam).”
+“Having imparted that nectar-like utterance to the gods (_evaṃ sandiśya tāṃ vāṇīṃ devānām amṛtopamām_), Viṣṇu, Lord of the gods, departed to heaven while being extolled by them (_jagāma viṣṇur deveśaḥ stūyamānas triviṣṭapam_).”
 </details>
 </details>

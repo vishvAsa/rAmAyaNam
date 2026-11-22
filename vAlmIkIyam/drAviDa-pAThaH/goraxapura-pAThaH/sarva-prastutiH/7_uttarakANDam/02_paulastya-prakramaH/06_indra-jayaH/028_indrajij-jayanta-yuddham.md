@@ -52,9 +52,9 @@ Seeing Sumālin reduced to ashes and his army routed, the enraged Meghanāda ral
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding Sumālin slain and reduced to ashes by the Vasu (vasunā bhasmasāt-kṛtam), and perceiving his own army put to flight (svasainyaṃ vidrutam) and sorely afflicted by the gods (arditaṃ suraiḥ),
+**1:** Beholding Sumālin slain and reduced to ashes by the Vasu (_vasunā bhasmasāt-kṛtam_), and perceiving his own army put to flight (_svasainyaṃ vidrutam_) and sorely afflicted by the gods (_arditaṃ suraiḥ_),
 
-**2:** That mighty and enraged son of Rāvaṇa (balavān kruddho rāvaṇasya sutaḥ), Meghanāda, then rallied all the rākṣasas (nivartya rākṣasān sarvān) and took his stand in the fray (vyavasthitaḥ).
+**2:** That mighty and enraged son of Rāvaṇa (_balavān kruddho rāvaṇasya sutaḥ_), Meghanāda, then rallied all the rākṣasas (_nivartya rākṣasān sarvān_) and took his stand in the fray (_vyavasthitaḥ_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ Seeing Sumālin reduced to ashes and his army routed, the enraged Meghanāda ral
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounted upon a splendid, fire-hued chariot moving at will (surathenāgni-varṇena kāmagena), that great car-warrior (mahārathaḥ) charged against that host (abhidudrāva senāṃ tām) like a blazing fire rushing upon forests (vanāny agnir iva jvalan).
+Mounted upon a splendid, fire-hued chariot moving at will (_surathenāgni-varṇena kāmagena_), that great car-warrior (_mahārathaḥ_) charged against that host (_abhidudrāva senāṃ tām_) like a blazing fire rushing upon forests (_vanāny agnir iva jvalan_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Mounted upon a splendid, fire-hued chariot moving at will (surathenāgni-varṇe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as he entered the field bearing manifold weapons (praviśatas tasya vividhāyudha-dhāriṇaḥ), the gods fled in every direction (vidudruvur diśaḥ sarvāḥ) at the mere sight of him (darśanād eva).
+Then, as he entered the field bearing manifold weapons (_praviśatas tasya vividhāyudha-dhāriṇaḥ_), the gods fled in every direction (_vidudruvur diśaḥ sarvāḥ_) at the mere sight of him (_darśanād eva_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Then, as he entered the field bearing manifold weapons (praviśatas tasya vividh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There was none then to stand before him as he yearned for battle (yuyutsor asya sammukhe); thereupon Śakra, piercing with sharp rebuke all those terrified gods (sarvān āviddhya vitrastān), addressed the celestials:
+There was none then to stand before him as he yearned for battle (_yuyutsor asya sammukhe_); thereupon Śakra, piercing with sharp rebuke all those terrified gods (_sarvān āviddhya vitrastān_), addressed the celestials:
 </details>
 </details>
 
@@ -181,7 +181,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not fear, do not flee (na bhetavyaṃ na gantavyam)! Turn back into the battle, O gods (nivartadhvaṃ raṇe surāḥ)! Behold, this unconquered son of mine (putro me ... aparājitaḥ) goes forth to do battle (yuddhārtham)!”
+“Do not fear, do not flee (_na bhetavyaṃ na gantavyam_)! Turn back into the battle, O gods (_nivartadhvaṃ raṇe surāḥ_)! Behold, this unconquered son of mine (_putro me ... aparājitaḥ_) goes forth to do battle (_yuddhārtham_)!”
 </details>
 </details>
 
@@ -220,7 +220,7 @@ Indra’s famed son Jayanta enters the field in a wondrous chariot surrounded by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the god renowned as Jayanta, the son of Śakra (śakrasuto devo jayanta iti viśrutaḥ), advanced into the combat (saṅgrāme ... abhyavartata) upon a chariot of wondrous design (rathenādbhuta-kalpena).
+Then the god renowned as Jayanta, the son of Śakra (_śakrasuto devo jayanta iti viśrutaḥ_), advanced into the combat (_saṅgrāme ... abhyavartata_) upon a chariot of wondrous design (_rathenādbhuta-kalpena_).
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Then the god renowned as Jayanta, the son of Śakra (śakrasuto devo jayanta iti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon all those thirty gods, surrounding the son of Śacī (parivārya śacīsutam), closed in upon Rāvaṇa’s son in battle (rāvaṇasya sutaṃ yuddhe samāsādya) and struck at him (prajaghnire).
+Thereupon all those thirty gods, surrounding the son of Śacī (_parivārya śacīsutam_), closed in upon Rāvaṇa’s son in battle (_rāvaṇasya sutaṃ yuddhe samāsādya_) and struck at him (_prajaghnire_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ Thereupon all those thirty gods, surrounding the son of Śacī (parivārya śac�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A well-matched battle (yuddhaṃ ... sadṛśam) ensued between those gods and rākṣasas (deva-rakṣasām), and between the son of Mahendra (mahendrasya ca putrasya) and the son of the rākṣasa lord (rākṣasendra-sutasya ca).
+A well-matched battle (_yuddhaṃ ... sadṛśam_) ensued between those gods and rākṣasas (_deva-rakṣasām_), and between the son of Mahendra (_mahendrasya ca putrasya_) and the son of the rākṣasa lord (_rākṣasendra-sutasya ca_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ A well-matched battle (yuddhaṃ ... sadṛśam) ensued between those gods and r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the rākṣasa’s son showered gold-decked arrows (pātayāmāsa śarān kanaka-bhūṣaṇān) upon Gomukha, the son of Mātali (mātali-putre tu gomukhe), who served as charioteer (sārathau).
+Then the rākṣasa’s son showered gold-decked arrows (_pātayāmāsa śarān kanaka-bhūṣaṇān_) upon Gomukha, the son of Mātali (_mātali-putre tu gomukhe_), who served as charioteer (_sārathau_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ Then the rākṣasa’s son showered gold-decked arrows (pātayāmāsa śarān k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And likewise Jayanta, son of Śacī, [pierced] his charioteer (tasya sārathim); and enraged, Rāvaṇi in turn pierced him [Jayanta] on every side (samantāt pratyavidhyata).
+And likewise Jayanta, son of Śacī, [pierced] his charioteer (_tasya sārathim_); and enraged, Rāvaṇi in turn pierced him [Jayanta] on every side (_samantāt pratyavidhyata_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ And likewise Jayanta, son of Śacī, [pierced] his charioteer (tasya sārathim);
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Possessed by wrath (krodha-samāviṣṭaḥ), mighty, and with eyes wide-distended (visphāritekṣaṇaḥ), that Rāvaṇi overwhelmed Śakra’s son (śakra-tanayam) with showers of arrows (śara-varṣair avākirat).
+Possessed by wrath (_krodha-samāviṣṭaḥ_), mighty, and with eyes wide-distended (_visphāritekṣaṇaḥ_), that Rāvaṇi overwhelmed Śakra’s son (_śakra-tanayam_) with showers of arrows (_śara-varṣair avākirat_).
 </details>
 </details>
 
@@ -417,7 +417,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, greatly enraged (saṅkruddhaḥ), Rāvaṇi rained down sharp-edged weapons of many kinds by the thousands (nānā-praharaṇāñ chita-dhārān sahasraśaḥ) upon the armies of the gods (sura-sainyeṣu).
+Then, greatly enraged (_saṅkruddhaḥ_), Rāvaṇi rained down sharp-edged weapons of many kinds by the thousands (_nānā-praharaṇāñ chita-dhārān sahasraśaḥ_) upon the armies of the gods (_sura-sainyeṣu_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Then, greatly enraged (saṅkruddhaḥ), Rāvaṇi rained down sharp-edged weapo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hundred-killers, pestles, barbed lances, maces, swords, and battle-axes (śataghnī-musala-prāsa-gadā-khaḍga-paraśvadhān), along with huge mountain peaks (mahānti giri-śṛṅgāṇi), Rāvaṇi hurled down upon them.
+Hundred-killers, pestles, barbed lances, maces, swords, and battle-axes (_śataghnī-musala-prāsa-gadā-khaḍga-paraśvadhān_), along with huge mountain peaks (_mahānti giri-śṛṅgāṇi_), Rāvaṇi hurled down upon them.
 </details>
 </details>
 
@@ -479,7 +479,7 @@ Hundred-killers, pestles, barbed lances, maces, swords, and battle-axes (śatagh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the worlds were sorely distressed (pravyathitā lokāḥ), and darkness arose and settled over all (sañjajñe ca tamo ’bhavat) as that son of Rāvaṇa slaughtered the hostile armies (śatru-sainyāni nighnataḥ).
+Thereupon the worlds were sorely distressed (_pravyathitā lokāḥ_), and darkness arose and settled over all (_sañjajñe ca tamo ’bhavat_) as that son of Rāvaṇa slaughtered the hostile armies (_śatru-sainyāni nighnataḥ_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Thereupon the worlds were sorely distressed (pravyathitā lokāḥ), and darknes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that divine host around Śacī’s son (tad daivata-balaṃ samantāt taṃ śacīsutam), afflicted by his arrows (śara-pīḍitam), became utterly distraught in manifold ways (bahu-prakāram asvastham abhavat).
+Then that divine host around Śacī’s son (_tad daivata-balaṃ samantāt taṃ śacīsutam_), afflicted by his arrows (_śara-pīḍitam_), became utterly distraught in manifold ways (_bahu-prakāram asvastham abhavat_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ Then that divine host around Śacī’s son (tad daivata-balaṃ samantāt taṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor could they recognize one another (nābhyajānanta cānyonyam), whether rākṣasa or deity (rakṣo vā devatā ’thavā); thrown into utter disorder (viparyastam), the host ran hither and thither on every side (samantāt paridhāvati).
+Nor could they recognize one another (_nābhyajānanta cānyonyam_), whether rākṣasa or deity (_rakṣo vā devatā ’thavā_); thrown into utter disorder (_viparyastam_), the host ran hither and thither on every side (_samantāt paridhāvati_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ Nor could they recognize one another (nābhyajānanta cānyonyam), whether rāk�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloped in darkness and completely bewildered (sammūḍhās tamasācchannāḥ), gods struck down gods (devā devān nijaghnuḥ) and rākṣasas struck down rākṣasas likewise, while others fled in panic (vyadravann apare tathā).
+Enveloped in darkness and completely bewildered (_sammūḍhās tamasācchannāḥ_), gods struck down gods (_devā devān nijaghnuḥ_) and rākṣasas struck down rākṣasas likewise, while others fled in panic (_vyadravann apare tathā_).
 </details>
 </details>
 
@@ -611,7 +611,7 @@ During the turmoil, the Daitya Puloman rescues his grandson Jayanta and plunges 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, there was a heroic and mighty Daitya lord named Puloman (pulomā nāma vīryavān daityendraḥ); by him Śacī’s son was gathered up and spirited away (saṅgṛhya śacīputro ’pavāhitaḥ).
+Meanwhile, there was a heroic and mighty Daitya lord named Puloman (_pulomā nāma vīryavān daityendraḥ_); by him Śacī’s son was gathered up and spirited away (_saṅgṛhya śacīputro ’pavāhitaḥ_).
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Meanwhile, there was a heroic and mighty Daitya lord named Puloman (pulomā nām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up that daughter’s son (saṅgṛhya taṃ tu dauhitram), he plunged into the ocean then (praviṣṭaḥ sāgaraṃ tadā); for Puloman was his maternal grandfather (āryakaḥ sa hi tasyāsīt)—he from whom that Śacī [was born] (yena sā śacī).
+Taking up that daughter’s son (_saṅgṛhya taṃ tu dauhitram_), he plunged into the ocean then (_praviṣṭaḥ sāgaraṃ tadā_); for Puloman was his maternal grandfather (_āryakaḥ sa hi tasyāsīt_)—he from whom that Śacī [was born] (_yena sā śacī_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ Taking up that daughter’s son (saṅgṛhya taṃ tu dauhitram), he plunged in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning then of the disappearance of Jayanta (jñātvā praṇāśaṃ tu tadā jayantasya), all the gods, cheerless (aprahṛṣṭāḥ) and sorely distressed (vyathitāḥ), fled away in rout (sampradudruvuḥ).
+Learning then of the disappearance of Jayanta (_jñātvā praṇāśaṃ tu tadā jayantasya_), all the gods, cheerless (_aprahṛṣṭāḥ_) and sorely distressed (_vyathitāḥ_), fled away in rout (_sampradudruvuḥ_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ Learning then of the disappearance of Jayanta (jñātvā praṇāśaṃ tu tadā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇi, filled with wrath (saṅkruddhaḥ) and surrounded by his own forces (balaiḥ parivṛtaḥ svakaiḥ), rushed upon those gods (abhyadhāvata devāṃs tān) and let loose a mighty roar (mumoca ca mahāsvanam).
+Then Rāvaṇi, filled with wrath (_saṅkruddhaḥ_) and surrounded by his own forces (_balaiḥ parivṛtaḥ svakaiḥ_), rushed upon those gods (_abhyadhāvata devāṃs tān_) and let loose a mighty roar (_mumoca ca mahāsvanam_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Then Rāvaṇi, filled with wrath (saṅkruddhaḥ) and surrounded by his own fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his son’s disappearance (dṛṣṭvā praṇāśaṃ putrasya) and the flight among the gods (daivateṣu ca vidrutam), the Lord of the Gods said to Mātali: “Let my chariot be brought forth (rathaḥ samupanīyatām)!”
+Beholding his son’s disappearance (_dṛṣṭvā praṇāśaṃ putrasya_) and the flight among the gods (_daivateṣu ca vidrutam_), the Lord of the Gods said to Mātali: “Let my chariot be brought forth (_rathaḥ samupanīyatām_)!”
 </details>
 </details>
 
@@ -766,7 +766,7 @@ Beholding his son’s disappearance (dṛṣṭvā praṇāśaṃ putrasya) and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that celestial, awe-inspiring great chariot (divyo mahābhīmaḥ ... mahārathaḥ), already prepared (sajja eva) and of mighty speed (mahājavaḥ), stood ready before him, driven by Mātali (mātalinā vāhyamānaḥ).
+And that celestial, awe-inspiring great chariot (_divyo mahābhīmaḥ ... mahārathaḥ_), already prepared (_sajja eva_) and of mighty speed (_mahājavaḥ_), stood ready before him, driven by Mātali (_mātalinā vāhyamānaḥ_).
 </details>
 </details>
 
@@ -808,7 +808,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then mighty, lightning-laden clouds (meghāḥ ... taḍittvanto mahābalāḥ), driven swiftly by the wind (vāyu-capalāḥ) before that chariot (rathe tasminn ... agrataḥ), thundered with a stupendous roar (neduḥ parama-niḥsvanāḥ).
+Then mighty, lightning-laden clouds (_meghāḥ ... taḍittvanto mahābalāḥ_), driven swiftly by the wind (_vāyu-capalāḥ_) before that chariot (_rathe tasminn ... agrataḥ_), thundered with a stupendous roar (_neduḥ parama-niḥsvanāḥ_).
 </details>
 </details>
 
@@ -839,7 +839,7 @@ Then mighty, lightning-laden clouds (meghāḥ ... taḍittvanto mahābalāḥ),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Attentive Gandharvas played manifold musical instruments (nānā-vādyāni vādyanta gandharvāś ca samāhitāḥ), and troops of Apsarases danced (nanṛtuś cāpsaraḥ-saṅghāḥ) as the Lord of the Thirty Gods marched forth (niryāte tridaśeśvare).
+Attentive Gandharvas played manifold musical instruments (_nānā-vādyāni vādyanta gandharvāś ca samāhitāḥ_), and troops of Apsarases danced (_nanṛtuś cāpsaraḥ-saṅghāḥ_) as the Lord of the Thirty Gods marched forth (_niryāte tridaśeśvare_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ Attentive Gandharvas played manifold musical instruments (nānā-vādyāni vādy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by the Rudras, Vasus, Ādityas, and Sādhyas together with the Marut hosts (rudrair vasubhir ādityaiḥ sādhyaiś ca sa-marudgaṇaiḥ), bearing diverse weapons (nānā-praharaṇaiḥ), the Sovereign of the Thirty Gods sallied out (niryayau tridaśādhipaḥ).
+Surrounded by the Rudras, Vasus, Ādityas, and Sādhyas together with the Marut hosts (_rudrair vasubhir ādityaiḥ sādhyaiś ca sa-marudgaṇaiḥ_), bearing diverse weapons (_nānā-praharaṇaiḥ_), the Sovereign of the Thirty Gods sallied out (_niryayau tridaśādhipaḥ_).
 </details>
 </details>
 
@@ -901,7 +901,7 @@ Surrounded by the Rudras, Vasus, Ādityas, and Sādhyas together with the Marut 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet as Śakra went forth (nirgacchatas tu śakrasya), the wind blew harshly (paruṣaṃ pavano vavau), the sun grew lusterless (bhāskaro niṣprabhaś cāsīt), and mighty meteors fell from the sky (maholkāś ca prapedire).
+Yet as Śakra went forth (_nirgacchatas tu śakrasya_), the wind blew harshly (_paruṣaṃ pavano vavau_), the sun grew lusterless (_bhāskaro niṣprabhaś cāsīt_), and mighty meteors fell from the sky (_maholkāś ca prapedire_).
 </details>
 </details>
 
@@ -932,7 +932,7 @@ Yet as Śakra went forth (nirgacchatas tu śakrasya), the wind blew harshly (par
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, the heroic and majestic Ten-Necked One (śūro daśagrīvaḥ pratāpavān) ascended his celestial chariot (āruroha rathaṃ divyam) fashioned by Viśvakarman (nirmitaṃ viśvakarmaṇā)—
+Meanwhile, the heroic and majestic Ten-Necked One (_śūro daśagrīvaḥ pratāpavān_) ascended his celestial chariot (_āruroha rathaṃ divyam_) fashioned by Viśvakarman (_nirmitaṃ viśvakarmaṇā_)—
 </details>
 </details>
 
@@ -963,7 +963,7 @@ Meanwhile, the heroic and majestic Ten-Necked One (śūro daśagrīvaḥ pratāp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wreathed with hair-raising serpents of stupendous might (pannagaiḥ sumahākāryair veṣṭitaṃ romaharṣaṇaiḥ), appearing as if set ablaze in battle (pradīptam iva saṃyuge) by the wind of their hissing breath (teṣāṃ niḥśvāsa-vātena).
+Wreathed with hair-raising serpents of stupendous might (_pannagaiḥ sumahākāryair veṣṭitaṃ romaharṣaṇaiḥ_), appearing as if set ablaze in battle (_pradīptam iva saṃyuge_) by the wind of their hissing breath (_teṣāṃ niḥśvāsa-vātena_).
 </details>
 </details>
 
@@ -1002,7 +1002,7 @@ Rāvaṇa advances against Mahendra and bids Meghanāda rest aside as the armies
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by Daityas and night-roamers (daityair niśācaraiś caiva), that chariot [bore him onward], and facing the battle (samarābhimukhaḥ), that demon-foe (daityaḥ) advanced against Mahendra (mahendraṃ so ’bhyavartata).
+Surrounded by Daityas and night-roamers (_daityair niśācaraiś caiva_), that chariot [bore him onward], and facing the battle (_samarābhimukhaḥ_), that demon-foe (_daityaḥ_) advanced against Mahendra (_mahendraṃ so ’bhyavartata_).
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ Surrounded by Daityas and night-roamers (daityair niśācaraiś caiva), that cha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Restraining that son of his (putraṃ taṃ vārayitvā), he took his stand in person (svayam eva vyavasthitaḥ); and Rāvaṇi too, withdrawing from the fray (yuddhād viniṣkramya), sat quietly aside (samupāviśat).
+Restraining that son of his (_putraṃ taṃ vārayitvā_), he took his stand in person (_svayam eva vyavasthitaḥ_); and Rāvaṇi too, withdrawing from the fray (_yuddhād viniṣkramya_), sat quietly aside (_samupāviśat_).
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ Restraining that son of his (putraṃ taṃ vārayitvā), he took his stand in p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a dreadful battle raged (yuddhaṃ pravṛttaṃ ... ghoram) between the gods and the rākṣasas (surāṇāṃ rākṣasaiḥ saha), as they showered down weapons in combat (śastrāṇi varṣatām) like storm-clouds (meghānām iva saṃyuge).
+Then a dreadful battle raged (_yuddhaṃ pravṛttaṃ ... ghoram_) between the gods and the rākṣasas (_surāṇāṃ rākṣasaiḥ saha_), as they showered down weapons in combat (_śastrāṇi varṣatām_) like storm-clouds (_meghānām iva saṃyuge_).
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ Then a dreadful battle raged (yuddhaṃ pravṛttaṃ ... ghoram) between the go
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, the wicked-souled Kumbhakarṇa (kumbhakarṇas tu duṣṭātmā), with manifold weapons upraised (nānā-praharaṇodyataḥ), fought so wildly in that battle that none could tell with whom he was fighting (nājñāyata tadā yuddhe saha kenāpy ayudhyata).
+Meanwhile, the wicked-souled Kumbhakarṇa (_kumbhakarṇas tu duṣṭātmā_), with manifold weapons upraised (_nānā-praharaṇodyataḥ_), fought so wildly in that battle that none could tell with whom he was fighting (_nājñāyata tadā yuddhe saha kenāpy ayudhyata_).
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ Meanwhile, the wicked-souled Kumbhakarṇa (kumbhakarṇas tu duṣṭātmā), w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With teeth, with both arms and both feet (dantaiḥ bhujābhyāṃ padmāṃ ca), and with spears, javelins, and arrows (śakti-tomara-sāyakaiḥ), in his fury (saṃrabdhaḥ) he battered the gods with whatever came to hand (yena kenaiva ... tāḍayāmāsa).
+With teeth, with both arms and both feet (_dantaiḥ bhujābhyāṃ padmāṃ ca_), and with spears, javelins, and arrows (_śakti-tomara-sāyakaiḥ_), in his fury (_saṃrabdhaḥ_) he battered the gods with whatever came to hand (_yena kenaiva ... tāḍayāmāsa_).
 </details>
 </details>
 
@@ -1160,7 +1160,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that night-roamer clashed with the dread Rudras (rudrair mahāghoraiḥ saṅgamya) and, fighting fiercely against them in battle (prayuddhas taiś ca saṅgrāme), was incessantly wounded by their weapons (kṣataḥ śastrair nirantaram).
+Then that night-roamer clashed with the dread Rudras (_rudrair mahāghoraiḥ saṅgamya_) and, fighting fiercely against them in battle (_prayuddhas taiś ca saṅgrāme_), was incessantly wounded by their weapons (_kṣataḥ śastrair nirantaram_).
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ Bristling with weapons and bleeding like a storm-cloud, Kumbhakarṇa fights on 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his body bristling with weapons (śastrācita-tanuḥ) and streaming with blood (kṣarann asṛk), Kumbhakarṇa shone (babhau) like a rain-cloud pouring torrents amid lightning and thunderous roars (vidyut-stanita-nirghoṣo dhāravān iva toyadaḥ).
+With his body bristling with weapons (_śastrācita-tanuḥ_) and streaming with blood (_kṣarann asṛk_), Kumbhakarṇa shone (_babhau_) like a rain-cloud pouring torrents amid lightning and thunderous roars (_vidyut-stanita-nirghoṣo dhāravān iva toyadaḥ_).
 </details>
 </details>
 
@@ -1230,7 +1230,7 @@ With his body bristling with weapons (śastrācita-tanuḥ) and streaming with b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that entire rākṣasa army (tad rākṣasaṃ sainyaṃ ... sarvam), locked in combat with [the gods and] the Marut hosts (prayuddhaṃ sa-marudgaṇaiḥ), was put to flight in battle (raṇe vidrāvitam) by sharp weapons of many kinds (nānā-praharaṇaiḥ śitaiḥ).
+Thereupon that entire rākṣasa army (_tad rākṣasaṃ sainyaṃ ... sarvam_), locked in combat with [the gods and] the Marut hosts (_prayuddhaṃ sa-marudgaṇaiḥ_), was put to flight in battle (_raṇe vidrāvitam_) by sharp weapons of many kinds (_nānā-praharaṇaiḥ śitaiḥ_).
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some, struck down and hacked to pieces (vinihatāḥ kṛttāḥ), writhed upon the surface of the earth (ceṣṭanti sma mahītale), while others remained upright in battle (sthitā evāpare raṇe), slumped and clinging to their mounts (vāhaneṣv avasaktāś ca).
+Some, struck down and hacked to pieces (_vinihatāḥ kṛttāḥ_), writhed upon the surface of the earth (_ceṣṭanti sma mahītale_), while others remained upright in battle (_sthitā evāpare raṇe_), slumped and clinging to their mounts (_vāhaneṣv avasaktāś ca_).
 </details>
 </details>
 
@@ -1299,9 +1299,9 @@ Some, struck down and hacked to pieces (vinihatāḥ kṛttāḥ), writhed upon 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** Chariots, elephants, asses, camels, serpents, and horses in the fray (rathān nāgān kharān uṣṭrān pannagāṃs turagān raṇe), as well as crocodiles, boars, and piśāca-faced beasts (śiṃśumārān varāhāṃś ca piśāca-vadanān tathā)—
+**40:** Chariots, elephants, asses, camels, serpents, and horses in the fray (_rathān nāgān kharān uṣṭrān pannagāṃs turagān raṇe_), as well as crocodiles, boars, and piśāca-faced beasts (_śiṃśumārān varāhāṃś ca piśāca-vadanān tathā_)—
 
-**41:** Embracing those with both arms (tān samāliṅgya bāhubhyām), some stayed rigidly propped upright (viṣṭabdhāḥ kecid ucchrutāḥ), while night-roamers cloven by the gods’ weapons (devais tu śastra-sambhinnāḥ) perished upon the field (mamrire ca niśācarāḥ).
+**41:** Embracing those with both arms (_tān samāliṅgya bāhubhyām_), some stayed rigidly propped upright (_viṣṭabdhāḥ kecid ucchrutāḥ_), while night-roamers cloven by the gods’ weapons (_devais tu śastra-sambhinnāḥ_) perished upon the field (_mamrire ca niśācarāḥ_).
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ As the strewn rākṣasas lie like a painted tableau beside a blood-swollen rive
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a painted tableau (citrakarma ivābhāti) appeared that tumultuous battlefield throng (sa teṣāṃ raṇa-samplavaḥ) of slain, reckless rākṣasas (nihatānāṃ pramattānāṃ rākṣasānām) strewn upon the earth (mahītale).
+Like a painted tableau (_citrakarma ivābhāti_) appeared that tumultuous battlefield throng (_sa teṣāṃ raṇa-samplavaḥ_) of slain, reckless rākṣasas (_nihatānāṃ pramattānāṃ rākṣasānām_) strewn upon the earth (_mahītale_).
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ Like a painted tableau (citrakarma ivābhāti) appeared that tumultuous battlefi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the forefront of the combat (saṃyuga-mukhe) there flowed a river (pravṛttā ... nadī) whose streaming waters were blood (śoṇitodaka-niṣpanda-), thronged with herons and vultures (kaṅka-gṛdhra-samākulā), and teeming with weapons as its crocodiles (śastra-grāhavatī).
+In the forefront of the combat (_saṃyuga-mukhe_) there flowed a river (_pravṛttā ... nadī_) whose streaming waters were blood (_śoṇitodaka-niṣpanda-_), thronged with herons and vultures (_kaṅka-gṛdhra-samākulā_), and teeming with weapons as its crocodiles (_śastra-grāhavatī_).
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ In the forefront of the combat (saṃyuga-mukhe) there flowed a river (pravṛtt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, the enraged and majestic Ten-Necked One (kruddho daśagrīvaḥ pratāpavān), beholding that entire army of his (nirīkṣya tad balaṃ kṛtsnam) struck down by the gods (daivatair vinipātitam),
+Meanwhile, the enraged and majestic Ten-Necked One (_kruddho daśagrīvaḥ pratāpavān_), beholding that entire army of his (_nirīkṣya tad balaṃ kṛtsnam_) struck down by the gods (_daivatair vinipātitam_),
 </details>
 </details>
 
@@ -1433,7 +1433,7 @@ Meanwhile, the enraged and majestic Ten-Necked One (kruddho daśagrīvaḥ prat�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swiftly plunging into that surging ocean of an army (vigāhyāśu pravṛddhaṃ sainya-sāgaram), advanced straight against Śakra himself (śakram evābhyavartata), slaughtering the thirty gods in combat (tridaśān samare nighnan).
+Swiftly plunging into that surging ocean of an army (_vigāhyāśu pravṛddhaṃ sainya-sāgaram_), advanced straight against Śakra himself (_śakram evābhyavartata_), slaughtering the thirty gods in combat (_tridaśān samare nighnan_).
 </details>
 </details>
 
@@ -1472,7 +1472,7 @@ Indra advances twanging his thunderous bow and showers fiery shafts upon Rāva�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Śakra came forth (āgāc chakraḥ), twanging his mighty, thunderously resounding bow (mahac cāpaṃ visphārya sumahāsvanam), at whose twanging roar (visphāra-ghoṣeṇa) all ten quarters of space thundered (stananti sma diśo daśa).
+Śakra came forth (_āgāc chakraḥ_), twanging his mighty, thunderously resounding bow (_mahac cāpaṃ visphārya sumahāsvanam_), at whose twanging roar (_visphāra-ghoṣeṇa_) all ten quarters of space thundered (_stananti sma diśo daśa_).
 </details>
 </details>
 
@@ -1506,7 +1506,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing that mighty bow to the full (tad vikṛṣya mahac cāpam), Indra rained down upon Rāvaṇa’s head (rāvaṇa-mūrdhani nipātayāmāsa) arrows resplendent as fire and the sun (śarān pāvakāditya-varcasaḥ).
+Drawing that mighty bow to the full (_tad vikṛṣya mahac cāpam_), Indra rained down upon Rāvaṇa’s head (_rāvaṇa-mūrdhani nipātayāmāsa_) arrows resplendent as fire and the sun (_śarān pāvakāditya-varcasaḥ_).
 </details>
 </details>
 
@@ -1537,7 +1537,7 @@ Drawing that mighty bow to the full (tad vikṛṣya mahac cāpam), Indra rained
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in the very same way, standing firm in battle (tathaiva ca ... vyavasthitaḥ), the mighty-armed Ten-Necked One overwhelmed Śakra (śakram ... avākirat) with showers of arrows loosed from his bow (kārmuka-vibhraṣṭaiḥ śara-varṣaiḥ).
+And in the very same way, standing firm in battle (_tathaiva ca ... vyavasthitaḥ_), the mighty-armed Ten-Necked One overwhelmed Śakra (_śakram ... avākirat_) with showers of arrows loosed from his bow (_kārmuka-vibhraṣṭaiḥ śara-varṣaiḥ_).
 </details>
 </details>
 
@@ -1579,7 +1579,7 @@ And in the very same way, standing firm in battle (tathaiva ca ... vyavasthita�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as those two fought fiercely with showers of arrows on every side (prayudhyator atha tayor bāṇa-varṣaiḥ samantataḥ), nothing could be discerned at all (na jñāyate tadā kiñcit), for everything was shrouded in darkness (sarvaṃ hi tamasā vṛtam).
+Then, as those two fought fiercely with showers of arrows on every side (_prayudhyator atha tayor bāṇa-varṣaiḥ samantataḥ_), nothing could be discerned at all (_na jñāyate tadā kiñcit_), for everything was shrouded in darkness (_sarvaṃ hi tamasā vṛtam_).
 </details>
 </details>
 

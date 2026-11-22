@@ -85,7 +85,7 @@ words, that thunder-voiced eagle tearfully spoke to those vanara-s. [4-58-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed with a piteous speech (karuṇaṃ vākyam) by the monkeys who had renounced their lives (tyaktajīvitaiḥ), the mighty-voiced vulture, his eyes filled with tears (sabāṣpaḥ), replied to the Vānaras:
+Thus addressed with a piteous speech (_karuṇaṃ vākyam_) by the monkeys who had renounced their lives (_tyaktajīvitaiḥ_), the mighty-voiced vulture, his eyes filled with tears (_sabāṣpaḥ_), replied to the Vānaras:
 </details>
 </details>
 
@@ -137,7 +137,7 @@ that one is my younger brother named Jatayu... [4-58-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Vānaras, that bird named Jaṭāyus, whom you have reported as slain in battle by the mighty Rāvaṇa, was my younger brother (yavīyān sa mama bhrātā).”
+“O Vānaras, that bird named Jaṭāyus, whom you have reported as slain in battle by the mighty Rāvaṇa, was my younger brother (_yavīyān sa mama bhrātā_).”
 </details>
 </details>
 
@@ -194,7 +194,7 @@ retaliate my brother's enemy... [4-58-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On account of old age (vṛddhabhāvāt) and my wingless state (apakṣatvāt), even while hearing of that [slaying], I must endure it (marṣaye); for today I have no power to avenge my brother's enmity (bhrātur vairavimokṣaṇe).”
+“On account of old age (_vṛddhabhāvāt_) and my wingless state (_apakṣatvāt_), even while hearing of that [slaying], I must endure it (_marṣaye_); for today I have no power to avenge my brother&#x27;s enmity (_bhrātur vairavimokṣaṇe_).”
 </details>
 </details>
 
@@ -270,9 +270,9 @@ founder... [4-58-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “Of old, after the slaying of Vṛtra had taken place (vṛtravadhe vṛtte), he and I, both desiring victory (jayaiṣiṇau), flew up into the heaven (svaḥ) toward the blazing sun garlanded with rays (raśmimālinam).”
+**4:** “Of old, after the slaying of Vṛtra had taken place (_vṛtravadhe vṛtte_), he and I, both desiring victory (_jayaiṣiṇau_), flew up into the heaven (_svaḥ_) toward the blazing sun garlanded with rays (_raśmimālinam_).”
 
-**5:** “Wheeling through the pathway of the sky (āvṛtyākāśamārgeṇa), we had soared swiftly into the heaven (svargatau bhṛśam); and when the sun reached the meridian (madhyaṃ prāpte tu sūrye), Jaṭāyus began to faint (avasīdati).”
+**5:** “Wheeling through the pathway of the sky (_āvṛtyākāśamārgeṇa_), we had soared swiftly into the heaven (_svargatau bhṛśam_); and when the sun reached the meridian (_madhyaṃ prāpte tu sūrye_), Jaṭāyus began to faint (_avasīdati_).”
 </details>
 </details>
 
@@ -325,7 +325,7 @@ my highly fretful brother with both of my wings in all my brotherliness... [4-58
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that brother of mine tormented by the sun's rays (sūryaraśmibhir arditam) and utterly bewildered, out of affection I shielded him with my two wings (pakṣābhyāṃ chādayām āsa).”
+“Beholding that brother of mine tormented by the sun&#x27;s rays (_sūryaraśmibhir arditam_) and utterly bewildered, out of affection I shielded him with my two wings (_pakṣābhyāṃ chādayām āsa_).”
 </details>
 </details>
 
@@ -391,7 +391,7 @@ brother's experiences or, at least his existence, or otherwise..." So lamented o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With my feathers utterly scorched off (nirdagdhapatraḥ), I fell upon Mount Vindhya, O bulls among Vānaras; dwelling upon this mountain, I did not learn any news of my brother (bhrātuḥ pravṛttiṃ nopalakṣaye).”
+“With my feathers utterly scorched off (_nirdagdhapatraḥ_), I fell upon Mount Vindhya, O bulls among Vānaras; dwelling upon this mountain, I did not learn any news of my brother (_bhrātuḥ pravṛttiṃ nopalakṣaye_).”
 </details>
 </details>
 
@@ -446,7 +446,7 @@ crown prince Angada replied him. [4-58-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed at that time by Jaṭāyus's brother Sampāti, the Crown Prince Aṅgada of great wisdom (yuvarājo mahāprajñaḥ) then replied:
+Thus addressed at that time by Jaṭāyus&#x27;s brother Sampāti, the Crown Prince Aṅgada of great wisdom (_yuvarājo mahāprajñaḥ_) then replied:
 </details>
 </details>
 
@@ -495,7 +495,7 @@ of Jataayu, and if you are aware of the whereabouts of Ravana... please tell it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you are Jaṭāyus's brother and have heard what was spoken by me, declare to us, if you know it, the abode of that Rākṣasa (nilayaṃ tasya rakṣasaḥ)!”
+“If you are Jaṭāyus&#x27;s brother and have heard what was spoken by me, declare to us, if you know it, the abode of that Rākṣasa (_nilayaṃ tasya rakṣasaḥ_)!”
 </details>
 </details>
 
@@ -548,7 +548,7 @@ wide..." Thus Angada asked Sampaati. [4-58-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tell us, if you know, whether that short-sighted (adīrghadarśinam) Rāvaṇa, the vilest of Rākṣasas (rākṣasādhamam), dwells near at hand or far away (antike yadi vā dūre)!”
+“Tell us, if you know, whether that short-sighted (_adīrghadarśinam_) Rāvaṇa, the vilest of Rākṣasas (_rākṣasādhamam_), dwells near at hand or far away (_antike yadi vā dūre_)!”
 </details>
 </details>
 
@@ -600,7 +600,7 @@ are self-befitting and that would highly gladden the monkeys. [4-58-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the elder brother of Jaṭāyus, of mighty splendor (mahātejāḥ), spoke words worthy of himself (ātmānurūpaṃ vacanam), gladdening the Vānaras:
+Then the elder brother of Jaṭāyus, of mighty splendor (_mahātejāḥ_), spoke words worthy of himself (_ātmānurūpaṃ vacanam_), gladdening the Vānaras:
 </details>
 </details>
 
@@ -655,7 +655,7 @@ render a best service in the task of Rama, at least verbally... [4-58-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O monkeys, I am a vulture with my wings burned off (nirdagdhapakṣaḥ) and my vigor gone (gatavīryaḥ); yet by my words alone (vāṅmātreṇa tu) I shall render supreme assistance (sāhyam uttamam) to Rāma.”
+“O monkeys, I am a vulture with my wings burned off (_nirdagdhapakṣaḥ_) and my vigor gone (_gatavīryaḥ_); yet by my words alone (_vāṅmātreṇa tu_) I shall render supreme assistance (_sāhyam uttamam_) to Rāma.”
 </details>
 </details>
 
@@ -722,7 +722,7 @@ unseeable Milky Ocean when it was churned for ambrosia... [4-58-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I know the worlds of Varuṇa (vāruṇāṃl lokān) and the three-strided realms of Viṣṇu (viṣṇos traivikramān api), as well as the battles of the gods and Asuras (devāsuravimardāṃś ca) and the churning of the nectar of immortality (amṛtasya vimanthanam).”
+“I know the worlds of Varuṇa (_vāruṇāṃl lokān_) and the three-strided realms of Viṣṇu (_viṣṇos traivikramān api_), as well as the battles of the gods and Asuras (_devāsuravimardāṃś ca_) and the churning of the nectar of immortality (_amṛtasya vimanthanam_).”
 </details>
 </details>
 
@@ -775,7 +775,7 @@ my vigour and vitality... [4-58-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This task of Rāma's (rāmasya yad idaṃ kāryam) is foremost to be accomplished by me, even though my vigor has been sapped by old age (jarayā ca hṛtaṃ tejaḥ) and my life-breaths have grown feeble (prāṇāś ca śithilā mama).”
+“This task of Rāma&#x27;s (_rāmasya yad idaṃ kāryam_) is foremost to be accomplished by me, even though my vigor has been sapped by old age (_jarayā ca hṛtaṃ tejaḥ_) and my life-breaths have grown feeble (_prāṇāś ca śithilā mama_).”
 </details>
 </details>
 
@@ -806,7 +806,7 @@ my vigour and vitality... [4-58-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A young woman (taruṇī) endowed with beauty and decked in all ornaments (sarvābharaṇabhūṣitā) was seen by me being carried away by the wicked-souled Rāvaṇa—”
+“A young woman (_taruṇī_) endowed with beauty and decked in all ornaments (_sarvābharaṇabhūṣitā_) was seen by me being carried away by the wicked-souled Rāvaṇa—”
 </details>
 </details>
 
@@ -858,7 +858,7 @@ demon... [4-58-15, 16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A spirited lady (bhāminī) crying out, `O Rāma, O Rāma!' and `O Lakṣmaṇa!', casting off her ornaments (bhūṣaṇāny apavidhyantī) and struggling with her limbs (gātrāṇi ca vidhunvatī).”
+“A spirited lady (_bhāminī_) crying out, `O Rāma, O Rāma!&#x27; and `O Lakṣmaṇa!&#x27;, casting off her ornaments (_bhūṣaṇāny apavidhyantī_) and struggling with her limbs (_gātrāṇi ca vidhunvatī_).”
 </details>
 </details>
 
@@ -917,7 +917,7 @@ or ocean...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Her exquisite silken garment (kauśeyam uttamam) shone against the dark Rākṣasa (asite rākṣase bhāti) like the radiance of the sun upon a mountain peak (śailāgre), or like lightning against a storm-cloud (yathā vā taḍid ambude).”
+“Her exquisite silken garment (_kauśeyam uttamam_) shone against the dark Rākṣasa (_asite rākṣase bhāti_) like the radiance of the sun upon a mountain peak (_śailāgre_), or like lightning against a storm-cloud (_yathā vā taḍid ambude_).”
 </details>
 </details>
 
@@ -969,7 +969,7 @@ location of that demon be heard from me while I say about it... [4-58-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From her repeated invocation of Rāma (rāmasya parikīrtanāt), I deem her to be Sītā; now hear from me as I declare the abode of that Rākṣasa (nilayaṃ tasya rakṣasaḥ)!”
+“From her repeated invocation of Rāma (_rāmasya parikīrtanāt_), I deem her to be Sītā; now hear from me as I declare the abode of that Rākṣasa (_nilayaṃ tasya rakṣasaḥ_)!”
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ endnote.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The Rākṣasa named Rāvaṇa, the own son of Viśravas (putro viśravasaḥ sākṣāt) and brother of Vaiśravaṇa [Kubera], inhabits the city of Laṅkā (adhyāste nagarīṃ laṅkām).”
+“The Rākṣasa named Rāvaṇa, the own son of Viśravas (_putro viśravasaḥ sākṣāt_) and brother of Vaiśravaṇa [Kubera], inhabits the city of Laṅkā (_adhyāste nagarīṃ laṅkām_).”
 </details>
 </details>
 
@@ -1098,7 +1098,7 @@ from here, which Vishvakarma, the Divine-Architect, has built, and it is called 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On an island of the ocean a full hundred yojanas from here (sampūrṇe śatayojane), there stands the lovely city of Laṅkā, fashioned by Viśvakarman (nirmitā viśvakarmaṇā).”
+“On an island of the ocean a full hundred _yojanas_ from here (_sampūrṇe śatayojane_), there stands the lovely city of Laṅkā, fashioned by Viśvakarman (_nirmitā viśvakarmaṇā_).”
 </details>
 </details>
 
@@ -1154,7 +1154,7 @@ enclosed in a gigantic rampart that will be dazzling in the colour of sun... [4-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Adorned with wondrous gateways of Jambū-river gold (jāmbūnadamayair dvāraiḥ) furnished with golden daïs-platforms (kāñcanavedikaiḥ), and crowded with vast golden-hued palaces (prāsādair hemavarṇaiś ca),”
+“Adorned with wondrous gateways of Jambū-river gold (_jāmbūnadamayair dvāraiḥ_) furnished with golden daïs-platforms (_kāñcanavedikaiḥ_), and crowded with vast golden-hued palaces (_prāsādair hemavarṇaiś ca_),”
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And surrounded by a great rampart bright as the sun (prākāreṇārkavarṇena), there dwells Vaidehī, afflicted and clad in yellow silk (dīnā kauśeyavāsinī).”
+“And surrounded by a great rampart bright as the sun (_prākāreṇārkavarṇena_), there dwells Vaidehī, afflicted and clad in yellow silk (_dīnā kauśeyavāsinī_).”
 </details>
 </details>
 
@@ -1214,7 +1214,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Confined within Rāvaṇa's inner apartments (rāvaṇāntaḥpure ruddhā) and closely guarded by Rākṣasa women, in that city you will behold Maithilī, the daughter of King Janaka.”
+“Confined within Rāvaṇa&#x27;s inner apartments (_rāvaṇāntaḥpure ruddhā_) and closely guarded by Rākṣasa women, in that city you will behold Maithilī, the daughter of King Janaka.”
 </details>
 </details>
 
@@ -1313,9 +1313,9 @@ water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “In Laṅkā, guarded on all sides by the ocean (guptāyāṃ sāgareṇa samantataḥ), when you have reached the farther limit of the sea spanning a full hundred yojanas (sampūrṇaṃ śatayojanam)—”
+**24:** “In Laṅkā, guarded on all sides by the ocean (_guptāyāṃ sāgareṇa samantataḥ_), when you have reached the farther limit of the sea spanning a full hundred _yojanas_ (_sampūrṇaṃ śatayojanam_)—”
 
-**25:** “Having reached the southern shore (āsādya dakṣiṇaṃ tīram), you will then behold Rāvaṇa; right there, with all speed, put forth your valor swiftly (kṣipraṃ vikramadhvam), O monkeys!”
+**25:** “Having reached the southern shore (_āsādya dakṣiṇaṃ tīram_), you will then behold Rāvaṇa; right there, with all speed, put forth your valor swiftly (_kṣipraṃ vikramadhvam_), O monkeys!”
 </details>
 </details>
 
@@ -1346,7 +1346,7 @@ water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By my prophetic knowledge (jñānena) I truly behold that after seeing [her] you will return (dṛṣṭvā pratyāgamiṣyatha)! The first aerial pathway (ādyaḥ panthāḥ) belongs to the fork-tailed shrikes (kuliṅgānām) and whatever other birds subsist on grain (dhānyajīvinaḥ).”
+“By my prophetic knowledge (_jñānena_) I truly behold that after seeing [her] you will return (_dṛṣṭvā pratyāgamiṣyatha_)! The first aerial pathway (_ādyaḥ panthāḥ_) belongs to the fork-tailed shrikes (_kuliṅgānām_) and whatever other birds subsist on grain (_dhānyajīvinaḥ_).”
 </details>
 </details>
 
@@ -1405,7 +1405,7 @@ fifth is that of the vultures. [4-58-26, 27, 28a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The second belongs to the eaters of oblations (balibhojānām) [crows] and those that feed on tree-fruits (vṛkṣaphalāśanāḥ) [parrots]; bearded vultures (bhāsāḥ) traverse the third, along with curlews (krauñcāḥ) and ospreys (kuraraiḥ saha).”
+“The second belongs to the eaters of oblations (_balibhojānām_) [crows] and those that feed on tree-fruits (_vṛkṣaphalāśanāḥ_) [parrots]; bearded vultures (_bhāsāḥ_) traverse the third, along with curlews (_krauñcāḥ_) and ospreys (_kuraraiḥ saha_).”
 </details>
 </details>
 
@@ -1490,9 +1490,9 @@ matter of fact, all eagles belong to that lineage, for their keen vision and pow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “Hawks (śyenāḥ) traverse the fourth, and vultures (gṛdhrāḥ) traverse the fifth; while of those endowed with strength and vigor and graced with beauty and youth—”
+**28:** “Hawks (_śyenāḥ_) traverse the fourth, and vultures (_gṛdhrāḥ_) traverse the fifth; while of those endowed with strength and vigor and graced with beauty and youth—”
 
-**29:** “The sixth pathway belongs to the swans (haṃsānām), and the highest course belongs to the sons of Vinatā (vainateyagatiḥ parā); and from the son of Vinatā [Aruṇa] springs the birth of us all (vainateyāc ca no janma), O bulls among Vānaras!”
+**29:** “The sixth pathway belongs to the swans (_haṃsānām_), and the highest course belongs to the sons of Vinatā (_vainateyagatiḥ parā_); and from the son of Vinatā [Aruṇa] springs the birth of us all (_vainateyāc ca no janma_), O bulls among Vānaras!”
 </details>
 </details>
 
@@ -1554,7 +1554,7 @@ his animosity towards my brother Jataayu will also be fulfilled... [4-58-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And through you, the enmity incurred on account of my brother (vairaṃ bhrātṛkṛtam) against that flesh-eater (piśitāśinaḥ), by whom a reprehensible deed (garhitaṃ karma) was committed, shall be avenged for me (pratikāryaṃ ca me bhavet)!”
+“And through you, the enmity incurred on account of my brother (_vairaṃ bhrātṛkṛtam_) against that flesh-eater (_piśitāśinaḥ_), by whom a reprehensible deed (_garhitaṃ karma_) was committed, shall be avenged for me (_pratikāryaṃ ca me bhavet_)!”
 </details>
 </details>
 
@@ -1607,7 +1607,7 @@ our sight and power will be excellent like that of Garuda, the Divine Eagle... [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even while remaining right here (ihastho 'ham), I clearly behold Rāvaṇa and Jānakī; for we too possess the divine visual power belonging to Suparṇa's race (sauparṇaṃ divyaṃ cakṣurbalam).”
+“Even while remaining right here (_ihastho &#x27;ham_), I clearly behold Rāvaṇa and Jānakī; for we too possess the divine visual power belonging to Suparṇa&#x27;s race (_sauparṇaṃ divyaṃ cakṣurbalam_).”
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ response to certain stimuli.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Vānaras, through the potency of our diet (āhāravīryeṇa) and by innate nature (nisargeṇa ca), we perpetually see to a full hundred yojanas and more (āyojanaśatāt sāgrāt)!”
+“Therefore, O Vānaras, through the potency of our diet (_āhāravīryeṇa_) and by innate nature (_nisargeṇa ca_), we perpetually see to a full hundred _yojanas_ and more (_āyojanaśatāt sāgrāt_)!”
 </details>
 </details>
 
@@ -1737,7 +1737,7 @@ bringing food for that day.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Our livelihood has been ordained by nature to be drawn from afar (vihitā vṛttir nisargeṇa ca dūrataḥ), whereas the livelihood of birds that fight with their spurs (caraṇayodhinām) [cocks] has been ordained at the foot of trees (vṛkṣamūle).”
+“Our livelihood has been ordained by nature to be drawn from afar (_vihitā vṛttir nisargeṇa ca dūrataḥ_), whereas the livelihood of birds that fight with their spurs (_caraṇayodhinām_) [cocks] has been ordained at the foot of trees (_vṛkṣamūle_).”
 </details>
 </details>
 
@@ -1798,7 +1798,7 @@ Kishkindha on your finding Vaidehi, and on your becoming productive of you objec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let some expedient be devised (upāyo dṛśyatāṃ kaścit) for leaping across the briny sea (laṅghane lavaṇāmbhasaḥ); for once you have approached Vaidehī, you will return with your purpose fulfilled (samṛddhārthā gamiṣyatha)!”
+“Let some expedient be devised (_upāyo dṛśyatāṃ kaścit_) for leaping across the briny sea (_laṅghane lavaṇāmbhasaḥ_); for once you have approached Vaidehī, you will return with your purpose fulfilled (_samṛddhārthā gamiṣyatha_)!”
 </details>
 </details>
 
@@ -1851,7 +1851,7 @@ Sampaati spoke to the monkeys. [4-58-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I wish to be carried by you (netum icchāmi bhavadbhiḥ) to the ocean, the abode of Varuṇa (varuṇālayam); I shall offer the funeral water-libation (pradāsyāmy udakam) to my high-souled brother who has gone to heaven (svargatasya).”
+“I wish to be carried by you (_netum icchāmi bhavadbhiḥ_) to the ocean, the abode of Varuṇa (_varuṇālayam_); I shall offer the funeral water-libation (_pradāsyāmy udakam_) to my high-souled brother who has gone to heaven (_svargatasya_).”
 </details>
 </details>
 
@@ -1929,9 +1929,9 @@ to them. [4-58-36, 37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** Then the Vānaras of mighty energy (sumahaujasaḥ) carried the wing-scorched Sampāti to that spot upon the shore of the lord of rivers and streams (tīre nadanadīpateḥ);
+**36:** Then the Vānaras of mighty energy (_sumahaujasaḥ_) carried the wing-scorched Sampāti to that spot upon the shore of the lord of rivers and streams (_tīre nadanadīpateḥ_);
 
-**37:** And having brought that lord of birds back again to that [mountain] spot (taṃ punaḥ prāpayitvā ca taṃ deśam), those Vānaras were delighted upon obtaining news [of Sītā] (pravṛttim upalabhya te).
+**37:** And having brought that lord of birds back again to that [mountain] spot (_taṃ punaḥ prāpayitvā ca taṃ deśam_), those Vānaras were delighted upon obtaining news [of Sītā] (_pravṛttim upalabhya te_).
 </details>
 </details>
 

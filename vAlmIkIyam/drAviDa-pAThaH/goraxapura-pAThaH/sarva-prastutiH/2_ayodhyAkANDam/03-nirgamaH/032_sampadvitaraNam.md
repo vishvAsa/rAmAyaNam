@@ -76,7 +76,7 @@ went immediately to the house of suyajna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having received his brother's command, which was dear and salutary (priyakaraṃ hitam), he swiftly went and entered the abode of Suyajña (suyajñasya niveśanam).
+Having received his brother&#x27;s command, which was dear and salutary (_priyakaraṃ hitam_), he swiftly went and entered the abode of Suyajña (_suyajñasya niveśanam_).
 </details>
 </details>
 
@@ -131,7 +131,7 @@ follows: "Oh, friend! Come and see the house of Rama who is doing an arduous tas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing to that Brahmin who was seated in the fire-sanctuary (agnyagārastham), Lakṣmaṇa said: “O friend, come and behold the palace of him who performs what is arduous to accomplish (duṣkarakāriṇaḥ)!”
+Bowing to that Brahmin who was seated in the fire-sanctuary (_agnyagārastham_), Lakṣmaṇa said: “O friend, come and behold the palace of him who performs what is arduous to accomplish (_duṣkarakāriṇaḥ_)!”
 </details>
 </details>
 
@@ -190,7 +190,7 @@ the goddess of wealth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having concluded his midday worship (saṃdhyām upāsthāya), he went with the son of Sumitrā and entered Rāma's delightful palace, abounding in prosperity (ṛddhaṃ lakṣmyā).
+Then, having concluded his midday worship (_saṃdhyām upāsthāya_), he went with the son of Sumitrā and entered Rāma&#x27;s delightful palace, abounding in prosperity (_ṛddhaṃ lakṣmyā_).
 </details>
 </details>
 
@@ -244,7 +244,7 @@ around sacrificial fire, that Suyajna the venerable man who had the knowledge of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With folded hands and accompanied by Sītā, Rāghava approached Suyajña, the knower of the Vedas (vedavidam), who had arrived like a worshiped sacrificial fire (agnim ivārcitam).
+With folded hands and accompanied by Sītā, Rāghava approached Suyajña, the knower of the Vedas (_vedavidam_), who had arrived like a worshiped sacrificial fire (_agnim ivārcitam_).
 </details>
 </details>
 
@@ -284,7 +284,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With choice armlets wrought of gold (jātarūpamayair mukhyair aṅgadaiḥ), with bright earrings, with gems strung on golden threads (sahemasūtrair maṇibhiḥ), and with upper-arm bands and bracelets (keyūrair valayair api),—
+With choice armlets wrought of gold (_jātarūpamayair mukhyair aṅgadaiḥ_), with bright earrings, with gems strung on golden threads (_sahemasūtrair maṇibhiḥ_), and with upper-arm bands and bracelets (_keyūrair valayair api_),—
 </details>
 </details>
 
@@ -366,9 +366,9 @@ necklace, a string of gold and a girdle. please take them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** And with many other jewels, the descendant of Kakutstha honored him in turn (pratyapūjayat); then, prompted by Sītā (sītāpracoditaḥ), Rāma spoke to Suyajña:
+**6:** And with many other jewels, the descendant of Kakutstha honored him in turn (_pratyapūjayat_); then, prompted by Sītā (_sītāpracoditaḥ_), Rāma spoke to Suyajña:
 
-**7:** “O gentle friend, have this pearl necklace and golden neck-chain (hāraṃ ca hemasūtraṃ ca) conveyed to your wife; and Sītā, your friend (te sakhī), wishes to give her this girdle (raśanām) as well.”
+**7:** “O gentle friend, have this pearl necklace and golden neck-chain (_hāraṃ ca hemasūtraṃ ca_) conveyed to your wife; and Sītā, your friend (_te sakhī_), wishes to give her this girdle (_raśanām_) as well.”
 </details>
 </details>
 
@@ -425,7 +425,7 @@ armlets adorned with figures cut in them and beautiful keyuras."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And departing for the forest (gacchatī vanam), your friend bestows upon you for your wife (tubhyaṃ bhāryāyai) these variegated armlets (aṅgadāni ca citrāṇi) and beautiful upper-arm bands (keyūrāṇi śubhāni ca).”
+“And departing for the forest (_gacchatī vanam_), your friend bestows upon you for your wife (_tubhyaṃ bhāryāyai_) these variegated armlets (_aṅgadāni ca citrāṇi_) and beautiful upper-arm bands (_keyūrāṇi śubhāni ca_).”
 </details>
 </details>
 
@@ -480,7 +480,7 @@ with an excellent coverlet."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Vaidehī wishes to present to you (pratiṣṭhāpayituṃ tvayi) this couch spread with a choice coverlet (paryaṅkam agryāstaraṇam) and adorned with diverse jewels.”
+“And Vaidehī wishes to present to you (_pratiṣṭhāpayituṃ tvayi_) this couch spread with a choice coverlet (_paryaṅkam agryāstaraṇam_) and adorned with diverse jewels.”
 </details>
 </details>
 
@@ -535,7 +535,7 @@ earlier to me by my maternal uncle as well as those thousand elephants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This elephant named Śatruñjaya (nāgaḥ śatruñjayo nāma), which my maternal uncle gave to me, I bestow upon you together with a thousand gold coins (niṣkasahasreṇa), O foremost of the twice-born!”
+“This elephant named Śatruñjaya (_nāgaḥ śatruñjayo nāma_), which my maternal uncle gave to me, I bestow upon you together with a thousand gold coins (_niṣkasahasreṇa_), O foremost of the twice-born!”
 </details>
 </details>
 
@@ -589,7 +589,7 @@ Rama, Lakshmana and Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāma, Suyajña accepted that wealth (pratigṛhya tat) and pronounced auspicious blessings (prayuyojāśiṣaḥ śivāḥ) upon Rāma, Lakṣmaṇa, and Sītā.
+Addressed thus by Rāma, Suyajña accepted that wealth (_pratigṛhya tat_) and pronounced auspicious blessings (_prayuyojāśiṣaḥ śivāḥ_) upon Rāma, Lakṣmaṇa, and Sītā.
 </details>
 </details>
 
@@ -645,7 +645,7 @@ beloved brother Lakshmana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, like Brahmā addressing the lord of the thirty gods (brahmeva tridaśeśvaram), Rāma spoke these words to his beloved, unwearied, and sweet-spoken brother, the son of Sumitrā:
+Then, like Brahmā addressing the lord of the thirty gods (_brahmeva tridaśeśvaram_), Rāma spoke these words to his beloved, unwearied, and sweet-spoken brother, the son of Sumitrā:
 </details>
 </details>
 
@@ -737,9 +737,9 @@ cows, gold, silver and with gems of great value."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “O son of Sumitrā, summon those two foremost of Brahmins, Agastya and Kauśika (agastyaṃ kauśikaṃ caiva), and honor them with jewels just as one nourishes sprouting grain with showers of water (ratnaiḥ sasyam ivāmbubhiḥ)!”
+**13:** “O son of Sumitrā, summon those two foremost of Brahmins, Agastya and Kauśika (_agastyaṃ kauśikaṃ caiva_), and honor them with jewels just as one nourishes sprouting grain with showers of water (_ratnaiḥ sasyam ivāmbubhiḥ_)!”
 
-**14:** “Gratify them, O mighty-armed Rāghava, with a thousand cows (gosahasreṇa), with gold and silver, and with gems of great value (maṇibhiś ca mahādhanaiḥ)!”
+**14:** “Gratify them, O mighty-armed Rāghava, with a thousand cows (_gosahasreṇa_), with gold and silver, and with gems of great value (_maṇibhiś ca mahādhanaiḥ_)!”
 </details>
 </details>
 
@@ -817,9 +817,9 @@ Shukla Yajurveda)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “And that preceptor of the Taittirīyas (ācāryas taittirīyāṇām), learned in the Vedas and of noble character (abhirūpaś ca vedavit), who devotedly attends upon Kausalyā with blessings,—”
+**15:** “And that preceptor of the Taittirīyas (_ācāryas taittirīyāṇām_), learned in the Vedas and of noble character (_abhirūpaś ca vedavit_), who devotedly attends upon Kausalyā with blessings,—”
 
-**16:** “To him, O son of Sumitrā, cause to be given a carriage, female attendants (tasya yānaṃ ca dāsīś ca), and silken garments (kauśeyāni ca vastrāṇi), until that twice-born sage is fully satisfied!”
+**16:** “To him, O son of Sumitrā, cause to be given a carriage, female attendants (_tasya yānaṃ ca dāsīś ca_), and silken garments (_kauśeyāni ca vastrāṇi_), until that twice-born sage is fully satisfied!”
 </details>
 </details>
 
@@ -881,7 +881,7 @@ types of small animals and with thousands of cows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the noble charioteer and counselor Citraratha, who has dwelt with us for a very long time (sacivaḥ suciroṣitaḥ)—gratify him with precious jewels, garments, and wealth,”
+“And the noble charioteer and counselor Citraratha, who has dwelt with us for a very long time (_sacivaḥ suciroṣitaḥ_)—gratify him with precious jewels, garments, and wealth,”
 </details>
 </details>
 
@@ -973,11 +973,11 @@ Give a thousand cows for use in their nourishment, Oh Lakshmana!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “As well as with all kinds of small livestock (paśukābhiś ca sarvābhiḥ) and a thousand cows (gavāṃ daśaśatena ca); and as for these many staff-bearing Vedic students of the Kaṭha and Kalāpa schools (kaṭhakālāpā bahavo daṇḍamāṇavāḥ)—”
+**18:** “As well as with all kinds of small livestock (_paśukābhiś ca sarvābhiḥ_) and a thousand cows (_gavāṃ daśaśatena ca_); and as for these many staff-bearing Vedic students of the Kaṭha and Kalāpa schools (_kaṭhakālāpā bahavo daṇḍamāṇavāḥ_)—”
 
-**19:** “Because of their constant devotion to Vedic recitation (nityasvādhyāyaśīlatvāt), they perform no other work whatsoever; though indolent in worldly toil and fond of savory food (alasāḥ svādukāmāś ca), they are highly esteemed even by the great (mahatāṃ cāpi sammatāḥ).”
+**19:** “Because of their constant devotion to Vedic recitation (_nityasvādhyāyaśīlatvāt_), they perform no other work whatsoever; though indolent in worldly toil and fond of savory food (_alasāḥ svādukāmāś ca_), they are highly esteemed even by the great (_mahatāṃ cāpi sammatāḥ_).”
 
-**20:** “Cause eighty carriages filled with jewels (aśītiyānāni ratnapūrṇāni) to be given to them, along with a thousand pack-bullocks laden with rice (śālivāhasahasraṃ ca) and two hundred choice draught-oxen (dve śate bhadrakāṃs tathā).”
+**20:** “Cause eighty carriages filled with jewels (_aśītiyānāni ratnapūrṇāni_) to be given to them, along with a thousand pack-bullocks laden with rice (_śālivāhasahasraṃ ca_) and two hundred choice draught-oxen (_dve śate bhadrakāṃs tathā_).”
 </details>
 </details>
 
@@ -1035,7 +1035,7 @@ given a thousand cows each."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And for their condiments of milk, curds, and ghee (vyañjanārthaṃ ca), O son of Sumitrā, present a thousand cows (gosahasram upākuru). Moreover, a great multitude of girdle-wearing Vedic students (mekhalīnāṃ mahāsaṅghaḥ) attends upon Kausalyā; to each of them singly, O son of Sumitrā, cause a thousand to be given!”
+“And for their condiments of milk, curds, and ghee (_vyañjanārthaṃ ca_), O son of Sumitrā, present a thousand cows (_gosahasram upākuru_). Moreover, a great multitude of girdle-wearing Vedic students (_mekhalīnāṃ mahāsaṅghaḥ_) attends upon Kausalyā; to each of them singly, O son of Sumitrā, cause a thousand to be given!”
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ to see my gifts."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Honor all those twice-born ones in every way, O Lakṣmaṇa, so that our mother Kausalyā may rejoice in my sacrificial bounty (mama dakṣiṇām)!”
+“Honor all those twice-born ones in every way, O Lakṣmaṇa, so that our mother Kausalyā may rejoice in my sacrificial bounty (_mama dakṣiṇām_)!”
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ best of brahmanas as instructed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that tiger among men, Lakṣmaṇa himself, distributed that wealth as instructed (yathoktam) to the foremost of Brahmins, just like Kubera the bestower of riches (dhanado yathā).
+Then that tiger among men, Lakṣmaṇa himself, distributed that wealth as instructed (_yathoktam_) to the foremost of Brahmins, just like Kubera the bestower of riches (_dhanado yathā_).
 </details>
 </details>
 
@@ -1235,9 +1235,9 @@ occupied by me, should be guarded by each one of you, by turn."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Then, having bestowed abundant wealth upon each one for his livelihood (ekaikasyopajīvanam), he spoke to his dependents who stood by with throats choked with tears (bāṣpagalāṃs tiṣṭhataś copajīvinaḥ):
+**24:** Then, having bestowed abundant wealth upon each one for his livelihood (_ekaikasyopajīvanam_), he spoke to his dependents who stood by with throats choked with tears (_bāṣpagalāṃs tiṣṭhataś copajīvinaḥ_):
 
-**25:** “Both Lakṣmaṇa's mansion and this palace of mine must each be kept occupied without fail (aśūnyaṃ kāryam ekaikam) until my return (yāvadāgamanaṃ mama).”
+**25:** “Both Lakṣmaṇa&#x27;s mansion and this palace of mine must each be kept occupied without fail (_aśūnyaṃ kāryam ekaikam_) until my return (_yāvadāgamanaṃ mama_).”
 </details>
 </details>
 
@@ -1294,7 +1294,7 @@ treasurer as follows: "Let my wealth be brought(here)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to all those grieving dependents (duḥkhitaṃ sarvaṃ janaṃ tam upajīvinam), he said this to his treasurer (dhanādhyakṣam): “Let my wealth be brought forth!”
+Having spoken thus to all those grieving dependents (_duḥkhitaṃ sarvaṃ janaṃ tam upajīvinam_), he said this to his treasurer (_dhanādhyakṣam_): “Let my wealth be brought forth!”
 </details>
 </details>
 
@@ -1351,7 +1351,7 @@ wealth there appeared good-looking.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all his dependents brought forth his wealth (dhanam ājahruḥ); and that vast, resplendent heap (sa rāśiḥ sumahān) was seen there.
+Then all his dependents brought forth his wealth (_dhanam ājahruḥ_); and that vast, resplendent heap (_sa rāśiḥ sumahān_) was seen there.
 </details>
 </details>
 
@@ -1409,7 +1409,7 @@ distributed among the brahmanas, the children, the old-aged and the pitiable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, together with Lakṣmaṇa, that tiger among men caused that wealth to be distributed (hy adāpayat) to the twice-born, to children and the aged, and to the indigent (kṛpaṇebhyaḥ).
+Then, together with Lakṣmaṇa, that tiger among men caused that wealth to be distributed (_hy adāpayat_) to the twice-born, to children and the aged, and to the indigent (_kṛpaṇebhyaḥ_).
 </details>
 </details>
 
@@ -1468,7 +1468,7 @@ carrying an axe, a spade and a plough."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now there was in that place a tawny-eyed twice-born sage of the Garga lineage named Trijaṭa (piṅgalo gārgyas trijaṭo nāma vai dvijaḥ), who ever earned his livelihood by digging in the forest (kṣatavṛttir vane nityam) with plowshare, spade, and hooked staff (phālakuddālalāṅgalī).
+Now there was in that place a tawny-eyed twice-born sage of the Garga lineage named Trijaṭa (_piṅgalo gārgyas trijaṭo nāma vai dvijaḥ_), who ever earned his livelihood by digging in the forest (_kṣatavṛttir vane nityam_) with plowshare, spade, and hooked staff (_phālakuddālalāṅgalī_).
 </details>
 </details>
 
@@ -1560,9 +1560,9 @@ who knows his duty and see if you get at least something."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** Taking her young children (bālān ādāya dārakān), his youthful wife spoke these words to that aged Brahmin—for a husband is indeed a woman's deity (strīṇāṃ bhartā hi devatā):
+**30:** Taking her young children (_bālān ādāya dārakān_), his youthful wife spoke these words to that aged Brahmin—for a husband is indeed a woman&#x27;s deity (_strīṇāṃ bhartā hi devatā_):
 
-**31:** “Cast aside your plowshare and spade (apāsya phālaṃ kuddālam), and do my bidding: go and present yourself before the righteous Rāma (rāmaṃ darśaya dharmajñam), if perchance you may obtain something!”
+**31:** “Cast aside your plowshare and spade (_apāsya phālaṃ kuddālam_), and do my bidding: go and present yourself before the righteous Rāma (_rāmaṃ darśaya dharmajñam_), if perchance you may obtain something!”
 </details>
 </details>
 
@@ -1617,7 +1617,7 @@ his body and set out towards the track wherein lies Rama's palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing his wife's words and wrapping around himself a tattered garment (śāṭīm ācchādya duśchadām) that could scarcely cover him, he set out along the road where Rāma's palace stood.
+Hearing his wife&#x27;s words and wrapping around himself a tattered garment (_śāṭīm ācchādya duśchadām_) that could scarcely cover him, he set out along the road where Rāma&#x27;s palace stood.
 </details>
 </details>
 
@@ -1672,7 +1672,7 @@ was equal in spiritual splendour with the sages Bhrigu and Angira.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the assembly of the people, no one barred (naitaṃ kaścid avārayat) Trijaṭa—who equaled Bhṛgu and Aṅgiras in effulgence (bhṛgvaṅgiraḥsamaṃ dīptyā)—all the way up to the fifth courtyard (āpañcamāyāḥ kakṣyāyāḥ).
+In the assembly of the people, no one barred (_naitaṃ kaścid avārayat_) Trijaṭa—who equaled Bhṛgu and Aṅgiras in effulgence (_bhṛgvaṅgiraḥsamaṃ dīptyā_)—all the way up to the fifth courtyard (_āpañcamāyāḥ kakṣyāyāḥ_).
 </details>
 </details>
 
@@ -1735,7 +1735,7 @@ forest, with an occupation of digging the soil. Look to me, as you know."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching Rāma then, Trijaṭa spoke these words: “I am penniless and have many children (nirdhano bahuputro 'smi), O prince of mighty strength!”
+Approaching Rāma then, Trijaṭa spoke these words: “I am penniless and have many children (_nirdhano bahuputro &#x27;smi_), O prince of mighty strength!”
 </details>
 </details>
 
@@ -1828,9 +1828,9 @@ threw it with all his strength, excited as he was.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** “Ever eking out my livelihood by digging in the forest (kṣatavṛttir vane nityam), look upon me with favor (pratyavekṣasva mām)!” Thereupon Rāma replied to him in words mingled with playful jest (parihāsasamanvitam):
+**35:** “Ever eking out my livelihood by digging in the forest (_kṣatavṛttir vane nityam_), look upon me with favor (_pratyavekṣasva mām_)!” Thereupon Rāma replied to him in words mingled with playful jest (_parihāsasamanvitam_):
 
-**36:** “Not even a single thousand of my cows has yet been given away by me (na ca viśrāṇitaṃ mayā); as far as you can hurl your staff (parikṣipasi daṇḍena yāvat), so many cattle shall you obtain (tāvad avāpsyase)!”
+**36:** “Not even a single thousand of my cows has yet been given away by me (_na ca viśrāṇitaṃ mayā_); as far as you can hurl your staff (_parikṣipasi daṇḍena yāvat_), so many cattle shall you obtain (_tāvad avāpsyase_)!”
 </details>
 </details>
 
@@ -1885,7 +1885,7 @@ close to a bull amidst a flock of cows numbering in several thousands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In eager haste (sambhrāntaḥ), wrapping that garment tightly around his waist (śāṭīṃ paritaḥ kaṭyāṃ pariveṣṭya), he whirled his staff and hurled it (āvidhya daṇḍaṃ cikṣepa) swiftly with all his might (sarvaprāṇena vegataḥ).
+In eager haste (_sambhrāntaḥ_), wrapping that garment tightly around his waist (_śāṭīṃ paritaḥ kaṭyāṃ pariveṣṭya_), he whirled his staff and hurled it (_āvidhya daṇḍaṃ cikṣepa_) swiftly with all his might (_sarvaprāṇena vegataḥ_).
 </details>
 </details>
 
@@ -1942,7 +1942,7 @@ the cows up to that bank of Sarayu.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released from his hand, that staff crossed to the farther bank of the Sarayū (tīrtvā sarayūpāram) and fell amidst a herd of many thousands of cattle, beside a bull (papātokṣāṇasaṃnidhau).
+Released from his hand, that staff crossed to the farther bank of the Sarayū (_tīrtvā sarayūpāram_) and fell amidst a herd of many thousands of cattle, beside a bull (_papātokṣāṇasaṃnidhau_).
 </details>
 </details>
 
@@ -1996,7 +1996,7 @@ express your contempt, for this was only a jest indulged in by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing him (taṃ pariṣvajya), the righteous-souled Rāma caused all those cows from that bank of the Sarayū (ā tasmāt sarayūtaṭāt) to be driven to Trijaṭa's hermitage.
+Embracing him (_taṃ pariṣvajya_), the righteous-souled Rāma caused all those cows from that bank of the Sarayū (_ā tasmāt sarayūtaṭāt_) to be driven to Trijaṭa&#x27;s hermitage.
 </details>
 </details>
 
@@ -2056,7 +2056,7 @@ for you. If you desire any other thing, opt for it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then, soothing that descendant of Garga (taṃ gārgyam abhisāntvayan), Rāma said: “Surely you must not take offense (manyur na khalu kartavyaḥ), for this was only a jest of mine (parihāso hy ayaṃ mama)!”
+And then, soothing that descendant of Garga (_taṃ gārgyam abhisāntvayan_), Rāma said: “Surely you must not take offense (_manyur na khalu kartavyaḥ_), for this was only a jest of mine (_parihāso hy ayaṃ mama_)!”
 </details>
 </details>
 
@@ -2125,7 +2125,7 @@ it will bring in joy and fame."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wishing solely to test that irresistible spiritual energy of yours (tejas tava yad duratyayaṃ jijñāsitum icchatā), I prompted you to this act; if you desire anything further (kiṃced aparaṃ vyavasyasi), pray choose it!”
+“Wishing solely to test that irresistible spiritual energy of yours (_tejas tava yad duratyayaṃ jijñāsitum icchatā_), I prompted you to this act; if you desire anything further (_kiṃced aparaṃ vyavasyasi_), pray choose it!”
 </details>
 </details>
 
@@ -2192,7 +2192,7 @@ strength, delight and happiness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I declare to you in truth—do not feel any hesitation (na te sma yantraṇā)! For whatever wealth is mine exists for the sake of Brahmins (viprakāraṇāt), and by being worthily bestowed upon such as you (bhavatsu samyakpratipādanena), what I have earned shall bring me renown (yaśaskaraṃ bhavet).”
+“I declare to you in truth—do not feel any hesitation (_na te sma yantraṇā_)! For whatever wealth is mine exists for the sake of Brahmins (_viprakāraṇāt_), and by being worthily bestowed upon such as you (_bhavatsu samyakpratipādanena_), what I have earned shall bring me renown (_yaśaskaraṃ bhavet_).”
 </details>
 </details>
 
@@ -2251,7 +2251,7 @@ immediately bestowed on friendly people, a great wealth earned by righteous migh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the great sage Trijaṭa, together with his wife, joyfully accepted that vast herd of cattle (gavām anīkaṃ pratigṛhya moditaḥ) and pronounced upon the high-souled Rāma blessings that enhanced his glory, strength, joy, and happiness (yaśobalaprītisukhopabṛṃhiṇīḥ).
+Then the great sage Trijaṭa, together with his wife, joyfully accepted that vast herd of cattle (_gavām anīkaṃ pratigṛhya moditaḥ_) and pronounced upon the high-souled Rāma blessings that enhanced his glory, strength, joy, and happiness (_yaśobalaprītisukhopabṛṃhiṇīḥ_).
 </details>
 </details>
 
@@ -2318,7 +2318,7 @@ mendicant who was not satiated with befittingly deserving honour, gifts and resp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Rāma too, of consummate manliness (pratipūrṇapauruṣaḥ), prompted by words of fitting honor (yathārhasammānavacaḥpracoditaḥ), swiftly bestowed his great wealth, earned through righteous might (dharmabalair upārjitam), upon his friends and kindred (suhṛjjane).
+And Rāma too, of consummate manliness (_pratipūrṇapauruṣaḥ_), prompted by words of fitting honor (_yathārhasammānavacaḥpracoditaḥ_), swiftly bestowed his great wealth, earned through righteous might (_dharmabalair upārjitam_), upon his friends and kindred (_suhṛjjane_).
 </details>
 </details>
 
@@ -2369,7 +2369,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether twice-born, friend, or servant, or whoever then lived by indigent mendicancy (daridrabhikṣācaraṇaś ca yo bhavet)—there was no one there who was not gratified (na tatra kaścin na babhūva tarpitaḥ) with eager gifts and due honors (yathārhasammānanadānasambhramaiḥ).
+Whether twice-born, friend, or servant, or whoever then lived by indigent mendicancy (_daridrabhikṣācaraṇaś ca yo bhavet_)—there was no one there who was not gratified (_na tatra kaścin na babhūva tarpitaḥ_) with eager gifts and due honors (_yathārhasammānanadānasambhramaiḥ_).
 </details>
 </details>
 

@@ -105,9 +105,9 @@ spoke the following words to Shatrughna:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having encamped the army, that mighty lord, the foremost of those who walk on foot (niveśya senāṃ tu vibhuḥ padbhyāṃ pādavatāṃ varaḥ), desired to approach Kākutstha, who was ever obedient to his elders, on foot (abhigantuṃ sa kākutstham iyeṣa guru-varttakam).
+**1:** Having encamped the army, that mighty lord, the foremost of those who walk on foot (_niveśya senāṃ tu vibhuḥ padbhyāṃ pādavatāṃ varaḥ_), desired to approach Kākutstha, who was ever obedient to his elders, on foot (_abhigantuṃ sa kākutstham iyeṣa guru-varttakam_).
 
-**2:** As soon as the army had encamped in modest discipline at its appointed stations (niviṣṭa-mātre sainye tu yathoddeśaṃ vinītavat), Bharata spoke this word to his brother Śatrughna (bharato bhrātaraṃ vākyaṃ śatrughnam idam abravīt):
+**2:** As soon as the army had encamped in modest discipline at its appointed stations (_niviṣṭa-mātre sainye tu yathoddeśaṃ vinītavat_), Bharata spoke this word to his brother Śatrughna (_bharato bhrātaraṃ vākyaṃ śatrughnam idam abravīt_):
 </details>
 </details>
 
@@ -159,7 +159,7 @@ all sides of this forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gentle one, together with these bands of men and accompanied by these hunters (saumya nara-saṅghaiḥ lubdhaiś ca sahitair ebhiḥ), you ought swiftly to search this forest on every side (kṣipraṃ vanam idaṃ samantataḥ tvam anveṣitum arhasi).
+“O gentle one, together with these bands of men and accompanied by these hunters (_saumya nara-saṅghaiḥ lubdhaiś ca sahitair ebhiḥ_), you ought swiftly to search this forest on every side (_kṣipraṃ vanam idaṃ samantataḥ tvam anveṣitum arhasi_).
 </details>
 </details>
 
@@ -214,7 +214,7 @@ multitude of his kinsmen, duly wielding their bows, arrows and swords."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let Guha himself, surrounded by a thousand of his kinsmen bearing arrows, bows, and swords (guho jñāti-sahasreṇa śara-cāpāsi-dhāriṇā parivṛtaḥ svayam), thoroughly search for the two Kākutsthas in this forest (samanveṣatu kākutsthāv asmin).
+Let Guha himself, surrounded by a thousand of his kinsmen bearing arrows, bows, and swords (_guho jñāti-sahasreṇa śara-cāpāsi-dhāriṇā parivṛtaḥ svayam_), thoroughly search for the two Kākutsthas in this forest (_samanveṣatu kākutsthāv asmin_).
 </details>
 </details>
 
@@ -266,7 +266,7 @@ personally go round the entire forest on foot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by ministers, citizens, elders, and twice-born Brāhmaṇas (amātyaiḥ saha pauraiś ca gurubhiś ca dvijātibhiḥ parivṛtaḥ), I myself shall traverse the entire forest on foot (vanaṃ sarvaṃ cariṣyāmi padbhyāṃ svayam).
+Surrounded by ministers, citizens, elders, and twice-born Brāhmaṇas (_amātyaiḥ saha pauraiś ca gurubhiś ca dvijātibhiḥ parivṛtaḥ_), I myself shall traverse the entire forest on foot (_vanaṃ sarvaṃ cariṣyāmi padbhyāṃ svayam_).
 </details>
 </details>
 
@@ -312,7 +312,7 @@ the illustrious Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So long as I do not behold Rāma, or Lakṣmaṇa of mighty strength (yāvan na rāmaṃ drakṣyāmi lakṣmaṇaṃ vā mahā-balam), or the highly fortunate Vaidehī, there shall be no peace for me (vaidehīṃ vā mahā-bhāgāṃ na me śāntir bhaviṣyati).
+So long as I do not behold Rāma, or Lakṣmaṇa of mighty strength (_yāvan na rāmaṃ drakṣyāmi lakṣmaṇaṃ vā mahā-balam_), or the highly fortunate Vaidehī, there shall be no peace for me (_vaidehīṃ vā mahā-bhāgāṃ na me śāntir bhaviṣyati_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ brother, resembling the moon and having eyes bearing resemblance to lotus-leaves
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So long as I do not behold my brother’s auspicious, moon-like countenance with lotus-petal eyes (yāvan na candra-saṅkāśaṃ drakṣyāmi śubham ānanaṃ bhrātuḥ padma-palāśākṣam), there shall be no peace for me (na me śāntir bhaviṣyati).
+So long as I do not behold my brother’s auspicious, moon-like countenance with lotus-petal eyes (_yāvan na candra-saṅkāśaṃ drakṣyāmi śubham ānanaṃ bhrātuḥ padma-palāśākṣam_), there shall be no peace for me (_na me śāntir bhaviṣyati_).
 </details>
 </details>
 
@@ -425,7 +425,7 @@ elder brother, bearing royal insignia.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So long as I do not bear upon my head my brother’s feet, endowed with the marks of royalty (yāvan na caraṇau bhrātuḥ pārthiva-vyañjanānvitau śirasā dhārayiṣyāmi), there shall be no peace for me (na me śāntir bhaviṣyati).
+So long as I do not bear upon my head my brother’s feet, endowed with the marks of royalty (_yāvan na caraṇau bhrātuḥ pārthiva-vyañjanānvitau śirasā dhārayiṣyāmi_), there shall be no peace for me (_na me śāntir bhaviṣyati_).
 </details>
 </details>
 
@@ -479,7 +479,7 @@ consecrated by sprinkling water on his head (as a symbol of crowing the kingdom)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-So long as he who is worthy of the kingdom is not established in the ancestral realm of his father and grandfather (yāvan na rājye rājyārhaḥ pitṛ-paitāmahe sthitaḥ), wet with the waters of consecration, there shall be no peace for me (abhiṣeka-jala-klinno na me śāntir bhaviṣyati).
+So long as he who is worthy of the kingdom is not established in the ancestral realm of his father and grandfather (_yāvan na rājye rājyārhaḥ pitṛ-paitāmahe sthitaḥ_), wet with the waters of consecration, there shall be no peace for me (_abhiṣeka-jala-klinno na me śāntir bhaviṣyati_).
 </details>
 </details>
 
@@ -531,7 +531,7 @@ resembling the bright moon and having lotus eyes, is indeed an accomplished man.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly fulfilled in his purpose is Saumitri (siddhārthaḥ khalu saumitriḥ), who beholds the lotus-eyed, radiant face of Rāma, resembling the spotless moon (yaś candra-vimalopamaṃ mukhaṃ paśyati rāmasya rājīvākṣaṃ mahā-dyuti).
+Truly fulfilled in his purpose is Saumitri (_siddhārthaḥ khalu saumitriḥ_), who beholds the lotus-eyed, radiant face of Rāma, resembling the spotless moon (_yaś candra-vimalopamaṃ mukhaṃ paśyati rāmasya rājīvākṣaṃ mahā-dyuti_).
 </details>
 </details>
 
@@ -584,7 +584,7 @@ Lord of the earth extending to the sea, has fulfilled her object."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fulfilled in her sacred duty is the highly fortunate Vaidehī, daughter of Janaka (kṛta-kṛtyā mahā-bhāgā vaidehī janakātmajā), who follows in the footsteps of her husband, the lord of the ocean-girt earth (bhartāraṃ sāgarāntāyāḥ pṛthivyā yānugacchati).
+Fulfilled in her sacred duty is the highly fortunate Vaidehī, daughter of Janaka (_kṛta-kṛtyā mahā-bhāgā vaidehī janakātmajā_), who follows in the footsteps of her husband, the lord of the ocean-girt earth (_bhartāraṃ sāgarāntāyāḥ pṛthivyā yānugacchati_).
 </details>
 </details>
 
@@ -640,7 +640,7 @@ Rama is residing, as Kubera the Lord of riches is living in the garden of Nandan
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blessed is yonder mountain Citrakūṭa, resembling the king of mountains (subhagaś citrakūṭo ’sau giri-rājopamo giriḥ), upon which Kākutstha dwells like Kubera in the Nandana grove (yasmin vasati kākutsthaḥ kubera iva nandane).
+Blessed is yonder mountain Citrakūṭa, resembling the king of mountains (_subhagaś citrakūṭo ’sau giri-rājopamo giriḥ_), upon which Kākutstha dwells like Kubera in the Nandana grove (_yasmin vasati kākutsthaḥ kubera iva nandane_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ warrior and the excellent man among the wielders of weapons, dwells."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fulfilled in its purpose is this impassable forest frequented by wild beasts of prey (kṛta-kāryam idaṃ durgaṃ vanaṃ vyāla-niṣevitam), wherein dwells Rāma of mighty splendor, the foremost of weapon-bearers (yad adhyāste mahā-tejā rāmaḥ śastra-bhṛtāṃ varaḥ)!”
+Fulfilled in its purpose is this impassable forest frequented by wild beasts of prey (_kṛta-kāryam idaṃ durgaṃ vanaṃ vyāla-niṣevitam_), wherein dwells Rāma of mighty splendor, the foremost of weapon-bearers (_yad adhyāste mahā-tejā rāmaḥ śastra-bhṛtāṃ varaḥ_)!”
 </details>
 </details>
 
@@ -731,7 +731,7 @@ Fulfilled in its purpose is this impassable forest frequented by wild beasts of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the mighty-armed Bharata of great splendor, that bull among men (evam uktvā mahā-tejā bharataḥ puruṣarṣabhaḥ mahā-bāhuḥ), entered the great forest on foot alone (padbhyām eva praviveśa mahad vanam).
+Having spoken thus, the mighty-armed Bharata of great splendor, that bull among men (_evam uktvā mahā-tejā bharataḥ puruṣarṣabhaḥ mahā-bāhuḥ_), entered the great forest on foot alone (_padbhyām eva praviveśa mahad vanam_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Having spoken thus, the mighty-armed Bharata of great splendor, that bull among 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That foremost of eloquent men passed through the midst of those thickets of trees (sa tāni druma-jālāni madhyena jagāma vadatāṃ varaḥ), which grew upon the mountain plateaus with their crests in full blossom (jātāni giri-sānuṣu puṣpitāgrāṇi).
+That foremost of eloquent men passed through the midst of those thickets of trees (_sa tāni druma-jālāni madhyena jagāma vadatāṃ varaḥ_), which grew upon the mountain plateaus with their crests in full blossom (_jātāni giri-sānuṣu puṣpitāgrāṇi_).
 </details>
 </details>
 
@@ -796,7 +796,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching a flowering sāla tree upon Mount Citrakūṭa (sa gireś citrakūṭasya sālam āsādya puṣpitam), he beheld the lofty banner of smoke rising from the sacred fire at Rāma’s hermitage (rāmāśrama-gatasyāgner dadarśa dhvajam ucchritam).
+Reaching a flowering _sāla_ tree upon Mount Citrakūṭa (_sa gireś citrakūṭasya sālam āsādya puṣpitam_), he beheld the lofty banner of smoke rising from the sacred fire at Rāma’s hermitage (_rāmāśrama-gatasyāgner dadarśa dhvajam ucchritam_).
 </details>
 </details>
 
@@ -827,7 +827,7 @@ Reaching a flowering sāla tree upon Mount Citrakūṭa (sa gireś citrakūṭas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that sign and knowing, “Here is Rāma!” (taṃ dṛṣṭvā atra rāma iti jñātvā), the glorious Bharata Together with his kinsmen was overcome with emotion, like one who has reached the farther shore of the waters (bharataḥ śrīmān mumoha saha-bāndhavaḥ gataḥ pāram ivāmbhasaḥ).
+Beholding that sign and knowing, “Here is Rāma!” (_taṃ dṛṣṭvā atra rāma iti jñātvā_), the glorious Bharata Together with his kinsmen was overcome with emotion, like one who has reached the farther shore of the waters (_bharataḥ śrīmān mumoha saha-bāndhavaḥ gataḥ pāram ivāmbhasaḥ_).
 </details>
 </details>
 
@@ -873,7 +873,7 @@ Beholding that sign and knowing, “Here is Rāma!” (taṃ dṛṣṭvā atra 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Observing on Mount Citrakūṭa the hermitage of Rāma, frequented by holy ascetics (sa citrakūṭe tu girau niśamya rāmāśramaṃ puṇya-janopapannam), that great-souled prince halted his army once more and hastened forward together with Guha (punar niveśyaiva camūṃ mahātmā guhena sārdhaṃ tvarito jagāma).
+Observing on Mount Citrakūṭa the hermitage of Rāma, frequented by holy ascetics (_sa citrakūṭe tu girau niśamya rāmāśramaṃ puṇya-janopapannam_), that great-souled prince halted his army once more and hastened forward together with Guha (_punar niveśyaiva camūṃ mahātmā guhena sārdhaṃ tvarito jagāma_).
 </details>
 </details>
 

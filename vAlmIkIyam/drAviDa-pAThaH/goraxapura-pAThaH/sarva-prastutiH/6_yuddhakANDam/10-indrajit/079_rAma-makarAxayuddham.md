@@ -86,7 +86,7 @@ took their positions, with intent to give fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Makarākṣa come forth (nirgatam), all those bulls among the Vānaras (vānarapuṃgavāḥ) suddenly leaped forward (āplutya), standing arrayed in their eagerness to fight (yoddhukāmāḥ).
+Beholding Makarākṣa come forth (_nirgatam_), all those bulls among the Vānaras (_vānarapuṃgavāḥ_) suddenly leaped forward (_āplutya_), standing arrayed in their eagerness to fight (_yoddhukāmāḥ_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ one's hair to bristle, like the encounter between celestials and demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then commenced that exceedingly great and hair-raising battle (lomaharṣaṇam) of the leaping monkeys with the night-stalkers (niśācaraiḥ), like that of the gods with the Dānavas.
+Then commenced that exceedingly great and hair-raising battle (_lomaharṣaṇam_) of the leaping monkeys with the night-stalkers (_niśācaraiḥ_), like that of the gods with the Dānavas.
 </details>
 </details>
 
@@ -185,7 +185,7 @@ clubs, began to crush each other.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With blows of tree-pikes (vṛkṣaśūlanipātaiḥ) and hurlings of maces and iron-studded clubs (gadāparighapātanaiḥ), the monkeys and night-stalkers crushed one another then.
+With blows of tree-pikes (_vṛkṣaśūlanipātaiḥ_) and hurlings of maces and iron-studded clubs (_gadāparighapātanaiḥ_), the monkeys and night-stalkers crushed one another then.
 </details>
 </details>
 
@@ -249,9 +249,9 @@ arrows on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** And with javelins, swords, maces, lances, and darts (śaktikhaḍgagadākuntaistomaraiś ca), and with axes (paṭṭiśaiḥ), slings (bhindipālaiḥ), and showers of arrows on every side—
+**4:** And with javelins, swords, maces, lances, and darts (_śaktikhaḍgagadākuntaistomaraiś ca_), and with axes (_paṭṭiśaiḥ_), slings (_bhindipālaiḥ_), and showers of arrows on every side—
 
-**5:** And with nooses, hammers, and staffs (pāśamudgaradaṇḍaiś ca), and other thunderous missiles (nirghātaiś ca) as well, those night-roamers wrought slaughter (kadanam) among the lion-like monkeys.
+**5:** And with nooses, hammers, and staffs (_pāśamudgaradaṇḍaiś ca_), and other thunderous missiles (_nirghātaiś ca_) as well, those night-roamers wrought slaughter (_kadanam_) among the lion-like monkeys.
 </details>
 </details>
 
@@ -297,7 +297,7 @@ in mind, agonized with fear and ran away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And tormented by floods of arrows (bāṇaughaiḥ) launched by Khara's son, all the Vānaras, their minds bewildered (sambhrāntamanasaḥ) and stricken with fear, fled away (dudruvuḥ).
+And tormented by floods of arrows (_bāṇaughaiḥ_) launched by Khara&#x27;s son, all the Vānaras, their minds bewildered (_sambhrāntamanasaḥ_) and stricken with fear, fled away (_dudruvuḥ_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ a triumphant feeling.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those forest-dwellers (vanaukasaḥ) fleeing away, all those proud rākṣasas roared like lions (siṃhavad dṛptāḥ), shining in triumph (jitakāśinaḥ).
+Beholding those forest-dwellers (_vanaukasaḥ_) fleeing away, all those proud rākṣasas roared like lions (_siṃhavad dṛptāḥ_), shining in triumph (_jitakāśinaḥ_).
 </details>
 </details>
 
@@ -403,7 +403,7 @@ intercepted those demons on that occasion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those Vānaras were fleeing away on all sides, Rāma checked (vārayāmāsa) those rākṣasas with a shower of arrows (śaravarṣeṇa).
+While those Vānaras were fleeing away on all sides, Rāma checked (_vārayāmāsa_) those rākṣasas with a shower of arrows (_śaravarṣeṇa_).
 </details>
 </details>
 
@@ -452,7 +452,7 @@ of anger, spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the rākṣasas checked, the night-stalker Makarākṣa, possessed by the fire of wrath (kopānalasamāviṣṭaḥ), spoke this word:
+Seeing the rākṣasas checked, the night-stalker Makarākṣa, possessed by the fire of wrath (_kopānalasamāviṣṭaḥ_), spoke this word:
 </details>
 </details>
 
@@ -504,7 +504,7 @@ sharp arrows discharged from my bow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stand, O Rāma! There shall be single combat (dvandvayuddham) between you and me; I shall make you surrender your life-breaths (tyājayiṣyāmi te prāṇān) with sharp arrows loosed from my bow.
+“Stand, O Rāma! There shall be single combat (_dvandvayuddham_) between you and me; I shall make you surrender your life-breaths (_tyājayiṣyāmi te prāṇān_) with sharp arrows loosed from my bow.
 </details>
 </details>
 
@@ -560,7 +560,7 @@ violent, when I think of you engaged in such nefarious acts".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Because you slew my father then in the Daṇḍaka forest, my wrath swells (roṣo 'bhivardhate) as I remember you standing since that time in your own deed (svakarmastham).
+Because you slew my father then in the Daṇḍaka forest, my wrath swells (_roṣo &#x27;bhivardhate_) as I remember you standing since that time in your own deed (_svakarmastham_).
 </details>
 </details>
 
@@ -607,7 +607,7 @@ large forest, my limbs were getting very much fumed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My limbs burn fiercely (dahyante bhṛśam aṅgāni), O wicked-souled Rāghava, because you were not seen by me at that time in the great forest!”
+My limbs burn fiercely (_dahyante bhṛśam aṅgāni_), O wicked-souled Rāghava, because you were not seen by me at that time in the great forest!”
 </details>
 </details>
 
@@ -667,7 +667,7 @@ as a lion in hunger seeks other animal to eat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune (diṣṭyā), O Rāma, have you come within my sight here! You are craved by me like another beast (itaro mṛgaḥ) by a hunger-stricken lion.
+“By good fortune (_diṣṭyā_), O Rāma, have you come within my sight here! You are craved by me like another beast (_itaro mṛgaḥ_) by a hunger-stricken lion.
 </details>
 </details>
 
@@ -716,7 +716,7 @@ with those warriors, who were killed by you earlier."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gone today to the realm of the King of the Dead (pretarāḍviṣayam) through the speed of my arrows, you shall dwell together with those heroes who were slain by you!
+Gone today to the realm of the King of the Dead (_pretarāḍviṣayam_) through the speed of my arrows, you shall dwell together with those heroes who were slain by you!
 </details>
 </details>
 
@@ -766,7 +766,7 @@ worlds will look at you and me, in this battle-front."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What need is there of speaking much here? Hear my word, O Rāma: let all the worlds behold you and me upon the battlefield (raṇājire)!
+What need is there of speaking much here? Hear my word, O Rāma: let all the worlds behold you and me upon the battlefield (_raṇājire_)!
 </details>
 </details>
 
@@ -815,7 +815,7 @@ with a mace or by our arms or by any other means as learnt by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether with missiles (astrair vā), or with the mace, or with bare arms upon the battlefield—by whatever means you are practiced (abhyastam), O Rāma, by that let the combat proceed!”
+Whether with missiles (_astrair vā_), or with the mace, or with bare arms upon the battlefield—by whatever means you are practiced (_abhyastam_), O Rāma, by that let the combat proceed!”
 </details>
 </details>
 
@@ -862,7 +862,7 @@ following words to him, who was still talking further and further (without inter
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Makarākṣa, Rāma, the son of Daśaratha, smilingly (prahasan) spoke a word to him who was boasting more and more (uttarottaravādinam):
+Hearing the speech of Makarākṣa, Rāma, the son of Daśaratha, smilingly (_prahasan_) spoke a word to him who was boasting more and more (_uttarottaravādinam_):
 </details>
 </details>
 
@@ -913,7 +913,7 @@ strength of a mere speech."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you boast in vain (katthase kiṃ vṛthā), O rākṣasa, uttering many things unsuited to you? One cannot conquer in battle by the force of words (vāgbalāt) without fighting!”
+“Why do you boast in vain (_katthase kiṃ vṛthā_), O rākṣasa, uttering many things unsuited to you? One cannot conquer in battle by the force of words (_vāgbalāt_) without fighting!”
 </details>
 </details>
 
@@ -996,7 +996,7 @@ goad-like claws will be satiated with your flesh."
 
 **19:** “Fourteen thousand rākṣasas, and he who was your father, along with Triśiras and Dūṣaṇa too, were slain by me in the Daṇḍaka forest.
 
-**20:** And today, O sinful wretch, vultures, jackals, and crows (gṛdhragomāyuvāyasāḥ), whose sharp beaks and talons are like goads (tīkṣṇatuṇḍanakhāṅkuśāḥ), shall be well fed (svāśitāḥ) with [your] flesh!”
+**20:** And today, O sinful wretch, vultures, jackals, and crows (_gṛdhragomāyuvāyasāḥ_), whose sharp beaks and talons are like goads (_tīkṣṇatuṇḍanakhāṅkuśāḥ_), shall be well fed (_svāśitāḥ_) with [your] flesh!”
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ Rama in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāghava, the mighty Makarākṣa loosed floods of arrows (bāṇaughān amucat) at that Rāghava upon the battlefield.
+Thus addressed by Rāghava, the mighty Makarākṣa loosed floods of arrows (_bāṇaughān amucat_) at that Rāghava upon the battlefield.
 </details>
 </details>
 
@@ -1098,7 +1098,7 @@ were provided with golden shafts, fell to the ground, when torn in thousands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a shower of arrows Rāma severed those arrows in many ways (ciccheda naikadhā); severed in thousands, those gold-feathered shafts (rukmapuṅkhāḥ) fell upon the earth.
+With a shower of arrows Rāma severed those arrows in many ways (_ciccheda naikadhā_); severed in thousands, those gold-feathered shafts (_rukmapuṅkhāḥ_) fell upon the earth.
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ the son of Khara the demon and Rama the son of Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then took place there that battle of the son of the rākṣasa Khara and the son of Daśaratha, coming together against one another with might (ojasā).
+Then took place there that battle of the son of the rākṣasa Khara and the son of Daśaratha, coming together against one another with might (_ojasā_).
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ battle-front, like the rumbling of clouds in space.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the roar of two thunderclouds in the sky (jīmūtayor ivākāśe) was the sound of their bowstrings and leather-guarded palms (jyātalayoḥ), and the crash loosed from their bows was heard mutually on the battlefield.
+Like the roar of two thunderclouds in the sky (_jīmūtayor ivākāśe_) was the sound of their bowstrings and leather-guarded palms (_jyātalayoḥ_), and the crash loosed from their bows was heard mutually on the battlefield.
 </details>
 </details>
 
@@ -1254,7 +1254,7 @@ sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gods, Dānavas, and Gandharvas, and Kinnaras and great serpents (mahoragāḥ), all stationed in the sky (antarikṣagatāḥ), were eager to behold (draṣṭukāmāḥ) that marvel.
+Gods, Dānavas, and Gandharvas, and Kinnaras and great serpents (_mahoragāḥ_), all stationed in the sky (_antarikṣagatāḥ_), were eager to behold (_draṣṭukāmāḥ_) that marvel.
 </details>
 </details>
 
@@ -1302,7 +1302,7 @@ battle-front and continued the combat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With piercing inflicted upon each other's limbs (anyonyagātreṣu), their strength grew twofold (dviguṇam); on the battlefield the two performed strike and counterstrike (kṛtapratikṛtam) against one another.
+With piercing inflicted upon each other&#x27;s limbs (_anyonyagātreṣu_), their strength grew twofold (_dviguṇam_); on the battlefield the two performed strike and counterstrike (_kṛtapratikṛtam_) against one another.
 </details>
 </details>
 
@@ -1349,7 +1349,7 @@ snapped off, in many ways, the arrows released by the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The floods of arrows loosed by Rāma the rākṣasa severed in battle, and those loosed by the rākṣasa Rāma in turn severed in many ways (naikadhā prācchinat) with his shafts.
+The floods of arrows loosed by Rāma the rākṣasa severed in battle, and those loosed by the rākṣasa Rāma in turn severed in many ways (_naikadhā prācchinat_) with his shafts.
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ arrows. Even the earth was covered on all sides and did not become visible.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the cardinal directions and intermediate quarters (diśaś ca pradiśas tathā) were overspread with floods of arrows, and the earth, completely covered (saṃchannā), did not shine on any side.
+All the cardinal directions and intermediate quarters (_diśaś ca pradiśas tathā_) were overspread with floods of arrows, and the earth, completely covered (_saṃchannā_), did not shine on any side.
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ Thereupon, by his eight iron arrows, struck the charioteer.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty-armed Rāghava, enraged, severed [his] bow in battle, and thereupon pierced the charioteer (sūtam) with eight iron arrows (nārācaiḥ).
+Then the mighty-armed Rāghava, enraged, severed [his] bow in battle, and thereupon pierced the charioteer (_sūtam_) with eight iron arrows (_nārācaiḥ_).
 </details>
 </details>
 
@@ -1502,7 +1502,7 @@ down dead. That Makaraksha the demon, bereft of his chariot, stood on the ground
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Splitting the chariot with arrows, Rāma slew the steeds and felled them; deprived of his chariot (virathaḥ), that night-stalker Makarākṣa stood upon the earth (vasudhāsthaḥ).
+Splitting the chariot with arrows, Rāma slew the steeds and felled them; deprived of his chariot (_virathaḥ_), that night-stalker Makarākṣa stood upon the earth (_vasudhāsthaḥ_).
 </details>
 </details>
 
@@ -1558,7 +1558,7 @@ world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing upon the earth (tiṣṭhad vasudhām), that rākṣasa seized with his hand a pike (śūlam), the terror of all beings, gleaming like the fire at the end of a world-age (yugāntāgnisamaprabham)—
+Standing upon the earth (_tiṣṭhad vasudhām_), that rākṣasa seized with his hand a pike (_śūlam_), the terror of all beings, gleaming like the fire at the end of a world-age (_yugāntāgnisamaprabham_)—
 </details>
 </details>
 
@@ -1620,7 +1620,7 @@ the godheads were afflicted with fear and fled to different quarters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A great and terrifying pike, hard to obtain (duravāpam), bestowed by Rudra (rudradattam), blazing intensely in the sky like another weapon of universal destruction (saṃhārāstram ivāparam).
+A great and terrifying pike, hard to obtain (_duravāpam_), bestowed by Rudra (_rudradattam_), blazing intensely in the sky like another weapon of universal destruction (_saṃhārāstram ivāparam_).
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ great-souled rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing which, all the deities fled in terror (bhayārtā vidrutāḥ) toward the quarters; and whirling (vibhrāmya) that great blazing pike, the night-stalker—
+Seeing which, all the deities fled in terror (_bhayārtā vidrutāḥ_) toward the quarters; and whirling (_vibhrāmya_) that great blazing pike, the night-stalker—
 </details>
 </details>
 
@@ -1730,7 +1730,7 @@ arm and rushing towards him in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In wrath hurled it (prāhiṇot) at that Rāghava in the great battle; and as it hurtled onward blazing, loosed from the hand of Khara's son—
+In wrath hurled it (_prāhiṇot_) at that Rāghava in the great battle; and as it hurtled onward blazing, loosed from the hand of Khara&#x27;s son—
 </details>
 </details>
 
@@ -1779,7 +1779,7 @@ fell scattered on the earth, like a mighty meteor.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava severed that pike in the sky with four arrows (bāṇaiś caturbhiḥ); split in many ways and adorned with celestial gold (divyahāṭakamaṇḍitaḥ), that pike, tormented by Rāma's arrows, shattered upon the earth like a great meteor (maholkeva).
+Rāghava severed that pike in the sky with four arrows (_bāṇaiś caturbhiḥ_); split in many ways and adorned with celestial gold (_divyahāṭakamaṇḍitaḥ_), that pike, tormented by Rāma&#x27;s arrows, shattered upon the earth like a great meteor (_maholkeva_).
 </details>
 </details>
 
@@ -1825,7 +1825,7 @@ in the air, cried, saying 'Excellent, Excellent!'.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that pike struck down by Rāma of unwearying deeds (akliṣṭakarmaṇā), beings stationed in the sky cried out, “Bravo! Bravo!” (sādhu sādhv iti).
+Beholding that pike struck down by Rāma of unwearying deeds (_akliṣṭakarmaṇā_), beings stationed in the sky cried out, “Bravo! Bravo!” (_sādhu sādhv iti_).
 </details>
 </details>
 
@@ -1888,7 +1888,7 @@ Rama, saying "Wait, Wait!".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that pike struck down, the night-stalker Makarākṣa raised his fist (muṣṭim udyamya) and cried out to Kākutstha, “Stand! Stand!” (tiṣṭha tiṣṭheti).
+Seeing that pike struck down, the night-stalker Makarākṣa raised his fist (_muṣṭim udyamya_) and cried out to Kākutstha, “Stand! Stand!” (_tiṣṭha tiṣṭheti_).
 </details>
 </details>
 
@@ -1934,7 +1934,7 @@ while smiling, fitted to his bow, a mystic missile presided over by fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him rushing onward (patantam), Rāma, the delight of the Raghus, laughed aloud (prahasya) and thereupon fitted the fiery missile (pāvakāstram) to his bow.
+Seeing him rushing onward (_patantam_), Rāma, the delight of the Raghus, laughed aloud (_prahasya_) and thereupon fitted the fiery missile (_pāvakāstram_) to his bow.
 </details>
 </details>
 
@@ -1986,7 +1986,7 @@ then and there, in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck in battle then by Kākutstha with that missile, the rākṣasa, his heart cloven asunder (saṃchinnahṛdayam), fell there and died (papāta ca mamāra ca).
+Struck in battle then by Kākutstha with that missile, the rākṣasa, his heart cloven asunder (_saṃchinnahṛdayam_), fell there and died (_papāta ca mamāra ca_).
 </details>
 </details>
 
@@ -2035,7 +2035,7 @@ arrows, ran away straight to Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the felling of Makarākṣa (makarākṣasya pātanam), all those rākṣasas, tormented by fear of Rāma's arrows, fled straight toward Laṅkā.
+Beholding the felling of Makarākṣa (_makarākṣasya pātanam_), all those rākṣasas, tormented by fear of Rāma&#x27;s arrows, fled straight toward Laṅkā.
 </details>
 </details>
 
@@ -2103,7 +2103,7 @@ lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the delighted deities (devatāḥ prahṛṣṭāḥ) beheld that night-stalker, the son of Khara, struck down by the swift arrows of King Daśaratha's son, scattered like a mountain struck by the thunderbolt (girim iva vajrahatam).
+Then the delighted deities (_devatāḥ prahṛṣṭāḥ_) beheld that night-stalker, the son of Khara, struck down by the swift arrows of King Daśaratha&#x27;s son, scattered like a mountain struck by the thunderbolt (_girim iva vajrahatam_).
 </details>
 </details>
 

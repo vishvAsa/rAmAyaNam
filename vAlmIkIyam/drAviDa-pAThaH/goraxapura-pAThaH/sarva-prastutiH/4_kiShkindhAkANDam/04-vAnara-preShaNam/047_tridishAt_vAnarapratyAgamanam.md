@@ -81,7 +81,7 @@ everywhere with post-hast for a glimpse of Vaidehi. [4-47-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded (vyādiṣṭāḥ) by the monkey king to go in every direction in order to find Vaidehī (darśanārthaṃ tu vaidehyāḥ), those elephant-like monkeys sped straightway (añjasā) as instructed (yathoktam).
+Commanded (_vyādiṣṭāḥ_) by the monkey king to go in every direction in order to find Vaidehī (_darśanārthaṃ tu vaidehyāḥ_), those elephant-like monkeys sped straightway (_añjasā_) as instructed (_yathoktam_).
 </details>
 </details>
 
@@ -138,7 +138,7 @@ mountains. [4-47-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On all sides they searched lakes, river-thickets (sarit-kakṣān), open clearings (ākāśam), cities, regions rendered impassable by rivers (nadī-durgān), and lands.
+On all sides they searched lakes, river-thickets (_sarit-kakṣān_), open clearings (_ākāśam_), cities, regions rendered impassable by rivers (_nadī-durgān_), and lands.
 </details>
 </details>
 
@@ -194,7 +194,7 @@ woodlands, and thick forests of those provinces. [4-47-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the monkey troop-leaders, thoroughly instructed (samākhyātāḥ) by Sugrīva, searched the regions there along with their mountains, woods, and deep forests (sa-śaila-vana-kānanān).
+All the monkey troop-leaders, thoroughly instructed (_samākhyātāḥ_) by Sugrīva, searched the regions there along with their mountains, woods, and deep forests (_sa-śaila-vana-kānanān_).
 </details>
 </details>
 
@@ -250,7 +250,7 @@ earth by day, and at nighttimes they used to come together onto earth at schedul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having searched throughout the day (vicitya divasam), all those monkeys, firmly intent upon finding Sītā (sītādhigamane dhṛtāḥ), came together upon the ground at nightfall (niśā-kāleṣu).
+Having searched throughout the day (_vicitya divasam_), all those monkeys, firmly intent upon finding Sītā (_sītādhigamane dhṛtāḥ_), came together upon the ground at nightfall (_niśā-kāleṣu_).
 </details>
 </details>
 
@@ -314,7 +314,7 @@ which is intolerable and then they are driven out.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching trees in those regions that bore blossoms of every season and were laden with fruit (saphala-drumān), those monkeys made their nightly beds (rajanīṃ śayyāṃ cakruḥ) there on every single day (sarveṣv ahaḥsu).
+Reaching trees in those regions that bore blossoms of every season and were laden with fruit (_saphala-drumān_), those monkeys made their nightly beds (_rajanīṃ śayyāṃ cakruḥ_) there on every single day (_sarveṣv ahaḥsu_).
 </details>
 </details>
 
@@ -376,7 +376,7 @@ with Rama awaiting the return of monkeys. [4-47-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Counting that day [of departure] as the first (tad ahaḥ prathamaṃ kṛtvā), when the month was complete (māse), those elephant-like monkeys returned to Mount Prasravaṇa in despair (nirāśāḥ) and met with the monkey king.
+Counting that day [of departure] as the first (_tad ahaḥ prathamaṃ kṛtvā_), when the month was complete (_māse_), those elephant-like monkeys returned to Mount Prasravaṇa in despair (_nirāśāḥ_) and met with the monkey king.
 </details>
 </details>
 
@@ -428,7 +428,7 @@ Sugreeva had advised, but without finding Seetha there. [4-47-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having searched the eastern quarter as instructed (yathoktām) together with his ministers, Vinata of mighty strength returned without having seen Sītā (adṛṣṭvā sītām).
+Having searched the eastern quarter as instructed (_yathoktām_) together with his ministers, Vinata of mighty strength returned without having seen Sītā (_adṛṣṭvā sītām_).
 </details>
 </details>
 
@@ -484,7 +484,7 @@ direction along with his army, but he too came back as Seetha is undiscovered th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having thoroughly searched the entire northern quarter (diśam apy uttarāṃ sarvām), that great monkey Śatabali likewise returned at that time with his army, seized with fear (bhītaḥ).
+And having thoroughly searched the entire northern quarter (_diśam apy uttarāṃ sarvām_), that great monkey Śatabali likewise returned at that time with his army, seized with fear (_bhītaḥ_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ approached Sugreeva. [4-47-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Suṣeṇa too, having searched the western quarter together with his monkeys, returned when the month was fulfilled (māse pūrṇe) and approached Sugrīva (sugrīvam upacakrame).
+Suṣeṇa too, having searched the western quarter together with his monkeys, returned when the month was fulfilled (_māse pūrṇe_) and approached Sugrīva (_sugrīvam upacakrame_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ with Rama on the peak of Mt. Prasavana and spoke this to him. [4-47-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching and saluting (abhivādya ca) Sugrīva, who was seated together with Rāma upon the ridge of Mount Prasravaṇa (prasravaṇa-pṛṣṭha-stham), they spoke these words:
+Approaching and saluting (_abhivādya ca_) Sugrīva, who was seated together with Rāma upon the ridge of Mount Prasravaṇa (_prasravaṇa-pṛṣṭha-stham_), they spoke these words:
 </details>
 </details>
 
@@ -682,9 +682,9 @@ and immense shrubby hutches that are thickly entwined with climber plants have a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “All the mountains, impenetrable forests (vanāni gahanāni), rivers flowing to the ocean (nimnagāḥ sāgarāntāḥ), and all the inhabited realms (janapadāḥ) have been searched.
+**11:** “All the mountains, impenetrable forests (_vanāni gahanāni_), rivers flowing to the ocean (_nimnagāḥ sāgarāntāḥ_), and all the inhabited realms (_janapadāḥ_) have been searched.
 
-**12:** “All the caverns that were proclaimed by you (yāś ca te parikīrtitāḥ) have been searched, and searched too are the vast thickets overspread with tangled creepers (latā-vitata-saṃtatāḥ).
+**12:** “All the caverns that were proclaimed by you (_yāś ca te parikīrtitāḥ_) have been searched, and searched too are the vast thickets overspread with tangled creepers (_latā-vitata-saṃtatāḥ_).
 </details>
 </details>
 
@@ -746,7 +746,7 @@ shapes, and the impassable provinces are searched high and low, time and again. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In impenetrable, scarcely accessible, and rugged tracts (durgeṣu viṣameṣu ca), creatures of gigantic proportions (sattvāny atipramāṇāni) have been inspected and slain; and whatever dense regions exist have been searched again and again (punaḥ punaḥ).
+“In impenetrable, scarcely accessible, and rugged tracts (_durgeṣu viṣameṣu ca_), creatures of gigantic proportions (_sattvāny atipramāṇāni_) have been inspected and slain; and whatever dense regions exist have been searched again and again (_punaḥ punaḥ_).
 </details>
 </details>
 
@@ -822,7 +822,7 @@ which Seetha is taken away." Thus, monkey chiefs reported to their king Sugreeva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord of monkeys, Hanūmān of noble strength and lineage (udāra-sattvābhijanaḥ) will surely discover Maithilī; for Hanūmān, son of the Wind-god, has taken that very quarter (diśaṃ tu yām eva) to which Sītā went!”
+“O lord of monkeys, Hanūmān of noble strength and lineage (_udāra-sattvābhijanaḥ_) will surely discover Maithilī; for Hanūmān, son of the Wind-god, has taken that very quarter (_diśaṃ tu yām eva_) to which Sītā went!”
 </details>
 </details>
 

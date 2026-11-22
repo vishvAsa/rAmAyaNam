@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of the great-souled Śatrughna (tac chrutvā bhāṣitaṃ tasya śatrughnasya mahātmanaḥ), he summoned up fierce fury (krodham āhārayat tīvram) and cried out, “Stand! Stand!” (tiṣṭha tiṣṭheti cābravīt).
+Hearing that speech of the great-souled Śatrughna (_tac chrutvā bhāṣitaṃ tasya śatrughnasya mahātmanaḥ_), he summoned up fierce fury (_krodham āhārayat tīvram_) and cried out, “Stand! Stand!” (_tiṣṭha tiṣṭheti cābravīt_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clapping palm fiercely against palm (pāṇau pāṇiṃ viniṣpiṣya) and gnashing his teeth (dantān kaṭakaṭāyya ca), Lavaṇa challenged that tiger among the Raghus again and again (lavaṇo raghu-śārdūlam āhvayām āsa cāsakṛt).
+Clapping palm fiercely against palm (_pāṇau pāṇiṃ viniṣpiṣya_) and gnashing his teeth (_dantān kaṭakaṭāyya ca_), Lavaṇa challenged that tiger among the Raghus again and again (_lavaṇo raghu-śārdūlam āhvayām āsa cāsakṛt_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Lavaṇa of dreadful aspect (lavaṇaṃ ghora-darśanam), speaking such words (taṃ bruvāṇaṃ tathā vākyam), Śatrughna—slayer of the foes of the gods (śatrughno deva-śatrughnaḥ)—spoke this reply (idaṃ vacanam abravīt):
+To Lavaṇa of dreadful aspect (_lavaṇaṃ ghora-darśanam_), speaking such words (_taṃ bruvāṇaṃ tathā vākyam_), Śatrughna—slayer of the foes of the gods (_śatrughno deva-śatrughnaḥ_)—spoke this reply (_idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Śatrughna was not born of the same sort as those others whom you vanquished (na śatrughnas tathā jāto yathā ’nye nirjitās tvayā); therefore, struck down today by my arrows (tad adya bāṇābhihataḥ), depart to the abode of Yama (vraja tvaṃ yama-sādanam)!
+“Śatrughna was not born of the same sort as those others whom you vanquished (_na śatrughnas tathā jāto yathā ’nye nirjitās tvayā_); therefore, struck down today by my arrows (_tad adya bāṇābhihataḥ_), depart to the abode of Yama (_vraja tvaṃ yama-sādanam_)!
 </details>
 </details>
 
@@ -182,7 +182,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today too, O sinful soul, let the sages and learned brahmins behold you slain by me in battle (ṛṣayo ’py adya pāpātman mayā tvāṃ nihataṃ raṇe paśyantu viprā vidvāṃsaḥ), just as the gods beheld Rāvaṇa (tridaśā iva rāvaṇam)!
+“Today too, O sinful soul, let the sages and learned brahmins behold you slain by me in battle (_ṛṣayo ’py adya pāpātman mayā tvāṃ nihataṃ raṇe paśyantu viprā vidvāṃsaḥ_), just as the gods beheld Rāvaṇa (_tridaśā iva rāvaṇam_)!
 </details>
 </details>
 
@@ -216,7 +216,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once you fall today, consumed by my arrows, O night-ranger (tvayi mad-bāṇa-nirdagdhe patite ’dya niśācara), there shall indeed be peace and security in both city and countryside (pure janapade cāpi kṣemam eva bhaviṣyati)!”
+“Once you fall today, consumed by my arrows, O night-ranger (_tvayi mad-bāṇa-nirdagdhe patite ’dya niśācara_), there shall indeed be peace and security in both city and countryside (_pure janapade cāpi kṣemam eva bhaviṣyati_)!”
 </details>
 </details>
 
@@ -258,7 +258,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today an arrow sped from my arm, its tip resembling a thunderbolt (adya mad-bāhu-niṣkrāntaḥ śaro vajra-nibhānanaḥ), shall penetrate your heart as a ray of the sun enters a lotus (pravekṣyate te hṛdayaṃ padmam aṃśur ivārkajaḥ)!”
+“Today an arrow sped from my arm, its tip resembling a thunderbolt (_adya mad-bāhu-niṣkrāntaḥ śaro vajra-nibhānanaḥ_), shall penetrate your heart as a ray of the sun enters a lotus (_pravekṣyate te hṛdayaṃ padmam aṃśur ivārkajaḥ_)!”
 </details>
 </details>
 
@@ -292,7 +292,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, Lavaṇa, beside himself with rage (evam ukto ... lavaṇaḥ krodha-mūrcchitaḥ), hurled a giant tree at Śatrughna’s chest (mahā-vṛkṣaṃ ... śatrughnorasi cikṣepa), and Śatrughna sliced it into a hundred pieces (sa ca taṃ śatadhācchinat).
+Addressed thus, Lavaṇa, beside himself with rage (_evam ukto ... lavaṇaḥ krodha-mūrcchitaḥ_), hurled a giant tree at Śatrughna’s chest (_mahā-vṛkṣaṃ ... śatrughnorasi cikṣepa_), and Śatrughna sliced it into a hundred pieces (_sa ca taṃ śatadhācchinat_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that effort come to naught (tad dṛṣṭvā viphalaṃ karma), the mighty rākṣasa seized very many trees once again and hurled them at Śatrughna (rākṣasaḥ punar eva tu pādapān subahūn gṛhya śatrughnāyāsṛjad balī).
+Seeing that effort come to naught (_tad dṛṣṭvā viphalaṃ karma_), the mighty rākṣasa seized very many trees once again and hurled them at Śatrughna (_rākṣasaḥ punar eva tu pādapān subahūn gṛhya śatrughnāyāsṛjad balī_).
 </details>
 </details>
 
@@ -360,7 +360,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the brilliant Śatrughna, with straight-jointed arrows (śatrughnaś cāpi tejasvī ... nata-parvabhiḥ), cut each one of those many oncoming trees to pieces with three or four shafts (vṛkṣān āpatato bahūn tribhiś caturbhir ekaikaṃ ciccheda).
+And the brilliant Śatrughna, with straight-jointed arrows (_śatrughnaś cāpi tejasvī ... nata-parvabhiḥ_), cut each one of those many oncoming trees to pieces with three or four shafts (_vṛkṣān āpatato bahūn tribhiś caturbhir ekaikaṃ ciccheda_).
 </details>
 </details>
 
@@ -394,7 +394,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the valorous Śatrughna loosed a rain of arrows upon the rākṣasa’s chest (tato bāṇamayaṃ varṣaṃ vyasṛjad rākṣasorasi śatrughno vīrya-sampannaḥ); yet that rākṣasa did not even flinch (vivyathe na sa rākṣasaḥ).
+Then the valorous Śatrughna loosed a rain of arrows upon the rākṣasa’s chest (_tato bāṇamayaṃ varṣaṃ vyasṛjad rākṣasorasi śatrughno vīrya-sampannaḥ_); yet that rākṣasa did not even flinch (_vivyathe na sa rākṣasaḥ_).
 </details>
 </details>
 
@@ -428,7 +428,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, bursting into laughter, the mighty Lavaṇa lifted up a tree (tataḥ prahasya lavaṇo vṛkṣam udyamya vīryavān) and struck the hero squarely upon the head (śirasy abhyahanac chūram); his limbs going limp, Śatrughna fell into a swoon (srastāṅgaḥ sa mumoha vai).
+Then, bursting into laughter, the mighty Lavaṇa lifted up a tree (_tataḥ prahasya lavaṇo vṛkṣam udyamya vīryavān_) and struck the hero squarely upon the head (_śirasy abhyahanac chūram_); his limbs going limp, Śatrughna fell into a swoon (_srastāṅgaḥ sa mumoha vai_).
 </details>
 </details>
 
@@ -470,7 +470,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that hero fell down (tasmin nipatite vīre), a mighty cry of ‘Alas! Alas!’ arose (hāhākāro mahān abhūt) from the sages, the hosts of gods, and the gandharvas and apsarases (ṛṣīṇāṃ deva-saṅghānāṃ gandharvāpsarasāṃ tathā).
+When that hero fell down (_tasmin nipatite vīre_), a mighty cry of ‘Alas! Alas!’ arose (_hāhākāro mahān abhūt_) from the sages, the hosts of gods, and the gandharvas and apsarases (_ṛṣīṇāṃ deva-saṅghānāṃ gandharvāpsarasāṃ tathā_).
 </details>
 </details>
 
@@ -515,9 +515,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Disdaining that Śatrughna as already slain and laid flat upon the ground (tam avajñāya tu hataṃ śatrughnaṃ bhuvi pātitam), the rākṣasa—even though he had gained an opening—did not enter his own dwelling (rakṣo labdhāntaram api na viveśa svam ālayam).
+**14:** Disdaining that Śatrughna as already slain and laid flat upon the ground (_tam avajñāya tu hataṃ śatrughnaṃ bhuvi pātitam_), the rākṣasa—even though he had gained an opening—did not enter his own dwelling (_rakṣo labdhāntaram api na viveśa svam ālayam_).
 
-**15:** Nor did he take up the trident, beholding him felled upon the earth (nāpi śūlaṃ prajagrāha taṃ dṛṣṭvā bhuvi pātitam); instead, concluding ‘He is dead!’ (tato hata iti jñātvā), he gathered up those carcasses of prey (tān bhakṣān samudāvahat).
+**15:** Nor did he take up the trident, beholding him felled upon the earth (_nāpi śūlaṃ prajagrāha taṃ dṛṣṭvā bhuvi pātitam_); instead, concluding ‘He is dead!’ (_tato hata iti jñātvā_), he gathered up those carcasses of prey (_tān bhakṣān samudāvahat_).
 </details>
 </details>
 
@@ -551,7 +551,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In a single moment, however, regaining consciousness (muhūrtāl labdha-sañjñas tu), Śatrughna stood up once more at the city gate, weapons in hand (punas tasthau dhṛtāyudhaḥ śatrughno vai pura-dvāri), warmly acclaimed by the sages (ṛṣibhiḥ samprapūjitaḥ).
+In a single moment, however, regaining consciousness (_muhūrtāl labdha-sañjñas tu_), Śatrughna stood up once more at the city gate, weapons in hand (_punas tasthau dhṛtāyudhaḥ śatrughno vai pura-dvāri_), warmly acclaimed by the sages (_ṛṣibhiḥ samprapūjitaḥ_).
 </details>
 </details>
 
@@ -585,7 +585,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he took up that supreme, divine, unfailing arrow (tato divyam amoghaṃ taṃ jagrāha śaram uttamam), blazing with dreadful radiance (jvalantaṃ tejasā ghoram) and filling all ten quarters of space (pūrayantaṃ diśo daśa),
+Then he took up that supreme, divine, unfailing arrow (_tato divyam amoghaṃ taṃ jagrāha śaram uttamam_), blazing with dreadful radiance (_jvalantaṃ tejasā ghoram_) and filling all ten quarters of space (_pūrayantaṃ diśo daśa_),
 </details>
 </details>
 
@@ -619,7 +619,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thunderbolt-tipped and swift as the thunderbolt (vajrānanaṃ vajra-vegam), comparable to Mounts Meru and Mandara (meru-mandara-sannibham), bent low at all its joints (nataṃ parvasu sarveṣu) and unconquered in all battles (saṃyugeṣv aparājitam),
+Thunderbolt-tipped and swift as the thunderbolt (_vajrānanaṃ vajra-vegam_), comparable to Mounts Meru and Mandara (_meru-mandara-sannibham_), bent low at all its joints (_nataṃ parvasu sarveṣu_) and unconquered in all battles (_saṃyugeṣv aparājitam_),
 </details>
 </details>
 
@@ -662,7 +662,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Its shaft anointed with blood as with sandalwood paste (asṛk-candana-digdhāṅgam), beautifully feathered and swift-winged (cāru-patraṃ patatriṇam), splitter of dānava lords, mighty mountains, and asuras (dānavendrācalendrāṇām asurāṇāṃ ca dāraṇam)—
+Its shaft anointed with blood as with sandalwood paste (_asṛk-candana-digdhāṅgam_), beautifully feathered and swift-winged (_cāru-patraṃ patatriṇam_), splitter of dānava lords, mighty mountains, and asuras (_dānavendrācalendrāṇām asurāṇāṃ ca dāraṇam_)—
 </details>
 </details>
 
@@ -698,7 +698,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that arrow blazing like the fire of Time risen at the end of an age (taṃ dīptam iva kālāgniṃ yugānte samupasthite dṛṣṭvā), all living beings fell into extreme terror (sarvāṇi bhūtāni paritrāsam upāgaman).
+Beholding that arrow blazing like the fire of Time risen at the end of an age (_taṃ dīptam iva kālāgniṃ yugānte samupasthite dṛṣṭvā_), all living beings fell into extreme terror (_sarvāṇi bhūtāni paritrāsam upāgaman_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ Beholding that arrow blazing like the fire of Time risen at the end of an age (t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with gods, asuras, gandharvas, sages, and hosts of apsarases (sa-devāsura-gandharvaṃ munibhiḥ sāpsaro-gaṇam), the entire universe, sorely distressed, approached the Grandfather [Brahmā] (jagad dhi sarvam asvasthaṃ pitāmaham upasthitam).
+Together with gods, asuras, gandharvas, sages, and hosts of apsarases (_sa-devāsura-gandharvaṃ munibhiḥ sāpsaro-gaṇam_), the entire universe, sorely distressed, approached the Grandfather [Brahmā] (_jagad dhi sarvam asvasthaṃ pitāmaham upasthitam_).
 </details>
 </details>
 
@@ -750,7 +750,7 @@ Together with gods, asuras, gandharvas, sages, and hosts of apsarases (sa-devās
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They addressed the Lord of the lords of the gods, the boon-giving Great-Grandfather (uvāca deva-deveśaṃ varadaṃ prapitāmaham): “Great is the bewildered terror of the gods concerning the dissolution of the worlds (devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati)!
+They addressed the Lord of the lords of the gods, the boon-giving Great-Grandfather (_uvāca deva-deveśaṃ varadaṃ prapitāmaham_): “Great is the bewildered terror of the gods concerning the dissolution of the worlds (_devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati_)!
 </details>
 </details>
 
@@ -776,7 +776,7 @@ They addressed the Lord of the lords of the gods, the boon-giving Great-Grandfat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Never before has anything like this been seen or heard, O Great-Grandfather (nedṛśaṃ dṛṣṭa-pūrvaṃ ca na śrutaṃ prapitāmaha); this bewildered terror of the gods concerns the destruction of the worlds (devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati)!”
+“Never before has anything like this been seen or heard, O Great-Grandfather (_nedṛśaṃ dṛṣṭa-pūrvaṃ ca na śrutaṃ prapitāmaha_); this bewildered terror of the gods concerns the destruction of the worlds (_devānāṃ bhaya-sammoho lokānāṃ saṅkṣayaṃ prati_)!”
 </details>
 </details>
 
@@ -802,7 +802,7 @@ They addressed the Lord of the lords of the gods, the boon-giving Great-Grandfat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), Brahmā, Grandfather of the worlds (brahmā loka-pitāmahaḥ), dispeller of the worlds’ fear (lokānām abhayaṅkaraḥ), explained the cause of their terror (bhaya-kāraṇam ācaṣṭa), and spoke in sweet accents: “Hearken, O all you gods (uvāca madhurāṃ vāṇīṃ śṛṇudhvaṃ sarva-devatāḥ)!”
+Hearing those words of theirs (_teṣāṃ tad vacanaṃ śrutvā_), Brahmā, Grandfather of the worlds (_brahmā loka-pitāmahaḥ_), dispeller of the worlds’ fear (_lokānām abhayaṅkaraḥ_), explained the cause of their terror (_bhaya-kāraṇam ācaṣṭa_), and spoke in sweet accents: “Hearken, O all you gods (_uvāca madhurāṃ vāṇīṃ śṛṇudhvaṃ sarva-devatāḥ_)!”
 </details>
 </details>
 
@@ -838,7 +838,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the slaying of Lavaṇa in battle, an arrow has been taken up by Śatrughna (vadhāya lavaṇasyājau śaraḥ śatrughna-dhāritaḥ); it is by its radiance that all of us are bewildered, O foremost of gods (tejasā tasya sammūḍhāḥ sarve smaḥ sura-sattamāḥ)!
+“For the slaying of Lavaṇa in battle, an arrow has been taken up by Śatrughna (_vadhāya lavaṇasyājau śaraḥ śatrughna-dhāritaḥ_); it is by its radiance that all of us are bewildered, O foremost of gods (_tejasā tasya sammūḍhāḥ sarve smaḥ sura-sattamāḥ_)!
 </details>
 </details>
 
@@ -864,7 +864,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the eternal, fiery-natured arrow of the Primal Lord, the Maker of the worlds (eṣa pūrvasya devasya loka-kartuḥ sanātanaḥ śaras tejomayo vatsāḥ), O dear ones, from which this terror has indeed arisen (yena vai bhayam āgatam).
+“This is the eternal, fiery-natured arrow of the Primal Lord, the Maker of the worlds (_eṣa pūrvasya devasya loka-kartuḥ sanātanaḥ śaras tejomayo vatsāḥ_), O dear ones, from which this terror has indeed arisen (_yena vai bhayam āgatam_).
 </details>
 </details>
 
@@ -890,7 +890,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very great arrow was created by that great-souled one (eṣa vai ... mahāśaraḥ sṛṣṭo mahātmanā tena) on account of Kaiṭabha and Madhu (kaiṭabhasyārthe madhunaś ca), for the destruction of those two daityas (vadhārthe daityayos tayoḥ).
+“This very great arrow was created by that great-souled one (_eṣa vai ... mahāśaraḥ sṛṣṭo mahātmanā tena_) on account of Kaiṭabha and Madhu (_kaiṭabhasyārthe madhunaś ca_), for the destruction of those two daityas (_vadhārthe daityayos tayoḥ_).
 </details>
 </details>
 
@@ -916,7 +916,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Viṣṇu alone truly knows this fiery-natured arrow (eka eva prajānāti viṣṇus tejomayaṃ śaram); this very form is the primal body of that great-souled Viṣṇu (eṣā eva tanuḥ pūrvā viṣṇos tasya mahātmanaḥ)!
+“Viṣṇu alone truly knows this fiery-natured arrow (_eka eva prajānāti viṣṇus tejomayaṃ śaram_); this very form is the primal body of that great-souled Viṣṇu (_eṣā eva tanuḥ pūrvā viṣṇos tasya mahātmanaḥ_)!
 </details>
 </details>
 
@@ -942,7 +942,7 @@ Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go forth from here and behold (ito gacchata paśyadhvam) Lavaṇa, foremost of rākṣasas (lavaṇaṃ rākṣasottamam), being slain by the heroic, great-souled younger brother of Rāma (vadhyamānaṃ mahātmanā rāmānujena vīreṇa)!”
+“Go forth from here and behold (_ito gacchata paśyadhvam_) Lavaṇa, foremost of rākṣasas (_lavaṇaṃ rākṣasottamam_), being slain by the heroic, great-souled younger brother of Rāma (_vadhyamānaṃ mahātmanā rāmānujena vīreṇa_)!”
 </details>
 </details>
 
@@ -976,7 +976,7 @@ As the celestials flock to the battlefield and gaze upon the doomsday-bright arr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the God of gods [Brahmā] (tasya te deva-devasya niśamya vacanaṃ surāḥ), those gods arrived at the spot where Śatrughna and Lavaṇa were both locked in battle (ājagmur yatra yudhyete śatrughna-lavaṇāv ubhau).
+Hearing those words of the God of gods [Brahmā] (_tasya te deva-devasya niśamya vacanaṃ surāḥ_), those gods arrived at the spot where Śatrughna and Lavaṇa were both locked in battle (_ājagmur yatra yudhyete śatrughna-lavaṇāv ubhau_).
 </details>
 </details>
 
@@ -1002,7 +1002,7 @@ Hearing those words of the God of gods [Brahmā] (tasya te deva-devasya niśamya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All beings beheld that arrow of celestial sheen, held in Śatrughna’s hand (taṃ śaraṃ divya-saṅkāśaṃ śatrughna-kara-dhāritam dadṛśuḥ sarva-bhūtāni), rising like the conflagration at the end of a cosmic age (yugāntāgnim ivotthitam).
+All beings beheld that arrow of celestial sheen, held in Śatrughna’s hand (_taṃ śaraṃ divya-saṅkāśaṃ śatrughna-kara-dhāritam dadṛśuḥ sarva-bhūtāni_), rising like the conflagration at the end of a cosmic age (_yugāntāgnim ivotthitam_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ All beings beheld that arrow of celestial sheen, held in Śatrughna’s hand (ta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the sky filled with the gods (ākāśam āvṛtaṃ dṛṣṭvā devair hi), the delight of the Raghus uttered a mighty lion’s roar (raghunandanaḥ siṃha-nādaṃ bhṛśaṃ kṛtvā) and fixed his gaze once more upon his target [Lavaṇa] (dadarśa lakṣaṇaṃ punaḥ).
+Seeing the sky filled with the gods (_ākāśam āvṛtaṃ dṛṣṭvā devair hi_), the delight of the Raghus uttered a mighty lion’s roar (_raghunandanaḥ siṃha-nādaṃ bhṛśaṃ kṛtvā_) and fixed his gaze once more upon his target [Lavaṇa] (_dadarśa lakṣaṇaṃ punaḥ_).
 </details>
 </details>
 
@@ -1054,7 +1054,7 @@ Seeing the sky filled with the gods (ākāśam āvṛtaṃ dṛṣṭvā devair 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Challenged once again by that great-souled Śatrughna (āhūtaś ca punas tena śatrughnena mahātmanā), Lavaṇa, consumed with wrath, stepped forward for combat (lavaṇaḥ krodha-saṃyukto yuddhāya samupasthitaḥ).
+Challenged once again by that great-souled Śatrughna (_āhūtaś ca punas tena śatrughnena mahātmanā_), Lavaṇa, consumed with wrath, stepped forward for combat (_lavaṇaḥ krodha-saṃyukto yuddhāya samupasthitaḥ_).
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ Challenged once again by that great-souled Śatrughna (āhūtaś ca punas tena �
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing that bow all the way back to his ear (ākarṇāt sa vikṛṣyātha tad dhanur), that foremost of archers (dhanvināṃ varaḥ) loosed that mighty arrow into Lavaṇa’s broad chest (taṃ mumoca mahā-bāṇaṃ lavaṇasya mahorasi); swiftly cleaving his chest open, it plunged straight into Rasātala (uras tasya vidāryāśu praviveśa rasātalam)!
+Drawing that bow all the way back to his ear (_ākarṇāt sa vikṛṣyātha tad dhanur_), that foremost of archers (_dhanvināṃ varaḥ_) loosed that mighty arrow into Lavaṇa’s broad chest (_taṃ mumoca mahā-bāṇaṃ lavaṇasya mahorasi_); swiftly cleaving his chest open, it plunged straight into Rasātala (_uras tasya vidāryāśu praviveśa rasātalam_)!
 </details>
 </details>
 
@@ -1116,9 +1116,9 @@ After plunging into Rasātala, the divine arrow returns swiftly to Śatrughna wh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** Having penetrated down to Rasātala (gatvā rasātalam), that divine arrow honored by the gods (divyaḥ śaro vibudha-pūjitaḥ) returned swiftly once more to the delight of the Ikṣvāku lineage (punar evāgamat tūrṇam ikṣvāku-kula-nandanam).
+**35:** Having penetrated down to Rasātala (_gatvā rasātalam_), that divine arrow honored by the gods (_divyaḥ śaro vibudha-pūjitaḥ_) returned swiftly once more to the delight of the Ikṣvāku lineage (_punar evāgamat tūrṇam ikṣvāku-kula-nandanam_).
 
-**36:** Pierced through by Śatrughna’s arrow (śatrughna-śara-nirbhinnaḥ), that night-ranger Lavaṇa (lavaṇaḥ sa niśācaraḥ) crashed suddenly to the earth like a mountain struck by a thunderbolt (papāta sahasā bhūmau vajrāhata ivācalaḥ).
+**36:** Pierced through by Śatrughna’s arrow (_śatrughna-śara-nirbhinnaḥ_), that night-ranger Lavaṇa (_lavaṇaḥ sa niśācaraḥ_) crashed suddenly to the earth like a mountain struck by a thunderbolt (_papāta sahasā bhūmau vajrāhata ivācalaḥ_).
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ After plunging into Rasātala, the divine arrow returns swiftly to Śatrughna wh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when the rākṣasa Lavaṇa was slain by him (tena hate lavaṇa-rākṣase), that mighty trident (tac ca śūlaṃ mahat), as all the gods looked on (paśyatāṃ sarva-devānām), passed back into the possession of Rudra (rudrasya vaśam anvagāt).
+And when the rākṣasa Lavaṇa was slain by him (_tena hate lavaṇa-rākṣase_), that mighty trident (_tac ca śūlaṃ mahat_), as all the gods looked on (_paśyatāṃ sarva-devānām_), passed back into the possession of Rudra (_rudrasya vaśam anvagāt_).
 </details>
 </details>
 
@@ -1170,7 +1170,7 @@ And when the rākṣasa Lavaṇa was slain by him (tena hate lavaṇa-rākṣase
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having utterly felled [him] with a single arrow-shot—even the terror of the three worlds (ekeṣu-pātena bhṛśaṃ nipātya loka-trayasyāpi)—that foremost hero of the Raghus (raghu-pravīraḥ), bearing his peerless bow and arrow, shone forth resplendently like the thousand-rayed sun after dispelling darkness (vinirbabhāv uttama-cāpa-bāṇas tamaḥ praṇudyeva sahasra-raśmiḥ).
+Having utterly felled [him] with a single arrow-shot—even the terror of the three worlds (_ekeṣu-pātena bhṛśaṃ nipātya loka-trayasyāpi_)—that foremost hero of the Raghus (_raghu-pravīraḥ_), bearing his peerless bow and arrow, shone forth resplendently like the thousand-rayed sun after dispelling darkness (_vinirbabhāv uttama-cāpa-bāṇas tamaḥ praṇudyeva sahasra-raśmiḥ_).
 </details>
 </details>
 
@@ -1200,7 +1200,7 @@ Having utterly felled [him] with a single arrow-shot—even the terror of the th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the gods, sages, and serpents, along with all the apsarases, paid him fervent homage (tato hi devā ṛṣi-pannagāś ca prapūjire hy apsarasaś ca sarvāḥ): “By good fortune has Daśaratha’s son won victory, casting off fear—and like a serpent, [Lavaṇa] has been laid to rest (diṣṭyā jayo dāśarather avāptas tyaktvā bhayaṃ sarpa iva praśāntaḥ)!”
+Thereupon the gods, sages, and serpents, along with all the apsarases, paid him fervent homage (_tato hi devā ṛṣi-pannagāś ca prapūjire hy apsarasaś ca sarvāḥ_): “By good fortune has Daśaratha’s son won victory, casting off fear—and like a serpent, [Lavaṇa] has been laid to rest (_diṣṭyā jayo dāśarather avāptas tyaktvā bhayaṃ sarpa iva praśāntaḥ_)!”
 </details>
 </details>
 

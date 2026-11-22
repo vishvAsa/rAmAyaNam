@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma (evam uktas tu rāmeṇa), Śatrughna, endowed with valor (śatrughno vīrya-sampannaḥ), was overcome with profound bashfulness (parāṃ vrīḍām upāgamat) and spoke very softly (mandaṃ mandam uvāca ha):
+Thus addressed by Rāma (_evam uktas tu rāmeṇa_), Śatrughna, endowed with valor (_śatrughno vīrya-sampannaḥ_), was overcome with profound bashfulness (_parāṃ vrīḍām upāgamat_) and spoke very softly (_mandaṃ mandam uvāca ha_):
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“We know this matter to be unrighteousness, O Kākutstha (adharmaṃ vidma kākutstha hy asminn arthe), O lord of men (nareśvara): how can a younger brother be consecrated (kathaṃ ... kanīyān abhiṣicyate) while his elders stand living (tiṣṭhatsu jyeṣṭheṣu)?
+“We know this matter to be unrighteousness, O Kākutstha (_adharmaṃ vidma kākutstha hy asminn arthe_), O lord of men (_nareśvara_): how can a younger brother be consecrated (_kathaṃ ... kanīyān abhiṣicyate_) while his elders stand living (_tiṣṭhatsu jyeṣṭheṣu_)?
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet a command must necessarily be carried out (avaśyaṃ karaṇīyaṃ ca śāsanam), O bull among men (puruṣarṣabha); and your mandate especially, O illustrious one (tava caiva mahābhāga śāsanam), is impossible to transgress (duratikramam).
+“Yet a command must necessarily be carried out (_avaśyaṃ karaṇīyaṃ ca śāsanam_), O bull among men (_puruṣarṣabha_); and your mandate especially, O illustrious one (_tava caiva mahābhāga śāsanam_), is impossible to transgress (_duratikramam_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From you have I heard it, O hero (tvatto mayā śrutaṃ vīra), and from the Vedic scriptures have I heard it (śrutibhyaś ca mayā śrutam), that no contrary reply may be spoken by me (nottaraṃ hi mayā vācyam) when the middle brother is making a vow (madhyame pratijānati).
+“From you have I heard it, O hero (_tvatto mayā śrutaṃ vīra_), and from the Vedic scriptures have I heard it (_śrutibhyaś ca mayā śrutam_), that no contrary reply may be spoken by me (_nottaraṃ hi mayā vācyam_) when the middle brother is making a vow (_madhyame pratijānati_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet an awful, ill-spoken word was uttered by me (vyāhṛtaṃ durvaco ghoram)—‘I shall slay Lavaṇa in battle (hantāsmi lavaṇaṃ mṛdhe)’; this evil plight (durgatiḥ) is the fruit of that ill-spoken speech of mine (tasyaivaṃ me duruktasya), O bull among men!
+“Yet an awful, ill-spoken word was uttered by me (_vyāhṛtaṃ durvaco ghoram_)—‘I shall slay Lavaṇa in battle (_hantāsmi lavaṇaṃ mṛdhe_)’; this evil plight (_durgatiḥ_) is the fruit of that ill-spoken speech of mine (_tasyaivaṃ me duruktasya_), O bull among men!
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, a rejoinder ought never to be spoken (uttaraṃ nahi vaktavyam) once an elder has spoken (jyeṣṭhenābhihite punaḥ); it is fraught with unrighteousness (adharma-sahitaṃ caiva) and bereft of the next world (paraloka-vivarjitam)!
+“Indeed, a rejoinder ought never to be spoken (_uttaraṃ nahi vaktavyam_) once an elder has spoken (_jyeṣṭhenābhihite punaḥ_); it is fraught with unrighteousness (_adharma-sahitaṃ caiva_) and bereft of the next world (_paraloka-vivarjitam_)!
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O Kākutstha, I shall not utter a second rejoinder to you (so ’haṃ dvitīyaṃ kākutstha na vakṣyāmi tavottaram); let not a punishment fall upon me through a second offense (mā dvitīyena daṇḍo vai nipaten mayi), O bestower of honor (mānada)!
+“Therefore, O Kākutstha, I shall not utter a second rejoinder to you (_so ’haṃ dvitīyaṃ kākutstha na vakṣyāmi tavottaram_); let not a punishment fall upon me through a second offense (_mā dvitīyena daṇḍo vai nipaten mayi_), O bestower of honor (_mānada_)!
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For I am wholly the doer of your will, O king (kāmakāro hy ahaṃ rājaṃs tavāsmi), O bull among men (puruṣarṣabha); destroy the adharma on my behalf, O Kākutstha (adharmaṃ jahi kākutstha mat-kṛte), O delight of the Raghus!”
+“For I am wholly the doer of your will, O king (_kāmakāro hy ahaṃ rājaṃs tavāsmi_), O bull among men (_puruṣarṣabha_); destroy the adharma on my behalf, O Kākutstha (_adharmaṃ jahi kākutstha mat-kṛte_), O delight of the Raghus!”
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the heroic, great-souled Śatrughna had spoken thus (evam ukte tu śūreṇa śatrughnena mahātmanā), Rāma, greatly delighted (uvāca rāmaḥ saṃhṛṣṭaḥ), addressed Bharata and Lakṣmaṇa (bharataṃ lakṣmaṇaṃ tathā):
+When the heroic, great-souled Śatrughna had spoken thus (_evam ukte tu śūreṇa śatrughnena mahātmanā_), Rāma, greatly delighted (_uvāca rāmaḥ saṃhṛṣṭaḥ_), addressed Bharata and Lakṣmaṇa (_bharataṃ lakṣmaṇaṃ tathā_):
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bring hither with attentive minds (ānayadhvaṃ samāhitāḥ) all the requisites for the consecration (sambhārān abhiṣekasya); this very day I shall consecrate (adyaiva ... abhiṣekṣyāmi) this tiger among men, Rāghava (puruṣa-vyāghram ... rāghavam)!
+“Bring hither with attentive minds (_ānayadhvaṃ samāhitāḥ_) all the requisites for the consecration (_sambhārān abhiṣekasya_); this very day I shall consecrate (_adyaiva ... abhiṣekṣyāmi_) this tiger among men, Rāghava (_puruṣa-vyāghram ... rāghavam_)!
 </details>
 </details>
 
@@ -399,7 +399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Summon at my command (ānayadhvaṃ mamājñayā) the royal priest of the Kākutsthas (purohitaṃ ca kākutstham), the guild-elders and officiating priests (naigamān ṛtvijas tathā), and all those counselors as well (mantriṇaś caiva tān sarvān)!”
+“Summon at my command (_ānayadhvaṃ mamājñayā_) the royal priest of the Kākutsthas (_purohitaṃ ca kākutstham_), the guild-elders and officiating priests (_naigamān ṛtvijas tathā_), and all those counselors as well (_mantriṇaś caiva tān sarvān_)!”
 </details>
 </details>
 
@@ -435,7 +435,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knowing the king’s mandate (rājñaḥ śāsanam ājñāya), those great chariot-warriors did accordingly (tathā ’kurvan mahārathāḥ); placing the royal priest and the consecration preparations at the fore (abhiṣeka-samārambhaṃ puraskṛtya purodhasam), kings and brahmins entered the royal palace (praviṣṭā rāja-bhavanaṃ rājāno brāhmaṇās tathā).
+Knowing the king’s mandate (_rājñaḥ śāsanam ājñāya_), those great chariot-warriors did accordingly (_tathā ’kurvan mahārathāḥ_); placing the royal priest and the consecration preparations at the fore (_abhiṣeka-samārambhaṃ puraskṛtya purodhasam_), kings and brahmins entered the royal palace (_praviṣṭā rāja-bhavanaṃ rājāno brāhmaṇās tathā_).
 </details>
 </details>
 
@@ -477,7 +477,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the consecration of the great-souled Śatrughna went forward (tatho ’bhiṣeko vavṛdhe śatrughnasya mahātmanaḥ), resplendent and bringing abundant joy (sampraharṣa-karaḥ śrīmān) to Rāghava and to the city (rāghavasya purasya ca).
+Then the consecration of the great-souled Śatrughna went forward (_tatho ’bhiṣeko vavṛdhe śatrughnasya mahātmanaḥ_), resplendent and bringing abundant joy (_sampraharṣa-karaḥ śrīmān_) to Rāghava and to the city (_rāghavasya purasya ca_).
 </details>
 </details>
 
@@ -511,7 +511,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consecrated, Śatrughna shone radiant as the sun (abhiṣiktas tu śatrughno babhau cāditya-sannibhaḥ), like Skanda consecrated of old (abhiṣiktaḥ purā skandaḥ) by the hosts of Maruts with Indra at their head (sendrair iva marud-gaṇaiḥ).
+Consecrated, Śatrughna shone radiant as the sun (_abhiṣiktas tu śatrughno babhau cāditya-sannibhaḥ_), like Skanda consecrated of old (_abhiṣiktaḥ purā skandaḥ_) by the hosts of Maruts with Indra at their head (_sendrair iva marud-gaṇaiḥ_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Śatrughna had been consecrated (abhiṣikte tu śatrughne) by Rāma of untiring deeds (rāmeṇākliṣṭa-karmaṇā), the citizens and the deeply learned brahmins became filled with joy (paurāḥ pramuditāś cāsan brāhmaṇāś ca bahuśrutāḥ).
+When Śatrughna had been consecrated (_abhiṣikte tu śatrughne_) by Rāma of untiring deeds (_rāmeṇākliṣṭa-karmaṇā_), the citizens and the deeply learned brahmins became filled with joy (_paurāḥ pramuditāś cāsan brāhmaṇāś ca bahuśrutāḥ_).
 </details>
 </details>
 
@@ -579,7 +579,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kausalyā, Sumitrā, and Kaikeyī (kausalyā ca sumitrā ca ... kekayī tathā), as well as all the other royal ladies (yāś cānyā rāja-yoṣitaḥ), performed auspicious rites within the royal palace (maṅgalaṃ ... cakrus tā rāja-bhavane).
+Kausalyā, Sumitrā, and Kaikeyī (_kausalyā ca sumitrā ca ... kekayī tathā_), as well as all the other royal ladies (_yāś cānyā rāja-yoṣitaḥ_), performed auspicious rites within the royal palace (_maṅgalaṃ ... cakrus tā rāja-bhavane_).
 </details>
 </details>
 
@@ -613,7 +613,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great-souled sages dwelling on the banks of the Yamunā (ṛṣayaś ca mahātmāno yamunā-tīra-vāsinaḥ) already counted Lavaṇa as slain (hataṃ lavaṇam āśaṃsuḥ) by virtue of Śatrughna’s consecration (śatrughnasyābhiṣecanāt).
+And the great-souled sages dwelling on the banks of the Yamunā (_ṛṣayaś ca mahātmāno yamunā-tīra-vāsinaḥ_) already counted Lavaṇa as slain (_hataṃ lavaṇam āśaṃsuḥ_) by virtue of Śatrughna’s consecration (_śatrughnasyābhiṣecanāt_).
 </details>
 </details>
 
@@ -647,7 +647,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāghava, seating the consecrated Śatrughna upon his lap (abhiṣiktaṃ śatrughnam aṅkam āropya rāghavaḥ), spoke sweet words (uvāca madhurāṃ vāṇīm), filling him with fiery splendor (tejas tasyābhipūrayan).
+Then Rāghava, seating the consecrated Śatrughna upon his lap (_abhiṣiktaṃ śatrughnam aṅkam āropya rāghavaḥ_), spoke sweet words (_uvāca madhurāṃ vāṇīm_), filling him with fiery splendor (_tejas tasyābhipūrayan_).
 </details>
 </details>
 
@@ -689,7 +689,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This unfailing, divine arrow, conqueror of hostile cities (ayaṃ śaras tv amoghas te divyaḥ para-purañjayaḥ), is given to you: with this, O gentle one (anena ... saumya), you shall slay Lavaṇa, O delight of the Raghus (lavaṇaṃ ... hantā ’si)! This arrow was created, O Kākutstha (sṛṣṭaḥ śaro ’yam), when there slept upon the great primordial ocean (yadā śete mahārṇave)—
+“This unfailing, divine arrow, conqueror of hostile cities (_ayaṃ śaras tv amoghas te divyaḥ para-purañjayaḥ_), is given to you: with this, O gentle one (_anena ... saumya_), you shall slay Lavaṇa, O delight of the Raghus (_lavaṇaṃ ... hantā ’si_)! This arrow was created, O Kākutstha (_sṛṣṭaḥ śaro ’yam_), when there slept upon the great primordial ocean (_yadā śete mahārṇave_)—
 </details>
 </details>
 
@@ -757,13 +757,13 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —the Self-Existent, Unconquered Lord (svayambhūr ajito devaḥ), whom neither gods nor asuras could behold (yan nāpaśyan surāsurāḥ); invisible to all created beings (adṛśyaḥ sarva-bhūtānām), by him indeed was this supreme arrow created (tenāyaṃ tu śarottamaḥ)—
+**20:** —the Self-Existent, Unconquered Lord (_svayambhūr ajito devaḥ_), whom neither gods nor asuras could behold (_yan nāpaśyan surāsurāḥ_); invisible to all created beings (_adṛśyaḥ sarva-bhūtānām_), by him indeed was this supreme arrow created (_tenāyaṃ tu śarottamaḥ_)—
 
-**21:** —created in wrath (sṛṣṭaḥ krodhābhibhūtena) for the destruction of the two wicked-souled demons Madhu and Kaiṭabha (vināśārthaṃ durātmanoḥ madhu-kaiṭabhayoḥ), O hero, who were bent on obstructing creation (vighāte vartamānayoḥ), by him who desired to create the three worlds (sraṣṭu-kāmena lokāṃs trīn); and by this arrow those two were slain in battle (tau cānena hatau yudhi).
+**21:** —created in wrath (_sṛṣṭaḥ krodhābhibhūtena_) for the destruction of the two wicked-souled demons Madhu and Kaiṭabha (_vināśārthaṃ durātmanoḥ madhu-kaiṭabhayoḥ_), O hero, who were bent on obstructing creation (_vighāte vartamānayoḥ_), by him who desired to create the three worlds (_sraṣṭu-kāmena lokāṃs trīn_); and by this arrow those two were slain in battle (_tau cānena hatau yudhi_).
 
-**22:** “Having slain those two, Kaiṭabha and Madhu, with this foremost of arrows (tau hatvā ... kaiṭabhaṃ tu madhuṃ tathā anena śara-mukhyena), for the enjoyment of living beings (jana-bhogārtham), he then fashioned the worlds (tato lokāṃś cakāra saḥ).
+**22:** “Having slain those two, Kaiṭabha and Madhu, with this foremost of arrows (_tau hatvā ... kaiṭabhaṃ tu madhuṃ tathā anena śara-mukhyena_), for the enjoyment of living beings (_jana-bhogārtham_), he then fashioned the worlds (_tato lokāṃś cakāra saḥ_).
 
-**23:** “This arrow was not loosed by me before (nāyaṃ mayā śaraḥ pūrvam ... muktaḥ), O Śatrughna, even when seeking Rāvaṇa’s death (rāvaṇasya vadhārthinā), out of concern that great terror would befall all beings (bhūtānāṃ mahāṃs trāso bhaved iti).
+**23:** “This arrow was not loosed by me before (_nāyaṃ mayā śaraḥ pūrvam ... muktaḥ_), O Śatrughna, even when seeking Rāvaṇa’s death (_rāvaṇasya vadhārthinā_), out of concern that great terror would befall all beings (_bhūtānāṃ mahāṃs trāso bhaved iti_).
 </details>
 </details>
 
@@ -799,7 +799,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now, as for that mighty trident (yac ca tasya mahac chūlam) given by the great-souled Three-Eyed God (tryambakeṇa mahātmanā dattam) as a supreme weapon to Madhu for the destruction of foes (śatru-vināśāya madhor āyudham uttamam)—
+“Now, as for that mighty trident (_yac ca tasya mahac chūlam_) given by the great-souled Three-Eyed God (_tryambakeṇa mahātmanā dattam_) as a supreme weapon to Madhu for the destruction of foes (_śatru-vināśāya madhor āyudham uttamam_)—
 </details>
 </details>
 
@@ -837,9 +837,9 @@ Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “—placing that trident inside his dwelling (sa taṃ nikṣipya bhavane), where it is worshiped again and again (pūjyamānaṃ punaḥ punaḥ), he ranges across all the quarters (diśaḥ sarvāḥ samāsādya) and obtains his choice prey (prāpnoty āhāram uttamam).
+**25:** “—placing that trident inside his dwelling (_sa taṃ nikṣipya bhavane_), where it is worshiped again and again (_pūjyamānaṃ punaḥ punaḥ_), he ranges across all the quarters (_diśaḥ sarvāḥ samāsādya_) and obtains his choice prey (_prāpnoty āhāram uttamam_).
 
-**26:** “Whenever anyone desiring battle challenges him (yadā tu yuddham ākāṅkṣan kaścid enaṃ samāhvayet), then seizing that trident (tadā śūlaṃ gṛhītvā), the rākṣasa indeed reduces him to ashes (taṃ bhasma rakṣaḥ karoti hi).
+**26:** “Whenever anyone desiring battle challenges him (_yadā tu yuddham ākāṅkṣan kaścid enaṃ samāhvayet_), then seizing that trident (_tadā śūlaṃ gṛhītvā_), the rākṣasa indeed reduces him to ashes (_taṃ bhasma rakṣaḥ karoti hi_).
 </details>
 </details>
 
@@ -865,7 +865,7 @@ Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O tiger among men (sa tvaṃ puruṣa-śārdūla), bearing your weapons (dhṛtāyudhaḥ), stand waiting beforehand at the city gate (pūrvaṃ dvāri tiṣṭha) for him when he is deprived of his weapon (tam āyudha-vinākṛtam) and has not yet entered the city (apraviṣṭaṃ puram)!
+“Therefore, O tiger among men (_sa tvaṃ puruṣa-śārdūla_), bearing your weapons (_dhṛtāyudhaḥ_), stand waiting beforehand at the city gate (_pūrvaṃ dvāri tiṣṭha_) for him when he is deprived of his weapon (_tam āyudha-vinākṛtam_) and has not yet entered the city (_apraviṣṭaṃ puram_)!
 </details>
 </details>
 
@@ -891,7 +891,7 @@ Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before he has entered his dwelling (apraviṣṭaṃ ca bhavanam), O bull among men, challenge him to battle (yuddhāya ... āhvayethāḥ), O mighty-armed one; then you shall be the slayer of the rākṣasa (tato hantāsi rākṣasam)!
+“Before he has entered his dwelling (_apraviṣṭaṃ ca bhavanam_), O bull among men, challenge him to battle (_yuddhāya ... āhvayethāḥ_), O mighty-armed one; then you shall be the slayer of the rākṣasa (_tato hantāsi rākṣasam_)!
 </details>
 </details>
 
@@ -917,7 +917,7 @@ Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If it be done otherwise (anyathā kriyamāṇe tu), he will become unslayable (avadhyaḥ sa bhaviṣyati); whereas if it be carried out thus, O hero (yadi tv evaṃ kṛte vīra), he shall go to his destruction (vināśam upayāsyati).
+“If it be done otherwise (_anyathā kriyamāṇe tu_), he will become unslayable (_avadhyaḥ sa bhaviṣyati_); whereas if it be carried out thus, O hero (_yadi tv evaṃ kṛte vīra_), he shall go to his destruction (_vināśam upayāsyati_).
 </details>
 </details>
 
@@ -943,7 +943,7 @@ Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house whil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this has been explained to you (etat te sarvam ākhyātam), as well as the means of circumventing the trident (śūlasya ca viparyayaḥ); for the deed of the glorious Blue-Throated Lord is impossible to transgress (śrīmataḥ śitikaṇṭhasya kṛtyaṃ hi duratikramam)!”
+“All this has been explained to you (_etat te sarvam ākhyātam_), as well as the means of circumventing the trident (_śūlasya ca viparyayaḥ_); for the deed of the glorious Blue-Throated Lord is impossible to transgress (_śrīmataḥ śitikaṇṭhasya kṛtyaṃ hi duratikramam_)!”
 </details>
 </details>
 

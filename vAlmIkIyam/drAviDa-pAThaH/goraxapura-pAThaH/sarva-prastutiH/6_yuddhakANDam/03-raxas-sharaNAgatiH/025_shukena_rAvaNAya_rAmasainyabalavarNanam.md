@@ -83,7 +83,7 @@ illustrious Ravana spoke to Shuka and Sarana, his ministers as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma, the son of Daśaratha, had crossed the ocean with his army (sabale sāgaraṃ tīrṇe), the glorious Rāvaṇa spoke to his two ministers (amātyau), Śuka and Sāraṇa:
+When Rāma, the son of Daśaratha, had crossed the ocean with his army (_sabale sāgaraṃ tīrṇe_), the glorious Rāvaṇa spoke to his two ministers (_amātyau_), Śuka and Sāraṇa:
 </details>
 </details>
 
@@ -129,7 +129,7 @@ bridge, unprecedented, across the ocean was executed by Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The entire monkey army (samagraṃ vānaraṃ balam) has crossed the impassable ocean (dustaraṃ sāgaram), and the building of a causeway (setubandhanam) across the sea by Rāma is altogether unprecedented (abhūtapūrvam).
+“The entire monkey army (_samagraṃ vānaraṃ balam_) has crossed the impassable ocean (_dustaraṃ sāgaram_), and the building of a causeway (_setubandhanam_) across the sea by Rāma is altogether unprecedented (_abhūtapūrvam_).
 </details>
 </details>
 
@@ -186,7 +186,7 @@ weight) by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I could never by any means have believed (na śraddadhyāṃ kathaṃcana) that bridging of the ocean; yet even so, that monkey army must certainly be numbered (avaśyaṃ saṃkhyeyam) by me.
+I could never by any means have believed (_na śraddadhyāṃ kathaṃcana_) that bridging of the ocean; yet even so, that monkey army must certainly be numbered (_avaśyaṃ saṃkhyeyam_) by me.
 </details>
 </details>
 
@@ -311,15 +311,15 @@ have to come back quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Entering the monkey army unobserved (praviśyānupalakṣitau), you two [must ascertain] their number and valor (parimāṇaṃ ca vīryaṃ ca), and which monkeys are their foremost chiefs (mukhyāḥ plavaṃgamāḥ),
+**4:** Entering the monkey army unobserved (_praviśyānupalakṣitau_), you two [must ascertain] their number and valor (_parimāṇaṃ ca vīryaṃ ca_), and which monkeys are their foremost chiefs (_mukhyāḥ plavaṃgamāḥ_),
 
-**5:** which counselors (mantriṇaḥ) are held in esteem by Rāma and Sugrīva, which monkeys march in the vanguard (pūrvam abhivartante), and which are the bravest warriors,
+**5:** which counselors (_mantriṇaḥ_) are held in esteem by Rāma and Sugrīva, which monkeys march in the vanguard (_pūrvam abhivartante_), and which are the bravest warriors,
 
-**6:** how that causeway was built (setur yathā baddhaḥ) across the watery ocean (sāgare salilārṇave), and the encampment (niveśam) of those great-souled monkeys,
+**6:** how that causeway was built (_setur yathā baddhaḥ_) across the watery ocean (_sāgare salilārṇave_), and the encampment (_niveśam_) of those great-souled monkeys,
 
-**7:** and you two ought to ascertain accurately (tattvato jñātum arhathaḥ) the resolve (vyavasāyam), valor, and weapons (praharaṇāni) of Rāma and of the heroic Lakṣmaṇa,
+**7:** and you two ought to ascertain accurately (_tattvato jñātum arhathaḥ_) the resolve (_vyavasāyam_), valor, and weapons (_praharaṇāni_) of Rāma and of the heroic Lakṣmaṇa,
 
-**8:** and who is the commander-in-chief (senāpatiḥ) of those great-souled monkeys; having learned that according to the truth (yathātattvam), you ought to return swiftly.”
+**8:** and who is the commander-in-chief (_senāpatiḥ_) of those great-souled monkeys; having learned that according to the truth (_yathātattvam_), you ought to return swiftly.”
 </details>
 </details>
 
@@ -365,7 +365,7 @@ the disguise of monkeys, entered that army of monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commanded in detail (pratisamādiṣṭau), the two heroic rākṣasas Śuka and Sāraṇa assumed the form of monkeys (harirūpadharau) and entered the monkey host.
+Thus commanded in detail (_pratisamādiṣṭau_), the two heroic rākṣasas Śuka and Sāraṇa assumed the form of monkeys (_harirūpadharau_) and entered the monkey host.
 </details>
 </details>
 
@@ -421,7 +421,7 @@ causing their hair to stand on end.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those two, Śuka and Sāraṇa, were unable to reckon (saṃkhyātuṃ nādhyagacchetām) that inconceivable (acintyam), hair-raising monkey army.
+Then those two, Śuka and Sāraṇa, were unable to reckon (_saṃkhyātuṃ nādhyagacchetām_) that inconceivable (_acintyam_), hair-raising monkey army.
 </details>
 </details>
 
@@ -454,7 +454,7 @@ Then those two, Śuka and Sāraṇa, were unable to reckon (saṃkhyātuṃ nād
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed on mountain peaks, by cascades and in caverns (nirjhareṣu guhāsu ca), along the shores of the sea, and in forests and pleasure-groves (vaneṣūpavaneṣu ca)—some in the act of crossing (taramāṇam), some already crossed (tīrṇam), and some eager to cross on every side (tartukāmaṃ ca sarvaśaḥ)—
+Stationed on mountain peaks, by cascades and in caverns (_nirjhareṣu guhāsu ca_), along the shores of the sea, and in forests and pleasure-groves (_vaneṣūpavaneṣu ca_)—some in the act of crossing (_taramāṇam_), some already crossed (_tīrṇam_), and some eager to cross on every side (_tartukāmaṃ ca sarvaśaḥ_)—
 </details>
 </details>
 
@@ -512,7 +512,7 @@ of army.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-some already encamped and some still encamping (niviṣṭaṃ niviśac caiva), roaring dreadfully and of mighty strength: the two night-roamers beheld that imperturbable ocean of forces (tad balārṇavam akṣobhyam).
+some already encamped and some still encamping (_niviṣṭaṃ niviśac caiva_), roaring dreadfully and of mighty strength: the two night-roamers beheld that imperturbable ocean of forces (_tad balārṇavam akṣobhyam_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ Shuka and Sarana and told Rama as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vibhīṣaṇa of great splendor spotted those two disguised spies (praticchannau); seizing Śuka and Sāraṇa, he reported them to Rāma:
+Vibhīṣaṇa of great splendor spotted those two disguised spies (_praticchannau_); seizing Śuka and Sāraṇa, he reported them to Rāma:
 </details>
 </details>
 
@@ -624,7 +624,7 @@ the ministers of Ravana and they came here as spies from Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These two, Śuka and Sāraṇa, are ministers (mantriṇau) of that lord of rākṣasas, arrived from Laṅkā as spies (cārau), O conqueror of enemy citadels (parapuraṃjaya)!”
+“These two, Śuka and Sāraṇa, are ministers (_mantriṇau_) of that lord of rākṣasas, arrived from Laṅkā as spies (_cārau_), O conqueror of enemy citadels (_parapuraṃjaya_)!”
 </details>
 </details>
 
@@ -677,7 +677,7 @@ lives and having joined their palms, spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma, those two trembled (vyathitau) and despaired of their lives (nirāśau jīvite); terrified and folding their hands in supplication (kṛtāñjalipuṭau), they spoke these words:
+Beholding Rāma, those two trembled (_vyathitau_) and despaired of their lives (_nirāśau jīvite_); terrified and folding their hands in supplication (_kṛtāñjalipuṭau_), they spoke these words:
 </details>
 </details>
 
@@ -729,7 +729,7 @@ know everything about your entire army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Both of us, O gracious one (saumya), have come here dispatched by Rāvaṇa (rāvaṇaprahitāv ubhau) to reconnoiter this entire army (parijñātuṃ balaṃ sarvam), O delight of the Raghus.”
+“Both of us, O gracious one (_saumya_), have come here dispatched by Rāvaṇa (_rāvaṇaprahitāv ubhau_) to reconnoiter this entire army (_parijñātuṃ balaṃ sarvam_), O delight of the Raghus.”
 </details>
 </details>
 
@@ -782,7 +782,7 @@ welfare of all beings, smilingly spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs, Rāma, the son of Daśaratha, who delighted in the welfare of all beings (sarvabhūtahite rataḥ), smiled (prahasan) and spoke this speech:
+Hearing those words of theirs, Rāma, the son of Daśaratha, who delighted in the welfare of all beings (_sarvabhūtahite rataḥ_), smiled (_prahasan_) and spoke this speech:
 </details>
 </details>
 
@@ -835,7 +835,7 @@ will."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If the entire army has been inspected (dṛṣṭaṃ balaṃ sarvam), or if we ourselves have been well observed (vayaṃ vā susamāhitāḥ), and if your assigned task has been accomplished, you may depart at your pleasure (chandataḥ pratigamyatām).
+“If the entire army has been inspected (_dṛṣṭaṃ balaṃ sarvam_), or if we ourselves have been well observed (_vayaṃ vā susamāhitāḥ_), and if your assigned task has been accomplished, you may depart at your pleasure (_chandataḥ pratigamyatām_).
 </details>
 </details>
 
@@ -899,7 +899,7 @@ will show it to you again entirely."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if anything remains unseen (kiṃcid adṛṣṭaṃ vā), you two may inspect it further (bhūyas tad draṣṭum arhathaḥ); or else Vibhīṣaṇa himself will show it to you again in its entirety (kārtsnyena punaḥ saṃdarśayiṣyati).
+“Or if anything remains unseen (_kiṃcid adṛṣṭaṃ vā_), you two may inspect it further (_bhūyas tad draṣṭum arhathaḥ_); or else Vibhīṣaṇa himself will show it to you again in its entirety (_kārtsnyena punaḥ saṃdarśayiṣyati_).
 </details>
 </details>
 
@@ -952,7 +952,7 @@ holding no weapons indeed deserve no killing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor should you fear for your lives (na bhetavyaṃ jīvitaṃ prati) upon having been captured thus; being unarmed (nyastaśastrau) and seized, you two envoys do not deserve death (na dūtau vadham arhathaḥ).
+Nor should you fear for your lives (_na bhetavyaṃ jīvitaṃ prati_) upon having been captured thus; being unarmed (_nyastaśastrau_) and seized, you two envoys do not deserve death (_na dūtau vadham arhathaḥ_).
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ two demons. Set them both, who are spies in disguise, free."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Release these two disguised night-roaming spies (pracchannau cārau rātriṃcarāv ubhau), O Vibhīṣaṇa, even though they constantly seek to injure (satataṃ vikarṣiṇau) their adversary's side.
+Release these two disguised night-roaming spies (_pracchannau cārau rātriṃcarāv ubhau_), O Vibhīṣaṇa, even though they constantly seek to injure (_satataṃ vikarṣiṇau_) their adversary&#x27;s side.
 </details>
 </details>
 
@@ -1060,7 +1060,7 @@ younger half-brother of Kubera and the king of demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Once you two have entered great Laṅkā (praviśya mahatīṃ laṅkām), the king of rākṣasas, younger brother of Kubera (dhanadānujaḥ), must be told my words exactly as spoken (yathoktaṃ vacanaṃ mama):
+Once you two have entered great Laṅkā (_praviśya mahatīṃ laṅkām_), the king of rākṣasas, younger brother of Kubera (_dhanadānujaḥ_), must be told my words exactly as spoken (_yathoktaṃ vacanaṃ mama_):
 </details>
 </details>
 
@@ -1112,7 +1112,7 @@ that force at your will along with your troops and allies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Whatever strength you relied upon (yad balaṃ tvaṃ samāśritya) when you abducted my Sītā (sītāṃ me hṛtavān asi), display that now at your pleasure (tad darśaya yathākāmam), along with your army and your kinsmen!’”
+‘Whatever strength you relied upon (_yad balaṃ tvaṃ samāśritya_) when you abducted my Sītā (_sītāṃ me hṛtavān asi_), display that now at your pleasure (_tad darśaya yathākāmam_), along with your army and your kinsmen!’”
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ its ramparts and arches as well as the army of demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Tomorrow at daybreak (śvaḥ kālye), behold the city of Laṅkā with its ramparts and arched gateways (saprākārāṃ satoraṇām), along with the host of rākṣasas, shattered by my arrows (śarair vidhvaṃsitaṃ mayā)!
+‘Tomorrow at daybreak (_śvaḥ kālye_), behold the city of Laṅkā with its ramparts and arched gateways (_saprākārāṃ satoraṇām_), along with the host of rākṣasas, shattered by my arrows (_śarair vidhvaṃsitaṃ mayā_)!
 </details>
 </details>
 
@@ -1226,7 +1226,7 @@ army as Indra the Lord of celestials wielding a thunderbolt casts the thunderbol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tomorrow at daybreak (śvaḥ kālye), O Rāvaṇa, I shall unleash my dreadful wrath (krodhaṃ bhīmam ahaṃ mokṣye) upon you and your army, just as thunderbolt-wielding Vāsava [Indra] hurls his thunderbolt upon the Dānavas!’”
+Tomorrow at daybreak (_śvaḥ kālye_), O Rāvaṇa, I shall unleash my dreadful wrath (_krodhaṃ bhīmam ahaṃ mokṣye_) upon you and your army, just as thunderbolt-wielding Vāsava [Indra] hurls his thunderbolt upon the Dānavas!’”
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ Tomorrow at daybreak (śvaḥ kālye), O Rāvaṇa, I shall unleash my dreadful 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commanded in reply, the two rākṣasas Śuka and Sāraṇa hailed (pratinandya) that Rāghava, who was devoted to righteousness (dharmavatsalam), with the cry, “Be victorious (jayeti)!”
+Thus commanded in reply, the two rākṣasas Śuka and Sāraṇa hailed (_pratinandya_) that Rāghava, who was devoted to righteousness (_dharmavatsalam_), with the cry, “Be victorious (_jayeti_)!”
 </details>
 </details>
 
@@ -1307,7 +1307,7 @@ cried out: "May you be victorious!", reached the city of Lanka and spoke to Rava
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Returning to the city of Laṅkā, they addressed the lord of rākṣasas: “Though seized by Vibhīṣaṇa to be slain (vibhīṣaṇagṛhītau tu vadhārtham), O lord of rākṣasas,
+Returning to the city of Laṅkā, they addressed the lord of rākṣasas: “Though seized by Vibhīṣaṇa to be slain (_vibhīṣaṇagṛhītau tu vadhārtham_), O lord of rākṣasas,
 </details>
 </details>
 
@@ -1377,11 +1377,11 @@ But, Rama, the pious minded wose valour is immeasurable, seeing us, set us free.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** upon being seen, we were set free (dṛṣṭvā muktau) by the righteous-souled Rāma of boundless splendor (dharmātmanā rāmeṇāmitatejasā). Where four bull-like heroes (catvāraḥ puruṣarṣabhāḥ) stand united in one place (ekasthānagatāḥ)—
+**28:** upon being seen, we were set free (_dṛṣṭvā muktau_) by the righteous-souled Rāma of boundless splendor (_dharmātmanā rāmeṇāmitatejasā_). Where four bull-like heroes (_catvāraḥ puruṣarṣabhāḥ_) stand united in one place (_ekasthānagatāḥ_)—
 
-**29:** heroes equal to the world-guardians (lokapālasamāḥ śūrāḥ), accomplished in missiles (kṛtāstrāḥ) and of steadfast valor: the glorious Rāma, son of Daśaratha, Lakṣmaṇa, Vibhīṣaṇa,
+**29:** heroes equal to the world-guardians (_lokapālasamāḥ śūrāḥ_), accomplished in missiles (_kṛtāstrāḥ_) and of steadfast valor: the glorious Rāma, son of Daśaratha, Lakṣmaṇa, Vibhīṣaṇa,
 
-**30:** and Sugrīva of great splendor, equal in prowess to Mahendra—these four alone are capable (ete śaktāḥ) of taking the city of Laṅkā with its ramparts and arched gateways,
+**30:** and Sugrīva of great splendor, equal in prowess to Mahendra—these four alone are capable (_ete śaktāḥ_) of taking the city of Laṅkā with its ramparts and arched gateways,
 </details>
 </details>
 
@@ -1438,7 +1438,7 @@ with its ramparts and arches and transplant it elswhere, even if all the monkeys
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-uprooting it, and transporting it elsewhere (utpāṭya saṃkrāmayitum); let all the other monkeys stand aside (sarve tiṣṭhantu vānarāḥ)! Indeed, such are Rāma's form and weapons (rūpaṃ praharaṇāni ca)
+uprooting it, and transporting it elsewhere (_utpāṭya saṃkrāmayitum_); let all the other monkeys stand aside (_sarve tiṣṭhantu vānarāḥ_)! Indeed, such are Rāma&#x27;s form and weapons (_rūpaṃ praharaṇāni ca_)
 </details>
 </details>
 
@@ -1490,7 +1490,7 @@ of Lanka, his three other companious standing by."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that he alone will destroy (vadhiṣyati ekaḥ) the city of Laṅkā—let even those other three stand aside (tiṣṭhantu te trayaḥ)! Guarded by Rāma and Lakṣmaṇa and by Sugrīva, that army has become utterly unassailable (durdharṣatarā) even by all the gods and asuras.
+that he alone will destroy (_vadhiṣyati ekaḥ_) the city of Laṅkā—let even those other three stand aside (_tiṣṭhantu te trayaḥ_)! Guarded by Rāma and Lakṣmaṇa and by Sugrīva, that army has become utterly unassailable (_durdharṣatarā_) even by all the gods and asuras.
 </details>
 </details>
 
@@ -1565,7 +1565,7 @@ unconquerable even by all the gods and demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The bannered host (dhvajinī) of the great-souled forest-dwellers has its warriors thrilled with joy (prahṛṣṭayodhā) and eager to fight at once; enough of hostility (alaṃ virodhena)—let peace be made (śamo vidhīyatām), and let Maithilī be restored to the son of Daśaratha!”
+The bannered host (_dhvajinī_) of the great-souled forest-dwellers has its warriors thrilled with joy (_prahṛṣṭayodhā_) and eager to fight at once; enough of hostility (_alaṃ virodhena_)—let peace be made (_śamo vidhīyatām_), and let Maithilī be restored to the son of Daśaratha!”
 </details>
 </details>
 

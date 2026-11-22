@@ -75,7 +75,7 @@ taking hold of his bow, fixed an arrow on the bow-string.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the heroic Lakṣmaṇa struck down in battle by the mighty Rāvaṇa with his lance and bathed in torrents of blood (śoṇitaughapariplutam)—
+Beholding the heroic Lakṣmaṇa struck down in battle by the mighty Rāvaṇa with his lance and bathed in torrents of blood (_śoṇitaughapariplutam_)—
 </details>
 </details>
 
@@ -137,7 +137,7 @@ seizer-demon rushes towards the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāma, having waged a tumultuous battle against the wicked-souled Rāvaṇa while still discharging torrents of arrows (visṛjann eva bāṇaughān), spoke these words to Suṣeṇa:
+—Rāma, having waged a tumultuous battle against the wicked-souled Rāvaṇa while still discharging torrents of arrows (_visṛjann eva bāṇaughān_), spoke these words to Suṣeṇa:
 </details>
 </details>
 
@@ -189,7 +189,7 @@ arrows, as a cloud strikes gushes of rain on a huge mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here lies the heroic Lakṣmaṇa fallen upon the earth through Rāvaṇa's prowess (rāvaṇavīryeṇa), writhing like a serpent (sarpavac ceṣṭate) and arousing my grief (mama śokam udīrayan)!
+“Here lies the heroic Lakṣmaṇa fallen upon the earth through Rāvaṇa&#x27;s prowess (_rāvaṇavīryeṇa_), writhing like a serpent (_sarpavac ceṣṭate_) and arousing my grief (_mama śokam udīrayan_)!
 </details>
 </details>
 
@@ -241,7 +241,7 @@ flames of fire, on Ravana in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding this hero drenched in blood (śoṇitārdram)—dearer to me than my own life-breaths (prāṇaiḥ priyataraṃ mama)—what strength to fight remains in me, whose soul is distraught (paryākulātmanaḥ)?
+“Beholding this hero drenched in blood (_śoṇitārdram_)—dearer to me than my own life-breaths (_prāṇaiḥ priyataraṃ mama_)—what strength to fight remains in me, whose soul is distraught (_paryākulātmanaḥ_)?
 </details>
 </details>
 
@@ -294,7 +294,7 @@ battle was not equal between Rama standing on the ground and Ravana fighting fro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this brother of mine, who exults in battle (samaraślāghī) and bears auspicious marks (śubhalakṣaṇaḥ), has met his dissolution (pañcatvam āpannaḥ), what use have I for life-breaths or for happiness?
+“If this brother of mine, who exults in battle (_samaraślāghī_) and bears auspicious marks (_śubhalakṣaṇaḥ_), has met his dissolution (_pañcatvam āpannaḥ_), what use have I for life-breaths or for happiness?
 </details>
 </details>
 
@@ -344,7 +344,7 @@ called Matali and spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, my prowess seems to shrink with shame (lajjatīva hi me vīryam), the bow slips from my hand (bhraśyatīva karād dhanuḥ), my arrows lose their force, and my sight is overcome by tears (dṛṣṭir bāṣpavaśaṃ gatā).
+“Indeed, my prowess seems to shrink with shame (_lajjatīva hi me vīryam_), the bow slips from my hand (_bhraśyatīva karād dhanuḥ_), my arrows lose their force, and my sight is overcome by tears (_dṛṣṭir bāṣpavaśaṃ gatā_).
 </details>
 </details>
 
@@ -409,7 +409,7 @@ gods."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My limbs sink down (avasīdanti gātrāṇi) like those of men walking in a dream (svapnayāne nṛṇām iva); fierce anxiety grows within me, and a desire to die (mumūrṣā) arises in me—
+“My limbs sink down (_avasīdanti gātrāṇi_) like those of men walking in a dream (_svapnayāne nṛṇām iva_); fierce anxiety grows within me, and a desire to die (_mumūrṣā_) arises in me—
 </details>
 </details>
 
@@ -461,7 +461,7 @@ him by bowing his head, spoke then the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—upon beholding my brother struck down by the wicked-souled Rāvaṇa, groaning in anguish (viṣṭanantaṃ tu duḥkhārtam) and sorely smitten in his vitals (marmaṇy abhihataṃ bhṛśam)!”
+“—upon beholding my brother struck down by the wicked-souled Rāvaṇa, groaning in anguish (_viṣṭanantaṃ tu duḥkhārtam_) and sorely smitten in his vitals (_marmaṇy abhihataṃ bhṛśam_)!”
 </details>
 </details>
 
@@ -508,7 +508,7 @@ immediately and perform the duty of a charioteer to Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his brother, his own dear life-breath moving outside him (priyaṃ prāṇaṃ bahiścaram), Rāghava was overwhelmed by mighty sorrow and given over to brooding and grief (dhyānaśokaparāyaṇaḥ).
+Beholding his brother, his own dear life-breath moving outside him (_priyaṃ prāṇaṃ bahiścaram_), Rāghava was overwhelmed by mighty sorrow and given over to brooding and grief (_dhyānaśokaparāyaṇaḥ_).
 </details>
 </details>
 
@@ -557,11 +557,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Falling into supreme despondency (paraṃ viṣādam āpannaḥ) with his senses distraught (ākulendriyaḥ), he lamented upon seeing his brother Lakṣmaṇa struck down in the dust of battle (raṇapāṃsuṣu):
+**10:** Falling into supreme despondency (_paraṃ viṣādam āpannaḥ_) with his senses distraught (_ākulendriyaḥ_), he lamented upon seeing his brother Lakṣmaṇa struck down in the dust of battle (_raṇapāṃsuṣu_):
 
-**11:** “Even victory, O hero, brings me no delight (na priyāyopakalpate)! What joy can the moon generate for one beyond the range of sight (acakṣurviṣayaś candraḥ)?
+**11:** “Even victory, O hero, brings me no delight (_na priyāyopakalpate_)! What joy can the moon generate for one beyond the range of sight (_acakṣurviṣayaś candraḥ_)?
 
-**12:** “What use have I for battle, what use for life-breaths? There is no purpose left in fighting (yuddhakāryaṃ na vidyate) where this Lakṣmaṇa lies struck down at the forefront of battle (raṇamūrdhani)!
+**12:** “What use have I for battle, what use for life-breaths? There is no purpose left in fighting (_yuddhakāryaṃ na vidyate_) where this Lakṣmaṇa lies struck down at the forefront of battle (_raṇamūrdhani_)!
 </details>
 </details>
 
@@ -627,7 +627,7 @@ approached Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as this hero of great radiance followed me (māṃ anuyāti) when I went to the forest, even so shall I follow him (aham apy anuyāsyāmi) to the abode of Yama (yamakṣayam)!
+“Just as this hero of great radiance followed me (_māṃ anuyāti_) when I went to the forest, even so shall I follow him (_aham apy anuyāsyāmi_) to the abode of Yama (_yamakṣayam_)!
 </details>
 </details>
 
@@ -677,7 +677,7 @@ chariot itself and joining his palms in salutation, spoke the following words to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever devoted to his beloved kinsmen (iṣṭabandhujanaḥ) and ever faithful to me (māṃ sa nityam anuvrataḥ), he has been reduced to this plight by treacherous-fighting rākṣasas (rākṣasaiḥ kūṭayodhibhiḥ).
+“Ever devoted to his beloved kinsmen (_iṣṭabandhujanaḥ_) and ever faithful to me (_māṃ sa nityam anuvrataḥ_), he has been reduced to this plight by treacherous-fighting rākṣasas (_rākṣasaiḥ kūṭayodhibhiḥ_).
 </details>
 </details>
 
@@ -732,7 +732,7 @@ Rama, the destroyer of adversaries!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In country after country wives may be found (deśe deśe kalatrāṇi), and in country after country kinsmen (bāndhavāḥ); yet I see no land where a uterine brother (bhrātā sahodaraḥ) may be found!
+“In country after country wives may be found (_deśe deśe kalatrāṇi_), and in country after country kinsmen (_bāndhavāḥ_); yet I see no land where a uterine brother (_bhrātā sahodaraḥ_) may be found!
 </details>
 </details>
 
@@ -784,7 +784,7 @@ bright as sun and a stainless auspicious spear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What use is the kingdom to me without the unassailable Lakṣmaṇa? And how shall I speak to Mother Sumitrā, so fond of her son (ambāṃ sumitrāṃ putravatsalām)?
+“What use is the kingdom to me without the unassailable Lakṣmaṇa? And how shall I speak to Mother Sumitrā, so fond of her son (_ambāṃ sumitrāṃ putravatsalām_)?
 </details>
 </details>
 
@@ -840,7 +840,7 @@ as earlier Indra the lord of celestials killed the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall not be able to bear the reproach (upālambhaṃ na śakṣyāmi soḍhum) given by Sumitrā! What indeed shall I say to Mother Kausalyā, and what to Kaikayī?
+“I shall not be able to bear the reproach (_upālambhaṃ na śakṣyāmi soḍhum_) given by Sumitrā! What indeed shall I say to Mother Kausalyā, and what to Kaikayī?
 </details>
 </details>
 
@@ -896,7 +896,7 @@ shine forth with his splendour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What shall I say to Bharata and to the mighty Śatrughna [when they ask]: ‘Having gone to the forest with him, how have you returned without him (vinā tenāgataḥ katham)?’
+“What shall I say to Bharata and to the mighty Śatrughna [when they ask]: ‘Having gone to the forest with him, how have you returned without him (_vinā tenāgataḥ katham_)?’
 </details>
 </details>
 
@@ -956,7 +956,7 @@ Ravana, the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Death right here (ihaiva maraṇaṃ śreyaḥ) is better than the censure of kinsmen (bandhuvigarhaṇam)! What evil deed (duṣkṛtaṃ karma) was committed by me in another birth—
+“Death right here (_ihaiva maraṇaṃ śreyaḥ_) is better than the censure of kinsmen (_bandhuvigarhaṇam_)! What evil deed (_duṣkṛtaṃ karma_) was committed by me in another birth—
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ type.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—whereby my righteous brother lies struck down before my very eyes (agrataḥ sthitaḥ)? Alas, O brother, foremost of men (manujaśreṣṭha), chief of heroes, O lord!
+“—whereby my righteous brother lies struck down before my very eyes (_agrataḥ sthitaḥ_)? Alas, O brother, foremost of men (_manujaśreṣṭha_), chief of heroes, O lord!
 </details>
 </details>
 
@@ -1056,7 +1056,7 @@ extra-ordinarily terrific missile presided over by demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you depart alone (ekākī) for the other world, abandoning me? And why, O brother, do you not speak (kimarthaṃ nāvabhāṣase) to me as I lament?
+“Why do you depart alone (_ekākī_) for the other world, abandoning me? And why, O brother, do you not speak (_kimarthaṃ nāvabhāṣase_) to me as I lament?
 </details>
 </details>
 
@@ -1102,7 +1102,7 @@ into highly poisonous snakes and rolled towards Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Arise, look (uttiṣṭha paśya)! Why do you lie asleep? Look upon miserable me with your eyes! When I was afflicted by grief and distraught among mountains and forests—
+“Arise, look (_uttiṣṭha paśya_)! Why do you lie asleep? Look upon miserable me with your eyes! When I was afflicted by grief and distraught among mountains and forests—
 </details>
 </details>
 
@@ -1149,7 +1149,7 @@ arrows dashed towards Rama alone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—you alone, O mighty-armed one, were my consoler (samāśvāsayitā mama) when I was downcast!” As Rāma was speaking thus, his senses overwhelmed by grief (śokavyākulitendriyam)—
+“—you alone, O mighty-armed one, were my consoler (_samāśvāsayitā mama_) when I was downcast!” As Rāma was speaking thus, his senses overwhelmed by grief (_śokavyākulitendriyam_)—
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ quarters stood enveloped by them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Suṣeṇa consoled him and spoke these supreme words (paramaṃ vacaḥ): “Cast aside, O tiger among men, this frame of mind that breeds faintheartedness (buddhiṃ vaiklabhyakāriṇīm)—
+—Suṣeṇa consoled him and spoke these supreme words (_paramaṃ vacaḥ_): “Cast aside, O tiger among men, this frame of mind that breeds faintheartedness (_buddhiṃ vaiklabhyakāriṇīm_)—
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ terrific and dangerous missile presided over by Garuda the eagle (an enemy of se
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and this grief-begetting anxiety (śokasaṃjananīṃ cintām), which pierces like arrows at the van of battle (tulyāṃ bāṇaiś camūmukhe)! Lakṣmaṇa, enhancer of auspicious fortune (lakṣmivardhanaḥ), has by no means met his dissolution (naiva pañcatvam āpannaḥ)!
+“—and this grief-begetting anxiety (_śokasaṃjananīṃ cintām_), which pierces like arrows at the van of battle (_tulyāṃ bāṇaiś camūmukhe_)! Lakṣmaṇa, enhancer of auspicious fortune (_lakṣmivardhanaḥ_), has by no means met his dissolution (_naiva pañcatvam āpannaḥ_)!
 </details>
 </details>
 
@@ -1311,7 +1311,7 @@ golden eagles (the enemies of serpents) those arrows flew all around.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For his countenance is not contorted (na hy asya vikṛtaṃ vaktram), nor has it turned dark (na ca śyāmatvam āgatam); behold his face, which is radiant and serene (suprabhaṃ ca prasannaṃ ca)!
+“For his countenance is not contorted (_na hy asya vikṛtaṃ vaktram_), nor has it turned dark (_na ca śyāmatvam āgatam_); behold his face, which is radiant and serene (_suprabhaṃ ca prasannaṃ ca_)!
 </details>
 </details>
 
@@ -1358,7 +1358,7 @@ eagles and destroyed all those arrows, which flew with a great speed in the form
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His palms are like lotus-petals (padmapatratalau hastau) and his eyes are clear (suprasanne ca locane); such an appearance is never seen in those whose life-breaths have departed (gatāsūnām), O lord of men!
+“His palms are like lotus-petals (_padmapatratalau hastau_) and his eyes are clear (_suprasanne ca locane_); such an appearance is never seen in those whose life-breaths have departed (_gatāsūnām_), O lord of men!
 </details>
 </details>
 
@@ -1404,7 +1404,7 @@ terrific showers of arrows on Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not give way to despondency (viṣādaṃ mā kṛthāḥ), O hero! He still possesses life (saprāṇo 'yam), O tamer of foes; [his heart] proclaims it as he lies stretched out on the ground with limp limbs (srastagātrasya) like one fast asleep (prasuptasya)—
+“Do not give way to despondency (_viṣādaṃ mā kṛthāḥ_), O hero! He still possesses life (_saprāṇo &#x27;yam_), O tamer of foes; [his heart] proclaims it as he lies stretched out on the ground with limp limbs (_srastagātrasya_) like one fast asleep (_prasuptasya_)—
 </details>
 </details>
 
@@ -1456,7 +1456,7 @@ with a multitude of arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—his heart accompanied by breathing (socchvāsaṃ hṛdayam), O hero, palpitating again and again (kampamānaṃ muhur muhuḥ)!” Having spoken these words to Rāghava, the supremely wise Suṣeṇa—
+“—his heart accompanied by breathing (_socchvāsaṃ hṛdayam_), O hero, palpitating again and again (_kampamānaṃ muhur muhuḥ_)!” Having spoken these words to Rāghava, the supremely wise Suṣeṇa—
 </details>
 </details>
 
@@ -1519,9 +1519,9 @@ Indra's horses with a multitude of arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** —spoke thus to the great monkey Hanūmān, who stood nearby (samīpastham): “Gentle one (saumya), going swiftly from here to Mount Mahodaya (parvataṃ hi mahodayam)—
+**30:** —spoke thus to the great monkey Hanūmān, who stood nearby (_samīpastham_): “Gentle one (_saumya_), going swiftly from here to Mount Mahodaya (_parvataṃ hi mahodayam_)—
 
-**31:** “—which was previously described to you, O hero, by Jāmbavān, bring here the great herb (mahauṣadhim ihānaya) that grows upon its southern peak (dakṣiṇe śikhare jātām)—
+**31:** “—which was previously described to you, O hero, by Jāmbavān, bring here the great herb (_mahauṣadhim ihānaya_) that grows upon its southern peak (_dakṣiṇe śikhare jātām_)—
 </details>
 </details>
 
@@ -1575,7 +1575,7 @@ monkey-chiefs too, along with Vibhishana, felt perturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—namely Viśalyakaraṇī ('the extractor of darts'), along with Sāvarṇyakaraṇī ('the restorer of natural complexion'), Saṃjīvakaraṇī ('the reviver of life'), O hero, and the great herb Saṃdhānī ('the knitter of wounds')!
+“—namely Viśalyakaraṇī (&#x27;the extractor of darts&#x27;), along with Sāvarṇyakaraṇī (&#x27;the restorer of natural complexion&#x27;), Saṃjīvakaraṇī (&#x27;the reviver of life&#x27;), O hero, and the great herb Saṃdhānī (&#x27;the knitter of wounds&#x27;)!
 </details>
 </details>
 
@@ -1633,7 +1633,7 @@ to all created beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bring them yourself for the revival (saṃjīvanārtham) of the heroic Lakṣmaṇa!” Addressed thus, the illustrious Hanūmān went to the herb-mountain (auṣadhiparvatam), and not recognizing those great herbs (ajānaṃs tā mahauṣadhīḥ), fell into reflection (cintām abhyagamat).
+“Bring them yourself for the revival (_saṃjīvanārtham_) of the heroic Lakṣmaṇa!” Addressed thus, the illustrious Hanūmān went to the herb-mountain (_auṣadhiparvatam_), and not recognizing those great herbs (_ajānaṃs tā mahauṣadhīḥ_), fell into reflection (_cintām abhyagamat_).
 </details>
 </details>
 
@@ -1679,7 +1679,7 @@ to touch the sun, its mist-wreathed waves moving to-and-fro.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then this thought arose in the mind of Māruti of boundless energy (māruter amitaujasaḥ): “I shall go back taking this very peak of the mountain (gṛhītvā śikharaṃ gireḥ)!
+Then this thought arose in the mind of Māruti of boundless energy (_māruter amitaujasaḥ_): “I shall go back taking this very peak of the mountain (_gṛhītvā śikharaṃ gireḥ_)!
 </details>
 </details>
 
@@ -1734,7 +1734,7 @@ exhilarated, appeared in a headless trunk in its lap and united with a comet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By inference (pratarkeṇa) I understand that the salutary herb (oṣadhīṃ tāṃ sukhāvahām) grows upon this very peak; for so indeed did Suṣeṇa declare (suṣeṇo hy evam abravīt).
+“By inference (_pratarkeṇa_) I understand that the salutary herb (_oṣadhīṃ tāṃ sukhāvahām_) grows upon this very peak; for so indeed did Suṣeṇa declare (_suṣeṇo hy evam abravīt_).
 </details>
 </details>
 
@@ -1789,7 +1789,7 @@ over by the gods Indra and Agni (the god of fire), which is adorned by the kings
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If I depart without taking Viśalyakaraṇī (agṛhya yadi gacchāmi), disaster would ensue through loss of time (kālātyayena doṣaḥ syāt), and great would be the distress (vaiklavyam)!”
+“If I depart without taking Viśalyakaraṇī (_agṛhya yadi gacchāmi_), disaster would ensue through loss of time (_kālātyayena doṣaḥ syāt_), and great would be the distress (_vaiklavyam_)!”
 </details>
 </details>
 
@@ -1843,7 +1843,7 @@ looked like Mount Mainaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting thus, the mighty Hanūmān went swiftly, approached that foremost of mountains (āsādya parvataśreṣṭham), and shook the summit of the mountain three times (triḥ prakampayya gireḥ śiraḥ).
+Reflecting thus, the mighty Hanūmān went swiftly, approached that foremost of mountains (_āsādya parvataśreṣṭham_), and shook the summit of the mountain three times (_triḥ prakampayya gireḥ śiraḥ_).
 </details>
 </details>
 
@@ -1898,7 +1898,7 @@ arrows to his bow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uprooting that peak (samutpāṭya) crowned with clusters of diverse blossoming trees (phullanānātarugaṇam), the mighty tiger among monkeys seized it with both hands and poised it aloft (samatolayat).
+Uprooting that peak (_samutpāṭya_) crowned with clusters of diverse blossoming trees (_phullanānātarugaṇam_), the mighty tiger among monkeys seized it with both hands and poised it aloft (_samatolayat_).
 </details>
 </details>
 
@@ -1950,7 +1950,7 @@ blood-red, was provoked to fierce anger, as though he would burn out the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking that peak of the mountain, which looked like a dark storm-cloud heavy with water (nīlam iva jīmūtaṃ toyapūrṇam), Hanūmān sprang up into the vault of the sky (nabhastalāt utpapāta).
+Taking that peak of the mountain, which looked like a dark storm-cloud heavy with water (_nīlam iva jīmūtaṃ toyapūrṇam_), Hanūmān sprang up into the vault of the sky (_nabhastalāt utpapāta_).
 </details>
 </details>
 
@@ -1999,7 +1999,7 @@ beings got frightened. The earth too began to tremble.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arriving with great speed (samāgamya mahāvegaḥ), setting down the peak of the mountain (saṃnyasya śikharaṃ gireḥ), and resting a moment (viśramya kiṃcit), Hanūmān spoke these words to Suṣeṇa:
+Arriving with great speed (_samāgamya mahāvegaḥ_), setting down the peak of the mountain (_saṃnyasya śikharaṃ gireḥ_), and resting a moment (_viśramya kiṃcit_), Hanūmān spoke these words to Suṣeṇa:
 </details>
 </details>
 
@@ -2051,7 +2051,7 @@ the lord of rivers, became agitated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I did not recognize those herbs (oṣadhīr nāvagacchāmi tā aham), O bull among monkeys; therefore this entire peak of that mountain (śikharaṃ kṛtsnaṃ gires tasya) has been brought here by me!”
+“I did not recognize those herbs (_oṣadhīr nāvagacchāmi tā aham_), O bull among monkeys; therefore this entire peak of that mountain (_śikharaṃ kṛtsnaṃ gires tasya_) has been brought here by me!”
 </details>
 </details>
 
@@ -2097,7 +2097,7 @@ the sky, thundering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Praising the son of the Wind-god (praśasya pavanātmajam) who spoke thus, Suṣeṇa, foremost of monkeys, plucked and took up the herbs (jagrāhotpāṭya cauṣadhīḥ).
+Praising the son of the Wind-god (_praśasya pavanātmajam_) who spoke thus, Suṣeṇa, foremost of monkeys, plucked and took up the herbs (_jagrāhotpāṭya cauṣadhīḥ_).
 </details>
 </details>
 
@@ -2160,9 +2160,9 @@ beings were frightened. Fear seized Ravana too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** All those bulls among monkeys (sarve vānarapuṅgavāḥ) were struck with wonder (vismitās tu babhūvuḥ) upon beholding that feat of Hanūmān (hanumatkarma), most difficult even for the gods to accomplish (surair api suduṣkaram).
+**43:** All those bulls among monkeys (_sarve vānarapuṅgavāḥ_) were struck with wonder (_vismitās tu babhūvuḥ_) upon beholding that feat of Hanūmān (_hanumatkarma_), most difficult even for the gods to accomplish (_surair api suduṣkaram_).
 
-**44:** Then Suṣeṇa of great radiance, foremost of monkeys, crushed that herb (saṃkṣodayitvā tām oṣadhīm) and administered it into Lakṣmaṇa's nostrils (lakṣmaṇasya dadau nastaḥ).
+**44:** Then Suṣeṇa of great radiance, foremost of monkeys, crushed that herb (_saṃkṣodayitvā tām oṣadhīm_) and administered it into Lakṣmaṇa&#x27;s nostrils (_lakṣmaṇasya dadau nastaḥ_).
 </details>
 </details>
 
@@ -2218,7 +2218,7 @@ various dreadful weapons and looking like the final dissolution of the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Inhaling it (samāghrāya) while the dart was still within him (saśalyaḥ), Lakṣmaṇa, slayer of hostile heroes, swiftly rose up from the surface of the earth freed of the dart and freed of pain (viśalyo virujaḥ).
+Inhaling it (_samāghrāya_) while the dart was still within him (_saśalyaḥ_), Lakṣmaṇa, slayer of hostile heroes, swiftly rose up from the surface of the earth freed of the dart and freed of pain (_viśalyo virujaḥ_).
 </details>
 </details>
 
@@ -2268,7 +2268,7 @@ come to witness the conflict at that time, responded:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Lakṣmaṇa risen from the ground, the monkeys, supremely delighted (suprītāḥ), acclaimed Lakṣmaṇa with cries of “Well done! Well done (sādhu sādhv iti)!”
+Beholding Lakṣmaṇa risen from the ground, the monkeys, supremely delighted (_suprītāḥ_), acclaimed Lakṣmaṇa with cries of “Well done! Well done (_sādhu sādhv iti_)!”
 </details>
 </details>
 
@@ -2324,7 +2324,7 @@ called to Rama saying again and again: "Be you victorious!".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Come, come (ehy ehīti)!” cried Rāma, slayer of hostile heroes, to Lakṣmaṇa; and with his eyes brimming with tears (bāṣpaparyākulekṣaṇaḥ), he clasped him tight and embraced him (sasvaje gāḍham āliṅgya).
+“Come, come (_ehy ehīti_)!” cried Rāma, slayer of hostile heroes, to Lakṣmaṇa; and with his eyes brimming with tears (_bāṣpaparyākulekṣaṇaḥ_), he clasped him tight and embraced him (_sasvaje gāḍham āliṅgya_).
 </details>
 </details>
 
@@ -2372,9 +2372,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**48:** Embracing Saumitri (pariṣvajya saumitrim), Rāghava then spoke: “By good fortune (diṣṭyā), O hero, I behold you returned again from death (maraṇāt punar āgatam)!
+**48:** Embracing Saumitri (_pariṣvajya saumitrim_), Rāghava then spoke: “By good fortune (_diṣṭyā_), O hero, I behold you returned again from death (_maraṇāt punar āgatam_)!
 
-**49:** “Indeed, I would have no use for life (na hi me jīvitenārthaḥ), nor for Sītā, nor for victory! For what use would life be to me had you gone to dissolution (tvayi pañcatvam āgate)?”
+**49:** “Indeed, I would have no use for life (_na hi me jīvitenārthaḥ_), nor for Sītā, nor for victory! For what use would life be to me had you gone to dissolution (_tvayi pañcatvam āgate_)?”
 </details>
 </details>
 
@@ -2405,7 +2405,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the great-souled Rāghava was speaking thus (ity evaṃ bruvatas tasya), Lakṣmaṇa, distressed (khinnaḥ), spoke these words in a faint voice (śithilayā vācā):
+As the great-souled Rāghava was speaking thus (_ity evaṃ bruvatas tasya_), Lakṣmaṇa, distressed (_khinnaḥ_), spoke these words in a faint voice (_śithilayā vācā_):
 </details>
 </details>
 
@@ -2470,7 +2470,7 @@ for all beings, capable as it was of tearing and splitting them and blazing as i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having formerly made that solemn vow (tāṃ pratijñāṃ pratijñāya purā), O hero of unfailing valor (satyaparākrama), you ought not to speak thus like some light-minded man devoid of fortitude (laghuḥ kaścid ivāsattvaḥ)!
+“Having formerly made that solemn vow (_tāṃ pratijñāṃ pratijñāya purā_), O hero of unfailing valor (_satyaparākrama_), you ought not to speak thus like some light-minded man devoid of fortitude (_laghuḥ kaścid ivāsattvaḥ_)!
 </details>
 </details>
 
@@ -2522,7 +2522,7 @@ enraged and took hold of that spear at its middle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For speakers of truth never render their vow vain (na hi pratijñāṃ kurvanti vitathām); indeed, the fulfillment of one's vow is the very hallmark of greatness (lakṣaṇaṃ hi mahattvasya pratijñāparipālanam)!
+“For speakers of truth never render their vow vain (_na hi pratijñāṃ kurvanti vitathām_); indeed, the fulfillment of one&#x27;s vow is the very hallmark of greatness (_lakṣaṇaṃ hi mahattvasya pratijñāparipālanam_)!
 </details>
 </details>
 
@@ -2576,7 +2576,7 @@ and bringing rejoice to his own army, roared terribly in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And it does not befit you to yield to despair on my account (nairāśyam upagantuṃ ca nālaṃ te matkṛte), O sinless one! By slaying Rāvaṇa today, fulfill your vow (pratijñām anupālaya)!
+“And it does not befit you to yield to despair on my account (_nairāśyam upagantuṃ ca nālaṃ te matkṛte_), O sinless one! By slaying Rāvaṇa today, fulfill your vow (_pratijñām anupālaya_)!
 </details>
 </details>
 
@@ -2622,7 +2622,7 @@ quarters and the angles of the compass
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having come within range of your arrows (tava bāṇapathaṃ gataḥ), the enemy shall not depart alive (na jīvan yāsyate śatruḥ), any more than a great elephant [escapes] a roaring, sharp-fanged lion (nardatas tīkṣṇadaṃṣṭrasya siṃhasyeva mahāgajaḥ)!
+“Having come within range of your arrows (_tava bāṇapathaṃ gataḥ_), the enemy shall not depart alive (_na jīvan yāsyate śatruḥ_), any more than a great elephant [escapes] a roaring, sharp-fanged lion (_nardatas tīkṣṇadaṃṣṭrasya siṃhasyeva mahāgajaḥ_)!
 </details>
 </details>
 
@@ -2668,7 +2668,7 @@ were frightened. The ocean too got agitated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, I wish to behold the swift slaying of this wicked-souled wretch (vadham icchāmi śīghram asya durātmanaḥ) before this sun, having accomplished its daily course, goes to its setting (yāvad astaṃ na yāty eṣa kṛtakarmā divākaraḥ)!
+“Indeed, I wish to behold the swift slaying of this wicked-souled wretch (_vadham icchāmi śīghram asya durātmanaḥ_) before this sun, having accomplished its daily course, goes to its setting (_yāvad astaṃ na yāty eṣa kṛtakarmā divākaraḥ_)!
 </details>
 </details>
 
@@ -2714,7 +2714,7 @@ roar, spoke the following harsh words to Rama:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you desire the slaying of Rāvaṇa in battle (yadi vadham icchasi rāvaṇasya saṃkhye), if you wish to fulfill the vow you have made, and if you cherish desire for the king's daughter (rājasutābhilāṣaḥ), O noble one (ārya), then carry out my words swiftly today, O hero!”
+“If you desire the slaying of Rāvaṇa in battle (_yadi vadham icchasi rāvaṇasya saṃkhye_), if you wish to fulfill the vow you have made, and if you cherish desire for the king&#x27;s daughter (_rājasutābhilāṣaḥ_), O noble one (_ārya_), then carry out my words swiftly today, O hero!”
 </details>
 </details>
 

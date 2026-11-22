@@ -81,7 +81,7 @@ he became self-pitying, and said to Ravana, 'let us go.' [3-42-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus harshly (paruṣam) to Rāvaṇa, Mārīca then, dejected and out of fear of the lord of night-roamers (bhayād rātriñcara-prabhoḥ), said, “Let us go!” (gacchāveti).
+Having spoken thus harshly (_paruṣam_) to Rāvaṇa, Mārīca then, dejected and out of fear of the lord of night-roamers (_bhayād rātriñcara-prabhoḥ_), said, “Let us go!” (_gacchāveti_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ Having spoken thus harshly (paruṣam) to Rāvaṇa, Mārīca then, dejected and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once I am seen again by him who wields arrows, bow, and sword (śara-cāpāsi-dhāriṇā), with his weapons upraised to slay me (mad-vadhodyata-śastreṇa), my life is as good as destroyed (nihataṃ jīvitaṃ ca me)!
+“Once I am seen again by him who wields arrows, bow, and sword (_śara-cāpāsi-dhāriṇā_), with his weapons upraised to slay me (_mad-vadhodyata-śastreṇa_), my life is as good as destroyed (_nihataṃ jīvitaṃ ca me_)!
 </details>
 </details>
 
@@ -183,7 +183,7 @@ Terminator, the moment I conceded to your demand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For no one, having assailed Rāma (rāmaṃ parākramya), returns alive (jīvan pratinivartate); I stand here as the very counterpart (pratirūpo 'sau) of you who are already struck down by Yama's rod (yama-daṇḍa-hatasya te)!
+“For no one, having assailed Rāma (_rāmaṃ parākramya_), returns alive (_jīvan pratinivartate_); I stand here as the very counterpart (_pratirūpo &#x27;sau_) of you who are already struck down by Yama&#x27;s rod (_yama-daṇḍa-hatasya te_)!
 </details>
 </details>
 
@@ -235,7 +235,7 @@ night-walker, thither I go, may good betide you." So said Maareecha to Ravana. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed can be done by me when you are so evil-minded (evaṃ tvayi durātmani)? Here I go, dear sir (tāta); may all be well with you (svasti te 'stu), O night-roamer!”
+“What indeed can be done by me when you are so evil-minded (_evaṃ tvayi durātmani_)? Here I go, dear sir (_tāta_); may all be well with you (_svasti te &#x27;stu_), O night-roamer!”
 </details>
 </details>
 
@@ -287,7 +287,7 @@ sentence tightly hugging him. [3-42-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That rākṣasa [Rāvaṇa] was delighted at those words; embracing him closely (pariṣvajya susaṃśliṣṭam), he spoke this speech:
+That _rākṣasa_ [Rāvaṇa] was delighted at those words; embracing him closely (_pariṣvajya susaṃśliṣṭam_), he spoke this speech:
 </details>
 </details>
 
@@ -349,7 +349,7 @@ Maareecha himself in the event of the death of Maareecha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This speech of yours, compliant with my will (mac-chanda-vaśa-vartinaḥ), is worthy of your heroic pride (etac chauṭīrya-yuktaṃ te)! Now you are truly Mārīca; earlier you were some other rākṣasa!”
+“This speech of yours, compliant with my will (_mac-chanda-vaśa-vartinaḥ_), is worthy of your heroic pride (_etac chauṭīrya-yuktaṃ te_)! Now you are truly Mārīca; earlier you were some other _rākṣasa_!”
 </details>
 </details>
 
@@ -418,7 +418,7 @@ vehicle-drawing instruments designed to look like ordinary harmless creatures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Mount quickly with me this jewel-adorned aerial chariot (khago ratna-vibhūṣitaḥ rathaḥ), yoked with goblin-faced mules (piśāca-vadanaiḥ kharaiḥ)!
+“Mount quickly with me this jewel-adorned aerial chariot (_khago ratna-vibhūṣitaḥ rathaḥ_), yoked with goblin-faced mules (_piśāca-vadanaiḥ kharaiḥ_)!
 </details>
 </details>
 
@@ -481,7 +481,7 @@ perhaps die by the arrow of Rama, for which Ravana is unconcerned.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having enticed Vaidehī (pralobhayitvā vaidehīm), you may depart wherever you wish; in that deserted place (śūnye), I shall forcibly carry off Sītā, the princess of Mithilā.”
+“Having enticed Vaidehī (_pralobhayitvā vaidehīm_), you may depart wherever you wish; in that deserted place (_śūnye_), I shall forcibly carry off Sītā, the princess of Mithilā.”
 </details>
 </details>
 
@@ -543,7 +543,7 @@ surroundings of Maareecha's hermitage. [3-42-9, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the son of Tāṭakā (tāṭakā-sutaḥ) said to that Rāvaṇa, “So be it” (tatheti); thereupon Rāvaṇa and Mārīca [mounted] that chariot, which resembled an aerial palace (vimānam iva)—
+Then the son of Tāṭakā (_tāṭakā-sutaḥ_) said to that Rāvaṇa, “So be it” (_tatheti_); thereupon Rāvaṇa and Mārīca [mounted] that chariot, which resembled an aerial palace (_vimānam iva_)—
 </details>
 </details>
 
@@ -620,9 +620,9 @@ villages, towns, and cities as per Indian architecture called *vaastu shaastra*.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Having mounted it, they sped swiftly from that hermitage precinct (tasmād āśrama-maṇḍalāt), beholding right there (tathaiva tatra) commercial towns and forests (pattanāni vanāni ca)—
+**10:** Having mounted it, they sped swiftly from that hermitage precinct (_tasmād āśrama-maṇḍalāt_), beholding right there (_tathaiva tatra_) commercial towns and forests (_pattanāni vanāni ca_)—
 
-**11:** And mountains, all the rivers, realms, and cities (rāṣṭrāṇi nagarāṇi ca); having reached the Daṇḍaka forest, [Rāvaṇa] then [beheld] Rāghava's hermitage—
+**11:** And mountains, all the rivers, realms, and cities (_rāṣṭrāṇi nagarāṇi ca_); having reached the Daṇḍaka forest, [Rāvaṇa] then [beheld] Rāghava&#x27;s hermitage—
 </details>
 </details>
 
@@ -674,7 +674,7 @@ sentence to Maareecha taking his hand into his. [3-42-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa, the lord of rākṣasas, together with Mārīca (saha-mārīcaḥ), beheld it; alighting then from that gold-adorned chariot (rathāt kāñcana-bhūṣaṇāt)—
+Rāvaṇa, the lord of _rākṣasas_, together with Mārīca (_saha-mārīcaḥ_), beheld it; alighting then from that gold-adorned chariot (_rathāt kāñcana-bhūṣaṇāt_)—
 </details>
 </details>
 
@@ -736,7 +736,7 @@ effectuated promptly." Thus Ravana hastened Maareecha. [3-42-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking Mārīca by the hand (haste gṛhītvā), Rāvaṇa spoke these words: “Yonder is seen Rāma's hermitage-site, ringed with plantain trees (kadalī-vṛtam).
+Taking Mārīca by the hand (_haste gṛhītvā_), Rāvaṇa spoke these words: “Yonder is seen Rāma&#x27;s hermitage-site, ringed with plantain trees (_kadalī-vṛtam_).
 </details>
 </details>
 
@@ -788,7 +788,7 @@ freely in the frontage of Rama's hermitage. [3-42-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let that be done quickly, my friend (sakhe), for the sake of which we have come!” Hearing Rāvaṇa's words, that rākṣasa Mārīca then—
+“Let that be done quickly, my friend (_sakhe_), for the sake of which we have come!” Hearing Rāvaṇa&#x27;s words, that _rākṣasa_ Mārīca then—
 </details>
 </details>
 
@@ -895,11 +895,11 @@ thus with very well cohered limbs that deer moved about there. [3-42-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Becoming a deer (mṛgo bhūtvā), roamed about at the entrance of Rāma's hermitage, having assumed a great form of wondrous appearance (mahad adbhuta-darśanam)—
+**15:** Becoming a deer (_mṛgo bhūtvā_), roamed about at the entrance of Rāma&#x27;s hermitage, having assumed a great form of wondrous appearance (_mahad adbhuta-darśanam_)—
 
-**16:** With the tips of his horns made of choicest sapphire-gems (maṇi-pravara-śṛṅgāgraḥ), his facial markings partly white and partly dark (sitāsita-mukhākṛtiḥ), his muzzle like a red lotus and a blue water-lily (rakta-padmotpala-mukhaḥ), and his ears like sapphires and blue lotuses (indranīlotpala-śravāḥ)—
+**16:** With the tips of his horns made of choicest sapphire-gems (_maṇi-pravara-śṛṅgāgraḥ_), his facial markings partly white and partly dark (_sitāsita-mukhākṛtiḥ_), his muzzle like a red lotus and a blue water-lily (_rakta-padmotpala-mukhaḥ_), and his ears like sapphires and blue lotuses (_indranīlotpala-śravāḥ_)—
 
-**17:** With a slightly upraised neck (kiñcid-abhyunnatagrīvaḥ), a belly gleaming like sapphire (indranīla-nibhodaraḥ), flanks resembling madhūka blossoms (madhūka-nibha-pārśvaḥ), and a hue like lotus-filaments (kañja-kiñjalka-sannibhaḥ)—
+**17:** With a slightly upraised neck (_kiñcid-abhyunnatagrīvaḥ_), a belly gleaming like sapphire (_indranīla-nibhodaraḥ_), flanks resembling _madhūka_ blossoms (_madhūka-nibha-pārśvaḥ_), and a hue like lotus-filaments (_kañja-kiñjalka-sannibhaḥ_)—
 </details>
 </details>
 
@@ -957,7 +957,7 @@ dapples, that deer moved thereabout with a heart-stealing aura. [3-42-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With hooves resembling cat's-eye gems (vaidūrya-saṅkāśa-khuraḥ), slender shanks (tanu-jaṅghaḥ), and compactly knit joints (susaṃhataḥ), he shone aloft with a tail of the hue of Indra's rainbow (indrāyudha-savarṇena pucchena).
+With hooves resembling cat&#x27;s-eye gems (_vaidūrya-saṅkāśa-khuraḥ_), slender shanks (_tanu-jaṅghaḥ_), and compactly knit joints (_susaṃhataḥ_), he shone aloft with a tail of the hue of Indra&#x27;s rainbow (_indrāyudha-savarṇena pucchena_).
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ a wink highly irradiating those woodlands, and the threshold of Rama's hermitage
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of an enchanting, glossy hue (manohara-snigdha-varṇaḥ) and overspread with gems of many kinds (ratnair nānā-vidhair vṛtaḥ), the rākṣasa in an instant became a supremely beautiful deer (mṛgaḥ parama-śobhanaḥ).
+Of an enchanting, glossy hue (_manohara-snigdha-varṇaḥ_) and overspread with gems of many kinds (_ratnair nānā-vidhair vṛtaḥ_), the _rākṣasa_ in an instant became a supremely beautiful deer (_mṛgaḥ parama-śobhanaḥ_).
 </details>
 </details>
 
@@ -1077,9 +1077,9 @@ deer in order that Vaidehi might be deluded, and he moved forward onto the pastu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Illuminating the lovely forest (vanaṃ prajvalayan ramyam) and that hermitage-site of Rāma, that rākṣasa, having assumed an enchanting and comely form (manoharaṃ darśanīyaṃ rūpam)—
+**20:** Illuminating the lovely forest (_vanaṃ prajvalayan ramyam_) and that hermitage-site of Rāma, that _rākṣasa_, having assumed an enchanting and comely form (_manoharaṃ darśanīyaṃ rūpam_)—
 
-**21:** Variegated with diverse mineral hues (nānā-dhātu-vicitritam) in order to entice Vaidehī (pralobhanārthaṃ vaidehyāḥ), he moved about on all sides over the grassy meadows (śādvalāni), grazing (vicaran) all around.
+**21:** Variegated with diverse mineral hues (_nānā-dhātu-vicitritam_) in order to entice Vaidehī (_pralobhanārthaṃ vaidehyāḥ_), he moved about on all sides over the grassy meadows (_śādvalāni_), grazing (_vicaran_) all around.
 </details>
 </details>
 
@@ -1131,7 +1131,7 @@ pleasant looks and indeed moved chewing new grass-blades of trees. [3-42-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Becoming lovely to behold and dappled with hundreds of silver spots (raupyair bindu-śataiś citram), he roamed about nibbling the tender shoots of trees (viṭapīnāṃ kisalayān bhakṣayan).
+Becoming lovely to behold and dappled with hundreds of silver spots (_raupyair bindu-śataiś citram_), he roamed about nibbling the tender shoots of trees (_viṭapīnāṃ kisalayān bhakṣayan_).
 </details>
 </details>
 
@@ -1184,7 +1184,7 @@ there around Karnikara trees, and then resorted to a place which is within the e
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going to the plantain-bower (kadalī-gṛhakam) and here and there among the karṇikāra trees, he then adopted a leisurely pace (samāśrayan manda-gatim) within range of Sītā's sight (sītā-sandarśanam).
+Going to the plantain-bower (_kadalī-gṛhakam_) and here and there among the _karṇikāra_ trees, he then adopted a leisurely pace (_samāśrayan manda-gatim_) within range of Sītā&#x27;s sight (_sītā-sandarśanam_).
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ delight. [3-42-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his back wondrously dappled like a lotus (rājīva-citra-pṛṣṭhaḥ), that great deer shone brightly; he roamed at ease (yathā-sukham) in the vicinity of Rāma's hermitage-site (rāmāśrama-padābhyāśe).
+With his back wondrously dappled like a lotus (_rājīva-citra-pṛṣṭhaḥ_), that great deer shone brightly; he roamed at ease (_yathā-sukham_) in the vicinity of Rāma&#x27;s hermitage-site (_rāmāśrama-padābhyāśe_).
 </details>
 </details>
 
@@ -1297,7 +1297,7 @@ again, and turns its tail for sometime only to return once again very playfully.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going off again and turning back (punar gatvā nivṛttaś ca), that finest of deer roamed about; darting away swiftly for a moment (gatvā muhūrtaṃ tvarayā), he would wheel round again (punaḥ pratinivartate).
+Going off again and turning back (_punar gatvā nivṛttaś ca_), that finest of deer roamed about; darting away swiftly for a moment (_gatvā muhūrtaṃ tvarayā_), he would wheel round again (_punaḥ pratinivartate_).
 </details>
 </details>
 
@@ -1350,7 +1350,7 @@ threshold of hermitage it goes towards herds of deer. [3-42-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gambolling about (vikrīḍaṃś ca), at times he sinks down upon the ground again (punar eva niṣīdati); approaching the entrance of the hermitage, he goes toward the herds of deer (mṛga-yūthāni).
+Gambolling about (_vikrīḍaṃś ca_), at times he sinks down upon the ground again (_punar eva niṣīdati_); approaching the entrance of the hermitage, he goes toward the herds of deer (_mṛga-yūthāni_).
 </details>
 </details>
 
@@ -1407,7 +1407,7 @@ that herd of deer. [3-42-27, 28a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Followed by the herds of deer (mṛga-yūthair anugataḥ), he turns back yet again—that rākṣasa who had assumed the state of a deer (mṛgatāṃ gataḥ), eagerly longing to catch sight of Sītā (sītā-darśanam ākāṅkṣan).
+Followed by the herds of deer (_mṛga-yūthair anugataḥ_), he turns back yet again—that _rākṣasa_ who had assumed the state of a deer (_mṛgatāṃ gataḥ_), eagerly longing to catch sight of Sītā (_sītā-darśanam ākāṅkṣan_).
 </details>
 </details>
 
@@ -1473,7 +1473,7 @@ them. Humans apperceive neither god nor ghost because they are half of each.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bounding forth (viniṣpatan), he wheels around in wondrous circles (citrāṇi maṇḍalāni); and beholding him, all the other woodland deer (mṛgā ye 'nye vanecarāḥ)—
+Bounding forth (_viniṣpatan_), he wheels around in wondrous circles (_citrāṇi maṇḍalāni_); and beholding him, all the other woodland deer (_mṛgā ye &#x27;nye vanecarāḥ_)—
 </details>
 </details>
 
@@ -1528,7 +1528,7 @@ indulgently, only for the reason of camouflaging his present nature of demon-hoo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching and sniffing him (upagamya samāghrāya), flee away toward the ten directions (vidravanti diśo daśa); and even though fond of slaying deer (mṛga-vadhe rataḥ), that rākṣasa [spares] those forest deer—
+Approaching and sniffing him (_upagamya samāghrāya_), flee away toward the ten directions (_vidravanti diśo daśa_); and even though fond of slaying deer (_mṛga-vadhe rataḥ_), that _rākṣasa_ [spares] those forest deer—
 </details>
 </details>
 
@@ -1607,9 +1607,9 @@ plucking flowers of Karnikaara, Ashoka, and of Mango trees. [3-42-31b, 32a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** In order to conceal his true nature (pracchādanārthaṃ bhāvasya), he merely brushes against them and does not devour them (na bhakṣayati saṃspṛśan). At that very moment (tasminn eva tataḥ kāle), the fair-eyed Vaidehī—
+**30:** In order to conceal his true nature (_pracchādanārthaṃ bhāvasya_), he merely brushes against them and does not devour them (_na bhakṣayati saṃspṛśan_). At that very moment (_tasminn eva tataḥ kāle_), the fair-eyed Vaidehī—
 
-**31:** Intent upon gathering flowers (kusumāpacaye vyagrā), she of enchanting eyes (madirekṣaṇā) passed by the trees—the karṇikāras, the aśokas, and the mangoes (cūtāṃś ca).
+**31:** Intent upon gathering flowers (_kusumāpacaye vyagrā_), she of enchanting eyes (_madirekṣaṇā_) passed by the trees—the _karṇikāras_, the _aśokas_, and the mangoes (_cūtāṃś ca_).
 </details>
 </details>
 
@@ -1663,7 +1663,7 @@ gemlike and whose limbs are surprising as though studded with pearls and gems. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Plucking blossoms (kusumāny apacinvantī), she of lovely countenance (rucirānanā) strolled about; unfit for forest-dwelling (anarhā vana-vāsasya), she [beheld] that jewel-formed deer (ratnamayaṃ mṛgam)—
+Plucking blossoms (_kusumāny apacinvantī_), she of lovely countenance (_rucirānanā_) strolled about; unfit for forest-dwelling (_anarhā vana-vāsasya_), she [beheld] that jewel-formed deer (_ratnamayaṃ mṛgam_)—
 </details>
 </details>
 
@@ -1717,7 +1717,7 @@ with an affinity for wildlife. [3-42-33b, 34a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That peerless woman (paramāṅganā) beheld him whose limbs were variegated with pearls and gems (muktā-maṇi-vicitrāṅgam), whose teeth and lips were lovely (rucira-dantoṣṭham), and whose coat gleamed like silver and mineral ores (rūpya-dhātu-tanūruham).
+That peerless woman (_paramāṅganā_) beheld him whose limbs were variegated with pearls and gems (_muktā-maṇi-vicitrāṅgam_), whose teeth and lips were lovely (_rucira-dantoṣṭham_), and whose coat gleamed like silver and mineral ores (_rūpya-dhātu-tanūruham_).
 </details>
 </details>
 
@@ -1769,7 +1769,7 @@ as though to scintillate that woodland. [3-42-34b, 35a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With her eyes wide open in wonder (vismayotphulla-nayanā), she gazed upon him affectionately (sasnehaṃ samudaikṣata); and that illusory deer (māyāmayo mṛgaḥ), beholding Rāma's beloved—
+With her eyes wide open in wonder (_vismayotphulla-nayanā_), she gazed upon him affectionately (_sasnehaṃ samudaikṣata_); and that illusory deer (_māyāmayo mṛgaḥ_), beholding Rāma&#x27;s beloved—
 </details>
 </details>
 
@@ -1837,7 +1837,7 @@ conclude that *'trust not what thy eyes show you...'*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roamed about there, as though illuminating that forest (dīpayann iva tad vanam); beholding that deer formed of diverse gems, never seen before (adṛṣṭa-pūrvam), Sītā, the daughter of Janaka, was filled with supreme wonder (vismayaṃ paramaṃ jagāma).
+Roamed about there, as though illuminating that forest (_dīpayann iva tad vanam_); beholding that deer formed of diverse gems, never seen before (_adṛṣṭa-pūrvam_), Sītā, the daughter of Janaka, was filled with supreme wonder (_vismayaṃ paramaṃ jagāma_).
 </details>
 </details>
 

@@ -61,7 +61,7 @@ After King Brahmadatta’s departure with his hundred brides, Kuśanābha perfor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that Brahmadatta, having completed his wedding rites, had departed (kṛtodvāhe gate tasmin brahmadatte ca), O Rāghava, the sonless king Kuśanābha (aputraḥ), in order to obtain a son (putralābhāya), instituted a sacrificial rite capable of bestowing a male heir (pautrīm iṣṭim akalpayat).
+“When that Brahmadatta, having completed his wedding rites, had departed (_kṛtodvāhe gate tasmin brahmadatte ca_), O Rāghava, the sonless king Kuśanābha (_aputraḥ_), in order to obtain a son (_putralābhāya_), instituted a sacrificial rite capable of bestowing a male heir (_pautrīm iṣṭim akalpayat_).
 </details>
 </details>
 
@@ -107,7 +107,7 @@ Brahma and the father of Kushanaabha, spoke to the king Kushanaabha. [1-34-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While that sacrifice was in progress (iṣṭyāṃ tu vartamānāyām), the supremely munificent Kuśa (paramodāraḥ kuśaḥ), the mind-born son of Brahmā (brahmasutaḥ), spoke at that time to King Kuśanābha:
+“While that sacrifice was in progress (_iṣṭyāṃ tu vartamānāyām_), the supremely munificent Kuśa (_paramodāraḥ kuśaḥ_), the mind-born son of Brahmā (_brahmasutaḥ_), spoke at that time to King Kuśanābha:
 </details>
 </details>
 
@@ -160,7 +160,7 @@ Kusha said to Kushanaabha. [1-34-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O my son (putra), a supremely righteous son worthy of you (putras te sadṛśaḥ sudhārmikaḥ) shall be born to you. You shall obtain Gādhi (gādhiṃ prāpsyasi), and through him you shall win everlasting renown in the world (kīrtiṃ loke ca śāśvatīm).’
+“‘O my son (_putra_), a supremely righteous son worthy of you (_putras te sadṛśaḥ sudhārmikaḥ_) shall be born to you. You shall obtain Gādhi (_gādhiṃ prāpsyasi_), and through him you shall win everlasting renown in the world (_kīrtiṃ loke ca śāśvatīm_).’
 </details>
 </details>
 
@@ -206,7 +206,7 @@ the time-honoured abode of Brahma. [1-34-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spoken thus to King Kuśanābha, O Rāma, Kuśa entered the firmament (ākāśam āviśya) and departed to the eternal world of Brahmā (jagāma brahmalokaṃ sanātanam).
+“Having spoken thus to King Kuśanābha, O Rāma, Kuśa entered the firmament (_ākāśam āviśya_) and departed to the eternal world of Brahmā (_jagāma brahmalokaṃ sanātanam_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ son known by the name Gaadhi. [1-34-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, after some time had elapsed (kasyacit tv atha kālasya), there was born to the wise Kuśanābha a supremely righteous son (jajñe paramadharmiṣṭho) known by the very name of Gādhi (gādhir ity eva nāmataḥ).
+“Then, after some time had elapsed (_kasyacit tv atha kālasya_), there was born to the wise Kuśanābha a supremely righteous son (_jajñe paramadharmiṣṭho_) known by the very name of Gādhi (_gādhir ity eva nāmataḥ_).
 </details>
 </details>
 
@@ -300,7 +300,7 @@ Sage Vishvamitra thus narrating to Rama. [1-34-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That supremely righteous Gādhi is my father (sa pitā mama gādhiḥ paramadhārmikaḥ), O Kākutstha. Because I am born in the lineage of Kuśa (kuśavaṃśaprasūto ’smi), I am known as Kauśika, O delight of the Raghus!
+“That supremely righteous Gādhi is my father (_sa pitā mama gādhiḥ paramadhārmikaḥ_), O Kākutstha. Because I am born in the lineage of Kuśa (_kuśavaṃśaprasūto ’smi_), I am known as Kauśika, O delight of the Raghus!
 </details>
 </details>
 
@@ -355,7 +355,7 @@ Satyavathi is there, oh, Raghava, and she is given in marriage to sage Ruchika.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My elder sister (pūrvajā bhaginī cāpi mama), O Rāghava, firm in her sacred vows (suvratā) and known by the name of Satyavatī (nāmnā satyavatī nāma), was given in marriage to the sage Ṛcīka (ṛcīke pratipāditā).
+“My elder sister (_pūrvajā bhaginī cāpi mama_), O Rāghava, firm in her sacred vows (_suvratā_) and known by the name of Satyavatī (_nāmnā satyavatī nāma_), was given in marriage to the sage Ṛcīka (_ṛcīke pratipāditā_).
 </details>
 </details>
 
@@ -416,7 +416,7 @@ in Greece.' Gorresio.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Faithfully following her husband (bhartāram anuvartinī), she ascended to heaven in her very body (saśarīrā gatā svargam); and that supremely munificent lady flowed forth as the great river Kauśikī (kauśikī paramodārā sā pravṛttā mahānadī).
+“Faithfully following her husband (_bhartāram anuvartinī_), she ascended to heaven in her very body (_saśarīrā gatā svargam_); and that supremely munificent lady flowed forth as the great river Kauśikī (_kauśikī paramodārā sā pravṛttā mahānadī_).
 </details>
 </details>
 
@@ -469,7 +469,7 @@ holy waves are hurled / To purify and glad the world. - Griffith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Celestial (divyā), of sanctifying waters (puṇyodakā), and enchanting (ramyā), my sister took refuge in Mount Himavān (himavantam upāśritā) and flowed forth to accomplish the welfare of the world (lokasya hitakāryārthaṃ pravṛttā).
+“Celestial (_divyā_), of sanctifying waters (_puṇyodakā_), and enchanting (_ramyā_), my sister took refuge in Mount Himavān (_himavantam upāśritā_) and flowed forth to accomplish the welfare of the world (_lokasya hitakāryārthaṃ pravṛttā_).
 </details>
 </details>
 
@@ -516,7 +516,7 @@ of Himalayas, in adjacency of my sister Kausiki in all my affection for her. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O delight of the Raghus, bound by deep affection for my sister Kauśikī (bhaginyāṃ snehasaṃyuktaḥ kauśikyām), I dwell happily on the flank of Himavān (himavatpārśve vasāmi), steadfast in my ascetic observances (niyataḥ sukham).
+“Therefore, O delight of the Raghus, bound by deep affection for my sister Kauśikī (_bhaginyāṃ snehasaṃyuktaḥ kauśikyām_), I dwell happily on the flank of Himavān (_himavatpārśve vasāmi_), steadfast in my ascetic observances (_niyataḥ sukham_).
 </details>
 </details>
 
@@ -564,7 +564,7 @@ a best river among rivers, namely River Kaushiki. [1-34-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She, the holy Satyavatī (sā tu satyavatī puṇyā), ever established in truth and righteousness (satye dharme pratiṣṭhitā), devoted to her lord (pativratā) and supremely blessed (mahābhāgā), is now Kauśikī, the foremost of rivers (saritāṃ varā).
+“She, the holy Satyavatī (_sā tu satyavatī puṇyā_), ever established in truth and righteousness (_satye dharme pratiṣṭhitā_), devoted to her lord (_pativratā_) and supremely blessed (_mahābhāgā_), is now Kauśikī, the foremost of rivers (_saritāṃ varā_).
 </details>
 </details>
 
@@ -612,7 +612,7 @@ of mine. [1-34-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bound by a special sacrificial vow (niyamāt), O Rāma, I left her banks and came hither (hitvā tāṃ samupāgataḥ); having reached Siddhāśrama (siddhāśramam anuprāptaḥ), I have now attained complete fulfilment through your radiant splendour (siddho ’smi tava tejasā).
+“Bound by a special sacrificial vow (_niyamāt_), O Rāma, I left her banks and came hither (_hitvā tāṃ samupāgataḥ_); having reached Siddhāśrama (_siddhāśramam anuprāptaḥ_), I have now attained complete fulfilment through your radiant splendour (_siddho ’smi tava tejasā_).
 </details>
 </details>
 
@@ -691,7 +691,7 @@ beget a son because is sonless. [1-34-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O Rāma, have I recounted to you the origin of myself, of my own dynasty, and of this region (eṣā mamotpattiḥ svasya vaṃśasya deśasya ca kīrtitā), O mighty-armed prince, concerning which you inquired of me (yan māṃ tvaṃ paripṛcchasi).
+“Thus, O Rāma, have I recounted to you the origin of myself, of my own dynasty, and of this region (_eṣā mamotpattiḥ svasya vaṃśasya deśasya ca kīrtitā_), O mighty-armed prince, concerning which you inquired of me (_yan māṃ tvaṃ paripṛcchasi_).
 </details>
 </details>
 
@@ -738,7 +738,7 @@ Safe you be! Let no hindrance occur for us halfway on our pathway. [1-34-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Midnight has passed (gato ’rdharātraḥ), O Kākutstha, while I have been narrating these tales (kathāḥ kathayato mama). Enter now into sleep (nidrām abhyehi), may auspiciousness attend you (bhadraṃ te), lest there be any hindrance to us on our journey tomorrow (mā bhūd vighno ’dhvanīha naḥ).
+“Midnight has passed (_gato ’rdharātraḥ_), O Kākutstha, while I have been narrating these tales (_kathāḥ kathayato mama_). Enter now into sleep (_nidrām abhyehi_), may auspiciousness attend you (_bhadraṃ te_), lest there be any hindrance to us on our journey tomorrow (_mā bhūd vighno ’dhvanīha naḥ_).
 </details>
 </details>
 
@@ -784,7 +784,7 @@ nightly sombre has pervaded all the confines. [1-34-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All the trees stand motionless (niṣpandās taravaḥ sarve), the beasts and birds have nestled into hiding (nilīnā mṛgapakṣiṇaḥ), and the quarters of the sky are enveloped in nocturnal darkness (naiśena tamasā vyāptā diśaś ca), O delight of the Raghus.
+“All the trees stand motionless (_niṣpandās taravaḥ sarve_), the beasts and birds have nestled into hiding (_nilīnā mṛgapakṣiṇaḥ_), and the quarters of the sky are enveloped in nocturnal darkness (_naiśena tamasā vyāptā diśaś ca_), O delight of the Raghus.
 </details>
 </details>
 
@@ -830,7 +830,7 @@ splendorous as though orbs of heaven are overspread on its vault. [1-34-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The evening twilight has gently faded away (śanair visṛjyate saṃdhyā); the firmament, thick with lunar mansions and stars (nakṣatratārāgahanam), shines with luminaries as though covered over with eyes (nabho netrair ivāvṛtaṃ jyotirbhir avabhāsate).
+“The evening twilight has gently faded away (_śanair visṛjyate saṃdhyā_); the firmament, thick with lunar mansions and stars (_nakṣatratārāgahanam_), shines with luminaries as though covered over with eyes (_nabho netrair ivāvṛtaṃ jyotirbhir avabhāsate_).
 </details>
 </details>
 
@@ -886,7 +886,7 @@ coolant moonbeams is rising up, gladdening the hearts of worldly beings. [1-34-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the cool-rayed moon, dispeller of the world’s darkness, is rising (uttiṣṭhate ca śītāṃśuḥ śaśī lokatamonudaḥ), gladdening with its own lustre the minds of living beings in the world (hlādayan prāṇināṃ loke manāṃsi prabhayā svayā).
+“And the cool-rayed moon, dispeller of the world’s darkness, is rising (_uttiṣṭhate ca śītāṃśuḥ śaśī lokatamonudaḥ_), gladdening with its own lustre the minds of living beings in the world (_hlādayan prāṇināṃ loke manāṃsi prabhayā svayā_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ So said Vishvamitra to Rama. [1-34-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All nocturnal creatures are roaming here and there (naiśāni sarvabhūtāni pracaranti tatas tataḥ)—hosts of yakṣas and rākṣasas, and fierce flesh-eating spirits (yakṣarākṣasasaṃghāś ca raudrāś ca piśitāśanāḥ).”
+“All nocturnal creatures are roaming here and there (_naiśāni sarvabhūtāni pracaranti tatas tataḥ_)—hosts of yakṣas and rākṣasas, and fierce flesh-eating spirits (_yakṣarākṣasasaṃghāś ca raudrāś ca piśitāśanāḥ_).”
 </details>
 </details>
 
@@ -988,7 +988,7 @@ all the other sages have revered him saying, "well-said, well-said." [1-34-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the great sage of mighty splendour fell silent (evam uktvā mahātejā virarāma mahāmuniḥ); and all the sages honoured him with acclaim, crying, “Well spoken! Well spoken!” (sādhu sādhv iti taṃ sarve munayo hy abhyapūjayan).
+Having spoken thus, the great sage of mighty splendour fell silent (_evam uktvā mahātejā virarāma mahāmuniḥ_); and all the sages honoured him with acclaim, crying, “Well spoken! Well spoken!” (_sādhu sādhv iti taṃ sarve munayo hy abhyapūjayan_).
 </details>
 </details>
 
@@ -1037,7 +1037,7 @@ applauded Vishvamitra and his dynasty. [1-34-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This dynasty of the Kuśikas is great and ever devoted to righteousness (kuśikānām ayaṃ vaṃśo mahān dharmaparaḥ sadā); the high-souled best of men born in Kuśa’s race are comparable to Brahmā himself (brahmopamā mahātmānaḥ kuśavaṃśyā narottamāḥ)!
+“This dynasty of the Kuśikas is great and ever devoted to righteousness (_kuśikānām ayaṃ vaṃśo mahān dharmaparaḥ sadā_); the high-souled best of men born in Kuśa’s race are comparable to Brahmā himself (_brahmopamā mahātmānaḥ kuśavaṃśyā narottamāḥ_)!
 </details>
 </details>
 
@@ -1091,7 +1091,7 @@ your ancestry." Thus the sages lauded Vishvamitra. [1-34-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Above all, O Viśvāmitra of mighty renown, you yourself are supremely great (viśeṣeṇa bhavān eva viśvāmitra mahāyaśaḥ); and Kauśikī, the foremost of rivers, is the illuminator of your race (kauśikī saritāṃ śreṣṭhā kulodyotakarī tava)!”
+“Above all, O Viśvāmitra of mighty renown, you yourself are supremely great (_viśeṣeṇa bhavān eva viśvāmitra mahāyaśaḥ_); and Kauśikī, the foremost of rivers, is the illuminator of your race (_kauśikī saritāṃ śreṣṭhā kulodyotakarī tava_)!”
 </details>
 </details>
 
@@ -1141,7 +1141,7 @@ lap of dusk for that day. [1-34-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus praised by those joyful tigers among sages (muditair muniśārdūlaiḥ praśastaḥ), the glorious son of Kuśika entered into sleep like the radiant sun when it has set (nidrām upāgamac chrīmān astaṃgata ivāṃśumān).
+Thus praised by those joyful tigers among sages (_muditair muniśārdūlaiḥ praśastaḥ_), the glorious son of Kuśika entered into sleep like the radiant sun when it has set (_nidrām upāgamac chrīmān astaṃgata ivāṃśumān_).
 </details>
 </details>
 
@@ -1199,6 +1199,6 @@ and glided into the lap of sleep along with Soumitri. [1-34-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma too, together with Saumitri (Lakṣmaṇa), touched with gentle wonder (kiṃcid āgatavismayaḥ), praised that tiger among sages and betook himself to sleep (praśasya muniśārdūlaṃ nidrāṃ samupasevate).
+Rāma too, together with Saumitri (Lakṣmaṇa), touched with gentle wonder (_kiṃcid āgatavismayaḥ_), praised that tiger among sages and betook himself to sleep (_praśasya muniśārdūlaṃ nidrāṃ samupasevate_).
 </details>
 </details>

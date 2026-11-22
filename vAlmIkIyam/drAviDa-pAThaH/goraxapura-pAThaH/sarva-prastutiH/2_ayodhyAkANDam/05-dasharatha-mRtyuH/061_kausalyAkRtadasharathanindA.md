@@ -83,7 +83,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma, devoted to righteousness (dharma-pare) and foremost of those who delight all hearts (ramayatāṃ vare), had departed to the forest, Kausalyā, weeping and stricken with anguish for her own son (rudatī svārtā), spoke this unto her lord:
+When Rāma, devoted to righteousness (_dharma-pare_) and foremost of those who delight all hearts (_ramayatāṃ vare_), had departed to the forest, Kausalyā, weeping and stricken with anguish for her own son (_rudatī svārtā_), spoke this unto her lord:
 </details>
 </details>
 
@@ -114,7 +114,7 @@ When Rāma, devoted to righteousness (dharma-pare) and foremost of those who del
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even though your great renown (mahad yaśaḥ) is celebrated throughout the three worlds (triṣu lokeṣu prathitam)—that this descendant of Raghu is compassionate, bountiful, and gentle of speech (sānukrośo vadānyaś ca priya-vādī ca)—
+“Even though your great renown (_mahad yaśaḥ_) is celebrated throughout the three worlds (_triṣu lokeṣu prathitam_)—that this descendant of Raghu is compassionate, bountiful, and gentle of speech (_sānukrośo vadānyaś ca priya-vādī ca_)—
 </details>
 </details>
 
@@ -166,7 +166,7 @@ foremost of men!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—yet how, O best of noble men (nara-vara-śreṣṭha), shall those two sons together with Sītā, reared in comfort (sukha-saṃvṛddhau) and now afflicted with sorrow (duḥkhitau), endure the misery of the forest (vane duḥkhaṃ sahiṣyataḥ)?
+—yet how, O best of noble men (_nara-vara-śreṣṭha_), shall those two sons together with Sītā, reared in comfort (_sukha-saṃvṛddhau_) and now afflicted with sorrow (_duḥkhitau_), endure the misery of the forest (_vane duḥkhaṃ sahiṣyataḥ_)?
 </details>
 </details>
 
@@ -218,7 +218,7 @@ really tolerate heat and cold?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How indeed shall that youthful Maithilī (sā nūnaṃ taruṇī), in the bloom of her maidenhood (śyāmā), delicate and accustomed only to ease (sukumārī sukhocitā), endure both heat and cold (uṣṇaṃ ca śītaṃ ca prasahiṣyate)?
+How indeed shall that youthful Maithilī (_sā nūnaṃ taruṇī_), in the bloom of her maidenhood (_śyāmā_), delicate and accustomed only to ease (_sukumārī sukhocitā_), endure both heat and cold (_uṣṇaṃ ca śītaṃ ca prasahiṣyate_)?
 </details>
 </details>
 
@@ -270,7 +270,7 @@ here a good food containing soups and snacks?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having partaken of fair rice-food accompanied by savory relishes and condiments (sūpadaṃśānvitaṃ śubham), how shall large-eyed Sītā subsist upon wild forest fare of nīvāra grain (vanyaṃ naivāram āhāram)?
+Having partaken of fair rice-food accompanied by savory relishes and condiments (_sūpadaṃśānvitaṃ śubham_), how shall large-eyed Sītā subsist upon wild forest fare of _nīvāra_ grain (_vanyaṃ naivāram āhāram_)?
 </details>
 </details>
 
@@ -323,7 +323,7 @@ lions, after hearing the auspicious sounds of singing and music here?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the auspicious sound of song and musical instruments (gīta-vāditra-nirghoṣam), how shall that blameless princess (aninditā) bear to hear the dreadful roar of flesh-devouring lions (kravyāda-siṃhānāṃ śabdam aśobhanam)?”
+Having heard the auspicious sound of song and musical instruments (_gīta-vāditra-nirghoṣam_), how shall that blameless princess (_aninditā_) bear to hear the dreadful roar of flesh-devouring lions (_kravyāda-siṃhānāṃ śabdam aśobhanam_)?”
 </details>
 </details>
 
@@ -383,7 +383,7 @@ is sleeping indeed with his arm as a pillow?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where indeed does that mighty-armed and great-strength prince, resembling the banner-staff of Mahendra (mahendra-dhvaja-saṅkāśaḥ), lie down to sleep, pillowing his head upon his iron-bar-like arm (bhujaṃ parigha-saṅkāśam upadhāya)?
+“Where indeed does that mighty-armed and great-strength prince, resembling the banner-staff of Mahendra (_mahendra-dhvaja-saṅkāśaḥ_), lie down to sleep, pillowing his head upon his iron-bar-like arm (_bhujaṃ parigha-saṅkāśam upadhāya_)?
 </details>
 </details>
 
@@ -436,7 +436,7 @@ locks of lotus-perfume, with eyes resembling lotus-petals and excellent?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When shall I behold again Rāma's supreme countenance (vadanam uttamam), lotus-hued (padma-varṇam), graced with lovely hair-locks (su-keśāntam), fragrant as a lotus in its breath (padma-niḥśvāsam), and lotus-eyed (puṣkarekṣaṇam)?
+When shall I behold again Rāma&#x27;s supreme countenance (_vadanam uttamam_), lotus-hued (_padma-varṇam_), graced with lovely hair-locks (_su-keśāntam_), fragrant as a lotus in its breath (_padma-niḥśvāsam_), and lotus-eyed (_puṣkarekṣaṇam_)?
 </details>
 </details>
 
@@ -490,7 +490,7 @@ Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wrought of the very essence of adamant is my heart, without a doubt (vajra-sāramayaṃ nūnaṃ hṛdayaṃ me na saṃśayaḥ), since even when I behold him not (apaśyantyā na tam), it does not split into a thousand pieces (na phalatīdaṃ sahasradhā)!
+Wrought of the very essence of adamant is my heart, without a doubt (_vajra-sāramayaṃ nūnaṃ hṛdayaṃ me na saṃśayaḥ_), since even when I behold him not (_apaśyantyā na tam_), it does not split into a thousand pieces (_na phalatīdaṃ sahasradhā_)!
 </details>
 </details>
 
@@ -543,7 +543,7 @@ of comforts to wander around in the forest in such a miserable condition."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For because of the pitiless deed committed by you after casting aside mercy (yat tvayākaruṇaṃ karma vyapohya), my kinsmen, worthy of happiness (sukhārhāḥ), have been banished and wander wretchedly in the forest (nirastāḥ paridhāvanti kṛpaṇā vane)!
+For because of the pitiless deed committed by you after casting aside mercy (_yat tvayākaruṇaṃ karma vyapohya_), my kinsmen, worthy of happiness (_sukhārhāḥ_), have been banished and wander wretchedly in the forest (_nirastāḥ paridhāvanti kṛpaṇā vane_)!
 </details>
 </details>
 
@@ -595,7 +595,7 @@ will abandon the kingdom and the treasury."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if in the fifteenth year Rāghava shall return again (pañcadaśe varṣe rāghavaḥ punar eṣyati), it does not seem credible (nopalakṣyate) that Bharata would relinquish the kingdom and the treasury (jahyād rājyaṃ ca koṣaṃ ca).
+Even if in the fifteenth year Rāghava shall return again (_pañcadaśe varṣe rāghavaḥ punar eṣyati_), it does not seem credible (_nopalakṣyate_) that Bharata would relinquish the kingdom and the treasury (_jahyād rājyaṃ ca koṣaṃ ca_).
 </details>
 </details>
 
@@ -669,9 +669,9 @@ afterwards even food as delicious as ambrosia."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Some men, they say, at a śrāddha rite first feed their own relatives (bhojayanti kila śrāddhe kecit svān eva bāndhavān), and only thereafter, when their purpose is done (kṛta-kāryāḥ), look toward the foremost of twice-born sages (dvijarṣabhān)!
+**12:** Some men, they say, at a _śrāddha_ rite first feed their own relatives (_bhojayanti kila śrāddhe kecit svān eva bāndhavān_), and only thereafter, when their purpose is done (_kṛta-kāryāḥ_), look toward the foremost of twice-born sages (_dvijarṣabhān_)!
 
-**13:** “Among them, those twice-born men who are endowed with virtues and learning (ye guṇavantaś ca vidvāṃsaś ca dvijātayaḥ), godlike in nature (suropamāḥ), do not afterward deign to accept even ambrosia (na paścāt te 'bhimanyante sudhām api).
+**13:** “Among them, those twice-born men who are endowed with virtues and learning (_ye guṇavantaś ca vidvāṃsaś ca dvijātayaḥ_), godlike in nature (_suropamāḥ_), do not afterward deign to accept even ambrosia (_na paścāt te &#x27;bhimanyante sudhām api_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ which other Brahmins have partaken, regarding it as a bull shorn of its horns."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even when it is Brahmins who have been satisfied first (brāhmaṇeṣv api tṛpteṣu), wise and foremost twice-born men (dvijarṣabhāḥ prājñāḥ) cannot brook to eat afterward (paścād bhoktuṃ nābhyupaitum alam), any more than bulls can brook the lopping of their horns (śṛṅga-cchedam ivarṣabhāḥ)!
+Even when it is Brahmins who have been satisfied first (_brāhmaṇeṣv api tṛpteṣu_), wise and foremost twice-born men (_dvijarṣabhāḥ prājñāḥ_) cannot brook to eat afterward (_paścād bhoktuṃ nābhyupaitum alam_), any more than bulls can brook the lopping of their horns (_śṛṅga-cchedam ivarṣabhāḥ_)!
 </details>
 </details>
 
@@ -779,7 +779,7 @@ enjoyed by the younger brother?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even so, O lord of the people (viśāṃ pate), why will not the eldest and most excellent brother (bhrātā jyeṣṭho variṣṭhaś ca) disdain a kingdom that has been enjoyed by his younger brother (kanīyasā bhrātrā bhuktaṃ rājyam)?
+Even so, O lord of the people (_viśāṃ pate_), why will not the eldest and most excellent brother (_bhrātā jyeṣṭho variṣṭhaś ca_) disdain a kingdom that has been enjoyed by his younger brother (_kanīyasā bhrātrā bhuktaṃ rājyam_)?
 </details>
 </details>
 
@@ -832,7 +832,7 @@ manner, Rama the tiger among men may not accept that which has been enjoyed by a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A tiger does not wish to eat prey seized by another (na pareṇāhṛtaṃ bhakṣyaṃ vyāghraḥ khāditum icchati); even so, that tiger among men (nara-vyāghraḥ) esteems not what has been licked by another (para-līḍhaṃ na manyate).
+A tiger does not wish to eat prey seized by another (_na pareṇāhṛtaṃ bhakṣyaṃ vyāghraḥ khāditum icchati_); even so, that tiger among men (_nara-vyāghraḥ_) esteems not what has been licked by another (_para-līḍhaṃ na manyate_).
 </details>
 </details>
 
@@ -885,7 +885,7 @@ posts made of trunk of Khadira tree, once used, are not put to use again in a sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Oblations, clarified butter, puroḍāśa cakes, kuśa grass, and sacrificial posts of khadira wood (yūpāś ca khādirāḥ)—once these have become used and stale (yātayāmāni), men do not employ them again in a sacrifice (na kurvanti punar adhvare).”
+Oblations, clarified butter, _puroḍāśa_ cakes, _kuśa_ grass, and sacrificial posts of _khadira_ wood (_yūpāś ca khādirāḥ_)—once these have become used and stale (_yātayāmāni_), men do not employ them again in a sacrifice (_na kurvanti punar adhvare_).”
 </details>
 </details>
 
@@ -947,7 +947,7 @@ beverage called Soma is prepared) are lost."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even so, Rāma will not deign to accept this kingdom that has been seized and enjoyed (āttam idaṃ rājyaṃ nābhimantum alam), any more than liquor drained of its essence (hṛta-sārāṃ surām iva) or a sacrifice whose Soma juice has been lost (naṣṭa-somam ivādhvaram).
+“Even so, Rāma will not deign to accept this kingdom that has been seized and enjoyed (_āttam idaṃ rājyaṃ nābhimantum alam_), any more than liquor drained of its essence (_hṛta-sārāṃ surām iva_) or a sacrifice whose Soma juice has been lost (_naṣṭa-somam ivādhvaram_).
 </details>
 </details>
 
@@ -999,7 +999,7 @@ endure even touching of its tail."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava will not brook such disrespect (naivaṃ-vidham asatkāraṃ marṣayiṣyati), any more than a mighty tiger brooks the stroking of its tail (balavān iva śārdūlo vāladher abhimarśanam).
+Rāghava will not brook such disrespect (_naivaṃ-vidham asatkāraṃ marṣayiṣyati_), any more than a mighty tiger brooks the stroking of its tail (_balavān iva śārdūlo vāladher abhimarśanam_).
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ unrighteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the worlds combined could not strike fear into him in great battle (naitasya sahitā lokā bhayaṃ kuryur mahā-mṛdhe); yet that righteous-souled prince would bind the unrighteous world to righteousness here (adharmaṃ tv iha dharmātmā lokaṃ dharmeṇa yojayet).
+All the worlds combined could not strike fear into him in great battle (_naitasya sahitā lokā bhayaṃ kuryur mahā-mṛdhe_); yet that righteous-souled prince would bind the unrighteous world to righteousness here (_adharmaṃ tv iha dharmātmā lokaṃ dharmeṇa yojayet_).
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ even the ocean itself by his golden arrows; like at the time of destruction of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Could not that prince of mighty valor and mighty arms (mahā-vīryo mahā-bhujaḥ), with his golden-shafted arrows (kāñcanair bāṇaiḥ), burn up all beings and even the oceans (bhūtāni sāgarān api nirdahet), as at the dissolution of the world-age (yugānta iva)?
+Could not that prince of mighty valor and mighty arms (_mahā-vīryo mahā-bhujaḥ_), with his golden-shafted arrows (_kāñcanair bāṇaiḥ_), burn up all beings and even the oceans (_bhūtāni sāgarān api nirdahet_), as at the dissolution of the world-age (_yugānta iva_)?
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ was ruined indeed by his own father, like killing its child-fish by an adult fis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such a bull among men, of lion-like strength and bull-like eyes (sa tādṛśaḥ siṃha-balo vṛṣabhākṣo nararṣabhaḥ), has been destroyed by his own father himself (svayam eva hataḥ pitrā), even as offspring is destroyed by a water-born fish (jalajenātmajo yathā)!”
+Such a bull among men, of lion-like strength and bull-like eyes (_sa tādṛśaḥ siṃha-balo vṛṣabhākṣo nararṣabhaḥ_), has been destroyed by his own father himself (_svayam eva hataḥ pitrā_), even as offspring is destroyed by a water-born fish (_jalajenātmajo yathā_)!”
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ born?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where is that eternal righteousness beheld in the scriptures and practiced by twice-born men (dvijāti-carito dharmaḥ śāstra-dṛṣṭaḥ sanātanaḥ) in you, when your son, devoted to righteousness, has been banished by you (yadi te dharma-nirate tvayā putre vivāsite)?
+“Where is that eternal righteousness beheld in the scriptures and practiced by twice-born men (_dvijāti-carito dharmaḥ śāstra-dṛṣṭaḥ sanātanaḥ_) in you, when your son, devoted to righteousness, has been banished by you (_yadi te dharma-nirate tvayā putre vivāsite_)?
 </details>
 </details>
 
@@ -1266,7 +1266,7 @@ third refuge is her near-relative. There is no fourth one here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A woman's first refuge is her husband (gatir ekā patir nāryāḥ), her second refuge is her son (dvitīyā gatir ātmajaḥ), and her third is her kinsfolk (tṛtīyā jñātayaḥ), O king; a fourth does not exist here in this world (caturthī neha vidyate).
+A woman&#x27;s first refuge is her husband (_gatir ekā patir nāryāḥ_), her second refuge is her son (_dvitīyā gatir ātmajaḥ_), and her third is her kinsfolk (_tṛtīyā jñātayaḥ_), O king; a fourth does not exist here in this world (_caturthī neha vidyate_).
 </details>
 </details>
 
@@ -1319,7 +1319,7 @@ a forest and I do not wish to go there. Thus, I have been ruined in all ways, by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Among these, you are no longer mine (tatra tvaṃ caiva me nāsti), and Rāma has betaken himself to the forest (rāmaś ca vanam āśritaḥ); I cannot go to the forest (na vanaṃ gantum icchāmi)—thus I have been utterly ruined by you (sarvathā hi hatā tvayā)!
+Among these, you are no longer mine (_tatra tvaṃ caiva me nāsti_), and Rāma has betaken himself to the forest (_rāmaś ca vanam āśritaḥ_); I cannot go to the forest (_na vanaṃ gantum icchāmi_)—thus I have been utterly ruined by you (_sarvathā hi hatā tvayā_)!
 </details>
 </details>
 
@@ -1381,7 +1381,7 @@ Your son Bharata and your wife Kaikeyi only are delighted."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Destroyed by you is this kingdom along with the realm (hataṃ tvayā rājyam idaṃ sa-rāṣṭram), and destroyed too is yourself together with your ministers (hatas tathātmā saha mantribhiś ca); destroyed am I along with my son, and destroyed are the citizens (hatā sa-putrāsmi hatāś ca paurāḥ)—while your son and your wife alone rejoice (sutaś ca bhāryā ca tava prahṛṣṭau)!”
+Destroyed by you is this kingdom along with the realm (_hataṃ tvayā rājyam idaṃ sa-rāṣṭram_), and destroyed too is yourself together with your ministers (_hatas tathātmā saha mantribhiś ca_); destroyed am I along with my son, and destroyed are the citizens (_hatā sa-putrāsmi hatāś ca paurāḥ_)—while your son and your wife alone rejoice (_sutaś ca bhāryā ca tava prahṛṣṭau_)!”
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ act, was entangled in grief
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this speech fraught with harsh words (imāṃ giraṃ dāruṇa-śabda-saṃśritāṃ niśamya), the king too swooned away in anguish (rājāpi mumoha duḥkhitaḥ); then that lord of the earth plunged into grief, remembering once more at that moment his own past evil deed (sva-duṣkṛtaṃ cāpi punas tadā smaran).
+Hearing this speech fraught with harsh words (_imāṃ giraṃ dāruṇa-śabda-saṃśritāṃ niśamya_), the king too swooned away in anguish (_rājāpi mumoha duḥkhitaḥ_); then that lord of the earth plunged into grief, remembering once more at that moment his own past evil deed (_sva-duṣkṛtaṃ cāpi punas tadā smaran_).
 </details>
 </details>
 

@@ -93,7 +93,7 @@ ogres:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of the lord of night-stalkers (niśācarendrasya) and the thunderous boasts (garjitāni) of Kumbhakarṇa, that Vibhīṣaṇa spoke to the chief of the Rākṣasa kings a word that was salutary and grounded in sound policy (hitam arthayuktam):
+Hearing the speech of the lord of night-stalkers (_niśācarendrasya_) and the thunderous boasts (_garjitāni_) of Kumbhakarṇa, that Vibhīṣaṇa spoke to the chief of the Rākṣasa kings a word that was salutary and grounded in sound policy (_hitam arthayuktam_):
 </details>
 </details>
 
@@ -154,7 +154,7 @@ sharp fangs as her sweet smile and with five hoods as her five fingers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why, O king, have you hung about yourself (vṛto hi tava kena) this great serpent that is Sītā (sītā-mahāhiḥ)—whose coiled body is her bosom (bāhvantara-bhogarāśiḥ), whose venom is the anxiety she breeds (cintāviṣaḥ), whose sharp fangs are her gentle smiles (susmita-tīkṣṇadaṃṣṭraḥ), and whose five heads and vast frame are her five fingers (pañcāṅgulī-pañcaśiro-'tikāyaḥ)?
+“Why, O king, have you hung about yourself (_vṛto hi tava kena_) this great serpent that is Sītā (_sītā-mahāhiḥ_)—whose coiled body is her bosom (_bāhvantara-bhogarāśiḥ_), whose venom is the anxiety she breeds (_cintāviṣaḥ_), whose sharp fangs are her gentle smiles (_susmita-tīkṣṇadaṃṣṭraḥ_), and whose five heads and vast frame are her five fingers (_pañcāṅgulī-pañcaśiro-&#x27;tikāyaḥ_)?
 </details>
 </details>
 
@@ -214,7 +214,7 @@ and nails as weapons, rush full upon the city of Lanka, give back Sita to Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before the monkeys (balīmukhāḥ), huge as mountain peaks (parvatakūṭamātrāḥ) and armed with fangs and claws (daṃṣṭrāyudhāś caiva nakhāyudhāś ca), storm Laṅkā (laṅkāṃ samabhidravanti), let Maithilī be given back to the son of Daśaratha!
+“Before the monkeys (_balīmukhāḥ_), huge as mountain peaks (_parvatakūṭamātrāḥ_) and armed with fangs and claws (_daṃṣṭrāyudhāś caiva nakhāyudhāś ca_), storm Laṅkā (_laṅkāṃ samabhidravanti_), let Maithilī be given back to the son of Daśaratha!
 </details>
 </details>
 
@@ -266,7 +266,7 @@ dispatched by Rama, take away the heads of chiefs of demons, give back Sita to R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before the arrows sped by Rāma (bāṇā rāmeritāḥ), resembling thunderbolts and matching the wind in speed (vāyusamānavegāḥ), carry off the heads of the foremost Rākṣasas (rākṣasapuṃgavānām), let Maithilī be given back to the son of Daśaratha!
+“Before the arrows sped by Rāma (_bāṇā rāmeritāḥ_), resembling thunderbolts and matching the wind in speed (_vāyusamānavegāḥ_), carry off the heads of the foremost Rākṣasas (_rākṣasapuṃgavānām_), let Maithilī be given back to the son of Daśaratha!
 </details>
 </details>
 
@@ -322,7 +322,7 @@ either Nikumbha or Kumbha or even Atikaya cannot withstand Rama in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither Kumbhakarṇa and Indrajit, O king, nor Mahāpārśva and Mahodara, nor Nikumbha, Kumbha, and Atikāya are capable of standing against Rāghava in battle (sthātuṃ samarthā yudhi rāghavasya).
+“Neither Kumbhakarṇa and Indrajit, O king, nor Mahāpārśva and Mahodara, nor Nikumbha, Kumbha, and Atikāya are capable of standing against Rāghava in battle (_sthātuṃ samarthā yudhi rāghavasya_).
 </details>
 </details>
 
@@ -388,7 +388,7 @@ the earth you will not be spared by the arrows of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And you shall not escape alive from Rāma (jīvaṃs tu rāmasya na mokṣyase tvam), even if guarded by Savitṛ [the Sun] or by the Maruts, nor by betaking yourself to the lap of Vāsava [Indra] or of Death (mṛtyoḥ), nor by entering the sky or the netherworld (pātālam anupraviṣṭaḥ)!”
+“And you shall not escape alive from Rāma (_jīvaṃs tu rāmasya na mokṣyase tvam_), even if guarded by Savitṛ [the Sun] or by the Maruts, nor by betaking yourself to the lap of Vāsava [Indra] or of Death (_mṛtyoḥ_), nor by entering the sky or the netherworld (_pātālam anupraviṣṭaḥ_)!”
 </details>
 </details>
 
@@ -448,7 +448,7 @@ fear at all. We do not have fear of either celestials or demons at any time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Vibhīṣaṇa, Prahasta then spoke this word: “We never know fear (na no bhayaṃ vidma) either from the gods or from the Dānavas at any time (kadācit),
+Hearing the speech of Vibhīṣaṇa, Prahasta then spoke this word: “We never know fear (_na no bhayaṃ vidma_) either from the gods or from the Dānavas at any time (_kadācit_),
 </details>
 </details>
 
@@ -501,7 +501,7 @@ the case, how can we have fear from Rama, the son of a human king at any time in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“nor have we fear in battle (saṃkhye) from Yakṣas, Gandharvas, and great serpents (mahoragebhyaḥ), or from Garuḍas and reptiles (patagoragebhyaḥ). How then shall fear ever arise for us in combat (kathaṃ nu rāmād bhavitā bhayaṃ naḥ) from Rāma, the son of a mortal king (narendraputrāt)?”
+“nor have we fear in battle (_saṃkhye_) from Yakṣas, Gandharvas, and great serpents (_mahoragebhyaḥ_), or from Garuḍas and reptiles (_patagoragebhyaḥ_). How then shall fear ever arise for us in combat (_kathaṃ nu rāmād bhavitā bhayaṃ naḥ_) from Rāma, the son of a mortal king (_narendraputrāt_)?”
 </details>
 </details>
 
@@ -562,7 +562,7 @@ words as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the pernicious speech (ahitaṃ vākyam) of Prahasta, Vibhīṣaṇa, who desired the welfare of the king (rājahitānukāṅkṣī) and whose intellect was established in duty, policy, and pleasure (dharmārthakāmeṣu niviṣṭabuddhiḥ), then spoke a word of great import (mahārthaṃ vacanam):
+Hearing the pernicious speech (_ahitaṃ vākyam_) of Prahasta, Vibhīṣaṇa, who desired the welfare of the king (_rājahitānukāṅkṣī_) and whose intellect was established in duty, policy, and pleasure (_dharmārthakāmeṣu niviṣṭabuddhiḥ_), then spoke a word of great import (_mahārthaṃ vacanam_):
 </details>
 </details>
 
@@ -620,7 +620,7 @@ to heaven by wicked minded persons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Prahasta, the things that the king, Mahodara, you, and Kumbhakarṇa declare (bravīta) regarding Rāma cannot be accomplished (tan na śakyam), just as going to heaven is impossible for one of unrighteous mind (yathā gatiḥ svargam adharmabuddheḥ).
+“O Prahasta, the things that the king, Mahodara, you, and Kumbhakarṇa declare (_bravīta_) regarding Rāma cannot be accomplished (_tan na śakyam_), just as going to heaven is impossible for one of unrighteous mind (_yathā gatiḥ svargam adharmabuddheḥ_).
 </details>
 </details>
 
@@ -676,7 +676,7 @@ in all matters, any more than a person without a bark to cross a great ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How, O Prahasta, could the slaying of Rāma, who is skilled in every purpose (arthaviśāradasya), be accomplished by me, by you, or even by all the Rākṣasas—any more than crossing the great ocean is possible for one without a boat (mahārṇavaṃ tartum ivāplavasya)?
+“How, O Prahasta, could the slaying of Rāma, who is skilled in every purpose (_arthaviśāradasya_), be accomplished by me, by you, or even by all the Rākṣasas—any more than crossing the great ocean is possible for one without a boat (_mahārṇavaṃ tartum ivāplavasya_)?
 </details>
 </details>
 
@@ -737,7 +737,7 @@ capable of accomplishing his objects."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before such a king—who holds dharma supreme (dharmapradhānasya), is a great chariot-warrior (mahārathasya), is born in the lineage of Ikṣvāku, and is capable in all undertakings (kṛtyeṣu śaktasya)—even the gods become bewildered (devāś ca bhavanti mūḍhāḥ).
+“Before such a king—who holds _dharma_ supreme (_dharmapradhānasya_), is a great chariot-warrior (_mahārathasya_), is born in the lineage of Ikṣvāku, and is capable in all undertakings (_kṛtyeṣu śaktasya_)—even the gods become bewildered (_devāś ca bhavanti mūḍhāḥ_).
 </details>
 </details>
 
@@ -806,7 +806,7 @@ That is why, you indulge in a boastful talk."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sharp, heron-feathered (kaṅkapatrāḥ), irresistible arrows loosed by Rāghava (rāghavavipramuktāḥ) have not yet pierced your body and entered in, O Prahasta; for that reason alone do you boast (tenaiva vikatthase tvam)!
+“Sharp, heron-feathered (_kaṅkapatrāḥ_), irresistible arrows loosed by Rāghava (_rāghavavipramuktāḥ_) have not yet pierced your body and entered in, O Prahasta; for that reason alone do you boast (_tenaiva vikatthase tvam_)!
 </details>
 </details>
 
@@ -867,7 +867,7 @@ talk."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whetted shafts loosed by Rāghava, life-ending (prāṇāntikāḥ) and matching the thunderbolt in speed (aśanitulya-vegāḥ), have not yet cloven your frame and entered in, O Prahasta; for that reason alone do you boast!
+“Whetted shafts loosed by Rāghava, life-ending (_prāṇāntikāḥ_) and matching the thunderbolt in speed (_aśanitulya-vegāḥ_), have not yet cloven your frame and entered in, O Prahasta; for that reason alone do you boast!
 </details>
 </details>
 
@@ -932,7 +932,7 @@ battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither Rāvaṇa, nor the exceedingly mighty Triśīrṣa [Triśiras], nor Kumbhakarṇa's son Nikumbha, nor Indrajit, nor you are capable of withstanding (pravoḍhuṃ samarthaḥ) Daśaratha's son, who equals Śakra [Indra] in battle.
+“Neither Rāvaṇa, nor the exceedingly mighty Triśīrṣa [Triśiras], nor Kumbhakarṇa&#x27;s son Nikumbha, nor Indrajit, nor you are capable of withstanding (_pravoḍhuṃ samarthaḥ_) Daśaratha&#x27;s son, who equals Śakra [Indra] in battle.
 </details>
 </details>
 
@@ -991,7 +991,7 @@ Akampana who is mighty as an ocean are not capable to withstand against Rama in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither Devāntaka, nor Narāntaka, nor the huge-bodied (mahātmā) super-charioteer Atikāya (atikāyo 'tirathaḥ), nor Akampana whose strength matches a mountain (adrisamānasāraḥ), are able to stand against Rāghava in battle (sthātuṃ na śaktā yudhi rāghavasya).
+“Neither Devāntaka, nor Narāntaka, nor the huge-bodied (_mahātmā_) super-charioteer Atikāya (_atikāyo &#x27;tirathaḥ_), nor Akampana whose strength matches a mountain (_adrisamānasāraḥ_), are able to stand against Rāghava in battle (_sthātuṃ na śaktā yudhi rāghavasya_).
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ hunting and gambling.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this king—harsh by nature (tīkṣṇaḥ prakṛtyā), acting without reflection (asamīkṣakārī), and overwhelmed by vices (vyasanābhibhūtaḥ)—is waited upon (anvāsyate) for the destruction of the Rākṣasas (rākṣasanāśanārthe) by you who are friends resembling foes (mitrair amitrapratimaiḥ)!
+“And this king—harsh by nature (_tīkṣṇaḥ prakṛtyā_), acting without reflection (_asamīkṣakārī_), and overwhelmed by vices (_vyasanābhibhūtaḥ_)—is waited upon (_anvāsyate_) for the destruction of the Rākṣasas (_rākṣasanāśanārthe_) by you who are friends resembling foes (_mitrair amitrapratimaiḥ_)!
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ free."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Lift up and rescue (utkṣipya vimocayantu) this king, who has been forcibly coiled around (balāt parikṣiptam) by a terrible, mighty, thousand-headed serpent (sahasramūrdhnā nāgena) of infinite coils (anantabhogena)!
+“Lift up and rescue (_utkṣipya vimocayantu_) this king, who has been forcibly coiled around (_balāt parikṣiptam_) by a terrible, mighty, thousand-headed serpent (_sahasramūrdhnā nāgena_) of infinite coils (_anantabhogena_)!
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ taken ossession of by evil spirits with terrific strength, is protected by one's
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even up to seizing him by the hair (yāvad dhi keśagrahaṇāt), all friends whose desires have been fulfilled (suhṛdbhiḥ sarvaiḥ paripūrṇakāmaiḥ) must unite, forcibly restrain (nigṛhya), and protect the king, just as one possessed by spirits of terrible might (bhūtair yathā bhīmabalair gṛhītaḥ) [is restrained].
+“Even up to seizing him by the hair (_yāvad dhi keśagrahaṇāt_), all friends whose desires have been fulfilled (_suhṛdbhiḥ sarvaiḥ paripūrṇakāmaiḥ_) must unite, forcibly restrain (_nigṛhya_), and protect the king, just as one possessed by spirits of terrible might (_bhūtair yathā bhīmabalair gṛhītaḥ_) [is restrained].
 </details>
 </details>
 
@@ -1266,7 +1266,7 @@ Rama, is fit to be rescued united by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Being overwhelmed violently by the fair-watered Rāghava-ocean (suvāriṇā rāghavasāgareṇa pracchādyamānaḥ), and falling into the submarine-fire jaws of Kākutstha (kākutstha-pātālamukhe patan), this [king] ought to be rescued by you uniting together (bhavadbhiḥ sametya tārayituṃ yuktaḥ)!
+“Being overwhelmed violently by the fair-watered Rāghava-ocean (_suvāriṇā rāghavasāgareṇa pracchādyamānaḥ_), and falling into the submarine-fire jaws of Kākutstha (_kākutstha-pātālamukhe patan_), this [king] ought to be rescued by you uniting together (_bhavadbhiḥ sametya tārayituṃ yuktaḥ_)!
 </details>
 </details>
 
@@ -1324,7 +1324,7 @@ Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I speak my counsel (svamataṃ bravīmi), a word truly salutary (pathyam) for this city together with its Rākṣasas and for the king together with his friends: let him give Maithilī back to the son of the king of men (narendraputrāya dadātu maithilīm)!
+“I speak my counsel (_svamataṃ bravīmi_), a word truly salutary (_pathyam_) for this city together with its Rākṣasas and for the king together with his friends: let him give Maithilī back to the son of the king of men (_narendraputrāya dadātu maithilīm_)!
 </details>
 </details>
 
@@ -1403,6 +1403,6 @@ king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascertained the prowess of the enemy and one's own strength (parasya vīryaṃ svabalaṃ ca buddhvā), and having reflected with discernment (anumṛśya buddhyā) upon stasis, decline, and growth (sthānaṃ kṣayaṃ caiva tathaiva vṛddhim) in one's own party as well, a minister should speak what is fitting and beneficial to his lord (kṣamaṃ svāmihitaṃ sa mantrī).”
+“Having ascertained the prowess of the enemy and one&#x27;s own strength (_parasya vīryaṃ svabalaṃ ca buddhvā_), and having reflected with discernment (_anumṛśya buddhyā_) upon stasis, decline, and growth (_sthānaṃ kṣayaṃ caiva tathaiva vṛddhim_) in one&#x27;s own party as well, a minister should speak what is fitting and beneficial to his lord (_kṣamaṃ svāmihitaṃ sa mantrī_).”
 </details>
 </details>

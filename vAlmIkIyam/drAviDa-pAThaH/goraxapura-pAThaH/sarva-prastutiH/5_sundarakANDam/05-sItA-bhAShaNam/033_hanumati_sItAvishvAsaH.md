@@ -95,9 +95,9 @@ on his head and spoke the following sweet words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Descending from that tree (avatīrya drumāt tasmāt), he of coral-like countenance (vidruma-pratimānanaḥ), humble in attire and moved with pity (kṛpaṇaḥ), bowed low and drew near.
+**1:** Descending from that tree (_avatīrya drumāt tasmāt_), he of coral-like countenance (_vidruma-pratimānanaḥ_), humble in attire and moved with pity (_kṛpaṇaḥ_), bowed low and drew near.
 
-**2:** Placing his joined palms upon his head (śirasy añjalim ādhāya), Hanūmān of mighty splendor, the son of the Wind-god, spoke to Sītā in a sweet voice (madhurayā girā):
+**2:** Placing his joined palms upon his head (_śirasy añjalim ādhāya_), Hanūmān of mighty splendor, the son of the Wind-god, spoke to Sītā in a sweet voice (_madhurayā girā_):
 </details>
 </details>
 
@@ -176,9 +176,9 @@ Why?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “Who are you, O lotus-petal-eyed lady (padma-palāśākṣi), clad in a worn silken garment (kliṣṭa-kauśeya-vāsini), who stand holding a branch of the tree, O blameless one?
+**3:** “Who are you, O lotus-petal-eyed lady (_padma-palāśākṣi_), clad in a worn silken garment (_kliṣṭa-kauśeya-vāsini_), who stand holding a branch of the tree, O blameless one?
 
-**4:** Why does the tear-water born of grief (vāri śokajam) flow from your eyes, like water scattered from a pair of white lotus petals (puṇḍarīka-palāśābhyāṃ viprakīrṇam ivodakam)?
+**4:** Why does the tear-water born of grief (_vāri śokajam_) flow from your eyes, like water scattered from a pair of white lotus petals (_puṇḍarīka-palāśābhyāṃ viprakīrṇam ivodakam_)?
 </details>
 </details>
 
@@ -263,9 +263,9 @@ storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Of the gods or the asuras, or of the nāgas, gandharvas, and rākṣasas, or of the yakṣas and kinnaras, who are you, O lovely lady (kā tvaṃ bhavasi śobhane)?
+**5:** Of the gods or the _asuras_, or of the _nāgas_, _gandharvas_, and _rākṣasas_, or of the _yakṣas_ and _kinnaras_, who are you, O lovely lady (_kā tvaṃ bhavasi śobhane_)?
 
-**6:** Who are you among the Rudras or the Maruts, O fair-faced one (varānane)? Or among the Vasus, O comely-hipped lady (varārohe)? You appear to me to be a goddess (devatā pratibhāsi me)!
+**6:** Who are you among the Rudras or the Maruts, O fair-faced one (_varānane_)? Or among the Vasus, O comely-hipped lady (_varārohe_)? You appear to me to be a goddess (_devatā pratibhāsi me_)!
 </details>
 </details>
 
@@ -328,7 +328,7 @@ excellent among stars."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Could you be Rohiṇī, foremost among the luminaries (jyotiṣāṃ śreṣṭhā), preeminent and surpassing all in virtues (sarva-guṇādhikā), fallen from the abode of the gods and parted from the Moon (candramasā hīnā)?
+Could you be Rohiṇī, foremost among the luminaries (_jyotiṣāṃ śreṣṭhā_), preeminent and surpassing all in virtues (_sarva-guṇādhikā_), fallen from the abode of the gods and parted from the Moon (_candramasā hīnā_)?
 </details>
 </details>
 
@@ -383,7 +383,7 @@ sage either by anger or by error?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or are you auspicious Arundhatī (kalyāṇy arundhatī), O dark-eyed lady (asitekṣaṇe), having provoked your husband Vasiṣṭha to anger out of wrath or delusion (kopād vā yadi vā mohāt)?
+Or are you auspicious Arundhatī (_kalyāṇy arundhatī_), O dark-eyed lady (_asitekṣaṇe_), having provoked your husband Vasiṣṭha to anger out of wrath or delusion (_kopād vā yadi vā mohāt_)?
 </details>
 </details>
 
@@ -436,7 +436,7 @@ father or brother or husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who is your son, father, brother, or husband, O slender-waisted lady (sumadhyame), gone from this world to the yonder world (asmāl lokād amuṃ lokaṃ gatam), for whom you grieve?
+Who is your son, father, brother, or husband, O slender-waisted lady (_sumadhyame_), gone from this world to the yonder world (_asmāl lokād amuṃ lokaṃ gatam_), for whom you grieve?
 </details>
 </details>
 
@@ -509,9 +509,9 @@ of an emperor and the daughter of a king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Yet from your weeping, your deep sighing, and your touching of the bare earth (rodanād atiniḥśvāsād bhūmi-saṃsparśanād api), as well as from your constant utterance of a king’s name (rājñaḥ saṃjñāvadhāraṇāt), I do not deem you a celestial goddess.
+**10:** Yet from your weeping, your deep sighing, and your touching of the bare earth (_rodanād atiniḥśvāsād bhūmi-saṃsparśanād api_), as well as from your constant utterance of a king’s name (_rājñaḥ saṃjñāvadhāraṇāt_), I do not deem you a celestial goddess.
 
-**11:** For by the outward tokens and auspicious bodily marks (vyañjanāni hi te yāni lakṣaṇāni ca) that I observe in you, you are deemed by me to be the consecrated queen of an earth-ruler and a king’s daughter (mahiṣī bhūmipālasya rāja-kanyā ca me matā).
+**11:** For by the outward tokens and auspicious bodily marks (_vyañjanāni hi te yāni lakṣaṇāni ca_) that I observe in you, you are deemed by me to be the consecrated queen of an earth-ruler and a king’s daughter (_mahiṣī bhūmipālasya rāja-kanyā ca me matā_).
 </details>
 </details>
 
@@ -566,7 +566,7 @@ please!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you are Sītā, forcibly carried off by Rāvaṇa from Janasthāna (janasthānād balāt pramathitā yadi), may auspiciousness attend you (bhadraṃ te)—declare that to me as I ask!”
+If you are Sītā, forcibly carried off by Rāvaṇa from Janasthāna (_janasthānād balāt pramathitā yadi_), may auspiciousness attend you (_bhadraṃ te_)—declare that to me as I ask!”
 </details>
 </details>
 
@@ -620,7 +620,7 @@ austerity, surely you are Rama's wife."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For just as are your piteous plight (dainyaṃ) and your superhuman beauty (rūpaṃ cāpy atimānuṣam), and your attire endowed with asceticism (tapasā cānvito veṣaḥ), you are assuredly Rāma’s consecrated queen (tvaṃ rāma-mahiṣī dhruvam)!”
+“For just as are your piteous plight (_dainyaṃ_) and your superhuman beauty (_rūpaṃ cāpy atimānuṣam_), and your attire endowed with asceticism (_tapasā cānvito veṣaḥ_), you are assuredly Rāma’s consecrated queen (_tvaṃ rāma-mahiṣī dhruvam_)!”
 </details>
 </details>
 
@@ -675,7 +675,7 @@ who was dwelling on a tree.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing his words and gladdened by the glorification of Rāma (rāma-kīrtana-harṣitā), Vaidehī spoke these words to Hanūmān, who stood by the tree (drumāśritam):
+Hearing his words and gladdened by the glorification of Rāma (_rāma-kīrtana-harṣitā_), Vaidehī spoke these words to Hanūmān, who stood by the tree (_drumāśritam_):
 </details>
 </details>
 
@@ -745,9 +745,9 @@ the nature of the spirit and who torments the army of the adversary."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “Of Daśaratha, the foremost among lion-like kings upon the earth (pṛthivyāṃ rāja-siṃhānāṃ mukhyasya), of renowned soul and destroyer of enemy hosts (śatru-sainya-praṇāśinaḥ), I am the daughter-in-law (snuṣā).
+**15:** “Of Daśaratha, the foremost among lion-like kings upon the earth (_pṛthivyāṃ rāja-siṃhānāṃ mukhyasya_), of renowned soul and destroyer of enemy hosts (_śatru-sainya-praṇāśinaḥ_), I am the daughter-in-law (_snuṣā_).
 
-**16:** I am the daughter of high-souled Janaka, King of Videha (vaidehasya mahātmanaḥ); called Sītā by name (sīteti nāmnā coktāham), I am the wife of wise Rāma (bhāryā rāmasya dhīmataḥ).
+**16:** I am the daughter of high-souled Janaka, King of Videha (_vaidehasya mahātmanaḥ_); called Sītā by name (_sīteti nāmnā coktāham_), I am the wife of wise Rāma (_bhāryā rāmasya dhīmataḥ_).
 </details>
 </details>
 
@@ -803,7 +803,7 @@ kind and fulfilling all my desires."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For twelve years I dwelt there in Rāghava’s palace (rāghavasya niveśane), enjoying human pleasures (bhuñjānā mānuṣān bhogān) and richly endowed with every wished-for object (sarva-kāma-samṛddhinī).
+For twelve years I dwelt there in Rāghava’s palace (_rāghavasya niveśane_), enjoying human pleasures (_bhuñjānā mānuṣān bhogān_) and richly endowed with every wished-for object (_sarva-kāma-samṛddhinī_).
 </details>
 </details>
 
@@ -856,7 +856,7 @@ anointment of the kingdom to Rama, a celebrity of Ikshvaku dynasty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in the thirteenth year (tatas trayodaśe varṣe), the king, together with his preceptors (sopādhyāyaḥ), set about to consecrate the delight of the Ikṣvākus in the sovereignty (rājye cekṣvāku-nandanam abhiṣecayitum).
+Then in the thirteenth year (_tatas trayodaśe varṣe_), the king, together with his preceptors (_sopādhyāyaḥ_), set about to consecrate the delight of the Ikṣvākus in the sovereignty (_rājye cekṣvāku-nandanam abhiṣecayitum_).
 </details>
 </details>
 
@@ -919,7 +919,7 @@ to Dasaratha, her husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that consecration of Rāghava was being prepared (tasmin sambhriyamāṇe tu rāghavasyābhiṣecane), she named Kaikeyī spoke these words to her husband (bhartāram idaṃ vacanam abravīt):
+While that consecration of Rāghava was being prepared (_tasmin sambhriyamāṇe tu rāghavasyābhiṣecane_), she named Kaikeyī spoke these words to her husband (_bhartāram idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -952,7 +952,7 @@ While that consecration of Rāghava was being prepared (tasmin sambhriyamāṇe 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘I shall neither drink nor eat my daily food (pratyaham mama bhojanam)! This shall be the end of my life (eṣa me jīvitasyāntaḥ) if Rāma is consecrated (rāmo yady abhiṣicyate)!
+‘I shall neither drink nor eat my daily food (_pratyaham mama bhojanam_)! This shall be the end of my life (_eṣa me jīvitasyāntaḥ_) if Rāma is consecrated (_rāmo yady abhiṣicyate_)!
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ going to be a waste, let Rama go to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If that word spoken by you out of affection, O foremost of kings (pṛītyā nṛpati-sattama), is not to be made false (tac cen na vitathaṃ kāryam), let Rāghava go to the forest (vanaṃ gacchatu rāghavaḥ)!’
+If that word spoken by you out of affection, O foremost of kings (_pṛītyā nṛpati-sattama_), is not to be made false (_tac cen na vitathaṃ kāryam_), let Rāghava go to the forest (_vanaṃ gacchatu rāghavaḥ_)!’
 </details>
 </details>
 
@@ -1072,7 +1072,7 @@ queen, King Dasaratha who was true to his word, fell unconscious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Remembering the bestowal of the boon upon the queen (devyā varadānam anusmaran), that truthful-spoken king (sa rājā satya-vāk) swooned upon hearing Kaikeyī’s cruel and unwelcome speech (vacanaṃ śrutvā kaikeyyāḥ krūram apriyam).
+Remembering the bestowal of the boon upon the queen (_devyā varadānam anusmaran_), that truthful-spoken king (_sa rājā satya-vāk_) swooned upon hearing Kaikeyī’s cruel and unwelcome speech (_vacanaṃ śrutvā kaikeyyāḥ krūram apriyam_).
 </details>
 </details>
 
@@ -1127,7 +1127,7 @@ his illustrious eldest son to give back the kingdom, which he bestowed him earli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that aged king, firmly established in the dharma of truth (satya-dharme vyavasthitaḥ), weeping (rudan), begged the kingdom from his eldest, illustrious son (jyeṣṭhaṃ yaśasvinaṃ putraṃ rājyam ayācata).
+Then that aged king, firmly established in the _dharma_ of truth (_satya-dharme vyavasthitaḥ_), weeping (_rudan_), begged the kingdom from his eldest, illustrious son (_jyeṣṭhaṃ yaśasvinaṃ putraṃ rājyam ayācata_).
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ his anointment to the kingdom and accepted them with his word."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having first accepted with his mind (manasā pūrvam āsādya) his father’s word as dearer even than consecration (abhiṣekāt paraṃ priyam), that glorious prince then accepted it with his voice (vācā pratigṛhītavān).
+Having first accepted with his mind (_manasā pūrvam āsādya_) his father’s word as dearer even than consecration (_abhiṣekāt paraṃ priyam_), that glorious prince then accepted it with his voice (_vācā pratigṛhītavān_).
 </details>
 </details>
 
@@ -1244,7 +1244,7 @@ He does not speak just a little of a disagreeable word even for the cause of his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He would give and never take back (dadyān na pratigṛhṇīyāt); he would speak truth and never falsehood (satyaṃ brūyān na cānṛtam), even for the sake of his own life—for Rāma is of true valor (rāmaḥ satya-parākramaḥ).
+He would give and never take back (_dadyān na pratigṛhṇīyāt_); he would speak truth and never falsehood (_satyaṃ brūyān na cānṛtam_), even for the sake of his own life—for Rāma is of true valor (_rāmaḥ satya-parākramaḥ_).
 </details>
 </details>
 
@@ -1297,7 +1297,7 @@ illustrious Rama gave up his kingdom willingly and assigned me to his mother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laying aside his costly upper garments (vihāyottarīyāṇi mahārhāṇi) and renouncing the kingdom with his mind (visṛjya manasā rājyam), he of mighty renown entrusted me to his mother (jananyai māṃ samādiśat).
+Laying aside his costly upper garments (_vihāyottarīyāṇi mahārhāṇi_) and renouncing the kingdom with his mind (_visṛjya manasā rājyam_), he of mighty renown entrusted me to his mother (_jananyai māṃ samādiśat_).
 </details>
 </details>
 
@@ -1350,7 +1350,7 @@ to proceed to the forest and soon was ready to start even ahead of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I, however, swiftly set forth ahead of him as a forest-wanderer (tasyāgratas tūrṇaṃ prasthitā vana-cāriṇī); for parted from him, even dwelling in heaven does not please me (na hi me tena hīnāyā vāsaḥ svarge 'pi rocate).
+I, however, swiftly set forth ahead of him as a forest-wanderer (_tasyāgratas tūrṇaṃ prasthitā vana-cāriṇī_); for parted from him, even dwelling in heaven does not please me (_na hi me tena hīnāyā vāsaḥ svarge &#x27;pi rocate_).
 </details>
 </details>
 
@@ -1412,7 +1412,7 @@ to follow his elder brother even before (me)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even before that (prāg eva tu), the illustrious Saumitri [Lakṣmaṇa], gladdener of his friends (mitra-nandanaḥ), adorned himself with kuśa grass and bark-garments (kuśa-cīrair alaṃkṛtaḥ) in order to follow his elder brother (pūrvajasyānuyātrārthe).
+Even before that (_prāg eva tu_), the illustrious Saumitri [Lakṣmaṇa], gladdener of his friends (_mitra-nandanaḥ_), adorned himself with _kuśa_ grass and bark-garments (_kuśa-cīrair alaṃkṛtaḥ_) in order to follow his elder brother (_pūrvajasyānuyātrārthe_).
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ the forest, which we have never seen before and which was deep and profound in a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Holding our lord’s command in high honor (bhartur ādeśaṃ bahu-mānya) and firm in our vows (dṛḍha-vratāḥ), we entered the forest never seen before (purādṛṣṭaṃ vanam), deep and awesome to behold (gambhīra-darśanam).
+Holding our lord’s command in high honor (_bhartur ādeśaṃ bahu-mānya_) and firm in our vows (_dṛḍha-vratāḥ_), we entered the forest never seen before (_purādṛṣṭaṃ vanam_), deep and awesome to behold (_gambhīra-darśanam_).
 </details>
 </details>
 
@@ -1517,7 +1517,7 @@ took me, Rama's wife, away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While he of boundless energy was dwelling in the Daṇḍaka forest (vasato daṇḍakāraṇye tasyāmitaujasaḥ), I, his wife, was abducted by the wicked rākṣasa Rāvaṇa (rakṣasāpahṛtā bhāryā rāvaṇena durātmanā).
+While he of boundless energy was dwelling in the Daṇḍaka forest (_vasato daṇḍakāraṇye tasyāmitaujasaḥ_), I, his wife, was abducted by the wicked _rākṣasa_ Rāvaṇa (_rakṣasāpahṛtā bhāryā rāvaṇena durātmanā_).
 </details>
 </details>
 
@@ -1581,7 +1581,7 @@ the said two months, I shall give up my life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A period of two months has been granted to me by him as a reprieve for my life (dvau māsau tena me kālo jīvitānugrahaḥ kṛtaḥ); after those two months (ūrdhvaṃ dvābhyāṃ tu māsābhyām), I shall then abandon my life (tatas tyakṣyāmi jīvitam)!”
+A period of two months has been granted to me by him as a reprieve for my life (_dvau māsau tena me kālo jīvitānugrahaḥ kṛtaḥ_); after those two months (_ūrdhvaṃ dvābhyāṃ tu māsābhyām_), I shall then abandon my life (_tatas tyakṣyāmi jīvitam_)!”
 </details>
 </details>
 

@@ -48,7 +48,7 @@ As Brahmā’s boon-born sleep descends visibly upon Kumbhakarṇa, he begs Rāv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, after some time had elapsed (kālena kenacit), an intense sleep, sent forth by the Lord of the Worlds [Brahmā] (lokeśvarotsṛṣṭā) and taking visible form (rūpiṇī), came upon Kumbhakarṇa (kumbhakarṇasya).
+Then, after some time had elapsed (_kālena kenacit_), an intense sleep, sent forth by the Lord of the Worlds [Brahmā] (_lokeśvarotsṛṣṭā_) and taking visible form (_rūpiṇī_), came upon Kumbhakarṇa (_kumbhakarṇasya_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Then, after some time had elapsed (kālena kenacit), an intense sleep, sent fort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Kumbhakarṇa spoke these words to his seated brother (bhrātaram āsīnam): “Sleep oppresses me (nidrā māṃ bādhate), O King; have a dwelling built for me (kārayasva mamālayam)!”
+Thereupon Kumbhakarṇa spoke these words to his seated brother (_bhrātaram āsīnam_): “Sleep oppresses me (_nidrā māṃ bādhate_), O King; have a dwelling built for me (_kārayasva mamālayam_)!”
 </details>
 </details>
 
@@ -115,9 +115,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Commissioned then by the king (viniyuktās tato rājñā), artisans skilled like Viśvakarman (śilpino viśvakarmavat) [fashioned a mansion] one yojana in breadth (vistīrṇaṃ yojanam), gleaming white (śubhram), and twice that in length (tato dviguṇam āyatam)—
+**3:** Commissioned then by the king (_viniyuktās tato rājñā_), artisans skilled like Viśvakarman (_śilpino viśvakarmavat_) [fashioned a mansion] one _yojana_ in breadth (_vistīrṇaṃ yojanam_), gleaming white (_śubhram_), and twice that in length (_tato dviguṇam āyatam_)—
 
-**4:** lovely to behold (darśanīyam) and free from all disturbance (nirābādham)—they built it for Kumbhakarṇa (cakrire), resplendent everywhere with variegated pillars of crystal and gold (sphāṭikaiḥ kāñcanaiś citraiḥ stambhaiḥ),
+**4:** lovely to behold (_darśanīyam_) and free from all disturbance (_nirābādham_)—they built it for Kumbhakarṇa (_cakrire_), resplendent everywhere with variegated pillars of crystal and gold (_sphāṭikaiḥ kāñcanaiś citraiḥ stambhaiḥ_),
 </details>
 </details>
 
@@ -148,7 +148,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with stairways wrought of cat’s-eye gem (vaiḍūrya-kṛta-sopānam) and lattices of little bells (kiṅkiṇī-jālakam), set with arched portals of ivory (dānta-toraṇa-vinyastam) and raised platforms of diamond and crystal (vajra-sphaṭika-vedikam).
+with stairways wrought of cat’s-eye gem (_vaiḍūrya-kṛta-sopānam_) and lattices of little bells (_kiṅkiṇī-jālakam_), set with arched portals of ivory (_dānta-toraṇa-vinyastam_) and raised platforms of diamond and crystal (_vajra-sphaṭika-vedikam_).
 </details>
 </details>
 
@@ -179,7 +179,7 @@ with stairways wrought of cat’s-eye gem (vaiḍūrya-kṛta-sopānam) and latt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus that rākṣasa [Rāvaṇa] caused to be built (kārayāmāsa) a captivating, wholly comfortable palace (manoharaṃ sarva-sukham), ever bestowing delight in every part (sarvatra sukhadaṃ nityam), like a sacred cavern of Mount Meru (meroḥ puṇyāṃ guhām iva).
+Thus that rākṣasa [Rāvaṇa] caused to be built (_kārayāmāsa_) a captivating, wholly comfortable palace (_manoharaṃ sarva-sukham_), ever bestowing delight in every part (_sarvatra sukhadaṃ nityam_), like a sacred cavern of Mount Meru (_meroḥ puṇyāṃ guhām iva_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered into sleep there (tatra nidrāṃ samāviṣṭaḥ), mighty Kumbhakarṇa (kumbhakarṇo mahābalaḥ) lay slumbering for many thousands of years (bahūny abda-sahasrāṇi) and did not awaken (śayāno na prabuddhyate).
+Having entered into sleep there (_tatra nidrāṃ samāviṣṭaḥ_), mighty Kumbhakarṇa (_kumbhakarṇo mahābalaḥ_) lay slumbering for many thousands of years (_bahūny abda-sahasrāṇi_) and did not awaken (_śayāno na prabuddhyate_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ Having entered into sleep there (tatra nidrāṃ samāviṣṭaḥ), mighty Kumb
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Kumbhakarṇa was thus overcome by sleep (nidrābhibhūte ... kumbhakarṇe), the ten-faced Rāvaṇa, wholly unbridled (niraṅkuśaḥ), began slaughtering gods, sages, yakṣas, and gandharvas (devarṣi-yakṣa-gandharvān sañjaghne).
+When Kumbhakarṇa was thus overcome by sleep (_nidrābhibhūte ... kumbhakarṇe_), the ten-faced Rāvaṇa, wholly unbridled (_niraṅkuśaḥ_), began slaughtering gods, sages, yakṣas, and gandharvas (_devarṣi-yakṣa-gandharvān sañjaghne_).
 </details>
 </details>
 
@@ -283,7 +283,7 @@ When Kumbhakarṇa was thus overcome by sleep (nidrābhibhūte ... kumbhakarṇe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Going to the wondrous celestial pleasure-gardens (udyānāni ca citrāṇi), Nandana and the rest (nandanādīni), the ten-faced one, fiercely enraged (susaṅkruddhaḥ), shattered and laid them waste (bhinatti sma).
+Going to the wondrous celestial pleasure-gardens (_udyānāni ca citrāṇi_), Nandana and the rest (_nandanādīni_), the ten-faced one, fiercely enraged (_susaṅkruddhaḥ_), shattered and laid them waste (_bhinatti sma_).
 </details>
 </details>
 
@@ -317,7 +317,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like an elephant sporting in a river (nadīṃ gaja iva krīḍan), like the wind hurling down trees (vṛkṣān vāyur iva kṣipan), like a hurled thunderbolt shattering mountains (nagān vajra ivotsṛṣṭaḥ), that rākṣasa devastated everything (vidhvaṃsayati).
+Like an elephant sporting in a river (_nadīṃ gaja iva krīḍan_), like the wind hurling down trees (_vṛkṣān vāyur iva kṣipan_), like a hurled thunderbolt shattering mountains (_nagān vajra ivotsṛṣṭaḥ_), that rākṣasa devastated everything (_vidhvaṃsayati_).
 </details>
 </details>
 
@@ -352,9 +352,9 @@ Like an elephant sporting in a river (nadīṃ gaja iva krīḍan), like the win
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Learning that Ten-necked Rāvaṇa was behaving thus (tathā-vṛttaṃ tu vijñāya), the Lord of Wealth [Kubera] (dhaneśvaraḥ), knower of dharma (dharmajñaḥ), recalling his own conduct befitting his lineage (kulānurūpaṃ ... vṛttaṃ saṃsmṛtya cātmanaḥ),
+**11:** Learning that Ten-necked Rāvaṇa was behaving thus (_tathā-vṛttaṃ tu vijñāya_), the Lord of Wealth [Kubera] (_dhaneśvaraḥ_), knower of dharma (_dharmajñaḥ_), recalling his own conduct befitting his lineage (_kulānurūpaṃ ... vṛttaṃ saṃsmṛtya cātmanaḥ_),
 
-**12:** in order to manifest brotherly affection (saubhrātra-darśanārtham), Vaiśravaṇa then dispatched to Laṅkā (laṅkāṃ sampreṣayāmāsa) a messenger bearing words for Ten-necked Rāvaṇa’s welfare (daśagrīvasya vai hitam).
+**12:** in order to manifest brotherly affection (_saubhrātra-darśanārtham_), Vaiśravaṇa then dispatched to Laṅkā (_laṅkāṃ sampreṣayāmāsa_) a messenger bearing words for Ten-necked Rāvaṇa’s welfare (_daśagrīvasya vai hitam_).
 </details>
 </details>
 
@@ -393,7 +393,7 @@ Cordially received in Laṅkā by Vibhīṣaṇa and conducted into Rāvaṇa’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding to the city of Laṅkā (gatvā nagarīṃ laṅkām), he approached Vibhīṣaṇa (āsasāda vibhīṣaṇam), was duly honored by him according to dharma (mānitas tena dharmeṇa), and was asked concerning the purpose of his coming (pṛṣṭaś cāgamanaṃ prati).
+Proceeding to the city of Laṅkā (_gatvā nagarīṃ laṅkām_), he approached Vibhīṣaṇa (_āsasāda vibhīṣaṇam_), was duly honored by him according to dharma (_mānitas tena dharmeṇa_), and was asked concerning the purpose of his coming (_pṛṣṭaś cāgamanaṃ prati_).
 </details>
 </details>
 
@@ -424,7 +424,7 @@ Proceeding to the city of Laṅkā (gatvā nagarīṃ laṅkām), he approached 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having inquired after the welfare of the king [Kubera] and his kinsmen (kuśalaṃ rājño jñātīnāṃ ca), Vibhīṣaṇa conducted him into the assembly hall (sabhāyām) and presented him to the ten-faced Rāvaṇa seated there (darśayāmāsa tam āsīnaṃ daśānanam).
+Having inquired after the welfare of the king [Kubera] and his kinsmen (_kuśalaṃ rājño jñātīnāṃ ca_), Vibhīṣaṇa conducted him into the assembly hall (_sabhāyām_) and presented him to the ten-faced Rāvaṇa seated there (_darśayāmāsa tam āsīnaṃ daśānanam_).
 </details>
 </details>
 
@@ -455,7 +455,7 @@ Having inquired after the welfare of the king [Kubera] and his kinsmen (kuśala�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the king blazing there with his own splendor (dīpyamānaṃ svatejasā), the envoy honored him with the spoken blessing “Victory!” (jayeti vācā sampūjya) and stood silently in respectful attendance (tūṣṇīṃ samabhivartata).
+Beholding the king blazing there with his own splendor (_dīpyamānaṃ svatejasā_), the envoy honored him with the spoken blessing “Victory!” (_jayeti vācā sampūjya_) and stood silently in respectful attendance (_tūṣṇīṃ samabhivartata_).
 </details>
 </details>
 
@@ -486,7 +486,7 @@ Beholding the king blazing there with his own splendor (dīpyamānaṃ svatejas�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the envoy spoke these words to Ten-necked Rāvaṇa (daśagrīvaṃ dūto vākyam athābravīt), seated there upon an exquisite couch (uttama-paryaṅke) adorned with costly coverlets (varāstaraṇa-śobhite):
+Then the envoy spoke these words to Ten-necked Rāvaṇa (_daśagrīvaṃ dūto vākyam athābravīt_), seated there upon an exquisite couch (_uttama-paryaṅke_) adorned with costly coverlets (_varāstaraṇa-śobhite_):
 </details>
 </details>
 
@@ -517,7 +517,7 @@ Then the envoy spoke these words to Ten-necked Rāvaṇa (daśagrīvaṃ dūto v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O King, I shall declare to you all that your brother has said (bhrātā tava yad abravīt)—words worthy, O hero, of both [your parents’] conduct and lineage (ubhayoḥ sadṛśaṃ vīra vṛttasya ca kulasya ca):
+“O King, I shall declare to you all that your brother has said (_bhrātā tava yad abravīt_)—words worthy, O hero, of both [your parents’] conduct and lineage (_ubhayoḥ sadṛśaṃ vīra vṛttasya ca kulasya ca_):
 </details>
 </details>
 
@@ -548,7 +548,7 @@ Then the envoy spoke these words to Ten-necked Rāvaṇa (daśagrīvaṃ dūto v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough! Sufficient has been done thus far (sādhu paryāptam etāvat)—this accumulation of conduct has been made (kṛtaś cāritra-saṅgrahaḥ)! Pray let steadfast adherence to dharma be established (sādhu dharme vyavasthānaṃ kriyatām), if it be possible (yadi śakyate)!
+“Enough! Sufficient has been done thus far (_sādhu paryāptam etāvat_)—this accumulation of conduct has been made (_kṛtaś cāritra-saṅgrahaḥ_)! Pray let steadfast adherence to dharma be established (_sādhu dharme vyavasthānaṃ kriyatām_), if it be possible (_yadi śakyate_)!
 </details>
 </details>
 
@@ -587,7 +587,7 @@ Kubera’s message warns that the gods are mobilizing against Rāvaṇa’s crim
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have beheld Nandana shattered (dṛṣṭaṃ me nandanaṃ bhagnam), I have heard that sages have been slain (ṛṣayo nihatāḥ śrutāḥ), and I have heard, O King, of the gods’ concerted mobilization on your account (devatānāṃ samudyogas tvatto ... mama śrutaḥ).
+“I have beheld Nandana shattered (_dṛṣṭaṃ me nandanaṃ bhagnam_), I have heard that sages have been slain (_ṛṣayo nihatāḥ śrutāḥ_), and I have heard, O King, of the gods’ concerted mobilization on your account (_devatānāṃ samudyogas tvatto ... mama śrutaḥ_).
 </details>
 </details>
 
@@ -621,7 +621,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Many a time have I too been slighted by you (nirākṛtaś ca bahuśas tvayāham), O lord of rākṣasas; yet one’s own kinsmen, even when they offend out of childishness (aparāddhā hi bālyāc ca), are still to be cherished (ramaṇīyāḥ svabāndhavāḥ).
+“Many a time have I too been slighted by you (_nirākṛtaś ca bahuśas tvayāham_), O lord of rākṣasas; yet one’s own kinsmen, even when they offend out of childishness (_aparāddhā hi bālyāc ca_), are still to be cherished (_ramaṇīyāḥ svabāndhavāḥ_).
 </details>
 </details>
 
@@ -652,7 +652,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As for me, I had gone to the slopes of the Himālaya (himavat-pṛṣṭhaṃ gataḥ) to practice dharma (dharmam upāsitum), undertaking the austere vow sacred to Rudra (raudraṃ vrattaṃ samāsthāya), self-disciplined and with senses controlled (niyato niyatendriyaḥ).
+“As for me, I had gone to the slopes of the Himālaya (_himavat-pṛṣṭhaṃ gataḥ_) to practice dharma (_dharmam upāsitum_), undertaking the austere vow sacred to Rudra (_raudraṃ vrattaṃ samāsthāya_), self-disciplined and with senses controlled (_niyato niyatendriyaḥ_).
 </details>
 </details>
 
@@ -687,9 +687,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “There I beheld the Lord [Śiva] together with the Goddess [Umā] (devo mayā dṛṣṭaḥ saha devyā ... prabhuḥ); and by destiny (daivāt) my left eye chanced to fall upon the Goddess (savyaṃ cakṣur ... devyāṃ nipātitam).
+**22:** “There I beheld the Lord [Śiva] together with the Goddess [Umā] (_devo mayā dṛṣṭaḥ saha devyā ... prabhuḥ_); and by destiny (_daivāt_) my left eye chanced to fall upon the Goddess (_savyaṃ cakṣur ... devyāṃ nipātitam_).
 
-**23:** “‘Who indeed can this radiant lady be?’ (kā nv iyaṃ syād iti śubhā)—with no other motive whatsoever (na khalv anyena hetunā) [did I look]; for Rudrāṇī stood there having assumed a form beyond compare (rūpaṃ hy anupamaṃ kṛtvā).
+**23:** “‘Who indeed can this radiant lady be?’ (_kā nv iyaṃ syād iti śubhā_)—with no other motive whatsoever (_na khalv anyena hetunā_) [did I look]; for Rudrāṇī stood there having assumed a form beyond compare (_rūpaṃ hy anupamaṃ kṛtvā_).
 </details>
 </details>
 
@@ -723,7 +723,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the Goddess’s divine potency (devyā divya-prabhāveṇa) my left eye was scorched (dagdhaṃ savyaṃ mamekṣaṇam), and, like a flame dimmed by dust (reṇu-dhvastam iva jyotiḥ), it turned tawny-yellow (piṅgulatvam upāgatam).
+“By the Goddess’s divine potency (_devyā divya-prabhāveṇa_) my left eye was scorched (_dagdhaṃ savyaṃ mamekṣaṇam_), and, like a flame dimmed by dust (_reṇu-dhvastam iva jyotiḥ_), it turned tawny-yellow (_piṅgulatvam upāgatam_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Withdrawing to another Himalayan ridge for eight centuries of silent austerity, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, proceeding to another broad ridge of that mountain (anyad vistīrṇaṃ ... gireḥ taṭam), I silently sustained that mighty vow (tūṣṇīṃ ... samādhāraṃ mahāvratam) for eight hundred years (varṣa-śatāny aṣṭau).
+“Thereupon, proceeding to another broad ridge of that mountain (_anyad vistīrṇaṃ ... gireḥ taṭam_), I silently sustained that mighty vow (_tūṣṇīṃ ... samādhāraṃ mahāvratam_) for eight hundred years (_varṣa-śatāny aṣṭau_).
 </details>
 </details>
 
@@ -793,7 +793,7 @@ Withdrawing to another Himalayan ridge for eight centuries of silent austerity, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that austere observance was completed (samāpte niyame tasmin), Lord Maheśvara, the Sovereign God (devo maheśvaraḥ ... prabhuḥ), pleased and with a gladdened heart (prītaḥ prītena manasā), spoke these words there:
+“When that austere observance was completed (_samāpte niyame tasmin_), Lord Maheśvara, the Sovereign God (_devo maheśvaraḥ ... prabhuḥ_), pleased and with a gladdened heart (_prītaḥ prītena manasā_), spoke these words there:
 </details>
 </details>
 
@@ -824,7 +824,7 @@ Withdrawing to another Himalayan ridge for eight centuries of silent austerity, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For the tawny hue indeed that you incurred from gazing upon the Goddess’s form (paiṅgalyaṃ yad avāptaṃ hi devyā rūpa-nirīkṣaṇāt)—I am well pleased with you, O knower of dharma (prīto ’smi tava dharmajña), O keeper of noble vows, through this austerity of yours (tapasānena suvrata)!
+“‘For the tawny hue indeed that you incurred from gazing upon the Goddess’s form (_paiṅgalyaṃ yad avāptaṃ hi devyā rūpa-nirīkṣaṇāt_)—I am well pleased with you, O knower of dharma (_prīto ’smi tava dharmajña_), O keeper of noble vows, through this austerity of yours (_tapasānena suvrata_)!
 </details>
 </details>
 
@@ -858,7 +858,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Only by me has this vow been practiced (mayā caitad vrataṃ cīrṇam), and by you alone, O Lord of Wealth (tvayā caiva dhanādhipa); there is no third being (tṛtīyaḥ puruṣo nāsti) who could observe a vow such as this (yaś cared vratam īdṛśam).
+“‘Only by me has this vow been practiced (_mayā caitad vrataṃ cīrṇam_), and by you alone, O Lord of Wealth (_tvayā caiva dhanādhipa_); there is no third being (_tṛtīyaḥ puruṣo nāsti_) who could observe a vow such as this (_yaś cared vratam īdṛśam_).
 </details>
 </details>
 
@@ -889,7 +889,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For this steadfast vow (vrataṃ suniścayam) was instituted by me of old (mayā hy utpāditaṃ purā); therefore, O gentle Lord of Wealth (saumya ... dhaneśvara), take delight in friendship with me (tat sakhitvaṃ mayā ... rocayasva)!
+“‘For this steadfast vow (_vrataṃ suniścayam_) was instituted by me of old (_mayā hy utpāditaṃ purā_); therefore, O gentle Lord of Wealth (_saumya ... dhaneśvara_), take delight in friendship with me (_tat sakhitvaṃ mayā ... rocayasva_)!
 </details>
 </details>
 
@@ -940,9 +940,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** “‘Conquered by your austerity (tapasā nirjitaś caiva), become my companion, O sinless one (sakhā bhava mamānagha)! And as for that left eye of yours which was scorched by the Goddess’s potency (devyā dagdhaṃ prabhāveṇa yac ca savyaṃ tavekṣaṇam)—
+**30:** “‘Conquered by your austerity (_tapasā nirjitaś caiva_), become my companion, O sinless one (_sakhā bhava mamānagha_)! And as for that left eye of yours which was scorched by the Goddess’s potency (_devyā dagdhaṃ prabhāveṇa yac ca savyaṃ tavekṣaṇam_)—
 
-**31:** “‘Because of it, your name shall endure forever as Ekākṣipiṅgalī [“Tawny-Eyed in One Eye”] (ekākṣi-piṅgalety eva nāma sthāsyati śāśvatam)!’ Having thus obtained friendship with him (tena sakhitvaṃ ca prāpya) and taken leave of Śaṅkara (anujñāṃ ca śaṅkarāt), upon returning I have heard of this sinful resolve of yours (tava pāpa-viniścayaḥ).
+**31:** “‘Because of it, your name shall endure forever as Ekākṣipiṅgalī [“Tawny-Eyed in One Eye”] (_ekākṣi-piṅgalety eva nāma sthāsyati śāśvatam_)!’ Having thus obtained friendship with him (_tena sakhitvaṃ ca prāpya_) and taken leave of Śaṅkara (_anujñāṃ ca śaṅkarāt_), upon returning I have heard of this sinful resolve of yours (_tava pāpa-viniścayaḥ_).
 </details>
 </details>
 
@@ -976,7 +976,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore turn back from this most unrighteous association (adharmiṣṭha-saṃyogān nivarta) that stains our lineage (kula-dūṣaṇāt); for the gods together with the hosts of sages (sarṣi-saṅghaiḥ suraiḥ) are already devising the means of your destruction (cintyate hi vadhopāyaḥ)!”
+“Therefore turn back from this most unrighteous association (_adharmiṣṭha-saṃyogān nivarta_) that stains our lineage (_kula-dūṣaṇāt_); for the gods together with the hosts of sages (_sarṣi-saṅghaiḥ suraiḥ_) are already devising the means of your destruction (_cintyate hi vadhopāyaḥ_)!”
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus (evam uktaḥ), Ten-necked Rāvaṇa, his eyes bloodshot with fury (kruddha-saṃrakta-locanaḥ), clenching his hands and grinding his teeth (hastau dantāṃś ca sampīḍya), spoke these words:
+Addressed thus (_evam uktaḥ_), Ten-necked Rāvaṇa, his eyes bloodshot with fury (_kruddha-saṃrakta-locanaḥ_), clenching his hands and grinding his teeth (_hastau dantāṃś ca sampīḍya_), spoke these words:
 </details>
 </details>
 
@@ -1038,7 +1038,7 @@ Addressed thus (evam uktaḥ), Ten-necked Rāvaṇa, his eyes bloodshot with fur
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have well understood your message, O envoy (vijñātaṃ te mayā dūta vākyam), and whose words you utter (yasya prabhāṣase)! Neither shall you live (naitat tvam asi), nor shall that brother by whom you were dispatched (naivāsau bhrātrā yenāsi coditaḥ)!
+“I have well understood your message, O envoy (_vijñātaṃ te mayā dūta vākyam_), and whose words you utter (_yasya prabhāṣase_)! Neither shall you live (_naitat tvam asi_), nor shall that brother by whom you were dispatched (_naivāsau bhrātrā yenāsi coditaḥ_)!
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ Addressed thus (evam uktaḥ), Ten-necked Rāvaṇa, his eyes bloodshot with fur
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this treasure-keeper (dhanarakṣakaḥ) does not speak this for my welfare at all (hitaṃ naiṣa mamaitad dhi bravīti); rather, O fool, he is boasting in my ears of his friendship with Maheśvara, forsooth (maheśvara-sakhitvaṃ tu mūḍha śrāvayate kila)!
+“For this treasure-keeper (_dhanarakṣakaḥ_) does not speak this for my welfare at all (_hitaṃ naiṣa mamaitad dhi bravīti_); rather, O fool, he is boasting in my ears of his friendship with Maheśvara, forsooth (_maheśvara-sakhitvaṃ tu mūḍha śrāvayate kila_)!
 </details>
 </details>
 
@@ -1110,9 +1110,9 @@ Casting aside his former deference toward his elder brother, Rāvaṇa vows to d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Nor is this to be pardoned by me (na cedaṃ kṣamaṇīyaṃ me)—this that you have spoken (yad etad bhāṣitaṃ tvayā)! If for all this time, O envoy, I have tolerated him (yad etāvan mayā kālaṃ ... tasya tu marṣitam),
+**36:** “Nor is this to be pardoned by me (_na cedaṃ kṣamaṇīyaṃ me_)—this that you have spoken (_yad etad bhāṣitaṃ tvayā_)! If for all this time, O envoy, I have tolerated him (_yad etāvan mayā kālaṃ ... tasya tu marṣitam_),
 
-**37:** “it was because [my heart] thought, ‘He is an elder and venerable brother, not to be slain by me’ (na hantavyo gurur jyeṣṭho mayāyam iti manyate). Yet now, having heard his words (tasya tv idānīṃ śrutvā ... vākyam), this resolve is fixed in me (eṣā kṛtā matiḥ): relying on the might of my arms (bāhu-vīryam upāśritaḥ), I shall conquer even the three worlds (trīṃl lokān api jeṣyāmi)!
+**37:** “it was because [my heart] thought, ‘He is an elder and venerable brother, not to be slain by me’ (_na hantavyo gurur jyeṣṭho mayāyam iti manyate_). Yet now, having heard his words (_tasya tv idānīṃ śrutvā ... vākyam_), this resolve is fixed in me (_eṣā kṛtā matiḥ_): relying on the might of my arms (_bāhu-vīryam upāśritaḥ_), I shall conquer even the three worlds (_trīṃl lokān api jeṣyāmi_)!
 </details>
 </details>
 
@@ -1146,7 +1146,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very instant (etan muhūrtam eva), on account of that one man alone (tasyaikasya tu vai kṛte), I shall dispatch all four Guardians of the Worlds (caturo lokapālān) to the abode of Yama (nayiṣyāmi yamakṣayam)!”
+“This very instant (_etan muhūrtam eva_), on account of that one man alone (_tasyaikasya tu vai kṛte_), I shall dispatch all four Guardians of the Worlds (_caturo lokapālān_) to the abode of Yama (_nayiṣyāmi yamakṣayam_)!”
 </details>
 </details>
 
@@ -1180,7 +1180,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the Lord of Laṅkā (laṅkeśaḥ) struck down the envoy with his sword (dūtaṃ khaḍgena jaghnivān) and gave him to wicked rākṣasas (rākṣasānāṃ durātmanām) to devour (dadau bhakṣayitum).
+Having spoken thus, the Lord of Laṅkā (_laṅkeśaḥ_) struck down the envoy with his sword (_dūtaṃ khaḍgena jaghnivān_) and gave him to wicked rākṣasas (_rākṣasānāṃ durātmanām_) to devour (_dadau bhakṣayitum_).
 </details>
 </details>
 
@@ -1214,7 +1214,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having had auspicious departure-rites performed (kṛta-svastyayanaḥ), Rāvaṇa ascended his chariot (ratham āruhya) and, eager for the conquest of the three worlds (trailokya-vijayākāṅkṣī), marched to where the Lord of Wealth dwelt (yayau yatra dhaneśvaraḥ).
+Then, having had auspicious departure-rites performed (_kṛta-svastyayanaḥ_), Rāvaṇa ascended his chariot (_ratham āruhya_) and, eager for the conquest of the three worlds (_trailokya-vijayākāṅkṣī_), marched to where the Lord of Wealth dwelt (_yayau yatra dhaneśvaraḥ_).
 </details>
 </details>
 

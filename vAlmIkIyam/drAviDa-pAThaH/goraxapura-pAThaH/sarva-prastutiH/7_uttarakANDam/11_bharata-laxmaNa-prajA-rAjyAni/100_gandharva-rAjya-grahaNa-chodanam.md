@@ -50,7 +50,7 @@ King Yudhājit of Kekaya dispatches his preceptor Gārgya with ten thousand hors
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of Kekaya (yudhājit kekayo nṛpaḥ), dispatched his own preceptor (svaguruṃ preṣayām āsa) to the great-souled Rāghava.
+After the lapse of some time (_kasyacit tv atha kālasya_), Yudhājit, the king of Kekaya (_yudhājit kekayo nṛpaḥ_), dispatched his own preceptor (_svaguruṃ preṣayām āsa_) to the great-souled Rāghava.
 </details>
 </details>
 
@@ -83,9 +83,9 @@ After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** He sent Gārgya, the son of Aṅgiras (gārgyam aṅgirasaḥ putram), a brahmarṣi of immeasurable splendor (brahmarṣim amitaprabham), together with ten thousand horses (daśa cāśva-sahasrāṇi) as an unsurpassed gift of affection (prītidānam anuttamam).
+**2:** He sent Gārgya, the son of Aṅgiras (_gārgyam aṅgirasaḥ putram_), a brahmarṣi of immeasurable splendor (_brahmarṣim amitaprabham_), together with ten thousand horses (_daśa cāśva-sahasrāṇi_) as an unsurpassed gift of affection (_prītidānam anuttamam_).
 
-**3:** And the king gave to Rāma blankets and jewels (kambalāni ca ratnāni), wondrous fine garments (citravastram athottamam), and auspicious ornaments as well (śubhāny ābharaṇāni ca).
+**3:** And the king gave to Rāma blankets and jewels (_kambalāni ca ratnāni_), wondrous fine garments (_citravastram athottamam_), and auspicious ornaments as well (_śubhāny ābharaṇāni ca_).
 </details>
 </details>
 
@@ -120,9 +120,9 @@ After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Hearing that the great sage Gārgya had arrived (maharṣiṃ gārgyam āgatam), together with that vast wealth dispatched by his maternal uncle, the son of Aśvapati (mātulasyāśvapatinaḥ prahitaṃ tan mahādhanam), the wise Rāghava—
+**4:** Hearing that the great sage Gārgya had arrived (_maharṣiṃ gārgyam āgatam_), together with that vast wealth dispatched by his maternal uncle, the son of Aśvapati (_mātulasyāśvapatinaḥ prahitaṃ tan mahādhanam_), the wise Rāghava—
 
-**5:** —going forth to meet him for the distance of a krośa (pratyudgamya ... krośamātram) accompanied by his younger brothers (sahānujaḥ), Kākutstha paid utmost homage to Gārgya (gārgyaṃ sampūjayām āsa) as Śakra honors Bṛhaspati.
+**5:** —going forth to meet him for the distance of a krośa (_pratyudgamya ... krośamātram_) accompanied by his younger brothers (_sahānujaḥ_), Kākutstha paid utmost homage to Gārgya (_gārgyaṃ sampūjayām āsa_) as Śakra honors Bṛhaspati.
 </details>
 </details>
 
@@ -155,7 +155,7 @@ After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus honored that sage and accepted that wealth (taddhanaṃ pratigṛhya ca), and having asked step by step about every aspect of his maternal uncle’s welfare (pṛṣṭvā pratipadaṃ sarvaṃ kuśalaṃ mātulasya ca), Rāma began to question that illustrious sage once seated (upaviṣṭaṃ mahābhāgam).
+Having thus honored that sage and accepted that wealth (_taddhanaṃ pratigṛhya ca_), and having asked step by step about every aspect of his maternal uncle’s welfare (_pṛṣṭvā pratipadaṃ sarvaṃ kuśalaṃ mātulasya ca_), Rāma began to question that illustrious sage once seated (_upaviṣṭaṃ mahābhāgam_).
 </details>
 </details>
 
@@ -197,7 +197,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What message has my maternal uncle sent (kim āha mātulo vākyam), on account of which Your Reverence has come hither (yadarthaṃ bhagavān iha prāptaḥ), foremost among masters of speech (vākyavidāṃ śreṣṭhaḥ), like Bṛhaspati himself in person (sākṣād iva bṛhaspatiḥ)?”
+“What message has my maternal uncle sent (_kim āha mātulo vākyam_), on account of which Your Reverence has come hither (_yadarthaṃ bhagavān iha prāptaḥ_), foremost among masters of speech (_vākyavidāṃ śreṣṭhaḥ_), like Bṛhaspati himself in person (_sākṣād iva bṛhaspatiḥ_)?”
 </details>
 </details>
 
@@ -228,7 +228,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma’s speech (rāmasya bhāṣitaṃ śrutvā), the great sage began to relate to Rāghava (vaktum ... rāghavāyopacakrame) the wondrous-seeming full scope of his mission (kāryavistaram ... adbhutasaṅkāśam).
+Hearing Rāma’s speech (_rāmasya bhāṣitaṃ śrutvā_), the great sage began to relate to Rāghava (_vaktum ... rāghavāyopacakrame_) the wondrous-seeming full scope of his mission (_kāryavistaram ... adbhutasaṅkāśam_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ Hearing Rāma’s speech (rāmasya bhāṣitaṃ śrutvā), the great sage began
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O mighty-armed one, your maternal uncle Yudhājit, that bull among men (mātulas te ... nararṣabhaḥ yudhājit), has spoken these affectionate words (vākyam āha ... prītisaṃyuktam); let them be heard if it pleases you (śrūyatāṃ yadi rocate).
+“O mighty-armed one, your maternal uncle Yudhājit, that bull among men (_mātulas te ... nararṣabhaḥ yudhājit_), has spoken these affectionate words (_vākyam āha ... prītisaṃyuktam_); let them be heard if it pleases you (_śrūyatāṃ yadi rocate_).
 </details>
 </details>
 
@@ -293,7 +293,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This Gandharva realm (ayaṃ gandharvaviṣayaḥ), adorned with fruits and roots (phalamūlopaśobhitaḥ), lies on both banks of the river Sindhu (sindhor ubhayataḥ pārśve)—a territory supremely lovely (deśaḥ paramaśobhanaḥ).
+“‘This Gandharva realm (_ayaṃ gandharvaviṣayaḥ_), adorned with fruits and roots (_phalamūlopaśobhitaḥ_), lies on both banks of the river Sindhu (_sindhor ubhayataḥ pārśve_)—a territory supremely lovely (_deśaḥ paramaśobhanaḥ_).
 </details>
 </details>
 
@@ -324,7 +324,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And it is guarded by Gandharvas (taṃ ca rakṣanti gandharvāḥ), armed and skilled in warfare (sāyudhā yuddhakovidāḥ)—three crores of exceedingly mighty warriors (trikoṭyo vai mahābalāḥ), the sons of Śailūṣa, O hero.
+“‘And it is guarded by Gandharvas (_taṃ ca rakṣanti gandharvāḥ_), armed and skilled in warfare (_sāyudhā yuddhakovidāḥ_)—three crores of exceedingly mighty warriors (_trikoṭyo vai mahābalāḥ_), the sons of Śailūṣa, O hero.
 </details>
 </details>
 
@@ -367,9 +367,9 @@ Declaring that none but Rāma can subdue that splendid land, Gārgya wins Rāma�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “‘Having thoroughly vanquished them, O Kākutstha (tān vinirjitya kākutstha), and their fair Gandharva city (gandharvanagaraṃ śubham), establish there, O mighty-armed one (niveśaya mahābāho), two well-ordered cities of your own (sve pure susamāhite).
+**12:** “‘Having thoroughly vanquished them, O Kākutstha (_tān vinirjitya kākutstha_), and their fair Gandharva city (_gandharvanagaraṃ śubham_), establish there, O mighty-armed one (_niveśaya mahābāho_), two well-ordered cities of your own (_sve pure susamāhite_).
 
-**13:** “‘No other has access there (anyasya na gatis tatra), and that country is supremely lovely (deśaḥ paramaśobhanaḥ); let this please you, O mighty-armed one (rocatāṃ te mahābāho), for I do not speak what is unbeneficial to you (nāhaṃ tvām ahitaṃ vade).’”
+**13:** “‘No other has access there (_anyasya na gatis tatra_), and that country is supremely lovely (_deśaḥ paramaśobhanaḥ_); let this please you, O mighty-armed one (_rocatāṃ te mahābāho_), for I do not speak what is unbeneficial to you (_nāhaṃ tvām ahitaṃ vade_).’”
 </details>
 </details>
 
@@ -400,7 +400,7 @@ Declaring that none but Rāma can subdue that splendid land, Gārgya wins Rāma�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the great sage and of his maternal uncle (maharṣer mātulasya ca), the delighted Rāghava said “So be it!” (uvāca bāḍham ity eva) and looked meaningfully upon Bharata (bharataṃ cānvavaikṣata).
+Hearing those words of the great sage and of his maternal uncle (_maharṣer mātulasya ca_), the delighted Rāghava said “So be it!” (_uvāca bāḍham ity eva_) and looked meaningfully upon Bharata (_bharataṃ cānvavaikṣata_).
 </details>
 </details>
 
@@ -440,9 +440,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** With joined palms raised in reverence (sāñjalipragrahaḥ), that delighted Rāghava spoke to the twice-born sage (so ’bravīd ... dvijam): “These two princes (imau kumārau), O brahmarṣi, shall march through and master that land (taṃ deśaṃ ... vicariṣyataḥ)—
+**15:** With joined palms raised in reverence (_sāñjalipragrahaḥ_), that delighted Rāghava spoke to the twice-born sage (_so ’bravīd ... dvijam_): “These two princes (_imau kumārau_), O brahmarṣi, shall march through and master that land (_taṃ deśaṃ ... vicariṣyataḥ_)—
 
-**16:** “—the two heroic sons of Bharata (bharatasyātmajau vīrau), Takṣa and Puṣkala as well (takṣaḥ puṣkala eva ca), well protected by their uncle (mātulena suguptau tu) and steadfastly established in dharma (dharmeṇa susamāhitau).
+**16:** “—the two heroic sons of Bharata (_bharatasyātmajau vīrau_), Takṣa and Puṣkala as well (_takṣaḥ puṣkala eva ca_), well protected by their uncle (_mātulena suguptau tu_) and steadfastly established in dharma (_dharmeṇa susamāhitau_).
 </details>
 </details>
 
@@ -473,7 +473,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Placing Bharata at their head (bharataṃ cāgrataḥ kṛtvā), the two princes, attended by their army and followers (kumārau sabalānugau), having slain the Gandharva’s sons (nihatya gandharvasutān), shall apportion the two cities between themselves (dve pure vibhajiṣyataḥ).
+“Placing Bharata at their head (_bharataṃ cāgrataḥ kṛtvā_), the two princes, attended by their army and followers (_kumārau sabalānugau_), having slain the Gandharva’s sons (_nihatya gandharvasutān_), shall apportion the two cities between themselves (_dve pure vibhajiṣyataḥ_).
 </details>
 </details>
 
@@ -512,7 +512,7 @@ Declaring that Bharata will return after establishing his sons in those two citi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having founded those two foremost cities (niveśya te puravare) and installed his two sons within them (ātmajau sanniveśya ca), that exceedingly righteous one (atidhārmikaḥ) shall come back again into my presence (āgamiṣyati me bhūyaḥ sakāśam).”
+“Having founded those two foremost cities (_niveśya te puravare_) and installed his two sons within them (_ātmajau sanniveśya ca_), that exceedingly righteous one (_atidhārmikaḥ_) shall come back again into my presence (_āgamiṣyati me bhūyaḥ sakāśam_).”
 </details>
 </details>
 
@@ -543,7 +543,7 @@ Declaring that Bharata will return after establishing his sons in those two citi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to the brahmarṣi (brahmarṣim evam uktvā tu), Rāma then commanded Bharata together with his army and retinue (bharataṃ sabalānugam ājñāpayām āsa) and consecrated the two princes (kumārau cābhyaṣecayat).
+Having spoken thus to the brahmarṣi (_brahmarṣim evam uktvā tu_), Rāma then commanded Bharata together with his army and retinue (_bharataṃ sabalānugam ājñāpayām āsa_) and consecrated the two princes (_kumārau cābhyaṣecayat_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ Having spoken thus to the brahmarṣi (brahmarṣim evam uktvā tu), Rāma then 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, under a benign asterism (nakṣatreṇa ca saumyena), placing the son of Aṅgiras at the forefront (puraskṛtyāṅgirassutam), Bharata marched forth with his army and his two sons (saha sainyena kumārābhyāṃ viniryayau).
+Then, under a benign asterism (_nakṣatreṇa ca saumyena_), placing the son of Aṅgiras at the forefront (_puraskṛtyāṅgirassutam_), Bharata marched forth with his army and his two sons (_saha sainyena kumārābhyāṃ viniryayau_).
 </details>
 </details>
 
@@ -605,7 +605,7 @@ Then, under a benign asterism (nakṣatreṇa ca saumyena), placing the son of A
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That army, invincible even to the gods (durādharṣā surair api), marched forth from the city like a host led by Śakra (śakrayukteva nagarān niryayāv atha), escorted a long distance by Rāghava (rāghavānugatā dūram).
+That army, invincible even to the gods (_durādharṣā surair api_), marched forth from the city like a host led by Śakra (_śakrayukteva nagarān niryayāv atha_), escorted a long distance by Rāghava (_rāghavānugatā dūram_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ Flesh-eating beasts, rākṣasas, spirits, and thousands of lions, tigers, boars
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Carnivorous creatures (māṃsādāni ca sattvāni) and huge rākṣasas as well (rakṣāṃsi sumahānti ca) indeed followed behind Bharata (anujagmur hi bharatam) out of thirst for blood (rudhirasya pipāsayā).
+Carnivorous creatures (_māṃsādāni ca sattvāni_) and huge rākṣasas as well (_rakṣāṃsi sumahānti ca_) indeed followed behind Bharata (_anujagmur hi bharatam_) out of thirst for blood (_rudhirasya pipāsayā_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ Carnivorous creatures (māṃsādāni ca sattvāni) and huge rākṣasas as well
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And vast throngs of exceedingly fierce flesh-eating spirits (bhūtagrāmāś ca bahavo māṃsabhakṣāḥ sudāruṇāḥ) came by the thousands (sahasraśaḥ), eager to feast upon the flesh of the Gandharva’s sons (gandharvaputra-māṃsāni bhoktukāmāḥ).
+And vast throngs of exceedingly fierce flesh-eating spirits (_bhūtagrāmāś ca bahavo māṃsabhakṣāḥ sudāruṇāḥ_) came by the thousands (_sahasraśaḥ_), eager to feast upon the flesh of the Gandharva’s sons (_gandharvaputra-māṃsāni bhoktukāmāḥ_).
 </details>
 </details>
 
@@ -706,7 +706,7 @@ And vast throngs of exceedingly fierce flesh-eating spirits (bhūtagrāmāś ca 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Many thousands of lions, tigers, and boars (siṃha-vyāghra-varāhāṇām) and of sky-ranging birds (khecarāṇāṃ ca pakṣiṇām) went onward in front of the army (senāyā yayur agrataḥ).
+Many thousands of lions, tigers, and boars (_siṃha-vyāghra-varāhāṇām_) and of sky-ranging birds (_khecarāṇāṃ ca pakṣiṇām_) went onward in front of the army (_senāyā yayur agrataḥ_).
 </details>
 </details>
 
@@ -748,7 +748,7 @@ Many thousands of lions, tigers, and boars (siṃha-vyāghra-varāhāṇām) and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having journeyed on the road for a month and a half (adhyardhamāsam uṣitā pathi), that army, free from all affliction (senā nirāmayā) and filled with joyous, well-nourished troops (hṛṣṭapuṣṭa-janākīrṇā), reached Kekaya (kekayaṃ samupāgamat).
+Having journeyed on the road for a month and a half (_adhyardhamāsam uṣitā pathi_), that army, free from all affliction (_senā nirāmayā_) and filled with joyous, well-nourished troops (_hṛṣṭapuṣṭa-janākīrṇā_), reached Kekaya (_kekayaṃ samupāgamat_).
 </details>
 </details>
 

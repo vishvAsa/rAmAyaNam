@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of old in the Tretā age, O Rāma (purā tretāyuge rāma), there was a forest of vast extent (babhūva bahu-vistaram), stretching a hundred yojanas all around (samantād yojana-śatam), devoid of wild beasts and forsaken by birds (vimṛgaṃ pakṣi-varjitam).
+Of old in the Tretā age, O Rāma (_purā tretāyuge rāma_), there was a forest of vast extent (_babhūva bahu-vistaram_), stretching a hundred yojanas all around (_samantād yojana-śatam_), devoid of wild beasts and forsaken by birds (_vimṛgaṃ pakṣi-varjitam_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While practicing supreme austerity in a tract of that uninhabited wilderness (tasmin nirmānuṣe ’raṇye kurvāṇas tapa uttamam), O gentle one, I set forth to traverse and explore that forest (aham ākramituṃ saumya tad araṇyam upāgamam).
+While practicing supreme austerity in a tract of that uninhabited wilderness (_tasmin nirmānuṣe ’raṇye kurvāṇas tapa uttamam_), O gentle one, I set forth to traverse and explore that forest (_aham ākramituṃ saumya tad araṇyam upāgamam_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I could not adequately describe the splendor of that forest (tasya rūpam araṇyasya nirdeṣṭuṃ na śaśāka ha), with its sweet-tasting fruits and roots (phala-mūlaiḥ sukhāsvādaiḥ) and trees of manifold forms (bahurūpaiś ca pādapaiḥ).
+I could not adequately describe the splendor of that forest (_tasya rūpam araṇyasya nirdeṣṭuṃ na śaśāka ha_), with its sweet-tasting fruits and roots (_phala-mūlaiḥ sukhāsvādaiḥ_) and trees of manifold forms (_bahurūpaiś ca pādapaiḥ_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of that forest, however, lay a lake extending a full yojana (saro yojanam āyatam), thronged with swans and kāraṇḍava ducks (haṃsa-kāraṇḍavākīrṇam) and graced by cakravāka birds (cakravākopaśobhitam),
+In the midst of that forest, however, lay a lake extending a full yojana (_saro yojanam āyatam_), thronged with swans and kāraṇḍava ducks (_haṃsa-kāraṇḍavākīrṇam_) and graced by cakravāka birds (_cakravākopaśobhitam_),
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-crowded with day-lotuses and blue water-lilies (padmotpala-samākīrṇam), wholly free of clinging moss (samatikrānta-śaivalam), utterly marvelous as it were (tad āścaryam ivātyartham), peerless and delightful to drink (sukhāsvādam anuttamam),
+crowded with day-lotuses and blue water-lilies (_padmotpala-samākīrṇam_), wholly free of clinging moss (_samatikrānta-śaivalam_), utterly marvelous as it were (_tad āścaryam ivātyartham_), peerless and delightful to drink (_sukhāsvādam anuttamam_),
 </details>
 </details>
 
@@ -223,7 +223,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-spotless and unruffled (arajaskaṃ tathā ’kṣobhyam), resplendent and teeming with flocks of water-birds (śrīmat pakṣi-gaṇāyutam); and near that lake stood a great and wondrous hermitage (samīpe tasya saraso mahad adbhutam āśramam),
+spotless and unruffled (_arajaskaṃ tathā ’kṣobhyam_), resplendent and teeming with flocks of water-birds (_śrīmat pakṣi-gaṇāyutam_); and near that lake stood a great and wondrous hermitage (_samīpe tasya saraso mahad adbhutam āśramam_),
 </details>
 </details>
 
@@ -265,7 +265,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-ancient and exceedingly sacred (purāṇaṃ puṇyam atyartham), yet empty of ascetics (tapasvi-jana-varjitam); there, O bull among men (puruṣarṣabha), I passed a summer night (tatrāham avasaṃ rātriṃ naidāghīm).
+ancient and exceedingly sacred (_purāṇaṃ puṇyam atyartham_), yet empty of ascetics (_tapasvi-jana-varjitam_); there, O bull among men (_puruṣarṣabha_), I passed a summer night (_tatrāham avasaṃ rātriṃ naidāghīm_).
 </details>
 </details>
 
@@ -299,7 +299,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising at daybreak to perform my morning rites (prabhāte kālyam utthāya), I approached that lake (saras tad upacakrame); and then I beheld there in a certain spot (athāpaśyaṃ ... tatra kvacit) a corpse, plump and untouched by decay (śavaṃ ... supuṣṭam ajaram),
+Rising at daybreak to perform my morning rites (_prabhāte kālyam utthāya_), I approached that lake (_saras tad upacakrame_); and then I beheld there in a certain spot (_athāpaśyaṃ ... tatra kvacit_) a corpse, plump and untouched by decay (_śavaṃ ... supuṣṭam ajaram_),
 </details>
 </details>
 
@@ -333,7 +333,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-its full-fleshed limbs cleaving the mud (paṅki-bhedena puṣṭāṅgam) as it rested within the lotus-lake (samāśrita-sarovaram), abiding in that reservoir of water with supreme radiance (tiṣṭhantaṃ parayā lakṣmyā tasmiṃs toyāśaye), O king.
+its full-fleshed limbs cleaving the mud (_paṅki-bhedena puṣṭāṅgam_) as it rested within the lotus-lake (_samāśrita-sarovaram_), abiding in that reservoir of water with supreme radiance (_tiṣṭhantaṃ parayā lakṣmyā tasmiṃs toyāśaye_), O king.
 </details>
 </details>
 
@@ -378,9 +378,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Pondering that enigma for a moment there, O Rāghava (tam arthaṃ cintayāno ’haṃ muhūrtaṃ tatra rāghava), I tarried upon the lake shore (uṣito ’smi sarastīre), wondering, ‘What indeed can this be, O lord?’ (kiṃ nv idaṃ syād iti prabho).
+**10:** Pondering that enigma for a moment there, O Rāghava (_tam arthaṃ cintayāno ’haṃ muhūrtaṃ tatra rāghava_), I tarried upon the lake shore (_uṣito ’smi sarastīre_), wondering, ‘What indeed can this be, O lord?’ (_kiṃ nv idaṃ syād iti prabho_).
 
-**11:** Then within a single moment (athāpaśyaṃ muhūrtena), I beheld a divine, wondrously visible aerial chariot (divyam adbhuta-darśanam vimānam), supremely grand, yoked with swans, and swift as thought (paramodāraṃ haṃsayuktaṃ manojavam).
+**11:** Then within a single moment (_athāpaśyaṃ muhūrtena_), I beheld a divine, wondrously visible aerial chariot (_divyam adbhuta-darśanam vimānam_), supremely grand, yoked with swans, and swift as thought (_paramodāraṃ haṃsayuktaṃ manojavam_).
 </details>
 </details>
 
@@ -433,9 +433,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Upon that exceedingly glorious celestial being in the chariot, O delight of the Raghus (atyarthaṃ svargiṇaṃ tatra vimāne raghunandana), there waited a thousand apsarases adorned with divine ornaments (upāste ’psarasāṃ vīra sahasraṃ divya-bhūṣaṇam), O hero.
+**12:** Upon that exceedingly glorious celestial being in the chariot, O delight of the Raghus (_atyarthaṃ svargiṇaṃ tatra vimāne raghunandana_), there waited a thousand apsarases adorned with divine ornaments (_upāste ’psarasāṃ vīra sahasraṃ divya-bhūṣaṇam_), O hero.
 
-**13:** Some sang celestial melodies (gāyanti divya-geyāni) and others played musical instruments (vādayanti tathā ’parāḥ); still others sported with joyous sounds (kṣvelayanti tathā cānyāḥ) while others danced (nṛtyanti ca tathā ’parāḥ).
+**13:** Some sang celestial melodies (_gāyanti divya-geyāni_) and others played musical instruments (_vādayanti tathā ’parāḥ_); still others sported with joyous sounds (_kṣvelayanti tathā cānyāḥ_) while others danced (_nṛtyanti ca tathā ’parāḥ_).
 </details>
 </details>
 
@@ -478,9 +478,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Other nymphs, with chowries radiant as moonbeams and fitted with golden handles (candra-raśmy-ābhair hema-daṇḍaiś ca cāmaraiḥ), repeatedly fanned his lotus-eyed countenance (dodhūyur vadanaṃ tasya puṇḍarīka-nibhekṣaṇam).
+**14:** Other nymphs, with chowries radiant as moonbeams and fitted with golden handles (_candra-raśmy-ābhair hema-daṇḍaiś ca cāmaraiḥ_), repeatedly fanned his lotus-eyed countenance (_dodhūyur vadanaṃ tasya puṇḍarīka-nibhekṣaṇam_).
 
-**15:** Then, quitting his lion-throne like the sun descending from the crest of Mount Meru (siṃhāsanaṃ tyaktvā meru-kūṭam ivāṃśumān), and stepping down from the aerial car while I looked on, O Rāma (paśyato me tadā rāma vimānād avaruhya ca), that celestial being devoured that corpse (taṃ śavaṃ bhakṣayāmāsa sa svargī), O delight of the Raghus.
+**15:** Then, quitting his lion-throne like the sun descending from the crest of Mount Meru (_siṃhāsanaṃ tyaktvā meru-kūṭam ivāṃśumān_), and stepping down from the aerial car while I looked on, O Rāma (_paśyato me tadā rāma vimānād avaruhya ca_), that celestial being devoured that corpse (_taṃ śavaṃ bhakṣayāmāsa sa svargī_), O delight of the Raghus.
 </details>
 </details>
 
@@ -509,7 +509,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus eaten to his heart’s content of that abundant, rich-fleshed meat (bhuktvā yathākāmaṃ māṃsaṃ bahu supīvaram), the celestial dweller stepped down into the lake and proceeded to sip water for purification (avatīrya saraḥ svargī saṃspraṣṭum upacakrame).
+Having thus eaten to his heart’s content of that abundant, rich-fleshed meat (_bhuktvā yathākāmaṃ māṃsaṃ bahu supīvaram_), the celestial dweller stepped down into the lake and proceeded to sip water for purification (_avatīrya saraḥ svargī saṃspraṣṭum upacakrame_).
 </details>
 </details>
 
@@ -551,7 +551,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly rinsed his mouth according to ordinance (upaspṛśya yathānyāyam), O bull of the Raghus (raghupuṅgava), that celestial dweller proceeded to ascend his supreme, most excellent aerial chariot (āroḍhum upacakrāma vimāna-varam uttamam).
+Having duly rinsed his mouth according to ordinance (_upaspṛśya yathānyāyam_), O bull of the Raghus (_raghupuṅgava_), that celestial dweller proceeded to ascend his supreme, most excellent aerial chariot (_āroḍhum upacakrāma vimāna-varam uttamam_).
 </details>
 </details>
 
@@ -585,7 +585,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that godlike being as he was mounting (tam ahaṃ deva-saṅkāśam ārohantam udīkṣya vai), I thereupon addressed these words to that celestial dweller (athāham abruvaṃ vākyaṃ svargiṇam), O bull among men:
+Beholding that godlike being as he was mounting (_tam ahaṃ deva-saṅkāśam ārohantam udīkṣya vai_), I thereupon addressed these words to that celestial dweller (_athāham abruvaṃ vākyaṃ svargiṇam_), O bull among men:
 </details>
 </details>
 
@@ -619,7 +619,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who are you, O godlike one (ko bhavān deva-saṅkāśa), and why is this reprehensible food eaten by you (āhāraś ca vigarhitaḥ tvayedaṃ bhujyate)? Pray tell me, O gentle one, for what reason (kim arthaṃ vaktum arhasi)!
+“Who are you, O godlike one (_ko bhavān deva-saṅkāśa_), and why is this reprehensible food eaten by you (_āhāraś ca vigarhitaḥ tvayedaṃ bhujyate_)? Pray tell me, O gentle one, for what reason (_kim arthaṃ vaktum arhasi_)!
 </details>
 </details>
 
@@ -655,7 +655,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To whom could belong such a nature and a diet approved of the gods (kasya syād īdṛśo bhāva āhāro deva-sammataḥ)? Great wonder fills me, O gentle one; I wish to hear the truth (āścaryaṃ vartate saumya śrotum icchāmi tattvataḥ)—for I do not deem this corpse fitting food for you (nāham aupayikaṃ manye tava bhakṣyam idaṃ śavam)!”
+“To whom could belong such a nature and a diet approved of the gods (_kasya syād īdṛśo bhāva āhāro deva-sammataḥ_)? Great wonder fills me, O gentle one; I wish to hear the truth (_āścaryaṃ vartate saumya śrotum icchāmi tattvataḥ_)—for I do not deem this corpse fitting food for you (_nāham aupayikaṃ manye tava bhakṣyam idaṃ śavam_)!”
 </details>
 </details>
 
@@ -699,7 +699,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus with curious yet gracious and truthful speech, O lord of men (kautūhalāt sūnṛtayā girā ca), that dweller of heaven (nākī), having heard all these words of mine, recounted everything to me just as it happened (sarvaṃ tathā cākathayan mameti).
+Addressed thus with curious yet gracious and truthful speech, O lord of men (_kautūhalāt sūnṛtayā girā ca_), that dweller of heaven (_nākī_), having heard all these words of mine, recounted everything to me just as it happened (_sarvaṃ tathā cākathayan mameti_).
 </details>
 </details>
 

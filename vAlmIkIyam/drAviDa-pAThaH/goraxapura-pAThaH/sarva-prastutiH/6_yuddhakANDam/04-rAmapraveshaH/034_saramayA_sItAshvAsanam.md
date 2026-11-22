@@ -67,7 +67,7 @@ Gladdening Sītā like rain upon parched earth, Saramā offers to fly unseen acr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Saramā gladdened (hlādayāmāsa) her—who had been deluded by that speech [of Rāvaṇa] and stricken with burning anguish (jāta-saṃtāpām)—as one refreshes the scorched earth with water (mahīṃ dagdhām ivāmbhasā).
+Then Saramā gladdened (_hlādayāmāsa_) her—who had been deluded by that speech [of Rāvaṇa] and stricken with burning anguish (_jāta-saṃtāpām_)—as one refreshes the scorched earth with water (_mahīṃ dagdhām ivāmbhasā_).
 </details>
 </details>
 
@@ -104,7 +104,7 @@ Then Saramā gladdened (hlādayāmāsa) her—who had been deluded by that speec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, desiring to do what was beneficial for her friend (hitam sakhyāś cikīrṣantī), that companion, knowing the proper season (kāla-jñā) and speaking with a gentle smile (smita-pūrvābhibhāṣiṇī), spoke this word at the timely moment:
+Then, desiring to do what was beneficial for her friend (_hitam sakhyāś cikīrṣantī_), that companion, knowing the proper season (_kāla-jñā_) and speaking with a gentle smile (_smita-pūrvābhibhāṣiṇī_), spoke this word at the timely moment:
 </details>
 </details>
 
@@ -156,7 +156,7 @@ to Rama and to return secretly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am able (utsaheyam aham), O dark-eyed lady (asitekṣaṇe), to go and report your message of welfare (nivedya kuśalaṃ) to Rāma, and then return unseen (praticchannā nivartitum)!
+“I am able (_utsaheyam aham_), O dark-eyed lady (_asitekṣaṇe_), to go and report your message of welfare (_nivedya kuśalaṃ_) to Rāma, and then return unseen (_praticchannā nivartitum_)!
 </details>
 </details>
 
@@ -208,7 +208,7 @@ the eagle can follow my movement."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For as I course through the supportless sky (kramamāṇāyā nirālambe vihāyasi), neither the Wind (pavanaḥ) nor even Garuḍa is able to follow my path (samartho gatim anvetum).”
+For as I course through the supportless sky (_kramamāṇāyā nirālambe vihāyasi_), neither the Wind (_pavanaḥ_) nor even Garuḍa is able to follow my path (_samartho gatim anvetum_).”
 </details>
 </details>
 
@@ -264,7 +264,7 @@ grief, gently and sweetly replied in the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Saramā, who was speaking thus, Sītā spoke this sweet (madhuram) reply in a gentle voice (ślakṣṇayā vācā) that had previously been overwhelmed by grief (pūrva-śokābhipannayā):
+To Saramā, who was speaking thus, Sītā spoke this sweet (_madhuram_) reply in a gentle voice (_ślakṣṇayā vācā_) that had previously been overwhelmed by grief (_pūrva-śokābhipannayā_):
 </details>
 </details>
 
@@ -317,7 +317,7 @@ from me today the duty that has got to be performed by you for my sake."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are able to go to the sky (samarthā gaganaṃ gantum) or even to the netherworld (rasātalam); know today what ought to be done (avagacchādya kartavyam)—what must be done by you on my behalf (kartavyaṃ te mad-antare).
+“You are able to go to the sky (_samarthā gaganaṃ gantum_) or even to the netherworld (_rasātalam_); know today what ought to be done (_avagacchādya kartavyam_)—what must be done by you on my behalf (_kartavyaṃ te mad-antare_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ to go and know what Ravana is doing now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If what is dear to me is to be done (mat-priyaṃ yadi kartavyam), and if your resolve is firm (yadi buddhiḥ sthirā tava), I wish to know—having gone to him—what Rāvaṇa is doing (kiṃ karotīti rāvaṇaḥ)!
+“If what is dear to me is to be done (_mat-priyaṃ yadi kartavyam_), and if your resolve is firm (_yadi buddhiḥ sthirā tava_), I wish to know—having gone to him—what Rāvaṇa is doing (_kiṃ karotīti rāvaṇaḥ_)!
 </details>
 </details>
 
@@ -432,7 +432,7 @@ is imbibed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For that cruel, wicked-souled Rāvaṇa, the make-wailer of his foes (śatru-rāvaṇaḥ), whose strength lies in sorcery (māyā-balaḥ), bewilders me (māṃ mohayati) like wine the moment it is drunk (pīta-mātreva vāruṇī).
+For that cruel, wicked-souled Rāvaṇa, the make-wailer of his foes (_śatru-rāvaṇaḥ_), whose strength lies in sorcery (_māyā-balaḥ_), bewilders me (_māṃ mohayati_) like wine the moment it is drunk (_pīta-mātreva vāruṇī_).
 </details>
 </details>
 
@@ -485,7 +485,7 @@ who always surround me and insult me by their act repeatedly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He constantly has me menaced (tarjāpayati māṃ nityam) and repeatedly reviled (bhartsāpayati cāsakṛt) by the utterly dreadful rākṣasīs (rākṣasībhiḥ su-ghorābhiḥ), he who guards me unceasingly.
+He constantly has me menaced (_tarjāpayati māṃ nityam_) and repeatedly reviled (_bhartsāpayati cāsakṛt_) by the utterly dreadful rākṣasīs (_rākṣasībhiḥ su-ghorābhiḥ_), he who guards me unceasingly.
 </details>
 </details>
 
@@ -538,7 +538,7 @@ Staying in Ashoka grove, I am distressed because of his fear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am both agitated and fearful (udvignā śaṅkitā cāsmi), and my mind is not at peace (na svasthaṃ ca mano mama); and even though I have entered the Aśoka grove (aśoka-vanikāṃ gatā), I am agitated out of fear of him (tad-bhayāt).
+I am both agitated and fearful (_udvignā śaṅkitā cāsmi_), and my mind is not at peace (_na svasthaṃ ca mano mama_); and even though I have entered the Aśoka grove (_aśoka-vanikāṃ gatā_), I am agitated out of fear of him (_tad-bhayāt_).
 </details>
 </details>
 
@@ -592,7 +592,7 @@ me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If indeed there be any talk (kathā) of his, or whatever be resolved (niścitaṃ vāpi yad bhavet), should you report all that to me (nivedayethāḥ sarvaṃ tat), it would be the choicest favor (varo me syād anugrahaḥ)!”
+If indeed there be any talk (_kathā_) of his, or whatever be resolved (_niścitaṃ vāpi yad bhavet_), should you report all that to me (_nivedayethāḥ sarvaṃ tat_), it would be the choicest favor (_varo me syād anugrahaḥ_)!”
 </details>
 </details>
 
@@ -648,7 +648,7 @@ follows to Seetha who was speaking as aforesaid:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Touching her face (vadanaṃ tasyāḥ spṛśantī), which was wet with tears (bāṣpa-viklavam), gentle-spoken (mṛdu-bhāṣiṇī) Saramā spoke thus to Sītā, who was speaking so:
+Touching her face (_vadanaṃ tasyāḥ spṛśantī_), which was wet with tears (_bāṣpa-viklavam_), gentle-spoken (_mṛdu-bhāṣiṇī_) Saramā spoke thus to Sītā, who was speaking so:
 </details>
 </details>
 
@@ -724,7 +724,7 @@ and rendered happy by Sarama, as parched earth is solaced by rain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this is your wish (eṣa te yady abhiprāyaḥ), therefore I shall go, O Jānakī; having grasped the intention of the foe (gṛhya śatror abhiprāyam), I shall return (upāvartāmi), O Maithilī!”
+“If this is your wish (_eṣa te yady abhiprāyaḥ_), therefore I shall go, O Jānakī; having grasped the intention of the foe (_gṛhya śatror abhiprāyam_), I shall return (_upāvartāmi_), O Maithilī!”
 </details>
 </details>
 
@@ -780,7 +780,7 @@ conversation of Ravana who was with his ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, she then went near that rākṣasa (gatvā samīpaṃ tasya rakṣasaḥ) and overheard what was spoken (śuśrāva kathitam) by Rāvaṇa together with his counselors (sa-mantriṇaḥ).
+Having spoken thus, she then went near that rākṣasa (_gatvā samīpaṃ tasya rakṣasaḥ_) and overheard what was spoken (_śuśrāva kathitam_) by Rāvaṇa together with his counselors (_sa-mantriṇaḥ_).
 </details>
 </details>
 
@@ -833,7 +833,7 @@ returned to Ashoka grove.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the resolve (niścayam) of that wicked-souled one, she who knew how to discern decisions (niścaya-jñā) swiftly returned once more (punar evāgamat kṣipram) to the lovely Aśoka grove.
+Having heard the resolve (_niścayam_) of that wicked-souled one, she who knew how to discern decisions (_niścaya-jñā_) swiftly returned once more (_punar evāgamat kṣipram_) to the lovely Aśoka grove.
 </details>
 </details>
 
@@ -888,7 +888,7 @@ of prosperity (and the wife of Vishnu); bereft of the lotus and waiting for her 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered there, she then beheld the daughter of Janaka awaiting her alone (pratīkṣamāṇāṃ svām eva), looking like the goddess Śrī bereft of her lotus (bhraṣṭa-padmām iva śriyam).
+Having entered there, she then beheld the daughter of Janaka awaiting her alone (_pratīkṣamāṇāṃ svām eva_), looking like the goddess Śrī bereft of her lotus (_bhraṣṭa-padmām iva śriyam_).
 </details>
 </details>
 
@@ -943,7 +943,7 @@ offered personally a seat to her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing most affectionately (pariṣvajya ca su-snigdham) that sweet-spoken Saramā who had come back, Sītā herself offered her a seat (dadau ca svayam āsanam):
+Embracing most affectionately (_pariṣvajya ca su-snigdham_) that sweet-spoken Saramā who had come back, Sītā herself offered her a seat (_dadau ca svayam āsanam_):
 </details>
 </details>
 
@@ -995,7 +995,7 @@ Ravana"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seated comfortably here (ihāsīnā sukham), relate to me truly (sarvam ākhyāhi mama tattvataḥ) the entire resolve of that cruel, wicked-souled Rāvaṇa!”
+“Seated comfortably here (_ihāsīnā sukham_), relate to me truly (_sarvam ākhyāhi mama tattvataḥ_) the entire resolve of that cruel, wicked-souled Rāvaṇa!”
 </details>
 </details>
 
@@ -1055,7 +1055,7 @@ of Ravana together with his ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the trembling (vepamānayā) Sītā, Saramā related everything (sarvam ācaṣṭa) that had been spoken by Rāvaṇa together with his counselors:
+Thus addressed by the trembling (_vepamānayā_) Sītā, Saramā related everything (_sarvam ācaṣṭa_) that had been spoken by Rāvaṇa together with his counselors:
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ aged minister asking for your release, O Seetha!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By his mother (jananyā) and by the deeply affectionate (ati-snigdhena), aged counselor (mantri-vṛddhena), O Vaidehī, the lord of the rākṣasas was urged (coditaḥ) with weighty words (bṛhad vacaḥ) for the sake of your release (tvan-mokṣārtham):
+“By his mother (_jananyā_) and by the deeply affectionate (_ati-snigdhena_), aged counselor (_mantri-vṛddhena_), O Vaidehī, the lord of the rākṣasas was urged (_coditaḥ_) with weighty words (_bṛhad vacaḥ_) for the sake of your release (_tvan-mokṣārtham_):
 </details>
 </details>
 
@@ -1165,7 +1165,7 @@ Khara and Dushana at Janastana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Let Maithilī be given back with due honor (dīyatām abhisatkṛtya) to the lord of men (manujendrāya)! What happened in Janasthāna, so wondrous (yad adbhutam), is sufficient proof (nidarśanaṃ te paryāptam) for you.
+‘Let Maithilī be given back with due honor (_dīyatām abhisatkṛtya_) to the lord of men (_manujendrāya_)! What happened in Janasthāna, so wondrous (_yad adbhutam_), is sufficient proof (_nidarśanaṃ te paryāptam_) for you.
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ Hanuman, and the carnage of the demons in combat on this earth?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the leaping across the ocean (laṅghanaṃ ca samudrasya), the finding [of Sītā] by Hanūmān (darśanaṃ ca hanūmataḥ), and the slaying of the rākṣasas in battle—what mere mortal (mānuṣaḥ) could accomplish this in combat?’
+And the leaping across the ocean (_laṅghanaṃ ca samudrasya_), the finding [of Sītā] by Hanūmān (_darśanaṃ ca hanūmataḥ_), and the slaying of the rākṣasas in battle—what mere mortal (_mānuṣaḥ_) could accomplish this in combat?’
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ appropriate time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though admonished thus in many ways (evaṃ bahu-bodhitaḥ) by the aged counselors (mantra-vṛddhaiḥ) and by his mother (mātrā ca), he cannot bring himself to release you (na tvām utsahate moktum), just as a miser cannot part with his wealth (artham artha-paro yathā).
+Though admonished thus in many ways (_evaṃ bahu-bodhitaḥ_) by the aged counselors (_mantra-vṛddhaiḥ_) and by his mother (_mātrā ca_), he cannot bring himself to release you (_na tvām utsahate moktum_), just as a miser cannot part with his wealth (_artham artha-paro yathā_).
 </details>
 </details>
 
@@ -1351,7 +1351,7 @@ is the resolve of the cruel Ravana along with his ministers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Until he dies in battle (amṛto yuddhe), he cannot bring himself to release you (notsahati moktuṃ tvām)’—such, O Maithilī, is the settled resolve (niścayo hy eṣa vartate) of that ruthless one together with his ministers (sāmātyasya nṛśaṃsasya).
+“‘Until he dies in battle (_amṛto yuddhe_), he cannot bring himself to release you (_notsahati moktuṃ tvām_)’—such, O Maithilī, is the settled resolve (_niścayo hy eṣa vartate_) of that ruthless one together with his ministers (_sāmātyasya nṛśaṃsasya_).
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ until he is actually defeated in battle through the carnage of all the demons an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore this fixed resolve (su-sthirā buddhiḥ) has arisen out of a craving for death (mṛtyu-lobhād upasthitā); unvanquished in battle (anirastaḥ sa saṃyuge), he is unable to release you out of mere fear (bhayān na śaktas tvāṃ moktum)—
+Therefore this fixed resolve (_su-sthirā buddhiḥ_) has arisen out of a craving for death (_mṛtyu-lobhād upasthitā_); unvanquished in battle (_anirastaḥ sa saṃyuge_), he is unable to release you out of mere fear (_bhayān na śaktas tvāṃ moktum_)—
 </details>
 </details>
 
@@ -1463,7 +1463,7 @@ you back to Ayodhya by all means."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—save through the slaying of all the rākṣasas and of himself (rākṣasānāṃ ca sarveṣām ātmanaś ca vadhena hi)! Having slain Rāvaṇa in battle (nihatya rāvaṇaṃ saṃkhye) completely with keen arrows (niśitaiḥ śaraiḥ), Rāma shall lead you back to Ayodhyā (pratineṣyati rāmas tvām ayodhyām), O dark-eyed lady!”
+—save through the slaying of all the rākṣasas and of himself (_rākṣasānāṃ ca sarveṣām ātmanaś ca vadhena hi_)! Having slain Rāvaṇa in battle (_nihatya rāvaṇaṃ saṃkhye_) completely with keen arrows (_niśitaiḥ śaraiḥ_), Rāma shall lead you back to Ayodhyā (_pratineṣyati rāmas tvām ayodhyām_), O dark-eyed lady!”
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ of kettle drums, causing earth to shake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime (etasminn antare), a clamor of all the armies, tumultuous with war-drums and conchs (bherī-śaṅkha-samākulaḥ), was heard making the surface of the earth tremble (kampayan dharaṇī-talam).
+In the meantime (_etasminn antare_), a clamor of all the armies, tumultuous with war-drums and conchs (_bherī-śaṅkha-samākulaḥ_), was heard making the surface of the earth tremble (_kampayan dharaṇī-talam_).
 </details>
 </details>
 
@@ -1590,7 +1590,7 @@ in it, owing to the fault of their king.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that roar of the monkey host (vānara-sainya-nādam), the servants of the rākṣasa king inside Laṅkā (laṅkā-gatā rākṣasa-rāja-bhṛtyāḥ), their vigor broken (hataujasaḥ) and their actions seized by dejection (dainya-parīta-ceṣṭāḥ), beheld no welfare ahead (śreyo na paśyanti) because of their king's transgression (nṛpasya doṣāt).
+Hearing that roar of the monkey host (_vānara-sainya-nādam_), the servants of the rākṣasa king inside Laṅkā (_laṅkā-gatā rākṣasa-rāja-bhṛtyāḥ_), their vigor broken (_hataujasaḥ_) and their actions seized by dejection (_dainya-parīta-ceṣṭāḥ_), beheld no welfare ahead (_śreyo na paśyanti_) because of their king&#x27;s transgression (_nṛpasya doṣāt_).
 </details>
 </details>
 

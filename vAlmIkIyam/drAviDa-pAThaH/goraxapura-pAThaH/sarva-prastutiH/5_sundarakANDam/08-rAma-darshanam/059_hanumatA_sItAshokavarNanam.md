@@ -86,7 +86,7 @@ words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having recounted all that (etat सर्वं आख्याय), Hanūmān, the son of the Wind-god (mārutātmajaḥ), proceeded once more (bhūyaḥ samupacakrāma) to speak a further word (vacanam uttaram).
+Having recounted all that (_etat सर्वं आख्याय_), Hanūmān, the son of the Wind-god (_mārutātmajaḥ_), proceeded once more (_bhūyaḥ samupacakrāma_) to speak a further word (_vacanam uttaram_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ fulfilled. My mind too is devoted to her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fruitful is Rāghava’s exertion (saphalo rāghavodyogaḥ) and Sugrīva’s eager zeal (saṃbhramaḥ); having witnessed Sītā’s noble conduct (śīlam āsādya), my mind is deeply gladdened (prīṇitaṃ manaḥ).
+“Fruitful is Rāghava’s exertion (_saphalo rāghavodyogaḥ_) and Sugrīva’s eager zeal (_saṃbhramaḥ_); having witnessed Sītā’s noble conduct (_śīlam āsādya_), my mind is deeply gladdened (_prīṇitaṃ manaḥ_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ by the power of his penance. Even if he is enraged, he can scorch away his adver
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Worthy is the chaste conduct (sadṛśaṃ śīlam) of the noble lady Sītā (āryāyāḥ sītāyāḥ), O bulls among leapers (plavagarṣabhāḥ); by her austerity (tapasā) she could sustain the worlds (dhārayel lokān), or if enraged (kruddhā vā), even burn them up (nirdahed api).
+Worthy is the chaste conduct (_sadṛśaṃ śīlam_) of the noble lady Sītā (_āryāyāḥ sītāyāḥ_), O bulls among leapers (_plavagarṣabhāḥ_); by her austerity (_tapasā_) she could sustain the worlds (_dhārayel lokān_), or if enraged (_kruddhā vā_), even burn them up (_nirdahed api_).
 </details>
 </details>
 
@@ -249,7 +249,7 @@ stirred by anger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In every way (sarvathā) that Rāvaṇa, lord of Rākṣasas (rākṣaseśvaraḥ), is of surpassing ascetic might (atiprakṛṣṭaḥ), since his body (gātram), when touching her (tāṃ spṛśataḥ), was not consumed (na vināśitam) by her austerity (tapasā).
+In every way (_sarvathā_) that Rāvaṇa, lord of Rākṣasas (_rākṣaseśvaraḥ_), is of surpassing ascetic might (_atiprakṛṣṭaḥ_), since his body (_gātram_), when touching her (_tāṃ spṛśataḥ_), was not consumed (_na vināśitam_) by her austerity (_tapasā_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even a tongue of flame (agniśikhā) touched directly by the hand (saṃspṛṣṭā pāṇinā satī) could not do (na tat kuryāt) what Janaka’s daughter (janakasya sutā), turbid with wrath (krodhakaluṣīkṛtā), could accomplish (kuryāt).
+Even a tongue of flame (_agniśikhā_) touched directly by the hand (_saṃspṛṣṭā pāṇinā satī_) could not do (_na tat kuryāt_) what Janaka’s daughter (_janakasya sutā_), turbid with wrath (_krodhakaluṣīkṛtā_), could accomplish (_kuryāt_).
 </details>
 </details>
 
@@ -335,7 +335,7 @@ permission from all the great monkeys headed by Jambavan.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having sought the leave of all the great monkeys headed by Jāmbavān (jāmbavatpramukhān sarvān anujñāpya mahākapīn), when this business has reached such a pass (asmin evaṃgate kārye) and been reported to you (bhavatāṃ ca nivedite), it were fitting indeed (nyāyyaṃ sma) to behold those two royal princes (tau pārthivātmajau) only together with Vaidehī (saha vaidehyā).
+Having sought the leave of all the great monkeys headed by Jāmbavān (_jāmbavatpramukhān sarvān anujñāpya mahākapīn_), when this business has reached such a pass (_asmin evaṃgate kārye_) and been reported to you (_bhavatāṃ ca nivedite_), it were fitting indeed (_nyāyyaṃ sma_) to behold those two royal princes (_tau pārthivātmajau_) only together with Vaidehī (_saha vaidehyā_).
 </details>
 </details>
 
@@ -419,9 +419,9 @@ in the use of arms, valiant, longing for victory and moving by jumps, how much m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** I alone am sufficient (aham eko 'pi paryāptaḥ) to destroy by force (tarasā hantum) that city of Laṅkā (tāṃ laṅkāṃ purīm) along with its hosts of Rākṣasas (sarākṣasagaṇām), and Rāvaṇa of mighty strength (rāvaṇaṃ ca mahābalam);
+**7:** I alone am sufficient (_aham eko &#x27;pi paryāptaḥ_) to destroy by force (_tarasā hantum_) that city of Laṅkā (_tāṃ laṅkāṃ purīm_) along with its hosts of Rākṣasas (_sarākṣasagaṇām_), and Rāvaṇa of mighty strength (_rāvaṇaṃ ca mahābalam_);
 
-**8:** how much more so (kiṃ punaḥ) when joined by you (sahito bhavadbhiḥ)—heroes (vīraiḥ) endowed with strength (balavadbhiḥ), self-possessed (kṛtātmabhiḥ), accomplished in weapons (kṛtāstraiḥ), capable leapers (plavagaiḥ śaktaiḥ) eager for victory (vijayaiṣibhiḥ)!
+**8:** how much more so (_kiṃ punaḥ_) when joined by you (_sahito bhavadbhiḥ_)—heroes (_vīraiḥ_) endowed with strength (_balavadbhiḥ_), self-possessed (_kṛtātmabhiḥ_), accomplished in weapons (_kṛtāstraiḥ_), capable leapers (_plavagaiḥ śaktaiḥ_) eager for victory (_vijayaiṣibhiḥ_)!
 </details>
 </details>
 
@@ -466,7 +466,7 @@ sons and his brothers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In battle (yuddhe) I shall slay Rāvaṇa (ahaṃ tu rāvaṇaṃ vadhiṣyāmi) along with his army and vanguard (sasainyaṃ sapuraḥsaram), together with his sons (sahaputram) and joined by his brothers (sahodarayutaṃ yudhi).
+In battle (_yuddhe_) I shall slay Rāvaṇa (_ahaṃ tu rāvaṇaṃ vadhiṣyāmi_) along with his army and vanguard (_sasainyaṃ sapuraḥsaram_), together with his sons (_sahaputram_) and joined by his brothers (_sahodarayutaṃ yudhi_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether it be the missile of Brahmā (brāhmam astram), or of Rudra (raudraṃ ca), or of Vāyu (vāyavyam), or likewise of Varuṇa (vāruṇaṃ tathā)—whatever missiles of Indrajit (yadi śakrajito 'strāṇi) are hard to gaze upon in combat (durnirīkṣyāṇi saṃyuge), those I shall strike down (tāny ahaṃ nihaniṣyāmi) and scatter the Rākṣasas (vidhamiṣyāmi rākṣasān).
+Whether it be the missile of Brahmā (_brāhmam astram_), or of Rudra (_raudraṃ ca_), or of Vāyu (_vāyavyam_), or likewise of Varuṇa (_vāruṇaṃ tathā_)—whatever missiles of Indrajit (_yadi śakrajito &#x27;strāṇi_) are hard to gaze upon in combat (_durnirīkṣyāṇi saṃyuge_), those I shall strike down (_tāny ahaṃ nihaniṣyāmi_) and scatter the Rākṣasas (_vidhamiṣyāmi rākṣasān_).
 </details>
 </details>
 
@@ -559,7 +559,7 @@ those missiles even if they are difficult to be looked at, employed by Indrajit 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sanctioned by you (bhavatām abhyanujñātaḥ), my valor (vikramo me) shall vanquish him (ruṇaddhi tam); for an peerless, unceasing rain of crags (atulā śailavṛṣṭir nirantarā) hurled by me (mayā visṛṣṭā hi)—
+Sanctioned by you (_bhavatām abhyanujñātaḥ_), my valor (_vikramo me_) shall vanquish him (_ruṇaddhi tam_); for an peerless, unceasing rain of crags (_atulā śailavṛṣṭir nirantarā_) hurled by me (_mayā visṛṣṭā hi_)—
 </details>
 </details>
 
@@ -643,9 +643,9 @@ battle, no army of adversaries can stagger Jambavan."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** could slay even the gods in battle (devān api raṇe hanyāt), how much more those night-stalkers (kiṃ punas tān niśācarān)! Unsanctioned by you (bhavatām ananujñātaḥ), my valor holds me back (vikramo me ruṇaddhi mām).
+**12:** could slay even the gods in battle (_devān api raṇe hanyāt_), how much more those night-stalkers (_kiṃ punas tān niśācarān_)! Unsanctioned by you (_bhavatām ananujñātaḥ_), my valor holds me back (_vikramo me ruṇaddhi mām_).
 
-**13:** Even the ocean might transgress its shore (sāgaro 'py atiyād velām), and Mount Mandara itself might shake (mandaraḥ pracaled api); yet an enemy host (arivāhinī) could never shake Jāmbavān in battle (na jāmbavantaṃ samare kampayet).
+**13:** Even the ocean might transgress its shore (_sāgaro &#x27;py atiyād velām_), and Mount Mandara itself might shake (_mandaraḥ pracaled api_); yet an enemy host (_arivāhinī_) could never shake Jāmbavān in battle (_na jāmbavantaṃ samare kampayet_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ demons and even the demons who were their progenitors."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The heroic monkey who is Vālin’s son (vīro vālisutaḥ kapiḥ) is alone sufficient (alam eko 'pi) for the destruction (nāśāya) of all the hosts of Rākṣasas (sarvarākṣasasaṅghānām) and whichever Rākṣasas are their foremost elders (rākṣasā ye ca pūrvajāḥ).
+The heroic monkey who is Vālin’s son (_vīro vālisutaḥ kapiḥ_) is alone sufficient (_alam eko &#x27;pi_) for the destruction (_nāśāya_) of all the hosts of Rākṣasas (_sarvarākṣasasaṅghānām_) and whichever Rākṣasas are their foremost elders (_rākṣasā ye ca pūrvajāḥ_).
 </details>
 </details>
 
@@ -755,7 +755,7 @@ Mandara can be shattered. How much more, the demons in battle?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And by the impetuous speed of the thighs (ūruvegena) of the high-souled leaper Nīla (plavagasya nīlasya ca mahātmanaḥ), even Mount Mandara would shatter (mandaro 'py avaśīryeta), how much more the Rākṣasas in battle (kiṃ punar yudhi rākṣasāḥ)!
+And by the impetuous speed of the thighs (_ūruvegena_) of the high-souled leaper Nīla (_plavagasya nīlasya ca mahātmanaḥ_), even Mount Mandara would shatter (_mandaro &#x27;py avaśīryeta_), how much more the Rākṣasas in battle (_kiṃ punar yudhi rākṣasāḥ_)!
 </details>
 </details>
 
@@ -802,7 +802,7 @@ beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Among gods, Asuras, and Yakṣas (sadevāsurayakṣeṣu), and among Gandharvas, serpents, and birds (gandharvoragapakṣiṣu), name any adversary (pratiyoddhāraṃ śaṃsata) to match Mainda or Dvivida (maindasya dvividasya vā)!
+Among gods, Asuras, and Yakṣas (_sadevāsurayakṣeṣu_), and among Gandharvas, serpents, and birds (_gandharvoragapakṣiṣu_), name any adversary (_pratiyoddhāraṃ śaṃsata_) to match Mainda or Dvivida (_maindasya dvividasya vā_)!
 </details>
 </details>
 
@@ -857,7 +857,7 @@ the monkeys. In the battle-field, I do not find anyone who can fight against the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-These two foremost of leapers (etau plavagasattamau), the sons of the Aśvins (aśviputrau), are of mighty speed (mahāvegau); I see no adversary for these two (etayoḥ pratiyoddhāraṃ na paśyāmi) upon the battlefield (raṇājire).
+These two foremost of leapers (_etau plavagasattamau_), the sons of the Aśvins (_aśviputrau_), are of mighty speed (_mahāvegau_); I see no adversary for these two (_etayoḥ pratiyoddhāraṃ na paśyāmi_) upon the battlefield (_raṇājire_).
 </details>
 </details>
 
@@ -892,7 +892,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By me alone was Laṅkā struck down (mayaiva nihatā laṅkā), burned, and the city reduced to ashes (dagdhā bhasmīkṛtā purī); and in all its royal highways (rājamārgeṣu sarveṣu) the name was proclaimed by me (nāma viśrāvitaṃ mayā):
+By me alone was Laṅkā struck down (_mayaiva nihatā laṅkā_), burned, and the city reduced to ashes (_dagdhā bhasmīkṛtā purī_); and in all its royal highways (_rājamārgeṣu sarveṣu_) the name was proclaimed by me (_nāma viśrāvitaṃ mayā_):
 </details>
 </details>
 
@@ -990,9 +990,9 @@ and thereupon drank up nectar, excited as they were with joy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** ‘Victorious is Rāma of surpassing strength (jayaty atibalo rāmaḥ), and Lakṣmaṇa of mighty power (lakṣmaṇaś ca mahābalaḥ); victorious is King Sugrīva (rājā jayati sugrīvaḥ), protected by Rāghava (rāghaveṇābhipālitaḥ)!
+**19:** ‘Victorious is Rāma of surpassing strength (_jayaty atibalo rāmaḥ_), and Lakṣmaṇa of mighty power (_lakṣmaṇaś ca mahābalaḥ_); victorious is King Sugrīva (_rājā jayati sugrīvaḥ_), protected by Rāghava (_rāghaveṇābhipālitaḥ_)!
 
-**20:** I am the servant of the king of Kosala (ahaṃ kosalarājasya dāsaḥ), born of the Wind-god (pavanasambhavaḥ), Hanūmān!’—thus everywhere (iti sarvatra) was my name proclaimed by me (nāma viśrāvitaṃ mayā).
+**20:** I am the servant of the king of Kosala (_ahaṃ kosalarājasya dāsaḥ_), born of the Wind-god (_pavanasambhavaḥ_), Hanūmān!’—thus everywhere (_iti sarvatra_) was my name proclaimed by me (_nāma viśrāvitaṃ mayā_).
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ capable of destroying the entire city of Lanka together with its horses, chariot
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of the Aśoka grove (aśokavanikāmadhye) of the evil-souled Rāvaṇa (rāvaṇasya durātmanaḥ), underneath at the root of a śiṃśapā tree (adhastāc chiṃśapāmūle), the chaste lady abides in piteous sorrow (sādhvī karuṇam āsthitā).
+In the midst of the Aśoka grove (_aśokavanikāmadhye_) of the evil-souled Rāvaṇa (_rāvaṇasya durātmanaḥ_), underneath at the root of a _śiṃśapā_ tree (_adhastāc chiṃśapāmūle_), the chaste lady abides in piteous sorrow (_sādhvī karuṇam āsthitā_).
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by Rākṣasīs (rākṣasībhiḥ parivṛtā) and wasted by grief and torment (śokasaṃtāpakarśitā), she is lustreless (niṣprabhā) like a digit of the moon (candrarekheva) ringed by a streak of cloud (megharekhāparivṛtā).
+Surrounded by Rākṣasīs (_rākṣasībhiḥ parivṛtā_) and wasted by grief and torment (_śokasaṃtāpakarśitā_), she is lustreless (_niṣprabhā_) like a digit of the moon (_candrarekheva_) ringed by a streak of cloud (_megharekhāparivṛtā_).
 </details>
 </details>
 
@@ -1130,7 +1130,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Disregarding Rāvaṇa (acintayantī rāvaṇam), who is arrogant in his strength (baladarpitam), Vaidehī, the fair-hipped Janaka’s daughter (suśroṇī jānakī), remains devoted to her lord (pativratā ca) and held fast in captivity (avaṣṭabdhā ca).
+Disregarding Rāvaṇa (_acintayantī rāvaṇam_), who is arrogant in his strength (_baladarpitam_), Vaidehī, the fair-hipped Janaka’s daughter (_suśroṇī jānakī_), remains devoted to her lord (_pativratā ca_) and held fast in captivity (_avaṣṭabdhā ca_).
 </details>
 </details>
 
@@ -1192,7 +1192,7 @@ way, the name (of Rama and others) was heralded by me everywhere."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the auspicious Vaidehī (vaidehī śubhā) is devoted to Rāma with all her soul (anuraktā hi rāme sarvātmanā), her mind fixed on none other through Rāma (ananyacittā rāmeṇa), like Paulomī toward Purandara (paulomīva purandare).
+For the auspicious Vaidehī (_vaidehī śubhā_) is devoted to Rāma with all her soul (_anuraktā hi rāme sarvātmanā_), her mind fixed on none other through Rāma (_ananyacittā rāmeṇa_), like Paulomī toward Purandara (_paulomīva purandare_).
 </details>
 </details>
 
@@ -1268,9 +1268,9 @@ that Ravana who is arrogant of his strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Clad in that single garment (tadekavāsaḥsaṃvītā) and covered all over with dust (rajodhvastā tathaiva ca), she was seen by me in the midst of the Rākṣasīs (sā mayā rākṣasīmadhye), being threatened again and again (tarjyamānā muhur muhuḥ)—
+**25:** Clad in that single garment (_tadekavāsaḥsaṃvītā_) and covered all over with dust (_rajodhvastā tathaiva ca_), she was seen by me in the midst of the Rākṣasīs (_sā mayā rākṣasīmadhye_), being threatened again and again (_tarjyamānā muhur muhuḥ_)—
 
-**26:** beheld indeed in the pleasure-grove (dṛṣṭā hi pramadāvane) surrounded by hideous Rākṣasīs (rākṣasībhir virūpābhiḥ), wearing a single braid (ekaveṇīdharā), afflicted (dīnā), and wholly absorbed in thoughts of her lord (bhartṛcintāparāyaṇā).
+**26:** beheld indeed in the pleasure-grove (_dṛṣṭā hi pramadāvane_) surrounded by hideous Rākṣasīs (_rākṣasībhir virūpābhiḥ_), wearing a single braid (_ekaveṇīdharā_), afflicted (_dīnā_), and wholly absorbed in thoughts of her lord (_bhartṛcintāparāyaṇā_).
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having the bare ground for her bed (adhaḥśayyā) and her limbs drained of color (vivarṇāṅgī) like a lotus-plant at the onset of winter frost (padminīva himodaye), she has turned her purpose wholly away from Rāvaṇa (rāvaṇād vinivṛttārthā) and resolved upon dying (martavyakṛtaniścayā).
+Having the bare ground for her bed (_adhaḥśayyā_) and her limbs drained of color (_vivarṇāṅgī_) like a lotus-plant at the onset of winter frost (_padminīva himodaye_), she has turned her purpose wholly away from Rāvaṇa (_rāvaṇād vinivṛttārthā_) and resolved upon dying (_martavyakṛtaniścayā_).
 </details>
 </details>
 
@@ -1355,7 +1355,7 @@ the goddess, giving her concern to Indra the destroyer of strong holds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With great difficulty (kathaṃcit) the fawn-eyed lady (mṛgaśāvākṣī) was brought to confidence (viśvāsam upapāditā); then she was conversed with (tataḥ saṃbhāṣitā caiva) and apprised of the entire matter (sarvam arthaṃ prakāśitā).
+With great difficulty (_kathaṃcit_) the fawn-eyed lady (_mṛgaśāvākṣī_) was brought to confidence (_viśvāsam upapāditā_); then she was conversed with (_tataḥ saṃbhāṣitā caiva_) and apprised of the entire matter (_sarvam arthaṃ prakāśitā_).
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having heard of the friendship between Rāma and Sugrīva (rāmasugrīvasakhyaṃ ca śrutvā), she attained joy (prītim upāgatā); steadfast is her virtuous conduct (niyataḥ samudācāraḥ), and supreme is her devotion toward her husband (bhaktir bhartari cottamā).
+And having heard of the friendship between Rāma and Sugrīva (_rāmasugrīvasakhyaṃ ca śrutvā_), she attained joy (_prītim upāgatā_); steadfast is her virtuous conduct (_niyataḥ samudācāraḥ_), and supreme is her devotion toward her husband (_bhaktir bhartari cottamā_).
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ grief and anguish, devoted as she was to the welfare of her husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That she does not slay the ten-necked one (yan na hanti daśagrīvam), that ten-faced demon is of great ascetic might (sa mahātmā daśānanaḥ); yet Rāma will be the mere instrument (nimittamātraṃ rāmas tu) in his slaying (vadhe tasya bhaviṣyati).
+That she does not slay the ten-necked one (_yan na hanti daśagrīvam_), that ten-faced demon is of great ascetic might (_sa mahātmā daśānanaḥ_); yet Rāma will be the mere instrument (_nimittamātraṃ rāmas tu_) in his slaying (_vadhe tasya bhaviṣyati_).
 </details>
 </details>
 
@@ -1505,7 +1505,7 @@ figure in winter, she had determined to die, utterly averting to do anything wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Naturally slender-limbed (sā prakṛtyaiva tanvaṅgī) and wasted further by separation from him (tadviyogāc ca karśitā), she has fallen into extreme thinness (tanutāṃ gatā) like the learning of one who studies on the first lunar day (pratipatpāṭhaśīlasya vidyeva).
+Naturally slender-limbed (_sā prakṛtyaiva tanvaṅgī_) and wasted further by separation from him (_tadviyogāc ca karśitā_), she has fallen into extreme thinness (_tanutāṃ gatā_) like the learning of one who studies on the first lunar day (_pratipatpāṭhaśīlasya vidyeva_).
 </details>
 </details>
 
@@ -1568,7 +1568,7 @@ between Rama and Sugreeva."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus abides the illustrious Sītā (evam āste mahābhāgā sītā), wholly given over to grief (śokaparāyaṇā); whatever counter-measure is to be taken in this matter (yad atra pratikartavyam), let all that be promptly contrived (tat sarvam upakalpyatām).”
+Thus abides the illustrious Sītā (_evam āste mahābhāgā sītā_), wholly given over to grief (_śokaparāyaṇā_); whatever counter-measure is to be taken in this matter (_yad atra pratikartavyam_), let all that be promptly contrived (_tat sarvam upakalpyatām_).”
 </details>
 </details>
 

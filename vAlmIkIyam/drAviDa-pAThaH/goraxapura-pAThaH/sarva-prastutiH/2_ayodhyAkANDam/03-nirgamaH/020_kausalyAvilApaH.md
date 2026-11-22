@@ -81,7 +81,7 @@ women in the palace were weaping loudly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that tiger among men went forth with folded hands (kṛtāñjalau), a great cry of anguish arose among the women within the inner apartments.
+As that tiger among men went forth with folded hands (_kṛtāñjalau_), a great cry of anguish arose among the women within the inner apartments.
 </details>
 </details>
 
@@ -136,7 +136,7 @@ protect the entire palace, is about to go to exile now".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, even unprompted by his father, was the refuge (gatiḥ) and protector (śaraṇam) of the entire inner palace in every need—that Rāma will depart into exile today!”
+“He who, even unprompted by his father, was the refuge (_gatiḥ_) and protector (_śaraṇam_) of the entire inner palace in every need—that Rāma will depart into exile today!”
 </details>
 </details>
 
@@ -182,7 +182,7 @@ his mother Kausalya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as Rāghava ever conducts himself with attentive devotion (yuktaḥ) toward his own mother Kausalyā, even so has he conducted himself toward us from his very birth!”
+“Just as Rāghava ever conducts himself with attentive devotion (_yuktaḥ_) toward his own mother Kausalyā, even so has he conducted himself toward us from his very birth!”
 </details>
 </details>
 
@@ -235,7 +235,7 @@ Rama was not furious with those who abused him. Such Rama is going today to exil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even when reviled (abhiśapto 'pi), he never grows angry; avoiding all acts that might provoke anger, and pacifying all who are wrathful, he will depart hence into exile today!”
+“Even when reviled (_abhiśapto &#x27;pi_), he never grows angry; avoiding all acts that might provoke anger, and pacifying all who are wrathful, he will depart hence into exile today!”
 </details>
 </details>
 
@@ -288,7 +288,7 @@ the beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, devoid of wisdom is this king of ours, who destroys the world of living beings (jīvalokaṃ carati) by abandoning Rāghava, the refuge of all creatures!”
+“Alas, devoid of wisdom is this king of ours, who destroys the world of living beings (_jīvalokaṃ carati_) by abandoning Rāghava, the refuge of all creatures!”
 </details>
 </details>
 
@@ -344,7 +344,7 @@ abused their husband .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus like cows bereft of their calves (vivatsā iva dhenavaḥ), all those royal queens reproached their husband (ācukruśuḥ) and wept aloud (cukruśuḥ).
+Speaking thus like cows bereft of their calves (_vivatsā iva dhenavaḥ_), all those royal queens reproached their husband (_ācukruśuḥ_) and wept aloud (_cukruśuḥ_).
 </details>
 </details>
 
@@ -406,7 +406,7 @@ to the seat, with extreme anguish for his son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that dreadful cry of anguish within the inner apartments, the lord of the earth, scorched by grief for his son, shrank into himself upon his couch (vyālīyatāsane).
+Hearing that dreadful cry of anguish within the inner apartments, the lord of the earth, scorched by grief for his son, shrank into himself upon his couch (_vyālīyatāsane_).
 </details>
 </details>
 
@@ -460,7 +460,7 @@ his mother's palace along with Lakshmana
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sorely distressed by his loved ones' grief and sighing like a mighty elephant, the self-mastered (vaśī) Rāma, accompanied by his brother, proceeded to his mother's inner apartments.
+Sorely distressed by his loved ones&#x27; grief and sighing like a mighty elephant, the self-mastered (_vaśī_) Rāma, accompanied by his brother, proceeded to his mother&#x27;s inner apartments.
 </details>
 </details>
 
@@ -743,7 +743,7 @@ quickly entered the house and informed Kausalya about the lovely arrival of Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Greeting him with joyful benedictions, those delighted women hastened into the palace and announced the welcome news of his arrival to Rāma's mother.
+Greeting him with joyful benedictions, those delighted women hastened into the palace and announced the welcome news of his arrival to Rāma&#x27;s mother.
 </details>
 </details>
 
@@ -797,7 +797,7 @@ performing worship to Vishnu,at dawn, for the welfare of her son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devoted to her son's welfare, Queen Kausalyā too had kept a devout vigil throughout the night (rātriṃ sthitvā samāhitā), and at dawn was performing the worship of Lord Viṣṇu.
+Devoted to her son&#x27;s welfare, Queen Kausalyā too had kept a devout vigil throughout the night (_rātriṃ sthitvā samāhitā_), and at dawn was performing the worship of Lord Viṣṇu.
 </details>
 </details>
 
@@ -856,7 +856,7 @@ fire, by reciting vedic hymns.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clad in white silken attire (kṣaumavasanā), joyful, ever devoted to sacred vows, and having performed auspicious rites, she was having oblations offered into the sacred fire to the accompaniment of Vedic mantras.
+Clad in white silken attire (_kṣaumavasanā_), joyful, ever devoted to sacred vows, and having performed auspicious rites, she was having oblations offered into the sacred fire to the accompaniment of Vedic mantras.
 </details>
 </details>
 
@@ -909,7 +909,7 @@ sacrificial ceremony in sacred fire there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering his mother's auspicious inner sanctuary, Rāma beheld his mother there causing the sacrificial fire (hutāśanam) to be fed with oblations.
+Entering his mother&#x27;s auspicious inner sanctuary, Rāma beheld his mother there causing the sacrificial fire (_hutāśanam_) to be fed with oblations.
 </details>
 </details>
 
@@ -976,9 +976,9 @@ spices, sacrificial sticks, vessels full of water etc.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** There he saw arrayed for the worship of the gods curds, unbroken auspicious grains (akṣata), clarified butter, sweetmeats (modakān), and sacrificial oblations (haviṣaḥ),
+**17:** There he saw arrayed for the worship of the gods curds, unbroken auspicious grains (_akṣata_), clarified butter, sweetmeats (_modakān_), and sacrificial oblations (_haviṣaḥ_),
 
-**18:** as well as parched grain (lājān), white garlands, milk-rice (pāyasam), sesame-and-pulse rice (kṛsaram), sacred fuel-sticks (samidhaḥ), and full water-jars—all these the delighter of the Raghus beheld.
+**18:** as well as parched grain (_lājān_), white garlands, milk-rice (_pāyasam_), sesame-and-pulse rice (_kṛsaram_), sacred fuel-sticks (_samidhaḥ_), and full water-jars—all these the delighter of the Raghus beheld.
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ with her white silk sari and was satiating gods by presenting to them libations 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld that fair-complexioned queen clad in white silk, emaciated by the observance of austere vows (vratayogena karśitām), propitiating the deities with water libations.
+He beheld that fair-complexioned queen clad in white silk, emaciated by the observance of austere vows (_vratayogena karśitām_), propitiating the deities with water libations.
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ colt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing her son, the delighter of his mother, arrive after a long time, she stepped forward in great joy, like a mare hastening toward her foal (kiśoraṃ vaḍavā yathā).
+Seeing her son, the delighter of his mother, arrive after a long time, she stepped forward in great joy, like a mare hastening toward her foal (_kiśoraṃ vaḍavā yathā_).
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ took him into her arms and smelt his head.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāghava reverently clasped the feet of his approaching mother (upasaṃgṛhya), he was embraced by her with both arms and smelled upon his head.
+As Rāghava reverently clasped the feet of his approaching mother (_upasaṃgṛhya_), he was embraced by her with both arms and smelled upon his head.
 </details>
 </details>
 
@@ -1255,7 +1255,7 @@ souled and the royal sages .Protect the righteousness engrained in your race"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Attain the long life, the renown, and the righteousness worthy of your lineage that belonged to the aged, righteous, and high-souled royal sages (rājarṣīṇām) of old!”
+“Attain the long life, the renown, and the righteousness worthy of your lineage that belonged to the aged, righteous, and high-souled royal sages (_rājarṣīṇām_) of old!”
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ will be installed as successor to the kingdom by your virtuous father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Look upon your father the king as true to his word (satyapratijñam), O Rāghava; this very day that righteous-souled monarch shall consecrate you in the office of Prince Regent!”
+“Look upon your father the king as true to his word (_satyapratijñam_), O Rāghava; this very day that righteous-souled monarch shall consecrate you in the office of Prince Regent!”
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ after performing salutation to her, spoke thus to his mother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Merely touching with his hand the seat offered to him (dattam āsanam ālabhya) when invited by her to partake of food, Rāghava, slightly extending his folded hands, spoke thus to his mother—
+Merely touching with his hand the seat offered to him (_dattam āsanam ālabhya_) when invited by her to partake of food, Rāghava, slightly extending his folded hands, spoke thus to his mother—
 </details>
 </details>
 
@@ -1428,7 +1428,7 @@ forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-humble by his very nature and bowed low out of reverence for her, as he prepared to set forth for the Daṇḍaka forest and began to ask her leave to depart (āpraṣṭum upacakrame):
+humble by his very nature and bowed low out of reverence for her, as he prepared to set forth for the Daṇḍaka forest and began to ask her leave to depart (_āpraṣṭum upacakrame_):
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ a seat made of Kusha grass."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am departing for the Daṇḍaka forest—what use have I for this royal seat? For the time has now come upon me that is fitting for a seat of darbha grass (viṣṭarāsanayogyaḥ)!”
+“I am departing for the Daṇḍaka forest—what use have I for this royal seat? For the time has now come upon me that is fitting for a seat of _darbha_ grass (_viṣṭarāsanayogyaḥ_)!”
 </details>
 </details>
 
@@ -1585,7 +1585,7 @@ and living with roots, fruits and honey".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For fourteen years I shall dwell in the solitary forest, abstaining from meat and royal delicacies (āmiṣam) like a sage, and subsisting on tubers, roots, and fruits.”
+“For fourteen years I shall dwell in the solitary forest, abstaining from meat and royal delicacies (_āmiṣam_) like a sage, and subsisting on tubers, roots, and fruits.”
 </details>
 </details>
 
@@ -1638,7 +1638,7 @@ he is making me a sage to stay in the forest of Dandaka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The great king bestows the office of Prince Regent upon Bharata, while me he banishes to the Daṇḍaka forest as an ascetic (tāpasam)!”
+“The great king bestows the office of Prince Regent upon Bharata, while me he banishes to the Daṇḍaka forest as an ascetic (_tāpasam_)!”
 </details>
 </details>
 
@@ -1703,7 +1703,7 @@ fruits in a solitary forest for fourteen years."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus for six and eight years I shall dwell in the solitary forest, practicing the observances of the woods (vanyāni) and subsisting on fruits and roots.”
+“Thus for six and eight years I shall dwell in the solitary forest, practicing the observances of the woods (_vanyāni_) and subsisting on fruits and roots.”
 </details>
 </details>
 
@@ -1756,7 +1756,7 @@ by an axe and as an angel dropping down from heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like the slender bough of a sāla tree felled by an axe in the forest, or like a goddess cast down from heaven, the queen fell suddenly to the ground.
+Like the slender bough of a _sāla_ tree felled by an axe in the forest, or like a goddess cast down from heaven, the queen fell suddenly to the ground.
 </details>
 </details>
 
@@ -1810,7 +1810,7 @@ fallen unconsciously on the floor like a plantain tree.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his mother, who had never known sorrow (aduḥkhocitām), fallen unconscious like a plantain tree (kadalīm iva), Rāma raised her up.
+Beholding his mother, who had never known sorrow (_aduḥkhocitām_), fallen unconscious like a plantain tree (_kadalīm iva_), Rāma raised her up.
 </details>
 </details>
 
@@ -1865,7 +1865,7 @@ side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As she rolled upon the ground and rose in wretchedness like a mare exhausted under a heavy load (vaḍavām iva vāhitām), her entire body covered with dust, he gently stroked and wiped her clean with his hand.
+As she rolled upon the ground and rose in wretchedness like a mare exhausted under a heavy load (_vaḍavām iva vāhitām_), her entire body covered with dust, he gently stroked and wiped her clean with his hand.
 </details>
 </details>
 
@@ -1973,7 +1973,7 @@ only to produce sorrow to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Had you not been born to bring me such grief, O Rāghava my son, then—remaining childless (aprajāḥ)—I would never have known a sorrow more bitter than this!”
+“Had you not been born to bring me such grief, O Rāghava my son, then—remaining childless (_aprajāḥ_)—I would never have known a sorrow more bitter than this!”
 </details>
 </details>
 
@@ -2034,7 +2034,7 @@ have no sons".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a barren woman (vandhyāyāḥ) has but a single mental sorrow—the regret, ‘I am childless!’—and no other torment exists for her, my son.”
+“For a barren woman (_vandhyāyāḥ_) has but a single mental sorrow—the regret, ‘I am childless!’—and no other torment exists for her, my son.”
 </details>
 </details>
 
@@ -2088,7 +2088,7 @@ in power. I believed that I could see them at last when my son comes to power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Previously I never knew any favored fortune or happiness during my husband's prime (patipauruṣe); I sustained my life, O Rāma, solely in the hope: ‘Perhaps I shall yet behold it in my son!’”
+“Previously I never knew any favored fortune or happiness during my husband&#x27;s prime (_patipauruṣe_); I sustained my life, O Rāma, solely in the hope: ‘Perhaps I shall yet behold it in my son!’”
 </details>
 </details>
 
@@ -2140,7 +2140,7 @@ me and who pierce my heart with their words though I am a better and virtuous wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though I am the senior queen (parā satī), I shall now have to hear many disagreeable and heart-piercing words from my junior co-wives (sapatnīnām avarāṇām)!”
+“Though I am the senior queen (_parā satī_), I shall now have to hear many disagreeable and heart-piercing words from my junior co-wives (_sapatnīnām avarāṇām_)!”
 </details>
 </details>
 
@@ -2243,7 +2243,7 @@ exile? Death indeed is certain to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even while you were present here, my dear son, I was spurned and cast aside (nirākṛtā); how much more so when you have gone into exile! Surely death alone awaits me!”
+“Even while you were present here, my dear son, I was spurned and cast aside (_nirākṛtā_); how much more so when you have gone into exile! Surely death alone awaits me!”
 </details>
 </details>
 
@@ -2353,7 +2353,7 @@ Bharata".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whoever serves me or follows me in devotion—even that person, upon catching sight of Kaikeyī's son, dares not speak to me!”
+“Whoever serves me or follows me in devotion—even that person, upon catching sight of Kaikeyī&#x27;s son, dares not speak to me!”
 </details>
 </details>
 
@@ -2464,7 +2464,7 @@ ceremony, with the hope that my troubles will disappear at one time or the other
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ten and seven years have passed since your investiture (jātasya tava), O Rāghava, while I waited in longing for the end of my sorrows!”
+“Ten and seven years have passed since your investiture (_jātasya tava_), O Rāghava, while I waited in longing for the end of my sorrows!”
 </details>
 </details>
 
@@ -2516,7 +2516,7 @@ sorrow for a long time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Worn down by age as I am, O Rāghava, I cannot endure for long this inexhaustible, mighty grief and the insolent scorn (viprakāram) of my co-wives!”
+“Worn down by age as I am, O Rāghava, I cannot endure for long this inexhaustible, mighty grief and the insolent scorn (_viprakāram_) of my co-wives!”
 </details>
 </details>
 
@@ -2568,7 +2568,7 @@ radiating like full moon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not beholding your countenance, which shines like the full moon, how shall I, wretched that I am, sustain a miserable existence (kṛpaṇajīvikā)?”
+“Not beholding your countenance, which shines like the full moon, how shall I, wretched that I am, sustain a miserable existence (_kṛpaṇajīvikā_)?”
 </details>
 </details>
 
@@ -2629,7 +2629,7 @@ various difficult and painful vows ."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through fasts, meditations (yogaiḥ), and manifold austerities, in vain were you reared with such travail by me, wretched as I am!”
+“Through fasts, meditations (_yogaiḥ_), and manifold austerities, in vain were you reared with such travail by me, wretched as I am!”
 </details>
 </details>
 
@@ -2681,7 +2681,7 @@ by hearing this news.That is why, I feel it is strong."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hard indeed do I deem this heart of mine, in that it does not burst asunder like the bank of a great river struck by the new floodwaters in the rainy season (prāvṛṣi)!”
+“Hard indeed do I deem this heart of mine, in that it does not burst asunder like the bank of a great river struck by the new floodwaters in the rainy season (_prāvṛṣi_)!”
 </details>
 </details>
 
@@ -2740,7 +2740,7 @@ lion carrying off a wailing antelope."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely death does not exist for me at all, nor is there any room for me in the abode of Yama (yamakṣaye), seeing that the Ender (antakaḥ) does not snatch me away this very day, as a lion forcibly seizes a weeping doe!”
+“Surely death does not exist for me at all, nor is there any room for me in the abode of Yama (_yamakṣaye_), seeing that the Ender (_antakaḥ_) does not snatch me away this very day, as a lion forcibly seizes a weeping doe!”
 </details>
 </details>
 
@@ -2800,7 +2800,7 @@ it is certain"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly this heart of mine is wrought of iron (āyasam) and unyielding, since it neither splits in two nor shatters upon the earth, even when my body is pierced by this sorrow; surely there is no death before the appointed time (akāle maraṇam)!”
+“Truly this heart of mine is wrought of iron (_āyasam_) and unyielding, since it neither splits in two nor shatters upon the earth, even when my body is pierced by this sorrow; surely there is no death before the appointed time (_akāle maraṇam_)!”
 </details>
 </details>
 
@@ -2868,7 +2868,7 @@ saline soil."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet this is my bitterest grief: that all my vows, charitable gifts, and self-restraints have proved in vain, and that the austerity practiced by me out of desire for a child (apatyakāmyayā) has proved utterly fruitless, like seed sown in barren saline ground (bījam ivoptam ūṣare)!”
+“Yet this is my bitterest grief: that all my vows, charitable gifts, and self-restraints have proved in vain, and that the austerity practiced by me out of desire for a child (_apatyakāmyayā_) has proved utterly fruitless, like seed sown in barren saline ground (_bījam ivoptam ūṣare_)!”
 </details>
 </details>
 
@@ -2932,7 +2932,7 @@ calf."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If anyone wasted by heavy sorrow could obtain untimely death by their own wish, I would have departed this very day to the assembly of the dead (paretasaṃsadam), bereft of you like a cow bereft of her calf!”
+“If anyone wasted by heavy sorrow could obtain untimely death by their own wish, I would have departed this very day to the assembly of the dead (_paretasaṃsadam_), bereft of you like a cow bereft of her calf!”
 </details>
 </details>
 
@@ -3067,7 +3067,7 @@ son bound by grief and lamented very much in various ways like a kinnara woman.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unable to endure that unbearable anguish and perceiving that mighty calamity, she lamented at great length as she looked upon Rāghava, like a Kiṃnarī beholding her own son bound in fetters.
+Unable to endure that unbearable anguish and perceiving that mighty calamity, she lamented at great length as she looked upon Rāghava, like a _Kiṃnarī_ beholding her own son bound in fetters.
 </details>
 </details>
 

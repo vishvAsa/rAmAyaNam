@@ -84,7 +84,7 @@ directing his mind on Rama, of whom those unpleasant words were heard.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the exceedingly unwelcome words of Guha (guhasya vacanaṃ śrutvā bhṛśam apriyam), Bharata sank into anxious reflection right there where that unwelcome news was heard (bharato dhyānaṃ jagāma tatraiva yatra tac chrutam apriyam).
+Having heard the exceedingly unwelcome words of Guha (_guhasya vacanaṃ śrutvā bhṛśam apriyam_), Bharata sank into anxious reflection right there where that unwelcome news was heard (_bharato dhyānaṃ jagāma tatraiva yatra tac chrutam apriyam_).
 </details>
 </details>
 
@@ -153,9 +153,9 @@ has been wounded in the heart with goads.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Tender, of mighty spirit, lion-shouldered, and long-armed (sukumāro mahā-sattvaḥ siṃha-skandho mahā-bhujaḥ), with eyes wide like white lotuses, youthful, and lovely to behold (puṇḍarīka-viśālākṣas taruṇaḥ priya-darśanaḥ),
+**2:** Tender, of mighty spirit, lion-shouldered, and long-armed (_sukumāro mahā-sattvaḥ siṃha-skandho mahā-bhujaḥ_), with eyes wide like white lotuses, youthful, and lovely to behold (_puṇḍarīka-viśālākṣas taruṇaḥ priya-darśanaḥ_),
 
-**3:** having recovered his breath for a brief moment, deeply dejected in mind (pratyāśvasya muhūrtaṃ tu kālaṃ parama-durmanāḥ), he suddenly collapsed like an elephant deeply pierced by goads (papāta sahasā totrair hy atividdha iva dvipaḥ).
+**3:** having recovered his breath for a brief moment, deeply dejected in mind (_pratyāśvasya muhūrtaṃ tu kālaṃ parama-durmanāḥ_), he suddenly collapsed like an elephant deeply pierced by goads (_papāta sahasā totrair hy atividdha iva dvipaḥ_).
 </details>
 </details>
 
@@ -210,7 +210,7 @@ earthquake.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Bharata in a swoon, Guha, his face drained of color (bharataṃ mūrcchitaṃ dṛṣṭvā vivarṇa-vadano guhaḥ), was shaken with distress there like a tree in an earthquake (babhūva vyathitas tatra bhūmi-kampe yathā drumaḥ).
+Beholding Bharata in a swoon, Guha, his face drained of color (_bharataṃ mūrcchitaṃ dṛṣṭvā vivarṇa-vadano guhaḥ_), was shaken with distress there like a tree in an earthquake (_babhūva vyathitas tatra bhūmi-kampe yathā drumaḥ_).
 </details>
 </details>
 
@@ -262,7 +262,7 @@ arms, becoming non-pulsed, cried loudly, overcome as he was with grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing Bharata in that state, Śatrughna, who stood close beside him (tad-avasthaṃ tu bharataṃ śatrughno 'nantara-sthitaḥ pariṣvajya), wept aloud, bereft of his senses and wasted by grief (rurodoccair visaṃjñaḥ śoka-karśitaḥ).
+Embracing Bharata in that state, Śatrughna, who stood close beside him (_tad-avasthaṃ tu bharataṃ śatrughno &#x27;nantara-sthitaḥ pariṣvajya_), wept aloud, bereft of his senses and wasted by grief (_rurodoccair visaṃjñaḥ śoka-karśitaḥ_).
 </details>
 </details>
 
@@ -312,7 +312,7 @@ to find consolation for the sad end of their lord, rushed towards Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all those mothers of Bharata came rushing together (tataḥ sarvāḥ samāpetur mātaro bharatasya tāḥ), emaciated by fasting, wretched, and afflicted by the calamity of their lord’s death (upavāsa-kṛśā dīnā bhartṛ-vyasana-karśitāḥ).
+Then all those mothers of Bharata came rushing together (_tataḥ sarvāḥ samāpetur mātaro bharatasya tāḥ_), emaciated by fasting, wretched, and afflicted by the calamity of their lord’s death (_upavāsa-kṛśā dīnā bhartṛ-vyasana-karśitāḥ_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ part, torn with grief and bending over him, embraced him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping, those queens surrounded him as he lay fallen upon the ground (tāś ca taṃ patitaṃ bhūmau rudantyaḥ paryavārayan), while Kausalyā, heavy-hearted, approached him and embraced him (kausalyā tv anusṛtyainaṃ durmanāḥ pariṣasvaje).
+Weeping, those queens surrounded him as he lay fallen upon the ground (_tāś ca taṃ patitaṃ bhūmau rudantyaḥ paryavārayan_), while Kausalyā, heavy-hearted, approached him and embraced him (_kausalyā tv anusṛtyainaṃ durmanāḥ pariṣasvaje_).
 </details>
 </details>
 
@@ -430,7 +430,7 @@ pressing him to her bosom as a cow its own calf, questioned Bharata (in the foll
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tenderly affectionate, clasping him as a cow her own calf (vatsalā svaṃ yathā vatsam upagūhya), that sorrowing lady, wholly given over to grief, questioned Bharata as she wept (tapasvinī paripapraccha bharataṃ rudantī śoka-lālasā):
+Tenderly affectionate, clasping him as a cow her own calf (_vatsalā svaṃ yathā vatsam upagūhya_), that sorrowing lady, wholly given over to grief, questioned Bharata as she wept (_tapasvinī paripapraccha bharataṃ rudantī śoka-lālasā_):
 </details>
 </details>
 
@@ -485,7 +485,7 @@ is indeed dependent on you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My son, I hope no illness afflicts your body (putra vyādhir na te kaccic charīraṃ paribādhate)? Today the very life of this royal house depends upon you (adya rāja-kulasyāsya tvad-adhīnaṃ hi jīvitam).
+“My son, I hope no illness afflicts your body (_putra vyādhir na te kaccic charīraṃ paribādhate_)? Today the very life of this royal house depends upon you (_adya rāja-kulasyāsya tvad-adhīnaṃ hi jīvitam_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ dead. I survive, looking on you. Now, you alone are the protector for us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding you, my son, I live on, now that Rāma has gone with his brother (tvāṃ dṛṣṭvā putra jīvāmi rāme sa-bhrātṛke gate); since King Daśaratha has passed away, you alone are our protector today (vṛtte daśarathe rājñi nātha ekas tvam adya naḥ).
+Beholding you, my son, I live on, now that Rāma has gone with his brother (_tvāṃ dṛṣṭvā putra jīvāmi rāme sa-bhrātṛke gate_); since King Daśaratha has passed away, you alone are our protector today (_vṛtte daśarathe rājñi nātha ekas tvam adya naḥ_).
 </details>
 </details>
 
@@ -591,7 +591,7 @@ and the only son who left for the forest along with his wife."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you heard, my son, anything untoward concerning Lakṣmaṇa (kaccin na lakṣmaṇe putra śrutaṃ te kiṃcid apriyam), or concerning the son of me who have but a single son, gone to the forest with his wife (putre vāpy eka-putrāyāḥ saha-bhārye vanaṃ gate)?”
+Have you heard, my son, anything untoward concerning Lakṣmaṇa (_kaccin na lakṣmaṇe putra śrutaṃ te kiṃcid apriyam_), or concerning the son of me who have but a single son, gone to the forest with his wife (_putre vāpy eka-putrāyāḥ saha-bhārye vanaṃ gate_)?”
 </details>
 </details>
 
@@ -646,7 +646,7 @@ while still weeping, spoke to Guha (as follows)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recovering himself after a moment, that prince of great renown, still weeping (sa muhūrtaṃ samāśvasya rudann eva mahā-yaśāḥ), comforted Kausalyā and spoke these words to Guha (kausalyāṃ parisāntvyedaṃ guhaṃ vacanam abravīt):
+Recovering himself after a moment, that prince of great renown, still weeping (_sa muhūrtaṃ samāśvasya rudann eva mahā-yaśāḥ_), comforted Kausalyā and spoke these words to Guha (_kausalyāṃ parisāntvyedaṃ guhaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -708,7 +708,7 @@ night? On what couch and eating what, did he repose?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where did my brother pass the night, where Sītā, and where Lakṣmaṇa (bhrātā me kvāvasad rātrau kva sītā kva ca lakṣmaṇaḥ)? Upon what couch did he sleep, and after partaking of what food? Tell me, O Guha (asvapac chayane kasmin kiṃ bhuktvā guha śaṃsa me)!”
+“Where did my brother pass the night, where Sītā, and where Lakṣmaṇa (_bhrātā me kvāvasad rātrau kva sītā kva ca lakṣmaṇaḥ_)? Upon what couch did he sleep, and after partaking of what food? Tell me, O Guha (_asvapac chayane kasmin kiṃ bhuktvā guha śaṃsa me_)!”
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Glad at heart, Guha, lord of the Niṣādas, told Bharata (so 'bravīd bharataṃ hṛṣṭo niṣādādhipatir guhaḥ) what hospitality he had offered toward Rāma, his dear and benevolent guest (yad-vidhaṃ pratipede ca rāme priya-hite 'tithau):
+Glad at heart, Guha, lord of the Niṣādas, told Bharata (_so &#x27;bravīd bharataṃ hṛṣṭo niṣādādhipatir guhaḥ_) what hospitality he had offered toward Rāma, his dear and benevolent guest (_yad-vidhaṃ pratipede ca rāme priya-hite &#x27;tithau_):
 </details>
 </details>
 
@@ -818,7 +818,7 @@ repeatedly by me to the presence of Rama for the purpose of his consumption."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Food of diverse kinds, confections, and manifold fruits (annam uccāvacaṃ bhakṣāḥ phalāni vividhāni ca) were brought by me in abundance for Rāma’s repast (rāmāyābhyavahārārthaṃ bahu copahṛtaṃ mayā).
+“Food of diverse kinds, confections, and manifold fruits (_annam uccāvacaṃ bhakṣāḥ phalāni vividhāni ca_) were brought by me in abundance for Rāma’s repast (_rāmāyābhyavahārārthaṃ bahu copahṛtaṃ mayā_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ warrior's statute, he could not accept it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All that, Rāma of true valor graciously acknowledged and permitted to be taken back (tat sarvaṃ pratyanujñāsīd rāmaḥ satya-parākramaḥ), yet remembering the duty of a Kṣatriya, he did not accept it (na tu tat pratyagṛhṇāt sa kṣatra-dharmam anusmaran).
+All that, Rāma of true valor graciously acknowledged and permitted to be taken back (_tat sarvaṃ pratyanujñāsīd rāmaḥ satya-parākramaḥ_), yet remembering the duty of a Kṣatriya, he did not accept it (_na tu tat pratyagṛhṇāt sa kṣatra-dharmam anusmaran_).
 </details>
 </details>
 
@@ -922,7 +922,7 @@ We are not allowed to receive anything we must always be givers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Friend, gifts are never to be accepted by us, but ever to be given (na hy asmābhiḥ pratigrāhyaṃ sakhe deyaṃ tu sarvadā)’—with these words, O king, we were gently conciliated by that great-souled prince (iti tena vayaṃ rājann anunītā mahātmanā).
+‘Friend, gifts are never to be accepted by us, but ever to be given (_na hy asmābhiḥ pratigrāhyaṃ sakhe deyaṃ tu sarvadā_)’—with these words, O king, we were gently conciliated by that great-souled prince (_iti tena vayaṃ rājann anunītā mahātmanā_).
 </details>
 </details>
 
@@ -974,7 +974,7 @@ observed fasting."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having drunk only the water brought by Lakṣmaṇa (lakṣmaṇena samānītaṃ pītvā vāri mahā-yaśāḥ), Rāghava of great renown observed a fast at that time together with Sītā (aupavāsyaṃ tadākārṣīd rāghavaḥ saha sītayā).
+Having drunk only the water brought by Lakṣmaṇa (_lakṣmaṇena samānītaṃ pītvā vāri mahā-yaśāḥ_), Rāghava of great renown observed a fast at that time together with Sītā (_aupavāsyaṃ tadākārṣīd rāghavaḥ saha sītayā_).
 </details>
 </details>
 
@@ -1035,7 +1035,7 @@ silence together in that evening-twilight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then with the remainder of the water Lakṣmaṇa too quenched his thirst at that time (tatas tu jala-śeṣeṇa lakṣmaṇo 'py akarot tadā); keeping silence in self-collected absorption, those three worshipped the evening twilight (vāg-yatās te trayaḥ sandhyāṃ samupāsata saṃhitāḥ).
+Then with the remainder of the water Lakṣmaṇa too quenched his thirst at that time (_tatas tu jala-śeṣeṇa lakṣmaṇo &#x27;py akarot tadā_); keeping silence in self-collected absorption, those three worshipped the evening twilight (_vāg-yatās te trayaḥ sandhyāṃ samupāsata saṃhitāḥ_).
 </details>
 </details>
 
@@ -1090,7 +1090,7 @@ nice bed with it for Rama immediately."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter the son of Sumitrā quickly fetched sacred blades of grass himself (saumitris tu tataḥ paścāt svayam ānīya barhīṃṣi kṣipram) and fashioned a fair couch for Rāghava’s sake (akarot svāstaraṃ śubhaṃ rāghava-kāraṇāt).
+Thereafter the son of Sumitrā quickly fetched sacred blades of grass himself (_saumitris tu tataḥ paścāt svayam ānīya barhīṃṣi kṣipram_) and fashioned a fair couch for Rāghava’s sake (_akarot svāstaraṃ śubhaṃ rāghava-kāraṇāt_).
 </details>
 </details>
 
@@ -1142,7 +1142,7 @@ Lakshmana went away to a distance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon that couch of grass Rāma lay down together with Sītā (tasmin samāviśad rāmaḥ svāstare saha sītayā), and after washing their feet, Lakṣmaṇa withdrew to a respectful distance (prakṣālya ca tayoḥ pādāv apacakrāma lakṣmaṇaḥ).
+Upon that couch of grass Rāma lay down together with Sītā (_tasmin samāviśad rāmaḥ svāstare saha sītayā_), and after washing their feet, Lakṣmaṇa withdrew to a respectful distance (_prakṣālya ca tayoḥ pādāv apacakrāma lakṣmaṇaḥ_).
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ slept that night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is the foot of that iṅgudī tree, and here is this very grass (etat tad iṅgudī-mūlam idam eva ca tat tṛṇam), upon which both Rāma and Sītā lay through that night (yasmin rāmaś ca sītā ca rātriṃ tāṃ śayitāv ubhau).
+Here is the foot of that _iṅgudī_ tree, and here is this very grass (_etat tad iṅgudī-mūlam idam eva ca tat tṛṇam_), upon which both Rāma and Sītā lay through that night (_yasmin rāmaś ca sītā ca rātriṃ tāṃ śayitāv ubhau_).
 </details>
 </details>
 
@@ -1260,7 +1260,7 @@ his part walking round Rama during that night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strapping upon his back two quivers filled with arrows and wearing leathern arm-guards and finger-guards (niyamya pṛṣṭhe tu talāṅgulitravān śaraiḥ supūrṇāv iṣudhī), that scorcher of foes Lakṣmaṇa held his great strung bow and stood all around him throughout the night without sleep (paraṃtapaḥ mahad dhanuḥ sajyam upohya lakṣmaṇo niśām atiṣṭhat parito 'sya kevalam).
+Strapping upon his back two quivers filled with arrows and wearing leathern arm-guards and finger-guards (_niyamya pṛṣṭhe tu talāṅgulitravān śaraiḥ supūrṇāv iṣudhī_), that scorcher of foes Lakṣmaṇa held his great strung bow and stood all around him throughout the night without sleep (_paraṃtapaḥ mahad dhanuḥ sajyam upohya lakṣmaṇo niśām atiṣṭhat parito &#x27;sya kevalam_).
 </details>
 </details>
 
@@ -1337,7 +1337,7 @@ celestials."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then I too, bearing an excellent bow and arrows, took my stand right where Lakṣmaṇa stood (tatas tv ahaṃ cottama-bāṇa-cāpa-dhṛt sthito 'bhavaṃ tatra sa yatra lakṣmaṇaḥ), guarding at that time with my vigilant, bow-wielding kinsmen him who resembles Mahendra (atandritair jñātibhir ātta-kārmukair mahendra-kalpaṃ paripālayaṃs tadā).”
+Then I too, bearing an excellent bow and arrows, took my stand right where Lakṣmaṇa stood (_tatas tv ahaṃ cottama-bāṇa-cāpa-dhṛt sthito &#x27;bhavaṃ tatra sa yatra lakṣmaṇaḥ_), guarding at that time with my vigilant, bow-wielding kinsmen him who resembles Mahendra (_atandritair jñātibhir ātta-kārmukair mahendra-kalpaṃ paripālayaṃs tadā_).”
 </details>
 </details>
 

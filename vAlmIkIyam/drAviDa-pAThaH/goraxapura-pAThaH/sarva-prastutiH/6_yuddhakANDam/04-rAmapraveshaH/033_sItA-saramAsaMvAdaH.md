@@ -87,7 +87,7 @@ companion then approached Seetha, her beloved Seetha, her beloved friend.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Sītā thus deluded (mohitām), the rākṣasī named Saramā, an affectionate friend (praṇayinī), then approached Vaidehī, her beloved companion (priyāṃ sakhīm).
+Seeing Sītā thus deluded (_mohitām_), the rākṣasī named Saramā, an affectionate friend (_praṇayinī_), then approached Vaidehī, her beloved companion (_priyāṃ sakhīm_).
 </details>
 </details>
 
@@ -133,7 +133,7 @@ was very much in distress.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gentle-spoken (mṛdu-bhāṣiṇī) Saramā then consoled (āśvāsayāmāsa) Sītā, who had been deluded by the lord of the rākṣasas and was stricken with supreme sorrow (parama-duḥkhitām).
+Gentle-spoken (_mṛdu-bhāṣiṇī_) Saramā then consoled (_āśvāsayāmāsa_) Sītā, who had been deluded by the lord of the rākṣasas and was stricken with supreme sorrow (_parama-duḥkhitām_).
 </details>
 </details>
 
@@ -186,7 +186,7 @@ austerity. She was indeed made a companion by Seetha, who was being protected by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For while guarding her as commanded by Rāvaṇa (rāvaṇādiṣṭā), she—compassionate (sānukrośā) and firm in her vow (dṛḍha-vratā)—had been made a friend (kṛtā mitram) there by the guarded Sītā.
+For while guarding her as commanded by Rāvaṇa (_rāvaṇādiṣṭā_), she—compassionate (_sānukrośā_) and firm in her vow (_dṛḍha-vratā_)—had been made a friend (_kṛtā mitram_) there by the guarded Sītā.
 </details>
 </details>
 
@@ -242,7 +242,7 @@ dust and soiled, resembling a female horse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That friend Saramā beheld Sītā bereft of her senses (naṣṭa-cetanām), who had risen up after rolling in the dust (upāvṛtyotthitāṃ pāṃsuṣu), soiled like a mare (dhvastāṃ vaḍavām iva).
+That friend Saramā beheld Sītā bereft of her senses (_naṣṭa-cetanām_), who had risen up after rolling in the dust (_upāvṛtyotthitāṃ pāṃsuṣu_), soiled like a mare (_dhvastāṃ vaḍavām iva_).
 </details>
 </details>
 
@@ -304,9 +304,9 @@ not get perturbed in your mind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Out of affection for her friend (sakhī-snehena), she comforted that lady of noble vows (su-vratām): “Take heart (samāśvasihi), O Vaidehī; let there be no anguish in your mind! Whatever was spoken to you by Rāvaṇa, and whatever was spoken in reply by yourself—
+**5:** Out of affection for her friend (_sakhī-snehena_), she comforted that lady of noble vows (_su-vratām_): “Take heart (_samāśvasihi_), O Vaidehī; let there be no anguish in your mind! Whatever was spoken to you by Rāvaṇa, and whatever was spoken in reply by yourself—
 
-**6:** —all that was overheard by me (mayā sarvaṃ pratiśrutam) out of friendship, O timid one, while I lay hidden in a solitary thicket (līnayā gahane śūnye), casting aside fear of Rāvaṇa; for your sake, O large-eyed lady, I have no fear of Rāvaṇa!”
+**6:** —all that was overheard by me (_mayā sarvaṃ pratiśrutam_) out of friendship, O timid one, while I lay hidden in a solitary thicket (_līnayā gahane śūnye_), casting aside fear of Rāvaṇa; for your sake, O large-eyed lady, I have no fear of Rāvaṇa!”
 </details>
 </details>
 
@@ -369,7 +369,7 @@ eyed woman! I do not have any fear of Ravana, owing to my affection towards you"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And why the lord of the rākṣasas went forth in such agitation (saṃbhrāntaś ca niṣkrāntaḥ)—all that too has been ascertained by me (me viditaṃ sarvam) after stepping out (abhiniṣkramya), O Maithilī!
+“And why the lord of the rākṣasas went forth in such agitation (_saṃbhrāntaś ca niṣkrāntaḥ_)—all that too has been ascertained by me (_me viditaṃ sarvam_) after stepping out (_abhiniṣkramya_), O Maithilī!
 </details>
 </details>
 
@@ -421,7 +421,7 @@ the reason for which Ravana has gone away agitated."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It is impossible to carry out a night-slaughter (na śakyaṃ sauptikaṃ kartum) against Rāma, who knows the Self (viditātmanaḥ); nor is being slain (vadhaḥ) at all conceivable (naivopapadyate) in that tiger among men (puruṣa-vyāghre).
+It is impossible to carry out a night-slaughter (_na śakyaṃ sauptikaṃ kartum_) against Rāma, who knows the Self (_viditātmanaḥ_); nor is being slain (_vadhaḥ_) at all conceivable (_naivopapadyate_) in that tiger among men (_puruṣa-vyāghre_).
 </details>
 </details>
 
@@ -474,7 +474,7 @@ even killing him, the tiger among men, is well nigh impossible."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor indeed can the monkeys, who fight with trees (pādapa-yodhinaḥ), be slain in this way; for they are well protected (su-rakṣitāḥ) by Rāma, like the gods by the foremost of celestials (surā devarṣabheṇeva).
+Nor indeed can the monkeys, who fight with trees (_pādapa-yodhinaḥ_), be slain in this way; for they are well protected (_su-rakṣitāḥ_) by Rāma, like the gods by the foremost of celestials (_surā devarṣabheṇeva_).
 </details>
 </details>
 
@@ -537,11 +537,11 @@ their lord"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** With long, rounded arms (dīrgha-vṛtta-bhujaḥ), glorious, broad-chested (mahoraskaḥ), and full of valor, a bowman endowed with a compact frame (saṃnahanopetaḥ), righteous-souled and renowned on earth—
+**10:** With long, rounded arms (_dīrgha-vṛtta-bhujaḥ_), glorious, broad-chested (_mahoraskaḥ_), and full of valor, a bowman endowed with a compact frame (_saṃnahanopetaḥ_), righteous-souled and renowned on earth—
 
-**11:** valiant, ever the protector of himself and of others (ātmanaś ca parasya ca), of noble lineage (kulīnaḥ) and versed in the science of policy (naya-śāstra-vit), together with his brother Lakṣmaṇa—
+**11:** valiant, ever the protector of himself and of others (_ātmanaś ca parasya ca_), of noble lineage (_kulīnaḥ_) and versed in the science of policy (_naya-śāstra-vit_), together with his brother Lakṣmaṇa—
 
-**12:** the slayer of enemy troop-multitudes (hantā para-balaughānām), of inconceivable strength and heroism (acintya-bala-pauruṣaḥ)—glorious Rāghava, the crusher of foes (śatru-nibarhaṇaḥ), has not been slain, O Sītā!”
+**12:** the slayer of enemy troop-multitudes (_hantā para-balaughānām_), of inconceivable strength and heroism (_acintya-bala-pauruṣaḥ_)—glorious Rāghava, the crusher of foes (_śatru-nibarhaṇaḥ_), has not been slain, O Sītā!”
 </details>
 </details>
 
@@ -612,7 +612,7 @@ adversaries, has not been killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By that fierce conjurer (raudreṇa māyāvinā), whose understanding and deeds are perverse (ayukta-buddhi-kṛtyena) and who is the enemy of all beings (sarva-bhūta-virodhinā), was this illusion (māyā) practiced upon you.
+“By that fierce conjurer (_raudreṇa māyāvinā_), whose understanding and deeds are perverse (_ayukta-buddhi-kṛtyena_) and who is the enemy of all beings (_sarva-bhūta-virodhinā_), was this illusion (_māyā_) practiced upon you.
 </details>
 </details>
 
@@ -664,7 +664,7 @@ perverse in thinking and action and an enemy of all beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Your sorrow is gone (śokas te vigataḥ), O lady; all good fortune has drawn near to you (sarva-kalyāṇaṃ tvām upasthitam)! Assuredly Lakṣmī attends upon you (tvāṃ bhajate lakṣmīḥ); hear what is dear to you, O noble lady (bhavati):
+Your sorrow is gone (_śokas te vigataḥ_), O lady; all good fortune has drawn near to you (_sarva-kalyāṇaṃ tvām upasthitam_)! Assuredly Lakṣmī attends upon you (_tvāṃ bhajate lakṣmīḥ_); hear what is dear to you, O noble lady (_bhavati_):
 </details>
 </details>
 
@@ -718,7 +718,7 @@ you. Accordingly prosperity will attend on you. Hear me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having crossed the ocean (uttīrya sāgaram) together with the monkey army, Rāma has reached the southern shore (tīram āsādya dakṣiṇam) of the sea and pitched camp (saṃniviṣṭaḥ).
+Having crossed the ocean (_uttīrya sāgaram_) together with the monkey army, Rāma has reached the southern shore (_tīram āsādya dakṣiṇam_) of the sea and pitched camp (_saṃniviṣṭaḥ_).
 </details>
 </details>
 
@@ -770,7 +770,7 @@ southern shore and is encamped there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kākutstha, his purpose accomplished (paripūrṇārthaḥ), has been seen by me (dṛṣṭo me) together with Lakṣmaṇa; he stands protected by his assembled forces stationed along the edge of the ocean (sāgarāntasthaiḥ).
+Kākutstha, his purpose accomplished (_paripūrṇārthaḥ_), has been seen by me (_dṛṣṭo me_) together with Lakṣmaṇa; he stands protected by his assembled forces stationed along the edge of the ocean (_sāgarāntasthaiḥ_).
 </details>
 </details>
 
@@ -823,7 +823,7 @@ protected by the troops gathered together at the vicinity of the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those swift-striding (laghu-vikramāḥ) rākṣasas who were sent out as scouts by this [Rāvaṇa]—by them the tidings (pravṛttiḥ) have been brought here: ‘Rāghava has crossed over (rāghavas tīrṇa ity evam)!’
+And those swift-striding (_laghu-vikramāḥ_) rākṣasas who were sent out as scouts by this [Rāvaṇa]—by them the tidings (_pravṛttiḥ_) have been brought here: ‘Rāghava has crossed over (_rāghavas tīrṇa ity evam_)!’
 </details>
 </details>
 
@@ -878,7 +878,7 @@ that Rama has crossed the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard those tidings, O large-eyed lady, this Rāvaṇa, lord of the rākṣasas, is right now deliberating (eṣa mantrayate) together with all his ministers.”
+Having heard those tidings, O large-eyed lady, this Rāvaṇa, lord of the rākṣasas, is right now deliberating (_eṣa mantrayate_) together with all his ministers.”
 </details>
 </details>
 
@@ -938,7 +938,7 @@ deliberations with all his ministers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While the rākṣasī Saramā was speaking thus with Sītā, she heard the dreadful clamor (śabdaṃ bhairavam) of the armies mustering with full exertion (sarvodyogena).
+While the rākṣasī Saramā was speaking thus with Sītā, she heard the dreadful clamor (_śabdaṃ bhairavam_) of the armies mustering with full exertion (_sarvodyogena_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ heard, from the troops engaged in the impending war.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the mighty roar of the kettle-drum (bheryā mahā-svanam) resounding like a thunderbolt under the drumstick (daṇḍa-nirghāta-vādinyāḥ), sweet-spoken Saramā spoke this word to Sītā:
+Hearing the mighty roar of the kettle-drum (_bheryā mahā-svanam_) resounding like a thunderbolt under the drumstick (_daṇḍa-nirghāta-vādinyāḥ_), sweet-spoken Saramā spoke this word to Sītā:
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ a drum stick, Sarama in her sweet voice spoke to Seetha as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This dreadful war-drum (bhairavā bherikā), O timid one, is the rouser to armor (saṃnāha-jananī); hear the deep roll of the drum (bherī-nādaṃ gambhīram), rumbling like a rain-cloud (toyada-niḥsvanam)!
+“This dreadful war-drum (_bhairavā bherikā_), O timid one, is the rouser to armor (_saṃnāha-jananī_); hear the deep roll of the drum (_bherī-nādaṃ gambhīram_), rumbling like a rain-cloud (_toyada-niḥsvanam_)!
 </details>
 </details>
 
@@ -1100,7 +1100,7 @@ rumbling of clouds"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Must-frenzied elephants are being caparisoned (kalpyante matta-mātaṅgāḥ), chariot-steeds are being yoked (yujyante ratha-vājinaḥ), and horsemen (turagārūḍhāḥ) bearing lances in hand (prāsa-hastāḥ) are seen by the thousands.
+Must-frenzied elephants are being caparisoned (_kalpyante matta-mātaṅgāḥ_), chariot-steeds are being yoked (_yujyante ratha-vājinaḥ_), and horsemen (_turagārūḍhāḥ_) bearing lances in hand (_prāsa-hastāḥ_) are seen by the thousands.
 </details>
 </details>
 
@@ -1155,7 +1155,7 @@ for a battle. Thousands of horsemen carrying darts in their hands are seen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here and there, mailed warriors (saṃnaddhāḥ) rush together (sampatanti) by the thousands; the royal highways are filling up (āpūryante rāja-mārgāḥ) with troops of wondrous aspect (adbhuta-darśanaiḥ),
+Here and there, mailed warriors (_saṃnaddhāḥ_) rush together (_sampatanti_) by the thousands; the royal highways are filling up (_āpūryante rāja-mārgāḥ_) with troops of wondrous aspect (_adbhuta-darśanaiḥ_),
 </details>
 </details>
 
@@ -1224,11 +1224,11 @@ of waters making a roaring sound."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** like the ocean with swift, roaring floods of water (toyaughair iva sāgaraḥ)! And of burnished weapons (śastrāṇāṃ ca prasannānām), of shields (carmaṇām), and likewise of coats of mail (varmaṇām)—
+**24:** like the ocean with swift, roaring floods of water (_toyaughair iva sāgaraḥ_)! And of burnished weapons (_śastrāṇāṃ ca prasannānām_), of shields (_carmaṇām_), and likewise of coats of mail (_varmaṇām_)—
 
-**25:** —and of the chariots, steeds, and elephants (ratha-vāji-gajānām) following the lord of the rākṣasas—this is the flurry (saṃbhramaḥ) of the exultant, impetuous (hṛṣitānāṃ tarasvinām) rākṣasas;
+**25:** —and of the chariots, steeds, and elephants (_ratha-vāji-gajānām_) following the lord of the rākṣasas—this is the flurry (_saṃbhramaḥ_) of the exultant, impetuous (_hṛṣitānāṃ tarasvinām_) rākṣasas;
 
-**26:** behold [their panoply] sending forth a radiance (prabhāṃ visṛjatām) rising up in manifold colors (nānā-varṇa-samutthitām), like the form of Fire (rūpaṃ vibhāvasoḥ) burning down a forest in the hot season (gharme)!
+**26:** behold [their panoply] sending forth a radiance (_prabhāṃ visṛjatām_) rising up in manifold colors (_nānā-varṇa-samutthitām_), like the form of Fire (_rūpaṃ vibhāvasoḥ_) burning down a forest in the hot season (_gharme_)!
 </details>
 </details>
 
@@ -1281,7 +1281,7 @@ demons thrilled with joy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hear the clanging of the bells (ghaṇṭānāṃ nirghoṣam), hear the rumble of the chariots (rathānāṃ niḥsvanam), and hear likewise the blare of trumpets (tūrya-dhvanim) amidst the neighing steeds (hayānāṃ heṣamāṇānām)!
+Hear the clanging of the bells (_ghaṇṭānāṃ nirghoṣam_), hear the rumble of the chariots (_rathānāṃ niḥsvanam_), and hear likewise the blare of trumpets (_tūrya-dhvanim_) amidst the neighing steeds (_hayānāṃ heṣamāṇānām_)!
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This tumultuous (tumulaḥ) flurry of the rākṣasas following the rākṣasa king, bearing upraised weapons in their hands (udyatāyudha-hastānām), makes the hair bristle (loma-harṣaṇam).
+This tumultuous (_tumulaḥ_) flurry of the rākṣasas following the rākṣasa king, bearing upraised weapons in their hands (_udyatāyudha-hastānām_), makes the hair bristle (_loma-harṣaṇam_).
 </details>
 </details>
 
@@ -1381,9 +1381,9 @@ hair to stand erect through terror."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** Fortune that destroys sorrow (śrīḥ śoka-ghnī) now attends upon you, while terror has come upon the rākṣasas (rakṣasāṃ bhayam āgatam)—for lotus-petal-eyed (kamala-patrākṣaḥ) Rāma is [to them] as Vāsava was to the Daityas!
+**29:** Fortune that destroys sorrow (_śrīḥ śoka-ghnī_) now attends upon you, while terror has come upon the rākṣasas (_rakṣasāṃ bhayam āgatam_)—for lotus-petal-eyed (_kamala-patrākṣaḥ_) Rāma is [to them] as Vāsava was to the Daityas!
 
-**30:** “Vanquishing (avajitya) him and slaying Rāvaṇa in battle, your husband of inconceivable valor (acintya-parākramaḥ), who has conquered his wrath (jita-krodhaḥ), shall recover you (tvādhigamiṣyati)!
+**30:** “Vanquishing (_avajitya_) him and slaying Rāvaṇa in battle, your husband of inconceivable valor (_acintya-parākramaḥ_), who has conquered his wrath (_jita-krodhaḥ_), shall recover you (_tvādhigamiṣyati_)!
 </details>
 </details>
 
@@ -1434,7 +1434,7 @@ unimaginable strength will kill Ravana in battle and win you back"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with Lakṣmaṇa, your husband shall display his valor (vikramiṣyati) among the rākṣasas, just as Vāsava, the slayer of foes (śatru-ghnaḥ), did among his enemies together with Viṣṇu (viṣṇunā saha).
+Together with Lakṣmaṇa, your husband shall display his valor (_vikramiṣyati_) among the rākṣasas, just as Vāsava, the slayer of foes (_śatru-ghnaḥ_), did among his enemies together with Viṣṇu (_viṣṇunā saha_).
 </details>
 </details>
 
@@ -1488,7 +1488,7 @@ exhibited his strength over his adversaries."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For once the foe is struck down (śatrau vinipātite), I shall swiftly behold you seated upon the lap (aṅka-gatāṃ satīm) of Rāma when he arrives, your purpose fulfilled (siddhārthām)!
+For once the foe is struck down (_śatrau vinipātite_), I shall swiftly behold you seated upon the lap (_aṅka-gatāṃ satīm_) of Rāma when he arrives, your purpose fulfilled (_siddhārthām_)!
 </details>
 </details>
 
@@ -1543,7 +1543,7 @@ object of his coming being fulfilled and the enemy fallen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reunited (samāgamya) and embraced upon the chest of that broad-chested hero (tasyorasi mahorasaḥ), you shall shed tears born of bliss (asrāṇy ānanda-jāni vartayiṣyasi), O Jānakī!
+Reunited (_samāgamya_) and embraced upon the chest of that broad-chested hero (_tasyorasi mahorasaḥ_), you shall shed tears born of bliss (_asrāṇy ānanda-jāni vartayiṣyasi_), O Jānakī!
 </details>
 </details>
 
@@ -1595,7 +1595,7 @@ united with you and holding you clasped to his breast."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before long (acirāt), O goddess Sītā, Rāma of mighty strength shall untie (mokṣyate) that single braid (ekāṃ veṇīm) reaching down to your hips (te jaghanaṃ gatām), which you have worn for many months (dhṛtāṃ bahūn māsān).
+Before long (_acirāt_), O goddess Sītā, Rāma of mighty strength shall untie (_mokṣyate_) that single braid (_ekāṃ veṇīm_) reaching down to your hips (_te jaghanaṃ gatām_), which you have worn for many months (_dhṛtāṃ bahūn māsān_).
 </details>
 </details>
 
@@ -1656,7 +1656,7 @@ which has reached past your hips, which you have worn these many months."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding his face, O goddess, like the full moon risen in the sky (pūrṇa-candram ivoditam), you shall cast off the water born of grief (mokṣyase śoka-jaṃ vāri) just as a female serpent sheds her slough (nirmokam iva pannagī)!
+“Beholding his face, O goddess, like the full moon risen in the sky (_pūrṇa-candram ivoditam_), you shall cast off the water born of grief (_mokṣyase śoka-jaṃ vāri_) just as a female serpent sheds her slough (_nirmokam iva pannagī_)!
 </details>
 </details>
 
@@ -1708,7 +1708,7 @@ born of grief, like a female snake casts off its slough."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Rāvaṇa in battle before long (nacirād eva), O Maithilī, he who is worthy of happiness (sukhārhaḥ), reunited (samagraḥ) with you his beloved, shall obtain happiness (lapsyate sukham).
+Having slain Rāvaṇa in battle before long (_nacirād eva_), O Maithilī, he who is worthy of happiness (_sukhārhaḥ_), reunited (_samagraḥ_) with you his beloved, shall obtain happiness (_lapsyate sukham_).
 </details>
 </details>
 
@@ -1761,7 +1761,7 @@ facility); will enjoy happiness in the company of the beloved, namely yourself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored (sabhājitā) by the great-souled Rāma, you shall rejoice (modiṣyasi), like the earth (medinī) blessed with abundant rain (su-varṣeṇa samāyuktā) rejoicing in its harvest (sasyena)!
+Honored (_sabhājitā_) by the great-souled Rāma, you shall rejoice (_modiṣyasi_), like the earth (_medinī_) blessed with abundant rain (_su-varṣeṇa samāyuktā_) rejoicing in its harvest (_sasyena_)!
 </details>
 </details>
 
@@ -1828,7 +1828,7 @@ with crops, feels after the onset of good rains."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seek refuge here (tam iha śaraṇam abhyupehi), O goddess, in that Maker of Day (divasa-karam), who, revolving around the foremost of mountains (giri-varam abhito vivartamānaḥ), swiftly completes his circular course like a steed (haya iva maṇḍalam āśu yaḥ karoti); for he is the source of all creatures (prabhavo hy ayaṃ prajānām).”
+Seek refuge here (_tam iha śaraṇam abhyupehi_), O goddess, in that Maker of Day (_divasa-karam_), who, revolving around the foremost of mountains (_giri-varam abhito vivartamānaḥ_), swiftly completes his circular course like a steed (_haya iva maṇḍalam āśu yaḥ karoti_); for he is the source of all creatures (_prabhavo hy ayaṃ prajānām_).”
 </details>
 </details>
 

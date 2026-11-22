@@ -96,7 +96,7 @@ regarding the era-system of ancient India at endnote.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once again, O chief of kings (rājendra), hear my salutary words (vacanaṃ hitam), just as that wise and foremost of celestial sages (Sanatkumāra) recounted in his discourse:
+“Once again, O chief of kings (_rājendra_), hear my salutary words (_vacanaṃ hitam_), just as that wise and foremost of celestial sages (Sanatkumāra) recounted in his discourse:
 </details>
 </details>
 
@@ -142,7 +142,7 @@ resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Born in the lineage of the Ikṣvākus, there shall arise a most righteous monarch (sudhārmikaḥ), glorious and true to his word (satyapratiśravaḥ), King Daśaratha by name.
+“‘Born in the lineage of the Ikṣvākus, there shall arise a most righteous monarch (_sudhārmikaḥ_), glorious and true to his word (_satyapratiśravaḥ_), King Daśaratha by name.
 </details>
 </details>
 
@@ -235,11 +235,11 @@ over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “‘That king shall form a bond of friendship with the King of Aṅga, and he shall have a supremely fortunate daughter named Śāntā (śāntā nāma bhaviṣyati).
+**3:** “‘That king shall form a bond of friendship with the King of Aṅga, and he shall have a supremely fortunate daughter named Śāntā (_śāntā nāma bhaviṣyati_).
 
 **4:** “‘Now the son of the King of Aṅga shall be renowned as Romapāda; to him that illustrious King Daśaratha shall go (and speak thus):
 
-**5:** “‘“I am childless, O righteous-souled one (anapatyo ’smi dharmātman); let Śāntā’s husband (Ṛṣyaśṛṅga), at your command (tvayājñaptaḥ), conduct a sacrifice for me for the continuation of my lineage (saṃtānārthaṃ kulasya ca).”’
+**5:** “‘“I am childless, O righteous-souled one (_anapatyo ’smi dharmātman_); let Śāntā’s husband (Ṛṣyaśṛṅga), at your command (_tvayājñaptaḥ_), conduct a sacrifice for me for the continuation of my lineage (_saṃtānārthaṃ kulasya ca_).”’
 </details>
 </details>
 
@@ -304,7 +304,7 @@ agniin adhiita... *according to *shruti* scripture.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having heard that speech of the King and reflected upon it in his own mind (manasā sa vicintya ca), that self-possessed monarch (Romapāda) shall grant him Śāntā’s husband, who is blessed with a son (putravantaṃ śāntābhartāram).
+“‘Having heard that speech of the King and reflected upon it in his own mind (_manasā sa vicintya ca_), that self-possessed monarch (Romapāda) shall grant him Śāntā’s husband, who is blessed with a son (_putravantaṃ śāntābhartāram_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ very felicitous in the depths of his heart. [1-11-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having received that Brāhmaṇa sage, the King (Daśaratha), freed from the fever of his anxiety (vigatajvaraḥ), shall perform that sacrifice with a deeply gladdened heart (prahṛṣṭenāntarātmanā).
+“‘Having received that Brāhmaṇa sage, the King (Daśaratha), freed from the fever of his anxiety (_vigatajvaraḥ_), shall perform that sacrifice with a deeply gladdened heart (_prahṛṣṭenāntarātmanā_).
 </details>
 </details>
 
@@ -422,9 +422,9 @@ svargo naiva ca naiva ca* There is no way out [in other worlds] for those withou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “‘And King Daśaratha, knower of dharma and desirous of renown (yaśaskāmaḥ), with folded hands (kṛtāñjaliḥ) shall formally choose Ṛṣyaśṛṅga, foremost of the twice-born, as his officiating priest—
+**8:** “‘And King Daśaratha, knower of _dharma_ and desirous of renown (_yaśaskāmaḥ_), with folded hands (_kṛtāñjaliḥ_) shall formally choose Ṛṣyaśṛṅga, foremost of the twice-born, as his officiating priest—
 
-**9:** “‘For the sake of the sacrifice, for the sake of progeny, and for the sake of heaven (yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca); and that lord of the people shall obtain his cherished desire from that chief of the twice-born.
+**9:** “‘For the sake of the sacrifice, for the sake of progeny, and for the sake of heaven (_yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca_); and that lord of the people shall obtain his cherished desire from that chief of the twice-born.
 </details>
 </details>
 
@@ -486,7 +486,7 @@ Gorresio via Ralph T. H. Griffith [1870-1874].
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And four sons of boundless valor (catvāro ’mitavikramāḥ) shall be born to him, establishing the permanence of his royal dynasty (vaṃśapratiṣṭhānakarāḥ) and renowned among all beings.’
+“‘And four sons of boundless valor (_catvāro ’mitavikramāḥ_) shall be born to him, establishing the permanence of his royal dynasty (_vaṃśapratiṣṭhānakarāḥ_) and renowned among all beings.’
 </details>
 </details>
 
@@ -537,7 +537,7 @@ Please refer endnote for *yuga* / era classification.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus did that foremost of celestial sages, the venerable Lord Sanatkumāra, formerly recount this prophetic narrative in the ancient age of the gods (purā devayuge).”
+“Thus did that foremost of celestial sages, the venerable Lord Sanatkumāra, formerly recount this prophetic narrative in the ancient age of the gods (_purā devayuge_).”
 </details>
 </details>
 
@@ -604,7 +604,7 @@ his narration. [1-11-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O tiger among men (puruṣaśārdūla), go yourself in person (svayam eva mahārāja gatvā) with your army and mounts (sabalavāhanaḥ), and bring him hither with all due honor (susatkṛtam)!”
+“Therefore, O tiger among men (_puruṣaśārdūla_), go yourself in person (_svayam eva mahārāja gatvā_) with your army and mounts (_sabalavāhanaḥ_), and bring him hither with all due honor (_susatkṛtam_)!”
 </details>
 </details>
 
@@ -792,7 +792,7 @@ is obtained, after asking Sumantra to reiterate what all was said, to sage Vashi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Sumantra, King Daśaratha was filled with joy; and having sought the permission of Sage Vasiṣṭha (anumānya vasiṣṭhaṃ ca) after reflecting upon the charioteer’s counsel,
+Hearing the words of Sumantra, King Daśaratha was filled with joy; and having sought the permission of Sage Vasiṣṭha (_anumānya vasiṣṭhaṃ ca_) after reflecting upon the charioteer’s counsel,
 </details>
 </details>
 
@@ -837,7 +837,7 @@ where that eminent Brahman is there. [1-11-14b, 15a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by the queens of his inner apartments and by his ministers (sāntaḥpuraḥ sahāmātyaḥ), he set forth toward the land where that twice-born sage dwelt, crossing forests and rivers stage by stage (śanaiḥ śanaiḥ).
+Accompanied by the queens of his inner apartments and by his ministers (_sāntaḥpuraḥ sahāmātyaḥ_), he set forth toward the land where that twice-born sage dwelt, crossing forests and rivers stage by stage (_śanaiḥ śanaiḥ_).
 </details>
 </details>
 
@@ -888,7 +888,7 @@ like ritual fire. [1-11-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He arrived at that region where the bull among sages resided; and approaching that foremost of the twice-born, who was seated beside King Romapāda (romapādasamīpagam),
+He arrived at that region where the bull among sages resided; and approaching that foremost of the twice-born, who was seated beside King Romapāda (_romapādasamīpagam_),
 </details>
 </details>
 
@@ -954,9 +954,9 @@ and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** He beheld the sage’s son blazing like a radiant fire (dīpyamānam ivānalam). Thereupon King Romapāda, in accordance with due protocol (yathāyogyam), offered special hospitality and honor to King Daśaratha—
+**16:** He beheld the sage’s son blazing like a radiant fire (_dīpyamānam ivānalam_). Thereupon King Romapāda, in accordance with due protocol (_yathāyogyam_), offered special hospitality and honor to King Daśaratha—
 
-**17:** With his inmost heart overflowing with joy by reason of his friendship for that monarch (sakhitvāt tasya vai rājñaḥ); and Romapāda also made known to the wise son of the sage (Ṛṣyaśṛṅga)—
+**17:** With his inmost heart overflowing with joy by reason of his friendship for that monarch (_sakhitvāt tasya vai rājñaḥ_); and Romapāda also made known to the wise son of the sage (Ṛṣyaśṛṅga)—
 </details>
 </details>
 
@@ -1036,9 +1036,9 @@ indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Both the bond of friendship and the tie of family kinship (sakhyaṃ sambandhakaṃ caiva); and thereupon the sage’s son honored King Daśaratha in return (tadā taṃ pratyapūjayat). Having thus been royally entertained, that bull among men dwelt with him—
+**18:** Both the bond of friendship and the tie of family kinship (_sakhyaṃ sambandhakaṃ caiva_); and thereupon the sage’s son honored King Daśaratha in return (_tadā taṃ pratyapūjayat_). Having thus been royally entertained, that bull among men dwelt with him—
 
-**19:** For seven or eight days (saptāṣṭadivasān), after which King Daśaratha spoke thus to King Romapāda: “O King, lord of the people, let your daughter Śāntā, together with her husband (saha bhartrā),
+**19:** For seven or eight days (_saptāṣṭadivasān_), after which King Daśaratha spoke thus to King Romapāda: “O King, lord of the people, let your daughter Śāntā, together with her husband (_saha bhartrā_),
 </details>
 </details>
 
@@ -1112,9 +1112,9 @@ been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Proceed to my capital city (madīyaṃ nagaraṃ yātu), for a great sacrificial undertaking has been set in motion (kāryaṃ hi mahad udyatam)!” Saying “So be it!” and promising the departure of that wise sage (saṃśrutya gamanaṃ tasya dhīmataḥ), King Romapāda—
+**20:** “Proceed to my capital city (_madīyaṃ nagaraṃ yātu_), for a great sacrificial undertaking has been set in motion (_kāryaṃ hi mahad udyatam_)!” Saying “So be it!” and promising the departure of that wise sage (_saṃśrutya gamanaṃ tasya dhīmataḥ_), King Romapāda—
 
-**21:** Spoke these words to the Brāhmaṇa sage: “Go you together with your wife (gaccha tvaṃ saha bhāryayā)!” Having listened to that request, the sage’s son replied “So be it!” to the King at that time.
+**21:** Spoke these words to the Brāhmaṇa sage: “Go you together with your wife (_gaccha tvaṃ saha bhāryayā_)!” Having listened to that request, the sage’s son replied “So be it!” to the King at that time.
 </details>
 </details>
 
@@ -1189,9 +1189,9 @@ along with Sage Rishyasringa. [1-11-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Taking leave with the King’s affectionate permission (nṛpeṇābhyanujñātaḥ), he set forth accompanied by his wife; and those two monarchs, joining their palms to one another and embracing heart to heart out of deep affection (snehāt saṃśliṣya corasā)—
+**22:** Taking leave with the King’s affectionate permission (_nṛpeṇābhyanujñātaḥ_), he set forth accompanied by his wife; and those two monarchs, joining their palms to one another and embracing heart to heart out of deep affection (_snehāt saṃśliṣya corasā_)—
 
-**23:** Both Daśaratha and the valiant Romapāda rejoiced exceedingly. Then, having bidden farewell to his dear friend (suhṛdam āpṛcchya), the delight of the Raghus set out on his homeward journey.
+**23:** Both Daśaratha and the valiant Romapāda rejoiced exceedingly. Then, having bidden farewell to his dear friend (_suhṛdam āpṛcchya_), the delight of the Raghus set out on his homeward journey.
 </details>
 </details>
 
@@ -1241,7 +1241,7 @@ messengers that are sent beforehand. [1-11-24b, 25a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He dispatched swift-moving couriers (dūtān vai śīghragāminaḥ) ahead to the citizens with the command: “Let the entire city be richly adorned at once (kṣipram eva svalaṃkṛtam)—
+He dispatched swift-moving couriers (_dūtān vai śīghragāminaḥ_) ahead to the citizens with the command: “Let the entire city be richly adorned at once (_kṣipram eva svalaṃkṛtam_)—
 </details>
 </details>
 
@@ -1294,7 +1294,7 @@ all those works exactly as ordered by their king. [1-11-25b, 26a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Perfumed with fragrant incense, sprinkled with water and swept clean (dhūpitaṃ siktasammṛṣṭam), and gayly festooned with banners!” Then those citizens, overjoyed upon hearing that the King had arrived near,
+“Perfumed with fragrant incense, sprinkled with water and swept clean (_dhūpitaṃ siktasammṛṣṭam_), and gayly festooned with banners!” Then those citizens, overjoyed upon hearing that the King had arrived near,
 </details>
 </details>
 
@@ -1433,9 +1433,9 @@ when Vishnu incarnated as Dwarf boy Vamana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Placing that bull among the twice-born at the very forefront (puraskṛtvā dvijarṣabham) amid the resonant peals of conches and kettledrums (śaṅkhadundubhinirhrādaiḥ); and all the townsfolk were filled with delight upon beholding the twice-born sage—
+**27:** Placing that bull among the twice-born at the very forefront (_puraskṛtvā dvijarṣabham_) amid the resonant peals of conches and kettledrums (_śaṅkhadundubhinirhrādaiḥ_); and all the townsfolk were filled with delight upon beholding the twice-born sage—
 
-**28:** As he was being escorted in with high honor by that lord of men of Indra-like deeds (narendreṇendrakarmaṇā), even as Kaśyapa’s son (Vāmana) is welcomed in heaven by the thousand-eyed lord of the gods (sahasrākṣeṇa kāśyapam).
+**28:** As he was being escorted in with high honor by that lord of men of Indra-like deeds (_narendreṇendrakarmaṇā_), even as Kaśyapa’s son (Vāmana) is welcomed in heaven by the thousand-eyed lord of the gods (_sahasrākṣeṇa kāśyapam_).
 </details>
 </details>
 
@@ -1492,7 +1492,7 @@ that his desired is fulfilled. [1-11-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having conducted him into the inner apartments and offered him worship in accordance with the Śāstras (pūjāṃ kṛtvā tu śāstrataḥ), the King accounted himself to have fulfilled his life’s purpose (kṛtakṛtyaṃ tadātmānaṃ mene) by virtue of having brought him home (tasyopavāhanāt).
+Having conducted him into the inner apartments and offered him worship in accordance with the Śāstras (_pūjāṃ kṛtvā tu śāstrataḥ_), the King accounted himself to have fulfilled his life’s purpose (_kṛtakṛtyaṃ tadātmānaṃ mene_) by virtue of having brought him home (_tasyopavāhanāt_).
 </details>
 </details>
 
@@ -1547,7 +1547,7 @@ of palace derived happiness for the homecoming of their own daughter, as it were
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the wide-eyed Śāntā (śāntāṃ... viśālākṣīm) arrived thus together with her husband, all the queens of the inner apartments (antaḥpurāṇi sarvāṇi) attained supreme joy out of tender affection (prītyānandam upāgaman).
+Beholding the wide-eyed Śāntā (_śāntāṃ... viśālākṣīm_) arrived thus together with her husband, all the queens of the inner apartments (_antaḥpurāṇi sarvāṇi_) attained supreme joy out of tender affection (_prītyānandam upāgaman_).
 </details>
 </details>
 
@@ -1623,6 +1623,6 @@ by these Ritwik-s. Hence, Ritwik-hood is the highest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored with special fondness by those queens and by the King himself, she dwelt there in happiness for some time accompanied by her twice-born husband (sahadvijā).
+Honored with special fondness by those queens and by the King himself, she dwelt there in happiness for some time accompanied by her twice-born husband (_sahadvijā_).
 </details>
 </details>

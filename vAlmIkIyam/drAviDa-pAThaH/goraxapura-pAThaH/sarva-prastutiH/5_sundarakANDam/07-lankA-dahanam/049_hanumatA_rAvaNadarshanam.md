@@ -84,7 +84,7 @@ and saw Ravana with his red hot eyes. He was surprised by that deed of Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān of formidable valor (bhīmavikramaḥ), astonished by his [Indrajit's] feat (karmaṇā) yet with eyes copper-red with wrath (krodhatāmrākṣaḥ), beheld the overlord of the rākṣasas (rakṣo'dhipam).
+Then Hanūmān of formidable valor (_bhīmavikramaḥ_), astonished by his [Indrajit&#x27;s] feat (_karmaṇā_) yet with eyes copper-red with wrath (_krodhatāmrākṣaḥ_), beheld the overlord of the _rākṣasas_ (_rakṣo&#x27;dhipam_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ of gold as also encircled with strings of pearls.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld him] of great effulgence (mahādyutim), blazing with a priceless (mahārheṇa), resplendent golden crown (kāñcanena mukuṭena) encircled by a lattice of pearls (muktājālavṛtena);
+[He beheld him] of great effulgence (_mahādyutim_), blazing with a priceless (_mahārheṇa_), resplendent golden crown (_kāñcanena mukuṭena_) encircled by a lattice of pearls (_muktājālavṛtena_);
 </details>
 </details>
 
@@ -191,7 +191,7 @@ decorated with worthy gems, which appeared as though they were prepared with the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Adorned] with wondrous golden ornaments (haimair ābharaṇaiś citraiḥ) fitted with settings of diamonds (vajrasaṃyogasaṃyuktaiḥ), fashioned from priceless gems (mahārhamaṇivigrahaiḥ), and seemingly wrought by thought alone (manaseva prakalpitaiḥ);
+[Adorned] with wondrous golden ornaments (_haimair ābharaṇaiś citraiḥ_) fitted with settings of diamonds (_vajrasaṃyogasaṃyuktaiḥ_), fashioned from priceless gems (_mahārhamaṇivigrahaiḥ_), and seemingly wrought by thought alone (_manaseva prakalpitaiḥ_);
 </details>
 </details>
 
@@ -243,7 +243,7 @@ and well painted with various brightly coloured designs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clad in priceless linen (mahārhakṣaumasaṃvītam), besmeared with red sandal-paste (raktacandanarūṣitam), and finely anointed (svanuliptam) with variegated and diverse ornamental patterns (bhaktibhiḥ);
+Clad in priceless linen (_mahārhakṣaumasaṃvītam_), besmeared with red sandal-paste (_raktacandanarūṣitam_), and finely anointed (_svanuliptam_) with variegated and diverse ornamental patterns (_bhaktibhiḥ_);
 </details>
 </details>
 
@@ -272,7 +272,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wondrous (vicitram) with handsome yet dread-inspiring red-eyed [faces] (raktākṣair bhīmadarśanaiḥ), having blazing, sharp, great fangs (dīptatīkṣṇamahādaṃṣṭram) and pendulous lips (pralambaṃ daśanacchadaiḥ);
+Wondrous (_vicitram_) with handsome yet dread-inspiring red-eyed [faces] (_raktākṣair bhīmadarśanaiḥ_), having blazing, sharp, great fangs (_dīptatīkṣṇamahādaṃṣṭram_) and pendulous lips (_pralambaṃ daśanacchadaiḥ_);
 </details>
 </details>
 
@@ -326,7 +326,7 @@ of different varieties.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The hero [Hanūmān beheld him] of mighty energy (mahaujasam), blazing with ten heads (śirobhir daśabhiḥ) like Mount Mandara with its peaks (śikharair iva mandaram) teeming with diverse serpents (nānāvyālasamākīrṇaiḥ).
+The hero [Hanūmān beheld him] of mighty energy (_mahaujasam_), blazing with ten heads (_śirobhir daśabhiḥ_) like Mount Mandara with its peaks (_śikharair iva mandaram_) teeming with diverse serpents (_nānāvyālasamākīrṇaiḥ_).
 </details>
 </details>
 
@@ -390,7 +390,7 @@ a cloud illumined by the rising sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling a mass of dark collyrium (nīlāñjanacayaprakhyam), [he looked] like a rain-cloud accompanied by the rising sun (sabālārkām ivāmbudam), with a necklace shining upon his chest (hāreṇorasi rājatā) whose central gem gleamed like the full moon (pūrṇacandrābhavaktreṇa);
+Resembling a mass of dark collyrium (_nīlāñjanacayaprakhyam_), [he looked] like a rain-cloud accompanied by the rising sun (_sabālārkām ivāmbudam_), with a necklace shining upon his chest (_hāreṇorasi rājatā_) whose central gem gleamed like the full moon (_pūrṇacandrābhavaktreṇa_);
 </details>
 </details>
 
@@ -446,7 +446,7 @@ serpents.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With formidable arms (bāhubhir bhīmaiḥ) bound with upper-arm clasps (baddhakeyūraiḥ), smeared with the finest sandal-paste (candanottamarūṣitaiḥ), and blazing with armlets (bhrājamānāṅgadaiḥ), like five-hooded serpents (pañcaśīrṣair ivoragaiḥ);
+With formidable arms (_bāhubhir bhīmaiḥ_) bound with upper-arm clasps (_baddhakeyūraiḥ_), smeared with the finest sandal-paste (_candanottamarūṣitaiḥ_), and blazing with armlets (_bhrājamānāṅgadaiḥ_), like five-hooded serpents (_pañcaśīrṣair ivoragaiḥ_);
 </details>
 </details>
 
@@ -501,7 +501,7 @@ by being embedded with jewels and overspread with an exquisite covering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seated royally (sūpaviṣṭam) upon a great, wondrous crystal throne (mahati sphāṭike citre varāsane) variegated with settings of gems (ratnasaṃyogacitrite) and spread with the finest coverings (uttamāstaraṇāstīrṇe);
+Seated royally (_sūpaviṣṭam_) upon a great, wondrous crystal throne (_mahati sphāṭike citre varāsane_) variegated with settings of gems (_ratnasaṃyogacitrite_) and spread with the finest coverings (_uttamāstaraṇāstīrṇe_);
 </details>
 </details>
 
@@ -552,7 +552,7 @@ and with whisks in their hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Waitingly attended close at hand (ārāt samupasevitam) on all sides (samantataḥ) by richly adorned young women (alaṃkṛtābhir atyarthaṃ pramadābhiḥ) holding chowrie-fans in their hands (vālavyajanahastābhiḥ);
+Waitingly attended close at hand (_ārāt samupasevitam_) on all sides (_samantataḥ_) by richly adorned young women (_alaṃkṛtābhir atyarthaṃ pramadābhiḥ_) holding chowrie-fans in their hands (_vālavyajanahastābhiḥ_);
 </details>
 </details>
 
@@ -627,9 +627,9 @@ and the counselor Nikumbha and looked like the entire terrestrial globe enclosed
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** And [attended] by the rākṣasas Durdhara, Prahasta, and Mahāpārśva, by counselors (mantribhiḥ) conversant with the essence of statecraft (mantratattvajñaiḥ), and by the minister Nikumbha (nikumbhena ca mantriṇā).
+**11:** And [attended] by the _rākṣasas_ Durdhara, Prahasta, and Mahāpārśva, by counselors (_mantribhiḥ_) conversant with the essence of statecraft (_mantratattvajñaiḥ_), and by the minister Nikumbha (_nikumbhena ca mantriṇā_).
 
-**12:** Seated closely surrounded (upopaviṣṭam) by those four rākṣasas and proud of his strength (baladarpitam), like the entire earth (kṛtsnaṃ lokam) encompassed by the four oceans (caturbhir iva sāgaraiḥ);
+**12:** Seated closely surrounded (_upopaviṣṭam_) by those four _rākṣasas_ and proud of his strength (_baladarpitam_), like the entire earth (_kṛtsnaṃ lokam_) encompassed by the four oceans (_caturbhir iva sāgaraiḥ_);
 </details>
 </details>
 
@@ -685,7 +685,7 @@ with auspicious minds, as Indra the lord of celestials is reassured by celestial
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being heartened (āśvāsyamānam) by counselors conversant with the essence of policy (mantratattvajñaiḥ) and by other auspicious-sighted ministers (anyaiś ca śubhadarśibhiḥ sacivaiḥ), like the lord of the gods by the gods (surair iva sureśvaram);
+Being heartened (_āśvāsyamānam_) by counselors conversant with the essence of policy (_mantratattvajñaiḥ_) and by other auspicious-sighted ministers (_anyaiś ca śubhadarśibhiḥ sacivaiḥ_), like the lord of the gods by the gods (_surair iva sureśvaram_);
 </details>
 </details>
 
@@ -739,7 +739,7 @@ cloud on the peak of Mount Meru.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hanūmān beheld the lord of the rākṣasas (rākṣasapatim) of surpassing splendor (atitejasam), encircled [on his throne] like a water-laden cloud (satoyam iva toyadam) resting upon a peak of Mount Meru (meruśikhare);
+Hanūmān beheld the lord of the _rākṣasas_ (_rākṣasapatim_) of surpassing splendor (_atitejasam_), encircled [on his throne] like a water-laden cloud (_satoyam iva toyadam_) resting upon a peak of Mount Meru (_meruśikhare_);
 </details>
 </details>
 
@@ -791,7 +791,7 @@ surprise, looked attentively at Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though being sorely pressed (sampīḍyamāno'pi) by those rākṣasas of terrible valor (rakṣobhir bhīmavikramaiḥ), he [Hanūmān] fell into supreme wonder (vismayaṃ paramaṃ gatvā) and gazed upon the overlord of the rākṣasas (rakṣo'dhipam avaikṣata).
+Though being sorely pressed (_sampīḍyamāno&#x27;pi_) by those _rākṣasas_ of terrible valor (_rakṣobhir bhīmavikramaiḥ_), he [Hanūmān] fell into supreme wonder (_vismayaṃ paramaṃ gatvā_) and gazed upon the overlord of the _rākṣasas_ (_rakṣo&#x27;dhipam avaikṣata_).
 </details>
 </details>
 
@@ -843,7 +843,7 @@ and thought in his mind as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the lord of the rākṣasas blazing thus (bhrājamānam), Hanūmān, dazzled by his splendor (tejasā tasya mohitaḥ), reflected in his mind (manasā cintayāmāsa):
+Seeing the lord of the _rākṣasas_ blazing thus (_bhrājamānam_), Hanūmān, dazzled by his splendor (_tejasā tasya mohitaḥ_), reflected in his mind (_manasā cintayāmāsa_):
 </details>
 </details>
 
@@ -903,7 +903,7 @@ marks, alas, this king of demons has!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ah, what form (rūpam)! Ah, what firmness (dhairyam)! Ah, what strength (sattvam)! Ah, what splendor (dyutiḥ)! Ah, the endowment with every royal mark (sarvalakṣaṇayuktatā) in the king of the rākṣasas!
+“Ah, what form (_rūpam_)! Ah, what firmness (_dhairyam_)! Ah, what strength (_sattvam_)! Ah, what splendor (_dyutiḥ_)! Ah, the endowment with every royal mark (_sarvalakṣaṇayuktatā_) in the king of the _rākṣasas_!
 </details>
 </details>
 
@@ -955,7 +955,7 @@ protector of even the world of celestials together with Indra the lord of celest
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If unrighteousness (adharmaḥ) were not so mighty [in him], this lord of the rākṣasas (rākṣaseśvaraḥ) would be the protector (rakṣitā) even of the world of the gods together with Śakra (saśakrasyāpi suralokasya)!
+“If unrighteousness (_adharmaḥ_) were not so mighty [in him], this lord of the _rākṣasas_ (_rākṣaseśvaraḥ_) would be the protector (_rakṣitā_) even of the world of the gods together with Śakra (_saśakrasyāpi suralokasya_)!
 </details>
 </details>
 
@@ -1056,9 +1056,9 @@ intelligent Hanuma formulated many kinds of thoughts in this way.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Because of his cruel and ruthless deeds (krūrair nṛśaṃsaiś ca karmabhiḥ), reviled by the world (lokakutsitaiḥ), all the worlds together with gods and dānavas (sāmaradānavāḥ) truly fear him (bibhyati khalv asmāt).
+**19:** “Because of his cruel and ruthless deeds (_krūrair nṛśaṃsaiś ca karmabhiḥ_), reviled by the world (_lokakutsitaiḥ_), all the worlds together with gods and _dānavas_ (_sāmaradānavāḥ_) truly fear him (_bibhyati khalv asmāt_).
 
-**20:** “For when enraged (kruddhaḥ), this one is capable of turning the universe into a single ocean (kartum ekārṇavaṃ jagat)!” Thus did the wise monkey (matimān kapiḥ) engage in manifold reflection (cintāṃ bahuvidhām akarot) upon beholding the majesty of the rākṣasa king of boundless energy (amitaujasaḥ).
+**20:** “For when enraged (_kruddhaḥ_), this one is capable of turning the universe into a single ocean (_kartum ekārṇavaṃ jagat_)!” Thus did the wise monkey (_matimān kapiḥ_) engage in manifold reflection (_cintāṃ bahuvidhām akarot_) upon beholding the majesty of the _rākṣasa_ king of boundless energy (_amitaujasaḥ_).
 </details>
 </details>
 

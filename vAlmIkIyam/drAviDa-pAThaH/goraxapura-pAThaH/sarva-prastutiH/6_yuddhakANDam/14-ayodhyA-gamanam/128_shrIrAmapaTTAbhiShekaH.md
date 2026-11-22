@@ -99,7 +99,7 @@ follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gazed toward Ayodhyā (ayodhyāṃ tu samālokya), Rāghava—Rāma of swift valor (tvaritavikramaḥ), ever desirous of the welfare of those dear to him (priyakāmaḥ)—reflected upon what was dear and salutary (priyam).
+Having gazed toward Ayodhyā (_ayodhyāṃ tu samālokya_), Rāghava—Rāma of swift valor (_tvaritavikramaḥ_), ever desirous of the welfare of those dear to him (_priyakāmaḥ_)—reflected upon what was dear and salutary (_priyam_).
 </details>
 </details>
 
@@ -146,7 +146,7 @@ it to me then, in the same way I am giving it to you again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reflected, the wise and resplendent prince cast his gaze (dṛṣṭiṃ nyapātayat) upon the monkeys and spoke to the leaper Hanūmān:
+Having reflected, the wise and resplendent prince cast his gaze (_dṛṣṭiṃ nyapātayat_) upon the monkeys and spoke to the leaper Hanūmān:
 </details>
 </details>
 
@@ -198,7 +198,7 @@ carried forward by a strong bull all alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Proceeding swiftly in haste (tvarito gatvā śīghram) to Ayodhyā, O best of leapers (plavagasattama), ascertain whether the people in the royal palace (nṛpatimandire) are thriving in well-being (kuśalī).
+“Proceeding swiftly in haste (_tvarito gatvā śīghram_) to Ayodhyā, O best of leapers (_plavagasattama_), ascertain whether the people in the royal palace (_nṛpatimandire_) are thriving in well-being (_kuśalī_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ of water.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon reaching Śṛṅgaverapura, convey from my word an inquiry of welfare (brūhi kuśalam) to Guha, the lord of the Niṣādas (niṣādādhipatim), who ranges the deep forest (gahanagocaram).
+“Upon reaching Śṛṅgaverapura, convey from my word an inquiry of welfare (_brūhi kuśalam_) to Guha, the lord of the Niṣādas (_niṣādādhipatim_), who ranges the deep forest (_gahanagocaram_).
 </details>
 </details>
 
@@ -299,7 +299,7 @@ a donkey would follow the gallop of a horse or a crow would take up the chase of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that I am safe and sound (kuśalinam), free from illness (arogam), and rid of all feverish sorrow (vigatajvaram), Guha will be delighted—for he is my friend, dear to me as my own self (mama ātmasamaḥ sakhā).
+“Hearing that I am safe and sound (_kuśalinam_), free from illness (_arogam_), and rid of all feverish sorrow (_vigatajvaram_), Guha will be delighted—for he is my friend, dear to me as my own self (_mama ātmasamaḥ sakhā_).
 </details>
 </details>
 
@@ -389,11 +389,11 @@ servants. You can understand the meaning."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “And full of joy, Guha, the lord of the Niṣādas, will make known to you (nivedayiṣyati) the road to Ayodhyā (ayodhyāyāś ca te mārgam) and the tidings of Bharata (pravṛttiṃ bharatasya ca).
+**6:** “And full of joy, Guha, the lord of the Niṣādas, will make known to you (_nivedayiṣyati_) the road to Ayodhyā (_ayodhyāyāś ca te mārgam_) and the tidings of Bharata (_pravṛttiṃ bharatasya ca_).
 
-**7:** “And Bharata should be addressed by you with an inquiry of welfare (kuśalam) from my word: announce me to him as having accomplished my purpose (siddhārtham), together with my consort and with Lakṣmaṇa (sabhāryaṃ sahalakṣmaṇam);
+**7:** “And Bharata should be addressed by you with an inquiry of welfare (_kuśalam_) from my word: announce me to him as having accomplished my purpose (_siddhārtham_), together with my consort and with Lakṣmaṇa (_sabhāryaṃ sahalakṣmaṇam_);
 
-**8:** “and [relate to him] the abduction of Vaidehī (haraṇaṃ cāpi vaidehyāḥ) by the mighty Rāvaṇa, my alliance and conference (saṃvādam) with Sugrīva, and the slaying of Vālin in battle;
+**8:** “and [relate to him] the abduction of Vaidehī (_haraṇaṃ cāpi vaidehyāḥ_) by the mighty Rāvaṇa, my alliance and conference (_saṃvādam_) with Sugrīva, and the slaying of Vālin in battle;
 </details>
 </details>
 
@@ -445,7 +445,7 @@ splendour, shining brilliantly at noon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and the search for Maithilī (maithilyanveṣaṇam), and how she was found by you after leaping across (laṅghayitvā) the imperishable lord of rivers (āpagāpatim avyayam) of vast waters;
+“and the search for Maithilī (_maithilyanveṣaṇam_), and how she was found by you after leaping across (_laṅghayitvā_) the imperishable lord of rivers (_āpagāpatim avyayam_) of vast waters;
 </details>
 </details>
 
@@ -502,7 +502,7 @@ sweet invocation of songs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“the march up to the ocean (upayānaṃ samudrasya) and the manifestation of the Ocean-god (sāgarasya ca darśanam), how the causeway was caused to be built (yathā ca kāritaḥ setuḥ), and how Rāvaṇa was slain;
+“the march up to the ocean (_upayānaṃ samudrasya_) and the manifestation of the Ocean-god (_sāgarasya ca darśanam_), how the causeway was caused to be built (_yathā ca kāritaḥ setuḥ_), and how Rāvaṇa was slain;
 </details>
 </details>
 
@@ -554,7 +554,7 @@ so far as the earth is spread out."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“the bestowal of boons (varadānam) by Mahendra, Brahmā, and Varuṇa, and my reunion with my father (pitrā mama samāgamam) through the grace of Mahādeva (mahādevaprasādāc ca).
+“the bestowal of boons (_varadānam_) by Mahendra, Brahmā, and Varuṇa, and my reunion with my father (_pitrā mama samāgamam_) through the grace of Mahādeva (_mahādevaprasādāc ca_).
 </details>
 </details>
 
@@ -604,7 +604,7 @@ his words saying "Be it so" and sat on an auspicious seat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And report to Bharata, O gentle one (saumya), that I have arrived near at hand (upayātaṃ ca mām), accompanied by the king of the rākṣasas [Vibhīṣaṇa] and by the lord of the monkeys [Sugrīva]:
+“And report to Bharata, O gentle one (_saumya_), that I have arrived near at hand (_upayātaṃ ca mām_), accompanied by the king of the _rākṣasas_ [Vibhīṣaṇa] and by the lord of the monkeys [Sugrīva]:
 </details>
 </details>
 
@@ -664,7 +664,7 @@ can do their work with a good speed, encircled Rama all round.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having vanquished his hosts of foes (jitvā śatrugaṇān) and won peerless renown (anuttamaṃ yaśaḥ), Rāma draws nigh (upāyāti) with his purpose richly fulfilled (samṛddhārthaḥ), accompanied by his friends of mighty strength.’
+“‘Having vanquished his hosts of foes (_jitvā śatrugaṇān_) and won peerless renown (_anuttamaṃ yaśaḥ_), Rāma draws nigh (_upāyāti_) with his purpose richly fulfilled (_samṛddhārthaḥ_), accompanied by his friends of mighty strength.’
 </details>
 </details>
 
@@ -726,9 +726,9 @@ of various colours and clothed in costly raiment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “Upon hearing this, whatever expression or demeanor (yam ākāram) Bharata assumes thereafter, that should be carefully observed by you (sa ca te veditavyaḥ syāt), as well as everything he does or feels toward me (sarvaṃ yac cāpi māṃ prati).
+**14:** “Upon hearing this, whatever expression or demeanor (_yam ākāram_) Bharata assumes thereafter, that should be carefully observed by you (_sa ca te veditavyaḥ syāt_), as well as everything he does or feels toward me (_sarvaṃ yac cāpi māṃ prati_).
 
-**15:** “And all the circumstances (sarve ca vṛttāntāḥ) and inner dispositions (iṅgitāni) of Bharata are to be discerned according to truth (tattvena) through the color of his face (mukhavarṇena), his gaze (dṛṣṭyā), and his spoken words (vyābhāṣitena ca).
+**15:** “And all the circumstances (_sarve ca vṛttāntāḥ_) and inner dispositions (_iṅgitāni_) of Bharata are to be discerned according to truth (_tattvena_) through the color of his face (_mukhavarṇena_), his gaze (_dṛṣṭyā_), and his spoken words (_vyābhāṣitena ca_).
 </details>
 </details>
 
@@ -774,7 +774,7 @@ arrangements for personal adornment of Rama and Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For whose mind (kasya manaḥ) would an ancestral kingdom (pitṛpaitāmahaṃ rājyam), abounding in every desired object (sarvakāmasamṛddham) and thronged with elephants, horses, and chariots (hastyaśvarathasaṃkulam), not sway (nāvartayet)?
+“For whose mind (_kasya manaḥ_) would an ancestral kingdom (_pitṛpaitāmahaṃ rājyam_), abounding in every desired object (_sarvakāmasamṛddham_) and thronged with elephants, horses, and chariots (_hastyaśvarathasaṃkulam_), not sway (_nāvartayet_)?
 </details>
 </details>
 
@@ -820,7 +820,7 @@ Seetha beautifully.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If through long association (saṃgatyā) the glorious Bharata should himself desire the sovereignty (rājyenārthī svayaṃ bhavet), let that delight of the Raghus rule (praśāstu) over the entire earth intact (vasudhāṃ sarvām akhilām)!
+“If through long association (_saṃgatyā_) the glorious Bharata should himself desire the sovereignty (_rājyenārthī svayaṃ bhavet_), let that delight of the Raghus rule (_praśāstu_) over the entire earth intact (_vasudhāṃ sarvām akhilām_)!
 </details>
 </details>
 
@@ -872,7 +872,7 @@ zeal all the wives of monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascertained his mind (buddhim) and his firm resolve (vyavasāyam), O monkey, pray return swiftly (kṣipram āgantum arhasi) while we have not yet traveled far (yāvan na dūraṃ yātāḥ smaḥ).”
+“Having ascertained his mind (_buddhim_) and his firm resolve (_vyavasāyam_), O monkey, pray return swiftly (_kṣipram āgantum arhasi_) while we have not yet traveled far (_yāvan na dūraṃ yātāḥ smaḥ_).”
 </details>
 </details>
 
@@ -926,7 +926,7 @@ appearance, yoking chariot to horses which were completely beautiful in all resp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commissioned (iti pratisamādiṣṭaḥ), Hanūmān, the son of the Wind-god (mārutātmajaḥ), assuming a human form (mānuṣaṃ dhārayan rūpam), set forth in haste toward Ayodhyā.
+Thus commissioned (_iti pratisamādiṣṭaḥ_), Hanūmān, the son of the Wind-god (_mārutātmajaḥ_), assuming a human form (_mānuṣaṃ dhārayan rūpam_), set forth in haste toward Ayodhyā.
 </details>
 </details>
 
@@ -982,7 +982,7 @@ sun, standing before him, the mighty armed Rama, the conqueror of hostile cities
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, the son of the Wind-god, sprang aloft (utpapāta) with impetuous speed, like Garuḍa (garutmān iva) swooping with speed when desiring to seize (jighṛkṣan) a lordly serpent (uragottamam).
+Then Hanūmān, the son of the Wind-god, sprang aloft (_utpapāta_) with impetuous speed, like Garuḍa (_garutmān iva_) swooping with speed when desiring to seize (_jighṛkṣan_) a lordly serpent (_uragottamam_).
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ started.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having leaped across the aerial path of the birds (vihagendrālayam), the auspicious pathway of the Manes (pitṛpatham), and having passed beyond the awesome confluence of the Gaṅgā and the Yamunā (gaṅgāyamunayor bhīmaṃ samāgamam),
+Having leaped across the aerial path of the birds (_vihagendrālayam_), the auspicious pathway of the Manes (_pitṛpatham_), and having passed beyond the awesome confluence of the Gaṅgā and the Yamunā (_gaṅgāyamunayor bhīmaṃ samāgamam_),
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ Sugreeva together with Seetha moved out, longing as they were, to see the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the valorous Hanūmān reached Śṛṅgaverapura and, approaching Guha, spoke this word in gladness (hṛṣṭaḥ) with auspicious speech (vācā śubhayā):
+the valorous Hanūmān reached Śṛṅgaverapura and, approaching Guha, spoke this word in gladness (_hṛṣṭaḥ_) with auspicious speech (_vācā śubhayā_):
 </details>
 </details>
 
@@ -1134,7 +1134,7 @@ front, planned everything meaningfully.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your friend Rāma of the Kakutstha line (kākutsthaḥ), of unfailing valor (satyaparākramaḥ), together with Sītā and with Sumitrā's son (sasītaḥ saha saumitriḥ), has inquired after your welfare (tvāṃ kuśalam abravīt).
+“Your friend Rāma of the Kakutstha line (_kākutsthaḥ_), of unfailing valor (_satyaparākramaḥ_), together with Sītā and with Sumitrā&#x27;s son (_sasītaḥ saha saumitriḥ_), has inquired after your welfare (_tvāṃ kuśalam abravīt_).
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ advancement and the prosperity of the City.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spent today—the night of the fifth lunar day (pañcamīm adya rajanīm)—at the word of the sage, and having taken leave of Bharadvāja (bharadvājābhyanujñātam), you shall behold Rāghava right here (atraiva) [or without delay]!”
+“Having spent today—the night of the fifth lunar day (_pañcamīm adya rajanīm_)—at the word of the sage, and having taken leave of Bharadvāja (_bharadvājābhyanujñātam_), you shall behold Rāghava right here (_atraiva_) [or without delay]!”
 </details>
 </details>
 
@@ -1240,7 +1240,7 @@ great-souled Rama, worthy of victory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, Hanūmān of mighty splendor (mahātejāḥ), the hair on his body bristling with joy (samprahṛṣṭatanūruhaḥ), sprang aloft (utpapāta) with tremendous velocity (mahāvegāt), swift and heedless of fatigue (avicārayan).
+Having spoken thus, Hanūmān of mighty splendor (_mahātejāḥ_), the hair on his body bristling with joy (_samprahṛṣṭatanūruhaḥ_), sprang aloft (_utpapāta_) with tremendous velocity (_mahāvegāt_), swift and heedless of fatigue (_avicārayan_).
 </details>
 </details>
 
@@ -1293,7 +1293,7 @@ with an intention to see Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld Rāmatīrtha and the River Vālukinī, as well as the Varūthī, the Gomatī, and the awesome Śāla forest (bhīmaṃ śālavanam),
+He beheld Rāmatīrtha and the River Vālukinī, as well as the Varūthī, the Gomatī, and the awesome Śāla forest (_bhīmaṃ śālavanam_),
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ yoked to green-coloured horses, sallied forth to the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and populations numbering in the many thousands (prajāś ca bahusāhasrīḥ), as well as flourishing country districts (sphītāñ janapadān api). Having traversed a long distance in haste, that elephant among monkeys (kapikuñjaraḥ)
+and populations numbering in the many thousands (_prajāś ca bahusāhasrīḥ_), as well as flourishing country districts (_sphītāñ janapadān api_). Having traversed a long distance in haste, that elephant among monkeys (_kapikuñjaraḥ_)
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ and populations numbering in the many thousands (prajāś ca bahusāhasrīḥ), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-reached the blossoming trees (drumān phullān) standing near Nandigrāma, looking like the trees in Caitraratha, the pleasure-park (upavane) of the lord of the gods—
+reached the blossoming trees (_drumān phullān_) standing near Nandigrāma, looking like the trees in Caitraratha, the pleasure-park (_upavane_) of the lord of the gods—
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ brilliantly like the moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[trees] frequented by women along with their sons and grandsons (saputraiḥ pautraiś ca), sporting and handsomely adorned (ramamāṇaiḥ svalaṃkṛtaiḥ). Then, at a distance of a single krośa from Ayodhyā (krośamātre tv ayodhyāyāḥ), [he beheld] him clad in bark-cloth and black antelope skin (cīrakṛṣṇājināmbaram):
+[trees] frequented by women along with their sons and grandsons (_saputraiḥ pautraiś ca_), sporting and handsomely adorned (_ramamāṇaiḥ svalaṃkṛtaiḥ_). Then, at a distance of a single _krośa_ from Ayodhyā (_krośamātre tv ayodhyāyāḥ_), [he beheld] him clad in bark-cloth and black antelope skin (_cīrakṛṣṇājināmbaram_):
 </details>
 </details>
 
@@ -1480,7 +1480,7 @@ host of the gods, praised Rama and sweet reverberation was heard.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he beheld Bharata, afflicted (dīnam), emaciated (kṛśam), dwelling in a hermitage (āśramavāsinam), wearing matted locks (jaṭilam), his limbs smeared with dirt (maladigdhāṅgam), wasted away by the calamity of his brother's exile (bhrātṛvyasanakarśitam),
+he beheld Bharata, afflicted (_dīnam_), emaciated (_kṛśam_), dwelling in a hermitage (_āśramavāsinam_), wearing matted locks (_jaṭilam_), his limbs smeared with dirt (_maladigdhāṅgam_), wasted away by the calamity of his brother&#x27;s exile (_bhrātṛvyasanakarśitam_),
 </details>
 </details>
 
@@ -1540,7 +1540,7 @@ an elephant named Shatrunjaya, looking like a mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-subsisting on fruits and roots (phalamūlāśinam), self-subdued (dāntam), an ascetic practicing righteousness (tāpasaṃ dharmacāriṇam), bearing a lofty mass of matted locks (samunnatajaṭābhāram), and clothed in bark and deer-skin (valkalājinavāsasam);
+subsisting on fruits and roots (_phalamūlāśinam_), self-subdued (_dāntam_), an ascetic practicing righteousness (_tāpasaṃ dharmacāriṇam_), bearing a lofty mass of matted locks (_samunnatajaṭābhāram_), and clothed in bark and deer-skin (_valkalājinavāsasam_);
 </details>
 </details>
 
@@ -1586,7 +1586,7 @@ mounting on mine thousand elephants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-restrained in speech (niyatam), his soul absorbed in meditation (bhāvitātmānam), equal in spiritual radiance to a brahmarṣi (brahmarṣisamatejasam), governing the earth (praśāsantaṃ vasuṃdharām) while placing those two sandals (pāduke te) at the fore;
+restrained in speech (_niyatam_), his soul absorbed in meditation (_bhāvitātmānam_), equal in spiritual radiance to a _brahmarṣi_ (_brahmarṣisamatejasam_), governing the earth (_praśāsantaṃ vasuṃdharām_) while placing those two sandals (_pāduke te_) at the fore;
 </details>
 </details>
 
@@ -1641,7 +1641,7 @@ and sounds of kettle-drums, proceeded to the city of Ayodhya, having a series of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the protector of the fourfold social order (cāturvarṇyasya lokasya trātāram) from every fear, attended by ministers (amātyaiś ca), by pure family priests (śucibhiś ca purohitaiḥ),
+the protector of the fourfold social order (_cāturvarṇyasya lokasya trātāram_) from every fear, attended by ministers (_amātyaiś ca_), by pure family priests (_śucibhiś ca purohitaiḥ_),
 </details>
 </details>
 
@@ -1687,7 +1687,7 @@ arriving on a chariot, with attendants walking in front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and by attentive army commanders (balamukhyaiś ca yuktaiś ca), all wearing ochre garments (kāṣāyāmbaradhāribhiḥ)—for those righteous-hearted citizens (paurā vai dharmavatsalāḥ) could not bear to abandon that prince clad in bark and black antelope skin
+and by attentive army commanders (_balamukhyaiś ca yuktaiś ca_), all wearing ochre garments (_kāṣāyāmbaradhāribhiḥ_)—for those righteous-hearted citizens (_paurā vai dharmavatsalāḥ_) could not bear to abandon that prince clad in bark and black antelope skin
 </details>
 </details>
 
@@ -1733,7 +1733,7 @@ souled Rama, who was surrounded by his brothers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and indulge in pleasures (paribhoktuṃ vyavasyanti). Unto him who knew the law and looked like Dharma himself (taṃ dharmam iva dharmajñam), like a second [Dharma] embodied in human form (dehabandham ivāparam),
+and indulge in pleasures (_paribhoktuṃ vyavasyanti_). Unto him who knew the law and looked like Dharma himself (_taṃ dharmam iva dharmajñam_), like a second [Dharma] embodied in human form (_dehabandham ivāparam_),
 </details>
 </details>
 
@@ -1782,7 +1782,7 @@ brilliance, like the moon among the stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hanūmān, the son of the Wind-god, with joined palms (prāñjaliḥ), spoke this word: “He whom you mourn (yaṃ tvam anuśocasi), dwelling in the Daṇḍaka forest wearing bark-cloth and matted locks (cīrajaṭādharam)—
+Hanūmān, the son of the Wind-god, with joined palms (_prāñjaliḥ_), spoke this word: “He whom you mourn (_yaṃ tvam anuśocasi_), dwelling in the Daṇḍaka forest wearing bark-cloth and matted locks (_cīrajaṭādharam_)—
 </details>
 </details>
 
@@ -1843,7 +1843,7 @@ Swastika-musical instruments in their hands walking in front and uttering auspic
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[continued from v. 36] —that Kākutstha has inquired after your welfare (sa tvāṃ kauśalam abravīt)! I proclaim glad tidings to you, O lord (priyam ākhyāmi te deva): cast aside your terrible grief (śokaṃ tyaja sudāruṇam)!
+[continued from v. 36] —that Kākutstha has inquired after your welfare (_sa tvāṃ kauśalam abravīt_)! I proclaim glad tidings to you, O lord (_priyam ākhyāmi te deva_): cast aside your terrible grief (_śokaṃ tyaja sudāruṇam_)!
 </details>
 </details>
 
@@ -1897,7 +1897,7 @@ Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At this very hour (asmin muhūrte) you shall be reunited (saṃgataḥ) with your brother Rāma! Having slain Rāvaṇa and recovered Maithilī (pratilabhya ca maithilīm), Rāma
+“At this very hour (_asmin muhūrte_) you shall be reunited (_saṃgataḥ_) with your brother Rāma! Having slain Rāvaṇa and recovered Maithilī (_pratilabhya ca maithilīm_), Rāma
 </details>
 </details>
 
@@ -1949,7 +1949,7 @@ Hanuma and the great act of monkeys to his ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“draws near with his purpose richly fulfilled (samṛddhārthaḥ), accompanied by his friends of mighty strength! And Lakṣmaṇa of great splendor, and the glorious Vaidehī—Sītā, whole and fulfilled (samagrā), [comes] with Rāma, just like Śacī with Mahendra!”
+“draws near with his purpose richly fulfilled (_samṛddhārthaḥ_), accompanied by his friends of mighty strength! And Lakṣmaṇa of great splendor, and the glorious Vaidehī—Sītā, whole and fulfilled (_samagrā_), [comes] with Rāma, just like Śacī with Mahendra!”
 </details>
 </details>
 
@@ -1997,7 +1997,7 @@ demons, the citizens of Ayodhya were astonished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Hanūmān, Bharata, the son of Kaikeyī, suddenly fell down in joy (papāta sahasā hṛṣṭaḥ) and out of sheer rapture sank into a swoon (harṣān moham upāgamat).
+Thus addressed by Hanūmān, Bharata, the son of Kaikeyī, suddenly fell down in joy (_papāta sahasā hṛṣṭaḥ_) and out of sheer rapture sank into a swoon (_harṣān moham upāgamat_).
 </details>
 </details>
 
@@ -2056,7 +2056,7 @@ together with the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then after a moment (muhūrtāt), rising up and recovering his breath (pratyāśvasya ca), Rāghava Bharata spoke this word to Hanūmān, the speaker of welcome tidings (priyavādinam),
+Then after a moment (_muhūrtāt_), rising up and recovering his breath (_pratyāśvasya ca_), Rāghava Bharata spoke this word to Hanūmān, the speaker of welcome tidings (_priyavādinam_),
 </details>
 </details>
 
@@ -2120,7 +2120,7 @@ paternal occupied by Ikshvaku kings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing the monkey in eager haste (kapim āliṅgya sambhramāt), the glorious Bharata bathed him (siṣeca) with copious tear-drops (vipulair aśrubindubhiḥ) born of joy and not of grief (aśokajaiḥ prītimayaiḥ):
+Embracing the monkey in eager haste (_kapim āliṅgya sambhramāt_), the glorious Bharata bathed him (_siṣeca_) with copious tear-drops (_vipulair aśrubindubhiḥ_) born of joy and not of grief (_aśokajaiḥ prītimayaiḥ_):
 </details>
 </details>
 
@@ -2183,9 +2183,9 @@ words to Bharata, the foremost among the righteous:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** “Whether you are a god or a mortal (devo vā mānuṣo vā tvam) who have come hither out of compassion (anukrośāt), O gentle one, to you who proclaim such welcome tidings (priyākhyānasya te) and speak what is dear, I bestow [this gift] for your glad news:
+**43:** “Whether you are a god or a mortal (_devo vā mānuṣo vā tvam_) who have come hither out of compassion (_anukrośāt_), O gentle one, to you who proclaim such welcome tidings (_priyākhyānasya te_) and speak what is dear, I bestow [this gift] for your glad news:
 
-**44:** “a hundred thousand cows (gavāṃ śatasahasraṃ ca), and a hundred of the finest villages (grāmāṇāṃ ca śataṃ param), and as wives sixteen maidens (bhāryāḥ kanyās tu ṣoḍaśa) of auspicious conduct, adorned with earrings (sakuṇḍalāḥ),
+**44:** “a hundred thousand cows (_gavāṃ śatasahasraṃ ca_), and a hundred of the finest villages (_grāmāṇāṃ ca śataṃ param_), and as wives sixteen maidens (_bhāryāḥ kanyās tu ṣoḍaśa_) of auspicious conduct, adorned with earrings (_sakuṇḍalāḥ_),
 </details>
 </details>
 
@@ -2240,7 +2240,7 @@ consisting of pearls and cat's eye-gems to Sugreeva for his stay."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“golden-complexioned (hemavarṇāḥ) women with shapely noses and thighs (sunāsorūḥ) and faces as gentle as the moon (śaśisaumyānanāḥ), endowed with every ornament (sarvābharaṇasampannāḥ) and blessed with noble lineage and birth (sampannāḥ kulajātibhiḥ)!”
+“golden-complexioned (_hemavarṇāḥ_) women with shapely noses and thighs (_sunāsorūḥ_) and faces as gentle as the moon (_śaśisaumyānanāḥ_), endowed with every ornament (_sarvābharaṇasampannāḥ_) and blessed with noble lineage and birth (_sampannāḥ kulajātibhiḥ_)!”
 </details>
 </details>
 
@@ -2286,7 +2286,7 @@ hand, entered that house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard from that hero among monkeys (kapipravīrasya) of Rāma's wondrous arrival (rāmāgamanaṃ tadādbhutopamam), the prince was thrilled with eagerness to behold Rāma (rāmadidṛkṣayā) and out of joy spoke this word once more.
+Having heard from that hero among monkeys (_kapipravīrasya_) of Rāma&#x27;s wondrous arrival (_rāmāgamanaṃ tadādbhutopamam_), the prince was thrilled with eagerness to behold Rāma (_rāmadidṛkṣayā_) and out of joy spoke this word once more.
 </details>
 </details>
 

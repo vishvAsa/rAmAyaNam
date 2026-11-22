@@ -79,7 +79,7 @@ to Rama. [1-55-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those warriors thrown into confusion and bewildered by Viśvāmitra’s missiles (viśvāmitrāstramohitān), Vasiṣṭha urged the wish-granting cow: “O Kāmadhuk, create by your yogic power (kāmadhuk sṛja yogataḥ)!”
+Seeing those warriors thrown into confusion and bewildered by Viśvāmitra’s missiles (_viśvāmitrāstramohitān_), Vasiṣṭha urged the wish-granting cow: “O Kāmadhuk, create by your yogic power (_kāmadhuk sṛja yogataḥ_)!”
 </details>
 </details>
 
@@ -113,7 +113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From her roaring huṃkāra were born Kāmbojas radiant as the sun (kāmbojā ravisaṃnibhāḥ), and from her udder sprang forth Barbaras wielding weapons in their hands (ūdhasaś cātha sambhūtā barbarāḥ śastrapāṇayaḥ).
+From her roaring _huṃkāra_ were born Kāmbojas radiant as the sun (_kāmbojā ravisaṃnibhāḥ_), and from her udder sprang forth Barbaras wielding weapons in their hands (_ūdhasaś cātha sambhūtā barbarāḥ śastrapāṇayaḥ_).
 </details>
 </details>
 
@@ -163,7 +163,7 @@ from her hair-roots Mleccha-s, Haariitaa-s along with Kirataka-s are issued fort
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From her reproductive tract sprang Yavanas (yonideśāc ca yavanāḥ), from her dung-passage Śakas (śakṛddeśāc chakāḥ smṛtāḥ), and from her hair-pores Mlecchas, Hārītas, and Kirātas (romakūpeṣu mlecchāś ca hārītāḥ sakirātakāḥ).
+From her reproductive tract sprang Yavanas (_yonideśāc ca yavanāḥ_), from her dung-passage Śakas (_śakṛddeśāc chakāḥ smṛtāḥ_), and from her hair-pores Mlecchas, Hārītas, and Kirātas (_romakūpeṣu mlecchāś ca hārītāḥ sakirātakāḥ_).
 </details>
 </details>
 
@@ -216,7 +216,7 @@ Cow. [1-55-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By them that entire host of Viśvāmitra was annihilated on the spot (tais tan niṣūditaṃ sarvaṃ viśvāmitrasya tatkṣaṇāt), together with its foot-soldiers, elephants, horses, and chariots (sapadātigajaṃ sāśvaṃ saratham), O delight of the Raghus!
+By them that entire host of Viśvāmitra was annihilated on the spot (_tais tan niṣūditaṃ sarvaṃ viśvāmitrasya tatkṣaṇāt_), together with its foot-soldiers, elephants, horses, and chariots (_sapadātigajaṃ sāśvaṃ saratham_), O delight of the Raghus!
 </details>
 </details>
 
@@ -280,9 +280,9 @@ sounds. [1-55-5, 6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Beholding their army annihilated (dṛṣṭvā niṣūditaṃ sainyam) by the high-souled Vasiṣṭha, Viśvāmitra’s hundred sons, armed with weapons of every kind (viśvāmitrasutānāṃ tu śataṃ nānāvidhāyudham)—
+**5:** Beholding their army annihilated (_dṛṣṭvā niṣūditaṃ sainyam_) by the high-souled Vasiṣṭha, Viśvāmitra’s hundred sons, armed with weapons of every kind (_viśvāmitrasutānāṃ tu śataṃ nānāvidhāyudham_)—
 
-**6:** —rushed in furious wrath (abhyadhāvat susaṃkruddham) against Vasiṣṭha, the foremost of japa-reciters (japatāṃ varam); with a mere huṃkāra syllable (huṃkāreṇaiva), the great seer burned them all to ashes (tān sarvān nirdadāha mahān ṛṣiḥ).
+**6:** —rushed in furious wrath (_abhyadhāvat susaṃkruddham_) against Vasiṣṭha, the foremost of _japa_-reciters (_japatāṃ varam_); with a mere _huṃkāra_ syllable (_huṃkāreṇaiva_), the great seer burned them all to ashes (_tān sarvān nirdadāha mahān ṛṣiḥ_).
 </details>
 </details>
 
@@ -342,7 +342,7 @@ their horses, chariots, and foot-soldiers to ashes. [1-55-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with their horses, chariots, and foot-soldiers (sāśvarathapādātāḥ), those sons of Viśvāmitra were reduced to ashes in a single moment (bhasmīkṛtā muhūrtena) by the high-souled Vasiṣṭha.
+Together with their horses, chariots, and foot-soldiers (_sāśvarathapādātāḥ_), those sons of Viśvāmitra were reduced to ashes in a single moment (_bhasmīkṛtā muhūrtena_) by the high-souled Vasiṣṭha.
 </details>
 </details>
 
@@ -395,7 +395,7 @@ and beset by distress. [1-55-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his sons and his army utterly destroyed (dṛṣṭvā vināśitān sarvān balaṃ ca), Viśvāmitra of great renown was then filled with shame and consumed by anxious thought (savrīḍaṃ cintayāviṣṭo ’bhavat tadā).
+Beholding his sons and his army utterly destroyed (_dṛṣṭvā vināśitān sarvān balaṃ ca_), Viśvāmitra of great renown was then filled with shame and consumed by anxious thought (_savrīḍaṃ cintayāviṣṭo ’bhavat tadā_).
 </details>
 </details>
 
@@ -455,7 +455,7 @@ forces are ruined along with his sons. [1-55-9, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like an ocean bereft of its surging waves (samudra iva nirvegaḥ), like a serpent with its fangs broken (bhagnadaṃṣṭra ivoragaḥ), and like the sun eclipsed by Rāhu (uparakta ivādityaḥ), he was instantly stripped of his splendor (sadyo niṣprabhatāṃ gataḥ).
+Like an ocean bereft of its surging waves (_samudra iva nirvegaḥ_), like a serpent with its fangs broken (_bhagnadaṃṣṭra ivoragaḥ_), and like the sun eclipsed by Rāhu (_uparakta ivādityaḥ_), he was instantly stripped of his splendor (_sadyo niṣprabhatāṃ gataḥ_).
 </details>
 </details>
 
@@ -489,7 +489,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his sons and army slain (hataputrabalaḥ), wretched like a bird with clipped wings (dīno lūnapakṣa iva dvijaḥ), and with all his strength and ardor crushed (hatasarvabalotsāhaḥ), he sank into utter despondency (nirvedaṃ samapadyata).
+With his sons and army slain (_hataputrabalaḥ_), wretched like a bird with clipped wings (_dīno lūnapakṣa iva dvijaḥ_), and with all his strength and ardor crushed (_hatasarvabalotsāhaḥ_), he sank into utter despondency (_nirvedaṃ samapadyata_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ took recourse to forests. [1-55-10b, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Appointing his one surviving son over the kingdom (sa putram ekaṃ rājyāya niyujya) with the charge, “Rule the earth according to Kṣatriya dharma (pālayeti pṛthivīṃ kṣatradharmeṇa),” he betook himself to the forest (vanam evābhyapadyata).
+Appointing his one surviving son over the kingdom (_sa putram ekaṃ rājyāya niyujya_) with the charge, “Rule the earth according to Kṣatriya _dharma_ (_pālayeti pṛthivīṃ kṣatradharmeṇa_),” he betook himself to the forest (_vanam evābhyapadyata_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ for the sake of beneficence of the Great God, Shiva. [1-55-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Proceeding to the slopes of Mount Himavat (gatvā himavatpārśve), frequented by kiṃnaras and great serpents (kiṃnaroragasevitam), that sage of mighty austerity practiced severe penance to win the grace of Mahādeva (mahādevaprasādārthaṃ tapas tepe mahātapāḥ).
+Proceeding to the slopes of Mount Himavat (_gatvā himavatpārśve_), frequented by _kiṃnaras_ and great serpents (_kiṃnaroragasevitam_), that sage of mighty austerity practiced severe penance to win the grace of Mahādeva (_mahādevaprasādārthaṃ tapas tepe mahātapāḥ_).
 </details>
 </details>
 
@@ -646,7 +646,7 @@ to that great-saint Vishvamitra, for He is a ready boon-giver. [1-55-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then after some time (kenacit tv atha kālena), the boon-granting Lord of the gods whose banner bears the bull (deveśo vṛṣabhadhvajaḥ varadaḥ) revealed himself (darśayāmāsa) to the great sage Viśvāmitra:
+Then after some time (_kenacit tv atha kālena_), the boon-granting Lord of the gods whose banner bears the bull (_deveśo vṛṣabhadhvajaḥ varadaḥ_) revealed himself (_darśayāmāsa_) to the great sage Viśvāmitra:
 </details>
 </details>
 
@@ -694,7 +694,7 @@ by you and what boon you seek that be made known to me for I am the boon-giver.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why do you practice such penance, O King (kimarthaṃ tapyase rājan)? Declare what you wish to say (brūhi yat te vivakṣitam). I am the giver of boons (varado ’smi); let the boon you desire be named (varo yas te kāṅkṣitaḥ so ’bhidhīyatām)!”
+“Why do you practice such penance, O King (_kimarthaṃ tapyase rājan_)? Declare what you wish to say (_brūhi yat te vivakṣitam_). I am the giver of boons (_varado ’smi_); let the boon you desire be named (_varo yas te kāṅkṣitaḥ so ’bhidhīyatām_)!”
 </details>
 </details>
 
@@ -739,7 +739,7 @@ said this way. [1-55-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the god (evam uktas tu devena), Viśvāmitra of mighty austerity bowed low before Mahādeva (praṇipatya mahādevam) and spoke these words:
+Addressed thus by the god (_evam uktas tu devena_), Viśvāmitra of mighty austerity bowed low before Mahādeva (_praṇipatya mahādevam_) and spoke these words:
 </details>
 </details>
 
@@ -788,7 +788,7 @@ doctrines... they may kindly be bestowed upon me... [1-55-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you are pleased with me, O sinless Mahādeva (yadi tuṣṭo mahādeva), let the science of archery and missiles (dhanurvedaḥ) be bestowed upon me, complete with its limbs, sub-limbs, esoteric mantras (sāṅgopāṅgopaniṣadaḥ), and secret doctrines (sarahasyaḥ)!
+“If you are pleased with me, O sinless Mahādeva (_yadi tuṣṭo mahādeva_), let the science of archery and missiles (_dhanurvedaḥ_) be bestowed upon me, complete with its limbs, sub-limbs, esoteric mantras (_sāṅgopāṅgopaniṣadaḥ_), and secret doctrines (_sarahasyaḥ_)!
 </details>
 </details>
 
@@ -846,7 +846,7 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever missiles exist among the gods, the dānavas, and the great seers (yāni deveṣu cāstrāṇi dānaveṣu maharṣiṣu), and among the gandharvas, yakṣas, and rākṣasas—may they all flash forth in my mind (pratibhāntu mamānagha), O sinless Lord!
+“Whatever missiles exist among the gods, the _dānavas_, and the great seers (_yāni deveṣu cāstrāṇi dānaveṣu maharṣiṣu_), and among the _gandharvas_, _yakṣas_, and _rākṣasas_—may they all flash forth in my mind (_pratibhāntu mamānagha_), O sinless Lord!
 </details>
 </details>
 
@@ -917,9 +917,9 @@ like a plethoric ocean? [1-55-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “By your grace, O God of gods, may my cherished desire be fulfilled (tava prasādād bhavatu devadeva mamepsitam)!” Having spoken the words “So be it!” (evam astv iti vākyam uktvā), the Lord of the gods then departed (gatastadā).
+**18:** “By your grace, O God of gods, may my cherished desire be fulfilled (_tava prasādād bhavatu devadeva mamepsitam_)!” Having spoken the words “So be it!” (_evam astv iti vākyam uktvā_), the Lord of the gods then departed (_gatastadā_).
 
-**19:** Having obtained those celestial missiles from the Lord of the gods (prāpya cāstrāṇi deveśāt), Viśvāmitra of mighty strength, already endowed with great pride, became utterly brimming with arrogance (darpeṇa mahatā yukto darpapūrṇo ’bhavat tadā).
+**19:** Having obtained those celestial missiles from the Lord of the gods (_prāpya cāstrāṇi deveśāt_), Viśvāmitra of mighty strength, already endowed with great pride, became utterly brimming with arrogance (_darpeṇa mahatā yukto darpapūrṇo ’bhavat tadā_).
 </details>
 </details>
 
@@ -968,7 +968,7 @@ that sagaciously mighty sage Vashishta is now 'dead.' [1-55-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swelling in valor like the ocean at the full-moon tide (vivardhamāno vīryeṇa samudra iva parvaṇi), O Rāma, he already accounted Vasiṣṭha, the foremost of seers, as slain (hataṃ mene tadā rāma vasiṣṭham ṛṣisattamam).
+Swelling in valor like the ocean at the full-moon tide (_vivardhamāno vīryeṇa samudra iva parvaṇi_), O Rāma, he already accounted Vasiṣṭha, the foremost of seers, as slain (_hataṃ mene tadā rāma vasiṣṭham ṛṣisattamam_).
 </details>
 </details>
 
@@ -1021,7 +1021,7 @@ of which missiles that ascetic woodland is completely burnt down in its entirety
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, proceeding to the hermitage (tato gatvāśramapadam), the monarch unleashed his missiles (mumocāstrāṇi pārthivaḥ), by whose fiery energy that entire penance-grove was burned to ashes (yais tat tapovanaṃ nāma nirdagdhaṃ cāstratejasā).
+Then, proceeding to the hermitage (_tato gatvāśramapadam_), the monarch unleashed his missiles (_mumocāstrāṇi pārthivaḥ_), by whose fiery energy that entire penance-grove was burned to ashes (_yais tat tapovanaṃ nāma nirdagdhaṃ cāstratejasā_).
 </details>
 </details>
 
@@ -1067,7 +1067,7 @@ saints were frightened and they very speedily fled in hundreds of ways. [1-55-22
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that missile of the wise Viśvāmitra being hurled forth (udīryamāṇam astraṃ tad dṛṣṭvā), terrified sages fled in all directions by the hundreds (vipradrutā bhītā munayaḥ śataśo diśaḥ).
+Beholding that missile of the wise Viśvāmitra being hurled forth (_udīryamāṇam astraṃ tad dṛṣṭvā_), terrified sages fled in all directions by the hundreds (_vipradrutā bhītā munayaḥ śataśo diśaḥ_).
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ and thousands of them have hastily fled to numerous directions. [1-55-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Vasiṣṭha’s disciples, as well as the deer and birds (vasiṣṭhasya ca ye śiṣyā ye ca vai mṛgapakṣiṇaḥ), fled in terror toward every quarter by the thousands (vidravanti bhayād bhītā nānādigbhyaḥ sahasraśaḥ).
+And Vasiṣṭha’s disciples, as well as the deer and birds (_vasiṣṭhasya ca ye śiṣyā ye ca vai mṛgapakṣiṇaḥ_), fled in terror toward every quarter by the thousands (_vidravanti bhayād bhītā nānādigbhyaḥ sahasraśaḥ_).
 </details>
 </details>
 
@@ -1172,7 +1172,7 @@ evacuee. [1-55-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The hermitage of the high-souled Vasiṣṭha became utterly deserted (śūnyam āsīn mahātmanaḥ); for an hour it stood devoid of all sound, resembling a barren, saline desert (muhūrtam iva niḥśabdam āsīd īriṇasaṃnibham).
+The hermitage of the high-souled Vasiṣṭha became utterly deserted (_śūnyam āsīn mahātmanaḥ_); for an hour it stood devoid of all sound, resembling a barren, saline desert (_muhūrtam iva niḥśabdam āsīd īriṇasaṃnibham_).
 </details>
 </details>
 
@@ -1234,7 +1234,7 @@ fled. [1-55-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—even while Vasiṣṭha was repeatedly calling out (vadato vai vasiṣṭhasya muhur muhuḥ): “Fear not (mā bhaiḥ)! Today I shall destroy the son of Gādhi as the sun dispels the morning mist (nāśayāmy adya gādheyaṃ nīhāram iva bhāskaraḥ)!”
+—even while Vasiṣṭha was repeatedly calling out (_vadato vai vasiṣṭhasya muhur muhuḥ_): “Fear not (_mā bhaiḥ_)! Today I shall destroy the son of Gādhi as the sun dispels the morning mist (_nāśayāmy adya gādheyaṃ nīhāram iva bhāskaraḥ_)!”
 </details>
 </details>
 
@@ -1280,7 +1280,7 @@ meditators rancorously said this word to Vishvamitra. [1-55-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to his fleeing disciples, Vasiṣṭha of mighty splendor, the foremost of japa-reciters (japatāṃ varaḥ), then spoke these wrathful words to Viśvāmitra (viśvāmitraṃ tadā vākyaṃ saroṣam idam abravīt):
+Having spoken thus to his fleeing disciples, Vasiṣṭha of mighty splendor, the foremost of _japa_-reciters (_japatāṃ varaḥ_), then spoke these wrathful words to Viśvāmitra (_viśvāmitraṃ tadā vākyaṃ saroṣam idam abravīt_):
 </details>
 </details>
 
@@ -1345,7 +1345,7 @@ show you who is fit enough to survive, an instructor or an intruder, in effacing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you have destroyed this hermitage nurtured for so long (āśramaṃ cirasaṃvṛddhaṃ yad vināśitavān asi), and since you are a wicked-minded fool (durācāro hi yan mūḍhaḥ), therefore you shall cease to live (tasmāt tvaṃ na bhaviṣyasi)!”
+“Since you have destroyed this hermitage nurtured for so long (_āśramaṃ cirasaṃvṛddhaṃ yad vināśitavān asi_), and since you are a wicked-minded fool (_durācāro hi yan mūḍhaḥ_), therefore you shall cease to live (_tasmāt tvaṃ na bhaviṣyasi_)!”
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ Vishvamitra." Thus, Sage Shataananda continued his narration of Vishvamitra's le
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus in supreme wrath (ity uktvā paramakruddhaḥ), blazing like the smokeless fire of Doomsday (vidhūma iva kālāgniḥ), he swiftly raised his ascetic staff like a second rod of Yama (daṇḍam udyamya satvaraḥ yamadaṇḍam ivāparam).
+Speaking thus in supreme wrath (_ity uktvā paramakruddhaḥ_), blazing like the smokeless fire of Doomsday (_vidhūma iva kālāgniḥ_), he swiftly raised his ascetic staff like a second rod of Yama (_daṇḍam udyamya satvaraḥ yamadaṇḍam ivāparam_).
 </details>
 </details>
 

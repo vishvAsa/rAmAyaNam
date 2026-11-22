@@ -109,7 +109,7 @@ The epic starts with the word auspicious word *ta* as said in *'takaarovighnanaa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vālmīki, an ascetic established in austere penance (tapasvī), reverently questioned Nārada—preeminent among contemplative sages (munipuṅgavam), foremost among masters of speech (vāgvidāṃ varam), and ever absorbed in spiritual austerity and Vedic self-study (tapaḥ-svādhyāya-niratam):
+Vālmīki, an ascetic established in austere penance (_tapasvī_), reverently questioned Nārada—preeminent among contemplative sages (_munipuṅgavam_), foremost among masters of speech (_vāgvidāṃ varam_), and ever absorbed in spiritual austerity and Vedic self-study (_tapaḥ-svādhyāya-niratam_):
 </details>
 </details>
 
@@ -156,7 +156,7 @@ Vālmīki, an ascetic established in austere penance (tapasvī), reverently ques
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who indeed in this world at the present time (sāmpratam) is supremely endowed with auspicious virtues (guṇavān), and who possesses heroic valor (vīryavān)? Who is a knower of righteousness (dharmajñaḥ), mindful of even the smallest kindness done to him (kṛtajñaḥ), unfailing in truthful speech (satyavākyaḥ), and unshakeable in his sacred vows (dṛḍhavrataḥ)?
+“Who indeed in this world at the present time (_sāmpratam_) is supremely endowed with auspicious virtues (_guṇavān_), and who possesses heroic valor (_vīryavān_)? Who is a knower of righteousness (_dharmajñaḥ_), mindful of even the smallest kindness done to him (_kṛtajñaḥ_), unfailing in truthful speech (_satyavākyaḥ_), and unshakeable in his sacred vows (_dṛḍhavrataḥ_)?
 </details>
 </details>
 
@@ -216,7 +216,7 @@ alone is pleasant...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is adorned with spotless hereditary and personal conduct (cāritreṇa yuktaḥ), and who is the active benefactor of all living beings (sarvabhūteṣu hitaḥ)? Who is omniscient in sacred lore (vidvān), who is capable of accomplishing what none other can achieve (samarthaḥ), and who is uniquely delightful to behold at every moment (ekapriyadarśanaḥ)?
+“Who is adorned with spotless hereditary and personal conduct (_cāritreṇa yuktaḥ_), and who is the active benefactor of all living beings (_sarvabhūteṣu hitaḥ_)? Who is omniscient in sacred lore (_vidvān_), who is capable of accomplishing what none other can achieve (_samarthaḥ_), and who is uniquely delightful to behold at every moment (_ekapriyadarśanaḥ_)?
 </details>
 </details>
 
@@ -262,7 +262,7 @@ alone is pleasant...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is the master of his inner self (ātmavān), who has conquered wrath (jitakrodhaḥ), who radiates transcendent splendor (dyutimān), and who is wholly free from envy or fault-finding (anasūyakaḥ)? And who is that warrior before whose aroused fury on the field of battle even the celestials tremble in awe?
+“Who is the master of his inner self (_ātmavān_), who has conquered wrath (_jitakrodhaḥ_), who radiates transcendent splendor (_dyutimān_), and who is wholly free from envy or fault-finding (_anasūyakaḥ_)? And who is that warrior before whose aroused fury on the field of battle even the celestials tremble in awe?
 </details>
 </details>
 
@@ -331,7 +331,7 @@ full-moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This I earnestly desire to hear, for a profound eagerness fills my heart. O Great Seer (maharṣe)! You alone are capable of knowing such an extraordinary mortal man (evaṃvidhaṃ naram).”
+“This I earnestly desire to hear, for a profound eagerness fills my heart. O Great Seer (_maharṣe_)! You alone are capable of knowing such an extraordinary mortal man (_evaṃvidhaṃ naram_).”
 </details>
 </details>
 
@@ -364,7 +364,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of Vālmīki, Nārada—knower of the three worlds (trilokajñaḥ)—was filled with joy; inviting the sage’s close attention with the words “Pray listen!” (śrūyatām), he spoke this discourse:
+Hearing these words of Vālmīki, Nārada—knower of the three worlds (_trilokajñaḥ_)—was filled with joy; inviting the sage’s close attention with the words “Pray listen!” (_śrūyatām_), he spoke this discourse:
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Valmiki and those of Narada and Brahma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Manifold and exceedingly rare to find united in a single being are the virtues you have recounted, O Sage! Having reflected with clear discernment (buddhvā), I shall declare to you that man who is endowed with them all—pray listen!
+“Manifold and exceedingly rare to find united in a single being are the virtues you have recounted, O Sage! Having reflected with clear discernment (_buddhvā_), I shall declare to you that man who is endowed with them all—pray listen!
 </details>
 </details>
 
@@ -513,7 +513,7 @@ of that Absolute in Creation, and the process of Creation is the self-expression
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Born in the illustrious solar lineage of Ikṣvāku, there is one renowned among all people by the name of Rāma: ever self-governed in mind (niyatātmā), of supreme valor (mahāvīryaḥ), radiant in majesty (dyutimān), unshakeable in fortitude (dhṛtimān), and sovereign over his senses (vaśī).
+“Born in the illustrious solar lineage of Ikṣvāku, there is one renowned among all people by the name of Rāma: ever self-governed in mind (_niyatātmā_), of supreme valor (_mahāvīryaḥ_), radiant in majesty (_dyutimān_), unshakeable in fortitude (_dhṛtimān_), and sovereign over his senses (_vaśī_).
 </details>
 </details>
 
@@ -576,7 +576,7 @@ have by birth, as per *saamudrikashaastra*, the physiognomic treatise of astrolo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Possessed of penetrating intellect (buddhimān), unerring in moral statesmanship (nītimān), eloquent in speech (vāgmī), glorious with auspicious grace (śrīmān), and the uprooter of foes (śatrunibarhaṇaḥ), He is broad-shouldered (vipulāṃsaḥ), mighty-armed (mahābāhuḥ), conch-necked (kambugrīvaḥ), and firm-jawed (mahāhanuḥ).
+“Possessed of penetrating intellect (_buddhimān_), unerring in moral statesmanship (_nītimān_), eloquent in speech (_vāgmī_), glorious with auspicious grace (_śrīmān_), and the uprooter of foes (_śatrunibarhaṇaḥ_), He is broad-shouldered (_vipulāṃsaḥ_), mighty-armed (_mahābāhuḥ_), conch-necked (_kambugrīvaḥ_), and firm-jawed (_mahāhanuḥ_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ ones like *ariSaDvarga* like desire, ire, avarice, conceit etc., as detailed in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Vast-chested (mahoraskaḥ), wielding a mighty bow (maheṣvāsaḥ), with collarbones deeply sheathed in firm muscle (gūḍhajatruḥ), and tamer of adversaries (arindamaḥ), He has arms reaching down to His knees (ājānubāhuḥ), a noble crown (suśirāḥ), a comely forehead (sulalāṭaḥ), and a lion-like stride (suvikramaḥ).
+“Vast-chested (_mahoraskaḥ_), wielding a mighty bow (_maheṣvāsaḥ_), with collarbones deeply sheathed in firm muscle (_gūḍhajatruḥ_), and tamer of adversaries (_arindamaḥ_), He has arms reaching down to His knees (_ājānubāhuḥ_), a noble crown (_suśirāḥ_), a comely forehead (_sulalāṭaḥ_), and a lion-like stride (_suvikramaḥ_).
 </details>
 </details>
 
@@ -686,7 +686,7 @@ by the adherents as said in Chāndogya Upanishad: *ya eSo antaraaditye hiraNmaya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of symmetrical stature (samaḥ) and harmoniously proportioned limbs (samavibhaktāṅgaḥ), lustrous and soothing in complexion (snigdhavarṇaḥ), and resplendent with heroic valor (pratāpavān), He has a full, muscular chest (pīnavakṣāḥ), wide lotus-like eyes (viśālākṣaḥ), radiant beauty (lakṣmīvān), and every auspicious bodily mark (śubhalakṣaṇaḥ).
+“Of symmetrical stature (_samaḥ_) and harmoniously proportioned limbs (_samavibhaktāṅgaḥ_), lustrous and soothing in complexion (_snigdhavarṇaḥ_), and resplendent with heroic valor (_pratāpavān_), He has a full, muscular chest (_pīnavakṣāḥ_), wide lotus-like eyes (_viśālākṣaḥ_), radiant beauty (_lakṣmīvān_), and every auspicious bodily mark (_śubhalakṣaṇaḥ_).
 </details>
 </details>
 
@@ -733,7 +733,7 @@ proficient in prudence, clean in his conduct, self-controlled and an attentive o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is the knower of dharma (dharmajñaḥ), unfailing in His solemn pledges (satyasandhaḥ), and ever delighted in the welfare of His subjects (prajānāṃ ca hite rataḥ); illustrious in renown (yaśasvī), rich in spiritual wisdom (jñānasampannaḥ), pure inside and out (śuciḥ), submissive to the virtuous (vaśyaḥ), and established in contemplative concentration (samādhimān).
+“He is the knower of _dharma_ (_dharmajñaḥ_), unfailing in His solemn pledges (_satyasandhaḥ_), and ever delighted in the welfare of His subjects (_prajānāṃ ca hite rataḥ_); illustrious in renown (_yaśasvī_), rich in spiritual wisdom (_jñānasampannaḥ_), pure inside and out (_śuciḥ_), submissive to the virtuous (_vaśyaḥ_), and established in contemplative concentration (_samādhimān_).
 </details>
 </details>
 
@@ -799,7 +799,7 @@ others.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Equal to Prajāpati the Lord of creatures (prajāpatisamaḥ), radiant with divine fortune (śrīmān), sustainer of all beings (dhātā), and destroyer of enemies (ripuniṣūdanaḥ), He is the protector of the world of living beings (rakṣitā jīvalokasya) and the supreme guardian of dharma on every side (dharmasya parirakṣitā).
+“Equal to Prajāpati the Lord of creatures (_prajāpatisamaḥ_), radiant with divine fortune (_śrīmān_), sustainer of all beings (_dhātā_), and destroyer of enemies (_ripuniṣūdanaḥ_), He is the protector of the world of living beings (_rakṣitā jīvalokasya_) and the supreme guardian of _dharma_ on every side (_dharmasya parirakṣitā_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ such weapons to Rama. For now, these bow and arrow references may not be taken a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is the steadfast guardian of His own specific dharma (rakṣitā svasya dharmasya) and the protector of His own devoted kin (svajanasya ca rakṣitā); He knows the innermost essence of the Vedas and their six auxiliary sciences (vedavedāṅgatattvajñaḥ), and stands at the summit of the science of archery (dhanurvede ca niṣṭhitaḥ).
+“He is the steadfast guardian of His own specific _dharma_ (_rakṣitā svasya dharmasya_) and the protector of His own devoted kin (_svajanasya ca rakṣitā_); He knows the innermost essence of the Vedas and their six auxiliary sciences (_vedavedāṅgatattvajñaḥ_), and stands at the summit of the science of archery (_dhanurvede ca niṣṭhitaḥ_).
 </details>
 </details>
 
@@ -927,7 +927,7 @@ and dear to all the worlds, gentle, level-headed and clear-headed in discriminat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Knower of the true purport of all sacred treatises (sarvaśāstrārthatattvajñaḥ), endowed with unfailing retentive memory (smṛtimān) and spontaneous flash of insight (pratibhānavān), He is beloved of all the worlds (sarvalokapriyaḥ), gentle toward all (sādhuḥ), magnanimous in spirit (adīnātmā), and supremely discerning in action (vicakṣaṇaḥ).
+“Knower of the true purport of all sacred treatises (_sarvaśāstrārthatattvajñaḥ_), endowed with unfailing retentive memory (_smṛtimān_) and spontaneous flash of insight (_pratibhānavān_), He is beloved of all the worlds (_sarvalokapriyaḥ_), gentle toward all (_sādhuḥ_), magnanimous in spirit (_adīnātmā_), and supremely discerning in action (_vicakṣaṇaḥ_).
 </details>
 </details>
 
@@ -983,7 +983,7 @@ like Jataayu, have no other recourse than Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is perpetually resorted to by the righteous, just as the ocean is ever sought by flowing rivers (samudra iva sindhubhiḥ); noble in conduct (āryaḥ), impartial toward all beings (sarvasamaḥ), He is forever delightful to behold (sadaiva priyadarśanaḥ).
+“He is perpetually resorted to by the righteous, just as the ocean is ever sought by flowing rivers (_samudra iva sindhubhiḥ_); noble in conduct (_āryaḥ_), impartial toward all beings (_sarvasamaḥ_), He is forever delightful to behold (_sadaiva priyadarśanaḥ_).
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ adherents are scorched with their problems.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with every auspicious excellence, He is the enhancer of Queen Kausalyā’s bliss (kausalyānandavardhanaḥ); in unfathomable depth of mind He is like the ocean (samudra iva gāmbhīrye), and in unshakeable firmness He is like Mount Himavān (dhairyeṇa himavān iva).
+“Endowed with every auspicious excellence, He is the enhancer of Queen Kausalyā’s bliss (_kausalyānandavardhanaḥ_); in unfathomable depth of mind He is like the ocean (_samudra iva gāmbhīrye_), and in unshakeable firmness He is like Mount Himavān (_dhairyeṇa himavān iva_).
 </details>
 </details>
 
@@ -1129,7 +1129,7 @@ to English.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In heroic valor He is the peer of Lord Viṣṇu (viṣṇunā sadṛśo vīrye); in cool, soothing loveliness He is like the Moon (somavat priyadarśanaḥ); in wrath against evil He resembles the cosmic fire of dissolution (kālāgnisadṛśaḥ krodhe); and in patient forbearance He is equal to Mother Earth (kṣamayā pṛthivīsamaḥ).
+“In heroic valor He is the peer of Lord Viṣṇu (_viṣṇunā sadṛśo vīrye_); in cool, soothing loveliness He is like the Moon (_somavat priyadarśanaḥ_); in wrath against evil He resembles the cosmic fire of dissolution (_kālāgnisadṛśaḥ krodhe_); and in patient forbearance He is equal to Mother Earth (_kṣamayā pṛthivīsamaḥ_).
 </details>
 </details>
 
@@ -1205,9 +1205,9 @@ and concerned for welfare of the people....[1-1-29b, 20, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “In munificent liberality He is equal to Kubera the dispenser of wealth (dhanadena samas tyāge), and in truthfulness He is like a second Dharma incarnate (satye dharma ivāparaḥ). That Rāma, thus endowed with every virtue and of unfailing valor (satyaparākramam)—
+**19:** “In munificent liberality He is equal to Kubera the dispenser of wealth (_dhanadena samas tyāge_), and in truthfulness He is like a second Dharma incarnate (_satye dharma ivāparaḥ_). That Rāma, thus endowed with every virtue and of unfailing valor (_satyaparākramam_)—
 
-**20:** “—his eldest and most beloved son, united with the noblest excellences (śreṣṭhaguṇair yuktam) † and ever devoted to the welfare of the citizens and ministers (prakṛtīnāṃ hitair yuktam), King Daśaratha, out of a desire to accomplish what was dear to his subjects (prakṛtipriyakāmyayā)—
+**20:** “—his eldest and most beloved son, united with the noblest excellences (_śreṣṭhaguṇair yuktam_) † and ever devoted to the welfare of the citizens and ministers (_prakṛtīnāṃ hitair yuktam_), King Daśaratha, out of a desire to accomplish what was dear to his subjects (_prakṛtipriyakāmyayā_)—
 </details>
 </details>
 
@@ -1265,9 +1265,9 @@ banishment of Rama and anointment of Bharata as boons. [1-1-21b, 22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “—that lord of the earth lovingly desired to invest with the office of Prince Regent (yauvarājyena saṃyoktum aicchat). Then, beholding the grand preparations for His consecration (tasyābhiṣekasambhārān dṛṣṭvā), the king’s consort Kaikeyī—
+**21:** “—that lord of the earth lovingly desired to invest with the office of Prince Regent (_yauvarājyena saṃyoktum aicchat_). Then, beholding the grand preparations for His consecration (_tasyābhiṣekasambhārān dṛṣṭvā_), the king’s consort Kaikeyī—
 
-**22:** “—that queen, to whom a boon had been granted of old (pūrvaṃ dattavarā devī), demanded of him this twofold boon: the banishment of Rāma to the forest (vivāsanaṃ ca rāmasya) and the royal consecration of Bharata (bharatasyābhiṣecanam).
+**22:** “—that queen, to whom a boon had been granted of old (_pūrvaṃ dattavarā devī_), demanded of him this twofold boon: the banishment of Rāma to the forest (_vivāsanaṃ ca rāmasya_) and the royal consecration of Bharata (_bharatasyābhiṣecanam_).
 </details>
 </details>
 
@@ -1315,7 +1315,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bound fast by the noose of righteousness on account of his plighted word of truth (satyavacanād dharmapāśena saṃyataḥ), that King Daśaratha sent into exile his own beloved son Rāma.
+“Bound fast by the noose of righteousness on account of his plighted word of truth (_satyavacanād dharmapāśena saṃyataḥ_), that King Daśaratha sent into exile his own beloved son Rāma.
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ directed by his father, and to follow his father's word of honour. [1-1-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Faithfully upholding that solemn pledge (pratijñām anupālayan), the heroic prince went forth into the wilderness at the command of his father’s word and in order to accomplish what was pleasing to Kaikeyī.
+“Faithfully upholding that solemn pledge (_pratijñām anupālayan_), the heroic prince went forth into the wilderness at the command of his father’s word and in order to accomplish what was pleasing to Kaikeyī.
 </details>
 </details>
 
@@ -1428,7 +1428,7 @@ dear brother to Rama, followed him out of affection, showing brotherly fraternit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As He set forth, His beloved brother Lakṣmaṇa—the enhancer of Queen Sumitrā’s joy (sumitrānandavardhanaḥ), richly endowed with humility and reverence (vinayasampannaḥ)—followed after Him out of pure fraternal love (snehāt),
+“As He set forth, His beloved brother Lakṣmaṇa—the enhancer of Queen Sumitrā’s joy (_sumitrānandavardhanaḥ_), richly endowed with humility and reverence (_vinayasampannaḥ_)—followed after Him out of pure fraternal love (_snehāt_),
 </details>
 </details>
 
@@ -1503,11 +1503,11 @@ of 'togetherness...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** “—beloved of His brother, manifesting ideal fraternal devotion toward His elder brother (saubhrātram anudarśayan). And Rāma’s beloved consort, ever dear to Him as His own life-breath and devoted to His welfare (nityaṃ prāṇasamā hitā)—
+**26:** “—beloved of His brother, manifesting ideal fraternal devotion toward His elder brother (_saubhrātram anudarśayan_). And Rāma’s beloved consort, ever dear to Him as His own life-breath and devoted to His welfare (_nityaṃ prāṇasamā hitā_)—
 
-**27:** “—who had appeared in the royal house of King Janaka, fashioned as though by the wondrous creative power of the gods (devamāyeva nirmitā), endowed with every auspicious mark (sarvalakṣaṇasampannā), the foremost bride among all women (nārīṇām uttamā vadhūḥ)—
+**27:** “—who had appeared in the royal house of King Janaka, fashioned as though by the wondrous creative power of the gods (_devamāyeva nirmitā_), endowed with every auspicious mark (_sarvalakṣaṇasampannā_), the foremost bride among all women (_nārīṇām uttamā vadhūḥ_)—
 
-**28:** “—Sītā too followed Rāma, even as the star Rohiṇī ever attends the Moon (śaśinaṃ rohiṇī yathā). Followed far along the way by the citizens of Ayodhyā and by His father Daśaratha—
+**28:** “—Sītā too followed Rāma, even as the star Rohiṇī ever attends the Moon (_śaśinaṃ rohiṇī yathā_). Followed far along the way by the citizens of Ayodhyā and by His father Daśaratha—
 </details>
 </details>
 
@@ -1557,7 +1557,7 @@ Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—on the bank of the Gaṅgā at the town of Śṛṅgaverapura, the righteous-souled prince bade farewell to the royal charioteer Sumantra (sūtaṃ vyasarjayat), † having met His dear friend Guha, lord of the Niṣādas (niṣādādhipatiṃ priyam).
+“—on the bank of the Gaṅgā at the town of Śṛṅgaverapura, the righteous-souled prince bade farewell to the royal charioteer Sumantra (_sūtaṃ vyasarjayat_), † having met His dear friend Guha, lord of the Niṣādas (_niṣādādhipatiṃ priyam_).
 </details>
 </details>
 
@@ -1635,9 +1635,9 @@ to enter the forest to resolve the purpose of Ramayana and their incarnations.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** “Accompanied by Guha, Lakṣmaṇa, and Sītā, Rāma [dwelt there that night]; and thereafter those three, journeying from forest to forest (vanena vanaṃ gatvā) and crossing rivers brimming with deep waters (nadīs tīrtvā bahūdakāḥ)—
+**30:** “Accompanied by Guha, Lakṣmaṇa, and Sītā, Rāma [dwelt there that night]; and thereafter those three, journeying from forest to forest (_vanena vanaṃ gatvā_) and crossing rivers brimming with deep waters (_nadīs tīrtvā bahūdakāḥ_)—
 
-**31:** “—having reached Mount Citrakūṭa by the direction of Sage Bharadvāja (bharadvājasya śāsanāt), and having built a charming hermitage-dwelling (ramyam āvasathaṃ kṛtvā), those three—delighting in the woodland (ramamāṇā vane trayaḥ)—
+**31:** “—having reached Mount Citrakūṭa by the direction of Sage Bharadvāja (_bharadvājasya śāsanāt_), and having built a charming hermitage-dwelling (_ramyam āvasathaṃ kṛtvā_), those three—delighting in the woodland (_ramamāṇā vane trayaḥ_)—
 </details>
 </details>
 
@@ -1686,7 +1686,7 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—radiant as celestials and gandharvas (devagandharvasaṅkāśāḥ), dwelt there in serene happiness. Meanwhile, when Rāma had gone to Citrakūṭa, stricken with anguish of grief for his son (putraśokāturaḥ)—
+“—radiant as celestials and gandharvas (_devagandharvasaṅkāśāḥ_), dwelt there in serene happiness. Meanwhile, when Rāma had gone to Citrakūṭa, stricken with anguish of grief for his son (_putraśokāturaḥ_)—
 </details>
 </details>
 
@@ -1744,9 +1744,9 @@ The word 'thus' in the shloka, is according to the text of Govindaraja. Maheshva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** “—King Daśaratha departed for heaven, lamenting for his son (vilapan sutam). Upon his passing (gate tu tasmin), Bharata, though urged by the twice-born sages headed by Vasiṣṭha (vasiṣṭhapramukhair dvijaiḥ)—
+**33:** “—King Daśaratha departed for heaven, lamenting for his son (_vilapan sutam_). Upon his passing (_gate tu tasmin_), Bharata, though urged by the twice-born sages headed by Vasiṣṭha (_vasiṣṭhapramukhair dvijaiḥ_)—
 
-**34:** “—being appointed to the sovereignty (niyujyamāno rājyāya), that prince of mighty moral strength refused the kingdom (naicchad rājyam); instead, that hero journeyed to the forest to propitiate the sacred feet of Rāma (rāmapādaprasādakaḥ).
+**34:** “—being appointed to the sovereignty (_niyujyamāno rājyāya_), that prince of mighty moral strength refused the kingdom (_naicchad rājyam_); instead, that hero journeyed to the forest to propitiate the sacred feet of Rāma (_rāmapādaprasādakaḥ_).
 </details>
 </details>
 
@@ -1804,7 +1804,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Approaching the magnanimous Rāma of unfailing valor, Bharata—impelled by noble rectitude of heart (āryabhāvapuraskṛtaḥ)—entreated his elder brother Rāma,
+“Approaching the magnanimous Rāma of unfailing valor, Bharata—impelled by noble rectitude of heart (_āryabhāvapuraskṛtaḥ_)—entreated his elder brother Rāma,
 </details>
 </details>
 
@@ -1876,9 +1876,9 @@ for the sake of kingdom. [1-1-37b, 38a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “and spoke these words to Rāma: ‘O Knower of dharma! You alone are the rightful King!’ (tvam eva rājā dharmajña). Yet Rāma too—supremely munificent (paramodāraḥ), of serene and gracious countenance (sumukhaḥ), and of vast renown—
+**36:** “and spoke these words to Rāma: ‘O Knower of _dharma_! You alone are the rightful King!’ (_tvam eva rājā dharmajña_). Yet Rāma too—supremely munificent (_paramodāraḥ_), of serene and gracious countenance (_sumukhaḥ_), and of vast renown—
 
-**37:** “—Rāma, of mighty resolve, did not consent to accept the kingdom on account of His father’s command (na caicchat pitur ādeśād rājyam). Instead, bestowing His two sandals upon Bharata as a sacred trust for the governance of the realm (pāduke cāsya rājyāya nyāsaṃ dattvā), again and again—
+**37:** “—Rāma, of mighty resolve, did not consent to accept the kingdom on account of His father’s command (_na caicchat pitur ādeśād rājyam_). Instead, bestowing His two sandals upon Bharata as a sacred trust for the governance of the realm (_pāduke cāsya rājyāya nyāsaṃ dattvā_), again and again—
 </details>
 </details>
 
@@ -1923,7 +1923,7 @@ expectation of Rama's arrival... [1-1-38b, 39a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—the elder brother of Bharata (bharatāgrajaḥ) persuaded Bharata to turn back. And Bharata, without having attained his heart’s desire [of bringing Rāma home] (kāmam anavāpyaiva), reverently touching Rāma’s feet (rāmapādāv upaspṛśan)—
+“—the elder brother of Bharata (_bharatāgrajaḥ_) persuaded Bharata to turn back. And Bharata, without having attained his heart’s desire [of bringing Rāma home] (_kāmam anavāpyaiva_), reverently touching Rāma’s feet (_rāmapādāv upaspṛśan_)—
 </details>
 </details>
 
@@ -1987,9 +1987,9 @@ presence of *RakShasaas*.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** “—administered the kingdom from Nandigrāma in ardent expectation of Rāma’s return (rāmāgamanakāṅkṣayā). † Once Bharata had departed, the glorious Rāma—true to His covenant and master of His senses (satyasandho jitendriyaḥ)—
+**39:** “—administered the kingdom from Nandigrāma in ardent expectation of Rāma’s return (_rāmāgamanakāṅkṣayā_). † Once Bharata had departed, the glorious Rāma—true to His covenant and master of His senses (_satyasandho jitendriyaḥ_)—
 
-**40:** “—perceiving that the townspeople and country folk would again flock there [to Citrakūṭa] (punar ālakṣya nāgarasya janasya ca tatrāgamanam), with single-pointed resolve (ekāgraḥ) entered deep into the Daṇḍaka forests.
+**40:** “—perceiving that the townspeople and country folk would again flock there [to Citrakūṭa] (_punar ālakṣya nāgarasya janasya ca tatrāgamanam_), with single-pointed resolve (_ekāgraḥ_) entered deep into the Daṇḍaka forests.
 </details>
 </details>
 
@@ -2047,7 +2047,7 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having entered that vast wilderness, the lotus-eyed Rāma (rāmo rājīvalocanaḥ) slew the monster Virādha (virādhaṃ rākṣasaṃ hatvā) and beheld the sage Śarabhaṅga,
+“Having entered that vast wilderness, the lotus-eyed Rāma (_rāmo rājīvalocanaḥ_) slew the monster Virādha (_virādhaṃ rākṣasaṃ hatvā_) and beheld the sage Śarabhaṅga,
 </details>
 </details>
 
@@ -2093,7 +2093,7 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and likewise visited Sutīkṣṇa, Agastya, and Agastya’s brother [Sudarśana]. And at Agastya’s word, He accepted the celestial bow of Indra (aindraṃ śarāsanam)—
+“and likewise visited Sutīkṣṇa, Agastya, and Agastya’s brother [Sudarśana]. And at Agastya’s word, He accepted the celestial bow of Indra (_aindraṃ śarāsanam_)—
 </details>
 </details>
 
@@ -2150,7 +2150,7 @@ approached him for the elimination of ogres and demons... [1-1-43b, 44a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—together with a celestial sword and two quivers of inexhaustible arrows (tūṇī cākṣayasāyakau), filled with supreme delight (paramaprītaḥ). While that Rāma was dwelling in the forest in the company of woodland ascetics (vanacaraiḥ saha)—
+“—together with a celestial sword and two quivers of inexhaustible arrows (_tūṇī cākṣayasāyakau_), filled with supreme delight (_paramaprītaḥ_). While that Rāma was dwelling in the forest in the company of woodland ascetics (_vanacaraiḥ saha_)—
 </details>
 </details>
 
@@ -2213,9 +2213,9 @@ of this canto, accounts are given as how these were created and named.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “—all the sages approached Him for the slaying of the fiendish rākṣasas (vadhāyāsurarakṣasām). † And in that forest Rāma solemnly promised them [the destruction] of those rākṣasas (sa teṣāṃ pratiśuśrāva).
+**44:** “—all the sages approached Him for the slaying of the fiendish rākṣasas (_vadhāyāsurarakṣasām_). † And in that forest Rāma solemnly promised them [the destruction] of those rākṣasas (_sa teṣāṃ pratiśuśrāva_).
 
-**45:** “Indeed, the slaying of the rākṣasas in battle (vadhaḥ saṃyati rakṣasām) was pledged by Rāma to those sages dwelling in the Daṇḍaka forest, who were radiant as blazing fire (ṛṣīṇām agnikalpānām).
+**45:** “Indeed, the slaying of the rākṣasas in battle (_vadhaḥ saṃyati rakṣasām_) was pledged by Rāma to those sages dwelling in the Daṇḍaka forest, who were radiant as blazing fire (_ṛṣīṇām agnikalpānām_).
 </details>
 </details>
 
@@ -2274,7 +2274,7 @@ Shuurpa-nakha is so named because her fingernails are like winnowing fans, *shuu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By Him, while dwelling right there [at Pañcavaṭī], the rākṣasī Śūrpaṇakhā—an inhabitant of Janasthāna capable of assuming any form at will (kāmarūpiṇī)—was disfigured (virūpitā).
+“By Him, while dwelling right there [at Pañcavaṭī], the rākṣasī Śūrpaṇakhā—an inhabitant of Janasthāna capable of assuming any form at will (_kāmarūpiṇī_)—was disfigured (_virūpitā_).
 </details>
 </details>
 
@@ -2369,7 +2369,7 @@ We are ignoring in translation the एव part of चैव and translating the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—Rāma slew in battle, along with their entire host of followers (teṣāṃ caiva padānugān). † Indeed, by Him dwelling in that forest, of the inhabitants of Janasthāna—
+“—Rāma slew in battle, along with their entire host of followers (_teṣāṃ caiva padānugān_). † Indeed, by Him dwelling in that forest, of the inhabitants of Janasthāna—
 </details>
 </details>
 
@@ -2436,7 +2436,7 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—fourteen thousand rākṣasas were slain (rakṣasāṃ nihatāny āsan sahasrāṇi caturdaśa). Thereafter, hearing of the slaughter of his kinsmen (jñātivadhaṃ śrutvā), Rāvaṇa, beside himself with blinding wrath (krodhamūrcchitaḥ)—
+“—fourteen thousand rākṣasas were slain (_rakṣasāṃ nihatāny āsan sahasrāṇi caturdaśa_). Thereafter, hearing of the slaughter of his kinsmen (_jñātivadhaṃ śrutvā_), Rāvaṇa, beside himself with blinding wrath (_krodhamūrcchitaḥ_)—
 </details>
 </details>
 
@@ -2501,9 +2501,9 @@ place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**50:** “—sought out as his accomplice a rākṣasa named Mārīca. Though repeatedly restrained by Mārīca (vāryamāṇaḥ subahuśo mārīcena)—who warned him:
+**50:** “—sought out as his accomplice a rākṣasa named Mārīca. Though repeatedly restrained by Mārīca (_vāryamāṇaḥ subahuśo mārīcena_)—who warned him:
 
-**51:** “‘Hostility with that mighty hero is not fitting for you, O Rāvaṇa!’ (na virodho balavatā kṣamo rāvaṇa tena te)—Rāvaṇa, impelled by all-consuming Time (kālacoditaḥ), disregarded that counsel,
+**51:** “‘Hostility with that mighty hero is not fitting for you, O Rāvaṇa!’ (_na virodho balavatā kṣamo rāvaṇa tena te_)—Rāvaṇa, impelled by all-consuming Time (_kālacoditaḥ_), disregarded that counsel,
 </details>
 </details>
 
@@ -2547,7 +2547,7 @@ place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and went together with Mārīca to the site of Rāma’s hermitage. Having lured the two royal princes far away by means of that illusion-wielding Mārīca (tena māyāvinā dūram apavāhya nṛpātmajau),
+“and went together with Mārīca to the site of Rāma’s hermitage. Having lured the two royal princes far away by means of that illusion-wielding Mārīca (_tena māyāvinā dūram apavāhya nṛpātmajau_),
 </details>
 </details>
 
@@ -2592,7 +2592,7 @@ seething with anguish ... [1-1-53b, 54a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“he carried off Rāma’s consort after striking down the vulture-king Jaṭāyu (gṛdhraṃ hatvā jaṭāyuṣam). And beholding the vulture mortally struck down, and hearing from him that Princess Maithilī had been abducted—
+“he carried off Rāma’s consort after striking down the vulture-king Jaṭāyu (_gṛdhraṃ hatvā jaṭāyuṣam_). And beholding the vulture mortally struck down, and hearing from him that Princess Maithilī had been abducted—
 </details>
 </details>
 
@@ -2656,9 +2656,9 @@ indeed saw a demon named Kabandha, deformed in his looks and with a terrible app
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**54:** “—Rāghava, scorched by grief, lamented with His senses overwhelmed by anguish (vilalāpākulendriyaḥ). Then, with that very grief, having cremated the vulture Jaṭāyu—
+**54:** “—Rāghava, scorched by grief, lamented with His senses overwhelmed by anguish (_vilalāpākulendriyaḥ_). Then, with that very grief, having cremated the vulture Jaṭāyu—
 
-**55:** “—searching for Sītā through the wilderness (mārgamāṇo vane sītām), He encountered a rākṣasa named Kabandha, deformed in shape and terrifying to behold (vikṛtaṃ ghoradarśanam).
+**55:** “—searching for Sītā through the wilderness (_mārgamāṇo vane sītām_), He encountered a rākṣasa named Kabandha, deformed in shape and terrifying to behold (_vikṛtaṃ ghoradarśanam_).
 </details>
 </details>
 
@@ -2713,7 +2713,7 @@ she who is an expert in probity; *shramaNiim* = a devotee.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain him, the mighty-armed hero cremated his body, whereupon he ascended to heaven (svargataś ca saḥ); and as he rose, he told Rāma of the pious ascetic woman Śabarī (śabarīṃ dharmacāriṇīm):
+“Having slain him, the mighty-armed hero cremated his body, whereupon he ascended to heaven (_svargataś ca saḥ_); and as he rose, he told Rāma of the pious ascetic woman Śabarī (_śabarīṃ dharmacāriṇīm_):
 </details>
 </details>
 
@@ -2763,7 +2763,7 @@ Traditionally Hanuma is worshipped as a god.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O Rāghava! Approach that female ascetic who is consummate in the practice of dharma (śramaṇāṃ dharmanipuṇām abhigaccheti)!’ And that hero of resplendent energy, the destroyer of foes, went to Śabarī.
+“‘O Rāghava! Approach that female ascetic who is consummate in the practice of _dharma_ (_śramaṇāṃ dharmanipuṇām abhigaccheti_)!’ And that hero of resplendent energy, the destroyer of foes, went to Śabarī.
 </details>
 </details>
 
@@ -2810,7 +2810,7 @@ Traditionally Hanuma is worshipped as a god.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Duly worshiped with complete devotion by Śabarī (śabaryā pūjitaḥ samyak), Rāma, the son of Daśaratha, met with the vānara Hanumān on the shore of Lake Pampā.
+“Duly worshiped with complete devotion by Śabarī (_śabaryā pūjitaḥ samyak_), Rāma, the son of Daśaratha, met with the vānara Hanumān on the shore of Lake Pampā.
 </details>
 </details>
 
@@ -2867,7 +2867,7 @@ it was necessary to narrate all sad episodes to his friend.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And at Hanumān’s counsel, He was united with Sugrīva (sugrīveṇa samāgataḥ); to Sugrīva the mighty Rāma recounted all that had transpired—
+“And at Hanumān’s counsel, He was united with Sugrīva (_sugrīveṇa samāgataḥ_); to Sugrīva the mighty Rāma recounted all that had transpired—
 </details>
 </details>
 
@@ -2914,7 +2914,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—everything just as it had occurred from the very beginning (āditas tad yathāvṛttam), and above all the account of Sītā. And the vānara Sugrīva too, having heard all that narrative of Rāma—
+“—everything just as it had occurred from the very beginning (_āditas tad yathāvṛttam_), and above all the account of Sītā. And the vānara Sugrīva too, having heard all that narrative of Rāma—
 </details>
 </details>
 
@@ -2967,7 +2967,7 @@ in its entirety by the Vanara King with grief to Rama ... [1-1-61b, 62a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—gladly entered into a covenant of friendship with Rāma with the sacred fire as witness (cakāra sakhyaṃ rāmeṇa ... agnisākṣikam). Thereafter, by the lord of the vānaras, in the course of recounting their mutual hostility (vairānukathanaṃ prati)—
+“—gladly entered into a covenant of friendship with Rāma with the sacred fire as witness (_cakāra sakhyaṃ rāmeṇa ... agnisākṣikam_). Thereafter, by the lord of the vānaras, in the course of recounting their mutual hostility (_vairānukathanaṃ prati_)—
 </details>
 </details>
 
@@ -3023,9 +3023,9 @@ for the climactic victory.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**62:** “—everything was confided to Rāma by the grief-stricken Sugrīva out of affectionate trust (praṇayād duḥkhitena ca); and a solemn pledge was thereupon made by Rāma for the slaying of Vālī (vālivadhaṃ prati).
+**62:** “—everything was confided to Rāma by the grief-stricken Sugrīva out of affectionate trust (_praṇayād duḥkhitena ca_); and a solemn pledge was thereupon made by Rāma for the slaying of Vālī (_vālivadhaṃ prati_).
 
-**63:** “The vānara then described Vālī’s immense strength; for Sugrīva remained ever apprehensive regarding Rāghava’s valor in comparison with Vālī (śaṅkitaś cāsīn nityaṃ vīryeṇa rāghave).
+**63:** “The vānara then described Vālī’s immense strength; for Sugrīva remained ever apprehensive regarding Rāghava’s valor in comparison with Vālī (_śaṅkitaś cāsīn nityaṃ vīryeṇa rāghave_).
 </details>
 </details>
 
@@ -3076,7 +3076,7 @@ Vali had at one time killed Dundubhi and kicked his body over a long distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And in order to gain conviction in Rāghava’s might (rāghavapratyayārthaṃ tu), † Sugrīva pointed out the gigantic carcass of the demon Dundubhi, looming like a great mountain range (mahāparvatasannibham).
+“And in order to gain conviction in Rāghava’s might (_rāghavapratyayārthaṃ tu_), † Sugrīva pointed out the gigantic carcass of the demon Dundubhi, looming like a great mountain range (_mahāparvatasannibham_).
 </details>
 </details>
 
@@ -3146,7 +3146,7 @@ instruments to perform such unusual tasks, hence ambidextrous, or omni-dextrous.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Smiling gently (utsmayitvā) and glancing at that skeleton, the mighty-armed hero of boundless strength flicked it with His great toe (pādāṅguṣṭhena cikṣepa) a full ten yojanas away.
+“Smiling gently (_utsmayitvā_) and glancing at that skeleton, the mighty-armed hero of boundless strength flicked it with His great toe (_pādāṅguṣṭhena cikṣepa_) a full ten _yojanas_ away.
 </details>
 </details>
 
@@ -3205,7 +3205,7 @@ up to its core.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And furthermore, with a single mighty arrow (ekena maheṣuṇā), He pierced seven giant palm-trees (tālān sapta), the mountain crest beneath them, and the subterranean realm of Rasātala, inspiring complete confidence in Sugrīva.
+“And furthermore, with a single mighty arrow (_ekena maheṣuṇā_), He pierced seven giant palm-trees (_tālān sapta_), the mountain crest beneath them, and the subterranean realm of Rasātala, inspiring complete confidence in Sugrīva.
 </details>
 </details>
 
@@ -3266,7 +3266,7 @@ and with confidence in Rama's strength...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, gladdened at heart and filled with complete trust by that feat (tena viśvastaḥ), that great monkey went with Rāma to the cavern-citadel of Kiṣkindhā (kiṣkindhāṃ ... guhām).
+“Thereupon, gladdened at heart and filled with complete trust by that feat (_tena viśvastaḥ_), that great monkey went with Rāma to the cavern-citadel of Kiṣkindhā (_kiṣkindhāṃ ... guhām_).
 </details>
 </details>
 
@@ -3348,9 +3348,9 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**68:** “Then Sugrīva, foremost of monkeys and tawny as burnished gold (hemapiṅgalaḥ), thundered forth a battle-roar; roused by that mighty sound, Vālī, lord of the monkeys (harīśvaraḥ), strode out.
+**68:** “Then Sugrīva, foremost of monkeys and tawny as burnished gold (_hemapiṅgalaḥ_), thundered forth a battle-roar; roused by that mighty sound, Vālī, lord of the monkeys (_harīśvaraḥ_), strode out.
 
-**69:** “After reassuring Queen Tārā [who sought to dissuade him] (anumānya tadā tārām), Vālī closed in combat with Sugrīva; and right there Rāghava struck him down with a single arrow (śareṇaikena).
+**69:** “After reassuring Queen Tārā [who sought to dissuade him] (_anumānya tadā tārām_), Vālī closed in combat with Sugrīva; and right there Rāghava struck him down with a single arrow (_śareṇaikena_).
 </details>
 </details>
 
@@ -3394,7 +3394,7 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having slain Vālī in battle in fulfillment of His word to Sugrīva (sugrīvavacanāt), Rāghava installed Sugrīva himself upon that kingdom’s throne (sugrīvam eva tad rājye ... pratyapādayat).
+“Then, having slain Vālī in battle in fulfillment of His word to Sugrīva (_sugrīvavacanāt_), Rāghava installed Sugrīva himself upon that kingdom’s throne (_sugrīvam eva tad rājye ... pratyapādayat_).
 </details>
 </details>
 
@@ -3446,7 +3446,7 @@ order'.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that bull among vānaras (vānararṣabhaḥ), summoning all the vānara hosts together, dispatched them toward every quarter of the compass, eager to discover the daughter of Janaka (didṛkṣur janakātmajām).
+“And that bull among vānaras (_vānararṣabhaḥ_), summoning all the vānara hosts together, dispatched them toward every quarter of the compass, eager to discover the daughter of Janaka (_didṛkṣur janakātmajām_).
 </details>
 </details>
 
@@ -3496,7 +3496,7 @@ order'.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter, upon the word of the vulture-king Sampāti (gṛdhrasya vacanāt sampāteḥ), the mighty Hanumān leaped across the salt ocean spanning a hundred yojanas in breadth (śatayojanavistīrṇaṃ pupluve lavaṇārṇavam).
+“Thereafter, upon the word of the vulture-king Sampāti (_gṛdhrasya vacanāt sampāteḥ_), the mighty Hanumān leaped across the salt ocean spanning a hundred _yojanas_ in breadth (_śatayojanavistīrṇaṃ pupluve lavaṇārṇavam_).
 </details>
 </details>
 
@@ -3553,7 +3553,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There, having reached the citadel of Laṅkā guarded by Rāvaṇa, he beheld Sītā in the Aśoka grove, absorbed in unbroken meditation upon Rāma (dadarśa sītāṃ dhyāyantīm aśokavanikāṃ gatām).
+“There, having reached the citadel of Laṅkā guarded by Rāvaṇa, he beheld Sītā in the Aśoka grove, absorbed in unbroken meditation upon Rāma (_dadarśa sītāṃ dhyāyantīm aśokavanikāṃ gatām_).
 </details>
 </details>
 
@@ -3605,7 +3605,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having presented the token of recognition [Rāma’s signet ring] (nivedayitvābhijñānam), having fully recounted all tidings (pravṛttiṃ vinivedya ca), and having consoled Vaidehī, he shattered the arched gateway of the grove (mardayām āsa toraṇam).
+“Having presented the token of recognition [Rāma’s signet ring] (_nivedayitvābhijñānam_), having fully recounted all tidings (_pravṛttiṃ vinivedya ca_), and having consoled Vaidehī, he shattered the arched gateway of the grove (_mardayām āsa toraṇam_).
 </details>
 </details>
 
@@ -3648,7 +3648,7 @@ sons; *shuuram akSham ca niSpiSya* = and crushing valiant Aksha; *grahaNam samup
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain five vanguard commanders (pañca senāgragān hatvā) and seven sons of royal ministers, and having crushed the valiant Prince Akṣa into the earth (śūram akṣaṃ ca niṣpiṣya), he voluntarily submitted to capture (grahaṇaṃ samupāgamat).
+“Having slain five vanguard commanders (_pañca senāgragān hatvā_) and seven sons of royal ministers, and having crushed the valiant Prince Akṣa into the earth (_śūram akṣaṃ ca niṣpiṣya_), he voluntarily submitted to capture (_grahaṇaṃ samupāgamat_).
 </details>
 </details>
 
@@ -3682,7 +3682,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Knowing himself to be already released from the [Brahmāstra] missile by virtue of Grandsire Brahmā’s ancient boon (astreṇonmuktam ātmānaṃ jñātvā paitāmahād varāt), the hero of his own free will endured those rākṣasas who bound him with ropes (marṣayan rākṣasān vīro yantriṇas tān yadṛcchayā).
+“Knowing himself to be already released from the [Brahmāstra] missile by virtue of Grandsire Brahmā’s ancient boon (_astreṇonmuktam ātmānaṃ jñātvā paitāmahād varāt_), the hero of his own free will endured those rākṣasas who bound him with ropes (_marṣayan rākṣasān vīro yantriṇas tān yadṛcchayā_).
 </details>
 </details>
 
@@ -3742,7 +3742,7 @@ lived.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having burned down the city of Laṅkā—save for Maithilī Sītā (ṛte sītāṃ ca maithilīm)—the great monkey returned once more across the sea to announce the joyful tidings to Rāma.
+“Then, having burned down the city of Laṅkā—save for Maithilī Sītā (_ṛte sītāṃ ca maithilīm_)—the great monkey returned once more across the sea to announce the joyful tidings to Rāma.
 </details>
 </details>
 
@@ -3787,7 +3787,7 @@ submitted in essence thus: 'Seen Seetha...' [1-1-78]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Approaching the magnanimous Rāma and circumambulating Him in reverence (kṛtvā rāmaṃ pradakṣiṇam), that hero of immeasurable soul reported in truth: ‘Beheld has been Sītā!’ (dṛṣṭā sīteti tattvataḥ).
+“Approaching the magnanimous Rāma and circumambulating Him in reverence (_kṛtvā rāmaṃ pradakṣiṇam_), that hero of immeasurable soul reported in truth: ‘Beheld has been Sītā!’ (_dṛṣṭā sīteti tattvataḥ_).
 </details>
 </details>
 
@@ -3846,7 +3846,7 @@ Rama starts depleting its waters with arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter, marching with Sugrīva to the shore of the great ocean, Rāma agitated the deep sea with arrows blazing like the sun (śarair ādityasannibhaiḥ).
+“Thereafter, marching with Sugrīva to the shore of the great ocean, Rāma agitated the deep sea with arrows blazing like the sun (_śarair ādityasannibhaiḥ_).
 </details>
 </details>
 
@@ -3897,7 +3897,7 @@ that boon is taken advantage of, and a boulder bridge is built on ocean waters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the Ocean, lord of rivers (saritāṃ patiḥ), manifested himself in bodily form; and at the Ocean’s counsel, Rāma caused Nala to construct the bridge across the sea (nalaṃ setum akārayat).
+“And the Ocean, lord of rivers (_saritāṃ patiḥ_), manifested himself in bodily form; and at the Ocean’s counsel, Rāma caused Nala to construct the bridge across the sea (_nalaṃ setum akārayat_).
 </details>
 </details>
 
@@ -3942,7 +3942,7 @@ that boon is taken advantage of, and a boulder bridge is built on ocean waters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Marching by that bridge to the city of Laṅkā and slaying Rāvaṇa in battle, † Rāma, upon recovering Sītā, was overcome with profound reserve before the world (parāṃ vrīḍām upāgamat).
+“Marching by that bridge to the city of Laṅkā and slaying Rāvaṇa in battle, † Rāma, upon recovering Sītā, was overcome with profound reserve before the world (_parāṃ vrīḍām upāgamat_).
 </details>
 </details>
 
@@ -3991,7 +3991,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Rāma spoke harsh words to her in the midst of the public assembly (janasaṃsadi); unable to brook that reproach, the chaste Sītā entered the blazing fire (viveśa jvalanaṃ satī).
+“Then Rāma spoke harsh words to her in the midst of the public assembly (_janasaṃsadi_); unable to brook that reproach, the chaste Sītā entered the blazing fire (_viveśa jvalanaṃ satī_).
 </details>
 </details>
 
@@ -4024,7 +4024,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, knowing Sītā to be wholly free from stain upon the testimony of Agni the Fire-god (agnivacanāt sītāṃ jñātvā vigatakalmaṣām)—by that mighty deed of the magnanimous Rāghava, the three worlds with all their moving and unmoving beings—
+“Thereupon, knowing Sītā to be wholly free from stain upon the testimony of Agni the Fire-god (_agnivacanāt sītāṃ jñātvā vigatakalmaṣām_)—by that mighty deed of the magnanimous Rāghava, the three worlds with all their moving and unmoving beings—
 </details>
 </details>
 
@@ -4100,9 +4100,9 @@ Rama then rejoiced highly indeed free from distress... [1-1-85]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**84:** “—together with the hosts of gods and celestial seers, were filled with joy (sadevarṣigaṇaṃ tuṣṭam); and Rāma, worshiped by all the deities, shone forth in supreme delight (babhau rāmaḥ samprahṛṣṭaḥ).
+**84:** “—together with the hosts of gods and celestial seers, were filled with joy (_sadevarṣigaṇaṃ tuṣṭam_); and Rāma, worshiped by all the deities, shone forth in supreme delight (_babhau rāmaḥ samprahṛṣṭaḥ_).
 
-**85:** “And having consecrated Vibhīṣaṇa as lord of the rākṣasas in Laṅkā (abhiṣicya ca laṅkāyāṃ rākṣasendraṃ vibhīṣaṇam), Rāma—His mission accomplished (kṛtakṛtyaḥ) and His heart freed from feverish grief (vijvaraḥ)—rejoiced exceedingly.
+**85:** “And having consecrated Vibhīṣaṇa as lord of the rākṣasas in Laṅkā (_abhiṣicya ca laṅkāyāṃ rākṣasendraṃ vibhīṣaṇam_), Rāma—His mission accomplished (_kṛtakṛtyaḥ_) and His heart freed from feverish grief (_vijvaraḥ_)—rejoiced exceedingly.
 </details>
 </details>
 
@@ -4151,7 +4151,7 @@ surrounded by good hearted ones...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having received boons from the deities and having raised up the fallen vānaras to life (samutthāpya ca vānarān), † Rāma set forth for Ayodhyā in the aerial chariot Puṣpaka, surrounded by His devoted friends (puṣpakeṇa suhṛdvṛtaḥ).
+“Having received boons from the deities and having raised up the fallen vānaras to life (_samutthāpya ca vānarān_), † Rāma set forth for Ayodhyā in the aerial chariot Puṣpaka, surrounded by His devoted friends (_puṣpakeṇa suhṛdvṛtaḥ_).
 </details>
 </details>
 
@@ -4204,7 +4204,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having alighted at the hermitage of Sage Bharadvāja, Rāma of unfailing valor dispatched Hanumān ahead into the presence of Bharata (bharatasyāntike rāmo hanūmantaṃ vyasarjayat).
+“Having alighted at the hermitage of Sage Bharadvāja, Rāma of unfailing valor dispatched Hanumān ahead into the presence of Bharata (_bharatasyāntike rāmo hanūmantaṃ vyasarjayat_).
 </details>
 </details>
 
@@ -4256,7 +4256,7 @@ of the very same places, Rama went to Nandigrama... [1-1-88]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, conversing once again over the past adventures in the company of Sugrīva (punar ākhyāyikāṃ jalpan sugrīvasahitas tadā), He mounted that Puṣpaka chariot and journeyed to Nandigrāma.
+“Then, conversing once again over the past adventures in the company of Sugrīva (_punar ākhyāyikāṃ jalpan sugrīvasahitas tadā_), He mounted that Puṣpaka chariot and journeyed to Nandigrāma.
 </details>
 </details>
 
@@ -4302,7 +4302,7 @@ a householder, and he regained his kingdom also... [1-1-89]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At Nandigrāma, having shed His ascetic matted locks together with His brothers (jaṭāṃ hitvā bhrātṛbhiḥ sahitaḥ), the sinless Rāma, reunited with Sītā, regained His ancestral sovereignty (rājyaṃ punar avāptavān).
+“At Nandigrāma, having shed His ascetic matted locks together with His brothers (_jaṭāṃ hitvā bhrātṛbhiḥ sahitaḥ_), the sinless Rāma, reunited with Sītā, regained His ancestral sovereignty (_rājyaṃ punar avāptavān_).
 </details>
 </details>
 
@@ -4351,7 +4351,7 @@ foreseeing the future and telling Valmiki. [1-1-90]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[Under His rule] the world is thrilled with joy and gladness (prahṛṣṭamudito lokaḥ), contented (tuṣṭaḥ), well-nourished (puṣṭaḥ), and thoroughly righteous (sudhārmikaḥ); free from mental affliction (nirāmayaḥ) and bodily disease (arogaḥ), it is wholly devoid of the dread of famine (durbhikṣabhayavarjitaḥ).
+“[Under His rule] the world is thrilled with joy and gladness (_prahṛṣṭamudito lokaḥ_), contented (_tuṣṭaḥ_), well-nourished (_puṣṭaḥ_), and thoroughly righteous (_sudhārmikaḥ_); free from mental affliction (_nirāmayaḥ_) and bodily disease (_arogaḥ_), it is wholly devoid of the dread of famine (_durbhikṣabhayavarjitaḥ_).
 </details>
 </details>
 
@@ -4415,7 +4415,7 @@ and the ladies will remain husband-devouted and unwidowed during their lifetime.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nowhere shall men ever witness the untimely death of their sons (na putramaraṇaṃ kiñcid drakṣyanti puruṣāḥ kvacit); and women, never widowed (avidhavāḥ), shall ever remain devoted to their husbands (pativratāḥ).
+“Nowhere shall men ever witness the untimely death of their sons (_na putramaraṇaṃ kiñcid drakṣyanti puruṣāḥ kvacit_); and women, never widowed (_avidhavāḥ_), shall ever remain devoted to their husbands (_pativratāḥ_).
 </details>
 </details>
 
@@ -4472,7 +4472,7 @@ and there will be no fear from hunger or thieves, nor the cattle will be drowned
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There shall be no peril whatsoever from fire (na cāgnijaṃ bhayaṃ kiñcit), nor do living creatures drown in the waters (nāpsu majjanti jantavaḥ); there is no peril born of tempestuous winds (na vātajaṃ bhayam), nor any caused by fever (nāpi jvarakṛtaṃ tathā).
+“There shall be no peril whatsoever from fire (_na cāgnijaṃ bhayaṃ kiñcit_), nor do living creatures drown in the waters (_nāpsu majjanti jantavaḥ_); there is no peril born of tempestuous winds (_na vātajaṃ bhayam_), nor any caused by fever (_nāpi jvarakṛtaṃ tathā_).
 </details>
 </details>
 
@@ -4519,7 +4519,7 @@ like in Krita yuga... [1-1-93b, 94a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor is there any fear of hunger in His realm, nor any dread of thieves (na cāpi kṣudbhayaṃ tatra na taskarabhayaṃ tathā); and both cities and country provinces abound in wealth and grain (dhanadhānyayutāni ca).
+“Nor is there any fear of hunger in His realm, nor any dread of thieves (_na cāpi kṣudbhayaṃ tatra na taskarabhayaṃ tathā_); and both cities and country provinces abound in wealth and grain (_dhanadhānyayutāni ca_).
 </details>
 </details>
 
@@ -4600,11 +4600,11 @@ duty, in order to achieve a perfect social harmony... [1-1-96]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**94:** “All people rejoice perpetually, just as in the golden age of Kṛtayuga (yathā kṛtayuge tathā). Having worshiped the Lord of sacrifices with hundreds of horse-sacrifices (aśvamedhaśatair iṣṭvā) and manifold rites abounding in gold (bahusuvarṇakaiḥ)—
+**94:** “All people rejoice perpetually, just as in the golden age of Kṛtayuga (_yathā kṛtayuge tathā_). Having worshiped the Lord of sacrifices with hundreds of horse-sacrifices (_aśvamedhaśatair iṣṭvā_) and manifold rites abounding in gold (_bahusuvarṇakaiḥ_)—
 
-**95:** “—having duly bestowed ten thousand crores of cows upon learned scholars according to scriptural injunction (gavāṃ koṭyayutaṃ dattvā vidvadbhyo vidhipūrvakam), † and having given immeasurable wealth to the brāhmaṇas, that monarch of supreme renown—
+**95:** “—having duly bestowed ten thousand crores of cows upon learned scholars according to scriptural injunction (_gavāṃ koṭyayutaṃ dattvā vidvadbhyo vidhipūrvakam_), † and having given immeasurable wealth to the brāhmaṇas, that monarch of supreme renown—
 
-**96:** “—Rāghava shall establish royal dynasties multiplied a hundredfold (rājavaṃśāñ śataguṇān sthāpayiṣyati), and in this world He shall establish the fourfold social order (cāturvarṇyam), each in its own righteous vocation (sve sve dharme niyokṣyati).
+**96:** “—Rāghava shall establish royal dynasties multiplied a hundredfold (_rājavaṃśāñ śataguṇān sthāpayiṣyati_), and in this world He shall establish the fourfold social order (_cāturvarṇyam_), each in its own righteous vocation (_sve sve dharme niyokṣyati_).
 </details>
 </details>
 
@@ -4670,7 +4670,7 @@ The brahma loka is not the abode of four-faced Brahma, but still higher abode, r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having tended the kingdom for ten thousand years and a thousand years more [eleven thousand years in all] (daśavarṣasahasrāṇi daśavarṣaśatāni ca rāmo rājyam upāsitvā), Rāma shall depart for the supreme realm of Brahman (brahmalokaṃ prayāsyati).
+“Having tended the kingdom for ten thousand years and a thousand years more [eleven thousand years in all] (_daśavarṣasahasrāṇi daśavarṣaśatāni ca rāmo rājyam upāsitvā_), Rāma shall depart for the supreme realm of Brahman (_brahmalokaṃ prayāsyati_).
 </details>
 </details>
 
@@ -4718,7 +4718,7 @@ Whoever reads this Legend of Rama, will be verily liberated of all sins... [1-1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This sacred narrative of Rāma’s deeds (rāmacaritam)—all-purifying (pavitram), destroyer of sins (pāpaghnam), auspiciously merit-bestowing (puṇyam), and equal in authority to the Vedas themselves (vedaiś ca sammitam)—whoever recites it is liberated from all sins (sarvapāpaiḥ pramucyate).
+“This sacred narrative of Rāma’s deeds (_rāmacaritam_)—all-purifying (_pavitram_), destroyer of sins (_pāpaghnam_), auspiciously merit-bestowing (_puṇyam_), and equal in authority to the Vedas themselves (_vedaiś ca sammitam_)—whoever recites it is liberated from all sins (_sarvapāpaiḥ pramucyate_).
 </details>
 </details>
 
@@ -4770,7 +4770,7 @@ comforts with attendants, will be adored in heaven after demise...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The mortal who recites this life-bestowing narrative of the Rāmāyaṇa (etad ākhyānam āyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ) is exalted in the highest heaven after death, together with his sons, grandsons, and attendants (saputrapautraḥ sagaṇaḥ pretya svarge mahīyate).
+“The mortal who recites this life-bestowing narrative of the _Rāmāyaṇa_ (_etad ākhyānam āyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ_) is exalted in the highest heaven after death, together with his sons, grandsons, and attendants (_saputrapautraḥ sagaṇaḥ pretya svarge mahīyate_).
 </details>
 </details>
 
@@ -4846,7 +4846,7 @@ to Sage-poet Valmiki. [1-1-100]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Reciting this epic, a twice-born brāhmaṇa attains preeminence in sacred eloquence (vāgṛṣabhatvam īyāt); if he be a kṣatriya, he attains sovereignty over the earth (bhūmipatitvam īyāt); a vaiśya merchant attains the fruitfulness of his enterprises (paṇyaphalatvam īyāt); and a śūdra too attains spiritual greatness (mahattvam īyāt)!”
+“Reciting this epic, a twice-born brāhmaṇa attains preeminence in sacred eloquence (_vāgṛṣabhatvam īyāt_); if he be a kṣatriya, he attains sovereignty over the earth (_bhūmipatitvam īyāt_); a vaiśya merchant attains the fruitfulness of his enterprises (_paṇyaphalatvam īyāt_); and a śūdra too attains spiritual greatness (_mahattvam īyāt_)!”
 </details>
 </details>
 

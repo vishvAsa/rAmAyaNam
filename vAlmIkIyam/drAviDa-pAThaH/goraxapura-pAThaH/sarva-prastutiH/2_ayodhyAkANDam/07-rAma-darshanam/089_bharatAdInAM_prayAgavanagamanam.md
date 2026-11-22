@@ -88,7 +88,7 @@ Ganga, rising at dawn, said to shatrughna as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed the night right there upon the bank of the Gaṅgā (vyuṣya rātriṃ tu tatraiva gaṅgā-kūle), that Rāghava Bharata rose at daybreak and spoke these words to Śatrughna (sa rāghavaḥ bharataḥ kālyam utthāya śatrughnam idam abravīt):
+Having passed the night right there upon the bank of the Gaṅgā (_vyuṣya rātriṃ tu tatraiva gaṅgā-kūle_), that Rāghava Bharata rose at daybreak and spoke these words to Śatrughna (_sa rāghavaḥ bharataḥ kālyam utthāya śatrughnam idam abravīt_):
 </details>
 </details>
 
@@ -141,7 +141,7 @@ and be happy. Let him convey the army across the river."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Śatrughna, arise! Why do you lie asleep? Bring Guha, lord of the Niṣādas, quickly (śatrughnottiṣṭha kiṃ śeṣe niṣādādhipatiṃ guhaṃ śīghram ānaya); bless you, he will ferry the army across (bhadraṃ te tārayiṣyati vāhinīm).”
+“Śatrughna, arise! Why do you lie asleep? Bring Guha, lord of the Niṣādas, quickly (_śatrughnottiṣṭha kiṃ śeṣe niṣādādhipatiṃ guhaṃ śīghram ānaya_); bless you, he will ferry the army across (_bhadraṃ te tārayiṣyati vāhinīm_).”
 </details>
 </details>
 
@@ -193,7 +193,7 @@ that Rama alone, I have been wakeful."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus urged by his brother, Śatrughna too replied (bhrātrā śatrughno 'pi pracoditaḥ ity evam abravīt): “Thinking of that very noble elder brother, I am awake; I have not been sleeping (jāgarmi nāhaṃ svapimi tam evāryaṃ vicintayan).”
+Thus urged by his brother, Śatrughna too replied (_bhrātrā śatrughno &#x27;pi pracoditaḥ ity evam abravīt_): “Thinking of that very noble elder brother, I am awake; I have not been sleeping (_jāgarmi nāhaṃ svapimi tam evāryaṃ vicintayan_).”
 </details>
 </details>
 
@@ -246,7 +246,7 @@ came in time and with joined palms, addressed Bharata saying:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While those two lions among men were conversing thus with one another (iti saṃvadator evam anyonyaṃ nara-siṃhayoḥ), Guha approached at the timely hour with joined palms and spoke to Bharata (āgamya prāñjaliḥ kāle guho bharatam abravīt):
+While those two lions among men were conversing thus with one another (_iti saṃvadator evam anyonyaṃ nara-siṃhayoḥ_), Guha approached at the timely hour with joined palms and spoke to Bharata (_āgamya prāñjaliḥ kāle guho bharatam abravīt_):
 </details>
 </details>
 
@@ -298,7 +298,7 @@ well with your army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope you passed the night comfortably upon the river-bank, O Kākutstha (kaccit sukhaṃ nadī-tīre 'vātsīḥ kākutstha śarvarīm), and I hope all is entirely well with you and your army (kaccit te saha-sainyasya tāvat sarvam anāmayam)?”
+“I hope you passed the night comfortably upon the river-bank, O Kākutstha (_kaccit sukhaṃ nadī-tīre &#x27;vātsīḥ kākutstha śarvarīm_), and I hope all is entirely well with you and your army (_kaccit te saha-sainyasya tāvat sarvam anāmayam_)?”
 </details>
 </details>
 
@@ -350,7 +350,7 @@ Rama, replied as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of Guha uttered out of affection (guhasya tat tu vacanaṃ śrutvā snehād udīritam), Bharata, ever submissive to Rāma’s will, spoke this word in reply (rāmasyānuvaśo vākyaṃ bharato 'pīdam abravīt):
+Hearing that speech of Guha uttered out of affection (_guhasya tat tu vacanaṃ śrutvā snehād udīritam_), Bharata, ever submissive to Rāma’s will, spoke this word in reply (_rāmasyānuvaśo vākyaṃ bharato &#x27;pīdam abravīt_):
 </details>
 </details>
 
@@ -413,7 +413,7 @@ your fisher-men ferry us across Ganga River on your courtless boats."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Our night was comfortable, O king, and we have been honored by you (sukhā naḥ śarvarī rājan pūjitāś cāpi te vayam); now let your boatmen ferry us across the Gaṅgā in many boats (gaṅgāṃ tu naubhir bahvībhir dāśāḥ santārayantu naḥ).”
+“Our night was comfortable, O king, and we have been honored by you (_sukhā naḥ śarvarī rājan pūjitāś cāpi te vayam_); now let your boatmen ferry us across the Gaṅgā in many boats (_gaṅgāṃ tu naubhir bahvībhir dāśāḥ santārayantu naḥ_).”
 </details>
 </details>
 
@@ -468,7 +468,7 @@ multitude of his people (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, hearing Bharata’s command, Guha hastened (tato guhaḥ saṃtvaritaṃ śrutvā bharata-śāsanam), re-entered his town, and spoke to his kinsfolk (pratipraviśya nagaraṃ taṃ jñāti-janam abravīt):
+Thereupon, hearing Bharata’s command, Guha hastened (_tato guhaḥ saṃtvaritaṃ śrutvā bharata-śāsanam_), re-entered his town, and spoke to his kinsfolk (_pratipraviśya nagaraṃ taṃ jñāti-janam abravīt_):
 </details>
 </details>
 
@@ -520,7 +520,7 @@ Let us carry the army across the river."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Arise, awake, and may auspiciousness ever attend you (uttiṣṭhata prabudhyadhvaṃ bhadram astu ca vaḥ sadā)! Draw up the boats to the bank; we shall ferry the army across (nāvaḥ samanukarṣadhvaṃ tārayiṣyāma vāhinīm).”
+“Arise, awake, and may auspiciousness ever attend you (_uttiṣṭhata prabudhyadhvaṃ bhadram astu ca vaḥ sadā_)! Draw up the boats to the bank; we shall ferry the army across (_nāvaḥ samanukarṣadhvaṃ tārayiṣyāma vāhinīm_).”
 </details>
 </details>
 
@@ -572,7 +572,7 @@ together five hundred boats from every quarter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, they rose in haste at the royal command (te tathoktāḥ samutthāya tvaritā rāja-śāsanāt) and swiftly brought together five hundred boats from every side (pañca nāvāṃ śatāny āśu samāninyuḥ samantataḥ).
+Thus addressed, they rose in haste at the royal command (_te tathoktāḥ samutthāya tvaritā rāja-śāsanāt_) and swiftly brought together five hundred boats from every side (_pañca nāvāṃ śatāny āśu samāninyuḥ samantataḥ_).
 </details>
 </details>
 
@@ -624,7 +624,7 @@ together with appropriate sails and adorned with flags.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Others too they brought—splendid royal barges known as Svastikas, bearing great bells (anyāḥ svastika-vijñeyā mahā-ghaṇṭā-dharā varāḥ), gay with banners, well-sheltered from gales, and firmly riveted (śobhamānāḥ patākābhir yukta-vātāḥ susaṃhatāḥ).
+Others too they brought—splendid royal barges known as _Svastikas_, bearing great bells (_anyāḥ svastika-vijñeyā mahā-ghaṇṭā-dharā varāḥ_), gay with banners, well-sheltered from gales, and firmly riveted (_śobhamānāḥ patākābhir yukta-vātāḥ susaṃhatāḥ_).
 </details>
 </details>
 
@@ -677,7 +677,7 @@ canvas, re-echoing with acclamations and which was beautiful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Guha brought forward an auspicious barge known as a Svastika, carpeted with white woolen blankets and resounding with joyful music and bells (tataḥ svastika-vijñeyāṃ pāṇḍu-kambala-saṃvṛtāṃ sanandi-ghoṣāṃ kalyāṇīṃ guho nāvam upāharat); aboard it climbed Bharata and the mighty Śatrughna (tām āruroha bharataḥ śatrughnaś ca mahā-balaḥ).
+Then Guha brought forward an auspicious barge known as a _Svastika_, carpeted with white woolen blankets and resounding with joyful music and bells (_tataḥ svastika-vijñeyāṃ pāṇḍu-kambala-saṃvṛtāṃ sanandi-ghoṣāṃ kalyāṇīṃ guho nāvam upāharat_); aboard it climbed Bharata and the mighty Śatrughna (_tām āruroha bharataḥ śatrughnaś ca mahā-balaḥ_).
 </details>
 </details>
 
@@ -749,9 +749,9 @@ provisions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Kausalyā, Sumitrā, and the other royal ladies also embarked (kausalyā ca sumitrā ca yāś cānyā rāja-yoṣitaḥ); prior to them the family priest Vasiṣṭha, the elders, and the Brāhmaṇas had boarded (purohitaś ca tat-pūrvaṃ guravo brāhmaṇāś ca ye), and thereafter the wives of the king and likewise the carts and market-wares were loaded (anantaraṃ rāja-dārās tathaiva śakaṭāpaṇāḥ).
+**13:** Kausalyā, Sumitrā, and the other royal ladies also embarked (_kausalyā ca sumitrā ca yāś cānyā rāja-yoṣitaḥ_); prior to them the family priest Vasiṣṭha, the elders, and the Brāhmaṇas had boarded (_purohitaś ca tat-pūrvaṃ guravo brāhmaṇāś ca ye_), and thereafter the wives of the king and likewise the carts and market-wares were loaded (_anantaraṃ rāja-dārās tathaiva śakaṭāpaṇāḥ_).
 
-**14:** The clamor of those setting fire to their temporary camp-huts, of those plunging into the river-crossing (āvāsam ādīpayatāṃ tīrthaṃ cāpy avagāhatām), and of those gathering up their utensils and baggage touched the vault of heaven (bhāṇḍāni cādadānānāṃ ghoṣas tridivam aspṛśat).
+**14:** The clamor of those setting fire to their temporary camp-huts, of those plunging into the river-crossing (_āvāsam ādīpayatāṃ tīrthaṃ cāpy avagāhatām_), and of those gathering up their utensils and baggage touched the vault of heaven (_bhāṇḍāni cādadānānāṃ ghoṣas tridivam aspṛśat_).
 </details>
 </details>
 
@@ -814,7 +814,7 @@ practise was also believed to bring triumph to the troops who resorted to it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pennoned and manned by the boatmen themselves (patākinyas tu tā nāvaḥ svayaṃ dāśair adhiṣṭhitāḥ), those swift-gliding vessels, bearing the embarked multitude, sped across at that time (vahantyo janam ārūḍhaṃ tadā sampetur āśugāḥ).
+Pennoned and manned by the boatmen themselves (_patākinyas tu tā nāvaḥ svayaṃ dāśair adhiṣṭhitāḥ_), those swift-gliding vessels, bearing the embarked multitude, sped across at that time (_vahantyo janam ārūḍhaṃ tadā sampetur āśugāḥ_).
 </details>
 </details>
 
@@ -866,7 +866,7 @@ carrying those passengers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some boats were filled with women and others with horses (nārīṇām abhipūrṇās tu kāścit kāścic ca vājinām), while others there carried valuable chariots and draught-animals (kāścid atra vahanti sma yāna-yugyaṃ mahā-dhanam).
+Some boats were filled with women and others with horses (_nārīṇām abhipūrṇās tu kāścit kāścic ca vājinām_), while others there carried valuable chariots and draught-animals (_kāścid atra vahanti sma yāna-yugyaṃ mahā-dhanam_).
 </details>
 </details>
 
@@ -918,7 +918,7 @@ animals of draught of great value.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the farther bank and disembarked that multitude (tāḥ sma gatvā paraṃ tīram avaropya ca taṃ janam), the returning boats were rowed in sportive water-maneuvers by the boatmen’s kinsfolk (nivṛttāḥ kāṇḍa-citrāṇi kriyante dāśa-bandhubhiḥ).
+Having reached the farther bank and disembarked that multitude (_tāḥ sma gatvā paraṃ tīram avaropya ca taṃ janam_), the returning boats were rowed in sportive water-maneuvers by the boatmen’s kinsfolk (_nivṛttāḥ kāṇḍa-citrāṇi kriyante dāśa-bandhubhiḥ_).
 </details>
 </details>
 
@@ -979,7 +979,7 @@ return journey, the kinsfolk of guha plied them as easily as toy- boats made of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Urged on by their riders, the elephants adorned with pennons (sa-vaijayantās tu gajā gajāroha-pracoditāḥ), swimming across, shone like bannered mountains (tarantaḥ sma prakāśante sa-dhvajā iva parvatāḥ).
+Urged on by their riders, the elephants adorned with pennons (_sa-vaijayantās tu gajā gajāroha-pracoditāḥ_), swimming across, shone like bannered mountains (_tarantaḥ sma prakāśante sa-dhvajā iva parvatāḥ_).
 </details>
 </details>
 
@@ -1031,7 +1031,7 @@ river, looked life winged mountains.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some boarded boats and others crossed on rafts (nāvaś cāruruhuś cānye plavais terus tathāpare), some crossed by means of large and small water-jars, and others swam across with their arms (anye kumbha-ghaṭais terur anye teruś ca bāhubhiḥ).
+Some boarded boats and others crossed on rafts (_nāvaś cāruruhuś cānye plavais terus tathāpare_), some crossed by means of large and small water-jars, and others swam across with their arms (_anye kumbha-ghaṭais terur anye teruś ca bāhubhiḥ_).
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ others swam across with the help of big and small earthen vessels. The rest swam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ferried across the Gaṅgā by the boatmen themselves, that auspicious army (sā puṇyā dhvajinī gaṅgāṃ dāśaiḥ santāritā svayam) marched at the Maitra hour to the noble forest of Prayāga (maitre muhūrte prayayau prayāga-vanam uttamam).
+Ferried across the Gaṅgā by the boatmen themselves, that auspicious army (_sā puṇyā dhvajinī gaṅgāṃ dāśaiḥ santāritā svayam_) marched at the _Maitra_ hour to the noble forest of Prayāga (_maitre muhūrte prayayau prayāga-vanam uttamam_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ Aindragna, Nairta, Varunaryamana and Bhagi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having comforted and refreshed the army and encamped it at its ease (āśvāsayitvā ca camūṃ niveśayitvā ca yathopajoṣam), the great-souled Bharata, accompanied by his officiating priests, set out to behold Bharadvāja, preeminent among sages (mahātmā draṣṭuṃ bharadvājam ṛṣi-pravaryam ṛtvig-vṛtaḥ san bharataḥ pratasthe).
+Having comforted and refreshed the army and encamped it at its ease (_āśvāsayitvā ca camūṃ niveśayitvā ca yathopajoṣam_), the great-souled Bharata, accompanied by his officiating priests, set out to behold Bharadvāja, preeminent among sages (_mahātmā draṣṭuṃ bharadvājam ṛṣi-pravaryam ṛtvig-vṛtaḥ san bharataḥ pratasthe_).
 </details>
 </details>
 
@@ -1216,7 +1216,7 @@ foremost of sages.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching the hermitage of that high-souled Brāhmaṇa, the chaplain of the gods (sa brāhmaṇasyāśramam abhyupetya mahātmano deva-purohitasya), he beheld the great and lovely grove of that best of Brāhmaṇas, with its charming leaf-huts and clumps of trees (dadarśa ramyoṭaja-vṛkṣa-ṣaṇḍaṃ mahad vanaṃ vipra-varasya ramyam).
+Approaching the hermitage of that high-souled Brāhmaṇa, the chaplain of the gods (_sa brāhmaṇasyāśramam abhyupetya mahātmano deva-purohitasya_), he beheld the great and lovely grove of that best of Brāhmaṇas, with its charming leaf-huts and clumps of trees (_dadarśa ramyoṭaja-vṛkṣa-ṣaṇḍaṃ mahad vanaṃ vipra-varasya ramyam_).
 </details>
 </details>
 

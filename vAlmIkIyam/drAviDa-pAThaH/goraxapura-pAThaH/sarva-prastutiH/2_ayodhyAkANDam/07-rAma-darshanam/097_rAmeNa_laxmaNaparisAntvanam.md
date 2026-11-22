@@ -87,7 +87,7 @@ agitated and infatuated with anger, spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma gently pacified Sumitrā’s son Lakṣmaṇa (rāmas tu parisāntvyātha saumitriṃ lakṣmaṇam), who was filled with fierce indignation and transported with wrath (susaṃrabdhaṃ tu krodha-mūrchitam), and spoke this word (vacanaṃ cedam abravīt):
+Then Rāma gently pacified Sumitrā’s son Lakṣmaṇa (_rāmas tu parisāntvyātha saumitriṃ lakṣmaṇam_), who was filled with fierce indignation and transported with wrath (_susaṃrabdhaṃ tu krodha-mūrchitam_), and spoke this word (_vacanaṃ cedam abravīt_):
 </details>
 </details>
 
@@ -139,7 +139,7 @@ the use of a bow or sword with a shield?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What need is there here for a bow, or for a sword and shield (kim atra dhanuṣā kāryam asinā vā sacarmaṇā), when the mighty archer and supremely wise Bharata has come here in person (maheṣvāse mahā-prājñe bharate svayam āgate)?
+“What need is there here for a bow, or for a sword and shield (_kim atra dhanuṣā kāryam asinā vā sacarmaṇā_), when the mighty archer and supremely wise Bharata has come here in person (_maheṣvāse mahā-prājñe bharate svayam āgate_)?
 </details>
 </details>
 
@@ -192,7 +192,7 @@ with the kingdom by acquiring an ill-fame in killing Bharata who came here to se
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having promised to uphold our father’s truthfulness (pituḥ satyaṃ pratiśrutya), what should I do with a kingdom stained by infamy, O Lakṣmaṇa (kiṃ kariṣyāmi rājyena sāpavādena lakṣmaṇa), after slaying Bharata who has come to us (hatvā bharatam āgatam)?
+Having promised to uphold our father’s truthfulness (_pituḥ satyaṃ pratiśrutya_), what should I do with a kingdom stained by infamy, O Lakṣmaṇa (_kiṃ kariṣyāmi rājyena sāpavādena lakṣmaṇa_), after slaying Bharata who has come to us (_hatvā bharatam āgatam_)?
 </details>
 </details>
 
@@ -245,7 +245,7 @@ partaking of a poisoned food."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever wealth or sovereignty is gained through the destruction of kinsmen or friends (yad dravyaṃ bāndhavānāṃ vā mitrāṇāṃ vā kṣaye bhavet), I would never accept it (nāhaṃ tat pratigṛhṇīyām), any more than food poisoned with venom (bhakṣān viṣa-kṛtān iva).
+Whatever wealth or sovereignty is gained through the destruction of kinsmen or friends (_yad dravyaṃ bāndhavānāṃ vā mitrāṇāṃ vā kṣaye bhavet_), I would never accept it (_nāhaṃ tat pratigṛhṇīyām_), any more than food poisoned with venom (_bhakṣān viṣa-kṛtān iva_).
 </details>
 </details>
 
@@ -298,7 +298,7 @@ pleasure or even the earth itself. I promise this to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteousness, wealth, pleasure, and even the whole earth, O Lakṣmaṇa (dharmam arthaṃ ca kāmaṃ ca pṛthivīṃ cāpi lakṣmaṇa), I desire solely for the sake of you my brothers (icchāmi bhavatām arthe)—this I solemnly promise to you (etat pratiśṛṇomi te).
+Righteousness, wealth, pleasure, and even the whole earth, O Lakṣmaṇa (_dharmam arthaṃ ca kāmaṃ ca pṛthivīṃ cāpi lakṣmaṇa_), I desire solely for the sake of you my brothers (_icchāmi bhavatām arthe_)—this I solemnly promise to you (_etat pratiśṛṇomi te_).
 </details>
 </details>
 
@@ -353,7 +353,7 @@ brothers. I touch my weapon and swear this fact."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It is solely for the protection and happiness of my brothers, O Lakṣmaṇa (bhrātṝṇāṃ saṅgrahārthaṃ ca sukhārthaṃ cāpi lakṣmaṇa), that I would desire even royal sovereignty (rājyam apy aham icchāmi)—by truth I touch my weapon in oath (satyenāyudham ālabhe)!
+It is solely for the protection and happiness of my brothers, O Lakṣmaṇa (_bhrātṝṇāṃ saṅgrahārthaṃ ca sukhārthaṃ cāpi lakṣmaṇa_), that I would desire even royal sovereignty (_rājyam apy aham icchāmi_)—by truth I touch my weapon in oath (_satyenāyudham ālabhe_)!
 </details>
 </details>
 
@@ -408,7 +408,7 @@ do not indeed wish even the position of Indra by unrighteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This ocean-girt earth is not difficult for me to win, O gentle one (neyaṃ mama mahī saumya durlabhā sāgarāmbarā), yet I would not desire even the sovereignty of Indra through unrighteousness, O Lakṣmaṇa (na hīccheyam adharmeṇa śakratvam api lakṣmaṇa).
+This ocean-girt earth is not difficult for me to win, O gentle one (_neyaṃ mama mahī saumya durlabhā sāgarāmbarā_), yet I would not desire even the sovereignty of Indra through unrighteousness, O Lakṣmaṇa (_na hīccheyam adharmeṇa śakratvam api lakṣmaṇa_).
 </details>
 </details>
 
@@ -462,7 +462,7 @@ honour-giver!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If any happiness should come to me apart from Bharata, you, and Śatrughna, O bestower of honour (yad vinā bharataṃ tvāṃ ca śatrughnaṃ cāpi mānada bhaven mama sukhaṃ kiñcit), may fire reduce it to ashes (bhasma tat kurutāṃ śikhī)!
+If any happiness should come to me apart from Bharata, you, and Śatrughna, O bestower of honour (_yad vinā bharataṃ tvāṃ ca śatrughnaṃ cāpi mānada bhaven mama sukhaṃ kiñcit_), may fire reduce it to ashes (_bhasma tat kurutāṃ śikhī_)!
 </details>
 </details>
 
@@ -545,11 +545,11 @@ Bharata has come to see me. He has not come with any other motive."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** I deem that Bharata, who is devoted to his brothers (bharato bhrātṛ-vatsalaḥ) and dearer to me than my own life-breath (mama prāṇāt priyataraḥ), having returned to Ayodhyā and remembering the ancestral dharma of our house (āgato 'yodhyāṃ kula-dharmam anusmaran),
+**9:** I deem that Bharata, who is devoted to his brothers (_bharato bhrātṛ-vatsalaḥ_) and dearer to me than my own life-breath (_mama prāṇāt priyataraḥ_), having returned to Ayodhyā and remembering the ancestral dharma of our house (_āgato &#x27;yodhyāṃ kula-dharmam anusmaran_),
 
-**10:** and having heard that I was banished wearing matted locks and bark-garments (śrutvā pravrājitaṃ māṃ hi jaṭā-valkala-dhāriṇam), accompanied by Jānakī and by you, O hero, O bull among men (jānakyā sahitaṃ vīra tvayā ca puruṣarṣabha),
+**10:** and having heard that I was banished wearing matted locks and bark-garments (_śrutvā pravrājitaṃ māṃ hi jaṭā-valkala-dhāriṇam_), accompanied by Jānakī and by you, O hero, O bull among men (_jānakyā sahitaṃ vīra tvayā ca puruṣarṣabha_),
 
-**11:** with his heart overcome by fraternal affection (snehenākrānta-hṛdayaḥ) and his senses distraught with grief (śokenākulitendriyaḥ), this Bharata has come here solely to see us, and with no other purpose (draṣṭum abhyāgato hy eṣa bharato nānyathā gataḥ).
+**11:** with his heart overcome by fraternal affection (_snehenākrānta-hṛdayaḥ_) and his senses distraught with grief (_śokenākulitendriyaḥ_), this Bharata has come here solely to see us, and with no other purpose (_draṣṭum abhyāgato hy eṣa bharato nānyathā gataḥ_).
 </details>
 </details>
 
@@ -603,7 +603,7 @@ me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having grown angry with his mother Kaikeyī and spoken harsh, unpleasing words to her (ambāṃ ca kaikayīṃ ruṣya paruṣaṃ cāpriyaṃ vadan), and having propitiated our father (prasādya pitaram), the illustrious prince has come to offer the kingdom back to me (śrīmān rājyaṃ me dātum āgataḥ).
+Having grown angry with his mother Kaikeyī and spoken harsh, unpleasing words to her (_ambāṃ ca kaikayīṃ ruṣya paruṣaṃ cāpriyaṃ vadan_), and having propitiated our father (_prasādya pitaram_), the illustrious prince has come to offer the kingdom back to me (_śrīmān rājyaṃ me dātum āgataḥ_).
 </details>
 </details>
 
@@ -663,7 +663,7 @@ even think unkindly towards us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It is at the most fitting time that this Bharata desires to see us (prāpta-kālaṃ yad eṣo 'smān bharato draṣṭum icchati); even in thought he would never commit anything displeasing toward us (asmāsu manasāpy eṣa nāpriyaṃ kiñcid ācaret).
+It is at the most fitting time that this Bharata desires to see us (_prāpta-kālaṃ yad eṣo &#x27;smān bharato draṣṭum icchati_); even in thought he would never commit anything displeasing toward us (_asmāsu manasāpy eṣa nāpriyaṃ kiñcid ācaret_).
 </details>
 </details>
 
@@ -716,7 +716,7 @@ to be so apprehensive of Bharata now?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Has any offence ever been committed against you by Bharata in the past (vipriyaṃ kṛta-pūrvaṃ te bharatena kadā nu kim), or has any such cause of fear arisen for you today (īdṛśaṃ vā bhayaṃ te 'dya), that you should suspect Bharata in this matter (bharataṃ yo 'tra śaṅkase)?
+Has any offence ever been committed against you by Bharata in the past (_vipriyaṃ kṛta-pūrvaṃ te bharatena kadā nu kim_), or has any such cause of fear arisen for you today (_īdṛśaṃ vā bhayaṃ te &#x27;dya_), that you should suspect Bharata in this matter (_bharataṃ yo &#x27;tra śaṅkase_)?
 </details>
 </details>
 
@@ -769,7 +769,7 @@ affront is offered to him, it is offered to me!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bharata must certainly not be addressed with harsh or unkind words by you (nahi te niṣṭhuraṃ vācyo bharato nāpriyaṃ vacaḥ); for if any unkindness is done or spoken to Bharata (bharatasyāpriye kṛte), I myself would be the one spoken to unkindly (ahaṃ hy apriyam uktaḥ syām).
+Bharata must certainly not be addressed with harsh or unkind words by you (_nahi te niṣṭhuraṃ vācyo bharato nāpriyaṃ vacaḥ_); for if any unkindness is done or spoken to Bharata (_bharatasyāpriye kṛte_), I myself would be the one spoken to unkindly (_ahaṃ hy apriyam uktaḥ syām_).
 </details>
 </details>
 
@@ -822,7 +822,7 @@ strike a brother who is as dear to him as his life?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How indeed could sons slay their father in any calamity whatsoever (kathaṃ nu putrāḥ pitaraṃ hanyuḥ kasyāñcid āpadi), or how could a brother slay his own brother, who is his very life-breath, O Saumitri (bhrātā vā bhrātaraṃ hanyāt saumitre prāṇam ātmanaḥ)?
+How indeed could sons slay their father in any calamity whatsoever (_kathaṃ nu putrāḥ pitaraṃ hanyuḥ kasyāñcid āpadi_), or how could a brother slay his own brother, who is his very life-breath, O Saumitri (_bhrātā vā bhrātaraṃ hanyāt saumitre prāṇam ātmanaḥ_)?
 </details>
 </details>
 
@@ -874,7 +874,7 @@ to give the kingdom to you, when I see him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If you speak these words for the sake of royal sovereignty (yadi rājyasya hetos tvam imāṃ vācaṃ prabhāṣase), then upon seeing Bharata I shall say to him (vakṣyāmi bharataṃ dṛṣṭvā): ‘Let the kingdom be given to this Lakṣmaṇa (rājyam asmai pradīyatām)!’
+If you speak these words for the sake of royal sovereignty (_yadi rājyasya hetos tvam imāṃ vācaṃ prabhāṣase_), then upon seeing Bharata I shall say to him (_vakṣyāmi bharataṃ dṛṣṭvā_): ‘Let the kingdom be given to this Lakṣmaṇa (_rājyam asmai pradīyatām_)!’
 </details>
 </details>
 
@@ -926,7 +926,7 @@ he will answer, So, be it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly, O Lakṣmaṇa (lakṣmaṇa tattvataḥ), when Bharata is told by me (ucyamāno 'pi bharato mayā), ‘Bestow the kingdom upon him (rājyam asmai prayaccheti),’ he will assuredly reply, ‘So be it (bāḍham ity eva vakṣyati)!’”
+Truly, O Lakṣmaṇa (_lakṣmaṇa tattvataḥ_), when Bharata is told by me (_ucyamāno &#x27;pi bharato mayā_), ‘Bestow the kingdom upon him (_rājyam asmai prayaccheti_),’ he will assuredly reply, ‘So be it (_bāḍham ity eva vakṣyati_)!’”
 </details>
 </details>
 
@@ -986,7 +986,7 @@ shrank into himself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by his righteous-minded brother (tathokto dharma-śīlena bhrātrā), Lakṣmaṇa, who was ever devoted to his welfare (tasya hite rataḥ), shrank as it were into his own limbs out of shame (lakṣmaṇaḥ praviveśeva svāni gātrāṇi lajjayā).
+Thus addressed by his righteous-minded brother (_tathokto dharma-śīlena bhrātrā_), Lakṣmaṇa, who was ever devoted to his welfare (_tasya hite rataḥ_), shrank as it were into his own limbs out of shame (_lakṣmaṇaḥ praviveśeva svāni gātrāṇi lajjayā_).
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ here to see you himself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech, abashed Lakṣmaṇa replied (tad vākyaṃ lakṣmaṇaḥ śrutvā vrīḍitaḥ pratyuvāca ha): “I think our father Daśaratha himself has come here to see you (tvāṃ manye draṣṭum āyātaḥ pitā daśarathaḥ svayam)!”
+Hearing that speech, abashed Lakṣmaṇa replied (_tad vākyaṃ lakṣmaṇaḥ śrutvā vrīḍitaḥ pratyuvāca ha_): “I think our father Daśaratha himself has come here to see you (_tvāṃ manye draṣṭum āyātaḥ pitā daśarathaḥ svayam_)!”
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ to see us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Lakṣmaṇa abashed (vrīḍitaṃ lakṣmaṇaṃ dṛṣṭvā), Rāghava replied (rāghavaḥ pratyuvāca ha): “I too think this mighty-armed monarch has come here to see us (eṣa manye mahā-bāhur ihāsmān draṣṭum āgataḥ)!
+Seeing Lakṣmaṇa abashed (_vrīḍitaṃ lakṣmaṇaṃ dṛṣṭvā_), Rāghava replied (_rāghavaḥ pratyuvāca ha_): “I too think this mighty-armed monarch has come here to see us (_eṣa manye mahā-bāhur ihāsmān draṣṭum āgataḥ_)!
 </details>
 </details>
 
@@ -1149,7 +1149,7 @@ reflecting that we are dwelling in the forest, he wishes to take us home."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else I surely think that, deeming the two of us accustomed to comfort (athavā nau dhruvaṃ manye manyamānaḥ sukhocitau) and reflecting upon the hardships of our forest residence (vana-vāsam anudhyāya), he will lead us back home (gṛhāya pratineṣyati).
+Or else I surely think that, deeming the two of us accustomed to comfort (_athavā nau dhruvaṃ manye manyamānaḥ sukhocitau_) and reflecting upon the hardships of our forest residence (_vana-vāsam anudhyāya_), he will lead us back home (_gṛhāya pratineṣyati_).
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ she who has ever lived in the heart of prosperity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else my illustrious father, born of Raghu’s line (pitā me rāghavaḥ śrīmān), will take this Vaidehī, who has ever been accustomed to supreme comfort (imāṃ vāpy eṣa vaidehīm atyanta-sukha-sevinīm), and return from the forest (vanād ādāya yāsyati).
+Or else my illustrious father, born of Raghu’s line (_pitā me rāghavaḥ śrīmān_), will take this Vaidehī, who has ever been accustomed to supreme comfort (_imāṃ vāpy eṣa vaidehīm atyanta-sukha-sevinīm_), and return from the forest (_vanād ādāya yāsyati_).
 </details>
 </details>
 
@@ -1266,7 +1266,7 @@ vying with the wind in swiftness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yonder shine in full view those two noble-bred, charming, and foremost steeds, O hero (etau tau samprakāśete gotravantau manoramau vīra turagottamau), swift and equal in speed to the wind (vāyu-vega-samau javanau)!
+Yonder shine in full view those two noble-bred, charming, and foremost steeds, O hero (_etau tau samprakāśete gotravantau manoramau vīra turagottamau_), swift and equal in speed to the wind (_vāyu-vega-samau javanau_)!
 </details>
 </details>
 
@@ -1321,7 +1321,7 @@ Shatrunjaya, the aged companion of our sagacious father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And yonder at the head of the army sways that gigantic aged elephant named Śatruñjaya (sa eṣa sumahā-kāyaḥ kampate vāhinī-mukhe nāgaḥ śatruñjayo nāma vṛddhaḥ), belonging to our wise father (tātasya dhīmataḥ).
+And yonder at the head of the army sways that gigantic aged elephant named Śatruñjaya (_sa eṣa sumahā-kāyaḥ kampate vāhinī-mukhe nāgaḥ śatruñjayo nāma vṛddhaḥ_), belonging to our wise father (_tātasya dhīmataḥ_).
 </details>
 </details>
 
@@ -1373,7 +1373,7 @@ well known insignia in the world. An apprehension on this point is created in my
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet I do not behold that resplendent white parasol of our father, honoured by all the world, O mighty-armed one (na tu paśyāmi tac chatraṃ pāṇḍaraṃ loka-satkṛtam pitur divyaṃ mahā-bāho); therefore doubt arises in my heart (saṃśayo bhavatīha me).
+Yet I do not behold that resplendent white parasol of our father, honoured by all the world, O mighty-armed one (_na tu paśyāmi tac chatraṃ pāṇḍaraṃ loka-satkṛtam pitur divyaṃ mahā-bāho_); therefore doubt arises in my heart (_saṃśayo bhavatīha me_).
 </details>
 </details>
 
@@ -1460,9 +1460,9 @@ joined palms, stood by the side of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Descend from the top of the tree, O Lakṣmaṇa, and do my bidding (vṛkṣāgrād avaroha tvaṃ kuru lakṣmaṇa mad-vacaḥ)!”—thus spoke righteous-souled Rāma to that son of Sumitrā (itīva rāmo dharmātmā saumitriṃ tam uvāca ha).
+**27:** Descend from the top of the tree, O Lakṣmaṇa, and do my bidding (_vṛkṣāgrād avaroha tvaṃ kuru lakṣmaṇa mad-vacaḥ_)!”—thus spoke righteous-souled Rāma to that son of Sumitrā (_itīva rāmo dharmātmā saumitriṃ tam uvāca ha_).
 
-**28:** Descending from the top of that śāla tree (avatīrya tu sālāgrāt tasmāt), Lakṣmaṇa, the victorious in battle (sa samitiñjayaḥ lakṣmaṇaḥ), joined his palms in reverence and stood beside Rāma (prāñjalir bhūtvā tasthau rāmasya pārśvataḥ).
+**28:** Descending from the top of that _śāla_ tree (_avatīrya tu sālāgrāt tasmāt_), Lakṣmaṇa, the victorious in battle (_sa samitiñjayaḥ lakṣmaṇaḥ_), joined his palms in reverence and stood beside Rāma (_prāñjalir bhūtvā tasthau rāmasya pārśvataḥ_).
 </details>
 </details>
 
@@ -1514,7 +1514,7 @@ Rama, the army was encamped round the mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by Bharata (bharatenāpi sandiṣṭā) with the order, “Let there be no crowding or disturbance around the hermitage (sammardo na bhaved iti),” the army made its encampment around that mountain (samantāt tasya śailasya senā vāsam akalpayat).
+Commanded by Bharata (_bharatenāpi sandiṣṭā_) with the order, “Let there be no crowding or disturbance around the hermitage (_sammardo na bhaved iti_),” the army made its encampment around that mountain (_samantāt tasya śailasya senā vāsam akalpayat_).
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ encamped around the edge of the mountain occupying an area of one Yojana and a h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covering a league and a half (adhyardhaṃ yojanam āvṛtya), that army of the Ikṣvākus, thronged with elephants, horses, and chariots (ikṣvāku-camūḥ sā gaja-vāji-rathākulā), encamped along the flank of the mountain (parvatasya pārśve nyaviśat).
+Covering a league and a half (_adhyardhaṃ yojanam āvṛtya_), that army of the Ikṣvākus, thronged with elephants, horses, and chariots (_ikṣvāku-camūḥ sā gaja-vāji-rathākulā_), encamped along the flank of the mountain (_parvatasya pārśve nyaviśat_).
 </details>
 </details>
 
@@ -1639,7 +1639,7 @@ in the vicinity of Chitrakuta.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Led by the wise and statesmanlike Bharata (bharatena nītimatā praṇītā), who placed righteousness foremost and cast aside all pride (dharmaṃ puraskṛtya vidhūya darpam) in order to propitiate the delighter of the Raghus (prasādanārthaṃ raghu-nandanasya), that army shone resplendent by Mount Citrakūṭa (sā citrakūṭe senā virājate).
+Led by the wise and statesmanlike Bharata (_bharatena nītimatā praṇītā_), who placed righteousness foremost and cast aside all pride (_dharmaṃ puraskṛtya vidhūya darpam_) in order to propitiate the delighter of the Raghus (_prasādanārthaṃ raghu-nandanasya_), that army shone resplendent by Mount Citrakūṭa (_sā citrakūṭe senā virājate_).
 </details>
 </details>
 

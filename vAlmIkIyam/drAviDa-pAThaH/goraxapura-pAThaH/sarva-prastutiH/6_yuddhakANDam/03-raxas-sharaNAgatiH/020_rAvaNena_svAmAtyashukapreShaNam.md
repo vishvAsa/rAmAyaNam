@@ -87,9 +87,9 @@ Sugriva, which was drawn up in a battle array.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then a valiant rākṣasa named Śārdūla, approaching (abhyetya), beheld that army (dhvajinīm) encamped [on the ocean shore] and guarded by Sugrīva.
+**1:** Then a valiant _rākṣasa_ named Śārdūla, approaching (_abhyetya_), beheld that army (_dhvajinīm_) encamped [on the ocean shore] and guarded by Sugrīva.
 
-**2:** A spy (cāraḥ) of the evil-souled Rāvaṇa, king of the rākṣasas, having surveyed that [host], which was wholly unperturbed (sarvato 'vyagrām), that rākṣasa returned—
+**2:** A spy (_cāraḥ_) of the evil-souled Rāvaṇa, king of the _rākṣasas_, having surveyed that [host], which was wholly unperturbed (_sarvato &#x27;vyagrām_), that _rākṣasa_ returned—
 </details>
 </details>
 
@@ -141,7 +141,7 @@ is approaching Lanka.".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And entering Laṅkā with speed, spoke these words to the king: “Yonder flood of monkeys and bears (vānararkṣaughaḥ) is advancing upon Laṅkā!
+And entering Laṅkā with speed, spoke these words to the king: “Yonder flood of monkeys and bears (_vānararkṣaughaḥ_) is advancing upon Laṅkā!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ And entering Laṅkā with speed, spoke these words to the king: “Yonder flood
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fathomless (agādhaḥ) and immeasurable (aprameyaḥ), like a second ocean (dvitīya iva sāgaraḥ)! And these two sons of Daśaratha, the brothers Rāma and Lakṣmaṇa—
+“Fathomless (_agādhaḥ_) and immeasurable (_aprameyaḥ_), like a second ocean (_dvitīya iva sāgaraḥ_)! And these two sons of Daśaratha, the brothers Rāma and Lakṣmaṇa—
 </details>
 </details>
 
@@ -239,9 +239,9 @@ all sides. You have to ascertain this truth quickly"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “Supremely noble and endowed with beauty (rūpasampannau), have arrived on the track (padam) of Sītā; having reached the ocean, O lord of great splendor, these two have encamped (saṃniviṣṭau).
+**5:** “Supremely noble and endowed with beauty (_rūpasampannau_), have arrived on the track (_padam_) of Sītā; having reached the ocean, O lord of great splendor, these two have encamped (_saṃniviṣṭau_).
 
-**6:** “And their army, covering the sky (ākāśam āvṛtya) for ten yojanas on every side [stands encamped]; O great king, you ought swiftly to ascertain the true state of affairs (tattvabhūtam)!
+**6:** “And their army, covering the sky (_ākāśam āvṛtya_) for ten _yojanas_ on every side [stands encamped]; O great king, you ought swiftly to ascertain the true state of affairs (_tattvabhūtam_)!
 </details>
 </details>
 
@@ -300,7 +300,7 @@ ranks) may be employed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your envoys (dūtāḥ), O great king, ought swiftly to ascertain [their designs]; let bribery (upapradānam), conciliation (sāntvam), or dissension (bhedaḥ) be employed here!”
+“Your envoys (_dūtāḥ_), O great king, ought swiftly to ascertain [their designs]; let bribery (_upapradānam_), conciliation (_sāntvam_), or dissension (_bhedaḥ_) be employed here!”
 </details>
 </details>
 
@@ -359,7 +359,7 @@ foremost among those who know their duty.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Śārdūla's words, Rāvaṇa, lord of the rākṣasas, agitated (vyagraḥ), hastily weighed his own interest (sampradhāryārtham ātmanaḥ) and spoke a fitting speech to the rākṣasa Śuka, foremost of those who know policy (arthavidāṃ varam):
+Hearing Śārdūla&#x27;s words, Rāvaṇa, lord of the _rākṣasas_, agitated (_vyagraḥ_), hastily weighed his own interest (_sampradhāryārtham ātmanaḥ_) and spoke a fitting speech to the _rākṣasa_ Śuka, foremost of those who know policy (_arthavidāṃ varam_):
 </details>
 </details>
 
@@ -412,7 +412,7 @@ command, in an excellent and gentle voice, as follows:"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go swiftly and speak to King Sugrīva in my name (vacanān mama), delivering this message fearlessly (aklībam) in smooth (ślakṣṇayā) and consummate speech:
+“Go swiftly and speak to King Sugrīva in my name (_vacanān mama_), delivering this message fearlessly (_aklībam_) in smooth (_ślakṣṇayā_) and consummate speech:
 </details>
 </details>
 
@@ -474,7 +474,7 @@ and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You are born in a lineage of great kings (mahārājakulaprasūtaḥ), of great strength, and the son of Rikṣarajas (ṛkṣarajaḥsutaḥ); you have neither any gain (arthaḥ) nor any loss (anarthaḥ) [from me], and even so, O lord of monkeys, you are like a brother (bhrātṛsamaḥ) to me.
+“‘You are born in a lineage of great kings (_mahārājakulaprasūtaḥ_), of great strength, and the son of Rikṣarajas (_ṛkṣarajaḥsutaḥ_); you have neither any gain (_arthaḥ_) nor any loss (_anarthaḥ_) [from me], and even so, O lord of monkeys, you are like a brother (_bhrātṛsamaḥ_) to me.
 </details>
 </details>
 
@@ -529,7 +529,7 @@ wise? Gamyataam = return; *kishhkindhaam prati* = to Kishkinda.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘If I carried off (aharam) the wife of the wise prince, what is that to you (kiṃ tatra tava), O Sugrīva? Return to Kiṣkindhā!
+“‘If I carried off (_aharam_) the wife of the wise prince, what is that to you (_kiṃ tatra tava_), O Sugrīva? Return to Kiṣkindhā!
 </details>
 </details>
 
@@ -579,7 +579,7 @@ celestials and Gandharvas (celestial musicians), why to talk about men and monke
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For this Laṅkā cannot by any means be reached by monkeys (haribhiḥ)—not even by the gods together with the gandharvas, how much less by men and monkeys (kiṃ punar naravānaraiḥ)!’”
+“‘For this Laṅkā cannot by any means be reached by monkeys (_haribhiḥ_)—not even by the gods together with the _gandharvas_, how much less by men and monkeys (_kiṃ punar naravānaraiḥ_)!’”
 </details>
 </details>
 
@@ -633,7 +633,7 @@ quickly flew into the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that night-roamer (rajanīcaraḥ) Śuka, commanded by the lord of rākṣasas, having assumed the form of a bird (vihaṃgamo bhūtvā) and swiftly leaped into the sky—
+Then that night-roamer (_rajanīcaraḥ_) Śuka, commanded by the lord of _rākṣasas_, having assumed the form of a bird (_vihaṃgamo bhūtvā_) and swiftly leaped into the sky—
 </details>
 </details>
 
@@ -687,7 +687,7 @@ up in the sky itself and spoke these words to Sugriva:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having traveled a long distance high above the ocean (upary upari sāgaram), stood poised in the sky (saṃsthito hy ambare) and spoke these words to Sugrīva.
+Having traveled a long distance high above the ocean (_upary upari sāgaram_), stood poised in the sky (_saṃsthito hy ambare_) and spoke these words to Sugrīva.
 </details>
 </details>
 
@@ -744,7 +744,7 @@ off his wings and to smite him by their fists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Everything was spoken by him just as commanded (yathādiṣṭam) by the evil-souled Rāvaṇa; and as he was delivering (prāpayantam) that speech, the monkeys swiftly leaped up—
+Everything was spoken by him just as commanded (_yathādiṣṭam_) by the evil-souled Rāvaṇa; and as he was delivering (_prāpayantam_) that speech, the monkeys swiftly leaped up—
 </details>
 </details>
 
@@ -799,7 +799,7 @@ brought down to the ground from the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And quickly fell upon (prāpadyanta) him then to pluck (loptum) [his wings] and strike him with their fists; by all the monkeys that night-roamer was forcibly seized (nigṛhītaḥ).
+And quickly fell upon (_prāpadyanta_) him then to pluck (_loptum_) [his wings] and strike him with their fists; by all the monkeys that night-roamer was forcibly seized (_nigṛhītaḥ_).
 </details>
 </details>
 
@@ -880,9 +880,9 @@ him, that messenger is indeed fit to be killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** And swiftly dragged down (avatāritaḥ) from the sky to the ground, Śuka, being smitten (pīḍyamānaḥ) by the monkeys, spoke these words:
+**17:** And swiftly dragged down (_avatāritaḥ_) from the sky to the ground, Śuka, being smitten (_pīḍyamānaḥ_) by the monkeys, spoke these words:
 
-**18:** “Men do not slay envoys (na dūtān ghnanti), O Kākutstha! Let the monkeys be rightly restrained (vāryantām)! Only that envoy who, abandoning his master's mind (matam bhartuḥ), advances his own opinion—speaking what was not commissioned (anuktavādī)—deserves death!”
+**18:** “Men do not slay envoys (_na dūtān ghnanti_), O Kākutstha! Let the monkeys be rightly restrained (_vāryantām_)! Only that envoy who, abandoning his master&#x27;s mind (_matam bhartuḥ_), advances his own opinion—speaking what was not commissioned (_anuktavādī_)—deserves death!”
 </details>
 </details>
 
@@ -945,7 +945,7 @@ beating him as aforesaid, saying "Do not kill him"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Śuka's lamenting (paridevitam) speech, Rāma said to the monkey chiefs who were striking him (ghnataḥ): “Do not slay him!” (mā vadhiṣṭeti).
+Hearing Śuka&#x27;s lamenting (_paridevitam_) speech, Rāma said to the monkey chiefs who were striking him (_ghnataḥ_): “Do not slay him!” (_mā vadhiṣṭeti_).
 </details>
 </details>
 
@@ -998,7 +998,7 @@ the sky and spoke again the following words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when safety was shown (darśite 'bhaye) by the monkeys, he, becoming light on the wing (patralaghur bhūtvā) and stationing himself in mid-air (antarikṣe), spoke again:
+And when safety was shown (_darśite &#x27;bhaye_) by the monkeys, he, becoming light on the wing (_patralaghur bhūtvā_) and stationing himself in mid-air (_antarikṣe_), spoke again:
 </details>
 </details>
 
@@ -1050,7 +1050,7 @@ tell Ravana, whose nature is to cause world to cry?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sugrīva, endowed with courage (sattvasampanna), of great strength and valor! What, pray, is Rāvaṇa, the make-wail of the worlds (lokarāvaṇaḥ), to be told by me?”
+“O Sugrīva, endowed with courage (_sattvasampanna_), of great strength and valor! What, pray, is Rāvaṇa, the make-wail of the worlds (_lokarāvaṇaḥ_), to be told by me?”
 </details>
 </details>
 
@@ -1108,7 +1108,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, that lord of monkeys of great strength, bull among monkeys, of undaunted spirit (adīnasattvaḥ), spoke a forthright (śuddham) reply to Śuka, the spy of the night-roamer:
+Thus addressed, that lord of monkeys of great strength, bull among monkeys, of undaunted spirit (_adīnasattvaḥ_), spoke a forthright (_śuddham_) reply to Śuka, the spy of the night-roamer:
 </details>
 </details>
 
@@ -1187,7 +1187,7 @@ army from all sides, speedily returned to Lanka and spoke to their king as follo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are no friend (mitram) of mine, nor worthy of compassion (anukampyaḥ), nor a benefactor, nor dear to me; you are Rāma's enemy, and therefore, O you who deserve death (vadhārha), you are to be slain along with your followers like Vālin (vālīva)!
+“You are no friend (_mitram_) of mine, nor worthy of compassion (_anukampyaḥ_), nor a benefactor, nor dear to me; you are Rāma&#x27;s enemy, and therefore, O you who deserve death (_vadhārha_), you are to be slain along with your followers like Vālin (_vālīva_)!
 </details>
 </details>
 
@@ -1239,7 +1239,7 @@ kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall slay you along with your sons, kinsmen, and clan (sajñātivargam), O lord of night-roamers; and coming with all [my hosts] in a mighty army, I shall reduce all Laṅkā to ashes (bhasma)!
+“I shall slay you along with your sons, kinsmen, and clan (_sajñātivargam_), O lord of night-roamers; and coming with all [my hosts] in a mighty army, I shall reduce all Laṅkā to ashes (_bhasma_)!
 </details>
 </details>
 
@@ -1293,7 +1293,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O fool (mūḍha), you shall not escape (na mokṣyase) from Rāghava even if protected by the gods together with Indra, or vanished (antarhitaḥ) and gone upon the path of the sun (sūryapatham), or likewise entered into Pātāla, or clinging to the lotus-feet of Girīśa [Śiva] (girīśapādāmbujasaṃgataḥ)—you along with your younger brother [Kumbhakarṇa] are as good as slain (hato 'si) by Rāma!
+“O fool (_mūḍha_), you shall not escape (_na mokṣyase_) from Rāghava even if protected by the gods together with Indra, or vanished (_antarhitaḥ_) and gone upon the path of the sun (_sūryapatham_), or likewise entered into Pātāla, or clinging to the lotus-feet of Girīśa [Śiva] (_girīśapādāmbujasaṃgataḥ_)—you along with your younger brother [Kumbhakarṇa] are as good as slain (_hato &#x27;si_) by Rāma!
 </details>
 </details>
 
@@ -1346,7 +1346,7 @@ mountain)"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In all the three worlds I behold no protector (trātāram) for such a one as you—neither piśāca, nor rākṣasa, nor gandharva, nor asura!
+“In all the three worlds I behold no protector (_trātāram_) for such a one as you—neither _piśāca_, nor _rākṣasa_, nor _gandharva_, nor _asura_!
 </details>
 </details>
 
@@ -1406,7 +1406,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You slew Jaṭāyu, the king of vultures, infirm with old age (jarāvṛddham); why then did you not carry off wide-eyed Sītā in the presence of Rāma (rāmasāṃnidhye) or before Lakṣmaṇa? Having seized her, you do not realize (na budhyase) [whom you have provoked]—
+“You slew Jaṭāyu, the king of vultures, infirm with old age (_jarāvṛddham_); why then did you not carry off wide-eyed Sītā in the presence of Rāma (_rāmasāṃnidhye_) or before Lakṣmaṇa? Having seized her, you do not realize (_na budhyase_) [whom you have provoked]—
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ captive, you do not recognize her for what she is."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You do not realize that foremost of the Raghus, of great strength, great-souled, unassailable even by the gods (durādharṣaṃ surair api), who shall take away your vital breaths (prāṇān hariṣyati)!”
+“You do not realize that foremost of the Raghus, of great strength, great-souled, unassailable even by the gods (_durādharṣaṃ surair api_), who shall take away your vital breaths (_prāṇān hariṣyati_)!”
 </details>
 </details>
 
@@ -1546,9 +1546,9 @@ Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as foll
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** Then Vālin's son Aṅgada, best of monkeys, also spoke: “This is no envoy (nāyaṃ dūtaḥ), O great king; he appears to me to be a spy (cārakaḥ)!
+**29:** Then Vālin&#x27;s son Aṅgada, best of monkeys, also spoke: “This is no envoy (_nāyaṃ dūtaḥ_), O great king; he appears to me to be a spy (_cārakaḥ_)!
 
-**30:** “For as he stood here, all your army has been measured (tulitaṃ hi balaṃ sarvam) by him! Let him be seized (gṛhyatām)—let him not return (māgamat) to Laṅkā; for this pleases me!”
+**30:** “For as he stood here, all your army has been measured (_tulitaṃ hi balaṃ sarvam_) by him! Let him be seized (_gṛhyatām_)—let him not return (_māgamat_) to Laṅkā; for this pleases me!”
 </details>
 </details>
 
@@ -1595,7 +1595,7 @@ captive. Let him not return to Lanka. This indeed finds favor with me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, commanded by the king [Sugrīva], the monkeys leaped up (samutpatya), seized him, and bound (babandhuḥ) him as he wailed like one without a protector (anāthavat).
+Then, commanded by the king [Sugrīva], the monkeys leaped up (_samutpatya_), seized him, and bound (_babandhuḥ_) him as he wailed like one without a protector (_anāthavat_).
 </details>
 </details>
 
@@ -1664,9 +1664,9 @@ high soled son of Dasaratha as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** Sorely tormented (samprapīḍitaḥ) there by those fierce monkeys, Śuka cried out aloud (vyācukrośa) to the great-souled Rāma, son of Daśaratha: “My two wings are being plucked out (lupyete) by force, and so too my two eyes are being pierced (bhidyete)!
+**32:** Sorely tormented (_samprapīḍitaḥ_) there by those fierce monkeys, Śuka cried out aloud (_vyācukrośa_) to the great-souled Rāma, son of Daśaratha: “My two wings are being plucked out (_lupyete_) by force, and so too my two eyes are being pierced (_bhidyete_)!
 
-**33:** “Whatever evil (aśubham) has been done by me in the interval between the night on which I was born (jāye rātriṃ ca yām aham) and the night on which I shall die—all that may you incur (upapadyethāḥ), should I abandon my life!
+**33:** “Whatever evil (_aśubham_) has been done by me in the interval between the night on which I was born (_jāye rātriṃ ca yām aham_) and the night on which I shall die—all that may you incur (_upapadyethāḥ_), should I abandon my life!
 </details>
 </details>
 
@@ -1727,7 +1727,7 @@ the sins incurred by me between my birth and my death would fall to your share."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that lamentation (tatparidevitam), Rāma did not let him be slain (nāghātayat) then; and Rāma said to the monkeys: “Let the envoy who has come be released (mucyatām)!”
+Hearing that lamentation (_tatparidevitam_), Rāma did not let him be slain (_nāghātayat_) then; and Rāma said to the monkeys: “Let the envoy who has come be released (_mucyatām_)!”
 </details>
 </details>
 

@@ -45,7 +45,7 @@ Answering Rāma’s inquiry into Indrajit’s prowess, the pitcher-born sage Aga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the pitcher-born sage Agastya of mighty luster (kumbhayonir mahātejāḥ) spoke thus to Rāma (rāmam etad uvāca ha):
+Hearing those words of the high-souled Rāghava (_rāghavasya mahātmanaḥ_), the pitcher-born sage Agastya of mighty luster (_kumbhayonir mahātejāḥ_) spoke thus to Rāma (_rāmam etad uvāca ha_):
 </details>
 </details>
 
@@ -76,7 +76,7 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear, O Rāma, the true account of his mighty fiery strength (kathā-vṛttaṃ tasya tejo-balaṃ mahat), by which he slew his foes (jaghāna śatrūn) and could not be slain by enemies (na ca vadhyaḥ sa śatrubhiḥ).
+“Hear, O Rāma, the true account of his mighty fiery strength (_kathā-vṛttaṃ tasya tejo-balaṃ mahat_), by which he slew his foes (_jaghāna śatrūn_) and could not be slain by enemies (_na ca vadhyaḥ sa śatrubhiḥ_).
 </details>
 </details>
 
@@ -107,7 +107,7 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“First (tāvat), O Rāghava, I shall relate to you this lineage and birth of Rāvaṇa (rāvaṇasyedaṃ kulaṃ janma ca), and likewise the granting of boons (vara-pradānam) that was bestowed upon him.
+“First (_tāvat_), O Rāghava, I shall relate to you this lineage and birth of Rāvaṇa (_rāvaṇasyedaṃ kulaṃ janma ca_), and likewise the granting of boons (_vara-pradānam_) that was bestowed upon him.
 </details>
 </details>
 
@@ -138,7 +138,7 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old in the Kṛta age (purā kṛta-yuge), O Rāma, there lived the mighty son of Prajāpati (prajāpati-sutaḥ prabhuḥ), a Brahmarṣi named Pulastya (pulastyo nāma brahmarṣiḥ), like the Grandsire Brahmā incarnate (sākṣād iva pitāmahaḥ).
+“Of old in the Kṛta age (_purā kṛta-yuge_), O Rāma, there lived the mighty son of Prajāpati (_prajāpati-sutaḥ prabhuḥ_), a Brahmarṣi named Pulastya (_pulastyo nāma brahmarṣiḥ_), like the Grandsire Brahmā incarnate (_sākṣād iva pitāmahaḥ_).
 </details>
 </details>
 
@@ -169,7 +169,7 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His virtues in dharma and conduct (guṇās tasya dharmataḥ śīlatas tathā) cannot be exhausted by mere enumeration (nānukīrtyāḥ); for merely by name (nāmataḥ) it suffices to declare that he is the son of Prajāpati (prajāpateḥ putra iti).
+“His virtues in dharma and conduct (_guṇās tasya dharmataḥ śīlatas tathā_) cannot be exhausted by mere enumeration (_nānukīrtyāḥ_); for merely by name (_nāmataḥ_) it suffices to declare that he is the son of Prajāpati (_prajāpateḥ putra iti_).
 </details>
 </details>
 
@@ -200,7 +200,7 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By virtue of being Prajāpati’s son, he was beloved of the gods (devānāṃ vallabho hi saḥ); and that high-minded sage was cherished by the entire world (hṛṣṭaḥ sarvasya lokasya) for his stainless virtues (guṇaiḥ śubhraiḥ).
+“By virtue of being Prajāpati’s son, he was beloved of the gods (_devānāṃ vallabho hi saḥ_); and that high-minded sage was cherished by the entire world (_hṛṣṭaḥ sarvasya lokasya_) for his stainless virtues (_guṇaiḥ śubhraiḥ_).
 </details>
 </details>
 
@@ -239,7 +239,7 @@ Dwelling at Tṛṇabindu’s hermitage on Mount Meru’s slope to practice Vedi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Devoted to righteous austerity (dharma-prasaṅgena), that foremost of sages repaired to the hermitage of Tṛṇabindu (tṛṇabindv-āśramaṃ gatvā) upon the slope of the mighty mountain Meru (meroḥ pārśve mahāgireḥ) and dwelt there.
+“Devoted to righteous austerity (_dharma-prasaṅgena_), that foremost of sages repaired to the hermitage of Tṛṇabindu (_tṛṇabindv-āśramaṃ gatvā_) upon the slope of the mighty mountain Meru (_meroḥ pārśve mahāgireḥ_) and dwelt there.
 </details>
 </details>
 
@@ -270,7 +270,7 @@ Dwelling at Tṛṇabindu’s hermitage on Mount Meru’s slope to practice Vedi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That righteous-souled sage practiced penance (tapas tepe), restraining his senses through Vedic recitation (svādhyāya-niyatendriyaḥ); yet maidens (kanyakāḥ), repairing to his hermitage precinct (āśrama-padam), created distraction (vighnaṃ kurvanti).
+“That righteous-souled sage practiced penance (_tapas tepe_), restraining his senses through Vedic recitation (_svādhyāya-niyatendriyaḥ_); yet maidens (_kanyakāḥ_), repairing to his hermitage precinct (_āśrama-padam_), created distraction (_vighnaṃ kurvanti_).
 </details>
 </details>
 
@@ -304,7 +304,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Daughters of gods and serpents (deva-pannaga-kanyāś ca), daughters of royal sages (rājarṣi-tanayāś ca), and sporting Apsarases (krīḍantyo ’psarasaś caiva) resorted to that lovely spot (taṃ deśam upapedire).
+“Daughters of gods and serpents (_deva-pannaga-kanyāś ca_), daughters of royal sages (_rājarṣi-tanayāś ca_), and sporting Apsarases (_krīḍantyo ’psarasaś caiva_) resorted to that lovely spot (_taṃ deśam upapedire_).
 </details>
 </details>
 
@@ -335,7 +335,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because the grove was delightful in every season (sarvartuṣūpabhogyatvād ramyatvāt kānanasya ca), those maidens would repair daily (nityaśaḥ) to that very spot and sport there.
+“Because the grove was delightful in every season (_sarvartuṣūpabhogyatvād ramyatvāt kānanasya ca_), those maidens would repair daily (_nityaśaḥ_) to that very spot and sport there.
 </details>
 </details>
 
@@ -366,7 +366,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Drawn by the loveliness of that place where the twice-born Pulastya dwelt, those blameless maidens (aninditāḥ)—singing (gāyantyaḥ), playing instruments (vādayantyaḥ), and dancing (lāsayantyaḥ)—constantly interrupted the penance of that ascetic sage (munes tapasvinas tasya vighnaṃ cakruḥ).
+“Drawn by the loveliness of that place where the twice-born Pulastya dwelt, those blameless maidens (_aninditāḥ_)—singing (_gāyantyaḥ_), playing instruments (_vādayantyaḥ_), and dancing (_lāsayantyaḥ_)—constantly interrupted the penance of that ascetic sage (_munes tapasvinas tasya vighnaṃ cakruḥ_).
 </details>
 </details>
 
@@ -397,7 +397,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, provoked to wrath (atha kruddhaḥ), that great sage of mighty luster spoke forth (vyājahāra mahāmuniḥ): ‘Whichever maiden comes within my sight (yā me darśanam āgacchet), she shall conceive a child (sā garbhaṃ dhārayiṣyati)!’
+“Then, provoked to wrath (_atha kruddhaḥ_), that great sage of mighty luster spoke forth (_vyājahāra mahāmuniḥ_): ‘Whichever maiden comes within my sight (_yā me darśanam āgacchet_), she shall conceive a child (_sā garbhaṃ dhārayiṣyati_)!’
 </details>
 </details>
 
@@ -436,7 +436,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that pronouncement of the high-souled sage (pratiśrutya tasya vākyam), all those maidens, terrified by fear of the Brahmin’s curse (brahma-śāpa-bhayād bhītāḥ), approached that precinct no more (taṃ deśaṃ nopacakramuḥ); yet the daughter of the royal sage Tṛṇabindu (tṛṇabindos tu rājarṣes tanayā) did not hear it (na śṛṇoti tat).
+“Hearing that pronouncement of the high-souled sage (_pratiśrutya tasya vākyam_), all those maidens, terrified by fear of the Brahmin’s curse (_brahma-śāpa-bhayād bhītāḥ_), approached that precinct no more (_taṃ deśaṃ nopacakramuḥ_); yet the daughter of the royal sage Tṛṇabindu (_tṛṇabindos tu rājarṣes tanayā_) did not hear it (_na śṛṇoti tat_).
 </details>
 </details>
 
@@ -467,7 +467,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Repairing to the hermitage grounds, she wandered about there utterly fearless (vicacāra sunirbhayā); standing there, she saw not a single companion who had come (na sāpaśyat ... kāñcid abhyāgatāṃ sakhīm).
+“Repairing to the hermitage grounds, she wandered about there utterly fearless (_vicacāra sunirbhayā_); standing there, she saw not a single companion who had come (_na sāpaśyat ... kāñcid abhyāgatāṃ sakhīm_).
 </details>
 </details>
 
@@ -500,7 +500,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At that very moment, the great sage of mighty luster, son of Prajāpati (prājāpatyo mahān ṛṣiḥ), purified in himself by austerity (tapasā bhāvitaḥ svayam), was engaged there in Vedic recitation (svādhyāyam akarot tatra).
+“At that very moment, the great sage of mighty luster, son of Prajāpati (_prājāpatyo mahān ṛṣiḥ_), purified in himself by austerity (_tapasā bhāvitaḥ svayam_), was engaged there in Vedic recitation (_svādhyāyam akarot tatra_).
 </details>
 </details>
 
@@ -531,7 +531,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the sound of the Vedic chant (veda-śrutiṃ śrutvā) and beholding that treasury of austerity (dṛṣṭvā vai tapaso nidhim), she instantly grew pale of frame (abhavat pāṇḍu-dehā sā), with the child clearly manifest within her body (suvyañjita-śarīrajā).
+“Hearing the sound of the Vedic chant (_veda-śrutiṃ śrutvā_) and beholding that treasury of austerity (_dṛṣṭvā vai tapaso nidhim_), she instantly grew pale of frame (_abhavat pāṇḍu-dehā sā_), with the child clearly manifest within her body (_suvyañjita-śarīrajā_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that blemish upon herself (dṛṣṭvā tad-doṣam ātmanaḥ), she became deeply agitated (babhūva ca samudvignā); thinking ‘What can this be that has befallen me?’ (idaṃ me kiṃ tv iti jñātvā), she went and stood in her father’s hermitage (pitur gatvāśrame sthitā).
+“Beholding that blemish upon herself (_dṛṣṭvā tad-doṣam ātmanaḥ_), she became deeply agitated (_babhūva ca samudvignā_); thinking ‘What can this be that has befallen me?’ (_idaṃ me kiṃ tv iti jñātvā_), she went and stood in her father’s hermitage (_pitur gatvāśrame sthitā_).
 </details>
 </details>
 
@@ -593,7 +593,7 @@ While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seeing her in such a condition (tathābhūtām), Tṛṇabindu thereupon spoke to her: ‘Why do you bear this unbecoming condition of your own body (kiṃ tvam etad tv asadṛśaṃ dhārayasy ātmano vapuḥ)?’
+“Seeing her in such a condition (_tathābhūtām_), Tṛṇabindu thereupon spoke to her: ‘Why do you bear this unbecoming condition of your own body (_kiṃ tvam etad tv asadṛśaṃ dhārayasy ātmano vapuḥ_)?’
 </details>
 </details>
 
@@ -638,9 +638,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “Joining her palms in distress (kṛtvāñjaliṃ dīnā), that maiden replied to the ascetic rich in penance (tapodhanam): ‘I know not the cause, dear father (na jāne kāraṇaṃ tāta), whereby my form has become like this (yena me rūpam īdṛśam).
+**19:** “Joining her palms in distress (_kṛtvāñjaliṃ dīnā_), that maiden replied to the ascetic rich in penance (_tapodhanam_): ‘I know not the cause, dear father (_na jāne kāraṇaṃ tāta_), whereby my form has become like this (_yena me rūpam īdṛśam_).
 
-**20:** “‘Only this: earlier I went alone (pūrvaṃ gatāsmy ekā) to the divine hermitage of the self-perfected great sage Pulastya (pulastyasyāśramaṃ divyam) in order to search for my band of companions (anveṣṭuṃ sva-sakhī-janam).
+**20:** “‘Only this: earlier I went alone (_pūrvaṃ gatāsmy ekā_) to the divine hermitage of the self-perfected great sage Pulastya (_pulastyasyāśramaṃ divyam_) in order to search for my band of companions (_anveṣṭuṃ sva-sakhī-janam_).
 </details>
 </details>
 
@@ -674,7 +674,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Yet I saw not a single companion who had come there (na ca paśyāmy ahaṃ tatra kāñcid abhyāgatāṃ sakhīm); and beholding this sudden alteration of my form (rūpasya tu viparyāsaṃ dṛṣṭvā), I fled back here in terror (trāsād ihāgatā).’
+“‘Yet I saw not a single companion who had come there (_na ca paśyāmy ahaṃ tatra kāñcid abhyāgatāṃ sakhīm_); and beholding this sudden alteration of my form (_rūpasya tu viparyāsaṃ dṛṣṭvā_), I fled back here in terror (_trāsād ihāgatā_).’
 </details>
 </details>
 
@@ -705,7 +705,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the royal sage Tṛṇabindu, whose radiance blazed with austerity (tapasā dyotita-prabhaḥ), entered into yogic meditation (dhyānaṃ viveśa) and perceived that this too was born of the sage’s deed (tac cāpi hy apaśyad ṛṣi-karmajam).
+“Then the royal sage Tṛṇabindu, whose radiance blazed with austerity (_tapasā dyotita-prabhaḥ_), entered into yogic meditation (_dhyānaṃ viveśa_) and perceived that this too was born of the sage’s deed (_tac cāpi hy apaśyad ṛṣi-karmajam_).
 </details>
 </details>
 
@@ -736,7 +736,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascertained that curse of the self-perfected great sage (vijñāya taṃ śāpaṃ maharṣer bhāvitātmanaḥ), he took his daughter (gṛhītvā tanayām), went unto Pulastya, and spoke these words to him:
+“Having ascertained that curse of the self-perfected great sage (_vijñāya taṃ śāpaṃ maharṣer bhāvitātmanaḥ_), he took his daughter (_gṛhītvā tanayām_), went unto Pulastya, and spoke these words to him:
 </details>
 </details>
 
@@ -775,7 +775,7 @@ Presenting his virtuous daughter to Pulastya as a self-offered alms to attend hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O revered great sage (bhagavan ... maharṣe), pray accept this daughter of mine (tanayāṃ me ... pratigṛhāṇemām), adorned solely by her own virtues (guṇaiḥ svair eva bhūṣitām), as an alms offered of its own accord (bhikṣām ... svayam udyatām).
+“‘O revered great sage (_bhagavan ... maharṣe_), pray accept this daughter of mine (_tanayāṃ me ... pratigṛhāṇemām_), adorned solely by her own virtues (_guṇaiḥ svair eva bhūṣitām_), as an alms offered of its own accord (_bhikṣām ... svayam udyatām_).
 </details>
 </details>
 
@@ -806,7 +806,7 @@ Presenting his virtuous daughter to Pulastya as a self-offered alms to attend hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘As you engage in arduous penance (tapaścaraṇa-yuktasya) with senses wearied by austerity (śramyamāṇendriyasya te), she will ever remain devoted to your service (śuśrūṣaṇa-parā nityam)—of that there is no doubt!’
+“‘As you engage in arduous penance (_tapaścaraṇa-yuktasya_) with senses wearied by austerity (_śramyamāṇendriyasya te_), she will ever remain devoted to your service (_śuśrūṣaṇa-parā nityam_)—of that there is no doubt!’
 </details>
 </details>
 
@@ -837,7 +837,7 @@ Presenting his virtuous daughter to Pulastya as a self-offered alms to attend hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To that righteous royal sage speaking those words (taṃ bruvāṇaṃ tu tad-vākyaṃ rājarṣiṃ dhārmikam), that twice-born sage, willing to accept the maiden (jighṛkṣur ... kanyām), replied simply: ‘So be it!’ (bāḍham ity eva).
+“To that righteous royal sage speaking those words (_taṃ bruvāṇaṃ tu tad-vākyaṃ rājarṣiṃ dhārmikam_), that twice-born sage, willing to accept the maiden (_jighṛkṣur ... kanyām_), replied simply: ‘So be it!’ (_bāḍham ity eva_).
 </details>
 </details>
 
@@ -868,7 +868,7 @@ Presenting his virtuous daughter to Pulastya as a self-offered alms to attend hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having bestowed her in accordance with sacred ordinance (dattvā sa tu yathānyāyam), he returned to his own hermitage precinct (svam āśrama-padaṃ gataḥ); and that maiden dwelt there, gratifying her husband by her virtues (toṣayantī patiṃ guṇaiḥ).
+“Having bestowed her in accordance with sacred ordinance (_dattvā sa tu yathānyāyam_), he returned to his own hermitage precinct (_svam āśrama-padaṃ gataḥ_); and that maiden dwelt there, gratifying her husband by her virtues (_toṣayantī patiṃ guṇaiḥ_).
 </details>
 </details>
 
@@ -916,9 +916,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “With her character and noble conduct (śīla-vṛttābhyām), that foremost of sages was deeply pleased (tutoṣa munipuṅgavaḥ); and thus gratified (prītaḥ), the sage of mighty luster spoke these words to her:
+**28:** “With her character and noble conduct (_śīla-vṛttābhyām_), that foremost of sages was deeply pleased (_tutoṣa munipuṅgavaḥ_); and thus gratified (_prītaḥ_), the sage of mighty luster spoke these words to her:
 
-**29:** “‘O fair-hipped lady (suśroṇi), I am exceedingly pleased with the wealth of your virtues (parituṣṭo ’smi ... guṇānāṃ sampadā bhṛśam); therefore today, O noble lady (devi), I bestow upon you a son equal to myself (putram ātma-samaṃ tava)—
+**29:** “‘O fair-hipped lady (_suśroṇi_), I am exceedingly pleased with the wealth of your virtues (_parituṣṭo ’smi ... guṇānāṃ sampadā bhṛśam_); therefore today, O noble lady (_devi_), I bestow upon you a son equal to myself (_putram ātma-samaṃ tava_)—
 </details>
 </details>
 
@@ -951,7 +951,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘—who shall perpetuate both our lineages (ubhayor vaṃśa-kartāram) and be celebrated as Paulastya (paulastya iti viśrutam). Moreover, because this Veda was heard by you while I was reciting it (yasmāt tu viśruto vedas tvayaiṣo ’dhyayato mama),
+“‘—who shall perpetuate both our lineages (_ubhayor vaṃśa-kartāram_) and be celebrated as Paulastya (_paulastya iti viśrutam_). Moreover, because this Veda was heard by you while I was reciting it (_yasmāt tu viśruto vedas tvayaiṣo ’dhyayato mama_),
 </details>
 </details>
 
@@ -988,9 +988,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** “‘—therefore shall he be named Viśravas (viśravā nāma bhaviṣyati), of that there is no doubt!’ Addressed thus, that noble lady, with her inner spirit brimming with joy (prahṛṣṭenāntarātmanā),
+**31:** “‘—therefore shall he be named Viśravas (_viśravā nāma bhaviṣyati_), of that there is no doubt!’ Addressed thus, that noble lady, with her inner spirit brimming with joy (_prahṛṣṭenāntarātmanā_),
 
-**32:** “In no long time gave birth to her son Viśravas (acireṇaiva kālenāsūta viśravasaṃ sutam), renowned throughout the three worlds (triṣu lokeṣu vikhyātam) and endowed with glory and righteousness (yaśo-dharma-samanvitam).
+**32:** “In no long time gave birth to her son Viśravas (_acireṇaiva kālenāsūta viśravasaṃ sutam_), renowned throughout the three worlds (_triṣu lokeṣu vikhyātam_) and endowed with glory and righteousness (_yaśo-dharma-samanvitam_).
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Learned in scripture (śrutimān), equal-visioned toward all (samadarśī ca), and devoted to vows and righteous conduct (vratācāra-rataḥ), the sage Viśravas became endowed with austerity just like his father (piteva tapasā yukto hy abhavad viśravā muniḥ).
+“Learned in scripture (_śrutimān_), equal-visioned toward all (_samadarśī ca_), and devoted to vows and righteous conduct (_vratācāra-rataḥ_), the sage Viśravas became endowed with austerity just like his father (_piteva tapasā yukto hy abhavad viśravā muniḥ_).
 </details>
 </details>
 

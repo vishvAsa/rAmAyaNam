@@ -79,7 +79,7 @@ a tiny female-elephant overpowered by a lion in the middle of a forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that unwelcome speech (vaco 'priyam) of Rāvaṇa, lord of the rākṣasas, Sītā, afflicted by sorrow (apriyārtā), trembled (vitatrāsa) like a young royal she-elephant (gajarājakanyā) assailed by a lion (siṃhābhipannā) in the depths of the forest.
+Having heard that unwelcome speech (_vaco &#x27;priyam_) of Rāvaṇa, lord of the rākṣasas, Sītā, afflicted by sorrow (_apriyārtā_), trembled (_vitatrāsa_) like a young royal she-elephant (_gajarājakanyā_) assailed by a lion (_siṃhābhipannā_) in the depths of the forest.
 </details>
 </details>
 
@@ -130,7 +130,7 @@ with his words galore, lamented (as follows) like a young virgin who was left lo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing in the midst of the demonesses (rākṣasīmadhyagatā) and vehemently menaced with harsh words by Rāvaṇa (vāgbhir bhṛśaṃ rāvaṇatarjitā ca), timid (bhīruḥ) Sītā lamented (vilalāpa) like a young maiden (bāleva kanyā) cast away in a desolate wilderness (kāntāramadhye vijane visṛṣṭā):
+Standing in the midst of the demonesses (_rākṣasīmadhyagatā_) and vehemently menaced with harsh words by Rāvaṇa (_vāgbhir bhṛśaṃ rāvaṇatarjitā ca_), timid (_bhīruḥ_) Sītā lamented (_vilalāpa_) like a young maiden (_bāleva kanyā_) cast away in a desolate wilderness (_kāntāramadhye vijane visṛṣṭā_):
 </details>
 </details>
 
@@ -195,7 +195,7 @@ even for an instant, though being threatened in this way."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly indeed (satyaṃ bata) do the virtuous declare this in the world—that there is no untimely death (nākālamṛtyur bhavatīti)—since (yatra), though reviled thus (evaṃ paribhartsyamānā), I, devoid of merit (apuṇyā), continue to live even for a moment (kṣaṇam api)!
+“Truly indeed (_satyaṃ bata_) do the virtuous declare this in the world—that there is no untimely death (_nākālamṛtyur bhavatīti_)—since (_yatra_), though reviled thus (_evaṃ paribhartsyamānā_), I, devoid of merit (_apuṇyā_), continue to live even for a moment (_kṣaṇam api_)!
 </details>
 </details>
 
@@ -259,7 +259,7 @@ it does not break into a thousand pieces today like a mountain-top struck by lig
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bereft of happiness (sukhād vihīnam) and filled with manifold sorrows (bahuduḥkhapūrṇam), this heart of mine is surely hard and unyielding (hṛdayaṃ sthiraṃ me), in that it does not shatter into a thousand pieces (vidīryate yan na sahasradhā) today like a mountain peak struck by a thunderbolt (vajrāhataṃ śṛṅgam ivācalasya)!
+Bereft of happiness (_sukhād vihīnam_) and filled with manifold sorrows (_bahuduḥkhapūrṇam_), this heart of mine is surely hard and unyielding (_hṛdayaṃ sthiraṃ me_), in that it does not shatter into a thousand pieces (_vidīryate yan na sahasradhā_) today like a mountain peak struck by a thunderbolt (_vajrāhataṃ śṛṅgam ivācalasya_)!
 </details>
 </details>
 
@@ -325,7 +325,7 @@ would offer a mystical verse to one not belonging to the twice-born classes."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely there is no fault (doṣam) of mine here [in taking my own life], for I am doomed to be slain (vadhyāham) by this creature of hateful aspect (asyāpriyadarśanasya); nor am I able (na cāham alam) to bestow my heart’s affection (bhāvam anupradātum) upon him, any more than a twice-born brāhmaṇa (dvijaḥ) [may impart] a Vedic mantra to a non-twice-born (advijāya).
+Surely there is no fault (_doṣam_) of mine here [in taking my own life], for I am doomed to be slain (_vadhyāham_) by this creature of hateful aspect (_asyāpriyadarśanasya_); nor am I able (_na cāham alam_) to bestow my heart’s affection (_bhāvam anupradātum_) upon him, any more than a twice-born brāhmaṇa (_dvijaḥ_) [may impart] a Vedic mantra to a non-twice-born (_advijāya_).
 </details>
 </details>
 
@@ -376,7 +376,7 @@ off my limbs with his sharpened weapons, even as a surgeon would cut the limbs o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If that Lord of the world (lokanāthe) does not arrive (tasminn anāgacchati), soon indeed this ignoble lord of rākṣasas will sever my limbs (mamāṅgāni chetsyati) with whetted blades (śastraiḥ śitaiḥ), just as a surgeon (śalyakṛntaḥ) [severs the limbs] of an unborn fetus (garbhasthajantor iva)!
+If that Lord of the world (_lokanāthe_) does not arrive (_tasminn anāgacchati_), soon indeed this ignoble lord of rākṣasas will sever my limbs (_mamāṅgāni chetsyati_) with whetted blades (_śastraiḥ śitaiḥ_), just as a surgeon (_śalyakṛntaḥ_) [severs the limbs] of an unborn fetus (_garbhasthajantor iva_)!
 </details>
 </details>
 
@@ -440,7 +440,7 @@ and to be capitally punished under the detention orders of a king. Alas! This is
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas, what sorrow is this (duḥkhaṃ batedam) for me, long afflicted (cirāya duḥkhitāyāḥ): the two months (māsau dvau) will swiftly pass (abhigamiṣyataḥ), like [the hours before] the end of the night (niśānte) for a bound thief (baddhasya taskarasya) condemned to execution (vadhyasya) for an offense against the king (rājoparodhād iva)!
+Alas, what sorrow is this (_duḥkhaṃ batedam_) for me, long afflicted (_cirāya duḥkhitāyāḥ_): the two months (_māsau dvau_) will swiftly pass (_abhigamiṣyataḥ_), like [the hours before] the end of the night (_niśānte_) for a bound thief (_baddhasya taskarasya_) condemned to execution (_vadhyasya_) for an offense against the king (_rājoparodhād iva_)!
 </details>
 </details>
 
@@ -496,7 +496,7 @@ like a ship driven out of its course by a strong wind in a mighty ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas, O Rāma! Alas, O Lakṣmaṇa! Alas, O Sumitrā! Alas, O mother of Rāma, together with my own mothers (saha me jananyaḥ)! Here I perish (eṣā vipadyāmy aham), of scant fortune (alpabhāgyā), like a ship upon the great ocean (mahārṇave naur iva) buffeted by a tempestuous wind (mūḍhavātā)!
+Alas, O Rāma! Alas, O Lakṣmaṇa! Alas, O Sumitrā! Alas, O mother of Rāma, together with my own mothers (_saha me jananyaḥ_)! Here I perish (_eṣā vipadyāmy aham_), of scant fortune (_alpabhāgyā_), like a ship upon the great ocean (_mahārṇave naur iva_) buffeted by a tempestuous wind (_mūḍhavātā_)!
 </details>
 </details>
 
@@ -547,7 +547,7 @@ as two excellent lions killed by a flashing thunderbolt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those two impetuous sons of the lord of men (tarasvinau manujendraputrau), who were like two lordly lions or bulls (siṃharṣabhau dvāv iva), have surely been slain (nūnaṃ viśastau) on my account (mama kāraṇāt) by that creature wearing the form of a deer (dhārayatā mṛgasya rūpam), as if by a bolt of lightning (vaidyutena)!
+Those two impetuous sons of the lord of men (_tarasvinau manujendraputrau_), who were like two lordly lions or bulls (_siṃharṣabhau dvāv iva_), have surely been slain (_nūnaṃ viśastau_) on my account (_mama kāraṇāt_) by that creature wearing the form of a deer (_dhārayatā mṛgasya rūpam_), as if by a bolt of lightning (_vaidyutena_)!
 </details>
 </details>
 
@@ -604,7 +604,7 @@ brother of Lakshmana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely it was Death himself (nūnaṃ sa kālaḥ), wearing the form of a deer (mṛgarūpadhārī), who enticed (lulubhe) me of scant fortune at that time (tadānīm), when in my folly (mūḍhā) I sent forth (visasarja) those two noble princes (āryaputrau)—Rāma’s younger brother and Lakṣmaṇa’s elder brother (rāmānujaṃ lakṣmaṇapūrvajaṃ ca)!
+Surely it was Death himself (_nūnaṃ sa kālaḥ_), wearing the form of a deer (_mṛgarūpadhārī_), who enticed (_lulubhe_) me of scant fortune at that time (_tadānīm_), when in my folly (_mūḍhā_) I sent forth (_visasarja_) those two noble princes (_āryaputrau_)—Rāma’s younger brother and Lakṣmaṇa’s elder brother (_rāmānujaṃ lakṣmaṇapūrvajaṃ ca_)!
 </details>
 </details>
 
@@ -656,7 +656,7 @@ by the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas, O Rāma of true vows (satyavrata), O long-armed one (dīrghabāho), alas, O you whose face rivals the full moon (pūrṇacandrapratimānavaktra)! Alas, you who are the benefactor and beloved of the world of living beings (jīvalokasya hitaḥ priyaś ca), you do not know that I am doomed to be slain by the rākṣasas (vadhyāṃ na māṃ vetsi hi rākṣasānām)!
+Alas, O Rāma of true vows (_satyavrata_), O long-armed one (_dīrghabāho_), alas, O you whose face rivals the full moon (_pūrṇacandrapratimānavaktra_)! Alas, you who are the benefactor and beloved of the world of living beings (_jīvalokasya hitaḥ priyaś ca_), you do not know that I am doomed to be slain by the rākṣasas (_vadhyāṃ na māṃ vetsi hi rākṣasānām_)!
 </details>
 </details>
 
@@ -724,7 +724,7 @@ men becoming waste".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My having no other deity [than my husband] (ananyadevatvam), this forbearance (iyaṃ kṣamā ca), my sleeping upon the bare ground (bhūmau ca śayyā), my strict observance of righteousness (niyamaś ca dharme), and this wifely fidelity of mine (pativratātvaṃ mamedam) have proved fruitless (viphalam), like a good deed done by men toward ingrates (kṛtaṃ kṛtaghneṣv iva mānuṣāṇām)!
+My having no other deity [than my husband] (_ananyadevatvam_), this forbearance (_iyaṃ kṣamā ca_), my sleeping upon the bare ground (_bhūmau ca śayyā_), my strict observance of righteousness (_niyamaś ca dharme_), and this wifely fidelity of mine (_pativratātvaṃ mamedam_) have proved fruitless (_viphalam_), like a good deed done by men toward ingrates (_kṛtaṃ kṛtaghneṣv iva mānuṣāṇām_)!
 </details>
 </details>
 
@@ -781,7 +781,7 @@ Likewise, this state of my being only one wife to you has become useless.."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In vain indeed (mogho hi) has this righteousness been practiced by me (dharmaś carito mamāyam), and meaningless is this status of being your sole wife (ekapatnītvam idaṃ nirarthakam)—I who, emaciated and pallid (kṛśā vivarṇā), bereft of you and hopeless of reunion (saṃgamane nirāśā), do not behold you!
+In vain indeed (_mogho hi_) has this righteousness been practiced by me (_dharmaś carito mamāyam_), and meaningless is this status of being your sole wife (_ekapatnītvam idaṃ nirarthakam_)—I who, emaciated and pallid (_kṛśā vivarṇā_), bereft of you and hopeless of reunion (_saṃgamane nirāśā_), do not behold you!
 </details>
 </details>
 
@@ -838,7 +838,7 @@ women."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having faithfully fulfilled your father’s command (pitur nideśaṃ niyamena kṛtvā) and returned from the forest with your vow accomplished (vanān nivṛttaś caritavrataś ca), free from fear and having achieved your purpose (vītabhayaḥ kṛtārthaḥ), you will, I ween, take your pleasure (saṃraṃsyase) with wide-eyed women (strībhis tu vipulekṣaṇābhiḥ)!
+Having faithfully fulfilled your father’s command (_pitur nideśaṃ niyamena kṛtvā_) and returned from the forest with your vow accomplished (_vanān nivṛttaś caritavrataś ca_), free from fear and having achieved your purpose (_vītabhayaḥ kṛtārthaḥ_), you will, I ween, take your pleasure (_saṃraṃsyase_) with wide-eyed women (_strībhis tu vipulekṣaṇābhiḥ_)!
 </details>
 </details>
 
@@ -890,7 +890,7 @@ to me of my little fortune!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whereas I, O Rāma, who conceived love for you (tvayi jātakāmā) and bound my heart to you so long only for my own ruin (ciraṃ vināśāya nibaddhabhāvā), having practiced austerity and vows in vain (moghaṃ caritvātha tapo vrataṃ ca), shall cast away my life—fie upon my scant fortune (dhig jīvitam alpabhāgyām)!”
+Whereas I, O Rāma, who conceived love for you (_tvayi jātakāmā_) and bound my heart to you so long only for my own ruin (_ciraṃ vināśāya nibaddhabhāvā_), having practiced austerity and vows in vain (_moghaṃ caritvātha tapo vrataṃ ca_), shall cast away my life—fie upon my scant fortune (_dhig jīvitam alpabhāgyām_)!”
 </details>
 </details>
 
@@ -963,7 +963,7 @@ is a giver either of a poison or of a sharp weapon in the house of Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I would swiftly cast away my life (saṃjīvitaṃ kṣipram ahaṃ tyajeyam) by poison or by a sharp blade (viṣeṇa śastreṇa śitena vāpi); yet in the house of this rākṣasa (veśmani rākṣasasya) there is no one at all (na tu me 'sti kaścit) to give me poison or a blade (viṣasya dātā śastrasya vā)!”
+“I would swiftly cast away my life (_saṃjīvitaṃ kṣipram ahaṃ tyajeyam_) by poison or by a sharp blade (_viṣeṇa śastreṇa śitena vāpi_); yet in the house of this rākṣasa (_veśmani rākṣasasya_) there is no one at all (_na tu me &#x27;sti kaścit_) to give me poison or a blade (_viṣasya dātā śastrasya vā_)!”
 </details>
 </details>
 
@@ -1018,7 +1018,7 @@ and emaciated face, approached that excellent tree in bloom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scorched by grief (śokābhitaptā) and reflecting in many ways (bahudhā vicintya), Sītā then took hold of her hair-braid cord (veṇīgrathanaṃ gṛhītvā) [and thought]: “Hanging myself (udbaddhya) with this braid-cord (veṇyudgrathanena), I shall swiftly go to the presence of Yama (śīghram ahaṃ gamiṣyāmi yamasya mūlam)!”
+Scorched by grief (_śokābhitaptā_) and reflecting in many ways (_bahudhā vicintya_), Sītā then took hold of her hair-braid cord (_veṇīgrathanaṃ gṛhītvā_) [and thought]: “Hanging myself (_udbaddhya_) with this braid-cord (_veṇyudgrathanena_), I shall swiftly go to the presence of Yama (_śīghram ahaṃ gamiṣyāmi yamasya mūlam_)!”
 </details>
 </details>
 
@@ -1126,9 +1126,9 @@ as thoroughly efficacious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** Delicate in every limb (mṛdusarvagātrī), she stood near (upasthitā sā), grasping a branch of that tree (śākhāṃ gṛhītvā ca nagasya tasya); and as that auspicious-limbed lady (tasyāḥ śubhāṅgyāḥ) was deeply meditating upon Rāma (rāmaṃ paricintayantyāḥ), upon Rāma’s younger brother, and upon her own noble lineage (svaṃ ca kulam),
+**18:** Delicate in every limb (_mṛdusarvagātrī_), she stood near (_upasthitā sā_), grasping a branch of that tree (_śākhāṃ gṛhītvā ca nagasya tasya_); and as that auspicious-limbed lady (_tasyāḥ śubhāṅgyāḥ_) was deeply meditating upon Rāma (_rāmaṃ paricintayantyāḥ_), upon Rāma’s younger brother, and upon her own noble lineage (_svaṃ ca kulam_),
 
-**19:** there suddenly appeared (prādur babhūvuḥ) for her at that moment many sorrow-dispelling (viśokāni) portents, foremost in the world (pravarāṇi loke), won through her steadfastness (dhairyārjitāni), which had been observed and proven true even of old (purāpi siddhāny upalakṣitāni).
+**19:** there suddenly appeared (_prādur babhūvuḥ_) for her at that moment many sorrow-dispelling (_viśokāni_) portents, foremost in the world (_pravarāṇi loke_), won through her steadfastness (_dhairyārjitāni_), which had been observed and proven true even of old (_purāpi siddhāny upalakṣitāni_).
 </details>
 </details>
 

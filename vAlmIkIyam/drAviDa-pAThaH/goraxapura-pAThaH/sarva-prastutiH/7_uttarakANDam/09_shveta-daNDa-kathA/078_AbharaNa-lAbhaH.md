@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing my auspiciously worded speech, O Rāma (śrutvā tu bhāṣitaṃ vākyaṃ mama rāma śubhākṣaram), that celestial dweller joined his palms in reverence and spoke this reply (prāñjaliḥ pratyuvācedaṃ sa svargī), O delight of the Raghus:
+Hearing my auspiciously worded speech, O Rāma (_śrutvā tu bhāṣitaṃ vākyaṃ mama rāma śubhākṣaram_), that celestial dweller joined his palms in reverence and spoke this reply (_prāñjaliḥ pratyuvācedaṃ sa svargī_), O delight of the Raghus:
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear, O brahmin, this ancient account of both my joy and my sorrow (śṛṇu brahman purā vṛttaṃ mamaitat sukha-duḥkhayoḥ); for your inquiry cannot be set aside (anatikramaṇīyaṃ hi), O twice-born sage, just as you ask me.
+“Hear, O brahmin, this ancient account of both my joy and my sorrow (_śṛṇu brahman purā vṛttaṃ mamaitat sukha-duḥkhayoḥ_); for your inquiry cannot be set aside (_anatikramaṇīyaṃ hi_), O twice-born sage, just as you ask me.
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, my father was the greatly famed king of Vidarbha (purā vaidarbhako rājā pitā mama mahāyaśāḥ), renowned throughout the three worlds as the mighty Sudeva (sudeva iti vikhyātas triṣu lokeṣu vīryavān).
+“Of old, my father was the greatly famed king of Vidarbha (_purā vaidarbhako rājā pitā mama mahāyaśāḥ_), renowned throughout the three worlds as the mighty Sudeva (_sudeva iti vikhyātas triṣu lokeṣu vīryavān_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To him, O brahmin, two sons were born of two wives (tasya putra-dvayaṃ brahman dvābhyāṃ strībhyām ajāyata): I was known as Śveta (ahaṃ śveta iti khyātaḥ), and my younger brother was Suratha (yavīyān suratho ’bhavat).
+“To him, O brahmin, two sons were born of two wives (_tasya putra-dvayaṃ brahman dvābhyāṃ strībhyām ajāyata_): I was known as Śveta (_ahaṃ śveta iti khyātaḥ_), and my younger brother was Suratha (_yavīyān suratho ’bhavat_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, when our father departed to heaven (pitari svaryāte), the citizens consecrated me as king (paurā mām abhyaṣecayan); and there, deeply composed (susamāhitaḥ), I carried out a righteous reign (kṛtavān rājyaṃ dharmyaṃ ca).
+“Then, when our father departed to heaven (_pitari svaryāte_), the citizens consecrated me as king (_paurā mām abhyaṣecayan_); and there, deeply composed (_susamāhitaḥ_), I carried out a righteous reign (_kṛtavān rājyaṃ dharmyaṃ ca_).
 </details>
 </details>
 
@@ -222,7 +222,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus thousands of years elapsed, O sage of noble vows (evaṃ varṣa-sahasrāṇi samatītāni suvrata), while I governed the kingdom and protected my subjects in accordance with dharma (rājyaṃ kārayato brahman prajā dharmeṇa rakṣataḥ).”
+“Thus thousands of years elapsed, O sage of noble vows (_evaṃ varṣa-sahasrāṇi samatītāni suvrata_), while I governed the kingdom and protected my subjects in accordance with dharma (_rājyaṃ kārayato brahman prajā dharmeṇa rakṣataḥ_).”
 </details>
 </details>
 
@@ -264,7 +264,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, O best of the twice-born, having ascertained the limit of my lifespan through a certain sign (nimitte kasmiṃścid vijñātāyur dvijottama) and taking the law of mortality to heart (kāladharmaṃ hṛdi nyasya), I repaired to the forest (tato vanam upāgamam).
+“Then, O best of the twice-born, having ascertained the limit of my lifespan through a certain sign (_nimitte kasmiṃścid vijñātāyur dvijottama_) and taking the law of mortality to heart (_kāladharmaṃ hṛdi nyasya_), I repaired to the forest (_tato vanam upāgamam_).
 </details>
 </details>
 
@@ -298,7 +298,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus I entered this impenetrable wilderness devoid of beasts and birds (vanam idaṃ durgaṃ mṛga-pakṣi-vivarjitam) to practice austerity in this fair precinct beside the lake (tapaś cartuṃ praviṣṭo ’smi samīpe sarasaḥ śubhe).
+“Thus I entered this impenetrable wilderness devoid of beasts and birds (_vanam idaṃ durgaṃ mṛga-pakṣi-vivarjitam_) to practice austerity in this fair precinct beside the lake (_tapaś cartuṃ praviṣṭo ’smi samīpe sarasaḥ śubhe_).
 </details>
 </details>
 
@@ -332,7 +332,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, having consecrated my brother Suratha as sovereign upon the throne (bhrātaraṃ surathaṃ rājye hy abhiṣicya mahīpatim) and having reached this lake, I practiced austerity for a long time (tapas taptaṃ mayā ciram).
+“Indeed, having consecrated my brother Suratha as sovereign upon the throne (_bhrātaraṃ surathaṃ rājye hy abhiṣicya mahīpatim_) and having reached this lake, I practiced austerity for a long time (_tapas taptaṃ mayā ciram_).
 </details>
 </details>
 
@@ -360,7 +360,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having performed exceedingly arduous austerity in this great forest for three thousand years (varṣa-sahasrāṇi tapas trīṇi mahāvane taptvā suduṣkaram), I attained the peerless world of Brahmā (prāpto brahmalokam anuttamam).
+“Having performed exceedingly arduous austerity in this great forest for three thousand years (_varṣa-sahasrāṇi tapas trīṇi mahāvane taptvā suduṣkaram_), I attained the peerless world of Brahmā (_prāpto brahmalokam anuttamam_).
 </details>
 </details>
 
@@ -395,7 +395,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet even as I dwelt in heaven, O foremost of brahmins, hunger and thirst tormented me (tasya me svarga-bhūtasya kṣut-pipāse ... bādhete), O supremely noble one; my senses anguished thereby (vyathitendriyaḥ), I went to the Grandfather, foremost in the three worlds, and spoke (gatvā tribhuvana-śreṣṭhaṃ pitāmaham uvāca ha):
+“Yet even as I dwelt in heaven, O foremost of brahmins, hunger and thirst tormented me (_tasya me svarga-bhūtasya kṣut-pipāse ... bādhete_), O supremely noble one; my senses anguished thereby (_vyathitendriyaḥ_), I went to the Grandfather, foremost in the three worlds, and spoke (_gatvā tribhuvana-śreṣṭhaṃ pitāmaham uvāca ha_):
 </details>
 </details>
 
@@ -443,9 +443,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “‘O Blessed Lord, this world of Brahmā is free from hunger and thirst (brahmaloko ’yaṃ kṣut-pipāsā-vivarjitaḥ); of what deed is this the ripening, that I am dogged by hunger and thirst (kasyāyaṃ karmaṇaḥ pākaḥ kṣut-pipāsānugo hy aham)? And what is my food, O god? Tell me that, O Grandfather!’
+**12:** “‘O Blessed Lord, this world of Brahmā is free from hunger and thirst (_brahmaloko ’yaṃ kṣut-pipāsā-vivarjitaḥ_); of what deed is this the ripening, that I am dogged by hunger and thirst (_kasyāyaṃ karmaṇaḥ pākaḥ kṣut-pipāsānugo hy aham_)? And what is my food, O god? Tell me that, O Grandfather!’
 
-**13:** “‘The Grandfather answered me (pitāmahas tu mām āha): “Your food, O son of Sudeva (tavāhāraḥ sudevaja), is your own savory flesh (svādūni svāni māṃsāni); eat of it continually (tāni bhakṣaya nityaśaḥ)!
+**13:** “‘The Grandfather answered me (_pitāmahas tu mām āha_): “Your food, O son of Sudeva (_tavāhāraḥ sudevaja_), is your own savory flesh (_svādūni svāni māṃsāni_); eat of it continually (_tāni bhakṣaya nityaśaḥ_)!
 </details>
 </details>
 
@@ -473,7 +473,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“While performing supreme austerity, you nourished only your own body (sva-śarīraṃ tvayā puṣṭaṃ kurvatā tapa uttamam); O Śveta of great mind, what has never been sown never sprouts (anuptaṃ rohate śveta na kadācin mahāmate)!
+“‘“While performing supreme austerity, you nourished only your own body (_sva-śarīraṃ tvayā puṣṭaṃ kurvatā tapa uttamam_); O Śveta of great mind, what has never been sown never sprouts (_anuptaṃ rohate śveta na kadācin mahāmate_)!
 </details>
 </details>
 
@@ -507,7 +507,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“Not even the slightest satiety exists for you in the forest frequented by living beings (tṛptir na te ’sti sūkṣmā ’pi vane sattva-niṣevite), because of old, O Indra-like king, you gave no alms to a begging ascetic or even to a guest (bhikṣamāṇāya bhikṣā vai yataye ... na hi dattā ... atithaye ’pi vai).
+“‘“Not even the slightest satiety exists for you in the forest frequented by living beings (_tṛptir na te ’sti sūkṣmā ’pi vane sattva-niṣevite_), because of old, O Indra-like king, you gave no alms to a begging ascetic or even to a guest (_bhikṣamāṇāya bhikṣā vai yataye ... na hi dattā ... atithaye ’pi vai_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“Not even the tiniest gift was ever given by you (dattaṃ na te ’sti sūkṣmo ’pi); you devoted yourself to austerity alone (tapa eva niṣevase). Therefore, though gone to heaven, my son, you are tormented by hunger and thirst (tena svargagato vatsa bādhyase kṣut-pipāsayā).
+“‘“Not even the tiniest gift was ever given by you (_dattaṃ na te ’sti sūkṣmo ’pi_); you devoted yourself to austerity alone (_tapa eva niṣevase_). Therefore, though gone to heaven, my son, you are tormented by hunger and thirst (_tena svargagato vatsa bādhyase kṣut-pipāsayā_).
 </details>
 </details>
 
@@ -575,7 +575,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“Eating that peerless body of yours, well nourished by rich foods and tasting like nectar (supuṣṭam āhāraiḥ sva-śarīram anuttamam bhakṣayitvāmṛta-rasam), you shall find satiety thereby (tena tṛptir bhaviṣyati).
+“‘“Eating that peerless body of yours, well nourished by rich foods and tasting like nectar (_supuṣṭam āhāraiḥ sva-śarīram anuttamam bhakṣayitvāmṛta-rasam_), you shall find satiety thereby (_tena tṛptir bhaviṣyati_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“Yet when the exceedingly great and invincible sage Agastya shall come to that forest, O Śveta (agastyaḥ sumahān ṛṣiḥ āgamiṣyati durdharṣaḥ), then he shall deliver you from this distress (tadā kṛcchrād vimokṣyate)!”
+“‘“Yet when the exceedingly great and invincible sage Agastya shall come to that forest, O Śveta (_agastyaḥ sumahān ṛṣiḥ āgamiṣyati durdharṣaḥ_), then he shall deliver you from this distress (_tadā kṛcchrād vimokṣyate_)!”
 </details>
 </details>
 
@@ -651,7 +651,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“For he is capable of delivering even the hosts of gods, O gentle one (sa hi tārayituṃ saumya śaktaḥ suragaṇān api); how much more you, O mighty-armed one, who have fallen under the sway of hunger and thirst (kiṃ punas tvāṃ mahābāho kṣut-pipāsā-vaśaṃ gatam)!”’
+“‘“For he is capable of delivering even the hosts of gods, O gentle one (_sa hi tārayituṃ saumya śaktaḥ suragaṇān api_); how much more you, O mighty-armed one, who have fallen under the sway of hunger and thirst (_kiṃ punas tvāṃ mahābāho kṣut-pipāsā-vaśaṃ gatam_)!”’
 </details>
 </details>
 
@@ -686,7 +686,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that settled decree of the Blessed God of gods (bhagavataḥ śrutvā devadevasya niścayam), O foremost of brahmins, I have been making my own body my censured food (āhāraṃ garhitaṃ kurve sva-śarīram).
+“Hearing that settled decree of the Blessed God of gods (_bhagavataḥ śrutvā devadevasya niścayam_), O foremost of brahmins, I have been making my own body my censured food (_āhāraṃ garhitaṃ kurve sva-śarīram_).
 </details>
 </details>
 
@@ -722,7 +722,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though eaten by me for many multitudes of years, O brahmin (bahūn varṣa-gaṇān brahman bhujyamānam idaṃ mayā), this body never suffers diminution (kṣayaṃ nābhyeti brahmarṣe), and my satiety too is complete (tṛptiś cāpi mamottamā).
+“Though eaten by me for many multitudes of years, O brahmin (_bahūn varṣa-gaṇān brahman bhujyamānam idaṃ mayā_), this body never suffers diminution (_kṣayaṃ nābhyeti brahmarṣe_), and my satiety too is complete (_tṛptiś cāpi mamottamā_).
 </details>
 </details>
 
@@ -748,7 +748,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deliver me, who have fallen into this dire plight, from this affliction (tasya me kṛcchra-bhūtasya kṛcchrād asmād vimocaya)! For no others have access here except the pitcher-born brahmin (anyeṣāṃ na gatir hy atra kumbhayonim ṛte dvijam).
+“Deliver me, who have fallen into this dire plight, from this affliction (_tasya me kṛcchra-bhūtasya kṛcchrād asmād vimocaya_)! For no others have access here except the pitcher-born brahmin (_anyeṣāṃ na gatir hy atra kumbhayonim ṛte dvijam_).
 </details>
 </details>
 
@@ -774,7 +774,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accept this ornament, O gentle and foremost of brahmins, for the sake of my deliverance (idam ābharaṇaṃ saumya tāraṇārthaṃ dvijottama pratigṛhṇīṣva); blessings be upon you—pray show me favor (bhadraṃ te prasādaṃ kartum arhasi)!
+“Accept this ornament, O gentle and foremost of brahmins, for the sake of my deliverance (_idam ābharaṇaṃ saumya tāraṇārthaṃ dvijottama pratigṛhṇīṣva_); blessings be upon you—pray show me favor (_bhadraṃ te prasādaṃ kartum arhasi_)!
 </details>
 </details>
 
@@ -800,7 +800,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this ornament yields gold, wealth, and garments, O twice-born one (idaṃ tāvat suvarṇaṃ ca dhanaṃ vastrāṇi ca dvija), as well as foods both solid and soft, O brahmin-sage, and ornaments besides (bhakṣyaṃ bhojyaṃ ca brahmarṣe dadāty ābharaṇāni ca).”
+“For this ornament yields gold, wealth, and garments, O twice-born one (_idaṃ tāvat suvarṇaṃ ca dhanaṃ vastrāṇi ca dvija_), as well as foods both solid and soft, O brahmin-sage, and ornaments besides (_bhakṣyaṃ bhojyaṃ ca brahmarṣe dadāty ābharaṇāni ca_).”
 </details>
 </details>
 
@@ -834,7 +834,7 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I bestow all desires and every enjoyment, O bull among sages (sarvān kāmān prayacchāmi bhogāṃś ca munipuṅgava); O Blessed Lord, pray show me favor in my deliverance (tāraṇe bhagavan mahyaṃ prasādaṃ kartum arhasi)!’
+“‘I bestow all desires and every enjoyment, O bull among sages (_sarvān kāmān prayacchāmi bhogāṃś ca munipuṅgava_); O Blessed Lord, pray show me favor in my deliverance (_tāraṇe bhagavan mahyaṃ prasādaṃ kartum arhasi_)!’
 </details>
 </details>
 
@@ -860,7 +860,7 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those sorrow-laden words of that celestial dweller (tasyāhaṃ svargiṇo vākyaṃ śrutvā duḥkha-samanvitam), I accepted that most excellent ornament for the sake of his deliverance (tāraṇāyopajagrāha tad ābharaṇam uttamam).
+“Hearing those sorrow-laden words of that celestial dweller (_tasyāhaṃ svargiṇo vākyaṃ śrutvā duḥkha-samanvitam_), I accepted that most excellent ornament for the sake of his deliverance (_tāraṇāyopajagrāha tad ābharaṇam uttamam_).
 </details>
 </details>
 
@@ -886,7 +886,7 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The moment that auspicious ornament was accepted by me (mayā pratigṛhīte tu tasminn ābharaṇe śubhe), the former human body of that royal sage vanished utterly (mānuṣaḥ pūrvako deho rājarṣer vinanāśa ha).
+“The moment that auspicious ornament was accepted by me (_mayā pratigṛhīte tu tasminn ābharaṇe śubhe_), the former human body of that royal sage vanished utterly (_mānuṣaḥ pūrvako deho rājarṣer vinanāśa ha_).
 </details>
 </details>
 
@@ -912,7 +912,7 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And when his body had disappeared (pranaṣṭe tu śarīre), that royal sage—wholly sated and filled with supreme joy (parayā mudā tṛptaḥ pramudito rājā)—ascended happily to heaven (jagāma tridivaṃ sukham).
+“And when his body had disappeared (_pranaṣṭe tu śarīre_), that royal sage—wholly sated and filled with supreme joy (_parayā mudā tṛptaḥ pramudito rājā_)—ascended happily to heaven (_jagāma tridivaṃ sukham_).
 </details>
 </details>
 
@@ -949,6 +949,6 @@ Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By that Indra-like king, O Kākutstha (tenedaṃ śakra-tulyena ... kākutstha), was this divine ornament of wondrous aspect given to me on that occasion (divyam ābharaṇaṃ mama tasmin nimitte ... dattam adbhuta-darśanam).”
+“By that Indra-like king, O Kākutstha (_tenedaṃ śakra-tulyena ... kākutstha_), was this divine ornament of wondrous aspect given to me on that occasion (_divyam ābharaṇaṃ mama tasmin nimitte ... dattam adbhuta-darśanam_).”
 </details>
 </details>

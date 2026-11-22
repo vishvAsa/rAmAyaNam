@@ -77,7 +77,7 @@ arms, Mahodara spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech uttered by the gigantic (atikāya), mighty, and strong-armed Kumbhakarṇa, Mahodara spoke forth:
+Hearing that speech uttered by the gigantic (_atikāya_), mighty, and strong-armed Kumbhakarṇa, Mahodara spoke forth:
 </details>
 </details>
 
@@ -124,7 +124,7 @@ of an ordinary man as also arrogant. You are unable to know the right to be done
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kumbhakarṇa, though born in a noble race, you are insolent (dhṛṣṭa), of vulgar outlook (prākṛtadarśana), and puffed up with pride; you are incapable of discerning what ought to be done in every circumstance.
+“O Kumbhakarṇa, though born in a noble race, you are insolent (_dhṛṣṭa_), of vulgar outlook (_prākṛtadarśana_), and puffed up with pride; you are incapable of discerning what ought to be done in every circumstance.
 </details>
 </details>
 
@@ -172,7 +172,7 @@ talk."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely the king does not fail to know right policy and mispolicy (nayānayau), O Kumbhakarṇa; you, however, rash from mere boyishness (kaiśorakāt), simply wish to prattle.
+Surely the king does not fail to know right policy and mispolicy (_nayānayau_), O Kumbhakarṇa; you, however, rash from mere boyishness (_kaiśorakāt_), simply wish to prattle.
 </details>
 </details>
 
@@ -226,7 +226,7 @@ position of others."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The bull among rākṣasas knows the vital state (sthāna), advancement (vṛddhi), and decline (hāni) both of himself and of his foes, being conversant with the ordinances of place and time.
+The bull among rākṣasas knows the vital state (_sthāna_), advancement (_vṛddhi_), and decline (_hāni_) both of himself and of his foes, being conversant with the ordinances of place and time.
 </details>
 </details>
 
@@ -282,7 +282,7 @@ ordinary intellect, though strong, does not sever his elders?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What wise man would perform such an act as cannot even be spoken of [or: what can be done] by a man of mere brute strength and vulgar intellect (prākṛtabuddhinā), who has never waited upon elders (anupāsitavṛddhena)?
+What wise man would perform such an act as cannot even be spoken of [or: what can be done] by a man of mere brute strength and vulgar intellect (_prākṛtabuddhinā_), who has never waited upon elders (_anupāsitavṛddhena_)?
 </details>
 </details>
 
@@ -336,7 +336,7 @@ things."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And as for Virtue, Wealth, and Pleasure (dharmārthakāmān), which you speak of as resting on separate foundations (pṛthagāśrayān)—there exists no mark (lakṣaṇa) by which to comprehend them by their intrinsic nature alone.
+And as for Virtue, Wealth, and Pleasure (_dharmārthakāmān_), which you speak of as resting on separate foundations (_pṛthagāśrayān_)—there exists no mark (_lakṣaṇa_) by which to comprehend them by their intrinsic nature alone.
 </details>
 </details>
 
@@ -390,7 +390,7 @@ spring up into a fruit of prosperity!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Action (karma) alone is the driving cause of all motivating factors; and here in this world, auspicious result (śreyaḥ) arises even from sinful deeds (pāpīyasāṃ karmaṇām).
+“Action (_karma_) alone is the driving cause of all motivating factors; and here in this world, auspicious result (_śreyaḥ_) arises even from sinful deeds (_pāpīyasāṃ karmaṇām_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ injustice and non-value gain the fruit of offence of omission."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Virtue and Wealth (dharmārthau) have supreme beatitude (niḥśreyasa) as their fruit, yet also the other two [pleasure and worldly prosperity]; whereas from non-virtue and non-wealth (adharmānarthayoḥ) is obtained a fruit consisting in sin and calamity (prātyavāyikam).
+Virtue and Wealth (_dharmārthau_) have supreme beatitude (_niḥśreyasa_) as their fruit, yet also the other two [pleasure and worldly prosperity]; whereas from non-virtue and non-wealth (_adharmānarthayoḥ_) is obtained a fruit consisting in sin and calamity (_prātyavāyikam_).
 </details>
 </details>
 
@@ -501,7 +501,7 @@ enjoys blessing even in this life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Action pertaining both to this world and the next (aihalaukikapārakyaṃ) is practiced by men; yet one who cleave to Pleasure (kāmam āsthitaḥ) likewise obtains auspicious rewards (kalyāṇi karmāṇi).
+Action pertaining both to this world and the next (_aihalaukikapārakyaṃ_) is practiced by men; yet one who cleave to Pleasure (_kāmam āsthitaḥ_) likewise obtains auspicious rewards (_kalyāṇi karmāṇi_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ against the enemy?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In this matter, this undertaking was resolved upon by the king in his heart and approved by us as well; as for bold violence (sāhasa) against an enemy, what fault can be found with it here?
+In this matter, this undertaking was resolved upon by the king in his heart and approved by us as well; as for bold violence (_sāhasa_) against an enemy, what fault can be found with it here?
 </details>
 </details>
 
@@ -615,7 +615,7 @@ encounter, I shall tell you what is irrelevant and not so good."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And as for the reason advanced by you for marching forth all alone (ekasyaivābhiyāne)—there too I shall tell you what is untenable (anupapannaṃ) and unwholesome in your view.
+And as for the reason advanced by you for marching forth all alone (_ekasyaivābhiyāne_)—there too I shall tell you what is untenable (_anupapannaṃ_) and unwholesome in your view.
 </details>
 </details>
 
@@ -722,7 +722,7 @@ staying in the City, but who were earlier conquered by Rama in Janasthana?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you not see today inside the city all those rākṣasas of mighty vigor who were formerly vanquished by him in Janasthāna, still stricken with terror (bhītān)?
+“Do you not see today inside the city all those rākṣasas of mighty vigor who were formerly vanquished by him in Janasthāna, still stricken with terror (_bhītān_)?
 </details>
 </details>
 
@@ -774,7 +774,7 @@ to awaken a serpent, who is sleeping."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing that Rāma, the son of Daśaratha, to be like an enraged lion (siṃham iva saṃkruddhaṃ), alas, you wish to awaken a sleeping serpent (sarpaṃ suptam)!
+Recognizing that Rāma, the son of Daśaratha, to be like an enraged lion (_siṃham iva saṃkruddhaṃ_), alas, you wish to awaken a sleeping serpent (_sarpaṃ suptam_)!
 </details>
 </details>
 
@@ -820,7 +820,7 @@ splendour, dangerous to catch-up and as unbearable as death?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who is capable of approaching him, who blazes perpetually with fiery energy (tejasā) and is unassailable in his wrath, like insufferable Death himself?
+Who is capable of approaching him, who blazes perpetually with fiery energy (_tejasā_) and is unassailable in his wrath, like insufferable Death himself?
 </details>
 </details>
 
@@ -872,7 +872,7 @@ single-handed does not indeed find favour with me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All this [host] stands in grave jeopardy (saṃśayastham) when confronting the enemy at close quarters (pratisamāsane); your going forth alone, dear brother, does not please me in the least.
+All this [host] stands in grave jeopardy (_saṃśayastham_) when confronting the enemy at close quarters (_pratisamāsane_); your going forth alone, dear brother, does not please me in the least.
 </details>
 </details>
 
@@ -925,7 +925,7 @@ enemy, who is rich in advantage and determined to lay down his life, as an ordin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What man of depleted resources (hīnārthaḥ), having resolved upon casting away his life, would seek to bring under his sway, as though he were an ordinary mortal (prākṛtaṃ yathā), an enemy of thriving resources (samṛddhārthaṃ)?
+What man of depleted resources (_hīnārthaḥ_), having resolved upon casting away his life, would seek to bring under his sway, as though he were an ordinary mortal (_prākṛtaṃ yathā_), an enemy of thriving resources (_samṛddhārthaṃ_)?
 </details>
 </details>
 
@@ -971,7 +971,7 @@ with whom none in the human beings is equal and who is equal of Indra and the su
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O best of rākṣasas, how do you hope to fight with one who has no equal among men, and who is the peer of Indra and Vivasvān [the Sun] (tulyenendravivasvatoḥ)?
+O best of rākṣasas, how do you hope to fight with one who has no equal among men, and who is the peer of Indra and Vivasvān [the Sun] (_tulyenendravivasvatoḥ_)?
 </details>
 </details>
 
@@ -1031,7 +1031,7 @@ follows, in the midst of demons, to Ravana, who made the people cry.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to the enraged (saṃrabdhaṃ) Kumbhakarṇa, Mahodara addressed Rāvaṇa, the terrorizer of the worlds (lokarāvaṇam), in the midst of the rākṣasas:
+Having spoken thus to the enraged (_saṃrabdhaṃ_) Kumbhakarṇa, Mahodara addressed Rāvaṇa, the terrorizer of the worlds (_lokarāvaṇam_), in the midst of the rākṣasas:
 </details>
 </details>
 
@@ -1083,7 +1083,7 @@ wish, Seetha will be submissive to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having already obtained Vaidehī beforehand, why do you delay? If you so desire, Sītā will come under your sway (vaśagā te bhaviṣyati) this very day!
+“Having already obtained Vaidehī beforehand, why do you delay? If you so desire, Sītā will come under your sway (_vaśagā te bhaviṣyati_) this very day!
 </details>
 </details>
 
@@ -1138,7 +1138,7 @@ found agreeable to your intellect, then listen to it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A certain stratagem (upāyaḥ) has been devised by me that will cause Sītā to yield herself (sītopasthānakārakaḥ); if it pleases your own judgment, O lord of rākṣasas, then hear it.
+A certain stratagem (_upāyaḥ_) has been devised by me that will cause Sītā to yield herself (_sītopasthānakārakaḥ_); if it pleases your own judgment, O lord of rākṣasas, then hear it.
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ If we conquer your enemies, there is no need for any strategies to us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, going forth, we shall give battle to him with all our effort; if we conquer your enemies, we shall have no need of further stratagems (nopāyaiḥ kāryam asti naḥ).
+Then, going forth, we shall give battle to him with all our effort; if we conquer your enemies, we shall have no need of further stratagems (_nopāyaiḥ kāryam asti naḥ_).
 </details>
 </details>
 
@@ -1289,7 +1289,7 @@ implement the plan which was resolved by us in the mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If, on the other hand, our enemy survives after we have joined battle (kṛtasaṃyugāḥ), then we shall carry out that plan which we have contemplated in our minds.
+If, on the other hand, our enemy survives after we have joined battle (_kṛtasaṃyugāḥ_), then we shall carry out that plan which we have contemplated in our minds.
 </details>
 </details>
 
@@ -1376,9 +1376,9 @@ feet. You fully grant our desire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “We shall return here from the battle drenched in blood (rudhireṇa samukṣitāḥ), having lacerated our own bodies with shafts—arrows engraved with Rāma's name (rāmanāmāṅkitaiḥ śaraiḥ).
+**25:** “We shall return here from the battle drenched in blood (_rudhireṇa samukṣitāḥ_), having lacerated our own bodies with shafts—arrows engraved with Rāma&#x27;s name (_rāmanāmāṅkitaiḥ śaraiḥ_).
 
-**26:** Declaring, ‘Rāghava has been devoured by us, and Lakṣmaṇa too!’, we shall then clasp your feet; do you thereupon fulfill our desire (kāmaṃ prapūraya).
+**26:** Declaring, ‘Rāghava has been devoured by us, and Lakṣmaṇa too!’, we shall then clasp your feet; do you thereupon fulfill our desire (_kāmaṃ prapūraya_).
 </details>
 </details>
 
@@ -1428,7 +1428,7 @@ back of an elephant, that Rama has been killed along with his brother and his ar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, O monarch, have it proclaimed everywhere through the city from the back of an elephant (gajaskandhena): ‘Rāma has been slain along with his brother and his army!’
+Then, O monarch, have it proclaimed everywhere through the city from the back of an elephant (_gajaskandhena_): ‘Rāma has been slain along with his brother and his army!’
 </details>
 </details>
 
@@ -1507,9 +1507,9 @@ gifts to other warriors. Drink yourself delighted."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** Then, feigning delight (prīto nāma tato bhūtvā), O tamer of foes, cause pleasures, retinues (parivārān), desired objects, and gold (vasu) to be lavished upon your servants.
+**28:** Then, feigning delight (_prīto nāma tato bhūtvā_), O tamer of foes, cause pleasures, retinues (_parivārān_), desired objects, and gold (_vasu_) to be lavished upon your servants.
 
-**29:** Then [bestow] garlands, garments, and unguents (anulepanam) for the heroes, and abundant drink (peyaṃ ca bahu) for the warriors; and do you yourself, rejoicing, quaff [wine]!
+**29:** Then [bestow] garlands, garments, and unguents (_anulepanam_) for the heroes, and abundant drink (_peyaṃ ca bahu_) for the warriors; and do you yourself, rejoicing, quaff [wine]!
 </details>
 </details>
 
@@ -1581,9 +1581,9 @@ tones."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** Then, when this rumor (kaulīne) has spread widely and gone everywhere, and it becomes famously reported: ‘Rāma, together with his allies, has been devoured by the rākṣasas!’—
+**30:** Then, when this rumor (_kaulīne_) has spread widely and gone everywhere, and it becomes famously reported: ‘Rāma, together with his allies, has been devoured by the rākṣasas!’—
 
-**31:** —then, entering in secret (rahasi), consoling and comforting Sītā, do you allure her with wealth and grain, with pleasures, and with jewels (ratnaiś caināṃ pralobhaya).
+**31:** —then, entering in secret (_rahasi_), consoling and comforting Sītā, do you allure her with wealth and grain, with pleasures, and with jewels (_ratnaiś caināṃ pralobhaya_).
 </details>
 </details>
 
@@ -1638,7 +1638,7 @@ husband, will submit reluctantly to your will."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By this deceitful trick (anayopadhayā), O king, which brings renewed grief in its train (bhūyaḥ śokānubandhayā), Sītā, believing her lord destroyed (naṣṭanāthā), will come under your sway even against her will (akāmā).
+By this deceitful trick (_anayopadhayā_), O king, which brings renewed grief in its train (_bhūyaḥ śokānubandhayā_), Sītā, believing her lord destroyed (_naṣṭanāthā_), will come under your sway even against her will (_akāmā_).
 </details>
 </details>
 
@@ -1690,7 +1690,7 @@ feminine feeling of flexibility, will come to your will."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning that her delightful (ramaṇīyaṃ) husband has perished, out of utter hopelessness (nairāśyāt) and womanly frailty (strīlaghutvāc ca) she will submit to your control.
+Learning that her delightful (_ramaṇīyaṃ_) husband has perished, out of utter hopelessness (_nairāśyāt_) and womanly frailty (_strīlaghutvāc ca_) she will submit to your control.
 </details>
 </details>
 
@@ -1743,7 +1743,7 @@ grief, knowing that her happiness depends on you, will by all means come near to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She who was formerly reared in luxury (sukhasaṃvṛddhā), worthy of happiness yet wasted by sorrow (duḥkhakarśitā), perceiving that her happiness rests entirely with you, will yield to you in every way.
+She who was formerly reared in luxury (_sukhasaṃvṛddhā_), worthy of happiness yet wasted by sorrow (_duḥkhakarśitā_), perceiving that her happiness rests entirely with you, will yield to you in every way.
 </details>
 </details>
 
@@ -1801,7 +1801,7 @@ benefit of happiness. Do not become restless."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This is wise policy (sunītaṃ) in my judgment, for merely upon seeing Rāma calamity would ensue; do not be eager [for battle]—right here, without fighting (ayuddhena), you will achieve a great gain of happiness!
+This is wise policy (_sunītaṃ_) in my judgment, for merely upon seeing Rāma calamity would ensue; do not be eager [for battle]—right here, without fighting (_ayuddhena_), you will achieve a great gain of happiness!
 </details>
 </details>
 
@@ -1873,6 +1873,6 @@ glory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A monarch who conquers his foe without battle, his army unharmed (anaṣṭasainyaḥ) and himself untouched by peril (anavāptasaṃśayaḥ), enjoys for a long time great renown, merit, fortune, and glory, O lord of earth!”
+A monarch who conquers his foe without battle, his army unharmed (_anaṣṭasainyaḥ_) and himself untouched by peril (_anavāptasaṃśayaḥ_), enjoys for a long time great renown, merit, fortune, and glory, O lord of earth!”
 </details>
 </details>

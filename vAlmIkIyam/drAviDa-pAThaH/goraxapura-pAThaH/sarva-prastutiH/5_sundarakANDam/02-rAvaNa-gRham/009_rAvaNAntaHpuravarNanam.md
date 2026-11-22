@@ -113,9 +113,9 @@ Yojana tall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** In the midst of that foremost of abodes (ālayavariṣṭhasya), Hanumān, son of the Wind-god (mārutātmajaḥ), beheld a spotless, expansive, and supreme mansion (bhavanaśreṣṭham).
+**1:** In the midst of that foremost of abodes (_ālayavariṣṭhasya_), Hanumān, son of the Wind-god (_mārutātmajaḥ_), beheld a spotless, expansive, and supreme mansion (_bhavanaśreṣṭham_).
 
-**2:** Half a yojana in breadth (ardhayojanavistīrṇam) and a full yojana in length, that great mansion of the lord of rākṣasas was thronged with numerous palatial towers (bahuprāsādasaṃkulam).
+**2:** Half a _yojana_ in breadth (_ardhayojanavistīrṇam_) and a full _yojana_ in length, that great mansion of the lord of _rākṣasas_ was thronged with numerous palatial towers (_bahuprāsādasaṃkulam_).
 </details>
 </details>
 
@@ -170,7 +170,7 @@ Seetha the wide eyed daughter of King of Videha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeking (mārgamāṇaḥ) large-eyed Sītā, princess of Videha (vaidehīm), Hanumān, slayer of foes (arisūdanaḥ), roamed all around (sarvataḥ paricakrāma).
+Seeking (_mārgamāṇaḥ_) large-eyed Sītā, princess of Videha (_vaidehīm_), Hanumān, slayer of foes (_arisūdanaḥ_), roamed all around (_sarvataḥ paricakrāma_).
 </details>
 </details>
 
@@ -201,7 +201,7 @@ Seeking (mārgamāṇaḥ) large-eyed Sītā, princess of Videha (vaidehīm), Ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon (avalokayan) the finest residential quarter of the rākṣasas (uttamaṃ rākṣasāvāsam), the glorious Hanumān (lakṣmīvān) then reached the personal residence of the lord of rākṣasas (rākṣasendraniveśanam).
+Gazing upon (_avalokayan_) the finest residential quarter of the _rākṣasas_ (_uttamaṃ rākṣasāvāsam_), the glorious Hanumān (_lakṣmīvān_) then reached the personal residence of the lord of _rākṣasas_ (_rākṣasendraniveśanam_).
 </details>
 </details>
 
@@ -253,7 +253,7 @@ weapons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was surrounded (parikṣiptam) by four-tusked elephants (caturviṣāṇair dviradaiḥ) and likewise by three-tusked ones (triviṣāṇaiḥ), uncrowded (asambādham), and guarded by warriors with upraised weapons (udāyudhaiḥ).
+It was surrounded (_parikṣiptam_) by four-tusked elephants (_caturviṣāṇair dviradaiḥ_) and likewise by three-tusked ones (_triviṣāṇaiḥ_), uncrowded (_asambādham_), and guarded by warriors with upraised weapons (_udāyudhaiḥ_).
 </details>
 </details>
 
@@ -284,7 +284,7 @@ It was surrounded (parikṣiptam) by four-tusked elephants (caturviṣāṇair d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That residence of Rāvaṇa was filled (āvṛtam) with rākṣasī wives (rākṣasībhiś ca patnībhiḥ) and with royal princesses (rājakanyābhiḥ) who had been forcibly abducted (āhṛtābhiś ca vikramya).
+That residence of Rāvaṇa was filled (_āvṛtam_) with _rākṣasī_ wives (_rākṣasībhiś ca patnībhiḥ_) and with royal princesses (_rājakanyābhiḥ_) who had been forcibly abducted (_āhṛtābhiś ca vikramya_).
 </details>
 </details>
 
@@ -342,7 +342,7 @@ moved by the speed of wind, and together with serpants.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld that mansion,] which—like the ocean (sāgaram iva) teeming with crocodiles and makaras (nakramakarākīrṇam), crowded with timiṅgilas and fishes, andlashed by the speed of the wind (vāyuvegasamādhūtam)—was thronged with serpents (pannagaiḥ).
+[He beheld that mansion,] which—like the ocean (_sāgaram iva_) teeming with crocodiles and _makaras_ (_nakramakarākīrṇam_), crowded with _timiṅgilas_ and fishes, andlashed by the speed of the wind (_vāyuvegasamādhūtam_)—was thronged with serpents (_pannagaiḥ_).
 </details>
 </details>
 
@@ -398,7 +398,7 @@ affluence was at Ravana's house. That wealth was always without reduction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For whatever splendor (lakṣmīḥ) abides in Vaiśravaṇa [Kubera], and whatever in the Moon (candre) or in [Indra] of the bay steeds (harivāhane), that lovely splendor dwelt ever-unfailing (nityam evānapāyinī) in Rāvaṇa's house.
+For whatever splendor (_lakṣmīḥ_) abides in Vaiśravaṇa [Kubera], and whatever in the Moon (_candre_) or in [Indra] of the bay steeds (_harivāhane_), that lovely splendor dwelt ever-unfailing (_nityam evānapāyinī_) in Rāvaṇa&#x27;s house.
 </details>
 </details>
 
@@ -450,7 +450,7 @@ same fortune or even greater treasure was at this house of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And whatever opulence (ṛddhiḥ) belongs to King Kubera, to Yama, and to Varuṇa—such opulence, or even surpassing that (tadviśiṣṭā vā), existed here in the mansions of the rākṣasas (rakṣogṛheṣv iha).
+And whatever opulence (_ṛddhiḥ_) belongs to King Kubera, to Yama, and to Varuṇa—such opulence, or even surpassing that (_tadviśiṣṭā vā_), existed here in the mansions of the _rākṣasas_ (_rakṣogṛheṣv iha_).
 </details>
 </details>
 
@@ -505,7 +505,7 @@ many elephants in rut.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And set in the center of that palace (tasya harmyasya madhyastham), the son of the Wind-god beheld another exquisitely fashioned mansion (veśma cānyat sunirmitam), furnished with numerous projecting turrets (bahuniryūhasaṃyuktam).
+And set in the center of that palace (_tasya harmyasya madhyastham_), the son of the Wind-god beheld another exquisitely fashioned mansion (_veśma cānyat sunirmitam_), furnished with numerous projecting turrets (_bahuniryūhasaṃyuktam_).
 </details>
 </details>
 
@@ -536,7 +536,7 @@ And set in the center of that palace (tasya harmyasya madhyastham), the son of t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That celestial aerial palace named Puṣpaka (vimānaṃ puṣpakaṃ nāma), adorned with every gem (sarvaratnavibhūṣitam), which had been fashioned in heaven by Viśvakarman (viśvakarmaṇā) for Brahmā (brahmaṇo'rthe)—
+That celestial aerial palace named _Puṣpaka_ (_vimānaṃ puṣpakaṃ nāma_), adorned with every gem (_sarvaratnavibhūṣitam_), which had been fashioned in heaven by Viśvakarman (_viśvakarmaṇā_) for Brahmā (_brahmaṇo&#x27;rthe_)—
 </details>
 </details>
 
@@ -587,7 +587,7 @@ great austerity from Lord Brahma, Ravana obtained that plane by prowess defeatin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Which Kubera had won from the Grandsire (pitāmahāt) through supreme austerity (pareṇa tapasā), the lord of rākṣasas (rākṣaseśvaraḥ) won by conquering Kubera through his might (ojasā jitvā).
+Which Kubera had won from the Grandsire (_pitāmahāt_) through supreme austerity (_pareṇa tapasā_), the lord of _rākṣasas_ (_rākṣaseśvaraḥ_) won by conquering Kubera through his might (_ojasā jitvā_).
 </details>
 </details>
 
@@ -626,7 +626,7 @@ Fashioned by Viśvakarman with golden pillars, sky-scraping turrets, lattice win
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Set with well-wrought pillars (sukṛtair ācitaṃ stambhaiḥ) of gold and silver (kārtasvarahiraṇmayaiḥ) joined with sculpted figures of īhāmṛga wolves (īhāmṛgasamāyuktaiḥ), it seemed ablaze with splendor (pradīptam iva ca śriyā).
+Set with well-wrought pillars (_sukṛtair ācitaṃ stambhaiḥ_) of gold and silver (_kārtasvarahiraṇmayaiḥ_) joined with sculpted figures of _īhāmṛga_ wolves (_īhāmṛgasamāyuktaiḥ_), it seemed ablaze with splendor (_pradīptam iva ca śriyā_).
 </details>
 </details>
 
@@ -680,7 +680,7 @@ and Mount Mandara, as though touching the sky with an auspicious shape.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was adorned on all sides (sarvataḥ samalaṃkṛtam) with peaked turret-chambers (kūṭāgāraiḥ) and auspicious halls (śubhāgāraiḥ) resembling Meru and Mandara (merumandarasaṃkāśaiḥ), as though scraping the sky (ullikhadbhir ivāmbaram).
+It was adorned on all sides (_sarvataḥ samalaṃkṛtam_) with peaked turret-chambers (_kūṭāgāraiḥ_) and auspicious halls (_śubhāgāraiḥ_) resembling Meru and Mandara (_merumandarasaṃkāśaiḥ_), as though scraping the sky (_ullikhadbhir ivāmbaram_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ made of gold and with beautiful and best platforms;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wondrously fashioned by Viśvakarman (sukṛtaṃ viśvakarmaṇā) [with structures] shining like fire and the sun (jvalanārkapratīkāśaiḥ), it possessed golden staircases (hemasopānayuktam) and lovely, exalted dais-platforms (cārupravaravedikam).
+Wondrously fashioned by Viśvakarman (_sukṛtaṃ viśvakarmaṇā_) [with structures] shining like fire and the sun (_jvalanārkapratīkāśaiḥ_), it possessed golden staircases (_hemasopānayuktam_) and lovely, exalted dais-platforms (_cārupravaravedikam_).
 </details>
 </details>
 
@@ -787,7 +787,7 @@ platforms made of sapphires and emeralds;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-It was furnished with lattice-windows and air-vents (jālavātāyanair yuktam) of gold and crystal (kāñcanaiḥ sphāṭikair api), and had exalted dais-platforms of indranīla and mahānīla sapphires (indranīlamahānīlamaṇipravaravedikam).
+It was furnished with lattice-windows and air-vents (_jālavātāyanair yuktam_) of gold and crystal (_kāñcanaiḥ sphāṭikair api_), and had exalted dais-platforms of _indranīla_ and _mahānīla_ sapphires (_indranīlamahānīlamaṇipravaravedikam_).
 </details>
 </details>
 
@@ -839,7 +839,7 @@ great value, with pearls without comparison;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With variegated coral (vidrumeṇa vicitreṇa), costly gems (maṇibhiś ca mahādhanaiḥ), and peerless pearls (nistulābhiś ca muktābhiḥ), it shone resplendent across its inlaid floor (talenābhivirājitam).
+With variegated coral (_vidrumeṇa vicitreṇa_), costly gems (_maṇibhiś ca mahādhanaiḥ_), and peerless pearls (_nistulābhiś ca muktābhiḥ_), it shone resplendent across its inlaid floor (_talenābhivirājitam_).
 </details>
 </details>
 
@@ -884,7 +884,7 @@ brilliant like the Sun at noon;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with red sandalwood (candanena ca raktena) gleaming like refined gold (tapanīyanibhena ca) and of most sacred fragrance (supuṇyagandhinā), it resembled the newly risen sun (ādityataruṇopamam).
+Endowed with red sandalwood (_candanena ca raktena_) gleaming like refined gold (_tapanīyanibhena ca_) and of most sacred fragrance (_supuṇyagandhinā_), it resembled the newly risen sun (_ādityataruṇopamam_).
 </details>
 </details>
 
@@ -951,7 +951,7 @@ decorated by rows of upper floors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The great monkey ascended (āruroha) that celestial Puṣpaka aerial palace, adorned with diverse turrets of exquisite form (kūṭāgārair varākāraiḥ); standing there (tatrasthaḥ), [he smelled] on all sides the aroma born of drinks, viands, and food (pānabhakṣyānnasambhavam)—
+The great monkey ascended (_āruroha_) that celestial _Puṣpaka_ aerial palace, adorned with diverse turrets of exquisite form (_kūṭāgārair varākāraiḥ_); standing there (_tatrasthaḥ_), [he smelled] on all sides the aroma born of drinks, viands, and food (_pānabhakṣyānnasambhavam_)—
 </details>
 </details>
 
@@ -1009,7 +1009,7 @@ appearance, created from drinks and foods, including cooked rice diffused on all
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Inhaling (jighran) that divine, pervasive fragrance (divyaṃ sammūrcchitam), as though inhaling the wind itself endowed with visible form (rūpavantam ivānilam); and that fragrance, like a kinsman welcoming an exalted kinsman (bandhur bandhum ivottamam),
+Inhaling (_jighran_) that divine, pervasive fragrance (_divyaṃ sammūrcchitam_), as though inhaling the wind itself endowed with visible form (_rūpavantam ivānilam_); and that fragrance, like a kinsman welcoming an exalted kinsman (_bandhur bandhum ivottamam_),
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ relative to a best relative pointing to there wherever that Ravana was.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seemed to say (uvāceva) to that hero of great spirit, ‘Come hither!’ (ita ehīti) toward the place where Rāvaṇa lay (yatra sa rāvaṇaḥ). Setting forth thither (prasthitaḥ), he then beheld that great, auspicious hall (śālāṃ dadarśa mahatīṃ śivām)—
+Seemed to say (_uvāceva_) to that hero of great spirit, ‘Come hither!’ (_ita ehīti_) toward the place where Rāvaṇa lay (_yatra sa rāvaṇaḥ_). Setting forth thither (_prasthitaḥ_), he then beheld that great, auspicious hall (_śālāṃ dadarśa mahatīṃ śivām_)—
 </details>
 </details>
 
@@ -1144,9 +1144,9 @@ windows, with a floor embellished with crystal, with shapes made from ivory in t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Dearly beloved of Rāvaṇa (rāvaṇasya mahākāntām), like a lovely and noble woman (kāntām iva varastriyam), exquisitely fashioned with jeweled staircases (maṇisopānavikṛtām) and resplendent with golden lattices (hemajālavirājitām),
+**22:** Dearly beloved of Rāvaṇa (_rāvaṇasya mahākāntām_), like a lovely and noble woman (_kāntām iva varastriyam_), exquisitely fashioned with jeweled staircases (_maṇisopānavikṛtām_) and resplendent with golden lattices (_hemajālavirājitām_),
 
-**23:** Its floor paved with crystals (sphāṭikair āvṛtatalām), its decorative figures inlaid at intervals with ivory (dantāntaritarūpikām), and [adorned] with pearls, diamonds, and corals (muktāvajrapravālaiś ca) as well as silver and gold (rūpyacāmīkarair api),
+**23:** Its floor paved with crystals (_sphāṭikair āvṛtatalām_), its decorative figures inlaid at intervals with ivory (_dantāntaritarūpikām_), and [adorned] with pearls, diamonds, and corals (_muktāvajrapravālaiś ca_) as well as silver and gold (_rūpyacāmīkarair api_),
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ studded pillars and also decorated with many pillars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with jeweled pillars (vibhūṣitāṃ maṇistambhaiḥ) and graced with numerous subordinate columns (subahustambhabhūṣitām)—symmetrical, straight, exceedingly lofty (samair ṛjubhir atyuccaiḥ), and richly ornamented on every side.
+Adorned with jeweled pillars (_vibhūṣitāṃ maṇistambhaiḥ_) and graced with numerous subordinate columns (_subahustambhabhūṣitām_)—symmetrical, straight, exceedingly lofty (_samair ṛjubhir atyuccaiḥ_), and richly ornamented on every side.
 </details>
 </details>
 
@@ -1257,7 +1257,7 @@ all over, that hall was as though starting for sky with very high wings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its exceedingly lofty pillars like wings (stambhaiḥ pakṣair ivātyuccaiḥ), [that hall] seemed ready to soar into heaven (divaṃ samprasthitām iva), and was spread with a vast carpet (mahatyā kuthayāstīrṇām) marked with the emblems of the earth (pṛthivīlakṣaṇāṅkayā)—
+With its exceedingly lofty pillars like wings (_stambhaiḥ pakṣair ivātyuccaiḥ_), [that hall] seemed ready to soar into heaven (_divaṃ samprasthitām iva_), and was spread with a vast carpet (_mahatyā kuthayāstīrṇām_) marked with the emblems of the earth (_pṛthivīlakṣaṇāṅkayā_)—
 </details>
 </details>
 
@@ -1315,7 +1315,7 @@ and rows of houses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Expansive like the earth itself (pṛthivīm iva vistīrṇām) graced with realms and mansions (sarāṣṭragṛhaśālinīm), resonant with intoxicated birds (nāditāṃ mattavihagaiḥ), and perfumed with celestial fragrances (divyagandhādhivāsitām),
+Expansive like the earth itself (_pṛthivīm iva vistīrṇām_) graced with realms and mansions (_sarāṣṭragṛhaśālinīm_), resonant with intoxicated birds (_nāditāṃ mattavihagaiḥ_), and perfumed with celestial fragrances (_divyagandhādhivāsitām_),
 </details>
 </details>
 
@@ -1370,7 +1370,7 @@ best tapestries and inhabited by the king of rakshasas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Furnished with priceless couches and coverings (parārdhyāstaraṇopetām), frequented by the lord of rākṣasas (rakṣo'dhipaniṣevitām), dusky with aloeswood incense (dhūmrām agurudhūpena), yet spotless and white as a swan (vimalāṃ haṃsapāṇḍurām),
+Furnished with priceless couches and coverings (_parārdhyāstaraṇopetām_), frequented by the lord of _rākṣasas_ (_rakṣo&#x27;dhipaniṣevitām_), dusky with aloeswood incense (_dhūmrām agurudhūpena_), yet spotless and white as a swan (_vimalāṃ haṃsapāṇḍurām_),
 </details>
 </details>
 
@@ -1425,7 +1425,7 @@ wonderful by the decoration of flowers, like divine cow with a great radiance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Variegated with offerings of leaves and flowers (patrapuṣpopahāreṇa) and radiant like the wish-yielding cow Kalmāṣī (kalmāṣīm iva suprabhām), bringing delight to the mind (manaso modajananīm) and enhancing the luster of the complexion (varṇasyāpi prasādhinīm).
+Variegated with offerings of leaves and flowers (_patrapuṣpopahāreṇa_) and radiant like the wish-yielding cow Kalmāṣī (_kalmāṣīm iva suprabhām_), bringing delight to the mind (_manaso modajananīm_) and enhancing the luster of the complexion (_varṇasyāpi prasādhinīm_).
 </details>
 </details>
 
@@ -1481,7 +1481,7 @@ destroying sorrow and was as though producing prosperity.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld] that celestial hall, dispeller of sorrow (śokanāśinīm), like the very generator of fortune (śriyaḥ saṃjananīm iva). And with the five supreme sense-objects (indriyārthais tu pañcabhir uttamaiḥ), [that hall] gratified the five senses (indriyāṇi pañca)—
+[He beheld] that celestial hall, dispeller of sorrow (_śokanāśinīm_), like the very generator of fortune (_śriyaḥ saṃjananīm iva_). And with the five supreme sense-objects (_indriyārthais tu pañcabhir uttamaiḥ_), [that hall] gratified the five senses (_indriyāṇi pañca_)—
 </details>
 </details>
 
@@ -1538,7 +1538,7 @@ sensory organs with all the excellent five objects of the senses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a mother (māteva), protected as it then was by Rāvaṇa (tadā rāvaṇapālitā). ‘This must be heaven (svargo'yam), this the world of the gods (devaloko'yam), or the city of Indra himself (indrasyāpi purī bhavet), or else the supreme perfection (siddhir veyam parā)!’—thus thought Māruti.
+Like a mother (_māteva_), protected as it then was by Rāvaṇa (_tadā rāvaṇapālitā_). ‘This must be heaven (_svargo&#x27;yam_), this the world of the gods (_devaloko&#x27;yam_), or the city of Indra himself (_indrasyāpi purī bhavet_), or else the supreme perfection (_siddhir veyam parā_)!’—thus thought Māruti.
 </details>
 </details>
 
@@ -1595,7 +1595,7 @@ city of Indra. This might be the result of a great austerity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld golden lamps (pradīpāṃs tatra kāñcanān) that seemed sunk in brooding meditation (pradhyāyata ivāpaśyat), like gamblers defeated at dice by master-gamblers (dhūrtān iva mahādhūrtair devanena parājitān).
+There he beheld golden lamps (_pradīpāṃs tatra kāñcanān_) that seemed sunk in brooding meditation (_pradhyāyata ivāpaśyat_), like gamblers defeated at dice by master-gamblers (_dhūrtān iva mahādhūrtair devanena parājitān_).
 </details>
 </details>
 
@@ -1630,7 +1630,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the radiance of the lamps (dīpānāṃ ca prakāśena), the fierysplendor of Rāvaṇa (tejasā rāvaṇasya ca), and the gleams of ornaments (arcirbhir bhūṣaṇānāṃ ca), he deemed that hall to be ablaze (pradīptety abhyamanyata).
+With the radiance of the lamps (_dīpānāṃ ca prakāśena_), the fierysplendor of Rāvaṇa (_tejasā rāvaṇasya ca_), and the gleams of ornaments (_arcirbhir bhūṣaṇānāṃ ca_), he deemed that hall to be ablaze (_pradīptety abhyamanyata_).
 </details>
 </details>
 
@@ -1698,7 +1698,7 @@ of Ravana and also due to the radiance of jewellery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he beheld a thousand noble women (sahasraṃ varanārīṇām) reclining upon the carpet (kuthāsīnam), wearing garments and garlands of manifold hues (nānāvarṇāmbarasrajam) and adorned in diverse attire (nānāveṣavibhūṣitam).
+Then he beheld a thousand noble women (_sahasraṃ varanārīṇām_) reclining upon the carpet (_kuthāsīnam_), wearing garments and garlands of manifold hues (_nānāvarṇāmbarasrajam_) and adorned in diverse attire (_nānāveṣavibhūṣitam_).
 </details>
 </details>
 
@@ -1749,7 +1749,7 @@ various colours and decorated in a variety of ways.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When midnight had passed (parivṛtte'rdharātre tu), overcome by the stupor of drink and sleep (pānanidrāvaśaṃgatam) after ceasing from nocturnal sport (krīḍitvoparataṃ rātrau), that company lay deeply asleep (prasuptaṃ balavat tadā).
+When midnight had passed (_parivṛtte&#x27;rdharātre tu_), overcome by the stupor of drink and sleep (_pānanidrāvaśaṃgatam_) after ceasing from nocturnal sport (_krīḍitvoparataṃ rātrau_), that company lay deeply asleep (_prasuptaṃ balavat tadā_).
 </details>
 </details>
 
@@ -1784,7 +1784,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned within by hushed ornaments (niḥśabdāntarabhūṣitam), that sleeping company shone (tat prasuptaṃ viruruce) like a vast lotus-grove (yathā padmavanaṃ mahat) whose swans and bees have fallen silent (niḥśabdahaṃsabhramaram).
+Adorned within by hushed ornaments (_niḥśabdāntarabhūṣitam_), that sleeping company shone (_tat prasuptaṃ viruruce_) like a vast lotus-grove (_yathā padmavanaṃ mahat_) whose swans and bees have fallen silent (_niḥśabdahaṃsabhramaram_).
 </details>
 </details>
 
@@ -1852,7 +1852,7 @@ like a great park of lotuses with calm swans and bees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Māruti beheld the lotus-fragrant faces (padmagandhīni vadanāni) of those fair women (suyoṣitām), their teeth concealed [behind closed lips] (saṃvṛtadāntāni) and their eyes closed (mīlitākṣīṇi).
+Māruti beheld the lotus-fragrant faces (_padmagandhīni vadanāni_) of those fair women (_suyoṣitām_), their teeth concealed [behind closed lips] (_saṃvṛtadāntāni_) and their eyes closed (_mīlitākṣīṇi_).
 </details>
 </details>
 
@@ -1912,7 +1912,7 @@ and with lotus fragrance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having been like wide-awake lotuses (prabuddhānīva padmāni) at the close of night (kṣapākṣaye), their [faces] now in the night (rātrau) shone once more like lotuses with folded petals (saṃvṛtapatrāṇīva babhus tadā).
+Having been like wide-awake lotuses (_prabuddhānīva padmāni_) at the close of night (_kṣapākṣaye_), their [faces] now in the night (_rātrau_) shone once more like lotuses with folded petals (_saṃvṛtapatrāṇīva babhus tadā_).
 </details>
 </details>
 
@@ -1968,9 +1968,9 @@ faces like lotuses in blossom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** ‘Surely intoxicated bees (niyataṃ mattaṣaṭpadāḥ) seek these lotus-faces (imāni mukhapadmāni) again and again (punaḥ punaḥ), just as they do full-blown water-lotuses (ambujānīva phullāni)!’
+**38:** ‘Surely intoxicated bees (_niyataṃ mattaṣaṭpadāḥ_) seek these lotus-faces (_imāni mukhapadmāni_) again and again (_punaḥ punaḥ_), just as they do full-blown water-lotuses (_ambujānīva phullāni_)!’
 
-**39:** Thus the glorious great monkey (śrīmān mahākapiḥ) reflected with sound reasoning (upapattyā), for by their excellences (guṇataḥ) he judged those [faces] equal to water-born lotuses (samāni salilodbhavaiḥ).
+**39:** Thus the glorious great monkey (_śrīmān mahākapiḥ_) reflected with sound reasoning (_upapattyā_), for by their excellences (_guṇataḥ_) he judged those [faces] equal to water-born lotuses (_samāni salilodbhavaiḥ_).
 </details>
 </details>
 
@@ -2039,7 +2039,7 @@ thus "Those faces equal lotuses by their qualities such as beauty, fragrance, an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Radiant with those women (tābhiḥ strībhir virājitā), that hall of his shone (sā tasya śuśubhe śālā) like the clear sky in autumn (śaradīva prasannā dyauḥ) resplendent with stars (tārābhir abhiśobhitā).
+Radiant with those women (_tābhiḥ strībhir virājitā_), that hall of his shone (_sā tasya śuśubhe śālā_) like the clear sky in autumn (_śaradīva prasannā dyauḥ_) resplendent with stars (_tārābhir abhiśobhitā_).
 </details>
 </details>
 
@@ -2092,7 +2092,7 @@ sky in autumn shone by stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And surrounded by those women (tābhiḥ parivṛtaḥ), that lord of rākṣasas shone (śuśubhe rākṣasādhipaḥ) just like the glorious lord of stars [the Moon] (yathā hy uḍupatiḥ śrīmān) encircled by stars (tārābhir iva saṃvṛtaḥ).
+And surrounded by those women (_tābhiḥ parivṛtaḥ_), that lord of _rākṣasas_ shone (_śuśubhe rākṣasādhipaḥ_) just like the glorious lord of stars [the Moon] (_yathā hy uḍupatiḥ śrīmān_) encircled by stars (_tārābhir iva saṃvṛtaḥ_).
 </details>
 </details>
 
@@ -2148,7 +2148,7 @@ surrounded by stars.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Those stars that fall from the sky (yāś cyavante'mbarāt tārāḥ) when the remnant of their merit is exhausted (puṇyaśeṣasamāvṛtāḥ)—all of them have gathered here together (imās tāḥ saṃgatāḥ kṛtsnāḥ)!’—so the monkey thought at that time.
+‘Those stars that fall from the sky (_yāś cyavante&#x27;mbarāt tārāḥ_) when the remnant of their merit is exhausted (_puṇyaśeṣasamāvṛtāḥ_)—all of them have gathered here together (_imās tāḥ saṃgatāḥ kṛtsnāḥ_)!’—so the monkey thought at that time.
 </details>
 </details>
 
@@ -2209,7 +2209,7 @@ down from the sky, all those meteors had been together as these women".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The luster, complexion, and serene loveliness (prabhāvarṇaprasādāś ca) of those women shone forth there most distinctly (suvvyaktaṃ virejuḥ), like those of great, auspiciously gleaming stars (tārāṇām iva mahatīnāṃ śubhārciṣām).
+The luster, complexion, and serene loveliness (_prabhāvarṇaprasādāś ca_) of those women shone forth there most distinctly (_suvvyaktaṃ virejuḥ_), like those of great, auspiciously gleaming stars (_tārāṇām iva mahatīnāṃ śubhārciṣām_).
 </details>
 </details>
 
@@ -2264,7 +2264,7 @@ which emitted an auspicious radience.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their tresses and thick garlands disheveled (vyāvṛttakacapīnasrak-) and their choice ornaments scattered (-prakīrṇavarabhūṣaṇāḥ), their minds had been overcome by sleep (nidropahatacetasaḥ) during the hours of drink and amorous sport (pānavyāyāmakāleṣu).
+With their tresses and thick garlands disheveled (_vyāvṛttakacapīnasrak-_) and their choice ornaments scattered (_-prakīrṇavarabhūṣaṇāḥ_), their minds had been overcome by sleep (_nidropahatacetasaḥ_) during the hours of drink and amorous sport (_pānavyāyāmakāleṣu_).
 </details>
 </details>
 
@@ -2298,7 +2298,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some of those peerless women (paramayoṣitaḥ) had their forehead-marks smudged (vyāvṛttatilakāḥ kāścit), some had their anklets slipped out of place (kāścid udbhrāntanūpurāḥ), and some had their pearl necklaces fallen to one side (pārśve galitahārāś ca).
+Some of those peerless women (_paramayoṣitaḥ_) had their forehead-marks smudged (_vyāvṛttatilakāḥ kāścit_), some had their anklets slipped out of place (_kāścid udbhrāntanūpurāḥ_), and some had their pearl necklaces fallen to one side (_pārśve galitahārāś ca_).
 </details>
 </details>
 
@@ -2342,7 +2342,7 @@ anklets, became with necklaces fallen off to side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Others had their pearl necklaces snapped (muktāhāravṛtāś cānyāḥ), some had their garments slipped (kāścit prasrastavāsasaḥ), and with their girdle-strands loosened (vyāviddharaśanādāmāḥ), they lay like unburdened young mares (kiśorya iva vāhitāḥ).
+Others had their pearl necklaces snapped (_muktāhāravṛtāś cānyāḥ_), some had their garments slipped (_kāścit prasrastavāsasaḥ_), and with their girdle-strands loosened (_vyāviddharaśanādāmāḥ_), they lay like unburdened young mares (_kiśorya iva vāhitāḥ_).
 </details>
 </details>
 
@@ -2392,7 +2392,7 @@ waist ornaments (and) resembled young female horses who had walked long.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And others, bereft of their earrings (akuṇḍaladharāś cānyāḥ) and with their garlands torn and crushed (vicchinnamṛditasrajaḥ), looked like blossoming creepers in a great forest (phullā latā iva mahāvane) trampled by lordly elephants (gajendramṛditāḥ).
+And others, bereft of their earrings (_akuṇḍaladharāś cānyāḥ_) and with their garlands torn and crushed (_vicchinnamṛditasrajaḥ_), looked like blossoming creepers in a great forest (_phullā latā iva mahāvane_) trampled by lordly elephants (_gajendramṛditāḥ_).
 </details>
 </details>
 
@@ -2462,7 +2462,7 @@ resembled creepers, tread upon by an elephant in a big forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And upon the space between the breasts of some women (stanamadhyeṣu yoṣitām), rising pearl necklaces (hārāḥ kāsāṃcid udgatāḥ) radiant as moonbeams (candrāṃśukiraṇābhāś ca) shone like sleeping swans (haṃsā iva babhuḥ suptāḥ).
+And upon the space between the breasts of some women (_stanamadhyeṣu yoṣitām_), rising pearl necklaces (_hārāḥ kāsāṃcid udgatāḥ_) radiant as moonbeams (_candrāṃśukiraṇābhāś ca_) shone like sleeping swans (_haṃsā iva babhuḥ suptāḥ_).
 </details>
 </details>
 
@@ -2523,7 +2523,7 @@ other women shone like sleeping swans.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The cat's-eye necklaces (vaidūryāḥ) of other women looked like kādamba waterbirds (kādambā iva pakṣiṇaḥ), and the golden chains (hemasūtrāṇi) of still others became like ruddy cakravāka birds (cakravākā ivābhavan).
+The cat&#x27;s-eye necklaces (_vaidūryāḥ_) of other women looked like _kādamba_ waterbirds (_kādambā iva pakṣiṇaḥ_), and the golden chains (_hemasūtrāṇi_) of still others became like ruddy _cakravāka_ birds (_cakravākā ivābhavan_).
 </details>
 </details>
 
@@ -2563,7 +2563,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with swans and kāraṇḍava ducks (haṃsakāraṇḍavopetāḥ) and graced with cakravāka birds (cakravākopaśobhitāḥ), those women shone like rivers (āpagā iva tā rejuḥ) with their hips for sandbanks (jaghanaiḥ pulinair iva).
+Endowed with swans and _kāraṇḍava_ ducks (_haṃsakāraṇḍavopetāḥ_) and graced with _cakravāka_ birds (_cakravākopaśobhitāḥ_), those women shone like rivers (_āpagā iva tā rejuḥ_) with their hips for sandbanks (_jaghanaiḥ pulinair iva_).
 </details>
 </details>
 
@@ -2632,7 +2632,7 @@ and birds called Karandas and decorated by Chakravaka birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their clusters of small bells for lotus-buds (kiṅkiṇījālasaṃkāśāḥ) and their large golden ornaments for full-blown lotuses (hemavipulāmbujāḥ), their amorous gestures for crocodiles (bhāvagrāhāḥ) and their bright renown for banks (yaśastīrāḥ), those sleeping women shone like rivers (suptā nadya ivābabhuḥ).
+With their clusters of small bells for lotus-buds (_kiṅkiṇījālasaṃkāśāḥ_) and their large golden ornaments for full-blown lotuses (_hemavipulāmbujāḥ_), their amorous gestures for crocodiles (_bhāvagrāhāḥ_) and their bright renown for banks (_yaśastīrāḥ_), those sleeping women shone like rivers (_suptā nadya ivābabhuḥ_).
 </details>
 </details>
 
@@ -2684,7 +2684,7 @@ jewellery as big lotuses, with their behaviours as crocodiles, with fame as bank
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abiding upon the soft limbs (mṛduṣv aṅgeṣu) and the tips of the breasts (kucāgreṣu ca saṃsthitāḥ) of some women, the auspicious lines left by pressed ornaments (śubhā bhūṣaṇarājayaḥ) became like ornaments themselves (babhūvur bhūṣaṇānīva).
+Abiding upon the soft limbs (_mṛduṣv aṅgeṣu_) and the tips of the breasts (_kucāgreṣu ca saṃsthitāḥ_) of some women, the auspicious lines left by pressed ornaments (_śubhā bhūṣaṇarājayaḥ_) became like ornaments themselves (_babhūvur bhūṣaṇānīva_).
 </details>
 </details>
 
@@ -2718,7 +2718,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the hems of the silken veils (aṃśukāntāś ca) of some women, stirred by the breeze of their breath (mukhamārutakampitāḥ), fluttered again and again (vyādhūyante punaḥ punaḥ) right above their faces (upary upari vaktrāṇām).
+And the hems of the silken veils (_aṃśukāntāś ca_) of some women, stirred by the breeze of their breath (_mukhamārutakampitāḥ_), fluttered again and again (_vyādhūyante punaḥ punaḥ_) right above their faces (_upary upari vaktrāṇām_).
 </details>
 </details>
 
@@ -2766,7 +2766,7 @@ women, were being fluttered again and again on their faces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wafted aloft like banners (patākā ivoddhūtāḥ), those [veil-hems] of lovely radiance (tāḥ ruciraprabhāḥ) shone at the base of the faces (vaktramūleṣu rejire) of Rāvaṇa's wives, who possessed fair complexions of manifold hues (nānāvarṇasuvarṇānām).
+Wafted aloft like banners (_patākā ivoddhūtāḥ_), those [veil-hems] of lovely radiance (_tāḥ ruciraprabhāḥ_) shone at the base of the faces (_vaktramūleṣu rejire_) of Rāvaṇa&#x27;s wives, who possessed fair complexions of manifold hues (_nānāvarṇasuvarṇānām_).
 </details>
 </details>
 
@@ -2820,7 +2820,7 @@ wives' throats like hoisted flags of beautiful shine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And there the earrings (kuṇḍalāni) of some radiantly gleaming women (kāsāṃcit śubhārciṣām yoṣitām) trembled ever so gently (mandaṃ mandaṃ ca vavalguḥ) from the tremors of their breath (mukhamārutasaṃkampaiḥ).
+And there the earrings (_kuṇḍalāni_) of some radiantly gleaming women (_kāsāṃcit śubhārciṣām yoṣitām_) trembled ever so gently (_mandaṃ mandaṃ ca vavalguḥ_) from the tremors of their breath (_mukhamārutasaṃkampaiḥ_).
 </details>
 </details>
 
@@ -2869,7 +2869,7 @@ the air from breathing of those women.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fragrant with candied wine (śarkarāsavagandhaḥ) and naturally sweet-scented and delightful (prakṛtyā surabhiḥ sukhaḥ), the breath of their faces (tāsāṃ vadananiḥśvāsaḥ) attended upon Rāvaṇa at that time (siṣeve rāvaṇaṃ tadā).
+Fragrant with candied wine (_śarkarāsavagandhaḥ_) and naturally sweet-scented and delightful (_prakṛtyā surabhiḥ sukhaḥ_), the breath of their faces (_tāsāṃ vadananiḥśvāsaḥ_) attended upon Rāvaṇa at that time (_siṣeve rāvaṇaṃ tadā_).
 </details>
 </details>
 
@@ -2922,7 +2922,7 @@ smell of liquor made of Sarkara, served Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And some of Rāvaṇa's wives (kāścid rāvaṇayoṣitaḥ), mistaking [their neighbors' faces] for Rāvaṇa's face (rāvaṇānanaśaṅkāś ca), smelled and kissed (upājighran) the faces of their co-wives (mukhāni ca sapatnīnām) again and again (punaḥ punaḥ).
+And some of Rāvaṇa&#x27;s wives (_kāścid rāvaṇayoṣitaḥ_), mistaking [their neighbors&#x27; faces] for Rāvaṇa&#x27;s face (_rāvaṇānanaśaṅkāś ca_), smelled and kissed (_upājighran_) the faces of their co-wives (_mukhāni ca sapatnīnām_) again and again (_punaḥ punaḥ_).
 </details>
 </details>
 
@@ -2983,7 +2983,7 @@ face of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their minds passionately attached to Rāvaṇa (atyarthaṃ saktamanaso rāvaṇe), those noble women (tā varastriyaḥ), no longer masters of themselves (asvatantrāḥ), acted then in ways pleasing even to their co-wives (sapatnīnāṃ priyam evācaraṃs tadā).
+With their minds passionately attached to Rāvaṇa (_atyarthaṃ saktamanaso rāvaṇe_), those noble women (_tā varastriyaḥ_), no longer masters of themselves (_asvatantrāḥ_), acted then in ways pleasing even to their co-wives (_sapatnīnāṃ priyam evācaraṃs tadā_).
 </details>
 </details>
 
@@ -3038,7 +3038,7 @@ brought delight only to their co-wives.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pillow-ing their heads (upanidhāya) upon their arms adorned with bracelets (bāhūn pārihāryavibhūṣitān) and upon their lovely silken garments (aṃśukāni ca ramyāṇi), other young women slept there (pramadās tatra śiśyire).
+Pillow-ing their heads (_upanidhāya_) upon their arms adorned with bracelets (_bāhūn pārihāryavibhūṣitān_) and upon their lovely silken garments (_aṃśukāni ca ramyāṇi_), other young women slept there (_pramadās tatra śiśyire_).
 </details>
 </details>
 
@@ -3092,7 +3092,7 @@ and beautiful clothes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One woman [slept pillowed] upon the bosom of another (anyā vakṣasi cānyasyāḥ), another in turn upon her arm (tasyāḥ kācit punar bhujam), yet another upon the lap of another (aparā tv aṅkam anyasyāḥ), and still another upon her breasts (tasyāś cāpy aparā kucau).
+One woman [slept pillowed] upon the bosom of another (_anyā vakṣasi cānyasyāḥ_), another in turn upon her arm (_tasyāḥ kācit punar bhujam_), yet another upon the lap of another (_aparā tv aṅkam anyasyāḥ_), and still another upon her breasts (_tasyāś cāpy aparā kucau_).
 </details>
 </details>
 
@@ -3155,7 +3155,7 @@ another woman slept on another woman's thigh and another slept on her breasts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resting upon one another's thighs, sides, hips, and backs (ūrupārśvakaṭīpṛṣṭham anyonyasya samāśritāḥ), with their limbs pressed against each other (parasparaniviṣṭāṅgyaḥ), they yielded to the sway of intoxication and affection (madasnehavaśānugāḥ).
+Resting upon one another&#x27;s thighs, sides, hips, and backs (_ūrupārśvakaṭīpṛṣṭham anyonyasya samāśritāḥ_), with their limbs pressed against each other (_parasparaniviṣṭāṅgyaḥ_), they yielded to the sway of intoxication and affection (_madasnehavaśānugāḥ_).
 </details>
 </details>
 
@@ -3206,7 +3206,7 @@ one another, with mutual limbs placed on one another.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighted by the mutual touch of one another's limbs (anyonyasyāṅgasaṃsparśāt prīyamāṇāḥ), all those slender-waisted women (sumadhyamāḥ) slept there with their arms intertwined as one (ekīkṛtabhujāḥ sarvāḥ suṣupuḥ).
+Delighted by the mutual touch of one another&#x27;s limbs (_anyonyasyāṅgasaṃsparśāt prīyamāṇāḥ_), all those slender-waisted women (_sumadhyamāḥ_) slept there with their arms intertwined as one (_ekīkṛtabhujāḥ sarvāḥ suṣupuḥ_).
 </details>
 </details>
 
@@ -3239,7 +3239,7 @@ Delighted by the mutual touch of one another's limbs (anyonyasyāṅgasaṃspar�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strung upon the thread of one another's arms (anyonyabhujasūtreṇa), that garland of women (strīmālā grathitā hi sā) shone like a floral garland strung upon a cord (māleva grathitā sūtre) and thronged with intoxicated bees (mattaṣaṭpadā).
+Strung upon the thread of one another&#x27;s arms (_anyonyabhujasūtreṇa_), that garland of women (_strīmālā grathitā hi sā_) shone like a floral garland strung upon a cord (_māleva grathitā sūtre_) and thronged with intoxicated bees (_mattaṣaṭpadā_).
 </details>
 </details>
 
@@ -3321,9 +3321,9 @@ the month of Vaisakha, with entwined beautiful trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**64:** [Like a forest] of blossoming creepers in the month of Mādhava (latānāṃ mādhave māsi phullānām) stirred by the breeze (vāyusevanāt), woven into mutual garlands (anyonyamālāgrathitam) with clusters of flowers pressed together (saṃsaktakusumoccayam),
+**64:** [Like a forest] of blossoming creepers in the month of Mādhava (_latānāṃ mādhave māsi phullānām_) stirred by the breeze (_vāyusevanāt_), woven into mutual garlands (_anyonyamālāgrathitam_) with clusters of flowers pressed together (_saṃsaktakusumoccayam_),
 
-**65:** Its fair trunks twined around (prativeṣṭitasuskandham) and teeming with bees darting toward one another (anyonyabhramarākulam)—such was that forest of Rāvaṇa's women (strīvanaṃ rāvaṇasya tat), like a forest tossed [by the spring wind] (āsīd vanam ivoddhūtam).
+**65:** Its fair trunks twined around (_prativeṣṭitasuskandham_) and teeming with bees darting toward one another (_anyonyabhramarākulam_)—such was that forest of Rāvaṇa&#x27;s women (_strīvanaṃ rāvaṇasya tat_), like a forest tossed [by the spring wind] (_āsīd vanam ivoddhūtam_).
 </details>
 </details>
 
@@ -3366,7 +3366,7 @@ While Rāvaṇa sleeps, the golden lamps gaze unblinking at his tangled wives—
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even though they were placed in their proper places (uciteṣv api), no clear distinction could then be made (suvvyaktaṃ na vivekaḥ śakya ādhātum) among the ornaments, limbs, garments, and garlands (bhūṣaṇāṅgāmbarasrajām) of those women (tāsāṃ yoṣitām).
+Even though they were placed in their proper places (_uciteṣv api_), no clear distinction could then be made (_suvvyaktaṃ na vivekaḥ śakya ādhātum_) among the ornaments, limbs, garments, and garlands (_bhūṣaṇāṅgāmbarasrajām_) of those women (_tāsāṃ yoṣitām_).
 </details>
 </details>
 
@@ -3415,7 +3415,7 @@ seeing without closing eyes, those women of various glows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Rāvaṇa lay comfortably asleep (rāvaṇe sukhasaṃviṣṭe), the blazing golden lamps (jvalantaḥ kāñcanā dīpāḥ) gazed as though unblinking (prekṣanto'nimiṣā iva) upon those women of manifold radiance (tāḥ striyo vividhaprabhāḥ).
+While Rāvaṇa lay comfortably asleep (_rāvaṇe sukhasaṃviṣṭe_), the blazing golden lamps (_jvalantaḥ kāñcanā dīpāḥ_) gazed as though unblinking (_prekṣanto&#x27;nimiṣā iva_) upon those women of manifold radiance (_tāḥ striyo vividhaprabhāḥ_).
 </details>
 </details>
 
@@ -3465,7 +3465,7 @@ those unmarried girls surrendered from lust to Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wives and maidens (yoṣitaḥ ... kanyāḥ) of royal sages, Brahmins, and Daityas (rājarṣivipradaityānām), of Gandharvas, and of rākṣasas (rakṣasāṃ ca) had come under the sway of passion for him (tasya kāmavaśaṃgatāḥ).
+The wives and maidens (_yoṣitaḥ ... kanyāḥ_) of royal sages, Brahmins, and Daityas (_rājarṣivipradaityānām_), of Gandharvas, and of _rākṣasas_ (_rakṣasāṃ ca_) had come under the sway of passion for him (_tasya kāmavaśaṃgatāḥ_).
 </details>
 </details>
 
@@ -3527,7 +3527,7 @@ heat of youth obtained Ravana being desired by god of love.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those women had been carried off by Rāvaṇa (tāḥ sarvā rāvaṇena hṛtāḥ striyaḥ) out of his eagerness for battle (yuddhakāmena); and some, passionate by nature (samadāḥ) and infatuated by the god of love himself (madanenaiva mohitāḥ), had come of their own accord (kāścid āgatāḥ).
+All those women had been carried off by Rāvaṇa (_tāḥ sarvā rāvaṇena hṛtāḥ striyaḥ_) out of his eagerness for battle (_yuddhakāmena_); and some, passionate by nature (_samadāḥ_) and infatuated by the god of love himself (_madanenaiva mohitāḥ_), had come of their own accord (_kāścid āgatāḥ_).
 </details>
 </details>
 
@@ -3602,7 +3602,7 @@ there was no woman who had desire in another man, and there also was none with a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No young woman there (na tatra kāścit pramadāḥ) had been won forcibly (prasahya labdhāḥ), [for each was won] through his valorous excellence (vīryopapannena guṇena); nor was any enamored of another (na cānyakāmāpi), nor previously wedded to another (na cānyapūrvā)—save only Janaka's daughter, worthy of the noblest suitor (vinā varārhāṃ janakātmajāṃ tu)!
+No young woman there (_na tatra kāścit pramadāḥ_) had been won forcibly (_prasahya labdhāḥ_), [for each was won] through his valorous excellence (_vīryopapannena guṇena_); nor was any enamored of another (_na cānyakāmāpi_), nor previously wedded to another (_na cānyapūrvā_)—save only Janaka&#x27;s daughter, worthy of the noblest suitor (_vinā varārhāṃ janakātmajāṃ tu_)!
 </details>
 </details>
 
@@ -3662,7 +3662,7 @@ causing desire to lover.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-None of low birth (na cākulīnā), none of inferior beauty (na ca hīnarūpā), none unskilful (nādakṣiṇā), none lacking in refined adornment (nānupacārayuktā), none of feeble spirit (na hīnasattvā), and none undesirable to her beloved lord (na cāpi kāntasya na kāmanīyā) became his wife (bhāryābhavat tasya).
+None of low birth (_na cākulīnā_), none of inferior beauty (_na ca hīnarūpā_), none unskilful (_nādakṣiṇā_), none lacking in refined adornment (_nānupacārayuktā_), none of feeble spirit (_na hīnasattvā_), and none undesirable to her beloved lord (_na cāpi kāntasya na kāmanīyā_) became his wife (_bhāryābhavat tasya_).
 </details>
 </details>
 
@@ -3727,7 +3727,7 @@ manner as these wives of the king of rakshasas."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then this thought arose in the mind of that lord of monkeys of righteous intellect (babhūva buddhis tu harīśvarasya ... sādhubuddheḥ): ‘If Rāghava's lawful wife were like these wives of the great king of rākṣasas (yadīdṛśī rāghavadharmapatnī), how fortunate it would have been for him (sujātam asyeti)!’
+Then this thought arose in the mind of that lord of monkeys of righteous intellect (_babhūva buddhis tu harīśvarasya ... sādhubuddheḥ_): ‘If Rāghava&#x27;s lawful wife were like these wives of the great king of _rākṣasas_ (_yadīdṛśī rāghavadharmapatnī_), how fortunate it would have been for him (_sujātam asyeti_)!’
 </details>
 </details>
 
@@ -3804,6 +3804,6 @@ with her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And again, grieved at heart (ārtarūpaḥ), he reflected (punaś ca so'cintayat): ‘Assuredly Sītā is pre-eminent in virtue (dhruvaṃ viśiṣṭā guṇato hi sītā); and yet this mighty lord of Laṅkā (mahātmā laṅkeśvaraḥ) has perpetrated upon her a grievous, ignoble deed (kaṣṭam anāryakarma)!’
+And again, grieved at heart (_ārtarūpaḥ_), he reflected (_punaś ca so&#x27;cintayat_): ‘Assuredly Sītā is pre-eminent in virtue (_dhruvaṃ viśiṣṭā guṇato hi sītā_); and yet this mighty lord of Laṅkā (_mahātmā laṅkeśvaraḥ_) has perpetrated upon her a grievous, ignoble deed (_kaṣṭam anāryakarma_)!’
 </details>
 </details>

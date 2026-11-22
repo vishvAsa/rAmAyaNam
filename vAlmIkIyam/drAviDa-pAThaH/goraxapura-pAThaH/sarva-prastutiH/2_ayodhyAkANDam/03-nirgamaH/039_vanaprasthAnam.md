@@ -50,7 +50,7 @@ Beholding Rāma clad as an ascetic, Daśaratha falls senseless with his queens a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Rāma and beholding him wearing the garb of an ascetic sage (muni-veṣa-dharam), the King together with his wives became bereft of consciousness (vigata-cetanaḥ).
+Hearing the speech of Rāma and beholding him wearing the garb of an ascetic sage (_muni-veṣa-dharam_), the King together with his wives became bereft of consciousness (_vigata-cetanaḥ_).
 </details>
 </details>
 
@@ -101,7 +101,7 @@ he was, the king could not speak to Rama by seeing into his face.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scorched with grief (duḥkhena santaptaḥ), he could not look steadily upon Rāghava (nainaṃ pratyavaikṣata), nor, even when glancing toward him, could he, dejected in mind (durmanāḥ), utter any reply in return.
+Scorched with grief (_duḥkhena santaptaḥ_), he could not look steadily upon Rāghava (_nainaṃ pratyavaikṣata_), nor, even when glancing toward him, could he, dejected in mind (_durmanāḥ_), utter any reply in return.
 </details>
 </details>
 
@@ -153,7 +153,7 @@ various ways thinking of Rama alone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Remaining as if unconscious for a moment (muhūrtam ivāsaṃjñaḥ), that grief-stricken lord of the earth of mighty arms lamented aloud (vilalāpa), thinking solely of Rāma:
+Remaining as if unconscious for a moment (_muhūrtam ivāsaṃjñaḥ_), that grief-stricken lord of the earth of mighty arms lamented aloud (_vilalāpa_), thinking solely of Rāma:
 </details>
 </details>
 
@@ -206,7 +206,7 @@ any case many living beings were killed. Hence, this (calamity) has befallen me.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I deem that in former times many cows were deprived of their calves by me (vivatsā bahavaḥ kṛtāḥ), or living creatures were slain (prāṇino hiṃsitā vāpi); therefore has this calamity befallen me (tan mām idam upasthitam)!
+“I deem that in former times many cows were deprived of their calves by me (_vivatsā bahavaḥ kṛtāḥ_), or living creatures were slain (_prāṇino hiṃsitā vāpi_); therefore has this calamity befallen me (_tan mām idam upasthitam_)!
 </details>
 </details>
 
@@ -237,7 +237,7 @@ any case many living beings were killed. Hence, this (calamity) has befallen me.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely life does not depart from the body before the appointed hour has arrived (anāgate kāle dehāc cyavati jīvitam): though I am being tormented by Kaikeyī (kaikeyyā kliśyamānasya), death comes not to me—
+“Surely life does not depart from the body before the appointed hour has arrived (_anāgate kāle dehāc cyavati jīvitam_): though I am being tormented by Kaikeyī (_kaikeyyā kliśyamānasya_), death comes not to me—
 </details>
 </details>
 
@@ -288,7 +288,7 @@ standing before me clad in the robes of an ascetic having cast off his fine garm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I who now behold my own son, bright as blazing fire (pāvaka-saṅkāśam), standing before me clad in the covering of forest ascetics (tāpasācchādam) after laying aside his two fine garments (vihāya vasane sūkṣme)!
+“I who now behold my own son, bright as blazing fire (_pāvaka-saṅkāśam_), standing before me clad in the covering of forest ascetics (_tāpasācchādam_) after laying aside his two fine garments (_vihāya vasane sūkṣme_)!
 </details>
 </details>
 
@@ -351,7 +351,7 @@ chincanery, with an implicit intent of selfishness"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the sake of Kaikeyī alone (ekasyāḥ khalu kaikeyyāḥ kṛte)—who, having resorted to this base deceit (saṃśritya nikṛtiṃ tv imām), is striving solely for her own selfish end (svārthe prayatamānāyāḥ)—all this people is plunged into anguish (khidyate janaḥ)!”
+“For the sake of Kaikeyī alone (_ekasyāḥ khalu kaikeyyāḥ kṛte_)—who, having resorted to this base deceit (_saṃśritya nikṛtiṃ tv imām_), is striving solely for her own selfish end (_svārthe prayatamānāyāḥ_)—all this people is plunged into anguish (_khidyate janaḥ_)!”
 </details>
 </details>
 
@@ -406,7 +406,7 @@ speak any more, his organs of voice being choked by tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken these words, with his senses overwhelmed by tears (bāṣpeṇa vihatendriyaḥ), he uttered the name “Rāma!” once alone (rāmeti sakṛd evoktvā) and was unable to speak any further (vyāhartuṃ na śaśāka saḥ).
+Having spoken these words, with his senses overwhelmed by tears (_bāṣpeṇa vihatendriyaḥ_), he uttered the name “Rāma!” once alone (_rāmeti sakṛd evoktvā_) and was unable to speak any further (_vyāhartuṃ na śaśāka saḥ_).
 </details>
 </details>
 
@@ -458,7 +458,7 @@ spoke these words to Sumantra:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regaining consciousness after a moment (muhūrtāt), the lord of the earth, with his eyes brimming with tears (netrābhyām aśru-pūrṇābhyām), spoke these words unto Sumantra:
+Regaining consciousness after a moment (_muhūrtāt_), the lord of the earth, with his eyes brimming with tears (_netrābhyām aśru-pūrṇābhyām_), spoke these words unto Sumantra:
 </details>
 </details>
 
@@ -511,7 +511,7 @@ highly distinguished prince beyond this territory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yoking the royal riding-chariot (aupavāhyaṃ ratham) with foremost steeds (hayottamaiḥ), come hither yourself and convey this illustrious prince beyond this inhabited realm (ito janapadāt param)!
+“Yoking the royal riding-chariot (_aupavāhyaṃ ratham_) with foremost steeds (_hayottamaiḥ_), come hither yourself and convey this illustrious prince beyond this inhabited realm (_ito janapadāt param_)!
 </details>
 </details>
 
@@ -567,7 +567,7 @@ think such is said to be the reward of virtues of the virtueous."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such, I deem, is what is called the fruit of virtues for the virtuous (guṇavatāṃ guṇānāṃ phalam ucyate)—in that a righteous hero is banished to the forest by his own father and mother (pitrā mātrā ca)!”
+“Such, I deem, is what is called the fruit of virtues for the virtuous (_guṇavatāṃ guṇānāṃ phalam ucyate_)—in that a righteous hero is banished to the forest by his own father and mother (_pitrā mātrā ca_)!”
 </details>
 </details>
 
@@ -620,7 +620,7 @@ with horses, a chariot duly decorated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Understanding the King’s command, Sumantra of swift stride (śīghra-vikramaḥ) yoked the chariot adorned with steeds and drove there (yayau tatra).
+Understanding the King’s command, Sumantra of swift stride (_śīghra-vikramaḥ_) yoked the chariot adorned with steeds and drove there (_yayau tatra_).
 </details>
 </details>
 
@@ -680,7 +680,7 @@ gold, fitted wih superb horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining his palms in reverence (añjaliṃ kṛtvā), the charioteer announced unto the prince that gold-decked chariot (kanaka-bhūṣitam), yoked with foremost steeds (yuktaṃ parama-vājibhiḥ).
+Joining his palms in reverence (_añjaliṃ kṛtvā_), the charioteer announced unto the prince that gold-decked chariot (_kanaka-bhūṣitam_), yoked with foremost steeds (_yuktaṃ parama-vājibhiḥ_).
 </details>
 </details>
 
@@ -734,7 +734,7 @@ all means, quickly called an officer placed in charge of the treasury and spoke 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the King, knower of place and time (deśa-kālajñaḥ) and pure in every respect (sarvataḥ śuciḥ), hastily summoned the officer appointed over the treasury (vyāpṛtaṃ vitta-saṃcaye) and spoke to him a well-resolved command (niścitam):
+Then the King, knower of place and time (_deśa-kālajñaḥ_) and pure in every respect (_sarvataḥ śuciḥ_), hastily summoned the officer appointed over the treasury (_vyāpṛtaṃ vitta-saṃcaye_) and spoke to him a well-resolved command (_niścitam_):
 </details>
 </details>
 
@@ -787,7 +787,7 @@ taking into consideration all these years (that Seetha has to spend in exile)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Reckoning up these fourteen years (varṣāṇy etāni saṅkhyāya), quickly bring for Vaidehī garments of supreme worth (vāsāṃsi ca varārhāṇi) and magnificent ornaments (bhūṣaṇāni mahānti ca)!”
+“Reckoning up these fourteen years (_varṣāṇy etāni saṅkhyāya_), quickly bring for Vaidehī garments of supreme worth (_vāsāṃsi ca varārhāṇi_) and magnificent ornaments (_bhūṣaṇāni mahānti ca_)!”
 </details>
 </details>
 
@@ -839,7 +839,7 @@ a lot and gave to Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commanded by the lord of men, that treasurer went to the treasure-house (kośa-gṛham), gathered all those articles, and quickly presented them unto Sītā.
+Thus commanded by the lord of men, that treasurer went to the treasure-house (_kośa-gṛham_), gathered all those articles, and quickly presented them unto Sītā.
 </details>
 </details>
 
@@ -891,7 +891,7 @@ limbs with those wonderful jewels.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of noble birth (sujātā) and about to depart for the forest, Vaidehī adorned her shapely limbs (sujātāni gātrāṇi) with those varied and wondrous ornaments (vicitrair vibhūṣaṇaiḥ).
+Of noble birth (_sujātā_) and about to depart for the forest, Vaidehī adorned her shapely limbs (_sujātāni gātrāṇi_) with those varied and wondrous ornaments (_vicitrair vibhūṣaṇaiḥ_).
 </details>
 </details>
 
@@ -943,7 +943,7 @@ morning is illuminated by a rising sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resplendently adorned (su-vibhūṣitā), Vaidehī illumined that palace (vyarājayata veśma tat), even as the radiance of the ray-garlanded sun rising at dawn (udyato 'ṃśumataḥ kāle) illumines the firmament (kham).
+Resplendently adorned (_su-vibhūṣitā_), Vaidehī illumined that palace (_vyarājayata veśma tat_), even as the radiance of the ray-garlanded sun rising at dawn (_udyato &#x27;ṃśumataḥ kāle_) illumines the firmament (_kham_).
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ smelling her head(as a token of affection), her mother-in-law(Kausalya) spoke as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing Maithilī with both arms—who never acted in any base or ignoble manner (anācarantīṃ kṛpaṇam)—and smelling her upon the crown of her head (mūrdhny upāghrāya), her mother-in-law (śvaśrūḥ) spoke these words:
+Embracing Maithilī with both arms—who never acted in any base or ignoble manner (_anācarantīṃ kṛpaṇam_)—and smelling her upon the crown of her head (_mūrdhny upāghrāya_), her mother-in-law (_śvaśrūḥ_) spoke these words:
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ their husband who has come to pass into evil days, throughout this world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Untrue women (asatyaḥ striyaḥ) in this whole world, even though constantly honoured and cherished by their beloved husbands (satataṃ satkṛtāḥ priyaiḥ), do not regard their husband when he has fallen into adversity (vinipāta-gatam)!
+“Untrue women (_asatyaḥ striyaḥ_) in this whole world, even though constantly honoured and cherished by their beloved husbands (_satataṃ satkṛtāḥ priyaiḥ_), do not regard their husband when he has fallen into adversity (_vinipāta-gatam_)!
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ husband, on obtaining even the least misfortune: such is the nature of (bad) wom
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such is the nature of ignoble women (eṣa svabhāvo nārīṇām): having formerly enjoyed happiness, upon encountering even a slight misfortune (alpām apy āpadaṃ prāpya), they find fault with their husbands (duṣyanti) and even forsake them altogether (prajahaty api)!
+“Such is the nature of ignoble women (_eṣa svabhāvo nārīṇām_): having formerly enjoyed happiness, upon encountering even a slight misfortune (_alpām apy āpadaṃ prāpya_), they find fault with their husbands (_duṣyanti_) and even forsake them altogether (_prajahaty api_)!
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ by passion and their essence, incomprehensible. They get aversion within a momen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of untruthful disposition (asatya-śīlāḥ), perverse in behaviour (vikṛtāḥ), inscrutable (durgāḥ), and ever heartless (ahṛdayāḥ sadā), unchaste women are of sinful intent (pāpa-saṅkalpāḥ) and lose their affection in a single moment (kṣaṇa-mātra-virāgiṇaḥ)!
+“Of untruthful disposition (_asatya-śīlāḥ_), perverse in behaviour (_vikṛtāḥ_), inscrutable (_durgāḥ_), and ever heartless (_ahṛdayāḥ sadā_), unchaste women are of sinful intent (_pāpa-saṅkalpāḥ_) and lose their affection in a single moment (_kṣaṇa-mātra-virāgiṇaḥ_)!
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ entertainment can capture the heart of women. They are unstbale of their heart i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither noble lineage (na kulam), nor past kindness done (na kṛtam), nor learning (vidyā), nor gifts bestowed (na dattam), nor even wedded cherishing (nāpi saṅgrahaḥ) wins over the heart of such women—for their hearts are ever fickle and unstable (anitya-hṛdayā hi tāḥ)!
+“Neither noble lineage (_na kulam_), nor past kindness done (_na kṛtam_), nor learning (_vidyā_), nor gifts bestowed (_na dattam_), nor even wedded cherishing (_nāpi saṅgrahaḥ_) wins over the heart of such women—for their hearts are ever fickle and unstable (_anitya-hṛdayā hi tāḥ_)!
 </details>
 </details>
 
@@ -1259,7 +1259,7 @@ mental quietness, their husband alone is the most sacred entity, the best of all
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But for chaste and noble women (sādhvīnāṃ tu) who abide steadfastly in virtue, truth, scriptural precept, and family decorum (śīle satye śrute sthite), the husband alone stands preeminent as their supreme sanctifier (strīṇāṃ pavitraṃ paramaṃ patir eko viśiṣyate)!
+“But for chaste and noble women (_sādhvīnāṃ tu_) who abide steadfastly in virtue, truth, scriptural precept, and family decorum (_śīle satye śrute sthite_), the husband alone stands preeminent as their supreme sanctifier (_strīṇāṃ pavitraṃ paramaṃ patir eko viśiṣyate_)!
 </details>
 </details>
 
@@ -1319,7 +1319,7 @@ invested with riches or without riches, let him be a deity to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore this son of mine, though banished to the forest (pravrājito vanam), must never be slighted by you (sa tvayā nāvamantavyaḥ); whether bereft of wealth or possessed of wealth (nirdhanaḥ sadhano 'pi vā), he is unto you like a god (tava deva-samas tv eṣaḥ)!”
+“Therefore this son of mine, though banished to the forest (_pravrājito vanam_), must never be slighted by you (_sa tvayā nāvamantavyaḥ_); whether bereft of wealth or possessed of wealth (_nirdhanaḥ sadhano &#x27;pi vā_), he is unto you like a god (_tava deva-samas tv eṣaḥ_)!”
 </details>
 </details>
 
@@ -1375,7 +1375,7 @@ Seetha replied to her mother-in-law standing in front of her, as follows:-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Understanding those words of hers, fraught with dharma and true welfare (dharmārtha-saṃhitam), Sītā, standing before her mother-in-law with joined palms (kṛtvāñjalim), spoke these words:
+Understanding those words of hers, fraught with _dharma_ and true welfare (_dharmārtha-saṃhitam_), Sītā, standing before her mother-in-law with joined palms (_kṛtvāñjalim_), spoke these words:
 </details>
 </details>
 
@@ -1428,7 +1428,7 @@ behave towards my husband. I have also heard about it earlier."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall surely fulfill all that the noble lady enjoins upon me (āryā yad anuśāsti mām); I know well how a wife must conduct herself toward her husband (yathā bhartur vartitavyam), and I have heard it from my elders as well (śrutaṃ ca me).
+“I shall surely fulfill all that the noble lady enjoins upon me (_āryā yad anuśāsti mām_); I know well how a wife must conduct herself toward her husband (_yathā bhartur vartitavyam_), and I have heard it from my elders as well (_śrutaṃ ca me_).
 </details>
 </details>
 
@@ -1480,7 +1480,7 @@ deviate from virtue, even as a moon from the moonlight"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The noble lady ought not to place me on a level with ignoble women (na mām asaj-janenāryā samānayitum arhati); I am no more capable of swerving from dharma than radiance can part from the moon (candrād iva prabhā)!
+“The noble lady ought not to place me on a level with ignoble women (_na mām asaj-janenāryā samānayitum arhati_); I am no more capable of swerving from _dharma_ than radiance can part from the moon (_candrād iva prabhā_)!
 </details>
 </details>
 
@@ -1537,7 +1537,7 @@ happily in comfort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A lute without strings cannot be played (nātantrī vādyate vīṇā), a chariot without wheels cannot move (nācakro vidyate rathaḥ), and a woman without a husband (nāpatiḥ) can never thrive in happiness (sukham edhete), even though she have a hundred sons (śatātmajā)!
+“A lute without strings cannot be played (_nātantrī vādyate vīṇā_), a chariot without wheels cannot move (_nācakro vidyate rathaḥ_), and a woman without a husband (_nāpatiḥ_) can never thrive in happiness (_sukham edhete_), even though she have a hundred sons (_śatātmajā_)!
 </details>
 </details>
 
@@ -1590,7 +1590,7 @@ moderation. Which woman, then, would not adore her husband, the bestower of unli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a father gives in measured portion (mitaṃ dadāti hi pitā), a brother gives in measured portion, and a son gives in measured portion; who then would not worship the husband, who is the bestower of what is measureless (amitasya tu dātāram)?
+“For a father gives in measured portion (_mitaṃ dadāti hi pitā_), a brother gives in measured portion, and a son gives in measured portion; who then would not worship the husband, who is the bestower of what is measureless (_amitasya tu dātāram_)?
 </details>
 </details>
 
@@ -1655,7 +1655,7 @@ deity to women."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus instructed as I am (sāham evaṃ-gatā), and knowing the higher and lower degrees of dharma taught by the noblest elders (śreṣṭhā śruta-dharma-parāvarā), how could I ever slight him, O noble lady (ārye kim avamanyeyam)? For unto a woman her husband is her deity (striyā bhartā hi daivatam)!”
+“Thus instructed as I am (_sāham evaṃ-gatā_), and knowing the higher and lower degrees of _dharma_ taught by the noblest elders (_śreṣṭhā śruta-dharma-parāvarā_), how could I ever slight him, O noble lady (_ārye kim avamanyeyam_)? For unto a woman her husband is her deity (_striyā bhartā hi daivatam_)!”
 </details>
 </details>
 
@@ -1707,7 +1707,7 @@ started shedding tears born of agony and delight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that heart-touching speech of Sītā (sītāyā vacanaṃ hṛdayaṅgamam), Kausalyā of pure nature (śuddha-sattvā) suddenly shed tears born of mingled grief and joy (duḥkha-harṣajam).
+Hearing that heart-touching speech of Sītā (_sītāyā vacanaṃ hṛdayaṅgamam_), Kausalyā of pure nature (_śuddha-sattvā_) suddenly shed tears born of mingled grief and joy (_duḥkha-harṣajam_).
 </details>
 </details>
 
@@ -1759,7 +1759,7 @@ his mother, who is highly respected among all his mothers:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding with joined palms (prāñjalir abhiprekṣya) that mother of his, who was held in the highest honour amidst all his mothers (mātṛ-madhye 'ti-satkṛtām), Rāma of supremely righteous soul spoke these words:
+Beholding with joined palms (_prāñjalir abhiprekṣya_) that mother of his, who was held in the highest honour amidst all his mothers (_mātṛ-madhye &#x27;ti-satkṛtām_), Rāma of supremely righteous soul spoke these words:
 </details>
 </details>
 
@@ -1814,7 +1814,7 @@ rather soon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O mother (amba), do not look upon my father with a sorrowful countenance (mā duḥkhitā bhūtvā paśyes tvaṃ pitaraṃ mama)! Even the end of this forest exile (kṣayo 'pi vanavāsasya) will arrive full quickly!
+“O mother (_amba_), do not look upon my father with a sorrowful countenance (_mā duḥkhitā bhūtvā paśyes tvaṃ pitaraṃ mama_)! Even the end of this forest exile (_kṣayo &#x27;pi vanavāsasya_) will arrive full quickly!
 </details>
 </details>
 
@@ -1870,7 +1870,7 @@ arrived here in my entire being, surrounded by my well-wishers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While you are asleep, as it were (suptāyās te), the nine years and five will pass away; and you shall behold me returned hither complete in every vow (samagram iha samprāptam), surrounded by my friends (suhṛd-vṛtam)!”
+“While you are asleep, as it were (_suptāyās te_), the nine years and five will pass away; and you shall behold me returned hither complete in every vow (_samagram iha samprāptam_), surrounded by my friends (_suhṛd-vṛtam_)!”
 </details>
 </details>
 
@@ -1958,9 +1958,9 @@ righteousness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** Having spoken this much, fraught with well-weighed meaning (abhinītārtham), unto his mother, he looked upon and beheld his three hundred and fifty mothers (trayaḥ śata-śatārdhā hi mātaraḥ).
+**36:** Having spoken this much, fraught with well-weighed meaning (_abhinītārtham_), unto his mother, he looked upon and beheld his three hundred and fifty mothers (_trayaḥ śata-śatārdhā hi mātaraḥ_).
 
-**37:** With joined palms (kṛtāñjaliḥ), the son of Daśaratha spoke this righteous speech (dharma-yuktam idaṃ vākyam) unto those mothers as well, who were equally stricken with anguish (tathaivārtāḥ):
+**37:** With joined palms (_kṛtāñjaliḥ_), the son of Daśaratha spoke this righteous speech (_dharma-yuktam idaṃ vākyam_) unto those mothers as well, who were equally stricken with anguish (_tathaivārtāḥ_):
 </details>
 </details>
 
@@ -2016,7 +2016,7 @@ or due to ignorance on my part. I now take leave of you all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever harshness may have been committed by me through familiarity of dwelling together (saṃvāsāt paruṣaṃ kiṃcit) or through inadvertence (ajñānād api yat kṛtam), pray forgive me that (tan me samupajānīta); I now take leave of you all (sarvāś cāmantrayāmi vaḥ)!”
+“Whatever harshness may have been committed by me through familiarity of dwelling together (_saṃvāsāt paruṣaṃ kiṃcit_) or through inadvertence (_ajñānād api yat kṛtam_), pray forgive me that (_tan me samupajānīta_); I now take leave of you all (_sarvāś cāmantrayāmi vaḥ_)!”
 </details>
 </details>
 
@@ -2071,7 +2071,7 @@ submission of Rama, which was in consonance with righteousness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those women, their minds overwhelmed by grief (śokopahata-cetasaḥ), heard this calm and righteous speech (dharma-yuktaṃ samāhitam) of Rāghava.
+All those women, their minds overwhelmed by grief (_śokopahata-cetasaḥ_), heard this calm and righteous speech (_dharma-yuktaṃ samāhitam_) of Rāghava.
 </details>
 </details>
 
@@ -2126,7 +2126,7 @@ from those wives of Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Rāghava was speaking thus, there arose from those wives of the lord of men a loud wailing (saṃnādaḥ), like the cry of female krauñca birds (krauñcīnām iva niḥsvanaḥ).
+While Rāghava was speaking thus, there arose from those wives of the lord of men a loud wailing (_saṃnādaḥ_), like the cry of female _krauñca_ birds (_krauñcīnām iva niḥsvanaḥ_).
 </details>
 </details>
 
@@ -2197,7 +2197,7 @@ cries and fallen on evil days.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That palace of Daśaratha, which in former days resounded with the deep rumble of muraja-drums, paṇava-tabors, and cloud-like megha-drums (muraja-paṇava-megha-ghoṣavat), now became filled with wailing and lamentation (vilapita-paridevanākulam), plunged into calamity, and whelmed in sore anguish.
+That palace of Daśaratha, which in former days resounded with the deep rumble of _muraja_-drums, _paṇava_-tabors, and cloud-like _megha_-drums (_muraja-paṇava-megha-ghoṣavat_), now became filled with wailing and lamentation (_vilapita-paridevanākulam_), plunged into calamity, and whelmed in sore anguish.
 </details>
 </details>
 

@@ -88,7 +88,7 @@ Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that nectar-like discourse of Nārada, the righteous-souled Vālmīki—himself a master of eloquent speech (vākyaviśāradaḥ)—accompanied by his disciples, reverently worshipped the great sage.
+Having heard that nectar-like discourse of Nārada, the righteous-souled Vālmīki—himself a master of eloquent speech (_vākyaviśāradaḥ_)—accompanied by his disciples, reverently worshipped the great sage.
 </details>
 </details>
 
@@ -143,7 +143,7 @@ permission of Valmiki to leave and having been permitted by Valmiki, went away h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Duly honored by him in accordance with scriptural ordinance, the celestial seer Nārada then affectionately took leave (āpṛṣṭvaiva) and, having received Vālmīki’s cordial permission to depart (abhyanujñātaḥ), ascended into the sky.
+Duly honored by him in accordance with scriptural ordinance, the celestial seer Nārada then affectionately took leave (_āpṛṣṭvaiva_) and, having received Vālmīki’s cordial permission to depart (_abhyanujñātaḥ_), ascended into the sky.
 </details>
 </details>
 
@@ -186,7 +186,7 @@ Then, on Narada's going to the world of gods in a trice, that sage Valmiki went 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A brief while (muhūrtam) after Nārada had departed for the celestial realm, the sage Vālmīki set forth for the bank of the Tamasā river, situated not far from the sacred Jāhnavī (Gaṅgā).
+A brief while (_muhūrtam_) after Nārada had departed for the celestial realm, the sage Vālmīki set forth for the bank of the Tamasā river, situated not far from the sacred Jāhnavī (Gaṅgā).
 </details>
 </details>
 
@@ -237,7 +237,7 @@ Then that sage Valmiki on reaching the shore of the clean Tamasa, and on beholdi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reached the bank of the Tamasā, the sage beheld a ford wholly free of mud and silt (tīrtham akardamam) and spoke to his disciple standing attentively at his side:
+Having reached the bank of the Tamasā, the sage beheld a ford wholly free of mud and silt (_tīrtham akardamam_) and spoke to his disciple standing attentively at his side:
 </details>
 </details>
 
@@ -281,7 +281,7 @@ Having reached the bank of the Tamasā, the sage beheld a ford wholly free of mu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold (niśāmaya), O Bharadvāja, how free of mire is this sacred ford! Delightful to the heart and pellucid in its waters (prasannāmbu), it shines like the mind of a virtuous man (sanmanuṣyamano yathā).
+“Behold (_niśāmaya_), O Bharadvāja, how free of mire is this sacred ford! Delightful to the heart and pellucid in its waters (_prasannāmbu_), it shines like the mind of a virtuous man (_sanmanuṣyamano yathā_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ ford of Tamasa only... [1-2-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Set down the water-pitcher (kalaśaḥ), my dear son (tāta), and hand me my bark-garment (valkalam). Into this very ford of the Tamasā, supreme among bathing-places, I shall now descend for my ablutions.”
+“Set down the water-pitcher (_kalaśaḥ_), my dear son (_tāta_), and hand me my bark-garment (_valkalam_). Into this very ford of the Tamasā, supreme among bathing-places, I shall now descend for my ablutions.”
 </details>
 </details>
 
@@ -378,7 +378,7 @@ Thus being said by the great-souled Valmiki, Bharadwaaja who was obedient to his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the magnanimous Vālmīki, Bharadvāja—ever disciplined and reverent toward his preceptor (niyato guroḥ)—handed the bark-garment to that sage.
+Thus addressed by the magnanimous Vālmīki, Bharadvāja—ever disciplined and reverent toward his preceptor (_niyato guroḥ_)—handed the bark-garment to that sage.
 </details>
 </details>
 
@@ -425,7 +425,7 @@ wide expanse of forest. [1-2-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking the bark-garment from his disciple’s hand, the sage—his senses wholly under control (niyatendriyaḥ)—walked about, gazing on every side upon that vast, blossoming forest.
+Taking the bark-garment from his disciple’s hand, the sage—his senses wholly under control (_niyatendriyaḥ_)—walked about, gazing on every side upon that vast, blossoming forest.
 </details>
 </details>
 
@@ -472,7 +472,7 @@ foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Near that bank, the worshipful sage beheld a pair of krauñca (sarus crane) birds wandering together in inseparable union (anapāyinam), warbling sweet and melodious notes (cāruniḥsvanam).
+Near that bank, the worshipful sage beheld a pair of _krauñca_ (sarus crane) birds wandering together in inseparable union (_anapāyinam_), warbling sweet and melodious notes (_cāruniḥsvanam_).
 </details>
 </details>
 
@@ -517,7 +517,7 @@ one among the couple of birds, while Valmiki was looking on. [1-2-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of that pair, a Niṣāda fowler of sinful resolve (pāpaniścayaḥ)—the very abode of unprovoked malice (vairanilayaḥ)—struck down the male bird (pumāṃsam) while the sage was looking on (tasya paśyataḥ).
+Out of that pair, a Niṣāda fowler of sinful resolve (_pāpaniścayaḥ_)—the very abode of unprovoked malice (_vairanilayaḥ_)—struck down the male bird (_pumāṃsam_) while the sage was looking on (_tasya paśyataḥ_).
 </details>
 </details>
 
@@ -548,7 +548,7 @@ Out of that pair, a Niṣāda fowler of sinful resolve (pāpaniścayaḥ)—the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him struck down, his limbs bathed in blood (śoṇitaparītāṅgam) and writhing in agony upon the ground (ceṣṭamānaṃ mahītale), his mate (bhāryā) uttered a heart-rending cry of lamentation.
+Beholding him struck down, his limbs bathed in blood (_śoṇitaparītāṅgam_) and writhing in agony upon the ground (_ceṣṭamānaṃ mahītale_), his mate (_bhāryā_) uttered a heart-rending cry of lamentation.
 </details>
 </details>
 
@@ -599,7 +599,7 @@ husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Torn apart from that lord of hers—a twice-born bird (dvijena), her constant companion (sahacāriṇā), crimson-crested (tāmraśīrṣeṇa), transported with love-joy (mattena), strong-winged (pattriṇā), and ever united with her (sahitena)—she wailed piteously.
+Torn apart from that lord of hers—a twice-born bird (_dvijena_), her constant companion (_sahacāriṇā_), crimson-crested (_tāmraśīrṣeṇa_), transported with love-joy (_mattena_), strong-winged (_pattriṇā_), and ever united with her (_sahitena_)—she wailed piteously.
 </details>
 </details>
 
@@ -652,7 +652,7 @@ saintly sage Valmiki. [1-2-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that bird struck down in such a manner by the Niṣāda, profound compassion (kāruṇyam) welled up in the heart of that righteous-souled seer.
+Beholding that bird struck down in such a manner by the Niṣāda, profound compassion (_kāruṇyam_) welled up in the heart of that righteous-souled seer.
 </details>
 </details>
 
@@ -701,7 +701,7 @@ the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, out of his tender sensitivity to another’s sorrow (karuṇaveditvāt), judging “This is a grievous transgression of dharma!” (adharmo ’yam iti), the twice-born sage, hearing the female krauñcī weeping, uttered these words:
+Then, out of his tender sensitivity to another’s sorrow (_karuṇaveditvāt_), judging “This is a grievous transgression of _dharma_!” (_adharmo ’yam iti_), the twice-born sage, hearing the female _krauñcī_ weeping, uttered these words:
 </details>
 </details>
 
@@ -882,7 +882,7 @@ suggested.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Niṣāda, may you not attain enduring continuance (pratiṣṭhām) for eternal years to come (śāśvatīḥ samāḥ), since out of a pair of krauñca birds you have slain one while he was absorbed in the transport of love (kāmamohitam)!”
+“O Niṣāda, may you not attain enduring continuance (_pratiṣṭhām_) for eternal years to come (_śāśvatīḥ samāḥ_), since out of a pair of _krauñca_ birds you have slain one while he was absorbed in the transport of love (_kāmamohitam_)!”
 </details>
 </details>
 
@@ -979,7 +979,7 @@ disciple... [1-2-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting deeply, that sage of supreme wisdom and acute discernment (mahāprājñaḥ, matimān) came to a settled conclusion in his mind, and that bull among sages spoke this word to his disciple:
+Reflecting deeply, that sage of supreme wisdom and acute discernment (_mahāprājñaḥ_, _matimān_) came to a settled conclusion in his mind, and that bull among sages spoke this word to his disciple:
 </details>
 </details>
 
@@ -1043,7 +1043,7 @@ kiirti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bound in four metrical quarters (pādabaddhaḥ), equal in syllables (akṣarasamaḥ), and endowed with the rhythmic cadence of lute-strings (tantrī-laya-samanvitaḥ)—since this utterance sprang forth from me while I was stricken with grief (śokārtasya), let it be a śloka, and nothing otherwise!”
+“Bound in four metrical quarters (_pādabaddhaḥ_), equal in syllables (_akṣarasamaḥ_), and endowed with the rhythmic cadence of lute-strings (_tantrī-laya-samanvitaḥ_)—since this utterance sprang forth from me while I was stricken with grief (_śokārtasya_), let it be a _śloka_, and nothing otherwise!”
 </details>
 </details>
 
@@ -1103,7 +1103,7 @@ by which the saint too, was delighted. [1-2-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that sage spoke, his disciple Bharadvāja joyfully received and committed to memory (pratijagrāha saṃhṛṣṭaḥ) that peerless utterance; and the preceptor was deeply pleased with him.
+As that sage spoke, his disciple Bharadvāja joyfully received and committed to memory (_pratijagrāha saṃhṛṣṭaḥ_) that peerless utterance; and the preceptor was deeply pleased with him.
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ on him are on the analogy of poetic verses of Ramayana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed his ritual ablutions (abhiṣekam) in that sacred ford according to scriptural ordinance (yathāvidhi), the sage turned back toward his hermitage, pondering that very matter in his heart.
+Having performed his ritual ablutions (_abhiṣekam_) in that sacred ford according to scriptural ordinance (_yathāvidhi_), the sage turned back toward his hermitage, pondering that very matter in his heart.
 </details>
 </details>
 
@@ -1205,7 +1205,7 @@ his mentor. [1-2-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Bharadvāja—his humble disciple, richly endowed with sacred learning received from his preceptor (śrutavān guroḥ)—took up the pitcher filled with pure water and walked behind him.
+Then Bharadvāja—his humble disciple, richly endowed with sacred learning received from his preceptor (_śrutavān guroḥ_)—took up the pitcher filled with pure water and walked behind him.
 </details>
 </details>
 
@@ -1252,7 +1252,7 @@ is preoccupied in cogitation on the verse. [1-2-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the hermitage precinct accompanied by his disciple, that knower of dharma took his seat and, though conversing on other matters of sacred lore, remained inwardly absorbed in meditation (dhyānam āsthitaḥ).
+Entering the hermitage precinct accompanied by his disciple, that knower of _dharma_ took his seat and, though conversing on other matters of sacred lore, remained inwardly absorbed in meditation (_dhyānam āsthitaḥ_).
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ i.e. authoring the epic, Ramayana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the four-faced Lord Brahmā of transcendent splendor—the self-manifest Creator of the worlds (lokakartā svayaṃ prabhuḥ)—came in person to behold that bull among sages.
+Then the four-faced Lord Brahmā of transcendent splendor—the self-manifest Creator of the worlds (_lokakartā svayaṃ prabhuḥ_)—came in person to behold that bull among sages.
 </details>
 </details>
 
@@ -1364,7 +1364,7 @@ up from his seat with his palms adjoined humbly, he stood aside, as he is spellb
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him, Vālmīki rose at once in reverent silence (sahasotthāya vāgyataḥ); joining his palms in supplication (prāñjaliḥ) with a collected mind, he stood filled with supreme wonder.
+Beholding him, Vālmīki rose at once in reverent silence (_sahasotthāya vāgyataḥ_); joining his palms in supplication (_prāñjaliḥ_) with a collected mind, he stood filled with supreme wonder.
 </details>
 </details>
 
@@ -1444,7 +1444,7 @@ now arrives to ordain Valmiki to author Ramayana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing down in accordance with scriptural rule and inquiring after his unblemished well-being (nirāmayam), Vālmīki worshipped that Effulgent Lord with water for the feet (pādya), oblation-water (arghya), a seat of honor (āsana), and reverent salutations.
+Bowing down in accordance with scriptural rule and inquiring after his unblemished well-being (_nirāmayam_), Vālmīki worshipped that Effulgent Lord with water for the feet (_pādya_), oblation-water (_arghya_), a seat of honor (_āsana_), and reverent salutations.
 </details>
 </details>
 
@@ -1489,7 +1489,7 @@ at Valmiki to take a seat. [1-2-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having seated himself upon that supremely honored seat, the worshipful Lord Brahmā motioned to the seer Vālmīki to take his seat as well (saṃdideśāsanaṃ tataḥ).
+Then, having seated himself upon that supremely honored seat, the worshipful Lord Brahmā motioned to the seer Vālmīki to take his seat as well (_saṃdideśāsanaṃ tataḥ_).
 </details>
 </details>
 
@@ -1574,9 +1574,9 @@ to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Permitted by Brahmā (brahmaṇā samanujñātaḥ), he too sat down upon his seat. Even while the Grandfather of the worlds sat visibly before him in person (sākṣāl lokapitāmahe), Vālmīki, his mind wholly absorbed in that earlier tragedy, sank into brooding contemplation:
+**27:** Permitted by Brahmā (_brahmaṇā samanujñātaḥ_), he too sat down upon his seat. Even while the Grandfather of the worlds sat visibly before him in person (_sākṣāl lokapitāmahe_), Vālmīki, his mind wholly absorbed in that earlier tragedy, sank into brooding contemplation:
 
-**28:** “Alas, a cruel deed was perpetrated by that sinful-souled wretch of hostile intent, in that without any cause (akāraṇāt) he slew such a sweet-voiced krauñca bird!”
+**28:** “Alas, a cruel deed was perpetrated by that sinful-souled wretch of hostile intent, in that without any cause (_akāraṇāt_) he slew such a sweet-voiced _krauñca_ bird!”
 </details>
 </details>
 
@@ -1641,7 +1641,7 @@ jaguryashaH *
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grieving once again for the female krauñcī, his mind turned inward and wholly given over to sorrow (śokaparāyaṇaḥ), he chanted this very stanza closely aloud (upaślokam imaṃ jagau).
+Grieving once again for the female _krauñcī_, his mind turned inward and wholly given over to sorrow (_śokaparāyaṇaḥ_), he chanted this very stanza closely aloud (_upaślokam imaṃ jagau_).
 </details>
 </details>
 
@@ -1724,9 +1724,9 @@ you shall render the legend of Rama, in its entirety... [1-2-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**30:** Then Lord Brahmā, smiling gently (prahasan), spoke to that bull among sages: “A śloka indeed is this that has been composed by you; no anxious doubt need be entertained herein (nātra kāryā vicāraṇā)!
+**30:** Then Lord Brahmā, smiling gently (_prahasan_), spoke to that bull among sages: “A _śloka_ indeed is this that has been composed by you; no anxious doubt need be entertained herein (_nātra kāryā vicāraṇā_)!
 
-**31:** “By my own will alone (macchandād eva), O Brāhmaṇa, has this goddess of speech (sarasvatī) issued forth from your lips! Compose, therefore, in its entirety (kṛtsnam), the sacred history of Rāma, O noblest of seers!
+**31:** “By my own will alone (_macchandād eva_), O Brāhmaṇa, has this goddess of speech (_sarasvatī_) issued forth from your lips! Compose, therefore, in its entirety (_kṛtsnam_), the sacred history of Rāma, O noblest of seers!
 </details>
 </details>
 
@@ -1795,7 +1795,7 @@ a godlike person in this world as well, as you have heard it from sage Narada. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Narrate the deeds of Rāma—the righteous-souled (dharmātmanaḥ), the Lord possessed of sixfold divine majesty in this world (bhagavataḥ), the wise and steadfast hero (dhīmataḥ, dhīrasya)—just as you have heard them from Nārada.
+“Narrate the deeds of Rāma—the righteous-souled (_dharmātmanaḥ_), the Lord possessed of sixfold divine majesty in this world (_bhagavataḥ_), the wise and steadfast hero (_dhīmataḥ_, _dhīrasya_)—just as you have heard them from Nārada.
 </details>
 </details>
 
@@ -1870,9 +1870,9 @@ it were to be unknown, as yet... [1-2-33-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** “Whatever deeds—whether secret (rahasyam) or publicly known (prakāśam)—were performed by that wise Rāma together with Sumitrā’s son Lakṣmaṇa, and by the rākṣasas in every detail;
+**33:** “Whatever deeds—whether secret (_rahasyam_) or publicly known (_prakāśam_)—were performed by that wise Rāma together with Sumitrā’s son Lakṣmaṇa, and by the _rākṣasas_ in every detail;
 
-**34:** “And whatever befell Vaidehī (Sītā)—whether in public view or in solitude (rahaḥ)—all that too, though hitherto unknown to you (aviditaṃ sarvam), shall become directly known to your inner vision (viditaṃ te bhaviṣyati)!
+**34:** “And whatever befell Vaidehī (Sītā)—whether in public view or in solitude (_rahaḥ_)—all that too, though hitherto unknown to you (_aviditaṃ sarvam_), shall become directly known to your inner vision (_viditaṃ te bhaviṣyati_)!
 </details>
 </details>
 
@@ -1925,7 +1925,7 @@ word of yours will not be false in this epic... [1-2-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not a single word of yours in this poem shall ever prove untrue (na te vāg anṛtā kāvye kācid atra bhaviṣyati)! Compose, therefore, the sacred, heart-ravishing story of Rāma bound in melodious ślokas.”
+“Not a single word of yours in this poem shall ever prove untrue (_na te vāg anṛtā kāvye kācid atra bhaviṣyati_)! Compose, therefore, the sacred, heart-ravishing story of Rāma bound in melodious _ślokas_.”
 </details>
 </details>
 
@@ -1964,7 +1964,7 @@ Bestowing the immortal benediction ‘yāvat sthāsyanti girayaḥ...’, Lord B
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as the mountains and the rivers shall endure upon the surface of the earth, so long shall the story of the Rāmāyaṇa circulate throughout the worlds!
+“As long as the mountains and the rivers shall endure upon the surface of the earth, so long shall the story of the _Rāmāyaṇa_ circulate throughout the worlds!
 </details>
 </details>
 
@@ -2032,7 +2032,7 @@ heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as long as the story of Rāma composed by you (tvatkṛtā) shall circulate, so long shall you dwell aloft and below across all my cosmic realms (mallokeṣu nivatsyasi)!”
+“And as long as the story of Rāma composed by you (_tvatkṛtā_) shall circulate, so long shall you dwell aloft and below across all my cosmic realms (_mallokeṣu nivatsyasi_)!”
 </details>
 </details>
 
@@ -2083,7 +2083,7 @@ Valmiki came by astonishment, along with his disciples. [1-2-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the worshipful Lord Brahmā vanished on that very spot (tatraivāntaradhīyata); thereupon the worshipful sage Vālmīki, together with his disciples, entered into supreme wonder.
+Having spoken thus, the worshipful Lord Brahmā vanished on that very spot (_tatraivāntaradhīyata_); thereupon the worshipful sage Vālmīki, together with his disciples, entered into supreme wonder.
 </details>
 </details>
 
@@ -2136,7 +2136,7 @@ much astonished they also recited this verse, reciprocally. [1-2-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all of his disciples chanted this śloka again and again (muhur muhuḥ); filled with rapture and supreme astonishment, they declared to one another:
+Then all of his disciples chanted this _śloka_ again and again (_muhur muhuḥ_); filled with rapture and supreme astonishment, they declared to one another:
 </details>
 </details>
 
@@ -2204,7 +2204,7 @@ being sung by the disciples, thus anyone can recite it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sung by the great seer in four quarters of equal syllables (samākṣaraiś caturbhiḥ pādaiḥ), that very grief (śokaḥ), through repeated recitation (anuvyāharaṇād bhūyaḥ), has been transmuted into the state of a śloka (ślokatvam āgataḥ)!”
+“Sung by the great seer in four quarters of equal syllables (_samākṣaraiś caturbhiḥ pādaiḥ_), that very grief (_śokaḥ_), through repeated recitation (_anuvyāharaṇād bhūyaḥ_), has been transmuted into the state of a _śloka_ (_ślokatvam āgataḥ_)!”
 </details>
 </details>
 
@@ -2258,7 +2258,7 @@ entire Ramayana, the epic, in suchlike verses...' [1-2-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then this resolve arose in the mind of Vālmīki, whose inner self was purified by contemplation (bhāvitātmanaḥ): “With verses such as this (īdṛśaiḥ), I shall compose the entire Rāmāyaṇa poem!”
+Then this resolve arose in the mind of Vālmīki, whose inner self was purified by contemplation (_bhāvitātmanaḥ_): “With verses such as this (_īdṛśaiḥ_), I shall compose the entire _Rāmāyaṇa_ poem!”
 </details>
 </details>
 
@@ -2337,7 +2337,7 @@ meanings semantically, prosody free-flowing, and with hundreds of such verses. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that illustrious seer of noble vision (udāradarśanaḥ) composed for this glorious Rāma a fame-bestowing poem (yaśaskaraṃ kāvyam) in hundreds of equal-syllabled ślokas, adorned with exalted meters, pregnant meanings, and heart-ravishing words (udāra-vṛttārtha-padair manoramaiḥ).
+Then that illustrious seer of noble vision (_udāradarśanaḥ_) composed for this glorious Rāma a fame-bestowing poem (_yaśaskaraṃ kāvyam_) in hundreds of equal-syllabled _ślokas_, adorned with exalted meters, pregnant meanings, and heart-ravishing words (_udāra-vṛttārtha-padair manoramaiḥ_).
 </details>
 </details>
 
@@ -2412,6 +2412,6 @@ attentively.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pray listen attentively (niśāmayadhvam) to the sacred history of the noblest of the Raghus (raghuvaracaritam) and the slaying of the ten-headed Rāvaṇa, composed by the sage in sentences where compounds and euphonic junctions blend effortlessly (tad-upagata-samāsa-saṃdhi-yogam) and where harmonious, sweet words naturally yield their meaning (sama-madhuropanatārtha-vākya-baddham)!
+Pray listen attentively (_niśāmayadhvam_) to the sacred history of the noblest of the Raghus (_raghuvaracaritam_) and the slaying of the ten-headed Rāvaṇa, composed by the sage in sentences where compounds and euphonic junctions blend effortlessly (_tad-upagata-samāsa-saṃdhi-yogam_) and where harmonious, sweet words naturally yield their meaning (_sama-madhuropanatārtha-vākya-baddham_)!
 </details>
 </details>

@@ -82,7 +82,7 @@ Sumantra and with much distress, went to his house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Rāma remained upon the southern bank (dakṣiṇa-kūla-sthe), Guha, sorely afflicted with grief (su-duḥkhārtaḥ), conversed for a long time with Sumantra and then went to his own home (sva-gṛham).
+While Rāma remained upon the southern bank (_dakṣiṇa-kūla-sthe_), Guha, sorely afflicted with grief (_su-duḥkhārtaḥ_), conversed for a long time with Sumantra and then went to his own home (_sva-gṛham_).
 </details>
 </details>
 
@@ -138,7 +138,7 @@ Chitrakuta Mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their approach to Bharadvāja (bharadvājābhigamanam), their sitting together with him at Prayāga (prayāge ca sahāsanam), and their journey onward to the mountain (ā girer gamanam) were observed and reported by those stationed there (tatrasthair upalakṣitam).
+Their approach to Bharadvāja (_bharadvājābhigamanam_), their sitting together with him at Prayāga (_prayāge ca sahāsanam_), and their journey onward to the mountain (_ā girer gamanam_) were observed and reported by those stationed there (_tatrasthair upalakṣitam_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ with intense anguish, rode towards the very city of Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having received leave (anujñātaḥ) from Guha, Sumantra yoked his noble steeds (hayottamān) and set out toward the city of Ayodhyā alone, his heart deeply dejected (gāḍha-durmanāḥ).
+Then, having received leave (_anujñātaḥ_) from Guha, Sumantra yoked his noble steeds (_hayottamān_) and set out toward the city of Ayodhyā alone, his heart deeply dejected (_gāḍha-durmanāḥ_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ way, soon crossed them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon fragrant woods (vanāni sugandhīni), rivers, and lakes, he swiftly passed beyond (atiyayau śīghram) villages and towns (grāmāṇi nagarāṇi ca).
+Gazing upon fragrant woods (_vanāni sugandhīni_), rivers, and lakes, he swiftly passed beyond (_atiyayau śīghram_) villages and towns (_grāmāṇi nagarāṇi ca_).
 </details>
 </details>
 
@@ -294,7 +294,7 @@ joyless.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at eventide on the third day (tṛtīye 'hani sāyāhna-samaye), the charioteer reached Ayodhyā and beheld her utterly bereft of joy (nirānandām).
+Then, at eventide on the third day (_tṛtīye &#x27;hani sāyāhna-samaye_), the charioteer reached Ayodhyā and beheld her utterly bereft of joy (_nirānandām_).
 </details>
 </details>
 
@@ -346,7 +346,7 @@ in mind and having afflicted with intense anguish, surmised as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her silent and as though desolate (śūnyām iva niḥśabdām), Sumantra, deeply downcast in mind (parama-durmanāḥ) and struck by the surge of grief (śoka-vega-samāhataḥ), fell into anxious reflection.
+Beholding her silent and as though desolate (_śūnyām iva niḥśabdām_), Sumantra, deeply downcast in mind (_parama-durmanāḥ_) and struck by the surge of grief (_śoka-vega-samāhataḥ_), fell into anxious reflection.
 </details>
 </details>
 
@@ -406,7 +406,7 @@ burnt away by a fire of sorrow and blazing grief towards Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope that this city, together with its elephants and horses, its citizens and its lord of men (sa-gajā sāśvā sa-janā sa-janādhipā), has not been consumed by the fire of grief (dagdhā śokāgninā) born of the anguish of separation from Rāma (rāma-santāpa-duḥkhena)!”
+“I hope that this city, together with its elephants and horses, its citizens and its lord of men (_sa-gajā sāśvā sa-janā sa-janādhipā_), has not been consumed by the fire of grief (_dagdhā śokāgninā_) born of the anguish of separation from Rāma (_rāma-santāpa-duḥkhena_)!”
 </details>
 </details>
 
@@ -458,7 +458,7 @@ horses, entered the city quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Absorbed in such anxious thought (iti cintā-paraḥ), the charioteer, drawn by swift-flying steeds (vājibhiḥ śīghra-pātibhiḥ), reached the city gate and entered in haste (tvaritaḥ praviveśa ha).
+Absorbed in such anxious thought (_iti cintā-paraḥ_), the charioteer, drawn by swift-flying steeds (_vājibhiḥ śīghra-pātibhiḥ_), reached the city gate and entered in haste (_tvaritaḥ praviveśa ha_).
 </details>
 </details>
 
@@ -511,7 +511,7 @@ people ran towards him asking, "Where is Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sumantra drove onward (abhiyāntaṃ tam), men by hundreds and by thousands (śataśo 'tha sahasraśaḥ) ran toward the charioteer (sūtam abhyadravan), asking, “Where is Rāma (kva rāma iti)?”
+As Sumantra drove onward (_abhiyāntaṃ tam_), men by hundreds and by thousands (_śataśo &#x27;tha sahasraśaḥ_) ran toward the charioteer (_sūtam abhyadravan_), asking, “Where is Rāma (_kva rāma iti_)?”
 </details>
 </details>
 
@@ -586,9 +586,9 @@ their faces filled with tears sighed, "Oh, fie upon us! And cried aloud, "Alas, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** To them he recounted: “Having taken leave of Rāghava upon the bank of the Gaṅgā (gaṅgāyām aham āpṛcchya rāghavam), and having been dismissed by that righteous and magnanimous prince (anujñāto dhārmikeṇa mahātmanā), I have returned.”
+**10:** To them he recounted: “Having taken leave of Rāghava upon the bank of the Gaṅgā (_gaṅgāyām aham āpṛcchya rāghavam_), and having been dismissed by that righteous and magnanimous prince (_anujñāto dhārmikeṇa mahātmanā_), I have returned.”
 
-**11:** Learning that they had crossed over (te tīrṇā iti vijñāya), the people, their faces filled with tears (bāṣpa-pūrṇa-mukhāḥ), sighed “Alas! Fie upon us (aho dhig iti)!” and cried aloud, “O Rāma (hā rāmeti)!”
+**11:** Learning that they had crossed over (_te tīrṇā iti vijñāya_), the people, their faces filled with tears (_bāṣpa-pūrṇa-mukhāḥ_), sighed “Alas! Fie upon us (_aho dhig iti_)!” and cried aloud, “O Rāma (_hā rāmeti_)!”
 </details>
 </details>
 
@@ -641,7 +641,7 @@ indeed are we, who do not see Rama here!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he heard the words of those standing in crowd after crowd (bṛndaṃ bṛndaṃ ca tiṣṭhatām): “Undone indeed are we (hatāḥ sma khalu), who do not behold Rāghava here today!”
+And he heard the words of those standing in crowd after crowd (_bṛndaṃ bṛndaṃ ca tiṣṭhatām_): “Undone indeed are we (_hatāḥ sma khalu_), who do not behold Rāghava here today!”
 </details>
 </details>
 
@@ -701,7 +701,7 @@ sacrificial performances or marriages or in large meetings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Amid gift-givings, sacrifices, and weddings, and in great festive assemblies (dāna-yajña-vivāheṣu samājeṣu mahatsu ca), never again shall we behold the righteous Rāma standing in our midst (antarā)!
+“Amid gift-givings, sacrifices, and weddings, and in great festive assemblies (_dāna-yajña-vivāheṣu samājeṣu mahatsu ca_), never again shall we behold the righteous Rāma standing in our midst (_antarā_)!
 </details>
 </details>
 
@@ -754,7 +754,7 @@ was appropriate, what was congenial and what brought happiness to its people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘What is beneficial (kiṃ samartham) for this people, what is dear to them, and what brings them happiness (kiṃ sukhāvaham)?’—thus was this city cherished by Rāma like a father (pitṛvat paripālitam).”
+“‘What is beneficial (_kiṃ samartham_) for this people, what is dear to them, and what brings them happiness (_kiṃ sukhāvaham_)?’—thus was this city cherished by Rāma like a father (_pitṛvat paripālitam_).”
 </details>
 </details>
 
@@ -809,7 +809,7 @@ coming forth from windows, consumed by anguish on account of Rama's exile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And along the interior of the market-streets (anvantarāpaṇam), he heard the lamentation (paridevanam) of women stationed at the lattice-windows (vātāyana-gatānāṃ strīṇām), tormented by grief for Rāma.
+And along the interior of the market-streets (_anvantarāpaṇam_), he heard the lamentation (_paridevanam_) of women stationed at the lattice-windows (_vātāyana-gatānāṃ strīṇām_), tormented by grief for Rāma.
 </details>
 </details>
 
@@ -861,7 +861,7 @@ reached the house of Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing down the middle of the royal highway (rāja-mārga-madhyena) with his face covered (pihitānanaḥ), Sumantra approached that very palace where King Daśaratha abided.
+Passing down the middle of the royal highway (_rāja-mārga-madhyena_) with his face covered (_pihitānanaḥ_), Sumantra approached that very palace where King Daśaratha abided.
 </details>
 </details>
 
@@ -914,7 +914,7 @@ the seven inner apartments of the palace, filled with a large number of people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alighting swiftly from his chariot (avatīrya rathāc chīghram) and entering the royal residence, he traversed seven courts (kakṣyāḥ saptābhicakrāma) crowded with a great multitude of people (mahā-jana-samākulāḥ).
+Alighting swiftly from his chariot (_avatīrya rathāc chīghram_) and entering the royal residence, he traversed seven courts (_kakṣyāḥ saptābhicakrāma_) crowded with a great multitude of people (_mahā-jana-samākulāḥ_).
 </details>
 </details>
 
@@ -968,7 +968,7 @@ cried "Alas! Alas".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him arrived from the mansions, seven-storied palaces, and royal towers (harmyair vimānaiḥ prāsādaiḥ), the women, emaciated through not beholding Rāma (rāmādarśana-karśitāḥ), raised cries of “Alas! Alas!” (hāhā-kāra-kṛtāḥ).
+Beholding him arrived from the mansions, seven-storied palaces, and royal towers (_harmyair vimānaiḥ prāsādaiḥ_), the women, emaciated through not beholding Rāma (_rāmādarśana-karśitāḥ_), raised cries of “Alas! Alas!” (_hāhā-kāra-kṛtāḥ_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ with a stream of tears, looked at each other imperceptibly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With wide, limpid eyes flooded by a rush of tears (āyatair vimalair netrair aśru-vega-pariplutaiḥ), the deeply stricken women looked at one another indistinctly (anyonyam abhivīkṣante 'vyaktam) in their bewilderment.
+With wide, limpid eyes flooded by a rush of tears (_āyatair vimalair netrair aśru-vega-pariplutaiḥ_), the deeply stricken women looked at one another indistinctly (_anyonyam abhivīkṣante &#x27;vyaktam_) in their bewilderment.
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ on account of Rama's exile, from their respective inner apartments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, from the palaces here and there (prāsādebhyas tatas tataḥ), he heard the faint murmured speech (mandaṃ śuśrāva jalpitam) of Daśaratha’s queens, who were scorched by grief for Rāma.
+Then, from the palaces here and there (_prāsādebhyas tatas tataḥ_), he heard the faint murmured speech (_mandaṃ śuśrāva jalpitam_) of Daśaratha’s queens, who were scorched by grief for Rāma.
 </details>
 </details>
 
@@ -1133,7 +1133,7 @@ without Rama while he formerly went out with Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having gone forth together with Rāma and returned hither without Rāma (vinā rāmam ihāgataḥ), what indeed will the charioteer answer (kiṃ nāma prativakṣyati) unto the grieving Kausalyā?
+“Having gone forth together with Rāma and returned hither without Rāma (_vinā rāmam ihāgataḥ_), what indeed will the charioteer answer (_kiṃ nāma prativakṣyati_) unto the grieving Kausalyā?
 </details>
 </details>
 
@@ -1186,7 +1186,7 @@ think that surely it is difficult thus to live and it is not so easy to preserve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as I deem our life hard to bear (yathā ca manye durjīvam), so too is it surely no easy thing to die (evaṃ na sukaraṃ dhruvam), seeing that Kausalyā still lives when her son was torn away and sent forth into exile (ācchidya putre niryāte)!”
+“And as I deem our life hard to bear (_yathā ca manye durjīvam_), so too is it surely no easy thing to die (_evaṃ na sukaraṃ dhruvam_), seeing that Kausalyā still lives when her son was torn away and sent forth into exile (_ācchidya putre niryāte_)!”
 </details>
 </details>
 
@@ -1268,9 +1268,11 @@ of the grief for his son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Hearing those words of the king’s women, which were all too true in form (satya-rūpaṃ tu tad vākyam), he suddenly entered the inner apartment as though ablaze with grief (pradīptam iva śokena).
+**23:** Hearing those words of the king’s women, which were all too true in form (_satya-rūpaṃ tu tad vākyam_), he suddenly entered the inner apartment as though ablaze with grief (_pradīptam iva śokena_).
 
-**24:** Entering the eighth court (praviśyāṣṭamīṃ kakṣyām), he beheld in a pale white chamber (pāṇḍure gṛhe) the wretched and afflicted king (rājānaṃ dīnam āturam), withered by grief for his son (putra-śoka-parimlānam).
+**23:** Hearing those words of the king’s women, which were all too true in form (_satya-rūpaṃ tu tad vākyam_), he suddenly entered the inner apartment as though ablaze with grief (_pradīptam iva śokena_).
+
+**24:** Entering the eighth court (_praviśyāṣṭamīṃ kakṣyām_), he beheld in a pale white chamber (_pāṇḍure gṛhe_) the wretched and afflicted king (_rājānaṃ dīnam āturam_), withered by grief for his son (_putra-śoka-parimlānam_).
 </details>
 </details>
 
@@ -1330,7 +1332,7 @@ Rama's message as told.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching that seated lord of men and paying him reverence (abhigamya tam āsīnaṃ narendram abhivādya ca), Sumantra faithfully reported Rāma’s message just as it had been spoken (rāma-vacanaṃ yathoktaṃ pratyavedayat).
+Approaching that seated lord of men and paying him reverence (_abhigamya tam āsīnaṃ narendram abhivādya ca_), Sumantra faithfully reported Rāma’s message just as it had been spoken (_rāma-vacanaṃ yathoktaṃ pratyavedayat_).
 </details>
 </details>
 
@@ -1385,7 +1387,7 @@ for his son, became fainted and fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that message in utter silence (tūṣṇīm eva tac chrutvā), the king, his consciousness bewildered (vibhrānta-cetanaḥ) and crushed by grief for Rāma, fell swooning to the ground (mūrchito nyapatad bhūmau).
+Hearing that message in utter silence (_tūṣṇīm eva tac chrutvā_), the king, his consciousness bewildered (_vibhrānta-cetanaḥ_) and crushed by grief for Rāma, fell swooning to the ground (_mūrchito nyapatad bhūmau_).
 </details>
 </details>
 
@@ -1441,7 +1443,7 @@ the ground, the inmates of gynaeceum wept, raising their hands in distress.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the lord of the earth swooned and fell to the ground (mūrchite pṛthivī-patau nṛpatau patite kṣitau), the inner apartment was pierced with anguish (antaḥpuram āviddham) and cried aloud, flinging up their arms (uddhṛtya bāhū cukrośa).
+Then, when the lord of the earth swooned and fell to the ground (_mūrchite pṛthivī-patau nṛpatau patite kṣitau_), the inner apartment was pierced with anguish (_antaḥpuram āviddham_) and cried aloud, flinging up their arms (_uddhṛtya bāhū cukrośa_).
 </details>
 </details>
 
@@ -1493,7 +1495,7 @@ Kausalya also spoke these words to Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by Sumitrā (sumitrayā tu sahitā), Kausalyā then raised up her fallen lord (patitaṃ patim utthāpayām āsa) and spoke these words:
+Accompanied by Sumitrā (_sumitrayā tu sahitā_), Kausalyā then raised up her fallen lord (_patitaṃ patim utthāpayām āsa_) and spoke these words:
 </details>
 </details>
 
@@ -1545,7 +1547,7 @@ from the forest and who has done difficult things?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord of great fortune (mahā-bhāga), wherefore do you not speak in reply (kasmān na pratibhāṣase) to this messenger of that performer of arduous deeds (tasya duṣkara-kāriṇo dūtam), who has arrived from the forest-exile?”
+“O lord of great fortune (_mahā-bhāga_), wherefore do you not speak in reply (_kasmān na pratibhāṣase_) to this messenger of that performer of arduous deeds (_tasya duṣkara-kāriṇo dūtam_), who has arrived from the forest-exile?”
 </details>
 </details>
 
@@ -1606,7 +1608,7 @@ it be a meritorious act for you. You cannot get a help, when you weep like this.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having committed such an injustice today (adyaivam anayaṃ kṛtvā), do you now feel shame, O Rāghava (vyapatrapasi rāghava)? Arise—may merit be yours (sukṛtaṃ te 'stu)! In grief there is no help (śoke na syāt sahāyatā).
+“Having committed such an injustice today (_adyaivam anayaṃ kṛtvā_), do you now feel shame, O Rāghava (_vyapatrapasi rāghava_)? Arise—may merit be yours (_sukṛtaṃ te &#x27;stu_)! In grief there is no help (_śoke na syāt sahāyatā_).
 </details>
 </details>
 
@@ -1658,7 +1660,7 @@ Rama, that Kaikeyi is not here. Speak fearlessly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord, she out of fear of whom (yasyā bhayāt) you do not question the charioteer concerning Rāma—that Kaikeyī does not stand here (neha tiṣṭhati kaikeyī)! Speak to him freely and without fear (visrabdhaṃ pratibhāṣyatām)!”
+“O lord, she out of fear of whom (_yasyā bhayāt_) you do not question the charioteer concerning Rāma—that Kaikeyī does not stand here (_neha tiṣṭhati kaikeyī_)! Speak to him freely and without fear (_visrabdhaṃ pratibhāṣyatām_)!”
 </details>
 </details>
 
@@ -1710,7 +1712,7 @@ to the monarch and soon fell to the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus unto the great king, Kausalyā, wholly given over to grief (śoka-lālasā) and her voice choked with tears (bāṣpa-vipluta-bhāṣiṇī), swiftly fell upon the earth (dharaṇyāṃ nipapātāśu).
+Having spoken thus unto the great king, Kausalyā, wholly given over to grief (_śoka-lālasā_) and her voice choked with tears (_bāṣpa-vipluta-bhāṣiṇī_), swiftly fell upon the earth (_dharaṇyāṃ nipapātāśu_).
 </details>
 </details>
 
@@ -1763,7 +1765,7 @@ aforesaid and gazing their husband too (lying unconscious).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Kausalyā lamenting thus and fallen upon the ground (patitāṃ bhuvi), and looking upon their lord as well (patiṃ cāvekṣya), all those women wept aloud across the chambers (susvaraṃ ruruduḥ striyaḥ).
+Beholding Kausalyā lamenting thus and fallen upon the ground (_patitāṃ bhuvi_), and looking upon their lord as well (_patiṃ cāvekṣya_), all those women wept aloud across the chambers (_susvaraṃ ruruduḥ striyaḥ_).
 </details>
 </details>
 
@@ -1834,7 +1836,7 @@ all sides gathered around weeping. The city then again became disturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, hearing that great cry risen from the inner apartment (tam antaḥpura-nādam utthitaṃ samīkṣya), aged men and youths alike, and all the women on every side, wept aloud; and the city once again became tumultuous with lamentation (puraṃ tadāsīt punar eva saṅkulam).
+Then, hearing that great cry risen from the inner apartment (_tam antaḥpura-nādam utthitaṃ samīkṣya_), aged men and youths alike, and all the women on every side, wept aloud; and the city once again became tumultuous with lamentation (_puraṃ tadāsīt punar eva saṅkulam_).
 </details>
 </details>
 

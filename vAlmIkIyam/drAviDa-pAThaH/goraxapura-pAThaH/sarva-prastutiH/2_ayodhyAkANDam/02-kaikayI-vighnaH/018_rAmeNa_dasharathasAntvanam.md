@@ -137,7 +137,7 @@ and then saluted Kaikeyi's feet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Humbly bowing first to his father's feet in due reverence (vinītavat), he then bowed with a composed and serene mind (susamāhitaḥ) to the feet of Kaikeyī.
+Humbly bowing first to his father&#x27;s feet in due reverence (_vinītavat_), he then bowed with a composed and serene mind (_susamāhitaḥ_) to the feet of Kaikeyī.
 </details>
 </details>
 
@@ -314,7 +314,7 @@ who spoke untruth.
 
 **5:** With his senses robbed of all joy, wasted by the burning heat of grief, sighing heavily, his mind anguished and bewildered—
 
-**6:** that great monarch looked like the billow-garlanded, imperturbable ocean suddenly churned into turmoil, like the sun eclipsed by Rāhu (upaplutam), or like a sage who has uttered a falsehood (uktānṛtam).
+**6:** that great monarch looked like the billow-garlanded, imperturbable ocean suddenly churned into turmoil, like the sun eclipsed by Rāhu (_upaplutam_), or like a sage who has uttered a falsehood (_uktānṛtam_).
 </details>
 </details>
 
@@ -377,7 +377,7 @@ as an ocean does on a full moon day.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pondering that hampir-inconceivable (acintyakalpam) grief of the king, Rāma grew deeply agitated, like the ocean at the full moon (parvaṇi).
+Pondering that hampir-inconceivable (_acintyakalpam_) grief of the king, Rāma grew deeply agitated, like the ocean at the full moon (_parvaṇi_).
 </details>
 </details>
 
@@ -429,7 +429,7 @@ indeed the king is not greeting me in return just today?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ever devoted to his father's welfare, the discerning Rāma reflected: “Why is it that on this very day the king does not greet me with his customary joy?”
+Ever devoted to his father&#x27;s welfare, the discerning Rāma reflected: “Why is it that on this very day the king does not greet me with his customary joy?”
 </details>
 </details>
 
@@ -587,7 +587,7 @@ angry with me. You alone propitiate him in my favour."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope no offense has been committed by me through inadvertence (ajñānāt) on account of which my father is angry! Tell me that, and do you yourself propitiate him!”
+“I hope no offense has been committed by me through inadvertence (_ajñānāt_) on account of which my father is angry! Tell me that, and do you yourself propitiate him!”
 </details>
 </details>
 
@@ -705,7 +705,7 @@ object of happiness is indeed difficult to be attained always!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope no bodily fever (śārīraḥ saṃtāpaḥ) or mental anguish (mānaso 'bhitāpaḥ) afflicts him—for uninterrupted happiness is ever hard to obtain!”
+“I hope no bodily fever (_śārīraḥ saṃtāpaḥ_) or mental anguish (_mānaso &#x27;bhitāpaḥ_) afflicts him—for uninterrupted happiness is ever hard to obtain!”
 </details>
 </details>
 
@@ -812,7 +812,7 @@ satisfying him or without fulfilling his command."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Failing to gratify the great king or failing to carry out my father's command, I would not wish to live even for a single moment (muhūrtam api) while the monarch is displeased.”
+“Failing to gratify the great king or failing to carry out my father&#x27;s command, I would not wish to live even for a single moment (_muhūrtam api_) while the monarch is displeased.”
 </details>
 </details>
 
@@ -864,7 +864,7 @@ existence and how else can he behave towards him other than like that?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When a man beholds the very root and origin of his own existence here on earth in a father who stands before him as a visible deity (pratyakṣe daivate), how could he not act in devoted obedience toward him?”
+“When a man beholds the very root and origin of his own existence here on earth in a father who stands before him as a visible deity (_pratyakṣe daivate_), how could he not act in devoted obedience toward him?”
 </details>
 </details>
 
@@ -916,7 +916,7 @@ pride and anger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope my father has not been spoken to harshly by you in anger out of wounded pride (abhimānāt), whereby his mind has been agitated and distressed?”
+“I hope my father has not been spoken to harshly by you in anger out of wounded pride (_abhimānāt_), whereby his mind has been agitated and distressed?”
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ her own benefit, without any shame on her part.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the high-souled Rāghava, Kaikeyī, utterly devoid of shame (sunirlajjā), spoke these brazen words calculated to serve her own ends:
+Thus addressed by the high-souled Rāghava, Kaikeyī, utterly devoid of shame (_sunirlajjā_), spoke these brazen words calculated to serve her own ends:
 </details>
 </details>
 
@@ -1136,7 +1136,7 @@ one. He promised me a word. It is to be certainly done by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His voice cannot bring itself to speak what is unwelcome to you who are so dear to him; yet you must unfailingly carry out that which he has solemnly promised (āśrutam) to me!”
+“His voice cannot bring itself to speak what is unwelcome to you who are so dear to him; yet you must unfailingly carry out that which he has solemnly promised (_āśrutam_) to me!”
 </details>
 </details>
 
@@ -1182,7 +1182,7 @@ repenting now for having given the boon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having honored me of old and granted me a boon, this king now repents afterward, just like any ordinary, low-born man (prākṛtaḥ)!”
+“Having honored me of old and granted me a boon, this king now repents afterward, just like any ordinary, low-born man (_prākṛtaḥ_)!”
 </details>
 </details>
 
@@ -1228,7 +1228,7 @@ on a place where water has gone away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having solemnly pledged to me, ‘I grant this boon!’, the lord of the people now wishes in vain to bind a dam after the water has already flowed away (gatajale setum)!”
+“Having solemnly pledged to me, ‘I grant this boon!’, the lord of the people now wishes in vain to bind a dam after the water has already flowed away (_gatajale setum_)!”
 </details>
 </details>
 
@@ -1281,7 +1281,7 @@ See that the offended king does not abandon such a truth for your sake."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truth is the very root of righteousness (dharmamūlam), O Rāma, and this is well known to the virtuous as well; act therefore so that the king, though distraught for your sake, does not abandon that truth!”
+“Truth is the very root of righteousness (_dharmamūlam_), O Rāma, and this is well known to the virtuous as well; act therefore so that the king, though distraught for your sake, does not abandon that truth!”
 </details>
 </details>
 
@@ -1539,7 +1539,7 @@ Rama does not speak two things."
 
 **29:** “Commanded by my preceptor, father, king, and benefactor, I would swallow fierce poison or plunge even into the ocean!”
 
-**30:** “Therefore declare that word, O queen, which is desired by the king! I shall fulfill it, and I solemnly pledge it—Rāma does not speak twice (rāmo dvir nābhibhāṣate)!”
+**30:** “Therefore declare that word, O queen, which is desired by the king! I shall fulfill it, and I solemnly pledge it—Rāma does not speak twice (_rāmo dvir nābhibhāṣate_)!”
 </details>
 </details>
 
@@ -1599,7 +1599,7 @@ sincerity and speaking of truth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To that upright and truthful Rāma, the ignoble (anāryā) Kaikeyī spoke these exceedingly cruel words:
+To that upright and truthful Rāma, the ignoble (_anāryā_) Kaikeyī spoke these exceedingly cruel words:
 </details>
 </details>
 
@@ -1652,7 +1652,7 @@ protected your father who was pierced by darts. Then, he gave me two boons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, in the war between the gods and the demons (devāsure yuddhe), two boons were granted to me, O Rāghava, by your father when he was pierced with darts in the great battle and saved by me.”
+“Of old, in the war between the gods and the demons (_devāsure yuddhe_), two boons were granted to me, O Rāghava, by your father when he was pierced with darts in the great battle and saved by me.”
 </details>
 </details>
 
@@ -1759,7 +1759,7 @@ listen to these words of mine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you wish to make both your father and yourself true to your pledges (satyapratijñam), O best of men, then hear this word of mine:”
+“If you wish to make both your father and yourself true to your pledges (_satyapratijñam_), O best of men, then hear this word of mine:”
 </details>
 </details>
 
@@ -1811,7 +1811,7 @@ forest for fourteen years."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abide by your father's command (saṃnideśe), just as it was promised by him: the forest must be entered by you for nine years and five!”
+“Abide by your father&#x27;s command (_saṃnideśe_), just as it was promised by him: the forest must be entered by you for nine years and five!”
 </details>
 </details>
 
@@ -1864,7 +1864,7 @@ arranged by the king for your sake."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And let Bharata be consecrated with all this consecration apparatus (abhiṣecanam) that had been prepared by the king on your behalf, O Rāghava!”
+“And let Bharata be consecrated with all this consecration apparatus (_abhiṣecanam_) that had been prepared by the king on your behalf, O Rāghava!”
 </details>
 </details>
 
@@ -1927,7 +1927,7 @@ fourteen years, wearing braided hair and covered with a hide."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Relinquishing this royal consecration and betaking yourself to the Daṇḍaka forest for seven and seven years, wear matted locks and garments of bark (jaṭācīradharaḥ)!”
+“Relinquishing this royal consecration and betaking yourself to the Daṇḍaka forest for seven and seven years, wear matted locks and garments of bark (_jaṭācīradharaḥ_)!”
 </details>
 </details>
 

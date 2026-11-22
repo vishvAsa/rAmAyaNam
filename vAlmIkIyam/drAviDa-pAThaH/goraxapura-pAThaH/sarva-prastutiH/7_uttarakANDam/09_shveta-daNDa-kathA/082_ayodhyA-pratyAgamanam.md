@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heeding the sage’s words (ṛṣer vacanam ājñāya), Rāma approached the sacred lake frequented by throngs of apsarases (upākramat saraḥ puṇyam apsaro-gaṇa-sevitam) to worship the twilight (sandhyām upāsitum).
+Heeding the sage’s words (_ṛṣer vacanam ājñāya_), Rāma approached the sacred lake frequented by throngs of apsarases (_upākramat saraḥ puṇyam apsaro-gaṇa-sevitam_) to worship the twilight (_sandhyām upāsitum_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having touched water there and worshipped the western twilight (tatrodakam upaspṛśya sandhyām anvāsya paścimām), Rāma entered the hermitage of the great-souled pitcher-born sage (āśramaṃ prāviśad rāmaḥ kumbhayoner mahātmanaḥ).
+Having touched water there and worshipped the western twilight (_tatrodakam upaspṛśya sandhyām anvāsya paścimām_), Rāma entered the hermitage of the great-souled pitcher-born sage (_āśramaṃ prāviśad rāmaḥ kumbhayoner mahātmanaḥ_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For him Agastya prepared richly endowed tubers and roots, as well as divine herbs (bahu-guṇaṃ kanda-mūlaṃ tathauṣadhim), and pure grains beginning with śāli rice (śālyādīni pavitrāṇi) for his meal (bhojanārtham akalpayat).
+For him Agastya prepared richly endowed tubers and roots, as well as divine herbs (_bahu-guṇaṃ kanda-mūlaṃ tathauṣadhim_), and pure grains beginning with _śāli_ rice (_śālyādīni pavitrāṇi_) for his meal (_bhojanārtham akalpayat_).
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having eaten that nectar-like food (tad annam amṛtopamam), that foremost of men, pleased and thoroughly content (prītaś ca parituṣṭaś ca), passed that night there (tāṃ rātriṃ samupāviśat).
+Having eaten that nectar-like food (_tad annam amṛtopamam_), that foremost of men, pleased and thoroughly content (_prītaś ca parituṣṭaś ca_), passed that night there (_tāṃ rātriṃ samupāviśat_).
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising at dawn (prabhāte kālyam utthāya) and performing his morning rites (kṛtvā ’ ’hnikam), that subduer of foes, foremost of the Raghus, approached the sage in order to depart (ṛṣiṃ samupacakrāma gamanāya).
+Rising at dawn (_prabhāte kālyam utthāya_) and performing his morning rites (_kṛtvā ’ ’hnikam_), that subduer of foes, foremost of the Raghus, approached the sage in order to depart (_ṛṣiṃ samupacakrāma gamanāya_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having saluted the great sage born of the pitcher (abhivādyābravīd rāmo maharṣiṃ kumbha-sambhavam), Rāma said: “I ask your leave to depart for my own city (āpṛcche svāṃ purīṃ gantum); you ought to grant me permission (mām anujñātum arhasi).
+Having saluted the great sage born of the pitcher (_abhivādyābravīd rāmo maharṣiṃ kumbha-sambhavam_), Rāma said: “I ask your leave to depart for my own city (_āpṛcche svāṃ purīṃ gantum_); you ought to grant me permission (_mām anujñātum arhasi_).
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Blessed am I and favored am I (dhanyo ’smy anugṛhīto ’smi) by the sight of your great-souled self (darśanena mahātmanaḥ); and I shall come again to behold you here (draṣṭuṃ caivāgamiṣyāmi) for the purification of myself (pāvanārtham ihātmanaḥ).’
+“‘Blessed am I and favored am I (_dhanyo ’smy anugṛhīto ’smi_) by the sight of your great-souled self (_darśanena mahātmanaḥ_); and I shall come again to behold you here (_draṣṭuṃ caivāgamiṣyāmi_) for the purification of myself (_pāvanārtham ihātmanaḥ_).’
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As Kākutstha spoke these words of wondrous import (vākyam adbhuta-darśanam), the ascetic rich in austerity, whose eye is dharma (dharma-netras tapodhanaḥ), spoke in supreme delight (uvāca parama-prītaḥ):
+“As Kākutstha spoke these words of wondrous import (_vākyam adbhuta-darśanam_), the ascetic rich in austerity, whose eye is dharma (_dharma-netras tapodhanaḥ_), spoke in supreme delight (_uvāca parama-prītaḥ_):
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Most wondrous is this speech of yours, O Rāma, auspicious in its syllables (atyadbhutam idaṃ vākyaṃ tava rāma śubhākṣaram); for you alone are the purifier of all beings, O delight of the Raghus (pāvanaḥ sarva-bhūtānāṃ tvam eva raghunandana)!
+“‘Most wondrous is this speech of yours, O Rāma, auspicious in its syllables (_atyadbhutam idaṃ vākyaṃ tava rāma śubhākṣaram_); for you alone are the purifier of all beings, O delight of the Raghus (_pāvanaḥ sarva-bhūtānāṃ tvam eva raghunandana_)!
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whosoever behold you, O Rāma, even for a single moment (muhūrtam api rāma tvāṃ ye ca paśyanti kecana), purified and raised to heaven (pāvitāḥ svarga-bhūtāś ca), become worthy of worship by all the gods (pūjyās te sarva-daivataiḥ)!
+“‘Whosoever behold you, O Rāma, even for a single moment (_muhūrtam api rāma tvāṃ ye ca paśyanti kecana_), purified and raised to heaven (_pāvitāḥ svarga-bhūtāś ca_), become worthy of worship by all the gods (_pūjyās te sarva-daivataiḥ_)!
 </details>
 </details>
 
@@ -399,7 +399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And whatever living creatures upon earth look upon you with cruel eyes (ghora-cakṣurbhiḥ paśyanti prāṇino bhuvi), struck down by Yama’s rod (hatās te yama-daṇḍena), they go straightway to hell (sadyo niraya-gāminaḥ).
+“‘And whatever living creatures upon earth look upon you with cruel eyes (_ghora-cakṣurbhiḥ paśyanti prāṇino bhuvi_), struck down by Yama’s rod (_hatās te yama-daṇḍena_), they go straightway to hell (_sadyo niraya-gāminaḥ_).
 </details>
 </details>
 
@@ -441,7 +441,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Such a purifier of all embodied beings are you, O foremost of the Raghus (īdṛśas tvaṃ raghu-śreṣṭha pāvanaḥ sarva-dehinām); even those who merely recount your story on earth (bhuvi tvāṃ kathayanto ’pi) shall attain supreme perfection, O Rāghava (siddhim eṣyanti rāghava)!
+“‘Such a purifier of all embodied beings are you, O foremost of the Raghus (_īdṛśas tvaṃ raghu-śreṣṭha pāvanaḥ sarva-dehinām_); even those who merely recount your story on earth (_bhuvi tvāṃ kathayanto ’pi_) shall attain supreme perfection, O Rāghava (_siddhim eṣyanti rāghava_)!
 </details>
 </details>
 
@@ -475,7 +475,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Go now, unperturbed, along an auspicious path free from fear on every side (gaccha cāriṣṭam avyāgraḥ panthānam akutobhayam); govern the kingdom in righteousness (praśādhi rājyaṃ dharmeṇa), for you alone are the refuge of the world (gatir hi jagato bhavān)!’”
+“‘Go now, unperturbed, along an auspicious path free from fear on every side (_gaccha cāriṣṭam avyāgraḥ panthānam akutobhayam_); govern the kingdom in righteousness (_praśādhi rājyaṃ dharmeṇa_), for you alone are the refuge of the world (_gatir hi jagato bhavān_)!’”
 </details>
 </details>
 
@@ -509,7 +509,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the sage (evam uktas tu muninā), the wise king, joining his palms with arms uplifted (prāñjaliḥ pragraho nṛpaḥ), bowed in salutation to that sage rich in merit (abhyavādayata ... tam ṛṣiṃ puṇya-śālinam).
+Thus addressed by the sage (_evam uktas tu muninā_), the wise king, joining his palms with arms uplifted (_prāñjaliḥ pragraho nṛpaḥ_), bowed in salutation to that sage rich in merit (_abhyavādayata ... tam ṛṣiṃ puṇya-śālinam_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having saluted that foremost of sages and all those ascetics rich in penance (tāṃś ca sarvāṃs tapodhanān), he calmly ascended that gold-adorned Puṣpaka chariot (adhyārohat tad avyagraḥ puṣpakaṃ hema-bhūṣitam).
+Having saluted that foremost of sages and all those ascetics rich in penance (_tāṃś ca sarvāṃs tapodhanān_), he calmly ascended that gold-adorned Puṣpaka chariot (_adhyārohat tad avyagraḥ puṣpakaṃ hema-bhūṣitam_).
 </details>
 </details>
 
@@ -577,7 +577,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he departed, throngs of sages honored him on every side with benedictions (taṃ prayāntaṃ munigaṇā hy āśīrvādaiḥ samantataḥ apūjayan), him who resembled great Indra (mahendrābham), as the immortals honor the Thousand-Eyed Lord (sahasrākṣam ivāmarāḥ).
+As he departed, throngs of sages honored him on every side with benedictions (_taṃ prayāntaṃ munigaṇā hy āśīrvādaiḥ samantataḥ apūjayan_), him who resembled great Indra (_mahendrābham_), as the immortals honor the Thousand-Eyed Lord (_sahasrākṣam ivāmarāḥ_).
 </details>
 </details>
 
@@ -620,7 +620,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seated at ease in the gold-adorned Puṣpaka (svasthaḥ sa dadṛśe rāmaḥ puṣpake hema-bhūṣite), Rāma appeared like the moon resting near a cloud at the onset of the rains (śaśī megha-samīpastho yathā jaladharāgame).
+Seated at ease in the gold-adorned Puṣpaka (_svasthaḥ sa dadṛśe rāmaḥ puṣpake hema-bhūṣite_), Rāma appeared like the moon resting near a cloud at the onset of the rains (_śaśī megha-samīpastho yathā jaladharāgame_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when midday had arrived (tato ’rdha-divase prāpte), honored from every quarter (pūjyamānas tatas tataḥ), Kākutstha reached Ayodhyā and descended into the middle courtyard (ayodhyāṃ prāpya ... madhya-kakṣyām avāruhat).
+Then, when midday had arrived (_tato ’rdha-divase prāpte_), honored from every quarter (_pūjyamānas tatas tataḥ_), Kākutstha reached Ayodhyā and descended into the middle courtyard (_ayodhyāṃ prāpya ... madhya-kakṣyām avāruhat_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, alighting from that radiant, wish-going Puṣpaka (visṛjya ruciraṃ puṣpakaṃ kāmagāmi tat), the lord formally dismissed it, saying: “Go, and may it be well with you!” (visarjayitvā gaccheti svasti te ’stv iti ca prabhuḥ).
+Thereupon, alighting from that radiant, wish-going Puṣpaka (_visṛjya ruciraṃ puṣpakaṃ kāmagāmi tat_), the lord formally dismissed it, saying: “Go, and may it be well with you!” (_visarjayitvā gaccheti svasti te ’stv iti ca prabhuḥ_).
 </details>
 </details>
 
@@ -729,7 +729,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma spoke these words to the doorkeeper stationed in the inner courtyard (kakṣāntara-vinikṣiptaṃ dvāssthaṃ rāmo ’bravīd vacaḥ): “Go to Lakṣmaṇa and Bharata, those two of swift stride (tau laghu-vikramau), announce my arrival (mamāgamanam ākhyāya), and summon them without delay (śabdāpayata mā ciram)!”
+Then Rāma spoke these words to the doorkeeper stationed in the inner courtyard (_kakṣāntara-vinikṣiptaṃ dvāssthaṃ rāmo ’bravīd vacaḥ_): “Go to Lakṣmaṇa and Bharata, those two of swift stride (_tau laghu-vikramau_), announce my arrival (_mamāgamanam ākhyāya_), and summon them without delay (_śabdāpayata mā ciram_)!”
 </details>
 </details>
 

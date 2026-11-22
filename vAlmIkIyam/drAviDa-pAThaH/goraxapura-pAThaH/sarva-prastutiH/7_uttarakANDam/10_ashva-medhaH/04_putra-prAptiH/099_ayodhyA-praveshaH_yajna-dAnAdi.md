@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night had dawned (rajanyāṃ tu prabhātāyām), having assembled the great sages (samānīya mahāmunīn), Rāma spoke to his two sons (rāmaḥ putrāv uvāca ha): “Let it be sung by you two without hesitation (gīyatām aviśaṅkābhyām).”
+When the night had dawned (_rajanyāṃ tu prabhātāyām_), having assembled the great sages (_samānīya mahāmunīn_), Rāma spoke to his two sons (_rāmaḥ putrāv uvāca ha_): “Let it be sung by you two without hesitation (_gīyatām aviśaṅkābhyām_).”
 </details>
 </details>
 
@@ -82,7 +82,7 @@ When the night had dawned (rajanyāṃ tu prabhātāyām), having assembled the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the great-souled brahmarṣis had taken their seats (samupaviṣṭeṣu brahmarṣiṣu mahātmasu), those two, Kuśa and Lava, sang the future Uttara poem (bhaviṣyad uttaraṃ kāvyaṃ jagatus tau kuśīlavau).
+Then, when the great-souled brahmarṣis had taken their seats (_samupaviṣṭeṣu brahmarṣiṣu mahātmasu_), those two, Kuśa and Lava, sang the future Uttara poem (_bhaviṣyad uttaraṃ kāvyaṃ jagatus tau kuśīlavau_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ Then, when the great-souled brahmarṣis had taken their seats (samupaviṣṭe�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Sītā had entered the earth through the splendor of her truth (praviṣṭāyāṃ tu sītāyāṃ bhūtalaṃ satyasampadā), at the conclusion of that sacrifice (tasyāvasāne yajñasya), Rāma was deeply despondent (paramadurmanāḥ).
+When Sītā had entered the earth through the splendor of her truth (_praviṣṭāyāṃ tu sītāyāṃ bhūtalaṃ satyasampadā_), at the conclusion of that sacrifice (_tasyāvasāne yajñasya_), Rāma was deeply despondent (_paramadurmanāḥ_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ When Sītā had entered the earth through the splendor of her truth (praviṣṭ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not beholding Vaidehī (apaśyamāno vaidehīm), he deemed this entire world empty (mene śūnyam idaṃ jagat); sorely afflicted by grief (śokena paramāyastaḥ), he found no peace in his heart (na śāntiṃ manasā ’gamat).
+Not beholding Vaidehī (_apaśyamāno vaidehīm_), he deemed this entire world empty (_mene śūnyam idaṃ jagat_); sorely afflicted by grief (_śokena paramāyastaḥ_), he found no peace in his heart (_na śāntiṃ manasā ’gamat_).
 </details>
 </details>
 
@@ -181,9 +181,9 @@ Not beholding Vaidehī (apaśyamāno vaidehīm), he deemed this entire world emp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Having dismissed all the kings, bears, vānaras, and rākṣasas (visṛjya pārthivān sarvān ṛkṣa-vānara-rākṣasān), and having dismissed the multitude of foremost brahmins with prior gifts of wealth (vittapūrvaṃ visṛjya ca),
+**5:** Having dismissed all the kings, bears, vānaras, and rākṣasas (_visṛjya pārthivān sarvān ṛkṣa-vānara-rākṣasān_), and having dismissed the multitude of foremost brahmins with prior gifts of wealth (_vittapūrvaṃ visṛjya ca_),
 
-**6:** thus having completed the sacrifice in due ordinance (evaṃ samāpya yajñaṃ tu vidhivat), that Rāghava—lotus-eyed Rāma (rāmo rājīvalocanaḥ)—having dismissed them all,
+**6:** thus having completed the sacrifice in due ordinance (_evaṃ samāpya yajñaṃ tu vidhivat_), that Rāghava—lotus-eyed Rāma (_rāmo rājīvalocanaḥ_)—having dismissed them all,
 </details>
 </details>
 
@@ -224,9 +224,9 @@ Holding Sītā in his heart, Rāma re-enters Ayodhyā with his two sons, takes n
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** holding Sītā in his heart (hṛdi kṛtvā tadā sītām), entered Ayodhyā (ayodhyāṃ praviveśa ha)—that king who had offered the sacrifice (iṣṭayajño narapatiḥ), accompanied by his two sons (putradvaya-samanvitaḥ).
+**7:** holding Sītā in his heart (_hṛdi kṛtvā tadā sītām_), entered Ayodhyā (_ayodhyāṃ praviveśa ha_)—that king who had offered the sacrifice (_iṣṭayajño narapatiḥ_), accompanied by his two sons (_putradvaya-samanvitaḥ_).
 
-**8:** That delight of the Raghus chose no other wife besides Sītā (na sītāyāḥ parāṃ bhāryāṃ vavre); and at sacrifice after sacrifice (yajñe yajñe), to serve in the wife’s role (patnyartham), there was a golden image of Jānakī (jānakī kāñcanī bhavat).
+**8:** That delight of the Raghus chose no other wife besides Sītā (_na sītāyāḥ parāṃ bhāryāṃ vavre_); and at sacrifice after sacrifice (_yajñe yajñe_), to serve in the wife’s role (_patnyartham_), there was a golden image of Jānakī (_jānakī kāñcanī bhavat_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For ten thousand years thereafter he performed horse sacrifices (daśa varṣasahasrāṇi vājimedhān athākarot), and ten times as many Vājapeyas (vājapeyān daśaguṇān) as well as Bahusuvarṇaka rites (bahusuvarṇakān).
+For ten thousand years thereafter he performed horse sacrifices (_daśa varṣasahasrāṇi vājimedhān athākarot_), and ten times as many Vājapeyas (_vājapeyān daśaguṇān_) as well as Bahusuvarṇaka rites (_bahusuvarṇakān_).
 </details>
 </details>
 
@@ -291,7 +291,7 @@ For ten thousand years thereafter he performed horse sacrifices (daśa varṣasa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With Agniṣṭomas and Atirātras, with richly endowed Gosava rites (gosavaiś ca mahādhanaiḥ), and with other sacrifices furnished with ample sacrificial fees (kratubhir anyaiś ca ... āptadakṣiṇaiḥ), that glorious lord worshipped (īje).
+With Agniṣṭomas and Atirātras, with richly endowed Gosava rites (_gosavaiś ca mahādhanaiḥ_), and with other sacrifices furnished with ample sacrificial fees (_kratubhir anyaiś ca ... āptadakṣiṇaiḥ_), that glorious lord worshipped (_īje_).
 </details>
 </details>
 
@@ -322,7 +322,7 @@ With Agniṣṭomas and Atirātras, with richly endowed Gosava rites (gosavaiś 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus a vast span of time passed (evaṃ sa kālaḥ sumahān ... vyatīyāt) for the great-souled Rāghava, seated upon the throne (rājyasthasya) and ever striving in dharma (dharme prayatamānasya).
+Thus a vast span of time passed (_evaṃ sa kālaḥ sumahān ... vyatīyāt_) for the great-souled Rāghava, seated upon the throne (_rājyasthasya_) and ever striving in dharma (_dharme prayatamānasya_).
 </details>
 </details>
 
@@ -364,7 +364,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Day after day the kings gladdened King Rāghava (anurañjanti rājānam ahany ahani rāghavam), while bears, vānaras, and rākṣasas stood steadfast in Rāma’s command (sthitā rāmasya śāsane).
+Day after day the kings gladdened King Rāghava (_anurañjanti rājānam ahany ahani rāghavam_), while bears, vānaras, and rākṣasas stood steadfast in Rāma’s command (_sthitā rāmasya śāsane_).
 </details>
 </details>
 
@@ -398,7 +398,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The rain-cloud rained in due season (kāle varṣati parjanyaḥ); there was abundance of food (subhikṣam) and the quarters were clear (vimalā diśaḥ); the city and the countryside alike teemed with joyous, thriving people (hṛṣṭapuṣṭa-janākīrṇam).
+The rain-cloud rained in due season (_kāle varṣati parjanyaḥ_); there was abundance of food (_subhikṣam_) and the quarters were clear (_vimalā diśaḥ_); the city and the countryside alike teemed with joyous, thriving people (_hṛṣṭapuṣṭa-janākīrṇam_).
 </details>
 </details>
 
@@ -429,7 +429,7 @@ The rain-cloud rained in due season (kāle varṣati parjanyaḥ); there was abu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-None died untimely (nākāle mriyate kaścit), nor was there disease among living beings (na vyādhiḥ prāṇināṃ tathā), nor did any calamity exist (nānartho vidyate kaścit) while Rāma ruled the kingdom (rāme rājyaṃ praśāsati).
+None died untimely (_nākāle mriyate kaścit_), nor was there disease among living beings (_na vyādhiḥ prāṇināṃ tathā_), nor did any calamity exist (_nānartho vidyate kaścit_) while Rāma ruled the kingdom (_rāme rājyaṃ praśāsati_).
 </details>
 </details>
 
@@ -460,7 +460,7 @@ None died untimely (nākāle mriyate kaścit), nor was there disease among livin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, after a long lapse of time (atha dīrghasya kālasya), Rāma’s illustrious mother [Kausalyā] (rāmamātā yaśasvinī), surrounded by her sons and grandsons (putrapautraiḥ parivṛtā), met the law of time (kāladharmam upāgamat).
+Then, after a long lapse of time (_atha dīrghasya kālasya_), Rāma’s illustrious mother [Kausalyā] (_rāmamātā yaśasvinī_), surrounded by her sons and grandsons (_putrapautraiḥ parivṛtā_), met the law of time (_kāladharmam upāgamat_).
 </details>
 </details>
 
@@ -508,9 +508,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** Sumitrā followed after her (anviyāya sumitrā ca), and illustrious Kaikeyī too; having practiced manifold dharma (dharmaṃ kṛtvā bahuvidham), they became established in heaven (tridive paryavasthitā).
+**16:** Sumitrā followed after her (_anviyāya sumitrā ca_), and illustrious Kaikeyī too; having practiced manifold dharma (_dharmaṃ kṛtvā bahuvidham_), they became established in heaven (_tridive paryavasthitā_).
 
-**17:** All those greatly blessed queens (sarvāḥ ... mahābhāgāḥ), rejoicing in heaven and reunited with King Daśaratha (pramuditāḥ svarge rājñā daśarathena ca samāgatāḥ), obtained the fruit of every dharma (sarvadharmaṃ ca lebhire).
+**17:** All those greatly blessed queens (_sarvāḥ ... mahābhāgāḥ_), rejoicing in heaven and reunited with King Daśaratha (_pramuditāḥ svarge rājñā daśarathena ca samāgatāḥ_), obtained the fruit of every dharma (_sarvadharmaṃ ca lebhire_).
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For those mothers (tāsāṃ ... mātṝṇām), from time to time (kāle kāle), Rāma bestowed great gifts (mahādānam) without distinction (aviśeṣeṇa) upon ascetic brahmins (brāhmaṇeṣu tapasviṣu).
+For those mothers (_tāsāṃ ... mātṝṇām_), from time to time (_kāle kāle_), Rāma bestowed great gifts (_mahādānam_) without distinction (_aviśeṣeṇa_) upon ascetic brahmins (_brāhmaṇeṣu tapasviṣu_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteous Rāma offered ancestral treasures worthy of brahmins (pitryāṇi brahmaratnāni) and performed exceedingly arduous sacrifices (yajñān paramadustarān), gladdening the ancestors and the gods (pitṝn devān vivardhayan).
+Righteous Rāma offered ancestral treasures worthy of brahmins (_pitryāṇi brahmaratnāni_) and performed exceedingly arduous sacrifices (_yajñān paramadustarān_), gladdening the ancestors and the gods (_pitṝn devān vivardhayan_).
 </details>
 </details>
 
@@ -620,6 +620,6 @@ Righteous Rāma offered ancestral treasures worthy of brahmins (pitryāṇi brah
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus many thousands of years passed happily (evaṃ varṣasahasrāṇi bahūny atha yayuḥ sukham) for him who ever fostered manifold dharma through sacrifices (yajñair bahuvidhaṃ dharmaṃ vardhayānasya sarvadā).
+Thus many thousands of years passed happily (_evaṃ varṣasahasrāṇi bahūny atha yayuḥ sukham_) for him who ever fostered manifold dharma through sacrifices (_yajñair bahuvidhaṃ dharmaṃ vardhayānasya sarvadā_).
 </details>
 </details>

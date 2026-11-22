@@ -85,7 +85,7 @@ which are seen to be pleasant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Sītā’s harsh speech (paruṣaṃ vacanam), the lord of the rākṣasas then spoke an unpleasant reply (vipriyam) to Sītā, who was lovely to behold (priyadarśanām):
+Hearing Sītā’s harsh speech (_paruṣaṃ vacanam_), the lord of the rākṣasas then spoke an unpleasant reply (_vipriyam_) to Sītā, who was lovely to behold (_priyadarśanām_):
 </details>
 </details>
 
@@ -138,7 +138,7 @@ way men speak dear words, in that way they will be rejected."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The more a man speaks soothingly (sāntvayitā), the more he falls under the sway (vaśyaḥ) of women; the more he speaks what is pleasing (priyaṃ vaktā), the more he is despised (paribhūtaḥ)!
+“The more a man speaks soothingly (_sāntvayitā_), the more he falls under the sway (_vaśyaḥ_) of women; the more he speaks what is pleasing (_priyaṃ vaktā_), the more he is despised (_paribhūtaḥ_)!
 </details>
 </details>
 
@@ -189,7 +189,7 @@ bad path being subdued by a good charioteer."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The passion (kāmaḥ) that has arisen in me for you checks (saṃniyacchati) my wrath, just as a skilled charioteer (susārathiḥ) [checks] horses bolting off the road!
+The passion (_kāmaḥ_) that has arisen in me for you checks (_saṃniyacchati_) my wrath, just as a skilled charioteer (_susārathiḥ_) [checks] horses bolting off the road!
 </details>
 </details>
 
@@ -234,7 +234,7 @@ and fondness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon whatever person the perverse passion (vāmaḥ kāmaḥ) of mortals fastens itself, toward that very person, they say, compassion (anukrośaḥ) and affection arise.
+Upon whatever person the perverse passion (_vāmaḥ kāmaḥ_) of mortals fastens itself, toward that very person, they say, compassion (_anukrośaḥ_) and affection arise.
 </details>
 </details>
 
@@ -289,7 +289,7 @@ to be humilaited, interested in Rama who is in sham exile, I am not killing you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For this reason, O lovely-faced lady (varānane), I do not put you to death, though you deserve death (vadhārhām) and humiliation and delight in a false asceticism (mithyā pravrajane ratām)!
+For this reason, O lovely-faced lady (_varānane_), I do not put you to death, though you deserve death (_vadhārhām_) and humiliation and delight in a false asceticism (_mithyā pravrajane ratām_)!
 </details>
 </details>
 
@@ -338,7 +338,7 @@ suitable to be horribly slayed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For each and every harsh word (paruṣāṇi vākyāni) that you speak to me, O Maithilī, a dreadful death (vadho dāruṇaḥ) would be fitting for you!”
+For each and every harsh word (_paruṣāṇi vākyāni_) that you speak to me, O Maithilī, a dreadful death (_vadho dāruṇaḥ_) would be fitting for you!”
 </details>
 </details>
 
@@ -397,7 +397,7 @@ to Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Vaidehī, Rāvaṇa, the overlord of the rākṣasas, filled with furious agitation (krodhasaṃrambhasaṃyuktaḥ), spoke a further word to Sītā:
+Having spoken thus to Vaidehī, Rāvaṇa, the overlord of the rākṣasas, filled with furious agitation (_krodhasaṃrambhasaṃyuktaḥ_), spoke a further word to Sītā:
 </details>
 </details>
 
@@ -443,7 +443,7 @@ protectable to me. Thereafter ascend my bed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Two months (dvau māsau) remain to be kept by me—the time-limit (avadhiḥ) that I fixed for you; thereafter, O lady of exquisite complexion (varavarṇini), ascend my couch!
+“Two months (_dvau māsau_) remain to be kept by me—the time-limit (_avadhiḥ_) that I fixed for you; thereafter, O lady of exquisite complexion (_varavarṇini_), ascend my couch!
 </details>
 </details>
 
@@ -497,7 +497,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-But after two months, if you still do not desire me as your husband, cooks (sūdāḥ) shall chop you up piece by piece (khaṇḍaśaḥ) for my morning meal (prātarāśārthe)!”
+But after two months, if you still do not desire me as your husband, cooks (_sūdāḥ_) shall chop you up piece by piece (_khaṇḍaśaḥ_) for my morning meal (_prātarāśārthe_)!”
 </details>
 </details>
 
@@ -545,7 +545,7 @@ eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that Jānakī being menaced (bhartsyamānām) by the lord of the rākṣasas, those daughters of gods and gandharvas (devagandharvakanyāḥ) sank into dejection with distressed eyes (vikṛtekṣaṇāḥ).
+Beholding that Jānakī being menaced (_bhartsyamānām_) by the lord of the rākṣasas, those daughters of gods and gandharvas (_devagandharvakanyāḥ_) sank into dejection with distressed eyes (_vikṛtekṣaṇāḥ_).
 </details>
 </details>
 
@@ -599,7 +599,7 @@ frightened by that ogre.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some by movements of their lips (oṣṭhaprakāraiḥ), and others by gestures of their eyes and faces (netrair vaktraiḥ), comforted Sītā as she was threatened by that rākṣasa.
+Some by movements of their lips (_oṣṭhaprakāraiḥ_), and others by gestures of their eyes and faces (_netrair vaktraiḥ_), comforted Sītā as she was threatened by that rākṣasa.
 </details>
 </details>
 
@@ -647,7 +647,7 @@ ogres Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reassured (āśvāsitā) by them, Sītā spoke to Rāvaṇa, the overlord of the rākṣasas, a speech salutary for herself (ātmahitam) and proud with the heroism of her chaste conduct (vṛttaśauṭīryagarvitam):
+Reassured (_āśvāsitā_) by them, Sītā spoke to Rāvaṇa, the overlord of the rākṣasas, a speech salutary for herself (_ātmahitam_) and proud with the heroism of her chaste conduct (_vṛttaśauṭīryagarvitam_):
 </details>
 </details>
 
@@ -704,7 +704,7 @@ welfare there is none. This is definite."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely there is no one in this city devoted to your ultimate welfare (niḥśreyasi sthitaḥ), since no one restrains (nivārayati) you from this reprehensible deed (karmaṇo vigarhitāt)!
+“Surely there is no one in this city devoted to your ultimate welfare (_niḥśreyasi sthitaḥ_), since no one restrains (_nivārayati_) you from this reprehensible deed (_karmaṇo vigarhitāt_)!
 </details>
 </details>
 
@@ -753,7 +753,7 @@ Rama like Sachi the wife of Indra."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who else than you in the three worlds would even in thought (manasāpi) covet me, the wife of that righteous-souled lord, like Śacī the consort of Śacīpati [Indra]?
+Who else than you in the three worlds would even in thought (_manasāpi_) covet me, the wife of that righteous-souled lord, like Śacī the consort of Śacīpati [Indra]?
 </details>
 </details>
 
@@ -799,7 +799,7 @@ from that word where will you go to be released?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O vilest of rākṣasas (rākṣasādhama), having spoken such a sinful word against the wife of Rāma of immeasurable splendour (amitatejasaḥ), whither will you flee to escape (mokṣyase) from it?
+O vilest of rākṣasas (_rākṣasādhama_), having spoken such a sinful word against the wife of Rāma of immeasurable splendour (_amitatejasaḥ_), whither will you flee to escape (_mokṣyase_) from it?
 </details>
 </details>
 
@@ -848,7 +848,7 @@ an elephant and you are said to be like a hare."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As a proud elephant (dṛptaś ca mātaṅgaḥ) and a hare (śaśaś ca) brought together in a forest, so is Rāma remembered as like the tusker (dviradavat), while you, O vile one, are like the hare (śaśavat)!
+As a proud elephant (_dṛptaś ca mātaṅgaḥ_) and a hare (_śaśaś ca_) brought together in a forest, so is Rāma remembered as like the tusker (_dviradavat_), while you, O vile one, are like the hare (_śaśavat_)!
 </details>
 </details>
 
@@ -896,7 +896,7 @@ matter so much."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such as you are, reviling (kṣipan) the lord of the Ikṣvākus here, are you not ashamed—so long as you do not come within the range of his sight (cakṣuṣo viṣaye)?
+Such as you are, reviling (_kṣipan_) the lord of the Ikṣvākus here, are you not ashamed—so long as you do not come within the range of his sight (_cakṣuṣo viṣaye_)?
 </details>
 </details>
 
@@ -951,7 +951,7 @@ are seeing me, for what reason are they not falling down."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Why have these two cruel, deformed, dark-tawny eyes (kṛṣṇapiṅgale nayane) of yours not fallen to the ground (kṣitau na patite) as you gaze upon me, O ignoble wretch (anārya)?
+Why have these two cruel, deformed, dark-tawny eyes (_kṛṣṇapiṅgale nayane_) of yours not fallen to the ground (_kṣitau na patite_) as you gaze upon me, O ignoble wretch (_anārya_)?
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ your tongue did not fall off."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am the wife of that righteous-souled lord and the daughter-in-law (snuṣā) of Daśaratha; as you accost (vyāharataḥ) me, O sinner, how does your tongue not split into pieces (na jihvā śīryati)?
+I am the wife of that righteous-souled lord and the daughter-in-law (_snuṣā_) of Daśaratha; as you accost (_vyāharataḥ_) me, O sinner, how does your tongue not split into pieces (_na jihvā śīryati_)?
 </details>
 </details>
 
@@ -1059,7 +1059,7 @@ austerity, I am not reducing you into ashes with my glory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Only because I lack Rāma’s mandate (asaṃdeśāt) and because I guard my asceticism (tapasaś cānupālanāt), O ten-necked one (daśagrīva), do I not reduce you—who deserve to be ashes—to ashes (bhasma) by my fiery energy (tejasā)!
+Only because I lack Rāma’s mandate (_asaṃdeśāt_) and because I guard my asceticism (_tapasaś cānupālanāt_), O ten-necked one (_daśagrīva_), do I not reduce you—who deserve to be ashes—to ashes (_bhasma_) by my fiery energy (_tejasā_)!
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ In this there is no doubt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I could never be carried off from that wise Rāma; surely Destiny (vidhiḥ) ordained this for the purpose of your destruction (tava vadhārthāya)—of this there is no doubt!
+I could never be carried off from that wise Rāma; surely Destiny (_vidhiḥ_) ordained this for the purpose of your destruction (_tava vadhārthāya_)—of this there is no doubt!
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ of wife has been done."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Since you are a hero, the brother of Dhanada [Kubera], and exalted with armies (balaiḥ samuditena), why did you lure Rāma away (apohya rāmam) and commit a cowardly theft of a wife (dāracauryam)?”
+Since you are a hero, the brother of Dhanada [Kubera], and exalted with armies (_balaiḥ samuditena_), why did you lure Rāma away (_apohya rāmam_) and commit a cowardly theft of a wife (_dāracauryam_)?”
 </details>
 </details>
 
@@ -1216,7 +1216,7 @@ King of rakshasas Ravana listening to Seetha's words turned around his cruel eye
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Sītā’s words, Rāvaṇa, the overlord of the rākṣasas, rolling (vivṛtya) his two cruel eyes, glared (anvavaikṣata) at Jānakī.
+Hearing Sītā’s words, Rāvaṇa, the overlord of the rākṣasas, rolling (_vivṛtya_) his two cruel eyes, glared (_anvavaikṣata_) at Jānakī.
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling a dark storm-cloud (nīlajīmūtasaṃkāśaḥ), with massive arms and neck (mahābhujaśirodharaḥ), possessing the strength and gait of a lion (siṃhasattvagatiḥ), majestic, with blazing tongue-tip and fierce eyes (dīptajihvogralocanaḥ),
+Resembling a dark storm-cloud (_nīlajīmūtasaṃkāśaḥ_), with massive arms and neck (_mahābhujaśirodharaḥ_), possessing the strength and gait of a lion (_siṃhasattvagatiḥ_), majestic, with blazing tongue-tip and fierce eyes (_dīptajihvogralocanaḥ_),
 </details>
 </details>
 
@@ -1329,9 +1329,9 @@ Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Tall with a diadem of swaying crest-tips (calāgramukuṭaprāṃśuḥ), decked with variegated garlands and unguents (citramālyānulepanaḥ), wearing red garlands and robes, and adorned with armlets of refined gold (taptāṅgadabhūṣaṇaḥ),
+**25:** Tall with a diadem of swaying crest-tips (_calāgramukuṭaprāṃśuḥ_), decked with variegated garlands and unguents (_citramālyānulepanaḥ_), wearing red garlands and robes, and adorned with armlets of refined gold (_taptāṅgadabhūṣaṇaḥ_),
 
-**26:** well-girt with a great dark-blue waist-girdle (śroṇīsūtreṇa mahatā mecakena), like Mount Mandara bound around with the serpent [Vāsuki] at the churning of the nectar (amṛtotpādane),
+**26:** well-girt with a great dark-blue waist-girdle (_śroṇīsūtreṇa mahatā mecakena_), like Mount Mandara bound around with the serpent [Vāsuki] at the churning of the nectar (_amṛtotpādane_),
 </details>
 </details>
 
@@ -1390,7 +1390,7 @@ its peaks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with those two full, massive arms (paripūrṇābhyāṃ bhujābhyām), that lord of the rākṣasas, resembling a mountain, shone like Mount Mandara with its two peaks (śṛṅgābhyām).
+with those two full, massive arms (_paripūrṇābhyāṃ bhujābhyām_), that lord of the rākṣasas, resembling a mountain, shone like Mount Mandara with its two peaks (_śṛṅgābhyām_).
 </details>
 </details>
 
@@ -1435,7 +1435,7 @@ with red flowers and shoots.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with two earrings of the hue of the rising sun (taruṇādityavarṇābhyāṃ kuṇḍalābhyām), he looked like a mountain graced with two aśoka trees in crimson leaf and blossom (raktapallavapuṣpābhyām).
+Adorned with two earrings of the hue of the rising sun (_taruṇādityavarṇābhyāṃ kuṇḍalābhyām_), he looked like a mountain graced with two aśoka trees in crimson leaf and blossom (_raktapallavapuṣpābhyām_).
 </details>
 </details>
 
@@ -1483,7 +1483,7 @@ grave-yard was horrible even though decorated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling a wish-granting tree (kalpavṛkṣapratimaḥ) and like Spring incarnate (vasanta iva mūrtimān), yet resembling a tree in a cremation ground (śmaśānacaityapratimaḥ), he was terrifying (bhayaṃkaraḥ) even though adorned.
+Resembling a wish-granting tree (_kalpavṛkṣapratimaḥ_) and like Spring incarnate (_vasanta iva mūrtimān_), yet resembling a tree in a cremation ground (_śmaśānacaityapratimaḥ_), he was terrifying (_bhayaṃkaraḥ_) even though adorned.
 </details>
 </details>
 
@@ -1527,7 +1527,7 @@ With red eyes due to anger Ravana was looking at Seetha sighing like a serpant a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon Vaidehī with eyes bloodshot with rage (kopasaṃraktalocanaḥ), Rāvaṇa spoke to Sītā, hissing like a serpent (bhujaṃga iva niḥśvasan):
+Gazing upon Vaidehī with eyes bloodshot with rage (_kopasaṃraktalocanaḥ_), Rāvaṇa spoke to Sītā, hissing like a serpent (_bhujaṃga iva niḥśvasan_):
 </details>
 </details>
 
@@ -1581,7 +1581,7 @@ morning twilight with light.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you who are devoted (anuvrate) to one steeped in unrighteousness (anayenābhisampannam) and bereft of all wealth (arthahīnam)! Today I shall destroy you by my might, just as the sun [destroys] the twilight (sūryaḥ saṃdhyām ivaujasā)!”
+“O you who are devoted (_anuvrate_) to one steeped in unrighteousness (_anayenābhisampannam_) and bereft of all wealth (_arthahīnam_)! Today I shall destroy you by my might, just as the sun [destroys] the twilight (_sūryaḥ saṃdhyām ivaujasā_)!”
 </details>
 </details>
 
@@ -1636,7 +1636,7 @@ women with horrible appearances.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Maithilī, King Rāvaṇa, who makes his enemies wail (śatrurāvaṇaḥ), then surveyed (saṃdadarśa) [and commanded] all the rākṣasīs of dreadful aspect (ghoradarśanāḥ):
+Having spoken thus to Maithilī, King Rāvaṇa, who makes his enemies wail (_śatrurāvaṇaḥ_), then surveyed (_saṃdadarśa_) [and commanded] all the rākṣasīs of dreadful aspect (_ghoradarśanāḥ_):
 </details>
 </details>
 
@@ -1776,15 +1776,15 @@ of punishment, bring Seetha under my possession."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** one-eyed (ekākṣīm), one-eared (ekakarṇām), having ears for a mantle (karṇaprāvaraṇām), cow-eared, elephant-eared, pendulous-eared, and earless (akarṇikām);
+**33:** one-eyed (_ekākṣīm_), one-eared (_ekakarṇām_), having ears for a mantle (_karṇaprāvaraṇām_), cow-eared, elephant-eared, pendulous-eared, and earless (_akarṇikām_);
 
-**34:** elephant-footed and horse-footed (hastipadyaśvapadyau), cow-footed, having hair-tufts on the feet (pādacūlikām), one-eyed, one-footed, broad-footed, and footless (apādikām);
+**34:** elephant-footed and horse-footed (_hastipadyaśvapadyau_), cow-footed, having hair-tufts on the feet (_pādacūlikām_), one-eyed, one-footed, broad-footed, and footless (_apādikām_);
 
-**35:** possessing oversized heads and necks (atimātraśirogrīvām), oversized breasts and bellies (atimātrakucodarīm), oversized mouths and eyes, and long tongues and nails (dīrghajihvānakhām);
+**35:** possessing oversized heads and necks (_atimātraśirogrīvām_), oversized breasts and bellies (_atimātrakucodarīm_), oversized mouths and eyes, and long tongues and nails (_dīrghajihvānakhām_);
 
-**36:** noseless (anāsikām), lion-faced, cow-faced, and sow-faced (sūkarīmukhīm)—[saying]: “[Act] so that Jānakī Sītā swiftly bends to my will (madvaśagā bhavati)!
+**36:** noseless (_anāsikām_), lion-faced, cow-faced, and sow-faced (_sūkarīmukhīm_)—[saying]: “[Act] so that Jānakī Sītā swiftly bends to my will (_madvaśagā bhavati_)!
 
-**37:** All of you rākṣasīs, either singly or coming together (sametya vā), act swiftly by hostile and friendly measures (pratilomānulomaiḥ), and by conciliation, gifts, and dissension (sāmadānādibhedanaiḥ),
+**37:** All of you rākṣasīs, either singly or coming together (_sametya vā_), act swiftly by hostile and friendly measures (_pratilomānulomaiḥ_), and by conciliation, gifts, and dissension (_sāmadānādibhedanaiḥ_),
 </details>
 </details>
 
@@ -1819,7 +1819,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and bend Vaidehī to my will (āvarjayata vaidehīm) even by brandishing punishment (daṇḍasyodyamanena ca)!” Having thus instructed them again and again, the lord of the rākṣasas,
+and bend Vaidehī to my will (_āvarjayata vaidehīm_) even by brandishing punishment (_daṇḍasyodyamanena ca_)!” Having thus instructed them again and again, the lord of the rākṣasas,
 </details>
 </details>
 
@@ -1865,7 +1865,7 @@ Thereafter an ogre named Dhanyamalini quickly neared Ravana, embraced him and sp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-his mind overwhelmed by passion and wrath (kāmamanyuparītātmā), roared (garjata) at Jānakī. Then, swiftly approaching, the rākṣasī Dhānyamālinī
+his mind overwhelmed by passion and wrath (_kāmamanyuparītātmā_), roared (_garjata_) at Jānakī. Then, swiftly approaching, the rākṣasī Dhānyamālinī
 </details>
 </details>
 
@@ -1906,7 +1906,7 @@ a wreched human."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-embraced (pariṣvajya) the ten-necked one and spoke this word: “Sport with me (mayā krīḍa), O great king! What use have you for this Sītā—
+embraced (_pariṣvajya_) the ten-necked one and spoke this word: “Sport with me (_mayā krīḍa_), O great king! What use have you for this Sītā—
 </details>
 </details>
 
@@ -1956,7 +1956,7 @@ arms. This is definite."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-a pale (vivarṇayā), wretched mortal woman (kṛpaṇayā mānuṣyā), O lord of the rākṣasas? Surely, O great king, the gods have not [ordained] for her the supreme enjoyments (bhogasattamān)
+a pale (_vivarṇayā_), wretched mortal woman (_kṛpaṇayā mānuṣyā_), O lord of the rākṣasas? Surely, O great king, the gods have not [ordained] for her the supreme enjoyments (_bhogasattamān_)
 </details>
 </details>
 
@@ -2013,7 +2013,7 @@ one who loves a woman who desires him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-won by the strength of your arms (tava bāhubalārjitān)! When a man courts an unwilling woman (akāmāṃ kāmayānasya), his own body is tormented (śarīram upatapyate);
+won by the strength of your arms (_tava bāhubalārjitān_)! When a man courts an unwilling woman (_akāmāṃ kāmayānasya_), his own body is tormented (_śarīram upatapyate_);
 </details>
 </details>
 
@@ -2072,7 +2072,7 @@ away turned back laughing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-when he courts a willing woman (icchatīṃ kāmayānasya), the delight becomes exquisite (prītir bhavati śobhanā)!” Thus addressed by that rākṣasī and gently drawn away (samutkṣiptaḥ), that mighty
+when he courts a willing woman (_icchatīṃ kāmayānasya_), the delight becomes exquisite (_prītir bhavati śobhanā_)!” Thus addressed by that rākṣasī and gently drawn away (_samutkṣiptaḥ_), that mighty
 </details>
 </details>
 
@@ -2126,7 +2126,7 @@ blazing sun shine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-rākṣasa, resembling a storm-cloud, laughed (prahasan) and turned back (nyavartata). Setting forth and making the earth tremble, as it were (kampayann iva medinīm), that ten-necked one entered his palace resembling the blazing sun (jvaladbhāskarasaṃkāśam).
+rākṣasa, resembling a storm-cloud, laughed (_prahasan_) and turned back (_nyavartata_). Setting forth and making the earth tremble, as it were (_kampayann iva medinīm_), that ten-necked one entered his palace resembling the blazing sun (_jvaladbhāskarasaṃkāśam_).
 </details>
 </details>
 
@@ -2181,7 +2181,7 @@ among houses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounding (parivārya) the ten-necked one, those daughters of gods and gandharvas and daughters of nāgas (nāgakanyāś ca) then entered that peerless palace (gṛhottamam).
+Surrounding (_parivārya_) the ten-necked one, those daughters of gods and gandharvas and daughters of nāgas (_nāgakanyāś ca_) then entered that peerless palace (_gṛhottamam_).
 </details>
 </details>
 
@@ -2257,6 +2257,6 @@ Seetha, infatuated by love, entered his own house which was shining.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having menaced (paribhartsya) that trembling Maithilī who remained steadfast in dharma (dharmaparām avasthitām), that Rāvaṇa, infatuated by love (madanena mohitaḥ), left Sītā and entered his own radiant abode.
+Having menaced (_paribhartsya_) that trembling Maithilī who remained steadfast in dharma (_dharmaparām avasthitām_), that Rāvaṇa, infatuated by love (_madanena mohitaḥ_), left Sītā and entered his own radiant abode.
 </details>
 </details>

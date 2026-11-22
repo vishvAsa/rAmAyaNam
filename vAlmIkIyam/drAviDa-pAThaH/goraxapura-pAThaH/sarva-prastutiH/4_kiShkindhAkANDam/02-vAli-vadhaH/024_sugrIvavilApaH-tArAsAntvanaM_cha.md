@@ -97,7 +97,7 @@ mighty brother Sugreeva regretted for the killing of his matchless brother. [4-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her then swiftly (āśu) overwhelmed by an irresistible (durāsadena) and mighty ocean of grief (śokamahārṇavena) through the rush [of tears] (vegena), the impetuous younger brother of Vālin (vālyanujas tarasvī) was tormented (tepe) by the matchless slaying of his brother (bhrātur vadhenāpratimena).
+Beholding her then swiftly (_āśu_) overwhelmed by an irresistible (_durāsadena_) and mighty ocean of grief (_śokamahārṇavena_) through the rush [of tears] (_vegena_), the impetuous younger brother of Vālin (_vālyanujas tarasvī_) was tormented (_tepe_) by the matchless slaying of his brother (_bhrātur vadhenāpratimena_).
 </details>
 </details>
 
@@ -160,7 +160,7 @@ face, and lamenting very much he slowly paced to the near of Rama, surrounded by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing with a tear-filled face (bāṣpapūrṇena mukhena paśyan), that high-minded one (manasvī), his heart instantly filled with world-weariness (kṣaṇena nirviṇṇamanāḥ), slowly (śanaiḥ) approached Rāma's presence (jagāma rāmasya samīpam), surrounded by his attendants (bhṛtyair vṛtaḥ) and sorely anguished (samparidūyamānaḥ).
+Gazing with a tear-filled face (_bāṣpapūrṇena mukhena paśyan_), that high-minded one (_manasvī_), his heart instantly filled with world-weariness (_kṣaṇena nirviṇṇamanāḥ_), slowly (_śanaiḥ_) approached Rāma&#x27;s presence (_jagāma rāmasya samīpam_), surrounded by his attendants (_bhṛtyair vṛtaḥ_) and sorely anguished (_samparidūyamānaḥ_).
 </details>
 </details>
 
@@ -224,7 +224,7 @@ confront any hopping of any monkey at him, with indignation for killing Vali.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching (samāsādya) that illustrious Rāghava (yaśasvinaṃ rāghavam), who stood holding his bow (gṛhītacāpam), exalted (udāttam), bearing arrows like venomous serpents (āśīviṣatulyabāṇam), and having his body marked with auspicious royal signs (lakṣaṇalakṣitāṅgam), he spoke thus:
+Approaching (_samāsādya_) that illustrious Rāghava (_yaśasvinaṃ rāghavam_), who stood holding his bow (_gṛhītacāpam_), exalted (_udāttam_), bearing arrows like venomous serpents (_āśīviṣatulyabāṇam_), and having his body marked with auspicious royal signs (_lakṣaṇalakṣitāṅgam_), he spoke thus:
 </details>
 </details>
 
@@ -287,7 +287,7 @@ and kingship, as my life itself is rendered despicable, for I got my brother kil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as this was promised (yathā pratijñātam idam), O lord of men (narendra), you have accomplished (kṛtaṃ tvayā) the deed whose fruit is visibly manifest (dṛṣṭaphalaṃ ca karma); yet today, O son of a king (narendrasūno), because my life is blighted (hatajīvitena), my mind has turned away from royal pleasures (mamādya bhogeṣu mano nivṛttam).
+“Just as this was promised (_yathā pratijñātam idam_), O lord of men (_narendra_), you have accomplished (_kṛtaṃ tvayā_) the deed whose fruit is visibly manifest (_dṛṣṭaphalaṃ ca karma_); yet today, O son of a king (_narendrasūno_), because my life is blighted (_hatajīvitena_), my mind has turned away from royal pleasures (_mamādya bhogeṣu mano nivṛttam_).
 </details>
 </details>
 
@@ -346,7 +346,7 @@ such oh, Rama, my heart is not taking delight in kingdom. [4-24-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While this queen is weeping bitterly (asyāṃ mahiṣyāṃ tu bhṛśaṃ rudatyām), while the grief-stricken city cries out in anguish (pure 'tivikrośati duḥkhatapte), and while the king is slain (hate nṛpe) and Aṅgada's very life is in doubt (saṃśayite 'ṅgade ca), O Rāma, my mind takes no delight in the kingdom (na rāma rājye ramate mano me).
+While this queen is weeping bitterly (_asyāṃ mahiṣyāṃ tu bhṛśaṃ rudatyām_), while the grief-stricken city cries out in anguish (_pure &#x27;tivikrośati duḥkhatapte_), and while the king is slain (_hate nṛpe_) and Aṅgada&#x27;s very life is in doubt (_saṃśayite &#x27;ṅgade ca_), O Rāma, my mind takes no delight in the kingdom (_na rāma rājye ramate mano me_).
 </details>
 </details>
 
@@ -405,7 +405,7 @@ monkeys Vali is put to death, I am painfully remorseful. [4-24-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of wrath (krodhāt), indignation (amarṣāt), and extreme humiliation (ativipradharṣāt), the slaying of my brother was consented to by me beforehand (bhrātur vadho me 'numataḥ purastāt); but now that this monkey troop-lord is slain (hate tv idānīṃ hariyūthape 'smin), I shall suffer most piercingly (sutīkṣṇam... pratapsye), O best of the Ikṣvākus (ikṣvākuvara)!
+Out of wrath (_krodhāt_), indignation (_amarṣāt_), and extreme humiliation (_ativipradharṣāt_), the slaying of my brother was consented to by me beforehand (_bhrātur vadho me &#x27;numataḥ purastāt_); but now that this monkey troop-lord is slain (_hate tv idānīṃ hariyūthape &#x27;smin_), I shall suffer most piercingly (_sutīkṣṇam... pratapsye_), O best of the Ikṣvākus (_ikṣvākuvara_)!
 </details>
 </details>
 
@@ -477,7 +477,7 @@ is of no good. [4-24-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I deem it better today (śreyo 'dya manye) to have dwelt long upon that chief of mountains, Ṛṣyamūka (śailamukhye tasmin hi vāsaś ciram ṛṣyamūke), subsisting somehow by my own livelihood (yathā tathā vartayataḥ svavṛttyā), rather than gaining heaven itself after slaying this [brother] (nemaṃ nihatya tridivasya lābhaḥ).
+“I deem it better today (_śreyo &#x27;dya manye_) to have dwelt long upon that chief of mountains, Ṛṣyamūka (_śailamukhye tasmin hi vāsaś ciram ṛṣyamūke_), subsisting somehow by my own livelihood (_yathā tathā vartayataḥ svavṛttyā_), rather than gaining heaven itself after slaying this [brother] (_nemaṃ nihatya tridivasya lābhaḥ_).
 </details>
 </details>
 
@@ -536,7 +536,7 @@ in getting him killed are befitting to me, as an irrational vanara. [4-24-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That which this high-souled, wise one (ayaṃ mahātmā matimān) said to me—`I do not wish to slay you; go your way!' (na tvā jighāṃsāmi careti)—that word, O Rāma, was worthy of him alone (tasyaiva tad rāma vaco 'nurūpam), whereas this word and deed [of mine] are worthy of me (idaṃ vacaḥ karma ca me 'nurūpam)!
+That which this high-souled, wise one (_ayaṃ mahātmā matimān_) said to me—`I do not wish to slay you; go your way!&#x27; (_na tvā jighāṃsāmi careti_)—that word, O Rāma, was worthy of him alone (_tasyaiva tad rāma vaco &#x27;nurūpam_), whereas this word and deed [of mine] are worthy of me (_idaṃ vacaḥ karma ca me &#x27;nurūpam_)!
 </details>
 </details>
 
@@ -596,7 +596,7 @@ he that is going to take pleasure in killing his own highly honoured brother? Ex
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-How indeed, O Rāma, could a brother (bhrātā kathaṃ nāma) take delight in the slaying of a brother of great virtues (mahāguṇasya bhrātur vadhaṃ virocayeta), even when driven by desire (kāmapuraskṛto 'pi), if he reflects upon the true weight (sāraṃ vicintayan) of sovereignty and of sorrow (rājyasya duḥkhasya ca)?
+How indeed, O Rāma, could a brother (_bhrātā kathaṃ nāma_) take delight in the slaying of a brother of great virtues (_mahāguṇasya bhrātur vadhaṃ virocayeta_), even when driven by desire (_kāmapuraskṛto &#x27;pi_), if he reflects upon the true weight (_sāraṃ vicintayan_) of sovereignty and of sorrow (_rājyasya duḥkhasya ca_)?
 </details>
 </details>
 
@@ -649,7 +649,7 @@ taking, violating my own probity. [4-24-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For my death was never desired [by him] (vadho hi me mato nāsīt), because he would not transgress his own magnanimity (svamāhātmyavyatikramāt); whereas through the wickedness of my intellect (mama... buddhidaurātmyāt) there arose a transgression that took his life (prāṇahārī vyatikramaḥ).
+For my death was never desired [by him] (_vadho hi me mato nāsīt_), because he would not transgress his own magnanimity (_svamāhātmyavyatikramāt_); whereas through the wickedness of my intellect (_mama... buddhidaurātmyāt_) there arose a transgression that took his life (_prāṇahārī vyatikramaḥ_).
 </details>
 </details>
 
@@ -703,7 +703,7 @@ but later on comforting me he said this to me, 'do not do this again, this darin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck down by a tree-branch (drumaśākhāvabhagno 'ham) and groaning for a moment (muhūrtaṃ pariniṣṭanan), I was consoled by him and told (sāntvayitvā tv anenoktaḥ): `You ought not to act thus again!' (na punaḥ kartum arhasi).
+Struck down by a tree-branch (_drumaśākhāvabhagno &#x27;ham_) and groaning for a moment (_muhūrtaṃ pariniṣṭanan_), I was consoled by him and told (_sāntvayitvā tv anenoktaḥ_): `You ought not to act thus again!&#x27; (_na punaḥ kartum arhasi_).
 </details>
 </details>
 
@@ -755,7 +755,7 @@ and also naughtiness of a monkey. [4-24-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fraternal duty (bhrātṛtvam), noble conduct (āryabhāvaś ca), and righteousness (dharmaś ca) were preserved by him (anena rakṣitaḥ); whereas by me wrath (krodhaś ca), lust (kāmaś ca), and monkey-fickleness (kapitvaṃ ca) have been displayed (pradarśitam)!
+Fraternal duty (_bhrātṛtvam_), noble conduct (_āryabhāvaś ca_), and righteousness (_dharmaś ca_) were preserved by him (_anena rakṣitaḥ_); whereas by me wrath (_krodhaś ca_), lust (_kāmaś ca_), and monkey-fickleness (_kapitvaṃ ca_) have been displayed (_pradarśitam_)!
 </details>
 </details>
 
@@ -838,7 +838,7 @@ slaying a Brahman.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Like Indra from the slaying of Tvaṣṭṛ's son [Viśvarūpa] (tvāṣṭravadhād ivendraḥ), I have incurred (prāpto 'smi) from the slaying of my brother (bhrātur vadhāt), O friend (vayasya), this sin (pāpmānam idam)—unthinkable (acintanīyam), to be shunned (parivarjanīyam), undesirable (anīpsanīyam), and utterly loathsome to behold (svanavekṣaṇīyam)!
+“Like Indra from the slaying of Tvaṣṭṛ&#x27;s son [Viśvarūpa] (_tvāṣṭravadhād ivendraḥ_), I have incurred (_prāpto &#x27;smi_) from the slaying of my brother (_bhrātur vadhāt_), O friend (_vayasya_), this sin (_pāpmānam idam_)—unthinkable (_acintanīyam_), to be shunned (_parivarjanīyam_), undesirable (_anīpsanīyam_), and utterly loathsome to behold (_svanavekṣaṇīyam_)!
 </details>
 </details>
 
@@ -906,7 +906,7 @@ puraNa *, sixth canto.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The earth, the water, the trees, and women (mahī jalaṃ ca vṛkṣāś ca... striyaś ca) willingly took upon themselves (kāmaṃ jagṛhuḥ) the sin of Indra (pāpmānam indrasya); who indeed would bear this sin (ko nāma pāpmānam imaṃ saheta) of a mere branch-leaper [monkey] (śākhāmṛgasya) or wish to assume it (pratipattum icchet)?
+The earth, the water, the trees, and women (_mahī jalaṃ ca vṛkṣāś ca... striyaś ca_) willingly took upon themselves (_kāmaṃ jagṛhuḥ_) the sin of Indra (_pāpmānam indrasya_); who indeed would bear this sin (_ko nāma pāpmānam imaṃ saheta_) of a mere branch-leaper [monkey] (_śākhāmṛgasya_) or wish to assume it (_pratipattum icchet_)?
 </details>
 </details>
 
@@ -965,7 +965,7 @@ the price regent of this kingdom, wherefore to become its regent? [4-24-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having committed such a deed (evaṃvidhaṃ karma kṛtvā), O Rāghava, fraught with unrighteousness (adharmayuktam) and the destruction of my clan (kulanāśayuktam), I do not deserve this honor from the subjects (nārhāmi sammānam imaṃ prajānām), nor the office of heir apparent (na yauvarājyam)—how much less the sovereignty itself (kuta eva rājyam)!
+Having committed such a deed (_evaṃvidhaṃ karma kṛtvā_), O Rāghava, fraught with unrighteousness (_adharmayuktam_) and the destruction of my clan (_kulanāśayuktam_), I do not deserve this honor from the subjects (_nārhāmi sammānam imaṃ prajānām_), nor the office of heir apparent (_na yauvarājyam_)—how much less the sovereignty itself (_kuta eva rājyam_)!
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ towards a declivity. [4-24-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am the perpetrator of a sin (pāpasya kartāsmi) reviled in the world (vigarhitasyā... loke), base (kṣudrasya), and injurious to the world (lokāpakṛtasya); this mighty grief rushes upon me (śoko mahān mām abhivartate 'yam) just like a torrent of rainwater rushing down into low ground (vṛṣṭer yathā nimnam ivāmbuvegaḥ).
+I am the perpetrator of a sin (_pāpasya kartāsmi_) reviled in the world (_vigarhitasyā... loke_), base (_kṣudrasya_), and injurious to the world (_lokāpakṛtasya_); this mighty grief rushes upon me (_śoko mahān mām abhivartate &#x27;yam_) just like a torrent of rainwater rushing down into low ground (_vṛṣṭer yathā nimnam ivāmbuvegaḥ_).
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ sin, is goring me as it would gore a riverbed. [4-24- 17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-An elephant wrought of sin (enomayo hastī)—having the slaying of my own brother for its hind-limbs and tail (sodaryaghātāparagātravālaḥ), and remorse for its trunk, eyes, head, and tusks (saṃtāpahastākṣiśiroviṣāṇaḥ)—proud and swollen in rut (dṛpto... pravṛddhaḥ), batters me down (mām abhihanti) as it does a river-bank (nadīkūlam iva).
+An elephant wrought of sin (_enomayo hastī_)—having the slaying of my own brother for its hind-limbs and tail (_sodaryaghātāparagātravālaḥ_), and remorse for its trunk, eyes, head, and tusks (_saṃtāpahastākṣiśiroviṣāṇaḥ_)—proud and swollen in rut (_dṛpto... pravṛddhaḥ_), batters me down (_mām abhihanti_) as it does a river-bank (_nadīkūlam iva_).
 </details>
 </details>
 
@@ -1150,7 +1150,7 @@ is unshed. [4-24-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas (bata), O best of men (nṛvara), because of this unbearable sin (idam aṃho... aviṣahyam), virtuous conduct recedes within my heart (nivartate me hṛdi sādhuvṛttam), O Rāghava, just like discolored dross (vivarṇaṃ... kiṭṭaṃ yathā) from gold (jātarūpam) being smelted in the fire (agnau paritapyamānam)!
+Alas (_bata_), O best of men (_nṛvara_), because of this unbearable sin (_idam aṃho... aviṣahyam_), virtuous conduct recedes within my heart (_nivartate me hṛdi sādhuvṛttam_), O Rāghava, just like discolored dross (_vivarṇaṃ... kiṭṭaṃ yathā_) from gold (_jātarūpam_) being smelted in the fire (_agnau paritapyamānam_)!
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ Vali. [4-24-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because of me (mannimittam), O Rāghava, and from the torment of grief of this Aṅgada (asyāṅgadasyāpi ca śokatāpāt), I deem this whole clan of mighty monkey troop-lords (mahābalānāṃ hariyūthapānām idaṃ kulam) to have its life-breath half-departed, as it were (ardhasthitaprāṇam itīva manye).
+“Because of me (_mannimittam_), O Rāghava, and from the torment of grief of this Aṅgada (_asyāṅgadasyāpi ca śokatāpāt_), I deem this whole clan of mighty monkey troop-lords (_mahābalānāṃ hariyūthapānām idaṃ kulam_) to have its life-breath half-departed, as it were (_ardhasthitaprāṇam itīva manye_).
 </details>
 </details>
 
@@ -1293,7 +1293,7 @@ own brothers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-An amiable and obedient son (sujanaḥ suvaśyaḥ sutaḥ) may be easily found (sulabhyaḥ), O hero (vīra), yet whence could a son like Aṅgada be found (kutas tu putraḥ sadṛśo 'ṅgadena)? Nor is there any land (na cāpi vidyeta sa deśaḥ) where union with a uterine brother might be regained (yasmin bhavet sodarasaṃnikarṣaḥ).
+An amiable and obedient son (_sujanaḥ suvaśyaḥ sutaḥ_) may be easily found (_sulabhyaḥ_), O hero (_vīra_), yet whence could a son like Aṅgada be found (_kutas tu putraḥ sadṛśo &#x27;ṅgadena_)? Nor is there any land (_na cāpi vidyeta sa deśaḥ_) where union with a uterine brother might be regained (_yasmin bhavet sodarasaṃnikarṣaḥ_).
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ son her misery will become miserable, and then she too may not live... this is m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today Aṅgada, the foremost of heroes (adyāṅgado vīravaraḥ), will not survive (na jīvet); [only if he lived] would his mother live for the sake of protecting him (jīveta mātā paripālanārtham), whereas without her son (vinā tu putram), afflicted by anguish (paritāpadīnā), she will certainly not live (sā naiva jīvet)—such is my conviction (iti niścitaṃ me).
+Today Aṅgada, the foremost of heroes (_adyāṅgado vīravaraḥ_), will not survive (_na jīvet_); [only if he lived] would his mother live for the sake of protecting him (_jīveta mātā paripālanārtham_), whereas without her son (_vinā tu putram_), afflicted by anguish (_paritāpadīnā_), she will certainly not live (_sā naiva jīvet_)—such is my conviction (_iti niścitaṃ me_).
 </details>
 </details>
 
@@ -1422,7 +1422,7 @@ your control. [4-24-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, desiring fellowship with my brother and my son (bhrātrā ca putreṇa ca sakhyam icchan), I shall enter a blazing fire (so 'haṃ pravekṣyāmy atidīptam agnim); meanwhile, abiding under your command (nideśe parivartamānāḥ), these foremost of monkey heroes (ime haripravīrāḥ) will search for Sītā (vicheṣyanti sītām).
+Therefore, desiring fellowship with my brother and my son (_bhrātrā ca putreṇa ca sakhyam icchan_), I shall enter a blazing fire (_so &#x27;haṃ pravekṣyāmy atidīptam agnim_); meanwhile, abiding under your command (_nideśe parivartamānāḥ_), these foremost of monkey heroes (_ime haripravīrāḥ_) will search for Sītā (_vicheṣyanti sītām_).
 </details>
 </details>
 
@@ -1486,7 +1486,7 @@ one to live, and hence permit me to commit myself to fire..." Thus Sugreeva said
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even when I have passed away (mayy apy atīte), O son of the lord of men (manujendraputra), this entire mission of yours will succeed (kṛtsnaṃ tu te setsyati kāryam etat); therefore, O Rāma, grant leave (anujānīhi) to me, the destroyer of my clan (kulasya hantāram), a sinner (kṛtāgasam) unworthy of living (ajīvanārham)!”
+Even when I have passed away (_mayy apy atīte_), O son of the lord of men (_manujendraputra_), this entire mission of yours will succeed (_kṛtsnaṃ tu te setsyati kāryam etat_); therefore, O Rāma, grant leave (_anujānīhi_) to me, the destroyer of my clan (_kulasya hantāram_), a sinner (_kṛtāgasam_) unworthy of living (_ajīvanārham_)!”
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ of Sugreeva to self-immolate with his dead brother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of Vālin's afflicted younger brother (ity evam ārtasya vaco vālijaghanyajasya), Rāma, the foremost of the Raghus (raghupravīraḥ) and slayer of hostile heroes (paravīrahantā), had his eyes fill with tears (saṃjātabāṣpaḥ) and became momentarily downcast in mind (muhūrtaṃ vimanā babhūva).
+Hearing these words of Vālin&#x27;s afflicted younger brother (_ity evam ārtasya vaco vālijaghanyajasya_), Rāma, the foremost of the Raghus (_raghupravīraḥ_) and slayer of hostile heroes (_paravīrahantā_), had his eyes fill with tears (_saṃjātabāṣpaḥ_) and became momentarily downcast in mind (_muhūrtaṃ vimanā babhūva_).
 </details>
 </details>
 
@@ -1627,7 +1627,7 @@ with all his concernedness Rama paced towards her. [4-24-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that moment (tasmin kṣaṇe), looking repeatedly (abhīkṣṇam avekṣamāṇaḥ), that protector of the world (bhuvanasya goptā), endowed with the forbearance of the earth (kṣitikṣamāvān), Rāma, eagerly desirous [of dispelling her grief] (samutsukaḥ), then beheld Tārā weeping and plunged in calamity (rudantīṃ vyasane nimagnām).
+At that moment (_tasmin kṣaṇe_), looking repeatedly (_abhīkṣṇam avekṣamāṇaḥ_), that protector of the world (_bhuvanasya goptā_), endowed with the forbearance of the earth (_kṣitikṣamāvān_), Rāma, eagerly desirous [of dispelling her grief] (_samutsukaḥ_), then beheld Tārā weeping and plunged in calamity (_rudantīṃ vyasane nimagnām_).
 </details>
 </details>
 
@@ -1686,7 +1686,7 @@ husband. [4-24-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The chief ministers (mantripradhānāḥ) raised up (utthāpayāmāsuḥ) that lovely-eyed wife of the monkey king (tāṃ cārunetrāṃ kapirājapatnīm), whose lord was the lion among monkeys (kapisiṃhanāthām), of undiminished spirit (adīnasattvām), who was then lying embracing her husband (patiṃ samāśliṣya tadā śayānām).
+The chief ministers (_mantripradhānāḥ_) raised up (_utthāpayāmāsuḥ_) that lovely-eyed wife of the monkey king (_tāṃ cārunetrāṃ kapirājapatnīm_), whose lord was the lion among monkeys (_kapisiṃhanāthām_), of undiminished spirit (_adīnasattvām_), who was then lying embracing her husband (_patiṃ samāśliṣya tadā śayānām_).
 </details>
 </details>
 
@@ -1756,7 +1756,7 @@ padma puraaNa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Trembling (visphurantī) as she was held back (parirabhyamāṇā) and led away from her husband's side (bhartuḥ samīpād apanīyamānā), she beheld Rāma holding arrow and bow in hand (śaracāpapāṇim), blazing with his own splendor like the sun (svatejasā sūryam iva jvalantam).
+Trembling (_visphurantī_) as she was held back (_parirabhyamāṇā_) and led away from her husband&#x27;s side (_bhartuḥ samīpād apanīyamānā_), she beheld Rāma holding arrow and bow in hand (_śaracāpapāṇim_), blazing with his own splendor like the sun (_svatejasā sūryam iva jvalantam_).
 </details>
 </details>
 
@@ -1827,7 +1827,7 @@ vidavad jana parishrama*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The fawn-eyed lady (mṛgaśāvanetrā) recognized (prajajñe) that lovely-eyed one (taṃ cārunetram), fully endowed with the marks of a sovereign (susaṃvṛtaṃ pārthivalakṣaṇaiś ca), the Supreme Person never seen by her before (adṛṣṭapūrvaṃ puruṣapradhānam): “This is that Kākutstha!” (ayaṃ sa kākutstha iti).
+The fawn-eyed lady (_mṛgaśāvanetrā_) recognized (_prajajñe_) that lovely-eyed one (_taṃ cārunetram_), fully endowed with the marks of a sovereign (_susaṃvṛtaṃ pārthivalakṣaṇaiś ca_), the Supreme Person never seen by her before (_adṛṣṭapūrvaṃ puruṣapradhānam_): “This is that Kākutstha!” (_ayaṃ sa kākutstha iti_).
 </details>
 </details>
 
@@ -1891,7 +1891,7 @@ demanded of the noblemen/women when dealing with higher beings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reeling with grief (parivihvalantī) and fallen into calamity (vyasanaṃ prapannā), the noble lady Tārā (āryā... tārā), stricken with anguish (ārtā), went most swiftly (atitūrṇaṃ jagāma) into the presence (samīpam) of that high-souled, unassailable one who resembled Indra (tasyendrakalpasya durāsadasya mahānubhāvasya).
+Reeling with grief (_parivihvalantī_) and fallen into calamity (_vyasanaṃ prapannā_), the noble lady Tārā (_āryā... tārā_), stricken with anguish (_ārtā_), went most swiftly (_atitūrṇaṃ jagāma_) into the presence (_samīpam_) of that high-souled, unassailable one who resembled Indra (_tasyendrakalpasya durāsadasya mahānubhāvasya_).
 </details>
 </details>
 
@@ -1964,7 +1964,7 @@ pure being automatically provides a serene mind to anyone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching (samāsādya) that Rāma of pure essence (taṃ viśuddhasattvam), who had hit his mark through preeminence in battle (raṇotkarṣaṇalabdhalakṣyam), the high-minded Tārā (manasvinī tārā), her bodily state agitated by grief (śokena sambhrāntaśarīrabhāvā), spoke this word (vākyam uvāca):
+Approaching (_samāsādya_) that Rāma of pure essence (_taṃ viśuddhasattvam_), who had hit his mark through preeminence in battle (_raṇotkarṣaṇalabdhalakṣyam_), the high-minded Tārā (_manasvinī tārā_), her bodily state agitated by grief (_śokena sambhrāntaśarīrabhāvā_), spoke this word (_vākyam uvāca_):
 </details>
 </details>
 
@@ -2192,7 +2192,7 @@ have their own stunning effects.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are immeasurable (tvam aprameyaś ca), unassailable (durāsadaś ca), master of your senses (jitendriyaś ca), of supreme righteousness (uttamadharmakaś ca), of undiminished renown (akṣīṇakīrtiś ca), all-discerning (vicakṣaṇaś ca), endowed with the forbearance of the earth (kṣitikṣamāvān), and having eyes like blood [red lotuses] (kṣatajopamākṣaḥ).
+“You are immeasurable (_tvam aprameyaś ca_), unassailable (_durāsadaś ca_), master of your senses (_jitendriyaś ca_), of supreme righteousness (_uttamadharmakaś ca_), of undiminished renown (_akṣīṇakīrtiś ca_), all-discerning (_vicakṣaṇaś ca_), endowed with the forbearance of the earth (_kṣitikṣamāvān_), and having eyes like blood [red lotuses] (_kṣatajopamākṣaḥ_).
 </details>
 </details>
 
@@ -2265,7 +2265,7 @@ have their own stunning effects.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Holding the bow drawn and arrows in hand (āttabāṇāsanabāṇapāṇiḥ), of mighty strength (mahābalaḥ), and endowed with a compact frame (saṃhananopapannaḥ), having set aside the elevation of a mere human body (manuṣyadehābhyudayaṃ vihāya), you are endowed with the exaltation of a divine body (divyena dehābhyudayena yuktaḥ)!
+Holding the bow drawn and arrows in hand (_āttabāṇāsanabāṇapāṇiḥ_), of mighty strength (_mahābalaḥ_), and endowed with a compact frame (_saṃhananopapannaḥ_), having set aside the elevation of a mere human body (_manuṣyadehābhyudayaṃ vihāya_), you are endowed with the exaltation of a divine body (_divyena dehābhyudayena yuktaḥ_)!
 </details>
 </details>
 
@@ -2302,7 +2302,7 @@ Holding the bow drawn and arrows in hand (āttabāṇāsanabāṇapāṇiḥ), o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that very arrow wherewith my beloved was slain (yenaiva bāṇena hataḥ priyo me), by that very arrow do you slay me (tenaiva bāṇena hi māṃ jahīhi)! Slain thus, I shall go to his presence (hatā gamiṣyāmi samīpam asya); for without me, O hero, Vālin would take no delight (na māṃ vinā vīra rameta vālī).
+By that very arrow wherewith my beloved was slain (_yenaiva bāṇena hataḥ priyo me_), by that very arrow do you slay me (_tenaiva bāṇena hi māṃ jahīhi_)! Slain thus, I shall go to his presence (_hatā gamiṣyāmi samīpam asya_); for without me, O hero, Vālin would take no delight (_na māṃ vinā vīra rameta vālī_).
 </details>
 </details>
 
@@ -2380,7 +2380,7 @@ costumes and wear red-coloured towering tiaras. [4-24-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that very arrow wherewith my beloved was slain (yenaiva bāṇena hataḥ priyo me), by that very arrow do you slay me (tenaiva bāṇena hi māṃ jahīhi)! Slain thus, I shall go to his presence (hatā gamiṣyāmi samīpam asya); for without me, O hero, Vālin would take no delight (na māṃ vinā vīra rameta vālī).
+By that very arrow wherewith my beloved was slain (_yenaiva bāṇena hataḥ priyo me_), by that very arrow do you slay me (_tenaiva bāṇena hi māṃ jahīhi_)! Slain thus, I shall go to his presence (_hatā gamiṣyāmi samīpam asya_); for without me, O hero, Vālin would take no delight (_na māṃ vinā vīra rameta vālī_).
 </details>
 </details>
 
@@ -2440,7 +2440,7 @@ as you are without Seetha. [4-24-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even in heaven (svarge 'pi), O hero (vīra), Vālin without me (mayā vinā) will experience grief and pallor (śokaṃ ca vivarṇatāṃ ca prāpsyati), just like you yourself (yathā tvam) bereft of the princess of Videha (videhakanyārahitaḥ) upon the lovely slopes of the lord of mountains [Ṛṣyamūka] (ramye nagendrasya taṭāvakāśe)!
+Even in heaven (_svarge &#x27;pi_), O hero (_vīra_), Vālin without me (_mayā vinā_) will experience grief and pallor (_śokaṃ ca vivarṇatāṃ ca prāpsyati_), just like you yourself (_yathā tvam_) bereft of the princess of Videha (_videhakanyārahitaḥ_) upon the lovely slopes of the lord of mountains [Ṛṣyamūka] (_ramye nagendrasya taṭāvakāśe_)!
 </details>
 </details>
 
@@ -2513,7 +2513,7 @@ are aware of it, you kill me; let not Vali get any discomfort when he does not f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You yourself know (tvaṃ vettha tāvat) how much grief a youthful man (puruṣaḥ kumāraḥ) suffers when bereft of his beloved wife (vanitāvihīnaḥ); knowing that (tat tvaṃ prajānan), slay me (jahi mām), lest Vālin experience the sorrow born of not beholding me (na vālī duḥkhaṃ mamādarśanajaṃ bhajeta)!
+“You yourself know (_tvaṃ vettha tāvat_) how much grief a youthful man (_puruṣaḥ kumāraḥ_) suffers when bereft of his beloved wife (_vanitāvihīnaḥ_); knowing that (_tat tvaṃ prajānan_), slay me (_jahi mām_), lest Vālin experience the sorrow born of not beholding me (_na vālī duḥkhaṃ mamādarśanajaṃ bhajeta_)!
 </details>
 </details>
 
@@ -2579,7 +2579,7 @@ me, then there will not be any blemish of woman killing. [4-24-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And if your high-souled self should think (yac cāpi manyeta bhavān mahātmā), `May the sin of slaying a woman not fall upon me!' (strīghātadoṣas tu bhaven na mahyam)—then slay me with the thought (iti hi māṃ jahi tvam), `She is the very self of this [Vālin]!' (ātmeyam asya); thus there will be no slaying of a woman (na strīvadhaḥ syāt), O son of a king (manujendraputra)!
+And if your high-souled self should think (_yac cāpi manyeta bhavān mahātmā_), `May the sin of slaying a woman not fall upon me!&#x27; (_strīghātadoṣas tu bhaven na mahyam_)—then slay me with the thought (_iti hi māṃ jahi tvam_), `She is the very self of this [Vālin]!&#x27; (_ātmeyam asya_); thus there will be no slaying of a woman (_na strīvadhaḥ syāt_), O son of a king (_manujendraputra_)!
 </details>
 </details>
 
@@ -2653,7 +2653,7 @@ the wife.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the application of the śāstras (śāstraprayogāt) and from the manifold Veda (vividhāc ca vedāt), a man's wife is of no different form from himself (ananyarūpāḥ puruṣasya dārāḥ); indeed, in the judgment of the wise in this world (jñānavatāṃ hi loke), no gift is seen superior to the gift of a wife (dārapradānād dhi na dānam anyat pradṛśyate)!
+By the application of the śāstras (_śāstraprayogāt_) and from the manifold Veda (_vividhāc ca vedāt_), a man&#x27;s wife is of no different form from himself (_ananyarūpāḥ puruṣasya dārāḥ_); indeed, in the judgment of the wise in this world (_jñānavatāṃ hi loke_), no gift is seen superior to the gift of a wife (_dārapradānād dhi na dānam anyat pradṛśyate_)!
 </details>
 </details>
 
@@ -2712,7 +2712,7 @@ husband, you too will not get any touch of sin. [4-24-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having regard to dharma (dharmam avekṣya), O hero (vīra), you too will bestow me upon that beloved of mine (tvaṃ cāpi māṃ tasya mama priyasya pradāsyase); by this gift (anena dānena), O hero, you will incur no taint of unrighteousness (na lapsyase tvam adharmayogam) from slaying me (mama ghātāt)!
+Having regard to dharma (_dharmam avekṣya_), O hero (_vīra_), you too will bestow me upon that beloved of mine (_tvaṃ cāpi māṃ tasya mama priyasya pradāsyase_); by this gift (_anena dānena_), O hero, you will incur no taint of unrighteousness (_na lapsyase tvam adharmayogam_) from slaying me (_mama ghātāt_)!
 </details>
 </details>
 
@@ -2781,7 +2781,7 @@ one, and who wears a precious and exquisite golden pendant..." Thus Tara pleaded
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You ought not to refrain from slaying me (nārhasi mām ahantum) when I am thus afflicted (ārtām), protectorless (anāthām), being led away [from his side] (apanīyamānām), and reduced to this plight (evaṃgatām)! For without that wise bull among leapers (plavaṅgamānām ṛṣabheṇa dhīmatā), who walked with the sporting gait of a lordly elephant (mātaṅgavilāsagāminā) and wore the supreme, priceless golden necklace (varārhottamahemamālinā), I shall not be able to live long (ciraṃ na śakṣyāmi... jīvitum), O lord of men (narendra)!”
+You ought not to refrain from slaying me (_nārhasi mām ahantum_) when I am thus afflicted (_ārtām_), protectorless (_anāthām_), being led away [from his side] (_apanīyamānām_), and reduced to this plight (_evaṃgatām_)! For without that wise bull among leapers (_plavaṅgamānām ṛṣabheṇa dhīmatā_), who walked with the sporting gait of a lordly elephant (_mātaṅgavilāsagāminā_) and wore the supreme, priceless golden necklace (_varārhottamahemamālinā_), I shall not be able to live long (_ciraṃ na śakṣyāmi... jīvitum_), O lord of men (_narendra_)!”
 </details>
 </details>
 
@@ -2848,7 +2848,7 @@ world to be in this way, isn't so! [4-24-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus (ity evam uktas tu), the all-pervading, high-souled [Rāma] (vibhur mahātmā) consoled Tārā (tārāṃ samāśvāsya) and spoke what was salutary (hitaṃ babhāṣe): “O wife of a hero (vīrabhārye), do not entertain a perverse resolve [to die] (mā vimatiṃ kuruṣva); for this whole world is ordained by the Creator (loko hi sarvo vihito vidhātrā).
+Addressed thus (_ity evam uktas tu_), the all-pervading, high-souled [Rāma] (_vibhur mahātmā_) consoled Tārā (_tārāṃ samāśvāsya_) and spoke what was salutary (_hitaṃ babhāṣe_): “O wife of a hero (_vīrabhārye_), do not entertain a perverse resolve [to die] (_mā vimatiṃ kuruṣva_); for this whole world is ordained by the Creator (_loko hi sarvo vihito vidhātrā_).
 </details>
 </details>
 
@@ -2912,7 +2912,7 @@ foreordained predestination. [4-24-42]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Veda [and the world] has declared (loko 'bravīt) that all this union with joy and sorrow (taṃ caiva sarvaṃ sukhaduḥkhayogam) is wrought by that Creator (tena kṛtaṃ vidhātrā); even the three worlds (trayo 'pi lokāḥ) do not transgress the ordinance ordained [by him] (vihitaṃ vidhānaṃ nātikramante), for they are subject to his will (vaśagā hi tasya).
+The Veda [and the world] has declared (_loko &#x27;bravīt_) that all this union with joy and sorrow (_taṃ caiva sarvaṃ sukhaduḥkhayogam_) is wrought by that Creator (_tena kṛtaṃ vidhātrā_); even the three worlds (_trayo &#x27;pi lokāḥ_) do not transgress the ordinance ordained [by him] (_vihitaṃ vidhānaṃ nātikramante_), for they are subject to his will (_vaśagā hi tasya_).
 </details>
 </details>
 
@@ -3000,7 +3000,7 @@ Ahalya, and listening their episodes is said to remove any evil-visualisations, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You shall attain that same supreme status [and joy] (prītiṃ parāṃ prāpsyasi tāṃ tathaiva), and your son shall attain the office of heir apparent (putraś ca te prāpsyati yauvarājyam); thus indeed has the ordinance been ordained by the Creator (dhātrā vidhānaṃ vihitaṃ tathaiva)—the wives of heroes do not lament (na śūrapatnyaḥ paridevayanti)!”
+You shall attain that same supreme status [and joy] (_prītiṃ parāṃ prāpsyasi tāṃ tathaiva_), and your son shall attain the office of heir apparent (_putraś ca te prāpsyati yauvarājyam_); thus indeed has the ordinance been ordained by the Creator (_dhātrā vidhānaṃ vihitaṃ tathaiva_)—the wives of heroes do not lament (_na śūrapatnyaḥ paridevayanti_)!”
 </details>
 </details>
 
@@ -3069,7 +3069,7 @@ is fair and whose attire is proper, she paused her plaint, but with a puling exp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consoled (āśvāsitā) by that high-souled one (tena mahātmanā tu), who was endowed with majesty (prabhāvayuktena) and scorched his foes (paraṃtapena), that hero's wife Tārā (sā vīrapatnī... tārā), of comely attire and form (suveṣarūpā), ceased [her lamentation] (virarāma) with her face still sobbing (dhvanatā mukhena).
+Consoled (_āśvāsitā_) by that high-souled one (_tena mahātmanā tu_), who was endowed with majesty (_prabhāvayuktena_) and scorched his foes (_paraṃtapena_), that hero&#x27;s wife Tārā (_sā vīrapatnī... tārā_), of comely attire and form (_suveṣarūpā_), ceased [her lamentation] (_virarāma_) with her face still sobbing (_dhvanatā mukhena_).
 </details>
 </details>
 

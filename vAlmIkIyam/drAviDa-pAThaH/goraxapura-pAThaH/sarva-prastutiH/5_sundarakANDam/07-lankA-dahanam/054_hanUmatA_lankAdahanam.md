@@ -82,7 +82,7 @@ remaining act to be done, with an augmented energy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, surveying Laṅkā (vīkṣamāṇas tato laṅkām), the monkey, his heart's desire fulfilled (kṛta-manorathaḥ) and his high enthusiasm swelling (vardhamāna-samutsāhaḥ), pondered what remained of his task (kārya-śeṣam acintayat):
+Then, surveying Laṅkā (_vīkṣamāṇas tato laṅkām_), the monkey, his heart&#x27;s desire fulfilled (_kṛta-manorathaḥ_) and his high enthusiasm swelling (_vardhamāna-samutsāhaḥ_), pondered what remained of his task (_kārya-śeṣam acintayat_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ to these demons?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed still remains (kiṃ nu khalv avaśiṣṭam) to be done by me here and now (iha sāmpratam), which would generate further torment (bhūyaḥ saṃtāpa-jananam) for these rākṣasas?
+“What indeed still remains (_kiṃ nu khalv avaśiṣṭam_) to be done by me here and now (_iha sāmpratam_), which would generate further torment (_bhūyaḥ saṃtāpa-jananam_) for these rākṣasas?
 </details>
 </details>
 
@@ -186,7 +186,7 @@ of the army. The demolition of the fort is still remaining."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The grove has already been crushed (vanaṃ tāvat pramathitam), preeminent rākṣasas (prakṛṣṭā rākṣasāḥ) have been slain, and a portion of their army (balaika-deśaḥ) has been destroyed; what remains is the destruction of the fortress (śeṣaṃ durga-vināśanam)!
+“The grove has already been crushed (_vanaṃ tāvat pramathitam_), preeminent rākṣasas (_prakṛṣṭā rākṣasāḥ_) have been slain, and a portion of their army (_balaika-deśaḥ_) has been destroyed; what remains is the destruction of the fortress (_śeṣaṃ durga-vināśanam_)!
 </details>
 </details>
 
@@ -238,7 +238,7 @@ Even with a small effort in this task, the work will become fruitful."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once the fortress is destroyed (durge vināśite), our mission will become one of easy toil (sukha-pariśramam); through slight effort (alpa-yatnena) in this deed, my labor will become fruitful (saphalaḥ śramaḥ).
+“Once the fortress is destroyed (_durge vināśite_), our mission will become one of easy toil (_sukha-pariśramam_); through slight effort (_alpa-yatnena_) in this deed, my labor will become fruitful (_saphalaḥ śramaḥ_).
 </details>
 </details>
 
@@ -290,7 +290,7 @@ with these excellent houses (in the city of Lanka)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For it is fitting (nyāyyam) to offer gratification (saṃtarpaṇam) with these finest of mansions (ebhir gṛhottamaiḥ) to this bearer of oblations (havyavāhanaḥ) who blazes upon my tail (mama lāṅgūle dīpyate)!”
+“For it is fitting (_nyāyyam_) to offer gratification (_saṃtarpaṇam_) with these finest of mansions (_ebhir gṛhottamaiḥ_) to this bearer of oblations (_havyavāhanaḥ_) who blazes upon my tail (_mama lāṅgūle dīpyate_)!”
 </details>
 </details>
 
@@ -341,7 +341,7 @@ charged with lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with his tail blazing (pradīpta-lāṅgūlaḥ) like a rain-cloud streaked with lightning (sa-vidyud iva toyadaḥ), the great monkey roamed across the rooftops of Laṅkā's palaces (bhavanāgreṣu laṅkāyāḥ).
+Then, with his tail blazing (_pradīpta-lāṅgūlaḥ_) like a rain-cloud streaked with lightning (_sa-vidyud iva toyadaḥ_), the great monkey roamed across the rooftops of Laṅkā&#x27;s palaces (_bhavanāgreṣu laṅkāyāḥ_).
 </details>
 </details>
 
@@ -395,7 +395,7 @@ from one house to another, of the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Observing the rākṣasas' houses, pleasure-gardens (udyānāni ca), and palaces (prāsādāṃś ca) from house to house (gṛhād gṛham), that fearless (asaṃtrastaḥ) monkey moved about.
+Observing the rākṣasas&#x27; houses, pleasure-gardens (_udyānāni ca_), and palaces (_prāsādāṃś ca_) from house to house (_gṛhād gṛham_), that fearless (_asaṃtrastaḥ_) monkey moved about.
 </details>
 </details>
 
@@ -469,9 +469,9 @@ fire that is to destroy the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Bounding down with great speed (avaplutya mahā-vegaḥ) upon the residence of Prahasta (prahastasya niveśanam), that mighty hero, equal to the wind (śvasanena samo balī), cast fire (agniṃ tatra vinikṣipya) therein.
+**8:** Bounding down with great speed (_avaplutya mahā-vegaḥ_) upon the residence of Prahasta (_prahastasya niveśanam_), that mighty hero, equal to the wind (_śvasanena samo balī_), cast fire (_agniṃ tatra vinikṣipya_) therein.
 
-**9:** Then the valiant Hanumān leapt (pupluve) to another mansion, that of Mahāpārśva (mahāpārśvasya), and loosed fire resembling the flames of the doomsday conflagration (kālānala-śikhopamam).
+**9:** Then the valiant Hanumān leapt (_pupluve_) to another mansion, that of Mahāpārśva (_mahāpārśvasya_), and loosed fire resembling the flames of the doomsday conflagration (_kālānala-śikhopamam_).
 </details>
 </details>
 
@@ -503,7 +503,7 @@ fire that is to destroy the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And likewise the great monkey of mighty splendor (mahā-tejāḥ) leapt to [the mansion] of Vajradaṃṣṭra (vajradaṃṣṭrasya), and of Śuka (śukasya ca), and of wise Sāraṇa (sāraṇasya ca dhīmataḥ).
+And likewise the great monkey of mighty splendor (_mahā-tejāḥ_) leapt to [the mansion] of Vajradaṃṣṭra (_vajradaṃṣṭrasya_), and of Śuka (_śukasya ca_), and of wise Sāraṇa (_sāraṇasya ca dhīmataḥ_).
 </details>
 </details>
 
@@ -549,7 +549,7 @@ Sarana, the intelligent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And likewise the monkey troop-leader burned the mansion of Indrajit (indrajito veśma dadāha); then he burned the palace of Jambumāli (jambumāleḥ) and of Sumāli (sumāleś ca),
+And likewise the monkey troop-leader burned the mansion of Indrajit (_indrajito veśma dadāha_); then he burned the palace of Jambumāli (_jambumāleḥ_) and of Sumāli (_sumāleś ca_),
 </details>
 </details>
 
@@ -595,13 +595,13 @@ Methodically burning the rich mansions of Kumbhakarṇa, Makarākṣa, Narāntak
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** and the palace of Raśmiketu (raśmiketoś ca bhavanam) and likewise of Sūryaśatru (sūryaśatros tathaiva ca), and of Hrasvakarṇa, Daṃṣṭra, and the rākṣasa Romaśa (romaśasya ca rakṣasaḥ),
+**12:** and the palace of Raśmiketu (_raśmiketoś ca bhavanam_) and likewise of Sūryaśatru (_sūryaśatros tathaiva ca_), and of Hrasvakarṇa, Daṃṣṭra, and the rākṣasa Romaśa (_romaśasya ca rakṣasaḥ_),
 
-**13:** [and the palaces] of the rākṣasas Yuddhonmatta, Matta, and Dhvajagrīva (dhvajagrīvasya rakṣasaḥ), and of the dreadful Vidyujjihva (vidyujjihvasya ghorasya) as well as Hastimukha (hastimukhasya ca),
+**13:** [and the palaces] of the rākṣasas Yuddhonmatta, Matta, and Dhvajagrīva (_dhvajagrīvasya rakṣasaḥ_), and of the dreadful Vidyujjihva (_vidyujjihvasya ghorasya_) as well as Hastimukha (_hastimukhasya ca_),
 
-**14:** and of Karāla, Viśāla, and Śoṇitākṣa (śoṇitākṣasya caiva hi), and the palace of Kumbhakarṇa (kumbhakarṇasya bhavanam) and of Makarākṣa as well,
+**14:** and of Karāla, Viśāla, and Śoṇitākṣa (_śoṇitākṣasya caiva hi_), and the palace of Kumbhakarṇa (_kumbhakarṇasya bhavanam_) and of Makarākṣa as well,
 
-**15:** and of Narāntaka, Kumbha, and wicked-souled Nikumbha (nikumbhasya durātmanaḥ), and the palace of Yajñaśatru (yajñaśatroś ca bhavanam) and likewise of Brahmaśatru (brahmaśatros tathaiva ca).
+**15:** and of Narāntaka, Kumbha, and wicked-souled Nikumbha (_nikumbhasya durātmanaḥ_), and the palace of Yajñaśatru (_yajñaśatroś ca bhavanam_) and likewise of Brahmaśatru (_brahmaśatros tathaiva ca_).
 </details>
 </details>
 
@@ -658,7 +658,7 @@ Yajnashatru, Brahmashatru, Narantaka, Kumbha as also the evil-minded Nikumbha an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sparing only the house of Vibhīṣaṇa (varjayitvā ... vibhīṣaṇa-gṛhaṃ prati), that bull among monkeys of mighty splendor (mahā-tejāḥ) burned them in due order as he strode along (kramamāṇaḥ krameṇaiva dadāha).
+Sparing only the house of Vibhīṣaṇa (_varjayitvā ... vibhīṣaṇa-gṛhaṃ prati_), that bull among monkeys of mighty splendor (_mahā-tejāḥ_) burned them in due order as he strode along (_kramamāṇaḥ krameṇaiva dadāha_).
 </details>
 </details>
 
@@ -705,7 +705,7 @@ That Hanuma of great fame burnt away wealth in the mansions of the rich.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In those various costly mansions (teṣu teṣu mahārheṣu bhavaneṣu), that renowned elephant among monkeys burned the opulent wealth of the wealthy (gṛheṣv ṛddhimatām ṛddhiṃ dadāha).
+In those various costly mansions (_teṣu teṣu mahārheṣu bhavaneṣu_), that renowned elephant among monkeys burned the opulent wealth of the wealthy (_gṛheṣv ṛddhimatām ṛddhiṃ dadāha_).
 </details>
 </details>
 
@@ -751,7 +751,7 @@ the house of Ravana the king of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed beyond [the mansions] of all of them (sarveṣāṃ samatikramya), the valiant and glorious hero then reached the residence of Rāvaṇa, lord of rākṣasas (rākṣasendrasya ... rāvaṇasya niveśanam).
+Having passed beyond [the mansions] of all of them (_sarveṣāṃ samatikramya_), the valiant and glorious hero then reached the residence of Rāvaṇa, lord of rākṣasas (_rākṣasendrasya ... rāvaṇasya niveśanam_).
 </details>
 </details>
 
@@ -826,9 +826,9 @@ with all good work, the valiant Hanuma roared like a cloud thundering at noon-ti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Then upon that foremost palace (tasmin gṛhe mukhye), adorned with manifold jewels (nānā-ratna-vibhūṣite), resembling Meru and Mandara (meru-mandara-saṃkāśe), and graced with every auspicious emblem (nānā-maṅgala-śobhite),
+**19:** Then upon that foremost palace (_tasmin gṛhe mukhye_), adorned with manifold jewels (_nānā-ratna-vibhūṣite_), resembling Meru and Mandara (_meru-mandara-saṃkāśe_), and graced with every auspicious emblem (_nānā-maṅgala-śobhite_),
 
-**20:** having cast off the blazing fire (pradīptam agnim utsṛjya) that rested on the tip of his tail (lāṅgūlāgre pratiṣṭhitam), the heroic Hanumān roared (nanāda) like a cloud at the end of the world-age (yugānta-jalado yathā).
+**20:** having cast off the blazing fire (_pradīptam agnim utsṛjya_) that rested on the tip of his tail (_lāṅgūlāgre pratiṣṭhitam_), the heroic Hanumān roared (_nanāda_) like a cloud at the end of the world-age (_yugānta-jalado yathā_).
 </details>
 </details>
 
@@ -883,7 +883,7 @@ like a fire that is to destroy the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And through union with the Wind (śvasanena ca saṃyogāt), the mighty bearer of oblations (mahā-balaḥ hutāśanaḥ), becoming exceedingly swift (ativegaḥ), blazed up like the doomsday fire (kālāgnir iva jajvāla) and swelled mightily (prāvardhata).
+And through union with the Wind (_śvasanena ca saṃyogāt_), the mighty bearer of oblations (_mahā-balaḥ hutāśanaḥ_), becoming exceedingly swift (_ativegaḥ_), blazed up like the doomsday fire (_kālāgnir iva jajvāla_) and swelled mightily (_prāvardhata_).
 </details>
 </details>
 
@@ -966,9 +966,9 @@ were shattered to pieces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** As the wind spread (pavanaś cārayan) that blazing fire among those mansions, those [edifices] with golden lattices (kāñcana-jālāni) and wrought of pearls and gems (muktā-maṇi-mayāni ca),
+**22:** As the wind spread (_pavanaś cārayan_) that blazing fire among those mansions, those [edifices] with golden lattices (_kāñcana-jālāni_) and wrought of pearls and gems (_muktā-maṇi-mayāni ca_),
 
-**23:** vast and jewel-filled palaces (bhavanāni ratnavanti mahānti ca), crumbled apart (vyaśīryanta); with their upper turrets shattered (bhagna-vimānāni), they plunged to the surface of the earth (nipetur vasudhā-tale),
+**23:** vast and jewel-filled palaces (_bhavanāni ratnavanti mahānti ca_), crumbled apart (_vyaśīryanta_); with their upper turrets shattered (_bhagna-vimānāni_), they plunged to the surface of the earth (_nipetur vasudhā-tale_),
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ in a form of this monkey!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like the aerial palaces of perfected beings (bhavanānīva siddhānām) [falling] from the sky at the exhaustion of their merit (puṇya-saṃkṣaye). A tumultuous uproar (tumulaḥ śabdaḥ) arose from the rākṣasas as they fled headlong (pradhāvatām):
+like the aerial palaces of perfected beings (_bhavanānīva siddhānām_) [falling] from the sky at the exhaustion of their merit (_puṇya-saṃkṣaye_). A tumultuous uproar (_tumulaḥ śabdaḥ_) arose from the rākṣasas as they fled headlong (_pradhāvatām_):
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-from those whose courage was broken and whose splendor was forsaken (bhagnotsāhojjhita-śriyām) in defending their own homes (sve sve gṛha-paritrāṇe): “Alas (hā)! Surely this is Fire himself come in the form of a monkey (kapi-rūpeṇa)!”
+from those whose courage was broken and whose splendor was forsaken (_bhagnotsāhojjhita-śriyām_) in defending their own homes (_sve sve gṛha-paritrāṇe_): “Alas (_hā_)! Surely this is Fire himself come in the form of a monkey (_kapi-rūpeṇa_)!”
 </details>
 </details>
 
@@ -1120,7 +1120,7 @@ clouds in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping (krandantyaḥ), women clasping their nursing infants (stanaṃdhaya-dharāḥ striyaḥ) plunged headlong (sahasā petuḥ); some, their limbs enveloped in flames (agni-parītāṅgyaḥ), [leapt] from the mansions with hair disheveled (mukta-mūrdhajāḥ).
+Weeping (_krandantyaḥ_), women clasping their nursing infants (_stanaṃdhaya-dharāḥ striyaḥ_) plunged headlong (_sahasā petuḥ_); some, their limbs enveloped in flames (_agni-parītāṅgyaḥ_), [leapt] from the mansions with hair disheveled (_mukta-mūrdhajāḥ_).
 </details>
 </details>
 
@@ -1175,7 +1175,7 @@ silver, surging from every marvellous house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As they fell from the sky (patantyo ... ambarāt), they shone like flashes of lightning from the clouds (abhrebhyaḥ saudāmanya iva). Compacted with diamonds, coral, cat's-eye, pearls, and silver (vajra-vidruma-vaidūrya-muktā-rajata-saṃhatān),
+As they fell from the sky (_patantyo ... ambarāt_), they shone like flashes of lightning from the clouds (_abhrebhyaḥ saudāmanya iva_). Compacted with diamonds, coral, cat&#x27;s-eye, pearls, and silver (_vajra-vidruma-vaidūrya-muktā-rajata-saṃhatān_),
 </details>
 </details>
 
@@ -1261,9 +1261,9 @@ at some places and like saffron-flowers at some other places.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** he beheld wondrous mineral streams (vicitrān dhātūn) oozing melted from the palaces (bhavanāt syandamānān). Just as fire is never sated (nāgnis tṛpyati) with firewood and grass (kāṣṭhānāṃ tṛṇānāṃ ca), so too
+**28:** he beheld wondrous mineral streams (_vicitrān dhātūn_) oozing melted from the palaces (_bhavanāt syandamānān_). Just as fire is never sated (_nāgnis tṛpyati_) with firewood and grass (_kāṣṭhānāṃ tṛṇānāṃ ca_), so too
 
-**29:** Hanumān was not in the least sated (kiṃcin na tṛpyati) in slaying the lords of rākṣasas (rākṣasendrāṇāṃ vadhe), nor was the earth [sated] with the rākṣasas slaughtered by Hanumān (hanūmad-viśastānāṃ rākṣasānām).
+**29:** Hanumān was not in the least sated (_kiṃcin na tṛpyati_) in slaying the lords of rākṣasas (_rākṣasendrāṇāṃ vadhe_), nor was the earth [sated] with the rākṣasas slaughtered by Hanumān (_hanūmad-viśastānāṃ rākṣasānām_).
 </details>
 </details>
 
@@ -1311,7 +1311,7 @@ the city of Tripura.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the swift and high-souled monkey Hanumān, that city of Laṅkā was burned to ashes (laṅkā-puraṃ pradagdhaṃ tat), just as Tripura was burned by Rudra (rudreṇa tripuraṃ yathā).
+By the swift and high-souled monkey Hanumān, that city of Laṅkā was burned to ashes (_laṅkā-puraṃ pradagdhaṃ tat_), just as Tripura was burned by Rudra (_rudreṇa tripuraṃ yathā_).
 </details>
 </details>
 
@@ -1381,7 +1381,7 @@ a circle of flames, blazed and rose up to the summit of the mountain on which th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that fire of dreadful prowess (bhīma-parākramo 'gniḥ), loosed by the swift Hanumān (hanūmatā vegavatopasṛṣṭaḥ), rose up on the mountain crest of Laṅkā city (laṅkā-pura-parvatāgre) and blazed forth, spreading its halo of crest-flames (prasārya cūḍā-valayam).
+Then that fire of dreadful prowess (_bhīma-parākramo &#x27;gniḥ_), loosed by the swift Hanumān (_hanūmatā vegavatopasṛṣṭaḥ_), rose up on the mountain crest of Laṅkā city (_laṅkā-pura-parvatāgre_) and blazed forth, spreading its halo of crest-flames (_prasārya cūḍā-valayam_).
 </details>
 </details>
 
@@ -1444,7 +1444,7 @@ splendour. Those flames of fire shot up, as inflamed by ghee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Equal in form to the fire at the end of the world-age (yugānta-kālānala-tulya-rūpaḥ), the wind-fanned fire (sa-māruto 'gniḥ) swelled until it touched the sky (divispṛk); with smokeless rays (vidhūma-raśmiḥ) clinging to the mansions, its flames were fed by the clarified butter of rākṣasa bodies (rakṣaḥ-śarīrājya-samarpitārciḥ).
+Equal in form to the fire at the end of the world-age (_yugānta-kālānala-tulya-rūpaḥ_), the wind-fanned fire (_sa-māruto &#x27;gniḥ_) swelled until it touched the sky (_divispṛk_); with smokeless rays (_vidhūma-raśmiḥ_) clinging to the mansions, its flames were fed by the clarified butter of rākṣasa bodies (_rakṣaḥ-śarīrājya-samarpitārciḥ_).
 </details>
 </details>
 
@@ -1487,7 +1487,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resembling ten million suns (āditya-koṭī-sadṛśaḥ) and of dazzling splendor (sutejāḥ), that great fire stood encompassing all of Laṅkā (laṅkāṃ samastāṃ parivārya), shining forth as if splitting the cosmic egg (bhindann ivāṇḍam) with manifold thunderbolt-like roars (śabdair anekair aśani-prarūḍhaiḥ).
+Resembling ten million suns (_āditya-koṭī-sadṛśaḥ_) and of dazzling splendor (_sutejāḥ_), that great fire stood encompassing all of Laṅkā (_laṅkāṃ samastāṃ parivārya_), shining forth as if splitting the cosmic egg (_bhindann ivāṇḍam_) with manifold thunderbolt-like roars (_śabdair anekair aśani-prarūḍhaiḥ_).
 </details>
 </details>
 
@@ -1547,7 +1547,7 @@ of the extinguished fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There, mounting to the sky (ambarāt), the fiercely burgeoning fire had harsh radiance (rūkṣa-prabhaḥ) and crests like kiṃśuka blossoms (kiṃśuka-puṣpa-cūḍaḥ); and thick streaks of smoke from extinguished embers (nirvāṇa-dhūmākula-rājayaś ca) shone like blue lotuses (nīlotpalābhāḥ) in the form of clouds (abhrāḥ).
+There, mounting to the sky (_ambarāt_), the fiercely burgeoning fire had harsh radiance (_rūkṣa-prabhaḥ_) and crests like _kiṃśuka_ blossoms (_kiṃśuka-puṣpa-cūḍaḥ_); and thick streaks of smoke from extinguished embers (_nirvāṇa-dhūmākula-rājayaś ca_) shone like blue lotuses (_nīlotpalābhāḥ_) in the form of clouds (_abhrāḥ_).
 </details>
 </details>
 
@@ -1701,13 +1701,13 @@ on seeing that city scorched so soon, with its host of living beings, houses and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** “Is he thunderbolt-wielding Mahendra, lord of the thirty gods (tridaśeśvaro vā), or Yama in person, or Varuṇa, or the Wind (anilo vā), or Rudra's ocular fire (raudro 'gniḥ), the Sun, Kubera (dhanadaḥ), or the Moon? This is no monkey—he is Time himself (svayam eva kālaḥ)!
+**35:** “Is he thunderbolt-wielding Mahendra, lord of the thirty gods (_tridaśeśvaro vā_), or Yama in person, or Varuṇa, or the Wind (_anilo vā_), or Rudra&#x27;s ocular fire (_raudro &#x27;gniḥ_), the Sun, Kubera (_dhanadaḥ_), or the Moon? This is no monkey—he is Time himself (_svayam eva kālaḥ_)!
 
-**36:** “Or has the wrath (prakopaḥ) of four-faced Brahmā (caturānanasya), the grandsire of all (sarva-pitāmahasya) and creator of the world (lokasya dhātuḥ), come here wearing the form of a monkey (vānara-rūpa-dhārī) to work the destruction of the rākṣasas (rakṣopasaṃhāra-karaḥ)?
+**36:** “Or has the wrath (_prakopaḥ_) of four-faced Brahmā (_caturānanasya_), the grandsire of all (_sarva-pitāmahasya_) and creator of the world (_lokasya dhātuḥ_), come here wearing the form of a monkey (_vānara-rūpa-dhārī_) to work the destruction of the rākṣasas (_rakṣopasaṃhāra-karaḥ_)?
 
-**37:** “Or has that supreme, wondrous radiance belonging to Viṣṇu (vaiṣṇavaṃ paraṃ sutejaḥ)—inconceivable (acintyam), unmanifest (avyaktam), infinite (anantam), and one without a second (ekam)—now come here by its own miraculous power (sva-māyayā) after assuming the form of a monkey (kapi-rūpam etya) for the destruction of the rākṣasas (rakṣo-vināśāya)?”
+**37:** “Or has that supreme, wondrous radiance belonging to Viṣṇu (_vaiṣṇavaṃ paraṃ sutejaḥ_)—inconceivable (_acintyam_), unmanifest (_avyaktam_), infinite (_anantam_), and one without a second (_ekam_)—now come here by its own miraculous power (_sva-māyayā_) after assuming the form of a monkey (_kapi-rūpam etya_) for the destruction of the rākṣasas (_rakṣo-vināśāya_)?”
 
-**38:** Thus spoke all the many eminent hosts of rākṣasas (bahavo viśiṣṭā rakṣo-gaṇāḥ) after gathering there (tatra sametya), beholding that city suddenly burned down (dagdhāṃ purīṃ tāṃ sahasā samīkṣya) together with its multitudes of living beings, its mansions, and its trees (sa-prāṇi-saṅghāṃ sa-gṛhāṃ sa-vṛkṣām).
+**38:** Thus spoke all the many eminent hosts of rākṣasas (_bahavo viśiṣṭā rakṣo-gaṇāḥ_) after gathering there (_tatra sametya_), beholding that city suddenly burned down (_dagdhāṃ purīṃ tāṃ sahasā samīkṣya_) together with its multitudes of living beings, its mansions, and its trees (_sa-prāṇi-saṅghāṃ sa-gṛhāṃ sa-vṛkṣām_).
 </details>
 </details>
 
@@ -1778,7 +1778,7 @@ of birds, animals and trees, cried pitiably with tumultuous noise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then wretched Laṅkā (laṅkā dīnā), suddenly consumed by fire together with her rākṣasas, horses, chariots, and elephants (sa-rākṣasā sāśva-rathā sa-nāgā), and with her flocks of birds, deer, and trees (sa-pakṣi-saṅghā sa-mṛgā sa-vṛkṣā), wept aloud in a tumultuous uproar (ruroda tumulaṃ sa-śabdam).
+Then wretched Laṅkā (_laṅkā dīnā_), suddenly consumed by fire together with her rākṣasas, horses, chariots, and elephants (_sa-rākṣasā sāśva-rathā sa-nāgā_), and with her flocks of birds, deer, and trees (_sa-pakṣi-saṅghā sa-mṛgā sa-vṛkṣā_), wept aloud in a tumultuous uproar (_ruroda tumulaṃ sa-śabdam_).
 </details>
 </details>
 
@@ -1844,7 +1844,7 @@ with enjoyments!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, father! Alas, dear son! O beloved! O friend (hā tāta hā putraka kānta mitra)! Alas, lord of my life! O dear one, our great merit is destroyed (hataṃ supuṇyam)!”—as the rākṣasas cried out thus in many ways (evam bahudhā bruvadbhiḥ), a most dreadful and terrifying uproar was raised (śabdaḥ kṛto ghorataraḥ subhīmaḥ).
+“Alas, father! Alas, dear son! O beloved! O friend (_hā tāta hā putraka kānta mitra_)! Alas, lord of my life! O dear one, our great merit is destroyed (_hataṃ supuṇyam_)!”—as the rākṣasas cried out thus in many ways (_evam bahudhā bruvadbhiḥ_), a most dreadful and terrifying uproar was raised (_śabdaḥ kṛto ghorataraḥ subhīmaḥ_).
 </details>
 </details>
 
@@ -1907,7 +1907,7 @@ enveloped by flames of fire, with its distinguished heroes killed and with its w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloped in the flames of the fire (hutāśana-jvāla-samāvṛtā), her foremost heroes slain (hata-pravīrā) and her warriors routed (parivṛtta-yodhā), that Laṅkā, overwhelmed by the might of Hanumān's wrath (hanūmataḥ krodha-balābhibhūtā), became like one struck down by a curse (śāpopahateva).
+Enveloped in the flames of the fire (_hutāśana-jvāla-samāvṛtā_), her foremost heroes slain (_hata-pravīrā_) and her warriors routed (_parivṛtta-yodhā_), that Laṅkā, overwhelmed by the might of Hanumān&#x27;s wrath (_hanūmataḥ krodha-balābhibhūtā_), became like one struck down by a curse (_śāpopahateva_).
 </details>
 </details>
 
@@ -1979,7 +1979,7 @@ marked by blazing flames of fire and afflicted by the fury of Brahma the creator
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-High-minded Hanumān (hanumān mahā-manāḥ) beheld Laṅkā in turmoil (sa-sambhramam), her rākṣasas terrified and dejected (trasta-viṣaṇṇa-rākṣasām), branded by fire with blazing flames (samujjvalaj-jvāla-hutāśanāṅkitām), like the earth struck down by the wrath of the Self-Existent One (svayaṃbhu-roṣopahatām ivāvanim).
+High-minded Hanumān (_hanumān mahā-manāḥ_) beheld Laṅkā in turmoil (_sa-sambhramam_), her rākṣasas terrified and dejected (_trasta-viṣaṇṇa-rākṣasām_), branded by fire with blazing flames (_samujjvalaj-jvāla-hutāśanāṅkitām_), like the earth struck down by the wrath of the Self-Existent One (_svayaṃbhu-roṣopahatām ivāvanim_).
 </details>
 </details>
 
@@ -2037,7 +2037,7 @@ son of wind-god, stood at ease.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having shattered the grove crowded with jewel-like trees (pādapa-ratna-saṃkulam), slain mighty rākṣasas in battle (hatvā tu rakṣāṃsi mahānti saṃyuge), and burned that city garlanded with jewel-like mansions (gṛha-ratna-mālinīm), Hanumān, the monkey son of the Wind, stood still (tasthau).
+Having shattered the grove crowded with jewel-like trees (_pādapa-ratna-saṃkulam_), slain mighty rākṣasas in battle (_hatvā tu rakṣāṃsi mahānti saṃyuge_), and burned that city garlanded with jewel-like mansions (_gṛha-ratna-mālinīm_), Hanumān, the monkey son of the Wind, stood still (_tasthau_).
 </details>
 </details>
 
@@ -2094,7 +2094,7 @@ of rays.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain those very numerous rākṣasas (rākṣasāṃs tān subahūṃś ca hatvā), shattered that grove of many trees (vanaṃ ca bhaṅktvā bahu-pādapaṃ tat), and loosed fire among the rākṣasas' mansions, the high-souled hero went to Rāma with his mind (jagāma rāmaṃ manasā mahātmā).
+Having slain those very numerous rākṣasas (_rākṣasāṃs tān subahūṃś ca hatvā_), shattered that grove of many trees (_vanaṃ ca bhaṅktvā bahu-pādapaṃ tat_), and loosed fire among the rākṣasas&#x27; mansions, the high-souled hero went to Rāma with his mind (_jagāma rāmaṃ manasā mahātmā_).
 </details>
 </details>
 
@@ -2158,7 +2158,7 @@ and scattering fire on the houses of demons, the high-souled Hanuma sought Rama 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all the hosts of gods (deva-gaṇāś ca sarve) ardently praised (pratuṣṭuvuḥ) that foremost of monkey heroes (vānara-vīra-mukhyam), of mighty strength, equal in speed to the wind (māruta-tulya-vegam), the wise and preeminent son of Vāyu (vāyu-sutaṃ variṣṭham).
+Then all the hosts of gods (_deva-gaṇāś ca sarve_) ardently praised (_pratuṣṭuvuḥ_) that foremost of monkey heroes (_vānara-vīra-mukhyam_), of mighty strength, equal in speed to the wind (_māruta-tulya-vegam_), the wise and preeminent son of Vāyu (_vāyu-sutaṃ variṣṭham_).
 </details>
 </details>
 
@@ -2223,7 +2223,7 @@ most excellent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all the gods, the bulls among sages (muni-puṅgavāś ca), the gandharvas, vidyādharas, and serpents (gandharva-vidyādhara-pannagāś ca), and all great beings there attained supreme joy of peerless form (jagmuḥ parāṃ prītim atulya-rūpām).
+And all the gods, the bulls among sages (_muni-puṅgavāś ca_), the gandharvas, vidyādharas, and serpents (_gandharva-vidyādhara-pannagāś ca_), and all great beings there attained supreme joy of peerless form (_jagmuḥ parāṃ prītim atulya-rūpām_).
 </details>
 </details>
 
@@ -2282,7 +2282,7 @@ brightly, after burning the beautiful City of Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having shattered the grove (bhaṅktvā vanam), slain the rākṣasas in battle (hatvā rakṣāṃsi saṃyuge), and burned the dreadful city of Laṅkā (dagdhvā laṅkā-purīṃ bhīmām), that great monkey of mighty splendor shone forth (rarāja sa mahā-kapiḥ).
+Having shattered the grove (_bhaṅktvā vanam_), slain the rākṣasas in battle (_hatvā rakṣāṃsi saṃyuge_), and burned the dreadful city of Laṅkā (_dagdhvā laṅkā-purīṃ bhīmām_), that great monkey of mighty splendor shone forth (_rarāja sa mahā-kapiḥ_).
 </details>
 </details>
 
@@ -2343,7 +2343,7 @@ celestial's musicians, got a colossal surprise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing upon the wondrous summit-terrace of the foremost palace (gṛhāgrya-śṛṅgāgra-tale vicitre), that lion among monkey-kings (vānara-rāja-siṃhaḥ), garlanded with flames made by his blazing tail (pradīpta-lāṅgūla-kṛtārcimālī), shone forth like the ray-garlanded sun (vyarājatāditya ivārcimālī).
+Standing upon the wondrous summit-terrace of the foremost palace (_gṛhāgrya-śṛṅgāgra-tale vicitre_), that lion among monkey-kings (_vānara-rāja-siṃhaḥ_), garlanded with flames made by his blazing tail (_pradīpta-lāṅgūla-kṛtārcimālī_), shone forth like the ray-garlanded sun (_vyarājatāditya ivārcimālī_).
 </details>
 </details>
 
@@ -2392,7 +2392,7 @@ beings were frightened, thinking of him as a fire that is to destroy the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thoroughly afflicted all of Laṅkā (laṅkāṃ samastāṃ sampīḍya), that great monkey, a bull among monkeys (hari-puṅgavaḥ), then quenched the fire on his tail in the ocean (lāṅgūlāgniṃ nirvāpayām āsa tadā samudre).
+Having thoroughly afflicted all of Laṅkā (_laṅkāṃ samastāṃ sampīḍya_), that great monkey, a bull among monkeys (_hari-puṅgavaḥ_), then quenched the fire on his tail in the ocean (_lāṅgūlāgniṃ nirvāpayām āsa tadā samudre_).
 </details>
 </details>
 
@@ -2447,7 +2447,7 @@ serpents, Yakshas the spirits and all great living beings attained a great joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the gods together with the gandharvas, the siddhas, and the supreme sages (siddhāś ca paramarṣayaḥ), beholding that Laṅkā burned to ashes (dṛṣṭvā laṅkāṃ pradagdhāṃ tām), went into the utmost amazement (vismayaṃ paramaṃ gatāḥ).
+Then the gods together with the gandharvas, the siddhas, and the supreme sages (_siddhāś ca paramarṣayaḥ_), beholding that Laṅkā burned to ashes (_dṛṣṭvā laṅkāṃ pradagdhāṃ tām_), went into the utmost amazement (_vismayaṃ paramaṃ gatāḥ_).
 </details>
 </details>
 
@@ -2487,7 +2487,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that great monkey Hanumān, the foremost of monkeys (vānara-śreṣṭham), all beings trembled (sarva-bhūtāni tatrasuḥ), thinking, “He is the doomsday fire (kālāgnir iti saṃcintya)!”
+Beholding that great monkey Hanumān, the foremost of monkeys (_vānara-śreṣṭham_), all beings trembled (_sarva-bhūtāni tatrasuḥ_), thinking, “He is the doomsday fire (_kālāgnir iti saṃcintya_)!”
 </details>
 </details>
 

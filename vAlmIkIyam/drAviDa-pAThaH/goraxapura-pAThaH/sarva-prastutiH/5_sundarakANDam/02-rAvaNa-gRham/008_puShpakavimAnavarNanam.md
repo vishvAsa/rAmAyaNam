@@ -93,7 +93,7 @@ by series of refined gold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing in the middle of that palace (tasya madhye bhavanasya saṃsthitaḥ), that wise monkey, the son of the Wind-god, beheld the great aerial car (mahad vimānaṃ dadarśa) variegated with gems and jewels (maṇiratnacitritam) and artfully wrought with lattices of burnished jāmbūnada gold (prataptajāmbūnadajālakṛtrimam).
+Standing in the middle of that palace (_tasya madhye bhavanasya saṃsthitaḥ_), that wise monkey, the son of the Wind-god, beheld the great aerial car (_mahad vimānaṃ dadarśa_) variegated with gems and jewels (_maṇiratnacitritam_) and artfully wrought with lattices of burnished _jāmbūnada_ gold (_prataptajāmbūnadajālakṛtrimam_).
 </details>
 </details>
 
@@ -158,7 +158,7 @@ beauty.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wrought with immeasurable and peerless counter-images (aprameyapratikārakṛtrimam), and fashioned by Viśvakarman himself with the acclaim, “This is truly exquisite!” (kṛtaṃ svayaṃ sādhv iti viśvakarmaṇā), that aerial car, stationed in the sky-reaching path of the wind (divaṃ gate vāyupathe pratiṣṭhitam), shone forth as the very emblem of the path of the sun (vyarājatādityapathasya lakṣma tat).
+Wrought with immeasurable and peerless counter-images (_aprameyapratikārakṛtrimam_), and fashioned by Viśvakarman himself with the acclaim, “This is truly exquisite!” (_kṛtaṃ svayaṃ sādhv iti viśvakarmaṇā_), that aerial car, stationed in the sky-reaching path of the wind (_divaṃ gate vāyupathe pratiṣṭhitam_), shone forth as the very emblem of the path of the sun (_vyarājatādityapathasya lakṣma tat_).
 </details>
 </details>
 
@@ -224,7 +224,7 @@ also, in that there is nothing that is not of great significance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There was nothing therein that was not fashioned with utmost care (na tatra kiṃcin na kṛtaṃ prayatnataḥ); there was nothing therein that was not set with priceless gems (na mahārharatnavat); those special excellences were not found even among the gods (na te viśeṣā niyatāḥ sureṣv api); there was nothing therein that did not possess some supreme distinction (na mahāviśeṣavat).
+There was nothing therein that was not fashioned with utmost care (_na tatra kiṃcin na kṛtaṃ prayatnataḥ_); there was nothing therein that was not set with priceless gems (_na mahārharatnavat_); those special excellences were not found even among the gods (_na te viśeṣā niyatāḥ sureṣv api_); there was nothing therein that did not possess some supreme distinction (_na mahāviśeṣavat_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ equal significance, collected from here and there from all over the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Won through austerity, meditative concentration, and valor (tapaḥsamādhānaparākramārjitam), coursing in accordance with the focused thought of the mind (manaḥsamādhānavicāracāriṇam), fashioned with manifold architectural distinctions (anekasaṃsthānaviśeṣanirmitam), and constructed throughout with harmonious features (tatas tatas tulyaviśeṣanirmitam)—
+Won through austerity, meditative concentration, and valor (_tapaḥsamādhānaparākramārjitam_), coursing in accordance with the focused thought of the mind (_manaḥsamādhānavicāracāriṇam_), fashioned with manifold architectural distinctions (_anekasaṃsthānaviśeṣanirmitam_), and constructed throughout with harmonious features (_tatas tatas tulyaviśeṣanirmitam_)—
 </details>
 </details>
 
@@ -363,7 +363,7 @@ mountain with other wonderful small peaks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swiftly coursing as soon as the master's mind is fixed (manaḥ samādhāya tu śīghragāminam), unassailable (durāsadam), moving with the speed of the wind (mārutatulyagāminam), and like the abode of supreme joy of high-souled, meritorious, richly endowed, and illustrious ones (mahātmanāṃ puṇyakṛtāṃ maharddhināṃ yaśasvinām agryamudām ivālayam);
+Swiftly coursing as soon as the master&#x27;s mind is fixed (_manaḥ samādhāya tu śīghragāminam_), unassailable (_durāsadam_), moving with the speed of the wind (_mārutatulyagāminam_), and like the abode of supreme joy of high-souled, meritorious, richly endowed, and illustrious ones (_mahātmanāṃ puṇyakṛtāṃ maharddhināṃ yaśasvinām agryamudām ivālayam_);
 </details>
 </details>
 
@@ -429,7 +429,7 @@ crooked eyes and wide eyes capable of great speed carrying it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed in a special region by resorting to a special mode of flight (viśeṣam ālambya viśeṣasaṃsthitam), possessing wondrous peaks and adorned with many pavilions (vicitrakūṭaṃ bahukūṭamaṇḍitam), delightful to the heart and pure as the autumn moon (mano'bhirāmaṃ śaradindunirmalam), like a mountain peak with variegated crags (vicitrakūṭaṃ śikharaṃ girer yathā);
+Stationed in a special region by resorting to a special mode of flight (_viśeṣam ālambya viśeṣasaṃsthitam_), possessing wondrous peaks and adorned with many pavilions (_vicitrakūṭaṃ bahukūṭamaṇḍitam_), delightful to the heart and pure as the autumn moon (_mano&#x27;bhirāmaṃ śaradindunirmalam_), like a mountain peak with variegated crags (_vicitrakūṭaṃ śikharaṃ girer yathā_);
 </details>
 </details>
 
@@ -516,9 +516,9 @@ appearance than even the spring season.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Which thousands of swift-moving hosts of spirits (mahājavā bhūtagaṇāḥ sahasraśaḥ)—night-roamers coursing through the sky (vyomacarā niśācarāḥ), of huge appetite (mahāśanāḥ), their faces gleaming with earrings (kuṇḍalaśobhitānanāḥ), and their wide eyes rolling and unblinking (vivṛttavidhvastaviśālalocanāḥ)—bear aloft (vahanti yat);
+**7:** Which thousands of swift-moving hosts of spirits (_mahājavā bhūtagaṇāḥ sahasraśaḥ_)—night-roamers coursing through the sky (_vyomacarā niśācarāḥ_), of huge appetite (_mahāśanāḥ_), their faces gleaming with earrings (_kuṇḍalaśobhitānanāḥ_), and their wide eyes rolling and unblinking (_vivṛttavidhvastaviśālalocanāḥ_)—bear aloft (_vahanti yat_);
 
-**8:** Lovely to behold with heaps of vernal blossoms (vasantapuṣpotkaracārudarśanam), and even lovelier to behold than the season of spring itself (vasantamāsād api cārudarśanam)—that foremost of monkey heroes beheld there that supreme aerial palace Puṣpaka (sa puṣpakaṃ tatra vimānam uttamaṃ dadarśa tad vānaravīrasattamaḥ).
+**8:** Lovely to behold with heaps of vernal blossoms (_vasantapuṣpotkaracārudarśanam_), and even lovelier to behold than the season of spring itself (_vasantamāsād api cārudarśanam_)—that foremost of monkey heroes beheld there that supreme aerial palace Puṣpaka (_sa puṣpakaṃ tatra vimānam uttamaṃ dadarśa tad vānaravīrasattamaḥ_).
 </details>
 </details>
 

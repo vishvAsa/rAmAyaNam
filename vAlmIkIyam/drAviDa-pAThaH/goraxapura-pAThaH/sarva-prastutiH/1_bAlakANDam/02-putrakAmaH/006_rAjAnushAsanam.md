@@ -713,7 +713,7 @@ There is no atheist, no liar, and none is less learnt in Veda-s, and no one is
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nowhere was there an atheist, nor a speaker of untruth, nor anyone of shallow learning, nor a detractor who finds fault in others' virtues (Asūyaka), nor anyone incompetent in his duties, nor anyone unlearned.
+Nowhere was there an atheist, nor a speaker of untruth, nor anyone of shallow learning, nor a detractor who finds fault in others&#x27; virtues (Asūyaka), nor anyone incompetent in his duties, nor anyone unlearned.
 </details>
 </details>
 
@@ -1414,7 +1414,7 @@ While residing in which city King Dasharatha ruled the world that city is furthe
 
 **25:** —and with elephants of the pure Bhadra, Mandra, and Mṛga breeds, as well as the threefold mixed breed (Bhadra-Mandra-Mṛga) and the twofold mixed breeds (Bhadra-Mandra, Bhadra-Mṛga, and Mṛga-Mandra)—that city was ever filled.
 
-**26:** Ever filled with perpetually rutting elephants massive as mountains, that city—true to her name `Ayodhyā' (the Unconquerable)—shines forth for two Yojanas and more, wherein King Daśaratha dwelt and protected the world.
+**26:** Ever filled with perpetually rutting elephants massive as mountains, that city—true to her name `Ayodhyā&#x27; (the Unconquerable)—shines forth for two Yojanas and more, wherein King Daśaratha dwelt and protected the world.
 </details>
 </details>
 

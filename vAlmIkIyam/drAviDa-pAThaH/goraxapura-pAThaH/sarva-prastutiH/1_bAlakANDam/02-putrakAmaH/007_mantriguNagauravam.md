@@ -348,7 +348,7 @@ All the ministers are well versed in scriptures, they shun bad deeds, skilful
 
 **6:** Together with these Brāhmaṇa-seers, his hereditary officiating priests and counselors were ever modest through sacred learning, endowed with moral shame (Hrī), skilled in policy, and masters of their senses.
 
-**7:** Radiant with prosperity, high-souled, deeply versed in the Śāstras (and the science of weaponry), of unshakable valor, renowned for their glory, vigilant in all state affairs, and faithful executors of the King's word—
+**7:** Radiant with prosperity, high-souled, deeply versed in the Śāstras (and the science of weaponry), of unshakable valor, renowned for their glory, vigilant in all state affairs, and faithful executors of the King&#x27;s word—
 
 **8:** Possessed of majesty, forbearance, and fame, speaking always with a welcoming smile, they would never utter an untrue word out of anger, desire, or greed for wealth.
 </details>
@@ -689,7 +689,7 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
 
 **14:** While all those pure-hearted ministers, united in a single purpose, vigilantly oversaw the affairs of state, there was not a single speaker of falsehood anywhere in the capital city or in the countryside.
 
-**15:** Nowhere in that realm was there a wicked man, nor one who coveted another's wife; utterly peaceful and free from all disturbance were both the countryside and that supreme capital city.
+**15:** Nowhere in that realm was there a wicked man, nor one who coveted another&#x27;s wife; utterly peaceful and free from all disturbance were both the countryside and that supreme capital city.
 </details>
 </details>
 

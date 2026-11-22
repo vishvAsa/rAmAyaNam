@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Kākutstha [Śatrughna] (evam uktvā ca kākutstham) and praised him again and again (praśasya ca punaḥ punaḥ), the delight of the Raghus [Rāma] once more addressed another speech to him (punar evāparaṃ vākyam uvāca raghunandanaḥ):
+Having spoken thus to Kākutstha [Śatrughna] (_evam uktvā ca kākutstham_) and praised him again and again (_praśasya ca punaḥ punaḥ_), the delight of the Raghus [Rāma] once more addressed another speech to him (_punar evāparaṃ vākyam uvāca raghunandanaḥ_):
 </details>
 </details>
 
@@ -96,9 +96,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Let these four thousand horses (aśva-sahasrāṇi catvāri), O bull among men, two thousand chariots (rathānāṃ dve sahasre), and a hundred noble elephants (gajānāṃ śatam uttamam),
+**2:** “Let these four thousand horses (_aśva-sahasrāṇi catvāri_), O bull among men, two thousand chariots (_rathānāṃ dve sahasre_), and a hundred noble elephants (_gajānāṃ śatam uttamam_),
 
-**3:** “together with the inner-city market-streets adorned with diverse wares (antarā paṇa-vīthyaś ca nānā-paṇyopaśobhitāḥ), and likewise actors and dancers (tathaiva naṭa-nartakāḥ), follow Kākutstha!
+**3:** “together with the inner-city market-streets adorned with diverse wares (_antarā paṇa-vīthyaś ca nānā-paṇyopaśobhitāḥ_), and likewise actors and dancers (_tathaiva naṭa-nartakāḥ_), follow Kākutstha!
 </details>
 </details>
 
@@ -132,7 +132,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Taking a hundred thousand measures of silver and fine gold (hiraṇyasya suvarṇasya niyutam), O bull among men, go forth, O Śatrughna, well supplied with wealth and mounts (paryāpta-dhana-vāhanaḥ).
+“Taking a hundred thousand measures of silver and fine gold (_hiraṇyasya suvarṇasya niyutam_), O bull among men, go forth, O Śatrughna, well supplied with wealth and mounts (_paryāpta-dhana-vāhanaḥ_).
 </details>
 </details>
 
@@ -166,7 +166,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And keep your army well maintained (balaṃ ca subhṛtam), O hero, joyful, well-nourished, and free from arrogance (hṛṣṭa-puṣṭam anuddhatam); gladden them through gracious speech and liberal gifts (sambhāṣā-sampradānena rañjayasva), O best of men!
+“And keep your army well maintained (_balaṃ ca subhṛtam_), O hero, joyful, well-nourished, and free from arrogance (_hṛṣṭa-puṣṭam anuddhatam_); gladden them through gracious speech and liberal gifts (_sambhāṣā-sampradānena rañjayasva_), O best of men!
 </details>
 </details>
 
@@ -200,7 +200,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For neither wealth (arthāḥ), nor wives (dārāḥ), nor kinsmen (bāndhavāḥ) abide where you shall stand, O Rāghava—only a deeply contented host of retainers (suprīto bhṛtya-vargaś ca)!”
+“For neither wealth (_arthāḥ_), nor wives (_dārāḥ_), nor kinsmen (_bāndhavāḥ_) abide where you shall stand, O Rāghava—only a deeply contented host of retainers (_suprīto bhṛtya-vargaś ca_)!”
 </details>
 </details>
 
@@ -253,9 +253,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “Therefore, having dispatched ahead this mighty host thronged with joyful folk (hṛṣṭa-janākīrṇāṃ prasthāpya mahatīṃ camūm), go forth alone, bow in hand (eka eva dhanuṣpāṇiḥ), to the forest of Madhu (madhuno vanam),
+**7:** “Therefore, having dispatched ahead this mighty host thronged with joyful folk (_hṛṣṭa-janākīrṇāṃ prasthāpya mahatīṃ camūm_), go forth alone, bow in hand (_eka eva dhanuṣpāṇiḥ_), to the forest of Madhu (_madhuno vanam_),
 
-**8:** “in such a manner that Lavaṇa, the son of Madhu (lavaṇas tu madhoḥ putraḥ), does not perceive you coming eager for battle (gacchantaṃ yuddha-kāṅkṣiṇam); thus should you advance without arousing suspicion (tathā gaccher aśaṅkitam).
+**8:** “in such a manner that Lavaṇa, the son of Madhu (_lavaṇas tu madhoḥ putraḥ_), does not perceive you coming eager for battle (_gacchantaṃ yuddha-kāṅkṣiṇam_); thus should you advance without arousing suspicion (_tathā gaccher aśaṅkitam_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For there is no other means of death for him whatsoever (na tasya mṛtyur anyo ’sti kaścid dhi), O bull among men; whoever comes into his sight (darśanaṃ yo ’bhigaccheta) is surely slain by Lavaṇa (sa vadhyo lavaṇena hi).
+“For there is no other means of death for him whatsoever (_na tasya mṛtyur anyo ’sti kaścid dhi_), O bull among men; whoever comes into his sight (_darśanaṃ yo ’bhigaccheta_) is surely slain by Lavaṇa (_sa vadhyo lavaṇena hi_).
 </details>
 </details>
 
@@ -318,7 +318,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the summer has departed (grīṣme ’payāte tu) and the rainy season has arrived (varṣā-rātra upāgate), you shall slay Lavaṇa, O gentle one (hanyās tvaṃ lavaṇaṃ saumya); for that is the appointed hour of that wicked-minded one (sa hi kālo ’sya durmateḥ).
+“When the summer has departed (_grīṣme ’payāte tu_) and the rainy season has arrived (_varṣā-rātra upāgate_), you shall slay Lavaṇa, O gentle one (_hanyās tvaṃ lavaṇaṃ saumya_); for that is the appointed hour of that wicked-minded one (_sa hi kālo ’sya durmateḥ_).
 </details>
 </details>
 
@@ -352,7 +352,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Placing the great sages in the vanguard (maharṣīṃs tu puraskṛtya), let your soldiers march forth (prayāntu tava sainikāḥ), so that with the remnant of summer (grīṣmāvaśeṣeṇa) they may cross the waters of the Jāhnavī [Gaṅgā] (tareyur jāhnavī-jalam).
+“Placing the great sages in the vanguard (_maharṣīṃs tu puraskṛtya_), let your soldiers march forth (_prayāntu tava sainikāḥ_), so that with the remnant of summer (_grīṣmāvaśeṣeṇa_) they may cross the waters of the Jāhnavī [Gaṅgā] (_tareyur jāhnavī-jalam_).
 </details>
 </details>
 
@@ -386,7 +386,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stationing the entire host there upon the riverbank (tatra sthāpya balaṃ sarvaṃ nadī-tīre), self-composed (samāhitaḥ), go forward with your bow alone (agrato dhanuṣā sārdham), swift in stride (laghu-vikramaḥ)!”
+“Stationing the entire host there upon the riverbank (_tatra sthāpya balaṃ sarvaṃ nadī-tīre_), self-composed (_samāhitaḥ_), go forward with your bow alone (_agrato dhanuṣā sārdham_), swift in stride (_laghu-vikramaḥ_)!”
 </details>
 </details>
 
@@ -429,7 +429,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāma (evam uktas tu rāmeṇa), Śatrughna summoned those mighty army commanders (tān mahābalān senā-mukhyān samānīya) and then spoke these words to them:
+Addressed thus by Rāma (_evam uktas tu rāmeṇa_), Śatrughna summoned those mighty army commanders (_tān mahābalān senā-mukhyān samānīya_) and then spoke these words to them:
 </details>
 </details>
 
@@ -463,7 +463,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These halting-places have been appointed for you (ete vo gaṇitā vāsāḥ); wherever you shall encamp (yatra tatra nivatsyatha), you must abide without strife (sthātavyaṃ cāvirodhena), so that distress befalls no one (yathā bādhā na kasyacit).”
+“These halting-places have been appointed for you (_ete vo gaṇitā vāsāḥ_); wherever you shall encamp (_yatra tatra nivatsyatha_), you must abide without strife (_sthātavyaṃ cāvirodhena_), so that distress befalls no one (_yathā bādhā na kasyacit_).”
 </details>
 </details>
 
@@ -491,7 +491,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having commanded them thus (tathā tāṃs tu samājñāpya) and dispatched the mighty army (prasthāpya ca mahad balam), he paid reverent homage to Kausalyā, Sumitrā, and Kaikeyī (kausalyāṃ ca sumitrāṃ ca kaikeyīṃ cābhyavādayat).
+Having commanded them thus (_tathā tāṃs tu samājñāpya_) and dispatched the mighty army (_prasthāpya ca mahad balam_), he paid reverent homage to Kausalyā, Sumitrā, and Kaikeyī (_kausalyāṃ ca sumitrāṃ ca kaikeyīṃ cābhyavādayat_).
 </details>
 </details>
 
@@ -525,7 +525,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having circumambulated Rāma (rāmaṃ pradakṣiṇīkṛtya) and bowed down with his head (śirasābhipraṇamya ca), and granted leave by Rāma (rāmeṇa cābhyanujñātaḥ), Śatrughna, scorcher of foes (śatrutāpanaḥ),
+Having circumambulated Rāma (_rāmaṃ pradakṣiṇīkṛtya_) and bowed down with his head (_śirasābhipraṇamya ca_), and granted leave by Rāma (_rāmeṇa cābhyanujñātaḥ_), Śatrughna, scorcher of foes (_śatrutāpanaḥ_),
 </details>
 </details>
 
@@ -561,7 +561,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-bowing with joined palms to Lakṣmaṇa and Bharata (lakṣmaṇaṃ bharataṃ caiva praṇipatya kṛtāñjaliḥ), and to the royal priest Vasiṣṭha (purohitaṃ vasiṣṭhaṃ ca), the self-restrained Śatrughna (prayatātmavān), after performing circumambulation, set forth in mighty strength (pradakṣiṇam atho kṛtvā nirjagāma mahābalaḥ).
+bowing with joined palms to Lakṣmaṇa and Bharata (_lakṣmaṇaṃ bharataṃ caiva praṇipatya kṛtāñjaliḥ_), and to the royal priest Vasiṣṭha (_purohitaṃ vasiṣṭhaṃ ca_), the self-restrained Śatrughna (_prayatātmavān_), after performing circumambulation, set forth in mighty strength (_pradakṣiṇam atho kṛtvā nirjagāma mahābalaḥ_).
 </details>
 </details>
 
@@ -611,7 +611,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dispatched the army ahead, teeming with surges of lordly elephants and foremost steeds (gajendra-vāji-pravaraugha-saṅkulām), he waited a month beside the king (upāsa māsaṃ tu narendra-pārśvataḥ) and then departed, enhancer of Raghu’s line (raghuvaṃśa-vardhanaḥ).
+Having dispatched the army ahead, teeming with surges of lordly elephants and foremost steeds (_gajendra-vāji-pravaraugha-saṅkulām_), he waited a month beside the king (_upāsa māsaṃ tu narendra-pārśvataḥ_) and then departed, enhancer of Raghu’s line (_raghuvaṃśa-vardhanaḥ_).
 </details>
 </details>
 

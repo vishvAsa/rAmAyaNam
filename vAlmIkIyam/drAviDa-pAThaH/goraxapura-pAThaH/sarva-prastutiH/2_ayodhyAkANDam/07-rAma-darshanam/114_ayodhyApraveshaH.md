@@ -80,7 +80,7 @@ sound entered soon the city of Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching in his chariot of smooth and deep-rumbling sound (snigdha-gambhīra-ghoṣeṇa syandanenopayān), the lord Bharata of great renown swiftly entered Ayodhyā (prabhuḥ ayodhyāṃ bharataḥ kṣipraṃ praviveśa mahā-yaśāḥ)—
+Approaching in his chariot of smooth and deep-rumbling sound (_snigdha-gambhīra-ghoṣeṇa syandanenopayān_), the lord Bharata of great renown swiftly entered Ayodhyā (_prabhuḥ ayodhyāṃ bharataḥ kṣipraṃ praviveśa mahā-yaśāḥ_)—
 </details>
 </details>
 
@@ -132,7 +132,7 @@ elephants and looking like a night enveloped by gloom, indistinctness and darkne
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-a city prowled by cats and owls, with its house-doors shut fast against men (biḍālolūka-caritām ālīna-nara-vāraṇām), like a black, lightless night smitten by darkness (timirābhyāhatāṃ kālīm aprakāśāṃ niśām iva);
+a city prowled by cats and owls, with its house-doors shut fast against men (_biḍālolūka-caritām ālīna-nara-vāraṇām_), like a black, lightless night smitten by darkness (_timirābhyāhatāṃ kālīm aprakāśāṃ niśām iva_);
 </details>
 </details>
 
@@ -196,7 +196,7 @@ what is known as a lunar eclipse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like Rohiṇī, the beloved consort of Rāhu’s foe the Moon, once blazing in radiance with splendor (rāhu-śatroḥ priyāṃ patnīṃ śriyā prajvalita-prabhām rohiṇīm iva), now solitary and afflicted by the risen planet Rāhu (graheṇābhyutthitenaikāṃ pīḍitām);
+like Rohiṇī, the beloved consort of Rāhu’s foe the Moon, once blazing in radiance with splendor (_rāhu-śatroḥ priyāṃ patnīṃ śriyā prajvalita-prabhām rohiṇīm iva_), now solitary and afflicted by the risen planet Rāhu (_graheṇābhyutthitenaikāṃ pīḍitām_);
 </details>
 </details>
 
@@ -250,7 +250,7 @@ big and alligators had perished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a shrunken mountain stream with its scanty, warm, and turbid waters (alpoṣṇa-kṣubdha-salilāṃ kṛśāṃ giri-nadīm iva), its birds tormented by the summer heat, and its small fish, large fish, and crocodiles hiding in the mud (gharmottapta-vihaṅgamāṃ līna-mīna-jhaṣa-grāhām);
+like a shrunken mountain stream with its scanty, warm, and turbid waters (_alpoṣṇa-kṣubdha-salilāṃ kṛśāṃ giri-nadīm iva_), its birds tormented by the summer heat, and its small fish, large fish, and crocodiles hiding in the mud (_gharmottapta-vihaṅgamāṃ līna-mīna-jhaṣa-grāhām_);
 </details>
 </details>
 
@@ -303,7 +303,7 @@ it, rises like a golden cone without smoke and thereafter sinks into extinction 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a smokeless, golden-hued flame risen from the sacrificial fire (vidhūmām iva hemābhām adhvarāgneḥ samutthitām śikhām), which has afterwards been sprinkled with the oblation and sunk into extinction (havir-abhyukṣitāṃ paścād vipralayaṃ gatām);
+like a smokeless, golden-hued flame risen from the sacrificial fire (_vidhūmām iva hemābhām adhvarāgneḥ samutthitām śikhām_), which has afterwards been sprinkled with the oblation and sunk into extinction (_havir-abhyukṣitāṃ paścād vipralayaṃ gatām_);
 </details>
 </details>
 
@@ -356,7 +356,7 @@ slain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like an army reduced to ruin in a great battle, with its armor shattered (vidhvasta-kavacāṃ āpannāṃ camūm iva mahāhave), its elephants, horses, chariots, and standards broken, and its foremost heroes slain (rugṇa-gaja-vāji-ratha-dhvajāṃ hata-pravīrām);
+like an army reduced to ruin in a great battle, with its armor shattered (_vidhvasta-kavacāṃ āpannāṃ camūm iva mahāhave_), its elephants, horses, chariots, and standards broken, and its foremost heroes slain (_rugṇa-gaja-vāji-ratha-dhvajāṃ hata-pravīrām_);
 </details>
 </details>
 
@@ -419,7 +419,7 @@ roar, is rendered noiseless, being shaken up by a silent wind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a wave of the ocean’s water that once rose high with foam and roar (sa-phenā sa-svanā bhūtvā sāgarasya samutthitām jalormim iva), now hushed as the buffeting wind has died down (praśānta-mārutodghātāṃ nisvanām);
+like a wave of the ocean’s water that once rose high with foam and roar (_sa-phenā sa-svanā bhūtvā sāgarasya samutthitām jalormim iva_), now hushed as the buffeting wind has died down (_praśānta-mārutodghātāṃ nisvanām_);
 </details>
 </details>
 
@@ -474,7 +474,7 @@ recitations by the learned priests.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a sacrificial altar hushed and silent when the time of the Soma-pressing has concluded (sutyā-kāle vinirvṛtte vediṃ gata-ravām iva), forsaken by all the sacrificial implements and by the learned priests (tyaktāṃ yajñāyudhaiḥ sarvair abhirūpaiś ca yājakaiḥ);
+like a sacrificial altar hushed and silent when the time of the Soma-pressing has concluded (_sutyā-kāle vinirvṛtte vediṃ gata-ravām iva_), forsaken by all the sacrificial implements and by the learned priests (_tyaktāṃ yajñāyudhaiḥ sarvair abhirūpaiś ca yājakaiḥ_);
 </details>
 </details>
 
@@ -526,7 +526,7 @@ pastures and stand in the cow-pen, dispirited.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a herd of kine standing distressed in the middle of the cowpen and not grazing on the fresh grass (goṣṭha-madhye sthitām ārtām acarantīṃ tṛṇaṃ navam gavāṃ pattim iva), restless and forsaken by the lordly bull (go-vṛṣeṇa parityaktāṃ utsukām);
+like a herd of kine standing distressed in the middle of the cowpen and not grazing on the fresh grass (_goṣṭha-madhye sthitām ārtām acarantīṃ tṛṇaṃ navam gavāṃ pattim iva_), restless and forsaken by the lordly bull (_go-vṛṣeṇa parityaktāṃ utsukām_);
 </details>
 </details>
 
@@ -579,7 +579,7 @@ excellent gems, rubies and the like, of genuine quality.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a new necklace of pearls stripped of its rubies and other gems of purest breed (prabhākarādyaiḥ viyuktāṃ maṇibhir jātyair navāṃ muktāvalīm iva)—gems of rich luster that seemed to blaze with fire (susnigdhaiḥ prajvaladbhir ivottamaiḥ);
+like a new necklace of pearls stripped of its rubies and other gems of purest breed (_prabhākarādyaiḥ viyuktāṃ maṇibhir jātyair navāṃ muktāvalīm iva_)—gems of rich luster that seemed to blaze with fire (_susnigdhaiḥ prajvaladbhir ivottamaiḥ_);
 </details>
 </details>
 
@@ -632,7 +632,7 @@ exhausted, soon dropped from the sky and fallen to earth, deprived of its splend
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a star fallen from heaven, suddenly dislodged from its station and come to the earth through the exhaustion of merit (sahasā calitāṃ sthānān mahīṃ puṇya-kṣayād gatām tārām iva divaś cyutām), its wide-spreading radiance withdrawn (saṃhṛta-dyuti-vistārām);
+like a star fallen from heaven, suddenly dislodged from its station and come to the earth through the exhaustion of merit (_sahasā calitāṃ sthānān mahīṃ puṇya-kṣayād gatām tārām iva divaś cyutām_), its wide-spreading radiance withdrawn (_saṃhṛta-dyuti-vistārām_);
 </details>
 </details>
 
@@ -685,7 +685,7 @@ withering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a forest creeper at the close of spring, thickly clustered with blossoms and resonant with intoxicated bees (puṣpa-naddhāṃ vasantānte matta-bhramara-nāditām vana-latām iva), now withered and scorched by a swift forest fire (druta-dāvāgni-vipluṣṭāṃ klāntām);
+like a forest creeper at the close of spring, thickly clustered with blossoms and resonant with intoxicated bees (_puṣpa-naddhāṃ vasantānte matta-bhramara-nāditām vana-latām iva_), now withered and scorched by a swift forest fire (_druta-dāvāgni-vipluṣṭāṃ klāntām_);
 </details>
 </details>
 
@@ -746,7 +746,7 @@ resembled like a firmament, covered with clouds, with the moon and stars obscure
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with its thoroughfares and merchants stupefied, paralyzed, and its market-stalls and shops closed down (sammūḍha-nigamāṃ stabdhāṃ saṅkṣipta-vipaṇāpaṇām), like the sky overcast with clouds when the moon and stars are hidden (pracchanna-śaśi-nakṣatrāṃ dyām ivāmbudharair vṛtām);
+with its thoroughfares and merchants stupefied, paralyzed, and its market-stalls and shops closed down (_sammūḍha-nigamāṃ stabdhāṃ saṅkṣipta-vipaṇāpaṇām_), like the sky overcast with clouds when the moon and stars are hidden (_pracchanna-śaśi-nakṣatrāṃ dyām ivāmbudharair vṛtām_);
 </details>
 </details>
 
@@ -801,7 +801,7 @@ broken and the pieces stewn in disorder.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like an unswept open-air drinking ground whose revelers have been slain (hata-śauṇḍām ivākāśe pāna-bhūmim asaṃskṛtām), strewn all over with shattered earthen goblets drained of choice liquor (kṣīṇa-pānottamair bhinnaiḥ śarāvair abhisaṃvṛtām);
+like an unswept open-air drinking ground whose revelers have been slain (_hata-śauṇḍām ivākāśe pāna-bhūmim asaṃskṛtām_), strewn all over with shattered earthen goblets drained of choice liquor (_kṣīṇa-pānottamair bhinnaiḥ śarāvair abhisaṃvṛtām_);
 </details>
 </details>
 
@@ -855,7 +855,7 @@ vessels, its water having been used up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a collapsed and fallen wayside water-shed with its water exhausted (upayuktodakāṃ bhagnāṃ prapāṃ nipatitām iva), its ground-platform cracked and sunken, and its surroundings strewn with broken vessels (vṛkṇa-bhūmi-talāṃ nimnāṃ vṛkṇa-pātraiḥ samāvṛtām);
+like a collapsed and fallen wayside water-shed with its water exhausted (_upayuktodakāṃ bhagnāṃ prapāṃ nipatitām iva_), its ground-platform cracked and sunken, and its surroundings strewn with broken vessels (_vṛkṇa-bhūmi-talāṃ nimnāṃ vṛkṇa-pātraiḥ samāvṛtām_);
 </details>
 </details>
 
@@ -911,7 +911,7 @@ both ends, but severed from the bow by the arrows of heroes and fallen to the gr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a long and tautly strung bowstring fitted with end-loops (vipulāṃ vitatāṃ caiva yukta-pāśāṃ jyām iva), severed by the arrows of mighty warriors and fallen from the bow to the ground (tarasvināṃ bhūmau bāṇair viniṣkṛttāṃ patitāṃ āyudhāt);
+like a long and tautly strung bowstring fitted with end-loops (_vipulāṃ vitatāṃ caiva yukta-pāśāṃ jyām iva_), severed by the arrows of mighty warriors and fallen from the bow to the ground (_tarasvināṃ bhūmau bāṇair viniṣkṛttāṃ patitāṃ āyudhāt_);
 </details>
 </details>
 
@@ -963,7 +963,7 @@ and fallen down when killed by the opposite army.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a weak young filly ridden hard and suddenly by a battle-eager horseman (sahasā yuddha-śauṇḍena hayāroheṇa vāhitāṃ kiśorīm iva durbalām), now stripped of her saddle-trappings and abandoned (nikṣipta-bhāṇḍām utsṛṣṭām);
+like a weak young filly ridden hard and suddenly by a battle-eager horseman (_sahasā yuddha-śauṇḍena hayāroheṇa vāhitāṃ kiśorīm iva durbalām_), now stripped of her saddle-trappings and abandoned (_nikṣipta-bhāṇḍām utsṛṣṭām_);
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ following words to the charioteer who was riding his excellent chariot:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like a broad reservoir with its banks breached and its water dried up (śuṣka-toyāṃ prabhinna-taṭa-vistīrṇāṃ vāpīm iva), crowded with many great fish and tortoises and stripped of its lotuses (mahā-matsyaiḥ kūrmaiś ca bahubhir vṛtāṃ hṛtotpalām);
+like a broad reservoir with its banks breached and its water dried up (_śuṣka-toyāṃ prabhinna-taṭa-vistīrṇāṃ vāpīm iva_), crowded with many great fish and tortoises and stripped of its lotuses (_mahā-matsyaiḥ kūrmaiś ca bahubhir vṛtāṃ hṛtotpalām_);
 </details>
 </details>
 
@@ -1075,7 +1075,7 @@ not heard as before in Ayodhya today?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like the slender bodily frame of a joyless man, tormented by grief (puruṣasyāprahṛṣṭasya santaptām iva śokena gātra-yaṣṭim), from which unguents have been banished and ornaments stripped away (pratiṣiddhānulepanāṃ abhūṣaṇām);
+like the slender bodily frame of a joyless man, tormented by grief (_puruṣasyāprahṛṣṭasya santaptām iva śokena gātra-yaṣṭim_), from which unguents have been banished and ornaments stripped away (_pratiṣiddhānulepanāṃ abhūṣaṇām_);
 </details>
 </details>
 
@@ -1131,7 +1131,7 @@ wafted."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-like the radiance of the sun when it has entered a bank of clouds at the height of the rainy season (prāvṛṣi pravigāḍhāyāṃ praviṣṭasyābhra-maṇḍalam bhāskarasya prabhām iva), hidden away by dark rain-clouds (pracchannāṃ nīla-jīmūtaiḥ).
+like the radiance of the sun when it has entered a bank of clouds at the height of the rainy season (_prāvṛṣi pravigāḍhāyāṃ praviṣṭasyābhra-maṇḍalam bhāskarasya prabhām iva_), hidden away by dark rain-clouds (_pracchannāṃ nīla-jīmūtaiḥ_).
 </details>
 </details>
 
@@ -1162,7 +1162,7 @@ like the radiance of the sun when it has entered a bank of clouds at the height 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing in his chariot, the glorious Bharata, son of Daśaratha (bharatas tu ratha-sthaḥ san śrīmān daśarathātmajaḥ), spoke these words to his charioteer who was driving that foremost of chariots (vāhayantaṃ ratha-śreṣṭhaṃ sārathiṃ vākyam abravīt):
+Standing in his chariot, the glorious Bharata, son of Daśaratha (_bharatas tu ratha-sthaḥ san śrīmān daśarathātmajaḥ_), spoke these words to his charioteer who was driving that foremost of chariots (_vāhayantaṃ ratha-śreṣṭhaṃ sārathiṃ vākyam abravīt_):
 </details>
 </details>
 
@@ -1239,9 +1239,9 @@ like sandal-wood, aloe wood as also the most admirable and fresh floral garlands
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “Why indeed is the deep, swelling sound of song and musical instruments (kiṃ nu khalv adya gambhīro mūrcchito gīta-vāditra-nisvanaḥ) not heard today in Ayodhyā as in times past (na niśamyate yathā-puram ayodhyāyām)?
+**22:** “Why indeed is the deep, swelling sound of song and musical instruments (_kiṃ nu khalv adya gambhīro mūrcchito gīta-vāditra-nisvanaḥ_) not heard today in Ayodhyā as in times past (_na niśamyate yathā-puram ayodhyāyām_)?
 
-**23:** Neither the intoxicating aroma of vāruṇī wine, nor the pervasive fragrance of garlands (vāruṇī-mada-gandhaś ca mālya-gandhaś ca mūrcchitaḥ), nor the scent of smoldering aloe-wood wafts on all sides (dhūpitāgaru-gandhaś ca na pravāti samantataḥ).
+**23:** Neither the intoxicating aroma of _vāruṇī_ wine, nor the pervasive fragrance of garlands (_vāruṇī-mada-gandhaś ca mālya-gandhaś ca mūrcchitaḥ_), nor the scent of smoldering aloe-wood wafts on all sides (_dhūpitāgaru-gandhaś ca na pravāti samantataḥ_).
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ pleasure-trips, wearing colourful garlands nor festivals are observed by them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The rumble of excellent carriages, the pleasant neighing of steeds (yāna-pravara-ghoṣaś ca snigdhaś ca haya-nisvanaḥ), the trumpeting of rutting elephants, and the mighty din of chariots (pramatta-gaja-nādaś ca mahāṃś ca ratha-nisvanaḥ) are no longer heard now in this city since Rāma has been sent into exile (nedānīṃ śrūyate puryām asyāṃ rāme vivāsite).
+“The rumble of excellent carriages, the pleasant neighing of steeds (_yāna-pravara-ghoṣaś ca snigdhaś ca haya-nisvanaḥ_), the trumpeting of rutting elephants, and the mighty din of chariots (_pramatta-gaja-nādaś ca mahāṃś ca ratha-nisvanaḥ_) are no longer heard now in this city since Rāma has been sent into exile (_nedānīṃ śrūyate puryām asyāṃ rāme vivāsite_).
 </details>
 </details>
 
@@ -1358,7 +1358,7 @@ Ayodhya is not shining indeed, like a rainy night at the time of the waning moon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For now that Rāma has departed, afflicted young men no longer enjoy (gate hi rāme taruṇāḥ santaptā nopa-bhuñjate) the perfumes of sandalwood and aloe-wood or costly fresh garlands (candanāgaru-gandhāṃś ca mahārhāś ca nava-srajaḥ).
+For now that Rāma has departed, afflicted young men no longer enjoy (_gate hi rāme taruṇāḥ santaptā nopa-bhuñjate_) the perfumes of sandalwood and aloe-wood or costly fresh garlands (_candanāgaru-gandhāṃś ca mahārhāś ca nava-srajaḥ_).
 </details>
 </details>
 
@@ -1404,7 +1404,7 @@ autumnal rains?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Men wearing bright garlands no longer go forth on pleasure-excursions outside (bahir-yātrāṃ na gacchanti citra-mālya-dharā narāḥ), nor do festivals take place in the city afflicted with grief for Rāma (notsavāḥ sampravartante rāma-śokārdite pure).
+Men wearing bright garlands no longer go forth on pleasure-excursions outside (_bahir-yātrāṃ na gacchanti citra-mālya-dharā narāḥ_), nor do festivals take place in the city afflicted with grief for Rāma (_notsavāḥ sampravartante rāma-śokārdite pure_).
 </details>
 </details>
 
@@ -1483,9 +1483,9 @@ emperor and which resembled a cave bereft of a lion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Surely the radiance of this city has departed together with my brother (saha nūnaṃ mama bhrātrā purasyāsya dyutir gatā); for this Ayodhyā shines no more than a moonlit night of the bright fortnight darkened by a driving rainstorm (na hi rājaty ayodhyeyaṃ sāsārevārjunī kṣapā).
+**27:** Surely the radiance of this city has departed together with my brother (_saha nūnaṃ mama bhrātrā purasyāsya dyutir gatā_); for this Ayodhyā shines no more than a moonlit night of the bright fortnight darkened by a driving rainstorm (_na hi rājaty ayodhyeyaṃ sāsārevārjunī kṣapā_).
 
-**28:** “When indeed will my brother, returning like a great festival (kadā nu khalu me bhrātā mahotsava ivāgataḥ), bring joy to Ayodhyā like a rain-cloud in summer (janayiṣyaty ayodhyāyāṃ harṣaṃ grīṣma ivāmbudaḥ)?
+**28:** “When indeed will my brother, returning like a great festival (_kadā nu khalu me bhrātā mahotsava ivāgataḥ_), bring joy to Ayodhyā like a rain-cloud in summer (_janayiṣyaty ayodhyāyāṃ harṣaṃ grīṣma ivāmbudaḥ_)?
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ gynaecium, looking like a day without the sun with its relinquished radiance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The highways in Ayodhyā no longer shine with young men in handsome attire (taruṇaiś cāru-veṣaiś ca ayodhyāyāṃ nābhibhānti mahā-pathāḥ), striding with heads held high and thronging together (narair unnata-gāmibhiḥ sampatadbhiḥ).”
+The highways in Ayodhyā no longer shine with young men in handsome attire (_taruṇaiś cāru-veṣaiś ca ayodhyāyāṃ nābhibhānti mahā-pathāḥ_), striding with heads held high and thronging together (_narair unnata-gāmibhiḥ sampatadbhiḥ_).”
 </details>
 </details>
 

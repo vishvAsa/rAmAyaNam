@@ -79,7 +79,7 @@ Angada, who was eager to fight, attacked the valiant Kampana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that tumultuous battle (saṃkule tasmin), dreadful and destructive of heroic warriors (ghore vīrajanakṣaye), had commenced (pravṛtte), Aṅgada, eager for combat (raṇotsukaḥ), encountered the heroic Kampana (kampanaṃ vīram āsasāda).
+When that tumultuous battle (_saṃkule tasmin_), dreadful and destructive of heroic warriors (_ghore vīrajanakṣaye_), had commenced (_pravṛtte_), Aṅgada, eager for combat (_raṇotsukaḥ_), encountered the heroic Kampana (_kampanaṃ vīram āsasāda_).
 </details>
 </details>
 
@@ -126,7 +126,7 @@ anticipation. Violently hit by him, Angada was reeled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Challenging Aṅgada (āhūya so 'ṅgadam), Kampana in wrath swiftly struck him first with his mace (tāḍayāmāsa vegitaḥ gadayā pūrvam); and severely smitten (bhṛśāhataḥ), he reeled (sa cacāla).
+Challenging Aṅgada (_āhūya so &#x27;ṅgadam_), Kampana in wrath swiftly struck him first with his mace (_tāḍayāmāsa vegitaḥ gadayā pūrvam_); and severely smitten (_bhṛśāhataḥ_), he reeled (_sa cacāla_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ that stroke, Kampana fell down on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regaining his senses (sa saṃjñāṃ prāpya), that splendid prince hurled the peak of a mountain (cikṣepa śikharaṃ gireḥ); and crushed by that blow (arditaś ca prahāreṇa), Kampana fell dead upon the earth (patito bhuvi).
+Regaining his senses (_sa saṃjñāṃ prāpya_), that splendid prince hurled the peak of a mountain (_cikṣepa śikharaṃ gireḥ_); and crushed by that blow (_arditaś ca prahāreṇa_), Kampana fell dead upon the earth (_patito bhuvi_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ Angada quickly in a chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seeing Kampana slain in battle (kampanaṃ dṛṣṭvā hataṃ raṇe), Śoṇitākṣa swiftly rushed upon Aṅgada there in his chariot (rathenābhyapatat kṣipram), as though fearless (abhītavat).
+Then, seeing Kampana slain in battle (_kampanaṃ dṛṣṭvā hataṃ raṇe_), Śoṇitākṣa swiftly rushed upon Aṅgada there in his chariot (_rathenābhyapatat kṣipram_), as though fearless (_abhītavat_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ Then, seeing Kampana slain in battle (kampanaṃ dṛṣṭvā hataṃ raṇe), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by speed (vegitaḥ), he then pierced Aṅgada with whetted arrows (niśitair bāṇair vivyādha)—sharp, body-rending (śarīradāraṇais tīkṣṇaiḥ), and resembling the fire of universal doom in form (kālāgnisamavigrahaiḥ)—
+Impelled by speed (_vegitaḥ_), he then pierced Aṅgada with whetted arrows (_niśitair bāṇair vivyādha_)—sharp, body-rending (_śarīradāraṇais tīkṣṇaiḥ_), and resembling the fire of universal doom in form (_kālāgnisamavigrahaiḥ_)—
 </details>
 </details>
 
@@ -337,9 +337,9 @@ terrific bow, chariot and darts with his might.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** with razor-edged shafts, crescent-headed arrows, and iron bolts (kṣurakṣurapranārācaiḥ), calf-tooth arrows and bee-winged shafts (vatsadantaiḥ śilīmukhaiḥ), and with many whetted ear-barbed, spear-headed, and oleander-leaf arrows (karṇiśalyavipāṭhaiś ca).
+**6:** with razor-edged shafts, crescent-headed arrows, and iron bolts (_kṣurakṣurapranārācaiḥ_), calf-tooth arrows and bee-winged shafts (_vatsadantaiḥ śilīmukhaiḥ_), and with many whetted ear-barbed, spear-headed, and oleander-leaf arrows (_karṇiśalyavipāṭhaiś ca_).
 
-**7:** Though his limbs were pierced (pratividdhāṅgaḥ), the mighty and valorous son of Vālin, Aṅgada, violently crushed (mamarda tarasā) that formidable bow, chariot, and arrows (dhanur ugraṃ rathaṃ bāṇān).
+**7:** Though his limbs were pierced (_pratividdhāṅgaḥ_), the mighty and valorous son of Vālin, Aṅgada, violently crushed (_mamarda tarasā_) that formidable bow, chariot, and arrows (_dhanur ugraṃ rathaṃ bāṇān_).
 </details>
 </details>
 
@@ -388,7 +388,7 @@ jumped down (from his chariot) unhesitatingly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Śoṇitākṣa swiftly seized a sword and shield (asicarma samādade), and filled with wrath, that swift warrior leaped up (utpapāta tadā kruddhaḥ) without hesitation (avicārayan).
+Thereupon Śoṇitākṣa swiftly seized a sword and shield (_asicarma samādade_), and filled with wrath, that swift warrior leaped up (_utpapāta tadā kruddhaḥ_) without hesitation (_avicārayan_).
 </details>
 </details>
 
@@ -440,7 +440,7 @@ the sword, the strong Angada made a lion's roar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping up even more swiftly (kṣiprataram āplutya) and seizing hold of him (taṃ parāmṛśya), the mighty Aṅgada wrenched that sword away with his hand (kareṇa tasya taṃ khaḍgaṃ samācchidya) and roared aloud (nanāda ca).
+Leaping up even more swiftly (_kṣiprataram āplutya_) and seizing hold of him (_taṃ parāmṛśya_), the mighty Aṅgada wrenched that sword away with his hand (_kareṇa tasya taṃ khaḍgaṃ samācchidya_) and roared aloud (_nanāda ca_).
 </details>
 </details>
 
@@ -492,7 +492,7 @@ cut him from left to right diagonally.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Aṅgada struck that sword down upon his shoulder-blade (tasyāṃsaphalake khaḍgaṃ nijaghāna), and the elephant among monkeys (kapikuñjaraḥ) gashed him diagonally like a sacred thread (yajñopavītavac cainaṃ ciccheda).
+Then Aṅgada struck that sword down upon his shoulder-blade (_tasyāṃsaphalake khaḍgaṃ nijaghāna_), and the elephant among monkeys (_kapikuñjaraḥ_) gashed him diagonally like a sacred thread (_yajñopavītavac cainaṃ ciccheda_).
 </details>
 </details>
 
@@ -544,7 +544,7 @@ other surviving enemies in the battle-front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping that great sword (taṃ pragṛhya mahākhaḍgam) and roaring again and again (vinadya ca punaḥ punaḥ), the son of Vālin charged against other foes (abhidudrāva parān arīn) at the forefront of the battle (raṇaśīrṣe).
+Grasping that great sword (_taṃ pragṛhya mahākhaḍgam_) and roaring again and again (_vinadya ca punaḥ punaḥ_), the son of Vālin charged against other foes (_abhidudrāva parān arīn_) at the forefront of the battle (_raṇaśīrṣe_).
 </details>
 </details>
 
@@ -590,7 +590,7 @@ other surviving enemies in the battle-front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by Prajaṅgha (prajaṅghasahitaḥ), the heroic and mighty Yūpākṣa then advanced in wrath upon his chariot (rathenābhiyayau kruddhaḥ) against the mighty son of Vālin (vāliputraṃ mahābalam).
+Accompanied by Prajaṅgha (_prajaṅghasahitaḥ_), the heroic and mighty Yūpākṣa then advanced in wrath upon his chariot (_rathenābhiyayau kruddhaḥ_) against the mighty son of Vālin (_vāliputraṃ mahābalam_).
 </details>
 </details>
 
@@ -647,7 +647,7 @@ an iron mace and rushed quickly towards the same Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recovering his breath (samāśvasya) and seizing an iron mace (āyasīṃ tu gadāṃ gṛhya), that heroic Śoṇitākṣa, decked with golden armlets (kanakāṅgadaḥ), rushed right back at him (tam evānupapāta ha).
+Recovering his breath (_samāśvasya_) and seizing an iron mace (_āyasīṃ tu gadāṃ gṛhya_), that heroic Śoṇitākṣa, decked with golden armlets (_kanakāṅgadaḥ_), rushed right back at him (_tam evānupapāta ha_).
 </details>
 </details>
 
@@ -693,7 +693,7 @@ enraged and rushed towards the mighty Angada with his mace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great hero Prajaṅgha, mighty and accompanied by Yūpākṣa (yūpākṣasahito balī), advanced in wrath with his mace (gadayābhiyayau kruddhaḥ) against the mighty son of Vālin (vāliputraṃ mahābalam).
+And the great hero Prajaṅgha, mighty and accompanied by Yūpākṣa (_yūpākṣasahito balī_), advanced in wrath with his mace (_gadayābhiyayau kruddhaḥ_) against the mighty son of Vālin (_vāliputraṃ mahābalam_).
 </details>
 </details>
 
@@ -739,7 +739,7 @@ shone like a full moon between the two asterisms known as Vishakhas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing between those two, Śoṇitākṣa and Prajaṅgha (tayor madhye śoṇitākṣaprajaṅghayoḥ), that foremost of monkeys (kapiśreṣṭhaḥ) shone like the full moon stationed between the two stars of Viśākhā (viśākhayor madhyagataḥ pūrṇacandra ivābabhau).
+Standing between those two, Śoṇitākṣa and Prajaṅgha (_tayor madhye śoṇitākṣaprajaṅghayoḥ_), that foremost of monkeys (_kapiśreṣṭhaḥ_) shone like the full moon stationed between the two stars of Viśākhā (_viśākhayor madhyagataḥ pūrṇacandra ivābabhau_).
 </details>
 </details>
 
@@ -791,7 +791,7 @@ intent to exhibit each of their own martial skill.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Guarding Aṅgada (aṅgadaṃ parirakṣantau), Mainda and Dvivida took their stand near him (tasya tasthatur abhyāśe), eager to witness each other's martial prowess (parasparadidṛkṣayā).
+Guarding Aṅgada (_aṅgadaṃ parirakṣantau_), Mainda and Dvivida took their stand near him (_tasya tasthatur abhyāśe_), eager to witness each other&#x27;s martial prowess (_parasparadidṛkṣayā_).
 </details>
 </details>
 
@@ -837,7 +837,7 @@ wielding swords, arrows and maces, towards the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of colossal stature and mighty strength (mahākāyāḥ mahābalāḥ), the Rākṣasas, bracing themselves in counter-effort (pratiyattāḥ) and bearing swords, arrows, and maces (asibāṇagadādharāḥ), rushed upon the Vānaras in fury (abhipetur vānarān roṣāt).
+Of colossal stature and mighty strength (_mahākāyāḥ mahābalāḥ_), the Rākṣasas, bracing themselves in counter-effort (_pratiyattāḥ_) and bearing swords, arrows, and maces (_asibāṇagadādharāḥ_), rushed upon the Vānaras in fury (_abhipetur vānarān roṣāt_).
 </details>
 </details>
 
@@ -890,7 +890,7 @@ who encountered the three excellent demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Between those three Vānara lords (trayāṇāṃ vānarendrāṇām) and the three bulls among Rākṣasas (tribhī rākṣasapuṃgavaiḥ) locked in combat (saṃsaktānām), there arose a great and hair-raising battle (mahad yuddham abhavad romaharṣaṇam).
+Between those three Vānara lords (_trayāṇāṃ vānarendrāṇām_) and the three bulls among Rākṣasas (_tribhī rākṣasapuṃgavaiḥ_) locked in combat (_saṃsaktānām_), there arose a great and hair-raising battle (_mahad yuddham abhavad romaharṣaṇam_).
 </details>
 </details>
 
@@ -950,7 +950,7 @@ demon-chiefs. The mighty Prajangha, however, cut them down with his sword.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing trees (vṛkṣān samādāya), they hurled them in battle (sampracikṣipur āhave); and the mighty Prajaṅgha beat them back with his sword (khaḍgena praticikṣepa tān).
+Seizing trees (_vṛkṣān samādāya_), they hurled them in battle (_sampracikṣipur āhave_); and the mighty Prajaṅgha beat them back with his sword (_khaḍgena praticikṣepa tān_).
 </details>
 </details>
 
@@ -1006,7 +1006,7 @@ The mighty Yupaksha chopped them off with a flood of arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In battle they hurled crags and trees against the chariots and horses (rathān aśvān drumāñ śailān praticikṣipur āhave); and the mighty Yūpākṣa severed them with showers of arrows (śaraughaiḥ praticiccheda tān).
+In battle they hurled crags and trees against the chariots and horses (_rathān aśvān drumāñ śailān praticikṣipur āhave_); and the mighty Yūpākṣa severed them with showers of arrows (_śaraughaiḥ praticiccheda tān_).
 </details>
 </details>
 
@@ -1059,7 +1059,7 @@ hurled by Dvivida and Mainda with his mace in the midway itself.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the valorous and splendid Śoṇitākṣa (śoṇitākṣaḥ pratāpavān) shattered in mid-air with his mace (babhañja gadayā madhye) the trees uprooted and hurled by Dvivida and Mainda (sṛṣṭān dvividamaindābhyāṃ drumān utpāṭya).
+And the valorous and splendid Śoṇitākṣa (_śoṇitākṣaḥ pratāpavān_) shattered in mid-air with his mace (_babhañja gadayā madhye_) the trees uprooted and hurled by Dvivida and Mainda (_sṛṣṭān dvividamaindābhyāṃ drumān utpāṭya_).
 </details>
 </details>
 
@@ -1105,7 +1105,7 @@ rushed swiftly towards Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brandishing a broad sword that rent the vitals of foes (udyamya vipulaṃ khaḍgaṃ paramarmavidāraṇam), Prajaṅgha rushed swiftly (abhidudrāva vegitaḥ) at the son of Vālin (vāliputrāya).
+Brandishing a broad sword that rent the vitals of foes (_udyamya vipulaṃ khaḍgaṃ paramarmavidāraṇam_), Prajaṅgha rushed swiftly (_abhidudrāva vegitaḥ_) at the son of Vālin (_vāliputrāya_).
 </details>
 </details>
 
@@ -1170,9 +1170,9 @@ the sword fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Seeing him come within reach (tam abhyāśagataṃ dṛṣṭvā), the lord of Vānaras of mighty strength (vānarendro mahābalaḥ), surpassingly powerful, then struck him with an aśvakarṇa tree (ājaghānāśvakarṇena drumeṇa).
+**23:** Seeing him come within reach (_tam abhyāśagataṃ dṛṣṭvā_), the lord of Vānaras of mighty strength (_vānarendro mahābalaḥ_), surpassingly powerful, then struck him with an _aśvakarṇa_ tree (_ājaghānāśvakarṇena drumeṇa_).
 
-**24:** And with his fist he struck his arm together with its sword (bāhuṃ cāsya sanistriṃśam ājaghāna sa muṣṭinā); and by the blow of Vālin's son (vāliputrasya ghātena), that sword fell upon the ground (sa papāta kṣitāv asiḥ).
+**24:** And with his fist he struck his arm together with its sword (_bāhuṃ cāsya sanistriṃśam ājaghāna sa muṣṭinā_); and by the blow of Vālin&#x27;s son (_vāliputrasya ghātena_), that sword fell upon the ground (_sa papāta kṣitāv asiḥ_).
 </details>
 </details>
 
@@ -1227,7 +1227,7 @@ mighty Prajangha tightened his thunderbolt like fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that mace-like sword fallen upon the ground (taṃ dṛṣṭvā patitaṃ bhūmau khaḍgaṃ musalasaṃnibham), that warrior of mighty strength clenched his thunderbolt-like fist (muṣṭiṃ saṃvartayāmāsa vajrakalpam).
+Seeing that mace-like sword fallen upon the ground (_taṃ dṛṣṭvā patitaṃ bhūmau khaḍgaṃ musalasaṃnibham_), that warrior of mighty strength clenched his thunderbolt-like fist (_muṣṭiṃ saṃvartayāmāsa vajrakalpam_).
 </details>
 </details>
 
@@ -1280,7 +1280,7 @@ great strength on his forehead, Angada shuddered for a moment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Prajaṅgha of mighty splendor (sa mahātejāḥ) struck the supremely valorous Aṅgada, that bull among Vānaras, upon the forehead (lalāṭe ājaghāna); and he reeled for a moment (sa muhūrtaṃ cacāla ha).
+And Prajaṅgha of mighty splendor (_sa mahātejāḥ_) struck the supremely valorous Aṅgada, that bull among Vānaras, upon the forehead (_lalāṭe ājaghāna_); and he reeled for a moment (_sa muhūrtaṃ cacāla ha_).
 </details>
 </details>
 
@@ -1326,7 +1326,7 @@ fist and shattered Prajangha's head off his trunk.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regaining his senses (sa saṃjñāṃ prāpya), the glorious and valorous son of Vālin (tejasvī vāliputraḥ pratāpavān) struck Prajaṅgha's head from his body with his fist (prajaṅghasya śiraḥ kāyāt pātayāmāsa muṣṭinā).
+Regaining his senses (_sa saṃjñāṃ prāpya_), the glorious and valorous son of Vālin (_tejasvī vāliputraḥ pratāpavān_) struck Prajaṅgha&#x27;s head from his body with his fist (_prajaṅghasya śiraḥ kāyāt pātayāmāsa muṣṭinā_).
 </details>
 </details>
 
@@ -1380,7 +1380,7 @@ chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his paternal uncle was slain in battle (pitṛvye nihate raṇe), Yūpākṣa, his eyes filled with tears (aśrupūrṇākṣaḥ) and his arrows exhausted (kṣīṇeṣuḥ), swiftly alighted from his chariot and seized his sword (khaḍgam ādade).
+When his paternal uncle was slain in battle (_pitṛvye nihate raṇe_), Yūpākṣa, his eyes filled with tears (_aśrupūrṇākṣaḥ_) and his arrows exhausted (_kṣīṇeṣuḥ_), swiftly alighted from his chariot and seized his sword (_khaḍgam ādade_).
 </details>
 </details>
 
@@ -1426,7 +1426,7 @@ and with a rage, forcibly caught hold of him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Yūpākṣa rushing forward (tam āpatantaṃ samprekṣya), the mighty Dvivida hastened (tvaran), struck him in fury upon the chest (ājaghānorasi kruddhaḥ), and seized him by force (jagrāha ca balāt).
+Beholding Yūpākṣa rushing forward (_tam āpatantaṃ samprekṣya_), the mighty Dvivida hastened (_tvaran_), struck him in fury upon the chest (_ājaghānorasi kruddhaḥ_), and seized him by force (_jagrāha ca balāt_).
 </details>
 </details>
 
@@ -1478,7 +1478,7 @@ Dvivida on his chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his brother seized (gṛhītaṃ bhrātaraṃ dṛṣṭvā), the mighty Śoṇitākṣa of great splendor then struck Dvivida upon the chest (ājaghāna vakṣasi dvividaṃ tataḥ).
+Seeing his brother seized (_gṛhītaṃ bhrātaraṃ dṛṣṭvā_), the mighty Śoṇitākṣa of great splendor then struck Dvivida upon the chest (_ājaghāna vakṣasi dvividaṃ tataḥ_).
 </details>
 </details>
 
@@ -1532,7 +1532,7 @@ platter's mace when lifted again on him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by him (sa tato 'bhihatas tena), that warrior of mighty strength reeled (cacāla ca mahābalaḥ); and once again Dvivida wrenched away his upraised mace (udyatāṃ ca punas tasya jahāra dvivido gadām).
+Struck by him (_sa tato &#x27;bhihatas tena_), that warrior of mighty strength reeled (_cacāla ca mahābalaḥ_); and once again Dvivida wrenched away his upraised mace (_udyatāṃ ca punas tasya jahāra dvivido gadām_).
 </details>
 </details>
 
@@ -1584,7 +1584,7 @@ palm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime (etasminn antare), the valorous Mainda came to Dvivida's side (dvividābhyāśam āgamat) and struck Yūpākṣa upon the chest with his open palm (tāḍayāmāsa talenorasi vīryavān).
+In the meantime (_etasminn antare_), the valorous Mainda came to Dvivida&#x27;s side (_dvividābhyāśam āgamat_) and struck Yūpākṣa upon the chest with his open palm (_tāḍayāmāsa talenorasi vīryavān_).
 </details>
 </details>
 
@@ -1631,7 +1631,7 @@ and severely.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those two swift warriors, Śoṇitākṣa and Yūpākṣa (tau śoṇitākṣayūpākṣau), engaged in a fierce mutual tugging and wrenching (cakratuḥ samare tīvram ākarṣotpāṭanaṃ bhṛśam) with the two monkeys (plavaṃgābhyām).
+Then those two swift warriors, Śoṇitākṣa and Yūpākṣa (_tau śoṇitākṣayūpākṣau_), engaged in a fierce mutual tugging and wrenching (_cakratuḥ samare tīvram ākarṣotpāṭanaṃ bhṛśam_) with the two monkeys (_plavaṃgābhyām_).
 </details>
 </details>
 
@@ -1681,7 +1681,7 @@ him down on the floor by his strength and crushed him down.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dvivida tore Śoṇitākṣa's face with his claws (vidadāra nakhair mukhe), and hurling him down upon the ground (kṣitāv āvidhya), that valorous monkey crushed him to death by his might (niṣpipeṣa sa vīryeṇa).
+Dvivida tore Śoṇitākṣa&#x27;s face with his claws (_vidadāra nakhair mukhe_), and hurling him down upon the ground (_kṣitāv āvidhya_), that valorous monkey crushed him to death by his might (_niṣpipeṣa sa vīryeṇa_).
 </details>
 </details>
 
@@ -1727,7 +1727,7 @@ Yupaksha fell down dead on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed with wrath (abhisaṃkruddhaḥ), Mainda, that bull among Vānaras (vānarapuṅgavaḥ), crushed Yūpākṣa with his two arms (pīḍayāmāsa bāhubhyām), and he fell dead upon the earth (papāta sa hataḥ kṣitau).
+Incensed with wrath (_abhisaṃkruddhaḥ_), Mainda, that bull among Vānaras (_vānarapuṅgavaḥ_), crushed Yūpākṣa with his two arms (_pīḍayāmāsa bāhubhyām_), and he fell dead upon the earth (_papāta sa hataḥ kṣitau_).
 </details>
 </details>
 
@@ -1781,7 +1781,7 @@ battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its foremost champions slain (hatapravīrā), that distressed army of the Rākṣasa lord (vyathitā rākṣasendracamūḥ) then went facing straight toward the spot where the son of Kumbhakarṇa stood (kumbhakarṇātmajo yataḥ).
+With its foremost champions slain (_hatapravīrā_), that distressed army of the Rākṣasa lord (_vyathitā rākṣasendracamūḥ_) then went facing straight toward the spot where the son of Kumbhakarṇa stood (_kumbhakarṇātmajo yataḥ_).
 </details>
 </details>
 
@@ -1820,7 +1820,7 @@ Rallying the routed Rākṣasa host, Kumbha wields his bow like a second rainbow
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kumbha reassured that army (kumbhas tāṃ sāntvayac camūm) as it came rushing toward him in haste (āpatantīṃ ca vegena), routed by the monkeys of mighty valor who had found their mark (utkṛṣṭaṃ mahāvīryair labdhalakṣaiḥ plavaṃgamaiḥ).
+Kumbha reassured that army (_kumbhas tāṃ sāntvayac camūm_) as it came rushing toward him in haste (_āpatantīṃ ca vegena_), routed by the monkeys of mighty valor who had found their mark (_utkṛṣṭaṃ mahāvīryair labdhalakṣaiḥ plavaṃgamaiḥ_).
 </details>
 </details>
 
@@ -1872,7 +1872,7 @@ difficult to do in a battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the Rākṣasa host with its great heroes struck down (nipātitamahāvīrāṃ dṛṣṭvā rakṣaścamūm), the glorious Kumbha then performed in battle a feat most difficult to accomplish (karma suduṣkaram).
+Beholding the Rākṣasa host with its great heroes struck down (_nipātitamahāvīrāṃ dṛṣṭvā rakṣaścamūm_), the glorious Kumbha then performed in battle a feat most difficult to accomplish (_karma suduṣkaram_).
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ composed, released serpentine arrows which can split open the bodies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping his bow with deep concentration (sa dhanur pragṛhya susamāhitaḥ), that foremost of archers (dhanvināṃ śreṣṭhaḥ) loosed body-rending arrows that resembled venomous serpents (mumocāśīviṣaprakhyāñ śarān dehavidāraṇān).
+Grasping his bow with deep concentration (_sa dhanur pragṛhya susamāhitaḥ_), that foremost of archers (_dhanvināṃ śreṣṭhaḥ_) loosed body-rending arrows that resembled venomous serpents (_mumocāśīviṣaprakhyāñ śarān dehavidāraṇān_).
 </details>
 </details>
 
@@ -1973,7 +1973,7 @@ carrying Indra on its back).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fitted with its arrow (saśaram), that supreme bow of his shone forth all the more (tasya tac chuśubhe bhūyaḥ), like a second rainbow (dvitīyendradhanur yathā) ablaze with lightning and the Airāvata bow (vidyudairāvatārciṣmat).
+Fitted with its arrow (_saśaram_), that supreme bow of his shone forth all the more (_tasya tac chuśubhe bhūyaḥ_), like a second rainbow (_dvitīyendradhanur yathā_) ablaze with lightning and the Airāvata bow (_vidyudairāvatārciṣmat_).
 </details>
 </details>
 
@@ -2019,7 +2019,7 @@ discharged, he then struck Dvivida.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a feathered arrow (patriṇā) of golden shaft-notch (hāṭakapuṅkhena), clothed in feathers (patravāsasā), drawn to the ear and loosed (ākarṇakṛṣṭamuktena), he then struck Dvivida (jaghāna dvividaṃ tadā).
+With a feathered arrow (_patriṇā_) of golden shaft-notch (_hāṭakapuṅkhena_), clothed in feathers (_patravāsasā_), drawn to the ear and loosed (_ākarṇakṛṣṭamuktena_), he then struck Dvivida (_jaghāna dvividaṃ tadā_).
 </details>
 </details>
 
@@ -2072,7 +2072,7 @@ Trikuta, was perturbed, with his feet swaying to and fro and fell down throbbing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Suddenly smitten by that shaft (sahasābhihatas tena), with his steps faltering (vipramuktapadaḥ) and his body convulsing (sphuran), that foremost of monkeys, resembling Mount Trikūṭa (trikūṭābhaḥ), fell reeling to the ground (nipapāta vihvalan).
+Suddenly smitten by that shaft (_sahasābhihatas tena_), with his steps faltering (_vipramuktapadaḥ_) and his body convulsing (_sphuran_), that foremost of monkeys, resembling Mount Trikūṭa (_trikūṭābhaḥ_), fell reeling to the ground (_nipapāta vihvalan_).
 </details>
 </details>
 
@@ -2133,7 +2133,7 @@ taking a large rock, rushed with speed to attack the demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his brother struck down there in that great battle (bhrātaraṃ tatra bhagnaṃ dṛṣṭvā mahāhave), Mainda seized a huge crag (pragṛhya vipulāṃ śilām) and charged at Kumbha with speed (abhidudrāva vegena).
+Seeing his brother struck down there in that great battle (_bhrātaraṃ tatra bhagnaṃ dṛṣṭvā mahāhave_), Mainda seized a huge crag (_pragṛhya vipulāṃ śilām_) and charged at Kumbha with speed (_abhidudrāva vegena_).
 </details>
 </details>
 
@@ -2179,7 +2179,7 @@ into pieces with his five shining arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That warrior of mighty strength hurled that crag at the Rākṣasa (tāṃ śilāṃ tu pracikṣepa rākṣasāya); and Kumbha split that crag with five bright-shining arrows (bibheda tāṃ śilāṃ kumbhaḥ prasannaiḥ pañcabhiḥ śaraiḥ).
+That warrior of mighty strength hurled that crag at the Rākṣasa (_tāṃ śilāṃ tu pracikṣepa rākṣasāya_); and Kumbha split that crag with five bright-shining arrows (_bibheda tāṃ śilāṃ kumbhaḥ prasannaiḥ pañcabhiḥ śaraiḥ_).
 </details>
 </details>
 
@@ -2226,7 +2226,7 @@ a great splendour, struck it on the chest of Mainda the brother of Dvivida.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fitting another sharp-pointed shaft resembling a venomous serpent (saṃdhāya cānyaṃ sumukhaṃ śaram āśīviṣopamam), Kumbha of mighty splendor struck Dvivida's elder brother upon the chest (ājaghāna vakṣasi dvividāgrajam).
+Fitting another sharp-pointed shaft resembling a venomous serpent (_saṃdhāya cānyaṃ sumukhaṃ śaram āśīviṣopamam_), Kumbha of mighty splendor struck Dvivida&#x27;s elder brother upon the chest (_ājaghāna vakṣasi dvividāgrajam_).
 </details>
 </details>
 
@@ -2275,7 +2275,7 @@ parts, he fell unconscious on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck in his vital organs by that blow of his (tena prahāreṇa marmaṇy abhihatas tena), Mainda, that leader of Vānara troops (vānarayūthapaḥ), fell unconscious upon the earth (papāta bhuvi mūrcchitaḥ).
+Struck in his vital organs by that blow of his (_tena prahāreṇa marmaṇy abhihatas tena_), Mainda, that leader of Vānara troops (_vānarayūthapaḥ_), fell unconscious upon the earth (_papāta bhuvi mūrcchitaḥ_).
 </details>
 </details>
 
@@ -2327,7 +2327,7 @@ Kumbha, who was standing with his bow uplifted.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding both his maternal uncles of mighty strength laid low (mātulau dṛṣṭvā mathitau tu mahābalau), Aṅgada charged with speed (abhidudrāva vegena) at Kumbha, who stood with bow upraised (kumbham udyatakārmukam).
+Beholding both his maternal uncles of mighty strength laid low (_mātulau dṛṣṭvā mathitau tu mahābalau_), Aṅgada charged with speed (_abhidudrāva vegena_) at Kumbha, who stood with bow upraised (_kumbham udyatakārmukam_).
 </details>
 </details>
 
@@ -2380,7 +2380,7 @@ Angada advancing towards him, as on would pierce an elephant with goads.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he rushed forward (tam āpatantam), Kumbha pierced him with five iron shafts (vivyādha pañcabhir āyasaiḥ) and with three other whetted arrows, as one pierces an elephant with lances (mātaṃgam iva tomaraiḥ); and the valorous Kumbha pierced Aṅgada with many arrows (bahubhir bāṇaiḥ).
+As he rushed forward (_tam āpatantam_), Kumbha pierced him with five iron shafts (_vivyādha pañcabhir āyasaiḥ_) and with three other whetted arrows, as one pierces an elephant with lances (_mātaṃgam iva tomaraiḥ_); and the valorous Kumbha pierced Aṅgada with many arrows (_bahubhir bāṇaiḥ_).
 </details>
 </details>
 
@@ -2435,7 +2435,7 @@ with edges which were harsh and sharp.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though his limbs were pierced (pratividdhāṅgaḥ) by those gold-decked, whetted, and keen shafts of unblunted edge (akuṇṭhadhārair niśitais tīkṣṇaiḥ kanakabhūṣaṇaiḥ), Aṅgada, the son of Vālin, did not waver (na kampate).
+Though his limbs were pierced (_pratividdhāṅgaḥ_) by those gold-decked, whetted, and keen shafts of unblunted edge (_akuṇṭhadhārair niśitais tīkṣṇaiḥ kanakabhūṣaṇaiḥ_), Aṅgada, the son of Vālin, did not waver (_na kampate_).
 </details>
 </details>
 
@@ -2483,7 +2483,7 @@ however not shaken. He showered a rain of rocks and trees on Kumbha's head.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He rained down showers of crags and trees upon his head (śilāpādapavarṣāṇi tasya mūrdhni vavarṣa ha); and Kumbha severed all those [trees] (sa praciccheda tān sarvān) and split the crags as well (bibheda ca punaḥ śilāḥ).
+He rained down showers of crags and trees upon his head (_śilāpādapavarṣāṇi tasya mūrdhni vavarṣa ha_); and Kumbha severed all those [trees] (_sa praciccheda tān sarvān_) and split the crags as well (_bibheda ca punaḥ śilāḥ_).
 </details>
 </details>
 
@@ -2529,7 +2529,7 @@ Angada and burst off the rocks further.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having cloven [those missiles] hurled by the son of Vālin (vāliputrasamīritān), the glorious son of Kumbhakarṇa, Kumbha, beholding that leader of Vānara troops rushing at him (āpatantaṃ ca samprekṣya vānarayūthapam),
+Having cloven [those missiles] hurled by the son of Vālin (_vāliputrasamīritān_), the glorious son of Kumbhakarṇa, Kumbha, beholding that leader of Vānara troops rushing at him (_āpatantaṃ ca samprekṣya vānarayūthapam_),
 </details>
 </details>
 
@@ -2621,11 +2621,11 @@ it with his hand and bending a little, Angada uprooted it from the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**52:** pierced his two brows with a pair of arrows (bhruvau vivyādha bāṇābhyām), as one brands an elephant with two flaming torches (ulkābhyām iva kuñjaram); and his blood gushed forth (tasya susrāva rudhiram), covering both his eyes (pihite cāsya locane).
+**52:** pierced his two brows with a pair of arrows (_bhruvau vivyādha bāṇābhyām_), as one brands an elephant with two flaming torches (_ulkābhyām iva kuñjaram_); and his blood gushed forth (_tasya susrāva rudhiram_), covering both his eyes (_pihite cāsya locane_).
 
-**53:** Covering his blood-drenched eyes with one hand (pāṇinā netre pidhāya rudhirokṣite), Aṅgada grasped a nearby sāla tree with his other hand (sālam āsannam ekena parijagrāha pāṇinā).
+**53:** Covering his blood-drenched eyes with one hand (_pāṇinā netre pidhāya rudhirokṣite_), Aṅgada grasped a nearby _sāla_ tree with his other hand (_sālam āsannam ekena parijagrāha pāṇinā_).
 
-**54:** Pressing that branched trunk against his chest (sampīḍyorasi saskandhaṃ) and bracing it with his hand (kareṇābhiniveśya ca), he bent it down slightly and wrenched it up (kiṃcid abhyavanamyainam unmamātha) in that great battle.
+**54:** Pressing that branched trunk against his chest (_sampīḍyorasi saskandhaṃ_) and bracing it with his hand (_kareṇābhiniveśya ca_), he bent it down slightly and wrenched it up (_kiṃcid abhyavanamyainam unmamātha_) in that great battle.
 </details>
 </details>
 
@@ -2685,7 +2685,7 @@ Indra's banner and resembled Mount Mandara in size.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While all the Rākṣasas looked on (miṣatāṃ sarvarakṣasām), he hurled with speed (samutsṛjata vegena) that tree, which resembled Indra's festival standard (indraketupratimam) and Mount Mandara (mandarasaṃnibham).
+While all the Rākṣasas looked on (_miṣatāṃ sarvarakṣasām_), he hurled with speed (_samutsṛjata vegena_) that tree, which resembled Indra&#x27;s festival standard (_indraketupratimam_) and Mount Mandara (_mandarasaṃnibham_).
 </details>
 </details>
 
@@ -2738,7 +2738,7 @@ splitting asunder the body. That Angada was very much perturbed and fell down, s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kumbha severed it with seven whetted, body-cleaving arrows (sa ciccheda śitair bāṇaiḥ saptabhiḥ kāyabhedanaiḥ); and Aṅgada, grievously afflicted (vivyathe 'bhīkṣṇam), fell down and swooned (sa papāta mumoha ca).
+Kumbha severed it with seven whetted, body-cleaving arrows (_sa ciccheda śitair bāṇaiḥ saptabhiḥ kāyabhedanaiḥ_); and Aṅgada, grievously afflicted (_vivyathe &#x27;bhīkṣṇam_), fell down and swooned (_sa papāta mumoha ca_).
 </details>
 </details>
 
@@ -2790,7 +2790,7 @@ an ocean, the monkey-chiefs informed the matter to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the unassailable Aṅgada fallen (aṅgadaṃ patitaṃ dṛṣṭvā durāsadam) and sinking as though in an ocean (sīdantam iva sāgare), the foremost of monkeys reported it to Rāghava (rāghavāya nyavedayan).
+Beholding the unassailable Aṅgada fallen (_aṅgadaṃ patitaṃ dṛṣṭvā durāsadam_) and sinking as though in an ocean (_sīdantam iva sāgare_), the foremost of monkeys reported it to Rāghava (_rāghavāya nyavedayan_).
 </details>
 </details>
 
@@ -2837,7 +2837,7 @@ help, leaders of monkeys, headed by Jambavan.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that the son of Vālin was distressed in that great battle (vyathitaṃ śrutvā vāliputraṃ mahāhave), Rāma then commanded the foremost of monkeys headed by Jāmbavān (vyādideśa hariśreṣṭhāñ jāmbavatpramukhāṃs tataḥ).
+Hearing that the son of Vālin was distressed in that great battle (_vyathitaṃ śrutvā vāliputraṃ mahāhave_), Rāma then commanded the foremost of monkeys headed by Jāmbavān (_vyādideśa hariśreṣṭhāñ jāmbavatpramukhāṃs tataḥ_).
 </details>
 </details>
 
@@ -2883,7 +2883,7 @@ rushed towards Kumbha who was wielding a bow in his hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāma's command (śrutvā rāmasya śāsanam), those tigers among Vānaras (vānaraśārdūlāḥ), filled with fierce wrath (susaṃkruddhāḥ), rushed upon Kumbha, who stood with bow upraised (kumbham udyatakārmukam).
+Hearing Rāma&#x27;s command (_śrutvā rāmasya śāsanam_), those tigers among Vānaras (_vānaraśārdūlāḥ_), filled with fierce wrath (_susaṃkruddhāḥ_), rushed upon Kumbha, who stood with bow upraised (_kumbham udyatakārmukam_).
 </details>
 </details>
 
@@ -2929,7 +2929,7 @@ their hands and with their furious blood-red eyes, rushed on.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with trees and crags in their hands (drumaśilāhastāḥ) and their eyes bloodshot with rage (kopasaṃraktalocanāḥ), those bulls among Vānaras rushed forward desiring to rescue Aṅgada (rirakṣiṣanto 'bhyapatann aṅgadam).
+Then, with trees and crags in their hands (_drumaśilāhastāḥ_) and their eyes bloodshot with rage (_kopasaṃraktalocanāḥ_), those bulls among Vānaras rushed forward desiring to rescue Aṅgada (_rirakṣiṣanto &#x27;bhyapatann aṅgadam_).
 </details>
 </details>
 
@@ -2983,7 +2983,7 @@ son of Kumbhakarna to attack him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Jāmbavān, Suṣeṇa, and the Vānara Vegadarśī, filled with wrath (kruddhāḥ), charged together (samabhidudruvuḥ) against the heroic son of Kumbhakarṇa (kumbhakarṇātmajaṃ vīram).
+Jāmbavān, Suṣeṇa, and the Vānara Vegadarśī, filled with wrath (_kruddhāḥ_), charged together (_samabhidudruvuḥ_) against the heroic son of Kumbhakarṇa (_kumbhakarṇātmajaṃ vīram_).
 </details>
 </details>
 
@@ -3035,7 +3035,7 @@ flood of arrows, as one would obstruct the course of a stream by means of a rock
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those Vānara lords of mighty strength rushing upon him (samīkṣyāpatatas tāṃs tu vānarendrān mahābalān), he stemmed their advance with a torrent of arrows (āvavāra śaraugheṇa), as one dams a stream of water with a mountain (nageneva jalāśayam).
+Beholding those Vānara lords of mighty strength rushing upon him (_samīkṣyāpatatas tāṃs tu vānarendrān mahābalān_), he stemmed their advance with a torrent of arrows (_āvavāra śaraugheṇa_), as one dams a stream of water with a mountain (_nageneva jalāśayam_).
 </details>
 </details>
 
@@ -3089,7 +3089,7 @@ shore.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching the path of his arrows (tasya bāṇapathaṃ prāpya), those great-souled Vānara lords were unable even to look up (na śekur api vīkṣitum), just as the great ocean cannot transgress its shore (velām iva mahodadhiḥ).
+Reaching the path of his arrows (_tasya bāṇapathaṃ prāpya_), those great-souled Vānara lords were unable even to look up (_na śekur api vīkṣitum_), just as the great ocean cannot transgress its shore (_velām iva mahodadhiḥ_).
 </details>
 </details>
 
@@ -3153,9 +3153,9 @@ mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**64:** Seeing those troops of monkeys tormented by showers of arrows (tāṃs tu dṛṣṭvā harigaṇān śaravṛṣṭibhir arditān), the lord of Vānaras (plavageśvaraḥ), placing his brother's son Aṅgada behind him (aṅgadaṃ pṛṣṭhataḥ kṛtvā bhrātṛjam),
+**64:** Seeing those troops of monkeys tormented by showers of arrows (_tāṃs tu dṛṣṭvā harigaṇān śaravṛṣṭibhir arditān_), the lord of Vānaras (_plavageśvaraḥ_), placing his brother&#x27;s son Aṅgada behind him (_aṅgadaṃ pṛṣṭhataḥ kṛtvā bhrātṛjam_),
 
-**65:** Sugrīva charged in battle against the son of Kumbhakarṇa (abhidudrāva sugrīvaḥ kumbhakarṇātmajaṃ raṇe), like a swift lion rushing upon an elephant roaming a mountain plateau (śailasānucaraṃ nāgaṃ vegavān iva kesarī).
+**65:** Sugrīva charged in battle against the son of Kumbhakarṇa (_abhidudrāva sugrīvaḥ kumbhakarṇātmajaṃ raṇe_), like a swift lion rushing upon an elephant roaming a mountain plateau (_śailasānucaraṃ nāgaṃ vegavān iva kesarī_).
 </details>
 </details>
 
@@ -3207,7 +3207,7 @@ Sugreeva the king of monkeys hurled them on Kumbha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uprooting many great trees headed by aśvakarṇas (utpāṭya ca mahāvṛkṣān aśvakarṇādikān bahūn), that great monkey hurled various other trees as well (anyāṃś ca vividhān vṛkṣāṃś cikṣepa sa mahākapiḥ).
+Uprooting many great trees headed by _aśvakarṇas_ (_utpāṭya ca mahāvṛkṣān aśvakarṇādikān bahūn_), that great monkey hurled various other trees as well (_anyāṃś ca vividhān vṛkṣāṃś cikṣepa sa mahākapiḥ_).
 </details>
 </details>
 
@@ -3268,7 +3268,7 @@ that down pour of trees, which was obscuring the sky and which was difficult to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his own whetted arrows (svaśaraiḥ śitaiḥ), the glorious son of Kumbhakarṇa (kumbhakarṇātmajaḥ śrīmān) severed that unassailable rain of trees (tāṃ vṛkṣavṛṣṭiṃ durāsadām) that was darkening the sky (chādayantīm ākāśam).
+With his own whetted arrows (_svaśaraiḥ śitaiḥ_), the glorious son of Kumbhakarṇa (_kumbhakarṇātmajaḥ śrīmān_) severed that unassailable rain of trees (_tāṃ vṛkṣavṛṣṭiṃ durāsadām_) that was darkening the sky (_chādayantīm ākāśam_).
 </details>
 </details>
 
@@ -3331,7 +3331,7 @@ with iron spikes).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Studded with whetted arrows (niśitaiḥ śaraiḥ ācitāḥ) by the fierce Kumbha of unerring aim (abhilakṣyeṇa tīvreṇa kumbhena), those trees shone like dreadful spiked śataghnīs (rejur yathā ghorāḥ śataghnayaḥ); yet seeing his rain of trees cloven by Kumbha (drumavarṣaṃ tu tad bhinnaṃ dṛṣṭvā kumbhena), the valorous
+Studded with whetted arrows (_niśitaiḥ śaraiḥ ācitāḥ_) by the fierce Kumbha of unerring aim (_abhilakṣyeṇa tīvreṇa kumbhena_), those trees shone like dreadful spiked _śataghnīs_ (_rejur yathā ghorāḥ śataghnayaḥ_); yet seeing his rain of trees cloven by Kumbha (_drumavarṣaṃ tu tad bhinnaṃ dṛṣṭvā kumbhena_), the valorous
 </details>
 </details>
 
@@ -3409,9 +3409,9 @@ splendour of a rain-bow and broke it all at once.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**69:** and glorious lord of the Vānaras, of mighty spirit (vānarādhipatiḥ śrīmān mahāsattvaḥ), did not waver (na vivyathe); and though pierced at once, enduring those arrows (sa vidhyamānaḥ sahasā sahamānas tu tāñ śarān),
+**69:** and glorious lord of the Vānaras, of mighty spirit (_vānarādhipatiḥ śrīmān mahāsattvaḥ_), did not waver (_na vivyathe_); and though pierced at once, enduring those arrows (_sa vidhyamānaḥ sahasā sahamānas tu tāñ śarān_),
 
-**70:** he snatched away Kumbha's bow, which gleamed like Indra's rainbow, and snapped it in two (kumbhasya dhanur ākṣipya babhañjendradhanuḥprabham); and leaping back swiftly after performing that feat most difficult to accomplish (avaplutya tataḥ śīghraṃ kṛtvā karma suduṣkaram),
+**70:** he snatched away Kumbha&#x27;s bow, which gleamed like Indra&#x27;s rainbow, and snapped it in two (_kumbhasya dhanur ākṣipya babhañjendradhanuḥprabham_); and leaping back swiftly after performing that feat most difficult to accomplish (_avaplutya tataḥ śīghraṃ kṛtvā karma suduṣkaram_),
 </details>
 </details>
 
@@ -3477,9 +3477,9 @@ majesty too exists.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**71:** filled with wrath, he spoke to Kumbha, who stood like an elephant with broken tusks (bhagnaśṛṅgam iva dvipam): “O elder brother of Nikumbha (nikumbhāgraja), wondrous is that valor of yours and the speed of your arrows (vīryaṃ te bāṇavegaṃ tad adbhutam)!
+**71:** filled with wrath, he spoke to Kumbha, who stood like an elephant with broken tusks (_bhagnaśṛṅgam iva dvipam_): “O elder brother of Nikumbha (_nikumbhāgraja_), wondrous is that valor of yours and the speed of your arrows (_vīryaṃ te bāṇavegaṃ tad adbhutam_)!
 
-**72:** “Both devotion to your kin and martial majesty (saṃnatiś ca prabhāvaś ca) belong to you or to Rāvaṇa alone (tava vā rāvaṇasya vā), O you who are the equal of Prahlāda, Bali, Vṛtra's slayer Indra, Kubera, and Varuṇa (prahlādabalivṛtraghnakuberavaruṇopama)!
+**72:** “Both devotion to your kin and martial majesty (_saṃnatiś ca prabhāvaś ca_) belong to you or to Rāvaṇa alone (_tava vā rāvaṇasya vā_), O you who are the equal of Prahlāda, Bali, Vṛtra&#x27;s slayer Indra, Kubera, and Varuṇa (_prahlādabalivṛtraghnakuberavaruṇopama_)!
 </details>
 </details>
 
@@ -3538,9 +3538,9 @@ your father (Kumbhakarna) who was exceedingly strong."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**73:** “You alone are born taking after your father, who was mightier still (ekas tvam anujāto 'si pitaraṃ balavattaram); you alone, of mighty arms, pike in hand, and tamer of foes (tvām evaikaṃ mahābāhuṃ śūlahastam ariṃdamam),
+**73:** “You alone are born taking after your father, who was mightier still (_ekas tvam anujāto &#x27;si pitaraṃ balavattaram_); you alone, of mighty arms, pike in hand, and tamer of foes (_tvām evaikaṃ mahābāhuṃ śūlahastam ariṃdamam_),
 
-**74:** the thirty gods cannot overpower (tridaśā nātivartante), just as mental afflictions cannot overcome one who has conquered his senses (jitendriyam ivādhayaḥ); put forth your valor, O warrior of great intellect (vikramasva mahābuddhe), and behold my deeds as well (karmāṇi mama paśya ca)!
+**74:** the thirty gods cannot overpower (_tridaśā nātivartante_), just as mental afflictions cannot overcome one who has conquered his senses (_jitendriyam ivādhayaḥ_); put forth your valor, O warrior of great intellect (_vikramasva mahābuddhe_), and behold my deeds as well (_karmāṇi mama paśya ca_)!
 </details>
 </details>
 
@@ -3589,7 +3589,7 @@ Hence, exhibit your prowess, O demon of great intellect and see my exploits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the boon granted to him, your paternal uncle withstands the gods and Dānavas (varadānāt pitṛvyas te sahate devadānavān); whereas Kumbhakarṇa by his own native valor (vīryeṇa) withstood both gods and Asuras (sahate ca surāsurān).
+“Through the boon granted to him, your paternal uncle withstands the gods and Dānavas (_varadānāt pitṛvyas te sahate devadānavān_); whereas Kumbhakarṇa by his own native valor (_vīryeṇa_) withstood both gods and Asuras (_sahate ca surāsurān_).
 </details>
 </details>
 
@@ -3636,7 +3636,7 @@ demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Equal to Indrajit in archery (dhanuṣīndrajitas tulyaḥ) and to Rāvaṇa in fiery splendor (pratāpe rāvaṇasya ca), you today are the foremost in the world of Rākṣasas in strength and valor (śreṣṭho 'si balavīryataḥ).
+“Equal to Indrajit in archery (_dhanuṣīndrajitas tulyaḥ_) and to Rāvaṇa in fiery splendor (_pratāpe rāvaṇasya ca_), you today are the foremost in the world of Rākṣasas in strength and valor (_śreṣṭho &#x27;si balavīryataḥ_).
 </details>
 </details>
 
@@ -3683,7 +3683,7 @@ the foremost in strength and heroism among the demon-folk."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let all beings today behold (adya bhūtāni paśyantu) your wondrous and mighty clash with me in battle (mahāvimardaṃ samare mayā saha tavādbhutam), like the combat of Śakra and Śambara (śakraśambarayor iva)!
+“Let all beings today behold (_adya bhūtāni paśyantu_) your wondrous and mighty clash with me in battle (_mahāvimardaṃ samare mayā saha tavādbhutam_), like the combat of Śakra and Śambara (_śakraśambarayor iva_)!
 </details>
 </details>
 
@@ -3732,7 +3732,7 @@ today, as they saw that fight between Indra and Shambara, the demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A peerless feat has been accomplished by you (kṛtam apratimaṃ karma) and your skill in missiles has been displayed (darśitaṃ cāstrakauśalam), and these monkey heroes of dreadful valor have been struck down by you (patitā harivīrāś ca tvayaite bhīmavikramāḥ).
+“A peerless feat has been accomplished by you (_kṛtam apratimaṃ karma_) and your skill in missiles has been displayed (_darśitaṃ cāstrakauśalam_), and these monkey heroes of dreadful valor have been struck down by you (_patitā harivīrāś ca tvayaite bhīmavikramāḥ_).
 </details>
 </details>
 
@@ -3787,7 +3787,7 @@ weaponry. You have struck down these monkey-heroes possessing a terrific prowess
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only for fear of reproach (upālambhabhayāc caiva), O hero, have you not been slain by me (nāsi vīra mayā hataḥ); exhausted as you are by the feats you have performed (kṛtakarmapariśrāntaḥ), take your rest and then behold my strength (viśrāntaḥ paśya me balam)!”
+“Only for fear of reproach (_upālambhabhayāc caiva_), O hero, have you not been slain by me (_nāsi vīra mayā hataḥ_); exhausted as you are by the feats you have performed (_kṛtakarmapariśrāntaḥ_), take your rest and then behold my strength (_viśrāntaḥ paśya me balam_)!”
 </details>
 </details>
 
@@ -3839,7 +3839,7 @@ kill you, with a fear of public censure. Identify my strength, after taking some
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored by those words of Sugrīva that were mingled with disdain (tena sugrīvavākyena sāvamānena mānitaḥ), his fiery energy flared up (tejas tasyābhyavardhata) like that of a fire fed with clarified butter (agner ājyahutasyeva).
+Honored by those words of Sugrīva that were mingled with disdain (_tena sugrīvavākyena sāvamānena mānitaḥ_), his fiery energy flared up (_tejas tasyābhyavardhata_) like that of a fire fed with clarified butter (_agner ājyahutasyeva_).
 </details>
 </details>
 
@@ -3891,9 +3891,9 @@ an oblation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**81:** Thereupon Kumbha seized Sugrīva with both arms (kumbhas tu sugrīvaṃ bāhubhyāṃ jagṛhe tadā); and breathing hard again and again (niḥśvasantau muhur muhuḥ) like two elephants of unabated ichor (gajāv ivātītamadau),
+**81:** Thereupon Kumbha seized Sugrīva with both arms (_kumbhas tu sugrīvaṃ bāhubhyāṃ jagṛhe tadā_); and breathing hard again and again (_niḥśvasantau muhur muhuḥ_) like two elephants of unabated ichor (_gajāv ivātītamadau_),
 
-**82:** locked limb to limb (anyonyagātragrathitau) and grinding against each other (gharṣantāv itaretaram), emitting smoke-wreathed flames from their mouths (sadhūmāṃ mukhato jvālāṃ visṛjantau) from sheer exhaustion (pariśramāt),
+**82:** locked limb to limb (_anyonyagātragrathitau_) and grinding against each other (_gharṣantāv itaretaram_), emitting smoke-wreathed flames from their mouths (_sadhūmāṃ mukhato jvālāṃ visṛjantau_) from sheer exhaustion (_pariśramāt_),
 </details>
 </details>
 
@@ -3948,7 +3948,7 @@ their fatigue.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[they wrestled]; and by the stamping of their feet (tayoḥ pādābhighātāc ca) the earth sank down (nimagnā cābhavan mahī), and the abode of Varuṇa was churned up with whirling billows (vyāghūrṇitataraṅgaś ca cukṣubhe varuṇālayaḥ).
+[they wrestled]; and by the stamping of their feet (_tayoḥ pādābhighātāc ca_) the earth sank down (_nimagnā cābhavan mahī_), and the abode of Varuṇa was churned up with whirling billows (_vyāghūrṇitataraṅgaś ca cukṣubhe varuṇālayaḥ_).
 </details>
 </details>
 
@@ -3994,7 +3994,7 @@ about, the ocean became turbulent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Sugrīva lifted Kumbha up (tataḥ kumbhaṃ samutkṣipya) and hurled him with speed into the salt sea (sugrīvo lavaṇāmbhasi pātayāmāsa vegena), showing him the bottom of the ocean (darśayann udadhes talam).
+Then Sugrīva lifted Kumbha up (_tataḥ kumbhaṃ samutkṣipya_) and hurled him with speed into the salt sea (_sugrīvo lavaṇāmbhasi pātayāmāsa vegena_), showing him the bottom of the ocean (_darśayann udadhes talam_).
 </details>
 </details>
 
@@ -4054,7 +4054,7 @@ the bottom of the sea.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, by the impact of Kumbha's fall (tataḥ kumbhanipātena), a mass of water rose up (jalarāśiḥ samutthitaḥ) resembling Mount Vindhya or Mandara (vindhyamandarasaṃkāśaḥ) and spread on every side (visasarpa samantataḥ).
+Then, by the impact of Kumbha&#x27;s fall (_tataḥ kumbhanipātena_), a mass of water rose up (_jalarāśiḥ samutthitaḥ_) resembling Mount Vindhya or Mandara (_vindhyamandarasaṃkāśaḥ_) and spread on every side (_visasarpa samantataḥ_).
 </details>
 </details>
 
@@ -4100,7 +4100,7 @@ that of Mount Vindhya, diffused on all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Kumbha sprang up [from the sea] (tataḥ kumbhaḥ samutpatya), rushed upon Sugrīva (sugrīvam abhipātya ca), and in wrath struck him upon the chest (ājaghānorasi kruddhaḥ) with his thunderbolt-like fist (vajrakalpena muṣṭinā).
+Thereupon Kumbha sprang up [from the sea] (_tataḥ kumbhaḥ samutpatya_), rushed upon Sugrīva (_sugrīvam abhipātya ca_), and in wrath struck him upon the chest (_ājaghānorasi kruddhaḥ_) with his thunderbolt-like fist (_vajrakalpena muṣṭinā_).
 </details>
 </details>
 
@@ -4155,7 +4155,7 @@ chest with his thunderbolt-like fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His skin split open (tasya varma ca pusphoṭa) and blood welled forth (saṃjajñe cāpi śoṇitam); yet that fist of mighty speed was checked against the cage of his bones (tasya muṣṭir mahāvegaḥ pratijaghne 'sthimaṇḍale).
+His skin split open (_tasya varma ca pusphoṭa_) and blood welled forth (_saṃjajñe cāpi śoṇitam_); yet that fist of mighty speed was checked against the cage of his bones (_tasya muṣṭir mahāvegaḥ pratijaghne &#x27;sthimaṇḍale_).
 </details>
 </details>
 
@@ -4210,7 +4210,7 @@ His cage of bones gave a counter-strike to that awfully forceful fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the force of that blow (tasya vegena), a great and blazing flash of light (tejaḥ prajvalitaṃ mahat) sprang forth there, like the flame born from the collision of the thunderbolt upon Mount Meru (vajraniṣpeṣasaṃjātā jvālā meror yathā gireḥ).
+By the force of that blow (_tasya vegena_), a great and blazing flash of light (_tejaḥ prajvalitaṃ mahat_) sprang forth there, like the flame born from the collision of the thunderbolt upon Mount Meru (_vajraniṣpeṣasaṃjātā jvālā meror yathā gireḥ_).
 </details>
 </details>
 
@@ -4268,9 +4268,9 @@ that bursts up on Mount Meru, was born out of a stroke of lightning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**89:** Struck there by him (sa tatrābhihatas tena), Sugrīva, that bull among Vānaras of mighty strength (sugrīvo vānararṣabhaḥ mahābalaḥ), clenched his own fist like a thunderbolt (muṣṭiṃ saṃvartayāmāsa vajrakalpam).
+**89:** Struck there by him (_sa tatrābhihatas tena_), Sugrīva, that bull among Vānaras of mighty strength (_sugrīvo vānararṣabhaḥ mahābalaḥ_), clenched his own fist like a thunderbolt (_muṣṭiṃ saṃvartayāmāsa vajrakalpam_).
 
-**90:** That valorous king brought down upon Kumbha's chest (pātayāmāsa kumbhasyorasi vīryavān) his fist, which possessed the radiance of the solar orb blazing with a thousand rays (arciḥsahasravikacaravimaṇḍalavarcasam).
+**90:** That valorous king brought down upon Kumbha&#x27;s chest (_pātayāmāsa kumbhasyorasi vīryavān_) his fist, which possessed the radiance of the solar orb blazing with a thousand rays (_arciḥsahasravikacaravimaṇḍalavarcasam_).
 </details>
 </details>
 
@@ -4337,7 +4337,7 @@ encircled by a thousand rays, on the breast of Kumbha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reeling and grievously agonized by that blow (sa tu tena prahāreṇa vihvalo bhṛśapīḍitaḥ), Kumbha then fell down like a fire whose flames have died out (nipapāta tadā kumbho gatārcir iva pāvakaḥ).
+Reeling and grievously agonized by that blow (_sa tu tena prahāreṇa vihvalo bhṛśapīḍitaḥ_), Kumbha then fell down like a fire whose flames have died out (_nipapāta tadā kumbho gatārcir iva pāvakaḥ_).
 </details>
 </details>
 
@@ -4383,7 +4383,7 @@ fire whose flame has extinguished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by that fist (muṣṭinābhihatas tena), the Rākṣasa swiftly fell down (nipapātāśu rākṣasaḥ), like the red-limbed planet Mars with blazing rays falling by chance from the sky (lohitāṅga ivākāśād dīptaraśmir yadṛcchayā).
+Struck by that fist (_muṣṭinābhihatas tena_), the Rākṣasa swiftly fell down (_nipapātāśu rākṣasaḥ_), like the red-limbed planet Mars with blazing rays falling by chance from the sky (_lohitāṅga ivākāśād dīptaraśmir yadṛcchayā_).
 </details>
 </details>
 
@@ -4430,7 +4430,7 @@ of splendid rays, would drop down from the sky accidentally.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Kumbha fell with his chest stove in by that fist (kumbhasya patato rūpaṃ bhagnasyorasi muṣṭinā), his form shone like the form of the lord of rays when overpowered by Rudra (babhau rudrābhipannasya yathā rūpaṃ gavāṃ pateḥ).
+As Kumbha fell with his chest stove in by that fist (_kumbhasya patato rūpaṃ bhagnasyorasi muṣṭinā_), his form shone like the form of the lord of rays when overpowered by Rudra (_babhau rudrābhipannasya yathā rūpaṃ gavāṃ pateḥ_).
 </details>
 </details>
 
@@ -4494,6 +4494,6 @@ demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When he was slain in battle by that bull among Vānaras of dreadful valor (tasmin hate bhīmaparākrameṇa plavaṃgamānām ṛṣabheṇa yuddhe), the earth with its mountains and forests trembled (mahī saśailā savanā cacāla), and exceeding terror entered into the Rākṣasas (bhayaṃ ca rakṣāṃsy adhikaṃ viveśa).
+When he was slain in battle by that bull among Vānaras of dreadful valor (_tasmin hate bhīmaparākrameṇa plavaṃgamānām ṛṣabheṇa yuddhe_), the earth with its mountains and forests trembled (_mahī saśailā savanā cacāla_), and exceeding terror entered into the Rākṣasas (_bhayaṃ ca rakṣāṃsy adhikaṃ viveśa_).
 </details>
 </details>

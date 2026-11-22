@@ -81,11 +81,11 @@ Having reached enemy territory before Laṅkā, Rāma, Sugrīva, Lakṣmaṇa, V
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** The two kings of men and of vānaras [Rāma and Sugrīva], that monkey who is the son of the Wind-god [Hanumān], Jāmbavān the king of bears, and the rākṣasa Vibhīṣaṇa—
+**1:** The two kings of men and of _vānaras_ [Rāma and Sugrīva], that monkey who is the son of the Wind-god [Hanumān], Jāmbavān the king of bears, and the _rākṣasa_ Vibhīṣaṇa—
 
-**2:** —Aṅgada the son of Vāli, the son of Sumitrā [Lakṣmaṇa], the monkey Śarabha, Suṣeṇa together with his kinsmen (sahadāyādaḥ), as well as Mainda and Dvivida—
+**2:** —Aṅgada the son of Vāli, the son of Sumitrā [Lakṣmaṇa], the monkey Śarabha, Suṣeṇa together with his kinsmen (_sahadāyādaḥ_), as well as Mainda and Dvivida—
 
-**3:** —and Gaja, Gavākṣa, Kumuda, Nala, and Panasa, having reached the enemy's territory (amitraviṣayam), assembled and deliberated (samarthayan):
+**3:** —and Gaja, Gavākṣa, Kumuda, Nala, and Panasa, having reached the enemy&#x27;s territory (_amitraviṣayam_), assembled and deliberated (_samarthayan_):
 </details>
 </details>
 
@@ -141,7 +141,7 @@ demons together, or the uragas (the serpent-demons) and Gandharvas (celestial mu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yonder is seen that city of Laṅkā ruled by Rāvaṇa, unconquerable (durjayā) even by the immortals together with asuras, uragas, and gandharvas!
+“Yonder is seen that city of Laṅkā ruled by Rāvaṇa, unconquerable (_durjayā_) even by the immortals together with _asuras_, _uragas_, and _gandharvas_!
 </details>
 </details>
 
@@ -193,7 +193,7 @@ for the success of our expedition."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Keeping the accomplishment of our purpose (kāryasiddhim) in the forefront, take counsel for a decisive plan regarding that city where Rāvaṇa, the lord of rākṣasas, ever abides.”
+Keeping the accomplishment of our purpose (_kāryasiddhim_) in the forefront, take counsel for a decisive plan regarding that city where Rāvaṇa, the lord of _rākṣasas_, ever abides.”
 </details>
 </details>
 
@@ -245,7 +245,7 @@ following meaningful and polished words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, while they were speaking thus, Vibhīṣaṇa, the younger brother of Rāvaṇa, spoke a speech couched in refined diction (agrāmyapadavat) and rich in meaning (puṣkalārtham):
+Then, while they were speaking thus, Vibhīṣaṇa, the younger brother of Rāvaṇa, spoke a speech couched in refined diction (_agrāmyapadavat_) and rich in meaning (_puṣkalārtham_):
 </details>
 </details>
 
@@ -357,7 +357,7 @@ the measures taken by Ravana closely."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having all assumed the form of birds (bhūtvā śakunayaḥ), they entered the enemy's host, and having beheld the defensive arrangement (vidhānam) that has been put in place, they have presented themselves here.
+Having all assumed the form of birds (_bhūtvā śakunayaḥ_), they entered the enemy&#x27;s host, and having beheld the defensive arrangement (_vidhānam_) that has been put in place, they have presented themselves here.
 </details>
 </details>
 
@@ -412,7 +412,7 @@ made by tha evil-minded Ravana, hear me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hear from me, O Rāma, as I recount in accordance with the exact truth (yāthātathyena) all the defensive deployment of the wicked-souled Rāvaṇa as they have reported it:
+Hear from me, O Rāma, as I recount in accordance with the exact truth (_yāthātathyena_) all the defensive deployment of the wicked-souled Rāvaṇa as they have reported it:
 </details>
 </details>
 
@@ -464,7 +464,7 @@ Mahodara of mighty prowess are at the southern gate."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching the eastern gate (pūrvaṃ dvāram), Prahasta stands stationed with his force, and at the southern gate stand the two heroes of mighty valor, Mahāpārśva and Mahodara.
+Reaching the eastern gate (_pūrvaṃ dvāram_), Prahasta stands stationed with his force, and at the southern gate stand the two heroes of mighty valor, Mahāpārśva and Mahodara.
 </details>
 </details>
 
@@ -526,7 +526,7 @@ various kinds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by numerous rākṣasas armed with paṭṭiśa spears, swords, and bows, and bearing pikes and maces in their hands (śūlamudgarapāṇibhiḥ), Indrajit [guards] the western gate—
+Surrounded by numerous _rākṣasas_ armed with _paṭṭiśa_ spears, swords, and bows, and bearing pikes and maces in their hands (_śūlamudgarapāṇibhiḥ_), Indrajit [guards] the western gate—
 </details>
 </details>
 
@@ -590,9 +590,9 @@ the northern gate, along with several thousands of demons holding lances in thei
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** —the son of Rāvaṇa, encircled by valiant warriors wielding manifold weapons (nānāpraharaṇaiḥ) and by many thousands of rākṣasas with weapons in hand.
+**12:** —the son of Rāvaṇa, encircled by valiant warriors wielding manifold weapons (_nānāpraharaṇaiḥ_) and by many thousands of _rākṣasas_ with weapons in hand.
 
-**13:** Accompanied by rākṣasas skilled in counsel (mantravit), Rāvaṇa himself, though deeply alarmed (paramasaṃvignaḥ), stands ready and occupies the northern gate of the city.
+**13:** Accompanied by _rākṣasas_ skilled in counsel (_mantravit_), Rāvaṇa himself, though deeply alarmed (_paramasaṃvignaḥ_), stands ready and occupies the northern gate of the city.
 </details>
 </details>
 
@@ -647,7 +647,7 @@ other demons, occupies the center of the fort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Virūpākṣa, however, together with rākṣasas and a vast force armed with pikes, swords, and bows (śūlakhaḍgadhanuṣmatā), occupies the central garrison (madhyamaṃ gulmam).
+Virūpākṣa, however, together with _rākṣasas_ and a vast force armed with pikes, swords, and bows (_śūlakhaḍgadhanuṣmatā_), occupies the central garrison (_madhyamaṃ gulmam_).
 </details>
 </details>
 
@@ -702,7 +702,7 @@ this manner and immediately returned here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having observed those garrisons (gulmān) of such description in Laṅkā, all those ministers of mine have swiftly returned here again.
+Having observed those garrisons (_gulmān_) of such description in Laṅkā, all those ministers of mine have swiftly returned here again.
 </details>
 </details>
 
@@ -757,7 +757,7 @@ Panasa, all having reached the enemy's territory, assembled to take counsel toge
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[There are] ten thousand elephants (gajānāṃ daśasāhasram), ten thousand chariots (rathānām ayutam), twenty thousand horses (hayānām ayute dve), and over ten million (sāgrakoṭiḥ) rākṣasas.
+[There are] ten thousand elephants (_gajānāṃ daśasāhasram_), ten thousand chariots (_rathānām ayutam_), twenty thousand horses (_hayānām ayute dve_), and over ten million (_sāgrakoṭiḥ_) _rākṣasas_.
 </details>
 </details>
 
@@ -807,7 +807,7 @@ endeavouring to kill someone in battle have ever been their sovereign's favourit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Valiant, mighty, and relentless aggressors (ātatāyinaḥ) in battle, these night-roamers are ever dear (iṣṭāḥ) to the king of the rākṣasas.
+Valiant, mighty, and relentless aggressors (_ātatāyinaḥ_) in battle, these night-roamers are ever dear (_iṣṭāḥ_) to the king of the _rākṣasas_.
 </details>
 </details>
 
@@ -861,7 +861,7 @@ demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here, O lord of men, a retinue (parīvāraḥ) of a thousand thousands (sahasrāṇāṃ sahasram) attends upon each single rākṣasa [commander] for the purpose of battle.
+Here, O lord of men, a retinue (_parīvāraḥ_) of a thousand thousands (_sahasrāṇāṃ sahasram_) attends upon each single _rākṣasa_ [commander] for the purpose of battle.
 </details>
 </details>
 
@@ -925,7 +925,7 @@ aforesaid news pertaining to Lanka, thus informed by his counsellors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus reported this intelligence (pravṛttim) in Laṅkā as declared by his ministers, mighty-armed Vibhīṣaṇa pointed out those rākṣasas [his four counselors]—
+Having thus reported this intelligence (_pravṛttim_) in Laṅkā as declared by his ministers, mighty-armed Vibhīṣaṇa pointed out those _rākṣasas_ [his four counselors]—
 </details>
 </details>
 
@@ -980,7 +980,7 @@ lotus-eyed one, further with the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and through his ministers (sacivaiḥ) communicated everything in Laṅkā to Rāma; then Rāvaṇa's illustrious younger brother, desirous of doing what was pleasing to Rāma (rāmapriyacikīrṣayā), spoke this further word to lotus-eyed Rāma:
+—and through his ministers (_sacivaiḥ_) communicated everything in Laṅkā to Rāma; then Rāvaṇa&#x27;s illustrious younger brother, desirous of doing what was pleasing to Rāma (_rāmapriyacikīrṣayā_), spoke this further word to lotus-eyed Rāma:
 </details>
 </details>
 
@@ -1047,9 +1047,9 @@ in pride."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “When Rāvaṇa fought against Kubera (kuberaṃ pratiyuddhyati), O Rāma—
+**21:** “When Rāvaṇa fought against Kubera (_kuberaṃ pratiyuddhyati_), O Rāma—
 
-**22:** —sixty hundred-thousands (ṣaṣṭiḥ śatasahasrāṇi) of rākṣasas marched forth at that time, who in prowess, valor, fiery energy, loftiness of spirit (sattvagauravāt), and pride were the equals of the wicked-souled Rāvaṇa here!
+**22:** —sixty hundred-thousands (_ṣaṣṭiḥ śatasahasrāṇi_) of _rākṣasas_ marched forth at that time, who in prowess, valor, fiery energy, loftiness of spirit (_sattvagauravāt_), and pride were the equals of the wicked-souled Rāvaṇa here!
 </details>
 </details>
 
@@ -1103,7 +1103,7 @@ by your valour."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In this matter you should not feel indignation (manyuḥ); I seek to rouse your martial wrath (kopaye tvām), not to frighten you (na bhīṣaye), for by your valor you are capable of subduing even the gods!
+In this matter you should not feel indignation (_manyuḥ_); I seek to rouse your martial wrath (_kopaye tvām_), not to frighten you (_na bhīṣaye_), for by your valor you are capable of subduing even the gods!
 </details>
 </details>
 
@@ -1159,7 +1159,7 @@ this great army of monkeys, composed of four divisions, which surround you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, arraying (vyūhya) this vānara army, you shall crush (nirmathiṣyasi) Rāvaṇa, though he is surrounded by a vast fourfold host (caturaṅgeṇa balena)!”
+Therefore, arraying (_vyūhya_) this _vānara_ army, you shall crush (_nirmathiṣyasi_) Rāvaṇa, though he is surrounded by a vast fourfold host (_caturaṅgeṇa balena_)!”
 </details>
 </details>
 
@@ -1219,7 +1219,7 @@ adversaries.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāvaṇa's younger brother spoke thus, Rāghava uttered this speech for the purpose of counteracting (pratighātārtham) the enemies:
+When Rāvaṇa&#x27;s younger brother spoke thus, Rāghava uttered this speech for the purpose of counteracting (_pratighātārtham_) the enemies:
 </details>
 </details>
 
@@ -1274,7 +1274,7 @@ by many monkeys, should attack Prahasta."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the eastern gate of Laṅkā, let Nīla, the bull among vānaras, surrounded by many vānaras, be the adversary (pratiyoddhā) matching Prahasta!
+“At the eastern gate of Laṅkā, let Nīla, the bull among _vānaras_, surrounded by many _vānaras_, be the adversary (_pratiyoddhā_) matching Prahasta!
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ multitude of monkeys, enter the City through the western gate."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushing (niṣpīḍya) the western gate, let Hanumān the son of the Wind-god, of immeasurable spirit (aprameyātmā), force an entry surrounded by numerous monkeys!
+Crushing (_niṣpīḍya_) the western gate, let Hanumān the son of the Wind-god, of immeasurable spirit (_aprameyātmā_), force an entry surrounded by numerous monkeys!
 </details>
 </details>
 
@@ -1470,11 +1470,11 @@ enter the northern gate where Ravana is stationed along with his army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** As for that base wretch (kṣudraḥ), puffed up with the strength of his boon and fond of inflicting outrage (viprakārapriyaḥ) upon hosts of daityas and dānavas and upon high-souled sages—
+**29:** As for that base wretch (_kṣudraḥ_), puffed up with the strength of his boon and fond of inflicting outrage (_viprakārapriyaḥ_) upon hosts of _daityas_ and _dānavas_ and upon high-souled sages—
 
-**30:** —I myself am resolved (dhṛtaḥ) upon the slaying of that lord of rākṣasas, who roams through all the worlds tormenting creatures!
+**30:** —I myself am resolved (_dhṛtaḥ_) upon the slaying of that lord of _rākṣasas_, who roams through all the worlds tormenting creatures!
 
-**31:** Crushing the northern gate of the city together with Saumitri [Lakṣmaṇa], I shall force an entry (abhipravekṣyāmi) where Rāvaṇa stands with his host!
+**31:** Crushing the northern gate of the city together with Saumitri [Lakṣmaṇa], I shall force an entry (_abhipravekṣyāmi_) where Rāvaṇa stands with his host!
 </details>
 </details>
 
@@ -1527,7 +1527,7 @@ army."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let the mighty lord of vānaras [Sugrīva], the valiant king of bears [Jāmbavān], and the younger brother of the lord of rākṣasas [Vibhīṣaṇa] be stationed in the central division (gulme madhyame)!
+Let the mighty lord of _vānaras_ [Sugrīva], the valiant king of bears [Jāmbavān], and the younger brother of the lord of _rākṣasas_ [Vibhīṣaṇa] be stationed in the central division (_gulme madhyame_)!
 </details>
 </details>
 
@@ -1580,7 +1580,7 @@ this monkey-shape should serve as a sign of recognition among us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Moreover, human form (mānuṣaṃ rūpam) must not be assumed by the monkeys in battle; let this be our recognition-sign (saṃjñā) within the vānara host during this war!
+Moreover, human form (_mānuṣaṃ rūpam_) must not be assumed by the monkeys in battle; let this be our recognition-sign (_saṃjñā_) within the _vānara_ host during this war!
 </details>
 </details>
 
@@ -1619,7 +1619,7 @@ Declaring that only seven allies—himself, Lakṣmaṇa, and Vibhīṣaṇa wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The vānaras [in their own simian form] alone shall be our distinguishing mark (cihnam) among our own host; we seven (sapta) alone, however, shall fight the foes in human form (mānuṣeṇaiva)—
+The _vānaras_ [in their own simian form] alone shall be our distinguishing mark (_cihnam_) among our own host; we seven (_sapta_) alone, however, shall fight the foes in human form (_mānuṣeṇaiva_)—
 </details>
 </details>
 
@@ -1673,7 +1673,7 @@ valour, my friend Vibhishana and his four companions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—I myself together with my brother Lakṣmaṇa of mighty energy, and this friend of mine Vibhīṣaṇa as the fifth with his own person (ātmanā pañcamaḥ) [along with his four ministers].”
+—I myself together with my brother Lakṣmaṇa of mighty energy, and this friend of mine Vibhīṣaṇa as the fifth with his own person (_ātmanā pañcamaḥ_) [along with his four ministers].”
 </details>
 </details>
 
@@ -1706,7 +1706,7 @@ valour, my friend Vibhishana and his four companions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Vibhīṣaṇa for the accomplishment of the enterprise (kṛtyasiddhyartham), that wise lord Rāma, beholding the exceedingly lovely slope of Mount Suvela, set his mind upon ascending Suvela (suvelārohaṇe).
+Having spoken thus to Vibhīṣaṇa for the accomplishment of the enterprise (_kṛtyasiddhyartham_), that wise lord Rāma, beholding the exceedingly lovely slope of Mount Suvela, set his mind upon ascending Suvela (_suvelārohaṇe_).
 </details>
 </details>
 
@@ -1769,7 +1769,7 @@ of a wise leader, decided to stay on Mount Suvela, after observing its charming 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then high-souled Rāma, covering the whole earth with his vast army and resolved upon slaying the foe (arivadhe), advanced toward Laṅkā with a joyful aspect.
+Then high-souled Rāma, covering the whole earth with his vast army and resolved upon slaying the foe (_arivadhe_), advanced toward Laṅkā with a joyful aspect.
 </details>
 </details>
 

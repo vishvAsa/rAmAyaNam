@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dispatched the entire host (prasthāpya ca balaṃ sarvam) and tarried a single month (māsa-mātroṣitaḥ), Śatrughna then set out alone and swiftly upon the road (eka evāśu ... pathi ... jagāma tvaritaṃ tadā).
+Having dispatched the entire host (_prasthāpya ca balaṃ sarvam_) and tarried a single month (_māsa-mātroṣitaḥ_), Śatrughna then set out alone and swiftly upon the road (_eka evāśu ... pathi ... jagāma tvaritaṃ tadā_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed two nights along the way (dvirātram antare ... uṣya), the heroic delight of the Raghus (śūraḥ ... rāghava-nandanaḥ) arrived at the sacred hermitage of Vālmīki (vālmīker āśramaṃ puṇyam), an excellent resting place (vāsam uttamam).
+Having passed two nights along the way (_dvirātram antare ... uṣya_), the heroic delight of the Raghus (_śūraḥ ... rāghava-nandanaḥ_) arrived at the sacred hermitage of Vālmīki (_vālmīker āśramaṃ puṇyam_), an excellent resting place (_vāsam uttamam_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in salutation to the great-souled Vālmīki (abhivādya mahātmānaṃ vālmīkim), foremost of sages (muni-sattamam), and joining his palms in reverence (kṛtāñjalir atho bhūtvā), he spoke these words:
+Having bowed in salutation to the great-souled Vālmīki (_abhivādya mahātmānaṃ vālmīkim_), foremost of sages (_muni-sattamam_), and joining his palms in reverence (_kṛtāñjalir atho bhūtvā_), he spoke these words:
 </details>
 </details>
 
@@ -153,7 +153,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Blessed One, I desire to stay the night (bhagavan vastum icchāmi), having come hither on an errand of my elder brother (guroḥ kṛtyād ihāgataḥ); tomorrow at dawn I shall journey toward the western quarter, the realm of Varuṇa (pratīcīṃ vāruṇīṃ diśam).”
+“O Blessed One, I desire to stay the night (_bhagavan vastum icchāmi_), having come hither on an errand of my elder brother (_guroḥ kṛtyād ihāgataḥ_); tomorrow at dawn I shall journey toward the western quarter, the realm of Varuṇa (_pratīcīṃ vāruṇīṃ diśam_).”
 </details>
 </details>
 
@@ -187,7 +187,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Śatrughna (śatrughnasya vacaḥ śrutvā), that bull among sages smiled (prahasya muni-puṅgavaḥ) and replied to the great-souled prince: “Welcome to you, O greatly famed one (svāgataṃ te mahāyaśaḥ)!
+Hearing the words of Śatrughna (_śatrughnasya vacaḥ śrutvā_), that bull among sages smiled (_prahasya muni-puṅgavaḥ_) and replied to the great-souled prince: “Welcome to you, O greatly famed one (_svāgataṃ te mahāyaśaḥ_)!
 </details>
 </details>
 
@@ -221,7 +221,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This hermitage belongs to the lineage of the Raghus themselves (svam āśramam idaṃ saumya rāghavāṇāṃ kulasya hi), O gentle one; accept from me without hesitation (nirviśaṅkaḥ pratīccha me) a seat, water for the feet, and guest-offering (āsanaṃ pādyam arghyaṃ ca).”
+“This hermitage belongs to the lineage of the Raghus themselves (_svam āśramam idaṃ saumya rāghavāṇāṃ kulasya hi_), O gentle one; accept from me without hesitation (_nirviśaṅkaḥ pratīccha me_) a seat, water for the feet, and guest-offering (_āsanaṃ pādyam arghyaṃ ca_).”
 </details>
 </details>
 
@@ -263,7 +263,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accepting that hospitable worship (pratigṛhya tadā pūjām) and the meal of fruits and roots (phala-mūlaṃ ca bhojanam), Kākutstha partook of it (bhakṣayāmāsa) and attained supreme contentment (tṛptiṃ ca paramāṃ gataḥ).
+Accepting that hospitable worship (_pratigṛhya tadā pūjām_) and the meal of fruits and roots (_phala-mūlaṃ ca bhojanam_), Kākutstha partook of it (_bhakṣayāmāsa_) and attained supreme contentment (_tṛptiṃ ca paramāṃ gataḥ_).
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having eaten the fruits and roots (sa bhuktvā phala-mūlaṃ ca), he spoke to that great sage: “Whose is this sacrificial grandeur (iyaṃ yajña-vibhūtis te kasya) here close by your hermitage (āśrama-samīpataḥ)?”
+Having eaten the fruits and roots (_sa bhuktvā phala-mūlaṃ ca_), he spoke to that great sage: “Whose is this sacrificial grandeur (_iyaṃ yajña-vibhūtis te kasya_) here close by your hermitage (_āśrama-samīpataḥ_)?”
 </details>
 </details>
 
@@ -331,7 +331,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his (tat tasya bhāṣitaṃ śrutvā), Vālmīki spoke in reply: “Listen, O Śatrughna, to whom this sacred precinct belonged of old (yasyedaṃ babhūvāyatanaṃ purā)!
+Hearing those words of his (_tat tasya bhāṣitaṃ śrutvā_), Vālmīki spoke in reply: “Listen, O Śatrughna, to whom this sacred precinct belonged of old (_yasyedaṃ babhūvāyatanaṃ purā_)!
 </details>
 </details>
 
@@ -365,7 +365,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your forefather was King Saudāsa (yuṣmākaṃ pūrvako rājā saudāsaḥ); of that monarch there was a son named Vīrasaha (putro vīrasaho nāma), mighty and exceedingly righteous (vīryavān atidhārmikaḥ).
+“Your forefather was King Saudāsa (_yuṣmākaṃ pūrvako rājā saudāsaḥ_); of that monarch there was a son named Vīrasaha (_putro vīrasaho nāma_), mighty and exceedingly righteous (_vīryavān atidhārmikaḥ_).
 </details>
 </details>
 
@@ -399,7 +399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While yet a youth (sa bāla eva), that Saudāsa set out upon a hunt (mṛgayām upacakrame); and the hero beheld a pair of rākṣasas roaming relentlessly (cañcūryamāṇaṃ dadṛśe ... rākṣasa-dvayam).
+“While yet a youth (_sa bāla eva_), that Saudāsa set out upon a hunt (_mṛgayām upacakrame_); and the hero beheld a pair of rākṣasas roaming relentlessly (_cañcūryamāṇaṃ dadṛśe ... rākṣasa-dvayam_).
 </details>
 </details>
 
@@ -434,7 +434,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the dreadful guise of tigers (śārdūla-rūpiṇau ghorau), devouring deer by the many thousands (mṛgān bahu-sahasraśaḥ bhakṣamāṇau), insatiable (asantuṣṭau), they never reached repletion (paryāptiṃ naiva jagmatuḥ).”
+“In the dreadful guise of tigers (_śārdūla-rūpiṇau ghorau_), devouring deer by the many thousands (_mṛgān bahu-sahasraśaḥ bhakṣamāṇau_), insatiable (_asantuṣṭau_), they never reached repletion (_paryāptiṃ naiva jagmatuḥ_).”
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those two rākṣasas (sa tu tau rākṣasau dṛṣṭvā) and the forest emptied of deer (nirmṛgaṃ ca vanaṃ kṛtam), seized with great wrath (krodhena mahatāviṣṭaḥ), he slew one with a mighty arrow (jaghānaikaṃ maheṣuṇā).
+Seeing those two rākṣasas (_sa tu tau rākṣasau dṛṣṭvā_) and the forest emptied of deer (_nirmṛgaṃ ca vanaṃ kṛtam_), seized with great wrath (_krodhena mahatāviṣṭaḥ_), he slew one with a mighty arrow (_jaghānaikaṃ maheṣuṇā_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having struck down that one (vinipātya tam ekam tu), Saudāsa, bull among men, freed from feverish distress and anger (vijvaro vigatāmarṣaḥ), gazed upon the slain rākṣasa (hataṃ rakṣo hy udaikṣata).
+Having struck down that one (_vinipātya tam ekam tu_), Saudāsa, bull among men, freed from feverish distress and anger (_vijvaro vigatāmarṣaḥ_), gazed upon the slain rākṣasa (_hataṃ rakṣo hy udaikṣata_).
 </details>
 </details>
 
@@ -544,7 +544,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him gazing upon the companion of that [slain] rākṣasa (nirīkṣamāṇaṃ taṃ dṛṣṭvā sahāyaṃ tasya rakṣasaḥ), [the surviving demon] fell into terrible anguish (santāpam akarot ghoram) and spoke thus to Saudāsa:
+Seeing him gazing upon the companion of that [slain] rākṣasa (_nirīkṣamāṇaṃ taṃ dṛṣṭvā sahāyaṃ tasya rakṣasaḥ_), [the surviving demon] fell into terrible anguish (_santāpam akarot ghoram_) and spoke thus to Saudāsa:
 </details>
 </details>
 
@@ -578,7 +578,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you have slain my guiltless companion (yasmād anaparādhaṃ tvaṃ sahāyaṃ mama jaghnivān), therefore, O vilest of men (tasmāt tavāpi pāpiṣṭha), I shall surely render you requital (pradāsyāmi pratikriyām)!”
+“Since you have slain my guiltless companion (_yasmād anaparādhaṃ tvaṃ sahāyaṃ mama jaghnivān_), therefore, O vilest of men (_tasmāt tavāpi pāpiṣṭha_), I shall surely render you requital (_pradāsyāmi pratikriyām_)!”
 </details>
 </details>
 
@@ -612,7 +612,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that rākṣasa vanished on the very spot (evam uktvā tu tad rakṣas tatraivāntaradhīyata); and in the turn of time (kāla-paryāya-yogena), Mitrasaha became king (rājā mitrasaho ’bhavat).
+Having spoken thus, that rākṣasa vanished on the very spot (_evam uktvā tu tad rakṣas tatraivāntaradhīyata_); and in the turn of time (_kāla-paryāya-yogena_), Mitrasaha became king (_rājā mitrasaho ’bhavat_).
 </details>
 </details>
 
@@ -646,7 +646,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king too celebrated a sacrifice (rājāpi yajate yajñam) close by this hermitage (asyāśrama-samīpataḥ)—a great Aśvamedha sacrifice (aśvamedhaṃ mahāyajñam), over which Vasiṣṭha presided (taṃ vasiṣṭho ’bhyapālayat).
+The king too celebrated a sacrifice (_rājāpi yajate yajñam_) close by this hermitage (_asyāśrama-samīpataḥ_)—a great Aśvamedha sacrifice (_aśvamedhaṃ mahāyajñam_), over which Vasiṣṭha presided (_taṃ vasiṣṭho ’bhyapālayat_).
 </details>
 </details>
 
@@ -688,7 +688,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There a mighty sacrifice took place, spanning a myriad of many years (tatra yajño mahān āsīd bahu-varṣa-gaṇāyutaḥ); flourishing with supreme splendor (samṛddhaḥ parayā lakṣmyā), it became like a sacrifice of the gods (deva-yajña-samo ’bhavat).
+There a mighty sacrifice took place, spanning a myriad of many years (_tatra yajño mahān āsīd bahu-varṣa-gaṇāyutaḥ_); flourishing with supreme splendor (_samṛddhaḥ parayā lakṣmyā_), it became like a sacrifice of the gods (_deva-yajña-samo ’bhavat_).
 </details>
 </details>
 
@@ -717,7 +717,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then at the close of the sacrifice (athāvasāne yajñasya), recalling his ancient enmity (pūrva-vairam anusmaran), the rākṣasa, assuming the form of Vasiṣṭha (vasiṣṭha-rūpī), spoke thus to the king:
+Then at the close of the sacrifice (_athāvasāne yajñasya_), recalling his ancient enmity (_pūrva-vairam anusmaran_), the rākṣasa, assuming the form of Vasiṣṭha (_vasiṣṭha-rūpī_), spoke thus to the king:
 </details>
 </details>
 
@@ -746,7 +746,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The end of this sacrifice has arrived (asya yajñasya jāto ’ntaḥ); let meat-laden food (sāmiṣaṃ bhojanaṃ mama) be served to me here swiftly (dīyatām iha śīghraṃ vai)—no hesitation should be made in this matter (nātra kāryā vicāraṇā)!”
+“The end of this sacrifice has arrived (_asya yajñasya jāto ’ntaḥ_); let meat-laden food (_sāmiṣaṃ bhojanaṃ mama_) be served to me here swiftly (_dīyatām iha śīghraṃ vai_)—no hesitation should be made in this matter (_nātra kāryā vicāraṇā_)!”
 </details>
 </details>
 
@@ -775,7 +775,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words uttered by the rākṣasa in brahmin guise (rakṣasā brahma-rūpiṇā), the lord of the earth addressed one skilled in preparing dishes (bhakṣya-saṃskāra-kuśalam uvāca pṛthivīpatiḥ):
+Hearing those words uttered by the rākṣasa in brahmin guise (_rakṣasā brahma-rūpiṇā_), the lord of the earth addressed one skilled in preparing dishes (_bhakṣya-saṃskāra-kuśalam uvāca pṛthivīpatiḥ_):
 </details>
 </details>
 
@@ -809,7 +809,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Prepare quickly a savory, consecrated meal with meat (haviṣyaṃ sāmiṣaṃ svādu yathā bhavati bhojanam), in such a way that our preceptor may be thoroughly pleased (parituṣyed yathā guruḥ)!”
+“Prepare quickly a savory, consecrated meal with meat (_haviṣyaṃ sāmiṣaṃ svādu yathā bhavati bhojanam_), in such a way that our preceptor may be thoroughly pleased (_parituṣyed yathā guruḥ_)!”
 </details>
 </details>
 
@@ -843,7 +843,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the command of the lord of kings (śāsanāt pārthivendrasya), the cook became bewildered in mind (sūdaḥ sambhrānta-mānasaḥ); and that rākṣasa then again assumed the guise of a cook there (sūda-veṣam athākarot).
+At the command of the lord of kings (_śāsanāt pārthivendrasya_), the cook became bewildered in mind (_sūdaḥ sambhrānta-mānasaḥ_); and that rākṣasa then again assumed the guise of a cook there (_sūda-veṣam athākarot_).
 </details>
 </details>
 
@@ -880,7 +880,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he presented human flesh to the king (sa mānuṣam atho māṃsaṃ pārthivāya nyavedayat), saying: “Here has been brought this savory, consecrated food with meat (idaṃ svādu haviṣyaṃ ca sāmiṣaṃ cānnam āhṛtam).”
+Then he presented human flesh to the king (_sa mānuṣam atho māṃsaṃ pārthivāya nyavedayat_), saying: “Here has been brought this savory, consecrated food with meat (_idaṃ svādu haviṣyaṃ ca sāmiṣaṃ cānnam āhṛtam_).”
 </details>
 </details>
 
@@ -914,7 +914,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with his queen Madayantī (patnyā sārdham ... madayantyā), O tiger among men, the king offered to Vasiṣṭha that meat-bearing meal (sa bhojanaṃ vasiṣṭhāya ... upāharat) brought by the rākṣasa (sāmiṣaṃ rakṣasā hṛtam).
+Together with his queen Madayantī (_patnyā sārdham ... madayantyā_), O tiger among men, the king offered to Vasiṣṭha that meat-bearing meal (_sa bhojanaṃ vasiṣṭhāya ... upāharat_) brought by the rākṣasa (_sāmiṣaṃ rakṣasā hṛtam_).
 </details>
 </details>
 
@@ -948,7 +948,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing that flesh placed in the dish to be human (jñātvā tad āmiṣaṃ vipro mānuṣaṃ bhājanaṃ gatam), the brahmin, seized with great wrath (krodhena mahatāviṣṭaḥ), began to utter a curse (vyāhartum upacakrame):
+Recognizing that flesh placed in the dish to be human (_jñātvā tad āmiṣaṃ vipro mānuṣaṃ bhājanaṃ gatam_), the brahmin, seized with great wrath (_krodhena mahatāviṣṭaḥ_), began to utter a curse (_vyāhartum upacakrame_):
 </details>
 </details>
 
@@ -982,7 +982,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you desire to offer me this food, O king (yasmāt tvaṃ bhojanaṃ rājan mamaitad dātum icchasi), therefore this very food shall be your sustenance—there is no doubt (tasmād bhojanam etat te bhaviṣyati na saṃśayaḥ)!”
+“Since you desire to offer me this food, O king (_yasmāt tvaṃ bhojanaṃ rājan mamaitad dātum icchasi_), therefore this very food shall be your sustenance—there is no doubt (_tasmād bhojanam etat te bhaviṣyati na saṃśayaḥ_)!”
 </details>
 </details>
 
@@ -1016,7 +1016,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, filled with wrath, Saudāsa took water in his palm (tataḥ kruddhas tu saudāsas toyaṃ jagrāha pāṇinā) and prepared to curse Vasiṣṭha (vasiṣṭhaṃ śaptum ārebhe), but his wife restrained him (bhāryā cainam avārayat).
+Then, filled with wrath, Saudāsa took water in his palm (_tataḥ kruddhas tu saudāsas toyaṃ jagrāha pāṇinā_) and prepared to curse Vasiṣṭha (_vasiṣṭhaṃ śaptum ārebhe_), but his wife restrained him (_bhāryā cainam avārayat_).
 </details>
 </details>
 
@@ -1058,7 +1058,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king, since the blessed sage Vasiṣṭha is our lord (rājan prabhur yato ’smākaṃ vasiṣṭho bhagavān ṛṣiḥ), you are not fit to utter a counter-curse against our godlike royal priest (pratiśaptuṃ na śaktas tvaṃ devatulyaṃ purodhasam).”
+“O king, since the blessed sage Vasiṣṭha is our lord (_rājan prabhur yato ’smākaṃ vasiṣṭho bhagavān ṛṣiḥ_), you are not fit to utter a counter-curse against our godlike royal priest (_pratiśaptuṃ na śaktas tvaṃ devatulyaṃ purodhasam_).”
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the righteous-souled king relinquished that wrath-charged water endowed with fiery power (krodhamayaṃ toyaṃ tejo-bala-samanvitam vyasarjayata dharmātmā), and sprinkled his own feet with it (tataḥ pādau siṣeca ca).
+Thereupon the righteous-souled king relinquished that wrath-charged water endowed with fiery power (_krodhamayaṃ toyaṃ tejo-bala-samanvitam vyasarjayata dharmātmā_), and sprinkled his own feet with it (_tataḥ pādau siṣeca ca_).
 </details>
 </details>
 
@@ -1120,7 +1120,7 @@ Thereupon the righteous-souled king relinquished that wrath-charged water endowe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereby both feet of that king became mottled dark (tenāsya rājñas tau pādau tadā kalmāṣatāṃ gatau); from that time forth that greatly famed king Saudāsa (tadā-prabhṛti rājāsau saudāsaḥ sumahāyaśāḥ) became Kalmāṣapāda and was renowned by that very name (kalmāṣapādaḥ saṃvṛttaḥ khyātaś caiva tathā nṛpaḥ).
+Thereby both feet of that king became mottled dark (_tenāsya rājñas tau pādau tadā kalmāṣatāṃ gatau_); from that time forth that greatly famed king Saudāsa (_tadā-prabhṛti rājāsau saudāsaḥ sumahāyaśāḥ_) became Kalmāṣapāda and was renowned by that very name (_kalmāṣapādaḥ saṃvṛttaḥ khyātaś caiva tathā nṛpaḥ_).
 </details>
 </details>
 
@@ -1146,7 +1146,7 @@ Thereby both feet of that king became mottled dark (tenāsya rājñas tau pādau
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That king, together with his queen, bowing down again and again (sa rājā saha patnyā vai praṇipatya muhur muhuḥ), reported once more to Vasiṣṭha what had been spoken by the one in brahmin guise (yad uktaṃ brahma-rūpiṇā).
+That king, together with his queen, bowing down again and again (_sa rājā saha patnyā vai praṇipatya muhur muhuḥ_), reported once more to Vasiṣṭha what had been spoken by the one in brahmin guise (_yad uktaṃ brahma-rūpiṇā_).
 </details>
 </details>
 
@@ -1172,7 +1172,7 @@ That king, together with his queen, bowing down again and again (sa rājā saha 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that account of the lord of kings (tac chrutvā pārthivendrasya) and that foul contrivance wrought by the rākṣasa (rakṣasā vikṛtaṃ ca tat), Vasiṣṭha spoke once more to the king, bull among men:
+Hearing that account of the lord of kings (_tac chrutvā pārthivendrasya_) and that foul contrivance wrought by the rākṣasa (_rakṣasā vikṛtaṃ ca tat_), Vasiṣṭha spoke once more to the king, bull among men:
 </details>
 </details>
 
@@ -1206,7 +1206,7 @@ Unable to void his spoken curse, Vasiṣṭha limits it to twelve years and gran
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This word which I have uttered while overcome with anger (mayā roṣa-parītena yad idaṃ vyāhṛtaṃ vacaḥ) cannot be rendered void (naitac chakyaṃ vṛthā kartum); yet I shall bestow a boon upon you (pradāsyāmi ca te varam):
+“This word which I have uttered while overcome with anger (_mayā roṣa-parītena yad idaṃ vyāhṛtaṃ vacaḥ_) cannot be rendered void (_naitac chakyaṃ vṛthā kartum_); yet I shall bestow a boon upon you (_pradāsyāmi ca te varam_):
 </details>
 </details>
 
@@ -1232,7 +1232,7 @@ Unable to void his spoken curse, Vasiṣṭha limits it to twelve years and gran
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Twelve years shall be the allotted span (kālo dvādaśa varṣāṇi), and then shall come the end of the curse (śāpasyānto bhaviṣyati); and by my grace, O lord of kings (mat-prasādāc ca rājendra), you shall not remember what has passed (vyatītaṃ na smariṣyasi).”
+“Twelve years shall be the allotted span (_kālo dvādaśa varṣāṇi_), and then shall come the end of the curse (_śāpasyānto bhaviṣyati_); and by my grace, O lord of kings (_mat-prasādāc ca rājendra_), you shall not remember what has passed (_vyatītaṃ na smariṣyasi_).”
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ Unable to void his spoken curse, Vasiṣṭha limits it to twelve years and gran
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus that king, slayer of foes (evaṃ sa rājā ... arisūdanaḥ), having endured that curse (taṃ śāpam upabhujya), regained his kingdom once more (pratilebhe punā rājyam) and protected his subjects (prajāś caivānvapālayat).
+Thus that king, slayer of foes (_evaṃ sa rājā ... arisūdanaḥ_), having endured that curse (_taṃ śāpam upabhujya_), regained his kingdom once more (_pratilebhe punā rājyam_) and protected his subjects (_prajāś caivānvapālayat_).
 </details>
 </details>
 
@@ -1284,7 +1284,7 @@ Thus that king, slayer of foes (evaṃ sa rājā ... arisūdanaḥ), having endu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That auspicious sacrificial precinct of Kalmāṣapāda (tasya kalmāṣapādasya yajñasyāyatanaṃ śubham) near this hermitage (āśramasya samīpe ’sya) is what you ask me about, O Rāghava (yan māṃ pṛcchasi rāghava).”
+“That auspicious sacrificial precinct of Kalmāṣapāda (_tasya kalmāṣapādasya yajñasyāyatanaṃ śubham_) near this hermitage (_āśramasya samīpe ’sya_) is what you ask me about, O Rāghava (_yan māṃ pṛcchasi rāghava_).”
 </details>
 </details>
 
@@ -1321,7 +1321,7 @@ Thus that king, slayer of foes (evaṃ sa rājā ... arisūdanaḥ), having endu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that exceedingly dreadful tale of that lord of kings (tasya tāṃ pārthivendrasya kathāṃ śrutvā sudāruṇām), and having bowed to the great sage (maharṣim abhivādya ca), he entered the leaf-hut (viveśa parṇaśālāyām).
+Having heard that exceedingly dreadful tale of that lord of kings (_tasya tāṃ pārthivendrasya kathāṃ śrutvā sudāruṇām_), and having bowed to the great sage (_maharṣim abhivādya ca_), he entered the leaf-hut (_viveśa parṇaśālāyām_).
 </details>
 </details>
 

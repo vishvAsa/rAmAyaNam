@@ -48,7 +48,7 @@ As Viṣṇu strikes down the fleeing Rākṣasa host from behind, Mālyavān wh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that Rākṣasa host was being struck down from behind by Padmanābha (hanyamāne bale pṛṣṭhataḥ), Mālyavān thereupon wheeled back (sannivṛttaḥ), like the ocean rebounding upon reaching its shore (velām etya ivārṇavaḥ).
+While that Rākṣasa host was being struck down from behind by Padmanābha (_hanyamāne bale pṛṣṭhataḥ_), Mālyavān thereupon wheeled back (_sannivṛttaḥ_), like the ocean rebounding upon reaching its shore (_velām etya ivārṇavaḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ While that Rākṣasa host was being struck down from behind by Padmanābha (han
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembling (calan-mauliḥ), that night-roamer (niśācaraḥ) addressed these words to Padmanābha, the Supreme Person (puruṣottamam):
+With eyes reddened by wrath (_saṃrakta-nayanaḥ kopāt_) and his diadem trembling (_calan-mauliḥ_), that night-roamer (_niśācaraḥ_) addressed these words to Padmanābha, the Supreme Person (_puruṣottamam_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Nārāyaṇa, you do not know the ancient law of warriors (kṣātra-dharmaṃ purātanam), since you slay us like a common wretch (yathetaraḥ) when we are terrified and have no heart for battle (ayuddha-manaso bhītān)!
+“O Nārāyaṇa, you do not know the ancient law of warriors (_kṣātra-dharmaṃ purātanam_), since you slay us like a common wretch (_yathetaraḥ_) when we are terrified and have no heart for battle (_ayuddha-manaso bhītān_)!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whosoever among the non-Asuras commits the sin of slaying those who have turned their backs (parāṅmukha-vadhaṃ pāpam), that slayer, upon departing this life (gataḥ), never attains the heaven of the righteous (svargaṃ puṇya-karmaṇām).
+“Whosoever among the non-Asuras commits the sin of slaying those who have turned their backs (_parāṅmukha-vadhaṃ pāpam_), that slayer, upon departing this life (_gataḥ_), never attains the heaven of the righteous (_svargaṃ puṇya-karmaṇām_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if you have a craving for battle (yuddha-śraddhā), O bearer of conch, discus, and mace (śaṅkha-cakra-gadādhara), here I stand (ahaṃ sthito 'smi)! Display whatever prowess is yours—I am watching (paśyāmi balaṃ darśaya)!”
+“Or if you have a craving for battle (_yuddha-śraddhā_), O bearer of conch, discus, and mace (_śaṅkha-cakra-gadādhara_), here I stand (_ahaṃ sthito &#x27;smi_)! Display whatever prowess is yours—I am watching (_paśyāmi balaṃ darśaya_)!”
 </details>
 </details>
 
@@ -203,7 +203,7 @@ With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Mālyavān standing firm like Mount Mālyavān itself (mālyavantam ivācalam), the mighty younger brother of the king of gods (deva-rājānujo balī) spoke to that lord of Rākṣasas:
+Beholding Mālyavān standing firm like Mount Mālyavān itself (_mālyavantam ivācalam_), the mighty younger brother of the king of gods (_deva-rājānujo balī_) spoke to that lord of Rākṣasas:
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Declaring that he must uphold his vow of fearlessness to the gods even at the co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To the gods, terrified by dread of you (yuṣmatto bhaya-bhītānām), I have granted fearlessness (mayābhayam)—consisting in the extirpation of the Rākṣasas (rākṣasotsādanam)—and that very pledge is now being upheld (tad etad anupālyate).
+“To the gods, terrified by dread of you (_yuṣmatto bhaya-bhītānām_), I have granted fearlessness (_mayābhayam_)—consisting in the extirpation of the Rākṣasas (_rākṣasotsādanam_)—and that very pledge is now being upheld (_tad etad anupālyate_).
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Declaring that he must uphold his vow of fearlessness to the gods even at the co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, I must ever accomplish what is dear to the gods even at the cost of my own life (prāṇair api priyaṃ kāryam); therefore I shall slay you all (vo nihaniṣyāmi), even though you flee to Rasātala (rasātala-gatān api)!”
+“Indeed, I must ever accomplish what is dear to the gods even at the cost of my own life (_prāṇair api priyaṃ kāryam_); therefore I shall slay you all (_vo nihaniṣyāmi_), even though you flee to Rasātala (_rasātala-gatān api_)!”
 </details>
 </details>
 
@@ -304,7 +304,7 @@ Declaring that he must uphold his vow of fearlessness to the gods even at the co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as the God of gods (devadevam), whose eyes were like red lotuses (raktāmburuha-locanam), was speaking thus, the enraged lord of Rākṣasas (saṅkruddho rākṣasendraḥ) pierced him squarely in the chest with a spear (śaktyā bibheda bhujāntare).
+Even as the God of gods (_devadevam_), whose eyes were like red lotuses (_raktāmburuha-locanam_), was speaking thus, the enraged lord of Rākṣasas (_saṅkruddho rākṣasendraḥ_) pierced him squarely in the chest with a spear (_śaktyā bibheda bhujāntare_).
 </details>
 </details>
 
@@ -338,7 +338,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Loosed from the arm of Mālyavān (mālyavad-bhuja-nirmuktā), that spear, ringing with bells (ghaṇṭā-kṛta-svanā), blazed upon the breast of Hari (harer urasi babhrāja) like a flash of lightning lodged in a rain-cloud (meghastheva śatahradā).
+Loosed from the arm of Mālyavān (_mālyavad-bhuja-nirmuktā_), that spear, ringing with bells (_ghaṇṭā-kṛta-svanā_), blazed upon the breast of Hari (_harer urasi babhrāja_) like a flash of lightning lodged in a rain-cloud (_meghastheva śatahradā_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ Loosed from the arm of Mālyavān (mālyavad-bhuja-nirmuktā), that spear, ringi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the lotus-eyed Lord (amburuhekṣaṇaḥ), dear to the spear-bearing Skanda (śaktidhara-priyaḥ), plucked out that very spear (tām eva cotkṛṣya śaktim) and hurled it back aiming at Mālyavān (mālyavantaṃ samuddiśya cikṣepa).
+Then the lotus-eyed Lord (_amburuhekṣaṇaḥ_), dear to the spear-bearing Skanda (_śaktidhara-priyaḥ_), plucked out that very spear (_tām eva cotkṛṣya śaktim_) and hurled it back aiming at Mālyavān (_mālyavantaṃ samuddiśya cikṣepa_).
 </details>
 </details>
 
@@ -400,7 +400,7 @@ Then the lotus-eyed Lord (amburuhekṣaṇaḥ), dear to the spear-bearing Skand
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released from the hand of Govinda (govinda-kara-nissṛtā) as though cast by Skanda himself (skandotsṛṣṭeva), that spear sped eagerly toward the Rākṣasa (kāṅkṣantī rākṣasaṃ prāyāt), like Indra's missile plunging toward Mount Añjana (māhendrīvāñjanācalam).
+Released from the hand of Govinda (_govinda-kara-nissṛtā_) as though cast by Skanda himself (_skandotsṛṣṭeva_), that spear sped eagerly toward the Rākṣasa (_kāṅkṣantī rākṣasaṃ prāyāt_), like Indra&#x27;s missile plunging toward Mount Añjana (_māhendrīvāñjanācalam_).
 </details>
 </details>
 
@@ -442,7 +442,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That spear fell upon the broad chest of that lord of Rākṣasas (tasyorasi vistīrṇe), radiant with a profusion of necklaces (hāra-bhārāvabhāsite), like a thunderbolt striking a mountain crest (giri-kūṭa ivāśaniḥ).
+That spear fell upon the broad chest of that lord of Rākṣasas (_tasyorasi vistīrṇe_), radiant with a profusion of necklaces (_hāra-bhārāvabhāsite_), like a thunderbolt striking a mountain crest (_giri-kūṭa ivāśaniḥ_).
 </details>
 </details>
 
@@ -473,7 +473,7 @@ That spear fell upon the broad chest of that lord of Rākṣasas (tasyorasi vist
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His armor shattered by it (tayā bhinna-tanutrāṇaḥ), he sank into deep darkness (prāviśad vipulaṃ tamaḥ); yet recovering himself once more (punar āśvastaḥ), Mālyavān stood immovable as a mountain (tasthau girir ivācalaḥ).
+His armor shattered by it (_tayā bhinna-tanutrāṇaḥ_), he sank into deep darkness (_prāviśad vipulaṃ tamaḥ_); yet recovering himself once more (_punar āśvastaḥ_), Mālyavān stood immovable as a mountain (_tasthau girir ivācalaḥ_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ His armor shattered by it (tayā bhinna-tanutrāṇaḥ), he sank into deep dark
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seizing an iron pike (kārṣṇāyasaṃ śūlam) studded with numerous spikes (kaṇṭakair bahubhir vṛtam), he struck the Lord violently right between the breasts (abhyahanad devaṃ stanayor antare dṛḍham).
+Then, seizing an iron pike (_kārṣṇāyasaṃ śūlam_) studded with numerous spikes (_kaṇṭakair bahubhir vṛtam_), he struck the Lord violently right between the breasts (_abhyahanad devaṃ stanayor antare dṛḍham_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Likewise, impassioned by the joy of combat (raṇa-raktaḥ), that night-roamer struck the younger brother of Vāsava with his fist (muṣṭinā vāsavānujam tāḍayitvā) and leaped back a bow's length (dhanur-mātram apakrāntaḥ).
+Likewise, impassioned by the joy of combat (_raṇa-raktaḥ_), that night-roamer struck the younger brother of Vāsava with his fist (_muṣṭinā vāsavānujam tāḍayitvā_) and leaped back a bow&#x27;s length (_dhanur-mātram apakrāntaḥ_).
 </details>
 </details>
 
@@ -569,7 +569,7 @@ Likewise, impassioned by the joy of combat (raṇa-raktaḥ), that night-roamer 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon a mighty shout of ‘Well done! Well done!’ (sādhu sādhv iti) rose up across the sky (ambare mahāñ chabdaḥ); and after striking Viṣṇu (āhatya viṣṇum), the Rākṣasa struck Garuḍa as well (garuḍaṃ cāpy atāḍayat).
+Thereupon a mighty shout of ‘Well done! Well done!’ (_sādhu sādhv iti_) rose up across the sky (_ambare mahāñ chabdaḥ_); and after striking Viṣṇu (_āhatya viṣṇum_), the Rākṣasa struck Garuḍa as well (_garuḍaṃ cāpy atāḍayat_).
 </details>
 </details>
 
@@ -600,7 +600,7 @@ Thereupon a mighty shout of ‘Well done! Well done!’ (sādhu sādhv iti) rose
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged at that, Vainateya (vainateyas tataḥ kruddhaḥ) swept the Rākṣasa away with the tempest of his wings (pakṣa-vātena vyapohat), just as a mighty wind scatters a heap of dry leaves (balavān vāyuḥ śuṣka-parṇa-cayaṃ yathā).
+Enraged at that, Vainateya (_vainateyas tataḥ kruddhaḥ_) swept the Rākṣasa away with the tempest of his wings (_pakṣa-vātena vyapohat_), just as a mighty wind scatters a heap of dry leaves (_balavān vāyuḥ śuṣka-parṇa-cayaṃ yathā_).
 </details>
 </details>
 
@@ -639,7 +639,7 @@ Seeing Mālyavān blown away by Garuḍa's wings, Sumālī and the humiliated M�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his elder brother put to flight (drāvitaṃ dṛśya pūrvajam) by the wing-blast of the king of birds (dvijendra-pakṣa-vātena), Sumālī turned toward Laṅkā with his troops (svabalaiḥ sārdhaṃ laṅkām abhimukho yayau).
+Seeing his elder brother put to flight (_drāvitaṃ dṛśya pūrvajam_) by the wing-blast of the king of birds (_dvijendra-pakṣa-vātena_), Sumālī turned toward Laṅkā with his troops (_svabalaiḥ sārdhaṃ laṅkām abhimukho yayau_).
 </details>
 </details>
 
@@ -670,7 +670,7 @@ Seeing his elder brother put to flight (drāvitaṃ dṛśya pūrvajam) by the w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swept away by the force of that wing-tempest (pakṣa-vāta-baloddhūtaḥ), the Rākṣasa Mālyavān too rejoined his own forces (svabalena samāgamya) and returned to Laṅkā overwhelmed with shame (hriyā vṛtaḥ).
+Swept away by the force of that wing-tempest (_pakṣa-vāta-baloddhūtaḥ_), the Rākṣasa Mālyavān too rejoined his own forces (_svabalena samāgamya_) and returned to Laṅkā overwhelmed with shame (_hriyā vṛtaḥ_).
 </details>
 </details>
 
@@ -701,7 +701,7 @@ Swept away by the force of that wing-tempest (pakṣa-vāta-baloddhūtaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, O lotus-eyed one (kamalekṣaṇa), repeatedly routed in battle by that Hari (bahuśaḥ saṃyuge bhagnāḥ), with their foremost leaders slain (hata-pravara-nāyakāḥ), those Rākṣasas—
+Thus, O lotus-eyed one (_kamalekṣaṇa_), repeatedly routed in battle by that Hari (_bahuśaḥ saṃyuge bhagnāḥ_), with their foremost leaders slain (_hata-pravara-nāyakāḥ_), those Rākṣasas—
 </details>
 </details>
 
@@ -732,7 +732,7 @@ Thus, O lotus-eyed one (kamalekṣaṇa), repeatedly routed in battle by that Ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—unable to fight back against Viṣṇu (aśaknuvanto viṣṇuṃ pratiyoddhum) and racked with terror (bhayārditāḥ), abandoned Laṅkā (tyaktvā laṅkām) and departed with their wives to dwell in Pātāla (gatā vastuṃ pātālaṃ sahapatnayaḥ).
+—unable to fight back against Viṣṇu (_aśaknuvanto viṣṇuṃ pratiyoddhum_) and racked with terror (_bhayārditāḥ_), abandoned Laṅkā (_tyaktvā laṅkām_) and departed with their wives to dwell in Pātāla (_gatā vastuṃ pātālaṃ sahapatnayaḥ_).
 </details>
 </details>
 
@@ -763,7 +763,7 @@ Thus, O lotus-eyed one (kamalekṣaṇa), repeatedly routed in battle by that Ha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Relying upon the Rākṣasa Sumālī (sumālinaṃ samāsādya), O noblest of the Raghus (raghusattama), those warriors of renowned prowess (prakhyāta-vīryāḥ) remained there in the lineage of Sālakaṭaṅkaṭā (vaṃśe sālakaṭaṅkaṭe).
+Relying upon the Rākṣasa Sumālī (_sumālinaṃ samāsādya_), O noblest of the Raghus (_raghusattama_), those warriors of renowned prowess (_prakhyāta-vīryāḥ_) remained there in the lineage of Sālakaṭaṅkaṭā (_vaṃśe sālakaṭaṅkaṭe_).
 </details>
 </details>
 
@@ -796,7 +796,7 @@ Relying upon the Rākṣasa Sumālī (sumālinaṃ samāsādya), O noblest of th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now those Rākṣasas whom you have slain (ye tvayā nihatāḥ) are the Paulastyas by name (paulastyā nāma rākṣasāḥ); whereas Sumālī, Mālyavān, Mālin, and those who marched before them (ye ca teṣāṃ puraḥsarāḥ)—all of these illustrious warriors were even mightier than those and mightier than Rāvaṇa himself (sarve tebhyo mahābhāgā rāvaṇād balavattarāḥ)!
+Now those Rākṣasas whom you have slain (_ye tvayā nihatāḥ_) are the Paulastyas by name (_paulastyā nāma rākṣasāḥ_); whereas Sumālī, Mālyavān, Mālin, and those who marched before them (_ye ca teṣāṃ puraḥsarāḥ_)—all of these illustrious warriors were even mightier than those and mightier than Rāvaṇa himself (_sarve tebhyo mahābhāgā rāvaṇād balavattarāḥ_)!
 </details>
 </details>
 
@@ -835,7 +835,7 @@ Agastya reveals that Rāma himself is the eternal four-armed Nārāyaṇa who in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor is there any other slayer of those Rākṣasas (na cānyo rākṣasān hantā), the foes of the gods and thorns in the celestials' side (surārīn deva-kaṇṭakān), save Lord Nārāyaṇa, bearer of the conch, discus, and mace (ṛte nārāyaṇaṃ devam).
+Nor is there any other slayer of those Rākṣasas (_na cānyo rākṣasān hantā_), the foes of the gods and thorns in the celestials&#x27; side (_surārīn deva-kaṇṭakān_), save Lord Nārāyaṇa, bearer of the conch, discus, and mace (_ṛte nārāyaṇaṃ devam_).
 </details>
 </details>
 
@@ -866,7 +866,7 @@ Nor is there any other slayer of those Rākṣasas (na cānyo rākṣasān hant�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You yourself are that eternal, four-armed Lord Nārāyaṇa (bhavān nārāyaṇo devaś caturbāhuḥ sanātanaḥ), born on earth to destroy the Rākṣasas (rākṣasān hantum utpannaḥ)—the unconquerable, imperishable Sovereign (ajeyaḥ prabhur avyayaḥ)!
+You yourself are that eternal, four-armed Lord Nārāyaṇa (_bhavān nārāyaṇo devaś caturbāhuḥ sanātanaḥ_), born on earth to destroy the Rākṣasas (_rākṣasān hantum utpannaḥ_)—the unconquerable, imperishable Sovereign (_ajeyaḥ prabhur avyayaḥ_)!
 </details>
 </details>
 
@@ -897,7 +897,7 @@ You yourself are that eternal, four-armed Lord Nārāyaṇa (bhavān nārāyaṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The establisher of shattered righteousness (naṣṭa-dharma-vyavasthātā), Creator of beings (prajākaraḥ), and compassionate toward those who seek refuge (śaraṇāgata-vatsalaḥ), you manifest age after age (kāle kāle utpadyate) for the destruction of the wicked (dasyu-vadhe).
+The establisher of shattered righteousness (_naṣṭa-dharma-vyavasthātā_), Creator of beings (_prajākaraḥ_), and compassionate toward those who seek refuge (_śaraṇāgata-vatsalaḥ_), you manifest age after age (_kāle kāle utpadyate_) for the destruction of the wicked (_dasyu-vadhe_).
 </details>
 </details>
 
@@ -932,7 +932,7 @@ The establisher of shattered righteousness (naṣṭa-dharma-vyavasthātā), Cre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus, O lord of men (narādhipa), has this entire origin of the Rākṣasas (rākṣasānām utpattiḥ sakalā) been recounted by me to you faithfully today (kathitā yathāvat); hear next, O noblest of the Raghus, the entire matchless birth and prowess of Rāvaṇa together with his sons (rāvaṇasya janma-prabhāvam atulaṃ sasutasya).
+Thus, O lord of men (_narādhipa_), has this entire origin of the Rākṣasas (_rākṣasānām utpattiḥ sakalā_) been recounted by me to you faithfully today (_kathitā yathāvat_); hear next, O noblest of the Raghus, the entire matchless birth and prowess of Rāvaṇa together with his sons (_rāvaṇasya janma-prabhāvam atulaṃ sasutasya_).
 </details>
 </details>
 
@@ -978,7 +978,7 @@ Thus, O lord of men (narādhipa), has this entire origin of the Rākṣasas (rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Long did that mighty Rākṣasa Sumālī wander in Rasātala (cirāt sumālī vyacarad rasātalam), stricken with dread of Viṣṇu (viṣṇu-bhayārditaḥ) and accompanied by his sons and grandsons (putraiś ca pautraiś ca samanvitaḥ); and thereupon the Lord of Wealth took up his abode in Laṅkā (laṅkām avasad dhaneśvaraḥ).
+Long did that mighty Rākṣasa Sumālī wander in Rasātala (_cirāt sumālī vyacarad rasātalam_), stricken with dread of Viṣṇu (_viṣṇu-bhayārditaḥ_) and accompanied by his sons and grandsons (_putraiś ca pautraiś ca samanvitaḥ_); and thereupon the Lord of Wealth took up his abode in Laṅkā (_laṅkām avasad dhaneśvaraḥ_).
 </details>
 </details>
 

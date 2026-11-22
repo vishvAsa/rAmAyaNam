@@ -84,7 +84,7 @@ red-blood eyes through anger, forthwith stirred up the terrific army of Angada w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the two forces rapidly slaughtered one another in that great battle (mahāmṛdhe), both became heavily depleted (sūpakṣīṇe), like two lakes in the intense heat of summer (mahāgharme).
+As the two forces rapidly slaughtered one another in that great battle (_mahāmṛdhe_), both became heavily depleted (_sūpakṣīṇe_), like two lakes in the intense heat of summer (_mahāgharme_).
 </details>
 </details>
 
@@ -138,7 +138,7 @@ throw down a fruit from its stalk.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the slaughter of his own army and the slaying of Virūpākṣa (virūpākṣavadhena), Rāvaṇa, lord of the rākṣasas, grew doubly enraged.
+At the slaughter of his own army and the slaying of Virūpākṣa (_virūpākṣavadhena_), Rāvaṇa, lord of the rākṣasas, grew doubly enraged.
 </details>
 </details>
 
@@ -194,7 +194,7 @@ arrows and struck down the region of the ribs of others.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his own host wasted away and being cut down by the monkeys (valīmukhaiḥ), anguish (vyathā) arose in him in battle as he beheld the adverse turn of fate (daivaviparyayam).
+Seeing his own host wasted away and being cut down by the monkeys (_valīmukhaiḥ_), anguish (_vyathā_) arose in him in battle as he beheld the adverse turn of fate (_daivaviparyayam_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ with despair and lost heart.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He spoke forthwith to Mahodara, who stood nearby: “At this hour, O mighty-armed one, my hope of victory (jayāśā) rests in you.
+He spoke forthwith to Mahodara, who stood nearby: “At this hour, O mighty-armed one, my hope of victory (_jayāśā_) rests in you.
 </details>
 </details>
 
@@ -301,7 +301,7 @@ with a great impetuosity, exhibited his tempo like an ocean on full-moon days.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Destroy the enemy host, O hero! Display your valor today! This is the time to repay (nirveṣṭum) your master’s sustenance (bhartṛpiṇḍasya); fight nobly!”
+“Destroy the enemy host, O hero! Display your valor today! This is the time to repay (_nirveṣṭum_) your master’s sustenance (_bhartṛpiṇḍasya_); fight nobly!”
 </details>
 </details>
 
@@ -347,7 +347,7 @@ Mahaparshva in that combat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Mahodara, chief of rākṣasas, replied, “So be it!” and plunged into the enemy army like a moth into a blazing fire (pataṅga iva pāvakam).
+Thus addressed, Mahodara, chief of rākṣasas, replied, “So be it!” and plunged into the enemy army like a moth into a blazing fire (_pataṅga iva pāvakam_).
 </details>
 </details>
 
@@ -407,7 +407,7 @@ his chariot along with is charioteer
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that radiant and mighty warrior wrought carnage (kadanam) among the monkeys, impelled by his master’s command (bhartṛvākyena) and by his own valor.
+Then that radiant and mighty warrior wrought carnage (_kadanam_) among the monkeys, impelled by his master’s command (_bhartṛvākyena_) and by his own valor.
 </details>
 </details>
 
@@ -475,9 +475,9 @@ strength and broke that chariot too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Seizing massive rocks, the monkeys of mighty spirit (mahāsattvāḥ) plunged into the dreadful enemy force and struck down all the rākṣasas.
+**8:** Seizing massive rocks, the monkeys of mighty spirit (_mahāsattvāḥ_) plunged into the dreadful enemy force and struck down all the rākṣasas.
 
-**9:** Fiercely enraged, Mahodara with gold-adorned arrows (śaraiḥ kāñcanabhūṣaṇaiḥ) severed the hands, feet, and thighs (pāṇipādoru) of the monkeys in that great battle.
+**9:** Fiercely enraged, Mahodara with gold-adorned arrows (_śaraiḥ kāñcanabhūṣaṇaiḥ_) severed the hands, feet, and thighs (_pāṇipādoru_) of the monkeys in that great battle.
 </details>
 </details>
 
@@ -540,9 +540,9 @@ Gavaksha too with many arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Then all those monkeys, sorely tormented by the rākṣasas, fled in the ten directions (diśo daśa drutāḥ), while others sought refuge with Sugrīva.
+**10:** Then all those monkeys, sorely tormented by the rākṣasas, fled in the ten directions (_diśo daśa drutāḥ_), while others sought refuge with Sugrīva.
 
-**11:** Seeing the great army of the monkeys shattered (prabhagnam) in battle, Sugrīva rushed straight toward Mahodara, who stood nearby.
+**11:** Seeing the great army of the monkeys shattered (_prabhagnam_) in battle, Sugrīva rushed straight toward Mahodara, who stood nearby.
 </details>
 </details>
 
@@ -594,7 +594,7 @@ with anger and seized hold of a terrific iron rod.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing a huge, dreadful crag equal to a mountain (mahīdharasamāṃ śilām), the lord of monkeys, of immense splendor, hurled it to slay him.
+Seizing a huge, dreadful crag equal to a mountain (_mahīdharasamāṃ śilām_), the lord of monkeys, of immense splendor, hurled it to slay him.
 </details>
 </details>
 
@@ -669,9 +669,9 @@ Mahaparshva the demon, who stood at a distance, with an intention to kill him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** Seeing that boulder hurtling suddenly toward him, Mahodara, unperturbed (asambhrāntaḥ), split that unassailable crag with his arrows.
+**13:** Seeing that boulder hurtling suddenly toward him, Mahodara, unperturbed (_asambhrāntaḥ_), split that unassailable crag with his arrows.
 
-**14:** Cleft into a thousand pieces by that rākṣasa with floods of arrows (bāṇaughaiḥ), it fell to the ground like an agitated flock of vultures (gṛdhracakram ivākulam).
+**14:** Cleft into a thousand pieces by that rākṣasa with floods of arrows (_bāṇaughaiḥ_), it fell to the ground like an agitated flock of vultures (_gṛdhracakram ivākulam_).
 </details>
 </details>
 
@@ -724,7 +724,7 @@ arrow fitted to it, from the demon's hand and also his helmet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that boulder shattered, Sugrīva, inflamed with wrath (krodhamūrcchitaḥ), uprooted a sāla tree and hurled it; [Mahodara] cut it into many pieces.
+Seeing that boulder shattered, Sugrīva, inflamed with wrath (_krodhamūrcchitaḥ_), uprooted a sāla tree and hurled it; [Mahodara] cut it into many pieces.
 </details>
 </details>
 
@@ -770,7 +770,7 @@ temple (root of the ear), shining with an ear-ring.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the hero, crusher of enemy hosts, pierced him with arrows. Then the enraged [Sugrīva] beheld an iron bar (parigham) lying on the ground.
+And the hero, crusher of enemy hosts, pierced him with arrows. Then the enraged [Sugrīva] beheld an iron bar (_parigham_) lying on the ground.
 </details>
 </details>
 
@@ -816,7 +816,7 @@ swiftness and enormous splendour, seized hold of a huge axe in one hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whirling (āvidhya) that gleaming iron bar and displaying [his dexterity] to him, he slew his finest horses with that fiercely speeding iron bar.
+Whirling (_āvidhya_) that gleaming iron bar and displaying [his dexterity] to him, he slew his finest horses with that fiercely speeding iron bar.
 </details>
 </details>
 
@@ -862,7 +862,7 @@ washed in oil and which was made of steel, on Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping down from that great chariot whose horses were slain (tasmād dhatahayān mahārathāt), the heroic rākṣasa Mahodara then seized a mace in fury.
+Leaping down from that great chariot whose horses were slain (_tasmād dhatahayān mahārathāt_), the heroic rākṣasa Mahodara then seized a mace in fury.
 </details>
 </details>
 
@@ -920,7 +920,7 @@ his left shoulder-bone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With mace and iron bar in hand (gadāparighahastau), those two heroes met in battle, roaring like two mighty bulls and resembling two clouds flashing with lightning (ghanāv iva savidyutau).
+With mace and iron bar in hand (_gadāparighahastau_), those two heroes met in battle, roaring like two mighty bulls and resembling two clouds flashing with lightning (_ghanāv iva savidyutau_).
 </details>
 </details>
 
@@ -972,7 +972,7 @@ and firmly tightened his fist resembling a thunder-bolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged night-stalker Mahodara hurled his blazing mace, bright as the sun (bhāskarābhāsām), at Sugrīva.
+Then the enraged night-stalker Mahodara hurled his blazing mace, bright as the sun (_bhāskarābhāsām_), at Sugrīva.
 </details>
 </details>
 
@@ -1018,7 +1018,7 @@ thunderbolt, on the boson of the demon, in the vicinity of his breasts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising [his iron bar] in that great battle as that exceedingly dreadful mace came hurtling toward him, mighty Sugrīva, his eyes copper-red with rage (roṣatāmrākṣaḥ),
+Raising [his iron bar] in that great battle as that exceedingly dreadful mace came hurtling toward him, mighty Sugrīva, his eyes copper-red with rage (_roṣatāmrākṣaḥ_),
 </details>
 </details>
 
@@ -1073,7 +1073,7 @@ blasted and he fell dead on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the lord of monkeys—struck his mace with the iron bar; shattered by the force (tarasā bhinnaḥ), his iron bar fell to the ground.
+—the lord of monkeys—struck his mace with the iron bar; shattered by the force (_tarasā bhinnaḥ_), his iron bar fell to the ground.
 </details>
 </details>
 
@@ -1122,7 +1122,7 @@ arose in Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then radiant Sugrīva seized from the surface of the earth a dreadful iron pestle (āyasaṃ musalam), adorned on every side with gold.
+Then radiant Sugrīva seized from the surface of the earth a dreadful iron pestle (_āyasaṃ musalam_), adorned on every side with gold.
 </details>
 </details>
 
@@ -1182,9 +1182,9 @@ breaking asunder as it were the City of Lanka with its attics and town-gates.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** He raised it and hurled it, and the other likewise cast a mace at him; colliding with one another (anyonyam āsādya), both shattered and fell to the earth.
+**24:** He raised it and hurled it, and the other likewise cast a mace at him; colliding with one another (_anyonyam āsādya_), both shattered and fell to the earth.
 
-**25:** Then, with their weapons shattered (bhinnapraharaṇau), those two closed in with their fists (muṣṭibhyām), filled with fiery energy and strength, like two blazing sacrificial fires (dīptāv iva hutāśanau).
+**25:** Then, with their weapons shattered (_bhinnapraharaṇau_), those two closed in with their fists (_muṣṭibhyām_), filled with fiery energy and strength, like two blazing sacrificial fires (_dīptāv iva hutāśanau_).
 </details>
 </details>
 
@@ -1255,7 +1255,7 @@ the enraged Ravana the adversary of Indra, then stood prepared for a battle agai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring again and again, they struck one another, and colliding with slaps of their palms (talaiḥ), both fell to the surface of the earth.
+Roaring again and again, they struck one another, and colliding with slaps of their palms (_talaiḥ_), both fell to the surface of the earth.
 </details>
 </details>
 

@@ -81,7 +81,7 @@ about Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shaking off that notion (tāṃ buddhiṃ [that Mandodarī was Sītā]), the great monkey then became steady (avasthitaḥ) [in his discernment] and entered upon another line of reflection (aparāṃ cintāṃ) concerning Sītā.
+Shaking off that notion (_tāṃ buddhiṃ_ [that Mandodarī was Sītā]), the great monkey then became steady (_avasthitaḥ_) [in his discernment] and entered upon another line of reflection (_aparāṃ cintāṃ_) concerning Sītā.
 </details>
 </details>
 
@@ -112,7 +112,7 @@ Shaking off that notion (tāṃ buddhiṃ [that Mandodarī was Sītā]), the gre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Separated from Rāma (rāmeṇa viyuktā), that noble lady (bhāminī) could never bear to sleep, nor to eat, nor even to adorn herself (alaṃkartuṃ), nor to indulge in drink (pānam upasevituṃ).
+“Separated from Rāma (_rāmeṇa viyuktā_), that noble lady (_bhāminī_) could never bear to sleep, nor to eat, nor even to adorn herself (_alaṃkartuṃ_), nor to indulge in drink (_pānam upasevituṃ_).
 </details>
 </details>
 
@@ -163,7 +163,7 @@ equaling Rama even among gods. This is another woman - thus deciding that Hanuma
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor could she attend upon (upasthātuṃ) another man—even were he the lord of the gods (surāṇām īśvaram)—for there is none equal to Rāma (rāmasamaḥ) even among the immortals (tridaśeṣv api).”
+“Nor could she attend upon (_upasthātuṃ_) another man—even were he the lord of the gods (_surāṇām īśvaram_)—for there is none equal to Rāma (_rāmasamaḥ_) even among the immortals (_tridaśeṣv api_).”
 </details>
 </details>
 
@@ -219,7 +219,7 @@ some others were weary from dance and were unconscious from consumption of liquo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ascertaining (niścitya), “This woman is someone else (anyeyam),” that foremost of monkeys (hariśreṣṭhaḥ), eager to behold Sītā (sītāsaṃdarśanotsukaḥ), roamed once more through that banqueting hall (pānabhūmau).
+Ascertaining (_niścitya_), “This woman is someone else (_anyeyam_),” that foremost of monkeys (_hariśreṣṭhaḥ_), eager to behold Sītā (_sītāsaṃdarśanotsukaḥ_), roamed once more through that banqueting hall (_pānabhūmau_).
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Some women were stationed on tabors, on Mrudangas, on seats, some other women re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[There he saw] some women exhausted by sporting (krīḍitena klāntāḥ), others likewise by singing (gītena), still others wearied by dancing (nṛtyena), and others overcome by drink (pānaviprahatāḥ).
+[There he saw] some women exhausted by sporting (_krīḍitena klāntāḥ_), others likewise by singing (_gītena_), still others wearied by dancing (_nṛtyena_), and others overcome by drink (_pānaviprahatāḥ_).
 </details>
 </details>
 
@@ -307,7 +307,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And [he beheld] other women resting (saṃsthitāḥ) upon muraja drums (murajeṣu), mṛdaṅga tabors (mṛdaṅgeṣu), and celikā instruments (celikāsu), as well as reclining (saṃviṣṭāḥ) upon choice carpets (āstaraṇamukhyeṣu).
+And [he beheld] other women resting (_saṃsthitāḥ_) upon _muraja_ drums (_murajeṣu_), _mṛdaṅga_ tabors (_mṛdaṅgeṣu_), and _celikā_ instruments (_celikāsu_), as well as reclining (_saṃviṣṭāḥ_) upon choice carpets (_āstaraṇamukhyeṣu_).
 </details>
 </details>
 
@@ -387,9 +387,9 @@ cows in a big cow-pen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** The leader of the monkey troop (hariyūthapaḥ) beheld [that banquet hall] filled with a thousand women (aṅganānāṃ sahasreṇa) adorned with ornaments (bhūṣitena vibhūṣaṇaiḥ), habituated to conversing about beauty (rūpasaṃlāpaśīlena), and speaking words suited to the meaning of their songs (yuktagītārthabhāṣiṇā),
+**7:** The leader of the monkey troop (_hariyūthapaḥ_) beheld [that banquet hall] filled with a thousand women (_aṅganānāṃ sahasreṇa_) adorned with ornaments (_bhūṣitena vibhūṣaṇaiḥ_), habituated to conversing about beauty (_rūpasaṃlāpaśīlena_), and speaking words suited to the meaning of their songs (_yuktagītārthabhāṣiṇā_),
 
-**8:** attentive to place and time (deśakālābhiyuktena), uttering fitting speech (yuktavākyābhidhāyinā), and preeminent in amorous sport (ratādhikena).
+**8:** attentive to place and time (_deśakālābhiyuktena_), uttering fitting speech (_yuktavākyābhidhāyinā_), and preeminent in amorous sport (_ratādhikena_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ in a great forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Elsewhere too (anyatrāpi), he beheld a thousand young, noble women (sahasraṃ yuvatīnāṃ varastrīṇām) fast asleep (prasuptaṃ), lying still after conversing of beauty (rūpasaṃlāpaśāyinām).
+Elsewhere too (_anyatrāpi_), he beheld a thousand young, noble women (_sahasraṃ yuvatīnāṃ varastrīṇām_) fast asleep (_prasuptaṃ_), lying still after conversing of beauty (_rūpasaṃlāpaśāyinām_).
 </details>
 </details>
 
@@ -498,7 +498,7 @@ The best among Vanaras saw in that wealthy Ravana's house a bar also, consisting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That [throng], conversant with place and time (deśakālābhiyuktaṃ) and speaking fitting words (yuktavākyābhidhāyi), the monkey chief beheld sound asleep at the cessation of amorous pleasure (ratāviratasaṃsuptaṃ).
+That [throng], conversant with place and time (_deśakālābhiyuktaṃ_) and speaking fitting words (_yuktavākyābhidhāyi_), the monkey chief beheld sound asleep at the cessation of amorous pleasure (_ratāviratasaṃsuptaṃ_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ Hanuma saw there in that bar, meat of dear and of buffalo, of wild boar kept sep
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of those women (tāsāṃ madhye), the mighty-armed lord of rākṣasas (rākṣaseśvaraḥ) shone (śuśubhe) like a bull (vṛṣaḥ) in the midst of choice kine (mukhyānāṃ gavāṃ madhye) within a great cowpen (goṣṭhe mahati).
+In the midst of those women (_tāsāṃ madhye_), the mighty-armed lord of _rākṣasas_ (_rākṣaseśvaraḥ_) shone (_śuśubhe_) like a bull (_vṛṣaḥ_) in the midst of choice kine (_mukhyānāṃ gavāṃ madhye_) within a great cowpen (_goṣṭhe mahati_).
 </details>
 </details>
 
@@ -599,7 +599,7 @@ The best among Vanaras saw half eaten peacocks and chicken in wide vessels of go
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by them (tābhiḥ parivṛtaḥ), that lord of rākṣasas himself shone like a great tusker (mahādvipaḥ) encompassed (parikīrṇaḥ) by female elephants (kareṇubhiḥ) in a forest (araṇye).
+Surrounded by them (_tābhiḥ parivṛtaḥ_), that lord of _rākṣasas_ himself shone like a great tusker (_mahādvipaḥ_) encompassed (_parikīrṇaḥ_) by female elephants (_kareṇubhiḥ_) in a forest (_araṇye_).
 </details>
 </details>
 
@@ -666,9 +666,9 @@ salt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** And in the palace of that lord of rākṣasas (tasya rakṣaḥpater gṛhe), the tiger among monkeys (kapiśārdūlaḥ) beheld the banqueting hall (pānabhūmiṃ) of that mighty one, furnished with every object of desire (sarvakāmair upetāṃ).
+**13:** And in the palace of that lord of _rākṣasas_ (_tasya rakṣaḥpater gṛhe_), the tiger among monkeys (_kapiśārdūlaḥ_) beheld the banqueting hall (_pānabhūmiṃ_) of that mighty one, furnished with every object of desire (_sarvakāmair upetāṃ_).
 
-**14:** There upon the banqueting floor (pānabhūmau), he saw the meats (māṃsāni) of deer (mṛgāṇāṃ), buffaloes (mahiṣāṇāṃ), and boars (varāhāṇāṃ) set out in separate portions (bhāgaśaḥ).
+**14:** There upon the banqueting floor (_pānabhūmau_), he saw the meats (_māṃsāni_) of deer (_mṛgāṇāṃ_), buffaloes (_mahiṣāṇāṃ_), and boars (_varāhāṇāṃ_) set out in separate portions (_bhāgaśaḥ_).
 </details>
 </details>
 
@@ -730,9 +730,9 @@ foods.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** And in broad golden platters (raukmeṣu viśāleṣu bhājaneṣu), that tiger among monkeys beheld peacocks (mayūrān) and wild cocks (kukkuṭān) still uneaten (abhakṣitān).
+**15:** And in broad golden platters (_raukmeṣu viśāleṣu bhājaneṣu_), that tiger among monkeys beheld peacocks (_mayūrān_) and wild cocks (_kukkuṭān_) still uneaten (_abhakṣitān_).
 
-**16:** Hanumān surveyed (anvavaikṣata) boars and vādhrīṇasa beasts (varāhavādhrīṇasakān), porcupines (śalyān), deer, and peacocks seasoned with curds and sauvarcala salt (dadhisauvarcalāyutān),
+**16:** Hanumān surveyed (_anvavaikṣata_) boars and _vādhrīṇasa_ beasts (_varāhavādhrīṇasakān_), porcupines (_śalyān_), deer, and peacocks seasoned with curds and _sauvarcala_ salt (_dadhisauvarcalāyutān_),
 </details>
 </details>
 
@@ -814,9 +814,9 @@ there and there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** kṛkala partridges (kṛkalān), various goats (chāgān), half-eaten hares (śaśakān ardhabhakṣitān), buffaloes, single-spined ekaśalya fish (ekaśalyān), and thoroughly roasted rams (meṣāṃś ca kṛtaniṣṭhitān),
+**17:** _kṛkala_ partridges (_kṛkalān_), various goats (_chāgān_), half-eaten hares (_śaśakān ardhabhakṣitān_), buffaloes, single-spined _ekaśalya_ fish (_ekaśalyān_), and thoroughly roasted rams (_meṣāṃś ca kṛtaniṣṭhitān_),
 
-**18:** along with diverse confections to be licked (lehyān uccāvacān), beverages to be drunk (peyān), and varied viands (bhojyāni), accompanied by manifold rāga syrups and khāṇḍava sweetmeats (rāgakhāṇḍavaiḥ) piquant with sour and savoury seasonings (amlalavaṇottaṃsaiḥ).
+**18:** along with diverse confections to be licked (_lehyān uccāvacān_), beverages to be drunk (_peyān_), and varied viands (_bhojyāni_), accompanied by manifold _rāga_ syrups and _khāṇḍava_ sweetmeats (_rāgakhāṇḍavaiḥ_) piquant with sour and savoury seasonings (_amlalavaṇottaṃsaiḥ_).
 </details>
 </details>
 
@@ -873,7 +873,7 @@ that bar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With costly large anklets and armlets (mahānūpurakeyūrair mahādhanaiḥ) cast aside (apaviddhaiḥ), and with diverse fruits (phalaiś ca vividhaiḥ) strewn among the drinking vessels (pānabhājanavikṣiptaiḥ),
+With costly large anklets and armlets (_mahānūpurakeyūrair mahādhanaiḥ_) cast aside (_apaviddhaiḥ_), and with diverse fruits (_phalaiś ca vividhaiḥ_) strewn among the drinking vessels (_pānabhājanavikṣiptaiḥ_),
 </details>
 </details>
 
@@ -909,7 +909,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that floor, strewn with floral offerings (kṛtapuṣpopahārā bhūḥ), displayed heightened splendour (adhikāṃ puṣyati śriyam); and with well-joined couches and seats (suśliṣṭaśayanāsanaiḥ) arranged here and there (tatra tatra ca vinyastaiḥ),
+that floor, strewn with floral offerings (_kṛtapuṣpopahārā bhūḥ_), displayed heightened splendour (_adhikāṃ puṣyati śriyam_); and with well-joined couches and seats (_suśliṣṭaśayanāsanaiḥ_) arranged here and there (_tatra tatra ca vinyastaiḥ_),
 </details>
 </details>
 
@@ -1021,11 +1021,11 @@ Hanuma saw indeed then lot of best quality liquor in pots of silver and of golde
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** the banqueting hall appeared as though blazing even without fire (vinā vahniṃ pradīptevopalakṣyate). Along with manifold, diverse meats (māṃsaiḥ) prepared with choice culinary refinements (varasaṃskārasaṃskṛtaiḥ),
+**21:** the banqueting hall appeared as though blazing even without fire (_vinā vahniṃ pradīptevopalakṣyate_). Along with manifold, diverse meats (_māṃsaiḥ_) prepared with choice culinary refinements (_varasaṃskārasaṃskṛtaiḥ_),
 
-**22:** skilfully dressed by expert cooks (kuśalasaṃyuktaiḥ) and set out separately (pṛthak) upon the banquet floor, [there stood] varied, pellucid (prasannāḥ), celestial liquors (divyāḥ surāḥ) as well as artificially brewed spirits (kṛtasurā api):
+**22:** skilfully dressed by expert cooks (_kuśalasaṃyuktaiḥ_) and set out separately (_pṛthak_) upon the banquet floor, [there stood] varied, pellucid (_prasannāḥ_), celestial liquors (_divyāḥ surāḥ_) as well as artificially brewed spirits (_kṛtasurā api_):
 
-**23:** cane-sugar wines and honey meads (śarkarāsavamādhvīkāḥ), flower nectars and fruit wines (puṣpāsavaphalāsavāḥ), each separately infused (mṛṣṭāḥ pṛthak pṛthak) with sundry appropriate aromatic powders (vāsacūrṇaiś ca vividhaiḥ).
+**23:** cane-sugar wines and honey meads (_śarkarāsavamādhvīkāḥ_), flower nectars and fruit wines (_puṣpāsavaphalāsavāḥ_), each separately infused (_mṛṣṭāḥ pṛthak pṛthak_) with sundry appropriate aromatic powders (_vāsacūrṇaiś ca vividhaiḥ_).
 </details>
 </details>
 
@@ -1059,7 +1059,7 @@ Hanuma saw indeed then lot of best quality liquor in pots of silver and of golde
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Covered with garlands (santatā mālyaiḥ) arranged in manifold ways (bahusaṃsthitaiḥ), as well as with golden pitchers (hiraṇmayaiś ca kalaśaiḥ) and crystal vessels (bhājanaiḥ sphāṭikair api), the floor shone brightly (śuśubhe bhūmiḥ).
+Covered with garlands (_santatā mālyaiḥ_) arranged in manifold ways (_bahusaṃsthitaiḥ_), as well as with golden pitchers (_hiraṇmayaiś ca kalaśaiḥ_) and crystal vessels (_bhājanaiḥ sphāṭikair api_), the floor shone brightly (_śuśubhe bhūmiḥ_).
 </details>
 </details>
 
@@ -1136,7 +1136,7 @@ some places not at all drunk.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[And that floor was] encompassed (abhisaṃvṛtā) on all sides by other pitchers wrought of jāmbūnada gold (jāmbūnadamayaiś cānyaiḥ karakaiḥ). And in silver jars (rājateṣu kumbheṣu) as well as in golden ones (jāmbūnadamayeṣu ca),
+[And that floor was] encompassed (_abhisaṃvṛtā_) on all sides by other pitchers wrought of _jāmbūnada_ gold (_jāmbūnadamayaiś cānyaiḥ karakaiḥ_). And in silver jars (_rājateṣu kumbheṣu_) as well as in golden ones (_jāmbūnadamayeṣu ca_),
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that monkey beheld the banqueting ground furnished with the choicest beverages (pānaśreṣṭhāṃ bhūmiṃ). He saw vessels of śātakumbha gold (śātakumbhāni) and of precious gems (maṇimayāni ca) filled with sīdhu rum (sīdhoḥ),
+that monkey beheld the banqueting ground furnished with the choicest beverages (_pānaśreṣṭhāṃ bhūmiṃ_). He saw vessels of _śātakumbha_ gold (_śātakumbhāni_) and of precious gems (_maṇimayāni ca_) filled with _sīdhu_ rum (_sīdhoḥ_),
 </details>
 </details>
 
@@ -1223,7 +1223,7 @@ water together with flower garlands and fruits.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-those sundry vessels (tāni tāni bhājanāni)—some brimful (pūrṇāni), some with half their liquor remaining (kvacid ardhāvaśeṣāṇi), and some drained to the last drop (kvacit pītāny aśeṣataḥ).
+those sundry vessels (_tāni tāni bhājanāni_)—some brimful (_pūrṇāni_), some with half their liquor remaining (_kvacid ardhāvaśeṣāṇi_), and some drained to the last drop (_kvacit pītāny aśeṣataḥ_).
 </details>
 </details>
 
@@ -1273,7 +1273,7 @@ Here couches again of women were varied and clean, some best women slept there h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In some places he saw drinking goblets (pānāni) not drunk from at all (naiva prapītāni); in some places diverse viands (bhakṣyāṃś ca vividhān), and in others beverages set out in portions (pānāni bhāgaśaḥ).
+In some places he saw drinking goblets (_pānāni_) not drunk from at all (_naiva prapītāni_); in some places diverse viands (_bhakṣyāṃś ca vividhān_), and in others beverages set out in portions (_pānāni bhāgaśaḥ_).
 </details>
 </details>
 
@@ -1343,7 +1343,7 @@ themselves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing here and there upon half-consumed provisions (ardhāvaśeṣāṇi), he roamed about (vicacāra ha); and there in many places the couches of the women (śayanāny atra nārīṇāṃ) stood empty (śūnyāni), while elsewhere noble ladies lay asleep embracing one another (parasparaṃ samāśliṣya).
+Gazing here and there upon half-consumed provisions (_ardhāvaśeṣāṇi_), he roamed about (_vicacāra ha_); and there in many places the couches of the women (_śayanāny atra nārīṇāṃ_) stood empty (_śūnyāni_), while elsewhere noble ladies lay asleep embracing one another (_parasparaṃ samāśliṣya_).
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ obtaining air from the air of breath.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And many a delicate woman (kācic cābalā), overcome by the power of sleep (nidrābalaparājitā), had approached [another’s couch] (upagamya), drawn away another woman’s garment (vastram anyasyā apahṛtya), and fallen asleep clasping it (upaguhya).
+And many a delicate woman (_kācic cābalā_), overcome by the power of sleep (_nidrābalaparājitā_), had approached [another’s couch] (_upagamya_), drawn away another woman’s garment (_vastram anyasyā apahṛtya_), and fallen asleep clasping it (_upaguhya_).
 </details>
 </details>
 
@@ -1463,7 +1463,7 @@ of sweet liquor, of various flower garlands and of various kinds of agallocum fu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stirred by the breeze of their breathing (tāsām ucchvāsavātena), the variegated garments and garlands upon their limbs (vastraṃ mālyaṃ ca gātrajam citraṃ) fluttered ever so gently (nātyarthaṃ spandate), as though touched by a soft zephyr (prāpya mandam ivānilam).
+Stirred by the breeze of their breathing (_tāsām ucchvāsavātena_), the variegated garments and garlands upon their limbs (_vastraṃ mālyaṃ ca gātrajam citraṃ_) fluttered ever so gently (_nātyarthaṃ spandate_), as though touched by a soft zephyr (_prāpya mandam ivānilam_).
 </details>
 </details>
 
@@ -1524,9 +1524,9 @@ some women had a body of golden complexion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** Bearing in manifold ways (bahudhā udvahan) the varied fragrance (gandhaṃ vividham) of cool sandal-paste (candanasya ca śītasya), of sweet-juiced sīdhu rum (sīdhor madhurasasya ca), of sundry garlands (mālyasya), and of diverse flowers (puṣpasya vividhasya ca),
+**32:** Bearing in manifold ways (_bahudhā udvahan_) the varied fragrance (_gandhaṃ vividham_) of cool sandal-paste (_candanasya ca śītasya_), of sweet-juiced _sīdhu_ rum (_sīdhor madhurasasya ca_), of sundry garlands (_mālyasya_), and of diverse flowers (_puṣpasya vividhasya ca_),
 
-**33:** and thickened (mūrcchitaḥ) with the scents of bathing unguents (snānānāṃ), sandal-woods (candanānāṃ), and incenses (dhūpānāṃ caiva), the breeze (mārutaḥ)
+**33:** and thickened (_mūrcchitaḥ_) with the scents of bathing unguents (_snānānāṃ_), sandal-woods (_candanānāṃ_), and incenses (_dhūpānāṃ caiva_), the breeze (_mārutaḥ_)
 </details>
 </details>
 
@@ -1577,7 +1577,7 @@ lotuses sleeping.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-wafted a sweet perfume (pravavau surabhir gandho) through the Puṣpaka aerial palace (vimāne puṣpake) at that hour. There among those noble ladies, some were of golden-fair complexion (śyāmāvadātāḥ), some were dark-hued (kṛṣṇāḥ),
+wafted a sweet perfume (_pravavau surabhir gandho_) through the Puṣpaka aerial palace (_vimāne puṣpake_) at that hour. There among those noble ladies, some were of golden-fair complexion (_śyāmāvadātāḥ_), some were dark-hued (_kṛṣṇāḥ_),
 </details>
 </details>
 
@@ -1626,7 +1626,7 @@ Hanuma with great radiance thus saw entire Ravana's house completely but did not
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and some young women in the abode of the rākṣasa (rākṣasālaye) possessed limbs the colour of burnished gold (kāñcanavarṇāṅgyaḥ). And because they were under the sway of sleep (tāsāṃ nidrāvaśatvāc ca) and languid with love (madanena vimūrcchitam),
+and some young women in the abode of the _rākṣasa_ (_rākṣasālaye_) possessed limbs the colour of burnished gold (_kāñcanavarṇāṅgyaḥ_). And because they were under the sway of sleep (_tāsāṃ nidrāvaśatvāc ca_) and languid with love (_madanena vimūrcchitam_),
 </details>
 </details>
 
@@ -1676,7 +1676,7 @@ matter of dharma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-their beauty (rūpam) was just like that of slumbering lotus-clusters (padminīnāṃ prasuptānām). Thus that monkey of mighty splendour (mahātejāḥ) searched the entire inner apartment of Rāvaṇa (rāvaṇāntaḥpuraṃ) without omission (aśeṣeṇa), yet he did not behold Jānakī (na dadarśa ca jānakīm).
+their beauty (_rūpam_) was just like that of slumbering lotus-clusters (_padminīnāṃ prasuptānām_). Thus that monkey of mighty splendour (_mahātejāḥ_) searched the entire inner apartment of Rāvaṇa (_rāvaṇāntaḥpuraṃ_) without omission (_aśeṣeṇa_), yet he did not behold Jānakī (_na dadarśa ca jānakīm_).
 </details>
 </details>
 
@@ -1753,7 +1753,7 @@ atyartham dharmalopam* = a great deficit to dharma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as he gazed upon those women (nirīkṣamāṇaś ca tāḥ striyaḥ), that great monkey fell into grave misgiving (jagāma mahatīṃ śaṅkāṃ), alarmed by fear of transgressing dharma (dharmasādhvasaśaṅkitaḥ):
+Then, as he gazed upon those women (_nirīkṣamāṇaś ca tāḥ striyaḥ_), that great monkey fell into grave misgiving (_jagāma mahatīṃ śaṅkāṃ_), alarmed by fear of transgressing _dharma_ (_dharmasādhvasaśaṅkitaḥ_):
 </details>
 </details>
 
@@ -1789,7 +1789,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely this viewing (idaṃ nirīkṣaṇam) of another man’s sleeping consorts in their inner apartments (paradārāvarodhasya prasuptasya) will cause a grievous breach of my dharma (mamātyarthaṃ dharmalopaṃ kariṣyati).
+“Surely this viewing (_idaṃ nirīkṣaṇam_) of another man’s sleeping consorts in their inner apartments (_paradārāvarodhasya prasuptasya_) will cause a grievous breach of my _dharma_ (_mamātyarthaṃ dharmalopaṃ kariṣyati_).
 </details>
 </details>
 
@@ -1859,7 +1859,7 @@ again, showing a fixed resolve in the task at hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For my gaze (me dṛṣṭiḥ) has never dwelt upon the wives of others (na hi paradārāṇāṃ viṣayavartinī); yet here I have beheld this entire harem of another’s consorts (paradāraparigrahaḥ)!”
+“For my gaze (_me dṛṣṭiḥ_) has never dwelt upon the wives of others (_na hi paradārāṇāṃ viṣayavartinī_); yet here I have beheld this entire harem of another’s consorts (_paradāraparigrahaḥ_)!”
 </details>
 </details>
 
@@ -1915,7 +1915,7 @@ even a little disturbance".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then another reflection (punar anyā cintā) arose in the mind of that wise and resolute monkey (tasya manasvinaḥ), whose heart was fixed upon a single settled purpose (niścitaikāntacittasya)—a reflection revealing the true determination of his duty (kāryaniścayadarśinī):
+Then another reflection (_punar anyā cintā_) arose in the mind of that wise and resolute monkey (_tasya manasvinaḥ_), whose heart was fixed upon a single settled purpose (_niścitaikāntacittasya_)—a reflection revealing the true determination of his duty (_kāryaniścayadarśinī_):
 </details>
 </details>
 
@@ -1970,7 +1970,7 @@ mind is very steady."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Granted that I have beheld (kāmaṃ dṛṣṭā mayā) all the women of Rāvaṇa reposing in unsuspecting trust (viśvastā rāvaṇastriyaḥ), yet not the slightest perturbation (na kiṃcid vaikṛtyam) has arisen in my mind (me manasā upapadyate).
+“Granted that I have beheld (_kāmaṃ dṛṣṭā mayā_) all the women of Rāvaṇa reposing in unsuspecting trust (_viśvastā rāvaṇastriyaḥ_), yet not the slightest perturbation (_na kiṃcid vaikṛtyam_) has arisen in my mind (_me manasā upapadyate_).
 </details>
 </details>
 
@@ -2025,7 +2025,7 @@ seen among other women."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the mind alone is the cause (mano hi hetuḥ) in directing all the senses (sarveṣām indriyāṇāṃ pravartane) amid auspicious and inauspicious states (śubhāśubhāsv avasthāsu); and that mind of mine stands firmly composed (tac ca me suvyavasthitam).”
+“For the mind alone is the cause (_mano hi hetuḥ_) in directing all the senses (_sarveṣām indriyāṇāṃ pravartane_) amid auspicious and inauspicious states (_śubhāśubhāsv avasthāsu_); and that mind of mine stands firmly composed (_tac ca me suvyavasthitam_).”
 </details>
 </details>
 
@@ -2089,7 +2089,7 @@ to be searched among female deer."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, Vaidehī could not possibly be sought by me (na hi mayā śakyā parimārgitum) anywhere else (anyatra); for in every thorough search (sadā samparimārgaṇe), women are to be looked for among women (striyo hi strīṣu dṛśyante).
+“Moreover, Vaidehī could not possibly be sought by me (_na hi mayā śakyā parimārgitum_) anywhere else (_anyatra_); for in every thorough search (_sadā samparimārgaṇe_), women are to be looked for among women (_striyo hi strīṣu dṛśyante_).
 </details>
 </details>
 
@@ -2139,7 +2139,7 @@ be seen."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever be the class (yā yoniḥ) of a living being (yasya sattvasya), within that very class it is sought (tasyāṃ tat parimārgate); a lost woman (pramadā naṣṭā) cannot be searched for among does (na śakyaṃ mṛgīṣu parimārgitum).
+“Whatever be the class (_yā yoniḥ_) of a living being (_yasya sattvasya_), within that very class it is sought (_tasyāṃ tat parimārgate_); a lost woman (_pramadā naṣṭā_) cannot be searched for among does (_na śakyaṃ mṛgīṣu parimārgitum_).
 </details>
 </details>
 
@@ -2193,7 +2193,7 @@ The strong Hanuma observing girls from devas, gandharvas and girls from nagas di
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, this entire inner apartment of Rāvaṇa (tad idaṃ rāvaṇāntaḥpuraṃ sarvaṃ) has now been searched by me with a pure mind (mārgitaṃ śuddhena manasā mayā), yet Jānakī is not seen (dṛśyate na ca jānakī).”
+“Therefore, this entire inner apartment of Rāvaṇa (_tad idaṃ rāvaṇāntaḥpuraṃ sarvaṃ_) has now been searched by me with a pure mind (_mārgitaṃ śuddhena manasā mayā_), yet Jānakī is not seen (_dṛśyate na ca jānakī_).”
 </details>
 </details>
 
@@ -2249,7 +2249,7 @@ going far from there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even while scrutinising (avekṣamāṇaḥ) the daughters of gods and gandharvas (devagandharvakanyāś ca) and the daughters of nāgas (nāgakanyāś ca), the valiant Hanumān did not behold Jānakī at all (naivāpaśyata jānakīm).
+Even while scrutinising (_avekṣamāṇaḥ_) the daughters of gods and _gandharvas_ (_devagandharvakanyāś ca_) and the daughters of _nāgas_ (_nāgakanyāś ca_), the valiant Hanumān did not behold Jānakī at all (_naivāpaśyata jānakīm_).
 </details>
 </details>
 
@@ -2304,7 +2304,7 @@ house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not seeing her there (tām apaśyan), though beholding other noble women (paśyaṃś cānyā varastriyaḥ), that heroic monkey stepped back (apakramya) and prepared to depart (prasthātum upacakrame).
+Not seeing her there (_tām apaśyan_), though beholding other noble women (_paśyaṃś cānyā varastriyaḥ_), that heroic monkey stepped back (_apakramya_) and prepared to depart (_prasthātum upacakrame_).
 </details>
 </details>
 
@@ -2349,6 +2349,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaving behind that banqueting hall (āpānabhūmim utsṛjya), the glorious son of Marut (śrīmān mārutiḥ), resorting once more to strenuous effort on every side (bhūyaḥ sarvataḥ yatnam āśritaḥ), set about searching for her (tāṃ vicetuṃ pracakrame).
+Leaving behind that banqueting hall (_āpānabhūmim utsṛjya_), the glorious son of Marut (_śrīmān mārutiḥ_), resorting once more to strenuous effort on every side (_bhūyaḥ sarvataḥ yatnam āśritaḥ_), set about searching for her (_tāṃ vicetuṃ pracakrame_).
 </details>
 </details>

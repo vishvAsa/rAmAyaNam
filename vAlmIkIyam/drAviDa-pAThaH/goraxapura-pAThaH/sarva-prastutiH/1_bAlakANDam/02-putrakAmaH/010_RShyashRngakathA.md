@@ -135,7 +135,7 @@ plan, well thought over by us..." [1-10-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Accompanied by the ministers, the family priest (Purohita) spoke thus to King Romapāda: "A stratagem free from all risk or disaster has been devised by us.
+`Accompanied by the ministers, the family priest (Purohita) spoke thus to King Romapāda: &quot;A stratagem free from all risk or disaster has been devised by us.
 </details>
 </details>
 
@@ -181,7 +181,7 @@ and he is not aware of women, or of worldly-matters or of even worldly-pleasures
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Ṛśyaśṛṅga is a forest-dweller, absorbed in austerity and Vedic study, and is wholly unacquainted with women, with objects of sense-pleasure, and with sensual delight.
+`&quot;Ṛśyaśṛṅga is a forest-dweller, absorbed in austerity and Vedic study, and is wholly unacquainted with women, with objects of sense-pleasure, and with sensual delight.
 </details>
 </details>
 
@@ -226,7 +226,7 @@ bring him to the city... Let it be decided quickly... [1-10-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Through cherished sense-objects that churn and captivate the hearts of men, we shall cause him to be brought to the city; let this be resolved upon swiftly!
+`&quot;Through cherished sense-objects that churn and captivate the hearts of men, we shall cause him to be brought to the city; let this be resolved upon swiftly!
 </details>
 </details>
 
@@ -275,7 +275,7 @@ many a feint, and let the courtesans be given ample gifts... [1-10-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Let lovely and richly adorned courtesans go thither; having enticed him by manifold stratagems, and being honored by him (or by us), they shall bring him hither."'
+`&quot;Let lovely and richly adorned courtesans go thither; having enticed him by manifold stratagems, and being honored by him (or by us), they shall bring him hither.&quot;&#x27;
 </details>
 </details>
 
@@ -334,7 +334,7 @@ have carried out the plan that way... [1-10-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Hearing this, the King replied to his family priest, "So be it!" And the family priest and the ministers accordingly carried out that plan.
+`Hearing this, the King replied to his family priest, &quot;So be it!&quot; And the family priest and the ministers accordingly carried out that plan.
 </details>
 </details>
 
@@ -583,7 +583,7 @@ the sage's son and spoke these words... [1-10-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Clad in variegated attire and singing in sweet, melodious tones, all those enchanting women approached the seer's son and spoke these words:'
+`Clad in variegated attire and singing in sweet, melodious tones, all those enchanting women approached the seer&#x27;s son and spoke these words:&#x27;
 </details>
 </details>
 
@@ -643,7 +643,7 @@ like this? Oh! Brahman, we are interested to know... please tell us..." [1-10-12
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Who are you, O Brāhmaṇa youth, and how do you live? We desire to know! Why do you roam alone in this solitary and dreadful forest? Pray tell us!"'
+`&quot;Who are you, O Brāhmaṇa youth, and how do you live? We desire to know! Why do you roam alone in this solitary and dreadful forest? Pray tell us!&quot;&#x27;
 </details>
 </details>
 
@@ -749,7 +749,7 @@ a horn, and this here he recalls his birth time event.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Our father is Vibhāṇḍaka, and I am his legitimate biological son (Aurasa); my name, renowned across the earth, is Ṛśyaśṛṅga, and so too is my sacred work (of austerity).
+`&quot;Our father is Vibhāṇḍaka, and I am his legitimate biological son (Aurasa); my name, renowned across the earth, is Ṛśyaśṛṅga, and so too is my sacred work (of austerity).
 </details>
 </details>
 
@@ -794,7 +794,7 @@ all verily there..." thus said the sage to the courtesans. [1-10-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Here hard by is our hermitage, O fair-featured ones! There I shall perform hospitality-worship for all of you in due accordance with scriptural rule."'
+`&quot;Here hard by is our hermitage, O fair-featured ones! There I shall perform hospitality-worship for all of you in due accordance with scriptural rule.&quot;&#x27;
 </details>
 </details>
 
@@ -840,7 +840,7 @@ of that hermitage, then all the women went to hermitage. [1-10-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Hearing the words of the seer's son, all of them resolved to consent; and all those women went with him to behold that hermitage.
+`Hearing the words of the seer&#x27;s son, all of them resolved to consent; and all those women went with him to behold that hermitage.
 </details>
 </details>
 
@@ -901,7 +901,7 @@ to urbanites, that too to the pleasure-taking courtesans.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`When they arrived there, the seer's son offered them hospitality: "Here is water for your hands (Arghya), here is water for your feet (Pādya), and here are our forest roots and fruits!"'
+`When they arrived there, the seer&#x27;s son offered them hospitality: &quot;Here is water for your hands (Arghya), here is water for your feet (Pādya), and here are our forest roots and fruits!&quot;&#x27;
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ before long....' Said courtesans to Rishyasringa.] [1-10-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"Here too, O twice-born one, are choice fruits of our own! Accept them, O Brāhmaṇa—may all auspiciousness be yours—and eat them without delay!"
+`&quot;Here too, O twice-born one, are choice fruits of our own! Accept them, O Brāhmaṇa—may all auspiciousness be yours—and eat them without delay!&quot;
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ did not taste sweets earlier, as he is always forest-bound. [1-10-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Tasting those confections, the radiant youth thought in his heart: "Surely these are fruits!"—for never before had such delicacies been tasted by those who dwell perpetually in the forest.
+`Tasting those confections, the radiant youth thought in his heart: &quot;Surely these are fruits!&quot;—for never before had such delicacies been tasted by those who dwell perpetually in the forest.
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`When all of them had departed, that twice-born son of Kāśyapa's line became restless in heart, and tossed about in the pain of separation.'
+`When all of them had departed, that twice-born son of Kāśyapa&#x27;s line became restless in heart, and tossed about in the pain of separation.&#x27;
 </details>
 </details>
 
@@ -1330,7 +1330,7 @@ our hermitage... [1-10-25b, 26]
 
 **25:** `—where those charming and richly adorned chief courtesans had been seen by him. Beholding the Brāhmaṇa youth coming toward them, they were delighted at heart;
 
-**26:** `Approaching him, all those women spoke these words to him: "Come, O gentle youth, to our hermitage!"—so they said.
+**26:** `Approaching him, all those women spoke these words to him: &quot;Come, O gentle youth, to our hermitage!&quot;—so they said.
 </details>
 </details>
 
@@ -1382,7 +1382,7 @@ definitely indeed..." So said the courtesans.[1-10-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`"There we have manifold and wondrous roots and fruits in abundance; and there, mostassuredly, this special hospitality-rite shall be performed for you!"
+`&quot;There we have manifold and wondrous roots and fruits in abundance; and there, mostassuredly, this special hospitality-rite shall be performed for you!&quot;
 </details>
 </details>
 
@@ -1579,7 +1579,7 @@ with eight body parts touching the ground, indicating his absolute surrender to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`With a deeply collected mind, he offered him the guest-water (Arghya) according to sacred rule, and besought grace from that foremost of Brāhmaṇas, praying that no wrath might enter the Brāhmaṇa's heart.
+`With a deeply collected mind, he offered him the guest-water (Arghya) according to sacred rule, and besought grace from that foremost of Brāhmaṇas, praying that no wrath might enter the Brāhmaṇa&#x27;s heart.
 </details>
 </details>
 
@@ -1697,7 +1697,7 @@ Rishyasringa to King Dasharatha.] [1-10-33]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Thus, reverently honored with the fulfillment of every desire, Ṛśyaśṛṅga of mighty splendor dwelt there together with his wife Śāntā.'
+`Thus, reverently honored with the fulfillment of every desire, Ṛśyaśṛṅga of mighty splendor dwelt there together with his wife Śāntā.&#x27;
 </details>
 </details>
 

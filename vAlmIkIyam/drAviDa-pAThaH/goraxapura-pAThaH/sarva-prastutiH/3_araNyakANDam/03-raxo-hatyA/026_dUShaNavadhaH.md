@@ -85,7 +85,7 @@ monstrous impetus, and who knew no retreat in war, to attack Rama. [3-26-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his own army being slaughtered (svakaṃ sainyaṃ hanyamānaṃ vilokya), mighty-armed Dūṣaṇa (dūṣaṇas tu mahā-bāhuḥ) ordered forward [troops] of terrible impetuosity (bhīma-vegān), hard to assail (durāsadān)—
+Seeing his own army being slaughtered (_svakaṃ sainyaṃ hanyamānaṃ vilokya_), mighty-armed Dūṣaṇa (_dūṣaṇas tu mahā-bāhuḥ_) ordered forward [troops] of terrible impetuosity (_bhīma-vegān_), hard to assail (_durāsadān_)—
 </details>
 </details>
 
@@ -138,7 +138,7 @@ and inordinately upon Rama from all over. [3-26-2b, 3a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Five thousand rākṣasas (rākṣasān pañca-sāhasrān) who never retreated in battles (samareṣv anivartinaḥ). With pikes, paṭṭiśa spears, swords, showers of boulders, and trees as well (śūlaiḥ paṭṭiśaiḥ khaḍgaiḥ śilā-varṣair drumair api)—
+Five thousand _rākṣasas_ (_rākṣasān pañca-sāhasrān_) who never retreated in battles (_samareṣv anivartinaḥ_). With pikes, _paṭṭiśa_ spears, swords, showers of boulders, and trees as well (_śūlaiḥ paṭṭiśaiḥ khaḍgaiḥ śilā-varṣair drumair api_)—
 </details>
 </details>
 
@@ -191,7 +191,7 @@ and trees with his fierce arrows. [3-26-3b, 4a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And with showers of arrows (śara-varṣaiḥ), they rained upon him unceasingly from every side (avicchinnaṃ vavarṣus taṃ samantataḥ). That mighty, life-destroying shower of trees and rocks (tad drumāṇāṃ śilānāṃ ca varṣaṃ prāṇa-haraṃ mahat)—
+And with showers of arrows (_śara-varṣaiḥ_), they rained upon him unceasingly from every side (_avicchinnaṃ vavarṣus taṃ samantataḥ_). That mighty, life-destroying shower of trees and rocks (_tad drumāṇāṃ śilānāṃ ca varṣaṃ prāṇa-haraṃ mahat_)—
 </details>
 </details>
 
@@ -244,7 +244,7 @@ infuriation for eliminating all of the demons. [3-26-4b, 5a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteous-souled Rāghava (dharmātmā rāghavaḥ) intercepted with his sharp-pointed shafts (pratijagrāha tīkṣṇa-sāyakaiḥ). Having received that downpour (pratigṛhya ca tad varṣam) like a bull with half-closed eyes (nimīlita ivarṣabhaḥ)—
+Righteous-souled Rāghava (_dharmātmā rāghavaḥ_) intercepted with his sharp-pointed shafts (_pratijagrāha tīkṣṇa-sāyakaiḥ_). Having received that downpour (_pratigṛhya ca tad varṣam_) like a bull with half-closed eyes (_nimīlita ivarṣabhaḥ_)—
 </details>
 </details>
 
@@ -296,7 +296,7 @@ then diffused Duushana and his army with arrows from all over. [3-26-5b, 6a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma conceived supreme wrath (krodhaṃ paraṃ lebhe) for the slaying of all the rākṣasas (vadhārthaṃ sarva-rakṣasām). Then, filled with wrath (krodha-samāviṣṭaḥ) and blazing, as it were, with fiery splendour (pradīpta iva tejasā)—
+Rāma conceived supreme wrath (_krodhaṃ paraṃ lebhe_) for the slaying of all the _rākṣasas_ (_vadhārthaṃ sarva-rakṣasām_). Then, filled with wrath (_krodha-samāviṣṭaḥ_) and blazing, as it were, with fiery splendour (_pradīpta iva tejasā_)—
 </details>
 </details>
 
@@ -348,7 +348,7 @@ forestalled Raghava's onslaught with his arrows that are simulative of thunderbo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He showered the army along with Dūṣaṇa (sainyaṃ saha-dūṣaṇam) on all sides with his arrows (śarair abhyakirat sarvataḥ). Thereupon the enraged commander-in-chief Dūṣaṇa (senā-patiḥ kruddho dūṣaṇaḥ), the afflicter of foes (śatru-dūṣaṇaḥ)—
+He showered the army along with Dūṣaṇa (_sainyaṃ saha-dūṣaṇam_) on all sides with his arrows (_śarair abhyakirat sarvataḥ_). Thereupon the enraged commander-in-chief Dūṣaṇa (_senā-patiḥ kruddho dūṣaṇaḥ_), the afflicter of foes (_śatru-dūṣaṇaḥ_)—
 </details>
 </details>
 
@@ -442,9 +442,9 @@ skill addressed / Stood quivering in the giant's breast. - Griffith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** —Checked that Rāghava (taṃ rāghavaṃ samavārayat) with arrows resembling thunderbolts (śarair aśani-kalpaiḥ). Then Rāma, filled with fierce wrath (susaṃkruddhaḥ), with a razor-edged arrow (kṣureṇa) [severed] his mighty bow (asya mahad dhanuḥ)—
+**7:** —Checked that Rāghava (_taṃ rāghavaṃ samavārayat_) with arrows resembling thunderbolts (_śarair aśani-kalpaiḥ_). Then Rāma, filled with fierce wrath (_susaṃkruddhaḥ_), with a razor-edged arrow (_kṣureṇa_) [severed] his mighty bow (_asya mahad dhanuḥ_)—
 
-**8:** In battle, the hero (ciccheda samare vīraḥ), and [struck] his four steeds with four shafts (caturbhiś caturo hayān). Having slain the steeds with sharp arrows (hatvā cāśvān śarais tīkṣṇaiḥ), with a crescent-headed shaft (ardha-candreṇa) [he severed] the charioteer's—
+**8:** In battle, the hero (_ciccheda samare vīraḥ_), and [struck] his four steeds with four shafts (_caturbhiś caturo hayān_). Having slain the steeds with sharp arrows (_hatvā cāśvān śarais tīkṣṇaiḥ_), with a crescent-headed shaft (_ardha-candreṇa_) [he severed] the charioteer&#x27;s—
 </details>
 </details>
 
@@ -477,9 +477,9 @@ skill addressed / Stood quivering in the giant's breast. - Griffith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Head (śiro jahāra sāratheḥ), and pierced that rākṣasa in the chest with three shafts (tad rakṣas tribhir vivyādha vakṣasi). With his bow cloven (chinna-dhanvā), deprived of his chariot (virathaḥ), his steeds slain (hatāśvaḥ), and his charioteer killed (hata-sārathiḥ)—
+**9:** Head (_śiro jahāra sāratheḥ_), and pierced that _rākṣasa_ in the chest with three shafts (_tad rakṣas tribhir vivyādha vakṣasi_). With his bow cloven (_chinna-dhanvā_), deprived of his chariot (_virathaḥ_), his steeds slain (_hatāśvaḥ_), and his charioteer killed (_hata-sārathiḥ_)—
 
-**10:** He seized a hair-raising iron-bound club (parighaṃ roma-harṣaṇam) resembling a mountain peak (giri-śṛṅgābham), banded with golden plates (veṣṭitaṃ kāñcanaiḥ paṭṭaiḥ) and crushing to the armies of the gods (deva-sainyābhimardanam)—
+**10:** He seized a hair-raising iron-bound club (_parighaṃ roma-harṣaṇam_) resembling a mountain peak (_giri-śṛṅgābham_), banded with golden plates (_veṣṭitaṃ kāñcanaiḥ paṭṭaiḥ_) and crushing to the armies of the gods (_deva-sainyābhimardanam_)—
 </details>
 </details>
 
@@ -533,7 +533,7 @@ and a ransacker of the archways of fortresses of his adversaries. [3-26-9b, 10, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Studded with sharp iron spikes (āyasaiḥ śaṅkubhis tīkṣṇaiḥ kīrṇam), bespattered with the marrow of foes (para-vasokṣitam), equal in impact to a diamond or thunderbolt (vajrāśani-sama-sparśam), and shattering the city-gates of enemies (para-gopura-dāraṇam).
+Studded with sharp iron spikes (_āyasaiḥ śaṅkubhis tīkṣṇaiḥ kīrṇam_), bespattered with the marrow of foes (_para-vasokṣitam_), equal in impact to a diamond or thunderbolt (_vajrāśani-sama-sparśam_), and shattering the city-gates of enemies (_para-gopura-dāraṇam_).
 </details>
 </details>
 
@@ -585,7 +585,7 @@ to snakebite, rushed that nightwalker Duushana with infernal exerts rushed towar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping in battle that club which resembled a huge serpent (taṃ mahoraga-saṃkāśaṃ pragṛhya parigham), Dūṣaṇa, the night-stalker of cruel deeds (krūra-karmā niśācaraḥ), rushed upon Rāma (abhyapatad rāmam).
+Grasping in battle that club which resembled a huge serpent (_taṃ mahoraga-saṃkāśaṃ pragṛhya parigham_), Dūṣaṇa, the night-stalker of cruel deeds (_krūra-karmā niśācaraḥ_), rushed upon Rāma (_abhyapatad rāmam_).
 </details>
 </details>
 
@@ -648,7 +648,7 @@ on his arms with two arrows. [3-26-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that Dūṣaṇa rushed forward (tasyābhipatamānasya dūṣaṇasya), Rāghava with two arrows severed both his arms (dvābhyāṃ śarābhyāṃ ciccheda bhujau) together with their wrist-ornaments (sahastābharaṇau).
+As that Dūṣaṇa rushed forward (_tasyābhipatamānasya dūṣaṇasya_), Rāghava with two arrows severed both his arms (_dvābhyāṃ śarābhyāṃ ciccheda bhujau_) together with their wrist-ornaments (_sahastābharaṇau_).
 </details>
 </details>
 
@@ -703,7 +703,7 @@ front, like the flagstaff with flag raised in honour of Indra, and collapsed . [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slipping from him whose hands were severed (bhraṣṭas tasya chinna-hastasya), that huge-bodied club (mahā-kāyaḥ parighaḥ) fell at the forefront of battle (papāta raṇa-mūrdhani agrataḥ) like the banner-staff of Indra (śakra-dhvaja iva).
+Slipping from him whose hands were severed (_bhraṣṭas tasya chinna-hastasya_), that huge-bodied club (_mahā-kāyaḥ parighaḥ_) fell at the forefront of battle (_papāta raṇa-mūrdhani agrataḥ_) like the banner-staff of Indra (_śakra-dhvaja iva_).
 </details>
 </details>
 
@@ -754,7 +754,7 @@ when both of its tusks are broken down. [3-26-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And with his two hands scattered (karābhyāṃ ca vikīrṇābhyām), Dūṣaṇa fell upon the earth (papāta bhuvi) like a high-spirited great elephant (manasvīva mahā-gajaḥ) whose two tusks have been shattered (viṣāṇābhyāṃ viśīrṇābhyām).
+And with his two hands scattered (_karābhyāṃ ca vikīrṇābhyām_), Dūṣaṇa fell upon the earth (_papāta bhuvi_) like a high-spirited great elephant (_manasvīva mahā-gajaḥ_) whose two tusks have been shattered (_viṣāṇābhyāṃ viśīrṇābhyām_).
 </details>
 </details>
 
@@ -806,7 +806,7 @@ good...' [3-26-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that Dūṣaṇa slain in battle and fallen to the ground (dṛṣṭvā taṃ patitaṃ bhūmau dūṣaṇaṃ nihataṃ raṇe), all beings acclaimed Kākutstha (kākutsthaṃ sarva-bhūtāny apūjayan), crying, “Bravo! Bravo (sādhu sādhv iti)!”
+Beholding that Dūṣaṇa slain in battle and fallen to the ground (_dṛṣṭvā taṃ patitaṃ bhūmau dūṣaṇaṃ nihataṃ raṇe_), all beings acclaimed Kākutstha (_kākutsthaṃ sarva-bhūtāny apūjayan_), crying, “Bravo! Bravo (_sādhu sādhv iti_)!”
 </details>
 </details>
 
@@ -864,7 +864,7 @@ and great mighty Pramaathii, and they collectively ran towards Rama, bound by th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime (etasminn antare), three enraged vanguard commanders (trayaḥ senāgra-yāyinaḥ), bound fast in the nooses of Death (mṛtyu-pāśāvapāśitāḥ), banded together and rushed at Rāma (saṃhatyābhyadravan rāmam)—
+In the meantime (_etasminn antare_), three enraged vanguard commanders (_trayaḥ senāgra-yāyinaḥ_), bound fast in the nooses of Death (_mṛtyu-pāśāvapāśitāḥ_), banded together and rushed at Rāma (_saṃhatyābhyadravan rāmam_)—
 </details>
 </details>
 
@@ -915,7 +915,7 @@ towards Rama. [3-26-18b, 19a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mahākapāla, Sthūlākṣa, and Pramāthī of mighty strength (pramāthī ca mahā-balaḥ): the rākṣasa Mahākapāla lifting up a massive pike (vipulaṃ śūlam udyamya)—
+Mahākapāla, Sthūlākṣa, and Pramāthī of mighty strength (_pramāthī ca mahā-balaḥ_): the _rākṣasa_ Mahākapāla lifting up a massive pike (_vipulaṃ śūlam udyamya_)—
 </details>
 </details>
 
@@ -977,7 +977,7 @@ arrows, when he saw them coming and falling upon him, inopportunely. [3-26-19b, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sthūlākṣa grasping a paṭṭiśa spear (paṭṭiśaṃ gṛhya), and Pramāthī a battle-axe (paraśvadham). The very instant he saw them rushing forward (dṛṣṭvaivāpatatas tān), Rāghava with whetted arrows (sāyakaiḥ śitaiḥ)—
+Sthūlākṣa grasping a _paṭṭiśa_ spear (_paṭṭiśaṃ gṛhya_), and Pramāthī a battle-axe (_paraśvadham_). The very instant he saw them rushing forward (_dṛṣṭvaivāpatatas tān_), Rāghava with whetted arrows (_sāyakaiḥ śitaiḥ_)—
 </details>
 </details>
 
@@ -1010,9 +1010,9 @@ Sthūlākṣa grasping a paṭṭiśa spear (paṭṭiśaṃ gṛhya), and Pram�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Sharp-pointed (tīkṣṇāgraiḥ), received them like newly arrived guests (pratijagrāha samprāptān atithīn iva): the delight of the Raghus (raghu-nandanaḥ) severed the head of Mahākapāla (mahākapālasya śiraś ciccheda),
+**20:** Sharp-pointed (_tīkṣṇāgraiḥ_), received them like newly arrived guests (_pratijagrāha samprāptān atithīn iva_): the delight of the Raghus (_raghu-nandanaḥ_) severed the head of Mahākapāla (_mahākapālasya śiraś ciccheda_),
 
-**21:** Crushed Pramāthī (pramamātha pramāthinam) with countless floods of arrows (asaṃkhyeyais tu bāṇaughaiḥ), and filled the bulging eyes of Sthūlākṣa with shafts (sthūlākṣasyākṣiṇī sthūle pūrayām āsa sāyakaiḥ).
+**21:** Crushed Pramāthī (_pramamātha pramāthinam_) with countless floods of arrows (_asaṃkhyeyais tu bāṇaughaiḥ_), and filled the bulging eyes of Sthūlākṣa with shafts (_sthūlākṣasyākṣiṇī sthūle pūrayām āsa sāyakaiḥ_).
 </details>
 </details>
 
@@ -1077,7 +1077,7 @@ is available in both words. Readers may please refer to the excellent book of Dr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Slain, he fell to the earth (sa papāta hato bhūmau) like a great branching tree (viṭapīva mahā-drumaḥ). And in a single instant (kṣaṇāt), the enraged [Rāma] (kupitaḥ), [smiting] Dūṣaṇa's five thousand followers (dūṣaṇasyānugān pañca-sāhasrān)—
+Slain, he fell to the earth (_sa papāta hato bhūmau_) like a great branching tree (_viṭapīva mahā-drumaḥ_). And in a single instant (_kṣaṇāt_), the enraged [Rāma] (_kupitaḥ_), [smiting] Dūṣaṇa&#x27;s five thousand followers (_dūṣaṇasyānugān pañca-sāhasrān_)—
 </details>
 </details>
 
@@ -1169,11 +1169,11 @@ demons. [3-26-24b, 25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Slaying them with five thousand [shafts] (hatvā tu pañca-sāhasraiḥ), dispatched them to the abode of Yama (anayad yama-sādanam). Hearing that Dūṣaṇa was slain (dūṣaṇaṃ nihataṃ śrutvā) along with his followers (tasya caiva padānugān)—
+**23:** Slaying them with five thousand [shafts] (_hatvā tu pañca-sāhasraiḥ_), dispatched them to the abode of Yama (_anayad yama-sādanam_). Hearing that Dūṣaṇa was slain (_dūṣaṇaṃ nihataṃ śrutvā_) along with his followers (_tasya caiva padānugān_)—
 
-**24:** The enraged Khara (kharaḥ kruddhaḥ) commanded his mighty army-commanders (vyādideśa senādhyakṣān mahā-balān): “This Dūṣaṇa, together with his followers (sapadānugaḥ), has been slain in battle (vinihataḥ saṃkhye)!
+**24:** The enraged Khara (_kharaḥ kruddhaḥ_) commanded his mighty army-commanders (_vyādideśa senādhyakṣān mahā-balān_): “This Dūṣaṇa, together with his followers (_sapadānugaḥ_), has been slain in battle (_vinihataḥ saṃkhye_)!
 
-**25:** “Fighting together with the mighty army (mahatyā senayā sārdhaṃ yuddhvā), slay that wretched mortal Rāma (rāmaṃ kumānuṣam) with weapons of diverse forms (śastrair nānā-vidhākāraiḥ), O all you rākṣasas (hanadhvaṃ sarva-rākṣasāḥ)!”
+**25:** “Fighting together with the mighty army (_mahatyā senayā sārdhaṃ yuddhvā_), slay that wretched mortal Rāma (_rāmaṃ kumānuṣam_) with weapons of diverse forms (_śastrair nānā-vidhākāraiḥ_), O all you _rākṣasas_ (_hanadhvaṃ sarva-rākṣasāḥ_)!”
 </details>
 </details>
 
@@ -1244,11 +1244,11 @@ launching their atrocious arrows. [3-26-26, 27, 28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** Having spoken thus, the enraged Khara rushed straight at Rāma (rāmam evābhidudruve); and Śyenagāmī, Pṛthugrīva, Yajñaśatru, and Vihaṃgama—
+**26:** Having spoken thus, the enraged Khara rushed straight at Rāma (_rāmam evābhidudruve_); and Śyenagāmī, Pṛthugrīva, Yajñaśatru, and Vihaṃgama—
 
 **27:** Durjaya, Karavīrākṣa, Paruṣa, and Kālakārmuka; Hemamālī, Mahāmālī, Sarpāsya, and Rudhirāśana—
 
-**28:** These twelve army-commanders of mighty valour (dvādaśaite mahā-vīryā balādhyakṣāḥ), together with their troops (sasainikāḥ), rushed straight at Rāma (rāmam evābhyadhāvanta), discharging foremost of arrows (visṛjantaḥ śarottamān).
+**28:** These twelve army-commanders of mighty valour (_dvādaśaite mahā-vīryā balādhyakṣāḥ_), together with their troops (_sasainikāḥ_), rushed straight at Rāma (_rāmam evābhyadhāvanta_), discharging foremost of arrows (_visṛjantaḥ śarottamān_).
 </details>
 </details>
 
@@ -1299,7 +1299,7 @@ are embellished with gold and diamonds, and that are blazing like ritual-fires. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with fire-bright shafts (pāvaka-saṃkāśaiḥ sāyakaiḥ) decked with gold and diamonds (hema-vajra-vibhūṣitaiḥ), the splendid [Rāma] (tejasvī) slew the remainder of that army (jaghāna śeṣaṃ tasya sainyasya).
+Then, with fire-bright shafts (_pāvaka-saṃkāśaiḥ sāyakaiḥ_) decked with gold and diamonds (_hema-vajra-vibhūṣitaiḥ_), the splendid [Rāma] (_tejasvī_) slew the remainder of that army (_jaghāna śeṣaṃ tasya sainyasya_).
 </details>
 </details>
 
@@ -1359,7 +1359,7 @@ fires Rama felled the demons, as Thunderbolts of Indra will be felling gigantic 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those gold-shafted arrows (rukma-puṅkhā viśikhāḥ), like smoking fires (sadhūmā iva pāvakāḥ), struck down those rākṣasas (nijaghnus tāni rakṣāṃsi) as thunderbolts [strike down] great trees (vajrā iva mahā-drumān).
+Those gold-shafted arrows (_rukma-puṅkhā viśikhāḥ_), like smoking fires (_sadhūmā iva pāvakāḥ_), struck down those _rākṣasas_ (_nijaghnus tāni rakṣāṃsi_) as thunderbolts [strike down] great trees (_vajrā iva mahā-drumān_).
 </details>
 </details>
 
@@ -1414,7 +1414,7 @@ more demons are hit in the forefront of that war. [3-26-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a single hundred of barbed karṇī shafts (śatenaikena karṇinā), Rāma slew a hundred of the rākṣasas (rakṣasāṃ tu śataṃ jaghāna), and with a thousand [he slew] a thousand at the forefront of battle (sahasraṃ tu sahasreṇa raṇa-mūrdhani).
+With a single hundred of barbed _karṇī_ shafts (_śatenaikena karṇinā_), Rāma slew a hundred of the _rākṣasas_ (_rakṣasāṃ tu śataṃ jaghāna_), and with a thousand [he slew] a thousand at the forefront of battle (_sahasraṃ tu sahasreṇa raṇa-mūrdhani_).
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ fell flat on ground, bodies wholly smudged with blood. [3-26-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their armour and ornaments shattered by those [shafts] (tair bhinna-varmābharaṇāḥ) and their bows cloven and split (chinna-bhinna-śarāsanāḥ), the blood-smeared night-stalkers (śoṇitādigdhā rajanīcarāḥ) fell upon the earth (nipetur dharaṇyām).
+With their armour and ornaments shattered by those [shafts] (_tair bhinna-varmābharaṇāḥ_) and their bows cloven and split (_chinna-bhinna-śarāsanāḥ_), the blood-smeared night-stalkers (_śoṇitādigdhā rajanīcarāḥ_) fell upon the earth (_nipetur dharaṇyām_).
 </details>
 </details>
 
@@ -1521,7 +1521,7 @@ entire earth looked like a vast altar of fire overspread with holy grass. [3-26-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With those [demons] fallen in battle (tair patitaiḥ samare), their hair dishevelled (mukta-keśaiḥ) and their bodies drenched in blood (śoṇitokṣitaiḥ), the entire earth was strewn over (vistīrṇā vasudhā kṛtsnā), like a great sacrificial altar strewn with kuśa grass (mahā-vediḥ kuśair iva).
+With those [demons] fallen in battle (_tair patitaiḥ samare_), their hair dishevelled (_mukta-keśaiḥ_) and their bodies drenched in blood (_śoṇitokṣitaiḥ_), the entire earth was strewn over (_vistīrṇā vasudhā kṛtsnā_), like a great sacrificial altar strewn with _kuśa_ grass (_mahā-vediḥ kuśair iva_).
 </details>
 </details>
 
@@ -1566,7 +1566,7 @@ moment it became identical with hell. [3-26-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that instant (tat-kṣaṇe), that dreadfully terrible forest (mahā-ghoraṃ vanam), with its rākṣasas slain (nihata-rākṣasam) and its mire of flesh and blood (māṃsa-śoṇita-kardamam), became like hell itself (babhūva niraya-prakhyam).
+In that instant (_tat-kṣaṇe_), that dreadfully terrible forest (_mahā-ghoraṃ vanam_), with its _rākṣasas_ slain (_nihata-rākṣasam_) and its mire of flesh and blood (_māṃsa-śoṇita-kardamam_), became like hell itself (_babhūva niraya-prakhyam_).
 </details>
 </details>
 
@@ -1626,7 +1626,7 @@ exploits. [3-26-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fourteen thousand rākṣasas of dreadful deeds (caturdaśa-sahasrāṇi rakṣasāṃ bhīma-karmaṇām) were slain by Rāma alone (hatāny ekena rāmeṇa)—a mortal fighting on foot (mānuṣeṇa padātinā).
+Fourteen thousand _rākṣasas_ of dreadful deeds (_caturdaśa-sahasrāṇi rakṣasāṃ bhīma-karmaṇām_) were slain by Rāma alone (_hatāny ekena rāmeṇa_)—a mortal fighting on foot (_mānuṣeṇa padātinā_).
 </details>
 </details>
 
@@ -1689,7 +1689,7 @@ coming chapters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of all that host (tasya sainyasya sarvasya), only the great chariot-warrior Khara remained (kharaḥ śeṣo mahā-rathaḥ), along with the rākṣasa Triśiras (rākṣasas triśirāś caiva), and Rāma, the destroyer of foes (rāmaś ca ripu-sūdanaḥ).
+Of all that host (_tasya sainyasya sarvasya_), only the great chariot-warrior Khara remained (_kharaḥ śeṣo mahā-rathaḥ_), along with the _rākṣasa_ Triśiras (_rākṣasas triśirāś caiva_), and Rāma, the destroyer of foes (_rāmaś ca ripu-sūdanaḥ_).
 </details>
 </details>
 
@@ -1741,7 +1741,7 @@ highly valorous, ghastly and unbearable. [3-26-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the remaining rākṣasas (śeṣāḥ sarve te rākṣasāḥ)—of mighty valour (mahā-vīryāḥ), dreadful, and irresistible (ghorā durviṣahāḥ)—were slain at the forefront of battle (hatā raṇa-mūrdhani) by the elder brother of Lakṣmaṇa (lakṣmaṇasyāgrajena).
+All the remaining _rākṣasas_ (_śeṣāḥ sarve te rākṣasāḥ_)—of mighty valour (_mahā-vīryāḥ_), dreadful, and irresistible (_ghorā durviṣahāḥ_)—were slain at the forefront of battle (_hatā raṇa-mūrdhani_) by the elder brother of Lakṣmaṇa (_lakṣmaṇasyāgrajena_).
 </details>
 </details>
 
@@ -1813,7 +1813,7 @@ then marched on to reach Rama in a huge chariot, as with Indra who will march up
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding that dread army (tad bhīma-balam) slain in the great battle by the mightier Rāma (mahāhave samīkṣya rāmeṇa hataṃ balīyasā), Khara thereupon advanced against Rāma in his great chariot (rathena rāmaṃ mahatā kharas tataḥ samāsasāda), like Indra with upraised thunderbolt (indra ivodyatāśaniḥ).
+Then, beholding that dread army (_tad bhīma-balam_) slain in the great battle by the mightier Rāma (_mahāhave samīkṣya rāmeṇa hataṃ balīyasā_), Khara thereupon advanced against Rāma in his great chariot (_rathena rāmaṃ mahatā kharas tataḥ samāsasāda_), like Indra with upraised thunderbolt (_indra ivodyatāśaniḥ_).
 </details>
 </details>
 

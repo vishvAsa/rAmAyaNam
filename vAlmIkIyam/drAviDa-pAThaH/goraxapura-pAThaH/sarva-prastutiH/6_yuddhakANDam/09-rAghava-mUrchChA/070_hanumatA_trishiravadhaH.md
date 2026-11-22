@@ -89,7 +89,7 @@ foremost of demons, wept.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Narāntaka slain, the foremost of night-stalkers (nairṛtarṣabhāḥ) cried out in grief—Devāntaka, three-headed Triśiras (trimūrdhā), and the Paulastya Mahodara.
+Seeing Narāntaka slain, the foremost of night-stalkers (_nairṛtarṣabhāḥ_) cried out in grief—Devāntaka, three-headed Triśiras (_trimūrdhā_), and the Paulastya Mahodara.
 </details>
 </details>
 
@@ -144,7 +144,7 @@ of great energy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounted upon a lordly elephant (vāraṇendram) resembling a dark storm-cloud, the swift Mahodara rushed violently against Vāli's son of mighty valor (mahāvīryam).
+Mounted upon a lordly elephant (_vāraṇendram_) resembling a dark storm-cloud, the swift Mahodara rushed violently against Vāli&#x27;s son of mighty valor (_mahāvīryam_).
 </details>
 </details>
 
@@ -181,7 +181,7 @@ Mounted upon a lordly elephant (vāraṇendram) resembling a dark storm-cloud, t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tormented by the calamity of his brother's death (bhrātṛvyasanasantaptaḥ), the powerful Devāntaka seized a dreadful iron bludgeon (parigham) and charged at Aṅgada.
+Tormented by the calamity of his brother&#x27;s death (_bhrātṛvyasanasantaptaḥ_), the powerful Devāntaka seized a dreadful iron bludgeon (_parigham_) and charged at Aṅgada.
 </details>
 </details>
 
@@ -233,7 +233,7 @@ with excellent horses, marched towards Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ascending a chariot radiant as the sun (ādityasaṅkāśam) and yoked with finest steeds, the heroic Triśiras likewise advanced upon the son of Vāli.
+Ascending a chariot radiant as the sun (_ādityasaṅkāśam_) and yoked with finest steeds, the heroic Triśiras likewise advanced upon the son of Vāli.
 </details>
 </details>
 
@@ -307,9 +307,9 @@ Indra the lord of celestials would a blazing thunderbolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Assailed at once by those three rākṣasa lords who crushed the pride of the gods (devadarpaghnaiḥ), Aṅgada uprooted a mighty tree with sprawling boughs (mahāviṭapam).
+**5:** Assailed at once by those three rākṣasa lords who crushed the pride of the gods (_devadarpaghnaiḥ_), Aṅgada uprooted a mighty tree with sprawling boughs (_mahāviṭapam_).
 
-**6:** With sudden force the hero Aṅgada hurled that great wide-branching tree (mahāśākham) at Devāntaka, just as Śakra hurls a blazing thunderbolt (aśanim).
+**6:** With sudden force the hero Aṅgada hurled that great wide-branching tree (_mahāśākham_) at Devāntaka, just as Śakra hurls a blazing thunderbolt (_aśanim_).
 </details>
 </details>
 
@@ -397,9 +397,9 @@ Trishara chopped them off with his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Triśiras severed that tree with shafts resembling venomous serpents (āśīviṣopamaiḥ); beholding the tree cut down (kṛttam), Aṅgada at once leaped high into the air.
+**7:** Triśiras severed that tree with shafts resembling venomous serpents (_āśīviṣopamaiḥ_); beholding the tree cut down (_kṛttam_), Aṅgada at once leaped high into the air.
 
-**8:** That bull among monkeys (kapikuñjaraḥ) then rained down trees and boulders (śilāś ca), which the enraged Triśiras clove apart with whetted arrows (niśitaiḥ śaraiḥ).
+**8:** That bull among monkeys (_kapikuñjaraḥ_) then rained down trees and boulders (_śilāś ca_), which the enraged Triśiras clove apart with whetted arrows (_niśitaiḥ śaraiḥ_).
 </details>
 </details>
 
@@ -451,7 +451,7 @@ arrows attacked the valiant Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the tip of his iron club (parighāgreṇa), Mahodara shattered those trees, while Triśiras rushed upon the heroic Aṅgada with flights of shafts (sāyakaiḥ).
+With the tip of his iron club (_parighāgreṇa_), Mahodara shattered those trees, while Triśiras rushed upon the heroic Aṅgada with flights of shafts (_sāyakaiḥ_).
 </details>
 </details>
 
@@ -503,7 +503,7 @@ his chest with javelins looking like thunderbolts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Charging the son of Vāli on his elephant, the furious Mahodara struck him across the chest (urasi) with javelins (tomaraiḥ) resembling thunderbolts.
+Charging the son of Vāli on his elephant, the furious Mahodara struck him across the chest (_urasi_) with javelins (_tomaraiḥ_) resembling thunderbolts.
 </details>
 </details>
 
@@ -555,7 +555,7 @@ a club and went off to a distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devāntaka too, filled with wrath, rushed up (upagamya), smote Aṅgada with his iron bludgeon (parigheṇa), and swiftly wheeled away (vyapacakrāma) at full speed.
+Devāntaka too, filled with wrath, rushed up (_upagamya_), smote Aṅgada with his iron bludgeon (_parigheṇa_), and swiftly wheeled away (_vyapacakrāma_) at full speed.
 </details>
 </details>
 
@@ -607,7 +607,7 @@ of great prowess and splendour, did not get alarmed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though assailed simultaneously (yugapat) by those three foremost of night-stalkers (nairṛtaśreṣṭhaiḥ), Vāli's glorious and valiant son did not waver (na vivyathe).
+Though assailed simultaneously (_yugapat_) by those three foremost of night-stalkers (_nairṛtaśreṣṭhaiḥ_), Vāli&#x27;s glorious and valiant son did not waver (_na vivyathe_).
 </details>
 </details>
 
@@ -667,7 +667,7 @@ attacking well, struck Devantaka's elephant with his palm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Summoning tremendous speed (mahāvegam), that swift and supremely invincible prince rushed forward and struck [Mahodara's] great elephant (mahāgajam) with his open palm (talena).
+Summoning tremendous speed (_mahāvegam_), that swift and supremely invincible prince rushed forward and struck [Mahodara&#x27;s] great elephant (_mahāgajam_) with his open palm (_talena_).
 </details>
 </details>
 
@@ -719,7 +719,7 @@ elephant died.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the force of that blow (prahāreṇa) upon the lordly elephant in battle, both its eyes (nayane) burst from their sockets and the tusker perished (vinanāśa).
+From the force of that blow (_prahāreṇa_) upon the lordly elephant in battle, both its eyes (_nayane_) burst from their sockets and the tusker perished (_vinanāśa_).
 </details>
 </details>
 
@@ -771,7 +771,7 @@ Devantaka quickly and struck him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wrenching out (niṣkṛṣya) its tusk (viṣāṇam), the mighty son of Vāli charged Devāntaka and beat him down in the fray (saṃyuge).
+Wrenching out (_niṣkṛṣya_) its tusk (_viṣāṇam_), the mighty son of Vāli charged Devāntaka and beat him down in the fray (_saṃyuge_).
 </details>
 </details>
 
@@ -826,7 +826,7 @@ by the wind and emitted plenty of blood with the colour of a lacquer.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reeling (vihvalaḥ) like a tree buffeted by the wind (vātoddhūta iva drumaḥ), that fiery warrior shed a great stream of blood matching the crimson hue of lac-dye (lākṣārasasavarṇam).
+Reeling (_vihvalaḥ_) like a tree buffeted by the wind (_vātoddhūta iva drumaḥ_), that fiery warrior shed a great stream of blood matching the crimson hue of lac-dye (_lākṣārasasavarṇam_).
 </details>
 </details>
 
@@ -879,7 +879,7 @@ great difficulty, then struck Angada violently, by firmly holding an iron rod.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recovering his breath (āśvāsya) with great difficulty (kṛcchrāt), the powerful and glorious Devāntaka whirled his iron bludgeon with force and struck Aṅgada.
+Recovering his breath (_āśvāsya_) with great difficulty (_kṛcchrāt_), the powerful and glorious Devāntaka whirled his iron bludgeon with force and struck Aṅgada.
 </details>
 </details>
 
@@ -931,7 +931,7 @@ the earth, but again jumped up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by the iron bludgeon (parighābhihataḥ), the son of the monkey king fell to the ground upon his knees (jānubhyām), yet immediately sprang back up (punar evotpapāta).
+Struck by the iron bludgeon (_parighābhihataḥ_), the son of the monkey king fell to the ground upon his knees (_jānubhyām_), yet immediately sprang back up (_punar evotpapāta_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ terrific and straight-going arrows on his forehead.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as the son of the monkey lord was springing upward (utpatantam), Triśiras struck him across the forehead (lalāṭe) with three dreadful, straight-flying shafts (ajihmagaiḥ).
+Even as the son of the monkey lord was springing upward (_utpatantam_), Triśiras struck him across the forehead (_lalāṭe_) with three dreadful, straight-flying shafts (_ajihmagaiḥ_).
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving Aṅgada hemmed in (parikṣiptam) by those three bulls among night-stalkers (nairṛtapuṅgavaiḥ), Hanūmān and Nīla at once strode forward to his aid.
+Perceiving Aṅgada hemmed in (_parikṣiptam_) by those three bulls among night-stalkers (_nairṛtapuṅgavaiḥ_), Hanūmān and Nīla at once strode forward to his aid.
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ the son of Ravana broke it by using his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Nīla hurled a mountain peak (śailāgram) at Triśiras, which Rāvaṇa's sagacious son (rāvaṇasuto dhīmān) split apart with whetted arrows.
+Thereupon Nīla hurled a mountain peak (_śailāgram_) at Triśiras, which Rāvaṇa&#x27;s sagacious son (_rāvaṇasuto dhīmān_) split apart with whetted arrows.
 </details>
 </details>
 
@@ -1145,7 +1145,7 @@ rocks, fell down with sparks of fire and flames.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cloven by a hundred shafts (bāṇaśatanirbhinnam) with its rocky surface shattered (vidāritaśilātalam), that mountain crest crashed down scattering sparks and flames (savisphuliṅgaṃ sajvālam).
+Cloven by a hundred shafts (_bāṇaśatanirbhinnam_) with its rocky surface shattered (_vidāritaśilātalam_), that mountain crest crashed down scattering sparks and flames (_savisphuliṅgaṃ sajvālam_).
 </details>
 </details>
 
@@ -1197,7 +1197,7 @@ towards him with his iron rod.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that display of prowess (vijṛmbhitam), the mighty Devāntaka in exultation (harṣāt) charged the son of the Wind-god with his iron bludgeon in battle.
+Beholding that display of prowess (_vijṛmbhitam_), the mighty Devāntaka in exultation (_harṣāt_) charged the son of the Wind-god with his iron bludgeon in battle.
 </details>
 </details>
 
@@ -1249,7 +1249,7 @@ Devantaka rushing upon him with his fist equal to a thunder-bolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping up to meet him as he rushed forward (āpatantam), Hanūmān, that bull among monkeys, smote him on the crown of his head (mūrdhni) with a thunderbolt-like fist (vajrakalpena muṣṭinā).
+Leaping up to meet him as he rushed forward (_āpatantam_), Hanūmān, that bull among monkeys, smote him on the crown of his head (_mūrdhni_) with a thunderbolt-like fist (_vajrakalpena muṣṭinā_).
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ the demons shake with the sound.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The mighty and heroic son of the Wind-god struck him upon the head (śirasi prāharat), and with his roar (nādena) that great monkey made the rākṣasas tremble.
+The mighty and heroic son of the Wind-god struck him upon the head (_śirasi prāharat_), and with his roar (_nādena_) that great monkey made the rākṣasas tremble.
 </details>
 </details>
 
@@ -1369,7 +1369,7 @@ dead on the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his skull crushed and cloven by that fist (muṣṭiniṣpiṣṭavibhinnamūrdhā), his teeth and eyes knocked out, and his tongue hanging limp (nirvāntadantākṣivilambijihvaḥ), Devāntaka, the rākṣasa king's son, suddenly fell lifeless (gatāsuḥ) to the earth.
+With his skull crushed and cloven by that fist (_muṣṭiniṣpiṣṭavibhinnamūrdhā_), his teeth and eyes knocked out, and his tongue hanging limp (_nirvāntadantākṣivilambijihvaḥ_), Devāntaka, the rākṣasa king&#x27;s son, suddenly fell lifeless (_gatāsuḥ_) to the earth.
 </details>
 </details>
 
@@ -1429,7 +1429,7 @@ Neela's chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that mighty chief of rākṣasa warriors, the foe of the gods (devaśatrau), was slain in battle, the enraged three-headed Triśiras (triśīrṣā) rained a fierce shower of whetted shafts upon Nīla's chest (nīlorasi).
+When that mighty chief of rākṣasa warriors, the foe of the gods (_devaśatrau_), was slain in battle, the enraged three-headed Triśiras (_triśīrṣā_) rained a fierce shower of whetted shafts upon Nīla&#x27;s chest (_nīlorasi_).
 </details>
 </details>
 
@@ -1460,7 +1460,7 @@ When that mighty chief of rākṣasa warriors, the foe of the gods (devaśatrau)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with wrath, Mahodara once again swiftly mounted (bhūyaḥ samadhiruhya) a mountain-like tusker, just as the radiant sun (raśmivān) ascends Mount Mandara.
+Filled with wrath, Mahodara once again swiftly mounted (_bhūyaḥ samadhiruhya_) a mountain-like tusker, just as the radiant sun (_raśmivān_) ascends Mount Mandara.
 </details>
 </details>
 
@@ -1510,7 +1510,7 @@ rumbling cloud with a circle of lightning, showers rain on a mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he loosed a shower of arrows (bāṇamayaṃ varṣam) down upon Nīla, as a thundercloud bearing its ring of lightning and rainbow (taḍiccakracāpavān) pours rain upon a mountain.
+Then he loosed a shower of arrows (_bāṇamayaṃ varṣam_) down upon Nīla, as a thundercloud bearing its ring of lightning and rainbow (_taḍiccakracāpavān_) pours rain upon a mountain.
 </details>
 </details>
 
@@ -1570,7 +1570,7 @@ paralyzed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pelted by those torrents of shafts (śaraughaiḥ) with his limbs rent asunder (vibhinnagātraḥ), Nīla, the commander of the monkey host (kapisainyapālaḥ), grew limp of limb (visṛṣṭagātraḥ), immobilized (viṣṭambhitaḥ) by that mighty warrior.
+Pelted by those torrents of shafts (_śaraughaiḥ_) with his limbs rent asunder (_vibhinnagātraḥ_), Nīla, the commander of the monkey host (_kapisainyapālaḥ_), grew limp of limb (_visṛṣṭagātraḥ_), immobilized (_viṣṭambhitaḥ_) by that mighty warrior.
 </details>
 </details>
 
@@ -1657,7 +1657,7 @@ iron rod, ran towards Angada.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Nīla, regaining consciousness (pratilabdhasaṃjñaḥ), uprooted a mountain crag together with its thickets of trees (savṛkṣakhaṇḍam); leaping up with terrible velocity (mahogravegaḥ), he struck Mahodara on the head with it.
+Then Nīla, regaining consciousness (_pratilabdhasaṃjñaḥ_), uprooted a mountain crag together with its thickets of trees (_savṛkṣakhaṇḍam_); leaping up with terrible velocity (_mahogravegaḥ_), he struck Mahodara on the head with it.
 </details>
 </details>
 
@@ -1721,7 +1721,7 @@ elephant too, lost his life and fell down on the earth like a mountain struck by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushed by the fall of that crag (śailābhinipātabhagnaḥ) along with his great elephant (tena mahādvipena), the senseless Mahodara fell lifeless to the ground like a mountain smitten by a thunderbolt (vajrābhihato yathādriḥ).
+Crushed by the fall of that crag (_śailābhinipātabhagnaḥ_) along with his great elephant (_tena mahādvipena_), the senseless Mahodara fell lifeless to the ground like a mountain smitten by a thunderbolt (_vajrābhihato yathādriḥ_).
 </details>
 </details>
 
@@ -1773,7 +1773,7 @@ his bow and struck Hanuma with sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his paternal uncle (pitṛvyam) slain, Triśiras seized his bow and in fury pierced Hanūmān with whetted shafts (niśitaiḥ śaraiḥ).
+Seeing his paternal uncle (_pitṛvyam_) slain, Triśiras seized his bow and in fury pierced Hanūmān with whetted shafts (_niśitaiḥ śaraiḥ_).
 </details>
 </details>
 
@@ -1819,7 +1819,7 @@ several pieces with his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged, that son of the Wind-god hurled a mountain peak (śikharaṃ gireḥ), which the mighty Triśiras split into many fragments (bahudhā) with sharp arrows.
+Enraged, that son of the Wind-god hurled a mountain peak (_śikharaṃ gireḥ_), which the mighty Triśiras split into many fragments (_bahudhā_) with sharp arrows.
 </details>
 </details>
 
@@ -1865,7 +1865,7 @@ towards Trishira in that battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that peak rendered vain (tad vyarthaṃ śikharaṃ dṛṣṭvā), the monkey then loosed a shower of trees (drumavarṣam) in that battle against the son of Rāvaṇa.
+Beholding that peak rendered vain (_tad vyarthaṃ śikharaṃ dṛṣṭvā_), the monkey then loosed a shower of trees (_drumavarṣam_) in that battle against the son of Rāvaṇa.
 </details>
 </details>
 
@@ -1911,7 +1911,7 @@ sharp arrows in the sky itself and roared aloud.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The valiant Triśiras clove that shower of trees with whetted shafts even as it hurtled through the sky (āpatantam ākāśe), and let out a roar (nanāda ca).
+The valiant Triśiras clove that shower of trees with whetted shafts even as it hurtled through the sky (_āpatantam ākāśe_), and let out a roar (_nanāda ca_).
 </details>
 </details>
 
@@ -1974,7 +1974,7 @@ Trishira's horse, as a lion tears asunder a large elephant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Springing upward in wrath, Hanūmān tore apart Triśiras's steed (hayam) with his claws (nakhaiḥ), just as a lion, king of beasts (mṛgarāḍ iva), rends a lordly elephant (nāgendram).
+Springing upward in wrath, Hanūmān tore apart Triśiras&#x27;s steed (_hayam_) with his claws (_nakhaiḥ_), just as a lion, king of beasts (_mṛgarāḍ iva_), rends a lordly elephant (_nāgendram_).
 </details>
 </details>
 
@@ -2027,7 +2027,7 @@ death takes in his service Kalaratri, a night of all-destroying time, hurled it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Triśiras, the son of Rāvaṇa, seized a javelin (śaktim) and hurled it at the son of the Wind-god, as Death (antakaḥ) hurls the Night of Doom (kālarātrim iva).
+Then Triśiras, the son of Rāvaṇa, seized a javelin (_śaktim_) and hurled it at the son of the Wind-god, as Death (_antakaḥ_) hurls the Night of Doom (_kālarātrim iva_).
 </details>
 </details>
 
@@ -2079,7 +2079,7 @@ broke it, even without its descending on him and roared too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Catching that javelin in mid-flight (asaṅgatām) as it flashed like a meteor cast from heaven (divaḥ kṣiptām ivolkām), that tiger among monkeys snapped it in two (babhañja) and roared.
+Catching that javelin in mid-flight (_asaṅgatām_) as it flashed like a meteor cast from heaven (_divaḥ kṣiptām ivolkām_), that tiger among monkeys snapped it in two (_babhañja_) and roared.
 </details>
 </details>
 
@@ -2132,7 +2132,7 @@ very much delighted and roared aloud like rumbling clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that dreadful-looking javelin (ghorasaṅkāśāṃ śaktim) shattered by Hanūmān, the jubilant troops of monkeys thundered like storm-clouds (vinedur jaladā yathā).
+Beholding that dreadful-looking javelin (_ghorasaṅkāśāṃ śaktim_) shattered by Hanūmān, the jubilant troops of monkeys thundered like storm-clouds (_vinedur jaladā yathā_).
 </details>
 </details>
 
@@ -2184,7 +2184,7 @@ Hanuma's breast.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brandishing his sword (khaḍgaṃ samudyamya), Triśiras, foremost of rākṣasas, then plunged the blade deep into the chest of the monkey lord (vānarendrasya vakṣasi).
+Brandishing his sword (_khaḍgaṃ samudyamya_), Triśiras, foremost of rākṣasas, then plunged the blade deep into the chest of the monkey lord (_vānarendrasya vakṣasi_).
 </details>
 </details>
 
@@ -2236,7 +2236,7 @@ Trishira on his breast, with his palm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by that sword-blow (khaḍgaprahārābhihataḥ), the valiant Hanūmān, son of the Wind-god, smote the three-headed warrior (trimūrdhānam) across the chest with his open palm (talenorasi).
+Struck by that sword-blow (_khaḍgaprahārābhihataḥ_), the valiant Hanūmān, son of the Wind-god, smote the three-headed warrior (_trimūrdhānam_) across the chest with his open palm (_talenorasi_).
 </details>
 </details>
 
@@ -2296,7 +2296,7 @@ the earth with the weapons slipping from his hand.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by his palm (talābhihataḥ), the glorious Triśiras fell senseless (tyaktacetanaḥ) to the earth, his weapons slipping from his hands (srastahastāyudhaḥ).
+Struck by his palm (_talābhihataḥ_), the glorious Triśiras fell senseless (_tyaktacetanaḥ_) to the earth, his weapons slipping from his hands (_srastahastāyudhaḥ_).
 </details>
 </details>
 
@@ -2351,7 +2351,7 @@ sword of Trishira, roared loudly frightening all the demons there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Snatching away (ācchidya) that sword of his as he fell, the mountain-like great monkey let out a roar, terrifying all the rākṣasas (trāsayan sarvarākṣasān).
+Snatching away (_ācchidya_) that sword of his as he fell, the mountain-like great monkey let out a roar, terrifying all the rākṣasas (_trāsayan sarvarākṣasān_).
 </details>
 </details>
 
@@ -2402,7 +2402,7 @@ Unable to bear that roar, the demon jumped up and struck Hanuma with his fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unable to brook that roar (amṛṣyamāṇas taṃ ghoṣam), the night-stalker sprang up, and leaping forward, struck Hanūmān with his fist (muṣṭinā).
+Unable to brook that roar (_amṛṣyamāṇas taṃ ghoṣam_), the night-stalker sprang up, and leaping forward, struck Hanūmān with his fist (_muṣṭinā_).
 </details>
 </details>
 
@@ -2454,7 +2454,7 @@ the foremost of demons by his head covered by his diadem.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stung to fury by that blow of the fist (muṣṭiprahāreṇa), the enraged great monkey seized that bull among rākṣasas by his diadem (kirīṭe).
+Stung to fury by that blow of the fist (_muṣṭiprahāreṇa_), the enraged great monkey seized that bull among rākṣasas by his diadem (_kirīṭe_).
 </details>
 </details>
 
@@ -2515,7 +2515,7 @@ of Vishvarupa the son of Tvashta.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In wrath the son of the Wind-god severed with that keen sword (asinā śitena) his crowned and ear-ringed heads (kirīṭajuṣṭāni sakuṇḍalāni), just as Śakra severed the heads of Tvaṣṭṛ's son (tvaṣṭuḥ sutasyeva).
+In wrath the son of the Wind-god severed with that keen sword (_asinā śitena_) his crowned and ear-ringed heads (_kirīṭajuṣṭāni sakuṇḍalāni_), just as Śakra severed the heads of Tvaṣṭṛ&#x27;s son (_tvaṣṭuḥ sutasyeva_).
 </details>
 </details>
 
@@ -2581,7 +2581,7 @@ track of the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Huge-eyed (āyatākṣāṇi), resembling mountain crags (agasaṃnibhāni), with eyes blazing like fire (pradīptavaiśvānaralocanāni), those heads of Indra's foe fell to the earth like luminaries loosed from the path of the sun (jyotīṃṣi muktāni yathārkamārgāt).
+Huge-eyed (_āyatākṣāṇi_), resembling mountain crags (_agasaṃnibhāni_), with eyes blazing like fire (_pradīptavaiśvānaralocanāni_), those heads of Indra&#x27;s foe fell to the earth like luminaries loosed from the path of the sun (_jyotīṃṣi muktāni yathārkamārgāt_).
 </details>
 </details>
 
@@ -2629,7 +2629,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that three-headed foe of the gods (devaripau triśīrṣe) was slain by Hanūmān of Śakra-like valor, the monkeys roared, the earth shook (pracacāla bhūmī), and the rākṣasas fled in all directions (dudruvire samantāt).
+When that three-headed foe of the gods (_devaripau triśīrṣe_) was slain by Hanūmān of Śakra-like valor, the monkeys roared, the earth shook (_pracacāla bhūmī_), and the rākṣasas fled in all directions (_dudruvire samantāt_).
 </details>
 </details>
 
@@ -2682,9 +2682,9 @@ enraged with indignation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**50:** Seeing Triśiras slain, and Mahodara likewise, and beholding both the unassailable (durādharṣau) Devāntaka and Narāntaka laid low—
+**50:** Seeing Triśiras slain, and Mahodara likewise, and beholding both the unassailable (_durādharṣau_) Devāntaka and Narāntaka laid low—
 
-**51:** —that bull among rākṣasas, the fiercely wrathful Matta (paramāmarṣī mattaḥ), blazed with fury and seized a blazing mace forged wholly of iron (gadāṃ sarvāyasīm).
+**51:** —that bull among rākṣasas, the fiercely wrathful Matta (_paramāmarṣī mattaḥ_), blazed with fury and seized a blazing mace forged wholly of iron (_gadāṃ sarvāyasīm_).
 </details>
 </details>
 
@@ -2715,7 +2715,7 @@ enraged with indignation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bound with bands of gold (hemapaṭṭaparikṣiptām), foaming with flesh and blood (māṃsaśoṇitaphenilām), massive, resplendent, and slaked with the blood of foes (śatruśoṇitatarpitām)—
+Bound with bands of gold (_hemapaṭṭaparikṣiptām_), foaming with flesh and blood (_māṃsaśoṇitaphenilām_), massive, resplendent, and slaked with the blood of foes (_śatruśoṇitatarpitām_)—
 </details>
 </details>
 
@@ -2769,7 +2769,7 @@ Sarvabhauma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—its tip blazing with fiery energy (tejasā sampradīptāgrām), decked with crimson garlands (raktamālyavibhūṣitām), striking terror into Airāvata, Mahāpadma, and Sārvabhauma—
+—its tip blazing with fiery energy (_tejasā sampradīptāgrām_), decked with crimson garlands (_raktamālyavibhūṣitām_), striking terror into Airāvata, Mahāpadma, and Sārvabhauma—
 </details>
 </details>
 
@@ -2821,7 +2821,7 @@ monkeys like the blazing fire at the end of the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—seizing that mace in wrath, the bull among rākṣasas, Matta [Mahāpārśva], rushed upon the monkeys, blazing like the fire of cosmic dissolution (yugāntāgnir iva jvalan).
+—seizing that mace in wrath, the bull among rākṣasas, Matta [Mahāpārśva], rushed upon the monkeys, blazing like the fire of cosmic dissolution (_yugāntāgnir iva jvalan_).
 </details>
 </details>
 
@@ -2881,7 +2881,7 @@ Mattanika (Mahaparshva), the younger brother of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty monkey Ṛṣabha sprang up, approached Rāvaṇa's younger brother Mattānīka [Mahāpārśva], and stood confronting him (tasthau tasyāgrataḥ).
+Then the mighty monkey Ṛṣabha sprang up, approached Rāvaṇa&#x27;s younger brother Mattānīka [Mahāpārśva], and stood confronting him (_tasthau tasyāgrataḥ_).
 </details>
 </details>
 
@@ -2934,7 +2934,7 @@ Mahaparshva struck him upon his breast with a mace equaling a thunderbolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that mountain-like monkey standing before him (purastāt sthitam), the enraged rākṣasa struck him across the chest (urasi) with his thunderbolt-like mace (gadayā vajrakalpayā).
+Seeing that mountain-like monkey standing before him (_purastāt sthitam_), the enraged rākṣasa struck him across the chest (_urasi_) with his thunderbolt-like mace (_gadayā vajrakalpayā_).
 </details>
 </details>
 
@@ -2986,7 +2986,7 @@ broken. He then trembled and exuded blood profusely.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by him with that mace, that bull among monkeys, with his chest cloven (bhinnavakṣāḥ) and his frame violently shaken (samādhūtaḥ), shed a torrent of blood.
+Struck by him with that mace, that bull among monkeys, with his chest cloven (_bhinnavakṣāḥ_) and his frame violently shaken (_samādhūtaḥ_), shed a torrent of blood.
 </details>
 </details>
 
@@ -3039,7 +3039,7 @@ enraged as he was with his lips quivering, looked towards Mahaparshva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recovering consciousness after a long while (saṃprāpya cirāt saṃjñām), Ṛṣabha, lord of monkeys, glared at Mahāpārśva in wrath with quivering lips (visphuramāṇauṣṭhaḥ).
+Recovering consciousness after a long while (_saṃprāpya cirāt saṃjñām_), Ṛṣabha, lord of monkeys, glared at Mahāpārśva in wrath with quivering lips (_visphuramāṇauṣṭhaḥ_).
 </details>
 </details>
 
@@ -3098,7 +3098,7 @@ enraged as he was with his lips quivering, looked towards Mahaparshva.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rushing at that rākṣasa with matching speed (vegavān vegavad abhyupetya), that chief of monkey heroes, mountain-like in form, clenched his fist (saṃvartya muṣṭim) and suddenly struck him squarely between the arms (bāhvantare).
+Rushing at that rākṣasa with matching speed (_vegavān vegavad abhyupetya_), that chief of monkey heroes, mountain-like in form, clenched his fist (_saṃvartya muṣṭim_) and suddenly struck him squarely between the arms (_bāhvantare_).
 </details>
 </details>
 
@@ -3167,7 +3167,7 @@ looking like Yama's rod, he roared loudly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His limbs drenched in blood (kṣatajokṣitāṅgaḥ), he crashed to the earth like a tree suddenly severed at the root (kṛttamūlaḥ sahaseva vṛkṣaḥ); seizing his dreadful mace that resembled Yama's rod (yamadaṇḍakalpām), [Ṛṣabha] at once let out a roar.
+His limbs drenched in blood (_kṣatajokṣitāṅgaḥ_), he crashed to the earth like a tree suddenly severed at the root (_kṛttamūlaḥ sahaseva vṛkṣaḥ_); seizing his dreadful mace that resembled Yama&#x27;s rod (_yamadaṇḍakalpām_), [Ṛṣabha] at once let out a roar.
 </details>
 </details>
 
@@ -3234,7 +3234,7 @@ waters.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For a moment (muhūrtam) that foe of the gods lay as though lifeless (gatāsukalpaḥ); then, suddenly regaining his vital spirit (pratyāgatātmā), he sprang up, dark-hued as an evening storm-cloud (saṃdhyābhrasamānavarṇaḥ), and struck the son of the lord of waters (vārirājātmajam).
+For a moment (_muhūrtam_) that foe of the gods lay as though lifeless (_gatāsukalpaḥ_); then, suddenly regaining his vital spirit (_pratyāgatātmā_), he sprang up, dark-hued as an evening storm-cloud (_saṃdhyābhrasamānavarṇaḥ_), and struck the son of the lord of waters (_vārirājātmajam_).
 </details>
 </details>
 
@@ -3300,7 +3300,7 @@ banged it on Mahapatra in the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swooning (mūrcchitaḥ), [Ṛṣabha] fell to the ground for a moment; springing up again with his senses restored (punaḥ sasaṃjñaḥ), he whirled that very mace of his—massive as the king of mountains (adrivarādrikalpām)—and struck him in battle.
+Swooning (_mūrcchitaḥ_), [Ṛṣabha] fell to the ground for a moment; springing up again with his senses restored (_punaḥ sasaṃjñaḥ_), he whirled that very mace of his—massive as the king of mountains (_adrivarādrikalpām_)—and struck him in battle.
 </details>
 </details>
 
@@ -3353,7 +3353,7 @@ blood, as a supreme mountain exudes water full of minerals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crashing into the body of that fierce enemy of gods, sacrifices, and Brahmins (devādhvaravipraśatroḥ), that terrible mace split open his chest, and he poured forth abundant blood like the king of mountains streaming with red mineral water (dhātvambha ivādrirājaḥ).
+Crashing into the body of that fierce enemy of gods, sacrifices, and Brahmins (_devādhvaravipraśatroḥ_), that terrible mace split open his chest, and he poured forth abundant blood like the king of mountains streaming with red mineral water (_dhātvambha ivādrirājaḥ_).
 </details>
 </details>
 
@@ -3419,7 +3419,7 @@ the battle-front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He [Mahāpārśva] rushed swiftly toward the mace in the hands of that high-souled monkey (gadāṃ tasya mahātmanaḥ); seizing that dreadful mace and whirling it again and again (āvidhya ca punaḥ punaḥ)—
+He [Mahāpārśva] rushed swiftly toward the mace in the hands of that high-souled monkey (_gadāṃ tasya mahātmanaḥ_); seizing that dreadful mace and whirling it again and again (_āvidhya ca punaḥ punaḥ_)—
 </details>
 </details>
 
@@ -3471,7 +3471,7 @@ down like a mountain struck by a thunderbolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—that high-souled [Ṛṣabha] struck down Mattānīka [Mahāpārśva] in the forefront of battle (raṇamūrdhani). Crushed by his own mace (svayā gadayā bhagnaḥ), with his teeth and eyes shattered (viśīrṇadaśanekṣaṇaḥ)—
+—that high-souled [Ṛṣabha] struck down Mattānīka [Mahāpārśva] in the forefront of battle (_raṇamūrdhani_). Crushed by his own mace (_svayā gadayā bhagnaḥ_), with his teeth and eyes shattered (_viśīrṇadaśanekṣaṇaḥ_)—
 </details>
 </details>
 
@@ -3526,7 +3526,7 @@ away and fallen down on the ground, the army of demons ran away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Matta fell down at once like a mountain smitten by a thunderbolt (vajrāhata ivācalaḥ). When that rākṣasa fell to the earth with his eyes burst, bereft of strength and life (gatasattve gatāyuṣi), the rākṣasa host fled in panic (vidrutaṃ rākṣasaṃ balam).
+—Matta fell down at once like a mountain smitten by a thunderbolt (_vajrāhata ivācalaḥ_). When that rākṣasa fell to the earth with his eyes burst, bereft of strength and life (_gatasattve gatāyuṣi_), the rākṣasa host fled in panic (_vidrutaṃ rākṣasaṃ balam_).
 </details>
 </details>
 
@@ -3598,7 +3598,7 @@ burst its shores.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that brother of Rāvaṇa (bhrātari rāvaṇasya) was slain, that ocean-like host of night-stalkers (balam arṇavābham), casting aside its weapons (tyaktāyudham), fled solely to save its life (kevalajīvitārtham), resembling a sea that has burst its bounds (bhinnārṇavasaṃnikāśam).
+When that brother of Rāvaṇa (_bhrātari rāvaṇasya_) was slain, that ocean-like host of night-stalkers (_balam arṇavābham_), casting aside its weapons (_tyaktāyudham_), fled solely to save its life (_kevalajīvitārtham_), resembling a sea that has burst its bounds (_bhinnārṇavasaṃnikāśam_).
 </details>
 </details>
 

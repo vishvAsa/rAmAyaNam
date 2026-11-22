@@ -80,7 +80,7 @@ that Rama's mother Kausalya who was thus weeping.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then to Kausalyā, the mother of Rāma, who was lamenting thus, the distressed Lakṣmaṇa spoke words suited to that moment (tatkālasadṛśam).
+Then to Kausalyā, the mother of Rāma, who was lamenting thus, the distressed Lakṣmaṇa spoke words suited to that moment (_tatkālasadṛśam_).
 </details>
 </details>
 
@@ -154,9 +154,9 @@ and possessed of passion can talk any thing, prompted by Kaikeyi."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “It does not please me either, O noble lady (ārye), that Rāghava, falling under the sway of a woman's words, should abandon the royal fortune and depart to the forest!”
+**2:** “It does not please me either, O noble lady (_ārye_), that Rāghava, falling under the sway of a woman&#x27;s words, should abandon the royal fortune and depart to the forest!”
 
-**3:** “Perverted in judgment (viparītaḥ), aged, overpowered by sensual pleasures, and infatuated with passion (samanmathaḥ)—what indeed would the king not utter when goaded on by her?”
+**3:** “Perverted in judgment (_viparītaḥ_), aged, overpowered by sensual pleasures, and infatuated with passion (_samanmathaḥ_)—what indeed would the king not utter when goaded on by her?”
 </details>
 </details>
 
@@ -208,7 +208,7 @@ to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I see no offense (aparādham) in him, nor any blemish (doṣam) of such a kind for which Rāghava should be banished from the kingdom to dwell in the forest.”
+“I see no offense (_aparādham_) in him, nor any blemish (_doṣam_) of such a kind for which Rāghava should be banished from the kingdom to dwell in the forest.”
 </details>
 </details>
 
@@ -263,7 +263,7 @@ of Rama indirectly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I behold no man in the world who, even behind his back—even were he a bitter enemy (svamitro 'pi) cast out by him—could utter a single fault of his.”
+“I behold no man in the world who, even behind his back—even were he a bitter enemy (_svamitro &#x27;pi_) cast out by him—could utter a single fault of his.”
 </details>
 </details>
 
@@ -315,7 +315,7 @@ who is honest, who is self-restrained and who is affectionate even towards adver
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What man having regard for dharma would without cause abandon a son who is like a god (devakalpam), upright, self-controlled, and affectionate even toward his foes?”
+“What man having regard for _dharma_ would without cause abandon a son who is like a god (_devakalpam_), upright, self-controlled, and affectionate even toward his foes?”
 </details>
 </details>
 
@@ -375,7 +375,7 @@ as though he got childhood again?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What son remembering the conduct of kings (rājavṛttam) would take to heart such words of a king who has lapsed into second childhood (punarbālyam upeyuṣaḥ)?”
+“What son remembering the conduct of kings (_rājavṛttam_) would take to heart such words of a king who has lapsed into second childhood (_punarbālyam upeyuṣaḥ_)?”
 </details>
 </details>
 
@@ -427,7 +427,7 @@ my help."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before any man learns of this matter, take the sovereignty under your own control (ātmasthaṃ kuru śāsanam) together with me!”
+“Before any man learns of this matter, take the sovereignty under your own control (_ātmasthaṃ kuru śāsanam_) together with me!”
 </details>
 </details>
 
@@ -479,7 +479,7 @@ standing as God of Death, who is capable of doing too much ?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When you are guarded by me standing at your side bow in hand like Death himself (kṛtāntasyeva tiṣṭhataḥ), O Rāghava, who is able to prevail against you?”
+“When you are guarded by me standing at your side bow in hand like Death himself (_kṛtāntasyeva tiṣṭhataḥ_), O Rāghava, who is able to prevail against you?”
 </details>
 </details>
 
@@ -531,7 +531,7 @@ desolate of men with sharp arrows"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O bull among men, with my sharp arrows I shall render all this Ayodhyā empty of men (nirmanuṣyām) if anyone stands in opposition to you!”
+“O bull among men, with my sharp arrows I shall render all this Ayodhyā empty of men (_nirmanuṣyām_) if anyone stands in opposition to you!”
 </details>
 </details>
 
@@ -583,7 +583,7 @@ indeed gets disgraced!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whoever belongs to Bharata's faction (pakṣyo vā) or wishes him well—I shall slay them all; for a gentle man is ever despised (mṛdur hi paribhūyate)!”
+“Whoever belongs to Bharata&#x27;s faction (_pakṣyo vā_) or wishes him well—I shall slay them all; for a gentle man is ever despised (_mṛdur hi paribhūyate_)!”
 </details>
 </details>
 
@@ -640,7 +640,7 @@ I shall keep him imprisoned with out personal attachment or if necessary, kill h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And if our father, egged on by Kaikeyī and gratified by her (saṃtuṣṭaḥ), has become our enemy (amitrabhūtaḥ), let him without hesitation be bound or even slain!”
+“And if our father, egged on by Kaikeyī and gratified by her (_saṃtuṣṭaḥ_), has become our enemy (_amitrabhūtaḥ_), let him without hesitation be bound or even slain!”
 </details>
 </details>
 
@@ -703,7 +703,7 @@ good and evil actions and if he takes to a wrong route."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even a preceptor (guror api) who is puffed up with pride (avaliptasya), who knows not right from wrong, and who has strayed onto an evil path (utpathaṃ pratipannasya) must be disciplined (kāryaṃ bhavati śāsanam)!”
+“Even a preceptor (_guror api_) who is puffed up with pride (_avaliptasya_), who knows not right from wrong, and who has strayed onto an evil path (_utpathaṃ pratipannasya_) must be disciplined (_kāryaṃ bhavati śāsanam_)!”
 </details>
 </details>
 
@@ -755,7 +755,7 @@ this kingdom belonging to you to Kaikeyi?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Relying on what power or what pretext (hetuṃ vā), O best of men, does he wish to give away to Kaikeyī this kingdom that has rightfully come to you?”
+“Relying on what power or what pretext (_hetuṃ vā_), O best of men, does he wish to give away to Kaikeyī this kingdom that has rightfully come to you?”
 </details>
 </details>
 
@@ -859,7 +859,7 @@ to you by truth by bow, by the act of giving and by the act of sacrifice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With all my heart (bhāvena) I am devoted in truth to my brother, O queen! By truth, by my bow, by my gifts (dattena), and by my sacrifices (iṣṭena), I swear to you!”
+“With all my heart (_bhāvena_) I am devoted in truth to my brother, O queen! By truth, by my bow, by my gifts (_dattena_), and by my sacrifices (_iṣṭena_), I swear to you!”
 </details>
 </details>
 
@@ -911,7 +911,7 @@ I can enter there"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If Rāma enters a blazing fire or the forest, O queen, know for certain that I have already entered there before him (pūrvam avadhāraya)!”
+“If Rāma enters a blazing fire or the forest, O queen, know for certain that I have already entered there before him (_pūrvam avadhāraya_)!”
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ and weaping, spoke thus to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall slay this aged father whose mind is obsessed with Kaikeyī, pitiful, sunk in second childhood (sthitam bālye), and despised on account of his senility!”
+“I shall slay this aged father whose mind is obsessed with Kaikeyī, pitiful, sunk in second childhood (_sthitam bālye_), and despised on account of his senility!”
 </details>
 </details>
 
@@ -1078,7 +1078,7 @@ immediately."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of the great-souled Lakṣmaṇa, Kausalyā, weeping and overwhelmed with grief (śokalālasā), spoke to Rāma:
+Hearing these words of the great-souled Lakṣmaṇa, Kausalyā, weeping and overwhelmed with grief (_śokalālasā_), spoke to Rāma:
 </details>
 </details>
 
@@ -1130,7 +1130,7 @@ hearing the un-just words spoken by my co-wife."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O my son, you have heard what your brother Lakṣmaṇa has spoken; do now whatever is next to be done here (yad atrānantaram), if it pleases you.”
+“O my son, you have heard what your brother Lakṣmaṇa has spoken; do now whatever is next to be done here (_yad atrānantaram_), if it pleases you.”
 </details>
 </details>
 
@@ -1182,7 +1182,7 @@ and stay here serving me thereby practicing the best morality in the form of ser
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having heard the unrighteous (adharmyam) words spoken by my co-wife, you ought not to depart hence, abandoning me who am consumed by grief!”
+“Having heard the unrighteous (_adharmyam_) words spoken by my co-wife, you ought not to depart hence, abandoning me who am consumed by grief!”
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ great austerity by serving his mother and went to heaven"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O most righteous one (dharmiṣṭha), knowing dharma, if you wish to practice dharma, remain right here, serve me (śuśrūṣa mām), and practice the supreme dharma!”
+“O most righteous one (_dharmiṣṭha_), knowing _dharma_, if you wish to practice _dharma_, remain right here, serve me (_śuśrūṣa mām_), and practice the supreme _dharma_!”
 </details>
 </details>
 
@@ -1289,7 +1289,7 @@ your mother, I am worthy of worship to you. Hence, do not go to the forest"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Serving his mother (śuśrūṣur jananīm) while dwelling disciplined in his own home, O son, Kāśyapa, endowed with supreme austerity, attained heaven (tridivaṃ gataḥ).”
+“Serving his mother (_śuśrūṣur jananīm_) while dwelling disciplined in his own home, O son, Kāśyapa, endowed with supreme austerity, attained heaven (_tridivaṃ gataḥ_).”
 </details>
 </details>
 
@@ -1349,7 +1349,7 @@ even to eat grass while staying with you"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as the king is worthy of your reverence by reason of his authority (gauraveṇa), even so am I; therefore I do not grant you leave—you must not go hence to the forest!”
+“Just as the king is worthy of your reverence by reason of his authority (_gauraveṇa_), even so am I; therefore I do not grant you leave—you must not go hence to the forest!”
 </details>
 </details>
 
@@ -1404,7 +1404,7 @@ I shall seek death through starvation"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Separated from you, I have no use for life or happiness; far better for me is eating even grass (tṛṇānām api bhakṣaṇam) in your company!”
+“Separated from you, I have no use for life or happiness; far better for me is eating even grass (_tṛṇānām api bhakṣaṇam_) in your company!”
 </details>
 </details>
 
@@ -1457,7 +1457,7 @@ called Pippalada, producing the latter's wrath."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you depart to the forest abandoning me who am overwhelmed with grief, I shall sit here in a fast unto death (prāyam ihāsiṣye), for I shall not be able to live!”
+“If you depart to the forest abandoning me who am overwhelmed with grief, I shall sit here in a fast unto death (_prāyam ihāsiṣye_), for I shall not be able to live!”
 </details>
 </details>
 
@@ -1512,7 +1512,7 @@ miserably.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, O my son, you will incur world-notorious hell (nirayaṃ lokaviśrutam), just as the Ocean, lord of rivers, incurred the sin of Brāhmaṇa-slaughter through unrighteousness!”
+“Then, O my son, you will incur world-notorious hell (_nirayaṃ lokaviśrutam_), just as the Ocean, lord of rivers, incurred the sin of Brāhmaṇa-slaughter through unrighteousness!”
 </details>
 </details>
 
@@ -1564,7 +1564,7 @@ I shall have to go to the forest"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then to his mother Kausalyā, who was lamenting thus in piteous distress, the righteous-souled Rāma spoke words fraught with dharma:
+Then to his mother Kausalyā, who was lamenting thus in piteous distress, the righteous-souled Rāma spoke words fraught with _dharma_:
 </details>
 </details>
 
@@ -1616,7 +1616,7 @@ a learned man, killed even a cow, acting as per his father's words"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I have no power to transgress my father's word (pitur vākyaṃ samatikramitum); I propitiate you by bowing my head (śirasā)—I wish to depart to the forest!”
+“I have no power to transgress my father&#x27;s word (_pitur vākyaṃ samatikramitum_); I propitiate you by bowing my head (_śirasā_)—I wish to depart to the forest!”
 </details>
 </details>
 
@@ -1676,7 +1676,7 @@ earth, as commanded by their father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fulfilling his father's word, the wise forest-dwelling sage Kaṇḍu, though knowing it to be unrighteous (jānatādharmam), slew a cow (gaur hatā).”
+“Fulfilling his father&#x27;s word, the wise forest-dwelling sage Kaṇḍu, though knowing it to be unrighteous (_jānatādharmam_), slew a cow (_gaur hatā_).”
 </details>
 </details>
 
@@ -1731,7 +1731,7 @@ with an axe as per his father's words."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And in our own lineage of old, at the command of their father Sagara, the sons of Sagara met with terrible destruction (sumahān vadhaḥ) while digging up the earth.”
+“And in our own lineage of old, at the command of their father Sagara, the sons of Sagara met with terrible destruction (_sumahān vadhaḥ_) while digging up the earth.”
 </details>
 </details>
 
@@ -1783,7 +1783,7 @@ s words to go waste. I shall also do what is desired by my father"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And by Rāma, the son of Jamadagni, his own mother Reṇukā was struck down with an axe in the forest for the sake of his father's word (pitur vacanakāraṇāt).”
+“And by Rāma, the son of Jamadagni, his own mother Reṇukā was struck down with an axe in the forest for the sake of his father&#x27;s word (_pitur vacanakāraṇāt_).”
 </details>
 </details>
 
@@ -1835,7 +1835,7 @@ mentioned to you hitherto also complied with their father's command."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By these and many other godlike men, O queen, was a father's word unflinchingly (aklībam) fulfilled; I too shall accomplish what is beneficial to my father!”
+“By these and many other godlike men, O queen, was a father&#x27;s word unflinchingly (_aklībam_) fulfilled; I too shall accomplish what is beneficial to my father!”
 </details>
 </details>
 
@@ -1939,7 +1939,7 @@ on earth. There is no deprivation indeed for anyone who complies with father's c
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am not initiating some unprecedented (apūrvam) dharma adverse to you; I am simply following the path approved and trodden by our forebears (pūrvair ayam abhipreto gato mārgaḥ)!”
+“I am not initiating some unprecedented (_apūrvam_) _dharma_ adverse to you; I am simply following the path approved and trodden by our forebears (_pūrvair ayam abhipreto gato mārgaḥ_)!”
 </details>
 </details>
 
@@ -1999,7 +1999,7 @@ spoke thus to his mother and turned round to Lakshmana to speak.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore this duty of mine must be performed on earth, and not otherwise; for no one who fulfills his father's word ever comes to ruin (na kaścin nāma hīyate).”
+“Therefore this duty of mine must be performed on earth, and not otherwise; for no one who fulfills his father&#x27;s word ever comes to ruin (_na kaścin nāma hīyate_).”
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ by not knowing the secret of truth and tranquillity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lakṣmaṇa, I know your unsurpassed love (sneham anuttamam) for me, as well as your valor, courage (sattvam), and irresistible fiery energy (tejaś ca sudurāsadam).”
+“O Lakṣmaṇa, I know your unsurpassed love (_sneham anuttamam_) for me, as well as your valor, courage (_sattvam_), and irresistible fiery energy (_tejaś ca sudurāsadam_).”
 </details>
 </details>
 
@@ -2157,7 +2157,7 @@ Even these best words of father are enjoined with righteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O bearer of auspicious marks, not understanding the true import of truth and self-control (abhiprāyaṃ na vijñāya satyasya ca śamasya ca), my mother's great grief is measureless.”
+“O bearer of auspicious marks, not understanding the true import of truth and self-control (_abhiprāyaṃ na vijñāya satyasya ca śamasya ca_), my mother&#x27;s great grief is measureless.”
 </details>
 </details>
 
@@ -2209,7 +2209,7 @@ or Brahmana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For dharma is supreme in the world, and in dharma truth is established (dharme satyaṃ pratiṣṭhitam); and this supreme word of our father rests upon dharma.”
+“For _dharma_ is supreme in the world, and in _dharma_ truth is established (_dharme satyaṃ pratiṣṭhitam_); and this supreme word of our father rests upon _dharma_.”
 </details>
 </details>
 
@@ -2261,7 +2261,7 @@ instigated me to go to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having promised to fulfill the word of one's father, or mother, or a Brāhmaṇa, O hero, one who abides in dharma must never render that promise vain (na kartavyaṃ vṛthā)!”
+“Having promised to fulfill the word of one&#x27;s father, or mother, or a Brāhmaṇa, O hero, one who abides in _dharma_ must never render that promise vain (_na kartavyaṃ vṛthā_)!”
 </details>
 </details>
 
@@ -2324,7 +2324,7 @@ rudeness. follow my perception."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I cannot transgress this command, O hero; for it is by my father's word that I have been urged on by Kaikeyī!”
+“Therefore I cannot transgress this command, O hero; for it is by my father&#x27;s word that I have been urged on by Kaikeyī!”
 </details>
 </details>
 
@@ -2376,7 +2376,7 @@ spoke again to Kausalya as follows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore cast aside this ignoble mindset based on Kṣatriya custom (kṣatradharmāśritāṃ matim); resort to dharma, not harshness (mā taikṣṇyam), and follow my resolve!”
+“Therefore cast aside this ignoble mindset based on Kṣatriya custom (_kṣatradharmāśritāṃ matim_); resort to _dharma_, not harshness (_mā taikṣṇyam_), and follow my resolve!”
 </details>
 </details>
 
@@ -2480,7 +2480,7 @@ I shall be back to the city from the forest, after fulfilling my promise."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Grant me your permission, O queen, as I depart hence to the forest; you are adjured by my very life-breaths (śāpitāsi mama prāṇaiḥ)—perform the auspicious rites of benediction (svastyayanāni) for me!”
+“Grant me your permission, O queen, as I depart hence to the forest; you are adjured by my very life-breaths (_śāpitāsi mama prāṇaiḥ_)—perform the auspicious rites of benediction (_svastyayanāni_) for me!”
 </details>
 </details>
 
@@ -2532,7 +2532,7 @@ again from the forest after fulfilling the father's command."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having fulfilled my vow (tīrṇapratijñaḥ), I shall return again from the forest to the city, like the royal sage Yayāti of old who, having left heaven, returned to heaven once more!”
+“Having fulfilled my vow (_tīrṇapratijñaḥ_), I shall return again from the forest to the city, like the royal sage Yayāti of old who, having left heaven, returned to heaven once more!”
 </details>
 </details>
 
@@ -2584,7 +2584,7 @@ This is an eternal custom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Restrain your grief within your heart, O mother; do not grieve! After dwelling in the forest and fulfilling my father's word, I shall return here again!”
+“Restrain your grief within your heart, O mother; do not grieve! After dwelling in the forest and fulfilling my father&#x27;s word, I shall return here again!”
 </details>
 </details>
 
@@ -2644,7 +2644,7 @@ preparations for my coronation and keeping in check the sorrow in your heart."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By you, by me, by Vaidehī, by Lakṣmaṇa, and by Sumitrā must our father's command be obeyed (pitur niyoge sthātavyam)—this is the eternal dharma (dharmaḥ sanātanaḥ)!”
+“By you, by me, by Vaidehī, by Lakṣmaṇa, and by Sumitrā must our father&#x27;s command be obeyed (_pitur niyoge sthātavyam_)—this is the eternal _dharma_ (_dharmaḥ sanātanaḥ_)!”
 </details>
 </details>
 
@@ -2703,7 +2703,7 @@ as though regained consciousness once more after death, looked at Rama and spoke
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O mother, setting aside the preparations for the consecration (sambhṛtya sambhārān) and restraining the grief within your heart, pray second my righteous resolve fixed upon dwelling in the forest!”
+“O mother, setting aside the preparations for the consecration (_sambhṛtya sambhārān_) and restraining the grief within your heart, pray second my righteous resolve fixed upon dwelling in the forest!”
 </details>
 </details>
 
@@ -2763,7 +2763,7 @@ sorrow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these supremely righteous, calm (avyagram), and unfaltering (aviklavam) words of his, his mother the queen regained consciousness as if returning from death and, gazing upon Rāma, spoke again thus:
+Hearing these supremely righteous, calm (_avyagram_), and unfaltering (_aviklavam_) words of his, his mother the queen regained consciousness as if returning from death and, gazing upon Rāma, spoke again thus:
 </details>
 </details>
 
@@ -2824,7 +2824,7 @@ even for a moment is better than that of the entire world of living beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as your father is a venerable preceptor (guruḥ) to you, O son, by his own duty and affection, even so am I; I do not grant you leave—you ought not to depart abandoning me in my bitter grief!”
+“Just as your father is a venerable preceptor (_guruḥ_) to you, O son, by his own duty and affection, even so am I; I do not grant you leave—you ought not to depart abandoning me in my bitter grief!”
 </details>
 </details>
 
@@ -2888,7 +2888,7 @@ an elephant is removed highly from its way by men with flames of fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What use have I for life here without you, or for the hereafter (lokena), or for ancestral offerings (svadhayā), or for nectar (amṛtena)? A single moment's presence with you is dearer to me than the entire world of living beings!”
+“What use have I for life here without you, or for the hereafter (_lokena_), or for ancestral offerings (_svadhayā_), or for nectar (_amṛtena_)? A single moment&#x27;s presence with you is dearer to me than the entire world of living beings!”
 </details>
 </details>
 
@@ -2941,7 +2941,7 @@ He was the only person worthy of speaking thus at that time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this piteous lament of his mother, Rāma blazed up all the more with anguish (bhūyaḥ prajajvāla), like a mighty elephant that has entered the darkness (dhvāntam abhipraviṣṭaḥ) while being driven back by men with flaming torches.
+Hearing this piteous lament of his mother, Rāma blazed up all the more with anguish (_bhūyaḥ prajajvāla_), like a mighty elephant that has entered the darkness (_dhvāntam abhipraviṣṭaḥ_) while being driven back by men with flaming torches.
 </details>
 </details>
 
@@ -3000,7 +3000,7 @@ now, you are joining with mother in afflicting much trouble to me without lookin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abiding in dharma, he spoke to his nearly unconscious mother (visaṃjñakalpām) and to the afflicted, burning Saumitri a righteous word such as he alone was worthy to utter there (yathā sa evārhati tatra vaktum):
+Abiding in _dharma_, he spoke to his nearly unconscious mother (_visaṃjñakalpām_) and to the afflicted, burning Saumitri a righteous word such as he alone was worthy to utter there (_yathā sa evārhati tatra vaktum_):
 </details>
 </details>
 
@@ -3066,7 +3066,7 @@ sons, good work yields all these three things."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lakṣmaṇa, I ever know your devotion and your valor; yet without discerning my true resolve (mamābhiprāyam asaṃnirīkṣya), you sorely torment me together with my mother!”
+“O Lakṣmaṇa, I ever know your devotion and your valor; yet without discerning my true resolve (_mamābhiprāyam asaṃnirīkṣya_), you sorely torment me together with my mother!”
 </details>
 </details>
 
@@ -3125,7 +3125,7 @@ good.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this world of living beings, dharma, artha, and kāma are indeed beheld when the fruits of dharma arise (dharmaphalodayeṣu); without doubt all three are contained in dharma, like a wife who is obedient, beloved, and blessed with sons (bhāryeva vaśyābhimatā saputrā).”
+“In this world of living beings, _dharma_, _artha_, and _kāma_ are indeed beheld when the fruits of _dharma_ arise (_dharmaphalodayeṣu_); without doubt all three are contained in _dharma_, like a wife who is obedient, beloved, and blessed with sons (_bhāryeva vaśyābhimatā saputrā_).”
 </details>
 </details>
 
@@ -3186,7 +3186,7 @@ to be cruel will not do it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But where all three are not present together (syur asaṃniviṣṭāḥ), one should undertake that course from which dharma results; for a man intent solely on wealth (arthaparaḥ) becomes hated in the world, and absorption in pleasure (kāmātmatā) is likewise not praised.”
+“But where all three are not present together (_syur asaṃniviṣṭāḥ_), one should undertake that course from which _dharma_ results; for a man intent solely on wealth (_arthaparaḥ_) becomes hated in the world, and absorption in pleasure (_kāmātmatā_) is likewise not praised.”
 </details>
 </details>
 
@@ -3252,7 +3252,7 @@ and the personified law."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever task a preceptor, a king, and an aged father may command—whether out of anger, joy, or even desire—what man of unagitated, compassionate conduct (anṛśaṃsavṛttiḥ) having regard for dharma would not perform it?”
+“Whatever task a preceptor, a king, and an aged father may command—whether out of anger, joy, or even desire—what man of unagitated, compassionate conduct (_anṛśaṃsavṛttiḥ_) having regard for _dharma_ would not perform it?”
 </details>
 </details>
 
@@ -3320,7 +3320,7 @@ widowed woman?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I am unable to leave this pledge of my father's unfulfilled in its entirety; for he, O dear brother, is the authoritative lord over us both, and for the queen he is husband, refuge, and dharma!”
+“Therefore I am unable to leave this pledge of my father&#x27;s unfulfilled in its entirety; for he, O dear brother, is the authoritative lord over us both, and for the queen he is husband, refuge, and _dharma_!”
 </details>
 </details>
 
@@ -3384,7 +3384,7 @@ power of truth, give me your power of blessings so that I can return here after 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While that righteous king lives—and especially while he abides upon his own path of truth (sve pathi vartamāne)—how could the queen depart hence with me, like some other woman who is a widow (vidhaveva nārī)?”
+“While that righteous king lives—and especially while he abides upon his own path of truth (_sve pathi vartamāne_)—how could the queen depart hence with me, like some other woman who is a widow (_vidhaveva nārī_)?”
 </details>
 </details>
 
@@ -3443,7 +3443,7 @@ long for this inferior kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore grant me leave as I go to the forest, O queen, and perform the auspicious benedictions for us (kuruṣva naḥ svastyayanāni), so that when my vow is completed I may return again, even as Yayāti returned to heaven through truth!”
+“Therefore grant me leave as I go to the forest, O queen, and perform the auspicious benedictions for us (_kuruṣva naḥ svastyayanāni_), so that when my vow is completed I may return again, even as Yayāti returned to heaven through truth!”
 </details>
 </details>
 
@@ -3508,7 +3508,7 @@ his mother, advised his brother by good thoughts and made hearty circumbulatory 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the sake of mere kingship (kevalarājyakāraṇāt), I cannot cast behind my back (pṛṣṭhataḥ kartum) renown that brings supreme exaltation (mahodayam); in a life of brief duration, O queen, I do not choose this mean earth today through unrighteousness!”
+“For the sake of mere kingship (_kevalarājyakāraṇāt_), I cannot cast behind my back (_pṛṣṭhataḥ kartum_) renown that brings supreme exaltation (_mahodayam_); in a life of brief duration, O queen, I do not choose this mean earth today through unrighteousness!”
 </details>
 </details>
 
@@ -3554,6 +3554,6 @@ his mother, advised his brother by good thoughts and made hearty circumbulatory 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus conciliating his mother, that bull among men—firmly resolved to go to the Daṇḍaka forest through his heroic energy—earnestly instructed his younger brother in the truth of dharma (darśanam) and circumambulated his mother in his heart (cakāra tāṃ hṛdi jananīṃ pradakṣiṇam).
+Thus conciliating his mother, that bull among men—firmly resolved to go to the Daṇḍaka forest through his heroic energy—earnestly instructed his younger brother in the truth of _dharma_ (_darśanam_) and circumambulated his mother in his heart (_cakāra tāṃ hṛdi jananīṃ pradakṣiṇam_).
 </details>
 </details>

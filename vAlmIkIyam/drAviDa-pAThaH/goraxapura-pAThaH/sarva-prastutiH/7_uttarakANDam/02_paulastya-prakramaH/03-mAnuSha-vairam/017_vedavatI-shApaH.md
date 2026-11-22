@@ -48,7 +48,7 @@ Wandering across the earth into the Himālayan forests, Rāvaṇa encounters a r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, O King, as the mighty-armed Rāvaṇa roamed over the surface of the earth (vicaran sa mahītale), he reached the forests of the Himālaya (himavad-vanam āsādya) and wandered about (paricakrāma rāvaṇaḥ).
+Then, O King, as the mighty-armed Rāvaṇa roamed over the surface of the earth (_vicaran sa mahītale_), he reached the forests of the Himālaya (_himavad-vanam āsādya_) and wandered about (_paricakrāma rāvaṇaḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Then, O King, as the mighty-armed Rāvaṇa roamed over the surface of the earth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld a maiden (kanyām) clad in a black antelope-skin and bearing matted locks (kṛṣṇājina-jaṭādharām), devoted to the observance prescribed by the sages (ārṣeṇa vidhinā yuktām) and shining like a goddess (dīpyantīṃ devatām iva).
+There he beheld a maiden (_kanyām_) clad in a black antelope-skin and bearing matted locks (_kṛṣṇājina-jaṭādharām_), devoted to the observance prescribed by the sages (_ārṣeṇa vidhinā yuktām_) and shining like a goddess (_dīpyantīṃ devatām iva_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ There he beheld a maiden (kanyām) clad in a black antelope-skin and bearing mat
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that maiden endowed with loveliness (rūpa-sampannām) and observing an exceedingly great vow (sumahāvratām), he—his mind overwhelmed by lust and delusion (kāma-moha-parītātmā)—questioned her as though laughing softly (papraccha prahasann iva):
+Beholding that maiden endowed with loveliness (_rūpa-sampannām_) and observing an exceedingly great vow (_sumahāvratām_), he—his mind overwhelmed by lust and delusion (_kāma-moha-parītātmā_)—questioned her as though laughing softly (_papraccha prahasann iva_):
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Beholding that maiden endowed with loveliness (rūpa-sampannām) and observing a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is this conduct you pursue, O fair one (kim idaṃ vartase bhadre), so contrary to your youth (viruddhaṃ yauvanasya te)? Surely such a perversion (pratikriyā) is not fitting for this beauty of yours (naitasya rūpasyaiva)!
+“What is this conduct you pursue, O fair one (_kim idaṃ vartase bhadre_), so contrary to your youth (_viruddhaṃ yauvanasya te_)? Surely such a perversion (_pratikriyā_) is not fitting for this beauty of yours (_naitasya rūpasyaiva_)!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Beholding that maiden endowed with loveliness (rūpa-sampannām) and observing a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Matchless is your beauty, O timid one (rūpaṃ te ’nupamaṃ bhīru), kindling the madness of desire in men (kāmonmādakaraṃ nṛṇām); it is not proper to abide in austerity (na yuktaṃ tapasi sthātum)—for this judgment is universally declared (nirgato hy eṣa nirṇayaḥ).
+“Matchless is your beauty, O timid one (_rūpaṃ te ’nupamaṃ bhīru_), kindling the madness of desire in men (_kāmonmādakaraṃ nṛṇām_); it is not proper to abide in austerity (_na yuktaṃ tapasi sthātum_)—for this judgment is universally declared (_nirgato hy eṣa nirṇayaḥ_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whose daughter are you, O gentle lady, what observance is this (kasyāsi kim idaṃ bhadre), and who is your husband, O lovely-faced one (kaś ca bhartā varānane)? Blessed with merit upon this earth (puṇyabhāg bhuvi) is that man by whom you are enjoyed, O timid maiden (yena sambhujyase bhīru)!
+“Whose daughter are you, O gentle lady, what observance is this (_kasyāsi kim idaṃ bhadre_), and who is your husband, O lovely-faced one (_kaś ca bhartā varānane_)? Blessed with merit upon this earth (_puṇyabhāg bhuvi_) is that man by whom you are enjoyed, O timid maiden (_yena sambhujyase bhīru_)!
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Offering Rāvaṇa due hospitality despite his insolence, the ascetic maiden int
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tell me all as I ask you (pṛcchataḥ śaṃsa me sarvam): for what purpose is this arduous toil (kasya hetoḥ pariśramaḥ)?” Thus addressed by Rāvaṇa, that illustrious maiden (sā kanyā ... yaśasvinī)—
+“Tell me all as I ask you (_pṛcchataḥ śaṃsa me sarvam_): for what purpose is this arduous toil (_kasya hetoḥ pariśramaḥ_)?” Thus addressed by Rāvaṇa, that illustrious maiden (_sā kanyā ... yaśasvinī_)—
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Offering Rāvaṇa due hospitality despite his insolence, the ascetic maiden int
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rich in austerity (tapodhanā), having first rendered him hospitality according to sacred ordinance (vidhivat kṛtvā tasyātithyam), spoke thus: “My father was the brahmarṣi Kuśadhvaja of immeasurable splendor (brahmarṣir amitaprabhaḥ), the glorious son of Bṛhaspati (bṛhaspati-sutaḥ śrīmān) and equal to Bṛhaspati in wisdom (buddhyā tulyo bṛhaspateḥ).
+Rich in austerity (_tapodhanā_), having first rendered him hospitality according to sacred ordinance (_vidhivat kṛtvā tasyātithyam_), spoke thus: “My father was the brahmarṣi Kuśadhvaja of immeasurable splendor (_brahmarṣir amitaprabhaḥ_), the glorious son of Bṛhaspati (_bṛhaspati-sutaḥ śrīmān_) and equal to Bṛhaspati in wisdom (_buddhyā tulyo bṛhaspateḥ_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From that high-souled sage as he constantly practiced Vedic recitation (kurvato nityaṃ vedābhyāsam), I came into being as a daughter embodied of sacred speech (sambhūya vāṅmayī kanyā), known by the name Vedavatī (nāmnā vedavatī smṛtā).
+“From that high-souled sage as he constantly practiced Vedic recitation (_kurvato nityaṃ vedābhyāsam_), I came into being as a daughter embodied of sacred speech (_sambhūya vāṅmayī kanyā_), known by the name Vedavatī (_nāmnā vedavatī smṛtā_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then gods together with gandharvas, yakṣas, rākṣasas, and serpents (devāḥ sagandharvā yakṣa-rākṣasa-pannagāḥ)—they all went unto my father (gatvā hi pitaram) and sought my hand in marriage (varaṇaṃ rocayanti me).
+“Then gods together with gandharvas, yakṣas, rākṣasas, and serpents (_devāḥ sagandharvā yakṣa-rākṣasa-pannagāḥ_)—they all went unto my father (_gatvā hi pitaram_) and sought my hand in marriage (_varaṇaṃ rocayanti me_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet my father did not bestow me upon any of them, O bull among rākṣasas (rākṣasarṣabha); I shall tell you the reason for that—listen closely, O night-roamer (niśācara niśāmaya)!
+“Yet my father did not bestow me upon any of them, O bull among rākṣasas (_rākṣasarṣabha_); I shall tell you the reason for that—listen closely, O night-roamer (_niśācara niśāmaya_)!
 </details>
 </details>
 
@@ -426,11 +426,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Indeed, my father desired as his son-in-law (jāmātā ... abhipretaḥ) none other than Viṣṇu, lord of the gods (viṣṇuḥ kila sureśvaraḥ) and sovereign of the three worlds (trilokeśaḥ); therefore my father would not give me to any other (tasmān nānyasya me pitā)—
+**12:** “Indeed, my father desired as his son-in-law (_jāmātā ... abhipretaḥ_) none other than Viṣṇu, lord of the gods (_viṣṇuḥ kila sureśvaraḥ_) and sovereign of the three worlds (_trilokeśaḥ_); therefore my father would not give me to any other (_tasmān nānyasya me pitā_)—
 
-**13:** —“willing to give me [to none else]; hearing that, the king of the Daityas named Dambhu (dambhur nāma ... rājā daityānām), intoxicated with might (bala-darpitaḥ), grew enraged at him (tasmai tu ... kupito ’bhavat), and by that sinful fiend my father was slain while asleep at night (rātrau śayāno me pitā pāpena hiṃsitaḥ).
+**13:** —“willing to give me [to none else]; hearing that, the king of the Daityas named Dambhu (_dambhur nāma ... rājā daityānām_), intoxicated with might (_bala-darpitaḥ_), grew enraged at him (_tasmai tu ... kupito ’bhavat_), and by that sinful fiend my father was slain while asleep at night (_rātrau śayāno me pitā pāpena hiṃsitaḥ_).
 
-**14:** “Thereupon my grief-stricken mother (jananī dīnā), that noble and exalted lady (mahābhāgā), embracing my father’s lifeless body (tac-charīraṃ pitur mama pariṣvajya), entered the sacrificial fire (praviṣṭā havyavāhanam).
+**14:** “Thereupon my grief-stricken mother (_jananī dīnā_), that noble and exalted lady (_mahābhāgā_), embracing my father’s lifeless body (_tac-charīraṃ pitur mama pariṣvajya_), entered the sacrificial fire (_praviṣṭā havyavāhanam_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thenceforth, thinking ‘I shall make true my father’s heart’s desire regarding Nārāyaṇa (manorathaṃ satyaṃ pitur nārāyaṇaṃ prati karomi),’ I bear Him alone within my heart (tam evāhaṃ hṛdayena samudvahe).
+“Thenceforth, thinking ‘I shall make true my father’s heart’s desire regarding Nārāyaṇa (_manorathaṃ satyaṃ pitur nārāyaṇaṃ prati karomi_),’ I bear Him alone within my heart (_tam evāhaṃ hṛdayena samudvahe_).
 </details>
 </details>
 
@@ -492,7 +492,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascended to this solemn vow (iti pratijñām āruhya), I practice vast austerity (carāmi vipulaṃ tapaḥ); all this have I declared unto you, O foremost of rākṣasas (rākṣasa-puṅgava).
+“Having ascended to this solemn vow (_iti pratijñām āruhya_), I practice vast austerity (_carāmi vipulaṃ tapaḥ_); all this have I declared unto you, O foremost of rākṣasas (_rākṣasa-puṅgava_).
 </details>
 </details>
 
@@ -523,7 +523,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nārāyaṇa is my husband, and none other than the Supreme Person (na tv anyaḥ puruṣottamāt); I resort to this dreadful discipline (āśraye niyamaṃ ghoram) out of longing to attain Nārāyaṇa (nārāyaṇa-parīpsayā).
+“Nārāyaṇa is my husband, and none other than the Supreme Person (_na tv anyaḥ puruṣottamāt_); I resort to this dreadful discipline (_āśraye niyamaṃ ghoram_) out of longing to attain Nārāyaṇa (_nārāyaṇa-parīpsayā_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed you are known to me, O King—depart, O delight of Pulastya’s line (gaccha paulastya-nandana)! For through my austerity I know everything (jānāmi tapasā sarvam) that transpires across the three worlds (trailokye yad dhi vartate).”
+“Indeed you are known to me, O King—depart, O delight of Pulastya’s line (_gaccha paulastya-nandana_)! For through my austerity I know everything (_jānāmi tapasā sarvam_) that transpires across the three worlds (_trailokye yad dhi vartate_).”
 </details>
 </details>
 
@@ -593,7 +593,7 @@ Pierced by Kāma’s arrows, Rāvaṇa descends from Puṣpaka, mocks Vedavatī�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Once more Rāvaṇa spoke to that maiden of exceedingly great vows (tāṃ kanyāṃ sumahāvratām), descending from the crest of his aerial car (avaruhya vimānāgrāt), pierced by the arrows of Kāma (kandarpa-śara-pīḍitaḥ):
+Once more Rāvaṇa spoke to that maiden of exceedingly great vows (_tāṃ kanyāṃ sumahāvratām_), descending from the crest of his aerial car (_avaruhya vimānāgrāt_), pierced by the arrows of Kāma (_kandarpa-śara-pīḍitaḥ_):
 </details>
 </details>
 
@@ -624,7 +624,7 @@ Once more Rāvaṇa spoke to that maiden of exceedingly great vows (tāṃ kany�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are blinded by foolish pride, O fair-hipped one (avaliptā ’si suśroṇi), that your mind should be of such a sort (yasyās te matir īdṛśī)! It is for the aged, O fawn-eyed maiden (vṛddhānāṃ mṛgaśāvākṣi), that the storing up of merit shines (bhrājate puṇya-sañcayaḥ).
+“You are blinded by foolish pride, O fair-hipped one (_avaliptā ’si suśroṇi_), that your mind should be of such a sort (_yasyās te matir īdṛśī_)! It is for the aged, O fawn-eyed maiden (_vṛddhānāṃ mṛgaśāvākṣi_), that the storing up of merit shines (_bhrājate puṇya-sañcayaḥ_).
 </details>
 </details>
 
@@ -658,7 +658,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with every grace (sarva-guṇa-sampannā), you ought not to speak in such a manner (nārhase vaktum īdṛśam); O loveliest beauty of the three worlds, O timid one (trailokya-sundarī bhīru), your youth is slipping away (yauvanaṃ te nivartate)!
+“Endowed with every grace (_sarva-guṇa-sampannā_), you ought not to speak in such a manner (_nārhase vaktum īdṛśam_); O loveliest beauty of the three worlds, O timid one (_trailokya-sundarī bhīru_), your youth is slipping away (_yauvanaṃ te nivartate_)!
 </details>
 </details>
 
@@ -689,7 +689,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the sovereign of Laṅkā, O gentle lady (ahaṃ laṅkāpatir bhadre), renowned as Daśagrīva (daśagrīva iti śrutaḥ); become the wife of such as me (tasya me bhava bhāryā tvam) and enjoy all delights at your pleasure (bhuṅkṣva bhogān yathāsukham)!
+“I am the sovereign of Laṅkā, O gentle lady (_ahaṃ laṅkāpatir bhadre_), renowned as Daśagrīva (_daśagrīva iti śrutaḥ_); become the wife of such as me (_tasya me bhava bhāryā tvam_) and enjoy all delights at your pleasure (_bhuṅkṣva bhogān yathāsukham_)!
 </details>
 </details>
 
@@ -723,7 +723,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And who, pray, is that person whom you call Viṣṇu (kaś ca tāvad asau yaṃ tvaṃ viṣṇur ity abhibhāṣase)? In valor and in austerity alike (vīryeṇa tapasā caiva), in luxury and in might (bhogena ca balena ca)—
+“And who, pray, is that person whom you call Viṣṇu (_kaś ca tāvad asau yaṃ tvaṃ viṣṇur ity abhibhāṣase_)? In valor and in austerity alike (_vīryeṇa tapasā caiva_), in luxury and in might (_bhogena ca balena ca_)—
 </details>
 </details>
 
@@ -760,7 +760,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is no equal to me, O fair woman (na mayā sa samo bhadre), that one whom you desire, O graceful lady (yaṃ tvaṃ kāmayase ’ṅgane)!” When he had spoken thus (ity uktavati tasmiṃs tu), Vedavatī then replied (vedavaty atha sā ’bravīt):
+“He is no equal to me, O fair woman (_na mayā sa samo bhadre_), that one whom you desire, O graceful lady (_yaṃ tvaṃ kāmayase ’ṅgane_)!” When he had spoken thus (_ity uktavati tasmiṃs tu_), Vedavatī then replied (_vedavaty atha sā ’bravīt_):
 </details>
 </details>
 
@@ -799,7 +799,7 @@ When Vedavatī rebukes Rāvaṇa for disparaging Viṣṇu, the demon seizes her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“No, speak not thus (mā maivam)!” that maiden exclaimed to the night-roamer. “What wise being apart from you, O lord of rākṣasas (tvad-ṛte rākṣasendrānyaḥ ... buddhimān), would disparage Viṣṇu (ko ’vamanyeta), sovereign of the three worlds (trailokyādhipatiṃ viṣṇum) bowed to by all the worlds (sarva-loka-namaskṛtam)?”
+“No, speak not thus (_mā maivam_)!” that maiden exclaimed to the night-roamer. “What wise being apart from you, O lord of rākṣasas (_tvad-ṛte rākṣasendrānyaḥ ... buddhimān_), would disparage Viṣṇu (_ko ’vamanyeta_), sovereign of the three worlds (_trailokyādhipatiṃ viṣṇum_) bowed to by all the worlds (_sarva-loka-namaskṛtam_)?”
 </details>
 </details>
 
@@ -830,7 +830,7 @@ When Vedavatī rebukes Rāvaṇa for disparaging Viṣṇu, the demon seizes her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed there by Vedavatī (evam uktas tayā tatra vedavatyā), that night-roamer (niśācaraḥ) laid hold of the maiden by the hair of her head (mūrdhajeṣu ... kanyām) with the tips of his fingers (karāgreṇa parāmṛśat).
+Thus addressed there by Vedavatī (_evam uktas tayā tatra vedavatyā_), that night-roamer (_niśācaraḥ_) laid hold of the maiden by the hair of her head (_mūrdhajeṣu ... kanyām_) with the tips of his fingers (_karāgreṇa parāmṛśat_).
 </details>
 </details>
 
@@ -864,7 +864,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Vedavatī, filled with wrath (kruddhā), severed her own hair with her hand (keśān hastena sā ’cchinat); becoming a sword (asir bhūtvā), her hand cut off those locks then and there (karas tasyāḥ keśāṃś chinnāṃs tadā ’karot).
+Thereupon Vedavatī, filled with wrath (_kruddhā_), severed her own hair with her hand (_keśān hastena sā ’cchinat_); becoming a sword (_asir bhūtvā_), her hand cut off those locks then and there (_karas tasyāḥ keśāṃś chinnāṃs tadā ’karot_).
 </details>
 </details>
 
@@ -895,7 +895,7 @@ Thereupon Vedavatī, filled with wrath (kruddhā), severed her own hair with her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blazing as it were with fury (jvalantīva roṣeṇa) and seeming to consume the night-roamer (dahantīva niśācaram), she kindled a fire (agniṃ samādhāya) in haste to die (maraṇāya kṛtatvarā) and spoke:
+Blazing as it were with fury (_jvalantīva roṣeṇa_) and seeming to consume the night-roamer (_dahantīva niśācaram_), she kindled a fire (_agniṃ samādhāya_) in haste to die (_maraṇāya kṛtatvarā_) and spoke:
 </details>
 </details>
 
@@ -926,7 +926,7 @@ Blazing as it were with fury (jvalantīva roṣeṇa) and seeming to consume the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Defiled as I have been by you, O ignoble wretch (dharṣitāyās tvayānārya), life is no longer desired by me (na me jīvitam iṣyate); therefore, O rākṣasa, I shall enter the sacred fire (pravekṣyāmi ... hutāśanam) before your very eyes (paśyatas te)!
+“Defiled as I have been by you, O ignoble wretch (_dharṣitāyās tvayānārya_), life is no longer desired by me (_na me jīvitam iṣyate_); therefore, O rākṣasa, I shall enter the sacred fire (_pravekṣyāmi ... hutāśanam_) before your very eyes (_paśyatas te_)!
 </details>
 </details>
 
@@ -957,7 +957,7 @@ Blazing as it were with fury (jvalantīva roṣeṇa) and seeming to consume the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And because I have been violated in the forest by you, O sinful-souled one (dharṣitā cāhaṃ tvayā pāpātmanā vane), therefore for the sake of your destruction (tava vadhārthaṃ hi) I shall surely be born again (samutpatsye hy ahaṃ punaḥ)!
+“And because I have been violated in the forest by you, O sinful-souled one (_dharṣitā cāhaṃ tvayā pāpātmanā vane_), therefore for the sake of your destruction (_tava vadhārthaṃ hi_) I shall surely be born again (_samutpatsye hy ahaṃ punaḥ_)!
 </details>
 </details>
 
@@ -996,7 +996,7 @@ Declining to waste her tapas on a curse, Vedavatī prays for non-uterine rebirth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a wicked-minded man (puruṣaḥ pāpa-niścayaḥ) cannot be slain by a woman (na hi śakyaṃ striyā hantum), and were a curse to be launched by me upon you (śāpe tvayi mayotsṛṣṭe), it would cause a waste of my austerity (tapasaś ca vyayo bhavet).
+“For a wicked-minded man (_puruṣaḥ pāpa-niścayaḥ_) cannot be slain by a woman (_na hi śakyaṃ striyā hantum_), and were a curse to be launched by me upon you (_śāpe tvayi mayotsṛṣṭe_), it would cause a waste of my austerity (_tapasaś ca vyayo bhavet_).
 </details>
 </details>
 
@@ -1027,7 +1027,7 @@ Declining to waste her tapas on a curse, Vedavatī prays for non-uterine rebirth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet if anything has been rightly performed, bestowed in charity, or offered in sacred fire by me (yadi tv asti mayā kiñcit kṛtaṃ dattaṃ hutaṃ tathā), then by that merit may I become the non-uterine, virtuous daughter (ayonijā sādhvī ... sutā) of a righteous man (dharmiṇaḥ)!”
+“Yet if anything has been rightly performed, bestowed in charity, or offered in sacred fire by me (_yadi tv asti mayā kiñcit kṛtaṃ dattaṃ hutaṃ tathā_), then by that merit may I become the non-uterine, virtuous daughter (_ayonijā sādhvī ... sutā_) of a righteous man (_dharmiṇaḥ_)!”
 </details>
 </details>
 
@@ -1058,7 +1058,7 @@ Declining to waste her tapas on a curse, Vedavatī prays for non-uterine rebirth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, she entered the blazing fire (praviṣṭā sā jvalitaṃ jātavedasam), and from the heavens fell a divine shower of blossoms (divyā puṣpa-vṛṣṭiḥ) on every side (samantataḥ).
+Having spoken thus, she entered the blazing fire (_praviṣṭā sā jvalitaṃ jātavedasam_), and from the heavens fell a divine shower of blossoms (_divyā puṣpa-vṛṣṭiḥ_) on every side (_samantataḥ_).
 </details>
 </details>
 
@@ -1089,7 +1089,7 @@ Having spoken thus, she entered the blazing fire (praviṣṭā sā jvalitaṃ j
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Once more she came into being inside a lotus (punar eva samudbhūtā padme), radiant as a lotus herself (padma-samaprabhā); and from there too she was found again by that rākṣasa (punaḥ prāptā ... tena rakṣasā) just as before (pūrvavat).
+Once more she came into being inside a lotus (_punar eva samudbhūtā padme_), radiant as a lotus herself (_padma-samaprabhā_); and from there too she was found again by that rākṣasa (_punaḥ prāptā ... tena rakṣasā_) just as before (_pūrvavat_).
 </details>
 </details>
 
@@ -1120,7 +1120,7 @@ Once more she came into being inside a lotus (punar eva samudbhūtā padme), rad
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up that maiden glowing like the heart of a lotus (kanyāṃ kamala-garbhābhām), Rāvaṇa went to his own palace (svagṛhaṃ yayau); and bringing her in (pragṛhya), Rāvaṇa showed her to his minister (darśayām āsa mantriṇe).
+Taking up that maiden glowing like the heart of a lotus (_kanyāṃ kamala-garbhābhām_), Rāvaṇa went to his own palace (_svagṛhaṃ yayau_); and bringing her in (_pragṛhya_), Rāvaṇa showed her to his minister (_darśayām āsa mantriṇe_).
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ Taking up that maiden glowing like the heart of a lotus (kanyāṃ kamala-garbh�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Skilled in reading bodily omens (lakṣaṇajñaḥ), the minister examined her intently (nirīkṣyaiva) and spoke thus to Rāvaṇa: “Abiding in your house, this fair-hipped maiden (gṛhasthaiṣā hi suśroṇī) manifestly appears solely for your destruction (tvad-vadhāyaiva dṛśyate)!”
+Skilled in reading bodily omens (_lakṣaṇajñaḥ_), the minister examined her intently (_nirīkṣyaiva_) and spoke thus to Rāvaṇa: “Abiding in your house, this fair-hipped maiden (_gṛhasthaiṣā hi suśroṇī_) manifestly appears solely for your destruction (_tvad-vadhāyaiva dṛśyate_)!”
 </details>
 </details>
 
@@ -1190,7 +1190,7 @@ Cast into the sea by Rāvaṇa, the lotus-born maiden reaches Janaka’s sacrifi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this, O Rāma, Rāvaṇa cast her into the ocean (arṇave ... tāṃ pracikṣepa rāvaṇaḥ); and she, reaching the earth (kṣitim āsādya), entered the midst of a sacrificial precinct (yajñāyatana-madhyagā).
+Hearing this, O Rāma, Rāvaṇa cast her into the ocean (_arṇave ... tāṃ pracikṣepa rāvaṇaḥ_); and she, reaching the earth (_kṣitim āsādya_), entered the midst of a sacrificial precinct (_yajñāyatana-madhyagā_).
 </details>
 </details>
 
@@ -1223,9 +1223,9 @@ Hearing this, O Rāma, Rāvaṇa cast her into the ocean (arṇave ... tāṃ pr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** Turned up by the tip of the king’s plough (rājño halamukhotkṛṣṭā), that virtuous lady rose forth once again (punar apy utthitā satī); she is that very daughter born to King Janaka, O Lord (saiṣā janakarājasya prasūtā tanayā prabho), your own consort, O mighty-armed one—for you are the eternal Viṣṇu (viṣṇus tvaṃ hi sanātanaḥ)!
+**38:** Turned up by the tip of the king’s plough (_rājño halamukhotkṛṣṭā_), that virtuous lady rose forth once again (_punar apy utthitā satī_); she is that very daughter born to King Janaka, O Lord (_saiṣā janakarājasya prasūtā tanayā prabho_), your own consort, O mighty-armed one—for you are the eternal Viṣṇu (_viṣṇus tvaṃ hi sanātanaḥ_)!
 
-**39:** That mountain-like foe (śailābhaḥ), formerly struck down by her wrath (pūrvaṃ krodhāhitaḥ śatruḥ), has thus been slain by her (yayā ’sau nihatas tathā) after resorting to your superhuman prowess (upāśrayitvā ... tava vīryam amānuṣam).
+**39:** That mountain-like foe (_śailābhaḥ_), formerly struck down by her wrath (_pūrvaṃ krodhāhitaḥ śatruḥ_), has thus been slain by her (_yayā ’sau nihatas tathā_) after resorting to your superhuman prowess (_upāśrayitvā ... tava vīryam amānuṣam_).
 </details>
 </details>
 
@@ -1256,7 +1256,7 @@ Hearing this, O Rāma, Rāvaṇa cast her into the ocean (arṇave ... tāṃ pr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even thus shall this illustrious lady be born again among mortals (martyeṣūtpatsyate punaḥ) in a field cloven by the ploughshare’s tip (kṣetre halamukhotkṛṣṭe), like a tongue of flame upon the altar (vedyām agniśikhopamā).
+Even thus shall this illustrious lady be born again among mortals (_martyeṣūtpatsyate punaḥ_) in a field cloven by the ploughshare’s tip (_kṣetre halamukhotkṛṣṭe_), like a tongue of flame upon the altar (_vedyām agniśikhopamā_).
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ Even thus shall this illustrious lady be born again among mortals (martyeṣūtp
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She was formerly named Vedavatī in the Kṛta age (pūrvam āsīt kṛte yuge); having reached the Tretā age for the destruction of that rākṣasa (tretāyugam anuprāpya vadhārthaṃ tasya rakṣasaḥ)—
+She was formerly named Vedavatī in the Kṛta age (_pūrvam āsīt kṛte yuge_); having reached the Tretā age for the destruction of that rākṣasa (_tretāyugam anuprāpya vadhārthaṃ tasya rakṣasaḥ_)—
 </details>
 </details>
 
@@ -1321,7 +1321,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She was born in the Maithila lineage of the high-souled Janaka (utpannā maithila-kule janakasya mahātmanaḥ); and having sprung from the plough-furrow (sītotpannā), she is accordingly called Sītā by mortals (sīteti mānuṣaiḥ punar ucyate).
+She was born in the Maithila lineage of the high-souled Janaka (_utpannā maithila-kule janakasya mahātmanaḥ_); and having sprung from the plough-furrow (_sītotpannā_), she is accordingly called Sītā by mortals (_sīteti mānuṣaiḥ punar ucyate_).
 </details>
 </details>
 

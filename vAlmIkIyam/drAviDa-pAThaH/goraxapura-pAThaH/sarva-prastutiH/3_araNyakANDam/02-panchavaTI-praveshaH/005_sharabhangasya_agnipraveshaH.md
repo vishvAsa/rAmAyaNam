@@ -97,11 +97,11 @@ sage Sharabhanga..." [3-5-2b, 3a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having slain that rākṣasa Virādha of terrible strength (bhīma-balam) in the forest, the heroic [Rāma] then embraced Sītā and consoled (samāśvāsya) her.
+**1:** Having slain that rākṣasa Virādha of terrible strength (_bhīma-balam_) in the forest, the heroic [Rāma] then embraced Sītā and consoled (_samāśvāsya_) her.
 
-**2:** Rāma spoke to his brother Lakṣmaṇa of blazing splendour (dīpta-tejasam): “Arduous and impassable (durgam) is this forest, and we are not accustomed to the wilderness (vana-gocarāḥ).
+**2:** Rāma spoke to his brother Lakṣmaṇa of blazing splendour (_dīpta-tejasam_): “Arduous and impassable (_durgam_) is this forest, and we are not accustomed to the wilderness (_vana-gocarāḥ_).
 
-**3:** “Let us quickly approach Śarabhaṅga, rich in asceticism (tapo-dhanam).” [Having spoken thus,] Rāghava set out toward the hermitage of Śarabhaṅga.
+**3:** “Let us quickly approach Śarabhaṅga, rich in asceticism (_tapo-dhanam_).” [Having spoken thus,] Rāghava set out toward the hermitage of Śarabhaṅga.
 </details>
 </details>
 
@@ -150,7 +150,7 @@ a great wonder at the nearby of that hermitage of Sharabhanga.[3-5-3b, 4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Near that Śarabhaṅga of divine power (deva-prabhāvasya), whose self was purified by austerity (tapasā bhāvitātmanaḥ), he beheld a great marvel (mahad adbhutam).
+Near that Śarabhaṅga of divine power (_deva-prabhāvasya_), whose self was purified by austerity (_tapasā bhāvitātmanaḥ_), he beheld a great marvel (_mahad adbhutam_).
 </details>
 </details>
 
@@ -212,9 +212,9 @@ the other divinities are attending, and many more selfsame great-souls are worsh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** [He saw one] shining forth with his form, resplendent like the sun and fire (sūrya-vaiśvānara-prabham), mounted upon a preeminent chariot in the sky and attended by the gods (vibudhānugam).
+**5:** [He saw one] shining forth with his form, resplendent like the sun and fire (_sūrya-vaiśvānara-prabham_), mounted upon a preeminent chariot in the sky and attended by the gods (_vibudhānugam_).
 
-**6:** He beheld the lord of the gods (vibudheśvaram) not touching the earth (asaṃspṛśantaṃ vasudhām), a deity adorned with radiant ornaments and wearing dustless celestial garments (virajo’mbara-dhāriṇam).
+**6:** He beheld the lord of the gods (_vibudheśvaram_) not touching the earth (_asaṃspṛśantaṃ vasudhām_), a deity adorned with radiant ornaments and wearing dustless celestial garments (_virajo’mbara-dhāriṇam_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He beheld him] being reverenced by many great-souled beings of like appearance (tadvidhair eva), and [saw] near him a chariot stationed in the mid-space (antarikṣa-gatam), yoked with green steeds (haritair vājibhiḥ).
+[He beheld him] being reverenced by many great-souled beings of like appearance (_tadvidhair eva_), and [saw] near him a chariot stationed in the mid-space (_antarikṣa-gatam_), yoked with green steeds (_haritair vājibhiḥ_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ like the noontime sun, or a cluster of silver clouds, or like the silvern sphere
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not far from him (adūratas tasya), he saw [that chariot] resembling the newly risen sun (taruṇāditya-saṃnibham), gleaming with the dense luster of a white cloud (pāṇḍurābhra-ghana-prakhyam) and resembling the orb of the moon.
+Not far from him (_adūratas tasya_), he saw [that chariot] resembling the newly risen sun (_taruṇāditya-saṃnibham_), gleaming with the dense luster of a white cloud (_pāṇḍurābhra-ghana-prakhyam_) and resembling the orb of the moon.
 </details>
 </details>
 
@@ -372,7 +372,7 @@ but they are royal insignias.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld a spotless parasol (vimalaṃ chatram) graced with variegated garlands, and two preeminent, costly yak-tail fans (cāmara-vyajane) with golden handles (rukma-daṇḍe).
+He beheld a spotless parasol (_vimalaṃ chatram_) graced with variegated garlands, and two preeminent, costly yak-tail fans (_cāmara-vyajane_) with golden handles (_rukma-daṇḍe_).
 </details>
 </details>
 
@@ -442,11 +442,11 @@ On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Held by two celestial maidens (vara-nārībhyām) and waved above his head, [they shone] while many Gandharvas, gods, Siddhas, and supreme sages (paramarṣayaḥ)—
+**10:** Held by two celestial maidens (_vara-nārībhyām_) and waved above his head, [they shone] while many Gandharvas, gods, Siddhas, and supreme sages (_paramarṣayaḥ_)—
 
-**11:** —extolled with choicest hymns (gīrbhir agryābhiḥ) the god stationed in the sky. While Vāsava was thus conversing with Śarabhaṅga—
+**11:** —extolled with choicest hymns (_gīrbhir agryābhiḥ_) the god stationed in the sky. While Vāsava was thus conversing with Śarabhaṅga—
 
-**12:** —Rāma, having seen Śatakratu there, spoke to Lakṣmaṇa; pointing out the chariot, Rāma then showed that marvel (adbhutam) to his brother.
+**12:** —Rāma, having seen Śatakratu there, spoke to Lakṣmaṇa; pointing out the chariot, Rāma then showed that marvel (_adbhutam_) to his brother.
 </details>
 </details>
 
@@ -503,7 +503,7 @@ effulgence and auspiciousness as well, and that abides in firmament, and highly 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Lakṣmaṇa, this wondrous chariot stationed in the sky, radiant with rays (arciṣmantam), endowed with splendour, and blazing like the scorching sun!
+“Behold, O Lakṣmaṇa, this wondrous chariot stationed in the sky, radiant with rays (_arciṣmantam_), endowed with splendour, and blazing like the scorching sun!
 </details>
 </details>
 
@@ -557,7 +557,7 @@ they are these divinely green horses that now abide in the firmament, and defini
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those divine horses of Puruhūta—of Śakra—of whom we had heard in former times (purā naḥ śrutāḥ): surely these stationed in the sky are those very green steeds (harayaḥ).
+“Those divine horses of Puruhūta—of Śakra—of whom we had heard in former times (_purā naḥ śrutāḥ_): surely these stationed in the sky are those very green steeds (_harayaḥ_).
 </details>
 </details>
 
@@ -592,9 +592,9 @@ they are these divinely green horses that now abide in the firmament, and defini
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “And these, O tiger among men, who stand in every direction (abhito diśam) by hundreds upon hundreds (śataṃ śatam)—youths wearing earrings (kuṇḍalinaḥ) with swords in hand—
+**15:** “And these, O tiger among men, who stand in every direction (_abhito diśam_) by hundreds upon hundreds (_śataṃ śatam_)—youths wearing earrings (_kuṇḍalinaḥ_) with swords in hand—
 
-**16:** “—possessing broad and muscular chests (vistīrṇa-vipuloraskāḥ), with arms long as iron bars (parighāyata-bāhavaḥ), all clad in crimson-rayed garments (śoṇāṃśu-vasanāḥ), unassailable like tigers—
+**16:** “—possessing broad and muscular chests (_vistīrṇa-vipuloraskāḥ_), with arms long as iron bars (_parighāyata-bāhavaḥ_), all clad in crimson-rayed garments (_śoṇāṃśu-vasanāḥ_), unassailable like tigers—
 </details>
 </details>
 
@@ -649,7 +649,7 @@ to flaring fires, and in their appearance, Soumitri, they always bear a look of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—upon the chests of all of them are necklaces (hārāḥ) resembling blazing fire; O Saumitri, they bear the form of twenty-five years of age (pañcaviṃśati-vārṣikam).
+“—upon the chests of all of them are necklaces (_hārāḥ_) resembling blazing fire; O Saumitri, they bear the form of twenty-five years of age (_pañcaviṃśati-vārṣikam_).
 </details>
 </details>
 
@@ -700,7 +700,7 @@ for gods are immortals and they will be ever young... [3-5-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this, indeed, is forever the constant age of the gods (devānāṃ vayaḥ), just as these tigers among men of pleasing aspect are seen to bear.
+“For this, indeed, is forever the constant age of the gods (_devānāṃ vayaḥ_), just as these tigers among men of pleasing aspect are seen to bear.
 </details>
 </details>
 
@@ -758,7 +758,7 @@ a resplendent one, on chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Remain right here with Vaidehī for a moment (muhūrtam), O Lakṣmaṇa, until I ascertain clearly (vyaktam) who this radiant personage is upon the chariot.”
+“Remain right here with Vaidehī for a moment (_muhūrtam_), O Lakṣmaṇa, until I ascertain clearly (_vyaktam_) who this radiant personage is upon the chariot.”
 </details>
 </details>
 
@@ -808,7 +808,7 @@ On saying to Lakshmana stay there only...' Rama proceeded towards the hermitage 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to Saumitri—“Let a halt be made right here (ihaiva sthīyatām)”—Kākutstha strode forth toward the hermitage of Śarabhaṅga.
+Having spoken thus to Saumitri—“Let a halt be made right here (_ihaiva sthīyatām_)”—Kākutstha strode forth toward the hermitage of Śarabhaṅga.
 </details>
 </details>
 
@@ -859,7 +859,7 @@ him. [3-5-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Śacī’s lord [Indra], beholding Rāma approaching closely (samabhigacchantam), took leave of Śarabhaṅga (anujñāpya) and spoke this [word] to the gods:
+Then Śacī’s lord [Indra], beholding Rāma approaching closely (_samabhigacchantam_), took leave of Śarabhaṅga (_anujñāpya_) and spoke this [word] to the gods:
 </details>
 </details>
 
@@ -890,7 +890,7 @@ Then Śacī’s lord [Indra], beholding Rāma approaching closely (samabhigaccha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yonder Rāma is drawing near here; before he addresses me, convey [me] to our destination (niṣṭhāṃ nayata); thereafter [when his task is done] he is worthy to behold me.
+“Yonder Rāma is drawing near here; before he addresses me, convey [me] to our destination (_niṣṭhāṃ nayata_); thereafter [when his task is done] he is worthy to behold me.
 </details>
 </details>
 
@@ -955,7 +955,7 @@ i.e., elimination of Ravana, then only he can see me..."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For not long hereafter I [shall behold] him victorious (jitavantam) and his purpose accomplished (kṛtārtham); for a mighty deed, most difficult for others to achieve (suduṣkaram), must be performed by him.”
+“For not long hereafter I [shall behold] him victorious (_jitavantam_) and his purpose accomplished (_kṛtārtham_); for a mighty deed, most difficult for others to achieve (_suduṣkaram_), must be performed by him.”
 </details>
 </details>
 
@@ -1015,7 +1015,7 @@ can be ended only by Rama, but not by others. Hence, Indra departed from there b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the thunderbolt-wielder (vajrī), the tamer of foes, having taken leave of that ascetic and honored him, departed to heaven (divam) by his horse-yoked chariot.
+Then the thunderbolt-wielder (_vajrī_), the tamer of foes, having taken leave of that ascetic and honored him, departed to heaven (_divam_) by his horse-yoked chariot.
 </details>
 </details>
 
@@ -1081,7 +1081,7 @@ environ is the presence of Seetha, near at Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the thousand-eyed [Indra] had departed, Rāghava, accompanied by his retinue (saparicchadaḥ), approached Śarabhaṅga, who was seated beside his sacred fire-oblation (agnihotram upāsīnam).
+When the thousand-eyed [Indra] had departed, Rāghava, accompanied by his retinue (_saparicchadaḥ_), approached Śarabhaṅga, who was seated beside his sacred fire-oblation (_agnihotram upāsīnam_).
 </details>
 </details>
 
@@ -1132,7 +1132,7 @@ Sage Sharabhanga they sat there, as they obtained a shelter. [3-5-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having clasped his feet, Rāma, Sītā, and Lakṣmaṇa sat down as permitted by him (tad-anujñātāḥ), having been granted a lodging place (labdha-vāsāḥ) and hospitably welcomed.
+Having clasped his feet, Rāma, Sītā, and Lakṣmaṇa sat down as permitted by him (_tad-anujñātāḥ_), having been granted a lodging place (_labdha-vāsāḥ_) and hospitably welcomed.
 </details>
 </details>
 
@@ -1182,7 +1182,7 @@ Then, Raghava enquired with sage about the arrival of Indra and Sage Sharabhanga
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāghava inquired about the arrival of Śakra (śakropayānam), and Śarabhaṅga related all of that to Rāghava:
+Then Rāghava inquired about the arrival of Śakra (_śakropayānam_), and Śarabhaṅga related all of that to Rāghava:
 </details>
 </details>
 
@@ -1236,7 +1236,7 @@ that which is unattainable for them with their souls unconquered... [3-5-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This boon-granting [Indra], O Rāma, desires to lead (ninīṣati) me to Brahmaloka, which has been won by fierce austerity and is hard to attain by the undisciplined (akṛtātmabhiḥ).
+“This boon-granting [Indra], O Rāma, desires to lead (_ninīṣati_) me to Brahmaloka, which has been won by fierce austerity and is hard to attain by the undisciplined (_akṛtātmabhiḥ_).
 </details>
 </details>
 
@@ -1298,7 +1298,7 @@ seeing and receiving Rama is his priority now.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Knowing you, O tiger among men, to be dwelling not far away (adūrataḥ), I do not depart for Brahmaloka without having beheld you, my beloved guest (priyātithim).
+“Knowing you, O tiger among men, to be dwelling not far away (_adūrataḥ_), I do not depart for Brahmaloka without having beheld you, my beloved guest (_priyātithim_).
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ in any of the said heavens, than having a glance at you. Maheshvara Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having met with you, O tiger among men—righteous and great-souled as you are—I shall depart to heaven (tridivam), both the lower and the supreme (avaraṃ param).
+“Having met with you, O tiger among men—righteous and great-souled as you are—I shall depart to heaven (_tridivam_), both the lower and the supreme (_avaraṃ param_).
 </details>
 </details>
 
@@ -1435,7 +1435,7 @@ is his wealth. So the heavenly abodes are his only wealth as of now, and they al
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O tiger among men, imperishable and auspicious worlds (akṣayāḥ śubhāḥ lokāḥ) have been won by me—both those of Brahmā (brāhmyāḥ) and those upon the vault of heaven (nāka-pṛṣṭhyāḥ); do you accept them as mine!”
+“O tiger among men, imperishable and auspicious worlds (_akṣayāḥ śubhāḥ lokāḥ_) have been won by me—both those of Brahmā (_brāhmyāḥ_) and those upon the vault of heaven (_nāka-pṛṣṭhyāḥ_); do you accept them as mine!”
 </details>
 </details>
 
@@ -1486,7 +1486,7 @@ to that sage. [3-5-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by the sage Śarabhaṅga, Rāghava, that tiger among men conversant with all scriptures (sarva-śāstra-viśāradaḥ), spoke these words:
+Addressed thus by the sage Śarabhaṅga, Rāghava, that tiger among men conversant with all scriptures (_sarva-śāstra-viśāradaḥ_), spoke these words:
 </details>
 </details>
 
@@ -1561,7 +1561,7 @@ work...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I myself shall win (aham evāhariṣyāmi) all those worlds, O great sage; I desire only a dwelling place prescribed (āvāsaṃ pradiṣṭam) by you here in the forest.”
+“I myself shall win (_aham evāhariṣyāmi_) all those worlds, O great sage; I desire only a dwelling place prescribed (_āvāsaṃ pradiṣṭam_) by you here in the forest.”
 </details>
 </details>
 
@@ -1612,7 +1612,7 @@ this way. [3-5-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāghava, whose strength equaled Śakra’s, Śarabhaṅga of great wisdom (mahā-prājñaḥ) spoke once more:
+Addressed thus by Rāghava, whose strength equaled Śakra’s, Śarabhaṅga of great wisdom (_mahā-prājñaḥ_) spoke once more:
 </details>
 </details>
 
@@ -1666,7 +1666,7 @@ and he will do something benignant to you... [3-5-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here in the forest, O Rāma, dwells a righteous ascetic of great splendour named Sutīkṣṇa, self-controlled (niyataḥ); he will arrange what is auspicious for you (śreyo vidhāsyati).
+“Here in the forest, O Rāma, dwells a righteous ascetic of great splendour named Sutīkṣṇa, self-controlled (_niyataḥ_); he will arrange what is auspicious for you (_śreyo vidhāsyati_).
 </details>
 </details>
 
@@ -1728,7 +1728,7 @@ vidhaasyati* = he, to you, housing, arranges.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do you approach the ascetic Sutīkṣṇa in a pure spot; in a delightful tract of the forest (ramaṇīye vanoddeśe) he will arrange a dwelling (vāsaṃ vidhāsyati) for you.
+“Do you approach the ascetic Sutīkṣṇa in a pure spot; in a delightful tract of the forest (_ramaṇīye vanoddeśe_) he will arrange a dwelling (_vāsaṃ vidhāsyati_) for you.
 </details>
 </details>
 
@@ -1785,7 +1785,7 @@ also River Pampa is called Mandakini, at times.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Follow this river Mandākinī upstream against the current (pratisrotām), bearing rafts of blossoms (puṣpoḍupa-vahām), O Rāma; thereby you shall reach there.
+“Follow this river Mandākinī upstream against the current (_pratisrotām_), bearing rafts of blossoms (_puṣpoḍupa-vahām_), O Rāma; thereby you shall reach there.
 </details>
 </details>
 
@@ -1851,7 +1851,7 @@ towards the evil side of the earth, for all of the sages know about Rama's desti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the path, O tiger among men; look upon me for a moment (muhūrtaṃ paśya), dear one, while I cast off my limbs as a serpent sheds its worn slough (jīrṇāṃ tvacam ivoragaḥ).”
+“This is the path, O tiger among men; look upon me for a moment (_muhūrtaṃ paśya_), dear one, while I cast off my limbs as a serpent sheds its worn slough (_jīrṇāṃ tvacam ivoragaḥ_).”
 </details>
 </details>
 
@@ -1902,7 +1902,7 @@ entered that sacred fire. [3-5-39]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having kindled and consecrated the sacred fire (agniṃ samādhāya) and offered oblations of clarified butter with mantras (mantravat), Śarabhaṅga of great splendour entered the fire (hutāśanam).
+Then, having kindled and consecrated the sacred fire (_agniṃ samādhāya_) and offered oblations of clarified butter with mantras (_mantravat_), Śarabhaṅga of great splendour entered the fire (_hutāśanam_).
 </details>
 </details>
 
@@ -2035,7 +2035,7 @@ Comment: The age of celestial is always constant like twenty-five-year-olds, as 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And he became a youth (kumāraḥ samapadyata) resplendent like fire (pāvaka-saṃkāśaḥ); rising up from that heap of flames (agni-cayāt), Śarabhaṅga shone forth.
+And he became a youth (_kumāraḥ samapadyata_) resplendent like fire (_pāvaka-saṃkāśaḥ_); rising up from that heap of flames (_agni-cayāt_), Śarabhaṅga shone forth.
 </details>
 </details>
 
@@ -2086,7 +2086,7 @@ has ascended to Brahma's abode. [3-5-42]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing beyond (vyatikramya) the worlds of ritualists who maintain the sacred fires (āhitāgnīnām), of great-souled sages, and of the gods, he ascended to Brahmaloka.
+Passing beyond (_vyatikramya_) the worlds of ritualists who maintain the sacred fires (_āhitāgnīnām_), of great-souled sages, and of the gods, he ascended to Brahmaloka.
 </details>
 </details>
 
@@ -2155,7 +2155,7 @@ happily spoke to him... "Welcome..." [3-5-43]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That bull among the twice-born (dvijarṣabhaḥ), of meritorious deeds in the world, beheld Pitāmaha accompanied by his attendants (sānucaram); and Pitāmaha too, beholding that twice-born sage, rejoiced and spoke: “Most welcome (susvāgatam)!”
+That bull among the twice-born (_dvijarṣabhaḥ_), of meritorious deeds in the world, beheld Pitāmaha accompanied by his attendants (_sānucaram_); and Pitāmaha too, beholding that twice-born sage, rejoiced and spoke: “Most welcome (_susvāgatam_)!”
 </details>
 </details>
 

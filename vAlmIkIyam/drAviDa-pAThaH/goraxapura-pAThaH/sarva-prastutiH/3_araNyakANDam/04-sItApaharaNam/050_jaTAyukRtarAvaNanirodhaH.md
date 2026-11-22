@@ -80,7 +80,7 @@ and even Vaidehi. [3-50-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Jaṭāyu, though half-asleep (avasuptaḥ), heard that cry (taṃ śabdam); he swiftly eyed Rāvaṇa (niraikṣad rāvaṇam) and beheld Vaidehī as well.
+Then Jaṭāyu, though half-asleep (_avasuptaḥ_), heard that cry (_taṃ śabdam_); he swiftly eyed Rāvaṇa (_niraikṣad rāvaṇam_) and beheld Vaidehī as well.
 </details>
 </details>
 
@@ -132,7 +132,7 @@ these words of expediency still perching on a tree. [3-50-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that glorious (śrīmān) foremost of birds (khagottamaḥ), resembling a mountain peak (parvata-śṛṅgābhaḥ) and sharp-beaked (tīkṣṇa-tuṇḍaḥ), perched upon a mighty tree (vanaspati-gataḥ), uttered auspicious speech (śubhāṃ giram):
+Thereupon that glorious (_śrīmān_) foremost of birds (_khagottamaḥ_), resembling a mountain peak (_parvata-śṛṅgābhaḥ_) and sharp-beaked (_tīkṣṇa-tuṇḍaḥ_), perched upon a mighty tree (_vanaspati-gataḥ_), uttered auspicious speech (_śubhāṃ giram_):
 </details>
 </details>
 
@@ -202,7 +202,7 @@ telling about himself, next he started to tell about his master. Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Daśagrīva! Abiding in ancient righteousness (dharme purāṇe) and steadfast in truth (satya-saṃśrayaḥ), O brother (bhrātaḥ), you ought not now to commit a reprehensible deed (ninditaṃ karma)!
+“O Daśagrīva! Abiding in ancient righteousness (_dharme purāṇe_) and steadfast in truth (_satya-saṃśrayaḥ_), O brother (_bhrātaḥ_), you ought not now to commit a reprehensible deed (_ninditaṃ karma_)!
 </details>
 </details>
 
@@ -260,7 +260,7 @@ because he is also the lord of yours...' Govindaraja.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am the mighty king of vultures (gṛdhra-rājaḥ), known by the name Jaṭāyu (jaṭāyur nāma); and the sovereign of all the world (rājā sarvasya lokasya), comparable to Mahendra and Varuṇa (mahendra-varuṇopamaḥ)—
+I am the mighty king of vultures (_gṛdhra-rājaḥ_), known by the name Jaṭāyu (_jaṭāyur nāma_); and the sovereign of all the world (_rājā sarvasya lokasya_), comparable to Mahendra and Varuṇa (_mahendra-varuṇopamaḥ_)—
 </details>
 </details>
 
@@ -312,7 +312,7 @@ wife of that preserver of all the worlds, namely Rama. [3-50-5b, 6a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Devoted to the welfare of the worlds (lokānāṃ ca hite yuktaḥ), is Rāma, the son of Daśaratha; this illustrious lady (yaśasvinī) is the lawful wife (dharma-patnī) of that lord of the world (loka-nāthasya)—
+Devoted to the welfare of the worlds (_lokānāṃ ca hite yuktaḥ_), is Rāma, the son of Daśaratha; this illustrious lady (_yaśasvinī_) is the lawful wife (_dharma-patnī_) of that lord of the world (_loka-nāthasya_)—
 </details>
 </details>
 
@@ -368,9 +368,9 @@ great-mighty Ravana, she is to be safeguarded particularly. [3-50-6b, 7a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** Sītā by name, of shapely hips (varārohā), whom you seek to abduct here (hartum ihecchasi). How could a king abiding in righteousness (sthito dharme) lay hands upon another's wife (paradārān parāmṛśet)?
+**6:** Sītā by name, of shapely hips (_varārohā_), whom you seek to abduct here (_hartum ihecchasi_). How could a king abiding in righteousness (_sthito dharme_) lay hands upon another&#x27;s wife (_paradārān parāmṛśet_)?
 
-**7:** The wives of kings (rāja-dārāḥ) must be protected with special care (viśeṣeṇa), O mighty one (mahābala); turn back your base course (gatiṃ nīcām) from the violation of another's wife (paradārābhimarśanāt)!
+**7:** The wives of kings (_rāja-dārāḥ_) must be protected with special care (_viśeṣeṇa_), O mighty one (_mahābala_); turn back your base course (_gatiṃ nīcām_) from the violation of another&#x27;s wife (_paradārābhimarśanāt_)!
 </details>
 </details>
 
@@ -446,7 +446,7 @@ nR^ipa | dharmam api ashubhodarkam loka vikR^iShTam eva ca - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A wise man (dhīraḥ) should not practice that which another would censure in him (yat paro 'sya vigarhayet); just like one's own wife, the wives of others must be guarded from violation (rakṣyā vimarśanāt).
+A wise man (_dhīraḥ_) should not practice that which another would censure in him (_yat paro &#x27;sya vigarhayet_); just like one&#x27;s own wife, the wives of others must be guarded from violation (_rakṣyā vimarśanāt_).
 </details>
 </details>
 
@@ -520,7 +520,7 @@ your subjects, on following your present path, gains access to your wife Mandoda
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether it be wealth (artham), pleasure (kāmam), or righteousness (dharmam) not explicitly set forth in the scriptures (śāstreṣv anāgatam), the cultured (śiṣṭāḥ) determine and follow it after the king (vyavasyanty anurājānam), O joy of Pulastya's line (paulastya-nandana).
+Whether it be wealth (_artham_), pleasure (_kāmam_), or righteousness (_dharmam_) not explicitly set forth in the scriptures (_śāstreṣv anāgatam_), the cultured (_śiṣṭāḥ_) determine and follow it after the king (_vyavasyanty anurājānam_), O joy of Pulastya&#x27;s line (_paulastya-nandana_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ suucitam... dk* 'subjects follow what a king does...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king is righteousness and pleasure, and the supreme treasury of all valuables (dravyāṇāṃ cottamo nidhiḥ); righteousness, good fortune, or sin (dharmaḥ śubhaṃ vā pāpaṃ vā) proceeds with the king as its root (rāja-mūlam).
+The king is righteousness and pleasure, and the supreme treasury of all valuables (_dravyāṇāṃ cottamo nidhiḥ_); righteousness, good fortune, or sin (_dharmaḥ śubhaṃ vā pāpaṃ vā_) proceeds with the king as its root (_rāja-mūlam_).
 </details>
 </details>
 
@@ -638,7 +638,7 @@ ruled righteously, like an evildoer attaining a heaven-bound aircraft. [3-50-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of sinful nature (pāpa-svabhāvaḥ) and fickle (capalaḥ), how have you, O foremost of rākṣasas, attained such sovereignty (aiśvaryam abhisamprāptaḥ), like an evildoer (duṣkṛtī) [mounting] a celestial chariot (vimānam iva)?
+Of sinful nature (_pāpa-svabhāvaḥ_) and fickle (_capalaḥ_), how have you, O foremost of _rākṣasas_, attained such sovereignty (_aiśvaryam abhisamprāptaḥ_), like an evildoer (_duṣkṛtī_) [mounting] a celestial chariot (_vimānam iva_)?
 </details>
 </details>
 
@@ -714,7 +714,7 @@ higher realms of Brahma, Vishnu, and Maheshvara if piloted by Ravana like demons
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He whose very nature is lust (kāma-svabhāvo yaḥ) cannot wipe that [nature] away (na śakyas taṃ pramārjitum); for noble conduct (āryam) does not dwell long (nāvasati ciram) in the abode of the wicked-minded (duṣṭātmanām ālaye).
+He whose very nature is lust (_kāma-svabhāvo yaḥ_) cannot wipe that [nature] away (_na śakyas taṃ pramārjitum_); for noble conduct (_āryam_) does not dwell long (_nāvasati ciram_) in the abode of the wicked-minded (_duṣṭātmanām ālaye_).
 </details>
 </details>
 
@@ -791,7 +791,7 @@ wage a war without a cause...' She must have understood the answer by now by the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Since the righteous-souled (dharmātmā) and mighty Rāma has committed no offense (nāparādhyati) in your realm or in your city (viṣaye vā pure vā te), how do you offend against him (kathaṃ tasyāparādhyasi)?
+Since the righteous-souled (_dharmātmā_) and mighty Rāma has committed no offense (_nāparādhyati_) in your realm or in your city (_viṣaye vā pure vā te_), how do you offend against him (_kathaṃ tasyāparādhyasi_)?
 </details>
 </details>
 
@@ -860,9 +860,9 @@ in that matter, whereupon you are stealing off with the wife of such a lord of w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** If on account of Śūrpaṇakhā (śūrpaṇakhā-hetoḥ), Khara stationed in Janasthāna, having transgressed bounds (ativṛttaḥ), was previously slain by Rāma of untiring deeds (akliṣṭa-karmaṇā)—
+**14:** If on account of Śūrpaṇakhā (_śūrpaṇakhā-hetoḥ_), Khara stationed in Janasthāna, having transgressed bounds (_ativṛttaḥ_), was previously slain by Rāma of untiring deeds (_akliṣṭa-karmaṇā_)—
 
-**15:** Speak truly in this matter (atra brūhi yathā-tattvam): what transgression (vyatikramaḥ) is there on Rāma's part, that you would abduct the wife of that lord of the world and depart (hṛtvā bhāryāṃ gamiṣyasi)?
+**15:** Speak truly in this matter (_atra brūhi yathā-tattvam_): what transgression (_vyatikramaḥ_) is there on Rāma&#x27;s part, that you would abduct the wife of that lord of the world and depart (_hṛtvā bhāryāṃ gamiṣyasi_)?
 </details>
 </details>
 
@@ -914,7 +914,7 @@ so when he assumes fury, burn you down as the Thunderbolt of Indra once burnt th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Release Vaidehī at once (kṣipraṃ visṛja vaidehīm), lest with his terrible eye (ghoreṇa cakṣuṣā) turned into blazing fire (dahana-bhūtena) he burn you up, as Indra's thunderbolt (indrāśaniḥ) burned Vṛtra!
+Release Vaidehī at once (_kṣipraṃ visṛja vaidehīm_), lest with his terrible eye (_ghoreṇa cakṣuṣā_) turned into blazing fire (_dahana-bhūtena_) he burn you up, as Indra&#x27;s thunderbolt (_indrāśaniḥ_) burned Vṛtra!
 </details>
 </details>
 
@@ -968,7 +968,7 @@ attire, and you are equally unwary that the Terminator's lasso is presently loos
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having tied a venomous serpent (sarpam āśīviṣam) in the hem of your garment (vastrānte), you do not realize it (nāvabudhyase); nor do you see the noose of Death (kāla-pāśam) fastened around your neck (grīvāyāṃ pratimuktam)!
+Having tied a venomous serpent (_sarpam āśīviṣam_) in the hem of your garment (_vastrānte_), you do not realize it (_nāvabudhyase_); nor do you see the noose of Death (_kāla-pāśam_) fastened around your neck (_grīvāyāṃ pratimuktam_)!
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ to examine how easily they can be broken by that stone...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Only that burden, gentle sir (saumya), should be borne which does not crush a man (yo naraṃ nāvasādayet); and only that food should be eaten which is digested without causing disease (jīryate yad anāmayam).
+Only that burden, gentle sir (_saumya_), should be borne which does not crush a man (_yo naraṃ nāvasādayet_); and only that food should be eaten which is digested without causing disease (_jīryate yad anāmayam_).
 </details>
 </details>
 
@@ -1111,7 +1111,7 @@ asukhodayam - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who would perform that deed (kas tat karma samācaret) by doing which there would accrue neither righteousness (dharmaḥ), nor renown (kīrtiḥ), nor lasting glory (yaśo dhruvam), [and by which] there would come only affliction to the body (śarīrasya bhavet khedaḥ)?
+Who would perform that deed (_kas tat karma samācaret_) by doing which there would accrue neither righteousness (_dharmaḥ_), nor renown (_kīrtiḥ_), nor lasting glory (_yaśo dhruvam_), [and by which] there would come only affliction to the body (_śarīrasya bhavet khedaḥ_)?
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ thousand years have elapsed since I was born. [3-50-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sixty thousand years (ṣaṣṭi-varṣa-sahasrāṇi) have passed since my birth (jātasya mama), O Rāvaṇa, as I have duly administered (yathāvad anutiṣṭhataḥ) my ancestral kingdom (pitṛ-paitāmahaṃ rājyam).
+Sixty thousand years (_ṣaṣṭi-varṣa-sahasrāṇi_) have passed since my birth (_jātasya mama_), O Rāvaṇa, as I have duly administered (_yathāvad anutiṣṭhataḥ_) my ancestral kingdom (_pitṛ-paitāmahaṃ rājyam_).
 </details>
 </details>
 
@@ -1222,7 +1222,7 @@ whereas I am pensile bird in an open sky. Nevertheless, on taking Vaidehi you ca
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am aged (vṛddho 'ham), whereas you are young (yuvā), armed with a bow (dhanvī), mounted on a chariot (sarathaḥ), clad in armor (kavacī), and furnished with arrows (śarī); yet even so, you shall not depart unharmed (kuśalī) taking Vaidehī from me (me)!
+I am aged (_vṛddho &#x27;ham_), whereas you are young (_yuvā_), armed with a bow (_dhanvī_), mounted on a chariot (_sarathaḥ_), clad in armor (_kavacī_), and furnished with arrows (_śarī_); yet even so, you shall not depart unharmed (_kuśalī_) taking Vaidehī from me (_me_)!
 </details>
 </details>
 
@@ -1306,7 +1306,7 @@ ultimately annihilates the demons that falsify or abuse the 'word.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You are unable to carry off Vaidehī by force (balād dhartum) while I look on (mama paśyataḥ), any more than one can [overturn] the immutable Vedic scripture (dhruvāṃ veda-śrutīm iva) through specious arguments joined with sophistry (hetubhir nyāya-saṃyuktaiḥ).
+You are unable to carry off Vaidehī by force (_balād dhartum_) while I look on (_mama paśyataḥ_), any more than one can [overturn] the immutable Vedic scripture (_dhruvāṃ veda-śrutīm iva_) through specious arguments joined with sophistry (_hetubhir nyāya-saṃyuktaiḥ_).
 </details>
 </details>
 
@@ -1366,7 +1366,7 @@ Or optionally, you can combat with me in which meantime Rama will come hither...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fight (yudhyasva), if you are a hero (yadi śūro 'si)! Stand for an hour (muhūrtaṃ tiṣṭha), O Rāvaṇa! Slain, you shall lie upon the ground (śayiṣyase hato bhūmau) just as Khara did before (yathā pūrvaṃ kharas tathā)!
+Fight (_yudhyasva_), if you are a hero (_yadi śūro &#x27;si_)! Stand for an hour (_muhūrtaṃ tiṣṭha_), O Rāvaṇa! Slain, you shall lie upon the ground (_śayiṣyase hato bhūmau_) just as Khara did before (_yathā pūrvaṃ kharas tathā_)!
 </details>
 </details>
 
@@ -1427,7 +1427,7 @@ you very soon. [3-50-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before long (nacirāt), Rāma clad in bark-garments (cīra-vāsāḥ)—by whom daityas and dānavas have repeatedly been slain in battle (asakṛt saṃyuge yena nihatā daitya-dānavāḥ)—shall slay you in combat (tvāṃ rāmo yudhi vadhiṣyati)!
+Before long (_nacirāt_), Rāma clad in bark-garments (_cīra-vāsāḥ_)—by whom _daityas_ and _dānavas_ have repeatedly been slain in battle (_asakṛt saṃyuge yena nihatā daitya-dānavāḥ_)—shall slay you in combat (_tvāṃ rāmo yudhi vadhiṣyati_)!
 </details>
 </details>
 
@@ -1481,7 +1481,7 @@ a doubt. [3-50-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What indeed can be done by me (kiṃ nu śakyaṃ mayā kartum), since the two royal princes have gone far away (gatau dūraṃ nṛpātmajau)? Terrified of those two (tayor bhītaḥ), O vile wretch (nīca), you are swiftly fleeing out of sight (kṣipraṃ tvaṃ naśyase)—there is no doubt!
+What indeed can be done by me (_kiṃ nu śakyaṃ mayā kartum_), since the two royal princes have gone far away (_gatau dūraṃ nṛpātmajau_)? Terrified of those two (_tayor bhītaḥ_), O vile wretch (_nīca_), you are swiftly fleeing out of sight (_kṣipraṃ tvaṃ naśyase_)—there is no doubt!
 </details>
 </details>
 
@@ -1535,7 +1535,7 @@ imaam siitaam* = this [lady,] Seetha; *na nayiSyasi hi* = not, you lead away, in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For while I remain alive (me jīvamānasya), you shall never lead away (na hi nayiṣyasi) this auspicious (śubhām), lotus-petal-eyed Sītā (sītāṃ kamala-patrākṣīm), the beloved queen of Rāma (rāmasya mahiṣīṃ priyām)!
+For while I remain alive (_me jīvamānasya_), you shall never lead away (_na hi nayiṣyasi_) this auspicious (_śubhām_), lotus-petal-eyed Sītā (_sītāṃ kamala-patrākṣīm_), the beloved queen of Rāma (_rāmasya mahiṣīṃ priyām_)!
 </details>
 </details>
 
@@ -1588,7 +1588,7 @@ to the great-souled Rama, likewise even to Dasharatha, even at the stake of my l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even at the cost of my life (jīvitenāpi), I must unfailingly render (avaśyaṃ tu mayā kāryam) a dear service (priyam) to that great-souled Rāma and to Daśaratha as well!
+Even at the cost of my life (_jīvitenāpi_), I must unfailingly render (_avaśyaṃ tu mayā kāryam_) a dear service (_priyam_) to that great-souled Rāma and to Daśaratha as well!
 </details>
 </details>
 
@@ -1658,7 +1658,7 @@ to you in a duel as long as I am alive. [3-50-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Halt, halt, O Daśagrīva! Wait a moment and behold, O Rāvaṇa! Like a fruit from its stalk (vṛntād iva phalam), I shall hurl you down from your foremost of chariots (tvāṃ tu pātayeyaṃ rathottamāt), and offer you the hospitality of battle (yuddhātithyaṃ pradāsyāmi) to the utmost of my strength (yathā-prāṇam), O night-stalker!”
+Halt, halt, O Daśagrīva! Wait a moment and behold, O Rāvaṇa! Like a fruit from its stalk (_vṛntād iva phalam_), I shall hurl you down from your foremost of chariots (_tvāṃ tu pātayeyaṃ rathottamāt_), and offer you the hospitality of battle (_yuddhātithyaṃ pradāsyāmi_) to the utmost of my strength (_yathā-prāṇam_), O night-stalker!”
 </details>
 </details>
 

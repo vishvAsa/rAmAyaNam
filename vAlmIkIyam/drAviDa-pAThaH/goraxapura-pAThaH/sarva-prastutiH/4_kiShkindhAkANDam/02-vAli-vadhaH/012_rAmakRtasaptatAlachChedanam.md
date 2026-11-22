@@ -81,7 +81,7 @@ valour, that great resplendent Rama took-up bow to inculcate credence in Sugreev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having heard this eloquent (subhāṣitam) speech of Sugrīva, Rāma of mighty splendor (mahātejāḥ) took up his bow (kārmukam) in order to instill confidence (pratyayārtham).
+And having heard this eloquent (_subhāṣitam_) speech of Sugrīva, Rāma of mighty splendor (_mahātejāḥ_) took up his bow (_kārmukam_) in order to instill confidence (_pratyayārtham_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ bowstring. [4-12-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having grasped his dreadful bow and a single arrow (śaram ekam), that bestower of honor (mānadaḥ) aimed at a sāla tree and shot it, filling the directions with reverberations (ravaiḥ).
+Having grasped his dreadful bow and a single arrow (_śaram ekam_), that bestower of honor (_mānadaḥ_) aimed at a _sāla_ tree and shot it, filling the directions with reverberations (_ravaiḥ_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ and even the levelled areas of mountain, and then entered the earth. [4-12-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Loosed by that mighty warrior, that arrow adorned with gold (svarṇapariṣkṛtaḥ) pierced the seven sāla trees, the mountain plateau (giriprastham), and the seven subterranean realms (saptabhūmim).
+Loosed by that mighty warrior, that arrow adorned with gold (_svarṇapariṣkṛtaḥ_) pierced the seven _sāla_ trees, the mountain plateau (_giriprastham_), and the seven subterranean realms (_saptabhūmim_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ talaatala* are the names of six strata of earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having pierced the sāla trees in an instant (muhūrtena), that shaft of tremendous speed (mahājavaḥ) emerged once more (niṣpatya ca punaḥ) and re-entered that very same quiver (tūṇam tam eva).
+Having pierced the _sāla_ trees in an instant (_muhūrtena_), that shaft of tremendous speed (_mahājavaḥ_) emerged once more (_niṣpatya ca punaḥ_) and re-entered that very same quiver (_tūṇam tam eva_).
 </details>
 </details>
 
@@ -291,7 +291,7 @@ Sugreeva went into a stunning astonishment at the rapidity of Rama's arrow. [4-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those seven sāla trees cloven through (nirbhinnān) by the velocity of Rāma's arrow (śaravegena), the bull among Vānaras (vānarapuṅgavaḥ) entered into supreme wonder (vismayam paramam).
+Beholding those seven _sāla_ trees cloven through (_nirbhinnān_) by the velocity of Rāma&#x27;s arrow (_śaravegena_), the bull among Vānaras (_vānarapuṅgavaḥ_) entered into supreme wonder (_vismayam paramam_).
 </details>
 </details>
 
@@ -346,7 +346,7 @@ ornaments dangled, and prostrated before Raghava with his head touching the grou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Supremely delighted (paramaprītaḥ), Sugrīva folded his hands in reverence (kṛtāñjaliḥ) and prostrated himself on the ground with his head (mūrdhnā) before Rāghava, his ornaments hanging loosely down (pralambīkṛtabhūṣaṇaḥ).
+Supremely delighted (_paramaprītaḥ_), Sugrīva folded his hands in reverence (_kṛtāñjaliḥ_) and prostrated himself on the ground with his head (_mūrdhnā_) before Rāghava, his ornaments hanging loosely down (_pralambīkṛtabhūṣaṇaḥ_).
 </details>
 </details>
 
@@ -407,7 +407,7 @@ him. [4-12-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thrilled by that feat (karmaṇā tena harṣitaḥ), he spoke this word to Rāma, the knower of dharma (dharmajñam), the foremost of all who know missile-weapons (sarvāstraviduṣām śreṣṭham), the steadfast hero (śūram avasthitam):
+Thrilled by that feat (_karmaṇā tena harṣitaḥ_), he spoke this word to Rāma, the knower of _dharma_ (_dharmajñam_), the foremost of all who know missile-weapons (_sarvāstraviduṣām śreṣṭham_), the steadfast hero (_śūram avasthitam_):
 </details>
 </details>
 
@@ -462,7 +462,7 @@ gods including Indra, oh, lord, then why to speak of Vali. [4-12-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O bull among men (puruṣarṣabha), with your arrows you are capable (samarthaḥ) of slaying in battle (samare) all the gods together with Indra (sendrān api surān sarvān)—how much more so Vālī, O lord (prabho)!
+“O bull among men (_puruṣarṣabha_), with your arrows you are capable (_samarthaḥ_) of slaying in battle (_samare_) all the gods together with Indra (_sendrān api surān sarvān_)—how much more so Vālī, O lord (_prabho_)!
 </details>
 </details>
 
@@ -518,7 +518,7 @@ only one arrow, oh Kakutstha, who then can stand up to you in the vanguard of wa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kākutstha, before you who have cloven (dāritāḥ) seven great sāla trees, the mountain, and the earth with a single arrow (bāṇenaikena), who can stand in the forefront of battle (raṇāgrataḥ)?
+“O Kākutstha, before you who have cloven (_dāritāḥ_) seven great _sāla_ trees, the mountain, and the earth with a single arrow (_bāṇenaikena_), who can stand in the forefront of battle (_raṇāgrataḥ_)?
 </details>
 </details>
 
@@ -571,7 +571,7 @@ Rain-god who accord favour on their own, my distress is gone and my joy is heigh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today my grief has vanished (vigataḥ śokaḥ), and today my joy is supreme (prītir adya parā mama), having gained you as a friend (suhṛdam) who are equal to Mahendra and Varuṇa (mahendravaruṇopamam).
+“Today my grief has vanished (_vigataḥ śokaḥ_), and today my joy is supreme (_prītir adya parā mama_), having gained you as a friend (_suhṛdam_) who are equal to Mahendra and Varuṇa (_mahendravaruṇopamam_).
 </details>
 </details>
 
@@ -624,7 +624,7 @@ for my happiness, for which I adjoin my palms in supplication." Thus Sugreeva re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today itself (adyaiva), for my pleasure (priyārtham me), slay that enemy wearing the form of a brother (vairiṇam bhrātṛrūpiṇam), Vālī, O Kākutstha! Here are my hands folded in supplication (baddho 'yam añjaliḥ).”
+“Today itself (_adyaiva_), for my pleasure (_priyārtham me_), slay that enemy wearing the form of a brother (_vairiṇam bhrātṛrūpiṇam_), Vālī, O Kākutstha! Here are my hands folded in supplication (_baddho &#x27;yam añjaliḥ_).”
 </details>
 </details>
 
@@ -671,7 +671,7 @@ and then Rama said these words to such a Sugreeva in reply. [4-12-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma of great wisdom (mahāprājñaḥ), having embraced (pariṣvajya) Sugrīva of pleasing aspect (priyadarśanam), replied in words shared in spirit by Lakṣmaṇa (lakṣmaṇānugatam vacaḥ):
+Thereupon Rāma of great wisdom (_mahāprājñaḥ_), having embraced (_pariṣvajya_) Sugrīva of pleasing aspect (_priyadarśanam_), replied in words shared in spirit by Lakṣmaṇa (_lakṣmaṇānugatam vacaḥ_):
 </details>
 </details>
 
@@ -745,7 +745,7 @@ of cruelty alone, but not any brotherliness. Rama Tilaka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From this [mountain] (asmāt) let us go to Kiṣkindhā; go quickly ahead of us (kṣipram gaccha tvam agrataḥ)! And having gone there, O Sugrīva, challenge (āhvaya) Vālī, that brother only in name (bhrātṛgandhinam)!”
+“From this [mountain] (_asmāt_) let us go to Kiṣkindhā; go quickly ahead of us (_kṣipram gaccha tvam agrataḥ_)! And having gone there, O Sugrīva, challenge (_āhvaya_) Vālī, that brother only in name (_bhrātṛgandhinam_)!”
 </details>
 </details>
 
@@ -797,7 +797,7 @@ thickets of forest trees and waited. [4-12-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone swiftly (tvaritam gatvā) to Kiṣkindhā, the city of Vālī (vālinaḥ purīm), all of them concealed themselves (ātmānam āvṛtya) among the trees and stood in the dense forest (gahane vane).
+Having gone swiftly (_tvaritam gatvā_) to Kiṣkindhā, the city of Vālī (_vālinaḥ purīm_), all of them concealed themselves (_ātmānam āvṛtya_) among the trees and stood in the dense forest (_gahane vane_).
 </details>
 </details>
 
@@ -850,7 +850,7 @@ the sky. [4-12-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tightly girded (gāḍham parihitaḥ), Sugrīva too uttered a dreadful roar (anadad ghoram) to summon Vālī (vālino hvānakāraṇāt), as though splitting the sky (bhindann ivāmbaram) with his cries out of impetuous force (vegāt).
+Tightly girded (_gāḍham parihitaḥ_), Sugrīva too uttered a dreadful roar (_anadad ghoram_) to summon Vālī (_vālino hvānakāraṇāt_), as though splitting the sky (_bhindann ivāmbaram_) with his cries out of impetuous force (_vegāt_).
 </details>
 </details>
 
@@ -915,7 +915,7 @@ like blazing sun from behind the black cloud.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that roar of his brother (ninadam bhrātuḥ), Vālī of mighty strength (mahābalaḥ) grew enraged (kruddhaḥ) and rushed forth in utmost fury (susaṃrabdhaḥ), like the sun from the western mountain ridge (bhāskaro 'stataṭād iva).
+Hearing that roar of his brother (_ninadam bhrātuḥ_), Vālī of mighty strength (_mahābalaḥ_) grew enraged (_kruddhaḥ_) and rushed forth in utmost fury (_susaṃrabdhaḥ_), like the sun from the western mountain ridge (_bhāskaro &#x27;stataṭād iva_).
 </details>
 </details>
 
@@ -973,7 +973,7 @@ their jarring spheres / compound." Paradise Lost. Book VI. - So say Griffith.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a tumultuous battle (sutumulam yuddham) arose between Vālī and Sugrīva, dreadful like the clash of the two planets Mercury and Mars (budhāṅgārakayor iva) in the sky (gagane).
+Then a tumultuous battle (_sutumulam yuddham_) arose between Vālī and Sugrīva, dreadful like the clash of the two planets Mercury and Mars (_budhāṅgārakayor iva_) in the sky (_gagane_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ with their thunderbolt-like palms, and lightning-like fists. [4-12-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With open palms like lightning-bolts (talair aśanikalpaiś ca) and with fists like Indra's thunderbolt (vajrakalpaiś ca muṣṭibhiḥ), the two brothers, beside themselves with wrath (krodhamūrchitau), struck one another (jaghnatuḥ samare 'nyonyam) in battle.
+With open palms like lightning-bolts (_talair aśanikalpaiś ca_) and with fists like Indra&#x27;s thunderbolt (_vajrakalpaiś ca muṣṭibhiḥ_), the two brothers, beside themselves with wrath (_krodhamūrchitau_), struck one another (_jaghnatuḥ samare &#x27;nyonyam_) in battle.
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ or the Dioskuri are the Ashwin twins of Hindus.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, bow in hand (dhanuṣpāṇiḥ), observed (samudaikṣata) those two heroes, who were identical to one another (anyonyasadṛśau) like the twin Aśvin gods (devāv ivāśvinau).
+Then Rāma, bow in hand (_dhanuṣpāṇiḥ_), observed (_samudaikṣata_) those two heroes, who were identical to one another (_anyonyasadṛśau_) like the twin Aśvin gods (_devāv ivāśvinau_).
 </details>
 </details>
 
@@ -1146,7 +1146,7 @@ arrow, as confusion is the only reason for Rama. [4-12-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Because Rāghava could not distinguish (yan nāvagacchat) either Sugrīva or Vālī, he therefore did not make up his mind (na kṛtavān buddhim) to loose the fatal arrow (moktum antakaram śaram).
+Because Rāghava could not distinguish (_yan nāvagacchat_) either Sugrīva or Vālī, he therefore did not make up his mind (_na kṛtavān buddhim_) to loose the fatal arrow (_moktum antakaram śaram_).
 </details>
 </details>
 
@@ -1201,7 +1201,7 @@ down, and thereby he immediately fled to Mt. Rishyamuka. [4-12-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime (etasminn antare), routed (bhagnaḥ) by that Vālī and not beholding his protector Rāghava (apaśyan rāghavam nātham), Sugrīva fled headlong (pradudruve) toward Ṛṣyamūka.
+In the meantime (_etasminn antare_), routed (_bhagnaḥ_) by that Vālī and not beholding his protector Rāghava (_apaśyan rāghavam nātham_), Sugrīva fled headlong (_pradudruve_) toward Ṛṣyamūka.
 </details>
 </details>
 
@@ -1253,7 +1253,7 @@ blood, and he entered the great forest of Rishyamuka as Vali chased him. [4-12-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exhausted (klāntaḥ), his limbs drenched in blood (rudhirasiktāṅgaḥ), and battered by blows (prahārair jarjarīkṛtaḥ), he was pursued in wrath by Vālī (vālinābhidrutaḥ krodhāt) and entered the great forest (mahāvanam).
+Exhausted (_klāntaḥ_), his limbs drenched in blood (_rudhirasiktāṅgaḥ_), and battered by blows (_prahārair jarjarīkṛtaḥ_), he was pursued in wrath by Vālī (_vālinābhidrutaḥ krodhāt_) and entered the great forest (_mahāvanam_).
 </details>
 </details>
 
@@ -1306,7 +1306,7 @@ of Sage Matanga. [4-12-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him enter that forest (tam praviṣṭam vanam dṛṣṭvā), Vālī of mighty strength stopped out of fear of the curse (śāpabhayāt tataḥ) and turned back (nivṛttaḥ), exclaiming, “You are spared (mukto hy asi tvam)!”
+Seeing him enter that forest (_tam praviṣṭam vanam dṛṣṭvā_), Vālī of mighty strength stopped out of fear of the curse (_śāpabhayāt tataḥ_) and turned back (_nivṛttaḥ_), exclaiming, “You are spared (_mukto hy asi tvam_)!”
 </details>
 </details>
 
@@ -1358,7 +1358,7 @@ Hanuma, where that monkey Sugreeva fled. [4-12-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava too, together with his brother [Lakṣmaṇa] (saha bhrātrā) and together with Hanūmān (saha caiva hanūmatā), came to that very forest (tad eva vanam āgacchat) where the Vānara Sugrīva was.
+Rāghava too, together with his brother [Lakṣmaṇa] (_saha bhrātrā_) and together with Hanūmān (_saha caiva hanūmatā_), came to that very forest (_tad eva vanam āgacchat_) where the Vānara Sugrīva was.
 </details>
 </details>
 
@@ -1418,7 +1418,7 @@ to earth and piteously spoke this without eyeing Rama [4-12-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that Rāma had arrived together with Lakṣmaṇa (sahalakṣmaṇam), Sugrīva, abashed (hrīmān) and gazing down at the earth (vasudhām avalokayan), spoke this piteous word (dīnam uvācedam):
+Seeing that Rāma had arrived together with Lakṣmaṇa (_sahalakṣmaṇam_), Sugrīva, abashed (_hrīmān_) and gazing down at the earth (_vasudhām avalokayan_), spoke this piteous word (_dīnam uvācedam_):
 </details>
 </details>
 
@@ -1491,9 +1491,9 @@ not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** “Having displayed your valor (darśayitvā ca vikramam), having told me `Challenge him!' (āhvayasveti mām uktvā), and having caused me to be battered by my foe (vairiṇā ghātayitvā), what have you done now (kim idānīm tvayā kṛtam)?
+**26:** “Having displayed your valor (_darśayitvā ca vikramam_), having told me `Challenge him!&#x27; (_āhvayasveti mām uktvā_), and having caused me to be battered by my foe (_vairiṇā ghātayitvā_), what have you done now (_kim idānīm tvayā kṛtam_)?
 
-**27:** “At that very moment (tām eva velām), O Rāghava, you ought to have told me truly (vaktavyam tvayā tattvataḥ), `I will not slay Vālī' (vālinam na nihanmīti); then I would not have gone from here (tato nāham ito vraje)!”
+**27:** “At that very moment (_tām eva velām_), O Rāghava, you ought to have told me truly (_vaktavyam tvayā tattvataḥ_), `I will not slay Vālī&#x27; (_vālinam na nihanmīti_); then I would not have gone from here (_tato nāham ito vraje_)!”
 </details>
 </details>
 
@@ -1544,7 +1544,7 @@ in this way. [4-12-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As great-souled Sugrīva was speaking thus piteously (karuṇam) in a distressed voice (dīnayā vācā), Rāghava replied once more (punar abravīt):
+As great-souled Sugrīva was speaking thus piteously (_karuṇam_) in a distressed voice (_dīnayā vācā_), Rāghava replied once more (_punar abravīt_):
 </details>
 </details>
 
@@ -1596,7 +1596,7 @@ reason may be heard and let the anger be discarded. [4-12-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hear, O Sugrīva, dear friend (tāta)—and let your wrath be cast aside (krodhaś ca vyapanīyatām)—the reason (kāraṇam) why that arrow of mine was not loosed (na visarjitaḥ) by me!
+“Hear, O Sugrīva, dear friend (_tāta_)—and let your wrath be cast aside (_krodhaś ca vyapanīyatām_)—the reason (_kāraṇam_) why that arrow of mine was not loosed (_na visarjitaḥ_) by me!
 </details>
 </details>
 
@@ -1642,7 +1642,7 @@ sthaH* = to each other, resemble, you both are there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In ornament (alaṃkāreṇa), in attire (veṣeṇa), in stature (pramāṇena), and in gait (gatena ca), O Sugrīva, both you and Vālī are identical to one another (sadṛśau sthaḥ parasparam).
+“In ornament (_alaṃkāreṇa_), in attire (_veṣeṇa_), in stature (_pramāṇena_), and in gait (_gatena ca_), O Sugrīva, both you and Vālī are identical to one another (_sadṛśau sthaḥ parasparam_).
 </details>
 </details>
 
@@ -1702,7 +1702,7 @@ speech, oh monkey, I could not mark any difference. [4-12-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In voice (svareṇa), in bodily luster (varcasā caiva), in glance (prekṣitena ca), O Vānara, in valor (vikrameṇa ca), and in battle-cries (vākyaiś ca), I could not discern any distinction between you two (vyaktim vām nopalakṣaye).
+“In voice (_svareṇa_), in bodily luster (_varcasā caiva_), in glance (_prekṣitena ca_), O Vānara, in valor (_vikrameṇa ca_), and in battle-cries (_vākyaiś ca_), I could not discern any distinction between you two (_vyaktim vām nopalakṣaye_).
 </details>
 </details>
 
@@ -1754,7 +1754,7 @@ annihilating arrow of mine as I was confused in the similarity of your personali
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O best of Vānaras (vānarottama), bewildered by your similarity of form (rūpasādṛśyān mohitaḥ), I did not loose (notsṛjāmi) this dreadful arrow of mighty speed (mahāvegam śaram) that destroys foes (śatrunibarhaṇam)—
+“Therefore, O best of Vānaras (_vānarottama_), bewildered by your similarity of form (_rūpasādṛśyān mohitaḥ_), I did not loose (_notsṛjāmi_) this dreadful arrow of mighty speed (_mahāvegam śaram_) that destroys foes (_śatrunibarhaṇam_)—
 </details>
 </details>
 
@@ -1809,7 +1809,7 @@ life-taking arrow, otherwise the basic object of ours will be ruined, isn't it. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—this life-ending, terrible shaft (jīvitāntakaram ghoram), being apprehensive on account of your resemblance (sādṛśyāt tu viśaṅkitaḥ), thinking: `Let there not be a destruction of the very root (mūlaghāto na nau syād dhi) for both of us (dvayor iti) caused by me!'
+“—this life-ending, terrible shaft (_jīvitāntakaram ghoram_), being apprehensive on account of your resemblance (_sādṛśyāt tu viśaṅkitaḥ_), thinking: `Let there not be a destruction of the very root (_mūlaghāto na nau syād dhi_) for both of us (_dvayor iti_) caused by me!&#x27;
 </details>
 </details>
 
@@ -1866,7 +1866,7 @@ isn't it. [4-12-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For if you, O hero, had perished (tvayi vīra vipanne hi) through my ignorance and rashness (ajñānāl lāghavān mayā), my folly and my childishness (mauḍhyam ca mama bālyam ca) would have been proclaimed (khyāpitam syāt), O lord of monkeys!
+“For if you, O hero, had perished (_tvayi vīra vipanne hi_) through my ignorance and rashness (_ajñānāl lāghavān mayā_), my folly and my childishness (_mauḍhyam ca mama bālyam ca_) would have been proclaimed (_khyāpitam syāt_), O lord of monkeys!
 </details>
 </details>
 
@@ -1924,9 +1924,9 @@ are our shelterer in this forest. [4-12-35, 36a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**35:** “Indeed, the slaying of one to whom protection has been granted (dattābhayavadho nāma) is a great and monstrous sin (pātakam mahad adbhutam); and I, Lakṣmaṇa, and Sītā of exquisite complexion (varavarṇinī)—
+**35:** “Indeed, the slaying of one to whom protection has been granted (_dattābhayavadho nāma_) is a great and monstrous sin (_pātakam mahad adbhutam_); and I, Lakṣmaṇa, and Sītā of exquisite complexion (_varavarṇinī_)—
 
-**36:** “—all of us are dependent upon you (tvadadhīnā vayam sarve), and in this forest you are our refuge (śaraṇam bhavān). Therefore fight once more (tasmād yudhyasva bhūyas tvam), and do not doubt me (mā māśaṅkīś ca), O Vānara!
+**36:** “—all of us are dependent upon you (_tvadadhīnā vayam sarve_), and in this forest you are our refuge (_śaraṇam bhavān_). Therefore fight once more (_tasmād yudhyasva bhūyas tvam_), and do not doubt me (_mā māśaṅkīś ca_), O Vānara!
 </details>
 </details>
 
@@ -1986,7 +1986,7 @@ squirming on the ground. [4-12-36, 37],
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Within this very hour (etan muhūrte tu), behold Vālī in battle (āhave) struck down by me with a single arrow (nirastam iṣuṇaikena) and writhing upon the surface of the earth (ceṣṭamānam mahītale)!
+“Within this very hour (_etan muhūrte tu_), behold Vālī in battle (_āhave_) struck down by me with a single arrow (_nirastam iṣuṇaikena_) and writhing upon the surface of the earth (_ceṣṭamānam mahītale_)!
 </details>
 </details>
 
@@ -2038,7 +2038,7 @@ identified when you are engaged in duel. [4-12-38]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Make a token of recognition (abhijñānam kuruṣva) for yourself (ātmanaḥ), O lord of Vānaras, whereby I may recognize you (yena tvām abhijānīyām) when you have entered into single combat (dvandvayuddham upāgatam).
+“Make a token of recognition (_abhijñānam kuruṣva_) for yourself (_ātmanaḥ_), O lord of Vānaras, whereby I may recognize you (_yena tvām abhijānīyām_) when you have entered into single combat (_dvandvayuddham upāgatam_).
 </details>
 </details>
 
@@ -2093,7 +2093,7 @@ this noble souled Sugreeva be garlanded with that." So said Rama to Lakshmana. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lakṣmaṇa, having plucked (utpāṭya) this blooming, auspiciously marked gajapuṣpī creeper (gajapuṣpīm imām phullām śubhalakṣaṇām), place it around the neck (kuru kaṇṭhe 'sya) of this great-souled Sugrīva!”
+“O Lakṣmaṇa, having plucked (_utpāṭya_) this blooming, auspiciously marked _gajapuṣpī_ creeper (_gajapuṣpīm imām phullām śubhalakṣaṇām_), place it around the neck (_kuru kaṇṭhe &#x27;sya_) of this great-souled Sugrīva!”
 </details>
 </details>
 
@@ -2148,7 +2148,7 @@ mountain, and slung it like a garland around the neck of that Sugreeva. [4-12-40
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Lakṣmaṇa plucked that flower-laden gajapuṣpī creeper (kusumāyutām gajapuṣpīm tām) growing on the mountain slope (giritaṭe jātām) and draped it around his neck (tasya kaṇṭhe vyasarjayat).
+Thereupon Lakṣmaṇa plucked that flower-laden _gajapuṣpī_ creeper (_kusumāyutām gajapuṣpīm tām_) growing on the mountain slope (_giritaṭe jātām_) and draped it around his neck (_tasya kaṇṭhe vyasarjayat_).
 </details>
 </details>
 
@@ -2204,7 +2204,7 @@ of herons adorning that cloud like a garland. [4-12-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that creeper clinging to his neck (latayā kaṇṭhasaktayā), that glorious one shone (sa tayā śuśubhe śrīmān) like a rain-cloud tinged with twilight (sasaṃdhya iva toyadaḥ) encircled by a garland of cranes (mālayeva balākānām).
+With that creeper clinging to his neck (_latayā kaṇṭhasaktayā_), that glorious one shone (_sa tayā śuśubhe śrīmān_) like a rain-cloud tinged with twilight (_sasaṃdhya iva toyadaḥ_) encircled by a garland of cranes (_mālayeva balākānām_).
 </details>
 </details>
 
@@ -2262,7 +2262,7 @@ emboldened by Rama's words, and he again advanced to Kishkindha with Rama, and r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Resplendent in bodily form (vibhrājamāno vapuṣā) and composed by Rāma's words (rāmavākyasamāhitaḥ), he went together with Rāma (jagāma saha rāmeṇa) and reached Kiṣkindhā once more (kiṣkindhām punar āpa saḥ).
+Resplendent in bodily form (_vibhrājamāno vapuṣā_) and composed by Rāma&#x27;s words (_rāmavākyasamāhitaḥ_), he went together with Rāma (_jagāma saha rāmeṇa_) and reached Kiṣkindhā once more (_kiṣkindhām punar āpa saḥ_).
 </details>
 </details>
 

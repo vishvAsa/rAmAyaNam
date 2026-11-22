@@ -95,7 +95,7 @@ spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having listened with effort (niśamya yatnena) to that speech of Vibhīṣaṇa, whose intellect equaled Bṛhaspati's (bṛhaspates tulyamateḥ), the mighty Indrajit, chief of the Nairṛta hosts (nairṛtayūthamukhyaḥ), then spoke this word there:
+Having listened with effort (_niśamya yatnena_) to that speech of Vibhīṣaṇa, whose intellect equaled Bṛhaspati&#x27;s (_bṛhaspates tulyamateḥ_), the mighty Indrajit, chief of the Nairṛta hosts (_nairṛtayūthamukhyaḥ_), then spoke this word there:
 </details>
 </details>
 
@@ -161,7 +161,7 @@ thing (as you suggest)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why indeed, O younger paternal uncle (tāta kaniṣṭha), is your speech so futile and altogether like that of a terrified man (bahubhītavac ca)? Even one not born in this lineage (asmin kule yo 'pi bhaven na jātaḥ) would neither speak nor conceive (naiva vaden na kuryāt) such a thing!
+“Why indeed, O younger paternal uncle (_tāta kaniṣṭha_), is your speech so futile and altogether like that of a terrified man (_bahubhītavac ca_)? Even one not born in this lineage (_asmin kule yo &#x27;pi bhaven na jātaḥ_) would neither speak nor conceive (_naiva vaden na kuryāt_) such a thing!
 </details>
 </details>
 
@@ -212,7 +212,7 @@ strength, heroism, prowess, courage, valor and vital powers" W.w m.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Vibhīṣaṇa, our father's younger brother (tāta kaniṣṭha eṣaḥ), is the sole man in this lineage devoid (ekaḥ kule 'smin puruṣo vimuktaḥ) of innate strength (sattvena), potency (vīryeṇa), martial exertion (parākrameṇa), steadfastness (dhairyeṇa), valor (śauryeṇa), and fiery pride (tejasā ca)!
+“This Vibhīṣaṇa, our father&#x27;s younger brother (_tāta kaniṣṭha eṣaḥ_), is the sole man in this lineage devoid (_ekaḥ kule &#x27;smin puruṣo vimuktaḥ_) of innate strength (_sattvena_), potency (_vīryeṇa_), martial exertion (_parākrameṇa_), steadfastness (_dhairyeṇa_), valor (_śauryeṇa_), and fiery pride (_tejasā ca_)!
 </details>
 </details>
 
@@ -263,7 +263,7 @@ by one very ordinary demon among us. O, coward! Why are you frightening us? "
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What indeed are those two sons of a mortal king (mānuṣarājaputrau)? These two can be slain by even a single ordinary Rākṣasa among us (asmākam ekena hi rākṣasena suprākṛtenāpi); why do you seek to frighten us, O coward (kuto bhīṣayase sma bhīro)?
+“What indeed are those two sons of a mortal king (_mānuṣarājaputrau_)? These two can be slain by even a single ordinary Rākṣasa among us (_asmākam ekena hi rākṣasena suprākṛtenāpi_); why do you seek to frighten us, O coward (_kuto bhīṣayase sma bhīro_)?
 </details>
 </details>
 
@@ -324,7 +324,7 @@ different quarters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Was not Śakra [Indra], the king of the gods and lord of the three worlds (trilokanātho devarājaḥ), cast down by me upon the surface of the earth (mayā bhūmitale niviṣṭaḥ)? And at that time all the hosts of the gods in their entirety, stricken with terror (bhayārpitāḥ), fled to the quarters of the sky (diśaḥ prapannāḥ)!
+“Was not Śakra [Indra], the king of the gods and lord of the three worlds (_trilokanātho devarājaḥ_), cast down by me upon the surface of the earth (_mayā bhūmitale niviṣṭaḥ_)? And at that time all the hosts of the gods in their entirety, stricken with terror (_bhayārpitāḥ_), fled to the quarters of the sky (_diśaḥ prapannāḥ_)!
 </details>
 </details>
 
@@ -393,7 +393,7 @@ celestials."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That elephant Airāvata, trumpeting loudly (niḥsvanam unnadan), was hurled down by me upon the ground (nipātito bhūmitale mayā tu); and having forcibly wrenched out his two tusks (vikṛṣya dantau tu mayā prasahya), I terrified all the hosts of the gods in their entirety (vitrāsitā devagaṇāḥ samagrāḥ)!
+“That elephant Airāvata, trumpeting loudly (_niḥsvanam unnadan_), was hurled down by me upon the ground (_nipātito bhūmitale mayā tu_); and having forcibly wrenched out his two tusks (_vikṛṣya dantau tu mayā prasahya_), I terrified all the hosts of the gods in their entirety (_vitrāsitā devagaṇāḥ samagrāḥ_)!
 </details>
 </details>
 
@@ -454,7 +454,7 @@ princes who are ordinary human beings?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How then am I—who am of great valor (suvīryaḥ), the crusher of the pride even of the gods (surāṇām api darpahantā) and the causer of grief even to the foremost Daityas (daityottamānām api śokakartā)—not capable of subduing these two ordinary mortal sons of a king (manuṣyayoḥ prākṛtayoḥ narendrātmajayoḥ)?”
+“How then am I—who am of great valor (_suvīryaḥ_), the crusher of the pride even of the gods (_surāṇām api darpahantā_) and the causer of grief even to the foremost Daityas (_daityottamānām api śokakartā_)—not capable of subduing these two ordinary mortal sons of a king (_manuṣyayoḥ prākṛtayoḥ narendrātmajayoḥ_)?”
 </details>
 </details>
 
@@ -520,7 +520,7 @@ bearers of weapons spoke then the following highly meaningful words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, hearing that speech of that unassailable one of mighty energy who resembled Indra (indrakalpasya durāsadasya mahaujasaḥ), Vibhīṣaṇa, the foremost of weapon-bearers (śastrabhṛtāṃ variṣṭhaḥ), spoke a word of great import (mahārthaṃ vacanam):
+Then, hearing that speech of that unassailable one of mighty energy who resembled Indra (_indrakalpasya durāsadasya mahaujasaḥ_), Vibhīṣaṇa, the foremost of weapon-bearers (_śastrabhṛtāṃ variṣṭhaḥ_), spoke a word of great import (_mahārthaṃ vacanam_):
 </details>
 </details>
 
@@ -581,7 +581,7 @@ self-destruction."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O dear son (tāta), you have no settled discernment in counsel (na mantre tava niścayo 'sti); you are still a child of unripe intellect (bālas tvam adyāpy avipakvabuddhiḥ). Therefore, to your own destruction (ātmavināśanāya), much meaningless talk has been babbled by you as well (vaco 'rthahīnaṃ bahu vipralaptam)!
+“O dear son (_tāta_), you have no settled discernment in counsel (_na mantre tava niścayo &#x27;sti_); you are still a child of unripe intellect (_bālas tvam adyāpy avipakvabuddhiḥ_). Therefore, to your own destruction (_ātmavināśanāya_), much meaningless talk has been babbled by you as well (_vaco &#x27;rthahīnaṃ bahu vipralaptam_)!
 </details>
 </details>
 
@@ -642,7 +642,7 @@ blindly agreeing with him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Under the title of Rāvaṇa's son (putrapravādena tu rāvaṇasya), O Indrajit, you are an enemy with the face of a friend (mitramukho 'si śatruḥ), since upon hearing of such destruction for him from Rāghava (rāghavato vināśam), out of delusion you endorse it (mohād anumanyase tvam)!
+“Under the title of Rāvaṇa&#x27;s son (_putrapravādena tu rāvaṇasya_), O Indrajit, you are an enemy with the face of a friend (_mitramukho &#x27;si śatruḥ_), since upon hearing of such destruction for him from Rāghava (_rāghavato vināśam_), out of delusion you endorse it (_mohād anumanyase tvam_)!
 </details>
 </details>
 
@@ -715,7 +715,7 @@ a reckless boy here today and ushered you foolishly in the proximity of counselo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You yourself deserve death (tvam eva vadhyaḥ), being utterly perverse in mind (sudurmatiś ca), and he too deserves death who brought you here and today admitted a headstrong, rash boy (bālaṃ dṛḍhaṃ sāhasikaṃ ca) into the presence of councillors (mantrakṛtāṃ samīpam)!
+“You yourself deserve death (_tvam eva vadhyaḥ_), being utterly perverse in mind (_sudurmatiś ca_), and he too deserves death who brought you here and today admitted a headstrong, rash boy (_bālaṃ dṛḍhaṃ sāhasikaṃ ca_) into the presence of councillors (_mantrakṛtāṃ samīpam_)!
 </details>
 </details>
 
@@ -780,7 +780,7 @@ an immature boy".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deluded (mūḍhaḥ), immature (apragalbhaḥ), devoid of discipline (avinayopapannaḥ), harsh by nature (tīkṣṇasvabhāvaḥ), of scant wit (alpamatiḥ), evil-minded (durātmā), foolish (mūrkhaḥ), and supremely perverse in judgment (atyantasudurmatiś ca)—you speak thus, O Indrajit, out of childishness (bālatayā bravīṣi)!
+“Deluded (_mūḍhaḥ_), immature (_apragalbhaḥ_), devoid of discipline (_avinayopapannaḥ_), harsh by nature (_tīkṣṇasvabhāvaḥ_), of scant wit (_alpamatiḥ_), evil-minded (_durātmā_), foolish (_mūrkhaḥ_), and supremely perverse in judgment (_atyantasudurmatiś ca_)—you speak thus, O Indrajit, out of childishness (_bālatayā bravīṣi_)!
 </details>
 </details>
 
@@ -833,7 +833,7 @@ God of Death and are equal to the Yama's staff?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who could endure in battle (ko saheta yudhi) the blazing arrows (arciṣmataḥ bāṇān) loosed face-to-face by Rāghava (samakṣamuktān rāghaveṇa), which shine like the rod of Brahmā (brahmadaṇḍapratimaprakāśān), resemble Death in form (kālanikāśarūpān), and equal the mace of Yama (yamadaṇḍakalpān)?
+“Who could endure in battle (_ko saheta yudhi_) the blazing arrows (_arciṣmataḥ bāṇān_) loosed face-to-face by Rāghava (_samakṣamuktān rāghaveṇa_), which shine like the rod of Brahmā (_brahmadaṇḍapratimaprakāśān_), resemble Death in form (_kālanikāśarūpān_), and equal the mace of Yama (_yamadaṇḍakalpān_)?
 </details>
 </details>
 
@@ -909,7 +909,7 @@ bright colored gems and the god-like Sita to Rama, let us live here, free from a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having offered wealth, precious valuables (ratnāni), fine ornaments, celestial garments, variegated gems (maṇīṃś ca citrān), and Queen Sītā to Rāma (sītāṃ ca rāmāya nivedya devīm), let us dwell here free from grief (vasema rājann iha vītaśokāḥ), O king!”
+“Having offered wealth, precious valuables (_ratnāni_), fine ornaments, celestial garments, variegated gems (_maṇīṃś ca citrān_), and Queen Sītā to Rāma (_sītāṃ ca rāmāya nivedya devīm_), let us dwell here free from grief (_vasema rājann iha vītaśokāḥ_), O king!”
 </details>
 </details>
 

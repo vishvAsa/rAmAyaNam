@@ -60,7 +60,7 @@ Steadfast in dharma after Kausalyā’s benedictions, Rāma proceeds along the r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed in reverence to Kausalyā, Rāma set forth for the forest (samprasthito vanam); blessed with auspicious benedictions by his mother (kṛta-svastyayano mātrā), he stood firm upon the most righteous path (dharmiṣṭhe vartmani sthitaḥ).
+Having bowed in reverence to Kausalyā, Rāma set forth for the forest (_samprasthito vanam_); blessed with auspicious benedictions by his mother (_kṛta-svastyayano mātrā_), he stood firm upon the most righteous path (_dharmiṣṭhe vartmani sthitaḥ_).
 </details>
 </details>
 
@@ -115,7 +115,7 @@ of the people because of his excellent qualities.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Illuminating the royal highway crowded with men (virājayan rāja-mārgaṃ narair vṛtam), the prince churned, as it were, the hearts of the people (hṛdayāny āmamantheva janasya) through his excellence in noble virtues (guṇavattayā).
+Illuminating the royal highway crowded with men (_virājayan rāja-mārgaṃ narair vṛtam_), the prince churned, as it were, the hearts of the people (_hṛdayāny āmamantheva janasya_) through his excellence in noble virtues (_guṇavattayā_).
 </details>
 </details>
 
@@ -167,7 +167,7 @@ She was thinking of installation of Rama alone as prince Regent in her heart
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now the innocent Vaidehī (tapasvinī) had heard nothing at all of that whole affair (tat sarvaṃ na śuśrāva); in her heart there dwelt only that very consecration as Heir Apparent (yauvarājyābhiṣecanam).
+Now the innocent Vaidehī (_tapasvinī_) had heard nothing at all of that whole affair (_tat sarvaṃ na śuśrāva_); in her heart there dwelt only that very consecration as Heir Apparent (_yauvarājyābhiṣecanam_).
 </details>
 </details>
 
@@ -220,7 +220,7 @@ being rejoiced in heart, performed the worship of the gods and was waiting for t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed the worship of the gods (deva-kāryaṃ kṛtvā), grateful (kṛtajñā), joyful in spirit (hṛṣṭa-cetanā), and well-versed in the duties of royalty (abhijñā rāja-dharmāṇām), the princess awaited him (pratīkṣati).
+Having performed the worship of the gods (_deva-kāryaṃ kṛtvā_), grateful (_kṛtajñā_), joyful in spirit (_hṛṣṭa-cetanā_), and well-versed in the duties of royalty (_abhijñā rāja-dharmāṇām_), the princess awaited him (_pratīkṣati_).
 </details>
 </details>
 
@@ -272,7 +272,7 @@ well decorated and is filled with rejoicing people all around
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma entered his own sumptuously adorned palace (sva-veśma su-vibhūṣitam), thronged with joyous attendants (prahṛṣṭa-jana-sampūrṇam), with his face slightly downcast through shame (hriyā kiṃcid avāṅ-mukhaḥ).
+Then Rāma entered his own sumptuously adorned palace (_sva-veśma su-vibhūṣitam_), thronged with joyous attendants (_prahṛṣṭa-jana-sampūrṇam_), with his face slightly downcast through shame (_hriyā kiṃcid avāṅ-mukhaḥ_).
 </details>
 </details>
 
@@ -324,7 +324,7 @@ sorrow, his mind perturbed with anxiety.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising up swiftly from her seat (samutpatya) and trembling (vepamānā), Sītā beheld her husband tormented by grief (śoka-santaptam) and his senses agitated by anxious thought (cintā-vyākulitendriyam).
+Rising up swiftly from her seat (_samutpatya_) and trembling (_vepamānā_), Sītā beheld her husband tormented by grief (_śoka-santaptam_) and his senses agitated by anxious thought (_cintā-vyākulitendriyam_).
 </details>
 </details>
 
@@ -385,7 +385,7 @@ mind and hence got unveiled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her, that righteous-souled (dharmātmā) Rāghava could no longer endure the grief within his heart (na śaśāka manogataṃ taṃ śokaṃ soḍhum), and thus his sorrow became manifest (tato vivṛtatāṃ gataḥ).
+Beholding her, that righteous-souled (_dharmātmā_) Rāghava could no longer endure the grief within his heart (_na śaśāka manogataṃ taṃ śokaṃ soḍhum_), and thus his sorrow became manifest (_tato vivṛtatāṃ gataḥ_).
 </details>
 </details>
 
@@ -438,7 +438,7 @@ spoke thus what is this now , my Lord!
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him pale of face (vivarṇa-vadanam), perspiring (prasvinnam), and unable to restrain his anguish (amarṣaṇam), she spoke, tormented by sorrow: “What is this now, O my lord (kim idānīm idaṃ prabho)?
+Seeing him pale of face (_vivarṇa-vadanam_), perspiring (_prasvinnam_), and unable to restrain his anguish (_amarṣaṇam_), she spoke, tormented by sorrow: “What is this now, O my lord (_kim idānīm idaṃ prabho_)?
 </details>
 </details>
 
@@ -492,7 +492,7 @@ you sadly disposed?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today is proclaimed by wise Brahmins to be under the auspicious planet Jupiter (bārhaspataḥ śrīmān) conjoined with the constellation Puṣya (yuktaḥ puṣyeṇa), O Rāghava; wherefore then are you heavy-hearted (durmanāḥ)?
+“Today is proclaimed by wise Brahmins to be under the auspicious planet Jupiter (_bārhaspataḥ śrīmān_) conjoined with the constellation Puṣya (_yuktaḥ puṣyeṇa_), O Rāghava; wherefore then are you heavy-hearted (_durmanāḥ_)?
 </details>
 </details>
 
@@ -547,7 +547,7 @@ umbrella white as water-froth and provided with a hundred ribs.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your comely face (vadanaṃ valgu) shines not today shaded by the hundred-ribbed royal umbrella (śata-śalākena chatreṇa), white as the foam of water (jala-phena-nibhena ca)!
+“Your comely face (_vadanaṃ valgu_) shines not today shaded by the hundred-ribbed royal umbrella (_śata-śalākena chatreṇa_), white as the foam of water (_jala-phena-nibhena ca_)!
 </details>
 </details>
 
@@ -598,7 +598,7 @@ shining like a moon and a swan
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor is your lotus-eyed face (śata-patra-nibhekṣaṇam) fanned by the two foremost yak-tail chowries (vyajanābhyāṃ ca mukhyābhyām), bright as the moon and the swan (candra-haṃsa-prakāśābhyām)!
+“Nor is your lotus-eyed face (_śata-patra-nibhekṣaṇam_) fanned by the two foremost yak-tail chowries (_vyajanābhyāṃ ca mukhyābhyām_), bright as the moon and the swan (_candra-haṃsa-prakāśābhyām_)!
 </details>
 </details>
 
@@ -654,7 +654,7 @@ poems and ancient ballads ) are seen here , praising you with auspicious words .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor are eloquent panegyrists (vāgmino vandinaḥ), together with joyful heralds and genealogists (sūta-māgadhāḥ), seen today praising you with auspicious benedictions (maṅgalaiḥ), O bull among men!
+“Nor are eloquent panegyrists (_vāgmino vandinaḥ_), together with joyful heralds and genealogists (_sūta-māgadhāḥ_), seen today praising you with auspicious benedictions (_maṅgalaiḥ_), O bull among men!
 </details>
 </details>
 
@@ -715,7 +715,7 @@ Rites , honey and curds on your head after you had taken the head -bath
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ Brahmins who have crossed to the farthest shore of the Vedas (veda-pāragāḥ) have not duly placed honey and curds (kṣaudraṃ ca dadhi ca) upon your head after the royal head-anointing (mūrdhni mūrdhābhiṣiktasya)!
+“ Brahmins who have crossed to the farthest shore of the Vedas (_veda-pāragāḥ_) have not duly placed honey and curds (_kṣaudraṃ ca dadhi ca_) upon your head after the royal head-anointing (_mūrdhni mūrdhābhiṣiktasya_)!
 </details>
 </details>
 
@@ -767,7 +767,7 @@ ornaments, are not inclined to go along with you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor do all the ministers of state (prakṛtayaḥ sarvāḥ), the adorned chiefs of the guilds (śreṇī-mukhyāś ca bhūṣitāḥ), and the citizens and countryfolk (paura-jānapadāḥ) seek to follow in your train (anuvrajitum icchanti)!
+“Nor do all the ministers of state (_prakṛtayaḥ sarvāḥ_), the adorned chiefs of the guilds (_śreṇī-mukhyāś ca bhūṣitāḥ_), and the citizens and countryfolk (_paura-jānapadāḥ_) seek to follow in your train (_anuvrajitum icchanti_)!
 </details>
 </details>
 
@@ -823,7 +823,7 @@ with gold ornaments and with excellent speed does not go ahead of you ?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Why does the foremost pleasure-chariot (mukhyaḥ puṣpa-rathaḥ), yoked with four fleet steeds adorned with golden trappings (caturbhir vega-sampannair hayaiḥ kāñcana-bhūṣaṇaiḥ), not advance before you (te 'grataḥ)?
+“Why does the foremost pleasure-chariot (_mukhyaḥ puṣpa-rathaḥ_), yoked with four fleet steeds adorned with golden trappings (_caturbhir vega-sampannair hayaiḥ kāñcana-bhūṣaṇaiḥ_), not advance before you (_te &#x27;grataḥ_)?
 </details>
 </details>
 
@@ -877,7 +877,7 @@ journey.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor is the glorious royal elephant (hastī śrīmān), honoured with every auspicious mark (sarva-lakṣaṇa-pūjitaḥ) and dark as a black storm-cloud resting upon a mountain (kṛṣṇa-megha-giri-prabhaḥ), seen at the head of your procession, O hero!
+“Nor is the glorious royal elephant (_hastī śrīmān_), honoured with every auspicious mark (_sarva-lakṣaṇa-pūjitaḥ_) and dark as a black storm-cloud resting upon a mountain (_kṛṣṇa-megha-giri-prabhaḥ_), seen at the head of your procession, O hero!
 </details>
 </details>
 
@@ -929,7 +929,7 @@ having been placed in front with an excellent seat embroidered in gold meant for
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor do I behold, O prince of pleasing aspect (priya-darśana), a herald marching in front of you (yāntaṃ vīra puraḥsaram) bearing before him your gold-inlaid throne of state (kāñcana-citraṃ bhadrāsanaṃ puraskṛtya)!
+“Nor do I behold, O prince of pleasing aspect (_priya-darśana_), a herald marching in front of you (_yāntaṃ vīra puraḥsaram_) bearing before him your gold-inlaid throne of state (_kāñcana-citraṃ bhadrāsanaṃ puraskṛtya_)!
 </details>
 </details>
 
@@ -980,7 +980,7 @@ Even happiness is not being seen (in you). Why is it?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the royal consecration has been made ready (abhiṣeko yadā sajjaḥ), what is this state of yours now? Wherefore this unwonted pallor of your face (apūrvo mukha-varṇaḥ), and why is no gladness seen in you?”
+“When the royal consecration has been made ready (_abhiṣeko yadā sajjaḥ_), what is this state of yours now? Wherefore this unwonted pallor of your face (_apūrvo mukha-varṇaḥ_), and why is no gladness seen in you?”
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ me to a forest in exile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To her as she lamented in this manner (itīva vilapantīṃ tām), the delighter of the Raghus spoke: “O Sītā, my revered father (tatrabhavāṃs tātaḥ) is sending me forth into exile in the forest (pravrājayati māṃ vanam)!
+To her as she lamented in this manner (_itīva vilapantīṃ tām_), the delighter of the Raghus spoke: “O Sītā, my revered father (_tatrabhavāṃs tātaḥ_) is sending me forth into exile in the forest (_pravrājayati māṃ vanam_)!
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ virtue . hear me in what sequence it happened to me
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O princess born in a great lineage (kule mahati sambhūte), knower of dharma (dharmajñe) and practitioner of dharma (dharma-cāriṇi)! Hear, O Jānakī, in what order this has befallen me today (yenedaṃ krameṇādyāgataṃ mama).
+“O princess born in a great lineage (_kule mahati sambhūte_), knower of _dharma_ (_dharmajñe_) and practitioner of _dharma_ (_dharma-cāriṇi_)! Hear, O Jānakī, in what order this has befallen me today (_yenedaṃ krameṇādyāgataṃ mama_).
 </details>
 </details>
 
@@ -1145,7 +1145,7 @@ who is true to a promise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By my father King Daśaratha, ever true to his promise (satya-pratijñena), two great boons (mahā-varau) were granted of old to my mother Kaikeyī (kaikeyyai mama mātre tu).
+“By my father King Daśaratha, ever true to his promise (_satya-pratijñena_), two great boons (_mahā-varau_) were granted of old to my mother Kaikeyī (_kaikeyyai mama mātre tu_).
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ grounds of morality
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today, when my consecration had been made ready and set in motion by the king (nṛpodyate), that solemn pledge (sa samayaḥ) was pressed by her (tayā pracoditaḥ), and he was bound fast by dharma (dharmeṇa pratinirjitaḥ).
+“Today, when my consecration had been made ready and set in motion by the king (_nṛpodyate_), that solemn pledge (_sa samayaḥ_) was pressed by her (_tayā pracoditaḥ_), and he was bound fast by _dharma_ (_dharmeṇa pratinirjitaḥ_).
 </details>
 </details>
 
@@ -1254,7 +1254,7 @@ prince by my father
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For fourteen years (caturdaśa hi varṣāṇi) I must dwell in the Daṇḍaka forest (vastavyaṃ daṇḍake mayā); and Bharata has been appointed by my father to the regency (yauvarājye niyojitaḥ).
+“For fourteen years (_caturdaśa hi varṣāṇi_) I must dwell in the Daṇḍaka forest (_vastavyaṃ daṇḍake mayā_); and Bharata has been appointed by my father to the regency (_yauvarājye niyojitaḥ_).
 </details>
 </details>
 
@@ -1331,9 +1331,9 @@ Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “Therefore I, having set out for the solitary forest (prasthito vijanaṃ vanam), have come to see you (tvām āgato draṣṭum). In the presence of Bharata, I must never be spoken of with praise by you (nāhaṃ kathyaḥ kadācana)!
+**24:** “Therefore I, having set out for the solitary forest (_prasthito vijanaṃ vanam_), have come to see you (_tvām āgato draṣṭum_). In the presence of Bharata, I must never be spoken of with praise by you (_nāhaṃ kathyaḥ kadācana_)!
 
-**25:** “For men endowed with power and prosperity (ṛddhi-yuktā hi puruṣāḥ) do not brook the praise of another (na sahante para-stavam); therefore my virtues must not be extolled by you in the presence of Bharata (bharatasyāgrato mama).
+**25:** “For men endowed with power and prosperity (_ṛddhi-yuktā hi puruṣāḥ_) do not brook the praise of another (_na sahante para-stavam_); therefore my virtues must not be extolled by you in the presence of Bharata (_bharatasyāgrato mama_).
 </details>
 </details>
 
@@ -1387,7 +1387,7 @@ familiar to him, by behaving with him conformably.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor must I ever be spoken of by you with special partiality (ahaṃ te nānuvaktavyo viśeṣeṇa kadācana); only through compliant adaptability (anukūlatayā) is it possible to dwell in his presence.
+“Nor must I ever be spoken of by you with special partiality (_ahaṃ te nānuvaktavyo viśeṣeṇa kadācana_); only through compliant adaptability (_anukūlatayā_) is it possible to dwell in his presence.
 </details>
 </details>
 
@@ -1442,7 +1442,7 @@ to be rendered gracious by you, more so the king Dasaratha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon him has been bestowed by the king the perpetual regency (yauvarājyaṃ sanātanam); therefore he must be conciliated by you, O Sītā, and the king even more especially (nṛpatiś ca viśeṣataḥ).
+“Upon him has been bestowed by the king the perpetual regency (_yauvarājyaṃ sanātanam_); therefore he must be conciliated by you, O Sītā, and the king even more especially (_nṛpatiś ca viśeṣataḥ_).
 </details>
 </details>
 
@@ -1496,7 +1496,7 @@ Remain firm.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as for me, faithfully upholding that promise of my father (pratijñāṃ tāṃ guroḥ samanupālayan), I shall depart this very day for the forest; be firm of heart, O high-minded lady (sthirībhava manasvini)!
+“And as for me, faithfully upholding that promise of my father (_pratijñāṃ tāṃ guroḥ samanupālayan_), I shall depart this very day for the forest; be firm of heart, O high-minded lady (_sthirībhava manasvini_)!
 </details>
 </details>
 
@@ -1550,7 +1550,7 @@ the sages, you can become interested in religious vows and fastings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And when I have departed, O auspicious lady, for the forest frequented by ascetic sages (vanaṃ muni-niṣevitam), you must abide devoted to sacred vows and fasts, O sinless one (vratopavāsa-parayā bhavitavyaṃ tvayānaghe)!
+“And when I have departed, O auspicious lady, for the forest frequented by ascetic sages (_vanaṃ muni-niṣevitam_), you must abide devoted to sacred vows and fasts, O sinless one (_vratopavāsa-parayā bhavitavyaṃ tvayānaghe_)!
 </details>
 </details>
 
@@ -1610,7 +1610,7 @@ salutation to my father , king Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rising at break of dawn (kalyam utthāya) and performing the worship of the gods according to rule (kṛtvā pūjāṃ yathā-vidhi), you should bow in reverence to my father Daśaratha, the lord of men (vanditavyo daśarathaḥ pitā mama janeśvaraḥ).
+“Rising at break of dawn (_kalyam utthāya_) and performing the worship of the gods according to rule (_kṛtvā pūjāṃ yathā-vidhi_), you should bow in reverence to my father Daśaratha, the lord of men (_vanditavyo daśarathaḥ pitā mama janeśvaraḥ_).
 </details>
 </details>
 
@@ -1662,7 +1662,7 @@ mother who is getting emaciated by grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And my aged mother Kausalyā (mātā ca mama kausalyā vṛddhā), emaciated by burning grief (santāpa-karśitā), deserves honour from you (tvattaḥ sammānam arhati), placing dharma alone at the forefront (dharmam evāgrataḥ kṛtvā).
+“And my aged mother Kausalyā (_mātā ca mama kausalyā vṛddhā_), emaciated by burning grief (_santāpa-karśitā_), deserves honour from you (_tvattaḥ sammānam arhati_), placing _dharma_ alone at the forefront (_dharmam evāgrataḥ kṛtvā_).
 </details>
 </details>
 
@@ -1716,7 +1716,7 @@ saluted always by you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And all my remaining mothers (yāḥ śeṣā mama mātaraḥ) should ever be bowed to by you (vanditavyāś ca te nityam); for in affection, loving familiarity, and nurturing care (sneha-praṇaya-sambhogaiḥ), all my mothers are equal (samā hi mama mātaraḥ).
+“And all my remaining mothers (_yāḥ śeṣā mama mātaraḥ_) should ever be bowed to by you (_vanditavyāś ca te nityam_); for in affection, loving familiarity, and nurturing care (_sneha-praṇaya-sambhogaiḥ_), all my mothers are equal (_samā hi mama mātaraḥ_).
 </details>
 </details>
 
@@ -1768,7 +1768,7 @@ sons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Bharata and Śatrughna, who are dearer to me than my own life-breath (prāṇaiḥ priyatarau mama), should be looked upon by you with special affection as equal to a brother and a son (bhrātṛ-putra-samau cāpi draṣṭavyau ca viśeṣataḥ).
+“And Bharata and Śatrughna, who are dearer to me than my own life-breath (_prāṇaiḥ priyatarau mama_), should be looked upon by you with special affection as equal to a brother and a son (_bhrātṛ-putra-samau cāpi draṣṭavyau ca viśeṣataḥ_).
 </details>
 </details>
 
@@ -1820,7 +1820,7 @@ Hence, you should not do what is displeasing to him at any time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor must anything displeasing to Bharata ever be done (vipriyaṃ ca na kartavyaṃ bharatasya kadācana); for he is both the king and the lord of the realm and of our royal house, O Vaidehī (deśasya ca kulasya ca)!
+“Nor must anything displeasing to Bharata ever be done (_vipriyaṃ ca na kartavyaṃ bharatasya kadācana_); for he is both the king and the lord of the realm and of our royal house, O Vaidehī (_deśasya ca kulasya ca_)!
 </details>
 </details>
 
@@ -1880,7 +1880,7 @@ happy. They get angry if it is to the contrary
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For when propitiated by virtuous conduct (ārādhitā hi śīlena) and assiduously served with earnest efforts (prayatnaiś copasevitāḥ), kings are well pleased (samprasīdanti), and they grow wroth when the contrary occurs (prakupyanti viparyaye).
+“For when propitiated by virtuous conduct (_ārādhitā hi śīlena_) and assiduously served with earnest efforts (_prayatnaiś copasevitāḥ_), kings are well pleased (_samprasīdanti_), and they grow wroth when the contrary occurs (_prakupyanti viparyaye_).
 </details>
 </details>
 
@@ -1932,7 +1932,7 @@ people if they are fitting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For monarchs cast off even their own legitimate sons born of their body (aurasyān api putrān hi tyajanti) when they work against their interest (ahita-kāriṇaḥ), and they warmly embrace even unrelated men (janān api) when they prove capable and loyal (samarthān).
+“For monarchs cast off even their own legitimate sons born of their body (_aurasyān api putrān hi tyajanti_) when they work against their interest (_ahita-kāriṇaḥ_), and they warmly embrace even unrelated men (_janān api_) when they prove capable and loyal (_samarthān_).
 </details>
 </details>
 
@@ -1979,7 +1979,7 @@ king, remaining devoted to righteousness and with a vow of truth as you end.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O auspicious lady, do you dwell right here (sā tvaṃ vaseha kalyāṇi) in compliant obedience to the king (rājñaḥ samanuvartinī), devoted to Bharata’s righteous rule (bharatasya ratā dharme) and steadfast in the vow of truth (satya-vrata-parāyaṇā).
+“Therefore, O auspicious lady, do you dwell right here (_sā tvaṃ vaseha kalyāṇi_) in compliant obedience to the king (_rājñaḥ samanuvartinī_), devoted to Bharata’s righteous rule (_bharatasya ratā dharme_) and steadfast in the vow of truth (_satya-vrata-parāyaṇā_).
 </details>
 </details>
 
@@ -2054,7 +2054,7 @@ doing harm to any one as it is .Listen to my words
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall depart for the great forest, O beloved (ahaṃ gamiṣyāmi mahā-vanaṃ priye), and you must remain right here, O noble lady (tvayā hi vastavyam ihaiva bhāmini); just as you never cause displeasure to anyone (yathā vyalīkaṃ kuruṣe na kasyacit), even so must you carry out this word of mine (tathā tvayā kāryam idaṃ vaco mama)!”
+“I shall depart for the great forest, O beloved (_ahaṃ gamiṣyāmi mahā-vanaṃ priye_), and you must remain right here, O noble lady (_tvayā hi vastavyam ihaiva bhāmini_); just as you never cause displeasure to anyone (_yathā vyalīkaṃ kuruṣe na kasyacit_), even so must you carry out this word of mine (_tathā tvayā kāryam idaṃ vaco mama_)!”
 </details>
 </details>
 

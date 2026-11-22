@@ -81,7 +81,7 @@ righteousness and who was assuaging Bharata as aforesaid
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāma the knower of dharma was thus consoling Bharata (āśvāsayantaṃ bharatam), Jābāli, the foremost of Brāhmaṇas (brāhmaṇottamaḥ), spoke unto him these words departed from Vedic dharma (dharmāpetam idaṃ vacaḥ):
+As Rāma the knower of dharma was thus consoling Bharata (_āśvāsayantaṃ bharatam_), Jābāli, the foremost of Brāhmaṇas (_brāhmaṇottamaḥ_), spoke unto him these words departed from Vedic dharma (_dharmāpetam idaṃ vacaḥ_):
 </details>
 </details>
 
@@ -133,7 +133,7 @@ distinguished for your intelligence and virtue."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough, O Rāghava! Let there not be in you—who are of noble intellect and self-possessed mind (ārya-buddher manasvinaḥ)—such an unprofitable notion (buddhir evaṃ nirarthikā) like that of a common, uncultivated man (prākṛtasya narasyeva)!
+“Enough, O Rāghava! Let there not be in you—who are of noble intellect and self-possessed mind (_ārya-buddher manasvinaḥ_)—such an unprofitable notion (_buddhir evaṃ nirarthikā_) like that of a common, uncultivated man (_prākṛtasya narasyeva_)!
 </details>
 </details>
 
@@ -186,7 +186,7 @@ creature is born alone and dies alone."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What man is a kinsman unto whom (kaḥ kasya puruṣo bandhuḥ)? And what is to be gained by anyone through another (kim āpyaṃ kasya kenacit), seeing that a creature is born alone and perishes all alone (eko jāyate jantur eka eva vinaśyati)?
+What man is a kinsman unto whom (_kaḥ kasya puruṣo bandhuḥ_)? And what is to be gained by anyone through another (_kim āpyaṃ kasya kenacit_), seeing that a creature is born alone and perishes all alone (_eko jāyate jantur eka eva vinaśyati_)?
 </details>
 </details>
 
@@ -239,7 +239,7 @@ he should be known as one who has lost his wits. There is none who belongs to an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O Rāma, that man who clings in attachment thinking, “This is my mother, and this is my father (mātā pitā ceti),” ought to be known as one beside himself with madness (unmatta iva sa jñeyaḥ); for no one truly belongs to anyone!
+Therefore, O Rāma, that man who clings in attachment thinking, “This is my mother, and this is my father (_mātā pitā ceti_),” ought to be known as one beside himself with madness (_unmatta iva sa jñeyaḥ_); for no one truly belongs to anyone!
 </details>
 </details>
 
@@ -303,9 +303,9 @@ man; they are but a resting place. The wise do not become attached to them".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Just as a man travelling to another village (grāmāntaraṃ gacchan) may lodge somewhere for a night, and leaving behind that lodging (utsṛjya ca tam āvāsam), sets out again on the following day (pratiṣṭhetāpare ’hani)—
+**5:** Just as a man travelling to another village (_grāmāntaraṃ gacchan_) may lodge somewhere for a night, and leaving behind that lodging (_utsṛjya ca tam āvāsam_), sets out again on the following day (_pratiṣṭhetāpare ’hani_)—
 
-**6:** Even so, O Kākutstha, father, mother, home, and wealth are a mere temporary lodging for mortal men (āvāsa-mātraṃ manuṣyāṇām); wise men do not cling in attachment unto them (sajjante nātra sajjanāḥ).
+**6:** Even so, O Kākutstha, father, mother, home, and wealth are a mere temporary lodging for mortal men (_āvāsa-mātraṃ manuṣyāṇām_); wise men do not cling in attachment unto them (_sajjante nātra sajjanāḥ_).
 </details>
 </details>
 
@@ -366,7 +366,7 @@ dwell in a lonely forest, that is excruciating hard to traverse and full of thor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having abandoned your ancestral kingdom (pitryaṃ rājyaṃ parityajya), O foremost of men, you ought not to betake yourself to a wretched, painful, rugged path full of thorns (kāpathaṃ duḥkhaṃ viṣamaṃ bahu-kaṇṭakam)!
+Having abandoned your ancestral kingdom (_pitryaṃ rājyaṃ parityajya_), O foremost of men, you ought not to betake yourself to a wretched, painful, rugged path full of thorns (_kāpathaṃ duḥkhaṃ viṣamaṃ bahu-kaṇṭakam_)!
 </details>
 </details>
 
@@ -418,7 +418,7 @@ you, with your locks duly unfound."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have yourself consecrated in prosperous Ayodhyā (samṛddhāyām ayodhyāyām ātmānam abhiṣecaya); for the city, wearing a single braid of sorrow (eka-veṇī-dharā), eagerly awaits you!
+Have yourself consecrated in prosperous Ayodhyā (_samṛddhāyām ayodhyāyām ātmānam abhiṣecaya_); for the city, wearing a single braid of sorrow (_eka-veṇī-dharā_), eagerly awaits you!
 </details>
 </details>
 
@@ -470,7 +470,7 @@ the Lord of celestials does in heaven!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enjoying priceless royal pleasures (rāja-bhogān anubhavan mahārhān), O son of a king, sport joyfully in Ayodhyā even as Śakra sports in heaven (triviṣṭape)!
+Enjoying priceless royal pleasures (_rāja-bhogān anubhavan mahārhān_), O son of a king, sport joyfully in Ayodhyā even as Śakra sports in heaven (_triviṣṭape_)!
 </details>
 </details>
 
@@ -523,7 +523,7 @@ are another. Hence, do what is told by me?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Daśaratha is nothing to you, and you are nothing to him (na te kaścid daśarathas tvaṃ ca tasya na kaścana); the king was one person and you are quite another (anyo rājā tvam anyaḥ saḥ)—therefore do what is urged by us!
+Daśaratha is nothing to you, and you are nothing to him (_na te kaścid daśarathas tvaṃ ca tasya na kaścana_); the king was one person and you are quite another (_anyo rājā tvam anyaḥ saḥ_)—therefore do what is urged by us!
 </details>
 </details>
 
@@ -579,7 +579,7 @@ time in the mother's womb, so that a human being is born in this world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A father is a mere instrumental seed of a living creature (bīja-mātraṃ pitā jantoḥ); it is semen and blood (śuklaṃ rudhiram eva ca) united by the mother in her fertile season (saṃyuktam ṛtuman-mātrā) that constitutes a man’s birth here in this world.
+A father is a mere instrumental seed of a living creature (_bīja-mātraṃ pitā jantoḥ_); it is semen and blood (_śuklaṃ rudhiram eva ca_) united by the mother in her fertile season (_saṃyuktam ṛtuman-mātrā_) that constitutes a man’s birth here in this world.
 </details>
 </details>
 
@@ -631,7 +631,7 @@ you are still frustrated over the matter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That monarch has gone there whither he had to go (gataḥ sa nṛpatis tatra gantavyaṃ yatra tena vai); such is the natural course of mortals (pravṛttir eṣā martyānām), whereas you torment yourself in vain (tvaṃ tu mithyā vihanyase)!
+That monarch has gone there whither he had to go (_gataḥ sa nṛpatis tatra gantavyaṃ yatra tena vai_); such is the natural course of mortals (_pravṛttir eṣā martyānām_), whereas you torment yourself in vain (_tvaṃ tu mithyā vihanyase_)!
 </details>
 </details>
 
@@ -697,7 +697,7 @@ extermination after death."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever abandon tangible worldly welfare for the sake of unseen dharma (artha-dharma-parā ye ye)—for all such men I grieve, and not for others; for after experiencing misery here in this world, they have met with utter annihilation after death (vināśaṃ pretya bhejire)!
+Whoever abandon tangible worldly welfare for the sake of unseen dharma (_artha-dharma-parā ye ye_)—for all such men I grieve, and not for others; for after experiencing misery here in this world, they have met with utter annihilation after death (_vināśaṃ pretya bhejire_)!
 </details>
 </details>
 
@@ -753,7 +753,7 @@ of our ancestors.' See the waste of food. What will a dead man eat?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying, “Today is the Aṣṭakā rite consecrated to the ancestors (aṣṭakā pitṛ-daivatyam),” these people busily engage in ancestral offerings; behold the sheer waste of good food (annasyopadravaṃ paśya)—for what will a dead man eat (mṛto hi kim aśiṣyati)?
+Saying, “Today is the Aṣṭakā rite consecrated to the ancestors (_aṣṭakā pitṛ-daivatyam_),” these people busily engage in ancestral offerings; behold the sheer waste of good food (_annasyopadravaṃ paśya_)—for what will a dead man eat (_mṛto hi kim aśiṣyati_)?
 </details>
 </details>
 
@@ -806,7 +806,7 @@ for those who are setting out on a distant journey. Will it not become a food on
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If food eaten here by one person passes into the body of another (yadi bhuktam ihānyena deham anyasya gacchati), then let a man offer an ancestral śrāddha feast for one who is travelling abroad—would not that serve as his journey-provision along the road (na tat pathy-aśanaṃ bhavet)?
+If food eaten here by one person passes into the body of another (_yadi bhuktam ihānyena deham anyasya gacchati_), then let a man offer an ancestral śrāddha feast for one who is travelling abroad—would not that serve as his journey-provision along the road (_na tat pathy-aśanaṃ bhavet_)?
 </details>
 </details>
 
@@ -863,7 +863,7 @@ give."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Perform sacrifices! Give gifts! Take ritual initiation! Practice austerity! Renounce (yajasva dehi dīkṣasva tapas tapyasva santyaja)!”—these scriptural texts (granthāḥ) were composed by clever men (medhāvibhiḥ) as alluring charms to entice gifts (dāna-saṃvananāḥ).
+“Perform sacrifices! Give gifts! Take ritual initiation! Practice austerity! Renounce (_yajasva dehi dīkṣasva tapas tapyasva santyaja_)!”—these scriptural texts (_granthāḥ_) were composed by clever men (_medhāvibhiḥ_) as alluring charms to entice gifts (_dāna-saṃvananāḥ_).
 </details>
 </details>
 
@@ -917,7 +917,7 @@ knowledge."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O man of great intellect, make up your mind that there is no hereafter beyond this world (nāsti param ity eva kuru buddhim); hold fast to that which is directly before your eyes (pratyakṣaṃ yat tad ātiṣṭha), and cast behind your back that which is unseen (parokṣaṃ pṛṣṭhataḥ kuru)!
+Therefore, O man of great intellect, make up your mind that there is no hereafter beyond this world (_nāsti param ity eva kuru buddhim_); hold fast to that which is directly before your eyes (_pratyakṣaṃ yat tad ātiṣṭha_), and cast behind your back that which is unseen (_parokṣaṃ pṛṣṭhataḥ kuru_)!
 </details>
 </details>
 
@@ -980,7 +980,7 @@ the kingdom as propitiated by Bharata."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Putting forward that conviction which is approved by the whole world (tāṃ buddhiṃ puraskṛtya sarva-loka-nidarśinīm), do you accept the kingdom (rājyaṃ tvaṃ pratigṛhṇīṣva), propitiated by Bharata!”
+Putting forward that conviction which is approved by the whole world (_tāṃ buddhiṃ puraskṛtya sarva-loka-nidarśinīm_), do you accept the kingdom (_rājyaṃ tvaṃ pratigṛhṇīṣva_), propitiated by Bharata!”
 </details>
 </details>
 

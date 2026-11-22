@@ -50,7 +50,7 @@ Following his father Pulastya in austerity, the virtuous sage Viśravas receives
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now Viśravas, the son of Pulastya and foremost of sages (munipuṅgavaḥ), in a very short time (acireṇaiva kālena) stood steadfast in ascetic austerity (tapasi sthitaḥ), even like his father (piteva).
+Now Viśravas, the son of Pulastya and foremost of sages (_munipuṅgavaḥ_), in a very short time (_acireṇaiva kālena_) stood steadfast in ascetic austerity (_tapasi sthitaḥ_), even like his father (_piteva_).
 </details>
 </details>
 
@@ -83,7 +83,7 @@ Now Viśravas, the son of Pulastya and foremost of sages (munipuṅgavaḥ), in 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truthful (satyavān), virtuous in conduct (śīlavān), serene (śāntaḥ), devoted to Vedic study (svādhyāya-nirataḥ), and pure (śuciḥ), he remained detached from all worldly enjoyments (sarva-bhogeṣv asaṃsaktaḥ) and ever intent upon righteousness (dharma-parāyaṇaḥ).
+Truthful (_satyavān_), virtuous in conduct (_śīlavān_), serene (_śāntaḥ_), devoted to Vedic study (_svādhyāya-nirataḥ_), and pure (_śuciḥ_), he remained detached from all worldly enjoyments (_sarva-bhogeṣv asaṃsaktaḥ_) and ever intent upon righteousness (_dharma-parāyaṇaḥ_).
 </details>
 </details>
 
@@ -119,7 +119,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning of that exemplary conduct of his (tad-vṛttam), the great sage Bharadvāja (bharadvājo mahāmuniḥ) bestowed his own daughter Devavarṇinī (svasutāṃ devavarṇinīm) upon Viśravas as his wife (bhāryām).
+Learning of that exemplary conduct of his (_tad-vṛttam_), the great sage Bharadvāja (_bharadvājo mahāmuniḥ_) bestowed his own daughter Devavarṇinī (_svasutāṃ devavarṇinīm_) upon Viśravas as his wife (_bhāryām_).
 </details>
 </details>
 
@@ -171,11 +171,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Having accepted Bharadvāja’s daughter in accordance with sacred law (dharmeṇa) at that time, with an intellect discerning the destiny of progeny (prajānvekṣikayā buddhyā) and pondering the welfare of the child to be born (śreyo hy asya vicintayan)—
+**4:** Having accepted Bharadvāja’s daughter in accordance with sacred law (_dharmeṇa_) at that time, with an intellect discerning the destiny of progeny (_prajānvekṣikayā buddhyā_) and pondering the welfare of the child to be born (_śreyo hy asya vicintayan_)—
 
-**5:** —filled with supreme joy (mudā paramayā yuktaḥ), Viśravas, that foremost of sages (munipuṅgavaḥ), upon her (tasyām) an offspring endowed with heroic vigor (vīrya-sampannam apatyam) and supremely wondrous (paramādbhutam)—
+**5:** —filled with supreme joy (_mudā paramayā yuktaḥ_), Viśravas, that foremost of sages (_munipuṅgavaḥ_), upon her (_tasyām_) an offspring endowed with heroic vigor (_vīrya-sampannam apatyam_) and supremely wondrous (_paramādbhutam_)—
 
-**6:** —did that knower of righteousness (dharmajñaḥ) beget, graced with all brahminical virtues (sarvair brahma-guṇair yutam). And upon that child’s birth (tasmiñ jāte), the grandsire [Pulastya] (pitāmahaḥ) became filled with delight (saṃhṛṣṭaḥ sambabhūva).
+**6:** —did that knower of righteousness (_dharmajñaḥ_) beget, graced with all brahminical virtues (_sarvair brahma-guṇair yutam_). And upon that child’s birth (_tasmiñ jāte_), the grandsire [Pulastya] (_pitāmahaḥ_) became filled with delight (_saṃhṛṣṭaḥ sambabhūva_).
 </details>
 </details>
 
@@ -216,7 +216,7 @@ Foreseeing that the child will become Lord of Wealth, Pulastya names him Vaiśra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving his auspicious bent of mind (śreyaskarīṃ buddhim)—[reflecting,] “He shall become the Lord of Wealth (dhanādhyakṣo bhaviṣyati)”—[Pulastya,] delighted, together with the divine sages (sārdhaṃ devarṣibhiḥ), bestowed a name upon him at that time:
+Perceiving his auspicious bent of mind (_śreyaskarīṃ buddhim_)—[reflecting,] “He shall become the Lord of Wealth (_dhanādhyakṣo bhaviṣyati_)”—[Pulastya,] delighted, together with the divine sages (_sārdhaṃ devarṣibhiḥ_), bestowed a name upon him at that time:
 </details>
 </details>
 
@@ -249,7 +249,7 @@ Perceiving his auspicious bent of mind (śreyaskarīṃ buddhim)—[reflecting,]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because he is the offspring of Viśravas (viśravaso ’patyam) and by his likeness is even as Viśravas himself (sādṛśyād viśravā iva), therefore shall he become renowned (viśrutaḥ) by the name Vaiśravaṇa (vaiśravaṇo nāma).”
+“Because he is the offspring of Viśravas (_viśravaso ’patyam_) and by his likeness is even as Viśravas himself (_sādṛśyād viśravā iva_), therefore shall he become renowned (_viśrutaḥ_) by the name Vaiśravaṇa (_vaiśravaṇo nāma_).”
 </details>
 </details>
 
@@ -280,7 +280,7 @@ Perceiving his auspicious bent of mind (śreyaskarīṃ buddhim)—[reflecting,]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Vaiśravaṇa of mighty splendor (mahātejāḥ), dwelling there in the penance grove (tapovana-gataḥ), grew in radiance like a sacrificial fire fed with oblations (āhuti-huto ... yathānalaḥ).
+Then that Vaiśravaṇa of mighty splendor (_mahātejāḥ_), dwelling there in the penance grove (_tapovana-gataḥ_), grew in radiance like a sacrificial fire fed with oblations (_āhuti-huto ... yathānalaḥ_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ Then that Vaiśravaṇa of mighty splendor (mahātejāḥ), dwelling there in th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that high-souled one dwelt within the hermitage grounds (āśrama-pada-sthasya), this resolve arose in his mind (buddhir jajñe): “I shall practice the supreme righteousness (paramaṃ dharmam), for righteousness alone is the highest refuge (dharmo hi paramā gatiḥ).”
+While that high-souled one dwelt within the hermitage grounds (_āśrama-pada-sthasya_), this resolve arose in his mind (_buddhir jajñe_): “I shall practice the supreme righteousness (_paramaṃ dharmam_), for righteousness alone is the highest refuge (_dharmo hi paramā gatiḥ_).”
 </details>
 </details>
 
@@ -342,7 +342,7 @@ While that high-souled one dwelt within the hermitage grounds (āśrama-pada-sth
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Practicing austerity (tapas taptvā) for thousands of years (varṣa-sahasrāṇi) in the great forest (mahāvane), disciplined by fierce observances (yantrito niyamair ugraiḥ), he performed a most tremendous penance (sumahat tapaḥ).
+Practicing austerity (_tapas taptvā_) for thousands of years (_varṣa-sahasrāṇi_) in the great forest (_mahāvane_), disciplined by fierce observances (_yantrito niyamair ugraiḥ_), he performed a most tremendous penance (_sumahat tapaḥ_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ Practicing austerity (tapas taptvā) for thousands of years (varṣa-sahasrāṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the completion of each thousand-year span (pūrṇe varṣa-sahasrānte), he instituted each successive discipline (taṃ taṃ vidhim akalpayat): subsisting upon water (jalāśī), feeding solely upon air (mārutāhāraḥ), and likewise taking no nourishment at all (nirāhāraḥ).
+At the completion of each thousand-year span (_pūrṇe varṣa-sahasrānte_), he instituted each successive discipline (_taṃ taṃ vidhim akalpayat_): subsisting upon water (_jalāśī_), feeding solely upon air (_mārutāhāraḥ_), and likewise taking no nourishment at all (_nirāhāraḥ_).
 </details>
 </details>
 
@@ -414,7 +414,7 @@ Pleased by Vaiśravaṇa’s millennia of penance, Brahmā arrives with Indra an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus did those thousands of years (varṣa-sahasrāṇi) pass away as though they were a single year (eka-varṣavat). Thereupon the greatly resplendent one (mahātejāḥ), pleased, together with the hosts of gods led by Indra (sendraiḥ sura-gaṇaiḥ saha)—
+Thus did those thousands of years (_varṣa-sahasrāṇi_) pass away as though they were a single year (_eka-varṣavat_). Thereupon the greatly resplendent one (_mahātejāḥ_), pleased, together with the hosts of gods led by Indra (_sendraiḥ sura-gaṇaiḥ saha_)—
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Thus did those thousands of years (varṣa-sahasrāṇi) pass away as though the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Brahmā, having gone to his hermitage (āśrama-padam), spoke these words: “I am deeply pleased with you, O dear child (vatsa), by this austerity of yours, O keeper of noble vows (suvrata). Choose a boon (varaṃ vṛṇīṣva), may blessings attend you (bhadraṃ te), for you are worthy of a boon (varārhaḥ), O great-minded one!”
+—Brahmā, having gone to his hermitage (_āśrama-padam_), spoke these words: “I am deeply pleased with you, O dear child (_vatsa_), by this austerity of yours, O keeper of noble vows (_suvrata_). Choose a boon (_varaṃ vṛṇīṣva_), may blessings attend you (_bhadraṃ te_), for you are worthy of a boon (_varārhaḥ_), O great-minded one!”
 </details>
 </details>
 
@@ -479,7 +479,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vaiśravaṇa addressed the Grandsire (pitāmaham) standing before him: “O Blessed Lord (bhagavan), I would desire the rank of a World-Guardian (lokapālatvam) and the guardianship of all wealth (vitta-rakṣaṇam).”
+Then Vaiśravaṇa addressed the Grandsire (_pitāmaham_) standing before him: “O Blessed Lord (_bhagavan_), I would desire the rank of a World-Guardian (_lokapālatvam_) and the guardianship of all wealth (_vitta-rakṣaṇam_).”
 </details>
 </details>
 
@@ -510,7 +510,7 @@ Then Vaiśravaṇa addressed the Grandsire (pitāmaham) standing before him: “
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then with a deeply gratified heart (parituṣṭena cetasā), Brahmā, together with the hosts of gods, spoke to Vaiśravaṇa joyfully, saying, “So be it (bāḍham)! Indeed, I myself was already intent upon creating a fourth among the World-Guardians (lokapālānāṃ caturtham).
+Then with a deeply gratified heart (_parituṣṭena cetasā_), Brahmā, together with the hosts of gods, spoke to Vaiśravaṇa joyfully, saying, “So be it (_bāḍham_)! Indeed, I myself was already intent upon creating a fourth among the World-Guardians (_lokapālānāṃ caturtham_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ Then with a deeply gratified heart (parituṣṭena cetasā), Brahmā, together 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go and assume that station (padam) alongside Yama, Indra, and Varuṇa which you have desired, O knower of righteousness (dharmajña), and attain the lordship of treasures (nidhīśatvam); you shall become the fourth alongside Śakra, the Lord of Waters, and Yama (śakrāmbupa-yamānām).
+“Go and assume that station (_padam_) alongside Yama, Indra, and Varuṇa which you have desired, O knower of righteousness (_dharmajña_), and attain the lordship of treasures (_nidhīśatvam_); you shall become the fourth alongside Śakra, the Lord of Waters, and Yama (_śakrāmbupa-yamānām_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ Then with a deeply gratified heart (parituṣṭena cetasā), Brahmā, together 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accept also this aerial chariot named Puṣpaka (puṣpakaṃ nāma vimānam), radiant as the sun (sūrya-sannibham), for your conveyance (yānārtham), and attain equality with the thirty gods (tridaśaiḥ samatāṃ vraja).
+“Accept also this aerial chariot named Puṣpaka (_puṣpakaṃ nāma vimānam_), radiant as the sun (_sūrya-sannibham_), for your conveyance (_yānārtham_), and attain equality with the thirty gods (_tridaśaiḥ samatāṃ vraja_).
 </details>
 </details>
 
@@ -611,7 +611,7 @@ After Brahmā and the gods depart to heaven, Vaiśravaṇa humbly asks his fathe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May all be well with you (svasti te ’stu); we shall all depart even as we came (yathāgatam), for we have fulfilled our purpose (kṛta-kṛtyā vayam), dear child, having bestowed upon you these two boons (vara-dvayam).” Having spoken thus, Brahmā departed to his own abode (svasthānam) together with the thirty gods.
+“May all be well with you (_svasti te ’stu_); we shall all depart even as we came (_yathāgatam_), for we have fulfilled our purpose (_kṛta-kṛtyā vayam_), dear child, having bestowed upon you these two boons (_vara-dvayam_).” Having spoken thus, Brahmā departed to his own abode (_svasthānam_) together with the thirty gods.
 </details>
 </details>
 
@@ -645,7 +645,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the gods headed by Brahmā (brahma-pūrveṣu deveṣu) had ascended to the expanse of heaven (nabhaḥ-sthalam), he [Vaiśravaṇa], standing in the forest with folded palms (prāñjaliḥ) and self-controlled spirit (prayatātmavān), spoke to his father: “That Lord of Creatures (prajāpatiḥ) has not appointed a dwelling place (nivāsanam) for me.
+When the gods headed by Brahmā (_brahma-pūrveṣu deveṣu_) had ascended to the expanse of heaven (_nabhaḥ-sthalam_), he [Vaiśravaṇa], standing in the forest with folded palms (_prāñjaliḥ_) and self-controlled spirit (_prayatātmavān_), spoke to his father: “That Lord of Creatures (_prajāpatiḥ_) has not appointed a dwelling place (_nivāsanam_) for me.
 </details>
 </details>
 
@@ -685,9 +685,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “O Blessed One (bhagavan), I have obtained my cherished boon (varam iṣṭam) from the Grandsire; therefore look out (paśya) for some fitting abode (kañcin nivāsam) for me, O venerable lord (prabho),
+**21:** “O Blessed One (_bhagavan_), I have obtained my cherished boon (_varam iṣṭam_) from the Grandsire; therefore look out (_paśya_) for some fitting abode (_kañcin nivāsam_) for me, O venerable lord (_prabho_),
 
-**22:** “—where no harm shall befall any living creature whatsoever (prāṇino yasya kasyacit).” Thus addressed by his son, Viśravas, foremost of sages (munipuṅgavaḥ),
+**22:** “—where no harm shall befall any living creature whatsoever (_prāṇino yasya kasyacit_).” Thus addressed by his son, Viśravas, foremost of sages (_munipuṅgavaḥ_),
 </details>
 </details>
 
@@ -728,9 +728,9 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** —that noblest knower of righteousness (dharmajñaḥ ... sattamaḥ)—spoke these words: “Listen! Upon the shore of the southern ocean (dakṣiṇasyodadhes tīre) stands a mountain named Trikūṭa (trikūṭo nāma parvataḥ).
+**23:** —that noblest knower of righteousness (_dharmajñaḥ ... sattamaḥ_)—spoke these words: “Listen! Upon the shore of the southern ocean (_dakṣiṇasyodadhes tīre_) stands a mountain named Trikūṭa (_trikūṭo nāma parvataḥ_).
 
-**24:** “Upon its summit (tasyāgre), spacious as the city of Great Indra (mahendrasya purī yathā), stands a lovely citadel named Laṅkā (laṅkā nāma purī ramyā), fashioned by Viśvakarman (nirmitā viśvakarmaṇā)—
+**24:** “Upon its summit (_tasyāgre_), spacious as the city of Great Indra (_mahendrasya purī yathā_), stands a lovely citadel named Laṅkā (_laṅkā nāma purī ramyā_), fashioned by Viśvakarman (_nirmitā viśvakarmaṇā_)—
 </details>
 </details>
 
@@ -765,9 +765,9 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “—for the habitation of the rākṣasas (rākṣasānāṃ nivāsārtham), even as Amarāvatī was built for Indra. Dwell there (tatra tvaṃ vasa), may blessings attend you (bhadraṃ te), in Laṅkā—of this let there be no doubt (nātra saṃśayaḥ)!
+**25:** “—for the habitation of the rākṣasas (_rākṣasānāṃ nivāsārtham_), even as Amarāvatī was built for Indra. Dwell there (_tatra tvaṃ vasa_), may blessings attend you (_bhadraṃ te_), in Laṅkā—of this let there be no doubt (_nātra saṃśayaḥ_)!
 
-**26:** “Girt with golden ramparts and bars (hema-prākāra-parighā) and well-furnished with war-engines and weapons (yantra-śastra-samāvṛtā), delightful indeed is that city (ramaṇīyā purī sā hi), adorned with gateways of gold and cat’s-eye gems (rukma-vaiḍūrya-toraṇā).
+**26:** “Girt with golden ramparts and bars (_hema-prākāra-parighā_) and well-furnished with war-engines and weapons (_yantra-śastra-samāvṛtā_), delightful indeed is that city (_ramaṇīyā purī sā hi_), adorned with gateways of gold and cat’s-eye gems (_rukma-vaiḍūrya-toraṇā_).
 </details>
 </details>
 
@@ -798,7 +798,7 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old (purā) it was abandoned by the rākṣasas (rākṣasaiḥ sā parityaktā), who were tormented by the fear of Viṣṇu (viṣṇu-bhayārditaiḥ); it now lies empty of all the rākṣasa hosts (śūnyā rakṣo-gaṇaiḥ sarvaiḥ), who have fled to the depths of Rasātala (rasātala-talaṃ gataiḥ).
+“Of old (_purā_) it was abandoned by the rākṣasas (_rākṣasaiḥ sā parityaktā_), who were tormented by the fear of Viṣṇu (_viṣṇu-bhayārditaiḥ_); it now lies empty of all the rākṣasa hosts (_śūnyā rakṣo-gaṇaiḥ sarvaiḥ_), who have fled to the depths of Rasātala (_rasātala-talaṃ gataiḥ_).
 </details>
 </details>
 
@@ -829,7 +829,7 @@ Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Empty is that Laṅkā at present (śūnyā samprati laṅkā sā), and no lord rules over her (prabhus tasyā na vidyate). Therefore, my son (putra), go there to take up your abode at your pleasure (yathāsukham)—
+“Empty is that Laṅkā at present (_śūnyā samprati laṅkā sā_), and no lord rules over her (_prabhus tasyā na vidyate_). Therefore, my son (_putra_), go there to take up your abode at your pleasure (_yathāsukham_)—
 </details>
 </details>
 
@@ -868,7 +868,7 @@ Accepting his father’s righteous counsel, Vaiśravaṇa peoples mountain-crown
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blameless (nirdoṣaḥ) will be your dwelling there, for no harm (bādhāḥ) will come to anyone therein.” Having heard that most righteous counsel (dharmiṣṭhaṃ vacanam) of his father, that righteous-souled one (dharmātmā)—
+“Blameless (_nirdoṣaḥ_) will be your dwelling there, for no harm (_bādhāḥ_) will come to anyone therein.” Having heard that most righteous counsel (_dharmiṣṭhaṃ vacanam_) of his father, that righteous-souled one (_dharmātmā_)—
 </details>
 </details>
 
@@ -902,7 +902,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—settled and peopled Laṅkā (nivāsayām āsa ... laṅkām) upon the mountain crest (parvata-mūrdhani), together with thousands of Nairṛtas (nairṛtānāṃ sahasraiḥ), joyful and exultant (hṛṣṭaiḥ pramuditaiḥ); and in a very short time (acireṇaiva kālena), through his righteous governance (tasya śāsanāt), it became completely filled [with abundance] (sampūrṇā).
+—settled and peopled Laṅkā (_nivāsayām āsa ... laṅkām_) upon the mountain crest (_parvata-mūrdhani_), together with thousands of Nairṛtas (_nairṛtānāṃ sahasraiḥ_), joyful and exultant (_hṛṣṭaiḥ pramuditaiḥ_); and in a very short time (_acireṇaiva kālena_), through his righteous governance (_tasya śāsanāt_), it became completely filled [with abundance] (_sampūrṇā_).
 </details>
 </details>
 
@@ -933,7 +933,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus that righteous-souled bull among the Nairṛtas (nairṛtarṣabhaḥ), the son of Viśravas (viśravātmajaḥ), dwelt joyfully (prītaḥ) in Laṅkā, which had the ocean itself for its moat (samudra-parighāyām).
+Thus that righteous-souled bull among the Nairṛtas (_nairṛtarṣabhaḥ_), the son of Viśravas (_viśravātmajaḥ_), dwelt joyfully (_prītaḥ_) in Laṅkā, which had the ocean itself for its moat (_samudra-parighāyām_).
 </details>
 </details>
 
@@ -964,7 +964,7 @@ Thus that righteous-souled bull among the Nairṛtas (nairṛtarṣabhaḥ), the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And from time to time (kāle kāle), that righteous-souled, humble-spirited (vinītātmā) Lord of Wealth (dhaneśvaraḥ) came riding in the Puṣpaka chariot (puṣpakeṇa) to pay homage to his father and his mother (pitaraṃ mātaraṃ ca).
+And from time to time (_kāle kāle_), that righteous-souled, humble-spirited (_vinītātmā_) Lord of Wealth (_dhaneśvaraḥ_) came riding in the Puṣpaka chariot (_puṣpakeṇa_) to pay homage to his father and his mother (_pitaraṃ mātaraṃ ca_).
 </details>
 </details>
 
@@ -995,7 +995,7 @@ And from time to time (kāle kāle), that righteous-souled, humble-spirited (vin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Praised by throngs of gods and Gandharvas (deva-gandharva-gaṇair abhiṣṭutaḥ), his aerial hall adorned with the dances of Apsarases (apsaro-nṛtya-vibhūṣitālayaḥ), illuminating the sky like the sun with his rays (gabhastibhiḥ sūrya ivāvabhāsayan), that Lord of Wealth (vittapaḥ) journeyed to his father’s presence (pituḥ samīpaṃ prayayau).
+Praised by throngs of gods and Gandharvas (_deva-gandharva-gaṇair abhiṣṭutaḥ_), his aerial hall adorned with the dances of Apsarases (_apsaro-nṛtya-vibhūṣitālayaḥ_), illuminating the sky like the sun with his rays (_gabhastibhiḥ sūrya ivāvabhāsayan_), that Lord of Wealth (_vittapaḥ_) journeyed to his father’s presence (_pituḥ samīpaṃ prayayau_).
 </details>
 </details>
 

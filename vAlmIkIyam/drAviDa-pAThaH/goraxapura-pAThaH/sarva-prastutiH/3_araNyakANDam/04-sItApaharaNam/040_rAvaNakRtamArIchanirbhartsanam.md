@@ -81,7 +81,7 @@ a person with a death wish rejects medicament. [3-40-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though spoken to by Mārīca with words that were fitting and reasonable (kṣamaṃ yuktaṃ ca), Rāvaṇa did not accept that counsel, like a man wishing to die (martu-kāmaḥ) spurning medicine (auṣadham).
+Though spoken to by Mārīca with words that were fitting and reasonable (_kṣamaṃ yuktaṃ ca_), Rāvaṇa did not accept that counsel, like a man wishing to die (_martu-kāmaḥ_) spurning medicine (_auṣadham_).
 </details>
 </details>
 
@@ -137,7 +137,7 @@ unbefitting words to Maareecha who had been speaking conducive and beneficial wo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by Fate (kāla-coditaḥ), the lord of rākṣasas spoke harsh and unseemly words (paruṣaṃ vākyam ayuktam) to that Mārīca, who had spoken what was salutary and beneficial (pathya-hita-vaktāram).
+Impelled by Fate (_kāla-coditaḥ_), the lord of _rākṣasas_ spoke harsh and unseemly words (_paruṣaṃ vākyam ayuktam_) to that Mārīca, who had spoken what was salutary and beneficial (_pathya-hita-vaktāram_).
 </details>
 </details>
 
@@ -190,7 +190,7 @@ effect, like the seeds seeded in wastelands. [3-40-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O base-born Mārīca (duṣkula), this speech of yours of improper purport (ayuktārtham) addressed to me is utterly fruitless (niṣphalam atyartham), like seed sown in barren alkaline soil (bījam uptam ivoṣare).
+“O base-born Mārīca (_duṣkula_), this speech of yours of improper purport (_ayuktārtham_) addressed to me is utterly fruitless (_niṣphalam atyartham_), like seed sown in barren alkaline soil (_bījam uptam ivoṣare_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ destroy me in war' will be the meaning, as per Eastern recension.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By your words I cannot be deterred (na tu māṃ śakyaṃ bhettum) from battle with Rāma—especially since he is a fool (mūrkhasya), of sinful conduct (pāpa-śīlasya), and a mere mortal (mānuṣasya)—
+“By your words I cannot be deterred (_na tu māṃ śakyaṃ bhettum_) from battle with Rāma—especially since he is a fool (_mūrkhasya_), of sinful conduct (_pāpa-śīlasya_), and a mere mortal (_mānuṣasya_)—
 </details>
 </details>
 
@@ -316,9 +316,9 @@ by me in association with you, as that Rama had purposelessly killed Khara in a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “He who, abandoning his friends, kingdom, mother, and father, went off to the forest in an instant (ekapade) upon hearing the vulgar words of a woman (strī-vākyaṃ prākṛtam)!
+**5:** “He who, abandoning his friends, kingdom, mother, and father, went off to the forest in an instant (_ekapade_) upon hearing the vulgar words of a woman (_strī-vākyaṃ prākṛtam_)!
 
-**6:** “In your presence (tava sannidhau), I must certainly abduct Sītā, who is dearer to him than life itself (prāṇaiḥ priyatarā), belonging to that slayer of Khara in battle (saṃyuge khara-ghātinaḥ).
+**6:** “In your presence (_tava sannidhau_), I must certainly abduct Sītā, who is dearer to him than life itself (_prāṇaiḥ priyatarā_), belonging to that slayer of Khara in battle (_saṃyuge khara-ghātinaḥ_).
 </details>
 </details>
 
@@ -379,7 +379,7 @@ impossible to roll back my mind or heart even for Indra coming along with gods a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus stands this fixed resolve in my heart (niścitā buddhir hṛdi), O Mārīca; it cannot be turned back (na vyāvartayituṃ śakyā) even by the gods and asuras together with Indra (sendrair api surāsuraiḥ).
+“Thus stands this fixed resolve in my heart (_niścitā buddhir hṛdi_), O Mārīca; it cannot be turned back (_na vyāvartayituṃ śakyā_) even by the gods and _asuras_ together with Indra (_sendrair api surāsuraiḥ_).
 </details>
 </details>
 
@@ -432,7 +432,7 @@ but I did not seek any viewpoints of yours. [3-40-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only when questioned (sampṛṣṭaḥ) regarding the defect or merit (doṣaṃ guṇaṃ vā), or the risk or expedient means (apāyaṃ vā upāyaṃ vā), in determining this undertaking ought you to speak thus.
+“Only when questioned (_sampṛṣṭaḥ_) regarding the defect or merit (_doṣaṃ guṇaṃ vā_), or the risk or expedient means (_apāyaṃ vā upāyaṃ vā_), in determining this undertaking ought you to speak thus.
 </details>
 </details>
 
@@ -503,7 +503,7 @@ vaktavyam eva - dk* .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A wise minister (sacivena vipaścitā) who desires his own prosperity (bhūtim ātmanaḥ) should speak to a king only when asked (sampṛṣṭena), with joined palms upraised (udyatāñjalinā).
+“A wise minister (_sacivena vipaścitā_) who desires his own prosperity (_bhūtim ātmanaḥ_) should speak to a king only when asked (_sampṛṣṭena_), with joined palms upraised (_udyatāñjalinā_).
 </details>
 </details>
 
@@ -569,7 +569,7 @@ bruuyaat bhartruH kShiptaH uttaram vacaH | praviiNo api hi medhaavii varjayet ab
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A ruler of the earth (vasudhādhipaḥ) should be addressed with deference (upacāreṇa), in words that are unopposed (apratikūlam), gentle at the outset (mṛdu-pūrvam), auspicious, salutary, and fitting.
+“A ruler of the earth (_vasudhādhipaḥ_) should be addressed with deference (_upacāreṇa_), in words that are unopposed (_apratikūlam_), gentle at the outset (_mṛdu-pūrvam_), auspicious, salutary, and fitting.
 </details>
 </details>
 
@@ -624,7 +624,7 @@ dishonourable, let alone reprehension. [3-40-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if a salutary word is spoken (hitam ucyate), if it is accompanied by rudeness (sāvamardam) and devoid of respect (māna-varjitam), a king who prizes honour (mānārthī) will not welcome it.
+“Even if a salutary word is spoken (_hitam ucyate_), if it is accompanied by rudeness (_sāvamardam_) and devoid of respect (_māna-varjitam_), a king who prizes honour (_mānārthī_) will not welcome it.
 </details>
 </details>
 
@@ -724,9 +724,9 @@ paalaka ruupatvaat raajaa puujyo maanyaH ca iti suucitam - dk* .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Kings of immeasurable energy (amitaujasaḥ) bear five divine forms (pañca rūpāṇi)—those of Agni, Indra, Soma, Yama, and Varuṇa.
+**12:** “Kings of immeasurable energy (_amitaujasaḥ_) bear five divine forms (_pañca rūpāṇi_)—those of Agni, Indra, Soma, Yama, and Varuṇa.
 
-**13:** “Great-souled kings, O night-roamer (kṣaṇadā-cara), embody fiery heat (auṣṇyam), valour (vikramam), gentleness (saumyam), chastisement (daṇḍam), and graciousness (prasannatām).
+**13:** “Great-souled kings, O night-roamer (_kṣaṇadā-cara_), embody fiery heat (_auṣṇyam_), valour (_vikramam_), gentleness (_saumyam_), chastisement (_daṇḍam_), and graciousness (_prasannatām_).
 </details>
 </details>
 
@@ -807,9 +807,9 @@ expedient for me, but oh, demon of untold bravery, I have said this much to you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “Therefore, under all circumstances (sarvāsv avasthāsu), they are perpetually to be respected and revered (mānyāḥ pūjyāś ca); you, however, ignorant of royal duty (dharmam avijñāya), have given yourself over entirely to delusion (moham āśritaḥ).
+**14:** “Therefore, under all circumstances (_sarvāsv avasthāsu_), they are perpetually to be respected and revered (_mānyāḥ pūjyāś ca_); you, however, ignorant of royal duty (_dharmam avijñāya_), have given yourself over entirely to delusion (_moham āśritaḥ_).
 
-**15:** “Out of wickedness (daurātmyāt) you speak such harsh words to me who have come as a guest (abhyāgatam); I am not asking you about merits and defects (guṇa-doṣau), nor what is salutary for myself, O rākṣasa!
+**15:** “Out of wickedness (_daurātmyāt_) you speak such harsh words to me who have come as a guest (_abhyāgatam_); I am not asking you about merits and defects (_guṇa-doṣau_), nor what is salutary for myself, O _rākṣasa_!
 </details>
 </details>
 
@@ -866,7 +866,7 @@ course of your assistance as I detail it to you. [3-40-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having said this much to you, O you of immeasurable prowess (amita-vikrama), you ought now to render assistance (sāhāyyaṃ kartum arhasi) in this undertaking of mine.
+“Having said this much to you, O you of immeasurable prowess (_amita-vikrama_), you ought now to render assistance (_sāhāyyaṃ kartum arhasi_) in this undertaking of mine.
 </details>
 </details>
 
@@ -932,9 +932,9 @@ hermitage of Rama, and on verily alluring Vaidehi you can go away as you like. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “Hear that task which you must perform by way of assistance at my command (vacanān mama): becoming a golden deer (sauvarṇas tvaṃ mṛgo bhūtvā) dappled with silver spots (citro rajata-bindubhiḥ)—
+**17:** “Hear that task which you must perform by way of assistance at my command (_vacanān mama_): becoming a golden deer (_sauvarṇas tvaṃ mṛgo bhūtvā_) dappled with silver spots (_citro rajata-bindubhiḥ_)—
 
-**18:** “Roam before Sītā (sītāyāḥ pramukhe cara) at the hermitage of that Rāma; having enticed Vaidehī (pralobhayitvā vaidehīm), you may depart wherever you wish (yatheṣṭam).
+**18:** “Roam before Sītā (_sītāyāḥ pramukhe cara_) at the hermitage of that Rāma; having enticed Vaidehī (_pralobhayitvā vaidehīm_), you may depart wherever you wish (_yatheṣṭam_).
 </details>
 </details>
 
@@ -989,7 +989,7 @@ indeed she tells Rama, 'bring that one quickly.' [3-40-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For upon beholding you in that golden, illusory form (māyāmayaṃ kāñcanam), Maithilī, struck with wonder (jāta-vismayā), will quickly say to Rāma, ‘Bring him here!’ (ānayainam iti).
+“For upon beholding you in that golden, illusory form (_māyāmayaṃ kāñcanam_), Maithilī, struck with wonder (_jāta-vismayā_), will quickly say to Rāma, ‘Bring him here!’ (_ānayainam iti_).
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ this way, 'ha Seetha' and even as, 'ha, Lakshmana,' mimicking Rama's voice. [3-4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And when Kākutstha has been drawn far away (apakrānte ca kākutsthe), go to a distance and cry out, ‘Ah Sītā! Ah Lakṣmaṇa!’ in a voice mimicking Rāma's voice (rāma-vākyānurūpakam).
+“And when Kākutstha has been drawn far away (_apakrānte ca kākutsthe_), go to a distance and cry out, ‘Ah Sītā! Ah Lakṣmaṇa!’ in a voice mimicking Rāma&#x27;s voice (_rāma-vākyānurūpakam_).
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ follows the path of Rama in all his fondness for Rama. [3-40-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that, and urged on by Sītā (sītayā ca pracoditaḥ), the agitated son of Sumitrā too (saumitrir api), out of brotherly affection (sauhṛdāt), will follow Rāma's track (rāma-padavīm).
+“Hearing that, and urged on by Sītā (_sītayā ca pracoditaḥ_), the agitated son of Sumitrā too (_saumitrir api_), out of brotherly affection (_sauhṛdāt_), will follow Rāma&#x27;s track (_rāma-padavīm_).
 </details>
 </details>
 
@@ -1149,7 +1149,7 @@ effortlessly like the Thousand-eyed Indra who once carried off Sachi Devi. [3-40
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When both Kākutstha and Lakṣmaṇa have gone away, I shall at my ease (yathā-sukham) carry off Vaidehī, even as the thousand-eyed Indra carried off Śacī.
+“When both Kākutstha and Lakṣmaṇa have gone away, I shall at my ease (_yathā-sukham_) carry off Vaidehī, even as the thousand-eyed Indra carried off Śacī.
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ you oh, Maareecha with solemn vows, I will grant half of my kingdom. [3-40-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having accomplished this task in this manner, go wherever you wish, O rākṣasa; I shall bestow upon you half of my kingdom (rājyasyārdhaṃ pradāsyāmi), O Mārīca of noble vows!
+“Having accomplished this task in this manner, go wherever you wish, O _rākṣasa_; I shall bestow upon you half of my kingdom (_rājyasyārdhaṃ pradāsyāmi_), O Mārīca of noble vows!
 </details>
 </details>
 
@@ -1261,7 +1261,7 @@ the task, and I for myself will follow you to Dandaka forest along with the char
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Set forth, gentle sir (saumya), upon an auspicious path (śivaṃ mārgam) for the success of this undertaking; I, for my part, shall follow you with my chariot (sarathaḥ) into the Daṇḍaka forest.
+“Set forth, gentle sir (_saumya_), upon an auspicious path (_śivaṃ mārgam_) for the success of this undertaking; I, for my part, shall follow you with my chariot (_sarathaḥ_) into the Daṇḍaka forest.
 </details>
 </details>
 
@@ -1316,7 +1316,7 @@ a conflict, then I will proceed to Lanka along with you. [3-40-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained Sītā without a battle (ayuddhena) by deceiving Rāghava (vañcayitvā tu rāghavam), I shall return to Laṅkā with my purpose accomplished (kṛta-kāryaḥ), together with you.
+“Having obtained Sītā without a battle (_ayuddhena_) by deceiving Rāghava (_vañcayitvā tu rāghavam_), I shall return to Laṅkā with my purpose accomplished (_kṛta-kāryaḥ_), together with you.
 </details>
 </details>
 
@@ -1378,7 +1378,7 @@ king will never succeed safely. [3-40-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you do not do this (no cet karoṣi), O Mārīca, I shall slay you this very day! You shall certainly perform this task of mine even by force (balād api), for one who stands opposed to a king (rājño vipratikūlasthaḥ) never prospers in happiness.
+“If you do not do this (_no cet karoṣi_), O Mārīca, I shall slay you this very day! You shall certainly perform this task of mine even by force (_balād api_), for one who stands opposed to a king (_rājño vipratikūlasthaḥ_) never prospers in happiness.
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ Ravana spoke to Maareecha. [3-40-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On encountering him, your life is [merely] in doubt (jīvita-saṃśayas te), whereas if you oppose me today, your death is certain (mṛtyur dhruvaḥ)! Weighing this duly in your mind (parigaṇya buddhyā), do accordingly what is salutary in this matter.”
+“On encountering him, your life is [merely] in doubt (_jīvita-saṃśayas te_), whereas if you oppose me today, your death is certain (_mṛtyur dhruvaḥ_)! Weighing this duly in your mind (_parigaṇya buddhyā_), do accordingly what is salutary in this matter.”
 </details>
 </details>
 

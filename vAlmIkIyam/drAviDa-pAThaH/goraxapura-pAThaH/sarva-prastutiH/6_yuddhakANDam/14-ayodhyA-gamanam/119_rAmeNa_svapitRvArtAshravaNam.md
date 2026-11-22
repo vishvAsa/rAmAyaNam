@@ -72,7 +72,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus in harsh, hair-raising (romaharṣaṇam) words by the wrathful Rāghava, Vaidehī was deeply anguished (pravyathitābhavat) upon hearing them.
+Addressed thus in harsh, hair-raising (_romaharṣaṇam_) words by the wrathful Rāghava, Vaidehī was deeply anguished (_pravyathitābhavat_) upon hearing them.
 </details>
 </details>
 
@@ -109,7 +109,7 @@ Addressed thus in harsh, hair-raising (romaharṣaṇam) words by the wrathful R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that dreadful speech of her husband—never heard before (aśrutapūrvam)—before a vast multitude, Maithilī bowed her head in shame (lajjayāvanatābhavat).
+Hearing that dreadful speech of her husband—never heard before (_aśrutapūrvam_)—before a vast multitude, Maithilī bowed her head in shame (_lajjayāvanatābhavat_).
 </details>
 </details>
 
@@ -143,7 +143,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As though shrinking into her own limbs (praviśantīva gātrāṇi svāni), that daughter of Janaka, pierced as if by the shafts of those words (vākśarais taiḥ saśalyeva), shed tears profusely.
+As though shrinking into her own limbs (_praviśantīva gātrāṇi svāni_), that daughter of Janaka, pierced as if by the shafts of those words (_vākśarais taiḥ saśalyeva_), shed tears profusely.
 </details>
 </details>
 
@@ -208,11 +208,11 @@ Brahmanas."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Then, wiping her own face drenched with tears (bāṣpapariklinnam), she spoke this slowly to her husband in a voice choked with sobs (gadgadayā vācā):
+**4:** Then, wiping her own face drenched with tears (_bāṣpapariklinnam_), she spoke this slowly to her husband in a voice choked with sobs (_gadgadayā vācā_):
 
-**5:** “Why do you make me hear such an unbecoming (asadṛśam) speech, harsh and terrible to the ear (śrotradāruṇam), O hero, like a vulgar man addressing a vulgar woman (prākṛtaḥ prākṛtām iva)?
+**5:** “Why do you make me hear such an unbecoming (_asadṛśam_) speech, harsh and terrible to the ear (_śrotradāruṇam_), O hero, like a vulgar man addressing a vulgar woman (_prākṛtaḥ prākṛtām iva_)?
 
-**6:** I am not such as you deem me to be, O mighty-armed one; have faith in me (pratyayaṃ gaccha me)—I swear to you by my own virtuous conduct alone (svena cāritreṇaiva te śape).
+**6:** I am not such as you deem me to be, O mighty-armed one; have faith in me (_pratyayaṃ gaccha me_)—I swear to you by my own virtuous conduct alone (_svena cāritreṇaiva te śape_).
 </details>
 </details>
 
@@ -272,7 +272,7 @@ well as the venerable person, is seated in an aerial car, O Rama!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Because of the conduct of vulgar women (pṛthakstrīṇāṃ pracāreṇa), you suspect the entire sex (jātim); cast aside this doubt, if indeed I have been tested and known by you (yadi te 'haṃ parīkṣitā).
+Because of the conduct of vulgar women (_pṛthakstrīṇāṃ pracāreṇa_), you suspect the entire sex (_jātim_); cast aside this doubt, if indeed I have been tested and known by you (_yadi te &#x27;haṃ parīkṣitā_).
 </details>
 </details>
 
@@ -320,7 +320,7 @@ your brother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If, helpless as I was (vivaśā), I came into contact with another's body (gātrasaṃsparśaṃ gatāsmi), O lord, there was no willful intent (kāmakāraḥ) of mine therein; fate alone is at fault there (daivaṃ tatrāparādhyati).
+If, helpless as I was (_vivaśā_), I came into contact with another&#x27;s body (_gātrasaṃsparśaṃ gatāsmi_), O lord, there was no willful intent (_kāmakāraḥ_) of mine therein; fate alone is at fault there (_daivaṃ tatrāparādhyati_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ salutation to their father, seated on the topmost part of an aerial car.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That which is under my own control (madadhīnam)—my heart—abides in you alone; what could I do, powerless (anīśvarī), regarding my limbs that were under another's control (parādhīneṣu gātreṣu)?
+That which is under my own control (_madadhīnam_)—my heart—abides in you alone; what could I do, powerless (_anīśvarī_), regarding my limbs that were under another&#x27;s control (_parādhīneṣu gātreṣu_)?
 </details>
 </details>
 
@@ -425,7 +425,7 @@ with his own splendour and clad in brilliant garments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If through our mutually fostered affection (saha saṃvṛddhabhāvena) and long companionship (saṃsargeṇa), O bestower of honor, I have not been truly known by you, then I am ruined forever (hatā tenāsmi śāśvatam).
+If through our mutually fostered affection (_saha saṃvṛddhabhāvena_) and long companionship (_saṃsargeṇa_), O bestower of honor, I have not been truly known by you, then I am ruined forever (_hatā tenāsmi śāśvatam_).
 </details>
 </details>
 
@@ -456,7 +456,7 @@ If through our mutually fostered affection (saha saṃvṛddhabhāvena) and long
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the great hero Hanūmān was sent by you as a searcher (avalokakaḥ), O king, why was I—while still abiding in Laṅkā (laṅkāsthāham)—not renounced by you then?
+When the great hero Hanūmān was sent by you as a searcher (_avalokakaḥ_), O king, why was I—while still abiding in Laṅkā (_laṅkāsthāham_)—not renounced by you then?
 </details>
 </details>
 
@@ -524,7 +524,7 @@ thereupon delivered the following still more beautiful speech:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Had I been abandoned by you then, O hero, immediately upon hearing that message (tadvākyasamanantaram), my life would have been forsaken by me before the very eyes of this monkey [Hanūmān].
+Had I been abandoned by you then, O hero, immediately upon hearing that message (_tadvākyasamanantaram_), my life would have been forsaken by me before the very eyes of this monkey [Hanūmān].
 </details>
 </details>
 
@@ -585,7 +585,7 @@ to me by the foremost of celestials. I am telling you the truth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then this toil of yours, placing your life in jeopardy (saṃśaye nyasya jīvitam), would not have been in vain (na vṛthā), nor would this hardship of your friends have been fruitless (viphalaḥ).
+Then this toil of yours, placing your life in jeopardy (_saṃśaye nyasya jīvitam_), would not have been in vain (_na vṛthā_), nor would this hardship of your friends have been fruitless (_viphalaḥ_).
 </details>
 </details>
 
@@ -636,7 +636,7 @@ exile."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-But by you, O tiger among kings, following only your wrath (roṣam evānuvartatā), womanhood alone (strītvam eva) has been set in the foreground, as if by a shallow-minded man (laghuneva manuṣyeṇa).
+But by you, O tiger among kings, following only your wrath (_roṣam evānuvartatā_), womanhood alone (_strītvam eva_) has been set in the foreground, as if by a shallow-minded man (_laghuneva manuṣyeṇa_).
 </details>
 </details>
 
@@ -683,7 +683,7 @@ aim to send you into exile, are still imprinted in my heart."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though I am named after Janaka (apadeśena janakāt), my birth was from the surface of the earth (vasudhātalāt); yet my manifold righteous conduct (mama vṛttaṃ ca bahu) has not been esteemed by you, O knower of conduct!
+Though I am named after Janaka (_apadeśena janakāt_), my birth was from the surface of the earth (_vasudhātalāt_); yet my manifold righteous conduct (_mama vṛttaṃ ca bahu_) has not been esteemed by you, O knower of conduct!
 </details>
 </details>
 
@@ -736,7 +736,7 @@ completely rid of sorrow - even as the sun is freed from mist."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-My hand, clasped by you in childhood (bālye mama nipīḍitaḥ), has not been honored as authority (na pramāṇīkṛtaḥ); both my devotion and my virtue—all have been cast behind your back by you.”
+My hand, clasped by you in childhood (_bālye mama nipīḍitaḥ_), has not been honored as authority (_na pramāṇīkṛtaḥ_); both my devotion and my virtue—all have been cast behind your back by you.”
 </details>
 </details>
 
@@ -789,7 +789,7 @@ brahmana was redeemed by Ashtavakra."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus while weeping, her voice choked with tears (bāṣpagadgadabhāṣiṇī), Sītā addressed Lakṣmaṇa, who stood dejected and absorbed in anxious thought (dhyānaparāyaṇam):
+Speaking thus while weeping, her voice choked with tears (_bāṣpagadgadabhāṣiṇī_), Sītā addressed Lakṣmaṇa, who stood dejected and absorbed in anxious thought (_dhyānaparāyaṇam_):
 </details>
 </details>
 
@@ -838,7 +838,7 @@ the rulers of gods, for the destruction of Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Prepare a pyre for me (citāṃ me kuru), O Saumitri—the sole remedy (bheṣajam) for this calamity! Smitten by false calumny (mithyāpavādopahatā), I cannot bear to live.
+“Prepare a pyre for me (_citāṃ me kuru_), O Saumitri—the sole remedy (_bheṣajam_) for this calamity! Smitten by false calumny (_mithyāpavādopahatā_), I cannot bear to live.
 </details>
 </details>
 
@@ -892,7 +892,7 @@ returned home from the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spurned before the assembly of people (janasaṃsadi) by a husband unpleased with my virtues (aprītena guṇair bhartrā), I shall enter the bearer of oblations (havyavāhanam), which is the only course fitting for me to take.”
+Spurned before the assembly of people (_janasaṃsadi_) by a husband unpleased with my virtues (_aprītena guṇair bhartrā_), I shall enter the bearer of oblations (_havyavāhanam_), which is the only course fitting for me to take.”
 </details>
 </details>
 
@@ -947,7 +947,7 @@ consecrated on the throne as a lord of the earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Vaidehī, Lakṣmaṇa, slayer of hostile heroes, fell under the sway of indignation (amarṣavaśam āpannaḥ) and looked intently toward Rāghava.
+Addressed thus by Vaidehī, Lakṣmaṇa, slayer of hostile heroes, fell under the sway of indignation (_amarṣavaśam āpannaḥ_) and looked intently toward Rāghava.
 </details>
 </details>
 
@@ -996,7 +996,7 @@ you, honest and virtuous."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Discerning the inclination of Rāma's mind (manaśchandam) indicated by his facial expression (ākārasūcitam), the valiant Saumitri built the pyre in accordance with Rāma's wish (mate rāmasya).
+Discerning the inclination of Rāma&#x27;s mind (_manaśchandam_) indicated by his facial expression (_ākārasūcitam_), the valiant Saumitri built the pyre in accordance with Rāma&#x27;s wish (_mate rāmasya_).
 </details>
 </details>
 
@@ -1048,7 +1048,7 @@ Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For at that moment no friend had the power to appease (anunetum), to address, or even to look upon Rāma, who resembled Kāla, Antaka, and Yama.
+For at that moment no friend had the power to appease (_anunetum_), to address, or even to look upon Rāma, who resembled Kāla, Antaka, and Yama.
 </details>
 </details>
 
@@ -1100,7 +1100,7 @@ celestials too have been fully gratified, by your killing of Ravana in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having reverently circumambulated (kṛtvā pradakṣiṇam) Rāma, who stood with face cast down (adhomukham), Vaidehī approached the blazing fire (dīpyamānaṃ hutāśanam).
+Then, having reverently circumambulated (_kṛtvā pradakṣiṇam_) Rāma, who stood with face cast down (_adhomukham_), Vaidehī approached the blazing fire (_dīpyamānaṃ hutāśanam_).
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ brothers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bowed down to the deities and to the Brāhmaṇas, Maithilī, with her cupped hands joined in reverence (baddhāञ्जalipuṭā), spoke this near the fire:
+Having bowed down to the deities and to the Brāhmaṇas, Maithilī, with her cupped hands joined in reverence (_baddhāञ्जalipuṭā_), spoke this near the fire:
 </details>
 </details>
 
@@ -1205,7 +1205,7 @@ To Dasaratha, who was thus speaking, Rama with joined palms in salutation, submi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as my heart never strays (nāpasarpati) from Rāghava, so may the Fire-god, the witness of the world (lokasya sākṣī), protect me on every side (sarvataḥ pātu pāvakaḥ)!
+“Just as my heart never strays (_nāpasarpati_) from Rāghava, so may the Fire-god, the witness of the world (_lokasya sākṣī_), protect me on every side (_sarvataḥ pātu pāvakaḥ_)!
 </details>
 </details>
 
@@ -1251,7 +1251,7 @@ You will remember those words spoken by you saying, I disown you, with your son
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as Rāghava deems me—whose conduct is pure (śuddhacāritrām)—to be defiled (duṣṭām), so may the Fire-god, the witness of the world, protect me on every side!
+Just as Rāghava deems me—whose conduct is pure (_śuddhacāritrām_)—to be defiled (_duṣṭām_), so may the Fire-god, the witness of the world, protect me on every side!
 </details>
 </details>
 
@@ -1303,7 +1303,7 @@ again uttered the following words to Lakshmana:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as I have never transgressed (nāticarāmy aham) against Rāghava, the knower of all dharma, in deed, mind, or speech (karmaṇā manasā vācā), so may the Fire-god protect me!
+Just as I have never transgressed (_nāticarāmy aham_) against Rāghava, the knower of all dharma, in deed, mind, or speech (_karmaṇā manasā vācā_), so may the Fire-god protect me!
 </details>
 </details>
 
@@ -1354,7 +1354,7 @@ devotion."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as the worshipful Sun, the Wind, the Quarters, and the Moon, as well as Day, the two Twilights (saṃdhye), Night, the Earth, and others too know me to be endowed with pure conduct (cāritrasaṃyutām), [so may Fire protect me]!”
+Just as the worshipful Sun, the Wind, the Quarters, and the Moon, as well as Day, the two Twilights (_saṃdhye_), Night, the Earth, and others too know me to be endowed with pure conduct (_cāritrasaṃyutām_), [so may Fire protect me]!”
 </details>
 </details>
 
@@ -1426,7 +1426,7 @@ those upholding the cause of virtue! Thank heaven! You accomplished this task."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus and circumambulated the fire (parikramya hutāśanam), Vaidehī entered the blazing flame with an unhesitating inner soul (niḥśaṅkenāntarātmanā).
+Having spoken thus and circumambulated the fire (_parikramya hutāśanam_), Vaidehī entered the blazing flame with an unhesitating inner soul (_niḥśaṅkenāntarātmanā_).
 </details>
 </details>
 
@@ -1475,7 +1475,7 @@ well. Rama forever is intent on advancing the interests of the entire world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that vast multitude there, crowded with youths and elders (bālavṛddhasamākulaḥ), beheld the radiant Maithilī entering the fire.
+And that vast multitude there, crowded with youths and elders (_bālavṛddhasamākulaḥ_), beheld the radiant Maithilī entering the fire.
 </details>
 </details>
 
@@ -1535,7 +1535,7 @@ pay homage to the great-souled Rama as a Supreme person, on approaching him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shining like newly smelted gold (taptanavahemābhā) and adorned with ornaments of burnished gold, she plunged into the blazing fire in the presence of the entire world.
+Shining like newly smelted gold (_taptanavahemābhā_) and adorned with ornaments of burnished gold, she plunged into the blazing fire in the presence of the entire world.
 </details>
 </details>
 
@@ -1589,7 +1589,7 @@ and the secret of all gods."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All beings (sarvāṇi rūpāṇi) then beheld the wide-eyed Sītā, resembling a golden sacrificial altar (rukmavedinibhām), falling into the bearer of oblations.
+All beings (_sarvāṇi rūpāṇi_) then beheld the wide-eyed Sītā, resembling a golden sacrificial altar (_rukmavedinibhām_), falling into the bearer of oblations.
 </details>
 </details>
 
@@ -1661,7 +1661,7 @@ the entire world has been removed by you, on the battle-field, O Rama!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sages, gods, and Gandharvas beheld that illustrious lady (mahābhāgām) entering the fire like the full oblation (pūrṇāhutīm iva) in a Vedic sacrifice.
+Sages, gods, and Gandharvas beheld that illustrious lady (_mahābhāgām_) entering the fire like the full oblation (_pūrṇāhutīm iva_) in a Vedic sacrifice.
 </details>
 </details>
 
@@ -1709,7 +1709,7 @@ follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the women wailed aloud (pracukruśuḥ) on beholding her falling into the fire like the continuous stream of clarified butter (vasordhārām iva) consecrated with mantras in a sacrifice (adhvare).
+All the women wailed aloud (_pracukruśuḥ_) on beholding her falling into the fire like the continuous stream of clarified butter (_vasordhārām iva_) consecrated with mantras in a sacrifice (_adhvare_).
 </details>
 </details>
 
@@ -1761,7 +1761,7 @@ This has been done by him, wishing for your welfare and in order to demostrate y
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The three worlds—gods, Gandharvas, and Dānavas—beheld her falling [into the fire] like a goddess cursed (śaptām) and falling from heaven into hell (niraye).
+The three worlds—gods, Gandharvas, and Dānavas—beheld her falling [into the fire] like a goddess cursed (_śaptām_) and falling from heaven into hell (_niraye_).
 </details>
 </details>
 
@@ -1812,7 +1812,7 @@ overshadow their illustriousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As she was entering the fire, a vast, wondrous cry of “Alas! Alas!” (hāheti vipulaḥ svanaḥ) arose among both the Rākṣasas and the monkeys.
+As she was entering the fire, a vast, wondrous cry of “Alas! Alas!” (_hāheti vipulaḥ svanaḥ_) arose among both the Rākṣasas and the monkeys.
 </details>
 </details>
 

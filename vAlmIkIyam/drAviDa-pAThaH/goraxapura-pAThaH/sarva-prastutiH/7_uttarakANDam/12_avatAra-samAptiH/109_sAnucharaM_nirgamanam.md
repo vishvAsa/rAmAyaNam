@@ -48,7 +48,7 @@ At daybreak Rāma directs Vasiṣṭha to send the blazing Agnihotra fire and V�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night had brightened into dawn (prabhātāyāṃ tu śarvaryām), the broad-chested, greatly renowned Rāma with lotus-petal eyes (rāmaḥ kamala-patrākṣaḥ) then spoke to his royal chaplain (purodhasam athābravīt):
+When the night had brightened into dawn (_prabhātāyāṃ tu śarvaryām_), the broad-chested, greatly renowned Rāma with lotus-petal eyes (_rāmaḥ kamala-patrākṣaḥ_) then spoke to his royal chaplain (_purodhasam athābravīt_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ When the night had brightened into dawn (prabhātāyāṃ tu śarvaryām), the b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the blazing Agnihotra fire go before us together with the twice-born (agnihotraṃ vrajatv agre dīpyamānaṃ saha dvijaiḥ), and the Vājapeya parasol shining along the great highway (vājapeyātapatraṃ ca śobhamānaṃ mahāpathe)!”
+“Let the blazing Agnihotra fire go before us together with the twice-born (_agnihotraṃ vrajatv agre dīpyamānaṃ saha dvijaiḥ_), and the Vājapeya parasol shining along the great highway (_vājapeyātapatraṃ ca śobhamānaṃ mahāpathe_)!”
 </details>
 </details>
 
@@ -113,7 +113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the resplendent Vasiṣṭha performed completely, without omitting anything (sarvaṃ niravaśeṣataḥ), the lawful rite of the Great Departure according to scripture (cakāra vidhivad dharmaṃ mahāprāsthānikaṃ vidhim).
+Thereupon the resplendent Vasiṣṭha performed completely, without omitting anything (_sarvaṃ niravaśeṣataḥ_), the lawful rite of the Great Departure according to scripture (_cakāra vidhivad dharmaṃ mahāprāsthānikaṃ vidhim_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ Thereupon the resplendent Vasiṣṭha performed completely, without omitting an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, clad in fine garments (sūkṣmāmbara-dharaḥ), reciting the supreme Brahman (brahmam āvartayan param), and holding blades of kuśa grass interlaced in both hands (kuśān gṛhītvā pāṇibhyāṃ prasajya), Rāma then set forth (prayayāv atha).
+Then, clad in fine garments (_sūkṣmāmbara-dharaḥ_), reciting the supreme Brahman (_brahmam āvartayan param_), and holding blades of kuśa grass interlaced in both hands (_kuśān gṛhītvā pāṇibhyāṃ prasajya_), Rāma then set forth (_prayayāv atha_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ Then, clad in fine garments (sūkṣmāmbara-dharaḥ), reciting the supreme Bra
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Uttering not a word anywhere (avyāharan kvacit kiñcit), motionless in his senses and indifferent to comfort on the path (niśceṣṭo niḥsukhaḥ pathi), he issued forth from that palace blazing like the sun (dīpyamāna ivāṃśumān).
+Uttering not a word anywhere (_avyāharan kvacit kiñcit_), motionless in his senses and indifferent to comfort on the path (_niśceṣṭo niḥsukhaḥ pathi_), he issued forth from that palace blazing like the sun (_dīpyamāna ivāṃśumān_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At Rāma’s right side waited Śrī, holding her lotus (dakṣiṇe pārśve sapadmā śrīr apāśritā); at his left walked the great goddess Hrī (savye tu hrīr mahādevī), and before him went Vyavasāya [Cosmic Resolve] (vyavasāyas tathāgrataḥ).
+At Rāma’s right side waited Śrī, holding her lotus (_dakṣiṇe pārśve sapadmā śrīr apāśritā_); at his left walked the great goddess Hrī (_savye tu hrīr mahādevī_), and before him went Vyavasāya [Cosmic Resolve] (_vyavasāyas tathāgrataḥ_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Rāma’s bow, arrows, and weapons follow him in human form, alongside the Vedas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arrows of manifold kinds (śarā nānāvidhāś cāpi), his tall and peerless bow (dhanur āyatam uttamam), and likewise all his weapons (tathā ’ ’yudhāni te sarve) walked behind him in human form (yayuḥ puruṣa-vigrahāḥ).
+Arrows of manifold kinds (_śarā nānāvidhāś cāpi_), his tall and peerless bow (_dhanur āyatam uttamam_), and likewise all his weapons (_tathā ’ ’yudhāni te sarve_) walked behind him in human form (_yayuḥ puruṣa-vigrahāḥ_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The Vedas in the guise of brahmins (vedā brāhmaṇa-rūpeṇa), all-protecting Gāyatrī (gāyatrī sarva-rakṣiṇī), Oṅkāra, and Vaṣaṭkāra—all followed Rāma in steadfast devotion (sarve rāmam anuvratāḥ).
+The Vedas in the guise of brahmins (_vedā brāhmaṇa-rūpeṇa_), all-protecting Gāyatrī (_gāyatrī sarva-rakṣiṇī_), Oṅkāra, and Vaṣaṭkāra—all followed Rāma in steadfast devotion (_sarve rāmam anuvratāḥ_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ The Vedas in the guise of brahmins (vedā brāhmaṇa-rūpeṇa), all-protecting
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the great-souled sages and all the gods upon earth [brahmins] (ṛṣayaś ca mahātmānaḥ sarva eva mahīsurāḥ) followed that great-souled Lord, the unbarred gateway to heaven (svarga-dvāram apāvṛtam).
+And the great-souled sages and all the gods upon earth [brahmins] (_ṛṣayaś ca mahātmānaḥ sarva eva mahīsurāḥ_) followed that great-souled Lord, the unbarred gateway to heaven (_svarga-dvāram apāvṛtam_).
 </details>
 </details>
 
@@ -347,7 +347,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Following him as he went forth walked the women of the inner apartments (antaḥpura-carāḥ striyaḥ), together with elders, children, and handmaidens (sa-vṛddha-bāla-dāsīkāḥ), and accompanied by chamberlains and attendants (sa-varṣavara-kiṅkarāḥ).
+Following him as he went forth walked the women of the inner apartments (_antaḥpura-carāḥ striyaḥ_), together with elders, children, and handmaidens (_sa-vṛddha-bāla-dāsīkāḥ_), and accompanied by chamberlains and attendants (_sa-varṣavara-kiṅkarāḥ_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ Following him as he went forth walked the women of the inner apartments (antaḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Bharata with his inner household, accompanied by Śatrughna (sāntaḥpuraś ca bharataḥ śatrughna-sahito yayau), betaking himself to Rāma as his supreme refuge (rāmaṃ gatim upāgamya), followed devotedly along with his sacred Agnihotra fires (sāgnihotram anuvrataḥ).
+And Bharata with his inner household, accompanied by Śatrughna (_sāntaḥpuraś ca bharataḥ śatrughna-sahito yayau_), betaking himself to Rāma as his supreme refuge (_rāmaṃ gatim upāgamya_), followed devotedly along with his sacred Agnihotra fires (_sāgnihotram anuvrataḥ_).
 </details>
 </details>
 
@@ -409,7 +409,7 @@ And Bharata with his inner household, accompanied by Śatrughna (sāntaḥpuraś
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all those great-souled twice-born who had assembled with their sacred fires (te ca sarve mahātmānaḥ sāgnihotrāḥ samāgatāḥ), together with their sons and wives (sa-putra-dārāḥ), followed the great-minded Kākutstha (kākutstham anujagmur mahāmatim).
+And all those great-souled twice-born who had assembled with their sacred fires (_te ca sarve mahātmānaḥ sāgnihotrāḥ samāgatāḥ_), together with their sons and wives (_sa-putra-dārāḥ_), followed the great-minded Kākutstha (_kākutstham anujagmur mahāmatim_).
 </details>
 </details>
 
@@ -448,7 +448,7 @@ Ministers, servants, and every rank of citizens—men and women with their child
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ministers and throngs of retainers (mantriṇo bhṛtya-vargāś ca), together with their sons, cattle, and kinsmen (sa-putra-paśu-bāndhavāḥ), all accompanied by their own followers (sarve sahānugāḥ), followed Rāma as though filled with supreme delight (rāmam anvagacchan prahṛṣṭavat).
+Ministers and throngs of retainers (_mantriṇo bhṛtya-vargāś ca_), together with their sons, cattle, and kinsmen (_sa-putra-paśu-bāndhavāḥ_), all accompanied by their own followers (_sarve sahānugāḥ_), followed Rāma as though filled with supreme delight (_rāmam anvagacchan prahṛṣṭavat_).
 </details>
 </details>
 
@@ -483,9 +483,9 @@ Ministers and throngs of retainers (mantriṇo bhṛtya-vargāś ca), together w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Then all the citizens of the realm, surrounded by joyous and thriving folk (hṛṣṭa-puṣṭa-janāvṛtāḥ), captivated by his virtues (guṇa-rañjitāḥ), followed that departing Rāghava (gacchantam anvagachaṃs taṃ rāghavam).
+**14:** Then all the citizens of the realm, surrounded by joyous and thriving folk (_hṛṣṭa-puṣṭa-janāvṛtāḥ_), captivated by his virtues (_guṇa-rañjitāḥ_), followed that departing Rāghava (_gacchantam anvagachaṃs taṃ rāghavam_).
 
-**15:** Then all of them—men and women together (sa-strī-pumāṃsas te), accompanied by their birds, cattle, and mounts (sa-pakṣi-paśu-vāhanāḥ)—followed Rāghava, rejoicing and cleansed of every blemish (hṛṣṭā vigata-kalmaṣāḥ).
+**15:** Then all of them—men and women together (_sa-strī-pumāṃsas te_), accompanied by their birds, cattle, and mounts (_sa-pakṣi-paśu-vāhanāḥ_)—followed Rāghava, rejoicing and cleansed of every blemish (_hṛṣṭā vigata-kalmaṣāḥ_).
 </details>
 </details>
 
@@ -516,7 +516,7 @@ Ministers and throngs of retainers (mantriṇo bhṛtya-vargāś ca), together w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bathed and overflowing with gladness, joyous and robust were all the monkeys (snātāḥ pramuditāḥ sarve hṛṣṭāḥ puṣṭāś ca vānarāḥ); the entire host devoted to Rāma resounded strongly with cries of exultant “kila-kila!” (dṛḍhaṃ kilakilā-śabdaiḥ sarvaṃ rāmam anuvratam).
+Bathed and overflowing with gladness, joyous and robust were all the monkeys (_snātāḥ pramuditāḥ sarve hṛṣṭāḥ puṣṭāś ca vānarāḥ_); the entire host devoted to Rāma resounded strongly with cries of exultant “kila-kila!” (_dṛḍhaṃ kilakilā-śabdaiḥ sarvaṃ rāmam anuvratam_).
 </details>
 </details>
 
@@ -550,7 +550,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not a single soul there was downcast, abashed, or sorrowful (na tatra kaścid dīno vā vrīḍito vā ’pi duḥkhitaḥ); the whole assembled multitude stood exultant and united, a marvel beyond all wonder (hṛṣṭaṃ samuditaṃ sarvaṃ babhūva paramādbhutam).
+Not a single soul there was downcast, abashed, or sorrowful (_na tatra kaścid dīno vā vrīḍito vā ’pi duḥkhitaḥ_); the whole assembled multitude stood exultant and united, a marvel beyond all wonder (_hṛṣṭaṃ samuditaṃ sarvaṃ babhūva paramādbhutam_).
 </details>
 </details>
 
@@ -589,7 +589,7 @@ Even countryfolk who came merely to glimpse Rāma’s departure joyfully join hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even any countryman who had come merely desiring to behold Rāma departing (draṣṭu-kāmo ’tha niryāntaṃ rāmaṃ jānapado janaḥ), the very moment he set eyes upon him (dṛṣṭvaiva), joyfully fell in behind him for heaven (svargāyānugato mudā).
+Even any countryman who had come merely desiring to behold Rāma departing (_draṣṭu-kāmo ’tha niryāntaṃ rāmaṃ jānapado janaḥ_), the very moment he set eyes upon him (_dṛṣṭvaiva_), joyfully fell in behind him for heaven (_svargāyānugato mudā_).
 </details>
 </details>
 
@@ -620,7 +620,7 @@ Even any countryman who had come merely desiring to behold Rāma departing (dra�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bears, monkeys, and rākṣasas, together with the citizens of the capital (ṛkṣa-vānara-rakṣāṃsi janāś ca puravāsinaḥ), walked close behind in supreme devotion, wholly absorbed in spirit (parayā bhaktyā pṛṣṭhataḥ susamāhitāḥ).
+Bears, monkeys, and rākṣasas, together with the citizens of the capital (_ṛkṣa-vānara-rakṣāṃsi janāś ca puravāsinaḥ_), walked close behind in supreme devotion, wholly absorbed in spirit (_parayā bhaktyā pṛṣṭhataḥ susamāhitāḥ_).
 </details>
 </details>
 
@@ -651,7 +651,7 @@ Bears, monkeys, and rākṣasas, together with the citizens of the capital (ṛk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever beings dwelt in the city—even those dwelling in invisible form (yāni bhūtāni nagare ’py antardhāna-gatāni ca)—they too followed Rāghava as he set forth for heaven (rāghavaṃ tāny anuyayuḥ svargāya samupasthitam).
+Whatever beings dwelt in the city—even those dwelling in invisible form (_yāni bhūtāni nagare ’py antardhāna-gatāni ca_)—they too followed Rāghava as he set forth for heaven (_rāghavaṃ tāny anuyayuḥ svargāya samupasthitam_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever beings—both immobile and mobile (sthāvarāṇi carāṇi ca)—beheld Kākutstha, all of those likewise followed along on Rāma’s final journey (sarvāṇi rāma-gamane hy anujagmur hi tāny api).
+Whatever beings—both immobile and mobile (_sthāvarāṇi carāṇi ca_)—beheld Kākutstha, all of those likewise followed along on Rāma’s final journey (_sarvāṇi rāma-gamane hy anujagmur hi tāny api_).
 </details>
 </details>
 
@@ -725,7 +725,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not even the tiniest breathing creature was to be seen left behind in Ayodhyā (nocchvasat tad ayodhyāyāṃ susūkṣmam api dṛśyate): even creatures born in animal wombs all followed Rāma in devotion (tiryagyoni-gatāś cāpi sarve rāmam anuvratāḥ).
+Not even the tiniest breathing creature was to be seen left behind in Ayodhyā (_nocchvasat tad ayodhyāyāṃ susūkṣmam api dṛśyate_): even creatures born in animal wombs all followed Rāma in devotion (_tiryagyoni-gatāś cāpi sarve rāmam anuvratāḥ_).
 </details>
 </details>
 

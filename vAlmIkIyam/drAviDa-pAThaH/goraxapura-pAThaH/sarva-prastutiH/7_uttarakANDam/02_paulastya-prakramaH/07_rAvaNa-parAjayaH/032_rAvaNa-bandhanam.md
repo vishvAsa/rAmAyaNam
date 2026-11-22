@@ -52,9 +52,9 @@ Not far from where Rāvaṇa worships Śiva upon the Narmadā sandbank, the thou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Not far from that spot (tasmād deśād adūrataḥ) upon the sandbank of the Narmadā (narmadā-puline) where the dread lord of rākṣasas (rākṣasendraḥ sudāruṇaḥ) was performing his flower-offering (puṣpopahāraṃ kurute)—
+**1:** Not far from that spot (_tasmād deśād adūrataḥ_) upon the sandbank of the Narmadā (_narmadā-puline_) where the dread lord of rākṣasas (_rākṣasendraḥ sudāruṇaḥ_) was performing his flower-offering (_puṣpopahāraṃ kurute_)—
 
-**2:** Arjuna, foremost of conquerors (jayatāṃ śreṣṭhaḥ), the mighty lord and ruler of Māhiṣmatī (māhiṣmatyāḥ patiḥ prabhuḥ), was sporting with his women (krīḍate saha nārībhiḥ), immersed in the waters of the Narmadā (narmadā-toyam āśritaḥ).
+**2:** Arjuna, foremost of conquerors (_jayatāṃ śreṣṭhaḥ_), the mighty lord and ruler of Māhiṣmatī (_māhiṣmatyāḥ patiḥ prabhuḥ_), was sporting with his women (_krīḍate saha nārībhiḥ_), immersed in the waters of the Narmadā (_narmadā-toyam āśritaḥ_).
 </details>
 </details>
 
@@ -85,7 +85,7 @@ Not far from where Rāvaṇa worships Śiva upon the Narmadā sandbank, the thou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing in the midst of those women (tāsāṃ madhyagato rājā), King Arjuna shone resplendent (rarāja ca tadārjunaḥ), like a lordly bull elephant standing in the midst of a thousand cow-elephants (kareṇūnāṃ sahasrasya madhyastha iva kuñjaraḥ).
+Standing in the midst of those women (_tāsāṃ madhyagato rājā_), King Arjuna shone resplendent (_rarāja ca tadārjunaḥ_), like a lordly bull elephant standing in the midst of a thousand cow-elephants (_kareṇūnāṃ sahasrasya madhyastha iva kuñjaraḥ_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Standing in the midst of those women (tāsāṃ madhyagato rājā), King Arjuna 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Eager to test the supreme might (jijñāsuḥ ... uttamaṃ balam) of his thousand arms (bāhūnāṃ sahasrasya), ringed about by his multitude of arms (bāhubhir bahubhir vṛtaḥ), he checked the rushing current of the Narmadā (rurodha narmadā-vegam).
+Eager to test the supreme might (_jijñāsuḥ ... uttamaṃ balam_) of his thousand arms (_bāhūnāṃ sahasrasya_), ringed about by his multitude of arms (_bāhubhir bahubhir vṛtaḥ_), he checked the rushing current of the Narmadā (_rurodha narmadā-vegam_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Eager to test the supreme might (jijñāsuḥ ... uttamaṃ balam) of his thousa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Colliding with Kārtavīrya’s arms (kārtavīrya-bhujāsaktam), that limpid water (taj jalaṃ ... nirmalam), sweeping up the riverbank offerings in its wake (kūlopahāraṃ kurvāṇam), rushed swiftly upstream against the current (pratisrotaḥ pradhāvati).
+Colliding with Kārtavīrya’s arms (_kārtavīrya-bhujāsaktam_), that limpid water (_taj jalaṃ ... nirmalam_), sweeping up the riverbank offerings in its wake (_kūlopahāraṃ kurvāṇam_), rushed swiftly upstream against the current (_pratisrotaḥ pradhāvati_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Colliding with Kārtavīrya’s arms (kārtavīrya-bhujāsaktam), that limpid wa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with fish, crocodiles, and makaras (sa-mīna-nakra-makaraḥ), and bearing flowers and mats of kuśa grass (sa-puṣpa-kuśa-saṃstaraḥ), that surging rush of Narmadā’s waters (sa narmadāmbhaso vegaḥ) shone like the river in the monsoon season (prāvṛṭ-kāla ivābabhau).
+Filled with fish, crocodiles, and _makaras_ (_sa-mīna-nakra-makaraḥ_), and bearing flowers and mats of _kuśa_ grass (_sa-puṣpa-kuśa-saṃstaraḥ_), that surging rush of Narmadā’s waters (_sa narmadāmbhaso vegaḥ_) shone like the river in the monsoon season (_prāvṛṭ-kāla ivābabhau_).
 </details>
 </details>
 
@@ -217,7 +217,7 @@ When the back-rushing flood sweeps away his floral offerings, Rāvaṇa halts hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That rushing surge of water (sa vegaḥ ... ambhasaḥ), as though dispatched by Kārtavīrya himself (kārtavīryeṇa sampreṣita iva), swept away the entire floral offering of Rāvaṇa (puṣpopahāraṃ sakalaṃ rāvaṇasya jahāra ha).
+That rushing surge of water (_sa vegaḥ ... ambhasaḥ_), as though dispatched by Kārtavīrya himself (_kārtavīryeṇa sampreṣita iva_), swept away the entire floral offering of Rāvaṇa (_puṣpopahāraṃ sakalaṃ rāvaṇasya jahāra ha_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ That rushing surge of water (sa vegaḥ ... ambhasaḥ), as though dispatched by
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abandoning that half-completed sacred rite (ardha-samāptaṃ tam utsṛjya niyamam), Rāvaṇa then gazed upon the lovely Narmadā (narmadāṃ paśyate kāntām), turned contrary like a perverse beloved (pratikūlāṃ yathā priyām).
+Abandoning that half-completed sacred rite (_ardha-samāptaṃ tam utsṛjya niyamam_), Rāvaṇa then gazed upon the lovely Narmadā (_narmadāṃ paśyate kāntām_), turned contrary like a perverse beloved (_pratikūlāṃ yathā priyām_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ Abandoning that half-completed sacred rite (ardha-samāptaṃ tam utsṛjya niya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing from the west (paścimena tu taṃ dṛṣṭvā) that swelling torrent of water (vardhantam ambhaso vegam), resembling the tidal upwelling of the ocean (sāgarodgāra-sannibham), pressing into the eastern quarter (pūrvām āśāṃ praviśya tu),
+Seeing from the west (_paścimena tu taṃ dṛṣṭvā_) that swelling torrent of water (_vardhantam ambhaso vegam_), resembling the tidal upwelling of the ocean (_sāgarodgāra-sannibham_), pressing into the eastern quarter (_pūrvām āśāṃ praviśya tu_),
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Seeing from the west (paścimena tu taṃ dṛṣṭvā) that swelling torrent o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa then looked eastward and beheld the river (apaśyad rāvaṇo nadīm) with its waterbirds undisturbed (anubhrānta-śakunām), halted in the suspension of its natural course (svabhāvoparame sthitām), looking like an unperturbed woman (nirvikārāṅganābhāsām).
+Rāvaṇa then looked eastward and beheld the river (_apaśyad rāvaṇo nadīm_) with its waterbirds undisturbed (_anubhrānta-śakunām_), halted in the suspension of its natural course (_svabhāvoparame sthitām_), looking like an unperturbed woman (_nirvikārāṅganābhāsām_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a finger of his right hand (savyetara-karāṅgulyā), snapping with a sharp sound (saśabdam), the Ten-Headed One directed Śuka and Sāraṇa (so ’diśac chuka-sāraṇau) to investigate the origin of that surging current (vega-prabhāvam anveṣṭum).
+With a finger of his right hand (_savyetara-karāṅgulyā_), snapping with a sharp sound (_saśabdam_), the Ten-Headed One directed Śuka and Sāraṇa (_so ’diśac chuka-sāraṇau_) to investigate the origin of that surging current (_vega-prabhāvam anveṣṭum_).
 </details>
 </details>
 
@@ -375,7 +375,7 @@ With a finger of his right hand (savyetara-karāṅgulyā), snapping with a shar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dispatched thus by Rāvaṇa (rāvaṇa-sandiṣṭau), those two heroic brothers Śuka and Sāraṇa (bhrātarau śuka-sāraṇau) ascended into the midst of the sky (vyomāntara-gatau vīrau) and set off facing westward (prasthitau paścimāmukhau).
+Dispatched thus by Rāvaṇa (_rāvaṇa-sandiṣṭau_), those two heroic brothers Śuka and Sāraṇa (_bhrātarau śuka-sāraṇau_) ascended into the midst of the sky (_vyomāntara-gatau vīrau_) and set off facing westward (_prasthitau paścimāmukhau_).
 </details>
 </details>
 
@@ -414,7 +414,7 @@ Flying half a yojana westward, Śuka and Sāraṇa discover a colossal, wine-flu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone barely half a yojana (ardha-yojana-mātraṃ tu gatvā), those two night-roamers beheld a man (paśyetāṃ puruṣam) sporting in the water accompanied by women (toye krīḍantaṃ saha-yoṣitam)—
+Having gone barely half a _yojana_ (_ardha-yojana-mātraṃ tu gatvā_), those two night-roamers beheld a man (_paśyetāṃ puruṣam_) sporting in the water accompanied by women (_toye krīḍantaṃ saha-yoṣitam_)—
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Having gone barely half a yojana (ardha-yojana-mātraṃ tu gatvā), those two n
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Towering like a mighty sāla tree (bṛhat-sāla-pratīkāśam), his locks tousled and drenched with water (toya-vyākula-mūrdhajam), the corners of his eyes reddened with wine (mada-raktānta-nayanam), his splendor flushed with intoxication (mada-vyākula-tejasam),
+Towering like a mighty _sāla_ tree (_bṛhat-sāla-pratīkāśam_), his locks tousled and drenched with water (_toya-vyākula-mūrdhajam_), the corners of his eyes reddened with wine (_mada-raktānta-nayanam_), his splendor flushed with intoxication (_mada-vyākula-tejasam_),
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Towering like a mighty sāla tree (bṛhat-sāla-pratīkāśam), his locks tousl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A crusher of foes (arimardanam) damming the river with his thousand arms (nadīṃ bāhu-sahasreṇa rundhantam), like a great mountain holding back the earth with a thousand foothills (giriṃ pāda-sahasreṇa rundhantam iva medinīm),
+A crusher of foes (_arimardanam_) damming the river with his thousand arms (_nadīṃ bāhu-sahasreṇa rundhantam_), like a great mountain holding back the earth with a thousand foothills (_giriṃ pāda-sahasreṇa rundhantam iva medinīm_),
 </details>
 </details>
 
@@ -507,7 +507,7 @@ A crusher of foes (arimardanam) damming the river with his thousand arms (nadī�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by a thousand young and lovely women (bālānāṃ varanārīṇāṃ sahasreṇa samāvṛtam), like a lordly tusker encircled by a thousand rutting cow-elephants (samadānāṃ kareṇūnāṃ sahasreṇeva kuñjaram).
+Surrounded by a thousand young and lovely women (_bālānāṃ varanārīṇāṃ sahasreṇa samāvṛtam_), like a lordly tusker encircled by a thousand rutting cow-elephants (_samadānāṃ kareṇūnāṃ sahasreṇeva kuñjaram_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ Surrounded by a thousand young and lovely women (bālānāṃ varanārīṇāṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that most wondrous being (tam adbhutatamaṃ dṛṣṭvā), the two rākṣasas Śuka and Sāraṇa turned back (sannivṛttau), approached Rāvaṇa, and spoke to him thus (upāgamya rāvaṇaṃ tam athocatuḥ):
+Beholding that most wondrous being (_tam adbhutatamaṃ dṛṣṭvā_), the two rākṣasas Śuka and Sāraṇa turned back (_sannivṛttau_), approached Rāvaṇa, and spoke to him thus (_upāgamya rāvaṇaṃ tam athocatuḥ_):
 </details>
 </details>
 
@@ -569,7 +569,7 @@ Beholding that most wondrous being (tam adbhutatamaṃ dṛṣṭvā), the two r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord of rākṣasas (rākṣaseśvara), some stranger towering like a great sāla tree (bṛhat-sāla-pratīkāśaḥ ko ’py asau) has dammed the Narmadā like an embankment (narmadāṃ rodhavad ruddhvā) and is making women sport in the stream (krīḍāpayati yoṣitaḥ)!
+“O lord of rākṣasas (_rākṣaseśvara_), some stranger towering like a great _sāla_ tree (_bṛhat-sāla-pratīkāśaḥ ko ’py asau_) has dammed the Narmadā like an embankment (_narmadāṃ rodhavad ruddhvā_) and is making women sport in the stream (_krīḍāpayati yoṣitaḥ_)!
 </details>
 </details>
 
@@ -608,7 +608,7 @@ Recognizing Kārtavīrya Arjuna from his scouts’ report, Rāvaṇa eagerly mar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With its waters wholly dammed by his thousand arms (tena bāhu-sahasreṇa sanniruddha-jalā), the river repeatedly unleashes tidal surges like the ocean’s own upwelling (sāgarodgāra-saṅkāśān udgārān sṛjate muhuḥ)!”
+“With its waters wholly dammed by his thousand arms (_tena bāhu-sahasreṇa sanniruddha-jalā_), the river repeatedly unleashes tidal surges like the ocean’s own upwelling (_sāgarodgāra-saṅkāśān udgārān sṛjate muhuḥ_)!”
 </details>
 </details>
 
@@ -639,7 +639,7 @@ Recognizing Kārtavīrya Arjuna from his scouts’ report, Rāvaṇa eagerly mar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Śuka and Sāraṇa speak in this wise (ity evaṃ bhāṣamāṇau tau niśāmya), Rāvaṇa exclaimed, “It is Arjuna!” (rāvaṇo ’rjuna ity uktvā) and set forth craving battle (prayayau yuddha-lālasaḥ).
+Hearing Śuka and Sāraṇa speak in this wise (_ity evaṃ bhāṣamāṇau tau niśāmya_), Rāvaṇa exclaimed, “It is Arjuna!” (_rāvaṇo ’rjuna ity uktvā_) and set forth craving battle (_prayayau yuddha-lālasaḥ_).
 </details>
 </details>
 
@@ -670,7 +670,7 @@ Hearing Śuka and Sāraṇa speak in this wise (ity evaṃ bhāṣamāṇau tau 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that overlord of rākṣasas turned his face toward Arjuna (arjunābhimukhe tasmin rāvaṇe rākṣasādhipe), a violent wind blew (caṇḍaḥ pravāti pavanaḥ), howling aloud and thick with dust (sanādaḥ surajās tathā).
+As that overlord of rākṣasas turned his face toward Arjuna (_arjunābhimukhe tasmin rāvaṇe rākṣasādhipe_), a violent wind blew (_caṇḍaḥ pravāti pavanaḥ_), howling aloud and thick with dust (_sanādaḥ surajās tathā_).
 </details>
 </details>
 
@@ -707,7 +707,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A single thunderclap accompanied by drops of blood (sakṛd eva kṛto rāvaḥ saraktaḥ) was sent forth by the clouds (preṣito ghanaiḥ). Surrounded by Mahodara, Mahāpārśva, Dhūmrākṣa, Śuka, and Sāraṇa (mahodara-mahāpārśva-dhūmrākṣa-śuka-sāraṇaiḥ),
+A single thunderclap accompanied by drops of blood (_sakṛd eva kṛto rāvaḥ saraktaḥ_) was sent forth by the clouds (_preṣito ghanaiḥ_). Surrounded by Mahodara, Mahāpārśva, Dhūmrākṣa, Śuka, and Sāraṇa (_mahodara-mahāpārśva-dhūmrākṣa-śuka-sāraṇaiḥ_),
 </details>
 </details>
 
@@ -738,7 +738,7 @@ A single thunderclap accompanied by drops of blood (sakṛd eva kṛto rāvaḥ 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That lord of rākṣasas went straight to where Arjuna was (tatrāgād yatra cārjunaḥ). Within no long time (adīrgheṇaiva kālena), that mighty rākṣasa (sa tadā rākṣaso balī), dark as collyrium (añjana-prabhaḥ), reached that awesome pool of the Narmadā (taṃ narmadā-hradaṃ bhīmam ājagāma).
+That lord of rākṣasas went straight to where Arjuna was (_tatrāgād yatra cārjunaḥ_). Within no long time (_adīrgheṇaiva kālena_), that mighty rākṣasa (_sa tadā rākṣaso balī_), dark as collyrium (_añjana-prabhaḥ_), reached that awesome pool of the Narmadā (_taṃ narmadā-hradaṃ bhīmam ājagāma_).
 </details>
 </details>
 
@@ -769,7 +769,7 @@ That lord of rākṣasas went straight to where Arjuna was (tatrāgād yatra cā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There the king of rākṣasas beheld King Arjuna (narendraṃ paśyate rājā rākṣasānāṃ tadārjunam), surrounded by women like a bull elephant by cow-elephants (strī-parivṛtaṃ vāśitābhir iva dvipam); and with eyes blazing red from wrath (roṣād rakta-nayanaḥ), that rākṣasa lord, puffed up with might (baloddhataḥ)—
+There the king of rākṣasas beheld King Arjuna (_narendraṃ paśyate rājā rākṣasānāṃ tadārjunam_), surrounded by women like a bull elephant by cow-elephants (_strī-parivṛtaṃ vāśitābhir iva dvipam_); and with eyes blazing red from wrath (_roṣād rakta-nayanaḥ_), that rākṣasa lord, puffed up with might (_baloddhataḥ_)—
 </details>
 </details>
 
@@ -808,7 +808,7 @@ Rāvaṇa haughtily bids Arjuna’s ministers summon their king to battle; risin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—addressed Arjuna’s ministers in a deep, booming voice (arjunāmātyān āha gambhīrayā girā): “O ministers, report swiftly to the Haihaya king (amātyāḥ kṣipram ākhyāta haihayasya nṛpasya vai)—
+—addressed Arjuna’s ministers in a deep, booming voice (_arjunāmātyān āha gambhīrayā girā_): “O ministers, report swiftly to the Haihaya king (_amātyāḥ kṣipram ākhyāta haihayasya nṛpasya vai_)—
 </details>
 </details>
 
@@ -839,7 +839,7 @@ Rāvaṇa haughtily bids Arjuna’s ministers summon their king to battle; risin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“that the rākṣasa named Rāvaṇa has arrived here seeking combat (yuddhārthī samanuprāpto rāvaṇo nāma rākṣasaḥ)!” Hearing Rāvaṇa’s words (rāvaṇasya vacaḥ śrutvā), those ministers of Arjuna (mantriṇo ’thārjunasya te)
+“that the rākṣasa named Rāvaṇa has arrived here seeking combat (_yuddhārthī samanuprāpto rāvaṇo nāma rākṣasaḥ_)!” Hearing Rāvaṇa’s words (_rāvaṇasya vacaḥ śrutvā_), those ministers of Arjuna (_mantriṇo ’thārjunasya te_)
 </details>
 </details>
 
@@ -870,7 +870,7 @@ Rāvaṇa haughtily bids Arjuna’s ministers summon their king to battle; risin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-sprang up armed with weapons and missiles (uttasthuḥ sāyudhāstrāś ca) and spoke these words to Rāvaṇa (rāvaṇaṃ vākyam abruvan): “Well indeed, bravo, O Rāvaṇa! You truly know the right time for battle (yuddhasya kālo vijñeyaḥ sādhu bhoḥ sādhu rāvaṇa)—
+sprang up armed with weapons and missiles (_uttasthuḥ sāyudhāstrāś ca_) and spoke these words to Rāvaṇa (_rāvaṇaṃ vākyam abruvan_): “Well indeed, bravo, O Rāvaṇa! You truly know the right time for battle (_yuddhasya kālo vijñeyaḥ sādhu bhoḥ sādhu rāvaṇa_)—
 </details>
 </details>
 
@@ -901,7 +901,7 @@ sprang up armed with weapons and missiles (uttasthuḥ sāyudhāstrāś ca) and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“you who dare to challenge a king who is tipsy with wine and surrounded by women (yaḥ kṣībaṃ strī-vṛtaṃ caiva yoddhum utsahate nṛpam)! How can you venture to fight Arjuna right before his ladies (strī-samakṣaṃ kathaṃ ... yoddhum utsahase ’rjunam), like a tiger attacking a rutting elephant amid his cows (vāśitā-madhyagaṃ mattaṃ śārdūla iva kuñjaram)?
+“you who dare to challenge a king who is tipsy with wine and surrounded by women (_yaḥ kṣībaṃ strī-vṛtaṃ caiva yoddhum utsahate nṛpam_)! How can you venture to fight Arjuna right before his ladies (_strī-samakṣaṃ kathaṃ ... yoddhum utsahase ’rjunam_), like a tiger attacking a rutting elephant amid his cows (_vāśitā-madhyagaṃ mattaṃ śārdūla iva kuñjaram_)?
 </details>
 </details>
 
@@ -935,7 +935,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wait patiently today, O Ten-Necked One, and let this night be spent here by you (kṣamasvādya daśagrīva coṣyatāṃ rajanī tvayā); if you truly cherish a longing for battle (yuddhe śraddhā ca yady asti), tomorrow, dear sir, [you shall face] Arjuna in combat (śvas tāta samare ’rjunam)!
+“Wait patiently today, O Ten-Necked One, and let this night be spent here by you (_kṣamasvādya daśagrīva coṣyatāṃ rajanī tvayā_); if you truly cherish a longing for battle (_yuddhe śraddhā ca yady asti_), tomorrow, dear sir, [you shall face] Arjuna in combat (_śvas tāta samare ’rjunam_)!
 </details>
 </details>
 
@@ -966,7 +966,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if your mind is set on fighting today, possessed by a thirst for war (yady adyāsti matir yoddhuṃ yuddha-tṛṣṇā-samāvṛtā), then slay us first, and thereafter you shall come to battle with Arjuna (nihatyāsmāṃs tato yuddham arjunenopayāsyasi)!”
+“Or if your mind is set on fighting today, possessed by a thirst for war (_yady adyāsti matir yoddhuṃ yuddha-tṛṣṇā-samāvṛtā_), then slay us first, and thereafter you shall come to battle with Arjuna (_nihatyāsmāṃs tato yuddham arjunenopayāsyasi_)!”
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon those ministers of the king (amātyāḥ pārthivasya tu) were struck down in battle (sūditāś cāpi te yuddhe) by Rāvaṇa’s ministers (rāvaṇāmātyaiḥ) and even devoured by those famished demons (bhakṣitāś ca bubhukṣitaiḥ).
+Thereupon those ministers of the king (_amātyāḥ pārthivasya tu_) were struck down in battle (_sūditāś cāpi te yuddhe_) by Rāvaṇa’s ministers (_rāvaṇāmātyaiḥ_) and even devoured by those famished demons (_bhakṣitāś ca bubhukṣitaiḥ_).
 </details>
 </details>
 
@@ -1039,7 +1039,7 @@ Thereupon those ministers of the king (amātyāḥ pārthivasya tu) were struck 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a tumultuous roar of “Halāhalā!” arose upon the bank of the Narmadā (tato halahalā-śabdo narmadā-tīra ābabhau) from the attendants of Arjuna (arjunasyānuyātrāṇām) and the ministers of Rāvaṇa (rāvaṇasya ca mantriṇām).
+Then a tumultuous roar of “Halāhalā!” arose upon the bank of the Narmadā (_tato halahalā-śabdo narmadā-tīra ābabhau_) from the attendants of Arjuna (_arjunasyānuyātrāṇām_) and the ministers of Rāvaṇa (_rāvaṇasya ca mantriṇām_).
 </details>
 </details>
 
@@ -1070,7 +1070,7 @@ Then a tumultuous roar of “Halāhalā!” arose upon the bank of the Narmadā 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rushing in from every side (samantāt samabhidrutāḥ), [Arjuna’s warriors] assailed the demons together with Rāvaṇa (sa-rāvaṇān ardayantaḥ) with arrows, javelins, pikes, tridents, and thunderbolt-like barbed hooks (iṣubhis tomaraiḥ śūlais triśūlair vajra-karṣaṇaiḥ).
+Rushing in from every side (_samantāt samabhidrutāḥ_), [Arjuna’s warriors] assailed the demons together with Rāvaṇa (_sa-rāvaṇān ardayantaḥ_) with arrows, javelins, pikes, tridents, and thunderbolt-like barbed hooks (_iṣubhis tomaraiḥ śūlais triśūlair vajra-karṣaṇaiḥ_).
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terribly fierce was the onslaught of the Haihaya lord’s warriors (haihayādhipa-yodhānāṃ vega āsīt sudāruṇaḥ), like the roaring surge of an ocean teeming with crocodiles, fish, and makaras (sa-nakra-mīna-makara-samudrasyeva niḥsvanaḥ).
+Terribly fierce was the onslaught of the Haihaya lord’s warriors (_haihayādhipa-yodhānāṃ vega āsīt sudāruṇaḥ_), like the roaring surge of an ocean teeming with crocodiles, fish, and _makaras_ (_sa-nakra-mīna-makara-samudrasyeva niḥsvanaḥ_).
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ Terribly fierce was the onslaught of the Haihaya lord’s warriors (haihayādhip
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-But those ministers of Rāvaṇa—Prahasta, Śuka, and Sāraṇa (prahasta-śuka-sāraṇāḥ)—blazing with wrath (kruddhāḥ), scorched Kārtavīrya’s army with their fiery prowess (kārtavīrya-balaṃ ... nirdahanti sma tejasā).
+But those ministers of Rāvaṇa—Prahasta, Śuka, and Sāraṇa (_prahasta-śuka-sāraṇāḥ_)—blazing with wrath (_kruddhāḥ_), scorched Kārtavīrya’s army with their fiery prowess (_kārtavīrya-balaṃ ... nirdahanti sma tejasā_).
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ But those ministers of Rāvaṇa—Prahasta, Śuka, and Sāraṇa (prahasta-śuk
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, that deed of Rāvaṇa and his ministers (tat karma rāvaṇasya samantriṇaḥ) was reported by the royal gatekeepers (kathitaṃ puruṣair dvāra-rakṣibhiḥ) to Arjuna as he sported in the stream (arjunāya ... krīḍamānāya).
+Meanwhile, that deed of Rāvaṇa and his ministers (_tat karma rāvaṇasya samantriṇaḥ_) was reported by the royal gatekeepers (_kathitaṃ puruṣair dvāra-rakṣibhiḥ_) to Arjuna as he sported in the stream (_arjunāya ... krīḍamānāya_).
 </details>
 </details>
 
@@ -1205,7 +1205,7 @@ Reassuring his women, Arjuna rises from the Narmadā blazing like the doomsday f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this and [telling] those women, “Have no fear!” (śrutvā na bhetavyam iti strī-janaṃ tam), Arjuna thereupon rose up from that water (uttatāra jalāt tasmāt) like the celestial elephant Añjana emerging from the waters of the Gaṅgā (gaṅgā-toyād ivāñjanaḥ).
+Hearing this and [telling] those women, “Have no fear!” (_śrutvā na bhetavyam iti strī-janaṃ tam_), Arjuna thereupon rose up from that water (_uttatāra jalāt tasmāt_) like the celestial elephant Añjana emerging from the waters of the Gaṅgā (_gaṅgā-toyād ivāñjanaḥ_).
 </details>
 </details>
 
@@ -1236,7 +1236,7 @@ Hearing this and [telling] those women, “Have no fear!” (śrutvā na bhetavy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With eyes clouded and reddened by fury (krodha-dūṣita-netras tu), that fire-like Arjuna (sa tato ’rjuna-pāvakaḥ) blazed forth terribly (prajajvāla mahāghoraḥ) like the conflagration at the end of an aeon (yugānta iva pāvakaḥ).
+With eyes clouded and reddened by fury (_krodha-dūṣita-netras tu_), that fire-like Arjuna (_sa tato ’rjuna-pāvakaḥ_) blazed forth terribly (_prajajvāla mahāghoraḥ_) like the conflagration at the end of an aeon (_yugānta iva pāvakaḥ_).
 </details>
 </details>
 
@@ -1267,7 +1267,7 @@ With eyes clouded and reddened by fury (krodha-dūṣita-netras tu), that fire-l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Adorned with superb golden armlets (vara-hemāṅgadaḥ), he swiftly snatched up a mace (sa tūrṇataram ādāya ... gadām) and charged down upon the rākṣasas (abhidudrāva rakṣāṃsi) as the sun charges into darkness (tamāṃsīva divākaraḥ).
+Adorned with superb golden armlets (_vara-hemāṅgadaḥ_), he swiftly snatched up a mace (_sa tūrṇataram ādāya ... gadām_) and charged down upon the rākṣasas (_abhidudrāva rakṣāṃsi_) as the sun charges into darkness (_tamāṃsīva divākaraḥ_).
 </details>
 </details>
 
@@ -1298,7 +1298,7 @@ Adorned with superb golden armlets (vara-hemāṅgadaḥ), he swiftly snatched u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hefting aloft that mighty mace (samudyamya mahāgadām) swung by the sweep of his arms (bāhu-vikṣepa-karaṇām), Arjuna assumed the velocity of Garuḍa (gāruḍaṃ vegam āsthāya) and swooped straight down without delay (cāpapātaiva so ’rjunaḥ).
+Hefting aloft that mighty mace (_samudyamya mahāgadām_) swung by the sweep of his arms (_bāhu-vikṣepa-karaṇām_), Arjuna assumed the velocity of Garuḍa (_gāruḍaṃ vegam āsthāya_) and swooped straight down without delay (_cāpapātaiva so ’rjunaḥ_).
 </details>
 </details>
 
@@ -1329,7 +1329,7 @@ Hefting aloft that mighty mace (samudyamya mahāgadām) swung by the sweep of hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blocking his path just as Mount Vindhya once blocked the course of the sun (tasya mārgaṃ samārudhya vindhyo ’rkasyeva parvataḥ), Prahasta stood unshakable as the Vindhya (sthito vindhya ivākampyaḥ), armed with his iron pestle (prahasto musalāyudhaḥ).
+Blocking his path just as Mount Vindhya once blocked the course of the sun (_tasya mārgaṃ samārudhya vindhyo ’rkasyeva parvataḥ_), Prahasta stood unshakable as the Vindhya (_sthito vindhya ivākampyaḥ_), armed with his iron pestle (_prahasto musalāyudhaḥ_).
 </details>
 </details>
 
@@ -1363,7 +1363,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, wildly arrogant and enraged (mahoddhataḥ ... kruddhaḥ), Prahasta hurled at him a dread iron-bound pestle (tato ’sya musalaṃ ghoraṃ loha-baddhaṃ ... preṣayan) and roared aloud like a thundercloud (rarāsa ca yathāmbudaḥ).
+Then, wildly arrogant and enraged (_mahoddhataḥ ... kruddhaḥ_), Prahasta hurled at him a dread iron-bound pestle (_tato ’sya musalaṃ ghoraṃ loha-baddhaṃ ... preṣayan_) and roared aloud like a thundercloud (_rarāsa ca yathāmbudaḥ_).
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ Deftly warding off Prahasta’s fire-tipped pestle, Arjuna whirls a colossal mac
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the tip of that pestle hurled from Prahasta’s hand (tasyāgre musalasya ... prahasta-kara-muktasya), a flame resembling a cluster of crimson Aśoka blossoms (agnir aśokāpīḍa-sannibhaḥ) blazed as though scorching the very air (babhūva pradahann iva).
+At the tip of that pestle hurled from Prahasta’s hand (_tasyāgre musalasya ... prahasta-kara-muktasya_), a flame resembling a cluster of crimson Aśoka blossoms (_agnir aśokāpīḍa-sannibhaḥ_) blazed as though scorching the very air (_babhūva pradahann iva_).
 </details>
 </details>
 
@@ -1433,7 +1433,7 @@ At the tip of that pestle hurled from Prahasta’s hand (tasyāgre musalasya ...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kārtavīrya Arjuna, mace in hand and of unimpaired valor (kārtavīryas tadārjunaḥ ... sa-gado ’gada-vikramaḥ), deftly parried and evaded (nipuṇaṃ vañcayām āsa) that oncoming pestle (athāyāntaṃ tu musalam).
+Then Kārtavīrya Arjuna, mace in hand and of unimpaired valor (_kārtavīryas tadārjunaḥ ... sa-gado ’gada-vikramaḥ_), deftly parried and evaded (_nipuṇaṃ vañcayām āsa_) that oncoming pestle (_athāyāntaṃ tu musalam_).
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the Haihaya lord charged straight at Prahasta (tatas tam abhidudrāva prahastaṃ haihayādhipaḥ), whirling a ponderous mace (bhrāmayāno gadāṃ gurvīm) raised aloft by five hundred of his arms (pañca-bāhu-śatocchrayām).
+Thereupon the Haihaya lord charged straight at Prahasta (_tatas tam abhidudrāva prahastaṃ haihayādhipaḥ_), whirling a ponderous mace (_bhrāmayāno gadāṃ gurvīm_) raised aloft by five hundred of his arms (_pañca-bāhu-śatocchrayām_).
 </details>
 </details>
 
@@ -1498,7 +1498,7 @@ Thereupon the Haihaya lord charged straight at Prahasta (tatas tam abhidudrāva 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck thus with tremendous velocity by that mace (tathā hato ’tivegena ... gadayā tadā), Prahasta crashed down (prahasto ... nipapāta) like a standing mountain shattered by the thunderbolt of Indra (sthitaḥ śailo vajri-vajra-hato yathā).
+Struck thus with tremendous velocity by that mace (_tathā hato ’tivegena ... gadayā tadā_), Prahasta crashed down (_prahasto ... nipapāta_) like a standing mountain shattered by the thunderbolt of Indra (_sthitaḥ śailo vajri-vajra-hato yathā_).
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ Struck thus with tremendous velocity by that mace (tathā hato ’tivegena ... g
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Prahasta felled to the ground (prahastaṃ patitaṃ dṛṣṭvā), Mārīca, Śuka, and Sāraṇa, together with Mahodara and Dhūmrākṣa (mārīca-śuka-sāraṇāḥ sa-mahodara-dhūmrākṣāḥ), fled from the field of battle (hy apasṛṣṭā raṇājirāt).
+Beholding Prahasta felled to the ground (_prahastaṃ patitaṃ dṛṣṭvā_), Mārīca, Śuka, and Sāraṇa, together with Mahodara and Dhūmrākṣa (_mārīca-śuka-sāraṇāḥ sa-mahodara-dhūmrākṣāḥ_), fled from the field of battle (_hy apasṛṣṭā raṇājirāt_).
 </details>
 </details>
 
@@ -1560,7 +1560,7 @@ Beholding Prahasta felled to the ground (prahastaṃ patitaṃ dṛṣṭvā), M
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his ministers had retreated and Prahasta lay struck down (apakrānteṣv amātyeṣu prahaste vai nipātite), Rāvaṇa charged swiftly against Arjuna, foremost of kings (rāvaṇo ’bhyadravat tūrṇam arjunaṃ nṛpa-sattamam).
+When his ministers had retreated and Prahasta lay struck down (_apakrānteṣv amātyeṣu prahaste vai nipātite_), Rāvaṇa charged swiftly against Arjuna, foremost of kings (_rāvaṇo ’bhyadravat tūrṇam arjunaṃ nṛpa-sattamam_).
 </details>
 </details>
 
@@ -1599,7 +1599,7 @@ The hair-raising mace duel between the thousand-armed monarch and the twenty-arm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon began that terrible, hair-raising combat (tad yuddhaṃ ... dāruṇam ... ārabdhaṃ roma-harṣaṇam) between the thousand-armed one and the twenty-armed one (sahasra-bāhos ... viṃśad-bāhoś ca), between king and rākṣasa (nṛpa-rākṣasayos tatra).
+Thereupon began that terrible, hair-raising combat (_tad yuddhaṃ ... dāruṇam ... ārabdhaṃ roma-harṣaṇam_) between the thousand-armed one and the twenty-armed one (_sahasra-bāhos ... viṃśad-bāhoś ca_), between king and rākṣasa (_nṛpa-rākṣasayos tatra_).
 </details>
 </details>
 
@@ -1633,7 +1633,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Turbulent as two raging oceans (sāgarāv iva saṃrabdhau), like two mountains trembling at their roots (calan-mūlāv ivācalau), blazing with radiance like two suns (tejo-yuktāv ivādityau), scorching like two raging fires (pradahantāv ivānalau),
+Turbulent as two raging oceans (_sāgarāv iva saṃrabdhau_), like two mountains trembling at their roots (_calan-mūlāv ivācalau_), blazing with radiance like two suns (_tejo-yuktāv ivādityau_), scorching like two raging fires (_pradahantāv ivānalau_),
 </details>
 </details>
 
@@ -1679,11 +1679,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**51:** Swollen with strength like two bull elephants (baloddhatau yathā nāgau), like two bulls contending over a cow (vāśitārthe yathā vṛṣau), roaring aloud like two storm clouds (meghāv iva vinardantau), fierce in prowess like two lions (siṃhāv iva balotkaṭau),
+**51:** Swollen with strength like two bull elephants (_baloddhatau yathā nāgau_), like two bulls contending over a cow (_vāśitārthe yathā vṛṣau_), roaring aloud like two storm clouds (_meghāv iva vinardantau_), fierce in prowess like two lions (_siṃhāv iva balotkaṭau_),
 
-**52:** Wrathful as Rudra and Kāla (rudra-kālāv iva kruddhau), those two—the rākṣasa and Arjuna (tadā tau rākṣasārjunau)—fiercely battered each other with their maces (parasparaṃ gadābhyāṃ tau tāḍayām āsatur bhṛśam).
+**52:** Wrathful as Rudra and Kāla (_rudra-kālāv iva kruddhau_), those two—the rākṣasa and Arjuna (_tadā tau rākṣasārjunau_)—fiercely battered each other with their maces (_parasparaṃ gadābhyāṃ tau tāḍayām āsatur bhṛśam_).
 
-**53:** Just as mountains of old endured terrible strokes of the thunderbolt (vajra-prahārān acalā yathā ghorān viṣehire), so did those two, man and rākṣasa, endure each other’s mace blows there (gadā-prahārāṃs tau tatra sehāte nara-rākṣasau).
+**53:** Just as mountains of old endured terrible strokes of the thunderbolt (_vajra-prahārān acalā yathā ghorān viṣehire_), so did those two, man and rākṣasa, endure each other’s mace blows there (_gadā-prahārāṃs tau tatra sehāte nara-rākṣasau_).
 </details>
 </details>
 
@@ -1714,7 +1714,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as an echo arises from the crashes of thunderbolts (yathāśani-ravebhyas tu jāyate ’tha pratiśrutiḥ), so did all the quarters echo back from the crashing impacts of their maces (tathā tayor gadā-pothair diśaḥ sarvāḥ pratiśrutāḥ).
+Just as an echo arises from the crashes of thunderbolts (_yathāśani-ravebhyas tu jāyate ’tha pratiśrutiḥ_), so did all the quarters echo back from the crashing impacts of their maces (_tathā tayor gadā-pothair diśaḥ sarvāḥ pratiśrutāḥ_).
 </details>
 </details>
 
@@ -1753,7 +1753,7 @@ Their maces flash like lightning and falling meteors as the untiring titans figh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That mace of Arjuna, falling upon his enemy’s chest (arjunasya gadā sā tu pātyamānā ’hitorasi), turned the entire sky golden-hued (kāñcanābhaṃ nabhaś cakre) like a flash of Saudāminī lightning (vidyut saudāminī yathā).
+That mace of Arjuna, falling upon his enemy’s chest (_arjunasya gadā sā tu pātyamānā ’hitorasi_), turned the entire sky golden-hued (_kāñcanābhaṃ nabhaś cakre_) like a flash of Saudāminī lightning (_vidyut saudāminī yathā_).
 </details>
 </details>
 
@@ -1784,7 +1784,7 @@ That mace of Arjuna, falling upon his enemy’s chest (arjunasya gadā sā tu p�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In like manner the mace rained down again and again by Rāvaṇa (tathaiva rāvaṇenāpi pātyamānā muhur muhuḥ) blazed upon Arjuna’s chest (arjunorasi nirbhāti) like a flaming meteor striking a mighty mountain (gadolkeva mahāgirau).
+In like manner the mace rained down again and again by Rāvaṇa (_tathaiva rāvaṇenāpi pātyamānā muhur muhuḥ_) blazed upon Arjuna’s chest (_arjunorasi nirbhāti_) like a flaming meteor striking a mighty mountain (_gadolkeva mahāgirau_).
 </details>
 </details>
 
@@ -1815,7 +1815,7 @@ In like manner the mace rained down again and again by Rāvaṇa (tathaiva rāva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither Arjuna felt any weariness (nārjunaḥ khedam āyāti), nor did the lord of the rākṣasa hosts (na rākṣasa-gaṇeśvaraḥ); this battle between them was like that waged of old between Bali and Indra (idam āsīt tayor yuddhaṃ yathā pūrvaṃ balīndrayoḥ).
+Neither Arjuna felt any weariness (_nārjunaḥ khedam āyāti_), nor did the lord of the rākṣasa hosts (_na rākṣasa-gaṇeśvaraḥ_); this battle between them was like that waged of old between Bali and Indra (_idam āsīt tayor yuddhaṃ yathā pūrvaṃ balīndrayoḥ_).
 </details>
 </details>
 
@@ -1846,7 +1846,7 @@ Neither Arjuna felt any weariness (nārjunaḥ khedam āyāti), nor did the lord
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Battering one another (parasparaṃ tau nighnantau) like two bulls fighting with their horns (śṛṅgair iva vṛṣāyudhyan) or two tuskers with the tips of their tusks (dantāgrair iva kuñjarau), those foremost of men and rākṣasas fought on (nara-rākṣasa-sattamau).
+Battering one another (_parasparaṃ tau nighnantau_) like two bulls fighting with their horns (_śṛṅgair iva vṛṣāyudhyan_) or two tuskers with the tips of their tusks (_dantāgrair iva kuñjarau_), those foremost of men and rākṣasas fought on (_nara-rākṣasa-sattamau_).
 </details>
 </details>
 
@@ -1880,7 +1880,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged Arjuna (tato ’rjunena kruddhena), putting forth all his strength (sarva-prāṇena), hurled that mace straight into the middle of Rāvaṇa’s broad chest between his nipples (stanayor antare muktā rāvaṇasya mahorasi).
+Then the enraged Arjuna (_tato ’rjunena kruddhena_), putting forth all his strength (_sarva-prāṇena_), hurled that mace straight into the middle of Rāvaṇa’s broad chest between his nipples (_stanayor antare muktā rāvaṇasya mahorasi_).
 </details>
 </details>
 
@@ -1911,7 +1911,7 @@ Then the enraged Arjuna (tato ’rjunena kruddhena), putting forth all his stren
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon Rāvaṇa’s chest, guarded by the protection of Brahmā’s boon (varadāna-kṛta-trāṇe ... rāvaṇorasi), that mace—as though grown feeble for all its velocity (durbaleva yathā-vegam)—split in two and fell to the earth (dvidhā-bhūtvā ’patat kṣitau).
+Upon Rāvaṇa’s chest, guarded by the protection of Brahmā’s boon (_varadāna-kṛta-trāṇe ... rāvaṇorasi_), that mace—as though grown feeble for all its velocity (_durbaleva yathā-vegam_)—split in two and fell to the earth (_dvidhā-bhūtvā ’patat kṣitau_).
 </details>
 </details>
 
@@ -1950,7 +1950,7 @@ Stunned by the mace’s shock, Rāvaṇa staggers back and collapses groaning; A
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet by that mace-blow hurled by Arjuna (sa tv arjuna-pramuktena gadā-pātena), Rāvaṇa reeled backward a full bow’s length (apāsarpad dhanur-mātram) and sank to the ground groaning aloud (niṣasāda ca niṣṭanan).
+Yet by that mace-blow hurled by Arjuna (_sa tv arjuna-pramuktena gadā-pātena_), Rāvaṇa reeled backward a full bow’s length (_apāsarpad dhanur-mātram_) and sank to the ground groaning aloud (_niṣasāda ca niṣṭanan_).
 </details>
 </details>
 
@@ -1981,7 +1981,7 @@ Yet by that mace-blow hurled by Arjuna (sa tv arjuna-pramuktena gadā-pātena), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the Ten-Necked One thus stunned and helpless (sa vihvalaṃ tadālakṣya daśagrīvam), Arjuna instantly sprang forward (sahasotpatya) and seized him just as Garuḍa seizes a serpent (jagrāha garutmān iva pannagam).
+Seeing the Ten-Necked One thus stunned and helpless (_sa vihvalaṃ tadālakṣya daśagrīvam_), Arjuna instantly sprang forward (_sahasotpatya_) and seized him just as Garuḍa seizes a serpent (_jagrāha garutmān iva pannagam_).
 </details>
 </details>
 
@@ -2012,7 +2012,7 @@ Seeing the Ten-Necked One thus stunned and helpless (sa vihvalaṃ tadālakṣya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grasping Daśānana forcibly with his thousand arms (bāhu-sahasreṇa balād gṛhya daśānanam), that mighty king bound him fast (babandha balavān rājā), just as Lord Nārāyaṇa bound King Bali (baliṃ nārāyaṇo yathā).
+Grasping Daśānana forcibly with his thousand arms (_bāhu-sahasreṇa balād gṛhya daśānanam_), that mighty king bound him fast (_babandha balavān rājā_), just as Lord Nārāyaṇa bound King Bali (_baliṃ nārāyaṇo yathā_).
 </details>
 </details>
 
@@ -2043,7 +2043,7 @@ Grasping Daśānana forcibly with his thousand arms (bāhu-sahasreṇa balād g�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Daśagrīva was being bound (badhyamāne daśagrīve), Siddhas, Cāraṇas, and gods (siddha-cāraṇa-devatāḥ), crying “Well done! Well done!” (sādhvīti-vādinaḥ), showered blossoms upon Arjuna’s head (puṣpaiḥ kiranty arjuna-mūrdhani).
+While Daśagrīva was being bound (_badhyamāne daśagrīve_), Siddhas, Cāraṇas, and gods (_siddha-cāraṇa-devatāḥ_), crying “Well done! Well done!” (_sādhvīti-vādinaḥ_), showered blossoms upon Arjuna’s head (_puṣpaiḥ kiranty arjuna-mūrdhani_).
 </details>
 </details>
 
@@ -2074,7 +2074,7 @@ While Daśagrīva was being bound (badhyamāne daśagrīve), Siddhas, Cāraṇas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having seized him like a tiger carrying off a deer (vyāghro mṛgam ivādāya) or a lion seizing a bull elephant (mṛgarāḍ iva dantinam), the Haihaya king roared again and again with joy like a thundercloud (nanāda haihayo rājā harṣād ambudavan muhuḥ).
+Having seized him like a tiger carrying off a deer (_vyāghro mṛgam ivādāya_) or a lion seizing a bull elephant (_mṛgarāḍ iva dantinam_), the Haihaya king roared again and again with joy like a thundercloud (_nanāda haihayo rājā harṣād ambudavan muhuḥ_).
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ Having seized him like a tiger carrying off a deer (vyāghro mṛgam ivādāya) 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile Prahasta, having regained his senses (prahastas tu samāśvastaḥ) and beholding Daśānana bound (dṛṣṭvā baddhaṃ daśānanam), charged furiously against the king together with those rākṣasas (saha tai rākṣasaiḥ kruddhaś cābhidudrāva pārthivam).
+Meanwhile Prahasta, having regained his senses (_prahastas tu samāśvastaḥ_) and beholding Daśānana bound (_dṛṣṭvā baddhaṃ daśānanam_), charged furiously against the king together with those rākṣasas (_saha tai rākṣasaiḥ kruddhaś cābhidudrāva pārthivam_).
 </details>
 </details>
 
@@ -2144,7 +2144,7 @@ As Prahasta and the rākṣasas charge like monsoon clouds hurling pestles and p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The surging rush of those charging night-roamers (naktañcarāṇāṃ vegas tu teṣām āpatatām) looked like the rising host of rainclouds over the ocean at the passing of summer heat (udbhūta ātapāpāye payodānām ivāmbudhau).
+The surging rush of those charging night-roamers (_naktañcarāṇāṃ vegas tu teṣām āpatatām_) looked like the rising host of rainclouds over the ocean at the passing of summer heat (_udbhūta ātapāpāye payodānām ivāmbudhau_).
 </details>
 </details>
 
@@ -2178,7 +2178,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shouting again and again, “Release him! Release him!” and “Halt! Halt!” (muñca muñceti bhāṣantas tiṣṭha tiṣṭheti cāsakṛt), he [Prahasta] hurled iron pestles and pikes at Arjuna (musalāni sa-śūlāni sotsasarja tadārjune).
+Shouting again and again, “Release him! Release him!” and “Halt! Halt!” (_muñca muñceti bhāṣantas tiṣṭha tiṣṭheti cāsakṛt_), he [Prahasta] hurled iron pestles and pikes at Arjuna (_musalāni sa-śūlāni sotsasarja tadārjune_).
 </details>
 </details>
 
@@ -2212,7 +2212,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unperturbed, Arjuna, destroyer of foes (asambhrāntas tadārjunaḥ ... ari-niṣūdanaḥ), swiftly caught in midair before they even reached him (aprāptāny eva tāny āśu ... jagrāha) all those weapons of the enemies of the gods (āyudhāny amarārīṇām).
+Unperturbed, Arjuna, destroyer of foes (_asambhrāntas tadārjunaḥ ... ari-niṣūdanaḥ_), swiftly caught in midair before they even reached him (_aprāptāny eva tāny āśu ... jagrāha_) all those weapons of the enemies of the gods (_āyudhāny amarārīṇām_).
 </details>
 </details>
 
@@ -2243,7 +2243,7 @@ Unperturbed, Arjuna, destroyer of foes (asambhrāntas tadārjunaḥ ... ari-ni�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, piercing the rākṣasas with those very formidable, choice weapons of theirs (tatas tair eva rakṣāṃsi durdharaiḥ pravarāyudhaiḥ bhittvā), he scattered them in flight as the wind scatters storm clouds (vidrāvayām āsa vāyur ambudharān iva).
+Then, piercing the rākṣasas with those very formidable, choice weapons of theirs (_tatas tair eva rakṣāṃsi durdharaiḥ pravarāyudhaiḥ bhittvā_), he scattered them in flight as the wind scatters storm clouds (_vidrāvayām āsa vāyur ambudharān iva_).
 </details>
 </details>
 
@@ -2274,7 +2274,7 @@ Then, piercing the rākṣasas with those very formidable, choice weapons of the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having struck terror into the rākṣasas (rākṣasāṃs trāsayitvā tu), Kārtavīrya Arjuna then took Rāvaṇa captive (rāvaṇaṃ gṛhya) and entered his city surrounded by his kinsmen and friends (nagaraṃ praviveśa suhṛd-vṛtaḥ).
+Having struck terror into the rākṣasas (_rākṣasāṃs trāsayitvā tu_), Kārtavīrya Arjuna then took Rāvaṇa captive (_rāvaṇaṃ gṛhya_) and entered his city surrounded by his kinsmen and friends (_nagaraṃ praviveśa suhṛd-vṛtaḥ_).
 </details>
 </details>
 
@@ -2305,7 +2305,7 @@ Having struck terror into the rākṣasas (rākṣasāṃs trāsayitvā tu), Kā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Showered with heaps of flowers and unbroken rice-grains (kīryamāṇaḥ kusumākṣatotkaraiḥ) by Brahmins and citizens alike (dvijaiḥ sa-pauraiḥ), Arjuna, peer of Indra (puruhūta-sannibhaḥ), entered that royal city (sampraviveśa tāṃ purīm) like the thousand-eyed Śakra entering heaven after capturing Bali (baliṃ nigṛhyeva sahasra-locanaḥ).
+Showered with heaps of flowers and unbroken rice-grains (_kīryamāṇaḥ kusumākṣatotkaraiḥ_) by Brahmins and citizens alike (_dvijaiḥ sa-pauraiḥ_), Arjuna, peer of Indra (_puruhūta-sannibhaḥ_), entered that royal city (_sampraviveśa tāṃ purīm_) like the thousand-eyed Śakra entering heaven after capturing Bali (_baliṃ nigṛhyeva sahasra-locanaḥ_).
 </details>
 </details>
 

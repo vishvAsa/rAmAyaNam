@@ -88,7 +88,7 @@ in front of him, was affected with violent anger, having his mind seized with su
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that tawny-eyed one (piṅgākṣam) standing before him (purataḥ sthitam), the mighty-armed Rāvaṇa, the make-wailer of the worlds (lokarāvaṇaḥ), was seized by great wrath (roṣeṇa mahatā”viṣṭaḥ).
+Beholding that tawny-eyed one (_piṅgākṣam_) standing before him (_purataḥ sthitam_), the mighty-armed Rāvaṇa, the make-wailer of the worlds (_lokarāvaṇaḥ_), was seized by great wrath (_roṣeṇa mahatā”viṣṭaḥ_).
 </details>
 </details>
 
@@ -153,9 +153,9 @@ of Siva) which cursed me long ago and came here now in this form or whether he i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** With his mind struck by misgiving (śaṅkāhatātmā), he pondered over that lord of monkeys (kapīndram) enveloped in splendor (tejasā vṛtam): “Could this be the worshipful Nandin (bhagavān nandī) come here in person (sākṣād ihāgataḥ),
+**2:** With his mind struck by misgiving (_śaṅkāhatātmā_), he pondered over that lord of monkeys (_kapīndram_) enveloped in splendor (_tejasā vṛtam_): “Could this be the worshipful Nandin (_bhagavān nandī_) come here in person (_sākṣād ihāgataḥ_),
 
-**3:** “By whom I was cursed (yena śapto'smi) of old on Mount Kailāsa when he was mocked by me (mayā prahasite purā)? Or could this one in monkey-form (vānaramūrtiḥ) be Bāṇa the asura (bāṇo'pi vāsuraḥ)?”
+**3:** “By whom I was cursed (_yena śapto&#x27;smi_) of old on Mount Kailāsa when he was mocked by me (_mayā prahasite purā_)? Or could this one in monkey-form (_vānaramūrtiḥ_) be Bāṇa the _asura_ (_bāṇo&#x27;pi vāsuraḥ_)?”
 </details>
 </details>
 
@@ -207,7 +207,7 @@ meaningful words relevant to that occasion, to Prahasta, his chief of ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That king, his eyes copper-red with wrath (roṣatāmrākṣaḥ), spoke to Prahasta, the foremost of ministers (mantrisattamam), this timely (kālayuktam), weighty, and purposeful speech (vaco vipulam arthavat):
+That king, his eyes copper-red with wrath (_roṣatāmrākṣaḥ_), spoke to Prahasta, the foremost of ministers (_mantrisattamam_), this timely (_kālayuktam_), weighty, and purposeful speech (_vaco vipulam arthavat_):
 </details>
 </details>
 
@@ -242,7 +242,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let this evil-minded one (durātmā) be questioned (pṛcchyatām): whence [has he come], and what is his motive (kiṃ vāsya kāraṇam)? And what is his purpose (ko'syārthaḥ) in the shattering of the grove (vanabhaṅge) and in the terrifying of the rākṣasas (rākṣasānāṃ ca tarjane)?
+“Let this evil-minded one (_durātmā_) be questioned (_pṛcchyatām_): whence [has he come], and what is his motive (_kiṃ vāsya kāraṇam_)? And what is his purpose (_ko&#x27;syārthaḥ_) in the shattering of the grove (_vanabhaṅge_) and in the terrifying of the _rākṣasas_ (_rākṣasānāṃ ca tarjane_)?
 </details>
 </details>
 
@@ -306,7 +306,7 @@ City and what pursuit he is doing this battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is his object in coming to my unassailable city (matpurīm apradhṛṣyāṃ gamane), or what is his purpose in giving battle (āyodhane vā kiṃ kāryam)? Let this wicked-minded one (durmatiḥ) be questioned!”
+“What is his object in coming to my unassailable city (_matpurīm apradhṛṣyāṃ gamane_), or what is his purpose in giving battle (_āyodhane vā kiṃ kāryam_)? Let this wicked-minded one (_durmatiḥ_) be questioned!”
 </details>
 </details>
 
@@ -346,7 +346,7 @@ Prahasta reassures Hanūmān and asks whether he has been dispatched in monkey d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Rāvaṇa's speech (rāvaṇasya vacaḥ), Prahasta spoke these words: “Take heart (samāśvasihi), bless you (bhadraṃ te)! No fear need be entertained by you, O monkey (na bhīḥ kāryā tvayā kape).
+Hearing Rāvaṇa&#x27;s speech (_rāvaṇasya vacaḥ_), Prahasta spoke these words: “Take heart (_samāśvasihi_), bless you (_bhadraṃ te_)! No fear need be entertained by you, O monkey (_na bhīḥ kāryā tvayā kape_).
 </details>
 </details>
 
@@ -416,7 +416,7 @@ fear. You will be released."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If indeed you have been sent by Indra (indreṇa preṣitaḥ) to the abode of Rāvaṇa (rāvaṇālayam), declare the truth (tattvam ākhyāhi); let no fear be yours, O monkey—you shall be released (mokṣyase)!
+“If indeed you have been sent by Indra (_indreṇa preṣitaḥ_) to the abode of Rāvaṇa (_rāvaṇālayam_), declare the truth (_tattvam ākhyāhi_); let no fear be yours, O monkey—you shall be released (_mokṣyase_)!
 </details>
 </details>
 
@@ -452,7 +452,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you belong to Vaiśravaṇa, Yama, or Varuṇa, and having assumed this comely form (cārurūpam idaṃ kṛtvā) have entered this city of ours (praviṣṭo naḥ purīm imām),
+“If you belong to Vaiśravaṇa, Yama, or Varuṇa, and having assumed this comely form (_cārurūpam idaṃ kṛtvā_) have entered this city of ours (_praviṣṭo naḥ purīm imām_),
 </details>
 </details>
 
@@ -523,7 +523,7 @@ a monkey. Now, tell me the truth. Thereupon, you will be released."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or if you have been dispatched as an envoy (preṣito vāpi dūtaḥ) by Viṣṇu desiring victory (vijayakāṅkṣiṇā)—for your energy is not that of a monkey (na hi te vānaraṃ tejaḥ), and only your outward form is monkey-like (rūpamātraṃ tu vānaram)—
+“Or if you have been dispatched as an envoy (_preṣito vāpi dūtaḥ_) by Viṣṇu desiring victory (_vijayakāṅkṣiṇā_)—for your energy is not that of a monkey (_na hi te vānaraṃ tejaḥ_), and only your outward form is monkey-like (_rūpamātraṃ tu vānaram_)—
 </details>
 </details>
 
@@ -574,7 +574,7 @@ your entry into Ravana's abode."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Declare it truthfully today (tattvataḥ kathayasvādya), and thereupon, O monkey, you shall be set free (mokṣyase); whereas if you speak falsehood (anṛtaṃ vadataś cāpi), your life will be hard to save (durlabhaṃ tava jīvitam)—
+“Declare it truthfully today (_tattvataḥ kathayasvādya_), and thereupon, O monkey, you shall be set free (_mokṣyase_); whereas if you speak falsehood (_anṛtaṃ vadataś cāpi_), your life will be hard to save (_durlabhaṃ tava jīvitam_)—
 </details>
 </details>
 
@@ -651,9 +651,9 @@ came here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Or else [declare] for what cause (yannimittaḥ) is your entry into the abode of Rāvaṇa (praveśo rāvaṇālaye)!” Thus addressed, the foremost of monkeys (harivaraḥ) then [spoke] to the lord of the rākṣasa hosts (rakṣogaṇeśvaram):
+**12:** “Or else [declare] for what cause (_yannimittaḥ_) is your entry into the abode of Rāvaṇa (_praveśo rāvaṇālaye_)!” Thus addressed, the foremost of monkeys (_harivaraḥ_) then [spoke] to the lord of the _rākṣasa_ hosts (_rakṣogaṇeśvaram_):
 
-**13:** He said: “I do not belong to Śakra, Yama, or Varuṇa; I have no friendship with Dhanada (dhanadena na me sakhyam), nor have I been impelled by Viṣṇu (viṣṇunā nāsmi coditaḥ).
+**13:** He said: “I do not belong to Śakra, Yama, or Varuṇa; I have no friendship with Dhanada (_dhanadena na me sakhyam_), nor have I been impelled by Viṣṇu (_viṣṇunā nāsmi coditaḥ_).
 </details>
 </details>
 
@@ -719,9 +719,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “This is indeed my very birth-species (jātir eva mama tveṣā); as a monkey I have come here (vānaro'ham ihāgataḥ) for a sight of the lord of the rākṣasas (darśane rākṣasendrasya). Because that [audience] was hard for me to obtain (tad idaṃ durlabhaṃ mayā),
+**14:** “This is indeed my very birth-species (_jātir eva mama tveṣā_); as a monkey I have come here (_vānaro&#x27;ham ihāgataḥ_) for a sight of the lord of the _rākṣasas_ (_darśane rākṣasendrasya_). Because that [audience] was hard for me to obtain (_tad idaṃ durlabhaṃ mayā_),
 
-**15:** “The grove of the king of the rākṣasas was laid waste in order to behold him (darśanārthaṃ vināśitam); and thereupon those mighty rākṣasas arrived eager for battle (balino yuddhakāṅkṣiṇaḥ).
+**15:** “The grove of the king of the _rākṣasas_ was laid waste in order to behold him (_darśanārthaṃ vināśitam_); and thereupon those mighty _rākṣasas_ arrived eager for battle (_balino yuddhakāṅkṣiṇaḥ_).
 </details>
 </details>
 
@@ -776,7 +776,7 @@ This boon came to me also from Brahama only."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And for the protection of my own body (rakṣaṇārthaṃ ca dehasya), they were fought back by me in battle (pratiyuddhā mayā raṇe). Even by gods and asuras together (devāsurair api), I cannot be bound by weapon-nooses (astrapāśair na śakyo'haṃ baddhum);
+“And for the protection of my own body (_rakṣaṇārthaṃ ca dehasya_), they were fought back by me in battle (_pratiyuddhā mayā raṇe_). Even by gods and _asuras_ together (_devāsurair api_), I cannot be bound by weapon-nooses (_astrapāśair na śakyo&#x27;haṃ baddhum_);
 </details>
 </details>
 
@@ -826,7 +826,7 @@ body, I had to attack them in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this boon has come to me too from the Grandsire [Brahmā] (pitāmahād eṣa varo mamāpi hi samāgataḥ); it was out of a desire to behold the king (rājānaṃ draṣṭukāmena) that I complied with the missile (mayāstram anuvartitam).
+“For this boon has come to me too from the Grandsire [Brahmā] (_pitāmahād eṣa varo mamāpi hi samāgataḥ_); it was out of a desire to behold the king (_rājānaṃ draṣṭukāmena_) that I complied with the missile (_mayāstram anuvartitam_).
 </details>
 </details>
 
@@ -912,9 +912,9 @@ splendour. I am telling you a beneficial word. Listen to it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Though released from the missile (vimukto'py aham astreṇa) [when bound] by the rākṣasas, I allowed myself to be brought before you (abhiveditaḥ); on a certain mission of Rāma (kenacid rāmakāryeṇa) I have come into your presence (āgato'smi tavāntikam).
+**18:** “Though released from the missile (_vimukto&#x27;py aham astreṇa_) [when bound] by the _rākṣasas_, I allowed myself to be brought before you (_abhiveditaḥ_); on a certain mission of Rāma (_kenacid rāmakāryeṇa_) I have come into your presence (_āgato&#x27;smi tavāntikam_).
 
-**19:** “Recognizing that I am the envoy of Rāghava of boundless energy (dūto'ham iti vijñāya rāghavasyāmitaujasaḥ), pray hear this salutary speech of mine (śrūyatām eva vacanaṃ mama pathyam idam), O lord (prabho)!”
+**19:** “Recognizing that I am the envoy of Rāghava of boundless energy (_dūto&#x27;ham iti vijñāya rāghavasyāmitaujasaḥ_), pray hear this salutary speech of mine (_śrūyatām eva vacanaṃ mama pathyam idam_), O lord (_prabho_)!”
 </details>
 </details>
 

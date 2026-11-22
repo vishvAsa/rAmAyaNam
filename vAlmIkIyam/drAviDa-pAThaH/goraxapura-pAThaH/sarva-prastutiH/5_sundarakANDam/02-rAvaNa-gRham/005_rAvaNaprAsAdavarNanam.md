@@ -94,7 +94,7 @@ bull in heat among cows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that wise one beheld the radiant Moon (aṃśumantam) arrived in the middle of the sky (madhyaṃgatam), repeatedly pouring forth a canopy of moonlight (jyotsnāvitānaṃ muhur udvamantam), shining brightly upon the earth (bhuvi bhānumantam) like a rutting bull roaming in a cowpen (goṣṭhe vṛṣaṃ mattam iva bhramantam);
+Then that wise one beheld the radiant Moon (_aṃśumantam_) arrived in the middle of the sky (_madhyaṃgatam_), repeatedly pouring forth a canopy of moonlight (_jyotsnāvitānaṃ muhur udvamantam_), shining brightly upon the earth (_bhuvi bhānumantam_) like a rutting bull roaming in a cowpen (_goṣṭhe vṛṣaṃ mattam iva bhramantam_);
 </details>
 </details>
 
@@ -145,7 +145,7 @@ the great ocean to grow and causing all living beings to shine.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Destroying the afflictions of the world (lokasya pāpāni vināśayantam), causing the great ocean to swell (mahodadhiṃ cāpi samedhayantam), and illuminating all beings (bhūtāni sarvāṇi virājayantam)—he beheld the cool-rayed Moon advancing across the sky (śītāṃśum athābhiyāntam).
+Destroying the afflictions of the world (_lokasya pāpāni vināśayantam_), causing the great ocean to swell (_mahodadhiṃ cāpi samedhayantam_), and illuminating all beings (_bhūtāni sarvāṇi virājayantam_)—he beheld the cool-rayed Moon advancing across the sky (_śītāṃśum athābhiyāntam_).
 </details>
 </details>
 
@@ -202,7 +202,7 @@ evenings, over the lotuses in the waters, the same splendour shone on the beauti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That splendor (lakṣmīḥ) which shines upon Mount Mandara on earth (bhuvi mandarasthā), and in the ocean at evening (pradoṣeṣu ca sāgarasthā), and upon the lotus in the waters (toyeṣu ca puṣkarasthā)—that very splendor shone residing in the lovely maker of night (cāruniśākarasthā).
+That splendor (_lakṣmīḥ_) which shines upon Mount Mandara on earth (_bhuvi mandarasthā_), and in the ocean at evening (_pradoṣeṣu ca sāgarasthā_), and upon the lotus in the waters (_toyeṣu ca puṣkarasthā_)—that very splendor shone residing in the lovely maker of night (_cāruniśākarasthā_).
 </details>
 </details>
 
@@ -261,7 +261,7 @@ warrior on a proud elephant, in the same way the moon shone in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a swan resting in a silver cage (rājata-pañjarasthaḥ), like a lion resting in a cavern of Mount Mandara (mandara-kandarasthaḥ), and like a hero mounted upon a proud elephant (garvita-kuñjarasthaḥ), so too shone the Moon stationed in the sky (candrō'pi babhrāja tathāmbarasthaḥ).
+Like a swan resting in a silver cage (_rājata-pañjarasthaḥ_), like a lion resting in a cavern of Mount Mandara (_mandara-kandarasthaḥ_), and like a hero mounted upon a proud elephant (_garvita-kuñjarasthaḥ_), so too shone the Moon stationed in the sky (_candrō&#x27;pi babhrāja tathāmbarasthaḥ_).
 </details>
 </details>
 
@@ -325,7 +325,7 @@ high hump, like a great white mountain with tall summits, like an elephant with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing like a sharp-horned humped bull (kakudmān iva tīkṣṇaśṛṅgaḥ), like a great white mountain with lofty peaks (mahācalaḥ śveta ivordhvaśṛṅgaḥ), and like an elephant with gold-bound tusks (hastīva jāmbūnadabaddhaśṛṅgaḥ), the Moon shines with its horns of fullness complete (vibhāti candraḥ paripūrṇaśṛṅgaḥ).
+Standing like a sharp-horned humped bull (_kakudmān iva tīkṣṇaśṛṅgaḥ_), like a great white mountain with lofty peaks (_mahācalaḥ śveta ivordhvaśṛṅgaḥ_), and like an elephant with gold-bound tusks (_hastīva jāmbūnadabaddhaśṛṅgaḥ_), the Moon shines with its horns of fullness complete (_vibhāti candraḥ paripūrṇaśṛṅgaḥ_).
 </details>
 </details>
 
@@ -385,7 +385,7 @@ with a symbol of hare, shone brilliantly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the mire of cold water and frost dispelled (vinaṣṭaśītāmbutuṣārapaṅkaḥ), and the darkness of great planetary eclipses destroyed (mahāgrahagrāhavinaṣṭapaṅkaḥ), the adorable hare-marked Moon (bhagavān śaśāṅkaḥ), whose spot was rendered limpid by the resort of radiant beauty (prakāśalakṣmyāśrayanirmalāṅkaḥ), shone forth.
+With the mire of cold water and frost dispelled (_vinaṣṭaśītāmbutuṣārapaṅkaḥ_), and the darkness of great planetary eclipses destroyed (_mahāgrahagrāhavinaṣṭapaṅkaḥ_), the adorable hare-marked Moon (_bhagavān śaśāṅkaḥ_), whose spot was rendered limpid by the resort of radiant beauty (_prakāśalakṣmyāśrayanirmalāṅkaḥ_), shone forth.
 </details>
 </details>
 
@@ -454,7 +454,7 @@ in the same way the clear moon shone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a lord of beasts having gained a rocky crag (śilātalaṃ prāpya yathā mṛgendraḥ), like a lordly elephant having reached a great forest (mahāraṇaṃ prāpya yathā gajendraḥ), and like a lord of men having attained a kingdom (rājyaṃ samāsādya yathā narendraḥ), so shone the resplendent Moon (tathā prakāśo virarāja candraḥ).
+Like a lord of beasts having gained a rocky crag (_śilātalaṃ prāpya yathā mṛgendraḥ_), like a lordly elephant having reached a great forest (_mahāraṇaṃ prāpya yathā gajendraḥ_), and like a lord of men having attained a kingdom (_rājyaṃ samāsādya yathā narendraḥ_), so shone the resplendent Moon (_tathā prakāśo virarāja candraḥ_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ lovers is wiped away, became with a heavenly glow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With the blemish of darkness dispelled by the rising of the radiant Moon (prakāśacandrodayanaṣṭadoṣaḥ), with the prowling offenses of flesh-eating rākṣasas heightened (pravṛddharakṣaḥpiśitāśadoṣaḥ), and with the heart-blemishes of lovers' quarrels driven away for the delight of lovely women (rāmābhirāmeritacittadoṣaḥ), the glorious nightfall shone like heaven (svargaprakāśo bhagavān pradoṣaḥ).
+With the blemish of darkness dispelled by the rising of the radiant Moon (_prakāśacandrodayanaṣṭadoṣaḥ_), with the prowling offenses of flesh-eating _rākṣasas_ heightened (_pravṛddharakṣaḥpiśitāśadoṣaḥ_), and with the heart-blemishes of lovers&#x27; quarrels driven away for the delight of lovely women (_rāmābhirāmeritacittadoṣaḥ_), the glorious nightfall shone like heaven (_svargaprakāśo bhagavān pradoṣaḥ_).
 </details>
 </details>
 
@@ -580,7 +580,7 @@ started to roam.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sweet to the ear, the notes of lute-strings (tantrīsvarāḥ karṇasukhāḥ) arose; virtuous wives slept beside their husbands (svapanti nāryaḥ patibhiḥ suvṛttāḥ); and night-roaming rākṣasas of most wondrous and terrible conduct (atyadbhutaraudravṛttāḥ) set forth to sport (pravṛttā vihartum).
+Sweet to the ear, the notes of lute-strings (_tantrīsvarāḥ karṇasukhāḥ_) arose; virtuous wives slept beside their husbands (_svapanti nāryaḥ patibhiḥ suvṛttāḥ_); and night-roaming _rākṣasas_ of most wondrous and terrible conduct (_atyadbhutaraudravṛttāḥ_) set forth to sport (_pravṛttā vihartum_).
 </details>
 </details>
 
@@ -640,7 +640,7 @@ of wealth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That wise monkey beheld mansions (kulāni) thronged with intoxicated and reckless revelers (mattapramattāni samākulāni), crowded with chariots, horses, and golden thrones (rathāśvabhadrāsanasaṃkulāni), and filled with heroic splendor (vīraśriyā cāpi samākulāni).
+That wise monkey beheld mansions (_kulāni_) thronged with intoxicated and reckless revelers (_mattapramattāni samākulāni_), crowded with chariots, horses, and golden thrones (_rathāśvabhadrāsanasaṃkulāni_), and filled with heroic splendor (_vīraśriyā cāpi samākulāni_).
 </details>
 </details>
 
@@ -699,7 +699,7 @@ throwing wild and incoherent words a lot, insulting one another being intoxicate
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Intoxicated rākṣasas (mattāni) loudly trade retorts with one another (parasparaṃ cādhikam ākṣipanti), fling their stout arms about (bhujāṃś ca pīnān adhivikṣipanti), utter drunken ravings (mattapralāpān adhivikṣipanti), and taunt one another (anyonyam adhikṣipanti);
+Intoxicated _rākṣasas_ (_mattāni_) loudly trade retorts with one another (_parasparaṃ cādhikam ākṣipanti_), fling their stout arms about (_bhujāṃś ca pīnān adhivikṣipanti_), utter drunken ravings (_mattapralāpān adhivikṣipanti_), and taunt one another (_anyonyam adhikṣipanti_);
 </details>
 </details>
 
@@ -758,7 +758,7 @@ were spreading their strange forms sporting their strong bows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The rākṣasas slap their chests (rakṣāṃsi vakṣāṃsi ca vikṣipanti), lay their limbs upon their beloved wives (gātrāṇi kāntāsu ca vikṣipanti), put on variegated costumes (rūpāṇi citrāṇi ca vikṣipanti), and draw their firm bows (dṛḍhāni cāpāni ca vikṣipanti).
+The _rākṣasas_ slap their chests (_rakṣāṃsi vakṣāṃsi ca vikṣipanti_), lay their limbs upon their beloved wives (_gātrāṇi kāntāsu ca vikṣipanti_), put on variegated costumes (_rūpāṇi citrāṇi ca vikṣipanti_), and draw their firm bows (_dṛḍhāni cāpāni ca vikṣipanti_).
 </details>
 </details>
 
@@ -832,7 +832,7 @@ women were sighing in anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He saw lovely women applying fragrant unguents (kāntāś ca samālabhantyaḥ), and others there sleeping again (tathāparās tatra punaḥ svapantyaḥ); and fair-faced women laughing (surūpavaktrāś ca tathā hasantyaḥ), and still others sighing deeply in anger (kruddhāḥ parāś cāpi viniḥśvasantyaḥ).
+He saw lovely women applying fragrant unguents (_kāntāś ca samālabhantyaḥ_), and others there sleeping again (_tathāparās tatra punaḥ svapantyaḥ_); and fair-faced women laughing (_surūpavaktrāś ca tathā hasantyaḥ_), and still others sighing deeply in anger (_kruddhāḥ parāś cāpi viniḥśvasantyaḥ_).
 </details>
 </details>
 
@@ -897,7 +897,7 @@ serpents in a lake hissing.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With great elephants trumpeting (mahāgajaiś cāpi tathā nadadbhiḥ), with highly honored and virtuous men (supūjitaiś cāpi tathā susadbhiḥ), and with heroes breathing heavily (vīraiś ca viniḥśvasadbhiḥ), the city shone like lakes with hissing serpents (hradā bhujaṃgair iva niḥśvasadbhiḥ).
+With great elephants trumpeting (_mahāgajaiś cāpi tathā nadadbhiḥ_), with highly honored and virtuous men (_supūjitaiś cāpi tathā susadbhiḥ_), and with heroes breathing heavily (_vīraiś ca viniḥśvasadbhiḥ_), the city shone like lakes with hissing serpents (_hradā bhujaṃgair iva niḥśvasadbhiḥ_).
 </details>
 </details>
 
@@ -949,7 +949,7 @@ in that city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that city he beheld yātudhānas preeminent in intellect (buddhipradhānān), of charming speech (rucirābhidhānān), full of reverent faith (saṃśraddadhānān), foremost in the world (jagataḥ pradhānān), of manifold bearings (nānāvidhānān), and bearing auspicious names (rucirābhidhānān).
+In that city he beheld _yātudhānas_ preeminent in intellect (_buddhipradhānān_), of charming speech (_rucirābhidhānān_), full of reverent faith (_saṃśraddadhānān_), foremost in the world (_jagataḥ pradhānān_), of manifold bearings (_nānāvidhānān_), and bearing auspicious names (_rucirābhidhānān_).
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ of those too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having seen those handsome ones (surūpān) endowed with manifold virtues (nānāguṇān) and worthy of his own virtues (ātmaguṇānurūpān), he rejoiced (nananda); and he saw some shining brightly in handsome form (vidyotamānān surūpān), and others again of deformed aspect (kāṃścic ca punar virūpān).
+And having seen those handsome ones (_surūpān_) endowed with manifold virtues (_nānāguṇān_) and worthy of his own virtues (_ātmaguṇānurūpān_), he rejoiced (_nananda_); and he saw some shining brightly in handsome form (_vidyotamānān surūpān_), and others again of deformed aspect (_kāṃścic ca punar virūpān_).
 </details>
 </details>
 
@@ -1083,7 +1083,7 @@ like stars with good effect.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then he saw their wives there—worthy of choice ornaments (varārhāḥ), of thoroughly pure devotion (suviśuddhabhāvāḥ), of great majesty (mahānubhāvāḥ), their hearts devoted to their beloveds and to festive drink (priyeṣu pāneṣu ca saktabhāvāḥ), and of lovely nature like the stars (tārā iva susvabhāvāḥ).
+Then he saw their wives there—worthy of choice ornaments (_varārhāḥ_), of thoroughly pure devotion (_suviśuddhabhāvāḥ_), of great majesty (_mahānubhāvāḥ_), their hearts devoted to their beloveds and to festive drink (_priyeṣu pāneṣu ca saktabhāvāḥ_), and of lovely nature like the stars (_tārā iva susvabhāvāḥ_).
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ great pleasure, those who were hugged by flowers like birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the hour of midnight (niśīthakāle), he saw some women blazing with beauty (striyo jvalantīḥ), enveloped in bashfulness (trapayopagūḍhāḥ), embraced by their lovers (ramaṇopagūḍhāḥ), and filled with rapturous joy (pramadopagūḍhāḥ), like female birds embraced by male birds (yathā vihaṃgā vihagopagūḍhāḥ).
+At the hour of midnight (_niśīthakāle_), he saw some women blazing with beauty (_striyo jvalantīḥ_), enveloped in bashfulness (_trapayopagūḍhāḥ_), embraced by their lovers (_ramaṇopagūḍhāḥ_), and filled with rapturous joy (_pramadopagūḍhāḥ_), like female birds embraced by male birds (_yathā vihaṃgā vihagopagūḍhāḥ_).
 </details>
 </details>
 
@@ -1215,7 +1215,7 @@ interested in virtuous deeds, and some possessed by the lord of love.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wise one saw other women seated upon the flat roofs of palaces (harmyatalopaviṣṭāḥ), happily seated there on the laps of their beloveds (priyāṅkeṣu sukhopaviṣṭāḥ), devoted to their husbands (bhartuḥ parāḥ), intent on righteousness (dharmaparāḥ), lawfully wedded (niviṣṭāḥ), and possessed by love (madanopaviṣṭāḥ).
+The wise one saw other women seated upon the flat roofs of palaces (_harmyatalopaviṣṭāḥ_), happily seated there on the laps of their beloveds (_priyāṅkeṣu sukhopaviṣṭāḥ_), devoted to their husbands (_bhartuḥ parāḥ_), intent on righteousness (_dharmaparāḥ_), lawfully wedded (_niviṣṭāḥ_), and possessed by love (_madanopaviṣṭāḥ_).
 </details>
 </details>
 
@@ -1281,7 +1281,7 @@ women with beautiful bodies lacking a lover.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He saw some women unveiled (aprāvṛtāḥ), of the hue of streaks of gold (kāñcanarājivarṇāḥ), and some most exquisite women of the color of refined gold (parārghyās tapanīyavarṇāḥ); and again some who, separated from their lovers (kāntaprahīṇāḥ), had the pale hue of the hare-marked Moon (śaśalakṣmavarṇāḥ), while others had lovely complexions (rucirāṅgavarṇāḥ).
+He saw some women unveiled (_aprāvṛtāḥ_), of the hue of streaks of gold (_kāñcanarājivarṇāḥ_), and some most exquisite women of the color of refined gold (_parārghyās tapanīyavarṇāḥ_); and again some who, separated from their lovers (_kāntaprahīṇāḥ_), had the pale hue of the hare-marked Moon (_śaśalakṣmavarṇāḥ_), while others had lovely complexions (_rucirāṅgavarṇāḥ_).
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ their houses filled with happiness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that heroic monkey beheld lovely women (rāmāḥ) rejoicing in their homes (gṛheṣu hṛṣṭāḥ), supremely charming (paramābhirāmāḥ), delightful to the noble mind (sumano'bhirāmāḥ), and filled with deep affection (suprītiyuktāḥ) after attaining their heart-pleasing beloveds (priyān prāpya mano'bhirāmān).
+Then that heroic monkey beheld lovely women (_rāmāḥ_) rejoicing in their homes (_gṛheṣu hṛṣṭāḥ_), supremely charming (_paramābhirāmāḥ_), delightful to the noble mind (_sumano&#x27;bhirāmāḥ_), and filled with deep affection (_suprītiyuktāḥ_) after attaining their heart-pleasing beloveds (_priyān prāpya mano&#x27;bhirāmān_).
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ eyebrows and rows of ornaments like beautiful rows of lighting.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld rows of faces shining like the Moon (candraprakāśāś ca hi vaktramālāḥ), rows of lovely eyes with curved and thick eyelashes (vakrāḥ supakṣmāś ca sunetramālāḥ), and garlands of ornaments (vibhūṣaṇānāṃ ca mālāḥ) resembling lovely garlands of lightning (śatahradānām iva cārumālāḥ).
+He beheld rows of faces shining like the Moon (_candraprakāśāś ca hi vaktramālāḥ_), rows of lovely eyes with curved and thick eyelashes (_vakrāḥ supakṣmāś ca sunetramālāḥ_), and garlands of ornaments (_vibhūṣaṇānāṃ ca mālāḥ_) resembling lovely garlands of lightning (_śatahradānām iva cārumālāḥ_).
 </details>
 </details>
 
@@ -1480,7 +1480,7 @@ born from the mind (of creator).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet he did not behold Sītā (na tveva sītāṃ dadarśa)—supremely high-born (paramābhijātām), born in a royal house steadfast on the path of virtue (pathi sthite rājakule prajātām), slender as a blossoming creeper nobly sprung (latāṃ praphullām iva sādhujātām), and fashioned by the Creator's mind (manasābhijātām);
+Yet he did not behold Sītā (_na tveva sītāṃ dadarśa_)—supremely high-born (_paramābhijātām_), born in a royal house steadfast on the path of virtue (_pathi sthite rājakule prajātām_), slender as a blossoming creeper nobly sprung (_latāṃ praphullām iva sādhujātām_), and fashioned by the Creator&#x27;s mind (_manasābhijātām_);
 </details>
 </details>
 
@@ -1653,13 +1653,13 @@ moment Seetha, wife of Sri Rama the best among those who talk, and the lord of a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Firmly established on the eternal path of chastity (sanātane vartmani saṃniviṣṭām), fixing her gaze and thoughts upon Rāma (rāmekṣaṇīm), pervaded by love (madanābhiviṣṭām), having entered into the glorious heart of her lord (bhartur manaḥ śrīmad anupraviṣṭām), and ever excelling all other women (strībhyaḥ parābhyaś ca sadā viśiṣṭām);
+**24:** Firmly established on the eternal path of chastity (_sanātane vartmani saṃniviṣṭām_), fixing her gaze and thoughts upon Rāma (_rāmekṣaṇīm_), pervaded by love (_madanābhiviṣṭām_), having entered into the glorious heart of her lord (_bhartur manaḥ śrīmad anupraviṣṭām_), and ever excelling all other women (_strībhyaḥ parābhyaś ca sadā viśiṣṭām_);
 
-**25:** Tormented by the heat of separation (uṣṇārditām), her throat choked with continuously flowing tears (sānusṛtāsrakaṇṭhīm), though formerly her neck was graced with the finest niṣka necklaces worthy of the best (purā varārhottamaniṣkakaṇṭhīm), possessing lovely eyelashes and a melodious throat (sujātapakṣmām abhiraktakaṇṭhīm), like a peahen dancing in the forest (vane pranṛttām iva nīlakaṇṭhīm);
+**25:** Tormented by the heat of separation (_uṣṇārditām_), her throat choked with continuously flowing tears (_sānusṛtāsrakaṇṭhīm_), though formerly her neck was graced with the finest _niṣka_ necklaces worthy of the best (_purā varārhottamaniṣkakaṇṭhīm_), possessing lovely eyelashes and a melodious throat (_sujātapakṣmām abhiraktakaṇṭhīm_), like a peahen dancing in the forest (_vane pranṛttām iva nīlakaṇṭhīm_);
 
-**26:** Like a crescent of the Moon with its outline obscured (avyaktarekhām iva candralekhām), like a streak of gold coated with dust (pāṃsupradigdhām iva hemarekhām), like the scar-line of a wound partially healed (kṣataprarūḍhām iva varṇarekhām), and like a streak of cloud rent by the wind (vāyuprabhugnām iva megharekhām)—
+**26:** Like a crescent of the Moon with its outline obscured (_avyaktarekhām iva candralekhām_), like a streak of gold coated with dust (_pāṃsupradigdhām iva hemarekhām_), like the scar-line of a wound partially healed (_kṣataprarūḍhām iva varṇarekhām_), and like a streak of cloud rent by the wind (_vāyuprabhugnām iva megharekhām_)—
 
-**27:** Not seeing Sītā (sītām apaśyan), the wife of Rāma, the lord of men and foremost of speakers (manujeśvarasya rāmasya patnīṃ vadatāṃ varasya), for a long time (cirasya), that monkey immediately (acirasya) became stricken with grief and as though sluggish (babhūva duḥkhopahataḥ plavaṃgamo manda iva).
+**27:** Not seeing Sītā (_sītām apaśyan_), the wife of Rāma, the lord of men and foremost of speakers (_manujeśvarasya rāmasya patnīṃ vadatāṃ varasya_), for a long time (_cirasya_), that monkey immediately (_acirasya_) became stricken with grief and as though sluggish (_babhūva duḥkhopahataḥ plavaṃgamo manda iva_).
 </details>
 </details>
 

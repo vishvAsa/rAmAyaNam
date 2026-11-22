@@ -77,7 +77,7 @@ and with joined palms, spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving Rāvaṇa to be enraged (kruddham ājñāya), the mighty Mahāpārśva reflected for a moment (muhūrtam anusaṃcintya) and with joined palms spoke this word:
+Perceiving Rāvaṇa to be enraged (_kruddham ājñāya_), the mighty Mahāpārśva reflected for a moment (_muhūrtam anusaṃcintya_) and with joined palms spoke this word:
 </details>
 </details>
 
@@ -130,7 +130,7 @@ vicious elephants and having duly found honey, does not drink it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, having reached a forest frequented by wild beasts and serpents (mṛga-vyāla-niṣevitam) and having obtained honey (madhu samprāpya), should not drink it—that man would surely be a fool (bāliśo bhavet).
+“He who, having reached a forest frequented by wild beasts and serpents (_mṛga-vyāla-niṣevitam_) and having obtained honey (_madhu samprāpya_), should not drink it—that man would surely be a fool (_bāliśo bhavet_).
 </details>
 </details>
 
@@ -176,7 +176,7 @@ foot upon the heads of your enemies, take pleasure with Sita."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is the lord of you who are the lord of all (īśvarasyeśvaraḥ ko 'sti), O destroyer of foes (śatrunibarhaṇa)? Take your pleasure with Vaidehī, trampling upon the heads of your enemies (śatrūn ākramya mūrdhasu)!
+“Who is the lord of you who are the lord of all (_īśvarasyeśvaraḥ ko &#x27;sti_), O destroyer of foes (_śatrunibarhaṇa_)? Take your pleasure with Vaidehī, trampling upon the heads of your enemies (_śatrūn ākramya mūrdhasu_)!
 </details>
 </details>
 
@@ -231,7 +231,7 @@ her. Enjoy that Sita, by charging on her again and again and revel with her."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Proceed by force after the manner of a rooster (balāt kukkuṭavṛttena), O mighty one! Repeatedly overpowering (ākramyākramya) that Sītā, enjoy her and take your delight (bhūṅkṣva ca ramasva ca)!
+“Proceed by force after the manner of a rooster (_balāt kukkuṭavṛttena_), O mighty one! Repeatedly overpowering (_ākramyākramya_) that Sītā, enjoy her and take your delight (_bhūṅkṣva ca ramasva ca_)!
 </details>
 </details>
 
@@ -283,7 +283,7 @@ to come will be prevented (by us)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Once you have fulfilled your desire (labdhakāmasya te), what fear shall come upon you afterward (paścād āgamiṣyati kiṃ bhayam)? Whether its time has arrived or not (prāptam aprāptakālaṃ vā), you shall counter it all (sarvaṃ pratividhāsyase).
+“Once you have fulfilled your desire (_labdhakāmasya te_), what fear shall come upon you afterward (_paścād āgamiṣyati kiṃ bhayam_)? Whether its time has arrived or not (_prāptam aprāptakālaṃ vā_), you shall counter it all (_sarvaṃ pratividhāsyase_).
 </details>
 </details>
 
@@ -329,7 +329,7 @@ even Devendra (god of celestials), wielding the weapon of a thunderbolt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kumbhakarṇa and the mighty Indrajit, together with us (sahāsmābhiḥ), are capable of repelling (pratiṣedhayituṃ śaktau) even the thunderbolt-wielder [Indra] armed with his thunderbolt (savajram api vajriṇam).
+“Kumbhakarṇa and the mighty Indrajit, together with us (_sahāsmābhiḥ_), are capable of repelling (_pratiṣedhayituṃ śaktau_) even the thunderbolt-wielder [Indra] armed with his thunderbolt (_savajram api vajriṇam_).
 </details>
 </details>
 
@@ -388,7 +388,7 @@ means."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Passing over gift-giving (upapradānam), conciliation (sāntvam), or dissension (bhedam) practiced by the skillful (kuśalaiḥ kṛtam), I favor success in undertakings through military force (daṇḍena siddhim artheṣu rocaye).
+“Passing over gift-giving (_upapradānam_), conciliation (_sāntvam_), or dissension (_bhedam_) practiced by the skillful (_kuśalaiḥ kṛtam_), I favor success in undertakings through military force (_daṇḍena siddhim artheṣu rocaye_).
 </details>
 </details>
 
@@ -438,7 +438,7 @@ surrender, by the power of our weapons. There is no doubt about it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the prowess of our weapons (śastrapratāpena), O mighty one, we shall without doubt bring under subjection (vaśe kariṣyāmaḥ) all your enemies who have arrived here (iha prāptān).”
+“By the prowess of our weapons (_śastrapratāpena_), O mighty one, we shall without doubt bring under subjection (_vaśe kariṣyāmaḥ_) all your enemies who have arrived here (_iha prāptān_).”
 </details>
 </details>
 
@@ -490,7 +490,7 @@ words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed then by Mahāpārśva, King Rāvaṇa, applauding his speech (tasya sampūjayan vākyam), spoke this word:
+Thus addressed then by Mahāpārśva, King Rāvaṇa, applauding his speech (_tasya sampūjayan vākyam_), spoke this word:
 </details>
 </details>
 
@@ -537,7 +537,7 @@ occurred to me long ago."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Mahāpārśva, learn a certain secret of mine (rahasyaṃ kiṃcid ātmanaḥ); I shall relate that long-past event (ciravṛttaṃ tad ākhyāsye) which was experienced by me of old (yad avāptaṃ purā mayā).
+“O Mahāpārśva, learn a certain secret of mine (_rahasyaṃ kiṃcid ātmanaḥ_); I shall relate that long-past event (_ciravṛttaṃ tad ākhyāsye_) which was experienced by me of old (_yad avāptaṃ purā mayā_).
 </details>
 </details>
 
@@ -589,7 +589,7 @@ concealing herself in the sky and proceeding towards the abode of Brahma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I once beheld Puñjikasthalā proceeding to the abode of the Grandsire [Brahmā] (pitāmahasya bhavanam), darting furtively to and fro (cañcūryamāṇām) in the sky like a tongue of fire (ākāśe 'gniśikhām iva).
+“I once beheld Puñjikasthalā proceeding to the abode of the Grandsire [Brahmā] (_pitāmahasya bhavanam_), darting furtively to and fro (_cañcūryamāṇām_) in the sky like a tongue of fire (_ākāśe &#x27;gniśikhām iva_).
 </details>
 </details>
 
@@ -643,7 +643,7 @@ crumpled lotus, she went to the abode of Brahma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She was forcibly stripped of her garment (kṛtā vivasanā) and enjoyed by me (prasahya mayā bhuktā); then, like a rumpled lotus-plant (lolitā nalinī yathā), she reached the abode of Svayambhū [Brahmā].
+“She was forcibly stripped of her garment (_kṛtā vivasanā_) and enjoyed by me (_prasahya mayā bhuktā_); then, like a rumpled lotus-plant (_lolitā nalinī yathā_), she reached the abode of Svayambhū [Brahmā].
 </details>
 </details>
 
@@ -699,7 +699,7 @@ enraged Brahma spoke to me the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that [outrage], I surmise (manye), became known just so to that magnanimous one (tasya mahātmanaḥ); thereupon the enraged Creator (saṃkupito vedhāḥ) spoke this word to me:
+“And that [outrage], I surmise (_manye_), became known just so to that magnanimous one (_tasya mahātmanaḥ_); thereupon the enraged Creator (_saṃkupito vedhāḥ_) spoke this word to me:
 </details>
 </details>
 
@@ -752,7 +752,7 @@ undoubtedly will break asunder into a hundred pieces."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘From today onward (adyaprabhṛti), whatever other woman you approach by force (yām anyāṃ balān nārīṃ gamiṣyasi), right then your head shall without doubt split into a hundred pieces (tadā te śatadhā mūrdhā phaliṣyati)!’
+“‘From today onward (_adyaprabhṛti_), whatever other woman you approach by force (_yām anyāṃ balān nārīṃ gamiṣyasi_), right then your head shall without doubt split into a hundred pieces (_tadā te śatadhā mūrdhā phaliṣyati_)!’
 </details>
 </details>
 
@@ -804,7 +804,7 @@ the daughter of Videha, to mount on my beautiful bed forcibly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, afraid of that irresistible curse of his (tasya śāpasya bhītaḥ prasabham eva), I do not forcibly cause that Sītā, princess of Videha, to mount my auspicious couch (nārohaye balāt sītāṃ śayane śubhe).
+“Therefore, afraid of that irresistible curse of his (_tasya śāpasya bhītaḥ prasabham eva_), I do not forcibly cause that Sītā, princess of Videha, to mount my auspicious couch (_nārohaye balāt sītāṃ śayane śubhe_).
 </details>
 </details>
 
@@ -857,7 +857,7 @@ does not know this and hence he is indeed having an encounter with me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My impetuosity is like the ocean's (sāgarasyeva me vegaḥ), and my speed is like the wind's (mārutasyeva me gatiḥ); Daśaratha's son does not know this, and therefore he marches against me (hy āsādayati tena mām).
+“My impetuosity is like the ocean&#x27;s (_sāgarasyeva me vegaḥ_), and my speed is like the wind&#x27;s (_mārutasyeva me gatiḥ_); Daśaratha&#x27;s son does not know this, and therefore he marches against me (_hy āsādayati tena mām_).
 </details>
 </details>
 
@@ -917,7 +917,7 @@ asleep, sitting at a place in a mountain cave or arouse into activity an enraged
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who indeed would wish to rouse (prabodhayitum icchati) one seated like a lion asleep in a mountain-cave lair (suptaṃ giriguhāśaye), or seated like wrathful Death (kruddhaṃ mṛtyum ivāsīnam)?
+“Who indeed would wish to rouse (_prabodhayitum icchati_) one seated like a lion asleep in a mountain-cave lair (_suptaṃ giriguhāśaye_), or seated like wrathful Death (_kruddhaṃ mṛtyum ivāsīnam_)?
 </details>
 </details>
 
@@ -970,7 +970,7 @@ me. That is why he is marching against me for a battle"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rāma has not seen in battle the arrows sped forth from me (matto nirgatān bāṇān), which resemble two-tongued serpents (dvijihvān pannagān iva); therefore he marches against me (tena mām abhigacchati).
+“Rāma has not seen in battle the arrows sped forth from me (_matto nirgatān bāṇān_), which resemble two-tongued serpents (_dvijihvān pannagān iva_); therefore he marches against me (_tena mām abhigacchati_).
 </details>
 </details>
 
@@ -1025,7 +1025,7 @@ discharged from my bow, like tormenting an elephant with fire brands."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With thunderbolt-like arrows loosed a hundredfold from my bow (śatadhā kārmukacyutaiḥ), I shall swiftly scorch Rāma (rāmam ādīpayiṣyāmi), as [one drives off] an elephant with flaming firebrands (ulkābhir iva kuñjaram).
+“With thunderbolt-like arrows loosed a hundredfold from my bow (_śatadhā kārmukacyutaiḥ_), I shall swiftly scorch Rāma (_rāmam ādīpayiṣyāmi_), as [one drives off] an elephant with flaming firebrands (_ulkābhir iva kuñjaram_).
 </details>
 </details>
 
@@ -1071,7 +1071,7 @@ at dawn takes away radiance of the stars."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surrounded by a mighty host (balena mahatā vṛtaḥ), I shall efface that army of his (tac cāsya balam ādāsye), just as the sun risen at the appointed hour (uditaḥ savitā kāle) [effaces] the radiance of the stars (nakṣatrāṇāṃ prabhām iva).
+“Surrounded by a mighty host (_balena mahatā vṛtaḥ_), I shall efface that army of his (_tac cāsya balam ādāsye_), just as the sun risen at the appointed hour (_uditaḥ savitā kāle_) [effaces] the radiance of the stars (_nakṣatrāṇāṃ prabhām iva_).
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ of riches) was conquered by me with the power of my arms."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not even by thousand-eyed Vāsava [Indra] am I capable of being vanquished in battle (yudhāsmi śakyaḥ), nor again by Varuṇa; and by the might of my arms (bāhubalena) this city, formerly guarded by Vaiśravaṇa [Kubera], was conquered by me of old!”
+“Not even by thousand-eyed Vāsava [Indra] am I capable of being vanquished in battle (_yudhāsmi śakyaḥ_), nor again by Varuṇa; and by the might of my arms (_bāhubalena_) this city, formerly guarded by Vaiśravaṇa [Kubera], was conquered by me of old!”
 </details>
 </details>
 

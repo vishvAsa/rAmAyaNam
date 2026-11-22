@@ -112,9 +112,9 @@ foolows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Severely tormented then by that Kākutstha out of wrath, Rāvaṇa, who gloried in battle (samara-ślāghī), fell into a towering rage (mahā-krodham).
+**1:** Severely tormented then by that Kākutstha out of wrath, Rāvaṇa, who gloried in battle (_samara-ślāghī_), fell into a towering rage (_mahā-krodham_).
 
-**2:** With eyes blazing from indignation (amarṣāt), that valorous warrior raised his bow and, fiercely enraged, assailed Rāghava in the supreme combat (paramāhave).
+**2:** With eyes blazing from indignation (_amarṣāt_), that valorous warrior raised his bow and, fiercely enraged, assailed Rāghava in the supreme combat (_paramāhave_).
 </details>
 </details>
 
@@ -160,7 +160,7 @@ conquer all the enemies in battle, my child!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With thousands of arrow-torrents (bāṇa-dhārā-sahasraiḥ), like a rain-cloud pouring down from the sky, Rāvaṇa deluged Rāghava with shafts as though filling a reservoir (taṭākam iva).
+With thousands of arrow-torrents (_bāṇa-dhārā-sahasraiḥ_), like a rain-cloud pouring down from the sky, Rāvaṇa deluged Rāghava with shafts as though filling a reservoir (_taṭākam iva_).
 </details>
 </details>
 
@@ -223,9 +223,9 @@ prashamanam* = allay all anxiety and grief; *uttamam* = excellent;
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Though inundated by that net of arrows (śara-jālena) discharged from the bow in battle, Kākutstha, unshakable as a great mountain (mahā-girir ivākampyaḥ), did not tremble at all.
+**4:** Though inundated by that net of arrows (_śara-jālena_) discharged from the bow in battle, Kākutstha, unshakable as a great mountain (_mahā-girir ivākampyaḥ_), did not tremble at all.
 
-**5:** Standing firm in battle and warding off those nets of arrows with his own shafts, the valorous hero absorbed them as though receiving the rays of the sun (gabhastīn iva sūryasya).
+**5:** Standing firm in battle and warding off those nets of arrows with his own shafts, the valorous hero absorbed them as though receiving the rays of the sun (_gabhastīn iva sūryasya_).
 </details>
 </details>
 
@@ -273,7 +273,7 @@ all other lights and brings light to the world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the swift-handed (kṣipra-hastaḥ) night-stalker, enraged, struck thousands of arrows upon the chest of the high-souled Rāghava.
+Then the swift-handed (_kṣipra-hastaḥ_) night-stalker, enraged, struck thousands of arrows upon the chest of the high-souled Rāghava.
 </details>
 </details>
 
@@ -336,7 +336,7 @@ protects the multitude of gods and demons as well as their worlds by his rays."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Besmeared all over with blood (śoṇita-samādigdhaḥ) in battle, the elder brother of Lakṣmaṇa appeared like a mighty kiṃśuka tree (kiṃśuka-drumaḥ) in full crimson blossom in the forest.
+Besmeared all over with blood (_śoṇita-samādigdhaḥ_) in battle, the elder brother of Lakṣmaṇa appeared like a mighty _kiṃśuka_ tree (_kiṃśuka-drumaḥ_) in full crimson blossom in the forest.
 </details>
 </details>
 
@@ -412,9 +412,9 @@ seasons and the store-house of light."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Incensed by the impact of those arrows (śarābhighāta-saṃrabdhaḥ), Kākutstha of supremely great splendor seized shafts that shone with the radiance of the doomsday sun (yugāntāditya-varcasaḥ).
+**8:** Incensed by the impact of those arrows (_śarābhighāta-saṃrabdhaḥ_), Kākutstha of supremely great splendor seized shafts that shone with the radiance of the doomsday sun (_yugāntāditya-varcasaḥ_).
 
-**9:** Then in that battle darkened by arrows (śarāndhakāre samare), both Rāma and Rāvaṇa, fiercely enraged, could not discern (nopalakṣayatām) each other at that time.
+**9:** Then in that battle darkened by arrows (_śarāndhakāre samare_), both Rāma and Rāvaṇa, fiercely enraged, could not discern (_nopalakṣayatām_) each other at that time.
 </details>
 </details>
 
@@ -590,17 +590,17 @@ months in a year), hail to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Then, filled with wrath, the heroic Rāma, son of Daśaratha, laughed aloud (prahasya) and spoke harsh words (paruṣaṃ vacaḥ) to Rāvaṇa:
+**10:** Then, filled with wrath, the heroic Rāma, son of Daśaratha, laughed aloud (_prahasya_) and spoke harsh words (_paruṣaṃ vacaḥ_) to Rāvaṇa:
 
-**11:** “Because my helpless wife (vivaśā) was abducted by you from Janasthāna out of ignorance (ajñānāt), O vilest of rākṣasas (rākṣasādhama), therefore you are no man of valor!
+**11:** “Because my helpless wife (_vivaśā_) was abducted by you from Janasthāna out of ignorance (_ajñānāt_), O vilest of _rākṣasas_ (_rākṣasādhama_), therefore you are no man of valor!
 
-**12:** Having forcibly (prasabham) carried off Vaidehī when she was parted from me and dwelling distressed in the great forest, you fancy to yourself, ‘I am a hero (śūro 'ham)!’
+**12:** Having forcibly (_prasabham_) carried off Vaidehī when she was parted from me and dwelling distressed in the great forest, you fancy to yourself, ‘I am a hero (_śūro &#x27;ham_)!’
 
-**13:** O hero only among protectorless women (strīṣu śūra vināthāsu), having committed the cowardly deed (kāpuruṣaṃ karma) of laying hands on another’s wife (para-dārābhimarśanam), do you fancy, ‘I am a hero’?
+**13:** O hero only among protectorless women (_strīṣu śūra vināthāsu_), having committed the cowardly deed (_kāpuruṣaṃ karma_) of laying hands on another’s wife (_para-dārābhimarśanam_), do you fancy, ‘I am a hero’?
 
-**14:** O shameless transgressor of moral bounds (bhinna-maryāda), unsteady in righteous conduct (cāritreṣv anavasthita), having invited your own death out of arrogance (darpāt), do you fancy, ‘I am a hero’?
+**14:** O shameless transgressor of moral bounds (_bhinna-maryāda_), unsteady in righteous conduct (_cāritreṣv anavasthita_), having invited your own death out of arrogance (_darpāt_), do you fancy, ‘I am a hero’?
 
-**15:** By you—a ‘hero,’ the brother of Kubera (dhanada-bhrātrā), and endowed with mighty forces—what a praiseworthy (ślāghanīyam), great, and glorious deed has been performed!
+**15:** By you—a ‘hero,’ the brother of Kubera (_dhanada-bhrātrā_), and endowed with mighty forces—what a praiseworthy (_ślāghanīyam_), great, and glorious deed has been performed!
 </details>
 </details>
 
@@ -646,7 +646,7 @@ to the lord of host of luminaries and hail to the lord of the day."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reap now today the tremendous fruit (sumahat phalam) of that reprehensible (garhitasya) and ruinous action undertaken out of haughtiness (utsekena)!
+Reap now today the tremendous fruit (_sumahat phalam_) of that reprehensible (_garhitasya_) and ruinous action undertaken out of haughtiness (_utsekena_)!
 </details>
 </details>
 
@@ -699,7 +699,7 @@ Aditi!
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Evil-minded one (durmate), you regard yourself thinking, ‘I am a hero,’ yet you have no shame at all in dragging Sītā away like a thief (cauravad vyapakarṣataḥ)!
+Evil-minded one (_durmate_), you regard yourself thinking, ‘I am a hero,’ yet you have no shame at all in dragging Sītā away like a thief (_cauravad vyapakarṣataḥ_)!
 </details>
 </details>
 
@@ -745,7 +745,7 @@ variegated colours! Hail to you, the awakener of the louts, hail to you, the fur
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Had Sītā been forcibly violated by you in my presence (mat-saṃnidhau), then, slain by my shafts, you would have gone to see your brother Khara!”
+Had Sītā been forcibly violated by you in my presence (_mat-saṃnidhau_), then, slain by my shafts, you would have gone to see your brother Khara!”
 </details>
 </details>
 
@@ -807,7 +807,7 @@ form of Rudra."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By good fortune (diṣṭyā), O dull-witted one (mandātman), you have come within range of my sight (cakṣur-viṣayam); today with sharp shafts I shall dispatch you to the abode of Yama!
+“By good fortune (_diṣṭyā_), O dull-witted one (_mandātman_), you have come within range of my sight (_cakṣur-viṣayam_); today with sharp shafts I shall dispatch you to the abode of Yama!
 </details>
 </details>
 
@@ -861,7 +861,7 @@ ruler of all lights."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today let carrion-eaters (kravyādāḥ) drag about your head with its blazing earrings (jvalita-kuṇḍalam), severed by my arrows and strewn in the dust of the battlefield!
+Today let carrion-eaters (_kravyādāḥ_) drag about your head with its blazing earrings (_jvalita-kuṇḍalam_), severed by my arrows and strewn in the dust of the battlefield!
 </details>
 </details>
 
@@ -909,7 +909,7 @@ world!'"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swooping down upon your chest as you lie hurled upon the ground, O Rāvaṇa, let vultures (gṛdhrāḥ) drink in their thirst (tarṣāt) the blood welling up from the openings torn by my arrow-barbs (bāṇa-śalyāntarotthitam)!
+Swooping down upon your chest as you lie hurled upon the ground, O Rāvaṇa, let vultures (_gṛdhrāḥ_) drink in their thirst (_tarṣāt_) the blood welling up from the openings torn by my arrow-barbs (_bāṇa-śalyāntarotthitam_)!
 </details>
 </details>
 
@@ -961,7 +961,7 @@ radiates heat by his rays. He sends the rain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, as you lie fallen and lifeless (gatāsoḥ), pierced by my arrows, let birds of prey drag out your entrails (antrāṇi) as eagles (garutmantaḥ) drag serpents!”
+Today, as you lie fallen and lifeless (_gatāsoḥ_), pierced by my arrows, let birds of prey drag out your entrails (_antrāṇi_) as eagles (_garutmantaḥ_) drag serpents!”
 </details>
 </details>
 
@@ -1007,7 +1007,7 @@ alone is the oblation to the fire-god and the fruit attained by those who pour s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, the heroic Rāma, destroyer of foes (śatru-nibarhaṇaḥ), covered the lord of rākṣasas standing nearby with showers of arrows (śara-varṣaiḥ).
+Speaking thus, the heroic Rāma, destroyer of foes (_śatru-nibarhaṇaḥ_), covered the lord of _rākṣasas_ standing nearby with showers of arrows (_śara-varṣaiḥ_).
 </details>
 </details>
 
@@ -1066,7 +1066,7 @@ worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Rāma desired the destruction of his foe (śatror nidhana-kāṅkṣiṇaḥ) in battle, his valor, strength, joy, and the power of his celestial missiles (astra-balam) became twofold (dviguṇam).
+As Rāma desired the destruction of his foe (_śatror nidhana-kāṅkṣiṇaḥ_) in battle, his valor, strength, joy, and the power of his celestial missiles (_astra-balam_) became twofold (_dviguṇam_).
 </details>
 </details>
 
@@ -1112,7 +1112,7 @@ the woods or in times of peril, comes to grief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the celestial missiles manifested themselves (prādurbabhūvuḥ) before that knower of the Self (viditātmanaḥ), and out of exultation that hero of great splendor became even swifter of hand (śīghra-hastataraḥ).
+All the celestial missiles manifested themselves (_prādurbabhūvuḥ_) before that knower of the Self (_viditātmanaḥ_), and out of exultation that hero of great splendor became even swifter of hand (_śīghra-hastataraḥ_).
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ battles."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recognizing these auspicious signs (śubhāny etāni cihnāni) within himself, Rāma, the ender of rākṣasas, tormented Rāvaṇa all the more (bhūya eva).
+Recognizing these auspicious signs (_śubhāny etāni cihnāni_) within himself, Rāma, the ender of _rākṣasas_, tormented Rāvaṇa all the more (_bhūya eva_).
 </details>
 </details>
 
@@ -1222,7 +1222,7 @@ so, the sage, Agastya, thereupon, left as in the same way as he had come.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Battered by the masses of rocks (aśma-nikaraiḥ) from the monkeys and by the showers of arrows from Rāghava, the ten-necked demon grew dizzy at heart (vighūrṇa-hṛdayaḥ).
+Battered by the masses of rocks (_aśma-nikaraiḥ_) from the monkeys and by the showers of arrows from Rāghava, the ten-necked demon grew dizzy at heart (_vighūrṇa-hṛdayaḥ_).
 </details>
 </details>
 
@@ -1314,11 +1314,11 @@ Ravana, with an intense and all-sided effort.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** And when, with his inner spirit faltering (viklavenāntarātmanā), he neither reached for a weapon nor drew his bow (śarāsanam), nor countered Rāma’s valor with his own,
+**28:** And when, with his inner spirit faltering (_viklavenāntarātmanā_), he neither reached for a weapon nor drew his bow (_śarāsanam_), nor countered Rāma’s valor with his own,
 
-**29:** and the arrows and manifold weapons swiftly hurled by him served only for his own destruction (maraṇārthāya vartante) as the hour of death drew near (mṛtyu-kālo 'bhyavartata),
+**29:** and the arrows and manifold weapons swiftly hurled by him served only for his own destruction (_maraṇārthāya vartante_) as the hour of death drew near (_mṛtyu-kālo &#x27;bhyavartata_),
 
-**30:** then his charioteer (sūtaḥ), the driver of his car, beholding him in that condition, calmly (asambhrāntaḥ) and slowly guided his chariot away from the battle (yuddhād ... apavāhayat).
+**30:** then his charioteer (_sūtaḥ_), the driver of his car, beholding him in that condition, calmly (_asambhrāntaḥ_) and slowly guided his chariot away from the battle (_yuddhād ... apavāhayat_).
 </details>
 </details>
 
@@ -1382,6 +1382,6 @@ up."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Turning back his terrible chariot that rumbled like a thundercloud (jalada-svanam), the charioteer swiftly departed from the battle in fear (bhītyā), seeing that lord of the earth slumped down with his valor spent (nirasta-vīryam).
+Turning back his terrible chariot that rumbled like a thundercloud (_jalada-svanam_), the charioteer swiftly departed from the battle in fear (_bhītyā_), seeing that lord of the earth slumped down with his valor spent (_nirasta-vīryam_).
 </details>
 </details>

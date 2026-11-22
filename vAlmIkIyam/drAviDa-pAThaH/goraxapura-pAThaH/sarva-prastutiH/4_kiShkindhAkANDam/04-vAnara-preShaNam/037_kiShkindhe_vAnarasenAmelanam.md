@@ -84,7 +84,7 @@ word to Hanuma who is available at his side. [4-37-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by high-souled Lakṣmaṇa, Sugrīva spoke these words to Hanūmān standing at his side (sthitaṃ pārśve):
+Addressed thus by high-souled Lakṣmaṇa, Sugrīva spoke these words to Hanūmān standing at his side (_sthitaṃ pārśve_):
 </details>
 </details>
 
@@ -253,21 +253,21 @@ for us he takes rest in his palace for the night and continues his next day's ro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** ‘Those who dwell on the peaks of Mahendra, Himavat, Vindhya, and Kailāsa, and on white-crested Mandara (mandare pāṇḍuśikhare)—upon those five mountains (pañcaśaileṣu);
+**2:** ‘Those who dwell on the peaks of Mahendra, Himavat, Vindhya, and Kailāsa, and on white-crested Mandara (_mandare pāṇḍuśikhare_)—upon those five mountains (_pañcaśaileṣu_);
 
-**3:** ‘And those who dwell in the western quarter (paścimasyāṃ diśi) on the ever-blazing mountains along the ocean's rim (samudrānte), colored like the newly risen sun;
+**3:** ‘And those who dwell in the western quarter (_paścimasyāṃ diśi_) on the ever-blazing mountains along the ocean&#x27;s rim (_samudrānte_), colored like the newly risen sun;
 
-**4:** ‘And those formidable bulls among monkeys (haripuṃgavāḥ) who resort to the mountain that is the abode of the Sun (ādityabhavane girau), resembling evening clouds, and to the forest of Padmācala;
+**4:** ‘And those formidable bulls among monkeys (_haripuṃgavāḥ_) who resort to the mountain that is the abode of the Sun (_ādityabhavane girau_), resembling evening clouds, and to the forest of Padmācala;
 
-**5:** ‘And those leapers (plavaṃgamāḥ) resembling collyrium and dark rainclouds (añjanāmbudasaṃkāśāḥ), possessing the mighty vigor of lordly elephants, who dwell on Mount Añjana;
+**5:** ‘And those leapers (_plavaṃgamāḥ_) resembling collyrium and dark rainclouds (_añjanāmbudasaṃkāśāḥ_), possessing the mighty vigor of lordly elephants, who dwell on Mount Añjana;
 
-**6:** ‘And those monkeys gleaming like gold (kanakaprabhāḥ), whose dwellings are the caverns of Mahāśaila [or realgar caves], who haunt the flanks of Meru, and who resort to Dhūmragiri—
+**6:** ‘And those monkeys gleaming like gold (_kanakaprabhāḥ_), whose dwellings are the caverns of Mahāśaila [or realgar caves], who haunt the flanks of Meru, and who resort to Dhūmragiri—
 
-**7:** ‘And those leapers of terrible speed (bhīmavegāḥ), colored like the newly risen sun, who dwell on Mount Mahāruṇa drinking maireya wine (madhu maireyam);
+**7:** ‘And those leapers of terrible speed (_bhīmavegāḥ_), colored like the newly risen sun, who dwell on Mount Mahāruṇa drinking _maireya_ wine (_madhu maireyam_);
 
-**8:** ‘And those in the lovely, fragrant, vast forests, and in the woodland borders (vanānteṣu) charming with the hermitages of ascetics on every side—
+**8:** ‘And those in the lovely, fragrant, vast forests, and in the woodland borders (_vanānteṣu_) charming with the hermitages of ascetics on every side—
 
-**9:** ‘All those monkeys upon the earth do you swiftly have brought here (ānaya) through conciliation, gifts, and other expedients (sāmadānādibhiḥ kalpaiḥ), by means of monkeys even swifter in speed.
+**9:** ‘All those monkeys upon the earth do you swiftly have brought here (_ānaya_) through conciliation, gifts, and other expedients (_sāmadānādibhiḥ kalpaiḥ_), by means of monkeys even swifter in speed.
 </details>
 </details>
 
@@ -320,7 +320,7 @@ you hasten some more monkey chiefs for the purpose of hastening them. [4-37-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘And to hasten (tvaraṇārtham) those couriers of great speed who were previously tested (ājñātāḥ) and dispatched by me at the outset, do you send forth monkey lords once again.
+‘And to hasten (_tvaraṇārtham_) those couriers of great speed who were previously tested (_ājñātāḥ_) and dispatched by me at the outset, do you send forth monkey lords once again.
 </details>
 </details>
 
@@ -375,7 +375,7 @@ dawdlers, you quickly lead all of those monkey chiefs in here. [4-37-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘And whichever monkeys are absorbed in sensual pleasures (kāmeṣu) or are dilatory in action (dīrghasūtrāḥ), have all those monkey chiefs brought here swiftly.
+‘And whichever monkeys are absorbed in sensual pleasures (_kāmeṣu_) or are dilatory in action (_dīrghasūtrāḥ_), have all those monkey chiefs brought here swiftly.
 </details>
 </details>
 
@@ -427,7 +427,7 @@ miscreants are eliminable as the abusers of king's decree. [4-37-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘And those wicked-souled ones who do not arrive within ten days (ahobhir daśabhiḥ) at my command are to be slain as violators of the royal decree (rājaśāsanadūṣakāḥ).
+‘And those wicked-souled ones who do not arrive within ten days (_ahobhir daśabhiḥ_) at my command are to be slain as violators of the royal decree (_rājaśāsanadūṣakāḥ_).
 </details>
 </details>
 
@@ -490,7 +490,7 @@ to this place in hundreds, thousands, even in millions, by my command. [4-37-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Let hundreds, thousands, and tens of millions (koṭyaś ca) of monkey-lions who abide under my command (nideśe mama) march forth by my decree.
+‘Let hundreds, thousands, and tens of millions (_koṭyaś ca_) of monkey-lions who abide under my command (_nideśe mama_) march forth by my decree.
 </details>
 </details>
 
@@ -543,7 +543,7 @@ sky. [4-37-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Resembling clouds and mountains, as though covering the sky (chādayanta ivāmbaram), let those foremost of monkeys of formidable form go forth from here at my command.
+‘Resembling clouds and mountains, as though covering the sky (_chādayanta ivāmbaram_), let those foremost of monkeys of formidable form go forth from here at my command.
 </details>
 </details>
 
@@ -596,7 +596,7 @@ command." Sugreeva ordered Hanuma that way. [4-37-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Knowing the pathways (gatijñāḥ), let all those monkeys go to every destination [or dwelling-place, gatim] across the earth and swiftly bring all the monkeys at my command.’
+‘Knowing the pathways (_gatijñāḥ_), let all those monkeys go to every destination [or dwelling-place, _gatim_] across the earth and swiftly bring all the monkeys at my command.’
 </details>
 </details>
 
@@ -645,7 +645,7 @@ has started to dispatch valorous monkeys in all directions. [4-37-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of that king of monkeys, the son of the Wind-god (vāyusutaḥ) dispatched valiant monkeys in all directions.
+Hearing the speech of that king of monkeys, the son of the Wind-god (_vāyusutaḥ_) dispatched valiant monkeys in all directions.
 </details>
 </details>
 
@@ -707,7 +707,7 @@ Thus it is said that the monkeys skyrocketed heavenward, i.e., to skies, but not
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sent forth by the king, those monkeys instantly (kṣaṇena) coursed through the sky—the realm stridden across by Viṣṇu (padaṃ viṣṇuvikrāntam)—traveling along the pathway of birds and luminaries (patattrijyotiradhvagāḥ).
+Sent forth by the king, those monkeys instantly (_kṣaṇena_) coursed through the sky—the realm stridden across by Viṣṇu (_padaṃ viṣṇuvikrāntam_)—traveling along the pathway of birds and luminaries (_patattrijyotiradhvagāḥ_).
 </details>
 </details>
 
@@ -763,7 +763,7 @@ and motivated all of the monkeys available there towards the cause of Rama. [4-3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Across oceans, mountains, forests, and lakes, those monkeys urged on (acodayan) all the monkeys for the sake of Rāma (rāmahetoḥ).
+Across oceans, mountains, forests, and lakes, those monkeys urged on (_acodayan_) all the monkeys for the sake of Rāma (_rāmahetoḥ_).
 </details>
 </details>
 
@@ -825,7 +825,7 @@ haunting them. [4-37-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the command of Sugrīva, king of kings (rājarājasya), who was like Death and Time (mṛtyukālopamasya) [in punishing transgressors], the monkeys came forth, apprehensive with fear of Sugrīva.
+Hearing the command of Sugrīva, king of kings (_rājarājasya_), who was like Death and Time (_mṛtyukālopamasya_) [in punishing transgressors], the monkeys came forth, apprehensive with fear of Sugrīva.
 </details>
 </details>
 
@@ -879,7 +879,7 @@ camping, i.e., Mt. Prasravana. [4-37-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then from that mountain [Añjana], three crores (tisraḥ koṭyaḥ) of mighty leapers resembling collyrium (añjanasaṃkāśāḥ) issued forth to where Rāghava was.
+Then from that mountain [Añjana], three crores (_tisraḥ koṭyaḥ_) of mighty leapers resembling collyrium (_añjanasaṃkāśāḥ_) issued forth to where Rāghava was.
 </details>
 </details>
 
@@ -933,7 +933,7 @@ similar to the refined gold, for dusk has a golden hue, have jumped in. [4-37-21
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighting in that best of mountains where the sun goes to its setting (astaṃ gacchati yatrārkaḥ), ten crores gleaming with the hue of molten gold (saṃtaptahemavarṇābhāḥ) streamed down from there.
+Delighting in that best of mountains where the sun goes to its setting (_astaṃ gacchati yatrārkaḥ_), ten crores gleaming with the hue of molten gold (_saṃtaptahemavarṇābhāḥ_) streamed down from there.
 </details>
 </details>
 
@@ -985,7 +985,7 @@ hundred billion, from the pinnacles of Mt. Kailash. [4-37-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And from the peaks of Kailāsa there assembled thousands of crores (koṭisahasrāṇi) of monkeys possessing the splendor of lions' manes (siṃhakesaravarcasām).
+And from the peaks of Kailāsa there assembled thousands of crores (_koṭisahasrāṇi_) of monkeys possessing the splendor of lions&#x27; manes (_siṃhakesaravarcasām_).
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ in a thousand of thousand crores, say a trillion. [4-37-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of those subsisting on fruits and roots (phalamūlena jīvantaḥ) who inhabited Himavat, a thousand times a thousand crores (koṭisahasrāṇāṃ sahasram) gathered together.
+Of those subsisting on fruits and roots (_phalamūlena jīvantaḥ_) who inhabited Himavat, a thousand times a thousand crores (_koṭisahasrāṇāṃ sahasram_) gathered together.
 </details>
 </details>
 
@@ -1093,7 +1093,7 @@ alighted from Mt. Vindhya. [4-37-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the Vindhya mountain, thousands of crores of terrible monkeys of dreadful deeds, resembling the planet Mars [or glowing embers, aṅgārakasamānānām], descended swiftly.
+From the Vindhya mountain, thousands of crores of terrible monkeys of dreadful deeds, resembling the planet Mars [or glowing embers, _aṅgārakasamānānām_], descended swiftly.
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ adjacent to *v* .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those whose abodes were along the shores of the Ocean of Milk (kṣīrodavelānilayāḥ), who dwelt in forests of dark tamāla trees and subsisted on coconuts (nārikelāśanāḥ)—of them there is no reckoning (saṃkhyā na vidyate).
+Those whose abodes were along the shores of the Ocean of Milk (_kṣīrodavelānilayāḥ_), who dwelt in forests of dark _tamāla_ trees and subsisted on coconuts (_nārikelāśanāḥ_)—of them there is no reckoning (_saṃkhyā na vidyate_).
 </details>
 </details>
 
@@ -1230,7 +1230,7 @@ they are going to gorge the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From forests, mountain caverns, and rivers, the mighty monkey army (vānarī senā) came pouring in, as though drinking up the sun (pibantīva divākaram).
+From forests, mountain caverns, and rivers, the mighty monkey army (_vānarī senā_) came pouring in, as though drinking up the sun (_pibantīva divākaram_).
 </details>
 </details>
 
@@ -1295,7 +1295,7 @@ occurred to Hanuma' in identifying Sanjivini herb among many trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now those heroic monkeys who had gone to hasten (tvarayitum) all the monkeys beheld upon the Himavat mountain that celebrated great tree (mahādrumam).
+Now those heroic monkeys who had gone to hasten (_tvarayitum_) all the monkeys beheld upon the Himavat mountain that celebrated great tree (_mahādrumam_).
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ Shiva took place, which pleased the hearts of all gods. [4-37-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon that sacred best of mountains, in former times, there took place the enchanting sacrifice of Maheśvara (yajño māheśvaraḥ), which delighted the minds of all the gods (sarvadevamanastoṣaḥ).
+Upon that sacred best of mountains, in former times, there took place the enchanting sacrifice of Maheśvara (_yajño māheśvaraḥ_), which delighted the minds of all the gods (_sarvadevamanastoṣaḥ_).
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ have originated from the oblational food material spattered in the Vedic-ritual 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There the monkeys beheld roots and fruits sprung from the overflow of the sacrificial food [or oblations, annanisyandajātāni], nearly equal in sweetness to ambrosia (amṛtasvādukalpāni).
+There the monkeys beheld roots and fruits sprung from the overflow of the sacrificial food [or oblations, _annanisyandajātāni_], nearly equal in sweetness to ambrosia (_amṛtasvādukalpāni_).
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ month. [4-37-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever eats even once (sakṛd aśnāti) that divine, enchanting fruit and root sprung from that sacrificial food remains satisfied for an entire month (māsaṃ bhavati tarpitaḥ).
+Whoever eats even once (_sakṛd aśnāti_) that divine, enchanting fruit and root sprung from that sacrificial food remains satisfied for an entire month (_māsaṃ bhavati tarpitaḥ_).
 </details>
 </details>
 
@@ -1519,7 +1519,7 @@ and even the divine medicinal herbs. [4-37-31]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those fruit-eating bulls among monkeys (haripuṃgavāḥ) gathered those divine roots and fruits, as well as divine medicinal herbs (auṣadhāni ca divyāni).
+Those fruit-eating bulls among monkeys (_haripuṃgavāḥ_) gathered those divine roots and fruits, as well as divine medicinal herbs (_auṣadhāni ca divyāni_).
 </details>
 </details>
 
@@ -1574,7 +1574,7 @@ vanara-s fetched highly fragrant flowers in order to please Sugreeva. [4-37-32]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having gone to that sacrificial ground (yajñāyatanāt), the monkeys brought back fragrant blossoms out of a desire to please Sugrīva (sugrīvapriyakāraṇāt).
+And having gone to that sacrificial ground (_yajñāyatanāt_), the monkeys brought back fragrant blossoms out of a desire to please Sugrīva (_sugrīvapriyakāraṇāt_).
 </details>
 </details>
 
@@ -1628,7 +1628,7 @@ forgather other monkeys, quickly returned to Kishkindha ahead of the forgathered
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having urged on all the monkeys across the earth, all those foremost of monkeys swiftly marched ahead of the troops (yūthānāṃ jagmur agrataḥ).
+Having urged on all the monkeys across the earth, all those foremost of monkeys swiftly marched ahead of the troops (_yūthānāṃ jagmur agrataḥ_).
 </details>
 </details>
 
@@ -1683,7 +1683,7 @@ available along with Lakshmana. [4-37-34]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Within that very muhūrta (tena muhūrtena), those swift-moving monkeys speedily reached Kiṣkindhā where the monkey Sugrīva was.
+Within that very _muhūrta_ (_tena muhūrtena_), those swift-moving monkeys speedily reached Kiṣkindhā where the monkey Sugrīva was.
 </details>
 </details>
 
@@ -1739,7 +1739,7 @@ this word to Sugreeva. [4-37-35]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking all the medicinal herbs (auṣadhīḥ sarvāḥ) and the fruits and roots, those monkeys caused him to accept them (taṃ pratigrāhayāmāsuḥ) and spoke these words:
+Taking all the medicinal herbs (_auṣadhīḥ sarvāḥ_) and the fruits and roots, those monkeys caused him to accept them (_taṃ pratigrāhayāmāsuḥ_) and spoke these words:
 </details>
 </details>
 
@@ -1792,7 +1792,7 @@ said to Sugreeva. [4-37-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘All the mountains, rivers, and forests have been traversed (parisṛtāḥ); all the monkeys upon the earth are approaching at your command (śāsanāt te).’
+‘All the mountains, rivers, and forests have been traversed (_parisṛtāḥ_); all the monkeys upon the earth are approaching at your command (_śāsanāt te_).’
 </details>
 </details>
 
@@ -1855,7 +1855,7 @@ accepted the gifts brought from Himalayas from all of them. [4-37-37]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing thus, Sugrīva, overlord of the leapers, rejoiced and, well-pleased, accepted all their tribute (sarvam upāyanam).
+Hearing thus, Sugrīva, overlord of the leapers, rejoiced and, well-pleased, accepted all their tribute (_sarvam upāyanam_).
 </details>
 </details>
 

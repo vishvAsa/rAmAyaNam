@@ -163,7 +163,7 @@ Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that high-souled king pondered thus, this thought arose in his mind: `Why do I not perform a sacrifice with the Vājimedha (Horse-Sacrifice) for the sake of obtaining a son?'
+As that high-souled king pondered thus, this thought arose in his mind: `Why do I not perform a sacrifice with the Vājimedha (Horse-Sacrifice) for the sake of obtaining a son?&#x27;
 </details>
 </details>
 
@@ -237,9 +237,9 @@ clerics, quickly.." [1-8-3,4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Having formed the firm resolve `A sacrifice must be performed,' that wise and righteous-souled monarch, together with all his ministers of purified intellect—
+**3:** Having formed the firm resolve `A sacrifice must be performed,&#x27; that wise and righteous-souled monarch, together with all his ministers of purified intellect—
 
-**4:** Then spoke, resplendent with mighty energy, to Sumantra, the foremost of his ministers: `Bring quickly before me all my spiritual preceptors, together with my family priest (Vasiṣṭha)!'
+**4:** Then spoke, resplendent with mighty energy, to Sumantra, the foremost of his ministers: `Bring quickly before me all my spiritual preceptors, together with my family priest (Vasiṣṭha)!&#x27;
 </details>
 </details>
 
@@ -461,7 +461,7 @@ fulfilled... [1-8-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Therefore I desire to perform that sacrifice through the rite prescribed in the sacred Śāstras; let your wisdom deliberate here as to how I may attain my cherished desire.'
+`Therefore I desire to perform that sacrifice through the rite prescribed in the sacred Śāstras; let your wisdom deliberate here as to how I may attain my cherished desire.&#x27;
 </details>
 </details>
 
@@ -514,7 +514,7 @@ have blessed and honoured him, saying that "splendid is this idea..." thus, for 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon all those Brāhmaṇas headed by Vasiṣṭha acclaimed with cries of `Excellent! Excellent!' that speech uttered directly from the Sovereign's own lips.
+Thereupon all those Brāhmaṇas headed by Vasiṣṭha acclaimed with cries of `Excellent! Excellent!&#x27; that speech uttered directly from the Sovereign&#x27;s own lips.
 </details>
 </details>
 
@@ -735,11 +735,11 @@ procedure of this ritual be depraved of its set rules, the performer gets ruined
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** `Since this righteous resolve has arisen in your mind for the sake of sons!' Hearing these words spoken by the twice-born seers, the King was filled with joy.
+**13:** `Since this righteous resolve has arisen in your mind for the sake of sons!&#x27; Hearing these words spoken by the twice-born seers, the King was filled with joy.
 
 **14:** With his eyes brimming with tears of joy, the King spoke to his ministers: `In accordance with the word of my preceptors, let the sacrificial requisites be gathered for me here!
 
-**15:** `Let the sacrificial horse, guarded by quatre-hundred capable warriors and accompanied by the officiating priest (Upādhyāya), be released; and on the northern bank of the Sarayū let the sacrificial ground be laid out.'
+**15:** `Let the sacrificial horse, guarded by quatre-hundred capable warriors and accompanied by the officiating priest (Upādhyāya), be released; and on the northern bank of the Sarayū let the sacrificial ground be laid out.&#x27;
 
 **16:** `Let the pacificatory rites (Śāntis) for averting obstacles also proceed in due sequence and in strict accordance with scriptural rule. This great sacrifice could indeed be accomplished by any monarch—
 
@@ -859,7 +859,7 @@ conducted faultlessly as has been conducted earlier...' [1-8-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`—let every arrangement be made with utmost care, for you are fully capable in all such undertakings.' Honored by the King, all the ministers replied: `So shall it be!'
+`—let every arrangement be made with utmost care, for you are fully capable in all such undertakings.&#x27; Honored by the King, all the ministers replied: `So shall it be!&#x27;
 </details>
 </details>
 
@@ -959,7 +959,7 @@ the Vedic scholars this ritual shall be conducted, procedurally..." [1-8-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having received the King's leave, all those seers returned as they had come. Having dismissed those Brāhmaṇas, the King spoke these words to his ministers:
+Then, having received the King&#x27;s leave, all those seers returned as they had come. Having dismissed those Brāhmaṇas, the King spoke these words to his ministers:
 </details>
 </details>
 
@@ -1005,7 +1005,7 @@ his audience, sent away those ministers also, and he entered his palace. [1-8-22
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-`Let the sacrifice, as enjoined by the officiating priests, be brought to full accomplishment in every detail.' Having spoken thus to his assembled ministers, that tiger among kings—
+`Let the sacrifice, as enjoined by the officiating priests, be brought to full accomplishment in every detail.&#x27; Having spoken thus to his assembled ministers, that tiger among kings—
 </details>
 </details>
 
@@ -1110,7 +1110,7 @@ like the blooming lotuses after the clearance of dew-fall. [1-8-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—said: `Enter upon the sacrificial consecration (Dīkṣā), for I shall perform a great sacrifice for the sake of a son!' At those supremely welcome words of his, the lotus-faces of those radiant queens shone forth like lotuses blooming at the passing of winter.
+—said: `Enter upon the sacrificial consecration (Dīkṣā), for I shall perform a great sacrifice for the sake of a son!&#x27; At those supremely welcome words of his, the lotus-faces of those radiant queens shone forth like lotuses blooming at the passing of winter.
 </details>
 </details>
 

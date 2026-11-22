@@ -81,7 +81,7 @@ him)?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Glad at heart, that charioteer [drove forward] the chariot that crushed enemy hosts (para-sainya-pradharṣaṇam), resembled a celestial city of the Gandharvas in form (gandharva-nagarākāram), and flew lofty banners (samucchrita-patākinam)—
+Glad at heart, that charioteer [drove forward] the chariot that crushed enemy hosts (_para-sainya-pradharṣaṇam_), resembled a celestial city of the Gandharvas in form (_gandharva-nagarākāram_), and flew lofty banners (_samucchrita-patākinam_)—
 </details>
 </details>
 
@@ -128,7 +128,7 @@ creation. The time for his destruction has come now, as expressed by the celesti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-yoked with supremely endowed steeds (parama-sampannair vājibhiḥ) wearing golden garlands (hema-mālibhiḥ), filled with implements of war (yuddhopakaraṇaiḥ), and festooned with rows of pennants and standards (patākā-dhvaja-mālinam);
+yoked with supremely endowed steeds (_parama-sampannair vājibhiḥ_) wearing golden garlands (_hema-mālibhiḥ_), filled with implements of war (_yuddhopakaraṇaiḥ_), and festooned with rows of pennants and standards (_patākā-dhvaja-mālinam_);
 </details>
 </details>
 
@@ -159,7 +159,7 @@ yoked with supremely endowed steeds (parama-sampannair vājibhiḥ) wearing gold
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-seeming to swallow the very sky (grasantam iva cākāśam) and making the earth resound (nādayantaṃ vasuṃdharām), the ruin of enemy armies and the delight of his own host (sva-sainyasya praharṣaṇam)—
+seeming to swallow the very sky (_grasantam iva cākāśam_) and making the earth resound (_nādayantaṃ vasuṃdharām_), the ruin of enemy armies and the delight of his own host (_sva-sainyasya praharṣaṇam_)—
 </details>
 </details>
 
@@ -210,7 +210,7 @@ earlier in the battle-field and which looked like a hissing serpent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-swiftly the charioteer urged on that chariot of Rāvaṇa. Charging headlong with a mighty roar (svanavantam) and bearing a great standard (mahā-dhvajam),
+swiftly the charioteer urged on that chariot of Rāvaṇa. Charging headlong with a mighty roar (_svanavantam_) and bearing a great standard (_mahā-dhvajam_),
 </details>
 </details>
 
@@ -258,7 +258,7 @@ of conquering the three worlds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the king of men (nara-rājaḥ) beheld that chariot of the king of rākṣasas, yoked with black steeds (kṛṣṇa-vāji-samāyuktam) and endowed with a fierce, terrible splendor (raudreṇa varcasā),
+the king of men (_nara-rājaḥ_) beheld that chariot of the king of _rākṣasas_, yoked with black steeds (_kṛṣṇa-vāji-samāyuktam_) and endowed with a fierce, terrible splendor (_raudreṇa varcasā_),
 </details>
 </details>
 
@@ -310,7 +310,7 @@ In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-blazing like an aerial palace (vimānam) of solar effulgence in the sky, dense with lightning-like pennants (taḍit-patākā-gahanam), and displaying the sheen of Indra’s rainbow (darśitendrāyudha-prabham).
+blazing like an aerial palace (_vimānam_) of solar effulgence in the sky, dense with lightning-like pennants (_taḍit-patākā-gahanam_), and displaying the sheen of Indra’s rainbow (_darśitendrāyudha-prabham_).
 </details>
 </details>
 
@@ -385,9 +385,9 @@ elephants and horses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Beholding that cloud-like chariot of his foe rushing forward and discharging torrents of arrows (śara-dhārā vimuñcantam) like a rain-cloud pouring down showers (dhārā-dharam ivāmbudam),
+**7:** Beholding that cloud-like chariot of his foe rushing forward and discharging torrents of arrows (_śara-dhārā vimuñcantam_) like a rain-cloud pouring down showers (_dhārā-dharam ivāmbudam_),
 
-**8:** its rumble resembling that of a mountain riven by a thunderbolt (girer vajrābhimṛṣṭasya dīryataḥ sadṛśa-svanam), Rāma swiftly twanged his bow, which was curved like the crescent moon (bāla-candrānataṃ dhanuḥ),
+**8:** its rumble resembling that of a mountain riven by a thunderbolt (_girer vajrābhimṛṣṭasya dīryataḥ sadṛśa-svanam_), Rāma swiftly twanged his bow, which was curved like the crescent moon (_bāla-candrānataṃ dhanuḥ_),
 </details>
 </details>
 
@@ -479,11 +479,11 @@ demons in the battle-field, possessing a form of Yama the lord of Death and was 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** and spoke to Mātali, the charioteer of the thousand-eyed Indra (sahasrākṣasya sārathim): “O Mātali, behold the chariot of my foe charging furiously (saṃrabdham āpatantam)!
+**9:** and spoke to Mātali, the charioteer of the thousand-eyed Indra (_sahasrākṣasya sārathim_): “O Mātali, behold the chariot of my foe charging furiously (_saṃrabdham āpatantam_)!
 
-**10:** To judge by the way he rushes forward again at great speed wheeling from left to right (apasavyam), he has made up his mind to destroy himself (hantum ātmānam) in battle!
+**10:** To judge by the way he rushes forward again at great speed wheeling from left to right (_apasavyam_), he has made up his mind to destroy himself (_hantum ātmānam_) in battle!
 
-**11:** Therefore maintain utmost vigilance (apramādam ātiṣṭha) and drive straight out to meet the enemy’s chariot (pratyudgaccha); I wish to scatter it as the wind scatters a rising cloud (vāyur megham ivotthitam)!
+**11:** Therefore maintain utmost vigilance (_apramādam ātiṣṭha_) and drive straight out to meet the enemy’s chariot (_pratyudgaccha_); I wish to scatter it as the wind scatters a rising cloud (_vāyur megham ivotthitam_)!
 </details>
 </details>
 
@@ -536,7 +536,7 @@ it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unfaltering (aviklavam), unagitated (asambhrāntam), with steady heart and gaze (avyagra-hṛdayekṣaṇam), and with firm control over the play of the reins (raśmi-saṃcāra-niyatam), urge the chariot swiftly on!
+Unfaltering (_aviklavam_), unagitated (_asambhrāntam_), with steady heart and gaze (_avyagra-hṛdayekṣaṇam_), and with firm control over the play of the reins (_raśmi-saṃcāra-niyatam_), urge the chariot swiftly on!
 </details>
 </details>
 
@@ -605,9 +605,9 @@ the enemies and bestowing joy to one's own self on his bow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “True (kāmam), accustomed as you are to Indra’s chariot (puraṃdara-rathocitaḥ), you need no instruction (na tvaṃ samādheyaḥ); yet, eager for battle and single-minded (ekāgraḥ), I merely remind you and do not presume to teach you (smāraye tvāṃ na śikṣaye)!”
+**13:** “True (_kāmam_), accustomed as you are to Indra’s chariot (_puraṃdara-rathocitaḥ_), you need no instruction (_na tvaṃ samādheyaḥ_); yet, eager for battle and single-minded (_ekāgraḥ_), I merely remind you and do not presume to teach you (_smāraye tvāṃ na śikṣaye_)!”
 
-**14:** Highly pleased by those words of Rāma, Mātali, the peerless charioteer of the gods (sura-sārathir uttamaḥ), urged the chariot onward.
+**14:** Highly pleased by those words of Rāma, Mātali, the peerless charioteer of the gods (_sura-sārathir uttamaḥ_), urged the chariot onward.
 </details>
 </details>
 
@@ -653,7 +653,7 @@ and the earth trembled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing Rāvaṇa’s great chariot on the right (apasavyaṃ tataḥ kurvan), he enveloped and shook Rāvaṇa (vyavadhūnayat) with the dust raised by his chariot-wheels (cakra-sambhūta-rajasā).
+Passing Rāvaṇa’s great chariot on the right (_apasavyaṃ tataḥ kurvan_), he enveloped and shook Rāvaṇa (_vyavadhūnayat_) with the dust raised by his chariot-wheels (_cakra-sambhūta-rajasā_).
 </details>
 </details>
 
@@ -699,7 +699,7 @@ arrow which can tear off the vitals, towards Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged ten-necked demon, his coppery eyes wide-flaring (tāmra-visphāritekṣaṇaḥ), pelted Rāma, who faced his chariot (ratha-pratimukham), with shafts.
+Then the enraged ten-necked demon, his coppery eyes wide-flaring (_tāmra-visphāritekṣaṇaḥ_), pelted Rāma, who faced his chariot (_ratha-pratimukham_), with shafts.
 </details>
 </details>
 
@@ -745,7 +745,7 @@ irresistible as Yama the lord of Death, fell upon Ravana's chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed at that assault (dharṣaṇāmarṣitaḥ), Rāma, reinforcing his steadfastness with wrath (dhairyaṃ roṣeṇa lambhayan), seized in battle Indra’s bow of supremely mighty impetus (aindraṃ yudhi śarāsanam),
+Incensed at that assault (_dharṣaṇāmarṣitaḥ_), Rāma, reinforcing his steadfastness with wrath (_dhairyaṃ roṣeṇa lambhayan_), seized in battle Indra’s bow of supremely mighty impetus (_aindraṃ yudhi śarāsanam_),
 </details>
 </details>
 
@@ -797,7 +797,7 @@ tore off the heart of that evil-minded Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-along with shafts of tremendous velocity gleaming like the rays of the sun (sūrya-raśmi-sama-prabhān). Then commenced that great battle (tad upoḍhaṃ mahad yuddham) between the two warriors bent on each other’s slaughter (anyonya-vadha-kāṅkṣiṇoḥ), facing one another like two proud lions (dṛptayor iva siṃhayoḥ).
+along with shafts of tremendous velocity gleaming like the rays of the sun (_sūrya-raśmi-sama-prabhān_). Then commenced that great battle (_tad upoḍhaṃ mahad yuddham_) between the two warriors bent on each other’s slaughter (_anyonya-vadha-kāṅkṣiṇoḥ_), facing one another like two proud lions (_dṛptayor iva siṃhayoḥ_).
 </details>
 </details>
 
@@ -860,7 +860,7 @@ life of Ravana and having been anointed with blood, penetrated the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the gods together with the Gandharvas, the Siddhas, and the supreme sages (paramarṣayaḥ) assembled to behold that chariot-duel (dvairatham), eager for Rāvaṇa’s destruction (rāvaṇa-kṣaya-kāṅkṣiṇaḥ).
+Then the gods together with the Gandharvas, the Siddhas, and the supreme sages (_paramarṣayaḥ_) assembled to behold that chariot-duel (_dvairatham_), eager for Rāvaṇa’s destruction (_rāvaṇa-kṣaya-kāṅkṣiṇaḥ_).
 </details>
 </details>
 
@@ -915,7 +915,7 @@ that arrow re-entered its own quiver (of Rama) silently.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon terrible, hair-raising portents (utpātā dāruṇā roma-harṣaṇāḥ) sprang forth, boding the destruction of Rāvaṇa and the triumph (udayāya) of Rāghava.
+Thereupon terrible, hair-raising portents (_utpātā dāruṇā roma-harṣaṇāḥ_) sprang forth, boding the destruction of Rāvaṇa and the triumph (_udayāya_) of Rāghava.
 </details>
 </details>
 
@@ -967,7 +967,7 @@ bow with its arrows (fitted to it), at the same time coinciding indeed with his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The rain-god (devaḥ) rained blood (vavarṣa rudhiram) upon Rāvaṇa’s chariot, and fierce, swirling whirlwinds (vātā maṇḍalinas tīvrāḥ) swept counter-clockwise (vyapasavyam) around him.
+The rain-god (_devaḥ_) rained blood (_vavarṣa rudhiram_) upon Rāvaṇa’s chariot, and fierce, swirling whirlwinds (_vātā maṇḍalinas tīvrāḥ_) swept counter-clockwise (_vyapasavyam_) around him.
 </details>
 </details>
 
@@ -1021,7 +1021,7 @@ like Vritra the demon when the latter was struck down by the thunderbolt.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A huge flock of vultures (mahad gṛdhra-kulam), wheeling in the vault of the sky (nabhas-thale), darted after his chariot whichever way it moved (yena yena ratho yāti tena tena pradhāvati).
+A huge flock of vultures (_mahad gṛdhra-kulam_), wheeling in the vault of the sky (_nabhas-thale_), darted after his chariot whichever way it moved (_yena yena ratho yāti tena tena pradhāvati_).
 </details>
 </details>
 
@@ -1068,7 +1068,7 @@ were panic stricken and ran away to all sides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laṅkā was enveloped by an untimely twilight red as a hibiscus flower (japā-puṣpa-nikāśayā), and even in broad daylight (divase 'pi) the earth appeared as though ablaze (sampradīpteva).
+Laṅkā was enveloped by an untimely twilight red as a hibiscus flower (_japā-puṣpa-nikāśayā_), and even in broad daylight (_divase &#x27;pi_) the earth appeared as though ablaze (_sampradīpteva_).
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ killing of Rvana, the monkeys assumed a triumphant appearance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Great meteors (maholkāḥ) accompanied by portents of thunderous concussion (sanirghātāḥ) fell with a mighty roar; boding ill (ahitāḥ) for Rāvaṇa then, they filled the rākṣasas with dismay (viṣādayan).
+Great meteors (_maholkāḥ_) accompanied by portents of thunderous concussion (_sanirghātāḥ_) fell with a mighty roar; boding ill (_ahitāḥ_) for Rāvaṇa then, they filled the _rākṣasas_ with dismay (_viṣādayan_).
 </details>
 </details>
 
@@ -1184,7 +1184,7 @@ faces looking miserable and tears flowing down, their supporter having been kill
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wherever Rāvaṇa moved, there the earth trembled (pracacāla vasuṃdharā), and the arms of the rākṣasas as they struck seemed held fast (gṛhītā iva bāhavaḥ).
+Wherever Rāvaṇa moved, there the earth trembled (_pracacāla vasuṃdharā_), and the arms of the _rākṣasas_ as they struck seemed held fast (_gṛhītā iva bāhavaḥ_).
 </details>
 </details>
 
@@ -1231,7 +1231,7 @@ and the killing of Ravana in his hands, the monkeys behaved like conquerors.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coppery, yellow, pale, and white sunbeams (sūrya-raśmayaḥ) falling in front of Rāvaṇa appeared like mineral streaks upon a mountain (parvatasyeva dhātavaḥ).
+Coppery, yellow, pale, and white sunbeams (_sūrya-raśmayaḥ_) falling in front of Rāvaṇa appeared like mineral streaks upon a mountain (_parvatasyeva dhātavaḥ_).
 </details>
 </details>
 
@@ -1283,7 +1283,7 @@ winds, carrying divine odour, blew there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Followed by vultures and spewing fire from their mouths (vamantyo jvalanaṃ mukhaiḥ), female jackals (śivāḥ), staring straight into his face (mukham īkṣantyaḥ), howled fiercely and inauspiciously (aśivaṃ śivāḥ).
+Followed by vultures and spewing fire from their mouths (_vamantyo jvalanaṃ mukhaiḥ_), female jackals (_śivāḥ_), staring straight into his face (_mukham īkṣantyaḥ_), howled fiercely and inauspiciously (_aśivaṃ śivāḥ_).
 </details>
 </details>
 
@@ -1339,7 +1339,7 @@ difficult to be accomplished (elsewhere), fell from the heavens to the earth on 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The wind blew adversely (pratikūlaṃ vavau vāyuḥ) on the battlefield, tossing up clouds of dust (pāṃsūn samutkiran) and blinding the sight (kurvan dṛṣṭi-vilopanam) of that king of rākṣasas.
+The wind blew adversely (_pratikūlaṃ vavau vāyuḥ_) on the battlefield, tossing up clouds of dust (_pāṃsūn samutkiran_) and blinding the sight (_kurvan dṛṣṭi-vilopanam_) of that king of _rākṣasas_.
 </details>
 </details>
 
@@ -1391,7 +1391,7 @@ combined with a panegyric in praise of Rama, was distinctly heard in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrible thunderbolts of Indra (indrāśanayaḥ) with unbearable roar (durviṣahya-svarāḥ) crashed down on all sides upon his army without any rising of rain-clouds (vinā jaladharodayam).
+Terrible thunderbolts of Indra (_indrāśanayaḥ_) with unbearable roar (_durviṣahya-svarāḥ_) crashed down on all sides upon his army without any rising of rain-clouds (_vinā jaladharodayam_).
 </details>
 </details>
 
@@ -1443,7 +1443,7 @@ rejoice filled the hearts of gods and charanas the celestial bards.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the cardinal and intermediate directions (diśaś ca pradiśaḥ sarvāḥ) became shrouded in darkness (timirāvṛtāḥ), and through the heavy rain of dust (pāṃsu-varṣeṇa mahatā) the sky grew hard to behold (durdarśam).
+All the cardinal and intermediate directions (_diśaś ca pradiśaḥ sarvāḥ_) became shrouded in darkness (_timirāvṛtāḥ_), and through the heavy rain of dust (_pāṃsu-varṣeṇa mahatā_) the sky grew hard to behold (_durdarśam_).
 </details>
 </details>
 
@@ -1497,7 +1497,7 @@ Sugreeva, Angada and Vibhishana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Waging a dreadful quarrel (kurvantyaḥ kalahaṃ ghoram), terrible sārikā birds (sārikāḥ) with harsh, frightful cries (dāruṇārutāḥ) plummeted by the hundreds around his chariot.
+Waging a dreadful quarrel (_kurvantyaḥ kalahaṃ ghoram_), terrible _sārikā_ birds (_sārikāḥ_) with harsh, frightful cries (_dāruṇārutāḥ_) plummeted by the hundreds around his chariot.
 </details>
 </details>
 
@@ -1550,7 +1550,7 @@ steady light.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From their flanks his steeds continuously shed sparks of fire (jaghanebhyaḥ sphuliṅgāḥ) and from their eyes tears (netrebhyo 'śrūṇi), discharging fire and water simultaneously (tulyam agniṃ ca vāri ca).
+From their flanks his steeds continuously shed sparks of fire (_jaghanebhyaḥ sphuliṅgāḥ_) and from their eyes tears (_netrebhyo &#x27;śrūṇi_), discharging fire and water simultaneously (_tulyam agniṃ ca vāri ca_).
 </details>
 </details>
 
@@ -1616,7 +1616,7 @@ charming.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Many such terrible and fearsome portents (samutpātā bhayāvahāḥ) arose on all sides, foreboding the destruction of Rāvaṇa (rāvaṇasya vināśāya).
+Many such terrible and fearsome portents (_samutpātā bhayāvahāḥ_) arose on all sides, foreboding the destruction of Rāvaṇa (_rāvaṇasya vināśāya_).
 </details>
 </details>
 
@@ -1693,7 +1693,7 @@ on the battle-field by his own people and the army shone like Indra the lord of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For Rāma, however, gentle and auspicious omens (nimittāni saumyāni ca śivāni ca) heralding victory (jaya-śaṃsīni) manifested themselves on every side.
+For Rāma, however, gentle and auspicious omens (_nimittāni saumyāni ca śivāni ca_) heralding victory (_jaya-śaṃsīni_) manifested themselves on every side.
 </details>
 </details>
 

@@ -48,7 +48,7 @@ As vānaras and sages acclaim the vanished Sītā, Rāma leans weeping upon his 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Vaidehī had entered Rasātala (rasātalaṃ praviṣṭāyāṃ vaidehyām), all the vānaras and the sages cried out “Well done, virtuous lady!” (cukruśuḥ sādhu sādhvīti) in the presence of Rāma (rāma-sannidhau).
+When Vaidehī had entered Rasātala (_rasātalaṃ praviṣṭāyāṃ vaidehyām_), all the vānaras and the sages cried out “Well done, virtuous lady!” (_cukruśuḥ sādhu sādhvīti_) in the presence of Rāma (_rāma-sannidhau_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ When Vaidehī had entered Rasātala (rasātalaṃ praviṣṭāyāṃ vaidehyām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaning upon his sacrificial wooden staff (daṇḍakāṣṭham avaṣṭabhya), his eyes brimming with tears (bāṣpa-vyākulitekṣaṇaḥ), with bowed head (avākśirāḥ) and downcast spirit (dīnamanāḥ), Rāma became deeply distressed (suduḥkhitaḥ).
+Leaning upon his sacrificial wooden staff (_daṇḍakāṣṭham avaṣṭabhya_), his eyes brimming with tears (_bāṣpa-vyākulitekṣaṇaḥ_), with bowed head (_avākśirāḥ_) and downcast spirit (_dīnamanāḥ_), Rāma became deeply distressed (_suduḥkhitaḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Leaning upon his sacrificial wooden staff (daṇḍakāṣṭham avaṣṭabhya)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again and again (bahuśo bāṣpam utsṛjan), Rāma, overcome by wrath and grief (krodha-śoka-samāviṣṭaḥ), spoke these words:
+Having wept for a long while (_sa ruditvā ciraṃ kālam_), shedding tears again and again (_bahuśo bāṣpam utsṛjan_), Rāma, overcome by wrath and grief (_krodha-śoka-samāviṣṭaḥ_), spoke these words:
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My mind seems about to touch a sorrow never known before (abhūtapūrvaṃ śokaṃ me manaḥ spraṣṭum ivecchati), since before my very eyes (paśyato me) Sītā has vanished like embodied Śrī (naṣṭā sītā śrīr iva rūpiṇī)!
+“My mind seems about to touch a sorrow never known before (_abhūtapūrvaṃ śokaṃ me manaḥ spraṣṭum ivecchati_), since before my very eyes (_paśyato me_) Sītā has vanished like embodied Śrī (_naṣṭā sītā śrīr iva rūpiṇī_)!
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old that Sītā disappeared beyond the great ocean in Laṅkā (sā ’darśanaṃ purā sītā laṅkāpāre mahodadheḥ), yet even from there she was brought back by me (tataś cāpi mayānītā)—how much more so from the depths of the earth (kiṃ punar vasudhātalāt)!
+“Of old that Sītā disappeared beyond the great ocean in Laṅkā (_sā ’darśanaṃ purā sītā laṅkāpāre mahodadheḥ_), yet even from there she was brought back by me (_tataś cāpi mayānītā_)—how much more so from the depths of the earth (_kiṃ punar vasudhātalāt_)!
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Goddess Earth, O revered lady (vasudhe devi bhavati), let Sītā be restored to me (sītā niryātyatāṃ mama), or else I shall display my wrath so that you truly know who I am (darśayiṣyāmi vā roṣaṃ yathā mām avagacchasi)!”
+“O Goddess Earth, O revered lady (_vasudhe devi bhavati_), let Sītā be restored to me (_sītā niryātyatāṃ mama_), or else I shall display my wrath so that you truly know who I am (_darśayiṣyāmi vā roṣaṃ yathā mām avagacchasi_)!”
 </details>
 </details>
 
@@ -245,7 +245,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Granted, you are indeed my mother-in-law (kāmaṃ śvaśrūr mamaiva tvam), for of old Maithilī was lifted forth from you (tvatsakāśād ... uddhṛtā purā) by Janaka as he plowed with the plow in his hand (karṣatā halahastena).
+“Granted, you are indeed my mother-in-law (_kāmaṃ śvaśrūr mamaiva tvam_), for of old Maithilī was lifted forth from you (_tvatsakāśād ... uddhṛtā purā_) by Janaka as he plowed with the plow in his hand (_karṣatā halahastena_).
 </details>
 </details>
 
@@ -276,7 +276,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore let Sītā be restored to me (tasmān niryātyatāṃ sītā), or else grant me too an opening (vivaraṃ vā prayaccha me), that I may dwell together with her (vaseyaṃ sahitas tayā) in Pātāla or upon the vault of heaven (pātāle nākapṛṣṭhe vā)!
+“Therefore let Sītā be restored to me (_tasmān niryātyatāṃ sītā_), or else grant me too an opening (_vivaraṃ vā prayaccha me_), that I may dwell together with her (_vaseyaṃ sahitas tayā_) in Pātāla or upon the vault of heaven (_pātāle nākapṛṣṭhe vā_)!
 </details>
 </details>
 
@@ -316,9 +316,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “Bring back that Sītā, for I am beside myself for Maithilī’s sake (matto ’haṃ maithilīkṛte); if you will not restore Sītā to me in her very form upon the earth’s surface (yathārūpāṃ mahītale),
+**9:** “Bring back that Sītā, for I am beside myself for Maithilī’s sake (_matto ’haṃ maithilīkṛte_); if you will not restore Sītā to me in her very form upon the earth’s surface (_yathārūpāṃ mahītale_),
 
-**10:** “I shall blast away your entire realm together with its mountains and forests (saparvata-vanāṃ kṛtsnāṃ vidhamiṣyāmi te sthitam); I shall destroy the earth—let all here become water (sarvam āpo bhavatv iha)!”
+**10:** “I shall blast away your entire realm together with its mountains and forests (_saparvata-vanāṃ kṛtsnāṃ vidhamiṣyāmi te sthitam_); I shall destroy the earth—let all here become water (_sarvam āpo bhavatv iha_)!”
 </details>
 </details>
 
@@ -349,7 +349,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Kākutstha spoke thus, seized by wrath and sorrow (krodha-śoka-samanvite), Brahmā, together with the hosts of gods (suragaṇaiḥ sārdham), addressed the delight of the Raghus:
+Even as Kākutstha spoke thus, seized by wrath and sorrow (_krodha-śoka-samanvite_), Brahmā, together with the hosts of gods (_suragaṇaiḥ sārdham_), addressed the delight of the Raghus:
 </details>
 </details>
 
@@ -380,7 +380,7 @@ Even as Kākutstha spoke thus, seized by wrath and sorrow (krodha-śoka-samanvit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāma, O Rāma, you ought not to give way to anguish (na santāpaṃ kartum arhasi), O observer of noble vows; remember your primordial nature (smara tvaṃ pūrvakaṃ bhāvam) and the counsel [taken of old] (mantraṃ ca), O vanquisher of foes!”
+“O Rāma, O Rāma, you ought not to give way to anguish (_na santāpaṃ kartum arhasi_), O observer of noble vows; remember your primordial nature (_smara tvaṃ pūrvakaṃ bhāvam_) and the counsel [taken of old] (_mantraṃ ca_), O vanquisher of foes!”
 </details>
 </details>
 
@@ -419,7 +419,7 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not indeed would I presume to remind you, O mighty-armed, peerless one (na khalu tvāṃ mahābāho smārayeyam anuttamam); yet at this very moment, O invincible one, recall your Vaiṣṇava birth (imaṃ muhūrtaṃ durdharṣa smara tvaṃ janma vaiṣṇavam).
+“Not indeed would I presume to remind you, O mighty-armed, peerless one (_na khalu tvāṃ mahābāho smārayeyam anuttamam_); yet at this very moment, O invincible one, recall your Vaiṣṇava birth (_imaṃ muhūrtaṃ durdharṣa smara tvaṃ janma vaiṣṇavam_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For spotless, virtuous Sītā, ever devoted to your primordial nature (tava pūrva-parāyaṇā), has gone happily to Nāgaloka by the power of austerity rooted in taking refuge in you (tvadāśraya-tapobalāt).
+“For spotless, virtuous Sītā, ever devoted to your primordial nature (_tava pūrva-parāyaṇā_), has gone happily to Nāgaloka by the power of austerity rooted in taking refuge in you (_tvadāśraya-tapobalāt_).
 </details>
 </details>
 
@@ -481,7 +481,7 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In heaven (svarge) your reunion with her will surely come to pass again (saṅgamo bhūyo bhaviṣyati na saṃśayaḥ); now heed what I declare in the midst of this assembly (asyās tu pariṣanmadhye).
+“In heaven (_svarge_) your reunion with her will surely come to pass again (_saṅgamo bhūyo bhaviṣyati na saṃśayaḥ_); now heed what I declare in the midst of this assembly (_asyās tu pariṣanmadhye_).
 </details>
 </details>
 
@@ -512,7 +512,7 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this very poem (etad eva hi kāvyam), the highest of all poems, which you have heard, will expound everything to you in full detail, O Rāma—of this there is no doubt (sarvaṃ vistarato rāma vyākhyāsyati na saṃśayaḥ).
+“For this very poem (_etad eva hi kāvyam_), the highest of all poems, which you have heard, will expound everything to you in full detail, O Rāma—of this there is no doubt (_sarvaṃ vistarato rāma vyākhyāsyati na saṃśayaḥ_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From your birth onward, O hero, your experience of joys and sorrows (janma-prabhṛti ... sukha-duḥkhopasevanam), together with what is yet to come thereafter (bhaviṣyad uttaraṃ ceha), has all been composed here by Vālmīki.”
+“From your birth onward, O hero, your experience of joys and sorrows (_janma-prabhṛti ... sukha-duḥkhopasevanam_), together with what is yet to come thereafter (_bhaviṣyad uttaraṃ ceha_), has all been composed here by Vālmīki.”
 </details>
 </details>
 
@@ -582,7 +582,7 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This Ādikāvya, O Rāma, is wholly established in you (ādikāvyam idaṃ rāma tvayi sarvaṃ pratiṣṭhitam); for no one other than Rāghava is worthy to partake of the renown of poems (na hy anyo ’rhati kāvyānāṃ yaśobhāg rāghavād ṛte).
+“This Ādikāvya, O Rāma, is wholly established in you (_ādikāvyam idaṃ rāma tvayi sarvaṃ pratiṣṭhitam_); for no one other than Rāghava is worthy to partake of the renown of poems (_na hy anyo ’rhati kāvyānāṃ yaśobhāg rāghavād ṛte_).
 </details>
 </details>
 
@@ -613,7 +613,7 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All this concerning you was indeed heard of old by me together with the gods (śrutaṃ te pūrvam etad dhi mayā sarvaṃ suraiḥ saha)—divine, wondrous in form, true in utterance, and unveiled (satyavākyam anāvṛtam).
+“All this concerning you was indeed heard of old by me together with the gods (_śrutaṃ te pūrvam etad dhi mayā sarvaṃ suraiḥ saha_)—divine, wondrous in form, true in utterance, and unveiled (_satyavākyam anāvṛtam_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore do you, O tiger among men, well-composed in dharma (dharmeṇa susamāhitaḥ), listen to the remaining, future portion of the poem Rāmāyaṇa (śeṣaṃ bhaviṣyaṃ ... kāvyaṃ rāmāyaṇaṃ śṛṇu), O Kākutstha!
+“Therefore do you, O tiger among men, well-composed in dharma (_dharmeṇa susamāhitaḥ_), listen to the remaining, future portion of the poem Rāmāyaṇa (_śeṣaṃ bhaviṣyaṃ ... kāvyaṃ rāmāyaṇaṃ śṛṇu_), O Kākutstha!
 </details>
 </details>
 
@@ -678,7 +678,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Uttara’ by name is this remaining section of the poem here (uttaraṃ nāma kāvyasya śeṣam atra), O greatly famed one; hear that supreme portion, O mighty-splendored one, together with the sages (ṛṣibhiḥ sārdham uttamam).
+“‘Uttara’ by name is this remaining section of the poem here (_uttaraṃ nāma kāvyasya śeṣam atra_), O greatly famed one; hear that supreme portion, O mighty-splendored one, together with the sages (_ṛṣibhiḥ sārdham uttamam_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, this supreme portion must not be heard by any other, O Kākutstha (na khalv anyena ... śrotavyam), save by you alone, O supreme sage-king (paramam ṛṣiṇā ... tvayaiva), O hero, O delight of the Raghus!”
+“Indeed, this supreme portion must not be heard by any other, O Kākutstha (_na khalv anyena ... śrotavyam_), save by you alone, O supreme sage-king (_paramam ṛṣiṇā ... tvayaiva_), O hero, O delight of the Raghus!”
 </details>
 </details>
 
@@ -751,7 +751,7 @@ Brahmā ascends to heaven while the sages of Brahmaloka stay behind with his lea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus much (etāvad uktvā vacanam), Lord Brahmā, sovereign of the three worlds (tribhuvaneśvaraḥ), departed to heaven (jagāma tridivam) together with the gods and their kindred (devaiḥ saha sabāndhavaiḥ).
+Having spoken thus much (_etāvad uktvā vacanam_), Lord Brahmā, sovereign of the three worlds (_tribhuvaneśvaraḥ_), departed to heaven (_jagāma tridivam_) together with the gods and their kindred (_devaiḥ saha sabāndhavaiḥ_).
 </details>
 </details>
 
@@ -784,7 +784,7 @@ Having spoken thus much (etāvad uktvā vacanam), Lord Brahmā, sovereign of the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those great-souled, mighty-splendored sages of Brahmaloka who were there (ṛṣayo brāhmalaukikāḥ), granted permission by Brahmā (brahmaṇā samanujñātāḥ), turned back [remained behind] (nyavartanta), eager to hear the future Uttara portion concerning Rāghava (uttaraṃ śrotumanaso bhaviṣyaṃ yac ca rāghave).
+And those great-souled, mighty-splendored sages of Brahmaloka who were there (_ṛṣayo brāhmalaukikāḥ_), granted permission by Brahmā (_brahmaṇā samanujñātāḥ_), turned back [remained behind] (_nyavartanta_), eager to hear the future Uttara portion concerning Rāghava (_uttaraṃ śrotumanaso bhaviṣyaṃ yac ca rāghave_).
 </details>
 </details>
 
@@ -818,7 +818,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then supremely resplendent Rāma, hearing the auspicious speech uttered by the God of gods (devadevasya bhāṣitām), spoke thus to Vālmīki:
+Then supremely resplendent Rāma, hearing the auspicious speech uttered by the God of gods (_devadevasya bhāṣitām_), spoke thus to Vālmīki:
 </details>
 </details>
 
@@ -849,7 +849,7 @@ Then supremely resplendent Rāma, hearing the auspicious speech uttered by the G
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O blessed one, the sages of Brahmaloka are eager to hear (śrotumanasaḥ) what is yet to come of my future Uttara story (bhaviṣyad uttaraṃ yan me); let it commence on the morrow (śvobhūte sampravartatām).”
+“O blessed one, the sages of Brahmaloka are eager to hear (_śrotumanasaḥ_) what is yet to come of my future Uttara story (_bhaviṣyad uttaraṃ yan me_); let it commence on the morrow (_śvobhūte sampravartatām_).”
 </details>
 </details>
 
@@ -897,7 +897,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having made this firm resolve (evaṃ viniścayaṃ kṛtvā), taking Kuśa and Lava with him (sampragṛhya kuśīlavau) and dismissing that multitude (taṃ janaughaṃ visṛjyātha), he repaired to the leaf-hut (parṇaśālām upāgamat); and as he grieved for that very Sītā (tām eva śocataḥ sītām), that night passed away (sā vyatīyāya śarvarī).
+Having made this firm resolve (_evaṃ viniścayaṃ kṛtvā_), taking Kuśa and Lava with him (_sampragṛhya kuśīlavau_) and dismissing that multitude (_taṃ janaughaṃ visṛjyātha_), he repaired to the leaf-hut (_parṇaśālām upāgamat_); and as he grieved for that very Sītā (_tām eva śocataḥ sītām_), that night passed away (_sā vyatīyāya śarvarī_).
 </details>
 </details>
 

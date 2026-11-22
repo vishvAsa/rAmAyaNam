@@ -92,9 +92,9 @@ sighs, his senses disturbed by grief.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then the lotus-eyed (kamala-patrākṣaḥ), dark-hued, peerless, and great Rāma spoke to that charioteer: “Announce me to my father (pitur ākhyāhi mām iti)!”
+**1:** Then the lotus-eyed (_kamala-patrākṣaḥ_), dark-hued, peerless, and great Rāma spoke to that charioteer: “Announce me to my father (_pitur ākhyāhi mām iti_)!”
 
-**2:** Sent by Rāma, that charioteer swiftly entered and beheld the king sighing heavily, his senses turbid with anguish (santāpa-kaluṣendriyam).
+**2:** Sent by Rāma, that charioteer swiftly entered and beheld the king sighing heavily, his senses turbid with anguish (_santāpa-kaluṣendriyam_).
 </details>
 </details>
 
@@ -164,9 +164,9 @@ agitated and approached him with joined palms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** He beheld the lord of the earth looking like the sun eclipsed by Rāhu (uparaktam ivādityam), like a fire covered with ashes (bhasma-cchannam ivānalam), and like a lake bereft of water (taṭākam iva nistoyam).
+**3:** He beheld the lord of the earth looking like the sun eclipsed by Rāhu (_uparaktam ivādityam_), like a fire covered with ashes (_bhasma-cchannam ivānalam_), and like a lake bereft of water (_taṭākam iva nistoyam_).
 
-**4:** Having respectfully addressed (ābodhya) him whose mind was utterly distraught (paramākula-cetanam) and who was grieving solely for Rāma, the wise charioteer spoke with joined palms.
+**4:** Having respectfully addressed (_ābodhya_) him whose mind was utterly distraught (_paramākula-cetanam_) and who was grieving solely for Rāma, the wise charioteer spoke with joined palms.
 </details>
 </details>
 
@@ -218,7 +218,7 @@ slow and sweet voice, overcome with fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-First greeting that monarch with a benediction of victory (jayāśiṣā), the charioteer spoke in a low and gentle voice faltering with fear (bhaya-viklavayā vācā mandayā ślakṣṇayā).
+First greeting that monarch with a benediction of victory (_jayāśiṣā_), the charioteer spoke in a low and gentle voice faltering with fear (_bhaya-viklavayā vācā mandayā ślakṣṇayā_).
 </details>
 </details>
 
@@ -320,11 +320,11 @@ with rays of light, displaying royal qualities."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “Here stands your son, that tiger among men (puruṣa-vyāghraḥ), at the doorway, having given away his wealth to the Brāhmaṇas and everything to his dependents (upajīvinām)!”
+**6:** “Here stands your son, that tiger among men (_puruṣa-vyāghraḥ_), at the doorway, having given away his wealth to the Brāhmaṇas and everything to his dependents (_upajīvinām_)!”
 
-**7:** “May fortune attend you (bhadraṃ ते)! Let that Rāma of unfailing valour (satya-parākramaḥ) behold you; having taken leave of all his friends (sarvān suhṛda āpṛcchya), he now desires to see you.
+**7:** “May fortune attend you (_bhadraṃ ते_)! Let that Rāma of unfailing valour (_satya-parākramaḥ_) behold you; having taken leave of all his friends (_sarvān suhṛda āpṛcchya_), he now desires to see you.
 
-**8:** “He is about to depart for the great forest (gamiṣyati mahāraṇyam)—behold him, O lord of the earth, encircled by all royal virtues as the sun is encircled by its rays (ādityam iva raśmibhiḥ)!”
+**8:** “He is about to depart for the great forest (_gamiṣyati mahāraṇyam_)—behold him, O lord of the earth, encircled by all royal virtues as the sun is encircled by its rays (_ādityam iva raśmibhiḥ_)!”
 </details>
 </details>
 
@@ -377,7 +377,7 @@ by his depth of character and who is blemish less like a sky, replied to Sumantr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That righteous-souled lord of men, truthful of speech (satya-vākyaḥ), like the ocean in depth (gāmbhīryāt sāgaropamaḥ) and spotless like the sky (ākāśa iva niṣpaṅkaḥ), replied to him:
+That righteous-souled lord of men, truthful of speech (_satya-vākyaḥ_), like the ocean in depth (_gāmbhīryāt sāgaropamaḥ_) and spotless like the sky (_ākāśa iva niṣpaṅkaḥ_), replied to him:
 </details>
 </details>
 
@@ -430,7 +430,7 @@ to see the virtuous Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Sumantra, bring hither all my wives who are here in the palace (ye kecid iha māmakāḥ); surrounded by all my consorts (dāraiḥ parivṛtaḥ sarvaiḥ), I wish to behold Rāghava!”
+“O Sumantra, bring hither all my wives who are here in the palace (_ye kecid iha māmakāḥ_); surrounded by all my consorts (_dāraiḥ parivṛtaḥ sarvaiḥ_), I wish to behold Rāghava!”
 </details>
 </details>
 
@@ -483,7 +483,7 @@ Sumantra, after entering the gynaecium, spoke these words to those women as foll
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing swiftly into the inner apartments (antaḥpuram atītyaiva), he spoke these words to those royal women: “The noble king summons you (āryo hvayati vo rājā); proceed thither without delay (mā ciram)!”
+Passing swiftly into the inner apartments (_antaḥpuram atītyaiva_), he spoke these words to those royal women: “The noble king summons you (_āryo hvayati vo rājā_); proceed thither without delay (_mā ciram_)!”
 </details>
 </details>
 
@@ -535,7 +535,7 @@ palace, after knowing the instructions of their husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Sumantra at the king’s command, all those women set out for that palace (pracakramus tad bhavanam), understanding the mandate of their lord.
+Thus addressed by Sumantra at the king’s command, all those women set out for that palace (_pracakramus tad bhavanam_), understanding the mandate of their lord.
 </details>
 </details>
 
@@ -596,7 +596,7 @@ to their husband), with their eyes reddened, went there slowly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Three hundred and fifty women there (ardha-sapta-śatās tatra pramadāḥ), their eyes reddened with weeping (tāmra-locanāḥ) and steadfast in their vows of chastity (dhṛta-vratāḥ), encircled Kausalyā and walked slowly thither.
+Three hundred and fifty women there (_ardha-sapta-śatās tatra pramadāḥ_), their eyes reddened with weeping (_tāmra-locanāḥ_) and steadfast in their vows of chastity (_dhṛta-vratāḥ_), encircled Kausalyā and walked slowly thither.
 </details>
 </details>
 
@@ -651,7 +651,7 @@ Sumantra! Bring my son here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his wives had arrived, the lord of the earth looked upon them and spoke to that charioteer: “O Sumantra, bring hither my son (ānaya me sutam)!”
+When his wives had arrived, the lord of the earth looked upon them and spoke to that charioteer: “O Sumantra, bring hither my son (_ānaya me sutam_)!”
 </details>
 </details>
 
@@ -703,7 +703,7 @@ presence.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking Rāma along with Lakṣmaṇa and Maithilī, that charioteer went swiftly straight into the presence of the lord of the earth (sakāśaṃ jagatī-pateḥ).
+Taking Rāma along with Lakṣmaṇa and Maithilī, that charioteer went swiftly straight into the presence of the lord of the earth (_sakāśaṃ jagatī-pateḥ_).
 </details>
 </details>
 
@@ -756,7 +756,7 @@ folded hands, distressed as he was, rose swiftly from his seat.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his son approaching from afar with joined palms (dṛṣṭvā cārāt kṛtāñjalim), that afflicted king, surrounded by his womenfolk, sprang up swiftly from his seat (utpapātāsanāt tūrṇam).
+Seeing his son approaching from afar with joined palms (_dṛṣṭvā cārāt kṛtāñjalim_), that afflicted king, surrounded by his womenfolk, sprang up swiftly from his seat (_utpapātāsanāt tūrṇam_).
 </details>
 </details>
 
@@ -812,7 +812,7 @@ fell on the floor senseless, afflicted as he was with sorrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma, that lord of the people rushed toward him with speed (abhidudrāva vegena); yet before he could reach him (tam asamprāpya), stricken with grief, he fell to the ground unconscious (papāta bhuvi mūrcchitaḥ).
+Beholding Rāma, that lord of the people rushed toward him with speed (_abhidudrāva vegena_); yet before he could reach him (_tam asamprāpya_), stricken with grief, he fell to the ground unconscious (_papāta bhuvi mūrcchitaḥ_).
 </details>
 </details>
 
@@ -864,7 +864,7 @@ seemed unconscious with full of grief as he was, through agony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma swiftly rushed toward him, as did the great chariot-warrior Lakṣmaṇa,as the king lay thus overwhelmed by sorrow and as if bereft of consciousness (visaṃjñam iva duḥkhena).
+Rāma swiftly rushed toward him, as did the great chariot-warrior Lakṣmaṇa,as the king lay thus overwhelmed by sorrow and as if bereft of consciousness (_visaṃjñam iva duḥkhena_).
 </details>
 </details>
 
@@ -924,7 +924,7 @@ from the royal palace, mixed with the sound of tinkling ornaments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the royal palace there suddenly arose the wailing of a thousand women (strī-sahasra-ninādaś ca saṃjajñe), crying “Alas, alas, O Rāma!” mingled with the clinking of their ornaments (bhūṣaṇa-dhvani-miśritaḥ).
+In the royal palace there suddenly arose the wailing of a thousand women (_strī-sahasra-ninādaś ca saṃjajñe_), crying “Alas, alas, O Rāma!” mingled with the clinking of their ornaments (_bhūṣaṇa-dhvani-miśritaḥ_).
 </details>
 </details>
 
@@ -976,7 +976,7 @@ Seetha laid him on the couch.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing him with their arms, both Rāma and Lakṣmaṇa, weeping together with Sītā, gently seated the king upon his couch (paryaṅke... samaveśayan).
+Embracing him with their arms, both Rāma and Lakṣmaṇa, weeping together with Sītā, gently seated the king upon his couch (_paryaṅke... samaveśayan_).
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ within a short time and who was inundated in a sea of sorrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the lord of the earth had regained consciousness after a brief while (muhūrtasya labdha-saṃjñam) and was plunged in an ocean of tears and grief (bāṣpa-śokārṇava-pariplutam), Rāma spoke to him with joined palms:
+Then, when the lord of the earth had regained consciousness after a brief while (_muhūrtasya labdha-saṃjñam_) and was plunged in an ocean of tears and grief (_bāṣpa-śokārṇava-pariplutam_), Rāma spoke to him with joined palms:
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ towards me, who am about to leave for Dandaka forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I take leave of you, O great king (āpṛcche tvāṃ mahārāja); you are the lord of us all. Look upon me auspiciously with your blessing (paśya tvaṃ kuśalena mām) as I set forth for the Daṇḍaka forest!
+“I take leave of you, O great king (_āpṛcche tvāṃ mahārāja_); you are the lord of us all. Look upon me auspiciously with your blessing (_paśya tvaṃ kuśalena mām_) as I set forth for the Daṇḍaka forest!
 </details>
 </details>
 
@@ -1161,9 +1161,9 @@ intended to go to forest for practising austerities)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “Grant leave to Lakṣmaṇa as well, and let Sītā follow me to the forest; though dissuaded by me with many true reasons (kāraṇair bahubhis tathyair vāryamāṇau), those two do not wish to stay behind.
+**23:** “Grant leave to Lakṣmaṇa as well, and let Sītā follow me to the forest; though dissuaded by me with many true reasons (_kāraṇair bahubhis tathyair vāryamāṇau_), those two do not wish to stay behind.
 
-**24:** “Casting aside grief, O bestower of honour (mānada), grant leave to us all—Lakṣmaṇa, myself, and Sītā—as Prajāpati Brahmā gave leave to his own sons (prajāpatir ivātmajān)!”
+**24:** “Casting aside grief, O bestower of honour (_mānada_), grant leave to us all—Lakṣmaṇa, myself, and Sītā—as Prajāpati Brahmā gave leave to his own sons (_prajāpatir ivātmajān_)!”
 </details>
 </details>
 
@@ -1226,7 +1226,7 @@ forest, the king Dasaratha spoke thus:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon Rāghava, who stood waiting with an untroubled mind (pratīkṣamāṇam avyagram) for the permission of the lord of the earth to depart for his forest residence (vana-vāsāya), the king spoke:
+Gazing upon Rāghava, who stood waiting with an untroubled mind (_pratīkṣamāṇam avyagram_) for the permission of the lord of the earth to depart for his forest residence (_vana-vāsāya_), the king spoke:
 </details>
 </details>
 
@@ -1278,7 +1278,7 @@ the king of Ayodhya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rāghava, I have been deluded and ensnared by the boon granted to Kaikeyī (kaikeyyā vara-dānena mohitaḥ); confining me by force (nigṛhya mām), do you yourself become king in Ayodhyā today!”
+“O Rāghava, I have been deluded and ensnared by the boon granted to Kaikeyī (_kaikeyyā vara-dānena mohitaḥ_); confining me by force (_nigṛhya mām_), do you yourself become king in Ayodhyā today!”
 </details>
 </details>
 
@@ -1332,7 +1332,7 @@ palms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the monarch, Rāma, the foremost of upholders of dharma (dharma-bhṛtāṃ varaḥ) and skilled in speech (vākya-kovidaḥ), joined his palms and replied to his father:
+Thus addressed by the monarch, Rāma, the foremost of upholders of dharma (_dharma-bhṛtāṃ varaḥ_) and skilled in speech (_vākya-kovidaḥ_), joined his palms and replied to his father:
 </details>
 </details>
 
@@ -1387,7 +1387,7 @@ will stay in the forest. For my sake, do not generate untruth about you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May you remain lord of the earth for a thousand years (varṣa-sahasrāya pṛthivyā nṛpate patiḥ), O king! I, however, shall dwell in the forest; I have no desire for sovereignty (na me rājyasya kāṅkṣitā).
+“May you remain lord of the earth for a thousand years (_varṣa-sahasrāya pṛthivyā nṛpate patiḥ_), O king! I, however, shall dwell in the forest; I have no desire for sovereignty (_na me rājyasya kāṅkṣitā_).
 </details>
 </details>
 
@@ -1440,7 +1440,7 @@ your feet once more after fulfilling my promise."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having spent nine and five years (nava pañca ca varṣāṇi) sporting in the forest residence at your command, I shall once again clasp your feet at the conclusion of the vow (pratijñānte), O lord of men!”
+“Having spent nine and five years (_nava pañca ca varṣāṇi_) sporting in the forest residence at your command, I shall once again clasp your feet at the conclusion of the vow (_pratijñānte_), O lord of men!”
 </details>
 </details>
 
@@ -1495,7 +1495,7 @@ weeping to that beloved son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping and stricken with anguish, bound by the noose of truth (satya-pāśena saṃyutaḥ) and secretly prodded by Kaikeyī (kaikeyyā codyamānas tu mithaḥ), the king spoke to his beloved son:
+Weeping and stricken with anguish, bound by the noose of truth (_satya-pāśena saṃyutaḥ_) and secretly prodded by Kaikeyī (_kaikeyyā codyamānas tu mithaḥ_), the king spoke to his beloved son:
 </details>
 </details>
 
@@ -1556,7 +1556,7 @@ path of travel be auspicious, undistracted and fearless from any quarter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For your spiritual welfare, worldly prosperity, and safe return (śreyase vṛddhaye tāta punar-āgamanāya ca), set forth untroubled along an auspicious path free from every fear (panthānam akutobhayam)!
+“For your spiritual welfare, worldly prosperity, and safe return (_śreyase vṛddhaye tāta punar-āgamanāya ca_), set forth untroubled along an auspicious path free from every fear (_panthānam akutobhayam_)!
 </details>
 </details>
 
@@ -1633,9 +1633,9 @@ one day, I may live happily."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** “For the resolve of you whose very nature is truth (satyātmanaḥ) and whose mind is fixed upon dharma (dharmābhimanasaḥ), O delight of the Raghus, cannot possibly be turned back (na... saṃnivartayituṃ buddhiḥ śakyate).
+**32:** “For the resolve of you whose very nature is truth (_satyātmanaḥ_) and whose mind is fixed upon dharma (_dharmābhimanasaḥ_), O delight of the Raghus, cannot possibly be turned back (_na... saṃnivartayituṃ buddhiḥ śakyate_).
 
-**33:** “Yet today, for this oncoming night (adya tv idānīṃ rajanīm), O son, do not depart on any account! By beholding you for even a single day (ekāhaṃ darśanenāpi), let me abide in peace for so long.
+**33:** “Yet today, for this oncoming night (_adya tv idānīṃ rajanīm_), O son, do not depart on any account! By beholding you for even a single day (_ekāhaṃ darśanenāpi_), let me abide in peace for so long.
 </details>
 </details>
 
@@ -1689,7 +1689,7 @@ all the desired objects, you may leave tomorrow at dawn."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding your mother and me, dwell here for this night today (vasemām adya śarvarīm); gratified with all desired comforts (tarpitaḥ sarva-kāmaiḥ), you shall set forth tomorrow at daybreak (śvaḥ kālye sādhayiṣyasi).
+“Beholding your mother and me, dwell here for this night today (_vasemām adya śarvarīm_); gratified with all desired comforts (_tarpitaḥ sarva-kāmaiḥ_), you shall set forth tomorrow at daybreak (_śvaḥ kālye sādhayiṣyasi_).
 </details>
 </details>
 
@@ -1742,7 +1742,7 @@ you are going to the forest a solitary place, leaving beloved ones."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A most difficult deed is being performed by you in every way (duṣkaraṃ kriyate putra sarvathā), O beloved Rāghava; for solely for the sake of what is dear to me in the hereafter (mat-priyārtham), you have thus resorted to the forest!
+“A most difficult deed is being performed by you in every way (_duṣkaraṃ kriyate putra sarvathā_), O beloved Rāghava; for solely for the sake of what is dear to me in the hereafter (_mat-priyārtham_), you have thus resorted to the forest!
 </details>
 </details>
 
@@ -1824,9 +1824,9 @@ deceit, derived by me from her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Yet this is by no means pleasing to me, O son—I swear by truth, O Rāghava! I have been made to swerve from my purpose (calitas tv asmi) by a deceitful woman who is like fire concealed under ashes (striyā bhasmāgni-kalpayā)!”
+**36:** “Yet this is by no means pleasing to me, O son—I swear by truth, O Rāghava! I have been made to swerve from my purpose (_calitas tv asmi_) by a deceitful woman who is like fire concealed under ashes (_striyā bhasmāgni-kalpayā_)!”
 
-**37:** “The deceitful snare that has befallen me (vañcanā yā tu labdhā me)—that snare you wish to carry me across (nistartum icchasi), impelled by this Kaikeyī, the destroyer of noble conduct (vṛtta-sādinyā)!
+**37:** “The deceitful snare that has befallen me (_vañcanā yā tu labdhā me_)—that snare you wish to carry me across (_nistartum icchasi_), impelled by this Kaikeyī, the destroyer of noble conduct (_vṛtta-sādinyā_)!
 </details>
 </details>
 
@@ -1878,7 +1878,7 @@ father as one who does not have false promises."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor is this at all most astonishing (na caitad āścaryatamam) that you, my eldest son, wish to render your father free from untruthful speech (apānṛta-kathaṃ... kartum icchasi), O my son!”
+“Nor is this at all most astonishing (_na caitad āścaryatamam_) that you, my eldest son, wish to render your father free from untruthful speech (_apānṛta-kathaṃ... kartum icchasi_), O my son!”
 </details>
 </details>
 
@@ -1931,7 +1931,7 @@ upset. Then Rama spoke these words.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, having heard the speech of his afflicted father, spoke these words in distress (dīno vacanam abravīt) alongside his brother Lakṣmaṇa:
+Then Rāma, having heard the speech of his afflicted father, spoke these words in distress (_dīno vacanam abravīt_) alongside his brother Lakṣmaṇa:
 </details>
 </details>
 
@@ -1987,7 +1987,7 @@ me tomorrow? Therefore I desire only to get away in lieu of all these enjoyments
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What blessings and comforts I might obtain today, who will bestow them upon me tomorrow (ko me śvas tān pradāsyati)? Therefore, in preference to all pleasures, I choose immediate departure (apakramaṇam evātaḥ sarva-kāmair ahaṃ vṛṇe)!
+“What blessings and comforts I might obtain today, who will bestow them upon me tomorrow (_ko me śvas tān pradāsyati_)? Therefore, in preference to all pleasures, I choose immediate departure (_apakramaṇam evātaḥ sarva-kāmair ahaṃ vṛṇe_)!
 </details>
 </details>
 
@@ -2033,7 +2033,7 @@ people, imbued with riches and food grains, may be given to Bharata."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let this earth—with its realms and peoples, teeming with wealth and grain (dhana-dhānya-samākulā)—renounced by me, be bestowed upon Bharata (mayā visṛṣṭā vasudhā bharatāya pradīyatām)!
+“Let this earth—with its realms and peoples, teeming with wealth and grain (_dhana-dhānya-samākulā_)—renounced by me, be bestowed upon Bharata (_mayā visṛṣṭā vasudhā bharatāya pradīyatām_)!
 </details>
 </details>
 
@@ -2091,7 +2091,7 @@ Be you a truthful man."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My mind, resolved upon dwelling in the forest (vana-vāsa-kṛtā buddhiḥ), shall not waver today; as for the boon that was granted by you in battle to Kaikeyī, O bestower of boons—
+“My mind, resolved upon dwelling in the forest (_vana-vāsa-kṛtā buddhiḥ_), shall not waver today; as for the boon that was granted by you in battle to Kaikeyī, O bestower of boons—
 </details>
 </details>
 
@@ -2151,9 +2151,9 @@ forest-dwellers for fourteen years."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** “—let that boon be granted in its entirety (dīyatāṃ nikhilenaiva), and do you remain true to your word (satyas tvaṃ bhava pārthiva), O king! As for me, faithfully observing your command as spoken—
+**43:** “—let that boon be granted in its entirety (_dīyatāṃ nikhilenaiva_), and do you remain true to your word (_satyas tvaṃ bhava pārthiva_), O king! As for me, faithfully observing your command as spoken—
 
-**44:** “—I shall dwell for fourteen years in the forest along with the forest-dwelling ascetics (vane vanacaraiḥ saha). Let there be no hesitation (mā vimarśaḥ); let the earth be given to Bharata!
+**44:** “—I shall dwell for fourteen years in the forest along with the forest-dwelling ascetics (_vane vanacaraiḥ saha_). Let there be no hesitation (_mā vimarśaḥ_); let the earth be given to Bharata!
 </details>
 </details>
 
@@ -2202,7 +2202,7 @@ directed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For neither is sovereignty desired by me, nor personal happiness, nor anything dear to myself (sukham ātmani vā priyam), so much as to execute your command exactly as ordained (yathā-nideśaṃ kartuṃ vai tavaiva), O delight of the Raghus!
+“For neither is sovereignty desired by me, nor personal happiness, nor anything dear to myself (_sukham ātmani vā priyam_), so much as to execute your command exactly as ordained (_yathā-nideśaṃ kartuṃ vai tavaiva_), O delight of the Raghus!
 </details>
 </details>
 
@@ -2254,7 +2254,7 @@ rivers which is difficult to assail, indeed does not get agitated."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let your grief depart; do not be overwhelmed with tears (mā bhūr bāṣpa-pariplutaḥ)! For the unassailable ocean, the lord of rivers (samudraḥ saritāṃ patiḥ), never suffers agitation (na hi kṣubhyati).
+“Let your grief depart; do not be overwhelmed with tears (_mā bhūr bāṣpa-pariplutaḥ_)! For the unassailable ocean, the lord of rivers (_samudraḥ saritāṃ patiḥ_), never suffers agitation (_na hi kṣubhyati_).
 </details>
 </details>
 
@@ -2310,7 +2310,7 @@ enjoyments nor for heaven nor even for life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I desire neither the kingdom, nor happiness, nor the earth, nor all these pleasures, nor heaven, nor even to live (na svargaṃ na ca jīvitum)—
+“I desire neither the kingdom, nor happiness, nor the earth, nor all these pleasures, nor heaven, nor even to live (_na svargaṃ na ca jīvitum_)—
 </details>
 </details>
 
@@ -2357,7 +2357,7 @@ swear to you in your presence by truth and by virtue."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—so much as I desire you to be true to your word and not untruthful (tvām ahaṃ satyam icchāmi nānṛtaṃ puruṣarṣabha), O bull among men! In your very presence, I swear to you by truth and by my own good deeds (satyena sukṛtena ca te śape)!”
+“—so much as I desire you to be true to your word and not untruthful (_tvām ahaṃ satyam icchāmi nānṛtaṃ puruṣarṣabha_), O bull among men! In your very presence, I swear to you by truth and by my own good deeds (_satyena sukṛtena ca te śape_)!”
 </details>
 </details>
 
@@ -2421,7 +2421,7 @@ contain this grief, Oh Lord, for there is no going back upon my word."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor is it possible for me, O dear father, to remain here even for a single moment (na ca śakyaṃ mayā tāta sthātuṃ kṣaṇam api), O lord! Do you therefore restrain this grief (sa śokaṃ dhārayasvemam); for there can be no reversal of my resolve (na hi me 'sti viparyayaḥ).
+“Nor is it possible for me, O dear father, to remain here even for a single moment (_na ca śakyaṃ mayā tāta sthātuṃ kṣaṇam api_), O lord! Do you therefore restrain this grief (_sa śokaṃ dhārayasvemam_); for there can be no reversal of my resolve (_na hi me &#x27;sti viparyayaḥ_).
 </details>
 </details>
 
@@ -2474,7 +2474,7 @@ It was also replied by me that I would go. I shall redeem that pledge."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For I was expressly asked by Kaikeyī, ‘Go to the forest, O Rāghava!’ and I replied, ‘I am going!’—that pledged word of mine I must faithfully uphold (tat satyam anupālaye).
+“For I was expressly asked by Kaikeyī, ‘Go to the forest, O Rāghava!’ and I replied, ‘I am going!’—that pledged word of mine I must faithfully uphold (_tat satyam anupālaye_).
 </details>
 </details>
 
@@ -2526,7 +2526,7 @@ deer and rendered noisy by birds of various types."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do not give way to anxious longing (mā cotkaṇṭhāṃ kṛthā deva), O king! We shall sport happily in the forest (vane raṃsyāmahe vayam), which is filled with peaceful deer (praśānta-hariṇākīrṇe) and resonant with manifold birds.
+“Do not give way to anxious longing (_mā cotkaṇṭhāṃ kṛthā deva_), O king! We shall sport happily in the forest (_vane raṃsyāmahe vayam_), which is filled with peaceful deer (_praśānta-hariṇākīrṇe_) and resonant with manifold birds.
 </details>
 </details>
 
@@ -2572,7 +2572,7 @@ Therefore, I shall carry out the father's word, considering it as divine."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the father is declared in tradition to be a deity even unto the deities (pitā hi daivataṃ tāta devatānām api smṛtam); therefore, regarding you as the supreme divinity itself (daivatam ity eva), I shall fulfill my father’s word!
+“For the father is declared in tradition to be a deity even unto the deities (_pitā hi daivataṃ tāta devatānām api smṛtam_); therefore, regarding you as the supreme divinity itself (_daivatam ity eva_), I shall fulfill my father’s word!
 </details>
 </details>
 
@@ -2627,7 +2627,7 @@ fourteen years. Let this grief be given up."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When fourteen years have passed away (caturdaśasu varṣeṣu gateṣu), O best of kings, you shall behold me returned once more (punar drakṣyasi māṃ prāptam); let this anguish of yours be cast aside!”
+“When fourteen years have passed away (_caturdaśasu varṣeṣu gateṣu_), O best of kings, you shall behold me returned once more (_punar drakṣyasi māṃ prāptam_); let this anguish of yours be cast aside!”
 </details>
 </details>
 
@@ -2690,7 +2690,7 @@ in tears, ought to be consoled?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You by whom all this people, choked and stammering with tears (bāṣpa-kalo janaḥ), ought to be steadied and consoled (yena saṃstambhanīyo 'yaṃ sarvaḥ)—why have you yourself given way to perturbation (kimarthaṃ vikriyāṃ gataḥ), O tiger among men?
+“You by whom all this people, choked and stammering with tears (_bāṣpa-kalo janaḥ_), ought to be steadied and consoled (_yena saṃstambhanīyo &#x27;yaṃ sarvaḥ_)—why have you yourself given way to perturbation (_kimarthaṃ vikriyāṃ gataḥ_), O tiger among men?
 </details>
 </details>
 
@@ -2750,7 +2750,7 @@ for one following your instructions, shall proceed to the forest to dwell in it 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the city, the realm, and the entire earth renounced by me be given to Bharata (puraṃ ca rāṣṭraṃ ca mahī ca kevalā mayā visṛṣṭā bharatāya dīyatām); as for me, faithfully observing your command, I shall go to the forest to dwell for a long time (cirāya sevitum).
+“Let the city, the realm, and the entire earth renounced by me be given to Bharata (_puraṃ ca rāṣṭraṃ ca mahī ca kevalā mayā visṛṣṭā bharatāya dīyatām_); as for me, faithfully observing your command, I shall go to the forest to dwell for a long time (_cirāya sevitum_).
 </details>
 </details>
 
@@ -2812,7 +2812,7 @@ righteousness. Let the word of honour given by you(to Kaikeyi) come true."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let Bharata alone rule over this earth renounced by me—with its mountain ranges, cities, and bordering forests (sa-śaila-khaṇḍāṃ sa-puropakānanām)—within its peaceful and auspicious frontiers (śivāsu sīmāsv anuśāstu kevalam); whatever has been spoken by you, O king, so let it be!
+“Let Bharata alone rule over this earth renounced by me—with its mountain ranges, cities, and bordering forests (_sa-śaila-khaṇḍāṃ sa-puropakānanām_)—within its peaceful and auspicious frontiers (_śivāsu sīmāsv anuśāstu kevalam_); whatever has been spoken by you, O king, so let it be!
 </details>
 </details>
 
@@ -2877,7 +2877,7 @@ sensuous pleasures which is approved by the wise. Let your agony disappear, for 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My mind, O monarch, is not so set upon great pleasures (na me tathā pārthiva dhīyate mano mahatsu kāmeṣu) nor upon what is dear to myself, as upon your command approved by the wise (yathā nideśe tava śiṣṭa-sammate); let your grief on my account depart, O sinless one!”
+“My mind, O monarch, is not so set upon great pleasures (_na me tathā pārthiva dhīyate mano mahatsu kāmeṣu_) nor upon what is dear to myself, as upon your command approved by the wise (_yathā nideśe tava śiṣṭa-sammate_); let your grief on my account depart, O sinless one!”
 </details>
 </details>
 
@@ -2952,7 +2952,7 @@ Let your pledge(given to Kaikeyi) prove true."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore today, O sinless one, neither imperishable sovereignty (rājyam avyayam), nor all desires, nor the earth, nor Maithilī, nor even my cherished life (na cintitam) would I choose while stainings you with untruth (tvām anṛtena yojayan); let my vow be true, and so too let yours be true (satyaṃ vratam astu te tathā)!
+“Therefore today, O sinless one, neither imperishable sovereignty (_rājyam avyayam_), nor all desires, nor the earth, nor Maithilī, nor even my cherished life (_na cintitam_) would I choose while stainings you with untruth (_tvām anṛtena yojayan_); let my vow be true, and so too let yours be true (_satyaṃ vratam astu te tathā_)!
 </details>
 </details>
 
@@ -3012,7 +3012,7 @@ for you.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Feeding on fruits and roots in the forest (phalāni mūlāni ca bhakṣayan vane), beholding the mountains, rivers, and lakes, and entering the woodland with its variegated trees (vanaṃ praviśyaiva vicitra-pādapam), I shall be happy; let peace be yours (tavāstu nirvṛtiḥ)!”
+“Feeding on fruits and roots in the forest (_phalāni mūlāni ca bhakṣayan vane_), beholding the mountains, rivers, and lakes, and entering the woodland with its variegated trees (_vanaṃ praviśyaiva vicitra-pādapam_), I shall be happy; let peace be yours (_tavāstu nirvṛtiḥ_)!”
 </details>
 </details>
 
@@ -3073,7 +3073,7 @@ a little.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus overwhelmed by calamity (vyasanābhipannaḥ) and tormented by burning anguish and sorrow, that king embraced his son and, utterly bereft of consciousness (suvinaṣṭa-saṃjñaḥ), sank to the ground and stirred no more (naiva ciceṣṭa kiṃcit).
+Thus overwhelmed by calamity (_vyasanābhipannaḥ_) and tormented by burning anguish and sorrow, that king embraced his son and, utterly bereft of consciousness (_suvinaṣṭa-saṃjñaḥ_), sank to the ground and stirred no more (_naiva ciceṣṭa kiṃcit_).
 </details>
 </details>
 
@@ -3149,6 +3149,6 @@ into a swoon, while weeping. Everything there became loud lamenting.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the queens assembled there wept aloud, save for that one consort of the king, Kaikeyī (tāṃ varjayitvā naradeva-patnīm); weeping, Sumantra too fell into a swoon, and everything there became filled with cries of ‘Alas, alas!’ (hāhā-kṛtaṃ tatra babhūva sarvam).
+All the queens assembled there wept aloud, save for that one consort of the king, Kaikeyī (_tāṃ varjayitvā naradeva-patnīm_); weeping, Sumantra too fell into a swoon, and everything there became filled with cries of ‘Alas, alas!’ (_hāhā-kṛtaṃ tatra babhūva sarvam_).
 </details>
 </details>

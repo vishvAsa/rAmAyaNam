@@ -82,7 +82,7 @@ thickets of forest trees and waited. [4-14-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone swiftly (tvaritam gatvā) to Kiṣkindhā, the city of Vālī (vālinaḥ purīm), all of them concealed themselves (ātmānam āvṛtya) among the trees and stood in the dense forest (gahane vane).
+Having gone swiftly (_tvaritam gatvā_) to Kiṣkindhā, the city of Vālī (_vālinaḥ purīm_), all of them concealed themselves (_ātmānam āvṛtya_) among the trees and stood in the dense forest (_gahane vane_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ tremendous fury. [4-14-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Casting his gaze on every side (visārya sarvato dṛṣṭim) in the forest, broad-necked Sugrīva (sugrīvo vipulagrīvaḥ), who loved the woods (kānanapriyaḥ), summoned up fierce wrath (krodham āhārayad bhṛśam).
+Casting his gaze on every side (_visārya sarvato dṛṣṭim_) in the forest, broad-necked Sugrīva (_sugrīvo vipulagrīvaḥ_), who loved the woods (_kānanapriyaḥ_), summoned up fierce wrath (_krodham āhārayad bhṛśam_).
 </details>
 </details>
 
@@ -189,7 +189,7 @@ Vali for fight. [4-14-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, surrounded by his attendants (parivāraiḥ parivṛtaḥ), he uttered a dreadful roar (ninadam ghoram kṛtvā) and challenged [Vālī] to battle (yuddhāya cāhvayat), as though splitting the sky with his cries (nādair bhindann ivāmbaram).
+Then, surrounded by his attendants (_parivāraiḥ parivṛtaḥ_), he uttered a dreadful roar (_ninadam ghoram kṛtvā_) and challenged [Vālī] to battle (_yuddhāya cāhvayat_), as though splitting the sky with his cries (_nādair bhindann ivāmbaram_).
 </details>
 </details>
 
@@ -241,7 +241,7 @@ lion saw the adroit Rama and then said this sentence. [4-14-4b, 5a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thundering like a great storm-cloud (garjann iva mahāmeghaḥ) preceded by the rush of the wind (vāyuvegapuraḥsaraḥ), resembling the newly risen sun (bālārkasaḍṛśaḥ), and striding with the gait of a proud lion (dṛptasiṃhagatis tataḥ)—
+Thundering like a great storm-cloud (_garjann iva mahāmeghaḥ_) preceded by the rush of the wind (_vāyuvegapuraḥsaraḥ_), resembling the newly risen sun (_bālārkasaḍṛśaḥ_), and striding with the gait of a proud lion (_dṛptasiṃhagatis tataḥ_)—
 </details>
 </details>
 
@@ -333,9 +333,9 @@ submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** —beholding Rāma skilled in action (kriyādakṣam), Sugrīva spoke this word: “[To this city] encompassed by a snare of monkeys (harivāgurayā vyāptām) and adorned with arches of refined gold (taptakāñcanatoraṇām)—
+**5:** —beholding Rāma skilled in action (_kriyādakṣam_), Sugrīva spoke this word: “[To this city] encompassed by a snare of monkeys (_harivāgurayā vyāptām_) and adorned with arches of refined gold (_taptakāñcanatoraṇām_)—
 
-**6:** “—we have arrived at Vālī's city Kiṣkindhā (prāptāḥ sma kiṣkindhām vālinaḥ purīm), richly equipped with banners and war-engines (dhvajayantrāḍhyām)! That vow which was made by you (pratijñā yā kṛtā tvayā) of old, O hero, for the slaying of Vālī (vālivadhe purā)—
+**6:** “—we have arrived at Vālī&#x27;s city Kiṣkindhā (_prāptāḥ sma kiṣkindhām vālinaḥ purīm_), richly equipped with banners and war-engines (_dhvajayantrāḍhyām_)! That vow which was made by you (_pratijñā yā kṛtā tvayā_) of old, O hero, for the slaying of Vālī (_vālivadhe purā_)—
 </details>
 </details>
 
@@ -398,7 +398,7 @@ Sugreeva. [4-14-7b, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—make that [vow] bear fruit swiftly (saphalām kuru tām kṣipram), just as the arriving season (kāla ivāgataḥ) brings a creeper to fruit (latām)!” Thus addressed by Sugrīva, that righteous-souled Rāghava (dharmātmā sa rāghavaḥ)—
+“—make that [vow] bear fruit swiftly (_saphalām kuru tām kṣipram_), just as the arriving season (_kāla ivāgataḥ_) brings a creeper to fruit (_latām_)!” Thus addressed by Sugrīva, that righteous-souled Rāghava (_dharmātmā sa rāghavaḥ_)—
 </details>
 </details>
 
@@ -516,9 +516,9 @@ Tiiratha agree on the last rendering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** —that destroyer of foes (śatrusūdanaḥ), spoke this word to that very Sugrīva: “You have been marked with a token of recognition (kṛtābhijñānacihnas tvam) by this elephant-named creeper (anayā gajasāhvayā)!
+**8:** —that destroyer of foes (_śatrusūdanaḥ_), spoke this word to that very Sugrīva: “You have been marked with a token of recognition (_kṛtābhijñānacihnas tvam_) by this elephant-named creeper (_anayā gajasāhvayā_)!
 
-**9:** “Plucked (samutpāṭya) by Lakṣmaṇa, this [creeper] has been placed around your neck (eṣā kaṇṭhe kṛtā tava); and with that creeper clinging to your neck (latayā kaṇṭhasaktayā), O hero, you shine all the more (śobhase 'py adhikam)—
+**9:** “Plucked (_samutpāṭya_) by Lakṣmaṇa, this [creeper] has been placed around your neck (_eṣā kaṇṭhe kṛtā tava_); and with that creeper clinging to your neck (_latayā kaṇṭhasaktayā_), O hero, you shine all the more (_śobhase &#x27;py adhikam_)—
 </details>
 </details>
 
@@ -570,7 +570,7 @@ Vali by releasing a single arrow in fight. [4-14-10b, 11a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—like the sun in the sky (sūrya ivākāśe) encircled by a garland of stars (viparīto nakṣatramālayā)! Today, O Vānara, your fear and enmity (te bhayam vairam ca) sprung from Vālī (vālisamuttham)—
+“—like the sun in the sky (_sūrya ivākāśe_) encircled by a garland of stars (_viparīto nakṣatramālayā_)! Today, O Vānara, your fear and enmity (_te bhayam vairam ca_) sprung from Vālī (_vālisamuttham_)—
 </details>
 </details>
 
@@ -616,7 +616,7 @@ in the dust of this forest eliminated by me. [4-14-11b, 12a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—I shall dispel (aham pramokṣyāmi) in battle with the release of a single arrow (ekena bāṇamokṣeṇa saṃyuge)! Point out to me (mama darśaya), O Sugrīva, your enemy wearing the form of a brother (vairiṇam bhrātṛrūpiṇam)—
+“—I shall dispel (_aham pramokṣyāmi_) in battle with the release of a single arrow (_ekena bāṇamokṣeṇa saṃyuge_)! Point out to me (_mama darśaya_), O Sugrīva, your enemy wearing the form of a brother (_vairiṇam bhrātṛrūpiṇam_)—
 </details>
 </details>
 
@@ -666,7 +666,7 @@ with me, you can even deride me. [4-14-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—so that Vālī, struck down (vinihataḥ), may writhe in the dust in the forest (yāvad vane pāṃsuṣu ceṣṭate)! If, having come within range of my sight (dṛṣṭipatham prāptaḥ), he returns alive (jīvan sa vinivartate)—
+“—so that Vālī, struck down (_vinihataḥ_), may writhe in the dust in the forest (_yāvad vane pāṃsuṣu ceṣṭate_)! If, having come within range of my sight (_dṛṣṭipatham prāptaḥ_), he returns alive (_jīvan sa vinivartate_)—
 </details>
 </details>
 
@@ -726,7 +726,7 @@ thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—then you may impute fault to me (tato doṣeṇa māgacchet) and reproach me on the spot (sadyo garhec ca mām bhavān)! Before your very eyes (pratyakṣam te), seven sāla trees were cloven by me with a single arrow (sapta sālā mayā bāṇena dāritāḥ);
+“—then you may impute fault to me (_tato doṣeṇa māgacchet_) and reproach me on the spot (_sadyo garhec ca mām bhavān_)! Before your very eyes (_pratyakṣam te_), seven _sāla_ trees were cloven by me with a single arrow (_sapta sālā mayā bāṇena dāritāḥ_);
 </details>
 </details>
 
@@ -802,9 +802,9 @@ leave off your perplexity." [4-14-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “by that strength (tena balena), know that Vālī is slain in battle today (avehi adya vālinam nihatam raṇe)! Never before has an untruth been spoken by me (anṛtam noktapūrvam me), even when standing long in dire distress (ciram kṛcchre 'pi tiṣṭhatā)—
+**14:** “by that strength (_tena balena_), know that Vālī is slain in battle today (_avehi adya vālinam nihatam raṇe_)! Never before has an untruth been spoken by me (_anṛtam noktapūrvam me_), even when standing long in dire distress (_ciram kṛcchre &#x27;pi tiṣṭhatā_)—
 
-**15:** “—filled as I am with eager devotion to dharma (dharmalobhaparītena), nor shall I ever speak one in any way (na ca vakṣye kathaṃcana)! Cast aside your trepidation (jahi saṃbhramam); I shall make my vow bear fruit (saphalām ca kariṣyāmi pratijñām)—
+**15:** “—filled as I am with eager devotion to _dharma_ (_dharmalobhaparītena_), nor shall I ever speak one in any way (_na ca vakṣye kathaṃcana_)! Cast aside your trepidation (_jahi saṃbhramam_); I shall make my vow bear fruit (_saphalām ca kariṣyāmi pratijñām_)—
 </details>
 </details>
 
@@ -862,7 +862,7 @@ war-cry by which that monkey Vali comes out. [4-14-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—just as Śatakratu [Indra] brings a sprouted rice-field to fruit with rain (prasūtam kalamakṣetram varṣeṇeva śatakratuḥ)! Therefore, in order to summon Vālī who wears the golden garland (tadāhvānanimittam ca vālino hemamālinaḥ)—
+“—just as Śatakratu [Indra] brings a sprouted rice-field to fruit with rain (_prasūtam kalamakṣetram varṣeṇeva śatakratuḥ_)! Therefore, in order to summon Vālī who wears the golden garland (_tadāhvānanimittam ca vālino hemamālinaḥ_)—
 </details>
 </details>
 
@@ -933,7 +933,7 @@ vaali yuddha sannadho bahir nirgacched eva --- iti raama vacanam - dharmaakuutam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—raise that battle-cry, O Sugrīva (sugrīva kuru tam śabdam), whereby that Vānara, proud of conquest (jitakāśī), boasting of victory (jayaślāghī), and challenged by you (tvayā cādharṣitaḥ), may rush forth from the city (niṣpated purāt)!
+“—raise that battle-cry, O Sugrīva (_sugrīva kuru tam śabdam_), whereby that Vānara, proud of conquest (_jitakāśī_), boasting of victory (_jayaślāghī_), and challenged by you (_tvayā cādharṣitaḥ_), may rush forth from the city (_niṣpated purāt_)!
 </details>
 </details>
 
@@ -993,7 +993,7 @@ a brawl, that too in the presence of ladies." So said Rama to Sugreeva. [4-14-18
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That Vālī, who delights in battle (priyasaṃyugaḥ), will rush forth without delay (niṣpatiṣyaty asaṅgena); for having heard the defiance of their foes (ripūṇām dharṣitam śrutvā), [heroes] do not brook it in battle (marṣayanti na saṃyuge)—
+“That Vālī, who delights in battle (_priyasaṃyugaḥ_), will rush forth without delay (_niṣpatiṣyaty asaṅgena_); for having heard the defiance of their foes (_ripūṇām dharṣitam śrutvā_), [heroes] do not brook it in battle (_marṣayanti na saṃyuge_)—
 </details>
 </details>
 
@@ -1045,7 +1045,7 @@ gruesome blare as though to completely rend the sky. [4-14-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—especially when conscious of their own valor (jānantas tu svakam vīryam) in the presence of their womenfolk (strīsamakṣam viśeṣataḥ)!” Hearing Rāma's words, that Sugrīva, tawny as gold (hemapiṅgalaḥ)—
+“—especially when conscious of their own valor (_jānantas tu svakam vīryam_) in the presence of their womenfolk (_strīsamakṣam viśeṣataḥ_)!” Hearing Rāma&#x27;s words, that Sugrīva, tawny as gold (_hemapiṅgalaḥ_)—
 </details>
 </details>
 
@@ -1102,7 +1102,7 @@ own king. [4-14-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—roared with a fierce cry (nanarda krūranādena), as though splitting the sky in two (vinirbhindann ivāmbaram). Terrified by that sound there (tatra śabdena vitrastāḥ), cows fled, bereft of luster (gāvo yānti hataprabhāḥ)—
+—roared with a fierce cry (_nanarda krūranādena_), as though splitting the sky in two (_vinirbhindann ivāmbaram_). Terrified by that sound there (_tatra śabdena vitrastāḥ_), cows fled, bereft of luster (_gāvo yānti hataprabhāḥ_)—
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ planets, or meteors. This expression is *shleSa* with *kaanti guNa* ; Metaphoric
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—distraught like noblewomen (kulastriya ivākulāḥ) afflicted by a king's misrule (rājadoṣaparāmṛṣṭāḥ); deer bolted swiftly (dravanti ca mṛgāḥ śīghram) like horses routed in battle (bhagnā iva raṇe hayāḥ); and birds fell to the earth (patanti ca khagā bhūmau) like planets whose karmic merit is exhausted (kṣīṇapuṇyā iva grahāḥ).
+—distraught like noblewomen (_kulastriya ivākulāḥ_) afflicted by a king&#x27;s misrule (_rājadoṣaparāmṛṣṭāḥ_); deer bolted swiftly (_dravanti ca mṛgāḥ śīghram_) like horses routed in battle (_bhagnā iva raṇe hayāḥ_); and birds fell to the earth (_patanti ca khagā bhūmau_) like planets whose karmic merit is exhausted (_kṣīṇapuṇyā iva grahāḥ_).
 </details>
 </details>
 
@@ -1239,7 +1239,7 @@ splashing waves drifted by gales. [4-14-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that son of Sūrya (sūryātmajaḥ), whose fiery splendor was heightened by valor (śauryavivṛddhatejāḥ) and who was filled with confidence (pratītaḥ), swiftly loosed a roar (nādam hy amuñcat tvarayā) resounding like a thundercloud (jīmūtakṛtapraṇādaḥ), or like the lord of rivers [the ocean] with wind-tossed waves (saritpatir vā 'nilacañcalormiḥ).
+Then that son of Sūrya (_sūryātmajaḥ_), whose fiery splendor was heightened by valor (_śauryavivṛddhatejāḥ_) and who was filled with confidence (_pratītaḥ_), swiftly loosed a roar (_nādam hy amuñcat tvarayā_) resounding like a thundercloud (_jīmūtakṛtapraṇādaḥ_), or like the lord of rivers [the ocean] with wind-tossed waves (_saritpatir vā &#x27;nilacañcalormiḥ_).
 </details>
 </details>
 

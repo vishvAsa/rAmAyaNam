@@ -76,7 +76,7 @@ On sojourning the remaining night on the bank of river Sona along with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having passed the remainder of the night on the bank of the Śoṇa together with the great sages (upāsya rātriśeṣaṃ tu śoṇākūle maharṣibhiḥ), when the night had brightened into auspicious dawn (niśāyāṃ suprabhātāyām), Viśvāmitra spoke:
+Having passed the remainder of the night on the bank of the Śoṇa together with the great sages (_upāsya rātriśeṣaṃ tu śoṇākūle maharṣibhiḥ_), when the night had brightened into auspicious dawn (_niśāyāṃ suprabhātāyām_), Viśvāmitra spoke:
 </details>
 </details>
 
@@ -124,7 +124,7 @@ Having passed the remainder of the night on the bank of the Śoṇa together wit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The night has dawned auspiciously, O Rāma; the eastern twilight is now setting in (suprabhātā niśā rāma pūrvā saṃdhyā pravartate)! Arise, arise! May auspiciousness attend you (uttiṣṭhottiṣṭha bhadraṃ te); set your heart upon our onward journey (gamanāyābhirocaya)!”
+“The night has dawned auspiciously, O Rāma; the eastern twilight is now setting in (_suprabhātā niśā rāma pūrvā saṃdhyā pravartate_)! Arise, arise! May auspiciousness attend you (_uttiṣṭhottiṣṭha bhadraṃ te_); set your heart upon our onward journey (_gamanāyābhirocaya_)!”
 </details>
 </details>
 
@@ -178,7 +178,7 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of his, Rāma performed his morning ritual observances (kṛtapūrvāhṇikakriyaḥ), showed his readiness for the march (gamanaṃ rocayām āsa), and spoke this word:
+Hearing those words of his, Rāma performed his morning ritual observances (_kṛtapūrvāhṇikakriyaḥ_), showed his readiness for the march (_gamanaṃ rocayām āsa_), and spoke this word:
 </details>
 </details>
 
@@ -228,7 +228,7 @@ Hearing those words of his, Rāma performed his morning ritual observances (kṛ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here flows the Śoṇa, blessed with limpid waters, deep—or shallow at its ford—and adorned with sandy shoals (ayaṃ śoṇaḥ śubhajalo ’gādhaḥ pulinamaṇḍitaḥ). By which of the paths, O Brāhmaṇa, shall we cross over (katareṇa pathā brahman saṃtariṣyāmahe vayam)?”
+“Here flows the Śoṇa, blessed with limpid waters, deep—or shallow at its ford—and adorned with sandy shoals (_ayaṃ śoṇaḥ śubhajalo ’gādhaḥ pulinamaṇḍitaḥ_). By which of the paths, O Brāhmaṇa, shall we cross over (_katareṇa pathā brahman saṃtariṣyāmahe vayam_)?”
 </details>
 </details>
 
@@ -275,7 +275,7 @@ When Rama spoke to him thus sage Vishvamitra replied, "I propose the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Viśvāmitra spoke this in reply: “Here is the path pointed out by me, by which the great sages pass across (eṣa panthā mayoddiṣṭo yena yānti maharṣayaḥ).”
+Thus addressed by Rāma, Viśvāmitra spoke this in reply: “Here is the path pointed out by me, by which the great sages pass across (_eṣa panthā mayoddiṣṭo yena yānti maharṣayaḥ_).”
 </details>
 </details>
 
@@ -335,7 +335,7 @@ Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the wise Viśvāmitra, those great sages set forth (prayātā vai), beholding diverse woodlands along the way (paśyantas te vanāni vividhāni ca).
+Thus addressed by the wise Viśvāmitra, those great sages set forth (_prayātā vai_), beholding diverse woodlands along the way (_paśyantas te vanāni vividhāni ca_).
 </details>
 </details>
 
@@ -383,7 +383,7 @@ On going a distance on their way, and after a lapse of half a day, then
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having travelled a long distance (te gatvā dūram adhvānam), when half the day had passed (gate ’rdhadivase tadā), they beheld the Jāhnavī (Gaṅgā), the foremost of rivers, frequented by sages (jāhnavīṃ saritāṃ śreṣṭhāṃ dadṛśur munisevitām).
+Having travelled a long distance (_te gatvā dūram adhvānam_), when half the day had passed (_gate ’rdhadivase tadā_), they beheld the Jāhnavī (Gaṅgā), the foremost of rivers, frequented by sages (_jāhnavīṃ saritāṃ śreṣṭhāṃ dadṛśur munisevitām_).
 </details>
 </details>
 
@@ -431,7 +431,7 @@ On seeing River Ganga with her pious waters and adored by swans and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that river of sanctifying waters, frequented by swans and Sarus cranes (tāṃ dṛṣṭvā puṇyasalilāṃ haṃsasārasasevitām), all the sages together with the two Rāghavas were filled with joy (babhūvur munayaḥ sarve muditāḥ saharāghavāḥ).
+Beholding that river of sanctifying waters, frequented by swans and Sarus cranes (_tāṃ dṛṣṭvā puṇyasalilāṃ haṃsasārasasevitām_), all the sages together with the two Rāghavas were filled with joy (_babhūvur munayaḥ sarve muditāḥ saharāghavāḥ_).
 </details>
 </details>
 
@@ -505,9 +505,9 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** On her bank they all prepared their halting-places (tasyās tīre tadā sarve cakrur vāsaparigraham); then, having bathed in accordance with sacred precept and offered water-libations to the ancestral manes and gods (tataḥ snātvā yathānyāyaṃ saṃtarpya pitṛdevatāḥ)—
+**9:** On her bank they all prepared their halting-places (_tasyās tīre tadā sarve cakrur vāsaparigraham_); then, having bathed in accordance with sacred precept and offered water-libations to the ancestral manes and gods (_tataḥ snātvā yathānyāyaṃ saṃtarpya pitṛdevatāḥ_)—
 
-**10:** —and having offered oblations into their sacred fires and partaken of the nectar-like sacrificial oblation (hutvā caivāgnihotrāṇi prāśya cāmṛtavad dhaviḥ), they sat down radiant and joyful-minded upon the pure bank of the Jāhnavī (viviśur jāhnavītīre śubhā muditamānasāḥ).
+**10:** —and having offered oblations into their sacred fires and partaken of the nectar-like sacrificial oblation (_hutvā caivāgnihotrāṇi prāśya cāmṛtavad dhaviḥ_), they sat down radiant and joyful-minded upon the pure bank of the Jāhnavī (_viviśur jāhnavītīre śubhā muditamānasāḥ_).
 </details>
 </details>
 
@@ -570,7 +570,7 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounding the high-souled Viśvāmitra on all sides (viśvāmitraṃ mahātmānaṃ parivārya samantataḥ), the sages were seated in due order, and the two Rāghavas according to their rank (viṣṭhitāś ca yathānyāyaṃ rāghavau ca yathārhataḥ); then Rāma, his heart filled with joy, spoke to Viśvāmitra:
+Surrounding the high-souled Viśvāmitra on all sides (_viśvāmitraṃ mahātmānaṃ parivārya samantataḥ_), the sages were seated in due order, and the two Rāghavas according to their rank (_viṣṭhitāś ca yathānyāyaṃ rāghavau ca yathārhataḥ_); then Rāma, his heart filled with joy, spoke to Viśvāmitra:
 </details>
 </details>
 
@@ -619,7 +619,7 @@ Surrounding the high-souled Viśvāmitra on all sides (viśvāmitraṃ mahātmā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Revered Lord, I wish to hear of the river Gaṅgā, who flows through the three paths (bhagavañ śrotum icchāmi gaṅgāṃ tripathagāṃ nadīm)—how, having traversed the three worlds, did she go to the ocean, lord of rivers and streams (trailokyaṃ katham ākramya gatā nadanadīpatim)?”
+“O Revered Lord, I wish to hear of the river Gaṅgā, who flows through the three paths (_bhagavañ śrotum icchāmi gaṅgāṃ tripathagāṃ nadīm_)—how, having traversed the three worlds, did she go to the ocean, lord of rivers and streams (_trailokyaṃ katham ākramya gatā nadanadīpatim_)?”
 </details>
 </details>
 
@@ -666,7 +666,7 @@ Motivated by Rama's words the eminent-sage Vishvamitra commenced to
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by Rāma’s words (codito rāmavākyena), the great sage Viśvāmitra began to recount the expansion and the birth of Gaṅgā (vṛddhiṃ janma ca gaṅgāyā vaktum evopacakrame):
+Impelled by Rāma’s words (_codito rāmavākyena_), the great sage Viśvāmitra began to recount the expansion and the birth of Gaṅgā (_vṛddhiṃ janma ca gaṅgāyā vaktum evopacakrame_):
 </details>
 </details>
 
@@ -718,7 +718,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There is the king of mountains, Himavān, O Rāma, a mighty mine of minerals and ores (śailendro himavān rāma dhātūnām ākaro mahān). To him were born two daughters, O Rāma, peerless in beauty upon the earth (tasya kanyādvayaṃ rāma rūpeṇāpratimaṃ bhuvi).
+“There is the king of mountains, Himavān, O Rāma, a mighty mine of minerals and ores (_śailendro himavān rāma dhātūnām ākaro mahān_). To him were born two daughters, O Rāma, peerless in beauty upon the earth (_tasya kanyādvayaṃ rāma rūpeṇāpratimaṃ bhuvi_).
 </details>
 </details>
 
@@ -767,7 +767,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She who is the slender-waisted daughter of Mount Meru, O Rāma, is the mother of those two (yā meruduhitā rāma tayor mātā sumadhyamā)—lovely Menā by name, the beloved consort of Himavān (nāmnā menā manojñā vai patnī himavataḥ priyā).
+“She who is the slender-waisted daughter of Mount Meru, O Rāma, is the mother of those two (_yā meruduhitā rāma tayor mātā sumadhyamā_)—lovely Menā by name, the beloved consort of Himavān (_nāmnā menā manojñā vai patnī himavataḥ priyā_).
 </details>
 </details>
 
@@ -827,7 +827,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of her (Menā) was born this Gaṅgā, the elder daughter of Himavān (tasyāṃ gaṅgeyam abhavaj jyeṣṭhā himavataḥ sutā); and the second maiden born to him was known by the name of Umā (umā nāma dvitīyābhūt kanyā tasyaiva), O Rāghava.
+“Of her (Menā) was born this Gaṅgā, the elder daughter of Himavān (_tasyāṃ gaṅgeyam abhavaj jyeṣṭhā himavataḥ sutā_); and the second maiden born to him was known by the name of Umā (_umā nāma dvitīyābhūt kanyā tasyaiva_), O Rāghava.
 </details>
 </details>
 
@@ -875,7 +875,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all the gods, desiring to accomplish a divine purpose (atha surāḥ sarve devakāryacikīrṣayā), solicited the lord of mountains for his elder daughter Gaṅgā, the river that flows through the three paths (jyeṣṭhāṃ śailendraṃ varayām āsur gaṅgāṃ tripathagāṃ nadīm).
+“Then all the gods, desiring to accomplish a divine purpose (_atha surāḥ sarve devakāryacikīrṣayā_), solicited the lord of mountains for his elder daughter Gaṅgā, the river that flows through the three paths (_jyeṣṭhāṃ śailendraṃ varayām āsur gaṅgāṃ tripathagāṃ nadīm_).
 </details>
 </details>
 
@@ -923,7 +923,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Out of desire for the welfare of the three worlds (trailokyahitakāmyayā), Himavān righteously bestowed his daughter (dadau dharmeṇa himavāṃs tanayām)—Gaṅgā, purifier of the worlds, who courses along paths of her own free will (lokapāvanīṃ svacchandapathagāṃ gaṅgām).
+“Out of desire for the welfare of the three worlds (_trailokyahitakāmyayā_), Himavān righteously bestowed his daughter (_dadau dharmeṇa himavāṃs tanayām_)—Gaṅgā, purifier of the worlds, who courses along paths of her own free will (_lokapāvanīṃ svacchandapathagāṃ gaṅgām_).
 </details>
 </details>
 
@@ -973,7 +973,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having received Gaṅgā for the sake of the three worlds, those gods, intent upon the welfare of the three worlds (pratigṛhya trilokārthaṃ trilokahitakāṅkṣiṇaḥ), took her and departed with their inmost hearts fulfilled (gaṅgām ādāya te ’gacchan kṛtārthenāntarātmanā).
+“Having received Gaṅgā for the sake of the three worlds, those gods, intent upon the welfare of the three worlds (_pratigṛhya trilokārthaṃ trilokahitakāṅkṣiṇaḥ_), took her and departed with their inmost hearts fulfilled (_gaṅgām ādāya te ’gacchan kṛtārthenāntarātmanā_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that other daughter of the mountain who remained a maiden (yā cānyā śailaduhitā kanyāsīt), O delight of the Raghus, rich in asceticism, adopted a fierce and noble vow and practised severe penance (ugraṃ suvratam āsthāya tapas tepe tapodhanā).
+“And that other daughter of the mountain who remained a maiden (_yā cānyā śailaduhitā kanyāsīt_), O delight of the Raghus, rich in asceticism, adopted a fierce and noble vow and practised severe penance (_ugraṃ suvratam āsthāya tapas tepe tapodhanā_).
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ Himavān bestows Umā upon the peerless Rudra; Viśvāmitra concludes his accoun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The foremost of mountains bestowed that daughter Umā, endowed with fierce asceticism and venerated by all the worlds (ugreṇa tapasā yuktāṃ dadau śailavaraḥ sutām umāṃ lokanamaskṛtām), upon the peerless Rudra (rudrāyāpratirūpāya).
+“The foremost of mountains bestowed that daughter Umā, endowed with fierce asceticism and venerated by all the worlds (_ugreṇa tapasā yuktāṃ dadau śailavaraḥ sutām umāṃ lokanamaskṛtām_), upon the peerless Rudra (_rudrāyāpratirūpāya_).
 </details>
 </details>
 
@@ -1132,7 +1132,7 @@ Himavān bestows Umā upon the peerless Rudra; Viśvāmitra concludes his accoun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These are those two daughters of the king of mountains, venerated by the worlds (ete te śailarājasya sute lokanamaskṛte)—Gaṅgā, the foremost of rivers, and the goddess Umā (gaṅgā ca saritāṃ śreṣṭhā umādevī ca), O Rāghava!
+“These are those two daughters of the king of mountains, venerated by the worlds (_ete te śailarājasya sute lokanamaskṛte_)—Gaṅgā, the foremost of rivers, and the goddess Umā (_gaṅgā ca saritāṃ śreṣṭhā umādevī ca_), O Rāghava!
 </details>
 </details>
 
@@ -1229,9 +1229,9 @@ The three-way coursing of the river is firstly as Ganga in the lap of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “All this has been recounted to you, O dear prince, foremost of those endowed with noble course (etat te sarvam ākhyātaṃ tāta gatimatāṃ vara)—how she who courses through the three paths first went to the firmament as her path (yathā tripathagāminī khaṃ gatā prathamaṃ gatim).
+**23:** “All this has been recounted to you, O dear prince, foremost of those endowed with noble course (_etat te sarvam ākhyātaṃ tāta gatimatāṃ vara_)—how she who courses through the three paths first went to the firmament as her path (_yathā tripathagāminī khaṃ gatā prathamaṃ gatim_).
 
-**24:** “Thus that enchanting daughter of the lord of mountains, the river of the gods (saiṣā suranadī ramyā śailendratanayā tadā), ascended to the world of the gods as a sin-destroying stream of sanctifying waters (suralokaṃ samārūḍhā vipāpā jalavāhinī).”
+**24:** “Thus that enchanting daughter of the lord of mountains, the river of the gods (_saiṣā suranadī ramyā śailendratanayā tadā_), ascended to the world of the gods as a sin-destroying stream of sanctifying waters (_suralokaṃ samārūḍhā vipāpā jalavāhinī_).”
 </details>
 </details>
 

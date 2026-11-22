@@ -82,7 +82,7 @@ feeling hidden in his heart (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the slaying of Rāvaṇa (rāvaṇavadhaṃ dṛṣṭvā), those gods, Gandharvas, and Dānavas departed in their respective aerial cars (svaiḥ svair vimānaiḥ), recounting auspicious tales:
+Beholding the slaying of Rāvaṇa (_rāvaṇavadhaṃ dṛṣṭvā_), those gods, Gandharvas, and Dānavas departed in their respective aerial cars (_svaiḥ svair vimānaiḥ_), recounting auspicious tales:
 </details>
 </details>
 
@@ -131,7 +131,7 @@ lady! That which is to be done through human effort, has been accomplished by me
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Recounting] the dreadful slaying of Rāvaṇa, the valor of Rāghava, the noble combat of the Vānaras (suyuddhaṃ vānarāṇāṃ ca), and the wise counsel of Sugrīva (sugrīvasya ca mantritam),
+[Recounting] the dreadful slaying of Rāvaṇa, the valor of Rāghava, the noble combat of the Vānaras (_suyuddhaṃ vānarāṇāṃ ca_), and the wise counsel of Sugrīva (_sugrīvasya ca mantritam_),
 </details>
 </details>
 
@@ -186,7 +186,7 @@ requited as also the contempt against the enemy have been wiped out, all at once
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the devotion and valor of Māruti and of Lakṣmaṇa, the wifely fidelity of Sītā (pativratātvaṃ sītāyāḥ), and the heroic prowess in Hanūmān,
+the devotion and valor of Māruti and of Lakṣmaṇa, the wifely fidelity of Sītā (_pativratātvaṃ sītāyāḥ_), and the heroic prowess in Hanūmān,
 </details>
 </details>
 
@@ -235,7 +235,7 @@ have fulfilled my promise. Today, I am the master of myself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-those illustrious beings, recounting these deeds, departed rejoicing even as they had come (yathāgatam). Meanwhile, mighty-armed Rāghava [took leave of] the celestial chariot given by Indra, which shone like fire (śikhiprabham);
+those illustrious beings, recounting these deeds, departed rejoicing even as they had come (_yathāgatam_). Meanwhile, mighty-armed Rāghava [took leave of] the celestial chariot given by Indra, which shone like fire (_śikhiprabham_);
 </details>
 </details>
 
@@ -284,7 +284,7 @@ being."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having granted leave [to the chariot], he honored Mātali in return (mātaliṃ pratyapūjayat). Granted leave by Rāghava, Mātali, the charioteer of Śakra,
+having granted leave [to the chariot], he honored Mātali in return (_mātaliṃ pratyapūjayat_). Granted leave by Rāghava, Mātali, the charioteer of Śakra,
 </details>
 </details>
 
@@ -335,7 +335,7 @@ wipe out, by his energy, the insult fallen to his lot?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-mounted that celestial chariot and flew straight up to heaven (divam evotpapāta ha). And when he had ascended to heaven with the chariot, the foremost of chariot-warriors (rathināṃ varaḥ)—
+mounted that celestial chariot and flew straight up to heaven (_divam evotpapāta ha_). And when he had ascended to heaven with the chariot, the foremost of chariot-warriors (_rathināṃ varaḥ_)—
 </details>
 </details>
 
@@ -398,7 +398,7 @@ destroying of Lanka, has borne fruit today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Rāghava, supremely pleased (paramaprītaḥ), embraced Sugrīva; and having embraced Sugrīva, he was reverently saluted by Lakṣmaṇa (lakṣmaṇenābhivāditaḥ).
+—Rāghava, supremely pleased (_paramaprītaḥ_), embraced Sugrīva; and having embraced Sugrīva, he was reverently saluted by Lakṣmaṇa (_lakṣmaṇenābhivāditaḥ_).
 </details>
 </details>
 
@@ -446,7 +446,7 @@ army and tendered a good advice, is fruitful today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored by the troops of monkeys (harigaṇaiḥ), he came to the encampment of the host (balālayam); then that scion of Kakutstha spoke to him who stood at his side—
+Honored by the troops of monkeys (_harigaṇaiḥ_), he came to the encampment of the host (_balālayam_); then that scion of Kakutstha spoke to him who stood at his side—
 </details>
 </details>
 
@@ -501,7 +501,7 @@ void of good qualities, sought my presence, is fruitful today.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—unto Saumitri, Lakṣmaṇa, endowed with fortitude and blazing with splendor (dīptatejasam): “O gentle one, consecrate this Vibhīṣaṇa in Laṅkā (laṅkāyām abhiṣecaya),
+—unto Saumitri, Lakṣmaṇa, endowed with fortitude and blazing with splendor (_dīptatejasam_): “O gentle one, consecrate this Vibhīṣaṇa in Laṅkā (_laṅkāyām abhiṣecaya_),
 </details>
 </details>
 
@@ -549,7 +549,7 @@ of a female-deer, was bathed in tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“who is affectionate (anuraktaṃ ca), devoted, and our benefactor of old (pūrvopakāriṇam)! This is my supreme desire: that this younger brother of Rāvaṇa—
+“who is affectionate (_anuraktaṃ ca_), devoted, and our benefactor of old (_pūrvopakāriṇam_)! This is my supreme desire: that this younger brother of Rāvaṇa—
 </details>
 </details>
 
@@ -597,7 +597,7 @@ torn for fear of public scandal.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—Vibhīṣaṇa, O gentle one, I may behold consecrated in Laṅkā (abhiṣiktaṃ vibhīṣaṇam)!” Thus addressed by magnanimous Rāghava, Saumitri,
+“—Vibhīṣaṇa, O gentle one, I may behold consecrated in Laṅkā (_abhiṣiktaṃ vibhīṣaṇam_)!” Thus addressed by magnanimous Rāghava, Saumitri,
 </details>
 </details>
 
@@ -645,7 +645,7 @@ resembled the petals of a lotus, who wore dark curly hair and was endowed with f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-saying “So be it!” in great joy (susaṃhṛṣṭaḥ), took up a golden pitcher (sauvarṇaṃ ghaṭam); and placing that pitcher into the hand of the monkey-chiefs who were swift as thought (manojavān),
+saying “So be it!” in great joy (_susaṃhṛṣṭaḥ_), took up a golden pitcher (_sauvarṇaṃ ghaṭam_); and placing that pitcher into the hand of the monkey-chiefs who were swift as thought (_manojavān_),
 </details>
 </details>
 
@@ -708,7 +708,7 @@ a man, in killing Ravana and thus wiping away the insult meted out to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he commanded those beings of mighty strength (mahāsattvān) [to fetch] ocean water (samudrasalilam) then. Going with extreme swiftness, those Vānaras who were swift as thought
+he commanded those beings of mighty strength (_mahāsattvān_) [to fetch] ocean water (_samudrasalilam_) then. Going with extreme swiftness, those Vānaras who were swift as thought
 </details>
 </details>
 
@@ -758,7 +758,7 @@ Agastya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-returned, those foremost of Vānaras, having taken water from the ocean (samudrāt). Then taking one pitcher and seating him upon the supreme throne (paramāsane),
+returned, those foremost of Vānaras, having taken water from the ocean (_samudrāt_). Then taking one pitcher and seating him upon the supreme throne (_paramāsane_),
 </details>
 </details>
 
@@ -791,7 +791,7 @@ returned, those foremost of Vānaras, having taken water from the ocean (samudr�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with that pitcher Saumitri consecrated Vibhīṣaṇa (abhyaṣiñcad vibhīṣaṇam) in Laṅkā amidst the Rākṣasas as king, by the command of Rāma (rāmaśāsanāt).
+with that pitcher Saumitri consecrated Vibhīṣaṇa (_abhyaṣiñcad vibhīṣaṇam_) in Laṅkā amidst the Rākṣasas as king, by the command of Rāma (_rāmaśāsanāt_).
 </details>
 </details>
 
@@ -846,7 +846,7 @@ the evil-speaking from all sides as well as the insinuation on my own illustriou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-According to the rite enjoined by sacred mantras (vidhinā mantradṛṣṭena), all the Rākṣasas and the Vānaras as well consecrated him then, surrounded by a company of friends (suhṛdgaṇasamāvṛtam).
+According to the rite enjoined by sacred mantras (_vidhinā mantradṛṣṭena_), all the Rākṣasas and the Vānaras as well consecrated him then, surrounded by a company of friends (_suhṛdgaṇasamāvṛtam_).
 </details>
 </details>
 
@@ -901,7 +901,7 @@ extremely disagreeable to me, even as a light to one, who is suffering from a po
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering into boundless joy (praharṣam atulaṃ gatvā), they praised Rāma himself; and his ministers rejoiced (jahṛṣire), as did the Rākṣasas who were devoted to him.
+Entering into boundless joy (_praharṣam atulaṃ gatvā_), they praised Rāma himself; and his ministers rejoiced (_jahṛṣire_), as did the Rākṣasas who were devoted to him.
 </details>
 </details>
 
@@ -958,7 +958,7 @@ directions are open to you, my dear lady! There is no work to be done to me, by 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Vibhīṣaṇa, lord of the Rākṣasas (rākṣasendraṃ vibhīṣaṇam), consecrated in Laṅkā, Rāghava together with Lakṣmaṇa experienced supreme joy (paramāṃ prītiṃ jagāma).
+Beholding Vibhīṣaṇa, lord of the Rākṣasas (_rākṣasendraṃ vibhīṣaṇam_), consecrated in Laṅkā, Rāghava together with Lakṣmaṇa experienced supreme joy (_paramāṃ prītiṃ jagāma_).
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ another's abode, with an eager mind?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having obtained that great kingdom bestowed by Rāma (rāmadattam) and having consoled his subjects (sāntvayitvā prakṛtayaḥ), Vibhīṣaṇa then approached Rāma.
+Having obtained that great kingdom bestowed by Rāma (_rāmadattam_) and having consoled his subjects (_sāntvayitvā prakṛtayaḥ_), Vibhīṣaṇa then approached Rāma.
 </details>
 </details>
 
@@ -1062,7 +1062,7 @@ looks?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the delighted citizens, the night-stalkers (paurā niśācarāḥ), brought unto him curds, unbroken grain (akṣatān), sweetmeats, parched grain (lājāḥ), and flowers as well.
+Thereupon the delighted citizens, the night-stalkers (_paurā niśācarāḥ_), brought unto him curds, unbroken grain (_akṣatān_), sweetmeats, parched grain (_lājāḥ_), and flowers as well.
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ wherever you like from here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking those offerings, that unassailable and valiant monarch presented every auspicious article conducive to good fortune (maṅgalyaṃ maṅgalaṃ sarvam) unto Rāghava and unto Lakṣmaṇa.
+Taking those offerings, that unassailable and valiant monarch presented every auspicious article conducive to good fortune (_maṅgalyaṃ maṅgalaṃ sarvam_) unto Rāghava and unto Lakṣmaṇa.
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ Set you mind on Lakshmana or Bharata, as per your ease."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Vibhīṣaṇa with his task accomplished and his purpose prospering (kṛtakāryaṃ samṛddhārtham), Rāma accepted all that out of a desire to please him (tasyaiva pratikāmyayā).
+Beholding Vibhīṣaṇa with his task accomplished and his purpose prospering (_kṛtakāryaṃ samṛddhārtham_), Rāma accepted all that out of a desire to please him (_tasyaiva pratikāmyayā_).
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ Vibhishana the demon; or according to your own comfort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then unto the valiant monkey Hanūmān, who resembled a mountain (śailopamam) and stood bowed before him with joined palms (prāñjaliṃ praṇataṃ sthitam), Rāma spoke these words:
+Then unto the valiant monkey Hanūmān, who resembled a mountain (_śailopamam_) and stood bowed before him with joined palms (_prāñjaliṃ praṇataṃ sthitam_), Rāma spoke these words:
 </details>
 </details>
 
@@ -1288,7 +1288,7 @@ detained for long in his abode, Ravana could not have endured your separation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gentle one, having sought the permission of this great king Vibhīṣaṇa (anujñāpya mahārājam) and entered the city of Laṅkā, inquire after the welfare of Maithilī (kauśalaṃ brūhi maithilīm).
+“O gentle one, having sought the permission of this great king Vibhīṣaṇa (_anujñāpya mahārājam_) and entered the city of Laṅkā, inquire after the welfare of Maithilī (_kauśalaṃ brūhi maithilīm_).
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ an elephant and thereupon shed tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unto Vaidehī, O foremost of speakers (vadatāṃ śreṣṭha), declare that I am well (kuśalam), along with Sugrīva and Lakṣmaṇa, and that Rāvaṇa has been slain in battle!
+“Unto Vaidehī, O foremost of speakers (_vadatāṃ śreṣṭha_), declare that I am well (_kuśalam_), along with Sugrīva and Lakṣmaṇa, and that Rāvaṇa has been slain in battle!
 </details>
 </details>
 

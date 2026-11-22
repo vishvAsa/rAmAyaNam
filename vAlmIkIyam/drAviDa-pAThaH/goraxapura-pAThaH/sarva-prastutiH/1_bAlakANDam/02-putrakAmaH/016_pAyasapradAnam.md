@@ -95,7 +95,7 @@ names, called Vishnu *sahasranaama* , each name elucidating his attributes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lord Nārāyaṇa, all-pervading Viṣṇu, thus entreated by the foremost of the gods (niyuktaḥ surasattamaiḥ), though already knowing all in his omniscience (jānann api), spoke these gentle and gracious words to the celestials:
+Then Lord Nārāyaṇa, all-pervading Viṣṇu, thus entreated by the foremost of the gods (_niyuktaḥ surasattamaiḥ_), though already knowing all in his omniscience (_jānann api_), spoke these gentle and gracious words to the celestials:
 </details>
 </details>
 
@@ -143,7 +143,7 @@ I will have to eliminate that thorn in the side of sages?" Thus Vishnu asked the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gods, what is the proper stratagem (upāyaḥ kaḥ) for the slaying of that lord of rākṣasas, adopting which I may destroy that thorn in the side of the sages (ṛṣikaṇṭakam)?”
+“O gods, what is the proper stratagem (_upāyaḥ kaḥ_) for the slaying of that lord of _rākṣasas_, adopting which I may destroy that thorn in the side of the sages (_ṛṣikaṇṭakam_)?”
 </details>
 </details>
 
@@ -188,7 +188,7 @@ Ravana in a war." [1-16-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, all the gods replied to the imperishable Viṣṇu (viṣṇum avyayam): “Assuming a human form (mānuṣaṃ rūpam āsthāya), slay Rāvaṇa in battle!”
+Thus addressed, all the gods replied to the imperishable Viṣṇu (_viṣṇum avyayam_): “Assuming a human form (_mānuṣaṃ rūpam āsthāya_), slay Rāvaṇa in battle!”
 </details>
 </details>
 
@@ -241,7 +241,7 @@ thereby the creator of worlds and the first born one Brahma, felt gladsome of hi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that tamer of foes (arindamaḥ) practiced severe austerity for a long period of time, whereby Brahmā, the creator of the worlds and the first-born of the universe (lokakṛl lokapūrvajaḥ), became well-pleased.
+“For that tamer of foes (_arindamaḥ_) practiced severe austerity for a long period of time, whereby Brahmā, the creator of the worlds and the first-born of the universe (_lokakṛl lokapūrvajaḥ_), became well-pleased.
 </details>
 </details>
 
@@ -297,7 +297,7 @@ earlier at the time of bestowing boon. [1-16-5, 6a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Well-pleased, the Lord granted a boon to that rākṣasa: that he should have no fear from manifold classes of beings (nānāvidhebhyo bhūtebhyaḥ), save only from man (nānyatra mānuṣāt).
+Well-pleased, the Lord granted a boon to that _rākṣasa_: that he should have no fear from manifold classes of beings (_nānāvidhebhyo bhūtebhyaḥ_), save only from man (_nānyatra mānuṣāt_).
 </details>
 </details>
 
@@ -336,7 +336,7 @@ Having disdained mortals when asking for his boon, Rāvaṇa now ravages the thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For in days of old, at the time that boon was granted (varadāne), human beings were disdained by him in contempt (avajñātāḥ). Thus puffed up with pride by the boon received from the Grandsire Brahmā—
+“For in days of old, at the time that boon was granted (_varadāne_), human beings were disdained by him in contempt (_avajñātāḥ_). Thus puffed up with pride by the boon received from the Grandsire Brahmā—
 </details>
 </details>
 
@@ -387,7 +387,7 @@ is envisaged through humans alone." So said gods to Vishnu. [1-16-6b, 7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He ravages the three worlds and forcibly carries off women as well (striyaś cāpy upakarṣati). Therefore, O scorcher of foes, his destruction has been ordained to come from human beings (mānuṣebhyaḥ)!”
+He ravages the three worlds and forcibly carries off women as well (_striyaś cāpy upakarṣati_). Therefore, O scorcher of foes, his destruction has been ordained to come from human beings (_mānuṣebhyaḥ_)!”
 </details>
 </details>
 
@@ -432,7 +432,7 @@ as his father in human world. [1-16-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing this speech of the gods, the self-possessed Lord Viṣṇu (viṣṇur ātmavān) then chose King Daśaratha to be His father (pitaraṃ rocayām āsa).
+Hearing this speech of the gods, the self-possessed Lord Viṣṇu (_viṣṇur ātmavān_) then chose King Daśaratha to be His father (_pitaraṃ rocayām āsa_).
 </details>
 </details>
 
@@ -487,7 +487,7 @@ putrakaameSTi ritual, desiring progeny as he is sonless. [1-16-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very time, that resplendent monarch, being childless (aputraḥ) and longing for offspring (putrepsuḥ), that slayer of foes, was performing the Putrīyā Iṣṭi sacrifice for the attainment of sons.
+At that very time, that resplendent monarch, being childless (_aputraḥ_) and longing for offspring (_putrepsuḥ_), that slayer of foes, was performing the _Putrīyā Iṣṭi_ sacrifice for the attainment of sons.
 </details>
 </details>
 
@@ -532,7 +532,7 @@ being extolled by gods and sages. [1-16-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having formed His resolve (kṛtvā niścayam) and taken leave of the Grandsire Brahmā (āmantrya ca pitāmaham), Lord Viṣṇu vanished from sight (antardhānaṃ gataḥ), being adored by the gods and the great sages.
+Having formed His resolve (_kṛtvā niścayam_) and taken leave of the Grandsire Brahmā (_āmantrya ca pitāmaham_), Lord Viṣṇu vanished from sight (_antardhānaṃ gataḥ_), being adored by the gods and the great sages.
 </details>
 </details>
 
@@ -582,7 +582,7 @@ Divine Being with an unparalleled resplendence, called yajna-puruSa.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then indeed, out of the sacrificial fire of that sacrificing monarch (yajamānasya pāvakāt), there arose a mighty Being of peerless radiance (atulaprabham), of immense potency and vast strength.
+Then indeed, out of the sacrificial fire of that sacrificing monarch (_yajamānasya pāvakāt_), there arose a mighty Being of peerless radiance (_atulaprabham_), of immense potency and vast strength.
 </details>
 </details>
 
@@ -639,7 +639,7 @@ His moustache and hairdo are soft like that of a lion's mane. [1-16-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark-complexioned (kṛṣṇam), clad in crimson garments (raktāmbaradharam), crimson-faced, with a voice resonant as a kettle-drum (dundubhisvanam), having glossy body-hair, beard, and noble locks of hair on his head like the mane of a lion (snigdha-haryakṣa-tanuja-śmaśru-pravara-mūrdhajam);
+Dark-complexioned (_kṛṣṇam_), clad in crimson garments (_raktāmbaradharam_), crimson-faced, with a voice resonant as a kettle-drum (_dundubhisvanam_), having glossy body-hair, beard, and noble locks of hair on his head like the mane of a lion (_snigdha-haryakṣa-tanuja-śmaśru-pravara-mūrdhajam_);
 </details>
 </details>
 
@@ -684,7 +684,7 @@ he is like a mountain peak, and in valiance he is like an imperious tiger. [1-16
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with all auspicious marks, adorned with celestial ornaments, towering like a mountain peak (śailaśṛṅgasamutsedham), and striding with the gait of a proud tiger (dṛptaśārdūlavikramam);
+Endowed with all auspicious marks, adorned with celestial ornaments, towering like a mountain peak (_śailaśṛṅgasamutsedham_), and striding with the gait of a proud tiger (_dṛptaśārdūlavikramam_);
 </details>
 </details>
 
@@ -746,9 +746,9 @@ with the divine dessert. [1-16-14, 15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Resembling the sun in form and like a tongue of blazing fire, holding a vessel wrought of refined jāmbūnada gold covered at the top with a silver lid (rājatāntaparicchadām)—
+**14:** Resembling the sun in form and like a tongue of blazing fire, holding a vessel wrought of refined _jāmbūnada_ gold covered at the top with a silver lid (_rājatāntaparicchadām_)—
 
-**15:** Having clasped in both arms that spacious bowl (pātrīṃ vipulām) brimming with divine pāyasa (divyapāyasasampūrṇām), as though she were a beloved wife (patnīm iva priyām), wondrous as if fashioned by divine māyā itself (māyāmayīm iva)—
+**15:** Having clasped in both arms that spacious bowl (_pātrīṃ vipulām_) brimming with divine _pāyasa_ (_divyapāyasasampūrṇām_), as though she were a beloved wife (_patnīm iva priyām_), wondrous as if fashioned by divine _māyā_ itself (_māyāmayīm iva_)—
 </details>
 </details>
 
@@ -794,7 +794,7 @@ as the being sent by Prajapati." [1-16-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing steadily upon King Daśaratha, he spoke these words to the monarch: “Know me, O king, to be a Being sent from Prajāpati (prājāpatyaṃ naram), who has come hither!”
+Gazing steadily upon King Daśaratha, he spoke these words to the monarch: “Know me, O king, to be a Being sent from Prajāpati (_prājāpatyaṃ naram_), who has come hither!”
 </details>
 </details>
 
@@ -846,7 +846,7 @@ There after, king Dasharatha greeted that divine being with palms adjoining and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, with folded hands, the king replied: “O venerable Lord, welcome be unto you (bhagavan svāgataṃ te ’stu)! What service may I render to you?”
+Thereupon, with folded hands, the king replied: “O venerable Lord, welcome be unto you (_bhagavan svāgataṃ te ’stu_)! What service may I render to you?”
 </details>
 </details>
 
@@ -900,7 +900,7 @@ obtained this dessert in golden vessel as you have propitiated gods. [1-16-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the Being sent from Prajāpati spoke these words once again: “O king, by you who have devoutly worshipped the gods (arcayatā devān), this boon has been obtained today!”
+Then the Being sent from Prajāpati spoke these words once again: “O king, by you who have devoutly worshipped the gods (_arcayatā devān_), this boon has been obtained today!”
 </details>
 </details>
 
@@ -946,7 +946,7 @@ enriches progeny and health. [1-16-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Accept, O tiger among men, this heaven-wrought pāyasa (pāyasaṃ devanirmitam), which bestows progeny (prajākaram), brings prosperity and merit (dhanyam), and augments health and vitality (ārogyavardhanam).
+“Accept, O tiger among men, this heaven-wrought _pāyasa_ (_pāyasaṃ devanirmitam_), which bestows progeny (_prajākaram_), brings prosperity and merit (_dhanyam_), and augments health and vitality (_ārogyavardhanam_).
 </details>
 </details>
 
@@ -993,7 +993,7 @@ this among your eligible wives." So said the divine being to Dasharatha. [1-16-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Give it to your worthy queens (bhāryāṇām anurūpāṇām), saying, ‘Partake of this (aśnīteti)!’ Through them you shall obtain the sons for whose sake you are performing this sacrifice, O king.”
+Give it to your worthy queens (_bhāryāṇām anurūpāṇām_), saying, ‘Partake of this (_aśnīteti_)!’ Through them you shall obtain the sons for whose sake you are performing this sacrifice, O king.”
 </details>
 </details>
 
@@ -1064,9 +1064,9 @@ being in his appearance, and performed circumambulations around him. [1-16-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Saying, “So be it (tatheti)!”, the delighted monarch reverently received upon his head (śirasā pratigṛhya) that golden vessel given by the gods and brimming with celestial food (devānnasampūrṇām).
+**21:** Saying, “So be it (_tatheti_)!”, the delighted monarch reverently received upon his head (_śirasā pratigṛhya_) that golden vessel given by the gods and brimming with celestial food (_devānnasampūrṇām_).
 
-**22:** Having bowed in salutation to that wondrous Being of auspicious aspect, the king, filled with supreme joy, reverently circumambulated him (cakārābhipradakṣiṇam).
+**22:** Having bowed in salutation to that wondrous Being of auspicious aspect, the king, filled with supreme joy, reverently circumambulated him (_cakārābhipradakṣiṇam_).
 </details>
 </details>
 
@@ -1145,9 +1145,9 @@ itself. [1-16-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** Then Daśaratha, having obtained that pāyasa wrought by the gods, was supremely delighted, like a penniless man who has suddenly gained great wealth (prāpya vittam ivādhanaḥ).
+**23:** Then Daśaratha, having obtained that _pāyasa_ wrought by the gods, was supremely delighted, like a penniless man who has suddenly gained great wealth (_prāpya vittam ivādhanaḥ_).
 
-**24:** Then that supremely radiant Being of wondrous aspect, having accomplished that mission (saṃvartayitvā tat karma), vanished right there into the sacrificial fire (tatraivāntaradhīyata).
+**24:** Then that supremely radiant Being of wondrous aspect, having accomplished that mission (_saṃvartayitvā tat karma_), vanished right there into the sacrificial fire (_tatraivāntaradhīyata_).
 </details>
 </details>
 
@@ -1196,7 +1196,7 @@ sky brightened with moonbeams. [1-16-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Illumined by the rays of joy (harṣaraśmibhir uddyotam), the king’s inner apartments shone forth like the firmament lit by the beams of the lovely autumn moon (śāradasyābhirāmasya candrasyeva nabho ’ṃśubhiḥ).
+Illumined by the rays of joy (_harṣaraśmibhir uddyotam_), the king’s inner apartments shone forth like the firmament lit by the beams of the lovely autumn moon (_śāradasyābhirāmasya candrasyeva nabho ’ṃśubhiḥ_).
 </details>
 </details>
 
@@ -1255,7 +1255,7 @@ the First Queen and Empress Kausalya is being addressed firstly, and given first
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the inner apartments, he immediately spoke thus to Kausalyā: “Receive this pāyasa (pāyasaṃ pratigṛhṇīṣva), which is the producer of a son for yourself (putrīyaṃ tv idam ātmanaḥ)!”
+Entering the inner apartments, he immediately spoke thus to Kausalyā: “Receive this _pāyasa_ (_pāyasaṃ pratigṛhṇīṣva_), which is the producer of a son for yourself (_putrīyaṃ tv idam ātmanaḥ_)!”
 </details>
 </details>
 
@@ -1286,7 +1286,7 @@ Entering the inner apartments, he immediately spoke thus to Kausalyā: “Receiv
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king then gave half of the pāyasa (pāyasārdham) to Kausalyā; and of the remaining half, the lord of men gave half (ardhād ardham) to Sumitrā.
+The king then gave half of the _pāyasa_ (_pāyasārdham_) to Kausalyā; and of the remaining half, the lord of men gave half (_ardhād ardham_) to Sumitrā.
 </details>
 </details>
 
@@ -1398,9 +1398,9 @@ part. Sumitra then consumed her two parts. Later Kaikeyi drinks her dividend.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** And to Kaikeyī he gave half of what remained (avaśiṣṭārdham) for the sake of a son; and then the king gave away the remaining half of the nectar-like pāyasa—
+**28:** And to Kaikeyī he gave half of what remained (_avaśiṣṭārdham_) for the sake of a son; and then the king gave away the remaining half of the nectar-like _pāyasa_—
 
-**29:** —after reflecting carefully (anucintya), to Sumitrā once again, did that monarch of great wisdom bestow it. Thus the king gave the pāyasa separately to each of those queens.
+**29:** —after reflecting carefully (_anucintya_), to Sumitrā once again, did that monarch of great wisdom bestow it. Thus the king gave the _pāyasa_ separately to each of those queens.
 </details>
 </details>
 
@@ -1455,7 +1455,7 @@ happiness, deemed it as a reward. [1-16-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And having received that pāyasa, all those noble queens of the monarch, their minds blossoming with supreme joy (praharṣoditacetasaḥ), esteemed it as a mark of high honor (sammānaṃ menire).
+And having received that _pāyasa_, all those noble queens of the monarch, their minds blossoming with supreme joy (_praharṣoditacetasaḥ_), esteemed it as a mark of high honor (_sammānaṃ menire_).
 </details>
 </details>
 
@@ -1519,7 +1519,7 @@ of mothers bodies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those noble queens of the lord of earth, having separately partaken of that supreme pāyasa, before long conceived embryos blazing with the radiance of fire and the sun (hutāśanādityasamānatejasaḥ).
+Then those noble queens of the lord of earth, having separately partaken of that supreme _pāyasa_, before long conceived embryos blazing with the radiance of fire and the sun (_hutāśanādityasamānatejasaḥ_).
 </details>
 </details>
 
@@ -1596,7 +1596,7 @@ namely Indra and others, as well as by the assemblages of great souls, sages. [1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then the king, beholding those queens with their embryos well-developed (prarūḍhagarbhāḥ), his heart’s desire fulfilled (pratilabdhamānasaḥ), rejoiced in spirit just like Lord Hari (Indra or Viṣṇu) in the highest heaven adored by Indra, the Siddhas, and the hosts of sages.
+And then the king, beholding those queens with their embryos well-developed (_prarūḍhagarbhāḥ_), his heart’s desire fulfilled (_pratilabdhamānasaḥ_), rejoiced in spirit just like Lord Hari (Indra or Viṣṇu) in the highest heaven adored by Indra, the Siddhas, and the hosts of sages.
 </details>
 </details>
 

@@ -48,7 +48,7 @@ Released by Kārtavīrya Arjuna yet undaunted in pride, Rāvaṇa roams the eart
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Released by Arjuna (arjunena vimuktas tu), Rāvaṇa, sovereign of the rākṣasas (rāvaṇo rākṣasādhipaḥ), roamed across the entire earth (cacāra pṛthivīṃ sarvām), rendered wholly free from dejection (anirviṇṇas tathā kṛtaḥ).
+Released by Arjuna (_arjunena vimuktas tu_), Rāvaṇa, sovereign of the rākṣasas (_rāvaṇo rākṣasādhipaḥ_), roamed across the entire earth (_cacāra pṛthivīṃ sarvām_), rendered wholly free from dejection (_anirviṇṇas tathā kṛtaḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Released by Arjuna (arjunena vimuktas tu), Rāvaṇa, sovereign of the rākṣas
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whenever he hears of any rākṣasa or mortal superior in strength (rākṣasaṃ vā manuṣyaṃ vā śṛṇute ’yaṃ balādhikam), Rāvaṇa approaches him (taṃ samāsādya) and arrogantly challenges him to battle (yuddhe hvayati darpitaḥ).
+Whenever he hears of any rākṣasa or mortal superior in strength (_rākṣasaṃ vā manuṣyaṃ vā śṛṇute ’yaṃ balādhikam_), Rāvaṇa approaches him (_taṃ samāsādya_) and arrogantly challenges him to battle (_yuddhe hvayati darpitaḥ_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Whenever he hears of any rākṣasa or mortal superior in strength (rākṣasa�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then on a certain occasion (tataḥ kadācit), having gone to the city of Kiṣkindhā, protected by Vālī (kiṣkindhāṃ nagarīṃ vālipālitām), he challenges to combat Vālī, wearer of the golden garland (hvayati yuddhāya vālinaṃ hemamālinam).
+Then on a certain occasion (_tataḥ kadācit_), having gone to the city of Kiṣkindhā, protected by Vālī (_kiṣkindhāṃ nagarīṃ vālipālitām_), he challenges to combat Vālī, wearer of the golden garland (_hvayati yuddhāya vālinaṃ hemamālinam_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the monkey minister Tāra (vānarāmātyas tāraḥ), along with Tārā’s father [Suṣeṇa], the lord [Sugrīva], and the vānara chieftains (tārāpitā prabhuḥ ... vānaraḥ), spoke these words to him who had come eager for battle (uvāca ... vākyaṃ yuddhaprepsum upāgatam):
+Thereupon the monkey minister Tāra (_vānarāmātyas tāraḥ_), along with Tārā’s father [Suṣeṇa], the lord [Sugrīva], and the vānara chieftains (_tārāpitā prabhuḥ ... vānaraḥ_), spoke these words to him who had come eager for battle (_uvāca ... vākyaṃ yuddhaprepsum upāgatam_):
 </details>
 </details>
 
@@ -175,7 +175,7 @@ Thereupon the monkey minister Tāra (vānarāmātyas tāraḥ), along with Tār�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lord of the rākṣasas (rākṣasendra), Vālī—the one who could be an equal match for you (yas te pratibalo bhavet)—has gone away (gato vālī); what other monkey is able to stand before you in combat (ko ’nyaḥ pramukhataḥ sthātuṃ tava śaktaḥ plavaṅgamaḥ)?
+“O lord of the rākṣasas (_rākṣasendra_), Vālī—the one who could be an equal match for you (_yas te pratibalo bhavet_)—has gone away (_gato vālī_); what other monkey is able to stand before you in combat (_ko ’nyaḥ pramukhataḥ sthātuṃ tava śaktaḥ plavaṅgamaḥ_)?
 </details>
 </details>
 
@@ -206,7 +206,7 @@ Thereupon the monkey minister Tāra (vānarāmātyas tāraḥ), along with Tār�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having duly worshipped the twilight across all four oceans (caturbhyo ’pi samudrebhyaḥ sandhyām anvāsya), O Rāvaṇa, Vālī returns at this very hour (imaṃ muhūrtam āyāti vālī); therefore wait but a brief moment (tiṣṭha muhūrtakam).
+“Having duly worshipped the twilight across all four oceans (_caturbhyo ’pi samudrebhyaḥ sandhyām anvāsya_), O Rāvaṇa, Vālī returns at this very hour (_imaṃ muhūrtam āyāti vālī_); therefore wait but a brief moment (_tiṣṭha muhūrtakam_).
 </details>
 </details>
 
@@ -245,7 +245,7 @@ Pointing to conch-white heaps of bones left by past challengers, the ministers w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold these heaps of bones, gleaming pale as conch-shells (etān asthicayān paśya ya ete śaṅkhapāṇḍurāḥ)—these belong to warriors eager for battle (yuddhārthinām ime), O King, felled by the fiery might of the monkey sovereign (vānarādhipa-tejasā).
+“Behold these heaps of bones, gleaming pale as conch-shells (_etān asthicayān paśya ya ete śaṅkhapāṇḍurāḥ_)—these belong to warriors eager for battle (_yuddhārthinām ime_), O King, felled by the fiery might of the monkey sovereign (_vānarādhipa-tejasā_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if the elixir of immortality has been drunk by you (yadvā ’mṛtarasaḥ pītas tvayā), O Rāvaṇa, O rākṣasa, even then, upon encountering Vālī (tadā vālinam āsādya), your life will find its end right there (tadantaṃ tava jīvitam).
+“Even if the elixir of immortality has been drunk by you (_yadvā ’mṛtarasaḥ pītas tvayā_), O Rāvaṇa, O rākṣasa, even then, upon encountering Vālī (_tadā vālinam āsādya_), your life will find its end right there (_tadantaṃ tava jīvitam_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold now this marvel of the world (paśyedānīṃ jagaccitram imam), O son of Viśravas (viśravasaḥ suta); wait for this single moment (idaṃ muhūrtaṃ tiṣṭhasva), for soon life itself will become hard for you to keep (durlabhaṃ te bhaviṣyati).
+“Behold now this marvel of the world (_paśyedānīṃ jagaccitram imam_), O son of Viśravas (_viśravasaḥ suta_); wait for this single moment (_idaṃ muhūrtaṃ tiṣṭhasva_), for soon life itself will become hard for you to keep (_durlabhaṃ te bhaviṣyati_).
 </details>
 </details>
 
@@ -341,7 +341,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else, if you are in haste to die (athavā tvarase martum), go to the southern ocean (gaccha dakṣiṇasāgaram)—there you shall behold Vālī (vālinaṃ drakṣyase tatra), like a blazing fire stationed upon the earth (bhūmistham iva pāvakam)!”
+“Or else, if you are in haste to die (_athavā tvarase martum_), go to the southern ocean (_gaccha dakṣiṇasāgaram_)—there you shall behold Vālī (_vālinaṃ drakṣyase tatra_), like a blazing fire stationed upon the earth (_bhūmistham iva pāvakam_)!”
 </details>
 </details>
 
@@ -375,7 +375,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spurning Tāra with contempt (sa tu tāraṃ vinirbhartsya), Rāvaṇa, who makes the worlds weep (rāvaṇo lokarāvaṇaḥ), ascended that aerial car Puṣpaka (puṣpakaṃ tat samāruhya) and sped forth to the southern ocean (prayayau dakṣiṇārṇavam).
+Spurning Tāra with contempt (_sa tu tāraṃ vinirbhartsya_), Rāvaṇa, who makes the worlds weep (_rāvaṇo lokarāvaṇaḥ_), ascended that aerial car Puṣpaka (_puṣpakaṃ tat samāruhya_) and sped forth to the southern ocean (_prayayau dakṣiṇārṇavam_).
 </details>
 </details>
 
@@ -406,7 +406,7 @@ Spurning Tāra with contempt (sa tu tāraṃ vinirbhartsya), Rāvaṇa, who make
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There Rāvaṇa beheld Vālī (tatra ... rāvaṇo vālinaṃ dṛṣṭvā), resembling a mountain of gold (hemagiri-prakhyam), with a countenance glowing like the rising sun (taruṇārka-nibhānanam), absorbed in his twilight devotions (sandhyopāsana-tatparam).
+There Rāvaṇa beheld Vālī (_tatra ... rāvaṇo vālinaṃ dṛṣṭvā_), resembling a mountain of gold (_hemagiri-prakhyam_), with a countenance glowing like the rising sun (_taruṇārka-nibhānanam_), absorbed in his twilight devotions (_sandhyopāsana-tatparam_).
 </details>
 </details>
 
@@ -445,7 +445,7 @@ Stepping silently down from Puṣpaka to seize Vālī from behind, black-hued R�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Descending then from Puṣpaka (puṣpakād avaruhyātha), Rāvaṇa, dark as collyrium (rāvaṇo ’ñjanasannibhaḥ), swiftly crept forward with soundless steps (tūrṇaṃ niḥśabdapadam āvrajat) in order to seize Vālī (grahītuṃ vālinam).
+Descending then from Puṣpaka (_puṣpakād avaruhyātha_), Rāvaṇa, dark as collyrium (_rāvaṇo ’ñjanasannibhaḥ_), swiftly crept forward with soundless steps (_tūrṇaṃ niḥśabdapadam āvrajat_) in order to seize Vālī (_grahītuṃ vālinam_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ Descending then from Puṣpaka (puṣpakād avaruhyātha), Rāvaṇa, dark as co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By chance that Rāvaṇa was beheld even by Vālī (yadṛcchayā tadā dṛṣṭo vālināpi sa rāvaṇaḥ), bent as he was upon wicked intent (pāpābhiprāyavān); yet seeing him, Vālī betrayed no agitation whatsoever (dṛṣṭvā cakāra na tu sambhramam).
+By chance that Rāvaṇa was beheld even by Vālī (_yadṛcchayā tadā dṛṣṭo vālināpi sa rāvaṇaḥ_), bent as he was upon wicked intent (_pāpābhiprāyavān_); yet seeing him, Vālī betrayed no agitation whatsoever (_dṛṣṭvā cakāra na tu sambhramam_).
 </details>
 </details>
 
@@ -507,7 +507,7 @@ By chance that Rāvaṇa was beheld even by Vālī (yadṛcchayā tadā dṛṣ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a lion eyeing a hare (śaśam ālakṣya siṃho vā) or Garuḍa beholding a serpent (pannagaṃ garuḍo yathā), Vālī took no anxious thought of that wickedly resolved Rāvaṇa (na cintayati taṃ vālī rāvaṇaṃ pāpaniścayam).
+Like a lion eyeing a hare (_śaśam ālakṣya siṃho vā_) or Garuḍa beholding a serpent (_pannagaṃ garuḍo yathā_), Vālī took no anxious thought of that wickedly resolved Rāvaṇa (_na cintayati taṃ vālī rāvaṇaṃ pāpaniścayam_).
 </details>
 </details>
 
@@ -541,7 +541,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Making this evil-minded Rāvaṇa, who approaches desiring to seize me (jighṛkṣamāṇam āyāntaṃ rāvaṇaṃ pāpacetasam), hang helplessly beneath my armpit (kakṣāvalambinaṃ kṛtvā), I shall traverse the remaining three great oceans (gamiṣye trīn mahārṇavān).
+“Making this evil-minded Rāvaṇa, who approaches desiring to seize me (_jighṛkṣamāṇam āyāntaṃ rāvaṇaṃ pāpacetasam_), hang helplessly beneath my armpit (_kakṣāvalambinaṃ kṛtvā_), I shall traverse the remaining three great oceans (_gamiṣye trīn mahārṇavān_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The onlookers shall behold my enemy tucked against my side (drakṣyanty ariṃ mamāṅkastham), his thighs, arms, and robes dangling loose (sraṃsad-ūru-karāmbaram)—Ten-necked Rāvaṇa hanging limp like a serpent in Garuḍa’s grip (lambamānaṃ daśagrīvaṃ garuḍasyeva pannagam)!”
+“The onlookers shall behold my enemy tucked against my side (_drakṣyanty ariṃ mamāṅkastham_), his thighs, arms, and robes dangling loose (_sraṃsad-ūru-karāmbaram_)—Ten-necked Rāvaṇa hanging limp like a serpent in Garuḍa’s grip (_lambamānaṃ daśagrīvaṃ garuḍasyeva pannagam_)!”
 </details>
 </details>
 
@@ -603,7 +603,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fixing his mind upon this resolve (ity evaṃ matim āsthāya), Vālī kept his attention tethered to his ear (vālī karṇam upāśritaḥ) and, chanting Vedic mantras (japan vai naigamān mantrān), stood immobile like the king of mountains (tasthau parvatarāḍ iva).
+Fixing his mind upon this resolve (_ity evaṃ matim āsthāya_), Vālī kept his attention tethered to his ear (_vālī karṇam upāśritaḥ_) and, chanting Vedic mantras (_japan vai naigamān mantrān_), stood immobile like the king of mountains (_tasthau parvatarāḍ iva_).
 </details>
 </details>
 
@@ -642,7 +642,7 @@ Gauging Rāvaṇa’s proximity by his faint footsteps, Vālī snatches him with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both eager to seize one another (tāv anyonyaṃ jighṛkṣantau), those two sovereigns of monkeys and rākṣasas (hari-rākṣasa-pārthivau), exerting every effort (prayatnavantau) and flushed with pride of strength (baladarpitau), strove for that very deed (tat karma īhatuḥ).
+Both eager to seize one another (_tāv anyonyaṃ jighṛkṣantau_), those two sovereigns of monkeys and rākṣasas (_hari-rākṣasa-pārthivau_), exerting every effort (_prayatnavantau_) and flushed with pride of strength (_baladarpitau_), strove for that very deed (_tat karma īhatuḥ_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ Both eager to seize one another (tāv anyonyaṃ jighṛkṣantau), those two so
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Judging by the sound of his footsteps that Rāvaṇa was closing to lay hands upon him (hastagrāhaṃ tu taṃ matvā pādaśabdena rāvaṇam), Vālī, though facing away (parāṅmukho ’pi), snatched him up (jagrāha vālī) as Garuḍa snatches a serpent (sarpam ivāṇḍajaḥ).
+Judging by the sound of his footsteps that Rāvaṇa was closing to lay hands upon him (_hastagrāhaṃ tu taṃ matvā pādaśabdena rāvaṇam_), Vālī, though facing away (_parāṅmukho ’pi_), snatched him up (_jagrāha vālī_) as Garuḍa snatches a serpent (_sarpam ivāṇḍajaḥ_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ Judging by the sound of his footsteps that Rāvaṇa was closing to lay hands up
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing that lord of the rākṣasas who had longed to seize him (grahītukāmaṃ taṃ gṛhya rakṣasām īśvaram), the monkey hero (hariḥ) bounded swiftly into the sky (kham utpapāta vegena), tucking him hanging beneath his armpit (kṛtvā kakṣāvalambinam).
+Seizing that lord of the rākṣasas who had longed to seize him (_grahītukāmaṃ taṃ gṛhya rakṣasām īśvaram_), the monkey hero (_hariḥ_) bounded swiftly into the sky (_kham utpapāta vegena_), tucking him hanging beneath his armpit (_kṛtvā kakṣāvalambinam_).
 </details>
 </details>
 
@@ -735,7 +735,7 @@ Seizing that lord of the rākṣasas who had longed to seize him (grahītukāma�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as Rāvaṇa squeezed against him (taṃ cāpīḍayamānaṃ tu) and repeatedly gouged him with his nails (vitudantaṃ nakhair muhuḥ), Vālī bore Rāvaṇa away through the air (jahāra rāvaṇaṃ vālī) as the wind carries off a rain-cloud (pavanas toyadaṃ yathā).
+Even as Rāvaṇa squeezed against him (_taṃ cāpīḍayamānaṃ tu_) and repeatedly gouged him with his nails (_vitudantaṃ nakhair muhuḥ_), Vālī bore Rāvaṇa away through the air (_jahāra rāvaṇaṃ vālī_) as the wind carries off a rain-cloud (_pavanas toyadaṃ yathā_).
 </details>
 </details>
 
@@ -766,7 +766,7 @@ Even as Rāvaṇa squeezed against him (taṃ cāpīḍayamānaṃ tu) and repea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those rākṣasa ministers (atha te rākṣasāmātyāḥ), seeing the Ten-necked one being carried off (hriyamāṇaṃ daśānanam), rushed screaming after Vālī (vāliṃ ravamāṇā abhidrutāḥ) in their eagerness to rescue him (mumokṣayiṣavaḥ).
+Then those rākṣasa ministers (_atha te rākṣasāmātyāḥ_), seeing the Ten-necked one being carried off (_hriyamāṇaṃ daśānanam_), rushed screaming after Vālī (_vāliṃ ravamāṇā abhidrutāḥ_) in their eagerness to rescue him (_mumokṣayiṣavaḥ_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ Then those rākṣasa ministers (atha te rākṣasāmātyāḥ), seeing the Ten-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pursued by them as he soared through mid-heaven (anvīyamānas tair vālī ... ambaramadhyagaḥ), Vālī shone resplendent (bhrājate), like the radiant sun stationed in the sky (ambarastha ivāṃśumān) pursued by billowing masses of clouds (anvīyamāno meghaughaiḥ).
+Pursued by them as he soared through mid-heaven (_anvīyamānas tair vālī ... ambaramadhyagaḥ_), Vālī shone resplendent (_bhrājate_), like the radiant sun stationed in the sky (_ambarastha ivāṃśumān_) pursued by billowing masses of clouds (_anvīyamāno meghaughaiḥ_).
 </details>
 </details>
 
@@ -836,7 +836,7 @@ Exhausted by the wind of Vālī’s limbs, the rākṣasa ministers halt in dism
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Unable to overtake Vālī (te ’śaknuvantaḥ samprāptuṃ vālinam), those foremost rākṣasas (rākṣasottamāḥ), worn out by the rushing impetus of his arms and thighs (tasya bāhūru-vegena pariśrāntāḥ), came to a halt (vyavasthitāḥ).
+Unable to overtake Vālī (_te ’śaknuvantaḥ samprāptuṃ vālinam_), those foremost rākṣasas (_rākṣasottamāḥ_), worn out by the rushing impetus of his arms and thighs (_tasya bāhūru-vegena pariśrāntāḥ_), came to a halt (_vyavasthitāḥ_).
 </details>
 </details>
 
@@ -867,7 +867,7 @@ Unable to overtake Vālī (te ’śaknuvantaḥ samprāptuṃ vālinam), those f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even the lord of mountains drew back from the path of Vālī as he sped onward (vālimārgād apākrāman parvatendro hi gacchataḥ)—what then of any mortal creature of flesh and blood longing to keep its life (kiṃ punar jīvitaprepsur bibhrad vai māṃsa-śoṇitam)?
+Even the lord of mountains drew back from the path of Vālī as he sped onward (_vālimārgād apākrāman parvatendro hi gacchataḥ_)—what then of any mortal creature of flesh and blood longing to keep its life (_kiṃ punar jīvitaprepsur bibhrad vai māṃsa-śoṇitam_)?
 </details>
 </details>
 
@@ -898,7 +898,7 @@ Even the lord of mountains drew back from the path of Vālī as he sped onward (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To all those oceans beyond the flight-range of flocks of birds (apakṣigaṇa-sampātān ... sāgarān sarvān) the monkey king of mighty speed (vānarendro mahājavaḥ) repaired in due order (kramaśaḥ) and worshipped the twilight hour (sandhyākālam avandata).
+To all those oceans beyond the flight-range of flocks of birds (_apakṣigaṇa-sampātān ... sāgarān sarvān_) the monkey king of mighty speed (_vānarendro mahājavaḥ_) repaired in due order (_kramaśaḥ_) and worshipped the twilight hour (_sandhyākālam avandata_).
 </details>
 </details>
 
@@ -929,7 +929,7 @@ To all those oceans beyond the flight-range of flocks of birds (apakṣigaṇa-s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Acclaimed by the sky-dwelling beings (sabhājyamāno bhūtais tu khaicaraiḥ), that foremost of sky-farers (khaicarottamaḥ), Vālī, arrived at the western ocean bearing Rāvaṇa along (paścimaṃ sāgaraṃ vālī hy ājagāma sarāvaṇaḥ).
+Acclaimed by the sky-dwelling beings (_sabhājyamāno bhūtais tu khaicaraiḥ_), that foremost of sky-farers (_khaicarottamaḥ_), Vālī, arrived at the western ocean bearing Rāvaṇa along (_paścimaṃ sāgaraṃ vālī hy ājagāma sarāvaṇaḥ_).
 </details>
 </details>
 
@@ -960,7 +960,7 @@ Acclaimed by the sky-dwelling beings (sabhājyamāno bhūtais tu khaicaraiḥ), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed twilight worship there, bathed, and chanted his prayers (tasmin sandhyām upāsitvā snātvā japtvā ca), that vānara set out for the northern ocean (uttaraṃ sāgaraṃ prāyāt), still carrying the Ten-necked one (vahamāno daśānanam).
+Having performed twilight worship there, bathed, and chanted his prayers (_tasmin sandhyām upāsitvā snātvā japtvā ca_), that vānara set out for the northern ocean (_uttaraṃ sāgaraṃ prāyāt_), still carrying the Ten-necked one (_vahamāno daśānanam_).
 </details>
 </details>
 
@@ -991,7 +991,7 @@ Having performed twilight worship there, bathed, and chanted his prayers (tasmin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bearing him across many thousands of yojanas (bahuyojana-sāhasraṃ vahamāno), that mighty monkey (mahāhariḥ) sped onward swift as the wind and swift as thought (vāyuvac ca manovac ca jagāma), together with his foe (saha śatruṇā).
+Bearing him across many thousands of _yojanas_ (_bahuyojana-sāhasraṃ vahamāno_), that mighty monkey (_mahāhariḥ_) sped onward swift as the wind and swift as thought (_vāyuvac ca manovac ca jagāma_), together with his foe (_saha śatruṇā_).
 </details>
 </details>
 
@@ -1030,7 +1030,7 @@ Completing his twilight prayers at the northern and eastern oceans, Vālī desce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having worshipped the twilight at the northern ocean (uttare sāgare sandhyām upāsitvā), Vālī, still bearing the Ten-necked one (daśānanaṃ vahamānaḥ), proceeded straightway to the eastern great sea (agamad vālī pūrvaṃ vai sa mahodadhim).
+Having worshipped the twilight at the northern ocean (_uttare sāgare sandhyām upāsitvā_), Vālī, still bearing the Ten-necked one (_daśānanaṃ vahamānaḥ_), proceeded straightway to the eastern great sea (_agamad vālī pūrvaṃ vai sa mahodadhim_).
 </details>
 </details>
 
@@ -1061,7 +1061,7 @@ Having worshipped the twilight at the northern ocean (uttare sāgare sandhyām u
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly worshipped the twilight there as well (tatrāpi sandhyām anvāsya), Vāsava’s son, that sovereign of monkeys (vāsaviḥ sa harīśvaraḥ), holding Rāvaṇa fast (gṛhya rāvaṇam), returned once more toward Kiṣkindhā (kiṣkindhām abhito ... punar āgamat).
+Having duly worshipped the twilight there as well (_tatrāpi sandhyām anvāsya_), Vāsava’s son, that sovereign of monkeys (_vāsaviḥ sa harīśvaraḥ_), holding Rāvaṇa fast (_gṛhya rāvaṇam_), returned once more toward Kiṣkindhā (_kiṣkindhām abhito ... punar āgamat_).
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ Having duly worshipped the twilight there as well (tatrāpi sandhyām anvāsya),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having performed twilight devotions at all four oceans (caturṣv api samudreṣu sandhyām anvāsya), the vānara, fatigued from carrying Rāvaṇa (rāvaṇodvahana-śrāntaḥ), alighted in a garden of Kiṣkindhā (kiṣkindhopavane ’patat).
+Having performed twilight devotions at all four oceans (_caturṣv api samudreṣu sandhyām anvāsya_), the vānara, fatigued from carrying Rāvaṇa (_rāvaṇodvahana-śrāntaḥ_), alighted in a garden of Kiṣkindhā (_kiṣkindhopavane ’patat_).
 </details>
 </details>
 
@@ -1126,7 +1126,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that foremost of monkeys released Rāvaṇa from his armpit (rāvaṇaṃ tu mumocātha svakakṣāt kapisattamaḥ), and laughing heartily again and again (prahasan ... muhuḥ), asked Rāvaṇa: “Whence have you come (kutas tvam iti covāca)?”
+Then that foremost of monkeys released Rāvaṇa from his armpit (_rāvaṇaṃ tu mumocātha svakakṣāt kapisattamaḥ_), and laughing heartily again and again (_prahasan ... muhuḥ_), asked Rāvaṇa: “Whence have you come (_kutas tvam iti covāca_)?”
 </details>
 </details>
 
@@ -1157,7 +1157,7 @@ Then that foremost of monkeys released Rāvaṇa from his armpit (rāvaṇaṃ t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with immense astonishment (vismayaṃ tu mahad gatvā), his eyes rolling unsteadily from exhaustion (śrama-lola-nirīkṣaṇaḥ), the sovereign of the rākṣasas (rākṣasendraḥ) spoke these words to that king of monkeys (harīndraṃ tam idaṃ vacanam abravīt):
+Filled with immense astonishment (_vismayaṃ tu mahad gatvā_), his eyes rolling unsteadily from exhaustion (_śrama-lola-nirīkṣaṇaḥ_), the sovereign of the rākṣasas (_rākṣasendraḥ_) spoke these words to that king of monkeys (_harīndraṃ tam idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ Filled with immense astonishment (vismayaṃ tu mahad gatvā), his eyes rolling 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king of vānaras (vānarendra), radiant as great Indra (mahendrābha), I am Rāvaṇa, sovereign of the rākṣasas (rākṣasendro ’smi rāvaṇaḥ); I came here eager for combat (yuddhepsur iha samprāptaḥ), and today I have been overpowered by you (sa cādyāsāditas tvayā)!
+“O king of vānaras (_vānarendra_), radiant as great Indra (_mahendrābha_), I am Rāvaṇa, sovereign of the rākṣasas (_rākṣasendro ’smi rāvaṇaḥ_); I came here eager for combat (_yuddhepsur iha samprāptaḥ_), and today I have been overpowered by you (_sa cādyāsāditas tvayā_)!
 </details>
 </details>
 
@@ -1227,7 +1227,7 @@ Marveling at Vālī’s strength, speed, and poise—rivaled only by thought, wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Oh, what strength! Oh, what valor! Oh, what unfathomable poise as well (aho balam aho vīryam aho gāmbhīryam eva ca)—by which, seizing me like a beast (yenāhaṃ paśuvad gṛhya), you whirled me round the four oceans (bhrāmitaś caturo ’rṇavān)!
+“Oh, what strength! Oh, what valor! Oh, what unfathomable poise as well (_aho balam aho vīryam aho gāmbhīryam eva ca_)—by which, seizing me like a beast (_yenāhaṃ paśuvad gṛhya_), you whirled me round the four oceans (_bhrāmitaś caturo ’rṇavān_)!
 </details>
 </details>
 
@@ -1258,7 +1258,7 @@ Marveling at Vālī’s strength, speed, and poise—rivaled only by thought, wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What other hero, O valiant one (ko ’nyo vīraḥ), could traverse the great oceans so swiftly as though unwearied (evam aśrāntavad vīra śīghram eva mahārṇavān), while carrying even me aloft (māṃ caivodvahamānas tu kramiṣyati)?
+“What other hero, O valiant one (_ko ’nyo vīraḥ_), could traverse the great oceans so swiftly as though unwearied (_evam aśrāntavad vīra śīghram eva mahārṇavān_), while carrying even me aloft (_māṃ caivodvahamānas tu kramiṣyati_)?
 </details>
 </details>
 
@@ -1289,7 +1289,7 @@ Marveling at Vālī’s strength, speed, and poise—rivaled only by thought, wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To three beings alone belongs such speed as this (trayāṇām eva bhūtānāṃ gatir eṣā), O monkey chief (plavaṅgama)—to mind, to wind, and to Garuḍa (mano-’nila-suparṇānām)—and to you as well, of that there is no doubt (tava cātra na saṃśayaḥ)!
+“To three beings alone belongs such speed as this (_trayāṇām eva bhūtānāṃ gatir eṣā_), O monkey chief (_plavaṅgama_)—to mind, to wind, and to Garuḍa (_mano-’nila-suparṇānām_)—and to you as well, of that there is no doubt (_tava cātra na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -1320,7 +1320,7 @@ Marveling at Vālī’s strength, speed, and poise—rivaled only by thought, wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I, having witnessed your might (so ’haṃ dṛṣṭabalas tubhyam), O bull among monkeys (haripuṅgava), desire enduring and deeply affectionate friendship with you (icchāmi ... tvayā saha ciraṃ sakhyaṃ susnigdham) in the presence of the sacred fire (pāvakāgrataḥ).
+“Therefore I, having witnessed your might (_so ’haṃ dṛṣṭabalas tubhyam_), O bull among monkeys (_haripuṅgava_), desire enduring and deeply affectionate friendship with you (_icchāmi ... tvayā saha ciraṃ sakhyaṃ susnigdham_) in the presence of the sacred fire (_pāvakāgrataḥ_).
 </details>
 </details>
 
@@ -1354,7 +1354,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Wives, sons, capital city, kingdom (dārāḥ putrāḥ puraṃ rāṣṭram), enjoyments, raiment, and fare (bhogācchādana-bhojanam)—all of these shall be held completely undivided between the two of us (sarvam evāvibhaktaṃ nau bhaviṣyati), O lord of monkeys (harīśvara)!”
+“Wives, sons, capital city, kingdom (_dārāḥ putrāḥ puraṃ rāṣṭram_), enjoyments, raiment, and fare (_bhogācchādana-bhojanam_)—all of these shall be held completely undivided between the two of us (_sarvam evāvibhaktaṃ nau bhaviṣyati_), O lord of monkeys (_harīśvara_)!”
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ Kindling the sacred fire, Vālī and Rāvaṇa embrace in sworn brotherhood and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, having kindled the sacred fire (tataḥ prajvālayitvāgnim), both that monkey and that rākṣasa (tāv ubhau harīrākṣasau) embraced one another (pariṣvajya parasparam) and entered into sworn brotherhood (bhrātṛtvam upasampannau).
+Thereupon, having kindled the sacred fire (_tataḥ prajvālayitvāgnim_), both that monkey and that rākṣasa (_tāv ubhau harīrākṣasau_) embraced one another (_pariṣvajya parasparam_) and entered into sworn brotherhood (_bhrātṛtvam upasampannau_).
 </details>
 </details>
 
@@ -1424,7 +1424,7 @@ Thereupon, having kindled the sacred fire (tataḥ prajvālayitvāgnim), both th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, linking hands with one another (anyonyaṃ lambitakarau), those two—monkey and rākṣasa (tatas tau harirākṣasau)—entered Kiṣkindhā in great joy (kiṣkindhāṃ viśatur hṛṣṭau), like two lions entering a mountain cavern (siṃhau giriguhām iva).
+Then, linking hands with one another (_anyonyaṃ lambitakarau_), those two—monkey and rākṣasa (_tatas tau harirākṣasau_)—entered Kiṣkindhā in great joy (_kiṣkindhāṃ viśatur hṛṣṭau_), like two lions entering a mountain cavern (_siṃhau giriguhām iva_).
 </details>
 </details>
 
@@ -1458,7 +1458,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dwelt there for a full month just like Sugrīva (sa tatra māsam uṣitaḥ sugrīva iva rāvaṇaḥ), Rāvaṇa was led away by his returning ministers (amātyair āgatair nītaḥ), who were eager to lay waste the three worlds (trailokyotsādanārthibhiḥ).
+Having dwelt there for a full month just like Sugrīva (_sa tatra māsam uṣitaḥ sugrīva iva rāvaṇaḥ_), Rāvaṇa was led away by his returning ministers (_amātyair āgatair nītaḥ_), who were eager to lay waste the three worlds (_trailokyotsādanārthibhiḥ_).
 </details>
 </details>
 
@@ -1489,7 +1489,7 @@ Having dwelt there for a full month just like Sugrīva (sa tatra māsam uṣita�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus transpired this ancient event (evam etat purāvṛttam), O Lord (prabho): by Vālī was Rāvaṇa both humbled (vālinā rāvaṇaḥ ... dharṣitaś ca) and made a sworn brother in the presence of the sacred fire (kṛtaś cāpi bhrātā pāvakasannidhau).
+Thus transpired this ancient event (_evam etat purāvṛttam_), O Lord (_prabho_): by Vālī was Rāvaṇa both humbled (_vālinā rāvaṇaḥ ... dharṣitaś ca_) and made a sworn brother in the presence of the sacred fire (_kṛtaś cāpi bhrātā pāvakasannidhau_).
 </details>
 </details>
 
@@ -1531,7 +1531,7 @@ Thus transpired this ancient event (evam etat purāvṛttam), O Lord (prabho): b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Peerless and supreme was the strength of Vālī (balam apratimaṃ ... vālino ’bhavad uttamam), O Rāma—yet even he was utterly consumed by you (so ’pi tvayā vinirdagdhaḥ), like a moth by blazing fire (śalabho vahninā yathā)!
+Peerless and supreme was the strength of Vālī (_balam apratimaṃ ... vālino ’bhavad uttamam_), O Rāma—yet even he was utterly consumed by you (_so ’pi tvayā vinirdagdhaḥ_), like a moth by blazing fire (_śalabho vahninā yathā_)!
 </details>
 </details>
 

@@ -59,7 +59,7 @@ Hearing Brahmā's words, the Fire-god Vibhāvasu rises in person from the pyre h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that auspicious speech uttered by the Grandsire (pitāmahasamīritam), Vibhāvasu [the Fire-god] rose up aloft (utpapāta), taking Vaidehī in his arms (aṅkenādāya).
+Hearing that auspicious speech uttered by the Grandsire (_pitāmahasamīritam_), Vibhāvasu [the Fire-god] rose up aloft (_utpapāta_), taking Vaidehī in his arms (_aṅkenādāya_).
 </details>
 </details>
 
@@ -93,7 +93,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scattering that funeral pyre (vidhūyātha citāṃ tām), the bearer of oblations swiftly stood forth in bodily form (mūrtimān), holding the daughter of Janaka, Vaidehī—
+Scattering that funeral pyre (_vidhūyātha citāṃ tām_), the bearer of oblations swiftly stood forth in bodily form (_mūrtimān_), holding the daughter of Janaka, Vaidehī—
 </details>
 </details>
 
@@ -124,7 +124,7 @@ Scattering that funeral pyre (vidhūyātha citāṃ tām), the bearer of oblatio
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—radiant as the newly risen sun (taruṇādityasaṃkāśām), decked with ornaments of burnished gold, wearing crimson garments (raktāmbaradharām), youthful, with dark and curling locks—
+—radiant as the newly risen sun (_taruṇādityasaṃkāśām_), decked with ornaments of burnished gold, wearing crimson garments (_raktāmbaradharām_), youthful, with dark and curling locks—
 </details>
 </details>
 
@@ -173,7 +173,7 @@ headed by Sugreeva for the bath."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—wearing unwithering garlands and ornaments (akliṣṭamālyābharaṇām), unchanged in beauty (tathārūpām) and blameless; placing Vaidehī upon his lap, Vibhāvasu presented her to Rāma.
+—wearing unwithering garlands and ornaments (_akliṣṭamālyābharaṇām_), unchanged in beauty (_tathārūpām_) and blameless; placing Vaidehī upon his lap, Vibhāvasu presented her to Rāma.
 </details>
 </details>
 
@@ -225,7 +225,7 @@ the great-armed and the one consistent with the truth is suffering on my account
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Pāvaka, the witness of the world (sākṣī lokasya), spoke to Rāma: “Here is your Vaidehī, O Rāma; no sin exists in her (pāpam asyāṃ na vidyate).
+Then Pāvaka, the witness of the world (_sākṣī lokasya_), spoke to Rāma: “Here is your Vaidehī, O Rāma; no sin exists in her (_pāpam asyāṃ na vidyate_).
 </details>
 </details>
 
@@ -280,7 +280,7 @@ bathing, garments and jewels are not to my liking."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither by speech, nor by mind, nor by intellect (naiva buddhyā), nor by glance has this auspicious lady of noble conduct (suvṛttā)—proud of her virtue (vṛttaśauṭīryā)—ever transgressed against you.
+Neither by speech, nor by mind, nor by intellect (_naiva buddhyā_), nor by glance has this auspicious lady of noble conduct (_suvṛttā_)—proud of her virtue (_vṛttaśauṭīryā_)—ever transgressed against you.
 </details>
 </details>
 
@@ -340,7 +340,7 @@ travel over this path to reach Ayodhya City, so soon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Separated from you in a lonely place (nirjane), wretched and helpless (dīnā vivaśā), this chaste lady was carried off by the Rākṣasa Rāvaṇa, puffed up with his valor (vīryotsiktena).
+Separated from you in a lonely place (_nirjane_), wretched and helpless (_dīnā vivaśā_), this chaste lady was carried off by the Rākṣasa Rāvaṇa, puffed up with his valor (_vīryotsiktena_).
 </details>
 </details>
 
@@ -386,7 +386,7 @@ City in a day."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Imprisoned and closely guarded in the inner apartments, her mind fixed on you and having you as her sole refuge (tvaccittā tvatparāyaṇā), she was watched over by frightful Rākṣasīs of cruel minds.
+Imprisoned and closely guarded in the inner apartments, her mind fixed on you and having you as her sole refuge (_tvaccittā tvatparāyaṇā_), she was watched over by frightful Rākṣasīs of cruel minds.
 </details>
 </details>
 
@@ -447,9 +447,9 @@ sake."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Though tempted in manifold ways (pralobhyamānā vividham) and threatened (tarjyamānā), Maithilī never gave a thought to that Rākṣasa (nācintayata tad rakṣaḥ), her inner soul being wholly absorbed in you (tvadgatenāntarātmanā).
+**9:** Though tempted in manifold ways (_pralobhyamānā vividham_) and threatened (_tarjyamānā_), Maithilī never gave a thought to that Rākṣasa (_nācintayata tad rakṣaḥ_), her inner soul being wholly absorbed in you (_tvadgatenāntarātmanā_).
 
-**10:** Accept Maithilī (pratigṛhṇīṣva maithilīm), who is of pure heart (viśuddhabhāvām) and sinless; she should not be spoken to harshly in any way—I solemnly enjoin you (aham ājñāpayāmi te)!”
+**10:** Accept Maithilī (_pratigṛhṇīṣva maithilīm_), who is of pure heart (_viśuddhabhāvām_) and sinless; she should not be spoken to harshly in any way—I solemnly enjoin you (_aham ājñāpayāmi te_)!”
 </details>
 </details>
 
@@ -498,7 +498,7 @@ you can reach Ayodhya without any trouble."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the righteous-souled Rāma, foremost of eloquent speakers, delighted at heart (prītamanāḥ) upon hearing this, reflected for a moment, his eyes brimming with tears of joy (harṣavyākulalocanaḥ).
+Then the righteous-souled Rāma, foremost of eloquent speakers, delighted at heart (_prītamanāḥ_) upon hearing this, reflected for a moment, his eyes brimming with tears of joy (_harṣavyākulalocanaḥ_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ with Lakshmana, your brother and Seetha your consort, shall then depart."
 
 **12:** Addressed thus, the resolute Rāma of great splendor and wide-striding valor, foremost of upholders of dharma, spoke to the chief of the gods:
 
-**13:** “Assuredly Sītā required purification (pāvanam arhati) before the worlds; for this auspicious lady dwelt for a long time (dīrghakāloṣitā) in the inner apartments of Rāvaṇa.
+**13:** “Assuredly Sītā required purification (_pāvanam arhati_) before the worlds; for this auspicious lady dwelt for a long time (_dīrghakāloṣitā_) in the inner apartments of Rāvaṇa.
 </details>
 </details>
 
@@ -621,7 +621,7 @@ friends, my hospitality which has been fixed and arranged by me, full of affecti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For had I not purified Jānakī (jānakīm aviśodhya hi), the world would say of me: ‘Foolish indeed and governed by lust (bāliśo bata kāmātmā) is Rāma, the son of Daśaratha!’
+For had I not purified Jānakī (_jānakīm aviśodhya hi_), the world would say of me: ‘Foolish indeed and governed by lust (_bāliśo bata kāmātmā_) is Rāma, the son of Daśaratha!’
 </details>
 </details>
 
@@ -670,7 +670,7 @@ am not in any way commanding you to do so."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I too know (aham apy avagacchāmi) Maithilī, the daughter of Janaka, Sītā, to be single-hearted (ananyahṛdayām) and ever guarding my own heart's wish (maccittaparirakṣiṇīm).
+I too know (_aham apy avagacchāmi_) Maithilī, the daughter of Janaka, Sītā, to be single-hearted (_ananyahṛdayām_) and ever guarding my own heart&#x27;s wish (_maccittaparirakṣiṇīm_).
 </details>
 </details>
 
@@ -739,7 +739,7 @@ following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa could no more transgress against this wide-eyed lady, guarded by her own fiery chastity (rakṣitāṃ svena tejasā), than the great ocean can overstep its shore (velām iva mahodadhiḥ).
+Rāvaṇa could no more transgress against this wide-eyed lady, guarded by her own fiery chastity (_rakṣitāṃ svena tejasā_), than the great ocean can overstep its shore (_velām iva mahodadhiḥ_).
 </details>
 </details>
 
@@ -794,7 +794,7 @@ your efforts put forth with your whole soul and more so by your friendship.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet in order to instill conviction in the three worlds (pratyayārthaṃ tu lokānāṃ trayāṇām), I, whose sole refuge is truth (satyasaṃśrayaḥ), looked on passively as Vaidehī entered the fire.
+Yet in order to instill conviction in the three worlds (_pratyayārthaṃ tu lokānāṃ trayāṇām_), I, whose sole refuge is truth (_satyasaṃśrayaḥ_), looked on passively as Vaidehī entered the fire.
 </details>
 </details>
 
@@ -853,9 +853,9 @@ hastening to see that Bharata, my brother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** For that evil-minded one [Rāvaṇa] was not able even in thought (manasāpi) to violate Maithilī, who was unapproachable like a blazing tongue of fire (dīptām agniśikhām iva).
+**18:** For that evil-minded one [Rāvaṇa] was not able even in thought (_manasāpi_) to violate Maithilī, who was unapproachable like a blazing tongue of fire (_dīptām agniśikhām iva_).
 
-**19:** This chaste lady could never succumb to weakness (neyam arhati vaiklavyam) in Rāvaṇa's inner apartments; for Sītā is inseparable from me (ananyā hi mayā sītā), just like sunlight from the sun (bhāskarasya prabhā yathā).
+**19:** This chaste lady could never succumb to weakness (_neyam arhati vaiklavyam_) in Rāvaṇa&#x27;s inner apartments; for Sītā is inseparable from me (_ananyā hi mayā sītā_), just like sunlight from the sun (_bhāskarasya prabhā yathā_).
 </details>
 </details>
 
@@ -912,7 +912,7 @@ country-side."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Purified before the three worlds (viśuddhā triṣu lokeṣu), Maithilī, the daughter of Janaka, cannot be forsaken by me, any more than renown by a self-possessed man (kīrtir ātmavatā yathā).
+Purified before the three worlds (_viśuddhā triṣu lokeṣu_), Maithilī, the daughter of Janaka, cannot be forsaken by me, any more than renown by a self-possessed man (_kīrtir ātmavatā yathā_).
 </details>
 </details>
 
@@ -958,7 +958,7 @@ disappointed, I entreat you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And assuredly the salutary counsel (vaco hitam) of all of you—affectionate protectors of the worlds (snigdhānāṃ lokanāthānām) who speak what is beneficial—must be carried out by me.”
+And assuredly the salutary counsel (_vaco hitam_) of all of you—affectionate protectors of the worlds (_snigdhānāṃ lokanāthānām_) who speak what is beneficial—must be carried out by me.”
 </details>
 </details>
 
@@ -1010,7 +1010,7 @@ continued stay here, now that my task has been accomplished?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the victorious, mighty, and illustrious Rāma, praised for the deed he had accomplished (svakṛtena karmaṇā), was reunited with his beloved (sametya priyayā); and Rāghava, worthy of happiness, experienced supreme felicity (sukham anubabhūva).
+Having spoken thus, the victorious, mighty, and illustrious Rāma, praised for the deed he had accomplished (_svakṛtena karmaṇā_), was reunited with his beloved (_sametya priyayā_); and Rāghava, worthy of happiness, experienced supreme felicity (_sukham anubabhūva_).
 </details>
 </details>
 

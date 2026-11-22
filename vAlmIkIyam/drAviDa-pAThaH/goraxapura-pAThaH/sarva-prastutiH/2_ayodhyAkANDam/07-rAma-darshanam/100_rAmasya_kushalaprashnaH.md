@@ -124,11 +124,11 @@ dynasty embraced Bharata and with an absorbent mind, enquired of him as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Rāma beheld him fallen upon the ground with palms joined in supplication, wearing matted locks and garments of bark (jaṭilaṃ cīra-vasanaṃ prāñjaliṃ patitaṃ bhuvi dadarśa rāmo), hard to gaze upon like the sun at the dissolution of a world-age (durdarśaṃ yugānte bhāskaraṃ yathā).
+**1:** Rāma beheld him fallen upon the ground with palms joined in supplication, wearing matted locks and garments of bark (_jaṭilaṃ cīra-vasanaṃ prāñjaliṃ patitaṃ bhuvi dadarśa rāmo_), hard to gaze upon like the sun at the dissolution of a world-age (_durdarśaṃ yugānte bhāskaraṃ yathā_).
 
-**2:** Recognizing only with difficulty his brother Bharata, whose face was pale and body emaciated (kathañcid abhivijñāya vivarṇa-vadanaṃ kṛśam bhrātaraṃ bharatam), Rāma embraced him with his arm (rāmaḥ parijagrāha bāhunā).
+**2:** Recognizing only with difficulty his brother Bharata, whose face was pale and body emaciated (_kathañcid abhivijñāya vivarṇa-vadanaṃ kṛśam bhrātaraṃ bharatam_), Rāma embraced him with his arm (_rāmaḥ parijagrāha bāhunā_).
 
-**3:** Smelling him upon the crown of his head and embracing him (āghrāya rāmas taṃ mūrdhni pariṣvajya ca rāghavaḥ), Rāma placed Bharata upon his lap and questioned him with composed mind (aṅke bharatam āropya paryapṛcchat samāhitaḥ):
+**3:** Smelling him upon the crown of his head and embracing him (_āghrāya rāmas taṃ mūrdhni pariṣvajya ca rāghavaḥ_), Rāma placed Bharata upon his lap and questioned him with composed mind (_aṅke bharatam āropya paryapṛcchat samāhitaḥ_):
 </details>
 </details>
 
@@ -181,7 +181,7 @@ you ought not have to come to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where, dear brother, was your father that you have come to the wilderness (kva nu te ’bhūt pitā tāta yad araṇyaṃ tvam āgataḥ)? For surely you ought not to come to the forest while he is alive (na hi tvaṃ jīvatas tasya vanam āgantum arhasi).
+“Where, dear brother, was your father that you have come to the wilderness (_kva nu te ’bhūt pitā tāta yad araṇyaṃ tvam āgataḥ_)? For surely you ought not to come to the forest while he is alive (_na hi tvaṃ jīvatas tasya vanam āgantum arhasi_).
 </details>
 </details>
 
@@ -234,7 +234,7 @@ face into this forest Alas! Why have you come to the forest, my darling?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Alas! After a long time I behold Bharata come from afar (cirasya bata paśyāmi dūrād bharatam āgatam), worn and altered in form in this wilderness; why, dear brother, have you come to the forest (duṣpratīkam araṇye ’smin kiṃ tāta vanam āgataḥ)?
+Alas! After a long time I behold Bharata come from afar (_cirasya bata paśyāmi dūrād bharatam āgatam_), worn and altered in form in this wilderness; why, dear brother, have you come to the forest (_duṣpratīkam araṇye ’smin kiṃ tāta vanam āgataḥ_)?
 </details>
 </details>
 
@@ -286,7 +286,7 @@ king has not indeed departed to the other world, all of a sudden."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Does the king still sustain his life-breath, dear brother, since you have come here (kaccid dhārayate tāta rājā yat tvam ihāgataḥ)? I trust the grieving king has not suddenly departed to the other world (kaccin na dīnaḥ sahasā rājā lokāntaraṃ gataḥ)!
+Does the king still sustain his life-breath, dear brother, since you have come here (_kaccid dhārayate tāta rājā yat tvam ihāgataḥ_)? I trust the grieving king has not suddenly departed to the other world (_kaccin na dīnaḥ sahasā rājā lokāntaraṃ gataḥ_)!
 </details>
 </details>
 
@@ -351,7 +351,7 @@ valiant?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust, gentle brother, that your everlasting kingdom has not slipped away from you while you are yet young (kaccit saumya na te rājyaṃ bhraṣṭaṃ bālasya śāśvatam)! Do you dutifully serve our father of true valor, dear brother (kaccic chuśrūṣase tāta pitaraṃ satya-vikramam)?
+I trust, gentle brother, that your everlasting kingdom has not slipped away from you while you are yet young (_kaccit saumya na te rājyaṃ bhraṣṭaṃ bālasya śāśvatam_)! Do you dutifully serve our father of true valor, dear brother (_kaccic chuśrūṣase tāta pitaraṃ satya-vikramam_)?
 </details>
 </details>
 
@@ -403,7 +403,7 @@ performs Rajasuya and Ashvamedha Sacrifices and he who has a righteous resolve."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is King Daśaratha well—he who is true to his word (kaccid daśaratho rājā kuśalī satya-saṅgaraḥ), the performer of Rājasūya and Aśvamedha sacrifices, steadfast in righteousness (rājasūyāśvamedhānām āhartā dharma-niścayaḥ)?
+Is King Daśaratha well—he who is true to his word (_kaccid daśaratho rājā kuśalī satya-saṅgaraḥ_), the performer of Rājasūya and Aśvamedha sacrifices, steadfast in righteousness (_rājasūyāśvamedhānām āhartā dharma-niścayaḥ_)?
 </details>
 </details>
 
@@ -457,7 +457,7 @@ learned who constantly keep up the virtues and he who has a great splendour?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is that learned Brāhmaṇa of great splendor, ever constant in dharma (sa kaccid brāhmaṇo vidvān dharma-nityo mahā-dyutiḥ), the preceptor of the Ikṣvākus, duly honored by you, dear brother (ikṣvākūṇām upādhyāyo yathāvat tāta pūjyate)?
+Is that learned Brāhmaṇa of great splendor, ever constant in dharma (_sa kaccid brāhmaṇo vidvān dharma-nityo mahā-dyutiḥ_), the preceptor of the Ikṣvākus, duly honored by you, dear brother (_ikṣvākūṇām upādhyāyo yathāvat tāta pūjyate_)?
 </details>
 </details>
 
@@ -510,7 +510,7 @@ hope the venerable queen Kaikeyi is rejoicing."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dear brother, are Queen Kausalyā and Sumitrā, blessed with noble sons, in happiness (sā tāta kaccit kausalyā sumitrā ca prajāvatī sukhinī)? And does the noble Queen Kaikeyī rejoice (kaccid āryā ca devī nandati kaikayī)?
+Dear brother, are Queen Kausalyā and Sumitrā, blessed with noble sons, in happiness (_sā tāta kaccit kausalyā sumitrā ca prajāvatī sukhinī_)? And does the noble Queen Kaikeyī rejoice (_kaccid āryā ca devī nandati kaikayī_)?
 </details>
 </details>
 
@@ -564,7 +564,7 @@ of insight, is duly honoured by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is your chaplain—endowed with humility, of noble lineage, deeply learned, free from envy, and ever watchful over your welfare—duly honored by you (kaccid vinaya-sampannaḥ kula-putro bahu-śrutaḥ anasūyur anudraṣṭā sat-kṛtas te purohitaḥ)?
+Is your chaplain—endowed with humility, of noble lineage, deeply learned, free from envy, and ever watchful over your welfare—duly honored by you (_kaccid vinaya-sampannaḥ kula-putro bahu-śrutaḥ anasūyur anudraṣṭā sat-kṛtas te purohitaḥ_)?
 </details>
 </details>
 
@@ -618,7 +618,7 @@ going to be fed with oblations."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Does he who is appointed over your sacred fires—conversant with ritual ordinances, wise, and upright (kaccid agniṣu te yukto vidhi-jño matimān ṛjuḥ)—always announce to you at the proper hour both the oblation already offered and that which is about to be offered (hutaṃ ca hoṣyamāṇaṃ ca kāle vedayate sadā)?
+Does he who is appointed over your sacred fires—conversant with ritual ordinances, wise, and upright (_kaccid agniṣu te yukto vidhi-jño matimān ṛjuḥ_)—always announce to you at the proper hour both the oblation already offered and that which is about to be offered (_hutaṃ ca hoṣyamāṇaṃ ca kāle vedayate sadā_)?
 </details>
 </details>
 
@@ -679,7 +679,7 @@ dependents and teachers of your father's age the doctors and the brahmins."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you honor the gods, forefathers, mothers, elders, and kinsmen equal to fathers (kaccid devān pitṝn mātṝr gurūn pitṛ-samān api), as well as the aged, dear brother, physicians, and Brāhmaṇas (vṛddhāṃś ca tāta vaidyāṃś ca brāhmaṇāṃś cābhimanyase)?
+Do you honor the gods, forefathers, mothers, elders, and kinsmen equal to fathers (_kaccid devān pitṝn mātṝr gurūn pitṛ-samān api_), as well as the aged, dear brother, physicians, and Brāhmaṇas (_vṛddhāṃś ca tāta vaidyāṃś ca brāhmaṇāṃś cābhimanyase_)?
 </details>
 </details>
 
@@ -733,7 +733,7 @@ economy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you hold in high esteem, dear brother, your preceptor Sudhanvan (sudhanvānam upādhyāyaṃ kaccit tvaṃ tāta manyase), who is accomplished in the foremost arrows and mystic missiles and skilled in political science (iṣv-astra-vara-sampannam artha-śāstra-viśāradam)?
+Do you hold in high esteem, dear brother, your preceptor Sudhanvan (_sudhanvānam upādhyāyaṃ kaccit tvaṃ tāta manyase_), who is accomplished in the foremost arrows and mystic missiles and skilled in political science (_iṣv-astra-vara-sampannam artha-śāstra-viśāradam_)?
 </details>
 </details>
 
@@ -787,7 +787,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you appointed as your counselors, dear brother, men who are like yourself, heroic, learned in the śāstras, masters of their senses, high-born, and skilled in reading outward signs and gestures (kaccid ātma-samāḥ śūrāḥ śrutavanto jitendriyāḥ kulīnāś ceṅgita-jñāś ca kṛtās te tāta mantriṇaḥ)?
+Have you appointed as your counselors, dear brother, men who are like yourself, heroic, learned in the śāstras, masters of their senses, high-born, and skilled in reading outward signs and gestures (_kaccid ātma-samāḥ śūrāḥ śrutavanto jitendriyāḥ kulīnāś ceṅgita-jñāś ca kṛtās te tāta mantriṇaḥ_)?
 </details>
 </details>
 
@@ -840,7 +840,7 @@ who are well-versed in political sciences and who can hide their thoughts within
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For counsel, O Rāghava, when kept well-guarded by ministers who preserve state secrets and are versed in the śāstras, is the very root of victory for kings (mantro vijaya-mūlaṃ hi rājñāṃ bhavati rāghava susaṃvṛto mantra-dharair amātyaiḥ śāstra-kovidaiḥ).
+For counsel, O Rāghava, when kept well-guarded by ministers who preserve state secrets and are versed in the śāstras, is the very root of victory for kings (_mantro vijaya-mūlaṃ hi rājñāṃ bhavati rāghava susaṃvṛto mantra-dharair amātyaiḥ śāstra-kovidaiḥ_).
 </details>
 </details>
 
@@ -896,7 +896,7 @@ action."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you not fall under the sway of sleep, and do you wake at the proper hour (kaccin nidrā-vaśaṃ naiṣīḥ kaccit kāle prabudhyase)? And in the last watches of the night do you ponder the skillful means of achieving royal ends (kaccic cāpara-rātreṣu cintayasy artha-naipuṇam)?
+Do you not fall under the sway of sleep, and do you wake at the proper hour (_kaccin nidrā-vaśaṃ naiṣīḥ kaccit kāle prabudhyase_)? And in the last watches of the night do you ponder the skillful means of achieving royal ends (_kaccic cāpara-rātreṣu cintayasy artha-naipuṇam_)?
 </details>
 </details>
 
@@ -950,7 +950,7 @@ carried out)".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you deliberate neither all alone nor together with too many (kaccin mantrayase naikaḥ kaccin na bahubhiḥ saha)? And does the counsel you have resolved upon not run abroad through the kingdom (kaccit te mantrito mantro rāṣṭraṃ na paridhāvati)?
+Do you deliberate neither all alone nor together with too many (_kaccin mantrayase naikaḥ kaccin na bahubhiḥ saha_)? And does the counsel you have resolved upon not run abroad through the kingdom (_kaccit te mantrito mantro rāṣṭraṃ na paridhāvati_)?
 </details>
 </details>
 
@@ -1011,7 +1011,7 @@ which has maximum benefit with minimum coast and indeed do not delay it further.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having resolved upon an undertaking requiring small outlay yet yielding great fruit (kaccid arthaṃ viniścitya laghu-mūlaṃ mahodayam), do you swiftly begin to execute it without delaying, O Rāghava (kṣipram ārabhase kartuṃ na dīrghayasi rāghava)?
+Having resolved upon an undertaking requiring small outlay yet yielding great fruit (_kaccid arthaṃ viniścitya laghu-mūlaṃ mahodayam_), do you swiftly begin to execute it without delaying, O Rāghava (_kṣipram ārabhase kartuṃ na dīrghayasi rāghava_)?
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ undertakings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do other kings come to know of all your undertakings only after they have been fully accomplished or nearly completed, and never while they are still to be performed (kaccit te sukṛtāny eva kṛta-rūpāṇi vā punaḥ vidus te sarva-kāryāṇi na kartavyāni pārthivāḥ)?
+Do other kings come to know of all your undertakings only after they have been fully accomplished or nearly completed, and never while they are still to be performed (_kaccit te sukṛtāny eva kṛta-rūpāṇi vā punaḥ vidus te sarva-kāryāṇi na kartavyāni pārthivāḥ_)?
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ ministers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust, dear brother, that others do not divine through conjecture, reasoning, or unuttered hints the counsel deliberated by you or your ministers (kaccin na tarkair yuktyā vā ye cāpy aparikīrtitāḥ tvayā vā tava vāmātyair budhyate tāta mantritam)!
+I trust, dear brother, that others do not divine through conjecture, reasoning, or unuttered hints the counsel deliberated by you or your ministers (_kaccin na tarkair yuktyā vā ye cāpy aparikīrtitāḥ tvayā vā tava vāmātyair budhyate tāta mantritam_)!
 </details>
 </details>
 
@@ -1175,7 +1175,7 @@ man can be of a great help to you in difficult matters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you prefer a single wise man over a thousand fools (kaccit sahasrān mūrkhāṇām ekam icchasi paṇḍitam)? For in times of financial or political crisis, a wise man can accomplish great good (paṇḍito hy artha-kṛcchreṣu kuryān niḥśreyasaṃ mahat).
+Do you prefer a single wise man over a thousand fools (_kaccit sahasrān mūrkhāṇām ekam icchasi paṇḍitam_)? For in times of financial or political crisis, a wise man can accomplish great good (_paṇḍito hy artha-kṛcchreṣu kuryān niḥśreyasaṃ mahat_).
 </details>
 </details>
 
@@ -1227,7 +1227,7 @@ helpful to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if a lord of the earth retains thousands or tens of thousands of fools (sahasrāṇy api mūrkhāṇāṃ yady upāste mahī-patiḥ athavāpy ayutāny eva), there is no real assistance to be found in them (nāsti teṣu sahāyatā).
+Even if a lord of the earth retains thousands or tens of thousands of fools (_sahasrāṇy api mūrkhāṇāṃ yady upāste mahī-patiḥ athavāpy ayutāny eva_), there is no real assistance to be found in them (_nāsti teṣu sahāyatā_).
 </details>
 </details>
 
@@ -1280,7 +1280,7 @@ great prosperity to the king or to one who enjoys royal authority."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even a single minister who is intelligent, heroic, capable, and versed in policy (eko ’py amātyo medhāvī śūro dakṣo vicakṣaṇaḥ) can lead a king or a royal prince to supreme prosperity (rājānaṃ rāja-mātraṃ vā prāpayen mahatīṃ śriyam).
+Even a single minister who is intelligent, heroic, capable, and versed in policy (_eko ’py amātyo medhāvī śūro dakṣo vicakṣaṇaḥ_) can lead a king or a royal prince to supreme prosperity (_rājānaṃ rāja-mātraṃ vā prāpayen mahatīṃ śriyam_).
 </details>
 </details>
 
@@ -1344,7 +1344,7 @@ in mediocre works and inferior servants in inferior works."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are superior servants employed in great enterprises alone, middle servants in middling tasks, and the lowest servants in the lowest duties (kaccin mukhyā mahatsv eva madhyameṣu ca madhyamāḥ jaghanyās tu jaghanyeṣu bhṛtyāḥ karmasu yojitāḥ)?
+Are superior servants employed in great enterprises alone, middle servants in middling tasks, and the lowest servants in the lowest duties (_kaccin mukhyā mahatsv eva madhyameṣu ca madhyamāḥ jaghanyās tu jaghanyeṣu bhṛtyāḥ karmasu yojitāḥ_)?
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ importance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you appoint to the highest offices pure, hereditary ministers of your father and grandfather who have passed every test of integrity (amātyān upadhātītān pitṛ-paitāmahāñ śucīn śreṣṭhān śreṣṭheṣu kaccit tvaṃ niyojayasi karmasu)?
+Do you appoint to the highest offices pure, hereditary ministers of your father and grandfather who have passed every test of integrity (_amātyān upadhātītān pitṛ-paitāmahāñ śucīn śreṣṭhān śreṣṭheṣu kaccit tvaṃ niyojayasi karmasu_)?
 </details>
 </details>
 
@@ -1451,7 +1451,7 @@ scepter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust, O son of Kaikeyī, that your ministers do not countenance your kingdom having its subjects sorely terrified by harsh punishment (kaccin nogreṇa daṇḍena bhṛśam udvejita-prajam rāṣṭraṃ tavānujānanti mantriṇaḥ kaikayī-suta)!
+I trust, O son of Kaikeyī, that your ministers do not countenance your kingdom having its subjects sorely terrified by harsh punishment (_kaccin nogreṇa daṇḍena bhṛśam udvejita-prajam rāṣṭraṃ tavānujānanti mantriṇaḥ kaikayī-suta_)!
 </details>
 </details>
 
@@ -1507,7 +1507,7 @@ men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do your subjects not despise you as an extortionate receiver of fierce exactions—just as sacrificing priests despise a fallen man, or women despise a violent, lustful ravisher (kaccit tvāṃ nāvajānanti yājakāḥ patitaṃ yathā ugra-pratigrahītāraṃ kāmayānam iva striyaḥ)?
+Do your subjects not despise you as an extortionate receiver of fierce exactions—just as sacrificing priests despise a fallen man, or women despise a violent, lustful ravisher (_kaccit tvāṃ nāvajānanti yājakāḥ patitaṃ yathā ugra-pratigrahītāraṃ kāmayānam iva striyaḥ_)?
 </details>
 </details>
 
@@ -1564,7 +1564,7 @@ disease, a servant intent on bringing disgrace and a valiant warrior seeking kin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The king who does not slay a crafty schemer skilled in stratagems, bent upon corrupting his servants, bold, and greedy for sovereign power, is himself slain by him (upāya-kuśalaṃ vaidyaṃ bhṛtya-sandūṣaṇe ratam śūram aiśvarya-kāmaṃ ca yo na hanti sa vadhyate).
+The king who does not slay a crafty schemer skilled in stratagems, bent upon corrupting his servants, bold, and greedy for sovereign power, is himself slain by him (_upāya-kuśalaṃ vaidyaṃ bhṛtya-sandūṣaṇe ratam śūram aiśvarya-kāmaṃ ca yo na hanti sa vadhyate_).
 </details>
 </details>
 
@@ -1618,7 +1618,7 @@ born in a good family, who is beloved by his subordinates and efficient, is sele
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you appointed as your commander-in-chief a man who is cheerful, heroic, wise, steadfast, pure, high-born, devoted, and capable (kaccid dhṛṣṭaś ca śūraś ca matimān dhṛtimāñ śuciḥ kulīnaś cānuraktaś ca dakṣaḥ senā-patiḥ kṛtaḥ)?
+Have you appointed as your commander-in-chief a man who is cheerful, heroic, wise, steadfast, pure, high-born, devoted, and capable (_kaccid dhṛṣṭaś ca śūraś ca matimān dhṛtimāñ śuciḥ kulīnaś cānuraktaś ca dakṣaḥ senā-patiḥ kṛtaḥ_)?
 </details>
 </details>
 
@@ -1680,7 +1680,7 @@ you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are your mighty warrior-chiefs—skilled in battle, of proven heroic deeds, and valorous—duly honored and esteemed by you (balavantaś ca kaccit te mukhyā yuddha-viśāradāḥ dṛṣṭāpadānā vikrāntās tvayā sat-kṛtya mānitāḥ)?
+Are your mighty warrior-chiefs—skilled in battle, of proven heroic deeds, and valorous—duly honored and esteemed by you (_balavantaś ca kaccit te mukhyā yuddha-viśāradāḥ dṛṣṭāpadānā vikrāntās tvayā sat-kṛtya mānitāḥ_)?
 </details>
 </details>
 
@@ -1732,7 +1732,7 @@ salary to them, without any delay."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you give to your army at the proper time, without delaying, the daily food allowance and monthly pay that are due and fitting (kaccid balasya bhaktaṃ ca vetanaṃ ca yathocitam samprāpta-kālaṃ dātavyaṃ dadāsi na vilambase)?
+Do you give to your army at the proper time, without delaying, the daily food allowance and monthly pay that are due and fitting (_kaccid balasya bhaktaṃ ca vetanaṃ ca yathocitam samprāpta-kālaṃ dātavyaṃ dadāsi na vilambase_)?
 </details>
 </details>
 
@@ -1785,7 +1785,7 @@ their master and become corrupt; and that is said to be a great unfortunate occu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For when there is delay in the payment of their rations and wages, paid soldiers grow enraged at their master and become disaffected—and that is declared to be a very great calamity (kālātikramaṇāc caiva bhakta-vetanayor bhṛtāḥ bhartuḥ kupyanti duṣyanti so ’narthaḥ sumahān smṛtaḥ).
+For when there is delay in the payment of their rations and wages, paid soldiers grow enraged at their master and become disaffected—and that is declared to be a very great calamity (_kālātikramaṇāc caiva bhakta-vetanayor bhṛtāḥ bhartuḥ kupyanti duṣyanti so ’narthaḥ sumahān smṛtaḥ_).
 </details>
 </details>
 
@@ -1838,7 +1838,7 @@ and do they lay down their lives steadfastly for your sake?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are all the foremost men of noble lineage devoted to you (kaccit sarve ’nuraktās tvāṃ kula-putrāḥ pradhānataḥ)? And do they steadfastly lay down their very lives in your causes (kaccit prāṇāṃs tavārtheṣu santyajanti samāhitāḥ)?
+Are all the foremost men of noble lineage devoted to you (_kaccit sarve ’nuraktās tvāṃ kula-putrāḥ pradhānataḥ_)? And do they steadfastly lay down their very lives in your causes (_kaccit prāṇāṃs tavārtheṣu santyajanti samāhitāḥ_)?
 </details>
 </details>
 
@@ -1893,7 +1893,7 @@ as an ambassador by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you appointed as your envoy, O Bharata, a native of the realm who is learned, dexterous, quick-witted, faithful in delivering his message exactly as spoken, and discerning (kaccij jānapado vidvān dakṣiṇaḥ pratibhānavān yathokta-vādī dūtas te kṛto bharata paṇḍitaḥ)?
+Have you appointed as your envoy, O Bharata, a native of the realm who is learned, dexterous, quick-witted, faithful in delivering his message exactly as spoken, and discerning (_kaccij jānapado vidvān dakṣiṇaḥ pratibhānavān yathokta-vādī dūtas te kṛto bharata paṇḍitaḥ_)?
 </details>
 </details>
 
@@ -1963,7 +1963,7 @@ viz; the chief ministers, the family priest and the crown prince.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you watch over the eighteen departments of state among enemy kings, and the fifteen in your own realm, through sets of three spies who are unknown to one another (kaccid aṣṭādaśānyeṣu sva-pakṣe daśa pañca ca tribhis tribhir avijñātair vetsi tīrthāni cārakaiḥ)?
+Do you watch over the eighteen departments of state among enemy kings, and the fifteen in your own realm, through sets of three spies who are unknown to one another (_kaccid aṣṭādaśānyeṣu sva-pakṣe daśa pañca ca tribhis tribhir avijñātair vetsi tīrthāni cārakaiḥ_)?
 </details>
 </details>
 
@@ -2026,7 +2026,7 @@ are weak and having been expelled, return again."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O destroyer of foes, do you never underestimate enemies who, having been driven out, have returned again, even if they appear weak (kaccid vyapāstān ahitān pratiyātāṃś ca sarvadā durbalān anavajñāya vartase ripu-sūdana)?
+O destroyer of foes, do you never underestimate enemies who, having been driven out, have returned again, even if they appear weak (_kaccid vyapāstān ahitān pratiyātāṃś ca sarvadā durbalān anavajñāya vartase ripu-sūdana_)?
 </details>
 </details>
 
@@ -2082,7 +2082,7 @@ skilled in perverting the mind, ignorant as they are and thinking themselves to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you avoid consorting with materialist Brāhmaṇas, dear brother (kaccin na lokāyatikān brāhmaṇāṃs tāta sevase)? For those childish men who fancy themselves wise are skilled only in bringing about ruin (anartha-kuśalā hy ete bālāḥ paṇḍita-māninaḥ).
+Do you avoid consorting with materialist Brāhmaṇas, dear brother (_kaccin na lokāyatikān brāhmaṇāṃs tāta sevase_)? For those childish men who fancy themselves wise are skilled only in bringing about ruin (_anartha-kuśalā hy ete bālāḥ paṇḍita-māninaḥ_).
 </details>
 </details>
 
@@ -2128,7 +2128,7 @@ meaninglessly, in the presence of eminent books on righteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though the foremost treatises of dharma are present, those perverse-minded men resort to dry dialectical reasoning and prate to no purpose (dharma-śāstreṣu mukhyeṣu vidyamāneṣu durbudhāḥ buddhim ānvīkṣikīṃ prāpya nirarthaṃ pravadanti te).
+Though the foremost treatises of dharma are present, those perverse-minded men resort to dry dialectical reasoning and prate to no purpose (_dharma-śāstreṣu mukhyeṣu vidyamāneṣu durbudhāḥ buddhim ānvīkṣikīṃ prāpya nirarthaṃ pravadanti te_).
 </details>
 </details>
 
@@ -2206,11 +2206,11 @@ abound there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**40:** Inhabited of old by our heroic forefathers, dear brother (vīrair adhyuṣitāṃ pūrvam asmākaṃ tāta pūrvakaiḥ), true to her name “Unconquerable,” furnished with strong gates, and thronged with elephants, horses, and chariots (satya-nāmāṃ dṛḍha-dvārāṃ hasty-aśva-ratha-saṅkulām);
+**40:** Inhabited of old by our heroic forefathers, dear brother (_vīrair adhyuṣitāṃ pūrvam asmākaṃ tāta pūrvakaiḥ_), true to her name “Unconquerable,” furnished with strong gates, and thronged with elephants, horses, and chariots (_satya-nāmāṃ dṛḍha-dvārāṃ hasty-aśva-ratha-saṅkulām_);
 
-**41:** filled by the thousands with noble Brāhmaṇas, Kṣatriyas, and Vaiśyas who are ever devoted to their own duties, self-controlled, and of high enterprise (brāhmaṇaiḥ kṣatriyair vaiśyaiḥ sva-karma-nirataiḥ sadā jitendriyair mahotsāhair vṛtām āryaiḥ sahasraśaḥ);
+**41:** filled by the thousands with noble Brāhmaṇas, Kṣatriyas, and Vaiśyas who are ever devoted to their own duties, self-controlled, and of high enterprise (_brāhmaṇaiḥ kṣatriyair vaiśyaiḥ sva-karma-nirataiḥ sadā jitendriyair mahotsāhair vṛtām āryaiḥ sahasraśaḥ_);
 
-**42:** ringed with palaces of diverse forms and crowded with learned men (prāsādair vividhākārair vṛtāṃ vaidya-janākulām)—do you guard that joyous and flourishing city of Ayodhyā (kaccit sumuditāṃ sphītām ayodhyāṃ parirakṣasi)?
+**42:** ringed with palaces of diverse forms and crowded with learned men (_prāsādair vividhākārair vṛtāṃ vaidya-janākulām_)—do you guard that joyous and flourishing city of Ayodhyā (_kaccit sumuditāṃ sphītām ayodhyāṃ parirakṣasi_)?
 </details>
 </details>
 
@@ -2312,13 +2312,13 @@ well-protected by our fore-fathers, is prosperous and an abode of happiness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** Graced with hundreds of sacrificial fire-altars and filled with well-settled folk (kaccic citya-śatair juṣṭaḥ suniviṣṭa-janākulaḥ), adorned with temples of the gods, roadside water-pavilions, and reservoirs (deva-sthānaiḥ prapābhiś ca taṭākaiś copaśobhitaḥ);
+**43:** Graced with hundreds of sacrificial fire-altars and filled with well-settled folk (_kaccic citya-śatair juṣṭaḥ suniviṣṭa-janākulaḥ_), adorned with temples of the gods, roadside water-pavilions, and reservoirs (_deva-sthānaiḥ prapābhiś ca taṭākaiś copaśobhitaḥ_);
 
-**44:** peopled by joyous men and women, resplendent with assemblies and festivals (prahṛṣṭa-nara-nārīkaḥ samājotsava-śobhitaḥ), having well-plowed fields, rich in cattle, and free from plagues and violence (sukṛṣṭa-sīmā paśumān hiṃsābhiḥ parivarjitaḥ);
+**44:** peopled by joyous men and women, resplendent with assemblies and festivals (_prahṛṣṭa-nara-nārīkaḥ samājotsava-śobhitaḥ_), having well-plowed fields, rich in cattle, and free from plagues and violence (_sukṛṣṭa-sīmā paśumān hiṃsābhiḥ parivarjitaḥ_);
 
-**45:** watered by rivers rather than dependent on rainfall alone, lovely, and cleared of beasts of prey (adeva-mātṛko ramyaḥ śvāpadaiḥ parivarjitaḥ), freed from every fear, and embellished with mines of gems and gold (parityakto bhayaiḥ sarvaiḥ khanibhiś copaśobhitaḥ);
+**45:** watered by rivers rather than dependent on rainfall alone, lovely, and cleared of beasts of prey (_adeva-mātṛko ramyaḥ śvāpadaiḥ parivarjitaḥ_), freed from every fear, and embellished with mines of gems and gold (_parityakto bhayaiḥ sarvaiḥ khanibhiś copaśobhitaḥ_);
 
-**46:** shunned by wicked men and well protected by my forefathers (vivarjito naraiḥ pāpair mama pūrvaiḥ surakṣitaḥ)—does that flourishing countryside dwell in happiness, O Rāghava (kaccij janapadaḥ sphītaḥ sukhaṃ vasati rāghava)?
+**46:** shunned by wicked men and well protected by my forefathers (_vivarjito naraiḥ pāpair mama pūrvaiḥ surakṣitaḥ_)—does that flourishing countryside dwell in happiness, O Rāghava (_kaccij janapadaḥ sphītaḥ sukhaṃ vasati rāghava_)?
 </details>
 </details>
 
@@ -2371,7 +2371,7 @@ borhter! The people living on agriculture and cattle-rearing indeed prosper well
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are all those who live by agriculture and cattle-tending dear to you (kaccit te dayitāḥ sarve kṛṣi-gorakṣa-jīvinaḥ)? For when the world abides in husbandry and trade, dear brother, it thrives in happiness (vārttāyāṃ saṃśritas tāta loko hi sukham edhate).
+Are all those who live by agriculture and cattle-tending dear to you (_kaccit te dayitāḥ sarve kṛṣi-gorakṣa-jīvinaḥ_)? For when the world abides in husbandry and trade, dear brother, it thrives in happiness (_vārttāyāṃ saṃśritas tāta loko hi sukham edhate_).
 </details>
 </details>
 
@@ -2428,7 +2428,7 @@ righteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Have you provided for their maintenance by securing their welfare and warding off afflictions (teṣāṃ gupti-parīhāraiḥ kaccit te bharaṇaṃ kṛtam)? For all inhabitants of the realm must be righteously protected by a king (rakṣyā hi rājñā dharmeṇa sarve viṣaya-vāsinaḥ).
+Have you provided for their maintenance by securing their welfare and warding off afflictions (_teṣāṃ gupti-parīhāraiḥ kaccit te bharaṇaṃ kṛtam_)? For all inhabitants of the realm must be righteously protected by a king (_rakṣyā hi rājñā dharmeṇa sarve viṣaya-vāsinaḥ_).
 </details>
 </details>
 
@@ -2489,7 +2489,7 @@ not believing the words of these women and not telling them the secrets."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you conciliate your womenfolk, and are they well protected (kaccit striyaḥ sāntvayasi kaccit tāś ca surakṣitāḥ)? Yet I trust you do not place blind faith in them, nor divulge state secrets to them (kaccin na śraddadhāsy āsāṃ kaccid guhyaṃ na bhāṣase)!
+Do you conciliate your womenfolk, and are they well protected (_kaccit striyaḥ sāntvayasi kaccit tāś ca surakṣitāḥ_)? Yet I trust you do not place blind faith in them, nor divulge state secrets to them (_kaccin na śraddadhāsy āsāṃ kaccid guhyaṃ na bhāṣase_)!
 </details>
 </details>
 
@@ -2543,7 +2543,7 @@ female elephants, horses and male-elephants."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is your elephant-forest well guarded, and do you possess female decoy elephants (kaccin nāga-vanaṃ guptaṃ kaccit te santi dhenukāḥ)? And are you never sated with acquiring female elephants, horses, and tuskers (kaccin na gaṇikāśvānāṃ kuñjarāṇāṃ ca tṛpyasi)?
+Is your elephant-forest well guarded, and do you possess female decoy elephants (_kaccin nāga-vanaṃ guptaṃ kaccit te santi dhenukāḥ_)? And are you never sated with acquiring female elephants, horses, and tuskers (_kaccin na gaṇikāśvānāṃ kuñjarāṇāṃ ca tṛpyasi_)?
 </details>
 </details>
 
@@ -2595,7 +2595,7 @@ morning, on the great high way?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising each morning at early dawn, O prince, do you show yourself arrayed in ornaments to the people upon the royal highway (kaccid darśayase nityaṃ manuṣyāṇāṃ vibhūṣitam utthāyotthāya pūrvāhṇe rāja-putra mahā-pathe)?
+Rising each morning at early dawn, O prince, do you show yourself arrayed in ornaments to the people upon the royal highway (_kaccid darśayase nityaṃ manuṣyāṇāṃ vibhūṣitam utthāyotthāya pūrvāhṇe rāja-putra mahā-pathe_)?
 </details>
 </details>
 
@@ -2652,7 +2652,7 @@ course only in the principle to be followed in this matter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust that neither do all your workmen come into your presence without awe, nor are they altogether denied access to your sight; for in this matter the middle course alone is the cause of success (kaccin na sarve karmāntāḥ pratyakṣās te ’viśaṅkayā sarve vā punar utsṛṣṭā madhyam evātra kāraṇam)!
+I trust that neither do all your workmen come into your presence without awe, nor are they altogether denied access to your sight; for in this matter the middle course alone is the cause of success (_kaccin na sarve karmāntāḥ pratyakṣās te ’viśaṅkayā sarve vā punar utsṛṣṭā madhyam evātra kāraṇam_)!
 </details>
 </details>
 
@@ -2705,7 +2705,7 @@ mechanical contrivances as well as artisans and archers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are all your fortresses fully stocked with treasure, grain, weapons, and water (kaccit sarvāṇi durgāṇi dhana-dhānyāyudhodakaiḥ), as well as mechanical engines, artisans, and archers (yantraiś ca paripūrṇāni tathā śilpi-dhanurdharaiḥ)?
+Are all your fortresses fully stocked with treasure, grain, weapons, and water (_kaccit sarvāṇi durgāṇi dhana-dhānyāyudhodakaiḥ_), as well as mechanical engines, artisans, and archers (_yantraiś ca paripūrṇāni tathā śilpi-dhanurdharaiḥ_)?
 </details>
 </details>
 
@@ -2758,7 +2758,7 @@ not reach undeserving people, O, Bharata!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is your revenue abundant, and is your expenditure smaller than your income (āyas te vipulaḥ kaccit kaccid alpataro vyayaḥ)? And I trust, O Rāghava, that your treasury does not go to unworthy recipients (apātreṣu na te kaccit kośo gacchati rāghava)!
+Is your revenue abundant, and is your expenditure smaller than your income (_āyas te vipulaḥ kaccit kaccid alpataro vyayaḥ_)? And I trust, O Rāghava, that your treasury does not go to unworthy recipients (_apātreṣu na te kaccit kośo gacchati rāghava_)!
 </details>
 </details>
 
@@ -2818,7 +2818,7 @@ unexpected visitors, soldiers and hosts of friends."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Does your expenditure go toward the worship of the gods, the rites of the forefathers, Brāhmaṇas, and arriving guests, as well as toward warriors and circles of allies (devatārthe ca pitr-arthe brāhmaṇābhyāgateṣu ca yodheṣu mitra-vargeṣu kaccid gacchati te vyayaḥ)?
+Does your expenditure go toward the worship of the gods, the rites of the forefathers, Brāhmaṇas, and arriving guests, as well as toward warriors and circles of allies (_devatārthe ca pitr-arthe brāhmaṇābhyāgateṣu ca yodheṣu mitra-vargeṣu kaccid gacchati te vyayaḥ_)?
 </details>
 </details>
 
@@ -2872,7 +2872,7 @@ law-books."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust that a noble man of pure soul and upright conduct, if falsely accused of theft, is not put to death or fined out of greed without being duly examined by men skilled in the legal śāstras (kaccid āryo viśuddhātmā ākṣāritaś cora-karmaṇā apṛṣṭaḥ śāstra-kuśalair na lobhād vadhyate śuciḥ)!
+I trust that a noble man of pure soul and upright conduct, if falsely accused of theft, is not put to death or fined out of greed without being duly examined by men skilled in the legal śāstras (_kaccid āryo viśuddhātmā ākṣāritaś cora-karmaṇā apṛṣṭaḥ śāstra-kuśalair na lobhād vadhyate śuciḥ_)!
 </details>
 </details>
 
@@ -2925,7 +2925,7 @@ sufficient ground and interrogated-I hope, he is not released from greed of weal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And when a thief has been caught in the act at the time of the theft, seen with the stolen goods, and interrogated, I trust, O bull among men, that he is not released out of greed for a bribe (gṛhītaś caiva pṛṣṭaś ca kāle dṛṣṭaḥ sa-kāraṇaḥ kaccin na mucyate coro dhana-lobhān nararṣabha)!
+And when a thief has been caught in the act at the time of the theft, seen with the stolen goods, and interrogated, I trust, O bull among men, that he is not released out of greed for a bribe (_gṛhītaś caiva pṛṣṭaś ca kāle dṛṣṭaḥ sa-kāraṇaḥ kaccin na mucyate coro dhana-lobhān nararṣabha_)!
 </details>
 </details>
 
@@ -2979,7 +2979,7 @@ carefully."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When a legal dispute arises between a rich man and a poor man, O Rāghava (vyasane kaccid āḍhyasya durgatasya ca rāghava), do your deeply learned ministers examine the case free from all partiality and greed (arthaṃ virāgāḥ paśyanti tavāmātyā bahu-śrutāḥ)?
+When a legal dispute arises between a rich man and a poor man, O Rāghava (_vyasane kaccid āḍhyasya durgatasya ca rāghava_), do your deeply learned ministers examine the case free from all partiality and greed (_arthaṃ virāgāḥ paśyanti tavāmātyā bahu-śrutāḥ_)?
 </details>
 </details>
 
@@ -3033,7 +3033,7 @@ pleasure."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The tears that fall from men who are falsely accused, O Rāghava (yāni mithyābhiśastānāṃ patanty asrāṇi rāghava), destroy the sons and cattle of a ruler who governs merely for his own pleasure without investigating justice (tāni putra-paśūn ghnanti prīty-artham anuśāsataḥ).
+The tears that fall from men who are falsely accused, O Rāghava (_yāni mithyābhiśastānāṃ patanty asrāṇi rāghava_), destroy the sons and cattle of a ruler who governs merely for his own pleasure without investigating justice (_tāni putra-paśūn ghnanti prīty-artham anuśāsataḥ_).
 </details>
 </details>
 
@@ -3089,7 +3089,7 @@ loving mind and polite words- the aged, the children and the foremost physicians
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you seek to win over and honor the aged, children, and the foremost of learned men and physicians, O Rāghava, by these three means—gifts, an affectionate mind, and gentle speech (kaccid vṛddhāṃś ca bālāṃś ca vaidya-mukhyāṃś ca rāghava dānena manasā vācā tribhir etair bubhūṣase)?
+Do you seek to win over and honor the aged, children, and the foremost of learned men and physicians, O Rāghava, by these three means—gifts, an affectionate mind, and gentle speech (_kaccid vṛddhāṃś ca bālāṃś ca vaidya-mukhyāṃś ca rāghava dānena manasā vācā tribhir etair bubhūṣase_)?
 </details>
 </details>
 
@@ -3152,7 +3152,7 @@ conduct."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you reverently bow to preceptors, elders, ascetics, deities, arriving guests, all sacred crossroads trees, and Brāhmaṇas accomplished in their aims (kaccid gurūṃś ca vṛddhāṃś ca tāpasān devatātithīn caityāṃś ca sarvān siddhārthān brāhmaṇāṃś ca namasyasi)?
+Do you reverently bow to preceptors, elders, ascetics, deities, arriving guests, all sacred crossroads trees, and Brāhmaṇas accomplished in their aims (_kaccid gurūṃś ca vṛddhāṃś ca tāpasān devatātithīn caityāṃś ca sarvān siddhārthān brāhmaṇāṃś ca namasyasi_)?
 </details>
 </details>
 
@@ -3208,7 +3208,7 @@ of the senses."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust you do not obstruct righteousness through wealth, or wealth in turn through righteousness, or both righteousness and wealth through pleasure born of attachment to sensual gratification (kaccid arthena vā dharmam arthaṃ dharmeṇa vā punaḥ ubhau vā prīti-lobhena kāmena ca na bādhase)!
+I trust you do not obstruct righteousness through wealth, or wealth in turn through righteousness, or both righteousness and wealth through pleasure born of attachment to sensual gratification (_kaccid arthena vā dharmam arthaṃ dharmeṇa vā punaḥ ubhau vā prīti-lobhena kāmena ca na bādhase_)!
 </details>
 </details>
 
@@ -3265,7 +3265,7 @@ O, the bestower of boons!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O foremost of conquerors, O knower of the proper season and giver of boons, do you pursue wealth, righteousness, and pleasure all in their respective hours after duly apportioning their times (kaccid arthaṃ ca dharmaṃ ca kāmaṃ ca jayatāṃ vara vibhajya kāle kāla-jña sarvān varada sevase)?
+O foremost of conquerors, O knower of the proper season and giver of boons, do you pursue wealth, righteousness, and pleasure all in their respective hours after duly apportioning their times (_kaccid arthaṃ ca dharmaṃ ca kāmaṃ ca jayatāṃ vara vibhajya kāle kāla-jña sarvān varada sevase_)?
 </details>
 </details>
 
@@ -3317,7 +3317,7 @@ knowledge of the scriptures, the inhabitants of town and the country pray for yo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do Brāhmaṇas versed in the meaning of all the śāstras, together with the citizens of the capital and the countryfolk, pray for your welfare and happiness, O prince of great wisdom (kaccit te brāhmaṇāḥ śarma sarva-śāstrārtha-kovidāḥ āśaṃsante mahā-prājña paura-jānapadaiḥ saha)?
+Do Brāhmaṇas versed in the meaning of all the śāstras, together with the citizens of the capital and the countryfolk, pray for your welfare and happiness, O prince of great wisdom (_kaccit te brāhmaṇāḥ śarma sarva-śāstrārtha-kovidāḥ āśaṃsante mahā-prājña paura-jānapadaiḥ saha_)?
 </details>
 </details>
 
@@ -3401,11 +3401,11 @@ from one's seat (indiscriminately) to receive all.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**65:** Atheism, falsehood, anger, negligence, procrastination (nāstikyam anṛtaṃ krodhaṃ pramādaṃ dīrgha-sūtratām), failing to visit wise men, sloth, slavery to the five senses (adarśanaṃ jñānavatām ālasyaṃ pañca-vṛttitām),
+**65:** Atheism, falsehood, anger, negligence, procrastination (_nāstikyam anṛtaṃ krodhaṃ pramādaṃ dīrgha-sūtratām_), failing to visit wise men, sloth, slavery to the five senses (_adarśanaṃ jñānavatām ālasyaṃ pañca-vṛttitām_),
 
-**66:** deliberating alone on affairs of state, taking counsel with men ignorant of policy, failing to undertake what has been decided upon, failing to guard secret counsel (eka-cintanam arthānām anartha-jñaiś ca mantraṇam niścitānām anārambhaṃ mantrasyāparirakṣaṇam),
+**66:** deliberating alone on affairs of state, taking counsel with men ignorant of policy, failing to undertake what has been decided upon, failing to guard secret counsel (_eka-cintanam arthānām anartha-jñaiś ca mantraṇam niścitānām anārambhaṃ mantrasyāparirakṣaṇam_),
 
-**67:** neglecting auspicious observances at the outset of undertakings, and marching out against all foes simultaneously (maṅgalasyāprayogaṃ ca pratyutthānaṃ ca sarvataḥ)—do you shun these fourteen royal vices (kaccit tvaṃ varjayasy etān rāja-doṣāṃś caturdaśa)?
+**67:** neglecting auspicious observances at the outset of undertakings, and marching out against all foes simultaneously (_maṅgalasyāprayogaṃ ca pratyutthānaṃ ca sarvataḥ_)—do you shun these fourteen royal vices (_kaccit tvaṃ varjayasy etān rāja-doṣāṃś caturdaśa_)?
 </details>
 </details>
 
@@ -3513,11 +3513,11 @@ is in the clutches of adverse times and; 20. who is not devoted to truth and pie
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**68:** Understanding in their true nature the group of ten, the group of five, the group of four, and the seven-fold constituent group (daśa-pañca-catur-vargān sapta-vargaṃ ca tattvataḥ), as well as the group of eight, the group of three, and the three sciences, O Rāghava (aṣṭa-vargaṃ tri-vargaṃ ca vidyās tisraś ca rāghava),
+**68:** Understanding in their true nature the group of ten, the group of five, the group of four, and the seven-fold constituent group (_daśa-pañca-catur-vargān sapta-vargaṃ ca tattvataḥ_), as well as the group of eight, the group of three, and the three sciences, O Rāghava (_aṣṭa-vargaṃ tri-vargaṃ ca vidyās tisraś ca rāghava_),
 
-**69:** the conquest of the senses, the six-fold royal policy, divine and human calamities (indriyāṇāṃ jayaṃ buddhvā ṣāḍguṇyaṃ daiva-mānuṣam), the winning over of disaffected enemy subjects, the twenty-fold group of kings, and the circle of constituent states (kṛtyaṃ viṃśati-vargaṃ ca tathā prakṛti-maṇḍalam),
+**69:** the conquest of the senses, the six-fold royal policy, divine and human calamities (_indriyāṇāṃ jayaṃ buddhvā ṣāḍguṇyaṃ daiva-mānuṣam_), the winning over of disaffected enemy subjects, the twenty-fold group of kings, and the circle of constituent states (_kṛtyaṃ viṃśati-vargaṃ ca tathā prakṛti-maṇḍalam_),
 
-**70:** the ordering of military marches and battle arrays, and the two-rooted policies of peace and war (yātrā-daṇḍa-vidhānaṃ ca dvi-yonī sandhi-vigrahau)—do you duly observe and practice all these, O prince of great wisdom (kaccid etān mahā-prājña yathāvad anumanyase)?
+**70:** the ordering of military marches and battle arrays, and the two-rooted policies of peace and war (_yātrā-daṇḍa-vidhānaṃ ca dvi-yonī sandhi-vigrahau_)—do you duly observe and practice all these, O prince of great wisdom (_kaccid etān mahā-prājña yathāvad anumanyase_)?
 </details>
 </details>
 
@@ -3570,7 +3570,7 @@ proposal collectively and singly with each of them in secret."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you deliberate upon counsel in secret with three or four ministers endowed with the qualifications prescribed in the śāstras, both collectively and individually (mantribhis tvaṃ yathoddiṣṭaiś caturbhis tribhir eva vā kaccit samastair vyastaiś ca mantraṃ mantrayase mithaḥ)?
+Do you deliberate upon counsel in secret with three or four ministers endowed with the qualifications prescribed in the śāstras, both collectively and individually (_mantribhis tvaṃ yathoddiṣṭaiś caturbhis tribhir eva vā kaccit samastair vyastaiś ca mantraṃ mantrayase mithaḥ_)?
 </details>
 </details>
 
@@ -3628,7 +3628,7 @@ results? Do you benefit from the company of your consorts? Has your learning bee
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Are your Vedas fruitful through the performance of sacred fires, and are your acquisitions of wealth fruitful through charity and enjoyment (kaccit te saphalā vedāḥ kaccit te saphalāḥ kriyāḥ)? Are your wives fruitful through love and offspring, and is your śāstric learning fruitful through noble conduct (kaccit te saphalā dārāḥ kaccit te saphalaṃ śrutam)?
+Are your Vedas fruitful through the performance of sacred fires, and are your acquisitions of wealth fruitful through charity and enjoyment (_kaccit te saphalā vedāḥ kaccit te saphalāḥ kriyāḥ_)? Are your wives fruitful through love and offspring, and is your śāstric learning fruitful through noble conduct (_kaccit te saphalā dārāḥ kaccit te saphalaṃ śrutam_)?
 </details>
 </details>
 
@@ -3682,7 +3682,7 @@ wealth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Is your judgment just as I have set it forth, O Rāghava—conducive to long life and fame, and endowed with righteousness, pleasure, and wealth (kaccid eṣaiva te buddhir yathoktā mama rāghava āyuṣyā ca yaśasyā ca dharma-kāmārtha-saṃhitā)?
+Is your judgment just as I have set it forth, O Rāghava—conducive to long life and fame, and endowed with righteousness, pleasure, and wealth (_kaccid eṣaiva te buddhir yathoktā mama rāghava āyuṣyā ca yaśasyā ca dharma-kāmārtha-saṃhitā_)?
 </details>
 </details>
 
@@ -3735,7 +3735,7 @@ accord with the path of the virtuous and which is distinguished in itself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Do you follow that auspicious course of conduct, treading the path of the virtuous, which our father follows and which our great-grandfathers followed of old (yāṃ vṛttiṃ vartate tāto yāṃ ca naḥ prapitāmahāḥ tāṃ vṛttiṃ vartase kaccid yā ca sat-patha-gā śubhā)?
+Do you follow that auspicious course of conduct, treading the path of the virtuous, which our father follows and which our great-grandfathers followed of old (_yāṃ vṛttiṃ vartate tāto yāṃ ca naḥ prapitāmahāḥ tāṃ vṛttiṃ vartase kaccid yā ca sat-patha-gā śubhā_)?
 </details>
 </details>
 
@@ -3787,7 +3787,7 @@ friends, who seek it?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I trust, O Rāghava, that you do not eat deliciously prepared food all alone (kaccit svādu-kṛtaṃ bhojyam eko nāśnāsi rāghava), and that you generously share it with friends who look to you with eager expectation (kaccid āśaṃsamānebhyo mitrebhyaḥ samprayacchasi)!
+I trust, O Rāghava, that you do not eat deliciously prepared food all alone (_kaccit svādu-kṛtaṃ bhojyam eko nāśnāsi rāghava_), and that you generously share it with friends who look to you with eager expectation (_kaccid āśaṃsamānebhyo mitrebhyaḥ samprayacchasi_)!
 </details>
 </details>
 
@@ -3857,6 +3857,6 @@ from the mortal body."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For a wise and high-minded king who wields the rod of justice over his subjects, having won the entire earth and ruled it righteously as ordained, attains heaven when he departs from this world (rājā tu dharmeṇa hi pālayitvā mahā-matir daṇḍa-dharaḥ prajānām avāpya kṛtsnāṃ vasudhāṃ yathāvad itaś cyutaḥ svargam upaiti vidvān).”
+For a wise and high-minded king who wields the rod of justice over his subjects, having won the entire earth and ruled it righteously as ordained, attains heaven when he departs from this world (_rājā tu dharmeṇa hi pālayitvā mahā-matir daṇḍa-dharaḥ prajānām avāpya kṛtsnāṃ vasudhāṃ yathāvad itaś cyutaḥ svargam upaiti vidvān_).”
 </details>
 </details>

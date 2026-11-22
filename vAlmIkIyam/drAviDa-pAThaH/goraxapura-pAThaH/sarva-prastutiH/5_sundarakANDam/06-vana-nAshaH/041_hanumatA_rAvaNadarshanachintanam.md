@@ -84,7 +84,7 @@ a distance from that place, thought within himself (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Honored by her with auspicious words (vāgbhiḥ praśastābhiḥ pūjitaḥ) as he was about to depart (gamiṣyan), that monkey stepped away from that spot (tasmād deśād apākramya) and reflected (cintayāmāsa):
+Honored by her with auspicious words (_vāgbhiḥ praśastābhiḥ pūjitaḥ_) as he was about to depart (_gamiṣyan_), that monkey stepped away from that spot (_tasmād deśād apākramya_) and reflected (_cintayāmāsa_):
 </details>
 </details>
 
@@ -138,7 +138,7 @@ to implement here the fourth strategy viz. open assault."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only a small remainder of this task is left (alpaśeṣam idaṃ kāryam), now that this dark-eyed lady has been found (dṛṣṭeyam asitekṣaṇā); passing over the first three royal expedients (trīn upāyān atikramya), the fourth alone is seen to apply here (caturtha iha dṛśyate).”
+“Only a small remainder of this task is left (_alpaśeṣam idaṃ kāryam_), now that this dark-eyed lady has been found (_dṛṣṭeyam asitekṣaṇā_); passing over the first three royal expedients (_trīn upāyān atikramya_), the fourth alone is seen to apply here (_caturtha iha dṛśyate_).”
 </details>
 </details>
 
@@ -204,7 +204,7 @@ strength, the strategy of sowing dissension is not amenable. Prowess alone is ag
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Conciliation (sāma) avails nothing among rākṣasas (rakṣaḥsu na guṇāya kalpate), nor are gifts (dānam) fitting for those already gorged with wealth (arthopaciteṣu); folk proud of their strength (baladarpitā janāḥ) cannot be won over by dissension (na bhedasādhyāḥ)—hence heroic valor alone pleases me here (parākramas tv eṣa mameha rocate)!”
+“Conciliation (_sāma_) avails nothing among rākṣasas (_rakṣaḥsu na guṇāya kalpate_), nor are gifts (_dānam_) fitting for those already gorged with wealth (_arthopaciteṣu_); folk proud of their strength (_baladarpitā janāḥ_) cannot be won over by dissension (_na bhedasādhyāḥ_)—hence heroic valor alone pleases me here (_parākramas tv eṣa mameha rocate_)!”
 </details>
 </details>
 
@@ -269,7 +269,7 @@ are somehow killed here and now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor can any sure settlement (viniścayaḥ kaścit) of this enterprise be achieved here apart from valor (parākramād ṛte); and if the rākṣasas have their foremost warriors slain in battle (hatapravīrāś ca raṇe tu rākṣasāḥ), perhaps they might even come to some pliability here today (kathaṃcid īyur yad ihādya mārdavam).”
+“Nor can any sure settlement (_viniścayaḥ kaścit_) of this enterprise be achieved here apart from valor (_parākramād ṛte_); and if the rākṣasas have their foremost warriors slain in battle (_hatapravīrāś ca raṇe tu rākṣasāḥ_), perhaps they might even come to some pliability here today (_kathaṃcid īyur yad ihādya mārdavam_).”
 </details>
 </details>
 
@@ -324,7 +324,7 @@ the initial task has been carried through, without impairing the previous achiev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the primary duty has been accomplished (kārye karmaṇi nirvṛtte), he who achieves many subsidiary tasks as well (yo bahūny api sādhayet) without contradicting the prior mission (pūrvakāryāvirodhena)—he alone is fit to execute a commission (sa kāryaṃ kartum arhati).”
+“When the primary duty has been accomplished (_kārye karmaṇi nirvṛtte_), he who achieves many subsidiary tasks as well (_yo bahūny api sādhayet_) without contradicting the prior mission (_pūrvakāryāvirodhena_)—he alone is fit to execute a commission (_sa kāryaṃ kartum arhati_).”
 </details>
 </details>
 
@@ -378,7 +378,7 @@ that task."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For even in a minor undertaking here (svalpasyāpīha karmaṇaḥ), no single means suffices by itself (na hy ekaḥ sādhako hetuḥ); only he who knows how to compass an objective in manifold ways (yo hy arthaṃ bahudhā veda) is capable of accomplishing the goal (sa samartho 'rthasādhane).”
+“For even in a minor undertaking here (_svalpasyāpīha karmaṇaḥ_), no single means suffices by itself (_na hy ekaḥ sādhako hetuḥ_); only he who knows how to compass an objective in manifold ways (_yo hy arthaṃ bahudhā veda_) is capable of accomplishing the goal (_sa samartho &#x27;rthasādhane_).”
 </details>
 </details>
 
@@ -451,7 +451,7 @@ command of my master have been carried out by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only if, having formed a sure assessment right here (ihaiva tāvat kṛtaniścayo hy aham) and knowing the true measure of the clash between the enemy and myself (parātmasammardaviśeṣatattvavit), I return today to the abode of the lord of monkeys (vrajeyam adya plavageśvarālayam), will my master's command be truly fulfilled (tataḥ kṛtaṃ syān mama bhartṛśāsanam)!”
+“Only if, having formed a sure assessment right here (_ihaiva tāvat kṛtaniścayo hy aham_) and knowing the true measure of the clash between the enemy and myself (_parātmasammardaviśeṣatattvavit_), I return today to the abode of the lord of monkeys (_vrajeyam adya plavageśvarālayam_), will my master&#x27;s command be truly fulfilled (_tataḥ kṛtaṃ syān mama bhartṛśāsanam_)!”
 </details>
 </details>
 
@@ -515,7 +515,7 @@ strength become fruitful? How indeed will that Ravana applaud me in battle?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed (kathaṃ nu khalu) might a battle of mine with the rākṣasas by force (prasahya yuddhaṃ mama rākṣasaiḥ saha) come about easily today (adya bhavet sukhāgatam), so that Ten-necked Rāvaṇa (daśānanaḥ) may pit both his own core army and me in combat (tathaiva khalv ātmabalaṃ ca sāravat samānayen māṃ ca raṇe)?”
+“How indeed (_kathaṃ nu khalu_) might a battle of mine with the rākṣasas by force (_prasahya yuddhaṃ mama rākṣasaiḥ saha_) come about easily today (_adya bhavet sukhāgatam_), so that Ten-necked Rāvaṇa (_daśānanaḥ_) may pit both his own core army and me in combat (_tathaiva khalv ātmabalaṃ ca sāravat samānayen māṃ ca raṇe_)?”
 </details>
 </details>
 
@@ -580,7 +580,7 @@ as well as knowing his designs and strength, I will go back from here happily."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having encountered Ten-necked Rāvaṇa in battle (tataḥ samāsādya raṇe daśānanam) together with his council of ministers, his army, and his charioteer (samantrivargaṃ sabalaṃ sayāyinam), and having comfortably gauged the resolve in his heart and his strength (hṛdi sthitaṃ tasya mataṃ balaṃ ca sukhena matvā), I shall return hence (aham itaḥ punar vraje)!”
+“Then, having encountered Ten-necked Rāvaṇa in battle (_tataḥ samāsādya raṇe daśānanam_) together with his council of ministers, his army, and his charioteer (_samantrivargaṃ sabalaṃ sayāyinam_), and having comfortably gauged the resolve in his heart and his strength (_hṛdi sthitaṃ tasya mataṃ balaṃ ca sukhena matvā_), I shall return hence (_aham itaḥ punar vraje_)!”
 </details>
 </details>
 
@@ -632,7 +632,7 @@ which is pleasing to the eyes and the mind, is looking like Nandana, Indra's par
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here is the peerless grove of this cruel monster (idam asya nṛśaṃsasya uttamaṃ vanam), resembling Indra's Nandana (nandanopamam), enchanting to the eye and mind (netramanaḥkāntam), and filled with diverse trees and creepers (nānādrumalatāyutam).”
+“Here is the peerless grove of this cruel monster (_idam asya nṛśaṃsasya uttamaṃ vanam_), resembling Indra&#x27;s Nandana (_nandanopamam_), enchanting to the eye and mind (_netramanaḥkāntam_), and filled with diverse trees and creepers (_nānādrumalatāyutam_).”
 </details>
 </details>
 
@@ -687,7 +687,7 @@ demolished, Ravana will then be angry."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall lay this grove waste (idaṃ vidhvaṃsayiṣyāmi) just as fire consumes a dry forest (śuṣkaṃ vanam ivānalaḥ); when this is shattered (asmin bhagne), that Rāvaṇa will thereupon give way to wrath (tataḥ kopaṃ kariṣyati sa rāvaṇaḥ)!”
+“I shall lay this grove waste (_idaṃ vidhvaṃsayiṣyāmi_) just as fire consumes a dry forest (_śuṣkaṃ vanam ivānalaḥ_); when this is shattered (_asmin bhagne_), that Rāvaṇa will thereupon give way to wrath (_tataḥ kopaṃ kariṣyati sa rāvaṇaḥ_)!”
 </details>
 </details>
 
@@ -759,7 +759,7 @@ and armed with weapons like great tridents and spears made of iron. Then, a grea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the lord of the rākṣasas (rākṣasādhipaḥ) will bring forth a mighty army (tato mahad balaṃ samāneṣyati) complete with horses, great chariots, and elephants (sāśvamahārathadvipam) and armed with tridents, black-iron pikes, and spears (triśūlakālāyasapaṭṭiśāyudham); then this great battle will take place (tato mahad yuddham idaṃ bhaviṣyati)!”
+“Then the lord of the rākṣasas (_rākṣasādhipaḥ_) will bring forth a mighty army (_tato mahad balaṃ samāneṣyati_) complete with horses, great chariots, and elephants (_sāśvamahārathadvipam_) and armed with tridents, black-iron pikes, and spears (_triśūlakālāyasapaṭṭiśāyudham_); then this great battle will take place (_tato mahad yuddham idaṃ bhaviṣyati_)!”
 </details>
 </details>
 
@@ -823,7 +823,7 @@ that army instigated by Ravana and return to the place of Sugreeva happily."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And I, of unbroken valor (abhaṅgavikramaḥ), meeting those fiercely valorous rākṣasas in battle (taiḥ saṃyati caṇḍavikramaiḥ sametya rakṣobhiḥ) and slaughtering that force dispatched by Rāvaṇa (nihatya tad rāvaṇacoditaṃ balam), shall happily return to the abode of the lord of monkeys (sukhaṃ gamiṣyāmi harīśvarālayam)!”
+“And I, of unbroken valor (_abhaṅgavikramaḥ_), meeting those fiercely valorous rākṣasas in battle (_taiḥ saṃyati caṇḍavikramaiḥ sametya rakṣobhiḥ_) and slaughtering that force dispatched by Rāvaṇa (_nihatya tad rāvaṇacoditaṃ balam_), shall happily return to the abode of the lord of monkeys (_sukhaṃ gamiṣyāmi harīśvarālayam_)!”
 </details>
 </details>
 
@@ -875,7 +875,7 @@ by a highly violent jerk of his thighs akin to the jerk of a wind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Mārut's son of terrible valor (mārutir bhīmavikramaḥ), enraged like the tempest-wind (mārutavat kruddhaḥ), began to hurl down trees (drumān kṣeptum athārabhat) with the mighty impetus of his thighs (ūruvegena mahatā).
+Thereupon Mārut&#x27;s son of terrible valor (_mārutir bhīmavikramaḥ_), enraged like the tempest-wind (_mārutavat kruddhaḥ_), began to hurl down trees (_drumān kṣeptum athārabhat_) with the mighty impetus of his thighs (_ūruvegena mahatā_).
 </details>
 </details>
 
@@ -930,7 +930,7 @@ with cries of birds in heat and endowed with various kinds of trees and creepers
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the heroic Hanūmān shattered that pleasure-grove of the women (tatas tad babhañja pramadāvanam), which resounded with impassioned birds (mattadvijasamāghuṣṭam) and abounded in diverse trees and creepers (nānādrumalatāyutam).
+Then the heroic Hanūmān shattered that pleasure-grove of the women (_tatas tad babhañja pramadāvanam_), which resounded with impassioned birds (_mattadvijasamāghuṣṭam_) and abounded in diverse trees and creepers (_nānādrumalatāyutam_).
 </details>
 </details>
 
@@ -982,7 +982,7 @@ hills to powder. Thus, that grove became nasty at sight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its trees wrenched and mangled (mathitair vṛkṣaiḥ), its water-basins breached (bhinnaiś ca salilāśayaiḥ), and its pleasure-hill peaks pulverized (cūrṇitaiḥ parvatāgraiś ca), that grove became unsightly to behold (tad vanaṃ babhūvāpriyadarśanam).
+With its trees wrenched and mangled (_mathitair vṛkṣaiḥ_), its water-basins breached (_bhinnaiś ca salilāśayaiḥ_), and its pleasure-hill peaks pulverized (_cūrṇitaiḥ parvatāgraiś ca_), that grove became unsightly to behold (_tad vanaṃ babhūvāpriyadarśanam_).
 </details>
 </details>
 
@@ -1058,9 +1058,9 @@ like distressed woman.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** With the cries of diverse birds (nānāśakuntavirutaiḥ), its water-reservoirs shattered (prabhinnasalilāśayaiḥ), its coppery shoots withered (tāmraiḥ kisalayaiḥ klāntaiḥ), and its trees and creepers drooping (klāntadrumalatāyutaiḥ)—
+**17:** With the cries of diverse birds (_nānāśakuntavirutaiḥ_), its water-reservoirs shattered (_prabhinnasalilāśayaiḥ_), its coppery shoots withered (_tāmraiḥ kisalayaiḥ klāntaiḥ_), and its trees and creepers drooping (_klāntadrumalatāyutaiḥ_)—
 
-**18:** —that grove there no longer shone (na babhau tad vanaṃ tatra), like a forest struck by wildfire (dāvānalahataṃ yathā); with their leafy coverings disheveled (vyākulāvaraṇāḥ), those creepers looked like distraught women (rejur vihvalā iva tā latāḥ).
+**18:** —that grove there no longer shone (_na babhau tad vanaṃ tatra_), like a forest struck by wildfire (_dāvānalahataṃ yathā_); with their leafy coverings disheveled (_vyākulāvaraṇāḥ_), those creepers looked like distraught women (_rejur vihvalā iva tā latāḥ_).
 </details>
 </details>
 
@@ -1124,7 +1124,7 @@ emitting cries of distress, its grottos and other structures demolished, that gr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its creeper-arbors and painted pavilions demolished (latāgṛhaiś citragṛhaiś ca sāditaiḥ), its beasts of prey, deer, and birds uttering cries of distress (vyālair mṛgair ārtaravaiś ca pakṣibhiḥ), and its rock-grottoes and palaces wrenched up (śilāgṛhair unmathitais tathā gṛhaiḥ), that great grove lost all its beauty (praṇaṣṭarūpaṃ tad abhūn mahad vanam).
+With its creeper-arbors and painted pavilions demolished (_latāgṛhaiś citragṛhaiś ca sāditaiḥ_), its beasts of prey, deer, and birds uttering cries of distress (_vyālair mṛgair ārtaravaiś ca pakṣibhiḥ_), and its rock-grottoes and palaces wrenched up (_śilāgṛhair unmathitais tathā gṛhaiḥ_), that great grove lost all its beauty (_praṇaṣṭarūpaṃ tad abhūn mahad vanam_).
 </details>
 </details>
 
@@ -1176,7 +1176,7 @@ women; by the violence of Hanuma."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through the strength of the monkey (kaper balād dhi), who is the protector of the true woman [Sītā] (pramadāvanasya), that woodland (sā vanasthalī) of Ten-faced Rāvaṇa's pleasure-park (daśāsyapramadāvanasya), with its spreading clusters of Aśoka creepers tossed in confusion (vihvalāśokalatāpratānā), was turned into a spreading tangle of grief (śokalatāpratānā jātā)!
+Through the strength of the monkey (_kaper balād dhi_), who is the protector of the true woman [Sītā] (_pramadāvanasya_), that woodland (_sā vanasthalī_) of Ten-faced Rāvaṇa&#x27;s pleasure-park (_daśāsyapramadāvanasya_), with its spreading clusters of Aśoka creepers tossed in confusion (_vihvalāśokalatāpratānā_), was turned into a spreading tangle of grief (_śokalatāpratānā jātā_)!
 </details>
 </details>
 
@@ -1252,7 +1252,7 @@ land of Lanka; that Hanuma decided to fight alone against many mighty demons and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having inflicted great displeasure (kṛtvā mahad vyalīkam) upon the mind of that mighty lord of the earth (jagatīpater manaso mahātmanaḥ), that great monkey (sa mahān kapiḥ), eager to fight alone against many mighty warriors (yuyutsur eko bahubhir mahābalaiḥ), stationed himself at the gateway arch (toraṇam āśritaḥ), blazing with glory (śriyā jvalan).
+Then, having inflicted great displeasure (_kṛtvā mahad vyalīkam_) upon the mind of that mighty lord of the earth (_jagatīpater manaso mahātmanaḥ_), that great monkey (_sa mahān kapiḥ_), eager to fight alone against many mighty warriors (_yuyutsur eko bahubhir mahābalaiḥ_), stationed himself at the gateway arch (_toraṇam āśritaḥ_), blazing with glory (_śriyā jvalan_).
 </details>
 </details>
 

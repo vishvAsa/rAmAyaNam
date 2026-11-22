@@ -80,7 +80,7 @@ voice spoke these righteous words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him firmly resolved on fulfilling his father’s command (vyavasitaṃ pitur nirdeśa-pālane), Kausalyā, choked with tears (bāṣpa-saṃruddhā), spoke words most righteous (vaco dharmiṣṭham abravīt):
+Beholding him firmly resolved on fulfilling his father’s command (_vyavasitaṃ pitur nirdeśa-pālane_), Kausalyā, choked with tears (_bāṣpa-saṃruddhā_), spoke words most righteous (_vaco dharmiṣṭham abravīt_):
 </details>
 </details>
 
@@ -134,7 +134,7 @@ gathering grains ?'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How can he who has never known sorrow (adṛṣṭa-duḥkhaḥ), whose soul is righteous and who speaks kindly to all beings (sarva-bhūta-priyaṃvadaḥ)—born of me from Daśaratha—sustain his life by gleaning (katham uñchena vartayet)?
+“How can he who has never known sorrow (_adṛṣṭa-duḥkhaḥ_), whose soul is righteous and who speaks kindly to all beings (_sarva-bhūta-priyaṃvadaḥ_)—born of me from Daśaratha—sustain his life by gleaning (_katham uñchena vartayet_)?
 </details>
 </details>
 
@@ -189,7 +189,7 @@ while, how can he eat roots and fruits himself in the forest ?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He whose dependents and servants eat savoury meats and rich foods (mṛṣṭāny annāni bhuñjate)—how shall this Rāma eat wild roots and fruits in the forest (kathaṃ sa bhokṣyate rāmo vane mūla-phalāny ayam)?
+“He whose dependents and servants eat savoury meats and rich foods (_mṛṣṭāny annāni bhuñjate_)—how shall this Rāma eat wild roots and fruits in the forest (_kathaṃ sa bhokṣyate rāmo vane mūla-phalāny ayam_)?
 </details>
 </details>
 
@@ -241,7 +241,7 @@ will believe ? kasyavaa = to whom; *bhayam* = fear; *nabhavet* = is not created 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who, upon hearing this, could believe it (ka etac chraddadhec chrutvā), and who would not be seized with fear (kasya vā na bhaved bhayam), when Kākutstha, virtuous and beloved of the King, is being banished (guṇavān dayito rājñaḥ kākutstho yad vivāsyate)?
+“Who, upon hearing this, could believe it (_ka etac chraddadhec chrutvā_), and who would not be seized with fear (_kasya vā na bhaved bhayam_), when Kākutstha, virtuous and beloved of the King, is being banished (_guṇavān dayito rājñaḥ kākutstho yad vivāsyate_)?
 </details>
 </details>
 
@@ -298,7 +298,7 @@ certainly said that everything is ordered by a strong destiny'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely Destiny, ordaining all things, is all-powerful in this world (nūnaṃ tu balavāṃl loke kṛtāntaḥ sarvam ādiśan), since you, O Rāma, the delight of all the world, are going to the forest (loke rāmābhirāmas tvaṃ vanaṃ yatra gamiṣyasi)!
+“Surely Destiny, ordaining all things, is all-powerful in this world (_nūnaṃ tu balavāṃl loke kṛtāntaḥ sarvam ādiśan_), since you, O Rāma, the delight of all the world, are going to the forest (_loke rāmābhirāmas tvaṃ vanaṃ yatra gamiṣyasi_)!
 </details>
 </details>
 
@@ -394,11 +394,11 @@ burn like dry wood by fire in winter.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “This heart-born fire of mine, fanned by the wind of your absence (ayaṃ tu mām ātmabhavas tavādarśana-mārutaḥ), having the sorrow of lamentation for its fuel and weeping tears for its poured oblations (vilāpa-duḥkha-samidho ruditāśru-hutāhutiḥ)—
+**6:** “This heart-born fire of mine, fanned by the wind of your absence (_ayaṃ tu mām ātmabhavas tavādarśana-mārutaḥ_), having the sorrow of lamentation for its fuel and weeping tears for its poured oblations (_vilāpa-duḥkha-samidho ruditāśru-hutāhutiḥ_)—
 
-**7:** “—having the hot vapor of anxious thought for its great smoke (cintā-bāṣpa-mahā-dhūmaḥ), born of brooding over your departure and return (tavāgamana-cintajaḥ), and arising from the toil of heavy sighs—after wasting me away exceedingly, O my son (karśayitvādhikaṃ putra niḥśvāsāyāsa-sambhavaḥ)—
+**7:** “—having the hot vapor of anxious thought for its great smoke (_cintā-bāṣpa-mahā-dhūmaḥ_), born of brooding over your departure and return (_tavāgamana-cintajaḥ_), and arising from the toil of heavy sighs—after wasting me away exceedingly, O my son (_karśayitvādhikaṃ putra niḥśvāsāyāsa-sambhavaḥ_)—
 
-**8:** “—this mighty, peerless fire of grief (śokāgnir atulo mahān) will burn me up here when I am bereft of you, just as a blazing fire burns up dry brushwood at the end of winter (pradhakṣyati yathā kakṣyaṃ citrabhānur himātyaye)!
+**8:** “—this mighty, peerless fire of grief (_śokāgnir atulo mahān_) will burn me up here when I am bereft of you, just as a blazing fire burns up dry brushwood at the end of winter (_pradhakṣyati yathā kakṣyaṃ citrabhānur himātyaye_)!
 </details>
 </details>
 
@@ -450,7 +450,7 @@ wherever you go."'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as a mother cow follows after her own calf wherever it goes (kathaṃ hi dhenuḥ svaṃ vatsaṃ gacchantam anugacchati), so I too shall follow after you wherever you go, my child (ahaṃ tvānugamiṣyāmi yatra vatsa gamiṣyasi)!”
+“Just as a mother cow follows after her own calf wherever it goes (_kathaṃ hi dhenuḥ svaṃ vatsaṃ gacchantam anugacchati_), so I too shall follow after you wherever you go, my child (_ahaṃ tvānugamiṣyāmi yatra vatsa gamiṣyasi_)!”
 </details>
 </details>
 
@@ -502,7 +502,7 @@ vartayishhyati* = he will not be alive; *nuunam* = certain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken thus by his mother, Rāma, that bull among men, spoke these words to his mother who was sorely afflicted with grief (mātaraṃ bhṛśa-duḥkhitām):
+Hearing those words spoken thus by his mother, Rāma, that bull among men, spoke these words to his mother who was sorely afflicted with grief (_mātaraṃ bhṛśa-duḥkhitām_):
 </details>
 </details>
 
@@ -554,7 +554,7 @@ forest and you also leave him .It is certain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Deceived by Kaikeyī (kaikeyyā vañcito rājā), when I have betaken myself to the forest, the King, if forsaken by you as well, will surely not survive (bhavatyā ca parityakto na nūnaṃ vartayiṣyati).
+“Deceived by Kaikeyī (_kaikeyyā vañcito rājā_), when I have betaken myself to the forest, the King, if forsaken by you as well, will surely not survive (_bhavatyā ca parityakto na nūnaṃ vartayiṣyati_).
 </details>
 </details>
 
@@ -606,7 +606,7 @@ be perceived even by mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a woman to forsake her husband is sheer cruelty alone (bhartuḥ kila parityāgo nṛśaṃsaḥ kevalaṃ striyāḥ); that censurable act must not be entertained by you even in thought (sa bhavatyā na kartavyo manasāpi vigarhitaḥ).
+“For a woman to forsake her husband is sheer cruelty alone (_bhartuḥ kila parityāgo nṛśaṃsaḥ kevalaṃ striyāḥ_); that censurable act must not be entertained by you even in thought (_sa bhavatyā na kartavyo manasāpi vigarhitaḥ_).
 </details>
 </details>
 
@@ -660,7 +660,7 @@ It is eternal justice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As long as Kākutstha, my father, the lord of the earth, lives (yāvaj jīvati kākutsthaḥ pitā me jagatī-patiḥ), so long let devoted service be rendered to him; for that is the eternal dharma (śuśrūṣā kriyatāṃ tāvat sa hi dharmaḥ sanātanaḥ).”
+“As long as Kākutstha, my father, the lord of the earth, lives (_yāvaj jīvati kākutsthaḥ pitā me jagatī-patiḥ_), so long let devoted service be rendered to him; for that is the eternal _dharma_ (_śuśrūṣā kriyatāṃ tāvat sa hi dharmaḥ sanātanaḥ_).”
 </details>
 </details>
 
@@ -715,7 +715,7 @@ and spoke to Rama, who performs indefatigable actions, in consent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāma, Kausalyā of auspicious discernment (kausalyā śubha-darśanā), well pleased, said, “So be it!” to Rāma of unwearying deeds (tathety uvāca suprītā rāmam akliṣṭa-kāriṇam).
+Addressed thus by Rāma, Kausalyā of auspicious discernment (_kausalyā śubha-darśanā_), well pleased, said, “So be it!” to Rāma of unwearying deeds (_tathety uvāca suprītā rāmam akliṣṭa-kāriṇam_).
 </details>
 </details>
 
@@ -769,7 +769,7 @@ mother ,spoke again to her who was very much distressed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed with those words, Rāma, the foremost of upholders of dharma, spoke once more to his mother, who was sorely afflicted with grief (bhūyas tām abravīd vākyaṃ mātaraṃ bhṛśa-duḥkhitām):
+Addressed with those words, Rāma, the foremost of upholders of _dharma_, spoke once more to his mother, who was sorely afflicted with grief (_bhūyas tām abravīd vākyaṃ mātaraṃ bhṛśa-duḥkhitām_):
 </details>
 </details>
 
@@ -824,7 +824,7 @@ nourished, a venerable man, the best among men, the lord and the ruler."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By both me and you must my father’s word be fulfilled (mayā caiva bhavatyā ca kartavyaṃ vacanaṃ pituḥ); for the King is husband, preceptor, most excellent, the ruler and lord of all (rājā bhartā guruḥ śreṣṭhaḥ sarveṣām īśvaraḥ prabhuḥ).
+“By both me and you must my father’s word be fulfilled (_mayā caiva bhavatyā ca kartavyaṃ vacanaṃ pituḥ_); for the King is husband, preceptor, most excellent, the ruler and lord of all (_rājā bhartā guruḥ śreṣṭhaḥ sarveṣām īśvaraḥ prabhuḥ_).
 </details>
 </details>
 
@@ -878,7 +878,7 @@ gladly stand by your command."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having sported in the great forest through these nine and five years (imāni tu mahāraṇye vihṛtya nava pañca ca varṣāṇi), I shall abide with supreme joy at your command (parama-prītyā sthāsyāmi vacane tava).”
+“Having sported in the great forest through these nine and five years (_imāni tu mahāraṇye vihṛtya nava pañca ca varṣāṇi_), I shall abide with supreme joy at your command (_parama-prītyā sthāsyāmi vacane tava_).”
 </details>
 </details>
 
@@ -933,7 +933,7 @@ great sorrow with her face filled with tears and spoke thus to her beloved son R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, Kausalyā, tender toward her son and supremely afflicted, her face filled with tears, spoke then to her beloved son (bāṣpa-pūrṇānanā tadā uvāca paramārtā tu kausalyā suta-vatsalā):
+Addressed thus, Kausalyā, tender toward her son and supremely afflicted, her face filled with tears, spoke then to her beloved son (_bāṣpa-pūrṇānanā tadā uvāca paramārtā tu kausalyā suta-vatsalā_):
 </details>
 </details>
 
@@ -1004,7 +1004,7 @@ forest ,to the woods ''
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To dwell here in the midst of these co-wives of mine, O Rāma, is something I cannot bear (āsāṃ rāma sapatnīnāṃ vastuṃ madhye na me kṣamam); take me also to the forest, O Kākutstha, like a wild doe of the woods (naya mām api kākutstha vanaṃ vanyāṃ mṛgīm iva)—
+“To dwell here in the midst of these co-wives of mine, O Rāma, is something I cannot bear (_āsāṃ rāma sapatnīnāṃ vastuṃ madhye na me kṣamam_); take me also to the forest, O Kākutstha, like a wild doe of the woods (_naya mām api kākutstha vanaṃ vanyāṃ mṛgīm iva_)—
 </details>
 </details>
 
@@ -1077,9 +1077,9 @@ king, the lord of the earth and the wise man is there , we are not indeed master
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “—if your mind is firmly made up to depart out of regard for your father (yadi te gamane buddhiḥ kṛtā pitar-apekṣayā)!” To her weeping thus, Rāma, weeping himself (or: unweeping), spoke these words (tāṃ tathā rudatīṃ rāmo rudan vacanam abravīt):
+**20:** “—if your mind is firmly made up to depart out of regard for your father (_yadi te gamane buddhiḥ kṛtā pitar-apekṣayā_)!” To her weeping thus, Rāma, weeping himself (or: unweeping), spoke these words (_tāṃ tathā rudatīṃ rāmo rudan vacanam abravīt_):
 
-**21:** “For a woman while she lives, her husband is her deity and her sovereign lord (jīvantyā hi striyā bhartā daivataṃ prabhur eva ca); over both you and me today the King, our lord, holds authority (bhavatyā mama caivādya rājā prabhavati prabhuḥ).
+**21:** “For a woman while she lives, her husband is her deity and her sovereign lord (_jīvantyā hi striyā bhartā daivataṃ prabhur eva ca_); over both you and me today the King, our lord, holds authority (_bhavatyā mama caivādya rājā prabhavati prabhuḥ_).
 </details>
 </details>
 
@@ -1133,7 +1133,7 @@ be obliging to you. He is indeed always devoted to righteousness.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor indeed are we left without a protector so long as we have the wise King, the lord of the world (na hy anāthā vayaṃ rājñā lokanāthena dhīmatā); and Bharata too is righteous of soul and speaks kindly to all beings (bharataś cāpi dharmātmā sarva-bhūta-priyaṃvadaḥ).
+“Nor indeed are we left without a protector so long as we have the wise King, the lord of the world (_na hy anāthā vayaṃ rājñā lokanāthena dhīmatā_); and Bharata too is righteous of soul and speaks kindly to all beings (_bharataś cāpi dharmātmā sarva-bhūta-priyaṃvadaḥ_).
 </details>
 </details>
 
@@ -1187,7 +1187,7 @@ fatigued even a little with grief over his son."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When I have gone forth, act with unfailing vigilance (apramattā tathā kuru) so that the King may not suffer any distress through grief for his son (yathā mayi tu niṣkrānte putra-śokena pārthivaḥ śramaṃ nāvāpnuyāt kiñcit)—
+“When I have gone forth, act with unfailing vigilance (_apramattā tathā kuru_) so that the King may not suffer any distress through grief for his son (_yathā mayi tu niṣkrānte putra-śokena pārthivaḥ śramaṃ nāvāpnuyāt kiñcit_)—
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ grief will not destroy him ."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—for he, ever devoted to dharma, will wait upon you (bhavatīm anuvarteta sa hi dharma-rataḥ sadā)—and act so that this terrible grief may not destroy the King (dāruṇaś cāpy ayaṃ śoko yathainaṃ na vināśayet).
+“—for he, ever devoted to _dharma_, will wait upon you (_bhavatīm anuvarteta sa hi dharma-rataḥ sadā_)—and act so that this terrible grief may not destroy the King (_dāruṇaś cāpy ayaṃ śoko yathainaṃ na vināśayet_).
 </details>
 </details>
 
@@ -1293,7 +1293,7 @@ the best of the excellent ;if she does not obey her husband she will become ill-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ever act with a composed mind for the welfare of the aged King (rājño vṛddhasya satataṃ hitaṃ cara samāhitā); for even a woman who is supremely excellent and devoted to vows and fasts (vratopavāsa-niratā yā nārī paramottamā)—
+“Ever act with a composed mind for the welfare of the aged King (_rājño vṛddhasya satataṃ hitaṃ cara samāhitā_); for even a woman who is supremely excellent and devoted to vows and fasts (_vratopavāsa-niratā yā nārī paramottamā_)—
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ gods, she will attain the highest heaven by service to her husband ."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—if she does not attend upon her husband, shall meet with an evil destiny hereafter (bhartāraṃ nānuvarteta sā ca pāpa-gatir bhavet); whereas through devoted service to her husband a woman attains the highest heaven (bhartuḥ śuśrūṣayā nārī labhate svargam uttamam).
+“—if she does not attend upon her husband, shall meet with an evil destiny hereafter (_bhartāraṃ nānuvarteta sā ca pāpa-gatir bhavet_); whereas through devoted service to her husband a woman attains the highest heaven (_bhartuḥ śuśrūṣayā nārī labhate svargam uttamam_).
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ righteousness.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even a woman who offers no salutations to other deities and abstains from worship of the gods (api yā nirnamaskārā nivṛttā deva-pūjanāt) should perform service to her husband alone, intent on what is dear and beneficial to him (śuśrūṣām eva kurvīta bhartuḥ priya-hite ratā).
+“Even a woman who offers no salutations to other deities and abstains from worship of the gods (_api yā nirnamaskārā nivṛttā deva-pūjanāt_) should perform service to her husband alone, intent on what is dear and beneficial to him (_śuśrūṣām eva kurvīta bhartuḥ priya-hite ratā_).
 </details>
 </details>
 
@@ -1446,7 +1446,7 @@ Brahmanas also with right voes are to be worshipped .'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such is the eternal dharma of a woman declared in the Veda and remembered in the world (eṣa dharmaḥ striyā nityo vede loke śrutaḥ smṛtaḥ); and in sacred fire-rites ever worship the deities with flowers (agnikāryeṣu ca sadā sumanobhiś ca devatāḥ)—
+“Such is the eternal _dharma_ of a woman declared in the Veda and remembered in the world (_eṣa dharmaḥ striyā nityo vede loke śrutaḥ smṛtaḥ_); and in sacred fire-rites ever worship the deities with flowers (_agnikāryeṣu ca sadā sumanobhiś ca devatāḥ_)—
 </details>
 </details>
 
@@ -1498,7 +1498,7 @@ temperate in food and being devoted in the service of your husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—and honoured Brāhmaṇas too must be worshipped by you for my sake, O Queen (pūjyās te mat-kṛte devi brāhmaṇāś caiva satkṛtāḥ). Thus await the appointed time, longing for my return (evaṃ kālaṃ pratīkṣasva mamāgamana-kāṅkṣiṇī).
+“—and honoured Brāhmaṇas too must be worshipped by you for my sake, O Queen (_pūjyās te mat-kṛte devi brāhmaṇāś caiva satkṛtāḥ_). Thus await the appointed time, longing for my return (_evaṃ kālaṃ pratīkṣasva mamāgamana-kāṅkṣiṇī_).
 </details>
 </details>
 
@@ -1561,7 +1561,7 @@ protectors of righteousness ,is still alive till then."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Self-restrained, regulated in fare, and devoted to the service of your husband (niyatā niyatāhārā bhartṛ-śuśrūṣaṇe ratā), you shall attain your supreme desire when I have returned (prāpsyase paramaṃ kāmaṃ mayi paryāgate sati)—
+“Self-restrained, regulated in fare, and devoted to the service of your husband (_niyatā niyatāhārā bhartṛ-śuśrūṣaṇe ratā_), you shall attain your supreme desire when I have returned (_prāpsyase paramaṃ kāmaṃ mayi paryāgate sati_)—
 </details>
 </details>
 
@@ -1613,7 +1613,7 @@ after hearing Rama's utterances and spoke thus to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—if the foremost of upholders of dharma sustains his life (yadi dharmabhṛtāṃ śreṣṭho dhārayiṣyati jīvitam).” Addressed thus by Rāma, her eyes troubled and brimming with tears (bāṣpa-paryākulekṣaṇā)—
+“—if the foremost of upholders of _dharma_ sustains his life (_yadi dharmabhṛtāṃ śreṣṭho dhārayiṣyati jīvitam_).” Addressed thus by Rāma, her eyes troubled and brimming with tears (_bāṣpa-paryākulekṣaṇā_)—
 </details>
 </details>
 
@@ -1659,7 +1659,7 @@ your going to forest. Time is inscrutable .It is certain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Kausalyā, afflicted with grief for her son, spoke these words to Rāma: “Your firmly fixed resolve to depart I am unable, O my dear son (gamane sukṛtāṃ buddhiṃ na te śaknomi putraka)—
+—Kausalyā, afflicted with grief for her son, spoke these words to Rāma: “Your firmly fixed resolve to depart I am unable, O my dear son (_gamane sukṛtāṃ buddhiṃ na te śaknomi putraka_)—
 </details>
 </details>
 
@@ -1714,7 +1714,7 @@ become refreshed, when you return again."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—to turn back, O hero; surely Time is impossible to transgress (vinivartayituṃ vīra nūnaṃ kālo duratyayaḥ)! Go forth, my son, single-pointed in mind; may auspiciousness ever attend you, O lord (gaccha putra tvam ekāgro bhadraṃ te 'stu sadā vibho)!
+“—to turn back, O hero; surely Time is impossible to transgress (_vinivartayituṃ vīra nūnaṃ kālo duratyayaḥ_)! Go forth, my son, single-pointed in mind; may auspiciousness ever attend you, O lord (_gaccha putra tvam ekāgro bhadraṃ te &#x27;stu sadā vibho_)!
 </details>
 </details>
 
@@ -1767,7 +1767,7 @@ happiness".
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When you have turned back again, I shall be freed from weariness (punas tvayi nivṛtte tu bhaviṣyāmi gata-klamā); when you have returned, O illustrious one, having accomplished your purpose, fulfilled your vow, and discharged your debt to your father, I shall sleep in supreme peace (pitur ānṛṇyatāṃ prāpte svapiṣye paramaṃ sukham).
+“When you have turned back again, I shall be freed from weariness (_punas tvayi nivṛtte tu bhaviṣyāmi gata-klamā_); when you have returned, O illustrious one, having accomplished your purpose, fulfilled your vow, and discharged your debt to your father, I shall sleep in supreme peace (_pitur ānṛṇyatāṃ prāpte svapiṣye paramaṃ sukham_).
 </details>
 </details>
 
@@ -1827,7 +1827,7 @@ forest ,is ever not imaginable on this earth"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Inscrutable ever on earth is the course of Destiny, O my son (kṛtāntasya gatiḥ putra durvibhāvyā sadā bhuvi), which urges you onward, O Rāghava, thrusting aside my words (yas tvāṃ saṃcodayati me vaca āvidhya rāghava)!
+“Inscrutable ever on earth is the course of Destiny, O my son (_kṛtāntasya gatiḥ putra durvibhāvyā sadā bhuvi_), which urges you onward, O Rāghava, thrusting aside my words (_yas tvāṃ saṃcodayati me vaca āvidhya rāghava_)!
 </details>
 </details>
 
@@ -1880,7 +1880,7 @@ with your pleasing and tranquillising words ."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go forth now, O mighty-armed one! Returning again in safety, O my son, you shall gladden me with gentle and winsome speech (kṣemeṇa punar āgataḥ nandayiṣyasi māṃ putra sāmnā ślakṣṇena cāruṇā).
+“Go forth now, O mighty-armed one! Returning again in safety, O my son, you shall gladden me with gentle and winsome speech (_kṣemeṇa punar āgataḥ nandayiṣyasi māṃ putra sāmnā ślakṣṇena cāruṇā_).
 </details>
 </details>
 
@@ -1935,7 +1935,7 @@ wearing twisted hair and garment made of bark."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Oh, might that hour be even now when I shall behold you, my dear son, returned again from the forest wearing matted locks and garments of bark (apīdānīṃ sa kālaḥ syād vanāt pratyāgataṃ punaḥ yat tvāṃ putraka paśyeyaṃ jaṭā-valkala-dhāriṇam)!”
+“Oh, might that hour be even now when I shall behold you, my dear son, returned again from the forest wearing matted locks and garments of bark (_apīdānīṃ sa kālaḥ syād vanāt pratyāgataṃ punaḥ yat tvāṃ putraka paśyeyaṃ jaṭā-valkala-dhāriṇam_)!”
 </details>
 </details>
 
@@ -2008,7 +2008,7 @@ recitation of auspicious words."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding Rāma thus firmly resolved upon dwelling in the forest, the Queen, with a supreme and reverent mind (dadarśa devī parameṇa cetasā), spoke auspicious words to Rāma and became intent upon performing benedictory rites for his safe journey (babhūva ca svastyayanābhikāṅkṣiṇī).
+Beholding Rāma thus firmly resolved upon dwelling in the forest, the Queen, with a supreme and reverent mind (_dadarśa devī parameṇa cetasā_), spoke auspicious words to Rāma and became intent upon performing benedictory rites for his safe journey (_babhūva ca svastyayanābhikāṅkṣiṇī_).
 </details>
 </details>
 

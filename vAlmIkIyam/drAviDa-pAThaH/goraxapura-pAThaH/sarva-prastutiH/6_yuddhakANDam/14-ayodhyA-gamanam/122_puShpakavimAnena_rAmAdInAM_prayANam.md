@@ -76,7 +76,7 @@ part, standing not very far, spoke to Rama (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard this auspicious speech spoken in reply (anubhāṣitam) by Rāghava, the Great Lord (maheśvaraḥ) [Śiva] then uttered an even more auspicious speech:
+Having heard this auspicious speech spoken in reply (_anubhāṣitam_) by Rāghava, the Great Lord (_maheśvaraḥ_) [Śiva] then uttered an even more auspicious speech:
 </details>
 </details>
 
@@ -122,7 +122,7 @@ modesty and with joined palms, to Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lotus-eyed one (puṣkarākṣa), O mighty-armed and broad-chested scorcher of foes! By good fortune (diṣṭyā) has this deed been accomplished by you, O best of the upholders of dharma!
+“O lotus-eyed one (_puṣkarākṣa_), O mighty-armed and broad-chested scorcher of foes! By good fortune (_diṣṭyā_) has this deed been accomplished by you, O best of the upholders of dharma!
 </details>
 </details>
 
@@ -174,7 +174,7 @@ following words to him, while Lakshmana was listening:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By good fortune, O Rāma, the swollen and dreadful darkness (tamaḥ) of the entire world—the terror born of Rāvaṇa (rāvaṇajaṃ bhayam)—has been dispelled by you in battle!
+By good fortune, O Rāma, the swollen and dreadful darkness (_tamaḥ_) of the entire world—the terror born of Rāvaṇa (_rāvaṇajaṃ bhayam_)—has been dispelled by you in battle!
 </details>
 </details>
 
@@ -275,7 +275,7 @@ their lives."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having attained the sovereignty in Ayodhyā, gladdened your friends and kinsmen (suhṛjjanam), and established your lineage (vaṃśam) in the house of the Ikṣvākus, O hero of mighty strength,
+having attained the sovereignty in Ayodhyā, gladdened your friends and kinsmen (_suhṛjjanam_), and established your lineage (_vaṃśam_) in the house of the Ikṣvākus, O hero of mighty strength,
 </details>
 </details>
 
@@ -327,7 +327,7 @@ achievement with gifts of gold and precious stones."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having offered worship with the horse-sacrifice (turagamedhena), attained supreme renown, and bestowed wealth upon the Brāhmaṇas, you ought finally to ascend to the third heaven (tridivam)!”
+having offered worship with the horse-sacrifice (_turagamedhena_), attained supreme renown, and bestowed wealth upon the Brāhmaṇas, you ought finally to ascend to the third heaven (_tridivam_)!”
 </details>
 </details>
 
@@ -387,7 +387,7 @@ the chiefs of monkey-troops, will feel happy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here in this celestial chariot (vimānasthaḥ) is King Daśaratha, your father, O Kākutstha, your highly illustrious preceptor (guruḥ) in the mortal world!
+“Here in this celestial chariot (_vimānasthaḥ_) is King Daśaratha, your father, O Kākutstha, your highly illustrious preceptor (_guruḥ_) in the mortal world!
 </details>
 </details>
 
@@ -438,7 +438,7 @@ am reminding you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having departed to the world of Indra (indralokam), that glorious monarch has been redeemed (tāritaḥ) by you, his son; together with your brother Lakṣmaṇa, do you reverently salute him!”
+Having departed to the world of Indra (_indralokam_), that glorious monarch has been redeemed (_tāritaḥ_) by you, his son; together with your brother Lakṣmaṇa, do you reverently salute him!”
 </details>
 </details>
 
@@ -487,7 +487,7 @@ qualities and who merely orders them to kill people in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Mahādeva, Rāghava, together with Lakṣmaṇa, offered salutation (praṇāmam akarot) to his father seated upon the crest of the celestial chariot (vimānaśikharasthasya).
+Hearing the words of Mahādeva, Rāghava, together with Lakṣmaṇa, offered salutation (_praṇāmam akarot_) to his father seated upon the crest of the celestial chariot (_vimānaśikharasthasya_).
 </details>
 </details>
 
@@ -533,7 +533,7 @@ precious stones and gold to them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with his brother Lakṣmaṇa, the lord [Rāma] beheld his father blazing with his own splendour (svayā lakṣmyā) and wearing spotless raiments (virajo'mbaradhāriṇam).
+Together with his brother Lakṣmaṇa, the lord [Rāma] beheld his father blazing with his own splendour (_svayā lakṣmyā_) and wearing spotless raiments (_virajo&#x27;mbaradhāriṇam_).
 </details>
 </details>
 
@@ -605,9 +605,9 @@ and taking the illustrious Seetha, who was feeling abashed, in his arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Filled with immense joy (harṣeṇa mahatāviṣṭaḥ) upon beholding his son dearer to him than life itself (prāṇaiḥ priyataram), King Daśaratha, seated in the celestial chariot,
+**11:** Filled with immense joy (_harṣeṇa mahatāviṣṭaḥ_) upon beholding his son dearer to him than life itself (_prāṇaiḥ priyataram_), King Daśaratha, seated in the celestial chariot,
 
-**12:** that mighty-armed sovereign occupying an exalted seat (varāsanagataḥ), placed [Rāma] upon his lap (āropyāṅke), embraced him closely with both arms, and then began to speak:
+**12:** that mighty-armed sovereign occupying an exalted seat (_varāsanagataḥ_), placed [Rāma] upon his lap (_āropyāṅke_), embraced him closely with both arms, and then began to speak:
 </details>
 </details>
 
@@ -667,7 +667,7 @@ Sugreeva, Rama remaining in the aerial car, spoke (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Heaven itself (svargaḥ) is not held in high esteem by me, nor the honour bestowed by the foremost of the gods (surarṣabhaiḥ), while parted from you, O Rāma—this truth I solemnly declare (pratiśṛṇomi) to you!
+“Heaven itself (_svargaḥ_) is not held in high esteem by me, nor the honour bestowed by the foremost of the gods (_surarṣabhaiḥ_), while parted from you, O Rāma—this truth I solemnly declare (_pratiśṛṇomi_) to you!
 </details>
 </details>
 
@@ -719,7 +719,7 @@ Permitted by me, all of you can go, where you will."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, beholding you with your enemies slain (nihatāmitram), your heart's desire fulfilled, and your forest-exile fully crossed over (nistīrṇavanavāsam), supreme joy has arisen in me!
+Today, beholding you with your enemies slain (_nihatāmitram_), your heart&#x27;s desire fulfilled, and your forest-exile fully crossed over (_nistīrṇavanavāsam_), supreme joy has arisen in me!
 </details>
 </details>
 
@@ -775,7 +775,7 @@ Accompanied by your army, proceed to Kishkindha at once."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those words that were spoken by Kaikeyī aimed at your banishment (pravrājanārthāni), O best of speakers, have remained fixed in my heart (hṛdaye mama).
+Those words that were spoken by Kaikeyī aimed at your banishment (_pravrājanārthāni_), O best of speakers, have remained fixed in my heart (_hṛdaye mama_).
 </details>
 </details>
 
@@ -828,7 +828,7 @@ celestials including Indra shall not be able to attack you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet today, beholding you safe and sound (kuśalinam) and embracing you together with Lakṣmaṇa, I am freed from sorrow (duḥkhād vimukto 'smi), like the sun from winter mist (nīhārād iva bhāskaraḥ)!
+Yet today, beholding you safe and sound (_kuśalinam_) and embracing you together with Lakṣmaṇa, I am freed from sorrow (_duḥkhād vimukto &#x27;smi_), like the sun from winter mist (_nīhārād iva bhāskaraḥ_)!
 </details>
 </details>
 
@@ -880,7 +880,7 @@ wish to take leave of you all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I have been redeemed (tārito 'ham) by you, O son—a noble and magnanimous son—just as the righteous Brāhmaṇa Kahola was redeemed by Aṣṭāvakra!
+I have been redeemed (_tārito &#x27;ham_) by you, O son—a noble and magnanimous son—just as the righteous Brāhmaṇa Kahola was redeemed by Aṣṭāvakra!
 </details>
 </details>
 
@@ -927,7 +927,7 @@ all of them there, with their joined palms, spoke (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And now I truly understand, O gentle one (saumya), how the Supreme Puruṣa (puruṣottamam) was ordained here by the lords of the gods for the slaying of Rāvaṇa!
+And now I truly understand, O gentle one (_saumya_), how the Supreme Puruṣa (_puruṣottamam_) was ordained here by the lords of the gods for the slaying of Rāvaṇa!
 </details>
 </details>
 
@@ -984,7 +984,7 @@ gardens and groves there with rejoice."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Truly blessed in her purpose (siddhārthā) is Kausalyā, who, filled with rapture (saṃhṛṣṭā), shall behold you, O Rāma, the destroyer of foes, returned home from the forest!
+“Truly blessed in her purpose (_siddhārthā_) is Kausalyā, who, filled with rapture (_saṃhṛṣṭā_), shall behold you, O Rāma, the destroyer of foes, returned home from the forest!
 </details>
 </details>
 
@@ -1031,7 +1031,7 @@ and offering our salutations to Kausalya, we shall return to our homes."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly blessed in their purpose, O Rāma, are those men who shall behold you returned to the city and consecrated upon the throne (rājye caivābhiṣiktam) as lord of the earth (vasudhādhipam)!
+Truly blessed in their purpose, O Rāma, are those men who shall behold you returned to the city and consecrated upon the throne (_rājye caivābhiṣiktam_) as lord of the earth (_vasudhādhipam_)!
 </details>
 </details>
 
@@ -1083,7 +1083,7 @@ those monkeys, Sugreeva and Vibhishana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I long to behold you reunited with Bharata—who is devoted to you (anuraktena), mighty, pure, and ever walking in dharma (dharmacāriṇā)!
+I long to behold you reunited with Bharata—who is devoted to you (_anuraktena_), mighty, pure, and ever walking in dharma (_dharmacāriṇā_)!
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ Ayodhya with the host of my friends along with all of you, for, I shall feel del
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fourteen years (caturdaśa samāḥ), O gentle one, have been spent (niryātitāḥ) by you in the forest, dwelling together with Sītā and Lakṣmaṇa out of love for me (matprītyā).
+Fourteen years (_caturdaśa samāḥ_), O gentle one, have been spent (_niryātitāḥ_) by you in the forest, dwelling together with Sītā and Lakṣmaṇa out of love for me (_matprītyā_).
 </details>
 </details>
 
@@ -1188,7 +1188,7 @@ the king of demons! You also ascend it, along with your counsellors."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You have completed your forest-exile (nivṛttavanavāso 'si), my vow has been fulfilled (pratijñā pūritā) by you, and by slaying Rāvaṇa in battle the deities have been thoroughly gratified!
+You have completed your forest-exile (_nivṛttavanavāso &#x27;si_), my vow has been fulfilled (_pratijñā pūritā_) by you, and by slaying Rāvaṇa in battle the deities have been thoroughly gratified!
 </details>
 </details>
 
@@ -1241,7 +1241,7 @@ Pushpaka, the aerial car. Vibhishana together with his counselors also ascended 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A glorious deed has been accomplished and praiseworthy renown (yaśaḥ ślāghyam) attained by you, O destroyer of foes; established in sovereignty together with your brothers, do you attain a long life (dīrgham āyuḥ)!”
+A glorious deed has been accomplished and praiseworthy renown (_yaśaḥ ślāghyam_) attained by you, O destroyer of foes; established in sovereignty together with your brothers, do you attain a long life (_dīrgham āyuḥ_)!”
 </details>
 </details>
 
@@ -1295,7 +1295,7 @@ the sky, after having been duly authorized by Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To the king speaking thus, Rāma, with joined palms (prāñjaliḥ), replied: “Bestow your grace (kuru prasādam), O knower of dharma, upon Kaikeyī and Bharata!
+To the king speaking thus, Rāma, with joined palms (_prāñjaliḥ_), replied: “Bestow your grace (_kuru prasādam_), O knower of dharma, upon Kaikeyī and Bharata!
 </details>
 </details>
 
@@ -1348,7 +1348,7 @@ which was now in the air and was provided with the image of a swan, Rama shone l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That terrible curse (śāpaḥ ghoraḥ) with which Kaikeyī was addressed by you—‘I repudiate you together with your son (saputrāṃ tvāṃ tyajāmi)!’—may it not touch Kaikeyī and her son, O lord!”
+That terrible curse (_śāpaḥ ghoraḥ_) with which Kaikeyī was addressed by you—‘I repudiate you together with your son (_saputrāṃ tvāṃ tyajāmi_)!’—may it not touch Kaikeyī and her son, O lord!”
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ wonderful aerial car.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it (tatheti)!” to Rāma who stood with joined palms, that great monarch embraced Lakṣmaṇa also and spoke these further words:
+Saying “So be it (_tatheti_)!” to Rāma who stood with joined palms, that great monarch embraced Lakṣmaṇa also and spoke these further words:
 </details>
 </details>
 

@@ -84,7 +84,7 @@ so fast to loose no time. [1-68-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded by Janaka (janakena samādiṣṭāḥ), those envoys (dūtās te), their mounts wearied by the swift journey (klāntavāhanāḥ), spent three nights on the road (trirātram uṣitā mārge) and entered the city of Ayodhyā (te ’yodhyāṃ prāviśan purīm).
+Commanded by Janaka (_janakena samādiṣṭāḥ_), those envoys (_dūtās te_), their mounts wearied by the swift journey (_klāntavāhanāḥ_), spent three nights on the road (_trirātram uṣitā mārge_) and entered the city of Ayodhyā (_te ’yodhyāṃ prāviśan purīm_).
 </details>
 </details>
 
@@ -132,7 +132,7 @@ king Dasharatha gleaming like a god. [1-68-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone there at the king’s word (te rājavacanād gatvā) and been ushered into the royal palace (rājaveśma praveśitāḥ), they beheld the aged King Daśaratha (dadṛśur vṛddhaṃ daśarathaṃ nṛpam), who shone like a god (devasaṃkāśam).
+Having gone there at the king’s word (_te rājavacanād gatvā_) and been ushered into the royal palace (_rājaveśma praveśitāḥ_), they beheld the aged King Daśaratha (_dadṛśur vṛddhaṃ daśarathaṃ nṛpam_), who shone like a god (_devasaṃkāśam_).
 </details>
 </details>
 
@@ -232,11 +232,11 @@ anon... [1-68-4, 5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** With hollowed palms joined in reverence (baddhāñjalipuṭāḥ), all the envoys, free of trepidation (sarve dūtā vigatasādhvasāḥ), addressed to the king a deferential speech of sweet syllables (rājānaṃ praśritaṃ vākyam abruvan madhurākṣaram):
+**3:** With hollowed palms joined in reverence (_baddhāñjalipuṭāḥ_), all the envoys, free of trepidation (_sarve dūtā vigatasādhvasāḥ_), addressed to the king a deferential speech of sweet syllables (_rājānaṃ praśritaṃ vākyam abruvan madhurākṣaram_):
 
-**4:** “King Janaka of Mithilā (maithilo janako rājā), accompanied and preceded by his sacred fire-rituals (sāgnihotrapuraskṛtaḥ), again and again with a sweet voice suffused with affection (muhur muhur madhurayā snehasaṃraktayā girā)—
+**4:** “King Janaka of Mithilā (_maithilo janako rājā_), accompanied and preceded by his sacred fire-rituals (_sāgnihotrapuraskṛtaḥ_), again and again with a sweet voice suffused with affection (_muhur muhur madhurayā snehasaṃraktayā girā_)—
 
-**5:** “King Janaka inquires after your welfare and undiminished prosperity, O great monarch (kuśalaṃ cāvyayaṃ caiva janakas tvāṃ mahārāja pṛcchate), together with your preceptors, family priest, and attendants (sopādhyāyapurohitam sapuraḥsaram).
+**5:** “King Janaka inquires after your welfare and undiminished prosperity, O great monarch (_kuśalaṃ cāvyayaṃ caiva janakas tvāṃ mahārāja pṛcchate_), together with your preceptors, family priest, and attendants (_sopādhyāyapurohitam sapuraḥsaram_).
 </details>
 </details>
 
@@ -293,7 +293,7 @@ indorse of Kaushika... [1-68-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having inquired after your unruffled welfare (pṛṣṭvā kuśalam avyagram), Vaideha, the lord of Mithilā (vaideho mithilādhipaḥ), with the concurrence of Kauśika (kauśikānumate), has addressed these words to Your Majesty (vākyaṃ bhavantam idam abravīt):
+“Having inquired after your unruffled welfare (_pṛṣṭvā kuśalam avyagram_), Vaideha, the lord of Mithilā (_vaideho mithilādhipaḥ_), with the concurrence of Kauśika (_kauśikānumate_), has addressed these words to Your Majesty (_vākyaṃ bhavantam idam abravīt_):
 </details>
 </details>
 
@@ -343,7 +343,7 @@ is also well-known that I turned them back with my guts... [1-68-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘My solemn pledge of old is well known to you (pūrvaṃ pratijñā viditā), that my daughter has valor for her bride-price (vīryaśulkā mamātmajā), and how the suitors among kings, filled with indignation and bereft of valor (rājānaś ca kṛtāmarṣā nirvīryāḥ), were turned away crestfallen (vimukhīkṛtāḥ).
+“‘My solemn pledge of old is well known to you (_pūrvaṃ pratijñā viditā_), that my daughter has valor for her bride-price (_vīryaśulkā mamātmajā_), and how the suitors among kings, filled with indignation and bereft of valor (_rājānaś ca kṛtāmarṣā nirvīryāḥ_), were turned away crestfallen (_vimukhīkṛtāḥ_).
 </details>
 </details>
 
@@ -407,7 +407,7 @@ tava pureNa nirjitaa ||* which uses only singular for Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘That very daughter of mine, O King (seyaṃ mama sutā rājan), has now been won by your young sons (nirjitā tava putrakaiḥ), who arrived here as though by providence (yadṛcchayāgatai rājan), led by Viśvāmitra (viśvāmitrapuraskṛtaiḥ)!
+“‘That very daughter of mine, O King (_seyaṃ mama sutā rājan_), has now been won by your young sons (_nirjitā tava putrakaiḥ_), who arrived here as though by providence (_yadṛcchayāgatai rājan_), led by Viśvāmitra (_viśvāmitrapuraskṛtaiḥ_)!
 </details>
 </details>
 
@@ -457,7 +457,7 @@ of people... [1-68-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Moreover, that jewel of a divine bow (tac ca ratnaṃ dhanur divyam) was snapped in two at its middle (madhye bhagnam), O mighty-armed monarch (mahābāho), by the high-souled Rāma (mahātmanā rāmeṇa hi) in the midst of a vast assembly of people (mahatyāṃ janasaṃsadi).
+“‘Moreover, that jewel of a divine bow (_tac ca ratnaṃ dhanur divyam_) was snapped in two at its middle (_madhye bhagnam_), O mighty-armed monarch (_mahābāho_), by the high-souled Rāma (_mahātmanā rāmeṇa hi_) in the midst of a vast assembly of people (_mahatyāṃ janasaṃsadi_).
 </details>
 </details>
 
@@ -505,7 +505,7 @@ solemn promise... [1-68-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘To this high-souled prince must Sītā, whose bride-price is valor, be given by me (asmai deyā mayā sītā vīryaśulkā mahātmane). I wish to fulfill my solemn pledge (pratijñāṃ tartum icchāmi); you ought therefore to grant your consent (tad anujñātum arhasi).
+“‘To this high-souled prince must Sītā, whose bride-price is valor, be given by me (_asmai deyā mayā sītā vīryaśulkā mahātmane_). I wish to fulfill my solemn pledge (_pratijñāṃ tartum icchāmi_); you ought therefore to grant your consent (_tad anujñātum arhasi_).
 </details>
 </details>
 
@@ -560,7 +560,7 @@ to take a look at your ennobled son Rama, and Lakshmana, too... [1-68-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Accompanied by your preceptors (sopādhyāyo), O great monarch (mahārāja), and preceded by your family priest (purohitapuraskṛtaḥ), come swiftly (śīghram āgaccha)—may auspiciousness attend you (bhadraṃ te)! You ought to behold the two Rāghavas (draṣṭum arhasi rāghavau).
+“‘Accompanied by your preceptors (_sopādhyāyo_), O great monarch (_mahārāja_), and preceded by your family priest (_purohitapuraskṛtaḥ_), come swiftly (_śīghram āgaccha_)—may auspiciousness attend you (_bhadraṃ te_)! You ought to behold the two Rāghavas (_draṣṭum arhasi rāghavau_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ in-law...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You ought to bring my solemn vow to fulfillment, O chief of kings (pratijñāṃ mama rājendra nirvartayitum arhasi), and you shall experience the joy of both your sons (putrayor ubhayor eva prītiṃ tvam upalapsyase)!’
+“‘You ought to bring my solemn vow to fulfillment, O chief of kings (_pratijñāṃ mama rājendra nirvartayitum arhasi_), and you shall experience the joy of both your sons (_putrayor ubhayor eva prītiṃ tvam upalapsyase_)!’
 </details>
 </details>
 
@@ -666,7 +666,7 @@ Thus the envoys conveyed the proposal and paused. [1-68-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus spoke the lord of the Videhas in sweet words (evaṃ videhādhipatir madhuraṃ vākyam abravīt), sanctioned by Viśvāmitra (viśvāmitrābhyanujñātaḥ) and abiding by the counsel of Śatānanda (śatānandamate sthitaḥ).”
+“Thus spoke the lord of the Videhas in sweet words (_evaṃ videhādhipatir madhuraṃ vākyam abravīt_), sanctioned by Viśvāmitra (_viśvāmitrābhyanujñātaḥ_) and abiding by the counsel of Śatānanda (_śatānandamate sthitaḥ_).”
 </details>
 </details>
 
@@ -714,7 +714,7 @@ and said this way to Vashishta, Vaamadeva, and to his other ministers, as well.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of the envoys (dūtavākyaṃ tu tac chrutvā), the king, supremely overjoyed (rājā paramaharṣitaḥ), spoke thus to Vasiṣṭha, Vāmadeva, and his counselors (vasiṣṭhaṃ vāmadevaṃ ca mantriṇaś caivam abravīt):
+Hearing that speech of the envoys (_dūtavākyaṃ tu tac chrutvā_), the king, supremely overjoyed (_rājā paramaharṣitaḥ_), spoke thus to Vasiṣṭha, Vāmadeva, and his counselors (_vasiṣṭhaṃ vāmadevaṃ ca mantriṇaś caivam abravīt_):
 </details>
 </details>
 
@@ -761,7 +761,7 @@ along with his brother Lakshmana, and Vishvamitra is taking care of both these b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Protected by the son of Kuśika (guptaḥ kuśikaputreṇa), that increaser of Kausalyā’s joy (kausalyānandavardhanaḥ), together with his brother Lakṣmaṇa (lakṣmaṇena saha bhrātrā), is dwelling in the land of the Videhas (videheṣu vasaty asau).
+“Protected by the son of Kuśika (_guptaḥ kuśikaputreṇa_), that increaser of Kausalyā’s joy (_kausalyānandavardhanaḥ_), together with his brother Lakṣmaṇa (_lakṣmaṇena saha bhrātrā_), is dwelling in the land of the Videhas (_videheṣu vasaty asau_).
 </details>
 </details>
 
@@ -815,7 +815,7 @@ daughter as bride to Raghava Rama... [1-68-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The valor of Kākutstha has been witnessed by the high-souled Janaka (dṛṣṭavīryas tu kākutstho janakena mahātmanā), and he now desires to bestow his daughter in marriage upon Rāghava (saṃpradānaṃ sutāyās tu rāghave kartum icchati).
+“The valor of Kākutstha has been witnessed by the high-souled Janaka (_dṛṣṭavīryas tu kākutstho janakena mahātmanā_), and he now desires to bestow his daughter in marriage upon Rāghava (_saṃpradānaṃ sutāyās tu rāghave kartum icchati_).
 </details>
 </details>
 
@@ -873,7 +873,7 @@ has happened now' i.e., the impossible deed of breaking it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If this alliance with the high-souled Janaka pleases you (yadi vo rocate vṛttaṃ janakasya mahātmanaḥ), let us depart swiftly for his city (purīṃ gacchāmahe śīghram); let there be no lapse of the auspicious time (mā bhūt kālasya paryayaḥ)!”
+“If this alliance with the high-souled Janaka pleases you (_yadi vo rocate vṛttaṃ janakasya mahātmanaḥ_), let us depart swiftly for his city (_purīṃ gacchāmahe śīghram_); let there be no lapse of the auspicious time (_mā bhūt kālasya paryayaḥ_)!”
 </details>
 </details>
 
@@ -923,7 +923,7 @@ and then that highly pleased king Dasharatha said to the ministers, "we travel t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The counselors, together with all the great sages (saha sarvair maharṣibhiḥ), replied, “By all means (mantriṇo bāḍham ity āhuḥ)!” And the king, deeply delighted (suprītaś cābravīd rājā), told his ministers: “The march shall be tomorrow (śvo yātreti ca mantriṇaḥ)!”
+The counselors, together with all the great sages (_saha sarvair maharṣibhiḥ_), replied, “By all means (_mantriṇo bāḍham ity āhuḥ_)!” And the king, deeply delighted (_suprītaś cābravīd rājā_), told his ministers: “The march shall be tomorrow (_śvo yātreti ca mantriṇaḥ_)!”
 </details>
 </details>
 
@@ -985,7 +985,7 @@ sIta kalyANam... [1-68-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The ministers of the lord of men, endowed with every excellence (mantriṇas tu narendrasya guṇaiḥ sarvaiḥ samanvitāḥ) and supremely honored (paramasatkṛtāḥ), passed that night in great joy (rātrim ūṣuḥ pramuditāḥ sarve).
+The ministers of the lord of men, endowed with every excellence (_mantriṇas tu narendrasya guṇaiḥ sarvaiḥ samanvitāḥ_) and supremely honored (_paramasatkṛtāḥ_), passed that night in great joy (_rātrim ūṣuḥ pramuditāḥ sarve_).
 </details>
 </details>
 

@@ -48,7 +48,7 @@ Swift-striding Nārada hastens to Yama’s palace, beholds the god attended by F
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having pondered thus (evaṃ sañcintya), that foremost of Brahmins (viprendo), swift of stride (laghu-vikramaḥ), went toward the abode of Yama (yamasya sadanaṃ prati) to report what had transpired just as it happened (ākhyātuṃ tad yathāvṛttam).
+Having pondered thus (_evaṃ sañcintya_), that foremost of Brahmins (_viprendo_), swift of stride (_laghu-vikramaḥ_), went toward the abode of Yama (_yamasya sadanaṃ prati_) to report what had transpired just as it happened (_ākhyātuṃ tad yathāvṛttam_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having pondered thus (evaṃ sañcintya), that foremost of Brahmins (viprendo), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld the god Yama (apaśyat sa yamaṃ tatra devam), attended by Fire placed before him (agni-puraskṛtam), administering the karmic dispensation (vidhānam upatiṣṭhantam) appropriate to each living being (prāṇino yasya yādṛśam).
+There he beheld the god Yama (_apaśyat sa yamaṃ tatra devam_), attended by Fire placed before him (_agni-puraskṛtam_), administering the karmic dispensation (_vidhānam upatiṣṭhantam_) appropriate to each living being (_prāṇino yasya yādṛśam_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ There he beheld the god Yama (apaśyat sa yamaṃ tatra devam), attended by Fire
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the great sage Nārada arrived there (prāptaṃ maharṣiṃ tatra nāradam), Yama duly offered him guest-water in accordance with dharma (arghyam āvedya dharmataḥ) and addressed him as he sat at ease (abravīt sukham āsīnam):
+Beholding the great sage Nārada arrived there (_prāptaṃ maharṣiṃ tatra nāradam_), Yama duly offered him guest-water in accordance with dharma (_arghyam āvedya dharmataḥ_) and addressed him as he sat at ease (_abravīt sukham āsīnam_):
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Beholding the great sage Nārada arrived there (prāptaṃ maharṣiṃ tatra n�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Is all well, O divine sage (kaccit kṣemaṃ tu devarṣe)? Surely righteousness does not perish (kaccid dharmo na naśyati)? What is the purpose of your coming (kim āgamana-kṛtyaṃ te), O you honored by gods and gandharvas (deva-gandharva-sevita)?”
+“Is all well, O divine sage (_kaccit kṣemaṃ tu devarṣe_)? Surely righteousness does not perish (_kaccid dharmo na naśyati_)? What is the purpose of your coming (_kim āgamana-kṛtyaṃ te_), O you honored by gods and gandharvas (_deva-gandharva-sevita_)?”
 </details>
 </details>
 
@@ -176,9 +176,9 @@ Beholding the great sage Nārada arrived there (prāptaṃ maharṣiṃ tatra n�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Then the revered sage Nārada (nārado bhagavān ṛṣiḥ) spoke these words: “Pray listen, I shall tell you (śrūyatām abhidhāsyāmi), and let a fitting measure be devised (vidhānaṃ ca vidhīyatām)!
+**5:** Then the revered sage Nārada (_nārado bhagavān ṛṣiḥ_) spoke these words: “Pray listen, I shall tell you (_śrūyatām abhidhāsyāmi_), and let a fitting measure be devised (_vidhānaṃ ca vidhīyatām_)!
 
-**6:** “O King of the Ancestors (pitṛrāja), this night-roamer known by the name Daśagrīva (eṣa nāmno daśagrīvaḥ ... niśācaraḥ) approaches to bring even you—so hard to conquer (tvāṃ sudurjayam)—under his sway by his prowess (vaśaṃ netuṃ vikramaiḥ).
+**6:** “O King of the Ancestors (_pitṛrāja_), this night-roamer known by the name Daśagrīva (_eṣa nāmno daśagrīvaḥ ... niśācaraḥ_) approaches to bring even you—so hard to conquer (_tvāṃ sudurjayam_)—under his sway by his prowess (_vaśaṃ netuṃ vikramaiḥ_).
 </details>
 </details>
 
@@ -217,7 +217,7 @@ Even as Nārada concludes his warning, Rāvaṇa’s blazing Puṣpaka chariot a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this very reason have I come in haste, O Lord (etena kāraṇenāhaṃ tvarito hy āgataḥ prabho): what indeed shall become today of you (tava kiṃ nu bhaviṣyati), whose weapon is the Staff of Time (daṇḍa-praharaṇasyādya)?”
+“For this very reason have I come in haste, O Lord (_etena kāraṇenāhaṃ tvarito hy āgataḥ prabho_): what indeed shall become today of you (_tava kiṃ nu bhaviṣyati_), whose weapon is the Staff of Time (_daṇḍa-praharaṇasyādya_)?”
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Even as Nārada concludes his warning, Rāvaṇa’s blazing Puṣpaka chariot a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very moment (etasminn antare), from afar they beheld (dūrād ... dadṛśuḥ) that rākṣasa’s blazing aerial car approaching (dīptam āyāntaṃ vimānaṃ tasya rakṣasaḥ), like the newly risen sun (aṃśumantam ivoditam).
+At that very moment (_etasminn antare_), from afar they beheld (_dūrād ... dadṛśuḥ_) that rākṣasa’s blazing aerial car approaching (_dīptam āyāntaṃ vimānaṃ tasya rakṣasaḥ_), like the newly risen sun (_aṃśumantam ivoditam_).
 </details>
 </details>
 
@@ -279,7 +279,7 @@ At that very moment (etasminn antare), from afar they beheld (dūrād ... dadṛ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Making that entire region free of darkness (kṛtvā vitimiraṃ sarvam) by the splendor of that Puṣpaka chariot (prabhayā tasya puṣpakasya), the mighty hero drew near (samīpaṃ so ’bhyavartata).
+Making that entire region free of darkness (_kṛtvā vitimiraṃ sarvam_) by the splendor of that Puṣpaka chariot (_prabhayā tasya puṣpakasya_), the mighty hero drew near (_samīpaṃ so ’bhyavartata_).
 </details>
 </details>
 
@@ -310,7 +310,7 @@ Making that entire region free of darkness (kṛtvā vitimiraṃ sarvam) by the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Looking all around (tatas tataḥ), that mighty-armed Daśagrīva beheld (so ’paśyat sa mahābāhur daśagrīvaḥ) living beings experiencing the fruits of their meritorious deeds (prāṇinaḥ sukṛtaṃ karma bhuñjānān) as well as their evil deeds (caiva duṣkṛtam).
+Looking all around (_tatas tataḥ_), that mighty-armed Daśagrīva beheld (_so ’paśyat sa mahābāhur daśagrīvaḥ_) living beings experiencing the fruits of their meritorious deeds (_prāṇinaḥ sukṛtaṃ karma bhuñjānān_) as well as their evil deeds (_caiva duṣkṛtam_).
 </details>
 </details>
 
@@ -345,9 +345,9 @@ Looking all around (tatas tataḥ), that mighty-armed Daśagrīva beheld (so ’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** He beheld Yama’s soldiers together with his attendants (apaśyat sainikāṃś cāsya yamasyānucaraiḥ saha), and Yama’s fierce emissaries of terrifying and dreadful forms (yamasya puruṣair ugrair ghorarūpair bhayānakaiḥ)—
+**11:** He beheld Yama’s soldiers together with his attendants (_apaśyat sainikāṃś cāsya yamasyānucaraiḥ saha_), and Yama’s fierce emissaries of terrifying and dreadful forms (_yamasya puruṣair ugrair ghorarūpair bhayānakaiḥ_)—
 
-**12:** And he beheld embodied souls being struck and tormented (dadarśa vadhyamānāṃś ca kliśyamānāṃś ca dehinaḥ), wailing with mighty cries (krośataś ca mahānādam), given over to piercing groans (tīvra-niṣṭana-tatparān), and being devoured by worms and ferocious hounds (kṛmibhir bhakṣyamāṇāṃś ca sārameyaiś ca dāruṇaiḥ),
+**12:** And he beheld embodied souls being struck and tormented (_dadarśa vadhyamānāṃś ca kliśyamānāṃś ca dehinaḥ_), wailing with mighty cries (_krośataś ca mahānādam_), given over to piercing groans (_tīvra-niṣṭana-tatparān_), and being devoured by worms and ferocious hounds (_kṛmibhir bhakṣyamāṇāṃś ca sārameyaiś ca dāruṇaiḥ_),
 </details>
 </details>
 
@@ -386,7 +386,7 @@ Rāvaṇa views sinners crossing the blood-filled Vaitaraṇī, scorched on hot 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—uttering terrifying words that torment the ear (śrotrāyāsakarā vāco vadataś ca bhayāvahāḥ), forced repeatedly to cross the river Vaitaraṇī whose waters are blood (santāryamāṇān vaitaraṇīṃ bahuśaḥ śoṇitodakām),
+—uttering terrifying words that torment the ear (_śrotrāyāsakarā vāco vadataś ca bhayāvahāḥ_), forced repeatedly to cross the river Vaitaraṇī whose waters are blood (_santāryamāṇān vaitaraṇīṃ bahuśaḥ śoṇitodakām_),
 </details>
 </details>
 
@@ -417,7 +417,7 @@ Rāvaṇa views sinners crossing the blood-filled Vaitaraṇī, scorched on hot 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—scorched again and again upon burning sands (vālukāsu ca taptāsu tapyamānān muhur muhuḥ), and unrighteous wretches hacked apart in the Sword-Leaf Forest (asipatravane caiva bhidyamānān adhārmikān),
+—scorched again and again upon burning sands (_vālukāsu ca taptāsu tapyamānān muhur muhuḥ_), and unrighteous wretches hacked apart in the Sword-Leaf Forest (_asipatravane caiva bhidyamānān adhārmikān_),
 </details>
 </details>
 
@@ -463,11 +463,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** —tormented in Raurava, in the Caustic River, and upon razor-edged blades (raurave kṣāranadyāṃ ca kṣuradhārāsu caiva hi), and begging for water (pānīyaṃ yācamānāṃś ca), racked by thirst and hunger too (tṛṣitān kṣudhitān api),
+**15:** —tormented in Raurava, in the Caustic River, and upon razor-edged blades (_raurave kṣāranadyāṃ ca kṣuradhārāsu caiva hi_), and begging for water (_pānīyaṃ yācamānāṃś ca_), racked by thirst and hunger too (_tṛṣitān kṣudhitān api_),
 
-**16:** —corpse-like, emaciated, wretched, pale, with disheveled hair (śavabhūtān kṛśān dīnān vivarṇān mukta-mūrdhajān), smeared with filth and mire (mala-paṅka-dharān), miserable, haggard, and running wildly about (rūkṣāṃś ca paridhāvataḥ)—
+**16:** —corpse-like, emaciated, wretched, pale, with disheveled hair (_śavabhūtān kṛśān dīnān vivarṇān mukta-mūrdhajān_), smeared with filth and mire (_mala-paṅka-dharān_), miserable, haggard, and running wildly about (_rūkṣāṃś ca paridhāvataḥ_)—
 
-**17:** all these Rāvaṇa beheld along the way by hundreds and by thousands (dadarśa rāvaṇo mārge śataśo ’tha sahasraśaḥ). And others he beheld in stately mansions (kāṃścic ca gṛha-mukhyeṣu), rejoicing with sounds of song and music (gīta-vāditra-niḥsvanaiḥ ... pramodamānān) through their own good deeds (sukṛtaiḥ svakaiḥ):
+**17:** all these Rāvaṇa beheld along the way by hundreds and by thousands (_dadarśa rāvaṇo mārge śataśo ’tha sahasraśaḥ_). And others he beheld in stately mansions (_kāṃścic ca gṛha-mukhyeṣu_), rejoicing with sounds of song and music (_gīta-vāditra-niḥsvanaiḥ ... pramodamānān_) through their own good deeds (_sukṛtaiḥ svakaiḥ_):
 </details>
 </details>
 
@@ -498,7 +498,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-givers of cows enjoying cow’s milk (gorasaṃ go-pradātāraḥ), givers of food enjoying food (annaṃ caivānna-dāyinaḥ), and givers of homes enjoying homes (gṛhāṃś ca gṛha-dātāraḥ)—partaking of the fruit of their own actions (sva-karma-phalam aśnataḥ)—adorned with women decked in gold, gems, and pearls (suvarṇa-maṇi-muktābhiḥ pramadābhir alaṅkṛtān).
+givers of cows enjoying cow’s milk (_gorasaṃ go-pradātāraḥ_), givers of food enjoying food (_annaṃ caivānna-dāyinaḥ_), and givers of homes enjoying homes (_gṛhāṃś ca gṛha-dātāraḥ_)—partaking of the fruit of their own actions (_sva-karma-phalam aśnataḥ_)—adorned with women decked in gold, gems, and pearls (_suvarṇa-maṇi-muktābhiḥ pramadābhir alaṅkṛtān_).
 </details>
 </details>
 
@@ -540,7 +540,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There too the mighty-armed Rāvaṇa, overlord of the rākṣasas (sumahābāhū rāvaṇo rākṣasādhipaḥ), beheld other righteous souls (dhārmikān aparāṃs tatra) shining by their own radiance (dīpyamānān svatejasā).
+There too the mighty-armed Rāvaṇa, overlord of the rākṣasas (_sumahābāhū rāvaṇo rākṣasādhipaḥ_), beheld other righteous souls (_dhārmikān aparāṃs tatra_) shining by their own radiance (_dīpyamānān svatejasā_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then mighty Rāvaṇa, by force and martial prowess (vikrameṇa balād balī), liberated those who were being lacerated by their own evil deeds (tān bhidyamānāṃś ca karmabhir duṣkṛtaiḥ svakaiḥ).
+Then mighty Rāvaṇa, by force and martial prowess (_vikrameṇa balād balī_), liberated those who were being lacerated by their own evil deeds (_tān bhidyamānāṃś ca karmabhir duṣkṛtaiḥ svakaiḥ_).
 </details>
 </details>
 
@@ -609,9 +609,9 @@ Then mighty Rāvaṇa, by force and martial prowess (vikrameṇa balād balī), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Set free by that rākṣasa Daśagrīva (prāṇino mocitās tena daśagrīveṇa rakṣasā), those living beings attained for a single moment (sukham āpur muhūrtam) a joy utterly unexpected and unimagined (atarkitam acintitam).
+**21:** Set free by that rākṣasa Daśagrīva (_prāṇino mocitās tena daśagrīveṇa rakṣasā_), those living beings attained for a single moment (_sukham āpur muhūrtam_) a joy utterly unexpected and unimagined (_atarkitam acintitam_).
 
-**22:** While the departed spirits were thus being freed by that mighty rākṣasa (preteṣu mucyamāneṣu rākṣasena mahīyasā), the wardens of the dead, fiercely enraged (pretagopāḥ susaṅkruddhāḥ), rushed upon the lord of rākṣasas (rākṣasendram abhidravan).
+**22:** While the departed spirits were thus being freed by that mighty rākṣasa (_preteṣu mucyamāneṣu rākṣasena mahīyasā_), the wardens of the dead, fiercely enraged (_pretagopāḥ susaṅkruddhāḥ_), rushed upon the lord of rākṣasas (_rākṣasendram abhidravan_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ Then mighty Rāvaṇa, by force and martial prowess (vikrameṇa balād balī), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon a tumultuous uproar (halahalā-śabdaḥ) arose from every quarter (sarva-digbhyaḥ samutthitaḥ) from the valiant warriors of Dharmarāja (dharmarājasya yodhānāṃ śūrāṇām) charging forth together (sampradhāvatām).
+Thereupon a tumultuous uproar (_halahalā-śabdaḥ_) arose from every quarter (_sarva-digbhyaḥ samutthitaḥ_) from the valiant warriors of Dharmarāja (_dharmarājasya yodhānāṃ śūrāṇām_) charging forth together (_sampradhāvatām_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ Thereupon a tumultuous uproar (halahalā-śabdaḥ) arose from every quarter (sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With lances, iron-bound clubs, tridents, pestles, javelins, and darts (prāsaiḥ parighaiḥ śūlair musalaiḥ śakti-tomaraiḥ), those heroes by the hundreds of thousands (śūrāḥ śata-sahasraśaḥ) rained blows upon Puṣpaka (puṣpakaṃ samavarṣanta).
+With lances, iron-bound clubs, tridents, pestles, javelins, and darts (_prāsaiḥ parighaiḥ śūlair musalaiḥ śakti-tomaraiḥ_), those heroes by the hundreds of thousands (_śūrāḥ śata-sahasraśaḥ_) rained blows upon Puṣpaka (_puṣpakaṃ samavarṣanta_).
 </details>
 </details>
 
@@ -718,9 +718,9 @@ Yama’s troops swarm Puṣpaka like bees, smashing its pavilions and arches, ye
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Swiftly like swarming bees (śīghraṃ madhukarā iva), they shattered the seats, pavilions, raised altars, and arched gateways (āsanāni prāsādān vedikās toraṇāni ca) of that Puṣpaka chariot (tasya ... puṣpakasya babhañjuḥ).
+**25:** Swiftly like swarming bees (_śīghraṃ madhukarā iva_), they shattered the seats, pavilions, raised altars, and arched gateways (_āsanāni prāsādān vedikās toraṇāni ca_) of that Puṣpaka chariot (_tasya ... puṣpakasya babhañjuḥ_).
 
-**26:** Yet that aerial car Puṣpaka, fashioned as an abode of the gods (deva-niṣṭhāna-bhūtaṃ tad vimānaṃ puṣpakam), even while being smashed in battle (mṛdhe bhajyamānam), remained just as before—indestructible through Brahmā’s radiance (tathaivāsīd akṣayaṃ brahma-tejasā).
+**26:** Yet that aerial car Puṣpaka, fashioned as an abode of the gods (_deva-niṣṭhāna-bhūtaṃ tad vimānaṃ puṣpakam_), even while being smashed in battle (_mṛdhe bhajyamānam_), remained just as before—indestructible through Brahmā’s radiance (_tathaivāsīd akṣayaṃ brahma-tejasā_).
 </details>
 </details>
 
@@ -751,7 +751,7 @@ Yama’s troops swarm Puṣpaka like bees, smashing its pavilions and arches, ye
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Innumerable and exceedingly vast was the army of that high-souled lord (asaṅkhyā sumahaty āsīt tasya senā mahātmanaḥ), numbering hundreds and thousands of valiant vanguard heroes (śūrāṇām agrayātṛṇāṃ sahasrāṇi śatāni ca).
+Innumerable and exceedingly vast was the army of that high-souled lord (_asaṅkhyā sumahaty āsīt tasya senā mahātmanaḥ_), numbering hundreds and thousands of valiant vanguard heroes (_śūrāṇām agrayātṛṇāṃ sahasrāṇi śatāni ca_).
 </details>
 </details>
 
@@ -785,7 +785,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then with trees, mountain crags, and hundreds of shattered pavilions (vṛkṣaiś ca śailaiś ca prāsādānāṃ śatais tathā), those mighty-hearted counselors of his (te sacivās tasya ... mahāvīrāḥ) and King Daśānana himself (sa ca rājā daśānanaḥ) fought according to their desire and strength (yathākāmaṃ yathābalam ayudhyanta).
+Then with trees, mountain crags, and hundreds of shattered pavilions (_vṛkṣaiś ca śailaiś ca prāsādānāṃ śatais tathā_), those mighty-hearted counselors of his (_te sacivās tasya ... mahāvīrāḥ_) and King Daśānana himself (_sa ca rājā daśānanaḥ_) fought according to their desire and strength (_yathākāmaṃ yathābalam ayudhyanta_).
 </details>
 </details>
 
@@ -818,9 +818,9 @@ Then with trees, mountain crags, and hundreds of shattered pavilions (vṛkṣai
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** Smeared in blood and struck by every kind of weapon (śoṇita-digdhāṅgāḥ sarva-śastra-samāhatāḥ), those ministers of the rākṣasa lord (amātyā rākṣasendrasya) waged a tremendous battle (cakrur āyodhanaṃ mahat).
+**29:** Smeared in blood and struck by every kind of weapon (_śoṇita-digdhāṅgāḥ sarva-śastra-samāhatāḥ_), those ministers of the rākṣasa lord (_amātyā rākṣasendrasya_) waged a tremendous battle (_cakrur āyodhanaṃ mahat_).
 
-**30:** O mighty-armed one (mahābāho), those eminent warriors—the ministers of Yama and of Rāvaṇa alike (yamasya ca ... rāvaṇasya ca mantriṇaḥ)—struck one another fiercely with their weapons (anyonyaṃ ... jaghnuḥ praharaṇair bhṛśam).
+**30:** O mighty-armed one (_mahābāho_), those eminent warriors—the ministers of Yama and of Rāvaṇa alike (_yamasya ca ... rāvaṇasya ca mantriṇaḥ_)—struck one another fiercely with their weapons (_anyonyaṃ ... jaghnuḥ praharaṇair bhṛśam_).
 </details>
 </details>
 
@@ -862,7 +862,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, leaving those ministers aside (amātyāṃs tāṃs tu santyajya), Yama’s mighty warriors (yamayodhā mahābalāḥ) rushed straight upon Daśānana alone (tam eva cābhyadhāvanta ... daśānanam) with showers of tridents (śūla-varṣaiḥ).
+Then, leaving those ministers aside (_amātyāṃs tāṃs tu santyajya_), Yama’s mighty warriors (_yamayodhā mahābalāḥ_) rushed straight upon Daśānana alone (_tam eva cābhyadhāvanta ... daśānanam_) with showers of tridents (_śūla-varṣaiḥ_).
 </details>
 </details>
 
@@ -893,7 +893,7 @@ Then, leaving those ministers aside (amātyāṃs tāṃs tu santyajya), Yama’
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drenched in blood and battered to shreds by their blows (śoṇita-digdhāṅgaḥ prahārair jarjarīkṛtaḥ), the lord of rākṣasas shone upon Puṣpaka (ābhāti puṣpake rākṣasādhipaḥ) like an aśoka tree in full crimson bloom (phullāśoka iva).
+Drenched in blood and battered to shreds by their blows (_śoṇita-digdhāṅgaḥ prahārair jarjarīkṛtaḥ_), the lord of rākṣasas shone upon Puṣpaka (_ābhāti puṣpake rākṣasādhipaḥ_) like an _aśoka_ tree in full crimson bloom (_phullāśoka iva_).
 </details>
 </details>
 
@@ -927,7 +927,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that mighty hero, by the potency of his celestial missile (astra-balād balī), loosed tridents, maces, nooses, javelins, darts, arrows, pestles, boulders, and trees (śūla-gadā-pāsāñ śakti-tomara-sāyakān musalāni śilā-vṛkṣān mumoca).
+Then that mighty hero, by the potency of his celestial missile (_astra-balād balī_), loosed tridents, maces, nooses, javelins, darts, arrows, pestles, boulders, and trees (_śūla-gadā-pāsāñ śakti-tomara-sāyakān musalāni śilā-vṛkṣān mumoca_).
 </details>
 </details>
 
@@ -958,7 +958,7 @@ Then that mighty hero, by the potency of his celestial missile (astra-balād bal
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That exceedingly dreadful shower of trees, boulders, and weapons (tarūṇāṃ ca śilānāṃ ca śastrāṇāṃ cātidāruṇam ... tad varṣam) fell upon Yama’s armies stationed upon the surface of the earth (yamasainyeṣu ... papāta dharaṇītale).
+That exceedingly dreadful shower of trees, boulders, and weapons (_tarūṇāṃ ca śilānāṃ ca śastrāṇāṃ cātidāruṇam ... tad varṣam_) fell upon Yama’s armies stationed upon the surface of the earth (_yamasainyeṣu ... papāta dharaṇītale_).
 </details>
 </details>
 
@@ -992,7 +992,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet shattering all those missiles (tāṃs tu sarvān vinirbhidya) and repelling that celestial weapon (tad astram apahatya ca), they struck that dread rākṣasa—one alone against hundreds of thousands (jaghnuḥ ... rākṣasaṃ ghoram ekaṃ śata-sahasraśaḥ).
+Yet shattering all those missiles (_tāṃs tu sarvān vinirbhidya_) and repelling that celestial weapon (_tad astram apahatya ca_), they struck that dread rākṣasa—one alone against hundreds of thousands (_jaghnuḥ ... rākṣasaṃ ghoram ekaṃ śata-sahasraśaḥ_).
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounding him on every side like massed storm-clouds encircling a mountain (parivārya ca taṃ sarve śailaṃ meghotkarā iva), they pounded him breathless (nirucchvāsam apothayan) with slings and tridents (bhindipālaiś ca śūlaiś ca).
+Surrounding him on every side like massed storm-clouds encircling a mountain (_parivārya ca taṃ sarve śailaṃ meghotkarā iva_), they pounded him breathless (_nirucchvāsam apothayan_) with slings and tridents (_bhindipālaiś ca śūlaiś ca_).
 </details>
 </details>
 
@@ -1065,7 +1065,7 @@ Surrounding him on every side like massed storm-clouds encircling a mountain (pa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stripped of his armor, enraged, and drenched in streams of blood (vimukta-kavacaḥ kruddhaḥ siktaḥ śoṇita-visravaiḥ), he then abandoned Puṣpaka (puṣpakaṃ tyaktvā) and took his stand upon the earth (pṛthivyām avatiṣṭhata).
+Stripped of his armor, enraged, and drenched in streams of blood (_vimukta-kavacaḥ kruddhaḥ siktaḥ śoṇita-visravaiḥ_), he then abandoned Puṣpaka (_puṣpakaṃ tyaktvā_) and took his stand upon the earth (_pṛthivyām avatiṣṭhata_).
 </details>
 </details>
 
@@ -1099,7 +1099,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, armed with bow and arrows (kārmukī bāṇī), he rallied furiously into the fray (samare cābhivartata); regaining his senses within a moment (labdha-sañjño muhūrtena), he stood enraged like Death the Destroyer (kruddhas tasthau yathāntakaḥ).
+Then, armed with bow and arrows (_kārmukī bāṇī_), he rallied furiously into the fray (_samare cābhivartata_); regaining his senses within a moment (_labdha-sañjño muhūrtena_), he stood enraged like Death the Destroyer (_kruddhas tasthau yathāntakaḥ_).
 </details>
 </details>
 
@@ -1130,7 +1130,7 @@ Then, armed with bow and arrows (kārmukī bāṇī), he rallied furiously into 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, fitting the divine Pāśupata missile to his bow (pāśupataṃ divyam astraṃ sandhāya kārmuke), he shouted at them, “Stand! Stand!” (tiṣṭha tiṣṭheti tān uktvā) and drew that bow taut (tac cāpaṃ vicakarṣa saḥ).
+Then, fitting the divine _Pāśupata_ missile to his bow (_pāśupataṃ divyam astraṃ sandhāya kārmuke_), he shouted at them, “Stand! Stand!” (_tiṣṭha tiṣṭheti tān uktvā_) and drew that bow taut (_tac cāpaṃ vicakarṣa saḥ_).
 </details>
 </details>
 
@@ -1164,7 +1164,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing his bow back to his ear in battle (ākarṇāt sa vikṛṣyātha cāpam ... āhave), that foe of Indra (indrāriḥ) loosed that shaft in fury (mumoca taṃ śaraṃ kruddhaḥ), even as Śaṅkara did against Tripura (tripure śaṅkaro yathā).
+Drawing his bow back to his ear in battle (_ākarṇāt sa vikṛṣyātha cāpam ... āhave_), that foe of Indra (_indrāriḥ_) loosed that shaft in fury (_mumoca taṃ śaraṃ kruddhaḥ_), even as Śaṅkara did against Tripura (_tripure śaṅkaro yathā_).
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ Blazing like a summer wildfire, the Pāśupata shaft races forth trailed by fles
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The aspect of that arrow (tasya rūpaṃ śarasya) was a ring of smokeless flame (vidhūma-jvāla-maṇḍalam), like a raging wildfire in the summer heat (gharme dāvāgner iva mūrcchataḥ) about to consume a forest (vanaṃ dahiṣyataḥ).
+The aspect of that arrow (_tasya rūpaṃ śarasya_) was a ring of smokeless flame (_vidhūma-jvāla-maṇḍalam_), like a raging wildfire in the summer heat (_gharme dāvāgner iva mūrcchataḥ_) about to consume a forest (_vanaṃ dahiṣyataḥ_).
 </details>
 </details>
 
@@ -1237,7 +1237,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wreathed in garlands of flame (jvālāmālī sa tu śaraḥ) and followed by flesh-eating creatures in battle (kravyādānugato raṇe), that released shaft rushed forward (muktaḥ ... pradhāvati), turning thickets and trees to ashes (gulmān drumāṃś cāpi bhasma kṛtvā).
+Wreathed in garlands of flame (_jvālāmālī sa tu śaraḥ_) and followed by flesh-eating creatures in battle (_kravyādānugato raṇe_), that released shaft rushed forward (_muktaḥ ... pradhāvati_), turning thickets and trees to ashes (_gulmān drumāṃś cāpi bhasma kṛtvā_).
 </details>
 </details>
 
@@ -1268,7 +1268,7 @@ Wreathed in garlands of flame (jvālāmālī sa tu śaraḥ) and followed by fle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consumed by the fiery energy of that missile (te tasya tejasā dagdhāḥ), the armies of Vaivasvata (sainyā vaivasvatasya tu) fell upon that battlefield (raṇe tasmin nipatitāḥ) like trees charred by a forest fire (dāva-dagdhā nagā iva).
+Consumed by the fiery energy of that missile (_te tasya tejasā dagdhāḥ_), the armies of Vaivasvata (_sainyā vaivasvatasya tu_) fell upon that battlefield (_raṇe tasmin nipatitāḥ_) like trees charred by a forest fire (_dāva-dagdhā nagā iva_).
 </details>
 </details>
 
@@ -1299,7 +1299,7 @@ Consumed by the fiery energy of that missile (te tasya tejasā dagdhāḥ), the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that rākṣasa of dreadful prowess (rākṣaso bhīma-vikramaḥ), together with his ministers (sacivaiḥ sārdham), roared a mighty thunderous roar (nanāda sumahānādam), as though making the earth tremble (kampayann iva medinīm).
+Thereupon that rākṣasa of dreadful prowess (_rākṣaso bhīma-vikramaḥ_), together with his ministers (_sacivaiḥ sārdham_), roared a mighty thunderous roar (_nanāda sumahānādam_), as though making the earth tremble (_kampayann iva medinīm_).
 </details>
 </details>
 

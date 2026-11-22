@@ -82,7 +82,7 @@ whose bodies had thus been torn asunder by Ravana with his arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāvaṇa heard the piteous sound of lamentation (karuṇaṃ śabdaṃ paridevitam) of the afflicted rākṣasīs in household after household (kule kule) throughout Laṅkā.
+Then Rāvaṇa heard the piteous sound of lamentation (_karuṇaṃ śabdaṃ paridevitam_) of the afflicted rākṣasīs in household after household (_kule kule_) throughout Laṅkā.
 </details>
 </details>
 
@@ -134,7 +134,7 @@ any more than moths would bear a blazing fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sighing deeply and long (dīrghaṃ viniḥśvasya) and remaining absorbed in thought for a moment (muhūrtaṃ dhyānam āsthitaḥ), Rāvaṇa of dreadful aspect became supremely enraged (parama-kruddhaḥ).
+Sighing deeply and long (_dīrghaṃ viniḥśvasya_) and remaining absorbed in thought for a moment (_muhūrtaṃ dhyānam āsthitaḥ_), Rāvaṇa of dreadful aspect became supremely enraged (_parama-kruddhaḥ_).
 </details>
 </details>
 
@@ -189,7 +189,7 @@ when enveloped in flames of fire and getting scorched by them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Biting his lip with his teeth (saṃdaśya daśanair oṣṭham), his eyes bloodshot with wrath (krodha-saṃrakta-locanaḥ), he became unendurable to behold even for rākṣasas (rākṣasair api durdarśaḥ), like the fire of universal dissolution incarnate (kālāgnir iva mūrtimān).
+Biting his lip with his teeth (_saṃdaśya daśanair oṣṭham_), his eyes bloodshot with wrath (_krodha-saṃrakta-locanaḥ_), he became unendurable to behold even for rākṣasas (_rākṣasair api durdarśaḥ_), like the fire of universal dissolution incarnate (_kālāgnir iva mūrtimān_).
 </details>
 </details>
 
@@ -241,7 +241,7 @@ monkeys, like the wind blows away large clouds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His speech choked with rage (krodhāvyakta-kathaḥ), consuming them as it were with his gaze (nirdahann iva cakṣuṣā), the lord of rākṣasas spoke there to the rākṣasas standing near (samīpa-sthān):
+His speech choked with rage (_krodhāvyakta-kathaḥ_), consuming them as it were with his gaze (_nirdahann iva cakṣuṣā_), the lord of rākṣasas spoke there to the rākṣasas standing near (_samīpa-sthān_):
 </details>
 </details>
 
@@ -293,7 +293,7 @@ Ravana quickly approached Rama on the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Speak quickly to Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa: ‘Let the armies march forth (sainyāni niryāta) at my command (mamājñayā)!’”
+“Speak quickly to Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa: ‘Let the armies march forth (_sainyāni niryāta_) at my command (_mamājñayā_)!’”
 </details>
 </details>
 
@@ -346,7 +346,7 @@ charge of his army and quickly threw his mind into the fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that command of his, those rākṣasas, tormented by fear (bhayārditāḥ), urged on (codayāmāsuḥ) those unhesitating rākṣasas at the king's command (nṛpājñayā).
+Hearing that command of his, those rākṣasas, tormented by fear (_bhayārditāḥ_), urged on (_codayāmāsuḥ_) those unhesitating rākṣasas at the king&#x27;s command (_nṛpājñayā_).
 </details>
 </details>
 
@@ -406,7 +406,7 @@ with the tree as a weapon, marched forward towards the enemy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it!” (tathety uktvā), all those rākṣasas of dreadful aspect, having performed auspicious rites (kṛta-svastyayanāḥ), went forth facing the battle (raṇābhimukhā yayuḥ).
+Saying “So be it!” (_tathety uktvā_), all those rākṣasas of dreadful aspect, having performed auspicious rites (_kṛta-svastyayanāḥ_), went forth facing the battle (_raṇābhimukhā yayuḥ_).
 </details>
 </details>
 
@@ -458,7 +458,7 @@ Sugreeva at his side and behind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having duly paid homage (pratipūjya yathā-nyāyam) to Rāvaṇa, all those great chariot-warriors (mahā-rathāḥ) stood with joined palms (prāñjalayaḥ), eager for their lord's victory (bhartur vijaya-kāṅkṣiṇaḥ).
+Having duly paid homage (_pratipūjya yathā-nyāyam_) to Rāvaṇa, all those great chariot-warriors (_mahā-rathāḥ_) stood with joined palms (_prāñjalayaḥ_), eager for their lord&#x27;s victory (_bhartur vijaya-kāṅkṣiṇaḥ_).
 </details>
 </details>
 
@@ -523,9 +523,9 @@ by the wind at the time of dissolution of the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Then Rāvaṇa, convulsed with wrath (krodha-mūrcchitaḥ), laughed aloud (prahasya) and spoke to those [three]—Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa:
+**9:** Then Rāvaṇa, convulsed with wrath (_krodha-mūrcchitaḥ_), laughed aloud (_prahasya_) and spoke to those [three]—Mahodara, Mahāpārśva, and the rākṣasa Virūpākṣa:
 
-**10:** “Today, with arrows loosed from my bow (bāṇair dhanur-muktaiḥ) resembling the sun at the end of an aeon (yugāntāditya-saṃnibhaiḥ), I shall dispatch Rāghava and Lakṣmaṇa to the abode of Yama (yama-sādanam)!
+**10:** “Today, with arrows loosed from my bow (_bāṇair dhanur-muktaiḥ_) resembling the sun at the end of an aeon (_yugāntāditya-saṃnibhaiḥ_), I shall dispatch Rāghava and Lakṣmaṇa to the abode of Yama (_yama-sādanam_)!
 </details>
 </details>
 
@@ -577,7 +577,7 @@ hail-stones on a host of birds in a forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, by slaying the foe (śatru-vadhāt), I shall exact vengeance (kariṣyāmi pratīkāram) for Khara, Kumbhakarṇa, Prahasta, and Indrajit as well!
+Today, by slaying the foe (_śatru-vadhāt_), I shall exact vengeance (_kariṣyāmi pratīkāram_) for Khara, Kumbhakarṇa, Prahasta, and Indrajit as well!
 </details>
 </details>
 
@@ -608,7 +608,7 @@ Today, by slaying the foe (śatru-vadhāt), I shall exact vengeance (kariṣyām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither the mid-space, nor the quarters, nor the sky, nor the oceans (nāpi sāgarāḥ) shall attain visibility (prakāśatvaṃ gamiṣyanti), enveloped by the clouds of my arrows (mad-bāṇa-jaladāvṛtāḥ)!”
+Neither the mid-space, nor the quarters, nor the sky, nor the oceans (_nāpi sāgarāḥ_) shall attain visibility (_prakāśatvaṃ gamiṣyanti_), enveloped by the clouds of my arrows (_mad-bāṇa-jaladāvṛtāḥ_)!”
 </details>
 </details>
 
@@ -672,9 +672,9 @@ elephant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** “Today, with my winged (patattriṇā) net of arrows (śara-jālena) and my bow, I shall slaughter those troops of the monkey chiefs division by division (bhāgaśaḥ)!
+**13:** “Today, with my winged (_patattriṇā_) net of arrows (_śara-jālena_) and my bow, I shall slaughter those troops of the monkey chiefs division by division (_bhāgaśaḥ_)!
 
-**14:** Today, from my chariot swift as the wind (pavanaujasā), I shall churn (mathiṣyāmi) the monkey armies with billows of arrows (śarormibhiḥ) surging from the ocean of my bow (dhanuḥ-samudrād udbhūtaiḥ)!
+**14:** Today, from my chariot swift as the wind (_pavanaujasā_), I shall churn (_mathiṣyāmi_) the monkey armies with billows of arrows (_śarormibhiḥ_) surging from the ocean of my bow (_dhanuḥ-samudrād udbhūtaiḥ_)!
 </details>
 </details>
 
@@ -729,7 +729,7 @@ rushed towards the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today, like an elephant (gajavat), I shall trample (pramathāmy aham) the troop-ponds (yūtha-taṭākāni) of [the monkeys] whose lustre is that of lotus filaments (padma-kesara-varcasām) and whose faces are full-blown lotuses (vyākośa-padma-vaktrāṇi)!
+Today, like an elephant (_gajavat_), I shall trample (_pramathāmy aham_) the troop-ponds (_yūtha-taṭākāni_) of [the monkeys] whose lustre is that of lotus filaments (_padma-kesara-varcasām_) and whose faces are full-blown lotuses (_vyākośa-padma-vaktrāṇi_)!
 </details>
 </details>
 
@@ -782,7 +782,7 @@ army. He strengthened his support to the worried demons, by cheering them up.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today in battle, the monkey troop-leaders (vānara-yūthapāḥ) shall adorn the earth (maṇḍayiṣyanti vasudhām) with their arrow-transfixed faces (saśarair vadanaiḥ), as if with lotuses upon their stalks (sanālair iva paṅkajaiḥ)!
+Today in battle, the monkey troop-leaders (_vānara-yūthapāḥ_) shall adorn the earth (_maṇḍayiṣyanti vasudhām_) with their arrow-transfixed faces (_saśarair vadanaiḥ_), as if with lotuses upon their stalks (_sanālair iva paṅkajaiḥ_)!
 </details>
 </details>
 
@@ -834,7 +834,7 @@ demon, shouted loudly. With profuse anger, he set his mind on killing him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And today in battle, with a single loosed arrow (muktenaikeṣuṇā), I shall pierce (bhetsyāmi) a hundred at a time (śataṃ śatam) of the tree-fighting (druma-yodhinām) monkeys, fierce in their troops (yūtha-pracaṇḍānām)!
+And today in battle, with a single loosed arrow (_muktenaikeṣuṇā_), I shall pierce (_bhetsyāmi_) a hundred at a time (_śataṃ śatam_) of the tree-fighting (_druma-yodhinām_) monkeys, fierce in their troops (_yūtha-pracaṇḍānām_)!
 </details>
 </details>
 
@@ -886,7 +886,7 @@ thorough fighter, struck it on its face.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those whose brother has been slain, and those whose son has been slain—today, by the slaying of the foe (vadhenādya ripoḥ), I shall wipe away their tears (karomy aśru-pramārjanam)!”
+Those whose brother has been slain, and those whose son has been slain—today, by the slaying of the foe (_vadhenādya ripoḥ_), I shall wipe away their tears (_karomy aśru-pramārjanam_)!”
 </details>
 </details>
 
@@ -940,7 +940,7 @@ yards, sank down and roared too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today in battle, with monkeys cloven by my arrows (mad-bāṇa-nirbhinnaiḥ), strewn flat (prastīrṇaiḥ), and bereft of consciousness (gata-cetanaiḥ), I shall make the earth such that its surface can scarcely be glimpsed (yatnāvekṣya-talāṃ mahīm)!
+“Today in battle, with monkeys cloven by my arrows (_mad-bāṇa-nirbhinnaiḥ_), strewn flat (_prastīrṇaiḥ_), and bereft of consciousness (_gata-cetanaiḥ_), I shall make the earth such that its surface can scarcely be glimpsed (_yatnāvekṣya-talāṃ mahīm_)!
 </details>
 </details>
 
@@ -1003,9 +1003,9 @@ Sugreeva his enemy, approached him, who stood firm, threatening him as it were.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** Today, crows (kākāḥ) and vultures (gṛdhrāḥ) and whatever other flesh-eaters (māṃsāśinaḥ) there be—I shall satiate (tarpayiṣyāmi) them all with the flesh of foes struck down by my arrows (śatru-māṃsaiḥ śarāhataiḥ)!
+**20:** Today, crows (_kākāḥ_) and vultures (_gṛdhrāḥ_) and whatever other flesh-eaters (_māṃsāśinaḥ_) there be—I shall satiate (_tarpayiṣyāmi_) them all with the flesh of foes struck down by my arrows (_śatru-māṃsaiḥ śarāhataiḥ_)!
 
-**21:** Let my chariot be made ready (kalpyatām) quickly! Let my bow be brought (ānīyatām) swiftly! Let whatever night-roamers remain here (ye 'tra śiṣṭā niśācarāḥ) follow after me (anuprayāntu mām) in battle!”
+**21:** Let my chariot be made ready (_kalpyatām_) quickly! Let my bow be brought (_ānīyatām_) swiftly! Let whatever night-roamers remain here (_ye &#x27;tra śiṣṭā niśācarāḥ_) follow after me (_anuprayāntu mām_) in battle!”
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ threw it on Virupaksha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, Mahāpārśva spoke this word to the troop-marshals (balādhyakṣān) standing there: “Let the army be hastened (balaṃ saṃtvaryatām)!”
+Hearing that speech of his, Mahāpārśva spoke this word to the troop-marshals (_balādhyakṣān_) standing there: “Let the army be hastened (_balaṃ saṃtvaryatām_)!”
 </details>
 </details>
 
@@ -1103,7 +1103,7 @@ away, struck him with a sword.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the troop-marshals, intent on their charge (saṃyuktāḥ) and swift in valor (laghu-parākramāḥ), went round Laṅkā (pariyayur laṅkām), urging on those rākṣasas in house after house (gṛhe gṛhe).
+Then the troop-marshals, intent on their charge (_saṃyuktāḥ_) and swift in valor (_laghu-parākramāḥ_), went round Laṅkā (_pariyayur laṅkām_), urging on those rākṣasas in house after house (_gṛhe gṛhe_).
 </details>
 </details>
 
@@ -1155,7 +1155,7 @@ unconscious on the ground, for a moment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then within a moment (tato muhūrtāt), rākṣasas of dreadful aspect rushed forth (niṣpetuḥ), roaring (nadantaḥ), dreadful-faced, their arms bearing manifold weapons (nānā-praharaṇair bhujaiḥ).
+Then within a moment (_tato muhūrtāt_), rākṣasas of dreadful aspect rushed forth (_niṣpetuḥ_), roaring (_nadantaḥ_), dreadful-faced, their arms bearing manifold weapons (_nānā-praharaṇair bhujaiḥ_).
 </details>
 </details>
 
@@ -1209,7 +1209,7 @@ brought it down on the demon's chest violently.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[Bearing] swords (asibhiḥ), spears (paṭṭiśaiḥ), pikes (śūlaiḥ), maces (gadābhiḥ), clubs (musalaiḥ), ploughshares (halaiḥ), javelins with keen edges (śaktibhis tīkṣṇa-dhārābhiḥ), and huge concealed mallets (kūṭa-mudgaraiḥ),
+[Bearing] swords (_asibhiḥ_), spears (_paṭṭiśaiḥ_), pikes (_śūlaiḥ_), maces (_gadābhiḥ_), clubs (_musalaiḥ_), ploughshares (_halaiḥ_), javelins with keen edges (_śaktibhis tīkṣṇa-dhārābhiḥ_), and huge concealed mallets (_kūṭa-mudgaraiḥ_),
 </details>
 </details>
 
@@ -1260,7 +1260,7 @@ down from his feet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-staves (yaṣṭibhiḥ), manifold discuses (vividhaiś cakraiḥ), sharpened battle-axes (niśitaiś ca paraśvadhaiḥ), slings (bhindipālaiḥ), śataghnīs, and other excellent weapons (varāyudhaiḥ) as well—
+staves (_yaṣṭibhiḥ_), manifold discuses (_vividhaiś cakraiḥ_), sharpened battle-axes (_niśitaiś ca paraśvadhaiḥ_), slings (_bhindipālaiḥ_), _śataghnīs_, and other excellent weapons (_varāyudhaiḥ_) as well—
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ similar to a thunder.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-then, at Rāvaṇa's command (rāvaṇājñayā), the four troop-marshals (balādhyakṣāś catvāraḥ) brought forth a full myriad of chariots (rathānāṃ niyutaṃ sāgram) and three myriads of elephants (nāgānāṃ niyuta-trayam),
+then, at Rāvaṇa&#x27;s command (_rāvaṇājñayā_), the four troop-marshals (_balādhyakṣāś catvāraḥ_) brought forth a full myriad of chariots (_rathānāṃ niyutaṃ sāgram_) and three myriads of elephants (_nāgānāṃ niyuta-trayam_),
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and sixty crores of steeds (aśvānāṃ ṣaṣṭi-koṭyaḥ), and likewise of asses and camels (kharoṣṭrāṇām), while uncounted foot-soldiers (padātayas tv asaṃkhyātāḥ) marched forth at the king's decree (rāja-śāsanāt).
+and sixty crores of steeds (_aśvānāṃ ṣaṣṭi-koṭyaḥ_), and likewise of asses and camels (_kharoṣṭrāṇām_), while uncounted foot-soldiers (_padātayas tv asaṃkhyātāḥ_) marched forth at the king&#x27;s decree (_rāja-śāsanāt_).
 </details>
 </details>
 
@@ -1429,9 +1429,9 @@ brought down another violent slap on his temple-bone.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** And when the troop-marshals had drawn up (saṃsthāpya) the king's army standing in the van (puraḥ-sthitām), in the meantime (etasminn antare) the charioteer (sūtaḥ) stationed that chariot—
+**29:** And when the troop-marshals had drawn up (_saṃsthāpya_) the king&#x27;s army standing in the van (_puraḥ-sthitām_), in the meantime (_etasminn antare_) the charioteer (_sūtaḥ_) stationed that chariot—
 
-**30:** endowed with the choicest divine missiles (divyāstra-vara-sampannam), adorned with manifold ornaments (nānālaṃkāra-bhūṣitam), crowded with various weapons, and furnished with a net of little bells (kiṅkiṇī-jāla-saṃyutam).
+**30:** endowed with the choicest divine missiles (_divyāstra-vara-sampannam_), adorned with manifold ornaments (_nānālaṃkāra-bhūṣitam_), crowded with various weapons, and furnished with a net of little bells (_kiṅkiṇī-jāla-saṃyutam_).
 </details>
 </details>
 
@@ -1509,9 +1509,9 @@ anus.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**31:** —inlaid all around with manifold gems (nānā-ratna-parikṣiptam), resplendent with jewelled pillars (ratna-stambhair virājitam), and surrounded by a thousand jars wrought of Jāmbūnada gold (jāmbūnadamayaiś caiva sahasra-kalaśair vṛtam).
+**31:** —inlaid all around with manifold gems (_nānā-ratna-parikṣiptam_), resplendent with jewelled pillars (_ratna-stambhair virājitam_), and surrounded by a thousand jars wrought of Jāmbūnada gold (_jāmbūnadamayaiś caiva sahasra-kalaśair vṛtam_).
 
-**32:** Beholding that [chariot], all the rākṣasas went to supreme wonder (vismayaṃ paramaṃ gatāḥ); and beholding it, Rāvaṇa, the lord of rākṣasas, sprang up suddenly (sahasotthāya)—
+**32:** Beholding that [chariot], all the rākṣasas went to supreme wonder (_vismayaṃ paramaṃ gatāḥ_); and beholding it, Rāvaṇa, the lord of rākṣasas, sprang up suddenly (_sahasotthāya_)—
 </details>
 </details>
 
@@ -1594,9 +1594,9 @@ on his sides and roaring piteously.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** and swiftly mounted (āruroha) that dreadful chariot, which resembled a crore of suns (koṭi-sūrya-pratīkāśam) and blazed like a fire (jvalantam iva pāvakam), furnished with its charioteer, yoked with eight steeds (yuktāṣṭa-turagam), and shining with its own splendour (dīpyamānaṃ sva-tejasā).
+**33:** and swiftly mounted (_āruroha_) that dreadful chariot, which resembled a crore of suns (_koṭi-sūrya-pratīkāśam_) and blazed like a fire (_jvalantam iva pāvakam_), furnished with its charioteer, yoked with eight steeds (_yuktāṣṭa-turagam_), and shining with its own splendour (_dīpyamānaṃ sva-tejasā_).
 
-**34:** Then Rāvaṇa set forth suddenly (tataḥ prayātaḥ sahasā), surrounded by many rākṣasas, cleaving the earth as it were (dārayann iva medinīm) through the depth of his might (sattva-gāmbhīryāt).
+**34:** Then Rāvaṇa set forth suddenly (_tataḥ prayātaḥ sahasā_), surrounded by many rākṣasas, cleaving the earth as it were (_dārayann iva medinīm_) through the depth of his might (_sattva-gāmbhīryāt_).
 </details>
 </details>
 
@@ -1656,7 +1656,7 @@ had burst their bounds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And then there arose a mighty uproar of musical instruments (mahā-nādas tūryāṇām) on every side (tatas tataḥ), with mṛdaṅga drums, kettledrums (paṭahaiḥ), conchs (śaṅkhaiḥ), and the war-cries (kalahaiḥ) of the rākṣasas.
+And then there arose a mighty uproar of musical instruments (_mahā-nādas tūryāṇām_) on every side (_tatas tataḥ_), with _mṛdaṅga_ drums, kettledrums (_paṭahaiḥ_), conchs (_śaṅkhaiḥ_), and the war-cries (_kalahaiḥ_) of the rākṣasas.
 </details>
 </details>
 
@@ -1726,7 +1726,7 @@ together looked like the agitated river of Ganga.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The king of the rākṣasas has come (āgato rakṣasāṃ rājā), attended by umbrella and chowries (chatra-cāmara-saṃyutaḥ), the abductor of Sītā, of evil conduct, slayer of Brāhmaṇas (brahma-ghnaḥ), and thorn to the gods (deva-kaṇṭakaḥ), to fight with the best of the Raghus!”—such was the tumultuous cry (kalaha-dhvaniḥ) that was heard.
+“The king of the rākṣasas has come (_āgato rakṣasāṃ rājā_), attended by umbrella and chowries (_chatra-cāmara-saṃyutaḥ_), the abductor of Sītā, of evil conduct, slayer of Brāhmaṇas (_brahma-ghnaḥ_), and thorn to the gods (_deva-kaṇṭakaḥ_), to fight with the best of the Raghus!”—such was the tumultuous cry (_kalaha-dhvaniḥ_) that was heard.
 </details>
 </details>
 

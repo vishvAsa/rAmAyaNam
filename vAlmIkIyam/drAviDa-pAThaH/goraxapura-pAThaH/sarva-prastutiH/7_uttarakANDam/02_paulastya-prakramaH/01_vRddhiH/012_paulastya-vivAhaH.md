@@ -48,7 +48,7 @@ Consecrated in Laṅkā, Rāvaṇa marries Śūrpaṇakhā to the Kālakeya Vidy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consecrated as king (abhiṣiktas tu) along with his two brothers (bhrātṛbhyāṃ sahitas tadā), the lord of rākṣasas (rākṣasendraḥ) next pondered the marriage (pradānaṃ ... samacintayat) of his rākṣasa sister (rākṣasyā bhaginyāḥ).
+Consecrated as king (_abhiṣiktas tu_) along with his two brothers (_bhrātṛbhyāṃ sahitas tadā_), the lord of rākṣasas (_rākṣasendraḥ_) next pondered the marriage (_pradānaṃ ... samacintayat_) of his rākṣasa sister (_rākṣasyā bhaginyāḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Consecrated as king (abhiṣiktas tu) along with his two brothers (bhrātṛbhy�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He gave his rākṣasa sister (svasāraṃ ... rākṣasīm), Śūrpaṇakhā by name (śūrpaṇakhāṃ nāma), to the Kālakeya lord of Dānavas (kālakeyāya dānavendrāya) known by the name Vidyujjihva (vidyujjihvāya nāmataḥ).
+He gave his rākṣasa sister (_svasāraṃ ... rākṣasīm_), Śūrpaṇakhā by name (_śūrpaṇakhāṃ nāma_), to the Kālakeya lord of Dānavas (_kālakeyāya dānavendrāya_) known by the name Vidyujjihva (_vidyujjihvāya nāmataḥ_).
 </details>
 </details>
 
@@ -122,9 +122,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Then, having himself bestowed her (dattvā svayam), that rākṣasa wandered about hunting (mṛgayām aṭate sma tat); and there, O Rāma, he beheld a son of Diti named Maya (mayaṃ nāma diteḥ sutam).
+**3:** Then, having himself bestowed her (_dattvā svayam_), that rākṣasa wandered about hunting (_mṛgayām aṭate sma tat_); and there, O Rāma, he beheld a son of Diti named Maya (_mayaṃ nāma diteḥ sutam_).
 
-**4:** Seeing him accompanied by a maiden (kanyā-sahāyaṃ taṃ dṛṣṭvā), the night-roamer Daśagrīva (daśagrīvo niśācaraḥ) asked: “Who are you, standing alone (ko bhavān ekaḥ) in this forest empty of men and beasts (nirmanuṣya-mṛge vane)? And for what purpose do you abide here with this fawn-eyed girl (anayā mṛgaśāvākṣyā kimarthaṃ saha tiṣṭhasi)?”
+**4:** Seeing him accompanied by a maiden (_kanyā-sahāyaṃ taṃ dṛṣṭvā_), the night-roamer Daśagrīva (_daśagrīvo niśācaraḥ_) asked: “Who are you, standing alone (_ko bhavān ekaḥ_) in this forest empty of men and beasts (_nirmanuṣya-mṛge vane_)? And for what purpose do you abide here with this fawn-eyed girl (_anayā mṛgaśāvākṣyā kimarthaṃ saha tiṣṭhasi_)?”
 </details>
 </details>
 
@@ -155,7 +155,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Maya thereupon spoke thus, O Rāma (mayas tathābravīd rāma), to that questioning night-roamer: “Listen (śrūyatām), I shall recount in full (sarvam ākhyāsye) all that has happened to me exactly as it befell (yathāvṛttam idaṃ mama).
+Maya thereupon spoke thus, O Rāma (_mayas tathābravīd rāma_), to that questioning night-roamer: “Listen (_śrūyatām_), I shall recount in full (_sarvam ākhyāsye_) all that has happened to me exactly as it befell (_yathāvṛttam idaṃ mama_).
 </details>
 </details>
 
@@ -212,13 +212,13 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “There is an apsaras named Hemā, O dear one (hemā nāmāpsarās tāta), if perchance you have heard of her before (śrutapūrvā yadi tvayā); she was bestowed upon me by the gods (daivatair mama sā dattā), even as Paulomī was given to Indra of a hundred sacrifices (paulomīva śatakratoḥ).
+**6:** “There is an apsaras named Hemā, O dear one (_hemā nāmāpsarās tāta_), if perchance you have heard of her before (_śrutapūrvā yadi tvayā_); she was bestowed upon me by the gods (_daivatair mama sā dattā_), even as Paulomī was given to Indra of a hundred sacrifices (_paulomīva śatakratoḥ_).
 
-**7:** “Devoted to her with all my heart, O dear one (tasyāṃ saktamanās tāta), I passed five hundred years (pañca-varṣa-śatāny aham); then she departed on an errand of the gods (sā ca daivata-kāryeṇa), and thirteen years have elapsed since (trayodaśa samā gatāḥ)—
+**7:** “Devoted to her with all my heart, O dear one (_tasyāṃ saktamanās tāta_), I passed five hundred years (_pañca-varṣa-śatāny aham_); then she departed on an errand of the gods (_sā ca daivata-kāryeṇa_), and thirteen years have elapsed since (_trayodaśa samā gatāḥ_)—
 
-**8:** “And now the fourteenth year has passed as well (varṣaṃ caturdaśaṃ caiva). Thereafter a city wrought of gold (hemamayaṃ puram), adorned with diamonds and cat’s-eye gems (vajra-vaiḍūrya-citram), was fashioned by me through my wondrous skill (māyayā nirmitaṃ mayā); there I dwelt wretched (tatrāham avasaṃ dīnaḥ), bereft of her and deeply grieved (tayā hīnaḥ suduḥkhitaḥ).
+**8:** “And now the fourteenth year has passed as well (_varṣaṃ caturdaśaṃ caiva_). Thereafter a city wrought of gold (_hemamayaṃ puram_), adorned with diamonds and cat’s-eye gems (_vajra-vaiḍūrya-citram_), was fashioned by me through my wondrous skill (_māyayā nirmitaṃ mayā_); there I dwelt wretched (_tatrāham avasaṃ dīnaḥ_), bereft of her and deeply grieved (_tayā hīnaḥ suduḥkhitaḥ_).
 
-**9:** “Taking my daughter from that city (tasmāt purād duhitaraṃ gṛhītvā), I have come into this forest (vanam āgataḥ). This is my own daughter, O King (iyaṃ mamātmajā rājan), nurtured within her womb (tasyāḥ kukṣau vivardhitā).
+**9:** “Taking my daughter from that city (_tasmāt purād duhitaraṃ gṛhītvā_), I have come into this forest (_vanam āgataḥ_). This is my own daughter, O King (_iyaṃ mamātmajā rājan_), nurtured within her womb (_tasyāḥ kukṣau vivardhitā_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Together with her I have come hither to search for a husband for her (bhartāram ... asyāḥ prāpto ’smi mārgitum); for fatherhood of a daughter is truly a sorrow (kanyā-pitṛtvaṃ duḥkhaṃ hi) for all who cherish honor (sarveṣāṃ māna-kāṅkṣiṇām).
+“Together with her I have come hither to search for a husband for her (_bhartāram ... asyāḥ prāpto ’smi mārgitum_); for fatherhood of a daughter is truly a sorrow (_kanyā-pitṛtvaṃ duḥkhaṃ hi_) for all who cherish honor (_sarveṣāṃ māna-kāṅkṣiṇām_).
 </details>
 </details>
 
@@ -285,7 +285,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For a maiden ever keeps two families suspended in uncertainty (kanyā hi dve kule nityaṃ saṃśaye sthāpya tiṣṭhati). Two sons as well (putra-dvayam) were born to me from this very wife (mamāpy asyāṃ bhāryāyāṃ sambabhūva ha):
+“For a maiden ever keeps two families suspended in uncertainty (_kanyā hi dve kule nityaṃ saṃśaye sthāpya tiṣṭhati_). Two sons as well (_putra-dvayam_) were born to me from this very wife (_mamāpy asyāṃ bhāryāyāṃ sambabhūva ha_):
 </details>
 </details>
 
@@ -316,7 +316,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Māyāvī was the first, O dear one (māyāvī prathamas tāta), and Dundubhi was born next after him (dundubhis tadanantaraḥ). Thus has everything been recounted truthfully (yāthātathyena) to you who asked (pṛcchataḥ).
+“Māyāvī was the first, O dear one (_māyāvī prathamas tāta_), and Dundubhi was born next after him (_dundubhis tadanantaraḥ_). Thus has everything been recounted truthfully (_yāthātathyena_) to you who asked (_pṛcchataḥ_).
 </details>
 </details>
 
@@ -358,7 +358,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now how, O dear one, may I know you (tvām idānīṃ kathaṃ tāta jānīyām)—who are you (ko bhavān iti)?” Addressed thus, that rākṣasa spoke these courteous words (vinītam idam abravīt):
+“Now how, O dear one, may I know you (_tvām idānīṃ kathaṃ tāta jānīyām_)—who are you (_ko bhavān iti_)?” Addressed thus, that rākṣasa spoke these courteous words (_vinītam idam abravīt_):
 </details>
 </details>
 
@@ -391,9 +391,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “I am the son of Paulastya (ahaṃ paulastya-tanayaḥ), Daśagrīva by name (daśagrīvaś ca nāmataḥ)—son of the sage Viśravas (muner viśravasaḥ), who was the third in descent from Brahmā (yas tu tṛtīyo brahmaṇo ’bhavat).”
+**14:** “I am the son of Paulastya (_ahaṃ paulastya-tanayaḥ_), Daśagrīva by name (_daśagrīvaś ca nāmataḥ_)—son of the sage Viśravas (_muner viśravasaḥ_), who was the third in descent from Brahmā (_yas tu tṛtīyo brahmaṇo ’bhavat_).”
 
-**15:** Addressed thus by the lord of rākṣasas, O Rāma (evam uktas tadā rāma rākṣasendreṇa), that Dānava Maya, recognizing him as the son of a great sage (maharṣes tanayaṃ jñātvā), was filled with delight (harṣam upāgataḥ), and right then was well pleased to bestow his daughter upon him (dātuṃ duhitaraṃ tasmai rocayām āsa).
+**15:** Addressed thus by the lord of rākṣasas, O Rāma (_evam uktas tadā rāma rākṣasendreṇa_), that Dānava Maya, recognizing him as the son of a great sage (_maharṣes tanayaṃ jñātvā_), was filled with delight (_harṣam upāgataḥ_), and right then was well pleased to bestow his daughter upon him (_dātuṃ duhitaraṃ tasmai rocayām āsa_).
 </details>
 </details>
 
@@ -426,7 +426,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Maya, foremost of Daityas (daityendraḥ), placing her hand into his hand (kareṇa tu karaṃ tasyā grāhayitvā), smiled cheerfully (prahasan) and addressed these words to the lord of rākṣasas:
+Thereupon Maya, foremost of Daityas (_daityendraḥ_), placing her hand into his hand (_kareṇa tu karaṃ tasyā grāhayitvā_), smiled cheerfully (_prahasan_) and addressed these words to the lord of rākṣasas:
 </details>
 </details>
 
@@ -457,7 +457,7 @@ Thereupon Maya, foremost of Daityas (daityendraḥ), placing her hand into his h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is my own daughter, O King (iyaṃ mamātmajā rājan), borne by the apsaras Hemā (hemayā ’psarasā dhṛtā); accept this maiden named Mandodarī (kanyā mandodarī nāma) as your wife (patnyarthaṃ pratigṛhyatām)!”
+“This is my own daughter, O King (_iyaṃ mamātmajā rājan_), borne by the apsaras Hemā (_hemayā ’psarasā dhṛtā_); accept this maiden named Mandodarī (_kanyā mandodarī nāma_) as your wife (_patnyarthaṃ pratigṛhyatām_)!”
 </details>
 </details>
 
@@ -488,7 +488,7 @@ Thereupon Maya, foremost of Daityas (daityendraḥ), placing her hand into his h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it!” (bāḍham ity eva), O Rāma, Daśagrīva replied to him (daśagrīvo ’bhyabhāṣata); and kindling the sacred fire right there (prajvālya tatra caivāgnim), he duly performed the wedding rite of taking her hand (akarot pāṇi-saṅgraham).
+“So be it!” (_bāḍham ity eva_), O Rāma, Daśagrīva replied to him (_daśagrīvo ’bhyabhāṣata_); and kindling the sacred fire right there (_prajvālya tatra caivāgnim_), he duly performed the wedding rite of taking her hand (_akarot pāṇi-saṅgraham_).
 </details>
 </details>
 
@@ -527,7 +527,7 @@ Mindful of Viśravas’s prophecy yet honoring his Brahmā lineage, Maya also gi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For Maya, O Rāma, was indeed aware (sa hi ... mayo rāma ... abhijñaḥ) of the curse pronounced by that ascetic [Viśravas] (śāpābhijñas tapodhanāt); yet knowing his grandfather’s illustrious lineage (viditvā ... tasya paitāmahaṃ kulam), he bestowed her upon him (tena sā dattā).
+For Maya, O Rāma, was indeed aware (_sa hi ... mayo rāma ... abhijñaḥ_) of the curse pronounced by that ascetic [Viśravas] (_śāpābhijñas tapodhanāt_); yet knowing his grandfather’s illustrious lineage (_viditvā ... tasya paitāmahaṃ kulam_), he bestowed her upon him (_tena sā dattā_).
 </details>
 </details>
 
@@ -558,7 +558,7 @@ For Maya, O Rāma, was indeed aware (sa hi ... mayo rāma ... abhijñaḥ) of th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He also bestowed upon him (tasya ... pradadau) an unfailing, exceedingly wondrous spear (amoghāṃ ... śaktiṃ ... paramādbhutām), won through supreme austerity (pareṇa tapasā labdhām)—the very weapon with which Rāvaṇa struck down Lakṣmaṇa (jaghnivāṃl lakṣmaṇaṃ yayā).
+He also bestowed upon him (_tasya ... pradadau_) an unfailing, exceedingly wondrous spear (_amoghāṃ ... śaktiṃ ... paramādbhutām_), won through supreme austerity (_pareṇa tapasā labdhām_)—the very weapon with which Rāvaṇa struck down Lakṣmaṇa (_jaghnivāṃl lakṣmaṇaṃ yayā_).
 </details>
 </details>
 
@@ -592,7 +592,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus taken a wife (evaṃ sa kṛtadāro vai), that mighty sovereign of Laṅkā (laṅkāyā īśvaraḥ prabhuḥ) returned to his city (gatvā tu nagarīm) and procured brides for his two brothers (bhārye bhrātṛbhyāṃ samupāharat).
+Having thus taken a wife (_evaṃ sa kṛtadāro vai_), that mighty sovereign of Laṅkā (_laṅkāyā īśvaraḥ prabhuḥ_) returned to his city (_gatvā tu nagarīm_) and procured brides for his two brothers (_bhārye bhrātṛbhyāṃ samupāharat_).
 </details>
 </details>
 
@@ -623,7 +623,7 @@ Having thus taken a wife (evaṃ sa kṛtadāro vai), that mighty sovereign of L
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The granddaughter of Vairocana [Bali] (vairocanasya dauhitrīm), known by the name Vajrajvālā (vajrajvāleti nāmataḥ)—her did Rāvaṇa appoint as wife for Kumbhakarṇa (tāṃ bhāryāṃ kumbhakarṇasya rāvaṇaḥ samakalpayat).
+The granddaughter of Vairocana [Bali] (_vairocanasya dauhitrīm_), known by the name Vajrajvālā (_vajrajvāleti nāmataḥ_)—her did Rāvaṇa appoint as wife for Kumbhakarṇa (_tāṃ bhāryāṃ kumbhakarṇasya rāvaṇaḥ samakalpayat_).
 </details>
 </details>
 
@@ -654,7 +654,7 @@ The granddaughter of Vairocana [Bali] (vairocanasya dauhitrīm), known by the na
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Vibhīṣaṇa obtained as his wife (lebhe bhāryāṃ vibhīṣaṇaḥ) the righteous-minded maiden named Saramā (saramāṃ nāma dharmajñām), daughter of the high-souled Gandharva king Śailūṣa (gandharva-rājasya sutāṃ śailūṣasya mahātmanaḥ).
+And Vibhīṣaṇa obtained as his wife (_lebhe bhāryāṃ vibhīṣaṇaḥ_) the righteous-minded maiden named Saramā (_saramāṃ nāma dharmajñām_), daughter of the high-souled Gandharva king Śailūṣa (_gandharva-rājasya sutāṃ śailūṣasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ And Vibhīṣaṇa obtained as his wife (lebhe bhāryāṃ vibhīṣaṇaḥ) th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-She was born, indeed, upon the shore of Lake Mānasa (tīre tu saraso vai ... sañjajñe mānasasya hi); and just then Lake Mānasa swelled high (saras tadā mānasaṃ tu vavṛdhe) at the arrival of the rain-clouds (jaladāgame).
+She was born, indeed, upon the shore of Lake Mānasa (_tīre tu saraso vai ... sañjajñe mānasasya hi_); and just then Lake Mānasa swelled high (_saras tadā mānasaṃ tu vavṛdhe_) at the arrival of the rain-clouds (_jaladāgame_).
 </details>
 </details>
 
@@ -728,9 +728,9 @@ Completing the etymology of Saramā’s name, Agastya relates how Mandodarī bor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** Out of maternal tenderness (snehena), that infant girl’s mother cried out these distressed words (ākranditaṃ vacaḥ): “O lake, do not swell!” (saro mā vardhayasveti)—and from that utterance she became known as Saramā (tataḥ sā saramā ’bhavat).
+**25:** Out of maternal tenderness (_snehena_), that infant girl’s mother cried out these distressed words (_ākranditaṃ vacaḥ_): “O lake, do not swell!” (_saro mā vardhayasveti_)—and from that utterance she became known as Saramā (_tataḥ sā saramā ’bhavat_).
 
-**26:** Thus wedded (evaṃ te kṛtadārā vai), those rākṣasas sported joyfully there (remire tatra rākṣasāḥ), each delighting with his own wife (svāṃ svāṃ bhāryām upāgamya), like Gandharvas in Indra’s Nandana grove (gandharvā iva nandane).
+**26:** Thus wedded (_evaṃ te kṛtadārā vai_), those rākṣasas sported joyfully there (_remire tatra rākṣasāḥ_), each delighting with his own wife (_svāṃ svāṃ bhāryām upāgamya_), like Gandharvas in Indra’s Nandana grove (_gandharvā iva nandane_).
 </details>
 </details>
 
@@ -764,7 +764,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter Mandodarī brought forth a son, Meghanāda (putraṃ meghanādam ajījanat)—this very one is he who is spoken of by you all under the name Indrajit (sa eṣa indrajin-nāma yuṣmābhir abhidhīyate)!
+Thereafter Mandodarī brought forth a son, Meghanāda (_putraṃ meghanādam ajījanat_)—this very one is he who is spoken of by you all under the name Indrajit (_sa eṣa indrajin-nāma yuṣmābhir abhidhīyate_)!
 </details>
 </details>
 
@@ -795,7 +795,7 @@ Thereafter Mandodarī brought forth a son, Meghanāda (putraṃ meghanādam ajī
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For in former days, the moment he was born (jātamātreṇa hi purā), that weeping son of Rāvaṇa (rudatā ... rāvaṇa-sūnunā) let forth a mighty cry resembling a thundercloud (sumahān mukto nādo jaladharopamaḥ).
+For in former days, the moment he was born (_jātamātreṇa hi purā_), that weeping son of Rāvaṇa (_rudatā ... rāvaṇa-sūnunā_) let forth a mighty cry resembling a thundercloud (_sumahān mukto nādo jaladharopamaḥ_).
 </details>
 </details>
 
@@ -826,7 +826,7 @@ For in former days, the moment he was born (jātamātreṇa hi purā), that weep
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all Laṅkā was stunned into numbness by that roar of his, O Rāghava (jaḍīkṛtā ca sā laṅkā tasya nādena rāghava); thereupon his father himself gave him the name Meghanāda (pitā tasyākaron nāma meghanāda iti svayam).
+And all Laṅkā was stunned into numbness by that roar of his, O Rāghava (_jaḍīkṛtā ca sā laṅkā tasya nādena rāghava_); thereupon his father himself gave him the name Meghanāda (_pitā tasyākaron nāma meghanāda iti svayam_).
 </details>
 </details>
 
@@ -857,7 +857,7 @@ And all Laṅkā was stunned into numbness by that roar of his, O Rāghava (ja�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He grew up there, O Rāma (so ’vardhata tadā rāma), within Rāvaṇa’s auspicious inner palace (rāvaṇāntaḥpure śubhe), watched over by noble women (rakṣyamāṇo varastrībhiḥ), like a fire concealed beneath firewood (channaḥ kāṣṭhair ivānalaḥ), bringing boundless joy to his mother and father (mātāpitror mahāharṣaṃ janayan rāvaṇātmajaḥ).
+He grew up there, O Rāma (_so ’vardhata tadā rāma_), within Rāvaṇa’s auspicious inner palace (_rāvaṇāntaḥpure śubhe_), watched over by noble women (_rakṣyamāṇo varastrībhiḥ_), like a fire concealed beneath firewood (_channaḥ kāṣṭhair ivānalaḥ_), bringing boundless joy to his mother and father (_mātāpitror mahāharṣaṃ janayan rāvaṇātmajaḥ_).
 </details>
 </details>
 

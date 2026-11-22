@@ -65,7 +65,7 @@ along with Seetha to see their father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having given away abundant wealth (dhanaṃ bahu) to the Brāhmaṇas together with Vaidehī, the two Rāghavas went forth with Sītā to see their father (pitaraṃ draṣṭum).
+Having given away abundant wealth (_dhanaṃ bahu_) to the Brāhmaṇas together with Vaidehī, the two Rāghavas went forth with Sītā to see their father (_pitaraṃ draṣṭum_).
 </details>
 </details>
 
@@ -121,7 +121,7 @@ weapons thus decorated were shining brilliantly and were fearful to look at.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then their two weapons (tad-āyudhe), carried by two attendants (preṣyābhyām), shone brightly—decked with garlands of flowers (mālā-dāmabhir āsakte) and adorned by Sītā herself (sītayā samalaṃkṛte).
+Then their two weapons (_tad-āyudhe_), carried by two attendants (_preṣyābhyām_), shone brightly—decked with garlands of flowers (_mālā-dāmabhir āsakte_) and adorned by Sītā herself (_sītayā samalaṃkṛte_).
 </details>
 </details>
 
@@ -173,7 +173,7 @@ palaces of seven stories high and saw them spiritlessly,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting the palaces and mansions (prāsāda-harmyāṇi) and the summits of seven-storied edifices (vimāna-śikharāṇi), the prosperous populace looked on in listless dejection (udāsīno vyalokayat).
+Mounting the palaces and mansions (_prāsāda-harmyāṇi_) and the summits of seven-storied edifices (_vimāna-śikharāṇi_), the prosperous populace looked on in listless dejection (_udāsīno vyalokayat_).
 </details>
 </details>
 
@@ -227,7 +227,7 @@ buildings.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the streets, thronged with multitudes of people (bahu-janākulāḥ), could not easily be traversed (na hi... suśakyante gantum); therefore, ascending the palaces, the distressed citizens gazed upon Rāghava.
+For the streets, thronged with multitudes of people (_bahu-janākulāḥ_), could not easily be traversed (_na hi... suśakyante gantum_); therefore, ascending the palaces, the distressed citizens gazed upon Rāghava.
 </details>
 </details>
 
@@ -283,7 +283,7 @@ hearts struck by grief were uttering words of many sorts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing him going on foot (padātim) together with his younger brother and Sītā, the people then, their minds stricken with grief (śokopahata-cetasaḥ), uttered manifold lamentations.
+Seeing him going on foot (_padātim_) together with his younger brother and Sītā, the people then, their minds stricken with grief (_śokopahata-cetasaḥ_), uttered manifold lamentations.
 </details>
 </details>
 
@@ -337,7 +337,7 @@ Lakshmana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He whom a mighty fourfold army (caturaṅga-balaṃ mahat) used to follow whenever he went forth—him alone, accompanied by Sītā, Lakṣmaṇa now follows!”
+“He whom a mighty fourfold army (_caturaṅga-balaṃ mahat_) used to follow whenever he went forth—him alone, accompanied by Sītā, Lakṣmaṇa now follows!”
 </details>
 </details>
 
@@ -398,7 +398,7 @@ because of his respect for virtue, he is careful not to believe his father's wor
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though he knows the taste of sovereignty (aiśvaryasya rasajñaḥ san) and is a mighty mine of all desired objects (kāmānāṃ cākaro mahān), out of reverence for dharma (dharma-gauravāt) he does not wish to render his father’s word false (anṛtam).
+“Though he knows the taste of sovereignty (_aiśvaryasya rasajñaḥ san_) and is a mighty mine of all desired objects (_kāmānāṃ cākaro mahān_), out of reverence for dharma (_dharma-gauravāt_) he does not wish to render his father’s word false (_anṛtam_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ even by beings going through the air.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She who formerly could not be beheld even by beings coursing through the sky (bhūtair ākāśa-gair api)—that very Sītā today the people standing along the royal highway behold!
+“She who formerly could not be beheld even by beings coursing through the sky (_bhūtair ākāśa-gair api_)—that very Sītā today the people standing along the royal highway behold!
 </details>
 </details>
 
@@ -506,7 +506,7 @@ suitable cosmetics and red sandal to the body.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sītā, accustomed to fragrant unguents (aṅga-rāgocitām) and habituated to red sandal-paste (rakta-candana-sevinīm)—rain, heat, and cold will swiftly reduce her to pallor (neṣyaty āśu vivarṇatām)!
+“Sītā, accustomed to fragrant unguents (_aṅga-rāgocitām_) and habituated to red sandal-paste (_rakta-candana-sevinīm_)—rain, heat, and cold will swiftly reduce her to pallor (_neṣyaty āśu vivarṇatām_)!
 </details>
 </details>
 
@@ -556,7 +556,7 @@ to exile; *priyam* = his affectionate; *putram* = son.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely today Daśaratha speaks under the possession of some evil spirit (sattvam āviśya bhāṣate); for a king in his right mind could never banish his beloved son (priyaṃ putraṃ vivāsayitum arhati).
+“Surely today Daśaratha speaks under the possession of some evil spirit (_sattvam āviśya bhāṣate_); for a king in his right mind could never banish his beloved son (_priyaṃ putraṃ vivāsayitum arhati_).
 </details>
 </details>
 
@@ -609,7 +609,7 @@ of whom, this world is conquered merely by his mode of conduct?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How could there be the banishment even of a son devoid of virtues (nirguṇasyāpi putrasya)—how much less of him by whose pure conduct alone (vṛttena kevalam) this whole world has been won over?
+“How could there be the banishment even of a son devoid of virtues (_nirguṇasyāpi putrasya_)—how much less of him by whose pure conduct alone (_vṛttena kevalam_) this whole world has been won over?
 </details>
 </details>
 
@@ -662,7 +662,7 @@ these six virtues adorn Rama, the best of men.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Absence of cruelty (ānṛśaṃsyam), compassion (anukrośaḥ), sacred learning (śrutam), noble character (śīlam), self-restraint (damaḥ), and mental tranquillity (śamaḥ)—these six virtues (ṣaḍ guṇāḥ) adorn Rāghava, the bull among men!”
+“Absence of cruelty (_ānṛśaṃsyam_), compassion (_anukrośaḥ_), sacred learning (_śrutam_), noble character (_śīlam_), self-restraint (_damaḥ_), and mental tranquillity (_śamaḥ_)—these six virtues (_ṣaḍ guṇāḥ_) adorn Rāghava, the bull among men!”
 </details>
 </details>
 
@@ -722,7 +722,7 @@ beings in summer are afflicted because of depletion of water.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, by the affliction (upaghātena) of that prince, the subjects are supremely tormented (parama-pīḍitāḥ), like aquatic creatures in summer through the drying up of the waters (grīṣme salila-saṃkṣayāt).
+“Therefore, by the affliction (_upaghātena_) of that prince, the subjects are supremely tormented (_parama-pīḍitāḥ_), like aquatic creatures in summer through the drying up of the waters (_grīṣme salila-saṃkṣayāt_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ world, as a tree which acquired flowers and fruits is damaged by injury caused t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through the suffering of this lord of the world (asya jagat-pateḥ), the entire world is afflicted, just as a tree bearing flowers and fruits (vṛkṣaḥ puṣpa-phalopagaḥ) withers when its root is struck (mūlasyeva upaghātena).
+“Through the suffering of this lord of the world (_asya jagat-pateḥ_), the entire world is afflicted, just as a tree bearing flowers and fruits (_vṛkṣaḥ puṣpa-phalopagaḥ_) withers when its root is struck (_mūlasyeva upaghātena_).
 </details>
 </details>
 
@@ -825,7 +825,7 @@ tree of humanity. Other men are his flowers, fruits and branches.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For this prince of mighty splendour, whose very essence is dharma (dharma-sāraḥ), is the root of all mankind (mūlaṃ hy eṣa manuṣyāṇām); and all other men are his flowers, fruits, leaves, and branches!
+“For this prince of mighty splendour, whose very essence is dharma (_dharma-sāraḥ_), is the root of all mankind (_mūlaṃ hy eṣa manuṣyāṇām_); and all other men are his flowers, fruits, leaves, and branches!
 </details>
 </details>
 
@@ -877,7 +877,7 @@ as Lakshmana is going with the departing Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, like Lakṣmaṇa, let us swiftly, with our wives and kinsfolk (sapatnyaḥ saha-bāndhavāḥ), follow behind him as he goes along whichever path Rāghava takes!
+“Therefore, like Lakṣmaṇa, let us swiftly, with our wives and kinsfolk (_sapatnyaḥ saha-bāndhavāḥ_), follow behind him as he goes along whichever path Rāghava takes!
 </details>
 </details>
 
@@ -929,7 +929,7 @@ share his joys and sorrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abandoning our pleasure-groves (udyānāni), fields, and homes, sharing the same sorrow and joy (eka-duḥkha-sukhāḥ), let us follow the righteous Rāma!
+“Abandoning our pleasure-groves (_udyānāni_), fields, and homes, sharing the same sorrow and joy (_eka-duḥkha-sukhāḥ_), let us follow the righteous Rāma!
 </details>
 </details>
 
@@ -1022,13 +1022,13 @@ times and scattered with broken vessels.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “With their buried treasures dug up (samuddhṛta-nidhānāni), their courtyards ruined and unswept (paridhvastājirāṇi), their wealth and grain carried off (upātta-dhana-dhānyāni), and robbed of all their choicest furnishings (hṛta-sārāṇi sarvaśaḥ)—
+**18:** “With their buried treasures dug up (_samuddhṛta-nidhānāni_), their courtyards ruined and unswept (_paridhvastājirāṇi_), their wealth and grain carried off (_upātta-dhana-dhānyāni_), and robbed of all their choicest furnishings (_hṛta-sārāṇi sarvaśaḥ_)—
 
-**19:** “Covered over with dust (rajasābhyavakīrṇāni), forsaken by their household deities (parityaktāni daivataiḥ), and overrun by mice scampering forth from their holes (mūṣakaiḥ paridhāvadbhir udbilair āvṛtāni ca)—
+**19:** “Covered over with dust (_rajasābhyavakīrṇāni_), forsaken by their household deities (_parityaktāni daivataiḥ_), and overrun by mice scampering forth from their holes (_mūṣakaiḥ paridhāvadbhir udbilair āvṛtāni ca_)—
 
-**20:** “Bereft of water-sprinkling and sacrificial smoke (apetodaka-dhūmāni), devoid of sweeping and cleansing (hīna-sammārjanāni), and stripped of oblation-offerings, Vedic sacrifices, mantras, fire-oblations, and recitations (praṇaṣṭa-balikarmejyā-mantra-homa-japāni ca)—
+**20:** “Bereft of water-sprinkling and sacrificial smoke (_apetodaka-dhūmāni_), devoid of sweeping and cleansing (_hīna-sammārjanāni_), and stripped of oblation-offerings, Vedic sacrifices, mantras, fire-oblations, and recitations (_praṇaṣṭa-balikarmejyā-mantra-homa-japāni ca_)—
 
-**21:** “Shattered as if by a time of cosmic ruin (duṣkāleneva bhagnāni) and strewn with broken vessels (bhinna-bhājanavanti ca)—let Kaikeyī take possession of the mansions abandoned by us (asmat-tyaktāni kaikeyī veśmāni pratipadyatām)!
+**21:** “Shattered as if by a time of cosmic ruin (_duṣkāleneva bhagnāni_) and strewn with broken vessels (_bhinna-bhājanavanti ca_)—let Kaikeyī take possession of the mansions abandoned by us (_asmat-tyaktāni kaikeyī veśmāni pratipadyatām_)!
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ being deserted by us become a forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the forest to which Rāghava goes become the city (vanaṃ nagaram evāstu), and let this city forsaken by us turn into a wilderness (puraṃ sampadyatāṃ vanam)!
+“Let the forest to which Rāghava goes become the city (_vanaṃ nagaram evāstu_), and let this city forsaken by us turn into a wilderness (_puraṃ sampadyatāṃ vanam_)!
 </details>
 </details>
 
@@ -1137,7 +1137,7 @@ to be inhabited by us and reach the city of Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through fear of us (asmad-bhayād bhītāḥ), let all fanged serpents abandon their holes (bilāni daṃṣṭriṇaḥ sarve), beasts and birds their mountain plateaus (sānūni mṛga-pakṣiṇaḥ), and elephants and lions the forests as well!”
+“Through fear of us (_asmad-bhayād bhītāḥ_), let all fanged serpents abandon their holes (_bilāni daṃṣṭriṇaḥ sarve_), beasts and birds their mountain plateaus (_sānūni mṛga-pakṣiṇaḥ_), and elephants and lions the forests as well!”
 </details>
 </details>
 
@@ -1210,9 +1210,9 @@ live happily in the forest along with Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** “Let them occupy the city abandoned by us (asmat-tyaktaṃ prapadyantu) and forsake the forest now frequented by us (sevyamānaṃ tyajantu ca)—a region of creatures that feed on grass, flesh, and fruit, teeming with beasts of prey, deer, and birds (vyāla-mṛga-dvijam)!
+**24:** “Let them occupy the city abandoned by us (_asmat-tyaktaṃ prapadyantu_) and forsake the forest now frequented by us (_sevyamānaṃ tyajantu ca_)—a region of creatures that feed on grass, flesh, and fruit, teeming with beasts of prey, deer, and birds (_vyāla-mṛga-dvijam_)!
 
-**25:** “Indeed, let Kaikeyī along with her son and kinsfolk take possession of that realm; as for us, we shall all dwell happily in the forest with Rāghava (rāghaveṇa vayaṃ sarve vane vatsyāma nirvṛtāḥ)!”
+**25:** “Indeed, let Kaikeyī along with her son and kinsfolk take possession of that realm; as for us, we shall all dwell happily in the forest with Rāghava (_rāghaveṇa vayaṃ sarve vane vatsyāma nirvṛtāḥ_)!”
 </details>
 </details>
 
@@ -1287,9 +1287,9 @@ mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** Rāghava heard such manifold words uttered by various people; yet having heard them, his mind did not waver or suffer agitation (na vicakre 'sya mānasam).
+**26:** Rāghava heard such manifold words uttered by various people; yet having heard them, his mind did not waver or suffer agitation (_na vicakre &#x27;sya mānasam_).
 
-**27:** Then that righteous-souled prince, of the stride of a rutting elephant (matta-mātaṅga-vikramaḥ), once again approached the palace of his stepmother (veśma punar mātuḥ), which shone like a peak of Mount Kailāsa.
+**27:** Then that righteous-souled prince, of the stride of a rutting elephant (_matta-mātaṅga-vikramaḥ_), once again approached the palace of his stepmother (_veśma punar mātuḥ_), which shone like a peak of Mount Kailāsa.
 </details>
 </details>
 
@@ -1349,7 +1349,7 @@ saw Sumantra standing dejected not far from the palace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the royal abode (nṛpālayam), which was guarded by disciplined and heroic warriors (vinīta-vīra-puruṣam), he beheld the dejected Sumantra standing not far away (dadarśāvasthitaṃ dīnaṃ sumantram avidūrataḥ).
+Entering the royal abode (_nṛpālayam_), which was guarded by disciplined and heroic warriors (_vinīta-vīra-puruṣam_), he beheld the dejected Sumantra standing not far away (_dadarśāvasthitaṃ dīnaṃ sumantram avidūrataḥ_).
 </details>
 </details>
 
@@ -1409,7 +1409,7 @@ intending to fulfill his father's behest and went to see his father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his kinsfolk and citizens thus afflicted with grief (pratīkṣamāṇo 'bhijanaṃ tadārtam), yet himself wearing an untroubled countenance as though gently smiling (anārta-rūpaḥ prahasann ivātha), Rāma went forth desirous of seeing his father and eager to fulfill his father’s command in due form (pitur nideśaṃ vidhivac cikīrṣuḥ).
+Beholding his kinsfolk and citizens thus afflicted with grief (_pratīkṣamāṇo &#x27;bhijanaṃ tadārtam_), yet himself wearing an untroubled countenance as though gently smiling (_anārta-rūpaḥ prahasann ivātha_), Rāma went forth desirous of seeing his father and eager to fulfill his father’s command in due form (_pitur nideśaṃ vidhivac cikīrṣuḥ_).
 </details>
 </details>
 
@@ -1470,7 +1470,7 @@ presence announced to his father.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before that, the great-souled son of the Ikṣvākus, Rāma—about to approach the king who was stricken since the moment of that earlier summons (tat-pūrvam... nṛpam ārta-rūpam)—paused upon seeing Sumantra there, in order to have himself announced to his father (pituḥ... pratihāraṇārtham).
+Before that, the great-souled son of the Ikṣvākus, Rāma—about to approach the king who was stricken since the moment of that earlier summons (_tat-pūrvam... nṛpam ārta-rūpam_)—paused upon seeing Sumantra there, in order to have himself announced to his father (_pituḥ... pratihāraṇārtham_).
 </details>
 </details>
 
@@ -1542,7 +1542,7 @@ king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Firmly resolved in his intellect upon entering the forest at his father’s command (pitur nideśena... vana-praveśe kṛta-buddhi-niścayaḥ), that Rāghava, devoted to dharma, looked upon Sumantra and said: “Announce my arrival to the king (nivedayasvāgamanaṃ nṛpāya me)!”
+Firmly resolved in his intellect upon entering the forest at his father’s command (_pitur nideśena... vana-praveśe kṛta-buddhi-niścayaḥ_), that Rāghava, devoted to dharma, looked upon Sumantra and said: “Announce my arrival to the king (_nivedayasvāgamanaṃ nṛpāya me_)!”
 </details>
 </details>
 

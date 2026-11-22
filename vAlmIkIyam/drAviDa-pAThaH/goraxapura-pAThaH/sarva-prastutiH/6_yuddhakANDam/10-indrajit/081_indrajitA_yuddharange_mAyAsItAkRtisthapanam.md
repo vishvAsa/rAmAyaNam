@@ -69,7 +69,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Discerning the mind (manaḥ) of that high-souled Rāghava, he withdrew from that battle (āhavāt) and thereupon entered the city.
+Discerning the mind (_manaḥ_) of that high-souled Rāghava, he withdrew from that battle (_āhavāt_) and thereupon entered the city.
 </details>
 </details>
 
@@ -122,7 +122,7 @@ that valiant Indrajit sallied forth (for the fight) with red-hot eyes in anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recalling the slaughter of those impetuous Rākṣasas, that heroic son of Rāvaṇa (rāvaṇiḥ) then issued forth, his eyes bloodshot with fury (krodha-tāmrekṣaṇaḥ).
+Recalling the slaughter of those impetuous Rākṣasas, that heroic son of Rāvaṇa (_rāvaṇiḥ_) then issued forth, his eyes bloodshot with fury (_krodha-tāmrekṣaṇaḥ_).
 </details>
 </details>
 
@@ -174,7 +174,7 @@ Pulstya's dynasty, accompanied by an army of demons, came forth from the western
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by Rākṣasas, Indrajit—that Paulastya of supreme valor (su-mahā-vīryaḥ), the thorn in the side of the gods (deva-kaṇṭakaḥ)—sallied forth by the western gate.
+Surrounded by Rākṣasas, Indrajit—that Paulastya of supreme valor (_su-mahā-vīryaḥ_), the thorn in the side of the gods (_deva-kaṇṭakaḥ_)—sallied forth by the western gate.
 </details>
 </details>
 
@@ -223,7 +223,7 @@ encounter, Indrajit for his part, then started to demonstrate his conjuring tric
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the two heroic brothers Rāma and Lakṣmaṇa arrayed for battle (raṇāyābhyudyatau), Indrajit then brought forth his conjuring illusion (māyāṃ prāduṣkarot).
+Beholding the two heroic brothers Rāma and Lakṣmaṇa arrayed for battle (_raṇāyābhyudyatau_), Indrajit then brought forth his conjuring illusion (_māyāṃ prāduṣkarot_).
 </details>
 </details>
 
@@ -275,7 +275,7 @@ chariot, Indrajit intended to kill her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Placing an illusory Sītā (sītāṃ māyāmayīm) upon his chariot and encircling her with a vast force, Indrajit resolved upon her slaying.
+Placing an illusory Sītā (_sītāṃ māyāmayīm_) upon his chariot and encircling her with a vast force, Indrajit resolved upon her slaying.
 </details>
 </details>
 
@@ -322,7 +322,7 @@ monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Forming his design to bewilder (mohanārtham) them all, that utterly wicked-minded warrior (su-durmatiḥ), determined to slay Sītā, advanced facing the Vānaras.
+Forming his design to bewilder (_mohanārtham_) them all, that utterly wicked-minded warrior (_su-durmatiḥ_), determined to slay Sītā, advanced facing the Vānaras.
 </details>
 </details>
 
@@ -383,7 +383,7 @@ bounced towards him, with rocks in their hands and with an intent to fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him sallying forth (abhiniryāntam), all those forest-dwellers (kānanaukasaḥ) sprang up in surging wrath, rocks in hand, eager for combat (yuyutsavaḥ).
+Beholding him sallying forth (_abhiniryāntam_), all those forest-dwellers (_kānanaukasaḥ_) sprang up in surging wrath, rocks in hand, eager for combat (_yuyutsavaḥ_).
 </details>
 </details>
 
@@ -429,7 +429,7 @@ which was difficult to be reached by others, marched in front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seizing a massive, unassailable mountain peak (sumahac chṛṅgam), Hanūmān, that elephant among monkeys (kapi-kuñjaraḥ), strode at their head.
+Seizing a massive, unassailable mountain peak (_sumahac chṛṅgam_), Hanūmān, that elephant among monkeys (_kapi-kuñjaraḥ_), strode at their head.
 </details>
 </details>
 
@@ -460,7 +460,7 @@ Seizing a massive, unassailable mountain peak (sumahac chṛṅgam), Hanūmān, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon Indrajit's chariot he beheld Sītā robbed of all joy (hatānandām)—wearing a single braid (eka-veṇī-dharām), wretched, her countenance wasted by fasting (upavāsa-kṛśānanām).
+Upon Indrajit&#x27;s chariot he beheld Sītā robbed of all joy (_hatānandām_)—wearing a single braid (_eka-veṇī-dharām_), wretched, her countenance wasted by fasting (_upavāsa-kṛśānanām_).
 </details>
 </details>
 
@@ -512,7 +512,7 @@ in the chaiot of Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He saw] that best of women, the beloved of Rāghava, clad in a single soiled garment (parikliṣṭaika-vasanām), unadorned (amṛjām), with all her limbs begrimed with dust and dirt (rajo-malābhyām āliptaiḥ).
+[He saw] that best of women, the beloved of Rāghava, clad in a single soiled garment (_parikliṣṭaika-vasanām_), unadorned (_amṛjām_), with all her limbs begrimed with dust and dirt (_rajo-malābhyām āliptaiḥ_).
 </details>
 </details>
 
@@ -564,7 +564,7 @@ That Seetha was indeed seen by him, not long ago.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Scanning her for a moment (muhūrtam) and determining her to be Maithilī, [he was overcome with grief]; for that daughter of Janaka had been seen by him not long before (acira-dṛṣṭā).
+Scanning her for a moment (_muhūrtam_) and determining her to be Maithilī, [he was overcome with grief]; for that daughter of Janaka had been seen by him not long before (_acira-dṛṣṭā_).
 </details>
 </details>
 
@@ -595,7 +595,7 @@ Scanning her for a moment (muhūrtam) and determining her to be Maithilī, [he w
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that ascetic lady (tapasvinīm) afflicted with sorrow, joyless, wretched, seated upon the chariot and at the mercy of the Rākṣasa lord's son, he spoke [to his companions].
+Beholding that ascetic lady (_tapasvinīm_) afflicted with sorrow, joyless, wretched, seated upon the chariot and at the mercy of the Rākṣasa lord&#x27;s son, he spoke [to his companions].
 </details>
 </details>
 
@@ -653,7 +653,7 @@ thinking, he along with those leaders of mnkeys, rushed towards Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pondering, 'What is his design (kiṃ samarthitam asya)?', that great monkey, together with those foremost Vānaras, rushed upon Rāvaṇa's son.
+Pondering, &#x27;What is his design (_kiṃ samarthitam asya_)?&#x27;, that great monkey, together with those foremost Vānaras, rushed upon Rāvaṇa&#x27;s son.
 </details>
 </details>
 
@@ -724,7 +724,7 @@ entered the City.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that Vānara force, Rāvaṇa's son, convulsed with fury (krodha-mūrcchitaḥ), unsheathed his sword (kṛtvā vikośaṃ nistriṃśam) and dragged Sītā by the crown of her head (mūrdhni).
+Beholding that Vānara force, Rāvaṇa&#x27;s son, convulsed with fury (_krodha-mūrcchitaḥ_), unsheathed his sword (_kṛtvā vikośaṃ nistriṃśam_) and dragged Sītā by the crown of her head (_mūrdhni_).
 </details>
 </details>
 
@@ -780,7 +780,7 @@ the chariot by the dint of his conjuring trick and who was crying "Rama! Rama!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before their very eyes (paśyatāṃ teṣām), the Rākṣasa struck that woman—who had been set on the chariot by illusion (māyayā yojitām)—as she cried out, 'O Rāma! O Rāma!'
+Before their very eyes (_paśyatāṃ teṣām_), the Rākṣasa struck that woman—who had been set on the chariot by illusion (_māyayā yojitām_)—as she cried out, &#x27;O Rāma! O Rāma!&#x27;
 </details>
 </details>
 
@@ -826,7 +826,7 @@ affliction and shed tears, in agony from his eyes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her seized by the hair (gṛhīta-mūrdhajām), Hanūmān, the son of the Wind-god, sank into anguish (dainyam āgataḥ), shedding tears born of grief from his eyes.
+Beholding her seized by the hair (_gṛhīta-mūrdhajām_), Hanūmān, the son of the Wind-god, sank into anguish (_dainyam āgataḥ_), shedding tears born of grief from his eyes.
 </details>
 </details>
 
@@ -873,7 +873,7 @@ angrily addressed the foolowing harsh words to Indrajit:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that beloved queen of Rāma, fair in every limb (cāru-sarvāṅgīm), he spoke a harsh speech in wrath to the son of the Rākṣasa lord:
+Seeing that beloved queen of Rāma, fair in every limb (_cāru-sarvāṅgīm_), he spoke a harsh speech in wrath to the son of the Rākṣasa lord:
 </details>
 </details>
 
@@ -919,7 +919,7 @@ demoniacal race, you touched a lock of her hair, for your hair, for your own rui
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O evil-minded wretch (durātman), to your own destruction (ātma-nāśāya) have you laid hands upon her tresses (keśa-pakṣe parāmṛśaḥ)! Though born in the lineage of Brahmarṣis, you have resorted to a demonic womb (rākṣasīṃ yonim)!”
+“O evil-minded wretch (_durātman_), to your own destruction (_ātma-nāśāya_) have you laid hands upon her tresses (_keśa-pakṣe parāmṛśaḥ_)! Though born in the lineage of Brahmarṣis, you have resorted to a demonic womb (_rākṣasīṃ yonim_)!”
 </details>
 </details>
 
@@ -979,7 +979,7 @@ worthy of a barbarian. There is no pity in you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie upon you of sinful conduct (pāpa-samācāram), whose mind is such as this! O cruel, ignoble, ill-behaved, base wretch of wicked valor (pāpa-parākrama)! Such a deed belongs to the ignoble; you have no compassion (ghṛṇā), O pitiless one (nirghṛṇa)!
+“Fie upon you of sinful conduct (_pāpa-samācāram_), whose mind is such as this! O cruel, ignoble, ill-behaved, base wretch of wicked valor (_pāpa-parākrama_)! Such a deed belongs to the ignoble; you have no compassion (_ghṛṇā_), O pitiless one (_nirghṛṇa_)!
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ huband's (Rama's) protection. What wrong has Seetha done to you, that you are ki
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Torn from her home, from the kingdom, and from Rāma's protecting hand, what offense has this Maithilī committed (kim tavaiṣāparāddhā) against you, that you slay her without mercy?
+Torn from her home, from the kingdom, and from Rāma&#x27;s protecting hand, what offense has this Maithilī committed (_kim tavaiṣāparāddhā_) against you, that you slay her without mercy?
 </details>
 </details>
 
@@ -1084,7 +1084,7 @@ death! By your act, you indeed fell into my hands."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Sītā, you shall by no means live long (na ciraṃ jīviṣyasi); O you who deserve death (vadhārha), by that very deed you have fallen into my hands!
+Having slain Sītā, you shall by no means live long (_na ciraṃ jīviṣyasi_); O you who deserve death (_vadhārha_), by that very deed you have fallen into my hands!
 </details>
 </details>
 
@@ -1135,7 +1135,7 @@ by the people."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And those worlds ordained for the slayers of women (strī-ghātināṃ lokāḥ), reviled even by those whom the world condemns to death (loka-vadhyaiś ca kutsitāḥ)—yielding up your life here, you shall attain them hereafter (pretya)!”
+And those worlds ordained for the slayers of women (_strī-ghātināṃ lokāḥ_), reviled even by those whom the world condemns to death (_loka-vadhyaiś ca kutsitāḥ_)—yielding up your life here, you shall attain them hereafter (_pretya_)!”
 </details>
 </details>
 
@@ -1190,7 +1190,7 @@ much enraged, rushed headlong towards Indrajit.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, Hanūmān, surrounded by monkeys bearing weapons (sāyudhaiḥ), rushed forward in fierce wrath toward the son of the Rākṣasa lord.
+Speaking thus, Hanūmān, surrounded by monkeys bearing weapons (_sāyudhaiḥ_), rushed forward in fierce wrath toward the son of the Rākṣasa lord.
 </details>
 </details>
 
@@ -1242,7 +1242,7 @@ high prowess and advancing towards them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a host of Rākṣasas of dreadful fury (bhīma-kopānām), [Indrajit] checked that oncoming host of forest-dwellers of mighty valor.
+With a host of Rākṣasas of dreadful fury (_bhīma-kopānām_), [Indrajit] checked that oncoming host of forest-dwellers of mighty valor.
 </details>
 </details>
 
@@ -1299,7 +1299,7 @@ Hanuma, the foremost of mokeys as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Routing that monkey host (hari-vāhinīm) with a thousand arrows, Indrajit replied to Hanūmān, the foremost of monkeys:
+Routing that monkey host (_hari-vāhinīm_) with a thousand arrows, Indrajit replied to Hanūmān, the foremost of monkeys:
 </details>
 </details>
 
@@ -1364,9 +1364,9 @@ too, Sugreeva and that vulgar Vibhishana thereafter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** “She on whose account (yan-nimittam) Sugrīva, you, and Rāma have come here—that Vaidehī I shall slay this very day before your eyes (tava paśyataḥ)!
+**26:** “She on whose account (_yan-nimittam_) Sugrīva, you, and Rāma have come here—that Vaidehī I shall slay this very day before your eyes (_tava paśyataḥ_)!
 
-**27:** Having slain her, O Vānara, I shall thereafter slay Rāma, Lakṣmaṇa, you, Sugrīva, and that ignoble Vibhīṣaṇa (tam cānāryaṃ vibhīṣaṇam)!
+**27:** Having slain her, O Vānara, I shall thereafter slay Rāma, Lakṣmaṇa, you, Sugrīva, and that ignoble Vibhīṣaṇa (_tam cānāryaṃ vibhīṣaṇam_)!
 </details>
 </details>
 
@@ -1419,7 +1419,7 @@ correct. But that which causes tormentation to the enemies indeed needs to be do
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As for what you say, O leaper (plavaṃgama), that women must not be slain (na hantavyāḥ striyaś ceti)—whatever inflicts torment upon one's foes (pīḍā-karam amitrāṇām), that very thing must be done!”
+As for what you say, O leaper (_plavaṃgama_), that women must not be slain (_na hantavyāḥ striyaś ceti_)—whatever inflicts torment upon one&#x27;s foes (_pīḍā-karam amitrāṇām_), that very thing must be done!”
 </details>
 </details>
 
@@ -1474,7 +1474,7 @@ ahd been sobbing all the while, with his sharp-edged sword.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus to him, Indrajit himself with his sharp-edged sword (śita-dhāreṇa khaḍgena) struck down that weeping, illusory Sītā (sītāṃ māyāmayīm).
+Having spoken thus to him, Indrajit himself with his sharp-edged sword (_śita-dhāreṇa khaḍgena_) struck down that weeping, illusory Sītā (_sītāṃ māyāmayīm_).
 </details>
 </details>
 
@@ -1529,7 +1529,7 @@ the sight, fell down on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cloven by him along the path of the sacred thread (yajñopavīta-mārgeṇa), that ascetic lady of broad hips and lovely aspect fell upon the earth.
+Cloven by him along the path of the sacred thread (_yajñopavīta-mārgeṇa_), that ascetic lady of broad hips and lovely aspect fell upon the earth.
 </details>
 </details>
 
@@ -1566,7 +1566,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain that woman, Indrajit spoke to Hanūmān: “Behold this beloved of Rāma, cut down by my weapon (śastra-niṣūditām)! Vaidehī lies slaughtered here; fruitless is your toil (niṣphalo vaḥ pariśramaḥ)!”
+Having slain that woman, Indrajit spoke to Hanūmān: “Behold this beloved of Rāma, cut down by my weapon (_śastra-niṣūditām_)! Vaidehī lies slaughtered here; fruitless is your toil (_niṣphalo vaḥ pariśramaḥ_)!”
 </details>
 </details>
 
@@ -1615,7 +1615,7 @@ wife with my weapon. This Seetha is dead and all your labour is in vain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus slain her himself with his great sword, Indrajit, exultant (hṛṣṭaḥ), mounted his chariot and roared a mighty roar (nanāda ca mahā-svanam).
+Having thus slain her himself with his great sword, Indrajit, exultant (_hṛṣṭaḥ_), mounted his chariot and roared a mighty roar (_nanāda ca mahā-svanam_).
 </details>
 </details>
 
@@ -1668,7 +1668,7 @@ chariot, pleasurefully roared loudly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed not far off (adūre pratyavasthitāḥ), the Vānaras heard the roar of him who stood within that citadel (tad-durgaṃ saṃśritasya), bellowing with gaping jaws (vyāditāsyasya).
+Stationed not far off (_adūre pratyavasthitāḥ_), the Vānaras heard the roar of him who stood within that citadel (_tad-durgaṃ saṃśritasya_), bellowing with gaping jaws (_vyāditāsyasya_).
 </details>
 </details>
 
@@ -1731,7 +1731,7 @@ difficult of access for others.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus struck down Sītā, that evil-minded son of Rāvaṇa became thrilled at heart (prahṛṣṭa-cetāḥ); beholding him so jubilant in aspect, the Vānaras, crestfallen in aspect (viṣaṇṇa-rūpāḥ), fled away on all sides.
+Having thus struck down Sītā, that evil-minded son of Rāvaṇa became thrilled at heart (_prahṛṣṭa-cetāḥ_); beholding him so jubilant in aspect, the Vānaras, crestfallen in aspect (_viṣaṇṇa-rūpāḥ_), fled away on all sides.
 </details>
 </details>
 

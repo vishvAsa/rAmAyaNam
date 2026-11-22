@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, beholding those yakṣa lords terrified in their thousands (tāṃl lakṣya vitrastān yakṣendrāṃś ca sahasraśaḥ), the Lord of Wealth [Kubera] (dhanādhyakṣaḥ) addressed the mighty yakṣa Māṇicara [Maṇibhadra] (mahāyakṣaṃ māṇicāram):
+Then, beholding those yakṣa lords terrified in their thousands (_tāṃl lakṣya vitrastān yakṣendrāṃś ca sahasraśaḥ_), the Lord of Wealth [Kubera] (_dhanādhyakṣaḥ_) addressed the mighty yakṣa Māṇicara [Maṇibhadra] (_mahāyakṣaṃ māṇicāram_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Then, beholding those yakṣa lords terrified in their thousands (tāṃl lakṣ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slay the wicked, evil-minded Rāvaṇa (rāvaṇaṃ jahi ... durvṛttaṃ pāpa-cetasam), O lord of yakṣas! Become the refuge of the heroic, battle-skilled yakṣas (śaraṇaṃ bhava vīrāṇāṃ yakṣāṇāṃ yuddha-śālinām)!”
+“Slay the wicked, evil-minded Rāvaṇa (_rāvaṇaṃ jahi ... durvṛttaṃ pāpa-cetasam_), O lord of yakṣas! Become the refuge of the heroic, battle-skilled yakṣas (_śaraṇaṃ bhava vīrāṇāṃ yakṣāṇāṃ yuddha-śālinām_)!”
 </details>
 </details>
 
@@ -116,7 +116,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus (evam uktaḥ), the mighty-armed, most invincible Maṇibhadra (mahābāhur māṇibhadraḥ sudurjayaḥ), surrounded by four thousand yakṣas (vṛto yakṣa-sahasrais tu caturbhiḥ), joined battle (samayodhayat).
+Addressed thus (_evam uktaḥ_), the mighty-armed, most invincible Maṇibhadra (_mahābāhur māṇibhadraḥ sudurjayaḥ_), surrounded by four thousand yakṣas (_vṛto yakṣa-sahasrais tu caturbhiḥ_), joined battle (_samayodhayat_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ Addressed thus (evam uktaḥ), the mighty-armed, most invincible Maṇibhadra (m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Striking with maces, iron pestles, and darts (gadā-musala-prāsaiḥ), and with spears, javelins, and hammers (śakti-tomara-mudgaraiḥ), those yakṣas then rushed upon the rākṣasas (rākṣasān samupādravan).
+Striking with maces, iron pestles, and darts (_gadā-musala-prāsaiḥ_), and with spears, javelins, and hammers (_śakti-tomara-mudgaraiḥ_), those yakṣas then rushed upon the rākṣasas (_rākṣasān samupādravan_).
 </details>
 </details>
 
@@ -178,7 +178,7 @@ Striking with maces, iron pestles, and darts (gadā-musala-prāsaiḥ), and with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Waging a tumultuous battle (kurvantas tumulaṃ yuddham) and swooping as swiftly as hawks (carantaḥ śyenaval laghu), they shouted battle-cries: “Well struck! Give me combat! I will not yield! Let it be dealt!” (bāḍhaṃ prayaccha necchāmi dīyatām iti bhāṣiṇaḥ).
+Waging a tumultuous battle (_kurvantas tumulaṃ yuddham_) and swooping as swiftly as hawks (_carantaḥ śyenaval laghu_), they shouted battle-cries: “Well struck! Give me combat! I will not yield! Let it be dealt!” (_bāḍhaṃ prayaccha necchāmi dīyatām iti bhāṣiṇaḥ_).
 </details>
 </details>
 
@@ -209,7 +209,7 @@ Waging a tumultuous battle (kurvantas tumulaṃ yuddham) and swooping as swiftly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the gods together with the gandharvas (devāḥ sa-gandharvāḥ) and the Veda-chanting sages (ṛṣayo brahmavādinaḥ), beholding that tumultuous battle (dṛṣṭvā tat tumulaṃ yuddham), were filled with supreme astonishment (paraṃ vismayam āgaman).
+Thereupon the gods together with the gandharvas (_devāḥ sa-gandharvāḥ_) and the Veda-chanting sages (_ṛṣayo brahmavādinaḥ_), beholding that tumultuous battle (_dṛṣṭvā tat tumulaṃ yuddham_), were filled with supreme astonishment (_paraṃ vismayam āgaman_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ Prahasta, Mahodara, and Mārīca cut down all four thousand yakṣas through rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet a thousand of the yakṣas (yakṣāṇāṃ ... sahasram) were slain in battle by Prahasta (prahastena nihataṃ raṇe), and another blameless thousand (anindyaṃ sahasram aparam) were cut down by Mahodara (mahodareṇa ... hatam).
+Yet a thousand of the yakṣas (_yakṣāṇāṃ ... sahasram_) were slain in battle by Prahasta (_prahastena nihataṃ raṇe_), and another blameless thousand (_anindyaṃ sahasram aparam_) were cut down by Mahodara (_mahodareṇa ... hatam_).
 </details>
 </details>
 
@@ -282,7 +282,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And by the enraged Mārīca, eager for battle (kruddhena ... mārīcena yuyutsunā), O King [Rāma], two thousand were felled (dve sahasre nipātite) in the mere space of the twinkling of an eye (nimeṣāntara-mātreṇa).
+And by the enraged Mārīca, eager for battle (_kruddhena ... mārīcena yuyutsunā_), O King [Rāma], two thousand were felled (_dve sahasre nipātite_) in the mere space of the twinkling of an eye (_nimeṣāntara-mātreṇa_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ And by the enraged Mārīca, eager for battle (kruddhena ... mārīcena yuyutsun
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What comparison is there, O tiger among men (puruṣavyāghra), between the straightforward warfare of the yakṣas (yakṣārjavaṃ yuddham) and the combat of the rākṣasas grounded in the power of illusion (māyā-balāśrayam rakṣasām)? For that reason they prevailed in battle (tena te ’bhyadhikā yudhi)!
+What comparison is there, O tiger among men (_puruṣavyāghra_), between the straightforward warfare of the yakṣas (_yakṣārjavaṃ yuddham_) and the combat of the rākṣasas grounded in the power of illusion (_māyā-balāśrayam rakṣasām_)? For that reason they prevailed in battle (_tena te ’bhyadhikā yudhi_)!
 </details>
 </details>
 
@@ -347,7 +347,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encountering Dhūmrākṣa in that great battle (dhūmrākṣeṇa samāgamya ... mahāraṇe), Maṇibhadra was struck fiercely upon the chest with an iron pestle (musalenorasi krodhāt tāḍitaḥ), yet did not even waver (na ca kampitaḥ).
+Encountering Dhūmrākṣa in that great battle (_dhūmrākṣeṇa samāgamya ... mahāraṇe_), Maṇibhadra was struck fiercely upon the chest with an iron pestle (_musalenorasi krodhāt tāḍitaḥ_), yet did not even waver (_na ca kampitaḥ_).
 </details>
 </details>
 
@@ -381,7 +381,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, whirling his mace (gadāṃ samāvidhya), Maṇibhadra struck the rākṣasa Dhūmrākṣa upon the head (dhūmrākṣas tāḍito mūrdhni), and reeling in distress (vihvalaḥ), he collapsed to the earth (sa papāta ha).
+Then, whirling his mace (_gadāṃ samāvidhya_), Maṇibhadra struck the rākṣasa Dhūmrākṣa upon the head (_dhūmrākṣas tāḍito mūrdhni_), and reeling in distress (_vihvalaḥ_), he collapsed to the earth (_sa papāta ha_).
 </details>
 </details>
 
@@ -415,7 +415,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Dhūmrākṣa struck down (dhūmrākṣaṃ tāḍitaṃ dṛṣṭvā) and fallen, drenched in blood (patitaṃ śoṇitokṣitam), the ten-faced Rāvaṇa charged straight at Maṇibhadra in the fray (abhyadhāvata saṅgrāme māṇibhadraṃ daśānanaḥ).
+Seeing Dhūmrākṣa struck down (_dhūmrākṣaṃ tāḍitaṃ dṛṣṭvā_) and fallen, drenched in blood (_patitaṃ śoṇitokṣitam_), the ten-faced Rāvaṇa charged straight at Maṇibhadra in the fray (_abhyadhāvata saṅgrāme māṇibhadraṃ daśānanaḥ_).
 </details>
 </details>
 
@@ -457,7 +457,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the enraged ten-faced one rushed upon him (taṃ kruddham abhidhāvantam), Maṇibhadra, foremost of yakṣas (yakṣa-puṅgavaḥ), struck him with three spears (śaktibhis tāḍayāmāsa tisṛbhiḥ).
+As the enraged ten-faced one rushed upon him (_taṃ kruddham abhidhāvantam_), Maṇibhadra, foremost of yakṣas (_yakṣa-puṅgavaḥ_), struck him with three spears (_śaktibhis tāḍayāmāsa tisṛbhiḥ_).
 </details>
 </details>
 
@@ -491,7 +491,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck thus (tāḍitaḥ), [Rāvaṇa] dealt a blow in battle upon Maṇibhadra’s diadem (māṇibhadrasya mukuṭe prāharad raṇe), and by that stroke of his (tena prahāreṇa), his diadem slipped awry to one side (mukuṭaṃ pārśvam āgatam).
+Struck thus (_tāḍitaḥ_), [Rāvaṇa] dealt a blow in battle upon Maṇibhadra’s diadem (_māṇibhadrasya mukuṭe prāharad raṇe_), and by that stroke of his (_tena prahāreṇa_), his diadem slipped awry to one side (_mukuṭaṃ pārśvam āgatam_).
 </details>
 </details>
 
@@ -528,7 +528,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Held fast in combat by him (saṃyudhyamānena viṣṭabdhaḥ), [Rāvaṇa] did not waver (na vyakampata); from that day onward, that yakṣa became renowned as Pārśvamauli [“Wry-Crowned”] (pārśvamaulir iti smṛtaḥ). Then, O King, a tremendous uproar arose upon that mountain (sannādaḥ sumahān ... tasmin śaile ’bhyavartata).
+Held fast in combat by him (_saṃyudhyamānena viṣṭabdhaḥ_), [Rāvaṇa] did not waver (_na vyakampata_); from that day onward, that yakṣa became renowned as Pārśvamauli [“Wry-Crowned”] (_pārśvamaulir iti smṛtaḥ_). Then, O King, a tremendous uproar arose upon that mountain (_sannādaḥ sumahān ... tasmin śaile ’bhyavartata_).
 </details>
 </details>
 
@@ -559,7 +559,7 @@ Held fast in combat by him (saṃyudhyamānena viṣṭabdhaḥ), [Rāvaṇa] di
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon from afar appeared the Lord of Wealth [Kubera], mace in hand (dūrāt pradadṛśe dhanādhyakṣo gadādharaḥ), attended by Śukra and Prauṣṭhapada (śukra-prauṣṭhapadābhyām) and surrounded by the treasures Padma and Śaṅkha (padma-śaṅkha-samāvṛtaḥ).
+Thereupon from afar appeared the Lord of Wealth [Kubera], mace in hand (_dūrāt pradadṛśe dhanādhyakṣo gadādharaḥ_), attended by Śukra and Prauṣṭhapada (_śukra-prauṣṭhapadābhyām_) and surrounded by the treasures Padma and Śaṅkha (_padma-śaṅkha-samāvṛtaḥ_).
 </details>
 </details>
 
@@ -590,7 +590,7 @@ Thereupon from afar appeared the Lord of Wealth [Kubera], mace in hand (dūrāt 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his brother in battle (dṛṣṭvā bhrātaraṃ saṅkhye), stripped of all reverence [toward elders] by reason of his father’s curse (śāpād vibhraṣṭa-gauravam), that wise sovereign spoke words befitting the lineage of the Grandsire [Brahmā] (yuktaṃ paitāmahe kule):
+Beholding his brother in battle (_dṛṣṭvā bhrātaraṃ saṅkhye_), stripped of all reverence [toward elders] by reason of his father’s curse (_śāpād vibhraṣṭa-gauravam_), that wise sovereign spoke words befitting the lineage of the Grandsire [Brahmā] (_yuktaṃ paitāmahe kule_):
 </details>
 </details>
 
@@ -621,7 +621,7 @@ Beholding his brother in battle (dṛṣṭvā bhrātaraṃ saṅkhye), stripped
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because you will not heed me even as I restrain you, O fool (yan mayā vāryamāṇas tvaṃ nāvagacchasi durmate), you shall comprehend it hereafter (paścād ... jñāsyase) when, reaping the fruit of this deed (asya phalaṃ prāpya), you have gone to hell (nirayaṃ gataḥ)!
+“Because you will not heed me even as I restrain you, O fool (_yan mayā vāryamāṇas tvaṃ nāvagacchasi durmate_), you shall comprehend it hereafter (_paścād ... jñāsyase_) when, reaping the fruit of this deed (_asya phalaṃ prāpya_), you have gone to hell (_nirayaṃ gataḥ_)!
 </details>
 </details>
 
@@ -660,7 +660,7 @@ Kubera warns Rāvaṇa that unrecognized sin works like swallowed poison, that t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the fool who drinks poison out of delusion (yo hi mohād viṣaṃ pītvā) and perceives it not (nāvagacchati durmatiḥ), realizes the fruit of that act (jānīte karmaṇaḥ phalam) only at the end of its digestion (tasya pariṇāmānte)!
+“For the fool who drinks poison out of delusion (_yo hi mohād viṣaṃ pītvā_) and perceives it not (_nāvagacchati durmatiḥ_), realizes the fruit of that act (_jānīte karmaṇaḥ phalam_) only at the end of its digestion (_tasya pariṇāmānte_)!
 </details>
 </details>
 
@@ -691,7 +691,7 @@ Kubera warns Rāvaṇa that unrecognized sin works like swallowed poison, that t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The gods no longer look kindly upon you for any righteous deed (devatā nābhinandanti dharma-yuktena kenacit); brought thereby to such a cruel state (yena tvam īdṛśaṃ bhāvaṃ nītaḥ san), you cannot comprehend [your peril] (nāvabuddhyase)!
+“The gods no longer look kindly upon you for any righteous deed (_devatā nābhinandanti dharma-yuktena kenacit_); brought thereby to such a cruel state (_yena tvam īdṛśaṃ bhāvaṃ nītaḥ san_), you cannot comprehend [your peril] (_nāvabuddhyase_)!
 </details>
 </details>
 
@@ -722,7 +722,7 @@ Kubera warns Rāvaṇa that unrecognized sin works like swallowed poison, that t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, whoever despises mother, father, and preceptor (mātaraṃ pitaraṃ yo hi ācāryaṃ cāvamanyate) beholds the bitter fruit thereof (paśyati phalaṃ tasya) when fallen under the sway of the Lord of the Dead [Yama] (pretarāja-vaśaṃ gataḥ)!
+“Indeed, whoever despises mother, father, and preceptor (_mātaraṃ pitaraṃ yo hi ācāryaṃ cāvamanyate_) beholds the bitter fruit thereof (_paśyati phalaṃ tasya_) when fallen under the sway of the Lord of the Dead [Yama] (_pretarāja-vaśaṃ gataḥ_)!
 </details>
 </details>
 
@@ -756,7 +756,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the deluded man who does not accumulate austerity (na karoti taporjanam) while dwelling in this impermanent body (adhruve hi śarīre) torments himself afterward (paścāt tapyate mūḍhaḥ) when, having died, he beholds his own destiny (mṛto dṛṣṭvātmano gatim)!
+“For the deluded man who does not accumulate austerity (_na karoti taporjanam_) while dwelling in this impermanent body (_adhruve hi śarīre_) torments himself afterward (_paścāt tapyate mūḍhaḥ_) when, having died, he beholds his own destiny (_mṛto dṛṣṭvātmano gatim_)!
 </details>
 </details>
 
@@ -787,7 +787,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From dharma spring sovereignty, wealth, and happiness (dharmād rājyaṃ dhanaṃ saukhyam), and from adharma comes sorrow alone (adharmād duḥkham eva ca); therefore, for the sake of happiness (sukhārthāya), one should practice dharma and cast off sin (kuryāt pāpaṃ visarjayet)!
+“From dharma spring sovereignty, wealth, and happiness (_dharmād rājyaṃ dhanaṃ saukhyam_), and from adharma comes sorrow alone (_adharmād duḥkham eva ca_); therefore, for the sake of happiness (_sukhārthāya_), one should practice dharma and cast off sin (_kuryāt pāpaṃ visarjayet_)!
 </details>
 </details>
 
@@ -818,7 +818,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For the fruit of sin is suffering (pāpasya hi phalaṃ duḥkham), and that must be experienced by oneself (tad bhoktavyam ihātmanā); therefore only a fool commits sin for his own self-destruction (ātmāpaghātārthaṃ mūḍhaḥ pāpaṃ kariṣyati)!
+“For the fruit of sin is suffering (_pāpasya hi phalaṃ duḥkham_), and that must be experienced by oneself (_tad bhoktavyam ihātmanā_); therefore only a fool commits sin for his own self-destruction (_ātmāpaghātārthaṃ mūḍhaḥ pāpaṃ kariṣyati_)!
 </details>
 </details>
 
@@ -857,7 +857,7 @@ Declaring that wisdom comes from merit rather than whim and refusing further con
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, right understanding never arises merely at the whim of any foolish man (kasya cin na hi durbuddheś chandato jāyate matiḥ); destiny impels all things, and he who is struck down by fate is undone (daivaṃ ceṣṭayate sarvaṃ hato daivena hanyate)—whatsoever deed a man performs, a like fruit does he reap (yādṛśaṃ kurute karma tādṛśaṃ phalam aśnute)!
+“Indeed, right understanding never arises merely at the whim of any foolish man (_kasya cin na hi durbuddheś chandato jāyate matiḥ_); destiny impels all things, and he who is struck down by fate is undone (_daivaṃ ceṣṭayate sarvaṃ hato daivena hanyate_)—whatsoever deed a man performs, a like fruit does he reap (_yādṛśaṃ kurute karma tādṛśaṃ phalam aśnute_)!
 </details>
 </details>
 
@@ -891,7 +891,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Intelligence, beauty, prosperous fruit, sons, valor, and steadfastness (buddhi-rūpaṃ phalaṃ putrān śauryaṃ dhīratvam eva ca)—men attain all of these in this world as rewards won by meritorious deeds (nirjitaṃ puṇya-karmabhiḥ)!
+“Intelligence, beauty, prosperous fruit, sons, valor, and steadfastness (_buddhi-rūpaṃ phalaṃ putrān śauryaṃ dhīratvam eva ca_)—men attain all of these in this world as rewards won by meritorious deeds (_nirjitaṃ puṇya-karmabhiḥ_)!
 </details>
 </details>
 
@@ -925,7 +925,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus you are bound for hell (evaṃ niraya-gāmī tvam), you whose mind is of such a bent (yasya te matir īdṛśī)! No longer shall I converse with you (na tvāṃ samabhibhāṣiṣye)—such indeed is the settled rule regarding men of wicked conduct (asadvṛtteṣv eva nirṇayaḥ)!”
+“Thus you are bound for hell (_evaṃ niraya-gāmī tvam_), you whose mind is of such a bent (_yasya te matir īdṛśī_)! No longer shall I converse with you (_na tvāṃ samabhibhāṣiṣye_)—such indeed is the settled rule regarding men of wicked conduct (_asadvṛtteṣv eva nirṇayaḥ_)!”
 </details>
 </details>
 
@@ -956,7 +956,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus and battered by him (evam uktās tatas tena ... samāhatāḥ), all of [Rāvaṇa’s] ministers headed by Mārīca (tasyāmātyāḥ ... mārīca-pramukhāḥ sarve) turned their backs and fled in rout (vimukhā vipradudruvuḥ).
+Addressed thus and battered by him (_evam uktās tatas tena ... samāhatāḥ_), all of [Rāvaṇa’s] ministers headed by Mārīca (_tasyāmātyāḥ ... mārīca-pramukhāḥ sarve_) turned their backs and fled in rout (_vimukhā vipradudruvuḥ_).
 </details>
 </details>
 
@@ -987,7 +987,7 @@ Addressed thus and battered by him (evam uktās tatas tena ... samāhatāḥ), a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Ten-necked Rāvaṇa (daśagrīvaḥ) was struck upon the head with a mace (gadayābhihato mūrdhni) by that high-souled Lord of Yakṣas (yakṣendreṇa mahātmanā), yet did not even stir from his stance (na ca sthānāt prakampitaḥ).
+Thereupon Ten-necked Rāvaṇa (_daśagrīvaḥ_) was struck upon the head with a mace (_gadayābhihato mūrdhni_) by that high-souled Lord of Yakṣas (_yakṣendreṇa mahātmanā_), yet did not even stir from his stance (_na ca sthānāt prakampitaḥ_).
 </details>
 </details>
 
@@ -1018,7 +1018,7 @@ Thereupon Ten-necked Rāvaṇa (daśagrīvaḥ) was struck upon the head with a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, O Rāma, striking one another in that mighty battle (nighnantau tadānyonyaṃ mahāmṛdhe), those two wrathful warriors (amarṣaṇau) grew neither shaken nor weary (na vihvalau na ca śrāntau babhūvatuḥ).
+Then, O Rāma, striking one another in that mighty battle (_nighnantau tadānyonyaṃ mahāmṛdhe_), those two wrathful warriors (_amarṣaṇau_) grew neither shaken nor weary (_na vihvalau na ca śrāntau babhūvatuḥ_).
 </details>
 </details>
 
@@ -1057,7 +1057,7 @@ Countering Kubera’s fiery missile with Varuṇa’s watery weapon, Rāvaṇa v
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Dhanada [Kubera] discharged the fiery weapon (āgneyam astraṃ ... mumoca) at him, and the lord of rākṣasas (rākṣasendraḥ) countered that missile with the watery weapon of Varuṇa (vāruṇena tad astraṃ pratyavārayat).
+Then Dhanada [Kubera] discharged the fiery weapon (_āgneyam astraṃ ... mumoca_) at him, and the lord of rākṣasas (_rākṣasendraḥ_) countered that missile with the watery weapon of Varuṇa (_vāruṇena tad astraṃ pratyavārayat_).
 </details>
 </details>
 
@@ -1088,7 +1088,7 @@ Then Dhanada [Kubera] discharged the fiery weapon (āgneyam astraṃ ... mumoca)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that sovereign of rākṣasas (rākṣaseśvaraḥ) entered into rākṣasa illusion (māyāṃ praviṣṭo ’sau rākṣasīm) and conjured a hundred thousand forms (rūpāṇāṃ śata-sāhasram) for [his foe’s] destruction (vināśāya cakāra ca).
+Thereupon that sovereign of rākṣasas (_rākṣaseśvaraḥ_) entered into rākṣasa illusion (_māyāṃ praviṣṭo ’sau rākṣasīm_) and conjured a hundred thousand forms (_rūpāṇāṃ śata-sāhasram_) for [his foe’s] destruction (_vināśāya cakāra ca_).
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ Thereupon that sovereign of rākṣasas (rākṣaseśvaraḥ) entered into rāk�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now as a tiger, a boar, a raincloud, a mountain, an ocean, a tree (vyāghro varāho jīmūtaḥ parvataḥ sāgaro drumaḥ), now as a yakṣa, and now in the likeness of a daitya (yakṣo daitya-svarūpī ca)—thus did Ten-faced Rāvaṇa appear (so ’dṛśyata daśānanaḥ).
+Now as a tiger, a boar, a raincloud, a mountain, an ocean, a tree (_vyāghro varāho jīmūtaḥ parvataḥ sāgaro drumaḥ_), now as a yakṣa, and now in the likeness of a daitya (_yakṣo daitya-svarūpī ca_)—thus did Ten-faced Rāvaṇa appear (_so ’dṛśyata daśānanaḥ_).
 </details>
 </details>
 
@@ -1152,7 +1152,7 @@ Now as a tiger, a boar, a raincloud, a mountain, an ocean, a tree (vyāghro var�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Many such forms did he keep conjuring (bahūni ca karoti sma); those [illusions] alone were visible, but never he himself (dṛśyante na tv asau tataḥ)! Then, O Rāma, taking up a mighty weapon (pratigṛhya ... mahad astram), Ten-faced Rāvaṇa—
+Many such forms did he keep conjuring (_bahūni ca karoti sma_); those [illusions] alone were visible, but never he himself (_dṛśyante na tv asau tataḥ_)! Then, O Rāma, taking up a mighty weapon (_pratigṛhya ... mahad astram_), Ten-faced Rāvaṇa—
 </details>
 </details>
 
@@ -1183,7 +1183,7 @@ Many such forms did he keep conjuring (bahūni ca karoti sma); those [illusions]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-whirling a gigantic mace (vyāviddhya mahatīṃ gadām), struck Dhanada upon the head (jaghāna mūrdhni dhanadam). Struck down thus by him (evaṃ sa tenābhihataḥ), reeling and drenched in blood (vihvalaḥ śoṇitokṣitaḥ), the Lord of Wealth collapsed like an aśoka tree severed at its roots (kṛtta-mūla ivāśoko nipapāta).
+whirling a gigantic mace (_vyāviddhya mahatīṃ gadām_), struck Dhanada upon the head (_jaghāna mūrdhni dhanadam_). Struck down thus by him (_evaṃ sa tenābhihataḥ_), reeling and drenched in blood (_vihvalaḥ śoṇitokṣitaḥ_), the Lord of Wealth collapsed like an _aśoka_ tree severed at its roots (_kṛtta-mūla ivāśoko nipapāta_).
 </details>
 </details>
 
@@ -1222,7 +1222,7 @@ While the personified Treasures carry the fallen Kubera to Nandana grove and rev
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, surrounded by the divine Treasures headed by Padma (padmādibhis tatra nidhibhiḥ ... vṛtaḥ), that Lord of Wealth [Kubera] was borne away by them to the Nandana grove (vanam ānīya nandanam) and revived (dhanadocchvāsitas taiḥ).
+Thereupon, surrounded by the divine Treasures headed by Padma (_padmādibhis tatra nidhibhiḥ ... vṛtaḥ_), that Lord of Wealth [Kubera] was borne away by them to the Nandana grove (_vanam ānīya nandanam_) and revived (_dhanadocchvāsitas taiḥ_).
 </details>
 </details>
 
@@ -1253,7 +1253,7 @@ Thereupon, surrounded by the divine Treasures headed by Padma (padmādibhis tatr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having vanquished Dhanada (nirjitya ... taṃ dhanadam), the lord of rākṣasas, delighted at heart (hṛṣṭa-mānasaḥ), seized his aerial chariot Puṣpaka (puṣpakaṃ tasya jagrāha vimānam) as the emblem of his victory (jaya-lakṣaṇam)—
+Having vanquished Dhanada (_nirjitya ... taṃ dhanadam_), the lord of rākṣasas, delighted at heart (_hṛṣṭa-mānasaḥ_), seized his aerial chariot Puṣpaka (_puṣpakaṃ tasya jagrāha vimānam_) as the emblem of his victory (_jaya-lakṣaṇam_)—
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-encircled with pillars of gold (kāñcana-stambha-saṃvītam), furnished with archways of cat’s-eye gems (vaiḍūrya-maṇi-toraṇam), draped with lattices of pearls (muktā-jāla-praticchannam), and graced with trees yielding every desired fruit (sarva-kāma-phala-drumam),
+encircled with pillars of gold (_kāñcana-stambha-saṃvītam_), furnished with archways of cat’s-eye gems (_vaiḍūrya-maṇi-toraṇam_), draped with lattices of pearls (_muktā-jāla-praticchannam_), and graced with trees yielding every desired fruit (_sarva-kāma-phala-drumam_),
 </details>
 </details>
 
@@ -1318,7 +1318,7 @@ encircled with pillars of gold (kāñcana-stambha-saṃvītam), furnished with a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-swift as thought and moving at will (manojavaṃ kāmagamam), able to assume any form and coursing through the skies (kāmarūpaṃ vihaṅgamam), with stairways of jewels and gold (maṇi-kāñcana-sopānam) and raised platforms of burnished gold (tapta-kāñcana-vedikam),
+swift as thought and moving at will (_manojavaṃ kāmagamam_), able to assume any form and coursing through the skies (_kāmarūpaṃ vihaṅgamam_), with stairways of jewels and gold (_maṇi-kāñcana-sopānam_) and raised platforms of burnished gold (_tapta-kāñcana-vedikam_),
 </details>
 </details>
 
@@ -1357,7 +1357,7 @@ Boarding Brahmā’s imperishable, all-season marvel Puṣpaka, the arrogant Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-fit to serve as the mount of the gods and imperishable (devopavāhyam akṣayyam), ever bringing delight to eye and mind (sadā-dṛṣṭi-manaḥ-sukham), filled with manifold marvels and exquisitely variegated in design (bahv-āścaryaṃ bhakti-citram), and fashioned by Brahmā [through Viśvakarman] (brahmaṇā parinirmitam),
+fit to serve as the mount of the gods and imperishable (_devopavāhyam akṣayyam_), ever bringing delight to eye and mind (_sadā-dṛṣṭi-manaḥ-sukham_), filled with manifold marvels and exquisitely variegated in design (_bahv-āścaryaṃ bhakti-citram_), and fashioned by Brahmā [through Viśvakarman] (_brahmaṇā parinirmitam_),
 </details>
 </details>
 
@@ -1394,11 +1394,11 @@ fit to serve as the mount of the gods and imperishable (devopavāhyam akṣayyam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**41:** wrought with every desirable amenity (nirmitaṃ sarva-kāmaiḥ), enchanting and unsurpassed (manoharam anuttamam), neither too cold nor too hot (na tu śītaṃ na coṣṇaṃ ca), auspicious and comfortable in every season (sarvartu-sukhadaṃ śubham).
+**41:** wrought with every desirable amenity (_nirmitaṃ sarva-kāmaiḥ_), enchanting and unsurpassed (_manoharam anuttamam_), neither too cold nor too hot (_na tu śītaṃ na coṣṇaṃ ca_), auspicious and comfortable in every season (_sarvartu-sukhadaṃ śubham_).
 
-**42:** Ascending that chariot moving at will and won by his prowess (taṃ ... samāruhya kāmagaṃ vīrya-nirjitam), that exceedingly foolish king, in the swelling of his arrogance (darpotsekāt sudurmatiḥ), deemed the three worlds already conquered (jitaṃ tribhuvanaṃ mene); and having defeated the god Vaiśravaṇa, he descended from Mount Kailāsa (kailāsāt samavātarat).
+**42:** Ascending that chariot moving at will and won by his prowess (_taṃ ... samāruhya kāmagaṃ vīrya-nirjitam_), that exceedingly foolish king, in the swelling of his arrogance (_darpotsekāt sudurmatiḥ_), deemed the three worlds already conquered (_jitaṃ tribhuvanaṃ mene_); and having defeated the god Vaiśravaṇa, he descended from Mount Kailāsa (_kailāsāt samavātarat_).
 
-**43:** Having won that vast victory by his own fiery might (svatejasā vipulam avāpya taṃ jayam), that majestic night-roamer (pratāpavān ... niśācaraḥ), radiant with spotless diadem and necklaces (vimala-kirīṭa-hāravān), shone resplendent seated upon that supreme aerial car (rarāja vai parama-vimānam āsthitaḥ), even like a fire blazing in an assembly hall (sadasi gato yathānalaḥ)!
+**43:** Having won that vast victory by his own fiery might (_svatejasā vipulam avāpya taṃ jayam_), that majestic night-roamer (_pratāpavān ... niśācaraḥ_), radiant with spotless diadem and necklaces (_vimala-kirīṭa-hāravān_), shone resplendent seated upon that supreme aerial car (_rarāja vai parama-vimānam āsthitaḥ_), even like a fire blazing in an assembly hall (_sadasi gato yathānalaḥ_)!
 </details>
 </details>
 

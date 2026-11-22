@@ -73,7 +73,7 @@ so many years ago.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Given leave by Rāma, that peerless aerial chariot (vimānam), yoked with swans (haṃsayuktam) and emitting a mighty roar, soared up into the firmament (vihāyasam).
+Given leave by Rāma, that peerless aerial chariot (_vimānam_), yoked with swans (_haṃsayuktam_) and emitting a mighty roar, soared up into the firmament (_vihāyasam_).
 </details>
 </details>
 
@@ -125,7 +125,7 @@ it be after a hundred years!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Casting his gaze (cakṣuḥ) in every direction, Rāma, the delight of the Raghus (raghunandanaḥ), then spoke to Sītā, the princess of Mithilā, whose countenance resembled the moon (śaśinibhānanām):
+Casting his gaze (_cakṣuḥ_) in every direction, Rāma, the delight of the Raghus (_raghunandanaḥ_), then spoke to Sītā, the princess of Mithilā, whose countenance resembled the moon (_śaśinibhānanām_):
 </details>
 </details>
 
@@ -171,7 +171,7 @@ and at what place? Tell the truth to me, enquiring as I am."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold Laṅkā, O Vaidehī, fashioned by Viśvakarman (viśvakarmaṇā) and perched upon the summit of Mount Trikūṭa (trikūṭaśikhare), which resembles a peak of Kailāsa.
+“Behold Laṅkā, O Vaidehī, fashioned by Viśvakarman (_viśvakarmaṇā_) and perched upon the summit of Mount Trikūṭa (_trikūṭaśikhare_), which resembles a peak of Kailāsa.
 </details>
 </details>
 
@@ -218,7 +218,7 @@ to narrate the entire exploits of Rama in the forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gaze upon this great battlefield (āyodhanam), O Sītā, mired in mud of flesh and blood (māṃsaśoṇitakardamam)—the vast slaughter-ground (viśasanam) of monkeys and night-wandering demons.
+“Gaze upon this great battlefield (_āyodhanam_), O Sītā, mired in mud of flesh and blood (_māṃsaśoṇitakardamam_)—the vast slaughter-ground (_viśasanam_) of monkeys and night-wandering demons.
 </details>
 </details>
 
@@ -333,15 +333,15 @@ now, that which occurred after you had returned to Ayodhya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “Here lies (śete) Rāvaṇa, the lord of the rākṣasas, that tormentor (pramāthī) to whom boons had been granted (dattavaraḥ), slain by me for your sake, O wide-eyed lady (viśālākṣi).
+**5:** “Here lies (_śete_) Rāvaṇa, the lord of the _rākṣasas_, that tormentor (_pramāthī_) to whom boons had been granted (_dattavaraḥ_), slain by me for your sake, O wide-eyed lady (_viśālākṣi_).
 
 **6:** “Here Kumbhakarṇa was slain, as well as the night-stalker Prahasta; and here too Dhūmrākṣa was struck down by the monkey Hanūmān.
 
-**7:** “Here Vidyunmālī was slain by the great-souled Suṣeṇa; and here upon the battlefield (raṇe) Rāvaṇa's son Indrajit (rāvaṇiḥ) was struck down by Lakṣmaṇa.
+**7:** “Here Vidyunmālī was slain by the great-souled Suṣeṇa; and here upon the battlefield (_raṇe_) Rāvaṇa&#x27;s son Indrajit (_rāvaṇiḥ_) was struck down by Lakṣmaṇa.
 
-**8:** “Here the demon named Vikaṭa was slain by Aṅgada, along with Virūpākṣa, hard to behold (duṣprekṣaḥ), and both Mahāpārśva and Mahodara.
+**8:** “Here the demon named Vikaṭa was slain by Aṅgada, along with Virūpākṣa, hard to behold (_duṣprekṣaḥ_), and both Mahāpārśva and Mahodara.
 
-**9:** “Here Akampana was slain, and other mighty rākṣasas as well: Triśiras and Atikāya, together with Devāntaka and Narāntaka.
+**9:** “Here Akampana was slain, and other mighty _rākṣasas_ as well: Triśiras and Atikāya, together with Devāntaka and Narāntaka.
 </details>
 </details>
 
@@ -420,9 +420,9 @@ had been trampled by elephants and extensive with lions, tigers and deers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “Here fell both Yuddhonmatta and Matta, those two foremost of demons (rākṣasapravarāvuubhau), as well as Nikumbha and Kumbha, the two mighty sons of Kumbhakarṇa (kumbhakarṇātmajau).
+**10:** “Here fell both Yuddhonmatta and Matta, those two foremost of demons (_rākṣasapravarāvuubhau_), as well as Nikumbha and Kumbha, the two mighty sons of Kumbhakarṇa (_kumbhakarṇātmajau_).
 
-**11:** “Here Vajradaṃṣṭra and Daṃṣṭra and many other demons were slain; and here the unassailable (durdharṣaḥ) Makarākṣa was felled in combat (yudhi) by me.
+**11:** “Here Vajradaṃṣṭra and Daṃṣṭra and many other demons were slain; and here the unassailable (_durdharṣaḥ_) Makarākṣa was felled in combat (_yudhi_) by me.
 </details>
 </details>
 
@@ -471,7 +471,7 @@ Viradha, a demon, uttering forth a very loud roar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here Akampana was slain, and the valorous Śoṇitākṣa; and here Yūpākṣa and Prajaṅgha were both struck down in the great war (mahāhave).
+“Here Akampana was slain, and the valorous Śoṇitākṣa; and here Yūpākṣa and Prajaṅgha were both struck down in the great war (_mahāhave_).
 </details>
 </details>
 
@@ -525,7 +525,7 @@ head bent low, and who was emitting a loud cry, like an elephant."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here the demon Vidyujjihva of terrifying aspect (bhīmadarśanaḥ) was slain; and here Yajñaśatru was struck down, along with Suptaghna of mighty strength.
+“Here the demon Vidyujjihva of terrifying aspect (_bhīmadarśanaḥ_) was slain; and here Yajñaśatru was struck down, along with Suptaghna of mighty strength.
 </details>
 </details>
 
@@ -571,7 +571,7 @@ beautiful hermitage of Sharbhanga, in that evening.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here too Sūryaśatru was slain, and that other demon Brahmaśatru; and here his consort named Mandodarī lamented (paryadevayat) over him [Rāvaṇa],
+“Here too Sūryaśatru was slain, and that other demon Brahmaśatru; and here his consort named Mandodarī lamented (_paryadevayat_) over him [Rāvaṇa],
 </details>
 </details>
 
@@ -617,7 +617,7 @@ who truly mighty, reached the region of Janasthana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“surrounded by well over a thousand (sahasreṇa sāgreṇa) of her co-wives (sapatnīnām). And here, O fair-faced lady (varānane), is seen the landing-ford (tīrtham) of the ocean,
+“surrounded by well over a thousand (_sahasreṇa sāgreṇa_) of her co-wives (_sapatnīnām_). And here, O fair-faced lady (_varānane_), is seen the landing-ford (_tīrtham_) of the ocean,
 </details>
 </details>
 
@@ -675,7 +675,7 @@ ears and nose."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“where, after crossing the sea (sāgaram uttīrya), we passed that night (tāṃ rātrim uṣitāḥ). And here is the causeway (setuḥ) bound by me across the briny ocean (lavaṇārṇave)—
+“where, after crossing the sea (_sāgaram uttīrya_), we passed that night (_tāṃ rātrim uṣitāḥ_). And here is the causeway (_setuḥ_) bound by me across the briny ocean (_lavaṇārṇave_)—
 </details>
 </details>
 
@@ -721,7 +721,7 @@ great-souled Rama, while sojourning that region."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“the causeway of Nala (nalasetuḥ), so exceedingly difficult to construct (suduṣkaraḥ), built for your sake, O wide-eyed one! Behold the imperturbable ocean, O Vaidehī, the abode of Varuṇa (varuṇālayam),
+“the causeway of Nala (_nalasetuḥ_), so exceedingly difficult to construct (_suduṣkaraḥ_), built for your sake, O wide-eyed one! Behold the imperturbable ocean, O Vaidehī, the abode of Varuṇa (_varuṇālayam_),
 </details>
 </details>
 
@@ -769,7 +769,7 @@ alone, in a fraction of a quarter of a day."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“roaring as though shoreless (apāram iva garjantam) and teeming with conchs and pearl-oysters (śaṅkhaśuktisamākulam). Behold, O Maithilī, the golden lord of mountains, Hiraṇyanābha [Maināka],
+“roaring as though shoreless (_apāram iva garjantam_) and teeming with conchs and pearl-oysters (_śaṅkhaśuktisamākulam_). Behold, O Maithilī, the golden lord of mountains, Hiraṇyanābha [Maināka],
 </details>
 </details>
 
@@ -823,7 +823,7 @@ obstacles to the austerity of the ascetics, were killed by Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“which rose up piercing through the ocean to afford Hanūmān rest (viśramārtham). And here upon the flank (kukṣau) of the sea is the site of our army's encampment (skandhāvāraniveśanam).
+“which rose up piercing through the ocean to afford Hanūmān rest (_viśramārtham_). And here upon the flank (_kukṣau_) of the sea is the site of our army&#x27;s encampment (_skandhāvāraniveśanam_).
 </details>
 </details>
 
@@ -875,7 +875,7 @@ killing Dushana (his brother) first, Trishira (the other brother) was killed the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here aforetime (pūrvam) the all-pervading Lord Mahādeva bestowed his grace (prasādam akarot); and here is seen the sacred ford (tīrtham) of the great-souled ocean,
+“Here aforetime (_pūrvam_) the all-pervading Lord Mahādeva bestowed his grace (_prasādam akarot_); and here is seen the sacred ford (_tīrtham_) of the great-souled ocean,
 </details>
 </details>
 
@@ -926,9 +926,9 @@ by name, Maricha, a follower of Ravana, allured Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “renowned as Setubandha and venerated by the three worlds (trailokyena ca pūjitam)—this supremely pure holy site that destroys the greatest of sins (mahāpātakanāśanam).
+**21:** “renowned as Setubandha and venerated by the three worlds (_trailokyena ca pūjitam_)—this supremely pure holy site that destroys the greatest of sins (_mahāpātakanāśanam_).
 
-**22:** “Here this king of the rākṣasas, Vibhīṣaṇa, first came to me. And yonder, O Sītā, is seen Kiṣkindhā with its variegated forests (citrakānanā),
+**22:** “Here this king of the _rākṣasas_, Vibhīṣaṇa, first came to me. And yonder, O Sītā, is seen Kiṣkindhā with its variegated forests (_citrakānanā_),
 </details>
 </details>
 
@@ -983,7 +983,7 @@ turn out to be charming and pleasing to the eye'."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“the lovely city of Sugrīva where Vālin was slain by me.” Then, beholding the city of Kiṣkindhā once ruled by Vālin (vālipālitām), Sītā
+“the lovely city of Sugrīva where Vālin was slain by me.” Then, beholding the city of Kiṣkindhā once ruled by Vālin (_vālipālitām_), Sītā
 </details>
 </details>
 
@@ -1035,7 +1035,7 @@ one, with an arrow of curved knots."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-spoke gentle and respectful words (praśritaṃ vākyam) to Rāma with affectionate diffidence (praṇayasādhvasā): “Together with the beloved consorts of Sugrīva headed by Tārā (tārāpramukhataḥ), O king,
+spoke gentle and respectful words (_praśritaṃ vākyam_) to Rāma with affectionate diffidence (_praṇayasādhvasā_): “Together with the beloved consorts of Sugrīva headed by Tārā (_tārāpramukhataḥ_), O king,
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ Ravana forthwith entered their hermitage during that interval."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and surrounded by the wives of the other monkey lords (vānarendrāṇām), I wish (icche) to travel together with you to the royal capital (rājadhānīm) of Ayodhyā.”
+“and surrounded by the wives of the other monkey lords (_vānarendrāṇām_), I wish (_icche_) to travel together with you to the royal capital (_rājadhānīm_) of Ayodhyā.”
 </details>
 </details>
 
@@ -1159,7 +1159,7 @@ went quickly in haste, taking Seetha with him"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Vaidehī, Rāghava replied to her, “So be it (evam astu)!” Having reached Kiṣkindhā and halted (saṃsthāpya) [the chariot], Rāghava
+Thus addressed by Vaidehī, Rāghava replied to her, “So be it (_evam astu_)!” Having reached Kiṣkindhā and halted (_saṃsthāpya_) [the chariot], Rāghava
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ way, taking away Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** looked from the aerial car toward Sugrīva and spoke this word: “O tiger among monkeys (vānaraśārdūla), command all the foremost of the monkeys (vānarapuṅgavān)!
+**27:** looked from the aerial car toward Sugrīva and spoke this word: “O tiger among monkeys (_vānaraśārdūla_), command all the foremost of the monkeys (_vānarapuṅgavān_)!
 
 **28:** “Accompanied by their wives, let them all proceed to Ayodhyā with Sītā; and so too do you yourself [come] along with all your consorts, O mighty one.
 </details>
@@ -1281,7 +1281,7 @@ Lanka."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Make haste (abhitvaraya), O Sugrīva! Let us depart, O lord of the leapers (plavagādhipa)!” Thus addressed by Rāma of boundless splendor (amitaujasā), Sugrīva,
+“Make haste (_abhitvaraya_), O Sugrīva! Let us depart, O lord of the leapers (_plavagādhipa_)!” Thus addressed by Rāma of boundless splendor (_amitaujasā_), Sugrīva,
 </details>
 </details>
 
@@ -1333,7 +1333,7 @@ Ravana sought to cajole her gently with his words."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the glorious lord of the monkeys, accompanied by all those [chiefs], swiftly entered the inner apartments (antaḥpuram) and, beholding Tārā, spoke to her:
+the glorious lord of the monkeys, accompanied by all those [chiefs], swiftly entered the inner apartments (_antaḥpuram_) and, beholding Tārā, spoke to her:
 </details>
 </details>
 
@@ -1396,7 +1396,7 @@ Ashoka-grove."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O beloved (priye), granted leave by Rāghava out of his desire to please Maithilī (maithilīpriyakāmyayā), together with the wives of the great-souled monkeys,
+“O beloved (_priye_), granted leave by Rāghava out of his desire to please Maithilī (_maithilīpriyakāmyayā_), together with the wives of the great-souled monkeys,
 </details>
 </details>
 
@@ -1459,9 +1459,9 @@ him than his own father killed, Rama was disturbed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**32:** “do you make haste! Taking the monkey ladies (vānarayoṣitaḥ), we shall depart; we shall show them Ayodhyā and all the consorts of Daśaratha (daśarathastriyaḥ).”
+**32:** “do you make haste! Taking the monkey ladies (_vānarayoṣitaḥ_), we shall depart; we shall show them Ayodhyā and all the consorts of Daśaratha (_daśarathastriyaḥ_).”
 
-**33:** Hearing Sugrīva's words, Tārā, lovely in every limb (sarvāṅgaśobhanā), summoned all the wives of the monkeys and spoke to them:
+**33:** Hearing Sugrīva&#x27;s words, Tārā, lovely in every limb (_sarvāṅgaśobhanā_), summoned all the wives of the monkeys and spoke to them:
 </details>
 </details>
 
@@ -1507,7 +1507,7 @@ woodlands along the bank of Godavari-river."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You have been granted leave by Sugrīva to journey along with all the monkeys; and you will do me a cherished favor (priyaṃ kāryam) as well by beholding Ayodhyā,
+“You have been granted leave by Sugrīva to journey along with all the monkeys; and you will do me a cherished favor (_priyaṃ kāryam_) as well by beholding Ayodhyā,
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ advice of Kabandha, Rama of true prowess met Sugreeva, after heading for Mount R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and Rāma's entry (praveśam) together with the citizens of the capital and the countryside (paurajānapadaiḥ saha), and the royal splendor (vibhūtim) of all the consorts of Daśaratha!”
+“and Rāma&#x27;s entry (_praveśam_) together with the citizens of the capital and the countryside (_paurajānapadaiḥ saha_), and the royal splendor (_vibhūtim_) of all the consorts of Daśaratha!”
 </details>
 </details>
 
@@ -1633,9 +1633,9 @@ of mutual talks, affection deeply arose between Rama and Sugreeva."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** Given leave by Tārā, all the monkey ladies duly performed their toilet and adornment (nepathyavidhipūrvam) and, having made a clockwise circumambulation (pradakṣiṇam),
+**36:** Given leave by Tārā, all the monkey ladies duly performed their toilet and adornment (_nepathyavidhipūrvam_) and, having made a clockwise circumambulation (_pradakṣiṇam_),
 
-**37:** ascended (adhyārohan) that aerial chariot out of an eager desire to behold Sītā (sītādarśanakāṅkṣayā). Beholding the aerial car swiftly risen (utthitam) together with those ladies, Rāghava,
+**37:** ascended (_adhyārohan_) that aerial chariot out of an eager desire to behold Sītā (_sītādarśanakāṅkṣayā_). Beholding the aerial car swiftly risen (_utthitam_) together with those ladies, Rāghava,
 </details>
 </details>
 
@@ -1681,7 +1681,7 @@ colossal body, Rama caused the kingdom of Sugreeva restored.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-when near Mount Ṛṣyamūka, spoke once again to Vaidehī: “Yonder, O Sītā, is seen that great [mountain], looking like a rain-cloud streaked with lightning (savidyud iva toyadaḥ)—
+when near Mount Ṛṣyamūka, spoke once again to Vaidehī: “Yonder, O Sītā, is seen that great [mountain], looking like a rain-cloud streaked with lightning (_savidyud iva toyadaḥ_)—
 </details>
 </details>
 
@@ -1727,7 +1727,7 @@ pledge to Rama, to commence a search for Seetha the princess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Ṛṣyamūka, the foremost of mountains (girivaraḥ), covered with golden mineral ores (kāñcanair dhātubhir vṛtaḥ). Here I first met with Sugrīva, the lord of the monkeys,
+“Ṛṣyamūka, the foremost of mountains (_girivaraḥ_), covered with golden mineral ores (_kāñcanair dhātubhir vṛtaḥ_). Here I first met with Sugrīva, the lord of the monkeys,
 </details>
 </details>
 
@@ -1773,7 +1773,7 @@ sent to all the four quarters."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and here a solemn compact (samayaḥ) was made by me, O Sītā, for the slaying of Vālin. And yonder is seen the lotus-pool Pampā (pampā nalinī) with its picturesque woods (citrakānanā),
+“and here a solemn compact (_samayaḥ_) was made by me, O Sītā, for the slaying of Vālin. And yonder is seen the lotus-pool Pampā (_pampā nalinī_) with its picturesque woods (_citrakānanā_),
 </details>
 </details>
 
@@ -1825,7 +1825,7 @@ slipped past us and we felt sore-stricken with sorrow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“where, bereft of you (tvayā vihīnaḥ), I lamented (vilalāpa) in deep anguish. Upon its bank (asyās tīre) the righteous ascetic woman Śabarī (śabarī dharmacāriṇī) was beheld by me.
+“where, bereft of you (_tvayā vihīnaḥ_), I lamented (_vilalāpa_) in deep anguish. Upon its bank (_asyās tīre_) the righteous ascetic woman Śabarī (_śabarī dharmacāriṇī_) was beheld by me.
 </details>
 </details>
 
@@ -1878,7 +1878,7 @@ communicated to us that Seetha was dwelling in the habitation of Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here Kabandha, whose arms stretched a full yojana (yojanabāhuḥ), was slain by me. And yonder in Janasthāna, O Sītā, is seen that glorious giant tree (śrīmān vanaspatiḥ),
+“Here Kabandha, whose arms stretched a full _yojana_ (_yojanabāhuḥ_), was slain by me. And yonder in Janasthāna, O Sītā, is seen that glorious giant tree (_śrīmān vanaspatiḥ_),
 </details>
 </details>
 
@@ -1945,7 +1945,7 @@ one hundred yojanas (eight hundred miles of the ocean), resorting to my own stre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“where the mighty and resplendent Jaṭāyu, foremost of birds (pakṣiṇāṃ pravaraḥ), was slain by Rāvaṇa for your sake, O graceful lady (vilāsini);
+“where the mighty and resplendent Jaṭāyu, foremost of birds (_pakṣiṇāṃ pravaraḥ_), was slain by Rāvaṇa for your sake, O graceful lady (_vilāsini_);
 </details>
 </details>
 
@@ -2016,9 +2016,9 @@ ring with the name, Rama engraved on it, was handed-over to her by me as a token
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “and where Khara was slain, and Dūṣaṇa was felled, along with Triśiras of great valor, by me with straight-flying arrows (bāṇair ajihmagaiḥ).
+**44:** “and where Khara was slain, and Dūṣaṇa was felled, along with Triśiras of great valor, by me with straight-flying arrows (_bāṇair ajihmagaiḥ_).
 
-**45:** “Here, O fair-complexioned lady (varavarṇini), is that hermitage site (āśramapadam) of ours; and yonder, O lady of auspicious aspect (śubhadarśane), is seen our picturesque leaf-thatched cottage (parṇaśālā),
+**45:** “Here, O fair-complexioned lady (_varavarṇini_), is that hermitage site (_āśramapadam_) of ours; and yonder, O lady of auspicious aspect (_śubhadarśane_), is seen our picturesque leaf-thatched cottage (_parṇaśālā_),
 </details>
 </details>
 
@@ -2073,7 +2073,7 @@ given by me as a token to Rama who was unweary in action."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“where you were forcibly carried off (hṛtā balāt) by Rāvaṇa, the lord of the rākṣasas. And here is the lovely River Godāvarī, auspicious and clear-watered (prasannasalilā),
+“where you were forcibly carried off (_hṛtā balāt_) by Rāvaṇa, the lord of the _rākṣasas_. And here is the lovely River Godāvarī, auspicious and clear-watered (_prasannasalilā_),
 </details>
 </details>
 
@@ -2125,7 +2125,7 @@ dying patient would, on drinking the ambrosia."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and the hermitage of Agastya is seen encircled by plantain groves (kadalīvṛtaḥ); and here too is the resplendent (dīptaḥ) hermitage of the great-souled Sutīkṣṇa.
+“and the hermitage of Agastya is seen encircled by plantain groves (_kadalīvṛtaḥ_); and here too is the resplendent (_dīptaḥ_) hermitage of the great-souled Sutīkṣṇa.
 </details>
 </details>
 
@@ -2190,7 +2190,7 @@ universe."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And yonder, O Vaidehī, is seen the great hermitage of Śarabhaṅga (śarabhaṅgāśramaḥ), whither approached the thousand-eyed Śakra, the shatterer of citadels (puraṃdaraḥ).
+“And yonder, O Vaidehī, is seen the great hermitage of Śarabhaṅga (_śarabhaṅgāśramaḥ_), whither approached the thousand-eyed Śakra, the shatterer of citadels (_puraṃdaraḥ_).
 </details>
 </details>
 
@@ -2236,7 +2236,7 @@ bridge, the army of the valiant monkeys crossed the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this region the gigantic Virādha was slain by me. And here, O slender-waisted lady (tanumadhyame), O queen, are seen those ascetics (tāpasāḥ),
+“In this region the gigantic Virādha was slain by me. And here, O slender-waisted lady (_tanumadhyame_), O queen, are seen those ascetics (_tāpasāḥ_),
 </details>
 </details>
 
@@ -2282,7 +2282,7 @@ Kumbhakarna and Ravana. Lakshmana killed Indrajit, the son of Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“where dwells the patriarch of the hermitage (kulapatiḥ), Atri, comparable to the sun and fire (sūryavaiśvānaropamaḥ); here, O Sītā, that righteous female ascetic [Anasūyā] was beheld by you.
+“where dwells the patriarch of the hermitage (_kulapatiḥ_), Atri, comparable to the sun and fire (_sūryavaiśvānaropamaḥ_); here, O Sītā, that righteous female ascetic [Anasūyā] was beheld by you.
 </details>
 </details>
 
@@ -2313,7 +2313,7 @@ Kumbhakarna and Ravana. Lakshmana killed Indrajit, the son of Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yonder, O fair-limbed lady (sutanu), shines forth Citrakūṭa, the lord of mountains (śailendraḥ); here the son of Kaikeyī [Bharata] came to propitiate (prasādayitum) me.
+“Yonder, O fair-limbed lady (_sutanu_), shines forth Citrakūṭa, the lord of mountains (_śailendraḥ_); here the son of Kaikeyī [Bharata] came to propitiate (_prasādayitum_) me.
 </details>
 </details>
 
@@ -2368,7 +2368,7 @@ by them. Sages and celestial masters who came there, too gave boons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here is seen that lovely River Yamunā with its variegated forests (citrakānanā); and here, O Maithilī, is seen the auspicious hermitage of Bharadvāja (bharadvājāśramaḥ).
+“Here is seen that lovely River Yamunā with its variegated forests (_citrakānanā_); and here, O Maithilī, is seen the auspicious hermitage of Bharadvāja (_bharadvājāśramaḥ_).
 </details>
 </details>
 
@@ -2425,7 +2425,7 @@ called Pushpaka, along with the monkeys who gathered there."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And here is seen the sacred River Gaṅgā, coursing through the three worlds (tripathagā), thronged with flocks of varied birds (nānādvijagaṇākīrṇā) and bordered by groves in full blossom (samprapuṣpitakānanā).
+“And here is seen the sacred River Gaṅgā, coursing through the three worlds (_tripathagā_), thronged with flocks of varied birds (_nānādvijagaṇākīrṇā_) and bordered by groves in full blossom (_samprapuṣpitakānanā_).
 </details>
 </details>
 
@@ -2482,7 +2482,7 @@ will be able to see Rama, without any obstacle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this is Śṛṅgaverapura, where dwells my friend Guha; and yonder, O Sītā, is seen the River Sarayū, garlanded with sacrificial posts (yūpamālinī).
+“And this is Śṛṅgaverapura, where dwells my friend Guha; and yonder, O Sītā, is seen the River Sarayū, garlanded with sacrificial posts (_yūpamālinī_).
 </details>
 </details>
 
@@ -2555,7 +2555,7 @@ enraptured his mind: 'My desire has been fulfilled indeed after a long time'."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yonder, O Sītā, is seen the royal capital (rājadhānī) of my father! Having returned once more (punar āgatā), O Vaidehī, offer your salutation (kuru praṇāmam) unto Ayodhyā!”
+“Yonder, O Sītā, is seen the royal capital (_rājadhānī_) of my father! Having returned once more (_punar āgatā_), O Vaidehī, offer your salutation (_kuru praṇāmam_) unto Ayodhyā!”
 </details>
 </details>
 

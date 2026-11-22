@@ -100,9 +100,9 @@ rolling on ground, Seetha rolled on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Speaking thus, the young daughter of Janaka (bālā janakātmajā), her face streaming with incessant tears (prasaktāśrumukhī) and her head bowed low (adhogatamukhī), began to lament (vilaptum upacakrame).
+**1:** Speaking thus, the young daughter of Janaka (_bālā janakātmajā_), her face streaming with incessant tears (_prasaktāśrumukhī_) and her head bowed low (_adhogatamukhī_), began to lament (_vilaptum upacakrame_).
 
-**2:** Grieving like one possessed (unmatteva), like one distraught (pramatteva), like one whose mind is bewildered (bhrāntacitteva), she writhed upon the ground (viceṣṭantī mahītale) like a rolling filly (upāvṛttā kiśorīva):
+**2:** Grieving like one possessed (_unmatteva_), like one distraught (_pramatteva_), like one whose mind is bewildered (_bhrāntacitteva_), she writhed upon the ground (_viceṣṭantī mahītale_) like a rolling filly (_upāvṛttā kiśorīva_):
 </details>
 </details>
 
@@ -148,7 +148,7 @@ overpowered by the ogre Ravana who can wear desired form."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While Rāghava was off his guard (rāghavasya pramattasya), I was forcibly carried off, crying aloud (ānītā krośatī balāt), after being harassed (pramathya) by the rākṣasa Rāvaṇa, who assumes any form at will (kāmarūpiṇā).
+“While Rāghava was off his guard (_rāghavasya pramattasya_), I was forcibly carried off, crying aloud (_ānītā krośatī balāt_), after being harassed (_pramathya_) by the rākṣasa Rāvaṇa, who assumes any form at will (_kāmarūpiṇā_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ by grief, I do not desire to live."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fallen under the power of the ogresses (rākṣasīvaśam āpannā) and reviled most cruelly (bhartsyamānā ca dāruṇam), brooding and sorely afflicted with sorrow, I cannot bear to live (nāhaṃ jīvitum utsahe).
+Fallen under the power of the ogresses (_rākṣasīvaśam āpannā_) and reviled most cruelly (_bhartsyamānā ca dāruṇam_), brooding and sorely afflicted with sorrow, I cannot bear to live (_nāhaṃ jīvitum utsahe_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ to me; not with wealth, not with ornaments."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For I have no use for life (nahi me jīvitenārthaḥ), nor for riches, nor for ornaments (naivārthair na ca bhūṣaṇaiḥ), while dwelling in the midst of ogresses without the great-charioteer Rāma.
+For I have no use for life (_nahi me jīvitenārthaḥ_), nor for riches, nor for ornaments (_naivārthair na ca bhūṣaṇaiḥ_), while dwelling in the midst of ogresses without the great-charioteer Rāma.
 </details>
 </details>
 
@@ -297,7 +297,7 @@ it not destroying with sorrow?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely this heart of mine is fashioned of stone (aśmasāram idaṃ nūnam), or else is ageless and immortal (ajarāmaram), since it does not shatter with grief (na duḥkhena viśīryate)!
+Surely this heart of mine is fashioned of stone (_aśmasāram idaṃ nūnam_), or else is ageless and immortal (_ajarāmaram_), since it does not shatter with grief (_na duḥkhena viśīryate_)!
 </details>
 </details>
 
@@ -360,7 +360,7 @@ me who am ignoble, who am bad wife, shame on me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie upon me, ignoble and unchaste (dhig mām anāryām asatīm), I who, bereft of him (tena vinā kṛtā), continue to live my life even for a moment, subsisting on sin (pāpajīvikā)!
+“Fie upon me, ignoble and unchaste (_dhig mām anāryām asatīm_), I who, bereft of him (_tena vinā kṛtā_), continue to live my life even for a moment, subsisting on sin (_pāpajīvikā_)!
 </details>
 </details>
 
@@ -409,7 +409,7 @@ is the interest to me in life or in comfort."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I would not touch that night-stalker Rāvaṇa (na spṛśeyaṃ niśācaram) even with my left foot (caraṇenāpi savyena)—how much less could I desire (kiṃ punar ahaṃ kāmayeyam) that execrable wretch (vigarhitam)!
+I would not touch that night-stalker Rāvaṇa (_na spṛśeyaṃ niśācaram_) even with my left foot (_caraṇenāpi savyena_)—how much less could I desire (_kiṃ punar ahaṃ kāmayeyam_) that execrable wretch (_vigarhitam_)!
 </details>
 </details>
 
@@ -465,7 +465,7 @@ not tolerate sorrow for a long time."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He does not understand my rejection (pratyākhyānaṃ na jānāti), nor does he know himself nor his own lineage (nātmānaṃ nātmanaḥ kulam), he who in his cruel nature (nṛśaṃsasvabhāvena) seeks to woo me!
+He does not understand my rejection (_pratyākhyānaṃ na jānāti_), nor does he know himself nor his own lineage (_nātmānaṃ nātmanaḥ kulam_), he who in his cruel nature (_nṛśaṃsasvabhāvena_) seeks to woo me!
 </details>
 </details>
 
@@ -519,7 +519,7 @@ desiring him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether hacked (chinnā), split (bhinnā), or torn limb from limb (prabhinnā vā), or blazing and cast into the fire (dīptā vāgnau pradīpitā), I will never wait upon Rāvaṇa (rāvaṇaṃ nopatiṣṭheyam); what is the use of your prattling so long (kiṃ pralāpena vaś ciram)?
+Whether hacked (_chinnā_), split (_bhinnā_), or torn limb from limb (_prabhinnā vā_), or blazing and cast into the fire (_dīptā vāgnau pradīpitā_), I will never wait upon Rāvaṇa (_rāvaṇaṃ nopatiṣṭheyam_); what is the use of your prattling so long (_kiṃ pralāpena vaś ciram_)?
 </details>
 </details>
 
@@ -575,7 +575,7 @@ be refused; he does not know his race."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Renowned (khyātaḥ), wise (prājñaḥ), grateful (kṛtajñaś ca), and compassionate is Rāghava (sānukrośaś ca rāghavaḥ); yet I suspect that he of noble conduct has become pitiless (niranukrośaḥ) through the exhaustion of my good fortune (madbhāgyasaṃkṣayāt).
+Renowned (_khyātaḥ_), wise (_prājñaḥ_), grateful (_kṛtajñaś ca_), and compassionate is Rāghava (_sānukrośaś ca rāghavaḥ_); yet I suspect that he of noble conduct has become pitiless (_niranukrośaḥ_) through the exhaustion of my good fortune (_madbhāgyasaṃkṣayāt_).
 </details>
 </details>
 
@@ -631,7 +631,7 @@ with your prattling for a long time?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fourteen thousand rākṣasas (rākṣasānāṃ sahasrāṇi caturdaśa) were vanquished in Janasthāna by him alone (ekenaiva nirastāni)—why then does he not come to my rescue (sa māṃ kiṃ nābhipadyate)?
+Fourteen thousand rākṣasas (_rākṣasānāṃ sahasrāṇi caturdaśa_) were vanquished in Janasthāna by him alone (_ekenaiva nirastāni_)—why then does he not come to my rescue (_sa māṃ kiṃ nābhipadyate_)?
 </details>
 </details>
 
@@ -694,7 +694,7 @@ of my fortune, I doubt He became hard hearted."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am held captive by Rāvaṇa, a rākṣasa of paltry valor (alpavīryeṇa rakṣasā); yet my husband is assuredly capable (samarthaḥ khalu me bhartā) of slaying Rāvaṇa in battle (rāvaṇaṃ hantum āhave).
+“I am held captive by Rāvaṇa, a rākṣasa of paltry valor (_alpavīryeṇa rakṣasā_); yet my husband is assuredly capable (_samarthaḥ khalu me bhartā_) of slaying Rāvaṇa in battle (_rāvaṇaṃ hantum āhave_).
 </details>
 </details>
 
@@ -747,7 +747,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He by whom Virādha, that bull among rākṣasas (rākṣasapuṃgavaḥ), was slain in battle in the Daṇḍaka forest (daṇḍakāraṇye)—why does that Rāma not come to my rescue (sa māṃ kiṃ nābhipadyate)?
+He by whom Virādha, that bull among rākṣasas (_rākṣasapuṃgavaḥ_), was slain in battle in the Daṇḍaka forest (_daṇḍakāraṇye_)—why does that Rāma not come to my rescue (_sa māṃ kiṃ nābhipadyate_)?
 </details>
 </details>
 
@@ -795,7 +795,7 @@ Ravana in a war."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Granted that this Laṅkā, standing in the midst of the ocean (madhye samudrasya), is hard to assail (duṣpradharṣaṇā); yet there will be no obstruction to the flight of Rāghava's arrows (rāghavabāṇānāṃ gatirodho bhaviṣyati).
+Granted that this Laṅkā, standing in the midst of the ocean (_madhye samudrasya_), is hard to assail (_duṣpradharṣaṇā_); yet there will be no obstruction to the flight of Rāghava&#x27;s arrows (_rāghavabāṇānāṃ gatirodho bhaviṣyati_).
 </details>
 </details>
 
@@ -844,7 +844,7 @@ He not saving me?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-What then can be that reason (kiṃ nu tat kāraṇam) whereby Rāma of firm valor (dṛḍhaparākramaḥ) does not rescue his beloved wife (bhāryām iṣṭām) carried off by a rākṣasa?
+What then can be that reason (_kiṃ nu tat kāraṇam_) whereby Rāma of firm valor (_dṛḍhaparākramaḥ_) does not rescue his beloved wife (_bhāryām iṣṭām_) carried off by a rākṣasa?
 </details>
 </details>
 
@@ -893,7 +893,7 @@ be an obstacle to flying of Rama's arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I suspect that Lakṣmaṇa's elder brother does not know that I am here (ihasthāṃ māṃ na jānīte); for even if he knew, would that fiery hero tolerate this outrage (dharṣaṇāṃ marṣayiṣyati)?
+I suspect that Lakṣmaṇa&#x27;s elder brother does not know that I am here (_ihasthāṃ māṃ na jānīte_); for even if he knew, would that fiery hero tolerate this outrage (_dharṣaṇāṃ marṣayiṣyati_)?
 </details>
 </details>
 
@@ -948,7 +948,7 @@ by an ogre."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even that king of vultures (gṛdhrarājo 'pi saḥ), who, having learned that I was abducted (hṛteti mām adhigatya), would have reported it to Rāghava (rāghavāya nivedayet), was struck down in battle by Rāvaṇa (raṇe rāvaṇena nipātitaḥ).
+Even that king of vultures (_gṛdhrarājo &#x27;pi saḥ_), who, having learned that I was abducted (_hṛteti mām adhigatya_), would have reported it to Rāghava (_rāghavāya nivedayet_), was struck down in battle by Rāvaṇa (_raṇe rāvaṇena nipātitaḥ_).
 </details>
 </details>
 
@@ -1011,7 +1011,7 @@ Rama tolerate this outrage?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A mighty deed was performed (kṛtaṃ karma mahat) by that aged Jaṭāyus (vṛddhenāpi jaṭāyuṣā), who came to my rescue then (māṃ tathābhyavapadyatā) and stood firm to slay Rāvaṇa (tiṣṭhatā rāvaṇavadhe)!
+“A mighty deed was performed (_kṛtaṃ karma mahat_) by that aged Jaṭāyus (_vṛddhenāpi jaṭāyuṣā_), who came to my rescue then (_māṃ tathābhyavapadyatā_) and stood firm to slay Rāvaṇa (_tiṣṭhatā rāvaṇavadhe_)!
 </details>
 </details>
 
@@ -1066,7 +1066,7 @@ has been killed by Ravana in war."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If indeed Rāghava knew that I was abiding here (yadi mām iha jānīyād vartamānām), today in his wrath he would rid the world of rākṣasas (kuryāl lokam arākṣasam) with his arrows!
+If indeed Rāghava knew that I was abiding here (_yadi mām iha jānīyād vartamānām_), today in his wrath he would rid the world of rākṣasas (_kuryāl lokam arākṣasam_) with his arrows!
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ a dual combat with Ravana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He would burn down the city of Laṅkā (nirdahec ca purīṃ laṅkām) and dry up the great ocean (nirdahec ca mahodadhim), and he would blot out the fame and very name (kīrtiṃ nāma ca nāśayet) of base Rāvaṇa!
+He would burn down the city of Laṅkā (_nirdahec ca purīṃ laṅkām_) and dry up the great ocean (_nirdahec ca mahodadhim_), and he would blot out the fame and very name (_kīrtiṃ nāma ca nāśayet_) of base Rāvaṇa!
 </details>
 </details>
 
@@ -1143,7 +1143,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in every house (gṛhe gṛhe) of the ogresses whose lords have been slain (nihatanāthānāṃ rākṣasīnām), even as I weep thus today, so shall they weep yet more (tathā bhūyo na saṃśayaḥ)—there is no doubt!
+Then, in every house (_gṛhe gṛhe_) of the ogresses whose lords have been slain (_nihatanāthānāṃ rākṣasīnām_), even as I weep thus today, so shall they weep yet more (_tathā bhūyo na saṃśayaḥ_)—there is no doubt!
 </details>
 </details>
 
@@ -1169,7 +1169,7 @@ Then, in every house (gṛhe gṛhe) of the ogresses whose lords have been slain
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having searched out Laṅkā, Rāma together with Lakṣmaṇa (rāmaḥ salakṣmaṇaḥ) would work the destruction of the rākṣasas (rakṣasāṃ kuryāt); for no foe beheld by those two (tābhyāṃ ripur dṛṣṭaḥ) lives even for an hour (muhūrtam api jīvati)!
+Having searched out Laṅkā, Rāma together with Lakṣmaṇa (_rāmaḥ salakṣmaṇaḥ_) would work the destruction of the rākṣasas (_rakṣasāṃ kuryāt_); for no foe beheld by those two (_tābhyāṃ ripur dṛṣṭaḥ_) lives even for an hour (_muhūrtam api jīvati_)!
 </details>
 </details>
 
@@ -1260,7 +1260,7 @@ will cry again and again. There is no doubt in this."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its thoroughfares choked by funeral-pyre smoke (citādhūmākulapathā) and decked with flocks of vultures (gṛdhramaṇḍalamaṇḍitā), within no long time (acireṇaiva kālena) [Laṅkā] would become like a cremation ground (śmaśānasadṛśī bhavet)!
+With its thoroughfares choked by funeral-pyre smoke (_citādhūmākulapathā_) and decked with flocks of vultures (_gṛdhramaṇḍalamaṇḍitā_), within no long time (_acireṇaiva kālena_) [Laṅkā] would become like a cremation ground (_śmaśānasadṛśī bhavet_)!
 </details>
 </details>
 
@@ -1317,7 +1317,7 @@ those two will indeed not live even for a moment."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Within no long time I shall attain this heart's desire (prāpsyāmy enaṃ manoratham)! This impending ruin of all of you (sarveṣāṃ vo viparyayaḥ), born of evil conduct (duṣprasthānaḥ), clearly appears before me.
+“Within no long time I shall attain this heart&#x27;s desire (_prāpsyāmy enaṃ manoratham_)! This impending ruin of all of you (_sarveṣāṃ vo viparyayaḥ_), born of evil conduct (_duṣprasthānaḥ_), clearly appears before me.
 </details>
 </details>
 
@@ -1371,7 +1371,7 @@ crowded with a group of vultures."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such are the inauspicious portents (yādṛśāni ... aśubhāni) now seen in Laṅkā that within no long time she shall be stripped of her splendor (bhaviṣyati hataprabhā)!
+Such are the inauspicious portents (_yādṛśāni ... aśubhāni_) now seen in Laṅkā that within no long time she shall be stripped of her splendor (_bhaviṣyati hataprabhā_)!
 </details>
 </details>
 
@@ -1426,7 +1426,7 @@ all."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely, when wicked Rāvaṇa, overlord of the rākṣasas, is slain (hate pāpe rāvaṇe), unassailable Laṅkā shall wither away (śoṣam eṣyati durdharṣā) like a widowed woman (pramadā vidhavā yathā)!
+Surely, when wicked Rāvaṇa, overlord of the rākṣasas, is slain (_hate pāpe rāvaṇe_), unassailable Laṅkā shall wither away (_śoṣam eṣyati durdharṣā_) like a widowed woman (_pramadā vidhavā yathā_)!
 </details>
 </details>
 
@@ -1481,7 +1481,7 @@ will become deprived of glory."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Once rich in auspicious festivals (puṇyotsavasamṛddhā ca), the city of Laṅkā, together with her rākṣasas (sarākṣasā), shall become bereft of her lord (naṣṭabhartrī), like a woman who has lost her husband (naṣṭabhartrī yathāṅganā).
+Once rich in auspicious festivals (_puṇyotsavasamṛddhā ca_), the city of Laṅkā, together with her rākṣasas (_sarākṣasā_), shall become bereft of her lord (_naṣṭabhartrī_), like a woman who has lost her husband (_naṣṭabhartrī yathāṅganā_).
 </details>
 </details>
 
@@ -1536,7 +1536,7 @@ will get drying up like a woman who lost husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely before long (nacirād eva) I shall hear in every house (gṛhe gṛhe) the wailing sound (dhvanim) of rākṣasa maidens weeping here, afflicted with grief (duḥkhārtānām iha)!
+Surely before long (_nacirād eva_) I shall hear in every house (_gṛhe gṛhe_) the wailing sound (_dhvanim_) of rākṣasa maidens weeping here, afflicted with grief (_duḥkhārtānām iha_)!
 </details>
 </details>
 
@@ -1592,7 +1592,7 @@ become like a woman with lost husband."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Plunged into darkness (sāndhakārā), her radiance extinguished (hatadyotā) and her foremost rākṣasa warriors slain (hatarākṣasapuṃgavā), the city of Laṅkā shall be burned down by Rāma's arrows (nirdagdhā rāmasāyakaiḥ)—
+Plunged into darkness (_sāndhakārā_), her radiance extinguished (_hatadyotā_) and her foremost rākṣasa warriors slain (_hatarākṣasapuṃgavā_), the city of Laṅkā shall be burned down by Rāma&#x27;s arrows (_nirdagdhā rāmasāyakaiḥ_)—
 </details>
 </details>
 
@@ -1648,7 +1648,7 @@ tormented by grief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—if only that heroic Rāma of red-cornered eyes (rāmo raktāntalocanaḥ) knew that I was abiding in the dwelling of the rākṣasa (rākṣasasya niveśane)!
+—if only that heroic Rāma of red-cornered eyes (_rāmo raktāntalocanaḥ_) knew that I was abiding in the dwelling of the rākṣasa (_rākṣasasya niveśane_)!
 </details>
 </details>
 
@@ -1677,7 +1677,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The time of that respite (samayo yas tu nirdiṣṭas tasya kālo 'yam āgataḥ) which was appointed for me by this cruel, base Rāvaṇa has now arrived.
+The time of that respite (_samayo yas tu nirdiṣṭas tasya kālo &#x27;yam āgataḥ_) which was appointed for me by this cruel, base Rāvaṇa has now arrived.
 </details>
 </details>
 
@@ -1744,7 +1744,7 @@ with killed best ogres."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And my death, ordained by that wicked one (sa ca me vihito mṛtyur asmin duṣṭena vartate), is now at hand among night-stalkers, evildoers who do not know what ought not to be done (akāryaṃ ye na jānanti).
+And my death, ordained by that wicked one (_sa ca me vihito mṛtyur asmin duṣṭena vartate_), is now at hand among night-stalkers, evildoers who do not know what ought not to be done (_akāryaṃ ye na jānanti_).
 </details>
 </details>
 
@@ -1782,7 +1782,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From their unrighteousness a great calamity (adharmāt tu mahotpāto bhaviṣyati hi sāmpratam) shall surely arise now; for these flesh-eating rākṣasas (rākṣasāḥ piśitāśanāḥ) do not know dharma.
+From their unrighteousness a great calamity (_adharmāt tu mahotpāto bhaviṣyati hi sāmpratam_) shall surely arise now; for these flesh-eating rākṣasas (_rākṣasāḥ piśitāśanāḥ_) do not know dharma.
 </details>
 </details>
 
@@ -1810,7 +1810,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assuredly the rākṣasa will prepare me for his morning meal (dhruvaṃ māṃ prātarāśārthaṃ rākṣasaḥ kalpayiṣyati)! What then shall I do (sāhaṃ kathaṃ kariṣyāmi) without that lord of pleasing aspect (taṃ vinā priyadarśanam)?
+Assuredly the rākṣasa will prepare me for his morning meal (_dhruvaṃ māṃ prātarāśārthaṃ rākṣasaḥ kalpayiṣyati_)! What then shall I do (_sāhaṃ kathaṃ kariṣyāmi_) without that lord of pleasing aspect (_taṃ vinā priyadarśanam_)?
 </details>
 </details>
 
@@ -1876,7 +1876,7 @@ there will be a great calamity. These meat eating ogres do not know virtue."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Not beholding Rāma of red-cornered eyes (raktāntanayanam apaśyantī) and sorely afflicted with grief, may I swiftly behold the god Vaivasvata [Yama] (kṣipraṃ vaivasvataṃ devaṃ paśyeyam), bereft as I am of my husband (patinā vinā)!
+Not beholding Rāma of red-cornered eyes (_raktāntanayanam apaśyantī_) and sorely afflicted with grief, may I swiftly behold the god Vaivasvata [Yama] (_kṣipraṃ vaivasvataṃ devaṃ paśyeyam_), bereft as I am of my husband (_patinā vinā_)!
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That Rāma, elder brother of Bharata (bharatapūrvajaḥ), does not know that I am alive (nājānāj jīvatīṃ mām); for if those two knew (jānantau tu), they would not fail to make a thorough search over the earth (na kuryātāṃ norvyāṃ hi parimārgaṇam)!
+“That Rāma, elder brother of Bharata (_bharatapūrvajaḥ_), does not know that I am alive (_nājānāj jīvatīṃ mām_); for if those two knew (_jānantau tu_), they would not fail to make a thorough search over the earth (_na kuryātāṃ norvyāṃ hi parimārgaṇam_)!
 </details>
 </details>
 
@@ -1994,7 +1994,7 @@ the god Yama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely out of grief for me alone (nūnaṃ mamaiva śokena), that heroic elder brother of Lakṣmaṇa (sa vīro lakṣmaṇāgrajaḥ) has departed hence to the world of the gods (devalokam ito yātaḥ), having abandoned his body on the earth!
+Surely out of grief for me alone (_nūnaṃ mamaiva śokena_), that heroic elder brother of Lakṣmaṇa (_sa vīro lakṣmaṇāgrajaḥ_) has departed hence to the world of the gods (_devalokam ito yātaḥ_), having abandoned his body on the earth!
 </details>
 </details>
 
@@ -2050,7 +2050,7 @@ it cannot be said that they will not do my search on earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blessed are the gods together with the gandharvas, the siddhas, and the supreme sages (dhanyā devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ), who now behold my heroic, lotus-eyed Rāma (mama paśyanti ye vīraṃ rāmaṃ rājīvalocanam)!
+Blessed are the gods together with the gandharvas, the siddhas, and the supreme sages (_dhanyā devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ_), who now behold my heroic, lotus-eyed Rāma (_mama paśyanti ye vīraṃ rāmaṃ rājīvalocanam_)!
 </details>
 </details>
 
@@ -2105,7 +2105,7 @@ earth has gone to celestial world. This is certain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else, that wise royal sage Rāma (rāmasya rājarṣeḥ), whose sole desire is dharma (dharmakāmasya dhīmataḥ) and who is the Supreme Self (paramātmanaḥ), has no need of me as a wife (nahi tasyārtho ... mayā ... bhāryayā)!
+Or else, that wise royal sage Rāma (_rāmasya rājarṣeḥ_), whose sole desire is dharma (_dharmakāmasya dhīmataḥ_) and who is the Supreme Self (_paramātmanaḥ_), has no need of me as a wife (_nahi tasyārtho ... mayā ... bhāryayā_)!
 </details>
 </details>
 
@@ -2161,7 +2161,7 @@ with Gandharvas and great sages are fortunate."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Affection exists toward one who is seen (dṛśyamāne bhavet prītiḥ); there is no attachment for one who does not see (sauhṛdaṃ nāsty adṛśyataḥ). Yet only the ungrateful destroy [affection] (nāśayanti kṛtaghnās tu); Rāma will never destroy it (na rāmo nāśayiṣyati)!
+Affection exists toward one who is seen (_dṛśyamāne bhavet prītiḥ_); there is no attachment for one who does not see (_sauhṛdaṃ nāsty adṛśyataḥ_). Yet only the ungrateful destroy [affection] (_nāśayanti kṛtaghnās tu_); Rāma will never destroy it (_na rāmo nāśayiṣyati_)!
 </details>
 </details>
 
@@ -2225,7 +2225,7 @@ there is no use with me, his wife."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or are there some faults in me (kiṃ vā mayy aguṇāḥ kecit), or is it indeed the exhaustion of my good fortune (kiṃ vā bhāgyakṣayo hi me), that I, Sītā, a spirited lady (bhāminī), am bereft of Rāma, who is worthy of the choicest boons (varārheṇa hīnā rāmeṇa)?
+“Or are there some faults in me (_kiṃ vā mayy aguṇāḥ kecit_), or is it indeed the exhaustion of my good fortune (_kiṃ vā bhāgyakṣayo hi me_), that I, Sītā, a spirited lady (_bhāminī_), am bereft of Rāma, who is worthy of the choicest boons (_varārheṇa hīnā rāmeṇa_)?
 </details>
 </details>
 
@@ -2281,7 +2281,7 @@ not see. Ungrateful ones destroy frindship. But Rama will not destroy friendship
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Better for me is dying than living (śreyo me jīvitān martum), bereft as I am of the great-souled Rāma (vihīnāyā mahātmanā rāmāt), of unblemished conduct (akliṣṭacāritrāt), heroic, the destroyer of foes (śūrāc chatrunibarhaṇāt)!
+Better for me is dying than living (_śreyo me jīvitān martum_), bereft as I am of the great-souled Rāma (_vihīnāyā mahātmanā rāmāt_), of unblemished conduct (_akliṣṭacāritrāt_), heroic, the destroyer of foes (_śūrāc chatrunibarhaṇāt_)!
 </details>
 </details>
 
@@ -2337,7 +2337,7 @@ or has my fortune diminished."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else those two brothers, best of men (bhrātarau hi naraśreṣṭhau), have laid aside their weapons in the forest (nyastaśastrau tau vane) and wander as forest-dwellers subsisting on roots and fruits (mūlaphalāśanau ... vanagocarau)!
+Or else those two brothers, best of men (_bhrātarau hi naraśreṣṭhau_), have laid aside their weapons in the forest (_nyastaśastrau tau vane_) and wander as forest-dwellers subsisting on roots and fruits (_mūlaphalāśanau ... vanagocarau_)!
 </details>
 </details>
 
@@ -2393,7 +2393,7 @@ great soul, more than living, death is good."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else those two heroic brothers Rāma and Lakṣmaṇa (śūrau bhrātarau rāmalakṣmaṇau) have been slain by treachery (chadmanā ghātitau) by the wicked-souled Rāvaṇa, lord of the rākṣasas (rākṣasendreṇa rāvaṇena durātmanā)!
+Or else those two heroic brothers Rāma and Lakṣmaṇa (_śūrau bhrātarau rāmalakṣmaṇau_) have been slain by treachery (_chadmanā ghātitau_) by the wicked-souled Rāvaṇa, lord of the rākṣasas (_rākṣasendreṇa rāvaṇena durātmanā_)!
 </details>
 </details>
 
@@ -2457,7 +2457,7 @@ of forest eating roots and fruits."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At such a time as this (evaṃvidhe kāle), I wish by all means to die (martum icchāmi sarvataḥ); yet death is not ordained for me (na ca me vihito mṛtyuḥ) even while this grief exceeds all bounds (asmin duḥkhe 'tivartati)!
+“At such a time as this (_evaṃvidhe kāle_), I wish by all means to die (_martum icchāmi sarvataḥ_); yet death is not ordained for me (_na ca me vihito mṛtyuḥ_) even while this grief exceeds all bounds (_asmin duḥkhe &#x27;tivartati_)!
 </details>
 </details>
 
@@ -2511,7 +2511,7 @@ Ravana by deceit."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blessed indeed are the great-souled sages (dhanyāḥ khalu mahātmāno munayaḥ), revered for truth (satyasammatāḥ), who have conquered their minds (jitātmānaḥ) and are supremely fortunate (mahābhāgāḥ), for whom neither the dear nor the undear exists (yeṣāṃ na staḥ priyāpriye)!
+Blessed indeed are the great-souled sages (_dhanyāḥ khalu mahātmāno munayaḥ_), revered for truth (_satyasammatāḥ_), who have conquered their minds (_jitātmānaḥ_) and are supremely fortunate (_mahābhāgāḥ_), for whom neither the dear nor the undear exists (_yeṣāṃ na staḥ priyāpriye_)!
 </details>
 </details>
 
@@ -2568,7 +2568,7 @@ death is not bestowed on me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From the dear no sorrow arises [for them], nor from the undear does greater [sorrow] arise (priyān na sambhaved duḥkham apriyād adhikaṃ bhavet); for they are disjoined from both (tābhyāṃ hi te viyujyante)—salutations to those great-souled ones (namas teṣāṃ mahātmanām)!
+From the dear no sorrow arises [for them], nor from the undear does greater [sorrow] arise (_priyān na sambhaved duḥkham apriyād adhikaṃ bhavet_); for they are disjoined from both (_tābhyāṃ hi te viyujyante_)—salutations to those great-souled ones (_namas teṣāṃ mahātmanām_)!
 </details>
 </details>
 
@@ -2634,7 +2634,7 @@ are indeed fortunate to whom there is no pleasure and displeasure."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Forsaken by my beloved Rāma himself, who knows the Self (tyaktā priyeṇaiva rāmeṇa viditātmanā), and fallen under the power of wicked Rāvaṇa (pāpasya rāvaṇasya gatā vaśam), I shall now abandon my life-breaths (prāṇāṃs tyakṣyāmi)!”
+Forsaken by my beloved Rāma himself, who knows the Self (_tyaktā priyeṇaiva rāmeṇa viditātmanā_), and fallen under the power of wicked Rāvaṇa (_pāpasya rāvaṇasya gatā vaśam_), I shall now abandon my life-breaths (_prāṇāṃs tyakṣyāmi_)!”
 </details>
 </details>
 

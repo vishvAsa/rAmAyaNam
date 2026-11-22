@@ -57,9 +57,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Thereupon, accompanied by his six ministers ever flushed with strength (sacivaiḥ sārdhaṃ ṣaḍbhir nityaṃ baloddhataiḥ)—Mahodara and Prahasta, Mārīca, Śuka, and Sāraṇa (mahodara-prahastābhyāṃ mārīca-śuka-sāraṇaiḥ),
+**1:** Thereupon, accompanied by his six ministers ever flushed with strength (_sacivaiḥ sārdhaṃ ṣaḍbhir nityaṃ baloddhataiḥ_)—Mahodara and Prahasta, Mārīca, Śuka, and Sāraṇa (_mahodara-prahastābhyāṃ mārīca-śuka-sāraṇaiḥ_),
 
-**2:** And surrounded by the heroic Dhūmrākṣa (dhūmrākṣeṇa ca vīreṇa), ever eager for battle (nityaṃ samara-gṛdhnunā), the splendid Rāvaṇa marched forth (saṃprayayau śrīmān) as though burning up the worlds in his wrath (krodhāl lokān dahann iva).
+**2:** And surrounded by the heroic Dhūmrākṣa (_dhūmrākṣeṇa ca vīreṇa_), ever eager for battle (_nityaṃ samara-gṛdhnunā_), the splendid Rāvaṇa marched forth (_saṃprayayau śrīmān_) as though burning up the worlds in his wrath (_krodhāl lokān dahann iva_).
 </details>
 </details>
 
@@ -90,7 +90,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Passing over cities, rivers, mountains, forests, and pleasure-groves (purāṇi sa nadīḥ śailān vanāny upavanāni ca), he reached Mount Kailāsa in a single moment (atikramya muhūrtena kailāsaṃ girim āgamat).
+Passing over cities, rivers, mountains, forests, and pleasure-groves (_purāṇi sa nadīḥ śailān vanāny upavanāni ca_), he reached Mount Kailāsa in a single moment (_atikramya muhūrtena kailāsaṃ girim āgamat_).
 </details>
 </details>
 
@@ -125,9 +125,9 @@ Passing over cities, rivers, mountains, forests, and pleasure-groves (purāṇi 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Hearing that the wicked-souled lord of Rākṣasas (rākṣasendraṃ ... durātmānam) had encamped upon that mountain (sanniviṣṭaṃ girau tasmin), accompanied by his ministers (sa-mantriṇam) and fiercely eager for war (yuddhe ’tyartha-kṛtotsāham),
+**4:** Hearing that the wicked-souled lord of Rākṣasas (_rākṣasendraṃ ... durātmānam_) had encamped upon that mountain (_sanniviṣṭaṃ girau tasmin_), accompanied by his ministers (_sa-mantriṇam_) and fiercely eager for war (_yuddhe ’tyartha-kṛtotsāham_),
 
-**5:** The Yakṣas could not stand forth to confront that Rākṣasa (yakṣā na śekuḥ saṃsthātuṃ pramukhe tasya rakṣasaḥ); recognizing him as their king’s own brother (rājño bhrāteti vijñāya), they repaired to where the Lord of Wealth was (gatā yatra dhaneśvaraḥ).
+**5:** The Yakṣas could not stand forth to confront that Rākṣasa (_yakṣā na śekuḥ saṃsthātuṃ pramukhe tasya rakṣasaḥ_); recognizing him as their king’s own brother (_rājño bhrāteti vijñāya_), they repaired to where the Lord of Wealth was (_gatā yatra dhaneśvaraḥ_).
 </details>
 </details>
 
@@ -158,7 +158,7 @@ Passing over cities, rivers, mountains, forests, and pleasure-groves (purāṇi 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having gone there, they reported everything that his brother intended to do (sarvam ācakhyur bhrātus tasya cikīrṣitam); and once authorized by Dhanada [Kubera] (anujñātā ... dhanadena), they marched forth exultantly to battle (yayur hṛṣṭā yuddhāya).
+Having gone there, they reported everything that his brother intended to do (_sarvam ācakhyur bhrātus tasya cikīrṣitam_); and once authorized by Dhanada [Kubera] (_anujñātā ... dhanadena_), they marched forth exultantly to battle (_yayur hṛṣṭā yuddhāya_).
 </details>
 </details>
 
@@ -197,7 +197,7 @@ Kubera’s hosts surge forth like an ocean shaking Kailāsa and unsettle Rāva�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the surging tumult of the armies of that lord of the Nairṛtas [Kubera] (balānāṃ saṅkṣobhaḥ ... tasya nairṛta-rājasya) swelled like that of the mighty ocean (vyavardhata mahodadheḥ), as though making the mountain quake (śailaṃ sañcālayann iva).
+Then the surging tumult of the armies of that lord of the Nairṛtas [Kubera] (_balānāṃ saṅkṣobhaḥ ... tasya nairṛta-rājasya_) swelled like that of the mighty ocean (_vyavardhata mahodadheḥ_), as though making the mountain quake (_śailaṃ sañcālayann iva_).
 </details>
 </details>
 
@@ -228,7 +228,7 @@ Then the surging tumult of the armies of that lord of the Nairṛtas [Kubera] (b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon a tumultuous battle erupted, thronged with Yakṣas and Rākṣasas (yuddhaṃ samabhavad yakṣa-rākṣasa-saṅkulam), and those ministers of the Rākṣasa (sacivā rākṣasasya te) were thrown into distress there (vyathitāś cābhavaṃs tatra).
+Thereupon a tumultuous battle erupted, thronged with Yakṣas and Rākṣasas (_yuddhaṃ samabhavad yakṣa-rākṣasa-saṅkulam_), and those ministers of the Rākṣasa (_sacivā rākṣasasya te_) were thrown into distress there (_vyathitāś cābhavaṃs tatra_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ Thereupon a tumultuous battle erupted, thronged with Yakṣas and Rākṣasas (y
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding such a vast army (sa dṛṣṭvā tādṛśaṃ sainyam), the night-roamer Daśagrīva (daśagrīvo niśācaraḥ) uttered repeated roars of fierce exultation (harṣa-nādān bahūn kṛtvā) and charged forward in wrath (krodhād abhyadhāvata).
+Beholding such a vast army (_sa dṛṣṭvā tādṛśaṃ sainyam_), the night-roamer Daśagrīva (_daśagrīvo niśācaraḥ_) uttered repeated roars of fierce exultation (_harṣa-nādān bahūn kṛtvā_) and charged forward in wrath (_krodhād abhyadhāvata_).
 </details>
 </details>
 
@@ -290,7 +290,7 @@ Beholding such a vast army (sa dṛṣṭvā tādṛśaṃ sainyam), the night-r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As for those dreadfully valorous ministers of the Rākṣasa lord (rākṣasendrasya sacivā ghora-vikramāḥ), a thousand Yakṣas engaged each single one of them in combat (teṣāṃ sahasram ekaikaṃ yakṣāṇāṃ samayodhayan).
+As for those dreadfully valorous ministers of the Rākṣasa lord (_rākṣasendrasya sacivā ghora-vikramāḥ_), a thousand Yakṣas engaged each single one of them in combat (_teṣāṃ sahasram ekaikaṃ yakṣāṇāṃ samayodhayan_).
 </details>
 </details>
 
@@ -325,9 +325,9 @@ As for those dreadfully valorous ministers of the Rākṣasa lord (rākṣasendr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Struck from every side by maces, pestles, swords, spears, and lances (gadābhir musalair asibhiḥ śakti-tomaraiḥ hanyamānaḥ), Daśagrīva plunged straight into that host (tat sainyaṃ samagāhata).
+**11:** Struck from every side by maces, pestles, swords, spears, and lances (_gadābhir musalair asibhiḥ śakti-tomaraiḥ hanyamānaḥ_), Daśagrīva plunged straight into that host (_tat sainyaṃ samagāhata_).
 
-**12:** Battered there until left as though breathless (nirucchvāsavat tatra vadhyamānaḥ), the ten-faced Rāvaṇa (daśānanaḥ) was hemmed in by showers of missiles (dhārābhir avarudhyata), as though by torrents from pouring rainclouds (varṣadbhir iva jīmūtaiḥ).
+**12:** Battered there until left as though breathless (_nirucchvāsavat tatra vadhyamānaḥ_), the ten-faced Rāvaṇa (_daśānanaḥ_) was hemmed in by showers of missiles (_dhārābhir avarudhyata_), as though by torrents from pouring rainclouds (_varṣadbhir iva jīmūtaiḥ_).
 </details>
 </details>
 
@@ -369,7 +369,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by the weapons of the Yakṣas (yakṣa-śastraiḥ samāhataḥ), he felt no pain whatsoever (na cakāra vyathāṃ caiva), like a mountain drenched by hundreds of torrents from rainclouds (mahīdhara ivāmbhodair dhārā-śata-samukṣitaḥ).
+Struck by the weapons of the Yakṣas (_yakṣa-śastraiḥ samāhataḥ_), he felt no pain whatsoever (_na cakāra vyathāṃ caiva_), like a mountain drenched by hundreds of torrents from rainclouds (_mahīdhara ivāmbhodair dhārā-śata-samukṣitaḥ_).
 </details>
 </details>
 
@@ -400,7 +400,7 @@ Struck by the weapons of the Yakṣas (yakṣa-śastraiḥ samāhataḥ), he fel
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lifting high a mace resembling the rod of Death (samudyamya kāla-daṇḍopamāṃ gadām), that wicked-souled one (sa durātmā) thereupon penetrated the army (praviveśa tataḥ sainyam), dispatching Yakṣas to Yama’s abode (nayan yakṣān yama-kṣayam).
+Lifting high a mace resembling the rod of Death (_samudyamya kāla-daṇḍopamāṃ gadām_), that wicked-souled one (_sa durātmā_) thereupon penetrated the army (_praviveśa tataḥ sainyam_), dispatching Yakṣas to Yama’s abode (_nayan yakṣān yama-kṣayam_).
 </details>
 </details>
 
@@ -431,7 +431,7 @@ Lifting high a mace resembling the rod of Death (samudyamya kāla-daṇḍopamā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Like a fire fanned fiercely by the wind (vātenāgnir ivāyattaḥ) consuming a wide expanse of dry brushwood (kakṣam iva vistīrṇam) dense with parched kindling (śuṣkendhanam ivākulam), he burned up that Yakṣa army (yakṣa-sainyaṃ dadāha tat).
+Like a fire fanned fiercely by the wind (_vātenāgnir ivāyattaḥ_) consuming a wide expanse of dry brushwood (_kakṣam iva vistīrṇam_) dense with parched kindling (_śuṣkendhanam ivākulam_), he burned up that Yakṣa army (_yakṣa-sainyaṃ dadāha tat_).
 </details>
 </details>
 
@@ -462,7 +462,7 @@ Like a fire fanned fiercely by the wind (vātenāgnir ivāyattaḥ) consuming a 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And by those great ministers there, headed by Mahodara and Śuka (mahāmātyair mahodara-śukādibhiḥ), those Yakṣas were reduced to a scant remnant (alpāvaśeṣās te yakṣāḥ kṛtāḥ), like rainclouds scattered by fierce winds (vātair ivāmbudāḥ).
+And by those great ministers there, headed by Mahodara and Śuka (_mahāmātyair mahodara-śukādibhiḥ_), those Yakṣas were reduced to a scant remnant (_alpāvaśeṣās te yakṣāḥ kṛtāḥ_), like rainclouds scattered by fierce winds (_vātair ivāmbudāḥ_).
 </details>
 </details>
 
@@ -493,7 +493,7 @@ And by those great ministers there, headed by Mahodara and Śuka (mahāmātyair 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some, struck hard and shattered in limb (kecit samāhatā bhagnāḥ), fell upon the ground of battle (patitāḥ samara-kṣitau), and in their fury bit their own lips with sharp teeth (oṣṭhāṃś ca daśanais tīkṣṇair adaśan kupitā raṇe).
+Some, struck hard and shattered in limb (_kecit samāhatā bhagnāḥ_), fell upon the ground of battle (_patitāḥ samara-kṣitau_), and in their fury bit their own lips with sharp teeth (_oṣṭhāṃś ca daśanais tīkṣṇair adaśan kupitā raṇe_).
 </details>
 </details>
 
@@ -524,7 +524,7 @@ Some, struck hard and shattered in limb (kecit samāhatā bhagnāḥ), fell upon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Exhausted (śrāntāḥ), with their weapons fallen from their hands (bhraṣṭa-śastrāḥ), embracing one another upon the battlefield (anyonyam āliṅgya ... raṇājire), the Yakṣas sank down then (sīdanti ca tadā yakṣāḥ) indeed like riverbanks undercut by rushing water (kūlā iva jalena ha).
+Exhausted (_śrāntāḥ_), with their weapons fallen from their hands (_bhraṣṭa-śastrāḥ_), embracing one another upon the battlefield (_anyonyam āliṅgya ... raṇājire_), the Yakṣas sank down then (_sīdanti ca tadā yakṣāḥ_) indeed like riverbanks undercut by rushing water (_kūlā iva jalena ha_).
 </details>
 </details>
 
@@ -563,7 +563,7 @@ With the heavens crowded by ascending heroes and watching sages, Kubera sends fo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Between the slain warriors ascending to heaven (hatānāṃ gacchatāṃ svargam), those fighting upon the surface of the earth (yudhyatāṃ pṛthivī-tale), and the throngs of sages looking on (prekṣatām ṛṣi-saṅghānām), there remained no empty space in the sky (na babhūvāntaraṃ divi).
+Between the slain warriors ascending to heaven (_hatānāṃ gacchatāṃ svargam_), those fighting upon the surface of the earth (_yudhyatāṃ pṛthivī-tale_), and the throngs of sages looking on (_prekṣatām ṛṣi-saṅghānām_), there remained no empty space in the sky (_na babhūvāntaraṃ divi_).
 </details>
 </details>
 
@@ -597,7 +597,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those mighty-strengthed Yakṣa leaders broken (bhagnāṃs tu tān samālakṣya yakṣendrāṃs tu mahābalān), the mighty-armed Lord of Wealth (dhanādhyakṣo mahābāhuḥ) dispatched fresh Yakṣa warriors (preṣayāmāsa yakṣakān).
+Beholding those mighty-strengthed Yakṣa leaders broken (_bhagnāṃs tu tān samālakṣya yakṣendrāṃs tu mahābalān_), the mighty-armed Lord of Wealth (_dhanādhyakṣo mahābāhuḥ_) dispatched fresh Yakṣa warriors (_preṣayāmāsa yakṣakān_).
 </details>
 </details>
 
@@ -628,7 +628,7 @@ Beholding those mighty-strengthed Yakṣa leaders broken (bhagnāṃs tu tān sa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the meantime, O Rāma (etasminn antare rāma), dispatched with an expansive army and mounts (vistīrṇa-bala-vāhanaḥ preṣitaḥ), there swooped down a Yakṣa named Saṃyodhakaṇṭaka (nyapatad yakṣo nāmnā saṃyodha-kaṇṭakaḥ).
+In the meantime, O Rāma (_etasminn antare rāma_), dispatched with an expansive army and mounts (_vistīrṇa-bala-vāhanaḥ preṣitaḥ_), there swooped down a Yakṣa named Saṃyodhakaṇṭaka (_nyapatad yakṣo nāmnā saṃyodha-kaṇṭakaḥ_).
 </details>
 </details>
 
@@ -659,7 +659,7 @@ In the meantime, O Rāma (etasminn antare rāma), dispatched with an expansive a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck in battle by him with a discus (tena cakreṇa ... raṇe hataḥ), as though by Viṣṇu himself (viṣṇuneva), Mārīca fell from the mountain down to the earth below (patito bhūtale śailāt) like a celestial orb whose merit is exhausted (kṣīṇa-puṇya iva grahaḥ).
+Struck in battle by him with a discus (_tena cakreṇa ... raṇe hataḥ_), as though by Viṣṇu himself (_viṣṇuneva_), Mārīca fell from the mountain down to the earth below (_patito bhūtale śailāt_) like a celestial orb whose merit is exhausted (_kṣīṇa-puṇya iva grahaḥ_).
 </details>
 </details>
 
@@ -690,7 +690,7 @@ Struck in battle by him with a discus (tena cakreṇa ... raṇe hataḥ), as th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet regaining consciousness within a moment (sasañjñas tu muhūrtena) and resting briefly (viśramya), that night-roamer (niśācaraḥ) engaged that Yakṣa in combat (taṃ yakṣaṃ yodhayāmāsa), and the Yakṣa, broken, fled away (sa ca bhagnaḥ pradudruve).
+Yet regaining consciousness within a moment (_sasañjñas tu muhūrtena_) and resting briefly (_viśramya_), that night-roamer (_niśācaraḥ_) engaged that Yakṣa in combat (_taṃ yakṣaṃ yodhayāmāsa_), and the Yakṣa, broken, fled away (_sa ca bhagnaḥ pradudruve_).
 </details>
 </details>
 
@@ -721,7 +721,7 @@ Yet regaining consciousness within a moment (sasañjñas tu muhūrtena) and rest
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon he [Rāvaṇa] entered the interior of the grand gateway (toraṇāntaram āviśat), adorned with gold (kāñcana-citrāṅgam) and dusted with cat’s-eye gems (vaiḍūrya-rajasokṣitam)—the boundary line guarded by the gatekeepers (maryādāṃ pratihārāṇām).
+Thereupon he [Rāvaṇa] entered the interior of the grand gateway (_toraṇāntaram āviśat_), adorned with gold (_kāñcana-citrāṅgam_) and dusted with cat’s-eye gems (_vaiḍūrya-rajasokṣitam_)—the boundary line guarded by the gatekeepers (_maryādāṃ pratihārāṇām_).
 </details>
 </details>
 
@@ -760,7 +760,7 @@ When the gatekeeper Sūryabhānu uproots the massive gateway beam to strike him,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As that night-roamer Daśagrīva was entering (daśagrīvaṃ praviśantaṃ niśācaram), O King (rājan), a gatekeeper renowned by the name of Sūryabhānu (sūryabhānur iti khyāto dvāra-pālaḥ) barred his way (nyavārayat).
+As that night-roamer Daśagrīva was entering (_daśagrīvaṃ praviśantaṃ niśācaram_), O King (_rājan_), a gatekeeper renowned by the name of Sūryabhānu (_sūryabhānur iti khyāto dvāra-pālaḥ_) barred his way (_nyavārayat_).
 </details>
 </details>
 
@@ -795,9 +795,9 @@ As that night-roamer Daśagrīva was entering (daśagrīvaṃ praviśantaṃ ni�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**26:** Even while being checked by that Yakṣa (vāryamāṇo yakṣeṇa), the night-roamer pressed inside (praviveśa niśācaraḥ); and when, though forbidden, O Rāma (yadā tu vārito rāma), that Rākṣasa would not halt (na vyatiṣṭhat sa rākṣasaḥ),
+**26:** Even while being checked by that Yakṣa (_vāryamāṇo yakṣeṇa_), the night-roamer pressed inside (_praviveśa niśācaraḥ_); and when, though forbidden, O Rāma (_yadā tu vārito rāma_), that Rākṣasa would not halt (_na vyatiṣṭhat sa rākṣasaḥ_),
 
-**27:** Thereupon, uprooting the gateway arch-beam (tatas toraṇam utpāṭya), that Yakṣa struck him with it (tena yakṣeṇa tāḍitaḥ); streaming with blood (rudhiraṃ prasravan), Rāvaṇa shone like a mountain streaked with streams of mineral ore (bhāti śailo dhātu-sravair iva).
+**27:** Thereupon, uprooting the gateway arch-beam (_tatas toraṇam utpāṭya_), that Yakṣa struck him with it (_tena yakṣeṇa tāḍitaḥ_); streaming with blood (_rudhiraṃ prasravan_), Rāvaṇa shone like a mountain streaked with streams of mineral ore (_bhāti śailo dhātu-sravair iva_).
 </details>
 </details>
 
@@ -831,7 +831,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though struck hard by that gateway beam massive as a mountain crest (śaila-śikharābheṇa toraṇena samāhataḥ), that hero suffered no injury (jagāma na kṣatiṃ vīraḥ) on account of the boon granted by the Self-Born Brahmā (vara-dānāt svayambhuvaḥ).
+Though struck hard by that gateway beam massive as a mountain crest (_śaila-śikharābheṇa toraṇena samāhataḥ_), that hero suffered no injury (_jagāma na kṣatiṃ vīraḥ_) on account of the boon granted by the Self-Born Brahmā (_vara-dānāt svayambhuvaḥ_).
 </details>
 </details>
 
@@ -862,7 +862,7 @@ Though struck hard by that gateway beam massive as a mountain crest (śaila-śik
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon that Yakṣa was struck back by him with that very same gateway beam (tenaiva toraṇenātha yakṣas tenābhitāḍitaḥ), and the Yakṣa was seen no more (nādṛśyata tadā yakṣaḥ), his body having been reduced to ash and dust (bhasmīkṛta-tanus tadā).
+Thereupon that Yakṣa was struck back by him with that very same gateway beam (_tenaiva toraṇenātha yakṣas tenābhitāḍitaḥ_), and the Yakṣa was seen no more (_nādṛśyata tadā yakṣaḥ_), his body having been reduced to ash and dust (_bhasmīkṛta-tanus tadā_).
 </details>
 </details>
 
@@ -910,7 +910,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that prowess of the Rākṣasa (dṛṣṭvā rakṣaḥ-parākramam), all of them thereupon took to flight (tataḥ pradudruvuḥ sarve); tormented by terror, they plunged into rivers and mountain caves (nadīr guhāś caiva viviśur bhaya-pīḍitāḥ), casting away their weapons (tyakta-praharaṇāḥ), exhausted (śrāntāḥ), and pale of face (vivarṇa-vadanās tadā).
+Seeing that prowess of the Rākṣasa (_dṛṣṭvā rakṣaḥ-parākramam_), all of them thereupon took to flight (_tataḥ pradudruvuḥ sarve_); tormented by terror, they plunged into rivers and mountain caves (_nadīr guhāś caiva viviśur bhaya-pīḍitāḥ_), casting away their weapons (_tyakta-praharaṇāḥ_), exhausted (_śrāntāḥ_), and pale of face (_vivarṇa-vadanās tadā_).
 </details>
 </details>
 

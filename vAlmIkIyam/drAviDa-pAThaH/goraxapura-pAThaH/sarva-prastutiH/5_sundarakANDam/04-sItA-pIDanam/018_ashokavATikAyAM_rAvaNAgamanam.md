@@ -78,7 +78,7 @@ flowers in blossom.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While he was thus surveying (viprekṣamāṇasya) the grove of blossoming trees and contemplating Vaidehī (vicinvataś ca vaidehīm), the night came to have only a little left (kiñciccheṣā niśābhavat).
+While he was thus surveying (_viprekṣamāṇasya_) the grove of blossoming trees and contemplating Vaidehī (_vicinvataś ca vaidehīm_), the night came to have only a little left (_kiñciccheṣā niśābhavat_).
 </details>
 </details>
 
@@ -127,7 +127,7 @@ of Vedas and those who performed excellent sacrifices.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the last watch of the night (virātre), he heard the Vedic recitations (brahmaghoṣān) of brahma-rākṣasas who knew the Vedas with their six auxiliary sciences (ṣaḍaṅgavedaviduṣām) and had performed the foremost Vedic sacrifices (kratupravarayājinām).
+In the last watch of the night (_virātre_), he heard the Vedic recitations (_brahmaghoṣān_) of _brahma-rākṣasas_ who knew the Vedas with their six auxiliary sciences (_ṣaḍaṅgavedaviduṣām_) and had performed the foremost Vedic sacrifices (_kratupravarayājinām_).
 </details>
 </details>
 
@@ -182,7 +182,7 @@ musical instruments pleasing to the ear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty-armed Daśagrīva of great strength was awakened (prābodhyata) by auspicious musical instruments (maṅgalavāditraiḥ) with sounds delightful to the ear (śrotramanoharaiḥ).
+Then the mighty-armed Daśagrīva of great strength was awakened (_prābodhyata_) by auspicious musical instruments (_maṅgalavāditraiḥ_) with sounds delightful to the ear (_śrotramanoharaiḥ_).
 </details>
 </details>
 
@@ -236,7 +236,7 @@ garlands remembered about Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Awakening, the lord of rākṣasas, of great fortune and fiery majesty (pratāpavān), wearing garlands and garments that had slipped awry (srastamālyāmbaradharaḥ), immediately thought of Vaidehī (vaidehīm anvacintayat).
+Awakening, the lord of _rākṣasas_, of great fortune and fiery majesty (_pratāpavān_), wearing garlands and garments that had slipped awry (_srastamālyāmbaradharaḥ_), immediately thought of Vaidehī (_vaidehīm anvacintayat_).
 </details>
 </details>
 
@@ -285,7 +285,7 @@ was not capable to suppress in self that desire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Vehemently impelled toward her (bhṛśaṃ niyuktas tasyāṃ ca) and intoxicated with passion by the god of love (madanena madotkaṭaḥ), that rākṣasa could not conceal that passion within himself (śaśākātmani gūhitum).
+Vehemently impelled toward her (_bhṛśaṃ niyuktas tasyāṃ ca_) and intoxicated with passion by the god of love (_madanena madotkaṭaḥ_), that _rākṣasa_ could not conceal that passion within himself (_śaśākātmani gūhitum_).
 </details>
 </details>
 
@@ -404,13 +404,13 @@ kinds ravishing eyes and mind, filled with animals of various kinds, together wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** Adorned with all ornaments (sarvābharaṇair yuktaḥ) and bearing peerless royal splendor (bibhrac chriyam anuttamām), he [entered] that [grove] graced with diverse trees (nagair vividhair juṣṭām) bearing every flower and fruit—
+**6:** Adorned with all ornaments (_sarvābharaṇair yuktaḥ_) and bearing peerless royal splendor (_bibhrac chriyam anuttamām_), he [entered] that [grove] graced with diverse trees (_nagair vividhair juṣṭām_) bearing every flower and fruit—
 
-**7:** Surrounded by lotus ponds (vṛtāṃ puṣkariṇībhiś ca) and graced with manifold blossoms, wondrous and variegated with ever-intoxicated birds (sadā mattaiś ca vihagaiḥ),
+**7:** Surrounded by lotus ponds (_vṛtāṃ puṣkariṇībhiś ca_) and graced with manifold blossoms, wondrous and variegated with ever-intoxicated birds (_sadā mattaiś ca vihagaiḥ_),
 
-**8:** And filled with diverse artificial beasts delightful to the eye (īhāmṛgaiś ca vividhair vṛtām), gazing upon the garden avenues (vīthīḥ samprekṣamāṇaś ca) arched with gateways of gems and gold (maṇikāñcanatoraṇām),
+**8:** And filled with diverse artificial beasts delightful to the eye (_īhāmṛgaiś ca vividhair vṛtām_), gazing upon the garden avenues (_vīthīḥ samprekṣamāṇaś ca_) arched with gateways of gems and gold (_maṇikāñcanatoraṇām_),
 
-**9:** He entered that very aśoka grove (aśokavanikām eva prāviśat), thronged with herds of diverse deer (nānāmṛgagaṇākīrṇām), strewn with fallen fruits, and thick with uninterrupted trees (saṃtatadrumām).
+**9:** He entered that very _aśoka_ grove (_aśokavanikām eva prāviśat_), thronged with herds of diverse deer (_nānāmṛgagaṇākīrṇām_), strewn with fallen fruits, and thick with uninterrupted trees (_saṃtatadrumām_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ Indra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred women (aṅganāḥ śatamātraṃ tu) followed him as he walked (taṃ vrajantam anuvrajan), just as celestial and Gandharva women follow Paulastya [Kubera] or Mahendra.
+A hundred women (_aṅganāḥ śatamātraṃ tu_) followed him as he walked (_taṃ vrajantam anuvrajan_), just as celestial and Gandharva women follow Paulastya [Kubera] or Mahendra.
 </details>
 </details>
 
@@ -506,7 +506,7 @@ leaves in their hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some women there held golden lamps (dīpikāḥ kāñcanīḥ), while others held yak-tail fans in their hands (vālavyajanahastāḥ) and palm-leaf fans (tālavṛntāni).
+Some women there held golden lamps (_dīpikāḥ kāñcanīḥ_), while others held yak-tail fans in their hands (_vālavyajanahastāḥ_) and palm-leaf fans (_tālavṛntāni_).
 </details>
 </details>
 
@@ -562,7 +562,7 @@ with circular ends.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With golden pitchers (kāñcanaiś caiva bhṛṅgāraiḥ) some carried water in front (agrataḥ), while others walked behind (pṛṣṭhato yayuḥ) holding round-edged seat-cushions (maṇḍalāgrā bṛsīś caiva).
+With golden pitchers (_kāñcanaiś caiva bhṛṅgāraiḥ_) some carried water in front (_agrataḥ_), while others walked behind (_pṛṣṭhato yayuḥ_) holding round-edged seat-cushions (_maṇḍalāgrā bṛsīś caiva_).
 </details>
 </details>
 
@@ -626,7 +626,7 @@ liqour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One dexterous woman (kācid dakṣiṇā) then took up in her very right hand (dakṣiṇenaiva pāṇinā) a radiant jeweled goblet (ratnamayīṃ pātrīṃ bhrājatīm) filled with wine (pūrṇāṃ pānasya).
+One dexterous woman (_kācid dakṣiṇā_) then took up in her very right hand (_dakṣiṇenaiva pāṇinā_) a radiant jeweled goblet (_ratnamayīṃ pātrīṃ bhrājatīm_) filled with wine (_pūrṇāṃ pānasya_).
 </details>
 </details>
 
@@ -677,7 +677,7 @@ moon with a golden handle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Another walked behind holding a golden-staffed parasol (chatraṃ sauvarṇadaṇḍam) resembling a royal swan (rājahaṃsapratīkāśam) and radiant as the full moon (pūrṇaśaśiprabham).
+Another walked behind holding a golden-staffed parasol (_chatraṃ sauvarṇadaṇḍam_) resembling a royal swan (_rājahaṃsapratīkāśam_) and radiant as the full moon (_pūrṇaśaśiprabham_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ With sleepy eyes best women of Ravana followed mighty husband like lightning fol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa's foremost women (rāvaṇasyottamastriyaḥ), their eyes heavy with sleep and intoxication (nidrāmadaparītākṣyaḥ), followed their heroic husband like streaks of lightning trailing a dark cloud (ghanaṃ vidyullatā iva).
+Rāvaṇa&#x27;s foremost women (_rāvaṇasyottamastriyaḥ_), their eyes heavy with sleep and intoxication (_nidrāmadaparītākṣyaḥ_), followed their heroic husband like streaks of lightning trailing a dark cloud (_ghanaṃ vidyullatā iva_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ Rāvaṇa's foremost women (rāvaṇasyottamastriyaḥ), their eyes heavy with s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their necklaces and armlets were displaced (vyāviddhahārakeyūrāḥ), their sandal-unguent rubbed away (samāmṛditavarṇakāḥ), their locks of hair disheveled (samāgalitakeśāntāḥ), and their faces beaded with sweat (sasvedavadanāḥ);
+Their necklaces and armlets were displaced (_vyāviddhahārakeyūrāḥ_), their sandal-unguent rubbed away (_samāmṛditavarṇakāḥ_), their locks of hair disheveled (_samāgalitakeśāntāḥ_), and their faces beaded with sweat (_sasvedavadanāḥ_);
 </details>
 </details>
 
@@ -796,7 +796,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Staggering (ghūrṇantyaḥ) from the lingering effects of wine (madaśeṣeṇa) and from sleep, those fair-faced women had the flowers on their limbs crushed with sweat (svedakliṣṭāṅgakusumāḥ) and their hair disheveled with garlands (samālyākulamūrdhajāḥ).
+Staggering (_ghūrṇantyaḥ_) from the lingering effects of wine (_madaśeṣeṇa_) and from sleep, those fair-faced women had the flowers on their limbs crushed with sweat (_svedakliṣṭāṅgakusumāḥ_) and their hair disheveled with garlands (_samālyākulamūrdhajāḥ_).
 </details>
 </details>
 
@@ -852,7 +852,7 @@ were dear wives followed that king of Rakshasas who was going due to respect and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those beloved wives (priyabhāryāḥ), women with captivating eyes (madiralocanāḥ), followed the lord of nairṛtas as he advanced, both out of high regard (bahumānāc ca) and out of passionate love (kāmāc ca).
+Those beloved wives (_priyabhāryāḥ_), women with captivating eyes (_madiralocanāḥ_), followed the lord of _nairṛtas_ as he advanced, both out of high regard (_bahumānāc ca_) and out of passionate love (_kāmāc ca_).
 </details>
 </details>
 
@@ -909,7 +909,7 @@ witted, with his mind interested in Seetha shone with a slow and beautiful gait.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And their mighty husband, wholly subservient to passion (kāmaparādhīnaḥ), with his mind fixed upon Sītā (sītāsaktamanāḥ), infatuated (mandaḥ), shone with a slow, swaying gait (mandāñcitagatir babhau).
+And their mighty husband, wholly subservient to passion (_kāmaparādhīnaḥ_), with his mind fixed upon Sītā (_sītāsaktamanāḥ_), infatuated (_mandaḥ_), shone with a slow, swaying gait (_mandāñcitagatir babhau_).
 </details>
 </details>
 
@@ -963,7 +963,7 @@ of those excellent women.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the monkey, son of Māruta, heard the tinkling sound of waist-girdles (kāñcīninādaṃ ca) and the ringing of anklets (nūpurāṇāṃ ca niḥsvanam) belonging to those supreme women (paramastrīṇām).
+Then the monkey, son of Māruta, heard the tinkling sound of waist-girdles (_kāñcīninādaṃ ca_) and the ringing of anklets (_nūpurāṇāṃ ca niḥsvanam_) belonging to those supreme women (_paramastrīṇām_).
 </details>
 </details>
 
@@ -1009,7 +1009,7 @@ might and virility, reaching the entrance region.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the monkey Hanumān beheld him—of matchless deeds (apratimakarmāṇam) and inconceivable strength and valor (acintyabalapauruṣam)—arrived at the gateway (dvāradeśam anuprāptam),
+And the monkey Hanumān beheld him—of matchless deeds (_apratimakarmāṇam_) and inconceivable strength and valor (_acintyabalapauruṣam_)—arrived at the gateway (_dvāradeśam anuprāptam_),
 </details>
 </details>
 
@@ -1060,7 +1060,7 @@ directions by many lamps.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Illuminated on all sides (samantād avabhāsitam) by numerous lamps (dīpikābhir anekābhiḥ) fed with fragrant oils (gandhatailāvasiktābhiḥ) and carried before him (dhriyamāṇābhir agrataḥ),
+Illuminated on all sides (_samantād avabhāsitam_) by numerous lamps (_dīpikābhir anekābhiḥ_) fed with fragrant oils (_gandhatailāvasiktābhiḥ_) and carried before him (_dhriyamāṇābhir agrataḥ_),
 </details>
 </details>
 
@@ -1106,7 +1106,7 @@ like the god of love in person with bow kept at a distance.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with passion, pride, and intoxication (kāmadarpamadair yuktam), with obliquely glancing, coppery, wide eyes (jihmatāmrāyatekṣaṇam), like Kandarpa visibly manifest in person (samakṣam iva kandarpam) with his bow laid aside (apaviddhaśarāsanam),
+Endowed with passion, pride, and intoxication (_kāmadarpamadair yuktam_), with obliquely glancing, coppery, wide eyes (_jihmatāmrāyatekṣaṇam_), like Kandarpa visibly manifest in person (_samakṣam iva kandarpam_) with his bow laid aside (_apaviddhaśarāsanam_),
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ nectar froth, without stain,slipping being entangled in armlet.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Drawing back into place (avakarṣantam) his superb, spotless, flower-decked garment (sapuṣpam arajo vastram uttamam), which shone like the foam of churned nectar-milk (mathitāmṛtaphenābham) and had slipped loose and caught upon his armlet (vimuktaṃ saktam aṅgade)—
+Drawing back into place (_avakarṣantam_) his superb, spotless, flower-decked garment (_sapuṣpam arajo vastram uttamam_), which shone like the foam of churned nectar-milk (_mathitāmṛtaphenābham_) and had slipped loose and caught upon his armlet (_vimuktaṃ saktam aṅgade_)—
 </details>
 </details>
 
@@ -1222,7 +1222,7 @@ that Ravana as though coming near Him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Concealed in a leafy bough (patraviṭape līnaḥ) and covered by hundreds of leaves and blossoms (patrapuṣpaśatāvṛtaḥ), [Hanumān] set about observing closely (vijñātum upacakrame) him who had drawn near (samīpam upasaṃkrāntam).
+Concealed in a leafy bough (_patraviṭape līnaḥ_) and covered by hundreds of leaves and blossoms (_patrapuṣpaśatāvṛtaḥ_), [Hanumān] set about observing closely (_vijñātum upacakrame_) him who had drawn near (_samīpam upasaṃkrāntam_).
 </details>
 </details>
 
@@ -1276,7 +1276,7 @@ of beauty and youth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing down (avekṣamāṇas tu), that elephant among monkeys (kapikuñjaraḥ) then beheld Rāvaṇa's choicest women (varastriyaḥ), endowed with beauty and youth (rūpayauvanasampannāḥ).
+Gazing down (_avekṣamāṇas tu_), that elephant among monkeys (_kapikuñjaraḥ_) then beheld Rāvaṇa&#x27;s choicest women (_varastriyaḥ_), endowed with beauty and youth (_rūpayauvanasampannāḥ_).
 </details>
 </details>
 
@@ -1327,7 +1327,7 @@ resounded by animals and birds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by those lovely women (tābhiḥ parivṛto rājā surūpābhiḥ), the renowned king entered that pleasure-grove of the women (pramadāvanam), which resounded with deer and birds (mṛgadvijasaṃghuṣṭam).
+Surrounded by those lovely women (_tābhiḥ parivṛto rājā surūpābhiḥ_), the renowned king entered that pleasure-grove of the women (_pramadāvanam_), which resounded with deer and birds (_mṛgadvijasaṃghuṣṭam_).
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Intoxicated (kṣībaḥ), decked in variegated ornaments (vicitrābharaṇaḥ), erect-eared (śaṅkukarṇaḥ), and of mighty strength, that lord of rākṣasas, son of Viśravas (viśravasaḥ putraḥ), was beheld by him.
+Intoxicated (_kṣībaḥ_), decked in variegated ornaments (_vicitrābharaṇaḥ_), erect-eared (_śaṅkukarṇaḥ_), and of mighty strength, that lord of _rākṣasas_, son of Viśravas (_viśravasaḥ putraḥ_), was beheld by him.
 </details>
 </details>
 
@@ -1449,9 +1449,9 @@ Ravana", jumped down.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**29:** The great monkey of mighty fiery energy (mahātejāḥ) beheld that fiery-energied one (tejovantam), surrounded by supreme women like the moon surrounded by stars (tārābhir iva candramāḥ).
+**29:** The great monkey of mighty fiery energy (_mahātejāḥ_) beheld that fiery-energied one (_tejovantam_), surrounded by supreme women like the moon surrounded by stars (_tārābhir iva candramāḥ_).
 
-**30:** Reflecting, “This mighty-armed one is Rāvaṇa—the very same one who earlier lay asleep in the finest palace in the midst of the city!” (so 'yam eva purā śete puramadhye gṛhottame), the mighty-energied Hanumān, son of Māruta, leaped down (avaplutaḥ) [to a lower bough].
+**30:** Reflecting, “This mighty-armed one is Rāvaṇa—the very same one who earlier lay asleep in the finest palace in the midst of the city!” (_so &#x27;yam eva purā śete puramadhye gṛhottame_), the mighty-energied Hanumān, son of Māruta, leaped down (_avaplutaḥ_) [to a lower bough].
 </details>
 </details>
 
@@ -1507,7 +1507,7 @@ behind a group of leaves and was concealed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though himself possessed of fierce fiery energy (ugratejāḥ), shaken by that [Rāvaṇa's] dazzling aura (nirdhūtas tasya tejasā), the wise monkey clung within a dense covert of leaves (patre guhyāntare saktaḥ) and remained concealed (saṃvṛto 'bhavat).
+Though himself possessed of fierce fiery energy (_ugratejāḥ_), shaken by that [Rāvaṇa&#x27;s] dazzling aura (_nirdhūtas tasya tejasā_), the wise monkey clung within a dense covert of leaves (_patre guhyāntare saktaḥ_) and remained concealed (_saṃvṛto &#x27;bhavat_).
 </details>
 </details>
 
@@ -1573,7 +1573,7 @@ corners of eyes, wishing to see Her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Desiring to behold (didṛkṣuḥ) that lady with dark locks of hair (asitakeśāntām), fair hips (suśroṇīm), firm, close-set breasts (saṃhatastanīm), and dark outer eye-corners (asitāpāṅgīm), Rāvaṇa approached her (upāvartata).
+Desiring to behold (_didṛkṣuḥ_) that lady with dark locks of hair (_asitakeśāntām_), fair hips (_suśroṇīm_), firm, close-set breasts (_saṃhatastanīm_), and dark outer eye-corners (_asitāpāṅgīm_), Rāvaṇa approached her (_upāvartata_).
 </details>
 </details>
 

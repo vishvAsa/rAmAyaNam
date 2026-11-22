@@ -100,9 +100,9 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Reaching the ocean (gatvā sāgaram), that king, followed by Gaṅgā (gaṅgayānugatas tadā), entered the subterranean depths of the earth (praviveśa talaṃ bhūmeḥ) where those sons of Sagara had been reduced to ashes (yatra te bhasmasātkṛtāḥ).
+**1:** Reaching the ocean (_gatvā sāgaram_), that king, followed by Gaṅgā (_gaṅgayānugatas tadā_), entered the subterranean depths of the earth (_praviveśa talaṃ bhūmeḥ_) where those sons of Sagara had been reduced to ashes (_yatra te bhasmasātkṛtāḥ_).
 
-**2:** When the ashes were inundated (bhasmany athāplute), O Rāma, by the waters of Gaṅgā (gaṅgāyāḥ salilena vai), Brahmā, the Lord of all the worlds (sarvalokaprabhur brahmā), spoke these words to the king:
+**2:** When the ashes were inundated (_bhasmany athāplute_), O Rāma, by the waters of Gaṅgā (_gaṅgāyāḥ salilena vai_), Brahmā, the Lord of all the worlds (_sarvalokaprabhur brahmā_), spoke these words to the king:
 </details>
 </details>
 
@@ -151,7 +151,7 @@ Oh, tigerly-man Bhageeratha, the sixty thousands sons of great souled
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Delivered from their spectral state (tāritāḥ), O tiger among men (naraśārdūla), the sixty thousand sons of the high-souled Sagara (ṣaṣṭiḥ putrasahasrāṇi sagarasya mahātmanaḥ) have ascended to heaven like gods themselves (divaṃ yātāś ca devavat).
+“Delivered from their spectral state (_tāritāḥ_), O tiger among men (_naraśārdūla_), the sixty thousand sons of the high-souled Sagara (_ṣaṣṭiḥ putrasahasrāṇi sagarasya mahātmanaḥ_) have ascended to heaven like gods themselves (_divaṃ yātāś ca devavat_).
 </details>
 </details>
 
@@ -201,7 +201,7 @@ As long as the water of the ocean abides in the world, oh, king,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So long as the waters of the ocean shall endure in the world (sāgarasya jalaṃ loke yāvat sthāsyati), O lord of earth (pārthiva), all the sons of Sagara shall abide in heaven like the celestials (divi sthāsyanti devavat).
+“So long as the waters of the ocean shall endure in the world (_sāgarasya jalaṃ loke yāvat sthāsyati_), O lord of earth (_pārthiva_), all the sons of Sagara shall abide in heaven like the celestials (_divi sthāsyanti devavat_).
 </details>
 </details>
 
@@ -255,7 +255,7 @@ Otherwise, 'by your fatherhood she will be called Bhaageerathi and your
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this Gaṅgā shall become your eldest daughter (iyaṃ ca duhitā jyeṣṭhā tava gaṅgā bhaviṣyati), and she shall endure in the world renowned by the name derived from your own deed (tvatkṛtena ca nāmnātha loke sthāsyati viśrutā).
+“And this Gaṅgā shall become your eldest daughter (_iyaṃ ca duhitā jyeṣṭhā tava gaṅgā bhaviṣyati_), and she shall endure in the world renowned by the name derived from your own deed (_tvatkṛtena ca nāmnātha loke sthāsyati viśrutā_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This divine Gaṅgā shall be called Tripathagā and Bhāgīrathī (gaṅgā tripathagā nāma divyā bhāgīrathīti ca); because she sanctifies and courses through the three paths (trīn patho bhāvayantīti), she is remembered as Tripathagā (tasmāt tripathagā smṛtā).
+“This divine Gaṅgā shall be called _Tripathagā_ and _Bhāgīrathī_ (_gaṅgā tripathagā nāma divyā bhāgīrathīti ca_); because she sanctifies and courses through the three paths (_trīn patho bhāvayantīti_), she is remembered as _Tripathagā_ (_tasmāt tripathagā smṛtā_).
 </details>
 </details>
 
@@ -370,7 +370,7 @@ You may now offer water-oblations to all of your forefathers in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here in these waters, O lord of men (tvam atra manujādhipa), perform the funeral water-libation for all your grandfathers (pitāmahānāṃ sarveṣāṃ kuruṣva salilam), O King, and bring your solemn pledge to completion (pratijñām apavarjaya).
+“Here in these waters, O lord of men (_tvam atra manujādhipa_), perform the funeral water-libation for all your grandfathers (_pitāmahānāṃ sarveṣāṃ kuruṣva salilam_), O King, and bring your solemn pledge to completion (_pratijñām apavarjaya_).
 </details>
 </details>
 
@@ -420,7 +420,7 @@ Your ancestor Sagara is a highly glorious one and a best one
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even by that ancestor of yours of exceeding renown (pūrvakeṇa hi te rājaṃs tenātiyaśasā tadā), the foremost of the righteous (dharmiṇāṃ pravareṇātha), this cherished desire was not attained (naiṣa prāpto manorathaḥ).
+“Even by that ancestor of yours of exceeding renown (_pūrvakeṇa hi te rājaṃs tenātiyaśasā tadā_), the foremost of the righteous (_dharmiṇāṃ pravareṇātha_), this cherished desire was not attained (_naiṣa prāpto manorathaḥ_).
 </details>
 </details>
 
@@ -473,9 +473,9 @@ Like that, your grandfather Amshuman, who is unequalled in his resplendence
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “So too by Aṃśumān, O dear one (tathaivāṃśumatā tāta), of peerless splendour in the world (loke ’pratimatejasā), though he prayed and strove to lead Gaṅgā hither (gaṅgāṃ prārthayatā netum), that pledge could not be brought to fulfilment (pratijñā nāpavarjitā).
+**9:** “So too by Aṃśumān, O dear one (_tathaivāṃśumatā tāta_), of peerless splendour in the world (_loke ’pratimatejasā_), though he prayed and strove to lead Gaṅgā hither (_gaṅgāṃ prārthayatā netum_), that pledge could not be brought to fulfilment (_pratijñā nāpavarjitā_).
 
-**10:** “And by the royal sage endowed with noble virtues (rājarṣiṇā guṇavatā), equal in splendour to the great sages (maharṣisamatejasā), equal to myself in austerity (mattulyatapasā caiva), and steadfast in Kṣatriya dharma (kṣatradharmasthitena ca)—
+**10:** “And by the royal sage endowed with noble virtues (_rājarṣiṇā guṇavatā_), equal in splendour to the great sages (_maharṣisamatejasā_), equal to myself in austerity (_mattulyatapasā caiva_), and steadfast in Kṣatriya _dharma_ (_kṣatradharmasthitena ca_)—
 </details>
 </details>
 
@@ -535,7 +535,7 @@ The content of verse 10 at times will be attributed to verse 9, viz.,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even by your father Dilīpa of exceeding radiance (dilīpena mahābhāga tava pitrātitejasā), O sinless and illustrious one, though he repeatedly prayed to bring Gaṅgā down (punar na śaṅkitā netuṃ gaṅgāṃ prārthayatānagha), she could not even be conceived of as won.
+“Even by your father Dilīpa of exceeding radiance (_dilīpena mahābhāga tava pitrātitejasā_), O sinless and illustrious one, though he repeatedly prayed to bring Gaṅgā down (_punar na śaṅkitā netuṃ gaṅgāṃ prārthayatānagha_), she could not even be conceived of as won.
 </details>
 </details>
 
@@ -583,7 +583,7 @@ But, you have accomplished that pledge, oh, the best one among men,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very pledge has been fully accomplished by you (sā tvayā samatikrāntā pratijñā), O bull among men (puruṣarṣabha), and you have attained supreme renown in the world, honoured by the highest (prāpto ’si paramaṃ loke yaśaḥ paramasaṃmatam).
+“That very pledge has been fully accomplished by you (_sā tvayā samatikrāntā pratijñā_), O bull among men (_puruṣarṣabha_), and you have attained supreme renown in the world, honoured by the highest (_prāpto ’si paramaṃ loke yaśaḥ paramasaṃmatam_).
 </details>
 </details>
 
@@ -640,7 +640,7 @@ That 'Descent of Ganga' is perfected by you, oh, enemy-represser,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And through this descent of Gaṅgā accomplished by you (tac ca gaṅgāvataraṇaṃ tvayā kṛtam), O tamer of foes (ariṃdama), you have attained the supreme abode of dharma (anena ca bhavān prāpto dharmasyāyatanaṃ mahat).
+“And through this descent of Gaṅgā accomplished by you (_tac ca gaṅgāvataraṇaṃ tvayā kṛtam_), O tamer of foes (_ariṃdama_), you have attained the supreme abode of _dharma_ (_anena ca bhavān prāpto dharmasyāyatanaṃ mahat_).
 </details>
 </details>
 
@@ -698,7 +698,7 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bathe yourself, O best of men (plāvayasva tvam ātmānaṃ narottama), in this ever-fitting water (sadocite salile), O foremost of men (puruṣaśreṣṭha); become pure and enjoy the fruit of holy merit (śuciḥ puṇyaphalo bhava).
+“Bathe yourself, O best of men (_plāvayasva tvam ātmānaṃ narottama_), in this ever-fitting water (_sadocite salile_), O foremost of men (_puruṣaśreṣṭha_); become pure and enjoy the fruit of holy merit (_śuciḥ puṇyaphalo bhava_).
 </details>
 </details>
 
@@ -747,7 +747,7 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Perform the water-libation for all your grandfathers (pitāmahānāṃ sarveṣāṃ kuruṣva salilakriyām). May all be well with you—I shall now depart to my own world; do you also return to your capital, O King (svaṃ lokaṃ gamyatāṃ nṛpa)!”
+“Perform the water-libation for all your grandfathers (_pitāmahānāṃ sarveṣāṃ kuruṣva salilakriyām_). May all be well with you—I shall now depart to my own world; do you also return to your capital, O King (_svaṃ lokaṃ gamyatāṃ nṛpa_)!”
 </details>
 </details>
 
@@ -795,7 +795,7 @@ On saying in this way, the forefather of all the worlds, and the great
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the Lord of the gods, the Grandsire of all the worlds (deveśaḥ sarvalokapitāmahaḥ), of glorious renown, returned to the celestial realm just as he had come (yathāgataṃ tathāgacchad devalokaṃ mahāyaśāḥ).
+Having spoken thus, the Lord of the gods, the Grandsire of all the worlds (_deveśaḥ sarvalokapitāmahaḥ_), of glorious renown, returned to the celestial realm just as he had come (_yathāgataṃ tathāgacchad devalokaṃ mahāyaśāḥ_).
 </details>
 </details>
 
@@ -859,9 +859,9 @@ On according those best water-oblations that endow superior realms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Then the royal sage Bhagīratha of great renown, having offered the supreme water-libation (kṛtvā salilam uttamam) to the sons of Sagara in due order of seniority and according to sacred ordinance (yathākramaṃ yathānyāyaṃ sāgarāṇāṃ mahāyaśāḥ)—
+**17:** Then the royal sage Bhagīratha of great renown, having offered the supreme water-libation (_kṛtvā salilam uttamam_) to the sons of Sagara in due order of seniority and according to sacred ordinance (_yathākramaṃ yathānyāyaṃ sāgarāṇāṃ mahāyaśāḥ_)—
 
-**18:** Having completed the obsequial water-rites and become ritually pure (kṛtodakaḥ śucī rājā), the king entered his own city (svapuraṃ praviveśa ha); with his purpose richly fulfilled, O best of men, he ruled his kingdom (samṛddhārtho naraśreṣṭha svarājyaṃ praśaśāsa ha).
+**18:** Having completed the obsequial water-rites and become ritually pure (_kṛtodakaḥ śucī rājā_), the king entered his own city (_svapuraṃ praviveśa ha_); with his purpose richly fulfilled, O best of men, he ruled his kingdom (_samṛddhārtho naraśreṣṭha svarājyaṃ praśaśāsa ha_).
 </details>
 </details>
 
@@ -922,7 +922,7 @@ On regaining him as their king the subjects of the kingdom are overjoyed,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having regained that monarch, O Rāghava, the people rejoiced exceedingly (pramumoda ca lokas taṃ nṛpam āsādya rāghava); their grief dispelled and their prosperity restored, they became free of all feverish anxiety (naṣṭaśokaḥ samṛddhārtho babhūva vigatajvaraḥ).
+Having regained that monarch, O Rāghava, the people rejoiced exceedingly (_pramumoda ca lokas taṃ nṛpam āsādya rāghava_); their grief dispelled and their prosperity restored, they became free of all feverish anxiety (_naṣṭaśokaḥ samṛddhārtho babhūva vigatajvaraḥ_).
 </details>
 </details>
 
@@ -972,7 +972,7 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O Rāma, the full account of Gaṅgā has been narrated to you by me (eṣa te rāma gaṅgāyā vistaro ’bhihito mayā). Attain auspiciousness—may all be well with you—for the hour of twilight is now drawing past (saṃdhyākālo ’tivartate).
+“Thus, O Rāma, the full account of Gaṅgā has been narrated to you by me (_eṣa te rāma gaṅgāyā vistaro ’bhihito mayā_). Attain auspiciousness—may all be well with you—for the hour of twilight is now drawing past (_saṃdhyākālo ’tivartate_).
 </details>
 </details>
 
@@ -1029,9 +1029,9 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “Bestowing wealth, renown, long life, progeny, and heaven too (dhanyaṃ yaśasyam āyuṣyaṃ putryaṃ svargyam athāpi ca)—whoever causes this account to be heard among Brāhmaṇas, Kṣatriyas, and the other orders (yaḥ śrāvayati vipreṣu kṣatriyeṣv itareṣu ca),
+**21:** “Bestowing wealth, renown, long life, progeny, and heaven too (_dhanyaṃ yaśasyam āyuṣyaṃ putryaṃ svargyam athāpi ca_)—whoever causes this account to be heard among Brāhmaṇas, Kṣatriyas, and the other orders (_yaḥ śrāvayati vipreṣu kṣatriyeṣv itareṣu ca_),
 
-**22:** “His ancestors are gratified and the deities too are pleased (prīyante pitaras tasya prīyante daivatāni ca). This auspicious and life-bestowing narrative of the Descent of Gaṅgā (idam ākhyānam āyuṣyaṃ gaṅgāvataraṇaṃ śubham)—
+**22:** “His ancestors are gratified and the deities too are pleased (_prīyante pitaras tasya prīyante daivatāni ca_). This auspicious and life-bestowing narrative of the Descent of Gaṅgā (_idam ākhyānam āyuṣyaṃ gaṅgāvataraṇaṃ śubham_)—
 </details>
 </details>
 
@@ -1094,7 +1094,7 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whoever listens to it, O Kākutstha, shall obtain all cherished desires (yaḥ śṛṇoti ca kākutstha sarvān kāmān avāpnuyāt); all his sins perish utterly (sarve pāpāḥ praṇaśyanti), and his span of life and renown increase (āyuḥ kīrtiś ca vardhate).”
+“And whoever listens to it, O Kākutstha, shall obtain all cherished desires (_yaḥ śṛṇoti ca kākutstha sarvān kāmān avāpnuyāt_); all his sins perish utterly (_sarve pāpāḥ praṇaśyanti_), and his span of life and renown increase (_āyuḥ kīrtiś ca vardhate_).”
 </details>
 </details>
 

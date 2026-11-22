@@ -85,7 +85,7 @@ mother were heard, king Dasaratha felt depressed and reflected upon them.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having been made to hear that harsh speech (śrāvitaḥ paruṣaṃ vākyam) by the wrathful and sorrow-stricken mother of Rāma (kruddhayā rāma-mātrā sa-śokayā), the anguished king reflected deeply (cintayāmāsa duḥkhitaḥ).
+Having been made to hear that harsh speech (_śrāvitaḥ paruṣaṃ vākyam_) by the wrathful and sorrow-stricken mother of Rāma (_kruddhayā rāma-mātrā sa-śokayā_), the anguished king reflected deeply (_cintayāmāsa duḥkhitaḥ_).
 </details>
 </details>
 
@@ -139,7 +139,7 @@ long time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reflected thus, that monarch swooned away with his senses bewildered (mumoha vyākulendriyaḥ); then after a long time that scorcher of foes regained consciousness (saṃjñām āpa parantapaḥ).
+Having reflected thus, that monarch swooned away with his senses bewildered (_mumoha vyākulendriyaḥ_); then after a long time that scorcher of foes regained consciousness (_saṃjñām āpa parantapaḥ_).
 </details>
 </details>
 
@@ -192,7 +192,7 @@ Kausalya by his side, began to worry again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon regaining consciousness and sighing long and hot (dīrgham uṣṇaṃ ca niḥśvasan), he beheld Kausalyā beside him (kausalyāṃ pārśvato dṛṣṭvā) and once more fell into anxious thought (punaś cintām upāgamat).
+Upon regaining consciousness and sighing long and hot (_dīrgham uṣṇaṃ ca niḥśvasan_), he beheld Kausalyā beside him (_kausalyāṃ pārśvato dṛṣṭvā_) and once more fell into anxious thought (_punaś cintām upāgamat_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ heard.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he was reflecting thus (tasya cintayamānasya), there flashed before his mind the evil deed (pratyābhāt karma duṣkṛtam) that had been committed by him of old in ignorance when shooting by sound alone (yad anena kṛtaṃ pūrvam ajñānāc chabda-vedhinā).
+As he was reflecting thus (_tasya cintayamānasya_), there flashed before his mind the evil deed (_pratyābhāt karma duṣkṛtam_) that had been committed by him of old in ignorance when shooting by sound alone (_yad anena kṛtaṃ pūrvam ajñānāc chabda-vedhinā_).
 </details>
 </details>
 
@@ -301,7 +301,7 @@ also through agony caused by separation from Rama and was tormented by the dual 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Distraught in mind by that grief and by his grief for Rāma (amanās tena śokena rāma-śokena ca), the lord, the great king, was tormented by both sorrows at once (dvābhyām api mahā-rājaḥ śokābhyām anvatapyata).
+Distraught in mind by that grief and by his grief for Rāma (_amanās tena śokena rāma-śokena ca_), the lord, the great king, was tormented by both sorrows at once (_dvābhyām api mahā-rājaḥ śokābhyām anvatapyata_).
 </details>
 </details>
 
@@ -354,7 +354,7 @@ his palms in salutation, desirous of getting her grace and spoke to Kausalya as 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Consumed by those two sorrows (dahyamānaḥ sa śokābhyām), the lord of the earth, trembling and with his face cast down (vepamāno 'vāṅ-mukhaḥ), folded his palms to propitiate her (añjaliṃ kṛtvā prasādārtham) and spoke to Kausalyā:
+Consumed by those two sorrows (_dahyamānaḥ sa śokābhyām_), the lord of the earth, trembling and with his face cast down (_vepamāno &#x27;vāṅ-mukhaḥ_), folded his palms to propitiate her (_añjaliṃ kṛtvā prasādārtham_) and spoke to Kausalyā:
 </details>
 </details>
 
@@ -415,7 +415,7 @@ always affectionate even towards others and even indeed kind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I seek to propitiate you, O Kausalyā (prasādaye tvāṃ kausalye); here have I folded my palms in supplication (racito 'yaṃ mayāñjaliḥ)! For you are ever tender-hearted and free from cruelty even toward strangers and foes (vatsalā cānṛśaṃsā ca tvaṃ hi nityaṃ pareṣv api).
+“I seek to propitiate you, O Kausalyā (_prasādaye tvāṃ kausalye_); here have I folded my palms in supplication (_racito &#x27;yaṃ mayāñjaliḥ_)! For you are ever tender-hearted and free from cruelty even toward strangers and foes (_vatsalā cānṛśaṃsā ca tvaṃ hi nityaṃ pareṣv api_).
 </details>
 </details>
 
@@ -467,7 +467,7 @@ or worthless, is a visible god indeed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whether he be endowed with virtues or devoid of virtues (guṇavān nirguṇo 'pi vā), a husband is indeed a visible deity, O queen (pratyakṣaṃ devi daivatam), unto women who ponder upon righteousness (nārīṇāṃ dharmaṃ vimṛśamānānām).
+Whether he be endowed with virtues or devoid of virtues (_guṇavān nirguṇo &#x27;pi vā_), a husband is indeed a visible deity, O queen (_pratyakṣaṃ devi daivatam_), unto women who ponder upon righteousness (_nārīṇāṃ dharmaṃ vimṛśamānānām_).
 </details>
 </details>
 
@@ -524,7 +524,7 @@ is too much in distress."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such as you are, ever devoted to righteousness (sā tvaṃ dharma-parā nityam) and having discerned the high and the low in this world (dṛṣṭa-loka-parāvarā), you ought not, even though afflicted with sorrow, to speak unkindly unto me who am yet more deeply afflicted (nārhase vipriyaṃ vaktuṃ duḥkhitāpi su-duḥkhitam).”
+Such as you are, ever devoted to righteousness (_sā tvaṃ dharma-parā nityam_) and having discerned the high and the low in this world (_dṛṣṭa-loka-parāvarā_), you ought not, even though afflicted with sorrow, to speak unkindly unto me who am yet more deeply afflicted (_nārhase vipriyaṃ vaktuṃ duḥkhitāpi su-duḥkhitam_).”
 </details>
 </details>
 
@@ -580,7 +580,7 @@ akin to new rain water flowing from channel.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that piteous speech spoken by the wretched king (tad vākyaṃ karuṇaṃ rājñaḥ śrutvā dīnasya bhāṣitam), Kausalyā shed a flood of tears, even as a roof-spout pours forth fresh rainwater (vyasṛjad bāṣpaṃ praṇālīva navodakam).
+Hearing that piteous speech spoken by the wretched king (_tad vākyaṃ karuṇaṃ rājñaḥ śrutvā dīnasya bhāṣitam_), Kausalyā shed a flood of tears, even as a roof-spout pours forth fresh rainwater (_vyasṛjad bāṣpaṃ praṇālīva navodakam_).
 </details>
 </details>
 
@@ -633,7 +633,7 @@ was scared and spoke weeping in hurriedly lettered words in eagerness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weeping, she took the king's lotus-like folded hands and placed them upon her own head (sā mūrdhni baddhvā rudatī rājñaḥ padmam ivāñjalim); terrified, she spoke in haste a speech of faltering, hurried syllables (sambhramād abravīt trastā tvaramāṇākṣaraṃ vacaḥ):
+Weeping, she took the king&#x27;s lotus-like folded hands and placed them upon her own head (_sā mūrdhni baddhvā rudatī rājñaḥ padmam ivāñjalim_); terrified, she spoke in haste a speech of faltering, hurried syllables (_sambhramād abravīt trastā tvaramāṇākṣaraṃ vacaḥ_):
 </details>
 </details>
 
@@ -696,7 +696,7 @@ ruined. I am not to be forgiven indeed by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be gracious, I entreat you with my head bowed low; I have fallen upon the ground at your feet (bhūmau nipatitāsmi te)! Once entreated by you, O lord, I am utterly undone (yācitāsmi hatā deva); truly I do not deserve to be pardoned by you (kṣantavyāhaṃ na hi tvayā)!
+“Be gracious, I entreat you with my head bowed low; I have fallen upon the ground at your feet (_bhūmau nipatitāsmi te_)! Once entreated by you, O lord, I am utterly undone (_yācitāsmi hatā deva_); truly I do not deserve to be pardoned by you (_kṣantavyāhaṃ na hi tvayā_)!
 </details>
 </details>
 
@@ -752,7 +752,7 @@ propitiated by her husband, who is praise worthy and possessing good disposition
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For she is no true wife (naiṣā hi sā strī bhavati), O hero, who must be propitiated in both worlds (ubhayor lokayor yā samprasādyate) by a wise and praiseworthy husband (ślāghanīyena dhīmatā patyā).
+For she is no true wife (_naiṣā hi sā strī bhavati_), O hero, who must be propitiated in both worlds (_ubhayor lokayor yā samprasādyate_) by a wise and praiseworthy husband (_ślāghanīyena dhīmatā patyā_).
 </details>
 </details>
 
@@ -805,7 +805,7 @@ husband, who is praise worthy and possessing good disposition."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I know what righteousness is, O knower of righteousness (jānāmi dharmaṃ dharma-jña), and I know that you are truthful in speech (tvāṃ jāne satya-vādinam); yet in the anguish of grief for my son, something unseemly was spoken by me (putra-śokārtayā tat tu mayā kim api bhāṣitam).
+I know what righteousness is, O knower of righteousness (_jānāmi dharmaṃ dharma-jña_), and I know that you are truthful in speech (_tvāṃ jāne satya-vādinam_); yet in the anguish of grief for my son, something unseemly was spoken by me (_putra-śokārtayā tat tu mayā kim api bhāṣitam_).
 </details>
 </details>
 
@@ -857,7 +857,7 @@ enemy like grief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sorrow destroys fortitude (śoko nāśayate dhairyam), sorrow destroys scriptural learning (śoko nāśayate śrutam), sorrow destroys everything (śoko nāśayate sarvam)—there is no enemy equal to sorrow (nāsti śoka-samo ripuḥ)!
+Sorrow destroys fortitude (_śoko nāśayate dhairyam_), sorrow destroys scriptural learning (_śoko nāśayate śrutam_), sorrow destroys everything (_śoko nāśayate sarvam_)—there is no enemy equal to sorrow (_nāsti śoka-samo ripuḥ_)!
 </details>
 </details>
 
@@ -910,7 +910,7 @@ But, the grief suddenly descended, even if so small, is not possible to be toler
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A blow fallen from an enemy's hand can be endured (śakya āpatitaḥ soḍhuṃ prahāro ripu-hastataḥ), but sorrow that has befallen one, even if very slight, cannot be endured (soḍhum āpatitaḥ śokaḥ su-sūkṣmo 'pi na śakyate).
+A blow fallen from an enemy&#x27;s hand can be endured (_śakya āpatitaḥ soḍhuṃ prahāro ripu-hastataḥ_), but sorrow that has befallen one, even if very slight, cannot be endured (_soḍhum āpatitaḥ śokaḥ su-sūkṣmo &#x27;pi na śakyate_).
 </details>
 </details>
 
@@ -972,7 +972,7 @@ minds infatuated with grief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even ascetics who know righteousness, possess Vedic learning, and have severed all doubts regarding duty and profit (dharma-jñāḥ śrutimanto 'pi chinna-dharmārtha-saṃśayāḥ yatayaḥ) become bewildered, O hero, when their minds are stupefied by sorrow (muhyanti śoka-sammūḍha-cetasaḥ).
+“Even ascetics who know righteousness, possess Vedic learning, and have severed all doubts regarding duty and profit (_dharma-jñāḥ śrutimanto &#x27;pi chinna-dharmārtha-saṃśayāḥ yatayaḥ_) become bewildered, O hero, when their minds are stupefied by sorrow (_muhyanti śoka-sammūḍha-cetasaḥ_).
 </details>
 </details>
 
@@ -1024,7 +1024,7 @@ years for me, since grief has ruined my happiness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today is reckoned the fifth night since Rāma's departure for his forest-dwelling (vana-vāsāya rāmasya pañca-rātro 'dya gaṇyate), which unto me, whose joy has been slain by sorrow, seems like five years (yaḥ śoka-hata-harṣāyāḥ pañca-varṣopamo mama)!
+Today is reckoned the fifth night since Rāma&#x27;s departure for his forest-dwelling (_vana-vāsāya rāmasya pañca-rātro &#x27;dya gaṇyate_), which unto me, whose joy has been slain by sorrow, seems like five years (_yaḥ śoka-hata-harṣāyāḥ pañca-varṣopamo mama_)!
 </details>
 </details>
 
@@ -1108,9 +1108,9 @@ feeble and turned towards night too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** For as I think upon him, this sorrow swells within my heart (taṃ hi cintayamānāyāḥ śoko 'yaṃ hṛdi vardhate), even as the mighty water of the ocean swells with the onrush of rivers (nadīnām iva vegena samudra-salilaṃ mahat).”
+**19:** For as I think upon him, this sorrow swells within my heart (_taṃ hi cintayamānāyāḥ śoko &#x27;yaṃ hṛdi vardhate_), even as the mighty water of the ocean swells with the onrush of rivers (_nadīnām iva vegena samudra-salilaṃ mahat_).”
 
-**20:** While Kausalyā was thus speaking her auspicious and conciliatory words (evaṃ hi kathayantyās tu kausalyāyāḥ śubhaṃ vacaḥ), the sun grew dim of ray and night drew on (manda-raśmir abhūt sūryo rajanī cābhyavartata).
+**20:** While Kausalyā was thus speaking her auspicious and conciliatory words (_evaṃ hi kathayantyās tu kausalyāyāḥ śubhaṃ vacaḥ_), the sun grew dim of ray and night drew on (_manda-raśmir abhūt sūryo rajanī cābhyavartata_).
 </details>
 </details>
 

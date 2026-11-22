@@ -48,7 +48,7 @@ Having vanquished Kubera and seized Puṣpaka, Rāvaṇa flies to the radiant go
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having vanquished his brother Dhanada [Kubera], O Rāma, that sovereign of the Rākṣasas (rākṣasādhipaḥ) journeyed unto that great reed-forest (śaravaṇaṃ mahat), the birthplace of Mahāsena [Skanda] (mahāsena-prasūtim).
+Having vanquished his brother Dhanada [Kubera], O Rāma, that sovereign of the Rākṣasas (_rākṣasādhipaḥ_) journeyed unto that great reed-forest (_śaravaṇaṃ mahat_), the birthplace of Mahāsena [Skanda] (_mahāsena-prasūtim_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having vanquished his brother Dhanada [Kubera], O Rāma, that sovereign of the R
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Daśagrīva beheld (athāpaśyad) that vast golden reed-forest (raukmaṃ śaravaṇaṃ mahat), wreathed in a network of radiant beams (gabhasti-jāla-saṃvītam) like a second sun (dvitīyam iva bhāskaram).
+Then Daśagrīva beheld (_athāpaśyad_) that vast golden reed-forest (_raukmaṃ śaravaṇaṃ mahat_), wreathed in a network of radiant beams (_gabhasti-jāla-saṃvītam_) like a second sun (_dvitīyam iva bhāskaram_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then Daśagrīva beheld (athāpaśyad) that vast golden reed-forest (raukmaṃ �
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having ascended near a certain mountain graced with lovely woodland glades (ramya-vanāntaram), he beheld the Puṣpaka aerial car there, O Rāma, suddenly brought to a standstill (viṣṭambhitam).
+Having ascended near a certain mountain graced with lovely woodland glades (_ramya-vanāntaram_), he beheld the Puṣpaka aerial car there, O Rāma, suddenly brought to a standstill (_viṣṭambhitam_).
 </details>
 </details>
 
@@ -145,9 +145,9 @@ Having ascended near a certain mountain graced with lovely woodland glades (ramy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Seeing Puṣpaka halted (viṣṭabdham)—though fashioned to move at will (kāmagaṃ kṛtam), now rendered immobile (agamam)—the lord of the Rākṣasas, surrounded by those ministers of his (sacivais taiḥ samāvṛtaḥ), reflected deeply:
+**4:** Seeing Puṣpaka halted (_viṣṭabdham_)—though fashioned to move at will (_kāmagaṃ kṛtam_), now rendered immobile (_agamam_)—the lord of the Rākṣasas, surrounded by those ministers of his (_sacivais taiḥ samāvṛtaḥ_), reflected deeply:
 
-**5:** “For what reason (kin-nimittam) does this Puṣpaka not move at my will (icchayā me)? This must surely be the doing (karmedaṃ ... bhavet) of someone dwelling atop this mountain (parvatasyopariṣṭhasya)!”
+**5:** “For what reason (_kin-nimittam_) does this Puṣpaka not move at my will (_icchayā me_)? This must surely be the doing (_karmedaṃ ... bhavet_) of someone dwelling atop this mountain (_parvatasyopariṣṭhasya_)!”
 </details>
 </details>
 
@@ -181,7 +181,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, O Rāma, the shrewd-minded Mārīca (mārīco buddhi-kovidaḥ) spoke to him: “It is not without cause (nedaṃ niṣkāraṇam), O King, that this Puṣpaka refuses to go forward (puṣpakaṃ yan na gacchati).
+Thereupon, O Rāma, the shrewd-minded Mārīca (_mārīco buddhi-kovidaḥ_) spoke to him: “It is not without cause (_nedaṃ niṣkāraṇam_), O King, that this Puṣpaka refuses to go forward (_puṣpakaṃ yan na gacchati_).
 </details>
 </details>
 
@@ -223,7 +223,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or else (athavā), this Puṣpaka will serve as the vehicle of none save Dhanada (dhanadān nānya-vāhanam); therefore, deprived of the Lord of Wealth (dhanādhyakṣa-vinākṛtam), it has become motionless (niṣpandam abhavat).”
+“Or else (_athavā_), this Puṣpaka will serve as the vehicle of none save Dhanada (_dhanadān nānya-vāhanam_); therefore, deprived of the Lord of Wealth (_dhanādhyakṣa-vinākṛtam_), it has become motionless (_niṣpandam abhavat_).”
 </details>
 </details>
 
@@ -258,9 +258,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Even in the midst of those words of his (iti vākyāntare tasya), fierce-visaged, dark-tawny (kṛṣṇa-piṅgalaḥ), dwarfish, deformed, shaven-headed (muṇḍī), stoop-armed (prahva-bhujaḥ), and mighty—Nandī,
+**8:** Even in the midst of those words of his (_iti vākyāntare tasya_), fierce-visaged, dark-tawny (_kṛṣṇa-piṅgalaḥ_), dwarfish, deformed, shaven-headed (_muṇḍī_), stoop-armed (_prahva-bhujaḥ_), and mighty—Nandī,
 
-**9:** —that attendant of Bhava [Śiva] (bhavasyānucaraḥ), Nandīśvara, approached his side (pārśvam upāgamya) and fearlessly (aśaṅkitaḥ) spoke these words unto the lord of the Rākṣasas:
+**9:** —that attendant of Bhava [Śiva] (_bhavasyānucaraḥ_), Nandīśvara, approached his side (_pārśvam upāgamya_) and fearlessly (_aśaṅkitaḥ_) spoke these words unto the lord of the Rākṣasas:
 </details>
 </details>
 
@@ -297,7 +297,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Turn back, O Daśagrīva (nivartasva daśagrīva)! Upon this mountain Śaṅkara is sporting (śaile krīḍati śaṅkaraḥ). To Suparṇas, Nāgas, and Yakṣas, to gods, Gandharvas, and Rākṣasas—
+“Turn back, O Daśagrīva (_nivartasva daśagrīva_)! Upon this mountain Śaṅkara is sporting (_śaile krīḍati śaṅkaraḥ_). To Suparṇas, Nāgas, and Yakṣas, to gods, Gandharvas, and Rākṣasas—
 </details>
 </details>
 
@@ -330,9 +330,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “To all created beings alike (sarveṣām eva bhūtānām), this mountain has been rendered impassable (agamyaḥ parvataḥ kṛtaḥ)!” Hearing those words of Nandī (iti nandi-vacaḥ śrutvā), his earrings quivering with wrath (krodhāt kampita-kuṇḍalaḥ),
+**11:** “To all created beings alike (_sarveṣām eva bhūtānām_), this mountain has been rendered impassable (_agamyaḥ parvataḥ kṛtaḥ_)!” Hearing those words of Nandī (_iti nandi-vacaḥ śrutvā_), his earrings quivering with wrath (_krodhāt kampita-kuṇḍalaḥ_),
 
-**12:** With eyes reddened by fury (roṣāt tu tāmra-nayanaḥ), he alighted from Puṣpaka (puṣpakād avaruhya), exclaiming, “Who is this Śaṅkara (ko ’yaṃ śaṅkaraḥ)?” and came down to the foot of the mountain (śaila-mūlam upāgataḥ).
+**12:** With eyes reddened by fury (_roṣāt tu tāmra-nayanaḥ_), he alighted from Puṣpaka (_puṣpakād avaruhya_), exclaiming, “Who is this Śaṅkara (_ko ’yaṃ śaṅkaraḥ_)?” and came down to the foot of the mountain (_śaila-mūlam upāgataḥ_).
 </details>
 </details>
 
@@ -371,7 +371,7 @@ Seeing monkey-faced Nandī leaning upon a blazing trident like a second Śaṅka
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he beheld Nandī (so ’paśyan nandinaṃ tatra), standing not far from the god (devasyādūrataḥ sthitam), leaning upon a blazing trident (dīptaṃ śūlam avaṣṭabhya) like a second Śaṅkara (dvitīyam iva śaṅkaram).
+There he beheld Nandī (_so ’paśyan nandinaṃ tatra_), standing not far from the god (_devasyādūrataḥ sthitam_), leaning upon a blazing trident (_dīptaṃ śūlam avaṣṭabhya_) like a second Śaṅkara (_dvitīyam iva śaṅkaram_).
 </details>
 </details>
 
@@ -402,7 +402,7 @@ There he beheld Nandī (so ’paśyan nandinaṃ tatra), standing not far from t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing that monkey-faced one (vānara-mukham), that Rākṣasa treated him with contempt (avajñāya) and burst out there into thunderous laughter (prahāsaṃ mumuce), like a rain-laden cloud (satoya iva toyadaḥ).
+Seeing that monkey-faced one (_vānara-mukham_), that Rākṣasa treated him with contempt (_avajñāya_) and burst out there into thunderous laughter (_prahāsaṃ mumuce_), like a rain-laden cloud (_satoya iva toyadaḥ_).
 </details>
 </details>
 
@@ -433,7 +433,7 @@ Seeing that monkey-faced one (vānara-mukham), that Rākṣasa treated him with 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged at him (taṃ kruddhaḥ), the venerable Nandī, who is a second embodiment of Śaṅkara (śaṅkarasyāparā tanuḥ), thereupon addressed that Rākṣasa Daśānana who stood before him (daśānanam upasthitam):
+Enraged at him (_taṃ kruddhaḥ_), the venerable Nandī, who is a second embodiment of Śaṅkara (_śaṅkarasyāparā tanuḥ_), thereupon addressed that Rākṣasa Daśānana who stood before him (_daśānanam upasthitam_):
 </details>
 </details>
 
@@ -473,9 +473,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “Inasmuch as, despising me in my monkey-form (vānara-rūpaṃ mām avajñāya), O Daśānana, you have loosed a scornful laugh (apahāsaṃ pramuktavān) like a thunderbolt’s crash (aśanī-pāta-saṅkāśam),
+**16:** “Inasmuch as, despising me in my monkey-form (_vānara-rūpaṃ mām avajñāya_), O Daśānana, you have loosed a scornful laugh (_apahāsaṃ pramuktavān_) like a thunderbolt’s crash (_aśanī-pāta-saṅkāśam_),
 
-**17:** “Therefore, endowed with my own form (mad-rūpa-sampannāḥ) and equaling my valor and radiance (mad-vīrya-sama-tejasaḥ), monkeys shall be born (utpatsyanti ... vānarāḥ) for the utter destruction of your race (vadhārthaṃ hi kulasya tava)—
+**17:** “Therefore, endowed with my own form (_mad-rūpa-sampannāḥ_) and equaling my valor and radiance (_mad-vīrya-sama-tejasaḥ_), monkeys shall be born (_utpatsyanti ... vānarāḥ_) for the utter destruction of your race (_vadhārthaṃ hi kulasya tava_)—
 </details>
 </details>
 
@@ -506,7 +506,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Armed with claws and fangs (nakha-daṃṣṭrāyudhāḥ), fierce, swift as the flight of thought (manaḥ-sampāta-raṃhasaḥ), maddened for battle (yuddhonmattāḥ), overflowing with strength, moving abroad like roaming mountains (śailā iva visarpiṇaḥ)!
+“Armed with claws and fangs (_nakha-daṃṣṭrāyudhāḥ_), fierce, swift as the flight of thought (_manaḥ-sampāta-raṃhasaḥ_), maddened for battle (_yuddhonmattāḥ_), overflowing with strength, moving abroad like roaming mountains (_śailā iva visarpiṇaḥ_)!
 </details>
 </details>
 
@@ -545,7 +545,7 @@ Declaring that Rāvaṇa is already doomed by his own misdeeds, Nandī withholds
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Uniting together (sambhūya), they shall strip away (vyapaneṣyanti) your mighty arrogance (prabalaṃ darpam) and your towering pride of every kind (utsedhaṃ ca pṛthag-vidham), together with that of your ministers and sons.
+“Uniting together (_sambhūya_), they shall strip away (_vyapaneṣyanti_) your mighty arrogance (_prabalaṃ darpam_) and your towering pride of every kind (_utsedhaṃ ca pṛthag-vidham_), together with that of your ministers and sons.
 </details>
 </details>
 
@@ -579,7 +579,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet even though I am well able to slay you right now (mayā śakyaṃ hantuṃ tvām), O night-roamer (he niśācara), you are not to be slain by me (na hantavyaḥ)—for you have already been slain long since by your own deeds (hatas tvaṃ hi pūrvam eva svakarmabhiḥ)!”
+“Yet even though I am well able to slay you right now (_mayā śakyaṃ hantuṃ tvām_), O night-roamer (_he niśācara_), you are not to be slain by me (_na hantavyaḥ_)—for you have already been slain long since by your own deeds (_hatas tvaṃ hi pūrvam eva svakarmabhiḥ_)!”
 </details>
 </details>
 
@@ -610,7 +610,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As soon as that high-souled god had uttered these words (ity udīrita-vākye tu deve tasmin mahātmani), celestial kettledrums resounded (deva-dundubhayo neduḥ) and a shower of blossoms fell from the sky (puṣpa-vṛṣṭiś ca khāc cyutā).
+As soon as that high-souled god had uttered these words (_ity udīrita-vākye tu deve tasmin mahātmani_), celestial kettledrums resounded (_deva-dundubhayo neduḥ_) and a shower of blossoms fell from the sky (_puṣpa-vṛṣṭiś ca khāc cyutā_).
 </details>
 </details>
 
@@ -636,7 +636,7 @@ As soon as that high-souled god had uttered these words (ity udīrita-vākye tu 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Disregarding Nandī’s words altogether (acintayitvā ... nandi-vākyam), that immensely mighty Daśānana (mahābalaḥ ... daśānanaḥ) drew close to the mountain (parvataṃ tu samāsādya) and spoke these words:
+Disregarding Nandī’s words altogether (_acintayitvā ... nandi-vākyam_), that immensely mighty Daśānana (_mahābalaḥ ... daśānanaḥ_) drew close to the mountain (_parvataṃ tu samāsādya_) and spoke these words:
 </details>
 </details>
 
@@ -667,7 +667,7 @@ Disregarding Nandī’s words altogether (acintayitvā ... nandi-vākyam), that 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This mountain on whose account (yat-kṛte) the flight of my Puṣpaka was cut short as I journeyed (puṣpakasya gatiś chinnā ... mama gacchataḥ)—this very mountain of yours I shall tear up by its roots (śailam unmūlaṃ karomi), O lord of bulls (gopate)!
+“This mountain on whose account (_yat-kṛte_) the flight of my Puṣpaka was cut short as I journeyed (_puṣpakasya gatiś chinnā ... mama gacchataḥ_)—this very mountain of yours I shall tear up by its roots (_śailam unmūlaṃ karomi_), O lord of bulls (_gopate_)!
 </details>
 </details>
 
@@ -698,7 +698,7 @@ Disregarding Nandī’s words altogether (acintayitvā ... nandi-vākyam), that 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By what power (kena prabhāveṇa) does Bhava eternally sport here like a king (nityaṃ krīḍati rājavat)? He does not perceive what ought to be known (vijñātavyaṃ na jānīte)—that a source of terror now stands before him (bhaya-sthānam upasthitam)!”
+“By what power (_kena prabhāveṇa_) does Bhava eternally sport here like a king (_nityaṃ krīḍati rājavat_)? He does not perceive what ought to be known (_vijñātavyaṃ na jānīte_)—that a source of terror now stands before him (_bhaya-sthānam upasthitam_)!”
 </details>
 </details>
 
@@ -737,7 +737,7 @@ Thrusting his twenty arms beneath Kailāsa, Rāvaṇa lifts and shakes the peak,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, O Rāma, he thrust his arms beneath the mountain (bhujān vikṣipya parvate) and swiftly heaved it aloft (tolayām āsa taṃ śīghram); and that mountain trembled violently (sa śailaḥ samakampata).
+Having spoken thus, O Rāma, he thrust his arms beneath the mountain (_bhujān vikṣipya parvate_) and swiftly heaved it aloft (_tolayām āsa taṃ śīghram_); and that mountain trembled violently (_sa śailaḥ samakampata_).
 </details>
 </details>
 
@@ -768,7 +768,7 @@ Having spoken thus, O Rāma, he thrust his arms beneath the mountain (bhujān vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that very shaking of the mountain (cālanāt parvatasyaiva), the attendants of the god were shaken (gaṇā devasya kampitāḥ); and Pārvatī too trembled (cacāla pārvatī cāpi), and thereupon clung tightly to Maheśvara (tadāśliṣṭā maheśvaram).
+By that very shaking of the mountain (_cālanāt parvatasyaiva_), the attendants of the god were shaken (_gaṇā devasya kampitāḥ_); and Pārvatī too trembled (_cacāla pārvatī cāpi_), and thereupon clung tightly to Maheśvara (_tadāśliṣṭā maheśvaram_).
 </details>
 </details>
 
@@ -799,7 +799,7 @@ By that very shaking of the mountain (cālanāt parvatasyaiva), the attendants o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, O Rāma, Mahādeva—Hara, foremost of the gods (devānāṃ pravaro haraḥ)—pressed down upon that mountain (taṃ śailaṃ pīḍayām āsa) effortlessly with his great toe (pādāṅguṣṭhena ... līlayā).
+Thereupon, O Rāma, Mahādeva—Hara, foremost of the gods (_devānāṃ pravaro haraḥ_)—pressed down upon that mountain (_taṃ śailaṃ pīḍayām āsa_) effortlessly with his great toe (_pādāṅguṣṭhena ... līlayā_).
 </details>
 </details>
 
@@ -830,7 +830,7 @@ Thereupon, O Rāma, Mahādeva—Hara, foremost of the gods (devānāṃ pravaro 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushed thereby (pīḍitās tu tataḥ) were his arms pinned beneath the mountain (śailasyādhogatā bhujāḥ); and filled with astonishment (vismitāś cābhavan) were the counselors of that Rākṣasa standing there (sacivās tasya rakṣasaḥ).
+Crushed thereby (_pīḍitās tu tataḥ_) were his arms pinned beneath the mountain (_śailasyādhogatā bhujāḥ_); and filled with astonishment (_vismitāś cābhavan_) were the counselors of that Rākṣasa standing there (_sacivās tasya rakṣasaḥ_).
 </details>
 </details>
 
@@ -864,7 +864,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Out of fury (roṣāc ca) and from the crushing of his arms (bhujānāṃ pīḍanāt), that Rākṣasa suddenly let loose a terrifying roar (mukto virāvaḥ sahasā) by which the three worlds were made to quake (trailokyaṃ yena kampitam).
+Out of fury (_roṣāc ca_) and from the crushing of his arms (_bhujānāṃ pīḍanāt_), that Rākṣasa suddenly let loose a terrifying roar (_mukto virāvaḥ sahasā_) by which the three worlds were made to quake (_trailokyaṃ yena kampitam_).
 </details>
 </details>
 
@@ -895,7 +895,7 @@ Out of fury (roṣāc ca) and from the crushing of his arms (bhujānāṃ pīḍ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His ministers took it for the thunderbolt’s crash at the end of a cosmic age (vajra-niṣpeṣaṃ ... yuga-kṣaye); and at that sound, the gods led by Indra (devā indra-purogamāḥ) were shaken from their heavenly courses (vartmastha-calitāḥ).
+His ministers took it for the thunderbolt’s crash at the end of a cosmic age (_vajra-niṣpeṣaṃ ... yuga-kṣaye_); and at that sound, the gods led by Indra (_devā indra-purogamāḥ_) were shaken from their heavenly courses (_vartmastha-calitāḥ_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ As oceans churn and celestials cry out in alarm at the roar, Rāvaṇa’s minis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The oceans too were churned into tumult (samudrāś cāpi saṅkṣubdhāḥ), and the mountains likewise quaked (calitāś cāpi parvatāḥ); while Yakṣas, Vidyādharas, and Siddhas cried out, “What is this (kim etad)?”
+The oceans too were churned into tumult (_samudrāś cāpi saṅkṣubdhāḥ_), and the mountains likewise quaked (_calitāś cāpi parvatāḥ_); while Yakṣas, Vidyādharas, and Siddhas cried out, “What is this (_kim etad_)?”
 </details>
 </details>
 
@@ -965,7 +965,7 @@ The oceans too were churned into tumult (samudrāś cāpi saṅkṣubdhāḥ), a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those ministers of his addressed him as he cried out in agony (vikrośantam athābruvan): “Propitiate Mahādeva (toṣayasva mahādevam), the Blue-throated Lord of Umā (nīlakaṇṭham umāpatim)!
+Then those ministers of his addressed him as he cried out in agony (_vikrośantam athābruvan_): “Propitiate Mahādeva (_toṣayasva mahādevam_), the Blue-throated Lord of Umā (_nīlakaṇṭham umāpatim_)!
 </details>
 </details>
 
@@ -996,7 +996,7 @@ Then those ministers of his addressed him as he cried out in agony (vikrośantam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Apart from him (tam ṛte), we see no other refuge here (śaraṇaṃ nānyaṃ paśyāmo ’tra), O Daśānana; bowing low with hymns of praise (stutibhiḥ praṇato bhūtvā), seek refuge in him alone (tam eva śaraṇaṃ vraja)!
+“Apart from him (_tam ṛte_), we see no other refuge here (_śaraṇaṃ nānyaṃ paśyāmo ’tra_), O Daśānana; bowing low with hymns of praise (_stutibhiḥ praṇato bhūtvā_), seek refuge in him alone (_tam eva śaraṇaṃ vraja_)!
 </details>
 </details>
 
@@ -1033,7 +1033,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Compassionate Śaṅkara, once pleased (kṛpāluḥ śaṅkaras tuṣṭaḥ), will bestow his grace upon you (prasādaṃ te vidhāsyati)!” Addressed thus by his counselors (evam uktas tadāmātyaiḥ), he hymned the Bull-bannered Lord (tuṣṭāva vṛṣabha-dhvajam).
+“Compassionate Śaṅkara, once pleased (_kṛpāluḥ śaṅkaras tuṣṭaḥ_), will bestow his grace upon you (_prasādaṃ te vidhāsyati_)!” Addressed thus by his counselors (_evam uktas tadāmātyaiḥ_), he hymned the Bull-bannered Lord (_tuṣṭāva vṛṣabha-dhvajam_).
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing down (praṇamya), Daśānana praised him with Sāman chants and manifold hymns (sāmabhir vividhaiḥ stotraiḥ); and a full thousand years passed by (saṃvatsara-sahasraṃ tu ... gatam) as that Rākṣasa wept aloud (rudato rakṣasaḥ).
+Bowing down (_praṇamya_), Daśānana praised him with Sāman chants and manifold hymns (_sāmabhir vividhaiḥ stotraiḥ_); and a full thousand years passed by (_saṃvatsara-sahasraṃ tu ... gatam_) as that Rākṣasa wept aloud (_rudato rakṣasaḥ_).
 </details>
 </details>
 
@@ -1112,9 +1112,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** Thereupon Mahādeva, the supreme Lord standing upon the mountain summit (śailāgre viṣṭhitaḥ prabhuḥ), was pleased (prītaḥ); releasing his arms (muktvā cāsya bhujān), O Rāma, he spoke these words unto Daśānana:
+**36:** Thereupon Mahādeva, the supreme Lord standing upon the mountain summit (_śailāgre viṣṭhitaḥ prabhuḥ_), was pleased (_prītaḥ_); releasing his arms (_muktvā cāsya bhujān_), O Rāma, he spoke these words unto Daśānana:
 
-**37:** “I am pleased with your valor (prīto ’smi tava vīryasya) and your fierce heroic pride (śauṇḍīryāc ca), O Daśānana, as well as with that most dreadful roar (rāvaḥ sudāruṇaḥ) loosed by you while pinned beneath the mountain (śailākrāntena).
+**37:** “I am pleased with your valor (_prīto ’smi tava vīryasya_) and your fierce heroic pride (_śauṇḍīryāc ca_), O Daśānana, as well as with that most dreadful roar (_rāvaḥ sudāruṇaḥ_) loosed by you while pinned beneath the mountain (_śailākrāntena_).
 </details>
 </details>
 
@@ -1145,7 +1145,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Because these three worlds (loka-trayaṃ caitat) were made to cry out in terror (rāvitaṃ bhayam āgatam), therefore, O King, you shall henceforth bear the renowned name of Rāvaṇa (rāvaṇo nāma nāmnā ... bhaviṣyasi)!
+“Because these three worlds (_loka-trayaṃ caitat_) were made to cry out in terror (_rāvitaṃ bhayam āgatam_), therefore, O King, you shall henceforth bear the renowned name of Rāvaṇa (_rāvaṇo nāma nāmnā ... bhaviṣyasi_)!
 </details>
 </details>
 
@@ -1176,7 +1176,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gods, mortals, Yakṣas, and whatever other beings dwell upon the surface of the earth (ye cānye jagatī-tale) shall address you thus (evaṃ tvām abhidhāsyanti): Rāvaṇa, the crier-maker of the worlds (rāvaṇaṃ loka-rāvaṇam)!
+“Gods, mortals, Yakṣas, and whatever other beings dwell upon the surface of the earth (_ye cānye jagatī-tale_) shall address you thus (_evaṃ tvām abhidhāsyanti_): Rāvaṇa, the crier-maker of the worlds (_rāvaṇaṃ loka-rāvaṇam_)!
 </details>
 </details>
 
@@ -1207,7 +1207,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go freely and without fear (gaccha ... visrabdham), O Paulastya, along whatever path you desire (pathā yena tvam icchasi); having my full leave (mayā caivābhyanujñātaḥ), O sovereign of the Rākṣasas, depart!”
+“Go freely and without fear (_gaccha ... visrabdham_), O Paulastya, along whatever path you desire (_pathā yena tvam icchasi_); having my full leave (_mayā caivābhyanujñātaḥ_), O sovereign of the Rākṣasas, depart!”
 </details>
 </details>
 
@@ -1238,7 +1238,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Śambhu, the lord of Laṅkā (laṅkeśaḥ) himself replied: “If you are truly pleased, O Mahādeva (prīto yadi mahādeva), grant a boon unto me who ask it (varaṃ me dehi yācataḥ)!
+Addressed thus by Śambhu, the lord of Laṅkā (_laṅkeśaḥ_) himself replied: “If you are truly pleased, O Mahādeva (_prīto yadi mahādeva_), grant a boon unto me who ask it (_varaṃ me dehi yācataḥ_)!
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Invulnerability (avadhyatvam) has been obtained by me against gods, Gandharvas, and Dānavas, against Rākṣasas, Guhyakas, and Nāgas, and against whatever other mightier beings exist (ye cānye balavattarāḥ).
+“Invulnerability (_avadhyatvam_) has been obtained by me against gods, Gandharvas, and Dānavas, against Rākṣasas, Guhyakas, and Nāgas, and against whatever other mightier beings exist (_ye cānye balavattarāḥ_).
 </details>
 </details>
 
@@ -1312,9 +1312,9 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**43:** “I take no account of mortals, O Lord (mānuṣān na gaṇe deva)—in my estimation they are utterly insignificant (svalpās te mama sammatāḥ). And a vast span of life (dīrgham āyuś ca) has already been granted me by Brahmā, O Destroyer of the Three Cities (tripurāntaka).
+**43:** “I take no account of mortals, O Lord (_mānuṣān na gaṇe deva_)—in my estimation they are utterly insignificant (_svalpās te mama sammatāḥ_). And a vast span of life (_dīrgham āyuś ca_) has already been granted me by Brahmā, O Destroyer of the Three Cities (_tripurāntaka_).
 
-**44:** “Grant me, therefore, the unspent remainder of that desired lifespan (vāñchitaṃ cāyuṣaḥ śeṣam), and bestow upon me a weapon (śastraṃ tvaṃ ca prayaccha me)!” Addressed in this manner by Rāvaṇa, Śaṅkara—
+**44:** “Grant me, therefore, the unspent remainder of that desired lifespan (_vāñchitaṃ cāyuṣaḥ śeṣam_), and bestow upon me a weapon (_śastraṃ tvaṃ ca prayaccha me_)!” Addressed in this manner by Rāvaṇa, Śaṅkara—
 </details>
 </details>
 
@@ -1345,7 +1345,7 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—bestowed upon him a fiercely blazing sword renowned as Candrahāsa (khaḍgaṃ mahādīptaṃ candrahāsam iti śrutam), and granted too the full remainder of his lifespan (āyuṣaś cāvaśeṣaṃ ca); pausing there, the Lord of Beings (sthitvā bhūta-patis tadā),
+—bestowed upon him a fiercely blazing sword renowned as Candrahāsa (_khaḍgaṃ mahādīptaṃ candrahāsam iti śrutam_), and granted too the full remainder of his lifespan (_āyuṣaś cāvaśeṣaṃ ca_); pausing there, the Lord of Beings (_sthitvā bhūta-patis tadā_),
 </details>
 </details>
 
@@ -1376,7 +1376,7 @@ Boasting of his invulnerability from Brahmā while dismissing mortals as negligi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having bestowed it, Śambhu then declared: “This weapon must never be treated with disrespect by you (nāvajñeyam idaṃ tvayā); for should it ever be slighted by you (avajñātaṃ yadi hi te), it will return unto me alone—of this there is no doubt (mām evaiṣyaty asaṃśayaḥ)!”
+Having bestowed it, Śambhu then declared: “This weapon must never be treated with disrespect by you (_nāvajñeyam idaṃ tvayā_); for should it ever be slighted by you (_avajñātaṃ yadi hi te_), it will return unto me alone—of this there is no doubt (_mām evaiṣyaty asaṃśayaḥ_)!”
 </details>
 </details>
 
@@ -1415,7 +1415,7 @@ Newly named by Maheśvara himself, Rāvaṇa bows to Śiva, reascends Puṣpaka,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus received his very name from Maheśvara himself (maheśvareṇaiva kṛta-nāmā), that Rāvaṇa bowed in reverence to Mahādeva (abhivādya mahādevam) and then ascended Puṣpaka (ārurohātha puṣpakam).
+Having thus received his very name from Maheśvara himself (_maheśvareṇaiva kṛta-nāmā_), that Rāvaṇa bowed in reverence to Mahādeva (_abhivādya mahādevam_) and then ascended Puṣpaka (_ārurohātha puṣpakam_).
 </details>
 </details>
 
@@ -1446,7 +1446,7 @@ Having thus received his very name from Maheśvara himself (maheśvareṇaiva k�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter, O Rāma, Rāvaṇa ranged across the face of the earth (mahī-tale ... paryakrāmata), harassing mighty-valored Kṣatriyas (kṣatriyān sumahāvīryān bādhamānaḥ) on every side (itas tataḥ).
+Thereafter, O Rāma, Rāvaṇa ranged across the face of the earth (_mahī-tale ... paryakrāmata_), harassing mighty-valored Kṣatriyas (_kṣatriyān sumahāvīryān bādhamānaḥ_) on every side (_itas tataḥ_).
 </details>
 </details>
 
@@ -1488,7 +1488,7 @@ Thereafter, O Rāma, Rāvaṇa ranged across the face of the earth (mahī-tale .
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Certain spirited and heroic Kṣatriyas (tejasvinaḥ śūrāḥ kṣatriyāḥ), intoxicated with battle-ardor (yuddha-durmadāḥ), refusing to submit to his command (tac-chāsanam akurvantaḥ), perished together with all their retinues (vineśuḥ sa-paricchadāḥ).
+Certain spirited and heroic Kṣatriyas (_tejasvinaḥ śūrāḥ kṣatriyāḥ_), intoxicated with battle-ardor (_yuddha-durmadāḥ_), refusing to submit to his command (_tac-chāsanam akurvantaḥ_), perished together with all their retinues (_vineśuḥ sa-paricchadāḥ_).
 </details>
 </details>
 

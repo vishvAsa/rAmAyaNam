@@ -83,7 +83,7 @@ of the female demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Valiant (vikrāntaḥ) Hanumān too heard everything in its true reality (sarvaṃ śuśrāva tattvataḥ)—[the words] of Sītā and of Trijaṭā, and the menacing (tarjitam) of the demonesses.
+Valiant (_vikrāntaḥ_) Hanumān too heard everything in its true reality (_sarvaṃ śuśrāva tattvataḥ_)—[the words] of Sītā and of Trijaṭā, and the menacing (_tarjitam_) of the demonesses.
 </details>
 </details>
 
@@ -139,7 +139,7 @@ in various ways.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing upon (avekṣamāṇaḥ) that noble lady, who was like a celestial goddess in the Nandana grove (devatām iva nandane), the monkey then pondered manifold trains of thought (bahuvidhāṃ cintāṃ cintayāmāsa):
+Gazing upon (_avekṣamāṇaḥ_) that noble lady, who was like a celestial goddess in the Nandana grove (_devatām iva nandane_), the monkey then pondered manifold trains of thought (_bahuvidhāṃ cintāṃ cintayāmāsa_):
 </details>
 </details>
 
@@ -192,7 +192,7 @@ same Seetha has been found by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“She whom many thousands and tens of thousands of monkeys (kapīnāṃ sahasrāṇi subahūny ayutāni ca) are searching for in all directions (dikṣu sarvāsu mārgante)—that very lady has been found here by me (seyam āsāditā mayā)!
+“She whom many thousands and tens of thousands of monkeys (_kapīnāṃ sahasrāṇi subahūny ayutāni ca_) are searching for in all directions (_dikṣu sarvāsu mārgante_)—that very lady has been found here by me (_seyam āsāditā mayā_)!
 </details>
 </details>
 
@@ -274,9 +274,9 @@ perceived by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Moving in secret (gūḍhena caratā) as a well-appointed spy (cāreṇa tu suyuktena) taking the measure of the enemy’s strength (śatroḥ śaktim avekṣatā), all this has now been duly reconnoitered by me (tāvad avekṣitam idaṃ mayā);
+**4:** Moving in secret (_gūḍhena caratā_) as a well-appointed spy (_cāreṇa tu suyuktena_) taking the measure of the enemy’s strength (_śatroḥ śaktim avekṣatā_), all this has now been duly reconnoitered by me (_tāvad avekṣitam idaṃ mayā_);
 
-**5:** both the specific character and gradation of the rākṣasas (rākṣasānāṃ viśeṣaś ca) and this city have been inspected (purī ceyaṃ nirīkṣitā), as well as the majesty and power (prabhāvaḥ) of this Rāvaṇa, overlord of the rākṣasas.
+**5:** both the specific character and gradation of the rākṣasas (_rākṣasānāṃ viśeṣaś ca_) and this city have been inspected (_purī ceyaṃ nirīkṣitā_), as well as the majesty and power (_prabhāvaḥ_) of this Rāvaṇa, overlord of the rākṣasas.
 </details>
 </details>
 
@@ -332,7 +332,7 @@ towards all beings and who is of immeasurable might."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Just as [it is fitting] to console (samāśvāsayitum) the wife of that immeasurable (aprameyasya) Lord who is compassionate toward all living beings (sarvasattvadayāvataḥ)—she who yearns to behold her husband (patidarśanakāṅkṣiṇīm)—
+Just as [it is fitting] to console (_samāśvāsayitum_) the wife of that immeasurable (_aprameyasya_) Lord who is compassionate toward all living beings (_sarvasattvadayāvataḥ_)—she who yearns to behold her husband (_patidarśanakāṅkṣiṇīm_)—
 </details>
 </details>
 
@@ -396,7 +396,7 @@ who is tormented by grief and who is not attaining the end to her affliction."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“[So too] I shall console (āśvāsayāmi) this lady whose face resembles the full moon (pūrṇacandranibhānanām), who has never known sorrow before (adṛṣṭaduḥkhām) and who sees no end to her grief (duḥkhasya na hy antam adhigacchatīm).
+“[So too] I shall console (_āśvāsayāmi_) this lady whose face resembles the full moon (_pūrṇacandranibhānanām_), who has never known sorrow before (_adṛṣṭaduḥkhām_) and who sees no end to her grief (_duḥkhasya na hy antam adhigacchatīm_).
 </details>
 </details>
 
@@ -451,7 +451,7 @@ by grief, my departure becomes blemished."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For if I depart without having consoled (anāśvāsya gamiṣyāmi) this chaste lady (satīm enām) whose consciousness is overwhelmed by grief (śokopahatacetanām), my departure would be fraught with fault (doṣavad gamanaṃ bhavet).
+For if I depart without having consoled (_anāśvāsya gamiṣyāmi_) this chaste lady (_satīm enām_) whose consciousness is overwhelmed by grief (_śokopahatacetanām_), my departure would be fraught with fault (_doṣavad gamanaṃ bhavet_).
 </details>
 </details>
 
@@ -506,7 +506,7 @@ her life."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For once I have departed (gate hi mayi tatra), this illustrious princess (rājaputrī yaśasvinī), Jānakī, seeing no deliverance (paritrāṇam apaśyantī), would cast away her life (jīvitaṃ tyajet).
+For once I have departed (_gate hi mayi tatra_), this illustrious princess (_rājaputrī yaśasvinī_), Jānakī, seeing no deliverance (_paritrāṇam apaśyantī_), would cast away her life (_jīvitaṃ tyajet_).
 </details>
 </details>
 
@@ -560,7 +560,7 @@ fit to be consoled by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And just as that mighty-armed prince (sa mahābāhuḥ) whose face resembles the full moon, ardently longing to behold Sītā (sītādarśanalālasaḥ), deserves to be consoled (samāśvāsayituṃ nyāyyaḥ) [by me with her message],
+And just as that mighty-armed prince (_sa mahābāhuḥ_) whose face resembles the full moon, ardently longing to behold Sītā (_sītādarśanalālasaḥ_), deserves to be consoled (_samāśvāsayituṃ nyāyyaḥ_) [by me with her message],
 </details>
 </details>
 
@@ -615,7 +615,7 @@ to be done? I am indeed perplexed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[so must she be consoled]; yet addressing her (abhibhāṣitam) in the visible presence of the night-wandering demonesses (niśācarīṇāṃ pratyakṣam) is impracticable (akṣamam). How then is this to be accomplished (kathaṃ nu khalu kartavyam idam)? For I have fallen into a sore dilemma (kṛcchragato hy aham)!
+[so must she be consoled]; yet addressing her (_abhibhāṣitam_) in the visible presence of the night-wandering demonesses (_niśācarīṇāṃ pratyakṣam_) is impracticable (_akṣamam_). How then is this to be accomplished (_kathaṃ nu khalu kartavyam idam_)? For I have fallen into a sore dilemma (_kṛcchragato hy aham_)!
 </details>
 </details>
 
@@ -667,7 +667,7 @@ There is no doubt about it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-If during this remaining portion of the night (anena rātriśeṣeṇa) she is not consoled by me (yadi nāśvāsyate mayā), there is no doubt at all (sarvathā nāsti saṃdehaḥ) that she will utterly abandon her life (parityakṣyati jīvitam).
+If during this remaining portion of the night (_anena rātriśeṣeṇa_) she is not consoled by me (_yadi nāśvāsyate mayā_), there is no doubt at all (_sarvathā nāsti saṃdehaḥ_) that she will utterly abandon her life (_parityakṣyati jīvitam_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ speaking now to this Seetha, the slender-waisted lady?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And if Rāma should ask me (rāmas tu yadi pṛcchen mām), ‘What word did Sītā speak to me (kiṃ māṃ sītābravīd vacaḥ)?’, what could I answer him (kim ahaṃ taṃ pratibrūyām) without having conversed with the slender-waisted lady (asambhāṣya sumadhyamām)?
+“And if Rāma should ask me (_rāmas tu yadi pṛcchen mām_), ‘What word did Sītā speak to me (_kiṃ māṃ sītābravīd vacaḥ_)?’, what could I answer him (_kim ahaṃ taṃ pratibrūyām_) without having conversed with the slender-waisted lady (_asambhāṣya sumadhyamām_)?
 </details>
 </details>
 
@@ -787,7 +787,7 @@ burn me up with his pungent eyes."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Were I to go hence in haste (itaḥ tvarayā gatam) devoid of a message from Sītā (sītāsaṃdeśarahitam), Kākutstha might even burn me to ashes (nirdahed api) with his eye fierce with wrath (krodhatīvreṇa cakṣuṣā)!
+Were I to go hence in haste (_itaḥ tvarayā gatam_) devoid of a message from Sītā (_sītāsaṃdeśarahitam_), Kākutstha might even burn me to ashes (_nirdahed api_) with his eye fierce with wrath (_krodhatīvreṇa cakṣuṣā_)!
 </details>
 </details>
 
@@ -842,7 +842,7 @@ an army will be futile."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or if I should rouse (yadi vodyojayiṣyāmi) my lord [Sugrīva] to march on Rāma’s account (bhartāraṃ rāmakāraṇāt), his coming here together with his army (āgamanaṃ tasya sasainyasya) will prove fruitless (vyarthaṃ bhaviṣyati) [if Sītā has already died].
+Or if I should rouse (_yadi vodyojayiṣyāmi_) my lord [Sugrīva] to march on Rāma’s account (_bhartāraṃ rāmakāraṇāt_), his coming here together with his army (_āgamanaṃ tasya sasainyasya_) will prove fruitless (_vyarthaṃ bhaviṣyati_) [if Sītā has already died].
 </details>
 </details>
 
@@ -898,7 +898,7 @@ baahuLaam* = who is very much in distress.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, remaining right here (avasthitaḥ) and waiting for an opportune lapse of attention (antaram āsādya) among the demonesses, I shall gently console (śanair āśvāsayāmy adya) this lady who is overwhelmed with anguish (saṃtāpabahulām imām).
+Therefore, remaining right here (_avasthitaḥ_) and waiting for an opportune lapse of attention (_antaram āsādya_) among the demonesses, I shall gently console (_śanair āśvāsayāmy adya_) this lady who is overwhelmed with anguish (_saṃtāpabahulām imām_).
 </details>
 </details>
 
@@ -952,7 +952,7 @@ human language too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For I am exceedingly diminutive in form (ahaṃ hy atitanuś caiva) and, above all, a monkey (vānaraś ca viśeṣataḥ); I shall therefore utter here human speech (vācaṃ codāhariṣyāmi mānuṣīm iha) that is refined and articulate (saṃskṛtām).
+For I am exceedingly diminutive in form (_ahaṃ hy atitanuś caiva_) and, above all, a monkey (_vānaraś ca viśeṣataḥ_); I shall therefore utter here human speech (_vācaṃ codāhariṣyāmi mānuṣīm iha_) that is refined and articulate (_saṃskṛtām_).
 </details>
 </details>
 
@@ -1011,7 +1011,7 @@ Especially, how can a monkey speak it?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet if I offer refined Sanskrit speech (yadi vācaṃ pradāsyāmi saṃskṛtām) like a twice-born brāhmaṇa (dvijātir iva), Sītā, taking me to be Rāvaṇa (rāvaṇaṃ manyamānā mām), will be struck with terror (bhītā bhaviṣyati)!
+Yet if I offer refined Sanskrit speech (_yadi vācaṃ pradāsyāmi saṃskṛtām_) like a twice-born brāhmaṇa (_dvijātir iva_), Sītā, taking me to be Rāvaṇa (_rāvaṇaṃ manyamānā mām_), will be struck with terror (_bhītā bhaviṣyati_)!
 </details>
 </details>
 
@@ -1076,7 +1076,7 @@ cannot be consoled."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Meaningful human speech (mānuṣaṃ vākyam arthavat) must by all means be spoken (avaśyam eva vaktavyam); not otherwise (nānyathā) can this blameless lady (iyam aninditā) be consoled by me (mayā sāntvayituṃ śakyā).
+“Meaningful human speech (_mānuṣaṃ vākyam arthavat_) must by all means be spoken (_avaśyam eva vaktavyam_); not otherwise (_nānyathā_) can this blameless lady (_iyam aninditā_) be consoled by me (_mayā sāntvayituṃ śakyā_).
 </details>
 </details>
 
@@ -1131,7 +1131,7 @@ will get frightened again."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet if this Jānakī beholds my [monkey] form (ālokya me rūpam) and hears my [human] speech (bhāṣitaṃ tathā), she who was already terrified by the rākṣasas (rakṣobhis trāsitā pūrvam) will fall into terror once again (bhūyas trāsam upaiṣyati).
+Yet if this Jānakī beholds my [monkey] form (_ālokya me rūpam_) and hears my [human] speech (_bhāṣitaṃ tathā_), she who was already terrified by the rākṣasas (_rakṣobhis trāsitā pūrvam_) will fall into terror once again (_bhūyas trāsam upaiṣyati_).
 </details>
 </details>
 
@@ -1184,7 +1184,7 @@ form at will, may shout loudly, engendered by fear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seized with panic (jātaparitrāsā), the high-minded, wide-eyed lady (manasvinī viśālākṣī) might raise an outcry (śabdaṃ kuryāt), taking me to be Rāvaṇa who assumes any form at will (jānānā māṃ rāvaṇaṃ kāmarūpiṇam).
+Then, seized with panic (_jātaparitrāsā_), the high-minded, wide-eyed lady (_manasvinī viśālākṣī_) might raise an outcry (_śabdaṃ kuryāt_), taking me to be Rāvaṇa who assumes any form at will (_jānānā māṃ rāvaṇaṃ kāmarūpiṇam_).
 </details>
 </details>
 
@@ -1236,7 +1236,7 @@ appearing dreadful as Yama the Lord of Death, may assemble here."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And once a cry is raised by Sītā (sītayā ca kṛte śabde), the troop of demonesses (rākṣasīgaṇaḥ), wielding manifold weapons (nānāpraharaṇaḥ), dreadful, and resembling Death himself (antakopamaḥ), would instantly rush together (sameyāt).
+And once a cry is raised by Sītā (_sītayā ca kṛte śabde_), the troop of demonesses (_rākṣasīgaṇaḥ_), wielding manifold weapons (_nānāpraharaṇaḥ_), dreadful, and resembling Death himself (_antakopamaḥ_), would instantly rush together (_sameyāt_).
 </details>
 </details>
 
@@ -1291,7 +1291,7 @@ with all their might."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, surrounding me on all sides (māṃ samparikṣipya sarvataḥ), those grim-faced (vikṛtānanāḥ), mighty demonesses would strive with all their might (kuryur yatnaṃ mahābalāḥ) to slay me or to capture me (vadhe ca grahaṇe caiva).
+Then, surrounding me on all sides (_māṃ samparikṣipya sarvataḥ_), those grim-faced (_vikṛtānanāḥ_), mighty demonesses would strive with all their might (_kuryur yatnaṃ mahābalāḥ_) to slay me or to capture me (_vadhe ca grahaṇe caiva_).
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ trees, they may get alarmed with fear."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And seeing me darting about (dṛṣṭvā ca paridhāvantam) among the branches, sub-branches, and trunks of the finest trees (śākhāḥ praśākhāś ca skandhāṃś cottamaśākhinām), they would become filled with alarm and suspicion (bhaveyuḥ pariśaṅkitāḥ).
+And seeing me darting about (_dṛṣṭvā ca paridhāvantam_) among the branches, sub-branches, and trunks of the finest trees (_śākhāḥ praśākhāś ca skandhāṃś cottamaśākhinām_), they would become filled with alarm and suspicion (_bhaveyuḥ pariśaṅkitāḥ_).
 </details>
 </details>
 
@@ -1410,7 +1410,7 @@ in the grove."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And beholding my mighty form (mama rūpaṃ ca samprekṣya mahat) as I roam through the grove (vane vicarataḥ), the demonesses, terrified with fear (bhayavitrastāḥ), would raise discordant shrieks (bhaveyur vikṛtasvarāḥ).
+“And beholding my mighty form (_mama rūpaṃ ca samprekṣya mahat_) as I roam through the grove (_vane vicarataḥ_), the demonesses, terrified with fear (_bhayavitrastāḥ_), would raise discordant shrieks (_bhaveyur vikṛtasvarāḥ_).
 </details>
 </details>
 
@@ -1461,7 +1461,7 @@ in the grove."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the demonesses would summon (kuryuḥ samāhvānam) the rākṣasa warriors as well (rakṣasām api), who are stationed by the lord of rākṣasas (rākṣasendraniyuktānām) in the palace of the rākṣasa king (rākṣasendraniveśane).
+Then the demonesses would summon (_kuryuḥ samāhvānam_) the rākṣasa warriors as well (_rakṣasām api_), who are stationed by the lord of rākṣasas (_rākṣasendraniyuktānām_) in the palace of the rākṣasa king (_rākṣasendraniveśane_).
 </details>
 </details>
 
@@ -1516,7 +1516,7 @@ kinds of weapons like spears lances and swords."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With pikes, arrows, swords, and manifold weapons in their hands (śūlaśaranistriṃśavividhāyudhapāṇayaḥ), they would rush headlong (āpateyur vegena) into this fray (vimarde 'smin) out of alarm (udvegakāraṇāt).
+With pikes, arrows, swords, and manifold weapons in their hands (_śūlaśaranistriṃśavividhāyudhapāṇayaḥ_), they would rush headlong (_āpateyur vegena_) into this fray (_vimarde &#x27;smin_) out of alarm (_udvegakāraṇāt_).
 </details>
 </details>
 
@@ -1571,7 +1571,7 @@ while destroying the army of demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hemmed in by them on all sides (saṃruddhas tais tu paritaḥ), I could scatter and destroy the rākṣasa host (vidhame rākṣasaṃ balam), yet [exhausted by battle] I might not be able to reach (śaknuyāṃ na tu samprāptum) the farther shore of the great ocean (paraṃ pāraṃ mahodadheḥ).
+Hemmed in by them on all sides (_saṃruddhas tais tu paritaḥ_), I could scatter and destroy the rākṣasa host (_vidhame rākṣasaṃ balam_), yet [exhausted by battle] I might not be able to reach (_śaknuyāṃ na tu samprāptum_) the farther shore of the great ocean (_paraṃ pāraṃ mahodadheḥ_).
 </details>
 </details>
 
@@ -1626,7 +1626,7 @@ not be able to know the occurrence of my arrival. Even I may get captured too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else many swift-acting warriors (bahavaḥ śīghrakāriṇaḥ), surrounding me (āvṛtya), might capture me (māṃ vā gṛhṇīyuḥ); then this lady would remain unacquainted with my purpose (syād iyaṃ cāgṛhītārthā), and my own capture would ensue (mama ca grahaṇaṃ bhavet).
+Or else many swift-acting warriors (_bahavaḥ śīghrakāriṇaḥ_), surrounding me (_āvṛtya_), might capture me (_māṃ vā gṛhṇīyuḥ_); then this lady would remain unacquainted with my purpose (_syād iyaṃ cāgṛhītārthā_), and my own capture would ensue (_mama ca grahaṇaṃ bhavet_).
 </details>
 </details>
 
@@ -1679,7 +1679,7 @@ will be ruined."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or those demons who delight in slaughter (hiṃsābhirucayaḥ) might slay this daughter of Janaka (hiṃsyur imāṃ vā janakātmajām); then this entire enterprise of Rāma and Sugrīva (kāryaṃ rāmasugrīvayor idam) would be ruined (vipannaṃ syāt)!
+Or those demons who delight in slaughter (_hiṃsābhirucayaḥ_) might slay this daughter of Janaka (_hiṃsyur imāṃ vā janakātmajām_); then this entire enterprise of Rāma and Sugrīva (_kāryaṃ rāmasugrīvayor idam_) would be ruined (_vipannaṃ syāt_)!
 </details>
 </details>
 
@@ -1741,7 +1741,7 @@ by an ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Jānakī dwells in this secret, heavily guarded place (uddeśe 'smin gupte), where all tracks are cut off (naṣṭamārge), surrounded by rākṣasas (rākṣasaiḥ parivārite) and encircled by the ocean (sāgareṇa parikṣipte).
+“Jānakī dwells in this secret, heavily guarded place (_uddeśe &#x27;smin gupte_), where all tracks are cut off (_naṣṭamārge_), surrounded by rākṣasas (_rākṣasaiḥ parivārite_) and encircled by the ocean (_sāgareṇa parikṣipte_).
 </details>
 </details>
 
@@ -1796,7 +1796,7 @@ Rama who can fulfill this work (of searching for Seetha)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Were I slain or captured (viśaste vā gṛhīte vā mayi) by the rākṣasas in battle (saṃyuge), I see no other helper for Rāma (nānyaṃ paśyāmi rāmasya sahāyam) in accomplishing this task (kāryasādhane).
+Were I slain or captured (_viśaste vā gṛhīte vā mayi_) by the rākṣasas in battle (_saṃyuge_), I see no other helper for Rāma (_nānyaṃ paśyāmi rāmasya sahāyam_) in accomplishing this task (_kāryasādhane_).
 </details>
 </details>
 
@@ -1848,7 +1848,7 @@ of one hundred Yojanas, in case I am killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting carefully (vimṛśaṃś ca), I do not behold any monkey (na paśyāmi yo vānaraḥ) who, if I were slain (hate mayi), could leap across the great ocean (laṅghayeta mahodadhim) spanning a hundred yojanas (śatayojanavistīrṇam).
+Reflecting carefully (_vimṛśaṃś ca_), I do not behold any monkey (_na paśyāmi yo vānaraḥ_) who, if I were slain (_hate mayi_), could leap across the great ocean (_laṅghayeta mahodadhim_) spanning a hundred _yojanas_ (_śatayojanavistīrṇam_).
 </details>
 </details>
 
@@ -1903,7 +1903,7 @@ battle, I may not be capable of reaching the other shore of the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Granted, I am fully capable of slaying (kāmaṃ hantuṃ samartho 'smi) even thousands of rākṣasas (sahasrāṇy api rakṣasām); yet [after such a battle] I shall not be able to reach (na tu śakṣyāmy ahaṃ prāptum) the farther shore of the great ocean.
+Granted, I am fully capable of slaying (_kāmaṃ hantuṃ samartho &#x27;smi_) even thousands of rākṣasas (_sahasrāṇy api rakṣasām_); yet [after such a battle] I shall not be able to reach (_na tu śakṣyāmy ahaṃ prāptum_) the farther shore of the great ocean.
 </details>
 </details>
 
@@ -1958,7 +1958,7 @@ do an assured act with an apprehension?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Moreover, battles are uncertain in their outcome (asatyāni ca yuddhāni); hazarding a risk does not please me (saṃśayo me na rocate). What wise man (kaś ca prājñaḥ) would turn an enterprise already free of doubt (niḥsaṃśayaṃ kāryam) into a matter of doubt (sasaṃśayam)?
+Moreover, battles are uncertain in their outcome (_asatyāni ca yuddhāni_); hazarding a risk does not please me (_saṃśayo me na rocate_). What wise man (_kaś ca prājñaḥ_) would turn an enterprise already free of doubt (_niḥsaṃśayaṃ kāryam_) into a matter of doubt (_sasaṃśayam_)?
 </details>
 </details>
 
@@ -2017,7 +2017,7 @@ this; *mahaan* = great; *doSaH* = lapse; *syaat* = will occur.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This great fault (eṣa doṣo mahān hi syāt) would arise in my addressing Sītā [openly] (mama sītābhibhāṣaṇe); yet if I do not address her (anabhibhāṣaṇe), Vaidehī’s abandonment of her life would ensue (prāṇatyāgaś ca vaidehyā bhavet).
+“This great fault (_eṣa doṣo mahān hi syāt_) would arise in my addressing Sītā [openly] (_mama sītābhibhāṣaṇe_); yet if I do not address her (_anabhibhāṣaṇe_), Vaidehī’s abandonment of her life would ensue (_prāṇatyāgaś ca vaidehyā bhavet_).
 </details>
 </details>
 
@@ -2074,7 +2074,7 @@ space, even as darkness disappears at sun rise."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Matters already brought to fruition (bhūtāś cārthāḥ), when thwarted by improper place and time (deśakālavirodhitāḥ), are ruined (virudhyante) upon encountering an irresolute, ill-judging envoy (viklavaṃ dūtam āsādya), just as darkness [vanishes] at sunrise (tamaḥ sūryodaye yathā).
+Matters already brought to fruition (_bhūtāś cārthāḥ_), when thwarted by improper place and time (_deśakālavirodhitāḥ_), are ruined (_virudhyante_) upon encountering an irresolute, ill-judging envoy (_viklavaṃ dūtam āsādya_), just as darkness [vanishes] at sunrise (_tamaḥ sūryodaye yathā_).
 </details>
 </details>
 
@@ -2127,7 +2127,7 @@ good results. Messengers boasting themselves to be learned, thus indeed ruin tho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When a course of action hangs between success and ruin (arthānarthāntare), even a plan firmly resolved upon (buddhir niścitāpi) [by king and ministers] does not shine (na śobhate); for envoys who fancy themselves wise (dūtāḥ paṇḍitamāninaḥ) ruin enterprises (ghātayanti hi kāryāṇi)!
+When a course of action hangs between success and ruin (_arthānarthāntare_), even a plan firmly resolved upon (_buddhir niścitāpi_) [by king and ministers] does not shine (_na śobhate_); for envoys who fancy themselves wise (_dūtāḥ paṇḍitamāninaḥ_) ruin enterprises (_ghātayanti hi kāryāṇi_)!
 </details>
 </details>
 
@@ -2200,9 +2200,9 @@ mind (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** How then may the enterprise not be ruined (na vinaśyet kathaṃ kāryam)? How may there be no folly on my part (vaiklavyaṃ na kathaṃ mama)? And how may my leaping across the ocean (laṅghanaṃ ca samudrasya) not prove in vain (kathaṃ nu na vṛthā bhavet)?
+**39:** How then may the enterprise not be ruined (_na vinaśyet kathaṃ kāryam_)? How may there be no folly on my part (_vaiklavyaṃ na kathaṃ mama_)? And how may my leaping across the ocean (_laṅghanaṃ ca samudrasya_) not prove in vain (_kathaṃ nu na vṛthā bhavet_)?
 
-**40:** How indeed may she hear my speech (kathaṃ nu khalu vākyaṃ me śṛṇuyāt) and yet not be startled in alarm (nodvijeta ca)?” Reflecting thus (iti saṃcintya), wise Hanumān (hanumān matimān) formed his resolve (cakāra matim):
+**40:** How indeed may she hear my speech (_kathaṃ nu khalu vākyaṃ me śṛṇuyāt_) and yet not be startled in alarm (_nodvijeta ca_)?” Reflecting thus (_iti saṃcintya_), wise Hanumān (_hanumān matimān_) formed his resolve (_cakāra matim_):
 </details>
 </details>
 
@@ -2265,7 +2265,7 @@ whose mind is directed towards that relation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Extolling (anukīrtayan) Rāma of unwearied deeds (akliṣṭakarmāṇam), her noble kinsman (subandhum), I shall not startle (nainām udvejayiṣyāmi) this lady whose mind and heart are wholly fixed upon that kinsman (tadbandhugatacetanām).
+“Extolling (_anukīrtayan_) Rāma of unwearied deeds (_akliṣṭakarmāṇam_), her noble kinsman (_subandhum_), I shall not startle (_nainām udvejayiṣyāmi_) this lady whose mind and heart are wholly fixed upon that kinsman (_tadbandhugatacetanām_).
 </details>
 </details>
 
@@ -2291,7 +2291,7 @@ whose mind is directed towards that relation."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delivering (samarpayan) the auspicious, righteous words (śubhāni dharmayuktāni vacanāni) of Rāma, the foremost of the Ikṣvākus (ikṣvākūṇāṃ variṣṭhasya) and knower of the Self (viditātmanaḥ),
+Delivering (_samarpayan_) the auspicious, righteous words (_śubhāni dharmayuktāni vacanāni_) of Rāma, the foremost of the Ikṣvākus (_ikṣvākūṇāṃ variṣṭhasya_) and knower of the Self (_viditātmanaḥ_),
 </details>
 </details>
 
@@ -2342,7 +2342,7 @@ Seetha rightly believes everything."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I shall cause her to hear (śrāvayiṣyāmi) all of them, speaking in a sweet voice (madhurāṃ prabruvan giram); I shall so arrange everything (tathā sarvaṃ samādadhe) that Sītā will place her trust [in my words] (śraddhāsyati yathā sītā).”
+I shall cause her to hear (_śrāvayiṣyāmi_) all of them, speaking in a sweet voice (_madhurāṃ prabruvan giram_); I shall so arrange everything (_tathā sarvaṃ samādadhe_) that Sītā will place her trust [in my words] (_śraddhāsyati yathā sītā_).”
 </details>
 </details>
 
@@ -2418,7 +2418,7 @@ the following words of many kinds which were not futile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having reflected thus in manifold ways (iti sa bahuvidhaṃ), Hanumān of mighty majesty (mahāprabhāvaḥ), stationed amidst the branches of the tree (drumaviṭapāntaram āsthitaḥ) and gazing upon the beloved consort of the lord of the earth (jagatipateḥ pramadām avekṣamāṇaḥ), spoke sweet and truthful words (madhuram avitathaṃ jagāda vākyam).
+Having reflected thus in manifold ways (_iti sa bahuvidhaṃ_), Hanumān of mighty majesty (_mahāprabhāvaḥ_), stationed amidst the branches of the tree (_drumaviṭapāntaram āsthitaḥ_) and gazing upon the beloved consort of the lord of the earth (_jagatipateḥ pramadām avekṣamāṇaḥ_), spoke sweet and truthful words (_madhuram avitathaṃ jagāda vākyam_).
 </details>
 </details>
 

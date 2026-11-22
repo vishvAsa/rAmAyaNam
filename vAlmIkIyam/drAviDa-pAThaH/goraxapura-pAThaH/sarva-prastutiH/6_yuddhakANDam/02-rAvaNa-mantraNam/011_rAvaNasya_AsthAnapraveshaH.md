@@ -79,7 +79,7 @@ sinful action and by his despising of well-disposed people like Vibhishana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Infatuated by his passion for Maithilī (maithilīkāma-mohitaḥ), through his disregard of well-wishers (asanmānāc ca suhṛdām), and because of his sinful deed (pāpena karmaṇā), that sinful king grew gaunt with anxiety (babhūva kṛśaḥ).
+Infatuated by his passion for Maithilī (_maithilīkāma-mohitaḥ_), through his disregard of well-wishers (_asanmānāc ca suhṛdām_), and because of his sinful deed (_pāpena karmaṇā_), that sinful king grew gaunt with anxiety (_babhūva kṛśaḥ_).
 </details>
 </details>
 
@@ -122,7 +122,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overwhelmed by desire and brooding upon Vaidehī (vaidehīm anucintayan), at that juncture when the time for deliberation was slipping away (atītasamaye kāle) and battle was at hand (yudhi), Rāvaṇa deemed it timely [to take counsel] with his ministers and friends (prāptakālam amanyata).
+Overwhelmed by desire and brooding upon Vaidehī (_vaidehīm anucintayan_), at that juncture when the time for deliberation was slipping away (_atītasamaye kāle_) and battle was at hand (_yudhi_), Rāvaṇa deemed it timely [to take counsel] with his ministers and friends (_prāptakālam amanyata_).
 </details>
 </details>
 
@@ -159,7 +159,7 @@ Overwhelmed by desire and brooding upon Vaidehī (vaidehīm anucintayan), at tha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching his great chariot, which was hung with lattices of gold (hemajāla-vitatam), decked with gems and coral (maṇividruma-bhūṣitam), and yoked with well-trained steeds (vinītāśvam), he ascended it.
+Approaching his great chariot, which was hung with lattices of gold (_hemajāla-vitatam_), decked with gems and coral (_maṇividruma-bhūṣitam_), and yoked with well-trained steeds (_vinītāśvam_), he ascended it.
 </details>
 </details>
 
@@ -216,7 +216,7 @@ assembly-hall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting that foremost of chariots, which rumbled like a mighty storm-cloud (mahāmegha-samasvanam), the ten-necked lord, chief of the rākṣasas, set forth toward the assembly hall (sabhāṃ prati).
+Mounting that foremost of chariots, which rumbled like a mighty storm-cloud (_mahāmegha-samasvanam_), the ten-necked lord, chief of the rākṣasas, set forth toward the assembly hall (_sabhāṃ prati_).
 </details>
 </details>
 
@@ -265,7 +265,7 @@ marched in front of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then rākṣasa warriors bearing swords and shields (asicarmadharā yodhāḥ) and armed with every weapon marched in front (purastāt sampratasthire) of the lord of rākṣasas;
+Then rākṣasa warriors bearing swords and shields (_asicarmadharā yodhāḥ_) and armed with every weapon marched in front (_purastāt sampratasthire_) of the lord of rākṣasas;
 </details>
 </details>
 
@@ -311,7 +311,7 @@ then marched, duly surrounding him from sides and even behind.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and others, arrayed in manifold grotesque attires (nānāvikṛtaveṣāś ca) and decked with diverse ornaments, surrounded him on his flanks and in the rear (pārśvataḥ pṛṣṭhataś cainam parivārya) and marched along.
+and others, arrayed in manifold grotesque attires (_nānāvikṛtaveṣāś ca_) and decked with diverse ornaments, surrounded him on his flanks and in the rear (_pārśvataḥ pṛṣṭhataś cainam parivārya_) and marched along.
 </details>
 </details>
 
@@ -371,7 +371,7 @@ supportively coming in different gaits, rushed after Ravana quickly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Supreme car-warriors (atirathāḥ) swiftly followed behind the ten-necked king in chariots, on rutting lordly elephants (matteiś ca varavāraṇaiḥ), and on prancing steeds (ākrīḍadbhiś ca vājibhiḥ)—
+Supreme car-warriors (_atirathāḥ_) swiftly followed behind the ten-necked king in chariots, on rutting lordly elephants (_matteiś ca varavāraṇaiḥ_), and on prancing steeds (_ākrīḍadbhiś ca vājibhiḥ_)—
 </details>
 </details>
 
@@ -429,7 +429,7 @@ were holding axes. Some others had darts in their hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-some with maces and iron clubs in hand (gadāparigha-hastāś ca), some grasping lances and javelins, others bearing battle-axes (paraśvadha-dharāḥ), and yet others with pikes in hand; and then there arose the mighty din of thousands of musical instruments (tūryasahasrāṇāṃ niḥsvano mahān),
+some with maces and iron clubs in hand (_gadāparigha-hastāś ca_), some grasping lances and javelins, others bearing battle-axes (_paraśvadha-dharāḥ_), and yet others with pikes in hand; and then there arose the mighty din of thousands of musical instruments (_tūryasahasrāṇāṃ niḥsvano mahān_),
 </details>
 </details>
 
@@ -482,7 +482,7 @@ along with tumultuous noise of conches were produced.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and a tumultuous blast of conchs (tumulaḥ śaṅkhaśabdaś ca) as Rāvaṇa proceeded to the assembly hall. Making [the quarters] resound suddenly with the thunderous rumble of his wheel-rims (nemighoṣeṇa sahasābhininādayan),
+and a tumultuous blast of conchs (_tumulaḥ śaṅkhaśabdaś ca_) as Rāvaṇa proceeded to the assembly hall. Making [the quarters] resound suddenly with the thunderous rumble of his wheel-rims (_nemighoṣeṇa sahasābhininādayan_),
 </details>
 </details>
 
@@ -531,7 +531,7 @@ entered the beautiful royal high-way.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that great car-warrior entered upon the royal highway graced with splendor (rājamārgaṃ śriyā juṣṭam); and his spotless parasol held aloft (vimalaṃ cātapatraṃ pragṛhītam) shone forth—
+that great car-warrior entered upon the royal highway graced with splendor (_rājamārgaṃ śriyā juṣṭam_); and his spotless parasol held aloft (_vimalaṃ cātapatraṃ pragṛhītam_) shone forth—
 </details>
 </details>
 
@@ -582,7 +582,7 @@ The spotlessly white umbrella, held on Ravana's head, shone like a full-moon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-gleaming white over the lord of rākṣasas like the full lord of stars [the moon] (pūrṇas tārādhipo yathā); and, set with golden floral clusters within (hemamañjari-garbhe) and fashioned of pure crystal (śuddhasphaṭika-vigrahe),
+gleaming white over the lord of rākṣasas like the full lord of stars [the moon] (_pūrṇas tārādhipo yathā_); and, set with golden floral clusters within (_hemamañjari-garbhe_) and fashioned of pure crystal (_śuddhasphaṭika-vigrahe_),
 </details>
 </details>
 
@@ -634,7 +634,7 @@ fringes were shining.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-two yak-tail whisks (cāmaravyajane) shone to his left and right (savyadakṣiṇe). Standing upon the ground, all those rākṣasas joined their palms in reverence toward him seated in his chariot,
+two yak-tail whisks (_cāmaravyajane_) shone to his left and right (_savyadakṣiṇe_). Standing upon the ground, all those rākṣasas joined their palms in reverence toward him seated in his chariot,
 </details>
 </details>
 
@@ -697,7 +697,7 @@ and joining their palms to his the best of demons, mounted on the chariot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and the rākṣasas bowed their heads (śirobhis taṃ vavandire) to the chief of the rākṣasas. Extolled by the rākṣasas with benedictions of victory (jayāśīrbhiḥ), that tamer of foes,
+and the rākṣasas bowed their heads (_śirobhis taṃ vavandire_) to the chief of the rākṣasas. Extolled by the rākṣasas with benedictions of victory (_jayāśīrbhiḥ_), that tamer of foes,
 </details>
 </details>
 
@@ -748,9 +748,9 @@ demons through cheers of victory, approached that organized assembly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** endowed with mighty splendor, reached the assembly hall (sabhām āsasāda) fashioned [by Viśvakarman], paved with gold and silver (suvarṇarajatāstīrṇām) and inlaid with pure crystal in its intervals (viśuddhasphaṭikāntarām).
+**14:** endowed with mighty splendor, reached the assembly hall (_sabhām āsasāda_) fashioned [by Viśvakarman], paved with gold and silver (_suvarṇarajatāstīrṇām_) and inlaid with pure crystal in its intervals (_viśuddhasphaṭikāntarām_).
 
-**15:** Resplendent in his form (virājamāno vapuṣā), [he approached] that ever-radiant hall (sadāprabhām), canopied with awnings of gold-cloth (rukmapaṭṭottaracchadām) and guarded by six hundred piśācas (piśācaśataiḥ ṣaḍbhiḥ)—
+**15:** Resplendent in his form (_virājamāno vapuṣā_), [he approached] that ever-radiant hall (_sadāprabhām_), canopied with awnings of gold-cloth (_rukmapaṭṭottaracchadām_) and guarded by six hundred piśācas (_piśācaśataiḥ ṣaḍbhiḥ_)—
 </details>
 </details>
 
@@ -828,9 +828,9 @@ eye gems), covered with skin of deer called Priyaka and furnished with pillows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** and that lord of mighty splendor entered the hall masterfully wrought by Viśvakarman (sukṛtāṃ viśvakarmaṇā). In that hall, [he occupied] a seat fashioned of cat's-eye gems (vaidūryamayam) and spread with the spotted pelt of a priyaka deer (priyakājina-saṃvṛtam)—
+**16:** and that lord of mighty splendor entered the hall masterfully wrought by Viśvakarman (_sukṛtāṃ viśvakarmaṇā_). In that hall, [he occupied] a seat fashioned of cat&#x27;s-eye gems (_vaidūryamayam_) and spread with the spotted pelt of a _priyaka_ deer (_priyakājina-saṃvṛtam_)—
 
-**17:** Rāvaṇa betook himself to that supreme, spacious throne furnished with a bolster (mahat sopāśrayaṃ paramāsanam); and then, like the Supreme Lord himself (īśvaravat), he commanded his swift-striding messengers (dūtāṃl laghuparākramān):
+**17:** Rāvaṇa betook himself to that supreme, spacious throne furnished with a bolster (_mahat sopāśrayaṃ paramāsanam_); and then, like the Supreme Lord himself (_īśvaravat_), he commanded his swift-striding messengers (_dūtāṃl laghuparākramān_):
 </details>
 </details>
 
@@ -888,7 +888,7 @@ all the demons here quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bring all these rākṣasas hither to me swiftly (samānayata me kṣipram ihaitān rākṣasān)! I know that a momentous task is at hand (kṛtyam asti mahaj jāne) which must be accomplished with regard to our enemies (śatrubhiḥ)!”
+“Bring all these rākṣasas hither to me swiftly (_samānayata me kṣipram ihaitān rākṣasān_)! I know that a momentous task is at hand (_kṛtyam asti mahaj jāne_) which must be accomplished with regard to our enemies (_śatrubhiḥ_)!”
 </details>
 </details>
 
@@ -933,7 +933,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that command of his, the rākṣasa [heralds] went round Laṅkā (laṅkāyāṃ paricakramuḥ); halting at every house (anugeham avasthāya), in pleasure-pavilions, upon couches, and in gardens (vihāra-śayaneṣu ca udyāneṣu ca), they summoned the rākṣasas without showing the least alarm (codayanto hy abhītavat).
+Hearing that command of his, the rākṣasa [heralds] went round Laṅkā (_laṅkāyāṃ paricakramuḥ_); halting at every house (_anugeham avasthāya_), in pleasure-pavilions, upon couches, and in gardens (_vihāra-śayaneṣu ca udyāneṣu ca_), they summoned the rākṣasas without showing the least alarm (_codayanto hy abhītavat_).
 </details>
 </details>
 
@@ -984,7 +984,7 @@ places, in bedrooms or in gardens and went without fear to every house in Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some of them rode within chariots (rathāntacarā eke), some mounted proud and sturdy steeds (dṛptān eke dṛḍhān hayān), some climbed upon elephants (nāgān eke 'dhiruruhuḥ), and others went on foot (jagmuś caike padātayaḥ).
+Some of them rode within chariots (_rathāntacarā eke_), some mounted proud and sturdy steeds (_dṛptān eke dṛḍhān hayān_), some climbed upon elephants (_nāgān eke &#x27;dhiruruhuḥ_), and others went on foot (_jagmuś caike padātayaḥ_).
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ and some mounted on elephants. Some others went on foot.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thronged to the utmost (paramākīrṇā) with hurtling chariots, elephants, and horses (sampatadbhir rathakuñjaravājibhiḥ), that city shone like the sky filled with swooping eagles (garutmadbhir ivāmbaram).
+Thronged to the utmost (_paramākīrṇā_) with hurtling chariots, elephants, and horses (_sampatadbhir rathakuñjaravājibhiḥ_), that city shone like the sky filled with swooping eagles (_garutmadbhir ivāmbaram_).
 </details>
 </details>
 
@@ -1092,7 +1092,7 @@ together, appeared like birds rushing fast in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaving their mounts and diverse conveyances outside (vāhanāny avasthāya yānāni vividhāni ca), they entered the assembly hall on foot (sabhāṃ padbhiḥ praviviśuḥ), like lions entering a mountain cavern (siṃhā giriguhām iva).
+Leaving their mounts and diverse conveyances outside (_vāhanāny avasthāya yānāni vividhāni ca_), they entered the assembly hall on foot (_sabhāṃ padbhiḥ praviviśuḥ_), like lions entering a mountain cavern (_siṃhā giriguhām iva_).
 </details>
 </details>
 
@@ -1144,7 +1144,7 @@ foot the assembly-hall as a mountain-cave is entered by lions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Clasping the King's feet (rājñaḥ pādau gṛhītvā tu) and honored by the King in return (rājñā te pratipūjitāḥ), some sat down upon stools (pīṭheṣv anye), others upon bṛsī cushions (bṛsīṣv anye), and some upon the carpeted floor (bhūmau kecid upāviśan).
+Clasping the King&#x27;s feet (_rājñaḥ pādau gṛhītvā tu_) and honored by the King in return (_rājñā te pratipūjitāḥ_), some sat down upon stools (_pīṭheṣv anye_), others upon _bṛsī_ cushions (_bṛsīṣv anye_), and some upon the carpeted floor (_bhūmau kecid upāviśan_).
 </details>
 </details>
 
@@ -1202,7 +1202,7 @@ seats, some others on mats (of Kusa grass) and others on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assembling in the council hall at the King's command (rājaśāsanāt), those rākṣasas waited upon Rāvaṇa, lord of the rākṣasas, each according to his rank (yathārham upatasthus te).
+Assembling in the council hall at the King&#x27;s command (_rājaśāsanāt_), those rākṣasas waited upon Rāvaṇa, lord of the rākṣasas, each according to his rank (_yathārham upatasthus te_).
 </details>
 </details>
 
@@ -1258,9 +1258,9 @@ position round Ravana the king of demons, each according to their rank.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** And chief ministers (mantriṇaś ca yathāmukhyāḥ) learned in determining state policies (niścitārtheṣu paṇḍitāḥ), together with executive counselors endowed with high virtues (amātyāś ca guṇopetāḥ), all-knowing and insightful with wisdom (buddhidarśanāḥ),
+**25:** And chief ministers (_mantriṇaś ca yathāmukhyāḥ_) learned in determining state policies (_niścitārtheṣu paṇḍitāḥ_), together with executive counselors endowed with high virtues (_amātyāś ca guṇopetāḥ_), all-knowing and insightful with wisdom (_buddhidarśanāḥ_),
 
-**26:** as well as many heroes by the hundreds (śataśaḥ śūrāś ca bahavaḥ), converged there in that gold-hued assembly hall (sabhāyāṃ hemavarṇāyām) for the prosperous issue of the whole affair (sarvārthasya sukhāya vai).
+**26:** as well as many heroes by the hundreds (_śataśaḥ śūrāś ca bahavaḥ_), converged there in that gold-hued assembly hall (_sabhāyāṃ hemavarṇāyām_) for the prosperous issue of the whole affair (_sarvārthasya sukhāya vai_).
 </details>
 </details>
 
@@ -1336,7 +1336,7 @@ ministers and well-wishers then to be a fit time.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the great-souled, illustrious Vibhīṣaṇa mounted his spacious, auspicious, and excellent chariot—yoked with fine steeds (suyugyam) and its frame variegated with gold (hemavicitritāṅgam)—and proceeded to his elder brother's assembly (saṃsadam agrajasya).
+Then the great-souled, illustrious Vibhīṣaṇa mounted his spacious, auspicious, and excellent chariot—yoked with fine steeds (_suyugyam_) and its frame variegated with gold (_hemavicitritāṅgam_)—and proceeded to his elder brother&#x27;s assembly (_saṃsadam agrajasya_).
 </details>
 </details>
 
@@ -1398,7 +1398,7 @@ assembly-hall of Ravana his elder brother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That younger brother (avarajaḥ) announced his name (śaśaṃsa nāma) to his elder brother and thereafter bowed to his feet (paścāc caraṇau vavande), as did Śuka and Prahasta; and Rāvaṇa assigned separate seats to each of them according to rank (tebhyo dadau yathārhaṃ pṛthag āsanāni).
+That younger brother (_avarajaḥ_) announced his name (_śaśaṃsa nāma_) to his elder brother and thereafter bowed to his feet (_paścāc caraṇau vavande_), as did Śuka and Prahasta; and Rāvaṇa assigned separate seats to each of them according to rank (_tebhyo dadau yathārhaṃ pṛthag āsanāni_).
 </details>
 </details>
 
@@ -1463,7 +1463,7 @@ the feet. Suka and Prahasta followed suit. Ravana gave them suitable seats separ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that assembly of rākṣasas decked with ornaments of gold and diverse gems (suvarṇa-nānāmaṇi-bhūṣaṇānām) and clad in fine garments (suvāsasām), the fragrances of their priceless aloe and sandalwood (parārghyāguru-candanānām) and of their garlands wafted on every side (pravavuḥ samantāt).
+In that assembly of rākṣasas decked with ornaments of gold and diverse gems (_suvarṇa-nānāmaṇi-bhūṣaṇānām_) and clad in fine garments (_suvāsasām_), the fragrances of their priceless aloe and sandalwood (_parārghyāguru-candanānām_) and of their garlands wafted on every side (_pravavuḥ samantāt_).
 </details>
 </details>
 
@@ -1523,7 +1523,7 @@ attired in excellent clothes diffused all round in the assembly-hall.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-None of the members of that assembly clamored (na cukruśuḥ), none spoke an untruth (nānṛtam āha kaścit), nor did anyone chatter loudly (nāpi jajalpru uccaiḥ); accomplished in their purposes (saṃsiddhārthāḥ) and fierce in valor, all of them fixed their gaze upon the face of their lord (bhartuḥ sarve dadṛśuś cānanaṃ te).
+None of the members of that assembly clamored (_na cukruśuḥ_), none spoke an untruth (_nānṛtam āha kaścit_), nor did anyone chatter loudly (_nāpi jajalpru uccaiḥ_); accomplished in their purposes (_saṃsiddhārthāḥ_) and fierce in valor, all of them fixed their gaze upon the face of their lord (_bhartuḥ sarve dadṛśuś cānanaṃ te_).
 </details>
 </details>
 
@@ -1610,7 +1610,7 @@ and yoked with trained horses, Ravana mounted on it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that conclave (samitau) of high-minded, mighty-armed weapon-bearers (śastrabhṛtāṃ manasvināṃ mahābalānām), the resolute Rāvaṇa shone with splendor in that hall (tasyāṃ sabhāyāṃ prabhayā cakāśe) like the thunderbolt-wielding Indra in the midst of the Vasus (madhye vasūnām iva vajrahastaḥ).
+In that conclave (_samitau_) of high-minded, mighty-armed weapon-bearers (_śastrabhṛtāṃ manasvināṃ mahābalānām_), the resolute Rāvaṇa shone with splendor in that hall (_tasyāṃ sabhāyāṃ prabhayā cakāśe_) like the thunderbolt-wielding Indra in the midst of the Vasus (_madhye vasūnām iva vajrahastaḥ_).
 </details>
 </details>
 

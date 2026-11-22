@@ -48,7 +48,7 @@ Curious to learn how Vasiṣṭha and King Nimi regained bodily form after layin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), Lakṣmaṇa, slayer of hostile heroes (paravīrahā), with joined palms (prāñjaliḥ) spoke these words to Rāghava of blazing splendor (dīpta-tejasam):
+Hearing the speech of Rāma (_rāmasya bhāṣitaṃ śrutvā_), Lakṣmaṇa, slayer of hostile heroes (_paravīrahā_), with joined palms (_prāñjaliḥ_) spoke these words to Rāghava of blazing splendor (_dīpta-tejasam_):
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), Lakṣmaṇa, sla
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having laid aside their bodies (nikṣipta-dehau), O Kākutstha, how did those two—the brahmin and the king (tau dvija-pārthivau), esteemed by the gods (deva-sammatau)—again attain union with a body (punar dehena saṃyogam)?”
+“Having laid aside their bodies (_nikṣipta-dehau_), O Kākutstha, how did those two—the brahmin and the king (_tau dvija-pārthivau_), esteemed by the gods (_deva-sammatau_)—again attain union with a body (_punar dehena saṃyogam_)?”
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), Lakṣmaṇa, sla
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of the Ikṣvākus (ikṣvāku-nandanaḥ), of great splendor (mahātejāḥ), bull among men (puruṣarṣabhaḥ), replied to Lakṣmaṇa:
+Thus addressed by Lakṣmaṇa (_lakṣmaṇenaivam uktas tu_), Rāma, delight of the Ikṣvākus (_ikṣvāku-nandanaḥ_), of great splendor (_mahātejāḥ_), bull among men (_puruṣarṣabhaḥ_), replied to Lakṣmaṇa:
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having abandoned their bodies through mutual cursing (paraspara-śāpena dehāv utsṛjya), those two righteous ones (dhārmikau)—the royal sage and the brahmin sage (nṛpa-viprarṣī), rich in austerity (tapodhanau)—became beings of wind (vāyu-bhūtau).
+“Having abandoned their bodies through mutual cursing (_paraspara-śāpena dehāv utsṛjya_), those two righteous ones (_dhārmikau_)—the royal sage and the brahmin sage (_nṛpa-viprarṣī_), rich in austerity (_tapodhanau_)—became beings of wind (_vāyu-bhūtau_).
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Disembodied (aśarīraḥ), for the sake of another body (śarīrasya kṛte ’nyasya), the great sage Vasiṣṭha of exceeding splendor (sumahātejāḥ) went into the presence of his father (pitur antikam).
+“Disembodied (_aśarīraḥ_), for the sake of another body (_śarīrasya kṛte ’nyasya_), the great sage Vasiṣṭha of exceeding splendor (_sumahātejāḥ_) went into the presence of his father (_pitur antikam_).
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, having saluted the feet of the God of gods (abhivādya tataḥ pādau devadevasya), that knower of dharma (dharmavit), existing as wind (vāyu-bhūtaḥ), spoke these words to the Grandsire (pitāmaham):
+“Then, having saluted the feet of the God of gods (_abhivādya tataḥ pādau devadevasya_), that knower of dharma (_dharmavit_), existing as wind (_vāyu-bhūtaḥ_), spoke these words to the Grandsire (_pitāmaham_):
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Blessed One, through the curse of Nimi (nimi-śāpena) I have fallen into disembodiment (videhatvam upāgamam), O Lord of the worlds, O Great God—though born from the Cosmic Egg (aṇḍajo ’pi), you too are born of the lotus (tvam abjajaḥ)!
+“O Blessed One, through the curse of Nimi (_nimi-śāpena_) I have fallen into disembodiment (_videhatvam upāgamam_), O Lord of the worlds, O Great God—though born from the Cosmic Egg (_aṇḍajo ’pi_), you too are born of the lotus (_tvam abjajaḥ_)!
 </details>
 </details>
 
@@ -275,7 +275,7 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For all who are bereft of a body (sarveṣāṃ deha-hīnānām) great suffering shall ensue (mahad duḥkhaṃ bhaviṣyati); all undertakings perish (lupyante sarva-kāryāṇi) for one devoid of a body (hīna-dehasya), O Lord! Deign to show favor (prasādaṃ kartum arhasi) for the attainment of another body (dehasyānyasya sadbhāve).”
+“For all who are bereft of a body (_sarveṣāṃ deha-hīnānām_) great suffering shall ensue (_mahad duḥkhaṃ bhaviṣyati_); all undertakings perish (_lupyante sarva-kāryāṇi_) for one devoid of a body (_hīna-dehasya_), O Lord! Deign to show favor (_prasādaṃ kartum arhasi_) for the attainment of another body (_dehasyānyasya sadbhāve_).”
 </details>
 </details>
 
@@ -310,9 +310,9 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Thereupon Brahmā, the Self-Existent of immeasurable effulgence (svayambhūr amitaprabhaḥ), spoke to him: “Enter the seed born of Mitra and Varuṇa (mitrāvaruṇajaṃ tejaḥ praviśa), O greatly renowned one (mahāyaśaḥ)!
+**9:** Thereupon Brahmā, the Self-Existent of immeasurable effulgence (_svayambhūr amitaprabhaḥ_), spoke to him: “Enter the seed born of Mitra and Varuṇa (_mitrāvaruṇajaṃ tejaḥ praviśa_), O greatly renowned one (_mahāyaśaḥ_)!
 
-**10:** “Even there you shall become one not born of a womb (ayonijas tvaṃ bhavitā tatrāpi), O foremost of brahmins; endowed with great dharma (dharmeṇa mahatā yuktaḥ), you shall again come under my sway (punar eṣyasi me vaśam).”
+**10:** “Even there you shall become one not born of a womb (_ayonijas tvaṃ bhavitā tatrāpi_), O foremost of brahmins; endowed with great dharma (_dharmeṇa mahatā yuktaḥ_), you shall again come under my sway (_punar eṣyasi me vaśam_).”
 </details>
 </details>
 
@@ -343,7 +343,7 @@ Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the God (evam uktas tu devena), having saluted and circumambulated the Grandsire (abhivādya pradakṣiṇaṃ kṛtvā pitāmaham), he swiftly proceeded (tūrṇaṃ prayayau) to the abode of Varuṇa (varuṇālayam).
+Thus addressed by the God (_evam uktas tu devena_), having saluted and circumambulated the Grandsire (_abhivādya pradakṣiṇaṃ kṛtvā pitāmaham_), he swiftly proceeded (_tūrṇaṃ prayayau_) to the abode of Varuṇa (_varuṇālayam_).
 </details>
 </details>
 
@@ -374,7 +374,7 @@ Thus addressed by the God (evam uktas tu devena), having saluted and circumambul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very time (tam eva kālam), Mitra too was exercising the office of Varuṇa (varuṇatvam akārayat), united with the Milk Ocean (kṣīrodena sahopetaḥ) and worshipped by the foremost gods (pūjyamānaḥ surottamaiḥ).
+At that very time (_tam eva kālam_), Mitra too was exercising the office of Varuṇa (_varuṇatvam akārayat_), united with the Milk Ocean (_kṣīrodena sahopetaḥ_) and worshipped by the foremost gods (_pūjyamānaḥ surottamaiḥ_).
 </details>
 </details>
 
@@ -413,7 +413,7 @@ Just then the supreme apsaras Urvaśī wanders into Varuṇa’s domain with her
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very moment (etasminn eva kāle tu), the foremost apsaras Urvaśī (urvaśī paramāpsarāḥ), surrounded by her female companions (sakhibhir vṛtā), came by chance (yadṛcchayā) to that very region (tam uddeśam āyayau).
+At that very moment (_etasminn eva kāle tu_), the foremost apsaras Urvaśī (_urvaśī paramāpsarāḥ_), surrounded by her female companions (_sakhibhir vṛtā_), came by chance (_yadṛcchayā_) to that very region (_tam uddeśam āyayau_).
 </details>
 </details>
 
@@ -444,7 +444,7 @@ At that very moment (etasminn eva kāle tu), the foremost apsaras Urvaśī (urva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing her endowed with beauty (rūpa-sampannām) sporting in Varuṇa’s abode (krīḍantīṃ varuṇālaye), supreme delight entered Varuṇa (āviśat paramo harṣo varuṇam) on account of Urvaśī (urvaśī-kṛte).
+Seeing her endowed with beauty (_rūpa-sampannām_) sporting in Varuṇa’s abode (_krīḍantīṃ varuṇālaye_), supreme delight entered Varuṇa (_āviśat paramo harṣo varuṇam_) on account of Urvaśī (_urvaśī-kṛte_).
 </details>
 </details>
 
@@ -475,7 +475,7 @@ Seeing her endowed with beauty (rūpa-sampannām) sporting in Varuṇa’s abode
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That Varuṇa then wooed her (varayām āsa), that best of apsarases (apsaro-varām) whose eyes were like lotus petals (padma-palāśākṣīm) and whose face resembled the full moon (pūrṇa-candra-nibhānanām), for union (maithunāya).
+That Varuṇa then wooed her (_varayām āsa_), that best of apsarases (_apsaro-varām_) whose eyes were like lotus petals (_padma-palāśākṣīm_) and whose face resembled the full moon (_pūrṇa-candra-nibhānanām_), for union (_maithunāya_).
 </details>
 </details>
 
@@ -506,7 +506,7 @@ That Varuṇa then wooed her (varayām āsa), that best of apsarases (apsaro-var
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon she, standing with joined palms (prāñjaliḥ sthitā), replied to Varuṇa: “I have already been chosen directly by Mitra (mitreṇāhaṃ vṛtā sākṣāt pūrvam eva), O Lord of the gods (sureśvara)!”
+Thereupon she, standing with joined palms (_prāñjaliḥ sthitā_), replied to Varuṇa: “I have already been chosen directly by Mitra (_mitreṇāhaṃ vṛtā sākṣāt pūrvam eva_), O Lord of the gods (_sureśvara_)!”
 </details>
 </details>
 
@@ -541,9 +541,9 @@ Thereupon she, standing with joined palms (prāñjaliḥ sthitā), replied to Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Stricken by the arrows of the god of love (kandarpa-śara-pīḍitaḥ), Varuṇa spoke these words: “I shall discharge this seed (idaṃ tejaḥ samutsrakṣye) into this divinely fashioned jar (kumbhe ’smin deva-nirmite)!
+**17:** Stricken by the arrows of the god of love (_kandarpa-śara-pīḍitaḥ_), Varuṇa spoke these words: “I shall discharge this seed (_idaṃ tejaḥ samutsrakṣye_) into this divinely fashioned jar (_kumbhe ’smin deva-nirmite_)!
 
-**18:** “Discharging it thus in your presence, O fair-hipped one (evam utsṛjya suśroṇi tvayy aham), O lady of lovely complexion (vara-varṇini), I shall become fulfilled in my desire (kṛta-kāmo bhaviṣyāmi), if you do not desire union (yadi necchasi saṅgamam)!”
+**18:** “Discharging it thus in your presence, O fair-hipped one (_evam utsṛjya suśroṇi tvayy aham_), O lady of lovely complexion (_vara-varṇini_), I shall become fulfilled in my desire (_kṛta-kāmo bhaviṣyāmi_), if you do not desire union (_yadi necchasi saṅgamam_)!”
 </details>
 </details>
 
@@ -582,7 +582,7 @@ Pleased by Varuṇa’s restraint, Urvaśī confesses that though her body belon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those gracious words (subhāṣitam) of Varuṇa, guardian of the world (lokapālasya), Urvaśī, exceedingly pleased (parama-prītā), spoke this reply:
+Hearing those gracious words (_subhāṣitam_) of Varuṇa, guardian of the world (_lokapālasya_), Urvaśī, exceedingly pleased (_parama-prītā_), spoke this reply:
 </details>
 </details>
 
@@ -616,7 +616,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By all means let it be so (kāmam etad bhavatv evam)! My heart abides in you (hṛdayaṃ me tvayi sthitam), and my affection too is greater toward you (bhāvaś cāpy adhikas tubhyam), though my body belongs to Mitra, O Lord (deho mitrasya tu prabho)!”
+“By all means let it be so (_kāmam etad bhavatv evam_)! My heart abides in you (_hṛdayaṃ me tvayi sthitam_), and my affection too is greater toward you (_bhāvaś cāpy adhikas tubhyam_), though my body belongs to Mitra, O Lord (_deho mitrasya tu prabho_)!”
 </details>
 </details>
 
@@ -647,7 +647,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Urvaśī (urvaśyā evam uktas tu), he discharged into that jar (tasmin kumbhe hy apāsṛjat) that mighty, wondrous seed (retas tan mahad adbhutam), resembling a blazing tongue of fire (jvalad-agni-śikhā-prakhyam).
+Thus addressed by Urvaśī (_urvaśyā evam uktas tu_), he discharged into that jar (_tasmin kumbhe hy apāsṛjat_) that mighty, wondrous seed (_retas tan mahad adbhutam_), resembling a blazing tongue of fire (_jvalad-agni-śikhā-prakhyam_).
 </details>
 </details>
 
@@ -678,7 +678,7 @@ Thus addressed by Urvaśī (urvaśyā evam uktas tu), he discharged into that ja
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Urvaśī then went to where the god Mitra was (yatra mitro vai devatā); and approaching her closely (susaṅkramya), Mitra spoke thus to Urvaśī:
+Urvaśī then went to where the god Mitra was (_yatra mitro vai devatā_); and approaching her closely (_susaṅkramya_), Mitra spoke thus to Urvaśī:
 </details>
 </details>
 
@@ -709,7 +709,7 @@ Urvaśī then went to where the god Mitra was (yatra mitro vai devatā); and app
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Invited by me beforehand (mayā nimantritā pūrvam), why did you abandon me (kasmāt tvam avasarjitā) and choose another husband (patim anyaṃ vṛtavatī)? Therefore you are of wicked conduct (duṣṭa-cāriṇī)!
+“Invited by me beforehand (_mayā nimantritā pūrvam_), why did you abandon me (_kasmāt tvam avasarjitā_) and choose another husband (_patim anyaṃ vṛtavatī_)? Therefore you are of wicked conduct (_duṣṭa-cāriṇī_)!
 </details>
 </details>
 
@@ -740,7 +740,7 @@ Urvaśī then went to where the god Mitra was (yatra mitro vai devatā); and app
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through this misdeed (anena duṣkṛtena), sullied by my wrath (mat-krodha-kaluṣīkṛtā), repairing to the world of mortals (manuṣya-lokam āsthāya), you shall dwell there for some time (kañcit kālaṃ nivatsyasi)!
+“Through this misdeed (_anena duṣkṛtena_), sullied by my wrath (_mat-krodha-kaluṣīkṛtā_), repairing to the world of mortals (_manuṣya-lokam āsthāya_), you shall dwell there for some time (_kañcit kālaṃ nivatsyasi_)!
 </details>
 </details>
 
@@ -779,7 +779,7 @@ Cursed by Mitra to become the consort of King Purūravas of Kāśī, Urvaśī de
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘The royal sage Purūravas, son of Budha and king of Kāśī (budhasya putro rājarṣiḥ kāśīrājaḥ purūravāḥ)—go to him today, O foolish one (tam adya gaccha durbuddhe); he shall become your husband (sa te bhartā bhaviṣyati)!’
+“‘The royal sage Purūravas, son of Budha and king of Kāśī (_budhasya putro rājarṣiḥ kāśīrājaḥ purūravāḥ_)—go to him today, O foolish one (_tam adya gaccha durbuddhe_); he shall become your husband (_sa te bhartā bhaviṣyati_)!’
 </details>
 </details>
 
@@ -813,7 +813,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, through the fault of that curse (śāpa-doṣeṇa), she repaired to Purūravas (purūravasam abhyagāt), proceeding to Purūravas (pratiyāte purūravam), the legitimate son of Budha (budhasyātmajam aurasam).
+“Thereupon, through the fault of that curse (_śāpa-doṣeṇa_), she repaired to Purūravas (_purūravasam abhyagāt_), proceeding to Purūravas (_pratiyāte purūravam_), the legitimate son of Budha (_budhasyātmajam aurasam_).
 </details>
 </details>
 
@@ -844,7 +844,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To him was then born a glorious, mighty son named Āyus (śrīmān āyuḥ putro mahābalaḥ), whose son in turn was Nahuṣa, equal to Indra in splendor (babhūvendra-samadyutiḥ)—
+“To him was then born a glorious, mighty son named Āyus (_śrīmān āyuḥ putro mahābalaḥ_), whose son in turn was Nahuṣa, equal to Indra in splendor (_babhūvendra-samadyutiḥ_)—
 </details>
 </details>
 
@@ -875,7 +875,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—he by whom Indra’s sovereignty was governed for a hundred thousand years (śataṃ varṣa-sahasrāṇi yenendratvaṃ praśāsitam), when the Lord of heaven had wandered bewildered (bhrānte ’tha tridiveśvare) after hurling his thunderbolt at Vṛtra (vajram utsṛjya vṛtrāya).
+“—he by whom Indra’s sovereignty was governed for a hundred thousand years (_śataṃ varṣa-sahasrāṇi yenendratvaṃ praśāsitam_), when the Lord of heaven had wandered bewildered (_bhrānte ’tha tridiveśvare_) after hurling his thunderbolt at Vṛtra (_vajram utsṛjya vṛtrāya_).
 </details>
 </details>
 
@@ -926,7 +926,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus through that curse, Urvaśī of lovely teeth and fair eyes (cārudatī sunetrā) descended to the earth (jagāma bhūmim); the fair-browed one dwelt there for many years (bahūni varṣāṇy avasac ca subhrūḥ), and upon the waning of the curse (śāpa-kṣayāt) returned to the abode of Indra (indrasado yayau ca).”
+“Thus through that curse, Urvaśī of lovely teeth and fair eyes (_cārudatī sunetrā_) descended to the earth (_jagāma bhūmim_); the fair-browed one dwelt there for many years (_bahūni varṣāṇy avasac ca subhrūḥ_), and upon the waning of the curse (_śāpa-kṣayāt_) returned to the abode of Indra (_indrasado yayau ca_).”
 </details>
 </details>
 

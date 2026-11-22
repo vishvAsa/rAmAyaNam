@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When they had spoken thus (tathokte), Rāma with joined palms replied to those sages (tān ṛṣīn rāmaḥ pratyuvāca kṛtāñjaliḥ): “What is Lavaṇa’s food, what is his conduct (kim-āhāraḥ kim-ācāraḥ), and where does he dwell (kva ca vartate)?”
+When they had spoken thus (_tathokte_), Rāma with joined palms replied to those sages (_tān ṛṣīn rāmaḥ pratyuvāca kṛtāñjaliḥ_): “What is Lavaṇa’s food, what is his conduct (_kim-āhāraḥ kim-ācāraḥ_), and where does he dwell (_kva ca vartate_)?”
 </details>
 </details>
 
@@ -85,7 +85,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the words of Rāghava (rāghavasya vacaḥ śrutvā), all those sages together (ṛṣayaḥ sarva eva te) then reported to him (tato nivedayāmāsuḥ) in what manner Lavaṇa had grown mighty (lavaṇo vavṛdhe yathā).
+Hearing the words of Rāghava (_rāghavasya vacaḥ śrutvā_), all those sages together (_ṛṣayaḥ sarva eva te_) then reported to him (_tato nivedayāmāsuḥ_) in what manner Lavaṇa had grown mighty (_lavaṇo vavṛdhe yathā_).
 </details>
 </details>
 
@@ -114,7 +114,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His food is all living creatures (āhāraḥ sarva-sattvāni), and especially ascetics (viśeṣeṇa ca tāpasāḥ); his constant conduct is ferocity (ācāro raudratā nityam), and likewise his abode is in Madhuvana (vāso madhuvane tathā).
+“His food is all living creatures (_āhāraḥ sarva-sattvāni_), and especially ascetics (_viśeṣeṇa ca tāpasāḥ_); his constant conduct is ferocity (_ācāro raudratā nityam_), and likewise his abode is in Madhuvana (_vāso madhuvane tathā_).
 </details>
 </details>
 
@@ -148,7 +148,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slaying many thousands (hatvā bahu-sahasrāṇi) of lions, tigers, deer, and elephants (siṃha-vyāghra-mṛga-dvipān), and human beings as well (mānuṣāṃś caiva), he makes of them his daily meal (kurute nityam āhāram āhnikam).
+“Slaying many thousands (_hatvā bahu-sahasrāṇi_) of lions, tigers, deer, and elephants (_siṃha-vyāghra-mṛga-dvipān_), and human beings as well (_mānuṣāṃś caiva_), he makes of them his daily meal (_kurute nityam āhāram āhnikam_).
 </details>
 </details>
 
@@ -183,7 +183,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter that mighty-powered one devours other creatures besides (tato ’ntarāṇi sattvāni khādate sa mahābalaḥ), like Death with jaws gaping wide (vyāditāsya ivāntakaḥ) when the cosmic dissolution has arrived (saṃhāre samanuprāpte).”
+“Thereafter that mighty-powered one devours other creatures besides (_tato ’ntarāṇi sattvāni khādate sa mahābalaḥ_), like Death with jaws gaping wide (_vyāditāsya ivāntakaḥ_) when the cosmic dissolution has arrived (_saṃhāre samanuprāpte_).”
 </details>
 </details>
 
@@ -217,7 +217,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words (tac chrutvā), Rāghava spoke to those great sages (vākyam uvāca sa mahāmunīn): “I shall cause that rākṣasa to be slain (ghātayiṣyāmi tad rakṣaḥ); indeed, let your fear depart (hy apagacchatu vo bhayam)!”
+Hearing those words (_tac chrutvā_), Rāghava spoke to those great sages (_vākyam uvāca sa mahāmunīn_): “I shall cause that rākṣasa to be slain (_ghātayiṣyāmi tad rakṣaḥ_); indeed, let your fear depart (_hy apagacchatu vo bhayam_)!”
 </details>
 </details>
 
@@ -254,7 +254,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus given his solemn pledge (pratijñāya tathā) to those sages of fierce austerity (teṣāṃ munīnām ugra-tejasām), that delight of the Raghus (raghunandanaḥ) addressed all his brothers assembled together (bhrātṝn sahitān sarvān uvāca):
+Having thus given his solemn pledge (_pratijñāya tathā_) to those sages of fierce austerity (_teṣāṃ munīnām ugra-tejasām_), that delight of the Raghus (_raghunandanaḥ_) addressed all his brothers assembled together (_bhrātṝn sahitān sarvān uvāca_):
 </details>
 </details>
 
@@ -288,7 +288,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Which hero shall be the slayer of Lavaṇa (ko hantā lavaṇaṃ vīraḥ), and whose allotted portion shall he be made (kasyāṃśaḥ sa vidhīyatām)—of the mighty-armed Bharata (bharatasya mahābāhoḥ), or of the wise Śatrughna (śatrughnasya ca dhīmataḥ)?”
+“Which hero shall be the slayer of Lavaṇa (_ko hantā lavaṇaṃ vīraḥ_), and whose allotted portion shall he be made (_kasyāṃśaḥ sa vidhīyatām_)—of the mighty-armed Bharata (_bharatasya mahābāhoḥ_), or of the wise Śatrughna (_śatrughnasya ca dhīmataḥ_)?”
 </details>
 </details>
 
@@ -316,7 +316,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāghava (rāghaveṇaivam uktaḥ), Bharata spoke these words (bharato vākyam abravīt): “I myself shall slay this demon (aham enaṃ vadhiṣyāmi); let him be appointed as my portion (mamāṃśaḥ sa vidhīyatām)!”
+Thus addressed by Rāghava (_rāghaveṇaivam uktaḥ_), Bharata spoke these words (_bharato vākyam abravīt_): “I myself shall slay this demon (_aham enaṃ vadhiṣyāmi_); let him be appointed as my portion (_mamāṃśaḥ sa vidhīyatām_)!”
 </details>
 </details>
 
@@ -362,9 +362,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** Hearing the speech of Bharata (bharatasya vacaḥ śrutvā), endowed with steadfastness and valor (dhairya-śaurya-samanvitam), the younger brother of Lakṣmaṇa (lakṣmaṇāvarajaḥ) stood up, leaving his golden seat (tasthau hitvā sauvarṇam āsanam).
+**10:** Hearing the speech of Bharata (_bharatasya vacaḥ śrutvā_), endowed with steadfastness and valor (_dhairya-śaurya-samanvitam_), the younger brother of Lakṣmaṇa (_lakṣmaṇāvarajaḥ_) stood up, leaving his golden seat (_tasthau hitvā sauvarṇam āsanam_).
 
-**11:** And bowing low before the lord of men (praṇipatya narādhipam), Śatrughna spoke these words (śatrughnas tv abravīd vākyam): “He who has already accomplished mighty deeds, the mighty-armed middle delight of the Raghus (kṛta-karmā mahābāhur madhyamo raghunandanaḥ)—
+**11:** And bowing low before the lord of men (_praṇipatya narādhipam_), Śatrughna spoke these words (_śatrughnas tv abravīd vākyam_): “He who has already accomplished mighty deeds, the mighty-armed middle delight of the Raghus (_kṛta-karmā mahābāhur madhyamo raghunandanaḥ_)—
 </details>
 </details>
 
@@ -406,7 +406,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—for of old, our noble elder brother guarded an empty Ayodhyā (āryeṇa hi purā śūnyā tv ayodhyā paripālitā), nursing anguish in his heart (santāpaṃ hṛdaye kṛtvā) awaiting the noble one’s return (āryasyāgamanaṃ prati)!
+“—for of old, our noble elder brother guarded an empty Ayodhyā (_āryeṇa hi purā śūnyā tv ayodhyā paripālitā_), nursing anguish in his heart (_santāpaṃ hṛdaye kṛtvā_) awaiting the noble one’s return (_āryasyāgamanaṃ prati_)!
 </details>
 </details>
 
@@ -442,7 +442,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And many sorrows indeed were endured by him here (duḥkhāni ca bahūnīha hy anubhūtāni), O king (pārthiva); sleeping upon beds of hardship (śayāno duḥkha-śayyāsu), he dwelt of old in Nandigrāma (nandigrāme ’vasat purā)—
+“And many sorrows indeed were endured by him here (_duḥkhāni ca bahūnīha hy anubhūtāni_), O king (_pārthiva_); sleeping upon beds of hardship (_śayāno duḥkha-śayyāsu_), he dwelt of old in Nandigrāma (_nandigrāme ’vasat purā_)—
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—subsisting on fruits and roots (phala-mūlāśano bhūtvā), wearing matted locks and garments of bark (jaṭī cīra-dharas tathā); having already undergone such suffering (anubhūyedṛśaṃ duḥkham), let not this delight of the Raghus (eṣa rāghava-nandanaḥ), while I, his servant, stand ready (preṣye mayi sthite), O king, suffer hardship once again (na bhūyaḥ kleśam āpnuyāt)!”
+“—subsisting on fruits and roots (_phala-mūlāśano bhūtvā_), wearing matted locks and garments of bark (_jaṭī cīra-dharas tathā_); having already undergone such suffering (_anubhūyedṛśaṃ duḥkham_), let not this delight of the Raghus (_eṣa rāghava-nandanaḥ_), while I, his servant, stand ready (_preṣye mayi sthite_), O king, suffer hardship once again (_na bhūyaḥ kleśam āpnuyāt_)!”
 </details>
 </details>
 
@@ -519,9 +519,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** As Śatrughna spoke thus (tathā bruvati śatrughne), Rāghava replied once more (rāghavaḥ punar abravīt): “So let it be, O Kākutstha (evaṃ bhavatu kākutstha); let my command be carried out (kriyatāṃ mama śāsanam)!
+**15:** As Śatrughna spoke thus (_tathā bruvati śatrughne_), Rāghava replied once more (_rāghavaḥ punar abravīt_): “So let it be, O Kākutstha (_evaṃ bhavatu kākutstha_); let my command be carried out (_kriyatāṃ mama śāsanam_)!
 
-**16:** “I shall consecrate you in sovereignty (rājye tvām abhiṣekṣyāmi) in the fair city of Madhu (madhos tu nagare śubhe); settle Bharata here, O mighty-armed one (niveśaya mahābāho bharataṃ), if you have regard for him (yady avekṣase)—for you are valiant, learned in all sciences (śūras tvaṃ kṛta-vidyaś ca), and well able to found a city (samarthaś ca niveśane)!”
+**16:** “I shall consecrate you in sovereignty (_rājye tvām abhiṣekṣyāmi_) in the fair city of Madhu (_madhos tu nagare śubhe_); settle Bharata here, O mighty-armed one (_niveśaya mahābāho bharataṃ_), if you have regard for him (_yady avekṣase_)—for you are valiant, learned in all sciences (_śūras tvaṃ kṛta-vidyaś ca_), and well able to found a city (_samarthaś ca niveśane_)!”
 </details>
 </details>
 
@@ -563,7 +563,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For indeed, whoever uproots an enemy (yo hi śatruṃ samutpāṭya), and upon the downfall of that king (pārthivasya punaḥ kṣaye) does not establish a ruler there (na vidhatte nṛpaṃ tatra), truly goes to hell (narakaṃ sa hi gacchati)!
+“For indeed, whoever uproots an enemy (_yo hi śatruṃ samutpāṭya_), and upon the downfall of that king (_pārthivasya punaḥ kṣaye_) does not establish a ruler there (_na vidhatte nṛpaṃ tatra_), truly goes to hell (_narakaṃ sa hi gacchati_)!
 </details>
 </details>
 
@@ -601,7 +601,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, having slain Lavaṇa, the son of Madhu, of sinful resolve (hatvā madhu-sutaṃ lavaṇaṃ pāpa-niścayam), govern that kingdom righteously (rājyaṃ praśādhi dharmeṇa), if you have regard for my word (vākyaṃ me yady avekṣase).
+“Therefore, having slain Lavaṇa, the son of Madhu, of sinful resolve (_hatvā madhu-sutaṃ lavaṇaṃ pāpa-niścayam_), govern that kingdom righteously (_rājyaṃ praśādhi dharmeṇa_), if you have regard for my word (_vākyaṃ me yady avekṣase_).
 </details>
 </details>
 
@@ -641,9 +641,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** “And no rejoinder must be uttered by you, O hero (uttaraṃ ca na vaktavyaṃ śūra), in reply to my command (vākyāntare mama); an elder brother’s mandate must be carried out by a younger one (bālena pūrvajasyājñā kartavyā)—of this there is no doubt (nātra saṃśayaḥ)!
+**19:** “And no rejoinder must be uttered by you, O hero (_uttaraṃ ca na vaktavyaṃ śūra_), in reply to my command (_vākyāntare mama_); an elder brother’s mandate must be carried out by a younger one (_bālena pūrvajasyājñā kartavyā_)—of this there is no doubt (_nātra saṃśayaḥ_)!
 
-**20:** “Receive also, O Kākutstha, the royal consecration made ready by me (abhiṣekaṃ ca ... pratīcchasva mayodyatam), accompanied by sacred rites and Vedic mantras (vidhi-mantra-puraskṛtam) performed by brahmins led by Vasiṣṭha (vasiṣṭha-pramukhair vipraiḥ).”
+**20:** “Receive also, O Kākutstha, the royal consecration made ready by me (_abhiṣekaṃ ca ... pratīcchasva mayodyatam_), accompanied by sacred rites and Vedic mantras (_vidhi-mantra-puraskṛtam_) performed by brahmins led by Vasiṣṭha (_vasiṣṭha-pramukhair vipraiḥ_).”
 </details>
 </details>
 

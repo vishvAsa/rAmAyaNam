@@ -64,7 +64,7 @@ Enraged at hearing of Makarākṣa's death, Rāvaṇa commands Indrajit to slay 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Makarākṣa had been slain, Rāvaṇa, victorious in battle (samitiṃjayaḥ), was seized by great wrath and, grinding his teeth (dantān kaṭakaṭāyya ca)—
+Hearing that Makarākṣa had been slain, Rāvaṇa, victorious in battle (_samitiṃjayaḥ_), was seized by great wrath and, grinding his teeth (_dantān kaṭakaṭāyya ca_)—
 </details>
 </details>
 
@@ -95,7 +95,7 @@ Hearing that Makarākṣa had been slain, Rāvaṇa, victorious in battle (samit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed then and pondering there what was to be done (kiṃ kāryam iti cintayan), in fierce rage he thereupon commanded his son Indrajit for battle:
+Incensed then and pondering there what was to be done (_kiṃ kāryam iti cintayan_), in fierce rage he thereupon commanded his son Indrajit for battle:
 </details>
 </details>
 
@@ -142,7 +142,7 @@ the brothers of great prowess. You are superior in strength by all means."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slay, O hero, the two brothers Rāma and Lakṣmaṇa of great valor (mahāvīryau)! Whether invisible or visible (adṛśyo dṛśyamāno vā), you are in every way superior in strength (balādhikaḥ).
+“Slay, O hero, the two brothers Rāma and Lakṣmaṇa of great valor (_mahāvīryau_)! Whether invisible or visible (_adṛśyo dṛśyamāno vā_), you are in every way superior in strength (_balādhikaḥ_).
 </details>
 </details>
 
@@ -188,7 +188,7 @@ two men, on seeing them in the battle-field?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You conquer in battle Indra of matchless deeds (apratimakarmāṇam); how much more, upon seeing two mortals in battle, will you not slay them?”
+You conquer in battle Indra of matchless deeds (_apratimakarmāṇam_); how much more, upon seeing two mortals in battle, will you not slay them?”
 </details>
 </details>
 
@@ -241,7 +241,7 @@ poured oblations into the sacred fire, with due ceremony, on the sacrificial gro
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the lord of rākṣasas, Indrajit accepted his father's word and upon the sacrificial ground (yajñabhūmau) duly offered oblations into the fire (pāvakaṃ juhuve).
+Thus addressed by the lord of rākṣasas, Indrajit accepted his father&#x27;s word and upon the sacrificial ground (_yajñabhūmau_) duly offered oblations into the fire (_pāvakaṃ juhuve_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And while he was offering oblations into the fire there (juhvataś cāpi tatrāgnim), rākṣasī women wearing red turbans (raktoṣṇīṣadharāḥ striyaḥ) arrived there in haste where Rāvaṇa's son was.
+And while he was offering oblations into the fire there (_juhvataś cāpi tatrāgnim_), rākṣasī women wearing red turbans (_raktoṣṇīṣadharāḥ striyaḥ_) arrived there in haste where Rāvaṇa&#x27;s son was.
 </details>
 </details>
 
@@ -356,7 +356,7 @@ melted butter into the sacrificial fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Weapons and reed-leaves (śastrāṇi śarapatrāṇi), and kindling sticks of bibhītaka wood (samidho 'tha bibhītakāḥ), red garments (lohitāni ca vāsāṃsi), and a ladle of black iron (sruvaṃ kārṣṇāyasaṃ tathā) [were there].
+Weapons and reed-leaves (_śastrāṇi śarapatrāṇi_), and kindling sticks of _bibhītaka_ wood (_samidho &#x27;tha bibhītakāḥ_), red garments (_lohitāni ca vāsāṃsi_), and a ladle of black iron (_sruvaṃ kārṣṇāyasaṃ tathā_) [were there].
 </details>
 </details>
 
@@ -410,7 +410,7 @@ consigned it to the fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strewing the fire on all sides with reed-leaves together with lances (śarapatraiḥ satomaraiḥ), he seized the throat of a living, all-black goat (chāgasya sarvakṛṣṇasya).
+Strewing the fire on all sides with reed-leaves together with lances (_śarapatraiḥ satomaraiḥ_), he seized the throat of a living, all-black goat (_chāgasya sarvakṛṣṇasya_).
 </details>
 </details>
 
@@ -456,7 +456,7 @@ mighty flames, when it was fully aroused by that single offering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of that smokeless fire of great flames (vidhūmasya mahārciṣaḥ), kindled by a single oblation (sakṛddhomasamiddhasya), there appeared those auspicious signs (liṅgāni) which foretell victory.
+Of that smokeless fire of great flames (_vidhūmasya mahārciṣaḥ_), kindled by a single oblation (_sakṛddhomasamiddhasya_), there appeared those auspicious signs (_liṅgāni_) which foretell victory.
 </details>
 </details>
 
@@ -505,7 +505,7 @@ right and who shone brightly like refined gold, received that offering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With flames curling clockwise (pradakṣiṇāvartaśikhaḥ) and gleaming like refined gold (taptahāṭakasaṃnibhaḥ), the Fire-god rose up of his own accord (svayam utthitaḥ) and accepted that oblation.
+With flames curling clockwise (_pradakṣiṇāvartaśikhaḥ_) and gleaming like refined gold (_taptahāṭakasaṃnibhaḥ_), the Fire-god rose up of his own accord (_svayam utthitaḥ_) and accepted that oblation.
 </details>
 </details>
 
@@ -558,7 +558,7 @@ ascended an excellent and splendid chariot, capable of disappearing from sight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having offered oblations into the fire and gratified the gods, Dānavas, and rākṣasas (tarpayitvātha devadānavarākṣasān), he mounted his splendid, foremost chariot capable of vanishing (antardhānagatam).
+Having offered oblations into the fire and gratified the gods, Dānavas, and rākṣasas (_tarpayitvātha devadānavarākṣasān_), he mounted his splendid, foremost chariot capable of vanishing (_antardhānagatam_).
 </details>
 </details>
 
@@ -607,7 +607,7 @@ excellent chariot looked beautiful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yoked with four steeds and furnished with sharp arrows, bearing his great bow mounted upon it (āropitamahācāpaḥ), that foremost chariot shone forth (śuśubhe syandanottamaḥ).
+Yoked with four steeds and furnished with sharp arrows, bearing his great bow mounted upon it (_āropitamahācāpaḥ_), that foremost chariot shone forth (_śuśubhe syandanottamaḥ_).
 </details>
 </details>
 
@@ -661,7 +661,7 @@ with carved images of antelopes, full moons and crescents.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blazing in its form (jājvalyamāno vapuṣā) and sheathed in refined gold (tapanīyaparicchadaḥ), that chariot was adorned all over with figures of deer and with full moons and crescents (mṛgaiś candrārdhacandraiś ca).
+Blazing in its form (_jājvalyamāno vapuṣā_) and sheathed in refined gold (_tapanīyaparicchadaḥ_), that chariot was adorned all over with figures of deer and with full moons and crescents (_mṛgaiś candrārdhacandraiś ca_).
 </details>
 </details>
 
@@ -710,7 +710,7 @@ rings of gold and decorated with cat's eye gems.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Furnished with great bracelets of Jāmbūnada gold (jāmbūnadamahākambuḥ) and gleaming like a blazing fire, Indrajit's banner-staff (ketuḥ) was adorned with cat's-eye gems (vaidūryasamalaṃkṛtaḥ).
+Furnished with great bracelets of Jāmbūnada gold (_jāmbūnadamahākambuḥ_) and gleaming like a blazing fire, Indrajit&#x27;s banner-staff (_ketuḥ_) was adorned with cat&#x27;s-eye gems (_vaidūryasamalaṃkṛtaḥ_).
 </details>
 </details>
 
@@ -762,7 +762,7 @@ that Indrajit endowed with exceptional strength, became difficult to be attacked
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And protected by that Brahmā-missile radiant as the sun (tena cādityakalpena brahmāstreṇa), that exceedingly mighty son of Rāvaṇa became unassailable (durādharṣaḥ).
+And protected by that Brahmā-missile radiant as the sun (_tena cādityakalpena brahmāstreṇa_), that exceedingly mighty son of Rāvaṇa became unassailable (_durādharṣaḥ_).
 </details>
 </details>
 
@@ -817,7 +817,7 @@ that indrajit, who was ever victorious in war, spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sallying forth from the city (abhiniryāya nagarāt), that battle-victorious Indrajit offered oblations into the fire with rākṣasa spells (rākṣasair mantraiḥ) and, having attained the power of invisibility (antardhānagataḥ), spoke:
+Sallying forth from the city (_abhiniryāya nagarāt_), that battle-victorious Indrajit offered oblations into the fire with rākṣasa spells (_rākṣasair mantraiḥ_) and, having attained the power of invisibility (_antardhānagataḥ_), spoke:
 </details>
 </details>
 
@@ -871,7 +871,7 @@ today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Slaying in battle today those two who have falsely gone forth as ascetics (mithyā pravrajitau) in the forest, I shall bestow upon my father Rāvaṇa preeminent victory in battle!
+“Slaying in battle today those two who have falsely gone forth as ascetics (_mithyā pravrajitau_) in the forest, I shall bestow upon my father Rāvaṇa preeminent victory in battle!
 </details>
 </details>
 
@@ -918,7 +918,7 @@ will create a great spleasure". Thus speaking, Indrajit vanished from thes sight
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain Rāma and Lakṣmaṇa today [and rendered] the earth devoid of Vānaras (nirvānarām urvīm), I shall create supreme joy!”—so saying, he vanished from sight (antardhīyata).
+Having slain Rāma and Lakṣmaṇa today [and rendered] the earth devoid of Vānaras (_nirvānarām urvīm_), I shall create supreme joy!”—so saying, he vanished from sight (_antardhīyata_).
 </details>
 </details>
 
@@ -981,7 +981,7 @@ arrows, swiftly came to the battle-field enraged.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Urged on by Daśagrīva, that fierce foe of Indra (indraripuḥ), enraged, swooped down (āpapāta) in battle with his fierce bow and iron shafts (tīkṣṇakārmukanārācaiḥ).
+Urged on by Daśagrīva, that fierce foe of Indra (_indraripuḥ_), enraged, swooped down (_āpapāta_) in battle with his fierce bow and iron shafts (_tīkṣṇakārmukanārācaiḥ_).
 </details>
 </details>
 
@@ -1028,7 +1028,7 @@ having mighty prowess, looked like three- hooded serpents in the middle of the m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld those two heroes of great valor stationed in the midst of the Vānaras (vānaramadhyagau), loosing networks of arrows (sṛjantāv iṣujālāni) like two three-headed serpents (nāgau triśirasāv iva).
+He beheld those two heroes of great valor stationed in the midst of the Vānaras (_vānaramadhyagau_), loosing networks of arrows (_sṛjantāv iṣujālāni_) like two three-headed serpents (_nāgau triśirasāv iva_).
 </details>
 </details>
 
@@ -1077,7 +1077,7 @@ his bow, he covered them with a flood of arrows, as the rainy clouds do.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reflecting, “These are those two!” (imau tāv iti saṃcintya), and stringing his bow (sajyaṃ kṛtvā ca kārmukam), he overspread [them] with streams of arrows (saṃtatāneṣudhārābhiḥ) like a rain-laden storm-cloud (parjanya iva vṛṣṭimān).
+Reflecting, “These are those two!” (_imau tāv iti saṃcintya_), and stringing his bow (_sajyaṃ kṛtvā ca kārmukam_), he overspread [them] with streams of arrows (_saṃtatāneṣudhārābhiḥ_) like a rain-laden storm-cloud (_parjanya iva vṛṣṭimān_).
 </details>
 </details>
 
@@ -1129,7 +1129,7 @@ Rama and Lakshmana with his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stationed beyond the range of sight (acakṣurviṣaye tiṣṭhan) upon his sky-coursing chariot (vaihāyasarathaḥ), in battle he pierced those two, Rāma and Lakṣmaṇa, with sharp arrows.
+Stationed beyond the range of sight (_acakṣurviṣaye tiṣṭhan_) upon his sky-coursing chariot (_vaihāyasarathaḥ_), in battle he pierced those two, Rāma and Lakṣmaṇa, with sharp arrows.
 </details>
 </details>
 
@@ -1175,7 +1175,7 @@ bows and revealed divine missiles.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encompassed (parītau) by the speed of his arrows, Rāma and Lakṣmaṇa fitted their bows with shafts (dhanuṣī saśare kṛtvā) and set in motion celestial missiles (divyam astraṃ pracakratuḥ).
+Encompassed (_parītau_) by the speed of his arrows, Rāma and Lakṣmaṇa fitted their bows with shafts (_dhanuṣī saśare kṛtvā_) and set in motion celestial missiles (_divyam astraṃ pracakratuḥ_).
 </details>
 </details>
 
@@ -1231,7 +1231,7 @@ sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though covering the sky with networks of arrows (śarajālaiḥ), those two mighty warriors did not touch him at all (naiva pasparśatuḥ) with their sun-bright missile-shafts (astraiḥ sūryasaṃkāśaiḥ śaraiḥ).
+Though covering the sky with networks of arrows (_śarajālaiḥ_), those two mighty warriors did not touch him at all (_naiva pasparśatuḥ_) with their sun-bright missile-shafts (_astraiḥ sūryasaṃkāśaiḥ śaraiḥ_).
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ quarters also invisible, by enclosing them with mist-liek darkness.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For covering the sky, that glorious warrior created a darkness of smoke (dhūmāndhakāraṃ ca cakre) and concealed the quarters (diśaś cāntardadhe), which were enveloped in a darkness of mist (nīhāratamasā vṛtāḥ).
+For covering the sky, that glorious warrior created a darkness of smoke (_dhūmāndhakāraṃ ca cakre_) and concealed the quarters (_diśaś cāntardadhe_), which were enveloped in a darkness of mist (_nīhāratamasā vṛtāḥ_).
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ horses could be heard, nor did his form come tot he view.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither the twang of bowstring and palm (jyātalanirghoṣaḥ) nor the sound of wheel-rims and hooves (nemikhurasvanaḥ) was heard as he coursed about, nor did his form shine forth.
+Neither the twang of bowstring and palm (_jyātalanirghoṣaḥ_) nor the sound of wheel-rims and hooves (_nemikhurasvanaḥ_) was heard as he coursed about, nor did his form shine forth.
 </details>
 </details>
 
@@ -1392,7 +1392,7 @@ like wonderful shower of rocks.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In that dense, dark gloom (ghanāndhakāre timire), the mighty-armed warrior rained down showers of iron shafts and arrows (nārācaśaravṛṣṭibhiḥ) like a wondrous shower of boulders (śilāvarṣam ivādbhutam).
+In that dense, dark gloom (_ghanāndhakāre timire_), the mighty-armed warrior rained down showers of iron shafts and arrows (_nārācaśaravṛṣṭibhiḥ_) like a wondrous shower of boulders (_śilāvarṣam ivādbhutam_).
 </details>
 </details>
 
@@ -1467,7 +1467,7 @@ as he was, instructed Indrajit, his son to proceed to the battle-field.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged in battle, Rāvaṇa's son fiercely pierced Rāma in all his limbs (sarvagātreṣu) with sun-bright, boon-bestowed arrows (śarair dattavaraiḥ).
+Enraged in battle, Rāvaṇa&#x27;s son fiercely pierced Rāma in all his limbs (_sarvagātreṣu_) with sun-bright, boon-bestowed arrows (_śarair dattavaraiḥ_).
 </details>
 </details>
 
@@ -1514,7 +1514,7 @@ arrows, like two mountains being hit by torrents, released sharp golden-shafted 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck by iron arrows like two mountains lashed by torrents of rain (dhārābhir iva parvatau), those two tigers among men loosed sharp, gold-feathered shafts (hemapuṅkhān).
+Struck by iron arrows like two mountains lashed by torrents of rain (_dhārābhir iva parvatau_), those two tigers among men loosed sharp, gold-feathered shafts (_hemapuṅkhān_).
 </details>
 </details>
 
@@ -1566,7 +1566,7 @@ piercing him, fell to the ground, soaked in blood.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching Rāvaṇa's son in the sky (antarikṣe samāsādya) and lacerating him (nikṛtya), those heron-feathered winged shafts (kaṅkapatriṇaḥ patagāḥ) fell upon the earth bathed in blood (śoṇitāplutāḥ).
+Reaching Rāvaṇa&#x27;s son in the sky (_antarikṣe samāsādya_) and lacerating him (_nikṛtya_), those heron-feathered winged shafts (_kaṅkapatriṇaḥ patagāḥ_) fell upon the earth bathed in blood (_śoṇitāplutāḥ_).
 </details>
 </details>
 
@@ -1630,7 +1630,7 @@ off those arrows which were falling on them with many arrows called by the name 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Blazing exceedingly (atimātraṃ dīpyamānau) amid that flood of arrows, those two foremost of men severed those falling shafts with many broad-headed arrows (bhallair anekair vicakartatuḥ).
+Blazing exceedingly (_atimātraṃ dīpyamānau_) amid that flood of arrows, those two foremost of men severed those falling shafts with many broad-headed arrows (_bhallair anekair vicakartatuḥ_).
 </details>
 </details>
 
@@ -1686,7 +1686,7 @@ direction from which they saw the aforesaid sharp arrows, fallen.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For from whatever quarter those two sons of Daśaratha saw sharp arrows falling (śarān nipatitāñ śitān), toward that quarter they loosed an excellent missile (sasṛjāte 'stram uttamam).
+For from whatever quarter those two sons of Daśaratha saw sharp arrows falling (_śarān nipatitāñ śitān_), toward that quarter they loosed an excellent missile (_sasṛjāte &#x27;stram uttamam_).
 </details>
 </details>
 
@@ -1740,7 +1740,7 @@ arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coursing through all the quarters with his chariot (diśaḥ sarvā rathenāpatat), Rāvaṇa's son, a warrior of superlative chariot-might (atirathaḥ) and swift with missiles (laghvastraḥ), pierced those two sons of Daśaratha with sharp arrows.
+Coursing through all the quarters with his chariot (_diśaḥ sarvā rathenāpatat_), Rāvaṇa&#x27;s son, a warrior of superlative chariot-might (_atirathaḥ_) and swift with missiles (_laghvastraḥ_), pierced those two sons of Daśaratha with sharp arrows.
 </details>
 </details>
 
@@ -1786,7 +1786,7 @@ shafted arrows, appeared like two Kamshuka trees in flowering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeply pierced by him with closely massed, gold-feathered shafts (rukmapuṅkhaiḥ susaṃhataiḥ), those two heroic sons of Daśaratha shone like two flowering kiṃśuka trees (puṣpitāv iva kiṃśukau).
+Deeply pierced by him with closely massed, gold-feathered shafts (_rukmapuṅkhaiḥ susaṃhataiḥ_), those two heroic sons of Daśaratha shone like two flowering _kiṃśuka_ trees (_puṣpitāv iva kiṃśukau_).
 </details>
 </details>
 
@@ -1840,7 +1840,7 @@ him whatsoever could be known.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No one knew his swift course (nāsya vegagatiṃ kaścit), nor his form, nor his bow or arrows, nor was anything else of him known, like that of the sun in a mass of clouds (sūryasyevābhrasamplave).
+No one knew his swift course (_nāsya vegagatiṃ kaścit_), nor his form, nor his bow or arrows, nor was anything else of him known, like that of the sun in a mass of clouds (_sūryasyevābhrasamplave_).
 </details>
 </details>
 
@@ -1894,7 +1894,7 @@ the earth's surface there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And pierced by him, hundreds of monkeys, struck down and bereft of life-breaths (nihatāś ca gatāsavaḥ), lay fallen there upon the surface of the earth (patitā dharaṇītale).
+And pierced by him, hundreds of monkeys, struck down and bereft of life-breaths (_nihatāś ca gatāsavaḥ_), lay fallen there upon the surface of the earth (_patitā dharaṇītale_).
 </details>
 </details>
 
@@ -1947,7 +1947,7 @@ the missile presided over by Brahma for the purpose of killing all the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Lakṣmaṇa, enraged, spoke a word to his brother: “I shall discharge the missile of Brahmā (brāhmam astraṃ prayokṣyāmi) for the destruction of all rākṣasas!”
+Then Lakṣmaṇa, enraged, spoke a word to his brother: “I shall discharge the missile of Brahmā (_brāhmam astraṃ prayokṣyāmi_) for the destruction of all rākṣasas!”
 </details>
 </details>
 
@@ -1995,7 +1995,7 @@ demon."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma spoke to that Lakṣmaṇa of auspicious marks (śubhalakṣaṇam): “Not for the sake of a single foe (naikasya hetoḥ) ought you to slay all the rākṣasas upon the earth!
+Thereupon Rāma spoke to that Lakṣmaṇa of auspicious marks (_śubhalakṣaṇam_): “Not for the sake of a single foe (_naikasya hetoḥ_) ought you to slay all the rākṣasas upon the earth!
 </details>
 </details>
 
@@ -2081,9 +2081,9 @@ mssiles with great impetuosity and which are equal to venomous serpents."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** One who is not fighting (ayudhyamānam), or who is hidden (pracchannam), or who folds his hands in supplication (prāñjaliṃ), or who seeks refuge (śaraṇāgatam), or who is fleeing, or who is intoxicated (mattaṃ vā), you ought not to slay here!”
+**39:** One who is not fighting (_ayudhyamānam_), or who is hidden (_pracchannam_), or who folds his hands in supplication (_prāñjaliṃ_), or who seeks refuge (_śaraṇāgatam_), or who is fleeing, or who is intoxicated (_mattaṃ vā_), you ought not to slay here!”
 
-**40:** “Rather, I shall make an effort for the slaying of him alone (tasyaiva tu vadhe yatnaṃ kariṣyāmi), O mighty-armed one; we two shall summon forth (ādekṣyāvaḥ) missiles of great speed resembling venomous serpents (āśīviṣopamān)!
+**40:** “Rather, I shall make an effort for the slaying of him alone (_tasyaiva tu vadhe yatnaṃ kariṣyāmi_), O mighty-armed one; we two shall summon forth (_ādekṣyāvaḥ_) missiles of great speed resembling venomous serpents (_āśīviṣopamān_)!
 </details>
 </details>
 
@@ -2129,7 +2129,7 @@ demon, who is skilled in conjuring tricks and whose chariot remains invisible."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that conjurer (māyinam), that base rākṣasa whose chariot is hidden by force of magic (antardhitarathaṃ balāt), the Vānara troop-leaders shall strike him down!
+Beholding that conjurer (_māyinam_), that base rākṣasa whose chariot is hidden by force of magic (_antardhitarathaṃ balāt_), the Vānara troop-leaders shall strike him down!
 </details>
 </details>
 
@@ -2199,7 +2199,7 @@ remains completely hidden in this manner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if this one enters the earth (bhūmiṃ viśate) or heaven, or the netherworld (rasātalaṃ vāpi) or the vault of the sky—even though hidden thus (evaṃ vigūḍho 'pi), burned by my missiles (mamāstradagdhaḥ), he shall fall lifeless upon the surface of the earth!”
+Even if this one enters the earth (_bhūmiṃ viśate_) or heaven, or the netherworld (_rasātalaṃ vāpi_) or the vault of the sky—even though hidden thus (_evaṃ vigūḍho &#x27;pi_), burned by my missiles (_mamāstradagdhaḥ_), he shall fall lifeless upon the surface of the earth!”
 </details>
 </details>
 
@@ -2272,7 +2272,7 @@ furious Indrajit, the demons of cruel deeds.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken this word of great import (vacanaṃ mahārtham), that great-souled foremost hero of the Raghus, surrounded by the bulls among leaping monkeys (plavagarṣabhair vṛtaḥ), swiftly pondered (tvaritaṃ nirīkṣate) the slaying of that fierce demon of cruel deeds.
+Having spoken this word of great import (_vacanaṃ mahārtham_), that great-souled foremost hero of the Raghus, surrounded by the bulls among leaping monkeys (_plavagarṣabhair vṛtaḥ_), swiftly pondered (_tvaritaṃ nirīkṣate_) the slaying of that fierce demon of cruel deeds.
 </details>
 </details>
 

@@ -83,7 +83,7 @@ fight, flew into a great rage.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard that speech uttered by Lakṣmaṇa, that valorous Rāghava, slayer of hostile heroes (paravīraghnaḥ), took up his bow and fitted an arrow.
+Having heard that speech uttered by Lakṣmaṇa, that valorous Rāghava, slayer of hostile heroes (_paravīraghnaḥ_), took up his bow and fitted an arrow.
 </details>
 </details>
 
@@ -114,7 +114,7 @@ Having heard that speech uttered by Lakṣmaṇa, that valorous Rāghava, slayer
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the forefront of the army (camūmukhe), he loosed dreadful arrows toward Rāvaṇa; thereupon Rāvaṇa, overlord of rākṣasas, mounted another chariot.
+At the forefront of the army (_camūmukhe_), he loosed dreadful arrows toward Rāvaṇa; thereupon Rāvaṇa, overlord of rākṣasas, mounted another chariot.
 </details>
 </details>
 
@@ -166,7 +166,7 @@ torrents from the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He rushed toward Kākutstha as Svarbhānu [Rāhu] rushes at the sun; standing in his chariot, Daśagrīva struck Rāma with thunderbolt-like arrows, as a raincloud pelts a great mountain with torrents (dhārābhiḥ).
+He rushed toward Kākutstha as Svarbhānu [Rāhu] rushes at the sun; standing in his chariot, Daśagrīva struck Rāma with thunderbolt-like arrows, as a raincloud pelts a great mountain with torrents (_dhārābhiḥ_).
 </details>
 </details>
 
@@ -218,7 +218,7 @@ not wince, like a large mountain which was unshakable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Collected in mind (samāhitaḥ), Rāma in battle showered Daśagrīva with gold-adorned arrows gleaming like blazing fire.
+Collected in mind (_samāhitaḥ_), Rāma in battle showered Daśagrīva with gold-adorned arrows gleaming like blazing fire.
 </details>
 </details>
 
@@ -268,7 +268,7 @@ the battle-field and endured them as rays of the sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This battle between Rāma standing on the ground (bhūmau sthitasya) and the rākṣasa mounted in a chariot is not equal (na samam)!”—so declared the gods, gandharvas, and kinnaras.
+“This battle between Rāma standing on the ground (_bhūmau sthitasya_) and the rākṣasa mounted in a chariot is not equal (_na samam_)!”—so declared the gods, gandharvas, and kinnaras.
 </details>
 </details>
 
@@ -314,7 +314,7 @@ of the great-souled Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the glorious chief of the gods, Śakra, having heard their nectar-like words (vaco'mṛtam), summoned Mātali and spoke this word:
+Then the glorious chief of the gods, Śakra, having heard their nectar-like words (_vaco&#x27;mṛtam_), summoned Mātali and spoke this word:
 </details>
 </details>
 
@@ -368,7 +368,7 @@ with bloom in a forest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go swiftly with my chariot to the best of the Raghus, who stands upon the ground (bhūmiṣṭham); having gone to the earth and invited him, perform a great service for the gods (devahitaṃ mahat)!”
+“Go swiftly with my chariot to the best of the Raghus, who stands upon the ground (_bhūmiṣṭham_); having gone to the earth and invited him, perform a great service for the gods (_devahitaṃ mahat_)!”
 </details>
 </details>
 
@@ -423,7 +423,7 @@ of arrows which shone like the sun at the time of dissolution of the world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the king of the gods, Mātali, the charioteer of the gods (devasārathiḥ), bowed his head to the god and then spoke this word:
+Thus addressed by the king of the gods, Mātali, the charioteer of the gods (_devasārathiḥ_), bowed his head to the god and then spoke this word:
 </details>
 </details>
 
@@ -475,7 +475,7 @@ was shrouded in darkness by the arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Swiftly shall I go, O lord of the gods, and I shall serve as charioteer (sārathyaṃ ca karomy aham)!” Then, having yoked that supreme chariot with green-bay steeds (haritaiḥ)—
+“Swiftly shall I go, O lord of the gods, and I shall serve as charioteer (_sārathyaṃ ca karomy aham_)!” Then, having yoked that supreme chariot with green-bay steeds (_haritaiḥ_)—
 </details>
 </details>
 
@@ -524,7 +524,7 @@ Dasaratha spoke the following harsh words to Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that supreme chariot of the king of the gods—its body wondrously wrought of gold (kāñcanacitrāṅgaḥ), adorned with hundreds of small bells, gleaming like the newly risen sun, with a pole of cat's-eye gem (vaidūryamayakūbaraḥ), yoked with noble steeds wearing golden crests and white yak-tail plumes (śvetaprakīrṇakaiḥ)—
+Then that supreme chariot of the king of the gods—its body wondrously wrought of gold (_kāñcanacitrāṅgaḥ_), adorned with hundreds of small bells, gleaming like the newly risen sun, with a pole of cat&#x27;s-eye gem (_vaidūryamayakūbaraḥ_), yoked with noble steeds wearing golden crests and white yak-tail plumes (_śvetaprakīrṇakaiḥ_)—
 </details>
 </details>
 
@@ -571,7 +571,7 @@ Janasthana, hence you are not a person of prowess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—with sun-bright bay horses (haribhiḥ) decked in golden netting, and bearing a banner on a golden bamboo staff (rukmaveṇudhvajaḥ), glorious and peerless—
+—with sun-bright bay horses (_haribhiḥ_) decked in golden netting, and bearing a banner on a golden bamboo staff (_rukmaveṇudhvajaḥ_), glorious and peerless—
 </details>
 </details>
 
@@ -623,7 +623,7 @@ away from me, you think: �I am a champion'."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—commanded by the king of the gods, Mātali mounted that chariot and, descending from heaven (triviṣṭapāt), approached Kākutstha.
+—commanded by the king of the gods, Mātali mounted that chariot and, descending from heaven (_triviṣṭapāt_), approached Kākutstha.
 </details>
 </details>
 
@@ -684,7 +684,7 @@ posing as a hero in relation to women without a protector, you think: "I am a ch
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Standing on the chariot with goad in hand (sapratodaḥ), Mātali, the charioteer of the thousand-eyed [Indra], joined his palms (prāñjaliḥ) and then spoke this word to Rāma:
+Standing on the chariot with goad in hand (_sapratodaḥ_), Mātali, the charioteer of the thousand-eyed [Indra], joined his palms (_prāñjaliḥ_) and then spoke this word to Rāma:
 </details>
 </details>
 
@@ -738,7 +738,7 @@ champion'."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Kākutstha of mighty spirit, O glorious crusher of foes (śatrunibarhaṇa), this chariot has been given to you by the thousand-eyed [Indra] for your victory!
+“O Kākutstha of mighty spirit, O glorious crusher of foes (_śatrunibarhaṇa_), this chariot has been given to you by the thousand-eyed [Indra] for your victory!
 </details>
 </details>
 
@@ -790,7 +790,7 @@ brother of Kubera, the god of wealth, rich in strength!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Here is Indra's great bow (aindraṃ mahac cāpam), and armor gleaming like fire, and arrows bright as the sun, and a spotless, auspicious spear (śaktiś ca vimalā śivā).
+Here is Indra&#x27;s great bow (_aindraṃ mahac cāpam_), and armor gleaming like fire, and arrows bright as the sun, and a spotless, auspicious spear (_śaktiś ca vimalā śivā_).
 </details>
 </details>
 
@@ -836,7 +836,7 @@ perpetrated through sheer vanity."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting this chariot, O hero, slay the rākṣasa Rāvaṇa with me as your charioteer (mayā sārathinā), O lord, even as Mahendra slew the Dānavas!”
+Mounting this chariot, O hero, slay the rākṣasa Rāvaṇa with me as your charioteer (_mayā sārathinā_), O lord, even as Mahendra slew the Dānavas!”
 </details>
 </details>
 
@@ -886,7 +886,7 @@ your way at all, for having taken away Seetha like a thief."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, Rāma circumambulated (samparikramya) that chariot and saluted it, and then ascended it, illuminating the worlds with his splendor (lakṣmyā).
+Thus addressed, Rāma circumambulated (_samparikramya_) that chariot and saluted it, and then ascended it, illuminating the worlds with his splendor (_lakṣmyā_).
 </details>
 </details>
 
@@ -935,7 +935,7 @@ your brother Khara at that very moment when killed with my arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then shone forth that wondrous, hair-raising duel of two chariots (yuddhaṃ dvairatham) between the mighty-armed Rāma and the rākṣasa Rāvaṇa.
+Then shone forth that wondrous, hair-raising duel of two chariots (_yuddhaṃ dvairatham_) between the mighty-armed Rāma and the rākṣasa Rāvaṇa.
 </details>
 </details>
 
@@ -995,7 +995,7 @@ dispatch you to the world of Death, by my sharp arrows, today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Supreme knower of missiles (paramāstravit), that Rāghava struck down the rākṣasa king's Gāndharva missile with the Gāndharva missile, and his divine missile (daivam) with the divine missile.
+Supreme knower of missiles (_paramāstravit_), that Rāghava struck down the rākṣasa king&#x27;s Gāndharva missile with the Gāndharva missile, and his divine missile (_daivam_) with the divine missile.
 </details>
 </details>
 
@@ -1042,7 +1042,7 @@ carried away by beasts of prey, after being chopped off by my arrows today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the overlord of rākṣasas, that night-stalker (niśācaraḥ), filled with supreme wrath, loosed once again a supremely dreadful demonic missile (astraṃ rākṣasam).
+Then the overlord of rākṣasas, that night-stalker (_niśācaraḥ_), filled with supreme wrath, loosed once again a supremely dreadful demonic missile (_astraṃ rākṣasam_).
 </details>
 </details>
 
@@ -1096,7 +1096,7 @@ arrow-tips."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those gold-adorned arrows discharged from Rāvaṇa's bow turned into highly venomous serpents (sarpā bhūtvā mahāviṣāḥ) and rushed toward Kākutstha.
+Those gold-adorned arrows discharged from Rāvaṇa&#x27;s bow turned into highly venomous serpents (_sarpā bhūtvā mahāviṣāḥ_) and rushed toward Kākutstha.
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ serpents when you fall down dead when pierced by my arrows today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With blazing faces and gaping jaws (vyāditāsyāḥ), spewing blazing fire from their mouths, those terrifying serpents rushed straight at Rāma.
+With blazing faces and gaping jaws (_vyāditāsyāḥ_), spewing blazing fire from their mouths, those terrifying serpents rushed straight at Rāma.
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ arrows on Ravana, who was in the vicinity.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By those highly venomous serpents—whose touch matched Vāsuki's and whose hoods blazed (dīptabhogaiḥ)—all the cardinal directions were overspread and the intermediate quarters enveloped.
+By those highly venomous serpents—whose touch matched Vāsuki&#x27;s and whose hoods blazed (_dīptabhogaiḥ_)—all the cardinal directions were overspread and the intermediate quarters enveloped.
 </details>
 </details>
 
@@ -1240,7 +1240,7 @@ two-fold, when he longed for the death of his enemy in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those serpents hurtling forward in battle, Rāma brought forth (prāduścakre) the dreadful, fearsome missile of Garuḍa (astraṃ gārutmatam).
+Beholding those serpents hurtling forward in battle, Rāma brought forth (_prāduścakre_) the dreadful, fearsome missile of Garuḍa (_astraṃ gārutmatam_).
 </details>
 </details>
 
@@ -1301,7 +1301,7 @@ in his excessive enthusiasm, Rama of extra-ordinary energy became all the more s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Discharged from Rāghava's bow, those gold-feathered arrows gleaming like fire (śikhiprabhāḥ) turned into golden Garuḍas (suparṇāḥ kāñcanāḥ) and roamed about as foes of serpents.
+Discharged from Rāghava&#x27;s bow, those gold-feathered arrows gleaming like fire (_śikhiprabhāḥ_) turned into golden Garuḍas (_suparṇāḥ kāñcanāḥ_) and roamed about as foes of serpents.
 </details>
 </details>
 
@@ -1347,7 +1347,7 @@ more vehemently.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Assuming the form of Suparṇa [Garuḍa] and changing shape at will (kāmarūpiṇaḥ), those arrows of Rāma slew all those swiftly coursing, serpent-shaped arrows.
+Assuming the form of Suparṇa [Garuḍa] and changing shape at will (_kāmarūpiṇaḥ_), those arrows of Rāma slew all those swiftly coursing, serpent-shaped arrows.
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ arrows coming from Rama, Ravana felt bewildered at heart.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his missile was repelled (astre pratihate), Rāvaṇa, overlord of rākṣasas, grew enraged and then showered Rāma with dreadful rains of arrows.
+When his missile was repelled (_astre pratihate_), Rāvaṇa, overlord of rākṣasas, grew enraged and then showered Rāma with dreadful rains of arrows.
 </details>
 </details>
 
@@ -1511,11 +1511,11 @@ battle-front.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** Then, having afflicted Rāma of unwearying deeds (akliṣṭakāriṇam) with a thousand arrows, he pierced Mātali in turn with a flood of shafts (śaraugheṇa).
+**28:** Then, having afflicted Rāma of unwearying deeds (_akliṣṭakāriṇam_) with a thousand arrows, he pierced Mātali in turn with a flood of shafts (_śaraugheṇa_).
 
-**29:** Aiming at the banner (ketum uddiśya), Rāvaṇa severed it with a single arrow, felling that golden standard from the chariot onto the chariot-floor (rathopasthe).
+**29:** Aiming at the banner (_ketum uddiśya_), Rāvaṇa severed it with a single arrow, felling that golden standard from the chariot onto the chariot-floor (_rathopasthe_).
 
-**30:** With a net of arrows Rāvaṇa also struck Indra's steeds (aindrān aśvān); the gods, gandharvas, and cāraṇas, together with the dānavas, sank into dejection (viṣeduḥ).
+**30:** With a net of arrows Rāvaṇa also struck Indra&#x27;s steeds (_aindrān aśvān_); the gods, gandharvas, and cāraṇas, together with the dānavas, sank into dejection (_viṣeduḥ_).
 </details>
 </details>
 
@@ -1588,7 +1588,7 @@ from the battle-field in dismay.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing Rāma afflicted (rāmaṃ ārtam) at that moment, the siddhas and supreme sages, and the monkey chiefs along with Vibhīṣaṇa, were filled with anguish (vyathitāḥ).
+Seeing Rāma afflicted (_rāmaṃ ārtam_) at that moment, the siddhas and supreme sages, and the monkey chiefs along with Vibhīṣaṇa, were filled with anguish (_vyathitāḥ_).
 </details>
 </details>
 

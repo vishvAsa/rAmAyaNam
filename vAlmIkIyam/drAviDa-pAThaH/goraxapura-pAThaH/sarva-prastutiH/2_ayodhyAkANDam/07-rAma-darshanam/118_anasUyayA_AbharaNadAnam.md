@@ -82,7 +82,7 @@ addressed her gently as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Anasūyā, Vaidehī, herself free from all envy (anasūyā), honored that speech (pratipūjya vacaḥ) and gently began to speak (mandaṃ pravaktum upacakrame):
+Addressed thus by Anasūyā, Vaidehī, herself free from all envy (_anasūyā_), honored that speech (_pratipūjya vacaḥ_) and gently began to speak (_mandaṃ pravaktum upacakrame_):
 </details>
 </details>
 
@@ -139,7 +139,7 @@ I know well that a husband is a respectable person for a woman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is no matter for wonder in you, O noble lady (naitad āścaryam āryāyāḥ), that you instruct me thus (yan māṃ tvam anubhāṣase); yet this is well known to me also, that for a woman her husband is her supreme preceptor (nāryāḥ patir guruḥ).
+“This is no matter for wonder in you, O noble lady (_naitad āścaryam āryāyāḥ_), that you instruct me thus (_yan māṃ tvam anubhāṣase_); yet this is well known to me also, that for a woman her husband is her supreme preceptor (_nāryāḥ patir guruḥ_).
 </details>
 </details>
 
@@ -192,7 +192,7 @@ be obeyed by me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if this husband of mine were devoid of good conduct (vṛttavarjitaḥ), O venerable lady (ārye), even so he would have to be served by me with an undivided heart (advaidham upacartavyaḥ).
+“Even if this husband of mine were devoid of good conduct (_vṛttavarjitaḥ_), O venerable lady (_ārye_), even so he would have to be served by me with an undivided heart (_advaidham upacartavyaḥ_).
 </details>
 </details>
 
@@ -246,7 +246,7 @@ father to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How much more so (kiṃ punaḥ) one who is praiseworthy for his virtues (yo guṇaiḥ ślāghyaḥ), compassionate (sānukrośaḥ), master of his senses (jitendriyaḥ), steadfast in affection (sthirānurāgaḥ), righteous in soul, and dear as a mother and a father (mātṛvat pitṛvat priyaḥ)!
+“How much more so (_kiṃ punaḥ_) one who is praiseworthy for his virtues (_yo guṇaiḥ ślāghyaḥ_), compassionate (_sānukrośaḥ_), master of his senses (_jitendriyaḥ_), steadfast in affection (_sthirānurāgaḥ_), righteous in soul, and dear as a mother and a father (_mātṛvat pitṛvat priyaḥ_)!
 </details>
 </details>
 
@@ -298,7 +298,7 @@ behaviour towards his mother, Kausalya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That very conduct of reverence which Rāma of mighty strength observes toward Kausalyā (yāṃ vṛttiṃ vartate rāmaḥ kausalyāyām), that same conduct he observes toward all the other queens of the king as well (nṛpanārīṇām anyāsām api).
+“That very conduct of reverence which Rāma of mighty strength observes toward Kausalyā (_yāṃ vṛttiṃ vartate rāmaḥ kausalyāyām_), that same conduct he observes toward all the other queens of the king as well (_nṛpanārīṇām anyāsām api_).
 </details>
 </details>
 
@@ -352,7 +352,7 @@ glance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even toward women glanced at only once by the king (sakṛd dṛṣṭāsv api strīṣu nṛpeṇa), that heroic knower of dharma, devoted to his royal father (nṛpavatsalaḥ), lays aside all pride (mānam utsṛjya) and bears himself as toward his own mother (mātṛvad vartate).
+“Even toward women glanced at only once by the king (_sakṛd dṛṣṭāsv api strīṣu nṛpeṇa_), that heroic knower of dharma, devoted to his royal father (_nṛpavatsalaḥ_), lays aside all pride (_mānam utsṛjya_) and bears himself as toward his own mother (_mātṛvad vartate_).
 </details>
 </details>
 
@@ -416,7 +416,7 @@ great message to me, which I have inscribed in my heart."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, as I was coming to this solitary and fearful forest (vijanaṃ vanam evaṃ bhayāvaham), that great instruction which was imparted to me by my mother-in-law (samāhitaṃ me śvaśrvā ca) has been held fast in my heart (hṛdaye tad dhṛtaṃ mahat).
+“Moreover, as I was coming to this solitary and fearful forest (_vijanaṃ vanam evaṃ bhayāvaham_), that great instruction which was imparted to me by my mother-in-law (_samāhitaṃ me śvaśrvā ca_) has been held fast in my heart (_hṛdaye tad dhṛtaṃ mahat_).
 </details>
 </details>
 
@@ -468,7 +468,7 @@ marriage with Rama, I shall always remember them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And that word wherewith I was instructed of old by my mother (anuśiṣṭā jananyāsmi) in the presence of the sacred fire at the time of the giving of my hand in marriage (pāṇipradānakāle ca)—that too is held fast by me (tad api me dhṛtam).
+“And that word wherewith I was instructed of old by my mother (_anuśiṣṭā jananyāsmi_) in the presence of the sacred fire at the time of the giving of my hand in marriage (_pāṇipradānakāle ca_)—that too is held fast by me (_tad api me dhṛtam_).
 </details>
 </details>
 
@@ -520,7 +520,7 @@ than obedience to one's husband is decreed for a woman."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And all that has been refreshed in my memory by your words (navīkṛtaṃ ca tat sarvaṃ vākyais te), O righteous lady (dharmacāriṇi); for a woman, no austerity is ordained other than service to her husband (patiśuśrūṣaṇān nāryās tapo nānyad vidhīyते).
+“And all that has been refreshed in my memory by your words (_navīkṛtaṃ ca tat sarvaṃ vākyais te_), O righteous lady (_dharmacāriṇi_); for a woman, no austerity is ordained other than service to her husband (_patiśuśrūṣaṇān nāryās tapo nānyad vidhīyते_).
 </details>
 </details>
 
@@ -578,7 +578,7 @@ SAvitri was the celebrated wife of Prince Satyavan.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having rendered service to her husband (patiśuśrūṣāṃ kṛtvā), Sāvitrī is glorified in heaven (svarge mahīyate); and you too, observing that same conduct (tathāvṛttiś ca), have attained heaven through service to your husband (yātā tvaṃ patiśuśrūṣayā divam).
+“Having rendered service to her husband (_patiśuśrūṣāṃ kṛtvā_), Sāvitrī is glorified in heaven (_svarge mahīyate_); and you too, observing that same conduct (_tathāvṛttiś ca_), have attained heaven through service to your husband (_yātā tvaṃ patiśuśrūṣayā divam_).
 </details>
 </details>
 
@@ -630,7 +630,7 @@ even for a single moment in the sky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And this goddess in the sky, Rohiṇī, the foremost of all women (variṣṭhā sarvanārīṇām), is never seen even for a moment without the Moon (rohiṇī na vinā candraṃ muhūrtam api dṛśyate).
+“And this goddess in the sky, Rohiṇī, the foremost of all women (_variṣṭhā sarvanārīṇām_), is never seen even for a moment without the Moon (_rohiṇī na vinā candraṃ muhūrtam api dṛśyate_).
 </details>
 </details>
 
@@ -682,7 +682,7 @@ are highly honoured in heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And other preeminent women of this sort, firm in their vows toward their husbands (pravarāḥ striyo bhartṛdṛḍhavratāḥ), are glorified in the world of the gods (devaloke mahīyante) by their own meritorious deeds (puṇyena svena karmaṇā).”
+“And other preeminent women of this sort, firm in their vows toward their husbands (_pravarāḥ striyo bhartṛdṛḍhavratāḥ_), are glorified in the world of the gods (_devaloke mahīyante_) by their own meritorious deeds (_puṇyena svena karmaṇā_).”
 </details>
 </details>
 
@@ -746,7 +746,7 @@ forehead and spoke delightfully (as follows)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech uttered by Sītā, Anasūyā, thrilled with joy (saṃhṛṣṭā), kissed Maithilī upon the head (śirasy āghrāya) and spoke, gladdening her still more (harṣayanty uta):
+Hearing that speech uttered by Sītā, Anasūyā, thrilled with joy (_saṃhṛṣṭā_), kissed Maithilī upon the head (_śirasy āghrāya_) and spoke, gladdening her still more (_harṣayanty uta_):
 </details>
 </details>
 
@@ -799,7 +799,7 @@ my various pious observances. Through that power, I wish to confer a boon on you
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I possess mighty ascetic merit won through manifold vows (niyamair vividhair āptaṃ tapo hi mahad asti me); relying upon that power (tat saṃśritya balam), O Sītā of pure smile (śucismite), I invite you to choose a boon (chandaye tvām).
+“I possess mighty ascetic merit won through manifold vows (_niyamair vividhair āptaṃ tapo hi mahad asti me_); relying upon that power (_tat saṃśritya balam_), O Sītā of pure smile (_śucismite_), I invite you to choose a boon (_chandaye tvām_).
 </details>
 </details>
 
@@ -851,7 +851,7 @@ satisfied. Tell me what good I may do for you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fitting and delightful is your speech (upapannaṃ manojñaṃ ca vacanaṃ tava), O Maithilī, and I am well pleased with you (prītā cāsmi); tell me, what fitting boon shall I accomplish for you (ucitaṃ kiṃ te karavāṇi bravīhi me)?”
+“Fitting and delightful is your speech (_upapannaṃ manojñaṃ ca vacanaṃ tava_), O Maithilī, and I am well pleased with you (_prītā cāsmi_); tell me, what fitting boon shall I accomplish for you (_ucitaṃ kiṃ te karavāṇi bravīhi me_)?”
 </details>
 </details>
 
@@ -905,7 +905,7 @@ your grace).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that word of hers, Sītā, marveling yet smiling gently (vismitā mandavismayā), said to her who was endowed with the power of austerity (tapobalasamanvitām): “It is already accomplished (kṛtam)!”
+Hearing that word of hers, Sītā, marveling yet smiling gently (_vismitā mandavismayā_), said to her who was endowed with the power of austerity (_tapobalasamanvitām_): “It is already accomplished (_kṛtam_)!”
 </details>
 </details>
 
@@ -958,7 +958,7 @@ Seetha! Alas! I will create a great joy for you, which will be to your advantage
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by her, that knower of dharma became even more delighted (prītatarābhavat): “Ah, O Sītā (hanta sīte), I shall render your joyful contentment fruitful indeed (saphalaṃ ca praharṣaṃ te karomy aham)!
+Addressed thus by her, that knower of dharma became even more delighted (_prītatarābhavat_): “Ah, O Sītā (_hanta sīte_), I shall render your joyful contentment fruitful indeed (_saphalaṃ ca praharṣaṃ te karomy aham_)!
 </details>
 </details>
 
@@ -1029,9 +1029,9 @@ limbs. They will be ever worthy of your and will remain in tact (even after cons
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Here are a celestial, choice garland (idaṃ divyaṃ varaṃ mālyam), raiment, and ornaments (vastram ābharaṇāni ca), O Vaidehī, as well as body-unguent and precious fragrant ointment (aṅgarāgaṃ ca mahārhaṃ cānulepanam).
+**18:** “Here are a celestial, choice garland (_idaṃ divyaṃ varaṃ mālyam_), raiment, and ornaments (_vastram ābharaṇāni ca_), O Vaidehī, as well as body-unguent and precious fragrant ointment (_aṅgarāgaṃ ca mahārhaṃ cānulepanam_).
 
-**19:** “Bestowed by me, O Sītā, may these gifts adorn your limbs (tava gātrāṇi śobhayet); worthy of you and ever unfading and unsoiled (anurūpam asaṃkliṣṭam), they shall remain perpetual (nityam eva bhaviṣyati).
+**19:** “Bestowed by me, O Sītā, may these gifts adorn your limbs (_tava gātrāṇi śobhayet_); worthy of you and ever unfading and unsoiled (_anurūpam asaṃkliṣṭam_), they shall remain perpetual (_nityam eva bhaviṣyati_).
 </details>
 </details>
 
@@ -1085,7 +1085,7 @@ Vishnu (the Lord of Preservation)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With your limbs anointed with this celestial unguent (aṅgarāgeṇa divyena liptāṅgī), O daughter of Janaka, you shall adorn your husband just as Goddess Śrī adorns the imperishable Viṣṇu (śobhayiṣyasi bhartāraṃ yathā śrīr viṣṇum avyayam).”
+“With your limbs anointed with this celestial unguent (_aṅgarāgeṇa divyena liptāṅgī_), O daughter of Janaka, you shall adorn your husband just as Goddess Śrī adorns the imperishable Viṣṇu (_śobhayiṣyasi bhartāraṃ yathā śrīr viṣṇum avyayam_).”
 </details>
 </details>
 
@@ -1163,9 +1163,9 @@ near that female ascetic.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** Maithilī accepted that raiment, body-unguent, ornaments, and garlands (vastram aṅgarāgaṃ ca bhūṣaṇāni srajas tathā)—a peerless gift of affection (prītidānam anuttamam).
+**21:** Maithilī accepted that raiment, body-unguent, ornaments, and garlands (_vastram aṅgarāgaṃ ca bhūṣaṇāni srajas tathā_)—a peerless gift of affection (_prītidānam anuttamam_).
 
-**22:** Having accepted that gift of affection, the illustrious Sītā, with her hands joined in a reverent fold (śliṣṭāñjalipuṭā), sat there attending upon her whose wealth was austerity (samupāsta tapodhanām).
+**22:** Having accepted that gift of affection, the illustrious Sītā, with her hands joined in a reverent fold (_śliṣṭāñjalipuṭā_), sat there attending upon her whose wealth was austerity (_samupāsta tapodhanām_).
 </details>
 </details>
 
@@ -1219,7 +1219,7 @@ manner.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sītā sat thus beside her (tathā sītām upāsīnām), Anasūyā, firm in her vows (dṛḍhavratā), began to ask a question concerning a certain delightful tale (kāñcit priyakathām anu):
+As Sītā sat thus beside her (_tathā sītām upāsīnām_), Anasūyā, firm in her vows (_dṛḍhavratā_), began to ask a question concerning a certain delightful tale (_kāñcit priyakathām anu_):
 </details>
 </details>
 
@@ -1277,7 +1277,7 @@ consort from the royal suitors assembled, by placing a garland around his neck.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A report has reached my ears (kathā śrutim upāgatā), O Sītā, that you were won at a bride-choice assembly (svayaṃvare kila prāptā) by this illustrious Rāghava.
+“A report has reached my ears (_kathā śrutim upāgatā_), O Sītā, that you were won at a bride-choice assembly (_svayaṃvare kila prāptā_) by this illustrious Rāghava.
 </details>
 </details>
 
@@ -1340,7 +1340,7 @@ full as you experienced it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I desire to hear that tale at length (tāṃ kathāṃ śrotum icchāmi vistareṇa), O Maithilī; deign to relate it to me in its entirety just as it was experienced (yathānubhūtaṃ kārtsnyena).”
+“I desire to hear that tale at length (_tāṃ kathāṃ śrotum icchāmi vistareṇa_), O Maithilī; deign to relate it to me in its entirety just as it was experienced (_yathānubhūtaṃ kārtsnyena_).”
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ tale of Svayamvara to the virtuous woman, Anasuya."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, Sītā said to that righteous matron (tāṃ dharmacāriṇīm), “Pray let it be heard (śrūyatām),” and recounted that tale:
+Addressed thus, Sītā said to that righteous matron (_tāṃ dharmacāriṇīm_), “Pray let it be heard (_śrūyatām_),” and recounted that tale:
 </details>
 </details>
 
@@ -1447,7 +1447,7 @@ manner."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The heroic lord of Mithilā, Janaka by name, a knower of dharma (janako nāma dharmavit), delighting in the duty of Kṣatriyas (kṣatradharme hy abhirataḥ), righteously rules the earth (nyāyataḥ śāsti medinīm).
+“The heroic lord of Mithilā, Janaka by name, a knower of dharma (_janako nāma dharmavit_), delighting in the duty of Kṣatriyas (_kṣatradharme hy abhirataḥ_), righteously rules the earth (_nyāyataḥ śāsti medinīm_).
 </details>
 </details>
 
@@ -1503,7 +1503,7 @@ said that I came forth, splitting up the land, as a daughter of that king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While he, plough in hand, was ploughing the sacrificial ground (tasya lāṅgalahastasya karṣataḥ kṣetramaṇḍalam), I rose up, so it is told, cleaving the earth (ahaṃ kilotthitā bhittvā jagatīm), as that king’s daughter (nṛpateḥ sutā).
+“While he, plough in hand, was ploughing the sacrificial ground (_tasya lāṅgalahastasya karṣataḥ kṣetramaṇḍalam_), I rose up, so it is told, cleaving the earth (_ahaṃ kilotthitā bhittvā jagatīm_), as that king’s daughter (_nṛpateḥ sutā_).
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ see me, with all my limbs covered with dust."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding me with all my limbs covered in dust (pāṃsukuṇṭhitasarvāṅgīm) while he was intent on scattering handfuls of seed (muṣṭivikṣepatatparaḥ), King Janaka was struck with wonder (vismito 'bhavat).
+“Beholding me with all my limbs covered in dust (_pāṃsukuṇṭhitasarvāṅgīm_) while he was intent on scattering handfuls of seed (_muṣṭivikṣepatatparaḥ_), King Janaka was struck with wonder (_vismito &#x27;bhavat_).
 </details>
 </details>
 
@@ -1607,7 +1607,7 @@ one as his daughter, and was very fond of me since then."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Childless as he was (anapatyena), out of affection he himself placed me upon his lap (snehād aṅkam āropya ca svayam); and saying, ‘This is my daughter (mameyaṃ tanayā),’ he showered tender love upon me (sneho mayi nipātitaḥ).
+“Childless as he was (_anapatyena_), out of affection he himself placed me upon his lap (_snehād aṅkam āropya ca svayam_); and saying, ‘This is my daughter (_mameyaṃ tanayā_),’ he showered tender love upon me (_sneho mayi nipātitaḥ_).
 </details>
 </details>
 
@@ -1669,7 +1669,7 @@ rightly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And in the sky an unearthly voice was uttered concerning me, so it is told (antarikṣe ca vāg uktā prati mā 'mānuṣī kila): ‘Even so is it, O king (evam etan narapate); by righteousness she is truly your daughter (dharmeṇa tanayā tava).’
+“And in the sky an unearthly voice was uttered concerning me, so it is told (_antarikṣe ca vāg uktā prati mā &#x27;mānuṣī kila_): ‘Even so is it, O king (_evam etan narapate_); by righteousness she is truly your daughter (_dharmeṇa tanayā tava_).’
 </details>
 </details>
 
@@ -1722,7 +1722,7 @@ kingdom was rejoiced in my possession and acquired extensive property."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon my righteous-souled father, the lord of Mithilā, rejoiced greatly (tataḥ prahṛṣṭo dharmātmā pitā me mithilādhipaḥ); having obtained me, that monarch attained vast prosperity (avāpto vipulām ṛddhim).
+“Thereupon my righteous-souled father, the lord of Mithilā, rejoiced greatly (_tataḥ prahṛṣṭo dharmātmā pitā me mithilādhipaḥ_); having obtained me, that monarch attained vast prosperity (_avāpto vipulām ṛddhim_).
 </details>
 </details>
 
@@ -1778,7 +1778,7 @@ nourished me fondly and with maternal affection."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By that monarch of meritorious deeds (puṇyakarmaṇā) I was given like a cherished treasure to his eldest queen (dattā cāsmīṣṭavad devyai jyeṣṭhāyai); and by that affectionate queen I was tenderly nurtured out of maternal love (mātṛsauhṛdāt).
+“By that monarch of meritorious deeds (_puṇyakarmaṇā_) I was given like a cherished treasure to his eldest queen (_dattā cāsmīṣṭavad devyai jyeṣṭhāyai_); and by that affectionate queen I was tenderly nurtured out of maternal love (_mātṛsauhṛdāt_).
 </details>
 </details>
 
@@ -1832,7 +1832,7 @@ possessions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding me reach the age suited for union with a husband (patisaṃyogasulabhaṃ vayo dṛṣṭvā), my father fell into deep anxiety (cintām abhyagamat), distressed like an impoverished man after the loss of his wealth (dīno vittanāśād ivādhanaḥ):
+“Beholding me reach the age suited for union with a husband (_patisaṃyogasulabhaṃ vayo dṛṣṭvā_), my father fell into deep anxiety (_cintām abhyagamat_), distressed like an impoverished man after the loss of his wealth (_dīno vittanāśād ivādhanaḥ_):
 </details>
 </details>
 
@@ -1889,7 +1889,7 @@ him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘In the world, the father of a maiden (kanyāpitā), even though he be equal to Śakra upon the earth (śakreṇāpi samo bhuvi), suffers humiliation (pradharṣaṇam avāpnoti) from men both equal and inferior (sadṛśāc cāpakṛṣṭāc ca janāt).’
+“‘In the world, the father of a maiden (_kanyāpitā_), even though he be equal to Śakra upon the earth (_śakreṇāpi samo bhuvi_), suffers humiliation (_pradharṣaṇam avāpnoti_) from men both equal and inferior (_sadṛśāc cāpakṛṣṭāc ca janāt_).’
 </details>
 </details>
 
@@ -1943,7 +1943,7 @@ would reach the end of a sea."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that humiliation standing not far off regarding himself (tāṃ dharṣaṇām adūrasthāṃ dṛṣṭvā cātmani), the king, plunged into an ocean of anxiety (cintārṇavagataḥ), reached no further shore, like a man without a boat (pāraṃ nāsasādāplavo yathā).
+“Beholding that humiliation standing not far off regarding himself (_tāṃ dharṣaṇām adūrasthāṃ dṛṣṭvā cātmani_), the king, plunged into an ocean of anxiety (_cintārṇavagataḥ_), reached no further shore, like a man without a boat (_pāraṃ nāsasādāplavo yathā_).
 </details>
 </details>
 
@@ -2003,7 +2003,7 @@ reflection, was unable to find a suitable and worthy husband for me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Knowing me to be non-womb-born (ayonijāṃ hi māṃ jñātvā), the king, though reflecting deeply (vicintayan), could not find a husband for me who was both equal in birth and worthy in beauty and virtue (sadṛśaṃ cānurūpaṃ ca).
+“Knowing me to be non-womb-born (_ayonijāṃ hi māṃ jñātvā_), the king, though reflecting deeply (_vicintayan_), could not find a husband for me who was both equal in birth and worthy in beauty and virtue (_sadṛśaṃ cānurūpaṃ ca_).
 </details>
 </details>
 
@@ -2056,7 +2056,7 @@ Svayamvara, a process of self-choosing marriage, for my daughter."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As that wise monarch pondered ceaselessly (cintayānasya santatam), this resolve arose in his mind (tasya buddhir iyaṃ jātā): ‘I shall institute a bride-choice test for my daughter (svayaṃ varaṃ tanūjāyāḥ kariṣyāmi).’
+“As that wise monarch pondered ceaselessly (_cintayānasya santatam_), this resolve arose in his mind (_tasya buddhir iyaṃ jātā_): ‘I shall institute a bride-choice test for my daughter (_svayaṃ varaṃ tanūjāyāḥ kariṣyāmi_).’
 </details>
 </details>
 
@@ -2109,7 +2109,7 @@ excellent bow with two quivers that should never lack arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, at a great sacrifice (mahāyajñe tadā), a supreme bow (dhanurvaram) and two quivers with inexhaustible arrows (tūṇī cākṣayasāyakau) had been affectionately bestowed upon his ancestor by high-souled Varuṇa (varuṇena mahātmanā).
+“Of old, at a great sacrifice (_mahāyajñe tadā_), a supreme bow (_dhanurvaram_) and two quivers with inexhaustible arrows (_tūṇī cākṣayasāyakau_) had been affectionately bestowed upon his ancestor by high-souled Varuṇa (_varuṇena mahātmanā_).
 </details>
 </details>
 
@@ -2161,7 +2161,7 @@ were bale to bend it even in their dreams."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Immovable by mortal men even with strenuous effort because of its immense weight (asañcālyaṃ manuṣyaiś ca yatnenāpi ca gauravāt), kings were unable to bend that bow even in their dreams (tan na śaktā namayituṃ svapneṣv api narādhipāḥ).
+“Immovable by mortal men even with strenuous effort because of its immense weight (_asañcālyaṃ manuṣyaiś ca yatnenāpi ca gauravāt_), kings were unable to bend that bow even in their dreams (_tan na śaktā namayituṃ svapneṣv api narādhipāḥ_).
 </details>
 </details>
 
@@ -2213,7 +2213,7 @@ about the bow to be lifted."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having obtained that bow and having first invited the kings (pūrvam āmantrya pārthivān), my truth-speaking father proclaimed in the assembly of monarchs (samavāye narendrāṇām):
+“Having obtained that bow and having first invited the kings (_pūrvam āmantrya pārthivān_), my truth-speaking father proclaimed in the assembly of monarchs (_samavāye narendrāṇām_):
 </details>
 </details>
 
@@ -2265,7 +2265,7 @@ marriage on him. There is no doubt about it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whatever man lifts up this bow and strings it (idaṃ ca dhanur udyamya sajyaṃ yaḥ kurute naraḥ), to him my daughter shall become a wife—of this there is no doubt (tasya me duhitā bhāryā bhaviṣyati na saṃśayaḥ).’
+“‘Whatever man lifts up this bow and strings it (_idaṃ ca dhanur udyamya sajyaṃ yaḥ kurute naraḥ_), to him my daughter shall become a wife—of this there is no doubt (_tasya me duhitā bhāryā bhaviṣyati na saṃśayaḥ_).’
 </details>
 </details>
 
@@ -2326,7 +2326,7 @@ lift it up, the princes offered salutation to it and went away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding that supreme bow, which resembled a mountain in weight (gauravād girisannibham), the kings, unable even to lift or budge it (aśaktās tasya tolane), bowed to it in salutation and departed (abhivādya nṛpā jagmuḥ).
+“Beholding that supreme bow, which resembled a mountain in weight (_gauravād girisannibham_), the kings, unable even to lift or budge it (_aśaktās tasya tolane_), bowed to it in salutation and departed (_abhivādya nṛpā jagmuḥ_).
 </details>
 </details>
 
@@ -2403,9 +2403,9 @@ father, (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “Then, after a very long time (sudīrghasya tu kālasya), this Rāghava of mighty splendour—Rāma of true valour (rāmaḥ satyaparākramaḥ)—arrived accompanied by Viśvāmitra and his brother Lakṣmaṇa to witness the sacrifice (yajñaṃ draṣṭuṃ samāgataḥ).
+**44:** “Then, after a very long time (_sudīrghasya tu kālasya_), this Rāghava of mighty splendour—Rāma of true valour (_rāmaḥ satyaparākramaḥ_)—arrived accompanied by Viśvāmitra and his brother Lakṣmaṇa to witness the sacrifice (_yajñaṃ draṣṭuṃ samāgataḥ_).
 
-**45:** “Righteous-souled Viśvāmitra, reverently worshiped by my father (mama pitrā supūjitaḥ), spoke there to my father: ‘The two brothers Rāma and Lakṣmaṇa—
+**45:** “Righteous-souled Viśvāmitra, reverently worshiped by my father (_mama pitrā supūjitaḥ_), spoke there to my father: ‘The two brothers Rāma and Lakṣmaṇa—
 </details>
 </details>
 
@@ -2459,7 +2459,7 @@ from gods, to Rama the prince."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘These two sons of Daśaratha are eager to behold the bow (dhanurdarśanakāṅkṣiṇau); show the divine bow to Prince Rāma (dhanur darśaya rāmāya rājaputrāya daivikam).’
+“‘These two sons of Daśaratha are eager to behold the bow (_dhanurdarśanakāṅkṣiṇau_); show the divine bow to Prince Rāma (_dhanur darśaya rāmāya rājaputrāya daivikam_).’
 </details>
 </details>
 
@@ -2490,7 +2490,7 @@ from gods, to Rama the prince."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Addressed thus by that Brāhmaṇa sage, my father had that bow brought forth (tad dhanuḥ samupānayat); and within the twinkling of an eye (nimeṣāntaramātreṇa), that heroic prince bent it (tad ānamya sa vīryavān)—
+“Addressed thus by that Brāhmaṇa sage, my father had that bow brought forth (_tad dhanuḥ samupānayat_); and within the twinkling of an eye (_nimeṣāntaramātreṇa_), that heroic prince bent it (_tad ānamya sa vīryavān_)—
 </details>
 </details>
 
@@ -2539,7 +2539,7 @@ with the bow-cord and drew the bow to the full."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Swiftly fixed the bowstring (jyāṃ samāropya jhaṭiti), and drew it to the full with heroic might (pūrayāmāsa vīryavat); as it was drawn by him with impetuous force (tena pūrayatā vegāt), the bow snapped in two in the middle (madhye bhagnaṃ dvidhā dhanuḥ), and its crash was fearful like that of a falling thunderbolt (patitasyāśaner iva).
+“Swiftly fixed the bowstring (_jyāṃ samāropya jhaṭiti_), and drew it to the full with heroic might (_pūrayāmāsa vīryavat_); as it was drawn by him with impetuous force (_tena pūrayatā vegāt_), the bow snapped in two in the middle (_madhye bhagnaṃ dvidhā dhanuḥ_), and its crash was fearful like that of a falling thunderbolt (_patitasyāśaner iva_).
 </details>
 </details>
 
@@ -2601,7 +2601,7 @@ thunderbolt."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, lifting up an excellent water-vessel (udyamya jalabhājanam uttamam), my father, true to his promise (pitrā satyābhisandhinā), resolved to bestow me there upon Rāma (niścitā dātum).
+“Thereupon, lifting up an excellent water-vessel (_udyamya jalabhājanam uttamam_), my father, true to his promise (_pitrā satyābhisandhinā_), resolved to bestow me there upon Rāma (_niścitā dātum_).
 </details>
 </details>
 
@@ -2653,7 +2653,7 @@ offering him a jar of pure water."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet Rāghava did not accept me as I was being offered at that time (dīyamānāṃ na tu tadā pratijagrāha rāghavaḥ), without first ascertaining the wish of his father, the sovereign lord of Ayodhyā (avijñāya pituś chandam ayodhyādhipateḥ prabhoḥ).
+“Yet Rāghava did not accept me as I was being offered at that time (_dīyamānāṃ na tu tadā pratijagrāha rāghavaḥ_), without first ascertaining the wish of his father, the sovereign lord of Ayodhyā (_avijñāya pituś chandam ayodhyādhipateḥ prabhoḥ_).
 </details>
 </details>
 
@@ -2705,7 +2705,7 @@ and the king of Ayodhya had been made known to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereafter, having invited my aged father-in-law, King Daśaratha (tataḥ śvaśuram āmantrya vṛddhaṃ daśarathaṃ nṛpam), I was bestowed by my father upon Rāma, knower of the Self (rāmāya viditātmane).
+“Thereafter, having invited my aged father-in-law, King Daśaratha (_tataḥ śvaśuram āmantrya vṛddhaṃ daśarathaṃ nṛpam_), I was bestowed by my father upon Rāma, knower of the Self (_rāmāya viditātmane_).
 </details>
 </details>
 
@@ -2760,7 +2760,7 @@ father and with his approval, I was bestowed on Rama, the knower of the self."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And my virtuous and lovely younger sister Ūrmilā (mama caivānujā sādhvī ūrmilā priyadarśanā) was personally bestowed by my father as a bride for Lakṣmaṇa as well (bhāryārthe lakṣmaṇasyāpi dattā pitrā mama svayam).
+“And my virtuous and lovely younger sister Ūrmilā (_mama caivānujā sādhvī ūrmilā priyadarśanā_) was personally bestowed by my father as a bride for Lakṣmaṇa as well (_bhāryārthe lakṣmaṇasyāpi dattā pitrā mama svayam_).
 </details>
 </details>
 
@@ -2812,7 +2812,7 @@ to Lakshmana by my father himself."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In this manner was I bestowed upon Rāma at that time in that bride-choice assembly (evaṃ dattāsmi rāmāya tadā tasmin svayaṃvare); and in accordance with dharma I am devotedly attached to my husband, the foremost of the heroic (anuraktāsmi dharmeṇa patiṃ vīryavatāṃ varam).”
+“In this manner was I bestowed upon Rāma at that time in that bride-choice assembly (_evaṃ dattāsmi rāmāya tadā tasmin svayaṃvare_); and in accordance with dharma I am devotedly attached to my husband, the foremost of the heroic (_anuraktāsmi dharmeṇa patiṃ vīryavatāṃ varam_).”
 </details>
 </details>
 

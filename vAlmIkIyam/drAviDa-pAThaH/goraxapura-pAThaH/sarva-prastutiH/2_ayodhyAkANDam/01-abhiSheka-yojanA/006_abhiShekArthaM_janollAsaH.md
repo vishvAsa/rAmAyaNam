@@ -81,7 +81,7 @@ mind along with his wide-eyed wife, Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Once the royal chaplain had departed (gate purohite), Rāma bathed (snātaḥ) and, with his mind well governed (niyatamānasaḥ), worshiped Lord Nārāyaṇa (nārāyaṇam upāgamat) together with his wide-eyed consort (patnyā viśālākṣyā).
+Once the royal chaplain had departed (_gate purohite_), Rāma bathed (_snātaḥ_) and, with his mind well governed (_niyatamānasaḥ_), worshiped Lord Nārāyaṇa (_nārāyaṇam upāgamat_) together with his wide-eyed consort (_patnyā viśālākṣyā_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ Lord Vishnu the clarified butter, by dropping it into the blazing fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reverently lifting up upon his head (pragṛhya śirasā) the sacrificial vessel of oblation (pātrīṃ haviṣaḥ) according to ritual precept (vidhivat), he then poured clarified butter (ājyam) into the blazing fire (jvalitānale) unto the Supreme Deity (mahate daivatāya).
+Reverently lifting up upon his head (_pragṛhya śirasā_) the sacrificial vessel of oblation (_pātrīṃ haviṣaḥ_) according to ritual precept (_vidhivat_), he then poured clarified butter (_ājyam_) into the blazing fire (_jvalitānale_) unto the Supreme Deity (_mahate daivatāya_).
 </details>
 </details>
 
@@ -198,9 +198,9 @@ and is held in the highest reverence by the Vaishnavas and other devotees all ov
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** Partaking (prāśya) of the remnant of that oblation (śeṣaṃ haviṣaḥ) after praying for what was dear to himself (āśāsyātmanaḥ priyam), and meditating (dhyāyan) upon the divine Lord Nārāyaṇa on a well-spread bed of sacred kuśa grass (kuśasaṃstare),
+**3:** Partaking (_prāśya_) of the remnant of that oblation (_śeṣaṃ haviṣaḥ_) after praying for what was dear to himself (_āśāsyātmanaḥ priyam_), and meditating (_dhyāyan_) upon the divine Lord Nārāyaṇa on a well-spread bed of sacred _kuśa_ grass (_kuśasaṃstare_),
 
-**4:** the son of the foremost of men (naravarātmajaḥ), observing a vow of silence (vāgyataḥ) and with his mind subdued (niyatamānasaḥ), lay down (śiśye) together with Vaidehī in the resplendent sanctuary of Viṣṇu (śrīmaty āyatane viṣṇoḥ).
+**4:** the son of the foremost of men (_naravarātmajaḥ_), observing a vow of silence (_vāgyataḥ_) and with his mind subdued (_niyatamānasaḥ_), lay down (_śiśye_) together with Vaidehī in the resplendent sanctuary of Viṣṇu (_śrīmaty āyatane viṣṇoḥ_).
 </details>
 </details>
 
@@ -252,7 +252,7 @@ the house.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Awakening (prativibudhya) when a single night-watch remained (ekayāmāvaśiṣṭāyāṃ rātryām), he caused the ceremonial decoration (alaṃkāravidhim) of his palace to be thoroughly carried out (samyak kārayām āsa).
+Awakening (_prativibudhya_) when a single night-watch remained (_ekayāmāvaśiṣṭāyāṃ rātryām_), he caused the ceremonial decoration (_alaṃkāravidhim_) of his palace to be thoroughly carried out (_samyak kārayām āsa_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ their capacity of twice born.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Listening there to the pleasing utterances (sukhā vācaḥ) of bardic sūtas, genealogical māgadhas, and panegyrist vandins (sūtamāgadhavandinām), he worshiped the morning twilight (pūrvāṃ saṃdhyām upāsīnaḥ) and silently recited sacred mantras (jajāpa) in deep concentration (susamāhitaḥ).
+Listening there to the pleasing utterances (_sukhā vācaḥ_) of bardic _sūtas_, genealogical _māgadhas_, and panegyrist _vandins_ (_sūtamāgadhavandinām_), he worshiped the morning twilight (_pūrvāṃ saṃdhyām upāsīnaḥ_) and silently recited sacred mantras (_jajāpa_) in deep concentration (_susamāhitaḥ_).
 </details>
 </details>
 
@@ -373,7 +373,7 @@ he got valedictory text recited by Brahmans.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing low (praṇataḥ) with his head, he praised Madhusūdana (tuṣṭāva madhusūdanam); and clad in spotless linen (vimalakṣaumasaṃvītaḥ), he caused the brāhmaṇas (dvijān) to pronounce auspicious blessings (vācayām āsa).
+Bowing low (_praṇataḥ_) with his head, he praised Madhusūdana (_tuṣṭāva madhusūdanam_); and clad in spotless linen (_vimalakṣaumasaṃvītaḥ_), he caused the _brāhmaṇas_ (_dvijān_) to pronounce auspicious blessings (_vācayām āsa_).
 </details>
 </details>
 
@@ -428,7 +428,7 @@ instruments, then filled the city of Ayodhya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then their deep and melodious (gambhīramadhuraḥ) chant of the auspicious day (puṇyāhaghoṣaḥ), reverberating with the sound of musical instruments (tūryaghoṣānunāditaḥ), filled all Ayodhyā (ayodhyāṃ pūrayām āsa).
+Then their deep and melodious (_gambhīramadhuraḥ_) chant of the auspicious day (_puṇyāhaghoṣaḥ_), reverberating with the sound of musical instruments (_tūryaghoṣānunāditaḥ_), filled all Ayodhyā (_ayodhyāṃ pūrayām āsa_).
 </details>
 </details>
 
@@ -474,7 +474,7 @@ Seetha had observed fast for the ensuing anointment ceremony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that Rāghava had observed the ritual fast (kṛtopavāsam) together with Vaidehī, the entire populace dwelling in Ayodhyā (ayodhyānilayaḥ sarvo janaḥ) was filled with joy (pramuditaḥ).
+Hearing that Rāghava had observed the ritual fast (_kṛtopavāsam_) together with Vaidehī, the entire populace dwelling in Ayodhyā (_ayodhyānilayaḥ sarvo janaḥ_) was filled with joy (_pramuditaḥ_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ sunrise.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then all the townsfolk (paurajanaḥ sarvaḥ), having heard of Rāma’s consecration (rāmābhiṣecanam) and seeing the night brighten into dawn (prabhātāṃ rajanīṃ dṛṣṭvā), set about adorning the city (cakre śobhayituṃ purīm).
+Then all the townsfolk (_paurajanaḥ sarvaḥ_), having heard of Rāma’s consecration (_rāmābhiṣecanam_) and seeing the night brighten into dawn (_prabhātāṃ rajanīṃ dṛṣṭvā_), set about adorning the city (_cakre śobhayituṃ purīm_).
 </details>
 </details>
 
@@ -608,11 +608,11 @@ family persons, on all assembly halls and all visible trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Upon the temples of the gods (devatāyataneṣu) gleaming like the peaks of white clouds (sitābhraśikharābheṣu), at the crossroads (catuṣpatheṣu), along the streets (rathyāsu), upon sacred shrines (caityeṣu) and watchtowers (aṭṭālakeṣu),
+**11:** Upon the temples of the gods (_devatāyataneṣu_) gleaming like the peaks of white clouds (_sitābhraśikharābheṣu_), at the crossroads (_catuṣpatheṣu_), along the streets (_rathyāsu_), upon sacred shrines (_caityeṣu_) and watchtowers (_aṭṭālakeṣu_),
 
-**12:** in the merchants’ marketplaces (vaṇijām āpaṇeṣu) abounding in wares of every kind (nānāpaṇyasamṛddheṣu), and upon the affluent, splendid mansions of householders (kuṭumbināṃ bhavaneṣu),
+**12:** in the merchants’ marketplaces (_vaṇijām āpaṇeṣu_) abounding in wares of every kind (_nānāpaṇyasamṛddheṣu_), and upon the affluent, splendid mansions of householders (_kuṭumbināṃ bhavaneṣu_),
 
-**13:** in all the assembly halls (sabhāsu sarvāsu), and upon every conspicuous tree (vṛkṣeṣv ālakṣiteṣu), emblem-marked banners (dhvajāḥ) and fluttering pennants (patākāḥ) were handsomely hoisted (samucchritāḥ sādhu).
+**13:** in all the assembly halls (_sabhāsu sarvāsu_), and upon every conspicuous tree (_vṛkṣeṣv ālakṣiteṣu_), emblem-marked banners (_dhvajāḥ_) and fluttering pennants (_patākāḥ_) were handsomely hoisted (_samucchritāḥ sādhu_).
 </details>
 </details>
 
@@ -664,7 +664,7 @@ dance. Singers were singing and sweet voices were heard, pleasing the minds and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There the assembled populace (janatā) listened (śuśrāva) to the heart- and ear-delighting (manaḥkarṇasukhāḥ) voices of troupes of actors and dancers (naṭanartakasaṅghānām) and of singers singing (gāyakānāṃ ca gāyatām).
+There the assembled populace (_janatā_) listened (_śuśrāva_) to the heart- and ear-delighting (_manaḥkarṇasukhāḥ_) voices of troupes of actors and dancers (_naṭanartakasaṅghānām_) and of singers singing (_gāyakānāṃ ca gāyatām_).
 </details>
 </details>
 
@@ -717,7 +717,7 @@ conversations in their houses and at road junctions, about the ceremony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now that the hour of Rāma’s consecration had arrived (rāmābhiṣeke saṃprāpte), people held conversations (kathāś cakruḥ) with one another (mithaḥ) concerning Rāma’s consecration in the public squares (catvareṣu) and inside their homes (gṛheṣu ca).
+Now that the hour of Rāma’s consecration had arrived (_rāmābhiṣeke saṃprāpte_), people held conversations (_kathāś cakruḥ_) with one another (_mithaḥ_) concerning Rāma’s consecration in the public squares (_catvareṣu_) and inside their homes (_gṛheṣu ca_).
 </details>
 </details>
 
@@ -770,7 +770,7 @@ narratives of Rama's anointment ceremony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even children (bālā api), playing in groups (saṅghaśaḥ) at the doorways of houses (gṛhadvāreṣu), conversed with one another solely about Rāma’s consecration (rāmābhiṣavasaṃyuktāḥ).
+Even children (_bālā api_), playing in groups (_saṅghaśaḥ_) at the doorways of houses (_gṛhadvāreṣu_), conversed with one another solely about Rāma’s consecration (_rāmābhiṣavasaṃyuktāḥ_).
 </details>
 </details>
 
@@ -818,7 +818,7 @@ ceremony.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For Rāma’s consecration, the splendid (śrīmān) royal highway was strewn by the citizens with offerings of flowers (kṛtapuṣpopahāraḥ) and perfumed with the fragrance of incense (dhūpagandhādhivāsitaḥ).
+For Rāma’s consecration, the splendid (_śrīmān_) royal highway was strewn by the citizens with offerings of flowers (_kṛtapuṣpopahāraḥ_) and perfumed with the fragrance of incense (_dhūpagandhādhivāsitaḥ_).
 </details>
 </details>
 
@@ -870,7 +870,7 @@ in the shape of trees to illuminate all the streets.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And to provide illumination (prakāśakaraṇārtham) in anticipation of nightfall (niśāgamanaśaṅkayā), they erected lamp-trees (dīpavṛkṣān) everywhere along the side-streets (anurathyāsu sarvaśaḥ).
+And to provide illumination (_prakāśakaraṇārtham_) in anticipation of nightfall (_niśāgamanaśaṅkayā_), they erected lamp-trees (_dīpavṛkṣān_) everywhere along the side-streets (_anurathyāsu sarvaśaḥ_).
 </details>
 </details>
 
@@ -941,9 +941,9 @@ about this matter there and praising king Dasaratha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Having thus completed the decoration of the city (alaṃkāraṃ purasya), the inhabitants of that city (puravāsinaḥ), eagerly awaiting (ākāṅkṣamāṇāḥ) Rāma’s consecration as Prince Regent (yauvarājyābhiṣecanam),
+**19:** Having thus completed the decoration of the city (_alaṃkāraṃ purasya_), the inhabitants of that city (_puravāsinaḥ_), eagerly awaiting (_ākāṅkṣamāṇāḥ_) Rāma’s consecration as Prince Regent (_yauvarājyābhiṣecanam_),
 
-**20:** gathered together in groups (sametya saṅghaśaḥ) in the public squares and assembly halls (catvareṣu sabhāsu ca), and conversing with one another (kathayanto mithaḥ), praised the lord of men (praśaśaṃsur janādhipam):
+**20:** gathered together in groups (_sametya saṅghaśaḥ_) in the public squares and assembly halls (_catvareṣu sabhāsu ca_), and conversing with one another (_kathayanto mithaḥ_), praised the lord of men (_praśaśaṃsur janādhipam_):
 </details>
 </details>
 
@@ -999,7 +999,7 @@ he became aged, is going to anoint Rama for the kingdom. What a great man he is!
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Oh, how great-souled (mahātmā) is this king, the delighter of the House of Ikṣvāku (ikṣvākukulanandanaḥ)! Recognizing himself to have grown old (jñātvā vṛddhaṃ svam ātmānam), he is about to consecrate Rāma in the sovereignty (rājye 'bhiṣekṣyati).
+“Oh, how great-souled (_mahātmā_) is this king, the delighter of the House of Ikṣvāku (_ikṣvākukulanandanaḥ_)! Recognizing himself to have grown old (_jñātvā vṛddhaṃ svam ātmānam_), he is about to consecrate Rāma in the sovereignty (_rājye &#x27;bhiṣekṣyati_).
 </details>
 </details>
 
@@ -1052,7 +1052,7 @@ long. We have all been blessed by king Dasaratha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Truly we are all favored by Providence (sarve hy anugṛhītāḥ sma), in that Rāma, who has discerned the highest and lowest truths of the world (dṛṣṭalokaparāvaraḥ), shall for a long time (cirāya) be our ruler (mahīpatiḥ) and protector (goptā)!
+Truly we are all favored by Providence (_sarve hy anugṛhītāḥ sma_), in that Rāma, who has discerned the highest and lowest truths of the world (_dṛṣṭalokaparāvaraḥ_), shall for a long time (_cirāya_) be our ruler (_mahīpatiḥ_) and protector (_goptā_)!
 </details>
 </details>
 
@@ -1104,7 +1104,7 @@ brothers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Of unarrogant mind (anuddhatamanāḥ), learned (vidvān), righteous-souled (dharmātmā), and tenderly affectionate toward his brothers (bhrātṛvatsalaḥ), Rāghava is as loving toward us (tathāsmāsv api) as he is toward his own brothers (yathā ca bhrātṛṣu snigdhaḥ).
+Of unarrogant mind (_anuddhatamanāḥ_), learned (_vidvān_), righteous-souled (_dharmātmā_), and tenderly affectionate toward his brothers (_bhrātṛvatsalaḥ_), Rāghava is as loving toward us (_tathāsmāsv api_) as he is toward his own brothers (_yathā ca bhrātṛṣu snigdhaḥ_).
 </details>
 </details>
 
@@ -1158,7 +1158,7 @@ are going to see Rama as being anointed for the kingdom."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Long live (ciraṃ jīvatu) the righteous-souled and sinless (anaghaḥ) King Daśaratha, by whose grace (yatprasādena) we shall behold (drakṣyāmahe) Rāma consecrated (abhiṣiktam)!”
+“Long live (_ciraṃ jīvatu_) the righteous-souled and sinless (_anaghaḥ_) King Daśaratha, by whose grace (_yatprasādena_) we shall behold (_drakṣyāmahe_) Rāma consecrated (_abhiṣiktam_)!”
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ coronation ceremony of Rama, listened to the narration of the citizens of Ayodhy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the townsfolk (paurāṇām) were speaking in this manner (evaṃvidham), others—countrymen (jānapadā janāḥ) who had arrived from all directions (digbhyaḥ prāptāḥ) after hearing the news (viśrutavṛttāntāḥ)—heard them (śuśruvuḥ).
+As the townsfolk (_paurāṇām_) were speaking in this manner (_evaṃvidham_), others—countrymen (_jānapadā janāḥ_) who had arrived from all directions (_digbhyaḥ prāptāḥ_) after hearing the news (_viśrutavṛttāntāḥ_)—heard them (_śuśruvuḥ_).
 </details>
 </details>
 
@@ -1257,7 +1257,7 @@ see the anointment ceremony of Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Arriving at the city from every quarter (digbhyaḥ) to behold Rāma’s consecration (draṣṭuṃ rāmābhiṣecanam), those people of the countryside (jānapadā janāḥ) filled Rāma’s city (rāmasya purīm).
+Arriving at the city from every quarter (_digbhyaḥ_) to behold Rāma’s consecration (_draṣṭuṃ rāmābhiṣecanam_), those people of the countryside (_jānapadā janāḥ_) filled Rāma’s city (_rāmasya purīm_).
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ there, as the roaring of an impetuous ocean on full moon days.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From those surging floods of people (janaughais tair visarpadbhiḥ) a mighty roar was heard (śuśruve) there, like the roar of the ocean (sāgarasyeva niḥsvanaḥ) when its tide swells high on full-moon and new-moon days (parvasūdīrṇavegasya).
+From those surging floods of people (_janaughais tair visarpadbhiḥ_) a mighty roar was heard (_śuśruve_) there, like the roar of the ocean (_sāgarasyeva niḥsvanaḥ_) when its tide swells high on full-moon and new-moon days (_parvasūdīrṇavegasya_).
 </details>
 </details>
 
@@ -1381,6 +1381,6 @@ shone like a roaring ocean filled with sea animals.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that city resembling the abode of Indra (indrakṣayasaṃnibham), thronged and resounding on all sides (samantataḥ sasvanam ākulam) with countryfolk who had arrived eager to behold the rite (didṛkṣubhir jānapadair upāhitaiḥ), shone forth like the waters of the ocean (arṇavodakam iva) teeming with sea-creatures (samudrayādobhiḥ).
+Then that city resembling the abode of Indra (_indrakṣayasaṃnibham_), thronged and resounding on all sides (_samantataḥ sasvanam ākulam_) with countryfolk who had arrived eager to behold the rite (_didṛkṣubhir jānapadair upāhitaiḥ_), shone forth like the waters of the ocean (_arṇavodakam iva_) teeming with sea-creatures (_samudrayādobhiḥ_).
 </details>
 </details>

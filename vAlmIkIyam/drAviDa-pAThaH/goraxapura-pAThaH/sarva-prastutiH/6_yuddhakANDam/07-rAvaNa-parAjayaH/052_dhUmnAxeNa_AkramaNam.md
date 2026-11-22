@@ -86,7 +86,7 @@ waiting for the war, roared with joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the rākṣasa Dhūmrākṣa of terrifying valor (bhīmavikramam) marching forth (niryāntam), all the Vānaras, thrilled with joy and eager for battle (yuddhakāṅkṣiṇaḥ), roared aloud.
+Seeing the _rākṣasa_ Dhūmrākṣa of terrifying valor (_bhīmavikramam_) marching forth (_niryāntam_), all the Vānaras, thrilled with joy and eager for battle (_yuddhakāṅkṣiṇaḥ_), roared aloud.
 </details>
 </details>
 
@@ -142,7 +142,7 @@ slaying each other, with terrible trees, lances and maces.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-An exceedingly tumultuous battle (sutumulaṃ yuddham) arose between those monkeys and rākṣasas (kapirakṣasām), as they struck one another down with dreadful trees, pikes, and maces (śūlamudgaraiḥ).
+An exceedingly tumultuous battle (_sutumulaṃ yuddham_) arose between those monkeys and _rākṣasas_ (_kapirakṣasām_), as they struck one another down with dreadful trees, pikes, and maces (_śūlamudgaraiḥ_).
 </details>
 </details>
 
@@ -195,7 +195,7 @@ levelled down to the earth with trees by the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fearsome Vānaras were hacked down (vinikṛttāḥ) on every side by the rākṣasas, while the rākṣasas too were leveled to the ground (bhūmisamīkṛtāḥ) by the Vānaras with trees.
+Fearsome Vānaras were hacked down (_vinikṛttāḥ_) on every side by the _rākṣasas_, while the _rākṣasas_ too were leveled to the ground (_bhūmisamīkṛtāḥ_) by the Vānaras with trees.
 </details>
 </details>
 
@@ -248,7 +248,7 @@ frightful arrows, going as straight as wings of eagle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged (abhisaṃkruddhāḥ), the rākṣasas pierced the Vānaras with whetted, straight-flying arrows (ajihmagaiḥ) of dreadful appearance, fletched with heron feathers (kaṅkapatraiḥ).
+Enraged (_abhisaṃkruddhāḥ_), the _rākṣasas_ pierced the Vānaras with whetted, straight-flying arrows (_ajihmagaiḥ_) of dreadful appearance, fletched with heron feathers (_kaṅkapatraiḥ_).
 </details>
 </details>
 
@@ -316,9 +316,9 @@ with an excitement born of anger.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** [And they assailed them] with terrible maces (gadābhiḥ), sharp-edged paṭṭiśa spears, concealed mallets (kūṭamudgaraiḥ), dreadful and variegated iron bludgeons (parighaiḥ), and well-wielded tridents (triśūlaiḥ).
+**5:** [And they assailed them] with terrible maces (_gadābhiḥ_), sharp-edged _paṭṭiśa_ spears, concealed mallets (_kūṭamudgaraiḥ_), dreadful and variegated iron bludgeons (_parighaiḥ_), and well-wielded tridents (_triśūlaiḥ_).
 
-**6:** Though being torn apart (vidāryamāṇāḥ) by the rākṣasas, those Vānaras of mighty strength, their fierce exultation roused by indignation (amarṣajanitoddharṣāḥ), performed heroic deeds fearlessly (abhītavat).
+**6:** Though being torn apart (_vidāryamāṇāḥ_) by the _rākṣasas_, those Vānaras of mighty strength, their fierce exultation roused by indignation (_amarṣajanitoddharṣāḥ_), performed heroic deeds fearlessly (_abhītavat_).
 </details>
 </details>
 
@@ -372,7 +372,7 @@ those leaders of monkeys took up trees and rocks there to fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their limbs pierced by arrows (śaranirbhinnagātrāḥ) and their bodies rent by pikes (śūlanirbhinnadehinaḥ), those Vānara troop-leaders (hariyūthapāḥ) seized trees and boulders there.
+With their limbs pierced by arrows (_śaranirbhinnagātrāḥ_) and their bodies rent by pikes (_śūlanirbhinnadehinaḥ_), those Vānara troop-leaders (_hariyūthapāḥ_) seized trees and boulders there.
 </details>
 </details>
 
@@ -424,7 +424,7 @@ places, by calling out their names.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Roaring on every side (nardamānās tatastataḥ), those monkeys of terrible impetuosity (bhīmavegāḥ) crushed the heroic rākṣasas and shouted out their own names (nāmāni ca babhāṣire).
+Roaring on every side (_nardamānās tatastataḥ_), those monkeys of terrible impetuosity (_bhīmavegāḥ_) crushed the heroic _rākṣasas_ and shouted out their own names (_nāmāni ca babhāṣire_).
 </details>
 </details>
 
@@ -476,7 +476,7 @@ between monkeys and demons appeared wonderful.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Waged with rocks of manifold kinds and with many-branched trees (bahuśākhaiś ca pādapaiḥ), that battle between the Vānaras and rākṣasas became both wondrous and dreadful (adbhutaṃ ghoram).
+Waged with rocks of manifold kinds and with many-branched trees (_bahuśākhaiś ca pādapaiḥ_), that battle between the Vānaras and _rākṣasas_ became both wondrous and dreadful (_adbhutaṃ ghoram_).
 </details>
 </details>
 
@@ -528,7 +528,7 @@ demons vomited blood from their mouths.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushed by the Vānaras who bore the bearing of conquerors (jitakāśibhiḥ), some blood-consuming rākṣasas (rudhirabhojanāḥ) [perished], while others vomited blood (pravemū rudhiram) from their mouths.
+Crushed by the Vānaras who bore the bearing of conquerors (_jitakāśibhiḥ_), some blood-consuming _rākṣasas_ (_rudhirabhojanāḥ_) [perished], while others vomited blood (_pravemū rudhiram_) from their mouths.
 </details>
 </details>
 
@@ -581,7 +581,7 @@ trees. Some others were crushed by stones and yet others torn to pieces by the m
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some were torn open in their flanks (pārśveṣu dāritāḥ), some were heaped into mounds by trees (rāśīkṛtā drumaiḥ), some were pulverized by boulders (śilābhiś cūrṇitāḥ), and some were lacerated by teeth.
+Some were torn open in their flanks (_pārśveṣu dāritāḥ_), some were heaped into mounds by trees (_rāśīkṛtā drumaiḥ_), some were pulverized by boulders (_śilābhiś cūrṇitāḥ_), and some were lacerated by teeth.
 </details>
 </details>
 
@@ -636,7 +636,7 @@ overturned, some demons were perturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their banners crushed and broken (dhvajair vimathitair bhagnaiḥ), their swords struck down, and their chariots shattered (rathair vidhvaṃsitaiḥ), some night-stalkers (rajanīcarāḥ) were sorely distressed.
+With their banners crushed and broken (_dhvajair vimathitair bhagnaiḥ_), their swords struck down, and their chariots shattered (_rathair vidhvaṃsitaiḥ_), some night-stalkers (_rajanīcarāḥ_) were sorely distressed.
 </details>
 </details>
 
@@ -693,7 +693,7 @@ elephants resembling hills and horses with their riders.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The surface of the earth (vasudhātalam) was strewn with mountain-sized lordly elephants (gajendraiḥ parvatākāraiḥ) and with steeds along with their riders (sārohaiḥ), crushed by the mountain peaks of the forest-dwellers.
+The surface of the earth (_vasudhātalam_) was strewn with mountain-sized lordly elephants (_gajendraiḥ parvatākāraiḥ_) and with steeds along with their riders (_sārohaiḥ_), crushed by the mountain peaks of the forest-dwellers.
 </details>
 </details>
 
@@ -750,7 +750,7 @@ nails.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping and springing upward (āplutyotplutya), the swift Vānaras of terrifying prowess (bhīmavikrāntaiḥ) tore the rākṣasas across their faces with their sharp fingernails (karajais tīkṣṇaiḥ).
+Leaping and springing upward (_āplutyotplutya_), the swift Vānaras of terrifying prowess (_bhīmavikrāntaiḥ_) tore the _rākṣasas_ across their faces with their sharp fingernails (_karajais tīkṣṇaiḥ_).
 </details>
 </details>
 
@@ -802,7 +802,7 @@ of blood, those demons fell on the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With downcast faces (viṣaṇṇavadanāḥ) and disheveled hair (viprakīrṇaśiroruhāḥ), they grew stupefied by the stench of blood (mūḍhāḥ śoṇitagandhena) and fell once more upon the surface of the earth.
+With downcast faces (_viṣaṇṇavadanāḥ_) and disheveled hair (_viprakīrṇaśiroruhāḥ_), they grew stupefied by the stench of blood (_mūḍhāḥ śoṇitagandhena_) and fell once more upon the surface of the earth.
 </details>
 </details>
 
@@ -854,7 +854,7 @@ the monkeys to attack them with their palms having a diamond-like blow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet other rākṣasas of terrible valor, supremely enraged (paramakruddhāḥ), rushed against the monkeys with their bare palms alone (talair eva), whose impact equaled the thunderbolt (vajrasparśasamaiḥ).
+Yet other _rākṣasas_ of terrible valor, supremely enraged (_paramakruddhāḥ_), rushed against the monkeys with their bare palms alone (_talair eva_), whose impact equaled the thunderbolt (_vajrasparśasamaiḥ_).
 </details>
 </details>
 
@@ -906,7 +906,7 @@ demons with blows of their fists, feet teeth and trees.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As those swift demons charged to strike them down (pātayantaḥ), they were battered down (avapothitāḥ) by the still swifter Vānaras (vegavattaraiḥ) with fists, feet, teeth, and trees.
+As those swift demons charged to strike them down (_pātayantaḥ_), they were battered down (_avapothitāḥ_) by the still swifter Vānaras (_vegavattaraiḥ_) with fists, feet, teeth, and trees.
 </details>
 </details>
 
@@ -958,7 +958,7 @@ create a blood-shed of the monkeys wishing to fight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing his army routed (sainyaṃ tu vidrutaṃ dṛṣṭvā), Dhūmrākṣa, that bull among rākṣasas (rākṣasarṣabhaḥ), wrought a furious slaughter (kadanaṃ cakre) among the battle-eager Vānaras in his wrath.
+Seeing his army routed (_sainyaṃ tu vidrutaṃ dṛṣṭvā_), Dhūmrākṣa, that bull among _rākṣasas_ (_rākṣasarṣabhaḥ_), wrought a furious slaughter (_kadanaṃ cakre_) among the battle-eager Vānaras in his wrath.
 </details>
 </details>
 
@@ -1022,7 +1022,7 @@ blows of axe, fell to the earth's surface.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some Vānaras, streaming with blood (śoṇitasravāḥ), were crushed by prāsa darts (prāsaiḥ pramathitāḥ), while others, struck down by mallets (mudgarair āhatāḥ), fell upon the surface of the earth.
+Some Vānaras, streaming with blood (_śoṇitasravāḥ_), were crushed by _prāsa_ darts (_prāsaiḥ pramathitāḥ_), while others, struck down by mallets (_mudgarair āhatāḥ_), fell upon the surface of the earth.
 </details>
 </details>
 
@@ -1077,7 +1077,7 @@ javelins, all exhausted and lost their lives.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some were mangled by iron bludgeons (parighair mathitāḥ) and torn open by bhindipāla javelins (bhindipālaiś ca dāritāḥ); others, crushed by paṭṭiśa spears, writhed in agony (vihvalantaḥ) and yielded up their lives (gatāsavaḥ).
+Some were mangled by iron bludgeons (_parighair mathitāḥ_) and torn open by _bhindipāla_ javelins (_bhindipālaiś ca dāritāḥ_); others, crushed by _paṭṭiśa_ spears, writhed in agony (_vihvalantaḥ_) and yielded up their lives (_gatāsavaḥ_).
 </details>
 </details>
 
@@ -1130,7 +1130,7 @@ ground and some others disappeared, having been driven away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some forest-dwellers (vanaukasaḥ), drenched in blood (rudhirārdrāḥ), were slain outright upon the ground, while others were routed and driven out of sight (vidrāvitā naṣṭāḥ) by the enraged rākṣasas in battle.
+Some forest-dwellers (_vanaukasaḥ_), drenched in blood (_rudhirārdrāḥ_), were slain outright upon the ground, while others were routed and driven out of sight (_vidrāvitā naṣṭāḥ_) by the enraged _rākṣasas_ in battle.
 </details>
 </details>
 
@@ -1185,7 +1185,7 @@ asunder by tridents that even their intestines came out.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Some, with their hearts cloven (vibhinnahṛdayāḥ), were laid low upon one side (ekapārśvena śāyitāḥ); others, ripped open by tridents (vidāritās triśūlaiś ca), had their entrails spilling out (āntrair viniḥsṛtāḥ).
+Some, with their hearts cloven (_vibhinnahṛdayāḥ_), were laid low upon one side (_ekapārśvena śāyitāḥ_); others, ripped open by tridents (_vidāritās triśūlaiś ca_), had their entrails spilling out (_āntrair viniḥsṛtāḥ_).
 </details>
 </details>
 
@@ -1240,7 +1240,7 @@ crammed with rocks, trees and multitude of weapons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Teeming with monkeys and rākṣasas (harirākṣasasaṃkulam), abounding in weapons, and crowded with boulders and trees (śilāpādapasaṃkulam), that great and exceedingly dreadful battle shone forth (prababhau).
+Teeming with monkeys and _rākṣasas_ (_harirākṣasasaṃkulam_), abounding in weapons, and crowded with boulders and trees (_śilāpādapasaṃkulam_), that great and exceedingly dreadful battle shone forth (_prababhau_).
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ and the trumpeting of elephants as the vocal music, the whole battle resembled a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sweetened by the lute-strings of bowstrings (dhanurjyātantrimadhuram), accompanied by the rhythmic beat of gasping sobs (hikkātālasamanvitam), and sung to the low rumbling of groans (mandastanitagītam), that martial concert (yuddhagāndharvam) shone forth.
+Sweetened by the lute-strings of bowstrings (_dhanurjyātantrimadhuram_), accompanied by the rhythmic beat of gasping sobs (_hikkātālasamanvitam_), and sung to the low rumbling of groans (_mandastanitagītam_), that martial concert (_yuddhagāndharvam_) shone forth.
 </details>
 </details>
 
@@ -1355,7 +1355,7 @@ made those monkeys to run away to all the quarters by a shower of his arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bow in hand (dhanuṣpāṇiḥ) at the forefront of battle (raṇamūrdhani), Dhūmrākṣa, laughing, routed those Vānaras in all directions (diśaḥ) with showers of arrows (śaravṛṣṭibhiḥ).
+Bow in hand (_dhanuṣpāṇiḥ_) at the forefront of battle (_raṇamūrdhani_), Dhūmrākṣa, laughing, routed those Vānaras in all directions (_diśaḥ_) with showers of arrows (_śaravṛṣṭibhiḥ_).
 </details>
 </details>
 
@@ -1408,7 +1408,7 @@ turned towards him, taking a gigantic rock in his hands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the army tormented (arditam) and distressed by Dhūmrākṣa, Māruti [Hanumān], filled with wrath (saṃkruddhaḥ), seized a massive boulder (vipulāṃ śilām) and charged forward.
+Seeing the army tormented (_arditam_) and distressed by Dhūmrākṣa, Māruti [Hanumān], filled with wrath (_saṃkruddhaḥ_), seized a massive boulder (_vipulāṃ śilām_) and charged forward.
 </details>
 </details>
 
@@ -1460,7 +1460,7 @@ flung the rock on the chariot of Dhumraksha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His eyes doubly copper-red from wrath (dviguṇatāmrākṣaḥ), equal in valor to his father [Vāyu] (pitus tulyaparākramaḥ), he hurled that boulder straight at Dhūmrākṣa's chariot.
+His eyes doubly copper-red from wrath (_dviguṇatāmrākṣaḥ_), equal in valor to his father [Vāyu] (_pitus tulyaparākramaḥ_), he hurled that boulder straight at Dhūmrākṣa&#x27;s chariot.
 </details>
 </details>
 
@@ -1513,7 +1513,7 @@ speedily from the chariot and stood there on the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing the boulder hurtling toward him (āpatantīṃ śilām), [Dhūmrākṣa] raised his mace in haste (sambhramāt), leaped swiftly from his chariot (rathād āplutya), and took his stand upon the ground.
+Seeing the boulder hurtling toward him (_āpatantīṃ śilām_), [Dhūmrākṣa] raised his mace in haste (_sambhramāt_), leaped swiftly from his chariot (_rathād āplutya_), and took his stand upon the ground.
 </details>
 </details>
 
@@ -1565,7 +1565,7 @@ bows, that rock rolled down to the ground.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crushing his chariot (pramathya rathaṃ tasya) along with its wheels and pole (sacakrakūbaram), its steeds, its banner, and its bow (saśarāsanam), that boulder crashed to the earth.
+Crushing his chariot (_pramathya rathaṃ tasya_) along with its wheels and pole (_sacakrakūbaram_), its steeds, its banner, and its bow (_saśarāsanam_), that boulder crashed to the earth.
 </details>
 </details>
 
@@ -1626,7 +1626,7 @@ destroyed the demons with trunks of trees furnished with their branches.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having shattered his chariot (bhaṅktvā tu rathaṃ tasya), Hanumān, son of the Wind-god (mārutātmajaḥ), wrought a slaughter among the rākṣasas with trees complete with trunks and branches (saskandhaviṭapair drumaiḥ).
+Having shattered his chariot (_bhaṅktvā tu rathaṃ tasya_), Hanumān, son of the Wind-god (_mārutātmajaḥ_), wrought a slaughter among the _rākṣasas_ with trees complete with trunks and branches (_saskandhaviṭapair drumaiḥ_).
 </details>
 </details>
 
@@ -1678,7 +1678,7 @@ crunched by the trees and fell down to the earth.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their heads split open (vibhinnaśirasaḥ) and drenched in blood (rudhirokṣitāḥ), the rākṣasas—and others crushed by trees—fell upon the surface of the earth.
+With their heads split open (_vibhinnaśirasaḥ_) and drenched in blood (_rudhirokṣitāḥ_), the _rākṣasas_—and others crushed by trees—fell upon the surface of the earth.
 </details>
 </details>
 
@@ -1729,7 +1729,7 @@ of a mountain, ran towards Dhumraksha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having routed the rākṣasa army (vidrāvya rākṣasaṃ sainyam), Hanumān, son of the Wind-god, seized a mountain peak (gireḥ śikharam ādāya) and rushed upon Dhūmrākṣa (abhidudruve).
+Having routed the _rākṣasa_ army (_vidrāvya rākṣasaṃ sainyam_), Hanumān, son of the Wind-god, seized a mountain peak (_gireḥ śikharam ādāya_) and rushed upon Dhūmrākṣa (_abhidudruve_).
 </details>
 </details>
 
@@ -1784,7 +1784,7 @@ Hanuman who was rushing on him suddenly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising his mace and roaring aloud (vinardamānaḥ), the valiant Dhūmrākṣa impetuously charged headlong (abhidravat) at Hanumān as he hurtled toward him (tam āpatantam).
+Raising his mace and roaring aloud (_vinardamānaḥ_), the valiant Dhūmrākṣa impetuously charged headlong (_abhidravat_) at Hanumān as he hurtled toward him (_tam āpatantam_).
 </details>
 </details>
 
@@ -1839,7 +1839,7 @@ countless spikes on the head of that Hanuma.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in his fury (roṣeṇa), Dhūmrākṣa brought that many-spiked mace (gadāṃ tāṃ bahukaṇṭakām) crashing down upon the crown of the enraged Hanumān's head (mastake 'tha hanūmataḥ).
+Then, in his fury (_roṣeṇa_), Dhūmrākṣa brought that many-spiked mace (_gadāṃ tāṃ bahukaṇṭakām_) crashing down upon the crown of the enraged Hanumān&#x27;s head (_mastake &#x27;tha hanūmataḥ_).
 </details>
 </details>
 
@@ -1904,7 +1904,7 @@ disturbed by that blow but struck Dhumraksha on the middle of his skull with his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck there by that mace of terrible momentum (gadayā bhīmavegayā), that monkey possessing the Wind-god's might (mārutabalaḥ), disregarding that blow (taṃ prahāram acintayan),
+Struck there by that mace of terrible momentum (_gadayā bhīmavegayā_), that monkey possessing the Wind-god&#x27;s might (_mārutabalaḥ_), disregarding that blow (_taṃ prahāram acintayan_),
 </details>
 </details>
 
@@ -1956,7 +1956,7 @@ down on the ground like a mountain crumbling.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-brought the mountain crag (giriśṛṅgam) crashing down squarely upon the middle of Dhūmrākṣa's head (śiromadhye). Struck by the mountain crag, with all his limbs convulsed and shattered (visphāritasarvāṅgaḥ),
+brought the mountain crag (_giriśṛṅgam_) crashing down squarely upon the middle of Dhūmrākṣa&#x27;s head (_śiromadhye_). Struck by the mountain crag, with all his limbs convulsed and shattered (_visphāritasarvāṅgaḥ_),
 </details>
 </details>
 
@@ -2009,7 +2009,7 @@ being killled by the monkeys and re entered Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-he fell suddenly to the earth like a shattered mountain (vikīrṇa iva parvataḥ). Seeing Dhūmrākṣa slain, the surviving night-stalkers (hataśeṣā niśācarāḥ), terrified and being cut down by the leapers, re-entered Laṅkā.
+he fell suddenly to the earth like a shattered mountain (_vikīrṇa iva parvataḥ_). Seeing Dhūmrākṣa slain, the surviving night-stalkers (_hataśeṣā niśācarāḥ_), terrified and being cut down by the leapers, re-entered Laṅkā.
 </details>
 </details>
 
@@ -2086,7 +2086,7 @@ felicitations by the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having slain his foes and set rivers flowing with blood (kṣatajavahāḥ saritaś ca saṃvikīrya), that great-souled son of the Wind-god (pavanasutaḥ), fatigued by the slaughter of his enemies (ripuvadhajanitaśramaḥ), attained great joy as he was fervently honored by the monkeys.
+Having slain his foes and set rivers flowing with blood (_kṣatajavahāḥ saritaś ca saṃvikīrya_), that great-souled son of the Wind-god (_pavanasutaḥ_), fatigued by the slaughter of his enemies (_ripuvadhajanitaśramaḥ_), attained great joy as he was fervently honored by the monkeys.
 </details>
 </details>
 

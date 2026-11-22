@@ -82,7 +82,7 @@ hugged her in her arms.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that noble narrative (śrutvā tāṃ mahatīṃ kathām), dharma-knowing Anasūyā kissed Maithilī upon the head and embraced her with both arms (paryaṣvajata bāhubhyāṃ śirasy āghrāya maithilīm):
+Hearing that noble narrative (_śrutvā tāṃ mahatīṃ kathām_), dharma-knowing Anasūyā kissed Maithilī upon the head and embraced her with both arms (_paryaṣvajata bāhubhyāṃ śirasy āghrāya maithilīm_):
 </details>
 </details>
 
@@ -139,7 +139,7 @@ O, the sweet speaking Seetha! I am overjoyed by hearing your story."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clearly articulated in syllables and words, varied, and sweet has been your speech (vyaktākṣarapadaṃ citraṃ bhāṣitaṃ madhuraṃ tvayā); all that transpired at your bride-choice has been heard by me (yathā svayaṃvaraṃ vṛttaṃ tat sarvaṃ hi śrutaṃ mayā), and I delight deeply in your tale, O sweet-spoken one (rame 'haṃ kathayā te tu dṛḍhaṃ madhurabhāṣiṇi)!
+“Clearly articulated in syllables and words, varied, and sweet has been your speech (_vyaktākṣarapadaṃ citraṃ bhāṣitaṃ madhuraṃ tvayā_); all that transpired at your bride-choice has been heard by me (_yathā svayaṃvaraṃ vṛttaṃ tat sarvaṃ hi śrutaṃ mayā_), and I delight deeply in your tale, O sweet-spoken one (_rame &#x27;haṃ kathayā te tu dṛḍhaṃ madhurabhāṣiṇi_)!
 </details>
 </details>
 
@@ -206,9 +206,9 @@ evening-twilight."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “The radiant sun has gone to rest, ushering in the auspicious night (ravir astaṃ gataḥ śrīmān upohya rajanīṃ śivām); and the chirping of birds that had scattered by day in search of food (divasaṃ pratikīrṇānām āhārārthaṃ patatriṇām) and have now settled in their roosts at twilight for sleep is heard (sandhyākāle nilīnānāṃ nidrārthaṃ śrūyate dhvaniḥ).
+**3:** “The radiant sun has gone to rest, ushering in the auspicious night (_ravir astaṃ gataḥ śrīmān upohya rajanīṃ śivām_); and the chirping of birds that had scattered by day in search of food (_divasaṃ pratikīrṇānām āhārārthaṃ patatriṇām_) and have now settled in their roosts at twilight for sleep is heard (_sandhyākāle nilīnānāṃ nidrārthaṃ śrūyate dhvaniḥ_).
 
-**4:** “And these sages, wet from their evening ablutions (abhiṣekārdrā munayaḥ), with water-pitchers uplifted in their hands (kalaśodyatāḥ) and their bark-garments drenched with water (salilāplutavalkalāḥ), are returning together (sahitā upavartante).
+**4:** “And these sages, wet from their evening ablutions (_abhiṣekārdrā munayaḥ_), with water-pitchers uplifted in their hands (_kalaśodyatāḥ_) and their bark-garments drenched with water (_salilāplutavalkalāḥ_), are returning together (_sahitā upavartante_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ and with uplifted vessels, wet with sprinkled water on them."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As the daily fire-oblations of the sages are duly offered according to rule (ṛṣīṇām agnihotreṣu huteṣu vidhipūrvakam), smoke, dusky-reddish like the neck of a pigeon (kapotāṅgāruṇo dhūmaḥ), is seen wafted aloft by the wind (dṛśyate pavanoddhataḥ).
+“As the daily fire-oblations of the sages are duly offered according to rule (_ṛṣīṇām agnihotreṣu huteṣu vidhipūrvakam_), smoke, dusky-reddish like the neck of a pigeon (_kapotāṅgāruṇo dhūmaḥ_), is seen wafted aloft by the wind (_dṛśyate pavanoddhataḥ_).
 </details>
 </details>
 
@@ -313,7 +313,7 @@ column of smoke with the hue of a Pigeon's neck, raised by the wind, is seen the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even sparse-leafed trees appear thick and dense on all sides in the gathering gloom (alpaparṇā hi taravo ghanībhūtāḥ samantataḥ); and in this region, even at a slight distance, the quarters of the sky no longer shine clearly (viprakṛṣṭe 'pi deśe 'smin na prakāśanti vai diśaḥ).
+“Even sparse-leafed trees appear thick and dense on all sides in the gathering gloom (_alpaparṇā hi taravo ghanībhūtāḥ samantataḥ_); and in this region, even at a slight distance, the quarters of the sky no longer shine clearly (_viprakṛṣṭe &#x27;pi deśe &#x27;smin na prakāśanti vai diśaḥ_).
 </details>
 </details>
 
@@ -376,7 +376,7 @@ the world, by whom the senses are drawn apart, do not shine brilliantly at this 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Night-roaming creatures are prowling on all sides (rajanīcarasattvāni pracaranti samantataḥ), while these deer of the penance-grove are sleeping beside the sacred approaches of the fire-altars (tapovanamṛgā hy ete veditīrtheṣu śerate).
+“Night-roaming creatures are prowling on all sides (_rajanīcarasattvāni pracaranti samantataḥ_), while these deer of the penance-grove are sleeping beside the sacred approaches of the fire-altars (_tapovanamṛgā hy ete veditīrtheṣu śerate_).
 </details>
 </details>
 
@@ -428,7 +428,7 @@ hermitage are sleeping round the sacred altars."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Night, adorned with constellations of stars, has deepened, O Sītā (sampravṛddhā niśā sīte nakṣatrasamalaṅkṛtā); and the Moon, mantled in moonlight, is seen risen in the sky (jyotsnāprāvaraṇaś candro dṛśyate 'bhyudito 'mbare).
+“Night, adorned with constellations of stars, has deepened, O Sītā (_sampravṛddhā niśā sīte nakṣatrasamalaṅkṛtā_); and the Moon, mantled in moonlight, is seen risen in the sky (_jyotsnāprāvaraṇaś candro dṛśyate &#x27;bhyudito &#x27;mbare_).
 </details>
 </details>
 
@@ -480,7 +480,7 @@ encircled with light is seen rising in the sky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Go now, I grant you leave (gamyatām anujānāmi); be thou Rāma’s devoted companion (rāmasyānucarī bhava), for by you speaking thus sweetly I have been thoroughly gratified (kathayantyā hi madhuraṃ tvayāhaṃ paritoṣitā).
+“Go now, I grant you leave (_gamyatām anujānāmi_); be thou Rāma’s devoted companion (_rāmasyānucarī bhava_), for by you speaking thus sweetly I have been thoroughly gratified (_kathayantyā hi madhuraṃ tvayāhaṃ paritoṣitā_).
 </details>
 </details>
 
@@ -532,7 +532,7 @@ has charmed me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet first adorn yourself before my very eyes, O Maithilī (alaṅkuru ca tāvat tvaṃ pratyakṣaṃ mama maithili); resplendent in these celestial ornaments, awaken joy in me, my child (prītiṃ janaya me vatse divyālaṅkāraśobhitā)!”
+“Yet first adorn yourself before my very eyes, O Maithilī (_alaṅkuru ca tāvat tvaṃ pratyakṣaṃ mama maithili_); resplendent in these celestial ornaments, awaken joy in me, my child (_prītiṃ janaya me vatse divyālaṅkāraśobhitā_)!”
 </details>
 </details>
 
@@ -584,7 +584,7 @@ eyes and cause delight to me in embellishing yourself with heavenly jewels."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having adorned herself thus (sā tathā samalaṅkṛtya), Sītā, resembling a daughter of the gods (surasutopamā), bowed her head in salutation to her and went forth toward Rāma (praṇamya śirasā tasyai rāmaṃ tv abhimukhī yayau).
+Having adorned herself thus (_sā tathā samalaṅkṛtya_), Sītā, resembling a daughter of the gods (_surasutopamā_), bowed her head in salutation to her and went forth toward Rāma (_praṇamya śirasā tasyai rāmaṃ tv abhimukhī yayau_).
 </details>
 </details>
 
@@ -644,7 +644,7 @@ to the feet of Anasuya, she went forward to meet Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāghava, the foremost of speakers (vadatāṃ varaḥ), beheld Sītā adorned in that manner with the ascetic matron’s gift of affection (prītidānena tapasvinyā), and rejoiced (jaharṣa ca).
+Rāghava, the foremost of speakers (_vadatāṃ varaḥ_), beheld Sītā adorned in that manner with the ascetic matron’s gift of affection (_prītidānena tapasvinyā_), and rejoiced (_jaharṣa ca_).
 </details>
 </details>
 
@@ -690,7 +690,7 @@ the charming gifts of the ascetic.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Sītā, princess of Mithilā, reported everything to Rāma (nyavedayat tataḥ sarvaṃ sītā rāmāya maithilī)—the ascetic matron’s affectionate gift of raiment, ornaments, and garland (prītidānaṃ tapasvinyā vasanābharaṇasrajam).
+Thereupon Sītā, princess of Mithilā, reported everything to Rāma (_nyavedayat tataḥ sarvaṃ sītā rāmāya maithilī_)—the ascetic matron’s affectionate gift of raiment, ornaments, and garland (_prītidānaṃ tapasvinyā vasanābharaṇasrajam_).
 </details>
 </details>
 
@@ -746,7 +746,7 @@ and garlands the affectionate gifts of Anasuya the hermitess.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Both Rāma and the mighty car-warrior Lakṣmaṇa were filled with joy (prahṛṣṭas tv abhavad rāmo lakṣmaṇaś ca mahārathaḥ) on beholding that hospitable honor bestowed upon Maithilī, which is so rare among mortals (maithilyāḥ satkriyāṃ dṛṣṭvā mānuṣeṣu sudurlabhām).
+Both Rāma and the mighty car-warrior Lakṣmaṇa were filled with joy (_prahṛṣṭas tv abhavad rāmo lakṣmaṇaś ca mahārathaḥ_) on beholding that hospitable honor bestowed upon Maithilī, which is so rare among mortals (_maithilyāḥ satkriyāṃ dṛṣṭvā mānuṣeṣu sudurlabhām_).
 </details>
 </details>
 
@@ -799,7 +799,7 @@ beings, Rama and Lakshmana the great car-warrior felt highly rejoiced.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, well pleased and reverently worshiped by the perfected ascetics (prītaḥ arcitas tāpasaiḥ siddhaiḥ), that moon-faced delighter of the Raghus (śaśinibhānanaḥ raghunandanaḥ) passed that auspicious night there (tāṃ śarvarīṃ puṇyām uvāsa).
+Then, well pleased and reverently worshiped by the perfected ascetics (_prītaḥ arcitas tāpasaiḥ siddhaiḥ_), that moon-faced delighter of the Raghus (_śaśinibhānanaḥ raghunandanaḥ_) passed that auspicious night there (_tāṃ śarvarīṃ puṇyām uvāsa_).
 </details>
 </details>
 
@@ -852,7 +852,7 @@ ascetics, was delighted and spent that auspicious night there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that night had passed away (tasyāṃ rātryāṃ vyatītāyām), those two tigers among men took leave of the forest-dwelling ascetics (āpṛcchetāṃ naravyāghrau tāpasān vanagocarān), who had performed their morning ablutions and offered oblations into their sacred fires (abhiṣicya hutāgnikān).
+When that night had passed away (_tasyāṃ rātryāṃ vyatītāyām_), those two tigers among men took leave of the forest-dwelling ascetics (_āpṛcchetāṃ naravyāghrau tāpasān vanagocarān_), who had performed their morning ablutions and offered oblations into their sacred fires (_abhiṣicya hutāgnikān_).
 </details>
 </details>
 
@@ -914,7 +914,7 @@ the sacred fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those righteous forest-dwelling ascetics (te vanacarās tāpasā dharmacāriṇaḥ) told the two princes that the pathways of that forest were overrun by Rākṣasas (vanasya tasya sañcāraṃ rākṣasaiḥ samabhiplutam):
+Those righteous forest-dwelling ascetics (_te vanacarās tāpasā dharmacāriṇaḥ_) told the two princes that the pathways of that forest were overrun by Rākṣasas (_vanasya tasya sañcāraṃ rākṣasaiḥ samabhiplutam_):
 </details>
 </details>
 
@@ -988,9 +988,9 @@ living in this great forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “Man-eating Rākṣasas of manifold shapes (rakṣāṃsi puruṣādāni nānārūpāṇi), O Rāghava, as well as blood-drinking beasts of prey and serpents (vyālāś ca rudhirāśanāḥ), dwell in this great forest (vasanty asmin mahāraṇye).
+**18:** “Man-eating Rākṣasas of manifold shapes (_rakṣāṃsi puruṣādāni nānārūpāṇi_), O Rāghava, as well as blood-drinking beasts of prey and serpents (_vyālāś ca rudhirāśanāḥ_), dwell in this great forest (_vasanty asmin mahāraṇye_).
 
-**19:** “In this great forest they devour any righteous ascetic who happens to be ritually impure or heedless (ucchiṣṭaṃ vā pramattaṃ vā tāpasaṃ dharmacāriṇam adanti); do thou ward them off, O Rāghava (tān nivāraya rāghava)!
+**19:** “In this great forest they devour any righteous ascetic who happens to be ritually impure or heedless (_ucchiṣṭaṃ vā pramattaṃ vā tāpasaṃ dharmacāriṇam adanti_); do thou ward them off, O Rāghava (_tān nivāraya rāghava_)!
 </details>
 </details>
 
@@ -1045,7 +1045,7 @@ finishing his meal or who is inattentive in this great forest. (Pray ward them o
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the path of the great sages who gather fruits in the forest (eṣa panthā maharṣīṇāṃ phalāny āharatāṃ vane); by this trail, O Rāghava, it is fitting for you to enter the difficult forest (anena tu vanaṃ durgaṃ gantuṃ rāghava te kṣamam).”
+“This is the path of the great sages who gather fruits in the forest (_eṣa panthā maharṣīṇāṃ phalāny āharatāṃ vane_); by this trail, O Rāghava, it is fitting for you to enter the difficult forest (_anena tu vanaṃ durgaṃ gantuṃ rāghava te kṣamam_).”
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ in this forest. It is appropriate for you to go by this path in this dangerous f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having had auspicious benedictions pronounced over him in this manner by those Brāhmaṇa ascetics with folded hands (itīva taiḥ prāñjalibhis tapasvibhir dvijaiḥ kṛtasvastyayanaḥ), Rāghava, the scorcher of his foes (paraṃtapaḥ), entered the forest together with his consort and Lakṣmaṇa, even as the Sun enters a bank of clouds (vanaṃ sabhāryaḥ praviveśa rāghavaḥ salakṣmaṇaḥ sūryam ivābhramaṇḍalam).
+Having had auspicious benedictions pronounced over him in this manner by those Brāhmaṇa ascetics with folded hands (_itīva taiḥ prāñjalibhis tapasvibhir dvijaiḥ kṛtasvastyayanaḥ_), Rāghava, the scorcher of his foes (_paraṃtapaḥ_), entered the forest together with his consort and Lakṣmaṇa, even as the Sun enters a bank of clouds (_vanaṃ sabhāryaḥ praviveśa rāghavaḥ salakṣmaṇaḥ sūryam ivābhramaṇḍalam_).
 </details>
 </details>
 

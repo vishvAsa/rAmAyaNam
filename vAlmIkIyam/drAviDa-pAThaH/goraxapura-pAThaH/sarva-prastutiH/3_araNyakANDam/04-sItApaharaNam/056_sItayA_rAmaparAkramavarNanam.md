@@ -108,7 +108,7 @@ curse of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, Vaidehī, fearless (nirbhayā) though wasted with grief (śoka-karśitā), placed a blade of grass between them (tṛṇam antarataḥ kṛtvā) and replied to Rāvaṇa (rāvaṇaṃ pratyabhāṣata):
+Addressed thus, Vaidehī, fearless (_nirbhayā_) though wasted with grief (_śoka-karśitā_), placed a blade of grass between them (_tṛṇam antarataḥ kṛtvā_) and replied to Rāvaṇa (_rāvaṇaṃ pratyabhāṣata_):
 </details>
 </details>
 
@@ -151,9 +151,9 @@ Addressed thus, Vaidehī, fearless (nirbhayā) though wasted with grief (śoka-k
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “[There was] a king named Daśaratha, unshakable like an embankment of dharma (dharma-setur ivācalaḥ), true to his pledge (satya-sandhaḥ), and renowned (parijñātaḥ), whose son is that Rāghava—
+**2:** “[There was] a king named Daśaratha, unshakable like an embankment of _dharma_ (_dharma-setur ivācalaḥ_), true to his pledge (_satya-sandhaḥ_), and renowned (_parijñātaḥ_), whose son is that Rāghava—
 
-**3:** “—named Rāma, righteous-souled (dharmātmā), famed throughout the three worlds (triṣu lokeṣu viśrutaḥ), long-armed (dīrgha-bāhuḥ) and wide-eyed (viśālākṣaḥ); he is my deity and my husband (daivataṃ sa patir mama)!
+**3:** “—named Rāma, righteous-souled (_dharmātmā_), famed throughout the three worlds (_triṣu lokeṣu viśrutaḥ_), long-armed (_dīrgha-bāhuḥ_) and wide-eyed (_viśālākṣaḥ_); he is my deity and my husband (_daivataṃ sa patir mama_)!
 </details>
 </details>
 
@@ -231,7 +231,7 @@ with next verse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Born in the lineage of the Ikṣvākus (ikṣvākūṇāṃ kule jātaḥ), lion-shouldered (siṃha-skandhaḥ) and of great splendour (mahā-dyutiḥ), he, together with his brother Lakṣmaṇa (lakṣmaṇena saha bhrātrā), shall destroy your life-breaths (yas te prāṇān vadhiṣyati)!
+“Born in the lineage of the Ikṣvākus (_ikṣvākūṇāṃ kule jātaḥ_), lion-shouldered (_siṃha-skandhaḥ_) and of great splendour (_mahā-dyutiḥ_), he, together with his brother Lakṣmaṇa (_lakṣmaṇena saha bhrātrā_), shall destroy your life-breaths (_yas te prāṇān vadhiṣyati_)!
 </details>
 </details>
 
@@ -285,7 +285,7 @@ him. However, such Rama is my husband. [3-56-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Had I been forcibly violated by you (tvayā vai dharṣitā balāt) before his eyes (pratyakṣaṃ tasya), you would have lain slain in battle (śayitā tvaṃ hataḥ saṅkhye), just like Khara in Janasthāna (janasthāne yathā kharaḥ)!
+“Had I been forcibly violated by you (_tvayā vai dharṣitā balāt_) before his eyes (_pratyakṣaṃ tasya_), you would have lain slain in battle (_śayitā tvaṃ hataḥ saṅkhye_), just like Khara in Janasthāna (_janasthāne yathā kharaḥ_)!
 </details>
 </details>
 
@@ -341,7 +341,7 @@ you and your forces will be rendered ineffectual the minute you confront my husb
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“All these rākṣasas of dreadful form and great strength of whom you have boasted (ya ete rākṣasāḥ proktāḥ) will be rendered venomless before Rāghava (rāghave nirviṣāḥ sarve), like serpents before Suparṇa [Garuḍa] (suparṇe pannagā yathā)!
+“All these _rākṣasas_ of dreadful form and great strength of whom you have boasted (_ya ete rākṣasāḥ proktāḥ_) will be rendered venomless before Rāghava (_rāghave nirviṣāḥ sarve_), like serpents before Suparṇa [Garuḍa] (_suparṇe pannagā yathā_)!
 </details>
 </details>
 
@@ -407,7 +407,7 @@ he solitarily depends upon his self-confidence and a pair of skilful arms
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Loosed from his bowstring (tasya jyā-vipramuktāḥ), those gold-decked arrows (śarāḥ kāñcana-bhūṣaṇāḥ) will shatter your body (te śarīraṃ vidhamiṣyanti), as waves [crumble] the bank of the Gaṅgā (gaṅgā-kūlam ivormayaḥ)!
+“Loosed from his bowstring (_tasya jyā-vipramuktāḥ_), those gold-decked arrows (_śarāḥ kāñcana-bhūṣaṇāḥ_) will shatter your body (_te śarīraṃ vidhamiṣyanti_), as waves [crumble] the bank of the Gaṅgā (_gaṅgā-kūlam ivormayaḥ_)!
 </details>
 </details>
 
@@ -466,7 +466,7 @@ for your self-ruination...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Even if you cannot be slain by asuras or by gods (asurair vā surair vā tvaṃ yady avadhyo 'si), O Rāvaṇa, having provoked a mighty enmity (utpādya sumahad vairam), you shall not escape him alive (jīvaṃs tasya na mokṣyase)!
+“Even if you cannot be slain by _asuras_ or by gods (_asurair vā surair vā tvaṃ yady avadhyo &#x27;si_), O Rāvaṇa, having provoked a mighty enmity (_utpādya sumahad vairam_), you shall not escape him alive (_jīvaṃs tasya na mokṣyase_)!
 </details>
 </details>
 
@@ -534,7 +534,7 @@ and you be ready awaiting for your slaughter in that *raama yaj~na*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That mighty Rāghava will make an end (antakaro balī) of whatever remains of your life (te jīvita-śeṣasya); like that of a sacrificial beast bound to the stake (paśor yūpa-gatasyeva), your life is hard to save (jīvitaṃ tava durlabham)!
+“That mighty Rāghava will make an end (_antakaro balī_) of whatever remains of your life (_te jīvita-śeṣasya_); like that of a sacrificial beast bound to the stake (_paśor yūpa-gatasyeva_), your life is hard to save (_jīvitaṃ tava durlabham_)!
 </details>
 </details>
 
@@ -597,7 +597,7 @@ of Rama for your lustfulness...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Should that Rāma behold you (yadi paśyet sa rāmas tvām) with his eye blazing with wrath (roṣa-dīptena cakṣuṣā), O rākṣasa (rakṣaḥ), you would today be burned to ashes (tvam adya nirdagdhaḥ), like Manmatha by Rudra (yathā rudreṇa manmathaḥ)!
+“Should that Rāma behold you (_yadi paśyet sa rāmas tvām_) with his eye blazing with wrath (_roṣa-dīptena cakṣuṣā_), O _rākṣasa_ (_rakṣaḥ_), you would today be burned to ashes (_tvam adya nirdagdhaḥ_), like Manmatha by Rudra (_yathā rudreṇa manmathaḥ_)!
 </details>
 </details>
 
@@ -655,7 +655,7 @@ of any size in its entirety... thus he just walk on its sands in commissioning h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who could hurl the moon from the sky to the earth (yaś candraṃ nabhaso bhūmau pātayet) or destroy it (nāśayeta vā), or dry up the ocean (sāgaraṃ śoṣayed vāpi)—he will set Sītā free here (sa sītāṃ mocayed iha)!
+“He who could hurl the moon from the sky to the earth (_yaś candraṃ nabhaso bhūmau pātayet_) or destroy it (_nāśayeta vā_), or dry up the ocean (_sāgaraṃ śoṣayed vāpi_)—he will set Sītā free here (_sa sītāṃ mocayed iha_)!
 </details>
 </details>
 
@@ -717,7 +717,7 @@ and daresay to me 'you rule over this very great empire of Lanka as empress of L
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of life-breath (gatāsus tvam), bereft of fortune (gata-śrīkaḥ), bereft of courage (gata-sattvaḥ), and bereft of senses (gatendriyaḥ) [are you]; through your deed (tvat-kṛtena), Laṅkā shall be plunged into widowhood (vaidhavya-saṃyuktā bhaviṣyati)!
+“Bereft of life-breath (_gatāsus tvam_), bereft of fortune (_gata-śrīkaḥ_), bereft of courage (_gata-sattvaḥ_), and bereft of senses (_gatendriyaḥ_) [are you]; through your deed (_tvat-kṛtena_), Laṅkā shall be plunged into widowhood (_vaidhavya-saṃyuktā bhaviṣyati_)!
 </details>
 </details>
 
@@ -784,7 +784,7 @@ upon that Rama alone to come here to handover 'a fruit of unhappiness' to you as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This sinful deed of yours (te pāpam idaṃ karma) shall not have a happy outcome (na sukhodarkaṃ bhaviṣyati), in that I have been forcibly (tvayā balāt) led into separation (nītā vinā-bhāvam) from my husband's side (pati-pārśvāt)!
+“This sinful deed of yours (_te pāpam idaṃ karma_) shall not have a happy outcome (_na sukhodarkaṃ bhaviṣyati_), in that I have been forcibly (_tvayā balāt_) led into separation (_nītā vinā-bhāvam_) from my husband&#x27;s side (_pati-pārśvāt_)!
 </details>
 </details>
 
@@ -844,7 +844,7 @@ him to know whether I am winnable or otherwise...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For that husband of mine of great splendour (mama bhartā mahā-dyutiḥ), joined by my brother-in-law (devara-saṃyuktaḥ), dwells fearless (nirbhayaḥ) in the desolate Daṇḍaka forest (śūnye vasati daṇḍake), relying on his own valor (vīryam āśritya).
+“For that husband of mine of great splendour (_mama bhartā mahā-dyutiḥ_), joined by my brother-in-law (_devara-saṃyuktaḥ_), dwells fearless (_nirbhayaḥ_) in the desolate Daṇḍaka forest (_śūnye vasati daṇḍake_), relying on his own valor (_vīryam āśritya_).
 </details>
 </details>
 
@@ -902,7 +902,7 @@ and scrupulous combatant, evanished are your bodily vanities...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In battle, with a shower of arrows (śara-varṣeṇa saṃyuge), he will strip from your limbs (apaneṣyati gātrebhyaḥ) your valor, strength, pride, and such haughtiness (vīryaṃ balaṃ darpam utsekaṃ ca tathā-vidham)!
+“In battle, with a shower of arrows (_śara-varṣeṇa saṃyuge_), he will strip from your limbs (_apaneṣyati gātrebhyaḥ_) your valor, strength, pride, and such haughtiness (_vīryaṃ balaṃ darpam utsekaṃ ca tathā-vidham_)!
 </details>
 </details>
 
@@ -955,7 +955,7 @@ your behaviour in endangerment, by this quirkish act of abducting me...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When the destruction of beings (vināśo bhūtānām), impelled by Time (kāla-coditaḥ), looms in sight (dṛśyate), then men who have fallen under the sway of Time (narāḥ kāla-vaśaṃ gatāḥ) err in their conduct (tadā kārye pramādyanti).
+“When the destruction of beings (_vināśo bhūtānām_), impelled by Time (_kāla-coditaḥ_), looms in sight (_dṛśyate_), then men who have fallen under the sway of Time (_narāḥ kāla-vaśaṃ gatāḥ_) err in their conduct (_tadā kārye pramādyanti_).
 </details>
 </details>
 
@@ -1019,7 +1019,7 @@ Where is the question of my becoming an empress of dead souls?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Through laying violent hands on me (māṃ pradhṛṣya), O vilest of rākṣasas (rākṣasādhama), that hour of doom of yours (sa te kālaḥ) has now arrived (prāpto 'yam) for the destruction of yourself, your rākṣasas, and your inner apartments (ātmano rākṣasānāṃ ca vadhāyāntaḥpurasya ca)!
+“Through laying violent hands on me (_māṃ pradhṛṣya_), O vilest of _rākṣasas_ (_rākṣasādhama_), that hour of doom of yours (_sa te kālaḥ_) has now arrived (_prāpto &#x27;yam_) for the destruction of yourself, your _rākṣasas_, and your inner apartments (_ātmano rākṣasānāṃ ca vadhāyāntaḥpurasya ca_)!
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ himself as a self-cremator.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“An altar standing in the midst of a sacrifice (yajña-madhya-sthā vediḥ), decked with sacrificial ladles and vessels (srug-bhāṇḍa-maṇḍitā) and sanctified by the mantras of the twice-born (dvijāti-mantra-sampūtā), cannot be trampled upon by an outcaste (na śakyā caṇḍālenāvamarditum)—
+“An altar standing in the midst of a sacrifice (_yajña-madhya-sthā vediḥ_), decked with sacrificial ladles and vessels (_srug-bhāṇḍa-maṇḍitā_) and sanctified by the _mantras_ of the twice-born (_dvijāti-mantra-sampūtā_), cannot be trampled upon by an outcaste (_na śakyā caṇḍālenāvamarditum_)—
 </details>
 </details>
 
@@ -1163,7 +1163,7 @@ such as I am, you basely demon, it is impossible for you trespasser to touch me 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—just so, I, the lawful wife (dharma-patnī) of one ever steadfast in dharma (dharma-nityasya), firm in my vows (dṛḍha-vratā), cannot be touched by you, a sinner (tvayā spraṣṭuṃ na śakyāhaṃ pāpinā), O vilest of rākṣasas (rākṣasādhama)!
+“—just so, I, the lawful wife (_dharma-patnī_) of one ever steadfast in _dharma_ (_dharma-nityasya_), firm in my vows (_dṛḍha-vratā_), cannot be touched by you, a sinner (_tvayā spraṣṭuṃ na śakyāhaṃ pāpinā_), O vilest of _rākṣasas_ (_rākṣasādhama_)!
 </details>
 </details>
 
@@ -1218,7 +1218,7 @@ in a bunch of grass? [3-56-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Sporting continually (krīḍantī nityaśaḥ) with a royal swan (rāja-haṃsena) among lotus-clusters (padma-ṣaṇḍeṣu), how could that female swan (haṃsī sā) even glance at a water-crow (kathaṃ drakṣyeta madgukam) lurking amid the weeds (tṛṇa-madhya-stham)?
+“Sporting continually (_krīḍantī nityaśaḥ_) with a royal swan (_rāja-haṃsena_) among lotus-clusters (_padma-ṣaṇḍeṣu_), how could that female swan (_haṃsī sā_) even glance at a water-crow (_kathaṃ drakṣyeta madgukam_) lurking amid the weeds (_tṛṇa-madhya-stham_)?
 </details>
 </details>
 
@@ -1290,7 +1290,7 @@ gariiyaH - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bind or slay (bandha vā ghātayasva vā) this insentient body (idaṃ śarīraṃ niḥsaṃjñam); neither this body nor even my life (jīvitaṃ vāpi) is to be preserved by me (rakṣyaṃ me), O rākṣasa—
+“Bind or slay (_bandha vā ghātayasva vā_) this insentient body (_idaṃ śarīraṃ niḥsaṃjñam_); neither this body nor even my life (_jīvitaṃ vāpi_) is to be preserved by me (_rakṣyaṃ me_), O _rākṣasa_—
 </details>
 </details>
 
@@ -1324,7 +1324,7 @@ gariiyaH - dk*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—for I cannot bring reproach upon myself (na tu śakyam apakrośaṃ dātum ātmanaḥ) on earth (pṛthivyām)!” Having spoken thus out of wrath (evam uktvā tu krodhāt) a most harsh speech (suparuṣaṃ vacaḥ), Vaidehī—
+“—for I cannot bring reproach upon myself (_na tu śakyam apakrośaṃ dātum ātmanaḥ_) on earth (_pṛthivyām_)!” Having spoken thus out of wrath (_evam uktvā tu krodhāt_) a most harsh speech (_suparuṣaṃ vacaḥ_), Vaidehī—
 </details>
 </details>
 
@@ -1455,7 +1455,7 @@ wife as I am, how do you think that I on my own get estranged from such a godlik
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Jānakī spoke nothing further (punar novāca kiṃcana) to Rāvaṇa there (tatra). Having heard Sītā's harsh, hair-raising speech (sītāyā vacanaṃ śrutvā paruṣaṃ roma-harṣaṇam)—
+—Jānakī spoke nothing further (_punar novāca kiṃcana_) to Rāvaṇa there (_tatra_). Having heard Sītā&#x27;s harsh, hair-raising speech (_sītāyā vacanaṃ śrutvā paruṣaṃ roma-harṣaṇam_)—
 </details>
 </details>
 
@@ -1547,9 +1547,9 @@ conquering king after twelve months, *raja niita - shaanti parva - Maha Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** —he then replied to Sītā with a terrifying word (bhaya-saṃdarśanaṃ vacaḥ): “Hear my word, O Maithilī! [Wait] for twelve months (māsān dvādaśa), O proud lady (bhāmini)—
+**24:** —he then replied to Sītā with a terrifying word (_bhaya-saṃdarśanaṃ vacaḥ_): “Hear my word, O Maithilī! [Wait] for twelve months (_māsān dvādaśa_), O proud lady (_bhāmini_)—
 
-**25:** “—if within this period (kālenānena) you do not come to me (nābhyeṣi yadi mām), O sweet-smiling lady (cāru-hāsini), then my cooks (sūdāḥ) shall slice you into tiny pieces (tvāṃ chetsyanti leśaśaḥ) for my morning meal (prātar-āśārtham)!”
+**25:** “—if within this period (_kālenānena_) you do not come to me (_nābhyeṣi yadi mām_), O sweet-smiling lady (_cāru-hāsini_), then my cooks (_sūdāḥ_) shall slice you into tiny pieces (_tvāṃ chetsyanti leśaśaḥ_) for my morning meal (_prātar-āśārtham_)!”
 </details>
 </details>
 
@@ -1600,7 +1600,7 @@ said this sentence to the guarding demonesses. [3-56-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken this harsh speech (ity uktvā paruṣaṃ vākyam), Rāvaṇa, the make-wail of his foes (śatru-rāvaṇaḥ), then in wrath (tataḥ kruddhaḥ) spoke this word to the rākṣasīs (rākṣasīś ca):
+Having spoken this harsh speech (_ity uktvā paruṣaṃ vākyam_), Rāvaṇa, the make-wail of his foes (_śatru-rāvaṇaḥ_), then in wrath (_tataḥ kruddhaḥ_) spoke this word to the _rākṣasīs_ (_rākṣasīś ca_):
 </details>
 </details>
 
@@ -1663,7 +1663,7 @@ as servitors in her audience... for she is my Goddess Lakshmi...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let the deformed (virūpāḥ) rākṣasīs of dreadful aspect (ghora-darśanāḥ), who feed on flesh and blood (māṃsa-śoṇita-bhojanāḥ), swiftly strip away her pride (śīghram eva darpam asyāpaneṣyantu)!”
+“Let the deformed (_virūpāḥ_) _rākṣasīs_ of dreadful aspect (_ghora-darśanāḥ_), who feed on flesh and blood (_māṃsa-śoṇita-bhojanāḥ_), swiftly strip away her pride (_śīghram eva darpam asyāpaneṣyantu_)!”
 </details>
 </details>
 
@@ -1715,7 +1715,7 @@ palm-fold to him and encircled Maithili. [3-56-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At his very word (vacanād eva tasya), those most dreadful [ogresses] of frightful aspect (sughorā ghora-darśanāḥ), folding their hands in salutation (kṛta-prāñjalayo bhūtvā), surrounded Maithilī (maithilīṃ paryavārayan).
+At his very word (_vacanād eva tasya_), those most dreadful [ogresses] of frightful aspect (_sughorā ghora-darśanāḥ_), folding their hands in salutation (_kṛta-prāñjalayo bhūtvā_), surrounded Maithilī (_maithilīṃ paryavārayan_).
 </details>
 </details>
 
@@ -1767,7 +1767,7 @@ those demonesses with ghastly look. [3-56-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stepping forth (pracalya) as though cleaving the earth (dārayann iva medinīm) with the heavy stamping of his feet (caraṇotkarṣaiḥ), that King Rāvaṇa spoke to those [ogresses] of dreadful aspect (tāḥ provāca ghora-darśanāḥ):
+Stepping forth (_pracalya_) as though cleaving the earth (_dārayann iva medinīm_) with the heavy stamping of his feet (_caraṇotkarṣaiḥ_), that King Rāvaṇa spoke to those [ogresses] of dreadful aspect (_tāḥ provāca ghora-darśanāḥ_):
 </details>
 </details>
 
@@ -1822,7 +1822,7 @@ her stealthily. [3-56-30]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let Maithilī be led into the midst of the Aśoka grove (aśoka-vanikā-madhye maithilī nīyatām iti); there let her be guarded in secret (tatreyaṃ rakṣyatāṃ gūḍham), surrounded by you (yuṣmābhiḥ parivāritā)!
+“Let Maithilī be led into the midst of the Aśoka grove (_aśoka-vanikā-madhye maithilī nīyatām iti_); there let her be guarded in secret (_tatreyaṃ rakṣyatāṃ gūḍham_), surrounded by you (_yuṣmābhiḥ parivāritā_)!
 </details>
 </details>
 
@@ -1896,7 +1896,7 @@ that you and your families are effaced... for I cherish Maithili to live...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There, by dreadful threats (tarjanair ghoraiḥ) and again by coaxing words (punaḥ sāntvaiś ca), do all of you bring this Maithilī under my sway (ānayadhvaṃ vaśaṃ sarvāḥ), like a wild female elephant (vanyāṃ gaja-vadhūm iva)!”
+“There, by dreadful threats (_tarjanair ghoraiḥ_) and again by coaxing words (_punaḥ sāntvaiś ca_), do all of you bring this Maithilī under my sway (_ānayadhvaṃ vaśaṃ sarvāḥ_), like a wild female elephant (_vanyāṃ gaja-vadhūm iva_)!”
 </details>
 </details>
 
@@ -1930,7 +1930,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Commanded thus by Rāvaṇa (iti pratisamādiṣṭā rāvaṇena), those rākṣasīs took Maithilī (maithilīṃ parigṛhya tu) and went to the Aśoka grove (aśoka-vanikāṃ jagmuḥ)—
+Commanded thus by Rāvaṇa (_iti pratisamādiṣṭā rāvaṇena_), those _rākṣasīs_ took Maithilī (_maithilīṃ parigṛhya tu_) and went to the Aśoka grove (_aśoka-vanikāṃ jagmuḥ_)—
 </details>
 </details>
 
@@ -1983,7 +1983,7 @@ flowered and fruited. Further, those gardens are highly adored by all-time lusty
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—which was filled with trees yielding every desired fruit (sarva-kāma-phalair vṛkṣaiḥ) and bearing manifold blossoms and fruits (nānā-puṣpa-phalair vṛtām), and frequented by birds (dvijaiḥ) passionate in every season (sarva-kāla-madaiś cāpi).
+—which was filled with trees yielding every desired fruit (_sarva-kāma-phalair vṛkṣaiḥ_) and bearing manifold blossoms and fruits (_nānā-puṣpa-phalair vṛtām_), and frequented by birds (_dvijaiḥ_) passionate in every season (_sarva-kāla-madaiś cāpi_).
 </details>
 </details>
 
@@ -2035,7 +2035,7 @@ the control of demonesses, she is as good as a she-deer under the coverall of ti
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Her limbs overwhelmed with grief (śoka-parītāṅgī), Maithilī, the daughter of Janaka, fell under the power of the rākṣasīs (rākṣasī-vaśam āpannā), like a doe [under the power] of tigresses (vyāghrīṇāṃ hariṇī yathā).
+Her limbs overwhelmed with grief (_śoka-parītāṅgī_), Maithilī, the daughter of Janaka, fell under the power of the _rākṣasīs_ (_rākṣasī-vaśam āpannā_), like a doe [under the power] of tigresses (_vyāghrīṇāṃ hariṇī yathā_).
 </details>
 </details>
 
@@ -2081,7 +2081,7 @@ now as with a she-deer bound by tether - where timorousness is common to both. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seized by mighty grief (śokena mahatā grastā), the timid (bhīruḥ) Maithilī, daughter of Janaka, finds no peace (na śarma labhate), like a doe bound in a snare (pāśa-baddhā mṛgī yathā).
+Seized by mighty grief (_śokena mahatā grastā_), the timid (_bhīruḥ_) Maithilī, daughter of Janaka, finds no peace (_na śarma labhate_), like a doe bound in a snare (_pāśa-baddhā mṛgī yathā_).
 </details>
 </details>
 
@@ -2153,7 +2153,7 @@ anguish, and then she swooned. [3-56-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Threatened exceedingly (atīva tarjitā) by those [ogresses] of deformed eyes (virūpa-netrābhiḥ), Maithilī finds no peace there (na vindate tatra tu śarma); remembering her husband and her beloved brother-in-law (patiṃ smarantī dayitaṃ ca devaram), she became senseless (vicetanābhūt), tormented by fear and grief (bhaya-śoka-pīḍitā).
+Threatened exceedingly (_atīva tarjitā_) by those [ogresses] of deformed eyes (_virūpa-netrābhiḥ_), Maithilī finds no peace there (_na vindate tatra tu śarma_); remembering her husband and her beloved brother-in-law (_patiṃ smarantī dayitaṃ ca devaram_), she became senseless (_vicetanābhūt_), tormented by fear and grief (_bhaya-śoka-pīḍitā_).
 </details>
 </details>
 

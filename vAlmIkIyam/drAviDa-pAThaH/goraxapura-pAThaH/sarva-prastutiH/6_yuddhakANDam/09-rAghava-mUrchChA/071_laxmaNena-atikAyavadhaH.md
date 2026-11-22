@@ -117,11 +117,11 @@ of celestials and ogres, was enraged.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Seeing his own army distressed in that tumultuous and hair-raising battle (tumulaṃ lomaharṣaṇam), and beholding his brothers slain—who were equal in valor to Śakra [Indra]—
+**1:** Seeing his own army distressed in that tumultuous and hair-raising battle (_tumulaṃ lomaharṣaṇam_), and beholding his brothers slain—who were equal in valor to Śakra [Indra]—
 
-**2:** And beholding also his two paternal uncles (pitṛvyau)—those two foremost of Rākṣasas, [Mahodara] mad for battle (yuddhonmattam) and the frenzied [Mahāpārśva] (mattam), brothers to one another—struck down in combat,
+**2:** And beholding also his two paternal uncles (_pitṛvyau_)—those two foremost of Rākṣasas, [Mahodara] mad for battle (_yuddhonmattam_) and the frenzied [Mahāpārśva] (_mattam_), brothers to one another—struck down in combat,
 
-**3:** Atikāya of mighty splendor (mahātejāḥ), who resembled a mountain, who had been granted boons by Brahmā (brahmadattavaraḥ), and who crushed the pride of gods and Dānavas, was filled with wrath in battle.
+**3:** Atikāya of mighty splendor (_mahātejāḥ_), who resembled a mountain, who had been granted boons by Brahmā (_brahmadattavaraḥ_), and who crushed the pride of gods and Dānavas, was filled with wrath in battle.
 </details>
 </details>
 
@@ -170,7 +170,7 @@ like a cluster of thousand suns, ran towards the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mounting his chariot (ratham āruhya), which blazed like an assemblage of a thousand suns (bhāskarasahasrasya saṃghātam iva), that foe of Śakra rushed against the Vānaras.
+Mounting his chariot (_ratham āruhya_), which blazed like an assemblage of a thousand suns (_bhāskarasahasrasya saṃghātam iva_), that foe of Śakra rushed against the Vānaras.
 </details>
 </details>
 
@@ -216,7 +216,7 @@ a big noise, making his name loudly heard.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Stretching his bow then, crowned with a diadem (kirīṭī) and wearing burnished earrings (mṛṣṭakuṇḍalaḥ), he proclaimed his name (nāma saṃśrāvayām āsa) and roared a mighty roar.
+Stretching his bow then, crowned with a diadem (_kirīṭī_) and wearing burnished earrings (_mṛṣṭakuṇḍalaḥ_), he proclaimed his name (_nāma saṃśrāvayām āsa_) and roared a mighty roar.
 </details>
 </details>
 
@@ -262,7 +262,7 @@ the bow-string, it created terror to the monkeys.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that lion-roar (siṃhapraṇādena), by the proclamation of his name, and by the dreadful twang of his bowstring (jyāśabdena ca bhīmena), he struck terror into the Vānaras.
+By that lion-roar (_siṃhapraṇādena_), by the proclamation of his name, and by the dreadful twang of his bowstring (_jyāśabdena ca bhīmena_), he struck terror into the Vānaras.
 </details>
 </details>
 
@@ -317,7 +317,7 @@ again, took refuge with each other, afflicted as they were, with fear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding the vastness of his frame (dehamāhātmyam)—[thinking,] “This is Kumbhakarṇa risen up!” (kumbhakarṇo 'yam utthitaḥ)—all the Vānaras, stricken with fear, clung to one another.
+Beholding the vastness of his frame (_dehamāhātmyam_)—[thinking,] “This is Kumbhakarṇa risen up!” (_kumbhakarṇo &#x27;yam utthitaḥ_)—all the Vānaras, stricken with fear, clung to one another.
 </details>
 </details>
 
@@ -364,7 +364,7 @@ steps, the those renowned monkey-warriors with fear, ran away hither and thither
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his form, which was like that of Viṣṇu in His three strides (yathā viṣṇos trivikrame), those Vānara warriors fled in terror hither and thither.
+Beholding his form, which was like that of Viṣṇu in His three strides (_yathā viṣṇos trivikrame_), those Vānara warriors fled in terror hither and thither.
 </details>
 </details>
 
@@ -410,7 +410,7 @@ the battle, a refuge with Rama, who affords protection.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having encountered Atikāya, the Vānaras, their minds bewildered (mūḍhacetasaḥ), went for refuge in battle to [Rāma,] the elder brother of Lakṣmaṇa, who is the giver of refuge (śaraṇyaṃ śaraṇaṃ jagmuḥ).
+Having encountered Atikāya, the Vānaras, their minds bewildered (_mūḍhacetasaḥ_), went for refuge in battle to [Rāma,] the elder brother of Lakṣmaṇa, who is the giver of refuge (_śaraṇyaṃ śaraṇaṃ jagmuḥ_).
 </details>
 </details>
 
@@ -457,7 +457,7 @@ dissolution.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Kākutstha [Rāma] beheld from afar the bow-wielding Atikāya standing upon his chariot, resembling a mountain and roaring like a storm-cloud of universal dissolution (kālameghavat).
+Then Kākutstha [Rāma] beheld from afar the bow-wielding Atikāya standing upon his chariot, resembling a mountain and roaring like a storm-cloud of universal dissolution (_kālameghavat_).
 </details>
 </details>
 
@@ -504,7 +504,7 @@ and after consoling the monkeys, spoke to Vibhishana (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that gigantic warrior (mahākāyam), Rāghava was greatly astonished (suvismitaḥ); and having comforted the Vānaras (vānarān sāntvayitvā), he spoke to Vibhīṣaṇa:
+Beholding that gigantic warrior (_mahākāyam_), Rāghava was greatly astonished (_suvismitaḥ_); and having comforted the Vānaras (_vānarān sāntvayitvā_), he spoke to Vibhīṣaṇa:
 </details>
 </details>
 
@@ -550,7 +550,7 @@ in a spacious chariot yoked with a thousand horses?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is that mountain-like bowman with lion-like eyes (harilocanaḥ), stationed upon a vast chariot yoked with a thousand steeds (yukte hayasahasreṇa)?”
+“Who is that mountain-like bowman with lion-like eyes (_harilocanaḥ_), stationed upon a vast chariot yoked with a thousand steeds (_yukte hayasahasreṇa_)?”
 </details>
 </details>
 
@@ -604,7 +604,7 @@ spikes, with very sharply barbed javelins and lances.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is this one that shines surrounded by whetted pikes (niśitaiḥ śūlaiḥ) and sharp lances and javelins (prāsatomaraiḥ) blazing with radiance, like Maheśvara [Śiva] surrounded by His spectral attendants (bhūtair iva maheśvaraḥ)?
+“Who is this one that shines surrounded by whetted pikes (_niśitaiḥ śūlaiḥ_) and sharp lances and javelins (_prāsatomaraiḥ_) blazing with radiance, like Maheśvara [Śiva] surrounded by His spectral attendants (_bhūtair iva maheśvaraḥ_)?
 </details>
 </details>
 
@@ -650,7 +650,7 @@ the banners of the war-chariot, appearing like tongues of the Time-Sprit."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Encompassed by chariot-spears (rathaśaktībhiḥ) gleaming like the tongues of Time [Death] (kālajihvāprakāśābhiḥ), he shines forth like a storm-cloud wreathed in lightning (vidyudbhir iva toyadaḥ).
+Encompassed by chariot-spears (_rathaśaktībhiḥ_) gleaming like the tongues of Time [Death] (_kālajihvāprakāśābhiḥ_), he shines forth like a storm-cloud wreathed in lightning (_vidyudbhir iva toyadaḥ_).
 </details>
 </details>
 
@@ -702,7 +702,7 @@ like a rainbow in the sky."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His strung bows (dhanūṃṣi cāsya sajjāni), backed with gold on every side (hemapṛṣṭhāni sarvaśaḥ), adorn his foremost of chariots just as Śakra's rainbow adorns the sky.
+His strung bows (_dhanūṃṣi cāsya sajjāni_), backed with gold on every side (_hemapṛṣṭhāni sarvaśaḥ_), adorn his foremost of chariots just as Śakra&#x27;s rainbow adorns the sky.
 </details>
 </details>
 
@@ -733,7 +733,7 @@ His strung bows (dhanūṃṣi cāsya sajjāni), backed with gold on every side 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Who is this tiger among Rākṣasas (rakṣaḥśārdūlaḥ), illuminating the battlefield, who approaches—foremost of chariot-warriors—in a chariot possessing the radiance of the sun (rathenādityavarcasā)?
+Who is this tiger among Rākṣasas (_rakṣaḥśārdūlaḥ_), illuminating the battlefield, who approaches—foremost of chariot-warriors—in a chariot possessing the radiance of the sun (_rathenādityavarcasā_)?
 </details>
 </details>
 
@@ -785,7 +785,7 @@ the point of his standard."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He shines forth with Rāhu mounted upon the crest of his banner-staff (dhvajaśṛṅgapratiṣṭhena rāhuṇā), illuminating the ten directions with arrows gleaming like the rays of the sun.
+He shines forth with Rāhu mounted upon the crest of his banner-staff (_dhvajaśṛṅgapratiṣṭhena rāhuṇā_), illuminating the ten directions with arrows gleaming like the rays of the sun.
 </details>
 </details>
 
@@ -837,7 +837,7 @@ cloud, is shining like a rain-bow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And his thrice-curved (trinatam), adorned, gold-backed bow, thundering like a cloud (meghanirhrādam) and resembling the bow of Śatakratu [Indra], shines resplendently.
+And his thrice-curved (_trinatam_), adorned, gold-backed bow, thundering like a cloud (_meghanirhrādam_) and resembling the bow of Śatakratu [Indra], shines resplendently.
 </details>
 </details>
 
@@ -897,7 +897,7 @@ having the sound of a cloud's lightning, consists of four charioteers."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“His great chariot—furnished with a banner-staff, pennants, and an undercarriage axle-bar (sadhvajaḥ sapatākaś ca sānukarṣaḥ)—is yoked with four charioteers (catuḥsādisamāyuktaḥ) and rumbles like the thunder of clouds.
+“His great chariot—furnished with a banner-staff, pennants, and an undercarriage axle-bar (_sadhvajaḥ sapatākaś ca sānukarṣaḥ_)—is yoked with four charioteers (_catuḥsādisamāyuktaḥ_) and rumbles like the thunder of clouds.
 </details>
 </details>
 
@@ -952,7 +952,7 @@ colour, are abiding in his chariot."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Twenty, ten, and eight [thirty-eight] quivers (viṃśatir daśa cāṣṭau ca tūṇāḥ) rest upon his chariot, along with dreadful bows (kārmukāṇi ca bhīmāni) and bowstrings tawny as gold (jyāś ca kāñcanapiṅgalāḥ).
+Twenty, ten, and eight [thirty-eight] quivers (_viṃśatir daśa cāṣṭau ca tūṇāḥ_) rest upon his chariot, along with dreadful bows (_kārmukāṇi ca bhīmāni_) and bowstrings tawny as gold (_jyāś ca kāñcanapiṅgalāḥ_).
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ provided with measuring four cubits, casting their splendour on his two sides."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And at his sides hang two blazing swords (dvau ca khaḍgau ca pārśvasthau), adorning his flanks, fitted with four-cubit hilts (caturhastatsaruyutau) and measuring ten cubits in gleaming blade-length (vyaktahastadaśāyatau).
+And at his sides hang two blazing swords (_dvau ca khaḍgau ca pārśvasthau_), adorning his flanks, fitted with four-cubit hilts (_caturhastatsaruyutau_) and measuring ten cubits in gleaming blade-length (_vyaktahastadaśāyatau_).
 </details>
 </details>
 
@@ -1055,7 +1055,7 @@ cloud."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wearing a crimson neck-garland (raktakaṇṭhaguṇaḥ), steadfast, resembling a great mountain, dark-hued (kālaḥ), with a vast mouth like that of Death (kālamahāvaktraḥ), he looks like the sun resting within a cloud.
+Wearing a crimson neck-garland (_raktakaṇṭhaguṇaḥ_), steadfast, resembling a great mountain, dark-hued (_kālaḥ_), with a vast mouth like that of Death (_kālamahāvaktraḥ_), he looks like the sun resting within a cloud.
 </details>
 </details>
 
@@ -1101,7 +1101,7 @@ mountain with its two lofty peaks."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his two arms bound with golden armlets (kāñcanāṅgadanaddhābhyāṃ bhujābhyām), he shines like Himavān, foremost of mountains, with its two lofty peaks (śṛṅgābhyām iva tuṅgābhyām).
+With his two arms bound with golden armlets (_kāñcanāṅgadanaddhābhyāṃ bhujābhyām_), he shines like Himavān, foremost of mountains, with its two lofty peaks (_śṛṅgābhyām iva tuṅgābhyām_).
 </details>
 </details>
 
@@ -1156,7 +1156,7 @@ appearing between the two stars constituting the constellation, Punnarvasu."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And with his two earrings, his terrifying countenance (vaktraṃ subhīṣaṇam) shines like the full moon (paripūrṇo niśākaraḥ) stationed between the twin stars of Punarvasu (punarvasvantaragatam).
+And with his two earrings, his terrifying countenance (_vaktraṃ subhīṣaṇam_) shines like the full moon (_paripūrṇo niśākaraḥ_) stationed between the twin stars of Punarvasu (_punarvasvantaragatam_).
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ monkeys, afflicted with fear, are running away in different directions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O mighty-armed one (mahābāho), declare to me this foremost of Rākṣasas, at the sight of whom all the Vānaras have fled in terror to every quarter!”
+“O mighty-armed one (_mahābāho_), declare to me this foremost of Rākṣasas, at the sight of whom all the Vānaras have fled in terror to every quarter!”
 </details>
 </details>
 
@@ -1269,7 +1269,7 @@ great brilliance, replied to Rama as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus questioned by the prince Rāma of immeasurable splendor (rāmeṇāmitatejasā), Vibhīṣaṇa of great luster recounted to Rāghava:
+Thus questioned by the prince Rāma of immeasurable splendor (_rāmeṇāmitatejasā_), Vibhīṣaṇa of great luster recounted to Rāghava:
 </details>
 </details>
 
@@ -1344,9 +1344,9 @@ holding that which is heard from them and skilled in the use of weaponry."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “The ten-necked king of great splendor (daśagrīvo mahātejāḥ), the younger brother of Vaiśravaṇa [Kubera] (vaiśravaṇānujaḥ), of dreadful deeds and mighty spirit, is indeed Rāvaṇa, lord of the Rākṣasas.
+**27:** “The ten-necked king of great splendor (_daśagrīvo mahātejāḥ_), the younger brother of Vaiśravaṇa [Kubera] (_vaiśravaṇānujaḥ_), of dreadful deeds and mighty spirit, is indeed Rāvaṇa, lord of the Rākṣasas.
 
-**28:** He has a valiant son, equal to Rāvaṇa in strength (rāvaṇapratimo bale), who honors elders (vṛddhasevī), retains sacred lore (śrutidharaḥ), and is the foremost of all who know missile-weapons (sarvāstraviduṣāṃ varaḥ).
+**28:** He has a valiant son, equal to Rāvaṇa in strength (_rāvaṇapratimo bale_), who honors elders (_vṛddhasevī_), retains sacred lore (_śrutidharaḥ_), and is the foremost of all who know missile-weapons (_sarvāstraviduṣāṃ varaḥ_).
 </details>
 </details>
 
@@ -1403,7 +1403,7 @@ by sowing dissention negotiation and bribery and for his steering capacity of an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On horseback, on elephant-back (aśvapṛṣṭhe nāgapṛṣṭhe), with the sword, with the bow, in drawing the bowstring (karṣaṇe), and in sowing dissension, conciliation, gift-giving, policy, and counsel (bhede sāntve ca dāne ca naye mantre ca), he is held in high esteem.
+On horseback, on elephant-back (_aśvapṛṣṭhe nāgapṛṣṭhe_), with the sword, with the bow, in drawing the bowstring (_karṣaṇe_), and in sowing dissension, conciliation, gift-giving, policy, and counsel (_bhede sāntve ca dāne ca naye mantre ca_), he is held in high esteem.
 </details>
 </details>
 
@@ -1449,7 +1449,7 @@ arm."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Depending upon whose arm Laṅkā abides free from fear (laṅkā bhavati nirbhayā)—they know this warrior as Atikāya, the son of Dhānyamālinī (tanayaṃ dhānyamālinyāḥ).
+Depending upon whose arm Laṅkā abides free from fear (_laṅkā bhavati nirbhayā_)—they know this warrior as Atikāya, the son of Dhānyamālinī (_tanayaṃ dhānyamālinyāḥ_).
 </details>
 </details>
 
@@ -1503,7 +1503,7 @@ the lord of creation, obtained missiles too and conquered the enemies.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By him, of purified soul (bhāvitātmanā), Brahmā was propitiated through austerity (tapasā), and divine missiles were obtained by him, and his foes were vanquished.
+“By him, of purified soul (_bhāvitātmanā_), Brahmā was propitiated through austerity (_tapasā_), and divine missiles were obtained by him, and his foes were vanquished.
 </details>
 </details>
 
@@ -1555,7 +1555,7 @@ of celestials and demons as also this wonderful armour and the chariot shining l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Invulnerability to gods and Asuras (surāsurair avadhyatvam) was granted to him by the Self-existent One [Brahmā] (svayaṃbhuvā), along with this celestial armor (kavacaṃ divyam) and this chariot blazing like the sun (rathaś ca ravibhāsvaraḥ).
+Invulnerability to gods and Asuras (_surāsurair avadhyatvam_) was granted to him by the Self-existent One [Brahmā] (_svayaṃbhuvā_), along with this celestial armor (_kavacaṃ divyam_) and this chariot blazing like the sun (_rathaś ca ravibhāsvaraḥ_).
 </details>
 </details>
 
@@ -1608,7 +1608,7 @@ supernatural beings and defended the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By him gods and Dānavas have been vanquished by the hundreds (śataśaḥ), the Rākṣasas have been protected, and the Yakṣas too have been crushed (niṣūditāḥ).
+By him gods and Dānavas have been vanquished by the hundreds (_śataśaḥ_), the Rākṣasas have been protected, and the Yakṣas too have been crushed (_niṣūditāḥ_).
 </details>
 </details>
 
@@ -1642,7 +1642,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By that wise warrior the thunderbolt of Indra (vajraṃ indrasya) was paralyzed (viṣṭambhitam) with his arrows, and in battle the noose of the lord of waters [Varuṇa] (pāśaḥ salilarājasya) was likewise repelled.
+By that wise warrior the thunderbolt of Indra (_vajraṃ indrasya_) was paralyzed (_viṣṭambhitam_) with his arrows, and in battle the noose of the lord of waters [Varuṇa] (_pāśaḥ salilarājasya_) was likewise repelled.
 </details>
 </details>
 
@@ -1697,7 +1697,7 @@ who is strong and the foremost of demons took off the pride of celestials and og
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This is the mighty Atikāya, the bull among Rākṣasas (rākṣasānām atharṣabhaḥ), that wise son of Rāvaṇa, the crusher of the pride of gods and Dānavas (devadānavadarpahā).
+This is the mighty Atikāya, the bull among Rākṣasas (_rākṣasānām atharṣabhaḥ_), that wise son of Rāvaṇa, the crusher of the pride of gods and Dānavas (_devadānavadarpahā_).
 </details>
 </details>
 
@@ -1744,7 +1744,7 @@ arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O bull among men (puruṣapuṅgava), let effort be made against him swiftly (kṣipram), before (purā) he brings the Vānara armies to destruction with his shafts!”
+Therefore, O bull among men (_puruṣapuṅgava_), let effort be made against him swiftly (_kṣipram_), before (_purā_) he brings the Vānara armies to destruction with his shafts!”
 </details>
 </details>
 
@@ -1798,7 +1798,7 @@ again and again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty Atikāya, plunging into the Vānara host (praviśya harivāhinīm), twanged his bow (visphārayām āsa dhanuḥ) and roared again and again.
+Then the mighty Atikāya, plunging into the Vānara host (_praviśya harivāhinīm_), twanged his bow (_visphārayām āsa dhanuḥ_) and roared again and again.
 </details>
 </details>
 
@@ -1868,9 +1868,9 @@ forwards quickly to attack him at once.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**38:** Beholding him of dreadful form stationed upon his chariot, the foremost of chariot-warriors, those great-souled forest-dwellers who were the chief leaders (pradhānā ye vanaukasaḥ) rushed upon him.
+**38:** Beholding him of dreadful form stationed upon his chariot, the foremost of chariot-warriors, those great-souled forest-dwellers who were the chief leaders (_pradhānā ye vanaukasaḥ_) rushed upon him.
 
-**39:** Kumuda, Dvivida, Mainda, Nīla, and Śarabha as well rushed upon him simultaneously (yugapat samabhidravan) with trees and mountain peaks (pādapair giriśṛṅgaiś ca).
+**39:** Kumuda, Dvivida, Mainda, Nīla, and Śarabha as well rushed upon him simultaneously (_yugapat samabhidravan_) with trees and mountain peaks (_pādapair giriśṛṅgaiś ca_).
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ off their trees and crags with his arrows decked with gold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his gold-decked arrows (śaraiḥ kanakabhūṣaṇaiḥ), Atikāya of great splendor, the foremost of those who know missile-weapons (astravidāṃ varaḥ), severed their trees and crags.
+With his gold-decked arrows (_śaraiḥ kanakabhūṣaṇaiḥ_), Atikāya of great splendor, the foremost of those who know missile-weapons (_astravidāṃ varaḥ_), severed their trees and crags.
 </details>
 </details>
 
@@ -1975,7 +1975,7 @@ facing in front of him in battle with arrows fully made of iron.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that mighty night-stalker of dreadful body (bhīmakāyo niśācaraḥ) pierced all those monkeys facing him in battle (abhimukhān saṃkhye) with shafts forged entirely of iron (śaraiḥ sarvāyasaiḥ).
+And that mighty night-stalker of dreadful body (_bhīmakāyo niśācaraḥ_) pierced all those monkeys facing him in battle (_abhimukhān saṃkhye_) with shafts forged entirely of iron (_śaraiḥ sarvāyasaiḥ_).
 </details>
 </details>
 
@@ -2030,7 +2030,7 @@ Atikaya's arrows in that great battle, were unable to retaliate on him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tormented by that shower of arrows (arditā bāṇavarṣeṇa), their limbs mangled and defeated, they were unable to retaliate (na śekuḥ pratikartum) against Atikāya in that great battle.
+Tormented by that shower of arrows (_arditā bāṇavarṣeṇa_), their limbs mangled and defeated, they were unable to retaliate (_na śekuḥ pratikartum_) against Atikāya in that great battle.
 </details>
 </details>
 
@@ -2090,7 +2090,7 @@ as an enraged lion frightens a herd of deers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That Rākṣasa struck terror into that host of Vānara heroes, just as a wrathful lion flushed with youth (harir yauvanadarpitaḥ) terrifies a herd of deer (mṛgayūtham iva).
+That Rākṣasa struck terror into that host of Vānara heroes, just as a wrathful lion flushed with youth (_harir yauvanadarpitaḥ_) terrifies a herd of deer (_mṛgayūtham iva_).
 </details>
 </details>
 
@@ -2151,7 +2151,7 @@ spoke haughty words (to him) as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of the monkey host, that lord of Rākṣasas did not strike anyone who was not fighting (nāyudhyamānaṃ nijaghāna kaṃcit); springing forward toward Rāma, armed with bow and quiver (dhanuḥkalāpī), he spoke these arrogant words (sagarvitaṃ vākyam):
+In the midst of the monkey host, that lord of Rākṣasas did not strike anyone who was not fighting (_nāyudhyamānaṃ nijaghāna kaṃcit_); springing forward toward Rāma, armed with bow and quiver (_dhanuḥkalāpī_), he spoke these arrogant words (_sagarvitaṃ vākyam_):
 </details>
 </details>
 
@@ -2212,7 +2212,7 @@ quickly."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Stationed upon my chariot with arrow and bow in hand (śaracāpapāṇiḥ), I do not fight any common soldier (na prākṛtaṃ kaṃcana yodhayāmi); whoever possesses strength and is endowed with resolve (vyavasāyayuktaḥ), let him swiftly give me battle here today!”
+“Stationed upon my chariot with arrow and bow in hand (_śaracāpapāṇiḥ_), I do not fight any common soldier (_na prākṛtaṃ kaṃcana yodhayāmi_); whoever possesses strength and is endowed with resolve (_vyavasāyayuktaḥ_), let him swiftly give me battle here today!”
 </details>
 </details>
 
@@ -2263,7 +2263,7 @@ bear his words and smiling, he rose up quickly and took up his bow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of him speaking thus, the son of Sumitrā [Lakṣmaṇa], slayer of foes (saumitrir amitrahantā), grew wrathful; unable to brook it (amṛṣyamāṇaś ca), he leaped up, and smiling disdainfully (smayitvā), seized his bow.
+Hearing those words of him speaking thus, the son of Sumitrā [Lakṣmaṇa], slayer of foes (_saumitrir amitrahantā_), grew wrathful; unable to brook it (_amṛṣyamāṇaś ca_), he leaped up, and smiling disdainfully (_smayitvā_), seized his bow.
 </details>
 </details>
 
@@ -2310,7 +2310,7 @@ quiver pulled out his great bow in front of Atikaya.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enraged, the son of Sumitrā sprang forward, drew forth an arrow from his quiver (tūṇād ākṣipya sāyakam), and in front of Atikāya stretched his mighty bow (vicakarṣa mahad dhanuḥ).
+Enraged, the son of Sumitrā sprang forward, drew forth an arrow from his quiver (_tūṇād ākṣipya sāyakam_), and in front of Atikāya stretched his mighty bow (_vicakarṣa mahad dhanuḥ_).
 </details>
 </details>
 
@@ -2363,7 +2363,7 @@ ocean, was angry, frightening the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filling the entire earth, the sky, the ocean, and the quarters, the dreadful twang of Lakṣmaṇa's bowstring (jyāśabdo lakṣmaṇasyograḥ) arose, terrifying the night-stalkers (trāsayan rajanīcarān).
+Filling the entire earth, the sky, the ocean, and the quarters, the dreadful twang of Lakṣmaṇa&#x27;s bowstring (_jyāśabdo lakṣmaṇasyograḥ_) arose, terrifying the night-stalkers (_trāsayan rajanīcarān_).
 </details>
 </details>
 
@@ -2423,7 +2423,7 @@ splendour, was surprised.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that terrifying twang of the bow of Sumitrā's son (saumitreś cāpanirghoṣaṃ śrutvā), the mighty and resplendent son of the Rākṣasa lord was astonished (visismiye).
+Hearing that terrifying twang of the bow of Sumitrā&#x27;s son (_saumitreś cāpanirghoṣaṃ śrutvā_), the mighty and resplendent son of the Rākṣasa lord was astonished (_visismiye_).
 </details>
 </details>
 
@@ -2469,7 +2469,7 @@ and taking a sharp arrow, spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Atikāya, angered upon seeing Lakṣmaṇa risen up (dṛṣṭvā lakṣmaṇam utthitam), took up a whetted arrow (ādāya niśitaṃ bāṇam) and spoke these words:
+Then Atikāya, angered upon seeing Lakṣmaṇa risen up (_dṛṣṭvā lakṣmaṇam utthitam_), took up a whetted arrow (_ādāya niśitaṃ bāṇam_) and spoke these words:
 </details>
 </details>
 
@@ -2519,7 +2519,7 @@ fight with me, who is like Yama the Lord of Death? Go away."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thou art a mere boy, O Saumitri (bālas tvam asi saumitre), unskilled in deeds of valor (vikrameṣv avicakṣaṇaḥ)! Begone! Why dost thou wish to fight me, who resemble Death [Kāla] himself?
+“Thou art a mere boy, O Saumitri (_bālas tvam asi saumitre_), unskilled in deeds of valor (_vikrameṣv avicakṣaṇaḥ_)! Begone! Why dost thou wish to fight me, who resemble Death [Kāla] himself?
 </details>
 </details>
 
@@ -2571,7 +2571,7 @@ speed of arrows released by my arms."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, not even Himavān, nor the mid-space, nor the earth (antarikṣam atho mahī) can endure the momentum (soḍhum utsahate vegam) of the arrows loosed by my arms (madbāhusṛṣṭānāṃ bāṇānām)!
+Indeed, not even Himavān, nor the mid-space, nor the earth (_antarikṣam atho mahī_) can endure the momentum (_soḍhum utsahate vegam_) of the arrows loosed by my arms (_madbāhusṛṣṭānāṃ bāṇānām_)!
 </details>
 </details>
 
@@ -2627,7 +2627,7 @@ bow here, go back. Do not lose your life, by fighting against me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thou wishest to awaken the fire of universal dissolution (kālāgnim) that is peacefully asleep (sukhaprasuptam)! Lay down thy bow, turn back (nyasya cāpaṃ nivartasva), and do not forfeit thy life by coming against me (prāṇān na jahi madgataḥ)!
+Thou wishest to awaken the fire of universal dissolution (_kālāgnim_) that is peacefully asleep (_sukhaprasuptam_)! Lay down thy bow, turn back (_nyasya cāpaṃ nivartasva_), and do not forfeit thy life by coming against me (_prāṇān na jahi madgataḥ_)!
 </details>
 </details>
 
@@ -2682,7 +2682,7 @@ your lives, you will reach the abode of Yama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or if thou art obstinately proud (pratistabdhaḥ) and dost not wish to turn back, stand fast (tiṣṭha)! Abandoning thy life-breaths, thou shalt go to the abode of Yama (gamiṣyasi yamakṣayam)!”
+Or if thou art obstinately proud (_pratistabdhaḥ_) and dost not wish to turn back, stand fast (_tiṣṭha_)! Abandoning thy life-breaths, thou shalt go to the abode of Yama (_gamiṣyasi yamakṣayam_)!”
 </details>
 </details>
 
@@ -2725,7 +2725,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold my whetted arrows, crushers of the pride of foes (ripudarpaniṣūdanān), resembling the weapon of Īśvara [Śiva] (īśvarāyudhasaṃkāśān) and adorned with refined gold (taptakāñcanabhūṣaṇān)!
+“Behold my whetted arrows, crushers of the pride of foes (_ripudarpaniṣūdanān_), resembling the weapon of Īśvara [Śiva] (_īśvarāyudhasaṃkāśān_) and adorned with refined gold (_taptakāñcanabhūṣaṇān_)!
 </details>
 </details>
 
@@ -2790,7 +2790,7 @@ of an elephant. "Thus speaking, Atikaya was enraged and fixed an arrow on his bo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This serpent-like arrow (sarpasaṃkāśo bāṇaḥ) shall drink thy blood (pāsyati śoṇitam), just as an enraged lion, king of beasts (mṛgarāja iva kruddhaḥ), drinks the blood of the king of elephants!” Having spoken thus, enraged, he fitted an arrow to his bow (śaraṃ dhanuṣi saṃdadhe).
+This serpent-like arrow (_sarpasaṃkāśo bāṇaḥ_) shall drink thy blood (_pāsyati śoṇitam_), just as an enraged lion, king of beasts (_mṛgarāja iva kruddhaḥ_), drinks the blood of the king of elephants!” Having spoken thus, enraged, he fitted an arrow to his bow (_śaraṃ dhanuṣi saṃdadhe_).
 </details>
 </details>
 
@@ -2851,7 +2851,7 @@ also spoke as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the wrathful and arrogant speech of Atikāya in battle (saṃyati), that prince [Lakṣmaṇa] of exceeding might and high spirit (atibalo manasvī) was filled with indignation and spoke a speech of great import (vākyaṃ mahārtham):
+Hearing the wrathful and arrogant speech of Atikāya in battle (_saṃyati_), that prince [Lakṣmaṇa] of exceeding might and high spirit (_atibalo manasvī_) was filled with indignation and spoke a speech of great import (_vākyaṃ mahārtham_):
 </details>
 </details>
 
@@ -2912,7 +2912,7 @@ strength in me, who is standing with an arrow in hand and wielding a bow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not by mere words art thou preeminent (na vākyamātreṇa bhavān pradhānaḥ), nor do men become noble heroes through boasting (na katthanāt satpuruṣā bhavanti)! While I stand here, bow in hand and holding arrows, display thy strength, O wicked-souled one (nidarśayasvātmabalaṃ durātman)!
+“Not by mere words art thou preeminent (_na vākyamātreṇa bhavān pradhānaḥ_), nor do men become noble heroes through boasting (_na katthanāt satpuruṣā bhavanti_)! While I stand here, bow in hand and holding arrows, display thy strength, O wicked-souled one (_nidarśayasvātmabalaṃ durātman_)!
 </details>
 </details>
 
@@ -2958,7 +2958,7 @@ with valour alone is declared as a warrior."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reveal thyself by action (karmaṇā sūcayātmānam); thou oughtest not to boast (na vikatthitum arhasi)! He alone who is endowed with manly valor (pauruṣeṇa tu yo yuktaḥ) is remembered as a hero (śūra iti smṛtaḥ).
+Reveal thyself by action (_karmaṇā sūcayātmānam_); thou oughtest not to boast (_na vikatthitum arhasi_)! He alone who is endowed with manly valor (_pauruṣeṇa tu yo yuktaḥ_) is remembered as a hero (_śūra iti smṛtaḥ_).
 </details>
 </details>
 
@@ -3007,7 +3007,7 @@ prowess either by your arrows or even by your weapons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Equipped with every weapon, bow in hand, thou standest upon a chariot; whether with arrows or with divine missiles (śarair vā yadi vāpy astraiḥ), display thy prowess!”
+Equipped with every weapon, bow in hand, thou standest upon a chariot; whether with arrows or with divine missiles (_śarair vā yadi vāpy astraiḥ_), display thy prowess!”
 </details>
 </details>
 
@@ -3065,7 +3065,7 @@ fan-palm, ripened by its time, is fallen down from its stalk by the gust of a wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then with my whetted arrows I shall strike down thy head (śiras te niśitaiḥ pātayiṣyāmy ahaṃ śaraiḥ), just as the wind strikes down from its stalk (vṛntāt) a palmyra fruit ripened by time (kālasampakvaṃ tālaphalaṃ yathā)!
+“Then with my whetted arrows I shall strike down thy head (_śiras te niśitaiḥ pātayiṣyāmy ahaṃ śaraiḥ_), just as the wind strikes down from its stalk (_vṛntāt_) a palmyra fruit ripened by time (_kālasampakvaṃ tālaphalaṃ yathā_)!
 </details>
 </details>
 
@@ -3111,7 +3111,7 @@ from the holes formed in your body by the sharp points of my arrows."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today my arrows, adorned with refined gold (taptakāñcanabhūṣaṇāḥ), shall drink the blood from thy body (pāsyanti rudhiraṃ gātrāt) welling up from the wounds torn by my arrow-tips (bāṇaśalyāntarotthitam)!
+Today my arrows, adorned with refined gold (_taptakāñcanabhūṣaṇāḥ_), shall drink the blood from thy body (_pāsyanti rudhiraṃ gātrāt_) welling up from the wounds torn by my arrow-tips (_bāṇaśalyāntarotthitam_)!
 </details>
 </details>
 
@@ -3171,7 +3171,7 @@ worlds just with his three strides, Didn't he?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeming ‘This one is a mere boy’ (bālo 'yam iti vijñāya), thou oughtest not to despise me (na cāvajñātum arhasi); whether a boy or an old man, know me to be Death in battle (mṛtyuṃ jānīhi saṃyuge)!
+Deeming ‘This one is a mere boy’ (_bālo &#x27;yam iti vijñāya_), thou oughtest not to despise me (_na cāvajñātum arhasi_); whether a boy or an old man, know me to be Death in battle (_mṛtyuṃ jānīhi saṃyuge_)!
 </details>
 </details>
 
@@ -3219,7 +3219,7 @@ much enraged and took out an excellent arrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By the boy Viṣṇu (bālena viṣṇunā) the three worlds were traversed with three strides (lokās trayaḥ krāntās trivikramaiḥ)!” Hearing the reasoned and deeply significant speech of Lakṣmaṇa (hetumat paramārthavat), Atikāya grew furious and took up a supreme arrow.
+By the boy Viṣṇu (_bālena viṣṇunā_) the three worlds were traversed with three strides (_lokās trayaḥ krāntās trivikramaiḥ_)!” Hearing the reasoned and deeply significant speech of Lakṣmaṇa (_hetumat paramārthavat_), Atikāya grew furious and took up a supreme arrow.
 </details>
 </details>
 
@@ -3273,7 +3273,7 @@ souled ones saw that battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Vidyādharas, Bhūtas, gods, Daityas, great sages (maharṣayaḥ), and great-souled Guhyakas came to behold that battle (tad yuddhaṃ draṣṭum āgaman).
+Then Vidyādharas, Bhūtas, gods, Daityas, great sages (_maharṣayaḥ_), and great-souled Guhyakas came to behold that battle (_tad yuddhaṃ draṣṭum āgaman_).
 </details>
 </details>
 
@@ -3326,7 +3326,7 @@ towards Lakshmana, as though he were shrinking up the space in between.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the wrathful Atikāya, fitting that arrow to his bow (cāpam āropya sāyakam), hurled it at Lakṣmaṇa, as though contracting the very sky (saṃkṣipann iva cāmbaram).
+Then the wrathful Atikāya, fitting that arrow to his bow (_cāpam āropya sāyakam_), hurled it at Lakṣmaṇa, as though contracting the very sky (_saṃkṣipann iva cāmbaram_).
 </details>
 </details>
 
@@ -3380,7 +3380,7 @@ arrow, which was falling down on him, with his crescent-pointed arrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a crescent-headed arrow (ardhacandreṇa), Lakṣmaṇa, slayer of hostile heroes (paravīrahā), severed that oncoming, whetted shaft which resembled a venomous serpent (śaram āśīviṣopamam).
+With a crescent-headed arrow (_ardhacandreṇa_), Lakṣmaṇa, slayer of hostile heroes (_paravīrahā_), severed that oncoming, whetted shaft which resembled a venomous serpent (_śaram āśīviṣopamam_).
 </details>
 </details>
 
@@ -3430,7 +3430,7 @@ Atikaya was very much enraged and fitted five arrows to his bow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that arrow severed like a serpent with its hood lopped off (kṛttabhogam ivoragam), Atikāya, exceedingly enraged (bhṛśaṃ kruddhaḥ), fitted five arrows to his bow (pañca bāṇān samādadhe).
+Beholding that arrow severed like a serpent with its hood lopped off (_kṛttabhogam ivoragam_), Atikāya, exceedingly enraged (_bhṛśaṃ kruddhaḥ_), fitted five arrows to his bow (_pañca bāṇān samādadhe_).
 </details>
 </details>
 
@@ -3482,7 +3482,7 @@ Lakshmana chopped them off with his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The night-stalker hurled those arrows at Lakṣmaṇa; before they could reach him (tān aprāptān), the younger brother of Bharata severed them with sharp shafts (śitair bāṇaiś ciccheda).
+The night-stalker hurled those arrows at Lakṣmaṇa; before they could reach him (_tān aprāptān_), the younger brother of Bharata severed them with sharp shafts (_śitair bāṇaiś ciccheda_).
 </details>
 </details>
 
@@ -3538,7 +3538,7 @@ enemy-warriors, took up a sharp arrow, as though it was blazing with a glow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having severed those arrows with his sharp shafts, Lakṣmaṇa, slayer of hostile heroes, took up a whetted arrow blazing as if with fire (jvalantam iva tejasā).
+Having severed those arrows with his sharp shafts, Lakṣmaṇa, slayer of hostile heroes, took up a whetted arrow blazing as if with fire (_jvalantam iva tejasā_).
 </details>
 </details>
 
@@ -3584,7 +3584,7 @@ force and released it.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking it up, Lakṣmaṇa fitted it to his foremost of bows (dhanuḥśreṣṭhe yojayām āsa), drew it back with force (vicakarṣa ca vegena), and loosed the shaft (visasarja ca sāyakam).
+Taking it up, Lakṣmaṇa fitted it to his foremost of bows (_dhanuḥśreṣṭhe yojayām āsa_), drew it back with force (_vicakarṣa ca vegena_), and loosed the shaft (_visasarja ca sāyakam_).
 </details>
 </details>
 
@@ -3636,7 +3636,7 @@ forehead of that excellent demon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that smooth-knotted arrow (śareṇa nataparvaṇā), loosed after being drawn to the full (pūrṇāyatavisṛṣṭena), that valiant prince struck the foremost of Rākṣasas upon the forehead (lalāṭe rākṣasaśreṣṭham ājaghāna).
+With that smooth-knotted arrow (_śareṇa nataparvaṇā_), loosed after being drawn to the full (_pūrṇāyatavisṛṣṭena_), that valiant prince struck the foremost of Rākṣasas upon the forehead (_lalāṭe rākṣasaśreṣṭham ājaghāna_).
 </details>
 </details>
 
@@ -3697,7 +3697,7 @@ appeared like a serpent-king on a mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sunk into the forehead of that dreadful Rākṣasa (lalāṭe śaro magnas tasya bhīmasya rakṣasaḥ), that arrow smeared with blood (śoṇitenāktaḥ) shone like a lordly serpent upon a mountain (pannagendra ivācale).
+Sunk into the forehead of that dreadful Rākṣasa (_lalāṭe śaro magnas tasya bhīmasya rakṣasaḥ_), that arrow smeared with blood (_śoṇitenāktaḥ_) shone like a lordly serpent upon a mountain (_pannagendra ivācale_).
 </details>
 </details>
 
@@ -3754,7 +3754,7 @@ Maya for the demons) was struck by Shiva's arrow.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sorely hurt by Lakṣmaṇa's arrow (lakṣmaṇeṣuprapīḍitaḥ), the Rākṣasa then trembled violently (pracakampe), like the dreadful gateway of Tripura struck by the arrow of Rudra (rudrabāṇahataṃ ghoraṃ yathā tripuragopuram).
+Sorely hurt by Lakṣmaṇa&#x27;s arrow (_lakṣmaṇeṣuprapīḍitaḥ_), the Rākṣasa then trembled violently (_pracakampe_), like the dreadful gateway of Tripura struck by the arrow of Rudra (_rudrabāṇahataṃ ghoraṃ yathā tripuragopuram_).
 </details>
 </details>
 
@@ -3832,9 +3832,9 @@ ascended the top of his chariot and roamed about hither and thither by his chari
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**75:** Recovering his breath and reflecting (āśvāsya vimṛśya ca), that warrior of mighty strength pondered [and said]: “Well done (sādhu)! By the striking of thy shaft thou art a foe worthy of my praise (ślāghanīyo 'si me ripuḥ)!”
+**75:** Recovering his breath and reflecting (_āśvāsya vimṛśya ca_), that warrior of mighty strength pondered [and said]: “Well done (_sādhu_)! By the striking of thy shaft thou art a foe worthy of my praise (_ślāghanīyo &#x27;si me ripuḥ_)!”
 
-**76:** Having spoken thus (vidhāyaivam), opening wide his mouth (vidāryāsyam), and holding firm his two mighty arms (niyamya ca mahābhujau), he took his stand upon the chariot-platform (rathopastham āsthāya) and wheeled about in his chariot.
+**76:** Having spoken thus (_vidhāyaivam_), opening wide his mouth (_vidāryāsyam_), and holding firm his two mighty arms (_niyamya ca mahābhujau_), he took his stand upon the chariot-platform (_rathopastham āsthāya_) and wheeled about in his chariot.
 </details>
 </details>
 
@@ -3886,7 +3886,7 @@ and fixed them to his bow, stretched it and released the arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus that bull among Rākṣasas took up, fitted, drew, and loosed arrows by ones, threes, fives, and sevens (evaṃ trīn pañca sapteti sāyakān).
+Thus that bull among Rākṣasas took up, fitted, drew, and loosed arrows by ones, threes, fives, and sevens (_evaṃ trīn pañca sapteti sāyakān_).
 </details>
 </details>
 
@@ -3935,7 +3935,7 @@ Death, with golden shafts and shining like the sun, set the sky ablaze.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those arrows resembling Death (kālasaṃkāśāḥ), sped from the bow of the Rākṣasa prince, winged with gold and bright as the sun (hemapuṅkhā raviprakhyāḥ), made the sky look as though ablaze (cakrur dīptam ivāmbaram).
+Those arrows resembling Death (_kālasaṃkāśāḥ_), sped from the bow of the Rākṣasa prince, winged with gold and bright as the sun (_hemapuṅkhā raviprakhyāḥ_), made the sky look as though ablaze (_cakrur dīptam ivāmbaram_).
 </details>
 </details>
 
@@ -3998,7 +3998,7 @@ foremost of demons, by the multitude of his sharp arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, unperturbed (asambhrāntaḥ), the younger brother of Rāghava severed those floods of arrows (śaraughān) loosed by the Rākṣasa with many whetted shafts.
+Then, unperturbed (_asambhrāntaḥ_), the younger brother of Rāghava severed those floods of arrows (_śaraughān_) loosed by the Rākṣasa with many whetted shafts.
 </details>
 </details>
 
@@ -4044,7 +4044,7 @@ releasing it, struck the approaching Lakshmana in the middle of his chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing those arrows severed in battle, the son of Rāvaṇa, foe of the lord of the thirty gods [Indra] (tridaśendrāriḥ), grew wrathful and seized a sharp arrow.
+Seeing those arrows severed in battle, the son of Rāvaṇa, foe of the lord of the thirty gods [Indra] (_tridaśendrāriḥ_), grew wrathful and seized a sharp arrow.
 </details>
 </details>
 
@@ -4100,7 +4100,7 @@ releasing it, struck the approaching Lakshmana in the middle of his chest.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Fitting that arrow, that warrior of mighty splendor suddenly loosed it (sahasotsṛjat), and with it struck the advancing son of Sumitrā squarely in the chest (ājaghāna stanāntare).
+Fitting that arrow, that warrior of mighty splendor suddenly loosed it (_sahasotsṛjat_), and with it struck the advancing son of Sumitrā squarely in the chest (_ājaghāna stanāntare_).
 </details>
 </details>
 
@@ -4146,7 +4146,7 @@ the fluid exuding from a rutting elephant.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Struck upon the chest in battle by Atikāya, the son of Sumitrā shed copiously a fierce stream of blood (susrāva rudhiraṃ tīvram), just as a rutting elephant sheds ichor (madaṃ matta iva dvipaḥ).
+Struck upon the chest in battle by Atikāya, the son of Sumitrā shed copiously a fierce stream of blood (_susrāva rudhiraṃ tīvram_), just as a rutting elephant sheds ichor (_madaṃ matta iva dvipaḥ_).
 </details>
 </details>
 
@@ -4202,7 +4202,7 @@ up a sharp arrow and fixed it with a missile.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that lordly hero (vibhuḥ) instantaneously rendered himself free of the arrow-point (cakāra tadātmānaṃ viśalyaṃ sahasā), seized a sharp arrow, and charged it with a divine missile (astreṇāpi samādadhe).
+Then that lordly hero (_vibhuḥ_) instantaneously rendered himself free of the arrow-point (_cakāra tadātmānaṃ viśalyaṃ sahasā_), seized a sharp arrow, and charged it with a divine missile (_astreṇāpi samādadhe_).
 </details>
 </details>
 
@@ -4254,7 +4254,7 @@ souled Lakshmana and as also the bow, caused a flame to blaze.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He joined that shaft with the fiery missile (āgneyena tadāstreṇa yojayām āsa sāyakam); and then that arrow blazed forth upon the bow of that great-souled prince (sa jajvāla tadā bāṇo dhanuṣy asya mahātmanaḥ).
+He joined that shaft with the fiery missile (_āgneyena tadāstreṇa yojayām āsa sāyakam_); and then that arrow blazed forth upon the bow of that great-souled prince (_sa jajvāla tadā bāṇo dhanuṣy asya mahātmanaḥ_).
 </details>
 </details>
 
@@ -4317,7 +4317,7 @@ having a golden shaft as also looking like a serpent.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Atikāya of exceeding splendor invoked a fierce celestial missile (raudram astraṃ samādade), and with it he charged a gold-feathered arrow resembling a serpent (bāṇaṃ bhujaṅgābhaṃ hemapuṅkham ayojayat).
+Atikāya of exceeding splendor invoked a fierce celestial missile (_raudram astraṃ samādade_), and with it he charged a gold-feathered arrow resembling a serpent (_bāṇaṃ bhujaṅgābhaṃ hemapuṅkham ayojayat_).
 </details>
 </details>
 
@@ -4370,7 +4370,7 @@ that mystic missile as Yama the lord of Death would hurl his rod of destruction.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lakṣmaṇa hurled at Atikāya that blazing, dreadful missile-charged arrow (tad astraṃ jvalitaṃ ghoraṃ śaram āhitam), just as Antaka [Death] hurls the rod of Time (kāladaṇḍam ivāntakaḥ).
+Lakṣmaṇa hurled at Atikāya that blazing, dreadful missile-charged arrow (_tad astraṃ jvalitaṃ ghoraṃ śaram āhitam_), just as Antaka [Death] hurls the rod of Time (_kāladaṇḍam ivāntakaḥ_).
 </details>
 </details>
 
@@ -4402,7 +4402,7 @@ Lakṣmaṇa hurled at Atikāya that blazing, dreadful missile-charged arrow (ta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that arrow conjoined with the fiery missile (āgneyāstrābhisaṃyuktaṃ dṛṣṭvā bāṇam), the night-stalker then loosed his fierce arrow charged with the missile of the Sun (utsasarja tadā bāṇaṃ raudraṃ sūryāstrayojitam).
+Beholding that arrow conjoined with the fiery missile (_āgneyāstrābhisaṃyuktaṃ dṛṣṭvā bāṇam_), the night-stalker then loosed his fierce arrow charged with the missile of the Sun (_utsasarja tadā bāṇaṃ raudraṃ sūryāstrayojitam_).
 </details>
 </details>
 
@@ -4469,9 +4469,9 @@ the sky, like two enraged serpents.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**88:** In the sky those two arrows struck one another (tāv ubhāv ambare bāṇāv anyonyam abhijaghnatuḥ), their tips blazing with energy like two enraged serpents (kruddhāv iva bhujaṅgamau); having consumed each other (tāv anyonyaṃ vinirdahya), they fell upon the surface of the earth.
+**88:** In the sky those two arrows struck one another (_tāv ubhāv ambare bāṇāv anyonyam abhijaghnatuḥ_), their tips blazing with energy like two enraged serpents (_kruddhāv iva bhujaṅgamau_); having consumed each other (_tāv anyonyaṃ vinirdahya_), they fell upon the surface of the earth.
 
-**89:** Bereft of flame and reduced to ashes (nirarciṣau bhasmakṛtau), those two foremost of arrows shone no more; though they had blazed before (dīpyamānau sma), both shone no more upon the surface of the earth.
+**89:** Bereft of flame and reduced to ashes (_nirarciṣau bhasmakṛtau_), those two foremost of arrows shone no more; though they had blazed before (_dīpyamānau sma_), both shone no more upon the surface of the earth.
 </details>
 </details>
 
@@ -4519,7 +4519,7 @@ longer on the earth's surface, in that they were without a flame and had been re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the enraged Atikāya loosed the Aiṣīka missile of Tvaṣṭṛ (tvāṣṭram aiṣīkam utsṛjat); and the valiant son of Sumitrā severed that missile with the missile of Indra (tataś ciccheda saumitrir astram aindreṇa vīryavān).
+Then the enraged Atikāya loosed the Aiṣīka missile of Tvaṣṭṛ (_tvāṣṭram aiṣīkam utsṛjat_); and the valiant son of Sumitrā severed that missile with the missile of Indra (_tataś ciccheda saumitrir astram aindreṇa vīryavān_).
 </details>
 </details>
 
@@ -4585,7 +4585,7 @@ his missile presided over by Indra the lord of celestials.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his Aiṣīka missile destroyed (aiṣīkaṃ nihataṃ dṛṣṭvā), the young prince, son of Rāvaṇa (kumāro rāvaṇātmajaḥ), grew furious and charged an arrow with the missile of Yama (yāmyenāstreṇa yojayām āsa sāyakam).
+Beholding his Aiṣīka missile destroyed (_aiṣīkaṃ nihataṃ dṛṣṭvā_), the young prince, son of Rāvaṇa (_kumāro rāvaṇātmajaḥ_), grew furious and charged an arrow with the missile of Yama (_yāmyenāstreṇa yojayām āsa sāyakam_).
 </details>
 </details>
 
@@ -4656,9 +4656,9 @@ by a missile presided over by the wind-god.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**92:** Then the night-stalker hurled that missile at Lakṣmaṇa; and Lakṣmaṇa struck down that missile with the missile of Vāyu [the Wind-god] (vāyavyena tad astreṇa nijaghāna).
+**92:** Then the night-stalker hurled that missile at Lakṣmaṇa; and Lakṣmaṇa struck down that missile with the missile of Vāyu [the Wind-god] (_vāyavyena tad astreṇa nijaghāna_).
 
-**93:** Then the enraged Lakṣmaṇa showered the son of Rāvaṇa with streams of arrows (śaradhārābhiḥ), just as a rain-cloud showers down torrents of rain (dhārābhir iva toyadaḥ).
+**93:** Then the enraged Lakṣmaṇa showered the son of Rāvaṇa with streams of arrows (_śaradhārābhiḥ_), just as a rain-cloud showers down torrents of rain (_dhārābhir iva toyadaḥ_).
 </details>
 </details>
 
@@ -4704,7 +4704,7 @@ cloud showers hails of down-pour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Reaching Atikāya and striking against his diamond-adorned armor (kavace vajrabhūṣite), those arrows suddenly fell to the surface of the earth with their tips and points shattered (bhagnāgraśalyāḥ).
+Reaching Atikāya and striking against his diamond-adorned armor (_kavace vajrabhūṣite_), those arrows suddenly fell to the surface of the earth with their tips and points shattered (_bhagnāgraśalyāḥ_).
 </details>
 </details>
 
@@ -4751,7 +4751,7 @@ armour, adorned with diamonds and instantly fell on the earth's surface.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing them rendered vain (tān moghān abhisamprekṣya), Lakṣmaṇa, slayer of hostile heroes and of great renown (mahāyaśāḥ), showered him with a thousand arrows (abhyavarṣata bāṇānāṃ sahasreṇa).
+Seeing them rendered vain (_tān moghān abhisamprekṣya_), Lakṣmaṇa, slayer of hostile heroes and of great renown (_mahāyaśāḥ_), showered him with a thousand arrows (_abhyavarṣata bāṇānāṃ sahasreṇa_).
 </details>
 </details>
 
@@ -4798,7 +4798,7 @@ annihilator of enemy-warriors, showered forth arrows in thousands.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though rained upon by floods of arrows (vṛṣyamāṇo bāṇaughaiḥ), that Rākṣasa Atikāya of mighty strength, protected by impenetrable armor (avadhyakavacaḥ), did not waver at all in battle (naiva vivyathe).
+Though rained upon by floods of arrows (_vṛṣyamāṇo bāṇaughaiḥ_), that Rākṣasa Atikāya of mighty strength, protected by impenetrable armor (_avadhyakavacaḥ_), did not waver at all in battle (_naiva vivyathe_).
 </details>
 </details>
 
@@ -4858,7 +4858,7 @@ in battle because of the inviolability of his armour.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And [Atikāya] loosed at Lakṣmaṇa an arrow shaped like a venomous serpent (śaraṃ cāśīviṣākāraṃ lakṣmaṇāya vyapāsṛjat); pierced in a vital spot (marmadeśe) by that arrow, the son of Sumitrā—
+And [Atikāya] loosed at Lakṣmaṇa an arrow shaped like a venomous serpent (_śaraṃ cāśīviṣākāraṃ lakṣmaṇāya vyapāsṛjat_); pierced in a vital spot (_marmadeśe_) by that arrow, the son of Sumitrā—
 </details>
 </details>
 
@@ -4914,7 +4914,7 @@ a moment.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—that tormentor of foes (śatrutāpanaḥ), became momentarily stunned (muhūrtamātraṃ niḥsaṃjño hy abhavat); then, regaining consciousness (saṃjñām upālabhya), with four supreme shafts—
+—that tormentor of foes (_śatrutāpanaḥ_), became momentarily stunned (_muhūrtamātraṃ niḥsaṃjño hy abhavat_); then, regaining consciousness (_saṃjñām upālabhya_), with four supreme shafts—
 </details>
 </details>
 
@@ -4979,9 +4979,9 @@ combat, with his four excellent arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**99:** —that warrior of mighty strength slew his steeds and his charioteer in battle (nijaghāna hayān saṃkhye sārathiṃ ca), and, tamer of foes (ariṃdamaḥ), tore down his banner-staff (dhvajasyonmathanaṃ kṛtvā) with showers of arrows.
+**99:** —that warrior of mighty strength slew his steeds and his charioteer in battle (_nijaghāna hayān saṃkhye sārathiṃ ca_), and, tamer of foes (_ariṃdamaḥ_), tore down his banner-staff (_dhvajasyonmathanaṃ kṛtvā_) with showers of arrows.
 
-**100:** Unperturbed (asambhrāntaḥ), that son of Sumitrā—Lakṣmaṇa—loosed those well-aimed arrows (mumoca lakṣmaṇo bāṇān abhilakṣitān) in order to slay that Rākṣasa (vadhārthaṃ tasya rakṣasaḥ).
+**100:** Unperturbed (_asambhrāntaḥ_), that son of Sumitrā—Lakṣmaṇa—loosed those well-aimed arrows (_mumoca lakṣmaṇo bāṇān abhilakṣitān_) in order to slay that Rākṣasa (_vadhārthaṃ tasya rakṣasaḥ_).
 </details>
 </details>
 
@@ -5029,7 +5029,7 @@ aiming at that demon, for the purpose of killing him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet that foremost of men (narottamaḥ) was unable to inflict any hurt upon him in battle (na śaśāka rujaṃ kartuṃ yudhi tasya); then, approaching him (athainam abhyupāgamya), Vāyu [the Wind-god] spoke these words:
+Yet that foremost of men (_narottamaḥ_) was unable to inflict any hurt upon him in battle (_na śaśāka rujaṃ kartuṃ yudhi tasya_); then, approaching him (_athainam abhyupāgamya_), Vāyu [the Wind-god] spoke these words:
 </details>
 </details>
 
@@ -5107,9 +5107,9 @@ Atikaya, with that armour, cannot be destroyed by other missiles."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**102:** “This warrior has been granted a boon by Brahmā (brahmadattavaro hy eṣaḥ) and is encased in impenetrable armor (avadhyakavacāvṛtaḥ); pierce him with the missile of Brahmā (brāhmeṇāstreṇa bhindhy enam)! He can be slain thus and in no other way (eṣa vadhyo hi nānyathā); for, clad in armor, this mighty demon is invulnerable to all other missiles!”
+**102:** “This warrior has been granted a boon by Brahmā (_brahmadattavaro hy eṣaḥ_) and is encased in impenetrable armor (_avadhyakavacāvṛtaḥ_); pierce him with the missile of Brahmā (_brāhmeṇāstreṇa bhindhy enam_)! He can be slain thus and in no other way (_eṣa vadhyo hi nānyathā_); for, clad in armor, this mighty demon is invulnerable to all other missiles!”
 
-**103:** Then, hearing the words of Vāyu (vāyor vacanaṃ niśamya), the son of Sumitrā, equal to Indra in valor (indrapratimānavīryaḥ), suddenly invoked that missile of Brahmā (tad brāhmam astraṃ sahasā niyujya) and fitted an arrow of fierce velocity (samādadhe bāṇam athogravegam).
+**103:** Then, hearing the words of Vāyu (_vāyor vacanaṃ niśamya_), the son of Sumitrā, equal to Indra in valor (_indrapratimānavīryaḥ_), suddenly invoked that missile of Brahmā (_tad brāhmam astraṃ sahasā niyujya_) and fitted an arrow of fierce velocity (_samādadhe bāṇam athogravegam_).
 </details>
 </details>
 
@@ -5175,7 +5175,7 @@ directed the arrow with a terrific force.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that supreme missile was being invoked (tasmin varāstre tu niyujyamāne) by the son of Sumitrā upon that foremost of sharp-tipped arrows (bāṇavare śitāgre), the quarters, the moon, the sun, the great planets, and the sky trembled (nabhaś ca tatrāsa), and the earth cried out (rarāsa corvī).
+While that supreme missile was being invoked (_tasmin varāstre tu niyujyamāne_) by the son of Sumitrā upon that foremost of sharp-tipped arrows (_bāṇavare śitāgre_), the quarters, the moon, the sun, the great planets, and the sky trembled (_nabhaś ca tatrāsa_), and the earth cried out (_rarāsa corvī_).
 </details>
 </details>
 
@@ -5236,7 +5236,7 @@ Earth also made an uproar.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Conjoining that feathered arrow—which resembled a messenger of Yama (śaraṃ sapuṅkhaṃ yamadūtakalpam)—on his bow with the missile of Brahmā (brahmaṇo 'streṇa niyujya cāpe), the son of Sumitrā loosed that thunderbolt-like shaft in battle against the son of Indra's foe (indrārisutasya tasya).
+Conjoining that feathered arrow—which resembled a messenger of Yama (_śaraṃ sapuṅkhaṃ yamadūtakalpam_)—on his bow with the missile of Brahmā (_brahmaṇo &#x27;streṇa niyujya cāpe_), the son of Sumitrā loosed that thunderbolt-like shaft in battle against the son of Indra&#x27;s foe (_indrārisutasya tasya_).
 </details>
 </details>
 
@@ -5302,7 +5302,7 @@ thunderbolt on Atikaya, the son of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then in battle Atikāya beheld that arrow—whose velocity was augmented by Lakṣmaṇa's release (lakṣmaṇotsṛṣṭavivṛddhavegam), rushing onward with the fierce speed of the wind (śvasanogravegam), and adorned with wondrous feathers like Suparṇa [Garuḍa] and the thunderbolt (suparṇavajrottamacitrapuṅkham).
+Then in battle Atikāya beheld that arrow—whose velocity was augmented by Lakṣmaṇa&#x27;s release (_lakṣmaṇotsṛṣṭavivṛddhavegam_), rushing onward with the fierce speed of the wind (_śvasanogravegam_), and adorned with wondrous feathers like Suparṇa [Garuḍa] and the thunderbolt (_suparṇavajrottamacitrapuṅkham_).
 </details>
 </details>
 
@@ -5368,7 +5368,7 @@ thunderbolt, approaching him in battle.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding it, Atikāya suddenly struck it with many whetted arrows (jaghāna bāṇair niśitair anekaiḥ); yet that shaft, possessing the speed of Suparṇa (suparṇavegaḥ), sped with exceeding velocity right to his side (tathātivegena jagāma pārśvam).
+Beholding it, Atikāya suddenly struck it with many whetted arrows (_jaghāna bāṇair niśitair anekaiḥ_); yet that shaft, possessing the speed of Suparṇa (_suparṇavegaḥ_), sped with exceeding velocity right to his side (_tathātivegena jagāma pārśvam_).
 </details>
 </details>
 
@@ -5436,7 +5436,7 @@ Lakshmana's arrow, with a speed equal to Garuda the eagle, thus reached Atikaya'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that arrow arrived—which resembled blazing Antaka and Kāla (pradīptāntakakālakalpam)—Atikāya, his efforts unslackened (avipannaceṣṭaḥ), struck at it with javelins, double-edged swords, maces, battle-axes, pikes, and arrows (śaktyṛṣṭigadākuṭhāraiḥ śūlaiḥ śaraiś ca).
+Beholding that arrow arrived—which resembled blazing Antaka and Kāla (_pradīptāntakakālakalpam_)—Atikāya, his efforts unslackened (_avipannaceṣṭaḥ_), struck at it with javelins, double-edged swords, maces, battle-axes, pikes, and arrows (_śaktyṛṣṭigadākuṭhāraiḥ śūlaiḥ śaraiś ca_).
 </details>
 </details>
 
@@ -5498,7 +5498,7 @@ approaching him, Atikaya then struck it with spike, spear, mace, axe and arrows.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rendering all those weapons of wondrous form vain (tāny āyudhāny adbhutavigrahāṇi moghāni kṛtvā), that fire-blazing arrow (sa śaro 'gnidīptaḥ) forcibly seized and carried off the diadem-decked head of Atikāya (pragṛhya tasyaiva kirīṭajuṣṭaṃ tadātikāyasya śiro jahāra).
+Rendering all those weapons of wondrous form vain (_tāny āyudhāny adbhutavigrahāṇi moghāni kṛtvā_), that fire-blazing arrow (_sa śaro &#x27;gnidīptaḥ_) forcibly seized and carried off the diadem-decked head of Atikāya (_pragṛhya tasyaiva kirīṭajuṣṭaṃ tadātikāyasya śiro jahāra_).
 </details>
 </details>
 
@@ -5556,7 +5556,7 @@ and taking Atikaya's head, carried it away.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Shattered by Lakṣmaṇa's shaft (lakṣmaṇeṣupramarditam), that head together with its helmet (tac chiraḥ saśirastrāṇam) fell suddenly upon the earth, like a peak of Himavān (śṛṅgaṃ himavato yathā).
+Shattered by Lakṣmaṇa&#x27;s shaft (_lakṣmaṇeṣupramarditam_), that head together with its helmet (_tac chiraḥ saśirastrāṇam_) fell suddenly upon the earth, like a peak of Himavān (_śṛṅgaṃ himavato yathā_).
 </details>
 </details>
 
@@ -5608,7 +5608,7 @@ ground, like a peak of the Himalayan Mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding him fallen upon the earth, his garments and ornaments scattered (vikṣiptāmbarabhūṣaṇam), all the surviving night-stalkers (hataśeṣā niśācarāḥ) were stricken with anguish (babhūvur vyathitāḥ).
+Beholding him fallen upon the earth, his garments and ornaments scattered (_vikṣiptāmbarabhūṣaṇam_), all the surviving night-stalkers (_hataśeṣā niśācarāḥ_) were stricken with anguish (_babhūvur vyathitāḥ_).
 </details>
 </details>
 
@@ -5669,7 +5669,7 @@ all the surviving demons became perturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With dejected faces, wretched, and exhausted by the blows they had suffered (prahārajanitaśramāḥ), many of them suddenly cried out aloud (vinedur uccair bahavaḥ) in dissonant cries (visvaraiḥ svaraiḥ).
+With dejected faces, wretched, and exhausted by the blows they had suffered (_prahārajanitaśramāḥ_), many of them suddenly cried out aloud (_vinedur uccair bahavaḥ_) in dissonant cries (_visvaraiḥ svaraiḥ_).
 </details>
 </details>
 
@@ -5720,7 +5720,7 @@ notes.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when their commander was slain (nāyake hate), those night-stalkers, casting aside all regard [for battle] (nirapekṣā niśācarāḥ), fled swiftly in terror with their faces turned toward the city (purīm abhimukhā bhītā dravantaḥ).
+Then, when their commander was slain (_nāyake hate_), those night-stalkers, casting aside all regard [for battle] (_nirapekṣā niśācarāḥ_), fled swiftly in terror with their faces turned toward the city (_purīm abhimukhā bhītā dravantaḥ_).
 </details>
 </details>
 
@@ -5773,7 +5773,7 @@ to fight, went running away all around, with their faces turned towards that Cit
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with joy, their faces resembling full-blown lotuses (praphullapadmapratimānanāḥ), many Vānaras then honored Lakṣmaṇa, who had achieved his desired goal (apūjayaṃl lakṣmaṇam iṣṭabhāginam), now that the foe of dreadful strength, difficult to assail (ripau bhīmabale durāsade), had been slain.
+Filled with joy, their faces resembling full-blown lotuses (_praphullapadmapratimānanāḥ_), many Vānaras then honored Lakṣmaṇa, who had achieved his desired goal (_apūjayaṃl lakṣmaṇam iṣṭabhāginam_), now that the foe of dreadful strength, difficult to assail (_ripau bhīmabale durāsade_), had been slain.
 </details>
 </details>
 
@@ -5839,7 +5839,7 @@ and worshipped Lakshmana who got his desire fulfilled.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having struck down in battle the exceedingly mighty, cloud-like Atikāya (atibalam atikāyam abhrakalpam), Lakṣmaṇa, rejoicing (prahṛṣṭaḥ) and honored well by the hosts of monkeys (kapinivahaiś ca supūjitaḥ), then went swiftly to Rāma's side (rāmapārśvaṃ jagāma).
+Having struck down in battle the exceedingly mighty, cloud-like Atikāya (_atibalam atikāyam abhrakalpam_), Lakṣmaṇa, rejoicing (_prahṛṣṭaḥ_) and honored well by the hosts of monkeys (_kapinivahaiś ca supūjitaḥ_), then went swiftly to Rāma&#x27;s side (_rāmapārśvaṃ jagāma_).
 </details>
 </details>
 

@@ -82,7 +82,7 @@ could not brook that beneficial advice tendered by Malyavan.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Wicked-souled Daśānana, however, having fallen under the sway of Time (kālasya vaśam āgataḥ), did not brook that salutary speech spoken by Mālyavān.
+Wicked-souled Daśānana, however, having fallen under the sway of Time (_kālasya vaśam āgataḥ_), did not brook that salutary speech spoken by Mālyavān.
 </details>
 </details>
 
@@ -134,7 +134,7 @@ his eyes in fury and spoke to Malyavan (as follows)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Knitting his brow on his face and overpowered by wrath, he rolled his eyes in indignation (parivṛttākṣaḥ) and spoke thus to Mālyavān:
+Knitting his brow on his face and overpowered by wrath, he rolled his eyes in indignation (_parivṛttākṣaḥ_) and spoke thus to Mālyavān:
 </details>
 </details>
 
@@ -186,7 +186,7 @@ by taking sides with the enemy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This harsh and unwholesome speech that is uttered under the guise of salutary intent (hitabuddhyā), after having gone over to the enemy's side, does not enter my ears!
+“This harsh and unwholesome speech that is uttered under the guise of salutary intent (_hitabuddhyā_), after having gone over to the enemy&#x27;s side, does not enter my ears!
 </details>
 </details>
 
@@ -239,7 +239,7 @@ monkeys and dwelling in a forest having been abandoned by his father, to be a co
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-On what ground (kena) do you deem Rāma capable—a wretched mortal (mānuṣaṃ kṛpaṇam), solitary, relying on monkeys, cast off by his father, and dwelling in the forest?
+On what ground (_kena_) do you deem Rāma capable—a wretched mortal (_mānuṣaṃ kṛpaṇam_), solitary, relying on monkeys, cast off by his father, and dwelling in the forest?
 </details>
 </details>
 
@@ -291,7 +291,7 @@ in full, to be a weaker person?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And on what ground do you deem me inferior (hīnam)—me, the lord of rākṣasas, the terror of the gods, who am never lacking in any valor (ahīnaṃ sarvavikramaiḥ)?
+And on what ground do you deem me inferior (_hīnam_)—me, the lord of _rākṣasas_, the terror of the gods, who am never lacking in any valor (_ahīnaṃ sarvavikramaiḥ_)?
 </details>
 </details>
 
@@ -346,7 +346,7 @@ or your partiality towards the enemies or my lenience towards you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I suspect that harsh words have been spoken to me by you either out of malice toward heroes (vīradveṣeṇa), or out of partiality for the foe, or by way of instigation from the enemy (paraprotsāhanena)!
+I suspect that harsh words have been spoken to me by you either out of malice toward heroes (_vīradveṣeṇa_), or out of partiality for the foe, or by way of instigation from the enemy (_paraprotsāhanena_)!
 </details>
 </details>
 
@@ -406,7 +406,7 @@ to a mighty person in power, were it not to instigate him?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For what learned man conversant with the truths of the śāstras (śāstratattvajñaḥ) would speak harshly to a mighty monarch firmly established in his sovereignty (padastham), without instigation [from the foe]?”,
+For what learned man conversant with the truths of the _śāstras_ (_śāstratattvajñaḥ_) would speak harshly to a mighty monarch firmly established in his sovereignty (_padastham_), without instigation [from the foe]?”,
 </details>
 </details>
 
@@ -458,7 +458,7 @@ lotus, having brought her away from the forest, through fear of Rama?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having brought Sītā from the forest—who is like Śrī without her lotus (padmahīnām iva śriyam)—why should I surrender her out of fear of Rāghava?
+“Having brought Sītā from the forest—who is like Śrī without her lotus (_padmahīnām iva śriyam_)—why should I surrender her out of fear of Rāghava?
 </details>
 </details>
 
@@ -510,7 +510,7 @@ in the midst of crores of monkeys."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behold Rāghava, though surrounded by tens of millions of vānaras along with Sugrīva and Lakṣmaṇa, slain by me within a few days (kaiścid ahobhiḥ)!
+Behold Rāghava, though surrounded by tens of millions of _vānaras_ along with Sugrīva and Lakṣmaṇa, slain by me within a few days (_kaiścid ahobhiḥ_)!
 </details>
 </details>
 
@@ -562,7 +562,7 @@ duel, entertain fear in this encounter?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before whom even the gods do not stand in single combat (dvandve) on the battlefield—how shall that Rāvaṇa feel fear in battle?
+Before whom even the gods do not stand in single combat (_dvandve_) on the battlefield—how shall that Rāvaṇa feel fear in battle?
 </details>
 </details>
 
@@ -616,7 +616,7 @@ it is my nature by difacult and unalterable."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if I should break in two (dvidhā bhajyeyam api), I would never bend before anyone! This is my innate fault (sahajo doṣaḥ); one's own nature is impossible to overcome (duratikramaḥ).
+Even if I should break in two (_dvidhā bhajyeyam api_), I would never bend before anyone! This is my innate fault (_sahajo doṣaḥ_); one&#x27;s own nature is impossible to overcome (_duratikramaḥ_).
 </details>
 </details>
 
@@ -669,7 +669,7 @@ indeed was constructed by Rama across the ocean."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even if a bridge has been built across the ocean by Rāma by mere chance (yadṛcchayā), what cause for wonder is there in this, whereby fear has come upon you?
+Even if a bridge has been built across the ocean by Rāma by mere chance (_yadṛcchayā_), what cause for wonder is there in this, whereby fear has come upon you?
 </details>
 </details>
 
@@ -729,7 +729,7 @@ alive. It is my true promise to you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having crossed the ocean with the vānara army, that Rāma—I promise you truly—shall not return alive!”
+“Having crossed the ocean with the _vānara_ army, that Rāma—I promise you truly—shall not return alive!”
 </details>
 </details>
 
@@ -781,7 +781,7 @@ did not reply.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving Rāvaṇa speaking thus, incensed (saṃrabdham) and wrathful, the abashed (vrīḍitaḥ) Mālyavān offered no word in reply.
+Perceiving Rāvaṇa speaking thus, incensed (_saṃrabdham_) and wrathful, the abashed (_vrīḍitaḥ_) Mālyavān offered no word in reply.
 </details>
 </details>
 
@@ -836,7 +836,7 @@ and went home.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having greeted the king with a benediction of victory (jayāśiṣā) as was fitting, Mālyavān, granted leave (abhyanujñātaḥ), departed to his own abode.
+Having greeted the king with a benediction of victory (_jayāśiṣā_) as was fitting, Mālyavān, granted leave (_abhyanujñātaḥ_), departed to his own abode.
 </details>
 </details>
 
@@ -888,7 +888,7 @@ to be examined, set about planning the defense of Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa the rākṣasa, however, having taken counsel and deliberated with his ministers (sahāmātyaḥ), then caused the defense (guptim) of Laṅkā to be arranged.
+Rāvaṇa the _rākṣasa_, however, having taken counsel and deliberated with his ministers (_sahāmātyaḥ_), then caused the defense (_guptim_) of Laṅkā to be arranged.
 </details>
 </details>
 
@@ -958,9 +958,9 @@ a powerful conjuror, with considerable force of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** He stationed the rākṣasa Prahasta at the eastern gate (pūrvasyāṃ dvāri), and at the southern gate the two heroes of mighty valor, Mahāpārśva and Mahodara.
+**17:** He stationed the _rākṣasa_ Prahasta at the eastern gate (_pūrvasyāṃ dvāri_), and at the southern gate the two heroes of mighty valor, Mahāpārśva and Mahodara.
 
-**18:** Then at the western gate (paścimāyāṃ dvāri) he stationed his son Indrajit, master of great illusion (mahāmāyam), surrounded by numerous rākṣasas.
+**18:** Then at the western gate (_paścimāyāṃ dvāri_) he stationed his son Indrajit, master of great illusion (_mahāmāyam_), surrounded by numerous _rākṣasas_.
 </details>
 </details>
 
@@ -1015,7 +1015,7 @@ would go there personally.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having appointed Śuka and Sāraṇa at the northern city gate (uttarasyāṃ puradvāri), he said to those ministers: “I myself shall also go there (svayaṃ cātra gamiṣyāmi)!”
+Having appointed Śuka and Sāraṇa at the northern city gate (_uttarasyāṃ puradvāri_), he said to those ministers: “I myself shall also go there (_svayaṃ cātra gamiṣyāmi_)!”
 </details>
 </details>
 
@@ -1067,7 +1067,7 @@ of the fort, with a large number of demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And in the central garrison (madhyame gulme) he stationed the rākṣasa Virūpākṣa of mighty valor and prowess, together with many rākṣasas.
+And in the central garrison (_madhyame gulme_) he stationed the _rākṣasa_ Virūpākṣa of mighty valor and prowess, together with many _rākṣasas_.
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ of Time, deemed his purpose as accomplished.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus arranged the defense in Laṅkā, the bull among rākṣasas, impelled by Time (kālacoditaḥ), deemed himself as one who had accomplished his task (kṛtakṛtyam iva).
+Having thus arranged the defense in Laṅkā, the bull among _rākṣasas_, impelled by Time (_kālacoditaḥ_), deemed himself as one who had accomplished his task (_kṛtakṛtyam iva_).
 </details>
 </details>
 
@@ -1191,7 +1191,7 @@ entered his mighty and sumptuous inner apartments.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having commanded the ample defense of the city, he then dismissed his ministers; honored by the assembly of counselors with benedictions of victory, he entered his vast and opulent inner apartments (antaḥpuram ṛddhimat).
+Having commanded the ample defense of the city, he then dismissed his ministers; honored by the assembly of counselors with benedictions of victory, he entered his vast and opulent inner apartments (_antaḥpuram ṛddhimat_).
 </details>
 </details>
 

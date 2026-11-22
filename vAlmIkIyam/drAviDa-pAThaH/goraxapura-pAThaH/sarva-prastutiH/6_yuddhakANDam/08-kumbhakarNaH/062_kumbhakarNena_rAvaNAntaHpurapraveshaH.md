@@ -76,7 +76,7 @@ drowsiness, marched along the king's highway, full of royal dignity.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that tiger among Rākṣasas, of vast valour (vipulavikramaḥ), heavy with drowsiness and intoxication (nidrāmadasamākulaḥ), strode along the royal highway graced with splendour (śriyā juṣṭam).
+Then that tiger among Rākṣasas, of vast valour (_vipulavikramaḥ_), heavy with drowsiness and intoxication (_nidrāmadasamākulaḥ_), strode along the royal highway graced with splendour (_śriyā juṣṭam_).
 </details>
 </details>
 
@@ -123,7 +123,7 @@ way).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by thousands of Rākṣasas, that supremely invincible warrior (paramadurjayaḥ) marched along as he was showered with a rain of flowers (puṣpavarṣeṇa kīryamāṇaḥ) from the mansions.
+Surrounded by thousands of Rākṣasas, that supremely invincible warrior (_paramadurjayaḥ_) marched along as he was showered with a rain of flowers (_puṣpavarṣeṇa kīryamāṇaḥ_) from the mansions.
 </details>
 </details>
 
@@ -169,7 +169,7 @@ beautiful, like a shining sun.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He beheld the vast and lovely palace of the Lord of Rākṣasas (rākṣasendraniveśanam), overspread with golden lattices (hemajālavitatam) and radiant as the sun in appearance (bhānubhāsvaradarśanam).
+He beheld the vast and lovely palace of the Lord of Rākṣasas (_rākṣasendraniveśanam_), overspread with golden lattices (_hemajālavitatam_) and radiant as the sun in appearance (_bhānubhāsvaradarśanam_).
 </details>
 </details>
 
@@ -221,7 +221,7 @@ saw from of distance his brother seated on a throne, as Indra saw Brahma perched
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering the abode of the Rākṣasa king just as the sun enters a bank of clouds (sūrya ivābhrajālam), he beheld in the distance his elder brother seated upon his throne, as Śakra beholds Svayambhū seated upon his throne.
+Entering the abode of the Rākṣasa king just as the sun enters a bank of clouds (_sūrya ivābhrajālam_), he beheld in the distance his elder brother seated upon his throne, as Śakra beholds Svayambhū seated upon his throne.
 </details>
 </details>
 
@@ -273,7 +273,7 @@ demons, caused the earth to shake with his stamping strides.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he strode toward his brother's palace attended by hosts of Rākṣasas (rakṣogaṇasamanvitaḥ), Kumbhakarṇa made the earth tremble with the fall of his footsteps (padanyāsair akampayata medinīm).
+As he strode toward his brother&#x27;s palace attended by hosts of Rākṣasas (_rakṣogaṇasamanvitaḥ_), Kumbhakarṇa made the earth tremble with the fall of his footsteps (_padanyāsair akampayata medinīm_).
 </details>
 </details>
 
@@ -319,7 +319,7 @@ worried brother sitting in Pushpaka, a self-moving aerial car.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching his brother's palace and passing through the inner courtyard (kakṣyām abhivigāhya ca), he beheld his elder brother (gurum) seated in dejection (udvignam) upon the aerial chariot Puṣpaka.
+Approaching his brother&#x27;s palace and passing through the inner courtyard (_kakṣyām abhivigāhya ca_), he beheld his elder brother (_gurum_) seated in dejection (_udvignam_) upon the aerial chariot Puṣpaka.
 </details>
 </details>
 
@@ -373,7 +373,7 @@ delighted and brought him nearer to his side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, seeing Kumbhakarṇa arrived (upasthitam), Daśagrīva rose swiftly in great joy (saṃhṛṣṭaḥ) and drew him near to his side (saṃnikarṣam upānayat).
+Then, seeing Kumbhakarṇa arrived (_upasthitam_), Daśagrīva rose swiftly in great joy (_saṃhṛṣṭaḥ_) and drew him near to his side (_saṃnikarṣam upānayat_).
 </details>
 </details>
 
@@ -420,7 +420,7 @@ sitting on a sofa, asked him, "What is to be done?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty Kumbhakarṇa bowed to the feet (vavande caraṇau) of his brother seated upon the couch (paryaṅke) and asked, “What is to be done (kiṃ kṛtyam)?”
+Then the mighty Kumbhakarṇa bowed to the feet (_vavande caraṇau_) of his brother seated upon the couch (_paryaṅke_) and asked, “What is to be done (_kiṃ kṛtyam_)?”
 </details>
 </details>
 
@@ -474,7 +474,7 @@ embraced and made happy by his brother, occupied an auspicious, charming and exc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaping up in delight (utpatya cainaṃ muditaḥ), Rāvaṇa embraced him; thus embraced by his brother and duly honoured (yathāvac cābhinanditaḥ)—
+Leaping up in delight (_utpatya cainaṃ muditaḥ_), Rāvaṇa embraced him; thus embraced by his brother and duly honoured (_yathāvac cābhinanditaḥ_)—
 </details>
 </details>
 
@@ -528,7 +528,7 @@ spoke to Ravana as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the mighty Kumbhakarṇa took a splendid, celestial, and excellent seat (varāsanam); having seated himself upon that throne, the mighty Kumbhakarṇa—
+—the mighty Kumbhakarṇa took a splendid, celestial, and excellent seat (_varāsanam_); having seated himself upon that throne, the mighty Kumbhakarṇa—
 </details>
 </details>
 
@@ -581,7 +581,7 @@ whom is the danger for you here and who is to be killed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—with his eyes bloodshot in wrath (saṃraktanayanaḥ krodhāt), spoke these words to Rāvaṇa: “For what purpose, O King, have I been awakened by you with such urgent effort (ādṛtya)?”
+—with his eyes bloodshot in wrath (_saṃraktanayanaḥ krodhāt_), spoke these words to Rāvaṇa: “For what purpose, O King, have I been awakened by you with such urgent effort (_ādṛtya_)?”
 </details>
 </details>
 
@@ -627,7 +627,7 @@ was there with anger (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Declare from whom your fear arises here, or who is to become a departed ghost today (ko vā preto bhaviṣyati)!” To his angry brother Kumbhakarṇa seated before him, Rāvaṇa—
+“Declare from whom your fear arises here, or who is to become a departed ghost today (_ko vā preto bhaviṣyati_)!” To his angry brother Kumbhakarṇa seated before him, Rāvaṇa—
 </details>
 </details>
 
@@ -688,7 +688,7 @@ not know about the fear created by Rama in me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—with eyes rolling in indignation (roṣeṇa parivṛttābhyāṃ netrābhyām), spoke these words: “A very long time (sumahān kālaḥ) has passed today while you have been sleeping, O mighty one!”
+—with eyes rolling in indignation (_roṣeṇa parivṛttābhyāṃ netrābhyām_), spoke these words: “A very long time (_sumahān kālaḥ_) has passed today while you have been sleeping, O mighty one!”
 </details>
 </details>
 
@@ -740,7 +740,7 @@ the ocean, is cutting short our race."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Soundly asleep (suṣuptas tvam), you know nothing of the terror brought upon me by Rāma (rāmakṛtaṃ bhayam). Yonder illustrious and mighty son of Daśaratha, joined by Sugrīva—”
+“Soundly asleep (_suṣuptas tvam_), you know nothing of the terror brought upon me by Rāma (_rāmakṛtaṃ bhayam_). Yonder illustrious and mighty son of Daśaratha, joined by Sugrīva—”
 </details>
 </details>
 
@@ -792,7 +792,7 @@ with an ocean full of monkeys."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—having crossed over the ocean (samudraṃ laṅghayitvā), is cutting down our very root (mūlaṃ naḥ parikṛntati)! Behold, alas, the forests and pleasure-groves of Laṅkā—”
+“—having crossed over the ocean (_samudraṃ laṅghayitvā_), is cutting down our very root (_mūlaṃ naḥ parikṛntati_)! Behold, alas, the forests and pleasure-groves of Laṅkā—”
 </details>
 </details>
 
@@ -850,9 +850,9 @@ time before, in a combat."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** “—having crossed comfortably by means of a bridge (setunā sukham āgatya), he has turned all into a single ocean of Vānaras (vānaraikārṇavaṃ kṛtam)! Those Rākṣasas who were our foremost champions (mukhyatamāḥ) have been slain in battle by the monkeys.”
+**16:** “—having crossed comfortably by means of a bridge (_setunā sukham āgatya_), he has turned all into a single ocean of Vānaras (_vānaraikārṇavaṃ kṛtam_)! Those Rākṣasas who were our foremost champions (_mukhyatamāḥ_) have been slain in battle by the monkeys.”
 
-**17:** “I see no depletion of the Vānaras in battle by any means (kathaṃcana); nor have the Vānaras ever before been vanquished (jitapūrvāḥ) in combat!”
+**17:** “I see no depletion of the Vānaras in battle by any means (_kathaṃcana_); nor have the Vānaras ever before been vanquished (_jitapūrvāḥ_) in combat!”
 </details>
 </details>
 
@@ -899,7 +899,7 @@ destroyed now. You have been woken up solely for that purpose."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore save us here, O mighty one, from this terror that has arisen (tad etad bhayam utpannam)! Destroy these foes today—for that very purpose (tadartham) have you been awakened.”
+“Therefore save us here, O mighty one, from this terror that has arisen (_tad etad bhayam utpannam_)! Destroy these foes today—for that very purpose (_tadartham_) have you been awakened.”
 </details>
 </details>
 
@@ -953,7 +953,7 @@ of Lanka, where only the children and the aged are left over."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Succouring me (abhyupapadya mām), whose treasuries are utterly exhausted (sarvakṣapitakośam), save this city of Laṅkā, which now has only children and old men left (bālavṛddhāvaśeṣitām)!”
+“Succouring me (_abhyupapadya mām_), whose treasuries are utterly exhausted (_sarvakṣapitakośam_), save this city of Laṅkā, which now has only children and old men left (_bālavṛddhāvaśeṣitām_)!”
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ request anyone ever before."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For your brother's sake, O mighty-armed one, accomplish this most arduous feat (kuru karma suduṣkaram); never before, O scorcher of foes, have I spoken thus to any brother!”
+“For your brother&#x27;s sake, O mighty-armed one, accomplish this most arduous feat (_kuru karma suduṣkaram_); never before, O scorcher of foes, have I spoken thus to any brother!”
 </details>
 </details>
 
@@ -1089,9 +1089,9 @@ indeed no one, in the entire beings, who is equal to you in strength."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “In you rests my affection, and in you is my supreme confidence (parā sambhāvanā ca me); in the wars between Gods and Asuras (devāsureṣu yuddheṣu), O bull among Rākṣasas, you repeatedly arrayed yourself against the Gods and vanquished them along with the Asuras in battle!”
+**21:** “In you rests my affection, and in you is my supreme confidence (_parā sambhāvanā ca me_); in the wars between Gods and Asuras (_devāsureṣu yuddheṣu_), O bull among Rākṣasas, you repeatedly arrayed yourself against the Gods and vanquished them along with the Asuras in battle!”
 
-**22:** “Therefore put forth all this valour of yours (sarvam ātiṣṭha vīryam), O warrior of dreadful might; for among all beings there is seen none equal to you in strength (sadṛśo balī).”
+**22:** “Therefore put forth all this valour of yours (_sarvam ātiṣṭha vīryam_), O warrior of dreadful might; for among all beings there is seen none equal to you in strength (_sadṛśo balī_).”
 </details>
 </details>
 
@@ -1148,7 +1148,7 @@ adversaries by your vital power, as an autumnal cloud is blown away by a high-ri
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Do for me this supreme service, both dear and salutary (priyahitam etad uttamam), as befits your affection, O lover of battle and friend of your kinsmen (bāndhavapriya); with your fiery energy scatter the enemy host (vyathaya sapatnavāhinīm), like a mighty rising wind scattering an autumn cloud (śaradghanam)!”
+“Do for me this supreme service, both dear and salutary (_priyahitam etad uttamam_), as befits your affection, O lover of battle and friend of your kinsmen (_bāndhavapriya_); with your fiery energy scatter the enemy host (_vyathaya sapatnavāhinīm_), like a mighty rising wind scattering an autumn cloud (_śaradghanam_)!”
 </details>
 </details>
 

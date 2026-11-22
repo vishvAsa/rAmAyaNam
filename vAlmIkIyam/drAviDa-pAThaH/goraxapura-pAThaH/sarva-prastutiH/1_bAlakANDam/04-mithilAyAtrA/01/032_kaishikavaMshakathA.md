@@ -89,7 +89,7 @@ Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahm�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There was of yore a great royal sage named Kuśa (mahān āsīt kuśo nāma), sprung directly from Brahmā (brahmayoniḥ) and rich in ascetic penance (mahātapāḥ), who knew the dharma of unblemished vows (akliṣṭavratadharmajñaḥ) and ever revered the righteous (sajjanapratipūjakaḥ).
+“There was of yore a great royal sage named Kuśa (_mahān āsīt kuśo nāma_), sprung directly from Brahmā (_brahmayoniḥ_) and rich in ascetic penance (_mahātapāḥ_), who knew the _dharma_ of unblemished vows (_akliṣṭavratadharmajñaḥ_) and ever revered the righteous (_sajjanapratipūjakaḥ_).
 </details>
 </details>
 
@@ -146,7 +146,7 @@ Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahm�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Upon a high-born and worthy princess of Vidarbha (kulīnāyāṃ yuktāyāṃ vaidarbhyām), that high-souled monarch (sa mahātmā) begot four sons worthy of himself (janayām āsa caturaḥ sadṛśān sutān) and endowed with exceeding might (sumahābalān):
+“Upon a high-born and worthy princess of Vidarbha (_kulīnāyāṃ yuktāyāṃ vaidarbhyām_), that high-souled monarch (_sa mahātmā_) begot four sons worthy of himself (_janayām āsa caturaḥ sadṛśān sutān_) and endowed with exceeding might (_sumahābalān_):
 </details>
 </details>
 
@@ -215,9 +215,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “Kuśāmba, Kuśanābha, Asūrtarajas, and Vasu (kuśāmbaṃ kuśanābhaṃ ca asūrtarajasaṃ vasum)—resplendent with fiery luster and possessed of high energy (dīptiyuktān mahotsāhān)—out of a desire to advance the dharma of the kṣatriya order (kṣatradharmacikīrṣayā).
+**3:** “Kuśāmba, Kuśanābha, Asūrtarajas, and Vasu (_kuśāmbaṃ kuśanābhaṃ ca asūrtarajasaṃ vasum_)—resplendent with fiery luster and possessed of high energy (_dīptiyuktān mahotsāhān_)—out of a desire to advance the _dharma_ of the kṣatriya order (_kṣatradharmacikīrṣayā_).
 
-**4:** “To those supremely righteous and truth-speaking sons (tān putrān dharmiṣṭhān satyavādinaḥ), Kuśa spoke thus (uvāca kuśaḥ): ‘Perform the protection of the subjects, O sons (kriyatāṃ pālanaṃ putrāḥ), and you shall attain abundant merit (dharmaṃ prāpsyatha puṣkalam)!’
+**4:** “To those supremely righteous and truth-speaking sons (_tān putrān dharmiṣṭhān satyavādinaḥ_), Kuśa spoke thus (_uvāca kuśaḥ_): ‘Perform the protection of the subjects, O sons (_kriyatāṃ pālanaṃ putrāḥ_), and you shall attain abundant merit (_dharmaṃ prāpsyatha puṣkalam_)!’
 </details>
 </details>
 
@@ -271,7 +271,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of Kuśa (kuśasya vacanaṃ śrutvā), all four of those foremost of men, the best in the world (catvāro lokasattamāḥ sarve nṛvarāḥ), thereupon founded royal cities (niveśaṃ cakrire purāṇāṃ tadā).
+“Hearing the words of Kuśa (_kuśasya vacanaṃ śrutvā_), all four of those foremost of men, the best in the world (_catvāro lokasattamāḥ sarve nṛvarāḥ_), thereupon founded royal cities (_niveśaṃ cakrire purāṇāṃ tadā_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ While Kuśāmba founds Kauśāmbī, Kuśanābha Mahodaya, and Asūrtarajas Dharm
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kuśāmba of great fiery splendor built the city of Kauśāmbī (kuśāmbas tu mahātejāḥ kauśāmbīm akarot purīm), while the righteous-souled Kuśanābha built the city named Mahodaya (kuśanābhas tu dharmātmā puraṃ cakre mahodayam).
+“Kuśāmba of great fiery splendor built the city of Kauśāmbī (_kuśāmbas tu mahātejāḥ kauśāmbīm akarot purīm_), while the righteous-souled Kuśanābha built the city named Mahodaya (_kuśanābhas tu dharmātmā puraṃ cakre mahodayam_).
 </details>
 </details>
 
@@ -459,7 +459,7 @@ It is believed that the city Kaushambii is the present day Kannauj and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The monarch named Asūrtarajas built the supreme city of Dharmāraṇya (asūrtarajaso nāma dharmāraṇyaṃ mahīpatiḥ cakre puravaram), and King Vasu built Girivraja (rājā vasunāma girivrajam).
+“The monarch named Asūrtarajas built the supreme city of Dharmāraṇya (_asūrtarajaso nāma dharmāraṇyaṃ mahīpatiḥ cakre puravaram_), and King Vasu built Girivraja (_rājā vasunāma girivrajam_).
 </details>
 </details>
 
@@ -510,7 +510,7 @@ It is believed that the city Kaushambii is the present day Kannauj and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This fertile land, O Rāma, belonged to that high-souled Vasu (eṣā vasumatī rāma vasos tasya mahātmanaḥ); and here shine on every side these five foremost mountains (ete śailavarāḥ pañca prakāśante samantataḥ).
+“This fertile land, O Rāma, belonged to that high-souled Vasu (_eṣā vasumatī rāma vasos tasya mahātmanaḥ_); and here shine on every side these five foremost mountains (_ete śailavarāḥ pañca prakāśante samantataḥ_).
 </details>
 </details>
 
@@ -565,7 +565,7 @@ This river is said to be the present day River Son
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The lovely and renowned river Sumāgadhī flowed into the land of the Māgadhas (sumāgadhī nadī ramyā māgadhān viśrutā ’’yayau), shining like a garland in the midst of those five chief mountains (pañcānāṃ śailamukhyānāṃ madhye māleva śobhate).
+“The lovely and renowned river Sumāgadhī flowed into the land of the Māgadhas (_sumāgadhī nadī ramyā māgadhān viśrutā ’’yayau_), shining like a garland in the midst of those five chief mountains (_pañcānāṃ śailamukhyānāṃ madhye māleva śobhate_).
 </details>
 </details>
 
@@ -641,7 +641,7 @@ The confluence of this river with Ganga is said as the one now available
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very river Māgadhī, O Rāma, belonged to that high-souled Vasu (saiṣā hi māgadhī rāma vasos tasya mahātmanaḥ); flowing toward the east, O Rāma (pūrvābhicaritā rāma), she is blessed with fertile fields and crowned with garlands of grain (sukṣetrā sasyamālinī).
+“This very river Māgadhī, O Rāma, belonged to that high-souled Vasu (_saiṣā hi māgadhī rāma vasos tasya mahātmanaḥ_); flowing toward the east, O Rāma (_pūrvābhicaritā rāma_), she is blessed with fertile fields and crowned with garlands of grain (_sukṣetrā sasyamālinī_).
 </details>
 </details>
 
@@ -695,7 +695,7 @@ Children begotten through celestial maidens are of superior nature for
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Now the royal sage Kuśanābha, righteous of soul, O delighter of the Raghus (kuśanābhas tu rājarṣiḥ dharmātmā raghunandana), begot upon the Apsaras Ghṛtācī a hundred matchless daughters (kanyāśatam anuttamaṃ janayām āsa ghṛtācyām).
+“Now the royal sage Kuśanābha, righteous of soul, O delighter of the Raghus (_kuśanābhas tu rājarṣiḥ dharmātmā raghunandana_), begot upon the Apsaras Ghṛtācī a hundred matchless daughters (_kanyāśatam anuttamaṃ janayām āsa ghṛtācyām_).
 </details>
 </details>
 
@@ -769,9 +769,9 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** “Endowed with the bloom of youth, radiant with beauty, and splendidly adorned (tās tu yauvanaśālinyo rūpavatyaḥ svalaṅkṛtāḥ), those maidens entered the royal pleasure-garden (udyānabhūmim āgamya) like flashes of lightning in the rainy season (prāvṛṣīva śatahradāḥ).
+**12:** “Endowed with the bloom of youth, radiant with beauty, and splendidly adorned (_tās tu yauvanaśālinyo rūpavatyaḥ svalaṅkṛtāḥ_), those maidens entered the royal pleasure-garden (_udyānabhūmim āgamya_) like flashes of lightning in the rainy season (_prāvṛṣīva śatahradāḥ_).
 
-**13:** “Singing, dancing, and playing upon musical instruments, O Rāghava (gāyantyo nṛtyamānāś ca vādayantyas tu rāghava), decked in choice ornaments (varābharaṇabhūṣitāḥ), they attained supreme delight (āmodaṃ paramaṃ jagmuḥ).
+**13:** “Singing, dancing, and playing upon musical instruments, O Rāghava (_gāyantyo nṛtyamānāś ca vādayantyas tu rāghava_), decked in choice ornaments (_varābharaṇabhūṣitāḥ_), they attained supreme delight (_āmodaṃ paramaṃ jagmuḥ_).
 </details>
 </details>
 
@@ -819,7 +819,7 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then those maidens of faultless limbs, matchless in beauty upon the earth (atha tāś cārusarvāṅgyo rūpeṇāpratimā bhuvi), having entered the pleasure-garden, shone like stars amidst a rift in the clouds (udyānabhūmim āgamya tārā iva ghanāntare).
+“Then those maidens of faultless limbs, matchless in beauty upon the earth (_atha tāś cārusarvāṅgyo rūpeṇāpratimā bhuvi_), having entered the pleasure-garden, shone like stars amidst a rift in the clouds (_udyānabhūmim āgamya tārā iva ghanāntare_).
 </details>
 </details>
 
@@ -879,7 +879,7 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding them all endowed with every excellence and blessed with beauty and youth (tāḥ sarvā guṇasampannā rūpayauvanasaṃyutāḥ dṛṣṭvā), the all-pervading Wind-god Vāyu spoke these words (sarvātmako vāyur idaṃ vacanam abravīt):
+“Beholding them all endowed with every excellence and blessed with beauty and youth (_tāḥ sarvā guṇasampannā rūpayauvanasaṃyutāḥ dṛṣṭvā_), the all-pervading Wind-god Vāyu spoke these words (_sarvātmako vāyur idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -927,7 +927,7 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I desire you all (ahaṃ vaḥ kāmaye sarvāḥ); you shall become my wives (bhāryā mama bhaviṣyatha)! Let your mortal state be cast aside (mānuṣas tyajyatāṃ bhāvaḥ), and you shall attain long life (dīrgham āyur avāpsyatha).
+“‘I desire you all (_ahaṃ vaḥ kāmaye sarvāḥ_); you shall become my wives (_bhāryā mama bhaviṣyatha_)! Let your mortal state be cast aside (_mānuṣas tyajyatāṃ bhāvaḥ_), and you shall attain long life (_dīrgham āyur avāpsyatha_).
 </details>
 </details>
 
@@ -980,7 +980,7 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For youth is ever fleeting, especially among mortal beings (calaṃ hi yauvanaṃ nityaṃ mānuṣeṣu viśeṣataḥ); winning imperishable youth, you shall become immortal goddesses as well (akṣayaṃ yauvanaṃ prāptā amaryaś ca bhaviṣyatha)!’
+“‘For youth is ever fleeting, especially among mortal beings (_calaṃ hi yauvanaṃ nityaṃ mānuṣeṣu viśeṣataḥ_); winning imperishable youth, you shall become immortal goddesses as well (_akṣayaṃ yauvanaṃ prāptā amaryaś ca bhaviṣyatha_)!’
 </details>
 </details>
 
@@ -1036,7 +1036,7 @@ Dismissing Vāyu’s proposal with derisive laughter, the hundred daughters of K
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that speech of Vāyu of unwearied deeds (tasya tad vacanaṃ śrutvā vāyor akliṣṭakarmaṇaḥ), the hundred maidens laughed it to scorn (apahāsya) and then spoke these words in reply (tato vākyaṃ kanyāśatam athābravīt):
+“Hearing that speech of Vāyu of unwearied deeds (_tasya tad vacanaṃ śrutvā vāyor akliṣṭakarmaṇaḥ_), the hundred maidens laughed it to scorn (_apahāsya_) and then spoke these words in reply (_tato vākyaṃ kanyāśatam athābravīt_):
 </details>
 </details>
 
@@ -1097,7 +1097,7 @@ Dismissing Vāyu’s proposal with derisive laughter, the hundred daughters of K
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You move within all living beings, O best of gods (antaś carasi bhūtānāṃ sarveṣāṃ surasattama), and all of us know well your mighty power (prabhāvajñāś ca te sarvāḥ); why then do you treat us with such disrespect (kim artham avamanyase)?
+“‘You move within all living beings, O best of gods (_antaś carasi bhūtānāṃ sarveṣāṃ surasattama_), and all of us know well your mighty power (_prabhāvajñāś ca te sarvāḥ_); why then do you treat us with such disrespect (_kim artham avamanyase_)?
 </details>
 </details>
 
@@ -1161,7 +1161,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘We are all the daughters of Kuśanābha, O god, O best of celestials (kuśanābhasutā deva samastāḥ surasattama), fully capable of toppling even a deity from his station (sthānāc cyāvayituṃ devam); yet we guard our ascetic penance (rakṣāmas tu tapo vayam).
+“‘We are all the daughters of Kuśanābha, O god, O best of celestials (_kuśanābhasutā deva samastāḥ surasattama_), fully capable of toppling even a deity from his station (_sthānāc cyāvayituṃ devam_); yet we guard our ascetic penance (_rakṣāmas tu tapo vayam_).
 </details>
 </details>
 
@@ -1210,7 +1210,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘May that time never come, O foolish-minded one (mā bhūt sa kālo durmedhaḥ), when, despising our truth-speaking father (pitaraṃ satyavādinam avamanya), we choose a husband by our own independent will (svadharmeṇa svayaṃ varam upāsmahe)!
+“‘May that time never come, O foolish-minded one (_mā bhūt sa kālo durmedhaḥ_), when, despising our truth-speaking father (_pitaraṃ satyavādinam avamanya_), we choose a husband by our own independent will (_svadharmeṇa svayaṃ varam upāsmahe_)!
 </details>
 </details>
 
@@ -1273,7 +1273,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For our father is our sovereign lord (pitā hi prabhur asmākam), and he is our supreme deity (daivataṃ paramaṃ ca saḥ); to whomsoever our father shall give us in marriage (yasya no dāsyati pitā), he alone shall be our husband (sa no bhartā bhaviṣyati)!’
+“‘For our father is our sovereign lord (_pitā hi prabhur asmākam_), and he is our supreme deity (_daivataṃ paramaṃ ca saḥ_); to whomsoever our father shall give us in marriage (_yasya no dāsyati pitā_), he alone shall be our husband (_sa no bhartā bhaviṣyati_)!’
 </details>
 </details>
 
@@ -1336,7 +1336,7 @@ On hearing their sentence of rejection, Vayu, the Air-god whose impact
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that reply of theirs, the mighty Lord Hari (Vāyu), filled with fierce wrath (tāsāṃ tu vacanaṃ śrutvā hariḥ paramakopanaḥ bhagavān prabhuḥ), entered into all their limbs and bent them crooked (praviśya sarvagātrāṇi babhañja).
+“Hearing that reply of theirs, the mighty Lord Hari (Vāyu), filled with fierce wrath (_tāsāṃ tu vacanaṃ śrutvā hariḥ paramakopanaḥ bhagavān prabhuḥ_), entered into all their limbs and bent them crooked (_praviśya sarvagātrāṇi babhañja_).
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Reduced to the stature of a single cubit, their limbs fractured and afflicted with terror (aratnimātrākṛtayo bhagnagātrā bhayārditāḥ), those maidens bent crooked by Vāyu entered the palace of the king (tāḥ kanyā vāyunā bhagnā viviśur nṛpater gṛham)—entering utterly distraught, overcome with shame, and their eyes brimming with tears (praviśya ca susambhrāntāḥ salajjāḥ sāsralocanāḥ).
+“Reduced to the stature of a single cubit, their limbs fractured and afflicted with terror (_aratnimātrākṛtayo bhagnagātrā bhayārditāḥ_), those maidens bent crooked by Vāyu entered the palace of the king (_tāḥ kanyā vāyunā bhagnā viviśur nṛpater gṛham_)—entering utterly distraught, overcome with shame, and their eyes brimming with tears (_praviśya ca susambhrāntāḥ salajjāḥ sāsralocanāḥ_).
 </details>
 </details>
 
@@ -1447,7 +1447,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And beholding those beloved and supremely beautiful daughters of his now bent crooked and wretched (sa ca tā dayitā bhagnāḥ kanyāḥ paramaśobhanāḥ dṛṣṭvā dīnāḥ), the king, deeply agitated, spoke these words (tadā rājā sambhrānta idam abravīt):
+“And beholding those beloved and supremely beautiful daughters of his now bent crooked and wretched (_sa ca tā dayitā bhagnāḥ kanyāḥ paramaśobhanāḥ dṛṣṭvā dīnāḥ_), the king, deeply agitated, spoke these words (_tadā rājā sambhrānta idam abravīt_):
 </details>
 </details>
 
@@ -1531,6 +1531,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘What is this? Tell me, O daughters! Who despises dharma (kim idaṃ kathyatāṃ putryaḥ ko dharmam avamanyate)? By whom have you all been made hunchbacked, that you writhe in distress yet utter not a word (kubjāḥ kena kṛtāḥ sarvāś ceṣṭantyo nābhibhāṣatha)?’ Sighing deeply after speaking thus, the king then entered into focused stillness (evaṃ rājā viniḥśvasya samādhiṃ saṃdadhe tataḥ).”
+“‘What is this? Tell me, O daughters! Who despises _dharma_ (_kim idaṃ kathyatāṃ putryaḥ ko dharmam avamanyate_)? By whom have you all been made hunchbacked, that you writhe in distress yet utter not a word (_kubjāḥ kena kṛtāḥ sarvāś ceṣṭantyo nābhibhāṣatha_)?’ Sighing deeply after speaking thus, the king then entered into focused stillness (_evaṃ rājā viniḥśvasya samādhiṃ saṃdadhe tataḥ_).”
 </details>
 </details>

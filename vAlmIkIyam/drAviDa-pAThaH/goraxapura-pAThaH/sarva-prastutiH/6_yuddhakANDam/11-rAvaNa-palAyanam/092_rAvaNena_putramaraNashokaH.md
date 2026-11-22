@@ -69,7 +69,7 @@ Returning from the battle with his limbs drenched in blood and leaning upon Vibh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With his limbs drenched in blood (rudhiraklinnagātraḥ), Lakṣmaṇa, endowed with auspicious marks (śubhalakṣaṇaḥ), rejoiced after slaying that conqueror of foes (śatrujetāram) in battle.
+With his limbs drenched in blood (_rudhiraklinnagātraḥ_), Lakṣmaṇa, endowed with auspicious marks (_śubhalakṣaṇaḥ_), rejoiced after slaying that conqueror of foes (_śatrujetāram_) in battle.
 </details>
 </details>
 
@@ -122,7 +122,7 @@ Vibhishana, while we were witnessing the event in the battle-field."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that heroic one of great splendor (mahātejāḥ), having gathered together (saṃnipatya) Jāmbavān, Hanūmān, and all those forest-dwellers (vanaukasaḥ),
+Then that heroic one of great splendor (_mahātejāḥ_), having gathered together (_saṃnipatya_) Jāmbavān, Hanūmān, and all those forest-dwellers (_vanaukasaḥ_),
 </details>
 </details>
 
@@ -185,7 +185,7 @@ Lakshmana with his arrows, Indrajit departed to the highest world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-came swiftly from that place to where Sugrīva and Rāghava stood, leaning upon (avaṣṭabhya) Vibhīṣaṇa and Hanūmān, O [king], Lakṣmaṇa.
+came swiftly from that place to where Sugrīva and Rāghava stood, leaning upon (_avaṣṭabhya_) Vibhīṣaṇa and Hanūmān, O [king], Lakṣmaṇa.
 </details>
 </details>
 
@@ -231,7 +231,7 @@ battle, Ravana gave way to a protracted swoon.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, having approached Rāma and reverently saluted him (abhivādya), the son of Sumitrā stood beside his brother (bhrātṛsamīpasthaḥ), just as Indra's younger brother [Upendra] stands beside Śakra.
+Then, having approached Rāma and reverently saluted him (_abhivādya_), the son of Sumitrā stood beside his brother (_bhrātṛsamīpasthaḥ_), just as Indra&#x27;s younger brother [Upendra] stands beside Śakra.
 </details>
 </details>
 
@@ -279,7 +279,7 @@ as he was.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Coming forward as though groaning from exertion (niṣṭanann iva), the hero then recounted (ācacakṣe) to the high-souled Rāghava the dreadful slaying of Indrajit.
+Coming forward as though groaning from exertion (_niṣṭanann iva_), the hero then recounted (_ācacakṣe_) to the high-souled Rāghava the dreadful slaying of Indrajit.
 </details>
 </details>
 
@@ -332,7 +332,7 @@ conquered Indra, how have you been subjected to the power of Lakshmana now?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, Vibhīṣaṇa, filled with joy, reported (nyavedayata) to Rāma that the head of Rāvaṇa's son (rāvaṇeḥ) had been severed by the high-souled Lakṣmaṇa.
+Meanwhile, Vibhīṣaṇa, filled with joy, reported (_nyavedayata_) to Rāma that the head of Rāvaṇa&#x27;s son (_rāvaṇeḥ_) had been severed by the high-souled Lakṣmaṇa.
 </details>
 </details>
 
@@ -394,7 +394,7 @@ to tell about Lakshmana?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Merely upon hearing (śrutvaiva) of the slaying of Indrajit by Lakṣmaṇa, he of great valor (mahāvīryaḥ) attained peerless joy (praharṣam atulam) and spoke these words:
+Merely upon hearing (_śrutvaiva_) of the slaying of Indrajit by Lakṣmaṇa, he of great valor (_mahāvīryaḥ_) attained peerless joy (_praharṣam atulam_) and spoke these words:
 </details>
 </details>
 
@@ -440,7 +440,7 @@ whom you have been subjected to the ravages of time today."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Well done (sādhu), O Lakṣmaṇa! I am deeply pleased; a feat most difficult to accomplish (karma cāsukaraṃ kṛtam) has been wrought. Know for certain (upadhāraya) that through the destruction of Rāvaṇa's son, victory is already won!”
+“Well done (_sādhu_), O Lakṣmaṇa! I am deeply pleased; a feat most difficult to accomplish (_karma cāsukaraṃ kṛtam_) has been wrought. Know for certain (_upadhāraya_) that through the destruction of Rāvaṇa&#x27;s son, victory is already won!”
 </details>
 </details>
 
@@ -487,7 +487,7 @@ offspring who is killed for the cause of his lord, obtains heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that heroic one, smelling the crown of the head (śirasy upāghrāya) of Lakṣmaṇa, the enhancer of glory, forcibly (balāt) out of affection drew him—though he was shrinking in modesty (lajjamānam)—onto his lap (aṅkam āropya).
+Then that heroic one, smelling the crown of the head (_śirasy upāghrāya_) of Lakṣmaṇa, the enhancer of glory, forcibly (_balāt_) out of affection drew him—though he was shrinking in modesty (_lajjamānam_)—onto his lap (_aṅkam āropya_).
 </details>
 </details>
 
@@ -540,7 +540,7 @@ the world and the great sages now can sleep comfortably and peacefully."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seating him upon his lap (utsaṅge) and tightly embracing him who was sorely afflicted by wounds (avapīḍitam), he gazed again and again (punaḥ punar udaikṣata) upon his beloved brother Lakṣmaṇa.
+Seating him upon his lap (_utsaṅge_) and tightly embracing him who was sorely afflicted by wounds (_avapīḍitam_), he gazed again and again (_punaḥ punar udaikṣata_) upon his beloved brother Lakṣmaṇa.
 </details>
 </details>
 
@@ -592,7 +592,7 @@ alone to me. Nay, even the three worlds!"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Lakṣmaṇa was tormented by arrow-shafts (śalyasampīḍitam), wounded by weapons (śastam), and breathing heavily (niḥśvasantam); and toward him, who was racked with pain and distressed by deep sighs,
+Lakṣmaṇa was tormented by arrow-shafts (_śalyasampīḍitam_), wounded by weapons (_śastam_), and breathing heavily (_niḥśvasantam_); and toward him, who was racked with pain and distressed by deep sighs,
 </details>
 </details>
 
@@ -644,7 +644,7 @@ one would hear the roar of a troop of female-elephants in a mountain cave."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-that bull among men (puruṣarṣabhaḥ) smelled his head once more, hastened to stroke him (saṃspṛśya ca tvaran) all over, and after consoling Lakṣmaṇa, spoke these words:
+that bull among men (_puruṣarṣabhaḥ_) smelled his head once more, hastened to stroke him (_saṃspṛśya ca tvaran_) all over, and after consoling Lakṣmaṇa, spoke these words:
 </details>
 </details>
 
@@ -723,7 +723,7 @@ reported the matter hurriedly to Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A supremely auspicious deed (paramakalyāṇaṃ karma) has been accomplished by you of arduous deeds (duṣkarakarmaṇā); today, his son being slain, I reckon Rāvaṇa himself slain in battle!
+“A supremely auspicious deed (_paramakalyāṇaṃ karma_) has been accomplished by you of arduous deeds (_duṣkarakarmaṇā_); today, his son being slain, I reckon Rāvaṇa himself slain in battle!
 </details>
 </details>
 
@@ -769,7 +769,7 @@ consequent upon my death in future. You are, however, following a reverse path."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Today I am victorious (vijayī), now that that wicked enemy has been slain by you in battle through good fortune (diṣṭyā), O hero—[he who was the chief support] of the ruthless Rāvaṇa.
+Today I am victorious (_vijayī_), now that that wicked enemy has been slain by you in battle through good fortune (_diṣṭyā_), O hero—[he who was the chief support] of the ruthless Rāvaṇa.
 </details>
 </details>
 
@@ -821,7 +821,7 @@ Rama are still alive, where have you gone?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For his right arm (dakṣiṇo bāhuḥ) has been severed, since that [son] was his true mainstay (vyapāśrayaḥ). By Vibhīṣaṇa and Hanūmān, too, a mighty deed was wrought in battle!
+For his right arm (_dakṣiṇo bāhuḥ_) has been severed, since that [son] was his true mainstay (_vyapāśrayaḥ_). By Vibhīṣaṇa and Hanūmān, too, a mighty deed was wrought in battle!
 </details>
 </details>
 
@@ -867,7 +867,7 @@ was feeling distressed through grief as aforesaid.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Through three days and nights (ahorātrais tribhiḥ) the hero was with great effort laid low (kathaṃcid vinipātitaḥ). Today I have been rendered free of foes (niramitraḥ); for Rāvaṇa will surely march forth.
+Through three days and nights (_ahorātrais tribhiḥ_) the hero was with great effort laid low (_kathaṃcid vinipātitaḥ_). Today I have been rendered free of foes (_niramitraḥ_); for Rāvaṇa will surely march forth.
 </details>
 </details>
 
@@ -917,7 +917,7 @@ his very nature, was wrathful, as rays of the sun flare up the blazing sun in su
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With a vast array of forces (balavyūhena mahatā) Rāvaṇa will surely march forth, upon hearing with his vast array of forces that his son has been struck down.
+With a vast array of forces (_balavyūhena mahatā_) Rāvaṇa will surely march forth, upon hearing with his vast array of forces that his son has been struck down.
 </details>
 </details>
 
@@ -969,7 +969,7 @@ at the time of the dissolution of the world, with crocodiles and giant waves.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Enveloping with a mighty force (balenāvṛtya mahatā) that lord of Rākṣasas as he marches out tormented by the slaying of his son (putravadhasaṃtaptam), I shall slay him, hard to conquer though he be!”
+Enveloping with a mighty force (_balenāvṛtya mahatā_) that lord of Rākṣasas as he marches out tormented by the slaying of his son (_putravadhasaṃtaptam_), I shall slay him, hard to conquer though he be!”
 </details>
 </details>
 
@@ -1030,7 +1030,7 @@ out from his mouth, as it did from the month of Vritra (in the former days).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With you as my protector (tvayā lakṣmaṇa nāthena), O Lakṣmaṇa, neither Sītā nor the earth (pṛthivī) is hard for me to attain (na duṣprāpā), now that that conqueror of Śakra has been slain in battle!”
+“With you as my protector (_tvayā lakṣmaṇa nāthena_), O Lakṣmaṇa, neither Sītā nor the earth (_pṛthivī_) is hard for me to attain (_na duṣprāpā_), now that that conqueror of Śakra has been slain in battle!”
 </details>
 </details>
 
@@ -1077,7 +1077,7 @@ wrath and pondering with his mind, craved for the killing of Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus consoled and embraced his brother, Rāghava—Rāma, filled with joy (muditaḥ)—addressed Suṣeṇa (samābhāṣya) and spoke these words:
+Having thus consoled and embraced his brother, Rāghava—Rāma, filled with joy (_muditaḥ_)—addressed Suṣeṇa (_samābhāṣya_) and spoke these words:
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ were red even by the fire of his wrath, looked glittering.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O you of great wisdom (mahāprājña), minister (samupācara) in such a way that this son of Sumitrā, so devoted to his friends (mitravatsalaḥ), becomes freed of arrow-shafts (viśalyaḥ) and thoroughly restored to health (susvasthaḥ).
+“O you of great wisdom (_mahāprājña_), minister (_samupācara_) in such a way that this son of Sumitrā, so devoted to his friends (_mitravatsalaḥ_), becomes freed of arrow-shafts (_viśalyaḥ_) and thoroughly restored to health (_susvasthaḥ_).
 </details>
 </details>
 
@@ -1178,7 +1178,7 @@ difficult to be approached, like the form of enraged Rudra the god of destructio
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Let the son of Sumitrā, together with Vibhīṣaṇa (savibhīṣaṇaḥ), swiftly be made free of arrow-shafts; and among the heroic troops of bears and Vānaras (ṛkṣavānarasainyānām) who fight with trees,
+Let the son of Sumitrā, together with Vibhīṣaṇa (_savibhīṣaṇaḥ_), swiftly be made free of arrow-shafts; and among the heroic troops of bears and Vānaras (_ṛkṣavānarasainyānām_) who fight with trees,
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ down from blazing lamps.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-whatever others fight here who are pierced with shafts (saśalyāḥ) and covered with wounds (vraṇinaḥ), let all of them also be made comfortable (kriyante sukhinaḥ) by you with diligent care (prayatnena).”
+whatever others fight here who are pierced with shafts (_saśalyāḥ_) and covered with wounds (_vraṇinaḥ_), let all of them also be made comfortable (_kriyante sukhinaḥ_) by you with diligent care (_prayatnena_).”
 </details>
 </details>
 
@@ -1285,7 +1285,7 @@ were heard like the noise of a large machine being bragged by the demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, that high-souled Vānara commander Suṣeṇa administered (dadau) a supreme medicinal herb (paramauṣadham) to Lakṣmaṇa through the nose (nastaḥ).
+Thus addressed by Rāma, that high-souled Vānara commander Suṣeṇa administered (_dadau_) a supreme medicinal herb (_paramauṣadham_) to Lakṣmaṇa through the nose (_nastaḥ_).
 </details>
 </details>
 
@@ -1345,7 +1345,7 @@ directed his look, enraged as he was, like the fire of universal dissolution.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upon inhaling its fragrance (tasya gandham āghrāya), he at once became free of arrow-shafts (viśalyaḥ samapadyata), free of pain (nirvedanaḥ), and with all his wounds completely healed (saṃrūḍhavraṇa eva ca).
+Upon inhaling its fragrance (_tasya gandham āghrāya_), he at once became free of arrow-shafts (_viśalyaḥ samapadyata_), free of pain (_nirvedanaḥ_), and with all his wounds completely healed (_saṃrūḍhavraṇa eva ca_).
 </details>
 </details>
 
@@ -1393,7 +1393,7 @@ creatures.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at Rāghava's command (rāghavājñayā), he performed medical treatment (cikitsām akarot) for his allies headed by Vibhīṣaṇa (vibhīṣaṇamukhānāṃ ca suhṛdām) and for all the foremost Vānaras.
+Then, at Rāghava&#x27;s command (_rāghavājñayā_), he performed medical treatment (_cikitsām akarot_) for his allies headed by Vibhīṣaṇa (_vibhīṣaṇamukhānāṃ ca suhṛdām_) and for all the foremost Vānaras.
 </details>
 </details>
 
@@ -1440,7 +1440,7 @@ was very much enraged, then spoke as follows, in their midst:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, restored to his natural state (prakṛtim āpannaḥ), with his arrow-shafts extracted (hṛtaśalyaḥ) and his fatigue dispelled (gataklamaḥ), the son of Sumitrā rejoiced there, freed of feverish anguish in an instant (kṣaṇena vigatajvaraḥ).
+Thereupon, restored to his natural state (_prakṛtim āpannaḥ_), with his arrow-shafts extracted (_hṛtaśalyaḥ_) and his fatigue dispelled (_gataklamaḥ_), the son of Sumitrā rejoiced there, freed of feverish anguish in an instant (_kṣaṇena vigatajvaraḥ_).
 </details>
 </details>
 
@@ -1486,7 +1486,7 @@ austerity for thousands of years, at the conclusion of those austerities."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Right then Rāma, the lord of the leaping monkeys, Vibhīṣaṇa, and the heroic lord of the bears [Jāmbavān], beholding the son of Sumitrā risen free of affliction (arogam utthitam), rejoiced with their armies in great delight for a long time (suciraṃ jaharṣire).
+Right then Rāma, the lord of the leaping monkeys, Vibhīṣaṇa, and the heroic lord of the bears [Jāmbavān], beholding the son of Sumitrā risen free of affliction (_arogam utthitam_), rejoiced with their armies in great delight for a long time (_suciraṃ jaharṣire_).
 </details>
 </details>
 
@@ -1536,7 +1536,7 @@ creation, there was never a fear for me either from the demons or from the celes
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The high-souled son of Daśaratha praised (apūjayat) that most arduous feat of Lakṣmaṇa; and the lord of the Vānaras rejoiced in battle upon hearing that the conqueror of Śakra (śakrajitam) had been laid low.
+The high-souled son of Daśaratha praised (_apūjayat_) that most arduous feat of Lakṣmaṇa; and the lord of the Vānaras rejoiced in battle upon hearing that the conqueror of Śakra (_śakrajitam_) had been laid low.
 </details>
 </details>
 

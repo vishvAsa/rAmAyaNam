@@ -78,7 +78,7 @@ While Mahādeva practices severe austerity with Umā, the gods led by Indra and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While the Great God (Śiva) was thus practicing austerity (tapyamāne tadā deve), the gods together with Indra and led by Agni (sendrāḥ sāgnipurogamāḥ), desiring a commander for their armies (senāpatim abhīpsantaḥ), approached the Grandsire Brahmā.
+“While the Great God (Śiva) was thus practicing austerity (_tapyamāne tadā deve_), the gods together with Indra and led by Agni (_sendrāḥ sāgnipurogamāḥ_), desiring a commander for their armies (_senāpatim abhīpsantaḥ_), approached the Grandsire Brahmā.
 </details>
 </details>
 
@@ -131,7 +131,7 @@ While Mahādeva practices severe austerity with Umā, the gods led by Indra and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all the gods, O Rāma, delight of the gods (surārāma), accompanied by Indra and with Agni at their head, bowed low in prostration (praṇipatya) and spoke to the glorious Grandsire:
+“Then all the gods, O Rāma, delight of the gods (_surārāma_), accompanied by Indra and with Agni at their head, bowed low in prostration (_praṇipatya_) and spoke to the glorious Grandsire:
 </details>
 </details>
 
@@ -185,7 +185,7 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O Lord, that divine Lord (bhagavatā) by whom our commander-in-chief was formerly granted in seminal form (yena senāpatir dattaḥ purā) has now resorted to supreme austerity (tapaḥ param āsthāya) and is practicing penance together with Umā (tapyate sma sahomayā)!
+“‘O Lord, that divine Lord (_bhagavatā_) by whom our commander-in-chief was formerly granted in seminal form (_yena senāpatir dattaḥ purā_) has now resorted to supreme austerity (_tapaḥ param āsthāya_) and is practicing penance together with Umā (_tapyate sma sahomayā_)!
 </details>
 </details>
 
@@ -234,7 +234,7 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Whatever course of action is now to be undertaken next out of desire for the welfare of the worlds (yad atrānantaraṃ kāryaṃ lokānāṃ hitakāmyayā), pray ordain that, O knower of sacred ordinances (saṃvidhatsva vidhānajña); for you alone are our supreme refuge (tvaṃ hi naḥ paramā gatiḥ)!’
+“‘Whatever course of action is now to be undertaken next out of desire for the welfare of the worlds (_yad atrānantaraṃ kāryaṃ lokānāṃ hitakāmyayā_), pray ordain that, O knower of sacred ordinances (_saṃvidhatsva vidhānajña_); for you alone are our supreme refuge (_tvaṃ hi naḥ paramā gatiḥ_)!’
 </details>
 </details>
 
@@ -280,7 +280,7 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing the words of the deities, the Grandsire of all the worlds (sarvalokapitāmahaḥ), consoling them with sweet words (sāntvayan madhurair vākyaiḥ), spoke thus to the thirty gods:
+“Hearing the words of the deities, the Grandsire of all the worlds (_sarvalokapitāmahaḥ_), consoling them with sweet words (_sāntvayan madhurair vākyaiḥ_), spoke thus to the thirty gods:
 </details>
 </details>
 
@@ -337,7 +337,7 @@ Confirming that Umā’s curse upon their wives is irrevocable, Brahmā reveals 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘As for what was spoken by the Mountain’s daughter—“There shall be no progeny for you in your own wives” (śailaputryā yad uktaṃ tan na prajāḥ svāsu patniṣu)—that unimpaired word of hers (tasyā vacanam akliṣṭam) is absolute truth, without a doubt (satyam eva na saṃśayaḥ)!
+“‘As for what was spoken by the Mountain’s daughter—“There shall be no progeny for you in your own wives” (_śailaputryā yad uktaṃ tan na prajāḥ svāsu patniṣu_)—that unimpaired word of hers (_tasyā vacanam akliṣṭam_) is absolute truth, without a doubt (_satyam eva na saṃśayaḥ_)!
 </details>
 </details>
 
@@ -390,7 +390,7 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Yet here is the celestial Gaṅgā (iyam ākāśagaṅgā ca), in whom Hutāśana (Agni) shall beget a son (yasyāṃ putraṃ hutāśanaḥ janayiṣyati) to be the foe-taming commander-in-chief of the gods (devānāṃ senāpatim ariṃdamam).
+“‘Yet here is the celestial Gaṅgā (_iyam ākāśagaṅgā ca_), in whom Hutāśana (Agni) shall beget a son (_yasyāṃ putraṃ hutāśanaḥ janayiṣyati_) to be the foe-taming commander-in-chief of the gods (_devānāṃ senāpatim ariṃdamam_).
 </details>
 </details>
 
@@ -440,7 +440,7 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘The eldest daughter of the lord of mountains (jyeṣṭhā śailendraduhitā) will honor that son as her own (mānayiṣyati taṃ sutam), and that will without doubt be held in high esteem by Umā as well (umāyās tad bahumataṃ bhaviṣyati na saṃśayaḥ)!’
+“‘The eldest daughter of the lord of mountains (_jyeṣṭhā śailendraduhitā_) will honor that son as her own (_mānayiṣyati taṃ sutam_), and that will without doubt be held in high esteem by Umā as well (_umāyās tad bahumataṃ bhaviṣyati na saṃśayaḥ_)!’
 </details>
 </details>
 
@@ -488,7 +488,7 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing that word of his, O delight of the Raghus, all the gods felt their purpose fulfilled (kṛtārthāḥ) and, bowing low in prostration, worshipped the Grandsire (pitāmaham apūjayan).
+“Hearing that word of his, O delight of the Raghus, all the gods felt their purpose fulfilled (_kṛtārthāḥ_) and, bowing low in prostration, worshipped the Grandsire (_pitāmaham apūjayan_).
 </details>
 </details>
 
@@ -537,7 +537,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Going to supreme Kailāsa adorned with mineral ores (kailāsaṃ dhātumaṇḍitam), O Rāma, all the deities appointed Agni for the sake of a son (agniṃ niyojayām āsuḥ putrārtham):
+“Going to supreme Kailāsa adorned with mineral ores (_kailāsaṃ dhātumaṇḍitam_), O Rāma, all the deities appointed Agni for the sake of a son (_agniṃ niyojayām āsuḥ putrārtham_):
 </details>
 </details>
 
@@ -586,7 +586,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O Lord Hutāśana of mighty splendor, accomplish this task of the gods (devakāryam idaṃ samādhatsva)! Cast forth that fiery seed into Gaṅgā, the daughter of the Mountain (śailaputryāṃ gaṅgāyāṃ teja utsṛja)!’
+“‘O Lord Hutāśana of mighty splendor, accomplish this task of the gods (_devakāryam idaṃ samādhatsva_)! Cast forth that fiery seed into Gaṅgā, the daughter of the Mountain (_śailaputryāṃ gaṅgāyāṃ teja utsṛja_)!’
 </details>
 </details>
 
@@ -643,7 +643,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Giving his pledge to the deities (devatānāṃ pratijñāya), Pāvaka (Agni) approached Gaṅgā and said: ‘O Goddess, bear this embryo (garbhaṃ dhāraya vai devi); this is dear to the deities (devatānām idaṃ priyam)!’
+“Giving his pledge to the deities (_devatānāṃ pratijñāya_), Pāvaka (Agni) approached Gaṅgā and said: ‘O Goddess, bear this embryo (_garbhaṃ dhāraya vai devi_); this is dear to the deities (_devatānām idaṃ priyam_)!’
 </details>
 </details>
 
@@ -696,7 +696,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing these words, she assumed a divine form (divyaṃ rūpam adhārayat); and beholding her majesty and beauty (tasyā mahimāṃ dṛṣṭvā), he poured himself forth on every side (samantād avaśīryata).
+“Hearing these words, she assumed a divine form (_divyaṃ rūpam adhārayat_); and beholding her majesty and beauty (_tasyā mahimāṃ dṛṣṭvā_), he poured himself forth on every side (_samantād avaśīryata_).
 </details>
 </details>
 
@@ -743,7 +743,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then Pāvaka sprinkled and bathed the Goddess on every side (samantatas tadā devīm abhyaṣiñcata), O delight of the Raghus, so that all the channels and currents of Gaṅgā were filled (sarvasrotāṃsi pūrṇāni gaṅgāyāḥ).
+“Then Pāvaka sprinkled and bathed the Goddess on every side (_samantatas tadā devīm abhyaṣiñcata_), O delight of the Raghus, so that all the channels and currents of Gaṅgā were filled (_sarvasrotāṃsi pūrṇāni gaṅgāyāḥ_).
 </details>
 </details>
 
@@ -797,7 +797,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon Gaṅgā spoke to him who walks at the head of all the gods (sarvadevapurogamam): ‘O Lord, I am unable to bear your surging fiery energy (aśaktā dhāraṇe deva tejas tava samuddhatam),
+“Thereupon Gaṅgā spoke to him who walks at the head of all the gods (_sarvadevapurogamam_): ‘O Lord, I am unable to bear your surging fiery energy (_aśaktā dhāraṇe deva tejas tava samuddhatam_),
 </details>
 </details>
 
@@ -847,7 +847,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘for I am being scorched by that fire and my consciousness is utterly anguished (dahyamānāgninā tena sampravyathitacetanā)!’ Then the oblation-consumer of all the gods (sarvadevahutāśanaḥ) spoke thus to Gaṅgā:
+“‘for I am being scorched by that fire and my consciousness is utterly anguished (_dahyamānāgninā tena sampravyathitacetanā_)!’ Then the oblation-consumer of all the gods (_sarvadevahutāśanaḥ_) spoke thus to Gaṅgā:
 </details>
 </details>
 
@@ -895,7 +895,7 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Let this embryo be deposited right here upon the flank of Himavān (iha haimavate pārśve garbho ’yaṃ saṃniveśyatām)!’ Hearing Agni’s words, Gaṅgā took that supremely radiant embryo (taṃ garbham atibhāsvaram)
+“‘Let this embryo be deposited right here upon the flank of Himavān (_iha haimavate pārśve garbho ’yaṃ saṃniveśyatām_)!’ Hearing Agni’s words, Gaṅgā took that supremely radiant embryo (_taṃ garbham atibhāsvaram_)
 </details>
 </details>
 
@@ -954,9 +954,9 @@ As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “and she of mighty splendor cast it forth from her currents (utsasarja mahātejāḥ srotobhyo hi), O sinless Rāma. Whatever issued from her thereby, gleaming like molten Jambūnada gold (taptajāmbūnadaprabham),
+**18:** “and she of mighty splendor cast it forth from her currents (_utsasarja mahātejāḥ srotobhyo hi_), O sinless Rāma. Whatever issued from her thereby, gleaming like molten Jambūnada gold (_taptajāmbūnadaprabham_),
 
-**19:** “became upon reaching the earth pure gold (kāñcanam) and silver of peerless luster (hiraṇyam atulaprabham); and from its fiery sharpness (taikṣṇyād eva) were born copper and black iron (tāmraṃ kārṣṇāyasaṃ caiva).
+**19:** “became upon reaching the earth pure gold (_kāñcanam_) and silver of peerless luster (_hiraṇyam atulaprabham_); and from its fiery sharpness (_taikṣṇyād eva_) were born copper and black iron (_tāmraṃ kārṣṇāyasaṃ caiva_).
 </details>
 </details>
 
@@ -1008,7 +1008,7 @@ As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Its dross there became tin and lead (malaṃ tasyābhavat tatra trapu sīsakam eva ca); thus reaching the earth, that effulgence multiplied into manifold mineral ores (nānādhātur avardhata).
+“Its dross there became tin and lead (_malaṃ tasyābhavat tatra trapu sīsakam eva ca_); thus reaching the earth, that effulgence multiplied into manifold mineral ores (_nānādhātur avardhata_).
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgen
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the very moment the embryo was laid down (nikṣiptamātre garbhe tu), the entire forest bordering the mountain (sarvaṃ parvatasaṃnaddhaṃ vanam), irradiated by its splendors (tejobhir abhirañjitam), became golden (sauvarṇam abhavat).
+“And the very moment the embryo was laid down (_nikṣiptamātre garbhe tu_), the entire forest bordering the mountain (_sarvaṃ parvatasaṃnaddhaṃ vanam_), irradiated by its splendors (_tejobhir abhirañjitam_), became golden (_sauvarṇam abhavat_).
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From that time forth, O Rāghava, tiger among men, gold blazing like fire (suvarṇaṃ hutāśanasamaprabham) has been renowned as jātarūpa (‘whose form was born there’); and every grass, tree, creeper, and shrub there became gold (sarvaṃ bhavati kāñcanam).
+“From that time forth, O Rāghava, tiger among men, gold blazing like fire (_suvarṇaṃ hutāśanasamaprabham_) has been renowned as _jātarūpa_ (‘whose form was born there’); and every grass, tree, creeper, and shrub there became gold (_sarvaṃ bhavati kāñcanam_).
 </details>
 </details>
 
@@ -1161,7 +1161,7 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the gods together with Indra and the hosts of Maruts (sendrāḥ saha marudgaṇāḥ) appointed the six Kṛttikās to nurse that newborn prince with their milk (kṣīrasambhāvanārthāya kṛttikāḥ samayojayan).
+“Then the gods together with Indra and the hosts of Maruts (_sendrāḥ saha marudgaṇāḥ_) appointed the six Kṛttikās to nurse that newborn prince with their milk (_kṣīrasambhāvanārthāya kṛttikāḥ samayojayan_).
 </details>
 </details>
 
@@ -1217,7 +1217,7 @@ Forming a solemn pact that the child shall belong equally to them all, the six K
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Making an excellent pact among themselves (kṛtvā samayam uttamam) and resolved, ‘This son belongs to all of us alike!’ (putro ’yam asmākaṃ sarvāsām iti niścitāḥ), they offered their milk to him the moment he was born (tāḥ kṣīraṃ jātamātrasya daduḥ).
+“Making an excellent pact among themselves (_kṛtvā samayam uttamam_) and resolved, ‘This son belongs to all of us alike!’ (_putro ’yam asmākaṃ sarvāsām iti niścitāḥ_), they offered their milk to him the moment he was born (_tāḥ kṣīraṃ jātamātrasya daduḥ_).
 </details>
 </details>
 
@@ -1264,7 +1264,7 @@ Forming a solemn pact that the child shall belong equally to them all, the six K
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon all the deities declared: ‘This son, under the name Kārtikeya (kārtikeya iti), shall without doubt become renowned throughout the three worlds (putras trailokyavikhyāto bhaviṣyati na saṃśayaḥ)!’
+“Thereupon all the deities declared: ‘This son, under the name Kārtikeya (_kārtikeya iti_), shall without doubt become renowned throughout the three worlds (_putras trailokyavikhyāto bhaviṣyati na saṃśayaḥ_)!’
 </details>
 </details>
 
@@ -1312,7 +1312,7 @@ the womb of Ganga. [1-37-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of theirs, the Kṛttikās bathed (snāpayan) the child who had slipped forth in the effusion of the womb (skannaṃ garbhaparisrave) and was blazing with supreme luster like fire (parayā lakṣmyā dīpyamānaṃ yathānalam).
+“Hearing those words of theirs, the Kṛttikās bathed (_snāpayan_) the child who had slipped forth in the effusion of the womb (_skannaṃ garbhaparisrave_) and was blazing with supreme luster like fire (_parayā lakṣmyā dīpyamānaṃ yathānalam_).
 </details>
 </details>
 
@@ -1367,7 +1367,7 @@ the womb of Ganga. [1-37-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And because he had slipped forth during the effusion of the womb (skannaṃ garbhaparisrave), O Kākutstha, the gods called that mighty-armed Kārtikeya, who resembled blazing fire, ‘Skanda’ (skanda ity abruvan devāḥ).
+“And because he had slipped forth during the effusion of the womb (_skannaṃ garbhaparisrave_), O Kākutstha, the gods called that mighty-armed Kārtikeya, who resembled blazing fire, ‘Skanda’ (_skanda ity abruvan devāḥ_).
 </details>
 </details>
 
@@ -1431,7 +1431,7 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then the peerless milk of the six Kṛttikās flowed forth (prādurbhūtaṃ tataḥ kṣīraṃ kṛttikānām anuttamam); and becoming six-faced (ṣaḍānano bhūtvā), he drank the milk born of the breasts of all six (ṣaṇṇāṃ jagrāha stanajaṃ payaḥ).
+“Then the peerless milk of the six Kṛttikās flowed forth (_prādurbhūtaṃ tataḥ kṣīraṃ kṛttikānām anuttamam_); and becoming six-faced (_ṣaḍānano bhūtvā_), he drank the milk born of the breasts of all six (_ṣaṇṇāṃ jagrāha stanajaṃ payaḥ_).
 </details>
 </details>
 
@@ -1487,7 +1487,7 @@ ajayat* = triumphed over.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having drunk their milk in a single day (gṛhītvā kṣīram ekāhnā), that all-pervading Lord (vibhuḥ), though tender and youthful in body (sukumāravapus tadā), vanquished the hosts of Daitya armies by his own valor (ajayat svena vīryeṇa daityasainyagaṇān).
+“Having drunk their milk in a single day (_gṛhītvā kṣīram ekāhnā_), that all-pervading Lord (_vibhuḥ_), though tender and youthful in body (_sukumāravapus tadā_), vanquished the hosts of Daitya armies by his own valor (_ajayat svena vīryeṇa daityasainyagaṇān_).
 </details>
 </details>
 
@@ -1534,7 +1534,7 @@ ajayat* = triumphed over.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then all the immortals led by Agni (tatas tam amarāḥ sarve sametyāgnipurogamāḥ) assembled and consecrated that lord of mighty splendor as commander-in-chief of the celestial armies (surasenāgaṇapatim abhyaṣiñcan mahādyutim).
+“Then all the immortals led by Agni (_tatas tam amarāḥ sarve sametyāgnipurogamāḥ_) assembled and consecrated that lord of mighty splendor as commander-in-chief of the celestial armies (_surasenāgaṇapatim abhyaṣiñcan mahādyutim_).
 </details>
 </details>
 
@@ -1582,7 +1582,7 @@ ajayat* = triumphed over.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, O Rāma, the detailed account of Gaṅgā has been related to you by me (eṣa te rāma gaṅgāyā vistaro ’bhihito mayā), together with the auspicious and merit-bestowing birth of Kumāra (kumārasambhavaś caiva dhanyaḥ puṇyas tathaiva ca).
+“Thus, O Rāma, the detailed account of Gaṅgā has been related to you by me (_eṣa te rāma gaṅgāyā vistaro ’bhihito mayā_), together with the auspicious and merit-bestowing birth of Kumāra (_kumārasambhavaś caiva dhanyaḥ puṇyas tathaiva ca_).
 </details>
 </details>
 
@@ -1647,7 +1647,7 @@ ajayat* = triumphed over.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever mortal on earth is devoted to Kārtikeya (bhaktaś ca yaḥ kārtikeye bhuvi mānavaḥ), O Kākutstha, shall live long blessed with sons and grandsons (āyuṣmān putrapautraiś ca) and attain the very realm of Skanda (skandasālokyatāṃ vrajet)!”
+“And whatever mortal on earth is devoted to Kārtikeya (_bhaktaś ca yaḥ kārtikeye bhuvi mānavaḥ_), O Kākutstha, shall live long blessed with sons and grandsons (_āyuṣmān putrapautraiś ca_) and attain the very realm of Skanda (_skandasālokyatāṃ vrajet_)!”
 </details>
 </details>
 

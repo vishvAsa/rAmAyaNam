@@ -48,7 +48,7 @@ Rejoicing with his brothers after dismissing his allies, Rāma hears a sweet voi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dismissed the bears, monkeys, and rākṣasas (visṛjya ... ṛkṣa-vānara-rākṣasān), the mighty-armed Rāma, happy by his very nature (sukhī), rejoiced serenely in happiness (pramumoda sukham) together with his brothers.
+Having dismissed the bears, monkeys, and rākṣasas (_visṛjya ... ṛkṣa-vānara-rākṣasān_), the mighty-armed Rāma, happy by his very nature (_sukhī_), rejoiced serenely in happiness (_pramumoda sukham_) together with his brothers.
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Having dismissed the bears, monkeys, and rākṣasas (visṛjya ... ṛkṣa-vā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers, heard a sweet voice (madhurāṃ vāṇīm) spoken forth from the sky (antarikṣāt prabhāṣitām):
+Then, in the afternoon (_aparāhṇa-samaye_), Rāghava, seated with his brothers, heard a sweet voice (_madhurāṃ vāṇīm_) spoken forth from the sky (_antarikṣāt prabhāṣitām_):
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O gentle Rāma (saumya rāma), look upon me with a gracious countenance (saumyena vadanena); know me, O Lord, to be Puṣpaka, arrived from the palace of Kubera (kubera-bhavanāt prāptam)!
+“O gentle Rāma (_saumya rāma_), look upon me with a gracious countenance (_saumyena vadanena_); know me, O Lord, to be Puṣpaka, arrived from the palace of Kubera (_kubera-bhavanāt prāptam_)!
 </details>
 </details>
 
@@ -141,7 +141,7 @@ Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Obeying your command (tava śāsanam ājñāya), O foremost of men, I went to his palace to attend upon him (upasthātum); and he answered me thus:
+“Obeying your command (_tava śāsanam ājñāya_), O foremost of men, I went to his palace to attend upon him (_upasthātum_); and he answered me thus:
 </details>
 </details>
 
@@ -172,7 +172,7 @@ Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘You have been fairly won (nirjitas tvam) by the high-souled monarch Rāghava, after slaying in battle (nihatya yudhi) the unassailable Rāvaṇa, lord of the rākṣasas.
+“‘You have been fairly won (_nirjitas tvam_) by the high-souled monarch Rāghava, after slaying in battle (_nihatya yudhi_) the unassailable Rāvaṇa, lord of the rākṣasas.
 </details>
 </details>
 
@@ -203,7 +203,7 @@ Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘I too felt supreme delight (mamāpi paramā prītiḥ) when that wicked-souled Rāvaṇa was slain (hate tasmin durātmani), together with his troops, his sons, and his kinsmen (sa-gaṇe ... sa-putre saha-bāndhave).
+“‘I too felt supreme delight (_mamāpi paramā prītiḥ_) when that wicked-souled Rāvaṇa was slain (_hate tasmin durātmani_), together with his troops, his sons, and his kinsmen (_sa-gaṇe ... sa-putre saha-bāndhave_).
 </details>
 </details>
 
@@ -242,7 +242,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Therefore, won as you were in Laṅkā by the supreme-souled Rāma (nirjitaḥ paramātmanā), bear him alone, O gentle one (vaha saumya tam eva tvam)—this I command you (aham ājñāpayāmi te)!
+“‘Therefore, won as you were in Laṅkā by the supreme-souled Rāma (_nirjitaḥ paramātmanā_), bear him alone, O gentle one (_vaha saumya tam eva tvam_)—this I command you (_aham ājñāpayāmi te_)!
 </details>
 </details>
 
@@ -273,7 +273,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘For this is my highest wish (paramo hy eṣa me kāmaḥ), that you should bear the delight of the Raghus (rāghava-nandanam) in his journeys through the worlds (lokasya saṃyānam); go forth freed from all anxiety (gacchasva vigatajvaraḥ)!’
+“‘For this is my highest wish (_paramo hy eṣa me kāmaḥ_), that you should bear the delight of the Raghus (_rāghava-nandanam_) in his journeys through the worlds (_lokasya saṃyānam_); go forth freed from all anxiety (_gacchasva vigatajvaraḥ_)!’
 </details>
 </details>
 
@@ -304,7 +304,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus, having accepted the command of the high-souled Lord of Wealth (śāsanam ājñāya dhanadasya mahātmanaḥ), I have returned to your presence (tvat-sakāśam anuprāptaḥ); receive me without any hesitation (nirviśaṅkaḥ pratīkṣa mām)!
+“Thus, having accepted the command of the high-souled Lord of Wealth (_śāsanam ājñāya dhanadasya mahātmanaḥ_), I have returned to your presence (_tvat-sakāśam anuprāptaḥ_); receive me without any hesitation (_nirviśaṅkaḥ pratīkṣa mām_)!
 </details>
 </details>
 
@@ -335,7 +335,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unassailable by all beings (adṛṣyaḥ sarvabhūtānām) through Kubera’s decree (dhanadājñayā), I shall roam everywhere by my own potency (carāmy ahaṃ prabhāveṇa), ever upholding your command (tavājñāṃ paripālayan)!”
+“Unassailable by all beings (_adṛṣyaḥ sarvabhūtānām_) through Kubera’s decree (_dhanadājñayā_), I shall roam everywhere by my own potency (_carāmy ahaṃ prabhāveṇa_), ever upholding your command (_tavājñāṃ paripālayan_)!”
 </details>
 </details>
 
@@ -366,7 +366,7 @@ Declaring that Kubera himself commanded it to bear Rāma across the worlds, Pu�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Puṣpaka, the mighty Rāma gazed upon the aerial car (vimānaṃ punar āgatam) that had returned to him, and spoke to Puṣpaka:
+Addressed thus by Puṣpaka, the mighty Rāma gazed upon the aerial car (_vimānaṃ punar āgatam_) that had returned to him, and spoke to Puṣpaka:
 </details>
 </details>
 
@@ -400,7 +400,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If it be thus (yady evam), then welcome to you, O Puṣpaka, foremost of aerial cars (svāgataṃ te ’stu vimānavara puṣpaka)! By the gracious consent of the Lord of Wealth (ānukūlyād dhaneśasya), no blemish of conduct (vṛttadoṣaḥ) shall attach to us!”
+“If it be thus (_yady evam_), then welcome to you, O Puṣpaka, foremost of aerial cars (_svāgataṃ te ’stu vimānavara puṣpaka_)! By the gracious consent of the Lord of Wealth (_ānukūlyād dhaneśasya_), no blemish of conduct (_vṛttadoṣaḥ_) shall attach to us!”
 </details>
 </details>
 
@@ -439,7 +439,7 @@ Honoring Puṣpaka with parched grain, flowers, and fragrant incense, Rāma bids
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the mighty-armed Rāghava honored Puṣpaka (pūjayitvā ... puṣpakam) with parched grain (lājaiḥ), flowers (puṣpaiḥ), and fragrant incense (dhūpaiś caiva sugandhibhiḥ),
+Then the mighty-armed Rāghava honored Puṣpaka (_pūjayitvā ... puṣpakam_) with parched grain (_lājaiḥ_), flowers (_puṣpaiḥ_), and fragrant incense (_dhūpaiś caiva sugandhibhiḥ_),
 </details>
 </details>
 
@@ -476,7 +476,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And spoke to it: “Go now (gamyatām), and return whenever I call you to mind (āgaccha tvaṃ smare yadā)! O gentle one, do not afflict yourself—or trouble the Siddhas—with distress along the aerial path of the Siddhas (siddhānāṃ ca gatau ... mā viṣādena yojaya), and may no obstacle ever impede you (pratighātaś ca te mā bhūt) as you travel at will across the quarters (yatheṣṭaṃ gacchato diśaḥ)!”
+And spoke to it: “Go now (_gamyatām_), and return whenever I call you to mind (_āgaccha tvaṃ smare yadā_)! O gentle one, do not afflict yourself—or trouble the Siddhas—with distress along the aerial path of the Siddhas (_siddhānāṃ ca gatau ... mā viṣādena yojaya_), and may no obstacle ever impede you (_pratighātaś ca te mā bhūt_) as you travel at will across the quarters (_yatheṣṭaṃ gacchato diśaḥ_)!”
 </details>
 </details>
 
@@ -507,7 +507,7 @@ And spoke to it: “Go now (gamyatām), and return whenever I call you to mind (
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Saying “So be it!” (evam astv iti), that Puṣpaka, duly worshipped and dismissed by Rāma (rāmeṇa pūjayitvā visarjitam), thereupon departed from that place toward its chosen quarter (abhipretāṃ diśaṃ ... prāyāt).
+Saying “So be it!” (_evam astv iti_), that Puṣpaka, duly worshipped and dismissed by Rāma (_rāmeṇa pūjayitvā visarjitam_), thereupon departed from that place toward its chosen quarter (_abhipretāṃ diśaṃ ... prāyāt_).
 </details>
 </details>
 
@@ -538,7 +538,7 @@ Saying “So be it!” (evam astv iti), that Puṣpaka, duly worshipped and dism
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When that exquisitely fashioned Puṣpaka (puṣpake sukṛtātmani) had thus vanished from sight (evam antarhite), Bharata, with palms joined in reverence (prāñjaliḥ), addressed these words to the delight of the Raghus:
+When that exquisitely fashioned Puṣpaka (_puṣpake sukṛtātmani_) had thus vanished from sight (_evam antarhite_), Bharata, with palms joined in reverence (_prāñjaliḥ_), addressed these words to the delight of the Raghus:
 </details>
 </details>
 
@@ -569,7 +569,7 @@ When that exquisitely fashioned Puṣpaka (puṣpake sukṛtātmani) had thus va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While you—whose nature is manifold and wondrous (vividhātmani ... tvayi)—rule the realm (praśāsati), O hero, the spoken utterances of non-human beings (amānuṣāṇāṃ sattvānāṃ vyāhṛtāni) are witnessed again and again (dṛśyante ... muhur muhuḥ)!
+“While you—whose nature is manifold and wondrous (_vividhātmani ... tvayi_)—rule the realm (_praśāsati_), O hero, the spoken utterances of non-human beings (_amānuṣāṇāṃ sattvānāṃ vyāhṛtāni_) are witnessed again and again (_dṛśyante ... muhur muhuḥ_)!
 </details>
 </details>
 
@@ -610,9 +610,9 @@ Bharata celebrates the blessings of Rāma’s golden reign—freedom from sickne
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “This past month and more (sāgro māso gato hy ayam) has passed wholly free of disease for all creatures (anāmayaś ca sattvānām); death does not approach even the aged among living beings (jīrṇānām api sattvānāṃ mṛtyur nāyāti), O Rāghava!
+**18:** “This past month and more (_sāgro māso gato hy ayam_) has passed wholly free of disease for all creatures (_anāmayaś ca sattvānām_); death does not approach even the aged among living beings (_jīrṇānām api sattvānāṃ mṛtyur nāyāti_), O Rāghava!
 
-**19:** “Women bring forth children free from ailment (aroga-prasavā nāryaḥ), and men are vigorous and handsome of frame (vapuṣmanto hi mānavāḥ); and supreme joy abounds, O King, among the people dwelling in the city (janasya puravāsinaḥ).
+**19:** “Women bring forth children free from ailment (_aroga-prasavā nāryaḥ_), and men are vigorous and handsome of frame (_vapuṣmanto hi mānavāḥ_); and supreme joy abounds, O King, among the people dwelling in the city (_janasya puravāsinaḥ_).
 </details>
 </details>
 
@@ -643,7 +643,7 @@ Bharata celebrates the blessings of Rāma’s golden reign—freedom from sickne
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The rain-cloud showers down nectar-like waters in due season (kāle varṣati parjanyaḥ pātayann amṛtaṃ payaḥ), and these breezes blow soft to the touch, pleasant, and auspicious (sparśayuktāḥ sukhāḥ śivāḥ).
+“The rain-cloud showers down nectar-like waters in due season (_kāle varṣati parjanyaḥ pātayann amṛtaṃ payaḥ_), and these breezes blow soft to the touch, pleasant, and auspicious (_sparśayuktāḥ sukhāḥ śivāḥ_).
 </details>
 </details>
 
@@ -680,7 +680,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘May such an imperishable monarch be our lord of men!’ (īdṛśo ’naśvaro rājā bhaved iti nareśvaraḥ)—so speak both townsfolk and country-dwellers throughout the city (paurajānapadās tathā), O King!”
+“‘May such an imperishable monarch be our lord of men!’ (_īdṛśo ’naśvaro rājā bhaved iti nareśvaraḥ_)—so speak both townsfolk and country-dwellers throughout the city (_paurajānapadās tathā_), O King!”
 </details>
 </details>
 
@@ -722,6 +722,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these exceedingly sweet words spoken by Bharata (etā vācaḥ sumadhurā bharatena samīritāḥ), Rāma, foremost of kings (nṛpasattamaḥ), was filled with supreme gladness (mudā yukto babhūva).
+Hearing these exceedingly sweet words spoken by Bharata (_etā vācaḥ sumadhurā bharatena samīritāḥ_), Rāma, foremost of kings (_nṛpasattamaḥ_), was filled with supreme gladness (_mudā yukto babhūva_).
 </details>
 </details>

@@ -102,9 +102,9 @@ mighty monkey, Hanuma. [4-67-1, 2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Beholding that best of monkeys (tāṃ vānarottamam) suddenly (sahasā) expanding himself (jṛmbhamāṇam) to stride across the hundred yojanas (kramituṃ śatayojanam) and being filled with impetuous speed (vegenāpūryamāṇaṃ ca)—
+**1:** Beholding that best of monkeys (_tāṃ vānarottamam_) suddenly (_sahasā_) expanding himself (_jṛmbhamāṇam_) to stride across the hundred _yojanas_ (_kramituṃ śatayojanam_) and being filled with impetuous speed (_vegenāpūryamāṇaṃ ca_)—
 
-**2:** —they at once cast off their grief (sahasā śokam utsṛjya) and, filled with supreme joy (praharṣeṇa samanvitāḥ), roared aloud and praised the mighty Hanumān (vinedus tuṣṭuvuś cāpi hanūmantaṃ mahābalam).
+**2:** —they at once cast off their grief (_sahasā śokam utsṛjya_) and, filled with supreme joy (_praharṣeṇa samanvitāḥ_), roared aloud and praised the mighty Hanumān (_vinedus tuṣṭuvuś cāpi hanūmantaṃ mahābalam_).
 </details>
 </details>
 
@@ -160,7 +160,7 @@ at Hanuma who is now maximising his body. [4-67-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Delighted and struck with wonder (prahṛṣṭā vismitāś cāpi), they gazed upon him on all sides (te vīkṣante samantataḥ), even as creatures gazed upon Nārāyaṇa (nārāyaṇam iva prajāḥ) when He put forth His vigour for the Three Strides (trivikramaṃ kṛtotsāham).
+Delighted and struck with wonder (_prahṛṣṭā vismitāś cāpi_), they gazed upon him on all sides (_te vīkṣante samantataḥ_), even as creatures gazed upon Nārāyaṇa (_nārāyaṇam iva prajāḥ_) when He put forth His vigour for the Three Strides (_trivikramaṃ kṛtotsāham_).
 </details>
 </details>
 
@@ -217,7 +217,7 @@ then he impetuously lashed his tail and oversized himself. [4-67-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being extolled on every side (saṃstūyamānaḥ), the mighty Hanumān grew in stature (vyavardhata mahābalaḥ); and brandishing his tail (samāviddhya ca lāṅgūlam), out of joy he attained his full strength (harṣād balam upeyivān).
+Being extolled on every side (_saṃstūyamānaḥ_), the mighty Hanumān grew in stature (_vyavardhata mahābalaḥ_); and brandishing his tail (_samāviddhya ca lāṅgūlam_), out of joy he attained his full strength (_harṣād balam upeyivān_).
 </details>
 </details>
 
@@ -269,7 +269,7 @@ are eulogising him has become unsurpassed in its form. [4-67-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As he was thus praised by the elder bulls among monkeys (vṛddhair vānarapuṅgavaiḥ) and filled with fiery radiance (tejasā 'pūryamāṇasya), his form became unsurpassed (rūpam āsīd anuttamam).
+As he was thus praised by the elder bulls among monkeys (_vṛddhair vānarapuṅgavaiḥ_) and filled with fiery radiance (_tejasā &#x27;pūryamāṇasya_), his form became unsurpassed (_rūpam āsīd anuttamam_).
 </details>
 </details>
 
@@ -321,7 +321,7 @@ around a wide-open den of a mountain. [4-67-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as a lion stretches himself (yathā vijṛmbhate siṃhaḥ) in a wide-open mountain cavern (vivṛte girigahvare), so now does the direct son of the Wind expand himself (tathā samprati jṛmbhate).
+Even as a lion stretches himself (_yathā vijṛmbhate siṃhaḥ_) in a wide-open mountain cavern (_vivṛte girigahvare_), so now does the direct son of the Wind expand himself (_tathā samprati jṛmbhate_).
 </details>
 </details>
 
@@ -381,7 +381,7 @@ frying pan and like the fumeless white-hot Ritual-fire. [4-67-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The face of that wise one as he expanded himself (mukhaṃ tasya jṛmbhamāṇasya dhīmataḥ) shone forth (aśobhata), blazing like a glowing frying-pan [or like the sun] (ambarīṣopamaṃ dīptam), like a smokeless fire (vidhūma iva pāvakaḥ).
+The face of that wise one as he expanded himself (_mukhaṃ tasya jṛmbhamāṇasya dhīmataḥ_) shone forth (_aśobhata_), blazing like a glowing frying-pan [or like the sun] (_ambarīṣopamaṃ dīptam_), like a smokeless fire (_vidhūma iva pāvakaḥ_).
 </details>
 </details>
 
@@ -437,7 +437,7 @@ monkeys, Hanuma said this, with a spine-tingling sensation in his body. [4-67-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising up from the midst of the monkeys (harīṇām utthito madhyāt) with his body-hairs bristling in joy (samprahṛṣṭatanūruhaḥ), Hanumān bowed to the elder monkeys (abhivādya harīn vṛddhān) and spoke this word:
+Rising up from the midst of the monkeys (_harīṇām utthito madhyāt_) with his body-hairs bristling in joy (_samprahṛṣṭatanūruhaḥ_), Hanumān bowed to the elder monkeys (_abhivādya harīn vṛddhān_) and spoke this word:
 </details>
 </details>
 
@@ -494,7 +494,7 @@ mountaintops...... [4-67-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Shattering mountain peaks (ārujan parvatāgrāṇi), the friend of fire (hutāśanasakhaḥ), the Wind (anilaḥ), mighty and immeasurable (balavān aprameyaś ca), courses through the sky (vāyurākāśagocaraḥ).
+“Shattering mountain peaks (_ārujan parvatāgrāṇi_), the friend of fire (_hutāśanasakhaḥ_), the Wind (_anilaḥ_), mighty and immeasurable (_balavān aprameyaś ca_), courses through the sky (_vāyurākāśagocaraḥ_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ fashion.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of that high-souled Wind of swift speed (śīghravegasya) who moves swiftly (śīghragasya), I am the direct son (mārutasyaurasaḥ putraḥ); in leaping I am equal to him (plavanenāsmi tatsamaḥ)!
+“Of that high-souled Wind of swift speed (_śīghravegasya_) who moves swiftly (_śīghragasya_), I am the direct son (_mārutasyaurasaḥ putraḥ_); in leaping I am equal to him (_plavanenāsmi tatsamaḥ_)!
 </details>
 </details>
 
@@ -614,7 +614,7 @@ far...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, I am able (utsaheyaṃ hi) without pause (asaṅgena) to circle a thousand times (parigantuṃ sahasraśaḥ) the vast Mount Meru (vistīrṇaṃ meruṃ girim) that seems to scrape the sky (ālikhantam ivāmbaram).
+“Indeed, I am able (_utsaheyaṃ hi_) without pause (_asaṅgena_) to circle a thousand times (_parigantuṃ sahasraśaḥ_) the vast Mount Meru (_vistīrṇaṃ meruṃ girim_) that seems to scrape the sky (_ālikhantam ivāmbaram_).
 </details>
 </details>
 
@@ -673,7 +673,7 @@ shoreline in a fashion of misdemeanour, all through the creation, shall I make i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With the ocean driven onward by the force of my arms (bāhuvegapraṇunnena sāgareṇa), I am able (aham utsahe) to inundate the world (samāplāvayituṃ lokam) together with its mountains, rivers, and deep lakes (saparvatanadīhradam).
+“With the ocean driven onward by the force of my arms (_bāhuvegapraṇunnena sāgareṇa_), I am able (_aham utsahe_) to inundate the world (_samāplāvayituṃ lokam_) together with its mountains, rivers, and deep lakes (_saparvatanadīhradam_).
 </details>
 </details>
 
@@ -740,7 +740,7 @@ in the Great War with Ravana, in future...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the impetus of my thighs and shanks (mamorujaṅghāvegena), the ocean, the abode of Varuṇa (samudro varuṇālayaḥ), shall rise up (bhaviṣyati samutthitaḥ) with its great sea-monsters heaved aloft (samutthitamahāgrāhaḥ).
+“By the impetus of my thighs and shanks (_mamorujaṅghāvegena_), the ocean, the abode of Varuṇa (_samudro varuṇālayaḥ_), shall rise up (_bhaviṣyati samutthitaḥ_) with its great sea-monsters heaved aloft (_samutthitamahāgrāhaḥ_).
 </details>
 </details>
 
@@ -798,7 +798,7 @@ considerate of me...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As Vinatā's son [Garuḍa], the devourer of serpents (pannagāśanam), flies through the bird-thronged sky (ākāśe patantaṃ pakṣisevitam), I am able to circle him a thousand times (vainateyam ahaṃ śaktaḥ parigantuṃ sahasraśaḥ)!
+“As Vinatā&#x27;s son [Garuḍa], the devourer of serpents (_pannagāśanam_), flies through the bird-thronged sky (_ākāśe patantaṃ pakṣisevitam_), I am able to circle him a thousand times (_vainateyam ahaṃ śaktaḥ parigantuṃ sahasraśaḥ_)!
 </details>
 </details>
 
@@ -869,9 +869,9 @@ my touching the land... [4-67-15, 16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** “Or again, I am able to reach (ahaṃ gantuṃ samutsahe) the blazing, ray-garlanded sun (jvalantaṃ raśmimālinam ādityam) after it has set forth from the eastern mountain (udayāt prasthitam) before it sets (anastamitam)—
+**15:** “Or again, I am able to reach (_ahaṃ gantuṃ samutsahe_) the blazing, ray-garlanded sun (_jvalantaṃ raśmimālinam ādityam_) after it has set forth from the eastern mountain (_udayāt prasthitam_) before it sets (_anastamitam_)—
 
-**16:** “—and from there I am able to return again (punar āgantum utsahe) without touching the earth (bhūmim asaṃspṛṣṭvā), by my mighty, terrible speed alone (pravegenaiva mahatā bhīmena), O bulls among leapers!
+**16:** “—and from there I am able to return again (_punar āgantum utsahe_) without touching the earth (_bhūmim asaṃspṛṣṭvā_), by my mighty, terrible speed alone (_pravegenaiva mahatā bhīmena_), O bulls among leapers!
 </details>
 </details>
 
@@ -956,9 +956,9 @@ which all of its water will trail after my tail... [4-67-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** “I am able to outstrip (utsaheyam atikrāntum) all who course through the sky (sarvān ākāśagocarān); I shall dry up the oceans (sāgarān śoṣayiṣyāmi) and cleave the earth asunder (dārayiṣyāmi medinīm)!
+**17:** “I am able to outstrip (_utsaheyam atikrāntum_) all who course through the sky (_sarvān ākāśagocarān_); I shall dry up the oceans (_sāgarān śoṣayiṣyāmi_) and cleave the earth asunder (_dārayiṣyāmi medinīm_)!
 
-**18:** “A leaper (plavaṅgamaḥ), as I leap (plavamānaḥ) I shall pulverize the mountains (parvatāṃś cūrṇayiṣyāmi); leaping with the force of my thighs (uruvegena plavamānaḥ), I shall carry off the great ocean (hariṣyāmi mahārṇavam)!
+**18:** “A leaper (_plavaṅgamaḥ_), as I leap (_plavamānaḥ_) I shall pulverize the mountains (_parvatāṃś cūrṇayiṣyāmi_); leaping with the force of my thighs (_uruvegena plavamānaḥ_), I shall carry off the great ocean (_hariṣyāmi mahārṇavam_)!
 </details>
 </details>
 
@@ -1029,7 +1029,7 @@ Hanuma will yield crops in finding Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Manifold blossoms of creepers and of trees on every side (latānāṃ vividhaṃ puṣpaṃ pādapānāṃ ca sarvaśaḥ) shall follow after me today (anuyāsyati mām adya) as I leap through the sky (plavamānaṃ vihāyasā).
+“Manifold blossoms of creepers and of trees on every side (_latānāṃ vividhaṃ puṣpaṃ pādapānāṃ ca sarvaśaḥ_) shall follow after me today (_anuyāsyati mām adya_) as I leap through the sky (_plavamānaṃ vihāyasā_).
 </details>
 </details>
 
@@ -1088,7 +1088,7 @@ movement across the vast of sky, and my southerly descent from the sky... [4-67-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For my path in the sky (me panthāḥ ambare) shall become like the path of the star Svātī (svāteḥ panthā iva); and as I course through the dread firmament (carantaṃ ghoram ākāśam) and leap upward (utpatiṣyantam eva ca)—
+“For my path in the sky (_me panthāḥ ambare_) shall become like the path of the star Svātī (_svāteḥ panthā iva_); and as I course through the dread firmament (_carantaṃ ghoram ākāśam_) and leap upward (_utpatiṣyantam eva ca_)—
 </details>
 </details>
 
@@ -1165,9 +1165,9 @@ gustily alacritous single flight...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “—all beings shall behold me descending (drakṣyanti nipatantaṃ ca sarvabhūtāni), O monkeys! You shall behold me resembling great Mount Meru (mahāmerupratīkāśaṃ māṃ drakṣyadhvaṃ plavaṅgamāḥ)—
+**21:** “—all beings shall behold me descending (_drakṣyanti nipatantaṃ ca sarvabhūtāni_), O monkeys! You shall behold me resembling great Mount Meru (_mahāmerupratīkāśaṃ māṃ drakṣyadhvaṃ plavaṅgamāḥ_)—
 
-**22:** “—going forth enveloping the heaven (divam āvṛtya gacchantam) and devouring the sky, as it were (grasamānam ivāmbaram)! Leaping with concentrated mind (plavamānaḥ samāhitaḥ), I shall scatter the clouds (vidhamiṣyāmi jīmūtān), shake the mountains (kampayiṣyāmi parvatān), and dry up the ocean (sāgaraṃ śoṣayiṣyāmi)!
+**22:** “—going forth enveloping the heaven (_divam āvṛtya gacchantam_) and devouring the sky, as it were (_grasamānam ivāmbaram_)! Leaping with concentrated mind (_plavamānaḥ samāhitaḥ_), I shall scatter the clouds (_vidhamiṣyāmi jīmūtān_), shake the mountains (_kampayiṣyāmi parvatān_), and dry up the ocean (_sāgaraṃ śoṣayiṣyāmi_)!
 </details>
 </details>
 
@@ -1232,7 +1232,7 @@ treading after me, as none can surpass me in my speed...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether it be the power of Vinatā's son [Garuḍa], or mine, or that of the Wind (vainateyasya vā śaktir mama vā mārutasya vā)—save for the king of fair-winged birds or the mighty Wind (ṛte suparṇarājānaṃ mārutaṃ vā mahābalam), I behold no being (na tad bhūtaṃ prapaśyāmi) that could follow me once I have leapt (yan māṃ plutam anuvrajet).
+“Whether it be the power of Vinatā&#x27;s son [Garuḍa], or mine, or that of the Wind (_vainateyasya vā śaktir mama vā mārutasya vā_)—save for the king of fair-winged birds or the mighty Wind (_ṛte suparṇarājānaṃ mārutaṃ vā mahābalam_), I behold no being (_na tad bhūtaṃ prapaśyāmi_) that could follow me once I have leapt (_yan māṃ plutam anuvrajet_).
 </details>
 </details>
 
@@ -1284,7 +1284,7 @@ rocketing from a black-cloud in a trice? [4-67-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Within the mere space of an eyelash-twinkling (nimeṣāntaramātreṇa), I shall suddenly descend (sahasā nipatiṣyāmi) through the supportless sky (nirālambanam ambaram), like lightning flashing forth from a cloud (ghanād vidyud ivotthitā).
+“Within the mere space of an eyelash-twinkling (_nimeṣāntaramātreṇa_), I shall suddenly descend (_sahasā nipatiṣyāmi_) through the supportless sky (_nirālambanam ambaram_), like lightning flashing forth from a cloud (_ghanād vidyud ivotthitā_).
 </details>
 </details>
 
@@ -1344,7 +1344,7 @@ Vishnu who in those days easily paced the triad of worlds just in three paces...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For as I leap across the ocean (plavamānasya sāgaram), my form shall become (bhaviṣyati hi me rūpam) like that of Viṣṇu when He strode His three strides (viṣṇoḥ prakramamāṇasya tadā trīn vikramān iva)!
+“For as I leap across the ocean (_plavamānasya sāgaram_), my form shall become (_bhaviṣyati hi me rūpam_) like that of Viṣṇu when He strode His three strides (_viṣṇoḥ prakramamāṇasya tadā trīn vikramān iva_)!
 </details>
 </details>
 
@@ -1402,7 +1402,7 @@ hence, rejoice yourselves... [4-67-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And by my intellect I clearly foresee (buddhyā cāhaṃ prapaśyāmi), and so too does the prompting of my heart [tell] me (manaśceṣṭā ca me tathā): I shall behold Vaidehī (ahaṃ drakṣyāmi vaidehīm)—rejoice, O leapers (pramodadhvaṃ plavaṅgamāḥ)!
+“And by my intellect I clearly foresee (_buddhyā cāhaṃ prapaśyāmi_), and so too does the prompting of my heart [tell] me (_manaśceṣṭā ca me tathā_): I shall behold Vaidehī (_ahaṃ drakṣyāmi vaidehīm_)—rejoice, O leapers (_pramodadhvaṃ plavaṅgamāḥ_)!
 </details>
 </details>
 
@@ -1454,7 +1454,7 @@ traverse ten-thousand yojana-s at a stretch... that is my certitude... [4-67-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Equal to the Wind in impetuous speed (mārutasya samo vege) and equal to Garuḍa in swiftness (garuḍasya samo jave), I could go ten thousand yojanas (ayutaṃ yojanānāṃ tu gamiṣyāmi)—such is my conviction (iti me matiḥ).
+“Equal to the Wind in impetuous speed (_mārutasya samo vege_) and equal to Garuḍa in swiftness (_garuḍasya samo jave_), I could go ten thousand _yojanas_ (_ayutaṃ yojanānāṃ tu gamiṣyāmi_)—such is my conviction (_iti me matiḥ_).
 </details>
 </details>
 
@@ -1514,7 +1514,7 @@ to other monkeys. [4-67-28]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having overpowered by force (vikramya) even Indra with his thunderbolt (vāsavasya savajrasya) or the self-born Brahmā (brahmaṇo vā svayambhuvaḥ), I could suddenly bring hither the nectar from their very hand (sahasā hastād amṛtaṃ tad ihānaye)—
+“Having overpowered by force (_vikramya_) even Indra with his thunderbolt (_vāsavasya savajrasya_) or the self-born Brahmā (_brahmaṇo vā svayambhuvaḥ_), I could suddenly bring hither the nectar from their very hand (_sahasā hastād amṛtaṃ tad ihānaye_)—
 </details>
 </details>
 
@@ -1570,7 +1570,7 @@ gladdened.. [4-67-29b]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—or lifting up Laṅkā itself (laṅkāṃ vāpi samutkṣipya), I could carry it off (gaccheyam); such is my resolve (iti me matiḥ)!” At that best of monkeys thus roaring (tam evaṃ vānaraśreṣṭhaṃ garjantam) in boundless radiance (amitaprabham)—
+“—or lifting up Laṅkā itself (_laṅkāṃ vāpi samutkṣipya_), I could carry it off (_gaccheyam_); such is my resolve (_iti me matiḥ_)!” At that best of monkeys thus roaring (_tam evaṃ vānaraśreṣṭhaṃ garjantam_) in boundless radiance (_amitaprabham_)—
 </details>
 </details>
 
@@ -1626,7 +1626,7 @@ of his kinsmen, then the king of fly-jumpers Jambavanta is very much gladdened a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—the monkeys there, thrilled with joy (prahṛṣṭā harayas tatra), gazed up in wonder (samudaikṣanta vismitāḥ); and having heard that speech of his, which destroyed the grief of his kinsmen (jñātīnāṃ śokanāśanam)—
+—the monkeys there, thrilled with joy (_prahṛṣṭā harayas tatra_), gazed up in wonder (_samudaikṣanta vismitāḥ_); and having heard that speech of his, which destroyed the grief of his kinsmen (_jñātīnāṃ śokanāśanam_)—
 </details>
 </details>
 
@@ -1686,7 +1686,7 @@ out the boundless bother of your kinsmen in its entirety... [4-67-30b, 31a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Jāmbavān, lord of leapers (plavageśvaraḥ), filled with rapture (parisaṃhṛṣṭaḥ), spoke: “O hero, son of Kesarī, O swift one, son of the Wind (vīra kesariṇaḥ putra vegavan mārutātmaja)!
+—Jāmbavān, lord of leapers (_plavageśvaraḥ_), filled with rapture (_parisaṃhṛṣṭaḥ_), spoke: “O hero, son of Kesarī, O swift one, son of the Wind (_vīra kesariṇaḥ putra vegavan mārutātmaja_)!
 </details>
 </details>
 
@@ -1740,7 +1740,7 @@ purpose of your attainment of the object, they all obsecrate orisons, devoutly..
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The vast grief of your kinsmen (jñātīnāṃ vipulaḥ śokaḥ), O dear one, has been destroyed by you (tvayā tāta praṇāśitaḥ)! The foremost monkeys assembled here, who desire your welfare (tava kalyāṇarucayaḥ kapimukhyāḥ samāgatāḥ),
+“The vast grief of your kinsmen (_jñātīnāṃ vipulaḥ śokaḥ_), O dear one, has been destroyed by you (_tvayā tāta praṇāśitaḥ_)! The foremost monkeys assembled here, who desire your welfare (_tava kalyāṇarucayaḥ kapimukhyāḥ samāgatāḥ_),
 </details>
 </details>
 
@@ -1799,7 +1799,7 @@ mission in teaching Seetha, about the relativity of soul-body-supreme, in Sundar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“shall with concentrated minds perform auspicious rites (maṅgalāny arthasiddhyarthaṃ kariṣyanti samāhitāḥ) for the accomplishment of the purpose! By the grace of the sages (ṛṣīṇāṃ ca prasādena) and with the approval of the monkey elders (kapivṛddhamatena ca),
+“shall with concentrated minds perform auspicious rites (_maṅgalāny arthasiddhyarthaṃ kariṣyanti samāhitāḥ_) for the accomplishment of the purpose! By the grace of the sages (_ṛṣīṇāṃ ca prasādena_) and with the approval of the monkey elders (_kapivṛddhamatena ca_),
 </details>
 </details>
 
@@ -1859,7 +1859,7 @@ breather...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“and by the grace of your preceptors (gurūṇāṃ ca prasādena), leap across the great ocean (samplava tvaṃ mahārṇavam)! And we shall stand upon a single foot (sthāsyāmaś caikapādena) until your return (yāvad āgamanaṃ tava)!
+“and by the grace of your preceptors (_gurūṇāṃ ca prasādena_), leap across the great ocean (_samplava tvaṃ mahārṇavam_)! And we shall stand upon a single foot (_sthāsyāmaś caikapādena_) until your return (_yāvad āgamanaṃ tava_)!
 </details>
 </details>
 
@@ -1922,7 +1922,7 @@ Rama who is other who can possibly do so...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And the lives of all the forest-dwellers (sarveṣāṃ jīvanāni vanaukasām) depend upon you (tvadgatāni)!” Then that tiger among monkeys [Hanumān] spoke to those forest-dwellers (tān uvāca vanaukasaḥ):
+“And the lives of all the forest-dwellers (_sarveṣāṃ jīvanāni vanaukasām_) depend upon you (_tvadgatāni_)!” Then that tiger among monkeys [Hanumān] spoke to those forest-dwellers (_tān uvāca vanaukasaḥ_):
 </details>
 </details>
 
@@ -2009,9 +2009,9 @@ kick-start... [4-67-36b, 37a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**36:** “Nothing in the world will bear my impetus in leaping (ko 'pi loke na me vegaṃ plavane dhārayiṣyati)! Here, belonging to this mountain that abounds in dense masses of rock (nagasyāsya śilāsaṃkaṭaśālinaḥ), are these—
+**36:** “Nothing in the world will bear my impetus in leaping (_ko &#x27;pi loke na me vegaṃ plavane dhārayiṣyati_)! Here, belonging to this mountain that abounds in dense masses of rock (_nagasyāsya śilāsaṃkaṭaśālinaḥ_), are these—
 
-**37:** “—peaks of Mahendra, both firm and mighty (śikharāṇi mahendrasya sthirāṇi ca mahānti ca), upon which peaks of Mahendra I shall put forth my momentum (yeṣu vegaṃ gamiṣyāmi mahendraśikhareṣv aham)—
+**37:** “—peaks of Mahendra, both firm and mighty (_śikharāṇi mahendrasya sthirāṇi ca mahānti ca_), upon which peaks of Mahendra I shall put forth my momentum (_yeṣu vegaṃ gamiṣyāmi mahendraśikhareṣv aham_)—
 </details>
 </details>
 
@@ -2082,7 +2082,7 @@ mahendra girim aaruroha || dharmaakuutam- *Thus Hanuma climbs Mt. Mahendra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—overspread with manifold trees (nānādrumavikīrṇeṣu) and resplendent with trickling mineral streams (dhātuniṣpandaśobhiṣu); for these mighty peaks will bear my impetus (etāni mama vegaṃ hi śikharāṇi mahānti ca)—
+“—overspread with manifold trees (_nānādrumavikīrṇeṣu_) and resplendent with trickling mineral streams (_dhātuniṣpandaśobhiṣu_); for these mighty peaks will bear my impetus (_etāni mama vegaṃ hi śikharāṇi mahānti ca_)—
 </details>
 </details>
 
@@ -2113,7 +2113,7 @@ mahendra girim aaruroha || dharmaakuutam- *Thus Hanuma climbs Mt. Mahendra.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—as I leap a hundred yojanas from here (plavato dhārayiṣyanti yojanānām itaḥ śatam)!” Then that monkey, the son of the Wind, resembling the Wind himself (mārutaprakhyaḥ sa harir mārutātmajaḥ) and crusher of foes (arimardanaḥ), ascended Mahendra, the best of mountains (āruroha nagaśreṣṭhaṃ mahendram)—
+“—as I leap a hundred _yojanas_ from here (_plavato dhārayiṣyanti yojanānām itaḥ śatam_)!” Then that monkey, the son of the Wind, resembling the Wind himself (_mārutaprakhyaḥ sa harir mārutātmajaḥ_) and crusher of foes (_arimardanaḥ_), ascended Mahendra, the best of mountains (_āruroha nagaśreṣṭhaṃ mahendram_)—
 </details>
 </details>
 
@@ -2147,7 +2147,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—covered with manifold blossoms [or trees] (vṛtaṃ nānāvidhaiḥ puṣpaiḥ), its grassy meadows frequented by deer (mṛgasevitaśādvalam), thronged with creepers and flowers (latākusumasambādham), and bearing trees with perpetual blossoms and fruits (nityapuṣpaphaladrumam);
+—covered with manifold blossoms [or trees] (_vṛtaṃ nānāvidhaiḥ puṣpaiḥ_), its grassy meadows frequented by deer (_mṛgasevitaśādvalam_), thronged with creepers and flowers (_latākusumasambādham_), and bearing trees with perpetual blossoms and fruits (_nityapuṣpaphaladrumam_);
 </details>
 </details>
 
@@ -2207,7 +2207,7 @@ where the flights of birds are uproarious, and pent-up rapids are clangourous. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—inhabited by lions and tigers (siṃhaśārdūlasahitam), frequented by rutting elephants (mattamātaṅgasevitam), echoing with flocks of impassioned birds (mattadvijagaṇodghuṣṭam), and crowded with gushing cascades of water (salilotpīḍasaṃkulam).
+—inhabited by lions and tigers (_siṃhaśārdūlasahitam_), frequented by rutting elephants (_mattamātaṅgasevitam_), echoing with flocks of impassioned birds (_mattadvijagaṇodghuṣṭam_), and crowded with gushing cascades of water (_salilotpīḍasaṃkulam_).
 </details>
 </details>
 
@@ -2267,7 +2267,7 @@ grand monkey Hanuma ambled on loftiest and towery crags of such a mountain. [4-6
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That mighty one, foremost of monkeys (sa mahābalaḥ hariśreṣṭhaḥ), equal in prowess to great Indra (mahendrasamavikramaḥ), ranged about (vicacāra) upon Mount Mahendra, which was lofty with great peaks (mahadbhir ucchritaṃ śṛṅgaiḥ).
+That mighty one, foremost of monkeys (_sa mahābalaḥ hariśreṣṭhaḥ_), equal in prowess to great Indra (_mahendrasamavikramaḥ_), ranged about (_vicacāra_) upon Mount Mahendra, which was lofty with great peaks (_mahadbhir ucchritaṃ śṛṅgaiḥ_).
 </details>
 </details>
 
@@ -2326,7 +2326,7 @@ verse.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressed down by that high-souled one with his two feet (pādābhyāṃ pīḍitas tena mahātmanā), the great mountain roared aloud (mahāśailo rarāsa), like a great rutting elephant struck by a lion (siṃhābhihato mahān matta iva dvipaḥ).
+Pressed down by that high-souled one with his two feet (_pādābhyāṃ pīḍitas tena mahātmanā_), the great mountain roared aloud (_mahāśailo rarāsa_), like a great rutting elephant struck by a lion (_siṃhābhihato mahān matta iva dvipaḥ_).
 </details>
 </details>
 
@@ -2384,7 +2384,7 @@ waterfalls have spouted out of that mountain by the impact of foot-stepping of H
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With its masses of rock scattered abroad (viprakīrṇaśiloccayaḥ), its deer and elephants terrified (vitrastamṛgamātaṅgaḥ), and its great trees violently shaken (prakampitamahādrumaḥ), it gushed forth torrents of water (mumoca salilotpīḍān).
+With its masses of rock scattered abroad (_viprakīrṇaśiloccayaḥ_), its deer and elephants terrified (_vitrastamṛgamātaṅgaḥ_), and its great trees violently shaken (_prakampitamahādrumaḥ_), it gushed forth torrents of water (_mumoca salilotpīḍān_).
 </details>
 </details>
 
@@ -2464,9 +2464,9 @@ that colossal mountain is desolated. [4-67-45, 46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**45:** By manifold couples of Gandharvas (nānāgandharvamithunaiḥ) grown reckless through drinking and amorous dalliance (pānasaṃsargakarkaśaiḥ), and by birds flying up (utpatadbhir vihaṃgaiś ca), as well as by troops of Vidyādharas (vidyādharagaṇair api)—
+**45:** By manifold couples of Gandharvas (_nānāgandharvamithunaiḥ_) grown reckless through drinking and amorous dalliance (_pānasaṃsargakarkaśaiḥ_), and by birds flying up (_utpatadbhir vihaṃgaiś ca_), as well as by troops of Vidyādharas (_vidyādharagaṇair api_)—
 
-**46:** —its great plateaus being abandoned (tyajyamānamahāsānuḥ), its great serpents driven into hiding [or crushed in their crevices] (saṃnilīnamahoragaḥ), that great mountain then had its crags and boulders flying up (śailaśṛṅgaśilotpātas tadābhūt sa mahāgiriḥ).
+**46:** —its great plateaus being abandoned (_tyajyamānamahāsānuḥ_), its great serpents driven into hiding [or crushed in their crevices] (_saṃnilīnamahoragaḥ_), that great mountain then had its crags and boulders flying up (_śailaśṛṅgaśilotpātas tadābhūt sa mahāgiriḥ_).
 </details>
 </details>
 
@@ -2532,7 +2532,7 @@ numerous are their colours, and with them the mountain itself is with flying col
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And with those serpents hissing (niḥśvasadbhiḥ) and half-emerged [from their crevices] (bhujagair ardhaniḥsṛtaiḥ), that supporter of the earth (sa dharaṇīdharaḥ) then shone as if decked with banners (sapatāka ivābhāti).
+And with those serpents hissing (_niḥśvasadbhiḥ_) and half-emerged [from their crevices] (_bhujagair ardhaniḥsṛtaiḥ_), that supporter of the earth (_sa dharaṇīdharaḥ_) then shone as if decked with banners (_sapatāka ivābhāti_).
 </details>
 </details>
 
@@ -2587,7 +2587,7 @@ forest, as a wilting wayfarer. [4-67-48]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Abandoned by sages bewildered with terror (ṛṣibhis trāsasambhrāntais tyajyamānaḥ), that mountain (śiloccayaḥ) sank down like a traveller bereft of his caravan in a vast wilderness (sīdan mahati kāntāre sārthahīna ivādhvagaḥ).
+Abandoned by sages bewildered with terror (_ṛṣibhis trāsasambhrāntais tyajyamānaḥ_), that mountain (_śiloccayaḥ_) sank down like a traveller bereft of his caravan in a vast wilderness (_sīdan mahati kāntāre sārthahīna ivādhvagaḥ_).
 </details>
 </details>
 
@@ -2666,6 +2666,6 @@ impulses and making soul is quite staid in speediness, he made head away to Lank
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that swift one, his spirit concentrated upon his speed (vegasamāhitātmā), that foremost hero among monkeys and slayer of hostile heroes (haripravīraḥ paravīrahantā), of mighty majesty (mahānubhāvaḥ) and high resolve (manasvī), having steadied his mind (manaḥ samādhāya), went in thought to Laṅkā (jagāma laṅkāṃ manasā).
+Then that swift one, his spirit concentrated upon his speed (_vegasamāhitātmā_), that foremost hero among monkeys and slayer of hostile heroes (_haripravīraḥ paravīrahantā_), of mighty majesty (_mahānubhāvaḥ_) and high resolve (_manasvī_), having steadied his mind (_manaḥ samādhāya_), went in thought to Laṅkā (_jagāma laṅkāṃ manasā_).
 </details>
 </details>

@@ -84,7 +84,7 @@ smile preceding his words. [3-18-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma, smiling first (smita-pūrvam), spoke at will in gentle, polished words (ślakṣṇayā vācā) to that Śūrpaṇakhā, who was bound fast in the noose of lust (kāma-pāśāvapāśitām):
+Then Rāma, smiling first (_smita-pūrvam_), spoke at will in gentle, polished words (_ślakṣṇayā vācā_) to that Śūrpaṇakhā, who was bound fast in the noose of lust (_kāma-pāśāvapāśitām_):
 </details>
 </details>
 
@@ -136,7 +136,7 @@ of females to live with a co-wife. [3-18-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am already married (kṛta-dāro 'smi), good lady (bhavati), and this is my beloved wife; for women like you, living with a co-wife (sasapatnatā) is most painful.
+“I am already married (_kṛta-dāro &#x27;smi_), good lady (_bhavati_), and this is my beloved wife; for women like you, living with a co-wife (_sasapatnatā_) is most painful.
 </details>
 </details>
 
@@ -275,9 +275,9 @@ wife and youthful also. After Prof. Satya Vrat. Unchained is he by nuptial bands
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**3:** “But this younger brother of mine named Lakṣmaṇa is virtuous (śīlavān), handsome to behold, auspicious, unmarried [here in the forest] (akṛta-dāraḥ), and valiant.
+**3:** “But this younger brother of mine named Lakṣmaṇa is virtuous (_śīlavān_), handsome to behold, auspicious, unmarried [here in the forest] (_akṛta-dāraḥ_), and valiant.
 
-**4:** “Without a prior wife here [or: unaccustomed to a wife’s company] (apūrvī) and in need of a consort (bhāryayā cārthī), youthful and pleasing to look upon, he will be a husband well matched (anurūpaś ca) to this form of yours.
+**4:** “Without a prior wife here [or: unaccustomed to a wife’s company] (_apūrvī_) and in need of a consort (_bhāryayā cārthī_), youthful and pleasing to look upon, he will be a husband well matched (_anurūpaś ca_) to this form of yours.
 </details>
 </details>
 
@@ -338,7 +338,7 @@ Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O wide-eyed lady of shapely hips (varārohe), court this brother of mine as your husband without a rival co-wife (asapatnā), just as sunlight courts Mount Meru (merum arka-prabhā yathā).”
+“O wide-eyed lady of shapely hips (_varārohe_), court this brother of mine as your husband without a rival co-wife (_asapatnā_), just as sunlight courts Mount Meru (_merum arka-prabhā yathā_).”
 </details>
 </details>
 
@@ -389,7 +389,7 @@ to Lakshmana. [3-18-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, that rākṣasī, infatuated with lust (kāma-mohitā), immediately left Rāma and spoke to Lakṣmaṇa.
+Thus addressed by Rāma, that _rākṣasī_, infatuated with lust (_kāma-mohitā_), immediately left Rāma and spoke to Lakṣmaṇa.
 </details>
 </details>
 
@@ -449,7 +449,7 @@ all over Dandaka forest along with me." So Shuurpanakha ran after Lakshmana. [3-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As a lady of exquisite complexion (vara-varṇinī), I am a fitting wife (yuktā bhāryā) for this handsome form of yours; together with me you shall happily roam all the Daṇḍaka woods.”
+“As a lady of exquisite complexion (_vara-varṇinī_), I am a fitting wife (_yuktā bhāryā_) for this handsome form of yours; together with me you shall happily roam all the Daṇḍaka woods.”
 </details>
 </details>
 
@@ -504,7 +504,7 @@ and appropriately replied Shuurpanakha. [3-18-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the rākṣasī, Saumitri Lakṣmaṇa, skilled in speech (vākya-kovidaḥ), smiled and spoke fittingly (yuktam) to Śūrpaṇakhī:
+Thus addressed by the _rākṣasī_, Saumitri Lakṣmaṇa, skilled in speech (_vākya-kovidaḥ_), smiled and spoke fittingly (_yuktam_) to Śūrpaṇakhī:
 </details>
 </details>
 
@@ -556,7 +556,7 @@ servant like me? I am just a vassal of my adorable brother. [3-18-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How do you wish to become a female slave (dāsī) by becoming the wife of me, who am a slave (dāsasya me)? For I am wholly dependent (paravān) upon my noble elder brother, O lotus-hued lady (kamala-varṇini)!
+“How do you wish to become a female slave (_dāsī_) by becoming the wife of me, who am a slave (_dāsasya me_)? For I am wholly dependent (_paravān_) upon my noble elder brother, O lotus-hued lady (_kamala-varṇini_)!
 </details>
 </details>
 
@@ -620,7 +620,7 @@ worst wife? No, never you can.' Maheshvara Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With your desires fulfilled (siddhārthā), joyful, and of spotless complexion (amala-varṇinī), O wide-eyed one, become the younger wife (bhāryā yavīyasī) of my noble brother of abundant wealth (samṛddhārthasya).
+“With your desires fulfilled (_siddhārthā_), joyful, and of spotless complexion (_amala-varṇinī_), O wide-eyed one, become the younger wife (_bhāryā yavīyasī_) of my noble brother of abundant wealth (_samṛddhārthasya_).
 </details>
 </details>
 
@@ -704,7 +704,7 @@ wording. Maheshvara Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Abandoning this ugly, unchaste (asatīm), frightful, sunken-bellied (nirṇatodarīm), aged wife, he will surely devote himself to you alone!
+“Abandoning this ugly, unchaste (_asatīm_), frightful, sunken-bellied (_nirṇatodarīm_), aged wife, he will surely devote himself to you alone!
 </details>
 </details>
 
@@ -759,7 +759,7 @@ personality, indeed, in preference to human females?" Lakshmana said so to Shuur
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For what discerning man (vicakṣaṇaḥ), O fair-complexioned lady of shapely hips, would set aside this peerless beauty of yours (rūpam idaṃ śreṣṭham) and fix his affection upon mortal women (mānuṣīṣu)?”
+“For what discerning man (_vicakṣaṇaḥ_), O fair-complexioned lady of shapely hips, would set aside this peerless beauty of yours (_rūpam idaṃ śreṣṭham_) and fix his affection upon mortal women (_mānuṣīṣu_)?”
 </details>
 </details>
 
@@ -822,7 +822,7 @@ to be truthful, for she is equivocal of that equivoque. [3-18-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Lakṣmaṇa, that frightful, sunken-bellied [or: pot-bellied] rākṣasī, incapable of understanding banter (parihāsāvicakṣaṇā), took his words to be true (manyate tad vacaḥ satyam).
+Thus addressed by Lakṣmaṇa, that frightful, sunken-bellied [or: pot-bellied] _rākṣasī_, incapable of understanding banter (_parihāsāvicakṣaṇā_), took his words to be true (_manyate tad vacaḥ satyam_).
 </details>
 </details>
 
@@ -874,7 +874,7 @@ along with Seetha. [3-18-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Infatuated with lust (kāma-mohitā), she then spoke to the unassailable (durdharṣam) Rāma, the scorcher of foes, who was seated in the leaf-thatched cottage together with Sītā:
+Infatuated with lust (_kāma-mohitā_), she then spoke to the unassailable (_durdharṣam_) Rāma, the scorcher of foes, who was seated in the leaf-thatched cottage together with Sītā:
 </details>
 </details>
 
@@ -929,7 +929,7 @@ not regarding me high. [3-18-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Clinging (avaṣṭabhya) to this ugly, unchaste, frightful, sunken-bellied, aged wife, you do not hold me in high regard (na māṃ tvaṃ bahu manyase)!
+“Clinging (_avaṣṭabhya_) to this ugly, unchaste, frightful, sunken-bellied, aged wife, you do not hold me in high regard (_na māṃ tvaṃ bahu manyase_)!
 </details>
 </details>
 
@@ -981,7 +981,7 @@ along with you, without the botheration of a co-wife." Said Shuurpanakha to Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today I shall devour this mortal woman before your very eyes (paśyatas tava); then, free of any rival co-wife (niḥsapatnā), I shall roam with you at pleasure (yathā-sukham)!”
+“Today I shall devour this mortal woman before your very eyes (_paśyatas tava_); then, free of any rival co-wife (_niḥsapatnā_), I shall roam with you at pleasure (_yathā-sukham_)!”
 </details>
 </details>
 
@@ -1036,7 +1036,7 @@ as a great meteor would dash towards Rohini, the brightest star in the sky. [3-1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Speaking thus, she whose eyes glared like firebrands (alāta-sadṛśekṣaṇā) rushed in fury (susaṃkruddhā) at the fawn-eyed Sītā (mṛga-śāvākṣīm), like a great meteor (maholkā) hurtling toward the constellation Rohiṇī.
+Speaking thus, she whose eyes glared like firebrands (_alāta-sadṛśekṣaṇā_) rushed in fury (_susaṃkruddhā_) at the fawn-eyed Sītā (_mṛga-śāvākṣīm_), like a great meteor (_maholkā_) hurtling toward the constellation Rohiṇī.
 </details>
 </details>
 
@@ -1095,7 +1095,7 @@ down on Seetha said to Lakshmana. [3-18-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Restraining (vigṛhya) her as she lunged forward like the noose of Death (mṛtyu-pāśa-pratimām), the mighty Rāma, filled with wrath, then spoke to Lakṣmaṇa:
+Restraining (_vigṛhya_) her as she lunged forward like the noose of Death (_mṛtyu-pāśa-pratimām_), the mighty Rāma, filled with wrath, then spoke to Lakṣmaṇa:
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ somehow surviving [3-18-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“One must never jest (parihāsaḥ कथंचन न कार्यः) with the cruel and ignoble (krūrair anāryaiḥ), O Saumitri! Behold Vaidehī barely alive (kathaṃcit jīvatīm), O gentle brother!
+“One must never jest (_parihāsaḥ कथंचन न कार्यः_) with the cruel and ignoble (_krūrair anāryaiḥ_), O Saumitri! Behold Vaidehī barely alive (_kathaṃcit jīvatīm_), O gentle brother!
 </details>
 </details>
 
@@ -1198,7 +1198,7 @@ paunchy demoness " Thus Rama said to Lakshmana. [3-18-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O tiger among men, you ought to disfigure (virūpayitum arhasi) this ugly, unchaste, wildly intoxicated (atimattām), pot-bellied rākṣasī!”
+“O tiger among men, you ought to disfigure (_virūpayitum arhasi_) this ugly, unchaste, wildly intoxicated (_atimattām_), pot-bellied _rākṣasī_!”
 </details>
 </details>
 
@@ -1253,7 +1253,7 @@ the very eyes of Rama. [3-18-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commanded, the mighty Lakṣmaṇa, filled with wrath, drew his sword and sliced off her ears and nose (ciccheda karṇa-nāse) while Rāma looked on (rāmasya paśyataḥ).
+Thus commanded, the mighty Lakṣmaṇa, filled with wrath, drew his sword and sliced off her ears and nose (_ciccheda karṇa-nāse_) while Rāma looked on (_rāmasya paśyataḥ_).
 </details>
 </details>
 
@@ -1305,7 +1305,7 @@ speedily fled into forest as she came. [3-18-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With her ears and nose lopped off (nikṛtta-karṇa-nāsā), that dreadful Śūrpaṇakhā uttered a discordant shriek (visvaraṃ vinadya) and fled headlong into the forest by the way she had come (yathāgatam).
+With her ears and nose lopped off (_nikṛtta-karṇa-nāsā_), that dreadful Śūrpaṇakhā uttered a discordant shriek (_visvaraṃ vinadya_) and fled headlong into the forest by the way she had come (_yathāgatam_).
 </details>
 </details>
 
@@ -1365,7 +1365,7 @@ in cloudburst. [3-18-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deformed, exceedingly dreadful, and drenched in blood (śoṇitokṣitā), that rākṣasī uttered manifold roars (nanāda vividhān nādān) like a thundercloud in the rainy season (yathā prāvṛṣi toyadaḥ).
+Deformed, exceedingly dreadful, and drenched in blood (_śoṇitokṣitā_), that _rākṣasī_ uttered manifold roars (_nanāda vividhān nādān_) like a thundercloud in the rainy season (_yathā prāvṛṣi toyadaḥ_).
 </details>
 </details>
 
@@ -1411,7 +1411,7 @@ forest while her blood fountained and profusely exuded. [3-18-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Streaming blood profusely (vikṣarantī rudhiraṃ bahudhā) and frightful to behold, she threw up her arms (pragṛhya bāhū) and, roaring, plunged into the great forest.
+Streaming blood profusely (_vikṣarantī rudhiraṃ bahudhā_) and frightful to behold, she threw up her arms (_pragṛhya bāhū_) and, roaring, plunged into the great forest.
 </details>
 </details>
 
@@ -1471,7 +1471,7 @@ fell onto ground like a thunderbolt from the sky. [3-18-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, thus disfigured (virūpitā), she approached her brother Khara of fierce energy (ugra-tejasam), who was stationed in Janasthāna surrounded by hosts of rākṣasas, and fell upon the ground like a thunderbolt from the sky (gaganād yathāśaniḥ).
+Then, thus disfigured (_virūpitā_), she approached her brother Khara of fierce energy (_ugra-tejasam_), who was stationed in Janasthāna surrounded by hosts of _rākṣasas_, and fell upon the ground like a thunderbolt from the sky (_gaganād yathāśaniḥ_).
 </details>
 </details>
 
@@ -1547,6 +1547,6 @@ his misshaping her. [3-18-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, swooning with fear and delusion (bhaya-moha-mūrcchitā) and drenched in blood, that sister of Khara reported everything (śaśaṃsa sarvam)—how Rāghava had come to the forest accompanied by his wife and Lakṣmaṇa, and the disfigurement inflicted upon herself (virūpaṇaṃ cātmani).
+Then, swooning with fear and delusion (_bhaya-moha-mūrcchitā_) and drenched in blood, that sister of Khara reported everything (_śaśaṃsa sarvam_)—how Rāghava had come to the forest accompanied by his wife and Lakṣmaṇa, and the disfigurement inflicted upon herself (_virūpaṇaṃ cātmani_).
 </details>
 </details>

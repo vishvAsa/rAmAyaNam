@@ -48,7 +48,7 @@ At dawn Kuśa and Lava begin singing Vālmīki’s poem; spellbound by its unpre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the night broke into dawn (rajanyāṃ prabhātāyām), those two, bathed and having offered their fire-oblations (snātau huta-hutāśanau), sang everything there just as previously instructed by the sage (yathoktam ṛṣiṇā pūrvaṃ sarvaṃ tatropagāyatām).
+When the night broke into dawn (_rajanyāṃ prabhātāyām_), those two, bathed and having offered their fire-oblations (_snātau huta-hutāśanau_), sang everything there just as previously instructed by the sage (_yathoktam ṛṣiṇā pūrvaṃ sarvaṃ tatropagāyatām_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ When the night broke into dawn (rajanyāṃ prabhātāyām), those two, bathed a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Kākutstha listened to that unprecedented melodic composition (tāṃ sa śuśrāva kākutsthaḥ ... apūrvāṃ pāṭhya-jātiṃ ca) fashioned by the ancient preceptor (pūrvācārya-vinirmitām) and richly adorned with song (geyena samalaṅkṛtām),
+Kākutstha listened to that unprecedented melodic composition (_tāṃ sa śuśrāva kākutsthaḥ ... apūrvāṃ pāṭhya-jātiṃ ca_) fashioned by the ancient preceptor (_pūrvācārya-vinirmitām_) and richly adorned with song (_geyena samalaṅkṛtām_),
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Kākutstha listened to that unprecedented melodic composition (tāṃ sa śuśr�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-bound by manifold rhythmic measures (pramāṇair bahubhir baddhām) and united with lute-strings and tempo (tantrī-laya-samanvitām); hearing it from the two boys (bālābhyāṃ rāghavaḥ śrutvā), Rāghava was filled with intense wonder (kautūhala-paro ’bhavat).
+bound by manifold rhythmic measures (_pramāṇair bahubhir baddhām_) and united with lute-strings and tempo (_tantrī-laya-samanvitām_); hearing it from the two boys (_bālābhyāṃ rāghavaḥ śrutvā_), Rāghava was filled with intense wonder (_kautūhala-paro ’bhavat_).
 </details>
 </details>
 
@@ -173,13 +173,13 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Then in an interval between ritual acts (atha karmāntare), the king, tiger among men, summoned great sages (samāhūya mahāmunīn), monarchs, learned scholars, and Vedic masters as well (pārthivāṃś ca ... paṇḍitān naigamāṃs tathā),
+**4:** Then in an interval between ritual acts (_atha karmāntare_), the king, tiger among men, summoned great sages (_samāhūya mahāmunīn_), monarchs, learned scholars, and Vedic masters as well (_pārthivāṃś ca ... paṇḍitān naigamāṃs tathā_),
 
-**5:** reciters of Purāṇas, experts in grammar (paurāṇikāñ chabdavidaḥ), those who were elder twice-borns (ye ca vṛddhā dvijātayaḥ), and foremost brahmins eager to hear (utsukān dvijasattamān) who knew the defining marks of musical notes (svarāṇāṃ lakṣaṇajñāṃś ca),
+**5:** reciters of Purāṇas, experts in grammar (_paurāṇikāñ chabdavidaḥ_), those who were elder twice-borns (_ye ca vṛddhā dvijātayaḥ_), and foremost brahmins eager to hear (_utsukān dvijasattamān_) who knew the defining marks of musical notes (_svarāṇāṃ lakṣaṇajñāṃś ca_),
 
-**6:** as well as masters of physiognomic signs, musicologists (lakṣaṇajñāṃś ca gāndharvān), and civic elders especially (naigamāṃś ca viśeṣataḥ), experts in the metrical arrangement of quarter-verses and syllables (pādākṣara-samāsajñān) firmly grounded in Vedic metres (chandaḥsu pariniṣṭhitān),
+**6:** as well as masters of physiognomic signs, musicologists (_lakṣaṇajñāṃś ca gāndharvān_), and civic elders especially (_naigamāṃś ca viśeṣataḥ_), experts in the metrical arrangement of quarter-verses and syllables (_pādākṣara-samāsajñān_) firmly grounded in Vedic metres (_chandaḥsu pariniṣṭhitān_),
 
-**7:** and experts in tonal subdivisions and morae (kalā-mātrā-viśeṣajñān), those who have reached the farthest shore of astronomy (jyotiṣe ca paraṃ gatān), masters of ritual manuals (kriyā-kalpa-vidaś caiva) and men skilled in practical counsel (tathā kāryavido janān),
+**7:** and experts in tonal subdivisions and morae (_kalā-mātrā-viśeṣajñān_), those who have reached the farthest shore of astronomy (_jyotiṣe ca paraṃ gatān_), masters of ritual manuals (_kriyā-kalpa-vidaś caiva_) and men skilled in practical counsel (_tathā kāryavido janān_),
 </details>
 </details>
 
@@ -222,11 +222,11 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** masters of languages and readers of subtle gestures (bhāṣājñān iṅgitajñāṃś ca), merchants and civic elders without exception (naigamāṃś cāpy aśeṣataḥ), those adept in reasoned argumentation (hetūpacāra-kuśalān) and logicians in discourse (vacane cāpi haitukān),
+**8:** masters of languages and readers of subtle gestures (_bhāṣājñān iṅgitajñāṃś ca_), merchants and civic elders without exception (_naigamāṃś cāpy aśeṣataḥ_), those adept in reasoned argumentation (_hetūpacāra-kuśalān_) and logicians in discourse (_vacane cāpi haitukān_),
 
-**9:** prosodists, knowers of Purāṇas, foremost Vedic brahmins (chandovidaḥ purāṇajñān vaidikān dvijasattamān), masters of figured poetry, experts in conduct and sūtras (citrajñān vṛtta-sūtrajñān), and connoisseurs of song and dance (gīta-nṛtya-viśāradān),
+**9:** prosodists, knowers of Purāṇas, foremost Vedic brahmins (_chandovidaḥ purāṇajñān vaidikān dvijasattamān_), masters of figured poetry, experts in conduct and sūtras (_citrajñān vṛtta-sūtrajñān_), and connoisseurs of song and dance (_gīta-nṛtya-viśāradān_),
 
-**10:** experts in śāstras, skilled in polity, and expounders of the meaning of Vedānta (śāstrajñān nīti-nipuṇān vedāntārtha-prabodhakān)—bringing all these together (etān sarvān samānīya), he seated the two singers (gātārau samaveśayat).
+**10:** experts in śāstras, skilled in polity, and expounders of the meaning of Vedānta (_śāstrajñān nīti-nipuṇān vedāntārtha-prabodhakān_)—bringing all these together (_etān sarvān samānīya_), he seated the two singers (_gātārau samaveśayat_).
 </details>
 </details>
 
@@ -260,7 +260,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding them, all the throngs of sages and kings of mighty splendor (dṛṣṭvā munigaṇāḥ sarve pārthivāś ca mahaujasaḥ), as though drinking in with their eyes (pibanta iva cakṣurbhyām) both the king and those two singers (rājānaṃ gāyakau ca tau),
+Beholding them, all the throngs of sages and kings of mighty splendor (_dṛṣṭvā munigaṇāḥ sarve pārthivāś ca mahaujasaḥ_), as though drinking in with their eyes (_pibanta iva cakṣurbhyām_) both the king and those two singers (_rājānaṃ gāyakau ca tau_),
 </details>
 </details>
 
@@ -291,7 +291,7 @@ Beholding them, all the throngs of sages and kings of mighty splendor (dṛṣ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-spoke thus to one another on every side (ūcuḥ parasparaṃ cedaṃ sarva eva samantataḥ): “Both of these are the very likeness of Rāma (ubhau rāmasya sadṛśau), like a reflection sprung forth from its original form (bimbād bimbam ivotthitau)!”
+spoke thus to one another on every side (_ūcuḥ parasparaṃ cedaṃ sarva eva samantataḥ_): “Both of these are the very likeness of Rāma (_ubhau rāmasya sadṛśau_), like a reflection sprung forth from its original form (_bimbād bimbam ivotthitau_)!”
 </details>
 </details>
 
@@ -330,7 +330,7 @@ Marveling that without matted locks and bark robes the boys would be indistingui
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Were they not wearing matted locks (jaṭilau yadi na syātām) and were they not clad in bark garments (na valkala-dharau yadi), we could discern no difference at all (viśeṣaṃ nādhigacchāmaḥ) between these two singers and Rāghava (gāyato rāghavasya ca)!”
+“Were they not wearing matted locks (_jaṭilau yadi na syātām_) and were they not clad in bark garments (_na valkala-dharau yadi_), we could discern no difference at all (_viśeṣaṃ nādhigacchāmaḥ_) between these two singers and Rāghava (_gāyato rāghavasya ca_)!”
 </details>
 </details>
 
@@ -361,7 +361,7 @@ Marveling that without matted locks and bark robes the boys would be indistingui
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While they were thus conversing together (teṣāṃ saṃvadatām evam), those two sage-boys commenced the song (geyaṃ pracakratus tatra tāv ubhau muni-dārakau) that swelled the joy of the listeners (śrotṝṇāṃ harṣa-vardhanam).
+While they were thus conversing together (_teṣāṃ saṃvadatām evam_), those two sage-boys commenced the song (_geyaṃ pracakratus tatra tāv ubhau muni-dārakau_) that swelled the joy of the listeners (_śrotṝṇāṃ harṣa-vardhanam_).
 </details>
 </details>
 
@@ -392,7 +392,7 @@ While they were thus conversing together (teṣāṃ saṃvadatām evam), those 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then began a sweet, superhuman melody (tataḥ pravṛttaṃ madhuraṃ gāndharvam atimānuṣam), and none of the listeners reached satiety (na ca tṛptiṃ yayuḥ sarve śrotāraḥ) with the splendor of their singing (gāna-sampadā).
+Then began a sweet, superhuman melody (_tataḥ pravṛttaṃ madhuraṃ gāndharvam atimānuṣam_), and none of the listeners reached satiety (_na ca tṛptiṃ yayuḥ sarve śrotāraḥ_) with the splendor of their singing (_gāna-sampadā_).
 </details>
 </details>
 
@@ -423,7 +423,7 @@ Then began a sweet, superhuman melody (tataḥ pravṛttaṃ madhuraṃ gāndhar
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beginning from the very first canto revealed by Nārada (pravṛttam āditaḥ pūrva-sargaṃ nārada-darśitam), from that point onward they sang (tataḥ prabhṛti sargāṃś ca ... agāyatām) up to twenty sargas (yāvad viṃśati).
+Beginning from the very first canto revealed by Nārada (_pravṛttam āditaḥ pūrva-sargaṃ nārada-darśitam_), from that point onward they sang (_tataḥ prabhṛti sargāṃś ca ... agāyatām_) up to twenty sargas (_yāvad viṃśati_).
 </details>
 </details>
 
@@ -460,9 +460,9 @@ Beginning from the very first canto revealed by Nārada (pravṛttam āditaḥ p
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** Then in the afternoon (tato ’parāhṇa-samaye), having heard those twenty sargas (śrutvā viṃśati-sargāṃs tān), Rāghava, ever affectionate toward his brothers (bhrātṛ-vatsalaḥ), addressed his brother (samabhāṣata ... bhrātaram):
+**17:** Then in the afternoon (_tato ’parāhṇa-samaye_), having heard those twenty sargas (_śrutvā viṃśati-sargāṃs tān_), Rāghava, ever affectionate toward his brothers (_bhrātṛ-vatsalaḥ_), addressed his brother (_samabhāṣata ... bhrātaram_):
 
-**18:** “Give swiftly, O Kākutstha, eighteen thousand pieces of gold (aṣṭādaśa-sahasrāṇi suvarṇasya) to these two great-souled ones (mahātmanoḥ), and whatever else they may desire (yad anyad abhikāṅkṣitam)!” And swiftly Kākutstha bestowed it upon each of the two boys separately (dadau śīghraṃ sa kākutstho bālayor vai pṛthak pṛthak).
+**18:** “Give swiftly, O Kākutstha, eighteen thousand pieces of gold (_aṣṭādaśa-sahasrāṇi suvarṇasya_) to these two great-souled ones (_mahātmanoḥ_), and whatever else they may desire (_yad anyad abhikāṅkṣitam_)!” And swiftly Kākutstha bestowed it upon each of the two boys separately (_dadau śīghraṃ sa kākutstho bālayor vai pṛthak pṛthak_).
 </details>
 </details>
 
@@ -501,7 +501,7 @@ Astonished at the royal gift, Kuśa and Lava decline the gold as useless to fore
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet Kuśa and Lava did not accept the proffered gold (dīyamānaṃ suvarṇaṃ tu nāgṛhṇītāṃ kuśīlavau); astonished (vismitau), those two great-souled ones asked, “What is the use of this?” (ūcatuś ca mahātmānau kim aneneti).
+Yet Kuśa and Lava did not accept the proffered gold (_dīyamānaṃ suvarṇaṃ tu nāgṛhṇītāṃ kuśīlavau_); astonished (_vismitau_), those two great-souled ones asked, “What is the use of this?” (_ūcatuś ca mahātmānau kim aneneti_).
 </details>
 </details>
 
@@ -538,9 +538,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “Contented with wild fruits and roots (vanyena phala-mūlena niratau), dwellers in the forest (vanavāsinau), what shall we two do in the woods with minted gold and bullion (suvarṇena hiraṇyena kiṃ kariṣyāvahe vane)?”
+**20:** “Contented with wild fruits and roots (_vanyena phala-mūlena niratau_), dwellers in the forest (_vanavāsinau_), what shall we two do in the woods with minted gold and bullion (_suvarṇena hiraṇyena kiṃ kariṣyāvahe vane_)?”
 
-**21:** As the two of them spoke thus (tathā tayoḥ prabruvatoḥ), filled with wonder (kautūhala-samanvitāḥ), both the listeners and Rāma—all alike—became utterly amazed (śrotāraś caiva rāmaś ca sarva eva suvismitāḥ).
+**21:** As the two of them spoke thus (_tathā tayoḥ prabruvatoḥ_), filled with wonder (_kautūhala-samanvitāḥ_), both the listeners and Rāma—all alike—became utterly amazed (_śrotāraś caiva rāmaś ca sarva eva suvismitāḥ_).
 </details>
 </details>
 
@@ -571,7 +571,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Eager to hear the origin and transmission of that poem (tasya caivāgamaṃ rāmaḥ kāvyasya śrotum utsukaḥ), the greatly radiant Rāma questioned both of those sage-boys (papraccha tau mahātejās tāv ubhau muni-dārakau):
+Eager to hear the origin and transmission of that poem (_tasya caivāgamaṃ rāmaḥ kāvyasya śrotum utsukaḥ_), the greatly radiant Rāma questioned both of those sage-boys (_papraccha tau mahātejās tāv ubhau muni-dārakau_):
 </details>
 </details>
 
@@ -602,7 +602,7 @@ Eager to hear the origin and transmission of that poem (tasya caivāgamaṃ rām
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What is the extent of this poem (kim-pramāṇam idaṃ kāvyam)? What is the scope of the great-souled one (kā pratiṣṭhā mahātmanaḥ)? Who is the composer of this great poem (kartā kāvyasya mahataḥ), and where is that foremost of sages (kva cāsau munipuṅgavaḥ)?” To Rāghava thus inquiring, the sage-boys spoke this reply (pṛcchantaṃ rāghavaṃ vākyam ūcatur muni-dārakau):
+“What is the extent of this poem (_kim-pramāṇam idaṃ kāvyam_)? What is the scope of the great-souled one (_kā pratiṣṭhā mahātmanaḥ_)? Who is the composer of this great poem (_kartā kāvyasya mahataḥ_), and where is that foremost of sages (_kva cāsau munipuṅgavaḥ_)?” To Rāghava thus inquiring, the sage-boys spoke this reply (_pṛcchantaṃ rāghavaṃ vākyam ūcatur muni-dārakau_):
 </details>
 </details>
 
@@ -641,7 +641,7 @@ Kuśa and Lava reveal that the blessed sage Vālmīki—now encamped beside the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The blessed Vālmīki is its composer (vālmīkir bhagavān kartā), who has arrived right in the vicinity of the sacrifice (samprāpto yajña-saṃvidham)—by whom this entire life-story has been displayed for you (yenedaṃ caritaṃ tubhyam aśeṣaṃ sampradarśitam).
+“The blessed Vālmīki is its composer (_vālmīkir bhagavān kartā_), who has arrived right in the vicinity of the sacrifice (_samprāpto yajña-saṃvidham_)—by whom this entire life-story has been displayed for you (_yenedaṃ caritaṃ tubhyam aśeṣaṃ sampradarśitam_).
 </details>
 </details>
 
@@ -678,7 +678,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, twenty-four thousand verses (sannibaddhaṃ hi ślokānāṃ caturviṃśat-sahasrakam) together with a hundred subsidiary narratives (upākhyāna-śataṃ caiva) have been composed by that ascetic descendant of Bhṛgu (bhārgaveṇa tapasvinā).
+“Indeed, twenty-four thousand verses (_sannibaddhaṃ hi ślokānāṃ caturviṃśat-sahasrakam_) together with a hundred subsidiary narratives (_upākhyāna-śataṃ caiva_) have been composed by that ascetic descendant of Bhṛgu (_bhārgaveṇa tapasvinā_).
 </details>
 </details>
 
@@ -709,7 +709,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From the beginning onward, O king, five hundred sargas (ādi-prabhṛti vai rājan pañca-sarga-śatāni ca) and six books together with the Uttara (kāṇḍāni ṣaṭ kṛtānīha sottarāṇi) have been composed here by the great-souled one.
+“From the beginning onward, O king, five hundred sargas (_ādi-prabhṛti vai rājan pañca-sarga-śatāni ca_) and six books together with the Uttara (_kāṇḍāni ṣaṭ kṛtānīha sottarāṇi_) have been composed here by the great-souled one.
 </details>
 </details>
 
@@ -740,7 +740,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Composed by our preceptor, the sage, it is your own life-story (kṛtāni guruṇāsmākam ṛṣiṇā caritaṃ tava); its foundation endures over everything as long as life continues (pratiṣṭhā ājīvitaṃ yāvat tāvat sarvasya vartate).”
+“Composed by our preceptor, the sage, it is your own life-story (_kṛtāni guruṇāsmākam ṛṣiṇā caritaṃ tava_); its foundation endures over everything as long as life continues (_pratiṣṭhā ājīvitaṃ yāvat tāvat sarvasya vartate_).”
 </details>
 </details>
 
@@ -779,7 +779,7 @@ Inviting Rāma to listen with his brothers during sacrificial intervals whenever
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If your mind is set upon hearing it, O great-charioted king (yadi buddhiḥ kṛtā rājañ chravaṇāya mahāratha), then in the intervals between rites (karmāntare), finding leisure (kṣaṇī-bhūtaḥ), listen to it together with your younger brothers (tac chṛṇuṣva sahānujaḥ).”
+“If your mind is set upon hearing it, O great-charioted king (_yadi buddhiḥ kṛtā rājañ chravaṇāya mahāratha_), then in the intervals between rites (_karmāntare_), finding leisure (_kṣaṇī-bhūtaḥ_), listen to it together with your younger brothers (_tac chṛṇuṣva sahānujaḥ_).”
 </details>
 </details>
 
@@ -813,7 +813,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it!” said Rāma (bāḍham ity abravīd rāmaḥ); and taking leave of Rāghava (tau cānujñāpya rāghavam), those two delighted boys went back to the place where that foremost of sages abode (prahṛṣṭau jagmatuḥ sthānaṃ yatrāste munipuṅgavaḥ).
+“So be it!” said Rāma (_bāḍham ity abravīd rāmaḥ_); and taking leave of Rāghava (_tau cānujñāpya rāghavam_), those two delighted boys went back to the place where that foremost of sages abode (_prahṛṣṭau jagmatuḥ sthānaṃ yatrāste munipuṅgavaḥ_).
 </details>
 </details>
 
@@ -844,7 +844,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma too, together with the sages and the great-souled monarchs (rāmo ’pi munibhiḥ sārdhaṃ pārthivaiś ca mahātmabhiḥ), having heard the sweetness of that song (śrutvā tad-gīti-mādhuryam), repaired to the sacrificial hall (karmaśālām upāgamat).
+Rāma too, together with the sages and the great-souled monarchs (_rāmo ’pi munibhiḥ sārdhaṃ pārthivaiś ca mahātmabhiḥ_), having heard the sweetness of that song (_śrutvā tad-gīti-mādhuryam_), repaired to the sacrificial hall (_karmaśālām upāgamat_).
 </details>
 </details>
 
@@ -878,7 +878,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He listened to that composition endowed with musical beat and tempo (śuśrāva tat tāla-layopapannam), arranged in sargas (sargānvitam), joined with resonant notes and words (sa-svara-śabda-yuktam), and united with lute-strings, rhythm, and expressive articulation (tantrī-laya-vyañjana-yoga-yuktam), as it was sung all around by Kuśa and Lava (kuśīlavābhyāṃ parigīyamānam).
+He listened to that composition endowed with musical beat and tempo (_śuśrāva tat tāla-layopapannam_), arranged in sargas (_sargānvitam_), joined with resonant notes and words (_sa-svara-śabda-yuktam_), and united with lute-strings, rhythm, and expressive articulation (_tantrī-laya-vyañjana-yoga-yuktam_), as it was sung all around by Kuśa and Lava (_kuśīlavābhyāṃ parigīyamānam_).
 </details>
 </details>
 

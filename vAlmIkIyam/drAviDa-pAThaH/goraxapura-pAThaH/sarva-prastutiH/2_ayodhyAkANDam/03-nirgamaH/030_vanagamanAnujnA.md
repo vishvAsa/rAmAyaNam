@@ -81,7 +81,7 @@ forest, spoke the following words to her husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Though consoled by Rāma, Maithilī, the daughter of Janaka, spoke these words to her husband in order to secure her residence in the forest (vanavāsanimittārtham).
+Though consoled by Rāma, Maithilī, the daughter of Janaka, spoke these words to her husband in order to secure her residence in the forest (_vanavāsanimittārtham_).
 </details>
 </details>
 
@@ -133,7 +133,7 @@ chest, from affection and pride in the following words:-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deeply agitated (uttamasaṃvignā), that Sītā reproached (paricikṣepa) the broad-chested Rāghava out of both tender love and wounded pride (praṇayāc cābhimānāc ca):
+Deeply agitated (_uttamasaṃvignā_), that Sītā reproached (_paricikṣepa_) the broad-chested Rāghava out of both tender love and wounded pride (_praṇayāc cābhimānāc ca_):
 </details>
 </details>
 
@@ -186,7 +186,7 @@ himself having got as so-in-law you, a woman having the form of a man?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What did my father Vaideha, the lord of Mithilā, take you to be, O Rāma, when he accepted as his son-in-law a woman in the outward form of a man (striyaṃ puruṣavigraham)?”
+“What did my father Vaideha, the lord of Mithilā, take you to be, O Rāma, when he accepted as his son-in-law a woman in the outward form of a man (_striyaṃ puruṣavigraham_)?”
 </details>
 </details>
 
@@ -238,7 +238,7 @@ excellent valour is lacking in Rama as in a blazing sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, if you leave me behind, this world will say out of ignorance what is untrue (anṛtaṃ bata): that there is no supreme valor in Rāma as there is blazing radiance in the sun!”
+“Alas, if you leave me behind, this world will say out of ignorance what is untrue (_anṛtaṃ bata_): that there is no supreme valor in Rāma as there is blazing radiance in the sun!”
 </details>
 </details>
 
@@ -290,7 +290,7 @@ to desert me, for whom there is no other recourse."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having thought what in your mind (kiṃ hi kṛtvā) have you become so despondent, or from what quarter do you have any fear, that you wish to abandon me, who have no refuge other than you (ananyaparāyaṇām)?”
+“Having thought what in your mind (_kiṃ hi kṛtvā_) have you become so despondent, or from what quarter do you have any fear, that you wish to abandon me, who have no refuge other than you (_ananyaparāyaṇām_)?”
 </details>
 </details>
 
@@ -342,7 +342,7 @@ to Satyavan the son of Dyumatsena."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Know me to be wholly subject to your will (ātmavaśavartinīm), just like Sāvitrī, who remained devotedly faithful to the heroic Satyavān, the son of Dyumatsena.”
+“Know me to be wholly subject to your will (_ātmavaśavartinīm_), just like Sāvitrī, who remained devotedly faithful to the heroic Satyavān, the son of Dyumatsena.”
 </details>
 </details>
 
@@ -403,7 +403,7 @@ other woman bringing disrepute to her family would! I shall accompany you to the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Unlike some other woman who disgraces her family (kulapāṃsanī), I shall never behold another man even in thought (manasā) apart from you, O sinless one; therefore, O Rāghava, let me go with you.”
+“Unlike some other woman who disgraces her family (_kulapāṃsanī_), I shall never behold another man even in thought (_manasā_) apart from you, O sinless one; therefore, O Rāghava, let me go with you.”
 </details>
 </details>
 
@@ -483,7 +483,7 @@ your wife. How would you like an actor intend to deliver me to oehrs by your own
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Like a stage-actor (śailūṣa iva), O Rāma, you yourself wish to hand me over to others—me, your chaste wife wedded in maidenhood (bhāryāṃ kaumārīm) and long dwelling at your side!”
+“Like a stage-actor (_śailūṣa iva_), O Rāma, you yourself wish to hand me over to others—me, your chaste wife wedded in maidenhood (_bhāryāṃ kaumārīm_) and long dwelling at your side!”
 </details>
 </details>
 
@@ -537,7 +537,7 @@ him)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Be obedient and subservient yourself forever, O sinless one, to him whose welfare you bid me serve (yasya pathyaṃcarām āttha) and for whose sake you are barred from the throne (avarudhyase)!”
+“Be obedient and subservient yourself forever, O sinless one, to him whose welfare you bid me serve (_yasya pathyaṃcarām āttha_) and for whose sake you are barred from the throne (_avarudhyase_)!”
 </details>
 </details>
 
@@ -590,7 +590,7 @@ term of austerities or forest or even heaven, let it be to me with you only."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore you ought not to set forth to the forest without taking me; whether it be austerity, or the wilderness, or heaven itself, let it be with you (syāt tvayā saha).”
+“Therefore you ought not to set forth to the forest without taking me; whether it be austerity, or the wilderness, or heaven itself, let it be with you (_syāt tvayā saha_).”
 </details>
 </details>
 
@@ -642,7 +642,7 @@ path without any fatigue, as remaining in a place of recreation or as in a sleep
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Walking behind you (pṛṣṭhatas tava gacchantyā), I shall feel no weariness at all along the way there, any more than on couches of pleasure (vihāraśayaneṣv iva).”
+“Walking behind you (_pṛṣṭhatas tava gacchantyā_), I shall feel no weariness at all along the way there, any more than on couches of pleasure (_vihāraśayaneṣv iva_).”
 </details>
 </details>
 
@@ -698,7 +698,7 @@ cotton or soft deerskin."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Kuśa grass, kāśa reeds, śara stalks, rushes (iṣīkāḥ), and whatever thorny trees lie along the path will feel to me like soft cotton and deerskins (tūlājinasamasparśāḥ) when I am with you.”
+“_Kuśa_ grass, _kāśa_ reeds, _śara_ stalks, rushes (_iṣīkāḥ_), and whatever thorny trees lie along the path will feel to me like soft cotton and deerskins (_tūlājinasamasparśāḥ_) when I am with you.”
 </details>
 </details>
 
@@ -761,7 +761,7 @@ my body as sandal dust of highest advantage."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The dust stirred up by a mighty wind (mahāvātasamudbhūtam) that will cover me, O beloved (ramaṇa), I shall regard as the most priceless sandal-paste (parārghyam iva candanam).”
+“The dust stirred up by a mighty wind (_mahāvātasamudbhūtam_) that will cover me, O beloved (_ramaṇa_), I shall regard as the most priceless sandal-paste (_parārghyam iva candanam_).”
 </details>
 </details>
 
@@ -817,7 +817,7 @@ lying in beds with carpets be more comfortable than that?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When, roaming in the forest, I lie down within the woods upon grassy meadows (śādvaleṣu), what could be more delightful than that, even on couches spread with woollen rugs and coverlets (kuthāstaraṇayukteṣu)?”
+“When, roaming in the forest, I lie down within the woods upon grassy meadows (_śādvaleṣu_), what could be more delightful than that, even on couches spread with woollen rugs and coverlets (_kuthāstaraṇayukteṣu_)?”
 </details>
 </details>
 
@@ -870,7 +870,7 @@ by you yourself will be like nectar to me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever leaf, root, or fruit—whether scant or abundant—you yourself gather and give to me (dāsyase svayam āhṛtya), that will be to me like the nectar of immortality (amṛtarasopamam).”
+“Whatever leaf, root, or fruit—whether scant or abundant—you yourself gather and give to me (_dāsyase svayam āhṛtya_), that will be to me like the nectar of immortality (_amṛtarasopamam_).”
 </details>
 </details>
 
@@ -922,7 +922,7 @@ recollect my mother nor father nor my home."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enjoying the flowers and fruits of each season (ārtavāni), I shall not long there for my mother, nor for my father, nor for my palace home (na veśmanaḥ).”
+“Enjoying the flowers and fruits of each season (_ārtavāni_), I shall not long there for my mother, nor for my father, nor for my palace home (_na veśmanaḥ_).”
 </details>
 </details>
 
@@ -978,7 +978,7 @@ annoyance to you because of me. I will not be difficult to be maintained."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor shall you behold anything displeasing (vipriyam) there on that account; you will suffer no grief because of me (matkṛte), nor shall I be a burden (durbharā) to you.”
+“Nor shall you behold anything displeasing (_vipriyam_) there on that account; you will suffer no grief because of me (_matkṛte_), nor shall I be a burden (_durbharā_) to you.”
 </details>
 </details>
 
@@ -1034,7 +1034,7 @@ Rama! By knowing thus my great love, obtain supreme joy with me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That which is with you is heaven (svargaḥ), and that which is without you is hell (nirayaḥ); knowing this supreme love of mine (parāṃ prītim), go forth with me, O Rāma!”
+“That which is with you is heaven (_svargaḥ_), and that which is without you is hell (_nirayaḥ_); knowing this supreme love of mine (_parāṃ prītim_), go forth with me, O Rāma!”
 </details>
 </details>
 
@@ -1098,7 +1098,7 @@ shall drink poison now itself. But on no account would I bow to the enemies."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If, however, you will not lead me—thus undaunted (avyagrām)—into the forest, I shall drink poison this very day (viṣam adyaiva pāsyāmi); let me never fall under the sway of enemies (dviṣatām)!”
+“If, however, you will not lead me—thus undaunted (_avyagrām_)—into the forest, I shall drink poison this very day (_viṣam adyaiva pāsyāmi_); let me never fall under the sway of enemies (_dviṣatām_)!”
 </details>
 </details>
 
@@ -1151,7 +1151,7 @@ abandoned by you. Death is therefore better at the time of your relinquishment i
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For even afterward (paścād api), once abandoned by you, O lord, I could never survive through grief; therefore death at the very moment of your departure (tadaiva maraṇaṃ varam) is far better.”
+“For even afterward (_paścād api_), once abandoned by you, O lord, I could never survive through grief; therefore death at the very moment of your departure (_tadaiva maraṇaṃ varam_) is far better.”
 </details>
 </details>
 
@@ -1203,7 +1203,7 @@ misery."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, I cannot endure this grief even for a single hour (muhūrtam api notsahe)—how much less, afflicted with sorrow, for ten years and three and one (daśa varṣāṇi trīṇi caikaṃ ca)?”
+“Indeed, I cannot endure this grief even for a single hour (_muhūrtam api notsahe_)—how much less, afflicted with sorrow, for ten years and three and one (_daśa varṣāṇi trīṇi caikaṃ ca_)?”
 </details>
 </details>
 
@@ -1255,7 +1255,7 @@ husband and cried a lot with loud voice.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having lamented piteously at length in these words, Sītā, scorched by grief and exhausted (āyastā), tightly embraced her husband and wept aloud (cukrośa ... sasvaram).
+Having lamented piteously at length in these words, Sītā, scorched by grief and exhausted (_āyastā_), tightly embraced her husband and wept aloud (_cukrośa ... sasvaram_).
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ attrition with another)
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pierced by his many words as a female elephant is pierced by poisoned arrows (digdhair iva gajāṅganā), she released her long-restrained tears (cirasaṃniyataṃ bāṣpam) as a fire-drill releases fire (agnim ivāraṇiḥ).
+Pierced by his many words as a female elephant is pierced by poisoned arrows (_digdhair iva gajāṅganā_), she released her long-restrained tears (_cirasaṃniyataṃ bāṣpam_) as a fire-drill releases fire (_agnim ivāraṇiḥ_).
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ lotus flowers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From her eyes streamed forth crystal-clear water born of burning anguish (vāri saṃtāpasambhavam), like water trickling from two lotuses (paṅkajābhyām ivodakam).
+From her eyes streamed forth crystal-clear water born of burning anguish (_vāri saṃtāpasambhavam_), like water trickling from two lotuses (_paṅkajābhyām ivodakam_).
 </details>
 </details>
 
@@ -1421,7 +1421,7 @@ tears as a lotus flower pulled out from water.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That large-eyed face of hers, bright as the spotless full moon (sitāmalacandrābham), withered away with hot tears like a lotus plucked out of the water (jaloddhṛtam ivāmbujam).
+That large-eyed face of hers, bright as the spotless full moon (_sitāmalacandrābham_), withered away with hot tears like a lotus plucked out of the water (_jaloddhṛtam ivāmbujam_).
 </details>
 </details>
 
@@ -1473,7 +1473,7 @@ spoke the following words, fully reassuring her.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Embracing in his arms the sorrowful princess, who had nearly lost consciousness (visaṃjñām iva), Rāma then spoke these words, fully reassuring her (pariviśvāsayaṃs tadā):
+Embracing in his arms the sorrowful princess, who had nearly lost consciousness (_visaṃjñām iva_), Rāma then spoke these words, fully reassuring her (_pariviśvāsayaṃs tadā_):
 </details>
 </details>
 
@@ -1525,7 +1525,7 @@ fear whatsoever to me, like the god of Brahma.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O queen, I would not desire even heaven if bought by your sorrow (tava duḥkhena); nor have I any fear at all from any quarter, any more than the self-existent Lord (svayambhor iva).”
+“O queen, I would not desire even heaven if bought by your sorrow (_tava duḥkhena_); nor have I any fear at all from any quarter, any more than the self-existent Lord (_svayambhor iva_).”
 </details>
 </details>
 
@@ -1578,7 +1578,7 @@ knowing your entire opinion, I do not like to take you to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Not knowing your full resolve (tava sarvam abhiprāyam), O fair-faced one, I did not approve of your dwelling in the forest, even though I am fully able to protect you (śaktimān api rakṣaṇe).”
+“Not knowing your full resolve (_tava sarvam abhiprāyam_), O fair-faced one, I did not approve of your dwelling in the forest, even though I am fully able to protect you (_śaktimān api rakṣaṇe_).”
 </details>
 </details>
 
@@ -1634,7 +1634,7 @@ me. Hence, you cannot be left behind by me, like the honour by a man of self-reg
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you have been created to dwell with me in the forest (yat sṛṣṭāsi mayā sārdham), O Maithilī, you cannot be abandoned by me, any more than self-commanding benevolence (prītiḥ) can be abandoned by a man of self-knowledge (ātmavatā).”
+“Since you have been created to dwell with me in the forest (_yat sṛṣṭāsi mayā sārdham_), O Maithilī, you cannot be abandoned by me, any more than self-commanding benevolence (_prītiḥ_) can be abandoned by a man of self-knowledge (_ātmavatā_).”
 </details>
 </details>
 
@@ -1688,7 +1688,7 @@ righteousness, like Suvarchala(wife of the sun) following the sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O lady with thighs like an elephant's trunk (gajanāsoru), I shall follow the righteous path practiced of old by the virtuous; do you follow me just as Suvarcalā follows the sun (yathā sūryaṃ suvarcalā)!”
+“O lady with thighs like an elephant&#x27;s trunk (_gajanāsoru_), I shall follow the righteous path practiced of old by the virtuous; do you follow me just as Suvarcalā follows the sun (_yathā sūryaṃ suvarcalā_)!”
 </details>
 </details>
 
@@ -1748,7 +1748,7 @@ strong by his truthfulnes is taking me to the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuredly I cannot refrain from going to the forest (na khalv ahaṃ na gaccheyam), O daughter of Janaka; my father's word, fortified by truth (satyopabṛṃhitam), leads me forth.”
+“Assuredly I cannot refrain from going to the forest (_na khalv ahaṃ na gaccheyam_), O daughter of Janaka; my father&#x27;s word, fortified by truth (_satyopabṛṃhitam_), leads me forth.”
 </details>
 </details>
 
@@ -1804,7 +1804,7 @@ why, I do not wish to survive, in violation of that duty."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This is the sacred law, O fair-hipped one: obedience to one's father and mother (pitur mātuś ca vaśyatā); transgressing their command, I could not bear to live.”
+“This is the sacred law, O fair-hipped one: obedience to one&#x27;s father and mother (_pitur mātuś ca vaśyatā_); transgressing their command, I could not bear to live.”
 </details>
 </details>
 
@@ -1850,7 +1850,7 @@ how can we worship god, who is not at our disposal, by various modes?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How can unseen destiny or deity, which lies beyond our control (asvādhīnaṃ daivam), be propitiated by ritual means if one disregards one's mother, father, and preceptor, who stand visibly within one's reach (svādhīnam)?”
+“How can unseen destiny or deity, which lies beyond our control (_asvādhīnaṃ daivam_), be propitiated by ritual means if one disregards one&#x27;s mother, father, and preceptor, who stand visibly within one&#x27;s reach (_svādhīnam_)?”
 </details>
 </details>
 
@@ -1904,7 +1904,7 @@ worship."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where those three are honored, all three worlds are won; there is nothing on earth equal in sanctity to them (pavitraṃ tatsamaṃ bhuvi), O lady of auspicious glances, and therefore this triad is reverently worshiped.”
+“Where those three are honored, all three worlds are won; there is nothing on earth equal in sanctity to them (_pavitraṃ tatsamaṃ bhuvi_), O lady of auspicious glances, and therefore this triad is reverently worshiped.”
 </details>
 </details>
 
@@ -1958,7 +1958,7 @@ strengthening."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither truth, nor charity and honor, nor sacrifices with abundant priestly gifts (āptadakṣiṇāḥ) are held to be so efficacious for spiritual power, O Sītā, as service to one's father (sevā pituḥ).”
+“Neither truth, nor charity and honor, nor sacrifices with abundant priestly gifts (_āptadakṣiṇāḥ_) are held to be so efficacious for spiritual power, O Sītā, as service to one&#x27;s father (_sevā pituḥ_).”
 </details>
 </details>
 
@@ -2011,7 +2011,7 @@ or leaving, sons or amenities of life - nothing whatsoever is hard to obtain."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Heaven, wealth, grain, sacred learning, sons, and every happiness—nothing at all is difficult to attain through compliant devotion to one's elders (guruvṛttyanurodhena).”
+“Heaven, wealth, grain, sacred learning, sons, and every happiness—nothing at all is difficult to attain through compliant devotion to one&#x27;s elders (_guruvṛttyanurodhena_).”
 </details>
 </details>
 
@@ -2077,7 +2077,7 @@ Krishna the first couple).
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Great-souled persons who are wholly devoted to their mother and father (mātāpitṛparāyaṇāḥ) attain the worlds of the gods, Gandharvas, and sacred kine (golokān), as well as the worlds of Brahmā and other supreme realms.”
+“Great-souled persons who are wholly devoted to their mother and father (_mātāpitṛparāyaṇāḥ_) attain the worlds of the gods, Gandharvas, and sacred kine (_golokān_), as well as the worlds of Brahmā and other supreme realms.”
 </details>
 </details>
 
@@ -2130,7 +2130,7 @@ and virtue, commands me. That itself is indeed the law of morality, which is ete
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I wish to act just as my father, who abides in the path of truth and righteousness (satyadharmapathe sthitaḥ), commands me (mā ... śāsti); for that is the eternal law (dharmaḥ sanātanaḥ).”
+“Therefore I wish to act just as my father, who abides in the path of truth and righteousness (_satyadharmapathe sthitaḥ_), commands me (_mā ... śāsti_); for that is the eternal law (_dharmaḥ sanātanaḥ_).”
 </details>
 </details>
 
@@ -2183,7 +2183,7 @@ saying that you will reside in the forst, duly determined to follow me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“My earlier reluctance against taking you to the Daṇḍaka forest has now given way (mama sannā matiḥ), O Sītā, since you are so firmly resolved (suniścitā) to follow me, saying, ‘I shall dwell there!’”
+“My earlier reluctance against taking you to the Daṇḍaka forest has now given way (_mama sannā matiḥ_), O Sītā, since you are so firmly resolved (_suniścitā_) to follow me, saying, ‘I shall dwell there!’”
 </details>
 </details>
 
@@ -2236,7 +2236,7 @@ come to forest, Oh Seetha the timid lady, follow me and become my help-mate."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, O faultless-limbed lady with enchanting eyes (madirekṣaṇe), you now have my permission (diṣṭā) for the forest; follow me, O timid one, and be my partner in sacred duty (sahadharmacarī bhava)!”
+“Therefore, O faultless-limbed lady with enchanting eyes (_madirekṣaṇe_), you now have my permission (_diṣṭā_) for the forest; follow me, O timid one, and be my partner in sacred duty (_sahadharmacarī bhava_)!”
 </details>
 </details>
 
@@ -2282,7 +2282,7 @@ to me and to your race."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In every way worthy of me and of my own royal house, O beloved Sītā, is this most noble resolve (vyavasāyam atiśobhanam) upon which you have entered!”
+“In every way worthy of me and of my own royal house, O beloved Sītā, is this most noble resolve (_vyavasāyam atiśobhanam_) upon which you have entered!”
 </details>
 </details>
 
@@ -2329,7 +2329,7 @@ living in exile. Oh, Seetha! Even a heaven is not a liking to me without your pr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Begin now, O fair-hipped lady, the preparations suited to forest residence (vanavāsakṣamāḥ kriyāḥ); for now without you, O Sītā, even heaven itself does not please me.”
+“Begin now, O fair-hipped lady, the preparations suited to forest residence (_vanavāsakṣamāḥ kriyāḥ_); for now without you, O Sītā, even heaven itself does not please me.”
 </details>
 </details>
 
@@ -2389,7 +2389,7 @@ delay."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bestow jewels upon the Brāhmaṇas and food upon the mendicants (bhikṣukebhyaś ca bhojanam); give to all who ask (āśaṃsamānebhyaḥ), and make haste without delay!”
+“Bestow jewels upon the Brāhmaṇas and food upon the mendicants (_bhikṣukebhyaś ca bhojanam_); give to all who ask (_āśaṃsamānebhyaḥ_), and make haste without delay!”
 </details>
 </details>
 
@@ -2450,9 +2450,9 @@ articles left after satisfying brahmanas."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**44:** “Whatever costly ornaments and fine garments are yours, and whatever delightful articles and playthings (krīḍārthāś cāpy upaskarāḥ) there may be—”
+**44:** “Whatever costly ornaments and fine garments are yours, and whatever delightful articles and playthings (_krīḍārthāś cāpy upaskarāḥ_) there may be—”
 
-**45:** “And whatever couches, conveyances, and other possessions are mine or yours—bestow them upon our retinue of servants (svabhṛtyavargasya) right after the Brāhmaṇas (brāhmaṇānām anantaram).”
+**45:** “And whatever couches, conveyances, and other possessions are mine or yours—bestow them upon our retinue of servants (_svabhṛtyavargasya_) right after the Brāhmaṇas (_brāhmaṇānām anantaram_).”
 </details>
 </details>
 
@@ -2504,7 +2504,7 @@ quickly set about, making gifts.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Learning that her husband approved of her departure (anukūlaṃ ... gamanam ātmanaḥ), the queen, filled with joy, immediately began to distribute those gifts.
+Learning that her husband approved of her departure (_anukūlaṃ ... gamanam ātmanaḥ_), the queen, filled with joy, immediately began to distribute those gifts.
 </details>
 </details>
 
@@ -2580,7 +2580,7 @@ speech of her husband, started giving riches and valuable gifts to virtuous soul
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, delighted and fulfilled in heart (pratipūrṇamānasā) upon heeding her husband's words, that illustrious and high-minded lady began to bestow riches and jewels upon the upholders of righteousness (dharmabhṛtām).
+Then, delighted and fulfilled in heart (_pratipūrṇamānasā_) upon heeding her husband&#x27;s words, that illustrious and high-minded lady began to bestow riches and jewels upon the upholders of righteousness (_dharmabhṛtām_).
 </details>
 </details>
 

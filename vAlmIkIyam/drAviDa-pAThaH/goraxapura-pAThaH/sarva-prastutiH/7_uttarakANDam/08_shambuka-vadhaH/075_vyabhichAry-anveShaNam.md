@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those nectar-like words of Nārada (nāradasya tu tad vākyaṃ śrutvā ’mṛtamayam), he then experienced matchless joy (praharṣam atulaṃ lebhe) and spoke these words to Lakṣmaṇa:
+Hearing those nectar-like words of Nārada (_nāradasya tu tad vākyaṃ śrutvā ’mṛtamayam_), he then experienced matchless joy (_praharṣam atulaṃ lebhe_) and spoke these words to Lakṣmaṇa:
 </details>
 </details>
 
@@ -96,9 +96,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “Go, O gentle one, comfort that foremost of the twice-born (dvija-śreṣṭhaṃ samāśvāsaya), steadfast in his vows (su-vratam), and have that boy’s body placed in a vat of oil (bālasya tu śarīraṃ tat taila-droṇyāṃ nidhāpaya).
+**2:** “Go, O gentle one, comfort that foremost of the twice-born (_dvija-śreṣṭhaṃ samāśvāsaya_), steadfast in his vows (_su-vratam_), and have that boy’s body placed in a vat of oil (_bālasya tu śarīraṃ tat taila-droṇyāṃ nidhāpaya_).
 
-**3:** “With the finest perfumes (gandhaiś ca paramodāraiḥ) and with fragrant oils as well (tailaiś cāpi sugandhibhiḥ), arrange it, O gentle one, so that the boy does not decay (yathā na kṣīyate bālaḥ).
+**3:** “With the finest perfumes (_gandhaiś ca paramodāraiḥ_) and with fragrant oils as well (_tailaiś cāpi sugandhibhiḥ_), arrange it, O gentle one, so that the boy does not decay (_yathā na kṣīyate bālaḥ_).
 </details>
 </details>
 
@@ -132,7 +132,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Act so that the body of the virtuous boy (śarīro bālasya ... śiṣṭa-karmaṇaḥ), remaining well-protected (guptaḥ san), suffers neither dissolution nor disfigurement (vipattiḥ paribhedo vā na bhavet).”
+“Act so that the body of the virtuous boy (_śarīro bālasya ... śiṣṭa-karmaṇaḥ_), remaining well-protected (_guptaḥ san_), suffers neither dissolution nor disfigurement (_vipattiḥ paribhedo vā na bhavet_).”
 </details>
 </details>
 
@@ -166,7 +166,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having thus instructed Lakṣmaṇa of auspicious marks (lakṣmaṇaṃ śubha-lakṣaṇam), Kākutstha of great renown (mahā-yaśāḥ) meditated in his mind upon Puṣpaka (manasā puṣpakaṃ dadhyau), thinking, “Come!”
+Having thus instructed Lakṣmaṇa of auspicious marks (_lakṣmaṇaṃ śubha-lakṣaṇam_), Kākutstha of great renown (_mahā-yaśāḥ_) meditated in his mind upon Puṣpaka (_manasā puṣpakaṃ dadhyau_), thinking, “Come!”
 </details>
 </details>
 
@@ -201,7 +201,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving his unspoken intent (iṅgitaṃ sa tu vijñāya), that gold-decked Puṣpaka (puṣpako hema-bhūṣitaḥ) arrived within a single moment (ājagāma muhūrtena) beside Rāghava.
+Perceiving his unspoken intent (_iṅgitaṃ sa tu vijñāya_), that gold-decked Puṣpaka (_puṣpako hema-bhūṣitaḥ_) arrived within a single moment (_ājagāma muhūrtena_) beside Rāghava.
 </details>
 </details>
 
@@ -243,7 +243,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowing low, it spoke (so ’bravīt praṇato bhūtvā): “Here I am, O lord of men (ayam asmi narādhipa)—your obedient servant stands present before you (vaśyas tava ... kiṅkaraḥ samupasthitaḥ), O mighty-armed one!”
+Bowing low, it spoke (_so ’bravīt praṇato bhūtvā_): “Here I am, O lord of men (_ayam asmi narādhipa_)—your obedient servant stands present before you (_vaśyas tava ... kiṅkaraḥ samupasthitaḥ_), O mighty-armed one!”
 </details>
 </details>
 
@@ -277,7 +277,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing the pleasing speech of Puṣpaka (bhāṣitaṃ ruciraṃ śrutvā puṣpakasya), the lord of men bowed in reverence to those great seers (abhivādya maharṣīṃs tān) and ascended the aerial car (vimānaṃ so ’dhyarohata).
+Hearing the pleasing speech of Puṣpaka (_bhāṣitaṃ ruciraṃ śrutvā puṣpakasya_), the lord of men bowed in reverence to those great seers (_abhivādya maharṣīṃs tān_) and ascended the aerial car (_vimānaṃ so ’dhyarohata_).
 </details>
 </details>
 
@@ -311,7 +311,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up his bow, his pair of quivers, and his sword of radiant sheen (dhanur gṛhītvā tūṇī ca khaḍgaṃ ca rucira-prabham), and entrusting both heroes, Saumitri and Bharata, to the city (nikṣipya nagare vīrau saumitri-bharatāv ubhau),
+Taking up his bow, his pair of quivers, and his sword of radiant sheen (_dhanur gṛhītvā tūṇī ca khaḍgaṃ ca rucira-prabham_), and entrusting both heroes, Saumitri and Bharata, to the city (_nikṣipya nagare vīrau saumitri-bharatāv ubhau_),
 </details>
 </details>
 
@@ -345,7 +345,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-the glorious king set forth toward the western quarter (prāyāt pratīcīṃ haritam), searching here and there (vicinvaṃś ca tatas tataḥ); then he proceeded to the northern quarter (uttarām agamad ... diśam), bounded by the Himālaya (himavatā vṛtām).
+the glorious king set forth toward the western quarter (_prāyāt pratīcīṃ haritam_), searching here and there (_vicinvaṃś ca tatas tataḥ_); then he proceeded to the northern quarter (_uttarām agamad ... diśam_), bounded by the Himālaya (_himavatā vṛtām_).
 </details>
 </details>
 
@@ -379,7 +379,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Seeing not even the slightest wrongdoing there either (apaśyamānas tatrāpi svalpam apy atha duṣkṛtam), the lord of men next surveyed the entire eastern quarter (pūrvām api diśaṃ sarvām atho ’paśyan narādhipaḥ).
+Seeing not even the slightest wrongdoing there either (_apaśyamānas tatrāpi svalpam apy atha duṣkṛtam_), the lord of men next surveyed the entire eastern quarter (_pūrvām api diśaṃ sarvām atho ’paśyan narādhipaḥ_).
 </details>
 </details>
 
@@ -421,7 +421,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From his seat in Puṣpaka, the mighty-armed lord of men then beheld that eastern quarter (puṣpakastho mahābāhus tadāpaśyan narādhipaḥ) utterly pure in conduct (praviśuddha-samācārām) and spotless as the surface of a mirror (ādarśa-tala-nirmalām).
+From his seat in Puṣpaka, the mighty-armed lord of men then beheld that eastern quarter (_puṣpakastho mahābāhus tadāpaśyan narādhipaḥ_) utterly pure in conduct (_praviśuddha-samācārām_) and spotless as the surface of a mirror (_ādarśa-tala-nirmalām_).
 </details>
 </details>
 
@@ -455,7 +455,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that delight of the royal sages pressed on to the southern quarter (dakṣiṇāṃ diśam ākrāmat), and on the northern flank of Mount Śaivala (śaivalasyottare pārśve) he beheld a vast lake (dadarśa sumahat saraḥ).
+Then that delight of the royal sages pressed on to the southern quarter (_dakṣiṇāṃ diśam ākrāmat_), and on the northern flank of Mount Śaivala (_śaivalasyottare pārśve_) he beheld a vast lake (_dadarśa sumahat saraḥ_).
 </details>
 </details>
 
@@ -491,7 +491,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that lake, the glorious Rāghava beheld an ascetic (tasmin sarasi ... dadarśa rāghavaḥ śrīmān) practicing exceedingly great austerity (tapyantaṃ tāpasaṃ sumahat tapaḥ), suspended head-downward (lambamānam adho-mukham).
+At that lake, the glorious Rāghava beheld an ascetic (_tasmin sarasi ... dadarśa rāghavaḥ śrīmān_) practicing exceedingly great austerity (_tapyantaṃ tāpasaṃ sumahat tapaḥ_), suspended head-downward (_lambamānam adho-mukham_).
 </details>
 </details>
 
@@ -542,9 +542,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** Approaching him as he performed that supreme austerity (rāghavas tam upāgamya tapyantaṃ tapa uttamam), Rāma then spoke these words (uvāca sa tadā vākyam): “Blessed are you, O steadfast observer of vows (dhanyas tvam asi su-vrata)!
+**15:** Approaching him as he performed that supreme austerity (_rāghavas tam upāgamya tapyantaṃ tapa uttamam_), Rāma then spoke these words (_uvāca sa tadā vākyam_): “Blessed are you, O steadfast observer of vows (_dhanyas tvam asi su-vrata_)!
 
-**16:** “Of what birth are you, O sage ripe in austerity (kasyāṃ yonyāṃ tapo-vṛddha vartase), O man of steadfast valor (dṛḍha-vikrama)? Out of curiosity I ask you (kautūhalāt tvāṃ pṛcchāmi), for I am Rāma, son of Daśaratha (rāmo dāśarathir hy aham).
+**16:** “Of what birth are you, O sage ripe in austerity (_kasyāṃ yonyāṃ tapo-vṛddha vartase_), O man of steadfast valor (_dṛḍha-vikrama_)? Out of curiosity I ask you (_kautūhalāt tvāṃ pṛcchāmi_), for I am Rāma, son of Daśaratha (_rāmo dāśarathir hy aham_).
 </details>
 </details>
 
@@ -580,7 +580,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What goal is desired by you (ko ’rtho manīṣitas tubhyam)—the attainment of heaven or something higher (svarga-lābhaḥ paro ’thavā)—dependent upon a boon (varāśrayaḥ), for whose sake you perform this exceedingly arduous austerity (yadarthaṃ tvaṃ tapasyasi su-duṣkaram)? Relying upon what birth you have practiced this penance, O ascetic, I wish to hear (yam āśritya tapas taptaṃ śrotum icchāmi tāpasa).
+“What goal is desired by you (_ko ’rtho manīṣitas tubhyam_)—the attainment of heaven or something higher (_svarga-lābhaḥ paro ’thavā_)—dependent upon a boon (_varāśrayaḥ_), for whose sake you perform this exceedingly arduous austerity (_yadarthaṃ tvaṃ tapasyasi su-duṣkaram_)? Relying upon what birth you have practiced this penance, O ascetic, I wish to hear (_yam āśritya tapas taptaṃ śrotum icchāmi tāpasa_).
 </details>
 </details>
 
@@ -619,7 +619,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Are you a brāhmaṇa—may good fortune attend you (brāhmaṇo vā ’si bhadraṃ te)—or an unconquerable kṣatriya (kṣatriyo vā ’si durjayaḥ)? Or are you a vaiśya of the third order (vaiśyas tṛtīya-varṇo vā), or a śūdra? Speak the truth (satya-vāg bhava)!”
+“Are you a brāhmaṇa—may good fortune attend you (_brāhmaṇo vā ’si bhadraṃ te_)—or an unconquerable kṣatriya (_kṣatriyo vā ’si durjayaḥ_)? Or are you a vaiśya of the third order (_vaiśyas tṛtīya-varṇo vā_), or a śūdra? Speak the truth (_satya-vāg bhava_)!”
 </details>
 </details>
 
@@ -668,7 +668,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by that lord of men (ity evam uktaḥ sa narādhipena), that head-downward ascetic declared to that son of Daśaratha (avāk-śirā dāśarathāya tasmai), the bull among kings, both his birth (uvāca jātim) and the aim for which his ascetic endeavor was undertaken (yat-kāraṇe caiva tapaḥ-prayatnaḥ).
+Thus addressed by that lord of men (_ity evam uktaḥ sa narādhipena_), that head-downward ascetic declared to that son of Daśaratha (_avāk-śirā dāśarathāya tasmai_), the bull among kings, both his birth (_uvāca jātim_) and the aim for which his ascetic endeavor was undertaken (_yat-kāraṇe caiva tapaḥ-prayatnaḥ_).
 </details>
 </details>
 

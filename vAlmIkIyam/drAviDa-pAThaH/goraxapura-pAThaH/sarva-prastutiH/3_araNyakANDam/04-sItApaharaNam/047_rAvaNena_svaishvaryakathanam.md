@@ -80,7 +80,7 @@ mien Seetha informed about herself on her own. [3-47-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Questioned then by Rāvaṇa, who wished to abduct her (jihīrṣuṇā) while wearing the guise of a wandering mendicant (parivrājaka-rūpeṇa), Vaidehī herself (ātmanā) recounted her own story (śaśaṃsātmānam).
+Questioned then by Rāvaṇa, who wished to abduct her (_jihīrṣuṇā_) while wearing the guise of a wandering mendicant (_parivrājaka-rūpeṇa_), Vaidehī herself (_ātmanā_) recounted her own story (_śaśaṃsātmānam_).
 </details>
 </details>
 
@@ -143,7 +143,7 @@ of a demon. So with a half-belief and half-heart she started to talk to him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He is both a Brāhmaṇa and a guest (brāhmaṇaś cātithiś caiṣa); if left unanswered (anuktaḥ), he might curse me (śapeta mām)”—reflecting thus (iti dhyātvā) for a moment (muhūrtam), Sītā spoke these words:
+“He is both a Brāhmaṇa and a guest (_brāhmaṇaś cātithiś caiṣa_); if left unanswered (_anuktaḥ_), he might curse me (_śapeta mām_)”—reflecting thus (_iti dhyātvā_) for a moment (_muhūrtam_), Sītā spoke these words:
 </details>
 </details>
 
@@ -203,7 +203,7 @@ prevail on whole of your dynasty, for it is hard to deal with Rama or with his d
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I am the daughter (duhitā) of the high-souled Janaka, king of Mithilā (maithilasya mahātmanaḥ); Sītā by name (sītā nāmnāsmi), bless you (bhadraṃ te), the beloved queen (mahiṣī priyā) of Rāma.
+“I am the daughter (_duhitā_) of the high-souled Janaka, king of Mithilā (_maithilasya mahātmanaḥ_); Sītā by name (_sītā nāmnāsmi_), bless you (_bhadraṃ te_), the beloved queen (_mahiṣī priyā_) of Rāma.
 </details>
 </details>
 
@@ -264,7 +264,7 @@ Vedavati, in an earlier incarnation, only to end Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having dwelt for twelve years (uṣitvā dvādaśa samāḥ) in the palace of the Ikṣvākus (ikṣvākūṇāṃ niveśane), enjoying human pleasures (bhuñjānā mānuṣān bhogān) and richly endowed with every desired object (sarva-kāma-samṛddhinī)—
+Having dwelt for twelve years (_uṣitvā dvādaśa samāḥ_) in the palace of the Ikṣvākus (_ikṣvākūṇāṃ niveśane_), enjoying human pleasures (_bhuñjānā mānuṣān bhogān_) and richly endowed with every desired object (_sarva-kāma-samṛddhinī_)—
 </details>
 </details>
 
@@ -315,7 +315,7 @@ to anoint Rama as Crown Prince of Ayodhya. [3-47-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—there, in the thirteenth year (trayodaśe varṣe), the sovereign king [Daśaratha] took counsel (rājāmantrayata prabhuḥ) together with the royal ministers (sameto rāja-mantribhiḥ) to consecrate Rāma (abhiṣecayituṃ rāmam).
+—there, in the thirteenth year (_trayodaśe varṣe_), the sovereign king [Daśaratha] took counsel (_rājāmantrayata prabhuḥ_) together with the royal ministers (_sameto rāja-mantribhiḥ_) to consecrate Rāma (_abhiṣecayituṃ rāmam_).
 </details>
 </details>
 
@@ -367,7 +367,7 @@ husband Dasharatha for a boon. [3-47-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While the preparations for Rāghava's consecration (rāghavasyābhiṣecane) were being assembled (sambhriyamāṇe), my venerable mother-in-law (mamāryā), Kaikeyī by name, begged a boon (yācate varam) of her husband.
+While the preparations for Rāghava&#x27;s consecration (_rāghavasyābhiṣecane_) were being assembled (_sambhriyamāṇe_), my venerable mother-in-law (_mamāryā_), Kaikeyī by name, begged a boon (_yācate varam_) of her husband.
 </details>
 </details>
 
@@ -437,7 +437,7 @@ two boons from him, namely expatriation of my husband, and anointment of her son
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Binding my father-in-law (śvaśuraṃ me) by a past good deed (sukṛtena), Kaikeyī [demanded] the banishment of my husband (mama pravrājanaṃ bhartuḥ) and the consecration of Bharata (bharatasyābhiṣecanam)—
+“Binding my father-in-law (_śvaśuraṃ me_) by a past good deed (_sukṛtena_), Kaikeyī [demanded] the banishment of my husband (_mama pravrājanaṃ bhartuḥ_) and the consecration of Bharata (_bharatasyābhiṣecanam_)—
 </details>
 </details>
 
@@ -471,7 +471,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—she begged these two [boons] (dvāv ayācata) of her husband, the best of kings (nṛpottamam), who was true to his word (satya-saṃdham): ‘Neither today nor ever will I eat, nor sleep, nor drink (nādya bhokṣye na ca svapsye na pāsye);
+—she begged these two [boons] (_dvāv ayācata_) of her husband, the best of kings (_nṛpottamam_), who was true to his word (_satya-saṃdham_): ‘Neither today nor ever will I eat, nor sleep, nor drink (_nādya bhokṣye na ca svapsye na pāsye_);
 </details>
 </details>
 
@@ -524,7 +524,7 @@ riches, but she did not make good on that entreaty. [3-47-8b, 9, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-this shall be the end of my life (eṣa me jīvitasyāntaḥ) if Rāma is consecrated (rāmo yad abhiṣicyate)!’ To Kaikeyī, who was speaking thus (iti bruvāṇām), that king, my father-in-law—
+this shall be the end of my life (_eṣa me jīvitasyāntaḥ_) if Rāma is consecrated (_rāmo yad abhiṣicyate_)!’ To Kaikeyī, who was speaking thus (_iti bruvāṇām_), that king, my father-in-law—
 </details>
 </details>
 
@@ -579,7 +579,7 @@ epic and such grouping of verses is nonexistent now.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—entreated her with purposeful riches (ayācatārthair anvarthaiḥ), yet she did not grant his plea (na ca yācñāṃ cakāra sā). My husband, of mighty splendour (mahā-tejāḥ), was twenty-five years of age (vayasā pañcaviṃśakaḥ)—
+—entreated her with purposeful riches (_ayācatārthair anvarthaiḥ_), yet she did not grant his plea (_na ca yācñāṃ cakāra sā_). My husband, of mighty splendour (_mahā-tejāḥ_), was twenty-five years of age (_vayasā pañcaviṃśakaḥ_)—
 </details>
 </details>
 
@@ -646,7 +646,7 @@ the principle character, Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—and eighteen years (aṣṭādaśa hi varṣāṇi) were reckoned from my birth (mama janmani gaṇyate). Renowned in the world as Rāma (rāmeti prathito loke), truthful, of noble character, and pure (satyavān śīlavān śuciḥ)—
+—and eighteen years (_aṣṭādaśa hi varṣāṇi_) were reckoned from my birth (_mama janmani gaṇyate_). Renowned in the world as Rāma (_rāmeti prathito loke_), truthful, of noble character, and pure (_satyavān śīlavān śuciḥ_)—
 </details>
 </details>
 
@@ -698,7 +698,7 @@ king did not anoint Rama. [3-47-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—large-eyed (viśālākṣaḥ), mighty-armed (mahā-bāhuḥ), and devoted to the welfare of all beings (sarva-bhūta-hite rataḥ)—yet the great king, his father Daśaratha himself, afflicted by passion (kāmārtaḥ)—
+—large-eyed (_viśālākṣaḥ_), mighty-armed (_mahā-bāhuḥ_), and devoted to the welfare of all beings (_sarva-bhūta-hite rataḥ_)—yet the great king, his father Daśaratha himself, afflicted by passion (_kāmārtaḥ_)—
 </details>
 </details>
 
@@ -757,7 +757,7 @@ my husband. [3-47-b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—for the sake of fulfilling Kaikeyī's desired pleasure (priya-kāmārtham), did not consecrate that Rāma (taṃ rāmaṃ nābhyaṣecayat). And when Rāma came into his father's presence (pituḥ samīpam āgatam) for the consecration (abhiṣekāya)—
+—for the sake of fulfilling Kaikeyī&#x27;s desired pleasure (_priya-kāmārtham_), did not consecrate that Rāma (_taṃ rāmaṃ nābhyaṣecayat_). And when Rāma came into his father&#x27;s presence (_pituḥ samīpam āgatam_) for the consecration (_abhiṣekāya_)—
 </details>
 </details>
 
@@ -829,9 +829,9 @@ repair to forests and redeem your father from the remorse of perjury.' [3-47-15b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** —Kaikeyī spoke these hasty words (drutaṃ vacaḥ) to my husband: ‘Hear from me (mamedaṃ śṛṇu), O Rāghava, what has been commanded by your father (tava pitrā samājñaptam):
+**14:** —Kaikeyī spoke these hasty words (_drutaṃ vacaḥ_) to my husband: ‘Hear from me (_mamedaṃ śṛṇu_), O Rāghava, what has been commanded by your father (_tava pitrā samājñaptam_):
 
-**15:** this realm, free of thorns (idaṃ rājyam akaṇṭakam), is to be bestowed upon Bharata (bharatāya pradātavyam), whereas you must dwell (tvayā tu khalu vastavyam) for nine years and five (nava varṣāṇi pañca ca)—
+**15:** this realm, free of thorns (_idaṃ rājyam akaṇṭakam_), is to be bestowed upon Bharata (_bharatāya pradātavyam_), whereas you must dwell (_tvayā tu khalu vastavyam_) for nine years and five (_nava varṣāṇi pañca ca_)—
 </details>
 </details>
 
@@ -883,7 +883,7 @@ be it' to Kaikeyi and followed her dictate. [3-47-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—in the forest; go forth into exile (pravraja), O Kākutstha, and rescue your father from falsehood (pitaraṃ mocayānṛtāt)!’ Fearless from every quarter (akutobhayaḥ), Rāma replied to Kaikeyī, ‘So be it (tatheti)!’
+—in the forest; go forth into exile (_pravraja_), O Kākutstha, and rescue your father from falsehood (_pitaraṃ mocayānṛtāt_)!’ Fearless from every quarter (_akutobhayaḥ_), Rāma replied to Kaikeyī, ‘So be it (_tatheti_)!’
 </details>
 </details>
 
@@ -943,7 +943,7 @@ shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta ya
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that word, my husband, firm in his vows (dṛḍha-vrataḥ), carried it out (cakāra). He would ever give and never accept (dadyān na pratigṛhṇīyāt); he would speak truth and never falsehood (satyaṃ brūyān na cānṛtam)—
+Hearing that word, my husband, firm in his vows (_dṛḍha-vrataḥ_), carried it out (_cakāra_). He would ever give and never accept (_dadyān na pratigṛhṇīyāt_); he would speak truth and never falsehood (_satyaṃ brūyān na cānṛtam_)—
 </details>
 </details>
 
@@ -1034,9 +1034,9 @@ Lakshmana to Shuurpanakha about Lakshmana as *apuurvii *while some others use as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** —this, O Brāhmaṇa, is the supreme vow (vratam anuttamam) upheld by Rāma (rāmasya dhṛtam). And his valorous half-brother (bhrātā tu vaimātraḥ), Lakṣmaṇa by name (lakṣmaṇo nāma vīryavān)—
+**18:** —this, O Brāhmaṇa, is the supreme vow (_vratam anuttamam_) upheld by Rāma (_rāmasya dhṛtam_). And his valorous half-brother (_bhrātā tu vaimātraḥ_), Lakṣmaṇa by name (_lakṣmaṇo nāma vīryavān_)—
 
-**19:** —that tiger among men (puruṣa-vyāghraḥ), Rāma's companion (sahāyaḥ) and slayer of foes in battle (samare 'ri-hā), that brother Lakṣmaṇa by name, celibate and firm in his vows (brahmacārī dṛḍha-vrataḥ)—
+**19:** —that tiger among men (_puruṣa-vyāghraḥ_), Rāma&#x27;s companion (_sahāyaḥ_) and slayer of foes in battle (_samare &#x27;ri-hā_), that brother Lakṣmaṇa by name, celibate and firm in his vows (_brahmacārī dṛḍha-vrataḥ_)—
 </details>
 </details>
 
@@ -1090,7 +1090,7 @@ aspect of a tufty haired saint along with me and his brother. [3-47-20b, 21a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—followed him bow in hand (dhanuṣ-pāṇiḥ) as he went forth into exile along with me (pravrajantaṃ mayā saha). Wearing matted locks (jaṭī) in the guise of an ascetic (tāpasa-rūpeṇa), [Rāma] together with me and with his younger brother (sahānujaḥ)—
+—followed him bow in hand (_dhanuṣ-pāṇiḥ_) as he went forth into exile along with me (_pravrajantaṃ mayā saha_). Wearing matted locks (_jaṭī_) in the guise of an ascetic (_tāpasa-rūpeṇa_), [Rāma] together with me and with his younger brother (_sahānujaḥ_)—
 </details>
 </details>
 
@@ -1140,9 +1140,9 @@ by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** —steadfast in dharma and firm in his vows (dharma-nityo dṛḍha-vrataḥ), entered the Daṇḍaka forest (praviṣṭo daṇḍakāraṇyam). Fallen thus from the kingdom (pracyutā rājyāt) on account of Kaikeyī (kaikeyyās tu kṛte), we three (te vayaṃ trayaḥ)—
+**21:** —steadfast in _dharma_ and firm in his vows (_dharma-nityo dṛḍha-vrataḥ_), entered the Daṇḍaka forest (_praviṣṭo daṇḍakāraṇyam_). Fallen thus from the kingdom (_pracyutā rājyāt_) on account of Kaikeyī (_kaikeyyās tu kṛte_), we three (_te vayaṃ trayaḥ_)—
 
-**22:** —roam by our own might (ojasā) through this deep forest (vanaṃ gambhīram), O best of the twice-born (dvija-śreṣṭha)! Rest at ease for a moment (samāśvasa muhūrtam); you can safely abide here (śakyaṃ vastum iha tvayā).
+**22:** —roam by our own might (_ojasā_) through this deep forest (_vanaṃ gambhīram_), O best of the twice-born (_dvija-śreṣṭha_)! Rest at ease for a moment (_samāśvasa muhūrtam_); you can safely abide here (_śakyaṃ vastum iha tvayā_).
 </details>
 </details>
 
@@ -1223,9 +1223,9 @@ him as above.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** My husband will soon return (āgamiṣyati me bhartā), bringing abundant forest produce (vanyam ādāya puṣkalam), having slain ruru-stags, iguanas, and boars (rurūn godhān varāhāṃś ca hatvā) and bringing plentiful meat (ādāyāmiṣaṃ bahu).
+**23:** My husband will soon return (_āgamiṣyati me bhartā_), bringing abundant forest produce (_vanyam ādāya puṣkalam_), having slain _ruru_-stags, iguanas, and boars (_rurūn godhān varāhāṃś ca hatvā_) and bringing plentiful meat (_ādāyāmiṣaṃ bahu_).
 
-**24:** Do you therefore truly declare (ācakṣva tattvataḥ) your name, your lineage, and your family (nāma ca gotraṃ ca kulam); and why, O twice-born one, do you roam alone in the Daṇḍaka forest (ekaś ca daṇḍakāraṇye kimarthaṃ carasi)?”
+**24:** Do you therefore truly declare (_ācakṣva tattvataḥ_) your name, your lineage, and your family (_nāma ca gotraṃ ca kulam_); and why, O twice-born one, do you roam alone in the Daṇḍaka forest (_ekaś ca daṇḍakāraṇye kimarthaṃ carasi_)?”
 </details>
 </details>
 
@@ -1287,7 +1287,7 @@ speaking in this way. [3-47-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Sītā, the wife of Rāma, had spoken thus (evaṃ bruvatyām), the mighty Rāvaṇa, lord of the rākṣasas (rākṣasādhipaḥ), gave a fierce reply (pratyuvācottaraṃ tīvram):
+When Sītā, the wife of Rāma, had spoken thus (_evaṃ bruvatyām_), the mighty Rāvaṇa, lord of the _rākṣasas_ (_rākṣasādhipaḥ_), gave a fierce reply (_pratyuvācottaraṃ tīvram_):
 </details>
 </details>
 
@@ -1339,7 +1339,7 @@ sovereign of hosts of demons, known as Ravana. [3-47-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He by whom the worlds together with gods, asuras, and mortals have been struck with terror (yena vitrāsitā lokāḥ)—I am that Rāvaṇa by name, O Sītā, lord of the rākṣasa hosts (rakṣo-gaṇeśvaraḥ)!
+“He by whom the worlds together with gods, _asuras_, and mortals have been struck with terror (_yena vitrāsitā lokāḥ_)—I am that Rāvaṇa by name, O Sītā, lord of the _rākṣasa_ hosts (_rakṣo-gaṇeśvaraḥ_)!
 </details>
 </details>
 
@@ -1400,7 +1400,7 @@ thus I am ready to renounce this accursed being of Ravana...' Maheshvara Tirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having beheld you shining with the lustre of gold (kāñcana-varṇābhām) and clad in silk (kauśeya-vāsinīm), I find no pleasure in my own wives (ratiṃ svakeṣu dāreṣu nādhigacchāmi), O blameless lady (anindite).
+Having beheld you shining with the lustre of gold (_kāñcana-varṇābhām_) and clad in silk (_kauśeya-vāsinīm_), I find no pleasure in my own wives (_ratiṃ svakeṣu dāreṣu nādhigacchāmi_), O blameless lady (_anindite_).
 </details>
 </details>
 
@@ -1460,7 +1460,7 @@ to me, and to all of us, you be the ruling deity...' Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Over all the many choicest women (bahvīnām uttama-strīṇām) whom I have carried off from here and there (āhṛtānām itas tataḥ)—bless you (bhadraṃ te)—become my chief queen (mamāgra-mahiṣī bhava)!
+Over all the many choicest women (_bahvīnām uttama-strīṇām_) whom I have carried off from here and there (_āhṛtānām itas tataḥ_)—bless you (_bhadraṃ te_)—become my chief queen (_mamāgra-mahiṣī bhava_)!
 </details>
 </details>
 
@@ -1505,7 +1505,7 @@ encompassed by an ocean. [3-47-29]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the midst of the ocean (samudrasya madhye) stands my great city named Laṅkā (laṅkā nāma mama mahā-purī), encircled by the sea (sāgareṇa parikṣiptā) and established upon a mountain crest (niviṣṭā giri-mūrdhani).
+In the midst of the ocean (_samudrasya madhye_) stands my great city named Laṅkā (_laṅkā nāma mama mahā-purī_), encircled by the sea (_sāgareṇa parikṣiptā_) and established upon a mountain crest (_niviṣṭā giri-mūrdhani_).
 </details>
 </details>
 
@@ -1565,7 +1565,7 @@ The word *bhaamini* is an addressing to a beautiful lady, who is with some anger
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There, O Sītā, you shall stroll with me (mayā sārdhaṃ vicariṣyasi) through pleasure-groves (vaneṣu), and you shall no longer yearn for this forest-dwelling (na cāsya vana-vāsasya spṛhayiṣyasi), O lovely woman (bhāmini)!
+There, O Sītā, you shall stroll with me (_mayā sārdhaṃ vicariṣyasi_) through pleasure-groves (_vaneṣu_), and you shall no longer yearn for this forest-dwelling (_na cāsya vana-vāsasya spṛhayiṣyasi_), O lovely woman (_bhāmini_)!
 </details>
 </details>
 
@@ -1632,7 +1632,7 @@ are serving you...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Five thousand handmaidens (pañca dāsyaḥ sahasrāṇi), decked in every ornament (sarvābharaṇa-bhūṣitāḥ), shall wait upon you (paricariṣyanti), O Sītā, if you become my wife (bhāryā bhavasi me yadi)!”
+“Five thousand handmaidens (_pañca dāsyaḥ sahasrāṇi_), decked in every ornament (_sarvābharaṇa-bhūṣitāḥ_), shall wait upon you (_paricariṣyanti_), O Sītā, if you become my wife (_bhāryā bhavasi me yadi_)!”
 </details>
 </details>
 
@@ -1689,7 +1689,7 @@ vacana vilakshaNa vacana* it means ultimately as - Seetha spoke in derision.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Rāvaṇa, Janaka's daughter (janakātmajā), of faultless limbs (anavadyāṅgī), grew angry (kupitā) and, spurning that rākṣasa (tam anādṛtya rākṣasam), replied:
+Addressed thus by Rāvaṇa, Janaka&#x27;s daughter (_janakātmajā_), of faultless limbs (_anavadyāṅgī_), grew angry (_kupitā_) and, spurning that _rākṣasa_ (_tam anādṛtya rākṣasam_), replied:
 </details>
 </details>
 
@@ -1751,7 +1751,7 @@ fathomless serene ocean... I have avowed to follow him in this lifetime.'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To my husband Rāma, who is unshakable like a great mountain (mahā-girim ivākampyam), equal to Mahendra (mahendra-sadṛśam), and imperturbable like the mighty ocean (mahodadhim ivākṣobhyam), I am devotedly faithful (ahaṃ rāmam anuvratā)!
+“To my husband Rāma, who is unshakable like a great mountain (_mahā-girim ivākampyam_), equal to Mahendra (_mahendra-sadṛśam_), and imperturbable like the mighty ocean (_mahodadhim ivākṣobhyam_), I am devotedly faithful (_ahaṃ rāmam anuvratā_)!
 </details>
 </details>
 
@@ -1816,7 +1816,7 @@ shade, maiden's two breasts, will warm up in cold season and cool down in hot se
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Rāma, who is endowed with all auspicious marks (sarva-lakṣaṇa-sampannam), symmetrical in reach like a banyan tree (nyagrodha-parimaṇḍalam), true to his promise (satya-saṃdham), and supremely fortunate (mahā-bhāgam), I am devotedly faithful!
+To Rāma, who is endowed with all auspicious marks (_sarva-lakṣaṇa-sampannam_), symmetrical in reach like a banyan tree (_nyagrodha-parimaṇḍalam_), true to his promise (_satya-saṃdham_), and supremely fortunate (_mahā-bhāgam_), I am devotedly faithful!
 </details>
 </details>
 
@@ -1876,7 +1876,7 @@ incarnation...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Rāma, mighty-armed (mahā-bāhum), broad-chested (mahoraskam), striding with a lion's valorous gait (siṃha-vikrānta-gāminam), a lion among men (nṛ-siṃham) and lion-like in might (siṃha-saṃkāśam), I am devotedly faithful!
+To Rāma, mighty-armed (_mahā-bāhum_), broad-chested (_mahoraskam_), striding with a lion&#x27;s valorous gait (_siṃha-vikrānta-gāminam_), a lion among men (_nṛ-siṃham_) and lion-like in might (_siṃha-saṃkāśam_), I am devotedly faithful!
 </details>
 </details>
 
@@ -1946,7 +1946,7 @@ is *daarDhyata *- said for the purpose of 'reinforcement' of her statement.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Rāma, whose face is like the full moon (pūrṇa-candrānanam), the darling of kings (rāja-vatsam), master of his senses (jitendriyam), of wide renown (pṛthu-kīrtim) and mighty arms (mahā-bāhum), I am devotedly faithful!
+To Rāma, whose face is like the full moon (_pūrṇa-candrānanam_), the darling of kings (_rāja-vatsam_), master of his senses (_jitendriyam_), of wide renown (_pṛthu-kīrtim_) and mighty arms (_mahā-bāhum_), I am devotedly faithful!
 </details>
 </details>
 
@@ -2021,7 +2021,7 @@ of a night and it will be self-ruinous to experiment with such ideas.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You, however, are a jackal (jambukaḥ) who desires me here, a lioness (siṃhīm) hard to attain (durlabhām)! I cannot be touched by you (nāhaṃ śakyā tvayā spraṣṭum), any more than the radiance of the sun (ādityasya prabhā yathā)!
+“You, however, are a jackal (_jambukaḥ_) who desires me here, a lioness (_siṃhīm_) hard to attain (_durlabhām_)! I cannot be touched by you (_nāhaṃ śakyā tvayā spraṣṭum_), any more than the radiance of the sun (_ādityasya prabhā yathā_)!
 </details>
 </details>
 
@@ -2082,7 +2082,7 @@ his death is predictable.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surely you, of doomed fortune (manda-bhāk), are seeing many trees of gold (pādapān kāñcanān), O rākṣasa, since you desire the beloved wife of Rāghava (rāghavasya priyāṃ bhāryām)!
+Surely you, of doomed fortune (_manda-bhāk_), are seeing many trees of gold (_pādapān kāñcanān_), O _rākṣasa_, since you desire the beloved wife of Rāghava (_rāghavasya priyāṃ bhāryām_)!
 </details>
 </details>
 
@@ -2198,11 +2198,11 @@ eyes with needlepoint, and licking the razorblade with your tongue. [3-47-41]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**39:** You wish to pluck a fang (daṃṣṭrām ādātum icchasi) from the jaws (vadanāt) of a famished, swift-lunging lion, the foe of deer (siṃhasya mṛga-śatros tarasvinaḥ), or of a venomous serpent (āśīviṣasya)!
+**39:** You wish to pluck a fang (_daṃṣṭrām ādātum icchasi_) from the jaws (_vadanāt_) of a famished, swift-lunging lion, the foe of deer (_siṃhasya mṛga-śatros tarasvinaḥ_), or of a venomous serpent (_āśīviṣasya_)!
 
-**40:** You wish to lift up Mount Mandara, best of mountains (mandaraṃ parvata-śreṣṭham), with your hand (pāṇinā); having drunk Kālakūṭa poison (kālakūṭaṃ viṣaṃ pītvā), you wish to walk away unharmed (svastimān gantum icchasi)!
+**40:** You wish to lift up Mount Mandara, best of mountains (_mandaraṃ parvata-śreṣṭham_), with your hand (_pāṇinā_); having drunk Kālakūṭa poison (_kālakūṭaṃ viṣaṃ pītvā_), you wish to walk away unharmed (_svastimān gantum icchasi_)!
 
-**41:** You are rubbing your eye with a needle (akṣi sūcyā pramṛjasi) and licking a razor with your tongue (jihvayā leḍhi ca kṣuram), in that you desire to win (adhigantum) the beloved wife of Rāghava!
+**41:** You are rubbing your eye with a needle (_akṣi sūcyā pramṛjasi_) and licking a razor with your tongue (_jihvayā leḍhi ca kṣuram_), in that you desire to win (_adhigantum_) the beloved wife of Rāghava!
 </details>
 </details>
 
@@ -2268,7 +2268,7 @@ and Moon? [3-47-42, 43a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Tying a boulder around your neck (avasajya śilāṃ kaṇṭhe), you wish to swim across the ocean (samudraṃ tartum icchasi); and you wish to snatch both the sun and the moon (sūryā-candramasau cobhau) with your two hands (pāṇibhyāṃ hartum icchasi)—
+“Tying a boulder around your neck (_avasajya śilāṃ kaṇṭhe_), you wish to swim across the ocean (_samudraṃ tartum icchasi_); and you wish to snatch both the sun and the moon (_sūryā-candramasau cobhau_) with your two hands (_pāṇibhyāṃ hartum icchasi_)—
 </details>
 </details>
 
@@ -2321,7 +2321,7 @@ a glowing fire in a cloth-bundle, though evincing it to be highly flaming? [3-47
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—you who wish to violate (pradharṣayitum) the beloved wife of Rāma! Seeing a blazing fire (agniṃ prajvalitaṃ dṛṣṭvā), you wish to bundle it up in a garment (vastreṇāhartum icchasi)—
+—you who wish to violate (_pradharṣayitum_) the beloved wife of Rāma! Seeing a blazing fire (_agniṃ prajvalitaṃ dṛṣṭvā_), you wish to bundle it up in a garment (_vastreṇāhartum icchasi_)—
 </details>
 </details>
 
@@ -2383,7 +2383,7 @@ pervade all this universe, and as I pervade all over I am the controller and pre
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—you who wish to carry off Rāma's wife of virtuous conduct (kalyāṇa-vṛttām)! You wish to walk upon the points (agre caritum icchasi) of iron-tipped spikes (ayo-mukhānāṃ śūlānām), you who desire to win the worthy wife (sadṛśīṃ bhāryām) of Rāma!
+—you who wish to carry off Rāma&#x27;s wife of virtuous conduct (_kalyāṇa-vṛttām_)! You wish to walk upon the points (_agre caritum icchasi_) of iron-tipped spikes (_ayo-mukhānāṃ śūlānām_), you who desire to win the worthy wife (_sadṛśīṃ bhāryām_) of Rāma!
 </details>
 </details>
 
@@ -2450,7 +2450,7 @@ Ramayana - A Linguistic Study.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever gulf (yad antaram) lies between a lion and a jackal in the forest (siṃha-sṛgālayor vane), whatever gulf between a tiny rill and the ocean (syandanikā-samudrayoḥ), whatever gulf between celestial nectar and sour gruel (surāgrya-sauvīrakayoḥ)—that is the gulf between Daśaratha's son and you (tad antaraṃ dāśarathes tavaiva ca)!
+Whatever gulf (_yad antaram_) lies between a lion and a jackal in the forest (_siṃha-sṛgālayor vane_), whatever gulf between a tiny rill and the ocean (_syandanikā-samudrayoḥ_), whatever gulf between celestial nectar and sour gruel (_surāgrya-sauvīrakayoḥ_)—that is the gulf between Daśaratha&#x27;s son and you (_tad antaraṃ dāśarathes tavaiva ca_)!
 </details>
 </details>
 
@@ -2511,7 +2511,7 @@ an imparity exists between you and the son of Dasharatha. [3-47-46]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whatever gulf lies between gold and base lead (kāñcana-sīsa-lohayoḥ), whatever gulf between sandal-water and mire (candana-vāri-paṅkayoḥ), whatever gulf between an elephant and a cat in the forest (hasti-biḍālayor vane)—that is the gulf between Daśaratha's son and you!
+Whatever gulf lies between gold and base lead (_kāñcana-sīsa-lohayoḥ_), whatever gulf between sandal-water and mire (_candana-vāri-paṅkayoḥ_), whatever gulf between an elephant and a cat in the forest (_hasti-biḍālayor vane_)—that is the gulf between Daśaratha&#x27;s son and you!
 </details>
 </details>
 
@@ -2585,7 +2585,7 @@ obtains betwixt you and the son of Dasharatha. [3-47-47]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever gulf lies between a crow and Vinatā's son Garuḍa (vāyasa-vainateyayoḥ), whatever gulf between a cormorant and a peacock (madgu-mayūrayor api), whatever gulf between a swan and a vulture in the forest (haṃsaka-gṛdhrayor vane)—that is the gulf between Daśaratha's son and you!
+“Whatever gulf lies between a crow and Vinatā&#x27;s son Garuḍa (_vāyasa-vainateyayoḥ_), whatever gulf between a cormorant and a peacock (_madgu-mayūrayor api_), whatever gulf between a swan and a vulture in the forest (_haṃsaka-gṛdhrayor vane_)—that is the gulf between Daśaratha&#x27;s son and you!
 </details>
 </details>
 
@@ -2655,7 +2655,7 @@ the word is generally translated as ghee.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While that Rāma, equal in might to the thousand-eyed Indra (sahasrākṣa-sama-prabhāve), stands bow and arrow in hand (kārmuka-bāṇa-pāṇau), even if carried off by you (hṛtāpi te 'ham), I shall never be digested by you (na jarāṃ gamiṣye), any more than clarified butter swallowed by a fly (ājyaṃ yathā makṣikayāvagīrṇam)!”
+While that Rāma, equal in might to the thousand-eyed Indra (_sahasrākṣa-sama-prabhāve_), stands bow and arrow in hand (_kārmuka-bāṇa-pāṇau_), even if carried off by you (_hṛtāpi te &#x27;ham_), I shall never be digested by you (_na jarāṃ gamiṣye_), any more than clarified butter swallowed by a fly (_ājyaṃ yathā makṣikayāvagīrṇam_)!”
 </details>
 </details>
 
@@ -2727,7 +2727,7 @@ the prospective elimination of Ravana is making her to tremble, impetuously.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken such words (itīva tad vākyam) to that thoroughly wicked night-stalker (suduṣṭaṃ rajanī-caraṃ tam), that slender lady (tanvī) of pure heart (aduṣṭa-bhāvā) grew distressed from the trembling of her limbs (gātra-prakampād vyathitā babhūva), like a plantain tree buffeted by the wind (vātoddhatā kadalīva).
+Having spoken such words (_itīva tad vākyam_) to that thoroughly wicked night-stalker (_suduṣṭaṃ rajanī-caraṃ tam_), that slender lady (_tanvī_) of pure heart (_aduṣṭa-bhāvā_) grew distressed from the trembling of her limbs (_gātra-prakampād vyathitā babhūva_), like a plantain tree buffeted by the wind (_vātoddhatā kadalīva_).
 </details>
 </details>
 
@@ -2798,7 +2798,7 @@ her of his name, caste, competency, and capability as his purpose is to cause sc
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Perceiving Sītā trembling (tāṃ vepamānām upalakṣya), that Rāvaṇa, equal in might to Death (mṛtyu-sama-prabhāvaḥ), proclaimed his own lineage, strength, name, and deeds (kulaṃ balaṃ nāma ca karma cātmanaḥ samācacakṣe) in order to strike terror into her (bhaya-kāraṇārtham).
+Perceiving Sītā trembling (_tāṃ vepamānām upalakṣya_), that Rāvaṇa, equal in might to Death (_mṛtyu-sama-prabhāvaḥ_), proclaimed his own lineage, strength, name, and deeds (_kulaṃ balaṃ nāma ca karma cātmanaḥ samācacakṣe_) in order to strike terror into her (_bhaya-kāraṇārtham_).
 </details>
 </details>
 

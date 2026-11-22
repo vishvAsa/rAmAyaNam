@@ -78,7 +78,7 @@ in words that were full of reason and meaning.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, the supremely wise Bharata replied to Guha, lord of the Niṣādas, in words fraught with reason and purpose (evam uktas tu bharato niṣādādhipatiṃ guham pratyuvāca mahā-prājño vākyaṃ hetv-artha-saṃhitam):
+Thus addressed, the supremely wise Bharata replied to Guha, lord of the Niṣādas, in words fraught with reason and purpose (_evam uktas tu bharato niṣādādhipatiṃ guham pratyuvāca mahā-prājño vākyaṃ hetv-artha-saṃhitam_):
 </details>
 </details>
 
@@ -131,7 +131,7 @@ such a magnitude, is great.?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Lofty indeed is your desire, O friend of my elder brother, and it has already been fulfilled by you, in that single-handed you wish to entertain such a vast army of mine (ūrjitaḥ khalu te kāmaḥ kṛto mama guroḥ sakhe yo me tvam īdṛśīṃ senām eko 'bhyarcitum icchasi)!”
+“Lofty indeed is your desire, O friend of my elder brother, and it has already been fulfilled by you, in that single-handed you wish to entertain such a vast army of mine (_ūrjitaḥ khalu te kāmaḥ kṛto mama guroḥ sakhe yo me tvam īdṛśīṃ senām eko &#x27;bhyarcitum icchasi_)!”
 </details>
 </details>
 
@@ -183,7 +183,7 @@ of great splendor, said again to Guha the kingof Nishadas (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken these excellent words to Guha, the glorious Bharata of great splendor again addressed the lord of the Niṣādas (ity uktvā tu mahā-tejā guhaṃ vacanam uttamam abravīd bharataḥ śrīmān niṣādādhipatiṃ punaḥ):
+Having spoken these excellent words to Guha, the glorious Bharata of great splendor again addressed the lord of the Niṣādas (_ity uktvā tu mahā-tejā guhaṃ vacanam uttamam abravīd bharataḥ śrīmān niṣādādhipatiṃ punaḥ_):
 </details>
 </details>
 
@@ -235,7 +235,7 @@ engulfed in waters of Ganga River is not very much easy to negotiate and is diff
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By which of the two routes, O Guha, shall I go to the hermitage of Bharadvāja? Exceedingly dense is this watered tract along the Gaṅgā, and hard to traverse (katareṇa gamiṣyāmi bharadvājāśramaṃ guha gahano 'yaṃ bhṛśaṃ deśo gaṅgānūpo duratyayaḥ).”
+“By which of the two routes, O Guha, shall I go to the hermitage of Bharadvāja? Exceedingly dense is this watered tract along the Gaṅgā, and hard to traverse (_katareṇa gamiṣyāmi bharadvājāśramaṃ guha gahano &#x27;yaṃ bhṛśaṃ deśo gaṅgānūpo duratyayaḥ_).”
 </details>
 </details>
 
@@ -287,7 +287,7 @@ answered as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of the wise prince, Guha, who roamed those dense forests, joined his palms and spoke this reply (tasya tad vacanaṃ śrutvā rāja-putrasya dhīmataḥ abravīt prāñjalir vākyaṃ guho gahana-gocaraḥ):
+Hearing those words of the wise prince, Guha, who roamed those dense forests, joined his palms and spoke this reply (_tasya tad vacanaṃ śrutvā rāja-putrasya dhīmataḥ abravīt prāñjalir vākyaṃ guho gahana-gocaraḥ_):
 </details>
 </details>
 
@@ -342,7 +342,7 @@ certainly accompany you. I too will follow you (inperson).?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Well-composed boatmen armed with bows shall follow you, and I myself shall accompany you, O prince of great renown (dāśās tvānugamiṣyanti dhanvinaḥ su-samāhitāḥ ahaṃ tv ānugamiṣyāmi rāja-putra mahā-yaśaḥ).
+“Well-composed boatmen armed with bows shall follow you, and I myself shall accompany you, O prince of great renown (_dāśās tvānugamiṣyanti dhanvinaḥ su-samāhitāḥ ahaṃ tv ānugamiṣyāmi rāja-putra mahā-yaśaḥ_).
 </details>
 </details>
 
@@ -402,7 +402,7 @@ of yours is begetting an apprehension in my mind.?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I hope you are not marching with hostile intent against Rāma of unwearying deeds; this vast army of yours awakens a certain misgiving in me (kaccin na duṣṭo vrajasi rāmasyākliṣṭa-karmaṇaḥ iyaṃ te mahatī senā śaṅkāṃ janayatīva me).”
+“I hope you are not marching with hostile intent against Rāma of unwearying deeds; this vast army of yours awakens a certain misgiving in me (_kaccin na duṣṭo vrajasi rāmasyākliṣṭa-karmaṇaḥ iyaṃ te mahatī senā śaṅkāṃ janayatīva me_).”
 </details>
 </details>
 
@@ -454,7 +454,7 @@ to that Guha, who confessed his doubt asaforesaid.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Guha who was speaking thus, Bharata, pure as the sky, spoke these words in a gentle voice (tam evam abhibhāṣantam ākāśa iva nirmalaḥ bharataḥ ślakṣṇayā vācā guhaṃ vacanam abravīt):
+To Guha who was speaking thus, Bharata, pure as the sky, spoke these words in a gentle voice (_tam evam abhibhāṣantam ākāśa iva nirmalaḥ bharataḥ ślakṣṇayā vācā guhaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -506,7 +506,7 @@ Rama my elder brother is indeed regarded as my father.?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“May that time never come when such a grievous thing should happen! You ought not to suspect me; for Rāghava is my eldest brother and is regarded by me as equal to my father (mā bhūt sa kālo yat kaṣṭaṃ na māṃ śaṅkitum arhasi rāghavaḥ sa hi me bhrātā jyeṣṭhaḥ pitṛ-samo mataḥ).
+“May that time never come when such a grievous thing should happen! You ought not to suspect me; for Rāghava is my eldest brother and is regarded by me as equal to my father (_mā bhūt sa kālo yat kaṣṭaṃ na māṃ śaṅkitum arhasi rāghavaḥ sa hi me bhrātā jyeṣṭhaḥ pitṛ-samo mataḥ_).
 </details>
 </details>
 
@@ -558,7 +558,7 @@ should be made by you. I am telling you the truth.?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I am going in order to bring back that Kākutstha who dwells in the forest; no other thought should be entertained by you, O Guha—I tell you the truth (taṃ nivartayituṃ yāmi kākutsthaṃ vana-vāsinam buddhir anyā na te kāryā guha satyaṃ bravīmi te)!”
+I am going in order to bring back that Kākutstha who dwells in the forest; no other thought should be entertained by you, O Guha—I tell you the truth (_taṃ nivartayituṃ yāmi kākutsthaṃ vana-vāsinam buddhir anyā na te kāryā guha satyaṃ bravīmi te_)!”
 </details>
 </details>
 
@@ -610,7 +610,7 @@ again to Bharata as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing Bharata’s speech, Guha, with a joyful countenance, rejoiced and spoke again to Bharata (sa tu saṃhṛṣṭa-vadanaḥ śrutvā bharata-bhāṣitam punar evābravīd vākyaṃ bharataṃ prati harṣitaḥ):
+Hearing Bharata’s speech, Guha, with a joyful countenance, rejoiced and spoke again to Bharata (_sa tu saṃhṛṣṭa-vadanaḥ śrutvā bharata-bhāṣitam punar evābravīd vākyaṃ bharataṃ prati harṣitaḥ_):
 </details>
 </details>
 
@@ -662,7 +662,7 @@ empire you acquired now, even without effort.?
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Blessed are you! Upon the face of the earth I see no one equal to you, since you wish here to relinquish a kingdom that has come to you without effort (dhanyas tvaṃ na tvayā tulyaṃ paśyāmi jagatī-tale ayatnād āgataṃ rājyaṃ yas tvaṃ tyaktum ihecchasi)!
+“Blessed are you! Upon the face of the earth I see no one equal to you, since you wish here to relinquish a kingdom that has come to you without effort (_dhanyas tvaṃ na tvayā tulyaṃ paśyāmi jagatī-tale ayatnād āgataṃ rājyaṃ yas tvaṃ tyaktum ihecchasi_)!
 </details>
 </details>
 
@@ -725,7 +725,7 @@ who wishes to bring back Rama from his terribleplight.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Eternal indeed shall be your fame, coursing through the worlds, since you wish to bring Rāma back from his distress (śāśvatī khalu te kīrtir lokān anucariṣyati yas tvaṃ kṛcchra-gataṃ rāmaṃ pratyānayitum icchasi)!”
+“Eternal indeed shall be your fame, coursing through the worlds, since you wish to bring Rāma back from his distress (_śāśvatī khalu te kīrtir lokān anucariṣyati yas tvaṃ kṛcchra-gataṃ rāmaṃ pratyānayitum icchasi_)!”
 </details>
 </details>
 
@@ -776,7 +776,7 @@ While Guha was talking thus to Bharata, the sun diffused lesslight and the night
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While Guha was conversing thus with Bharata, the sun grew dim in luster and night drew on (evaṃ sambhāṣamāṇasya guhasya bharataṃ tadā babhau naṣṭa-prabhaḥ sūryo rajanī cābhyavartata).
+While Guha was conversing thus with Bharata, the sun grew dim in luster and night drew on (_evaṃ sambhāṣamāṇasya guhasya bharataṃ tadā babhau naṣṭa-prabhaḥ sūryo rajanī cābhyavartata_).
 </details>
 </details>
 
@@ -831,7 +831,7 @@ returned to his camp and took rest along withShatrughna.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having encamped that army, the glorious Bharata, gratified by Guha, retired to his couch together with Śatrughna (sanniveśya sa tāṃ senāṃ guhena paritoṣitaḥ śatrughnena saha śrīmāñ śayanaṃ samupāgamat).
+Having encamped that army, the glorious Bharata, gratified by Guha, retired to his couch together with Śatrughna (_sanniveśya sa tāṃ senāṃ guhena paritoṣitaḥ śatrughnena saha śrīmāñ śayanaṃ samupāgamat_).
 </details>
 </details>
 
@@ -882,7 +882,7 @@ sorrow, indeed felt grief, born of anguish for Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then a grief born of anxiety for Rāma came upon the high-souled Bharata, who had his eye fixed on righteousness and did not deserve such sorrow (rāma-cintāmayaḥ śoko bharatasya mahātmanaḥ upasthito hy anarhasya dharma-prekṣasya tādṛśaḥ).
+Then a grief born of anxiety for Rāma came upon the high-souled Bharata, who had his eye fixed on righteousness and did not deserve such sorrow (_rāma-cintāmayaḥ śoko bharatasya mahātmanaḥ upasthito hy anarhasya dharma-prekṣasya tādṛśaḥ_).
 </details>
 </details>
 
@@ -934,7 +934,7 @@ of anguish burn with in his heart.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Burning with an inward blaze, that fire of grief tormented Rāghava, just as a fire hidden in the hollow torments a tree already scorched by a forest conflagration (antar-dāhena dahanaḥ santāpayati rāghavam vana-dāhābhisantaptaṃ gūḍho 'gnir iva pādapam).
+Burning with an inward blaze, that fire of grief tormented Rāghava, just as a fire hidden in the hollow torments a tree already scorched by a forest conflagration (_antar-dāhena dahanaḥ santāpayati rāghavam vana-dāhābhisantaptaṃ gūḍho &#x27;gnir iva pādapam_).
 </details>
 </details>
 
@@ -994,7 +994,7 @@ by solar rays melts and flows from Himavat mountain.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From all his limbs he shed sweat born of the fire of grief, just as Himavān, heated by the rays of the sun, sheds melting snow (prasṛtaḥ sarva-gātrebhyaḥ svedaṃ śokāgni-sambhavam yathā sūryāṃśu-santapto himavān prasṛto himam).
+From all his limbs he shed sweat born of the fire of grief, just as Himavān, heated by the rays of the sun, sheds melting snow (_prasṛtaḥ sarva-gātrebhyaḥ svedaṃ śokāgni-sambhavam yathā sūryāṃśu-santapto himavān prasṛto himam_).
 </details>
 </details>
 
@@ -1057,9 +1057,9 @@ fatigue, countless wild beasts in the shape of swoons, herbs and bamboos inthe f
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** Having brooding thoughts for its cavernous crags and heavy sighs for its mineral ores, dejection for its clusters of trees and the weariness of grief for its lofty peaks (dhyāna-nirdhara-śailena viniḥśvasita-dhātunā dainya-pādapa-saṅghena śokāyāsādhiśṛṅgiṇā),
+**19:** Having brooding thoughts for its cavernous crags and heavy sighs for its mineral ores, dejection for its clusters of trees and the weariness of grief for its lofty peaks (_dhyāna-nirdhara-śailena viniḥśvasita-dhātunā dainya-pādapa-saṅghena śokāyāsādhiśṛṅgiṇā_),
 
-**20:** and stupor for its countless wild beasts and burning torment for its herbs and bamboos—by that mighty mountain of sorrow Kaikeyī’s son was overwhelmed (pramohānanta-sattvena santāpauṣadhi-veṇunā ākrānto duḥkha-śailena mahatā kaikayī-sutaḥ).
+**20:** and stupor for its countless wild beasts and burning torment for its herbs and bamboos—by that mighty mountain of sorrow Kaikeyī’s son was overwhelmed (_pramohānanta-sattvena santāpauṣadhi-veṇunā ākrānto duḥkha-śailena mahatā kaikayī-sutaḥ_).
 </details>
 </details>
 
@@ -1125,7 +1125,7 @@ in his breast and likea bull strayed from its herd, found no peace.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sighing heavily and exceedingly dejected, his senses bewildered and fallen into supreme calamity, that bull among men, afflicted by the fever of his heart, found no peace, like a bull separated from its herd (viniḥśvasan vai bhṛśa-durmanās tataḥ pramūḍha-saṃjñaḥ paramāpadaṃ gataḥ śamaṃ na lebhe hṛdaya-jvarārdito nararṣabho yūtha-hato yatharṣabhaḥ).
+Sighing heavily and exceedingly dejected, his senses bewildered and fallen into supreme calamity, that bull among men, afflicted by the fever of his heart, found no peace, like a bull separated from its herd (_viniḥśvasan vai bhṛśa-durmanās tataḥ pramūḍha-saṃjñaḥ paramāpadaṃ gataḥ śamaṃ na lebhe hṛdaya-jvarārdito nararṣabho yūtha-hato yatharṣabhaḥ_).
 </details>
 </details>
 
@@ -1195,7 +1195,7 @@ reassured Bharata again as regards his elderbrother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Accompanied by his people and self-composed, the high-souled Bharata had met with Guha; deeply dejected himself, Guha then once more consoled that grieving Bharata concerning his elder brother (guhena sārdhaṃ bharataḥ samāgato mahānubhāvaḥ sa-janaḥ samāhitaḥ su-durmanās taṃ bharataṃ tadā punar guhaḥ samāśvāsayad agrajaṃ prati).
+Accompanied by his people and self-composed, the high-souled Bharata had met with Guha; deeply dejected himself, Guha then once more consoled that grieving Bharata concerning his elder brother (_guhena sārdhaṃ bharataḥ samāgato mahānubhāvaḥ sa-janaḥ samāhitaḥ su-durmanās taṃ bharataṃ tadā punar guhaḥ samāśvāsayad agrajaṃ prati_).
 </details>
 </details>
 

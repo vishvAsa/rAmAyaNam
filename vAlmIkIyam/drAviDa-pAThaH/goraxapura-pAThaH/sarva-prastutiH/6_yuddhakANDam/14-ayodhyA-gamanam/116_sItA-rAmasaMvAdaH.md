@@ -85,7 +85,7 @@ stand on end, Seetha became very much perturbed.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commissioned in return (pratisamādiṣṭaḥ), Hanūmān, the son of the Wind-god (mārutātmajaḥ), entered the city of Laṅkā, being honored by the night-wanderers (niśācaraiḥ).
+Thus commissioned in return (_pratisamādiṣṭaḥ_), Hanūmān, the son of the Wind-god (_mārutātmajaḥ_), entered the city of Laṅkā, being honored by the night-wanderers (_niśācaraiḥ_).
 </details>
 </details>
 
@@ -141,7 +141,7 @@ before, amidst a large gathering of people, Seetha stood bent low with shame.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered the city of Laṅkā and sought the permission of Vibhīṣaṇa, Hanūmān, duly granted leave (abhyanujñātaḥ) by him, [proceeded] to the grove of trees (vṛkṣavāṭikām).
+Having entered the city of Laṅkā and sought the permission of Vibhīṣaṇa, Hanūmān, duly granted leave (_abhyanujñātaḥ_) by him, [proceeded] to the grove of trees (_vṛkṣavāṭikām_).
 </details>
 </details>
 
@@ -193,7 +193,7 @@ pointed splinters, Seetha shed profuse tears.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Entering in due form (yathānyāyam), the monkey (hariḥ), already known to Sītā, beheld her bereft of bodily adornment (mṛjayā hīnām), like [the lunar asterism] Rohiṇī stricken with terror (sātaṅkām).
+Entering in due form (_yathānyāyam_), the monkey (_hariḥ_), already known to Sītā, beheld her bereft of bodily adornment (_mṛjayā hīnām_), like [the lunar asterism] Rohiṇī stricken with terror (_sātaṅkām_).
 </details>
 </details>
 
@@ -248,7 +248,7 @@ words slowly, in a stammering voice to her husband.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching and greeting her with his name (abhivādya ca) as she sat joyless (nirānandām) at the foot of a tree, surrounded by Rākṣasī women, he stood still (nibhṛtaḥ), bowed (praṇataḥ), and humble (prahvaḥ).
+Approaching and greeting her with his name (_abhivādya ca_) as she sat joyless (_nirānandām_) at the foot of a tree, surrounded by Rākṣasī women, he stood still (_nibhṛtaḥ_), bowed (_praṇataḥ_), and humble (_prahvaḥ_).
 </details>
 </details>
 
@@ -300,7 +300,7 @@ for me, like a common man speaking to a common woman?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that mighty Hanūmān arrived, the noble lady (devī) remained silent (tūṣṇīm āsta) at first; then, gazing upon him and recollecting [who he was], she became filled with joy (hṛṣṭābhavat).
+Beholding that mighty Hanūmān arrived, the noble lady (_devī_) remained silent (_tūṣṇīm āsta_) at first; then, gazing upon him and recollecting [who he was], she became filled with joy (_hṛṣṭābhavat_).
 </details>
 </details>
 
@@ -355,7 +355,7 @@ in me. I swear to you by my own character."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her serene and gladdened countenance (saumyaṃ tasyā mukham), Hanūmān, the foremost of leapers (plavagottamaḥ), began to relate (ākhyātum upacakrame) the entire message of Rāma.
+Beholding her serene and gladdened countenance (_saumyaṃ tasyā mukham_), Hanūmān, the foremost of leapers (_plavagottamaḥ_), began to relate (_ākhyātum upacakrame_) the entire message of Rāma.
 </details>
 </details>
 
@@ -413,7 +413,7 @@ doubt, if I have been actually tested (and found trustworthy) by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Vaidehī, Rāma is well (kuśalī), together with Sugrīva and Lakṣmaṇa (sahasugrīvalakṣmaṇaḥ); having accomplished his purpose (siddhārthaḥ), slain his enemy, and conquered his foes, he asks after your welfare (kuśalaṃ cāha).
+“O Vaidehī, Rāma is well (_kuśalī_), together with Sugrīva and Lakṣmaṇa (_sahasugrīvalakṣmaṇaḥ_); having accomplished his purpose (_siddhārthaḥ_), slain his enemy, and conquered his foes, he asks after your welfare (_kuśalaṃ cāha_).
 </details>
 </details>
 
@@ -466,7 +466,7 @@ Ravana. I was helpless. My adverse fate was to blame on that score."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-O noble lady (devi), the valiant Rāvaṇa has been slain (nihataḥ) by Rāma, aided by Vibhīṣaṇa (vibhīṣaṇasahāyena), together with the monkeys and Lakṣmaṇa.
+O noble lady (_devi_), the valiant Rāvaṇa has been slain (_nihataḥ_) by Rāma, aided by Vibhīṣaṇa (_vibhīṣaṇasahāyena_), together with the monkeys and Lakṣmaṇa.
 </details>
 </details>
 
@@ -520,7 +520,7 @@ helpless as I was, with regard to my limbs which had fallen under the sway of an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-I announce glad tidings (priyam ākhyāmi) to you, O lady, and once more I pay you homage (sabhājaye); through your spiritual power (tava prabhāvāt), O knower of dharma, a great [victory has been won] by Rāma in battle.
+I announce glad tidings (_priyam ākhyāmi_) to you, O lady, and once more I pay you homage (_sabhājaye_); through your spiritual power (_tava prabhāvāt_), O knower of dharma, a great [victory has been won] by Rāma in battle.
 </details>
 </details>
 
@@ -574,7 +574,7 @@ such ignorance."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This victory has been won, O Sītā; be at ease (svasthā bhava), free from feverish grief (gatajvarā)! The enemy Rāvaṇa is slain, and Laṅkā too has been brought under control (vaśīkṛtā).
+This victory has been won, O Sītā; be at ease (_svasthā bhava_), free from feverish grief (_gatajvarā_)! The enemy Rāvaṇa is slain, and Laṅkā too has been brought under control (_vaśīkṛtā_).
 </details>
 </details>
 
@@ -627,7 +627,7 @@ was still in Lanka, was not abandoned then itself?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Indeed, by me, sleepless (alabdhanidreṇa) and resolute in winning your deliverance (tava nirjaye), this vow (pratijñaiṣā) has been fulfilled (vinistīrṇā) after binding a causeway across the great ocean.’
+‘Indeed, by me, sleepless (_alabdhanidreṇa_) and resolute in winning your deliverance (_tava nirjaye_), this vow (_pratijñaiṣā_) has been fulfilled (_vinistīrṇā_) after binding a causeway across the great ocean.’
 </details>
 </details>
 
@@ -682,7 +682,7 @@ hearing the message (conveying your desertion) before the eyes of the monkey."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-No trepidation (sambhramaḥ) should be felt by you while dwelling in Rāvaṇa’s abode; for this sovereignty of Laṅkā (laṅkaiśvaryam) has been made subject to Vibhīṣaṇa (vibhīṣaṇavidheyam).
+No trepidation (_sambhramaḥ_) should be felt by you while dwelling in Rāvaṇa’s abode; for this sovereignty of Laṅkā (_laṅkaiśvaryam_) has been made subject to Vibhīṣaṇa (_vibhīṣaṇavidheyam_).
 </details>
 </details>
 
@@ -744,7 +744,7 @@ have your friends been put to such fruitless hardship."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore take heart (āśvasihi) confidently (visrabdham), for you dwell in your own home (svagṛhe parivartase); and this [Vibhīṣaṇa] approaches, delighted and eager to behold you (tvaddarśanasamutsukaḥ).”
+Therefore take heart (_āśvasihi_) confidently (_visrabdham_), for you dwell in your own home (_svagṛhe parivartase_); and this [Vibhīṣaṇa] approaches, delighted and eager to behold you (_tvaddarśanasamutsukaḥ_).”
 </details>
 </details>
 
@@ -796,7 +796,7 @@ conforming yourself to just an emotion of anger."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed, that noble lady Sītā, whose countenance resembled the moon (śaśinibhānanā), was obstructed by overwhelming joy (praharṣeṇāvaruddhā) and could not utter a word (vyāhartuṃ na śaśāka ha).
+Thus addressed, that noble lady Sītā, whose countenance resembled the moon (_śaśinibhānanā_), was obstructed by overwhelming joy (_praharṣeṇāvaruddhā_) and could not utter a word (_vyāhartuṃ na śaśāka ha_).
 </details>
 </details>
 
@@ -846,7 +846,7 @@ actually from the earth. My sacred birth of such a high degree, was not honoured
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the foremost of monkeys (harivaraḥ) spoke to Sītā, who was making no reply (apratijalpatīm): “What are you pondering, O lady, and why do you not speak to me?”
+Then the foremost of monkeys (_harivaraḥ_) spoke to Sītā, who was making no reply (_apratijalpatīm_): “What are you pondering, O lady, and why do you not speak to me?”
 </details>
 </details>
 
@@ -898,7 +898,7 @@ My devotion, my chastity and all have been ignored by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Hanūmān, Sītā, ever steadfast in the path of dharma (dharmapathe sthitā), spoke in a voice choked with tears (bāṣpagadgadayā girā), supremely pleased:
+Thus addressed by Hanūmān, Sītā, ever steadfast in the path of dharma (_dharmapathe sthitā_), spoke in a voice choked with tears (_bāṣpagadgadayā girā_), supremely pleased:
 </details>
 </details>
 
@@ -947,7 +947,7 @@ sad and engaged in thoughtfulness (as follows):
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing these glad tidings (priyam etad upaśrutya) concerning my lord’s victory (bhartur vijayasamśritam), I came under the sway of rapture (praharṣavaśam āpannā) and was speechless for a moment (kṣaṇāntaram).
+“Hearing these glad tidings (_priyam etad upaśrutya_) concerning my lord’s victory (_bhartur vijayasamśritam_), I came under the sway of rapture (_praharṣavaśam āpannā_) and was speechless for a moment (_kṣaṇāntaram_).
 </details>
 </details>
 
@@ -993,7 +993,7 @@ no longer wish to survive, smitten as am with false blames."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Indeed, though pondering (cintayantī), O leaper (plavaṃgama), I do not behold any fitting return gift (sadṛśaṃ pratyabhinandanam) to offer you, the announcer of glad tidings (ākhyānakasya bhavataḥ).
+Indeed, though pondering (_cintayantī_), O leaper (_plavaṃgama_), I do not behold any fitting return gift (_sadṛśaṃ pratyabhinandanam_) to offer you, the announcer of glad tidings (_ākhyānakasya bhavataḥ_).
 </details>
 </details>
 
@@ -1048,7 +1048,7 @@ abandoned amidst an assembly of men, by my husband who was not satisfied with my
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nor do I behold even upon the earth (pṛthivyām api), O gentle monkey (saumya vānara), anything comparable (sadṛśam) at this announcement of glad tidings (yat priyākhyāne) which, having been given to you, would bring me satisfaction (bhavet sukham).
+Nor do I behold even upon the earth (_pṛthivyām api_), O gentle monkey (_saumya vānara_), anything comparable (_sadṛśam_) at this announcement of glad tidings (_yat priyākhyāne_) which, having been given to you, would bring me satisfaction (_bhavet sukham_).
 </details>
 </details>
 
@@ -1100,7 +1100,7 @@ to wrath, looked towards Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Neither silver (hiraṇyam), nor gold (suvarṇam), nor manifold jewels, nor sovereignty over the three worlds (rājyaṃ vā triṣu lokeṣu) is worthy of this utterance (etan nārhati bhāṣitam).”
+Neither silver (_hiraṇyam_), nor gold (_suvarṇam_), nor manifold jewels, nor sovereignty over the three worlds (_rājyaṃ vā triṣu lokeṣu_) is worthy of this utterance (_etan nārhati bhāṣitam_).”
 </details>
 </details>
 
@@ -1147,7 +1147,7 @@ face, that valiant Lakshmana prepared a pyre, in deference to the wishes of Rama
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Vaidehī, the leaper (plavaṃgamaḥ), standing before Sītā (sītāyāḥ pramukhe sthitaḥ) with joined palms out of joy (pragṛhītāñjalir harṣāt), replied:
+Thus addressed by Vaidehī, the leaper (_plavaṃgamaḥ_), standing before Sītā (_sītāyāḥ pramukhe sthitaḥ_) with joined palms out of joy (_pragṛhītāñjalir harṣāt_), replied:
 </details>
 </details>
 
@@ -1195,7 +1195,7 @@ world.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O blameless lady (anindite), devoted to what is dear and beneficial to your lord (bhartuḥ priyahite yukte) and wishing for your lord’s victory, you alone are worthy (tvam evārhasi) [to utter] such affectionate speech (snigdham evaṃvidhaṃ vākyam).
+“O blameless lady (_anindite_), devoted to what is dear and beneficial to your lord (_bhartuḥ priyahite yukte_) and wishing for your lord’s victory, you alone are worthy (_tvam evārhasi_) [to utter] such affectionate speech (_snigdham evaṃvidhaṃ vākyam_).
 </details>
 </details>
 
@@ -1247,7 +1247,7 @@ head bent low, proceeded towards the blazing fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This speech of yours, O gentle lady (saumye), rich in substance (sāravat) and full of affection (snigdham eva ca), excels (viśiṣyate) a heap of manifold jewels and even the sovereignty of the gods (devarājyāt).
+This speech of yours, O gentle lady (_saumye_), rich in substance (_sāravat_) and full of affection (_snigdham eva ca_), excels (_viśiṣyate_) a heap of manifold jewels and even the sovereignty of the gods (_devarājyāt_).
 </details>
 </details>
 
@@ -1302,7 +1302,7 @@ the vicinity of the fire, Seetha spoke the following words:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In truth (arthataś ca), the excellences of celestial sovereignty and the rest (devarājyādayo guṇāḥ) have already been attained by me, since I behold Rāma victorious, his foes slain, and well-established (susthitam).”
+In truth (_arthataś ca_), the excellences of celestial sovereignty and the rest (_devarājyādayo guṇāḥ_) have already been attained by me, since I behold Rāma victorious, his foes slain, and well-established (_susthitam_).”
 </details>
 </details>
 
@@ -1356,7 +1356,7 @@ world, protect me from all sides."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that speech of his, Maithilī, the daughter of Janaka, then spoke a still more auspicious word (śubhataraṃ vākyam) to the son of the Wind-god (pavanātmajam):
+Hearing that speech of his, Maithilī, the daughter of Janaka, then spoke a still more auspicious word (_śubhataraṃ vākyam_) to the son of the Wind-god (_pavanātmajam_):
 </details>
 </details>
 
@@ -1408,7 +1408,7 @@ fire-god the witness of the world protect me from all sides."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You alone are worthy to speak (tvam evārhasi bhāṣitum) [words] endowed with supreme excellence of expression (atilakṣaṇasampannam), adorned with the virtue of sweetness (mādhuryaguṇabhūṣaṇam), and joined with eightfold intelligence (buddhyā hy aṣṭāṅgayā yuktam).
+“You alone are worthy to speak (_tvam evārhasi bhāṣitum_) [words] endowed with supreme excellence of expression (_atilakṣaṇasampannam_), adorned with the virtue of sweetness (_mādhuryaguṇabhūṣaṇam_), and joined with eightfold intelligence (_buddhyā hy aṣṭāṅgayā yuktam_).
 </details>
 </details>
 
@@ -1455,7 +1455,7 @@ the virtues, so let the fire-god protect me."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-You are the praiseworthy (ślāghanīyaḥ), supremely righteous son of the Wind-god (anilasya sutaḥ); strength (balam), valor (śauryam), scriptural learning (śrutam), vigor (sattvam), prowess (vikramaḥ), and supreme dexterity (dākṣyam uttamam),
+You are the praiseworthy (_ślāghanīyaḥ_), supremely righteous son of the Wind-god (_anilasya sutaḥ_); strength (_balam_), valor (_śauryam_), scriptural learning (_śrutam_), vigor (_sattvam_), prowess (_vikramaḥ_), and supreme dexterity (_dākṣyam uttamam_),
 </details>
 </details>
 
@@ -1515,7 +1515,7 @@ even others know me to be endowed with good conduct, so let the fire-god protect
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-spiritedness (tejaḥ), forbearance (kṣamā), fortitude (dhṛtiḥ), steadfastness (sthairyam), and humility (vinītatvam)—without doubt, these and many other auspicious virtues shine in you alone (tvayy eva śobhanāḥ).”
+spiritedness (_tejaḥ_), forbearance (_kṣamā_), fortitude (_dhṛtiḥ_), steadfastness (_sthairyam_), and humility (_vinītatvam_)—without doubt, these and many other auspicious virtues shine in you alone (_tvayy eva śobhanāḥ_).”
 </details>
 </details>
 
@@ -1567,7 +1567,7 @@ hesitation, entered the blazing fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, unflurried (asambhrāntaḥ) and humble in demeanor (vinītavat), standing before Sītā with joined palms out of joy, he spoke again to Sītā:
+Then, unflurried (_asambhrāntaḥ_) and humble in demeanor (_vinītavat_), standing before Sītā with joined palms out of joy, he spoke again to Sītā:
 </details>
 </details>
 
@@ -1619,7 +1619,7 @@ having entered the fire there.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you permit (yadi tvam anumanyase), I wish to slay (hantum icchāmi) all these Rākṣasī women here (imās tu khalu rākṣasyaḥ) by whom you were formerly menaced (tarjitā purā).
+“If you permit (_yadi tvam anumanyase_), I wish to slay (_hantum icchāmi_) all these Rākṣasī women here (_imās tu khalu rākṣasyaḥ_) by whom you were formerly menaced (_tarjitā purā_).
 </details>
 </details>
 
@@ -1673,7 +1673,7 @@ refined gold, plunged into the blazing fire, in the presence of all people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As you suffered (kliśyantīm) in the Aśoka grove, devoted to your husband as to a god (patidevām), [these women] of terrifying form and conduct (ghorarūpasamācārāḥ), cruel and fierce-eyed (krūratarekṣaṇāḥ)—
+As you suffered (_kliśyantīm_) in the Aśoka grove, devoted to your husband as to a god (_patidevām_), [these women] of terrifying form and conduct (_ghorarūpasamācārāḥ_), cruel and fierce-eyed (_krūratarekṣaṇāḥ_)—
 </details>
 </details>
 
@@ -1719,7 +1719,7 @@ altar, plunging into the fire.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-here, O noble lady, the Rākṣasī women of deformed faces (vikṛtānanāḥ) were heard by me speaking repeatedly (asakṛt) with harsh words at Rāvaṇa’s command (rāvaṇājñayā).
+here, O noble lady, the Rākṣasī women of deformed faces (_vikṛtānanāḥ_) were heard by me speaking repeatedly (_asakṛt_) with harsh words at Rāvaṇa’s command (_rāvaṇājñayā_).
 </details>
 </details>
 
@@ -1772,7 +1772,7 @@ the fire as a sacred oblation of clarified butter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deformed, of hideous aspect (vikṛtākārāḥ), cruel, with fierce hair and eyes (krūrakacekṣaṇāḥ)—I wish to slay these utterly dreadful ones (sudāruṇāḥ) with manifold blows (vividhair ghātaiḥ).
+Deformed, of hideous aspect (_vikṛtākārāḥ_), cruel, with fierce hair and eyes (_krūrakacekṣaṇāḥ_)—I wish to slay these utterly dreadful ones (_sudāruṇāḥ_) with manifold blows (_vividhair ghātaiḥ_).
 </details>
 </details>
 
@@ -1829,7 +1829,7 @@ hymns.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Grant me this boon (varam etat prayaccha me), [to punish] the Rākṣasīs of dreadful speech (dāruṇakathāḥ) with fists (muṣṭibhiḥ), heel-strikes (pārṣṇighātaiś ca), and long arms,
+Grant me this boon (_varam etat prayaccha me_), [to punish] the Rākṣasīs of dreadful speech (_dāruṇakathāḥ_) with fists (_muṣṭibhiḥ_), heel-strikes (_pārṣṇighātaiś ca_), and long arms,
 </details>
 </details>
 
@@ -1882,7 +1882,7 @@ hell.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-with blows of shins and knees (jaṅghājānuprahāraiś ca), by crushing their teeth (dantānāṃ caiva pīḍanaiḥ), by slicing off their ears and noses (kartanaiḥ karṇanāsānām), and by tearing out their hair (keśānāṃ luñcanais tathā)—
+with blows of shins and knees (_jaṅghājānuprahāraiś ca_), by crushing their teeth (_dantānāṃ caiva pīḍanaiḥ_), by slicing off their ears and noses (_kartanaiḥ karṇanāsānām_), and by tearing out their hair (_keśānāṃ luñcanais tathā_)—
 </details>
 </details>
 
@@ -1939,6 +1939,6 @@ uttering 'Alas, Alas' rose both from the demons and the monkeys alike.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-having battered them (samprahārya) thus with manifold blows, O illustrious lady (yaśasvini), I wish to strike down and slay (nipātya hantum icchāmi) those who wronged you (tava vipriyakāriṇīḥ).
+having battered them (_samprahārya_) thus with manifold blows, O illustrious lady (_yaśasvini_), I wish to strike down and slay (_nipātya hantum icchāmi_) those who wronged you (_tava vipriyakāriṇīḥ_).
 </details>
 </details>

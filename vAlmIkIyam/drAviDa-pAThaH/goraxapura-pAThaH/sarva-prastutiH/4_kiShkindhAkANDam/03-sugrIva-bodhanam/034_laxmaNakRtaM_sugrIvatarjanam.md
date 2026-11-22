@@ -66,7 +66,7 @@ Stricken in his senses at the sight of Lakṣmaṇa blazing with wrath, Sugrīva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding that bull among men (puruṣarṣabham), Lakṣmaṇa, who had entered unopposed (apratihatam) and enraged (kruddham), Sugrīva became Perturbed in his senses (vyathitendriyaḥ).
+Beholding that bull among men (_puruṣarṣabham_), Lakṣmaṇa, who had entered unopposed (_apratihatam_) and enraged (_kruddham_), Sugrīva became Perturbed in his senses (_vyathitendriyaḥ_).
 </details>
 </details>
 
@@ -141,9 +141,9 @@ wobbly before it is thrown to ground after the ritual. [4-34-2, 3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Beholding that enraged son of Daśaratha breathing heavily (niḥśvasamānam), blazing as it were with fiery splendor (pradīptam iva tejasā), and tormented by his brother's calamity (bhrātur vyasanasaṃtaptam),
+**2:** Beholding that enraged son of Daśaratha breathing heavily (_niḥśvasamānam_), blazing as it were with fiery splendor (_pradīptam iva tejasā_), and tormented by his brother&#x27;s calamity (_bhrātur vyasanasaṃtaptam_),
 
-**3:** The best of monkeys sprang up (utpapāta), leaving his golden seat (hitvā sauvarṇam āsanam), like the great, richly adorned banner of Mahendra (mahendrasya dhvajaḥ).
+**3:** The best of monkeys sprang up (_utpapāta_), leaving his golden seat (_hitvā sauvarṇam āsanam_), like the great, richly adorned banner of Mahendra (_mahendrasya dhvajaḥ_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ emergence of full moon in sky. [4-34-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As Sugrīva rose up, the women headed by Rumā (rumāprabhṛtayaḥ striyaḥ) rose up after him (anūtpetuḥ), like clusters of stars (tārāgaṇā iva) following the full moon in the sky.
+As Sugrīva rose up, the women headed by Rumā (_rumāprabhṛtayaḥ striyaḥ_) rose up after him (_anūtpetuḥ_), like clusters of stars (_tārāgaṇā iva_) following the full moon in the sky.
 </details>
 </details>
 
@@ -259,7 +259,7 @@ here Sugreeva is the giver and Lakshmana is the taker, so this belongs to Sugree
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With reddened eyes (saṃraktanayanaḥ), the illustrious one stepped forward with folded hands (saṃcacāla kṛtāñjaliḥ) and stood there like a great wish-granting tree (kalpavṛkṣo mahān iva).
+With reddened eyes (_saṃraktanayanaḥ_), the illustrious one stepped forward with folded hands (_saṃcacāla kṛtāñjaliḥ_) and stood there like a great wish-granting tree (_kalpavṛkṣo mahān iva_).
 </details>
 </details>
 
@@ -314,7 +314,7 @@ with his wife Ruma at his side amid other vanara females. [4-34-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To Sugrīva, who stood in the midst of his women (nārīmadhyagatam sthitam) with Rumā at his side (rumādvitīyam) like the moon accompanied by the star Tārā (satāram śaśinam yathā), enraged Lakṣmaṇa spoke:
+To Sugrīva, who stood in the midst of his women (_nārīmadhyagatam sthitam_) with Rumā at his side (_rumādvitīyam_) like the moon accompanied by the star Tārā (_satāram śaśinam yathā_), enraged Lakṣmaṇa spoke:
 </details>
 </details>
 
@@ -375,7 +375,7 @@ faithful one and an advocate of truth, he alone thrives as a king in the world. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A king who is endowed with courage and noble lineage (sattvābhijanasampannaḥ), compassionate (sānukrośaḥ), master of his senses (jitendriyaḥ), grateful (kṛtajñaḥ), and truthful in speech (satyavādī) is revered in the world (loke mahīyate).
+“A king who is endowed with courage and noble lineage (_sattvābhijanasampannaḥ_), compassionate (_sānukrośaḥ_), master of his senses (_jitendriyaḥ_), grateful (_kṛtajñaḥ_), and truthful in speech (_satyavādī_) is revered in the world (_loke mahīyate_).
 </details>
 </details>
 
@@ -429,7 +429,7 @@ assurances to helpful friends, who can be more ruthless than him? [4-34-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“But what king, standing in unrighteousness (sthito'dharme), makes a false promise (mithyā pratijñām kurute) to benefactor friends (mitrāṇām upakāriṇām) — who is more cruel than he (ko nṛśaṃsataras tataḥ)?
+“But what king, standing in unrighteousness (_sthito&#x27;dharme_), makes a false promise (_mithyā pratijñām kurute_) to benefactor friends (_mitrāṇām upakāriṇām_) — who is more cruel than he (_ko nṛśaṃsataras tataḥ_)?
 </details>
 </details>
 
@@ -507,7 +507,7 @@ beings and committing suicide.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By a falsehood regarding a horse (aśvānṛte), a man slays a hundred (śatam hanti); by a falsehood regarding cows (gavānṛte), a thousand (sahasram); [but] by a falsehood regarding a person (puruṣānṛte), a man slays himself and his own kinsmen (ātmānam svajanam hanti).
+“By a falsehood regarding a horse (_aśvānṛte_), a man slays a hundred (_śatam hanti_); by a falsehood regarding cows (_gavānṛte_), a thousand (_sahasram_); [but] by a falsehood regarding a person (_puruṣānṛte_), a man slays himself and his own kinsmen (_ātmānam svajanam hanti_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ them, oh, king of monkeys, such a treacherous one is eliminable for all beings. 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He who, having first had his own purpose accomplished by friends (pūrvam kṛtārtho mitrāṇām), does not repay that [favor] (na tat pratikaroti yaḥ), is an ingrate (kṛtaghnaḥ) deserving to be slain by all beings (sarvabhūtānām sa vadhyaḥ), O lord of leapers.
+“He who, having first had his own purpose accomplished by friends (_pūrvam kṛtārtho mitrāṇām_), does not repay that [favor] (_na tat pratikaroti yaḥ_), is an ingrate (_kṛtaghnaḥ_) deserving to be slain by all beings (_sarvabhūtānām sa vadhyaḥ_), O lord of leapers.
 </details>
 </details>
 
@@ -616,7 +616,7 @@ Svayambhu Manu who constructed the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This verse (ślokaḥ), revered by all the worlds (sarvalokanamaskṛtaḥ), was sung of old by Brahmā (gīto'yam brahmaṇā) when enraged at beholding an ingrate (dṛṣṭvā kṛtaghnam kruddhena); understand it (tan nibodha), O leaper:
+“This verse (_ślokaḥ_), revered by all the worlds (_sarvalokanamaskṛtaḥ_), was sung of old by Brahmā (_gīto&#x27;yam brahmaṇā_) when enraged at beholding an ingrate (_dṛṣṭvā kṛtaghnam kruddhena_); understand it (_tan nibodha_), O leaper:
 </details>
 </details>
 
@@ -678,7 +678,7 @@ person. [4-34-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“ `For a slayer of cows (goghne), and likewise for a drinker of spirituous liquor (surāpe), for a thief (caure), and for one who has broken a sacred vow (bhagnavrate), expiation has been ordained by the wise (niṣkṛtir vihitā sadbhiḥ); [but] for an ingrate there is no expiation (kṛtaghne nāsti niṣkṛtiḥ).'
+“ `For a slayer of cows (_goghne_), and likewise for a drinker of spirituous liquor (_surāpe_), for a thief (_caure_), and for one who has broken a sacred vow (_bhagnavrate_), expiation has been ordained by the wise (_niṣkṛtir vihitā sadbhiḥ_); [but] for an ingrate there is no expiation (_kṛtaghne nāsti niṣkṛtiḥ_).&#x27;
 </details>
 </details>
 
@@ -732,7 +732,7 @@ your word of honour. [4-34-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are ignoble (anāryas tvam), and ungrateful (kṛtaghnaś ca), and a speaker of falsehood (mithyāvādī ca), O monkey, inasmuch as (yat), having first had your purpose accomplished by Rāma (pūrvam kṛtārtho rāmasya), you do not repay that [service] (na tat pratikaroṣi).
+“You are ignoble (_anāryas tvam_), and ungrateful (_kṛtaghnaś ca_), and a speaker of falsehood (_mithyāvādī ca_), O monkey, inasmuch as (_yat_), having first had your purpose accomplished by Rāma (_pūrvam kṛtārtho rāmasya_), you do not repay that [service] (_na tat pratikaroṣi_).
 </details>
 </details>
 
@@ -785,7 +785,7 @@ endeavour through you, and I wonder whether the search for Seetha is not your du
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely indeed (nanu nāma), by you whose purpose has been accomplished (kṛtārthena tvayā) and who ought to cherish what was done for you (kṛtam icchatā), an effort (yatnaḥ) ought to be made in the search for Rāma's Sītā (rāmasya sītāyā mārgaṇe), O monkey!
+“Surely indeed (_nanu nāma_), by you whose purpose has been accomplished (_kṛtārthena tvayā_) and who ought to cherish what was done for you (_kṛtam icchatā_), an effort (_yatnaḥ_) ought to be made in the search for Rāma&#x27;s Sītā (_rāmasya sītāyā mārgaṇe_), O monkey!
 </details>
 </details>
 
@@ -834,7 +834,7 @@ realised that you are a serpent with the croaking of a frog. [4-34-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet you, being attached to vulgar pleasures (grāmyeṣu bhogeṣu saktaḥ), are false to your promise (mithyāpratiśravaḥ); Rāma did not recognize you [for what you are], like a snake croaking with the cry of a frog (sarpam maṇḍūkarāviṇam).
+“Yet you, being attached to vulgar pleasures (_grāmyeṣu bhogeṣu saktaḥ_), are false to your promise (_mithyāpratiśravaḥ_); Rāma did not recognize you [for what you are], like a snake croaking with the cry of a frog (_sarpam maṇḍūkarāviṇam_).
 </details>
 </details>
 
@@ -889,7 +889,7 @@ monkeys, and it is a gain of an evil-soul from a noble-soul. [4-34-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By the illustrious, high-souled Rāma, who knows compassion (karuṇavedinā), you — a wicked, evil-souled creature (tvam pāpaḥ durātmā) — were caused to attain the sovereignty of the monkeys (harīṇām prāpito rājyam).
+“By the illustrious, high-souled Rāma, who knows compassion (_karuṇavedinā_), you — a wicked, evil-souled creature (_tvam pāpaḥ durātmā_) — were caused to attain the sovereignty of the monkeys (_harīṇām prāpito rājyam_).
 </details>
 </details>
 
@@ -944,7 +944,7 @@ instantly killed with incisive arrows enabling you to see Vali. [4-34-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you do not acknowledge the service done (kṛtam cen nātijānīṣe) by the high-souled Rāghava, slain at once by sharp arrows (sadyas tvam niśitair bāṇair hataḥ), you shall behold Vālī (drakṣyasi vālinam)!
+“If you do not acknowledge the service done (_kṛtam cen nātijānīṣe_) by the high-souled Rāghava, slain at once by sharp arrows (_sadyas tvam niśitair bāṇair hataḥ_), you shall behold Vālī (_drakṣyasi vālinam_)!
 </details>
 </details>
 
@@ -1001,7 +1001,7 @@ reproducing the same.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That path by which slain Vālī went (yena vālī hato gataḥ) is not narrowed or closed (na sa saṃkucitaḥ panthā); stand firm in your covenant (samaye tiṣṭha), O Sugrīva — do not follow the path of Vālī (mā vālipatham anvagāḥ)!
+“That path by which slain Vālī went (_yena vālī hato gataḥ_) is not narrowed or closed (_na sa saṃkucitaḥ panthā_); stand firm in your covenant (_samaye tiṣṭha_), O Sugrīva — do not follow the path of Vālī (_mā vālipatham anvagāḥ_)!
 </details>
 </details>
 
@@ -1073,7 +1073,7 @@ a thought to Rama's mission even at your heart. [4-34-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely you do not behold those thunderbolt-like arrows (śarāṃś ca tān vajrasaṃnibhān) [sped] from the bow of the best of the Ikṣvākus (ikṣvākuvarasya kārmukāt); therefore (tataḥ), being at ease (sukhī), you indulge in pleasure (sukham nāma viṣevase) and do not regard Rāma's business even in your mind (na rāmakāryam manasāpy avekṣase)!”
+“Surely you do not behold those thunderbolt-like arrows (_śarāṃś ca tān vajrasaṃnibhān_) [sped] from the bow of the best of the Ikṣvākus (_ikṣvākuvarasya kārmukāt_); therefore (_tataḥ_), being at ease (_sukhī_), you indulge in pleasure (_sukham nāma viṣevase_) and do not regard Rāma&#x27;s business even in your mind (_na rāmakāryam manasāpy avekṣase_)!”
 </details>
 </details>
 

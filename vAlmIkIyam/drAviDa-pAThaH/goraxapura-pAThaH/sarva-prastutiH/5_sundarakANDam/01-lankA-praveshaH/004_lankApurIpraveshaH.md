@@ -123,9 +123,9 @@ should always place one's left foot first into the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having conquered by his valor (vikrameṇa) that supreme city of Laṅkā, which could assume any form at will (kāmarūpiṇīm), Hanūmān of mighty splendor, the foremost of monkeys,
+**1:** Having conquered by his valor (_vikrameṇa_) that supreme city of Laṅkā, which could assume any form at will (_kāmarūpiṇīm_), Hanūmān of mighty splendor, the foremost of monkeys,
 
-**2:** Possessed of great prowess, leaped over the rampart (prākāram avapupluve) by a passage other than the gate (advāreṇa); and at night that elephant among monkeys, endowed with immense strength, entered Laṅkā.
+**2:** Possessed of great prowess, leaped over the rampart (_prākāram avapupluve_) by a passage other than the gate (_advāreṇa_); and at night that elephant among monkeys, endowed with immense strength, entered Laṅkā.
 </details>
 </details>
 
@@ -156,7 +156,7 @@ should always place one's left foot first into the city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered the city of Laṅkā, that benefactor of the monkey king (kapirājahitaṃkaraḥ) then placed his left foot (savyam pādam) squarely upon the heads of his enemies (śatrūṇāṃ mūrdhani).
+Having entered the city of Laṅkā, that benefactor of the monkey king (_kapirājahitaṃkaraḥ_) then placed his left foot (_savyam pādam_) squarely upon the heads of his enemies (_śatrūṇāṃ mūrdhani_).
 </details>
 </details>
 
@@ -207,7 +207,7 @@ Lanka.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having entered at night, the son of the Wind-god, richly endowed with inner strength (sattvasampannaḥ), took to the great royal highway (mahāpatham) resplendent with strewn flowers (muktapuṣpavirājitam).
+Having entered at night, the son of the Wind-god, richly endowed with inner strength (_sattvasampannaḥ_), took to the great royal highway (_mahāpatham_) resplendent with strewn flowers (_muktapuṣpavirājitam_).
 </details>
 </details>
 
@@ -238,9 +238,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** Then that monkey advanced toward that delightful city of Laṅkā, which was heralded by the sounds of musical instruments (tūryaghoṣapuraskṛtaiḥ) and resonant with loud laughter and jubilant cries (hasitotkṛṣṭaninadaiḥ).
+**5:** Then that monkey advanced toward that delightful city of Laṅkā, which was heralded by the sounds of musical instruments (_tūryaghoṣapuraskṛtaiḥ_) and resonant with loud laughter and jubilant cries (_hasitotkṛṣṭaninadaiḥ_).
 
-**6:** With its cloud-like mansions (gṛhameghaiḥ) resembling thunderbolts and elephant goads (vajrāṅkuśanikāśaiḥ) and adorned with diamond-latticed windows (vajrajālavibhūṣitaiḥ), the lovely city shone like the sky with rain clouds.
+**6:** With its cloud-like mansions (_gṛhameghaiḥ_) resembling thunderbolts and elephant goads (_vajrāṅkuśanikāśaiḥ_) and adorned with diamond-latticed windows (_vajrajālavibhūṣitaiḥ_), the lovely city shone like the sky with rain clouds.
 </details>
 </details>
 
@@ -325,7 +325,7 @@ shape of lotus and swastika and which were auspicious.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Laṅkā blazed forth then with the auspicious mansions of the rākṣasa hosts (rakṣogaṇagṛhaiḥ śubhaiḥ), variegated, resembling white clouds (sitābhrasadṛśaiḥ), and laid out in padma and svastika architectural patterns (padmasvastikasaṃsthitaiḥ),
+Laṅkā blazed forth then with the auspicious mansions of the _rākṣasa_ hosts (_rakṣogaṇagṛhaiḥ śubhaiḥ_), variegated, resembling white clouds (_sitābhrasadṛśaiḥ_), and laid out in _padma_ and _svastika_ architectural patterns (_padmasvastikasaṃsthitaiḥ_),
 </details>
 </details>
 
@@ -381,7 +381,7 @@ Sri Rama. He saw the city and became happy too.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As well as with vardhamāna palaces (vardhamānagṛhaiḥ) splendidly adorned on every side. Moving about for Rāghava's sake (rāghavārthe), that glorious benefactor of the monkey king
+As well as with _vardhamāna_ palaces (_vardhamānagṛhaiḥ_) splendidly adorned on every side. Moving about for Rāghava&#x27;s sake (_rāghavārthe_), that glorious benefactor of the monkey king
 </details>
 </details>
 
@@ -459,9 +459,9 @@ Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** Beheld that city adorned with variegated garlands and ornaments (citramālyābharaṇām), and rejoiced (dadarśa ca nananda ca). Going from mansion to mansion (bhavanād bhavanam), that elephant among monkeys beheld
+**9:** Beheld that city adorned with variegated garlands and ornaments (_citramālyābharaṇām_), and rejoiced (_dadarśa ca nananda ca_). Going from mansion to mansion (_bhavanād bhavanam_), that elephant among monkeys beheld
 
-**10:** Palaces of diverse shapes and colors (vividhākṛtirūpāṇi) here and there; and he heard charming song (ruciraṃ gītam) graced with notes pitched across the three vocal registers (tristhānasvarabhūṣitam),
+**10:** Palaces of diverse shapes and colors (_vividhākṛtirūpāṇi_) here and there; and he heard charming song (_ruciraṃ gītam_) graced with notes pitched across the three vocal registers (_tristhānasvarabhūṣitam_),
 </details>
 </details>
 
@@ -518,7 +518,7 @@ arms by warriors and roar of ogres.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sung by women pierced by the shafts of Love (madanaviddhānām), like celestial nymphs (apsarases) in heaven (divi cāpsarasām iva). He also heard the tinkling of girdles (kāñcīninadam) and the ringing of anklets (nūpurāṇāṃ ca niḥsvanam),
+Sung by women pierced by the shafts of Love (_madanaviddhānām_), like celestial nymphs (_apsarases_) in heaven (_divi cāpsarasām iva_). He also heard the tinkling of girdles (_kāñcīninadam_) and the ringing of anklets (_nūpurāṇāṃ ca niḥsvanam_),
 </details>
 </details>
 
@@ -575,7 +575,7 @@ arms by warriors and roar of ogres.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As well as the sounds of footsteps upon staircases (sopānaninadān) in the mansions of the great ones, and the clapping of arms (āsphoṭitaninādān) and lion-like battle roars (kṣveḍitān) here and there.
+As well as the sounds of footsteps upon staircases (_sopānaninadān_) in the mansions of the great ones, and the clapping of arms (_āsphoṭitaninādān_) and lion-like battle roars (_kṣveḍitān_) here and there.
 </details>
 </details>
 
@@ -638,7 +638,7 @@ Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In the houses of the rākṣasas there, he heard the voices of those muttering sacred formulas (japataṃ mantrān), and he also saw yātudhānas absorbed in Vedic recitation (svādhyāyaniratān),
+In the houses of the _rākṣasas_ there, he heard the voices of those muttering sacred formulas (_japataṃ mantrān_), and he also saw _yātudhānas_ absorbed in Vedic recitation (_svādhyāyaniratān_),
 </details>
 </details>
 
@@ -693,7 +693,7 @@ royal highway in the central zone of city.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As well as rākṣasas roaring aloud while engaged in panegyrics of Rāvaṇa (rāvaṇastavasaṃyuktān), and a vast host of rākṣasas (rakṣogaṇaṃ mahat) stationed so as to block the royal highway (rājamārgaṃ samāvṛtya).
+As well as _rākṣasas_ roaring aloud while engaged in panegyrics of Rāvaṇa (_rāvaṇastavasaṃyuktān_), and a vast host of _rākṣasas_ (_rakṣogaṇaṃ mahat_) stationed so as to block the royal highway (_rājamārgaṃ samāvṛtya_).
 </details>
 </details>
 
@@ -733,9 +733,9 @@ As well as rākṣasas roaring aloud while engaged in panegyrics of Rāvaṇa (r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** In the central garrison (madhyame gulme) he saw many spies of the rākṣasa king (rākṣasasya carān bahūn)—consecrated ritualists (dīkṣitān), ascetics with matted locks (jaṭilān), shaven-headed mendicants (muṇḍān), and those clad in cow-hides or the sky itself (gojināmbaravāsasaḥ)—
+**15:** In the central garrison (_madhyame gulme_) he saw many spies of the _rākṣasa_ king (_rākṣasasya carān bahūn_)—consecrated ritualists (_dīkṣitān_), ascetics with matted locks (_jaṭilān_), shaven-headed mendicants (_muṇḍān_), and those clad in cow-hides or the sky itself (_gojināmbaravāsasaḥ_)—
 
-**16:** Who wielded handfuls of sacred darbha grass as weapons (darbhamuṣṭipraharaṇān) and sacrificial fire-pots as arms (agnikuṇḍāyudhān), as well as those holding heavy hammers and mallets (kūṭamudgarapāṇīn) and bearing staff-weapons (daṇḍāyudhadharān);
+**16:** Who wielded handfuls of sacred _darbha_ grass as weapons (_darbhamuṣṭipraharaṇān_) and sacrificial fire-pots as arms (_agnikuṇḍāyudhān_), as well as those holding heavy hammers and mallets (_kūṭamudgarapāṇīn_) and bearing staff-weapons (_daṇḍāyudhadharān_);
 </details>
 </details>
 
@@ -764,7 +764,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One-eyed (ekākṣān), single-eared (ekakarṇān), with pendulous bellies and breasts (lambodarapayodharān), fanged and frightful (karālān), with crooked faces (bhugnavaktrān), deformed limbs (vikaṭān), and dwarfish stature (vāmanān);
+One-eyed (_ekākṣān_), single-eared (_ekakarṇān_), with pendulous bellies and breasts (_lambodarapayodharān_), fanged and frightful (_karālān_), with crooked faces (_bhugnavaktrān_), deformed limbs (_vikaṭān_), and dwarfish stature (_vāmanān_);
 </details>
 </details>
 
@@ -790,7 +790,7 @@ One-eyed (ekākṣān), single-eared (ekakarṇān), with pendulous bellies and 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bowmen (dhanvinaḥ), swordsmen (khaḍginaḥ), warriors armed with śataghnīs and iron clubs (śataghnīmusalāyudhān), and those holding supreme iron bars (parighottamahastān), blazing in variegated armor (vicitrakavacojjvalān).
+Bowmen (_dhanvinaḥ_), swordsmen (_khaḍginaḥ_), warriors armed with _śataghnīs_ and iron clubs (_śataghnīmusalāyudhān_), and those holding supreme iron bars (_parighottamahastān_), blazing in variegated armor (_vicitrakavacojjvalān_).
 </details>
 </details>
 
@@ -877,7 +877,7 @@ carried banners, those who carried flags and those who carried different weapons
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He saw warriors who were neither overly stout nor overly lean (nātisthūlān nātikṛśān), neither overly tall nor overly short (nātidīrghātihrasvakān), neither overly fair nor overly dark, and neither overly hunchbacked nor dwarfish;
+He saw warriors who were neither overly stout nor overly lean (_nātisthūlān nātikṛśān_), neither overly tall nor overly short (_nātidīrghātihrasvakān_), neither overly fair nor overly dark, and neither overly hunchbacked nor dwarfish;
 </details>
 </details>
 
@@ -906,7 +906,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deformed (virūpān), multiform (bahurūpān), and handsome (surūpān) men of bright splendor (suvarcasaḥ); he saw troops bearing standards and banners (dhvajinaḥ patākinaś caiva) and wielding diverse weapons (vividhāyudhān),
+Deformed (_virūpān_), multiform (_bahurūpān_), and handsome (_surūpān_) men of bright splendor (_suvarcasaḥ_); he saw troops bearing standards and banners (_dhvajinaḥ patākinaś caiva_) and wielding diverse weapons (_vividhāyudhān_),
 </details>
 </details>
 
@@ -937,7 +937,7 @@ Deformed (virūpān), multiform (bahurūpān), and handsome (surūpān) men of b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As well as warriors armed with javelins and trees (śaktivṛkṣāyudhān), bearing paṭṭiśa spears and aśani bolts (paṭṭiśāśanidhāriṇaḥ), and holding slings and nooses in their hands (kṣepaṇīpāśahastān)—all these that great monkey beheld;
+As well as warriors armed with javelins and trees (_śaktivṛkṣāyudhān_), bearing _paṭṭiśa_ spears and _aśani_ bolts (_paṭṭiśāśanidhāriṇaḥ_), and holding slings and nooses in their hands (_kṣepaṇīpāśahastān_)—all these that great monkey beheld;
 </details>
 </details>
 
@@ -966,7 +966,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And multitudes wearing garlands (sragviṇaḥ), anointed with unguents (anuliptān), decked in choice ornaments (varābharaṇabhūṣitān), arrayed in various attires (nānāveṣasamāyuktān), and moving about wherever they pleased (yathāsvairacarān bahūn),
+And multitudes wearing garlands (_sragviṇaḥ_), anointed with unguents (_anuliptān_), decked in choice ornaments (_varābharaṇabhūṣitān_), arrayed in various attires (_nānāveṣasamāyuktān_), and moving about wherever they pleased (_yathāsvairacarān bahūn_),
 </details>
 </details>
 
@@ -1044,7 +1044,7 @@ which was attentive and was positioned there at the command of Ravana.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bearing sharp pikes (tīkṣṇaśūladharān) and mighty thunderbolts (vajriṇaś ca mahābalān). The monkey then beheld the vigilant (avyagram) central garrison (ārakṣaṃ madhyamam) of one hundred thousand warriors (śatasāhasram),
+Bearing sharp pikes (_tīkṣṇaśūladharān_) and mighty thunderbolts (_vajriṇaś ca mahābalān_). The monkey then beheld the vigilant (_avyagram_) central garrison (_ārakṣaṃ madhyamam_) of one hundred thousand warriors (_śatasāhasram_),
 </details>
 </details>
 
@@ -1108,11 +1108,11 @@ compound wall. He watched the house again and again.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Appointed by the lord of the rākṣasas (rakṣo'dhipatinirdiṣṭam) and stationed in front of the inner palace (antaḥpurāgrataḥ). Having seen that guard and that palace with its great golden archway (mahāhāṭakatoraṇam),
+**24:** Appointed by the lord of the _rākṣasas_ (_rakṣo&#x27;dhipatinirdiṣṭam_) and stationed in front of the inner palace (_antaḥpurāgrataḥ_). Having seen that guard and that palace with its great golden archway (_mahāhāṭakatoraṇam_),
 
-**25:** That great monkey beheld the renowned palace of the lord of rākṣasas (rākṣasendrasya vikhyātam), established upon the crest of the mountain (adrimūrdhni pratiṣṭhitam), surrounded by moats (parikhābhiḥ samāvṛtam) that wore white lotuses as their crest-ornaments (puṇḍarīkāvataṃsābhiḥ),
+**25:** That great monkey beheld the renowned palace of the lord of _rākṣasas_ (_rākṣasendrasya vikhyātam_), established upon the crest of the mountain (_adrimūrdhni pratiṣṭhitam_), surrounded by moats (_parikhābhiḥ samāvṛtam_) that wore white lotuses as their crest-ornaments (_puṇḍarīkāvataṃsābhiḥ_),
 
-**26:** And thoroughly enclosed by ramparts (prākārāvṛtam atyantam)—a celestial citadel resembling heaven itself (triviṣṭapanibham divyam), resounding with divine melodies (divyanādavināditam),
+**26:** And thoroughly enclosed by ramparts (_prākārāvṛtam atyantam_)—a celestial citadel resembling heaven itself (_triviṣṭapanibham divyam_), resounding with divine melodies (_divyanādavināditam_),
 </details>
 </details>
 
@@ -1147,9 +1147,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** Echoing with the neighing of steeds (vājihreṣitasaṃghuṣṭam), resonant with the tinkling of ornaments (nāditaṃ bhūṣaṇais tathā), and graced with chariots, palanquins, and aerial cars (rathair yānair vimānaiś ca), as well as auspicious horses and elephants (hayagajaiḥ śubhaiḥ),
+**27:** Echoing with the neighing of steeds (_vājihreṣitasaṃghuṣṭam_), resonant with the tinkling of ornaments (_nāditaṃ bhūṣaṇais tathā_), and graced with chariots, palanquins, and aerial cars (_rathair yānair vimānaiś ca_), as well as auspicious horses and elephants (_hayagajaiḥ śubhaiḥ_),
 
-**28:** And adorned with four-tusked elephants (vāraṇaiś ca caturdantaiḥ) resembling masses of white clouds (śvetābhranicayopamaiḥ), and with rutting beasts and birds (mattaiś ca mṛgapakṣibhiḥ), having beauteous gateways (ruciradvāram).
+**28:** And adorned with four-tusked elephants (_vāraṇaiś ca caturdantaiḥ_) resembling masses of white clouds (_śvetābhranicayopamaiḥ_), and with rutting beasts and birds (_mattaiś ca mṛgapakṣibhiḥ_), having beauteous gateways (_ruciradvāram_).
 </details>
 </details>
 
@@ -1233,7 +1233,7 @@ sprinkled daily with water containing superb algallocum and sandal-wood.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The monkey entered the secret palace of the lord of rākṣasas (rākṣasādhipater guptam gṛham), which was guarded by thousands of yātudhānas of immense prowess (rakṣitaṃ sumahāvīryair yātudhānaiḥ sahasraśaḥ).
+The monkey entered the secret palace of the lord of _rākṣasas_ (_rākṣasādhipater guptam gṛham_), which was guarded by thousands of _yātudhānas_ of immense prowess (_rakṣitaṃ sumahāvīryair yātudhānaiḥ sahasraśaḥ_).
 </details>
 </details>
 
@@ -1284,6 +1284,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He entered Rāvaṇa's inner palace (rāvaṇāntaḥpuram āviveśa), which had an encircling wall of gold and jāmbūnada (hemajāmbūnadacakravālam), whose interior was decked with priceless pearls and gems (mahārhamuktāmaṇibhūṣitāntam), and which was worthy of the finest black aguru and sandalwood (parārghyakālāgurucandanārham).
+He entered Rāvaṇa&#x27;s inner palace (_rāvaṇāntaḥpuram āviveśa_), which had an encircling wall of gold and _jāmbūnada_ (_hemajāmbūnadacakravālam_), whose interior was decked with priceless pearls and gems (_mahārhamuktāmaṇibhūṣitāntam_), and which was worthy of the finest black _aguru_ and sandalwood (_parārghyakālāgurucandanārham_).
 </details>
 </details>

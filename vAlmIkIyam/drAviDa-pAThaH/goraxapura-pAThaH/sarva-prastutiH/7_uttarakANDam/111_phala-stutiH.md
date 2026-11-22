@@ -50,7 +50,7 @@ Declaring complete the preeminent Rāmāyaṇa together with its Uttarakāṇḍ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Such is the full extent of this sacred narrative together with its Uttarakāṇḍa (etāvad etad ākhyānaṃ sottaram), honored by Brahmā (brahma-pūjitam), renowned as the preeminent Rāmāyaṇa (rāmāyaṇam iti khyātaṃ mukhyam), composed by Vālmīki (vālmīkīnā kṛtam).
+Such is the full extent of this sacred narrative together with its Uttarakāṇḍa (_etāvad etad ākhyānaṃ sottaram_), honored by Brahmā (_brahma-pūjitam_), renowned as the preeminent Rāmāyaṇa (_rāmāyaṇam iti khyātaṃ mukhyam_), composed by Vālmīki (_vālmīkīnā kṛtam_).
 </details>
 </details>
 
@@ -83,7 +83,7 @@ Such is the full extent of this sacred narrative together with its Uttarakāṇ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Viṣṇu, by whom this entire threefold universe of moving and unmoving beings is pervaded (yena vyāptam idaṃ sarvaṃ trailokyaṃ sa-carācaram), became established once more in the heavenly realm even as of old (pratiṣṭhito viṣṇuḥ svarga-loke yathā puram).
+Thereupon Viṣṇu, by whom this entire threefold universe of moving and unmoving beings is pervaded (_yena vyāptam idaṃ sarvaṃ trailokyaṃ sa-carācaram_), became established once more in the heavenly realm even as of old (_pratiṣṭhito viṣṇuḥ svarga-loke yathā puram_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ Thereupon Viṣṇu, by whom this entire threefold universe of moving and unmovi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereafter the gods together with the gandharvas, the siddhas, and the supreme sages (devāḥ sa-gandharvāḥ siddhāś ca paramarṣayaḥ) ever listen in glad contentment (nityaṃ śṛṇvanti santuṣṭāḥ) to the divine Rāmāyaṇa in heaven (divyaṃ rāmāyaṇaṃ divi).
+Thereafter the gods together with the gandharvas, the siddhas, and the supreme sages (_devāḥ sa-gandharvāḥ siddhāś ca paramarṣayaḥ_) ever listen in glad contentment (_nityaṃ śṛṇvanti santuṣṭāḥ_) to the divine Rāmāyaṇa in heaven (_divyaṃ rāmāyaṇaṃ divi_).
 </details>
 </details>
 
@@ -152,7 +152,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This narrative bestows long life, good fortune, and the destruction of sin (idam ākhyānam āyuṣyaṃ saubhāgyaṃ pāpa-nāśanam); a wise man should cause this Rāmāyaṇa, equal to the Veda (rāmāyaṇaṃ veda-samam), to be recited at ancestral śrāddha rites (śrāddheṣu śrāvayed budhaḥ).
+This narrative bestows long life, good fortune, and the destruction of sin (_idam ākhyānam āyuṣyaṃ saubhāgyaṃ pāpa-nāśanam_); a wise man should cause this Rāmāyaṇa, equal to the Veda (_rāmāyaṇaṃ veda-samam_), to be recited at ancestral śrāddha rites (_śrāddheṣu śrāvayed budhaḥ_).
 </details>
 </details>
 
@@ -185,7 +185,7 @@ This narrative bestows long life, good fortune, and the destruction of sin (idam
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-One without a son obtains a son, and one without wealth obtains wealth (aputro labhate putram adhano labhate dhanam); whoever recites even a single word of it (padam apy asya yaḥ paṭhet) is freed from all sins (sarva-pāpaiḥ pramucyeta).
+One without a son obtains a son, and one without wealth obtains wealth (_aputro labhate putram adhano labhate dhanam_); whoever recites even a single word of it (_padam apy asya yaḥ paṭhet_) is freed from all sins (_sarva-pāpaiḥ pramucyeta_).
 </details>
 </details>
 
@@ -218,7 +218,7 @@ One without a son obtains a son, and one without wealth obtains wealth (aputro l
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even a mortal who commits sins day after day (pāpāny api ca yaḥ kuryād ahany ahani mānavaḥ), if he recites but a single śloka (paṭhaty ekam api ślokam), is completely delivered from sin (pāpāt sa parimucyate).
+Even a mortal who commits sins day after day (_pāpāny api ca yaḥ kuryād ahany ahani mānavaḥ_), if he recites but a single śloka (_paṭhaty ekam api ślokam_), is completely delivered from sin (_pāpāt sa parimucyate_).
 </details>
 </details>
 
@@ -259,7 +259,7 @@ Honoring the reciter with garments, a cow, and gold pleases all the gods; the po
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-To the reciter one should present garments, a cow, and gold (vācakāya ca dātavyaṃ vastraṃ dhenuṃ hiraṇyakam); for when the reciter is well pleased, all the deities are pleased (vācake parituṣṭe tu tuṣṭāḥ syuḥ sarva-devatāḥ).
+To the reciter one should present garments, a cow, and gold (_vācakāya ca dātavyaṃ vastraṃ dhenuṃ hiraṇyakam_); for when the reciter is well pleased, all the deities are pleased (_vācake parituṣṭe tu tuṣṭāḥ syuḥ sarva-devatāḥ_).
 </details>
 </details>
 
@@ -292,7 +292,7 @@ To the reciter one should present garments, a cow, and gold (vācakāya ca dāta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A man who recites this life-giving narrative, the Rāmāyaṇa (etad ākhyānam āyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ), surrounded by sons and grandsons in this world (sa-putra-pautro loke ’smin), is honored both here and in the hereafter (pretya ceha mahīyate).
+A man who recites this life-giving narrative, the Rāmāyaṇa (_etad ākhyānam āyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ_), surrounded by sons and grandsons in this world (_sa-putra-pautro loke ’smin_), is honored both here and in the hereafter (_pretya ceha mahīyate_).
 </details>
 </details>
 
@@ -325,7 +325,7 @@ A man who recites this life-giving narrative, the Rāmāyaṇa (etad ākhyānam 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even the lovely city of Ayodhyā, after lying deserted for many cycles of years (śūnyā varṣa-gaṇān bahūn), shall upon obtaining King Ṛṣabha (ṛṣabhaṃ prāpya rājānam) once again become a thriving habitation (nivāsam upayāsyati).
+Even the lovely city of Ayodhyā, after lying deserted for many cycles of years (_śūnyā varṣa-gaṇān bahūn_), shall upon obtaining King Ṛṣabha (_ṛṣabhaṃ prāpya rājānam_) once again become a thriving habitation (_nivāsam upayāsyati_).
 </details>
 </details>
 
@@ -356,7 +356,7 @@ Even the lovely city of Ayodhyā, after lying deserted for many cycles of years 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-This life-giving narrative, together with its future events and its Uttarakāṇḍa (sabhaviṣyaṃ sahottaram), was composed by the son of Pracetas [Vālmīki] (kṛtavān pracetasaḥ putraḥ), and Brahmā himself gave it his sanction (tad brahmāpy anvamanyata).
+This life-giving narrative, together with its future events and its Uttarakāṇḍa (_sabhaviṣyaṃ sahottaram_), was composed by the son of Pracetas [Vālmīki] (_kṛtavān pracetasaḥ putraḥ_), and Brahmā himself gave it his sanction (_tad brahmāpy anvamanyata_).
 </details>
 </details>
 
@@ -387,7 +387,7 @@ This life-giving narrative, together with its future events and its Uttarakāṇ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The merit of a thousand Aśvamedha sacrifices and ten thousand Vājapeyas (aśvamedha-sahasrasya vājapeyāyutasya ca) a mortal obtains simply by causing a single sarga to be heard (labhate śrāvaṇād eva sargasyaikasya mānavaḥ).
+The merit of a thousand Aśvamedha sacrifices and ten thousand Vājapeyas (_aśvamedha-sahasrasya vājapeyāyutasya ca_) a mortal obtains simply by causing a single sarga to be heard (_labhate śrāvaṇād eva sargasyaikasya mānavaḥ_).
 </details>
 </details>
 
@@ -418,7 +418,7 @@ The merit of a thousand Aśvamedha sacrifices and ten thousand Vājapeyas (aśva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sacred fords beginning with Prayāga, holy rivers headed by the Gaṅgā (prayāgādīni tīrthāni gaṅgādyāḥ saritas tathā), sacred forests beginning with Naimiṣa, and holy fields headed by Kurukṣetra as well (naimiśādīny araṇyāni kurukṣetrādikāny api)—all these have been visited in this world by him who has heard the Rāmāyaṇa (gatāni tena loke ’smin yena rāmāyaṇaṃ śrutam).
+Sacred fords beginning with Prayāga, holy rivers headed by the Gaṅgā (_prayāgādīni tīrthāni gaṅgādyāḥ saritas tathā_), sacred forests beginning with Naimiṣa, and holy fields headed by Kurukṣetra as well (_naimiśādīny araṇyāni kurukṣetrādikāny api_)—all these have been visited in this world by him who has heard the Rāmāyaṇa (_gatāni tena loke ’smin yena rāmāyaṇaṃ śrutam_).
 </details>
 </details>
 
@@ -459,7 +459,7 @@ Hearing the Rāmāyaṇa matches gifting a weight of gold at Kurukṣetra during
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He who bestows a bhāra-weight of gold at Kurukṣetra during a solar eclipse (hema-bhāraṃ kurukṣetre graste bhānau prayacchati), and he who listens to the Rāmāyaṇa in this world (yaś ca rāmāyaṇaṃ loke śṛṇoti)—those two are equal (sadṛśāv ubhau).
+He who bestows a bhāra-weight of gold at Kurukṣetra during a solar eclipse (_hema-bhāraṃ kurukṣetre graste bhānau prayacchati_), and he who listens to the Rāmāyaṇa in this world (_yaś ca rāmāyaṇaṃ loke śṛṇoti_)—those two are equal (_sadṛśāv ubhau_).
 </details>
 </details>
 
@@ -490,7 +490,7 @@ He who bestows a bhāra-weight of gold at Kurukṣetra during a solar eclipse (h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He who, endowed with true and steadfast faith (samyak-chraddhā-samāyuktaḥ), listens to the sacred story of Rāghava (śṛṇute rāghavīṃ kathām), is delivered from every sin (sarva-pāpāt pramucyeta) and attains the realm of Viṣṇu (viṣṇu-lokaṃ sa gacchati).
+He who, endowed with true and steadfast faith (_samyak-chraddhā-samāyuktaḥ_), listens to the sacred story of Rāghava (_śṛṇute rāghavīṃ kathām_), is delivered from every sin (_sarva-pāpāt pramucyeta_) and attains the realm of Viṣṇu (_viṣṇu-lokaṃ sa gacchati_).
 </details>
 </details>
 
@@ -521,7 +521,7 @@ He who, endowed with true and steadfast faith (samyak-chraddhā-samāyuktaḥ), 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever listens ever with devotion (yaḥ śṛṇoti sadā bhaktyā) to this primordial sage-composed poem made of old by Vālmīki (ādikāvyam idaṃ tv ārṣaṃ purā vālmīkinā kṛtam) attains the Vaiṣṇava form (sa gacched vaiṣṇavīṃ tanum).
+Whoever listens ever with devotion (_yaḥ śṛṇoti sadā bhaktyā_) to this primordial sage-composed poem made of old by Vālmīki (_ādikāvyam idaṃ tv ārṣaṃ purā vālmīkinā kṛtam_) attains the Vaiṣṇava form (_sa gacched vaiṣṇavīṃ tanum_).
 </details>
 </details>
 
@@ -552,7 +552,7 @@ Whoever listens ever with devotion (yaḥ śṛṇoti sadā bhaktyā) to this pr
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His sons and wives prosper, as do his riches and his lineage (putra-dārāś ca vardhante sampadaḥ santatis tathā); knowing this to be the very truth, it should be heard by those of disciplined minds (satyam etad viditvā tu śrotavyaṃ niyatātmabhiḥ)—for that peerless Rāmāyaṇa is the very embodiment of the Gāyatrī (gāyatryāś ca svarūpaṃ tad rāmāyaṇam anuttamam).
+His sons and wives prosper, as do his riches and his lineage (_putra-dārāś ca vardhante sampadaḥ santatis tathā_); knowing this to be the very truth, it should be heard by those of disciplined minds (_satyam etad viditvā tu śrotavyaṃ niyatātmabhiḥ_)—for that peerless Rāmāyaṇa is the very embodiment of the Gāyatrī (_gāyatryāś ca svarūpaṃ tad rāmāyaṇam anuttamam_).
 </details>
 </details>
 
@@ -585,9 +585,9 @@ His sons and wives prosper, as do his riches and his lineage (putra-dārāś ca 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**17:** One without a son obtains a son, and one without wealth obtains wealth (aputro labhate putram adhano labhate dhanam); whoever recites even a single word of it (padam apy asya yaḥ paṭhet) is freed from all sins (sarva-pāpaiḥ pramucyeta).
+**17:** One without a son obtains a son, and one without wealth obtains wealth (_aputro labhate putram adhano labhate dhanam_); whoever recites even a single word of it (_padam apy asya yaḥ paṭhet_) is freed from all sins (_sarva-pāpaiḥ pramucyeta_).
 
-**18:** Whoever daily recites or hears the sacred life of Rāghava (yaḥ paṭhec chṛṇuyān nityaṃ caritaṃ rāghavasya ha), becoming spotless through devotion (bhaktyā niṣkalmaṣo bhūtvā), shall attain long life (dīrgham āyur avāpnuyāt).
+**18:** Whoever daily recites or hears the sacred life of Rāghava (_yaḥ paṭhec chṛṇuyān nityaṃ caritaṃ rāghavasya ha_), becoming spotless through devotion (_bhaktyā niṣkalmaṣo bhūtvā_), shall attain long life (_dīrgham āyur avāpnuyāt_).
 </details>
 </details>
 
@@ -626,7 +626,7 @@ Whoever meditates daily on Rāghava and recites his complete life attains Viṣ�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever desires to attain the highest good (śreyaḥ prāptuṃ ya icchati) should meditate upon Rāghava daily (cintayed rāghavaṃ nityam) and cause this narrative to be recited to brahmins day by day (śrāvayed idam ākhyānaṃ brāhmaṇebhyo dine dine).
+Whoever desires to attain the highest good (_śreyaḥ prāptuṃ ya icchati_) should meditate upon Rāghava daily (_cintayed rāghavaṃ nityam_) and cause this narrative to be recited to brahmins day by day (_śrāvayed idam ākhyānaṃ brāhmaṇebhyo dine dine_).
 </details>
 </details>
 
@@ -657,7 +657,7 @@ Whoever desires to attain the highest good (śreyaḥ prāptuṃ ya icchati) sho
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever recites this complete life of the Lord of the Raghus (yas tv idaṃ raghunāthasya caritaṃ sakalaṃ paṭhet), at the ebbing of his vital breaths (so ’su-kṣaye), goes without a doubt to the realm of Viṣṇu (viṣṇu-lokaṃ gacchaty eva na saṃśayaḥ).
+Whoever recites this complete life of the Lord of the Raghus (_yas tv idaṃ raghunāthasya caritaṃ sakalaṃ paṭhet_), at the ebbing of his vital breaths (_so ’su-kṣaye_), goes without a doubt to the realm of Viṣṇu (_viṣṇu-lokaṃ gacchaty eva na saṃśayaḥ_).
 </details>
 </details>
 
@@ -688,7 +688,7 @@ Whoever recites this complete life of the Lord of the Raghus (yas tv idaṃ ragh
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His father, his grandfather, and likewise his great-grandfather (pitā pitāmahas tasya tathaiva prapitāmahaḥ), together with his father and his father before him (tat-pitā tat-pitā caiva), all attain Viṣṇu without a doubt (viṣṇuṃ yānti na saṃśayaḥ).
+His father, his grandfather, and likewise his great-grandfather (_pitā pitāmahas tasya tathaiva prapitāmahaḥ_), together with his father and his father before him (_tat-pitā tat-pitā caiva_), all attain Viṣṇu without a doubt (_viṣṇuṃ yānti na saṃśayaḥ_).
 </details>
 </details>
 
@@ -714,7 +714,7 @@ His father, his grandfather, and likewise his great-grandfather (pitā pitāmaha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bestowing the fourfold aims of human life eternally (caturvarga-pradaṃ nityam) is the sacred life of Rāghava (caritaṃ rāghavasya tu); therefore it should ever be heard with earnest effort as the highest good (tasmād yatnavatā nityaṃ śrotavyaṃ paramaṃ sadā).
+Bestowing the fourfold aims of human life eternally (_caturvarga-pradaṃ nityam_) is the sacred life of Rāghava (_caritaṃ rāghavasya tu_); therefore it should ever be heard with earnest effort as the highest good (_tasmād yatnavatā nityaṃ śrotavyaṃ paramaṃ sadā_).
 </details>
 </details>
 
@@ -755,7 +755,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whoever listens with devotion to the Rāmāyaṇa—even a single quarter-verse or a single word (yaḥ pādaṃ padam eva vā)—attains the abode of Brahmā (sa yāti brahmaṇaḥ sthānam) and is honored forever by Brahmā (brahmaṇā pūjyate sadā).
+Whoever listens with devotion to the Rāmāyaṇa—even a single quarter-verse or a single word (_yaḥ pādaṃ padam eva vā_)—attains the abode of Brahmā (_sa yāti brahmaṇaḥ sthānam_) and is honored forever by Brahmā (_brahmaṇā pūjyate sadā_).
 </details>
 </details>
 
@@ -786,7 +786,7 @@ Whoever listens with devotion to the Rāmāyaṇa—even a single quarter-verse 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus stands this ancient sacred narrative (evam etat purāvṛttam ākhyānam)—may auspiciousness be yours (bhadram astu vaḥ)! Proclaim it aloud with unwavering trust; may the power of Viṣṇu ever increase (pravyāharata visrabdhaṃ balaṃ viṣṇoḥ pravardhatām)!
+Thus stands this ancient sacred narrative (_evam etat purāvṛttam ākhyānam_)—may auspiciousness be yours (_bhadram astu vaḥ_)! Proclaim it aloud with unwavering trust; may the power of Viṣṇu ever increase (_pravyāharata visrabdhaṃ balaṃ viṣṇoḥ pravardhatām_)!
 </details>
 </details>
 

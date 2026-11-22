@@ -70,7 +70,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pleased (prītaḥ), [Sugrīva] spoke once again to Rāghava, the delight of the Raghus: “O Rāma, this foremost of counselors (mantrisattamaḥ), my minister—
+Pleased (_prītaḥ_), [Sugrīva] spoke once again to Rāghava, the delight of the Raghus: “O Rāma, this foremost of counselors (_mantrisattamaḥ_), my minister—
 </details>
 </details>
 
@@ -155,11 +155,11 @@ for an opportunity, and his causing an agony in you by way of separating your wi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** “—Hanumān, declares to you [to me] the reason (yannimittam) for which you have come to the uninhabited forest, and how, while you were dwelling in the woods along with your brother Lakṣmaṇa,
+**2:** “—Hanumān, declares to you [to me] the reason (_yannimittam_) for which you have come to the uninhabited forest, and how, while you were dwelling in the woods along with your brother Lakṣmaṇa,
 
 **3:** “your wife Maithilī, the daughter of Janaka, was carried off by a Rākṣasa, separated from you and from wise Lakṣmaṇa while weeping,
 
-**4:** “and how, after slaying the vulture Jaṭāyus, by that Rākṣasa who was seeking an opportunity (antaraṃ prepsunā), you were made to suffer the grief born of separation from your wife (bhāryāviyogajaṃ duḥkham).
+**4:** “and how, after slaying the vulture Jaṭāyus, by that Rākṣasa who was seeking an opportunity (_antaraṃ prepsunā_), you were made to suffer the grief born of separation from your wife (_bhāryāviyogajaṃ duḥkham_).
 </details>
 </details>
 
@@ -223,7 +223,7 @@ being.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Before long (nacirāt), you shall be freed from the grief born of separation from your wife; I myself shall bring her back, like the lost Vedic revelation (naṣṭāṃ vedaśrutīm iva).
+“Before long (_nacirāt_), you shall be freed from the grief born of separation from your wife; I myself shall bring her back, like the lost Vedic revelation (_naṣṭāṃ vedaśrutīm iva_).
 </details>
 </details>
 
@@ -278,7 +278,7 @@ in netherworlds or even in empyrean worlds. [4-6-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whether she is abiding in the netherworld (rasātale) or abiding in the vault of the sky (nabhastale), I shall bring your wife and restore her to you, O tamer of foes (ariṃdama)!”
+“Whether she is abiding in the netherworld (_rasātale_) or abiding in the vault of the sky (_nabhastale_), I shall bring your wife and restore her to you, O tamer of foes (_ariṃdama_)!”
 </details>
 </details>
 
@@ -339,9 +339,9 @@ gods and demons. [4-6-7, 8a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** “And know this word of mine to be true (tathyam), O Rāghava: she cannot be digested [consumed or concealed] (na śakyā sā jarayitum) even by the gods and Asuras together with Indra,
+**7:** “And know this word of mine to be true (_tathyam_), O Rāghava: she cannot be digested [consumed or concealed] (_na śakyā sā jarayitum_) even by the gods and Asuras together with Indra,
 
-**8:** “your wife, O mighty-armed one, any more than food mixed with poison (bhakṣyaṃ viṣakṛtaṃ yathā)! Cast off your grief, O mighty-armed one; I shall bring that beloved back to you.
+**8:** “your wife, O mighty-armed one, any more than food mixed with poison (_bhakṣyaṃ viṣakṛtaṃ yathā_)! Cast off your grief, O mighty-armed one; I shall bring that beloved back to you.
 </details>
 </details>
 
@@ -399,9 +399,9 @@ lord... [4-6-8b, 9, 10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** “By inference (anumānāt), indeed, I know that she is Maithilī without a doubt: she was seen by me while being carried off by the Rākṣasa of dreadful deeds (raudrakarmaṇā),
+**9:** “By inference (_anumānāt_), indeed, I know that she is Maithilī without a doubt: she was seen by me while being carried off by the Rākṣasa of dreadful deeds (_raudrakarmaṇā_),
 
-**10:** “crying out piteously in a broken voice (visvaram), `O Rāma, Rāma!' and `O Lakṣmaṇa!', writhing on Rāvaṇa's flank like the mate of the lord of serpents (pannagendravadhūr yathā).
+**10:** “crying out piteously in a broken voice (_visvaram_), `O Rāma, Rāma!&#x27; and `O Lakṣmaṇa!&#x27;, writhing on Rāvaṇa&#x27;s flank like the mate of the lord of serpents (_pannagendravadhūr yathā_).
 </details>
 </details>
 
@@ -461,7 +461,7 @@ Lakshmi.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Seeing me standing on the mountain slope with myself as the fifth (ātmanā pañcamam) [alongside four counselors], she cast down her upper garment (uttarīyam) and her auspicious ornaments.
+“Seeing me standing on the mountain slope with myself as the fifth (_ātmanā pañcamam_) [alongside four counselors], she cast down her upper garment (_uttarīyam_) and her auspicious ornaments.
 </details>
 </details>
 
@@ -515,7 +515,7 @@ will be apt of you to identify them..." thus said Sugreeva to Rama. [4-6-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those were taken by us and safely stored away (nihitāni), O Rāghava; I shall bring them—you ought to recognize them (pratyabhijñātum arhasi).”
+“Those were taken by us and safely stored away (_nihitāni_), O Rāghava; I shall bring them—you ought to recognize them (_pratyabhijñātum arhasi_).”
 </details>
 </details>
 
@@ -575,7 +575,7 @@ for you are delaying." [4-6-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Rāma spoke to that kindly-speaking (priyavādinam) Sugrīva: “Bring [them] quickly, O friend (sakhe)! Why do you delay (kimarthaṃ pravilambase)?”
+Then Rāma spoke to that kindly-speaking (_priyavādinam_) Sugrīva: “Bring [them] quickly, O friend (_sakhe_)! Why do you delay (_kimarthaṃ pravilambase_)?”
 </details>
 </details>
 
@@ -648,9 +648,9 @@ On taking and bringing the parcel of that upper cloth with the auspicious jewell
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** Thus addressed, Sugrīva swiftly entered a deep cavern of the mountain (śailasya gahanāṃ guhām) out of a desire to do what was dear to Rāghava (rāghavapriyakāmyayā).
+**14:** Thus addressed, Sugrīva swiftly entered a deep cavern of the mountain (_śailasya gahanāṃ guhām_) out of a desire to do what was dear to Rāghava (_rāghavapriyakāmyayā_).
 
-**15:** Taking the upper garment (uttarīyam) and those ornaments, the Vānara showed them to Rāma, saying, “Behold this (idaṃ paśyeti)!”
+**15:** Taking the upper garment (_uttarīyam_) and those ornaments, the Vānara showed them to Rāma, saying, “Behold this (_idaṃ paśyeti_)!”
 </details>
 </details>
 
@@ -705,7 +705,7 @@ filled moon with overfilling tears. [4-6-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, upon taking the garment and the auspicious ornaments, [Rāma] became choked and obscured with tears (bāṣpasaṃruddhaḥ), like the moon veiled by mist (nīhāreṇeva candramāḥ).
+Then, upon taking the garment and the auspicious ornaments, [Rāma] became choked and obscured with tears (_bāṣpasaṃruddhaḥ_), like the moon veiled by mist (_nīhāreṇeva candramāḥ_).
 </details>
 </details>
 
@@ -757,7 +757,7 @@ leaving off his courage fell on the ground wailing, 'oh, dear... oh, dear...' [4
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overwhelmed (dūṣitaḥ) by tears welling up from his tender love for Sītā (sītāsnehapravṛttena), crying “Ah, my beloved (hā priyeti)!”, he cast aside his fortitude (dhairyam utsṛjya) and fell to the earth.
+Overwhelmed (_dūṣitaḥ_) by tears welling up from his tender love for Sītā (_sītāsnehapravṛttena_), crying “Ah, my beloved (_hā priyeti_)!”, he cast aside his fortitude (_dhairyam utsṛjya_) and fell to the earth.
 </details>
 </details>
 
@@ -817,7 +817,7 @@ hissed like a wrathful serpent in a snake pit. [4-6-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Pressing that exquisite ornament [bundle of ornaments] (tam alaṃkāram uttamam) repeatedly (bahuśaḥ) to his heart, he hissed violently (niśaśvāsa bhṛśam) like an enraged serpent in its hole (sarpo bilastha iva roṣitaḥ).
+Pressing that exquisite ornament [bundle of ornaments] (_tam alaṃkāram uttamam_) repeatedly (_bahuśaḥ_) to his heart, he hissed violently (_niśaśvāsa bhṛśam_) like an enraged serpent in its hole (_sarpo bilastha iva roṣitaḥ_).
 </details>
 </details>
 
@@ -872,7 +872,7 @@ piteously. [4-6-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With an unbroken stream of tears (avicchinnāśruvegaḥ), looking toward Saumitri at his side (pārśvataḥ), Rāma began to lament piteously (paridevayituṃ dīnam):
+With an unbroken stream of tears (_avicchinnāśruvegaḥ_), looking toward Saumitri at his side (_pārśvataḥ_), Rāma began to lament piteously (_paridevayituṃ dīnam_):
 </details>
 </details>
 
@@ -924,7 +924,7 @@ body and dropped onto the ground while she is being abducted. [4-6-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Behold, O Lakṣmaṇa, this upper garment (uttarīyam idam) and the ornaments cast down upon the ground from her body by Vaidehī while she was being carried off (hriyamāṇayā)!
+“Behold, O Lakṣmaṇa, this upper garment (_uttarīyam idam_) and the ornaments cast down upon the ground from her body by Vaidehī while she was being carried off (_hriyamāṇayā_)!
 </details>
 </details>
 
@@ -977,7 +977,7 @@ appear to be in their original shape, indeed." So said Rama to Lakshmana. [4-6-2
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Surely (dhruvam) this ornament was dropped by Sītā while being carried off over grassy ground (śādvalinyāṃ bhūmyām), for its form is seen to be just as it was (tathā rūpaṃ hi dṛśyate) [unbroken].”
+“Surely (_dhruvam_) this ornament was dropped by Sītā while being carried off over grassy ground (_śādvalinyāṃ bhūmyām_), for its form is seen to be just as it was (_tathā rūpaṃ hi dṛśyate_) [unbroken].”
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ one of his mother. The wife of an elder brother is just another mother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by Rāma, Lakṣmaṇa spoke these words: “I do not know the armlets (nāhaṃ jānāmi keyūre), nor do I know the earrings (nāhaṃ jānāmi kuṇḍale)—
+Thus addressed by Rāma, Lakṣmaṇa spoke these words: “I do not know the armlets (_nāhaṃ jānāmi keyūre_), nor do I know the earrings (_nāhaṃ jānāmi kuṇḍale_)—
 </details>
 </details>
 
@@ -1117,9 +1117,9 @@ ferocious looking demon abducted my dear one dearest than my lives, as spotted b
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**23:** “—but I do recognize the two anklets (nūpure tv abhijānāmi), through bowing daily at her feet (nityaṃ pādābhivandanāt).” Then Rāghava spoke these words to Sugrīva:
+**23:** “—but I do recognize the two anklets (_nūpure tv abhijānāmi_), through bowing daily at her feet (_nityaṃ pādābhivandanāt_).” Then Rāghava spoke these words to Sugrīva:
 
-**24:** “Tell me, O Sugrīva, toward what region (kaṃ deśam) was she seen by you being carried off (hriyantī), my beloved who is dearer to me than life (mama prāṇapriyā), abducted by the Rākṣasa of dreadful form?
+**24:** “Tell me, O Sugrīva, toward what region (_kaṃ deśam_) was she seen by you being carried off (_hriyantī_), my beloved who is dearer to me than life (_mama prāṇapriyā_), abducted by the Rākṣasa of dreadful form?
 </details>
 </details>
 
@@ -1171,7 +1171,7 @@ troublemaker of mine, where does he live, either... [4-6-25]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Or where does that Rākṣasa dwell who has inflicted this great calamity (mahad vyasanadam) upon me—on whose account (yannimittam) I shall destroy all Rākṣasas?
+“Or where does that Rākṣasa dwell who has inflicted this great calamity (_mahad vyasanadam_) upon me—on whose account (_yannimittam_) I shall destroy all Rākṣasas?
 </details>
 </details>
 
@@ -1223,7 +1223,7 @@ the doors of his death suicidally. [4-6-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By abducting Maithilī and provoking me to wrath, surely (dhruvam) he has flung open the door of death (mṛtyudvāram apāvṛtam) for the ending of his own life (ātmano jīvitāntāya)!
+“By abducting Maithilī and provoking me to wrath, surely (_dhruvam_) he has flung open the door of death (_mṛtyudvāram apāvṛtam_) for the ending of his own life (_ātmano jīvitāntāya_)!
 </details>
 </details>
 
@@ -1292,7 +1292,7 @@ lead him to the fore of Death today itself... [4-6-27]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By whichever night-stalker (rajanicareṇa) that most beloved of mine (mama dayitatamā) was forcibly (vimathya) carried off from the forest—declare to me that foe of mine, O lord of monkeys (plavagapate); this very day I shall dispatch him to the presence of Yama (yamasaṃnidhiṃ nayāmi)!”
+“By whichever night-stalker (_rajanicareṇa_) that most beloved of mine (_mama dayitatamā_) was forcibly (_vimathya_) carried off from the forest—declare to me that foe of mine, O lord of monkeys (_plavagapate_); this very day I shall dispatch him to the presence of Yama (_yamasaṃnidhiṃ nayāmi_)!”
 </details>
 </details>
 

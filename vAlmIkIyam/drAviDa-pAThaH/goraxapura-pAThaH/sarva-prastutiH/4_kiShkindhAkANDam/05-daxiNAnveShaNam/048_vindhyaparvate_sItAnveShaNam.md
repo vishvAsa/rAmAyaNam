@@ -85,7 +85,7 @@ province which Sugreeva has indicated, namely the south. [4-48-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together with Tāra and Aṅgada, the monkey Hanūmān straightway set out (pracakrame) to go to the region appointed (yathoddiṣṭam) by Sugrīva.
+Together with Tāra and Aṅgada, the monkey Hanūmān straightway set out (_pracakrame_) to go to the region appointed (_yathoddiṣṭam_) by Sugrīva.
 </details>
 </details>
 
@@ -176,11 +176,11 @@ noticed the princess of Mithila and the daughter of Janaka, namely Seetha. [4-48
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**2:** Having travelled a great distance (dūram upāgamya) with all those foremost of monkeys, he then searched the caverns and impenetrable thickets (guhāś ca gahanāni ca) of the Vindhya,
+**2:** Having travelled a great distance (_dūram upāgamya_) with all those foremost of monkeys, he then searched the caverns and impenetrable thickets (_guhāś ca gahanāni ca_) of the Vindhya,
 
-**3:** its mountain peaks and river-fastnesses (parvatāgra-nadī-durgān), lakes, giant trees, manifold tree-groves (vṛkṣa-ṣaṇḍān), border-hills, and forest trees.
+**3:** its mountain peaks and river-fastnesses (_parvatāgra-nadī-durgān_), lakes, giant trees, manifold tree-groves (_vṛkṣa-ṣaṇḍān_), border-hills, and forest trees.
 
-**4:** Searching on every side of that quarter (sarvato diśam), all those heroic monkeys did not behold Sītā, princess of Mithilā, Janaka's daughter.
+**4:** Searching on every side of that quarter (_sarvato diśam_), all those heroic monkeys did not behold Sītā, princess of Mithilā, Janaka&#x27;s daughter.
 </details>
 </details>
 
@@ -232,7 +232,7 @@ invulnerable vanara-s conducted their search. [4-48-5]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Subsisting upon roots and manifold fruits (mūlāni phalāni vividhāny api) as they searched, those unassailable heroes encamped here and there (tatra tatra ha).
+Subsisting upon roots and manifold fruits (_mūlāni phalāni vividhāny api_) as they searched, those unassailable heroes encamped here and there (_tatra tatra ha_).
 </details>
 </details>
 
@@ -285,7 +285,7 @@ water and still less of people, a void and an impenetrable one with a ghastly lo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Now that vast region, full of caverns and dense thickets (guhā-gahanavān), was hard to search (duranveṣaḥ)—waterless, uninhabited, desolate, impenetrable, and dreadful to behold (ghora-darśanam).
+Now that vast region, full of caverns and dense thickets (_guhā-gahanavān_), was hard to search (_duranveṣaḥ_)—waterless, uninhabited, desolate, impenetrable, and dreadful to behold (_ghora-darśanam_).
 </details>
 </details>
 
@@ -350,7 +350,7 @@ abstrusely caved and forested. [4-48-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having searched even such wildernesses (tādṛśāny apy araṇyāni), they were sorely afflicted [by hunger and thirst]; for that vast region, full of caverns and thickets, was hard to search.
+Having searched even such wildernesses (_tādṛśāny apy araṇyāni_), they were sorely afflicted [by hunger and thirst]; for that vast region, full of caverns and thickets, was hard to search.
 </details>
 </details>
 
@@ -405,7 +405,7 @@ impermeable province as they are fearless from any quarter. [4-48-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Leaving that region behind, all those monkey troop-leaders, knowing no fear from any quarter (akutobhayāḥ), entered another unassailable region (deśam anyaṃ durādharṣam),
+Leaving that region behind, all those monkey troop-leaders, knowing no fear from any quarter (_akutobhayāḥ_), entered another unassailable region (_deśam anyaṃ durādharṣam_),
 </details>
 </details>
 
@@ -456,7 +456,7 @@ there they entered. [4-48-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-where the trees were barren of fruit (vandhya-phalāḥ), flowerless, and stripped of leaves; where the rivers were waterless (nistoyāḥ saritaḥ), and where even a root was hard to find;
+where the trees were barren of fruit (_vandhya-phalāḥ_), flowerless, and stripped of leaves; where the rivers were waterless (_nistoyāḥ saritaḥ_), and where even a root was hard to find;
 </details>
 </details>
 
@@ -510,7 +510,7 @@ province. [4-48-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-where there were neither buffaloes, nor deer, nor elephants, nor tigers, nor birds, nor any other creatures that roam the woods (vana-gocarāḥ);
+where there were neither buffaloes, nor deer, nor elephants, nor tigers, nor birds, nor any other creatures that roam the woods (_vana-gocarāḥ_);
 </details>
 </details>
 
@@ -571,7 +571,7 @@ are not richly fragranced, in such a province those vanara-s have entered. [4-48
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-nor were there trees, herbs, twining creepers (vallyaḥ), or spreading shrubs (vīrudhaḥ); where upon dry land (sthale) stood lotus-plants with glossy leaves and full-blown blossoms (phulla-paṅkajāḥ),
+nor were there trees, herbs, twining creepers (_vallyaḥ_), or spreading shrubs (_vīrudhaḥ_); where upon dry land (_sthale_) stood lotus-plants with glossy leaves and full-blown blossoms (_phulla-paṅkajāḥ_),
 </details>
 </details>
 
@@ -628,7 +628,7 @@ by virtue of his own self-discipline. [4-48-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-fair to behold and fragrant, yet altogether shunned by bees (bhramaraiś ca vivarjitāḥ). [For there formerly dwelt] an illustrious, truth-speaking ascetic rich in penance, named Kaṇḍu,
+fair to behold and fragrant, yet altogether shunned by bees (_bhramaraiś ca vivarjitāḥ_). [For there formerly dwelt] an illustrious, truth-speaking ascetic rich in penance, named Kaṇḍu,
 </details>
 </details>
 
@@ -688,7 +688,7 @@ there by which that great sage is infuriated. [4-48-13b, 14a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-a great seer of supreme wrath (paramāmarṣī), unassailable through his ascetic observances (niyamair duṣpradharṣaṇaḥ). In that forest his son, a boy of ten years (bālako daśa-vārṣikaḥ),
+a great seer of supreme wrath (_paramāmarṣī_), unassailable through his ascetic observances (_niyamair duṣpradharṣaṇaḥ_). In that forest his son, a boy of ten years (_bālako daśa-vārṣikaḥ_),
 </details>
 </details>
 
@@ -741,7 +741,7 @@ uninhabitable and impermeable forest abandoned by birds and animals. [4-48-14b, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-was lost and met his life's end (praṇaṣṭo jīvitāntāya); enraged thereby, that great sage of righteous soul cursed the entire great forest there (śaptaṃ kṛtsnaṃ mahad vanam)
+was lost and met his life&#x27;s end (_praṇaṣṭo jīvitāntāya_); enraged thereby, that great sage of righteous soul cursed the entire great forest there (_śaptaṃ kṛtsnaṃ mahad vanam_)
 </details>
 </details>
 
@@ -816,9 +816,9 @@ fearsome forest. [4-48-16b, 17a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** to be shelterless (aśaraṇyam), unapproachable, and bereft of beasts and birds (mṛga-pakṣi-vivarjitam). There those monkeys searched its forest borders and the caverns of the mountains,
+**15:** to be shelterless (_aśaraṇyam_), unapproachable, and bereft of beasts and birds (_mṛga-pakṣi-vivarjitam_). There those monkeys searched its forest borders and the caverns of the mountains,
 
-**16:** and the sources of the rivers (prabhavāṇi nadīnāṃ ca) with concentrated minds (samāhitāḥ); yet even there those high-souled heroes did not behold Janaka's daughter,
+**16:** and the sources of the rivers (_prabhavāṇi nadīnāṃ ca_) with concentrated minds (_samāhitāḥ_); yet even there those high-souled heroes did not behold Janaka&#x27;s daughter,
 </details>
 </details>
 
@@ -873,7 +873,7 @@ shrubberies they saw a demon of fiendish deeds who is fearless of gods. [4-48-17
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-nor her abductor Rāvaṇa, though eager to do what was dear to Sugrīva (sugrīva-priya-kāriṇaḥ). Entering then another dreadful forest overspread with creepers and thickets (latā-gulma-samāvṛtam),
+nor her abductor Rāvaṇa, though eager to do what was dear to Sugrīva (_sugrīva-priya-kāriṇaḥ_). Entering then another dreadful forest overspread with creepers and thickets (_latā-gulma-samāvṛtam_),
 </details>
 </details>
 
@@ -927,7 +927,7 @@ those vanara-s have tightly girthed their wrestler's girdle-cloth. [4-48-18b, 19
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-they beheld an Asura of terrible deeds, fearless of the gods (sura-nirbhayam); beholding that dreadful Asura standing like a mountain (sthitaṃ śailam iva), the monkeys—
+they beheld an Asura of terrible deeds, fearless of the gods (_sura-nirbhayam_); beholding that dreadful Asura standing like a mountain (_sthitaṃ śailam iva_), the monkeys—
 </details>
 </details>
 
@@ -988,7 +988,7 @@ towards them shoving up his clenched fist. [4-48-19b, 20a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—all tightly girded up their loins (gāḍhaṃ parihitāḥ) at the sight of him who resembled a mountain. And that mighty demon too said to all those monkeys: “You are dead (naṣṭāḥ stha)!”
+—all tightly girded up their loins (_gāḍhaṃ parihitāḥ_) at the sight of him who resembled a mountain. And that mighty demon too said to all those monkeys: “You are dead (_naṣṭāḥ stha_)!”
 </details>
 </details>
 
@@ -1040,7 +1040,7 @@ Angada, the son of Vali, then presumed him who is onrushing as Ravana and saying
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with wrath, he rushed at them, raising his clenched fist (muṣṭim udyamya saṃgatam); as he charged headlong, Vālī's son Aṅgada at that moment,
+Filled with wrath, he rushed at them, raising his clenched fist (_muṣṭim udyamya saṃgatam_); as he charged headlong, Vālī&#x27;s son Aṅgada at that moment,
 </details>
 </details>
 
@@ -1119,9 +1119,9 @@ presuming that cave belonged to Ravana. [4-48-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** supposing “This is Rāvaṇa (rāvaṇo 'yam iti jñātvā)!”, struck him with the palm of his hand (talenābhijaghāna ha). Struck by Vālī's son and vomiting blood from his mouth,
+**21:** supposing “This is Rāvaṇa (_rāvaṇo &#x27;yam iti jñātvā_)!”, struck him with the palm of his hand (_talenābhijaghāna ha_). Struck by Vālī&#x27;s son and vomiting blood from his mouth,
 
-**22:** the Asura fell to the ground like an overturned mountain (paryasta iva parvataḥ). When he lay breathless (tasmin nirucchvāse), those monkeys, radiant with victory (jita-kāśinaḥ),
+**22:** the Asura fell to the ground like an overturned mountain (_paryasta iva parvataḥ_). When he lay breathless (_tasmin nirucchvāse_), those monkeys, radiant with victory (_jita-kāśinaḥ_),
 </details>
 </details>
 
@@ -1173,7 +1173,7 @@ entered another horrible cave which is nearby. [4-48-23b, 24a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-thoroughly searched almost the whole of that mountain cavern (giri-gahvaram); and when all had been searched there, all those forest-dwellers
+thoroughly searched almost the whole of that mountain cavern (_giri-gahvaram_); and when all had been searched there, all those forest-dwellers
 </details>
 </details>
 
@@ -1231,7 +1231,7 @@ in searching Seetha. [4-48-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-entered yet another dreadful mountain cavern nearby (anyad evāparaṃ ghoram). Having searched again, exhausted (khinnāḥ), they came forth, gathered together, and sat down in a secluded spot at the foot of a tree with dejected minds (dīna-mānasāḥ).
+entered yet another dreadful mountain cavern nearby (_anyad evāparaṃ ghoram_). Having searched again, exhausted (_khinnāḥ_), they came forth, gathered together, and sat down in a secluded spot at the foot of a tree with dejected minds (_dīna-mānasāḥ_).
 </details>
 </details>
 

@@ -97,7 +97,7 @@ and meaningfully. [1-4-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Rāma had attained the sovereignty of his kingdom (prāptarājyasya rāmasya), the venerable sage Vālmīki composed his entire history in wondrous diction fraught with deep import (vicitrapadam arthavat).
+When Rāma had attained the sovereignty of his kingdom (_prāptarājyasya rāmasya_), the venerable sage Vālmīki composed his entire history in wondrous diction fraught with deep import (_vicitrapadam arthavat_).
 </details>
 </details>
 
@@ -197,7 +197,7 @@ salvation.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Twenty-four thousand ślokas (caturviṃśatsahasrāṇi ślokānām) the sageuttered, arranged in five hundred sargas (sargaśatān pañca) and six kāṇḍas, together with the concluding Uttara book (ṣaṭkāṇḍāni tathottaram).
+Twenty-four thousand _ślokas_ (_caturviṃśatsahasrāṇi ślokānām_) the sageuttered, arranged in five hundred _sargas_ (_sargaśatān pañca_) and six _kāṇḍas_, together with the concluding _Uttara_ book (_ṣaṭkāṇḍāni tathottaram_).
 </details>
 </details>
 
@@ -261,7 +261,7 @@ thought over thus 'really, who will render all this ballad...' [1-4-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having composed that work of supreme wisdom together with its future events and its concluding book (sabhaviṣyaṃ sahottaram), the mighty sage reflected: “Who indeed is capable of performing and proclaiming this poem abroad (ko nv etat prayuñjīyād iti)?”
+Having composed that work of supreme wisdom together with its future events and its concluding book (_sabhaviṣyaṃ sahottaram_), the mighty sage reflected: “Who indeed is capable of performing and proclaiming this poem abroad (_ko nv etat prayuñjīyād iti_)?”
 </details>
 </details>
 
@@ -310,7 +310,7 @@ soul Valmiki, who is now thoughtful. [1-4-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as that great seer of purified soul was thus reflecting, Kuśa and Lava (kuśīlavau), clad in the garb of ascetics (muniveṣau), approached and reverently clasped his feet.
+Even as that great seer of purified soul was thus reflecting, Kuśa and Lava (_kuśīlavau_), clad in the garb of ascetics (_muniveṣau_), approached and reverently clasped his feet.
 </details>
 </details>
 
@@ -417,11 +417,11 @@ Ramayana. *poulasthyavadha* . Giving one to many names to poem/epics is usual as
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** The sage beheld those two brothers, Kuśa and Lava—knowers of dharma, illustrious royal princes (rājaputrau yaśasvinau), endowed with melodious voices (svarasampannau), and dwelling in his own hermitage.
+**5:** The sage beheld those two brothers, Kuśa and Lava—knowers of _dharma_, illustrious royal princes (_rājaputrau yaśasvinau_), endowed with melodious voices (_svarasampannau_), and dwelling in his own hermitage.
 
-**6:** Seeing that the two youths were gifted with retentive intellect (medhāvinau) and thoroughly grounded in the Vedas (vedeṣu pariniṣṭhitau), the lordly sage taught them the poem for the amplification and elucidation of the Vedas (vedopabṛṃhaṇārthāya).
+**6:** Seeing that the two youths were gifted with retentive intellect (_medhāvinau_) and thoroughly grounded in the Vedas (_vedeṣu pariniṣṭhitau_), the lordly sage taught them the poem for the amplification and elucidation of the Vedas (_vedopabṛṃhaṇārthāya_).
 
-**7:** The sage of accomplished vows composed the entire poem Rāmāyaṇa—known also as “The Great History of Sītā” (sītāyāś caritaṃ mahat) and “The Slaying of Paulastya (Rāvaṇa)” (paulastyavadham ity evam).
+**7:** The sage of accomplished vows composed the entire poem _Rāmāyaṇa_—known also as _“The Great History of Sītā”_ (_sītāyāś caritaṃ mahat_) and _“The Slaying of Paulastya (Rāvaṇa)”_ (_paulastyavadham ity evam_).
 </details>
 </details>
 
@@ -534,9 +534,9 @@ leaping ocean, burning Lanka, and the entire Rama-Ravana war are amazing
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** Sweet both in spoken recitation and in musical song (pāṭhye geye ca madhuram), measured in the three tempos (pramāṇais tribhir anvitam), set to the seven primary melodic modes (jātibhiḥ saptabhir yuktam), and harmonized with the strings of the vīṇā and rhythmic beat (tantrīlayasamanvitam)—
+**8:** Sweet both in spoken recitation and in musical song (_pāṭhye geye ca madhuram_), measured in the three tempos (_pramāṇais tribhir anvitam_), set to the seven primary melodic modes (_jātibhiḥ saptabhir yuktam_), and harmonized with the strings of the _vīṇā_ and rhythmic beat (_tantrīlayasamanvitam_)—
 
-**9:** This poem, replete with the aesthetic sentiments of love (śṛṅgāra), pathos (karuṇa), mirth (hāsya), fury (raudra), terror (bhayānaka), heroism (vīra), and the rest (vīrādibhī rasair yuktam), the two brothers sang.
+**9:** This poem, replete with the aesthetic sentiments of love (_śṛṅgāra_), pathos (_karuṇa_), mirth (_hāsya_), fury (_raudra_), terror (_bhayānaka_), heroism (_vīra_), and the rest (_vīrādibhī rasair yuktam_), the two brothers sang.
 </details>
 </details>
 
@@ -613,7 +613,7 @@ of performing arts. Hence, Indian musical art is termed as *gaandhava-vidyaa*.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those two brothers, conversant with the subtle essence of the science of music (gāndharvatattvajñau), skilled in the three vocal registers and melodic modulations (sthānamūrcchanakovidau), and endowed with exquisite voices, shone like two celestial Gandharvas incarnate in bodily form (gandharvāv iva rūpiṇau).
+Those two brothers, conversant with the subtle essence of the science of music (_gāndharvatattvajñau_), skilled in the three vocal registers and melodic modulations (_sthānamūrcchanakovidau_), and endowed with exquisite voices, shone like two celestial Gandharvas incarnate in bodily form (_gandharvāv iva rūpiṇau_).
 </details>
 </details>
 
@@ -672,7 +672,7 @@ syndrome.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Endowed with auspicious bodily marks and beauty (rūpalakṣaṇasampannau) and speaking in dulcet tones, they appeared like two living reflections (bimbau) sprung forth from the original image of Rāma’s own body (bimbād ivotthitau... rāmadehāt tathāparau).
+Endowed with auspicious bodily marks and beauty (_rūpalakṣaṇasampannau_) and speaking in dulcet tones, they appeared like two living reflections (_bimbau_) sprung forth from the original image of Rāma’s own body (_bimbād ivotthitau... rāmadehāt tathāparau_).
 </details>
 </details>
 
@@ -764,9 +764,9 @@ of sages, scholars and also of eminent persons, with their best concentration [1
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** Those two blameless royal princes, having committed that entire supreme and righteous narrative to faultless memory and speech (vācovidheyaṃ tat sarvaṃ kṛtvā) in its entirety (kārtsnyena)—
+**12:** Those two blameless royal princes, having committed that entire supreme and righteous narrative to faultless memory and speech (_vācovidheyaṃ tat sarvaṃ kṛtvā_) in its entirety (_kārtsnyena_)—
 
-**13:** —sang it with serene concentration (susamāhitau) exactly as instructed by their preceptor (yathopadeśam), knowing its innermost truth (tattvajñau), in the assembly of seers, twice-born brāhmaṇas, and righteous saints (sādhūnāṃ ca samāgame).
+**13:** —sang it with serene concentration (_susamāhitau_) exactly as instructed by their preceptor (_yathopadeśam_), knowing its innermost truth (_tattvajñau_), in the assembly of seers, twice-born brāhmaṇas, and righteous saints (_sādhūnāṃ ca samāgame_).
 </details>
 </details>
 
@@ -856,11 +856,11 @@ Kusha and Lava, while they are singing. [1-4-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** One day, those two great-souled, supremely fortunate youths, bearing all auspicious royal marks (sarvalakṣaṇalakṣitau), in the presence of the assembled sages of purified mind—
+**14:** One day, those two great-souled, supremely fortunate youths, bearing all auspicious royal marks (_sarvalakṣaṇalakṣitau_), in the presence of the assembled sages of purified mind—
 
-**15:** —standing close by in the midst of the assembly (madhye sabhaṃ samīpasthau), sang this sacred poem. Hearing it, all the sages had their eyes brimming with tears of rapture (bāṣpaparyākulekṣaṇāḥ).
+**15:** —standing close by in the midst of the assembly (_madhye sabhaṃ samīpasthau_), sang this sacred poem. Hearing it, all the sages had their eyes brimming with tears of rapture (_bāṣpaparyākulekṣaṇāḥ_).
 
-**16:** Transported with supreme wonder (paraṃ vismayam āgatāḥ), they exclaimed to the two youths, “Bravo! Bravo!” (sādhu sādhv iti). All those sages, devoted to dharma and gladdened at heart—
+**16:** Transported with supreme wonder (_paraṃ vismayam āgatāḥ_), they exclaimed to the two youths, “Bravo! Bravo!” (_sādhu sādhv iti_). All those sages, devoted to _dharma_ and gladdened at heart—
 </details>
 </details>
 
@@ -915,7 +915,7 @@ happened long-ago it is shown like the one happening presently... [1-4-17]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—praised the praiseworthy Kuśa and Lava as they sang: “Ah, the sweetness of the music, and above all the sweetness of the ślokas (aho gītasya mādhuryaṃ ślokānāṃ ca viśeṣataḥ)!
+—praised the praiseworthy Kuśa and Lava as they sang: “Ah, the sweetness of the music, and above all the sweetness of the _ślokas_ (_aho gītasya mādhuryaṃ ślokānāṃ ca viśeṣataḥ_)!
 </details>
 </details>
 
@@ -963,7 +963,7 @@ and rapturously, marinating the pitch and tune..." So said the saints. [1-4-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Though these events transpired long ago (ciranirvṛttam apy etat), they have been made to appear as though directly before our eyes (pratyakṣam iva darśitam)!” Entering deeply into the emotional mood (praviśya... tathābhāvam), the two youths sang with consummate artistry.
+“Though these events transpired long ago (_ciranirvṛttam apy etat_), they have been made to appear as though directly before our eyes (_pratyakṣam iva darśitam_)!” Entering deeply into the emotional mood (_praviśya... tathābhāvam_), the two youths sang with consummate artistry.
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ sang very effectually and very meaningfully. [1-4-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Together in perfect unison (sahitau), they sang sweetly, impassionedly (raktam), and with consummate fullness of musical tone (sampannaṃ svarasampadā); and, thus praised by those great seers glorious in their austerities (tapaḥślāghyair maharṣibhiḥ)—
+Together in perfect unison (_sahitau_), they sang sweetly, impassionedly (_raktam_), and with consummate fullness of musical tone (_sampannaṃ svarasampadā_); and, thus praised by those great seers glorious in their austerities (_tapaḥślāghyair maharṣibhiḥ_)—
 </details>
 </details>
 
@@ -1073,9 +1073,9 @@ sage, lauding them contributed a jute robe. [1-4-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** —the two youths sang with even deeper passion and surpassing sweetness (saṃraktataram atyarthaṃ madhuram). Delighted, one sage rose up in the assembly (saṃsthitaḥ) and presented them with an earthenware water-pitcher (kalaśam);
+**20:** —the two youths sang with even deeper passion and surpassing sweetness (_saṃraktataram atyarthaṃ madhuram_). Delighted, one sage rose up in the assembly (_saṃsthitaḥ_) and presented them with an earthenware water-pitcher (_kalaśam_);
 
-**21:** Another sage of great renown, pleased at heart, gave them a garment of bark-cloth (valkalam); another presented a black-antelope skin (kṛṣṇājinam), and yet another a sacred sacrificial thread (yajñasūtram).
+**21:** Another sage of great renown, pleased at heart, gave them a garment of bark-cloth (_valkalam_); another presented a black-antelope skin (_kṛṣṇājinam_), and yet another a sacred sacrificial thread (_yajñasūtram_).
 </details>
 </details>
 
@@ -1115,9 +1115,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** One great sage bestowed an ascetic water-gourd (kamaṇḍalum), another a girdle of muñja grass (mauñjīm); another then gave a cushion of plaited kuśa grass (bṛsīm), and another sage a loin-cloth (kaupīnam).
+**22:** One great sage bestowed an ascetic water-gourd (_kamaṇḍalum_), another a girdle of _muñja_ grass (_mauñjīm_); another then gave a cushion of plaited _kuśa_ grass (_bṛsīm_), and another sage a loin-cloth (_kaupīnam_).
 
-**23:** Rejoicing, another sage then gave the two boys an axe for gathering sacrificial fuel (kuṭhāram); another gave an ochre-dyed robe (kāṣāyaṃ vastram), and yet another sage a strip of bark-fabric (cīram).
+**23:** Rejoicing, another sage then gave the two boys an axe for gathering sacrificial fuel (_kuṭhāram_); another gave an ochre-dyed robe (_kāṣāyaṃ vastram_), and yet another sage a strip of bark-fabric (_cīram_).
 </details>
 </details>
 
@@ -1223,9 +1223,9 @@ there by all the truth-avowing saints, those that are great sages have thus best
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**24:** Another sage joyfully gave a fillet for binding matted locks (jaṭābandhanam) and a cord for tying fuel-wood (kāṣṭharajjum); one seer presented a sacrificial vessel (yajñabhāṇḍam), and another a bundle of sacred firewood (kāṣṭhabhāram).
+**24:** Another sage joyfully gave a fillet for binding matted locks (_jaṭābandhanam_) and a cord for tying fuel-wood (_kāṣṭharajjum_); one seer presented a sacrificial vessel (_yajñabhāṇḍam_), and another a bundle of sacred firewood (_kāṣṭhabhāram_).
 
-**25:** Another presented an ascetic seat wrought of udumbara fig-wood (audumbarīṃ bṛsīm); some pronounced “Blessings be upon you!” (svasti), while other great seers there joyfully exclaimed, “May you enjoy long life!” (āyuṣyam).
+**25:** Another presented an ascetic seat wrought of _udumbara_ fig-wood (_audumbarīṃ bṛsīm_); some pronounced “Blessings be upon you!” (_svasti_), while other great seers there joyfully exclaimed, “May you enjoy long life!” (_āyuṣyam_).
 </details>
 </details>
 
@@ -1270,7 +1270,7 @@ poets... and this is completed sequentially, as well... [1-4-26]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus did all those truth-speaking sages bestow boons upon the two boys, declaring: “Wondrous is this historical narrative (āścaryam idam ākhyānam) proclaimed by the sage Vālmīki!
+Thus did all those truth-speaking sages bestow boons upon the two boys, declaring: “Wondrous is this historical narrative (_āścaryam idam ākhyānam_) proclaimed by the sage Vālmīki!
 </details>
 </details>
 
@@ -1301,7 +1301,7 @@ Thus did all those truth-speaking sages bestow boons upon the two boys, declarin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is the supreme foundation and model for all poets (paraṃ kavīnām ādhāram), and has been brought to full completion in due order (samāptaṃ ca yathākramam). O you who are skilled in every form of song, you have sung this poem to perfection (abhigītam idaṃ gītam)—
+“It is the supreme foundation and model for all poets (_paraṃ kavīnām ādhāram_), and has been brought to full completion in due order (_samāptaṃ ca yathākramam_). O you who are skilled in every form of song, you have sung this poem to perfection (_abhigītam idaṃ gītam_)—
 </details>
 </details>
 
@@ -1461,15 +1461,15 @@ for it contains versatile words and meanings...' and thus he motivated the singe
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**28:** “—a song that confers longevity (āyuṣyam), promotes prosperity and vigor (puṣṭijananam), and captivates the ears and hearts of all (sarvaśrutimanoharam)!” Being thus praised everywhere, on a certain occasion there in Ayodhyā the two singers—
+**28:** “—a song that confers longevity (_āyuṣyam_), promotes prosperity and vigor (_puṣṭijananam_), and captivates the ears and hearts of all (_sarvaśrutimanoharam_)!” Being thus praised everywhere, on a certain occasion there in Ayodhyā the two singers—
 
-**29:** —were seen upon the streets and royal highways (rathyāsu rājamārgeṣu) by Bharata’s elder brother (Rāma). Bringing those two brothers, Kuśa and Lava, into his own palace (svaveśma cānīya)—
+**29:** —were seen upon the streets and royal highways (_rathyāsu rājamārgeṣu_) by Bharata’s elder brother (Rāma). Bringing those two brothers, Kuśa and Lava, into his own palace (_svaveśma cānīya_)—
 
-**30:** —Rāma, the destroyer of foes, duly honored the two youths who were worthy of all honor (pūjayāmāsa pūjārhau). And seated upon his celestial golden lion-throne (āsīnaḥ kāñcane divye... siṃhāsane), the Sovereign Lord—
+**30:** —Rāma, the destroyer of foes, duly honored the two youths who were worthy of all honor (_pūjayāmāsa pūjārhau_). And seated upon his celestial golden lion-throne (_āsīnaḥ kāñcane divye... siṃhāsane_), the Sovereign Lord—
 
-**31:** —attended by his ministers seated near at hand (upopaviṣṭaiḥ sacivaiḥ) and by his brothers, gazed upon those two modest brothers endowed with consummate beauty (rūpasampannau vinītau bhrātarāv ubhau)—
+**31:** —attended by his ministers seated near at hand (_upopaviṣṭaiḥ sacivaiḥ_) and by his brothers, gazed upon those two modest brothers endowed with consummate beauty (_rūpasampannau vinītau bhrātarāv ubhau_)—
 
-**32:** —and Rāma spoke to Lakṣmaṇa, Śatrughna, and Bharata: “Let this narrative be heard (śrūyatām etad ākhyānam) from these two youths of godlike radiance (anayor devavarcasoḥ),—
+**32:** —and Rāma spoke to Lakṣmaṇa, Śatrughna, and Bharata: “Let this narrative be heard (_śrūyatām etad ākhyānam_) from these two youths of godlike radiance (_anayor devavarcasoḥ_),—
 </details>
 </details>
 
@@ -1555,9 +1555,9 @@ is for all ears, bearing a comfort in its manifestation, among the gathering of 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** —a narrative of wondrous meaning and diction (vicitrārthapadam)!” And he gently urged the two singers to begin. Thereupon, those two sang with sweet, impassioned, and sustained vocal resonance agreeable to the heart (svacittāyataniḥsvanam)—
+**33:** —a narrative of wondrous meaning and diction (_vicitrārthapadam_)!” And he gently urged the two singers to begin. Thereupon, those two sang with sweet, impassioned, and sustained vocal resonance agreeable to the heart (_svacittāyataniḥsvanam_)—
 
-**34:** —blending seamlessly with the rhythm of the strings (tantrīlayavat) and making the lofty meaning crystal clear (viśrutārtham). Gladdening all limbs, minds, and innermost hearts (hlādayat sarvagātrāṇi manāṃsi hṛdayāni ca), and delightful to the ear (śrotrāśrayasukham), that song shone forth in the assembly of the people.
+**34:** —blending seamlessly with the rhythm of the strings (_tantrīlayavat_) and making the lofty meaning crystal clear (_viśrutārtham_). Gladdening all limbs, minds, and innermost hearts (_hlādayat sarvagātrāṇi manāṃsi hṛdayāni ca_), and delightful to the ear (_śrotrāśrayasukham_), that song shone forth in the assembly of the people.
 </details>
 </details>
 
@@ -1617,7 +1617,7 @@ he is asking all of us to listen to *siitaayaH caritam mahat* ...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“These two young ascetics (imau munī), though singers (kuśīlavau) and great tapasvins, are endowed with the marks of royal sovereigns (pārthivalakṣaṇānvitau); they proclaim a history of mighty spiritual power (mahānubhāvaṃ caritam) that is auspicious and sustaining even to me (mamāpi tad bhūtikaram)—listen to it attentively (nibodhata)!”
+“These two young ascetics (_imau munī_), though singers (_kuśīlavau_) and great tapasvins, are endowed with the marks of royal sovereigns (_pārthivalakṣaṇānvitau_); they proclaim a history of mighty spiritual power (_mahānubhāvaṃ caritam_) that is auspicious and sustaining even to me (_mamāpi tad bhūtikaram_)—listen to it attentively (_nibodhata_)!”
 </details>
 </details>
 
@@ -1697,6 +1697,6 @@ listening Seetha's story...] [1-4-36]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, inspired by Rāma’s words, the two youths sang with the full perfection of the classical Mārga musical tradition (mārgavidhānasampadā); and Rāma himself, stepping gently down into the midst of the assembly (pariṣadgataḥ śanaiḥ), became wholly absorbed in heart, longing to experience the song (bubhūṣayāsaktamanā babhūva ha).
+Then, inspired by Rāma’s words, the two youths sang with the full perfection of the classical _Mārga_ musical tradition (_mārgavidhānasampadā_); and Rāma himself, stepping gently down into the midst of the assembly (_pariṣadgataḥ śanaiḥ_), became wholly absorbed in heart, longing to experience the song (_bubhūṣayāsaktamanā babhūva ha_).
 </details>
 </details>

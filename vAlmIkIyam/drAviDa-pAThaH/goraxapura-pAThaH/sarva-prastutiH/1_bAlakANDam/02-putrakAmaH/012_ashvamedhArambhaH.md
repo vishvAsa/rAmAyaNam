@@ -133,7 +133,7 @@ to maintaining his family line. [1-12-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon, bowing his head in reverence to that twice-born sage of celestial effulgence (taṃ vipraṃ devavarṇinam), he formally chose him to officiate at the sacrifice for the continuation of his lineage (saṃtānārthaṃ kulasya ca).
+Thereupon, bowing his head in reverence to that twice-born sage of celestial effulgence (_taṃ vipraṃ devavarṇinam_), he formally chose him to officiate at the sacrifice for the continuation of his lineage (_saṃtānārthaṃ kulasya ca_).
 </details>
 </details>
 
@@ -205,7 +205,7 @@ let the ritual place be decided on the northern banks of Sarayu River...." [1-12
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And that sage replied “So be it!” to the King, lord of the earth: “Let the sacrificial requisites be gathered for you (sambhārāḥ sambhriyantāṃ te), and let the sacrificial steed be loosed (turagaś ca vimucyatām)!
+And that sage replied “So be it!” to the King, lord of the earth: “Let the sacrificial requisites be gathered for you (_sambhārāḥ sambhriyantāṃ te_), and let the sacrificial steed be loosed (_turagaś ca vimucyatām_)!
 </details>
 </details>
 
@@ -271,9 +271,9 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “And let the sacrificial ground be prepared on the northern bank of the Sarayū (sarayvāś cottare tīre)!” Thereupon the monarch spoke these words with reference to the Brāhmaṇas who had crossed to the farthest shore of the Vedas:
+**4:** “And let the sacrificial ground be prepared on the northern bank of the Sarayū (_sarayvāś cottare tīre_)!” Thereupon the monarch spoke these words with reference to the Brāhmaṇas who had crossed to the farthest shore of the Vedas:
 
-**5:** “O Sumantra, summon swiftly the officiating priests who are expounders of the Veda (ṛtvijo brahmavādinaḥ)—Suyajña, Vāmadeva, Jābāli, and Kāśyapa,
+**5:** “O Sumantra, summon swiftly the officiating priests who are expounders of the Veda (_ṛtvijo brahmavādinaḥ_)—Suyajña, Vāmadeva, Jābāli, and Kāśyapa,
 </details>
 </details>
 
@@ -314,7 +314,7 @@ Sumantra swiftly brings Vasiṣṭha and all the Veda-knowing sages; honoring th
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As well as the family preceptor Vasiṣṭha, and whatever other foremost of the twice-born there be!” Thereupon Sumantra of swift stride (tvaritavikramaḥ), proceeding in haste,
+“As well as the family preceptor Vasiṣṭha, and whatever other foremost of the twice-born there be!” Thereupon Sumantra of swift stride (_tvaritavikramaḥ_), proceeding in haste,
 </details>
 </details>
 
@@ -366,7 +366,7 @@ by Sumantra, uttered these words which are with virtue and meaning, in an impres
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Brought together all those sages who had crossed to the farthest shore of the Vedas (samastān vedapāragān). Having duly honored them, the righteous-souled King Daśaratha then—
+Brought together all those sages who had crossed to the farthest shore of the Vedas (_samastān vedapāragān_). Having duly honored them, the righteous-souled King Daśaratha then—
 </details>
 </details>
 
@@ -399,7 +399,7 @@ Brought together all those sages who had crossed to the farthest shore of the Ve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Spoke these gentle, well-reasoned words fraught with dharma and purpose (dharmārthasahitaṃ yuktaṃ ślakṣṇaṃ vacanam): “Tormented as I am by longing for a son (mama tātapyamānasya putrārtham), I know no happiness at all.
+Spoke these gentle, well-reasoned words fraught with _dharma_ and purpose (_dharmārthasahitaṃ yuktaṃ ślakṣṇaṃ vacanam_): “Tormented as I am by longing for a son (_mama tātapyamānasya putrārtham_), I know no happiness at all.
 </details>
 </details>
 
@@ -453,7 +453,7 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore my resolve is fixed: ‘I shall sacrifice with the Hayamedha for the sake of a son!’ Accordingly, I desire to worship through the sacrificial rite of the Hayamedha—
+“Therefore my resolve is fixed: ‘I shall sacrifice with the _Hayamedha_ for the sake of a son!’ Accordingly, I desire to worship through the sacrificial rite of the _Hayamedha_—
 </details>
 </details>
 
@@ -486,7 +486,7 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And through the spiritual potency of the sage’s son (ṛṣiputraprabhāveṇa), I shall surely obtain my cherished desires!” Thereupon all the Brāhmaṇas applauded that speech, exclaiming “Excellent! Excellent!” (sādhv iti)—
+“And through the spiritual potency of the sage’s son (_ṛṣiputraprabhāveṇa_), I shall surely obtain my cherished desires!” Thereupon all the Brāhmaṇas applauded that speech, exclaiming “Excellent! Excellent!” (_sādhv iti_)—
 </details>
 </details>
 
@@ -549,9 +549,9 @@ to the king, in appreciation of that idea. [1-12-10b, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Headed by Vasiṣṭha (vasiṣṭhapramukhāḥ sarve), as those words fell from the monarch’s lips; and with Ṛṣyaśṛṅga at their fore (ṛṣyaśṛṅgapurogāś ca), they replied thus to the King at that time:
+**11:** Headed by Vasiṣṭha (_vasiṣṭhapramukhāḥ sarve_), as those words fell from the monarch’s lips; and with Ṛṣyaśṛṅga at their fore (_ṛṣyaśṛṅgapurogāś ca_), they replied thus to the King at that time:
 
-**12:** “Let the sacrificial requisites be gathered for you (sambhārāḥ sambhriyantāṃ te), and let the sacrificial steed be loosed! And on the northern bank of the Sarayū, let the sacrificial ground be prepared!
+**12:** “Let the sacrificial requisites be gathered for you (_sambhārāḥ sambhriyantāṃ te_), and let the sacrificial steed be loosed! And on the northern bank of the Sarayū, let the sacrificial ground be prepared!
 </details>
 </details>
 
@@ -605,7 +605,7 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“By every means you shall obtain four sons of boundless valor (putrāṃś caturo ’mitavikramān), since this righteous resolve (dhārmikī buddhiḥ) has arisen in your heart for the sake of progeny!”
+“By every means you shall obtain four sons of boundless valor (_putrāṃś caturo ’mitavikramān_), since this righteous resolve (_dhārmikī buddhiḥ_) has arisen in your heart for the sake of progeny!”
 </details>
 </details>
 
@@ -660,7 +660,7 @@ ministers of his court, with happiness derived from those good words. [1-12-14]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that utterance of the twice-born sages, the King was filled with joy; and out of delight the monarch spoke these auspiciously worded commands (idaṃ śubhākṣaram) to his ministers:
+Hearing that utterance of the twice-born sages, the King was filled with joy; and out of delight the monarch spoke these auspiciously worded commands (_idaṃ śubhākṣaram_) to his ministers:
 </details>
 </details>
 
@@ -693,7 +693,7 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“At the bidding of my preceptors, let the sacrificial requisites be swiftly gathered for me (sambhārāḥ sambhriyantu me), and let the sacrificial horse—guarded by capable warriors and accompanied by its officiating preceptors (samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām)—be loosed to wander!
+“At the bidding of my preceptors, let the sacrificial requisites be swiftly gathered for me (_sambhārāḥ sambhriyantu me_), and let the sacrificial horse—guarded by capable warriors and accompanied by its officiating preceptors (_samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām_)—be loosed to wander!
 </details>
 </details>
 
@@ -726,7 +726,7 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the northern bank of the Sarayū let the sacrificial ground be laid out, and let the propitiatory rites of peace go forward in full measure (śāntayaś cābhivardhantām) according to the Kalpa precepts and Śāstric ordinance (yathākalpaṃ yathāvidhi).
+“On the northern bank of the Sarayū let the sacrificial ground be laid out, and let the propitiatory rites of peace go forward in full measure (_śāntayaś cābhivardhantām_) according to the _Kalpa_ precepts and Śāstric ordinance (_yathākalpaṃ yathāvidhi_).
 </details>
 </details>
 
@@ -759,7 +759,7 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This great sacrifice is capable of being accomplished by any monarch only if no grievous ritual lapse or offense (nāparādho bhavet kaṣṭaḥ) should occur in this foremost of sacrifices—
+“This great sacrifice is capable of being accomplished by any monarch only if no grievous ritual lapse or offense (_nāparādho bhavet kaṣṭaḥ_) should occur in this foremost of sacrifices—
 </details>
 </details>
 
@@ -800,7 +800,7 @@ Warning that learned Brahmarākṣasas ever watch for any ritual flaw and that t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For these learned Brahmarākṣasas (vidvāṃso brahmarākṣasāḥ) ever watch for a ritual flaw or loophole (chidraṃ hi mṛgayanty ete); and when a sacrifice is bereft of prescribed Śāstric rule (vidhihīnasya yajñasya), its patron perishes forthwith (sadyaḥ kartā vinaśyati)!
+“For these learned _Brahmarākṣasas_ (_vidvāṃso brahmarākṣasāḥ_) ever watch for a ritual flaw or loophole (_chidraṃ hi mṛgayanty ete_); and when a sacrifice is bereft of prescribed Śāstric rule (_vidhihīnasya yajñasya_), its patron perishes forthwith (_sadyaḥ kartā vinaśyati_)!
 </details>
 </details>
 
@@ -872,7 +872,7 @@ are efficient ones in conducting such rituals without faults, I hope you all wil
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore let such careful provision be made that this sacrifice of mine is brought to completion strictly according to ritual ordinance (vidhipūrvam); for you are fully competent in executing these measures (samarthāḥ karaṇeṣv iha).”
+“Therefore let such careful provision be made that this sacrifice of mine is brought to completion strictly according to ritual ordinance (_vidhipūrvam_); for you are fully competent in executing these measures (_samarthāḥ karaṇeṣv iha_).”
 </details>
 </details>
 
@@ -920,7 +920,7 @@ and indeed they have faultlessly carried out works as ordered. [1-12-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon all the ministers applauded that speech of the chief of monarchs, saying “So be it!”, and executed everything just as they had been commanded (yathājñaptam akurvata).
+Thereupon all the ministers applauded that speech of the chief of monarchs, saying “So be it!”, and executed everything just as they had been commanded (_yathājñaptam akurvata_).
 </details>
 </details>
 
@@ -969,7 +969,7 @@ from there as they have come. [1-12-21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then those twice-born sages praised that dharma-knowing bull among monarchs; and having taken leave with his permission (anujñātāḥ), they all returned again whence they had come (punar jagmur yathāgatam).
+Then those twice-born sages praised that dharma-knowing bull among monarchs; and having taken leave with his permission (_anujñātāḥ_), they all returned again whence they had come (_punar jagmur yathāgatam_).
 </details>
 </details>
 
@@ -1035,7 +1035,7 @@ there for further orders from the king, and then he the great resplendent king h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When those Brāhmaṇas had departed, the lord of men of vast intellect dismissed his ministers as well (mantriṇas tān... visarjayitvā) and entered his own royal abode (svaṃ veśma praviveśa).
+When those Brāhmaṇas had departed, the lord of men of vast intellect dismissed his ministers as well (_mantriṇas tān... visarjayitvā_) and entered his own royal abode (_svaṃ veśma praviveśa_).
 </details>
 </details>
 

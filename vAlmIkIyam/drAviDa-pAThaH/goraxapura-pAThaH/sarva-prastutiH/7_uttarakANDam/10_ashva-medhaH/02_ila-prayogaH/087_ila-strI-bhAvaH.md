@@ -48,7 +48,7 @@ Smiling as he confirms Lakṣmaṇa’s account of the Aśvamedha’s power, Rā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words spoken by Lakṣmaṇa (tac chrutvā lakṣmaṇenoktaṃ vākyam), the eloquent, greatly resplendent Rāghava smiled and spoke in reply (pratyuvāca mahātejāḥ prahasan rāghavo vacaḥ):
+Hearing those words spoken by Lakṣmaṇa (_tac chrutvā lakṣmaṇenoktaṃ vākyam_), the eloquent, greatly resplendent Rāghava smiled and spoke in reply (_pratyuvāca mahātejāḥ prahasan rāghavo vacaḥ_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“It is just so, O foremost of men, exactly as you declare, O Lakṣmaṇa (evam eva nara-śreṣṭha yathā vadasi lakṣmaṇa), both the slaying of Vṛtra in full and the fruit of the horse sacrifice (vṛtra-ghātam aśeṣeṇa vājimedha-phalaṃ ca yat).
+“It is just so, O foremost of men, exactly as you declare, O Lakṣmaṇa (_evam eva nara-śreṣṭha yathā vadasi lakṣmaṇa_), both the slaying of Vṛtra in full and the fruit of the horse sacrifice (_vṛtra-ghātam aśeṣeṇa vājimedha-phalaṃ ca yat_).
 </details>
 </details>
 
@@ -113,7 +113,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, it is heard, O gentle one, that of old the Prajāpati Kardama had a glorious, magnanimous son (kardamasya prajāpateḥ | putro ... śrīmān ... mahāśayāḥ) named Ila, the lord of Bāhlī (bāhlīśvaraḥ ... ilo nāma).
+“Indeed, it is heard, O gentle one, that of old the Prajāpati Kardama had a glorious, magnanimous son (_kardamasya prajāpateḥ | putro ... śrīmān ... mahāśayāḥ_) named Ila, the lord of Bāhlī (_bāhlīśvaraḥ ... ilo nāma_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having brought the entire earth under his sway, that deeply righteous king (sa rājā pṛthivīṃ sarvāṃ vaśe kṛtvā sudhārmikaḥ) protected his realm like his own son, O tiger among men (rājyaṃ caiva nara-vyāghra putravat paryapālayat).
+“Having brought the entire earth under his sway, that deeply righteous king (_sa rājā pṛthivīṃ sarvāṃ vaśe kṛtvā sudhārmikaḥ_) protected his realm like his own son, O tiger among men (_rājyaṃ caiva nara-vyāghra putravat paryapālayat_).
 </details>
 </details>
 
@@ -179,9 +179,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “By the exceedingly noble gods and by wealthy daityas (suraiś ca paramodārair daiteyaiś ca mahādhanaiḥ), and by exceedingly great-souled nāgas, rākṣasas, gandharvas, and yakṣas (nāga-rākṣasa-gandharvair yakṣaiś ca sumahātmabhiḥ)—
+**5:** “By the exceedingly noble gods and by wealthy daityas (_suraiś ca paramodārair daiteyaiś ca mahādhanaiḥ_), and by exceedingly great-souled nāgas, rākṣasas, gandharvas, and yakṣas (_nāga-rākṣasa-gandharvair yakṣaiś ca sumahātmabhiḥ_)—
 
-**6:** “—he was perpetually honored out of fear, O gentle delight of the Raghus (pūjyate nityaśaḥ saumya bhayārtai raghunandana), and all the three worlds stood in dread of that great-souled monarch when angered (abibhyaṃś ca trayo lokāḥ saroṣasya mahātmanaḥ).
+**6:** “—he was perpetually honored out of fear, O gentle delight of the Raghus (_pūjyate nityaśaḥ saumya bhayārtai raghunandana_), and all the three worlds stood in dread of that great-souled monarch when angered (_abibhyaṃś ca trayo lokāḥ saroṣasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -220,7 +220,7 @@ Setting out on a spring hunt in the month of Caitra with his retinue, King Ila s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such was that king, firmly established in dharma and valor (dharme vīrye ca niṣṭhitaḥ), exceedingly noble in intellect, the greatly renowned lord of the Bāhlīkas (buddhyā ca paramodāro bāhlīkeśo mahāyaśāḥ).
+“Such was that king, firmly established in dharma and valor (_dharme vīrye ca niṣṭhitaḥ_), exceedingly noble in intellect, the greatly renowned lord of the Bāhlīkas (_buddhyā ca paramodāro bāhlīkeśo mahāyaśāḥ_).
 </details>
 </details>
 
@@ -251,7 +251,7 @@ Setting out on a spring hunt in the month of Caitra with his retinue, King Ila s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That mighty-armed monarch undertook a hunt in a lovely forest (pracakre mahābāhur mṛgayāṃ rucire vane) during the enchanting month of Caitra, attended by his retainers, army, and mounts (caitre manorame māsi sabhṛtya-bala-vāhanaḥ).
+“That mighty-armed monarch undertook a hunt in a lovely forest (_pracakre mahābāhur mṛgayāṃ rucire vane_) during the enchanting month of Caitra, attended by his retainers, army, and mounts (_caitre manorame māsi sabhṛtya-bala-vāhanaḥ_).
 </details>
 </details>
 
@@ -285,7 +285,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In the forest the king slew deer by the hundreds of thousands (prajaghne ca nṛpo ’raṇye mṛgāñ chata-sahasraśaḥ), yet even after slaying them no satiation came to that great-souled king (hatvaiva tṛptir nābhūc ca rājñas tasya mahātmanaḥ).
+“In the forest the king slew deer by the hundreds of thousands (_prajaghne ca nṛpo ’raṇye mṛgāñ chata-sahasraśaḥ_), yet even after slaying them no satiation came to that great-souled king (_hatvaiva tṛptir nābhūc ca rājñas tasya mahātmanaḥ_).
 </details>
 </details>
 
@@ -316,7 +316,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While tens of thousands of diverse deer were being slain by that great-souled king (nānā-mṛgāṇām ayutaṃ vadhyamānaṃ mahātmanā), he drew near to that region where Mahāsena [Skanda] was born (yatra jāto māhāsenas taṃ deśam upacakrame).
+“While tens of thousands of diverse deer were being slain by that great-souled king (_nānā-mṛgāṇām ayutaṃ vadhyamānaṃ mahātmanā_), he drew near to that region where Mahāsena [Skanda] was born (_yatra jāto māhāsenas taṃ deśam upacakrame_).
 </details>
 </details>
 
@@ -347,7 +347,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“In that region, O lord, the unassailable Hara [Śiva] (tasmin pradeśe deveśa ... haraḥ ... durdharṣaḥ) was sporting delightfully with the daughter of the Mountain King, together with all his attendants (śailarāja-sutāṃ ... ramayām āsa ... sarvair anucaraiḥ saha).
+“In that region, O lord, the unassailable Hara [Śiva] (_tasmin pradeśe deveśa ... haraḥ ... durdharṣaḥ_) was sporting delightfully with the daughter of the Mountain King, together with all his attendants (_śailarāja-sutāṃ ... ramayām āsa ... sarvair anucaraiḥ saha_).
 </details>
 </details>
 
@@ -378,7 +378,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having transformed himself into female form, the bull-bannered Lord of Umā (kṛtvā strī-rūpam ātmānam umeśo gopati-dhvajaḥ), wishing to please the Goddess, dwelt there beside that mountain cascade (devyāḥ priya-cikīrṣuḥ saṃs tasmin parvata-nirjhare).
+“Having transformed himself into female form, the bull-bannered Lord of Umā (_kṛtvā strī-rūpam ātmānam umeśo gopati-dhvajaḥ_), wishing to please the Goddess, dwelt there beside that mountain cascade (_devyāḥ priya-cikīrṣuḥ saṃs tasmin parvata-nirjhare_).
 </details>
 </details>
 
@@ -417,7 +417,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whatever living creatures in that forest tract bore male designation (sattvāḥ puruṣa-vādinaḥ), and trees bearing masculine names—all of them became feminine beings at that time (vṛkṣāḥ puruṣa-nāmānas te ’bhavan strī-janās tadā).
+“Whatever living creatures in that forest tract bore male designation (_sattvāḥ puruṣa-vādinaḥ_), and trees bearing masculine names—all of them became feminine beings at that time (_vṛkṣāḥ puruṣa-nāmānas te ’bhavan strī-janās tadā_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And whatever else existed there, all of it came to bear feminine designation (yac ca kiñcana tat sarvaṃ nārī-sañjñaṃ babhūva ha). In the very midst of this, that king Ila, son of Kardama (etasminn antare rājā sa ilaḥ kardamātmajaḥ), slaughtering thousands of deer, entered that region (nighnan mṛga-sahasrāṇi taṃ deśam upacakrame).
+“And whatever else existed there, all of it came to bear feminine designation (_yac ca kiñcana tat sarvaṃ nārī-sañjñaṃ babhūva ha_). In the very midst of this, that king Ila, son of Kardama (_etasminn antare rājā sa ilaḥ kardamātmajaḥ_), slaughtering thousands of deer, entered that region (_nighnan mṛga-sahasrāṇi taṃ deśam upacakrame_).
 </details>
 </details>
 
@@ -481,7 +481,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding everything turned female—wild beasts, deer, and birds alike (dṛṣṭvā strīkṛtaṃ sarvaṃ sa-vyāla-mṛga-pakṣakam)—and seeing himself as well, along with his followers, transformed into a woman, O delight of the Raghus (ātmanaṃ strīkṛtaṃ caiva sānugaṃ raghunandana),
+“Beholding everything turned female—wild beasts, deer, and birds alike (_dṛṣṭvā strīkṛtaṃ sarvaṃ sa-vyāla-mṛga-pakṣakam_)—and seeing himself as well, along with his followers, transformed into a woman, O delight of the Raghus (_ātmanaṃ strīkṛtaṃ caiva sānugaṃ raghunandana_),
 </details>
 </details>
 
@@ -512,7 +512,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—mighty grief came over him upon seeing himself reduced to such a state (tasya duḥkhaṃ mahac cāsīd dṛṣṭvā ’ ’tmānaṃ tathāgatam), and recognizing it to be the deed of Umā’s Lord, he fell into terror (umā-pateś ca tat-karma jñātvā trāsam upāgamat).
+“—mighty grief came over him upon seeing himself reduced to such a state (_tasya duḥkhaṃ mahac cāsīd dṛṣṭvā ’ ’tmānaṃ tathāgatam_), and recognizing it to be the deed of Umā’s Lord, he fell into terror (_umā-pateś ca tat-karma jñātvā trāsam upāgamat_).
 </details>
 </details>
 
@@ -543,7 +543,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then that king, together with his retainers, army, and mounts (rājā sabhṛtya-bala-vāhanaḥ), went for refuge to the great-souled, blue-throated God with matted locks (devaṃ mahātmānaṃ śitikaṇṭhaṃ kapardinam | jagāma śaraṇam).
+“Then that king, together with his retainers, army, and mounts (_rājā sabhṛtya-bala-vāhanaḥ_), went for refuge to the great-souled, blue-throated God with matted locks (_devaṃ mahātmānaṃ śitikaṇṭhaṃ kapardinam | jagāma śaraṇam_).
 </details>
 </details>
 
@@ -574,7 +574,7 @@ Within that enchanted grove, every male creature, tree, and object becomes femin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thereupon, laughing aloud, the boon-granting Great Lord, together with the Goddess (prahasya varadaḥ saha devyā maheśvaraḥ), himself—the bestower of boons—spoke these words to the Prajāpati’s son (prajāpati-sutaṃ vākyam uvāca varadaḥ svayam):
+“Thereupon, laughing aloud, the boon-granting Great Lord, together with the Goddess (_prahasya varadaḥ saha devyā maheśvaraḥ_), himself—the bestower of boons—spoke these words to the Prajāpati’s son (_prajāpati-sutaṃ vākyam uvāca varadaḥ svayam_):
 </details>
 </details>
 
@@ -613,7 +613,7 @@ Bidding Ila choose any boon save manhood, Śiva refuses his one desire; declinin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Arise, arise, O royal sage, mighty son of Kardama (uttiṣṭhottiṣṭha rājarṣe kārdameya mahābala)! Except for manhood, O gentle keeper of vows, choose any boon you wish (puruṣatvam ṛte saumya varaṃ varaya suvrata)!’
+“‘Arise, arise, O royal sage, mighty son of Kardama (_uttiṣṭhottiṣṭha rājarṣe kārdameya mahābala_)! Except for manhood, O gentle keeper of vows, choose any boon you wish (_puruṣatvam ṛte saumya varaṃ varaya suvrata_)!’
 </details>
 </details>
 
@@ -644,7 +644,7 @@ Bidding Ila choose any boon save manhood, Śiva refuses his one desire; declinin
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then that king, stricken with sorrow and refused by the great-souled Lord (sa rājā duḥkhārtaḥ pratyākhyāto mahātmanā), now turned into a woman, accepted no other boon from the foremost of gods (na ca jagrāha strībhūto varam anyaṃ surottamāt).
+“Then that king, stricken with sorrow and refused by the great-souled Lord (_sa rājā duḥkhārtaḥ pratyākhyāto mahātmanā_), now turned into a woman, accepted no other boon from the foremost of gods (_na ca jagrāha strībhūto varam anyaṃ surottamāt_).
 </details>
 </details>
 
@@ -684,9 +684,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**21:** “Thereupon, overwhelmed with mighty grief, the king bowed down before the Goddess Umā (śokena mahatā śailarāja-sutāṃ nṛpaḥ | praṇipatya hy umāṃ devīm), daughter of the Mountain King, with his whole inner self (sarveṇaivāntarātmanā):
+**21:** “Thereupon, overwhelmed with mighty grief, the king bowed down before the Goddess Umā (_śokena mahatā śailarāja-sutāṃ nṛpaḥ | praṇipatya hy umāṃ devīm_), daughter of the Mountain King, with his whole inner self (_sarveṇaivāntarātmanā_):
 
-**22:** “‘O Sovereign of boons, O Giver of boons, you are the radiant Lady of all the worlds (īśe varāṇāṃ varade lokānām asi bhāminī); O Goddess of unfailing gaze, grace me with a gentle look (amogha-darśane devī bhaja saumyena cakṣuṣā)!’
+**22:** “‘O Sovereign of boons, O Giver of boons, you are the radiant Lady of all the worlds (_īśe varāṇāṃ varade lokānām asi bhāminī_); O Goddess of unfailing gaze, grace me with a gentle look (_amogha-darśane devī bhaja saumyena cakṣuṣā_)!’
 </details>
 </details>
 
@@ -717,7 +717,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Discerning the unspoken wish in that royal sage’s heart while standing in Hara’s presence (hṛdgataṃ tasya rājarṣer vijñāya hara-sannidhau), the Goddess, dear to Rudra, spoke these auspicious words in reply (pratyuvāca śubhaṃ vākyaṃ devī rudrasya saṃmatā):
+“Discerning the unspoken wish in that royal sage’s heart while standing in Hara’s presence (_hṛdgataṃ tasya rājarṣer vijñāya hara-sannidhau_), the Goddess, dear to Rudra, spoke these auspicious words in reply (_pratyuvāca śubhaṃ vākyaṃ devī rudrasya saṃmatā_):
 </details>
 </details>
 
@@ -748,7 +748,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Of a boon the God is the grantor of one half, and of the other half of your boon I am the grantor (ardhasya devo varado varārdhasya tava hy aham); therefore accept from me half of womanhood and manhood, as much as you desire (tasmād ardhaṃ gṛhāṇa tvaṃ strī-puṃsor yāvad icchasi)!’”
+“‘Of a boon the God is the grantor of one half, and of the other half of your boon I am the grantor (_ardhasya devo varado varārdhasya tava hy aham_); therefore accept from me half of womanhood and manhood, as much as you desire (_tasmād ardhaṃ gṛhāṇa tvaṃ strī-puṃsor yāvad icchasi_)!’”
 </details>
 </details>
 
@@ -791,9 +791,9 @@ Overjoyed by Umā’s offer, Ila asks to alternate monthly between womanhood and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**25:** “Hearing that exceedingly wondrous, unsurpassed boon from the Goddess (tad adbhutataraṃ śrutvā devyā varam anuttamam), the king, gladdened at heart, then spoke these words (samprahṛṣṭa-manā bhūtvā rājā vākyam athābravīt):
+**25:** “Hearing that exceedingly wondrous, unsurpassed boon from the Goddess (_tad adbhutataraṃ śrutvā devyā varam anuttamam_), the king, gladdened at heart, then spoke these words (_samprahṛṣṭa-manā bhūtvā rājā vākyam athābravīt_):
 
-**26:** “‘If you are gracious toward me, O Goddess matchless in beauty upon earth (yadi devi prasannā me rūpeṇāpratimā bhuvi), then having lived as a woman for one month, may I become a man again for a month (māsaṃ strītvam upāsitvā māsaṃ syāṃ puruṣaḥ punaḥ)!’
+**26:** “‘If you are gracious toward me, O Goddess matchless in beauty upon earth (_yadi devi prasannā me rūpeṇāpratimā bhuvi_), then having lived as a woman for one month, may I become a man again for a month (_māsaṃ strītvam upāsitvā māsaṃ syāṃ puruṣaḥ punaḥ_)!’
 </details>
 </details>
 
@@ -828,9 +828,9 @@ Overjoyed by Umā’s offer, Ila asks to alternate monthly between womanhood and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**27:** “Understanding his heart’s desire, the Goddess of radiant countenance (īpsitaṃ tasya vijñāya devī surucirānanā) replied with auspicious words: ‘Even so shall it come to pass (pratyuvāca śubhaṃ vākyam evam eva bhaviṣyati)!
+**27:** “Understanding his heart’s desire, the Goddess of radiant countenance (_īpsitaṃ tasya vijñāya devī surucirānanā_) replied with auspicious words: ‘Even so shall it come to pass (_pratyuvāca śubhaṃ vākyam evam eva bhaviṣyati_)!
 
-**28:** “‘O king, when you have become a man you shall not remember your womanly state (rājan puruṣa-bhūtas tvaṃ strī-bhāvaṃ na smariṣyasi), and when you have become a woman during the next month you shall not remember your manhood (strī-bhūtaś ca paraṃ māsaṃ na smariṣyasi pauruṣam)!’
+**28:** “‘O king, when you have become a man you shall not remember your womanly state (_rājan puruṣa-bhūtas tvaṃ strī-bhāvaṃ na smariṣyasi_), and when you have become a woman during the next month you shall not remember your manhood (_strī-bhūtaś ca paraṃ māsaṃ na smariṣyasi pauruṣam_)!’
 </details>
 </details>
 
@@ -872,7 +872,7 @@ Overjoyed by Umā’s offer, Ila asks to alternate monthly between womanhood and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Thus that king, son of Kardama, having been a man for one month (evaṃ sa rājā puruṣo māsaṃ bhūtvātha kārdamiḥ), became for one month the woman Ilā, loveliest in all the three worlds (trailokya-sundarī nārī māsam ekam ilā ’bhavat).”
+“Thus that king, son of Kardama, having been a man for one month (_evaṃ sa rājā puruṣo māsaṃ bhūtvātha kārdamiḥ_), became for one month the woman Ilā, loveliest in all the three worlds (_trailokya-sundarī nārī māsam ekam ilā ’bhavat_).”
 </details>
 </details>
 

@@ -46,7 +46,7 @@ Astonished by Rāma’s account of King Ila’s transformation, Lakṣmaṇa and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that tale concerning Ila (tāṃ kathām ila-sambaddhām), related in full by Rāma (rāmeṇa samudīritām), both Lakṣmaṇa and Bharata (lakṣmaṇo bharataś caiva) were filled with supreme astonishment (parama-vismitau).
+Hearing that tale concerning Ila (_tāṃ kathām ila-sambaddhām_), related in full by Rāma (_rāmeṇa samudīritām_), both Lakṣmaṇa and Bharata (_lakṣmaṇo bharataś caiva_) were filled with supreme astonishment (_parama-vismitau_).
 </details>
 </details>
 
@@ -77,7 +77,7 @@ Hearing that tale concerning Ila (tāṃ kathām ila-sambaddhām), related in fu
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Joining their palms in reverence before Rāma (tau rāmaṃ prāñjalī bhūtvā), they then asked once again (tadā papracchatuḥ punaḥ) for the full account of that condition (vistaraṃ tasya bhāvasya) of that great-souled king (tasya rājño mahātmanaḥ):
+Joining their palms in reverence before Rāma (_tau rāmaṃ prāñjalī bhūtvā_), they then asked once again (_tadā papracchatuḥ punaḥ_) for the full account of that condition (_vistaraṃ tasya bhāvasya_) of that great-souled king (_tasya rājño mahātmanaḥ_):
 </details>
 </details>
 
@@ -108,7 +108,7 @@ Joining their palms in reverence before Rāma (tau rāmaṃ prāñjalī bhūtvā
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How did that king, fallen into such distress (durgatiḥ), pass his time when transformed into a woman (strī-bhūto vartayām āsa)? And when he became a man again (puruṣaḥ sa yadā bhūtaḥ), what manner of life did he lead (kāṃ vṛttiṃ vartayaty asau)?”
+“How did that king, fallen into such distress (_durgatiḥ_), pass his time when transformed into a woman (_strī-bhūto vartayām āsa_)? And when he became a man again (_puruṣaḥ sa yadā bhūtaḥ_), what manner of life did he lead (_kāṃ vṛttiṃ vartayaty asau_)?”
 </details>
 </details>
 
@@ -142,7 +142,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of theirs, filled with eager curiosity (kautūhala-samanvitam), Kākutstha recounted (kathayām āsa) all that befell that king exactly as it had happened (tasya rājño yathāgatam).
+Hearing those words of theirs, filled with eager curiosity (_kautūhala-samanvitam_), Kākutstha recounted (_kathayām āsa_) all that befell that king exactly as it had happened (_tasya rājño yathāgatam_).
 </details>
 </details>
 
@@ -177,9 +177,9 @@ Hearing those words of theirs, filled with eager curiosity (kautūhala-samanvita
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**5:** “During that very first month (tam eva prathamaṃ māsam), having become a woman of world-surpassing beauty (strī-bhūtā loka-sundarī), she was surrounded by those women (tābhiḥ parivṛtā strībhiḥ) who had formerly been his retainers (ye ca pūrva-padānugāḥ).
+**5:** “During that very first month (_tam eva prathamaṃ māsam_), having become a woman of world-surpassing beauty (_strī-bhūtā loka-sundarī_), she was surrounded by those women (_tābhiḥ parivṛtā strībhiḥ_) who had formerly been his retainers (_ye ca pūrva-padānugāḥ_).
 
-**6:** “Plunging swiftly into that forest (tat kānanaṃ vigāhyāśu), dense with trees, thickets, and creepers (druma-gulma-latākīrṇam), that lotus-petal-eyed beauty of the world (padma-dalekṣaṇā) wandered sportively on foot (vijahre ... padbhyām).
+**6:** “Plunging swiftly into that forest (_tat kānanaṃ vigāhyāśu_), dense with trees, thickets, and creepers (_druma-gulma-latākīrṇam_), that lotus-petal-eyed beauty of the world (_padma-dalekṣaṇā_) wandered sportively on foot (_vijahre ... padbhyām_).
 </details>
 </details>
 
@@ -218,7 +218,7 @@ Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Leaving behind all their mounts on every side (vāhanāni ca sarvāṇi sā tyaktvā vai samantataḥ), Ilā then sported (reme ilā tadā) within that wide recess of the mountain (parvatābhoga-vivare tasmin).
+“Leaving behind all their mounts on every side (_vāhanāni ca sarvāṇi sā tyaktvā vai samantataḥ_), Ilā then sported (_reme ilā tadā_) within that wide recess of the mountain (_parvatābhoga-vivare tasmin_).
 </details>
 </details>
 
@@ -249,7 +249,7 @@ Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, in that forest region not far from the mountain (parvatasyāvidūrataḥ), there lay a lake of exceedingly lovely aspect (saraḥ surucira-prakhyam), thronged with flocks of diverse birds (nānā-pakṣi-gaṇair yutam).
+“Then, in that forest region not far from the mountain (_parvatasyāvidūrataḥ_), there lay a lake of exceedingly lovely aspect (_saraḥ surucira-prakhyam_), thronged with flocks of diverse birds (_nānā-pakṣi-gaṇair yutam_).
 </details>
 </details>
 
@@ -283,7 +283,7 @@ Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therein Ilā then beheld Budha, the son of Soma (dadarśa sā tv ilā tasmin budhaṃ soma-sutaṃ tadā), blazing with his own bodily radiance (jvalantaṃ svena vapuṣā) like the risen full moon (pūrṇa-somam ivoditam),
+“Therein Ilā then beheld Budha, the son of Soma (_dadarśa sā tv ilā tasmin budhaṃ soma-sutaṃ tadā_), blazing with his own bodily radiance (_jvalantaṃ svena vapuṣā_) like the risen full moon (_pūrṇa-somam ivoditam_),
 </details>
 </details>
 
@@ -314,7 +314,7 @@ Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“performing fierce austerity amid the waters (tapantaṃ ca tapas tīvram ambho-madhye), unapproachable (durāsadam), giver of renown and granter of desires (yaśaskaraṃ kāmakaram), ever steadfast in compassion (kāruṇye paryavasthitam).
+“performing fierce austerity amid the waters (_tapantaṃ ca tapas tīvram ambho-madhye_), unapproachable (_durāsadam_), giver of renown and granter of desires (_yaśaskaraṃ kāmakaram_), ever steadfast in compassion (_kāruṇye paryavasthitam_).
 </details>
 </details>
 
@@ -345,7 +345,7 @@ Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Filled with wonder, she stirred up that entire lake (sā taṃ jalāśayaṃ sarvaṃ kṣobhayām āsa vismitā), O delight of the Raghus, together with her attendants who had formerly been men and were now turned into women (sahagaiḥ pūrva-puruṣaiḥ strī-bhūtaiḥ).
+“Filled with wonder, she stirred up that entire lake (_sā taṃ jalāśayaṃ sarvaṃ kṣobhayām āsa vismitā_), O delight of the Raghus, together with her attendants who had formerly been men and were now turned into women (_sahagaiḥ pūrva-puruṣaiḥ strī-bhūtaiḥ_).
 </details>
 </details>
 
@@ -379,7 +379,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Budha, the very instant he beheld her (budhas tu tāṃ samīkṣyaiva), fell under the sway of the arrows of Love (kāma-bāṇa-vaśaṃ gataḥ); losing all self-possession then (nopalebhe tadātmānam), he stirred restlessly in the water (sañcacāla tadāmbhasi).
+“And Budha, the very instant he beheld her (_budhas tu tāṃ samīkṣyaiva_), fell under the sway of the arrows of Love (_kāma-bāṇa-vaśaṃ gataḥ_); losing all self-possession then (_nopalebhe tadātmānam_), he stirred restlessly in the water (_sañcacāla tadāmbhasi_).
 </details>
 </details>
 
@@ -421,7 +421,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Gazing intently upon Ilā, lovely beyond all the three worlds (trailokyābhyadhikāṃ śubhām), he became wholly absorbed in thought (cintāṃ samabhyatikrāmat): ‘Who indeed is this maiden surpassing the very gods (kā nv iyaṃ devatādhikā)?
+“Gazing intently upon Ilā, lovely beyond all the three worlds (_trailokyābhyadhikāṃ śubhām_), he became wholly absorbed in thought (_cintāṃ samabhyatikrāmat_): ‘Who indeed is this maiden surpassing the very gods (_kā nv iyaṃ devatādhikā_)?
 </details>
 </details>
 
@@ -452,7 +452,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Never among goddesses, nor among nāga maidens (na devīṣu na nāgīṣu), nor among asura women or apsaras (nāsurīṣv apsaraḥsu ca), has any woman ever before been seen by me (dṛṣṭa-pūrvā mayā kācit) adorned with such beauty as this (rūpeṇānena śobhitā)!
+“‘Never among goddesses, nor among nāga maidens (_na devīṣu na nāgīṣu_), nor among asura women or apsaras (_nāsurīṣv apsaraḥsu ca_), has any woman ever before been seen by me (_dṛṣṭa-pūrvā mayā kācit_) adorned with such beauty as this (_rūpeṇānena śobhitā_)!
 </details>
 </details>
 
@@ -483,7 +483,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘She would be a fitting match for me (sadṛśīyaṃ mama bhavet), if she belongs to no other (yadi nānya-parigrahaḥ).’ Fixing his mind upon this resolve (iti buddhiṃ samāsthāya), he stepped up from the water onto the bank (jalāt kūlam upāgamat).
+“‘She would be a fitting match for me (_sadṛśīyaṃ mama bhavet_), if she belongs to no other (_yadi nānya-parigrahaḥ_).’ Fixing his mind upon this resolve (_iti buddhiṃ samāsthāya_), he stepped up from the water onto the bank (_jalāt kūlam upāgamat_).
 </details>
 </details>
 
@@ -514,7 +514,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Returning to his hermitage (āśramaṃ samupāgamya), that righteous one then summoned those foremost of women (tatas tāḥ pramadottamāḥ śabdāpayata dharmātmā), and they paid him reverent homage (tāś cainaṃ ca vavandire).
+“Returning to his hermitage (_āśramaṃ samupāgamya_), that righteous one then summoned those foremost of women (_tatas tāḥ pramadottamāḥ śabdāpayata dharmātmā_), and they paid him reverent homage (_tāś cainaṃ ca vavandire_).
 </details>
 </details>
 
@@ -545,7 +545,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“That righteous sage asked them (sa tāḥ papraccha dharmātmā): ‘Whose lady is this world-surpassing beauty (kasyaiṣā loka-sundarī)? And for what purpose has she come here (kim artham āgatā caiva)? Tell me all without delay (sarvam ākhyāta mā ciram)!’
+“That righteous sage asked them (_sa tāḥ papraccha dharmātmā_): ‘Whose lady is this world-surpassing beauty (_kasyaiṣā loka-sundarī_)? And for what purpose has she come here (_kim artham āgatā caiva_)? Tell me all without delay (_sarvam ākhyāta mā ciram_)!’
 </details>
 </details>
 
@@ -576,7 +576,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those auspicious words of his, sweet and framed in mellifluous syllables (madhuraṃ madhurākṣaram), all those women replied in gentle, melodious speech (ūcur madhurayā girā):
+“Hearing those auspicious words of his, sweet and framed in mellifluous syllables (_madhuraṃ madhurākṣaram_), all those women replied in gentle, melodious speech (_ūcur madhurayā girā_):
 </details>
 </details>
 
@@ -615,7 +615,7 @@ When the attendants answer ambiguously that the unwed lady is their sovereign, B
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘This shapely lady ever holds sovereignty over us (asmākam eṣā suśroṇī prabhutve vartate sadā); without a husband (apatiḥ), she wanders with us along the woodland borders (kānanānteṣu sahāsmābhiś caraty asau).’
+“‘This shapely lady ever holds sovereignty over us (_asmākam eṣā suśroṇī prabhutve vartate sadā_); without a husband (_apatiḥ_), she wanders with us along the woodland borders (_kānanānteṣu sahāsmābhiś caraty asau_).’
 </details>
 </details>
 
@@ -649,7 +649,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of the women, whose import was veiled (tad vākyam avyakta-padaṃ tāsāṃ strīṇām), that twice-born sage meditated upon the sacred lore called Āvartanī (vidyām āvartanīṃ puṇyām āvartayata sa dvijaḥ).
+“Hearing those words of the women, whose import was veiled (_tad vākyam avyakta-padaṃ tāsāṃ strīṇām_), that twice-born sage meditated upon the sacred lore called Āvartanī (_vidyām āvartanīṃ puṇyām āvartayata sa dvijaḥ_).
 </details>
 </details>
 
@@ -683,7 +683,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having ascertained the entire truth concerning that king exactly as it had befallen him (so ’rthaṃ viditvā sakalaṃ tasya rājño yathāgatam), that foremost of sages addressed all those women (sarvā eva striyas tāś ca babhāṣe muni-puṅgavaḥ):
+“Having ascertained the entire truth concerning that king exactly as it had befallen him (_so ’rthaṃ viditvā sakalaṃ tasya rājño yathāgatam_), that foremost of sages addressed all those women (_sarvā eva striyas tāś ca babhāṣe muni-puṅgavaḥ_):
 </details>
 </details>
 
@@ -717,7 +717,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Becoming Kimpuruṣa women here (atra kimpuruṣīr bhūtvā), you shall dwell upon this mountainside (śaila-rodhasi vatsyatha); let a habitation be swiftly established by you upon this mountain (āvāsas tu girāv asmiñ śīghram eva vidhīyatām)!
+“‘Becoming Kimpuruṣa women here (_atra kimpuruṣīr bhūtvā_), you shall dwell upon this mountainside (_śaila-rodhasi vatsyatha_); let a habitation be swiftly established by you upon this mountain (_āvāsas tu girāv asmiñ śīghram eva vidhīyatām_)!
 </details>
 </details>
 
@@ -751,7 +751,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Subsisting continually upon roots, leaves, and fruits (mūla-patra-phalaiḥ sarvā vartayiṣyatha nityadā), you women shall obtain husbands known as Kimpuruṣas (striyaḥ kimpuruṣān nāma bhartṝn samupalapsyatha).’
+“‘Subsisting continually upon roots, leaves, and fruits (_mūla-patra-phalaiḥ sarvā vartayiṣyatha nityadā_), you women shall obtain husbands known as Kimpuruṣas (_striyaḥ kimpuruṣān nāma bhartṝn samupalapsyatha_).’
 </details>
 </details>
 
@@ -793,6 +793,6 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words of the son of Soma (tāḥ śrutvā soma-putrasya vācam), those manifold women, transformed into Kimpuruṣīs (kimpuruṣī-kṛtāḥ ... vadhvas tā bahulās tadā), took up their abode upon the mountain (upāsāñcakrire śailam).”
+“Hearing those words of the son of Soma (_tāḥ śrutvā soma-putrasya vācam_), those manifold women, transformed into Kimpuruṣīs (_kimpuruṣī-kṛtāḥ ... vadhvas tā bahulās tadā_), took up their abode upon the mountain (_upāsāñcakrire śailam_).”
 </details>
 </details>

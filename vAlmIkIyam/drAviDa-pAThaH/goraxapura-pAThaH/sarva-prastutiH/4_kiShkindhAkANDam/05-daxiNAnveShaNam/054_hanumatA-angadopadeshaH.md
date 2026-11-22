@@ -85,7 +85,7 @@ laying siege to that kingdom of Vanaras. [4541]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When Tāra, possessing the radiance of the lord of stars (tārādhipati-varcasi), spoke thus, Hanūmān then deemed that sovereignty (rājyam) had already been usurped by Aṅgada.
+When Tāra, possessing the radiance of the lord of stars (_tārādhipati-varcasi_), spoke thus, Hanūmān then deemed that sovereignty (_rājyam_) had already been usurped by Aṅgada.
 </details>
 </details>
 
@@ -173,7 +173,7 @@ in opinions or actions.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hanūmān recognized Vālin's son to be endowed with an eightfold intellect (aṣṭāṅgayā buddhyā), possessed of the fourfold strength (caturbala-samanvitam), and graced with the fourteen royal virtues (caturdaśa-guṇam).
+Hanūmān recognized Vālin&#x27;s son to be endowed with an eightfold intellect (_aṣṭāṅgayā buddhyā_), possessed of the fourfold strength (_caturbala-samanvitam_), and graced with the fourteen royal virtues (_caturdaśa-guṇam_).
 </details>
 </details>
 
@@ -204,7 +204,7 @@ Hanūmān recognized Vālin's son to be endowed with an eightfold intellect (a�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-[He saw him] perpetually replenished with splendor, strength, and valor (tejo-bala-parākramaiḥ), waxing in majesty like the moon at the beginning of the bright fortnight (śuklapakṣādau).
+[He saw him] perpetually replenished with splendor, strength, and valor (_tejo-bala-parākramaiḥ_), waxing in majesty like the moon at the beginning of the bright fortnight (_śuklapakṣādau_).
 </details>
 </details>
 
@@ -238,7 +238,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Equal to Bṛhaspati in intellect and like his father in valor, he was hearkening (śuśrūṣamāṇam) unto Tāra just as Purandara [Indra] hearkens unto Śukra [or Bṛhaspati].
+Equal to Bṛhaspati in intellect and like his father in valor, he was hearkening (_śuśrūṣamāṇam_) unto Tāra just as Purandara [Indra] hearkens unto Śukra [or Bṛhaspati].
 </details>
 </details>
 
@@ -305,7 +305,7 @@ weeks and then to days: *1] paurNami, poorNima *White Fortnight - where the moon
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then Hanūmān, well-versed in all the treatises of polity (sarvaśāstra-viśāradaḥ), began to win over (abhisaṃdhātum) Aṅgada, who had grown exhausted in his lord's cause (bhartur arthe pariśrāntam).
+Then Hanūmān, well-versed in all the treatises of polity (_sarvaśāstra-viśāradaḥ_), began to win over (_abhisaṃdhātum_) Aṅgada, who had grown exhausted in his lord&#x27;s cause (_bhartur arthe pariśrāntam_).
 </details>
 </details>
 
@@ -362,7 +362,7 @@ partition, persecution, in connection with a political adversary.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Expounding the third of the four expedients of statecraft (caturṇām upāyānāṃ tṛtīyam) [namely dissension, bheda], he divided all those Vānaras through the eloquence of his speech (vākya-sampadā).
+Expounding the third of the four expedients of statecraft (_caturṇām upāyānāṃ tṛtīyam_) [namely dissension, _bheda_], he divided all those Vānaras through the eloquence of his speech (_vākya-sampadā_).
 </details>
 </details>
 
@@ -426,7 +426,7 @@ by Sugreeva on defectors. [4547]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When all those [Vānaras] had been divided (bhinneṣu), he then intimidated (abhīṣayat) Aṅgada with diverse, terrifying words (bhīṣaṇair vividhair vākyaiḥ) fraught with the expedient of wrathful chastisement (kopopāya-samanvitaiḥ).
+When all those [Vānaras] had been divided (_bhinneṣu_), he then intimidated (_abhīṣayat_) Aṅgada with diverse, terrifying words (_bhīṣaṇair vividhair vākyaiḥ_) fraught with the expedient of wrathful chastisement (_kopopāya-samanvitaiḥ_).
 </details>
 </details>
 
@@ -475,7 +475,7 @@ are unquestionably capable enough to sustain the monkey kingdom." Thus Hanuma st
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O son of Tārā (tāreya), in battle you are assuredly more capable even than your father, and you are able to hold fast the sovereignty of the monkeys (kapirājyam) firmly just as your father did.”
+“O son of Tārā (_tāreya_), in battle you are assuredly more capable even than your father, and you are able to hold fast the sovereignty of the monkeys (_kapirājyam_) firmly just as your father did.”
 </details>
 </details>
 
@@ -530,7 +530,7 @@ wives they cannot tolerate to remain under your control for a long. [4549]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Yet monkeys, O bull among Vānaras (haripuṅgava), are ever fickle-minded (asthiracittāḥ); parted from their wives and sons (putradāraṃ vinā), they will never endure your command (ājñāpyam).”
+“Yet monkeys, O bull among Vānaras (_haripuṅgava_), are ever fickle-minded (_asthiracittāḥ_); parted from their wives and sons (_putradāraṃ vinā_), they will never endure your command (_ājñāpyam_).”
 </details>
 </details>
 
@@ -599,9 +599,9 @@ isn't so! [45410, 11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**10:** “Truly, I tell you openly before your eyes (pratyakṣam): these [monkeys] will not remain loyally attached to you (tvāṃ naite hy anurañjeyuḥ), any more than will this Jāmbavān, Nīla, and the great monkey Suhotra.”
+**10:** “Truly, I tell you openly before your eyes (_pratyakṣam_): these [monkeys] will not remain loyally attached to you (_tvāṃ naite hy anurañjeyuḥ_), any more than will this Jāmbavān, Nīla, and the great monkey Suhotra.”
 
-**11:** “Neither I nor all these here can be drawn away (apakarṣitum) from Sugrīva by you through the methods of conciliation, gifts, and the rest (sāma-dānādibhir guṇaiḥ), nor through chastisement (daṇḍena).”
+**11:** “Neither I nor all these here can be drawn away (_apakarṣitum_) from Sugrīva by you through the methods of conciliation, gifts, and the rest (_sāma-dānādibhir guṇaiḥ_), nor through chastisement (_daṇḍena_).”
 </details>
 </details>
 
@@ -661,7 +661,7 @@ shall strive for selfguarding against the mighty, but not contrariwise...
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“They declare that holding out after declaring hostility (vigṛhyāsanam) is possible for the stronger against the weak; therefore a weak man who seeks self-preservation (ātmarakṣākaraḥ) should never wage war [against the stronger].”
+“They declare that holding out after declaring hostility (_vigṛhyāsanam_) is possible for the stronger against the weak; therefore a weak man who seeks self-preservation (_ātmarakṣākaraḥ_) should never wage war [against the stronger].”
 </details>
 </details>
 
@@ -722,7 +722,7 @@ in splitting apart whole of that Black Hole in a trice. [45413]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And as for this cavern—heard of as this subterranean fastness (bilam)—which you regard as your protectress (dhātrīm), splitting it open (vidāraṇam) is a trifling task (īṣatkāryam) for Lakṣmaṇa's arrows.”
+“And as for this cavern—heard of as this subterranean fastness (_bilam_)—which you regard as your protectress (_dhātrīm_), splitting it open (_vidāraṇam_) is a trifling task (_īṣatkāryam_) for Lakṣmaṇa&#x27;s arrows.”
 </details>
 </details>
 
@@ -778,7 +778,7 @@ Black Hole with his acute arrows, as if it is leafy bowl. [45414]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For of old, only a slight cleft (svalpam) was made by Indra when he hurled his thunderbolt (aśanim); Lakṣmaṇa, with his keen shafts, would pierce it through like a folded leaf-cup (patrapuṭaṃ yathā).”
+“For of old, only a slight cleft (_svalpam_) was made by Indra when he hurled his thunderbolt (_aśanim_); Lakṣmaṇa, with his keen shafts, would pierce it through like a folded leaf-cup (_patrapuṭaṃ yathā_).”
 </details>
 </details>
 
@@ -838,7 +838,7 @@ of earth and resurfaced... then, Lakshmana's arrow can pulverise mountains, isn'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And Lakṣmaṇa possesses many iron shafts (nārācāḥ) of that kind, matching the thunderbolt and lightning-bolt in impact (vajrāśani-samasparśāḥ), capable of cleaving even mountains (girīṇām api dārakāḥ).”
+“And Lakṣmaṇa possesses many iron shafts (_nārācāḥ_) of that kind, matching the thunderbolt and lightning-bolt in impact (_vajrāśani-samasparśāḥ_), capable of cleaving even mountains (_girīṇām api dārakāḥ_).”
 </details>
 </details>
 
@@ -890,7 +890,7 @@ Angada, then and there all the monkeys will desert you resolvedly. [45416]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O scorcher of foes (paraṃtapa), the very moment you take up your abode here (avasthānam āsiṣyasi), that very moment all the monkeys, firmly resolved (kṛtaniścayāḥ), will abandon [you].”
+“O scorcher of foes (_paraṃtapa_), the very moment you take up your abode here (_avasthānam āsiṣyasi_), that very moment all the monkeys, firmly resolved (_kṛtaniścayāḥ_), will abandon [you].”
 </details>
 </details>
 
@@ -942,7 +942,7 @@ for diverse palatability as any monkey would cherish, even so, lamenting on the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Remembering their sons and wives, perpetually anxious and famished (bubhukṣitāḥ), and worn out by wretched beds of pain (duḥkha-śayyābhiḥ), they will turn their backs upon you (tvāṃ kariṣyanti pṛṣṭhataḥ).”
+“Remembering their sons and wives, perpetually anxious and famished (_bubhukṣitāḥ_), and worn out by wretched beds of pain (_duḥkha-śayyābhiḥ_), they will turn their backs upon you (_tvāṃ kariṣyanti pṛṣṭhataḥ_).”
 </details>
 </details>
 
@@ -1011,7 +1011,7 @@ iti suucitam - dk* if he discards his own people.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of friends and of kinsmen who wish your welfare (hitakāmaiś ca bandhubhiḥ), you will become violently terrified (bhṛśodvignaḥ) even by a quivering blade of grass (spandamānāt tṛṇād api).”
+“Bereft of friends and of kinsmen who wish your welfare (_hitakāmaiś ca bandhubhiḥ_), you will become violently terrified (_bhṛśodvignaḥ_) even by a quivering blade of grass (_spandamānāt tṛṇād api_).”
 </details>
 </details>
 
@@ -1063,7 +1063,7 @@ from loyalties, will be terrifyingly twingeing. Further, those fierily frenetic 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Nor will the dread arrows of Lakṣmaṇa, of mighty impetus and impossible to withstand (durāsadāḥ), ever fail to smite you (na ca jātu na hiṃsyus tvām), seeking to slay you should you turn away from duty (apavṛttam).”
+“Nor will the dread arrows of Lakṣmaṇa, of mighty impetus and impossible to withstand (_durāsadāḥ_), ever fail to smite you (_na ca jātu na hiṃsyus tvām_), seeking to slay you should you turn away from duty (_apavṛttam_).”
 </details>
 </details>
 
@@ -1115,7 +1115,7 @@ you only in kingdom as before. [45420]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On the other hand, if you go along with us and present yourself humbly (vinītavad upasthitam), Sugrīva will establish you in the kingdom in due order of succession (ānupūrvyāt).”
+“On the other hand, if you go along with us and present yourself humbly (_vinītavad upasthitam_), Sugrīva will establish you in the kingdom in due order of succession (_ānupūrvyāt_).”
 </details>
 </details>
 
@@ -1168,7 +1168,7 @@ he is free from exploitation, thus in no way he liquidates you. [45421]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Your paternal uncle is a righteous king (dharmarājaḥ), desirous of your affection (prītikāmaḥ), firm in his vows, pure, and true to his promise (satyapratijñaḥ); he would never destroy you.”
+“Your paternal uncle is a righteous king (_dharmarājaḥ_), desirous of your affection (_prītikāmaḥ_), firm in his vows, pure, and true to his promise (_satyapratijñaḥ_); he would never destroy you.”
 </details>
 </details>
 
@@ -1243,6 +1243,6 @@ are not reiterated here.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Moreover, he desires what is dear to your mother (priyakāmaś ca te mātuḥ), and his very life exists for her sake (tadartham); besides, he has no other offspring (apatyam). Therefore, O Aṅgada, let us depart!”
+“Moreover, he desires what is dear to your mother (_priyakāmaś ca te mātuḥ_), and his very life exists for her sake (_tadartham_); besides, he has no other offspring (_apatyam_). Therefore, O Aṅgada, let us depart!”
 </details>
 </details>

@@ -88,7 +88,7 @@ continued his narration of Vishvamitra's legend. [1-56-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus by Vasiṣṭha, Viśvāmitra of mighty strength aimed the fiery Āgneya missile (āgneyam astram uddiśya) and cried out, “Stand! Stand!” (tiṣṭha tiṣṭheti cābravīt).
+Addressed thus by Vasiṣṭha, Viśvāmitra of mighty strength aimed the fiery Āgneya missile (_āgneyam astram uddiśya_) and cried out, “Stand! Stand!” (_tiṣṭha tiṣṭheti cābravīt_).
 </details>
 </details>
 
@@ -134,7 +134,7 @@ the other baton of the Terminator, spoke this sentence furiously. [1-56-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Upraising his Brahmadaṇḍa like a second rod of Death (brahmadaṇḍaṃ samudyamya kāladaṇḍam ivāparam), the revered Lord Vasiṣṭha spoke these words in wrath (krodhād idaṃ vacanam abravīt):
+Upraising his _Brahmadaṇḍa_ like a second rod of Death (_brahmadaṇḍaṃ samudyamya kāladaṇḍam ivāparam_), the revered Lord Vasiṣṭha spoke these words in wrath (_krodhād idaṃ vacanam abravīt_):
 </details>
 </details>
 
@@ -183,7 +183,7 @@ you or your missiles have. [1-56-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O wretched Kṣatriya (kṣatrabandho), here I stand (sthito ’smy eṣa)! Display whatever strength you possess (yad balaṃ tad vidarśaya)! Today, O son of Gādhi, I shall shatter the pride you take in your weapons (nāśayāmy adya te darpaṃ śastrasya tava gādhija)!
+“O wretched Kṣatriya (_kṣatrabandho_), here I stand (_sthito ’smy eṣa_)! Display whatever strength you possess (_yad balaṃ tad vidarśaya_)! Today, O son of Gādhi, I shall shatter the pride you take in your weapons (_nāśayāmy adya te darpaṃ śastrasya tava gādhija_)!
 </details>
 </details>
 
@@ -230,7 +230,7 @@ So said Vashishta to Vishvamitra. [1-56-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Where is your paltry Kṣatriya strength, and where is great Brahmanic power (kva ca te kṣatriyabalaṃ kva ca brahmabalaṃ mahat)? Behold my divine Brahmanic power (paśya brahmabalaṃ divyaṃ mama), O disgrace of the Kṣatriya order (kṣatriyapāṃsana)!”
+“Where is your paltry Kṣatriya strength, and where is great Brahmanic power (_kva ca te kṣatriyabalaṃ kva ca brahmabalaṃ mahat_)? Behold my divine Brahmanic power (_paśya brahmabalaṃ divyaṃ mama_), O disgrace of the Kṣatriya order (_kṣatriyapāṃsana_)!”
 </details>
 </details>
 
@@ -277,7 +277,7 @@ of Gaadhi's son, namely Vishvamitra, as a deluge of water silencing a rage of fi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-That terrible and supreme Āgneya missile of Gādhi’s son (tasyāstraṃ gādhiputrasya ghoram āgneyam uttamam) was quenched by the Brahmadaṇḍa, just as the fury of fire is quenched by water (brahmadaṇḍena tac chāntam agner vega ivāmbhasā).
+That terrible and supreme Āgneya missile of Gādhi’s son (_tasyāstraṃ gādhiputrasya ghoram āgneyam uttamam_) was quenched by the _Brahmadaṇḍa_, just as the fury of fire is quenched by water (_brahmadaṇḍena tac chāntam agner vega ivāmbhasā_).
 </details>
 </details>
 
@@ -344,7 +344,7 @@ not reiterated here but just catalogued.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Incensed (kupitaḥ), the son of Gādhi hurled the Vāruṇa, the Raudra, the Aindra, and the Pāśupata missiles, as well as the reed-missile Aiṣīka (aiṣīkaṃ cāpi cikṣepa).
+Incensed (_kupitaḥ_), the son of Gādhi hurled the Vāruṇa, the Raudra, the Aindra, and the Pāśupata missiles, as well as the reed-missile Aiṣīka (_aiṣīkaṃ cāpi cikṣepa_).
 </details>
 </details>
 
@@ -513,15 +513,15 @@ whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 
 **7:** He hurled the Mānava (Humane), the Mohana (Bewildering), the Gāndharva, and the Svāpana (oporific), as well as the Jṛmbhaṇa (Yawning-inducing), the Mādana (Intoxicating), and the Saṃtāpana (Tormenting) and Vilāpana (Weeping-inducing) missiles.
 
-**8:** He hurled the Śoṣaṇa (Desiccating), the Dāraṇa (Rending), and the unconquerable thunderbolt missile Vajra (vajram astraṃ sudurjayam), together with Brahmā’s noose (brahmapāśam), Time’s noose (kālapāśam), and Varuṇa’s noose (vāruṇaṃ pāśam eva ca)—
+**8:** He hurled the Śoṣaṇa (Desiccating), the Dāraṇa (Rending), and the unconquerable thunderbolt missile Vajra (_vajram astraṃ sudurjayam_), together with Brahmā’s noose (_brahmapāśam_), Time’s noose (_kālapāśam_), and Varuṇa’s noose (_vāruṇaṃ pāśam eva ca_)—
 
-**9:** —and Śiva’s beloved Pināka missile (pinākam astraṃ dayitam), the dry and wet thunderbolts (śuṣkārdre aśanī tathā), the Rod-missile Daṇḍāstra, the Paiśāca, and the Krauñca missile as well (krauñcam astraṃ tathaiva ca)—
+**9:** —and Śiva’s beloved Pināka missile (_pinākam astraṃ dayitam_), the dry and wet thunderbolts (_śuṣkārdre aśanī tathā_), the Rod-missile Daṇḍāstra, the Paiśāca, and the Krauñca missile as well (_krauñcam astraṃ tathaiva ca_)—
 
-**10:** —and the Discus of Dharma (dharmacakram), the Discus of Time (kālacakram), and the Discus of Viṣṇu (viṣṇucakram), together with the wind-missile Vāyavya, the churning missile Mathana, and the horse-headed missile Hayaśiras (astraṃ hayaśiras tathā).
+**10:** —and the Discus of Dharma (_dharmacakram_), the Discus of Time (_kālacakram_), and the Discus of Viṣṇu (_viṣṇucakram_), together with the wind-missile Vāyavya, the churning missile Mathana, and the horse-headed missile Hayaśiras (_astraṃ hayaśiras tathā_).
 
-**11:** He hurled the pair of spears (śaktidvayaṃ ca cikṣepa), the skeletal Kaṅkāla and the club Musala (kaṅkālaṃ musalaṃ tathā), the great Vaidyādhara missile, and the dreadful missile of Time (kālāstram atha dāruṇam)—
+**11:** He hurled the pair of spears (_śaktidvayaṃ ca cikṣepa_), the skeletal Kaṅkāla and the club Musala (_kaṅkālaṃ musalaṃ tathā_), the great Vaidyādhara missile, and the dreadful missile of Time (_kālāstram atha dāruṇam_)—
 
-**12:** —and the terrible Trident missile Triśūla, together with the Kāpāla and the Kaṅkaṇa (triśūlam astraṃ ghoraṃ ca kāpālam atha kaṅkaṇam); all these missiles he hurled (etāny astrāṇi cikṣepa sarvāṇi), O delight of the Raghus!
+**12:** —and the terrible Trident missile Triśūla, together with the Kāpāla and the Kaṅkaṇa (_triśūlam astraṃ ghoraṃ ca kāpālam atha kaṅkaṇam_); all these missiles he hurled (_etāny astrāṇi cikṣepa sarvāṇi_), O delight of the Raghus!
 </details>
 </details>
 
@@ -574,7 +574,7 @@ all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's mis
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Yet upon reaching Vasiṣṭha, the foremost of japa-reciters, a wondrous marvel came to pass (vasiṣṭhe japatāṃ śreṣṭhe tad adbhutam ivābhavat): the son of Brahmā swallowed up every one of those missiles with his staff (tāni sarvāṇi daṇḍena grasate brahmaṇaḥ sutaḥ)!
+Yet upon reaching Vasiṣṭha, the foremost of _japa_-reciters, a wondrous marvel came to pass (_vasiṣṭhe japatāṃ śreṣṭhe tad adbhutam ivābhavat_): the son of Brahmā swallowed up every one of those missiles with his staff (_tāni sarvāṇi daṇḍena grasate brahmaṇaḥ sutaḥ_)!
 </details>
 </details>
 
@@ -629,9 +629,9 @@ with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** When all those missiles had been quenched (teṣu śānteṣu), the son of Gādhi hurled the Brahmāstra (brahmāstraṃ kṣiptavān gādhinandanaḥ). Beholding that supreme missile upraised, the gods led by Agni (devāḥ sāgnipurogamāḥ)—
+**14:** When all those missiles had been quenched (_teṣu śānteṣu_), the son of Gādhi hurled the Brahmāstra (_brahmāstraṃ kṣiptavān gādhinandanaḥ_). Beholding that supreme missile upraised, the gods led by Agni (_devāḥ sāgnipurogamāḥ_)—
 
-**15:** —and the divine seers were struck with agitation, along with the gandharvas and great serpents (devarṣayaś ca sambhrāntā gandharvāḥ samahoragāḥ); the entire threefold world trembled in dread when the Brahmāstra was unleashed (trailokyam āsīt saṃtrastaṃ brahmāstre samudīrite).
+**15:** —and the divine seers were struck with agitation, along with the _gandharvas_ and great serpents (_devarṣayaś ca sambhrāntā gandharvāḥ samahoragāḥ_); the entire threefold world trembled in dread when the Brahmāstra was unleashed (_trailokyam āsīt saṃtrastaṃ brahmāstre samudīrite_).
 </details>
 </details>
 
@@ -685,7 +685,7 @@ the seraphic resplendence of Brahma-baton of Sage Vashishta. [1-56-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even that supremely terrible missile of Brahmā (tad apy astraṃ mahāghoraṃ brāhmam), O Rāghava, Vasiṣṭha swallowed up completely with his Brahmadaṇḍa through his own Brahmanic radiance (brāhmeṇa tejasā vasiṣṭho grasate sarvaṃ brahmadaṇḍena).
+Even that supremely terrible missile of Brahmā (_tad apy astraṃ mahāghoraṃ brāhmam_), O Rāghava, Vasiṣṭha swallowed up completely with his _Brahmadaṇḍa_ through his own Brahmanic radiance (_brāhmeṇa tejasā vasiṣṭho grasate sarvaṃ brahmadaṇḍena_).
 </details>
 </details>
 
@@ -731,7 +731,7 @@ he is finishing off that Brahma missile as if to surely petrify the Tri-world. [
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-As the high-souled Vasiṣṭha was swallowing the Brahmāstra (brahmāstraṃ grasamānasya), his form became terrifying, dreadful to behold, and bewildering to all three worlds (trailokyamohanaṃ raudraṃ rūpam āsīt sudāruṇam).
+As the high-souled Vasiṣṭha was swallowing the Brahmāstra (_brahmāstraṃ grasamānasya_), his form became terrifying, dreadful to behold, and bewildering to all three worlds (_trailokyamohanaṃ raudraṃ rūpam āsīt sudāruṇam_).
 </details>
 </details>
 
@@ -778,7 +778,7 @@ speak. [1-56-18]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-From all the hair-pores of the high-souled Vasiṣṭha (romakūpeṣu sarveṣu vasiṣṭhasya mahātmanaḥ) shot forth radiant sparks like those of a fire whose flames are wreathed in smoke (marīcya iva niṣpetur agner dhūmākulārciṣaḥ).
+From all the hair-pores of the high-souled Vasiṣṭha (_romakūpeṣu sarveṣu vasiṣṭhasya mahātmanaḥ_) shot forth radiant sparks like those of a fire whose flames are wreathed in smoke (_marīcya iva niṣpetur agner dhūmākulārciṣaḥ_).
 </details>
 </details>
 
@@ -832,7 +832,7 @@ the Terminator. [1-56-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the Brahmadaṇḍa upraised in Vasiṣṭha’s hand blazed forth (prājvalad brahmadaṇḍaś ca vasiṣṭhasya karodyataḥ) like the smokeless fire of Doomsday or a second rod of Yama (vidhūma iva kālāgnir yamadaṇḍa ivāparaḥ).
+And the _Brahmadaṇḍa_ upraised in Vasiṣṭha’s hand blazed forth (_prājvalad brahmadaṇḍaś ca vasiṣṭhasya karodyataḥ_) like the smokeless fire of Doomsday or a second rod of Yama (_vidhūma iva kālāgnir yamadaṇḍa ivāparaḥ_).
 </details>
 </details>
 
@@ -863,7 +863,7 @@ And the Brahmadaṇḍa upraised in Vasiṣṭha’s hand blazed forth (prājval
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then hosts of sages praised Vasiṣṭha, the foremost of japa-reciters (tato ’stuvan munigaṇā vasiṣṭhaṃ japatāṃ varam): “Unfailing is your power, O Brahmin; restrain that fiery energy by your own spiritual radiance (amoghaṃ te balaṃ brahmaṃs tejo dhāraya tejasā)!
+Then hosts of sages praised Vasiṣṭha, the foremost of _japa_-reciters (_tato ’stuvan munigaṇā vasiṣṭhaṃ japatāṃ varam_): “Unfailing is your power, O Brahmin; restrain that fiery energy by your own spiritual radiance (_amoghaṃ te balaṃ brahmaṃs tejo dhāraya tejasā_)!
 </details>
 </details>
 
@@ -926,7 +926,7 @@ So said saints to Vashishta. [1-56-20, 21]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Viśvāmitra of mighty strength has been thoroughly subdued by you, O Brahmin (nigṛhītas tvayā brahman viśvāmitro mahābalaḥ)! Unfailing is your power, O foremost of sages; let the worlds be freed from anguish (lokāḥ santu gatavyathāḥ)!”
+“Viśvāmitra of mighty strength has been thoroughly subdued by you, O Brahmin (_nigṛhītas tvayā brahman viśvāmitro mahābalaḥ_)! Unfailing is your power, O foremost of sages; let the worlds be freed from anguish (_lokāḥ santu gatavyathāḥ_)!”
 </details>
 </details>
 
@@ -980,7 +980,7 @@ himself, and then that estranged Vishvamitra spoke this to himself with heavy su
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Addressed thus, the mighty Vasiṣṭha of great splendor calmed his fiery wrath (evam ukto mahātejāḥ śamaṃ cakre mahābalaḥ); and Viśvāmitra, utterly humbled and stripped of his power (vinikṛtaḥ), sighed deeply and spoke these words (viniḥśvasyedam abravīt):
+Addressed thus, the mighty Vasiṣṭha of great splendor calmed his fiery wrath (_evam ukto mahātejāḥ śamaṃ cakre mahābalaḥ_); and Viśvāmitra, utterly humbled and stripped of his power (_vinikṛtaḥ_), sighed deeply and spoke these words (_viniḥśvasyedam abravīt_):
 </details>
 </details>
 
@@ -1026,7 +1026,7 @@ only with one baton of Brahma all of my missiles are defused. [1-56-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Fie upon Kṣatriya strength (dhig balaṃ kṣatriyabalam)! The strength of Brahmanic splendor alone is true strength (brahmatejobalaṃ balam)! By a single Brahmadaṇḍa, all my celestial missiles have been destroyed (ekena brahmadaṇḍena sarvāstrāṇi hatāni me)!
+“Fie upon Kṣatriya strength (_dhig balaṃ kṣatriyabalam_)! The strength of Brahmanic splendor alone is true strength (_brahmatejobalaṃ balam_)! By a single _Brahmadaṇḍa_, all my celestial missiles have been destroyed (_ekena brahmadaṇḍena sarvāstrāṇi hatāni me_)!
 </details>
 </details>
 
@@ -1094,7 +1094,7 @@ narration of Vishvamitra's legend. [1-56-24]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having clearly perceived this truth (tad etat prasamīkṣyāham), with my senses and mind made serene (prasannendriyamānasaḥ), I shall betake myself to supreme penance (tapo mahat samāsthāsye)—that which is the true cause of Brahminhood (yad vai brahmatvakāraṇam)!”
+“Having clearly perceived this truth (_tad etat prasamīkṣyāham_), with my senses and mind made serene (_prasannendriyamānasaḥ_), I shall betake myself to supreme penance (_tapo mahat samāsthāsye_)—that which is the true cause of Brahminhood (_yad vai brahmatvakāraṇam_)!”
 </details>
 </details>
 

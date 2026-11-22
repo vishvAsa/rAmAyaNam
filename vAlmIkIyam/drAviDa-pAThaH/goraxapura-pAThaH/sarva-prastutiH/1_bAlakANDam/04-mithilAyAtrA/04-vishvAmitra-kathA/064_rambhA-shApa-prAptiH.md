@@ -76,7 +76,7 @@ continued the legend of Vishvamitra to Rama. [1-64-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Rambhā, this supreme task of the gods (surakāryam idam sumahat) must be accomplished by you: the seduction here of Kauśika (lobhanaṃ kauśikasyeha), steepening him in the infatuation of desire (kāmamohasamanvitam)!”
+“O Rambhā, this supreme task of the gods (_surakāryam idam sumahat_) must be accomplished by you: the seduction here of Kauśika (_lobhanaṃ kauśikasyeha_), steepening him in the infatuation of desire (_kāmamohasamanvitam_)!”
 </details>
 </details>
 
@@ -125,7 +125,7 @@ to that chief of gods while adjoining her palms suppliantly. [1-64-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by the wise Thousand-Eyed Indra (sahasrākṣeṇa dhīmatā), O Rāma, that celestial nymph, abashed (vrīḍitā) and joining her palms in supplication, spoke in reply to the lord of the gods:
+Thus addressed by the wise Thousand-Eyed Indra (_sahasrākṣeṇa dhīmatā_), O Rāma, that celestial nymph, abashed (_vrīḍitā_) and joining her palms in supplication, spoke in reply to the lord of the gods:
 </details>
 </details>
 
@@ -183,7 +183,7 @@ to accord forbearance.' So said Rambha to Indra. [1-64-3, 4a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O Lord of the Gods, this great sage Viśvāmitra is fierce in nature (ghoraḥ); without a doubt, O God, he will unleash his terrible wrath upon me (krodham utsrakṣyate ghoraṃ mayi).
+“O Lord of the Gods, this great sage Viśvāmitra is fierce in nature (_ghoraḥ_); without a doubt, O God, he will unleash his terrible wrath upon me (_krodham utsrakṣyate ghoraṃ mayi_).
 </details>
 </details>
 
@@ -238,9 +238,9 @@ in fear and making palm fold in supplication. [1-64-4b, 5a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** “From that indeed arises my terror (tato hi me bhayam), O Lord; deign to show me grace and excuse me from this command (prasādaṃ kartum arhasi)!” Thus addressed by her in terror as she trembled with fear, O Rāma—
+**4:** “From that indeed arises my terror (_tato hi me bhayam_), O Lord; deign to show me grace and excuse me from this command (_prasādaṃ kartum arhasi_)!” Thus addressed by her in terror as she trembled with fear, O Rāma—
 
-**5:** —the Thousand-Eyed Indra spoke to her as she stood trembling with folded hands (vepamānāṃ kṛtāñjalim): “Fear not, O Rambhā (mā bhaiṣī rambhe)! May good betide you; carry out my command (kuruṣva mama śāsanam)!
+**5:** —the Thousand-Eyed Indra spoke to her as she stood trembling with folded hands (_vepamānāṃ kṛtāñjalim_): “Fear not, O Rambhā (_mā bhaiṣī rambhe_)! May good betide you; carry out my command (_kuruṣva mama śāsanam_)!
 </details>
 </details>
 
@@ -296,7 +296,7 @@ black-songbird will be at your side along with Love-god in the pleasing trees of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Becoming a heart-captivating cuckoo (kokilo hṛdayagrāhī) amid the lovely-blossoming trees in the month of Mādhava (spring, mādhave ruciradrume), I myself, accompanied by Kandarpa (the god of love, kandarpasahitaḥ), shall stand by your side (sthāsyāmi tava pārśvataḥ).
+“Becoming a heart-captivating cuckoo (_kokilo hṛdayagrāhī_) amid the lovely-blossoming trees in the month of Mādhava (spring, _mādhave ruciradrume_), I myself, accompanied by Kandarpa (the god of love, _kandarpasahitaḥ_), shall stand by your side (_sthāsyāmi tava pārśvataḥ_).
 </details>
 </details>
 
@@ -349,7 +349,7 @@ to Rambha. [1-64-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Assuming a form of manifold charms (rūpaṃ bahuguṇaṃ kṛtvā) and supreme radiance (paramabhāsvaram), O auspicious one, cause that ascetic sage Kauśika to swerve from his penance (tam ṛṣiṃ kauśikaṃ bhadre bhedayasva tapasvinam)!”
+“Assuming a form of manifold charms (_rūpaṃ bahuguṇaṃ kṛtvā_) and supreme radiance (_paramabhāsvaram_), O auspicious one, cause that ascetic sage Kauśika to swerve from his penance (_tam ṛṣiṃ kauśikaṃ bhadre bhedayasva tapasvinam_)!”
 </details>
 </details>
 
@@ -395,7 +395,7 @@ damsel she started to entice Vishvamitra with giggly grins. [1-64-8]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing his command, that graceful nymph of radiant smile (lalitā śucismitā) assumed an unsurpassed form (kṛtvā rūpam anuttamam) and sought to entice Viśvāmitra (lobhayām āsa viśvāmitram).
+Hearing his command, that graceful nymph of radiant smile (_lalitā śucismitā_) assumed an unsurpassed form (_kṛtvā rūpam anuttamam_) and sought to entice Viśvāmitra (_lobhayām āsa viśvāmitram_).
 </details>
 </details>
 
@@ -450,7 +450,7 @@ about the ambience, he incidentally saw and stared at Rambha. [1-64-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He heard the sweet, melodious call of the cuckoo singing (kokilasya tu śuśrāva valgu vyāharataḥ svanam), and with a gladdened heart (samprahṛṣṭena manasā) cast his gaze upon her (sa cainām anvavaikṣata).
+He heard the sweet, melodious call of the cuckoo singing (_kokilasya tu śuśrāva valgu vyāharataḥ svanam_), and with a gladdened heart (_samprahṛṣṭena manasā_) cast his gaze upon her (_sa cainām anvavaikṣata_).
 </details>
 </details>
 
@@ -496,7 +496,7 @@ is on his qui vive. [1-64-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, at that cuckoo’s call, at her peerless song (gītenāpratimena ca), and at the sight of Rambhā (darśanena ca rambhāyāḥ), the sage fell into doubt and reflection (muniḥ saṃdeham āgataḥ).
+Then, at that cuckoo’s call, at her peerless song (_gītenāpratimena ca_), and at the sight of Rambhā (_darśanena ca rambhāyāḥ_), the sage fell into doubt and reflection (_muniḥ saṃdeham āgataḥ_).
 </details>
 </details>
 
@@ -555,7 +555,7 @@ cursed Rambha. [1-64-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Ascertaining through his meditative insight that all this was the doing of the Thousand-Eyed Indra (sahasrākṣasya tat sarvaṃ vijñāya), the foremost of sages, the son of Kuśika, filled with wrath (krodhasamāviṣṭaḥ), cursed Rambhā:
+Ascertaining through his meditative insight that all this was the doing of the Thousand-Eyed Indra (_sahasrākṣasya tat sarvaṃ vijñāya_), the foremost of sages, the son of Kuśika, filled with wrath (_krodhasamāviṣṭaḥ_), cursed Rambhā:
 </details>
 </details>
 
@@ -601,7 +601,7 @@ Rambha, thereof you will become a rocklike statued wastrel. [1-64-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Since you seek to entice me, O Rambhā, while I am striving to conquer passion and wrath (kāmakrodhajayaiṣiṇam), you shall stand petrified as a figure of stone for ten thousand years (daśavarṣasahasrāṇi śailī sthāsyasi), O wretched one (durbhage)!
+“Since you seek to entice me, O Rambhā, while I am striving to conquer passion and wrath (_kāmakrodhajayaiṣiṇam_), you shall stand petrified as a figure of stone for ten thousand years (_daśavarṣasahasrāṇi śailī sthāsyasi_), O wretched one (_durbhage_)!
 </details>
 </details>
 
@@ -652,7 +652,7 @@ of Brahma. Even though Vishvamitra is at loggerheads with Vashishta, he holds Va
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A brāhmaṇa of supreme spiritual radiance, endowed with the power of austerity (brāhmaṇaḥ sumahātejās tapobalasamanvitaḥ), shall deliver you, O Rambhā (uddhariṣyati rambhe tvām), who have been defiled by my wrath (matkrodhakaluṣīkṛtām).”
+“A _brāhmaṇa_ of supreme spiritual radiance, endowed with the power of austerity (_brāhmaṇaḥ sumahātejās tapobalasamanvitaḥ_), shall deliver you, O Rambhā (_uddhariṣyati rambhe tvām_), who have been defiled by my wrath (_matkrodhakaluṣīkṛtām_).”
 </details>
 </details>
 
@@ -721,7 +721,7 @@ wisdom, Son of Bharata! - Sir Edwin Arnold.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the great sage Viśvāmitra of mighty splendour, unable to restrain his wrath (aśaknuvan dhārayituṃ kopam), fell into burning remorse within himself (saṃtāpam ātmanaḥ).
+Having spoken thus, the great sage Viśvāmitra of mighty splendour, unable to restrain his wrath (_aśaknuvan dhārayituṃ kopam_), fell into burning remorse within himself (_saṃtāpam ātmanaḥ_).
 </details>
 </details>
 
@@ -767,7 +767,7 @@ of that great-saint Love-god and Indra also took flight. [1-64-15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By his mighty curse Rambhā at once became a statue of stone (rambhā śailī tadābhavat); and upon hearing the great sage’s words, both Kandarpa and he (Indra) fled from that place (kandarpo maharṣeḥ sa ca nirgataḥ).
+By his mighty curse Rambhā at once became a statue of stone (_rambhā śailī tadābhavat_); and upon hearing the great sage’s words, both Kandarpa and he (Indra) fled from that place (_kandarpo maharṣeḥ sa ca nirgataḥ_).
 </details>
 </details>
 
@@ -827,7 +827,7 @@ he has no peace of mind owing to ungovernable senses. [1-64-16]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his store of austerity had thus been robbed away by wrath (kopena ca tapo ’paharaṇe kṛte), that sage of mighty splendour found no peace of mind (na lebhe śāntim ātmanaḥ), O Rāma, because his senses remained unconquered (indriyair ajitaiḥ).
+When his store of austerity had thus been robbed away by wrath (_kopena ca tapo ’paharaṇe kṛte_), that sage of mighty splendour found no peace of mind (_na lebhe śāntim ātmanaḥ_), O Rāma, because his senses remained unconquered (_indriyair ajitaiḥ_).
 </details>
 </details>
 
@@ -879,7 +879,7 @@ His conscience became sentimental owing to the divesture of his ascetical merit,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When his austerity had been thus despoiled, this resolve arose in his mind (babhūvāsya manaścintā): “Never again shall I give way to wrath (naivaṃ krodhaṃ gamiṣyāmi), nor shall I utter a word in any wise (na ca vakṣye kathaṃcana)!
+When his austerity had been thus despoiled, this resolve arose in his mind (_babhūvāsya manaścintā_): “Never again shall I give way to wrath (_naivaṃ krodhaṃ gamiṣyāmi_), nor shall I utter a word in any wise (_na ca vakṣye kathaṃcana_)!
 </details>
 </details>
 
@@ -925,7 +925,7 @@ moods, and I indeed emaciate myself until I become a real conqueror of my own se
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed, I shall not even draw breath for hundreds of years (nocchvasiṣyāmi saṃvatsaraśatāny api); with my senses wholly conquered (vijitendriyaḥ), I shall dry up my own body (ahaṃ hi śoṣayiṣyāmi ātmānam).
+“Indeed, I shall not even draw breath for hundreds of years (_nocchvasiṣyāmi saṃvatsaraśatāny api_); with my senses wholly conquered (_vijitendriyaḥ_), I shall dry up my own body (_ahaṃ hi śoṣayiṣyāmi ātmānam_).
 </details>
 </details>
 
@@ -982,7 +982,7 @@ will not undergo any deterioration.' So said Vishvamitra to himself. [1-64-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Until such time as Brahminhood, won through austerity, is attained by me (tāvad yāvad hi me prāptaṃ brāhmaṇyaṃ tapasārjitam), I shall abide for countless years without breathing and without eating (anucchvasann abhuñjānas tiṣṭheyaṃ śāśvatīḥ samāḥ).
+“Until such time as Brahminhood, won through austerity, is attained by me (_tāvad yāvad hi me prāptaṃ brāhmaṇyaṃ tapasārjitam_), I shall abide for countless years without breathing and without eating (_anucchvasann abhuñjānas tiṣṭheyaṃ śāśvatīḥ samāḥ_).
 </details>
 </details>
 
@@ -1046,7 +1046,7 @@ of Ragu, which is a nonpareil vow in the world." Thus Shataananda continued. [1-
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“While I practise this penance, my bodily limbs shall in no wise waste away to destruction (nahi me tapyamānasya kṣayaṃ yāsyanti mūrtayaḥ)!” Thus, O delight of the Raghus, that foremost of sages took up a peerless vow in the world (cakārāpratimāṃ loke pratijñām), consecrated for a thousand years (varṣasahasrasya dīkṣām).
+“While I practise this penance, my bodily limbs shall in no wise waste away to destruction (_nahi me tapyamānasya kṣayaṃ yāsyanti mūrtayaḥ_)!” Thus, O delight of the Raghus, that foremost of sages took up a peerless vow in the world (_cakārāpratimāṃ loke pratijñām_), consecrated for a thousand years (_varṣasahasrasya dīkṣām_).
 </details>
 </details>
 

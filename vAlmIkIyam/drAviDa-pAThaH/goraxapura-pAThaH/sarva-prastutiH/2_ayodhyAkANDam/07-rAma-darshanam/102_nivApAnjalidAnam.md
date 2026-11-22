@@ -75,7 +75,7 @@ duties amount to me, who is outside of that code?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those piteous words spoken by Bharata concerning his father’s death (tāṃ śrutvā karuṇāṃ vācaṃ pitur maraṇa-saṃhitām bharatenoktām), Rāghava lost consciousness (rāghavo babhūva gata-cetanaḥ).
+Hearing those piteous words spoken by Bharata concerning his father’s death (_tāṃ śrutvā karuṇāṃ vācaṃ pitur maraṇa-saṃhitām bharatenoktām_), Rāghava lost consciousness (_rāghavo babhūva gata-cetanaḥ_).
 </details>
 </details>
 
@@ -131,7 +131,7 @@ us that while the elder son is there, the younger one cannot become a king."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that harsh thunderbolt of speech uttered by Bharata, like the thunderbolt hurled in battle by Indra, the foe of the Dānavas (taṃ tu vajram ivotsṛṣṭam āhave dānavāriṇā vāg-vajraṃ bharatenoktam amanojñaṃ), that scorcher of foes (parantapaḥ)—
+Hearing that harsh thunderbolt of speech uttered by Bharata, like the thunderbolt hurled in battle by Indra, the foe of the Dānavas (_taṃ tu vajram ivotsṛṣṭam āhave dānavāriṇā vāg-vajraṃ bharatenoktam amanojñaṃ_), that scorcher of foes (_parantapaḥ_)—
 </details>
 </details>
 
@@ -178,7 +178,7 @@ in kingdom for the welfare of our race."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—throwing up his arms, Rāma fell to the earth just like a tree in the forest with flowering crest cut down by an axe (pragṛhya bāhū rāmo vai puṣpitāgro yathā drumaḥ vane paraśunā kṛttas tathā bhuvi papāta ha).
+—throwing up his arms, Rāma fell to the earth just like a tree in the forest with flowering crest cut down by an axe (_pragṛhya bāhū rāmo vai puṣpitāgro yathā drumaḥ vane paraśunā kṛttas tathā bhuvi papāta ha_).
 </details>
 </details>
 
@@ -226,7 +226,7 @@ god-head."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāma, the lord of the earth, fallen thus upon the earth like a sleeping elephant exhausted by battering a riverbank (tathā nipatitaṃ rāmaṃ jagatyāṃ jagatī-patim kūla-ghāta-pariśrāntaṃ prasuptam iva kuñjaram)—
+Rāma, the lord of the earth, fallen thus upon the earth like a sleeping elephant exhausted by battering a riverbank (_tathā nipatitaṃ rāmaṃ jagatyāṃ jagatī-patim kūla-ghāta-pariśrāntaṃ prasuptam iva kuñjaram_)—
 </details>
 </details>
 
@@ -280,7 +280,7 @@ virtuous, has gone to heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—his brothers, weeping together with Vaidehī, sprinkled that great archer, wasted on every side by grief, with water (bhrātaras te maheṣvāsaṃ sarvataḥ śoka-karśitam rudantaḥ saha vaidehyā siṣicuḥ salilena vai).
+—his brothers, weeping together with Vaidehī, sprinkled that great archer, wasted on every side by grief, with water (_bhrātaras te maheṣvāsaṃ sarvataḥ śoka-karśitam rudantaḥ saha vaidehyā siṣicuḥ salilena vai_).
 </details>
 </details>
 
@@ -326,7 +326,7 @@ misfortune and grief and ascended to the most sacred heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Regaining consciousness and shedding tears from his eyes (sa tu saṃjñāṃ punar labdhvā netrābhyām āsram utsṛjan), Kākutstha began to speak many piteous words (upākrāmata kākutsthaḥ kṛpaṇaṃ bahu bhāṣitum).
+Regaining consciousness and shedding tears from his eyes (_sa tu saṃjñāṃ punar labdhvā netrābhyām āsram utsṛjan_), Kākutstha began to speak many piteous words (_upākrāmata kākutsthaḥ kṛpaṇaṃ bahu bhāṣitum_).
 </details>
 </details>
 
@@ -384,7 +384,7 @@ our father. Shatrughna and I have previously done it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that his father, the lord of the earth, had gone to heaven (sa rāmaḥ svargataṃ śrutvā pitaraṃ pṛthivī-patim), the righteous-souled Rāma spoke to Bharata words fraught with righteousness (uvāca bharataṃ vākyaṃ dharmātmā dharma-saṃhitam):
+Hearing that his father, the lord of the earth, had gone to heaven (_sa rāmaḥ svargataṃ śrutvā pitaraṃ pṛthivī-patim_), the righteous-souled Rāma spoke to Bharata words fraught with righteousness (_uvāca bharataṃ vākyaṃ dharmātmā dharma-saṃhitam_):
 </details>
 </details>
 
@@ -436,7 +436,7 @@ and you undoubtedly are beloved to our father."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What shall I do in Ayodhyā now that my father has gone upon his destined course (kiṃ kariṣyāmy ayodhyāyāṃ tāte diṣṭāṃ gatiṃ gate)? Who will guard that Ayodhyā bereft of the best of kings (kas tāṃ rāja-varād dhīnām ayodhyāṃ pālayiṣyati)?
+“What shall I do in Ayodhyā now that my father has gone upon his destined course (_kiṃ kariṣyāmy ayodhyāyāṃ tāte diṣṭāṃ gatiṃ gate_)? Who will guard that Ayodhyā bereft of the best of kings (_kas tāṃ rāja-varād dhīnām ayodhyāṃ pālayiṣyati_)?
 </details>
 </details>
 
@@ -508,7 +508,7 @@ you, your father died."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“What could have been done for that high-souled sire by me, ill-born as I am (kiṃ nu tasya mayā kāryaṃ durjātena mahātmanaḥ)—he who died through grief for me and was not even given his obsequies by me (yo mṛto mama śokena mayā cāpi na saṃskṛtaḥ)?
+“What could have been done for that high-souled sire by me, ill-born as I am (_kiṃ nu tasya mayā kāryaṃ durjātena mahātmanaḥ_)—he who died through grief for me and was not even given his obsequies by me (_yo mṛto mama śokena mayā cāpi na saṃskṛtaḥ_)?
 </details>
 </details>
 

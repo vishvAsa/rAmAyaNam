@@ -51,7 +51,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus urged by the high-souled Lakṣmaṇa (tathā sañcoditaḥ sūto lakṣmaṇena), the charioteer began to recount (vyāhartum upacakrame) those words formerly spoken by the sage (tad vākyam ṛṣiṇā proktam):
+Thus urged by the high-souled Lakṣmaṇa (_tathā sañcoditaḥ sūto lakṣmaṇena_), the charioteer began to recount (_vyāhartum upacakrame_) those words formerly spoken by the sage (_tad vākyam ṛṣiṇā proktam_):
 </details>
 </details>
 
@@ -82,7 +82,7 @@ Thus urged by the high-souled Lakṣmaṇa (tathā sañcoditaḥ sūto lakṣma�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Of old, the great sage named Durvāsas, son of Atri (durvāsā atreḥ putro mahāmuniḥ), dwelt for the rainy-season retreat (vārṣikyaṃ samuvāsa ha) in the sacred hermitage of Vasiṣṭha (vasiṣṭhasyāśrame puṇye).
+“Of old, the great sage named Durvāsas, son of Atri (_durvāsā atreḥ putro mahāmuniḥ_), dwelt for the rainy-season retreat (_vārṣikyaṃ samuvāsa ha_) in the sacred hermitage of Vasiṣṭha (_vasiṣṭhasyāśrame puṇye_).
 </details>
 </details>
 
@@ -116,7 +116,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“To that hermitage your greatly resplendent and illustrious father (pitā te sumahāyaśāḥ) went in person (agamat svayam), eager to behold his high-souled family preceptor (purohitaṃ mahātmānaṃ didṛkṣuḥ).
+“To that hermitage your greatly resplendent and illustrious father (_pitā te sumahāyaśāḥ_) went in person (_agamat svayam_), eager to behold his high-souled family preceptor (_purohitaṃ mahātmānaṃ didṛkṣuḥ_).
 </details>
 </details>
 
@@ -147,7 +147,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There he beheld that great sage [Durvāsas], radiant as the sun (sūrya-saṅkāśam) and blazing as it were with spiritual splendor (jvalantam iva tejasā), seated on the left side of Vasiṣṭha (upaviṣṭaṃ vasiṣṭhasya savyapārśve).
+“There he beheld that great sage [Durvāsas], radiant as the sun (_sūrya-saṅkāśam_) and blazing as it were with spiritual splendor (_jvalantam iva tejasā_), seated on the left side of Vasiṣṭha (_upaviṣṭaṃ vasiṣṭhasya savyapārśve_).
 </details>
 </details>
 
@@ -184,7 +184,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“With humility he bowed in salutation to both those foremost ascetics (tau munī tāpasa-śreṣṭhau vinīto hy abhivādayat); honored by them with words of welcome and a seat (svāgatenāsanena ca), as well as foot-water, fruits, and roots (pādyena phala-mūlaiś ca), the king sat down together with the sages (uvāsa munibhiḥ saha).
+“With humility he bowed in salutation to both those foremost ascetics (_tau munī tāpasa-śreṣṭhau vinīto hy abhivādayat_); honored by them with words of welcome and a seat (_svāgatenāsanena ca_), as well as foot-water, fruits, and roots (_pādyena phala-mūlaiś ca_), the king sat down together with the sages (_uvāsa munibhiḥ saha_).
 </details>
 </details>
 
@@ -215,7 +215,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“As they sat seated there (teṣāṃ tatropaviṣṭānām), manifold sweet and sacred discourses arose among those supreme seers (tās tāḥ sumadhurāḥ kathāḥ babhūvuḥ paramarṣīṇām) when the day had reached midday (madhyāditya-gate ’hani).
+“As they sat seated there (_teṣāṃ tatropaviṣṭānām_), manifold sweet and sacred discourses arose among those supreme seers (_tās tāḥ sumadhurāḥ kathāḥ babhūvuḥ paramarṣīṇām_) when the day had reached midday (_madhyāditya-gate ’hani_).
 </details>
 </details>
 
@@ -254,7 +254,7 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Then, in the course of a certain tale (kathāyāṃ kasyāñcit), the king, humble and with joined palms (prāñjaliḥ pragraho nṛpaḥ), addressed that high-souled son of Atri, rich in austerity (atreḥ putraṃ tapodhanam):
+“Then, in the course of a certain tale (_kathāyāṃ kasyāñcit_), the king, humble and with joined palms (_prāñjaliḥ pragraho nṛpaḥ_), addressed that high-souled son of Atri, rich in austerity (_atreḥ putraṃ tapodhanam_):
 </details>
 </details>
 
@@ -285,7 +285,7 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘O revered one, to what extent shall my lineage endure (kiṃ pramāṇena mama vaṃśo bhaviṣyati)? And what shall be the lifespan of my Rāma (kim āyuś ca hi me rāmaḥ), and what the lifespans of my other sons (putrāś cānye kim āyuṣaḥ)?
+“‘O revered one, to what extent shall my lineage endure (_kiṃ pramāṇena mama vaṃśo bhaviṣyati_)? And what shall be the lifespan of my Rāma (_kim āyuś ca hi me rāmaḥ_), and what the lifespans of my other sons (_putrāś cānye kim āyuṣaḥ_)?
 </details>
 </details>
 
@@ -316,7 +316,7 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘And whatever sons may be born to Rāma (rāmasya ca sutā ye syuḥ), how long shall their lives be (teṣām āyuḥ kiyad bhavet)? Out of favor for my wish, O revered one, declare (kāmyayā bhagavan brūhi) the future course of this my dynasty (vaṃśasyāsya gatiṃ mama)!’
+“‘And whatever sons may be born to Rāma (_rāmasya ca sutā ye syuḥ_), how long shall their lives be (_teṣām āyuḥ kiyad bhavet_)? Out of favor for my wish, O revered one, declare (_kāmyayā bhagavan brūhi_) the future course of this my dynasty (_vaṃśasyāsya gatiṃ mama_)!’
 </details>
 </details>
 
@@ -347,7 +347,7 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Hearing those words spoken by King Daśaratha (rājño daśarathasya), the exceedingly resplendent Durvāsas (durvāsāḥ sumahātejāḥ) began to speak (vyāhartum upacakrame):
+“Hearing those words spoken by King Daśaratha (_rājño daśarathasya_), the exceedingly resplendent Durvāsas (_durvāsāḥ sumahātejāḥ_) began to speak (_vyāhartum upacakrame_):
 </details>
 </details>
 
@@ -380,9 +380,9 @@ During their conversation, a humble Daśaratha asks Durvāsas how long his linea
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** “‘Hear, O King, an ancient event (śṛṇu rājan purāvṛttam) from the war between the gods and asuras (devāsure yudhi): harassed by the gods, the daityas took refuge with the wife of Bhṛgu (bhṛgu-patnīṃ samāśritāḥ); granted safety by her (tayā dattābhayāḥ), they dwelt there free from fear (nyavasann abhayās tadā).
+**11:** “‘Hear, O King, an ancient event (_śṛṇu rājan purāvṛttam_) from the war between the gods and asuras (_devāsure yudhi_): harassed by the gods, the daityas took refuge with the wife of Bhṛgu (_bhṛgu-patnīṃ samāśritāḥ_); granted safety by her (_tayā dattābhayāḥ_), they dwelt there free from fear (_nyavasann abhayās tadā_).
 
-**12:** “‘Beholding them sheltered by her (tayā parigṛhītāṃs tān dṛṣṭvā), the Lord of the Gods [Viṣṇu] grew wroth (kruddhaḥ sureśvaraḥ), and with his razor-edged discus (cakreṇa śita-dhāreṇa) he severed the head of Bhṛgu’s wife (bhṛgu-patnyāḥ śiro ’harat).
+**12:** “‘Beholding them sheltered by her (_tayā parigṛhītāṃs tān dṛṣṭvā_), the Lord of the Gods [Viṣṇu] grew wroth (_kruddhaḥ sureśvaraḥ_), and with his razor-edged discus (_cakreṇa śita-dhāreṇa_) he severed the head of Bhṛgu’s wife (_bhṛgu-patnyāḥ śiro ’harat_).
 </details>
 </details>
 
@@ -421,7 +421,7 @@ Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be bo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Then, beholding his wife slain (tāṃ nihatāṃ dṛṣṭvā patnīm), that scion of Bhṛgu’s race (bhṛgu-kulodvahaḥ), filled with sudden wrath (sahasā kruddhaḥ), cursed Viṣṇu, the destroyer of enemy hosts (śaśāpa ... viṣṇuṃ ripu-kulārdanam):
+“‘Then, beholding his wife slain (_tāṃ nihatāṃ dṛṣṭvā patnīm_), that scion of Bhṛgu’s race (_bhṛgu-kulodvahaḥ_), filled with sudden wrath (_sahasā kruddhaḥ_), cursed Viṣṇu, the destroyer of enemy hosts (_śaśāpa ... viṣṇuṃ ripu-kulārdanam_):
 </details>
 </details>
 
@@ -452,7 +452,7 @@ Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be bo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“Because, blinded by anger (krodha-mūrcchitaḥ), you slew my wife who was inviolable (avadhyāṃ me patnīm avadhīḥ), therefore you shall be born in the mortal world (mānuṣe loke janiṣyasi), O Janārdana!
+“‘“Because, blinded by anger (_krodha-mūrcchitaḥ_), you slew my wife who was inviolable (_avadhyāṃ me patnīm avadhīḥ_), therefore you shall be born in the mortal world (_mānuṣe loke janiṣyasi_), O Janārdana!
 </details>
 </details>
 
@@ -489,7 +489,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘“There you shall suffer separation from your wife for many years (patnī-viyogaṃ tvaṃ prāpsyase bahu-vārṣikam)!” Stricken in heart by the curse he had uttered (śāpābhihata-cetāḥ), he became deeply moved within himself (svātmanā bhāvito ’bhavat).
+“‘“There you shall suffer separation from your wife for many years (_patnī-viyogaṃ tvaṃ prāpsyase bahu-vārṣikam_)!” Stricken in heart by the curse he had uttered (_śāpābhihata-cetāḥ_), he became deeply moved within himself (_svātmanā bhāvito ’bhavat_).
 </details>
 </details>
 
@@ -520,7 +520,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Tormented on account of that curse (śāpena pīḍitaḥ), Bhṛgu worshipped that Lord (arcayām āsa taṃ devam); propitiated by his penance, the God affectionate to his devotees (devo ... bhakta-vatsalaḥ) spoke, declaring that for the supreme welfare of the worlds (lokānāṃ saṃhitārtham) that curse should indeed be accepted (taṃ śāpaṃ grāhyam uktavān).
+“‘Tormented on account of that curse (_śāpena pīḍitaḥ_), Bhṛgu worshipped that Lord (_arcayām āsa taṃ devam_); propitiated by his penance, the God affectionate to his devotees (_devo ... bhakta-vatsalaḥ_) spoke, declaring that for the supreme welfare of the worlds (_lokānāṃ saṃhitārtham_) that curse should indeed be accepted (_taṃ śāpaṃ grāhyam uktavān_).
 </details>
 </details>
 
@@ -554,7 +554,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Thus cursed by Bhṛgu in a former existence (śapto ... bhṛguṇā pūrva-janmani), that greatly resplendent Lord has come here into sonship to you (ihāgato hi putratvaṃ tava), O best of monarchs!
+“‘Thus cursed by Bhṛgu in a former existence (_śapto ... bhṛguṇā pūrva-janmani_), that greatly resplendent Lord has come here into sonship to you (_ihāgato hi putratvaṃ tava_), O best of monarchs!
 </details>
 </details>
 
@@ -595,9 +595,9 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**18:** “‘Renowned across the three worlds as Rāma (rāma ity abhivikhyātas triṣu lokeṣu), O giver of honor, he shall indeed undergo that mighty fruit (tat phalaṃ prāpsyate) wrought by the curse of Bhṛgu (bhṛgu-śāpa-kṛtaṃ mahat).
+**18:** “‘Renowned across the three worlds as Rāma (_rāma ity abhivikhyātas triṣu lokeṣu_), O giver of honor, he shall indeed undergo that mighty fruit (_tat phalaṃ prāpsyate_) wrought by the curse of Bhṛgu (_bhṛgu-śāpa-kṛtaṃ mahat_).
 
-**19:** “‘Rāma shall be lord of Ayodhyā for a long age (ayodhyāyāḥ patī rāmo dīrghakālaṃ bhaviṣyati), and happy and prosperous shall be all those who follow him (sukhinaś ca samṛddhāś ca bhaviṣyanty asya ye ’nugāḥ).
+**19:** “‘Rāma shall be lord of Ayodhyā for a long age (_ayodhyāyāḥ patī rāmo dīrghakālaṃ bhaviṣyati_), and happy and prosperous shall be all those who follow him (_sukhinaś ca samṛddhāś ca bhaviṣyanty asya ye ’nugāḥ_).
 </details>
 </details>
 
@@ -628,7 +628,7 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having governed the kingdom (rājyam upāsitvā) for ten thousand years and ten hundred years besides (daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca), Rāma shall depart to the world of Brahmā (brahmalokaṃ gamiṣyati).
+“‘Having governed the kingdom (_rājyam upāsitvā_) for ten thousand years and ten hundred years besides (_daśa varṣa-sahasrāṇi daśa varṣa-śatāni ca_), Rāma shall depart to the world of Brahmā (_brahmalokaṃ gamiṣyati_).
 </details>
 </details>
 
@@ -661,7 +661,7 @@ Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year re
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“‘Having sacrificed with opulent horse sacrifices (samṛddhaiś cāśvamedhaiś ca iṣṭvā), that supremely invincible hero (paramadurjayaḥ) shall establish many royal dynasties in abundant measure (rāja-vaṃśāṃś ca bahuśo bahūn saṃsthāpayiṣyati).
+“‘Having sacrificed with opulent horse sacrifices (_samṛddhaiś cāśvamedhaiś ca iṣṭvā_), that supremely invincible hero (_paramadurjayaḥ_) shall establish many royal dynasties in abundant measure (_rāja-vaṃśāṃś ca bahuśo bahūn saṃsthāpayiṣyati_).
 </details>
 </details>
 
@@ -698,9 +698,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** “‘Two sons shall be born to Rāghava from Sītā (dvau putrau tu bhaviṣyete sītāyāṃ rāghavasya tu)—elsewhere, not in Ayodhyā (anyatra na tv ayodhyāyām); this is truth beyond all doubt (satyam etan na saṃśayaḥ)—and Rāghava shall thereafter consecrate those two sons of Sītā (sītāyāś ca tataḥ putrāv abhiṣekṣyati rāghavaḥ).’
+**22:** “‘Two sons shall be born to Rāghava from Sītā (_dvau putrau tu bhaviṣyete sītāyāṃ rāghavasya tu_)—elsewhere, not in Ayodhyā (_anyatra na tv ayodhyāyām_); this is truth beyond all doubt (_satyam etan na saṃśayaḥ_)—and Rāghava shall thereafter consecrate those two sons of Sītā (_sītāyāś ca tataḥ putrāv abhiṣekṣyati rāghavaḥ_).’
 
-**23:** “He recounted in its entirety (sarvam akhilam ... āha) all that had passed and all that was to come of the king’s dynasty (rājño vaṃśasya ... gatāgatam); having declared this, that greatly resplendent sage fell silent (tūṣṇīm āsīn mahāmuniḥ).
+**23:** “He recounted in its entirety (_sarvam akhilam ... āha_) all that had passed and all that was to come of the king’s dynasty (_rājño vaṃśasya ... gatāgatam_); having declared this, that greatly resplendent sage fell silent (_tūṣṇīm āsīn mahāmuniḥ_).
 </details>
 </details>
 
@@ -739,7 +739,7 @@ Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When that sage had fallen silent (tūṣṇīṃbhūte tadā tasmin ... munau), King Daśaratha bowed in salutation to both high-souled seers (abhivādya mahātmānau) and returned to his foremost of cities (punar āyāt purottamam).
+“When that sage had fallen silent (_tūṣṇīṃbhūte tadā tasmin ... munau_), King Daśaratha bowed in salutation to both high-souled seers (_abhivādya mahātmānau_) and returned to his foremost of cities (_punar āyāt purottamam_).
 </details>
 </details>
 
@@ -770,7 +770,7 @@ Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“This very word uttered of old by the sage there (etad vaco mayā tatra muninā vyāhṛtaṃ purā) was heard by me and laid up within my heart (śrutaṃ hṛdi ca nikṣiptam); it shall never prove otherwise (nānyathā tad bhaviṣyati).
+“This very word uttered of old by the sage there (_etad vaco mayā tatra muninā vyāhṛtaṃ purā_) was heard by me and laid up within my heart (_śrutaṃ hṛdi ca nikṣiptam_); it shall never prove otherwise (_nānyathā tad bhaviṣyati_).
 </details>
 </details>
 
@@ -801,7 +801,7 @@ Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Such being the case (evaṃ gate), O Rāghava, you ought not to give way to anguish (na santāpaṃ kartum arhasi)—be firm of heart, O best of men (dṛḍho bhava narottama), whether for Sītā’s sake or for Rāghava’s (sītārthe rāghavārthe vā)!”
+“Such being the case (_evaṃ gate_), O Rāghava, you ought not to give way to anguish (_na santāpaṃ kartum arhasi_)—be firm of heart, O best of men (_dṛḍho bhava narottama_), whether for Sītā’s sake or for Rāghava’s (_sītārthe rāghavārthe vā_)!”
 </details>
 </details>
 
@@ -832,7 +832,7 @@ Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those exceedingly wondrous words spoken by the charioteer (sūtasya paramādbhutam), Lakṣmaṇa attained incomparable joy (praharṣam atulaṃ lebhe) and exclaimed, “Well spoken, well spoken!” (sādhu sādhv iti cābravīt).
+Hearing those exceedingly wondrous words spoken by the charioteer (_sūtasya paramādbhutam_), Lakṣmaṇa attained incomparable joy (_praharṣam atulaṃ lebhe_) and exclaimed, “Well spoken, well spoken!” (_sādhu sādhv iti cābravīt_).
 </details>
 </details>
 
@@ -863,7 +863,7 @@ Hearing those exceedingly wondrous words spoken by the charioteer (sūtasya para
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, as the charioteer and Lakṣmaṇa conversed thus along the road (saṃvadator evaṃ sūta-lakṣmaṇayoḥ pathi), when the sun had set (astam arke gate), the two then took their night’s lodging by the river Keśinī (vāsaṃ keśinyāṃ tāv athoṣatuḥ).
+Then, as the charioteer and Lakṣmaṇa conversed thus along the road (_saṃvadator evaṃ sūta-lakṣmaṇayoḥ pathi_), when the sun had set (_astam arke gate_), the two then took their night’s lodging by the river Keśinī (_vāsaṃ keśinyāṃ tāv athoṣatuḥ_).
 </details>
 </details>
 

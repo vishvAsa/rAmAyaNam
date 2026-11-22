@@ -81,7 +81,7 @@ up and asked her. [3-19-1]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding his sister fallen thus upon the ground, disfigured (virūpām) and drenched in blood (śoṇitokṣitām), the rākṣasa Khara, burning with wrath (krodha-santaptaḥ), questioned her:
+Beholding his sister fallen thus upon the ground, disfigured (_virūpām_) and drenched in blood (_śoṇitokṣitām_), the _rākṣasa_ Khara, burning with wrath (_krodha-santaptaḥ_), questioned her:
 </details>
 </details>
 
@@ -132,7 +132,7 @@ way. [3-19-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Rise now, tell me, and cast off your stupor and agitation (promohaṃ jahi sambhramam); declare clearly by whom you, possessed of such might and beauty (evaṃ-rūpā), have been disfigured!
+“Rise now, tell me, and cast off your stupor and agitation (_promohaṃ jahi sambhramam_); declare clearly by whom you, possessed of such might and beauty (_evaṃ-rūpā_), have been disfigured!
 </details>
 </details>
 
@@ -184,7 +184,7 @@ proximity but slouching down inoffensively. [3-19-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is it that in mere sport (līlayā) prods with the tip of his finger (aṅguly-agreṇa) a motionless, unoffending (anāgasam), fang-venomous black cobra (kṛṣṇa-sarpam āśīviṣam) that has crossed his path?
+“Who is it that in mere sport (_līlayā_) prods with the tip of his finger (_aṅguly-agreṇa_) a motionless, unoffending (_anāgasam_), fang-venomous black cobra (_kṛṣṇa-sarpam āśīviṣam_) that has crossed his path?
 </details>
 </details>
 
@@ -236,7 +236,7 @@ the noose of Time around his own neck. [3-19-4]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Who is it that, tying the noose of Death (kāla-pāśam) around his own neck, does not realize it out of delusion (mohān na budhyate), having today encountered you and drunk the deadliest poison (viṣam uttamam)?
+“Who is it that, tying the noose of Death (_kāla-pāśam_) around his own neck, does not realize it out of delusion (_mohān na budhyate_), having today encountered you and drunk the deadliest poison (_viṣam uttamam_)?
 </details>
 </details>
 
@@ -288,7 +288,7 @@ of Terminator, but to whom you have gone and by whom you are led into this kind 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Endowed with strength and valour (bala-vikrama-sampannā), coursing at will (kāma-gā), and wearing any form at pleasure (kāma-rūpiṇī), by whom have you—who are equal to Death himself (antaka-samā)—been reduced to this plight?
+“Endowed with strength and valour (_bala-vikrama-sampannā_), coursing at will (_kāma-gā_), and wearing any form at pleasure (_kāma-rūpiṇī_), by whom have you—who are equal to Death himself (_antaka-samā_)—been reduced to this plight?
 </details>
 </details>
 
@@ -339,7 +339,7 @@ sages who indeed rendered you shapeless. [3-19-6]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Among gods, gandharvas, spirits (bhūtānām), and high-souled sages, who is this being of mighty valour (mahā-vīryaḥ) that has thus disfigured you?
+“Among gods, _gandharvas_, spirits (_bhūtānām_), and high-souled sages, who is this being of mighty valour (_mahā-vīryaḥ_) that has thus disfigured you?
 </details>
 </details>
 
@@ -401,7 +401,7 @@ the thousand eyed Indra, the controller of demon Paaka. [3-19-7]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Indeed I see no one in the world who would dare do me an injury (vipriyam)—not even thousand-eyed Mahendra, the chastiser of Pāka (pāka-śāsanam), among the immortals!
+“Indeed I see no one in the world who would dare do me an injury (_vipriyam_)—not even thousand-eyed Mahendra, the chastiser of Pāka (_pāka-śāsanam_), among the immortals!
 </details>
 </details>
 
@@ -455,7 +455,7 @@ a swan would drink milk to dregs even if it is mingled in water, duly separating
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Today with my life-ending arrows (mārgaṇaiḥ jīvitāntagaiḥ) I shall extract his vital breaths (prāṇān ādāsye), just as a sārasa swan drinks up milk mixed in water (salile kṣīram āsaktaṃ niṣpibann iva).
+“Today with my life-ending arrows (_mārgaṇaiḥ jīvitāntagaiḥ_) I shall extract his vital breaths (_prāṇān ādāsye_), just as a _sārasa_ swan drinks up milk mixed in water (_salile kṣīram āsaktaṃ niṣpibann iva_).
 </details>
 </details>
 
@@ -509,7 +509,7 @@ and drop him dead in a combat. [3-19-9]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Whose foaming blood (saphenaṃ rudhiram), when he is struck down by me in battle with his vital organs cleft by my arrows (śara-saṅkṛtta-marmaṇaḥ), does the earth (medinī) wish to drink?
+“Whose foaming blood (_saphenaṃ rudhiram_), when he is struck down by me in battle with his vital organs cleft by my arrows (_śara-saṅkṛtta-marmaṇaḥ_), does the earth (_medinī_) wish to drink?
 </details>
 </details>
 
@@ -561,7 +561,7 @@ I slay him in war. [3-19-10]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“From whose body, when he is slain by me in battle, shall the birds (patra-rathāḥ), gathering in flocks (saṅgatāḥ), tear out the flesh (māṃsam utkṛtya) and devour it in glee?
+“From whose body, when he is slain by me in battle, shall the birds (_patra-rathāḥ_), gathering in flocks (_saṅgatāḥ_), tear out the flesh (_māṃsam utkṛtya_) and devour it in glee?
 </details>
 </details>
 
@@ -613,7 +613,7 @@ celestials, evil spirits, or by demons. [3-19-11]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Neither gods, nor gandharvas, nor piśācas, nor rākṣasas shall be able to rescue that wretched creature (kṛpaṇam) once he is assailed by me (mayāpakṛṣṭam) in great battle!
+“Neither gods, nor _gandharvas_, nor _piśācas_, nor _rākṣasas_ shall be able to rescue that wretched creature (_kṛpaṇam_) once he is assailed by me (_mayāpakṛṣṭam_) in great battle!
 </details>
 </details>
 
@@ -665,7 +665,7 @@ and worsted you in the forest." Thus Khara spoke to Shuurpanakha. [3-19-12]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Recovering your senseslittle by little (upalabhya śanaiḥ saṃjñām), you ought to tell me of that insolent villain (durvinītena) by whom you were overpowered and vanquished in the forest!”
+“Recovering your senseslittle by little (_upalabhya śanaiḥ saṃjñām_), you ought to tell me of that insolent villain (_durvinītena_) by whom you were overpowered and vanquished in the forest!”
 </details>
 </details>
 
@@ -724,7 +724,7 @@ words, tearfully. [3-19-13]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing these words of her brother, who was especially enraged (kruddhasya ca viśeṣataḥ), Śūrpaṇakhā then spoke these words choked with tears (sabāṣpam):
+Hearing these words of her brother, who was especially enraged (_kruddhasya ca viśeṣataḥ_), Śūrpaṇakhā then spoke these words choked with tears (_sabāṣpam_):
 </details>
 </details>
 
@@ -755,7 +755,7 @@ Hearing these words of her brother, who was especially enraged (kruddhasya ca vi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Youthful (taruṇau), endowed with beauty (rūpa-sampannau), delicate (sukumārau), yet of mighty strength (mahā-balau), with wide eyes like white lotuses (puṇḍarīka-viśālākṣau), and clad in bark-garments and black buckskin (cīra-kṛṣṇājināmbarau)—
+“Youthful (_taruṇau_), endowed with beauty (_rūpa-sampannau_), delicate (_sukumārau_), yet of mighty strength (_mahā-balau_), with wide eyes like white lotuses (_puṇḍarīka-viśālākṣau_), and clad in bark-garments and black buckskin (_cīra-kṛṣṇājināmbarau_)—
 </details>
 </details>
 
@@ -804,7 +804,7 @@ they are the sons of Dasharatha, namely Rama and Lakshmana. [3-19-14,15]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Subsisting on fruits and roots (phala-mūlāśanau), self-controlled (dāntau), ascetics observing celibate vows (tāpasau brahmacāriṇau), there are two brothers, the sons of Daśaratha, Rāma and Lakṣmaṇa.
+“Subsisting on fruits and roots (_phala-mūlāśanau_), self-controlled (_dāntau_), ascetics observing celibate vows (_tāpasau brahmacāriṇau_), there are two brothers, the sons of Daśaratha, Rāma and Lakṣmaṇa.
 </details>
 </details>
 
@@ -869,7 +869,7 @@ part believes that neither demons nor gods can hurt his race.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Resembling kings of the gandharvas (gandharva-rāja-pratimau) and bearing the marks of royalty (pārthiva-vyañjanānvitau), whether those two are gods or dānavas [or: mortals] I cannot tell for certain (na tarkayitum utsahe).
+“Resembling kings of the _gandharvas_ (_gandharva-rāja-pratimau_) and bearing the marks of royalty (_pārthiva-vyañjanānvitau_), whether those two are gods or _dānavas_ [or: mortals] I cannot tell for certain (_na tarkayitum utsahe_).
 </details>
 </details>
 
@@ -929,7 +929,7 @@ with Ravana after the failure of this Khara and other brothers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“And between those two (tayor madhye) a woman was seen by me there—youthful, endowed with beauty, decked in every ornament (sarvābharaṇa-bhūṣitā), and of slender waist (sumadhyamā).
+“And between those two (_tayor madhye_) a woman was seen by me there—youthful, endowed with beauty, decked in every ornament (_sarvābharaṇa-bhūṣitā_), and of slender waist (_sumadhyamā_).
 </details>
 </details>
 
@@ -998,7 +998,7 @@ twisting the episode towards her side.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“On account of that woman (pramadām adhikṛtya tām), I have been reduced to this plight by both of them acting together (tābhyām ubhābhyāṃ sambhūya), as though I were a helpless, unchaste woman (yathānāthāsatī tathā)!
+“On account of that woman (_pramadām adhikṛtya tām_), I have been reduced to this plight by both of them acting together (_tābhyām ubhābhyāṃ sambhūya_), as though I were a helpless, unchaste woman (_yathānāthāsatī tathā_)!
 </details>
 </details>
 
@@ -1053,7 +1053,7 @@ when they are killed in war. [3-19-19]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I long to drink at the forefront of battle (raṇa-mūrdhani) the foaming blood (saphenaṃ rudhiram) of that crooked-natured woman (tasyāś cānṛju-vṛttāyāḥ) and of those two when they are slain!
+“I long to drink at the forefront of battle (_raṇa-mūrdhani_) the foaming blood (_saphenaṃ rudhiram_) of that crooked-natured woman (_tasyāś cānṛju-vṛttāyāḥ_) and of those two when they are slain!
 </details>
 </details>
 
@@ -1107,7 +1107,7 @@ Shuurpanakha before her brother Khara. [3-19-20]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let this foremost desire of mine (prathamaḥ kāmaḥ) be fulfilled by you in this matter: may I drink the blood of her and of those two in battle (pibeyam aham āhave)!”
+“Let this foremost desire of mine (_prathamaḥ kāmaḥ_) be fulfilled by you in this matter: may I drink the blood of her and of those two in battle (_pibeyam aham āhave_)!”
 </details>
 </details>
 
@@ -1160,7 +1160,7 @@ that Khara vengefully summoned fourteen great mighty demons that are similar to 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While she was speaking thus, enraged Khara commanded (vyādideśa) fourteen rākṣasas of mighty strength, who were equal to Death himself (antakopamān):
+While she was speaking thus, enraged Khara commanded (_vyādideśa_) fourteen _rākṣasas_ of mighty strength, who were equal to Death himself (_antakopamān_):
 </details>
 </details>
 
@@ -1214,7 +1214,7 @@ Thus Khara is ordering the fourteen demons. [3-19-22]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Two mortals equipped with weapons (śastra-sampannau) and clad in bark-garments and black buckskin have entered the dreadful Daṇḍaka forest accompanied by a young woman (pramadayā saha).
+“Two mortals equipped with weapons (_śastra-sampannau_) and clad in bark-garments and black buckskin have entered the dreadful Daṇḍaka forest accompanied by a young woman (_pramadayā saha_).
 </details>
 </details>
 
@@ -1276,7 +1276,7 @@ treacherous woman, and their blood this sister of mine will drink. [3-19-23]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Having slain those two and that wicked woman (tāṃ ca durvṛttām), you must return here (upāvartitum arhatha); and this sister of mine shall drink their blood (teṣāṃ rudhiraṃ pāsyati).
+“Having slain those two and that wicked woman (_tāṃ ca durvṛttām_), you must return here (_upāvartitum arhatha_); and this sister of mine shall drink their blood (_teṣāṃ rudhiraṃ pāsyati_).
 </details>
 </details>
 
@@ -1339,7 +1339,7 @@ indicates 'knowing also; so you know that Seetha, meaning 'be absolved by her' *
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O rākṣasas, go quickly, crush those two by your own might (tau pramathya sva-tejasā), and fulfil this cherished desire (manoratho 'yam iṣṭaḥ) of my sister!
+“O _rākṣasas_, go quickly, crush those two by your own might (_tau pramathya sva-tejasā_), and fulfil this cherished desire (_manoratho &#x27;yam iṣṭaḥ_) of my sister!
 </details>
 </details>
 
@@ -1399,7 +1399,7 @@ may please be seen. Maheshvara Tiirtha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Beholding both those brothers struck down by you in battle, this sister of mine, thrilled and delighted (prahṛṣṭā muditā), shall drink their blood on the battlefield (yudhi).”
+“Beholding both those brothers struck down by you in battle, this sister of mine, thrilled and delighted (_prahṛṣṭā muditā_), shall drink their blood on the battlefield (_yudhi_).”
 </details>
 </details>
 
@@ -1466,7 +1466,7 @@ gone to Panchavati along with Shuurpanakha like black-clouds glided by gales. [3
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus commanded in detail (pratisamādiṣṭāḥ), those fourteen rākṣasas went there together with her, like clouds driven by the wind (ghanā vāteritā iva).
+Thus commanded in detail (_pratisamādiṣṭāḥ_), those fourteen _rākṣasas_ went there together with her, like clouds driven by the wind (_ghanā vāteritā iva_).
 </details>
 </details>
 

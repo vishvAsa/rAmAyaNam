@@ -107,13 +107,13 @@ colour of fire, fighting with maces and iron rods and conspicuous with their gol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Having entered the assembly hall (praviśya sabhām), that king, wretched and supremely afflicted with sorrow (paramaduḥkhitaḥ), sat down upon his foremost throne (niṣasādāsane mukhye), breathing heavily like an enraged lion (siṃhaḥ kruddha iva śvasan).
+**1:** Having entered the assembly hall (_praviśya sabhām_), that king, wretched and supremely afflicted with sorrow (_paramaduḥkhitaḥ_), sat down upon his foremost throne (_niṣasādāsane mukhye_), breathing heavily like an enraged lion (_siṃhaḥ kruddha iva śvasan_).
 
-**2:** And wasted by the calamity of his son (putravyasanakarśitaḥ), Rāvaṇa, though of mighty strength, joined his palms (prāñjaliḥ) and spoke these words to all those army commanders (balamukhyān):
+**2:** And wasted by the calamity of his son (_putravyasanakarśitaḥ_), Rāvaṇa, though of mighty strength, joined his palms (_prāñjaliḥ_) and spoke these words to all those army commanders (_balamukhyān_):
 
-**3:** “Surrounded by the entirety of our elephant and cavalry forces (sarveṇa hasty-aśvena samāvṛtāḥ), and resplendent with multitudes of chariots and foot-soldiers (rathasaṅghaiś ca pādātaiś copāśobhitāḥ), let all of you march forth (niryāntu)!
+**3:** “Surrounded by the entirety of our elephant and cavalry forces (_sarveṇa hasty-aśvena samāvṛtāḥ_), and resplendent with multitudes of chariots and foot-soldiers (_rathasaṅghaiś ca pādātaiś copāśobhitāḥ_), let all of you march forth (_niryāntu_)!
 
-**4:** Surrounding Rāma alone (ekaṃ rāmaṃ parikṣipya), you ought to slay him in battle, showering down torrents of arrows (varṣantaḥ śaravarṣāṇi) like storm-clouds in the rainy season (prāvṛṭkāla ivāmbudāḥ).
+**4:** Surrounding Rāma alone (_ekaṃ rāmaṃ parikṣipya_), you ought to slay him in battle, showering down torrents of arrows (_varṣantaḥ śaravarṣāṇi_) like storm-clouds in the rainy season (_prāvṛṭkāla ivāmbudāḥ_).
 </details>
 </details>
 
@@ -166,7 +166,7 @@ were with sorrow, wailed as follows:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Or else, if he is left with his limbs mangled by you with sharp arrows in the great battle (bhavadbhiḥ śarais tīkṣṇair bhinnagātram), tomorrow I myself shall slay Rāma (śvo nihantāsmi rāmam) while the whole world looks on (lokasya paśyataḥ)!”
+Or else, if he is left with his limbs mangled by you with sharp arrows in the great battle (_bhavadbhiḥ śarais tīkṣṇair bhinnagātram_), tomorrow I myself shall slay Rāma (_śvo nihantāsmi rāmam_) while the whole world looks on (_lokasya paśyataḥ_)!”
 </details>
 </details>
 
@@ -215,7 +215,7 @@ who is charming like the god of love?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Taking up that command (vākyam ādāya) of the lord of Rākṣasas, those Rākṣasas marched forth on swift chariots (niryayus te rathaiḥ śīghraiḥ), accompanied by diverse army divisions (nānānīkaiś ca saṃyutāḥ).
+Taking up that command (_vākyam ādāya_) of the lord of Rākṣasas, those Rākṣasas marched forth on swift chariots (_niryayus te rathaiḥ śīghraiḥ_), accompanied by diverse army divisions (_nānānīkaiś ca saṃyutāḥ_).
 </details>
 </details>
 
@@ -271,7 +271,7 @@ deserved to be condemned by the people, was stung with excessive lust?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Iron-studded bludgeons (parighān), sharp-edged spears (paṭṭiśāṃś caiva), arrows, swords, and battle-axes (śarakhaḍgaparaśvadhān)—all of them life-destroying (śarīrāntakarān)—they hurled at the Vānaras (cikṣipur vānarān prati).
+Iron-studded bludgeons (_parighān_), sharp-edged spears (_paṭṭiśāṃś caiva_), arrows, swords, and battle-axes (_śarakhaḍgaparaśvadhān_)—all of them life-destroying (_śarīrāntakarān_)—they hurled at the Vānaras (_cikṣipur vānarān prati_).
 </details>
 </details>
 
@@ -319,7 +319,7 @@ countenance?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And the Vānaras hurled trees and crags (drumān śailān) at the Rākṣasas. That supremely dreadful battle (sa saṃgrāmo mahābhīmaḥ) toward the rising of the sun (sūryasyodayanaṃ prati)
+And the Vānaras hurled trees and crags (_drumān śailān_) at the Rākṣasas. That supremely dreadful battle (_sa saṃgrāmo mahābhīmaḥ_) toward the rising of the sun (_sūryasyodayanaṃ prati_)
 </details>
 </details>
 
@@ -386,9 +386,9 @@ arrogant with Rama, misdeed which was worth ridiculing and condemned by the whol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**9:** between the Rākṣasas and the Vānaras became a tumultuous melee (tumulaḥ samapadyata). With variegated maces (gadābhiś ca citrābhiḥ), darts, swords, and battle-axes,
+**9:** between the Rākṣasas and the Vānaras became a tumultuous melee (_tumulaḥ samapadyata_). With variegated maces (_gadābhiś ca citrābhiḥ_), darts, swords, and battle-axes,
 
-**10:** the Vānaras and Rākṣasas slew one another in battle (anyonyaṃ samare jaghnuḥ). When the battle had thus commenced, a wondrous and immense cloud of dust (adbhutaṃ sumahad rajaḥ)
+**10:** the Vānaras and Rākṣasas slew one another in battle (_anyonyaṃ samare jaghnuḥ_). When the battle had thus commenced, a wondrous and immense cloud of dust (_adbhutaṃ sumahad rajaḥ_)
 </details>
 </details>
 
@@ -440,7 +440,7 @@ destruction, Ravana the demon brought that Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-raised by the Rākṣasas and Vānaras was laid to rest by the streams of blood (śāntaṃ śoṇitavisravaiḥ). With elephants and chariots for their banks (mātaṅgarathakūlāḥ), arrows for their fishes (śaramatsyāḥ), banners for their trees (dhvajadrumāḥ),
+raised by the Rākṣasas and Vānaras was laid to rest by the streams of blood (_śāntaṃ śoṇitavisravaiḥ_). With elephants and chariots for their banks (_mātaṅgarathakūlāḥ_), arrows for their fishes (_śaramatsyāḥ_), banners for their trees (_dhvajadrumāḥ_),
 </details>
 </details>
 
@@ -495,7 +495,7 @@ built with the mighty Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and floating timber-rafts of corpses (śarīrasaṃghāṭavahāḥ), rivers of blood (śoṇitāpagāḥ) flowed forth. Then all those Vānaras, drenched in torrents of blood (śoṇitaughapariplutāḥ),
+and floating timber-rafts of corpses (_śarīrasaṃghāṭavahāḥ_), rivers of blood (_śoṇitāpagāḥ_) flowed forth. Then all those Vānaras, drenched in torrents of blood (_śoṇitaughapariplutāḥ_),
 </details>
 </details>
 
@@ -549,7 +549,7 @@ yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-leaping again and again in battle (āplutyāplutya samare), those lords of the Vānaras shattered (babhāñjire) banners, armor, chariots, horses, and diverse weapons (dhvajavarmarathān aśvān nānāpraharaṇāni ca).
+leaping again and again in battle (_āplutyāplutya samare_), those lords of the Vānaras shattered (_babhāñjire_) banners, armor, chariots, horses, and diverse weapons (_dhvajavarmarathān aśvān nānāpraharaṇāni ca_).
 </details>
 </details>
 
@@ -614,9 +614,9 @@ sun. That instance should have been sufficient (to open the eyes of Ravana)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** With their sharp teeth and claws (daśanais tīkṣṇair nakhaiś cāpi), the leaping monkeys tore apart (vyakartayan) the hair, ears, foreheads, and noses (keśān karṇalalāṭaṃ ca nāsikāś ca) of the Rākṣasas.
+**14:** With their sharp teeth and claws (_daśanais tīkṣṇair nakhaiś cāpi_), the leaping monkeys tore apart (_vyakartayan_) the hair, ears, foreheads, and noses (_keśān karṇalalāṭaṃ ca nāsikāś ca_) of the Rākṣasas.
 
-**15:** In battle, the foremost Vānaras rushed by the hundred (śataṃ vānarapuṃgavāḥ) upon each single Rākṣasa (ekaikaṃ rākṣasaṃ saṃkhye), just as birds flock to a fruit-bearing tree (phalinaṃ vṛkṣaṃ śakunayo yathā).
+**15:** In battle, the foremost Vānaras rushed by the hundred (_śataṃ vānarapuṃgavāḥ_) upon each single Rākṣasa (_ekaikaṃ rākṣasaṃ saṃkhye_), just as birds flock to a fruit-bearing tree (_phalinaṃ vṛkṣaṃ śakunayo yathā_).
 </details>
 </details>
 
@@ -669,7 +669,7 @@ his food and roaring with anger was killed. That instance should have been suffi
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, with heavy maces (gadābhir gurvībhiḥ), darts, swords, and battle-axes, the mountain-like Rākṣasas (rākṣasāḥ parvatopamāḥ) struck down the formidable Vānaras (nirjaghnur vānarān ghorān).
+Then, with heavy maces (_gadābhir gurvībhiḥ_), darts, swords, and battle-axes, the mountain-like Rākṣasas (_rākṣasāḥ parvatopamāḥ_) struck down the formidable Vānaras (_nirjaghnur vānarān ghorān_).
 </details>
 </details>
 
@@ -721,7 +721,7 @@ the black cloud. That instance should have been sufficient. (To open the eyes of
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being slaughtered by the Rākṣasas (rākṣasair vadhyamānānām), the great army of the Vānaras (vānarāṇāṃ mahācamūḥ) went for refuge to Rāma (śaraṇaṃ yātā rāmam), the son of Daśaratha, the true protector of the refuge-seeking (śaraṇyam).
+Being slaughtered by the Rākṣasas (_rākṣasair vadhyamānānām_), the great army of the Vānaras (_vānarāṇāṃ mahācamūḥ_) went for refuge to Rāma (_śaraṇaṃ yātā rāmam_), the son of Daśaratha, the true protector of the refuge-seeking (_śaraṇyam_).
 </details>
 </details>
 
@@ -774,7 +774,7 @@ the eyes of Ravana)."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon Rāma of great splendor, that heroic one, taking up his bow (dhanur ādāya vīryavān) and entering the Rākṣasa host (praviśya rākṣasaṃ sainyam), rained down a shower of arrows (śaravarṣaṃ vavarṣa ca).
+Thereupon Rāma of great splendor, that heroic one, taking up his bow (_dhanur ādāya vīryavān_) and entering the Rākṣasa host (_praviśya rākṣasaṃ sainyam_), rained down a shower of arrows (_śaravarṣaṃ vavarṣa ca_).
 </details>
 </details>
 
@@ -849,9 +849,9 @@ ground, tormented by sorrow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**19:** As Rāma entered [their ranks] burning them up with the fire of his arrows (nirdahantaṃ śarāgninā), the exceedingly dreadful [Rākṣasas] could not approach him (nādhijagmur mahāghorāḥ), just as clouds in the sky cannot approach the blazing sun (meghāḥ sūryam ivāmbare).
+**19:** As Rāma entered [their ranks] burning them up with the fire of his arrows (_nirdahantaṃ śarāgninā_), the exceedingly dreadful [Rākṣasas] could not approach him (_nādhijagmur mahāghorāḥ_), just as clouds in the sky cannot approach the blazing sun (_meghāḥ sūryam ivāmbare_).
 
-**20:** Those night-roamers (rajanīcarāḥ) beheld in battle only the supremely dreadful and arduous deeds of Rāma (raṇe rāmasya karmāṇy asukarāṇi) after they had already been accomplished by Rāma (kṛtāny eva rāmeṇa)—
+**20:** Those night-roamers (_rajanīcarāḥ_) beheld in battle only the supremely dreadful and arduous deeds of Rāma (_raṇe rāmasya karmāṇy asukarāṇi_) after they had already been accomplished by Rāma (_kṛtāny eva rāmeṇa_)—
 </details>
 </details>
 
@@ -906,7 +906,7 @@ killed by Lakshmana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-shaking the vast army (cālayantaṃ mahāsainyam) and scattering the great chariot-warriors (vidhamantaṃ mahārathān), they did not behold Rāma himself (dadṛśus te na vai rāmam), just as one does not see the wind moving through a forest (vātaṃ vanagataṃ yathā).
+shaking the vast army (_cālayantaṃ mahāsainyam_) and scattering the great chariot-warriors (_vidhamantaṃ mahārathān_), they did not behold Rāma himself (_dadṛśus te na vai rāmam_), just as one does not see the wind moving through a forest (_vātaṃ vanagataṃ yathā_).
 </details>
 </details>
 
@@ -960,7 +960,7 @@ was killed by Lakshmana."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They beheld only their army cleft, split open, scorched by arrows (śarair dagdham), routed, and tormented by weapons by Rāma—not Rāma himself, so swiftly did he act (na rāmaṃ śīghrakāriṇam).
+They beheld only their army cleft, split open, scorched by arrows (_śarair dagdham_), routed, and tormented by weapons by Rāma—not Rāma himself, so swiftly did he act (_na rāmaṃ śīghrakāriṇam_).
 </details>
 </details>
 
@@ -1012,7 +1012,7 @@ the battle. He killed even the foot soldiers too."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Even as he struck at their bodies (praharantaṃ śarīreṣu), they did not see Rāghava (na te paśyanti rāghavam), just as creatures do not perceive the indwelling Self (bhūtātmānam iva prajāḥ) abiding amidst the objects of the senses (indriyārtheṣu tiṣṭhantam).
+Even as he struck at their bodies (_praharantaṃ śarīreṣu_), they did not see Rāghava (_na te paśyanti rāghavam_), just as creatures do not perceive the indwelling Self (_bhūtātmānam iva prajāḥ_) abiding amidst the objects of the senses (_indriyārtheṣu tiṣṭhantam_).
 </details>
 </details>
 
@@ -1064,7 +1064,7 @@ or otherwise Yama, the Lord of Death himself, is killing us."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Here he slays the elephant-corps (eṣa hanti gajānīkam)! Here he slays the great chariot-warriors! Here with sharp arrows he slays the foot-soldiers together with their steeds (padātīn vājibhiḥ saha)!”—
+“Here he slays the elephant-corps (_eṣa hanti gajānīkam_)! Here he slays the great chariot-warriors! Here with sharp arrows he slays the foot-soldiers together with their steeds (_padātīn vājibhiḥ saha_)!”—
 </details>
 </details>
 
@@ -1119,7 +1119,7 @@ lives, failing to see an end to our fear and having become helpless."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Crying thus, all those Rākṣasas in battle, enraged, slew one another (anyonyaṃ kupitā jaghnuḥ)—striking down those who appeared identical to Rāma (rāmasya sadṛśān raṇe) owing to their resemblance to Rāghava (sādṛśyād rāghavasya tu).
+Crying thus, all those Rākṣasas in battle, enraged, slew one another (_anyonyaṃ kupitā jaghnuḥ_)—striking down those who appeared identical to Rāma (_rāmasya sadṛśān raṇe_) owing to their resemblance to Rāghava (_sādṛśyād rāghavasya tu_).
 </details>
 </details>
 
@@ -1174,7 +1174,7 @@ understand this greatly terrific calamity, coming forth from the hand of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Deluded by the supreme Gāndharva missile (mohitāḥ paramāstreṇa gāndharveṇa) of that high-souled one, they did not behold Rāma (na te dadṛśire rāmam) even as he was burning up their host (dahantam api vāhinīm).
+Deluded by the supreme Gāndharva missile (_mohitāḥ paramāstreṇa gāndharveṇa_) of that high-souled one, they did not behold Rāma (_na te dadṛśire rāmam_) even as he was burning up their host (_dahantam api vāhinīm_).
 </details>
 </details>
 
@@ -1227,7 +1227,7 @@ nor the demons are able to protect Ravana, who is about to attack Rama in battle
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At one moment those Rākṣasas behold thousands of Rāmas in battle (rāmasahasrāṇi raṇe paśyanti); at the next moment they behold Kākutstha as but a single warrior (punar paśyanti kākutstham ekam eva) in the great battle!
+At one moment those Rākṣasas behold thousands of Rāmas in battle (_rāmasahasrāṇi raṇe paśyanti_); at the next moment they behold Kākutstha as but a single warrior (_punar paśyanti kākutstham ekam eva_) in the great battle!
 </details>
 </details>
 
@@ -1279,7 +1279,7 @@ each combat. They are indeed telling about the prospective annihilation of Ravan
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They beheld only the whirling golden tip of the bow (bhramantīṃ kāñcanīṃ koṭiṃ kārmukasya) of that high-souled hero, resembling a circling wheel of firebrands (alātacakrapratimām)—not Rāghava himself.
+They beheld only the whirling golden tip of the bow (_bhramantīṃ kāñcanīṃ koṭiṃ kārmukasya_) of that high-souled hero, resembling a circling wheel of firebrands (_alātacakrapratimām_)—not Rāghava himself.
 </details>
 </details>
 
@@ -1335,7 +1335,7 @@ beings."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having his body for its nave (śarīranābhi), his martial courage for its blazing flame (sattvārciḥ), his arrows for its spokes (śarāram), his bow for its felly (nemikārmukam), the twang of his bowstring and slap of his arm-guard for its thunderous rumble (jyāghoṣatalanirghoṣam), and the excellence of his splendor and intellect for its radiance (tejobuddhiguṇaprabham)—
+Having his body for its nave (_śarīranābhi_), his martial courage for its blazing flame (_sattvārciḥ_), his arrows for its spokes (_śarāram_), his bow for its felly (_nemikārmukam_), the twang of his bowstring and slap of his arm-guard for its thunderous rumble (_jyāghoṣatalanirghoṣam_), and the excellence of his splendor and intellect for its radiance (_tejobuddhiguṇaprabham_)—
 </details>
 </details>
 
@@ -1396,7 +1396,7 @@ end to the lives for the demons and for Ravana too. There is no doubt about it."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and having the power of divine missiles for its outer edge (divyāstraguṇaparyantam)—creatures beheld that Wheel of Rāma (dadṛśū rāmacakraṃ tat) slaying the Rākṣasas in battle, like the very Wheel of Time (kālacakram iva prajāḥ).
+and having the power of divine missiles for its outer edge (_divyāstraguṇaparyantam_)—creatures beheld that Wheel of Rāma (_dadṛśū rāmacakraṃ tat_) slaying the Rākṣasas in battle, like the very Wheel of Time (_kālacakram iva prajāḥ_).
 </details>
 </details>
 
@@ -1442,7 +1442,7 @@ bestowed on him, worshipped Brahma the lord of creation with their glowing auste
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A host of ten thousand (anīkaṃ daśasāhasram) chariots swift as the wind (rathānāṃ vātaraṃhasām), eighteen thousand (aṣṭādaśa sahasrāṇi) impetuous elephants (kuñjarāṇāṃ tarasvinām),
+A host of ten thousand (_anīkaṃ daśasāhasram_) chariots swift as the wind (_rathānāṃ vātaraṃhasām_), eighteen thousand (_aṣṭādaśa sahasrāṇi_) impetuous elephants (_kuñjarāṇāṃ tarasvinām_),
 </details>
 </details>
 
@@ -1494,7 +1494,7 @@ the following words to them:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-fourteen thousand (caturdaśa sahasrāṇi) steeds with their riders (sārohāṇāṃ ca vājinām), and two full hundred-thousands (pūrṇe śatasahasre dve) of Rākṣasa foot-soldiers (rākṣasānāṃ padātinām)—
+fourteen thousand (_caturdaśa sahasrāṇi_) steeds with their riders (_sārohāṇāṃ ca vājinām_), and two full hundred-thousands (_pūrṇe śatasahasre dve_) of Rākṣasa foot-soldiers (_rākṣasānāṃ padātinām_)—
 </details>
 </details>
 
@@ -1543,7 +1543,7 @@ be wandering always in the three worlds."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-all these belonging to the shape-shifting Rākṣasas (rakṣasāṃ kāmarūpiṇām) were slain by Rāma alone (hatāny ekena rāmeṇa) within the eighth part of a day (divasasyāṣṭabhāgena) with arrows resembling tongues of fire (śarair agniśikhopamaiḥ).
+all these belonging to the shape-shifting Rākṣasas (_rakṣasāṃ kāmarūpiṇām_) were slain by Rāma alone (_hatāny ekena rāmeṇa_) within the eighth part of a day (_divasasyāṣṭabhāgena_) with arrows resembling tongues of fire (_śarair agniśikhopamaiḥ_).
 </details>
 </details>
 
@@ -1597,7 +1597,7 @@ cities built of gold, silver and iron in the sky, air and earth for demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their horses slain, their chariots shattered (hatāśvā hatarathāḥ), exhausted, and their banners crushed (vimathitadhvajāḥ), those surviving night-roamers (hataśeṣā niśācarāḥ) rushed back into the city of Laṅkā (abhipetuḥ purīṃ laṅkām).
+With their horses slain, their chariots shattered (_hatāśvā hatarathāḥ_), exhausted, and their banners crushed (_vimathitadhvajāḥ_), those surviving night-roamers (_hataśeṣā niśācarāḥ_) rushed back into the city of Laṅkā (_abhipetuḥ purīṃ laṅkām_).
 </details>
 </details>
 
@@ -1658,7 +1658,7 @@ a woman will be born, for causing destruction of the demons.'"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Strewn with slain elephants, foot-soldiers, and horses (hatair gajapadātyaśvaiḥ), that battlefield (tad raṇājiram) became like the sporting ground (ākrīḍabhūmiḥ) of the wrathful, high-souled Rudra (kruddhasya rudrasyeva mahātmanaḥ).
+Strewn with slain elephants, foot-soldiers, and horses (_hatair gajapadātyaśvaiḥ_), that battlefield (_tad raṇājiram_) became like the sporting ground (_ākrīḍabhūmiḥ_) of the wrathful, high-souled Rudra (_kruddhasya rudrasyeva mahātmanaḥ_).
 </details>
 </details>
 
@@ -1711,7 +1711,7 @@ along with Ravana, as in the past hunger consumed the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the gods together with the Gandharvas, the Siddhas, and the supreme sages (siddhāś ca paramarṣayaḥ) acclaimed that feat of Rāma (rāmasya tat karma samapūjayan), crying, “Well done! Well done (sādhu sādhv iti)!”
+Then the gods together with the Gandharvas, the Siddhas, and the supreme sages (_siddhāś ca paramarṣayaḥ_) acclaimed that feat of Rāma (_rāmasya tat karma samapūjayan_), crying, “Well done! Well done (_sādhu sādhv iti_)!”
 </details>
 </details>
 
@@ -1758,7 +1758,7 @@ disposition of mind, this terrific havoc with grief occurred."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the righteous-souled Rāma spoke to Sugrīva, who stood right beside him (sugrīvaṃ pratyanantaram), and to Vibhīṣaṇa, and to the Vānara Hanūmān,
+Thereupon the righteous-souled Rāma spoke to Sugrīva, who stood right beside him (_sugrīvaṃ pratyanantaram_), and to Vibhīṣaṇa, and to the Vānara Hanūmān,
 </details>
 </details>
 
@@ -1805,7 +1805,7 @@ universe. We do not find any one now, who can give protection to us in this worl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-and to Jāmbavān, the foremost of monkeys (hariśreṣṭham), and to Mainda and Dvivida as well: “This divine power of missiles (etad astrabalaṃ divyam) belongs either to me or to the three-eyed Rudra [Tryambaka] (mama vā tryambakasya vā)!”
+and to Jāmbavān, the foremost of monkeys (_hariśreṣṭham_), and to Mainda and Dvivida as well: “This divine power of missiles (_etad astrabalaṃ divyam_) belongs either to me or to the three-eyed Rudra [Tryambaka] (_mama vā tryambakasya vā_)!”
 </details>
 </details>
 
@@ -1860,7 +1860,7 @@ no shelter for female-elephants, enveloped by a wild fire in a forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having annihilated that army of the king of Rākṣasas (nihatya tāṃ rākṣasarājavāhinīm), the high-souled Rāma, equal to Śakra and victorious over all fatigue in the use of missiles and weapons (astreṣu śastreṣu jitaklamaś ca), is praised in song by the rejoicing hosts of gods (saṃstūyate devagaṇaiḥ prahṛṣṭaiḥ).
+Having annihilated that army of the king of Rākṣasas (_nihatya tāṃ rākṣasarājavāhinīm_), the high-souled Rāma, equal to Śakra and victorious over all fatigue in the use of missiles and weapons (_astreṣu śastreṣu jitaklamaś ca_), is praised in song by the rejoicing hosts of gods (_saṃstūyate devagaṇaiḥ prahṛṣṭaiḥ_).
 </details>
 </details>
 

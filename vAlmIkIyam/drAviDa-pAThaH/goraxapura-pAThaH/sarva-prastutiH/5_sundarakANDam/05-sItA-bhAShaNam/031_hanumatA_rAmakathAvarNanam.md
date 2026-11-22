@@ -86,7 +86,7 @@ range of Seetha.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having pondered such manifold reflections (bahu-vidhāṃ cintām), high-minded Hanūmān (mahā-matiḥ) spoke sweet words (madhuraṃ vākyam) within the clear hearing range of Vaidehī.
+Having pondered such manifold reflections (_bahu-vidhāṃ cintām_), high-minded Hanūmān (_mahā-matiḥ_) spoke sweet words (_madhuraṃ vākyam_) within the clear hearing range of Vaidehī.
 </details>
 </details>
 
@@ -141,7 +141,7 @@ had a virtuous disposition. He owned chariots, elephants and horses, becoming ve
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There was a king named Daśaratha, rich in chariots, elephants, and steeds (ratha-kuñjara-vājimān), of virtuous conduct and mighty renown, the illustrious glory of the Ikṣvākus.
+“There was a king named Daśaratha, rich in chariots, elephants, and steeds (_ratha-kuñjara-vājimān_), of virtuous conduct and mighty renown, the illustrious glory of the Ikṣvākus.
 </details>
 </details>
 
@@ -187,7 +187,7 @@ was born in the lineage of emperors and was equivalent to Indra in prowess."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Foremost in virtues among royal sages (rājarṣīṇāṃ guṇa-śreṣṭhaḥ) and equal to the seers in austerity, he was born in a lineage of universal emperors and matched Purandara [Indra] in strength.
+Foremost in virtues among royal sages (_rājarṣīṇāṃ guṇa-śreṣṭhaḥ_) and equal to the seers in austerity, he was born in a lineage of universal emperors and matched Purandara [Indra] in strength.
 </details>
 </details>
 
@@ -273,9 +273,9 @@ and gave happiness to others."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** Delighting in non-injury (ahiṃsā-ratiḥ), free from meanness, compassionate (ghṛṇī), and of true valor, he was the fortune-endowed enhancer of fortune for the preeminent Ikṣvāku race.
+**4:** Delighting in non-injury (_ahiṃsā-ratiḥ_), free from meanness, compassionate (_ghṛṇī_), and of true valor, he was the fortune-endowed enhancer of fortune for the preeminent Ikṣvāku race.
 
-**5:** Endowed with all royal marks (pārthiva-vyañjanair yuktaḥ), of vast prosperity, that bull among kings was renowned throughout the four-ocean-bounded earth (pṛthivyāṃ catur-antāyām), a bestower of happiness and happy himself.
+**5:** Endowed with all royal marks (_pārthiva-vyañjanair yuktaḥ_), of vast prosperity, that bull among kings was renowned throughout the four-ocean-bounded earth (_pṛthivyāṃ catur-antāyām_), a bestower of happiness and happy himself.
 </details>
 </details>
 
@@ -328,7 +328,7 @@ He, knows the distinctions among humans and others. He was excellent among all t
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-His beloved eldest son, with a countenance resembling the moon, lord of stars (tārādhipa-nibhānanaḥ), is named Rāma—discerning in every excellence (viśeṣa-jñaḥ) and foremost among all wielders of the bow.
+His beloved eldest son, with a countenance resembling the moon, lord of stars (_tārādhipa-nibhānanaḥ_), is named Rāma—discerning in every excellence (_viśeṣa-jñaḥ_) and foremost among all wielders of the bow.
 </details>
 </details>
 
@@ -389,7 +389,7 @@ own people, a protector of every living being and a protector of righteousness."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-He is the protector of his own righteous conduct (rakṣitā svasya vṛttasya), the protector of his own kinsfolk as well, the protector of the world of living beings, and the protector of dharma, that tormentor of foes (paraṃ-tapaḥ).
+He is the protector of his own righteous conduct (_rakṣitā svasya vṛttasya_), the protector of his own kinsfolk as well, the protector of the world of living beings, and the protector of _dharma_, that tormentor of foes (_paraṃ-tapaḥ_).
 </details>
 </details>
 
@@ -445,7 +445,7 @@ went on exile to a forest along with his wife and brother."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the command of that aged father who was true to his solemn pledge (satyābhisaṃdhasya), the hero went forth into exile in the forest (pravrajito vanam) accompanied by his wife and his brother [Lakṣmaṇa].
+At the command of that aged father who was true to his solemn pledge (_satyābhisaṃdhasya_), the hero went forth into exile in the forest (_pravrajito vanam_) accompanied by his wife and his brother [Lakṣmaṇa].
 </details>
 </details>
 
@@ -497,7 +497,7 @@ any form at will."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By him, while ranging in pursuit of the hunt (mṛgayāṃ paridhāvatā) in that great wilderness, many valiant, shape-shifting rākṣasas (kāma-rūpiṇaḥ) were slain.
+By him, while ranging in pursuit of the hunt (_mṛgayāṃ paridhāvatā_) in that great wilderness, many valiant, shape-shifting _rākṣasas_ (_kāma-rūpiṇaḥ_) were slain.
 </details>
 </details>
 
@@ -533,7 +533,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing of the slaughter in Janasthāna (janasthāna-vadhaṃ śrutvā) and that Khara and Dūṣaṇa had been slain, Jānakī was then abducted by Rāvaṇa out of vengeful fury (amarṣāpahṛtā),
+Hearing of the slaughter in Janasthāna (_janasthāna-vadhaṃ śrutvā_) and that Khara and Dūṣaṇa had been slain, Jānakī was then abducted by Rāvaṇa out of vengeful fury (_amarṣāpahṛtā_),
 </details>
 </details>
 
@@ -583,7 +583,7 @@ in the forest."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-after he had deceived Rāma in the forest through illusion in the form of a deer (mṛga-rūpeṇa māyayā). Searching for that blameless lady Sītā (mārgamāṇas tāṃ devīm), Rāma—
+after he had deceived Rāma in the forest through illusion in the form of a deer (_mṛga-rūpeṇa māyayā_). Searching for that blameless lady Sītā (_mārgamāṇas tāṃ devīm_), Rāma—
 </details>
 </details>
 
@@ -641,7 +641,7 @@ that kingdom of monkeys to Sugreeva."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-met in the forest an ally, a monkey named Sugrīva (sugrīvaṃ nāma vānaram). Then, having slain Vālin, Rāma, the conqueror of enemy citadels (para-puraṃjayaḥ),
+met in the forest an ally, a monkey named Sugrīva (_sugrīvaṃ nāma vānaram_). Then, having slain Vālin, Rāma, the conqueror of enemy citadels (_para-puraṃjayaḥ_),
 </details>
 </details>
 
@@ -715,7 +715,7 @@ are searching for that lady Seetha in all quarters of the earth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-bestowed the kingship of the monkeys (kapi-rājyaṃ tu) upon high-souled Sugrīva. Dispatched by Sugrīva (sugrīveṇābhisaṃdiṣṭāḥ), the shape-shifting monkeys,
+bestowed the kingship of the monkeys (_kapi-rājyaṃ tu_) upon high-souled Sugrīva. Dispatched by Sugrīva (_sugrīveṇābhisaṃdiṣṭāḥ_), the shape-shifting monkeys,
 </details>
 </details>
 
@@ -770,7 +770,7 @@ for the sake of this broad eyed Seetha."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-in their thousands, have been searching for that royal lady in all directions (dikṣu sarvāsu). And I, at the word of Sampāti (sampāti-vacanāt), across the hundred-yojana-wide
+in their thousands, have been searching for that royal lady in all directions (_dikṣu sarvāsu_). And I, at the word of Sampāti (_sampāti-vacanāt_), across the hundred-_yojana_-wide
 </details>
 </details>
 
@@ -856,9 +856,9 @@ Having spoken these words, Hanuma kept quiet. Hearing those words, Seetha too go
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**15:** ocean, swiftly leaped (vegavān plutaḥ) for the sake of that wide-eyed lady (tasyā hetor viśālākṣyāḥ). Endowed with such form, such complexion, and such auspicious marks (yathā-lakṣmavatīṃ ca tām)
+**15:** ocean, swiftly leaped (_vegavān plutaḥ_) for the sake of that wide-eyed lady (_tasyā hetor viśālākṣyāḥ_). Endowed with such form, such complexion, and such auspicious marks (_yathā-lakṣmavatīṃ ca tām_)
 
-**16:** as I heard of her from Rāghava (aśrauṣaṃ rāghavasyāham), that very lady has now been found by me (seyam āsāditā mayā).” Having spoken these words, that bull among monkeys fell silent (virarāma).
+**16:** as I heard of her from Rāghava (_aśrauṣaṃ rāghavasyāham_), that very lady has now been found by me (_seyam āsāditā mayā_).” Having spoken these words, that bull among monkeys fell silent (_virarāma_).
 </details>
 </details>
 
@@ -920,7 +920,7 @@ curved and who was of a fearful nature, lifted her face and looked towards Shims
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that, Jānakī too was filled with supreme wonder (vismayaṃ paramaṃ gatā). Then that timid lady (bhīruḥ), of fair tresses with curling tips (vakra-keśāntā sukeśī), raising her hair-veiled face, gazed up along the śiṃśapā tree.
+Hearing that, Jānakī too was filled with supreme wonder (_vismayaṃ paramaṃ gatā_). Then that timid lady (_bhīruḥ_), of fair tresses with curling tips (_vakra-keśāntā sukeśī_), raising her hair-veiled face, gazed up along the _śiṃśapā_ tree.
 </details>
 </details>
 
@@ -971,7 +971,7 @@ in all ways and obtained a great joy.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having heard the monkey’s speech and scanned all directions and intermediate quarters (diśaś ca sarvāḥ pradiśaś ca vīkṣya), Sītā herself attained supreme joy (praharṣaṃ paramaṃ jagāma), remembering Rāma with all her soul.
+Having heard the monkey’s speech and scanned all directions and intermediate quarters (_diśaś ca sarvāḥ pradiśaś ca vīkṣya_), Sītā herself attained supreme joy (_praharṣaṃ paramaṃ jagāma_), remembering Rāma with all her soul.
 </details>
 </details>
 
@@ -1047,7 +1047,7 @@ intelligence, the minister of Sugreeva and looking like the sun behind an easter
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Gazing sideways, upward, and even downward (tiryag ūrdhvaṃ ca tathā hy adhastāt), she beheld him of unfathomable intellect (acintya-buddhim)—the minister of the lord of tawny monkeys, the son of the Wind-god, shining like the sun upon the eastern mountain of dawn (sūryam ivodayastham).
+Gazing sideways, upward, and even downward (_tiryag ūrdhvaṃ ca tathā hy adhastāt_), she beheld him of unfathomable intellect (_acintya-buddhim_)—the minister of the lord of tawny monkeys, the son of the Wind-god, shining like the sun upon the eastern mountain of dawn (_sūryam ivodayastham_).
 </details>
 </details>
 

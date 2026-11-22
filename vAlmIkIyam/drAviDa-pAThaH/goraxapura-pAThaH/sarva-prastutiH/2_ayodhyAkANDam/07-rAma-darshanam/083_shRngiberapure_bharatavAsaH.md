@@ -85,7 +85,7 @@ desire to see Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising at daybreak and mounting an excellent chariot (tataḥ samutthitaḥ kālyam āsthāya syandanottamam), Bharata set forth swiftly out of eagerness to behold Rāma (prayayau bharataḥ śīghraṃ rāma-darśana-kāṅkṣayā).
+Rising at daybreak and mounting an excellent chariot (_tataḥ samutthitaḥ kālyam āsthāya syandanottamam_), Bharata set forth swiftly out of eagerness to behold Rāma (_prayayau bharataḥ śīghraṃ rāma-darśana-kāṅkṣayā_).
 </details>
 </details>
 
@@ -140,7 +140,7 @@ of the sun, and went ahead of Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Before him went all his ministers and family priests, having mounted horse-drawn chariots that resembled the chariot of the sun (agrataḥ prayayus tasya sarve mantri-purodhasaḥ adhiruhya hayair yuktān rathān sūrya-rathopamān).
+Before him went all his ministers and family priests, having mounted horse-drawn chariots that resembled the chariot of the sun (_agrataḥ prayayus tasya sarve mantri-purodhasaḥ adhiruhya hayair yuktān rathān sūrya-rathopamān_).
 </details>
 </details>
 
@@ -192,7 +192,7 @@ Ikshvaku dynasty, on his journey.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Nine thousand elephants, caparisoned according to rule, followed Bharata, the delighter of the race of the Ikṣvākus, as he marched (nava-nāga-sahasrāṇi kalpitāni yathā-vidhi anvayur bharataṃ yāntam ikṣvāku-kula-nandanam).
+Nine thousand elephants, caparisoned according to rule, followed Bharata, the delighter of the race of the Ikṣvākus, as he marched (_nava-nāga-sahasrāṇi kalpitāni yathā-vidhi anvayur bharataṃ yāntam ikṣvāku-kula-nandanam_).
 </details>
 </details>
 
@@ -247,7 +247,7 @@ kinds, followed the illustrious prince Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sixty thousand chariots and bowmen bearing weapons of every kind followed the illustrious prince Bharata as he proceeded (ṣaṣṭī ratha-sahasrāṇi dhanvino vividhāyudhāḥ anvayur bharataṃ yāntaṃ rāja-putraṃ yaśasvinam).
+Sixty thousand chariots and bowmen bearing weapons of every kind followed the illustrious prince Bharata as he proceeded (_ṣaṣṭī ratha-sahasrāṇi dhanvino vividhāyudhāḥ anvayur bharataṃ yāntaṃ rāja-putraṃ yaśasvinam_).
 </details>
 </details>
 
@@ -299,7 +299,7 @@ who was true to his promise and who subdued his senses.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-A hundred thousand horses mounted by horsemen followed the illustrious prince Bharata, the descendant of Raghu, as he marched (śataṃ sahasrāṇy aśvānāṃ samārūḍhāni rāghavam anvayur bharataṃ yāntaṃ rāja-putraṃ yaśasvinam).
+A hundred thousand horses mounted by horsemen followed the illustrious prince Bharata, the descendant of Raghu, as he marched (_śataṃ sahasrāṇy aśvānāṃ samārūḍhāni rāghavam anvayur bharataṃ yāntaṃ rāja-putraṃ yaśasvinam_).
 </details>
 </details>
 
@@ -353,7 +353,7 @@ delighted as they were at the thought of Rama's return.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Kaikeyī, Sumitrā, and the illustrious Kausalyā, rejoicing at the prospect of bringing Rāma back, went in a radiant conveyance (kaikeyī ca sumitrā ca kausalyā ca yaśasvinī rāmānayana-saṃhṛṣṭā yayur yānena bhāsvatā).
+And Kaikeyī, Sumitrā, and the illustrious Kausalyā, rejoicing at the prospect of bringing Rāma back, went in a radiant conveyance (_kaikeyī ca sumitrā ca kausalyā ca yaśasvinī rāmānayana-saṃhṛṣṭā yayur yānena bhāsvatā_).
 </details>
 </details>
 
@@ -414,7 +414,7 @@ again as also Lakshmana, recounting the marvelous exploits of that hero to each 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And hosts of noble elders set out with joyful hearts to behold Rāma together with Lakṣmaṇa, recounting wondrous tales of him alone (prayātāś cārya-saṅghātā rāmaṃ draṣṭuṃ sa-lakṣmaṇam tasyaiva ca kathāś citrāḥ kurvāṇā hṛṣṭa-mānasāḥ):
+And hosts of noble elders set out with joyful hearts to behold Rāma together with Lakṣmaṇa, recounting wondrous tales of him alone (_prayātāś cārya-saṅghātā rāmaṃ draṣṭuṃ sa-lakṣmaṇam tasyaiva ca kathāś citrāḥ kurvāṇā hṛṣṭa-mānasāḥ_):
 </details>
 </details>
 
@@ -461,7 +461,7 @@ is unshakable, of inflexible purpose Rama, who banished sorrow from the earth?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“When shall we behold Rāma, dark as a rain-cloud, mighty-armed, of steadfast courage and firm vows, the dispeller of the world’s grief (megha-śyāmaṃ mahā-bāhuṃ sthira-sattvaṃ dṛḍha-vratam kadā drakṣyāmahe rāmaṃ jagataḥ śoka-nāśanam)?
+“When shall we behold Rāma, dark as a rain-cloud, mighty-armed, of steadfast courage and firm vows, the dispeller of the world’s grief (_megha-śyāmaṃ mahā-bāhuṃ sthira-sattvaṃ dṛḍha-vratam kadā drakṣyāmahe rāmaṃ jagataḥ śoka-nāśanam_)?
 </details>
 </details>
 
@@ -513,7 +513,7 @@ entire earth is dispelled at the rising of the sun."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For the very moment he is seen, Rāghava will drive away our grief, just as the rising sun dispels the darkness of the entire world (dṛṣṭa eva hi naḥ śokam apaneṣyati rāghavaḥ tamaḥ sarvasya lokasya samudyann iva bhāskaraḥ).”
+For the very moment he is seen, Rāghava will drive away our grief, just as the rising sun dispels the darkness of the entire world (_dṛṣṭa eva hi naḥ śokam apaneṣyati rāghavaḥ tamaḥ sarvasya lokasya samudyann iva bhāskaraḥ_).”
 </details>
 </details>
 
@@ -565,7 +565,7 @@ embraced each other as they went along.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Recounting auspicious tales in this manner and filled with joy, the citizens marched on, embracing one another (ity evaṃ kathayantas te samprahṛṣṭāḥ kathāḥ śubhāḥ pariṣvajānāś cānyonyaṃ yayur nāgarikā janāḥ).
+Recounting auspicious tales in this manner and filled with joy, the citizens marched on, embracing one another (_ity evaṃ kathayantas te samprahṛṣṭāḥ kathāḥ śubhāḥ pariṣvajānāś cānyonyaṃ yayur nāgarikā janāḥ_).
 </details>
 </details>
 
@@ -617,7 +617,7 @@ merrily to join Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And all the others there—the esteemed elders, the merchants, and all the guilds of subjects—marched joyfully toward Rāma (ye ca tatrāpare sarve sammatā ye ca naigamāḥ rāmaṃ prati yayur hṛṣṭāḥ sarvāḥ prakṛtayas tathā):
+And all the others there—the esteemed elders, the merchants, and all the guilds of subjects—marched joyfully toward Rāma (_ye ca tatrāpare sarve sammatā ye ca naigamāḥ rāmaṃ prati yayur hṛṣṭāḥ sarvāḥ prakṛtayas tathā_):
 </details>
 </details>
 
@@ -745,15 +745,15 @@ in sacred scriptures and riding on bullock-carts, accompanied Bharata.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**12:** whatever gem-polishers there were, and skillful potters, weavers of thread, and those who lived by the craft of weaponry (maṇi-kārāś ca ye kecit kumbha-kārāś ca śobhanāḥ sūtra-karma-kṛtaś caiva ye ca śastropajīvinaḥ);
+**12:** whatever gem-polishers there were, and skillful potters, weavers of thread, and those who lived by the craft of weaponry (_maṇi-kārāś ca ye kecit kumbha-kārāś ca śobhanāḥ sūtra-karma-kṛtaś caiva ye ca śastropajīvinaḥ_);
 
-**13:** peacock-feather workers, sawyers, burnishers, and gem-piercers, as well as ivory-carvers, lime-plasterers, and dealers in perfumes (mayūrakāḥ krākacikā rocakā vedhakās tathā danta-kārāḥ sudhā-kārās tathā gandhopajīvinaḥ);
+**13:** peacock-feather workers, sawyers, burnishers, and gem-piercers, as well as ivory-carvers, lime-plasterers, and dealers in perfumes (_mayūrakāḥ krākacikā rocakā vedhakās tathā danta-kārāḥ sudhā-kārās tathā gandhopajīvinaḥ_);
 
-**14:** renowned goldsmiths and blanket-cleaners, warm-water bath-attendants, physicians, incense-burners, and vintners (suvarṇa-kārāḥ prakhyātās tathā kambala-dhāvakāḥ snāpakoṣṇodakā vaidyā dhūpakāḥ śauṇḍikās tathā);
+**14:** renowned goldsmiths and blanket-cleaners, warm-water bath-attendants, physicians, incense-burners, and vintners (_suvarṇa-kārāḥ prakhyātās tathā kambala-dhāvakāḥ snāpakoṣṇodakā vaidyā dhūpakāḥ śauṇḍikās tathā_);
 
-**15:** washermen, tailors, headmen of villages and cowherd-hamlets, actors accompanied by their womenfolk, and fishermen as well marched forth (rajakās tunna-vāyāś ca grāma-ghoṣa-mahattarāḥ śailūṣāś ca saha strībhir yayuḥ kaivartakās tathā).
+**15:** washermen, tailors, headmen of villages and cowherd-hamlets, actors accompanied by their womenfolk, and fishermen as well marched forth (_rajakās tunna-vāyāś ca grāma-ghoṣa-mahattarāḥ śailūṣāś ca saha strībhir yayuḥ kaivartakās tathā_).
 
-**16:** Self-composed Brāhmaṇas learned in the Vedas and esteemed for their conduct followed Bharata by the thousands in bullock-drawn carts as he marched (samāhitā veda-vido brāhmaṇā vṛtta-sammatāḥ go-rathair bharataṃ yāntam anujagmuḥ sahasraśaḥ).
+**16:** Self-composed Brāhmaṇas learned in the Vedas and esteemed for their conduct followed Bharata by the thousands in bullock-drawn carts as he marched (_samāhitā veda-vido brāhmaṇā vṛtta-sammatāḥ go-rathair bharataṃ yāntam anujagmuḥ sahasraśaḥ_).
 </details>
 </details>
 
@@ -809,7 +809,7 @@ mounted on various kinds of vehicles, followed Bharata tranquilly.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Well-attired, clad in pure garments, and anointed with red sandal-unguent, all of them slowly followed Bharata in conveyances of diverse kinds (su-veṣāḥ śuddha-vasanās tāmra-mṛṣṭānulepanāḥ sarve te vividhair yānaiḥ śanair bharatam anvayuḥ).
+Well-attired, clad in pure garments, and anointed with red sandal-unguent, all of them slowly followed Bharata in conveyances of diverse kinds (_su-veṣāḥ śuddha-vasanās tāmra-mṛṣṭānulepanāḥ sarve te vividhair yānaiḥ śanair bharatam anvayuḥ_).
 </details>
 </details>
 
@@ -874,7 +874,7 @@ brother, Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Filled with thrilled delight and inner joy, that army followed Kaikeyī’s son—† Bharata, devoted to his brother, who was marching to bring his brother back (prahṛṣṭa-muditā senā sānvayāt kaikayī-sutam bhrātur ānayane yāntaṃ bharataṃ bhrātṛ-vatsalam).
+Filled with thrilled delight and inner joy, that army followed Kaikeyī’s son—† Bharata, devoted to his brother, who was marching to bring his brother back (_prahṛṣṭa-muditā senā sānvayāt kaikayī-sutam bhrātur ānayane yāntaṃ bharataṃ bhrātṛ-vatsalam_).
 </details>
 </details>
 
@@ -905,7 +905,7 @@ Filled with thrilled delight and inner joy, that army followed Kaikeyī’s son�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having traversed a long distance with chariots, litters, horses, and elephants, they then reached the Gaṅgā near Śṛṅgaverapura (te gatvā dūram adhvānaṃ ratha-yānāśva-kuñjaraiḥ samāsedus tato gaṅgāṃ śṛṅgīberapuraṃ prati),
+Having traversed a long distance with chariots, litters, horses, and elephants, they then reached the Gaṅgā near Śṛṅgaverapura (_te gatvā dūram adhvānaṃ ratha-yānāśva-kuñjaraiḥ samāsedus tato gaṅgāṃ śṛṅgīberapuraṃ prati_),
 </details>
 </details>
 
@@ -957,7 +957,7 @@ carefully.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-where the heroic Guha, Rāma’s friend, surrounded by his kinsmen-troops, dwells vigilantly, protecting that region (yatra rāma-sakho vīro guho jñāti-gaṇair vṛtaḥ nivasaty apramādena deśaṃ taṃ paripālayan).
+where the heroic Guha, Rāma’s friend, surrounded by his kinsmen-troops, dwells vigilantly, protecting that region (_yatra rāma-sakho vīro guho jñāti-gaṇair vṛtaḥ nivasaty apramādena deśaṃ taṃ paripālayan_).
 </details>
 </details>
 
@@ -1013,7 +1013,7 @@ Chakra bird: zoological name= Anas casarca.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Approaching the bank of the Gaṅgā adorned with cakravāka birds (upetya tīraṃ gaṅgāyāś cakravākair alaṅkṛtam), that army following Bharata came to a halt (vyavātiṣṭhata sā senā bharatasyānuyāyinī).
+Approaching the bank of the Gaṅgā adorned with _cakravāka_ birds (_upetya tīraṃ gaṅgāyāś cakravākair alaṅkṛtam_), that army following Bharata came to a halt (_vyavātiṣṭhata sā senā bharatasyānuyāyinī_).
 </details>
 </details>
 
@@ -1069,7 +1069,7 @@ propitious waters, Bharata who was skillful in words, spoke to all his officers 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surveying the army that had followed him and the Gaṅgā of auspicious waters, Bharata, skilled in speech, spoke to all his ministers (nirīkṣyānugatāṃ senāṃ tāṃ ca gaṅgāṃ śivodakām bharataḥ sacivān sarvān abravīd vākya-kovidaḥ):
+Surveying the army that had followed him and the Gaṅgā of auspicious waters, Bharata, skilled in speech, spoke to all his ministers (_nirīkṣyānugatāṃ senāṃ tāṃ ca gaṅgāṃ śivodakām bharataḥ sacivān sarvān abravīd vākya-kovidaḥ_):
 </details>
 </details>
 
@@ -1129,7 +1129,7 @@ we shall cross the river tomorrow."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Encamp my army on every side according to their wish (niveśayata me sainyam abhiprāyeṇa sarvataḥ); once rested, we shall cross this river tomorrow (viśrāntāḥ pratariṣyāmaḥ śva idānīm imāṃ nadīm).
+“Encamp my army on every side according to their wish (_niveśayata me sainyam abhiprāyeṇa sarvataḥ_); once rested, we shall cross this river tomorrow (_viśrāntāḥ pratariṣyāmaḥ śva idānīm imāṃ nadīm_).
 </details>
 </details>
 
@@ -1182,7 +1182,7 @@ has gone to heaven."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Meanwhile, descending into the river, I wish to offer water-oblations for the benefit of the hereafter of the king who has gone to heaven (dātuṃ ca tāvad icchāmi svargatasya mahīpateḥ aurdhvadeha-nimittārtham avatīryodakaṃ nadīm).”
+Meanwhile, descending into the river, I wish to offer water-oblations for the benefit of the hereafter of the king who has gone to heaven (_dātuṃ ca tāvad icchāmi svargatasya mahīpateḥ aurdhvadeha-nimittārtham avatīryodakaṃ nadīm_).”
 </details>
 </details>
 
@@ -1235,7 +1235,7 @@ each of them encamped their respective forces in accord with his pleasure.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When he spoke thus, the attentive ministers replied, “So be it!” and encamped that host separately, each division according to its own pleasure (tasyaivaṃ bruvato 'mātyās tathety uktvā samāhitāḥ nyaveśayaṃs tāṃ chandena svena svena pṛthak-pṛthak).
+When he spoke thus, the attentive ministers replied, “So be it!” and encamped that host separately, each division according to its own pleasure (_tasyaivaṃ bruvato &#x27;mātyās tathety uktvā samāhitāḥ nyaveśayaṃs tāṃ chandena svena svena pṛthak-pṛthak_).
 </details>
 </details>
 
@@ -1308,7 +1308,7 @@ then, reflecting as to how to bring back the magnanimous Rama.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having encamped that army—splendid with its royal equipage—with due arrangements along the great river Gaṅgā (niveśya gaṅgām anu tāṃ mahā-nadīṃ camūṃ vidhānaiḥ paribarha-śobhinīm), Bharata tarried there, pondering the return of the high-souled Rāma (uvāsa rāmasya tadā mahātmano vicintayāno bharato nivartanam).
+Having encamped that army—splendid with its royal equipage—with due arrangements along the great river Gaṅgā (_niveśya gaṅgām anu tāṃ mahā-nadīṃ camūṃ vidhānaiḥ paribarha-śobhinīm_), Bharata tarried there, pondering the return of the high-souled Rāma (_uvāsa rāmasya tadā mahātmano vicintayāno bharato nivartanam_).
 </details>
 </details>
 

@@ -84,7 +84,7 @@ Grief-stricken over the slaughter of her sons, Diti implores her husband Kaśyap
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When those sons of hers had been slain, Diti, stricken with supreme grief (hateṣu teṣu putreṣu ditiḥ paramaduḥkhitā), spoke these words to her husband Kaśyapa, the son of Marīci (mārīcaṃ kaśyapaṃ nāma bhartāram idam abravīt):
+When those sons of hers had been slain, Diti, stricken with supreme grief (_hateṣu teṣu putreṣu ditiḥ paramaduḥkhitā_), spoke these words to her husband Kaśyapa, the son of Marīci (_mārīcaṃ kaśyapaṃ nāma bhartāram idam abravīt_):
 </details>
 </details>
 
@@ -137,7 +137,7 @@ Oh, god, I am bereaved of my sons who are killed by your great mighty
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Bereft of my sons am I, O Blessed Lord, through your own sons of mighty strength (hataputrāsmi bhagavaṃs tava putrair mahābalaiḥ)! I desire a son won through long austerity who shall be the slayer of Śakra (śakrahantāram icchāmi putraṃ dīrghatapo’rjitam).
+“Bereft of my sons am I, O Blessed Lord, through your own sons of mighty strength (_hataputrāsmi bhagavaṃs tava putrair mahābalaiḥ_)! I desire a son won through long austerity who shall be the slayer of Śakra (_śakrahantāram icchāmi putraṃ dīrghatapo’rjitam_).
 </details>
 </details>
 
@@ -196,7 +196,7 @@ A sage's wife requires permission of her husband if she wishes to undertake
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore I shall practise severe penance; deign to grant me an embryo (sāhaṃ tapaś cariṣyāmi garbhaṃ me dātum arhasi). Deign to grant me your permission for a lordly son who shall be the slayer of Śakra (īśvaraṃ śakrahantāraṃ tvam anujñātum arhasi)!”
+“Therefore I shall practise severe penance; deign to grant me an embryo (_sāhaṃ tapaś cariṣyāmi garbhaṃ me dātum arhasi_). Deign to grant me your permission for a lordly son who shall be the slayer of Śakra (_īśvaraṃ śakrahantāraṃ tvam anujñātum arhasi_)!”
 </details>
 </details>
 
@@ -243,7 +243,7 @@ On hearing her request the great resplendent sage Kaashyapa, the son
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing those words of hers, Kaśyapa the son of Marīci, of great fiery splendour (mārīcaḥ kaśyapas tadā mahātejāḥ), replied thus to Diti who was overwhelmed with sorrow (pratyuvāca ditiṃ paramaduḥkhitām):
+Hearing those words of hers, Kaśyapa the son of Marīci, of great fiery splendour (_mārīcaḥ kaśyapas tadā mahātejāḥ_), replied thus to Diti who was overwhelmed with sorrow (_pratyuvāca ditiṃ paramaduḥkhitām_):
 </details>
 </details>
 
@@ -292,7 +292,7 @@ Hearing those words of hers, Kaśyapa the son of Marīci, of great fiery splendo
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“So be it—may all be well with you! Remain ritually pure, O lady rich in penance (evaṃ bhavatu bhadraṃ te śucir bhava tapodhane); you shall give birth to a son who will slay Śakra in battle (janayiṣyasi putraṃ tvaṃ śakrahantāram āhave).
+“So be it—may all be well with you! Remain ritually pure, O lady rich in penance (_evaṃ bhavatu bhadraṃ te śucir bhava tapodhane_); you shall give birth to a son who will slay Śakra in battle (_janayiṣyasi putraṃ tvaṃ śakrahantāram āhave_).
 </details>
 </details>
 
@@ -351,7 +351,7 @@ In some other versions the word *trailokyahantaaram* is carried
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“If you remain ritually pure until a full thousand years are completed (pūrṇe varṣasahasre tu śucir yadi bhaviṣyasi), you shall bear from me a son who will vanquish the three worlds (putraṃ trailokyahantāraṃ mattas tvaṃ janayiṣyasi).”
+“If you remain ritually pure until a full thousand years are completed (_pūrṇe varṣasahasre tu śucir yadi bhaviṣyasi_), you shall bear from me a son who will vanquish the three worlds (_putraṃ trailokyahantāraṃ mattas tvaṃ janayiṣyasi_).”
 </details>
 </details>
 
@@ -417,7 +417,7 @@ Saying thus that great resplendent sage patted her, and then on his
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, that sage of great splendour stroked her with his hand (evam uktvā mahātejāḥ pāṇinā sammamārja tām); then, embracing her and pronouncing ‘May all be well with you (svasti)!’, he departed for his own penance (tapase yayau).
+Having spoken thus, that sage of great splendour stroked her with his hand (_evam uktvā mahātejāḥ pāṇinā sammamārja tām_); then, embracing her and pronouncing ‘May all be well with you (_svasti_)!’, he departed for his own penance (_tapase yayau_).
 </details>
 </details>
 
@@ -472,7 +472,7 @@ On the exit of Sage Kaashyapa, oh, best one among men Rama, highly
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When he had departed, O best of men, Diti, filled with supreme joy (gate tasmin naraśreṣṭha ditiḥ paramaharṣitā), repaired to Kuśaplava and practised the most rigorous austerity (kuśaplavaṃ samāsādya tapas tepe sudāruṇam).
+When he had departed, O best of men, Diti, filled with supreme joy (_gate tasmin naraśreṣṭha ditiḥ paramaharṣitā_), repaired to Kuśaplava and practised the most rigorous austerity (_kuśaplavaṃ samāsādya tapas tepe sudāruṇam_).
 </details>
 </details>
 
@@ -524,7 +524,7 @@ While she is truly practising asceticism, oh, the best among men Rama,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While she was performing that penance, O best of men, the Thousand-Eyed Indra (sahasrākṣo naraśreṣṭha) rendered personal attendance upon her with supreme excellence of virtues (paricaryāṃ cakāra ha parayā guṇasaṃpadā).
+While she was performing that penance, O best of men, the Thousand-Eyed Indra (_sahasrākṣo naraśreṣṭha_) rendered personal attendance upon her with supreme excellence of virtues (_paricaryāṃ cakāra ha parayā guṇasaṃpadā_).
 </details>
 </details>
 
@@ -572,7 +572,7 @@ The Thousand-eyed god Indra made available fire, firewood, water, the
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Sacred fire, kuśa grass, firewood, water, fruits, and roots as well (agniṃ kuśān kāṣṭham apaḥ phalaṃ mūlaṃ tathaiva ca)—all these the Thousand-Eyed Lord provided for her, together with whatever else she desired (nyavedayat sahasrākṣo yac cānyad api kāṅkṣitam).
+Sacred fire, _kuśa_ grass, firewood, water, fruits, and roots as well (_agniṃ kuśān kāṣṭham apaḥ phalaṃ mūlaṃ tathaiva ca_)—all these the Thousand-Eyed Lord provided for her, together with whatever else she desired (_nyavedayat sahasrākṣo yac cānyad api kāṅkṣitam_).
 </details>
 </details>
 
@@ -620,7 +620,7 @@ All the time Indra indeed served Diti by massaging her body, and other
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By gently massaging her limbs and dispelling her fatigue (gātrasaṃvāhanaiś caiva śramāpanayanais tathā), Śakra waited upon Diti at all times (śakraḥ sarveṣu kāleṣu ditiṃ paricacāra ha).
+By gently massaging her limbs and dispelling her fatigue (_gātrasaṃvāhanaiś caiva śramāpanayanais tathā_), Śakra waited upon Diti at all times (_śakraḥ sarveṣu kāleṣu ditiṃ paricacāra ha_).
 </details>
 </details>
 
@@ -675,7 +675,7 @@ Oh, Rama, the descendent of Raghu, when ten years are less to complete
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-When the thousand years were completed save for ten, O delighter of the Raghus (pūrṇe varṣasahasre sā daśone raghunandana), Diti, supremely delighted, spoke thus to the Thousand-Eyed Indra (ditiḥ paramasaṃhṛṣṭā sahasrākṣam athābravīt):
+When the thousand years were completed save for ten, O delighter of the Raghus (_pūrṇe varṣasahasre sā daśone raghunandana_), Diti, supremely delighted, spoke thus to the Thousand-Eyed Indra (_ditiḥ paramasaṃhṛṣṭā sahasrākṣam athābravīt_):
 </details>
 </details>
 
@@ -734,7 +734,7 @@ Oh, best one among the valiant ones, Indra, to me who am practising
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Only ten years remain for me as I practise this penance, O best of the valorous (tapaś carantyā varṣāṇi daśa vīryavatāṃ vara avaśiṣṭāni); may all be well with you—thereafter you shall behold your younger brother (bhrātaraṃ drakṣyase tataḥ).
+“Only ten years remain for me as I practise this penance, O best of the valorous (_tapaś carantyā varṣāṇi daśa vīryavatāṃ vara avaśiṣṭāni_); may all be well with you—thereafter you shall behold your younger brother (_bhrātaraṃ drakṣyase tataḥ_).
 </details>
 </details>
 
@@ -798,7 +798,7 @@ Oh, son Indra, whom I am now bringing up, will be enthusiastic in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Him whom I shall bear on your account, O my son, eager for victory (yam ahaṃ tvatkṛte putra tam ādhāsye jayotsukam)—I shall win him over so that, free of all feverish dread, you shall enjoy with him the conquest of the three worlds (trailokyavijayaṃ putra saha bhokṣyasi vijvaraḥ).
+“Him whom I shall bear on your account, O my son, eager for victory (_yam ahaṃ tvatkṛte putra tam ādhāsye jayotsukam_)—I shall win him over so that, free of all feverish dread, you shall enjoy with him the conquest of the three worlds (_trailokyavijayaṃ putra saha bhokṣyasi vijvaraḥ_).
 </details>
 </details>
 
@@ -856,7 +856,7 @@ Oh, best one among gods, Indra, on my prayer your high-souled father
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Entreated by me, O foremost of the gods, your high-souled father (yācitena suraśreṣṭha pitrā tava mahātmanā) granted me this boon concerning a son to be born at the end of a thousand years (varo varṣasahasrānte mama dattaḥ sutaṃ prati).”
+“Entreated by me, O foremost of the gods, your high-souled father (_yācitena suraśreṣṭha pitrā tava mahātmanā_) granted me this boon concerning a son to be born at the end of a thousand years (_varo varṣasahasrānte mama dattaḥ sutaṃ prati_).”
 </details>
 </details>
 
@@ -920,7 +920,7 @@ Hence her meticulousness is defeated.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, the goddess Diti, when the lord of day had reached mid-heaven (ity uktvā ca ditis tatra prāpte madhyaṃ dineśvare), was overcome by sleep, placing her feet where her head should rest (nidrayāpahṛtā devī pādau kṛtvātha śīrṣataḥ).
+Having spoken thus, the goddess Diti, when the lord of day had reached mid-heaven (_ity uktvā ca ditis tatra prāpte madhyaṃ dineśvare_), was overcome by sleep, placing her feet where her head should rest (_nidrayāpahṛtā devī pādau kṛtvātha śīrṣataḥ_).
 </details>
 </details>
 
@@ -968,7 +968,7 @@ On observing her who has become impious by placing her head at feet-side
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding her ritually impure—with her hair resting at her feet and her feet placed in the position of her head (dṛṣṭvā tām aśuciṃ śakraḥ pādayoḥ kṛtamūrdhajām śiraḥsthāne kṛtau pādau)—Śakra laughed aloud and rejoiced (jahāsa ca mumoda ca).
+Beholding her ritually impure—with her hair resting at her feet and her feet placed in the position of her head (_dṛṣṭvā tām aśuciṃ śakraḥ pādayoḥ kṛtamūrdhajām śiraḥsthāne kṛtau pādau_)—Śakra laughed aloud and rejoiced (_jahāsa ca mumoda ca_).
 </details>
 </details>
 
@@ -1017,7 +1017,7 @@ Oh, Rama, being a highly courageous one, Indra the destroyer of enemy
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Purandara entered the aperture of her body (tasyāḥ śarīravivaraṃ praviveśa puraṃdaraḥ), and, self-possessed in the highest degree, O Rāma, he cleft that embryo into seven pieces (garbhaṃ ca saptadhā rāma ciccheda paramātmavān).
+Purandara entered the aperture of her body (_tasyāḥ śarīravivaraṃ praviveśa puraṃdaraḥ_), and, self-possessed in the highest degree, O Rāma, he cleft that embryo into seven pieces (_garbhaṃ ca saptadhā rāma ciccheda paramātmavān_).
 </details>
 </details>
 
@@ -1075,7 +1075,7 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Being cleft by the hundred-jointed thunderbolt (bhidyamānas tato garbho vajreṇa śataparvaṇā), that embryo wept aloud in a piercing voice, O Rāma, and thereupon Diti awoke (ruroda susvaraṃ rāma tato ditir abudhyata).
+Being cleft by the hundred-jointed thunderbolt (_bhidyamānas tato garbho vajreṇa śataparvaṇā_), that embryo wept aloud in a piercing voice, O Rāma, and thereupon Diti awoke (_ruroda susvaraṃ rāma tato ditir abudhyata_).
 </details>
 </details>
 
@@ -1123,7 +1123,7 @@ Being cleft by the hundred-jointed thunderbolt (bhidyamānas tato garbho vajre�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘Do not weep! Do not weep (mā rudo mā rudaś ceti)!’—so Śakra addressed the embryo; and even as it wept, Vāsava of great splendour continued to cleave it (bibheda ca mahātejā rudantam api vāsavaḥ).
+‘Do not weep! Do not weep (_mā rudo mā rudaś ceti_)!’—so Śakra addressed the embryo; and even as it wept, Vāsava of great splendour continued to cleave it (_bibheda ca mahātejā rudantam api vāsavaḥ_).
 </details>
 </details>
 
@@ -1177,7 +1177,7 @@ Being cleft by the hundred-jointed thunderbolt (bhidyamānas tato garbho vajre�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-‘It must not be slain! It must not be slain (na hantavyaṃ na hantavyam)!’—so cried Diti; and thereupon, out of reverence for his mother’s word, Śakra came forth from her womb (niṣpapāta tataḥ śakro mātur vacanagauravāt).
+‘It must not be slain! It must not be slain (_na hantavyaṃ na hantavyam_)!’—so cried Diti; and thereupon, out of reverence for his mother’s word, Śakra came forth from her womb (_niṣpapāta tataḥ śakro mātur vacanagauravāt_).
 </details>
 </details>
 
@@ -1263,9 +1263,9 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**22:** Standing with palms joined in reverence, thunderbolt in hand, Śakra addressed Diti (prāñjalir vajrasahito ditiṃ śakro ’bhyabhāṣata): ‘O Goddess, you fell asleep in a state of ritual impurity, with your hair resting at your feet (aśucir devi suptāsi pādayoḥ kṛtamūrdhajā).
+**22:** Standing with palms joined in reverence, thunderbolt in hand, Śakra addressed Diti (_prāñjalir vajrasahito ditiṃ śakro ’bhyabhāṣata_): ‘O Goddess, you fell asleep in a state of ritual impurity, with your hair resting at your feet (_aśucir devi suptāsi pādayoḥ kṛtamūrdhajā_).
 
-**23:** “‘Seizing upon that fatal lapse of yours, O Goddess, I have cleft into seven pieces him who was to have been the slayer of Śakra in battle (tad antaram ahaṃ labdhvā śakrahantāram āhave abhindaṃ saptadhā devi); deign, therefore, to forgive me this deed (tan me tvaṃ kṣantum arhasi)!’”
+**23:** “‘Seizing upon that fatal lapse of yours, O Goddess, I have cleft into seven pieces him who was to have been the slayer of Śakra in battle (_tad antaram ahaṃ labdhvā śakrahantāram āhave abhindaṃ saptadhā devi_); deign, therefore, to forgive me this deed (_tan me tvaṃ kṣantum arhasi_)!’”
 </details>
 </details>
 

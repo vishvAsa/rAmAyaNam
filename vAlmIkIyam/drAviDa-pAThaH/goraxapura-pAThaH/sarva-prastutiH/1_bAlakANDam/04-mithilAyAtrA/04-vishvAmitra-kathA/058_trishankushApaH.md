@@ -101,9 +101,9 @@ have started to denounce Trishanku. [1-58-2]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**1:** Then, O Rāma, upon hearing the words of Triśaṅku, the hundred sons of the sage (ṛṣiputraśatam), filled with wrath (krodhasamanvitam), spoke thus to the king:
+**1:** Then, O Rāma, upon hearing the words of Triśaṅku, the hundred sons of the sage (_ṛṣiputraśatam_), filled with wrath (_krodhasamanvitam_), spoke thus to the king:
 
-**2:** “You have been refused, O foolish-minded one (durmedho), by your truth-speaking preceptor (guruṇā satyavādinā)! How is it that, transgressing him (taṃ samatikramya), you have resorted to another branch (śākhāntaram upeyivān)?
+**2:** “You have been refused, O foolish-minded one (_durmedho_), by your truth-speaking preceptor (_guruṇā satyavādinā_)! How is it that, transgressing him (_taṃ samatikramya_), you have resorted to another branch (_śākhāntaram upeyivān_)?
 </details>
 </details>
 
@@ -149,7 +149,7 @@ the word of advise of such a veracious Priest. [1-58-3]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“For all the Ikṣvākus, indeed, the royal chaplain is the supreme refuge (purodhāḥ paramā gatiḥ); and the word of that speaker of truth cannot be transgressed (na cātikramituṃ śakyam).
+“For all the Ikṣvākus, indeed, the royal chaplain is the supreme refuge (_purodhāḥ paramā gatiḥ_); and the word of that speaker of truth cannot be transgressed (_na cātikramituṃ śakyam_).
 </details>
 </details>
 
@@ -195,7 +195,7 @@ such a Vedic-ritual. Then, in which way we are capable to conduct such a Vedic-r
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“The revered sage Vasiṣṭha declared, ‘It is impossible’ (aśakyam iti sovāca); how, then, could we possibly be capable (śaktāḥ kathaṃcana) of conducting that sacrifice (taṃ kratuṃ samāhartum)?
+“The revered sage Vasiṣṭha declared, ‘It is impossible’ (_aśakyam iti sovāca_); how, then, could we possibly be capable (_śaktāḥ kathaṃcana_) of conducting that sacrifice (_taṃ kratuṃ samāhartum_)?
 </details>
 </details>
 
@@ -247,7 +247,7 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“You are childishly ignorant (bāliśas tvam), O best of men! Return again to your own city (gamyatāṃ svapuraṃ punaḥ). The revered sage, O lord of earth, is capable of officiating at sacrifices even for all three worlds (yājane bhagavān śaktas trailokyasyāpi).”
+“You are childishly ignorant (_bāliśas tvam_), O best of men! Return again to your own city (_gamyatāṃ svapuraṃ punaḥ_). The revered sage, O lord of earth, is capable of officiating at sacrifices even for all three worlds (_yājane bhagavān śaktas trailokyasyāpi_).”
 </details>
 </details>
 
@@ -320,9 +320,9 @@ safety betide you.' So Trishanku bade farewell to the sons of Vashishta, but... 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** “How could we dare to show disrespect to him (avamānaṃ kathaṃ kartuṃ tasya śakṣyāmahe vayam)?” Hearing those words of theirs, whose syllables were agitated with wrath (krodhaparyākulākṣaram),
+**6:** “How could we dare to show disrespect to him (_avamānaṃ kathaṃ kartuṃ tasya śakṣyāmahe vayam_)?” Hearing those words of theirs, whose syllables were agitated with wrath (_krodhaparyākulākṣaram_),
 
-**7:** the king once again spoke these words to them: “Having been refused by the revered preceptor (pratyākhyāto bhagavatā) and likewise by the preceptor’s sons (guruputrais tathaiva hi),
+**7:** the king once again spoke these words to them: “Having been refused by the revered preceptor (_pratyākhyāto bhagavatā_) and likewise by the preceptor’s sons (_guruputrais tathaiva hi_),
 </details>
 </details>
 
@@ -408,9 +408,9 @@ elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b,
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**8:** “I shall resort to another refuge (anyāṃ gatiṃ gamiṣyāmi); may all be well with you, O sages rich in asceticism (svasti vo ’stu tapodhanāḥ)!” Hearing that speech fraught with a dreadful intent (vākyaṃ ghorābhisaṃhitam), the sons of the sage,
+**8:** “I shall resort to another refuge (_anyāṃ gatiṃ gamiṣyāmi_); may all be well with you, O sages rich in asceticism (_svasti vo ’stu tapodhanāḥ_)!” Hearing that speech fraught with a dreadful intent (_vākyaṃ ghorābhisaṃhitam_), the sons of the sage,
 
-**9:** filled with supreme wrath (paramasaṃkruddhāḥ), cursed him: “You shall pass into the state of a Caṇḍāla (caṇḍālatvaṃ gamiṣyasi)!” Having spoken thus, those high-souled ones entered each his own hermitage (viviśuḥ svaṃ svam āśramam).
+**9:** filled with supreme wrath (_paramasaṃkruddhāḥ_), cursed him: “You shall pass into the state of a Caṇḍāla (_caṇḍālatvaṃ gamiṣyasi_)!” Having spoken thus, those high-souled ones entered each his own hermitage (_viviśuḥ svaṃ svam āśramam_).
 </details>
 </details>
 
@@ -468,7 +468,7 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, when the night had passed away (rātryāṃ vyatītāyām), the king passed into the condition of a Caṇḍāla (rājā caṇḍālatāṃ gataḥ): a dark-complexioned man clad in dark blue garments (nīlavastradharo nīlaḥ), rough-limbed and with cropped, disheveled hair (puruṣo dhvastamūrdhajaḥ).
+Then, when the night had passed away (_rātryāṃ vyatītāyām_), the king passed into the condition of a Caṇḍāla (_rājā caṇḍālatāṃ gataḥ_): a dark-complexioned man clad in dark blue garments (_nīlavastradharo nīlaḥ_), rough-limbed and with cropped, disheveled hair (_puruṣo dhvastamūrdhajaḥ_).
 </details>
 </details>
 
@@ -541,9 +541,9 @@ the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**11:** Wearing garlands and body-unguent from the cremation ground (cityamālyāṅgarāgaś ca), he came to wear ornaments of iron (āyasābharaṇo ’bhavat). Seeing him in the form of a Caṇḍāla and abandoning him (tyajya caṇḍālarūpiṇam), all his ministers (mantriṇaḥ sarve),
+**11:** Wearing garlands and body-unguent from the cremation ground (_cityamālyāṅgarāgaś ca_), he came to wear ornaments of iron (_āyasābharaṇo ’bhavat_). Seeing him in the form of a Caṇḍāla and abandoning him (_tyajya caṇḍālarūpiṇam_), all his ministers (_mantriṇaḥ sarve_),
 
-**12:** together with the citizens who had followed him (paurā ye ’syānugāminaḥ), fled away in haste (prādravan sahitāḥ), O Rāma. Alone, indeed, O Kākutstha, did the king, possessed of supreme fortitude (paramātmavān), depart,
+**12:** together with the citizens who had followed him (_paurā ye ’syānugāminaḥ_), fled away in haste (_prādravan sahitāḥ_), O Rāma. Alone, indeed, O Kākutstha, did the king, possessed of supreme fortitude (_paramātmavān_), depart,
 </details>
 </details>
 
@@ -632,11 +632,11 @@ you are accurst to the state of profaner.' [1-58-15b, 16a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**13:** burning with grief day and night (dahyamāno divārātram), unto Viśvāmitra rich in asceticism (viśvāmitraṃ tapodhanam). And seeing that king thwarted in his purpose (rājānaṃ viphalīkṛtam), the sage Viśvāmitra,
+**13:** burning with grief day and night (_dahyamāno divārātram_), unto Viśvāmitra rich in asceticism (_viśvāmitraṃ tapodhanam_). And seeing that king thwarted in his purpose (_rājānaṃ viphalīkṛtam_), the sage Viśvāmitra,
 
-**14:** beholding him in the form of a Caṇḍāla (caṇḍālarūpiṇam), O Rāma, was moved to compassion (muniḥ kāruṇyam āgataḥ). Out of compassion, that supremely righteous sage of great splendour (mahātejāḥ paramadhārmikaḥ)
+**14:** beholding him in the form of a Caṇḍāla (_caṇḍālarūpiṇam_), O Rāma, was moved to compassion (_muniḥ kāruṇyam āgataḥ_). Out of compassion, that supremely righteous sage of great splendour (_mahātejāḥ paramadhārmikaḥ_)
 
-**15:** spoke these words to the king of dreadful appearance (rājānaṃ ghoradarśanam): “Blessings be upon you (bhadraṃ te)! What is the purpose of your coming (kim āgamanakāryaṃ te), O mighty prince (rājaputra mahābala),”
+**15:** spoke these words to the king of dreadful appearance (_rājānaṃ ghoradarśanam_): “Blessings be upon you (_bhadraṃ te_)! What is the purpose of your coming (_kim āgamanakāryaṃ te_), O mighty prince (_rājaputra mahābala_),”
 </details>
 </details>
 
@@ -690,7 +690,7 @@ maker spoke this sentence with his palms adjoined to the sententious sage Vishva
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O heroic lord of Ayodhyā (ayodhyādhipate vīra), who have fallen into the state of a Caṇḍāla through a curse (śāpāc caṇḍālatāṃ gataḥ)?” Then, hearing those words, the king who had been reduced to a Caṇḍāla,
+“O heroic lord of Ayodhyā (_ayodhyādhipate vīra_), who have fallen into the state of a Caṇḍāla through a curse (_śāpāc caṇḍālatāṃ gataḥ_)?” Then, hearing those words, the king who had been reduced to a Caṇḍāla,
 </details>
 </details>
 
@@ -736,7 +736,7 @@ besides, this discrepancy has bechanced upon me. [1-58-17b, 18a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-skilled in speech (vākyajñaḥ), with joined palms spoke these words to that master of speech (vākyakovidam): “I have been refused by my preceptor, and likewise by my preceptor’s sons (pratyākhyāto ’smi guruṇā guruputrais tathaiva ca).
+skilled in speech (_vākyajñaḥ_), with joined palms spoke these words to that master of speech (_vākyakovidam_): “I have been refused by my preceptor, and likewise by my preceptor’s sons (_pratyākhyāto ’smi guruṇā guruputrais tathaiva ca_).
 </details>
 </details>
 
@@ -785,7 +785,7 @@ hundred rituals but I have not achieved the fruit.' Thus Trishanku started tell 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Without even attaining that desired object (anavāpyaiva taṃ kāmam), I have met with the very reverse (mayā prāpto viparyayaḥ)! ‘May I ascend to heaven in my very body (saśarīro divaṃ yāyām)’—such was my aspiration, O sage of gentle aspect (saumyadarśana).
+“Without even attaining that desired object (_anavāpyaiva taṃ kāmam_), I have met with the very reverse (_mayā prāpto viparyayaḥ_)! ‘May I ascend to heaven in my very body (_saśarīro divaṃ yāyām_)’—such was my aspiration, O sage of gentle aspect (_saumyadarśana_).
 </details>
 </details>
 
@@ -837,7 +837,7 @@ would not save liars...'
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“A hundred sacrifices have been offered by me (mayā ceṣṭaṃ kratuśatam), yet their fruit is not obtained (tac ca nāvāpyate phalam). Never before have I spoken an untruth (anṛtaṃ noktapūrvaṃ me), nor shall I ever speak one,
+“A hundred sacrifices have been offered by me (_mayā ceṣṭaṃ kratuśatam_), yet their fruit is not obtained (_tac ca nāvāpyate phalam_). Never before have I spoken an untruth (_anṛtaṃ noktapūrvaṃ me_), nor shall I ever speak one,
 </details>
 </details>
 
@@ -934,11 +934,11 @@ Destiny is the ultimate course, isn't it? [1-58-22b, 23a]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**20:** “even when plunged into dire extremities (kṛcchreṣv api gataḥ), O gentle sage—I swear to you by my Kṣatriya code of righteousness (kṣatradharmeṇa te śape)! With manifold sacrifices have I worshipped (yajñair bahuvidhair iṣṭam), and my subjects have been protected righteously (prajā dharmeṇa pālitāḥ).
+**20:** “even when plunged into dire extremities (_kṛcchreṣv api gataḥ_), O gentle sage—I swear to you by my Kṣatriya code of righteousness (_kṣatradharmeṇa te śape_)! With manifold sacrifices have I worshipped (_yajñair bahuvidhair iṣṭam_), and my subjects have been protected righteously (_prajā dharmeṇa pālitāḥ_).
 
-**21:** “High-souled preceptors, too, have been gratified by my virtuous character and conduct (guravaś ca mahātmānaḥ śīlavṛttena toṣitāḥ). Yet though I strive earnestly in righteousness (dharme prayatamānasya) and desire to perform this sacrifice (yajñaṃ cāhartum icchataḥ),
+**21:** “High-souled preceptors, too, have been gratified by my virtuous character and conduct (_guravaś ca mahātmānaḥ śīlavṛttena toṣitāḥ_). Yet though I strive earnestly in righteousness (_dharme prayatamānasya_) and desire to perform this sacrifice (_yajñaṃ cāhartum icchataḥ_),
 
-**22:** “my preceptors do not attain satisfaction (paritoṣaṃ na gacchanti guravaḥ), O bull among sages! Therefore I deem destiny alone to be supreme (daivam eva paraṃ manye), and human exertion to be in vain (pauruṣaṃ tu nirarthakam).
+**22:** “my preceptors do not attain satisfaction (_paritoṣaṃ na gacchanti guravaḥ_), O bull among sages! Therefore I deem destiny alone to be supreme (_daivam eva paraṃ manye_), and human exertion to be in vain (_pauruṣaṃ tu nirarthakam_).
 </details>
 </details>
 
@@ -986,7 +986,7 @@ apt of you to accord, you be safe, your favour upon me. [1-58-23b, c]
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Everything is overpowered by destiny (daivenākramyate sarvam); destiny, indeed, is the supreme arbiter (daivaṃ hi paramā gatiḥ)! Unto me, thus supremely afflicted (tasya me paramārtasya), whose righteous endeavours have been struck down by fate (daivopahatakarmaṇaḥ), and who long for your grace (prasādam abhikāṅkṣataḥ), you ought to grant favour (kartum arhasi)—blessings be upon you!
+“Everything is overpowered by destiny (_daivenākramyate sarvam_); destiny, indeed, is the supreme arbiter (_daivaṃ hi paramā gatiḥ_)! Unto me, thus supremely afflicted (_tasya me paramārtasya_), whose righteous endeavours have been struck down by fate (_daivopahatakarmaṇaḥ_), and who long for your grace (_prasādam abhikāṅkṣataḥ_), you ought to grant favour (_kartum arhasi_)—blessings be upon you!
 </details>
 </details>
 
@@ -1053,7 +1053,7 @@ grace of Vishvamitra..." So said Sage Shataananda to Rama and others continuing 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“I shall resort to no other refuge (nānyāṃ gatiṃ gamiṣyāmi); no other shelter exists for me (nānyac charaṇam asti me). You ought to turn back my adverse destiny by your heroic exertion (daivaṃ puruṣakāreṇa nivartayitum arhasi)!”
+“I shall resort to no other refuge (_nānyāṃ gatiṃ gamiṣyāmi_); no other shelter exists for me (_nānyac charaṇam asti me_). You ought to turn back my adverse destiny by your heroic exertion (_daivaṃ puruṣakāreṇa nivartayitum arhasi_)!”
 </details>
 </details>
 

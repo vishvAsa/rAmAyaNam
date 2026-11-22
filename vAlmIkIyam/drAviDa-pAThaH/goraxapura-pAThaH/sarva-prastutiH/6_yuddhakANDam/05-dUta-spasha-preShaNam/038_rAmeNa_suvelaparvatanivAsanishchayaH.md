@@ -68,7 +68,7 @@ Resolving to ascend Mount Suvela to survey Laṅkā and pass the night, Rāma ad
 
 **1:** Having set his mind upon the ascent of Suvela, Rāma, followed by Lakṣmaṇa, spoke this word to Sugrīva—
 
-**2:** —and to Vibhīṣaṇa, the night-roamer who knew righteousness (dharmajñam), was devoted, and was conversant with counsel and sacred precept (vidhijñam), in a gentle and exalted voice:
+**2:** —and to Vibhīṣaṇa, the night-roamer who knew righteousness (_dharmajñam_), was devoted, and was conversant with counsel and sacred precept (_vidhijñam_), in a gentle and exalted voice:
 </details>
 </details>
 
@@ -139,7 +139,7 @@ All of us will stay on this mountain for this night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let us all ascend (adhyārohāmahe) this noble lord of mountains Suvela, streaked with hundreds of mineral ores (dhātuśataiś citam), and let us pass this night here!
+“Let us all ascend (_adhyārohāmahe_) this noble lord of mountains Suvela, streaked with hundreds of mineral ores (_dhātuśataiś citam_), and let us pass this night here!
 </details>
 </details>
 
@@ -170,7 +170,7 @@ All of us will stay on this mountain for this night."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And we shall gaze upon Laṅkā, the lair (nilayam) of that rākṣasa—by which wicked-souled wretch my wife was carried off to his own fatal doom (maraṇāntāya),
+And we shall gaze upon Laṅkā, the lair (_nilayam_) of that _rākṣasa_—by which wicked-souled wretch my wife was carried off to his own fatal doom (_maraṇāntāya_),
 </details>
 </details>
 
@@ -222,7 +222,7 @@ mind."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—by whom neither righteousness (dharmaḥ), nor noble conduct (vṛttam), nor high lineage (kulam) was heeded, and by whom, through his base rākṣasa mentality, that reprehensible deed was committed!
+—by whom neither righteousness (_dharmaḥ_), nor noble conduct (_vṛttam_), nor high lineage (_kulam_) was heeded, and by whom, through his base _rākṣasa_ mentality, that reprehensible deed was committed!
 </details>
 </details>
 
@@ -275,7 +275,7 @@ by him, I shall see that all these demons are destroyed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At the very mention (kīrtite) of that vilest of rākṣasas, wrath surges within me—through which base wretch's offense (aparādhāt) I shall behold the slaughter of the rākṣasas!
+At the very mention (_kīrtite_) of that vilest of _rākṣasas_, wrath surges within me—through which base wretch&#x27;s offense (_aparādhāt_) I shall behold the slaughter of the _rākṣasas_!
 </details>
 </details>
 
@@ -335,7 +335,7 @@ committed by him the vilest, his lineage is destroyed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-For one man alone, fallen under the sway of Time's noose (kālapāśavaśaṃ gataḥ), commits a sin; yet through that base wretch's personal transgression (ātmāpacāreṇa), his entire race perishes!”
+For one man alone, fallen under the sway of Time&#x27;s noose (_kālapāśavaśaṃ gataḥ_), commits a sin; yet through that base wretch&#x27;s personal transgression (_ātmāpacāreṇa_), his entire race perishes!”
 </details>
 </details>
 
@@ -387,7 +387,7 @@ with its conspicuous summits.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-While conversing (sammantrayan) thus, filled with wrath toward Rāvaṇa, Rāma ascended the variegated plateau (citrasānum) of Suvela to pass the night (vāsāya).
+While conversing (_sammantrayan_) thus, filled with wrath toward Rāvaṇa, Rāma ascended the variegated plateau (_citrasānum_) of Suvela to pass the night (_vāsāya_).
 </details>
 </details>
 
@@ -443,7 +443,7 @@ the mountain, by following him.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Behind him followed Lakṣmaṇa, vigilant (samāhitaḥ), holding aloft his bow fitted with arrows and delighting in supreme valor.
+Behind him followed Lakṣmaṇa, vigilant (_samāhitaḥ_), holding aloft his bow fitted with arrows and delighting in supreme valor.
 </details>
 </details>
 
@@ -547,7 +547,7 @@ Rama ascended.
 
 **12:** —and Jāmbavān, Suṣeṇa, high-minded Ṛṣabha, Durmukha of mighty fiery energy, and the monkey Śatavali:
 
-**13:** These and many other swift-going vānaras, roamers of the mountains (giricāriṇaḥ), endowed with the speed of the wind (vāyuvegapravaṇāḥ)—
+**13:** These and many other swift-going _vānaras_, roamers of the mountains (_giricāriṇaḥ_), endowed with the speed of the wind (_vāyuvegapravaṇāḥ_)—
 </details>
 </details>
 
@@ -599,7 +599,7 @@ the city of Lanka which appeared as though it was hanging in the sky.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—ascended Suvela by the hundreds where Rāghava stood; and having scaled the mountain in no long time (adīrgheṇa kālena), they on every side—
+—ascended Suvela by the hundreds where Rāghava stood; and having scaled the mountain in no long time (_adīrgheṇa kālena_), they on every side—
 </details>
 </details>
 
@@ -653,7 +653,7 @@ gates, enriched with exquisitc ramparts and pervaded all over with demons.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—beheld upon its peak [of Trikūṭa] that fair city [Laṅkā], appearing as though suspended in the sky (viṣaktām iva khe), endowed with noble gates and resplendent with superb ramparts (prākāravaraśobhitām).
+—beheld upon its peak [of Trikūṭa] that fair city [Laṅkā], appearing as though suspended in the sky (_viṣaktām iva khe_), endowed with noble gates and resplendent with superb ramparts (_prākāravaraśobhitām_).
 </details>
 </details>
 
@@ -730,9 +730,9 @@ while Rama was witnessing the scene.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**16:** The vānara troop-leaders beheld Laṅkā teeming with rākṣasas; and by the dark-complexioned rākṣasas (nīlaiś ca rākṣasaiḥ) stationed along the superb ramparts, those foremost of monkeys saw, as it were, a second rampart (prākāram aparam) formed!
+**16:** The _vānara_ troop-leaders beheld Laṅkā teeming with _rākṣasas_; and by the dark-complexioned _rākṣasas_ (_nīlaiś ca rākṣasaiḥ_) stationed along the superb ramparts, those foremost of monkeys saw, as it were, a second rampart (_prākāram aparam_) formed!
 
-**17:** Beholding the rākṣasas, all those vānaras, eager for battle (yuddhakāṅkṣiṇaḥ), sent forth manifold war-cries as Rāma looked on (rāmasya paśyataḥ).
+**17:** Beholding the _rākṣasas_, all those _vānaras_, eager for battle (_yuddhakāṅkṣiṇaḥ_), sent forth manifold war-cries as Rāma looked on (_rāmasya paśyataḥ_).
 </details>
 </details>
 
@@ -784,7 +784,7 @@ moon arrived.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then the sun, reddened (pratirañjitaḥ) by twilight, went to its setting, and the night, illumined by the full moon (pūrṇacandrapradīptā), advanced.
+Then the sun, reddened (_pratirañjitaḥ_) by twilight, went to its setting, and the night, illumined by the full moon (_pūrṇacandrapradīptā_), advanced.
 </details>
 </details>
 
@@ -844,7 +844,7 @@ happily on the mountain resort of Suvela.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then that Rāma, the lord of the vānara host, felicitated and honored by Vibhīṣaṇa, passed the night comfortably (nyavasad yathāsukham) on the ridge of Suvela together with Lakṣmaṇa and surrounded by troops of troop-leaders.
+Then that Rāma, the lord of the _vānara_ host, felicitated and honored by Vibhīṣaṇa, passed the night comfortably (_nyavasad yathāsukham_) on the ridge of Suvela together with Lakṣmaṇa and surrounded by troops of troop-leaders.
 </details>
 </details>
 

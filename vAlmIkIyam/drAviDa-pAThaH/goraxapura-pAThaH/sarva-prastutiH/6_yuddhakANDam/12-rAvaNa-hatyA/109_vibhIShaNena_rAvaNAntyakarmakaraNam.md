@@ -75,7 +75,7 @@ his mind filled with an outburst of sorrow:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then there commenced between Rāma and Rāvaṇa at that time an exceedingly fierce, mighty chariot-duel (dvairathaṃ yuddham), striking terror into all the worlds.
+Then there commenced between Rāma and Rāvaṇa at that time an exceedingly fierce, mighty chariot-duel (_dvairathaṃ yuddham_), striking terror into all the worlds.
 </details>
 </details>
 
@@ -125,7 +125,7 @@ towards lofty beds, O hero! The valiant one, the celebrated one, prudent in poli
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the army of the rākṣasas and the mighty host of the monkeys, though holding their weapons raised (pragṛhītapraharaṇam), stood completely motionless (niśceṣṭam).
+Thereupon the army of the rākṣasas and the mighty host of the monkeys, though holding their weapons raised (_pragṛhītapraharaṇam_), stood completely motionless (_niśceṣṭam_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ ground/"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those two—the man and the rākṣasa—locked fiercely in battle, all of them, with their hearts wholly captivated (vyākṣiptahṛdayāḥ), were filled with supreme wonder.
+Beholding those two—the man and the rākṣasa—locked fiercely in battle, all of them, with their hearts wholly captivated (_vyākṣiptahṛdayāḥ_), were filled with supreme wonder.
 </details>
 </details>
 
@@ -232,7 +232,7 @@ obtained by you."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With their arms busied holding manifold weapons (nānāpraharaṇair vyagraiḥ) and their minds astonished, they stood gazing at the battle and did not rush against one another.
+With their arms busied holding manifold weapons (_nānāpraharaṇair vyagraiḥ_) and their minds astonished, they stood gazing at the battle and did not rush against one another.
 </details>
 </details>
 
@@ -290,7 +290,7 @@ of it has come now."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The army of the rākṣasas gazing upon Rāvaṇa, and that of the monkeys gazing upon Rāghava, with their eyes wide in wonder (vismitākṣāṇām), shone as though painted in a picture (citram iva).
+The army of the rākṣasas gazing upon Rāvaṇa, and that of the monkeys gazing upon Rāghava, with their eyes wide in wonder (_vismitākṣāṇām_), shone as though painted in a picture (_citram iva_).
 </details>
 </details>
 
@@ -373,9 +373,9 @@ strennous effort has become inactive."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**6:** Those two, Rāghava and Rāvaṇa, having beheld the portents (nimittāni) there, with their minds firmly resolved (kṛtabuddhī) and their wrath unshakable, fought on fearlessly.
+**6:** Those two, Rāghava and Rāvaṇa, having beheld the portents (_nimittāni_) there, with their minds firmly resolved (_kṛtabuddhī_) and their wrath unshakable, fought on fearlessly.
 
-**7:** Kākutstha thinking, `I must conquer!' (jetavyam iti) and Rāvaṇa thinking, `I must die!' (martavyam iti)—both firm in resolve (dhṛtau), they displayed the uttermost fullness of their valor (svavīryasarvasvam) in battle at that time.
+**7:** Kākutstha thinking, `I must conquer!&#x27; (_jetavyam iti_) and Rāvaṇa thinking, `I must die!&#x27; (_martavyam iti_)—both firm in resolve (_dhṛtau_), they displayed the uttermost fullness of their valor (_svavīryasarvasvam_) in battle at that time.
 </details>
 </details>
 
@@ -424,7 +424,7 @@ present lying fast asleep in the dust?"
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then out of wrath the mighty Daśagrīva fitted arrows to his bow and discharged them, aiming at the banner (dhvajam) mounted upon Rāghava's chariot.
+Then out of wrath the mighty Daśagrīva fitted arrows to his bow and discharged them, aiming at the banner (_dhvajam_) mounted upon Rāghava&#x27;s chariot.
 </details>
 </details>
 
@@ -483,7 +483,7 @@ in the battle-field, by the tempest in the shape of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those arrows, failing to reach that banner of Purandara's chariot (purandararathadhvajam), merely grazed the chariot's protective power (rathaśaktim) and fell to the surface of the earth.
+Those arrows, failing to reach that banner of Purandara&#x27;s chariot (_purandararathadhvajam_), merely grazed the chariot&#x27;s protective power (_rathaśaktim_) and fell to the surface of the earth.
 </details>
 </details>
 
@@ -544,7 +544,7 @@ lying asleep on the ground, its body having been overthrown by a lion in the sha
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thereupon the mighty Rāma too, filled with wrath, drew his bow and resolved in his mind (manasā sampracakrame) to render counter-deed for deed (kṛtapratikṛtam).
+Thereupon the mighty Rāma too, filled with wrath, drew his bow and resolved in his mind (_manasā sampracakrame_) to render counter-deed for deed (_kṛtapratikṛtam_).
 </details>
 </details>
 
@@ -597,7 +597,7 @@ extingushed in the battle-field by the rainy cloud in the shape of Rama."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Aiming at Rāvaṇa's banner, he loosed a sharp arrow, unbearable as a great serpent (mahāsarpam ivāsahyam) and blazing with its own fiery energy.
+Aiming at Rāvaṇa&#x27;s banner, he loosed a sharp arrow, unbearable as a great serpent (_mahāsarpam ivāsahyam_) and blazing with its own fiery energy.
 </details>
 </details>
 
@@ -650,7 +650,7 @@ in energy, is lying dead, struck down by a tiger in the shape of Rama, the ruler
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The radiant Rāma cast that shaft aiming at the standard (ketum); cleaving Daśagrīva's banner (daśagrīvadhvajam), that arrow entered the earth.
+The radiant Rāma cast that shaft aiming at the standard (_ketum_); cleaving Daśagrīva&#x27;s banner (_daśagrīvadhvajam_), that arrow entered the earth.
 </details>
 </details>
 
@@ -718,7 +718,7 @@ words, full of reason and which revealed his determined view of the matter.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Severed, that chariot-banner of Rāvaṇa (rāvaṇasyandanadhvajaḥ) fell to the earth; and beholding the striking down of his banner, that mighty Rāvaṇa—
+Severed, that chariot-banner of Rāvaṇa (_rāvaṇasyandanadhvajaḥ_) fell to the earth; and beholding the striking down of his banner, that mighty Rāvaṇa—
 </details>
 </details>
 
@@ -774,7 +774,7 @@ exalted type and remained confident throughout."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—blazed up fiercely out of wrath and indignation (krodhād amarṣāt), as though consuming all things; falling under the sway of fury, he rained down a shower of arrows.
+—blazed up fiercely out of wrath and indignation (_krodhād amarṣāt_), as though consuming all things; falling under the sway of fury, he rained down a shower of arrows.
 </details>
 </details>
 
@@ -826,7 +826,7 @@ Kshatriya the warrior."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rāvaṇa pierced Rāma's steeds with blazing arrows; yet those celestial bay horses (divyā harayaḥ) there neither stumbled nor faltered (nāskhalan nāpi babhramuḥ).
+Rāvaṇa pierced Rāma&#x27;s steeds with blazing arrows; yet those celestial bay horses (_divyā harayaḥ_) there neither stumbled nor faltered (_nāskhalan nāpi babhramuḥ_).
 </details>
 </details>
 
@@ -878,7 +878,7 @@ by whom intelligent as he was, all the three worlds including indra were frighte
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-They remained steady at heart (svasthahṛdayāḥ), as though struck merely with lotus-stalks (padmanālair ivāhatāḥ). Beholding that unruffled composure (asambhramam) of the steeds, Rāvaṇa then—
+They remained steady at heart (_svasthahṛdayāḥ_), as though struck merely with lotus-stalks (_padmanālair ivāhatāḥ_). Beholding that unruffled composure (_asambhramam_) of the steeds, Rāvaṇa then—
 </details>
 </details>
 
@@ -927,7 +927,7 @@ has been killed by his adversaries or had killed the enemies in battle."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—exceedingly enraged once more, loosed a shower of arrows, as well as maces, iron clubs (parighān), discuses, and pestles (musalāni).
+—exceedingly enraged once more, loosed a shower of arrows, as well as maces, iron clubs (_parighān_), discuses, and pestles (_musalāni_).
 </details>
 </details>
 
@@ -977,7 +977,7 @@ scriptures."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Mountain peaks, trees, and likewise pikes and battle-axes (śūlaparaśvadhān)—he brought down that shower of weapons conjured by illusion (māyāvihitam), and thousands of arrows then, with tireless resolve in his heart (aśrāntahṛdayodyamaḥ).
+Mountain peaks, trees, and likewise pikes and battle-axes (_śūlaparaśvadhān_)—he brought down that shower of weapons conjured by illusion (_māyāvihitam_), and thousands of arrows then, with tireless resolve in his heart (_aśrāntahṛdayodyamaḥ_).
 </details>
 </details>
 
@@ -1032,7 +1032,7 @@ from grief, think here of what duty that deserves to be performed."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tumultuous, terror-inspiring, dreadful, and echoing with fearful reverberations (bhīmapratisvanam), that mighty shower consisting of manifold weapons (naikaśastramayam) arose in the battle.
+Tumultuous, terror-inspiring, dreadful, and echoing with fearful reverberations (_bhīmapratisvanam_), that mighty shower consisting of manifold weapons (_naikaśastramayam_) arose in the battle.
 </details>
 </details>
 
@@ -1080,7 +1080,7 @@ relation to his brother.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Bypassing Rāghava's chariot (vimucya rāghavaratham), all around upon the monkey host, he made the mid-space too utterly dense (sunirantaram) with shafts.
+Bypassing Rāghava&#x27;s chariot (_vimucya rāghavaratham_), all around upon the monkey host, he made the mid-space too utterly dense (_sunirantaram_) with shafts.
 </details>
 </details>
 
@@ -1133,7 +1133,7 @@ sea breaks up, on reaching the shore."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-And Daśagrīva loosed them with his inner soul detached (niḥsaṅgenāntarātmanā). Beholding that Rāvaṇa striving thus (vyāyacchamānam) and wholly intent in battle—
+And Daśagrīva loosed them with his inner soul detached (_niḥsaṅgenāntarātmanā_). Beholding that Rāvaṇa striving thus (_vyāyacchamānam_) and wholly intent in battle—
 </details>
 </details>
 
@@ -1194,7 +1194,7 @@ revenged."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—Kākutstha, as though smiling (prahasann iva), fitted sharp arrows to his bow; and he then discharged shafts by hundreds and by thousands.
+—Kākutstha, as though smiling (_prahasann iva_), fitted sharp arrows to his bow; and he then discharged shafts by hundreds and by thousands.
 </details>
 </details>
 
@@ -1262,7 +1262,7 @@ to the other world."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding those, Rāvaṇa made the sky dense without interstice (nirantaram) with his own arrows; then, through the radiant shower of shafts employed by them both (tābhyāṃ niyuktena)—
+Beholding those, Rāvaṇa made the sky dense without interstice (_nirantaram_) with his own arrows; then, through the radiant shower of shafts employed by them both (_tābhyāṃ niyuktena_)—
 </details>
 </details>
 
@@ -1328,7 +1328,7 @@ rites, which were intended to lead the departed soul to heaven:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—it shone like a second radiant firmament woven of arrows (śarabaddham ivābhāti dvitīyam bhāsvad ambaram). No arrow missed its mark (nānimittaḥ), none failed to pierce (nānirbhettā), and none was in vain (na niṣphalaḥ).
+—it shone like a second radiant firmament woven of arrows (_śarabaddham ivābhāti dvitīyam bhāsvad ambaram_). No arrow missed its mark (_nānimittaḥ_), none failed to pierce (_nānirbhettā_), and none was in vain (_na niṣphalaḥ_).
 </details>
 </details>
 
@@ -1387,7 +1387,7 @@ rites be performed. He is even as good mine, as yours."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Striking against one another (anyonyam abhisaṃhatya), they fell to the surface of the earth as Rāma and Rāvaṇa discharged their shafts thus in battle.
+Striking against one another (_anyonyam abhisaṃhatya_), they fell to the surface of the earth as Rāma and Rāvaṇa discharged their shafts thus in battle.
 </details>
 </details>
 

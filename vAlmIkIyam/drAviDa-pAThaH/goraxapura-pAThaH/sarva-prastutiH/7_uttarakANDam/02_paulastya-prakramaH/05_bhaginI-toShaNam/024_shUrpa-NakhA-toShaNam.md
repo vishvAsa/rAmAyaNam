@@ -48,7 +48,7 @@ Returning jubilantly toward Laṅkā, the wicked Rāvaṇa slaughters the kinsme
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Returning homeward in exultation (nivartamānaḥ saṃhṛṣṭaḥ), the exceedingly wicked-souled Rāvaṇa (rāvaṇas sudurātmavān) abducted along the road the daughters of kings, sages, gods, and Gandharvas (jahre pathi narendrarṣi-deva-gandharva-kanyakāḥ).
+Returning homeward in exultation (_nivartamānaḥ saṃhṛṣṭaḥ_), the exceedingly wicked-souled Rāvaṇa (_rāvaṇas sudurātmavān_) abducted along the road the daughters of kings, sages, gods, and Gandharvas (_jahre pathi narendrarṣi-deva-gandharva-kanyakāḥ_).
 </details>
 </details>
 
@@ -79,7 +79,7 @@ Returning homeward in exultation (nivartamānaḥ saṃhṛṣṭaḥ), the exce
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Whichever lovely maiden or married woman that rākṣasa espied (darśanīyāṃ hi rakṣaḥ sa kanyāṃ strīṃ vāpi paśyati), slaying her kinsmen (hatvā bandhujanaṃ tasyāḥ), he confined her inside his aerial car (vimāne tāṃ rurodha ha).
+Whichever lovely maiden or married woman that rākṣasa espied (_darśanīyāṃ hi rakṣaḥ sa kanyāṃ strīṃ vāpi paśyati_), slaying her kinsmen (_hatvā bandhujanaṃ tasyāḥ_), he confined her inside his aerial car (_vimāne tāṃ rurodha ha_).
 </details>
 </details>
 
@@ -110,7 +110,7 @@ Whichever lovely maiden or married woman that rākṣasa espied (darśanīyāṃ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-In this manner he forced aboard the aerial car (vimāne so ’dhyaropayat) the daughters of serpents, rākṣasas, Asuras, and mortals (pannaga-kanyāś ca rākṣasāsura-mānuṣīḥ), as well as the daughters of Yakṣas and Dānavas (yakṣa-dānava-kanyāś ca).
+In this manner he forced aboard the aerial car (_vimāne so ’dhyaropayat_) the daughters of serpents, rākṣasas, Asuras, and mortals (_pannaga-kanyāś ca rākṣasāsura-mānuṣīḥ_), as well as the daughters of Yakṣas and Dānavas (_yakṣa-dānava-kanyāś ca_).
 </details>
 </details>
 
@@ -144,7 +144,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All of them together out of grief shed scalding tears (tāś ca sarvāḥ samaṃ duḥkhān mumucur bāṣpajaṃ jalam), like tongues of fire (tulyam agnyarciṣām), born of the blaze of sorrow and terror (śokāgni-bhaya-sambhavam).
+All of them together out of grief shed scalding tears (_tāś ca sarvāḥ samaṃ duḥkhān mumucur bāṣpajaṃ jalam_), like tongues of fire (_tulyam agnyarciṣām_), born of the blaze of sorrow and terror (_śokāgni-bhaya-sambhavam_).
 </details>
 </details>
 
@@ -175,7 +175,7 @@ All of them together out of grief shed scalding tears (tāś ca sarvāḥ sama�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By those utterly faultless women (tābhiḥ sarvānavadyābhiḥ), with their inauspicious tears of fear and anguish (bhaya-śokāśivāśrubhiḥ), that aerial car was filled to overflowing, like the ocean by rivers (nadībhir iva sāgaraḥ āpūritaṃ vimānaṃ tat).
+By those utterly faultless women (_tābhiḥ sarvānavadyābhiḥ_), with their inauspicious tears of fear and anguish (_bhaya-śokāśivāśrubhiḥ_), that aerial car was filled to overflowing, like the ocean by rivers (_nadībhir iva sāgaraḥ āpūritaṃ vimānaṃ tat_).
 </details>
 </details>
 
@@ -206,7 +206,7 @@ By those utterly faultless women (tābhiḥ sarvānavadyābhiḥ), with their in
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Daughters of Nāgas and Gandharvas, daughters of great sages (nāga-gandharva-kanyāś ca maharṣi-tanayāś ca yāḥ), and daughters of Daityas and Dānavas wept by the hundreds inside the aerial chariot (vimāne śataśo ’rudan).
+Daughters of Nāgas and Gandharvas, daughters of great sages (_nāga-gandharva-kanyāś ca maharṣi-tanayāś ca yāḥ_), and daughters of Daityas and Dānavas wept by the hundreds inside the aerial chariot (_vimāne śataśo ’rudan_).
 </details>
 </details>
 
@@ -254,9 +254,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**7:** Long-haired, exquisitely limbed, with countenances like the full moon (dīrgha-keśyaḥ sucārvaṅgyaḥ pūrṇacandra-nibhānanāḥ), full-bosomed, and radiant at the waist like a diamond altar (pīna-stanyas tathā vajra-vedi-madhya-samaprabhāḥ),
+**7:** Long-haired, exquisitely limbed, with countenances like the full moon (_dīrgha-keśyaḥ sucārvaṅgyaḥ pūrṇacandra-nibhānanāḥ_), full-bosomed, and radiant at the waist like a diamond altar (_pīna-stanyas tathā vajra-vedi-madhya-samaprabhāḥ_),
 
-**8:** Captivating with hips curving like chariot-poles (ratha-kūbara-saṅkāśaiḥ śroṇi-deśair manoharāḥ), those women resembled celestial nymphs and gleamed like burnished gold (striyaḥ surāṅganā-prakhyā niṣṭapta-kanaka-prabhāḥ).
+**8:** Captivating with hips curving like chariot-poles (_ratha-kūbara-saṅkāśaiḥ śroṇi-deśair manoharāḥ_), those women resembled celestial nymphs and gleamed like burnished gold (_striyaḥ surāṅganā-prakhyā niṣṭapta-kanaka-prabhāḥ_).
 </details>
 </details>
 
@@ -289,7 +289,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Terrified by grief, anguish, and fear (śoka-duḥkha-bhaya-trastāḥ), those slender-waisted women grew distraught (vihvalāś ca sumadhyamāḥ); blazed all around by the wind of their hot sighs (tāsāṃ niśvāsa-vātena sarvataḥ sampradīpitam),
+Terrified by grief, anguish, and fear (_śoka-duḥkha-bhaya-trastāḥ_), those slender-waisted women grew distraught (_vihvalāś ca sumadhyamāḥ_); blazed all around by the wind of their hot sighs (_tāsāṃ niśvāsa-vātena sarvataḥ sampradīpitam_),
 </details>
 </details>
 
@@ -320,7 +320,7 @@ Terrified by grief, anguish, and fear (śoka-duḥkha-bhaya-trastāḥ), those s
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Puṣpaka shone like an agnihotra hearth with its sacrificial fires pent up within (agnihotram ivābhāti sanniruddhāgni puṣpakam); fallen under Ten-Neck’s sway (daśagrīva-vaśaṃ prāptāḥ), those grief-stricken women—
+Puṣpaka shone like an _agnihotra_ hearth with its sacrificial fires pent up within (_agnihotram ivābhāti sanniruddhāgni puṣpakam_); fallen under Ten-Neck’s sway (_daśagrīva-vaśaṃ prāptāḥ_), those grief-stricken women—
 </details>
 </details>
 
@@ -351,7 +351,7 @@ Puṣpaka shone like an agnihotra hearth with its sacrificial fires pent up with
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark-eyed and youthful, casting pitiful sidelong glances like does in a lion’s power (dīna-vakrekṣaṇāḥ śyāmā mṛgyaḥ siṃha-vaśā iva)—brooded there: one woman thought to herself, “Will he indeed devour me (kiṃ nu māṃ bhakṣayiṣyati)?”
+Dark-eyed and youthful, casting pitiful sidelong glances like does in a lion’s power (_dīna-vakrekṣaṇāḥ śyāmā mṛgyaḥ siṃha-vaśā iva_)—brooded there: one woman thought to herself, “Will he indeed devour me (_kiṃ nu māṃ bhakṣayiṣyati_)?”
 </details>
 </details>
 
@@ -385,7 +385,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Another, crushed with bitter sorrow, reflected (kācid dadhyau suduḥkhārtā): “Perhaps this demon will slay me (api māṃ mārayed ayam)!” Thus recalling their mothers, fathers, husbands, and brothers as well (mātṛ-pitṝn smṛtvā bhartṝn bhrātṝṃs tathaiva ca), overwhelmed by anguish and grief, those women lamented together (vilepuḥ sahitāḥ striyaḥ).
+Another, crushed with bitter sorrow, reflected (_kācid dadhyau suduḥkhārtā_): “Perhaps this demon will slay me (_api māṃ mārayed ayam_)!” Thus recalling their mothers, fathers, husbands, and brothers as well (_mātṛ-pitṝn smṛtvā bhartṝn bhrātṝṃs tathaiva ca_), overwhelmed by anguish and grief, those women lamented together (_vilepuḥ sahitāḥ striyaḥ_).
 </details>
 </details>
 
@@ -424,7 +424,7 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“How indeed will my son fare without me (kathaṃ nu khalu me putro bhaviṣyati mayā vinā)? How my mother, and how my brother, all plunged in an ocean of grief (nimagnāḥ śoka-sāgare)?
+“How indeed will my son fare without me (_kathaṃ nu khalu me putro bhaviṣyati mayā vinā_)? How my mother, and how my brother, all plunged in an ocean of grief (_nimagnāḥ śoka-sāgare_)?
 </details>
 </details>
 
@@ -461,11 +461,11 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**14:** “Alas, how shall I carry on without that husband of mine (hā kathaṃ nu kariṣyāmi bhartus tasmād ahaṃ vinā)? O Death, I beseech you, lead me away—a sharer in misery (mṛtyo prasādayāmi tvāṃ naya māṃ duḥkha-bhāginīm)! What evil deed indeed was committed by me of old in a former body (kin nu tad duṣkṛtaṃ karma purā dehāntare kṛtam)?
+**14:** “Alas, how shall I carry on without that husband of mine (_hā kathaṃ nu kariṣyāmi bhartus tasmād ahaṃ vinā_)? O Death, I beseech you, lead me away—a sharer in misery (_mṛtyo prasādayāmi tvāṃ naya māṃ duḥkha-bhāginīm_)! What evil deed indeed was committed by me of old in a former body (_kin nu tad duṣkṛtaṃ karma purā dehāntare kṛtam_)?
 
-**15:** “Thus indeed all of us, afflicted, have fallen into a sea of sorrow (patitāḥ śoka-sāgare); truly we now see no end to this misery of ours (na khalv idānīṃ paśyāmo duḥkhasyāsyāntam ātmanaḥ).
+**15:** “Thus indeed all of us, afflicted, have fallen into a sea of sorrow (_patitāḥ śoka-sāgare_); truly we now see no end to this misery of ours (_na khalv idānīṃ paśyāmo duḥkhasyāsyāntam ātmanaḥ_).
 
-**16:** “Oh, fie upon the mortal world (aho dhiṅ mānuṣaṃ lokam)! Assuredly there is no realm more wretched than this (nāsti khalv adhamaḥ paraḥ), since our feeble husbands have been destroyed by mighty Rāvaṇa (yad durbalā balavatā bhartāro rāvaṇena naḥ),
+**16:** “Oh, fie upon the mortal world (_aho dhiṅ mānuṣaṃ lokam_)! Assuredly there is no realm more wretched than this (_nāsti khalv adhamaḥ paraḥ_), since our feeble husbands have been destroyed by mighty Rāvaṇa (_yad durbalā balavatā bhartāro rāvaṇena naḥ_),
 </details>
 </details>
 
@@ -498,7 +498,7 @@ Weeping for bereaved sons, parents, and slain husbands, the captive women beseec
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Just as stars are extinguished in their hour by the rising sun (sūryeṇodayatā kāle nakṣatrāṇīva nāśitāḥ)! Alas, this exceedingly powerful rākṣasa devotes himself to instruments of slaughter (aho subalavad rakṣo vadhopāyeṣu yujyate)!
+“Just as stars are extinguished in their hour by the rising sun (_sūryeṇodayatā kāle nakṣatrāṇīva nāśitāḥ_)! Alas, this exceedingly powerful rākṣasa devotes himself to instruments of slaughter (_aho subalavad rakṣo vadhopāyeṣu yujyate_)!
 </details>
 </details>
 
@@ -532,7 +532,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Alas, persisting in wicked conduct, he does not despise himself (aho durvṛttam āsthāya nātmānaṃ vai jugupsate)! In every way, to be sure, this wicked-souled one’s prowess is fitting enough (sarvathā sadṛśas tāvad vikramo ’sya durātmanaḥ)—
+“Alas, persisting in wicked conduct, he does not despise himself (_aho durvṛttam āsthāya nātmānaṃ vai jugupsate_)! In every way, to be sure, this wicked-souled one’s prowess is fitting enough (_sarvathā sadṛśas tāvad vikramo ’sya durātmanaḥ_)—
 </details>
 </details>
 
@@ -571,7 +571,7 @@ Declaring abduction of others’ wives unworthy of any hero, the chaste captives
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“—yet this deed of laying hands upon the wives of others is wholly unworthy (idaṃ tv asadṛśaṃ karma paradārābhimarśanam)! Because this vilest of rākṣasas takes pleasure in women belonging to others (yasmād eṣa parakyāsu ramate rākṣasādhamaḥ),
+“—yet this deed of laying hands upon the wives of others is wholly unworthy (_idaṃ tv asadṛśaṃ karma paradārābhimarśanam_)! Because this vilest of rākṣasas takes pleasure in women belonging to others (_yasmād eṣa parakyāsu ramate rākṣasādhamaḥ_),
 </details>
 </details>
 
@@ -602,7 +602,7 @@ Declaring abduction of others’ wives unworthy of any hero, the chaste captives
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Therefore, on account of a woman alone shall this evil-minded wretch meet his death (tasmād vai strī-kṛtenaiva prāpsyate durmatir vadham)!” No sooner had this solemn speech been uttered by those chaste and noble women (satībhir vara-nārībhir evaṃ vākye ’bhyudīrite),
+“Therefore, on account of a woman alone shall this evil-minded wretch meet his death (_tasmād vai strī-kṛtenaiva prāpsyate durmatir vadham_)!” No sooner had this solemn speech been uttered by those chaste and noble women (_satībhir vara-nārībhir evaṃ vākye ’bhyudīrite_),
 </details>
 </details>
 
@@ -636,7 +636,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Heavenly kettledrums resounded in the sky and a shower of flowers fell (nedur dundubhayaḥ khasthāḥ puṣpa-vṛṣṭiḥ papāta ca); cursed all at once by those women (śaptaḥ strībhiḥ sa tu samam), he became dim, as if stripped of his vital splendor (hataujā iva niṣprabhaḥ),
+Heavenly kettledrums resounded in the sky and a shower of flowers fell (_nedur dundubhayaḥ khasthāḥ puṣpa-vṛṣṭiḥ papāta ca_); cursed all at once by those women (_śaptaḥ strībhiḥ sa tu samam_), he became dim, as if stripped of his vital splendor (_hataujā iva niṣprabhaḥ_),
 </details>
 </details>
 
@@ -667,7 +667,7 @@ Heavenly kettledrums resounded in the sky and a shower of flowers fell (nedur du
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-—cursed by those virtuous, devoted wives (pativratābhiḥ sādhvībhiḥ), he grew as if despondent (babhūva vimanā iva); yet even while hearing their lamentations (evaṃ vilapitaṃ tāsāṃ śṛṇvan), that bull among rākṣasas entered the city of Laṅkā, acclaimed by the night-roamers (praviveśa purīṃ laṅkāṃ pūjyamāno niśācaraiḥ).
+—cursed by those virtuous, devoted wives (_pativratābhiḥ sādhvībhiḥ_), he grew as if despondent (_babhūva vimanā iva_); yet even while hearing their lamentations (_evaṃ vilapitaṃ tāsāṃ śṛṇvan_), that bull among rākṣasas entered the city of Laṅkā, acclaimed by the night-roamers (_praviveśa purīṃ laṅkāṃ pūjyamāno niśācaraiḥ_).
 </details>
 </details>
 
@@ -698,7 +698,7 @@ Heavenly kettledrums resounded in the sky and a shower of flowers fell (nedur du
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-At that very moment, a terrifying, shape-shifting rākṣasī (ghorā rākṣasī kāma-rūpiṇī)—his own sister [Śūrpaṇakhā]—suddenly fell prostrate upon the ground (sahasā patitā bhūmau bhaginī rāvaṇasya sā).
+At that very moment, a terrifying, shape-shifting rākṣasī (_ghorā rākṣasī kāma-rūpiṇī_)—his own sister [Śūrpaṇakhā]—suddenly fell prostrate upon the ground (_sahasā patitā bhūmau bhaginī rāvaṇasya sā_).
 </details>
 </details>
 
@@ -729,7 +729,7 @@ At that very moment, a terrifying, shape-shifting rākṣasī (ghorā rākṣas�
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Raising up that sister of his and gently consoling her (tāṃ svasāraṃ samutthāpya rāvaṇaḥ parisāntvayan), Rāvaṇa spoke: “What is this, gentle sister (kim idaṃ bhadre)? Speak quickly what you desire to tell me (vaktukāmā ’si me drutam)!”
+Raising up that sister of his and gently consoling her (_tāṃ svasāraṃ samutthāpya rāvaṇaḥ parisāntvayan_), Rāvaṇa spoke: “What is this, gentle sister (_kim idaṃ bhadre_)? Speak quickly what you desire to tell me (_vaktukāmā ’si me drutam_)!”
 </details>
 </details>
 
@@ -768,7 +768,7 @@ With tear-choked, reddened eyes, Śūrpaṇakhā upbraids Rāvaṇa for making h
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With eyes choked with tears and glowing red (bāṣpa-pariruddhākṣī raktākṣī), she spoke these words: “O King, I have been made a widow by you, the mighty one, by sheer violence (kṛtā ’smi vidhavā rājaṃs tvayā balavatā balāt)!
+With eyes choked with tears and glowing red (_bāṣpa-pariruddhākṣī raktākṣī_), she spoke these words: “O King, I have been made a widow by you, the mighty one, by sheer violence (_kṛtā ’smi vidhavā rājaṃs tvayā balavatā balāt_)!
 </details>
 </details>
 
@@ -802,7 +802,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Those heroic Daityas, O King, whom you slew in battle (ete rājaṃs tvayā vīrā daityā vinihatā raṇe)—famed as the Kālakeyas, fourteen thousand in number (kālakeyā iti khyātāḥ sahasrāṇi caturdaśa)—among them was my mighty husband, dearer to me than life itself (prāṇebhyo ’pi garīyān me tatra bhartā mahābalaḥ)!
+“Those heroic Daityas, O King, whom you slew in battle (_ete rājaṃs tvayā vīrā daityā vinihatā raṇe_)—famed as the Kālakeyas, fourteen thousand in number (_kālakeyā iti khyātāḥ sahasrāṇi caturdaśa_)—among them was my mighty husband, dearer to me than life itself (_prāṇebhyo ’pi garīyān me tatra bhartā mahābalaḥ_)!
 </details>
 </details>
 
@@ -833,7 +833,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“He too was slain by you, O dear brother, a foe greedy of brotherly blood (so ’pi tvayā hatas tāta ripuṇā bhrātṛ-gṛdhnunā); by you yourself, my very own kinsman, have I been slain, O King (tvayā ’smi nihatā rājan svayam eva hi bandhunā)!
+“He too was slain by you, O dear brother, a foe greedy of brotherly blood (_so ’pi tvayā hatas tāta ripuṇā bhrātṛ-gṛdhnunā_); by you yourself, my very own kinsman, have I been slain, O King (_tvayā ’smi nihatā rājan svayam eva hi bandhunā_)!
 </details>
 </details>
 
@@ -864,7 +864,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O King, because of you shall I endure the reproachful name of widowhood (rājan vaidhavya-śabdaṃ ca bhokṣyāmi tvat-kṛte hy aham)! Surely indeed a brother-in-law ought to be spared by you even in battles (nanu nāma tvayā rakṣyo jāmātā samareṣv api)—yet you yourself slew him in combat, and are you not ashamed (sa tvayā nihato yuddhe svayam eva na lajjase)?”
+“O King, because of you shall I endure the reproachful name of widowhood (_rājan vaidhavya-śabdaṃ ca bhokṣyāmi tvat-kṛte hy aham_)! Surely indeed a brother-in-law ought to be spared by you even in battles (_nanu nāma tvayā rakṣyo jāmātā samareṣv api_)—yet you yourself slew him in combat, and are you not ashamed (_sa tvayā nihato yuddhe svayam eva na lajjase_)?”
 </details>
 </details>
 
@@ -898,7 +898,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Thus addressed by his wailing sister (evam ukto daśagrīvo bhaginyā krośamānayā), Ten-Neck comforted her and spoke these conciliatory words (abravīt sāntvayitvā tāṃ sāma-pūrvam idaṃ vacaḥ):
+Thus addressed by his wailing sister (_evam ukto daśagrīvo bhaginyā krośamānayā_), Ten-Neck comforted her and spoke these conciliatory words (_abravīt sāntvayitvā tāṃ sāma-pūrvam idaṃ vacaḥ_):
 </details>
 </details>
 
@@ -929,7 +929,7 @@ Thus addressed by his wailing sister (evam ukto daśagrīvo bhaginyā krośamān
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Enough of your weeping, dear child (alaṃ vatse ruditvā te), and you need have no fear on any account (na bhetavyaṃ ca sarvaśaḥ); with gifts, honors, and favors I shall diligently content you (dāna-māna-prasādais tvāṃ toṣayiṣyāmi yatnataḥ)!
+“Enough of your weeping, dear child (_alaṃ vatse ruditvā te_), and you need have no fear on any account (_na bhetavyaṃ ca sarvaśaḥ_); with gifts, honors, and favors I shall diligently content you (_dāna-māna-prasādais tvāṃ toṣayiṣyāmi yatnataḥ_)!
 </details>
 </details>
 
@@ -968,7 +968,7 @@ Pleading that battle-frenzy blinded him to friend and foe alike, Rāvaṇa resol
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Maddened by battle, distracted, and eager for victory as I discharged my shafts (yuddha-pramatto vyākṣipto jayākāṅkṣī kṣipañ charān), I do not distinguish friend from foe in combat, O fair one (nāvagacchāmi yuddheṣu svān parān vāpy ahaṃ śubhe).
+“Maddened by battle, distracted, and eager for victory as I discharged my shafts (_yuddha-pramatto vyākṣipto jayākāṅkṣī kṣipañ charān_), I do not distinguish friend from foe in combat, O fair one (_nāvagacchāmi yuddheṣu svān parān vāpy ahaṃ śubhe_).
 </details>
 </details>
 
@@ -1002,7 +1002,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Intoxicated with war as I struck, I did not recognize my brother-in-law (jāmātaraṃ na jāne sma praharan yuddha-durmadaḥ); therefore was your husband slain by me in battle, O sister (tenāsau nihataḥ saṅkhye mayā bhartā tava svasaḥ)!
+“Intoxicated with war as I struck, I did not recognize my brother-in-law (_jāmātaraṃ na jāne sma praharan yuddha-durmadaḥ_); therefore was your husband slain by me in battle, O sister (_tenāsau nihataḥ saṅkhye mayā bhartā tava svasaḥ_)!
 </details>
 </details>
 
@@ -1035,9 +1035,9 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**33:** “Yet what is fitting at this juncture, that welfare I shall arrange for you (asmin kāle tu yat prāptaṃ tat kariṣyāmi te hitam): dwell beside your cousin-brother Khara, who is endowed with sovereignty (bhrātur aiśvarya-yuktasya kharasya vasa pārśvataḥ)!
+**33:** “Yet what is fitting at this juncture, that welfare I shall arrange for you (_asmin kāle tu yat prāptaṃ tat kariṣyāmi te hitam_): dwell beside your cousin-brother Khara, who is endowed with sovereignty (_bhrātur aiśvarya-yuktasya kharasya vasa pārśvataḥ_)!
 
-**34:** “That mighty brother of yours shall become lord of fourteen thousand rākṣasas (caturdaśānāṃ bhrātā te sahasrāṇāṃ bhaviṣyati prabhuḥ) in dispatching expeditions and bestowing largesse (prayāṇe dāne ca rākṣasānāṃ mahābalaḥ).
+**34:** “That mighty brother of yours shall become lord of fourteen thousand rākṣasas (_caturdaśānāṃ bhrātā te sahasrāṇāṃ bhaviṣyati prabhuḥ_) in dispatching expeditions and bestowing largesse (_prayāṇe dāne ca rākṣasānāṃ mahābalaḥ_).
 </details>
 </details>
 
@@ -1071,7 +1071,7 @@ _________________
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There this brother of yours, Khara—your maternal aunt’s son—shall be sovereign (tatra mātṛṣvaseyas te bhrātā ’yaṃ vai kharaḥ prabhuḥ), forever carrying out your command, a night-roamer (bhaviṣyati tavādeśaṃ sadā kurvan niśācaraḥ)!
+“There this brother of yours, Khara—your maternal aunt’s son—shall be sovereign (_tatra mātṛṣvaseyas te bhrātā ’yaṃ vai kharaḥ prabhuḥ_), forever carrying out your command, a night-roamer (_bhaviṣyati tavādeśaṃ sadā kurvan niśācaraḥ_)!
 </details>
 </details>
 
@@ -1112,7 +1112,7 @@ Appointing Dūṣaṇa as general under Khara and assigning them fourteen thousa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“Let this hero depart swiftly to protect the Daṇḍaka forest (śīghraṃ gacchatv ayaṃ vīro daṇḍakān parirakṣitum); the exceedingly mighty Dūṣaṇa shall be commander of his forces (dūṣaṇo ’sya balādhyakṣo bhaviṣyati mahābalaḥ).
+“Let this hero depart swiftly to protect the Daṇḍaka forest (_śīghraṃ gacchatv ayaṃ vīro daṇḍakān parirakṣitum_); the exceedingly mighty Dūṣaṇa shall be commander of his forces (_dūṣaṇo ’sya balādhyakṣo bhaviṣyati mahābalaḥ_).
 </details>
 </details>
 
@@ -1143,7 +1143,7 @@ Appointing Dūṣaṇa as general under Khara and assigning them fourteen thousa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“There the valiant Khara shall ever carry out your word (tatra te vacanaṃ śūraḥ kariṣyati sadā kharaḥ), and he shall be sovereign over shape-shifting rākṣasas (rakṣasāṃ kāma-rūpāṇāṃ prabhur eṣa bhaviṣyati)!”
+“There the valiant Khara shall ever carry out your word (_tatra te vacanaṃ śūraḥ kariṣyati sadā kharaḥ_), and he shall be sovereign over shape-shifting rākṣasas (_rakṣasāṃ kāma-rūpāṇāṃ prabhur eṣa bhaviṣyati_)!”
 </details>
 </details>
 
@@ -1174,7 +1174,7 @@ Appointing Dūṣaṇa as general under Khara and assigning them fourteen thousa
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken thus, Ten-Neck assigned an army to him (evam uktvā daśagrīvaḥ sainyam asyādideśa ha)—fourteen thousand rākṣasas endowed with great valor (caturdaśa sahasrāṇi rakṣasāṃ vīrya-śālinām).
+Having spoken thus, Ten-Neck assigned an army to him (_evam uktvā daśagrīvaḥ sainyam asyādideśa ha_)—fourteen thousand rākṣasas endowed with great valor (_caturdaśa sahasrāṇi rakṣasāṃ vīrya-śālinām_).
 </details>
 </details>
 
@@ -1205,7 +1205,7 @@ Having spoken thus, Ten-Neck assigned an army to him (evam uktvā daśagrīvaḥ
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Surrounded by all those rākṣasas of terrifying aspect (sa taiḥ parivṛtas sarvai rākṣasair ghora-darśanaiḥ), fearless Khara marched swiftly to the Daṇḍaka forest (āgacchata kharaḥ śīghraṃ daṇḍakān akutobhayaḥ).
+Surrounded by all those rākṣasas of terrifying aspect (_sa taiḥ parivṛtas sarvai rākṣasair ghora-darśanaiḥ_), fearless Khara marched swiftly to the Daṇḍaka forest (_āgacchata kharaḥ śīghraṃ daṇḍakān akutobhayaḥ_).
 </details>
 </details>
 
@@ -1255,7 +1255,7 @@ Surrounded by all those rākṣasas of terrifying aspect (sa taiḥ parivṛtas 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-There he established a kingdom free of all thorns (sa tatra kārayāmāsa rājyaṃ nihata-kaṇṭakam), and Śūrpaṇakhā dwelt there in the Daṇḍaka woods (sā ca śūrpaṇakhā tatra nyavasad daṇḍakāvane).
+There he established a kingdom free of all thorns (_sa tatra kārayāmāsa rājyaṃ nihata-kaṇṭakam_), and Śūrpaṇakhā dwelt there in the Daṇḍaka woods (_sā ca śūrpaṇakhā tatra nyavasad daṇḍakāvane_).
 </details>
 </details>
 

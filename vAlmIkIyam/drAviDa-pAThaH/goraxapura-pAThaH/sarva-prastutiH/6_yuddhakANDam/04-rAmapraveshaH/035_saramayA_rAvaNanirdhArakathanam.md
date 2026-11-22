@@ -81,7 +81,7 @@ resonant roll of kettle drums, mingled with the blast of couches.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-With that resounding roar of war-drums mingled with the blare of conchs, mighty-armed Rāma, the conqueror of enemy citadels (parapuraṃjayaḥ), approaches [Laṅkā].
+With that resounding roar of war-drums mingled with the blare of conchs, mighty-armed Rāma, the conqueror of enemy citadels (_parapuraṃjayaḥ_), approaches [Laṅkā].
 </details>
 </details>
 
@@ -133,7 +133,7 @@ looked towards his ministers.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Hearing that tumult, Rāvaṇa, the lord of rākṣasas, plunged into reflection (dhyānam āsthāya) for a moment and surveyed his ministers.
+Hearing that tumult, Rāvaṇa, the lord of _rākṣasas_, plunged into reflection (_dhyānam āsthāya_) for a moment and surveyed his ministers.
 </details>
 </details>
 
@@ -263,9 +263,9 @@ Rama, you too look on each other in silence."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**4:** The cruel lord of rākṣasas, the tormentor of the worlds (jagatsaṃtāpanaḥ), [spoke] censuring the crossing of the ocean as well as [Rāma's] valor and martial prowess:
+**4:** The cruel lord of _rākṣasas_, the tormentor of the worlds (_jagatsaṃtāpanaḥ_), [spoke] censuring the crossing of the ocean as well as [Rāma&#x27;s] valor and martial prowess:
 
-**5:** “What you have spoken regarding Rāma has been heard by me. Even knowing you to be of unfailing valor in battle, I behold you silently (tūṣṇīkān) gazing at one another upon learning of Rāma's prowess!”
+**5:** “What you have spoken regarding Rāma has been heard by me. Even knowing you to be of unfailing valor in battle, I behold you silently (_tūṣṇīkān_) gazing at one another upon learning of Rāma&#x27;s prowess!”
 </details>
 </details>
 
@@ -320,7 +320,7 @@ intelligent demon called Malyavan, answered him thus:
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Then, upon hearing the words of Rāvaṇa, a rākṣasa of supreme wisdom named Mālyavān, his maternal grandfather (mātāmahaḥ), spoke as follows:
+Then, upon hearing the words of Rāvaṇa, a _rākṣasa_ of supreme wisdom named Mālyavān, his maternal grandfather (_mātāmahaḥ_), spoke as follows:
 </details>
 </details>
 
@@ -386,7 +386,7 @@ constitute fourteen sciences.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-“O king, that monarch who is thoroughly schooled in the branches of royal learning (vidyāsv abhivinītaḥ) and adheres to sound policy (nayānugaḥ) rules over sovereignty for a long time and brings his foes under his sway.
+“O king, that monarch who is thoroughly schooled in the branches of royal learning (_vidyāsv abhivinītaḥ_) and adheres to sound policy (_nayānugaḥ_) rules over sovereignty for a long time and brings his foes under his sway.
 </details>
 </details>
 
@@ -438,7 +438,7 @@ his own party and attains a great power."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Making peace (saṃdadhānaḥ) at the proper season and waging war (vigṛhṇan) with enemies [when advantageous], while strengthening his own side, he attains supreme sovereignty.
+Making peace (_saṃdadhānaḥ_) at the proper season and waging war (_vigṛhṇan_) with enemies [when advantageous], while strengthening his own side, he attains supreme sovereignty.
 </details>
 </details>
 
@@ -492,7 +492,7 @@ enemy."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Peace (saṃdhiḥ) should be concluded by a king who is declining or equal in strength; he should never underestimate an enemy, and only when superior in power (jyāyān) should he wage war.
+Peace (_saṃdhiḥ_) should be concluded by a king who is declining or equal in strength; he should never underestimate an enemy, and only when superior in power (_jyāyān_) should he wage war.
 </details>
 </details>
 
@@ -545,7 +545,7 @@ for whose sake you are being attacked, be restored to him."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Therefore, O Rāvaṇa, peace with Rāma commends itself to me; let Sītā, on whose account you are assailed (abhiyukto 'si), be surrendered to him!
+Therefore, O Rāvaṇa, peace with Rāma commends itself to me; let Sītā, on whose account you are assailed (_abhiyukto &#x27;si_), be surrendered to him!
 </details>
 </details>
 
@@ -598,7 +598,7 @@ victory of Rama. Do not get an enmity with them. Let alliance with him be accept
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All the celestial sages (devarṣayaḥ) and gandharvas desire his victory; do not enter into hostility with him—let peace with him please you!
+All the celestial sages (_devarṣayaḥ_) and _gandharvas_ desire his victory; do not enter into hostility with him—let peace with him please you!
 </details>
 </details>
 
@@ -651,7 +651,7 @@ and the demons. Celestials take refuge in righteousness and demons in unrighteou
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-The adorable grandsire Brahmā created two sides alone for the gods and the asuras—righteousness and unrighteousness (dharmādharmau), which have those two as their respective abodes (tadāśrayau).
+The adorable grandsire Brahmā created two sides alone for the gods and the _asuras_—righteousness and unrighteousness (_dharmādharmau_), which have those two as their respective abodes (_tadāśrayau_).
 </details>
 </details>
 
@@ -712,7 +712,7 @@ Unrighteousness is indeed on the side of ogres and demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteousness (dharmaḥ), indeed, is declared to be the side of the high-souled immortals, whereas unrighteousness (adharmaḥ), O rākṣasa, is the side of the rākṣasas and the asuras.
+Righteousness (_dharmaḥ_), indeed, is declared to be the side of the high-souled immortals, whereas unrighteousness (_adharmaḥ_), O _rākṣasa_, is the side of the _rākṣasas_ and the _asuras_.
 </details>
 </details>
 
@@ -768,7 +768,7 @@ When unrighteousness swallows righteousness, it incites Kali Yuga the fourth age
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Righteousness verily swallows up unrighteousness when the Kṛta age (kṛtam yugam) comes into being; unrighteousness swallows up righteousness when the Tiṣya [Kali] age (tiṣyaḥ) prevails.
+Righteousness verily swallows up unrighteousness when the Kṛta age (_kṛtam yugam_) comes into being; unrighteousness swallows up righteousness when the Tiṣya [Kali] age (_tiṣyaḥ_) prevails.
 </details>
 </details>
 
@@ -874,7 +874,7 @@ favourable to demons, the sect of demons is thereby getting augmented."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Swollen through your negligence (pramādāt), that serpent of unrighteousness (adharmo 'hiḥ) now devours us, whereas [righteousness], cherished by the gods (surabhāvanaḥ), augments the side of the celestials.
+Swollen through your negligence (_pramādāt_), that serpent of unrighteousness (_adharmo &#x27;hiḥ_) now devours us, whereas [righteousness], cherished by the gods (_surabhāvanaḥ_), augments the side of the celestials.
 </details>
 </details>
 
@@ -929,7 +929,7 @@ created a great alarm in the sages, having the nature of fire."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-By you, addicted to sensual pleasures (viṣayeṣu prasantena) and acting recklessly at whim (yatkiṃcitkāriṇā), great distress has been caused to the sages who are like blazing fire.
+By you, addicted to sensual pleasures (_viṣayeṣu prasantena_) and acting recklessly at whim (_yatkiṃcitkāriṇā_), great distress has been caused to the sages who are like blazing fire.
 </details>
 </details>
 
@@ -960,7 +960,7 @@ By you, addicted to sensual pleasures (viṣayeṣu prasantena) and acting reckl
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Their spiritual power (prabhāvaḥ) is unassailable like a blazing fire; with their souls purified by austerity (tapasā bhāvitātmānaḥ), they delight in upholding righteousness.
+Their spiritual power (_prabhāvaḥ_) is unassailable like a blazing fire; with their souls purified by austerity (_tapasā bhāvitātmānaḥ_), they delight in upholding righteousness.
 </details>
 </details>
 
@@ -999,7 +999,7 @@ Mālyavān describes how the twice-born sages' Vedic chants, sacrificial smoke, 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Those self-controlled twice-born sages (dvijātayaḥ) perform those foremost sacrifices, offer oblations into the sacred fires according to ritual precept, and recite the Vedas aloud.
+Those self-controlled twice-born sages (_dvijātayaḥ_) perform those foremost sacrifices, offer oblations into the sacred fires according to ritual precept, and recite the Vedas aloud.
 </details>
 </details>
 
@@ -1061,7 +1061,7 @@ all directions, as thundering clouds in a hot season."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Overpowering the rākṣasas, they sent forth the reverberations of Vedic chant (brahmaghoṣān); [the rākṣasas] fled in all directions like thunderclouds at the onset of summer (uṣṇage).
+Overpowering the _rākṣasas_, they sent forth the reverberations of Vedic chant (_brahmaghoṣān_); [the _rākṣasas_] fled in all directions like thunderclouds at the onset of summer (_uṣṇage_).
 </details>
 </details>
 
@@ -1114,7 +1114,7 @@ brilliance), enveloping the ten directions, takes away the magical power of the 
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Rising from the agnihotra oblations of the fire-like sages and pervading the ten directions, the sacrificial smoke (dhūmaḥ) snatches away the vital radiance (tejaḥ) of the rākṣasas.
+Rising from the _agnihotra_ oblations of the fire-like sages and pervading the ten directions, the sacrificial smoke (_dhūmaḥ_) snatches away the vital radiance (_tejaḥ_) of the _rākṣasas_.
 </details>
 </details>
 
@@ -1166,7 +1166,7 @@ countries torment the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Practiced in those sacred regions by ascetics of firm vows (dṛḍhavrataiḥ), fierce austerity torments the rākṣasas.
+Practiced in those sacred regions by ascetics of firm vows (_dṛḍhavrataiḥ_), fierce austerity torments the _rākṣasas_.
 </details>
 </details>
 
@@ -1199,7 +1199,7 @@ Practiced in those sacred regions by ascetics of firm vows (dṛḍhavrataiḥ),
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Moreover, the boon of invulnerability (varaḥ) was obtained by you from gods, dānavas, and yakṣas [alone]; yet mighty men, vānaras, bears, and golāṅgūla monkeys of firm valor have come here and are roaring!
+Moreover, the boon of invulnerability (_varaḥ_) was obtained by you from gods, _dānavas_, and _yakṣas_ [alone]; yet mighty men, _vānaras_, bears, and _golāṅgūla_ monkeys of firm valor have come here and are roaring!
 </details>
 </details>
 
@@ -1248,7 +1248,7 @@ are coming hither, roaring like lions."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Beholding manifold, terrible, and diverse portents (utpātān) in great numbers, I foresee the destruction of all the rākṣasas.
+Beholding manifold, terrible, and diverse portents (_utpātān_) in great numbers, I foresee the destruction of all the _rākṣasas_.
 </details>
 </details>
 
@@ -1309,7 +1309,7 @@ things, I am perceiving a destruction of all the demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dreadful, terrifying clouds roaring with harsh thunder (kharābhistanitāḥ) rain down hot blood (śoṇitena uṣṇena) upon Laṅkā on every side.
+Dreadful, terrifying clouds roaring with harsh thunder (_kharābhistanitāḥ_) rain down hot blood (_śoṇitena uṣṇena_) upon Laṅkā on every side.
 </details>
 </details>
 
@@ -1361,7 +1361,7 @@ Lanka on every side."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Tears fall from the weeping mounts (vāhanānām); covered with dust and drained of color (vivarṇāḥ), [the quarters and banners] do not shine as before (yathāpuram).
+Tears fall from the weeping mounts (_vāhanānām_); covered with dust and drained of color (_vivarṇāḥ_), [the quarters and banners] do not shine as before (_yathāpuram_).
 </details>
 </details>
 
@@ -1413,7 +1413,7 @@ discoloured, covered with dust and are not shining as before."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Predatory beasts (vyālāḥ), jackals, and vultures howl most frightfully and, entering Laṅkā, gather in packs inside the pleasure-groves (ārāme).
+Predatory beasts (_vyālāḥ_), jackals, and vultures howl most frightfully and, entering Laṅkā, gather in packs inside the pleasure-groves (_ārāme_).
 </details>
 </details>
 
@@ -1465,7 +1465,7 @@ are in the groves, forming into groups."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dark-complexioned women (kālikāḥ) standing in front laugh aloud with white teeth (pāṇḍurair dantaiḥ), plundering the houses in dreams after speaking [inauspiciously].
+Dark-complexioned women (_kālikāḥ_) standing in front laugh aloud with white teeth (_pāṇḍurair dantaiḥ_), plundering the houses in dreams after speaking [inauspiciously].
 </details>
 </details>
 
@@ -1521,7 +1521,7 @@ in front, laughing loudly with their white teeth."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Dogs devour the ritual offerings (balikarmāṇi) of the households; asses are born among cows, and mice among mongooses (nakuleṣu).
+Dogs devour the ritual offerings (_balikarmāṇi_) of the households; asses are born among cows, and mice among mongooses (_nakuleṣu_).
 </details>
 </details>
 
@@ -1584,7 +1584,7 @@ rats of mongoose."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Cats mate with leopards (dvīpibhiḥ sārdham), swine with dogs, and kiṃnaras too consort with rākṣasas as well as with humans.
+Cats mate with leopards (_dvīpibhiḥ sārdham_), swine with dogs, and _kiṃnaras_ too consort with _rākṣasas_ as well as with humans.
 </details>
 </details>
 
@@ -1638,7 +1638,7 @@ men."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Impelled by Time (kālacoditāḥ), pale, red-footed birds—pigeons (kapotāḥ)—roam about to herald the destruction of the rākṣasas.
+Impelled by Time (_kālacoditāḥ_), pale, red-footed birds—pigeons (_kapotāḥ_)—roam about to herald the destruction of the _rākṣasas_.
 </details>
 </details>
 
@@ -1693,7 +1693,7 @@ foretelling the extermination of demons."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Screeching ‘cīcīkūcī’ (cīcīkūcīti vāśantyaḥ), female śārikā mynah birds perched in the houses fall down entangled, vanquished by quarrelsome birds (kalahaiṣibhiḥ).
+Screeching ‘_cīcīkūcī_’ (_cīcīkūcīti vāśantyaḥ_), female _śārikā_ mynah birds perched in the houses fall down entangled, vanquished by quarrelsome birds (_kalahaiṣibhiḥ_).
 </details>
 </details>
 
@@ -1751,7 +1751,7 @@ bellicose birds drop down, being twined together in groups."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-All those birds and beasts weep facing the sun (pratyādityam); and a fanged, hideous, bald man (puruṣaḥ), dark and tawny (kṛṣṇapiṅgalaḥ)—
+All those birds and beasts weep facing the sun (_pratyādityam_); and a fanged, hideous, bald man (_puruṣaḥ_), dark and tawny (_kṛṣṇapiṅgalaḥ_)—
 </details>
 </details>
 
@@ -1818,11 +1818,11 @@ dwellings, both morning and evening. These and such other sinister omens appear.
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-**34:** —Time (kālaḥ) himself peers into the houses of all at every twilight (kāle kāle); these and other sinister portents (duṣṭāni nimittāni) are springing up!
+**34:** —Time (_kālaḥ_) himself peers into the houses of all at every twilight (_kāle kāle_); these and other sinister portents (_duṣṭāni nimittāni_) are springing up!
 
-**35:** We deem Rāma to be Viṣṇu who has assumed a human form (mānuṣaṃ rūpam āsthitam); for this Rāghava of unshakable valor is no mere mortal (mānuṣamātraḥ).
+**35:** We deem Rāma to be Viṣṇu who has assumed a human form (_mānuṣaṃ rūpam āsthitam_); for this Rāghava of unshakable valor is no mere mortal (_mānuṣamātraḥ_).
 
-**36:** Make peace, O Rāvaṇa, with Rāma, the king of men, by whom that supremely wondrous bridge (setuḥ) was built across the ocean! Having known and weighed his deeds, let what is salutary for the future (āyatikṣamam) be done!”
+**36:** Make peace, O Rāvaṇa, with Rāma, the king of men, by whom that supremely wondrous bridge (_setuḥ_) was built across the ocean! Having known and weighed his deeds, let what is salutary for the future (_āyatikṣamam_) be done!”
 </details>
 </details>
 
@@ -1892,7 +1892,7 @@ is good for the future be done after a mature understanding."
 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
-Having spoken this speech to him and once again gauged the mind of the lord of rākṣasas, the mighty Mālyavān, of supreme valor among the foremost, fell silent while gazing steadily upon Rāvaṇa.
+Having spoken this speech to him and once again gauged the mind of the lord of _rākṣasas_, the mighty Mālyavān, of supreme valor among the foremost, fell silent while gazing steadily upon Rāvaṇa.
 </details>
 </details>
 
