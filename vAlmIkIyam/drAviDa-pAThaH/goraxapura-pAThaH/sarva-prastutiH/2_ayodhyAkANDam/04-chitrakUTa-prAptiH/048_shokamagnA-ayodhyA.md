@@ -1724,7 +1724,7 @@ With sacrificial fires extinguished, Vedic recitation and Purāṇic discourse h
 **पदच्छेदः**
 
 *34. saa nagarii* = That city of Ayodhya; *nashhTa jvalana
-sampataa* = in which kindling of fires had ceased; *prashantaadhyaaya satkathaa* =
+santaapaa* = in which kindling of fires had ceased; *prashantaadhyaaya satkathaa* =
 chanting of Vedas and narration of sacred stories died out; *babhou* = looked;
 *abhilipteva* = as though coated; *timireNa* = with darkness; *tadaa* = at
 this time.
