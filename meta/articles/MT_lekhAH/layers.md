@@ -96,6 +96,11 @@ this is more likely explained as a shaiva coping reaction to the (then) solidly 
 ### vAyu
 While the god vAyu is experienced by all daily, most H who have not studied the depths of the shruti and the also the Iranian religion cannot connect to his deeper essence or that of his dvandva with indra. In order to remedy that, the sage vAlmIki has placed that essence in the rAmAyaNa and it can be accessed by a wider audience.
 
+#### vAyu in the lead
+The vAyavyam pashu - It is offered at fore in the soma yAga. It captures the unique position of vAyu in the Indo-Iranian tradition that the shruti explains as pertaining to him going at the front of deva forces in the battle against vR^itra. On account of that he receives the first sacrifices and soma offerings. 
+
+vAlmIki who is faithful the shruti, reflects this in placing hanUmat, the manifestation of vAyu, at the forefront in the actions against lankA. Thus, he precedes rAma, the manifestation of indra, even as vAyu does in the sacrifice.
+
 ### sItA disappearance
 We believe that, like agni-parīkṣā of Sītā, the disappearance of Sītā into the earth is also symbolic: the plowed land that is separated from Indra returns to a chthonic+++(=underworldic)+++ state.
 
